@@ -1,5 +1,4 @@
-**hCalendar**（**HTML
-iCalendar**的縮寫）是一種[微格式](../Page/微格式.md "wikilink")標準，它采用[iCalendar格式](https://zh.wikipedia.org/wiki/iCalendar "wikilink")，以語義[(X)HTML的形式](../Page/HTML.md "wikilink")，在網頁上表示一個事件的[日曆信息](https://zh.wikipedia.org/wiki/日曆 "wikilink")。
+**hCalendar**（**HTML iCalendar**的縮寫）是一種[微格式](../Page/微格式.md "wikilink")標準，它采用[iCalendar格式](https://zh.wikipedia.org/wiki/iCalendar "wikilink")，以語義[(X)HTML的形式](../Page/HTML.md "wikilink")，在網頁上表示一個事件的[日曆信息](https://zh.wikipedia.org/wiki/日曆 "wikilink")。
 
 ## 例子
 
@@ -37,7 +36,6 @@ iCalendar**的縮寫）是一種[微格式](../Page/微格式.md "wikilink")標�
 
 ## 參見
 
-[微格式](../Page/微格式.md "wikilink")
-[hCard](https://zh.wikipedia.org/wiki/hCard "wikilink")
+[微格式](../Page/微格式.md "wikilink") [hCard](https://zh.wikipedia.org/wiki/hCard "wikilink")
 
 [Category:微格式](https://zh.wikipedia.org/wiki/Category:微格式 "wikilink")

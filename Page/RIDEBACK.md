@@ -2,9 +2,7 @@
 
 ## 剧情简介
 
-主人公尾形琳出生于2001年9月11日\[1\]，是[芭蕾演员尾形由纪的女儿](https://zh.wikipedia.org/wiki/芭蕾 "wikilink")。憧憬母亲的她从小练习芭蕾舞，并且小有成就。2014年，她的母亲死于地震，之后在2017年她因为受伤\[2\]
-而决定放弃芭蕾舞。2020年，她进入武藏野文艺大学。一天，她偶然地\[3\]
-进入了Rideback部的房子。在部员菱田春树的劝诱下，她坐上一台Rideback，而这一瞬间改变了自己的人生和世界的命运。
+主人公尾形琳出生于2001年9月11日\[1\]，是[芭蕾演员尾形由纪的女儿](https://zh.wikipedia.org/wiki/芭蕾 "wikilink")。憧憬母亲的她从小练习芭蕾舞，并且小有成就。2014年，她的母亲死于地震，之后在2017年她因为受伤\[2\] 而决定放弃芭蕾舞。2020年，她进入武藏野文艺大学。一天，她偶然地\[3\] 进入了Rideback部的房子。在部员菱田春树的劝诱下，她坐上一台Rideback，而这一瞬间改变了自己的人生和世界的命运。
 
 ## 出場人物
 
@@ -76,8 +74,7 @@
 ## RIDEBACK
 
   -
-    TERYAN
-    KADURO製造，350[cc的RIDEBACK](https://zh.wikipedia.org/wiki/立方公分 "wikilink")。琳的愛用車。
+    TERYAN KADURO製造，350[cc的RIDEBACK](https://zh.wikipedia.org/wiki/立方公分 "wikilink")。琳的愛用車。
 
   -
 
@@ -124,16 +121,14 @@
   - 动画制作：[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")
   - 制片：原史倫、大貫一雄、上田耕行
   - 执行制片：丸田順吾、竹内茂樹、川村明廣
-  - 製作：「Rideback」製作委員会（Madhouse、Inter Channel、[Geneon
-    Entertainment](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilink")）
+  - 製作：「Rideback」製作委員会（Madhouse、Inter Channel、[Geneon Entertainment](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilink")）
 
 ### 主題歌
 
   - 片头曲「RIDEBACK」
     作詞：MELL、作曲・編曲：[高瀬一矢](https://zh.wikipedia.org/wiki/高瀬一矢 "wikilink")、歌：[MELL](https://zh.wikipedia.org/wiki/MELL "wikilink")
   - 片尾曲「記憶」
-    作詞：[ユンナ](https://zh.wikipedia.org/wiki/ユンナ "wikilink")・[AMADORI](https://zh.wikipedia.org/wiki/AMADORI "wikilink")、作曲・編曲：Tablo、歌：ユンナ
-    feat GOKU
+    作詞：[ユンナ](https://zh.wikipedia.org/wiki/ユンナ "wikilink")・[AMADORI](https://zh.wikipedia.org/wiki/AMADORI "wikilink")、作曲・編曲：Tablo、歌：ユンナ feat GOKU
 
 ### 各話列表
 
@@ -214,8 +209,7 @@
 
 ## 外部链接
 
-  - [IKKI
-    連載作品介绍](https://web.archive.org/web/20090110094646/http://www.ikki-para.com/comix/rideback.html)
+  - [IKKI 連載作品介绍](https://web.archive.org/web/20090110094646/http://www.ikki-para.com/comix/rideback.html)
   - [动画官网](https://web.archive.org/web/20081224185315/http://www.rideback-anime.jp/)
 
 [Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink")

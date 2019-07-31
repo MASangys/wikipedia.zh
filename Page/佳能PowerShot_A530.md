@@ -1,14 +1,11 @@
 [Canon_PowerShot_A530.jpg](https://zh.wikipedia.org/wiki/File:Canon_PowerShot_A530.jpg "fig:Canon_PowerShot_A530.jpg")
 
-**佳能 PowerShot
-A530**是一款[佳能相机](../Page/佳能.md "wikilink")，于[2006年3月推出](../Page/2006年3月.md "wikilink")。A530是Canon
-PowerShot 500系列里比较奇怪的一款机器，
+**佳能 PowerShot A530**是一款[佳能](../Page/佳能.md "wikilink")相机，于[2006年3月](../Page/2006年3月.md "wikilink")推出。A530是Canon PowerShot 500系列里比较奇怪的一款机器，
 
 一方面，
 
   - 对象素进行了升级，相对A510/A520，A530/A540分别多出二百万象素；
-  - 图象处理器由原来的[DIGIC升级为DIGIC](https://zh.wikipedia.org/wiki/DIGIC "wikilink")
-    II。
+  - 图象处理器由原来的[DIGIC升级为DIGIC](https://zh.wikipedia.org/wiki/DIGIC "wikilink") II。
 
 另外一方面，
 
@@ -17,8 +14,7 @@ PowerShot 500系列里比较奇怪的一款机器，
   - 取消了快门优先与光圈优先模式；
   - 自从A70以来倍受好评的预留镜头转接环也消失了，使得A530不能如其他500系列的相机一样加装滤镜。
 
-佳能在A530/A540及PowerShot
-600系列上开始使用[树脂镜头](../Page/树脂.md "wikilink")，推测可能是处于成本考虑，但这一举措在爱好者中产生不满，认为树脂镜头透光不好，有老化问题，有部分用户反应图象有暗斑，怀疑与镜头质量不稳定有关。
+佳能在A530/A540及PowerShot 600系列上开始使用[树脂](../Page/树脂.md "wikilink")镜头，推测可能是处于成本考虑，但这一举措在爱好者中产生不满，认为树脂镜头透光不好，有老化问题，有部分用户反应图象有暗斑，怀疑与镜头质量不稳定有关。
 
 2006年下半年，由于发现编号前两位为21、22、23、24的部分A530和[A540由于电池盖的弹簧过长](https://zh.wikipedia.org/wiki/Canon_PowerShot_A540 "wikilink")，使得相机会出现电池短路而造成过热，佳能对这部分相机进行召回。
 
@@ -40,17 +36,13 @@ PowerShot 500系列里比较奇怪的一款机器，
 
 ## 参见
 
-  - [Canon
-    PowerShot](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")
-  - [Canon PowerShot
-    A540](https://zh.wikipedia.org/wiki/Canon_PowerShot_A540 "wikilink")
+  - [Canon PowerShot](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")
+  - [Canon PowerShot A540](https://zh.wikipedia.org/wiki/Canon_PowerShot_A540 "wikilink")
 
 ## 外部链接
 
   - [佳能（中国）](http://www.canon.com.cn/)
-  - [全新阵容 佳能发布PowerShot
-    A系列品](http://article.pchome.net/content-80483.html)
-  - [电池异常发热耗电
-    佳能在日召回A540/530](http://tech.sina.com.cn/digi/2006-08-04/094058564.shtml)
+  - [全新阵容 佳能发布PowerShot A系列品](http://article.pchome.net/content-80483.html)
+  - [电池异常发热耗电 佳能在日召回A540/530](http://tech.sina.com.cn/digi/2006-08-04/094058564.shtml)
 
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

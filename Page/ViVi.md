@@ -56,8 +56,7 @@
   - [渡邊知夏子](https://zh.wikipedia.org/wiki/渡邊知夏子 "wikilink") - ちーのリアルMODE
   - [藤井リナ](https://zh.wikipedia.org/wiki/藤井リナ "wikilink") - 極めろ\!リナの美人道
   - [木下優樹菜](../Page/木下優樹菜.md "wikilink") - ゆきなの流行ゲットん\!
-  - [加藤ミリヤ](https://zh.wikipedia.org/wiki/加藤ミリヤ "wikilink") -
-    加藤ミリヤのファッションSHOW
+  - [加藤ミリヤ](https://zh.wikipedia.org/wiki/加藤ミリヤ "wikilink") - 加藤ミリヤのファッションSHOW
   - [浜崎あゆみ](https://zh.wikipedia.org/wiki/浜崎あゆみ "wikilink") - AYUのデジデジ日記
   - [西野カナ](https://zh.wikipedia.org/wiki/西野カナ "wikilink") - カナリア
   - [板野友美](../Page/板野友美.md "wikilink") - TOMO'S DIARY
@@ -71,10 +70,7 @@
 
   - [昕薇中国大陆官方网站](http://www.xinwei.tv/)
 
-[Category:講談社的雜誌](https://zh.wikipedia.org/wiki/Category:講談社的雜誌 "wikilink")
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
-[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink")
-[Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
+[Category:講談社的雜誌](https://zh.wikipedia.org/wiki/Category:講談社的雜誌 "wikilink") [Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink") [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
 
 1.
 2.

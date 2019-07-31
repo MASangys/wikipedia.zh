@@ -24,5 +24,4 @@ O型腿的人，比例是比较高的。在中国，平均可以达到40%。
 2.
 3.
 4.
-[Category:先天性疾病](https://zh.wikipedia.org/wiki/Category:先天性疾病 "wikilink")
-[Category:肌肉骨骼系统和结缔组织疾病](https://zh.wikipedia.org/wiki/Category:肌肉骨骼系统和结缔组织疾病 "wikilink")
+[Category:先天性疾病](https://zh.wikipedia.org/wiki/Category:先天性疾病 "wikilink") [Category:肌肉骨骼系统和结缔组织疾病](https://zh.wikipedia.org/wiki/Category:肌肉骨骼系统和结缔组织疾病 "wikilink")

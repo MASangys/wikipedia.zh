@@ -2,23 +2,19 @@
 
 ## 歷史
 
-1949年，在評估幾種原型槍過後（包括可折疊設計的霍奇基斯），法國的日蒂勒（MAT）[工廠](../Page/工廠.md "wikilink")就開始生產MAT-49式9毫米衝鋒槍。MAT-49的[機匣採用低成本的金屬](https://zh.wikipedia.org/wiki/機匣 "wikilink")[衝壓](../Page/衝壓.md "wikilink")方式生產，以減小生產成本及所需的金屬原料，亦縮短了生產所需的時間，亦且更容易進行維護及維修。當MAT-49剛剛出廠以後，就緊急分配到法國軍隊（包括當時[法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")，[法国外籍兵团](../Page/法国外籍兵团.md "wikilink")和各個法國殖民地）的各個部隊中，特別是空降兵部隊將其用作標準裝備。生產一直在日蒂勒以內進行，直到1960年代中期才改為圣-艾蒂安（，簡稱：MAS）生產該武器，直到1979年，法軍開始裝備新型[FAMAS](../Page/FAMAS突擊步槍.md "wikilink")
-[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，該衝鋒槍亦在以後被大量取代，並且退出了一綫部隊的裝備序列。但仍然在法國[預備役部隊和](https://zh.wikipedia.org/wiki/軍事制度#預備役 "wikilink")[執法機關等組織之中大量使用](../Page/警察.md "wikilink")。
+1949年，在評估幾種原型槍過後（包括可折疊設計的霍奇基斯），法國的日蒂勒（MAT）[工廠](../Page/工廠.md "wikilink")就開始生產MAT-49式9毫米衝鋒槍。MAT-49的[機匣採用低成本的金屬](https://zh.wikipedia.org/wiki/機匣 "wikilink")[衝壓](../Page/衝壓.md "wikilink")方式生產，以減小生產成本及所需的金屬原料，亦縮短了生產所需的時間，亦且更容易進行維護及維修。當MAT-49剛剛出廠以後，就緊急分配到法國軍隊（包括當時[法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")，[法国外籍兵团](../Page/法国外籍兵团.md "wikilink")和各個法國殖民地）的各個部隊中，特別是空降兵部隊將其用作標準裝備。生產一直在日蒂勒以內進行，直到1960年代中期才改為圣-艾蒂安（，簡稱：MAS）生產該武器，直到1979年，法軍開始裝備新型[FAMAS](../Page/FAMAS突擊步槍.md "wikilink") [5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，該衝鋒槍亦在以後被大量取代，並且退出了一綫部隊的裝備序列。但仍然在法國[預備役部隊和](https://zh.wikipedia.org/wiki/軍事制度#預備役 "wikilink")[執法機關等組織之中大量使用](../Page/警察.md "wikilink")。
 
 ## 使用
 
 MAT-49曾被法軍廣泛使用，例如打擊在[第一印度支那戰爭和](https://zh.wikipedia.org/wiki/法越战争 "wikilink")[阿尔及利亚战争](../Page/阿尔及利亚战争.md "wikilink")，以及1956年的[蘇伊士運河危機](../Page/第二次中东战争.md "wikilink")。該武器被大量空軍和機械化部隊所青睞，尤其是因為它的持久火力和外型緊湊。
 
-在法軍的各部隊離開[印度支那後](../Page/中南半島.md "wikilink")，[越南人民解放軍](https://zh.wikipedia.org/wiki/越南人民解放軍 "wikilink")（，簡稱：VPA）和[越南獨立同盟會](../Page/越南獨立同盟會.md "wikilink")（，簡稱：Viet
-Minh）亦取得了大量被繳穫或被遺留的MAT-49，亦將其使用的[子弹由](https://zh.wikipedia.org/wiki/子弹 "wikilink")[9×19毫米魯格彈轉換為](../Page/9×19mm魯格彈.md "wikilink")[前蘇聯和](../Page/苏联.md "wikilink")[中华人民共和国大量提供的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子弹](https://zh.wikipedia.org/wiki/子弹 "wikilink")。這些經過改裝的版本的最大區別的可以改用一種用於區別的長[槍管](../Page/槍管.md "wikilink")、來自[PPSh-41的](../Page/PPSh-41冲锋枪.md "wikilink")35發可拆卸式[彈匣](../Page/彈匣.md "wikilink")和更高的900發每分鐘射速。
+在法軍的各部隊離開[印度支那後](../Page/中南半島.md "wikilink")，[越南人民解放軍](https://zh.wikipedia.org/wiki/越南人民解放軍 "wikilink")（，簡稱：VPA）和[越南獨立同盟會](../Page/越南獨立同盟會.md "wikilink")（，簡稱：Viet Minh）亦取得了大量被繳穫或被遺留的MAT-49，亦將其使用的[子弹由](https://zh.wikipedia.org/wiki/子弹 "wikilink")[9×19毫米魯格彈轉換為](../Page/9×19mm魯格彈.md "wikilink")[前蘇聯和](../Page/苏联.md "wikilink")[中华人民共和国大量提供的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子弹](https://zh.wikipedia.org/wiki/子弹 "wikilink")。這些經過改裝的版本的最大區別的可以改用一種用於區別的長[槍管](../Page/槍管.md "wikilink")、來自[PPSh-41的](../Page/PPSh-41冲锋枪.md "wikilink")35發可拆卸式[彈匣](../Page/彈匣.md "wikilink")和更高的900發每分鐘射速。
 
 ## 設計細節
 
 與二戰以前法國軍隊所裝備的衝鋒槍不同，MAT-49的部件大都採用了[钢](../Page/钢.md "wikilink")板[衝壓](../Page/衝壓.md "wikilink")成型製造，簡化了生產工藝。MAT-49具有一個鋼條製造的可伸縮式設計[槍托](../Page/槍托.md "wikilink")，當槍托伸展後的長度是720毫米，而槍管長度是230毫米。可充當MAT-49的[前握把的](../Page/輔助握把.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")及[彈匣插座可以向前以](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")45°角折疊，然後和[槍管](../Page/槍管.md "wikilink")向前[平行](../Page/平行.md "wikilink")，這種設計適合[傘兵](../Page/傘兵.md "wikilink")或安全攜帶，需要開火時只要把彈匣及彈匣插座向後45°角展開（和槍管[垂直](../Page/垂直.md "wikilink")）。有一部份警用型的MAT-49因為生產問題而裝上了延長槍管和不可伸縮的[木製槍托](https://zh.wikipedia.org/wiki/木 "wikilink")。MAT-49主要是發射[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")，採用兩種不同彈數但同樣是垂直的彈匣。一種是適合在[沙漠](../Page/沙漠.md "wikilink")使用20發可拆卸式[彈匣](../Page/彈匣.md "wikilink")，而另一種是類似[斯登衝鋒槍](../Page/斯登衝鋒槍.md "wikilink")的彈匣的32發可拆卸式彈匣。
 
-MAT-49的槍機種類是[反沖作用](../Page/反沖作用_\(槍械\).md "wikilink")，[全自動射擊時是以](https://zh.wikipedia.org/wiki/自動火器 "wikilink")600發每分鐘的射速射擊。而MAT
-49/54，一種經過修改的MAT-49系列，特別為[法國警察部隊生產的](https://zh.wikipedia.org/wiki/法國警察 "wikilink")，它裝有兩種不同操作模式的[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，只有極少數MAT
-49/54可以轉換全自動或半自動射擊，而大多數生產的都只能全自動射擊。就算在空槍以下，MAT-49的重量亦大約3.5公斤，這使得該槍身為衝鋒槍而言實在是較為沉重。MAT-49亦採用了[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")，位於背部，必需按壓才可發射。金屬製[照門為](https://zh.wikipedia.org/wiki/照門 "wikilink")「L」字型，可上翻式調整，有50公尺和100公尺兩種。
+MAT-49的槍機種類是[反沖作用](../Page/反沖作用_\(槍械\).md "wikilink")，[全自動射擊時是以](https://zh.wikipedia.org/wiki/自動火器 "wikilink")600發每分鐘的射速射擊。而MAT 49/54，一種經過修改的MAT-49系列，特別為[法國警察部隊生產的](https://zh.wikipedia.org/wiki/法國警察 "wikilink")，它裝有兩種不同操作模式的[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，只有極少數MAT 49/54可以轉換全自動或半自動射擊，而大多數生產的都只能全自動射擊。就算在空槍以下，MAT-49的重量亦大約3.5公斤，這使得該槍身為衝鋒槍而言實在是較為沉重。MAT-49亦採用了[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")，位於背部，必需按壓才可發射。金屬製[照門為](https://zh.wikipedia.org/wiki/照門 "wikilink")「L」字型，可上翻式調整，有50公尺和100公尺兩種。
 
 在1979年，圣-艾蒂安推出[FAMAS F1後](../Page/FAMAS突擊步槍.md "wikilink")，此槍完全停止生產。
 
@@ -100,22 +96,17 @@ MAT-49的槍機種類是[反沖作用](../Page/反沖作用_\(槍械\).md "wikil
 
 ### 非國家實體
 
-  - [Flag_of_Libya.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Libya.svg "fig:Flag_of_Libya.svg")
-    [利比亚](../Page/利比亚.md "wikilink")[國民解放軍](../Page/國民解放軍.md "wikilink")\[32\]
+  - [Flag_of_Libya.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Libya.svg "fig:Flag_of_Libya.svg") [利比亚](../Page/利比亚.md "wikilink")[國民解放軍](../Page/國民解放軍.md "wikilink")\[32\]
 
-  - [Flag_of_ZANU-PF.svg](https://zh.wikipedia.org/wiki/File:Flag_of_ZANU-PF.svg "fig:Flag_of_ZANU-PF.svg")
-    [津巴布韋非洲國民解放軍](https://zh.wikipedia.org/wiki/津巴布韋非洲國民解放軍 "wikilink")\[33\]
+  - [Flag_of_ZANU-PF.svg](https://zh.wikipedia.org/wiki/File:Flag_of_ZANU-PF.svg "fig:Flag_of_ZANU-PF.svg") [津巴布韋非洲國民解放軍](https://zh.wikipedia.org/wiki/津巴布韋非洲國民解放軍 "wikilink")\[33\]
 
-  - [Flag_of_North_Vietnam_(1945-1955).svg](https://zh.wikipedia.org/wiki/File:Flag_of_North_Vietnam_\(1945-1955\).svg "fig:Flag_of_North_Vietnam_(1945-1955).svg")
-    [越南獨立同盟會](../Page/越南獨立同盟會.md "wikilink")\[34\]
+  - [Flag_of_North_Vietnam_(1945-1955).svg](https://zh.wikipedia.org/wiki/File:Flag_of_North_Vietnam_\(1945-1955\).svg "fig:Flag_of_North_Vietnam_(1945-1955).svg") [越南獨立同盟會](../Page/越南獨立同盟會.md "wikilink")\[34\]
 
   - [埃塔](https://zh.wikipedia.org/wiki/埃塔 "wikilink")：在一個位於[穆蓋爾的地下工場生產現有武器未被授權的仿製型](https://zh.wikipedia.org/wiki/穆盖尔_\(比利牛斯-大西洋省\) "wikilink")。\[35\]
 
 ## 圖集
 
-[File:MAT-49.svg|MAT-49的左右兩個側面圖，而最下方還有](File:MAT-49.svg%7CMAT-49的左右兩個側面圖，而最下方還有)[槍托](../Page/槍托.md "wikilink")縮折和彈匣向前以45°角折疊在安全位置的MAT-49
-<File:MAT-49> 54.svg|警用型MAT-49/54型號 <File:Submachine> gun MAT 49.jpg
-[File:Mortier2.jpg|1978年](File:Mortier2.jpg%7C1978年)，[法國外籍兵團第2外籍傘兵團的](https://zh.wikipedia.org/wiki/法國外籍兵團第2外籍傘兵團 "wikilink")[傘兵](../Page/傘兵.md "wikilink")在[科卢韦齐战役中亦有使用MAT](https://zh.wikipedia.org/wiki/科卢韦齐 "wikilink")-49
+[File:MAT-49.svg|MAT-49的左右兩個側面圖，而最下方還有](File:MAT-49.svg%7CMAT-49的左右兩個側面圖，而最下方還有)[槍托](../Page/槍托.md "wikilink")縮折和彈匣向前以45°角折疊在安全位置的MAT-49 <File:MAT-49> 54.svg|警用型MAT-49/54型號 <File:Submachine> gun MAT 49.jpg [File:Mortier2.jpg|1978年](File:Mortier2.jpg%7C1978年)，[法國外籍兵團第2外籍傘兵團的](https://zh.wikipedia.org/wiki/法國外籍兵團第2外籍傘兵團 "wikilink")[傘兵](../Page/傘兵.md "wikilink")在[科卢韦齐战役中亦有使用MAT](https://zh.wikipedia.org/wiki/科卢韦齐 "wikilink")-49
 
 ## 參見
 
@@ -137,28 +128,17 @@ MAT-49的槍機種類是[反沖作用](../Page/反沖作用_\(槍械\).md "wikil
 
 ## 外部連結
 
-  - —[Modern Firearms—MAT Modele 1949 / MAT-49 submachine
-    gun](http://world.guns.ru/smg/fr/mat-49-e.html)
+  - —[Modern Firearms—MAT Modele 1949 / MAT-49 submachine gun](http://world.guns.ru/smg/fr/mat-49-e.html)
 
   - —[weaponsystems.net—MAT-49](http://weaponsystems.net/weaponsystem/AA02%20-%20MAT-49.html)
 
-  - —[Military, Security and Civilian Guns—MAT-49 (Manufacture Nationale
-    d'Armes de
-    Tulle 49)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=354)
+  - —[Military, Security and Civilian Guns—MAT-49 (Manufacture Nationale d'Armes de Tulle 49)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=354)
 
-  - —[Old-School Hardware: 10 Mil-Retro
-    Firearms](http://www.tactical-life.com/firearms/10-mil-retro-firearms/2/#mat-49-lead)
+  - —[Old-School Hardware: 10 Mil-Retro Firearms](http://www.tactical-life.com/firearms/10-mil-retro-firearms/2/#mat-49-lead)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:7.62×25毫米托卡列夫手槍彈槍械](https://zh.wikipedia.org/wiki/Category:7.62×25毫米托卡列夫手槍彈槍械 "wikilink")
-[Category:法國槍械](https://zh.wikipedia.org/wiki/Category:法國槍械 "wikilink")
-[Category:法国冷战武器](https://zh.wikipedia.org/wiki/Category:法国冷战武器 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:7.62×25毫米托卡列夫手槍彈槍械](https://zh.wikipedia.org/wiki/Category:7.62×25毫米托卡列夫手槍彈槍械 "wikilink") [Category:法國槍械](https://zh.wikipedia.org/wiki/Category:法國槍械 "wikilink") [Category:法国冷战武器](https://zh.wikipedia.org/wiki/Category:法国冷战武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
-1.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's
-    Information Group; 35 edition (January 27, 2009). ISBN
-    978-0710628695.
+1.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
 
 2.
 3.
@@ -199,6 +179,4 @@ MAT-49的槍機種類是[反沖作用](../Page/反沖作用_\(槍械\).md "wikil
 
 34.
 
-35. －[Hallan en Francia un viejo arsenal de subfusiles de ETA de los
-    años 70](http://www.elmundo.es/elmundo/2012/02/10/paisvasco/1328900209.html)
-    elmundo.es
+35. －[Hallan en Francia un viejo arsenal de subfusiles de ETA de los años 70](http://www.elmundo.es/elmundo/2012/02/10/paisvasco/1328900209.html) elmundo.es

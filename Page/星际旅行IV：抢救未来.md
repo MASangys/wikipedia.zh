@@ -1,5 +1,4 @@
-《**星际旅行IV：抢救未来**》（），是一部由[派拉蒙影业于](https://zh.wikipedia.org/wiki/派拉蒙影业 "wikilink")1986年拍摄的电影。该部电影是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》[科幻系列的第](https://zh.wikipedia.org/wiki/科幻 "wikilink")4部[电影](../Page/电影.md "wikilink")。在西方通常简写作“ST4:TVH”、“STTVH”或者“TVH”。它是三部曲《[可汗怒吼](../Page/星际旅行II：可汗怒吼.md "wikilink")》、《[石破天惊](../Page/星际旅行III：石破天惊.md "wikilink")》的终篇。这部电影常被西方[星迷称作](https://zh.wikipedia.org/wiki/星际旅行爱好者 "wikilink")“有[鲸鱼的那一部](https://zh.wikipedia.org/wiki/鲸鱼 "wikilink")”（“The
-One with the Whales”）\[1\]。
+《**星际旅行IV：抢救未来**》（），是一部由[派拉蒙影业于](https://zh.wikipedia.org/wiki/派拉蒙影业 "wikilink")1986年拍摄的电影。该部电影是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》[科幻系列的第](https://zh.wikipedia.org/wiki/科幻 "wikilink")4部[电影](../Page/电影.md "wikilink")。在西方通常简写作“ST4:TVH”、“STTVH”或者“TVH”。它是三部曲《[可汗怒吼](../Page/星际旅行II：可汗怒吼.md "wikilink")》、《[石破天惊](../Page/星际旅行III：石破天惊.md "wikilink")》的终篇。这部电影常被西方[星迷称作](https://zh.wikipedia.org/wiki/星际旅行爱好者 "wikilink")“有[鲸鱼的那一部](https://zh.wikipedia.org/wiki/鲸鱼 "wikilink")”（“The One with the Whales”）\[1\]。
 
 ## 角色
 
@@ -9,7 +8,7 @@ One with the Whales”）\[1\]。
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [威廉·夏特纳](../Page/威廉·夏特纳.md "wikilink")                          | [詹姆斯·柯克中将](https://zh.wikipedia.org/wiki/詹姆斯·泰比里厄斯·柯克 "wikilink")／上校              |
 | [伦纳德·尼莫伊](../Page/伦纳德·尼莫伊.md "wikilink")                        | [斯波克上校](https://zh.wikipedia.org/wiki/斯波克 "wikilink")                             |
-| [德福雷斯特·凯利](https://zh.wikipedia.org/wiki/德福雷斯特·凯利 "wikilink")   | [伦纳德·麦科伊中校](../Page/伦纳德·麦科伊.md "wikilink")（医生）                                    |
+| [德福雷斯特·凯利](https://zh.wikipedia.org/wiki/德福雷斯特·凯利 "wikilink")   | [伦纳德·麦科伊](../Page/伦纳德·麦科伊.md "wikilink")中校（医生）                                    |
 | [詹姆斯·杜汉](https://zh.wikipedia.org/wiki/詹姆斯·杜汉 "wikilink")       | [蒙哥马利·斯科特上校](https://zh.wikipedia.org/wiki/蒙哥马利·斯科特 "wikilink")                   |
 | [乔治·竹井](https://zh.wikipedia.org/wiki/乔治·竹井 "wikilink")         | [光·苏鲁中校](https://zh.wikipedia.org/wiki/光·苏鲁 "wikilink")                           |
 | [沃尔特·凯尼格](https://zh.wikipedia.org/wiki/沃尔特·凯尼格 "wikilink")     | [帕维尔·切科夫中校](https://zh.wikipedia.org/wiki/帕维尔·切科夫 "wikilink")                     |
@@ -27,46 +26,39 @@ One with the Whales”）\[1\]。
 
 ## 剧情概要
 
-一艘巨大的[外星无人探测器向](../Page/外星生命.md "wikilink")[地球航来](../Page/地球.md "wikilink")，它不断地发出奇特的电波信号：功率强大的信号煮沸了海水，干扰了附近的星舰并造成了广泛的破坏。此时，[詹姆斯·柯克中将与他的船员们在完成了让](https://zh.wikipedia.org/wiki/詹姆斯·柯克 "wikilink")[斯波克上校复活的任务后](https://zh.wikipedia.org/wiki/斯波克 "wikilink")，驾驶着从[克林贡人那抢来的](https://zh.wikipedia.org/wiki/克林贡人 "wikilink")[猛禽舰](https://zh.wikipedia.org/wiki/猛禽_\(星际旅行\) "wikilink")（被改名为“赏金号”）从[瓦肯星返航](https://zh.wikipedia.org/wiki/瓦肯星 "wikilink")，尽管他们已经知道了将面临军事法庭的指控：他们被指控盗窃了[联邦星舰进取号](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701\) "wikilink")，并对她的毁坏负有责任。在此关头，尚在恢复中的斯波克发现这艘外星探测器正尝试与地球上的[座头鲸建立联系](../Page/座头鲸.md "wikilink")；但不幸的是，早在3个世纪前座头鲸就因过度的捕猎而灭绝了。
+一艘巨大的[外星无人探测器向](../Page/外星生命.md "wikilink")[地球](../Page/地球.md "wikilink")航来，它不断地发出奇特的电波信号：功率强大的信号煮沸了海水，干扰了附近的星舰并造成了广泛的破坏。此时，[詹姆斯·柯克中将与他的船员们在完成了让](https://zh.wikipedia.org/wiki/詹姆斯·柯克 "wikilink")[斯波克上校复活的任务后](https://zh.wikipedia.org/wiki/斯波克 "wikilink")，驾驶着从[克林贡人那抢来的](https://zh.wikipedia.org/wiki/克林贡人 "wikilink")[猛禽舰](https://zh.wikipedia.org/wiki/猛禽_\(星际旅行\) "wikilink")（被改名为“赏金号”）从[瓦肯星返航](https://zh.wikipedia.org/wiki/瓦肯星 "wikilink")，尽管他们已经知道了将面临军事法庭的指控：他们被指控盗窃了[联邦星舰进取号](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701\) "wikilink")，并对她的毁坏负有责任。在此关头，尚在恢复中的斯波克发现这艘外星探测器正尝试与地球上的[座头鲸](../Page/座头鲸.md "wikilink")建立联系；但不幸的是，早在3个世纪前座头鲸就因过度的捕猎而灭绝了。
 
-柯克命令“赏金号”进入[引力弹射状态](https://zh.wikipedia.org/wiki/引力弹射 "wikilink")，利用太阳的万有引力而[穿越时空来到](../Page/时间旅行.md "wikilink")20世纪后期。星舰于1986年抵达了[美国](../Page/美国.md "wikilink")[加利福尼亚州的](../Page/加利福尼亚州.md "wikilink")[旧金山市](../Page/旧金山.md "wikilink")，船员们将星舰[藏在](https://zh.wikipedia.org/wiki/隐形装置 "wikilink")[金门公园的一处草坪上](../Page/金门公园.md "wikilink")。此后，他们开始寻找能与外星探测器沟通的鲸鱼、能将鲸鱼装在星舰上的容器，以及能让猛禽舰恢复能源供应的物质——在星舰穿越时空的旅途中能源几乎被耗尽。柯克与斯波克最终获得了一位[鲸类专家](https://zh.wikipedia.org/wiki/鲸类 "wikilink")[吉莉安·泰勒博士的协助](https://zh.wikipedia.org/wiki/吉莉安·泰勒 "wikilink")，她在[索萨利托市鲸鱼协会照料两头座头鲸](https://zh.wikipedia.org/wiki/索萨利托 "wikilink")。
+柯克命令“赏金号”进入[引力弹射状态](https://zh.wikipedia.org/wiki/引力弹射 "wikilink")，利用太阳的万有引力而[穿越时空来到](../Page/时间旅行.md "wikilink")20世纪后期。星舰于1986年抵达了[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")的[旧金山](../Page/旧金山.md "wikilink")市，船员们将星舰[藏在](https://zh.wikipedia.org/wiki/隐形装置 "wikilink")[金门公园](../Page/金门公园.md "wikilink")的一处草坪上。此后，他们开始寻找能与外星探测器沟通的鲸鱼、能将鲸鱼装在星舰上的容器，以及能让猛禽舰恢复能源供应的物质——在星舰穿越时空的旅途中能源几乎被耗尽。柯克与斯波克最终获得了一位[鲸类专家](https://zh.wikipedia.org/wiki/鲸类 "wikilink")[吉莉安·泰勒博士的协助](https://zh.wikipedia.org/wiki/吉莉安·泰勒 "wikilink")，她在[索萨利托市鲸鱼协会照料两头座头鲸](https://zh.wikipedia.org/wiki/索萨利托 "wikilink")。
 
-在经历了许多的困难后——包括让泰勒相信他们的确来自未来——进取号的船员们成功地营救了两头座头鲸，并将它们带到未来，及时地拯救了地球。然后船员们被带到了联邦委员会的面前，接受众多的指控。没有被作为被告的斯波克也与其他船员们站在了一起。最后，鉴于他们新近的英勇表现，除了对柯克中将的控告外，针对其余被告的所有控告都被撤销。柯克以作为一名上级军官却违背命令的罪行被判有罪，并象征性地被降职为上校以示惩戒；但作为对他英勇行为的表彰，他被任命为[联邦星舰进取号-A的舰长](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701-A\) "wikilink")。与进取号船员一同来到23世纪的泰勒博士，决定加入[星际舰队并成为一名科学官](../Page/星际舰队.md "wikilink")。
+在经历了许多的困难后——包括让泰勒相信他们的确来自未来——进取号的船员们成功地营救了两头座头鲸，并将它们带到未来，及时地拯救了地球。然后船员们被带到了联邦委员会的面前，接受众多的指控。没有被作为被告的斯波克也与其他船员们站在了一起。最后，鉴于他们新近的英勇表现，除了对柯克中将的控告外，针对其余被告的所有控告都被撤销。柯克以作为一名上级军官却违背命令的罪行被判有罪，并象征性地被降职为上校以示惩戒；但作为对他英勇行为的表彰，他被任命为[联邦星舰进取号-A的舰长](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701-A\) "wikilink")。与进取号船员一同来到23世纪的泰勒博士，决定加入[星际舰队](../Page/星际舰队.md "wikilink")并成为一名科学官。
 
 作为[情节框架的支线剧情](https://zh.wikipedia.org/wiki/框架故事 "wikilink")，展现了斯波克逐渐地恢复了他的记忆、他此前获得并接受的人类传统，以及他对自己情感的承认。在影片开始时，他不明白母亲询问他的“感觉”有何意义；但到最后，他已能足够意识到“感觉”对人类的重要性，并托父亲告诉母亲，他“感觉良好”。\[3\]
 
 ## 主题
 
-《抢救未来》中有许多的幽默场景。斯波克的记忆与自我意识在上一部电影的情节中并未完全恢复，他身上朝圣般的瓦肯长袍让他成为了一大串笑料的主角。每一位船员都有在一些情景中闪亮演出的机会。[尼古拉斯·迈耶与](../Page/尼古拉斯·迈耶.md "wikilink")[哈维·贝内特合作写作了这些剧本](https://zh.wikipedia.org/wiki/哈维·贝内特 "wikilink")：贝内特负责23世纪的情景，迈耶则负责20世纪的情景。这部电影实质上是一部轻松的探险之旅。这是部分制片人的有意选择，他们觉得前三部电影太严肃，因此这一部该轻松一下了。但是，在整个故事中，依然保留并致力于表现严肃的主题：船员们的任务是拯救未来的地球。
+《抢救未来》中有许多的幽默场景。斯波克的记忆与自我意识在上一部电影的情节中并未完全恢复，他身上朝圣般的瓦肯长袍让他成为了一大串笑料的主角。每一位船员都有在一些情景中闪亮演出的机会。[尼古拉斯·迈耶](../Page/尼古拉斯·迈耶.md "wikilink")与[哈维·贝内特合作写作了这些剧本](https://zh.wikipedia.org/wiki/哈维·贝内特 "wikilink")：贝内特负责23世纪的情景，迈耶则负责20世纪的情景。这部电影实质上是一部轻松的探险之旅。这是部分制片人的有意选择，他们觉得前三部电影太严肃，因此这一部该轻松一下了。但是，在整个故事中，依然保留并致力于表现严肃的主题：船员们的任务是拯救未来的地球。
 
-在前一部《[石破天惊](../Page/星际旅行III：石破天惊.md "wikilink")》中，船员违抗[星际舰队命令的所有情节都被草率地一笔带过](../Page/星际舰队.md "wikilink")。在某种程度上，这一部的剧情让柯克与他的团队得以不因为之前的违抗命令而受到惩罚；尽管柯克在这部电影中以不遵守命令而被降级为上校。由于柯克本来就对担任将军的职务不满意，这对他来说算不上是一个严厉的惩罚。
+在前一部《[石破天惊](../Page/星际旅行III：石破天惊.md "wikilink")》中，船员违抗[星际舰队](../Page/星际舰队.md "wikilink")命令的所有情节都被草率地一笔带过。在某种程度上，这一部的剧情让柯克与他的团队得以不因为之前的违抗命令而受到惩罚；尽管柯克在这部电影中以不遵守命令而被降级为上校。由于柯克本来就对担任将军的职务不满意，这对他来说算不上是一个严厉的惩罚。
 
-由于[联邦星舰进取号
-(NCC-1701)在上部电影中已被损毁](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701\) "wikilink")，在这部电影的结尾，另一艘几乎与她一模一样的星舰[联邦星舰进取号
-(NCC-1701-A)](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701-A\) "wikilink")（吉恩·罗登贝瑞提出这艘船是由联邦星舰约克镇号改名而来，并非一艘专门建造的星舰）替代了她的位置。此前还有电影摄制者最初有意让船员们登上[联邦星舰精进号
-(NCC-2000)](https://zh.wikipedia.org/wiki/联邦星舰精进号_\(NCC-2000\) "wikilink")（也有可能改名为进取号），但因被星迷们强烈抗议而作罢的传闻。苏鲁在抵达进取号-A前，也在猜想分配给他们的是不是精进号；在第6部电影《[星际旅行VI：未来之城](../Page/星际旅行VI：未来之城.md "wikilink")》中，苏鲁如愿以偿地成为了精进号的舰长。
+由于[联邦星舰进取号 (NCC-1701)在上部电影中已被损毁](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701\) "wikilink")，在这部电影的结尾，另一艘几乎与她一模一样的星舰[联邦星舰进取号 (NCC-1701-A)](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701-A\) "wikilink")（吉恩·罗登贝瑞提出这艘船是由联邦星舰约克镇号改名而来，并非一艘专门建造的星舰）替代了她的位置。此前还有电影摄制者最初有意让船员们登上[联邦星舰精进号 (NCC-2000)](https://zh.wikipedia.org/wiki/联邦星舰精进号_\(NCC-2000\) "wikilink")（也有可能改名为进取号），但因被星迷们强烈抗议而作罢的传闻。苏鲁在抵达进取号-A前，也在猜想分配给他们的是不是精进号；在第6部电影《[星际旅行VI：未来之城](../Page/星际旅行VI：未来之城.md "wikilink")》中，苏鲁如愿以偿地成为了精进号的舰长。
 
 ## 拍摄与制片
 
-柯克骂出“”一句时的情节是在旧金山卡尼市的哥伦布大街拍摄的，正对着-{著}-名的绿色铜面哨兵大楼（green copper-faced
-Sentinel
-Building），这幢楼目前由[弗朗西斯·福特·科普拉拥有](https://zh.wikipedia.org/wiki/弗朗西斯·福特·科普拉 "wikilink")。
+柯克骂出“”一句时的情节是在旧金山卡尼市的哥伦布大街拍摄的，正对着-{著}-名的绿色铜面哨兵大楼（green copper-faced Sentinel Building），这幢楼目前由[弗朗西斯·福特·科普拉拥有](https://zh.wikipedia.org/wiki/弗朗西斯·福特·科普拉 "wikilink")。
 
-在电影中，乌乎拉与切科夫登上了[勇往号](https://zh.wikipedia.org/wiki/企业号航空母舰_\(CVN-65\) "wikilink")[航空母舰](../Page/航空母舰.md "wikilink")（在英语中，勇往号航空母舰与联邦星舰进取号都是相同的写法，为）。而在拍摄的时候，真正的企业号正在海上巡逻，因此影片借用了同规格的[突击者号航空母舰
-(CVA-61)的场景](https://zh.wikipedia.org/wiki/突击者号航空母舰_\(CVA-61\) "wikilink")。由于电影中的部分场景需要进入航空母舰的工程舱，而当时勇往号的核反应堆是高度机密的（在美国海军其他的核动力航母上亦是如此），制片方似乎不可能被允许拍摄这些场景——即便是停靠在码头上。
+在电影中，乌乎拉与切科夫登上了[勇往号](https://zh.wikipedia.org/wiki/企业号航空母舰_\(CVN-65\) "wikilink")[航空母舰](../Page/航空母舰.md "wikilink")（在英语中，勇往号航空母舰与联邦星舰进取号都是相同的写法，为）。而在拍摄的时候，真正的企业号正在海上巡逻，因此影片借用了同规格的[突击者号航空母舰 (CVA-61)的场景](https://zh.wikipedia.org/wiki/突击者号航空母舰_\(CVA-61\) "wikilink")。由于电影中的部分场景需要进入航空母舰的工程舱，而当时勇往号的核反应堆是高度机密的（在美国海军其他的核动力航母上亦是如此），制片方似乎不可能被允许拍摄这些场景——即便是停靠在码头上。
 
-剧情中假想的[加利福尼亚州索萨利托](../Page/加利福尼亚州.md "wikilink")“鲸类生物学会”实际上是在[蒙特瑞湾水族馆拍摄的](https://zh.wikipedia.org/wiki/蒙特瑞湾水族馆 "wikilink")，而在旧金山市的[金门公园的情节则实际上是在洛杉矶的](../Page/金门公园.md "wikilink")[维尔·罗杰斯州立历史公园拍摄的](https://zh.wikipedia.org/wiki/维尔·罗杰斯州立历史公园 "wikilink")。
+剧情中假想的[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")索萨利托“鲸类生物学会”实际上是在[蒙特瑞湾水族馆拍摄的](https://zh.wikipedia.org/wiki/蒙特瑞湾水族馆 "wikilink")，而在旧金山市的[金门公园](../Page/金门公园.md "wikilink")的情节则实际上是在洛杉矶的[维尔·罗杰斯州立历史公园拍摄的](https://zh.wikipedia.org/wiki/维尔·罗杰斯州立历史公园 "wikilink")。
 
-在电影的开头，一台[Amiga计算机作为道具成为了斯波克使用的一台](../Page/Amiga.md "wikilink")[瓦肯超级计算机](../Page/瓦肯人.md "wikilink")。这可从屏幕上显示出的Amiga的“Garnet”字体看出来：这个字体在屏幕上显示出斯波克正在学习的信息。
+在电影的开头，一台[Amiga](../Page/Amiga.md "wikilink")计算机作为道具成为了斯波克使用的一台[瓦肯超级计算机](../Page/瓦肯人.md "wikilink")。这可从屏幕上显示出的Amiga的“Garnet”字体看出来：这个字体在屏幕上显示出斯波克正在学习的信息。
 
 ## 花絮
 
-  - 这部电影由[伦纳德·尼莫伊导演](../Page/伦纳德·尼莫伊.md "wikilink")，他在电影中扮演斯波克。
+  - 这部电影由[伦纳德·尼莫伊](../Page/伦纳德·尼莫伊.md "wikilink")导演，他在电影中扮演斯波克。
 
 <!-- end list -->
 
-  - 那句有着俄语口音的“核动力舰艇”（“nuclear
-    wessels”）实际上是随意之作。在电影拍摄中，使用了一部隐藏的摄影机来记录乌乎拉与切科夫在大街上随意询问路人的动作。情节中的另一句话（除了星际舰队军官外的）是一位女士说的：“……我想它在海滩的对岸，在阿拉米达。”因此工作人员只得追上她，让她签署一份[银幕演员公会的弃权声明](https://zh.wikipedia.org/wiki/银幕演员公会 "wikilink")，以能在最终的电影中保留她的场景。\[4\]
+  - 那句有着俄语口音的“核动力舰艇”（“nuclear wessels”）实际上是随意之作。在电影拍摄中，使用了一部隐藏的摄影机来记录乌乎拉与切科夫在大街上随意询问路人的动作。情节中的另一句话（除了星际舰队军官外的）是一位女士说的：“……我想它在海滩的对岸，在阿拉米达。”因此工作人员只得追上她，让她签署一份[银幕演员公会的弃权声明](https://zh.wikipedia.org/wiki/银幕演员公会 "wikilink")，以能在最终的电影中保留她的场景。\[4\]
 
 <!-- end list -->
 
@@ -74,11 +66,11 @@ Building），这幢楼目前由[弗朗西斯·福特·科普拉拥有](https://
 
 <!-- end list -->
 
-  - 这部电影向在[STS-51-L](../Page/STS-51-L.md "wikilink")[航天飞机任务中罹难的宇航员们致敬](../Page/航天飞机.md "wikilink")。他们在[挑战者号航天飞机发射后](https://zh.wikipedia.org/wiki/挑战者号航天飞机 "wikilink")[第73秒的解体中丧生](https://zh.wikipedia.org/wiki/航天飞机挑战者号灾难 "wikilink")：“《星际旅行》的演员与工作人员们希望以这部电影纪念航天飞机挑战者号上的人们，他们勇敢的精神将留存在23世纪以及后世代人们的记忆中……”\[5\]
+  - 这部电影向在[STS-51-L](../Page/STS-51-L.md "wikilink")[航天飞机](../Page/航天飞机.md "wikilink")任务中罹难的宇航员们致敬。他们在[挑战者号航天飞机发射后](https://zh.wikipedia.org/wiki/挑战者号航天飞机 "wikilink")[第73秒的解体中丧生](https://zh.wikipedia.org/wiki/航天飞机挑战者号灾难 "wikilink")：“《星际旅行》的演员与工作人员们希望以这部电影纪念航天飞机挑战者号上的人们，他们勇敢的精神将留存在23世纪以及后世代人们的记忆中……”\[5\]
 
 <!-- end list -->
 
-  - 星迷[艾迪·墨菲本来会出现在这部电影中](../Page/艾迪·墨菲.md "wikilink")。他应在电影中扮演一位教授，他在[超级碗的中场休息时发现了显形的克林贡猛禽舰](https://zh.wikipedia.org/wiki/超级碗 "wikilink")（他扮演的角色本应是电影中唯一一位相信舰船真实存在的人；其余的观众都以为这只是中场休息时的一个特别节目）。墨菲最后选择了接拍电影《》。\[6\]
+  - 星迷[艾迪·墨菲](../Page/艾迪·墨菲.md "wikilink")本来会出现在这部电影中。他应在电影中扮演一位教授，他在[超级碗的中场休息时发现了显形的克林贡猛禽舰](https://zh.wikipedia.org/wiki/超级碗 "wikilink")（他扮演的角色本应是电影中唯一一位相信舰船真实存在的人；其余的观众都以为这只是中场休息时的一个特别节目）。墨菲最后选择了接拍电影《》。\[6\]
 
 <!-- end list -->
 
@@ -102,7 +94,7 @@ Building），这幢楼目前由[弗朗西斯·福特·科普拉拥有](https://
 
 <!-- end list -->
 
-  - 捕鲸人说的是[芬兰语](../Page/芬兰语.md "wikilink")，而[芬兰并不是一个捕鲸国度](../Page/芬兰.md "wikilink")。
+  - 捕鲸人说的是[芬兰语](../Page/芬兰语.md "wikilink")，而[芬兰](../Page/芬兰.md "wikilink")并不是一个捕鲸国度。
 
 <!-- end list -->
 
@@ -127,15 +119,7 @@ Building），这幢楼目前由[弗朗西斯·福特·科普拉拥有](https://
   -
   -
   -
-[Category:1986年電影](https://zh.wikipedia.org/wiki/Category:1986年電影 "wikilink")
-[Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink")
-[Category:星际旅行剧情](https://zh.wikipedia.org/wiki/Category:星际旅行剧情 "wikilink")
-[Category:冒险片](https://zh.wikipedia.org/wiki/Category:冒险片 "wikilink")
-[Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:三藩市背景電影](https://zh.wikipedia.org/wiki/Category:三藩市背景電影 "wikilink")
-[Category:鲸目题材作品](https://zh.wikipedia.org/wiki/Category:鲸目题材作品 "wikilink")
-[Category:時間旅行電影](https://zh.wikipedia.org/wiki/Category:時間旅行電影 "wikilink")
+[Category:1986年電影](https://zh.wikipedia.org/wiki/Category:1986年電影 "wikilink") [Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink") [Category:星际旅行剧情](https://zh.wikipedia.org/wiki/Category:星际旅行剧情 "wikilink") [Category:冒险片](https://zh.wikipedia.org/wiki/Category:冒险片 "wikilink") [Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:三藩市背景電影](https://zh.wikipedia.org/wiki/Category:三藩市背景電影 "wikilink") [Category:鲸目题材作品](https://zh.wikipedia.org/wiki/Category:鲸目题材作品 "wikilink") [Category:時間旅行電影](https://zh.wikipedia.org/wiki/Category:時間旅行電影 "wikilink")
 
 1.
 

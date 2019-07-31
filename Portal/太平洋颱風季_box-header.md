@@ -15,14 +15,7 @@
          -->{{border-radius|10px 10px 0px 0px}};<!--
          -->border-bottom: none;">
 
-{{\#if:| | \<span class="plainlinks" style="position: absolute; top:
-1px; right: 6px; background: transparent; border: 0px;
-margin-bottom:.1em; font-size:80%; font-weight: normal; color:
-\#AEE1FF;"\> [<span style="color:#AEE1FF">-{zh-cn:查看;
-zh-tw:檢視;}-</span>](https://zh.wikipedia.org/wiki/{{{2}}} "wikilink")
-| \[}} <span style="color:#AEE1FF" title="編輯{{{2}}}">编辑</span>\]  
-</span >}}
-{{\#if:|<span style="font-size:100%;font-weight:bold;border: none; margin: 0; padding:0; padding-bottom:.1em; color:#AEE1FF"></span>|
+{{\#if:| | \<span class="plainlinks" style="position: absolute; top: 1px; right: 6px; background: transparent; border: 0px; margin-bottom:.1em; font-size:80%; font-weight: normal; color: \#AEE1FF;"\> [<span style="color:#AEE1FF">-{zh-cn:查看; zh-tw:檢視;}-</span>](https://zh.wikipedia.org/wiki/{{{2}}} "wikilink") | \[}} <span style="color:#AEE1FF" title="編輯{{{2}}}">编辑</span>\]   </span >}} {{\#if:|<span style="font-size:100%;font-weight:bold;border: none; margin: 0; padding:0; padding-bottom:.1em; color:#AEE1FF"></span>|
 
 <h2 style="font-size:100%;font-weight:bold;border: none; margin: 0; padding:0; padding-bottom:.1em; color:#AEE1FF">
 

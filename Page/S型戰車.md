@@ -4,33 +4,21 @@
 
 S型戰車大膽採用無炮塔設計，目的是要把原本用於炮塔的裝甲集中於車身，皆因瑞典的地理條件，森林多、湖泊多、沼澤多、小路多；這些地形適合進行打了就跑的伏擊戰、遊擊戰，而不適合重型坦克的活動，特別適合用於守勢作戰，而且1950年代及1960年代的坦克都未有行進間射擊的能力，所以沒有砲塔的限制在當時並非明顯缺點。瑞典1950年代至1990年代中期的裝甲部隊主力由從英國購入的[百夫長坦克與本國自行研發的Strv](https://zh.wikipedia.org/wiki/百夫長坦克 "wikilink")103坦克共同擔任。
 
-其主炮是一門固定在車身的[英國授權生產之](https://zh.wikipedia.org/wiki/英國 "wikilink")[L7型105公釐戰車炮](../Page/L7線膛炮.md "wikilink")，由於火砲的位於低矮的車身，所以這門L7可採用加長的62倍徑，而不是標準的52倍徑，有更高的炮口初速。火炮後方是[自動裝彈機](../Page/自動裝彈機.md "wikilink")，由於S型戰車採用了固定主炮的簡單結構而首先實現採用自動裝彈機，僅需3名乘員，分別是在右方的車長和在左方的駕駛兼炮手，駕駛/炮手後方背對背坐的是無線電員兼後方駕駛，背向的駕駛員可在倒車時提供較高的速度及操縱性，適合開火後快速撤離，如果自動裝彈機故障的話也會由後方駕駛代為裝填。S型戰車沒有砲塔，所以主炮轉向由履帶驅動，而俯仰由油壓承載系統負責。副武器為車體左前方的箱型機槍座，內裝兩挺機槍由駕駛控制，車頂的防空機槍可由車長在車內控制，不必暴露車外。Strv-103C型車頂還有兩管Lyran
-71mm照明彈發射器。
+其主炮是一門固定在車身的[英國授權生產之](https://zh.wikipedia.org/wiki/英國 "wikilink")[L7型105公釐戰車炮](../Page/L7線膛炮.md "wikilink")，由於火砲的位於低矮的車身，所以這門L7可採用加長的62倍徑，而不是標準的52倍徑，有更高的炮口初速。火炮後方是[自動裝彈機](../Page/自動裝彈機.md "wikilink")，由於S型戰車採用了固定主炮的簡單結構而首先實現採用自動裝彈機，僅需3名乘員，分別是在右方的車長和在左方的駕駛兼炮手，駕駛/炮手後方背對背坐的是無線電員兼後方駕駛，背向的駕駛員可在倒車時提供較高的速度及操縱性，適合開火後快速撤離，如果自動裝彈機故障的話也會由後方駕駛代為裝填。S型戰車沒有砲塔，所以主炮轉向由履帶驅動，而俯仰由油壓承載系統負責。副武器為車體左前方的箱型機槍座，內裝兩挺機槍由駕駛控制，車頂的防空機槍可由車長在車內控制，不必暴露車外。Strv-103C型車頂還有兩管Lyran 71mm照明彈發射器。
 
 S型戰車有兩台發動機，分別是起動用的[燃氣渦輪發動機](../Page/燃氣渦輪發動機.md "wikilink")和行走用的[柴油](../Page/柴油.md "wikilink")發動機，這是由於[瑞典](../Page/瑞典.md "wikilink")地處寒帶，柴油發動機起動困難但燃氣渦輪發動機行走時卻耗油量大的原故，而在其最新型號的車身兩側也加掛油箱，不單增加了燃料量還可作為額外[裝甲](https://zh.wikipedia.org/wiki/裝甲 "wikilink")。
 
-S-tank.jpg|車前的柵欄裝甲，能防禦RPG火箭也能加掛偽裝物 Stridsvagn 103.JPG|車頂的兩管Lyran
-71mm照明彈發射器 Stridsvagn 103 Revinge 2015-4.jpg|2015年四月演習的S型
-Stridsvagn 103C
-03.jpg|車身高度與後方的[M113相仿](https://zh.wikipedia.org/wiki/M113 "wikilink")
+S-tank.jpg|車前的柵欄裝甲，能防禦RPG火箭也能加掛偽裝物 Stridsvagn 103.JPG|車頂的兩管Lyran 71mm照明彈發射器 Stridsvagn 103 Revinge 2015-4.jpg|2015年四月演習的S型 Stridsvagn 103C 03.jpg|車身高度與後方的[M113相仿](https://zh.wikipedia.org/wiki/M113 "wikilink")
 
 ## 參考
 
 ## 外部連結
 
-  - [Society S-tank - Föreningen stridsvagn
-    S](http://www.foreningen-stridsvagns.se/) - Official site
-  - [Society S-tank- Welcome to The S tank
-    association](https://web.archive.org/web/20110727012040/http://www.foreningen-stridsvagns.se/page.php?8%2F)-Official
-    site
+  - [Society S-tank - Föreningen stridsvagn S](http://www.foreningen-stridsvagns.se/) - Official site
+  - [Society S-tank- Welcome to The S tank association](https://web.archive.org/web/20110727012040/http://www.foreningen-stridsvagns.se/page.php?8%2F)-Official site
   - [Str103 坦克防護力實證](https://www.youtube.com/watch?v=MiWCpIJ5dBw)
   - [S型戰車](http://www.mdc.idv.tw/mdc/)
 
-[Category:主戰坦克](https://zh.wikipedia.org/wiki/Category:主戰坦克 "wikilink")
-[Category:冷戰坦克](https://zh.wikipedia.org/wiki/Category:冷戰坦克 "wikilink")
-[Category:瑞典坦克](https://zh.wikipedia.org/wiki/Category:瑞典坦克 "wikilink")
-[Category:驅逐戰車](https://zh.wikipedia.org/wiki/Category:驅逐戰車 "wikilink")
-[Category:有装弹机坦克](https://zh.wikipedia.org/wiki/Category:有装弹机坦克 "wikilink")
+[Category:主戰坦克](https://zh.wikipedia.org/wiki/Category:主戰坦克 "wikilink") [Category:冷戰坦克](https://zh.wikipedia.org/wiki/Category:冷戰坦克 "wikilink") [Category:瑞典坦克](https://zh.wikipedia.org/wiki/Category:瑞典坦克 "wikilink") [Category:驅逐戰車](https://zh.wikipedia.org/wiki/Category:驅逐戰車 "wikilink") [Category:有装弹机坦克](https://zh.wikipedia.org/wiki/Category:有装弹机坦克 "wikilink")
 
-1.  [The tank museum,
-    Bovington](http://www.tankmuseum.org/ixbin/indexplus?_IXSS_=_IXMENU_%3dVehicles%26_IXACTION_%3dSUMMARY%26%253atext%3d%2522Tamiya%2bHall%2522%2bin%2bmus_current_location_Section%2bindex%2bmus_text_location%26_IXMAXHITS_%3d12%26_IXSESSION_%3dXeEm7Y2RhKg%26%2524%2bwith%2bmus_catalogue%3d%252e%26_IXFPFX_%3dtemplates%252ffull%252ftvod%252ft%26%253amus_administration_name%3dVEH&_IXFIRST_=25&_IXSPFX_=templates/full/tvod/t&_IXMAXHITS_=1&submit-button=summary&_IXSESSION_=XeEm7Y2RhKg&_IXMENU_=top)
+1.  [The tank museum, Bovington](http://www.tankmuseum.org/ixbin/indexplus?_IXSS_=_IXMENU_%3dVehicles%26_IXACTION_%3dSUMMARY%26%253atext%3d%2522Tamiya%2bHall%2522%2bin%2bmus_current_location_Section%2bindex%2bmus_text_location%26_IXMAXHITS_%3d12%26_IXSESSION_%3dXeEm7Y2RhKg%26%2524%2bwith%2bmus_catalogue%3d%252e%26_IXFPFX_%3dtemplates%252ffull%252ftvod%252ft%26%253amus_administration_name%3dVEH&_IXFIRST_=25&_IXSPFX_=templates/full/tvod/t&_IXMAXHITS_=1&submit-button=summary&_IXSESSION_=XeEm7Y2RhKg&_IXMENU_=top)

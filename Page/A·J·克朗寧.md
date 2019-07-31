@@ -1,5 +1,4 @@
-**A·J·克朗寧**，阿奇博爾德·約瑟夫·克朗寧（，），[蘇格蘭](../Page/蘇格蘭.md "wikilink")[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，世界著名文學《[堡壘](https://zh.wikipedia.org/wiki/堡壘 "wikilink")》（*The
-Citadel*）的作者，1919年畢業於[格拉斯哥大學](../Page/格拉斯哥大學.md "wikilink")。
+**A·J·克朗寧**，阿奇博爾德·約瑟夫·克朗寧（，），[蘇格蘭](../Page/蘇格蘭.md "wikilink")[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，世界著名文學《[堡壘](https://zh.wikipedia.org/wiki/堡壘 "wikilink")》（*The Citadel*）的作者，1919年畢業於[格拉斯哥大學](../Page/格拉斯哥大學.md "wikilink")。
 
 ## 家庭
 
@@ -9,15 +8,6 @@ Citadel*）的作者，1919年畢業於[格拉斯哥大學](../Page/格拉斯哥
 
 ## 参考文献
 
-[Category:蘇格蘭作家](https://zh.wikipedia.org/wiki/Category:蘇格蘭作家 "wikilink")
-[Category:蘇格蘭小說家](https://zh.wikipedia.org/wiki/Category:蘇格蘭小說家 "wikilink")
-[Category:蘇格蘭電視編劇](https://zh.wikipedia.org/wiki/Category:蘇格蘭電視編劇 "wikilink")
-[Category:蘇格蘭劇作家](https://zh.wikipedia.org/wiki/Category:蘇格蘭劇作家 "wikilink")
-[Category:格拉斯哥大學校友](https://zh.wikipedia.org/wiki/Category:格拉斯哥大學校友 "wikilink")
-[Category:国家图书奖得主](https://zh.wikipedia.org/wiki/Category:国家图书奖得主 "wikilink")
-[Category:在瑞士的英國人](https://zh.wikipedia.org/wiki/Category:在瑞士的英國人 "wikilink")
-[Category:罗马天主教作家](https://zh.wikipedia.org/wiki/Category:罗马天主教作家 "wikilink")
-[Category:愛爾蘭裔蘇格蘭人](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔蘇格蘭人 "wikilink")
-[Category:蘇格蘭天主教徒](https://zh.wikipedia.org/wiki/Category:蘇格蘭天主教徒 "wikilink")
+[Category:蘇格蘭作家](https://zh.wikipedia.org/wiki/Category:蘇格蘭作家 "wikilink") [Category:蘇格蘭小說家](https://zh.wikipedia.org/wiki/Category:蘇格蘭小說家 "wikilink") [Category:蘇格蘭電視編劇](https://zh.wikipedia.org/wiki/Category:蘇格蘭電視編劇 "wikilink") [Category:蘇格蘭劇作家](https://zh.wikipedia.org/wiki/Category:蘇格蘭劇作家 "wikilink") [Category:格拉斯哥大學校友](https://zh.wikipedia.org/wiki/Category:格拉斯哥大學校友 "wikilink") [Category:国家图书奖得主](https://zh.wikipedia.org/wiki/Category:国家图书奖得主 "wikilink") [Category:在瑞士的英國人](https://zh.wikipedia.org/wiki/Category:在瑞士的英國人 "wikilink") [Category:罗马天主教作家](https://zh.wikipedia.org/wiki/Category:罗马天主教作家 "wikilink") [Category:愛爾蘭裔蘇格蘭人](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔蘇格蘭人 "wikilink") [Category:蘇格蘭天主教徒](https://zh.wikipedia.org/wiki/Category:蘇格蘭天主教徒 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-**Cocco**，本名**真喜志智子**。1977年1月19日誕生於[沖繩縣](../Page/沖繩縣.md "wikilink")[那霸市](../Page/那霸市.md "wikilink")，[日本歌手](../Page/日本.md "wikilink")。
+**Cocco**，本名**真喜志智子**。1977年1月19日誕生於[沖繩縣](../Page/沖繩縣.md "wikilink")[那霸市](../Page/那霸市.md "wikilink")，[日本](../Page/日本.md "wikilink")歌手。
 
 ## 事業
 
@@ -58,7 +58,4 @@
   - [日本官方網站](http://www.cocco.co.jp)
   - [風雲唱片](http://www.wretch.cc/blog/gutsjpop/6254818)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink")
-[Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink") [Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")

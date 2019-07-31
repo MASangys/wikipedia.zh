@@ -1,5 +1,4 @@
-《**I Only Want
-Happiness**》（日文：**ほとり〜たださいわいを希う。〜**）為[日本](../Page/日本.md "wikilink")[新力影業公司附屬機構](https://zh.wikipedia.org/wiki/新力影業 "wikilink")[Animax頻道所播出的](../Page/Animax.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。全片約四十分鐘。此作品於Animax所舉辦之第三屆Animax動畫大獎中獲得優勝，因而由[日本](../Page/日本.md "wikilink")[Sunrise及Animax製作成為](https://zh.wikipedia.org/wiki/Sunrise "wikilink")[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。當年動畫大獎的主題是「[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")」。原作者宮崎麻耶在獲獎時年僅十八歲。
+《**I Only Want Happiness**》（日文：**ほとり〜たださいわいを希う。〜**）為[日本](../Page/日本.md "wikilink")[新力影業公司附屬機構](https://zh.wikipedia.org/wiki/新力影業 "wikilink")[Animax](../Page/Animax.md "wikilink")頻道所播出的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。全片約四十分鐘。此作品於Animax所舉辦之第三屆Animax動畫大獎中獲得優勝，因而由[日本](../Page/日本.md "wikilink")[Sunrise及Animax製作成為](https://zh.wikipedia.org/wiki/Sunrise "wikilink")[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。當年動畫大獎的主題是「[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")」。原作者宮崎麻耶在獲獎時年僅十八歲。
 
 ## 故事大綱
 
@@ -56,5 +55,4 @@ Happiness**》（日文：**ほとり〜たださいわいを希う。〜**）�
 
   - [Animax動畫大獎](https://web.archive.org/web/20080610061357/http://animaxawards.spti.com/)
 
-[Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

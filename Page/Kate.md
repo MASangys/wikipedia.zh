@@ -12,6 +12,4 @@
   - Freenode 上的 [\#kate](irc://irc.freenode.net/kate)
   - [kate 使用手冊](http://docs.kde.org/stable/en/kdesdk/kate/index.html)
 
-[Category:文本编辑器](https://zh.wikipedia.org/wiki/Category:文本编辑器 "wikilink")
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
+[Category:文本编辑器](https://zh.wikipedia.org/wiki/Category:文本编辑器 "wikilink") [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")

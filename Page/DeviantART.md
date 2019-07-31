@@ -2,10 +2,7 @@
 
 ## 创始
 
-DA最初作为音乐网站[Dmusic
-Network的一部分由Scott](https://zh.wikipedia.org/wiki/Dmusic_Network "wikilink")
-Jarkoff、Matt Stephens和Angelo
-Sotira在2000年8月7日上线。\[1\]并在8个月后正式成立独立公司。\[2\]
+DA最初作为音乐网站[Dmusic Network的一部分由Scott](https://zh.wikipedia.org/wiki/Dmusic_Network "wikilink") Jarkoff、Matt Stephens和Angelo Sotira在2000年8月7日上线。\[1\]并在8个月后正式成立独立公司。\[2\]
 
 ## 概况
 
@@ -31,7 +28,7 @@ DA使用树状的分类系统对用户投稿的作品进行归类整理，并辅
 
 ### 关注系统
 
-用户可以将自己喜欢的作者的动态加入到自己的“关注（Watch）”中以跟踪该作者的作品发表情况。用户所关注的各个作者的动态会在資訊中心汇总，从而得到类似于[RSS系统的聚合更新通告](../Page/RSS.md "wikilink")。\[7\]
+用户可以将自己喜欢的作者的动态加入到自己的“关注（Watch）”中以跟踪该作者的作品发表情况。用户所关注的各个作者的动态会在資訊中心汇总，从而得到类似于[RSS](../Page/RSS.md "wikilink")系统的聚合更新通告。\[7\]
 
 ### 收藏系统
 
@@ -39,15 +36,13 @@ DA使用树状的分类系统对用户投稿的作品进行归类整理，并辅
 
 ### 评论系统
 
-用户可以在其他用户的首页、日志、作品等处发表评论，其他用户可以针对评论进行跟帖。\[9\]
-DA的评论系统是嵌套式的，用户可以在同一页面下进行条理清晰的讨论。\[10\]页面的所有者可以隐藏不希望看到的评论。\[11\]
+用户可以在其他用户的首页、日志、作品等处发表评论，其他用户可以针对评论进行跟帖。\[9\] DA的评论系统是嵌套式的，用户可以在同一页面下进行条理清晰的讨论。\[10\]页面的所有者可以隐藏不希望看到的评论。\[11\]
 
 DA高级会员还可以使用专业评论系统针对某一作品撰写带有星级评价在内的全面而详尽的评论。这种评论显示在被评作品的正下方，但需要得到被评作者的审核通过后才能显示。专业评论本身也被作为一种作品来要求，也可以被评价。\[12\]
 
 ### 每日特色作品
 
-每日特色作品（Daily
-Deviation）是由一般用户向管理员推荐，经讨论通过后放在DA首页展示的有特色的作品。此栏目每天更新一次，作为对人气排序系统的一种补充，让不知名的特色作者可以得到更多关注。\[13\]
+每日特色作品（Daily Deviation）是由一般用户向管理员推荐，经讨论通过后放在DA首页展示的有特色的作品。此栏目每天更新一次，作为对人气排序系统的一种补充，让不知名的特色作者可以得到更多关注。\[13\]
 
 ### 群组系统
 
@@ -68,12 +63,7 @@ DeviantArt的社群有一些约定俗成的常用语，了解这些用语可以�
 ## 外部連結
 
   -
-[Category:2000年建立的网站](https://zh.wikipedia.org/wiki/Category:2000年建立的网站 "wikilink")
-[Category:艺术网站](https://zh.wikipedia.org/wiki/Category:艺术网站 "wikilink")
-[Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink")
-[Category:數位藝術](https://zh.wikipedia.org/wiki/Category:數位藝術 "wikilink")
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:被中華人民共和國封鎖的網站](https://zh.wikipedia.org/wiki/Category:被中華人民共和國封鎖的網站 "wikilink")
+[Category:2000年建立的网站](https://zh.wikipedia.org/wiki/Category:2000年建立的网站 "wikilink") [Category:艺术网站](https://zh.wikipedia.org/wiki/Category:艺术网站 "wikilink") [Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink") [Category:數位藝術](https://zh.wikipedia.org/wiki/Category:數位藝術 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:被中華人民共和國封鎖的網站](https://zh.wikipedia.org/wiki/Category:被中華人民共和國封鎖的網站 "wikilink")
 
 1.
 

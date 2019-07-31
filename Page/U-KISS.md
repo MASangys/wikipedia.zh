@@ -1,8 +1,6 @@
-**U-KISS**（），是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由經紀公司[NH
-Media於](../Page/NH_Media.md "wikilink")2008年成立。成員包括**秀鉉**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出\[1\]。2017年3月，**Kevin**約滿退出。2019年5月16日，**基燮**和**Eli**約滿退出\[2\]。
+**U-KISS**（），是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由經紀公司[NH Media於](../Page/NH_Media.md "wikilink")2008年成立。成員包括**秀鉉**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出\[1\]。2017年3月，**Kevin**約滿退出。2019年5月16日，**基燮**和**Eli**約滿退出\[2\]。
 
-U-KISS的名稱代表著「Ubiquitous Korean International（Idol） Super
-Star」。U-KISS的粉絲名稱為KISSme，官方應援色為櫻桃紅。
+U-KISS的名稱代表著「Ubiquitous Korean International（Idol） Super Star」。U-KISS的粉絲名稱為KISSme，官方應援色為櫻桃紅。
 
 ## 成員資料
 
@@ -28,10 +26,7 @@ Star」。U-KISS的粉絲名稱為KISSme，官方應援色為櫻桃紅。
 
 ### 成員變遷時序表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:08/28/2008 till:2019 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:08/28/2008 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -93,133 +88,92 @@ PlotData =
 
 ## 經歷
 
-  - 8月在韓國M-NET電視台《M\!
-    countdown》中正式出道，組成時只有6個人，其中[Kevin和](../Page/禹成賢.md "wikilink")[起範是另一組合Xing的前成員](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。
-  - 首張迷你專輯《[New
-    Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")》主打曲目《不再年幼（어리지않아）》，是融合了典型K-pop以及Dirty
-    South的南方風格歌曲。
+  - 8月在韓國M-NET電視台《M\! countdown》中正式出道，組成時只有6個人，其中[Kevin和](../Page/禹成賢.md "wikilink")[起範是另一組合Xing的前成員](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。
+  - 首張迷你專輯《[New Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")》主打曲目《不再年幼（어리지않아）》，是融合了典型K-pop以及Dirty South的南方風格歌曲。
 
 <!-- end list -->
 
-  - 與前作《[New
-    Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")》相隔約5個月，U-KISS以第二張迷你專輯《[Bring
-    It Back 2 Old
-    School](https://zh.wikipedia.org/wiki/Bring_It_Back_2_Old_School "wikilink")》回歸，主打曲目為《喜歡你（니가
-    좋아）》
+  - 與前作《[New Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")》相隔約5個月，U-KISS以第二張迷你專輯《[Bring It Back 2 Old School](https://zh.wikipedia.org/wiki/Bring_It_Back_2_Old_School "wikilink")》回歸，主打曲目為《喜歡你（니가 좋아）》
   - 2009年9月，U-KISS加盟[東亞唱片](../Page/東亞唱片_\(集團\).md "wikilink")，成為第一隊簽約海外唱片公司的韓國組合。
   - 2009年11月，U-KISS以第三張迷你專輯《[CONTIUKISS](https://zh.wikipedia.org/wiki/CONTIUKISS "wikilink")》回歸，並加入新成員[李基燮](https://zh.wikipedia.org/wiki/李基燮 "wikilink")。
       - 第三張迷你專輯主打曲目《好欺負嗎（만만하니）》成功的打響了U-KISS在韓國舞台的知名度，富有電子舞曲風格的旋律及MV舞蹈中帥氣的眼神，讓首波主打歌成功攻佔了韓國單曲排行榜KPOP幾週。
 
 <!-- end list -->
 
-  - 在結束第三張迷你專輯的宣傳後不久，U-KISS以正規1輯《[ONLY
-    ONE](../Page/ONLY_ONE.md "wikilink")》回歸。
+  - 在結束第三張迷你專輯的宣傳後不久，U-KISS以正規1輯《[ONLY ONE](../Page/ONLY_ONE.md "wikilink")》回歸。
       - 主打曲目《天旋地轉（빙글빙글）》，以有規律的節奏，讓人聽了後身體不由自主的動起來，在韓國知名的音樂節目"人氣歌謠"中，首次表演就獲得了史無前例的成功，之後推出的第二主打《你說什麼（뭐라고）》更是延續了U-KISS一貫的舞曲風格，一推出馬上獲得高度的喜愛，在韓國單曲榜KPOP獲得了前五名的佳績。
-  - 同年年末，U-KISS以第四張迷你專輯《[BREAK
-    TIME](../Page/BREAK_TIME.md "wikilink")》回歸。主打曲目為《閉嘴\!\!（시끄러\!\!）》
+  - 同年年末，U-KISS以第四張迷你專輯《[BREAK TIME](../Page/BREAK_TIME.md "wikilink")》回歸。主打曲目為《閉嘴\!\!（시끄러\!\!）》
 
 <!-- end list -->
 
-  - 2011年2月，NH
-    Media宣佈亞歷山大與[起範退出組合](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")，而Hoon與AJ代替二人成為新成員。在經紀公司精心打造下，U-KISS渴望成為一個國際組合。
-  - 2011年3月，U-KISS以第五張迷你專輯《[Bran New
-    KISS](https://zh.wikipedia.org/wiki/Bran_New_KISS "wikilink")》回歸。主打曲目《0330》有別於前幾作，充分表現出U-KISS的唱功，推出後獲得高度的喜愛
+  - 2011年2月，NH Media宣佈亞歷山大與[起範退出組合](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")，而Hoon與AJ代替二人成為新成員。在經紀公司精心打造下，U-KISS渴望成為一個國際組合。
+  - 2011年3月，U-KISS以第五張迷你專輯《[Bran New KISS](https://zh.wikipedia.org/wiki/Bran_New_KISS "wikilink")》回歸。主打曲目《0330》有別於前幾作，充分表現出U-KISS的唱功，推出後獲得高度的喜愛
   - 2011年9月以正規2輯《[NEVERLAND](../Page/NEVERLAND.md "wikilink")》回歸，主打曲目《Neverland》也是U-KISS的知名作品，強而有力的舞蹈吸引了不少粉絲，擠進各大音樂節目的前7名。
-  - 2011年12月，U-KISS於日本正式出道，第一張原創日語單曲《[Tick
-    Tack](../Page/Tick_Tack.md "wikilink")》於公信榜單曲週排行榜取得第5位，令U-KISS在日本成功取下佳績，2011的年尾可說是U-KISS大活躍的超級時期。
+  - 2011年12月，U-KISS於日本正式出道，第一張原創日語單曲《[Tick Tack](../Page/Tick_Tack.md "wikilink")》於公信榜單曲週排行榜取得第5位，令U-KISS在日本成功取下佳績，2011的年尾可說是U-KISS大活躍的超級時期。
 
 <!-- end list -->
 
-  - 2011年2月，U-KISS同時發行第二張原創日語單曲《[Forbidden
-    Love](../Page/Forbidden_Love.md "wikilink")》及首張原創日語專輯《[A Shared
-    Dream](../Page/A_Shared_Dream.md "wikilink")》，並於公信榜週排行榜取下佳績。
+  - 2011年2月，U-KISS同時發行第二張原創日語單曲《[Forbidden Love](../Page/Forbidden_Love.md "wikilink")》及首張原創日語專輯《[A Shared Dream](../Page/A_Shared_Dream.md "wikilink")》，並於公信榜週排行榜取下佳績。
   - 同年4月，U-KISS以第六張迷你專輯《[DORADORA](../Page/DORADORA.md "wikilink")》回歸。輕快又有力的舞蹈、性感的骨盆舞，以及基燮、Kevin掀衣服的橋段嚇壞了大家，不但衝進前五，還在M\!Countdown"全球音樂粉絲投票"項目中打敗少女時代TTS及B.A.P，拿下第一名。
-  - 為了感謝KISSME們熱烈支持，U-KISS在繁忙的日本行程中又抽空錄了特別專輯《[The Special To
-    KISSME](../Page/The_Special_To_KISSME.md "wikilink")》，主打曲目《Believe》由成員AJ監製，同樣受到熱烈歡迎。
-  - 同年7月，發行第三張原創日語單曲《[Dear My
-    Friend](../Page/Dear_My_Friend_\(U-KISS單曲\).md "wikilink")》，並宣佈8月會出席[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")「music
-    week - Asia Progress M」和「statium fes.」
-  - 同年9月，成員AJ將會暫時離隊，以便專心學業。而9月的[日本武道館](../Page/日本武道館.md "wikilink")演唱會和第七張迷你專輯《[Stop
-    Girl](../Page/Stop_Girl.md "wikilink")》的回歸，他亦不會參與。第四張原創日語單曲《[One of
-    You](../Page/One_of_You.md "wikilink")》為AJ於2012年最後參與的作品
+  - 為了感謝KISSME們熱烈支持，U-KISS在繁忙的日本行程中又抽空錄了特別專輯《[The Special To KISSME](../Page/The_Special_To_KISSME.md "wikilink")》，主打曲目《Believe》由成員AJ監製，同樣受到熱烈歡迎。
+  - 同年7月，發行第三張原創日語單曲《[Dear My Friend](../Page/Dear_My_Friend_\(U-KISS單曲\).md "wikilink")》，並宣佈8月會出席[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")「music week - Asia Progress M」和「statium fes.」
+  - 同年9月，成員AJ將會暫時離隊，以便專心學業。而9月的[日本武道館](../Page/日本武道館.md "wikilink")演唱會和第七張迷你專輯《[Stop Girl](../Page/Stop_Girl.md "wikilink")》的回歸，他亦不會參與。第四張原創日語單曲《[One of You](../Page/One_of_You.md "wikilink")》為AJ於2012年最後參與的作品
   - U-KISS於12月，發行第五張原創日語單曲《[Distance...](../Page/Distance....md "wikilink")》
 
 <!-- end list -->
 
   - 2013年2月，U-KISS發行第六張原創日語單曲《[ALONE](../Page/ALONE_\(U-KISS單曲\).md "wikilink")》，為[NHK電視劇](https://zh.wikipedia.org/wiki/NHK "wikilink")「[書店員美智留的遭遇](../Page/書店員美智留的遭遇.md "wikilink")」的主題曲
-  - 同年3月，U-KISS以正規3輯《[COLLAGE](../Page/COLLAGE.md "wikilink")》回歸，主打曲目為《Standing
-    Still》。
+  - 同年3月，U-KISS以正規3輯《[COLLAGE](../Page/COLLAGE.md "wikilink")》回歸，主打曲目為《Standing Still》。
       - 此專輯是成員AJ歸隊後，U-KISS重新以七人形式參與演唱的專輯。
-  - 2013年4月，NH
-    Media宣佈Kevin、Eli與AJ組成子團「uBEAT」，並於4月末推出首張迷你專輯《[應該更好的對待你](../Page/應該更好的對待你.md "wikilink")》
-  - 2013年7月，U-KISS發行第二張原創日語專輯《[Inside øf
-    Me](../Page/Inside_øf_Me.md "wikilink")》，並舉行全國巡迴演唱會《U-KISS JAPAN
-    LIVE TOUR 2013 ～Inside øf Me～》。
-  - 2013年10月，NH
-    Media宣佈U-KISS將會以迷你專輯《[MOMENTS](../Page/MOMENTS_\(U-KISS專輯\).md "wikilink")》回歸，同時亦宣佈[東澔以健康為理由](https://zh.wikipedia.org/wiki/申東澔 "wikilink")，決定退團。U-KISS將以六人形式進行以後的活動。
+  - 2013年4月，NH Media宣佈Kevin、Eli與AJ組成子團「uBEAT」，並於4月末推出首張迷你專輯《[應該更好的對待你](../Page/應該更好的對待你.md "wikilink")》
+  - 2013年7月，U-KISS發行第二張原創日語專輯《[Inside øf Me](../Page/Inside_øf_Me.md "wikilink")》，並舉行全國巡迴演唱會《U-KISS JAPAN LIVE TOUR 2013 ～Inside øf Me～》。
+  - 2013年10月，NH Media宣佈U-KISS將會以迷你專輯《[MOMENTS](../Page/MOMENTS_\(U-KISS專輯\).md "wikilink")》回歸，同時亦宣佈[東澔以健康為理由](https://zh.wikipedia.org/wiki/申東澔 "wikilink")，決定退團。U-KISS將以六人形式進行以後的活動。
 
 <!-- end list -->
 
   - 2014年3月19日，U-KISS發行第三張日語專輯《Memories》（AJ未參與），為唯一U-KISS以五人形式活動的專輯。
   - 2014年5月，NH Media宣佈U-KISS將會加入Jun，但暫時不會參與U-KISS的活動。
-  - 2014年6月2日，U-KISS發行第九張迷你專輯《MONO
-    SCANDAL》，亦是Jun第一次參與U-KISS作品，並以主打歌曲《別賣弄風騒》活動。
-  - 2014年7月16日至8月31日，U-KISS展開第三次日本巡迴演唱會《U-KISS JAPAN LIVE TOUR
-    ～Memories～》，為時一個月半，總場數超過30場，打破東方神起29場演出場次的紀錄。
+  - 2014年6月2日，U-KISS發行第九張迷你專輯《MONO SCANDAL》，亦是Jun第一次參與U-KISS作品，並以主打歌曲《別賣弄風騒》活動。
+  - 2014年7月16日至8月31日，U-KISS展開第三次日本巡迴演唱會《U-KISS JAPAN LIVE TOUR ～Memories～》，為時一個月半，總場數超過30場，打破東方神起29場演出場次的紀錄。
   - 2014年9月，U-KISS於俄羅斯莫斯科，英國倫敦和法國巴黎舉行歐洲巡迴演出。
   - 2014年12月17日，U-KISS發行第十張日文單曲《Sweetie》，於日本公信榜周榜獲得第二。
 
 <!-- end list -->
 
-  - 2015年1月14日，U-KISS發行第十張迷你專輯《[Always](../Page/Always_\(U-KISS迷你專輯\).md "wikilink")》先行曲《Smart
-    Love》，1月23日正式發售及公開主打歌《遊樂場》MV，展開宣傳。並於2015年3月3日，在中韓合辦的音樂節目《[THE
-    SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》春節特輯獲得“中國粉絲投票獎”，是U-KISS出道第八年首次一位。
+  - 2015年1月14日，U-KISS發行第十張迷你專輯《[Always](../Page/Always_\(U-KISS迷你專輯\).md "wikilink")》先行曲《Smart Love》，1月23日正式發售及公開主打歌《遊樂場》MV，展開宣傳。並於2015年3月3日，在中韓合辦的音樂節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》春節特輯獲得“中國粉絲投票獎”，是U-KISS出道第八年首次一位。
   - 2015年3月18日，U-KISS發行第四張日語專輯《[Action](../Page/Action_\(U-KISS專輯\).md "wikilink")》，於日本公信榜日榜獲得第一。
   - 2015年4月展開南美巡演。
   - 2015年7月，秀鉉正式於日本個人出道，發表出道作品《君だけを》，並於8月19日正式發行。
   - 2015年8月14日，U-KISS發表第十一張日語單曲《Stay Gold》，並於9月9日開賣。於日本公信榜周榜獲得第二。
-  - 2015年8月16日至30日，在日本展開第四次日本巡迴演唱會《U-KISS JAPAN LIVE TOUR 2015
-    ～Action～》，8月27日基燮意外腰傷，必須接受物理治療，完全康復則需動手術，餘下場次的表演有部分是站在台邊演出。9月18日於東京追加兩場表演。
+  - 2015年8月16日至30日，在日本展開第四次日本巡迴演唱會《U-KISS JAPAN LIVE TOUR 2015 ～Action～》，8月27日基燮意外腰傷，必須接受物理治療，完全康復則需動手術，餘下場次的表演有部分是站在台邊演出。9月18日於東京追加兩場表演。
   - 2015年12月23日，U-KISS發表第一張日語聖誕特別專輯《THE CHRISTMAS ALBUM》，於日本公信榜周榜獲得第十二位。
 
 <!-- end list -->
 
-  - 2016年2月23日，U-KISS發表第十二張日語單曲《Kissing to Feel》，並於3月23發行第五張日語專輯《[One
-    Shot One
-    Kill](../Page/One_Shot_One_Kill.md "wikilink")》，於日本公信榜日榜獲得第三。
+  - 2016年2月23日，U-KISS發表第十二張日語單曲《Kissing to Feel》，並於3月23發行第五張日語專輯《[One Shot One Kill](../Page/One_Shot_One_Kill.md "wikilink")》，於日本公信榜日榜獲得第三。
   - 2016年6月7日，U-KISS發行第十一張迷你專輯《[STALKER](../Page/STALKER.md "wikilink")》，並以主打歌《STALKER》MV，展開闊別韓國1年半的宣傳。據報該專輯的部分利潤捐贈給慈善活動。
-  - 2016年9月5日， AJ宣佈與公司「NH
-    Media」的合約已經在8月29日到期，正式退團，並向大家保證：「我會更加努力成為一名好的音樂人，並將更好的作品帶到大家面前」。U-KISS則以繼續以六人形式進行以後的活動。
+  - 2016年9月5日， AJ宣佈與公司「NH Media」的合約已經在8月29日到期，正式退團，並向大家保證：「我會更加努力成為一名好的音樂人，並將更好的作品帶到大家面前」。U-KISS則以繼續以六人形式進行以後的活動。
   - 2016年11月7日，韓國公司NH Media在U-KISS的日本官方網站公布發行日語精選輯的消息，以紀念日本出道五周年
   - 2016年11月16日，U-KISS發行第十三張日語單曲《PaNiC\!》，於日本公信榜周榜獲得第五。
-  - 從11月23日到12月25日，U-KISS在日本舉行全國巡迴精選演唱會《U-KISS JAPAN BEST LIVE TOUR
-    2016～5th Anniversary Special～supported by
-    CHIC-Smart》以宣傳五周年日語精選輯《[U-KISS JAPAN BEST
-    COLLECTION
-    2011-2016](../Page/U-KISS_JAPAN_BEST_COLLECTION_2011-2016.md "wikilink")》。精選輯於12月21日開賣。於日本公信榜周榜獲得第八。
+  - 從11月23日到12月25日，U-KISS在日本舉行全國巡迴精選演唱會《U-KISS JAPAN BEST LIVE TOUR 2016～5th Anniversary Special～supported by CHIC-Smart》以宣傳五周年日語精選輯《[U-KISS JAPAN BEST COLLECTION 2011-2016](../Page/U-KISS_JAPAN_BEST_COLLECTION_2011-2016.md "wikilink")》。精選輯於12月21日開賣。於日本公信榜周榜獲得第八。
 
 <!-- end list -->
 
   - 2017年3月2日， Kevin宣佈與公司「NH Media」的合約到期後退團，而原始成員Eli和秀鉉則與NH Media續約。
-  - 2017年4月，U-KISS於日本舉行8場歡送Kevin離團的公演《U-KISS PREMIUM LIVE -KEVIN'S
-    GRADUATION-》，亦是Kevin以U-KISS成員的身份參與的最後公演。
+  - 2017年4月，U-KISS於日本舉行8場歡送Kevin離團的公演《U-KISS PREMIUM LIVE -KEVIN'S GRADUATION-》，亦是Kevin以U-KISS成員的身份參與的最後公演。
   - 2017年4月25日， Kevin正式退團，U-KISS其後以五人形式進行以後的活動，經紀公司亦表示不會再增加新人。
   - 2017年9月6日，基燮於拍攝預定於10月回歸的MV時，手上的煙霧彈突然爆炸，造成爆炸二度灼傷，鼻樑、眼睛及身上扎入了數十塊碎片，被緊急移送到仁川的一間醫院接受治療。
   - 2017年9月30日，U-KISS發表第十四張日語單曲《FLY》的MV，並於10月11日開賣，於日本公信榜周榜獲得第五。
   - 2017年10月11日，Jun首次參演電視劇《[付岩洞復仇者們](../Page/付岩洞復仇者們.md "wikilink")》，並因為其細緻的演技與出眾的外貌，Jun開始獲得關注和討論。
-  - 2017年10月28日，Jun參加了MBC選秀節目《[The
-    Unit](../Page/The_Unit.md "wikilink")》，並以Superboot的成績被選拔。
+  - 2017年10月28日，Jun參加了MBC選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》，並以Superboot的成績被選拔。
   - 2017年12月28日，隊長秀鉉在成員和同事陪伴下低調入伍，U-KISS則暫時以四人形式進行以後的活動。
 
 <!-- end list -->
 
   - 2018年1月尾，U-KISS的官方網站宣布將在3月21日發行第二張個人Solo與分隊的專輯《[Link](../Page/Link_\(U-KISS專輯\).md "wikilink")》，代表將U-KISS和歌迷「KISSme」連接起來。這也是U-KISS隊長秀鉉服兵役後組合第一次以四人體制發行的作品。
-  - 2018年2月11日，在選秀節目《The
-    Unit》的最後一集中，Jun（李濬榮）獲得第1名，進入期間限定團體[UNB](../Page/UNB.md "wikilink")出道，其專屬合約總共期間為13個月：其中前7個月要專一地待在UNB活動，剩下的6個月，可以回到原本所屬社進行活動。
-  - 2018年3月8日，U-KISS發表《Link》中主打歌《No
-    Regret》的MV，《Link》亦於3月21日開賣，於日本公信榜周榜獲得第四。
-  - 2018年5月2日，U-KISS的日本官方網站宣布基燮與Hoon組成小組，將在7月4日發行日語合作單曲《Train/Milk
-    Tea》，MV亦於6月18日先行公開。
+  - 2018年2月11日，在選秀節目《The Unit》的最後一集中，Jun（李濬榮）獲得第1名，進入期間限定團體[UNB](../Page/UNB.md "wikilink")出道，其專屬合約總共期間為13個月：其中前7個月要專一地待在UNB活動，剩下的6個月，可以回到原本所屬社進行活動。
+  - 2018年3月8日，U-KISS發表《Link》中主打歌《No Regret》的MV，《Link》亦於3月21日開賣，於日本公信榜周榜獲得第四。
+  - 2018年5月2日，U-KISS的日本官方網站宣布基燮與Hoon組成小組，將在7月4日發行日語合作單曲《Train/Milk Tea》，MV亦於6月18日先行公開。
 
 ## 影視作品
 
@@ -1145,26 +1099,18 @@ Arirang TV《Simply K-Pop》MC Eli
 ### 其他單曲
 
   -
-    2010年
-    KBS《[國家在召喚](https://zh.wikipedia.org/wiki/國家在召喚 "wikilink")》OST〈我可以做到〉
-    2010年 SBS
-    Plus《[挑戰英雄](https://zh.wikipedia.org/wiki/挑戰英雄 "wikilink")》OST〈Hero〉
+    2010年 KBS《[國家在召喚](https://zh.wikipedia.org/wiki/國家在召喚 "wikilink")》OST〈我可以做到〉
+    2010年 SBS Plus《[挑戰英雄](https://zh.wikipedia.org/wiki/挑戰英雄 "wikilink")》OST〈Hero〉
     2010年 第23回 世界禁煙日 禁煙大使的主題曲
-    2011年 MBC《[Real
-    School](https://zh.wikipedia.org/wiki/Real_School "wikilink")》OST〈Always〉、〈Kiss
-    Me〉
-    2011年
-    電影《[偶像先生](https://zh.wikipedia.org/wiki/偶像先生 "wikilink")》OST〈망가져가（壞死）〉
+    2011年 MBC《[Real School](https://zh.wikipedia.org/wiki/Real_School "wikilink")》OST〈Always〉、〈Kiss Me〉
+    2011年 電影《[偶像先生](https://zh.wikipedia.org/wiki/偶像先生 "wikilink")》OST〈망가져가（壞死）〉
     2012年 Alexander〈I Just〉
     2012年〈Lifetime For kiss me〉MV
     2012年 jTBC《[综合症](../Page/症候群_\(電視劇\).md "wikilink")》OST〈Remember〉
     2012年 日本动漫電影《翡翠森林狼与羊》OST〈Dear My Friend〉
     2012年 秀鉉solo數位單曲《雪人》
-    2017年 KBS
-    2TV《[Manhole：夢遊仙境的奉弼](../Page/Manhole：夢遊仙境的奉弼.md "wikilink")》OST
-    Part.5〈RUN A WAY〉
-    2017年 合輯《Thank You Disney》收錄歌曲〈[Try
-    Everything](../Page/嘗試一切.md "wikilink")〉（翻唱《[優獸大都會](https://zh.wikipedia.org/wiki/優獸大都會 "wikilink")》主題曲）
+    2017年 KBS 2TV《[Manhole：夢遊仙境的奉弼](../Page/Manhole：夢遊仙境的奉弼.md "wikilink")》OST Part.5〈RUN A WAY〉
+    2017年 合輯《Thank You Disney》收錄歌曲〈[Try Everything](../Page/嘗試一切.md "wikilink")〉（翻唱《[優獸大都會](https://zh.wikipedia.org/wiki/優獸大都會 "wikilink")》主題曲）
     2017年 數位單曲《Ready for U（널 맞이할 준비）》
     2017年 秀鉉入伍前solo日語數位單曲《YOURS》
     2017年 秀鉉入伍後solo韓語數位單曲《YOU》
@@ -1513,13 +1459,7 @@ Arirang TV《Simply K-Pop》MC Eli
   - [Hoon Instagram](https://www.instagram.com/yhm1991/)
   - [Jun Instagram](https://www.instagram.com/ukiss_jun97/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
-1.  [AJ officially leaves U-KISS as his contract
-    ends](http://www.allkpop.com/article/2016/09/aj-officially-leaves-u-kiss-as-his-contract-ends)
-2.  [유키스 일라이·기섭 전속계약 만료…독자 활동
-    나선다](https://www.mk.co.kr/star/hot-issues/view/2019/05/321748/)
+1.  [AJ officially leaves U-KISS as his contract ends](http://www.allkpop.com/article/2016/09/aj-officially-leaves-u-kiss-as-his-contract-ends)
+2.  [유키스 일라이·기섭 전속계약 만료…독자 활동 나선다](https://www.mk.co.kr/star/hot-issues/view/2019/05/321748/)

@@ -1,47 +1,30 @@
-**Courier**是一個[等寬的](https://zh.wikipedia.org/wiki/等寬字體 "wikilink")[粗襯線字體](https://zh.wikipedia.org/wiki/粗襯線體 "wikilink")，主要是依據[打字機所打印出來的字形來設計](https://zh.wikipedia.org/wiki/打字機 "wikilink")，於1955年由Howard
-"Bud"
-Kettler設計完成。原來的Courier字體是[IBM公司在](../Page/IBM.md "wikilink")1950年代設計給打印機使用的字體，但是並未維護他們的專利，使得這個字型成為整個打字機製造業的標準。
+**Courier**是一個[等寬的](https://zh.wikipedia.org/wiki/等寬字體 "wikilink")[粗襯線字體](https://zh.wikipedia.org/wiki/粗襯線體 "wikilink")，主要是依據[打字機所打印出來的字形來設計](https://zh.wikipedia.org/wiki/打字機 "wikilink")，於1955年由Howard "Bud" Kettler設計完成。原來的Courier字體是[IBM](../Page/IBM.md "wikilink")公司在1950年代設計給打印機使用的字體，但是並未維護他們的專利，使得這個字型成為整個打字機製造業的標準。
 
 在現今的電子時代，此字體也常被使用，因為其等寬的特性可以輕易地對齊[欄位的左右邊界](https://zh.wikipedia.org/wiki/欄 "wikilink")，也成為[腳本和](https://zh.wikipedia.org/wiki/腳本 "wikilink")[程式設計中](https://zh.wikipedia.org/wiki/程式設計 "wikilink")[原始碼的常用字體](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。
 
-12[pt的Courier](../Page/點_\(印刷\).md "wikilink")
-New字體曾是[美國國務院的公文標準字體](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")，但於2004年1月停用，改使用14pt的[Times
-New
-Roman](../Page/Times_New_Roman.md "wikilink")，因為其具「現代性」和「易讀性」\[1\]\[2\]\[3\]。
+12[pt的Courier](../Page/點_\(印刷\).md "wikilink") New字體曾是[美國國務院的公文標準字體](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")，但於2004年1月停用，改使用14pt的[Times New Roman](../Page/Times_New_Roman.md "wikilink")，因為其具「現代性」和「易讀性」\[1\]\[2\]\[3\]。
 
 ## 變體
 
 ### Courier New
 
-Courier
-New是Courier的一個變體，由[阿德里安·弗鲁提格為](../Page/阿德里安·弗鲁提格.md "wikilink")[IBM打字機設計的](../Page/IBM.md "wikilink")。此字體涵蓋Courier
-New、Courier New Bold（粗體）、Courier New Italic（斜體）、Courier New Bold
-Italic（粗斜體）。
+Courier New是Courier的一個變體，由[阿德里安·弗鲁提格](../Page/阿德里安·弗鲁提格.md "wikilink")為[IBM](../Page/IBM.md "wikilink")打字機設計的。此字體涵蓋Courier New、Courier New Bold（粗體）、Courier New Italic（斜體）、Courier New Bold Italic（粗斜體）。
 
-這個字體家族首先在[Windows
-3.1問世](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，特點是行距比Courier來的寬，標點符號也更新過，看起來較為醒目。
+這個字體家族首先在[Windows 3.1問世](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，特點是行距比Courier來的寬，標點符號也更新過，看起來較為醒目。
 
-版本2.76以及之後的版本加入了[希伯來文和](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")[阿拉伯文的字集](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")，但阿拉伯文大多沒有斜體的部分，跟[Times
-New Roman有些類似](../Page/Times_New_Roman.md "wikilink")，只是變成等寬字母。
+版本2.76以及之後的版本加入了[希伯來文和](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")[阿拉伯文的字集](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")，但阿拉伯文大多沒有斜體的部分，跟[Times New Roman有些類似](../Page/Times_New_Roman.md "wikilink")，只是變成等寬字母。
 
-Courier
-New現已更新至版本5.00，包含了超過3100個[字形以及超過](../Page/字形.md "wikilink")2700個字母。
+Courier New現已更新至版本5.00，包含了超過3100個[字形](../Page/字形.md "wikilink")以及超過2700個字母。
 
 ### Courier Std
 
-CourierStd、CourierStd-Bold、CourierStd-BoldOblique、CourierStd-Oblique等字體搭載在[Adobe
-Reader](https://zh.wikipedia.org/wiki/Adobe_Reader "wikilink")
-6軟體中，取代[PostScript](../Page/PostScript.md "wikilink")
-Courier字體。此字體笔画的終結處是扁平的而非圓弧。它涵盖了码表1252, Windows
-OEM字符集，并为各个尺寸做出了详细Hint和平滑信息。该字体还包含了OpenType排版表中在拉丁文字默认语言的aalt,
-dlig, frac, ordn, sups信息和拉丁文本TUR语言中dlig信息。每个字体包含374字形。
+CourierStd、CourierStd-Bold、CourierStd-BoldOblique、CourierStd-Oblique等字體搭載在[Adobe Reader](https://zh.wikipedia.org/wiki/Adobe_Reader "wikilink") 6軟體中，取代[PostScript](../Page/PostScript.md "wikilink") Courier字體。此字體笔画的終結處是扁平的而非圓弧。它涵盖了码表1252, Windows OEM字符集，并为各个尺寸做出了详细Hint和平滑信息。该字体还包含了OpenType排版表中在拉丁文字默认语言的aalt, dlig, frac, ordn, sups信息和拉丁文本TUR语言中dlig信息。每个字体包含374字形。
 
 ## 應用
 
 ### ASCII藝術
 
-因為Courier為世界通用的[等寬字體](https://zh.wikipedia.org/wiki/等寬字體 "wikilink")，常被用在[ASCII藝術](https://zh.wikipedia.org/wiki/ASCII藝術 "wikilink")，利用不同字母或符號的特性來表示圖案的明暗。以下表內的數字代表12
-pt大小的字母所使用的像素數量：
+因為Courier為世界通用的[等寬字體](https://zh.wikipedia.org/wiki/等寬字體 "wikilink")，常被用在[ASCII藝術](https://zh.wikipedia.org/wiki/ASCII藝術 "wikilink")，利用不同字母或符號的特性來表示圖案的明暗。以下表內的數字代表12 pt大小的字母所使用的像素數量：
 
 |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |                                                    |
 | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
@@ -65,9 +48,7 @@ pt大小的字母所使用的像素數量：
 
 ### 程式碼字型
 
-[Courier_New_programming.png](https://zh.wikipedia.org/wiki/File:Courier_New_programming.png "fig:Courier_New_programming.png")
-Courier
-New也被運用在撰寫程式碼時所選用的字型，例如：在程式碼編輯器[Notepad++和](../Page/Notepad++.md "wikilink")[Notepad2裡使用](../Page/Notepad2.md "wikilink")[等寬字體的場合](https://zh.wikipedia.org/wiki/等寬字體 "wikilink")。然而因其不包含[中文字符](../Page/汉字.md "wikilink")，操作系统通常会用压扁的[宋体应付](../Page/宋体.md "wikilink")，导致外观极不协调。
+[Courier_New_programming.png](https://zh.wikipedia.org/wiki/File:Courier_New_programming.png "fig:Courier_New_programming.png") Courier New也被運用在撰寫程式碼時所選用的字型，例如：在程式碼編輯器[Notepad++](../Page/Notepad++.md "wikilink")和[Notepad2](../Page/Notepad2.md "wikilink")裡使用[等寬字體的場合](https://zh.wikipedia.org/wiki/等寬字體 "wikilink")。然而因其不包含[中文字符](../Page/汉字.md "wikilink")，操作系统通常会用压扁的[宋体](../Page/宋体.md "wikilink")应付，导致外观极不协调。
 
 ## 另見
 
@@ -80,34 +61,20 @@ New也被運用在撰寫程式碼時所選用的字型，例如：在程式碼�
 
 <references />
 
-  - Macmillan, Neil. *An A–Z of Type Designers.* Yale University Press:
-    2006. ISBN 0-300-11151-7.
+  - Macmillan, Neil. *An A–Z of Type Designers.* Yale University Press: 2006. ISBN 0-300-11151-7.
 
 </div>
 
 ## 外部連結
 
   - [美國停止使用Courier字體](https://web.archive.org/web/20060215090154/http://www.abc.net.au/news/newsitems/s1034726.htm)
-  - [Courier
-    New字體資訊](http://www.microsoft.com/typography/fonts/font.aspx?FID=10&FNAME=Courier%20New)
-  - [下載Courier
-    New](http://prdownloads.sourceforge.net/corefonts/courie32.exe?download)
-  - [Courier設計師－the Bud Kettler
-    Page](http://www.graphos.org/courier.html)
-  - [跟Courier說再見？](http://www.slate.com/id/2095809/) - Tom Vanderbilt,
-    *[Slate.com](https://zh.wikipedia.org/wiki/Slate.com "wikilink")*,
-    20 February 2004.
+  - [Courier New字體資訊](http://www.microsoft.com/typography/fonts/font.aspx?FID=10&FNAME=Courier%20New)
+  - [下載Courier New](http://prdownloads.sourceforge.net/corefonts/courie32.exe?download)
+  - [Courier設計師－the Bud Kettler Page](http://www.graphos.org/courier.html)
+  - [跟Courier說再見？](http://www.slate.com/id/2095809/) - Tom Vanderbilt, *[Slate.com](https://zh.wikipedia.org/wiki/Slate.com "wikilink")*, 20 February 2004.
 
-[Category:網頁核心字型](https://zh.wikipedia.org/wiki/Category:網頁核心字型 "wikilink")
-[Category:Windows_XP字體](https://zh.wikipedia.org/wiki/Category:Windows_XP字體 "wikilink")
-[Category:等宽字体](https://zh.wikipedia.org/wiki/Category:等宽字体 "wikilink")
-[Category:衬线字体](https://zh.wikipedia.org/wiki/Category:衬线字体 "wikilink")
+[Category:網頁核心字型](https://zh.wikipedia.org/wiki/Category:網頁核心字型 "wikilink") [Category:Windows_XP字體](https://zh.wikipedia.org/wiki/Category:Windows_XP字體 "wikilink") [Category:等宽字体](https://zh.wikipedia.org/wiki/Category:等宽字体 "wikilink") [Category:衬线字体](https://zh.wikipedia.org/wiki/Category:衬线字体 "wikilink")
 
-1.  [US bans time-honoured
-    typeface](http://www.abc.net.au/news/stories/2004/01/30/1034726.htm)
-2.  [Goodbye to the Courier font?](http://www.slate.com/id/2095809/) -
-    [Tom
-    Vanderbilt](https://zh.wikipedia.org/wiki/Tom_Vanderbilt "wikilink"),
-    *[Slate.com](https://zh.wikipedia.org/wiki/Slate.com "wikilink")*,
-    20 February 2004.
+1.  [US bans time-honoured typeface](http://www.abc.net.au/news/stories/2004/01/30/1034726.htm)
+2.  [Goodbye to the Courier font?](http://www.slate.com/id/2095809/) - [Tom Vanderbilt](https://zh.wikipedia.org/wiki/Tom_Vanderbilt "wikilink"), *[Slate.com](https://zh.wikipedia.org/wiki/Slate.com "wikilink")*, 20 February 2004.
 3.

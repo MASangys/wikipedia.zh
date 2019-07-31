@@ -1,4 +1,4 @@
-\(e^\pi  \,\)是一个[数学常数](../Page/数学常数.md "wikilink")。与[e和](https://zh.wikipedia.org/wiki/e_\(数学常数\) "wikilink")[π一样](https://zh.wikipedia.org/wiki/圆周率 "wikilink")，它是一个[超越数](https://zh.wikipedia.org/wiki/超越数 "wikilink")。这可以用[格尔丰德-施奈德定理来证明](../Page/格尔丰德-施奈德定理.md "wikilink")，并注意到：
+\(e^\pi  \,\)是一个[数学常数](../Page/数学常数.md "wikilink")。与[e和](https://zh.wikipedia.org/wiki/e_\(数学常数\) "wikilink")[π一样](https://zh.wikipedia.org/wiki/圆周率 "wikilink")，它是一个[超越数](https://zh.wikipedia.org/wiki/超越数 "wikilink")。这可以用[格尔丰德-施奈德定理](../Page/格尔丰德-施奈德定理.md "wikilink")来证明，并注意到：
 
 \[e^\pi  \; = \;    (e^{i\pi})^{-i}   \; = \;(-1)^{-i}\]
 
@@ -10,7 +10,7 @@
 
 \[e^\pi  \approx 23.140692632\dots\,.\]
 
-它的值可以用以下[迭代来求出](../Page/迭代.md "wikilink")。定义
+它的值可以用以下[迭代](../Page/迭代.md "wikilink")来求出。定义
 
 \[k_n=\frac{1-\sqrt{1-k_{n-1}^2}}{1+\sqrt{1-k_{n-1}^2}}\]
 
@@ -50,8 +50,7 @@
 
   - [MathWorld](http://mathworld.wolfram.com/GelfondsConstant.html)
 
-[Category:超越数](https://zh.wikipedia.org/wiki/Category:超越数 "wikilink")
-[Category:数学常数](https://zh.wikipedia.org/wiki/Category:数学常数 "wikilink")
+[Category:超越数](https://zh.wikipedia.org/wiki/Category:超越数 "wikilink") [Category:数学常数](https://zh.wikipedia.org/wiki/Category:数学常数 "wikilink")
 
 1.
 2.  Connolly, Francis. University of Notre Dame

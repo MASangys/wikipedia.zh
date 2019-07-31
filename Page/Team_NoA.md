@@ -1,9 +1,5 @@
-**Team
-NoA**是知名的職業性[絕對武力電玩遊戲的隊伍](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")。創辦人為Jonas
-"bsl" Alsaker，於2003年創辦，他們也是第一個電子競技的隊伍將別的隊伍的隊員挖角付錢到自己隊上的隊伍。當年是將Ola
-"element" Moum從[SK Gaming挖角過來](../Page/SK_Gaming.md "wikilink")。
-Team
-NoA駐紮在挪威，再絕對武力的電子競技上的歐洲排名常常佔有一席之位，也是電玩大賽中[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")、[CPL上的常客](https://zh.wikipedia.org/wiki/CPL "wikilink")。
+**Team NoA**是知名的職業性[絕對武力電玩遊戲的隊伍](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")。創辦人為Jonas "bsl" Alsaker，於2003年創辦，他們也是第一個電子競技的隊伍將別的隊伍的隊員挖角付錢到自己隊上的隊伍。當年是將Ola "element" Moum從[SK Gaming挖角過來](../Page/SK_Gaming.md "wikilink")。
+Team NoA駐紮在挪威，再絕對武力的電子競技上的歐洲排名常常佔有一席之位，也是電玩大賽中[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")、[CPL上的常客](https://zh.wikipedia.org/wiki/CPL "wikilink")。
 
 ## 隊員
 
@@ -57,14 +53,11 @@ NoA駐紮在挪威，再絕對武力的電子競技上的歐洲排名常常佔�
 
   - Jonas "bsl" Alexander vikan（退休）
 
-  - Lars "Naikon"
-    Olaisen（目前在[MYM](https://zh.wikipedia.org/wiki/MYM "wikilink")）
+  - Lars "Naikon" Olaisen（目前在[MYM](https://zh.wikipedia.org/wiki/MYM "wikilink")）
 
   - Jorgen "XeqtR" Johannessen（2006年7月19日退休）
 
-  - Griffin "shaGuar" Benger（轉隊到[Team
-    3D](../Page/Team_3D.md "wikilink")，目前在[Team
-    EG](https://zh.wikipedia.org/wiki/Team_EG "wikilink")）
+  - Griffin "shaGuar" Benger（轉隊到[Team 3D](../Page/Team_3D.md "wikilink")，目前在[Team EG](https://zh.wikipedia.org/wiki/Team_EG "wikilink")）
 
   - Michael "method" So（轉隊到[Team 3D](../Page/Team_3D.md "wikilink")）
 
@@ -86,13 +79,12 @@ NoA駐紮在挪威，再絕對武力的電子競技上的歐洲排名常常佔�
   - 2007年法國[ESWC](https://zh.wikipedia.org/wiki/ESWC "wikilink")－第二名
   - NGL ONE第二季決賽－第三名
   - 2007年SHG公開賽－第三名
-  - 2006年[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")[蒙扎站](../Page/蒙扎.md "wikilink")－第四名
+  - 2006年[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")[蒙扎](../Page/蒙扎.md "wikilink")站－第四名
   - 2006年Clanbase歐洲盃－第一名
   - 2006年SHG公開賽－第一名
   - 2005年[WEG第三季](https://zh.wikipedia.org/wiki/WEG "wikilink")－第五名
   - 2005年WEG Qualifier Stockholm－第二名
-  - 2005年[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink") UK
-    Sheffield－第四名
+  - 2005年[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink") UK Sheffield－第四名
   - 2005年[WEG第一季](https://zh.wikipedia.org/wiki/WEG "wikilink")－第一名
   - 2004年[CPL冬季賽](https://zh.wikipedia.org/wiki/CPL "wikilink")－第一名
   - 2004年美國[ESWC](https://zh.wikipedia.org/wiki/ESWC "wikilink")－第一名
@@ -113,14 +105,11 @@ NoA駐紮在挪威，再絕對武力的電子競技上的歐洲排名常常佔�
 
 ## 連結
 
-  - [Team
-    NoA官方網站](https://web.archive.org/web/20070202002842/http://www.teamnoa.eu/)
+  - [Team NoA官方網站](https://web.archive.org/web/20070202002842/http://www.teamnoa.eu/)
   - [GotFrag網站資訊](https://web.archive.org/web/20071011212727/http://www.gotfrag.com/cs/stats/team/11/)
 
-[Category:戰慄時空系列](https://zh.wikipedia.org/wiki/Category:戰慄時空系列 "wikilink")
-[Category:电子竞技团队](https://zh.wikipedia.org/wiki/Category:电子竞技团队 "wikilink")
+[Category:戰慄時空系列](https://zh.wikipedia.org/wiki/Category:戰慄時空系列 "wikilink") [Category:电子竞技团队](https://zh.wikipedia.org/wiki/Category:电子竞技团队 "wikilink")
 
 1.  [CPL](http://www.thecpl.com/?p=1033)
 2.  [ZoneRank](http://www.zonerank.com/demo/view_regular/1679)
-3.  [Top Player Information: Counter Strike » September
-    '07](http://www.zonerank.com/site/playerlist/221?ln=us)
+3.  [Top Player Information: Counter Strike » September '07](http://www.zonerank.com/site/playerlist/221?ln=us)

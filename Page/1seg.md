@@ -6,9 +6,7 @@
 
 ## 概要
 
-[PSP_Japan_1SEG.JPG](https://zh.wikipedia.org/wiki/File:PSP_Japan_1SEG.JPG "fig:PSP_Japan_1SEG.JPG")（附加外接设备）播放的1Seg电视内容\]\]
-日本的地上數位電視放送[ISDB](../Page/ISDB.md "wikilink")-T将470[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")-710MHz間的[UHF频段划分为](https://zh.wikipedia.org/wiki/UHF "wikilink")13-52频道，共40個頻道。1个频道又[频分為](https://zh.wikipedia.org/wiki/频分多址 "wikilink")13個频片（segment），12个频片用于播放[高清節目](../Page/高清电视.md "wikilink")，余下1个频片用于播放面向移动终端（例如手提电话）的低[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")（[QVGA](https://zh.wikipedia.org/wiki/QVGA "wikilink")
-320×240/320×180）节目。此高清节目也简称12seg或full-seg，移动终端用的低清晰度节目也叫做1seg。移動終端使用低解析度节目，是因为移动设备的画面小、处理能力弱，而且便携设备本身的移动会导致无线电信号质量较差，需要使用较抗干扰的低带宽调制方式。\[4\]1seg的聲音部分仅支援[立體聲](../Page/立體聲.md "wikilink")雙聲道，不支援[5.1聲道](../Page/5.1聲道.md "wikilink")環繞音效。
+[PSP_Japan_1SEG.JPG](https://zh.wikipedia.org/wiki/File:PSP_Japan_1SEG.JPG "fig:PSP_Japan_1SEG.JPG")（附加外接设备）播放的1Seg电视内容\]\] 日本的地上數位電視放送[ISDB](../Page/ISDB.md "wikilink")-T将470[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")-710MHz間的[UHF频段划分为](https://zh.wikipedia.org/wiki/UHF "wikilink")13-52频道，共40個頻道。1个频道又[频分為](https://zh.wikipedia.org/wiki/频分多址 "wikilink")13個频片（segment），12个频片用于播放[高清節目](../Page/高清电视.md "wikilink")，余下1个频片用于播放面向移动终端（例如手提电话）的低[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")（[QVGA](https://zh.wikipedia.org/wiki/QVGA "wikilink") 320×240/320×180）节目。此高清节目也简称12seg或full-seg，移动终端用的低清晰度节目也叫做1seg。移動終端使用低解析度节目，是因为移动设备的画面小、处理能力弱，而且便携设备本身的移动会导致无线电信号质量较差，需要使用较抗干扰的低带宽调制方式。\[4\]1seg的聲音部分仅支援[立體聲](../Page/立體聲.md "wikilink")雙聲道，不支援[5.1聲道](../Page/5.1聲道.md "wikilink")環繞音效。
 
 使用[手提電話進行收視時](https://zh.wikipedia.org/wiki/手提電話 "wikilink")，也必須遵守。但由于手提电话是通信设备而非播放设备，故而不必支付收视费用。播放时可能需要通过互联网下载电视节目详细信息，此时可能会消耗手机的数据流量，所以携带电话会提示用户是否进行播放（默认设置，可变更）。
 
@@ -28,8 +26,7 @@ NHK在法律限制解除以后，自2009年起开始1seg放送，并从2010年�
 
 ### 多重編組
 
-1seg可以在媒体流级别进行多重编码，从而实现仅占用1个频片的多重节目编组：用1个频片承载2套节目内容。也2007年11月16日、[東京都會電視台](../Page/東京都會電視台.md "wikilink")（TOKYO
-MX）宣告1seg的多重編組實驗成功\[6\]，並於2008年6月23日開始提供以1seg進行多重編組的「」\[7\]\[8\]。
+1seg可以在媒体流级别进行多重编码，从而实现仅占用1个频片的多重节目编组：用1个频片承载2套节目内容。也2007年11月16日、[東京都會電視台](../Page/東京都會電視台.md "wikilink")（TOKYO MX）宣告1seg的多重編組實驗成功\[6\]，並於2008年6月23日開始提供以1seg進行多重編組的「」\[7\]\[8\]。
 
 在技术规格上来说，最多可以承载3套节目，不過由於TOKYO MX只提供了2套节目内容，故而1seg节目使用与高清内容相同的节目表。
 
@@ -47,14 +44,11 @@ MX）宣告1seg的多重編組實驗成功\[6\]，並於2008年6月23日開始�
 
 ## 数据广播
 
-[Live_TV_on_the_mobile_phone_(4250598083).jpg](https://zh.wikipedia.org/wiki/File:Live_TV_on_the_mobile_phone_\(4250598083\).jpg "fig:Live_TV_on_the_mobile_phone_(4250598083).jpg")
-由于1seg面向移动终端，除了普通的電視節目内容，也允许提供1seg專用的附加数据。各电视台可活用此机能，提供各种服务。1seg專用資料放送包含「放送與通信協同機能」，为手提電話業者和各電視台提供了开展新业务的可能。
+[Live_TV_on_the_mobile_phone_(4250598083).jpg](https://zh.wikipedia.org/wiki/File:Live_TV_on_the_mobile_phone_\(4250598083\).jpg "fig:Live_TV_on_the_mobile_phone_(4250598083).jpg") 由于1seg面向移动终端，除了普通的電視節目内容，也允许提供1seg專用的附加数据。各电视台可活用此机能，提供各种服务。1seg專用資料放送包含「放送與通信協同機能」，为手提電話業者和各電視台提供了开展新业务的可能。
 
-凭借包括資料放送在内的附加服務製作，NHK获得了移動服務論壇颁发的2006年的移動工程獎（），以及2006年的[好设计奖](https://zh.wikipedia.org/wiki/好设计奖 "wikilink")。NHK与、[NTT
-DOCOMO間的合作也在進行中](../Page/NTT_DOCOMO.md "wikilink")。
+凭借包括資料放送在内的附加服務製作，NHK获得了移動服務論壇颁发的2006年的移動工程獎（），以及2006年的[好设计奖](https://zh.wikipedia.org/wiki/好设计奖 "wikilink")。NHK与、[NTT DOCOMO間的合作也在進行中](../Page/NTT_DOCOMO.md "wikilink")。
 
-1seg發送資料使用BML C Profile，此Profile在BS數位放送和地上數位放送使用的A
-Profile基础上，增加了一些功能，从而能够实现「放送與通信的協同機能」。
+1seg發送資料使用BML C Profile，此Profile在BS數位放送和地上數位放送使用的A Profile基础上，增加了一些功能，从而能够实现「放送與通信的協同機能」。
 
 ### 節目表
 
@@ -72,12 +66,10 @@ Profile基础上，增加了一些功能，从而能够实现「放送與通信�
 
 ### 頻幅
 
-[ISDB-T_CH_Seg_Prog_allocation.svg](https://zh.wikipedia.org/wiki/File:ISDB-T_CH_Seg_Prog_allocation.svg "fig:ISDB-T_CH_Seg_Prog_allocation.svg")
-與在固定體中收訊用的高解析度電視相比，因為在移動體中進行收訊所以收訊環境較為嚴苛，所以採用抗干扰能力较强的[调制方式](https://zh.wikipedia.org/wiki/调制 "wikilink")。另外日本地上數位放送（ISDB-T）将1个频道分为13个频片，每个频片可以使用的编码调制方式有很多，这些调制方式被分类为A、B、C这3个層階，具有不同的调制方式、卷积码的编码率等，以A层阶抗干扰能力为最强，但传输速率最低，C层阶反之。
+[ISDB-T_CH_Seg_Prog_allocation.svg](https://zh.wikipedia.org/wiki/File:ISDB-T_CH_Seg_Prog_allocation.svg "fig:ISDB-T_CH_Seg_Prog_allocation.svg") 與在固定體中收訊用的高解析度電視相比，因為在移動體中進行收訊所以收訊環境較為嚴苛，所以採用抗干扰能力较强的[调制方式](https://zh.wikipedia.org/wiki/调制 "wikilink")。另外日本地上數位放送（ISDB-T）将1个频道分为13个频片，每个频片可以使用的编码调制方式有很多，这些调制方式被分类为A、B、C这3个層階，具有不同的调制方式、卷积码的编码率等，以A层阶抗干扰能力为最强，但传输速率最低，C层阶反之。
 
   - 频片數：1（channel \#0 center area）
-  - 調變方式：[QPSK](https://zh.wikipedia.org/wiki/QPSK "wikilink")（Quadrature
-    Phase Shift Keying）
+  - 調變方式：[QPSK](https://zh.wikipedia.org/wiki/QPSK "wikilink")（Quadrature Phase Shift Keying）
   - 卷积码编码率（Convolutional code rate）：2/3
   - 緩衝比：1/8
   - 比特率：最大416kbps（52KB/s）
@@ -120,28 +112,19 @@ Profile基础上，增加了一些功能，从而能够实现「放送與通信�
 
 ## NHK收视費用
 
-因為1seg接收端是能接收NHK電視放送的收訊設備，因此NHK主張1seg終端必須支付NHK收訊費用。\[14\]但是若家中已經安装有付過電視費用的話，比照同家中的其他電視不必再付錢的情形，使用1seg是不需再付費用的。[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")的数字播放开始時會出現下列聲明：
-
-不过，实际的审判结果却不一致。2016年8月26日，[埼玉县](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")[朝霞市的市议员大桥昌信向法院要求确认仅仅拥有具备](https://zh.wikipedia.org/wiki/朝霞市 "wikilink")1seg功能的移动电话，而未安装电视机的话，是否需要向NHK支付费用。法院给出的结果是，根据定义多媒体广播的《放送法》第2条第14号，认为“设置”与“携带”的定义不同，NHK的“1seg播放机器的设置”是于理不通的，故而判决“携带具备1seg播放功能的移动电话不需支付NHK收视费用”。\[15\]然而，2017年5月水户地方法院对于同样案件的审判结果是“应该支付NHK收视费用”。\[16\]
+因為1seg接收端是能接收NHK電視放送的收訊設備，因此NHK主張1seg終端必須支付NHK收訊費用。\[14\]但是若家中已經安装有付過電視費用的話，比照同家中的其他電視不必再付錢的情形，使用1seg是不需再付費用的。[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")的数字播放开始時會出現下列聲明：  不过，实际的审判结果却不一致。2016年8月26日，[埼玉县](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")[朝霞市的市议员大桥昌信向法院要求确认仅仅拥有具备](https://zh.wikipedia.org/wiki/朝霞市 "wikilink")1seg功能的移动电话，而未安装电视机的话，是否需要向NHK支付费用。法院给出的结果是，根据定义多媒体广播的《放送法》第2条第14号，认为“设置”与“携带”的定义不同，NHK的“1seg播放机器的设置”是于理不通的，故而判决“携带具备1seg播放功能的移动电话不需支付NHK收视费用”。\[15\]然而，2017年5月水户地方法院对于同样案件的审判结果是“应该支付NHK收视费用”。\[16\]
 
 ## 1seg終端示例
 
 截至2017年，于日本国内发售的Android手机和非智能手机具备1seg播放功能，iPhone手机仍然不具备播放1seg的能力。
 
-<File:W33sa>
-2.JPG|日本第一支支援1seg的行動電話：[三洋電機](../Page/三洋電機.md "wikilink")研發製造的W33SA
-Image:HIY01-2.JPG|Mobile Hi-Vision CAM Wooo（HIY01 ・ au（KDDI／沖繩行動電話））
-Image:WILLCOM 03 WS020SH.jpg|WS020SH（WILLCOM） Image:Nintendo DS
-television tuner (body-opened).jpg|DS TV（外接接收器，任天堂DS系列用）
-Image:P5180001.jpg|DH-ONE/U2P（PC 用接收器，BUFFALO 製）
+<File:W33sa> 2.JPG|日本第一支支援1seg的行動電話：[三洋電機](../Page/三洋電機.md "wikilink")研發製造的W33SA Image:HIY01-2.JPG|Mobile Hi-Vision CAM Wooo（HIY01 ・ au（KDDI／沖繩行動電話）） Image:WILLCOM 03 WS020SH.jpg|WS020SH（WILLCOM） Image:Nintendo DS television tuner (body-opened).jpg|DS TV（外接接收器，任天堂DS系列用） Image:P5180001.jpg|DH-ONE/U2P（PC 用接收器，BUFFALO 製）
 
 ## 注释
 
 ## 参考文献
 
-[Category:_日本地面電視](https://zh.wikipedia.org/wiki/Category:_日本地面電視 "wikilink")
-[Category:_數碼電視](https://zh.wikipedia.org/wiki/Category:_數碼電視 "wikilink")
-[Category:_行動電話](https://zh.wikipedia.org/wiki/Category:_行動電話 "wikilink")
+[Category:_日本地面電視](https://zh.wikipedia.org/wiki/Category:_日本地面電視 "wikilink") [Category:_數碼電視](https://zh.wikipedia.org/wiki/Category:_數碼電視 "wikilink") [Category:_行動電話](https://zh.wikipedia.org/wiki/Category:_行動電話 "wikilink")
 
 1.
 2.

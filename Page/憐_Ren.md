@@ -1,7 +1,6 @@
-《**憐
-Ren**》是[水口敬文撰寫](https://zh.wikipedia.org/wiki/水口敬文 "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")，由[角川Sneaker文庫出版](../Page/角川Sneaker文庫.md "wikilink")，中文版則由[台灣角川出版發行](../Page/台灣角川.md "wikilink")。
+《**憐 Ren**》是[水口敬文撰寫](https://zh.wikipedia.org/wiki/水口敬文 "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")，由[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")出版，中文版則由[台灣角川](../Page/台灣角川.md "wikilink")出版發行。
 
-本作為第九屆[Sneaker大賞獎勵賞得獎作品](../Page/Sneaker大賞.md "wikilink")，投稿時的標題為《》。
+本作為第九屆[Sneaker大賞](../Page/Sneaker大賞.md "wikilink")獎勵賞得獎作品，投稿時的標題為《》。
 
 ## 作品簡介
 
@@ -115,5 +114,4 @@ Ren**》是[水口敬文撰寫](https://zh.wikipedia.org/wiki/水口敬文 "wiki
 
   - [電影官方網站](https://web.archive.org/web/20080612152927/http://www.bedlam.jp/ren/)
 
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:2008年電影](https://zh.wikipedia.org/wiki/Category:2008年電影 "wikilink")
+[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:2008年電影](https://zh.wikipedia.org/wiki/Category:2008年電影 "wikilink")

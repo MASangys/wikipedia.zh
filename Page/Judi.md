@@ -1,5 +1,4 @@
-**《Judi》**是香港歌手[黃馨的第一張個人唱片](../Page/黃馨_\(歌手\).md "wikilink")(AVEP)，於2003年9月公開發售，隨碟附送2首Music
-Video。
+**《Judi》**是香港歌手[黃馨的第一張個人唱片](../Page/黃馨_\(歌手\).md "wikilink")(AVEP)，於2003年9月公開發售，隨碟附送2首Music Video。
 
 ## 曲目列表
 
@@ -62,7 +61,4 @@ Video。
 |        **賣花女神**        |           15           |
 |                        |                        |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:黃馨音樂專輯](https://zh.wikipedia.org/wiki/Category:黃馨音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:黃馨音樂專輯](https://zh.wikipedia.org/wiki/Category:黃馨音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")

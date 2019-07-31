@@ -1,22 +1,18 @@
-《**機動戰士GUNDAM
-00**》（）是[GUNDAM系列的](../Page/GUNDAM系列作品.md "wikilink")[電視動畫第](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")12部作品。本動畫共分兩季，第一季共25話於2007年10月至2008年3月間在[每日放送](../Page/每日放送.md "wikilink")（MBS）、[東京放送](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（TBS）系列播放，第二季於2008年10月5日起播出。本動畫亦是GUNDAM系列首次以[HDTV的方式播放](https://zh.wikipedia.org/wiki/HDTV "wikilink")。
+《**機動戰士GUNDAM 00**》（）是[GUNDAM系列的](../Page/GUNDAM系列作品.md "wikilink")[電視動畫第](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")12部作品。本動畫共分兩季，第一季共25話於2007年10月至2008年3月間在[每日放送](../Page/每日放送.md "wikilink")（MBS）、[東京放送](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（TBS）系列播放，第二季於2008年10月5日起播出。本動畫亦是GUNDAM系列首次以[HDTV的方式播放](https://zh.wikipedia.org/wiki/HDTV "wikilink")。
 
 故事起始時間為公元2307年，描寫4位操控人型機動兵器「GUNDAM」（「[-{GUNDAM}-](../Page/GUNDAM.md "wikilink")」）的GUNDAM機師，為了把戰爭從世界上根絕而戰鬥。標題的「00」是2個[數字](https://zh.wikipedia.org/wiki/阿拉伯數字 "wikilink")0，讀作「」，這是由於英語中的「Zero」，用作數字時可發音為「“oh”（）」\[1\]。
 
-2009年3月29日在動畫最後一集播畢後，製作單位發表《[劇場版 -A wakening of the
-Trailblazer-](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")》的消息，這部劇場版已於2010年9月18日在[日本上映](../Page/日本.md "wikilink")。
+2009年3月29日在動畫最後一集播畢後，製作單位發表《[劇場版 -A wakening of the Trailblazer-](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")》的消息，這部劇場版已於2010年9月18日在[日本](../Page/日本.md "wikilink")上映。
 
 ## 故事簡介
 
 ### 第一季
 
-由於地球上的[化石燃料枯竭](../Page/化石燃料.md "wikilink")，[人類開始依靠](../Page/人類.md "wikilink")[太阳能發電作為新的能源](https://zh.wikipedia.org/wiki/太阳能 "wikilink")。西元2307年，以三座長度約五萬[公里的](../Page/公里.md "wikilink")[軌道升降機為中心](../Page/太空電梯.md "wikilink")，建構完成巨大的[太陽能發電衛星](https://zh.wikipedia.org/wiki/太陽能發電衛星 "wikilink")，但是能夠使用此系統的，只有共同參與其興建的同盟國家而已。
+由於地球上的[化石燃料](../Page/化石燃料.md "wikilink")枯竭，[人類](../Page/人類.md "wikilink")開始依靠[太阳能發電作為新的能源](https://zh.wikipedia.org/wiki/太阳能 "wikilink")。西元2307年，以三座長度約五萬[公里](../Page/公里.md "wikilink")的[軌道升降機為中心](../Page/太空電梯.md "wikilink")，建構完成巨大的[太陽能發電衛星](https://zh.wikipedia.org/wiki/太陽能發電衛星 "wikilink")，但是能夠使用此系統的，只有共同參與其興建的同盟國家而已。
 
-為了建造這幾座能產生半永久能源的軌道升降機，世界各區域經過統合，形成三個超大國家群。分別是以[美國為中心的](https://zh.wikipedia.org/wiki/美國 "wikilink")「[世界經濟聯合](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#太陽能與自由國家聯合 "wikilink")」（UNION）；以[中國](../Page/中國.md "wikilink")、[俄羅斯與](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[印度為中心的](../Page/印度.md "wikilink")「[人類革新聯盟](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#人類革新聯盟 "wikilink")」（人革聯）；以及歐洲的「[新歐洲共同體](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#新歐洲共同體 "wikilink")」（AEU）。因軌道升降機體積巨大而難以防禦，構造上也極其脆弱，在此緊張狀態下，三大國家群為了各自的威信和繁榮，逐漸擴大彼此間的[零和博弈](../Page/零和博弈.md "wikilink")。
+為了建造這幾座能產生半永久能源的軌道升降機，世界各區域經過統合，形成三個超大國家群。分別是以[美國為中心的](https://zh.wikipedia.org/wiki/美國 "wikilink")「[世界經濟聯合](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#太陽能與自由國家聯合 "wikilink")」（UNION）；以[中國](../Page/中國.md "wikilink")、[俄羅斯與](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[印度](../Page/印度.md "wikilink")為中心的「[人類革新聯盟](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#人類革新聯盟 "wikilink")」（人革聯）；以及歐洲的「[新歐洲共同體](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#新歐洲共同體 "wikilink")」（AEU）。因軌道升降機體積巨大而難以防禦，構造上也極其脆弱，在此緊張狀態下，三大國家群為了各自的威信和繁榮，逐漸擴大彼此間的[零和博弈](../Page/零和博弈.md "wikilink")。
 
-在這無法結束紛爭的世界，出現了擁有超規格性能[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")（[Mobile
-Suit](https://zh.wikipedia.org/wiki/Mobile_Suit "wikilink")）「[GUNDAM](../Page/GUNDAM.md "wikilink")」的私設武裝組織「天上人」（Celestial
-Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，他們進行着超越了[民族](../Page/民族.md "wikilink")、[国家](../Page/国家.md "wikilink")、[宗教的武力介入行動](../Page/宗教.md "wikilink")。
+在這無法結束紛爭的世界，出現了擁有超規格性能[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")（[Mobile Suit](https://zh.wikipedia.org/wiki/Mobile_Suit "wikilink")）「[GUNDAM](../Page/GUNDAM.md "wikilink")」的私設武裝組織「天上人」（Celestial Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，他們進行着超越了[民族](../Page/民族.md "wikilink")、[国家](../Page/国家.md "wikilink")、[宗教](../Page/宗教.md "wikilink")的武力介入行動。
 
 於是，以GUNDAM對全戰爭行為的武力介入開始了。
 
@@ -44,19 +40,15 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
 <!-- end list -->
 
-  - 「[DAYBREAK'S
-    BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")」（1～13話）
+  - 「[DAYBREAK'S BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")」（1～13話）
       - 作詞：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")
       - 作曲：[ken](https://zh.wikipedia.org/wiki/ken "wikilink")
       - 編曲：[L'Arc\~en\~Ciel](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")
       - 主唱：L'Arc\~en\~Ciel（Ki/oon Records）
-  - 「[Ash Like
-    Snow](https://zh.wikipedia.org/wiki/Ash_Like_Snow "wikilink")」（14～25話）
+  - 「[Ash Like Snow](https://zh.wikipedia.org/wiki/Ash_Like_Snow "wikilink")」（14～25話）
       - 作詞：[川瀬智子](https://zh.wikipedia.org/wiki/川瀬智子 "wikilink")
       - 作曲：[奥田俊作](https://zh.wikipedia.org/wiki/奥田俊作 "wikilink")
-      - 主唱：[the brilliant
-        green](https://zh.wikipedia.org/wiki/the_brilliant_green "wikilink")（DefSTAR
-        Records）
+      - 主唱：[the brilliant green](https://zh.wikipedia.org/wiki/the_brilliant_green "wikilink")（DefSTAR Records）
 
 <!-- end list -->
 
@@ -66,16 +58,13 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
   - 「」（1～13話）
       - 作詞：[菅波榮純](https://zh.wikipedia.org/wiki/菅波榮純 "wikilink")
-      - 作曲：[THE BACK
-        HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink")
+      - 作曲：[THE BACK HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink")
       - 編曲：THE BACK HORN
       - 主唱：THE BACK HORN（SPEEDSTAR RECORDS）
   - 「」（14～24話）
       - 作詞：[Stephanie](https://zh.wikipedia.org/wiki/Stephanie "wikilink")、[矢住夏菜](https://zh.wikipedia.org/wiki/矢住夏菜 "wikilink")
-      - 作曲：[Joe
-        Rinoie](https://zh.wikipedia.org/wiki/Joe_Rinoie "wikilink")、[MASAKI](https://zh.wikipedia.org/wiki/MASAKI "wikilink")
-      - 編曲：Joe
-        Rinoie、[峰正典](https://zh.wikipedia.org/wiki/峰正典 "wikilink")
+      - 作曲：[Joe Rinoie](https://zh.wikipedia.org/wiki/Joe_Rinoie "wikilink")、[MASAKI](https://zh.wikipedia.org/wiki/MASAKI "wikilink")
+      - 編曲：Joe Rinoie、[峰正典](https://zh.wikipedia.org/wiki/峰正典 "wikilink")
       - 主唱：[Stephanie](https://zh.wikipedia.org/wiki/Stephanie "wikilink")（[日本新力音樂](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")）
   - 「DAYBREAK'S BELL」（25話）
 
@@ -85,8 +74,7 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
 <!-- end list -->
 
-  - 「[LOVE
-    TODAY](https://zh.wikipedia.org/wiki/LOVE_TODAY "wikilink")」（第19話、第24話）
+  - 「[LOVE TODAY](https://zh.wikipedia.org/wiki/LOVE_TODAY "wikilink")」（第19話、第24話）
       - 作詞：[菜穂](https://zh.wikipedia.org/wiki/菜穂 "wikilink")
       - 作曲：菜穂、[佑次](https://zh.wikipedia.org/wiki/佑次 "wikilink")
       - 編曲：[Taja](https://zh.wikipedia.org/wiki/Taja "wikilink")
@@ -125,15 +113,12 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
       - 作曲：[淺見昴生](https://zh.wikipedia.org/wiki/淺見昴生 "wikilink")、[川井憲次](../Page/川井憲次.md "wikilink")
       - 編曲：
       - 主唱：[恒松步](../Page/恒松步.md "wikilink")
-  - 「[trust
-    you](https://zh.wikipedia.org/wiki/trust_you "wikilink")」（15～24話）（第20話插曲使用）
+  - 「[trust you](https://zh.wikipedia.org/wiki/trust_you "wikilink")」（15～24話）（第20話插曲使用）
       - 作詞：[MARKIE](https://zh.wikipedia.org/wiki/MARKIE "wikilink")
       - 作曲：MARKIE
-      - 編曲：[JIN
-        NAKAMURA](https://zh.wikipedia.org/wiki/JIN_NAKAMURA "wikilink")
+      - 編曲：[JIN NAKAMURA](https://zh.wikipedia.org/wiki/JIN_NAKAMURA "wikilink")
       - 主唱：[伊藤由奈](../Page/伊藤由奈.md "wikilink")
-  - 「[DAYBREAK'S
-    BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")」（第25話）
+  - 「[DAYBREAK'S BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")」（第25話）
 
 <!-- end list -->
 
@@ -141,15 +126,11 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
 <!-- end list -->
 
-  - 「[Unlimited
-    Sky](../Page/Unlimited_Sky.md "wikilink")」（第7話、第18話、第22話、第25話）
-      - 作詞：[Tommy
-        heavenly<sup>6</sup>](https://zh.wikipedia.org/wiki/川瀬智子 "wikilink")
-      - 作曲：[Chillion
-        Brownle](https://zh.wikipedia.org/wiki/Chillion_Brownle "wikilink")
+  - 「[Unlimited Sky](../Page/Unlimited_Sky.md "wikilink")」（第7話、第18話、第22話、第25話）
+      - 作詞：[Tommy heavenly<sup>6</sup>](https://zh.wikipedia.org/wiki/川瀬智子 "wikilink")
+      - 作曲：[Chillion Brownle](https://zh.wikipedia.org/wiki/Chillion_Brownle "wikilink")
       - 編曲：Chillion Brownle
-      - 主唱：[Tommy
-        heavenly<sup>6</sup>](https://zh.wikipedia.org/wiki/Tommy_heavenly6 "wikilink")
+      - 主唱：[Tommy heavenly<sup>6</sup>](https://zh.wikipedia.org/wiki/Tommy_heavenly6 "wikilink")
 
 ## 製作人員
 
@@ -178,7 +159,7 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
   -
     下表列出第一季共25集及總集篇播放列表，放送日為日本首播時間。
-    全劇劇本皆由[黑田洋介撰寫](../Page/黑田洋介.md "wikilink")。
+    全劇劇本皆由[黑田洋介](../Page/黑田洋介.md "wikilink")撰寫。
 
 <table>
 <thead>
@@ -512,7 +493,7 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
   -
     下表列出第二季共25集播放列表，放送日為日本首播時間。
-    全劇劇本皆由[黑田洋介撰寫](../Page/黑田洋介.md "wikilink")。
+    全劇劇本皆由[黑田洋介](../Page/黑田洋介.md "wikilink")撰寫。
 
 <table>
 <thead>
@@ -812,8 +793,8 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
 <!-- end list -->
 
-  - 第一季：[無綫電視於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2008年9月6日起逢星期六11:30－12:00播放，[翡翠台與](../Page/翡翠台.md "wikilink")[高清翡翠台同步播放](../Page/高清翡翠台.md "wikilink")，並於2009年6月10日起逢星期一至五22:00－22:30在[J2重播](../Page/J2.md "wikilink")（於2009年6月29日改至21:30－22:00播出）。而總集篇則在2009年12月26日10:30－10:55於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台同步播放](../Page/高清翡翠台.md "wikilink")，並於2011年6月25日08:15－08:40[高清翡翠台重播](../Page/高清翡翠台.md "wikilink")。
-  - 第二季：[無綫電視及後於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2010年1月2日起逢星期六10:30－11:00於[翡翠台繼續播放](../Page/翡翠台.md "wikilink")，並於2011年6月25日08:40－09:05在2011年7月3日起逢星期日08:10－09:05在[高清翡翠台重播](../Page/高清翡翠台.md "wikilink")（每次連播兩集）。
+  - 第一季：[無綫電視於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2008年9月6日起逢星期六11:30－12:00播放，[翡翠台](../Page/翡翠台.md "wikilink")與[高清翡翠台](../Page/高清翡翠台.md "wikilink")同步播放，並於2009年6月10日起逢星期一至五22:00－22:30在[J2](../Page/J2.md "wikilink")重播（於2009年6月29日改至21:30－22:00播出）。而總集篇則在2009年12月26日10:30－10:55於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")同步播放，並於2011年6月25日08:15－08:40[高清翡翠台](../Page/高清翡翠台.md "wikilink")重播。
+  - 第二季：[無綫電視及後於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2010年1月2日起逢星期六10:30－11:00於[翡翠台](../Page/翡翠台.md "wikilink")繼續播放，並於2011年6月25日08:40－09:05在2011年7月3日起逢星期日08:10－09:05在[高清翡翠台](../Page/高清翡翠台.md "wikilink")重播（每次連播兩集）。
 
 <!-- end list -->
 
@@ -980,8 +961,7 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
 <!-- end list -->
 
-  - 「機動戰士GUNDAM 00 -{zh-hans:Gundam Meisters; zh-tw:鋼彈尖兵;
-    zh-hk:高達使者;}-」（2008年10月16日發售）
+  - 「機動戰士GUNDAM 00 -{zh-hans:Gundam Meisters; zh-tw:鋼彈尖兵; zh-hk:高達使者;}-」（2008年10月16日發售）
 
 <!-- end list -->
 
@@ -989,31 +969,26 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
 <!-- end list -->
 
-  - 2011年4月11日[南夢宮萬代發售](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")[PlayStation
-    Portable用遊戲軟體](../Page/PlayStation_Portable.md "wikilink")『[第2次超級機器人大戰Z](../Page/第2次超級機器人大戰Z.md "wikilink")』。
+  - 2011年4月11日[南夢宮萬代發售](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")[PlayStation Portable用遊戲軟體](../Page/PlayStation_Portable.md "wikilink")『[第2次超級機器人大戰Z](../Page/第2次超級機器人大戰Z.md "wikilink")』。
 
 ## 外傳
 
 ### 機動戰士GUNDAM 00P
 
   -
-    於[電擊
-    Hobby連載](https://zh.wikipedia.org/wiki/電擊_Hobby "wikilink")，第一季故事時間點設定在西元2292年，第二季則是西元2302年。
+    於[電擊 Hobby連載](https://zh.wikipedia.org/wiki/電擊_Hobby "wikilink")，第一季故事時間點設定在西元2292年，第二季則是西元2302年。
     連載完結，小說2本，共有25話。
 
 ### 機動戰士GUNDAM 00F
 
   -
-    於[GUNDAM
-    ACE連載](../Page/GUNDAM_ACE.md "wikilink")，故事時間點設定在西元2307年（與本傳第一季相同）至本傳第二季前，主角是隸屬於天使(天上人的支援團體)，第五位鋼彈尖兵－馮恩·史帕克(Fon
-    Spaak)。
+    於[GUNDAM ACE連載](../Page/GUNDAM_ACE.md "wikilink")，故事時間點設定在西元2307年（與本傳第一季相同）至本傳第二季前，主角是隸屬於天使(天上人的支援團體)，第五位鋼彈尖兵－馮恩·史帕克(Fon Spaak)。
     連載完結，單行本4卷，共有20話。
 
 ### 機動戰士GUNDAM 00V
 
   -
-    於[Hobby
-    Japan連載](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")，利用單元式的方法為本傳的內容做補充，故事時間點設定在本傳第一季至第二季。
+    於[Hobby Japan連載](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")，利用單元式的方法為本傳的內容做補充，故事時間點設定在本傳第一季至第二季。
     連載完結，解說書1本，共有23話。
 
 ### 機動戰士GUNDAM 00V戰記
@@ -1048,8 +1023,7 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
 ## 外部連結
 
-  - [日本GUNDAM 00
-    劇場網站](https://web.archive.org/web/20070610085515/http://www.gundam00.net/index.html)
+  - [日本GUNDAM 00 劇場網站](https://web.archive.org/web/20070610085515/http://www.gundam00.net/index.html)
 
   - [日本GUNDAM 00 官方網站](http://www.gundam00.net/tv/index.html)
 
@@ -1057,8 +1031,7 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
   - [台灣GUNDAM 00 官方網站](http://www.my-cartoon.com.tw/gundam00/)
 
-  - [機動戰士鋼彈00劇場版(A wakening of the Trailblazer) -
-    Yahoo\!奇摩電影](http://tw.movie.yahoo.com/movieinfo_main.html/id=3608)
+  - [機動戰士鋼彈00劇場版(A wakening of the Trailblazer) - Yahoo\!奇摩電影](http://tw.movie.yahoo.com/movieinfo_main.html/id=3608)
 
   - [优酷独播专区](http://www.youku.com/show_page/id_zcc0043b4962411de83b1.html)
 
@@ -1070,25 +1043,7 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
 
   - [敢达00剧场版 2010:觉醒的尖兵-优酷独播专区](http://www.youku.com/show_page/id_z76a56f8cb33911e0a046.html)
 
-[Category:GUNDAM_00](https://zh.wikipedia.org/wiki/Category:GUNDAM_00 "wikilink")
-[Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink")
-[Category:2007年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年TBS電視網動畫 "wikilink")
-[Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
-[Category:2300年代背景作品](https://zh.wikipedia.org/wiki/Category:2300年代背景作品 "wikilink")
-[Category:2310年代背景作品](https://zh.wikipedia.org/wiki/Category:2310年代背景作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink")
-[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink")
-[Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")
-[Category:月刊少年Magazine](https://zh.wikipedia.org/wiki/Category:月刊少年Magazine "wikilink")
-[Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:高河弓](https://zh.wikipedia.org/wiki/Category:高河弓 "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
+[Category:GUNDAM_00](https://zh.wikipedia.org/wiki/Category:GUNDAM_00 "wikilink") [Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink") [Category:2007年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年TBS電視網動畫 "wikilink") [Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink") [Category:2300年代背景作品](https://zh.wikipedia.org/wiki/Category:2300年代背景作品 "wikilink") [Category:2310年代背景作品](https://zh.wikipedia.org/wiki/Category:2310年代背景作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink") [Category:月刊少年Magazine](https://zh.wikipedia.org/wiki/Category:月刊少年Magazine "wikilink") [Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:高河弓](https://zh.wikipedia.org/wiki/Category:高河弓 "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
 
 1.
 2.  此曲在第一話片尾播放時字幕上官方寫為主題曲，意自第二季將揭開序幕，所以不是片尾曲

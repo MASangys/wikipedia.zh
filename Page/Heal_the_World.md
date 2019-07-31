@@ -1,20 +1,8 @@
-{{ Infobox Single| | Name = Heal the World | Cover = Heal The World.jpg
-| Artist = [迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink") | Album =
-[Dangerous](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink") | B-side =
-She Drives Me Wild | Released = 1992年11月23日 | Format = CD single |
-Recorded = 1989年 | Genre =
-[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink"),
-[灵魂](https://zh.wikipedia.org/wiki/灵魂音乐 "wikilink") | Length = 6:25
-<small>(专辑版)</small>
-4:31 <small>(單曲版)</small> | Label =
-[Epic唱片](https://zh.wikipedia.org/wiki/Epic唱片 "wikilink") | Writer =
-[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink") | Producer = 迈克尔·杰克逊 | Last
-single = "[Who Is It](../Page/Who_Is_It.md "wikilink")"
+{{ Infobox Single| | Name = Heal the World | Cover = Heal The World.jpg | Artist = [迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink") | Album = [Dangerous](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink") | B-side = She Drives Me Wild | Released = 1992年11月23日 | Format = CD single | Recorded = 1989年 | Genre = [R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink"), [灵魂](https://zh.wikipedia.org/wiki/灵魂音乐 "wikilink") | Length = 6:25 <small>(专辑版)</small>
+4:31 <small>(單曲版)</small> | Label = [Epic唱片](https://zh.wikipedia.org/wiki/Epic唱片 "wikilink") | Writer = [迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink") | Producer = 迈克尔·杰克逊 | Last single = "[Who Is It](../Page/Who_Is_It.md "wikilink")"
 (1992) | This single = "**Heal the World**"
-(1992) | Next single = "[Give In to
-Me](../Page/Give_In_to_Me.md "wikilink")"
-(1993) | Misc = }} **Heal the
-World**（译作**治愈世界**）是已故流行曲之王[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的专辑《[Dangerous](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink")》中的一首歌曲，创作于1991年。杰克逊生前曾向Fans表示该曲是他最自豪的作品之一。在一些投票中该曲也被选为杰克逊最受欢迎的歌曲\[1\]。本曲的视频是杰克逊的少数几个不关注演唱者的视频之一。杰克逊同时还建立了同名的慈善组织[治愈世界基金会](../Page/治愈世界基金会.md "wikilink")，该组织致力于改善儿童的生活水平，以及培养儿童的互助精神。
+(1992) | Next single = "[Give In to Me](../Page/Give_In_to_Me.md "wikilink")"
+(1993) | Misc = }} **Heal the World**（译作**治愈世界**）是已故流行曲之王[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的专辑《[Dangerous](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink")》中的一首歌曲，创作于1991年。杰克逊生前曾向Fans表示该曲是他最自豪的作品之一。在一些投票中该曲也被选为杰克逊最受欢迎的歌曲\[1\]。本曲的视频是杰克逊的少数几个不关注演唱者的视频之一。杰克逊同时还建立了同名的慈善组织[治愈世界基金会](../Page/治愈世界基金会.md "wikilink")，该组织致力于改善儿童的生活水平，以及培养儿童的互助精神。
 
 ## 组成
 
@@ -35,10 +23,7 @@ World**（译作**治愈世界**）是已故流行曲之王[迈克尔·杰克逊
 ## 外部連結
 
   -
-[Category:1991年單曲](https://zh.wikipedia.org/wiki/Category:1991年單曲 "wikilink")
-[Category:迈克尔·杰克逊歌曲](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊歌曲 "wikilink")
-[Category:反戰歌曲](https://zh.wikipedia.org/wiki/Category:反戰歌曲 "wikilink")
-[Category:励志歌曲](https://zh.wikipedia.org/wiki/Category:励志歌曲 "wikilink")
+[Category:1991年單曲](https://zh.wikipedia.org/wiki/Category:1991年單曲 "wikilink") [Category:迈克尔·杰克逊歌曲](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊歌曲 "wikilink") [Category:反戰歌曲](https://zh.wikipedia.org/wiki/Category:反戰歌曲 "wikilink") [Category:励志歌曲](https://zh.wikipedia.org/wiki/Category:励志歌曲 "wikilink")
 
 1.
 2.

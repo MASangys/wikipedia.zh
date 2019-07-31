@@ -1,6 +1,4 @@
-《**家庭-{}-教師HITMAN
-REBORN\!**》是根據原著[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[家庭教師HITMAN
-REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》改編的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。因追上原作進度而暫告一段落。2006年10月7日起於[東京電視台系列播放](../Page/東京電視台.md "wikilink")。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2007年5月13日起在[台視播出](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")，2010年7月1日起在[衛視中文台播出](../Page/衛視中文台.md "wikilink")；[香港於](../Page/香港.md "wikilink")2009年12月6日起在[Animax播出](../Page/Animax.md "wikilink")。
+《**家庭-{}-教師HITMAN REBORN\!**》是根據原著[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》改編的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。因追上原作進度而暫告一段落。2006年10月7日起於[東京電視台](../Page/東京電視台.md "wikilink")系列播放。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2007年5月13日起在[台視播出](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")，2010年7月1日起在[衛視中文台](../Page/衛視中文台.md "wikilink")播出；[香港](../Page/香港.md "wikilink")於2009年12月6日起在[Animax](../Page/Animax.md "wikilink")播出。
 
 ## 概要
 
@@ -95,7 +93,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 <!-- end list -->
 
-  - 山本的[自殺未遂被刪除](../Page/自殺.md "wikilink")(被認為是與2006年下半的中高生自殺新聞很多有關)。和阿綱變成好友的契機改成球技大會。
+  - 山本的[自殺](../Page/自殺.md "wikilink")未遂被刪除(被認為是與2006年下半的中高生自殺新聞很多有關)。和阿綱變成好友的契機改成球技大會。
   - 京子和小春吃了一平餃子的解救方法由「打入死氣彈」改成「去找一平的師父拿解藥」。
   - 風太初登場的集數變更，故雪球戰與情人節時沒有登場。
   - 雪球戰時因為風太還沒登場，改由京子和小春登場。
@@ -172,8 +170,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   -
-    作詞、作曲：[LM.C](../Page/LM.C.md "wikilink")，編曲：[LM.C](../Page/LM.C.md "wikilink")/Zentaro
-    Watanabe，歌：[LM.C](../Page/LM.C.md "wikilink")
+    作詞、作曲：[LM.C](../Page/LM.C.md "wikilink")，編曲：[LM.C](../Page/LM.C.md "wikilink")/Zentaro Watanabe，歌：[LM.C](../Page/LM.C.md "wikilink")
 
 <!-- end list -->
 
@@ -200,9 +197,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   -
-    作詞：Mika
-    Arata，作曲：[SxOxU](https://zh.wikipedia.org/wiki/SxOxU "wikilink")，編曲：ヒダカトオル(BEAT
-    CRUSADERS)/[SxOxU](https://zh.wikipedia.org/wiki/SxOxU "wikilink")，歌：[SxOxU](https://zh.wikipedia.org/wiki/SxOxU "wikilink")
+    作詞：Mika Arata，作曲：[SxOxU](https://zh.wikipedia.org/wiki/SxOxU "wikilink")，編曲：ヒダカトオル(BEAT CRUSADERS)/[SxOxU](https://zh.wikipedia.org/wiki/SxOxU "wikilink")，歌：[SxOxU](https://zh.wikipedia.org/wiki/SxOxU "wikilink")
 
 <!-- end list -->
 
@@ -211,9 +206,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   -
-    作詞：松本素生，作曲：松本素生/河野丈洋，編曲：GOING UNDER GROUND/ヒダカトオル(BEAT
-    CRUSADERS)，歌：[Going Under
-    Ground](https://zh.wikipedia.org/wiki/Going_Under_Ground "wikilink")
+    作詞：松本素生，作曲：松本素生/河野丈洋，編曲：GOING UNDER GROUND/ヒダカトオル(BEAT CRUSADERS)，歌：[Going Under Ground](https://zh.wikipedia.org/wiki/Going_Under_Ground "wikilink")
 
 ### 片尾曲
 
@@ -231,8 +224,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   -
-    作詞、作曲：坂井龍二，編曲、歌：[the
-    ARROWS](https://zh.wikipedia.org/wiki/the_ARROWS "wikilink")
+    作詞、作曲：坂井龍二，編曲、歌：[the ARROWS](https://zh.wikipedia.org/wiki/the_ARROWS "wikilink")
 
 <!-- end list -->
 
@@ -252,16 +244,14 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
   -
     作詞：KIKOMARU，作曲：內田"ucchy"悟，編曲：船山基紀，歌：[美女甜甜圈！！！](../Page/美女甜甜圈！！！.md "wikilink")
 
-**註**:第63話為聲優版，[笹川京子](../Page/稻村優奈.md "wikilink") vs
-[三浦春](../Page/吉田仁美.md "wikilink")
+**註**:第63話為聲優版，[笹川京子](../Page/稻村優奈.md "wikilink") vs [三浦春](../Page/吉田仁美.md "wikilink")
 
   - ED5「**Sakura addiction**」（目標52－62）
 
 <!-- end list -->
 
   -
-    作詞：向井隆昭，作曲：向井隆昭、道本卓行，編曲：SPLAY，歌：[雲雀恭彌](../Page/近藤隆.md "wikilink") vs
-    [六道骸](../Page/飯田利信.md "wikilink")
+    作詞：向井隆昭，作曲：向井隆昭、道本卓行，編曲：SPLAY，歌：[雲雀恭彌](../Page/近藤隆.md "wikilink") vs [六道骸](../Page/飯田利信.md "wikilink")
 
 <!-- end list -->
 
@@ -279,8 +269,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   -
-    作詞、作曲：飯田哲也，編曲：飯田哲也、Koma2
-    Kaz，歌：[w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")
+    作詞、作曲：飯田哲也，編曲：飯田哲也、Koma2 Kaz，歌：[w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")
 
 <!-- end list -->
 
@@ -361,8 +350,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   -
-    作詞：+Plus，作曲：Plus、Redwood Humberg
-    Jr.歌：[+Plus](https://zh.wikipedia.org/wiki/+Plus "wikilink")
+    作詞：+Plus，作曲：Plus、Redwood Humberg Jr.歌：[+Plus](https://zh.wikipedia.org/wiki/+Plus "wikilink")
 
 ## 各話列表
 
@@ -3178,9 +3166,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 ## 網絡廣播
 
-電視動畫的連動[網路廣播節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，在[MMV的](https://zh.wikipedia.org/wiki/MMV "wikilink")
-[官方網站](https://web.archive.org/web/20080203053127/http://www.anime-reborn.com/netradio/)
-上配信。
+電視動畫的連動[網路廣播節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，在[MMV的](https://zh.wikipedia.org/wiki/MMV "wikilink") [官方網站](https://web.archive.org/web/20080203053127/http://www.anime-reborn.com/netradio/) 上配信。
 
 ### 第一期
 
@@ -3374,8 +3360,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
   - [Oricon排名](../Page/Oricon公信榜.md "wikilink")：過去最高 21位，登場回数 13回\[2\]
   - 曲目：
       - 片頭曲：Drawing days、BOYS & GIRLS、DIVE TO WORLD
-      - 片尾曲：、ONE NIGHT STAR、Echo again、friend、Sakura addiction、friend〜TV
-        Version〜
+      - 片尾曲：、ONE NIGHT STAR、Echo again、friend、Sakura addiction、friend〜TV Version〜
 
 <!-- end list -->
 
@@ -3386,8 +3371,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
   - 發售資訊：2009年8月19日發售（PCCA-02994）
   - [Oricon排名](../Page/Oricon公信榜.md "wikilink")：過去最高 14位，登場回数 9回\[4\]
   - 曲目：
-      - 片頭曲：88、Last cross、EASY GO、Funny Sunny Day、LISTEN TO THE
-        STEREO\!\!
+      - 片頭曲：88、Last cross、EASY GO、Funny Sunny Day、LISTEN TO THE STEREO\!\!
       - 片尾曲：Stand Up\!、、CYCLE、、、Smile for...
 
 ### OST
@@ -3460,8 +3444,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 9.  ／[澤田綱吉](../Page/澤田綱吉.md "wikilink")（家庭教師：[里包恩](https://zh.wikipedia.org/wiki/里包恩 "wikilink")）
 
-10. ／[澤田綱吉](../Page/澤田綱吉.md "wikilink") with
-    [彭哥列家族](https://zh.wikipedia.org/wiki/彭哥列家族 "wikilink")
+10. ／[澤田綱吉](../Page/澤田綱吉.md "wikilink") with [彭哥列家族](https://zh.wikipedia.org/wiki/彭哥列家族 "wikilink")
 
 <!-- end list -->
 
@@ -3474,7 +3457,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
   - 獄寺隼人／[市瀬秀和](https://zh.wikipedia.org/wiki/市瀬秀和 "wikilink")
   - 山本武／[井上優](../Page/井上優.md "wikilink")
   - 笹川了平／[木内秀信](../Page/木内秀信.md "wikilink")
-  - 雲雀恭彌／[近藤隆ㄈ](../Page/近藤隆.md "wikilink")
+  - 雲雀恭彌／[近藤隆](../Page/近藤隆.md "wikilink")ㄈ
   - 六道骸／[飯田利信](../Page/飯田利信.md "wikilink")
   - 小孩藍波／[竹内順子](https://zh.wikipedia.org/wiki/竹内順子 "wikilink")
   - 大人藍波／[津田健次郎](../Page/津田健次郎.md "wikilink")
@@ -3502,8 +3485,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 1.  ／里包恩+可樂尼洛
 
-2.  ／[獄寺隼人](../Page/獄寺隼人.md "wikilink") +
-    [山本武](../Page/山本武.md "wikilink")
+2.  ／[獄寺隼人](../Page/獄寺隼人.md "wikilink") + [山本武](../Page/山本武.md "wikilink")
 
 3.  ／[雲雀恭彌](../Page/雲雀恭彌.md "wikilink")
 
@@ -3515,20 +3497,17 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 7.  ／大人一平
 
-8.  ／[里包恩](https://zh.wikipedia.org/wiki/里包恩 "wikilink") +
-    [澤田綱吉](../Page/澤田綱吉.md "wikilink")
+8.  ／[里包恩](https://zh.wikipedia.org/wiki/里包恩 "wikilink") + [澤田綱吉](../Page/澤田綱吉.md "wikilink")
 
 9.  ／[三浦春](https://zh.wikipedia.org/wiki/三浦春 "wikilink")
 
 10. ／[山本武](../Page/山本武.md "wikilink")
 
-11. Sakura addiction／[雲雀恭彌](../Page/雲雀恭彌.md "wikilink") +
-    [六道骸](../Page/六道骸.md "wikilink")
+11. Sakura addiction／[雲雀恭彌](../Page/雲雀恭彌.md "wikilink") + [六道骸](../Page/六道骸.md "wikilink")
 
 12. ／[藍波](https://zh.wikipedia.org/wiki/藍波 "wikilink")
 
-13. friend／[笹川京子](https://zh.wikipedia.org/wiki/笹川京子 "wikilink") +
-    [三浦春](https://zh.wikipedia.org/wiki/三浦春 "wikilink")
+13. friend／[笹川京子](https://zh.wikipedia.org/wiki/笹川京子 "wikilink") + [三浦春](https://zh.wikipedia.org/wiki/三浦春 "wikilink")
 
 14. ...loop／[獄寺隼人](../Page/獄寺隼人.md "wikilink")
 
@@ -3615,8 +3594,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 1.  ／[澤田綱吉](../Page/澤田綱吉.md "wikilink")
 
-2.  ／[獄寺隼人](../Page/獄寺隼人.md "wikilink") +
-    [山本武](../Page/山本武.md "wikilink")
+2.  ／[獄寺隼人](../Page/獄寺隼人.md "wikilink") + [山本武](../Page/山本武.md "wikilink")
 
 3.  ／[里包恩](https://zh.wikipedia.org/wiki/里包恩 "wikilink")
 
@@ -3626,8 +3604,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 6.  ／[笹川了平](../Page/笹川了平.md "wikilink")
 
-7.  ／[笹川京子](https://zh.wikipedia.org/wiki/笹川京子 "wikilink") +
-    [三浦春](https://zh.wikipedia.org/wiki/三浦春 "wikilink")
+7.  ／[笹川京子](https://zh.wikipedia.org/wiki/笹川京子 "wikilink") + [三浦春](https://zh.wikipedia.org/wiki/三浦春 "wikilink")
 
 8.  ／[拉爾·米爾奇](https://zh.wikipedia.org/wiki/拉爾·米爾奇 "wikilink")
 
@@ -3635,8 +3612,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 10. ／[庫洛姆·髑髏](../Page/庫洛姆·髑髏.md "wikilink")
 
-11. ／[澤田綱吉](../Page/澤田綱吉.md "wikilink") with
-    [彭哥列家族](https://zh.wikipedia.org/wiki/彭哥列家族 "wikilink")
+11. ／[澤田綱吉](../Page/澤田綱吉.md "wikilink") with [彭哥列家族](https://zh.wikipedia.org/wiki/彭哥列家族 "wikilink")
 
 <!-- end list -->
 
@@ -3723,13 +3699,10 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 <!-- end list -->
 
-  - 「Sakura
-    addiction」歌：[近藤隆](../Page/近藤隆.md "wikilink")（[雲雀恭彌](../Page/雲雀恭彌.md "wikilink")）
-    vs
-    [飯田利信](../Page/飯田利信.md "wikilink")（[六道骸](../Page/六道骸.md "wikilink")）
+  - 「Sakura addiction」歌：[近藤隆](../Page/近藤隆.md "wikilink")（[雲雀恭彌](../Page/雲雀恭彌.md "wikilink")） vs [飯田利信](../Page/飯田利信.md "wikilink")（[六道骸](../Page/六道骸.md "wikilink")）
       - 2007年11月7日發售，分成雲雀恭彌編（PCCA-70201）與六道骸編（PCCA-70202）兩碟。
       - 收錄：Sakura addiction、（雲雀恭彌編）、（六道骸編）
-      - [Oricon首週排行第](../Page/Oricon.md "wikilink")7名（日排行最高第4名），11月排行第11名。\[22\]
+      - [Oricon](../Page/Oricon.md "wikilink")首週排行第7名（日排行最高第4名），11月排行第11名。\[22\]
 
 <!-- end list -->
 
@@ -3738,29 +3711,25 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 <!-- end list -->
 
-  - 「」歌：[里包恩](../Page/NEEKO.md "wikilink") vs
-    [澤田綱吉](../Page/國分優香里.md "wikilink")
+  - 「」歌：[里包恩](../Page/NEEKO.md "wikilink") vs [澤田綱吉](../Page/國分優香里.md "wikilink")
       - 2007年12月5日發售（PCCA-02586）
       - 收錄：、、TSUNA LIFE
 
 <!-- end list -->
 
-  - 「」歌：[獄寺隼人](https://zh.wikipedia.org/wiki/市瀬秀和 "wikilink") vs
-    [山本武](../Page/井上優.md "wikilink")
+  - 「」歌：[獄寺隼人](https://zh.wikipedia.org/wiki/市瀬秀和 "wikilink") vs [山本武](../Page/井上優.md "wikilink")
       - 2008年1月23日發售（PCCA-02587）
       - 收錄：、...loop、
 
 <!-- end list -->
 
-  - 「」歌：[藍波](https://zh.wikipedia.org/wiki/竹内順子 "wikilink") vs
-    [一平](https://zh.wikipedia.org/wiki/豐原里美 "wikilink")
+  - 「」歌：[藍波](https://zh.wikipedia.org/wiki/竹内順子 "wikilink") vs [一平](https://zh.wikipedia.org/wiki/豐原里美 "wikilink")
       - 2008年1月9日發售（PCCA-02588）
       - 收錄：、、
 
 <!-- end list -->
 
-  - 「friend」歌：[笹川京子](../Page/稻村優奈.md "wikilink") vs
-    [三浦春](../Page/吉田仁美.md "wikilink")
+  - 「friend」歌：[笹川京子](../Page/稻村優奈.md "wikilink") vs [三浦春](../Page/吉田仁美.md "wikilink")
       - 2008年1月9日發售（PCCA-02589）
       - 收錄：friend、、
 
@@ -3775,16 +3744,13 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 <!-- end list -->
 
-  - 「」歌：[澤田綱吉](../Page/國分優香里.md "wikilink")／[獄寺隼人](https://zh.wikipedia.org/wiki/市瀬秀和 "wikilink")
-    vs [山本武](../Page/井上優.md "wikilink")
+  - 「」歌：[澤田綱吉](../Page/國分優香里.md "wikilink")／[獄寺隼人](https://zh.wikipedia.org/wiki/市瀬秀和 "wikilink") vs [山本武](../Page/井上優.md "wikilink")
       - （2009年1月21日發售、PCCG-70031）
-  - 「」歌：[里包恩](../Page/NEEKO.md "wikilink")／[藍波](https://zh.wikipedia.org/wiki/竹内順子 "wikilink")
-    vs [一平](https://zh.wikipedia.org/wiki/豐原里美 "wikilink")
+  - 「」歌：[里包恩](../Page/NEEKO.md "wikilink")／[藍波](https://zh.wikipedia.org/wiki/竹内順子 "wikilink") vs [一平](https://zh.wikipedia.org/wiki/豐原里美 "wikilink")
       - （2009年2月4日發售、PCCG-70032）
   - 「」歌：[雲雀恭彌](../Page/近藤隆.md "wikilink")／[笹川了平](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")
       - （2009年2月18日發售、PCCG-70033）
-  - 「」歌：[笹川京子](../Page/稻村優奈.md "wikilink") vs
-    [三浦春](../Page/吉田仁美.md "wikilink")／[拉爾·米爾奇](../Page/鈴木真仁.md "wikilink")
+  - 「」歌：[笹川京子](../Page/稻村優奈.md "wikilink") vs [三浦春](../Page/吉田仁美.md "wikilink")／[拉爾·米爾奇](../Page/鈴木真仁.md "wikilink")
       - （2009年2月27日發售、PCCG-70034）
   - 「」歌：[六道骸](../Page/飯田利信.md "wikilink")／[庫洛姆·髑髏](../Page/明坂聰美.md "wikilink")
       - （2009年3月4日發售、PCCG-70035）
@@ -3805,16 +3771,14 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
       - （2009年11月18日發售、PCCG-70059）
   - 「」歌：[雲雀恭彌](../Page/近藤隆.md "wikilink")／[笹川了平](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")
       - （2009年12月2日發售、PCCG-70060）
-  - 「」歌：[笹川京子](../Page/稻村優奈.md "wikilink") vs
-    [三浦春](../Page/吉田仁美.md "wikilink")／[藍波](https://zh.wikipedia.org/wiki/竹内順子 "wikilink")
-    vs [一平](https://zh.wikipedia.org/wiki/豐原里美 "wikilink")
+  - 「」歌：[笹川京子](../Page/稻村優奈.md "wikilink") vs [三浦春](../Page/吉田仁美.md "wikilink")／[藍波](https://zh.wikipedia.org/wiki/竹内順子 "wikilink") vs [一平](https://zh.wikipedia.org/wiki/豐原里美 "wikilink")
       - （2009年12月2日發售、PCCG-70061）
   - 「」歌：[六道骸](../Page/飯田利信.md "wikilink")／[庫洛姆·髑髏](../Page/明坂聰美.md "wikilink")
       - （2009年12月16日發售、PCCG-70062）
 
 ## DVD
 
-台灣由[木棉花國際代理](../Page/木棉花國際.md "wikilink")。
+台灣由[木棉花國際](../Page/木棉花國際.md "wikilink")代理。
 
   - 《家庭教師HITMAN REBORN\!》全8卷
   - 《家庭教師HITMAN REBORN\! VS瓦利亞篇》全8卷
@@ -3850,7 +3814,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <td><p>2007年1月26日</p></td>
 <td><p>PCBX-50935</p></td>
 <td><p>阿綱、里包恩</p></td>
-<td><p>里包恩和藍波的布娃娃，<a href="../Page/賽璐珞.md" title="wikilink">賽璐珞畫風封套透明板</a>。</p></td>
+<td><p>里包恩和藍波的布娃娃，<a href="../Page/賽璐珞.md" title="wikilink">賽璐珞</a>畫風封套透明板。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Bullet.2</p></td>
@@ -4244,7 +4208,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
 ## 評價
 
-  - 初期作畫不甚穩定，尤以目標5[作畫崩壞最為嚴重](../Page/作畫崩壞.md "wikilink")（DVD有做修改，並增加過場流暢度），其中又以獄寺變形最為嚴重，在漫迷間戲稱為「五話寺」\[23\]，故當其後有出現崩壞畫面時，觀眾都會以「五話版」來形容畫面。之後有些話數也有作畫崩壞及[Bug出現](https://zh.wikipedia.org/wiki/Bug "wikilink")。但因劇情的增加和其他部分仍然深受大家喜愛，也是日本熱門動畫之一。
+  - 初期作畫不甚穩定，尤以目標5[作畫崩壞](../Page/作畫崩壞.md "wikilink")最為嚴重（DVD有做修改，並增加過場流暢度），其中又以獄寺變形最為嚴重，在漫迷間戲稱為「五話寺」\[23\]，故當其後有出現崩壞畫面時，觀眾都會以「五話版」來形容畫面。之後有些話數也有作畫崩壞及[Bug出現](https://zh.wikipedia.org/wiki/Bug "wikilink")。但因劇情的增加和其他部分仍然深受大家喜愛，也是日本熱門動畫之一。
 
 ## 備註
 
@@ -4268,12 +4232,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 
   - [木棉花動畫官方網站](http://www.e-muse.com.tw/property/reborn/introduction/20070403/index.html)
 
-[Category:家庭教師HITMAN_REBORN\!](https://zh.wikipedia.org/wiki/Category:家庭教師HITMAN_REBORN! "wikilink")
-[Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
-[Category:三立都會台外購動畫](https://zh.wikipedia.org/wiki/Category:三立都會台外購動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
+[Category:家庭教師HITMAN_REBORN\!](https://zh.wikipedia.org/wiki/Category:家庭教師HITMAN_REBORN! "wikilink") [Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:三立都會台外購動畫](https://zh.wikipedia.org/wiki/Category:三立都會台外購動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
 
 1.
 2.

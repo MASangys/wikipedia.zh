@@ -1,7 +1,6 @@
 《**魔力W.i.t.c.h.**》（）原作为[意大利](../Page/意大利.md "wikilink")[迪士尼公司所创作的一部](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")[漫画杂志系列](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")。于2001年4月首次发行，当地的[报纸与](https://zh.wikipedia.org/wiki/报纸 "wikilink")[杂志](../Page/杂志.md "wikilink")把这部作品称为“女孩版的[哈利·波特](../Page/哈利·波特.md "wikilink")”，现已经在[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[波兰等十多个国家授权出版连载](https://zh.wikipedia.org/wiki/波兰 "wikilink")，但并没有英文版；如今这部作品经过了10年左右的长期连载，于2012年10月所发行的第139期宣布完结。
 
-[动画片系列将由](https://zh.wikipedia.org/wiki/动画片 "wikilink")[法国动画公司](https://zh.wikipedia.org/wiki/法国 "wikilink")“SIP
-Animation”来负责制作，[台湾迪士尼已经公开播放了动画系列](https://zh.wikipedia.org/wiki/台湾 "wikilink")，译名为《**精灵少女组**》。2002年6月，[中国大陆](../Page/中国大陆.md "wikilink")的[童趣出版有限公司被授权出版了中文版的漫画杂志系列](https://zh.wikipedia.org/wiki/童趣出版有限公司 "wikilink")，同时也出版了故事集、原创小说以及漫画杂志系列的合订口袋书，现已全部停刊绝版；而动画系列在中国大陆的播放权也由于[广电总局临时宣布禁播国外动画而一直没有审批通过](https://zh.wikipedia.org/wiki/广电总局 "wikilink")。
+[动画片系列将由](https://zh.wikipedia.org/wiki/动画片 "wikilink")[法国动画公司](https://zh.wikipedia.org/wiki/法国 "wikilink")“SIP Animation”来负责制作，[台湾迪士尼已经公开播放了动画系列](https://zh.wikipedia.org/wiki/台湾 "wikilink")，译名为《**精灵少女组**》。2002年6月，[中国大陆](../Page/中国大陆.md "wikilink")的[童趣出版有限公司被授权出版了中文版的漫画杂志系列](https://zh.wikipedia.org/wiki/童趣出版有限公司 "wikilink")，同时也出版了故事集、原创小说以及漫画杂志系列的合订口袋书，现已全部停刊绝版；而动画系列在中国大陆的播放权也由于[广电总局临时宣布禁播国外动画而一直没有审批通过](https://zh.wikipedia.org/wiki/广电总局 "wikilink")。
 
 2003年3月，[日本](../Page/日本.md "wikilink")出版了2本同名的[日本漫画](../Page/日本漫画.md "wikilink")风格式的《W.I.T.C.H.》，由[日本漫画家](https://zh.wikipedia.org/wiki/日本漫画家 "wikilink")[饭田晴子负责编绘](https://zh.wikipedia.org/wiki/饭田晴子 "wikilink")；[卡通](../Page/卡通.md "wikilink")也在日本2007年8月份相继播出；随后也发行了忠实于漫画原作的[小说](../Page/小说.md "wikilink")系列。
 
@@ -17,16 +16,13 @@ Animation”来负责制作，[台湾迪士尼已经公开播放了动画系列]
 
 坎德拉卡的新一代天网守护神。她们来自于地球。是历代史上唯一能接受古老元素力量而变身的守护神，薇儿则是她们的领袖。使用始祖元素魔力变身后，每人获得了新的魔法道具（套索、铃鼓、球、体操用缎带、扇子）。
 
-  - [薇儿·范多姆](https://zh.wikipedia.org/wiki/薇儿·范多姆 "wikilink")（Will
-    Vandom）
+  - [薇儿·范多姆](https://zh.wikipedia.org/wiki/薇儿·范多姆 "wikilink")（Will Vandom）
     薇儿是坎德卡之心的保护者，精靈守护者团队的领导人，能控制所有带有纯粹电流以及纯粹能量的东西。印象色是[品红色](https://zh.wikipedia.org/wiki/品红色 "wikilink")。
   - [爱玛·莱尔](https://zh.wikipedia.org/wiki/爱玛·莱尔 "wikilink")（Irma Lair）
     艾玛拥有控制水元素的能力，她不仅能够自如的操纵水而且还能巧妙的控制海洋。印象色是[水蓝色](https://zh.wikipedia.org/wiki/水蓝色 "wikilink")。她是最善于交际于爱施展咒语的一个。她的个性直率、冲动又爱乐于助人。无论何时何地，她的幽默感都始终如一。她讨厌所有一切关于运动的项目，喜欢长期无所事事的沉醉在自己喜爱歌星的音乐当中。爱玛与其他魔力女孩一样就读于希瑟菲尔德的谢菲尔德学校，与塔拉妮、海琳同在二甲班。爱玛和当警察的爸爸，与做家庭主妇的继母还有弟弟一同居住在有花园的小别墅里。爱玛还养了个坏脾气的宠物乌龟，名叫“利非”。在这五个女孩当中与薇儿、海琳的关系最要好。她的个性经常会与柯妮丽娅的沉着严谨有磕碰。爱玛经常爱把欧路芭比喻成猫类动物，与欧路芭也会经常发生小冲突。
-  - [塔拉妮·库克](https://zh.wikipedia.org/wiki/塔拉妮·库克 "wikilink")（Taranee
-    Cook）
+  - [塔拉妮·库克](https://zh.wikipedia.org/wiki/塔拉妮·库克 "wikilink")（Taranee Cook）
     塔拉妮拥有控制四大元素中攻击力最强的火元素的魔力，她能够从手中制造出旋转的火红烈焰。印象色是[橘红色](https://zh.wikipedia.org/wiki/橘红色 "wikilink")。塔拉妮和薇儿一样，也是才刚刚与家人一起搬到了希瑟菲尔德，转入了谢菲尔德学校的二甲班，与爱玛、海琳是同班同学。她在这几个女孩中性格是最文静、理智、爱思考也是最容易焦虑的。她最酷爱古典音乐和篮球，也喜欢摄影，她最爱拍摄昆虫之类的小动物，其实她是最怕这些小动物的。她的妈妈是名白种人法官，既严谨又苛刻。她的爸爸是名黑种人心理咨询师。还有位英俊潇洒的好脾气哥哥，乐于助人，热爱冲浪。塔拉妮外貌的主要特征是带着一副眼镜，由于晶心仙女礼物的影响，使原本近视的塔拉妮恢复了正常的视力，后来塔拉妮拒绝了这份恩惠，之后她带着一副平光镜片的眼镜。她的发型是用珠珠辫绳串成的辫子。
-  - [柯妮丽娅·黑尔](https://zh.wikipedia.org/wiki/柯妮丽娅·黑尔 "wikilink")（Cornelia
-    Hale）
+  - [柯妮丽娅·黑尔](https://zh.wikipedia.org/wiki/柯妮丽娅·黑尔 "wikilink")（Cornelia Hale）
     柯妮莉亚拥有控制土元素的能力，她可以随心所欲的移动山脉，使大地强烈震动，还可以使地面上的植物急速生长。故事后端，柯妮丽娅被赋予了治愈的力量与操控时间的力量。印象色是[黄绿色](https://zh.wikipedia.org/wiki/黄绿色 "wikilink")。柯妮丽娅就读于谢菲尔德学校的三甲班，并且与薇儿同班。她与伊莲是最亲密的好朋友。她非常理智，但很少说话，只要一开口却字字珠玑。她具有批判性，讲求实际与逻辑性，但她的个性却比较固执。虽然她的外表冷静严厉，但内心却是亲切而温柔的。柯妮丽娅的理性性格与爱玛的幽默感简直就是两个不同的极端，这使她们俩的友情总是频繁冲突。柯妮丽娅非常喜爱大自然，因为大自然是理性的、富有规律的，而这种特质正式她所想要的。她身处于中上层的家庭中，和事业成功的父母与小妹妹莉莉安一起住在市中心里的一幢高级公寓里。柯妮丽娅平生最大的爱好就是滑冰，她曾获得过希瑟菲尔德艺术滑冰少年组的冠军。她对游泳这个项目简直一窍不通，她非常得怕水。当柯妮丽娅在与好友伊莲成为死敌时，她最希望的是能重新赢得与她的友情。
   - [海琳](https://zh.wikipedia.org/wiki/林荷 "wikilink")（Hay Lin）
     海琳拥有控制风元素的能力，她能够释放出强大而又剧烈的龙卷风和有毒的瓦斯。印象色是[青色](../Page/青色.md "wikilink")。林荷是希瑟菲尔德学院2甲班德学生，与爱玛、塔拉妮同在一班，即将一同升入3甲班。林荷天生性格活泼可爱，生活无忧无虑，是魔力组合5人组中年纪最小也是最乐观的。她很少与任何一个朋友吵过架，她总能表现出博爱、积极与乐观的一面。她既乐于助人而且还慷慨大方。绘画与时装设计及其服装制作是海琳唯一最大的兴趣，她所设计的时装全部都是由自己亲手制作的。她还有经常在手掌上作笔记的习惯。她最酷爱的东西是眼镜，特别是那种非主流式的奇怪眼镜，不仅如此，她还爱把鞋带当作比较突出个性的装饰而使用。林荷的父母在市中心经营着一家名为“银龙”的中式餐馆。虽然她父母并不要求她到餐馆里帮忙，可她总是主动到餐馆里照顾生意。最喜欢科幻类的东西，每当她想起自己喜欢的东西时，她便会把这种东西形容得具有太空感。林荷是东方女孩，柯妮丽娅称呼海琳的爸爸为“林爸爸”，所以海琳应该姓林。
@@ -136,8 +132,7 @@ Animation”来负责制作，[台湾迪士尼已经公开播放了动画系列]
 
 ### C.H.Y.K.N.
 
-坎德拉卡上一辈的古老守护神。以纳瑞莎为首，是一个一同出生入死的出色团队。直至纳瑞莎的背叛，而使这个出色的团队彻底瓦解。纳瑞莎被囚禁在泰诺斯山深处，卡西迪则被纳瑞莎杀死，卡德玛与荷丽诺被逐出坎德拉卡，嫣琳则成为坎德拉卡圣会中的一员。在动画版中，纳瑞莎借助伊莲的麦丽甸之心（Heart
-of Meridian）的力量再度复兴了这个组合，并对其进行洗脑，与薇儿等人进行较量。
+坎德拉卡上一辈的古老守护神。以纳瑞莎为首，是一个一同出生入死的出色团队。直至纳瑞莎的背叛，而使这个出色的团队彻底瓦解。纳瑞莎被囚禁在泰诺斯山深处，卡西迪则被纳瑞莎杀死，卡德玛与荷丽诺被逐出坎德拉卡，嫣琳则成为坎德拉卡圣会中的一员。在动画版中，纳瑞莎借助伊莲的麦丽甸之心（Heart of Meridian）的力量再度复兴了这个组合，并对其进行洗脑，与薇儿等人进行较量。
 
   - 纳瑞莎（Nerissa）
     操控着复仇骑士团的一个老魔女（后来借助麦丽甸之心的力量恢复了青春）。实际上她是上一任守护神们的领导者，为坎德拉卡之心的守护神。她象征着坎德拉卡最黑暗的岁月。她曾经是个音乐家，并与海琳的奶奶嫣琳结下了深厚的友谊。后来为了追求更高的权力与更强的力量，她无耻地偷走了坎德拉卡之心，后来她被坎德拉卡之心强大的魔力引入了永远也无法回头的歧途。纳瑞莎的阴谋被圣人发觉后，知道纳瑞莎从此不能再担当坎德拉卡之心的守护神，并将坎德拉卡之心交由卡西迪守护，纳瑞莎妒火中烧，把卡西迪引入圈套，并杀害了她。后来纳瑞莎遭受到坎德拉卡的审判，被判决永远囚禁在泰诺斯山深处，剥夺其魔力，并禁止一切外界援助与交往；她被封印在一座石墓中，要她永生反思自己的罪过。她的判决有一个期限，只要5种魔力汇聚在一起时，纳瑞莎便能重新获得自由。
@@ -497,9 +492,7 @@ of Meridian）的力量再度复兴了这个组合，并对其进行洗脑，与
 
 ### 小说
 
-  - 《魔力W.i.t.c.h.小说·破碎的魔球》—风靡全球的魔幻故事
-    （[莉倪﹒卡贝博](https://zh.wikipedia.org/wiki/莉倪﹒卡贝博 "wikilink")﹒著
-    全4册·童趣出版有限公司出版）
+  - 《魔力W.i.t.c.h.小说·破碎的魔球》—风靡全球的魔幻故事 （[莉倪﹒卡贝博](https://zh.wikipedia.org/wiki/莉倪﹒卡贝博 "wikilink")﹒著 全4册·童趣出版有限公司出版）
 
 <table style="width:5%;">
 <colgroup>
@@ -604,16 +597,10 @@ of Meridian）的力量再度复兴了这个组合，并对其进行洗脑，与
 
 ## 外部链接
 
-  - [W.I.T.C.H.
-    Magazine](http://www.witchmagazine.eu/welcome/)（多国语言版官方网站）
+  - [W.I.T.C.H. Magazine](http://www.witchmagazine.eu/welcome/)（多国语言版官方网站）
 
   - [《魔力W.i.t.c.h.》官方博客](http://blog.sina.com.cn/kdswitch)
 
   - [《精灵少女组》台湾迪士尼官方网站](https://web.archive.org/web/20080918064329/http://www.disney.com.tw/DisneyChannel/supersites/witch/index.html)
 
-[Category:魔力W.i.t.c.h.](https://zh.wikipedia.org/wiki/Category:魔力W.i.t.c.h. "wikilink")
-[Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink")
-[Category:動畫影集](https://zh.wikipedia.org/wiki/Category:動畫影集 "wikilink")
-[Category:迪士尼動畫](https://zh.wikipedia.org/wiki/Category:迪士尼動畫 "wikilink")
-[Category:魔法题材作品](https://zh.wikipedia.org/wiki/Category:魔法题材作品 "wikilink")
-[Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink")
+[Category:魔力W.i.t.c.h.](https://zh.wikipedia.org/wiki/Category:魔力W.i.t.c.h. "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:動畫影集](https://zh.wikipedia.org/wiki/Category:動畫影集 "wikilink") [Category:迪士尼動畫](https://zh.wikipedia.org/wiki/Category:迪士尼動畫 "wikilink") [Category:魔法题材作品](https://zh.wikipedia.org/wiki/Category:魔法题材作品 "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink")

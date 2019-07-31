@@ -1,7 +1,6 @@
 **Eurogate**是[欧洲](../Page/欧洲.md "wikilink")最大的[集装箱码头物流集团](https://zh.wikipedia.org/wiki/集装箱码头 "wikilink")。2012年，Eurogate旗下11个港口的转运量为1330万[标准箱](https://zh.wikipedia.org/wiki/标准箱 "wikilink")，总员工数为7665人。
 
-1999年，[不来梅](https://zh.wikipedia.org/wiki/不来梅 "wikilink")[BLG物流](../Page/BLG物流.md "wikilink")集团与[汉堡](../Page/汉堡.md "wikilink")[Eurokai集团](../Page/Eurokai集团.md "wikilink")将其集装箱码头业务合并而成立了Eurogate，总部设在德国[汉萨同盟](../Page/汉萨同盟.md "wikilink")城市[不来梅](https://zh.wikipedia.org/wiki/不来梅 "wikilink")，其集装箱码头网络主要覆盖泛欧地区，从[波罗的海](../Page/波罗的海.md "wikilink")、[北海](../Page/北海_\(大西洋\).md "wikilink")、[大西洋](../Page/大西洋.md "wikilink")到[地中海](../Page/地中海.md "wikilink")重要港口。除经营集装箱码头以外，Eurogate还通过多家子公司提供一系列物流及码头配套服务，包括[多式联运](https://zh.wikipedia.org/wiki/多式联运 "wikilink")（Eurogate
-Intermodal）、集装箱装拼箱、海运货物包装（SWOP）以及集装箱储存与维修（ReMain）。
+1999年，[不来梅](https://zh.wikipedia.org/wiki/不来梅 "wikilink")[BLG物流](../Page/BLG物流.md "wikilink")集团与[汉堡](../Page/汉堡.md "wikilink")[Eurokai集团](../Page/Eurokai集团.md "wikilink")将其集装箱码头业务合并而成立了Eurogate，总部设在德国[汉萨同盟](../Page/汉萨同盟.md "wikilink")城市[不来梅](https://zh.wikipedia.org/wiki/不来梅 "wikilink")，其集装箱码头网络主要覆盖泛欧地区，从[波罗的海](../Page/波罗的海.md "wikilink")、[北海](../Page/北海_\(大西洋\).md "wikilink")、[大西洋](../Page/大西洋.md "wikilink")到[地中海](../Page/地中海.md "wikilink")重要港口。除经营集装箱码头以外，Eurogate还通过多家子公司提供一系列物流及码头配套服务，包括[多式联运](https://zh.wikipedia.org/wiki/多式联运 "wikilink")（Eurogate Intermodal）、集装箱装拼箱、海运货物包装（SWOP）以及集装箱储存与维修（ReMain）。
 
 ## 德国集装箱码头业务
 
@@ -75,8 +74,7 @@ Eurogate在德国境内运营三个集装箱码头，分别位于德国第一大
 
   - Eurogate不来梅哈芬集装箱码头
   - MSC Gate不来梅哈芬集装箱码头（与地中海航运各50%股份）
-  - North
-    Sea不来梅哈芬集装箱码头（与[马士基航运各](https://zh.wikipedia.org/wiki/马士基 "wikilink")50%股份）
+  - North Sea不来梅哈芬集装箱码头（与[马士基航运各](https://zh.wikipedia.org/wiki/马士基 "wikilink")50%股份）
   - Eurogate不来梅哈芬码头集装箱货运站
   - Eurogate汉堡集装箱码头
       - Eurokombi铁路货运站，汉堡（参股50%）
@@ -103,15 +101,13 @@ Eurogate在德国境内运营三个集装箱码头，分别位于德国第一大
   - [沙莱诺集装箱码头](https://zh.wikipedia.org/wiki/沙莱诺 "wikilink")
   - [拉文纳集装箱码头](https://zh.wikipedia.org/wiki/拉文纳 "wikilink")
   - Sogemar，意大利[米兰](https://zh.wikipedia.org/wiki/米兰 "wikilink")（多式联输）
-  - United Feeder
-    Services，[塞浦路斯](https://zh.wikipedia.org/wiki/塞浦路斯 "wikilink")（地中海[支线航运](https://zh.wikipedia.org/wiki/支线航运 "wikilink")）
+  - United Feeder Services，[塞浦路斯](https://zh.wikipedia.org/wiki/塞浦路斯 "wikilink")（地中海[支线航运](https://zh.wikipedia.org/wiki/支线航运 "wikilink")）
 
 ## 外部链接
 
   - Eurogate集团
       - [Eurogate网站（英语）](http://www.eurogate.eu/live/eg_site_en/show.php3?id=1&nodeid=1&_language=en)
-      - [Eurogate
-        汉堡集装箱码头信息手册](http://www.eurogate.eu/live/eg_site_en/eg_html_en/show.php3?id=54&nodeid=0&_language=en)
+      - [Eurogate 汉堡集装箱码头信息手册](http://www.eurogate.eu/live/eg_site_en/eg_html_en/show.php3?id=54&nodeid=0&_language=en)
       - [Eurogate不来梅哈芬港码头信息手册](http://www.eurogate.eu/live/eg_site_en/eg_html_en/show.php3?id=53&nodeid=0&_language=en)
       - [Eurogate威廉港码头信息](http://www.eurogate.de/live/eg_site_en/show.php3?id=218&nodeid=218&_language=en)
       - [企业图片库](http://www.eurogate.de/live/eg_site_en/show.php3?id=49)

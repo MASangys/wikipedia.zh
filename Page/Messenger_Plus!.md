@@ -1,15 +1,10 @@
-**Messenger Plus\!**（前称：**Messenger Plus\! Live**、**Messenger
-Plus！Extension**），是[Yuna
-Software开发的](https://zh.wikipedia.org/wiki/Yuna_Software "wikilink")[即时通讯软件客户端插件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，通过将其自己的控件添加到主界面，为[微软的](../Page/微软.md "wikilink")[Windows
-Live
-Messenger和](../Page/Windows_Live_Messenger.md "wikilink")[Skype提供了额外的功能](../Page/Skype.md "wikilink")。这些控件通常通过附加对话框来影响行为和外观。
+**Messenger Plus\!**（前称：**Messenger Plus\! Live**、**Messenger Plus！Extension**），是[Yuna Software开发的](https://zh.wikipedia.org/wiki/Yuna_Software "wikilink")[即时通讯软件客户端插件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，通过将其自己的控件添加到主界面，为[微软](../Page/微软.md "wikilink")的[Windows Live Messenger和](../Page/Windows_Live_Messenger.md "wikilink")[Skype](../Page/Skype.md "wikilink")提供了额外的功能。这些控件通常通过附加对话框来影响行为和外观。
 
 ## 介绍
 
   - 皮肤
 
-皮肤是指软件程序执行时所呈现的图形操作介面，允许用户从MPL网站下载或以XML脚本制作皮肤来更改Windows Live
-Messenger的传统外观。
+皮肤是指软件程序执行时所呈现的图形操作介面，允许用户从MPL网站下载或以XML脚本制作皮肤来更改Windows Live Messenger的传统外观。
 
   - 文本编辑
 
@@ -57,9 +52,7 @@ Messenger的传统外观。
 
   - 个性化脚本
 
-加入了一个脚本API，用户因此可以自己通过使用JScript创建更多功能。脚本可以在无需重新启动Windows Live
-Messenger进行编辑，因此提高了开发过程的速度，通过脚本而不是插件进行新功能添加让用户可以简单的打开脚本文件安装新功，而不需要复制dll文件到插件目录下并重新启动Windows
-Live Messenger。
+加入了一个脚本API，用户因此可以自己通过使用JScript创建更多功能。脚本可以在无需重新启动Windows Live Messenger进行编辑，因此提高了开发过程的速度，通过脚本而不是插件进行新功能添加让用户可以简单的打开脚本文件安装新功，而不需要复制dll文件到插件目录下并重新启动Windows Live Messenger。
 
   - 支持语言
 
@@ -102,34 +95,21 @@ Live Messenger。
 
 ## 历史
 
-Messenger Plus\! 是由 Cyril Paciullo（塞利而·保修罗）开发推出，他自称自己为
-*Patchou*。塞利而出生于法国，目前居住在加拿大。他开发 Messenger Plus\!
-软件以及管理发布该软件的网站与公司。
+Messenger Plus\! 是由 Cyril Paciullo（塞利而·保修罗）开发推出，他自称自己为 *Patchou*。塞利而出生于法国，目前居住在加拿大。他开发 Messenger Plus\! 软件以及管理发布该软件的网站与公司。
 
-2006年10月，Patchou
-荣誉[微软最有价值专家奖](https://zh.wikipedia.org/wiki/微软最有价值专家奖 "wikilink")，虽然在他的软件里包含了[广告软件](https://zh.wikipedia.org/wiki/广告软件 "wikilink")。\[1\]
+2006年10月，Patchou 荣誉[微软最有价值专家奖](https://zh.wikipedia.org/wiki/微软最有价值专家奖 "wikilink")，虽然在他的软件里包含了[广告软件](https://zh.wikipedia.org/wiki/广告软件 "wikilink")。\[1\]
 
-在Patchou于他的博客公开他得到微软最有价值专家奖消息的数天后，他的微软最有价值专家奖被驳回\[2\]
-，而他的微软最有价值专家奖个人资料也从微软最有价值专家奖官方网站删除。
+在Patchou于他的博客公开他得到微软最有价值专家奖消息的数天后，他的微软最有价值专家奖被驳回\[2\] ，而他的微软最有价值专家奖个人资料也从微软最有价值专家奖官方网站删除。
 
 截至2010年2月，它已成为微软即时通讯客户端使用最广泛的附加软件之一，拥有超过6200万的用户。
 
 ## 爭议
 
-作者目前捆绑了由Circle Development Ltd.开发的可选择性安装的
-[广告软件](https://zh.wikipedia.org/wiki/广告软件 "wikilink")。一些软件评估网站抨击它\[3\]\[4\]
-的用户许可协议。声称那个许可安装广告软件的赞助协议有误导性，因为看起来很像标准的
-[EULA最终用户许可证](https://zh.wikipedia.org/wiki/EULA "wikilink")，并且只有英语版本。自从
-Messenger Plus\! 3.60
-于2005年9月27日发行以来，安装程序除了传统的EULA，还包含了另一个许可证协议。这些已也都有翻译本。
+作者目前捆绑了由Circle Development Ltd.开发的可选择性安装的 [广告软件](https://zh.wikipedia.org/wiki/广告软件 "wikilink")。一些软件评估网站抨击它\[3\]\[4\] 的用户许可协议。声称那个许可安装广告软件的赞助协议有误导性，因为看起来很像标准的 [EULA最终用户许可证](https://zh.wikipedia.org/wiki/EULA "wikilink")，并且只有英语版本。自从 Messenger Plus\! 3.60 于2005年9月27日发行以来，安装程序除了传统的EULA，还包含了另一个许可证协议。这些已也都有翻译本。
 
-[McAfee](https://zh.wikipedia.org/wiki/McAfee "wikilink") 网站顾问警告说
-<https://web.archive.org/web/20071223021819/http://www.msgpluslive.net/#offadd>
-与惡意[广告软件有联接](https://zh.wikipedia.org/wiki/广告软件 "wikilink")。
-[Adware-Lop](http://www.siteadvisor.com/sites/msgpluslive.net?ref=safe&aff_id=0)。
+[McAfee](https://zh.wikipedia.org/wiki/McAfee "wikilink") 网站顾问警告说 <https://web.archive.org/web/20071223021819/http://www.msgpluslive.net/#offadd> 与惡意[广告软件有联接](https://zh.wikipedia.org/wiki/广告软件 "wikilink")。 [Adware-Lop](http://www.siteadvisor.com/sites/msgpluslive.net?ref=safe&aff_id=0)。
 
-Circle Development 提供一个个别的广告软件卸载程序，这程序会在用户尝试卸载 Messenger Plus\!
-时出现。\[5\]
+Circle Development 提供一个个别的广告软件卸载程序，这程序会在用户尝试卸载 Messenger Plus\! 时出现。\[5\]
 
 ## 参考文献
 

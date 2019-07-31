@@ -2,8 +2,7 @@
 
 ## 簡介
 
-此團名由三位男生[白吉勝](../Page/白吉勝.md "wikilink")（Ben）、[田恩沛](https://zh.wikipedia.org/wiki/田恩沛 "wikilink")（Alex）、[黃柏文](../Page/黃柏文.md "wikilink")（Danny）、的英文名字第一個字母所定的團名，中文組合就叫**壞男孩**，且三位團員都是在[美國留學多年後回](https://zh.wikipedia.org/wiki/美國 "wikilink")[台灣發展](https://zh.wikipedia.org/wiki/台灣 "wikilink")，曾以2001年發行《OH\!
-I》專輯榮獲2002年第13屆[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[金曲獎](../Page/金曲獎.md "wikilink")流行音樂最佳重唱組合。
+此團名由三位男生[白吉勝](../Page/白吉勝.md "wikilink")（Ben）、[田恩沛](https://zh.wikipedia.org/wiki/田恩沛 "wikilink")（Alex）、[黃柏文](../Page/黃柏文.md "wikilink")（Danny）、的英文名字第一個字母所定的團名，中文組合就叫**壞男孩**，且三位團員都是在[美國留學多年後回](https://zh.wikipedia.org/wiki/美國 "wikilink")[台灣發展](https://zh.wikipedia.org/wiki/台灣 "wikilink")，曾以2001年發行《OH\! I》專輯榮獲2002年第13屆[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[金曲獎](../Page/金曲獎.md "wikilink")流行音樂最佳重唱組合。
 
 B.A.D於2004年，和科藝百代的唱片[合約到期之後解散](https://zh.wikipedia.org/wiki/合約 "wikilink")。團體解散後，Ben仍活躍於台灣[演藝圈](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")，Danny則轉型為[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，現為[飛碟電台](https://zh.wikipedia.org/wiki/飛碟電台 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")。
 
@@ -52,8 +51,7 @@ DANNY（1978年7月9日-），本名黃柏文，是一名[台灣歌手](https://
 
 <!-- end list -->
 
-  - 2001年《[陽光果凍](https://zh.wikipedia.org/wiki/陽光果凍 "wikilink")》\[4\] 飾演
-    BEN（侯湘婷的弟弟）
+  - 2001年《[陽光果凍](https://zh.wikipedia.org/wiki/陽光果凍 "wikilink")》\[4\] 飾演 BEN（侯湘婷的弟弟）
   - 2002年《[黑白映畫館](https://zh.wikipedia.org/wiki/黑白映畫館 "wikilink")－少女殺手》
   - 2003年《[戀香](../Page/戀香.md "wikilink")》 飾演 宋新
   - 2004年《[愛情魔戒](../Page/愛情魔戒.md "wikilink")》 飾演 丁哲凱
@@ -73,8 +71,7 @@ DANNY（1978年7月9日-），本名黃柏文，是一名[台灣歌手](https://
 
 <!-- end list -->
 
-  - 2001年《[陽光果凍](https://zh.wikipedia.org/wiki/陽光果凍 "wikilink")》\[5\] 飾演
-    Danny（BEN的高中同學）
+  - 2001年《[陽光果凍](https://zh.wikipedia.org/wiki/陽光果凍 "wikilink")》\[5\] 飾演 Danny（BEN的高中同學）
   - 2002年《[黑色映畫館](https://zh.wikipedia.org/wiki/黑色映畫館 "wikilink")－至死不渝的愛》
   - 2002年《[黑白映畫館](https://zh.wikipedia.org/wiki/黑白映畫館 "wikilink")－少女殺手》
   - 2005年《[我只在乎你](../Page/我只在乎你_\(電視劇\).md "wikilink")》 飾演 徐政文
@@ -86,22 +83,14 @@ DANNY（1978年7月9日-），本名黃柏文，是一名[台灣歌手](https://
 
 ## 參考資料
 
-[Category:已解散的演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的演唱團體 "wikilink")
-[Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink")
-[Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink")
+[Category:已解散的演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的演唱團體 "wikilink") [Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink") [Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink")
 
-1.  [黃明和一家掌秀傳
-    么兒是前男團B.A.D成員](http://news.ltn.com.tw/news/society/breakingnews/1116168)自由時報
-    2014-09-26
+1.  [黃明和一家掌秀傳 么兒是前男團B.A.D成員](http://news.ltn.com.tw/news/society/breakingnews/1116168)自由時報 2014-09-26
 
-2.  [楊晴瑄今早登記
-    正式成為秀傳醫院少奶奶](http://www.appledaily.com.tw/realtimenews/article/new/20130619/213201/)蘋果日報
-    2013年06月19日
+2.  [楊晴瑄今早登記 正式成為秀傳醫院少奶奶](http://www.appledaily.com.tw/realtimenews/article/new/20130619/213201/)蘋果日報 2013年06月19日
 
-3.  [前B.A.D成員Danny大婚！求婚2年娶「小林志玲」楊晴瑄](http://star.ettoday.net/news/229135)ETtoday娛樂星光雲
-    2013年06月23日
+3.  [前B.A.D成員Danny大婚！求婚2年娶「小林志玲」楊晴瑄](http://star.ettoday.net/news/229135)ETtoday娛樂星光雲 2013年06月23日
 
-4.  [侯湘婷為吳克群當「未婚媽媽」](http://old.ltn.com.tw/2001/new/nov/14/today-show3.htm)自由電子新聞網
-    民國90年11月14日
+4.  [侯湘婷為吳克群當「未婚媽媽」](http://old.ltn.com.tw/2001/new/nov/14/today-show3.htm)自由電子新聞網 民國90年11月14日
 
 5.

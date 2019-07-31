@@ -1,18 +1,13 @@
-**内山田洋\&Cool
-Five**（**内山田洋とクール・ファイブ**）是日本的一个音乐团体，由[内山田洋带领](https://zh.wikipedia.org/wiki/内山田洋 "wikilink")，曾在70年代风靡一时，著名歌曲有《东京沙漠》（東京砂漠）、《长崎今日又下雨》（長崎は今日も雨だった）、《来到神户》（そして、神戸）等。
+**内山田洋\&Cool Five**（**内山田洋とクール・ファイブ**）是日本的一个音乐团体，由[内山田洋带领](https://zh.wikipedia.org/wiki/内山田洋 "wikilink")，曾在70年代风靡一时，著名歌曲有《东京沙漠》（東京砂漠）、《长崎今日又下雨》（長崎は今日も雨だった）、《来到神户》（そして、神戸）等。
 
 ## 成员
 
-  - [内山田洋](https://zh.wikipedia.org/wiki/内山田洋 "wikilink")(うちやまだ
-    ひろし、1936年6月6日 - 2006年11月3日)、吉他演奏
+  - [内山田洋](https://zh.wikipedia.org/wiki/内山田洋 "wikilink")(うちやまだ ひろし、1936年6月6日 - 2006年11月3日)、吉他演奏
   - [前川清](../Page/前川清.md "wikilink")(まえかわ きよし、1948年8月19日 - )、主唱
-  - [宮本悦朗](https://zh.wikipedia.org/wiki/宮本悦朗 "wikilink")(みやもと
-    えつろう、1948年1月15日 - )、钢琴和键盘演奏
+  - [宮本悦朗](https://zh.wikipedia.org/wiki/宮本悦朗 "wikilink")(みやもと えつろう、1948年1月15日 - )、钢琴和键盘演奏
   - [小林正樹](../Page/小林正樹.md "wikilink")(こばやし まさき、1943年1月1日 - )、贝司演奏
-  - [岩城茂美](https://zh.wikipedia.org/wiki/岩城茂美 "wikilink")(いわき
-    しげみ、1942年1月5日 - )、萨克斯演奏
-  - [森本繁](https://zh.wikipedia.org/wiki/森本繁 "wikilink")(もりもと
-    しげる、1942年10月23日 - )、鼓演奏
+  - [岩城茂美](https://zh.wikipedia.org/wiki/岩城茂美 "wikilink")(いわき しげみ、1942年1月5日 - )、萨克斯演奏
+  - [森本繁](https://zh.wikipedia.org/wiki/森本繁 "wikilink")(もりもと しげる、1942年10月23日 - )、鼓演奏
 
 ## [NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")出场历
 
@@ -34,6 +29,4 @@ Five**（**内山田洋とクール・ファイブ**）是日本的一个音乐�
 |    | 第58回 | 2007年 | そして、神戸     | 与搞笑艺人穆迪胜山一同登场。出场回数计入[前川清](../Page/前川清.md "wikilink")个人名下。                             |
 |    | 第59回 | 2008年 | 東京砂漠       | 出场回数计入[前川清](../Page/前川清.md "wikilink")个人名下                                            |
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本有線大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎者 "wikilink")
-[Category:BEST_HIT歌謠祭大獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭大獎獲獎者 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本有線大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎者 "wikilink") [Category:BEST_HIT歌謠祭大獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭大獎獲獎者 "wikilink")

@@ -2,8 +2,7 @@
 
 ## 概要
 
-本作是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")首次以男性角色為主角的作品。背景設在新曆81年（即[StrikerS的JS事件的](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")6年之後，[Soundstage
-X的瑪麗亞治事件的](../Page/魔法少女奈葉_Sound_Stage.md "wikilink")3年之後），獨自一人周遊世界的男主角**托瑪·阿凡尼爾**，在遺跡中與謎一般的少女**莉莉·修特羅傑克**相遇，之後二人又與**艾希絲·伊古雷特**偶然相遇；托瑪被卷入了包括「銀十字之書」和「蝕」在內的連串不幸的事件中……
+本作是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")首次以男性角色為主角的作品。背景設在新曆81年（即[StrikerS的JS事件的](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")6年之後，[Soundstage X的瑪麗亞治事件的](../Page/魔法少女奈葉_Sound_Stage.md "wikilink")3年之後），獨自一人周遊世界的男主角**托瑪·阿凡尼爾**，在遺跡中與謎一般的少女**莉莉·修特羅傑克**相遇，之後二人又與**艾希絲·伊古雷特**偶然相遇；托瑪被卷入了包括「銀十字之書」和「蝕」在內的連串不幸的事件中……
 
 ## 登場角色
 
@@ -152,9 +151,7 @@ ISBN 978-4-04-1205983</p></td>
 ## 外部連結
 
   -
-[Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")
+[Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")
 
 1.  [動畫泡湯！《魔法少女奈葉4》公佈](http://cartoon.southcn.com/ctnews/hwdm/content/content_4984598.htm)
 2.

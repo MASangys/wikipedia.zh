@@ -9,7 +9,4 @@
   - **[温斯顿·斯科特](https://zh.wikipedia.org/wiki/温斯顿·斯科特 "wikilink")**（，曾执行以及任务），任务专家
   - **[若田光一](../Page/若田光一.md "wikilink")**（日本宇航员，曾执行以及任务），任务专家
 
-[Category:1996年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1996年佛罗里达州 "wikilink")
-[Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink")
-[Category:1996年科學](https://zh.wikipedia.org/wiki/Category:1996年科學 "wikilink")
-[Category:1996年1月](https://zh.wikipedia.org/wiki/Category:1996年1月 "wikilink")
+[Category:1996年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1996年佛罗里达州 "wikilink") [Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink") [Category:1996年科學](https://zh.wikipedia.org/wiki/Category:1996年科學 "wikilink") [Category:1996年1月](https://zh.wikipedia.org/wiki/Category:1996年1月 "wikilink")

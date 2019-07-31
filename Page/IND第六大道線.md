@@ -404,12 +404,10 @@
   -
 ## 外部連結
 
-  - [nycsubway.org - IND 6th Ave./63rd St.
-    Line](http://nycsubway.org/ind/6thave/)
+  - [nycsubway.org - IND 6th Ave./63rd St. Line](http://nycsubway.org/ind/6thave/)
 
   -
-[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
-[Category:1936年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1936年啟用的鐵路線 "wikilink")
+[Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1936年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1936年啟用的鐵路線 "wikilink")
 
 1.
 

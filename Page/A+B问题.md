@@ -114,10 +114,8 @@ PROGRAM P1000
 
 ## 参见
 
-  - [Hello
-    World](../Page/Hello_World.md "wikilink")，跟A+B问题相比，它只考察了[字符串](../Page/字符串.md "wikilink")输出，而不存在[变量的输入输出](../Page/变量_\(程序设计\).md "wikilink")。
+  - [Hello World](../Page/Hello_World.md "wikilink")，跟A+B问题相比，它只考察了[字符串](../Page/字符串.md "wikilink")输出，而不存在[变量的输入输出](../Page/变量_\(程序设计\).md "wikilink")。
 
-[Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink")
-[Category:程序设计竞赛](https://zh.wikipedia.org/wiki/Category:程序设计竞赛 "wikilink")
+[Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink") [Category:程序设计竞赛](https://zh.wikipedia.org/wiki/Category:程序设计竞赛 "wikilink")
 
 1.  北京大学在线评测系统「POJ」中的[A+B Problem](http://poj.org/problem?id=1000)

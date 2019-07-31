@@ -2,8 +2,7 @@
 
 ## 經歷
 
-**2007年**由日本知名雜誌「[JUNON](https://zh.wikipedia.org/wiki/JUNON "wikilink")」舉辦的第19屆「[JUNON
-SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組成。
+**2007年**由日本知名雜誌「[JUNON](https://zh.wikipedia.org/wiki/JUNON "wikilink")」舉辦的第19屆「[JUNON SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組成。
 
 ## 成員
 
@@ -12,8 +11,7 @@ SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組�
 <!-- end list -->
 
   -
-    [Ever Green
-    Entertainment所屬藝人](https://zh.wikipedia.org/wiki/Ever_Green_Entertainment "wikilink")。
+    [Ever Green Entertainment所屬藝人](https://zh.wikipedia.org/wiki/Ever_Green_Entertainment "wikilink")。
 
 <!-- end list -->
 
@@ -31,8 +29,7 @@ SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組�
 <!-- end list -->
 
   -
-    [Stardust
-    Promotion所屬藝人](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
+    [Stardust Promotion所屬藝人](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 
 <!-- end list -->
 
@@ -41,8 +38,7 @@ SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組�
 <!-- end list -->
 
   -
-    [PLATINUM
-    PRODUCTION所屬藝人](https://zh.wikipedia.org/wiki/PLATINUM_PRODUCTION "wikilink")。
+    [PLATINUM PRODUCTION所屬藝人](https://zh.wikipedia.org/wiki/PLATINUM_PRODUCTION "wikilink")。
 
 <!-- end list -->
 
@@ -51,8 +47,7 @@ SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組�
 <!-- end list -->
 
   -
-    [VISION
-    FACTORY所屬藝人](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")。
+    [VISION FACTORY所屬藝人](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")。
 
 ## 外部連結
 
@@ -65,7 +60,4 @@ SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組�
   - [標永久BLOG](https://web.archive.org/web/20081218143528/http://shimegi-enoku.syncl.jp/)
   - [小堀慎平BLOG](https://web.archive.org/web/20080912215243/http://jumprince.jp/)
 
-[Category:JUNON_BOY](https://zh.wikipedia.org/wiki/Category:JUNON_BOY "wikilink")
-[Category:男性選美活動](https://zh.wikipedia.org/wiki/Category:男性選美活動 "wikilink")
-[Category:日本選美活動](https://zh.wikipedia.org/wiki/Category:日本選美活動 "wikilink")
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
+[Category:JUNON_BOY](https://zh.wikipedia.org/wiki/Category:JUNON_BOY "wikilink") [Category:男性選美活動](https://zh.wikipedia.org/wiki/Category:男性選美活動 "wikilink") [Category:日本選美活動](https://zh.wikipedia.org/wiki/Category:日本選美活動 "wikilink") [Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")

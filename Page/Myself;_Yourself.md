@@ -1,11 +1,8 @@
-《**Myself ;
-Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發的一套於](../Page/Regista.md "wikilink")[PlayStation
-2平台的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，於2007年12月20日發售。\[1\]並於2007年10月播出了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。[人物設計由曾擔任](../Page/人物設計.md "wikilink")《[歡樂課程](../Page/歡樂課程.md "wikilink")》、《[双恋](../Page/双恋.md "wikilink")》等遊戲的畫家[佐佐木睦美擔任](../Page/佐佐木睦美_\(插畫家\).md "wikilink")。
+《**Myself ; Yourself**》是[日本](../Page/日本.md "wikilink")遊戲公司[Regista](../Page/Regista.md "wikilink")開發的一套於[PlayStation 2平台的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，於2007年12月20日發售。\[1\]並於2007年10月播出了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。[人物設計](../Page/人物設計.md "wikilink")由曾擔任《[歡樂課程](../Page/歡樂課程.md "wikilink")》、《[双恋](../Page/双恋.md "wikilink")》等遊戲的畫家[佐佐木睦美擔任](../Page/佐佐木睦美_\(插畫家\).md "wikilink")。
 
 ## 情節簡介
 
-主人公日高佐菜是一位正在就讀公立高中的的16歲少年。他在[小學五年級以前一直生活在小鎮](https://zh.wikipedia.org/wiki/小學 "wikilink")，後來因為父母的工作關係而搬家到[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。然後，他在高中二年時再次回到這個小鎮，故事就在那裡開始。經過5年的歲月，依舊的東西跟已經變化的東西，毫不客氣地出現在他面前－在小時候經常衝去的小山丘所看到的風景，還有在海邊被感受著海風吹著口哨，小學的校庭的鐵欄的高度，在晴朗的夜晚可以見到很多的星星，然後是曾經是損友的健康的少年，還有曾經是初戀對象的少女，過去那閃亮的瞳孔。記憶跟現實的之間，或許就是一個鴻溝，各種各樣的東西不斷地在他面前出現，然後消失。各種各樣的變化，如同尖刺一樣刺向他的心。出現在少年的眼中的人，物，事件，回憶……
-在已經過去的時間裡，在新的學園生活中，他失去了什麼，得到了什麼。我本身，你本身原來的我，原來的你我還是我，你還是你生活在這個世界，當發覺誰跟自己很相符，他的人生踏進了新的一步。
+主人公日高佐菜是一位正在就讀公立高中的的16歲少年。他在[小學五年級以前一直生活在小鎮](https://zh.wikipedia.org/wiki/小學 "wikilink")，後來因為父母的工作關係而搬家到[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。然後，他在高中二年時再次回到這個小鎮，故事就在那裡開始。經過5年的歲月，依舊的東西跟已經變化的東西，毫不客氣地出現在他面前－在小時候經常衝去的小山丘所看到的風景，還有在海邊被感受著海風吹著口哨，小學的校庭的鐵欄的高度，在晴朗的夜晚可以見到很多的星星，然後是曾經是損友的健康的少年，還有曾經是初戀對象的少女，過去那閃亮的瞳孔。記憶跟現實的之間，或許就是一個鴻溝，各種各樣的東西不斷地在他面前出現，然後消失。各種各樣的變化，如同尖刺一樣刺向他的心。出現在少年的眼中的人，物，事件，回憶…… 在已經過去的時間裡，在新的學園生活中，他失去了什麼，得到了什麼。我本身，你本身原來的我，原來的你我還是我，你還是你生活在這個世界，當發覺誰跟自己很相符，他的人生踏進了新的一步。
 
 故事便由一個誤會的一個巴掌所展開－－
 
@@ -21,8 +18,7 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 ### 女主角
 
   -
-    佐菜的青梅竹馬，也是佐菜初戀對象的少女。1991年7月29日出生（16歲）。跟佐菜同樣是櫻乃杜高校2年F班，住在櫻乃杜町被稱作「雙子丘」上面的「八代神社」。上學以外的時間在神社努力做著巫女的工作。還喜歡拉小提琴，認真求學，在學校是個成績優秀、運動萬能的人，但幾乎沒有和其他的人有所交流。應該是跟過去的某件事情有所關係。
-    與星野愛沙美是表姐妹。誕生花是鳳仙花（花語為「不要觸摸我」）。
+    佐菜的青梅竹馬，也是佐菜初戀對象的少女。1991年7月29日出生（16歲）。跟佐菜同樣是櫻乃杜高校2年F班，住在櫻乃杜町被稱作「雙子丘」上面的「八代神社」。上學以外的時間在神社努力做著巫女的工作。還喜歡拉小提琴，認真求學，在學校是個成績優秀、運動萬能的人，但幾乎沒有和其他的人有所交流。應該是跟過去的某件事情有所關係。 與星野愛沙美是表姐妹。誕生花是鳳仙花（花語為「不要觸摸我」）。
   -
     大佐菜一歲的表姐，除了是借出公寓讓佐菜住的管理人夫婦的女兒外，也是住在隔壁的鄰居。外表有戴著眼鏡。1990年8月28日生（17歲）。櫻乃杜高校3年A班。是個愛幻想也愛看書的女孩。雖然有天然呆的屬性及一迷路就會哭出來的個性，但對於料理及裁縫的手腕相當於職業的地方也很自豪。誕生花為桔梗（花語為「不變的愛」）。
   -
@@ -67,8 +63,7 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 <!-- end list -->
 
   -
-    作詞．[近藤ナツコ](https://zh.wikipedia.org/wiki/近藤ナツコ "wikilink")
-    作曲：[尾飛良幸](https://zh.wikipedia.org/wiki/尾飛良幸 "wikilink")
+    作詞．[近藤ナツコ](https://zh.wikipedia.org/wiki/近藤ナツコ "wikilink") 作曲：[尾飛良幸](https://zh.wikipedia.org/wiki/尾飛良幸 "wikilink")
     編曲：[尾飛良幸](https://zh.wikipedia.org/wiki/尾飛良幸 "wikilink")
     歌：[小清水亜美](https://zh.wikipedia.org/wiki/小清水亜美 "wikilink")
 
@@ -411,8 +406,7 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 
 <!-- end list -->
 
-  - **Tears
-    Infection/Day-break**（動畫OP／遊戲第一OP，[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")，2007年10月24日發售，有附帶DVD的初回限定盤）
+  - **Tears Infection/Day-break**（動畫OP／遊戲第一OP，[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")，2007年10月24日發售，有附帶DVD的初回限定盤）
 
   - （動畫EDマ／遊戲第二OP，[いとうかなこ](https://zh.wikipedia.org/wiki/いとうかなこ "wikilink")，2007年10月24日發售）
 
@@ -437,17 +431,9 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 
   - [動畫官方網站](https://web.archive.org/web/20070914202013/http://www.anime-myyour.com/)
 
-  - [Kid Fans
-    Channel动画中文化网站](https://web.archive.org/web/20071015051310/http://bbs.kidfanschannel.net/myselfyourself/myselfyourself.html)
+  - [Kid Fans Channel动画中文化网站](https://web.archive.org/web/20071015051310/http://bbs.kidfanschannel.net/myselfyourself/myselfyourself.html)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink")
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:電擊G's雜誌](https://zh.wikipedia.org/wiki/Category:電擊G's雜誌 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:電擊G's雜誌](https://zh.wikipedia.org/wiki/Category:電擊G's雜誌 "wikilink")
 
 1.  [製品情報](http://www.yetigame.jp/myselfyourself/)
 

@@ -1,5 +1,4 @@
-***The First
-Day***是香港女歌手謝安琪（Kay）出道第三張出的專輯，於2007年1月18日推出。當中3首新歌及9首重灌歌曲。2007年3月1日推出第二版，並加送Kay的第一天音樂會的精華DVD。
+***The First Day***是香港女歌手謝安琪（Kay）出道第三張出的專輯，於2007年1月18日推出。當中3首新歌及9首重灌歌曲。2007年3月1日推出第二版，並加送Kay的第一天音樂會的精華DVD。
 
 ## 收錄歌曲
 
@@ -15,12 +14,8 @@ Day***是香港女歌手謝安琪（Kay）出道第三張出的專輯，於2007�
 
 ## 參考
 
-  - [新浪網 - 评论：情人节特别推荐
-    那些属于情与爱的歌声](http://ent.sina.com.cn/y/2007-02-15/12121452799.html)
-  - [謝安琪《The First Day》 -
-    劉Sir個網](http://www.lau-sir.com/music/sirsays/the_first_day.html)
-  - [謝安琪(Kay Tse) - THE FIRST DAY 專輯-
-    KKBOX](https://www.kkbox.com/hk/tc/album/ar5ZDU7c8fLPmQ80FKiZ008l-index.html)
+  - [新浪網 - 评论：情人节特别推荐 那些属于情与爱的歌声](http://ent.sina.com.cn/y/2007-02-15/12121452799.html)
+  - [謝安琪《The First Day》 - 劉Sir個網](http://www.lau-sir.com/music/sirsays/the_first_day.html)
+  - [謝安琪(Kay Tse) - THE FIRST DAY 專輯- KKBOX](https://www.kkbox.com/hk/tc/album/ar5ZDU7c8fLPmQ80FKiZ008l-index.html)
 
-[Category:謝安琪音樂專輯](https://zh.wikipedia.org/wiki/Category:謝安琪音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:謝安琪音樂專輯](https://zh.wikipedia.org/wiki/Category:謝安琪音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")

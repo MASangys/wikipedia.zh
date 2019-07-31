@@ -1,9 +1,8 @@
-是[科樂美開發並發行的](../Page/科樂美.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。為「[幻想水滸傳系列](../Page/幻想水滸傳系列.md "wikilink")」中第二部作品。如果說前作最忠於原著《[水滸傳](https://zh.wikipedia.org/wiki/水滸傳 "wikilink")》，那麼由第二部開始的作品變得與《水滸傳》關係不大，僅僅保留義軍對抗強權和108星宿的設定。
+是[科樂美](../Page/科樂美.md "wikilink")開發並發行的[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。為「[幻想水滸傳系列](../Page/幻想水滸傳系列.md "wikilink")」中第二部作品。如果說前作最忠於原著《[水滸傳](https://zh.wikipedia.org/wiki/水滸傳 "wikilink")》，那麼由第二部開始的作品變得與《水滸傳》關係不大，僅僅保留義軍對抗強權和108星宿的設定。
 
 本作發生在《幻想水滸傳》三年後，故事舞台亦移至赤月帝國北方的瓊斯頓都市同盟。講述形成世界的「27之真理紋章」之首的「始之紋章」分別要由2位英雄持有，1人代表破壞之劍，另1人代表守護之盾。紋章的持有者之間必須是知心好友，卻又互相殘殺，因為這樣才能符合出劍和盾互斥互合的本意。就這樣，2個平凡少年由朋友變成敵人，開始一場悲壯又感傷的宿命對決。
 
-科樂美在1998年12月17日發佈遊戲，結果僅在日本便獲得38萬本的驚人銷量。其巨大的成功奠定了系列的金漆招牌，影響力更擴散至世界各處，無可質疑是2D
-RPG時代的經典名作之一。而華人玩家得以大規模接觸幻水系列，實有賴開發商在2003年6月4日推出的PC繁體中文版。
+科樂美在1998年12月17日發佈遊戲，結果僅在日本便獲得38萬本的驚人銷量。其巨大的成功奠定了系列的金漆招牌，影響力更擴散至世界各處，無可質疑是2D RPG時代的經典名作之一。而華人玩家得以大規模接觸幻水系列，實有賴開發商在2003年6月4日推出的PC繁體中文版。
 
 科樂美其後於2006年2月23日在PSP推出合集版，此版本中玩家亦可以繼承1代存檔，讓1代的主人公出現在2代中。
 
@@ -27,8 +26,7 @@ RPG時代的經典名作之一。而華人玩家得以大規模接觸幻水系�
 
 本代在PlayStation和PSP版本可繼承前代的存檔，前代的主人公亦會出現，並以隨行的形式協助本代主人公。
 
-本代中登場的前代人物都是Level 50以上，而武器則是Level
-10以上，擁有[上位紋章的亦將保留](https://zh.wikipedia.org/wiki/上位紋章 "wikilink")。
+本代中登場的前代人物都是Level 50以上，而武器則是Level 10以上，擁有[上位紋章的亦將保留](https://zh.wikipedia.org/wiki/上位紋章 "wikilink")。
 
 ## 遊戲特性
 
@@ -79,8 +77,7 @@ RPG時代的經典名作之一。而華人玩家得以大規模接觸幻水系�
 <!-- end list -->
 
   -
-    即主人公與敵人一對一的決鬥。指令有攻擊、防禦、捨身攻擊三種。捨身攻擊破攻擊, 攻擊破防禦,
-    防禦破捨身攻擊。每次對手出招前會說一句話來暗示他要出什么招．在劇情中失敗，則會結束遊戲。
+    即主人公與敵人一對一的決鬥。指令有攻擊、防禦、捨身攻擊三種。捨身攻擊破攻擊, 攻擊破防禦, 防禦破捨身攻擊。每次對手出招前會說一句話來暗示他要出什么招．在劇情中失敗，則會結束遊戲。
 
 <!-- end list -->
 
@@ -250,9 +247,7 @@ RPG時代的經典名作之一。而華人玩家得以大規模接觸幻水系�
 
 ## 反映
 
-幻想水滸傳Ⅱ出現的1998年，2D RPG已經開始沒落，大多家庭遊戲廠商製作遊戲開始3D化，科樂美的這一作品，沒有跟隨潮流，被譽為2D
-RPG末期的最高傑作，亦在素質上超越前代，成為同系列中的經典之作，造就了不少玩家在幻想水滸傳系列只知本代的趣事。
-日後科樂美推出的幻想水滸傳的續作，常被玩家以本代相比較。
+幻想水滸傳Ⅱ出現的1998年，2D RPG已經開始沒落，大多家庭遊戲廠商製作遊戲開始3D化，科樂美的這一作品，沒有跟隨潮流，被譽為2D RPG末期的最高傑作，亦在素質上超越前代，成為同系列中的經典之作，造就了不少玩家在幻想水滸傳系列只知本代的趣事。 日後科樂美推出的幻想水滸傳的續作，常被玩家以本代相比較。
 
 幻想水滸傳Ⅱ雖然在各方面大受好評，但同是亦有其缺憾之處，那就是主題水滸傳已失去其意義，108星宿收集中不少人物和主線劇情沒有直接關係，玩家往往因此被逼花費時間去收集人物，這一點也同樣出現在後來的作品中。
 
@@ -268,13 +263,8 @@ RPG末期的最高傑作，亦在素質上超越前代，成為同系列中的�
 
   - [科樂美《幻想水滸傳》系列官方網站](http://www.konami.jp/gs/game/genso/)
 
-  - [CTU
-    KONAMI-NAMCO專題站](https://web.archive.org/web/20071202103153/http://www.9d9d.com/ctu/)
+  - [CTU KONAMI-NAMCO專題站](https://web.archive.org/web/20071202103153/http://www.9d9d.com/ctu/)
 
   - [《幻想水滸傳II》中文版官方網站](https://web.archive.org/web/20080607123139/http://www.konami.co.jp/shanghai/gsd2/index.htm)
 
-[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
-[Category:幻想水滸傳系列](https://zh.wikipedia.org/wiki/Category:幻想水滸傳系列 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:幻想水滸傳系列](https://zh.wikipedia.org/wiki/Category:幻想水滸傳系列 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

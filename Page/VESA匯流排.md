@@ -1,12 +1,6 @@
-[Vlb_svga.jpg](https://zh.wikipedia.org/wiki/File:Vlb_svga.jpg "fig:Vlb_svga.jpg")
-VLB 擴充卡\]\]
-[Vlb.jpg](https://zh.wikipedia.org/wiki/File:Vlb.jpg "fig:Vlb.jpg")
-**VESA匯流排**或者**VESA本地匯流排**（VESA Local
-Bus，簡寫為*VL-Bus*或*VLB*）是一個擴充標準工業插槽（[ISA](../Page/ISA.md "wikilink")）的[匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")，這個標準大多被用在[電腦上](https://zh.wikipedia.org/wiki/電腦 "wikilink")。VLB作為ISA的高速擴充，負責掌控裝置的[記憶體映射I/O和](https://zh.wikipedia.org/wiki/記憶體映射I/O "wikilink")[直接記憶體存取](../Page/直接記憶體存取.md "wikilink")（DMA），而ISA本身則掌控[中斷和](../Page/中斷.md "wikilink")[端口映射
-I/O](https://zh.wikipedia.org/wiki/端口映射_I/O "wikilink")。\[1\]
+[Vlb_svga.jpg](https://zh.wikipedia.org/wiki/File:Vlb_svga.jpg "fig:Vlb_svga.jpg") VLB 擴充卡\]\] [Vlb.jpg](https://zh.wikipedia.org/wiki/File:Vlb.jpg "fig:Vlb.jpg") **VESA匯流排**或者**VESA本地匯流排**（VESA Local Bus，簡寫為*VL-Bus*或*VLB*）是一個擴充標準工業插槽（[ISA](../Page/ISA.md "wikilink")）的[匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")，這個標準大多被用在[電腦上](https://zh.wikipedia.org/wiki/電腦 "wikilink")。VLB作為ISA的高速擴充，負責掌控裝置的[記憶體映射I/O和](https://zh.wikipedia.org/wiki/記憶體映射I/O "wikilink")[直接記憶體存取](../Page/直接記憶體存取.md "wikilink")（DMA），而ISA本身則掌控[中斷](../Page/中斷.md "wikilink")和[端口映射 I/O](https://zh.wikipedia.org/wiki/端口映射_I/O "wikilink")。\[1\]
 
-VLB插槽本身就是既有ISA插槽的延伸，伸長的部份通常被塗成[棕色](https://zh.wikipedia.org/wiki/棕色 "wikilink")，和一般[黑色ISA插槽分別](../Page/黑色.md "wikilink")。然而具VLB擴充的插槽也可以當作ISA插槽使用，但兩者無法同時給兩張不同擴充卡使用。由於VLB伸長ISA，所以VLB擴充卡都十分的長，與老式的IBM
-XT擴充卡相似。而伸長的部份則和之後的PCI插槽相似。
+VLB插槽本身就是既有ISA插槽的延伸，伸長的部份通常被塗成[棕色](https://zh.wikipedia.org/wiki/棕色 "wikilink")，和一般[黑色](../Page/黑色.md "wikilink")ISA插槽分別。然而具VLB擴充的插槽也可以當作ISA插槽使用，但兩者無法同時給兩張不同擴充卡使用。由於VLB伸長ISA，所以VLB擴充卡都十分的長，與老式的IBM XT擴充卡相似。而伸長的部份則和之後的PCI插槽相似。
 
 至1996年，[英特爾推出](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[奔騰](../Page/奔騰.md "wikilink")（Pentium）CPU與Triton晶片組和新的PCI架構挾其優勢取代了[80486的市場](https://zh.wikipedia.org/wiki/80486 "wikilink")，VLB也就隨之而去。後期的80486[主機板除了VLB以外](https://zh.wikipedia.org/wiki/主機板 "wikilink")，也都搭配了[PCI插槽](https://zh.wikipedia.org/wiki/PCI "wikilink")，甚至取代了VLB。
 
@@ -14,8 +8,7 @@ XT擴充卡相似。而伸長的部份則和之後的PCI插槽相似。
 
 VLB當初即被設計為一個過渡性的規格，以擴展ISA有限的頻寬，因此它有數個限制其後來潛力的瑕疵：
 
-  - **80486
-    依賴性**：VLB重度的依賴80486的記憶體匯流排設計。當[奔騰在](../Page/奔騰.md "wikilink")1995年前後逐漸被市場接受時，它的匯流排設計有很大的不同，而VLB並不適應這樣的設計，這也造成要移植VLB到非[x86平台幾乎不可能](https://zh.wikipedia.org/wiki/x86 "wikilink")。只有少數的帶VLB主機板曾販售，例如IBM以其[486SLC2處理器為基礎](https://zh.wikipedia.org/wiki/486SLC2 "wikilink")，設計了OPAL主機板，它提供了兩個VLB插槽。
+  - **80486 依賴性**：VLB重度的依賴80486的記憶體匯流排設計。當[奔騰](../Page/奔騰.md "wikilink")在1995年前後逐漸被市場接受時，它的匯流排設計有很大的不同，而VLB並不適應這樣的設計，這也造成要移植VLB到非[x86平台幾乎不可能](https://zh.wikipedia.org/wiki/x86 "wikilink")。只有少數的帶VLB主機板曾販售，例如IBM以其[486SLC2處理器為基礎](https://zh.wikipedia.org/wiki/486SLC2 "wikilink")，設計了OPAL主機板，它提供了兩個VLB插槽。
 
 <!-- end list -->
 
@@ -85,10 +78,6 @@ VLB這個縮寫有時候被戲稱成「Very Long Bus（很長的插槽）」，�
 
 <references/>
 
-[Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink")
-[Category:已被淘汰的電腦硬體](https://zh.wikipedia.org/wiki/Category:已被淘汰的電腦硬體 "wikilink")
+[Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink") [Category:已被淘汰的電腦硬體](https://zh.wikipedia.org/wiki/Category:已被淘汰的電腦硬體 "wikilink")
 
-1.  Richter, Jake.["Local-bus architecture: A
-    little-understood,much-cited graphics
-    technology"](http://books.google.com/books?id=XlEEAAAAMBAJ&pg=PA66),
-    "InfoWorld", May 18, 1992, accessed March 9, 2011.
+1.  Richter, Jake.["Local-bus architecture: A little-understood,much-cited graphics technology"](http://books.google.com/books?id=XlEEAAAAMBAJ&pg=PA66), "InfoWorld", May 18, 1992, accessed March 9, 2011.

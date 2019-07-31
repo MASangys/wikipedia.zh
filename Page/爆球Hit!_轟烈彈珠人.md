@@ -1,9 +1,8 @@
-《**爆球Hit！轟烈彈珠人**》（）是[倉谷友也的作品](https://zh.wikipedia.org/wiki/倉谷友也 "wikilink")，在[小學館的漫畫雜誌](../Page/小學館.md "wikilink")[快樂快樂月刊中連載](../Page/快樂快樂月刊.md "wikilink")，此外根據本作改編的[電視動畫作品於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2006年1月9日到同年12月25日期間在[東京電視台播放](../Page/東京電視台.md "wikilink")。
+《**爆球Hit！轟烈彈珠人**》（）是[倉谷友也的作品](https://zh.wikipedia.org/wiki/倉谷友也 "wikilink")，在[小學館](../Page/小學館.md "wikilink")的漫畫雜誌[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")中連載，此外根據本作改編的[電視動畫作品於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2006年1月9日到同年12月25日期間在[東京電視台](../Page/東京電視台.md "wikilink")播放。
 
 ## 登場人物
 
-  - 玉賀
-    必人（配音員：[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")／臺：[王瑞芹](../Page/王瑞芹.md "wikilink")／港：[顧詠雪](../Page/顧詠雪.md "wikilink")）
+  - 玉賀 必人（配音員：[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")／臺：[王瑞芹](../Page/王瑞芹.md "wikilink")／港：[顧詠雪](../Page/顧詠雪.md "wikilink")）
 
 <!-- end list -->
 
@@ -14,8 +13,7 @@
 
 <!-- end list -->
 
-  - 藏木
-    古道（配音員：[高乃麗](../Page/高乃麗.md "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／港：[譚淑英](../Page/譚淑英.md "wikilink")）
+  - 藏木 古道（配音員：[高乃麗](../Page/高乃麗.md "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／港：[譚淑英](../Page/譚淑英.md "wikilink")）
 
 <!-- end list -->
 
@@ -26,8 +24,7 @@
 
 <!-- end list -->
 
-  - 仙堂
-    娜娜（配音員：[神田朱未](../Page/神田朱未.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+  - 仙堂 娜娜（配音員：[神田朱未](../Page/神田朱未.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
@@ -36,19 +33,18 @@
 
 <!-- end list -->
 
-  - 月野
-    金太（配音員：[福圓美里](../Page/福圓美里.md "wikilink")／臺：[雷碧文](../Page/雷碧文.md "wikilink")／港：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")）
+  - 月野 金太（配音員：[福圓美里](../Page/福圓美里.md "wikilink")／臺：[雷碧文](../Page/雷碧文.md "wikilink")／港：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")）
 
 <!-- end list -->
 
   -
     專用機：疾速戰神--\>烈風戰神
     以“彈珠人獵人”自居的少年，行為充滿自信，相較於必人顯得冷靜許多，但有時也有著略顯孩子氣、亟欲出頭的一面，特長為高速連射。
+    疾速戰神是金太的爺爺在金太小時候送。
 
 <!-- end list -->
 
-  - 真田
-    銃兵衛（配音員：[小山力也](../Page/小山力也.md "wikilink")、[松本さち](https://zh.wikipedia.org/wiki/松本さち "wikilink")（少年）／臺：[梁興昌](../Page/梁興昌.md "wikilink")）
+  - 真田 銃兵衛（配音員：[小山力也](../Page/小山力也.md "wikilink")、[松本さち](https://zh.wikipedia.org/wiki/松本さち "wikilink")（少年）／臺：[梁興昌](../Page/梁興昌.md "wikilink")）
 
 <!-- end list -->
 
@@ -68,8 +64,7 @@
 
 <!-- end list -->
 
-  - 神岡
-    照間（配音員：[神谷浩史](../Page/神谷浩史.md "wikilink")、代配：[野島健兒](../Page/野島健兒.md "wikilink")／臺：[黃天佑](../Page/黃天佑.md "wikilink")／港：[楊啟健](../Page/楊啟健.md "wikilink")）
+  - 神岡 照間（配音員：[神谷浩史](../Page/神谷浩史.md "wikilink")、代配：[野島健兒](../Page/野島健兒.md "wikilink")／臺：[黃天佑](../Page/黃天佑.md "wikilink")／港：[楊啟健](../Page/楊啟健.md "wikilink")）
 
 <!-- end list -->
 
@@ -80,8 +75,7 @@
 
 <!-- end list -->
 
-  - 深入
-    喬（配音員：[宮野真守](../Page/宮野真守.md "wikilink")／臺：[黃天佑](../Page/黃天佑.md "wikilink")／港：[陳健豪](../Page/陳健豪.md "wikilink")）
+  - 深入 喬（配音員：[宮野真守](../Page/宮野真守.md "wikilink")／臺：[黃天佑](../Page/黃天佑.md "wikilink")／港：[陳健豪](../Page/陳健豪.md "wikilink")）
 
 <!-- end list -->
 
@@ -91,13 +85,11 @@
 
 <!-- end list -->
 
-  - 波平
-    海人（配音員：[淺野麻由美](../Page/淺野麻由美.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+  - 波平 海人（配音員：[淺野麻由美](../Page/淺野麻由美.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
-  - 玉賀
-    光太郎（配音員：[白鳥修馬](https://zh.wikipedia.org/wiki/白鳥修馬 "wikilink")／臺：[梁興昌](../Page/梁興昌.md "wikilink")）／港：[陳偉權](../Page/陳偉權.md "wikilink")）
+  - 玉賀 光太郎（配音員：[白鳥修馬](https://zh.wikipedia.org/wiki/白鳥修馬 "wikilink")／臺：[梁興昌](../Page/梁興昌.md "wikilink")）／港：[陳偉權](../Page/陳偉權.md "wikilink")）
 
 <!-- end list -->
 
@@ -118,18 +110,15 @@
 
 <!-- end list -->
 
-  - 玉賀
-    隼人（配音員：[野田圭一](https://zh.wikipedia.org/wiki/野田圭一 "wikilink")、[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")（少年）
+  - 玉賀 隼人（配音員：[野田圭一](https://zh.wikipedia.org/wiki/野田圭一 "wikilink")、[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")（少年）
 
 <!-- end list -->
 
-  - 月野
-    周太（配音員：[魚建](https://zh.wikipedia.org/wiki/魚建 "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")（少年））
+  - 月野 周太（配音員：[魚建](https://zh.wikipedia.org/wiki/魚建 "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")（少年））
 
 <!-- end list -->
 
-  - 真田
-    勘兵衛（配音員：[小山力也](../Page/小山力也.md "wikilink")（少年）／臺：[梁興昌](../Page/梁興昌.md "wikilink")）
+  - 真田 勘兵衛（配音員：[小山力也](../Page/小山力也.md "wikilink")（少年）／臺：[梁興昌](../Page/梁興昌.md "wikilink")）
 
 <!-- end list -->
 
@@ -145,17 +134,15 @@
 
 <!-- end list -->
 
-  - 美吉
-    数馬（配音員：[水島大宙](../Page/水島大宙.md "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／港：[陳健豪](../Page/陳健豪.md "wikilink")）
+  - 美吉 数馬（配音員：[水島大宙](../Page/水島大宙.md "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／港：[陳健豪](../Page/陳健豪.md "wikilink")）
 
 <!-- end list -->
 
-  - 日向 俊（配音員：[金田晶代](../Page/金田晶.md "wikilink")）
+  - 日向 俊（配音員：[金田晶](../Page/金田晶.md "wikilink")代）
 
 <!-- end list -->
 
-  - 黒駒
-    虎鉄（配音員：[大畑伸太郎](https://zh.wikipedia.org/wiki/大畑伸太郎 "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")）
+  - 黒駒 虎鉄（配音員：[大畑伸太郎](https://zh.wikipedia.org/wiki/大畑伸太郎 "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")）
 
 <!-- end list -->
 
@@ -185,8 +172,7 @@
 
   - 釧路 彌生（配音員：[瀨戶奈保子](https://zh.wikipedia.org/wiki/瀨戶奈保子 "wikilink")）
   - 釧路 葉月（配音員：[吉原ナツキ](https://zh.wikipedia.org/wiki/吉原ナツキ "wikilink")）
-  - 釧路
-    慎一郎（配音員：[桑島三幸](https://zh.wikipedia.org/wiki/桑島三幸 "wikilink")）／港：[陳健豪](../Page/陳健豪.md "wikilink")）
+  - 釧路 慎一郎（配音員：[桑島三幸](https://zh.wikipedia.org/wiki/桑島三幸 "wikilink")）／港：[陳健豪](../Page/陳健豪.md "wikilink")）
 
 <!-- end list -->
 
@@ -214,13 +200,11 @@
 
 <!-- end list -->
 
-  - 西島
-    荒（配音員：[芝原チヤコ](https://zh.wikipedia.org/wiki/芝原チヤコ "wikilink")、港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+  - 西島 荒（配音員：[芝原チヤコ](https://zh.wikipedia.org/wiki/芝原チヤコ "wikilink")、港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
-  - 岡
-    大藏（配音員：[竹本英史](../Page/竹本英史.md "wikilink")／臺：[梁興昌](../Page/梁興昌.md "wikilink")／港：[陳志強](../Page/陳志強_\(配音員\).md "wikilink")）
+  - 岡 大藏（配音員：[竹本英史](../Page/竹本英史.md "wikilink")／臺：[梁興昌](../Page/梁興昌.md "wikilink")／港：[陳志強](../Page/陳志強_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -229,8 +213,7 @@
 
 <!-- end list -->
 
-  - 竹市
-    伴平（配音員：[大原沙耶香](../Page/大原沙耶香.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")）
+  - 竹市 伴平（配音員：[大原沙耶香](../Page/大原沙耶香.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")）
 
 <!-- end list -->
 
@@ -239,8 +222,7 @@
 
 <!-- end list -->
 
-  - 荒崎
-    凶介（配音員：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")／臺：[梁興昌](../Page/梁興昌.md "wikilink")／港：[楊啟健](../Page/楊啟健.md "wikilink")）
+  - 荒崎 凶介（配音員：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")／臺：[梁興昌](../Page/梁興昌.md "wikilink")／港：[楊啟健](../Page/楊啟健.md "wikilink")）
 
 ## 使用彈珠人
 
@@ -285,8 +267,7 @@
 <!-- end list -->
 
   -
-    光明天馬(Rave Pegasus)，闇影龍獸(Shade Wyvern)--\>閃光天馬(Shining
-    Pegasus)，幻影龍獸(Reflect Wyvern)--\>帝王．超皇龍(Eclipse Dragon)
+    光明天馬(Rave Pegasus)，闇影龍獸(Shade Wyvern)--\>閃光天馬(Shining Pegasus)，幻影龍獸(Reflect Wyvern)--\>帝王．超皇龍(Eclipse Dragon)
 
 <!-- end list -->
 
@@ -330,8 +311,7 @@
 
 ### 製作群
 
-  - 原作：倉谷友也（[小學館](../Page/小學館.md "wikilink")
-    [快樂快樂月刊連載](../Page/快樂快樂月刊.md "wikilink")）
+  - 原作：倉谷友也（[小學館](../Page/小學館.md "wikilink") [快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")連載）
   - 企画製片人：松迫由香子（[東京電視台](../Page/東京電視台.md "wikilink")）、木村京太郎（讀賣廣告社）、大田克彦（小學館）、西村\*浩哉（ディーライツ）、李銀美
   - 成果報酬廣告製片人：本橋寿一、張元鳳、梶剛士
   - 系列構成：富田祐弘、呉廷恩
@@ -362,8 +342,7 @@
   - 動畫製片人：田中敦、金東亨
   - 動畫監督：安珍模
   - 動畫製作協助：Synergy SP、HeeWon Entertainment、SONOKONG
-  - 製作協助：SONOKONG、Synergy SP、HeeWon
-    Entertainment、タマプロダクション、アニメーション・プラネット、K-PRODUCTION
+  - 製作協助：SONOKONG、Synergy SP、HeeWon Entertainment、タマプロダクション、アニメーション・プラネット、K-PRODUCTION
   - 協助：堀越研次、五十嵐隆史
   - 監督：奥村よしあき
   - 助監督：川西泰二
@@ -693,7 +672,4 @@
 
 [分類:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/分類:亞洲電視外購動畫 "wikilink")
 
-[Category:彈珠人](https://zh.wikipedia.org/wiki/Category:彈珠人 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink")
+[Category:彈珠人](https://zh.wikipedia.org/wiki/Category:彈珠人 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink")

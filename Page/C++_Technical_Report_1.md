@@ -1,7 +1,4 @@
-**C++ Technical Report 1
-(TR1)**[（英文）是](https://zh.wikipedia.org/wiki/:en:C++_Technical_Report_1 "wikilink")**ISO/IEC
-TR 19768, C++ Library
-Extensions（函式庫擴充）**的一般名稱。TR1是一份文件，內容提出了對[C++標準函式庫](../Page/C++標準函式庫.md "wikilink")的追加項目。這些追加項目包括了[正则表达式](../Page/正则表达式.md "wikilink")、[智能指针](../Page/智能指针.md "wikilink")、[哈希表](../Page/哈希表.md "wikilink")、[随机数生成器等](https://zh.wikipedia.org/wiki/随机数生成器 "wikilink")。TR1自己並非標準，他是一份草稿文件。然而他所提出的項目大多数已成為下次的官方標準（C++11）的一部分。這份文件的目標在於「為擴充的C++標準函式庫建立更為廣泛的現成實作品」。
+**C++ Technical Report 1 (TR1)**[（英文）是](https://zh.wikipedia.org/wiki/:en:C++_Technical_Report_1 "wikilink")**ISO/IEC TR 19768, C++ Library Extensions（函式庫擴充）**的一般名稱。TR1是一份文件，內容提出了對[C++標準函式庫](../Page/C++標準函式庫.md "wikilink")的追加項目。這些追加項目包括了[正则表达式](../Page/正则表达式.md "wikilink")、[智能指针](../Page/智能指针.md "wikilink")、[哈希表](../Page/哈希表.md "wikilink")、[随机数生成器等](https://zh.wikipedia.org/wiki/随机数生成器 "wikilink")。TR1自己並非標準，他是一份草稿文件。然而他所提出的項目大多数已成為下次的官方標準（C++11）的一部分。這份文件的目標在於「為擴充的C++標準函式庫建立更為廣泛的現成實作品」。
 
 ## 概要
 
@@ -20,13 +17,10 @@ TR1包含以下組件：
 #### 引用包装器(Reference Wrapper)
 
   - 來自Boost.Ref <sup>[1](http://www.boost.org/doc/html/ref.html)</sup>
-  - 在<functional> [头文件](../Page/头文件.md "wikilink")中增加了 -
-    `cref`、`ref`、`reference_wrapper`
-  - 可以对算法（*algorithms*）或仿函数（*function
-    objects*）传递[引用](../Page/引用.md "wikilink")（*[references](https://zh.wikipedia.org/wiki/:en:Reference#Computer_science "wikilink")*），而不是传递副本。
+  - 在<functional> [头文件](../Page/头文件.md "wikilink")中增加了 - `cref`、`ref`、`reference_wrapper`
+  - 可以对算法（*algorithms*）或仿函数（*function objects*）传递[引用](../Page/引用.md "wikilink")（*[references](https://zh.wikipedia.org/wiki/:en:Reference#Computer_science "wikilink")*），而不是传递副本。
 
-一個wrapper reference是由模板类`reference_wrapper`產生的實體（*instance*）獲得。wrapper
-reference近似於C++語言中的引用。
+一個wrapper reference是由模板类`reference_wrapper`產生的實體（*instance*）獲得。wrapper reference近似於C++語言中的引用。
 
 使用`ref`以獲得任何实例的wrapper reference（對常数引用const &使用`cref`）。
 
@@ -54,11 +48,9 @@ int main()
 
 #### 智能指针(Smart Pointers)
 
-  - 基于Boost Smart Pointer library
-    <sup>[2](http://www.boost.org/libs/smart_ptr/smart_ptr.htm)</sup>
+  - 基于Boost Smart Pointer library <sup>[2](http://www.boost.org/libs/smart_ptr/smart_ptr.htm)</sup>
   - 由<memory>头文件增加了 - `shared_ptr`、`weak_ptr`等
-  - 将*[Resource Acquisition Is
-    Initialization](https://zh.wikipedia.org/wiki/:en:Resource_Acquisition_Is_Initialization "wikilink")*(RAII)手法用於内存管理和異常安全性。
+  - 将*[Resource Acquisition Is Initialization](https://zh.wikipedia.org/wiki/:en:Resource_Acquisition_Is_Initialization "wikilink")*(RAII)手法用於内存管理和異常安全性。
 
 ### 仿函数
 
@@ -67,15 +59,13 @@ int main()
 #### 多形態的函式包裝器(Polymorphic Function Wrapper)
 
   - `function`
-  - 基於Boost.Function
-    <sup>[3](http://www.boost.org/doc/html/function.html)</sup>
+  - 基於Boost.Function <sup>[3](http://www.boost.org/doc/html/function.html)</sup>
   - 儲存任何使用特定函式簽名的"可呼叫物"（函数指针、成員函式指针、仿函数），不需要可呼叫物確切的型別。
 
 #### 仿函数綁定器(Function Object Binders)
 
   - `bind`
-  - 採納自Boost Bind library
-    <sup>[4](http://www.boost.org/libs/bind/bind.html)</sup>
+  - 採納自Boost Bind library <sup>[4](http://www.boost.org/libs/bind/bind.html)</sup>
   - 標準`std::bind1st`和`std::bind2nd`的通用版
   - 將參數綁定給仿函数，並且允許函式的結合。
 
@@ -88,27 +78,22 @@ int main()
 #### mem_fn
 
   - `mem_fn`
-  - 採納自Boost Mem Fn library
-    <sup>[5](http://www.boost.org/libs/bind/mem_fn.html)</sup>
+  - 採納自Boost Mem Fn library <sup>[5](http://www.boost.org/libs/bind/mem_fn.html)</sup>
   - 標準`std::mem_fun`和`std::mem_fun_ref`的加強版
   - 允許成員函式指针能夠像仿函数一樣
 
 ### 元編程和型別特性(Type Traits)
 
-  - 新的<type_traits>头文件 -
-    `is_pod`、`has_virtual_destructor`、`remove_extent`等
-  - 採納自Boost Type Traits library
-    <sup>[6](http://www.boost.org/doc/libs/1_37_0/libs/type_traits/doc/html/index.html)</sup>
+  - 新的<type_traits>头文件 - `is_pod`、`has_virtual_destructor`、`remove_extent`等
+  - 採納自Boost Type Traits library <sup>[6](http://www.boost.org/doc/libs/1_37_0/libs/type_traits/doc/html/index.html)</sup>
   - 允許类编查询以及类别間的轉換，可促進元編程
 
 ### 數值工具
 
 #### 随机数產生器
 
-  - 新的<random>头文件 -
-    `variate_generator`、`mersenne_twister`、`poisson_distribution`等
-  - 採納自Boost Random Number
-    Library<sup>[7](http://www.boost.org/libs/random/)</sup>
+  - 新的<random>头文件 - `variate_generator`、`mersenne_twister`、`poisson_distribution`等
+  - 採納自Boost Random Number Library<sup>[7](http://www.boost.org/libs/random/)</sup>
 
 #### 數學函式
 
@@ -162,16 +147,14 @@ K_\nu(x) & = \textstyle\frac{\pi}{2} i^{\nu+1} \big(J_\nu(ix) + i N_\nu(ix)\big)
 #### 多元組型別(Tuple Types)
 
   - 新<tuple>標頭檔 - `tuple`
-  - 採納自Boost Tuple library
-    <sup>[8](https://web.archive.org/web/20060526205142/http://www.boost.org/libs/tuple/doc/tuple_users_guide.html)</sup>
+  - 採納自Boost Tuple library <sup>[8](https://web.archive.org/web/20060526205142/http://www.boost.org/libs/tuple/doc/tuple_users_guide.html)</sup>
   - 標準`std::pair`的擴充
   - 固定尺寸的元素集合，元素可以是不同的[类型](../Page/类型.md "wikilink")
 
 #### 定量陣列(Fixed Size Array)
 
   - 新<array>標頭檔 - `array`
-  - 來自Boost Array library
-    <sup>[9](http://www.boost.org/doc/html/array.html)</sup>
+  - 來自Boost Array library <sup>[9](http://www.boost.org/doc/html/array.html)</sup>
   - 与動態陣列型別，像是標準的`std::vector`相反，是静态的矩阵，但是能够享受类似于begin()等与`std::vector`相似的接口。
 
 #### 哈希表(Hash Tables)
@@ -183,21 +166,18 @@ K_\nu(x) & = \textstyle\frac{\pi}{2} i^{\nu+1} \big(J_\nu(ix) + i N_\nu(ix)\big)
 ### 正規表示式(Regular Expressions)
 
   - 新<regex>標頭檔 - `regex`、`regex_match`、 `regex_search`、`regex_replace`等
-  - 来自Boost RegEx library
-    <sup>[10](http://www.boost.org/doc/libs/1_36_0/libs/regex/doc/html/index.html)</sup>
+  - 来自Boost RegEx library <sup>[10](http://www.boost.org/doc/libs/1_36_0/libs/regex/doc/html/index.html)</sup>
   - pattern matching library
 
 ### C的兼容性
 
-[C++](../Page/C++.md "wikilink")被設計成與[C語言兼容](https://zh.wikipedia.org/wiki/C語言 "wikilink")，但由於不同的標準，C++並不是C的嚴格超集合。TR1試圖調和這些差異，透過對各種標頭檔，如<complex>、<locale>、<cmath>等進行擴充。
-這些改變幫助C++能夠與[C99版本的C標準更為一致](https://zh.wikipedia.org/wiki/C99 "wikilink")（並非所有C99都包含於TR1）。
+[C++](../Page/C++.md "wikilink")被設計成與[C語言兼容](https://zh.wikipedia.org/wiki/C語言 "wikilink")，但由於不同的標準，C++並不是C的嚴格超集合。TR1試圖調和這些差異，透過對各種標頭檔，如<complex>、<locale>、<cmath>等進行擴充。 這些改變幫助C++能夠與[C99版本的C標準更為一致](https://zh.wikipedia.org/wiki/C99 "wikilink")（並非所有C99都包含於TR1）。
 
 ## 關聯項目
 
   - [C++11](../Page/C++11.md "wikilink")，C++新標準
   - [C99](https://zh.wikipedia.org/wiki/C99 "wikilink")，C語言標準
-  - [Boost
-    library](../Page/Boost_C++_Libraries.md "wikilink")，提供大量的C++程式庫，數個包含於TR1
+  - [Boost library](../Page/Boost_C++_Libraries.md "wikilink")，提供大量的C++程式庫，數個包含於TR1
   - [STL標準模板庫](../Page/标准模板库.md "wikilink")，現行[C++標準程式庫的一部分](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")
 
 ## 参考文献
@@ -206,8 +186,6 @@ K_\nu(x) & = \textstyle\frac{\pi}{2} i^{\nu+1} \big(J_\nu(ix) + i N_\nu(ix)\big)
   -
 ## 外部連結
 
-  - [Scott Meyers' Effective C++: TR1
-    Information](http://aristeia.com/EC3E/TR1_info_frames.html) -
-    包含TR1提案文件的連結，提供了TR1程式庫的背景以及理由。
+  - [Scott Meyers' Effective C++: TR1 Information](http://aristeia.com/EC3E/TR1_info_frames.html) - 包含TR1提案文件的連結，提供了TR1程式庫的背景以及理由。
 
 [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")

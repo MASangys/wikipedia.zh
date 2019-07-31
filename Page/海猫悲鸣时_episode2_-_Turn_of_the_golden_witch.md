@@ -1,7 +1,4 @@
-《**海貓悲鳴時 episode2 - Turn of the golden
-witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th
-Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第二部。游戏於2007年冬季的[Comic
-Market](../Page/Comic_Market.md "wikilink")73發表。
+《**海貓悲鳴時 episode2 - Turn of the golden witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第二部。游戏於2007年冬季的[Comic Market](../Page/Comic_Market.md "wikilink")73發表。
 
 ## 概要
 
@@ -46,8 +43,4 @@ Market](../Page/Comic_Market.md "wikilink")73發表。
 
 ## 外部链接
 
-[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink")
-[Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink")
+[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink") [Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink")

@@ -12,8 +12,7 @@ MBA智库百科中的条目被许多其他经济相关网站和[博客转载](ht
 
   - [MBA智库百科](http://wiki.mbalib.com)
 
-[Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink")
-[Category:汉语在线百科全书](https://zh.wikipedia.org/wiki/Category:汉语在线百科全书 "wikilink")
+[Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink") [Category:汉语在线百科全书](https://zh.wikipedia.org/wiki/Category:汉语在线百科全书 "wikilink")
 
 1.
 2.

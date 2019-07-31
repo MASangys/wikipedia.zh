@@ -1,23 +1,8 @@
-**P.O.D**（）是[美国](../Page/美国.md "wikilink")著名另类金属乐队，始终坚持[硬蕊](https://zh.wikipedia.org/wiki/硬蕊 "wikilink")、[重金属](../Page/重金属.md "wikilink")和[饒舌](../Page/饒舌.md "wikilink")相结合的[音乐](../Page/音乐.md "wikilink")风格。成立于1992年，乐队名称即Payable
-on Death的简称。
-樂團成員都是名符其實的[基督徒](../Page/基督徒.md "wikilink")，專輯歌曲都是關於[基督教](../Page/基督教.md "wikilink")信仰之含意，因此他們被號稱金屬界的福音樂團，隸屬[當代基督教音樂樂派範疇](https://zh.wikipedia.org/wiki/當代基督教音樂 "wikilink")。
+**P.O.D**（）是[美国](../Page/美国.md "wikilink")著名另类金属乐队，始终坚持[硬蕊](https://zh.wikipedia.org/wiki/硬蕊 "wikilink")、[重金属](../Page/重金属.md "wikilink")和[饒舌](../Page/饒舌.md "wikilink")相结合的[音乐](../Page/音乐.md "wikilink")风格。成立于1992年，乐队名称即Payable on Death的简称。 樂團成員都是名符其實的[基督徒](../Page/基督徒.md "wikilink")，專輯歌曲都是關於[基督教](../Page/基督教.md "wikilink")信仰之含意，因此他們被號稱金屬界的福音樂團，隸屬[當代基督教音樂樂派範疇](https://zh.wikipedia.org/wiki/當代基督教音樂 "wikilink")。
 
 ## 樂團歷史
 
-P.O.D於1992年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖地牙哥](../Page/聖地牙哥.md "wikilink")成立，由鼓手Wuv於1992年邀請他表弟Sonny及好友Marcos來擔任他力組Hardcore搖滾團之主唱與吉他手一職，直到1993年貝斯手Traa加入樂團；整裝成型後的P.O.D在獨立廠牌陸續發行四張專輯，一直到1998年才獲Atlantic唱片青睞簽入旗下，1999年推出的首張大碟《The
-Fundamental Elements of
-Southtown》，專輯榮登新人潛力榜冠軍，更拿下[聖地牙哥](../Page/聖地牙哥.md "wikilink")當地最佳重搖滾團體大獎，連滾石雜誌都將他們入選2000年『People
-Of The
-Year』，就連電影公司都看好他們的發展潛力，紛紛邀約演唱主題曲與譜唱片中插曲如：[魔鬼接班人](https://zh.wikipedia.org/wiki/魔鬼接班人 "wikilink")、[挑戰星期天](../Page/挑戰星期天.md "wikilink")、[魔蠍大帝](https://zh.wikipedia.org/wiki/魔蠍大帝 "wikilink")...等，順勢於2001年發行衝破4百萬張銷售佳績的「Satellite」，金屬搖滾味明顯偏高，而雷鬼之聲也是隨處可聞，[2003年2月](https://zh.wikipedia.org/wiki/2003年2月 "wikilink")，隊中的創始團員Marcos為追尋其他的音樂目標而離團單飛，擔任同為CCM/金屬樂派Living
-Sacrifice的吉他手Jason
-Truby入替，隨即以新的組合為電影[駭客任務第](https://zh.wikipedia.org/wiki/駭客任務 "wikilink")2集「[駭客任務2：重裝上陣](https://zh.wikipedia.org/wiki/駭客任務2：重裝上陣 "wikilink")」譜唱主題曲"Sleeping
-Awake"，並且推出第三張專輯《Payable on Death》。
-2005年年底原吉他手Marcos回歸，在2006年[二月發行第四張專輯](https://zh.wikipedia.org/wiki/二月 "wikilink")「Testify」，一推出就空降全美流行專輯榜Top9，年底與Atlantic結束賓主關係後拱出首張精選大作「Greatest
-Hits：The Atlantic Years」，之後轉換新東家Columbia旗下,在2006年與wwe摔角手Rey
-mysterio合作歌曲\[booyaka 619\],並於2008年問世第五張專輯《When Angels &
-Serpents Dance》，初登場空降美國流行榜Top9+iTunes搖滾榜冠軍。
-2012年7月10日，在上一張專輯推出將近睽違四年後，推出了全新第六張錄音室專輯《Murdered
-Love》。 2015年8月21日，正式推出了第七張錄音室專輯《The Awakening》。
+P.O.D於1992年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖地牙哥](../Page/聖地牙哥.md "wikilink")成立，由鼓手Wuv於1992年邀請他表弟Sonny及好友Marcos來擔任他力組Hardcore搖滾團之主唱與吉他手一職，直到1993年貝斯手Traa加入樂團；整裝成型後的P.O.D在獨立廠牌陸續發行四張專輯，一直到1998年才獲Atlantic唱片青睞簽入旗下，1999年推出的首張大碟《The Fundamental Elements of Southtown》，專輯榮登新人潛力榜冠軍，更拿下[聖地牙哥](../Page/聖地牙哥.md "wikilink")當地最佳重搖滾團體大獎，連滾石雜誌都將他們入選2000年『People Of The Year』，就連電影公司都看好他們的發展潛力，紛紛邀約演唱主題曲與譜唱片中插曲如：[魔鬼接班人](https://zh.wikipedia.org/wiki/魔鬼接班人 "wikilink")、[挑戰星期天](../Page/挑戰星期天.md "wikilink")、[魔蠍大帝](https://zh.wikipedia.org/wiki/魔蠍大帝 "wikilink")...等，順勢於2001年發行衝破4百萬張銷售佳績的「Satellite」，金屬搖滾味明顯偏高，而雷鬼之聲也是隨處可聞，[2003年2月](https://zh.wikipedia.org/wiki/2003年2月 "wikilink")，隊中的創始團員Marcos為追尋其他的音樂目標而離團單飛，擔任同為CCM/金屬樂派Living Sacrifice的吉他手Jason Truby入替，隨即以新的組合為電影[駭客任務第](https://zh.wikipedia.org/wiki/駭客任務 "wikilink")2集「[駭客任務2：重裝上陣](https://zh.wikipedia.org/wiki/駭客任務2：重裝上陣 "wikilink")」譜唱主題曲"Sleeping Awake"，並且推出第三張專輯《Payable on Death》。 2005年年底原吉他手Marcos回歸，在2006年[二月發行第四張專輯](https://zh.wikipedia.org/wiki/二月 "wikilink")「Testify」，一推出就空降全美流行專輯榜Top9，年底與Atlantic結束賓主關係後拱出首張精選大作「Greatest Hits：The Atlantic Years」，之後轉換新東家Columbia旗下,在2006年與wwe摔角手Rey mysterio合作歌曲\[booyaka 619\],並於2008年問世第五張專輯《When Angels & Serpents Dance》，初登場空降美國流行榜Top9+iTunes搖滾榜冠軍。 2012年7月10日，在上一張專輯推出將近睽違四年後，推出了全新第六張錄音室專輯《Murdered Love》。 2015年8月21日，正式推出了第七張錄音室專輯《The Awakening》。
 
 ## 曲風和爭議
 
@@ -41,7 +26,4 @@ Love》。 2015年8月21日，正式推出了第七張錄音室專輯《The Awak
 
 ## 外部連結
 
-[Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink")
-[Category:搖滾乐团](https://zh.wikipedia.org/wiki/Category:搖滾乐团 "wikilink")
-[Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink")
-[Category:美國新金屬樂團](https://zh.wikipedia.org/wiki/Category:美國新金屬樂團 "wikilink")
+[Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:搖滾乐团](https://zh.wikipedia.org/wiki/Category:搖滾乐团 "wikilink") [Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink") [Category:美國新金屬樂團](https://zh.wikipedia.org/wiki/Category:美國新金屬樂團 "wikilink")

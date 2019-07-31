@@ -39,6 +39,4 @@
 
 [豆瓣：碟評....「從搖滾"小學"到college的周國賢」](http://music.douban.com/review/2091237/)
 
-[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

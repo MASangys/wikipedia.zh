@@ -12,14 +12,8 @@
 
 ## 其他版本
 
-<File:The> Dark Tower VII.jpg|台灣《業之門》-上 封面 <File:The> Dark Tower
-VII2.jpg|台灣《業之門》-下 封面 <File:The> Dark Tower VII The Dark
-Tower.jpg|中國《黑暗之塔》封面
+<File:The> Dark Tower VII.jpg|台灣《業之門》-上 封面 <File:The> Dark Tower VII2.jpg|台灣《業之門》-下 封面 <File:The> Dark Tower VII The Dark Tower.jpg|中國《黑暗之塔》封面
 
-[he:המגדל האפל (סדרת ספרים)\#המגדל
-האפל](https://zh.wikipedia.org/wiki/he:המגדל_האפל_\(סדרת_ספרים\)#המגדל_האפל "wikilink")
+[he:המגדל האפל (סדרת ספרים)\#המגדל האפל](https://zh.wikipedia.org/wiki/he:המגדל_האפל_\(סדרת_ספרים\)#המגדל_האפל "wikilink")
 
-[Category:黑塔小說系列](https://zh.wikipedia.org/wiki/Category:黑塔小說系列 "wikilink")
-[Category:史蒂芬·金](https://zh.wikipedia.org/wiki/Category:史蒂芬·金 "wikilink")
-[Category:2004年小說](https://zh.wikipedia.org/wiki/Category:2004年小說 "wikilink")
-[Category:2004年美國小說](https://zh.wikipedia.org/wiki/Category:2004年美國小說 "wikilink")
+[Category:黑塔小說系列](https://zh.wikipedia.org/wiki/Category:黑塔小說系列 "wikilink") [Category:史蒂芬·金](https://zh.wikipedia.org/wiki/Category:史蒂芬·金 "wikilink") [Category:2004年小說](https://zh.wikipedia.org/wiki/Category:2004年小說 "wikilink") [Category:2004年美國小說](https://zh.wikipedia.org/wiki/Category:2004年美國小說 "wikilink")

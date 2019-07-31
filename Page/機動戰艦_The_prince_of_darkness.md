@@ -1,38 +1,30 @@
-《**機動戰艦 The prince of
-darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動畫《[機動戰艦](../Page/機動戰艦.md "wikilink")》的後續作品。臺灣由[木棉花國際代理發售正體中文版](../Page/木棉花國際.md "wikilink")\[2\]。
+《**機動戰艦 The prince of darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動畫《[機動戰艦](../Page/機動戰艦.md "wikilink")》的後續作品。臺灣由[木棉花國際](../Page/木棉花國際.md "wikilink")代理發售正體中文版\[2\]。
 
 ## 人物
 
   -
     劇場版故事開始時已16歲，是聯合宇宙軍史上最年輕[少校](../Page/少校.md "wikilink")，並成為戰艦「撫子B」艦長。和以前相比，面容顯得稍為寬容，而且開始浮現出一般人的喜怒哀樂表情。心裡依然懷念以前撫子的一切，尤其是「他」……。故事開始時，她被宇宙軍任命，往殖民星「天照」追查和「葫蘆計劃」有關的研究地神秘遇襲的事。現在的琉璃，已以「電子妖精」、「史上最年輕美少女艦長」等名號而聞名於世。
   -
-    劇場版故事開始時23歲，木連之戰結束後不久便和百合香結婚，但在新婚旅行中遭遇太空船意外而宣告死亡；但其實是被一個神秘組織「火星的後繼者」俘虜，並成為他們的實驗體，弄至[味覺等多種](https://zh.wikipedia.org/wiki/味覺 "wikilink")[感官幾近全失](../Page/感官.md "wikilink")，最後被尼爾加秘密行動組救出。在劇場版中作為拯救百合香的「王子」，他披上黑衣，成為一個面容冷漠、從地獄深淵而來的復仇鬼；這便是標題“the
-    prince of darkness”的由來。
+    劇場版故事開始時23歲，木連之戰結束後不久便和百合香結婚，但在新婚旅行中遭遇太空船意外而宣告死亡；但其實是被一個神秘組織「火星的後繼者」俘虜，並成為他們的實驗體，弄至[味覺等多種](https://zh.wikipedia.org/wiki/味覺 "wikilink")[感官](../Page/感官.md "wikilink")幾近全失，最後被尼爾加秘密行動組救出。在劇場版中作為拯救百合香的「王子」，他披上黑衣，成為一個面容冷漠、從地獄深淵而來的復仇鬼；這便是標題“the prince of darkness”的由來。
   -
-    劇場版故事開始時25歲，和明人的新婚旅行事故中同樣宣告死亡；但其實亦是被「火星的後繼者」所擒，並以最新技術把她和遺跡結合在一起，以「人型翻譯機」的姿態沉睡於其中，把[玻色子跳躍的影像傳入遺跡中心](../Page/玻色子.md "wikilink")。不像明人，今次的實驗成功了，而她的腦和感官均安然無恙。
+    劇場版故事開始時25歲，和明人的新婚旅行事故中同樣宣告死亡；但其實亦是被「火星的後繼者」所擒，並以最新技術把她和遺跡結合在一起，以「人型翻譯機」的姿態沉睡於其中，把[玻色子](../Page/玻色子.md "wikilink")跳躍的影像傳入遺跡中心。不像明人，今次的實驗成功了，而她的腦和感官均安然無恙。
   -
     和琉璃类似、尼路加又一个用遗传子操作培育的IFS操控少女。在年前被「火星的后继者」虏去成为实验品而成为苍白无表情面貌，现和明人一起行动，支援着失去感觉的明人，并是战舰「休查利斯」的驾驶者。
 
 ## 術語
 
   - IFS
-    IFS（Image Feedback
-    System）是指一個把人的思想直接傳遞至電腦系統來操縱戰艦和機械人的糸統，而使用者必須在身體注入如微生物大小的生體機器"Nano-
-    machine"。雖然這些機器對人體不會有害，不過人類本能上總會抗拒把一大堆小型機器注入自己體內吧，所以目前地球聯合中正開發不須用IFS來操縱的新機種。
+    IFS（Image Feedback System）是指一個把人的思想直接傳遞至電腦系統來操縱戰艦和機械人的糸統，而使用者必須在身體注入如微生物大小的生體機器"Nano- machine"。雖然這些機器對人體不會有害，不過人類本能上總會抗拒把一大堆小型機器注入自己體內吧，所以目前地球聯合中正開發不須用IFS來操縱的新機種。
 
 <!-- end list -->
 
   - 一人一戰艦計劃（One-man operation system）
-    撫子時代的戰艦，要維持整艘艦的運作必須有一大班人操控艦上每一部份，不過尼爾加重工開發的「一人一戰艦計劃」就把系統強化至只須一人便可完善地操作整艘艦。尼爾加重工的**NS-955B
-    撫子B**便是一艘為測試這個系統而建的戰艦，而跟著的**ユーチャリス**和**NS-966C 撫子C**便可說是此計劃的完成品。
+    撫子時代的戰艦，要維持整艘艦的運作必須有一大班人操控艦上每一部份，不過尼爾加重工開發的「一人一戰艦計劃」就把系統強化至只須一人便可完善地操作整艘艦。尼爾加重工的**NS-955B 撫子B**便是一艘為測試這個系統而建的戰艦，而跟著的**ユーチャリス**和**NS-966C 撫子C**便可說是此計劃的完成品。
 
 <!-- end list -->
 
   - 宇宙軍和統合軍
-    「地球聯合宇宙軍」（United Earth
-    Spacy）便是活躍於蜥蜴戰爭時代的地球軍隊。戰後，新地球聯合成立，並和木連同組成「地球聯合統合平和維持軍」（Joint
-    Peace Keeping Force,
-    JF），簡稱統合軍。在那之後，原宇宙軍的規模不斷縮小和漸被統合軍吸收，雙方互有點敵視對方。故事中琉璃等是屬宇宙軍，涼子則是屬統合軍。
+    「地球聯合宇宙軍」（United Earth Spacy）便是活躍於蜥蜴戰爭時代的地球軍隊。戰後，新地球聯合成立，並和木連同組成「地球聯合統合平和維持軍」（Joint Peace Keeping Force, JF），簡稱統合軍。在那之後，原宇宙軍的規模不斷縮小和漸被統合軍吸收，雙方互有點敵視對方。故事中琉璃等是屬宇宙軍，涼子則是屬統合軍。
 
 <!-- end list -->
 
@@ -52,14 +44,12 @@ darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動�
 <!-- end list -->
 
   - 葫蘆計畫（Hisago Plan）
-    簡單來說就是在太陽系內建立玻色子跳躍航線的計劃，完成後艦隻可快速穿梭太陽系各處。具體進行方法是在太陽系各地建造30個大型Terminal
-    Colony（殖民星站）和無數小型殖民星站，各站中以鬱金香為中心部份，並建立站與站間的航線，而目前宇宙間共有四條大航線，分別稱為「第一螺旋」至「第四螺旋」。
+    簡單來說就是在太陽系內建立玻色子跳躍航線的計劃，完成後艦隻可快速穿梭太陽系各處。具體進行方法是在太陽系各地建造30個大型Terminal Colony（殖民星站）和無數小型殖民星站，各站中以鬱金香為中心部份，並建立站與站間的航線，而目前宇宙間共有四條大航線，分別稱為「第一螺旋」至「第四螺旋」。
 
 <!-- end list -->
 
   - 夢之星之旅
-    這是葫蘆計劃的宣傳口號。在右面那張宣傳海報中的五個女孩便是由惠介紹下加入娛樂圈的保美少女組（Houmei
-    Girls）。她們是這個運動的宣傳女星，並主唱宣傳歌「向你處 star jump\!」
+    這是葫蘆計劃的宣傳口號。在右面那張宣傳海報中的五個女孩便是由惠介紹下加入娛樂圈的保美少女組（Houmei Girls）。她們是這個運動的宣傳女星，並主唱宣傳歌「向你處 star jump\!」
 
 <!-- end list -->
 
@@ -74,8 +64,7 @@ darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動�
 <!-- end list -->
 
   - 白雪公主
-    殖民星天照中，遺蹟之前的那道閘門的開啟密碼是「SNOW
-    WHITE」（[白雪公主](../Page/白雪公主.md "wikilink")），這是暗指在內的百合香就像昏睡中的白雪公主般在等著王子(天河明人)來救。
+    殖民星天照中，遺蹟之前的那道閘門的開啟密碼是「SNOW WHITE」（[白雪公主](../Page/白雪公主.md "wikilink")），這是暗指在內的百合香就像昏睡中的白雪公主般在等著王子(天河明人)來救。
 
 <!-- end list -->
 
@@ -100,8 +89,7 @@ darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動�
 <!-- end list -->
 
   - 幻之副題
-    在企劃之初，本劇場版除了“The prince of darkness”外其實還有一個日語副題：「（機動戰艦-
-    為了最喜歡的你）」。不過因為此一愛情性的副題對故事中的嚴苛情節並不配合，所以最後沒被採用。
+    在企劃之初，本劇場版除了“The prince of darkness”外其實還有一個日語副題：「（機動戰艦- 為了最喜歡的你）」。不過因為此一愛情性的副題對故事中的嚴苛情節並不配合，所以最後沒被採用。
 
 ## 主題曲
 
@@ -110,13 +98,7 @@ darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動�
 
 ## 參考來源
 
-[Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink")
-[Category:機動戰艦](https://zh.wikipedia.org/wiki/Category:機動戰艦 "wikilink")
-[Category:火星背景電影](https://zh.wikipedia.org/wiki/Category:火星背景電影 "wikilink")
-[Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink")
+[Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink") [Category:機動戰艦](https://zh.wikipedia.org/wiki/Category:機動戰艦 "wikilink") [Category:火星背景電影](https://zh.wikipedia.org/wiki/Category:火星背景電影 "wikilink") [Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink")
 
-1.  [Martian Successor Nadesico: The Motion Picture - Prince of
-    Darkness](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1010)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Martian Successor Nadesico: The Motion Picture - Prince of Darkness](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1010)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [機動戰艦(電影版)](http://www.etaipei.com.tw/main/qtylist.asp?r=103810)台灣區家用影片資料館

@@ -1,5 +1,4 @@
-《**Kiss Me
-Kate**》是[徐子珊](../Page/徐子珊.md "wikilink")的首張音樂專輯，於2009年9月10日推出。全碟的歌曲都是以快歌為主，她亦是少有的新人以唱快歌為主；隨碟附送一本20頁的「Kate私影集」。
+《**Kiss Me Kate**》是[徐子珊](../Page/徐子珊.md "wikilink")的首張音樂專輯，於2009年9月10日推出。全碟的歌曲都是以快歌為主，她亦是少有的新人以唱快歌為主；隨碟附送一本20頁的「Kate私影集」。
 
 ## 曲目
 
@@ -28,10 +27,6 @@ Kate**》是[徐子珊](../Page/徐子珊.md "wikilink")的首張音樂專輯，
 
 ## 連結
 
-  - [Kiss Me Kate官方網站](http://www.kissmekate.com.hk/)
-    <small>（已終止服務）</small>
+  - [Kiss Me Kate官方網站](http://www.kissmekate.com.hk/) <small>（已終止服務）</small>
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:徐子珊音樂專輯](https://zh.wikipedia.org/wiki/Category:徐子珊音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:徐子珊音樂專輯](https://zh.wikipedia.org/wiki/Category:徐子珊音樂專輯 "wikilink")

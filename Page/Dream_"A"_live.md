@@ -1,11 +1,8 @@
-**Dream
-"A"live**是[嵐](../Page/嵐.md "wikilink")的第10枚專輯，第8枚原創專輯。於2008年4月23日發行。唱片公司為[J
-Storm](../Page/J_Storm.md "wikilink")。
+**Dream "A"live**是[嵐](../Page/嵐.md "wikilink")的第10枚專輯，第8枚原創專輯。於2008年4月23日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
 
-  - 與前作相距僅僅9個月。收錄了單曲《[Happiness](../Page/Happiness_\(嵐\).md "wikilink")》《[Step
-    and Go](../Page/Step_and_Go.md "wikilink")》。
+  - 與前作相距僅僅9個月。收錄了單曲《[Happiness](../Page/Happiness_\(嵐\).md "wikilink")》《[Step and Go](../Page/Step_and_Go.md "wikilink")》。
   - 初回限定盤中收錄五人各自的Solo曲，通常盤追加收錄Bonus Track《Once Again》。
   - 對嵐而言，是罕見的在夏天以外發售的原創專輯。上一次已是出道專輯的事了。
   - 承接前作，取得[日本公信榜專輯榜](../Page/Oricon.md "wikilink")1位，突破20萬枚的初動銷量，為自身第2高。另外亦於公信榜年度專輯榜取得30位，是2008年發售的[傑尼斯藝人的專輯中的最高位](../Page/傑尼斯事務所.md "wikilink")。
@@ -75,7 +72,4 @@ Storm](../Page/J_Storm.md "wikilink")。
       -
         [櫻井翔](../Page/櫻井翔.md "wikilink") solo
 
-[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:2008年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2008年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:2008年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯月榜冠軍作品 "wikilink") [Category:2008年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯週榜冠軍作品 "wikilink")

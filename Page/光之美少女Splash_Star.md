@@ -1,5 +1,4 @@
-《**光之美少女Splash Star**》（**Splash
-Star**）是由[東映動畫所製作的動畫作品](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，為《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》的第三季作品，屬第二代光之美少女。
+《**光之美少女Splash Star**》（**Splash Star**）是由[東映動畫所製作的動畫作品](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，為《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》的第三季作品，屬第二代光之美少女。
 
 ## 概要
 
@@ -15,11 +14,9 @@ Star**）是由[東映動畫所製作的動畫作品](https://zh.wikipedia.org/w
 
   -
 
-    本作主角之一，海原市立夕風中學\[1\]2年B班學生。
-    出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型為O型。在學校是[壘球](../Page/壘球.md "wikilink")隊的隊員，守備位置是[投手](../Page/投手.md "wikilink")。家裡經營名叫「香噴噴麵包屋」的麵包店。仰慕舞的哥哥，美翔和也。
+    本作主角之一，海原市立夕風中學\[1\]2年B班學生。 出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型為O型。在學校是[壘球](../Page/壘球.md "wikilink")隊的隊員，守備位置是[投手](../Page/投手.md "wikilink")。家裡經營名叫「香噴噴麵包屋」的麵包店。仰慕舞的哥哥，美翔和也。
 
-    精靈夥伴是弗拉比，戰鬥時經弗拉比協助變身成花天使，其擁有大地的金黃色精靈之光。中期得到「光之美少女魔力轉轉環」（Spiral
-    Ring）後可使用新必殺技。後期能藉由姆姆給予的-{滿月}-之力變身為月天使，其擁有屬於-{滿月}-的黃綠色精靈之光。
+    精靈夥伴是弗拉比，戰鬥時經弗拉比協助變身成花天使，其擁有大地的金黃色精靈之光。中期得到「光之美少女魔力轉轉環」（Spiral Ring）後可使用新必殺技。後期能藉由姆姆給予的-{滿月}-之力變身為月天使，其擁有屬於-{滿月}-的黃綠色精靈之光。
 
     變身咒語為「雙重精靈神力（Dual Spiritual Power）」\[2\]
 
@@ -35,8 +32,7 @@ Star**）是由[東映動畫所製作的動畫作品](https://zh.wikipedia.org/w
 
   -
 
-    本作主角之一，轉學至海原市立夕風中學2年B班的轉學生。
-    出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型為AB型。學校美術社社員，非常熱衷於繪畫，當專注於畫上時，常常察覺不到身邊發生的事。
+    本作主角之一，轉學至海原市立夕風中學2年B班的轉學生。 出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型為AB型。學校美術社社員，非常熱衷於繪畫，當專注於畫上時，常常察覺不到身邊發生的事。
 
     精靈夥伴是喬比，戰鬥時經喬比的協助變身成-{舞天使}-，其擁有天空的銀藍色精靈之光。中期得到「光之美少女魔力轉轉環」後可使用新必殺技。後期能藉由芙芙給予的-{薰風}-之力變身為風天使，其擁有屬於-{薰風}-的粉紅色精靈之光。
 
@@ -58,8 +54,7 @@ Star**）是由[東映動畫所製作的動畫作品](https://zh.wikipedia.org/w
 
 ::;光之美少女 轉轉愛心 Splash（Precure Spiral Heart Splash）
 
-:::得到新輔助武器「光之美少女魔力轉轉環」（Precure Spiral
-Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之美少女魔力轉轉環」吸收精靈之光從而增強威力，口號、出招過程跟形態也有所改變。擊中敵人後會形成心型。
+:::得到新輔助武器「光之美少女魔力轉轉環」（Precure Spiral Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之美少女魔力轉轉環」吸收精靈之光從而增強威力，口號、出招過程跟形態也有所改變。擊中敵人後會形成心型。
 
 ::;光之美少女 轉轉星光 Splash（Precure Spiral Star Splash）
 
@@ -81,8 +76,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
   -
 
-    為泉之鄉的女王，世界樹的精靈，守護著世界樹。只有她知道太陽之泉（Fountain of
-    Sun）就是與泉之鄉連接的綠之鄉生命泉源之「海洋」。
+    為泉之鄉的女王，世界樹的精靈，守護著世界樹。只有她知道太陽之泉（Fountain of Sun）就是與泉之鄉連接的綠之鄉生命泉源之「海洋」。
 
 <!-- end list -->
 
@@ -125,9 +119,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
     邪惡大王的心腹。平時是個卑鄙的小老頭，負責監視所有手下並向邪惡大王報告其戰績與收集光之美少女情報，常被水靈夫人誤叫"亞葛"。第41集搶走精靈之壺令已被光之美少女消滅的五行幹部復活。但其實他才是真正的邪惡大王，最終現出原形後是個可怕的怪物，聲稱是宇宙誕生之前就存在的毀滅之力，因為厭惡生命所以要毀滅宇宙令世界變回一片死寂。跟光之美少女和霧生姐妹進行了史上最激烈的戰鬥，最後被花天使、-{舞天使}-、月之-{滿}-及風之-{薰}-合力使出的最終必殺技“轉轉愛心星光Splash”消滅，臨死前還差點連花天使和-{舞天使}-都給他帶走了。
 
-    後來在[STMM中被索爾希埃爾的魔力以最終型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，和皮耶羅一起聯手對抗[Go！Princess
-    光之美少女](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使與魔法天使，最後被[Go！Princess
-    光之美少女打敗](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
+    後來在[STMM中被索爾希埃爾的魔力以最終型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，和皮耶羅一起聯手對抗[Go！Princess 光之美少女](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使與魔法天使，最後被[Go！Princess 光之美少女打敗](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
 
     其名字源自於[琉球語](../Page/琉球語.md "wikilink")「苦瓜」。
 
@@ -147,8 +139,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
     邪惡大王的手下，統治「[火](../Page/火.md "wikilink")之泉」，使用火的力量操控巫賽那。個性熱情，常常使用[拉丁系的語言說話](https://zh.wikipedia.org/wiki/拉丁 "wikilink")，常稱光之美少女和-{滿薰}-為“Señorita”\[10\]。
 
-    後來在[DX2中復活](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")，與水靈夫人、蒂娜合作對付[Yes\!
-    光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")，與夢天使、火天使、檸檬天使、薄荷天使和水天使交戰，最後和深海合體。
+    後來在[DX2中復活](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")，與水靈夫人、蒂娜合作對付[Yes\! 光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")，與夢天使、火天使、檸檬天使、薄荷天使和水天使交戰，最後和深海合體。
 
 <!-- end list -->
 
@@ -162,8 +153,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
     邪惡大王的手下，統治「[水](../Page/水.md "wikilink")之泉」，使用水的力量操控巫賽那。個性高傲，幾乎每次都被咲叫錯名字\[11\]。是五行幹部當中影響力最大的成員和唯一的女性，曾為了領功背叛葛亞\[12\]，光之美少女的兩次強化\[13\]都發生於其當主將的時代。
 
-    後來在[DX2中復活](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")，與火焰倫巴、蒂娜合作對付[Yes\!
-    光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")，與夢天使、火天使、檸檬天使、薄荷天使和水天使交戰，最後和深海合體。
+    後來在[DX2中復活](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")，與火焰倫巴、蒂娜合作對付[Yes\! 光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")，與夢天使、火天使、檸檬天使、薄荷天使和水天使交戰，最後和深海合體。
 
 <!-- end list -->
 
@@ -179,9 +169,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
   -
 
-    突然來到海原市立夕風中學的謎樣轉學生，咲和舞的同班同學。真實身分是邪惡大王的忠實僕人，姐妹兩人一起支配著[天空](../Page/天空.md "wikilink")之泉（Fountain
-    of
-    Sky），最後和-{咲}-跟-{舞}-變成好友。在第23集姐妹兩人一齊捨命救回花天使跟-{舞天使}-，在第42集吸收精靈之壺的殘餘力量復活回來協助光之美少女對抗再生五行，在第48集後段，姐姐-{薰}-獲得芙芙的部分力量變為**風之-{薰}-**，妹妹-{滿}-獲得姆姆的部分力量變為**月之-{滿}-**。
+    突然來到海原市立夕風中學的謎樣轉學生，咲和舞的同班同學。真實身分是邪惡大王的忠實僕人，姐妹兩人一起支配著[天空](../Page/天空.md "wikilink")之泉（Fountain of Sky），最後和-{咲}-跟-{舞}-變成好友。在第23集姐妹兩人一齊捨命救回花天使跟-{舞天使}-，在第42集吸收精靈之壺的殘餘力量復活回來協助光之美少女對抗再生五行，在第48集後段，姐姐-{薰}-獲得芙芙的部分力量變為**風之-{薰}-**，妹妹-{滿}-獲得姆姆的部分力量變為**月之-{滿}-**。
 
 #### 怪物
 
@@ -269,8 +257,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 <!-- end list -->
 
   -
-    為光之美少女提供「魔力轉轉環」的微電腦型魔法道具。從第24集起，姆姆跟芙芙跳進Splash
-    交流電腦中，電腦將其力量化為魔力轉轉環提供給光之美少女。
+    為光之美少女提供「魔力轉轉環」的微電腦型魔法道具。從第24集起，姆姆跟芙芙跳進Splash 交流電腦中，電腦將其力量化為魔力轉轉環提供給光之美少女。
 
 <!-- end list -->
 
@@ -992,8 +979,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
   - 美術設計：行信三
   - 製作擔當：坂井和男
   - 制作協力 ： [東映](../Page/東映.md "wikilink")
-  - 制作 ：
-    [ABC](../Page/朝日放送.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
+  - 制作 ： [ABC](../Page/朝日放送.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
 
 ### 主題曲
 
@@ -1026,8 +1012,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
 #### 故事簡介
 
-咲以及夥伴們準備參加社區的演唱比賽，在參賽期間突然間時間停止了，原來是邪惡的新敵人通過城鎮裡最古老的鐘進入了時鐘之鄉（Village of
-Clocks）並囚禁了無限時鐘的精靈令所有世界的時間停止，小葵一行人跟隨冒出的指針精靈闖入古老時鐘到了時鐘之鄉，並和敵人決戰荒野沙漠且困在敵人設計的迷宮中，為了拯救時鐘之鄉精靈，光之美少女們與時間守護神、精靈捍衛世界！
+咲以及夥伴們準備參加社區的演唱比賽，在參賽期間突然間時間停止了，原來是邪惡的新敵人通過城鎮裡最古老的鐘進入了時鐘之鄉（Village of Clocks）並囚禁了無限時鐘的精靈令所有世界的時間停止，小葵一行人跟隨冒出的指針精靈闖入古老時鐘到了時鐘之鄉，並和敵人決戰荒野沙漠且困在敵人設計的迷宮中，為了拯救時鐘之鄉精靈，光之美少女們與時間守護神、精靈捍衛世界！
 
 #### 登場人物
 
@@ -1037,8 +1022,7 @@ Clocks）並囚禁了無限時鐘的精靈令所有世界的時間停止，小�
 
     作戰機靈且快速敏捷。遠距離戰鬥可用雙手握出一顆沙暴球、用手一揮使出沙牆、沙柱，近距離戰鬥憑用手腳。
 
-    後來在[DX3中復活](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")，與穆舒凡聯手交戰黑天使、花天使、夢天使、桃天使、花蕾天使和旋律天使，最後超獸化被月天使、風天使以**光之美少女
-    轉轉星光 Splash**再度消滅。
+    後來在[DX3中復活](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")，與穆舒凡聯手交戰黑天使、花天使、夢天使、桃天使、花蕾天使和旋律天使，最後超獸化被月天使、風天使以**光之美少女 轉轉星光 Splash**再度消滅。
 
     其名字源自于英文“牛腰肉（Sirloin）”，暗示他的牛魔王真身。
 
@@ -1067,26 +1051,16 @@ Clocks）並囚禁了無限時鐘的精靈令所有世界的時間停止，小�
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars
-    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
-    [光之美少女 All Stars DX
-    大家都是朋友☆奇蹟的全員大集合！](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink")
-    [光之美少女 All Stars DX2
-    希望之光☆守護彩虹寶石！](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")
-    [光之美少女 All Stars DX3
-    傳達到未來！連結世界☆彩虹之花！](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")
-    [光之美少女 All Stars New Stage
-    未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
-    [光之美少女 All Stars New Stage2
-    心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
-    [光之美少女 All Stars New Stage3
-    永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
-    [光之美少女 All Stars
-    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
-    [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
-    [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    主條目：[All Stars 系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
+    [光之美少女 All Stars DX 大家都是朋友☆奇蹟的全員大集合！](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink")
+    [光之美少女 All Stars DX2 希望之光☆守護彩虹寶石！](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")
+    [光之美少女 All Stars DX3 傳達到未來！連結世界☆彩虹之花！](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")
+    [光之美少女 All Stars New Stage 未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
+    [光之美少女 All Stars New Stage2 心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
+    [光之美少女 All Stars New Stage3 永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
+    [光之美少女 All Stars 春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
+    [光之美少女 All Stars 大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
+    [HUG！光之美少女♡光之美少女 All Stars Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 參考文獻
 
@@ -1094,20 +1068,10 @@ Clocks）並囚禁了無限時鐘的精靈令所有世界的時間停止，小�
 
   - [光之美少女Splash Star](https://www.asahi.co.jp/precure_ss/) （ABC）
   - [光之美少女Splash Star](http://www.toei-anim.co.jp/tv/precure_SS/) （東映動畫）
-  - [電影 光之美少女Splash Star
-    滴嗒危機一髮\!](http://www.toei-anim.co.jp/movie/2006_precureSS/)
-    （東映動畫）
-  - [電影
-    光之美少女全員大集合](http://www.toei-anim.co.jp/movie/2009_precure_allstars/)
-    （東映動畫）
+  - [電影 光之美少女Splash Star 滴嗒危機一髮\!](http://www.toei-anim.co.jp/movie/2006_precureSS/) （東映動畫）
+  - [電影 光之美少女全員大集合](http://www.toei-anim.co.jp/movie/2009_precure_allstars/) （東映動畫）
 
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.  \-{「凪」字為日文專有漢字；台灣版電視字幕則以「風」替代，而香港版仍保留原字。 }-
 

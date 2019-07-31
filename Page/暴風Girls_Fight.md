@@ -1,5 +1,4 @@
-《**暴風Girls
-Fight**》（）是撰寫，[倉藤倖負責插畫的輕小說作品](https://zh.wikipedia.org/wiki/倉藤倖 "wikilink")，2007年9月由[Enterbrain](../Page/Enterbrain.md "wikilink")的[Fami通文庫](../Page/Fami通文庫.md "wikilink")出版發行。中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理。
+《**暴風Girls Fight**》（）是撰寫，[倉藤倖負責插畫的輕小說作品](https://zh.wikipedia.org/wiki/倉藤倖 "wikilink")，2007年9月由[Enterbrain](../Page/Enterbrain.md "wikilink")的[Fami通文庫](../Page/Fami通文庫.md "wikilink")出版發行。中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理。
 
 以教會學校的女子高中[曲棍網球社為舞台](../Page/袋棍球.md "wikilink")，描寫愛好曲棍網球的少女與被少女牽連的主角一起募集隊員，目標成為日本第一。作者在寫作時到自己的母校的曲棍網球社取材，借用一部分社團前輩的姓名作為登場人物的名字\[1\]。
 
@@ -72,12 +71,6 @@ Fight**》（）是撰寫，[倉藤倖負責插畫的輕小說作品](https://zh
 
 <references />
 
-[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink")
-[Category:球類運動題材作品](https://zh.wikipedia.org/wiki/Category:球類運動題材作品 "wikilink")
-[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink")
-[Category:校園小說](https://zh.wikipedia.org/wiki/Category:校園小說 "wikilink")
-[Category:袋棍球題材作品](https://zh.wikipedia.org/wiki/Category:袋棍球題材作品 "wikilink")
-[Category:女子運動題材作品](https://zh.wikipedia.org/wiki/Category:女子運動題材作品 "wikilink")
-[Category:教会学校背景作品](https://zh.wikipedia.org/wiki/Category:教会学校背景作品 "wikilink")
+[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink") [Category:球類運動題材作品](https://zh.wikipedia.org/wiki/Category:球類運動題材作品 "wikilink") [Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink") [Category:校園小說](https://zh.wikipedia.org/wiki/Category:校園小說 "wikilink") [Category:袋棍球題材作品](https://zh.wikipedia.org/wiki/Category:袋棍球題材作品 "wikilink") [Category:女子運動題材作品](https://zh.wikipedia.org/wiki/Category:女子運動題材作品 "wikilink") [Category:教会学校背景作品](https://zh.wikipedia.org/wiki/Category:教会学校背景作品 "wikilink")
 
 1.  《》後記、313頁。

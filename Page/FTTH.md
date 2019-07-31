@@ -1,8 +1,6 @@
-**光纖到戶**（，缩写：**FTTH**）是一種[光纖通訊的傳輸方法](../Page/光纖通訊.md "wikilink")。是直接把[光纖接到](https://zh.wikipedia.org/wiki/光纖 "wikilink")[用戶的家中](https://zh.wikipedia.org/wiki/用戶 "wikilink")（用戶所需的地方）。
+**光纖到戶**（，缩写：**FTTH**）是一種[光纖通訊](../Page/光纖通訊.md "wikilink")的傳輸方法。是直接把[光纖接到](https://zh.wikipedia.org/wiki/光纖 "wikilink")[用戶的家中](https://zh.wikipedia.org/wiki/用戶 "wikilink")（用戶所需的地方）。
 
-這種光纖通訊方式及策略與[FTTN](../Page/FTTx.md "wikilink")、[FTTC](../Page/FTTx.md "wikilink")、[HFC](https://zh.wikipedia.org/wiki/HFC "wikilink")（Hybrid
-Fiber
-Coaxial）等也不同，它們都是需要依賴傳統的金屬電線，包括[雙絞線及](https://zh.wikipedia.org/wiki/雙絞線 "wikilink")[同軸電纜等](https://zh.wikipedia.org/wiki/同軸電纜 "wikilink")，作「[最後一公里](https://zh.wikipedia.org/wiki/最後一公里 "wikilink")」的資訊傳輸。
+這種光纖通訊方式及策略與[FTTN](../Page/FTTx.md "wikilink")、[FTTC](../Page/FTTx.md "wikilink")、[HFC](https://zh.wikipedia.org/wiki/HFC "wikilink")（Hybrid Fiber Coaxial）等也不同，它們都是需要依賴傳統的金屬電線，包括[雙絞線及](https://zh.wikipedia.org/wiki/雙絞線 "wikilink")[同軸電纜等](https://zh.wikipedia.org/wiki/同軸電纜 "wikilink")，作「[最後一公里](https://zh.wikipedia.org/wiki/最後一公里 "wikilink")」的資訊傳輸。
 
 ## 光學部分
 
@@ -20,12 +18,7 @@ Coaxial）等也不同，它們都是需要依賴傳統的金屬電線，包括[
 
 ### 被動式光纖網路（Passive optical network）
 
-電信網路節點的元件可分為〝主動式（Active）〞與〝被動式（Passive）〞
-兩種。〝被動式〞元件不用電源就可以完成信號處理，就像家裡的鏡子，不需要電就能反射影像。PON（Passive
-Optical
-Network）為被動式光網路，即光纖網路除了終端設備需要用到電以外，其中間的節點則以精緻小巧的光纖元件構成。以新一代網路（New
-Generation Network）通信觀念，電信網路可以粗分為核心網路（Core Network）與接取網路（Access
-Network）兩部份。核心網路相當於傳統的中繼及長途線路。接取網路則有光纜環。核心網路與接取網路的功能不同，其傳輸型態也不同，因此PON的應用又可分為核心網路的PON及接取網路PON兩大類型。前者以[分波多工](https://zh.wikipedia.org/wiki/分波多工 "wikilink")（[WDM](https://zh.wikipedia.org/wiki/波分复用 "wikilink")）為主，後者光分歧器與分波多工元件均用到。
+電信網路節點的元件可分為〝主動式（Active）〞與〝被動式（Passive）〞 兩種。〝被動式〞元件不用電源就可以完成信號處理，就像家裡的鏡子，不需要電就能反射影像。PON（Passive Optical Network）為被動式光網路，即光纖網路除了終端設備需要用到電以外，其中間的節點則以精緻小巧的光纖元件構成。以新一代網路（New Generation Network）通信觀念，電信網路可以粗分為核心網路（Core Network）與接取網路（Access Network）兩部份。核心網路相當於傳統的中繼及長途線路。接取網路則有光纜環。核心網路與接取網路的功能不同，其傳輸型態也不同，因此PON的應用又可分為核心網路的PON及接取網路PON兩大類型。前者以[分波多工](https://zh.wikipedia.org/wiki/分波多工 "wikilink")（[WDM](https://zh.wikipedia.org/wiki/波分复用 "wikilink")）為主，後者光分歧器與分波多工元件均用到。
 
 ## 電學部分
 
@@ -49,13 +42,13 @@ Network）兩部份。核心網路相當於傳統的中繼及長途線路。接�
 
 #### 香港
 
-[香港網絡供應商](../Page/香港.md "wikilink")[香港寬頻在](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")2006年4月首次引入FTTH光纖到戶技術，提供25Mbps至1Gbps的住宅寬頻服務。
+[香港](../Page/香港.md "wikilink")網絡供應商[香港寬頻在](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")2006年4月首次引入FTTH光纖到戶技術，提供25Mbps至1Gbps的住宅寬頻服務。
 
 在2007年11月4日，[香港電訊管理局發表](https://zh.wikipedia.org/wiki/香港電訊管理局 "wikilink")\[1\]，香港的**FTTH**及[FTTB的普及率已達](https://zh.wikipedia.org/wiki/FTTB "wikilink")21.2％，超越[南韓和](https://zh.wikipedia.org/wiki/南韓 "wikilink")[日本](../Page/日本.md "wikilink")，成為全球之冠。
 
 #### 澳門
 
-[澳門網絡供應商](../Page/澳門.md "wikilink")[澳門電訊在](../Page/澳門電訊.md "wikilink")2010年10月引入[光纖到戶](https://zh.wikipedia.org/wiki/光纖到戶 "wikilink")（FTTH）技術，為用戶提供50Mbps至250Mbps的住宅高速服務。
+[澳門](../Page/澳門.md "wikilink")網絡供應商[澳門電訊](../Page/澳門電訊.md "wikilink")在2010年10月引入[光纖到戶](https://zh.wikipedia.org/wiki/光纖到戶 "wikilink")（FTTH）技術，為用戶提供50Mbps至250Mbps的住宅高速服務。
 
 現時澳門的光纖寬頻服務為50Mbps至1Gbps。
 
@@ -65,7 +58,7 @@ Network）兩部份。核心網路相當於傳統的中繼及長途線路。接�
 
 #### 中國大陸
 
-[中国电信从](https://zh.wikipedia.org/wiki/中国电信 "wikilink")2011年起在[中国大陆各个](../Page/中国大陆.md "wikilink")[省会](https://zh.wikipedia.org/wiki/省会 "wikilink")[城市实行网络升级](../Page/城市.md "wikilink")，根据各省市实际情况原ADSL用户免费或有偿升级到FTTH。目前上海电信FTTH推进程度较高。在2012年3月31日，中国宽带发展和光网建设高层研讨会上，中国电信上海分公司副总工张军表示，到2014年基本完成整个上海的光网覆盖，90%以上的宽带用户实现FTTH。按照计划，上海市2011年宽带速率达到8M，2012年的宽带要提速到16M，2013年要达到30M，2014年50M。2016年底，上海电信将完成269个小区的千兆宽带接入，2018年实现千兆宽带全市覆盖，千兆宽带接入用户突破百万级，平均接入带宽将从目前的超过50Mbit/s提升至280Mbit/s，用户可感知的下载速率从13Mbit/s升至突破100Mbit/s\[2\]。
+[中国电信从](https://zh.wikipedia.org/wiki/中国电信 "wikilink")2011年起在[中国大陆](../Page/中国大陆.md "wikilink")各个[省会](https://zh.wikipedia.org/wiki/省会 "wikilink")[城市](../Page/城市.md "wikilink")实行网络升级，根据各省市实际情况原ADSL用户免费或有偿升级到FTTH。目前上海电信FTTH推进程度较高。在2012年3月31日，中国宽带发展和光网建设高层研讨会上，中国电信上海分公司副总工张军表示，到2014年基本完成整个上海的光网覆盖，90%以上的宽带用户实现FTTH。按照计划，上海市2011年宽带速率达到8M，2012年的宽带要提速到16M，2013年要达到30M，2014年50M。2016年底，上海电信将完成269个小区的千兆宽带接入，2018年实现千兆宽带全市覆盖，千兆宽带接入用户突破百万级，平均接入带宽将从目前的超过50Mbit/s提升至280Mbit/s，用户可感知的下载速率从13Mbit/s升至突破100Mbit/s\[2\]。
 
 ### 歐洲
 
@@ -75,7 +68,7 @@ Network）兩部份。核心網路相當於傳統的中繼及長途線路。接�
 
 ### 南美
 
-[巴西TIM公司在](../Page/巴西.md "wikilink")2013年推出FTTH链接但是只有10M到90M的网速。所以当时并没有多少人知道。但是于2015年3月份推出1G宽带时，迅速被人所知。也是巴西所有网络运营商首家推出FTTH宽带，达到1G的网络运营商
+[巴西](../Page/巴西.md "wikilink")TIM公司在2013年推出FTTH链接但是只有10M到90M的网速。所以当时并没有多少人知道。但是于2015年3月份推出1G宽带时，迅速被人所知。也是巴西所有网络运营商首家推出FTTH宽带，达到1G的网络运营商
 
 ### 北美
 
@@ -99,32 +92,19 @@ Network）兩部份。核心網路相當於傳統的中繼及長途線路。接�
 
 [Fiber to the Home Council](http://www.ftthcouncil.org/)
 
-[KMI Research FTTP
-article](https://web.archive.org/web/20061018014834/http://kmi.pennnet.com/press_display.cfm?ARTICLE_ID=211004)
+[KMI Research FTTP article](https://web.archive.org/web/20061018014834/http://kmi.pennnet.com/press_display.cfm?ARTICLE_ID=211004)
 
-[FTTH Blog](http://www.ftthblog.com) Daily updates on the business and
-technology of FTTH
+[FTTH Blog](http://www.ftthblog.com) Daily updates on the business and technology of FTTH
 
-[Kingfisher International Application
-Notes](https://web.archive.org/web/20071023022301/http://www.kingfisher.com.au/ApplicationNotes.htm)
-Fiber Optic Testing information about FTTH backbone Terminology.
+[Kingfisher International Application Notes](https://web.archive.org/web/20071023022301/http://www.kingfisher.com.au/ApplicationNotes.htm) Fiber Optic Testing information about FTTH backbone Terminology.
 
-[Richardson, TX FTTP Conversion
-Notes](https://web.archive.org/web/20060822022618/http://www.richlandhoa.com/fttp.html)
-Details of conversion to FTTP in Dallas, TX (USA) suburb of Richardson.
+[Richardson, TX FTTP Conversion Notes](https://web.archive.org/web/20060822022618/http://www.richlandhoa.com/fttp.html) Details of conversion to FTTP in Dallas, TX (USA) suburb of Richardson.
 
-[San Francisco Draft Fiber
-Study](https://web.archive.org/web/20090517193120/http://www.sfgov.org/site/tech_connect_index.asp)
+[San Francisco Draft Fiber Study](https://web.archive.org/web/20090517193120/http://www.sfgov.org/site/tech_connect_index.asp)
 
-[UOC University
-article](https://web.archive.org/web/20070626225214/http://www.fabila.com/proyectos/ftth/)（in
-Spanish）
+[UOC University article](https://web.archive.org/web/20070626225214/http://www.fabila.com/proyectos/ftth/)（in Spanish）
 
-[Category:寬頻](https://zh.wikipedia.org/wiki/Category:寬頻 "wikilink")
-[Category:網路結構](https://zh.wikipedia.org/wiki/Category:網路結構 "wikilink")
-[Category:光纤通信](https://zh.wikipedia.org/wiki/Category:光纤通信 "wikilink")
-[Category:电话](https://zh.wikipedia.org/wiki/Category:电话 "wikilink")
+[Category:寬頻](https://zh.wikipedia.org/wiki/Category:寬頻 "wikilink") [Category:網路結構](https://zh.wikipedia.org/wiki/Category:網路結構 "wikilink") [Category:光纤通信](https://zh.wikipedia.org/wiki/Category:光纤通信 "wikilink") [Category:电话](https://zh.wikipedia.org/wiki/Category:电话 "wikilink")
 
 1.  [港光纖到戶普及率冠全球](http://www.news.gov.hk/tc/category/infrastructureandlogistics/071102/html/071102tc06006.htm)
-
 2.

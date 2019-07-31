@@ -1,20 +1,12 @@
-**神谷浩史、小野大輔的DearGirl～Stories～**（）是日本[文化放送播出的廣播節目](../Page/文化放送_\(日本\).md "wikilink")，從2007年4月7日起於每週日1:00－1:30播出。主持人為[聲優](../Page/聲優.md "wikilink")[神谷浩史與](../Page/神谷浩史.md "wikilink")[小野大輔](../Page/小野大輔.md "wikilink")。
+**神谷浩史、小野大輔的DearGirl～Stories～**（）是日本[文化放送播出的廣播節目](../Page/文化放送_\(日本\).md "wikilink")，從2007年4月7日起於每週日1:00－1:30播出。主持人為[聲優](../Page/聲優.md "wikilink")[神谷浩史](../Page/神谷浩史.md "wikilink")與[小野大輔](../Page/小野大輔.md "wikilink")。
 
 ## 節目概要
 
-  - 放送電台：[文化放送](../Page/文化放送_\(日本\).md "wikilink")（日本時間
-    毎週六25:00〜25:30）、[大阪電台](../Page/大阪放送.md "wikilink")（日本時間
-    毎週日23:00〜23:30）
+  - 放送電台：[文化放送](../Page/文化放送_\(日本\).md "wikilink")（日本時間 毎週六25:00〜25:30）、[大阪電台](../Page/大阪放送.md "wikilink")（日本時間 毎週日23:00〜23:30）
   - 構成作家：諏訪勝
   - 節目製作人：內田浩之
-  - 節目的宗旨是[神谷浩史與](../Page/神谷浩史.md "wikilink")[小野大輔以故事朗誦者的身份](../Page/小野大輔.md "wikilink")，為收音機前獨一無二的「親愛的妳」（Dear
-    girl）傳達故事。節目常態與日本手機網站「Animelo Dear Girl」及[Media
-    Works出版的雙月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Media_Works "wikilink")「SYLPH（原季刊COMIC
-    SYPLH）」以及[ASCII MEDIA
-    WORKS出版的月刊漫畫雜誌](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")『[電撃Girl's
-    Style](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%92%83Girl%27s_Style)』做連動企畫。
-  - 2016年，於第2回動漫廣播大賞中獲得「RADIO OF THE YEAR 最優秀廣播大賞」、「BEST MALE RADIO
-    最優秀男性廣播賞」兩項獎項。\[1\] 在AnimeJapan2016中，由構成作家諏訪勝代為上台領獎。
+  - 節目的宗旨是[神谷浩史](../Page/神谷浩史.md "wikilink")與[小野大輔](../Page/小野大輔.md "wikilink")以故事朗誦者的身份，為收音機前獨一無二的「親愛的妳」（Dear girl）傳達故事。節目常態與日本手機網站「Animelo Dear Girl」及[Media Works出版的雙月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Media_Works "wikilink")「SYLPH（原季刊COMIC SYPLH）」以及[ASCII MEDIA WORKS出版的月刊漫畫雜誌](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")『[電撃Girl's Style](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%92%83Girl%27s_Style)』做連動企畫。
+  - 2016年，於第2回動漫廣播大賞中獲得「RADIO OF THE YEAR 最優秀廣播大賞」、「BEST MALE RADIO 最優秀男性廣播賞」兩項獎項。\[1\] 在AnimeJapan2016中，由構成作家諏訪勝代為上台領獎。
 
 ## 節目環節
 
@@ -28,12 +20,9 @@
     念讀與節目連動雜誌的相關人士來信的環節。
     一開始的環節名稱是「シルフ相談室（SYLPH諮詢室）」，主要是解決來自SYLPH裡漫畫家老師群或編輯部來信煩惱諮詢的環節。
     因為總是沒好好替大家做諮詢，在第25話時改為「シルフ談話室」（可理解為SYLPH聊天室）。
-    2012年4月開始，隨著《電擊Girl's Style》月刊化，第261話之後，變成每月第1、第2週是「ガルスタ談話室（Girl's
-    Style談話室）」，第3、4週是「シルフ談話室」。
-    2015年1月起，改為「Dear Girl談話室」，成了讀聽眾（Dear girl/DG或Dear
-    Boy/DB）的普通來信的環節。結果就成了只多出一段時間來讀普通來信，和「ふつすと」不同在於只讀一封來信，後面通通是兩人小短篇（コント/story）時間。
-    在第63話時，為響應在「SYLPH」連載作品「マジナ\!」一同出演的嘉賓鈴木裕斗，而以「ドワンゴ談話室（DWANGO談話室）」介紹，而且放送了「マジナ\!」的原創故事。（※鈴木裕斗隸屬DWANGO
-    Artist Production，同時DWANGO也是DGS贊助商之一，DGS的專輯也都是由其子公司負責。）
+    2012年4月開始，隨著《電擊Girl's Style》月刊化，第261話之後，變成每月第1、第2週是「ガルスタ談話室（Girl's Style談話室）」，第3、4週是「シルフ談話室」。
+    2015年1月起，改為「Dear Girl談話室」，成了讀聽眾（Dear girl/DG或Dear Boy/DB）的普通來信的環節。結果就成了只多出一段時間來讀普通來信，和「ふつすと」不同在於只讀一封來信，後面通通是兩人小短篇（コント/story）時間。
+    在第63話時，為響應在「SYLPH」連載作品「マジナ\!」一同出演的嘉賓鈴木裕斗，而以「ドワンゴ談話室（DWANGO談話室）」介紹，而且放送了「マジナ\!」的原創故事。（※鈴木裕斗隸屬DWANGO Artist Production，同時DWANGO也是DGS贊助商之一，DGS的專輯也都是由其子公司負責。）
     這個環節內容也經常說跟作品相關的小短篇劇場、作品角色或相關企劃等等，而且經常佔去放送中最多時間。
     在SYLPH談話室中，環節開頭的漫畫故事介紹（迷你廣播劇）是由兩人演役，而且女主角的部分會由小野扮演。
     另，讀來信的時候，常常把老師的名稱亂改，變成其他人或是其他事物的來信，例如：左近堂絵里（さこんどう えり）老師被改成→テコンドー老師。
@@ -261,8 +250,7 @@
   - 第157話 「小野大輔、チェリーベルでベストすべり賞をいただきました！！」
   - 第158話 「帰ってきた新世紀の文豪」
   - 第159話 「ヒロC、本番前にテンションUP！」
-  - 第160話 「神谷浩史・小野大輔のDearGirl〜Stories〜 牛久る？！いくいく！ 今回は牛久におっ邪魔〜！」 -
-    小野大輔聖誕祭2010
+  - 第160話 「神谷浩史・小野大輔のDearGirl〜Stories〜 牛久る？！いくいく！ 今回は牛久におっ邪魔〜！」 - 小野大輔聖誕祭2010
   - 第161話 「なぜか、この後の台本、ボク渡されていません！」 - 小野大輔聖誕祭2010
   - 第162話 「なんで赤福あーんしてくれへんの？」」
   - 第163話 「スタジオが中2の部屋みたい！」
@@ -360,8 +348,7 @@
   - 第240話 「本日、NEW小野D爆誕！」
   - 第241話 「俺、今日、入り時間　○○時間半間違えたぜ！」
   - 第242話 「今日、おのD　Ｔシャツだぜ！！」
-  - 第243話
-    「ジュゴージュゴッ！トゥンートゥントゥントゥンー！ボスボスボス！ドゥーショームーン！ブシューン！ブショーン！ショーン！ドォーン！ブォーン！シュー　ド・セイ」
+  - 第243話 「ジュゴージュゴッ！トゥンートゥントゥントゥンー！ボスボスボス！ドゥーショームーン！ブシューン！ブショーン！ショーン！ドォーン！ブォーン！シュー　ド・セイ」
   - 第244話 「じゃー今度は俺がカレー作る！！」
   - 第245話 「ワールドワイドヒロC！上海みやげもろたよ！」
   - 第246話 「本番目のヒロC、サンタ感ゼロ！！」
@@ -665,8 +652,7 @@
   - 第469話 「今、目の前にアマゾン買いマシーンがいる」
   - 第470話 「若者の未来に光あれ！」
   - 第471話 「フリーは色々気をつかうなぁ！」
-  - 第472話 「DGSアワード小野大輔Dear
-    Voice部門の現状での最下位を発表したいと思います。「5秒前。4・3・2・1とりあえずビンビンで！」」
+  - 第472話 「DGSアワード小野大輔Dear Voice部門の現状での最下位を発表したいと思います。「5秒前。4・3・2・1とりあえずビンビンで！」」
   - 第473話 「たくさん喋ったね！」
   - 第474話 「小野大輔聖誕祭～小野虫ペダル」-『小野大輔聖誕祭2016』
   - 第475話 「あとでインスタにアップしときます！」
@@ -893,8 +879,7 @@
   - 第128話：[代永翼](../Page/代永翼.md "wikilink")
   - 第135話：楠大典 ※因為小野大輔感冒而擔任臨時代打主持人
   - 第143話：小野坂昌也
-  - 第147話：[哈曼·坎恩](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink")
-    ※人型模特登場。通過有關人員的允許，以錄取聲音予神谷生日特別企劃。
+  - 第147話：[哈曼·坎恩](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink") ※人型模特登場。通過有關人員的允許，以錄取聲音予神谷生日特別企劃。
   - 第161話：代永翼
   - 第171話：八木橋くん
   - 第172話：八木橋くん
@@ -915,11 +900,9 @@
   - 第304話：阪口大助
   - 第310話：楠大典‧中村悠一 ※在DGS祭り『まだまだあぶない神谷浩史生誕祭\!』環節中登場
   - 第317話：ママD ※電話出演
-  - 第331話：[岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")
-    ※為電撃Girl'sStyle的網路廣播「木村良平・岡本信彦の電撃Girl'sSmile」做宣傳
+  - 第331話：[岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink") ※為電撃Girl'sStyle的網路廣播「木村良平・岡本信彦の電撃Girl'sSmile」做宣傳
   - 第338話: 代永翼 ─秋天慣例的電話出演
-  - 第349話：[哈曼·坎恩](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink")
-    ※人型模特，在DearBoy祭中登場
+  - 第349話：[哈曼·坎恩](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink") ※人型模特，在DearBoy祭中登場
   - 第388話: 代永翼 ─秋天慣例的電話出演
   - 第400話：MASOCHISTIC ONO BAND
   - 第401話：代永翼 ─『DGS大賞2014』 最優秀獎得獎，電話出演。
@@ -934,13 +917,11 @@
 
 ### MASOCHISTIC ONO BAND
 
-2013年由[神谷浩史](../Page/神谷浩史.md "wikilink")、[小野大輔及其他](../Page/小野大輔.md "wikilink")4名DGS的工作人員組成的搖滾空氣樂團。2015年7月12日因鼓手體重過重須接受醫療諮詢而活動休止。於2016年舉辦的DGS
-EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張單曲及1張專輯，並於2015年以MOB名義舉辦四場巡迴演唱會。
+2013年由[神谷浩史](../Page/神谷浩史.md "wikilink")、[小野大輔](../Page/小野大輔.md "wikilink")及其他4名DGS的工作人員組成的搖滾空氣樂團。2015年7月12日因鼓手體重過重須接受醫療諮詢而活動休止。於2016年舉辦的DGS EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張單曲及1張專輯，並於2015年以MOB名義舉辦四場巡迴演唱會。
 
 #### 成員
 
-  - **[ONO-D](../Page/小野大輔.md "wikilink")**（オノディー、[1978年](../Page/1978年.md "wikilink")[5月4日](../Page/5月4日.md "wikilink")
-    - VOCAL）
+  - **[ONO-D](../Page/小野大輔.md "wikilink")**（オノディー、[1978年](../Page/1978年.md "wikilink")[5月4日](../Page/5月4日.md "wikilink") - VOCAL）
 
 <!-- end list -->
 
@@ -949,8 +930,7 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 
 <!-- end list -->
 
-  - **[HIRO-C](../Page/神谷浩史.md "wikilink")**（ヒロシー、[1975年](../Page/1975年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")
-    - VOCAL）
+  - **[HIRO-C](../Page/神谷浩史.md "wikilink")**（ヒロシー、[1975年](../Page/1975年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - VOCAL）
 
 <!-- end list -->
 
@@ -959,8 +939,7 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 
 <!-- end list -->
 
-  - **DO-S**（ドエス、[1974年](../Page/1974年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")
-    - Bass）
+  - **DO-S**（ドエス、[1974年](../Page/1974年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - Bass）
 
 <!-- end list -->
 
@@ -969,8 +948,7 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 
 <!-- end list -->
 
-  - **3M**（スリーエム、[1976年](../Page/1976年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")
-    - Guitar）
+  - **3M**（スリーエム、[1976年](../Page/1976年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink") - Guitar）
 
 <!-- end list -->
 
@@ -979,8 +957,7 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 
 <!-- end list -->
 
-  - **YAGI84**（ヤギハシ、[1986年](../Page/1986年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")
-    - Keyboard）
+  - **YAGI84**（ヤギハシ、[1986年](../Page/1986年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - Keyboard）
 
 <!-- end list -->
 
@@ -989,8 +966,7 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 
 <!-- end list -->
 
-  - **CHANKO**（チャンコ、[1986年](../Page/1986年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")
-    - Drums）
+  - **CHANKO**（チャンコ、[1986年](../Page/1986年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink") - Drums）
 
 <!-- end list -->
 
@@ -1049,10 +1025,8 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 
   - 「Dear Girl〜Stories〜THE MOVIE」2010年10月23日上演
   - 「Dear Girl～Stories～THE MOVIE2 ACE OF ASIA」2014年2月15日上演
-  - 「Dear Girl～Stories～THE MOVIE3 the United Kingdom of
-    KOCHI」前编「六人的龙马编」2017年11月25日上演
-  - 「Dear Girl～Stories～THE MOVIE3 the United Kingdom of
-    KOCHI」后编「青之继承编」2018年1月6日上演
+  - 「Dear Girl～Stories～THE MOVIE3 the United Kingdom of KOCHI」前编「六人的龙马编」2017年11月25日上演
+  - 「Dear Girl～Stories～THE MOVIE3 the United Kingdom of KOCHI」后编「青之继承编」2018年1月6日上演
 
 ### 見面會
 
@@ -1061,8 +1035,7 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 
 <!-- end list -->
 
-  - 「DearGirl～Stories～Festival Carnival Matsuri」
-    2013年2月23日，為第一個登上[日本武道館的廣播節目](../Page/日本武道館.md "wikilink")
+  - 「DearGirl～Stories～Festival Carnival Matsuri」 2013年2月23日，為第一個登上[日本武道館](../Page/日本武道館.md "wikilink")的廣播節目
       - BD\&DVD於2013年9月19日發售
 
 <!-- end list -->
@@ -1072,14 +1045,12 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 
 <!-- end list -->
 
-  - 「MOB LIVE TOUR 2015 What is Rock？～ロックって何ですか？～in KOBE WORLD HALL」
-    2015年6月20日、2015年6月21日
+  - 「MOB LIVE TOUR 2015 What is Rock？～ロックって何ですか？～in KOBE WORLD HALL」 2015年6月20日、2015年6月21日
       - BD\&DVD於2016年2月18日發售
 
 <!-- end list -->
 
-  - 「MOB LIVE TOUR 2015 What is Rock？～ロックって何ですか？～in MAKUHARI MESSE EVENT
-    HALL」 2015年7月11日、2015年7月12日
+  - 「MOB LIVE TOUR 2015 What is Rock？～ロックって何ですか？～in MAKUHARI MESSE EVENT HALL」 2015年7月11日、2015年7月12日
       - BD\&DVD於2016年3月17日發售
 
 <!-- end list -->
@@ -1097,11 +1068,9 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 ## 相關連結
 
   - [文化放送官方公式blog](http://www.joqr.net/blog/dgs/)
-  - [神谷浩史・小野大輔のDear
-    Girl～Stories～](http://pc.animelo.jp/special/deargirl-stories/)
+  - [神谷浩史・小野大輔のDear Girl～Stories～](http://pc.animelo.jp/special/deargirl-stories/)
   - [遊戲官方公式](http://d-game.dengeki.com/hibiki/)
-  - [MASOCHISTIC ONO
-    BAND](http://ja.wikipedia.org/wiki/MASOCHISTIC_ONO_BAND/)
+  - [MASOCHISTIC ONO BAND](http://ja.wikipedia.org/wiki/MASOCHISTIC_ONO_BAND/)
   - [DGS EXPO](http://www.joqrextend.co.jp/dgsexpo/)
   - [DGS vs MOB LIVE SURVIVE](http://www.joqrextend.co.jp/dgsvsmob/)
 
@@ -1110,6 +1079,5 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
 1.
 2.  作為特典，收錄於2010年10月公映的「Dear Girl〜Stories〜THE MOVIE」電影DVD之中。
 3.  2013年在武道館舉辦的「DearGirl〜Stories〜 Festival Carnival Matsuri」會場限定先行販售
-4.  2016年在埼玉スーパーアリーナ舉辦的「DearGirl〜Stories〜 10th ANNIVERSARY DGS
-    EXPO」會場限定先行販售
+4.  2016年在埼玉スーパーアリーナ舉辦的「DearGirl〜Stories〜 10th ANNIVERSARY DGS EXPO」會場限定先行販售
 5.  2018年在埼玉スーパーアリーナ舉辦的「DGS vs MOB LIVE SURVIVE」會場限定先行販售

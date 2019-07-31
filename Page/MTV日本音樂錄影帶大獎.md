@@ -1,6 +1,4 @@
-**MTV日本音樂錄影帶大獎**（**MTV Video Music Awards
-Japan**，簡稱**VMAJ**）創辦於2002年，是日本的年度音樂獎之一，由[MTV
-Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
+**MTV日本音樂錄影帶大獎**（**MTV Video Music Awards Japan**，簡稱**VMAJ**）創辦於2002年，是日本的年度音樂獎之一，由[MTV Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 
 ## 各屆資訊
 
@@ -656,6 +654,4 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 
   - [MTV日本音樂錄影帶大獎官方網站](https://web.archive.org/web/20100305133701/http://www.mtvjapan.com/vmaj/)
 
-[Category:MTV日本音樂錄影帶大獎](https://zh.wikipedia.org/wiki/Category:MTV日本音樂錄影帶大獎 "wikilink")
-[Category:日本音乐奖项](https://zh.wikipedia.org/wiki/Category:日本音乐奖项 "wikilink")
-[Category:2002年建立的獎項](https://zh.wikipedia.org/wiki/Category:2002年建立的獎項 "wikilink")
+[Category:MTV日本音樂錄影帶大獎](https://zh.wikipedia.org/wiki/Category:MTV日本音樂錄影帶大獎 "wikilink") [Category:日本音乐奖项](https://zh.wikipedia.org/wiki/Category:日本音乐奖项 "wikilink") [Category:2002年建立的獎項](https://zh.wikipedia.org/wiki/Category:2002年建立的獎項 "wikilink")

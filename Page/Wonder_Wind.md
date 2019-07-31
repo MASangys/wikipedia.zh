@@ -1,10 +1,8 @@
-《**Wonder Wind**》是2009年5月20日Geneon Universal
-Entertainment发售的[ELISA的第四张单曲](../Page/ELISA_\(歌手\).md "wikilink")。
+《**Wonder Wind**》是2009年5月20日Geneon Universal Entertainment发售的[ELISA的第四张单曲](../Page/ELISA_\(歌手\).md "wikilink")。
 
 ## 解説
 
-电视动画[旋风管家
-第二期的](https://zh.wikipedia.org/wiki/旋风管家 "wikilink")[OP](https://zh.wikipedia.org/wiki/片头曲 "wikilink")。
+电视动画[旋风管家 第二期的](https://zh.wikipedia.org/wiki/旋风管家 "wikilink")[OP](https://zh.wikipedia.org/wiki/片头曲 "wikilink")。
 
 初回限定盤（GNCA-0133）及通常盤（GNCA-0134）两种版本。
 
@@ -18,8 +16,7 @@ Entertainment发售的[ELISA的第四张单曲](../Page/ELISA_\(歌手\).md "wik
 
 2.  ****
 
-      - 作詞：[西田惠美](https://zh.wikipedia.org/wiki/西田惠美 "wikilink")、作曲・編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
-        Garden](../Page/Elements_Garden.md "wikilink")）
+      - 作詞：[西田惠美](https://zh.wikipedia.org/wiki/西田惠美 "wikilink")、作曲・編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
 
 3.  Wonder Wind -Instrumental-
 
@@ -28,10 +25,6 @@ Entertainment发售的[ELISA的第四张单曲](../Page/ELISA_\(歌手\).md "wik
 ## 外部链接
 
   - [旋风管家官网的商品介绍](https://web.archive.org/web/20090407073759/http://www.hayate-music.com/wonderwind/index.html)
-  - [Geneon Universal
-    Entertainment官网的商品介绍](https://web.archive.org/web/20090602134110/http://www.geneon-ent.co.jp/music/elisa/gnca0134/index.html)
+  - [Geneon Universal Entertainment官网的商品介绍](https://web.archive.org/web/20090602134110/http://www.geneon-ent.co.jp/music/elisa/gnca0134/index.html)
 
-[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:旋風管家歌曲](https://zh.wikipedia.org/wiki/Category:旋風管家歌曲 "wikilink")
-[Category:ELISA歌曲](https://zh.wikipedia.org/wiki/Category:ELISA歌曲 "wikilink")
+[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:旋風管家歌曲](https://zh.wikipedia.org/wiki/Category:旋風管家歌曲 "wikilink") [Category:ELISA歌曲](https://zh.wikipedia.org/wiki/Category:ELISA歌曲 "wikilink")

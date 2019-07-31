@@ -1,11 +1,8 @@
-**Choc7**（中文名稱**超克7**），前稱**模范七棒**，出道前稱**棒棒堂二軍**，網友、傳媒、官方及支持者等常簡稱為**二軍**或**七棒**。這是一組經過2008年整個上旬的選戰，3月22日的Mini
-Concert、雜誌封面拍攝及網上選舉、7月推出的《冒險世界》[EP及其後的各場簽唱會表現及支持票選才產生的男子藝人團體](https://zh.wikipedia.org/wiki/EP "wikilink")，是繼[Lollipop棒棒堂之後的](https://zh.wikipedia.org/wiki/Lollipop@F "wikilink")[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")第二隊出道組合，雖然如此，但各成員本身在人氣上有不小的落差，不過經紀公司[Channel
-V](../Page/Channel_V.md "wikilink")（台灣）頻道總監[張世明](../Page/張世明.md "wikilink")相信人氣能後天努力，因為選出各成員都是因為他們都擁有不同的才能和同一顆心，向「成功的藝人」的目標出發。
+**Choc7**（中文名稱**超克7**），前稱**模范七棒**，出道前稱**棒棒堂二軍**，網友、傳媒、官方及支持者等常簡稱為**二軍**或**七棒**。這是一組經過2008年整個上旬的選戰，3月22日的Mini Concert、雜誌封面拍攝及網上選舉、7月推出的《冒險世界》[EP及其後的各場簽唱會表現及支持票選才產生的男子藝人團體](https://zh.wikipedia.org/wiki/EP "wikilink")，是繼[Lollipop棒棒堂之後的](https://zh.wikipedia.org/wiki/Lollipop@F "wikilink")[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")第二隊出道組合，雖然如此，但各成員本身在人氣上有不小的落差，不過經紀公司[Channel V](../Page/Channel_V.md "wikilink")（台灣）頻道總監[張世明](../Page/張世明.md "wikilink")相信人氣能後天努力，因為選出各成員都是因為他們都擁有不同的才能和同一顆心，向「成功的藝人」的目標出發。
 
 於2008年8月13日模范棒棒堂錄影節目時吸引了廣大媒體採訪及即時報道，而部分媒體就報道了入選成員包括[李銓](../Page/李銓.md "wikilink")、[毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")、[小馬](../Page/簡翔棋.md "wikilink")、[野獸](../Page/韋佳宏.md "wikilink")、[阿本](../Page/翁瑞迪.md "wikilink")、[小祿及](../Page/劉祿存.md "wikilink")[鮪魚](../Page/吳俊諺.md "wikilink")，而[牙膏及](../Page/謝東裕.md "wikilink")[翰獎因為表現或人條度不足而被淘汰](../Page/王勇翰.md "wikilink")，變回模范棒棒堂普通成員；[Terry亦因擁有超過團體的表現](../Page/江振愷.md "wikilink")，相當有單飛潛力，故亦不獲入選。
 
-在2010年年中，由於[鮪魚及](../Page/吳俊諺.md "wikilink")[毛弟簽約](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")[傳奇星娛樂](../Page/傳奇星娛樂.md "wikilink")，有傳言傳出超克七已解散的消息。\[1\]
-但消息出來後目前仍未有任何有關人士證實，基本上現在和解散無異。
+在2010年年中，由於[鮪魚及](../Page/吳俊諺.md "wikilink")[毛弟簽約](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")[傳奇星娛樂](../Page/傳奇星娛樂.md "wikilink")，有傳言傳出超克七已解散的消息。\[1\] 但消息出來後目前仍未有任何有關人士證實，基本上現在和解散無異。
 
 ## 出道經過
 
@@ -23,20 +20,15 @@ V](../Page/Channel_V.md "wikilink")（台灣）頻道總監[張世明](../Page/�
 
 另外，有謠言一直指模范七棒出道後將會叫做「Popsicle冰棒」，包括在不少報紙雜誌等媒體也有報導，可是這其實是一個誤會，這名字是官方討論區一位網民在2007年12月21日寫的建議帖中的虛構名字。
 
-在2009年3月7日，七棒經紀人兼Channel V總監張世明在官方討論區中，預告「模范七棒」將會有新團名。 同時在五月初起，[Channel
-V開始在廣告時段播放電視台新節目](../Page/Channel_V.md "wikilink")[極上生徒會的預告片](https://zh.wikipedia.org/wiki/極上生徒會 "wikilink")，在預告片的右下角則出現了Choc7（超克7）的字樣\[2\]，有人指這可能將會是七棒的新團名。而於2009年5月7日已由[Channel
-V總監](../Page/Channel_V.md "wikilink")[張世明](../Page/張世明.md "wikilink")確認消息。亦於同年5月18日6時起，Channel
-V開始播放有關七棒新團名的廣告，進一步證實了消息。
+在2009年3月7日，七棒經紀人兼Channel V總監張世明在官方討論區中，預告「模范七棒」將會有新團名。 同時在五月初起，[Channel V開始在廣告時段播放電視台新節目](../Page/Channel_V.md "wikilink")[極上生徒會的預告片](https://zh.wikipedia.org/wiki/極上生徒會 "wikilink")，在預告片的右下角則出現了Choc7（超克7）的字樣\[2\]，有人指這可能將會是七棒的新團名。而於2009年5月7日已由[Channel V總監](../Page/Channel_V.md "wikilink")[張世明](../Page/張世明.md "wikilink")確認消息。亦於同年5月18日6時起，Channel V開始播放有關七棒新團名的廣告，進一步證實了消息。
 
 ### 團長爭議
 
 另外，在團名正式易名之後，所有的宣傳通告，幾乎也是由[毛弟來介紹團名等](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")。由於這些工作在師兄[Lollipop棒棒堂還有師姐](https://zh.wikipedia.org/wiki/Lollipop@F "wikilink")[黑Girl](../Page/黑Girl.md "wikilink")都是由團長來做，所以令人產生錯覺─[毛弟才是CHOC](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")7的真團長。
 
-而在2009年5月28日播映的[康熙來了](../Page/康熙來了.md "wikilink")中，主持人[小S查問CHOC](../Page/徐熙娣.md "wikilink")7的團長是誰，然後各成員皆指出[毛弟是團長](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")，這個消息一出，在官方討論區引起了一場激烈的討論
-。
+而在2009年5月28日播映的[康熙來了](../Page/康熙來了.md "wikilink")中，主持人[小S查問CHOC](../Page/徐熙娣.md "wikilink")7的團長是誰，然後各成員皆指出[毛弟是團長](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")，這個消息一出，在官方討論區引起了一場激烈的討論 。
 
-最後，經[Channel
-V總監](../Page/Channel_V.md "wikilink")[張世明](../Page/張世明.md "wikilink")於5月29日凌晨在網上解釋後，確認了CHOC7的真正的團長是[阿本](../Page/翁瑞迪.md "wikilink")，從而平息了支持者的疑慮。
+最後，經[Channel V總監](../Page/Channel_V.md "wikilink")[張世明](../Page/張世明.md "wikilink")於5月29日凌晨在網上解釋後，確認了CHOC7的真正的團長是[阿本](../Page/翁瑞迪.md "wikilink")，從而平息了支持者的疑慮。
 
 ## 已離開成員詳細資料
 
@@ -201,15 +193,11 @@ Simon、金絲眼鏡</p></td>
 
 ### 活動主持
 
-[2008SonyFair_Day2_MiniConcert.jpg](https://zh.wikipedia.org/wiki/File:2008SonyFair_Day2_MiniConcert.jpg "fig:2008SonyFair_Day2_MiniConcert.jpg")
-2008小型演唱會，阿本（左）為主持人之一。\]\]
+[2008SonyFair_Day2_MiniConcert.jpg](https://zh.wikipedia.org/wiki/File:2008SonyFair_Day2_MiniConcert.jpg "fig:2008SonyFair_Day2_MiniConcert.jpg") 2008小型演唱會，阿本（左）為主持人之一。\]\]
 
   - Sony Fair '08
-      - 2008年4月4日及4月5日 -阿本 -
-        《[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")
-        Concert迷你演唱會》主持人
-  - [全球華語榜中榜暨亞洲影響力大典](https://zh.wikipedia.org/wiki/全球華語榜中榜暨亞洲影響力大典 "wikilink")
-    '10
+      - 2008年4月4日及4月5日 -阿本 - 《[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink") Concert迷你演唱會》主持人
+  - [全球華語榜中榜暨亞洲影響力大典](https://zh.wikipedia.org/wiki/全球華語榜中榜暨亞洲影響力大典 "wikilink") '10
       - 2010年3月28日 -阿本 - 《第十四屆紅毯》主持人
 
 （與小薰、丫頭、林楊、溫雅、阿薩、袁莉、劉鈞共同主持）
@@ -224,8 +212,7 @@ Simon、金絲眼鏡</p></td>
       - 《[美少女時代](https://zh.wikipedia.org/wiki/美少女時代 "wikilink")》，鮪魚，擔任助教，小祿有時擔任旁白
       - 《VJ普普風》，各成員均有主持機會
       - 《流行in House》，各成員都會有機會錄影此節目
-      - 《[LOLLIPOP哪裡怕](../Page/LOLLIPOP哪裡怕.md "wikilink")》 ，
-        阿本、小祿，擔任代班主持
+      - 《[LOLLIPOP哪裡怕](../Page/LOLLIPOP哪裡怕.md "wikilink")》 ， 阿本、小祿，擔任代班主持
       - 《[哪裡5打抗](../Page/哪裡5打抗.md "wikilink")》，各成員都會有機會客串節目後的短劇，有時候也會在節目上擔任嘉賓
       - 《[無敵青春克](../Page/無敵青春克.md "wikilink")》，嘉賓及外景主持
       - 《娛樂NP3》，阿本代班主持
@@ -370,8 +357,7 @@ Simon、金絲眼鏡</p></td>
       - 收錄內容：包括歌曲《甜甜圈》（與黑Girl成員[小薰合唱](../Page/黃瀞怡.md "wikilink")）在內的所有《18禁不禁》歌曲及音樂
   - 2008年5月 - 鮪魚 - 個人泰文EP《BATO》
       - 收錄內容：歌曲《SAY YES》
-  - 2008年7月11日（出道前決戰）-
-    [公主幫及](https://zh.wikipedia.org/wiki/模范棒棒堂#第一屆內部團體、組合 "wikilink")[宅男塾同步推出](https://zh.wikipedia.org/wiki/模范棒棒堂#第一屆內部團體、組合 "wikilink")《冒險世界》EP
+  - 2008年7月11日（出道前決戰）- [公主幫及](https://zh.wikipedia.org/wiki/模范棒棒堂#第一屆內部團體、組合 "wikilink")[宅男塾同步推出](https://zh.wikipedia.org/wiki/模范棒棒堂#第一屆內部團體、組合 "wikilink")《冒險世界》EP
       - 公主幫EP內容：
           - 《冒險世界》fantasy version、《公主徹夜未眠》、《年輕不要留白》
           - 「公主幫攻略」24p全彩寫真冊（內附粉絲最愛投票卡﹑花美男so cute人形紙卡）
@@ -469,25 +455,18 @@ Simon、金絲眼鏡</p></td>
 
 ### 大型演出
 
-  - 2007年6月9日 - 阿本 - [高雄Le](https://zh.wikipedia.org/wiki/高雄 "wikilink")
-    Party 樂派對演唱會
+  - 2007年6月9日 - 阿本 - [高雄Le](https://zh.wikipedia.org/wiki/高雄 "wikilink") Party 樂派對演唱會
   - 2008年1月26日 - 棒棒堂夢想出發‧閃耀小巨蛋演唱會（表演嘉賓）（「十四棒」時代）共同演出
-  - 2008年3月22日 - 模范棒棒堂二軍選拔PK戰－15分鐘Mini
-    Concert表演（台北[新光三越A](https://zh.wikipedia.org/wiki/新光三越 "wikilink")8館戶外廣場舉行、「十四棒」時代）
+  - 2008年3月22日 - 模范棒棒堂二軍選拔PK戰－15分鐘Mini Concert表演（台北[新光三越A](https://zh.wikipedia.org/wiki/新光三越 "wikilink")8館戶外廣場舉行、「十四棒」時代）
   - 2008年10月31日 - 第四十三屆電視[金鐘獎](../Page/金鐘獎.md "wikilink")頒獎典禮 表演嘉賓
       - 與黑Girl表演〈哆啦Ａ夢〉、〈綠野仙蹤〉、〈科學小飛俠〉、〈無敵鐵金剛〉及〈小甜甜〉等5首經典卡通歌。
   - 2008年11月29日 - 2008 V POWER演唱會 表演嘉賓
-  - 2009年7月4日至7月5日 -
-    [棒棒堂我是傳奇2009亞洲巡迴演唱會](../Page/棒棒堂我是傳奇2009亞洲巡迴演唱會.md "wikilink")
-    - 香港站表演嘉賓
-  - 2009年12月12日 -
-    [棒棒堂我是傳奇2009亞洲巡迴演唱會](../Page/棒棒堂我是傳奇2009亞洲巡迴演唱會.md "wikilink")
-    - 廣州站表演嘉賓
+  - 2009年7月4日至7月5日 - [棒棒堂我是傳奇2009亞洲巡迴演唱會](../Page/棒棒堂我是傳奇2009亞洲巡迴演唱會.md "wikilink") - 香港站表演嘉賓
+  - 2009年12月12日 - [棒棒堂我是傳奇2009亞洲巡迴演唱會](../Page/棒棒堂我是傳奇2009亞洲巡迴演唱會.md "wikilink") - 廣州站表演嘉賓
 
 ### 電影
 
-  - 2008年 - 毛弟 -
-    《[九降風](../Page/九降風_\(電影\).md "wikilink")》，是第32屆香港國際電影節參展電影
+  - 2008年 - 毛弟 - 《[九降風](../Page/九降風_\(電影\).md "wikilink")》，是第32屆香港國際電影節參展電影
   - 2009年2月26日《[愛到底](../Page/愛到底.md "wikilink")》為一四段式電影，Choc7六位成員(除野獸)都有於[黃子佼](../Page/黃子佼.md "wikilink")執導之《第六號瀏海》演出。
   - 2009年 - 李銓 - [董氏基金會](../Page/董氏基金會.md "wikilink")公益宣導短片《黑潮》
 
@@ -495,24 +474,14 @@ Simon、金絲眼鏡</p></td>
 
   - 2007年11月1日 - 香港 - 阿本、小馬、毛弟、李銓；MINI CLUBMAN發佈會
   - 2007年11月25日 - 香港 - 阿本；[大埔超級城](../Page/大埔超級城.md "wikilink")聖誕亮燈儀式
-  - 2007年12月7日及12月8日 -
-    香港[觀塘](../Page/觀塘.md "wikilink")[aPM](https://zh.wikipedia.org/wiki/aPM "wikilink")
-    - 阿本；《18禁不禁》宣傳活動
-  - 2007年12月8日 - 香港 -
-    阿本；出席[TVB籌款節目](https://zh.wikipedia.org/wiki/TVB "wikilink")《[歡樂滿東華](../Page/歡樂滿東華.md "wikilink")》，與小薰合唱甜甜圈
-  - 2008年3月20日及3月21日 - 香港 -
-    毛弟；第32屆香港電影節－電影《九降風》宣傳活動及參與[電影的首映會](https://zh.wikipedia.org/wiki/電影 "wikilink")
-  - 2008年6月9日 - 香港[屯門市廣場](../Page/屯門市廣場.md "wikilink") -
-    所有成員；舉行《終極之戰》，分組比舞，獻唱新歌《冒險世界》，之後聯合所有觀眾的批判及表現，於同年八月至九月選出正式出道之七人。是次活動前，二軍來港的時候吸引過百名粉絲接機，場面混亂，有粉絲跌倒。（活動上籌得5千元善款將捐予香港世界宣明會，協助四川賑災。）\[4\]）
-  - 2008年12月 - 香港 -
-    毛弟；TVB綜藝節目《[鐵甲無敵獎門人](../Page/鐵甲無敵獎門人.md "wikilink")》錄影
-  - 2008年12月24日 - 香港屯門市廣場 -
-    模范七棒；出席活動平安夜倒數活動，與[黑Girl](../Page/黑Girl.md "wikilink")
-  - 2009年7月5日 -
-    香港[citywalk](https://zh.wikipedia.org/wiki/citywalk "wikilink")
-    - 超克7； 太青春拍照會
-  - 2009年12月31日 - 香港[上水廣場](../Page/上水廣場.md "wikilink") -
-    超克7全體成員；出席除夕夜倒數活動，與多位香港明星
+  - 2007年12月7日及12月8日 - 香港[觀塘](../Page/觀塘.md "wikilink")[aPM](https://zh.wikipedia.org/wiki/aPM "wikilink") - 阿本；《18禁不禁》宣傳活動
+  - 2007年12月8日 - 香港 - 阿本；出席[TVB籌款節目](https://zh.wikipedia.org/wiki/TVB "wikilink")《[歡樂滿東華](../Page/歡樂滿東華.md "wikilink")》，與小薰合唱甜甜圈
+  - 2008年3月20日及3月21日 - 香港 - 毛弟；第32屆香港電影節－電影《九降風》宣傳活動及參與[電影的首映會](https://zh.wikipedia.org/wiki/電影 "wikilink")
+  - 2008年6月9日 - 香港[屯門市廣場](../Page/屯門市廣場.md "wikilink") - 所有成員；舉行《終極之戰》，分組比舞，獻唱新歌《冒險世界》，之後聯合所有觀眾的批判及表現，於同年八月至九月選出正式出道之七人。是次活動前，二軍來港的時候吸引過百名粉絲接機，場面混亂，有粉絲跌倒。（活動上籌得5千元善款將捐予香港世界宣明會，協助四川賑災。）\[4\]）
+  - 2008年12月 - 香港 - 毛弟；TVB綜藝節目《[鐵甲無敵獎門人](../Page/鐵甲無敵獎門人.md "wikilink")》錄影
+  - 2008年12月24日 - 香港屯門市廣場 - 模范七棒；出席活動平安夜倒數活動，與[黑Girl](../Page/黑Girl.md "wikilink")
+  - 2009年7月5日 - 香港[citywalk](https://zh.wikipedia.org/wiki/citywalk "wikilink") - 超克7； 太青春拍照會
+  - 2009年12月31日 - 香港[上水廣場](../Page/上水廣場.md "wikilink") - 超克7全體成員；出席除夕夜倒數活動，與多位香港明星
 
 ## 參考資料
 

@@ -14,8 +14,6 @@
 ## 外部連結
 
   - [KDE Utilities / Ark](http://utils.kde.org/projects/ark/)
-  - [The Ark
-    Handbook](http://docs.kde.org/stable/en/kdeutils/ark/index.html)
+  - [The Ark Handbook](http://docs.kde.org/stable/en/kdeutils/ark/index.html)
 
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:数据压缩自由软件](https://zh.wikipedia.org/wiki/Category:数据压缩自由软件 "wikilink")
+[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:数据压缩自由软件](https://zh.wikipedia.org/wiki/Category:数据压缩自由软件 "wikilink")

@@ -1,7 +1,4 @@
-**Microsoft
-OneNote**，是一套用于自由形式的信息获取以及多用户协作工具。OneNote最常用于笔记本电脑或台式电脑，但这套软件更适合用于支持手写笔操作的平板电脑，在这类设备上可使用触笔、声音或视频创建笔记，比单纯使用键盘更方便。OneNote可作为[Microsoft
-Office和](../Page/Microsoft_Office.md "wikilink")[Windows
-10的一部分使用](../Page/Windows_10.md "wikilink")。
+**Microsoft OneNote**，是一套用于自由形式的信息获取以及多用户协作工具。OneNote最常用于笔记本电脑或台式电脑，但这套软件更适合用于支持手写笔操作的平板电脑，在这类设备上可使用触笔、声音或视频创建笔记，比单纯使用键盘更方便。OneNote可作为[Microsoft Office和](../Page/Microsoft_Office.md "wikilink")[Windows 10的一部分使用](../Page/Windows_10.md "wikilink")。
 
 ## 概述
 
@@ -13,26 +10,13 @@ OneNote的重要创新之一是内建的搜索功能，以及可索引的[图形
 
 ## 平台支持
 
-OneNote 2003要求[Windows
-2000以及Service](../Page/Windows_2000.md "wikilink") Pack
-4或更高版本，[Windows
-XP或](../Page/Windows_XP.md "wikilink")[Windows
-Vista以及](../Page/Windows_Vista.md "wikilink")[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
+OneNote 2003要求[Windows 2000以及Service](../Page/Windows_2000.md "wikilink") Pack 4或更高版本，[Windows XP或](../Page/Windows_XP.md "wikilink")[Windows Vista以及](../Page/Windows_Vista.md "wikilink")[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
 OneNote 2003可运行于任何可运行被支持操作系统的硬件上。
 
-OneNote 2007只能运行于Windows XP SP2或更高版本的Windows上。OneNote
-2007的打印机驱动无法安装在64位操作系统中。
+OneNote 2007只能运行于Windows XP SP2或更高版本的Windows上。OneNote 2007的打印机驱动无法安装在64位操作系统中。
 
-很多Microsoft Office应用程序都支持导入/导出[MIME
-HTML](../Page/MHTML.md "wikilink")（.mht文件）的功能，包括OneNote、Word，以及Internet
-Explorer。因此，只有可识别这种文件格式的浏览器适合作为查看OneNote导出的MHT文件的平台。OneNote
-2007还可支持将笔记导出为[PDF或](https://zh.wikipedia.org/wiki/PDF "wikilink")[XPS文件](../Page/XML纸张规范.md "wikilink")，但需要使用一个来自Microsoft的免费插件。Microsoft
-OneNote Mobile for Smartphones（[Windows Mobile
-2003](https://zh.wikipedia.org/wiki/Windows_Mobile_2003 "wikilink")、2003
-SE、5，以及更高版本）以及Pocket PCs（[Windows Mobile
-5和更高版本](../Page/Windows_Mobile.md "wikilink")）也包含OneNote 2007；
+很多Microsoft Office应用程序都支持导入/导出[MIME HTML](../Page/MHTML.md "wikilink")（.mht文件）的功能，包括OneNote、Word，以及Internet Explorer。因此，只有可识别这种文件格式的浏览器适合作为查看OneNote导出的MHT文件的平台。OneNote 2007还可支持将笔记导出为[PDF或](https://zh.wikipedia.org/wiki/PDF "wikilink")[XPS文件](../Page/XML纸张规范.md "wikilink")，但需要使用一个来自Microsoft的免费插件。Microsoft OneNote Mobile for Smartphones（[Windows Mobile 2003](https://zh.wikipedia.org/wiki/Windows_Mobile_2003 "wikilink")、2003 SE、5，以及更高版本）以及Pocket PCs（[Windows Mobile 5和更高版本](../Page/Windows_Mobile.md "wikilink")）也包含OneNote 2007；
 
 OneNote移动版：OneNote Mobile可以在PC、浏览器和移动设备间同步笔记。
 
@@ -57,9 +41,7 @@ OneNote移动版：OneNote Mobile可以在PC、浏览器和移动设备间同步
 ## 外部链接
 
   - [Microsoft OneNote官方网站](https://www.onenote.com)
-  - [OneNote 帮助 - Office
-    支持](https://support.office.microsoft.com/onenote)
+  - [OneNote 帮助 - Office 支持](https://support.office.microsoft.com/onenote)
   - [OneNote和培训博客](https://blogs.office.com/onenote/education/)
 
-[Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink")
-[Category:笔记软件](https://zh.wikipedia.org/wiki/Category:笔记软件 "wikilink")
+[Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:笔记软件](https://zh.wikipedia.org/wiki/Category:笔记软件 "wikilink")

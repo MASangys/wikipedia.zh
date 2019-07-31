@@ -2,8 +2,7 @@
 
 ## 故事概要
 
-任職地產公司的力（[郭耀明](../Page/郭耀明.md "wikilink")飾）與地盤工頭全（[黃日華](../Page/黃日華.md "wikilink")飾）因分別衝動犯事，被判入獄。二人獄中相遇，經了解後化敵為友，更結識了樂於助人的社工珊（[陳法蓉](../Page/陳法蓉.md "wikilink")飾）
-。後力刑滿出獄，本欲重新開始，卻遭人連番白眼，在岳母的冷嘲熱諷下，一時意氣與妻儀（[佘詩曼飾](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")）分居。而對儀一直未忘情的「鑽石王老五」年（[鄭子誠](../Page/鄭子誠.md "wikilink")飾）遂乘機力加追求。
+任職地產公司的力（[郭耀明](../Page/郭耀明.md "wikilink")飾）與地盤工頭全（[黃日華](../Page/黃日華.md "wikilink")飾）因分別衝動犯事，被判入獄。二人獄中相遇，經了解後化敵為友，更結識了樂於助人的社工珊（[陳法蓉](../Page/陳法蓉.md "wikilink")飾） 。後力刑滿出獄，本欲重新開始，卻遭人連番白眼，在岳母的冷嘲熱諷下，一時意氣與妻儀（[佘詩曼飾](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")）分居。而對儀一直未忘情的「鑽石王老五」年（[鄭子誠](../Page/鄭子誠.md "wikilink")飾）遂乘機力加追求。
 
 另一方面，全出獄後與力開設裝修公司，昔日同倉囚犯紛紛投靠，公司業務漸有起色。後力更得年幫助重獲專業資格，有機重新振作，但為個人聲譽和前途，竟漸疏遠一眾釋囚。全獨力難支下，裝修公司陷入困境，幸得珊鼓勵，二人患難見真情。時力小叔豪（[謝天華](../Page/謝天華.md "wikilink")飾）為私利偷工減料，引致地盤意外，全等人皆被困塌土之中，生命懸繫一線。究竟力會否伸出援助之手？
 
@@ -315,5 +314,4 @@ John之妻</p></td>
 
 ## 電視節目的變遷
 
-[Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
+[Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")

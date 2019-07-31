@@ -1,5 +1,4 @@
-《**Words of
-Silence**》為[香港歌手](https://zh.wikipedia.org/wiki/香港歌手 "wikilink")[麥浚龍的](../Page/麥浚龍.md "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2008年1月29日正式發行。
+《**Words of Silence**》為[香港歌手](https://zh.wikipedia.org/wiki/香港歌手 "wikilink")[麥浚龍](../Page/麥浚龍.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2008年1月29日正式發行。
 
 ## 專輯簡介
 
@@ -26,5 +25,4 @@ Silence**》為[香港歌手](https://zh.wikipedia.org/wiki/香港歌手 "wikili
 
 ## 相關獎項或提名
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:麥浚龍音樂專輯](https://zh.wikipedia.org/wiki/Category:麥浚龍音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:麥浚龍音樂專輯](https://zh.wikipedia.org/wiki/Category:麥浚龍音樂專輯 "wikilink")

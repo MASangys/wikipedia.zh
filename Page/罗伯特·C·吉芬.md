@@ -1,12 +1,10 @@
-**罗伯特·C·吉芬（Robert C. Giffen）**
-[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[中將](../Page/中將.md "wikilink")。
+**罗伯特·C·吉芬（Robert C. Giffen）**  [美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[中將](../Page/中將.md "wikilink")。
 
 ## 生平
 
 ### 从出生到[第一次世界大战](../Page/第一次世界大战.md "wikilink")
 
-罗伯特·卡莱尔·吉芬（Robert Carlisle
-Giffen）1886年6月29日出生于[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")的[西切斯特](https://zh.wikipedia.org/wiki/西切斯特 "wikilink")。在1903年进入[内布拉斯加的](https://zh.wikipedia.org/wiki/内布拉斯加 "wikilink")[美国海军学院](../Page/美国海军学院.md "wikilink")前，他在[印第安纳州](../Page/印第安纳州.md "wikilink")的[圣母大学学习](https://zh.wikipedia.org/wiki/圣母大学 "wikilink")，海军见习生吉芬毕业于1907级，被分配到[弗吉尼亚号战列舰上](https://zh.wikipedia.org/wiki/弗吉尼亚号战列舰 "wikilink")。从1907年下半年到1909年上半年，他在这艘战舰上参加了[大白舰队](../Page/大白舰队.md "wikilink")，并环游世界。在随后的4年里，吉芬在几艘军舰上服役。同时也定期参加全国步枪比赛。1913年－1915年吉芬少尉在[华盛顿海军工厂](../Page/华盛顿海军工厂.md "wikilink")工作。随后他被分配到新建的[温赖特号驱逐舰上](https://zh.wikipedia.org/wiki/温赖特号驱逐舰_\(DD-62\) "wikilink")。
+罗伯特·卡莱尔·吉芬（Robert Carlisle Giffen）1886年6月29日出生于[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")的[西切斯特](https://zh.wikipedia.org/wiki/西切斯特 "wikilink")。在1903年进入[内布拉斯加的](https://zh.wikipedia.org/wiki/内布拉斯加 "wikilink")[美国海军学院](../Page/美国海军学院.md "wikilink")前，他在[印第安纳州](../Page/印第安纳州.md "wikilink")的[圣母大学学习](https://zh.wikipedia.org/wiki/圣母大学 "wikilink")，海军见习生吉芬毕业于1907级，被分配到[弗吉尼亚号战列舰上](https://zh.wikipedia.org/wiki/弗吉尼亚号战列舰 "wikilink")。从1907年下半年到1909年上半年，他在这艘战舰上参加了[大白舰队](../Page/大白舰队.md "wikilink")，并环游世界。在随后的4年里，吉芬在几艘军舰上服役。同时也定期参加全国步枪比赛。1913年－1915年吉芬少尉在[华盛顿海军工厂](../Page/华盛顿海军工厂.md "wikilink")工作。随后他被分配到新建的[温赖特号驱逐舰上](https://zh.wikipedia.org/wiki/温赖特号驱逐舰_\(DD-62\) "wikilink")。
 
 ### 第一次世界大战与两次大战之间
 
@@ -36,9 +34,4 @@ Giffen）1886年6月29日出生于[宾夕法尼亚州](../Page/宾夕法尼亚�
   -
 ## 参考资料
 
-[Category:美國第二次世界大戰人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰人物 "wikilink")
-[Category:海軍十字勳章獲得者](https://zh.wikipedia.org/wiki/Category:海軍十字勳章獲得者 "wikilink")
-[Category:美國海軍中將](https://zh.wikipedia.org/wiki/Category:美國海軍中將 "wikilink")
-[Category:美國海軍學院校友](https://zh.wikipedia.org/wiki/Category:美國海軍學院校友 "wikilink")
-[Category:宾夕法尼亚州人](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州人 "wikilink")
-[Category:圣母大学校友](https://zh.wikipedia.org/wiki/Category:圣母大学校友 "wikilink")
+[Category:美國第二次世界大戰人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰人物 "wikilink") [Category:海軍十字勳章獲得者](https://zh.wikipedia.org/wiki/Category:海軍十字勳章獲得者 "wikilink") [Category:美國海軍中將](https://zh.wikipedia.org/wiki/Category:美國海軍中將 "wikilink") [Category:美國海軍學院校友](https://zh.wikipedia.org/wiki/Category:美國海軍學院校友 "wikilink") [Category:宾夕法尼亚州人](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州人 "wikilink") [Category:圣母大学校友](https://zh.wikipedia.org/wiki/Category:圣母大学校友 "wikilink")

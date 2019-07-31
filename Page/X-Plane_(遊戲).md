@@ -1,5 +1,4 @@
-**X-Plane**是一款由[Laminar
-Research开发的个人专业](../Page/Laminar_Research.md "wikilink")[飞行模拟器](https://zh.wikipedia.org/wiki/飞行模拟器 "wikilink")。该软件已在[Android](../Page/Android.md "wikilink")，[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac或](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Windows等众多操作系统发行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。X-Plane和其他软件打包成为完整且真实的飞行模拟平台。X-Plane其利于使用插件扩展功能的构架使X-Plane成为目前最完整真实的模拟飞行平台之一。
+**X-Plane**是一款由[Laminar Research开发的个人专业](../Page/Laminar_Research.md "wikilink")[飞行模拟器](https://zh.wikipedia.org/wiki/飞行模拟器 "wikilink")。该软件已在[Android](../Page/Android.md "wikilink")，[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac或](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Windows等众多操作系统发行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。X-Plane和其他软件打包成为完整且真实的飞行模拟平台。X-Plane其利于使用插件扩展功能的构架使X-Plane成为目前最完整真实的模拟飞行平台之一。
 
 ## 历史
 
@@ -25,8 +24,7 @@ X-Plane是一款历史十分悠久的模拟飞行游戏，其历史最早可追�
 
 2003年 Ben Supnik作为第一个全职工程师加入X-Plane
 
-2004年
-X-Plane8发行，第一次支持[DVD安装](../Page/數碼多功能影音光碟.md "wikilink")，并能够支持[Linux](../Page/Linux.md "wikilink")
+2004年 X-Plane8发行，第一次支持[DVD安装](../Page/數碼多功能影音光碟.md "wikilink")，并能够支持[Linux](../Page/Linux.md "wikilink")
 
 2004年12月 Randy作为客服加入团队
 
@@ -42,17 +40,11 @@ X-Plane8发行，第一次支持[DVD安装](../Page/數碼多功能影音光碟.
 
 2017年3月30日 X-Plane11.00正式版发布
 
-2017年12月25日
-X-Plane11.20vr1发布，开始支持[VR设备](../Page/虚拟现实.md "wikilink")\[1\]
+2017年12月25日 X-Plane11.20vr1发布，开始支持[VR设备](../Page/虚拟现实.md "wikilink")\[1\]
 
 ## FAA认证
 
-*X-Plane* Level
-2以上的版本被[FAA认证](https://zh.wikipedia.org/wiki/FAA "wikilink")，可以用于真实和虚拟的飞行训练：使用[Flight
-Level
-Aviation和](https://zh.wikipedia.org/wiki/Flight_Level_Aviation "wikilink")[Simtrain](http://www.simtrain.net/)的步骤。（注意:*X-Plane*
-Level
-1的版本是不被[FAA认证的](https://zh.wikipedia.org/wiki/FAA "wikilink")）\[2\]
+*X-Plane* Level 2以上的版本被[FAA认证](https://zh.wikipedia.org/wiki/FAA "wikilink")，可以用于真实和虚拟的飞行训练：使用[Flight Level Aviation和](https://zh.wikipedia.org/wiki/Flight_Level_Aviation "wikilink")[Simtrain](http://www.simtrain.net/)的步骤。（注意:*X-Plane* Level 1的版本是不被[FAA认证的](https://zh.wikipedia.org/wiki/FAA "wikilink")）\[2\]
 
 ### 電腦系统需求
 
@@ -62,33 +54,17 @@ Level
 
   - [Official site](http://www.x-plane.com)
   - [X-Plane中文网](http://www.x-plane.org.cn)
-  - [Plugin SDK Home Page](http://www.xsquawkbox.net/xpsdk/phpwiki/)
-    Software Development Kit to make plug-ins
-  - [X-Plane
-    Gateway](https://web.archive.org/web/20081217163720/http://www.xplanegateway.net/)
-    Comprehensive Links of X-Plane Community
-  - [X-Plane.org](http://www.x-plane.org/) Community resource for
-    downloads and forums
-  - [X-Plane.es](http://www.x-plane.es/) Spanish language X-Plane portal
-    offering news, downloads, links, and forums.
-  - [X-Plane Freeware
-    Project](https://web.archive.org/web/20090106105517/http://xplanefreeware.net/)
-    Community resource for forums, downloads and professional commercial
-    airliners.
+  - [Plugin SDK Home Page](http://www.xsquawkbox.net/xpsdk/phpwiki/) Software Development Kit to make plug-ins
+  - [X-Plane Gateway](https://web.archive.org/web/20081217163720/http://www.xplanegateway.net/) Comprehensive Links of X-Plane Community
+  - [X-Plane.org](http://www.x-plane.org/) Community resource for downloads and forums
+  - [X-Plane.es](http://www.x-plane.es/) Spanish language X-Plane portal offering news, downloads, links, and forums.
+  - [X-Plane Freeware Project](https://web.archive.org/web/20090106105517/http://xplanefreeware.net/) Community resource for forums, downloads and professional commercial airliners.
 
 ## 参考
 
 <references/>
 
-[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:飛行模擬遊戲](https://zh.wikipedia.org/wiki/Category:飛行模擬遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:飛行模擬遊戲](https://zh.wikipedia.org/wiki/Category:飛行模擬遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.
-2.  [Levels of the X-Plane
-    Simulator](http://www.x-plane.com/pg_levels.html)
+2.  [Levels of the X-Plane Simulator](http://www.x-plane.com/pg_levels.html)

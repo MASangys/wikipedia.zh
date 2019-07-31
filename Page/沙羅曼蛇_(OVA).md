@@ -1,16 +1,14 @@
-《**沙羅曼蛇**》（），是改編自日本遊戲公司[柯拿米所發行之橫向捲軸射擊遊戲](https://zh.wikipedia.org/wiki/柯拿米 "wikilink")《**[沙羅曼蛇](https://zh.wikipedia.org/wiki/沙羅曼蛇 "wikilink")**》的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[Studio
-Pierrot所製作](../Page/Studio_Pierrot.md "wikilink")，為《**沙羅曼蛇三部曲**》的首部曲，不過發行日期較《沙羅曼蛇二部曲》晚。於1988年11月30日發行[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，1989年3月21日發行影碟，[臺灣的](../Page/臺灣.md "wikilink")[霹靂衛星電視台以及](https://zh.wikipedia.org/wiki/霹靂衛星電視台 "wikilink")[衛視電影台都曾經播出](../Page/衛視電影台.md "wikilink")。
+《**沙羅曼蛇**》（），是改編自日本遊戲公司[柯拿米所發行之橫向捲軸射擊遊戲](https://zh.wikipedia.org/wiki/柯拿米 "wikilink")《**[沙羅曼蛇](https://zh.wikipedia.org/wiki/沙羅曼蛇 "wikilink")**》的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[Studio Pierrot所製作](../Page/Studio_Pierrot.md "wikilink")，為《**沙羅曼蛇三部曲**》的首部曲，不過發行日期較《沙羅曼蛇二部曲》晚。於1988年11月30日發行[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，1989年3月21日發行影碟，[臺灣](../Page/臺灣.md "wikilink")的[霹靂衛星電視台以及](https://zh.wikipedia.org/wiki/霹靂衛星電視台 "wikilink")[衛視電影台](../Page/衛視電影台.md "wikilink")都曾經播出。
 
 ## 劇情概要
 
-Gradius星的**馬克貝因**主席所搭乘的[太空船被不名的](https://zh.wikipedia.org/wiki/太空船 "wikilink")[宇宙氣團吸入後](../Page/宇宙.md "wikilink")，便失去了連絡與行蹤。Gradius軍派遣**丹恩**、**史蒂芬妮**（麥克貝因主席的女兒）、**艾迪**三名駕駛前去失蹤地點調查。雖然沒有發現失蹤的太空船，但卻發現了一個逃生艇上的搭乘員**帕歐拉**。
+Gradius星的**馬克貝因**主席所搭乘的[太空船被不名的](https://zh.wikipedia.org/wiki/太空船 "wikilink")[宇宙](../Page/宇宙.md "wikilink")氣團吸入後，便失去了連絡與行蹤。Gradius軍派遣**丹恩**、**史蒂芬妮**（麥克貝因主席的女兒）、**艾迪**三名駕駛前去失蹤地點調查。雖然沒有發現失蹤的太空船，但卻發現了一個逃生艇上的搭乘員**帕歐拉**。
 
 帕歐拉表示，她原本所居住的[星球被一個不明](https://zh.wikipedia.org/wiki/星球 "wikilink")[生命體](https://zh.wikipedia.org/wiki/生命體 "wikilink")「**Bacterion**」所毀滅，而她是該星球上的唯一生還者。她希望可以及時警告Gradius星球上的人們關於Bacterion的威脅。但是除了同樣是過去逃難至Gradius的艾迪之外，幾乎沒有人相信她所說的話。
 
 過不了多久，Bacterion果然開始向Gradius星接近了。Gradius星高層派遣丹恩、史蒂芬妮、艾迪三人前去偵查Bacterion軍團。在偵查的時候史蒂芬妮覺得自己似乎聽到了有人在呼喚她。而艾迪覺得事有蹊蹺，因此便獨自駕駛戰機前去深入調查並攻擊敵機，結果發現Bacterion軍的戰機似乎由某種核心控制著全軍的行動。但是艾迪卻也因此而構成了違反命令，而遭降級。
 
-過了一陣子之後，Bacterion軍團開始進攻Gradius星。在戰鬥的時候，史蒂芬妮再次聽見了父親在呼喚她，因此隨著聲音的引導而來到了敵軍母艦之內。丹恩也跟在史蒂芬妮的後方，一起來到了艦內。結果兩人發現，馬克貝因主席已經被改造成了Bacterion軍團的中樞控制機關「**電子腦**」（Cyber
-Brain）。馬克貝因要求女兒將他破壞，如此才能阻止Bacterion軍團的進攻，但是史蒂芬妮遲遲無法下手。
+過了一陣子之後，Bacterion軍團開始進攻Gradius星。在戰鬥的時候，史蒂芬妮再次聽見了父親在呼喚她，因此隨著聲音的引導而來到了敵軍母艦之內。丹恩也跟在史蒂芬妮的後方，一起來到了艦內。結果兩人發現，馬克貝因主席已經被改造成了Bacterion軍團的中樞控制機關「**電子腦**」（Cyber Brain）。馬克貝因要求女兒將他破壞，如此才能阻止Bacterion軍團的進攻，但是史蒂芬妮遲遲無法下手。
 
 同時在Gradius星上，帕歐拉告訴被降級的艾迪，Bacterion軍團中樞控制機關的所在位置就在Gradius上。因此艾迪駕駛戰機，帶著帕歐拉前去尋找Bacterion軍團中樞控制機關所在的確切位置。
 
@@ -81,15 +79,9 @@ Brain）。馬克貝因要求女兒將他破壞，如此才能阻止Bacterion軍
 
 ## 註記
 
-  - 本作品中的部分配樂改編自[宇宙巡航艦的背景音樂如](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")「Challenger
-    1985」(第一關的配樂)。
-  - [宇宙巡航艦的機體如超時空戰鬥機Vic](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")
-    Viper以及敵方主力戰艦Big
-    Core(在動畫中改為[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink"))都有於作品中登場。
+  - 本作品中的部分配樂改編自[宇宙巡航艦的背景音樂如](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")「Challenger 1985」(第一關的配樂)。
+  - [宇宙巡航艦的機體如超時空戰鬥機Vic](../Page/宇宙巡航艦_\(遊戲\).md "wikilink") Viper以及敵方主力戰艦Big Core(在動畫中改為[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink"))都有於作品中登場。
   - [遊戲中的最後關卡雖為要塞](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")，但是本作品改成了遊戲封面上的綠色戰艦，同時也是登場於「宇宙巡航艦Ⅱ：高弗的野望」最後一關的敵軍母艦。
   - 片尾的背景畫面改自於[遊戲中的最後關卡之背景畫面](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")。
 
-[Category:宇宙巡航艦系列](https://zh.wikipedia.org/wiki/Category:宇宙巡航艦系列 "wikilink")
-[Category:1988年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1988年日本OVA動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink")
+[Category:宇宙巡航艦系列](https://zh.wikipedia.org/wiki/Category:宇宙巡航艦系列 "wikilink") [Category:1988年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1988年日本OVA動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink")

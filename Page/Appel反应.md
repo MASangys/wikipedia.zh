@@ -10,11 +10,7 @@
 
 ## 反应机理
 
-首先三苯基膦与四氯化碳生成[鏻](../Page/鏻.md "wikilink")正离子和三氯甲基负离子[离子对](https://zh.wikipedia.org/wiki/离子对 "wikilink")，三氯甲基负离子从醇夺取质子，生成[氯仿](../Page/氯仿.md "wikilink")，同时醇转化为[烷氧负离子](https://zh.wikipedia.org/wiki/烷氧负离子 "wikilink")。烷氧负离子对鏻正离子进行[亲核取代](https://zh.wikipedia.org/wiki/亲核取代 "wikilink")，得到含
-P-O 键的中间体 (5)和氯离子，然后氯离子对
-(5)进行亲核进攻，产生[三苯基氧膦和产物氯代烃](https://zh.wikipedia.org/wiki/三苯基氧膦 "wikilink")
-(6)。如果以叔醇为底物，则最后一步生成氯代烃和三苯基氧膦为 [S<sub>N</sub>1
-机理](https://zh.wikipedia.org/wiki/SN1 "wikilink")。
+首先三苯基膦与四氯化碳生成[鏻](../Page/鏻.md "wikilink")正离子和三氯甲基负离子[离子对](https://zh.wikipedia.org/wiki/离子对 "wikilink")，三氯甲基负离子从醇夺取质子，生成[氯仿](../Page/氯仿.md "wikilink")，同时醇转化为[烷氧负离子](https://zh.wikipedia.org/wiki/烷氧负离子 "wikilink")。烷氧负离子对鏻正离子进行[亲核取代](https://zh.wikipedia.org/wiki/亲核取代 "wikilink")，得到含 P-O 键的中间体 (5)和氯离子，然后氯离子对 (5)进行亲核进攻，产生[三苯基氧膦和产物氯代烃](https://zh.wikipedia.org/wiki/三苯基氧膦 "wikilink") (6)。如果以叔醇为底物，则最后一步生成氯代烃和三苯基氧膦为 [S<sub>N</sub>1 机理](https://zh.wikipedia.org/wiki/SN1 "wikilink")。
 
 反应的推动力是固体三苯基氧膦的生成，它从反应混合物中分离出来。其中含有键能较强的 P=O 双键，利于反应进行。
 
@@ -33,8 +29,7 @@ P-O 键的中间体 (5)和氯离子，然后氯离子对
 
 ## 参考资料
 
-[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

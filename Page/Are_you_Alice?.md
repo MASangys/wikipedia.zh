@@ -1,6 +1,4 @@
-《**Are you
-Alice?**》（）是[日本](../Page/日本.md "wikilink")[剧本](../Page/剧本.md "wikilink")、小说家[二宮愛以](https://zh.wikipedia.org/wiki/二宮愛 "wikilink")[童话故事](https://zh.wikipedia.org/wiki/童话故事 "wikilink")《[爱丽丝梦游仙境](../Page/爱丽丝梦游仙境.md "wikilink")》和《[爱丽丝镜中奇遇](https://zh.wikipedia.org/wiki/爱丽丝镜中奇遇 "wikilink")》为背景而虚构的作品。系列[廣播劇CD由](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[IM自](https://zh.wikipedia.org/wiki/IM "wikilink")2005年8月13日开始发售，故事本篇完结于2006年12月31日，之后外传和周边作品也陆续出版。2011年4月17日，[Idea
-Factory開始發售以本作品為主線](../Page/Idea_Factory.md "wikilink")，適用於[PSP平臺的](https://zh.wikipedia.org/wiki/PSP "wikilink")[文字冒險遊戲](https://zh.wikipedia.org/wiki/文字冒險遊戲 "wikilink")。
+《**Are you Alice?**》（）是[日本](../Page/日本.md "wikilink")[剧本](../Page/剧本.md "wikilink")、小说家[二宮愛以](https://zh.wikipedia.org/wiki/二宮愛 "wikilink")[童话故事](https://zh.wikipedia.org/wiki/童话故事 "wikilink")《[爱丽丝梦游仙境](../Page/爱丽丝梦游仙境.md "wikilink")》和《[爱丽丝镜中奇遇](https://zh.wikipedia.org/wiki/爱丽丝镜中奇遇 "wikilink")》为背景而虚构的作品。系列[廣播劇CD由](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[IM自](https://zh.wikipedia.org/wiki/IM "wikilink")2005年8月13日开始发售，故事本篇完结于2006年12月31日，之后外传和周边作品也陆续出版。2011年4月17日，[Idea Factory開始發售以本作品為主線](../Page/Idea_Factory.md "wikilink")，適用於[PSP平臺的](https://zh.wikipedia.org/wiki/PSP "wikilink")[文字冒險遊戲](https://zh.wikipedia.org/wiki/文字冒險遊戲 "wikilink")。
 
 ## 故事简介
 
@@ -228,10 +226,4 @@ Factory開始發售以本作品為主線](../Page/Idea_Factory.md "wikilink")，
 
   - [官方網站](https://web.archive.org/web/20110305152330/http://imlabel.jp/alice/)
 
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Comic_ZERO-SUM](https://zh.wikipedia.org/wiki/Category:Comic_ZERO-SUM "wikilink")
-[Category:愛麗絲夢遊仙境題材作品](https://zh.wikipedia.org/wiki/Category:愛麗絲夢遊仙境題材作品 "wikilink")
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:Idea_Factory游戏](https://zh.wikipedia.org/wiki/Category:Idea_Factory游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
+[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Comic_ZERO-SUM](https://zh.wikipedia.org/wiki/Category:Comic_ZERO-SUM "wikilink") [Category:愛麗絲夢遊仙境題材作品](https://zh.wikipedia.org/wiki/Category:愛麗絲夢遊仙境題材作品 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:Idea_Factory游戏](https://zh.wikipedia.org/wiki/Category:Idea_Factory游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")

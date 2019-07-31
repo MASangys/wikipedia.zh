@@ -69,8 +69,7 @@
 
 -----
 
-映画「アンフェア the answer」公開記念特別番組 『WHO IS UNFAIR？ アンフェアなのは、誰？』 【放送日時】
-2011年9月17日(土) 28:00～28:55
+映画「アンフェア the answer」公開記念特別番組 『WHO IS UNFAIR？ アンフェアなのは、誰？』 【放送日時】 2011年9月17日(土) 28:00～28:55
 
 ## 得獎紀錄
 
@@ -84,32 +83,6 @@
   - [富士電視台介紹網頁](https://www.fujitv.co.jp/b_hp/unfair/)
   - [緯來日本台介紹網頁](http://japan.videoland.com.tw/channel/unfair/)
 
-[Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink")
-[Category:週五Prestige](https://zh.wikipedia.org/wiki/Category:週五Prestige "wikilink")
-[Category:2006年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年開播的日本電視劇集 "wikilink")
-[Category:2006年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2006年電視特別劇集 "wikilink")
-[Category:2010年代日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年代日本電視劇集 "wikilink")
-[Category:2011年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2011年電視特別劇集 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink")
-[Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink")
-[Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
-[Category:2007年日本電影](https://zh.wikipedia.org/wiki/Category:2007年日本電影 "wikilink")
-[Category:2011年日本電影](https://zh.wikipedia.org/wiki/Category:2011年日本電影 "wikilink")
-[Category:日本犯罪片](https://zh.wikipedia.org/wiki/Category:日本犯罪片 "wikilink")
-[Category:2000年代犯罪片](https://zh.wikipedia.org/wiki/Category:2000年代犯罪片 "wikilink")
-[Category:2010年代犯罪片](https://zh.wikipedia.org/wiki/Category:2010年代犯罪片 "wikilink")
-[Category:警察主角題材電影](https://zh.wikipedia.org/wiki/Category:警察主角題材電影 "wikilink")
-[Category:富士電視台製作的電影](https://zh.wikipedia.org/wiki/Category:富士電視台製作的電影 "wikilink")
-[Category:關西電視台製作的電影](https://zh.wikipedia.org/wiki/Category:關西電視台製作的電影 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
-[Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink")
+[Category:關西電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:關西電視台週二晚間十點連續劇 "wikilink") [Category:週五Prestige](https://zh.wikipedia.org/wiki/Category:週五Prestige "wikilink") [Category:2006年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2006年開播的日本電視劇集 "wikilink") [Category:2006年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2006年電視特別劇集 "wikilink") [Category:2010年代日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年代日本電視劇集 "wikilink") [Category:2011年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2011年電視特別劇集 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink") [Category:日本犯罪劇](https://zh.wikipedia.org/wiki/Category:日本犯罪劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:2007年日本電影](https://zh.wikipedia.org/wiki/Category:2007年日本電影 "wikilink") [Category:2011年日本電影](https://zh.wikipedia.org/wiki/Category:2011年日本電影 "wikilink") [Category:日本犯罪片](https://zh.wikipedia.org/wiki/Category:日本犯罪片 "wikilink") [Category:2000年代犯罪片](https://zh.wikipedia.org/wiki/Category:2000年代犯罪片 "wikilink") [Category:2010年代犯罪片](https://zh.wikipedia.org/wiki/Category:2010年代犯罪片 "wikilink") [Category:警察主角題材電影](https://zh.wikipedia.org/wiki/Category:警察主角題材電影 "wikilink") [Category:富士電視台製作的電影](https://zh.wikipedia.org/wiki/Category:富士電視台製作的電影 "wikilink") [Category:關西電視台製作的電影](https://zh.wikipedia.org/wiki/Category:關西電視台製作的電影 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink")
 
-1.  [關東收視](https://zh.wikipedia.org/wiki/關東 "wikilink")，由[Video
-    Research社調查](../Page/Video_Research.md "wikilink")。
+1.  [關東收視](https://zh.wikipedia.org/wiki/關東 "wikilink")，由[Video Research社調查](../Page/Video_Research.md "wikilink")。

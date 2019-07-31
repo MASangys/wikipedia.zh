@@ -89,10 +89,4 @@
   -
   -
   -
-[Category:程小東電影](https://zh.wikipedia.org/wiki/Category:程小東電影 "wikilink")
-[Category:香港奇幻電影](https://zh.wikipedia.org/wiki/Category:香港奇幻電影 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:倩女幽魂系列電影](https://zh.wikipedia.org/wiki/Category:倩女幽魂系列電影 "wikilink")
-[Category:黃霑配樂電影](https://zh.wikipedia.org/wiki/Category:黃霑配樂電影 "wikilink")
-[Category:1991年恐怖片](https://zh.wikipedia.org/wiki/Category:1991年恐怖片 "wikilink")
+[Category:程小東電影](https://zh.wikipedia.org/wiki/Category:程小東電影 "wikilink") [Category:香港奇幻電影](https://zh.wikipedia.org/wiki/Category:香港奇幻電影 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:倩女幽魂系列電影](https://zh.wikipedia.org/wiki/Category:倩女幽魂系列電影 "wikilink") [Category:黃霑配樂電影](https://zh.wikipedia.org/wiki/Category:黃霑配樂電影 "wikilink") [Category:1991年恐怖片](https://zh.wikipedia.org/wiki/Category:1991年恐怖片 "wikilink")

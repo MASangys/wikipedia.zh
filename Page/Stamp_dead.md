@@ -1,4 +1,4 @@
-《**Stamp dead**》（スタンプ・デッド）是撰寫，插畫的[輕小說作品](../Page/輕小說.md "wikilink")。
+《**Stamp dead**》（スタンプ・デッド）是撰寫，插畫的[輕小說](../Page/輕小說.md "wikilink")作品。
 
 第一回史克威爾艾尼克斯小說大賞入選作品。小說投稿比賽時的標題為《》。得獎後由[史克威爾艾尼克斯出版](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")。
 
@@ -76,7 +76,7 @@
 
 ### 漫畫
 
-於2006年6月號至2006年10月號之間在《》連載，全五話。中文版由[東立出版社代理發行](../Page/東立出版社.md "wikilink")。
+於2006年6月號至2006年10月號之間在《》連載，全五話。中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理發行。
 
   - 日文版
 
@@ -97,7 +97,4 @@
   - [官方網站](http://www.square-enix.co.jp/magazine/wing/)
   - [史克威爾艾尼克斯小說大賞官方網站](http://www.square-enix.co.jp/magazine/prize_novel.html)
 
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink")
-[Category:月刊GANGAN_WING](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_WING "wikilink")
+[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink") [Category:月刊GANGAN_WING](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_WING "wikilink")

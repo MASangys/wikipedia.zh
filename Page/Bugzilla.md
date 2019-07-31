@@ -2,14 +2,9 @@
 
 ## 歷史
 
-Bugzilla最初是由Terry
-Weissma於1998年開發隸屬於[Mozilla.org的專案](../Page/Mozilla基金會.md "wikilink")，用於[網景通訊家](../Page/網景通訊家.md "wikilink")套件缺陷追蹤的一個[開放原始碼軟體](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。Bugzilla最初是用[Tcl](../Page/Tcl.md "wikilink")語言開發，後來Weissma決定用[Perl](../Page/Perl.md "wikilink")語言進行重寫，因為Perl在當時是一個很流行的語言，希望借此能有更多的人參與到這個專案裡來\[1\]。
+Bugzilla最初是由Terry Weissma於1998年開發隸屬於[Mozilla.org的專案](../Page/Mozilla基金會.md "wikilink")，用於[網景通訊家](../Page/網景通訊家.md "wikilink")套件缺陷追蹤的一個[開放原始碼軟體](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。Bugzilla最初是用[Tcl](../Page/Tcl.md "wikilink")語言開發，後來Weissma決定用[Perl](../Page/Perl.md "wikilink")語言進行重寫，因為Perl在當時是一個很流行的語言，希望借此能有更多的人參與到這個專案裡來\[1\]。
 
-Bugzilla
-2.0就是使用Perl語言開發的，並於第一版通過[CVS匿名發佈](../Page/協作版本系統.md "wikilink")。2000年4月，Terry
-Weissma將專案負責人職位交給了Tara
-Hernandez，之後Bugzilla的開發更依賴社群，2001年7月，由於Tara在Netscape的工作關係，Dave
-Miller接手專案負責人職位\[2\]。
+Bugzilla 2.0就是使用Perl語言開發的，並於第一版通過[CVS匿名發佈](../Page/協作版本系統.md "wikilink")。2000年4月，Terry Weissma將專案負責人職位交給了Tara Hernandez，之後Bugzilla的開發更依賴社群，2001年7月，由於Tara在Netscape的工作關係，Dave Miller接手專案負責人職位\[2\]。
 
 ## 参考文献
 
@@ -25,9 +20,7 @@ Miller接手專案負責人職位\[2\]。
 
 {{-}}
 
-[Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
-[Category:缺陷和问题跟踪软件](https://zh.wikipedia.org/wiki/Category:缺陷和问题跟踪软件 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:缺陷和问题跟踪软件](https://zh.wikipedia.org/wiki/Category:缺陷和问题跟踪软件 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.
 2.

@@ -8,7 +8,4 @@
 
   - [NBA球员资料](http://www.nba.com/playerfile/jr_giddens/index.html)
 
-[Category:非洲裔美國籃球運動員](https://zh.wikipedia.org/wiki/Category:非洲裔美國籃球運動員 "wikilink")
-[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink")
-[Category:波士顿凯尔特人队球员](https://zh.wikipedia.org/wiki/Category:波士顿凯尔特人队球员 "wikilink")
-[Category:纽约尼克斯队球员](https://zh.wikipedia.org/wiki/Category:纽约尼克斯队球员 "wikilink")
+[Category:非洲裔美國籃球運動員](https://zh.wikipedia.org/wiki/Category:非洲裔美國籃球運動員 "wikilink") [Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink") [Category:波士顿凯尔特人队球员](https://zh.wikipedia.org/wiki/Category:波士顿凯尔特人队球员 "wikilink") [Category:纽约尼克斯队球员](https://zh.wikipedia.org/wiki/Category:纽约尼克斯队球员 "wikilink")

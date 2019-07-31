@@ -1,42 +1,31 @@
-**星空傳奇 LIVE
-Concert**是[臺灣](../Page/臺灣.md "wikilink")歌手[楊宗緯](https://zh.wikipedia.org/wiki/楊宗緯 "wikilink")，於2008年5月17日，在[台北巨蛋舉辦第一次的個人售票演唱會的LIVE實錄專輯](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，收錄其中30首演唱會歌曲，與楊宗緯苦練舞技精彩花絮。其中包括有挑戰[賈斯汀舞蹈的](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink")《SEXY
-BACK》
-，[王力宏](../Page/王力宏.md "wikilink")的《龍的傳人》，[張國榮](../Page/張國榮.md "wikilink")的《Monica》，與[張學友的](https://zh.wikipedia.org/wiki/張學友 "wikilink")《天氣這麼熱》。
+**星空傳奇 LIVE Concert**是[臺灣](../Page/臺灣.md "wikilink")歌手[楊宗緯](https://zh.wikipedia.org/wiki/楊宗緯 "wikilink")，於2008年5月17日，在[台北巨蛋舉辦第一次的個人售票演唱會的LIVE實錄專輯](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，收錄其中30首演唱會歌曲，與楊宗緯苦練舞技精彩花絮。其中包括有挑戰[賈斯汀舞蹈的](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink")《SEXY BACK》 ，[王力宏](../Page/王力宏.md "wikilink")的《龍的傳人》，[張國榮](../Page/張國榮.md "wikilink")的《Monica》，與[張學友的](https://zh.wikipedia.org/wiki/張學友 "wikilink")《天氣這麼熱》。
 
 ## 完整演唱會曲目
 
   - 《讓》
   - 《誰會改變我》
-  - 《有時候沒時候》 {{〈}}原唱：[本多RuRu](../Page/本多RuRu.md "wikilink"){{〉}}
-    **（未收錄）**
-  - 《Because You're Good To
-    Me》{{〈}}原唱：[陳奕迅](../Page/陳奕迅.md "wikilink"){{〉}}
+  - 《有時候沒時候》 {{〈}}原唱：[本多RuRu](../Page/本多RuRu.md "wikilink"){{〉}} **（未收錄）**
+  - 《Because You're Good To Me》{{〈}}原唱：[陳奕迅](../Page/陳奕迅.md "wikilink"){{〉}}
   - 《Monica》 {{〈}}原唱：[張國榮](../Page/張國榮.md "wikilink"){{〉}}
-  - 《天氣這麼熱》
-    {{〈}}原唱：[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink"){{〉}}
+  - 《天氣這麼熱》 {{〈}}原唱：[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink"){{〉}}
   - 《美麗的稻穗》 {{〈}}原唱：[紀曉君](../Page/紀曉君.md "wikilink"){{〉}}
   - 《月夜愁》
   - 《》{{〈}}原唱：[桑田佳祐](../Page/桑田佳祐.md "wikilink"){{〉}}
   - 《阿牛》{{〈}}原唱：[陳奕迅](../Page/陳奕迅.md "wikilink"){{〉}}
   - 《多餘》
   - 《幸福的風》
-  - 《Sexy Back》
-    {{〈}}原唱：[賈斯汀](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink"){{〉}}
+  - 《Sexy Back》 {{〈}}原唱：[賈斯汀](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink"){{〉}}
   - 《龍的傳人》 {{〈}}原唱：[王力宏](../Page/王力宏.md "wikilink"){{〉}}
   - 《愛我的請舉手》{{〈}}原唱：[莫文蔚](../Page/莫文蔚.md "wikilink"){{〉}}
   - 《對愛渴望》
-  - 《Rehab》 {{〈}}原唱：[Amy Winehouse](../Page/艾米·怀恩豪斯.md "wikilink"){{〉}}
-    **（未收錄）**
+  - 《Rehab》 {{〈}}原唱：[Amy Winehouse](../Page/艾米·怀恩豪斯.md "wikilink"){{〉}} **（未收錄）**
   - 《永遠的微笑》{{〈}}原唱：[周璇](../Page/周璇.md "wikilink"){{〉}}
-  - 《You Don't Trust Me At
-    All》{{〈}}原唱：[范曉萱](../Page/范曉萱.md "wikilink"){{〉}}
+  - 《You Don't Trust Me At All》{{〈}}原唱：[范曉萱](../Page/范曉萱.md "wikilink"){{〉}}
   - 《你看＋重來好不好》
   - 《微風早晨》{{〈}}原唱：[馬兆駿](../Page/馬兆駿.md "wikilink"){{〉}}
   - 《回憶沙漠》
   - 《給未來的自己》{{〈}}原唱：[梁靜茹](../Page/梁靜茹.md "wikilink"){{〉}}
-  - 《藍眼睛》
-    {{〈}}原唱：[張韶涵](../Page/張韶涵.md "wikilink")與[蘇打綠](../Page/蘇打綠.md "wikilink"){{〉}}
-    **（未收錄）**(feat:[盧學叡](../Page/盧學叡.md "wikilink"))'''
+  - 《藍眼睛》 {{〈}}原唱：[張韶涵](../Page/張韶涵.md "wikilink")與[蘇打綠](../Page/蘇打綠.md "wikilink"){{〉}} **（未收錄）**(feat:[盧學叡](../Page/盧學叡.md "wikilink"))'''
   - 《流浪記》{{〈}}原唱：[紀曉君](../Page/紀曉君.md "wikilink"){{〉}}**(feat:盧學叡爸爸)**
   - 《遇見＋迴旋木馬的終端》{{〈}}原唱：[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")＋[梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink"){{〉}}
   - 《鴿子》
@@ -86,6 +75,4 @@ BACK》
   - [華納唱片官方網站](http://www.warnermusic.com.tw)
   - [華納DVD專輯介紹](https://web.archive.org/web/20080817101910/http://www.warnermusic.com.tw/media/media_album.asp?id=4202)
 
-[Category:楊宗緯音樂專輯](https://zh.wikipedia.org/wiki/Category:楊宗緯音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:楊宗緯音樂專輯](https://zh.wikipedia.org/wiki/Category:楊宗緯音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")

@@ -288,25 +288,17 @@ Laughing哥之教官</p></td>
 
 ## 參考資料
 
-  - [出道22年首度擔正
-    Laughing哥前傳搬上銀幕](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090402&sec_id=462&art_id=12592089)
-    蘋果日報，2009年4月2日
-  - [人氣急升強勢重登大銀幕
-    柴九狙擊Laughing哥](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090525&sec_id=462&art_id=12795863)
-    蘋果日報，2009年5月25日
-  - [Laughing哥大日子激咀妹贈興](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090528&sec_id=462&art_id=12810248)
-    蘋果日報，2009年5月28日
-  - [秋生鎮宇眾星拱照謝天華](https://web.archive.org/web/20090612103739/http://www.takungpao.com/news/09/05/28/UHK-1089155.htm)
-    大公報，2009年5月28日
-  - [眾大佬做陪襯，謝天華大晒](https://web.archive.org/web/20090611001156/http://epaper.nddaily.com/C/html/2009-05/28/content_804328.htm)
-    南方都市報，2009年5月28日
+  - [出道22年首度擔正 Laughing哥前傳搬上銀幕](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090402&sec_id=462&art_id=12592089) 蘋果日報，2009年4月2日
+  - [人氣急升強勢重登大銀幕 柴九狙擊Laughing哥](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090525&sec_id=462&art_id=12795863) 蘋果日報，2009年5月25日
+  - [Laughing哥大日子激咀妹贈興](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090528&sec_id=462&art_id=12810248) 蘋果日報，2009年5月28日
+  - [秋生鎮宇眾星拱照謝天華](https://web.archive.org/web/20090612103739/http://www.takungpao.com/news/09/05/28/UHK-1089155.htm) 大公報，2009年5月28日
+  - [眾大佬做陪襯，謝天華大晒](https://web.archive.org/web/20090611001156/http://epaper.nddaily.com/C/html/2009-05/28/content_804328.htm) 南方都市報，2009年5月28日
 
 ## 外部連結
 
   - [無綫電視官方網頁 - Laughing Gor之變節](http://b.tvb.com/laughing/)
 
-  - [無綫電視節目網頁 - Laughing
-    Gor之變節](http://programme.tvb.com/drama/turningpoint)
+  - [無綫電視節目網頁 - Laughing Gor之變節](http://programme.tvb.com/drama/turningpoint)
 
   - {{@movies|fthk91483421}}
 
@@ -316,11 +308,4 @@ Laughing哥之教官</p></td>
   -
   -
   -
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
-[Category:香港警匪片](https://zh.wikipedia.org/wiki/Category:香港警匪片 "wikilink")
-[Category:學警系列](https://zh.wikipedia.org/wiki/Category:學警系列 "wikilink")
-[Category:2000年代動作片](https://zh.wikipedia.org/wiki/Category:2000年代動作片 "wikilink")
-[Category:香港犯罪片](https://zh.wikipedia.org/wiki/Category:香港犯罪片 "wikilink")
-[Category:邱礼涛电影](https://zh.wikipedia.org/wiki/Category:邱礼涛电影 "wikilink")
-[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink")
-[Category:邵氏電影](https://zh.wikipedia.org/wiki/Category:邵氏電影 "wikilink")
+[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:香港警匪片](https://zh.wikipedia.org/wiki/Category:香港警匪片 "wikilink") [Category:學警系列](https://zh.wikipedia.org/wiki/Category:學警系列 "wikilink") [Category:2000年代動作片](https://zh.wikipedia.org/wiki/Category:2000年代動作片 "wikilink") [Category:香港犯罪片](https://zh.wikipedia.org/wiki/Category:香港犯罪片 "wikilink") [Category:邱礼涛电影](https://zh.wikipedia.org/wiki/Category:邱礼涛电影 "wikilink") [Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink") [Category:邵氏電影](https://zh.wikipedia.org/wiki/Category:邵氏電影 "wikilink")

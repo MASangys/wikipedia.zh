@@ -1,8 +1,4 @@
-[2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg](https://zh.wikipedia.org/wiki/File:2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg "fig:2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg")
-**Eee
-BOX**，[華碩電腦](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")（ASUSTeK
-Computer Inc.）繼推出[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[Eee
-PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")，於2008年7月30日以「**易學、易玩、亦迷你**」為訴求，推出全世界最小的[桌上電腦主機](https://zh.wikipedia.org/wiki/桌上電腦 "wikilink")。
+[2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg](https://zh.wikipedia.org/wiki/File:2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg "fig:2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg") **Eee BOX**，[華碩電腦](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")（ASUSTeK Computer Inc.）繼推出[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[Eee PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")，於2008年7月30日以「**易學、易玩、亦迷你**」為訴求，推出全世界最小的[桌上電腦主機](https://zh.wikipedia.org/wiki/桌上電腦 "wikilink")。
 
 ## 特色
 
@@ -20,9 +16,7 @@ PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")，於2008年7月30日以「
 <!-- end list -->
 
   -
-    Eee
-    BOX支援最新一代802.11n無線網路，傳輸速度較802.11g快6倍，涵蓋距離更是傳統的8倍寬廣，高速網路提供了絕佳的傳輸能力，還可做為數位家庭的數位媒體播放器（Digital
-    Media Adaptor, DMA）。
+    Eee BOX支援最新一代802.11n無線網路，傳輸速度較802.11g快6倍，涵蓋距離更是傳統的8倍寬廣，高速網路提供了絕佳的傳輸能力，還可做為數位家庭的數位媒體播放器（Digital Media Adaptor, DMA）。
 
 <!-- end list -->
 
@@ -68,7 +62,6 @@ PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")，於2008年7月30日以「
 
   - [華碩電腦](http://tw.ASUS.com/)
 
-[Category:個人電腦](https://zh.wikipedia.org/wiki/Category:個人電腦 "wikilink")
-[Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink")
+[Category:個人電腦](https://zh.wikipedia.org/wiki/Category:個人電腦 "wikilink") [Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink")
 
 1.  [華碩電腦：Eee BOX數位生活大不同。](http://tw.ASUS.com/news_show.aspx?id=12295)

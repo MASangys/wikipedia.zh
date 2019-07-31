@@ -44,9 +44,7 @@
 
 ## 將拉丁字母作為轉寫方案
 
-在各種語言的羅馬化方案中，通常代表[濁小舌擦音](../Page/濁小舌擦音.md "wikilink")。而就像
-，也可能是[咽音](../Page/咽音.md "wikilink")，這種情況出現於一些高加索語言和美國本土語言。在[印度-雅利安語支語言](https://zh.wikipedia.org/wiki/印度-雅利安語支 "wikilink")（包括[梵語和](https://zh.wikipedia.org/wiki/梵語 "wikilink")[印地語等](https://zh.wikipedia.org/wiki/印地語 "wikilink")）及[原始印歐語](../Page/原始印歐語.md "wikilink")的轉錄中，
-代表的是送氣的[濁軟顎塞音](../Page/濁軟顎塞音.md "wikilink")。
+在各種語言的羅馬化方案中，通常代表[濁小舌擦音](../Page/濁小舌擦音.md "wikilink")。而就像 ，也可能是[咽音](../Page/咽音.md "wikilink")，這種情況出現於一些高加索語言和美國本土語言。在[印度-雅利安語支語言](https://zh.wikipedia.org/wiki/印度-雅利安語支 "wikilink")（包括[梵語和](https://zh.wikipedia.org/wiki/梵語 "wikilink")[印地語等](https://zh.wikipedia.org/wiki/印地語 "wikilink")）及[原始印歐語](../Page/原始印歐語.md "wikilink")的轉錄中， 代表的是送氣的[濁軟顎塞音](../Page/濁軟顎塞音.md "wikilink")。
 
 ## 參看
 
@@ -56,9 +54,7 @@
 
 ## 參考文獻
 
-  - [An Introduction to
-    LSU](http://www.uyghurdictionary.org/excerpts/An%20Introduction%20to%20LSU.pdf)
-
+  - [An Introduction to LSU](http://www.uyghurdictionary.org/excerpts/An%20Introduction%20to%20LSU.pdf)
 
 {{-}}
 

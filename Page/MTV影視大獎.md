@@ -1,7 +1,4 @@
-**MTV影視大獎**（**MTV Movie & TV
-Awards**）是由[MTV所舉辦的年度影視頒獎典禮](https://zh.wikipedia.org/wiki/MTV "wikilink")。典禮中也穿插主持人和官方電影片段組成的電影惡搞片段和音樂表演。入圍名單由MTV電影大獎創辦人
-Joel Gallen 的 Tenth Planet
-Productions內的特別小組所選出。得獎者則由觀眾決定。目前的投票方式是透過MTV官網的線上投票。
+**MTV影視大獎**（**MTV Movie & TV Awards**）是由[MTV所舉辦的年度影視頒獎典禮](https://zh.wikipedia.org/wiki/MTV "wikilink")。典禮中也穿插主持人和官方電影片段組成的電影惡搞片段和音樂表演。入圍名單由MTV電影大獎創辦人 Joel Gallen 的 Tenth Planet Productions內的特別小組所選出。得獎者則由觀眾決定。目前的投票方式是透過MTV官網的線上投票。
 
 該獎原名**MTV電影大獎**（**MTV Movie Awards**），於2017年3月改名\[1\]。
 
@@ -20,9 +17,7 @@ Productions內的特別小組所選出。得獎者則由觀眾決定。目前的
 
 ### 生涯成就獎/MTV世代獎
 
-MTV曾三度將類似於[奧斯卡終身成就獎的生涯成就獎頒給科幻人物](https://zh.wikipedia.org/wiki/奧斯卡終身成就獎 "wikilink")：[哥吉拉](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")、[傑森和](../Page/面具傑森魔.md "wikilink")[丘巴卡](../Page/丘巴卡.md "wikilink")。這座帶有諷刺的獎項一直頒發至1997年，其他得獎人有[成龍](../Page/成龍.md "wikilink")與[理察·朗崔](../Page/理察·朗崔.md "wikilink")（Richard
-Roundtree）。1998年的[克林特·霍華德](https://zh.wikipedia.org/wiki/克林特·霍華德 "wikilink")（Clint
-Howard）是最後一位得獎者。該獎項在2005年以「MTV世代獎」現身，得獎人有2005年的[湯姆·克魯斯](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")、2006年的[金·凱瑞與](https://zh.wikipedia.org/wiki/金·凱瑞 "wikilink")[史派克·李](../Page/史派克·李.md "wikilink")、2007年[麥克·邁爾斯](../Page/麥克·邁爾斯.md "wikilink")和2008年[亞當·山德勒](../Page/亞當·山德勒.md "wikilink")。\[2\][班·史提勒](../Page/班·史提勒.md "wikilink")在2009年獲獎。[珊卓·布拉克](../Page/珊卓·布拉克.md "wikilink")在2010年獲獎\[3\][瑞絲·薇斯朋在](https://zh.wikipedia.org/wiki/瑞絲·薇斯朋 "wikilink")2011年獲獎。[強尼·戴普](../Page/強尼·戴普.md "wikilink")在2012年獲獎。[傑米·福克斯](../Page/傑米·福克斯.md "wikilink")在2013年獲獎。[馬克·華伯格](../Page/馬克·華伯格.md "wikilink")在2014年獲獎。[小勞勃·道尼](../Page/小勞勃·道尼.md "wikilink")在2015年獲獎。[威爾·史密斯](../Page/威爾·史密斯.md "wikilink")在2016年獲獎。2017年頒發給[玩命關頭系列](../Page/玩命關頭系列.md "wikilink")電影，是該獎項首次頒發給電影系列而非個人。[克里斯·普拉特在](https://zh.wikipedia.org/wiki/克里斯·普拉特 "wikilink")2018年獲獎。[巨石強森](../Page/巨石強森.md "wikilink")在2019年獲獎。
+MTV曾三度將類似於[奧斯卡終身成就獎的生涯成就獎頒給科幻人物](https://zh.wikipedia.org/wiki/奧斯卡終身成就獎 "wikilink")：[哥吉拉](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")、[傑森和](../Page/面具傑森魔.md "wikilink")[丘巴卡](../Page/丘巴卡.md "wikilink")。這座帶有諷刺的獎項一直頒發至1997年，其他得獎人有[成龍](../Page/成龍.md "wikilink")與[理察·朗崔](../Page/理察·朗崔.md "wikilink")（Richard Roundtree）。1998年的[克林特·霍華德](https://zh.wikipedia.org/wiki/克林特·霍華德 "wikilink")（Clint Howard）是最後一位得獎者。該獎項在2005年以「MTV世代獎」現身，得獎人有2005年的[湯姆·克魯斯](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")、2006年的[金·凱瑞與](https://zh.wikipedia.org/wiki/金·凱瑞 "wikilink")[史派克·李](../Page/史派克·李.md "wikilink")、2007年[麥克·邁爾斯](../Page/麥克·邁爾斯.md "wikilink")和2008年[亞當·山德勒](../Page/亞當·山德勒.md "wikilink")。\[2\][班·史提勒](../Page/班·史提勒.md "wikilink")在2009年獲獎。[珊卓·布拉克](../Page/珊卓·布拉克.md "wikilink")在2010年獲獎\[3\][瑞絲·薇斯朋在](https://zh.wikipedia.org/wiki/瑞絲·薇斯朋 "wikilink")2011年獲獎。[強尼·戴普](../Page/強尼·戴普.md "wikilink")在2012年獲獎。[傑米·福克斯](../Page/傑米·福克斯.md "wikilink")在2013年獲獎。[馬克·華伯格](../Page/馬克·華伯格.md "wikilink")在2014年獲獎。[小勞勃·道尼](../Page/小勞勃·道尼.md "wikilink")在2015年獲獎。[威爾·史密斯](../Page/威爾·史密斯.md "wikilink")在2016年獲獎。2017年頒發給[玩命關頭系列](../Page/玩命關頭系列.md "wikilink")電影，是該獎項首次頒發給電影系列而非個人。[克里斯·普拉特在](https://zh.wikipedia.org/wiki/克里斯·普拉特 "wikilink")2018年獲獎。[巨石強森](../Page/巨石強森.md "wikilink")在2019年獲獎。
 
 ## 年度
 
@@ -514,51 +509,25 @@ Howard）是最後一位得獎者。該獎項在2005年以「MTV世代獎」現�
   - [MTV電影大獎官方檔案](http://www.mtv.com/ontv/movieawards/)
   - [MTV電影大獎最佳改編趣味電影](http://www.mtv.com/overdrive/?id=1584648&vid=221042)
 
-[Category:MTV電影大獎](https://zh.wikipedia.org/wiki/Category:MTV電影大獎 "wikilink")
-[Category:美国電影獎項](https://zh.wikipedia.org/wiki/Category:美国電影獎項 "wikilink")
-[Category:MTV網路](https://zh.wikipedia.org/wiki/Category:MTV網路 "wikilink")
-[Category:1992年建立的奖项](https://zh.wikipedia.org/wiki/Category:1992年建立的奖项 "wikilink")
+[Category:MTV電影大獎](https://zh.wikipedia.org/wiki/Category:MTV電影大獎 "wikilink") [Category:美国電影獎項](https://zh.wikipedia.org/wiki/Category:美国電影獎項 "wikilink") [Category:MTV網路](https://zh.wikipedia.org/wiki/Category:MTV網路 "wikilink") [Category:1992年建立的奖项](https://zh.wikipedia.org/wiki/Category:1992年建立的奖项 "wikilink")
 
 1.
-2.  [Jim Carrey And Spike Lee Scoring Big Honors At MTV Movie
-    Awards](http://www.mtv.com/movies/news/articles/1533308/06012006/story.jhtml)
-3.  [2009 MTV Movie Awards Generation
-    Award](http://www.mtv.com/ontv/movieawards/2009/generation.jhtml)
-4.  [1992 MTV Movie Awards (1992)
-    (TV)](http://www.imdb.com/title/tt0275878/)
-5.  [1993 MTV Movie Awards (1993)
-    (TV)](http://www.imdb.com/title/tt0275879/)
-6.  [1994 MTV Movie Awards (1994)
-    (TV)](http://www.imdb.com/title/tt0280378/)
-7.  [1995 MTV Movie Awards (1995)
-    (TV)](http://www.imdb.com/title/tt0275880/)
-8.  [1996 MTV Movie Awards (1996)
-    (TV)](http://www.imdb.com/title/tt0275881/)
-9.  [1997 MTV Movie Awards (1997)
-    (TV)](http://www.imdb.com/title/tt0275882/)
-10. [1998 MTV Movie Awards (1998)
-    (TV)](http://www.imdb.com/title/tt0275883/)
-11. [1999 MTV Movie Awards (1999)
-    (TV)](http://www.imdb.com/title/tt0266212/)
-12. [2000 MTV Movie Awards (2000)
-    (TV)](http://www.imdb.com/title/tt0278884/)
-13. [2001 MTV Movie Awards (2001)
-    (TV)](http://www.imdb.com/title/tt0286409/)
-14. [2002 MTV Movie Awards (2002)
-    (TV)](http://www.imdb.com/title/tt0324947/)
-15. [2003 MTV Movie Awards (2003)
-    (TV)](http://www.imdb.com/title/tt0364913/)
-16. [2004 MTV Movie Awards (2004)
-    (TV)](http://www.imdb.com/title/tt0415469/)
-17. [2005 MTV Movie Awards (2005)
-    (TV)](http://www.imdb.com/title/tt0463853/)
-18. [2006 MTV Movie Awards (2006)
-    (TV)](http://www.imdb.com/title/tt0790596/)
-19. [2007 MTV Movie Awards (2007)
-    (TV)](http://www.imdb.com/title/tt0972757/)
-20. *Armagedd'NSync* is not a traditional movie spoof, but rather a
-    trailer parody created by an independent director [Russell
-    Bates](http://www.imdb.com/name/nm1034608/). However, according to
-    the [創作者網站](http://www.otisproductions.com/short-films.html)  (last
-    retrieved on 13 August 2006), it has been featured at MTV Movie
-    Awards 1998.
+2.  [Jim Carrey And Spike Lee Scoring Big Honors At MTV Movie Awards](http://www.mtv.com/movies/news/articles/1533308/06012006/story.jhtml)
+3.  [2009 MTV Movie Awards Generation Award](http://www.mtv.com/ontv/movieawards/2009/generation.jhtml)
+4.  [1992 MTV Movie Awards (1992) (TV)](http://www.imdb.com/title/tt0275878/)
+5.  [1993 MTV Movie Awards (1993) (TV)](http://www.imdb.com/title/tt0275879/)
+6.  [1994 MTV Movie Awards (1994) (TV)](http://www.imdb.com/title/tt0280378/)
+7.  [1995 MTV Movie Awards (1995) (TV)](http://www.imdb.com/title/tt0275880/)
+8.  [1996 MTV Movie Awards (1996) (TV)](http://www.imdb.com/title/tt0275881/)
+9.  [1997 MTV Movie Awards (1997) (TV)](http://www.imdb.com/title/tt0275882/)
+10. [1998 MTV Movie Awards (1998) (TV)](http://www.imdb.com/title/tt0275883/)
+11. [1999 MTV Movie Awards (1999) (TV)](http://www.imdb.com/title/tt0266212/)
+12. [2000 MTV Movie Awards (2000) (TV)](http://www.imdb.com/title/tt0278884/)
+13. [2001 MTV Movie Awards (2001) (TV)](http://www.imdb.com/title/tt0286409/)
+14. [2002 MTV Movie Awards (2002) (TV)](http://www.imdb.com/title/tt0324947/)
+15. [2003 MTV Movie Awards (2003) (TV)](http://www.imdb.com/title/tt0364913/)
+16. [2004 MTV Movie Awards (2004) (TV)](http://www.imdb.com/title/tt0415469/)
+17. [2005 MTV Movie Awards (2005) (TV)](http://www.imdb.com/title/tt0463853/)
+18. [2006 MTV Movie Awards (2006) (TV)](http://www.imdb.com/title/tt0790596/)
+19. [2007 MTV Movie Awards (2007) (TV)](http://www.imdb.com/title/tt0972757/)
+20. *Armagedd'NSync* is not a traditional movie spoof, but rather a trailer parody created by an independent director [Russell Bates](http://www.imdb.com/name/nm1034608/). However, according to the [創作者網站](http://www.otisproductions.com/short-films.html)  (last retrieved on 13 August 2006), it has been featured at MTV Movie Awards 1998.

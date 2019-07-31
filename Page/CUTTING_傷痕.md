@@ -1,6 +1,4 @@
-《**CUTTING
-傷痕**》（）是由[翅田大介撰寫](https://zh.wikipedia.org/wiki/翅田大介 "wikilink")、由插畫的[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")。第一屆[Novel
-JAPAN小說大獎得獎作品](https://zh.wikipedia.org/wiki/Novel_JAPAN小說大獎 "wikilink")。中文版由[東立出版社發行](../Page/東立出版社.md "wikilink")。
+《**CUTTING 傷痕**》（）是由[翅田大介撰寫](https://zh.wikipedia.org/wiki/翅田大介 "wikilink")、由插畫的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品。第一屆[Novel JAPAN小說大獎得獎作品](https://zh.wikipedia.org/wiki/Novel_JAPAN小說大獎 "wikilink")。中文版由[東立出版社](../Page/東立出版社.md "wikilink")發行。
 
 ## 故事簡介
 
@@ -19,8 +17,7 @@ JAPAN小說大獎得獎作品](https://zh.wikipedia.org/wiki/Novel_JAPAN小說�
 ## 登場人物
 
   -
-    「Case of
-    Mio」主角。就讀縣立高中一年級。興趣是讀書，知道西周澪也是如此後向她告白。交往後只有坐在一起看書而沒有任何進展。在第一次的約會時，命運因為澪被殺害而有很大的改變。
+    「Case of Mio」主角。就讀縣立高中一年級。興趣是讀書，知道西周澪也是如此後向她告白。交往後只有坐在一起看書而沒有任何進展。在第一次的約會時，命運因為澪被殺害而有很大的改變。
 
 <!-- end list -->
 
@@ -55,8 +52,7 @@ JAPAN小說大獎得獎作品](https://zh.wikipedia.org/wiki/Novel_JAPAN小說�
 <!-- end list -->
 
   -
-    「Case of
-    Tomoe」主角。比和也大一學年，就讀不同高中。小時後母親在車禍時為了保護他而不幸身亡，後來被父親疏遠，由伯父光瀨宗一郎撫養長大。成長經驗讓他認為自己沒有任何價值。
+    「Case of Tomoe」主角。比和也大一學年，就讀不同高中。小時後母親在車禍時為了保護他而不幸身亡，後來被父親疏遠，由伯父光瀨宗一郎撫養長大。成長經驗讓他認為自己沒有任何價值。
 
 <!-- end list -->
 
@@ -77,8 +73,7 @@ JAPAN小說大獎得獎作品](https://zh.wikipedia.org/wiki/Novel_JAPAN小說�
 <!-- end list -->
 
   -
-    業界最大規模的製藥會社・葛峰産業創業者一族的大小姐。暑假結束後轉學至和也就讀的縣立高中。本來的年齡應該比和也班上的人們大上一歲。由於「B.R.A.I.N.complex」再生時花費的時間過長所以留級。為此雙胞胎的弟弟在學級上反比她高了一學年。之後開始對和也提供澪的過去相關情報、抱持著怎樣的意圖接近和也與其理由是個謎團。此外與沙姬部
-    岬之間的關係十分險惡。原因不明。
+    業界最大規模的製藥會社・葛峰産業創業者一族的大小姐。暑假結束後轉學至和也就讀的縣立高中。本來的年齡應該比和也班上的人們大上一歲。由於「B.R.A.I.N.complex」再生時花費的時間過長所以留級。為此雙胞胎的弟弟在學級上反比她高了一學年。之後開始對和也提供澪的過去相關情報、抱持著怎樣的意圖接近和也與其理由是個謎團。此外與沙姬部 岬之間的關係十分險惡。原因不明。
 
 <!-- end list -->
 
@@ -101,5 +96,4 @@ JAPAN小說大獎得獎作品](https://zh.wikipedia.org/wiki/Novel_JAPAN小說�
 3.  Case of Mio Entanglement 2009年4月9日初版 ISBN 978-986-10-3437-9
 4.  Case of Mio Reincarnation 2009年7月9日初版 ISBN 978-986-10-3921-3
 
-[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink")
-[Category:HJ文庫](https://zh.wikipedia.org/wiki/Category:HJ文庫 "wikilink")
+[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink") [Category:HJ文庫](https://zh.wikipedia.org/wiki/Category:HJ文庫 "wikilink")

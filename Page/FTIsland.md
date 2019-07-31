@@ -1,11 +1,8 @@
-**FTISLAND**／FTIsland／F.T.Island（;，全稱**Five Treasure Island**，簡稱**FTI**
-/
-**FT**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂公司旗下的第一個](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（已退團）、貝斯[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、吉他[宋承炫和鼓手](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")[崔敏煥](../Page/崔敏煥.md "wikilink")。
+**FTISLAND**／FTIsland／F.T.Island（;，全稱**Five Treasure Island**，簡稱**FTI** / **FT**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂公司旗下的第一個](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（已退團）、貝斯[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、吉他[宋承炫和鼓手](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")[崔敏煥](../Page/崔敏煥.md "wikilink")。
 
 樂隊的應援物是小黃旗。歌迷被稱為「**Primadonna**」（義大利文），即「女主角」的意思，簡稱為「**PRI**」。官方應援物名稱：Pentastick。
 
-2007年6月7日正式出道，首張專輯《Cheerful
-Sensibility》在2007年6月8日發行，為當年韓國銷量排行第六的專輯，以新人之姿橫掃韓國10項音樂大獎。
+2007年6月7日正式出道，首張專輯《Cheerful Sensibility》在2007年6月8日發行，為當年韓國銷量排行第六的專輯，以新人之姿橫掃韓國10項音樂大獎。
 
 2009年1月，成員[吳元斌](../Page/吳元斌.md "wikilink")退出，隨後加入新成員[宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")。
 
@@ -15,8 +12,7 @@ Sensibility》在2007年6月8日發行，為當年韓國銷量排行第六的專
 
 2010年5月19日，在日本正式出道，其實在出道前曾以地下樂團身分在日本活動，亦已推出許多音樂作品。首張日本正規大碟2011年5月18日發行首週奪得[Oricon公信榜專輯週榜冠軍](../Page/2011年Oricon專輯週榜冠軍作品列表.md "wikilink")，讓FTISLAND成為[Oricon公信榜專輯週榜史上第一位憑首張專輯奪冠的外國男歌手](../Page/2011年Oricon專輯週榜冠軍作品列表.md "wikilink")。第二張日本正規專輯再次刷新個人首週最高销量纪錄日語唱片的紀錄。在韓國[金唱片獎連三年獲得年度ROCK獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，分別為2010年、2011年、2012年。
 
-2015年，發行首次由5位成員共同參與詞曲創作製作的專輯《I
-WILL》，是FTISLAND演藝事業中新的里程碑，在韓國音樂節目奪得3座冠軍，並且受到美國告示牌網站的專文推薦，稱讚有著強烈搖滾節奏的主打歌〈PRAY〉充滿靈魂，整張專輯更展現出FTISLAND不容置疑的音樂才華。
+2015年，發行首次由5位成員共同參與詞曲創作製作的專輯《I WILL》，是FTISLAND演藝事業中新的里程碑，在韓國音樂節目奪得3座冠軍，並且受到美國告示牌網站的專文推薦，稱讚有著強烈搖滾節奏的主打歌〈PRAY〉充滿靈魂，整張專輯更展現出FTISLAND不容置疑的音樂才華。
 
 2019年3月14日，崔鍾訓因扯入鄭俊英群組事件，公司發出聲明宣佈崔鍾訓永久退出組合\[1\]。
 
@@ -38,10 +34,7 @@ WILL》，是FTISLAND演藝事業中新的里程碑，在韓國音樂節目奪�
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2007 till:2019 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2007 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -127,8 +120,7 @@ LineData =
 
   - [I Will](../Page/I_WILL_\(FTIsland專輯\).md "wikilink")（2015年）
 
-  - [Where's the
-    Truth?](../Page/Where's_the_Truth?.md "wikilink")（2016年）
+  - [Where's the Truth?](../Page/Where's_the_Truth?.md "wikilink")（2016年）
 
   - [Over 10 Years](../Page/OVER_10_YEARS.md "wikilink")（2017年）
 
@@ -136,8 +128,7 @@ LineData =
 
   - （2009年）
 
-  - [Five Treasure
-    Island](../Page/FIVE_TREASURE_ISLAND.md "wikilink")（2011年）
+  - [Five Treasure Island](../Page/FIVE_TREASURE_ISLAND.md "wikilink")（2011年）
 
   - [20 \[Twenty](../Page/20［twenty］.md "wikilink")\]（2012年）
 
@@ -1282,11 +1273,7 @@ LineData =
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.
 2.  [STAYREAL 服飾代言](http://tw.istayreal.com/news/782)

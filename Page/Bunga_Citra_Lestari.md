@@ -2,23 +2,14 @@
 
 ## 演藝事業
 
-2005年Bunga Citra Lestari發行第一張電視原聲帶,使Bunga Citra
-Lestari在印尼演藝圈成名.2006年發行第一張個人專輯Cinta Pertama
-,銷售量非常可觀,Bunga Citra Lestari被譽為新生代女聲.Bunga Citra
-Lestari也嘗試演出戲劇與電影都非常成功.
+2005年Bunga Citra Lestari發行第一張電視原聲帶,使Bunga Citra Lestari在印尼演藝圈成名.2006年發行第一張個人專輯Cinta Pertama ,銷售量非常可觀,Bunga Citra Lestari被譽為新生代女聲.Bunga Citra Lestari也嘗試演出戲劇與電影都非常成功.
 
 ## 唱片
 
-  - [Ost.
-    Dealova](https://zh.wikipedia.org/wiki/Ost._Dealova "wikilink")
-    (2005)
-  - [Cinta
-    Pertama](https://zh.wikipedia.org/wiki/Cinta_Pertama "wikilink")
-    (2006)
-  - [The Best of](https://zh.wikipedia.org/wiki/The_Best_of "wikilink")
-    (2007)
-  - [Tentang
-    Kamu](https://zh.wikipedia.org/wiki/Tentang_Kamu "wikilink") (2008)
+  - [Ost. Dealova](https://zh.wikipedia.org/wiki/Ost._Dealova "wikilink") (2005)
+  - [Cinta Pertama](https://zh.wikipedia.org/wiki/Cinta_Pertama "wikilink") (2006)
+  - [The Best of](https://zh.wikipedia.org/wiki/The_Best_of "wikilink") (2007)
+  - [Tentang Kamu](https://zh.wikipedia.org/wiki/Tentang_Kamu "wikilink") (2008)
 
 ## 電影
 
@@ -37,9 +28,6 @@ Lestari也嘗試演出戲劇與電影都非常成功.
 
 ## 外部連結
 
-  - [Ari Lasso與Bunga Citra Lestari合唱歌曲《Aku Dan
-    Dirimu》（我和你）中文字幕版MV](http://www.youtube.com/watch?v=TzXa8_HqCSg)
+  - [Ari Lasso與Bunga Citra Lestari合唱歌曲《Aku Dan Dirimu》（我和你）中文字幕版MV](http://www.youtube.com/watch?v=TzXa8_HqCSg)
 
-[Category:印尼女歌手](https://zh.wikipedia.org/wiki/Category:印尼女歌手 "wikilink")
-[Category:印尼演员](https://zh.wikipedia.org/wiki/Category:印尼演员 "wikilink")
-[Category:雅加達人](https://zh.wikipedia.org/wiki/Category:雅加達人 "wikilink")
+[Category:印尼女歌手](https://zh.wikipedia.org/wiki/Category:印尼女歌手 "wikilink") [Category:印尼演员](https://zh.wikipedia.org/wiki/Category:印尼演员 "wikilink") [Category:雅加達人](https://zh.wikipedia.org/wiki/Category:雅加達人 "wikilink")

@@ -1,10 +1,8 @@
-**SolidWorks**是[达索系统](../Page/达索系统.md "wikilink")（Dassault Systemes
-S.A.）旗下的SolidWorks公司开发的，运行在[微软Windows平台下的](https://zh.wikipedia.org/wiki/微软Windows "wikilink")3D机械[CAD软件](../Page/计算机辅助设计.md "wikilink")。SolidWorks是热门的CAD软件之一\[1\]：截至2011年第一季度，全球约有150多万工程师，设计师和约15万家公司是SolidWorks的用户。2010年其总收入达到4.17亿美元。\[2\]台灣地區總代理為[實威國際](https://zh.wikipedia.org/wiki/實威國際 "wikilink")。
+**SolidWorks**是[达索系统](../Page/达索系统.md "wikilink")（Dassault Systemes S.A.）旗下的SolidWorks公司开发的，运行在[微软Windows平台下的](https://zh.wikipedia.org/wiki/微软Windows "wikilink")3D机械[CAD软件](../Page/计算机辅助设计.md "wikilink")。SolidWorks是热门的CAD软件之一\[1\]：截至2011年第一季度，全球约有150多万工程师，设计师和约15万家公司是SolidWorks的用户。2010年其总收入达到4.17亿美元。\[2\]台灣地區總代理為[實威國際](https://zh.wikipedia.org/wiki/實威國際 "wikilink")。
 
 ## 歷史
 
-SolidWorks公司成立於1993年12月，其總部設在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[麻州](https://zh.wikipedia.org/wiki/麻州 "wikilink")[康克爾郡](https://zh.wikipedia.org/wiki/康克爾郡 "wikilink")，西元1995年發表其第一款產品**SolidWorks
-95**，1997年被[达索系统](../Page/达索系统.md "wikilink")併購，SolidWorks公司現在是达索系统的子公司。
+SolidWorks公司成立於1993年12月，其總部設在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[麻州](https://zh.wikipedia.org/wiki/麻州 "wikilink")[康克爾郡](https://zh.wikipedia.org/wiki/康克爾郡 "wikilink")，西元1995年發表其第一款產品**SolidWorks 95**，1997年被[达索系统](../Page/达索系统.md "wikilink")併購，SolidWorks公司現在是达索系统的子公司。
 
 ## 市場
 
@@ -59,8 +57,7 @@ SolidWorks的CAD軟體，可分3種商業版和3種教育版。
 
 #### SOLIDWORKS Standard
 
-SOLIDWORKS Standard，包括工具種類：三維建模、裝配、給圖，板金，焊接等。它可以從其它2D和3D
-CAD程序中導入多種不同格式的文件。
+SOLIDWORKS Standard，包括工具種類：三維建模、裝配、給圖，板金，焊接等。它可以從其它2D和3D CAD程序中導入多種不同格式的文件。
 
   - Animator（AVI動態組裝模擬、動畫製作）
 
@@ -75,14 +72,12 @@ SOLIDWORKS Professional包括SOLIDWORKS的核心產品，另添加幾個-在程�
   - PDMWorks Workgroup（工程資料管理系統）
   - Task Scheduler（排程系統）
   - Toolbox（智慧零件庫）
-  - Utilities (Additional tools for selecting features and comparing
-    features and geometry)
+  - Utilities (Additional tools for selecting features and comparing features and geometry)
   - 3D Instant Website（網頁精靈）
 
 #### SOLIDWORKS Premium
 
-The SOLIDWORKS Premium bundle includes the SOLIDWORKS core product and
-Office Professional add-ins plus the following：
+The SOLIDWORKS Premium bundle includes the SOLIDWORKS core product and Office Professional add-ins plus the following：
 
   - SOLIDWORKS Simulation部分功能（最常用的設計驗證工具，提供對零件、組合件的應力、應變和位移分析功能）
   - Routing（Piping, Tubing, plus Wiring and Harness layout）
@@ -119,16 +114,12 @@ Office Professional add-ins plus the following：
   - SolidWorks 2001 Plus
   - SolidWorks 2003
   - SolidWorks 2004
-  - SolidWorks 2005（Native Windows x86-64 version was released from
-    SP4.0 onwards）
-  - SolidWorks 2006（A Beta version for Vista exists with limited
-    support.，SolidWorks 2006 SP? Starting to use activation by online）
+  - SolidWorks 2005（Native Windows x86-64 version was released from SP4.0 onwards）
+  - SolidWorks 2006（A Beta version for Vista exists with limited support.，SolidWorks 2006 SP? Starting to use activation by online）
   - SolidWorks 2007（PDM Enter
       -
-        [2013
-        Beta](https://zh.wikipedia.org/wiki/2013_Beta "wikilink")2012/6月發表
-        [2013 SP0](https://zh.wikipedia.org/wiki/2013_SP0 "wikilink")
-        2012/10月正式發布
+        [2013 Beta](https://zh.wikipedia.org/wiki/2013_Beta "wikilink")2012/6月發表
+        [2013 SP0](https://zh.wikipedia.org/wiki/2013_SP0 "wikilink") 2012/10月正式發布
   - SolidWorks 2014 -（2013年10月正式发布）
   - SolidWorks 2015 -（2014年9月正式发布）
   - SolidWorks 2016 -（2015年10月正式发布）
@@ -136,9 +127,7 @@ Office Professional add-ins plus the following：
 
 ## 建模方法
 
-[Roue_2CV_125_R15.jpg](https://zh.wikipedia.org/wiki/File:Roue_2CV_125_R15.jpg "fig:Roue_2CV_125_R15.jpg")
-[CAD_Modeling.gif](https://zh.wikipedia.org/wiki/File:CAD_Modeling.gif "fig:CAD_Modeling.gif")
-[Nockenwelle_ani.gif](https://zh.wikipedia.org/wiki/File:Nockenwelle_ani.gif "fig:Nockenwelle_ani.gif")
+[Roue_2CV_125_R15.jpg](https://zh.wikipedia.org/wiki/File:Roue_2CV_125_R15.jpg "fig:Roue_2CV_125_R15.jpg") [CAD_Modeling.gif](https://zh.wikipedia.org/wiki/File:CAD_Modeling.gif "fig:CAD_Modeling.gif") [Nockenwelle_ani.gif](https://zh.wikipedia.org/wiki/File:Nockenwelle_ani.gif "fig:Nockenwelle_ani.gif")
 
 SolidWorks是[Parasolid的基礎堅實建模](https://zh.wikipedia.org/wiki/Parasolid "wikilink")，並採用[參數化特徵為基礎的方法來建立模型和組件](https://zh.wikipedia.org/wiki/參數化 "wikilink")。
 
@@ -158,8 +147,7 @@ SolidWorks的開創能力的用戶回滾透過歷史的一部分，以便進行�
 
 ## 文件格式
 
-SolidWorks的文件，使用Microsoft結構化儲存文件格式。這意味著，有各種文件嵌入在每個slddrw、sldprt、sldasm檔案，包括BMP和metadata
-sub-files
+SolidWorks的文件，使用Microsoft結構化儲存文件格式。這意味著，有各種文件嵌入在每個slddrw、sldprt、sldasm檔案，包括BMP和metadata sub-files
 
 SolidWorks 2017 SP4.1支援下列文件格式：
 
@@ -168,37 +156,28 @@ SolidWorks 2017 SP4.1支援下列文件格式：
   - Assembly Files（\*.asm, \*.sldasm）,
   - Drawing Files（\*.drw, \*.slddrw）,
   - [DXF](../Page/DXF.md "wikilink")（\*.dxf），[DWG](../Page/.dwg.md "wikilink")（\*.dwg）,
-  - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")
-    Files（\*.psd）,
-  - [Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")
-    Files（\*.ai）,
+  - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink") Files（\*.psd）,
+  - [Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink") Files（\*.ai）,
   - Lib Feat Part（\*.lfp, \*sldlfp）,
   - Template（\*.prtdot, \*.asmdot, \*.drwdot）,
   - Parasolid（\*.x_t, \*.x_b, \*.smt_txt, \*xmt_bin）,
-  - [IGES](https://zh.wikipedia.org/wiki/IGES "wikilink")（\*.igs,
-    \*.iges）,
-  - [STEP](https://zh.wikipedia.org/wiki/ISO_10303 "wikilink")
-    AP203/214（\*.step, \*.stp）,
+  - [IGES](https://zh.wikipedia.org/wiki/IGES "wikilink")（\*.igs, \*.iges）,
+  - [STEP](https://zh.wikipedia.org/wiki/ISO_10303 "wikilink") AP203/214（\*.step, \*.stp）,
   - [IFC 2x3](https://zh.wikipedia.org/wiki/IFC_2x3 "wikilink")（\*.ifc),
   - [ACIS](../Page/ACIS.md "wikilink")（\*.sat）,VDAFS（\*.vda）,
   - VRML（\*.wrl）,STL（\*.stl）,
   - Catia Graphics（\*.cgr）,
   - Catia V5（\*.catpart,\*.catproduct）＊需要另外購買
-  - [ProEngineer](https://zh.wikipedia.org/wiki/ProEngineer "wikilink")
-    Part（\*.prt, \*.prt.\*, \*.xpr）,
-  - [ProEngineer](https://zh.wikipedia.org/wiki/ProEngineer "wikilink")
-    Assembly（\*.asm, \*.asm.\*, \*.xas）,
+  - [ProEngineer](https://zh.wikipedia.org/wiki/ProEngineer "wikilink") Part（\*.prt, \*.prt.\*, \*.xpr）,
+  - [ProEngineer](https://zh.wikipedia.org/wiki/ProEngineer "wikilink") Assembly（\*.asm, \*.asm.\*, \*.xas）,
   - [UGII](https://zh.wikipedia.org/wiki/UGII "wikilink")（\*.prt）,
-  - [Autodesk
-    Inventor](https://zh.wikipedia.org/wiki/Autodesk_Inventor "wikilink")
-    Part（\*.ipt）,
+  - [Autodesk Inventor](https://zh.wikipedia.org/wiki/Autodesk_Inventor "wikilink") Part（\*.ipt）,
   - Autodesk Assembly（\*.iam）,
   - Solid Edge Part（\*.par, \*.psm）,
   - Solid Edge Assembly（\*.asm）,
   - CADKEY（\*.prt, \*.ckd）,
   - Add-ins（\*.Dynamic-link_library|dll）,
-  - [IDF](https://zh.wikipedia.org/wiki/IDF "wikilink")（\*.emn, \*.brd,
-    \*.bdf, \*idb）。
+  - [IDF](https://zh.wikipedia.org/wiki/IDF "wikilink")（\*.emn, \*.brd, \*.bdf, \*idb）。
 
 ## SolidWorks的合作夥伴
 
@@ -209,16 +188,12 @@ SolidWorks的合作夥伴與具有黃金夥伴稱號的應用程式都是經由S
 ## 競爭對手
 
   - [CATIA](../Page/CATIA.md "wikilink")達索系統公司
-  - [UGS
-    NX西門子公司](https://zh.wikipedia.org/wiki/UGS_NX "wikilink")（原屬於UGS公司）
-  - [Creo
-    Parametric](../Page/Creo_Parametric.md "wikilink")（Pro/ENGINEER）PTC公司
-  - [AutoCAD](../Page/AutoCAD.md "wikilink")
-    [歐特克](https://zh.wikipedia.org/wiki/歐特克 "wikilink")
+  - [UGS NX西門子公司](https://zh.wikipedia.org/wiki/UGS_NX "wikilink")（原屬於UGS公司）
+  - [Creo Parametric](../Page/Creo_Parametric.md "wikilink")（Pro/ENGINEER）PTC公司
+  - [AutoCAD](../Page/AutoCAD.md "wikilink") [歐特克](https://zh.wikipedia.org/wiki/歐特克 "wikilink")
   - [Inventor歐特克](https://zh.wikipedia.org/wiki/Inventor "wikilink")
   - [Solid Edge西門子公司](../Page/Solid_Edge.md "wikilink")
-  - [SpaceClaim](https://zh.wikipedia.org/wiki/SpaceClaim "wikilink")
-    [SpaceClaim](https://zh.wikipedia.org/wiki/SpaceClaim "wikilink")
+  - [SpaceClaim](https://zh.wikipedia.org/wiki/SpaceClaim "wikilink") [SpaceClaim](https://zh.wikipedia.org/wiki/SpaceClaim "wikilink")
 
 ## 注释
 
@@ -226,15 +201,12 @@ SolidWorks的合作夥伴與具有黃金夥伴稱號的應用程式都是經由S
 
 ## 外部链接
 
-  - [Associative
-    engine](https://web.archive.org/web/20080507221305/http://en.wikipedia.org/wiki/Associative_engine)
-  - [Comparison of CAD software|Comparison of CAD
-    Software](http://en.wikipedia.org/wiki/Comparison_of_CAD_software)
+  - [Associative engine](https://web.archive.org/web/20080507221305/http://en.wikipedia.org/wiki/Associative_engine)
+  - [Comparison of CAD software|Comparison of CAD Software](http://en.wikipedia.org/wiki/Comparison_of_CAD_software)
 
 {{-}}
 
-[Category:三維圖像軟體](https://zh.wikipedia.org/wiki/Category:三維圖像軟體 "wikilink")
-[Category:電腦輔助設計軟體](https://zh.wikipedia.org/wiki/Category:電腦輔助設計軟體 "wikilink")
+[Category:三維圖像軟體](https://zh.wikipedia.org/wiki/Category:三維圖像軟體 "wikilink") [Category:電腦輔助設計軟體](https://zh.wikipedia.org/wiki/Category:電腦輔助設計軟體 "wikilink")
 
 1.  [SolidWorks公司概况-英文版-2011年4月30日更新](http://www.solidworks.com/sw/images/content/Other/Corp_FactSheet_Q1_043011.pdf)
 

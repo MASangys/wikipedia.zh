@@ -1,5 +1,4 @@
-「**No
-more**」為[堂本光一](../Page/堂本光一.md "wikilink")發行的單曲。此作為以電影角色名義發售的作品，也是米壽司的出道單曲。
+「**No more**」為[堂本光一](../Page/堂本光一.md "wikilink")發行的單曲。此作為以電影角色名義發售的作品，也是米壽司的出道單曲。
 
 ## 解說
 
@@ -16,17 +15,12 @@ CD封面有著和電影標題相關聯的[美國](https://zh.wikipedia.org/wiki/
 ### 通常盤
 
 1.  No more
-      - 作詞：[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink")、新美香 /
-        作曲：Thomas G:son
+      - 作詞：[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink")、新美香 / 作曲：Thomas G:son
       - 電影「銀幕版 壽司王子\! 〜紐約行〜」主題曲。
 2.  修行唄
       - 作詞：[堤幸彦](../Page/堤幸彦.md "wikilink") / 作曲：堤幸彦
-3.  No more
-    -[RYUKYUDISKO](https://zh.wikipedia.org/wiki/RYUKYUDISKO "wikilink")
-    ReCHAMPLOO-
-4.  No more -[Fantastic Plastic
-    Machine](https://zh.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")
-    remix-
+3.  No more -[RYUKYUDISKO](https://zh.wikipedia.org/wiki/RYUKYUDISKO "wikilink") ReCHAMPLOO-
+4.  No more -[Fantastic Plastic Machine](https://zh.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink") remix-
 
 ### 附DVD限定盤
 
@@ -37,12 +31,6 @@ CD封面有著和電影標題相關聯的[美國](https://zh.wikipedia.org/wiki/
 ## 関連項目
 
   - [堂本光一](../Page/堂本光一.md "wikilink")
-  - [銀幕版 壽司王子\!
-    〜紐約行〜](https://zh.wikipedia.org/wiki/銀幕版_壽司王子!_〜紐約行〜 "wikilink")
+  - [銀幕版 壽司王子\! 〜紐約行〜](https://zh.wikipedia.org/wiki/銀幕版_壽司王子!_〜紐約行〜 "wikilink")
 
-[Category:堂本光一歌曲](https://zh.wikipedia.org/wiki/Category:堂本光一歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:角色歌曲](https://zh.wikipedia.org/wiki/Category:角色歌曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:堂本光一歌曲](https://zh.wikipedia.org/wiki/Category:堂本光一歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:角色歌曲](https://zh.wikipedia.org/wiki/Category:角色歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink") [Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink")

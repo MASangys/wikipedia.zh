@@ -44,21 +44,15 @@ KV3的設計並不尋常，包含了王室墓穴的元素，但是又欠缺若�
 
 ## 參考書目
 
-  - Reeves, N & Wilkinson, R.H. <cite>The Complete Valley of the
-    Kings</cite>, 1996, Thames and Hudson, London
-  - Siliotti, A. <cite>Guide to the Valley of the Kings and to the
-    Theban Necropolises and Temples</cite>, 1996, A.A. Gaddis, Cairo
+  - Reeves, N & Wilkinson, R.H. <cite>The Complete Valley of the Kings</cite>, 1996, Thames and Hudson, London
+  - Siliotti, A. <cite>Guide to the Valley of the Kings and to the Theban Necropolises and Temples</cite>, 1996, A.A. Gaddis, Cairo
 
 ## 外部連結
 
-  - [Theban Mapping Project:
-    KV3](https://web.archive.org/web/20120805192435/http://www.thebanmappingproject.com/sites/browse_tomb_817.html)
+  - [Theban Mapping Project: KV3](https://web.archive.org/web/20120805192435/http://www.thebanmappingproject.com/sites/browse_tomb_817.html)
 
-[Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink")
-[Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
+[Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink") [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
 
-1.  Reeves, N & Wilkinson, R.H. (2008): The Complete Valley of the
-    Kings, P.161, London: Thames and Hudson, 2008. ISBN
-    978-0-500-28403-2
+1.  Reeves, N & Wilkinson, R.H. (2008): The Complete Valley of the Kings, P.161, London: Thames and Hudson, 2008. ISBN 978-0-500-28403-2
 
 2.

@@ -41,11 +41,8 @@ S-型是亮度中等（[反照率](../Page/反照率.md "wikilink")0.10至0.22�
 
     <div id="Bus2002">
 
-    S. J. Bus and R. P. Binzel *Phase II of the Small Main-belt Asteroid
-    Spectroscopy Survey: A feature-based taxonomy*, Icarus, Vol. 158,
-    pp. 146 (2002).
+    S. J. Bus and R. P. Binzel *Phase II of the Small Main-belt Asteroid Spectroscopy Survey: A feature-based taxonomy*, Icarus, Vol. 158, pp. 146 (2002).
 
     </div>
 
-[Category:小行星光譜分類](https://zh.wikipedia.org/wiki/Category:小行星光譜分類 "wikilink")
-[Category:S-型小行星](https://zh.wikipedia.org/wiki/Category:S-型小行星 "wikilink")
+[Category:小行星光譜分類](https://zh.wikipedia.org/wiki/Category:小行星光譜分類 "wikilink") [Category:S-型小行星](https://zh.wikipedia.org/wiki/Category:S-型小行星 "wikilink")

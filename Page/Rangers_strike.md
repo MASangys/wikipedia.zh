@@ -1,8 +1,4 @@
-**Rangers
-Strike**（）是[日本](../Page/日本.md "wikilink")Carddas公司發行的一個[交换卡片游戏](https://zh.wikipedia.org/wiki/交换卡片游戏 "wikilink")，最初是紀念[超級戰隊系列屆](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")30週年，在[東映](../Page/東映.md "wikilink")（Toei）批准下於2006年發行。及後，紙牌遊戲被擴展往其他特攝系列，包括2007年發行的[幪面超人](../Page/幪面超人.md "wikilink")系列（The
-Masked Rider
-Expansion）及2008年發行的[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")（Special
-Metal Edition）。2009年6月再將3個系列合併發行，名為**XGather**。
+**Rangers Strike**（）是[日本](../Page/日本.md "wikilink")Carddas公司發行的一個[交换卡片游戏](https://zh.wikipedia.org/wiki/交换卡片游戏 "wikilink")，最初是紀念[超級戰隊系列屆](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")30週年，在[東映](../Page/東映.md "wikilink")（Toei）批准下於2006年發行。及後，紙牌遊戲被擴展往其他特攝系列，包括2007年發行的[幪面超人](../Page/幪面超人.md "wikilink")系列（The Masked Rider Expansion）及2008年發行的[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")（Special Metal Edition）。2009年6月再將3個系列合併發行，名為**XGather**。
 
 ## 发行历史
 
@@ -82,20 +78,15 @@ Metal Edition）。2009年6月再將3個系列合併發行，名為**XGather**�
 ### 東映特攝英雄合併系列
 
   - 第1彈（2009年6月）
-    Booster全94+1張（閃卡12張+熨字14張+罕白卡18張+白卡50張+祕密閃卡1張），Starter
-    專有卡6張（閃卡3張+熨字3張）
+    Booster全94+1張（閃卡12張+熨字14張+罕白卡18張+白卡50張+祕密閃卡1張），Starter 專有卡6張（閃卡3張+熨字3張）
   - 第2彈
-    Booster全94+1張（閃卡12張+熨字14張+罕白卡18張+白卡50張+祕密閃卡1張），Starter
-    專有卡6張（閃卡3張+熨字3張）
+    Booster全94+1張（閃卡12張+熨字14張+罕白卡18張+白卡50張+祕密閃卡1張），Starter 專有卡6張（閃卡3張+熨字3張）
   - 第3彈
-    Booster全95+1張（熨字閃卡1張+閃卡12張+熨字14張+罕白卡18張+白卡50張+祕密閃卡1張），Starter
-    專有卡9張（閃卡3張+熨字3張+指令卡3張）
+    Booster全95+1張（熨字閃卡1張+閃卡12張+熨字14張+罕白卡18張+白卡50張+祕密閃卡1張），Starter 專有卡9張（閃卡3張+熨字3張+指令卡3張）
   - 第4彈
-    Booster全95+1張（熨字閃卡1張+閃卡12張+熨字14張+罕白卡18張+白卡50張+祕密閃卡1張），Starter
-    專有卡9張（閃卡3張+熨字3張+指令卡3張）
+    Booster全95+1張（熨字閃卡1張+閃卡12張+熨字14張+罕白卡18張+白卡50張+祕密閃卡1張），Starter 專有卡9張（閃卡3張+熨字3張+指令卡3張）
   - 第5彈
-    Booster全90+2張（閃卡14張+熨字16張+罕白卡15張+白卡45張+祕密閃卡2張），Starter
-    專有卡6張（閃卡3張+熨字3張）
+    Booster全90+2張（閃卡14張+熨字16張+罕白卡15張+白卡45張+祕密閃卡2張），Starter 專有卡6張（閃卡3張+熨字3張）
   - 第6彈
     Booster全102+2張（新卡65張+再錄卡50張+祕密閃卡2張）
 
@@ -112,13 +103,8 @@ Metal Edition）。2009年6月再將3個系列合併發行，名為**XGather**�
   - Earth Technology（）
     綠色。集合依靠人類科技戰鬥的的戰士勢力，是擅長擴充、控制指令域及回收Unit的勢力。
     **所屬戰隊**：[秘密战队五连者](https://zh.wikipedia.org/wiki/秘密战队五连者 "wikilink")、[JAKQ电击队](https://zh.wikipedia.org/wiki/JAKQ电击队 "wikilink")、[战斗狂热J](https://zh.wikipedia.org/wiki/战斗狂热J "wikilink")、[太阳战队太阳火神](https://zh.wikipedia.org/wiki/太阳战队太阳火神 "wikilink")、[大战队风镜Ｖ](https://zh.wikipedia.org/wiki/大战队风镜Ｖ "wikilink")、[科学战队炸药人](https://zh.wikipedia.org/wiki/科学战队炸药人 "wikilink")、[超兽战队生命战士](https://zh.wikipedia.org/wiki/超兽战队生命战士 "wikilink")、[高速战队涡轮连者](https://zh.wikipedia.org/wiki/高速战队涡轮连者 "wikilink")、[地球战队五人组](https://zh.wikipedia.org/wiki/地球战队五人组 "wikilink")、[鸟人战队喷射人](https://zh.wikipedia.org/wiki/鸟人战队喷射人 "wikilink")、[电磁战队百万连者](https://zh.wikipedia.org/wiki/电磁战队百万连者 "wikilink")、[救急战队GOGOＶ](https://zh.wikipedia.org/wiki/救急战队GOGOＶ "wikilink")、[轰轰战队冒险者](https://zh.wikipedia.org/wiki/轰轰战队冒险者 "wikilink")
-    **所屬幪面超人**：[假面骑士](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")、[假面骑士V3](https://zh.wikipedia.org/wiki/假面骑士V3 "wikilink")、[假面骑士X](https://zh.wikipedia.org/wiki/假面骑士X "wikilink")、[假面骑士Stronger](https://zh.wikipedia.org/wiki/假面骑士Stronger "wikilink")、假面骑士（新）、[假面骑士Super
-    1](https://zh.wikipedia.org/wiki/假面骑士Super_1 "wikilink")、[假面骑士ZX](https://zh.wikipedia.org/wiki/假面骑士ZX "wikilink")、[真・假面骑士
-    序章](https://zh.wikipedia.org/wiki/真・假面骑士_序章 "wikilink")、[假面骑士ZO](https://zh.wikipedia.org/wiki/假面骑士ZO "wikilink")、[假面骑士555](https://zh.wikipedia.org/wiki/假面骑士555 "wikilink")、[假面骑士THE
-    FIRST](https://zh.wikipedia.org/wiki/假面骑士THE_FIRST "wikilink")、[假面骑士THE
-    NEXT](https://zh.wikipedia.org/wiki/假面骑士THE_NEXT "wikilink")
-    **所屬金屬英雄**：超人機Metalder、機動刑事Jiban、特警Winspector、特救指令Solbrain、特捜Exceedraft、特捜Robo
-    Janperson、Blue SWAT
+    **所屬幪面超人**：[假面骑士](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")、[假面骑士V3](https://zh.wikipedia.org/wiki/假面骑士V3 "wikilink")、[假面骑士X](https://zh.wikipedia.org/wiki/假面骑士X "wikilink")、[假面骑士Stronger](https://zh.wikipedia.org/wiki/假面骑士Stronger "wikilink")、假面骑士（新）、[假面骑士Super 1](https://zh.wikipedia.org/wiki/假面骑士Super_1 "wikilink")、[假面骑士ZX](https://zh.wikipedia.org/wiki/假面骑士ZX "wikilink")、[真・假面骑士 序章](https://zh.wikipedia.org/wiki/真・假面骑士_序章 "wikilink")、[假面骑士ZO](https://zh.wikipedia.org/wiki/假面骑士ZO "wikilink")、[假面骑士555](https://zh.wikipedia.org/wiki/假面骑士555 "wikilink")、[假面骑士THE FIRST](https://zh.wikipedia.org/wiki/假面骑士THE_FIRST "wikilink")、[假面骑士THE NEXT](https://zh.wikipedia.org/wiki/假面骑士THE_NEXT "wikilink")
+    **所屬金屬英雄**：超人機Metalder、機動刑事Jiban、特警Winspector、特救指令Solbrain、特捜Exceedraft、特捜Robo Janperson、Blue SWAT
     **東映特攝系列**：
 
 <!-- end list -->
@@ -134,8 +120,7 @@ Metal Edition）。2009年6月再將3個系列合併發行，名為**XGather**�
   - Mystic Arms（）
     黃色。集合依靠神秘力量（氣、魔法或忍術）以及古代文明戰鬥的戰士勢力，是擅長令卡牌轉移壓倒對手的勢力。
     **所屬戰隊**：[电击战队变化人](https://zh.wikipedia.org/wiki/电击战队变化人 "wikilink")、[光战队蒙面人](https://zh.wikipedia.org/wiki/光战队蒙面人 "wikilink")、[五星战队大连者](https://zh.wikipedia.org/wiki/五星战队大连者 "wikilink")、[忍者战队隐连者](https://zh.wikipedia.org/wiki/忍者战队隐连者 "wikilink")、[超力战队王连者](https://zh.wikipedia.org/wiki/超力战队王连者 "wikilink")、[忍风战队破里剑者](https://zh.wikipedia.org/wiki/忍风战队破里剑者 "wikilink")、[魔法战队魔法连者](https://zh.wikipedia.org/wiki/魔法战队魔法连者 "wikilink")、[侍战队真剑者](https://zh.wikipedia.org/wiki/侍战队真剑者 "wikilink")
-    **所屬幪面超人**：[假面骑士BLACK](https://zh.wikipedia.org/wiki/假面骑士BLACK "wikilink")、[假面骑士BLACK
-    RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")、[假面骑士J](https://zh.wikipedia.org/wiki/假面骑士J "wikilink")、[假面骑士Kuuga](https://zh.wikipedia.org/wiki/假面骑士Kuuga "wikilink")、[假面骑士Agito](https://zh.wikipedia.org/wiki/假面骑士Agito "wikilink")、[假面骑士响鬼](https://zh.wikipedia.org/wiki/假面骑士响鬼 "wikilink")、[假面骑士Kiva](https://zh.wikipedia.org/wiki/假面骑士Kiva "wikilink")
+    **所屬幪面超人**：[假面骑士BLACK](https://zh.wikipedia.org/wiki/假面骑士BLACK "wikilink")、[假面骑士BLACK RX](https://zh.wikipedia.org/wiki/假面骑士BLACK_RX "wikilink")、[假面骑士J](https://zh.wikipedia.org/wiki/假面骑士J "wikilink")、[假面骑士Kuuga](https://zh.wikipedia.org/wiki/假面骑士Kuuga "wikilink")、[假面骑士Agito](https://zh.wikipedia.org/wiki/假面骑士Agito "wikilink")、[假面骑士响鬼](https://zh.wikipedia.org/wiki/假面骑士响鬼 "wikilink")、[假面骑士Kiva](https://zh.wikipedia.org/wiki/假面骑士Kiva "wikilink")
     **所屬金屬英雄**：世界忍者戦Jiraiya
 
 <!-- end list -->
@@ -154,7 +139,4 @@ Metal Edition）。2009年6月再將3個系列合併發行，名為**XGather**�
 
   - [Rangers Strike官方網站](http://www.carddas.com/rangers/)
 
-[Category:交換卡片遊戲](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲 "wikilink")
-[Category:東映特攝跨界作品](https://zh.wikipedia.org/wiki/Category:東映特攝跨界作品 "wikilink")
-[Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink")
-[Category:超古代文明題材作品](https://zh.wikipedia.org/wiki/Category:超古代文明題材作品 "wikilink")
+[Category:交換卡片遊戲](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲 "wikilink") [Category:東映特攝跨界作品](https://zh.wikipedia.org/wiki/Category:東映特攝跨界作品 "wikilink") [Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink") [Category:超古代文明題材作品](https://zh.wikipedia.org/wiki/Category:超古代文明題材作品 "wikilink")

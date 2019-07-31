@@ -37,5 +37,4 @@ nanaco卡支持QUICPay功能（也是一种充值支付卡），nanaco充值后�
 
   - [nanaco官方網站](http://www.nanaco-net.jp/)
 
-[Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink")
-[Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")
+[Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")

@@ -12,17 +12,9 @@ C\#允许[指针的有限功能的使用](https://zh.wikipedia.org/wiki/指针 "
 
 ### 数据类型
 
-java和C\#语言都有原始数据类型的概念，C\#/.NET语言中支持的原始数据（所有的，除了string类型）都是值类型。但C\#比java支持更多的原始数据类型，比如整型和十进制浮点数，尤其是java缺少无符号的BYTE类型，而C\#的BYTE类型默认是无符号的。在两种语言中string其值都是不可改变的一个类，但是特殊的是C\#为其提供了特殊的构造方法，同时C\#还可以像值类型一样的使用string的值就而不需要进行拆箱操作。
-既允许自动装箱和拆箱，把它们从对象类型转换为原始数据。实际上，这使得原始类型成为对象类型的子类型。在C＃中这也意味着，原始类型可以定义方法，如覆盖的对象的ToString()的方法。在Java中，单独的原始包装类提供这种功能。在Java中原始值不含隐式装箱和一个显示的类型转换都需要一个实例称为原始值的((Integer)42).toString()而不是C\#中调用实例
-42.ToString()。另一个不同之处在于，java使大量使用装箱类型(见下文)，这样可以让一个隐式拆箱转换(在C
-＃这需要一个类型转换)。由于这些隐性拆箱转换可能会抛出空指针例外,现代集成开发环境和编译器可以配置为突出它们。
-值类型 C\#允许程序员用关键字`struct`创建用户自定义的值类型([value
-type](https://zh.wikipedia.org/wiki/value_type "wikilink"))。
-从程序员的角度来讲，它们可以被看做轻量级的类。
+java和C\#语言都有原始数据类型的概念，C\#/.NET语言中支持的原始数据（所有的，除了string类型）都是值类型。但C\#比java支持更多的原始数据类型，比如整型和十进制浮点数，尤其是java缺少无符号的BYTE类型，而C\#的BYTE类型默认是无符号的。在两种语言中string其值都是不可改变的一个类，但是特殊的是C\#为其提供了特殊的构造方法，同时C\#还可以像值类型一样的使用string的值就而不需要进行拆箱操作。 既允许自动装箱和拆箱，把它们从对象类型转换为原始数据。实际上，这使得原始类型成为对象类型的子类型。在C＃中这也意味着，原始类型可以定义方法，如覆盖的对象的ToString()的方法。在Java中，单独的原始包装类提供这种功能。在Java中原始值不含隐式装箱和一个显示的类型转换都需要一个实例称为原始值的((Integer)42).toString()而不是C\#中调用实例 42.ToString()。另一个不同之处在于，java使大量使用装箱类型(见下文)，这样可以让一个隐式拆箱转换(在C ＃这需要一个类型转换)。由于这些隐性拆箱转换可能会抛出空指针例外,现代集成开发环境和编译器可以配置为突出它们。 值类型 C\#允许程序员用关键字`struct`创建用户自定义的值类型([value type](https://zh.wikipedia.org/wiki/value_type "wikilink"))。 从程序员的角度来讲，它们可以被看做轻量级的类。
 
-不同于一般类，而像标准基本类，这种值类型被分配在栈内存([stack](https://zh.wikipedia.org/wiki/stack-based_memory_allocation "wikilink"))而不是堆内存([heap](https://zh.wikipedia.org/wiki/heap-based_memory_allocation "wikilink"))。
-结构体通常有一系列的限制，因为结构体没有空值的概念并且可以在数组中无需初始化而直接使用，这种类型也有必须用0来初始化内存空间的默认构造函数。
-程序员只能定义另外的带有一个或多个参数的构造函数。
+不同于一般类，而像标准基本类，这种值类型被分配在栈内存([stack](https://zh.wikipedia.org/wiki/stack-based_memory_allocation "wikilink"))而不是堆内存([heap](https://zh.wikipedia.org/wiki/heap-based_memory_allocation "wikilink"))。 结构体通常有一系列的限制，因为结构体没有空值的概念并且可以在数组中无需初始化而直接使用，这种类型也有必须用0来初始化内存空间的默认构造函数。 程序员只能定义另外的带有一个或多个参数的构造函数。
 
 这也意味着结构体缺少一个虚方法表，正因为这样（还有固定的内存空间），它们不允许继承（但可以实现接口）。
 
@@ -52,8 +44,7 @@ C\#使用*部分类*允许一个类的定义分割在几个源文件中。每一
 
 C\#采用了另一种实现方式。它对泛型的支持是集成在虚拟执行系统中的，并且最早出现在.NET2.0中。这门语言后来就发展为在执行系统中支持基本泛型的前端。而在Java中，编译器提供了静态类型安全检查，但是，加之又有即时编译器（JIT）[加载来核实其正确性](https://zh.wikipedia.org/wiki/加载 "wikilink")。关于泛型类型的信息在运行时完全被保护起来了，并且允许完全的反射和实例化泛型类型。
 
-Java不允许用基本数据类型来声明为泛型类，然而C\#却允许不管是引用类型还是值类型被声明为泛型，包括基本数据类型。Java却允许被封装的类型作为泛型类的类型参数来使用(例如：用List<Integer>代替List<int>)，但是由于所有这一类的值需要在堆上分配而需付出一定的“代价”。
-在Java和C\#两者中，泛型的定义都使用了不同的引用类型来分享等效的底层代码，但是对C\#来说[公共语言运行时](https://zh.wikipedia.org/wiki/公共语言运行时 "wikilink")（CLR）为值类型的实例化动态的生成优化代码。
+Java不允许用基本数据类型来声明为泛型类，然而C\#却允许不管是引用类型还是值类型被声明为泛型，包括基本数据类型。Java却允许被封装的类型作为泛型类的类型参数来使用(例如：用List<Integer>代替List<int>)，但是由于所有这一类的值需要在堆上分配而需付出一定的“代价”。 在Java和C\#两者中，泛型的定义都使用了不同的引用类型来分享等效的底层代码，但是对C\#来说[公共语言运行时](https://zh.wikipedia.org/wiki/公共语言运行时 "wikilink")（CLR）为值类型的实例化动态的生成优化代码。
 
 ### 符号和特殊功能
 
@@ -137,14 +128,7 @@ Java不允许用基本数据类型来声明为泛型类，然而C\#却允许不�
 
 ### 数值应用
 
-多种语言特色的存在是为了充分的支持应用程序在数学和金融领域计算。\[1\]在这一类中，Java提供关键字[strictfp可以在代码段中使浮点运算严格执行](https://zh.wikipedia.org/wiki/strictfp "wikilink")。这可以保证运算在所有的平台上都返回相同精确的结果。
-与此不同C\#为确保十进制小数浮点运算准确，在 `decimal`类型中内嵌了这种机制。但在二进制小数浮点运算中舍弃了这种机制（`float`,
-`double`）。 在二进制所有的类型中描述十进制数因为不精确会存在舍入误差。所以在金融应用方面十进制小数类型的精确显得很重要。
-Java中类也提供了这些特性。任意精度小数算法 (`BigDecimal`) 和任意精度整数算法 ( )
-的类为其提供任意精度的数值运算。
-尽管有第三方实现了这些类，但是.NET框架(3.5)的现行版本当前并没有提供这些。（参见[Arbitrary-precision
-arithmetic](https://zh.wikipedia.org/wiki/Arbitrary-precision_arithmetic#Arbitrary-precision_software "wikilink")）
-Java不能为库定义类型（高精度小数、复数等原始类型）提供一个统一标准，为了达到这个目的，C\#提供了如下内容：
+多种语言特色的存在是为了充分的支持应用程序在数学和金融领域计算。\[1\]在这一类中，Java提供关键字[strictfp可以在代码段中使浮点运算严格执行](https://zh.wikipedia.org/wiki/strictfp "wikilink")。这可以保证运算在所有的平台上都返回相同精确的结果。 与此不同C\#为确保十进制小数浮点运算准确，在 `decimal`类型中内嵌了这种机制。但在二进制小数浮点运算中舍弃了这种机制（`float`, `double`）。 在二进制所有的类型中描述十进制数因为不精确会存在舍入误差。所以在金融应用方面十进制小数类型的精确显得很重要。 Java中类也提供了这些特性。任意精度小数算法 (`BigDecimal`) 和任意精度整数算法 ( ) 的类为其提供任意精度的数值运算。 尽管有第三方实现了这些类，但是.NET框架(3.5)的现行版本当前并没有提供这些。（参见[Arbitrary-precision arithmetic](https://zh.wikipedia.org/wiki/Arbitrary-precision_arithmetic#Arbitrary-precision_software "wikilink")） Java不能为库定义类型（高精度小数、复数等原始类型）提供一个统一标准，为了达到这个目的，C\#提供了如下内容：
 
   - 能够提供方便语法的运算符重载和索引（看下面）。
 
@@ -160,10 +144,7 @@ Java不能为库定义类型（高精度小数、复数等原始类型）提供�
 
 #### 运算符重载
 
-相比Java，C\#包含了许多可数的便利。其中，例如运算符重载、用户自定义类型，许多都被大批的C++程序员所熟悉。
-它还具有“外在的成员实现”，这样可以让一个类明确的实现一个接口中的方法，与自己类中的方法分离。或者为分别来自两个接口中，具有相同函数名和签名的函数提供不同的实现。
-C\#包含了“索引器”，它可以当作是一种特殊的运算符（像C++中的`operator[]`），或者是用 `get`/`set`
-访问器来访问类属性。一个索引器用`this[]`来标明， 并且需要至少一个索引参数，该参数可以为任意类别：
+相比Java，C\#包含了许多可数的便利。其中，例如运算符重载、用户自定义类型，许多都被大批的C++程序员所熟悉。 它还具有“外在的成员实现”，这样可以让一个类明确的实现一个接口中的方法，与自己类中的方法分离。或者为分别来自两个接口中，具有相同函数名和签名的函数提供不同的实现。 C\#包含了“索引器”，它可以当作是一种特殊的运算符（像C++中的`operator[]`），或者是用 `get`/`set` 访问器来访问类属性。一个索引器用`this[]`来标明， 并且需要至少一个索引参数，该参数可以为任意类别：
 
 ``` csharp
 myList[4] = 5;
@@ -171,24 +152,17 @@ string name = xmlNode.Attributes["name"];
 orders = customerMap[theCustomer];
 ```
 
-Java没有提供运算符重载是为了阻止特征滥用，还有为了语言的简单。\[3\]
-C\#允许运算符重载（以确定的几个限制来确保逻辑上的一致为条件），如果小心地使用，可以使代码更加简洁和易读。
+Java没有提供运算符重载是为了阻止特征滥用，还有为了语言的简单。\[3\] C\#允许运算符重载（以确定的几个限制来确保逻辑上的一致为条件），如果小心地使用，可以使代码更加简洁和易读。
 
 ### 方法
 
-在C\#中，方法在默认状态下是非虚拟的，如果希望得到一个虚方法则必须明确地用 virtual
-修饰符进行声明，而在Java当中，所有非静态、非私有的方法都是虚方法。虚方法保证被调用的总是该方法最近被重写的那个实现。但是，由于各个重载方法之间不能被正常地进行内联，而使得在方法调用上需要花费一个相当长的运行时间，并且需要通过虚方法列表进行间接的调用。然而，包括Sun公司所推荐的实现方法在内的一些Java虚拟机的实现方法，则会对最普遍被调用的那些虚方法执行内联。在java中，方法在默认状态下是虚拟的。（尽管他们能通过使用“final“修饰符来密封以使他不允许被覆盖）。没有什么办法让subclass或derived
-class以同样的名字定义一个新的、无关联的方法。
-这就会产生一个问题，即当一个基类由一个不同的人定义，这时就有可能出现一个与派生类中已经定义过的一些方法有着相同的名字和标签的新的版本的方法定义。在Java中，这种情况将意味着派生类中的同名方法会隐式的重写基类中的方法，尽管这种结果不是所有设计者的真正意图。为了防止这种版本问题，C\#中要求将派生类中需要重写虚方法的部分进行显示的声明。
-如果一个方法需要被重写，那么必须指定override修饰符。如果不希望进行方法重写，而且类的设计者仅仅希望引出一个新的方法以影射旧的方法，那么就必须含有new关键字。New关键字和override关键字也避免了由于基类中的protecte方法或public方法在它的某一个派生类中被使用时所带来的问题。Java中重新编译将导致编译器把派生类中的这种方法当做是基类方法的重写，而这可能并不是基类的开发者想要的。
+在C\#中，方法在默认状态下是非虚拟的，如果希望得到一个虚方法则必须明确地用 virtual 修饰符进行声明，而在Java当中，所有非静态、非私有的方法都是虚方法。虚方法保证被调用的总是该方法最近被重写的那个实现。但是，由于各个重载方法之间不能被正常地进行内联，而使得在方法调用上需要花费一个相当长的运行时间，并且需要通过虚方法列表进行间接的调用。然而，包括Sun公司所推荐的实现方法在内的一些Java虚拟机的实现方法，则会对最普遍被调用的那些虚方法执行内联。在java中，方法在默认状态下是虚拟的。（尽管他们能通过使用“final“修饰符来密封以使他不允许被覆盖）。没有什么办法让subclass或derived class以同样的名字定义一个新的、无关联的方法。 这就会产生一个问题，即当一个基类由一个不同的人定义，这时就有可能出现一个与派生类中已经定义过的一些方法有着相同的名字和标签的新的版本的方法定义。在Java中，这种情况将意味着派生类中的同名方法会隐式的重写基类中的方法，尽管这种结果不是所有设计者的真正意图。为了防止这种版本问题，C\#中要求将派生类中需要重写虚方法的部分进行显示的声明。 如果一个方法需要被重写，那么必须指定override修饰符。如果不希望进行方法重写，而且类的设计者仅仅希望引出一个新的方法以影射旧的方法，那么就必须含有new关键字。New关键字和override关键字也避免了由于基类中的protecte方法或public方法在它的某一个派生类中被使用时所带来的问题。Java中重新编译将导致编译器把派生类中的这种方法当做是基类方法的重写，而这可能并不是基类的开发者想要的。
 
-而C＃编译器将会把这种方法默认为new关键字已经被指定，但仍会对这种结果发出警告。为了部分地容纳这些版本问题， Java
-5.0中引入了@override注释，但为了保护它的向后兼容这种做法不会被当作是强制性的，所以它并不能阻止上述意外的重写情况。然而对于C＃中的override关键字，它能有助于确保基类中具有相同签名的方法仍然存在，并且能被正确的重写。
+而C＃编译器将会把这种方法默认为new关键字已经被指定，但仍会对这种结果发出警告。为了部分地容纳这些版本问题， Java 5.0中引入了@override注释，但为了保护它的向后兼容这种做法不会被当作是强制性的，所以它并不能阻止上述意外的重写情况。然而对于C＃中的override关键字，它能有助于确保基类中具有相同签名的方法仍然存在，并且能被正确的重写。
 
 #### 显式接口实现
 
-如果在多个接口中有一个方法（或C
-＃中的属性）具有相同名称和签名，当一个类在实现这些接口时这些重名的成员就会产生冲突。一个解决方法是通过为所有接口实现一个默认共同的方法。如果必须要分开来实现（因为这个方法确实要实现某个特殊的目的，或者是因为各个接口的返回值不一样）。C\#显示接口的实现将解决这一问题。在java中消除命名冲突的问题只能通过重构或者是定义更多的接口来避免。C\#的显示接口实现还能隐藏底层基础的类和接口，因此使得减少类和接口的复杂性。
+如果在多个接口中有一个方法（或C ＃中的属性）具有相同名称和签名，当一个类在实现这些接口时这些重名的成员就会产生冲突。一个解决方法是通过为所有接口实现一个默认共同的方法。如果必须要分开来实现（因为这个方法确实要实现某个特殊的目的，或者是因为各个接口的返回值不一样）。C\#显示接口的实现将解决这一问题。在java中消除命名冲突的问题只能通过重构或者是定义更多的接口来避免。C\#的显示接口实现还能隐藏底层基础的类和接口，因此使得减少类和接口的复杂性。
 
 #### 開包
 
@@ -196,19 +170,11 @@ class以同样的名字定义一个新的、无关联的方法。
 
 #### Lambdas和表达树
 
-C\#中的一个特殊类型称" lambdas"。 他们不是方法也不可能构成类接口的部分;
-他们只是在[功能模块中](https://zh.wikipedia.org/wiki/功能模块 "wikilink")。
-在lambda函数顶部可以定义的一个详细结构体称为表达树。
-不管他们是被当成执行函数还是数据结构都起决于编辑器类型，并且不管什么类型变量或参量都要赋值。
-Lambdas和表示树在[LINQ中都是重要角色](https://zh.wikipedia.org/wiki/LINQ "wikilink")。
-Java中没有以lambdas或表达树为特色的; 它的主要机制和方法定义是匿名内部类句法。
+C\#中的一个特殊类型称" lambdas"。 他们不是方法也不可能构成类接口的部分; 他们只是在[功能模块中](https://zh.wikipedia.org/wiki/功能模块 "wikilink")。 在lambda函数顶部可以定义的一个详细结构体称为表达树。 不管他们是被当成执行函数还是数据结构都起决于编辑器类型，并且不管什么类型变量或参量都要赋值。 Lambdas和表示树在[LINQ中都是重要角色](https://zh.wikipedia.org/wiki/LINQ "wikilink")。 Java中没有以lambdas或表达树为特色的; 它的主要机制和方法定义是匿名内部类句法。
 
 #### 部分方法
 
-与"部分类"相关 C\#允许部分方法在部分类之内指定。 一个部分方法是方法的一个故意声明并且在签名上有一定的约束。
-这些约束指定，如果任何类成员没有被定义，那么可以安全地删除。
-这个特点允许代码提供大量的监听点(像GoF设计模式中的"模板方法")而不用花费多余时间，如果另一个类成员在编译时没有引用它们。而
-Java没有对应的概念。
+与"部分类"相关 C\#允许部分方法在部分类之内指定。 一个部分方法是方法的一个故意声明并且在签名上有一定的约束。 这些约束指定，如果任何类成员没有被定义，那么可以安全地删除。 这个特点允许代码提供大量的监听点(像GoF设计模式中的"模板方法")而不用花费多余时间，如果另一个类成员在编译时没有引用它们。而 Java没有对应的概念。
 
 #### 扩展方法
 
@@ -216,108 +182,62 @@ Java没有对应的概念。
 
 #### 发生器方法
 
-发生器方法是一个C\#方法 ，这个方法被声明为返回`IEnumerable`,`IEnumerator`接口或者这些接口的一般版本，该方法可以用
-`yield`语法实现。它是一个无限的表现形式,
-编译器生成的补遗集，可大大减少所需的代码遍历或生成序列；虽然代码只是通过编译器生成。这个特征过去也经常被用作实现无穷大的序列，就像[斐波那契数列](../Page/斐波那契数列.md "wikilink")。java是没有相应的概念。
+发生器方法是一个C\#方法 ，这个方法被声明为返回`IEnumerable`,`IEnumerator`接口或者这些接口的一般版本，该方法可以用 `yield`语法实现。它是一个无限的表现形式, 编译器生成的补遗集，可大大减少所需的代码遍历或生成序列；虽然代码只是通过编译器生成。这个特征过去也经常被用作实现无穷大的序列，就像[斐波那契数列](../Page/斐波那契数列.md "wikilink")。java是没有相应的概念。
 
 ### 条件编译
 
-与Java不同，C\#使用预编译指令实现了条件编译的功能。它还提供了条件属性，使方法只有在定义了编译常量的时候才被执行。这样一来，只有在定义了DEBUG常量时，Debug.Assert()方法才会执行，断言成为了framework的特色。从1.4版本开始，Java开始提供断言，默认情况下在运行时被关闭，但也可以在调用JVM时使用
-"-enableassertions" 或者 "-ea" 打开。
+与Java不同，C\#使用预编译指令实现了条件编译的功能。它还提供了条件属性，使方法只有在定义了编译常量的时候才被执行。这样一来，只有在定义了DEBUG常量时，Debug.Assert()方法才会执行，断言成为了framework的特色。从1.4版本开始，Java开始提供断言，默认情况下在运行时被关闭，但也可以在调用JVM时使用 "-enableassertions" 或者 "-ea" 打开。
 
 ### 名字空间和源文件
 
-C\#的命名空间和C++类似，但不同于Java的包机制，C\#命名空间不会以任何方式依赖于源文件的位置，这与Java不同，Java的常规结构要求源文件的位置必须和包目录结构相符。
-这两种语言都允许引入类库( 例:import java.util.\*
-,Java方式)，在引入类库后，使用类时就可以直接通过类名引用。不同名字空间或包中可以具有相同名字的类，这样类在使用时可以通过全限定名来引用，或者通过不同的名字只引入必要的类。基于这个问题，Java允许引入单个类(例:import
-java.util.List)。C\#允许在引入类库时 使用语句: using Console =
-System.Console来为一个类库定义一个新名，它同样允许以using IntList =
-System.Collections.Generic.List<int>的形式，引入特殊类库。
+C\#的命名空间和C++类似，但不同于Java的包机制，C\#命名空间不会以任何方式依赖于源文件的位置，这与Java不同，Java的常规结构要求源文件的位置必须和包目录结构相符。 这两种语言都允许引入类库( 例:import java.util.\* ,Java方式)，在引入类库后，使用类时就可以直接通过类名引用。不同名字空间或包中可以具有相同名字的类，这样类在使用时可以通过全限定名来引用，或者通过不同的名字只引入必要的类。基于这个问题，Java允许引入单个类(例:import java.util.List)。C\#允许在引入类库时 使用语句: using Console = System.Console来为一个类库定义一个新名，它同样允许以using IntList = System.Collections.Generic.List<int>的形式，引入特殊类库。
 
-Java有允许使用某些或所有，具有较短名字的静态方法/领域的静态import句法在类中(例如，允许foo(bar)可以从另一个类中被静态的引进).C\#有静态类句法(不与Java的静态内在类混淆),制约类只包含静态方法。
-C\#
-3.0介绍的[引申方法允许用户静态地增加方法到类型](https://zh.wikipedia.org/wiki/引申方法 "wikilink")(比如，允许foo.bar
-的地方可以是研究foo的种类的一个引进的引申方法)。
+Java有允许使用某些或所有，具有较短名字的静态方法/领域的静态import句法在类中(例如，允许foo(bar)可以从另一个类中被静态的引进).C\#有静态类句法(不与Java的静态内在类混淆),制约类只包含静态方法。 C\# 3.0介绍的[引申方法允许用户静态地增加方法到类型](https://zh.wikipedia.org/wiki/引申方法 "wikilink")(比如，允许foo.bar 的地方可以是研究foo的种类的一个引进的引申方法)。
 
-[Sun
-Microsystems](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")
-软件公司的Java编译器要求，源文件的文件名必须匹配在它里面的唯一的公开类，而C\#允许在同一个文件的多公开类，并且投入制约。 C\#
-2.0和以后的版本允许类定义被分割成几个文件，通过使用在原始代码的关键字partial。
+[Sun Microsystems](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink") 软件公司的Java编译器要求，源文件的文件名必须匹配在它里面的唯一的公开类，而C\#允许在同一个文件的多公开类，并且投入制约。 C\# 2.0和以后的版本允许类定义被分割成几个文件，通过使用在原始代码的关键字partial。
 
 ### 异常处理
 
-Java支持检查异常(checked
-exception)。C＃中只支持非检查异常情况。检查异常强制程序员要么在方法中声明一个异常抛出，要么用try-catch来捕获异常。检查异常可以有助于良好的编程习惯，以确保所有的错误都得到处理。但是[Anders
-Hejlsberg](https://zh.wikipedia.org/wiki/Anders_Hejlsberg "wikilink")，C\#语言首席设计师，和其他人争辩说，他们都在一定程度上对Java进行了拓展但是它们没有被证明是有价值的除了几个程序中的小例子。有一个评论介绍在检查异常时鼓励程序员使用空的catch块,安静的吃掉异常而不是让异常传播到更高水平的常规的异常处理：catch
-(Exception e)
-{}.另一种对于检查异常的评论说一个新方法的执行可能会引起意想不到的检查异常被抛出，这是一个合同突破性变化。这可能发生在一个方法实现一个接口或者当一个方法的基本实现改变时，此接口仅声明有限的异常。为这种意料之外的的异常被抛出,一些程序员简单的声明这种方法能抛出任何类型的异常（“抛出异常”），这使检查异常的目的无法实现。不过在某些情况下，异常链（[exception
-chaining](https://zh.wikipedia.org/wiki/exception_chaining "wikilink")）能用于代替,捕获异常后再抛出一个异常异常.例如,如果一个对象访问数据库而不是文件时被改变,那么可以捕获
-异常并且作为异常重新抛出. 因为调用者也许并不需要知道对象内部的工作方式。
+Java支持检查异常(checked exception)。C＃中只支持非检查异常情况。检查异常强制程序员要么在方法中声明一个异常抛出，要么用try-catch来捕获异常。检查异常可以有助于良好的编程习惯，以确保所有的错误都得到处理。但是[Anders Hejlsberg](https://zh.wikipedia.org/wiki/Anders_Hejlsberg "wikilink")，C\#语言首席设计师，和其他人争辩说，他们都在一定程度上对Java进行了拓展但是它们没有被证明是有价值的除了几个程序中的小例子。有一个评论介绍在检查异常时鼓励程序员使用空的catch块,安静的吃掉异常而不是让异常传播到更高水平的常规的异常处理：catch (Exception e) {}.另一种对于检查异常的评论说一个新方法的执行可能会引起意想不到的检查异常被抛出，这是一个合同突破性变化。这可能发生在一个方法实现一个接口或者当一个方法的基本实现改变时，此接口仅声明有限的异常。为这种意料之外的的异常被抛出,一些程序员简单的声明这种方法能抛出任何类型的异常（“抛出异常”），这使检查异常的目的无法实现。不过在某些情况下，异常链（[exception chaining](https://zh.wikipedia.org/wiki/exception_chaining "wikilink")）能用于代替,捕获异常后再抛出一个异常异常.例如,如果一个对象访问数据库而不是文件时被改变,那么可以捕获 异常并且作为异常重新抛出. 因为调用者也许并不需要知道对象内部的工作方式。
 
-在处理`try-finally`的声明时两种语言也是有差别的。即使`try`块包含像`throw`和`return`的control-passing语句，finally块也总是要执行。在Java中，这可能导致意外的行为，如果try块最后有`return`语句返回一个值，然后执行后的`finally`块也会有`return`语句返回一个不同的值。
-C\#利用禁止任何像return或者break的control-passing语句来解决这一问题。 使用try-finally
-块的普遍原因是为了保护管理代码的资源，所以珍贵的资源被保证在finally
-块中发布。作为句法速记为共同的设想的using语句在C\#中处于显著地位,其中using的对象的Dispose()方法总是被调用。
+在处理`try-finally`的声明时两种语言也是有差别的。即使`try`块包含像`throw`和`return`的control-passing语句，finally块也总是要执行。在Java中，这可能导致意外的行为，如果try块最后有`return`语句返回一个值，然后执行后的`finally`块也会有`return`语句返回一个不同的值。 C\#利用禁止任何像return或者break的control-passing语句来解决这一问题。 使用try-finally 块的普遍原因是为了保护管理代码的资源，所以珍贵的资源被保证在finally 块中发布。作为句法速记为共同的设想的using语句在C\#中处于显著地位,其中using的对象的Dispose()方法总是被调用。
 
 #### Finally块和未捕捉的异常
 
-(C\# 派生的异常特点)对CLI（公共语言基础）的ECMA（欧洲电脑厂商协会）标准指出在堆栈的两次搜索中处理异常。[ECMA-355 4th
-Edition 12.4.2.5 Overview of exception
-handling](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-335.pdf)首次通过尝试找到一个匹配的
-catch 块，如果没有找到就终止该程序。只有当找到匹配的 catch
-块时，才会在第二步执行，从而运行干预的finally块。这使得问题在程序状态还没第一次被finally块修改前被诊断；它也消除了当程序在未知状态下，finally块可能有副作用的风险（例如，外部数据的损坏或进一步引发的异常）。
+(C\# 派生的异常特点)对CLI（公共语言基础）的ECMA（欧洲电脑厂商协会）标准指出在堆栈的两次搜索中处理异常。[ECMA-355 4th Edition 12.4.2.5 Overview of exception handling](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-335.pdf)首次通过尝试找到一个匹配的 catch 块，如果没有找到就终止该程序。只有当找到匹配的 catch 块时，才会在第二步执行，从而运行干预的finally块。这使得问题在程序状态还没第一次被finally块修改前被诊断；它也消除了当程序在未知状态下，finally块可能有副作用的风险（例如，外部数据的损坏或进一步引发的异常）。
 
 Java语言规范中指出finally块中的代码总会执行即使异常没有被捕获，并且举出实例代码演示期待的结果。\[4\]
 
 ### 底层的代码
 
-[Java Native
-Interface](https://zh.wikipedia.org/wiki/Java_native_interface "wikilink")
-(JNI)的特征是允许Java代码调用非Java代码。然而，JNI要求被调用的代码必须遵循Java提供的一些在类型和名称上的约定。这种方法是为了适应Java和其他代码更好的交互。这些代码必须是非Java代码，常常是C或者C++代码。[JNA提供一种更加方便的Java代码与其他代码的交互](https://zh.wikipedia.org/wiki/JNA "wikilink")，仅仅需要写一些Java编写的接口代码，但是性能会付出一点代价。
+[Java Native Interface](https://zh.wikipedia.org/wiki/Java_native_interface "wikilink") (JNI)的特征是允许Java代码调用非Java代码。然而，JNI要求被调用的代码必须遵循Java提供的一些在类型和名称上的约定。这种方法是为了适应Java和其他代码更好的交互。这些代码必须是非Java代码，常常是C或者C++代码。[JNA提供一种更加方便的Java代码与其他代码的交互](https://zh.wikipedia.org/wiki/JNA "wikilink")，仅仅需要写一些Java编写的接口代码，但是性能会付出一点代价。
 
-另外，第三方类库为JAVA－COM提供桥接，像[JACOB](http://jacob-project.sourceforge.net/)
-([自由软件](../Page/自由软件.md "wikilink"))，[J-Integra for
-COM](http://j-integra.intrinsyc.com/products/com/)
-([专有软件](../Page/专有软件.md "wikilink"))
+另外，第三方类库为JAVA－COM提供桥接，像[JACOB](http://jacob-project.sourceforge.net/) ([自由软件](../Page/自由软件.md "wikilink"))，[J-Integra for COM](http://j-integra.intrinsyc.com/products/com/) ([专有软件](../Page/专有软件.md "wikilink"))
 
 .NET平台调用([P/Invoke](https://zh.wikipedia.org/wiki/Platform_Invocation_Services "wikilink"))通过允许从C\#调用微软称之为[不受托管代码提供同样的的功能](https://zh.wikipedia.org/wiki/不受托管代码 "wikilink")，通过元数据属性程序员可以精确的控制如何调用参数和结果，因此可以避免额外编译代码的需要。平台调用允许几乎完全的对程序的API的访问(像Win32或POSIX)但是限制对c++类库的访问。另外，.NET框架也提供一个.NET－COM网桥，允许对COM组件的的访问就像是访问本地的.NET组件。
 
-C＃中还允许程序员禁用正常类型检查和CLR中其他的安全保证功能
-，这样就使得指针变量的使用成为可能。当此功能被使用时，程序员必须用unsafe关键字将相应的代码段进行标记。JNI
-，P/Invoke，和“unsafe”的代码段是相当冒险的部分，它揭露了可能的安全漏洞和应用不稳定。使用unsafe的一个优势是，通过P/Invoke或JNI运行于托管运行环境中的代码是让程序员在比较熟悉的C
-＃环境中继续工作以完成某些任务，否则将需要调用非托管代码。使用不安全代码的程序或程序集必须通过进行特殊的转换才能被编译并且将依此被标记。这使得运行时环境在潜在地执行有危险的代码前要采取特别的预防措施。
+C＃中还允许程序员禁用正常类型检查和CLR中其他的安全保证功能 ，这样就使得指针变量的使用成为可能。当此功能被使用时，程序员必须用unsafe关键字将相应的代码段进行标记。JNI ，P/Invoke，和“unsafe”的代码段是相当冒险的部分，它揭露了可能的安全漏洞和应用不稳定。使用unsafe的一个优势是，通过P/Invoke或JNI运行于托管运行环境中的代码是让程序员在比较熟悉的C ＃环境中继续工作以完成某些任务，否则将需要调用非托管代码。使用不安全代码的程序或程序集必须通过进行特殊的转换才能被编译并且将依此被标记。这使得运行时环境在潜在地执行有危险的代码前要采取特别的预防措施。
 
 ## 参考文献
 
 ## 外部連結
 
-  - [Contrasting C\# and Java
-    Syntax](http://www.ondotnet.com/pub/a/dotnet/2001/06/14/csharp_4_java.html)
-  - [Java vs. C\# - Code for Code
-    Comparison](http://www.javacamp.org/javavscsharp/)
-  - [Nine Language Performance
-    Round-up](http://www.osnews.com/story.php?news_id=5602)
-  - [Java and C-Sharp
-    Compared](https://web.archive.org/web/20090415190024/http://www.csharphelp.com/archives/archive96.html)
-  - [MSDN](https://zh.wikipedia.org/wiki/Microsoft_Developer_Network "wikilink"):
-    [The C\# Programming Language for Java
-    Developers](http://msdn.microsoft.com/en-us/library/ms228602.aspx)
-  - [Standard ECMA-334 C\# Language
-    specification](http://www.ecma-international.org/publications/standards/Ecma-334.htm)
-  - [Java Language Specification
-    (Sun)](http://java.sun.com/docs/books/jls/)
-  - [31 Differences between C\# and
-    Java](https://web.archive.org/web/20090504053246/http://www.geeks.ltd.uk/Knowledgebase/Compare-c-sharp-java.html)
+  - [Contrasting C\# and Java Syntax](http://www.ondotnet.com/pub/a/dotnet/2001/06/14/csharp_4_java.html)
+  - [Java vs. C\# - Code for Code Comparison](http://www.javacamp.org/javavscsharp/)
+  - [Nine Language Performance Round-up](http://www.osnews.com/story.php?news_id=5602)
+  - [Java and C-Sharp Compared](https://web.archive.org/web/20090415190024/http://www.csharphelp.com/archives/archive96.html)
+  - [MSDN](https://zh.wikipedia.org/wiki/Microsoft_Developer_Network "wikilink"): [The C\# Programming Language for Java Developers](http://msdn.microsoft.com/en-us/library/ms228602.aspx)
+  - [Standard ECMA-334 C\# Language specification](http://www.ecma-international.org/publications/standards/Ecma-334.htm)
+  - [Java Language Specification (Sun)](http://java.sun.com/docs/books/jls/)
+  - [31 Differences between C\# and Java](https://web.archive.org/web/20090504053246/http://www.geeks.ltd.uk/Knowledgebase/Compare-c-sharp-java.html)
 
 {{-}}
 
-[Category:程序语言比较](https://zh.wikipedia.org/wiki/Category:程序语言比较 "wikilink")
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
+[Category:程序语言比较](https://zh.wikipedia.org/wiki/Category:程序语言比较 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
 
 1.
 
 2.
 3.  [August 1998 Java News](http://www.cafeaulait.org/1998august.html)
 
-4.  [Java Language Spec. 3rd Edition 14.20.2 Execution of
-    try-catch-finally](http://java.sun.com/docs/books/jls/third_edition/html/statements.html#14.20.2)
+4.  [Java Language Spec. 3rd Edition 14.20.2 Execution of try-catch-finally](http://java.sun.com/docs/books/jls/third_edition/html/statements.html#14.20.2)

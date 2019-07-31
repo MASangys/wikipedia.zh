@@ -63,29 +63,19 @@
 
   - [PCLinuxOS官方网站](http://www.pclinuxos.nl/)
 
-[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
+[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
 
-1.  [Mate Desktop »
-    PCLinuxOS](https://www.pclinuxos.com/get-pclinuxos/mate/)
+1.  [Mate Desktop » PCLinuxOS](https://www.pclinuxos.com/get-pclinuxos/mate/)
 
-2.  [Download
-    PCLinuxOS 2018.06](https://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/PCLinuxOS-22543.shtml),
-    **Softpedia Linux**.
+2.  [Download PCLinuxOS 2018.06](https://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/PCLinuxOS-22543.shtml), **Softpedia Linux**.
 
-3.  [KDE Desktop »
-    PCLinuxOS](https://www.pclinuxos.com/get-pclinuxos/kde/)
+3.  [KDE Desktop » PCLinuxOS](https://www.pclinuxos.com/get-pclinuxos/kde/)
 
 4.
-5.  [PCLinuxOS 2017.07 KDE - Majestic and
-    horrible](https://www.dedoimedo.com/computers/pclinuxos-2017-07.html),
-    **Dedoimedo**
+5.  [PCLinuxOS 2017.07 KDE - Majestic and horrible](https://www.dedoimedo.com/computers/pclinuxos-2017-07.html), **Dedoimedo**
 
-6.  [DistroWatch Weekly, Issue 707, 10
-    April 2017](https://distrowatch.com/weekly.php?issue=20170410#pclinuxos)
+6.  [DistroWatch Weekly, Issue 707, 10 April 2017](https://distrowatch.com/weekly.php?issue=20170410#pclinuxos)
 
-7.  [DistroWatch Weekly, Issue 654, 28
-    March 2016](https://distrowatch.com/weekly.php?issue=20160328#pclinuxos)
+7.  [DistroWatch Weekly, Issue 654, 28 March 2016](https://distrowatch.com/weekly.php?issue=20160328#pclinuxos)
 
-8.  [An Everyday Linux User Review Of PCLinuxOS 2016
-    MATE](http://www.everydaylinuxuser.com/2016/06/an-everyday-linux-user-review-of_23.html)
+8.  [An Everyday Linux User Review Of PCLinuxOS 2016 MATE](http://www.everydaylinuxuser.com/2016/06/an-everyday-linux-user-review-of_23.html)

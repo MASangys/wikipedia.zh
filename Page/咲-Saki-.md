@@ -1,11 +1,9 @@
-《**天才麻將少女**》（），是[小林立的](../Page/小林立.md "wikilink")[麻雀](https://zh.wikipedia.org/wiki/麻將 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。[SQUARE
-ENIX的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[YOUNG
-GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短期登載，之後由2006年第12期起連載至今。
+《**天才麻將少女**》（），是[小林立](../Page/小林立.md "wikilink")的[麻雀](https://zh.wikipedia.org/wiki/麻將 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。[SQUARE ENIX的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短期登載，之後由2006年第12期起連載至今。
 
 ## 概要
 
   - 以全國高中生麻雀大會冠軍為目標的清澄高中麻雀部，以及新進隊員咲的故事。故事是在麻雀作為一種智力競技項目，比現實世界更進一步滲透於一般大眾，且會舉行高中生及初中生競技麻雀的官方大會等的世界觀中進行。
-  - 在麻雀漫畫中鮮有地以[萌系](../Page/萌.md "wikilink")[美少女作為主要角色是其主要特點](../Page/美少女.md "wikilink")，以主角宮永咲為首的登場角色們以超人能力比拼麻雀之餘，新手和上級者在摸牌打牌動作的不同、打出牌時牌列牌河的不同等等因角色而有不同，亦包含了這類細微的麻雀描寫。
+  - 在麻雀漫畫中鮮有地以[萌](../Page/萌.md "wikilink")系[美少女](../Page/美少女.md "wikilink")作為主要角色是其主要特點，以主角宮永咲為首的登場角色們以超人能力比拼麻雀之餘，新手和上級者在摸牌打牌動作的不同、打出牌時牌列牌河的不同等等因角色而有不同，亦包含了這類細微的麻雀描寫。
   - 作品中麻將牌譜由小林立自行編寫\[1\]\[2\]。
   - 縣預選編為止都是以[長野縣為故事舞台](https://zh.wikipedia.org/wiki/長野縣 "wikilink")，是自小林立的出道作品《[奇想大作戰](https://zh.wikipedia.org/wiki/奇想大作戰 "wikilink")》以來第二個以長野縣為舞台的故事。
 
@@ -17,9 +15,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短�
 
 ### 咲日和
 
-  - 由[木吉紗根據](https://zh.wikipedia.org/wiki/木吉紗 "wikilink")《天才麻將少女》的角色原案所創作的四格漫畫《咲日和》，于2011年6月開始連載，與原作一樣刊登於雙周刊《Young
-    GanGan》（2012年8月連載結束）；2011年10月起開始同時在月刊《Big
-    GanGan》上連載。該作品主要講述日常生活而非麻將競技。
+  - 由[木吉紗根據](https://zh.wikipedia.org/wiki/木吉紗 "wikilink")《天才麻將少女》的角色原案所創作的四格漫畫《咲日和》，于2011年6月開始連載，與原作一樣刊登於雙周刊《Young GanGan》（2012年8月連載結束）；2011年10月起開始同時在月刊《Big GanGan》上連載。該作品主要講述日常生活而非麻將競技。
   - 在本編第13卷中宣佈將在第14卷初回限定實裝版中附[OAD](../Page/原創動畫錄影帶.md "wikilink")。\[5\]
 
 ### 咲慕流年
@@ -30,7 +26,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短�
 
 ### 立-Ritz-
 
-  - [大和田秀樹的漫畫](../Page/大和田秀樹.md "wikilink")《[渣和无用改革](../Page/渣和无用改革.md "wikilink")》[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")3集收錄的[惡搞短篇漫畫](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。
+  - [大和田秀樹](../Page/大和田秀樹.md "wikilink")的漫畫《[渣和无用改革](../Page/渣和无用改革.md "wikilink")》[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")3集收錄的[惡搞短篇漫畫](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。
 
 ### 怜-Toki-
 
@@ -40,14 +36,16 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短�
 
 ## 登場角色
 
-## 書籍
+## 出版書籍
 
 ### 單行本
+
+  - 咲-Saki-
 
 <table>
 <thead>
 <tr class="header">
-<th><p>集數</p></th>
+<th><p>冊數</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 <th><p><a href="../Page/玉皇朝.md" title="wikilink">玉皇朝</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
@@ -56,95 +54,89 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短�
 <tbody>
 <tr class="odd">
 <td><p>发售日期</p></td>
-<td><p>ISBN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>发售日期</p></td>
 <td><p>ISBN</p></td>
 </tr>
 <tr class="even">
-<td><p>本篇</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>1</p></td>
 <td><p>2006年12月25日</p></td>
 <td><p>ISBN 4-7575-1782-3</p></td>
 <td><p>2007年11月17日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2</p></td>
 <td><p>2007年5月25日</p></td>
 <td><p>ISBN 978-4-7575-2019-6</p></td>
 <td><p>2007年12月28日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>2007年11月24日</p></td>
 <td><p>ISBN 978-4-7575-2164-3</p></td>
 <td><p>2008年1月30日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4</p></td>
 <td><p>2008年6月25日</p></td>
 <td><p>ISBN 978-4-7575-2316-6</p></td>
 <td><p>2008年10月24日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>2009年3月25日</p></td>
 <td><p>ISBN 978-4-7575-2517-7</p></td>
 <td><p>2009年6月11日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6</p></td>
 <td><p>2009年7月25日</p></td>
 <td><p>ISBN 978-4-7575-2623-5</p></td>
 <td><p>2009年10月29日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>2010年4月24日</p></td>
 <td><p>ISBN 978-4-7575-2859-8</p></td>
 <td><p>2010年7月30日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p>2011年6月25日</p></td>
 <td><p>ISBN 978-4-7575-3272-4</p></td>
 <td><p>2011年8月2日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9</p></td>
 <td><p>2012年3月24日</p></td>
 <td><p>ISBN 978-4-7575-3537-4</p></td>
 <td><p>2012年7月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>2012年6月25日</p></td>
 <td><p>ISBN 978-4-7575-3635-7</p></td>
 <td><p>2012年12月</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>2013年4月25日</p></td>
 <td><p>ISBN 978-4-7575-3934-1</p></td>
 <td><p>2013年6月</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>2013年12月25日</p></td>
 <td><p>ISBN 978-4-7575-4182-5</p></td>
 <td><p>2014年5月</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>13</p></td>
 <td><p>2014年9月25日</p></td>
 <td><p>ISBN 978-4-7575-4422-2</p></td>
 <td><p>2014年12月</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>14</p></td>
 <td><p>2015年7月25日</p></td>
 <td><p>ISBN 978-4-7575-4489-5<br />
@@ -152,230 +144,253 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短�
 ISBN 978-4-7575-4490-1</p></td>
 <td><p>2016年2月23日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>15</p></td>
 <td><p>2016年3月25日</p></td>
 <td><p>ISBN 978-4-7575-4919-7</p></td>
 <td><p>|</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>16</p></td>
 <td><p>2016年12月24日</p></td>
 <td><p>ISBN 978-4-7575-5193-0</p></td>
 <td><p>|</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>17</p></td>
 <td><p>2017年11月25日</p></td>
 <td><p>ISBN 978-4-7575-5530-3</p></td>
 <td><p>|</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>18</p></td>
 <td><p>2018年10月25日</p></td>
 <td><p>ISBN 978-4-7575-5889-2</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>2019年5月25日</p></td>
+<td><p>ISBN 978-4-7575-6133-5</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 咲-Saki- 阿知賀篇 episode of side-A
+    小林立（原作）、（作画）全6卷〈GANGAN COMICS〉
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>史克威爾艾尼克斯</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
-<td><p>小林立（原作）、（作画）《咲-Saki- 阿知賀編》史克威爾艾尼克斯〈GANGAN COMICS〉</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2012年3月24日</p></td>
-<td><p>ISBN 978-4-7575-3535-0</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2012年6月25日</p></td>
-<td><p>ISBN 978-4-7575-3636-4</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2012年8月25日</p></td>
-<td><p>ISBN 978-4-7575-3709-5</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2012年11月24日</p></td>
-<td><p>ISBN 978-4-7575-3809-2</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2013年4月25日</p></td>
-<td><p>ISBN 978-4-7575-3911-2</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2013年8月24日</p></td>
-<td><p>ISBN 978-4-7575-4052-1</p></td>
-<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 咲日和
+
+    、小林立（人物原案）全7卷〈GANGAN COMICS〉
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>史克威爾艾尼克斯</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
-<td><p>、小林立（人物原案）《咲日和》史克威爾艾尼克斯〈GANGAN COMICS〉</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>1</p></td>
 <td><p>2012年3月24日</p></td>
-<td><p>ISBN 978-4-7575-3538-1</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2</p></td>
 <td><p>2012年8月25日</p></td>
-<td><p>ISBN 978-4-7575-3708-8</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>2013年12月25日</p></td>
-<td><p>ISBN 978-4-7575-4183-2</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4</p></td>
 <td><p>2015年7月25日</p></td>
-<td><p>ISBN 978-4-7575-4698-1</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>2016年3月25日</p></td>
-<td><p>ISBN 978-4-7575-4938-8</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6</p></td>
 <td><p>2016年12月24日</p></td>
-<td><p>ISBN 978-4-7575-5194-7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p>2018年3月24日</p></td>
-<td><p>ISBN 978-4-7575-5677-5</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>小林立（原作）、（作画）《咲慕流年》史克威爾艾尼克斯〈BIG GANGAN COMICS SUPER〉</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>7</p></td>
+<td><p>2018年3月24日</p></td>
 </tr>
+</tbody>
+</table>
+
+  - 咲慕流年 the dawn of age（シノハユ the dawn of age）
+    小林立（原作）、（作画）共11卷〈BIG GANGAN COMICS SUPER〉
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>史克威爾艾尼克斯</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
 <td><p>1</p></td>
 <td><p>2013年12月25日</p></td>
-<td><p>ISBN 978-4-7575-4184-9</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2</p></td>
 <td><p>2014年9月25日</p></td>
-<td><p>ISBN 978-4-7575-4423-9</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>2015年2月25日</p></td>
-<td><p>ISBN 978-4-7575-4571-7</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4</p></td>
 <td><p>2015年7月25日</p></td>
-<td><p>ISBN 978-4-7575-4699-8</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>2015年11月25日</p></td>
-<td><p>ISBN 978-4-7575-4811-4</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6</p></td>
 <td><p>2016年3月25日</p></td>
-<td><p>ISBN 978-4-7575-4920-3</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>2016年12月24日</p></td>
-<td><p>ISBN 978-4-7575-5195-4</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p>2017年11月25日</p></td>
-<td><p>ISBN 978-4-7575-5531-0</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p>2018年3月24日</p></td>
-<td><p>ISBN 978-4-7575-5676-8</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>10</p></td>
-<td><p>2018年10月25日</p></td>
-<td><p>ISBN 978-4-7575-5890-8</p></td>
-<td></td>
+<td><p>9</p></td>
+<td><p>2018年3月24日</p></td>
 </tr>
 <tr class="odd">
-<td><p>小林立（原案）、大河田秀樹（漫畫）《立‐Ritz‐》史克威爾艾尼克斯〈BIG GANGAN COMICS〉</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>10</p></td>
+<td><p>2018年10月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2019年5月25日</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 立‐Ritz‐
+    小林立（原案）、大河田秀樹（漫畫）全1卷〈BIG GANGAN COMICS〉
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>史克威爾艾尼克斯</p></th>
+<th><p>東立出版社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>全</p></td>
 <td><p>2016年3月25日</p></td>
 <td><p>ISBN 978-4-7575-4921-0</p></td>
-<td></td>
 </tr>
+</tbody>
+</table>
+
+  - \-{怜}--Toki-
+    小林立（原案）、（漫畫）共5卷〈BIG GANGAN COMICS〉
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>史克威爾艾尼克斯</p></th>
+<th><p>東立出版社</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
-<td><p>小林立（原案）、（漫畫）《》史克威爾艾尼克斯〈BIG GANGAN COMICS〉</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2016年12月24日</p></td>
 <td><p>ISBN 978-4-7575-5196-1</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2017年11月25日</p></td>
 <td><p>ISBN 978-4-7575-5532-7</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2018年3月24日</p></td>
 <td><p>ISBN 978-4-7575-5678-2</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2018年10月25日</p></td>
 <td><p>ISBN 978-4-7575-5891-5</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -383,11 +398,11 @@ ISBN 978-4-7575-4490-1</p></td>
 </tbody>
 </table>
 
-### 關聯書籍
+### 相關書籍
 
-  - （2009年12月9日）
+  - ：2009年12月8日發售、ISBN 978-4-05-404367-1
 
-  - （2010年1月29日）
+  - ：2010年1月29日發售、ISBN 978-4-7575-2634-1
 
 ## 網路電台
 
@@ -395,15 +410,13 @@ ISBN 978-4-7575-4490-1</p></td>
 
 ## 动画
 
-《天才麻將少女》於2009年4月5日在[東京電視網播出](../Page/東京電視網.md "wikilink")，全25話。
+《天才麻將少女》於2009年4月5日在[東京電視網](../Page/東京電視網.md "wikilink")播出，全25話。
 
-外傳《天才麻將少女 阿知賀篇 episode of
-side-A》於2012年4月8日在[東京電視網播出](../Page/東京電視網.md "wikilink")，全16集。日本東京電視台授權中國大陸[土豆網](https://zh.wikipedia.org/wiki/土豆網 "wikilink")[即日播出](../Page/海外聯播動畫.md "wikilink")。
+外傳《天才麻將少女 阿知賀篇 episode of side-A》於2012年4月8日在[東京電視網](../Page/東京電視網.md "wikilink")播出，全16集。日本東京電視台授權中國大陸[土豆網](https://zh.wikipedia.org/wiki/土豆網 "wikilink")[即日播出](../Page/海外聯播動畫.md "wikilink")。
 
 ### 天才麻將少女
 
-2008年12月宣布於2009年動畫化，2009年4月至9月間電視動畫正式播放，由[GONZO第](../Page/GONZO.md "wikilink")5工作室和[Picture
-Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")。
+2008年12月宣布於2009年動畫化，2009年4月至9月間電視動畫正式播放，由[GONZO](../Page/GONZO.md "wikilink")第5工作室和[Picture Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")。
 
 #### 制作人员
 
@@ -418,8 +431,7 @@ Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")
   - 音響監督：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音樂：[渡邊剛](../Page/渡邊剛.md "wikilink")
   - 动画制作：[GONZO](../Page/GONZO.md "wikilink")（第5工作室，第1\~14話、第15話後協力制作）、[PictureMagic](https://zh.wikipedia.org/wiki/PictureMagic "wikilink")（第15話後）
-  - 製作：清澄高校麻雀部（[SQUARE
-    ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、[創通](../Page/創通.md "wikilink")）
+  - 製作：清澄高校麻雀部（[SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、[創通](../Page/創通.md "wikilink")）
 
 #### 主題曲
 
@@ -427,8 +439,7 @@ Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")
 
 :;《[Glossy:MMM](../Page/Glossy:MMM.md "wikilink")》（第2話－第14話） ※第1話沒有片頭曲
 
-::
-作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink")，歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
+:: 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink")，歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
 
 :: 第1、25話作為片尾曲使用。
 
@@ -437,23 +448,19 @@ Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")
   -
 
       -
-        作詞、作曲、歌：[Little
-        Non](https://zh.wikipedia.org/wiki/Little_Non "wikilink")，編曲：[Little
-        Non](https://zh.wikipedia.org/wiki/Little_Non "wikilink")、[安藤高弘](https://zh.wikipedia.org/wiki/安藤高弘 "wikilink")
+        作詞、作曲、歌：[Little Non](https://zh.wikipedia.org/wiki/Little_Non "wikilink")，編曲：[Little Non](https://zh.wikipedia.org/wiki/Little_Non "wikilink")、[安藤高弘](https://zh.wikipedia.org/wiki/安藤高弘 "wikilink")
 
   - 片尾曲
 
 :;《[奇迹世界热烈欢迎](../Page/奇迹世界热烈欢迎.md "wikilink")（）》（第2話－第6話、第8話－第9話、第11話－第14話）
 
-::
-作詞：畑亞貴，作曲：[福本公四郎](https://zh.wikipedia.org/wiki/福本公四郎 "wikilink")，編曲：安藤高弘（GloryHeaven），歌：宮永咲（[植田佳奈](../Page/植田佳奈.md "wikilink")）、原村和（[小清水亞美](../Page/小清水亞美.md "wikilink")）、片岡優希（[釘宮理惠](../Page/釘宮理惠.md "wikilink")）、染谷真子（[白石涼子](../Page/白石涼子.md "wikilink")）、竹井久（[伊藤靜](../Page/伊藤靜.md "wikilink")）
+:: 作詞：畑亞貴，作曲：[福本公四郎](https://zh.wikipedia.org/wiki/福本公四郎 "wikilink")，編曲：安藤高弘（GloryHeaven），歌：宮永咲（[植田佳奈](../Page/植田佳奈.md "wikilink")）、原村和（[小清水亞美](../Page/小清水亞美.md "wikilink")）、片岡優希（[釘宮理惠](../Page/釘宮理惠.md "wikilink")）、染谷真子（[白石涼子](../Page/白石涼子.md "wikilink")）、竹井久（[伊藤靜](../Page/伊藤靜.md "wikilink")）
 
 :: 20話作為插入曲使用。
 
 :;《[殘酷的意愿中](https://zh.wikipedia.org/wiki/殘酷的意愿中 "wikilink")（）》（第7話、第10話、第16話、第18話、第22話）
 
-::
-作詞：畑亞貴，作曲：RINO，編曲：[虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink")（GloryHeaven），歌：宮永咲（植田佳奈）、原村和（小清水亞美）
+:: 作詞：畑亞貴，作曲：RINO，編曲：[虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink")（GloryHeaven），歌：宮永咲（植田佳奈）、原村和（小清水亞美）
 
 :;《[四角型的宇宙等待著喔](../Page/四角型的宇宙等待著喔.md "wikilink")（）》（第15話、第17話、第19話－第21話、第23話－第24話）
 
@@ -737,24 +744,17 @@ Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")
 
 ##### 日本海外
 
-台灣[衛視電影台于](../Page/衛視電影台.md "wikilink")2011年6月25日－2011年8月6日的星期六、日晚上
-20:00 - 21:00播放。
+台灣[衛視電影台](../Page/衛視電影台.md "wikilink")于2011年6月25日－2011年8月6日的星期六、日晚上 20:00 - 21:00播放。
 
 ### 天才麻將少女 阿知賀篇 episode of side-A
 
-  - 2011年6月發行的單行本第8集及《[增刊YOUNG
-    GANGAN](https://zh.wikipedia.org/wiki/增刊YOUNG_GANGAN "wikilink")》
-    Vol.2中提到將會製作新的電視動畫\[7\]。2011年10月7日發行的《YOUNG
-    GANGAN》20號及動畫官方網站公佈「阿知賀編」將於2012年春季播放電視動畫\[8\]。
-  - 在2012年10月28日召開的《咲-Saki-》官方活動「咲-Saki-FES 四角宇宙Square
-    Panic！」中宣布《咲-Saki- 阿知賀篇 episode of
-    side-A》第13－15話，后来追加至16话\[9\]，於2012年12月\[10\]至2013年5月间在[AT-X播出](../Page/AT-X.md "wikilink")。收錄於[藍光光碟中的短編動畫將於](../Page/藍光光碟.md "wikilink")2015年3月18日發售。\[11\]
+  - 2011年6月發行的單行本第8集及《[增刊YOUNG GANGAN](https://zh.wikipedia.org/wiki/增刊YOUNG_GANGAN "wikilink")》 Vol.2中提到將會製作新的電視動畫\[7\]。2011年10月7日發行的《YOUNG GANGAN》20號及動畫官方網站公佈「阿知賀編」將於2012年春季播放電視動畫\[8\]。
+  - 在2012年10月28日召開的《咲-Saki-》官方活動「咲-Saki-FES 四角宇宙Square Panic！」中宣布《咲-Saki- 阿知賀篇 episode of side-A》第13－15話，后来追加至16话\[9\]，於2012年12月\[10\]至2013年5月间在[AT-X](../Page/AT-X.md "wikilink")播出。收錄於[藍光光碟](../Page/藍光光碟.md "wikilink")中的短編動畫將於2015年3月18日發售。\[11\]
 
 #### 製作人員
 
   - 原作：小林立／「天才麻將少女」
-  - 漫畫作畫：（[SQUARE
-    ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」連載）
+  - 漫畫作畫：（[SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」連載）
   - 監督：[小野学](https://zh.wikipedia.org/wiki/小野学 "wikilink")
   - 系列構成・脚本：[浦畑達彦](https://zh.wikipedia.org/wiki/浦畑達彦 "wikilink")
   - 角色设计＆总作画監督：[佐佐木政勝](https://zh.wikipedia.org/wiki/佐佐木政勝 "wikilink")
@@ -772,8 +772,7 @@ Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")
 
 :;《[MIRACLE RUSH](../Page/MIRACLE_RUSH.md "wikilink")》（第2話－第12話）
 
-::
-作詞：，作曲：[山口朗彥](https://zh.wikipedia.org/wiki/山口朗彥 "wikilink")，歌：[StylipS](../Page/StylipS.md "wikilink")
+:: 作詞：，作曲：[山口朗彥](https://zh.wikipedia.org/wiki/山口朗彥 "wikilink")，歌：[StylipS](../Page/StylipS.md "wikilink")
 
 :: 第1、16話作為片尾曲使用。
 
@@ -791,8 +790,7 @@ Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")
 
 :;《Square Panic Serenade》（第2話、第5話－第7話、第12話）
 
-::
-作詞、作曲、編曲：[ZAQ](../Page/ZAQ.md "wikilink")，歌：高鴨穩乃（[悠木碧](../Page/悠木碧.md "wikilink")）、新子憧（[東山奈央](../Page/東山奈央.md "wikilink")）、松實玄（[花澤香菜](../Page/花澤香菜.md "wikilink")）、松實宥（[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")）、鷺森灼（[內山夕實](../Page/內山夕實.md "wikilink")）
+:: 作詞、作曲、編曲：[ZAQ](../Page/ZAQ.md "wikilink")，歌：高鴨穩乃（[悠木碧](../Page/悠木碧.md "wikilink")）、新子憧（[東山奈央](../Page/東山奈央.md "wikilink")）、松實玄（[花澤香菜](../Page/花澤香菜.md "wikilink")）、松實宥（[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")）、鷺森灼（[內山夕實](../Page/內山夕實.md "wikilink")）
 
 :;《Futuristic Player》（第3話－第4話、第8話－第11話、第14話－第15話）
 
@@ -997,7 +995,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 | NICONICO動畫                                                            | 星期日 25時00分 更新                      |                     |                     |                                                       |     |
 | 萬代頻道                                                                  |                                    |                     |                     |                                                       |     |
 | Video Market                                                          |                                    |                     |                     |                                                       |     |
-| [東京電視台動畫劇院](../Page/東京電視台.md "wikilink")                              | 2013年1月14日                         | 星期一 更新              |                     |                                                       |     |
+| [東京電視台](../Page/東京電視台.md "wikilink")動畫劇院                              | 2013年1月14日                         | 星期一 更新              |                     |                                                       |     |
 | Showtime                                                              | 2013年1月15日                         | 星期二 更新              |                     |                                                       |     |
 | DMM.com                                                               | 2013年1月20日                         | 星期日 更新              |                     |                                                       |     |
 | TSUTAYA TV                                                            |                                    |                     |                     |                                                       |     |
@@ -1033,8 +1031,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 ### 天才麻將少女 全國篇
 
-  - 在2013年第21期《Young GanGan》上宣布播放動畫《天才麻將少女
-    全國篇》\[12\]，並於2014年1月5日正式在東京電視台播放。
+  - 在2013年第21期《Young GanGan》上宣布播放動畫《天才麻將少女 全國篇》\[12\]，並於2014年1月5日正式在東京電視台播放。
 
 #### 製作人員
 
@@ -1060,8 +1057,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
   -
 
       -
-        作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲：fandelmale，編曲：酒井拓也，歌：
-        [橋本美雪](../Page/橋本美雪.md "wikilink")
+        作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲：fandelmale，編曲：酒井拓也，歌： [橋本美雪](../Page/橋本美雪.md "wikilink")
         第1話作為片尾曲使用。
 
 <!-- end list -->
@@ -1074,18 +1070,15 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 :;《》（第3話、第8話）
 
-::
-作詞、作曲、編曲：[ZAQ](../Page/ZAQ.md "wikilink")，歌：宮守女子高校（小瀨川白望（[長妻樹里](../Page/長妻樹里.md "wikilink")）、愛絲琳·維休亞特（[水野麻梨子](https://zh.wikipedia.org/wiki/水野麻梨子 "wikilink")）、鹿倉胡桃（[豐田萌繪](../Page/豐田萌繪.md "wikilink")）、臼澤塞（[佐藤利奈](../Page/佐藤利奈.md "wikilink")）、姉帶豐音（[内田真禮](https://zh.wikipedia.org/wiki/内田真禮 "wikilink")））
+:: 作詞、作曲、編曲：[ZAQ](../Page/ZAQ.md "wikilink")，歌：宮守女子高校（小瀨川白望（[長妻樹里](../Page/長妻樹里.md "wikilink")）、愛絲琳·維休亞特（[水野麻梨子](https://zh.wikipedia.org/wiki/水野麻梨子 "wikilink")）、鹿倉胡桃（[豐田萌繪](../Page/豐田萌繪.md "wikilink")）、臼澤塞（[佐藤利奈](../Page/佐藤利奈.md "wikilink")）、姉帶豐音（[内田真禮](https://zh.wikipedia.org/wiki/内田真禮 "wikilink")））
 
 :;《》（第4話、第6話、第10話）
 
-::
-作詞、作曲、編曲：ZAQ，歌：永水女子高校（神代小蒔（[早見沙織](../Page/早見沙織.md "wikilink")）、狩宿巴（[赤崎千夏](../Page/赤崎千夏.md "wikilink")）、瀧見春（[水橋香織](../Page/水橋香織.md "wikilink")）、薄墨初美（[辻步美](../Page/辻步美.md "wikilink")）、岩戶霞（[大原沙耶香](../Page/大原沙耶香.md "wikilink")））
+:: 作詞、作曲、編曲：ZAQ，歌：永水女子高校（神代小蒔（[早見沙織](../Page/早見沙織.md "wikilink")）、狩宿巴（[赤崎千夏](../Page/赤崎千夏.md "wikilink")）、瀧見春（[水橋香織](../Page/水橋香織.md "wikilink")）、薄墨初美（[辻步美](../Page/辻步美.md "wikilink")）、岩戶霞（[大原沙耶香](../Page/大原沙耶香.md "wikilink")））
 
 :;《》（第5話、第12話）
 
-::
-作詞、作曲、編曲：ZAQ，歌：姬松高校（上重漫（伊達朱里紗）、真瀨由子（[佳村遙](../Page/佳村遙.md "wikilink")）、愛宕洋榎（松田颯水）、愛宕絹惠（[中津真莉子](https://zh.wikipedia.org/wiki/中津真莉子 "wikilink")）、末原恭子（[壽美菜子](../Page/壽美菜子.md "wikilink")））
+:: 作詞、作曲、編曲：ZAQ，歌：姬松高校（上重漫（伊達朱里紗）、真瀨由子（[佳村遙](../Page/佳村遙.md "wikilink")）、愛宕洋榎（松田颯水）、愛宕絹惠（[中津真莉子](https://zh.wikipedia.org/wiki/中津真莉子 "wikilink")）、末原恭子（[壽美菜子](../Page/壽美菜子.md "wikilink")））
 
 :;《Glossy：MMM》（第13話）
 
@@ -1277,16 +1270,15 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 ## 真人作品
 
-真人版同名改編連續劇及電影皆由[濱邊美波主演](../Page/濱邊美波.md "wikilink")\[13\]。
+真人版同名改編連續劇及電影皆由[濱邊美波](../Page/濱邊美波.md "wikilink")主演\[13\]。
 
 ### 電視劇
 
-2016年12月起於[MBS及](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")[TBS的](../Page/TBS電視台.md "wikilink")[Dramaism時段播出](../Page/Dramaism.md "wikilink")，全4集\[14\]\[15\]。2017年1月播出單篇特別篇。
+2016年12月起於[MBS及](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")[TBS的](../Page/TBS電視台.md "wikilink")[Dramaism](../Page/Dramaism.md "wikilink")時段播出，全4集\[14\]\[15\]。2017年1月播出單篇特別篇。
 
 #### 幕後製作
 
-  - 原作：小林立《YOUNG
-    GANGAN》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）
+  - 原作：小林立《YOUNG GANGAN》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）
   - 劇本：森迅史
   - 音楽：T$UYO$HI（The BONEZ）
   - 麻將指導：肯尼斯德田、黑木真生、馬場裕一／巴比倫
@@ -1327,8 +1319,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
   -
     2007年第8期發表播放[網路電台節目及發行](https://zh.wikipedia.org/wiki/網路電台 "wikilink")[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")（2007年12月21日發售）的消息。
-    演出：植田佳奈（宮永咲）、小清水亞美（原村和）、釘宮理惠（片岡優希）、伊藤靜（竹井久）、白石涼子（染谷真子）、福山潤（須賀京太郎）、堀江由衣（宮永照）、小野坂昌也（宮永咲的父親）、中田讓治（原村和的父親）、藤田咲、[高本惠](../Page/高本惠.md "wikilink")、[寺島拓篤](../Page/寺島拓篤.md "wikilink")
-    等等
+    演出：植田佳奈（宮永咲）、小清水亞美（原村和）、釘宮理惠（片岡優希）、伊藤靜（竹井久）、白石涼子（染谷真子）、福山潤（須賀京太郎）、堀江由衣（宮永照）、小野坂昌也（宮永咲的父親）、中田讓治（原村和的父親）、藤田咲、[高本惠](../Page/高本惠.md "wikilink")、[寺島拓篤](../Page/寺島拓篤.md "wikilink") 等等
 
 <!-- end list -->
 
@@ -1343,11 +1334,9 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 ## 遊戲
 
-  - 2010年3月25日發售[Sony
-    PSP遊戲](https://zh.wikipedia.org/wiki/Sony_PSP "wikilink")『』。\[18\]\[19\]
+  - 2010年3月25日發售[Sony PSP遊戲](https://zh.wikipedia.org/wiki/Sony_PSP "wikilink")『』。\[18\]\[19\]
   - 2013年8月29日 『阿知賀篇』發售PSP遊戲。
-  - 2015年9月17日發售[PS
-    Vita遊戲](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")『』。\[20\]
+  - 2015年9月17日發售[PS Vita遊戲](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")『』。\[20\]
 
 ## 相關項目
 
@@ -1359,18 +1348,15 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 <div class="references-small">
 
-  - [2012年4月新番导视
-    土豆动漫频道](http://zone.tudou.com/anime201204)，標記「土豆独家」者為授權播出。
+  - [2012年4月新番导视 土豆动漫频道](http://zone.tudou.com/anime201204)，標記「土豆独家」者為授權播出。
 
 </div>
 
 ## 外部連結
 
-  - [YOUNG
-    GANGAN公式網頁的咲介紹頁。](http://www.square-enix.co.jp/magazine/yg/introduction/saki/)
+  - [YOUNG GANGAN公式網頁的咲介紹頁。](http://www.square-enix.co.jp/magazine/yg/introduction/saki/)
 
-  - [- Ritz Kobayashi's dreamscape](http://www.sciasta.com/ritz/) -
-    作者個人網頁
+  - [- Ritz Kobayashi's dreamscape](http://www.sciasta.com/ritz/) - 作者個人網頁
 
   - [第一季動畫版特設網頁](http://www.saki-anime.com/1st)
 
@@ -1384,44 +1370,20 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
   - [テレビ東京・あにてれ　-{咲-Saki-}-，東京電視台動畫網站](http://www.tv-tokyo.co.jp/anime/saki/)
 
-  - [テレビ東京・あにてれ　-{咲-Saki-}- 阿知賀編 episode of
-    side-A，東京電視台動畫網站](http://www.tv-tokyo.co.jp/anime/saki2/)
+  - [テレビ東京・あにてれ　-{咲-Saki-}- 阿知賀編 episode of side-A，東京電視台動畫網站](http://www.tv-tokyo.co.jp/anime/saki2/)
 
-  - [テレビ東京・あにてれ　-{咲-Saki-}-
-    全國篇，東京電視台動畫網站](http://www.tv-tokyo.co.jp/anime/saki3/)
+  - [テレビ東京・あにてれ　-{咲-Saki-}- 全國篇，東京電視台動畫網站](http://www.tv-tokyo.co.jp/anime/saki3/)
 
-  - [衛視電影台
-    天才麻將少女官網](http://www.startv.com.tw/cmov/prog.asp?forid=2134&nouse=4517)
+  - [衛視電影台 天才麻將少女官網](http://www.startv.com.tw/cmov/prog.asp?forid=2134&nouse=4517)
 
   - [-{映画&ドラマ『咲-Saki-}-』官網](http://www.saki-project.jp/)
 
   -
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
-[Category:麻將漫畫](https://zh.wikipedia.org/wiki/Category:麻將漫畫 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:2009年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年東京電視網動畫 "wikilink")
-[Category:日本廣播劇](https://zh.wikipedia.org/wiki/Category:日本廣播劇 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink")
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:咲-Saki-](https://zh.wikipedia.org/wiki/Category:咲-Saki- "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:2017年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年日本電視劇集 "wikilink")
-[Category:2017年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2017年電視特別劇集 "wikilink")
-[Category:2018年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年日本電視劇集 "wikilink")
-[Category:2018年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2018年電視特別劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
-[Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
-[Category:Dramaism](https://zh.wikipedia.org/wiki/Category:Dramaism "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
+[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink") [Category:麻將漫畫](https://zh.wikipedia.org/wiki/Category:麻將漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:2009年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年東京電視網動畫 "wikilink") [Category:日本廣播劇](https://zh.wikipedia.org/wiki/Category:日本廣播劇 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:咲-Saki-](https://zh.wikipedia.org/wiki/Category:咲-Saki- "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:2017年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年日本電視劇集 "wikilink") [Category:2017年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2017年電視特別劇集 "wikilink") [Category:2018年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年日本電視劇集 "wikilink") [Category:2018年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2018年電視特別劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:Dramaism](https://zh.wikipedia.org/wiki/Category:Dramaism "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
 
 1.  [作者的個人blog 08.03.06](https://web.archive.org/web/20080512122721/http://sciasta.com/ritz/)（2008年5月12日的[檔案館](https://zh.wikipedia.org/wiki/互聯網檔案館 "wikilink")）的發言中提及。
 
-2.  [『咲-Saki－』 小野学監督インタビュー
-    その1](http://www.animeanime.jp/interview/saki1.html)
+2.  [『咲-Saki－』 小野学監督インタビュー その1](http://www.animeanime.jp/interview/saki1.html)
 
 3.
 4.
@@ -1430,11 +1392,9 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 6.
 
-7.  [咲－Saki－：美少女たちの熱血マージャンマンガ　テレビアニメ化決定　「ガンガン」で新連載も -
-    MANTANWEB（まんたんウェブ）](https://archive.is/20120715230234/mantan-web.jp/2011/06/25/20110624dog00m200061000c.html)
+7.  [咲－Saki－：美少女たちの熱血マージャンマンガ　テレビアニメ化決定　「ガンガン」で新連載も - MANTANWEB（まんたんウェブ）](https://archive.is/20120715230234/mantan-web.jp/2011/06/25/20110624dog00m200061000c.html)
 
-8.  [咲－Saki－：新作「阿知賀編」がテレビアニメ化　12年春放送へ -
-    MANTANWEB（まんたんウェブ）](https://archive.is/20120710003526/mantan-web.jp/2011/10/07/20111006dog00m200043000c.html)
+8.  [咲－Saki－：新作「阿知賀編」がテレビアニメ化　12年春放送へ - MANTANWEB（まんたんウェブ）](https://archive.is/20120710003526/mantan-web.jp/2011/10/07/20111006dog00m200043000c.html)
 
 9.  『月刊少年ガンガン』2013年2月号「咲取り！！ 阿知賀にゅーす GG版」より
 

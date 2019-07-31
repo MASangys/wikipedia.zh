@@ -1,5 +1,4 @@
-**trust
-you**為[伊藤由奈](../Page/伊藤由奈.md "wikilink")第十三張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2009年3月4日發行。本曲亦為《[機動戰士高達00](https://zh.wikipedia.org/wiki/機動戰士高達00 "wikilink")》第二季中15至24話的片尾曲。
+**trust you**為[伊藤由奈](../Page/伊藤由奈.md "wikilink")第十三張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2009年3月4日發行。本曲亦為《[機動戰士高達00](https://zh.wikipedia.org/wiki/機動戰士高達00 "wikilink")》第二季中15至24話的片尾曲。
 
 ## 收錄曲
 
@@ -27,8 +26,6 @@ you**為[伊藤由奈](../Page/伊藤由奈.md "wikilink")第十三張[單曲](h
 
 <references/>
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:GUNDAM_00歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM_00歌曲 "wikilink")
-[Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:GUNDAM_00歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM_00歌曲 "wikilink") [Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink")
 
 1.

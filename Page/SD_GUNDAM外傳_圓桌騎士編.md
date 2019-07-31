@@ -1,5 +1,4 @@
-**SD高達外傳
-圓桌騎士編**是SD高達外傳第二作。與前作「捷古自護編」不同，本故事是根據英國歷史人物[阿瑟王及其麾下十二人](https://zh.wikipedia.org/wiki/阿瑟王 "wikilink")，後世稱為「圓桌騎士團」為藍本，講述落難王子皇騎士，在復國路上遇到的種種經歷、以及重新建立新圓桌騎士團的奮鬥史。
+**SD高達外傳 圓桌騎士編**是SD高達外傳第二作。與前作「捷古自護編」不同，本故事是根據英國歷史人物[阿瑟王及其麾下十二人](https://zh.wikipedia.org/wiki/阿瑟王 "wikilink")，後世稱為「圓桌騎士團」為藍本，講述落難王子皇騎士，在復國路上遇到的種種經歷、以及重新建立新圓桌騎士團的奮鬥史。
 
 ## 主要人物
 
@@ -15,8 +14,7 @@
 <!-- end list -->
 
   -
-    相傳「超機動大將軍編」中武者鷺主的聖劍，亦是由他所賜予。（詳見[SD戰國傳
-    超機動大將軍篇](https://zh.wikipedia.org/wiki/SD戰國傳_超機動大將軍篇 "wikilink")）
+    相傳「超機動大將軍編」中武者鷺主的聖劍，亦是由他所賜予。（詳見[SD戰國傳 超機動大將軍篇](https://zh.wikipedia.org/wiki/SD戰國傳_超機動大將軍篇 "wikilink")）
 
 **勇劍士Plus／勇騎士Plus**(勇剣士プラス)
 
@@ -61,9 +59,7 @@
 <!-- end list -->
 
   -
-    在BB戰士世界，身份頗為特殊：與影舞亂夢的赤龍頑馱無是相識，而子孫「海賊騎士Red
-    Warrior」更活躍於「G-ARMS」之中。（同時參考[SD戰國傳
-    地上最強篇](https://zh.wikipedia.org/wiki/SD戰國傳_地上最強篇 "wikilink")）
+    在BB戰士世界，身份頗為特殊：與影舞亂夢的赤龍頑馱無是相識，而子孫「海賊騎士Red Warrior」更活躍於「G-ARMS」之中。（同時參考[SD戰國傳 地上最強篇](https://zh.wikipedia.org/wiki/SD戰國傳_地上最強篇 "wikilink")）
 
 **剛戰士Heavy Gundam／重騎士Heavy Gundam**
 
@@ -90,8 +86,7 @@
   -
     除了本章的三名兒子，尚有一名長子不知所蹤。
 
-**劍士F-90／騎士F-90**（F-90 S型）、**鬥士F-90／重戰士F-90**（F-90
-D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
+**劍士F-90／騎士F-90**（F-90 S型）、**鬥士F-90／重戰士F-90**（F-90 D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
   -
     鎧騎士F-90的三位兒子，三人輩分不明（但由於遊戲版通常會以「劍士、鬥士、法術士」稱呼三人，故慣常以此準則，默認劍士為兄、鬥士為次子、法術士為幼弟。）雖然三兄弟修習技藝各異，卻同樣希望協助父親。然而灼騎士看到三人武藝尚未成熟，最初拒捕他們加入。後來協助拯救皇騎士走出牢獄。在三兄弟修業成功後，一同加入圓桌騎士團，成為其一員。
@@ -250,7 +245,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
 初代圓桌騎士團，是由帝皇高達一世率領的軍團，可惜在七年前「薩比羅尼亞帝國」入侵事件當中被打敗，部份成員包括帝皇高達、以及嵐騎士高達MK-I戰死，餘下的成員僧正太空坦克R、鎧騎士F-90等、以及部份成員的兒子，包括劍士、鬥士、法術士F-90三兄弟、以及闇騎士、嵐騎士兄弟等等，亦成為新生圓桌騎士團骨幹成員之一。
 
-而在本編故事推出初期，事實上並無將帝皇高達及嵐騎士等人，設定為「初代圓桌騎士團」成員，僅僅交待他們曾經參與過七年前的戰役。直至2008年SD高達萬變咭（Carddass）復刻推出，正式在舊設定的角色以外，追加由[橫井孝二新設計的其他成員](../Page/橫井孝二.md "wikilink")、以及預留最後一員的角色，由讀者以投稿方式選出。
+而在本編故事推出初期，事實上並無將帝皇高達及嵐騎士等人，設定為「初代圓桌騎士團」成員，僅僅交待他們曾經參與過七年前的戰役。直至2008年SD高達萬變咭（Carddass）復刻推出，正式在舊設定的角色以外，追加由[橫井孝二](../Page/橫井孝二.md "wikilink")新設計的其他成員、以及預留最後一員的角色，由讀者以投稿方式選出。
 
 至於初代圓桌騎士團的成員，則包括：
 
@@ -295,8 +290,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    在「薩比羅尼亞王國」入侵中戰死，臨終前將額上羽飾託付予白金卿。（類似設定，亦曾出現在同月推出的[BB戰士三國傳
-    英雄激突編模型漫畫當中](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")，呂蒙將故人鄧當的額上羽飾鑲在面具上。）
+    在「薩比羅尼亞王國」入侵中戰死，臨終前將額上羽飾託付予白金卿。（類似設定，亦曾出現在同月推出的[BB戰士三國傳 英雄激突編模型漫畫當中](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")，呂蒙將故人鄧當的額上羽飾鑲在面具上。）
 
 **銀騎士Z高達**（實驗型Z高達—X2百式型）
 
@@ -311,27 +305,22 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 '''竜騎士ファルコガンダム '''
 
   -
-    舊圓桌騎士之一、也是日後「[SD高達外傳
-    騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」龍騎士零高達之父，後來被魔獸寄生，成為幻魔王。布禮斯特陷落時，與假面騎士一同到「グラナダ地方」調查各地怪異事件。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
+    舊圓桌騎士之一、也是日後「[SD高達外傳 騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」龍騎士零高達之父，後來被魔獸寄生，成為幻魔王。布禮斯特陷落時，與假面騎士一同到「グラナダ地方」調查各地怪異事件。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
 
 **仮面騎士ジェイバー**
 
   -
-    舊圓桌騎士之一、也是日後「[SD高達外傳
-    騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」中出場的騎士團長，有專用的「假面機兵」。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
+    舊圓桌騎士之一、也是日後「[SD高達外傳 騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」中出場的騎士團長，有專用的「假面機兵」。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
 
 **騎士司令高達**（騎士コナンガンダム）
 
   -
-    與武者頑星刃（參考[新SD戰國傳
-    傳說之大將軍編](https://zh.wikipedia.org/wiki/新SD戰國傳_傳說之大將軍編 "wikilink")）相似，異世界出身的G-ARMS最高司令官。由非正規角色升格而成。曾在「[SD高達外傳
-    騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」中出場。
+    與武者頑星刃（參考[新SD戰國傳 傳說之大將軍編](https://zh.wikipedia.org/wiki/新SD戰國傳_傳說之大將軍編 "wikilink")）相似，異世界出身的G-ARMS最高司令官。由非正規角色升格而成。曾在「[SD高達外傳 騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」中出場。
 
 **法術士流星高達／魔法劍士流星高達（魔法剣士メテオガンダム）**（HI-Nu高達）
 
   -
-    [SD高達外傳
-    機甲神傳說登場](https://zh.wikipedia.org/wiki/SD高達外傳_機甲神傳說 "wikilink")，達巴王國出身的魔法劍士。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
+    [SD高達外傳 機甲神傳說登場](https://zh.wikipedia.org/wiki/SD高達外傳_機甲神傳說 "wikilink")，達巴王國出身的魔法劍士。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
 
 '''騎士アーサーガンダム '''
 
@@ -371,9 +360,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    邪獸王的原型，是來自Arcade遊戲「機動戰士SD高達 塞克 沙羅曼的威脅」(機動戦士SDガンダム　サイコ
-    サラマンダーの脅威)的原創終極角色「塞克
-    沙羅曼」[1](http://khex.blog42.fc2.com/blog-entry-206.html)
+    邪獸王的原型，是來自Arcade遊戲「機動戰士SD高達 塞克 沙羅曼的威脅」(機動戦士SDガンダム　サイコ サラマンダーの脅威)的原創終極角色「塞克 沙羅曼」[1](http://khex.blog42.fc2.com/blog-entry-206.html)
 
 **邪騎士ザクエス**
 
@@ -433,8 +420,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
 **戰士居勒．德卡**（戦士ギラ・ドーガ）
 
-'''戰士[加羅波的β](https://zh.wikipedia.org/wiki/加羅波的 "wikilink")
-'''（戦士ガルバルディβ）
+'''戰士[加羅波的β](https://zh.wikipedia.org/wiki/加羅波的 "wikilink") '''（戦士ガルバルディβ）
 
 **鬥士[茲沙](https://zh.wikipedia.org/wiki/茲沙 "wikilink")**（闘士ズサ）
 
@@ -684,11 +670,8 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
 <!-- end list -->
 
-  - [SD GUNDAM
-    FORCE中](https://zh.wikipedia.org/wiki/SD_GUNDAM_FORCE "wikilink")，主角之一翼之騎士．零專用武器「Vadora之劍」（ヴァドラスソード）及盾牌「Buritisu之盾」（ブリティスシールド），與皇騎士的武器為同一名稱。
+  - [SD GUNDAM FORCE中](https://zh.wikipedia.org/wiki/SD_GUNDAM_FORCE "wikilink")，主角之一翼之騎士．零專用武器「Vadora之劍」（ヴァドラスソード）及盾牌「Buritisu之盾」（ブリティスシールド），與皇騎士的武器為同一名稱。
 
 ## 相關連結
 
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")
-[Category:圓桌騎士題材作品](https://zh.wikipedia.org/wiki/Category:圓桌騎士題材作品 "wikilink")
+[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink") [Category:圓桌騎士題材作品](https://zh.wikipedia.org/wiki/Category:圓桌騎士題材作品 "wikilink")

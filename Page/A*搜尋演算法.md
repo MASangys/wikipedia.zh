@@ -1,4 +1,4 @@
-**A\*搜尋演算法**，俗稱**A星演算法**。這是一種在圖形平面上，有多個[節點的](https://zh.wikipedia.org/wiki/節點 "wikilink")[路徑](https://zh.wikipedia.org/wiki/路径 "wikilink")，求出最低通過[成本的](../Page/成本.md "wikilink")[演算法](../Page/算法.md "wikilink")。常用於遊戲中的NPC的移動計算，或[网络游戏的BOT的移動計算上](../Page/网络游戏.md "wikilink")。
+**A\*搜尋演算法**，俗稱**A星演算法**。這是一種在圖形平面上，有多個[節點的](https://zh.wikipedia.org/wiki/節點 "wikilink")[路徑](https://zh.wikipedia.org/wiki/路径 "wikilink")，求出最低通過[成本](../Page/成本.md "wikilink")的[演算法](../Page/算法.md "wikilink")。常用於遊戲中的NPC的移動計算，或[网络游戏](../Page/网络游戏.md "wikilink")的BOT的移動計算上。
 
 该算法综合了和[Dijkstra算法的优点](https://zh.wikipedia.org/wiki/Dijkstra算法 "wikilink")：在进行启发式搜索提高算法效率的同时，可以保证找到一条最优路径（基于评估函数）。
 
@@ -63,11 +63,6 @@
 
 ## 外部連結
 
-  - [A\* 演算法簡介 (A\* Algorithm
-    Brief)](http://blog.minstrel.idv.tw/2004/12/star-algorithm.html)
+  - [A\* 演算法簡介 (A\* Algorithm Brief)](http://blog.minstrel.idv.tw/2004/12/star-algorithm.html)
 
-[Category:图算法](https://zh.wikipedia.org/wiki/Category:图算法 "wikilink")
-[Category:路由算法](https://zh.wikipedia.org/wiki/Category:路由算法 "wikilink")
-[Category:搜尋演算法](https://zh.wikipedia.org/wiki/Category:搜尋演算法 "wikilink")
-[Category:组合优化](https://zh.wikipedia.org/wiki/Category:组合优化 "wikilink")
-[Category:游戏人工智能](https://zh.wikipedia.org/wiki/Category:游戏人工智能 "wikilink")
+[Category:图算法](https://zh.wikipedia.org/wiki/Category:图算法 "wikilink") [Category:路由算法](https://zh.wikipedia.org/wiki/Category:路由算法 "wikilink") [Category:搜尋演算法](https://zh.wikipedia.org/wiki/Category:搜尋演算法 "wikilink") [Category:组合优化](https://zh.wikipedia.org/wiki/Category:组合优化 "wikilink") [Category:游戏人工智能](https://zh.wikipedia.org/wiki/Category:游戏人工智能 "wikilink")

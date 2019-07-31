@@ -15,18 +15,13 @@
 | 武裝                                                                                                      |
 | 特殊裝置                                                                                                    |
 
-**GN-002 力天使GUNDAM（Gundam
-Dynames）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
-Suit），由洛克昂·史特拉托斯（尼爾·狄蘭迪）所駕駛。
+**GN-002 力天使GUNDAM（Gundam Dynames）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile Suit），由洛克昂·史特拉托斯（尼爾·狄蘭迪）所駕駛。
 
 ## 介紹
 
 天上人的第三世代GUNDAM之一，於2307年首次登場。由於機體中央搭載的GN-Drive產生的GN粒子，得到了接近無限的能源和令人驚異的高性能。
 
-力天使GUNDAM是以射擊戰為主的機體，除了標準配備的GN狙擊步槍，還存在可配合各種任務選用的多種槍支，例如「超高濃度GN粒子狙擊槍（Super
-Substratospheric Altitude
-Gun）」，可直接由地面狙擊約於[大氣層邊緣的](https://zh.wikipedia.org/wiki/大氣層 "wikilink")[太空](https://zh.wikipedia.org/wiki/太空 "wikilink")\[1\]。本機在進行精密瞄準的射擊時，頭部會變形為狙擊模式，露出被藏起來的高精度攝影器，同時駕駛艙內也會出現步槍型的專用操縱桿供洛奧作狙擊用。
+力天使GUNDAM是以射擊戰為主的機體，除了標準配備的GN狙擊步槍，還存在可配合各種任務選用的多種槍支，例如「超高濃度GN粒子狙擊槍（Super Substratospheric Altitude Gun）」，可直接由地面狙擊約於[大氣層邊緣的](https://zh.wikipedia.org/wiki/大氣層 "wikilink")[太空](https://zh.wikipedia.org/wiki/太空 "wikilink")\[1\]。本機在進行精密瞄準的射擊時，頭部會變形為狙擊模式，露出被藏起來的高精度攝影器，同時駕駛艙內也會出現步槍型的專用操縱桿供洛奧作狙擊用。
 
 另一方面，本機幾乎沒有格鬥戰用的武器，武裝幾乎都是遠距離射擊武器，其設計的想法與擅長格鬥戰的[能天使GUNDAM完全相反](https://zh.wikipedia.org/wiki/能天使GUNDAM "wikilink")。
 
@@ -138,8 +133,7 @@ GN狙擊步槍是大型武器，不善於連射或狹窄地形(例如基地)，�
 
 全覆護盾在機體前方展開時，儘管機體的運動上受限，但可發揮較高的防禦力。
 
-GN全覆護盾可在機體週遭的廣大範圍內活動，其控制由[哈囉負責](../Page/Haro.md "wikilink")，使洛克昂可以把精神力集中在射擊上。
-R2的是半透明,可以因環境改變顏色。 在設計上還可以作額外6把GN粒子束手槍的倉庫，但因為不符合洛克昂的戰鬥風格而取消。
+GN全覆護盾可在機體週遭的廣大範圍內活動，其控制由[哈囉負責](../Page/Haro.md "wikilink")，使洛克昂可以把精神力集中在射擊上。 R2的是半透明,可以因環境改變顏色。 在設計上還可以作額外6把GN粒子束手槍的倉庫，但因為不符合洛克昂的戰鬥風格而取消。
 
 ### GN飛彈（GN Missile）×24
 
@@ -169,8 +163,7 @@ GUNDAM待機時使用光學外膜，使機體成隱形狀態。
 
 ### GN武裝戰機D型（GN Arms Type-D）
 
-GN武裝戰機D型為天上人為力天使GUNDAM開發的外掛裝備，可單獨進行作戰，也可與集裝箱或強襲集裝箱結合，亦可變形為「GN
-Armor」與力天使連結。
+GN武裝戰機D型為天上人為力天使GUNDAM開發的外掛裝備，可單獨進行作戰，也可與集裝箱或強襲集裝箱結合，亦可變形為「GN Armor」與力天使連結。
 
   - 武裝：
 
@@ -203,8 +196,7 @@ Armor」與力天使連結。
 | 武裝               |
 | 特殊裝置             |
 
-官方外傳《機動戰士GUNDAM 00V》和《機動戰士GUNDAM
-00F》中登場。搭載「[魚雷](../Page/魚雷.md "wikilink")」裝備的力天使GUNDAM，增強了狙擊水中目標的能力。
+官方外傳《機動戰士GUNDAM 00V》和《機動戰士GUNDAM 00F》中登場。搭載「[魚雷](../Page/魚雷.md "wikilink")」裝備的力天使GUNDAM，增強了狙擊水中目標的能力。
 
 MS較其他兵器最優秀之處在於泛用性，能夠對應地面、大氣層、宇宙等戰場，但仍有一個難以應付的戰場，那就是[水](../Page/水.md "wikilink")中，MS的人型形態在水中並不能有效運作，取而代之的是艦艇和MA稱霸於水中。而各國皆嘗試著開發能夠在水中發揮正常實力的MS，但是實際情況是目前均無法達到預期的效果。
 
@@ -277,8 +269,7 @@ MS較其他兵器最優秀之處在於泛用性，能夠對應地面、大氣層
 
 ## 參見
 
-  - [機動戰士GUNDAM
-    00登場機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場機體列表 "wikilink")
+  - [機動戰士GUNDAM 00登場機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場機體列表 "wikilink")
 
 [ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム "wikilink")
 

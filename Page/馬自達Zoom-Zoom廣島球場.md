@@ -10,8 +10,4 @@
 
   - [Mazda Zoom-Zoom Stadium広島](http://www.mazdastadium.jp/)
 
-[Category:廣島東洋鯉魚隊](https://zh.wikipedia.org/wiki/Category:廣島東洋鯉魚隊 "wikilink")
-[Category:廣島市建築物](https://zh.wikipedia.org/wiki/Category:廣島市建築物 "wikilink")
-[Category:日本棒球場](https://zh.wikipedia.org/wiki/Category:日本棒球場 "wikilink")
-[Category:2009年完工體育場館](https://zh.wikipedia.org/wiki/Category:2009年完工體育場館 "wikilink")
-[Category:南區_(廣島市)](https://zh.wikipedia.org/wiki/Category:南區_\(廣島市\) "wikilink")
+[Category:廣島東洋鯉魚隊](https://zh.wikipedia.org/wiki/Category:廣島東洋鯉魚隊 "wikilink") [Category:廣島市建築物](https://zh.wikipedia.org/wiki/Category:廣島市建築物 "wikilink") [Category:日本棒球場](https://zh.wikipedia.org/wiki/Category:日本棒球場 "wikilink") [Category:2009年完工體育場館](https://zh.wikipedia.org/wiki/Category:2009年完工體育場館 "wikilink") [Category:南區_(廣島市)](https://zh.wikipedia.org/wiki/Category:南區_\(廣島市\) "wikilink")

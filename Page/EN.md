@@ -8,15 +8,11 @@
 
   - [Н](../Page/Н.md "wikilink")（н），西里尔字母，对应拉丁字母n。
 
-  - [En
-    (二合字母)](https://zh.wikipedia.org/wiki/En_\(二合字母\) "wikilink")，拉丁二合字母
+  - [En (二合字母)](https://zh.wikipedia.org/wiki/En_\(二合字母\) "wikilink")，拉丁二合字母
 
-  - [En
-    (字体排印学)](https://zh.wikipedia.org/wiki/En_\(字体排印学\) "wikilink")，字体排印学中的宽度单位，相当于指定字体行高的一半。（参见[en
-    dash](https://zh.wikipedia.org/wiki/连字号#En_dash "wikilink")）
+  - [En (字体排印学)](https://zh.wikipedia.org/wiki/En_\(字体排印学\) "wikilink")，字体排印学中的宽度单位，相当于指定字体行高的一半。（参见[en dash](https://zh.wikipedia.org/wiki/连字号#En_dash "wikilink")）
 
-  - \-
-    [李代数E](https://zh.wikipedia.org/wiki/李代数 "wikilink")<sub>n</sub>的一员，对应n=5..8。
+  - \- [李代数E](https://zh.wikipedia.org/wiki/李代数 "wikilink")<sub>n</sub>的一员，对应n=5..8。
 
 ## 语言
 
@@ -34,15 +30,13 @@
 
   - en，[乙二胺](../Page/乙二胺.md "wikilink")（Ethylenediamine），一种有机[配体的简写](https://zh.wikipedia.org/wiki/配体 "wikilink")，化学式C<sub>2</sub>H<sub>8</sub>N<sub>2</sub>
 
-  - EN，exanewton，国际单位制的力学单位：10<sup>18</sup>
-    [牛顿](https://zh.wikipedia.org/wiki/牛顿_\(单位\) "wikilink")
+  - EN，exanewton，国际单位制的力学单位：10<sup>18</sup> [牛顿](https://zh.wikipedia.org/wiki/牛顿_\(单位\) "wikilink")
 
   - ，皮下脂肪细胞发生的炎症
 
   - ，一种化学镀镍法
 
-  - EN，（英文：**Vulnerable
-    species**）即[瀕危](https://zh.wikipedia.org/wiki/瀕危 "wikilink")
+  - EN，（英文：**Vulnerable species**）即[瀕危](https://zh.wikipedia.org/wiki/瀕危 "wikilink")
 
 ## 地域
 
@@ -51,14 +45,12 @@
 
 ## 文化
 
-  - [Einstürzende
-    Neubauten](https://zh.wikipedia.org/wiki/Einstürzende_Neubauten "wikilink")，德国工业音乐组合
+  - [Einstürzende Neubauten](https://zh.wikipedia.org/wiki/Einstürzende_Neubauten "wikilink")，德国工业音乐组合
   - En或Ann，《美少女战士》中[魔界树的对手](https://zh.wikipedia.org/wiki/魔界树 "wikilink")
 
 ## 组织
 
-  - [Eastern
-    National](https://zh.wikipedia.org/wiki/Eastern_National "wikilink")，为美国国家公园管理局提供支持的非营利组织
+  - [Eastern National](https://zh.wikipedia.org/wiki/Eastern_National "wikilink")，为美国国家公园管理局提供支持的非营利组织
 
 <!-- end list -->
 

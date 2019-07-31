@@ -24,15 +24,13 @@
 ## 電台節目
 
   - 2007年－2008年：[KBS](../Page/韓國放送公社.md "wikilink")《Tei Music Island》
-  - 2015年－至今：[MBC
-    FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink")《》
+  - 2015年－至今：[MBC FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink")《》
 
 ## 演出作品
 
 ### 電視劇
 
-  - 2009年：[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[不是誰都能愛](https://zh.wikipedia.org/wiki/不是誰都能愛_\(2009年\) "wikilink")》飾演
-    丹尼洪
+  - 2009年：[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[不是誰都能愛](https://zh.wikipedia.org/wiki/不是誰都能愛_\(2009年\) "wikilink")》飾演 丹尼洪
 
 ### 電影
 
@@ -46,8 +44,7 @@
   - 2015年10月24日－11月7日：KBS《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》
   - 2016年2月7日－2月14日：MBC《神秘音樂秀：蒙面歌王》
   - 2016年6月17日：MBC《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》
-  - 2016年6月22日：MBC《[黃金漁場 Radio
-    Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")》
+  - 2016年6月22日：MBC《[黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")》
   - 2016年9月2日－9月9日：MBC《二重唱歌謠祭》
   - 2016年10月30日－11月6日：MBC《神秘音樂秀：蒙面歌王》
   - 2016年12月3日：KBS《不朽的名曲：傳說在歌唱》
@@ -68,10 +65,4 @@
 
   -
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:慶南大學校友](https://zh.wikipedia.org/wiki/Category:慶南大學校友 "wikilink")
-[Category:蔚山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:蔚山廣域市出身人物 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:慶南大學校友](https://zh.wikipedia.org/wiki/Category:慶南大學校友 "wikilink") [Category:蔚山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:蔚山廣域市出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")

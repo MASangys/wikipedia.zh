@@ -1,6 +1,4 @@
-**峴港SHB足球俱樂部**（）
-是[越南足球俱乐部](https://zh.wikipedia.org/wiki/越南 "wikilink")，位于[岘港](https://zh.wikipedia.org/wiki/岘港 "wikilink")。俱乐部创建于1976年，属于越南足球联赛中的顶级联赛球队，球队主体育场为支朗体育场（San
-Chi Lang）。
+**峴港SHB足球俱樂部**（） 是[越南足球俱乐部](https://zh.wikipedia.org/wiki/越南 "wikilink")，位于[岘港](https://zh.wikipedia.org/wiki/岘港 "wikilink")。俱乐部创建于1976年，属于越南足球联赛中的顶级联赛球队，球队主体育场为支朗体育场（San Chi Lang）。
 
 俱乐部在2006赛季最近一次闯入过[亚洲冠军联赛](https://zh.wikipedia.org/wiki/亚洲冠军联赛 "wikilink")，尽管表现只能称得上惨败（包括平记录的0-15惨败给日本联赛球队[大阪飞脚](https://zh.wikipedia.org/wiki/大阪飞脚 "wikilink")），最终在和[全北现代](https://zh.wikipedia.org/wiki/全北现代 "wikilink")、[大阪飞脚](https://zh.wikipedia.org/wiki/大阪飞脚 "wikilink")、[大连实德小组赛中](https://zh.wikipedia.org/wiki/大连实德 "wikilink")6战全败垫底被淘汰。
 
@@ -8,8 +6,7 @@ Chi Lang）。
 
 ## 球隊榮譽
 
-  - **[越南足球聯賽](https://zh.wikipedia.org/wiki/越南足球聯賽 "wikilink")**: 2
-    (1992, 2009)
+  - **[越南足球聯賽](https://zh.wikipedia.org/wiki/越南足球聯賽 "wikilink")**: 2 (1992, 2009)
   - **[越南盃](../Page/越南盃.md "wikilink")**: 2 (1993, 2009)
 
 ## 亞足協賽事成績
@@ -21,10 +18,8 @@ Chi Lang）。
   -
 
       -
-        [2006](https://zh.wikipedia.org/wiki/2006年亞足聯冠軍聯賽 "wikilink"):
-        小組賽
-        [2010](https://zh.wikipedia.org/wiki/2010年亞足聯冠軍聯賽 "wikilink"):
-        *外圍賽出局*
+        [2006](https://zh.wikipedia.org/wiki/2006年亞足聯冠軍聯賽 "wikilink"): 小組賽
+        [2010](https://zh.wikipedia.org/wiki/2010年亞足聯冠軍聯賽 "wikilink"): *外圍賽出局*
 
 <!-- end list -->
 
@@ -327,9 +322,7 @@ Chi Lang）。
 
 ## 外部链接
 
-  - [Da Nang page - AFC Champions League
-    site](http://www.afcchampionsleague.com/en/tournament/teams.asp?cid=1309&sqid=1362&tbl=Y)
-  - [Da Nang page -
-    Vietnamnet.com](https://web.archive.org/web/20070606032118/http://thethao.vietnamnet.vn/bongda/clb_vn/2004/10/334662/)
+  - [Da Nang page - AFC Champions League site](http://www.afcchampionsleague.com/en/tournament/teams.asp?cid=1309&sqid=1362&tbl=Y)
+  - [Da Nang page - Vietnamnet.com](https://web.archive.org/web/20070606032118/http://thethao.vietnamnet.vn/bongda/clb_vn/2004/10/334662/)
 
 [Category:越南足球俱乐部](https://zh.wikipedia.org/wiki/Category:越南足球俱乐部 "wikilink")

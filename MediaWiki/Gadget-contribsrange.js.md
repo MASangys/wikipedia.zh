@@ -1,18 +1,6 @@
-//
-_________________________________________________________________________________________
-// | | // | === WARNING: GLOBAL GADGET FILE === | // | Changes to this
-page affect many users. | // | Please discuss changes on the talk page
-or on
-[Wikipedia_talk:Gadget](https://zh.wikipedia.org/wiki/Wikipedia_talk:Gadget "wikilink")
-before editing. | //
-|_________________________________________________________________________________________|
-// // Imported from version 312947638 as of September 10, 2009 from
-[User:Splarka/contribsrange.js](https://zh.wikipedia.org/wiki/User:Splarka/contribsrange.js "wikilink")
-// See notes below
+// _________________________________________________________________________________________ // | | // | === WARNING: GLOBAL GADGET FILE === | // | Changes to this page affect many users. | // | Please discuss changes on the talk page or on [Wikipedia_talk:Gadget](https://zh.wikipedia.org/wiki/Wikipedia_talk:Gadget "wikilink") before editing. | // |_________________________________________________________________________________________| // // Imported from version 312947638 as of September 10, 2009 from [User:Splarka/contribsrange.js](https://zh.wikipedia.org/wiki/User:Splarka/contribsrange.js "wikilink") // See notes below
 
-/\* Special:Contributions Wildcard/CIDR lookup, version \[0.2.7\]
-Originally from:
-<https://en.wikipedia.org/wiki/User:Splarka/contribsrange.js>
+/\* Special:Contributions Wildcard/CIDR lookup, version \[0.2.7\] Originally from: <https://en.wikipedia.org/wiki/User:Splarka/contribsrange.js>
 
 Notes:
 
@@ -21,32 +9,22 @@ Notes:
   - Currently uses a GET json via
     <script src="">
     to avoid ajax problems.
-  - Only currently works if submitted (or called by URL parameter, eg
-    Special:Contributions/User).
+  - Only currently works if submitted (or called by URL parameter, eg Special:Contributions/User).
       - Checks namespace and date options in form.
-      - Also utilizes \&ucstart and \&ucend date parameters if supplied
-        manually (not supported in the UI atm).
+      - Also utilizes \&ucstart and \&ucend date parameters if supplied manually (not supported in the UI atm).
           - These parameter soverride the form date options.
-  - Uses: Submit any IP CIDR range /16 or from /24 to /32. Submit any
-    string (at least 3 characters) with a suffixed asterisk.
-      - eg: \[123.123.123.0/24 \] or \[123.123.123.\* \] or \[Willy\*
-        \].
-  - Now keeps searching until it finds crMax (or forever with
-    crshowall=true URI parameter).
-      - Puts them in a nice collapsed div stack, like enhanced recent
-        changes.
-  - /25 and /26 ranges now disabled, since they are inaccurate (50
-    parameter limit), please use /24 (ucuserprefix) or /27 (32
-    parameters)
+  - Uses: Submit any IP CIDR range /16 or from /24 to /32. Submit any string (at least 3 characters) with a suffixed asterisk.
+      - eg: \[123.123.123.0/24 \] or \[123.123.123.\* \] or \[Willy\* \].
+  - Now keeps searching until it finds crMax (or forever with crshowall=true URI parameter).
+      - Puts them in a nice collapsed div stack, like enhanced recent changes.
+  - /25 and /26 ranges now disabled, since they are inaccurate (50 parameter limit), please use /24 (ucuserprefix) or /27 (32 parameters)
 
 To do:
 
   - use ajax (let sysops/bots = 5000)?
   - /
 
-/\*jshint scripturl:true\*/ /\*global jQuery, mediaWiki, prefixContribs,
-prefixContribsToggleDiv, prefixContribsToggleAll \*/ ( function ( mw, $
-) {
+/\*jshint scripturl:true\*/ /\*global jQuery, mediaWiki, prefixContribs, prefixContribsToggleDiv, prefixContribsToggleAll \*/ ( function ( mw, $ ) {
 
 function prefixContribsInit() {
 

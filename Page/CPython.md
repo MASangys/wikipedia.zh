@@ -79,26 +79,16 @@ CPython是使用[字节码的](https://zh.wikipedia.org/wiki/字节码 "wikilink
 
 这些版本没有进入[Python软件基金会的官方版本](https://zh.wikipedia.org/wiki/Python软件基金会 "wikilink")，这些版本包含了为特定平台提供的模块，如为PSP提供的图像和声音[API以及为S](https://zh.wikipedia.org/wiki/API "wikilink")60提供的[SMS和照相机API](https://zh.wikipedia.org/wiki/SMS "wikilink")。
 
-  - [Amiga](../Page/Amiga.md "wikilink")
-    [1](http://www.monkeyhouse.eclipse.co.uk/amiga/python/)
-  - [AS/400](https://zh.wikipedia.org/wiki/AS/400 "wikilink")
-    [2](http://www.iseriespython.com/)
-  - [DOS](../Page/DOS.md "wikilink")平台使用的[DJGPP](https://zh.wikipedia.org/wiki/DJGPP "wikilink")
-    [3](http://www.caddit.net/pythond/)
-  - [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")
-    [4](https://web.archive.org/web/20090210233518/http://python-psp.net/trac/)
-  - [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
-    [5](https://web.archive.org/web/20080810154656/http://opensource.nokia.com/projects/pythonfors60/)
-  - [Windows
-    CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")/[Pocket
-    PC](../Page/Pocket_PC.md "wikilink")
-    [6](http://pythonce.sourceforge.net/)
+  - [Amiga](../Page/Amiga.md "wikilink") [1](http://www.monkeyhouse.eclipse.co.uk/amiga/python/)
+  - [AS/400](https://zh.wikipedia.org/wiki/AS/400 "wikilink") [2](http://www.iseriespython.com/)
+  - [DOS](../Page/DOS.md "wikilink")平台使用的[DJGPP](https://zh.wikipedia.org/wiki/DJGPP "wikilink") [3](http://www.caddit.net/pythond/)
+  - [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink") [4](https://web.archive.org/web/20090210233518/http://python-psp.net/trac/)
+  - [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink") [5](https://web.archive.org/web/20080810154656/http://opensource.nokia.com/projects/pythonfors60/)
+  - [Windows CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")/[Pocket PC](../Page/Pocket_PC.md "wikilink") [6](http://pythonce.sourceforge.net/)
 
 ## 并发问题
 
-在[多处理器的计算机上使用CPython的主要问题来自CPython的](https://zh.wikipedia.org/wiki/多处理器 "wikilink")[全局解释器锁](../Page/全局解释器锁.md "wikilink")（Global
-Interpreter
-Lock，GIL），它使得CPython不能进行并发编程。\[1\]要做到并发编程，就必须为每一个线程运行一个解释器。如果这样的话，它们之间的通讯就非常困难。所以社区内一直在讨论是否要从CPython中去除GIL。\[2\]
+在[多处理器的计算机上使用CPython的主要问题来自CPython的](https://zh.wikipedia.org/wiki/多处理器 "wikilink")[全局解释器锁](../Page/全局解释器锁.md "wikilink")（Global Interpreter Lock，GIL），它使得CPython不能进行并发编程。\[1\]要做到并发编程，就必须为每一个线程运行一个解释器。如果这样的话，它们之间的通讯就非常困难。所以社区内一直在讨论是否要从CPython中去除GIL。\[2\]
 
 ## 注释
 
@@ -108,12 +98,7 @@ Lock，GIL），它使得CPython不能进行并发编程。\[1\]要做到并发�
 
 {{-}}
 
-[Category:自由电脑程式设计工具](https://zh.wikipedia.org/wiki/Category:自由电脑程式设计工具 "wikilink")
-[Category:Python解释器](https://zh.wikipedia.org/wiki/Category:Python解释器 "wikilink")
-[Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
+[Category:自由电脑程式设计工具](https://zh.wikipedia.org/wiki/Category:自由电脑程式设计工具 "wikilink") [Category:Python解释器](https://zh.wikipedia.org/wiki/Category:Python解释器 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
-1.  [Python/C API Reference Manual: Thread State and the Global
-    Interpreter Lock](http://docs.python.org/api/threads.html)
-2.  [Python Library and Extension FAQ: Can't we get rid of the Global
-    Interpreter
-    Lock?](http://www.python.org/doc/faq/library/#can-t-we-get-rid-of-the-global-interpreter-lock)
+1.  [Python/C API Reference Manual: Thread State and the Global Interpreter Lock](http://docs.python.org/api/threads.html)
+2.  [Python Library and Extension FAQ: Can't we get rid of the Global Interpreter Lock?](http://www.python.org/doc/faq/library/#can-t-we-get-rid-of-the-global-interpreter-lock)

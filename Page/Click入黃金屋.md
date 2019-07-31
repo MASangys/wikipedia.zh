@@ -1,4 +1,4 @@
-《**Click入黃金屋**》（；前名《**新網中人**》）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝溫情](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[秦沛](../Page/秦沛.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[孫耀威](../Page/孫耀威.md "wikilink")、[郭羨妮及](../Page/郭羨妮.md "wikilink")[楊思琦領銜主演](../Page/楊思琦.md "wikilink")，並由[陳敏之](../Page/陳敏之.md "wikilink")、[韓馬利及](../Page/韓馬利.md "wikilink")[楊秀惠聯合主演](../Page/楊秀惠.md "wikilink")，[梅小青監製](../Page/梅小青.md "wikilink")。
+《**Click入黃金屋**》（；前名《**新網中人**》）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝溫情[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[秦沛](../Page/秦沛.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[孫耀威](../Page/孫耀威.md "wikilink")、[郭羨妮](../Page/郭羨妮.md "wikilink")及[楊思琦](../Page/楊思琦.md "wikilink")領銜主演，並由[陳敏之](../Page/陳敏之.md "wikilink")、[韓馬利](../Page/韓馬利.md "wikilink")及[楊秀惠](../Page/楊秀惠.md "wikilink")聯合主演，[梅小青](../Page/梅小青.md "wikilink")監製。
 
 ## 演員表
 
@@ -813,11 +813,11 @@ Michele之粉絲（第10集）</p></td>
 
 ## 播放軼事
 
-  - 該劇於翡翠台首播時的播映時段本來播放《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》，宣傳片已播放出街，後來電視台管理層臨時抽調《Click入黃金屋》播放，原因爲近期劇集之劇情[頗重](https://zh.wikipedia.org/wiki/頗重 "wikilink")，鑑於《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》劇情也頗重，所以希望改播一些溫情小品劇，劇情也比較輕鬆。巧合的是，《盛》及《C》劇均有[郭羨妮](../Page/郭羨妮.md "wikilink")、[黎耀祥爲主要演員](../Page/黎耀祥.md "wikilink")。《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》最後延至2012年4月才在翡翠台首播。
+  - 該劇於翡翠台首播時的播映時段本來播放《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》，宣傳片已播放出街，後來電視台管理層臨時抽調《Click入黃金屋》播放，原因爲近期劇集之劇情[頗重](https://zh.wikipedia.org/wiki/頗重 "wikilink")，鑑於《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》劇情也頗重，所以希望改播一些溫情小品劇，劇情也比較輕鬆。巧合的是，《盛》及《C》劇均有[郭羨妮](../Page/郭羨妮.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")爲主要演員。《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》最後延至2012年4月才在翡翠台首播。
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 |        |                         |                                                     |                                                     |         |                        |
 | ------ | ----------------------- | --------------------------------------------------- | --------------------------------------------------- | ------- | ---------------------- |
@@ -834,14 +834,11 @@ Michele之粉絲（第10集）</p></td>
 |align="center" colspan="4"|[畢打自己人](../Page/畢打自己人.md "wikilink")
 2008年10月20日-2010年2月12日 |- |align="center" colspan="1"|**上一套：**
 [東山飄雨西關晴](../Page/東山飄雨西關晴.md "wikilink")
-\-12月5日 |align="center" colspan="2"
-|**翡翠台/高清翡翠台第二綫劇集（[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第二線劇集 "wikilink")-[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第二線劇集 "wikilink")）**
+\-12月5日 |align="center" colspan="2" |**翡翠台/高清翡翠台第二綫劇集（[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第二線劇集 "wikilink")-[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第二線劇集 "wikilink")）**
 **Click入黃金屋**
 12月8日-1月2日 |align="center" colspan="1"|**下一套：**
 [鹿鼎記](../Page/鹿鼎記_\(2008年電視劇\).md "wikilink")
-1月5日- |- |align="center"
-colspan="4"|[珠光寶氣](https://zh.wikipedia.org/wiki/珠光寶氣_\(電視劇\) "wikilink")
+1月5日- |- |align="center" colspan="4"|[珠光寶氣](https://zh.wikipedia.org/wiki/珠光寶氣_\(電視劇\) "wikilink")
 2008年10月20日-2009年2月13日
 
-[Category:2008年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2008年無綫電視劇集 "wikilink")
-[Category:2009年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2009年無綫電視劇集 "wikilink")
+[Category:2008年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2008年無綫電視劇集 "wikilink") [Category:2009年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2009年無綫電視劇集 "wikilink")

@@ -1,21 +1,12 @@
-**jQuery**是一套跨[瀏覽器的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")，简化[HTML與JavaScript之間的操作](../Page/HTML.md "wikilink")。\[1\]由[約翰·雷西格](../Page/約翰·雷西格.md "wikilink")（）在2006年1月的BarCamp
-NYC上釋出第一個版本。目前是由Dave
-Methvin领导的开发团队进行开发。全球前10,000个访问最高的网站中，有65%使用了jQuery，是目前最受歡迎的JavaScript函式庫\[2\]\[3\]。
+**jQuery**是一套跨[瀏覽器的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")，简化[HTML](../Page/HTML.md "wikilink")與JavaScript之間的操作。\[1\]由[約翰·雷西格](../Page/約翰·雷西格.md "wikilink")（）在2006年1月的BarCamp NYC上釋出第一個版本。目前是由Dave Methvin领导的开发团队进行开发。全球前10,000个访问最高的网站中，有65%使用了jQuery，是目前最受歡迎的JavaScript函式庫\[2\]\[3\]。
 
 ## 簡介
 
-jQuery是[开源软件](../Page/开源软件.md "wikilink")，使用[MIT许可证授权](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。\[4\]
-jQuery的语法设计使得许多操作变得容易，如操作-{zh-hans:文档对象;zh-hant:文件;}-（document）、选择[文档对象模型](../Page/文档对象模型.md "wikilink")（）元素、创建[动画效果](../Page/动画.md "wikilink")、处理[事件](https://zh.wikipedia.org/wiki/事件_\(计算机\) "wikilink")、以及开发[Ajax程序](../Page/AJAX.md "wikilink")。jQuery也提供了给开发人员在其上创建[插件的能力](../Page/插件.md "wikilink")。这使开发人员可以对底层交互与动画、高级效果和高级主题化的组件进行抽象化。模块化的方式使jQuery函数库能够创建功能强大的[动态网页以及](https://zh.wikipedia.org/wiki/动态HTML "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")。
+jQuery是[开源软件](../Page/开源软件.md "wikilink")，使用[MIT许可证授权](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。\[4\] jQuery的语法设计使得许多操作变得容易，如操作-{zh-hans:文档对象;zh-hant:文件;}-（document）、选择[文档对象模型](../Page/文档对象模型.md "wikilink")（）元素、创建[动画](../Page/动画.md "wikilink")效果、处理[事件](https://zh.wikipedia.org/wiki/事件_\(计算机\) "wikilink")、以及开发[Ajax程序](../Page/AJAX.md "wikilink")。jQuery也提供了给开发人员在其上创建[插件](../Page/插件.md "wikilink")的能力。这使开发人员可以对底层交互与动画、高级效果和高级主题化的组件进行抽象化。模块化的方式使jQuery函数库能够创建功能强大的[动态网页以及](https://zh.wikipedia.org/wiki/动态HTML "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")。
 
-[微软和](../Page/微软.md "wikilink")[诺基亚已宣布在他们的平台上绑定jQuery](../Page/诺基亚.md "wikilink")。\[5\]微软最初在[Visual
-Studio中集成了jQuery](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")\[6\]以便在微软自己的[ASP.NET
-AJAX框架和](../Page/ASP.NET_AJAX.md "wikilink")[ASP.NET MVC
-Framework中使用](../Page/ASP.NET_MVC_Framework.md "wikilink")，而诺基亚则在他的Web运行时组件开发平台中集成了jQuery\[7\]。[MediaWiki自从](../Page/MediaWiki.md "wikilink")1.16版本后也开始使用jQuery\[8\]。
+[微软](../Page/微软.md "wikilink")和[诺基亚](../Page/诺基亚.md "wikilink")已宣布在他们的平台上绑定jQuery。\[5\]微软最初在[Visual Studio中集成了jQuery](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")\[6\]以便在微软自己的[ASP.NET AJAX框架和](../Page/ASP.NET_AJAX.md "wikilink")[ASP.NET MVC Framework中使用](../Page/ASP.NET_MVC_Framework.md "wikilink")，而诺基亚则在他的Web运行时组件开发平台中集成了jQuery\[7\]。[MediaWiki](../Page/MediaWiki.md "wikilink")自从1.16版本后也开始使用jQuery\[8\]。
 
-jQuery
-1.3版以後，引入全新的[層疊樣式表](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")（）选择器引擎Sizzle。\[9\]
-同時不再提供Packed版本，因為解壓縮所消耗的時間，遠大於所節省的下載時間，且不利於[除錯](https://zh.wikipedia.org/wiki/除錯 "wikilink")，且已有Google
-AJAX Libraries API等公開站台提供jQuery的js的引用服务，故Packed版本原本的優點已蕩然無存。
+jQuery 1.3版以後，引入全新的[層疊樣式表](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")（）选择器引擎Sizzle。\[9\] 同時不再提供Packed版本，因為解壓縮所消耗的時間，遠大於所節省的下載時間，且不利於[除錯](https://zh.wikipedia.org/wiki/除錯 "wikilink")，且已有Google AJAX Libraries API等公開站台提供jQuery的js的引用服务，故Packed版本原本的優點已蕩然無存。
 
 ## 特色
 
@@ -27,7 +18,7 @@ jQuery有下列特色：
   - 特效和動畫
   - [Ajax](../Page/AJAX.md "wikilink")
   - [Deferred和Promise对象来控制异步处理](https://zh.wikipedia.org/wiki/Futures_and_promises "wikilink")
-  - [JSON解析](../Page/JSON.md "wikilink")
+  - [JSON](../Page/JSON.md "wikilink")解析
   - 通过插件扩展
   - 工具函数，如特征检测
   - 现代浏览器中原生的兼容性方法，但对于旧版浏览器需要后备（fallback）方法，比如`inArray()`和`each()`
@@ -35,18 +26,13 @@ jQuery有下列特色：
 
 ### 浏览器支持
 
-jQuery 3.0及以后版本支持“当前−1版本”
-的[Firefox](../Page/Firefox.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Edge](../Page/Microsoft_Edge.md "wikilink")（就是说当前稳定版本以及当前稳定版本之前的一个版本），另外还支持[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")
-[9以后的IE版本](../Page/Internet_Explorer_9.md "wikilink")。在移动端支持[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
-7+和[Android](../Page/Android.md "wikilink") 4.0+。\[11\]
+jQuery 3.0及以后版本支持“当前−1版本” 的[Firefox](../Page/Firefox.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Edge](../Page/Microsoft_Edge.md "wikilink")（就是说当前稳定版本以及当前稳定版本之前的一个版本），另外还支持[Internet Explorer](../Page/Internet_Explorer.md "wikilink") [9以后的IE版本](../Page/Internet_Explorer_9.md "wikilink")。在移动端支持[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 7+和[Android](../Page/Android.md "wikilink") 4.0+。\[11\]
 
 ## 用法
 
 ### 加載jQuery
 
-jQuery库是包含所有公共DOM、事件、效果和Ajax函数的一个JavaScript文件。可以通过链接到本地副本或公共服务器提供的许多副本之一把jQuery包含在网页中。jQuery有一个由MaxCDN托管的[內容傳遞網路](../Page/內容傳遞網路.md "wikilink")（CDN）。\[12\]
-Google和微软也托管了jQuery。\[13\]\[14\]
+jQuery库是包含所有公共DOM、事件、效果和Ajax函数的一个JavaScript文件。可以通过链接到本地副本或公共服务器提供的许多副本之一把jQuery包含在网页中。jQuery有一个由MaxCDN托管的[內容傳遞網路](../Page/內容傳遞網路.md "wikilink")（CDN）。\[12\] Google和微软也托管了jQuery。\[13\]\[14\]
 
 ``` html5
 <script src="jquery.js"></script>
@@ -68,8 +54,7 @@ jQuery有两种使用风格：
   - 通过jQuery对象的[工厂方法](../Page/工厂方法.md "wikilink")`$`函数。这些函数通常称作*命令*，[*可以链接*](https://zh.wikipedia.org/wiki/method_chaining "wikilink")，因为它们都返回jQuery对象。
   - 通过`$.`开头的函数。这些是*工具函数*，它们不直接作用于jQuery对象。
 
-在jQuery中访问和操作多个DOM节点通常从用CSS选择器字符串调用`$`函数开始。这会返回一个引用[HTML页面中所有匹配元素的jQuery对象](../Page/HTML.md "wikilink")。比如`$("div.test")`，会返回一个拥有class
-`test`的所有`div`元素的jQuery对象。可以通过调用返回的jQuery对象或节点本身的方法来操作这个节点集。
+在jQuery中访问和操作多个DOM节点通常从用CSS选择器字符串调用`$`函数开始。这会返回一个引用[HTML](../Page/HTML.md "wikilink")页面中所有匹配元素的jQuery对象。比如`$("div.test")`，会返回一个拥有class `test`的所有`div`元素的jQuery对象。可以通过调用返回的jQuery对象或节点本身的方法来操作这个节点集。
 
 ### 无冲突模式
 
@@ -101,10 +86,9 @@ $(document).ready(function(){
 });
 ```
 
-由于历史原因，`$(document).ready(callback)`已经成为DOM就绪时运行代码的实质性标志。但jQuery
-3.0以后，鼓励开发人员使用更简短的`$(handler)`标志。\[16\]
+由于历史原因，`$(document).ready(callback)`已经成为DOM就绪时运行代码的实质性标志。但jQuery 3.0以后，鼓励开发人员使用更简短的`$(handler)`标志。\[16\]
 
-对尚未加载的元素进行事件处理的回调函数可以作为[匿名函数在](../Page/匿名函数.md "wikilink")`.ready()`内部注册。这些事件处理函数只会在触发事件时被调用。例如，下面的代码添加了一个，用于在`img`图像元素上单击鼠标事件的处理函数。
+对尚未加载的元素进行事件处理的回调函数可以作为[匿名函数](../Page/匿名函数.md "wikilink")在`.ready()`内部注册。这些事件处理函数只会在触发事件时被调用。例如，下面的代码添加了一个，用于在`img`图像元素上单击鼠标事件的处理函数。
 
 ``` javascript
 $(function () {
@@ -131,8 +115,7 @@ $('div.test')
 
 ### 创建新的DOM元素
 
-除了通过jQuery对象层次结构访问DOM节点外，如果作为参数传递给$()的字符串看起来像HTML，也可以创建新的DOM元素。例如，这行代码找到ID为`carmakes`的HTML
-`select`元素，并会增加一个value属性为"VAG"、文字为"Volkswagen"的`option`元素：
+除了通过jQuery对象层次结构访问DOM节点外，如果作为参数传递给$()的字符串看起来像HTML，也可以创建新的DOM元素。例如，这行代码找到ID为`carmakes`的HTML `select`元素，并会增加一个value属性为"VAG"、文字为"Volkswagen"的`option`元素：
 
 ``` javascript
 $('select#carmakes')
@@ -180,13 +163,11 @@ $.ajax({
 
 #### 异步
 
-请注意，上面的例子使用`$.ajax()`
-的延期性来处理它的异步特性：`.done()`和`.fail()`创建仅在异步过程完成时才运行的回调。
+请注意，上面的例子使用`$.ajax()` 的延期性来处理它的异步特性：`.done()`和`.fail()`创建仅在异步过程完成时才运行的回调。
 
 ## 發佈版本
 
-JQuery目前分成1.x版、2.x版、3.x版，這三種發佈版本，後两种不再支援IE 6/7/8，前者透過jQuery Migrate
-plugin與先前版本保持相容。
+JQuery目前分成1.x版、2.x版、3.x版，這三種發佈版本，後两种不再支援IE 6/7/8，前者透過jQuery Migrate plugin與先前版本保持相容。
 
 <table>
 <thead>
@@ -348,17 +329,15 @@ plugin與先前版本保持相容。
 
 ### jQuery UI
 
-基于jQuery的[用户界面库](../Page/用户界面.md "wikilink")，包括[拖放](https://zh.wikipedia.org/wiki/拖放 "wikilink")、[缩放](../Page/缩放.md "wikilink")、[对话框](../Page/对话框.md "wikilink")、[标签页等多个组件](https://zh.wikipedia.org/wiki/标签 "wikilink")。
+基于jQuery的[用户界面](../Page/用户界面.md "wikilink")库，包括[拖放](https://zh.wikipedia.org/wiki/拖放 "wikilink")、[缩放](../Page/缩放.md "wikilink")、[对话框](../Page/对话框.md "wikilink")、[标签页等多个组件](https://zh.wikipedia.org/wiki/标签 "wikilink")。
 
 ### jQuery Tools
 
-jQuery
-Tools是一個第三方的套件，基於jQuery。包括了[标签页](https://zh.wikipedia.org/wiki/标签 "wikilink")、表單驗證、滑鼠滾輪事件等多个组件。\[19\]
+jQuery Tools是一個第三方的套件，基於jQuery。包括了[标签页](https://zh.wikipedia.org/wiki/标签 "wikilink")、表單驗證、滑鼠滾輪事件等多个组件。\[19\]
 
 ### jQuery Mobile
 
-基於jQuery的手機網頁製作工具，jQuery Mobile的網站上包含了網頁的設計工具、主題設計工具。另外jQuery
-Mobile的js插件包含了換頁、事件等的多項功能。\[20\]
+基於jQuery的手機網頁製作工具，jQuery Mobile的網站上包含了網頁的設計工具、主題設計工具。另外jQuery Mobile的js插件包含了換頁、事件等的多項功能。\[20\]
 
 ## 参阅
 
@@ -394,21 +373,17 @@ Mobile的js插件包含了換頁、事件等的多項功能。\[20\]
 
   - [jQuery UI官方网站](http://jqueryui.com/)
 
-  - [jQuery - Google
-    Code](http://code.google.com/p/jqueryjs/)（各版本JQuery的下載處）
+  - [jQuery - Google Code](http://code.google.com/p/jqueryjs/)（各版本JQuery的下載處）
 
   - （2008年4月3日，Google Tech Talks）
 
-  - [Github上的](../Page/GitHub.md "wikilink")[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")
-    [原始碼](http://github.com/jquery)
+  - [Github上的](../Page/GitHub.md "wikilink")[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink") [原始碼](http://github.com/jquery)
 
 {{-}}
 
 {{-}}
 
-[Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink")
-[Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink")
-[Category:用JavaScript編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用JavaScript編程的自由軟體 "wikilink")
+[Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink") [Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink") [Category:用JavaScript編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用JavaScript編程的自由軟體 "wikilink")
 
 1.
 2.

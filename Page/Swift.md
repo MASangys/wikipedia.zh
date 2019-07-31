@@ -17,24 +17,20 @@
 | [喬納森·斯威夫特](https://zh.wikipedia.org/wiki/喬納森·斯威夫特 "wikilink")               | Johnathan Swift         | 英國－愛爾蘭諷刺[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，著作《[格理弗遊記](https://zh.wikipedia.org/wiki/格理弗遊記 "wikilink")》                         |
 | [凱·斯威夫特](https://zh.wikipedia.org/wiki/凱·斯威夫特 "wikilink")                   | Kay Swift               | 美國女[作曲人](https://zh.wikipedia.org/wiki/作曲家 "wikilink")                                                                                        |
 | [羅伯特·斯威夫特](https://zh.wikipedia.org/wiki/羅伯特·斯威夫特 "wikilink")               | Robert Swift            | 美國[NBA](../Page/NBA.md "wikilink")[西雅圖超音速](https://zh.wikipedia.org/wiki/西雅圖超音速 "wikilink")[籃球員](https://zh.wikipedia.org/wiki/籃球 "wikilink") |
-| [斯威夫特](https://zh.wikipedia.org/wiki/斯威夫特_\(歌手\) "wikilink")                | Swift                   | 美國樂隊[D12成員](../Page/D12.md "wikilink")                                                                                                        |
+| [斯威夫特](https://zh.wikipedia.org/wiki/斯威夫特_\(歌手\) "wikilink")                | Swift                   | 美國樂隊[D12](../Page/D12.md "wikilink")成員                                                                                                        |
 | [斯蒂法妮·斯威夫特](https://zh.wikipedia.org/wiki/斯蒂法妮·斯威夫特 "wikilink")             | Stephanie Swift         | 美國[色情女演員](../Page/色情演員.md "wikilink")                                                                                                         |
 | [斯特羅邁爾·斯威夫特](https://zh.wikipedia.org/wiki/斯特羅邁爾·斯威夫特 "wikilink")           | Stromile Swift          | 美國[NBA](../Page/NBA.md "wikilink")[新澤西網隊](https://zh.wikipedia.org/wiki/新澤西網隊 "wikilink")[籃球員](https://zh.wikipedia.org/wiki/籃球 "wikilink")   |
 | [泰勒·斯威夫特](../Page/泰勒·斯威夫特.md "wikilink")                                    | Taylor Swift            | 美國女[歌手](../Page/歌手.md "wikilink")                                                                                                             |
 
 ## 地名
 
-  - [斯威夫特縣
-    (明尼蘇達州)](https://zh.wikipedia.org/wiki/斯威夫特縣_\(明尼蘇達州\) "wikilink")（Swift
-    County）：美國[明尼蘇達州轄下的縣份](https://zh.wikipedia.org/wiki/明尼蘇達州 "wikilink")
-  - [斯威夫特
-    (火衛二隕石坑)](../Page/斯威夫特_\(火衛二隕石坑\).md "wikilink")（Swift）：[火星的天然衛星](../Page/火星.md "wikilink")[火衛二上之撞擊坑](https://zh.wikipedia.org/wiki/火衛二 "wikilink")
+  - [斯威夫特縣 (明尼蘇達州)](https://zh.wikipedia.org/wiki/斯威夫特縣_\(明尼蘇達州\) "wikilink")（Swift County）：美國[明尼蘇達州轄下的縣份](https://zh.wikipedia.org/wiki/明尼蘇達州 "wikilink")
+  - [斯威夫特 (火衛二隕石坑)](../Page/斯威夫特_\(火衛二隕石坑\).md "wikilink")（Swift）：[火星](../Page/火星.md "wikilink")的天然衛星[火衛二上之撞擊坑](https://zh.wikipedia.org/wiki/火衛二 "wikilink")
 
 ## 電腦
 
-  - [OpenStack的分布式存储组件](../Page/OpenStack.md "wikilink")
-  - [Apple A6和](../Page/Apple_A6.md "wikilink")[Apple
-    A6X的CPU代號](../Page/Apple_A6X.md "wikilink")
+  - [OpenStack](../Page/OpenStack.md "wikilink")的分布式存储组件
+  - [Apple A6和](../Page/Apple_A6.md "wikilink")[Apple A6X的CPU代號](../Page/Apple_A6X.md "wikilink")
   - [Swift語言](https://zh.wikipedia.org/wiki/Swift語言 "wikilink")，[苹果公司推出的高階](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")
 
 ## 經濟金融

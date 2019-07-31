@@ -1,7 +1,4 @@
-\-{H|zh:卡內基美濃;zh-hans:卡内基梅隆;zh-hant:卡内基美隆;zh-tw:卡內基美濃;}-
-**reCAPTCHA**計畫是由[卡內基美濃大學所發展的系統](https://zh.wikipedia.org/wiki/卡內基梅隆大學 "wikilink")，主要目的是利用[CAPTCHA技術來幫助典籍數位化的進行](https://zh.wikipedia.org/wiki/CAPTCHA "wikilink")，這個計畫將由書本掃描下來無法準確的被[光學文字辨識技術](https://zh.wikipedia.org/wiki/OCR "wikilink")（，[縮寫](../Page/縮寫.md "wikilink")：OCR）識別的文字顯示在CAPTCHA問題中，讓人類在回答CAPTCHA問題時用人腦加以識別\[1\]。reCAPTCHA正數位化《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》（*New
-York
-Times*）的掃描存檔\[2\]，目前已經完成20年份的資料，並希望在2010年完成110年份的資料。2009年9月17日，[Google宣布收购reCAPTCHA](../Page/Google.md "wikilink")。\[3\]
+\-{H|zh:卡內基美濃;zh-hans:卡内基梅隆;zh-hant:卡内基美隆;zh-tw:卡內基美濃;}-  **reCAPTCHA**計畫是由[卡內基美濃大學所發展的系統](https://zh.wikipedia.org/wiki/卡內基梅隆大學 "wikilink")，主要目的是利用[CAPTCHA技術來幫助典籍數位化的進行](https://zh.wikipedia.org/wiki/CAPTCHA "wikilink")，這個計畫將由書本掃描下來無法準確的被[光學文字辨識技術](https://zh.wikipedia.org/wiki/OCR "wikilink")（，[縮寫](../Page/縮寫.md "wikilink")：OCR）識別的文字顯示在CAPTCHA問題中，讓人類在回答CAPTCHA問題時用人腦加以識別\[1\]。reCAPTCHA正數位化《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》（*New York Times*）的掃描存檔\[2\]，目前已經完成20年份的資料，並希望在2010年完成110年份的資料。2009年9月17日，[Google](../Page/Google.md "wikilink")宣布收购reCAPTCHA。\[3\]
 
 ## 運作方式
 
@@ -9,8 +6,7 @@ Times*）的掃描存檔\[2\]，目前已經完成20年份的資料，並希望�
 
 [Modern-captcha.jpg](https://zh.wikipedia.org/wiki/File:Modern-captcha.jpg "fig:Modern-captcha.jpg")
 
-reCAPTCHA問題的所需的文字圖片，首先會由reCAPTCHA計畫網站利用[Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink")
-[API取得](https://zh.wikipedia.org/wiki/API "wikilink")\[6\]，在終端使用者回答問題後，伺服器再連回reCAPTCHA計畫的主機驗證使用者的輸入是否正確。reCAPTCHA計畫提供了許多程式語言的函式庫，讓整合reCAPTCHA服務到現有程式的過程可以輕鬆些。除非有較大的頻寬需求，否則reCAPTCHA原則上是一個免費的服務。\[7\]
+reCAPTCHA問題的所需的文字圖片，首先會由reCAPTCHA計畫網站利用[Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink") [API取得](https://zh.wikipedia.org/wiki/API "wikilink")\[6\]，在終端使用者回答問題後，伺服器再連回reCAPTCHA計畫的主機驗證使用者的輸入是否正確。reCAPTCHA計畫提供了許多程式語言的函式庫，讓整合reCAPTCHA服務到現有程式的過程可以輕鬆些。除非有較大的頻寬需求，否則reCAPTCHA原則上是一個免費的服務。\[7\]
 
 2012年起，reCAPTCHA除了原來的文字掃描圖片外，也採用[Google街景拍攝的門牌號碼照片](https://zh.wikipedia.org/wiki/Google街景 "wikilink")。\[8\]
 
@@ -20,30 +16,17 @@ reCAPTCHA問題的所需的文字圖片，首先會由reCAPTCHA計畫網站利�
 
 ## 外部連結
 
-  - [Official Google Blog: Teaching computers to read: Google acquires
-    reCAPTCHA](http://googleblog.blogspot.com/2009/09/teaching-computers-to-read-google.html)
+  - [Official Google Blog: Teaching computers to read: Google acquires reCAPTCHA](http://googleblog.blogspot.com/2009/09/teaching-computers-to-read-google.html)
   - [reCAPTCHA計畫](https://www.google.com/recaptcha)
 
-[Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink")
-[Category:電腦安全](https://zh.wikipedia.org/wiki/Category:電腦安全 "wikilink")
-[Category:卡內基美隆大學](https://zh.wikipedia.org/wiki/Category:卡內基美隆大學 "wikilink")
-[Category:众包](https://zh.wikipedia.org/wiki/Category:众包 "wikilink")
-[Category:Google服务](https://zh.wikipedia.org/wiki/Category:Google服务 "wikilink")
-[Category:光学字符识别](https://zh.wikipedia.org/wiki/Category:光学字符识别 "wikilink")
-[Category:图灵测试](https://zh.wikipedia.org/wiki/Category:图灵测试 "wikilink")
-[Category:網頁技術](https://zh.wikipedia.org/wiki/Category:網頁技術 "wikilink")
+[Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink") [Category:電腦安全](https://zh.wikipedia.org/wiki/Category:電腦安全 "wikilink") [Category:卡內基美隆大學](https://zh.wikipedia.org/wiki/Category:卡內基美隆大學 "wikilink") [Category:众包](https://zh.wikipedia.org/wiki/Category:众包 "wikilink") [Category:Google服务](https://zh.wikipedia.org/wiki/Category:Google服务 "wikilink") [Category:光学字符识别](https://zh.wikipedia.org/wiki/Category:光学字符识别 "wikilink") [Category:图灵测试](https://zh.wikipedia.org/wiki/Category:图灵测试 "wikilink") [Category:網頁技術](https://zh.wikipedia.org/wiki/Category:網頁技術 "wikilink")
 
-1.  [reCAPTCHA: Human-Based Character Recognition via Web Security
-    Measures](http://www.cs.cmu.edu/~biglou/reCAPTCHA_Science.pdf)
+1.  [reCAPTCHA: Human-Based Character Recognition via Web Security Measures](http://www.cs.cmu.edu/~biglou/reCAPTCHA_Science.pdf)
 2.  <http://recaptcha.net/learnmore.html>
 3.
 4.
-5.  [用對抗垃圾信件的武器協助保存書籍](http://news.bbc.co.uk/2/hi/technology/7023627.stm);
-    BBC news report by Paul Rubens, 2007-10-02.
-6.  [reCAPTCHA計畫](http://recaptcha.net/)  -
-    由[卡內基美濃的卡內基美濃學院資訊科學系執行](https://zh.wikipedia.org/wiki/CMU "wikilink")。
+5.  [用對抗垃圾信件的武器協助保存書籍](http://news.bbc.co.uk/2/hi/technology/7023627.stm); BBC news report by Paul Rubens, 2007-10-02.
+6.  [reCAPTCHA計畫](http://recaptcha.net/)  - 由[卡內基美濃的卡內基美濃學院資訊科學系執行](https://zh.wikipedia.org/wiki/CMU "wikilink")。
 7.
 8.
-9.  <https://www.ithome.com.tw/news/92757>
-    Google釋出新版reCAPTCHA機制，只要點「我不是機器人」！
-    文/林妍溱 2014-12-04 ， iThome臺灣
+9.  <https://www.ithome.com.tw/news/92757> Google釋出新版reCAPTCHA機制，只要點「我不是機器人」！ 文/林妍溱 2014-12-04 ， iThome臺灣

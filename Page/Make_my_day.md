@@ -1,5 +1,4 @@
-**Make my
-day**是日本女歌手[新垣結衣](../Page/新垣結衣.md "wikilink")，於2008年7月16日所推出的單曲碟。
+**Make my day**是日本女歌手[新垣結衣](../Page/新垣結衣.md "wikilink")，於2008年7月16日所推出的單曲碟。
 
 ## 收錄歌曲
 
@@ -30,7 +29,4 @@ day**是日本女歌手[新垣結衣](../Page/新垣結衣.md "wikilink")，於2
 
 ## 脚注
 
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:新垣結衣歌曲](https://zh.wikipedia.org/wiki/Category:新垣結衣歌曲 "wikilink")
-[Category:富士電視台週六連續劇主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台週六連續劇主題曲 "wikilink")
-[Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:新垣結衣歌曲](https://zh.wikipedia.org/wiki/Category:新垣結衣歌曲 "wikilink") [Category:富士電視台週六連續劇主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台週六連續劇主題曲 "wikilink") [Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink")

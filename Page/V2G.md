@@ -4,10 +4,7 @@
 
 目前美国有多个V2G示范项目开展。
 
-一個值得注意的V2G項目是在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[特拉華大學的威利特頓博士](https://zh.wikipedia.org/wiki/特拉華大學 "wikilink")（Dr.
-Willett
-Kempton）為首的一個V2G團隊一直在進行持續的研究。他們的目標是教育的V2G的環境效益和經濟效益，並增進了產品的市場。\[4\]
-其他研究者的[太平洋天然氣和電氣公司](https://zh.wikipedia.org/wiki/太平洋天然氣和電氣公司 "wikilink")，，，和在[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[華威大學](https://zh.wikipedia.org/wiki/華威大學 "wikilink")。\[5\]
+一個值得注意的V2G項目是在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[特拉華大學的威利特頓博士](https://zh.wikipedia.org/wiki/特拉華大學 "wikilink")（Dr. Willett Kempton）為首的一個V2G團隊一直在進行持續的研究。他們的目標是教育的V2G的環境效益和經濟效益，並增進了產品的市場。\[4\] 其他研究者的[太平洋天然氣和電氣公司](https://zh.wikipedia.org/wiki/太平洋天然氣和電氣公司 "wikilink")，，，和在[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[華威大學](https://zh.wikipedia.org/wiki/華威大學 "wikilink")。\[5\]
 
 ## 公用事业
 
@@ -28,10 +25,7 @@ Kempton）為首的一個V2G團隊一直在進行持續的研究。他們的目�
 
 ## 参考
 
-[Category:替代能源](https://zh.wikipedia.org/wiki/Category:替代能源 "wikilink")
-[Category:汽车工程技术](https://zh.wikipedia.org/wiki/Category:汽车工程技术 "wikilink")
-[Category:電動載具](https://zh.wikipedia.org/wiki/Category:電動載具 "wikilink")
-[Category:儲能技術](https://zh.wikipedia.org/wiki/Category:儲能技術 "wikilink")
+[Category:替代能源](https://zh.wikipedia.org/wiki/Category:替代能源 "wikilink") [Category:汽车工程技术](https://zh.wikipedia.org/wiki/Category:汽车工程技术 "wikilink") [Category:電動載具](https://zh.wikipedia.org/wiki/Category:電動載具 "wikilink") [Category:儲能技術](https://zh.wikipedia.org/wiki/Category:儲能技術 "wikilink")
 
 1.   Page 473.
 2.

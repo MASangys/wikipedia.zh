@@ -139,7 +139,4 @@
 1.  [りぼん的官方網頁（日文）](http://ribon.shueisha.co.jp/)
 2.  [VOMIC的官方網頁（日文）](https://web.archive.org/web/20090704215259/http://www.s-cast2.net/vomic/momo/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")

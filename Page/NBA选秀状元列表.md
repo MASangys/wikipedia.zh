@@ -1,10 +1,8 @@
-[LebronFT2.jpg](https://zh.wikipedia.org/wiki/File:LebronFT2.jpg "fig:LebronFT2.jpg")為近年來最強的狀元之一\]\]
-**NBA选秀状元**（）是历届[NBA选秀大会的第一顺位球员](../Page/NBA选秀.md "wikilink")。是由上一年次NBA常规赛中未进入季后赛的较差战绩球队所参加，由一支球队抽得下赛季的第一选秀权，被这支球队选中的球员即NBA选秀状元，被选中的选秀状元通常都是球队、全球媒体和球迷的焦点人物\[1\]。
+[LebronFT2.jpg](https://zh.wikipedia.org/wiki/File:LebronFT2.jpg "fig:LebronFT2.jpg")為近年來最強的狀元之一\]\] **NBA选秀状元**（）是历届[NBA选秀](../Page/NBA选秀.md "wikilink")大会的第一顺位球员。是由上一年次NBA常规赛中未进入季后赛的较差战绩球队所参加，由一支球队抽得下赛季的第一选秀权，被这支球队选中的球员即NBA选秀状元，被选中的选秀状元通常都是球队、全球媒体和球迷的焦点人物\[1\]。
 
 NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wikipedia.org/wiki/NBA最有價值球員 "wikilink")[奥斯卡·罗伯逊](../Page/奥斯卡·罗伯逊.md "wikilink")、[卡里姆·阿卜杜勒·贾巴尔](https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒·贾巴尔 "wikilink")（六次），[比尔·沃尔顿](https://zh.wikipedia.org/wiki/比尔·沃尔顿 "wikilink")、[埃尔文·约翰逊](https://zh.wikipedia.org/wiki/埃尔文·约翰逊 "wikilink")（三次），[阿基姆·奥拉朱旺](https://zh.wikipedia.org/wiki/阿基姆·奥拉朱旺 "wikilink")、[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")、[阿伦·艾弗森](https://zh.wikipedia.org/wiki/阿伦·艾弗森 "wikilink")、[蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")（两次）、[勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")（四次）、[德瑞克·羅斯](https://zh.wikipedia.org/wiki/德瑞克·羅斯 "wikilink")。
 
-[中国球员](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[姚明](https://zh.wikipedia.org/wiki/姚明 "wikilink")（2002年）和
-[意大利球员](../Page/意大利.md "wikilink")[安德里亚·巴格纳尼](https://zh.wikipedia.org/wiki/安德里亚·巴格纳尼 "wikilink")（2006年）是仅有的两位在选秀之前没有经历过任何美国篮球体系训练的状元。其他12位非美国本土出生的状元分别是1978年来自[巴哈马的](../Page/巴哈马.md "wikilink")[米卡尔·汤普森](https://zh.wikipedia.org/wiki/米卡尔·汤普森 "wikilink")、1984年来自[尼日利亚的](https://zh.wikipedia.org/wiki/尼日利亚 "wikilink")[阿基姆·奥拉朱旺](https://zh.wikipedia.org/wiki/阿基姆·奥拉朱旺 "wikilink")、1985年來自[牙買加的](https://zh.wikipedia.org/wiki/牙買加 "wikilink")[派屈克·尤英](https://zh.wikipedia.org/wiki/派屈克·尤英 "wikilink")、1997年来自[美属维京群岛的](https://zh.wikipedia.org/wiki/美属维京群岛 "wikilink")[提姆·鄧肯](https://zh.wikipedia.org/wiki/提姆·鄧肯 "wikilink")、1998年来自尼日利亚的[迈克尔·奥洛沃坎迪](../Page/迈克尔·奥洛沃坎迪.md "wikilink")、2005年来自[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[安德鲁·博古特](../Page/安德鲁·博古特.md "wikilink")、2011年同樣來自[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[凱里·厄文](https://zh.wikipedia.org/wiki/凱里·厄文 "wikilink")、2013年來自[加拿大的](../Page/加拿大.md "wikilink")[安东尼·贝内特](https://zh.wikipedia.org/wiki/安东尼·贝内特 "wikilink")、2014年來自[加拿大的](../Page/加拿大.md "wikilink")[安德魯·威金斯](https://zh.wikipedia.org/wiki/安德魯·威金斯 "wikilink")、2015年來自[多明尼加的](../Page/多明尼加.md "wikilink")[卡爾-安東尼·唐斯](../Page/卡爾-安東尼·唐斯.md "wikilink")、2016年來自[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[班·西蒙斯以及](https://zh.wikipedia.org/wiki/班·西蒙斯 "wikilink")2018年來自[巴哈馬的](https://zh.wikipedia.org/wiki/巴哈馬 "wikilink")[德安德魯·艾頓](https://zh.wikipedia.org/wiki/德安德魯·艾頓 "wikilink")。而鄧肯出生即为美国人，但是仍然被定义为NBA「国际球员」，因为他来自于[美属维京群岛](https://zh.wikipedia.org/wiki/美属维京群岛 "wikilink")。
+[中国球员](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[姚明](https://zh.wikipedia.org/wiki/姚明 "wikilink")（2002年）和 [意大利](../Page/意大利.md "wikilink")球员[安德里亚·巴格纳尼](https://zh.wikipedia.org/wiki/安德里亚·巴格纳尼 "wikilink")（2006年）是仅有的两位在选秀之前没有经历过任何美国篮球体系训练的状元。其他12位非美国本土出生的状元分别是1978年来自[巴哈马](../Page/巴哈马.md "wikilink")的[米卡尔·汤普森](https://zh.wikipedia.org/wiki/米卡尔·汤普森 "wikilink")、1984年来自[尼日利亚的](https://zh.wikipedia.org/wiki/尼日利亚 "wikilink")[阿基姆·奥拉朱旺](https://zh.wikipedia.org/wiki/阿基姆·奥拉朱旺 "wikilink")、1985年來自[牙買加的](https://zh.wikipedia.org/wiki/牙買加 "wikilink")[派屈克·尤英](https://zh.wikipedia.org/wiki/派屈克·尤英 "wikilink")、1997年来自[美属维京群岛的](https://zh.wikipedia.org/wiki/美属维京群岛 "wikilink")[提姆·鄧肯](https://zh.wikipedia.org/wiki/提姆·鄧肯 "wikilink")、1998年来自尼日利亚的[迈克尔·奥洛沃坎迪](../Page/迈克尔·奥洛沃坎迪.md "wikilink")、2005年来自[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[安德鲁·博古特](../Page/安德鲁·博古特.md "wikilink")、2011年同樣來自[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[凱里·厄文](https://zh.wikipedia.org/wiki/凱里·厄文 "wikilink")、2013年來自[加拿大](../Page/加拿大.md "wikilink")的[安东尼·贝内特](https://zh.wikipedia.org/wiki/安东尼·贝内特 "wikilink")、2014年來自[加拿大](../Page/加拿大.md "wikilink")的[安德魯·威金斯](https://zh.wikipedia.org/wiki/安德魯·威金斯 "wikilink")、2015年來自[多明尼加](../Page/多明尼加.md "wikilink")的[卡爾-安東尼·唐斯](../Page/卡爾-安東尼·唐斯.md "wikilink")、2016年來自[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[班·西蒙斯以及](https://zh.wikipedia.org/wiki/班·西蒙斯 "wikilink")2018年來自[巴哈馬的](https://zh.wikipedia.org/wiki/巴哈馬 "wikilink")[德安德魯·艾頓](https://zh.wikipedia.org/wiki/德安德魯·艾頓 "wikilink")。而鄧肯出生即为美国人，但是仍然被定义为NBA「国际球员」，因为他来自于[美属维京群岛](https://zh.wikipedia.org/wiki/美属维京群岛 "wikilink")。
 
 作為NBA前身的（BAA）舉辦了1947～1949年的選秀大會，而此紀錄也被NBA所承認並視為NBA選秀歷史的一部分。其中某些在NBA發展不順利的球員則被稱為「水貨狀元」\[2\]。
 
@@ -449,7 +447,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1975年NBA選秀" title="wikilink">1975</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大卫·汤普森" title="wikilink">大卫·汤普森</a>^*{{#tag:ref|汤普逊之前在<a href="../Page/美國籃球協會.md" title="wikilink">美國籃球協會打球</a>，直到才開始他在NBA的新人球季。[51]|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大卫·汤普森" title="wikilink">大卫·汤普森</a>^*{{#tag:ref|汤普逊之前在<a href="../Page/美國籃球協會.md" title="wikilink">美國籃球協會</a>打球，直到才開始他在NBA的新人球季。[51]|group="注"}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Basketball_player.svg" title="fig:Basketball_player.svg">Basketball_player.svg</a></p></td>
 <td></td>
 <td><p>前鋒/後衛</p></td>
@@ -1040,8 +1038,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 
   - 細節
 
-[Category:NBA选秀](https://zh.wikipedia.org/wiki/Category:NBA选秀 "wikilink")
-[Category:職業列表](https://zh.wikipedia.org/wiki/Category:職業列表 "wikilink")
+[Category:NBA选秀](https://zh.wikipedia.org/wiki/Category:NBA选秀 "wikilink") [Category:職業列表](https://zh.wikipedia.org/wiki/Category:職業列表 "wikilink")
 
 1.
 
@@ -1234,9 +1231,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 
 99.
 
-100. \[<http://m.startribune.com/sports/wolves/309936841.html?interstitial=true>|
-     Karl-Anthony Towns taken No.1 by Wolves; Tyus Jones acquired in
-     trade with Cavaliers\], *Star Tribune*, June 26, 2015
+100. \[<http://m.startribune.com/sports/wolves/309936841.html?interstitial=true>| Karl-Anthony Towns taken No.1 by Wolves; Tyus Jones acquired in trade with Cavaliers\], *Star Tribune*, June 26, 2015
 
 101.
 

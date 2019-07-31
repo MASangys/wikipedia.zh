@@ -8,14 +8,9 @@
 
 ## 外部链接
 
-  - [**SolStation**: Edasich/Iota
-    Draconis](http://www.solstation.com/stars2/edasich.htm)
-  - [**Extrasolar Visions**: Iota Draconis
-    b](https://web.archive.org/web/20090505060922/http://www.extrasolar.net/planettour.asp?StarCatId=normal&PlanetId=189)
+  - [**SolStation**: Edasich/Iota Draconis](http://www.solstation.com/stars2/edasich.htm)
+  - [**Extrasolar Visions**: Iota Draconis b](https://web.archive.org/web/20090505060922/http://www.extrasolar.net/planettour.asp?StarCatId=normal&PlanetId=189)
 
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:天龙座](https://zh.wikipedia.org/wiki/Category:天龙座 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
-[Category:2002年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2002年发现的系外行星 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:天龙座](https://zh.wikipedia.org/wiki/Category:天龙座 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:2002年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2002年发现的系外行星 "wikilink")
 
 1.

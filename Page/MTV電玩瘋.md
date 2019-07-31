@@ -1,4 +1,4 @@
-《**MTV電玩瘋**》原是[MTV中文台與](../Page/音樂電視網.md "wikilink")[巴哈姆特電玩資訊站合作推出的](../Page/巴哈姆特電玩資訊站.md "wikilink")[ACG資訊節目](../Page/ACG.md "wikilink")《MTV巴哈姆特電玩瘋》，已於2007年10月27日第28集播畢。第29集起改為MTV獨立製作，與巴哈姆特電玩資訊站停止合作，名稱改為《**MTV電玩瘋**》繼續播出；此時期[臺灣電視公司購買播映權後於](../Page/臺灣電視公司.md "wikilink")[台視主頻播出](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")，但標題畫面以圓形「TTV」字樣覆蓋「電玩瘋」三字左邊的MTV[台標](https://zh.wikipedia.org/wiki/台標 "wikilink")。內容結合Anime([動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink"))、Comic([漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink"))及Game([遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink"))資訊，提供玩家最多元的電玩訊息。已播出43集以及多集精華版，目前已停播。
+《**MTV電玩瘋**》原是[MTV中文台與](../Page/音樂電視網.md "wikilink")[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")合作推出的[ACG](../Page/ACG.md "wikilink")資訊節目《MTV巴哈姆特電玩瘋》，已於2007年10月27日第28集播畢。第29集起改為MTV獨立製作，與巴哈姆特電玩資訊站停止合作，名稱改為《**MTV電玩瘋**》繼續播出；此時期[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")購買播映權後於[台視主頻播出](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")，但標題畫面以圓形「TTV」字樣覆蓋「電玩瘋」三字左邊的MTV[台標](https://zh.wikipedia.org/wiki/台標 "wikilink")。內容結合Anime([動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink"))、Comic([漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink"))及Game([遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink"))資訊，提供玩家最多元的電玩訊息。已播出43集以及多集精華版，目前已停播。
 
 ## 播出時間
 
@@ -36,7 +36,7 @@
 | 電玩知識   | 【巴哈姆特電玩資訊站副站長】Linger                                                                         |
 | 棚內實習主持 | 【MTV中文台節目製作人】安東尼                                                                             |
 | 舞蹈肢體訓練 | 【Unity舞道館】藍波                                                                                 |
-| 英語正音   | 【[中廣音樂網專業](../Page/中廣音樂網.md "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")】鄭開來 |
+| 英語正音   | 【[中廣音樂網](../Page/中廣音樂網.md "wikilink")專業[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")】鄭開來 |
 | 國語正音   | 【[Hit FM專業DJ](https://zh.wikipedia.org/wiki/Hit_FM "wikilink")】ELSA                          |
 | 美姿美儀訓練 | 【[伊林模特兒經紀公司教育訓練經理](https://zh.wikipedia.org/wiki/伊林模特兒經紀公司 "wikilink")】蔡玉治                   |
 
@@ -74,10 +74,7 @@
   - [MTV巴哈姆特電玩瘋](http://prj.gamer.com.tw/gamecrazy/)
   - [MTV電玩瘋](https://web.archive.org/web/20071015051758/http://www.mtvchinese.com/Channel/Show/MTVGamecrazy/Index.html)
 
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:MTV電視節目](https://zh.wikipedia.org/wiki/Category:MTV電視節目 "wikilink")
-[Category:台視外購電視節目](https://zh.wikipedia.org/wiki/Category:台視外購電視節目 "wikilink")
-[Category:電玩節目](https://zh.wikipedia.org/wiki/Category:電玩節目 "wikilink")
+[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:MTV電視節目](https://zh.wikipedia.org/wiki/Category:MTV電視節目 "wikilink") [Category:台視外購電視節目](https://zh.wikipedia.org/wiki/Category:台視外購電視節目 "wikilink") [Category:電玩節目](https://zh.wikipedia.org/wiki/Category:電玩節目 "wikilink")
 
 1.
 2.

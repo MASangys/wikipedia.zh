@@ -1,11 +1,10 @@
-**HJ文庫**是Hobby
-Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink")。台灣由[東立出版社代理](../Page/東立出版社.md "wikilink")。
+**HJ文庫**是Hobby Japan在2006年7月1日創刊的[輕小說](../Page/輕小說.md "wikilink")文庫。台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理。
 
 ## 簡介
 
   - 有舉辦發掘新人的Novel Japan大獎（現為[HJ文庫大賞](../Page/HJ文庫大賞.md "wikilink")）。
-  - 創刊初級封面設計和[角川Sneaker文庫很難區別而受到批評](../Page/角川Sneaker文庫.md "wikilink")，不到半年後的2007年1月新出版作品設計便大幅變更。
-  - 儘管是輕小說後進文庫系列，代理到國外卻進行的相當迅速。在台灣和[東立出版社簽訂獨佔條約](../Page/東立出版社.md "wikilink")，幾乎所有作品都翻譯成繁體中文。
+  - 創刊初級封面設計和[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")很難區別而受到批評，不到半年後的2007年1月新出版作品設計便大幅變更。
+  - 儘管是輕小說後進文庫系列，代理到國外卻進行的相當迅速。在台灣和[東立出版社](../Page/東立出版社.md "wikilink")簽訂獨佔條約，幾乎所有作品都翻譯成繁體中文。
   - 2007年10月開始，成立以出版[TRPG的Reply](https://zh.wikipedia.org/wiki/TRPG "wikilink")（遊戲歷程）為主的姊妹系列「HJ文庫G」。
 
 ## 作品列表
@@ -57,17 +56,15 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 
   - [模造王女騷動記](../Page/模造王女騷動記.md "wikilink")（榊一郎／[藤田香](../Page/藤田香.md "wikilink")）
 
-  - [女王之刃系列](../Page/女王之刃.md "wikilink")（[沖田榮次](https://zh.wikipedia.org/wiki/沖田榮次 "wikilink")／[えぃわ](https://zh.wikipedia.org/wiki/えぃわ "wikilink")）
+  - [女王之刃](../Page/女王之刃.md "wikilink")系列（[沖田榮次](https://zh.wikipedia.org/wiki/沖田榮次 "wikilink")／[えぃわ](https://zh.wikipedia.org/wiki/えぃわ "wikilink")）
 
-  - [惡魔少女系列](../Page/惡魔少女.md "wikilink")（[若月光](https://zh.wikipedia.org/wiki/若月光 "wikilink")／[高階@聖人](https://zh.wikipedia.org/wiki/高階@聖人 "wikilink")）
+  - [惡魔少女](../Page/惡魔少女.md "wikilink")系列（[若月光](https://zh.wikipedia.org/wiki/若月光 "wikilink")／[高階@聖人](https://zh.wikipedia.org/wiki/高階@聖人 "wikilink")）
 
-  - [CUTTING
-    傷痕](../Page/CUTTING_傷痕.md "wikilink")（[翅田大介](https://zh.wikipedia.org/wiki/翅田大介 "wikilink")／[も](https://zh.wikipedia.org/wiki/も "wikilink")）
+  - [CUTTING 傷痕](../Page/CUTTING_傷痕.md "wikilink")（[翅田大介](https://zh.wikipedia.org/wiki/翅田大介 "wikilink")／[も](https://zh.wikipedia.org/wiki/も "wikilink")）
 
   - [重回那天](https://zh.wikipedia.org/wiki/重回那天 "wikilink")（[健速](https://zh.wikipedia.org/wiki/健速 "wikilink")／[雙](https://zh.wikipedia.org/wiki/雙 "wikilink")）
 
-  - [TOY JOY POP
-    狂熱青春](https://zh.wikipedia.org/wiki/TOY_JOY_POP_狂熱青春 "wikilink")（[浅井ラボ](https://zh.wikipedia.org/wiki/浅井ラボ "wikilink")／[柴倉乃杏](https://zh.wikipedia.org/wiki/柴倉乃杏 "wikilink")）
+  - [TOY JOY POP 狂熱青春](https://zh.wikipedia.org/wiki/TOY_JOY_POP_狂熱青春 "wikilink")（[浅井ラボ](https://zh.wikipedia.org/wiki/浅井ラボ "wikilink")／[柴倉乃杏](https://zh.wikipedia.org/wiki/柴倉乃杏 "wikilink")）
 
   - [特務魔法使](https://zh.wikipedia.org/wiki/特務魔法使 "wikilink")（[すえばしけん](https://zh.wikipedia.org/wiki/すえばしけん "wikilink")／[かぼちゃ](https://zh.wikipedia.org/wiki/かぼちゃ "wikilink")）
 
@@ -85,15 +82,13 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 
   - [戀上不死之男的少女](https://zh.wikipedia.org/wiki/戀上不死之男的少女 "wikilink")（[空埜一樹](https://zh.wikipedia.org/wiki/空埜一樹 "wikilink")／[ぷよ](https://zh.wikipedia.org/wiki/ぷよ "wikilink")）
 
-  - [BLACK SHEEP
-    聖夜迷途的黑羊](https://zh.wikipedia.org/wiki/BLACK_SHEEP_聖夜迷途的黑羊 "wikilink")（[富永浩史](https://zh.wikipedia.org/wiki/富永浩史 "wikilink")／[珊琶挿](https://zh.wikipedia.org/wiki/珊琶挿 "wikilink")）
+  - [BLACK SHEEP 聖夜迷途的黑羊](https://zh.wikipedia.org/wiki/BLACK_SHEEP_聖夜迷途的黑羊 "wikilink")（[富永浩史](https://zh.wikipedia.org/wiki/富永浩史 "wikilink")／[珊琶挿](https://zh.wikipedia.org/wiki/珊琶挿 "wikilink")）
 
   - [三坪房間的侵略者\!?](https://zh.wikipedia.org/wiki/三坪房間的侵略者!? "wikilink")（健速／[ポコ](https://zh.wikipedia.org/wiki/ポコ "wikilink")）
 
   - [放學後的征服世界](https://zh.wikipedia.org/wiki/放學後的征服世界 "wikilink")（[若月光](https://zh.wikipedia.org/wiki/若月光 "wikilink")／[步鳥](https://zh.wikipedia.org/wiki/步鳥 "wikilink")）
 
-  - [新感覺奇幻冒險
-    傲蕉魔法使](https://zh.wikipedia.org/wiki/新感覺奇幻冒險_傲蕉魔法使 "wikilink")（[谷口シュンスケ](https://zh.wikipedia.org/wiki/谷口シュンスケ "wikilink")／[京作](https://zh.wikipedia.org/wiki/京作 "wikilink")）
+  - [新感覺奇幻冒險 傲蕉魔法使](https://zh.wikipedia.org/wiki/新感覺奇幻冒險_傲蕉魔法使 "wikilink")（[谷口シュンスケ](https://zh.wikipedia.org/wiki/谷口シュンスケ "wikilink")／[京作](https://zh.wikipedia.org/wiki/京作 "wikilink")）
 
   - [前略。我與貓和天使同居](https://zh.wikipedia.org/wiki/前略。我與貓和天使同居 "wikilink")（[緋月薙](https://zh.wikipedia.org/wiki/緋月薙 "wikilink")／[明星かがよ](https://zh.wikipedia.org/wiki/明星かがよ "wikilink")）
 
@@ -127,8 +122,7 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 
   - [魔王的我與不死公主的戒指](https://zh.wikipedia.org/wiki/魔王的我與不死公主的戒指 "wikilink")（[柑橘ゆすら](../Page/柑橘ゆすら.md "wikilink")／[しゅがすく](https://zh.wikipedia.org/wiki/しゅがすく "wikilink")）
 
-  - [SAMURAI
-    BLOOD武士之血](https://zh.wikipedia.org/wiki/SAMURAI_BLOOD武士之血 "wikilink")（[松時ノ介](https://zh.wikipedia.org/wiki/松時ノ介 "wikilink")／[津雪](https://zh.wikipedia.org/wiki/津雪 "wikilink")）
+  - [SAMURAI BLOOD武士之血](https://zh.wikipedia.org/wiki/SAMURAI_BLOOD武士之血 "wikilink")（[松時ノ介](https://zh.wikipedia.org/wiki/松時ノ介 "wikilink")／[津雪](https://zh.wikipedia.org/wiki/津雪 "wikilink")）
 
   - [我對惡魔非揉不可的理由](https://zh.wikipedia.org/wiki/我對惡魔非揉不可的理由 "wikilink")（[鏡裕之](https://zh.wikipedia.org/wiki/鏡裕之 "wikilink")/[黒川いづみ](https://zh.wikipedia.org/wiki/黒川いづみ "wikilink")）
 
@@ -153,8 +147,7 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 ### 青文出版社
 
   - [水乳交揉](https://zh.wikipedia.org/wiki/水乳交揉 "wikilink")（[鏡裕之](https://zh.wikipedia.org/wiki/鏡裕之 "wikilink")／[くりから](https://zh.wikipedia.org/wiki/くりから "wikilink")）
-  - [GIVE
-    UP\!](https://zh.wikipedia.org/wiki/GIVE_UP! "wikilink")（[上栖綴人](https://zh.wikipedia.org/wiki/上栖綴人 "wikilink")／[會田孝信](https://zh.wikipedia.org/wiki/會田孝信 "wikilink")）
+  - [GIVE UP\!](https://zh.wikipedia.org/wiki/GIVE_UP! "wikilink")（[上栖綴人](https://zh.wikipedia.org/wiki/上栖綴人 "wikilink")／[會田孝信](https://zh.wikipedia.org/wiki/會田孝信 "wikilink")）
 
 ### 四季國際
 
@@ -165,14 +158,11 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 
   - 我与她的绝对领域（鹰山诚一／伍长）
   - [三坪房間的侵略者\!?](https://zh.wikipedia.org/wiki/三坪房間的侵略者!? "wikilink")（[健速](https://zh.wikipedia.org/wiki/健速 "wikilink")／Poco）
-  - [我的妹妹会认汉字](https://zh.wikipedia.org/wiki/我的妹妹会认汉字 "wikilink")（Takashi
-    Kajii／皆村春树）
+  - [我的妹妹会认汉字](https://zh.wikipedia.org/wiki/我的妹妹会认汉字 "wikilink")（Takashi Kajii／皆村春树）
 
 ### 未代理
 
-  - [舞-HiME★DESTINY
-    龍の巫女](https://zh.wikipedia.org/wiki/舞-HiME★DESTINY_龍の巫女 "wikilink")（[伊吹秀明](https://zh.wikipedia.org/wiki/伊吹秀明 "wikilink")
-    原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")・[舞-HiMEプロジェクト](https://zh.wikipedia.org/wiki/舞-HiMEプロジェクト "wikilink")／[目黑三吉](https://zh.wikipedia.org/wiki/目黑三吉 "wikilink")）
+  - [舞-HiME★DESTINY 龍の巫女](https://zh.wikipedia.org/wiki/舞-HiME★DESTINY_龍の巫女 "wikilink")（[伊吹秀明](https://zh.wikipedia.org/wiki/伊吹秀明 "wikilink") 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")・[舞-HiMEプロジェクト](https://zh.wikipedia.org/wiki/舞-HiMEプロジェクト "wikilink")／[目黑三吉](https://zh.wikipedia.org/wiki/目黑三吉 "wikilink")）
 
 ## 外部連結
 

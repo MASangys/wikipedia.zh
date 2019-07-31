@@ -10,8 +10,7 @@
 
   - 何尚謙
 
-生於1981年6月30日，原名**何俊洪**，他在加入電影演員前，在[Elite
-Models做模特兒工作](https://zh.wikipedia.org/wiki/Elite_Models "wikilink")。數年後，他參加了[寰宇娛樂招募面試入行](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")，終於被導演[彭順看中](https://zh.wikipedia.org/wiki/彭順 "wikilink")，擔正《[愛‧鬥大](https://zh.wikipedia.org/wiki/愛‧鬥大 "wikilink")》其中主角。
+生於1981年6月30日，原名**何俊洪**，他在加入電影演員前，在[Elite Models做模特兒工作](https://zh.wikipedia.org/wiki/Elite_Models "wikilink")。數年後，他參加了[寰宇娛樂招募面試入行](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")，終於被導演[彭順看中](https://zh.wikipedia.org/wiki/彭順 "wikilink")，擔正《[愛‧鬥大](https://zh.wikipedia.org/wiki/愛‧鬥大 "wikilink")》其中主角。
 
   - [李柏煥](https://zh.wikipedia.org/wiki/李柏煥 "wikilink") **現職港龍航空見習機師**
 
@@ -23,10 +22,8 @@ Models做模特兒工作](https://zh.wikipedia.org/wiki/Elite_Models "wikilink")
 
 曾演出電影：
 
-  - 2007年：《[地獄第十九層](https://zh.wikipedia.org/wiki/地獄第十九層 "wikilink")》-
-    飾演 嚴明亮（青年）
-  - 2009年：寰宇電影《[愛情故事](https://zh.wikipedia.org/wiki/愛情故事 "wikilink")》飾
-    Gary（2月26日上映）
+  - 2007年：《[地獄第十九層](https://zh.wikipedia.org/wiki/地獄第十九層 "wikilink")》- 飾演 嚴明亮（青年）
+  - 2009年：寰宇電影《[愛情故事](https://zh.wikipedia.org/wiki/愛情故事 "wikilink")》飾 Gary（2月26日上映）
   - 2009年：寰宇電影《[關人7事](../Page/關人7事.md "wikilink")》（11月5日上映）
 
 廣告：
@@ -35,8 +32,7 @@ Models做模特兒工作](https://zh.wikipedia.org/wiki/Elite_Models "wikilink")
   - 2007年：[Converse](https://zh.wikipedia.org/wiki/Converse "wikilink")
   - 2007年：McDonald廣告（中國內地）
   - 2007年：[百佳](https://zh.wikipedia.org/wiki/百佳 "wikilink")《一屋稱心人》電視廣告
-  - 2008年：[Pizza
-    Hut](https://zh.wikipedia.org/wiki/Pizza_Hut "wikilink")
+  - 2008年：[Pizza Hut](https://zh.wikipedia.org/wiki/Pizza_Hut "wikilink")
   - 2008年：[永亨銀行信用咭廣告](https://zh.wikipedia.org/wiki/永亨銀行 "wikilink")
 
 ## 音樂作品
@@ -93,8 +89,7 @@ DVD
 
 ### 主持節目
 
-  - 2008年-2009年：網上電台[omlive](https://zh.wikipedia.org/wiki/omlive "wikilink")
-    - 節目mega+boy（主持人）
+  - 2008年-2009年：網上電台[omlive](https://zh.wikipedia.org/wiki/omlive "wikilink") - 節目mega+boy（主持人）
 
 ### 擔任大使
 
@@ -107,21 +102,16 @@ DVD
 #### 2008年
 
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2008『勁爆新登場組合獎』
-  - [Yes\! IDOL](https://zh.wikipedia.org/wiki/Yes!_IDOL "wikilink")
-    2008 全港偶像總選『最HOT爆組合』
+  - [Yes\! IDOL](https://zh.wikipedia.org/wiki/Yes!_IDOL "wikilink") 2008 全港偶像總選『最HOT爆組合』
   - 2008[太陽計劃](../Page/太陽計劃.md "wikilink")『太陽少男』
   - [PM](../Page/PM.md "wikilink") 2008年度『型格人氣新組合』
-  - [UChannel](https://zh.wikipedia.org/wiki/UChannel "wikilink") 『Youth
-    最愛組合新人』
-  - [Sina
-    Music](https://zh.wikipedia.org/wiki/Sina_Music "wikilink")『我最喜愛新組合
-    銅獎』
+  - [UChannel](https://zh.wikipedia.org/wiki/UChannel "wikilink") 『Youth 最愛組合新人』
+  - [Sina Music](https://zh.wikipedia.org/wiki/Sina_Music "wikilink")『我最喜愛新組合 銅獎』
   - [Yahoo搜尋人氣大獎](https://zh.wikipedia.org/wiki/Yahoo搜尋人氣大獎 "wikilink")2008『樂壇新勢力（組合）』
 
 #### 2009年
 
-  - [IFPI](https://zh.wikipedia.org/wiki/IFPI "wikilink")
-    [香港](../Page/香港.md "wikilink")唱片銷量大獎『最暢銷本地新人組合』
+  - [IFPI](https://zh.wikipedia.org/wiki/IFPI "wikilink") [香港](../Page/香港.md "wikilink")唱片銷量大獎『最暢銷本地新人組合』
   - Yes\! IDOL 2009 全港偶像總選『最HOT爆組合』
   - PM 2009年度型格人氣組合
   - 新城勁爆頒獎禮2009『勁爆跳唱組合』

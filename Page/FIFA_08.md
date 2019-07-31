@@ -1,45 +1,18 @@
-《**FIFA
-08**》是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電子藝界旗下](https://zh.wikipedia.org/wiki/電子藝界 "wikilink")[FIFA系列的遊戲作品](../Page/FIFA系列.md "wikilink")，由[EA
-Canada小组负责开发](https://zh.wikipedia.org/wiki/EA_Canada "wikilink")。于2007年9月27日在欧洲和澳大利亚地区发行，于2007年10月在北美地区发行。在[PlayStation
-3和](../Page/PlayStation_3.md "wikilink")[Xbox
-360的版本裡加強了](../Page/Xbox_360.md "wikilink")[遊戲引擎的功能](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，例如更好的畫面以及不同的比賽評論。[Electronic
-Arts稱呼它為](https://zh.wikipedia.org/wiki/EA "wikilink")"next-generation（下一世代）"。在其他平台（包括
-PC）的遊戲是使用舊的遊戲引擎。在[Nintendo
-DS的版本裡](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，由於平台本身的限制，遊戲收錄了較少的隊伍、場地、遊戲模式和球衣。
-在下一世代的平台中，兩位球評是來自Sky Sports的[Martin
-Tyler和](https://zh.wikipedia.org/wiki/Martin_Tyler "wikilink")[Andy
-Gray](https://zh.wikipedia.org/wiki/Andy_Gray_\(footballer_born_1955\) "wikilink")，但在其他平台中是由ITV
-Sports的[Clive
-Tyldesley和Gray擔任遊戲的球評](https://zh.wikipedia.org/wiki/Clive_Tyldesley "wikilink")。
+《**FIFA 08**》是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電子藝界旗下](https://zh.wikipedia.org/wiki/電子藝界 "wikilink")[FIFA系列](../Page/FIFA系列.md "wikilink")的遊戲作品，由[EA Canada小组负责开发](https://zh.wikipedia.org/wiki/EA_Canada "wikilink")。于2007年9月27日在欧洲和澳大利亚地区发行，于2007年10月在北美地区发行。在[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360的版本裡加強了](../Page/Xbox_360.md "wikilink")[遊戲引擎的功能](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，例如更好的畫面以及不同的比賽評論。[Electronic Arts稱呼它為](https://zh.wikipedia.org/wiki/EA "wikilink")"next-generation（下一世代）"。在其他平台（包括 PC）的遊戲是使用舊的遊戲引擎。在[Nintendo DS的版本裡](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，由於平台本身的限制，遊戲收錄了較少的隊伍、場地、遊戲模式和球衣。 在下一世代的平台中，兩位球評是來自Sky Sports的[Martin Tyler和](https://zh.wikipedia.org/wiki/Martin_Tyler "wikilink")[Andy Gray](https://zh.wikipedia.org/wiki/Andy_Gray_\(footballer_born_1955\) "wikilink")，但在其他平台中是由ITV Sports的[Clive Tyldesley和Gray擔任遊戲的球評](https://zh.wikipedia.org/wiki/Clive_Tyldesley "wikilink")。
 
-遊戲的標語是"Can You -{FIFA 08}-?"。\[1\]主題曲是[La
-Rocca的專輯](https://zh.wikipedia.org/wiki/La_Rocca "wikilink")*The
-Truth*裡的"Sketches (20 Something Life)"。
+遊戲的標語是"Can You -{FIFA 08}-?"。\[1\]主題曲是[La Rocca的專輯](https://zh.wikipedia.org/wiki/La_Rocca "wikilink")*The Truth*裡的"Sketches (20 Something Life)"。
 
 ## 聯盟和球隊
 
-FIFA 08內有621支經過授權的隊伍，30個聯盟（包括27個*FIFA
-07*已有的聯盟）,\[2\]以及超過15,000個球員。\[3\]FIFA
-08收入所有主要的歐洲聯賽例如英格蘭的[英格蘭超級足球聯賽和](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")[英格蘭足球聯賽](https://zh.wikipedia.org/wiki/英格蘭足球聯賽 "wikilink")，西班牙的[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")，義大利的[義大利甲組足球聯賽和德國的](https://zh.wikipedia.org/wiki/義大利甲組足球聯賽 "wikilink")[德國甲組足球聯賽](https://zh.wikipedia.org/wiki/德國甲組足球聯賽 "wikilink")，以及來自其它地區的聯賽，例如美國的
-[美國足球大聯盟](https://zh.wikipedia.org/wiki/美國足球大聯盟 "wikilink")，[A-League](https://zh.wikipedia.org/wiki/A-League "wikilink")（澳洲聯賽），巴西的[巴西甲組足球聯賽和韓國的](https://zh.wikipedia.org/wiki/巴西甲組足球聯賽 "wikilink")[K聯賽](../Page/K聯賽.md "wikilink")。
+FIFA 08內有621支經過授權的隊伍，30個聯盟（包括27個*FIFA 07*已有的聯盟）,\[2\]以及超過15,000個球員。\[3\]FIFA 08收入所有主要的歐洲聯賽例如英格蘭的[英格蘭超級足球聯賽和](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")[英格蘭足球聯賽](https://zh.wikipedia.org/wiki/英格蘭足球聯賽 "wikilink")，西班牙的[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")，義大利的[義大利甲組足球聯賽和德國的](https://zh.wikipedia.org/wiki/義大利甲組足球聯賽 "wikilink")[德國甲組足球聯賽](https://zh.wikipedia.org/wiki/德國甲組足球聯賽 "wikilink")，以及來自其它地區的聯賽，例如美國的 [美國足球大聯盟](https://zh.wikipedia.org/wiki/美國足球大聯盟 "wikilink")，[A-League](https://zh.wikipedia.org/wiki/A-League "wikilink")（澳洲聯賽），巴西的[巴西甲組足球聯賽和韓國的](https://zh.wikipedia.org/wiki/巴西甲組足球聯賽 "wikilink")[K聯賽](../Page/K聯賽.md "wikilink")。
 
-新加入FIFA
-08的聯賽有[愛爾蘭足球超級聯賽](https://zh.wikipedia.org/wiki/愛爾蘭足球超級聯賽 "wikilink")，\[4\]澳洲[現代](../Page/現代汽車.md "wikilink")[A-League](https://zh.wikipedia.org/wiki/A-League "wikilink")，\[5\]和捷克的[捷克足球甲級聯賽](https://zh.wikipedia.org/wiki/捷克足球甲級聯賽 "wikilink")。\[6\]遊戲還包括了"Rest
-of World" 選項，內有 20
-支並不屬於上述所有聯賽的隊伍。這些隊伍是[奧蘭多海盜](https://zh.wikipedia.org/wiki/奧蘭多海盜 "wikilink")，[Mamelodi](https://zh.wikipedia.org/wiki/Mamelodi "wikilink")，[AC
-Lugano](https://zh.wikipedia.org/wiki/AC_Lugano "wikilink")，[FC La
-Chaux-de-Fonds](https://zh.wikipedia.org/wiki/FC_La_Chaux-de-Fonds "wikilink")，[AEK雅典](https://zh.wikipedia.org/wiki/AEK雅典 "wikilink")，[格丁尼亞阿爾卡](../Page/格丁尼亞阿爾卡足球俱樂部.md "wikilink")、[小保加](https://zh.wikipedia.org/wiki/小保加 "wikilink")、[洛桑](https://zh.wikipedia.org/wiki/洛桑足球俱樂部 "wikilink")，[福塔雷薩](../Page/福塔雷薩體育會.md "wikilink")，[Gornik
-Leczna](https://zh.wikipedia.org/wiki/Gornik_Leczna "wikilink")、[卡薩酋長](https://zh.wikipedia.org/wiki/卡薩酋長 "wikilink")、[奧林比亞高斯](https://zh.wikipedia.org/wiki/奧林比亞高斯足球會 "wikilink")，[什切青波貢](../Page/什切青波貢足球俱樂部.md "wikilink")，[華沙波蘭人](../Page/華沙波蘭人足球俱樂部.md "wikilink")，[邦迪比達](https://zh.wikipedia.org/wiki/邦迪比達 "wikilink")，[河床](https://zh.wikipedia.org/wiki/河床足球俱樂部 "wikilink")，[聖十字](../Page/聖十字足球會.md "wikilink")，[聖卡坦奴](https://zh.wikipedia.org/wiki/聖卡坦奴 "wikilink")，[帕奧克](https://zh.wikipedia.org/wiki/帕奧克足球俱樂部 "wikilink")，[克拉科夫](../Page/克拉科夫.md "wikilink")
+新加入FIFA 08的聯賽有[愛爾蘭足球超級聯賽](https://zh.wikipedia.org/wiki/愛爾蘭足球超級聯賽 "wikilink")，\[4\]澳洲[現代](../Page/現代汽車.md "wikilink")[A-League](https://zh.wikipedia.org/wiki/A-League "wikilink")，\[5\]和捷克的[捷克足球甲級聯賽](https://zh.wikipedia.org/wiki/捷克足球甲級聯賽 "wikilink")。\[6\]遊戲還包括了"Rest of World" 選項，內有 20 支並不屬於上述所有聯賽的隊伍。這些隊伍是[奧蘭多海盜](https://zh.wikipedia.org/wiki/奧蘭多海盜 "wikilink")，[Mamelodi](https://zh.wikipedia.org/wiki/Mamelodi "wikilink")，[AC Lugano](https://zh.wikipedia.org/wiki/AC_Lugano "wikilink")，[FC La Chaux-de-Fonds](https://zh.wikipedia.org/wiki/FC_La_Chaux-de-Fonds "wikilink")，[AEK雅典](https://zh.wikipedia.org/wiki/AEK雅典 "wikilink")，[格丁尼亞阿爾卡](../Page/格丁尼亞阿爾卡足球俱樂部.md "wikilink")、[小保加](https://zh.wikipedia.org/wiki/小保加 "wikilink")、[洛桑](https://zh.wikipedia.org/wiki/洛桑足球俱樂部 "wikilink")，[福塔雷薩](../Page/福塔雷薩體育會.md "wikilink")，[Gornik Leczna](https://zh.wikipedia.org/wiki/Gornik_Leczna "wikilink")、[卡薩酋長](https://zh.wikipedia.org/wiki/卡薩酋長 "wikilink")、[奧林比亞高斯](https://zh.wikipedia.org/wiki/奧林比亞高斯足球會 "wikilink")，[什切青波貢](../Page/什切青波貢足球俱樂部.md "wikilink")，[華沙波蘭人](../Page/華沙波蘭人足球俱樂部.md "wikilink")，[邦迪比達](https://zh.wikipedia.org/wiki/邦迪比達 "wikilink")，[河床](https://zh.wikipedia.org/wiki/河床足球俱樂部 "wikilink")，[聖十字](../Page/聖十字足球會.md "wikilink")，[聖卡坦奴](https://zh.wikipedia.org/wiki/聖卡坦奴 "wikilink")，[帕奧克](https://zh.wikipedia.org/wiki/帕奧克足球俱樂部 "wikilink")，[克拉科夫](../Page/克拉科夫.md "wikilink")
 
-在遊戲所收錄的621支隊伍裡， 有29支隊伍未經過授權，其中13支是國家隊。
-其它16之為俱樂部隊伍。值得注意的是[荷蘭隊](https://zh.wikipedia.org/wiki/荷蘭國家足球隊 "wikilink")（在遊戲裡是以
-*Holland* 為隊名）也沒有經過授權，球員名單內的球員皆使用假名。然而，遊戲裡的 *International Selection*
-功能使得玩家可以手動的將真實的國家隊球員名單取代這些虛構的球員。
+在遊戲所收錄的621支隊伍裡， 有29支隊伍未經過授權，其中13支是國家隊。 其它16之為俱樂部隊伍。值得注意的是[荷蘭隊](https://zh.wikipedia.org/wiki/荷蘭國家足球隊 "wikilink")（在遊戲裡是以 *Holland* 為隊名）也沒有經過授權，球員名單內的球員皆使用假名。然而，遊戲裡的 *International Selection* 功能使得玩家可以手動的將真實的國家隊球員名單取代這些虛構的球員。
 
 ## 新功能
 
-FIFA 08與[FIFA 07](../Page/FIFA_07.md "wikilink") 相比，它新加入了 "Co-op
-mode"。玩家在此模式裡只能操作一名球員。 \[7\]
+FIFA 08與[FIFA 07](../Page/FIFA_07.md "wikilink") 相比，它新加入了 "Co-op mode"。玩家在此模式裡只能操作一名球員。 \[7\]
 
 ## 球場
 
@@ -77,8 +50,7 @@ mode"。玩家在此模式裡只能操作一名球員。 \[7\]
   - [拜耳竞技场](../Page/拜耳竞技场.md "wikilink")（[勒沃库森](https://zh.wikipedia.org/wiki/勒沃库森足球俱乐部 "wikilink")）
   - [商業銀行球場](https://zh.wikipedia.org/wiki/商業銀行球場 "wikilink")（[法蘭克福](https://zh.wikipedia.org/wiki/法蘭克福足球俱樂部 "wikilink")）<sup>1</sup>
   - [維爾廷斯球場](https://zh.wikipedia.org/wiki/維爾廷斯球場 "wikilink")（[沙爾克04](https://zh.wikipedia.org/wiki/沙爾克04 "wikilink")）
-  - [北方银行竞技场](../Page/禾克斯公園球場.md "wikilink") - [AOL
-    Arena](https://zh.wikipedia.org/wiki/美國線上體育場 "wikilink")（[漢堡](https://zh.wikipedia.org/wiki/漢堡體育俱樂部 "wikilink")）
+  - [北方银行竞技场](../Page/禾克斯公園球場.md "wikilink") - [AOL Arena](https://zh.wikipedia.org/wiki/美國線上體育場 "wikilink")（[漢堡](https://zh.wikipedia.org/wiki/漢堡體育俱樂部 "wikilink")）
   - [柏林奧林匹克體育場](../Page/柏林奧林匹克體育場.md "wikilink")（[柏林赫塔](https://zh.wikipedia.org/wiki/柏林赫塔足球俱樂部 "wikilink")）
   - [西格納伊度納公園](../Page/西格納伊度納公園.md "wikilink")（[多特蒙德](../Page/多特蒙德足球俱樂部.md "wikilink")）
 
@@ -90,8 +62,7 @@ mode"。玩家在此模式裡只能操作一名球員。 \[7\]
 
 ###  墨西哥
 
-  - [Estadio
-    Jalisco](https://zh.wikipedia.org/wiki/Estadio_Jalisco "wikilink")（[爪达拉哈拉](https://zh.wikipedia.org/wiki/爪达拉哈拉体育俱乐部 "wikilink")，[阿特拉斯](../Page/阿特拉斯足球俱乐部.md "wikilink")）<sup>1,5</sup>
+  - [Estadio Jalisco](https://zh.wikipedia.org/wiki/Estadio_Jalisco "wikilink")（[爪达拉哈拉](https://zh.wikipedia.org/wiki/爪达拉哈拉体育俱乐部 "wikilink")，[阿特拉斯](../Page/阿特拉斯足球俱乐部.md "wikilink")）<sup>1,5</sup>
   - [阿茲特克球場](https://zh.wikipedia.org/wiki/阿茲特克球場 "wikilink")（[亞美利加及](https://zh.wikipedia.org/wiki/亞美利加足球俱樂部 "wikilink")[墨西哥國家足球隊](../Page/墨西哥國家足球隊.md "wikilink")）
 
 ###  葡萄牙
@@ -144,8 +115,7 @@ mode"。玩家在此模式裡只能操作一名球員。 \[7\]
 
   - Modern South America
 
-  - [Olympic_flag.svg](https://zh.wikipedia.org/wiki/File:Olympic_flag.svg "fig:Olympic_flag.svg")
-    Olympic Style
+  - [Olympic_flag.svg](https://zh.wikipedia.org/wiki/File:Olympic_flag.svg "fig:Olympic_flag.svg") Olympic Style
 
   - Closed Square Style
 
@@ -154,13 +124,10 @@ mode"。玩家在此模式裡只能操作一名球員。 \[7\]
   - Oval Style
 
 <sup>1</sup> - 首次於FIFA系列登場
-² - 在Fan Shop購買可使用，不適用[XBOX
-360](https://zh.wikipedia.org/wiki/XBOX_360 "wikilink")
+² - 在Fan Shop購買可使用，不適用[XBOX 360](https://zh.wikipedia.org/wiki/XBOX_360 "wikilink")
 ³ - 除了Xbox 360以外，首次登場。
 <sup>4</sup> - 奧脫福球場不會有更改，除了Xbox360及PlayStation 3版本。
-<sup>5</sup> - 不會在[Xbox
-360及](../Page/Xbox_360.md "wikilink")[PlayStation
-3版本出現](../Page/PlayStation_3.md "wikilink")，除非你編輯PC的資料庫，球場可以解封。
+<sup>5</sup> - 不會在[Xbox 360及](../Page/Xbox_360.md "wikilink")[PlayStation 3版本出現](../Page/PlayStation_3.md "wikilink")，除非你編輯PC的資料庫，球場可以解封。
 
 </div>
 
@@ -503,39 +470,13 @@ EA Sports在2007年9月11日公佈了原聲帶。\[8\]
 
   - [官方网站](https://web.archive.org/web/20080517203310/http://fifa08.ea.com/)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:Xbox_360游戏](https://zh.wikipedia.org/wiki/Category:Xbox_360游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Wii游戏](https://zh.wikipedia.org/wiki/Category:Wii游戏 "wikilink")
-[Category:任天堂DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS游戏 "wikilink")
-[Category:N-Gage服务游戏](https://zh.wikipedia.org/wiki/Category:N-Gage服务游戏 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Xbox_360游戏](https://zh.wikipedia.org/wiki/Category:Xbox_360游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Wii游戏](https://zh.wikipedia.org/wiki/Category:Wii游戏 "wikilink") [Category:任天堂DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS游戏 "wikilink") [Category:N-Gage服务游戏](https://zh.wikipedia.org/wiki/Category:N-Gage服务游戏 "wikilink")
 
 1.  [EA SPORTS - FIFA 08](http://fifa08.ea.com/ChooseTerritory.aspx)
-2.  [*FIFA 08* First
-    Look](http://ps3.ign.com/articles/793/793715p1.html) by ign.com
-3.  [Master the skills required to play like a pro in EA's *FIFA 08* for
-    Xbox 360 and Playstation
-    3](http://www.fifa07.ea.com/news/?id=13184&lang=en&delta=1)  by [EA
-    Sports](../Page/EA_Sports.md "wikilink"). [June
-    5](https://zh.wikipedia.org/wiki/June_5 "wikilink") 2007
-4.  [eircom League of Ireland to feature in *FIFA 08* around the
-    world](http://www.fai.ie/index.php?option=com_content&task=view&id=2107&Itemid=9),
-    by FAI.ie, [11
-    June](https://zh.wikipedia.org/wiki/11_June "wikilink") 2007.
-    Retrieved on [15
-    June](https://zh.wikipedia.org/wiki/15_June "wikilink") 2007
-5.  [Hyundai A-League to feature in *FIFA 08* video
-    game](http://www.a-league.com.au/default.aspx?s=hal_newsdisplay&id=18867)
-     by A-League.com.au, [20
-    August](https://zh.wikipedia.org/wiki/20_August "wikilink") 2007.
-6.  [A-League will be in *FIFA
-    08*](http://au.fourfourtwo.com/news/59393,aleague-will-be-in-fifa-08.aspx/)
-    by au.fourfourtwo.com. [August
-    20](https://zh.wikipedia.org/wiki/August_20 "wikilink") 2007
+2.  [*FIFA 08* First Look](http://ps3.ign.com/articles/793/793715p1.html) by ign.com
+3.  [Master the skills required to play like a pro in EA's *FIFA 08* for Xbox 360 and Playstation 3](http://www.fifa07.ea.com/news/?id=13184&lang=en&delta=1)  by [EA Sports](../Page/EA_Sports.md "wikilink"). [June 5](https://zh.wikipedia.org/wiki/June_5 "wikilink") 2007
+4.  [eircom League of Ireland to feature in *FIFA 08* around the world](http://www.fai.ie/index.php?option=com_content&task=view&id=2107&Itemid=9), by FAI.ie, [11 June](https://zh.wikipedia.org/wiki/11_June "wikilink") 2007. Retrieved on [15 June](https://zh.wikipedia.org/wiki/15_June "wikilink") 2007
+5.  [Hyundai A-League to feature in *FIFA 08* video game](http://www.a-league.com.au/default.aspx?s=hal_newsdisplay&id=18867)  by A-League.com.au, [20 August](https://zh.wikipedia.org/wiki/20_August "wikilink") 2007.
+6.  [A-League will be in *FIFA 08*](http://au.fourfourtwo.com/news/59393,aleague-will-be-in-fifa-08.aspx/) by au.fourfourtwo.com. [August 20](https://zh.wikipedia.org/wiki/August_20 "wikilink") 2007
 7.  <http://www.fifa08.com>
-8.  [1](https://web.archive.org/web/20071118134613/http://fifa2008.wordpress.com/2007/09/11/fifa-08-soundtrack-announced/)
-    (September 11, 2007), EA Sports
+8.  [1](https://web.archive.org/web/20071118134613/http://fifa2008.wordpress.com/2007/09/11/fifa-08-soundtrack-announced/) (September 11, 2007), EA Sports

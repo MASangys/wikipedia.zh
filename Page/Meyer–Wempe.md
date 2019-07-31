@@ -1,6 +1,4 @@
-**Meyer–Wempe**是一套[羅馬化](https://zh.wikipedia.org/wiki/羅馬化 "wikilink")[粵語拼音方案](https://zh.wikipedia.org/wiki/粵語拼音方案 "wikilink")，由兩位香港的[天主教](../Page/天主教.md "wikilink")[傳教士](https://zh.wikipedia.org/wiki/傳教士 "wikilink")和[Theodore
-F.
-Wempe在](https://zh.wikipedia.org/wiki/Theodore_F._Wempe "wikilink")1920年代至1930年代之間建立。
+**Meyer–Wempe**是一套[羅馬化](https://zh.wikipedia.org/wiki/羅馬化 "wikilink")[粵語拼音方案](https://zh.wikipedia.org/wiki/粵語拼音方案 "wikilink")，由兩位香港的[天主教](../Page/天主教.md "wikilink")[傳教士](https://zh.wikipedia.org/wiki/傳教士 "wikilink")和[Theodore F. Wempe在](https://zh.wikipedia.org/wiki/Theodore_F._Wempe "wikilink")1920年代至1930年代之間建立。
 
 ## [聲母](https://zh.wikipedia.org/wiki/聲母 "wikilink")
 
@@ -67,9 +65,7 @@ Wempe在](https://zh.wikipedia.org/wiki/Theodore_F._Wempe "wikilink")1920年代�
 </tbody>
 </table>
 
-  - [齦齶](../Page/龈腭音.md "wikilink")[噝音](https://zh.wikipedia.org/wiki/噝音 "wikilink")
-    (, , ) 和[齒齦噝音](../Page/齿龈音.md "wikilink") (, , )
-    在現代粵語中已經不再區分，但在這套系統建立時仍存在分別。參看[粤语标准音](https://zh.wikipedia.org/wiki/粤语标准音 "wikilink")。
+  - [齦齶](../Page/龈腭音.md "wikilink")[噝音](https://zh.wikipedia.org/wiki/噝音 "wikilink") (, , ) 和[齒齦噝音](../Page/齿龈音.md "wikilink") (, , ) 在現代粵語中已經不再區分，但在這套系統建立時仍存在分別。參看[粤语标准音](https://zh.wikipedia.org/wiki/粤语标准音 "wikilink")。
 
 ## [韻母](https://zh.wikipedia.org/wiki/韻母 "wikilink")
 
@@ -251,7 +247,6 @@ Meyer–Wempe使用符號顯示聲調。\[1\] 聲調符號應該標在韻母第�
 
   - [粵語學習網](http://www.cukda.com/cantonese/)
 
-[Category:粵語拼音](https://zh.wikipedia.org/wiki/Category:粵語拼音 "wikilink")
-[Category:教會羅馬字](https://zh.wikipedia.org/wiki/Category:教會羅馬字 "wikilink")
+[Category:粵語拼音](https://zh.wikipedia.org/wiki/Category:粵語拼音 "wikilink") [Category:教會羅馬字](https://zh.wikipedia.org/wiki/Category:教會羅馬字 "wikilink")
 
 1.

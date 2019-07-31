@@ -51,20 +51,4 @@
 
   -
   -
-[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
-[Category:1991年電影](https://zh.wikipedia.org/wiki/Category:1991年電影 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:時間旅行電影](https://zh.wikipedia.org/wiki/Category:時間旅行電影 "wikilink")
-[Category:龍題材電影](https://zh.wikipedia.org/wiki/Category:龍題材電影 "wikilink")
-[Category:1990年代特摄作品](https://zh.wikipedia.org/wiki/Category:1990年代特摄作品 "wikilink")
-[Category:自主機器人題材電影](https://zh.wikipedia.org/wiki/Category:自主機器人題材電影 "wikilink")
-[Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink")
-[Category:福岡市背景電影](https://zh.wikipedia.org/wiki/Category:福岡市背景電影 "wikilink")
-[Category:札幌市背景電影](https://zh.wikipedia.org/wiki/Category:札幌市背景電影 "wikilink")
-[Category:網走市背景電影](https://zh.wikipedia.org/wiki/Category:網走市背景電影 "wikilink")
-[Category:廣島市背景電影](https://zh.wikipedia.org/wiki/Category:廣島市背景電影 "wikilink")
-[Category:四日市市背景電影](https://zh.wikipedia.org/wiki/Category:四日市市背景電影 "wikilink")
-[Category:1944年背景電影](https://zh.wikipedia.org/wiki/Category:1944年背景電影 "wikilink")
-[Category:1992年背景電影](https://zh.wikipedia.org/wiki/Category:1992年背景電影 "wikilink")
-[Category:23世紀背景電影](https://zh.wikipedia.org/wiki/Category:23世紀背景電影 "wikilink")
-[Category:大森一樹電影](https://zh.wikipedia.org/wiki/Category:大森一樹電影 "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink") [Category:1991年電影](https://zh.wikipedia.org/wiki/Category:1991年電影 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:時間旅行電影](https://zh.wikipedia.org/wiki/Category:時間旅行電影 "wikilink") [Category:龍題材電影](https://zh.wikipedia.org/wiki/Category:龍題材電影 "wikilink") [Category:1990年代特摄作品](https://zh.wikipedia.org/wiki/Category:1990年代特摄作品 "wikilink") [Category:自主機器人題材電影](https://zh.wikipedia.org/wiki/Category:自主機器人題材電影 "wikilink") [Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink") [Category:福岡市背景電影](https://zh.wikipedia.org/wiki/Category:福岡市背景電影 "wikilink") [Category:札幌市背景電影](https://zh.wikipedia.org/wiki/Category:札幌市背景電影 "wikilink") [Category:網走市背景電影](https://zh.wikipedia.org/wiki/Category:網走市背景電影 "wikilink") [Category:廣島市背景電影](https://zh.wikipedia.org/wiki/Category:廣島市背景電影 "wikilink") [Category:四日市市背景電影](https://zh.wikipedia.org/wiki/Category:四日市市背景電影 "wikilink") [Category:1944年背景電影](https://zh.wikipedia.org/wiki/Category:1944年背景電影 "wikilink") [Category:1992年背景電影](https://zh.wikipedia.org/wiki/Category:1992年背景電影 "wikilink") [Category:23世紀背景電影](https://zh.wikipedia.org/wiki/Category:23世紀背景電影 "wikilink") [Category:大森一樹電影](https://zh.wikipedia.org/wiki/Category:大森一樹電影 "wikilink")

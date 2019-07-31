@@ -1,6 +1,4 @@
-**ING挑戰賽**（**ING
-Cup**）由[香港足球總會](../Page/香港足球總會.md "wikilink")主辦，由[世界體育集團](https://zh.wikipedia.org/wiki/世界體育集團 "wikilink")（WSG）和KAM
-Sports協辦，於2008年7月30日和8月2日在[香港大球場](../Page/香港大球場.md "wikilink")舉行，由[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、[喀麥隆](https://zh.wikipedia.org/wiki/喀麥隆 "wikilink")、[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[科特迪瓦](../Page/科特迪瓦.md "wikilink")派遣由23歲以下及最多3名超齡球員所組成的國家奧運足球隊角逐，作為[北京奧運會的](https://zh.wikipedia.org/wiki/北京奧運會 "wikilink")[足球](../Page/足球.md "wikilink")[熱身賽](https://zh.wikipedia.org/wiki/熱身賽 "wikilink")，由金融服務機構[ING](../Page/ING.md "wikilink")冠名贊助<small>\[1\]</small>。
+**ING挑戰賽**（**ING Cup**）由[香港足球總會](../Page/香港足球總會.md "wikilink")主辦，由[世界體育集團](https://zh.wikipedia.org/wiki/世界體育集團 "wikilink")（WSG）和KAM Sports協辦，於2008年7月30日和8月2日在[香港大球場](../Page/香港大球場.md "wikilink")舉行，由[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、[喀麥隆](https://zh.wikipedia.org/wiki/喀麥隆 "wikilink")、[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[科特迪瓦](../Page/科特迪瓦.md "wikilink")派遣由23歲以下及最多3名超齡球員所組成的國家奧運足球隊角逐，作為[北京奧運會的](https://zh.wikipedia.org/wiki/北京奧運會 "wikilink")[足球](../Page/足球.md "wikilink")[熱身賽](https://zh.wikipedia.org/wiki/熱身賽 "wikilink")，由金融服務機構[ING](../Page/ING.md "wikilink")冠名贊助<small>\[1\]</small>。
 
 ## 賽程
 
@@ -625,8 +623,7 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場](../Page/香港
 
   - [ING挑戰賽官方網站](https://web.archive.org/web/20080803040124/http://www.ing.com.hk/ING_CUP/tc/index.asp)
 
-[Category:香港足球賽事](https://zh.wikipedia.org/wiki/Category:香港足球賽事 "wikilink")
-[Category:香港主辦的國際體育賽事](https://zh.wikipedia.org/wiki/Category:香港主辦的國際體育賽事 "wikilink")
+[Category:香港足球賽事](https://zh.wikipedia.org/wiki/Category:香港足球賽事 "wikilink") [Category:香港主辦的國際體育賽事](https://zh.wikipedia.org/wiki/Category:香港主辦的國際體育賽事 "wikilink")
 
 1.  [有關ING的贊助](http://www.ing.com.hk/ING_CUP/tc/about.asp)
 2.  [ING挑戰賽奧運4角賽門票賣大包](http://www.appledaily.com/olympics/index.cfm?fuseaction=content.articlewddx&iss_id=20080703&art_id=11308362)

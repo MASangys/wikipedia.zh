@@ -1,5 +1,4 @@
-**Openbox**是一种用于X
-Window系統的[窗口管理器](../Page/X_Window系統.md "wikilink")，它可运行于[UNIX](../Page/UNIX.md "wikilink")以及[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")等[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")上，采用[GPL協議进行授权](https://zh.wikipedia.org/wiki/GPL "wikilink")。
+**Openbox**是一种用于X Window系統的[窗口管理器](../Page/X_Window系統.md "wikilink")，它可运行于[UNIX](../Page/UNIX.md "wikilink")以及[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")等[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")上，采用[GPL協議进行授权](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 Openbox被設計成一個輕量級，可高度定制且包含广泛标准支持的窗口管理器，它也是[LXDE](../Page/LXDE.md "wikilink")桌面環境的默認窗口管理器\[1\]，并且被[CrunchBang](https://zh.wikipedia.org/wiki/CrunchBang_Linux "wikilink")、[Lubuntu](../Page/Lubuntu.md "wikilink")、[ArchBang](../Page/ArchBang.md "wikilink")、等作为默认窗口管理器。
 
@@ -15,8 +14,7 @@ Openbox允許右鍵（或綁定其他按鍵）桌面調用“根目錄”，允�
 
 ## 設置
 
-[Obconf-screenshot.png](https://zh.wikipedia.org/wiki/File:Obconf-screenshot.png "fig:Obconf-screenshot.png")
-Openbox的兩個配置文件在`~/.config/openbox`。分別是`menu.xml`和`rc.xml`。
+[Obconf-screenshot.png](https://zh.wikipedia.org/wiki/File:Obconf-screenshot.png "fig:Obconf-screenshot.png") Openbox的兩個配置文件在`~/.config/openbox`。分別是`menu.xml`和`rc.xml`。
 
 ## OpenBox相关工具
 
@@ -41,10 +39,7 @@ ObTheme可以對Openbox的主題進行編輯。
   - [obtheme主頁](https://web.archive.org/web/20091209122855/http://xyne.archlinux.ca/info/obtheme)
   - [openbox外觀主題下載](https://web.archive.org/web/20090912103414/http://www.box-look.org/index.php?xcontentmode=7402)
 
-[Category:X視窗管理器](https://zh.wikipedia.org/wiki/Category:X視窗管理器 "wikilink")
-[Category:X_Window系统](https://zh.wikipedia.org/wiki/Category:X_Window系统 "wikilink")
-[Category:LXDE](https://zh.wikipedia.org/wiki/Category:LXDE "wikilink")
-[Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
+[Category:X視窗管理器](https://zh.wikipedia.org/wiki/Category:X視窗管理器 "wikilink") [Category:X_Window系统](https://zh.wikipedia.org/wiki/Category:X_Window系统 "wikilink") [Category:LXDE](https://zh.wikipedia.org/wiki/Category:LXDE "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
 1.
 2.

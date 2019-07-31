@@ -1,4 +1,4 @@
-**《Around40》**為[TBS](https://zh.wikipedia.org/wiki/東京廣播 "wikilink")[週五連續劇](../Page/TBS週五連續劇.md "wikilink")，2008年4月11日至6月20日每週五晚上10點播放。[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台於](../Page/緯來日本台.md "wikilink")2009年1月5日起週一至週五每晚八點播出。
+**《Around40》**為[TBS](https://zh.wikipedia.org/wiki/東京廣播 "wikilink")[週五連續劇](../Page/TBS週五連續劇.md "wikilink")，2008年4月11日至6月20日每週五晚上10點播放。[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")於2009年1月5日起週一至週五每晚八點播出。
 
 ## 簡介
 
@@ -10,14 +10,12 @@
   - 岡村 恵太朗（おかむら けいたろう）- [藤木直人](../Page/藤木直人.md "wikilink")
   - 森村 奈央（もりむら なお）- [大塚寧寧](../Page/大塚寧寧.md "wikilink")
   - 竹内 瑞恵（たけうち みずえ）- [松下由樹](../Page/松下由樹.md "wikilink")
-  - 大橋 貞夫（おおはし さだお）-
-    [筒井道隆](https://zh.wikipedia.org/wiki/筒井道隆 "wikilink")
+  - 大橋 貞夫（おおはし さだお）- [筒井道隆](https://zh.wikipedia.org/wiki/筒井道隆 "wikilink")
   - 片山 遙（かたやま はるか）- [松本若菜](../Page/松本若菜.md "wikilink")
 
 **緒方家**
 
-  - 緒方達也（おがた たつや）-
-    [AKIRA（EXILE）](https://zh.wikipedia.org/wiki/AKIRA（EXILE） "wikilink")
+  - 緒方達也（おがた たつや）- [AKIRA（EXILE）](https://zh.wikipedia.org/wiki/AKIRA（EXILE） "wikilink")
 
 聰子的弟弟。職業是美容師。
 
@@ -33,8 +31,7 @@
 
 聰子的爸爸。內科診所醫生。68歲。
 
-  - 吉永晴子（よしなが はるこ）-
-    [加賀まりこ](https://zh.wikipedia.org/wiki/加賀まりこ "wikilink")
+  - 吉永晴子（よしなが はるこ）- [加賀まりこ](https://zh.wikipedia.org/wiki/加賀まりこ "wikilink")
 
 聰子的繼母。
 
@@ -166,12 +163,4 @@
 
 ## 作品的變遷
 
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:日本流行语](https://zh.wikipedia.org/wiki/Category:日本流行语 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
-[Category:橋部敦子劇本電視劇](https://zh.wikipedia.org/wiki/Category:橋部敦子劇本電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:橋田賞獲獎作品](https://zh.wikipedia.org/wiki/Category:橋田賞獲獎作品 "wikilink")
-[Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink")
+[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:日本流行语](https://zh.wikipedia.org/wiki/Category:日本流行语 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink") [Category:橋部敦子劇本電視劇](https://zh.wikipedia.org/wiki/Category:橋部敦子劇本電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:橋田賞獲獎作品](https://zh.wikipedia.org/wiki/Category:橋田賞獲獎作品 "wikilink") [Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink")

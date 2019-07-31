@@ -1,24 +1,21 @@
-《****》是[白泉社發行的少女漫畫雜誌](../Page/白泉社.md "wikilink")。1976年創刊。原為「[花與夢](../Page/花與夢.md "wikilink")」的別冊，之後獨立月刊。
+《****》是[白泉社](../Page/白泉社.md "wikilink")發行的少女漫畫雜誌。1976年創刊。原為「[花與夢](../Page/花與夢.md "wikilink")」的別冊，之後獨立月刊。
 
 ## 目前連載作品
 
   - [赤髮白雪姬](../Page/赤髮白雪姬.md "wikilink")（[秋月空太](../Page/秋月空太.md "wikilink")）
   - [假装女友](https://zh.wikipedia.org/wiki/假装女友 "wikilink")（[林みかせ](https://zh.wikipedia.org/wiki/林みかせ "wikilink")）
-  - [幕後之人](https://zh.wikipedia.org/wiki/幕後之人 "wikilink")
-    ([叶鸟螺子](https://zh.wikipedia.org/wiki/叶鸟螺子 "wikilink"))
+  - [幕後之人](https://zh.wikipedia.org/wiki/幕後之人 "wikilink") ([叶鸟螺子](https://zh.wikipedia.org/wiki/叶鸟螺子 "wikilink"))
   - [狼陛下的花嫁](https://zh.wikipedia.org/wiki/狼陛下的花嫁 "wikilink")（[可歌真都](https://zh.wikipedia.org/wiki/可歌真都 "wikilink")）
   - [學園奶爸](https://zh.wikipedia.org/wiki/學園奶爸 "wikilink")（[時計野はり](https://zh.wikipedia.org/wiki/時計野はり "wikilink")）
   - [絕不放過你](https://zh.wikipedia.org/wiki/絕不放過你 "wikilink")（[田中機械](../Page/田中機械.md "wikilink")）
-  - [圖書館戰爭LOVE](../Page/圖書館戰爭.md "wikilink")\&WAR（[弓黃色](https://zh.wikipedia.org/wiki/弓黃色 "wikilink")，[原作：](https://zh.wikipedia.org/wiki/原作： "wikilink")[有川浩](../Page/有川浩.md "wikilink")）
+  - [圖書館戰爭](../Page/圖書館戰爭.md "wikilink")LOVE\&WAR（[弓黃色](https://zh.wikipedia.org/wiki/弓黃色 "wikilink")，[原作：](https://zh.wikipedia.org/wiki/原作： "wikilink")[有川浩](../Page/有川浩.md "wikilink")）
   - [夏目友人帳](../Page/夏目友人帳.md "wikilink")（[绿川幸](https://zh.wikipedia.org/wiki/绿川幸 "wikilink")）
   - [ヒノコ](https://zh.wikipedia.org/wiki/ヒノコ "wikilink")（[津田雅美](https://zh.wikipedia.org/wiki/津田雅美 "wikilink")）
   - [水珠甜心男孩](https://zh.wikipedia.org/wiki/水珠甜心男孩 "wikilink")（[池ジュン子](https://zh.wikipedia.org/wiki/池ジュン子 "wikilink")）
   - [遊星の惡作劇](https://zh.wikipedia.org/wiki/遊星の惡作劇 "wikilink")（[吳由姬](https://zh.wikipedia.org/wiki/吳由姬 "wikilink")）
   - [小雪會墮入地獄嗎](https://zh.wikipedia.org/wiki/小雪會墮入地獄嗎 "wikilink")（[藤原飛呂](../Page/藤原飛呂.md "wikilink")）
-  - [Last game
-    青春角力賽](../Page/Last_game_青春角力賽.md "wikilink")（[天乃忍](../Page/天乃忍.md "wikilink")）
-  - [你在春天醒來](https://zh.wikipedia.org/wiki/你在春天醒來 "wikilink")（[縞
-    安里](https://zh.wikipedia.org/wiki/縞_安里 "wikilink")）
+  - [Last game 青春角力賽](../Page/Last_game_青春角力賽.md "wikilink")（[天乃忍](../Page/天乃忍.md "wikilink")）
+  - [你在春天醒來](https://zh.wikipedia.org/wiki/你在春天醒來 "wikilink")（[縞 安里](https://zh.wikipedia.org/wiki/縞_安里 "wikilink")）
 
 ## 過去連載作品
 
@@ -84,9 +81,4 @@
 
   - [公式網站](http://www.hakusensha.co.jp/cgi-bin/mag/magazine.cgi?mode=magazine&magmode=mag03&day=now)
 
-[Category:LaLa](https://zh.wikipedia.org/wiki/Category:LaLa "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:白泉社](https://zh.wikipedia.org/wiki/Category:白泉社 "wikilink")
-[Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink")
+[Category:LaLa](https://zh.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:白泉社](https://zh.wikipedia.org/wiki/Category:白泉社 "wikilink") [Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink")

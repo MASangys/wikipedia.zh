@@ -1,7 +1,6 @@
 **TiMidity++**是一種軟體音源器，它的前身是**TiMidity**，現在仍常用這個名稱。它能夠轉換[MIDI](../Page/MIDI.md "wikilink")格式至數種不同其他的格式。產生[PCM編碼時](https://zh.wikipedia.org/wiki/PCM "wikilink")，能輸出至電腦的音效卡或檔案作儲存用。
 
-TiMidity++主要在[Linux](../Page/Linux.md "wikilink")及[Unix-like作業系統下運作](https://zh.wikipedia.org/wiki/Unix-like "wikilink")，但它也能運作於微軟的[Windows系統及](https://zh.wikipedia.org/wiki/Windows "wikilink")[AmigaOS](../Page/AmigaOS.md "wikilink")之下。它以[GNU
-GPL發佈](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，所以是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
+TiMidity++主要在[Linux](../Page/Linux.md "wikilink")及[Unix-like作業系統下運作](https://zh.wikipedia.org/wiki/Unix-like "wikilink")，但它也能運作於微軟的[Windows系統及](https://zh.wikipedia.org/wiki/Windows "wikilink")[AmigaOS](../Page/AmigaOS.md "wikilink")之下。它以[GNU GPL發佈](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，所以是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 ## 功能
 
@@ -13,8 +12,7 @@ TiMidity++也支援被用來創作[微分音音樂](../Page/微分音音樂.md "
 
 ## 歷史
 
-原始的TiMidity程序是由Tuukka Toivonen於1995年寫作。在他停止更新以後，Masanao
-Izumo和其他貢獻者開始接管這個計畫，並改名為TiMidity++。從2004年以來，TiMidity++專案已經不再有顯著的更新\[2\]，但更新的代碼仍偶爾會被送上[CVS代碼庫中](https://zh.wikipedia.org/wiki/CVS "wikilink")。\[3\]
+原始的TiMidity程序是由Tuukka Toivonen於1995年寫作。在他停止更新以後，Masanao Izumo和其他貢獻者開始接管這個計畫，並改名為TiMidity++。從2004年以來，TiMidity++專案已經不再有顯著的更新\[2\]，但更新的代碼仍偶爾會被送上[CVS代碼庫中](https://zh.wikipedia.org/wiki/CVS "wikilink")。\[3\]
 
 ## 同見
 
@@ -26,11 +24,8 @@ Izumo和其他貢獻者開始接管這個計畫，並改名為TiMidity++。從20
 
   - [TiMidity++ 網站](http://timidity.sourceforge.net/)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:軟體音源器](https://zh.wikipedia.org/wiki/Category:軟體音源器 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:軟體音源器](https://zh.wikipedia.org/wiki/Category:軟體音源器 "wikilink")
 
-1.  [Making Microtonal Music with
-    Software](http://www.parnasse.com/microtonal/)
-2.  [TiMidity++ mailing
-    list](http://permalink.gmane.org/gmane.comp.audio.timidity%2B%2B.general/389)
+1.  [Making Microtonal Music with Software](http://www.parnasse.com/microtonal/)
+2.  [TiMidity++ mailing list](http://permalink.gmane.org/gmane.comp.audio.timidity%2B%2B.general/389)
 3.  <http://timidity.cvs.sourceforge.net/*checkout*/timidity/timidity/ChangeLog>

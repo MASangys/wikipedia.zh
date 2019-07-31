@@ -1,7 +1,4 @@
-[Taipei_West_Bus_Station_Terminal_A_inside_2.jpg](https://zh.wikipedia.org/wiki/File:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg "fig:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg")
-**臺北西站A棟**（[英語譯名](https://zh.wikipedia.org/wiki/英語 "wikilink")：Taipei
-West Bus Station Terminal
-A，另有一誤用的名字**交六轉運站**\[1\]、**臺北西A站**或**臺北Ａ站**\[2\]），位於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")、[臺北車站特定專用區交通六號用地東南角](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[臺北市](../Page/臺北市.md "wikilink")主要的[公路長途客運](../Page/臺灣汽車客運.md "wikilink")（國道客運）車站之一，其前身為臺北東站、臺北北站及國道客運臺北總站。為了配合[臺北市政府](../Page/臺北市政府.md "wikilink")的[西區門戶計畫](http://tpstation.com.tw/)，在2016年10月30日停止使用、並將予以拆除\[3\]\[4\]。
+[Taipei_West_Bus_Station_Terminal_A_inside_2.jpg](https://zh.wikipedia.org/wiki/File:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg "fig:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg") **臺北西站A棟**（[英語譯名](https://zh.wikipedia.org/wiki/英語 "wikilink")：Taipei West Bus Station Terminal A，另有一誤用的名字**交六轉運站**\[1\]、**臺北西A站**或**臺北Ａ站**\[2\]），位於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")、[臺北車站特定專用區交通六號用地東南角](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[臺北市](../Page/臺北市.md "wikilink")主要的[公路長途客運](../Page/臺灣汽車客運.md "wikilink")（國道客運）車站之一，其前身為臺北東站、臺北北站及國道客運臺北總站。為了配合[臺北市政府](../Page/臺北市政府.md "wikilink")的[西區門戶計畫](http://tpstation.com.tw/)，在2016年10月30日停止使用、並將予以拆除\[3\]\[4\]。
 
 ## 概要
 
@@ -135,18 +132,9 @@ R7：[館前路](../Page/館前路.md "wikilink")\]\]
 
 </div>
 
-[Category:台北市公車總站](https://zh.wikipedia.org/wiki/Category:台北市公車總站 "wikilink")
-[Category:2005年完工建築物](https://zh.wikipedia.org/wiki/Category:2005年完工建築物 "wikilink")
-[Category:2005年台灣建立](https://zh.wikipedia.org/wiki/Category:2005年台灣建立 "wikilink")
-[Category:2016年台灣廢除](https://zh.wikipedia.org/wiki/Category:2016年台灣廢除 "wikilink")
-[Category:台灣汽車客運轉運站](https://zh.wikipedia.org/wiki/Category:台灣汽車客運轉運站 "wikilink")
-[Category:國光客運](https://zh.wikipedia.org/wiki/Category:國光客運 "wikilink")
-[Category:台灣已拆除交通建築物](https://zh.wikipedia.org/wiki/Category:台灣已拆除交通建築物 "wikilink")
-[Category:台北車站特定專用區](https://zh.wikipedia.org/wiki/Category:台北車站特定專用區 "wikilink")
-[Category:台北市已拆除建築物](https://zh.wikipedia.org/wiki/Category:台北市已拆除建築物 "wikilink")
+[Category:台北市公車總站](https://zh.wikipedia.org/wiki/Category:台北市公車總站 "wikilink") [Category:2005年完工建築物](https://zh.wikipedia.org/wiki/Category:2005年完工建築物 "wikilink") [Category:2005年台灣建立](https://zh.wikipedia.org/wiki/Category:2005年台灣建立 "wikilink") [Category:2016年台灣廢除](https://zh.wikipedia.org/wiki/Category:2016年台灣廢除 "wikilink") [Category:台灣汽車客運轉運站](https://zh.wikipedia.org/wiki/Category:台灣汽車客運轉運站 "wikilink") [Category:國光客運](https://zh.wikipedia.org/wiki/Category:國光客運 "wikilink") [Category:台灣已拆除交通建築物](https://zh.wikipedia.org/wiki/Category:台灣已拆除交通建築物 "wikilink") [Category:台北車站特定專用區](https://zh.wikipedia.org/wiki/Category:台北車站特定專用區 "wikilink") [Category:台北市已拆除建築物](https://zh.wikipedia.org/wiki/Category:台北市已拆除建築物 "wikilink")
 
 1.  實際上，[臺北車站特定專用區交通六號用地包含臺北西站的A](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")、B兩棟，但交六轉運站一名只曾經看到用在A棟
 2.  由於國光客運的售票系統對於站名最高只支援到四位元組，因此臺北西站A棟在車票上只能寫成臺北Ａ站
 3.
-4.  [國光西站10月底拆完 議員憂交通黑暗期](https://www.youtube.com/watch?v=klxBeP3lMRk) -
-    [民視新聞](https://zh.wikipedia.org/wiki/民視新聞 "wikilink")
+4.  [國光西站10月底拆完 議員憂交通黑暗期](https://www.youtube.com/watch?v=klxBeP3lMRk) - [民視新聞](https://zh.wikipedia.org/wiki/民視新聞 "wikilink")

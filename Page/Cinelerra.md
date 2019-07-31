@@ -6,5 +6,4 @@
 
   - [官方主页](http://www.heroinewarrior.com/cinelerra.php)
 
-[Category:Linux軟件](https://zh.wikipedia.org/wiki/Category:Linux軟件 "wikilink")
-[Category:视频编辑软件](https://zh.wikipedia.org/wiki/Category:视频编辑软件 "wikilink")
+[Category:Linux軟件](https://zh.wikipedia.org/wiki/Category:Linux軟件 "wikilink") [Category:视频编辑软件](https://zh.wikipedia.org/wiki/Category:视频编辑软件 "wikilink")

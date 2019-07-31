@@ -1,5 +1,4 @@
-《**My Name Is
-邦**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的電視節目，由[崔建邦](../Page/崔建邦.md "wikilink")主持。2009年6月29日至2009年12月4日逢星期一至五21:00-21:30於[J2](../Page/J2.md "wikilink")播映，2009年12月14日起為了配合J2黃金時段節目編排改動，延後至23:30播出。訪問人物範圍包括歌手、藝人、武打影星、動漫界、車手及模特兒界。
+《**My Name Is 邦**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的電視節目，由[崔建邦](../Page/崔建邦.md "wikilink")主持。2009年6月29日至2009年12月4日逢星期一至五21:00-21:30於[J2](../Page/J2.md "wikilink")播映，2009年12月14日起為了配合J2黃金時段節目編排改動，延後至23:30播出。訪問人物範圍包括歌手、藝人、武打影星、動漫界、車手及模特兒界。
 
 ## 每集嘉賓
 
@@ -890,14 +889,10 @@
 
 ## 外部連結
 
-  - [My Name Is 邦 - TVB
-    J2台官方網頁](http://b.tvb.com/j2/2009/06/20/my-name-is-%E9%82%A6/)
+  - [My Name Is 邦 - TVB J2台官方網頁](http://b.tvb.com/j2/2009/06/20/my-name-is-%E9%82%A6/)
   - [My Name Is 邦 - TVB 官方網頁](http://programme.tvb.com/variety/nib/)
   - [myTV - My Name Is 邦](http://mytv.tvb.com/variety/nib/)
 
 ## 電視節目的變遷
 
-[Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink")
-[Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink")
-[Category:無綫電視清談節目](https://zh.wikipedia.org/wiki/Category:無綫電視清談節目 "wikilink")
-[Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink")
+[Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink") [Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink") [Category:無綫電視清談節目](https://zh.wikipedia.org/wiki/Category:無綫電視清談節目 "wikilink") [Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink")

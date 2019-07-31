@@ -22,8 +22,4 @@
   - [官方推特](https://twitter.com/mumtheband)
   - [官網](http://www.mum.is/)
 
-[Category:冰島樂團](https://zh.wikipedia.org/wiki/Category:冰島樂團 "wikilink")
-[Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink")
-[Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
+[Category:冰島樂團](https://zh.wikipedia.org/wiki/Category:冰島樂團 "wikilink") [Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink") [Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")

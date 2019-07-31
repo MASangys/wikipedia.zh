@@ -35,6 +35,4 @@
 
   - [WNBA歷史](http://www.wnba.com/history/)
 
-[Category:WNBA](https://zh.wikipedia.org/wiki/Category:WNBA "wikilink")
-[Category:NBA总决赛](https://zh.wikipedia.org/wiki/Category:NBA总决赛 "wikilink")
-[Category:1997年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:1997年建立的週期性體育事件 "wikilink")
+[Category:WNBA](https://zh.wikipedia.org/wiki/Category:WNBA "wikilink") [Category:NBA总决赛](https://zh.wikipedia.org/wiki/Category:NBA总决赛 "wikilink") [Category:1997年建立的週期性體育事件](https://zh.wikipedia.org/wiki/Category:1997年建立的週期性體育事件 "wikilink")

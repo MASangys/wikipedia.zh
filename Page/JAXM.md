@@ -1,6 +1,4 @@
-JAXM（Java API for XML
-Messaging简称JAXM）是为Java平台上的应用程序定义的API，用以通过[XML](../Page/XML.md "wikilink")(以及[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink"))发送和接收消息，支持同步消息和异步消息。JAXR
-API是在JCP下开发的，代号JSR 67。
+JAXM（Java API for XML Messaging简称JAXM）是为Java平台上的应用程序定义的API，用以通过[XML](../Page/XML.md "wikilink")(以及[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink"))发送和接收消息，支持同步消息和异步消息。JAXR API是在JCP下开发的，代号JSR 67。
 
 ## 基本概念
 
@@ -23,8 +21,7 @@ JAXM有两种连接：
 
 ### JAXM客户端
 
-JAXM客户端向接收者发送消息。最终的接收者一般是服务。
-JAXM客户端可以直接发送消息给服务，也可以发送给一个中介提供者，被称为JAXM消息提供者。取决于客户端和接收者是如何配置的。
+JAXM客户端向接收者发送消息。最终的接收者一般是服务。 JAXM客户端可以直接发送消息给服务，也可以发送给一个中介提供者，被称为JAXM消息提供者。取决于客户端和接收者是如何配置的。
 
 ### JAXM服务
 
@@ -73,10 +70,6 @@ JAXM的API包包括：
 
 ## 外部链接
 
-  - [Java API for XML Messaging
-    (JAXM)](http://java.sun.com/javaee/5/docs/api/javax/xml/soap/package-summary.html)
+  - [Java API for XML Messaging (JAXM)](http://java.sun.com/javaee/5/docs/api/javax/xml/soap/package-summary.html)
 
-[Category:Java_API_for_XML](https://zh.wikipedia.org/wiki/Category:Java_API_for_XML "wikilink")
-[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
-[Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")
+[Category:Java_API_for_XML](https://zh.wikipedia.org/wiki/Category:Java_API_for_XML "wikilink") [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")

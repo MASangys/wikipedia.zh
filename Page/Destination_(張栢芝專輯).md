@@ -1,5 +1,4 @@
-《**Destination**》是[張栢芝](../Page/張栢芝.md "wikilink")的第二張個人音樂專輯，於1999年11月15日發行；隨後推出第二版，加收VCD，其後於2000年1月14日推出韓國版，這是張第一張的韓國版專輯。
-此唱片獲得白金唱片銷量。
+《**Destination**》是[張栢芝](../Page/張栢芝.md "wikilink")的第二張個人音樂專輯，於1999年11月15日發行；隨後推出第二版，加收VCD，其後於2000年1月14日推出韓國版，這是張第一張的韓國版專輯。 此唱片獲得白金唱片銷量。
 
 ## 曲目
 
@@ -16,7 +15,4 @@
 
   - 2000年度勁歌金曲第一季季選—得獎歌曲《目的地》
 
-[Category:張栢芝音樂專輯](https://zh.wikipedia.org/wiki/Category:張栢芝音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
+[Category:張栢芝音樂專輯](https://zh.wikipedia.org/wiki/Category:張栢芝音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")

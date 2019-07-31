@@ -1,6 +1,4 @@
-《**AV**》，又名《**青春夢工場**》，由[彭浩翔於](../Page/彭浩翔.md "wikilink")2005年執導的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")。該片獲得[金紫荆獎年度十大華語電影](https://zh.wikipedia.org/wiki/金紫荆獎 "wikilink")\[1\]，並獲選[法國](https://zh.wikipedia.org/wiki/法国 "wikilink")[多维尔亚洲电影节](../Page/多维尔亚洲电影节.md "wikilink")（Festival
-du film asiatique de
-Deauville）競賽單元之一\[2\]。本電影於2006年第十一屆香港電影金紫荊獎中獲得十大華語片獎。
+《**AV**》，又名《**青春夢工場**》，由[彭浩翔](../Page/彭浩翔.md "wikilink")於2005年執導的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")。該片獲得[金紫荆獎年度十大華語電影](https://zh.wikipedia.org/wiki/金紫荆獎 "wikilink")\[1\]，並獲選[法國](https://zh.wikipedia.org/wiki/法国 "wikilink")[多维尔亚洲电影节](../Page/多维尔亚洲电影节.md "wikilink")（Festival du film asiatique de Deauville）競賽單元之一\[2\]。本電影於2006年第十一屆香港電影金紫荊獎中獲得十大華語片獎。
 
 根據《[電影檢查條例](https://zh.wikipedia.org/wiki/電影檢查條例 "wikilink")》，本片列為青少年及兒童不宜（IIB）。
 
@@ -51,15 +49,7 @@ Deauville）競賽單元之一\[2\]。本電影於2006年第十一屆香港電�
   -
   -
   -
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
-[Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink")
-[Category:美亞電影](https://zh.wikipedia.org/wiki/Category:美亞電影 "wikilink")
-[Category:彭浩翔電影](https://zh.wikipedia.org/wiki/Category:彭浩翔電影 "wikilink")
-[Category:電影題材電影](https://zh.wikipedia.org/wiki/Category:電影題材電影 "wikilink")
-[Category:色情題材作品](https://zh.wikipedia.org/wiki/Category:色情題材作品 "wikilink")
+[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink") [Category:美亞電影](https://zh.wikipedia.org/wiki/Category:美亞電影 "wikilink") [Category:彭浩翔電影](https://zh.wikipedia.org/wiki/Category:彭浩翔電影 "wikilink") [Category:電影題材電影](https://zh.wikipedia.org/wiki/Category:電影題材電影 "wikilink") [Category:色情題材作品](https://zh.wikipedia.org/wiki/Category:色情題材作品 "wikilink")
 
-1.  [歷屆得獎名單 -
-    第十二屆香港電影金紫荊獎頒獎典禮](http://hk.movies.yahoo.com/gbaward/history.html)
-
-2.  [2006 - Festival du Film Asiatique de
-    Deauville](http://www.deauvilleasia.com/historique_2006.htm)
+1.  [歷屆得獎名單 - 第十二屆香港電影金紫荊獎頒獎典禮](http://hk.movies.yahoo.com/gbaward/history.html)
+2.  [2006 - Festival du Film Asiatique de Deauville](http://www.deauvilleasia.com/historique_2006.htm)

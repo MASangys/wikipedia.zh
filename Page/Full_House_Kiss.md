@@ -1,12 +1,8 @@
-《**Full House
-Kiss**》（）是在2004年7月22日由[CAPCOM發售](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[PS2用的](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。正式種類名稱為戀愛女佣。人物設計與原畫是由少女漫畫家[佑羽栞擔任](https://zh.wikipedia.org/wiki/佑羽栞 "wikilink")。繼承登場人物的续篇[Full
-House Kiss2在](../Page/Full_House_Kiss2.md "wikilink")2006年2月23日發售。media
-mix企画、佑羽栞作画的漫画版在[白泉社的](../Page/白泉社.md "wikilink")《[花與夢](../Page/花與夢.md "wikilink")》上連載。
+《**Full House Kiss**》（）是在2004年7月22日由[CAPCOM發售](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[PS2用的](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。正式種類名稱為戀愛女佣。人物設計與原畫是由少女漫畫家[佑羽栞擔任](https://zh.wikipedia.org/wiki/佑羽栞 "wikilink")。繼承登場人物的续篇[Full House Kiss2在](../Page/Full_House_Kiss2.md "wikilink")2006年2月23日發售。media mix企画、佑羽栞作画的漫画版在[白泉社](../Page/白泉社.md "wikilink")的《[花與夢](../Page/花與夢.md "wikilink")》上連載。
 
 ## 簡介
 
-15歲的少女為了探聽姐姐的去向，白天在名門高中「祥慶學園」當美術老師，夜晚在祥慶學園的「La
-Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](https://zh.wikipedia.org/wiki/ADV "wikilink")，晚上是女佣部分，游戏由這二個部分構成。
+15歲的少女為了探聽姐姐的去向，白天在名門高中「祥慶學園」當美術老師，夜晚在祥慶學園的「La Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](https://zh.wikipedia.org/wiki/ADV "wikilink")，晚上是女佣部分，游戏由這二個部分構成。
 
 ## 故事内容
 
@@ -22,30 +18,25 @@ Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](https://zh
 
   -
     聲：[荻原秀樹](https://zh.wikipedia.org/wiki/荻原秀樹 "wikilink")
-    2月18日生，17歳，A型，身高178cm。世界的大企業御堂集團的獨生子，祥慶學園3年級，La
-    Prince之一。經常冷靜沉著於怎樣才不會把事情弄得亂七八糟，不管什麼事都能處理，只有家事好像比較沒輒，在麦來到一哉家之前一直在髒亂得像垃圾堆的房間生活。雖然是高中生，但已經是6個集團企業中具有實權的社長，是集團下屆總司令的接班人。現在的家是讀高中獨立的時候父母留給他的，一個人和同居人生活居住的地方。祖父是御堂集團現任總司令、父親是NASA諾貝爾獎的學者、母親則是服裝設計師。
+    2月18日生，17歳，A型，身高178cm。世界的大企業御堂集團的獨生子，祥慶學園3年級，La Prince之一。經常冷靜沉著於怎樣才不會把事情弄得亂七八糟，不管什麼事都能處理，只有家事好像比較沒輒，在麦來到一哉家之前一直在髒亂得像垃圾堆的房間生活。雖然是高中生，但已經是6個集團企業中具有實權的社長，是集團下屆總司令的接班人。現在的家是讀高中獨立的時候父母留給他的，一個人和同居人生活居住的地方。祖父是御堂集團現任總司令、父親是NASA諾貝爾獎的學者、母親則是服裝設計師。
 
 <!-- end list -->
 
   -
     聲：[佐佐木望](../Page/佐佐木望.md "wikilink")
-    9月23日生，19歳，AB型，182cm。祥慶學園3年級，La
-    Prince之一，在一哉的家寄住。父母家是歌舞團界的世家，從自己年幼的時候作為旦角開始活躍著，不過因為某些事情不得不離開梨園，休學赴美2年（因此復學後是高中3年級19歲）。回國後，在祥慶學園長的勸導下也搬到一哉的家。有成年人的姿色，擅長取悅女性的手腕，而对方也总是當真。有個弟弟同樣在歌舞團界活躍。
+    9月23日生，19歳，AB型，182cm。祥慶學園3年級，La Prince之一，在一哉的家寄住。父母家是歌舞團界的世家，從自己年幼的時候作為旦角開始活躍著，不過因為某些事情不得不離開梨園，休學赴美2年（因此復學後是高中3年級19歲）。回國後，在祥慶學園長的勸導下也搬到一哉的家。有成年人的姿色，擅長取悅女性的手腕，而对方也总是當真。有個弟弟同樣在歌舞團界活躍。
 
 <!-- end list -->
 
   -
     聲：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
-    8月6日生，16歳，O型，180cm。祥慶學園2年級，La
-    Prince之一，在一哉的家寄住。大銀行的名門子弟，但完全沒有要繼承家業的意思，跟家人固執己見，討厭父母離家出走。會住在一哉的家是因為姐姐的要求才勉勉強強居住。討厭女人，嘴巴很壞，剛開始對麦相當冷淡，但却是說謊會覺得不安的老實人。喜歡摩托車和撞球，整夜泡在經常去的pool
-    bar的情况也很常見。夢想是「成為Hassler在美國活躍」。
+    8月6日生，16歳，O型，180cm。祥慶學園2年級，La Prince之一，在一哉的家寄住。大銀行的名門子弟，但完全沒有要繼承家業的意思，跟家人固執己見，討厭父母離家出走。會住在一哉的家是因為姐姐的要求才勉勉強強居住。討厭女人，嘴巴很壞，剛開始對麦相當冷淡，但却是說謊會覺得不安的老實人。喜歡摩托車和撞球，整夜泡在經常去的pool bar的情况也很常見。夢想是「成為Hassler在美國活躍」。
 
 <!-- end list -->
 
   -
     聲：[成瀨誠](../Page/成瀨誠.md "wikilink")
-    5月13日生，17歳，AB型，175cm。祥慶學園2年級，La
-    Prince之一，在一哉的家寄住。被称为「祥慶學園的妖精」，外表有着中性的纤细容貌，实际上跟女性的傳言不斷。拿手的才能是鋼琴演奏與作曲，相當有能力但通常不在人前演奏。父母都是音樂家，鋼琴是從父親那裡學的，不過因為某些情況變得疏遠。某日突然出現對一哉說出「希望同居」的請求。捉弄麦和麻生是每天的習慣動作。
+    5月13日生，17歳，AB型，175cm。祥慶學園2年級，La Prince之一，在一哉的家寄住。被称为「祥慶學園的妖精」，外表有着中性的纤细容貌，实际上跟女性的傳言不斷。拿手的才能是鋼琴演奏與作曲，相當有能力但通常不在人前演奏。父母都是音樂家，鋼琴是從父親那裡學的，不過因為某些情況變得疏遠。某日突然出現對一哉說出「希望同居」的請求。捉弄麦和麻生是每天的習慣動作。
 
 <!-- end list -->
 
@@ -190,20 +181,8 @@ Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](https://zh
 
   - [Full House Kiss系列官方网站](http://fullkiss.jp/)
 
-  - [GameSpy Full House
-    Kiss](https://web.archive.org/web/20080312205348/http://ps2.gamespy.com/playstation-2/full-house-kiss/)
+  - [GameSpy Full House Kiss](https://web.archive.org/web/20080312205348/http://ps2.gamespy.com/playstation-2/full-house-kiss/)
 
-  - [GameStats Full House Kiss Cheats, Reviews,
-    News](https://archive.is/20130426011357/http://www.gamestats.com/objects/692/692521/)
+  - [GameStats Full House Kiss Cheats, Reviews, News](https://archive.is/20130426011357/http://www.gamestats.com/objects/692/692521/)
 
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink")
-[Category:少女漫画](https://zh.wikipedia.org/wiki/Category:少女漫画 "wikilink")
-[Category:校园漫画](https://zh.wikipedia.org/wiki/Category:校园漫画 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink")
-[Category:广播剧CD](https://zh.wikipedia.org/wiki/Category:广播剧CD "wikilink")
-[Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink")
-[Category:家政婦題材作品](https://zh.wikipedia.org/wiki/Category:家政婦題材作品 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:少女漫画](https://zh.wikipedia.org/wiki/Category:少女漫画 "wikilink") [Category:校园漫画](https://zh.wikipedia.org/wiki/Category:校园漫画 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink") [Category:广播剧CD](https://zh.wikipedia.org/wiki/Category:广播剧CD "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:家政婦題材作品](https://zh.wikipedia.org/wiki/Category:家政婦題材作品 "wikilink")

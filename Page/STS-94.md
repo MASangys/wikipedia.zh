@@ -10,7 +10,4 @@
   - **[罗杰·克劳奇](https://zh.wikipedia.org/wiki/罗杰·克劳奇 "wikilink")**（，曾执行以及任务），有效载荷专家
   - **[格莱格·林特里斯](https://zh.wikipedia.org/wiki/格莱格·林特里斯 "wikilink")**（，曾执行以及任务），有效载荷专家
 
-[Category:1997年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1997年佛罗里达州 "wikilink")
-[Category:1997年科學](https://zh.wikipedia.org/wiki/Category:1997年科學 "wikilink")
-[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
-[Category:1997年7月](https://zh.wikipedia.org/wiki/Category:1997年7月 "wikilink")
+[Category:1997年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1997年佛罗里达州 "wikilink") [Category:1997年科學](https://zh.wikipedia.org/wiki/Category:1997年科學 "wikilink") [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink") [Category:1997年7月](https://zh.wikipedia.org/wiki/Category:1997年7月 "wikilink")

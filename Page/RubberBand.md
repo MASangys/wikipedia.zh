@@ -2,19 +2,13 @@
 
 ## 簡介
 
-[USCA2012_RubberBand.JPG](https://zh.wikipedia.org/wiki/File:USCA2012_RubberBand.JPG "fig:USCA2012_RubberBand.JPG")
-樂隊成立前，五位成員都在不同的獨立樂隊玩音樂\[3\]
-。主音6號（繆浩昌）在2002年畢業於[香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[新聞及傳播學系後](https://zh.wikipedia.org/wiki/新聞 "wikilink")，加入了[香港電台](../Page/香港電台.md "wikilink")電視部當助導\[4\]，直至2003年五位成員相遇後，於2004年RubberBand正式成立。而另兩位成員泥鯭（黎萬宏），樂隊鼓手畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")[物理及材料科學系碩士](https://zh.wikipedia.org/wiki/物理及材料科學系 "wikilink")，結他手阿正畢業於美國波士頓的伯克利音樂學院
-(Berklee College of Music)主修電影配樂。
+[USCA2012_RubberBand.JPG](https://zh.wikipedia.org/wiki/File:USCA2012_RubberBand.JPG "fig:USCA2012_RubberBand.JPG") 樂隊成立前，五位成員都在不同的獨立樂隊玩音樂\[3\] 。主音6號（繆浩昌）在2002年畢業於[香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[新聞及傳播學系後](https://zh.wikipedia.org/wiki/新聞 "wikilink")，加入了[香港電台](../Page/香港電台.md "wikilink")電視部當助導\[4\]，直至2003年五位成員相遇後，於2004年RubberBand正式成立。而另兩位成員泥鯭（黎萬宏），樂隊鼓手畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")[物理及材料科學系碩士](https://zh.wikipedia.org/wiki/物理及材料科學系 "wikilink")，結他手阿正畢業於美國波士頓的伯克利音樂學院 (Berklee College of Music)主修電影配樂。
 
-2007年，他們拿著自己的作品，尋找唱片公司為他們出唱片。最終得到[雷頌德](../Page/雷頌德.md "wikilink")賞識，簽進[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")\[5\]
-（現稱金牌大風娛樂有限公司）。RubberBand在組團時已定下一個傳統：除了精選碟及EP外，悉數以字母順序來命名唱片。
+2007年，他們拿著自己的作品，尋找唱片公司為他們出唱片。最終得到[雷頌德](../Page/雷頌德.md "wikilink")賞識，簽進[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")\[5\] （現稱金牌大風娛樂有限公司）。RubberBand在組團時已定下一個傳統：除了精選碟及EP外，悉數以字母順序來命名唱片。
 
-2008年9月26日，RubberBand推出首張唱片《Apollo
-18》，收錄《一早地下鐵》、《遊車河》、《小涼伴》及《Tears》等歌曲。RubberBand於[2008年度叱吒樂壇流行榜頒獎典禮獲得](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮 "wikilink")[叱吒樂壇生力軍組合金獎](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")。同時於頒獎禮上由商台DJ[林海峰擔任該獎項的頒獎嘉賓](https://zh.wikipedia.org/wiki/林海峰 "wikilink")，因為成員泥鯭的模樣與林海峰猶如孖生兄弟。之後兩人出現在EPS廣告，以及RubberBand與林海峰合作歌曲《夾硬泥》。
+2008年9月26日，RubberBand推出首張唱片《Apollo 18》，收錄《一早地下鐵》、《遊車河》、《小涼伴》及《Tears》等歌曲。RubberBand於[2008年度叱吒樂壇流行榜頒獎典禮獲得](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮 "wikilink")[叱吒樂壇生力軍組合金獎](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")。同時於頒獎禮上由商台DJ[林海峰擔任該獎項的頒獎嘉賓](https://zh.wikipedia.org/wiki/林海峰 "wikilink")，因為成員泥鯭的模樣與林海峰猶如孖生兄弟。之後兩人出現在EPS廣告，以及RubberBand與林海峰合作歌曲《夾硬泥》。
 
-2009年7月24日，RubberBand推出第二張專輯《Beaming》，收錄歌曲有《天台飛人》、《阿波羅》、《夏令時間》、《夾硬泥》及《衝》等。11月23日，RubberBand在[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")舉行了他們首個演唱會－《[RubberBand
-Concert\#1](https://zh.wikipedia.org/wiki/RubberBand_Concert#1 "wikilink")》。RubberBand於2009年樂壇頒獎禮中奪得多個大獎，包括「新城勁爆樂隊」和「叱吒樂壇組合金獎」，他們為人所知的作品《阿波羅》及《發現號》等均成為大熱歌曲。
+2009年7月24日，RubberBand推出第二張專輯《Beaming》，收錄歌曲有《天台飛人》、《阿波羅》、《夏令時間》、《夾硬泥》及《衝》等。11月23日，RubberBand在[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")舉行了他們首個演唱會－《[RubberBand Concert\#1](https://zh.wikipedia.org/wiki/RubberBand_Concert#1 "wikilink")》。RubberBand於2009年樂壇頒獎禮中奪得多個大獎，包括「新城勁爆樂隊」和「叱吒樂壇組合金獎」，他們為人所知的作品《阿波羅》及《發現號》等均成為大熱歌曲。
 
 2010年6月，[南非世界杯前夕](https://zh.wikipedia.org/wiki/南非世界杯 "wikilink")，RubberBand推出單曲《細街盃》，歌曲是為了非洲居港移民而寫的\[6\]。
 
@@ -26,9 +20,7 @@ Concert\#1](https://zh.wikipedia.org/wiki/RubberBand_Concert#1 "wikilink")》。
 
 2016年RubberBand正式成為獨立樂隊，並於12月13-15日在香港旺角麥花臣場館舉行首個獨立後的演唱會《呢度》。
 
-2018年，適逢出道10年，RubberBand在形象指導張蚊的協助下拍攝時裝照\[9\]。同年9月26-27日，於九龍灣國際展貿中心舉行兩場
-RUBBERBAND HOURS
-演唱會。而歌曲《未來見》更大獲好評，成為不少樂評人的年度歌曲，更令RubberBand首次入圍叱咤樂壇我最喜愛的歌曲最後五強，而歌曲《未來見》亦成為至尊歌曲大獎的得獎大熱，可惜𨦫殺而歸，只獲叱咤十大第三位。而當晚亦獲得叱咤樂壇組合金獎，追平[Beyond](../Page/Beyond.md "wikilink")的紀錄。
+2018年，適逢出道10年，RubberBand在形象指導張蚊的協助下拍攝時裝照\[9\]。同年9月26-27日，於九龍灣國際展貿中心舉行兩場 RUBBERBAND HOURS 演唱會。而歌曲《未來見》更大獲好評，成為不少樂評人的年度歌曲，更令RubberBand首次入圍叱咤樂壇我最喜愛的歌曲最後五強，而歌曲《未來見》亦成為至尊歌曲大獎的得獎大熱，可惜𨦫殺而歸，只獲叱咤十大第三位。而當晚亦獲得叱咤樂壇組合金獎，追平[Beyond](../Page/Beyond.md "wikilink")的紀錄。
 
 在同年，RubberBand為電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》配樂並獻唱主題曲《逆流之歌》，令RubberBand榮獲[第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink")「最佳原創電影音樂」以及「最佳原創電影歌曲」。
 
@@ -46,9 +38,7 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 
 ## 標誌
 
-樂隊的標誌是一個圓圈內的英文字母**R**，圓圈右上方再加上一個[降音符](https://zh.wikipedia.org/wiki/降音符 "wikilink")（flat），取其似英文字母“**b**”，組成**RB**代號（樂隊簡稱），一般人將標誌唸作“RB”或“R
-flat”，最先見於其首張大碟《[Apollo
-18](https://zh.wikipedia.org/wiki/Apollo_18 "wikilink")》的封面。
+樂隊的標誌是一個圓圈內的英文字母**R**，圓圈右上方再加上一個[降音符](https://zh.wikipedia.org/wiki/降音符 "wikilink")（flat），取其似英文字母“**b**”，組成**RB**代號（樂隊簡稱），一般人將標誌唸作“RB”或“R flat”，最先見於其首張大碟《[Apollo 18](https://zh.wikipedia.org/wiki/Apollo_18 "wikilink")》的封面。
 
 ## 音樂作品
 
@@ -1108,12 +1098,9 @@ featuring 6號＠RubberBand</p></td>
 
 2007年
 
-  - MOOV
-    Live[梁漢文](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")（featuring
-    RubberBand）
+  - MOOV Live[梁漢文](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")（featuring RubberBand）
   - 3月17日：[芝華士](https://zh.wikipedia.org/wiki/芝華士 "wikilink")[金牌醇音樂](https://zh.wikipedia.org/wiki/金牌 "wikilink")
-  - 5月5日
-    ：[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")[拉闊音樂會](../Page/拉闊音樂會.md "wikilink")
+  - 5月5日 ：[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")[拉闊音樂會](../Page/拉闊音樂會.md "wikilink")
 
 2008年
 
@@ -1128,54 +1115,39 @@ featuring 6號＠RubberBand</p></td>
 
 2010年
 
-  - 12月7日：靖 × 膠人人合唱團（featuring
-    [歐陽靖](https://zh.wikipedia.org/wiki/歐陽靖 "wikilink")）
+  - 12月7日：靖 × 膠人人合唱團（featuring [歐陽靖](https://zh.wikipedia.org/wiki/歐陽靖 "wikilink")）
 
 2011年
 
   - 3月19日－23日：RubberBand Caravan Tour 2011
   - 4月17日：[饑饉三十閉幕禮音樂會](https://zh.wikipedia.org/wiki/饑饉三十 "wikilink")
   - 4月20日：[芝華士真友情音樂會](https://zh.wikipedia.org/wiki/芝華士 "wikilink")
-  - 5月24日：[謝安琪](../Page/謝安琪.md "wikilink") × RubberBand ×
-    [蘇永康](../Page/蘇永康.md "wikilink")[拉闊音樂會](../Page/拉闊音樂會.md "wikilink")
+  - 5月24日：[謝安琪](../Page/謝安琪.md "wikilink") × RubberBand × [蘇永康](../Page/蘇永康.md "wikilink")[拉闊音樂會](../Page/拉闊音樂會.md "wikilink")
   - 6月15日至19日：[戀LoveLove舞台劇](https://zh.wikipedia.org/wiki/戀LoveLove "wikilink")（[泥鯭參與演出](../Page/黎萬宏.md "wikilink")）
   - 6月26日：澳門勵志青年會勵志青年夢想成真夢成匙Key to Dream音樂會
-  - 7月16日：協青社[Parkland Band
-    Show音樂會](https://zh.wikipedia.org/wiki/Parkland_Band_Show "wikilink")
+  - 7月16日：協青社[Parkland Band Show音樂會](https://zh.wikipedia.org/wiki/Parkland_Band_Show "wikilink")
   - 7月31日：Ricky Music Factory School Show
-  - 8月6日：[新城iDO](../Page/新城電台.md "wikilink") HD 靚聲音樂會（featuring
-    [張智霖](../Page/張智霖.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[曹格](../Page/曹格.md "wikilink")及[蘇永康](../Page/蘇永康.md "wikilink")）
+  - 8月6日：[新城iDO](../Page/新城電台.md "wikilink") HD 靚聲音樂會（featuring [張智霖](../Page/張智霖.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[曹格](../Page/曹格.md "wikilink")及[蘇永康](../Page/蘇永康.md "wikilink")）
   - 8月14日：元朗圍村文化節閉幕禮
-  - 8月20日：[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink") Music
-    Battle
+  - 8月20日：[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink") Music Battle
   - 8月21日：「[太陽計劃](../Page/太陽計劃.md "wikilink")2011愛在當下為未來」閉幕活動
   - 9月27日：Chris Polanco & Friends Unforgettable Night
   - 10月1日：香港同胞慶祝中華人民共和國成立62週年文藝晚會
-  - 10月25日：SPORT b. Plugged Asian Music Festival 2011 – Live Concert in
-    Hong Kong（featuring
-    [糖兄妹](../Page/糖兄妹.md "wikilink")及[周國賢](../Page/周國賢.md "wikilink")）
+  - 10月25日：SPORT b. Plugged Asian Music Festival 2011 – Live Concert in Hong Kong（featuring [糖兄妹](../Page/糖兄妹.md "wikilink")及[周國賢](../Page/周國賢.md "wikilink")）
   - 11月8日－9日：[蘇永康](../Page/蘇永康.md "wikilink")給那誰的演唱會2011（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
   - 12月24日：[荃新天地](../Page/荃新天地.md "wikilink")Amazing Circus平安夜倒數派對
-  - 12月31日：Rock'n Over狂熱搖滾除夕倒數演唱會2012（featuring
-    [太極樂隊](../Page/太極樂隊.md "wikilink")、[Mr.](../Page/Mr..md "wikilink")及[Kolor](../Page/Kolor.md "wikilink")）
+  - 12月31日：Rock'n Over狂熱搖滾除夕倒數演唱會2012（featuring [太極樂隊](../Page/太極樂隊.md "wikilink")、[Mr.](../Page/Mr..md "wikilink")及[Kolor](../Page/Kolor.md "wikilink")）
 
 2012年
 
   - 1月13日－14日：[謝安琪](../Page/謝安琪.md "wikilink")你們的幸福演唱會
   - 3月31日：RubberBand MOOV LIVE 2012
-  - 4月1日：903拉闊理想音樂會（featuring [Dear
-    Jane](../Page/Dear_Jane.md "wikilink")、[Mr.](../Page/Mr..md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Peri
-    M](https://zh.wikipedia.org/wiki/Peri_M "wikilink")、[Rock
-    Sugar](https://zh.wikipedia.org/wiki/Rock_Sugar "wikilink")、[Supper
-    Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")）
-  - 5月4日：[太極Band](../Page/太極樂隊.md "wikilink") of the Town香港演唱會2012 Part
-    2
+  - 4月1日：903拉闊理想音樂會（featuring [Dear Jane](../Page/Dear_Jane.md "wikilink")、[Mr.](../Page/Mr..md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Peri M](https://zh.wikipedia.org/wiki/Peri_M "wikilink")、[Rock Sugar](https://zh.wikipedia.org/wiki/Rock_Sugar "wikilink")、[Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")）
+  - 5月4日：[太極Band](../Page/太極樂隊.md "wikilink") of the Town香港演唱會2012 Part 2
   - 5月16日：[小肥](../Page/小肥.md "wikilink")的黃昏音樂會
-  - 5月21日－25日：[黃貫中](../Page/黃貫中.md "wikilink")Paul Wong
-    Rockestra演唱會2012（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
+  - 5月21日－25日：[黃貫中](../Page/黃貫中.md "wikilink")Paul Wong Rockestra演唱會2012（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
   - 6月28日：青苗學界進步獎嘉許禮暨打氣音樂會
-  - 7月20日－22日：[衛蘭](../Page/衛蘭.md "wikilink")3000 Day & Night
-    演唱會（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
+  - 7月20日－22日：[衛蘭](../Page/衛蘭.md "wikilink")3000 Day & Night 演唱會（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
   - 9月1日：「良心話事。守護孩子」公民教育開學禮大集會音樂晚會
   - 10月1日：[嘉士伯](../Page/嘉士伯.md "wikilink")Chill X Rubberband Live
   - 10月26日：[Mikiki](../Page/Mikiki.md "wikilink") X RubberBand【Easy】簽唱會
@@ -1191,8 +1163,7 @@ featuring 6號＠RubberBand</p></td>
 2015年
 
   - 5月10日：「抱抱尼泊爾」POPO Nepal 音樂會
-  - 8月28日：Summer Pop Live in Hong Kong 2015香港夏日流行音樂節 - 創意綻放（featuring
-    Mr.）
+  - 8月28日：Summer Pop Live in Hong Kong 2015香港夏日流行音樂節 - 創意綻放（featuring Mr.）
   - 9月30日：HMV x MOOV Alive On Stage - RubberBand
 
 2016年
@@ -1316,10 +1287,7 @@ featuring 6號＠RubberBand</p></td>
 
 ### MV
 
-RubberBand共拍攝了多首歌曲的[音樂錄像](https://zh.wikipedia.org/wiki/音樂錄像 "wikilink")（MV），包括《認錯》、《Tears》、《遊車河》、《一早地下鐵》、《城市當代配樂團》、《小涼伴》、《阿波羅》、《夾硬泥》、《衝》、《發現號》、《細街盃》、《天連地》、《未來見》、《SimpleLoveSong》、《More
-than a woman》及《Dedicated
-to》等等，所有MV均由主音[6號執導及剪接](https://zh.wikipedia.org/wiki/6號 "wikilink")，其後加入第二導演[Ken
-Tsui](https://zh.wikipedia.org/wiki/Ken_Tsui "wikilink")。
+RubberBand共拍攝了多首歌曲的[音樂錄像](https://zh.wikipedia.org/wiki/音樂錄像 "wikilink")（MV），包括《認錯》、《Tears》、《遊車河》、《一早地下鐵》、《城市當代配樂團》、《小涼伴》、《阿波羅》、《夾硬泥》、《衝》、《發現號》、《細街盃》、《天連地》、《未來見》、《SimpleLoveSong》、《More than a woman》及《Dedicated to》等等，所有MV均由主音[6號執導及剪接](https://zh.wikipedia.org/wiki/6號 "wikilink")，其後加入第二導演[Ken Tsui](https://zh.wikipedia.org/wiki/Ken_Tsui "wikilink")。
 
 ### 電視節目及電影
 
@@ -1329,8 +1297,7 @@ Tsui](https://zh.wikipedia.org/wiki/Ken_Tsui "wikilink")。
 
 2011年
 
-  - 《茜嘉團遊•土耳其》： [J2台播映](https://zh.wikipedia.org/wiki/J2台 "wikilink")
-    \[11\]
+  - 《茜嘉團遊•土耳其》： [J2台播映](https://zh.wikipedia.org/wiki/J2台 "wikilink") \[11\]
   - 《女人多自在》第四部：泥猛 飾演 輝雄
 
 2012年
@@ -1344,8 +1311,7 @@ Tsui](https://zh.wikipedia.org/wiki/Ken_Tsui "wikilink")。
   - 《女士復仇》：泥猛
   - 《賤民20》：泥猛 飾演 Richard
   - 《未來還未來》：六號 飾演 阿龍（副導演）
-  - [碌卡大導](https://zh.wikipedia.org/wiki/碌卡大導 "wikilink") —
-    《車房·耶穌·師傅仔》：六號 飾演 發哥
+  - [碌卡大導](https://zh.wikipedia.org/wiki/碌卡大導 "wikilink") — 《車房·耶穌·師傅仔》：六號 飾演 發哥
 
 2018年
 
@@ -1365,27 +1331,18 @@ Tsui](https://zh.wikipedia.org/wiki/Ken_Tsui "wikilink")。
 
 ## 展覽
 
-RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](https://zh.wikipedia.org/wiki/展覽 "wikilink")《Behind
-the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展出《RubberBand Concert \#1》
-的綵排相片、樂隊成員珍藏如創作手稿及樂器、從未發表的[樣本唱片](../Page/樣本唱片.md "wikilink")（Demo）和播放樂隊的MV
-等等\[12\]。
+RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](https://zh.wikipedia.org/wiki/展覽 "wikilink")《Behind the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展出《RubberBand Concert \#1》 的綵排相片、樂隊成員珍藏如創作手稿及樂器、從未發表的[樣本唱片](../Page/樣本唱片.md "wikilink")（Demo）和播放樂隊的MV 等等\[12\]。
 
 ## 廣告
 
-  - 2010年：[EPS](../Page/EPS.md "wikilink")
-    [泥鯭feat](../Page/黎萬宏.md "wikilink")[林海峰](https://zh.wikipedia.org/wiki/林海峰 "wikilink")（電視廣告）\[13\]
-  - 2010年：[佐丹奴](../Page/佐丹奴.md "wikilink") [Winter Jackets
-    Live](https://zh.wikipedia.org/wiki/Winter_Jackets_Live "wikilink")（硬照）\[14\]
+  - 2010年：[EPS](../Page/EPS.md "wikilink") [泥鯭feat](../Page/黎萬宏.md "wikilink")[林海峰](https://zh.wikipedia.org/wiki/林海峰 "wikilink")（電視廣告）\[13\]
+  - 2010年：[佐丹奴](../Page/佐丹奴.md "wikilink") [Winter Jackets Live](https://zh.wikipedia.org/wiki/Winter_Jackets_Live "wikilink")（硬照）\[14\]
   - 2011年：[JobMarket求職廣場](https://zh.wikipedia.org/wiki/JobMarket求職廣場 "wikilink")（硬照）\[15\]
   - 2011年：[家居寬頻電視廣告](../Page/3.md "wikilink")（出任代言人）\[16\]
   - 2011年：[香港電腦通訊節](../Page/香港電腦通訊節.md "wikilink")2011（出任電腦大使）\[17\]
   - 2011年：[香港癌症基金會](../Page/香港癌症基金會.md "wikilink")《患癌不是大結局》（出任活動大使）\[18\]
-  - 2011年：[Ellesse
-    Time](https://zh.wikipedia.org/wiki/:en:Ellesse "wikilink") X
-    RubberBand（第525期《[Milk](https://zh.wikipedia.org/wiki/Milk "wikilink")》雜誌硬照及訪問）\[19\]
-  - 2011年：Rubberband x
-    [佐丹奴](https://zh.wikipedia.org/wiki/Giordano "wikilink") 2011
-    Thinsulate冬日Live輕。薄。暖（出任代言人)
+  - 2011年：[Ellesse Time](https://zh.wikipedia.org/wiki/:en:Ellesse "wikilink") X RubberBand（第525期《[Milk](https://zh.wikipedia.org/wiki/Milk "wikilink")》雜誌硬照及訪問）\[19\]
+  - 2011年：Rubberband x [佐丹奴](https://zh.wikipedia.org/wiki/Giordano "wikilink") 2011 Thinsulate冬日Live輕。薄。暖（出任代言人)
   - 2012年：T-TECH by TUMI（出任代言人）\[20\]
   - 2012年：[Carlsberg Chill](../Page/嘉士伯.md "wikilink")（出任代言人）\[21\]
   - 2012年：[強制性公積金](../Page/強制性公積金.md "wikilink")僱員自選安排（[泥鯭出任代言人](../Page/黎萬宏.md "wikilink")）\[22\]
@@ -1394,97 +1351,60 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2008年度
 
-  - [YAHOO\!搜尋人氣大獎2008](https://zh.wikipedia.org/wiki/2008年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
-    - 樂壇新勢力（組合）
-  - [2008年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱吒樂壇生力軍組合 金獎
-  - [SINA
-    Music樂壇民意指數頒獎禮2008](../Page/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")
-    - 我最喜愛新組合 銀獎
+  - [YAHOO\!搜尋人氣大獎2008](https://zh.wikipedia.org/wiki/2008年度YAHOO!搜尋人氣大獎得獎名單 "wikilink") - 樂壇新勢力（組合）
+  - [2008年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱吒樂壇生力軍組合 金獎
+  - [SINA Music樂壇民意指數頒獎禮2008](../Page/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink") - 我最喜愛新組合 銀獎
 
 ### 2009年度
 
-  - [YAHOO\!搜尋人氣大獎2009](../Page/2009年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
-    本地音樂組合
-  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆原創歌曲《阿波羅》
+  - [YAHOO\!搜尋人氣大獎2009](../Page/2009年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 本地音樂組合
+  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆原創歌曲《阿波羅》
   - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
-  - [2009年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 專業推介叱吒十大 第二位《阿波羅》
-  - [2009年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱吒樂壇組合 金獎
+  - [2009年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 專業推介叱吒十大 第二位《阿波羅》
+  - [2009年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱吒樂壇組合 金獎
   - 加拿大至HIT中文歌曲排行榜2009年度總選 - 全國推崇十大歌曲（粵語）《阿波羅》
   - 加拿大至HIT中文歌曲排行榜2009年度總選 - 全北美推崇組合（粵語）
-  - [2009年度十大勁歌金曲頒獎典禮](../Page/2009年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
-    金獎
-  - [SINA
-    Music樂壇民意指數頒獎禮2009](../Page/2009年度SINA_Music樂壇民意指數頒獎禮.md "wikilink")
-    - 最高收聽率二十大歌曲《阿波羅》
-  - [SINA
-    Music樂壇民意指數頒獎禮2009](../Page/2009年度SINA_Music樂壇民意指數頒獎禮.md "wikilink")
-    - 我最喜愛男組合（香港）
-  - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎
-    銅獎
+  - [2009年度十大勁歌金曲頒獎典禮](../Page/2009年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎 金獎
+  - [SINA Music樂壇民意指數頒獎禮2009](../Page/2009年度SINA_Music樂壇民意指數頒獎禮.md "wikilink") - 最高收聽率二十大歌曲《阿波羅》
+  - [SINA Music樂壇民意指數頒獎禮2009](../Page/2009年度SINA_Music樂壇民意指數頒獎禮.md "wikilink") - 我最喜愛男組合（香港）
+  - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎 銅獎
 
 ### 2010年度
 
-  - [2010勁歌金曲優秀選第三回](../Page/2010年勁歌金曲優秀選第三回得獎名單.md "wikilink") -
-    得獎歌曲《SimpleLoveSong》
-  - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆歌曲《SimpleLoveSong》
-  - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆年度專輯
-    《[Connected](../Page/Connected.md "wikilink")》
+  - [2010勁歌金曲優秀選第三回](../Page/2010年勁歌金曲優秀選第三回得獎名單.md "wikilink") - 得獎歌曲《SimpleLoveSong》
+  - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲《SimpleLoveSong》
+  - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆年度專輯 《[Connected](../Page/Connected.md "wikilink")》
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
-  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 至尊歌曲大獎《SimpleLoveSong》
-  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱吒樂壇編曲人大獎
-  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱吒樂壇組合銀獎
-  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱吒樂壇我最喜愛的組合
-  - [第三十三屆十大中文金曲頒獎典禮](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎
-    金獎
-  - [2010年度十大勁歌金曲頒獎典禮](../Page/2010年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
-    金獎
+  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 至尊歌曲大獎《SimpleLoveSong》
+  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱吒樂壇編曲人大獎
+  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱吒樂壇組合銀獎
+  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱吒樂壇我最喜愛的組合
+  - [第三十三屆十大中文金曲頒獎典禮](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎 金獎
+  - [2010年度十大勁歌金曲頒獎典禮](../Page/2010年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎 金獎
 
 ### 2011年度
 
-  - [新城國語力頒獎禮2011](../Page/2011年度新城國語力頒獎禮得獎名單.md "wikilink") -
-    新城國語力歌曲《SimpleLoveSong》
+  - [新城國語力頒獎禮2011](../Page/2011年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語力歌曲《SimpleLoveSong》
   - [新城國語力頒獎禮2011](../Page/2011年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語力樂團
-  - [2010勁歌金曲優秀選第二回](../Page/2011年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《陪著你走》
-  - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆改編歌曲《陪著你走》
+  - [2010勁歌金曲優秀選第二回](../Page/2011年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲《陪著你走》
+  - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆改編歌曲《陪著你走》
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
   - [第三十四屆十大中文金曲頒獎典禮](../Page/第三十四屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
-  - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
-    銅獎
+  - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎 銅獎
   - 第十一屆華語音樂傳媒大獎 - 年度粵語專輯 《Connected》
 
 ### 2012年度
 
-  - [2012勁歌金曲優秀選第一回](../Page/2012年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《Easy》
-  - [2012年CASH金帆音樂獎](../Page/2012年CASH金帆音樂獎.md "wikilink") -
-    最佳樂隊演繹《Easy》
-  - [2012勁歌金曲優秀選第三回](../Page/2012年勁歌金曲優秀選第三回得獎名單.md "wikilink") -
-    得獎歌曲《睜開眼》
-  - [YAHOO\!搜尋人氣大獎2012](../Page/2012年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
-    本地音樂組合
-  - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆原創歌曲《Easy》
-  - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆亞洲創作樂隊大獎
-  - [2012年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2012年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱咤樂壇至尊唱片大獎《[Easy](../Page/Easy.md "wikilink")》
-  - [2012年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2012年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱吒樂壇組合 金獎
-  - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
-    金獎
-  - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") -
-    最受歡迎唱作歌星 銅獎
+  - [2012勁歌金曲優秀選第一回](../Page/2012年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲《Easy》
+  - [2012年CASH金帆音樂獎](../Page/2012年CASH金帆音樂獎.md "wikilink") - 最佳樂隊演繹《Easy》
+  - [2012勁歌金曲優秀選第三回](../Page/2012年勁歌金曲優秀選第三回得獎名單.md "wikilink") - 得獎歌曲《睜開眼》
+  - [YAHOO\!搜尋人氣大獎2012](../Page/2012年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 本地音樂組合
+  - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆原創歌曲《Easy》
+  - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆亞洲創作樂隊大獎
+  - [2012年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2012年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱咤樂壇至尊唱片大獎《[Easy](../Page/Easy.md "wikilink")》
+  - [2012年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2012年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱吒樂壇組合 金獎
+  - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎 金獎
+  - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎唱作歌星 銅獎
   - [第三十五屆十大中文金曲頒獎音樂會](../Page/第三十五屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
   - Cool Music Forum會員共和榜 2012年度共和組合 金獎
   - 香港樂評選2012 年度樂團
@@ -1499,63 +1419,47 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2014年度
 
-  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆歌曲《成長說明書》
-  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆專輯《[Frank](../Page/Frank.md "wikilink")》
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲《成長說明書》
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆專輯《[Frank](../Page/Frank.md "wikilink")》
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆亞洲樂隊大獎
-  - [2014年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2014年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱咤樂壇至尊唱片大獎《[Frank](../Page/Frank.md "wikilink")》
-  - [2014年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2014年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱吒樂壇組合 金獎
-  - 2014年度叱咤樂壇流行榜頒獎典禮 -
-    叱咤樂壇我最喜愛歌曲《[撐起雨傘](../Page/撐起雨傘.md "wikilink")》（6號、泥鯭、阿偉）
-  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") -
-    十大銷量廣東唱片《[Frank](../Page/Frank.md "wikilink")》
+  - [2014年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2014年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱咤樂壇至尊唱片大獎《[Frank](../Page/Frank.md "wikilink")》
+  - [2014年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2014年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱吒樂壇組合 金獎
+  - 2014年度叱咤樂壇流行榜頒獎典禮 - 叱咤樂壇我最喜愛歌曲《[撐起雨傘](../Page/撐起雨傘.md "wikilink")》（6號、泥鯭、阿偉）
+  - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") - 十大銷量廣東唱片《[Frank](../Page/Frank.md "wikilink")》
   - Cool Music Forum會員共和榜 2014年度共和唱作人 銀獎
   - Cool Music Forum會員共和榜 2014年度共和組合 金獎
-  - Cool Music Forum會員共和榜 2014年度共和唱片
-    銅獎《[Frank](../Page/Frank.md "wikilink")》
+  - Cool Music Forum會員共和榜 2014年度共和唱片 銅獎《[Frank](../Page/Frank.md "wikilink")》
 
 ### 2015年度
 
   - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲《挾持》
   - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆亞洲樂隊大獎
-  - [2015年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2015年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 專業推介叱吒十大 第七位《挾持》
-  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
-    優秀流行國語歌曲獎 銅獎《我是樂隊》
-  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
-    全年最佳樂隊/組合獎 金獎
+  - [2015年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2015年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 專業推介叱吒十大 第七位《挾持》
+  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") - 優秀流行國語歌曲獎 銅獎《我是樂隊》
+  - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") - 全年最佳樂隊/組合獎 金獎
 
 ### 2016年度
 
   - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊 銅獎
   - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆編曲《芝士》
-  - [2016年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 專業推介叱吒十大 第七位《終於好天氣》（與[方皓玟](../Page/方皓玟.md "wikilink")合唱）
-  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") -
-    全年最佳樂隊/組合獎 銅獎
+  - [2016年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 專業推介叱吒十大 第七位《終於好天氣》（與[方皓玟](../Page/方皓玟.md "wikilink")合唱）
+  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") - 全年最佳樂隊/組合獎 銅獎
   - 香港樂評選2016 年度編曲《堅彌地城》（與[王雙駿](../Page/王雙駿.md "wikilink")合編）
   - 香港樂評選2016 十樂推薦 NO.6 《堅彌地城》（feat. Charatay）
 
 ### 2017年度
 
-  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    勁爆合唱歌曲《黑膠》（6號與[李克勤](../Page/李克勤.md "wikilink")合唱）
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆合唱歌曲《黑膠》（6號與[李克勤](../Page/李克勤.md "wikilink")合唱）
   - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊
-  - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱咤樂壇組合 銀獎
+  - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱咤樂壇組合 銀獎
   - Cool Music Forum會員共和榜 2017年度共和十大歌曲 第四位《山河故人》
   - Cool Music Forum會員共和榜 2017年度共和唱片 銅獎 《呢度》
   - Cool Music Forum會員共和榜 2017年度共和組合 銀獎
 
 ### 2018年度
 
-  - [2018年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2018年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 專業推介叱吒十大 第三位《未來見》
-  - [2018年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2018年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱咤樂壇組合 金獎
+  - [2018年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2018年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 專業推介叱吒十大 第三位《未來見》
+  - [2018年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2018年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink") - 叱咤樂壇組合 金獎
   - 香港樂評選2018 年度樂團
   - 香港樂評選2018 年度唱片《Hours》
   - 香港樂評選2018 十碟推薦 第一位《Hours》
@@ -1563,10 +1467,8 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - 香港樂評選2018 年度歌曲《未來見》
   - 香港樂評選2018 年度旋律《未來見》
   - Cool Music Forum會員共和榜 2018年度我最喜愛的歌曲第三季季選 - 第一位《未來見》
-  - Cool Music Forum會員共和榜 2018年度第一季季選歌曲 -
-    季選推介歌曲《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥](../Page/小肥.md "wikilink")合唱）
-  - Cool Music Forum會員共和榜 共和2018 共和十大
-    第九位《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥](../Page/小肥.md "wikilink")合唱）
+  - Cool Music Forum會員共和榜 2018年度第一季季選歌曲 - 季選推介歌曲《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥](../Page/小肥.md "wikilink")合唱）
+  - Cool Music Forum會員共和榜 共和2018 共和十大 第九位《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥](../Page/小肥.md "wikilink")合唱）
   - Cool Music Forum會員共和榜 共和2018 共和十大 至尊歌曲《未來見》
   - Cool Music Forum會員共和榜 共和2018 共和幕後大獎 作曲人
   - Cool Music Forum會員共和榜 共和2018 共和幕後大獎 編曲人
@@ -1580,8 +1482,7 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 ### 2019年度
 
   - [第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink") - 最佳原創電影歌曲《逆流之歌》
-  - [第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink") -
-    最佳原創電影音樂《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》
+  - [第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink") - 最佳原創電影音樂《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》
 
 ## 參考文獻
 
@@ -1602,20 +1503,15 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 4.
 5.
 6.
-7.  [RubberBand
-    鍵琴手退出](http://www.singpao.com/NewsArticle.aspx?NewsID=120363)
+7.  [RubberBand 鍵琴手退出](http://www.singpao.com/NewsArticle.aspx?NewsID=120363)
 8.
-9.  [Unexpected Fashion Icon
-    RubberBand](https://www.mings-fashion.com/unexpected-fashion-icons-rubberband-irving-cheung-189641/)
+9.  [Unexpected Fashion Icon RubberBand](https://www.mings-fashion.com/unexpected-fashion-icons-rubberband-irving-cheung-189641/)
 10.
 11.
 12.
-13. [EPS
-    易辦事](http://www.gold-typhoon.com.hk/content/%E6%9E%97%E6%B5%B7%E5%B3%B0%E5%92%8C%E6%B3%A5%E9%AF%ADrubberband%E9%BC%93%E6%89%8B-%E9%A6%96%E5%BA%A6%E5%90%88%E4%BD%9C%E6%8B%8D%E6%94%9Deps-easycash%E5%BB%A3%E5%91%8A)
-
+13. [EPS 易辦事](http://www.gold-typhoon.com.hk/content/%E6%9E%97%E6%B5%B7%E5%B3%B0%E5%92%8C%E6%B3%A5%E9%AF%ADrubberband%E9%BC%93%E6%89%8B-%E9%A6%96%E5%BA%A6%E5%90%88%E4%BD%9C%E6%8B%8D%E6%94%9Deps-easycash%E5%BB%A3%E5%91%8A)
 14.
 15. [1](http://www.jobmarket.com.hk/Resources/industry_trend_details.jsp?article_id=4472&cmpy_id)
-
 16.
 17.
 18.

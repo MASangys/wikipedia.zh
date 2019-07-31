@@ -1,5 +1,4 @@
-**ICD-10
-第十九章：损伤、中毒和外因的某些其他后果**，即[国际疾病与相关健康问题统计分类第十版的第十九个编码分系统](https://zh.wikipedia.org/wiki/国际疾病与相关健康问题统计分类第十版 "wikilink")（从S00-T98），其中包括了损伤、中毒和某些确定外因的后果，及其分类详情\[1\]。
+**ICD-10 第十九章：损伤、中毒和外因的某些其他后果**，即[国际疾病与相关健康问题统计分类第十版的第十九个编码分系统](https://zh.wikipedia.org/wiki/国际疾病与相关健康问题统计分类第十版 "wikilink")（从S00-T98），其中包括了损伤、中毒和某些确定外因的后果，及其分类详情\[1\]。
 
 ## S00-S09 头部损伤
 
@@ -10,8 +9,7 @@ S00-S09 头部损伤
   - S02 [颅骨](../Page/颅骨.md "wikilink")和面骨骨折
   - S03 头部的关节和韧带脱位、扭伤和劳损
   - S04 [颅神经损伤](https://zh.wikipedia.org/wiki/颅神经 "wikilink")
-  - S05
-    [眼](https://zh.wikipedia.org/wiki/眼 "wikilink")、[眶损伤](https://zh.wikipedia.org/wiki/眶 "wikilink")
+  - S05 [眼](https://zh.wikipedia.org/wiki/眼 "wikilink")、[眶损伤](https://zh.wikipedia.org/wiki/眶 "wikilink")
   - S06 颅内损伤
   - S07 头部挤压伤
   - S08 头的部分创伤性切断
@@ -25,8 +23,7 @@ S10-S19 [颈部损伤](https://zh.wikipedia.org/wiki/颈部 "wikilink")
   - S11 颈部开放性伤口
   - S12 颈部骨折
   - S13 颈部水平的关节和韧带脱位、扭伤和劳损
-  - S14
-    颈部水平的[神经](../Page/神经.md "wikilink")和[脊髓](../Page/脊髓.md "wikilink")损伤
+  - S14 颈部水平的[神经](../Page/神经.md "wikilink")和[脊髓](../Page/脊髓.md "wikilink")损伤
   - S15 颈部水平的血管损伤
   - S16 颈部水平的肌肉和肌腱损伤
   - S17 颈部挤压伤
@@ -50,8 +47,7 @@ S20-S29 [胸部损伤](https://zh.wikipedia.org/wiki/胸部 "wikilink")
 
 ## S30-S39 腹部、背、腰椎和骨盆损伤
 
-S30-S39
-[腹部](https://zh.wikipedia.org/wiki/腹部 "wikilink")、[背](../Page/背.md "wikilink")、[腰椎](../Page/腰椎.md "wikilink")和骨盆损伤
+S30-S39 [腹部](https://zh.wikipedia.org/wiki/腹部 "wikilink")、[背](../Page/背.md "wikilink")、[腰椎](../Page/腰椎.md "wikilink")和骨盆损伤
 
   - S30 腹部、背和骨盆浅表损伤
   - S31 腹部、背和骨盆开放性伤口
@@ -81,8 +77,7 @@ S40-S49 [肩和上臂损伤](https://zh.wikipedia.org/wiki/肩 "wikilink")
 
 ## S50-S59 肘和前臂损伤
 
-S50-S59
-[肘和](https://zh.wikipedia.org/wiki/肘 "wikilink")[前臂损伤](https://zh.wikipedia.org/wiki/前臂 "wikilink")
+S50-S59 [肘和](https://zh.wikipedia.org/wiki/肘 "wikilink")[前臂损伤](https://zh.wikipedia.org/wiki/前臂 "wikilink")
 
   - S50 前臂浅表损伤
   - S51 前臂开放性伤口
@@ -97,8 +92,7 @@ S50-S59
 
 ## S60-S69 腕和手损伤
 
-S60-S69
-[腕和](https://zh.wikipedia.org/wiki/腕 "wikilink")[手](../Page/手.md "wikilink")损伤
+S60-S69 [腕](../Page/腕.md "wikilink")和[手](../Page/手.md "wikilink")损伤
 
   - S60 腕和手浅表损伤
   - S61 腕和手开放性伤口
@@ -113,8 +107,7 @@ S60-S69
 
 ## S70-S79 髋和大腿损伤
 
-S70-S79
-[髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[大腿损伤](https://zh.wikipedia.org/wiki/大腿 "wikilink")
+S70-S79 [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[大腿损伤](https://zh.wikipedia.org/wiki/大腿 "wikilink")
 
   - S70 髋和大腿浅表损伤
   - S71 髋和大腿开放性伤口
@@ -129,8 +122,7 @@ S70-S79
 
 ## S80-S89 膝和小腿损伤
 
-S80-S89
-[膝和](https://zh.wikipedia.org/wiki/膝 "wikilink")[小腿损伤](https://zh.wikipedia.org/wiki/小腿 "wikilink")
+S80-S89 [膝和](https://zh.wikipedia.org/wiki/膝 "wikilink")[小腿损伤](https://zh.wikipedia.org/wiki/小腿 "wikilink")
 
   - S80 小腿浅表损伤
   - S81 小腿开放性伤口
@@ -145,8 +137,7 @@ S80-S89
 
 ## S90-S99 踝和足损伤
 
-S90-S99
-[踝和](https://zh.wikipedia.org/wiki/踝 "wikilink")[足损伤](https://zh.wikipedia.org/wiki/足 "wikilink")
+S90-S99 [踝和](https://zh.wikipedia.org/wiki/踝 "wikilink")[足损伤](https://zh.wikipedia.org/wiki/足 "wikilink")
 
   - S90 踝和足浅表损伤
   - S91 踝和足开放性伤口
@@ -200,17 +191,12 @@ T20-T32 [烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/烧伤 "wikilink")
 
 ### T20-T25 身体外表面烧伤和腐蚀伤，按部位特指者
 
-  - T20
-    [头和](https://zh.wikipedia.org/wiki/头 "wikilink")[颈烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/颈 "wikilink")
+  - T20 [头和](https://zh.wikipedia.org/wiki/头 "wikilink")[颈烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/颈 "wikilink")
   - T21 [躯干烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/躯干 "wikilink")
-  - T22
-    [肩和](https://zh.wikipedia.org/wiki/肩 "wikilink")[上肢烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/上肢 "wikilink")，除外腕和手
-  - T23
-    [腕和](https://zh.wikipedia.org/wiki/腕 "wikilink")[手](../Page/手.md "wikilink")烧伤和腐蚀伤
-  - T24
-    [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[下肢烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/下肢 "wikilink")，除外踝和足
-  - T25
-    [踝和](https://zh.wikipedia.org/wiki/踝 "wikilink")[足烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/足 "wikilink")
+  - T22 [肩和](https://zh.wikipedia.org/wiki/肩 "wikilink")[上肢烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/上肢 "wikilink")，除外腕和手
+  - T23 [腕](../Page/腕.md "wikilink")和[手](../Page/手.md "wikilink")烧伤和腐蚀伤
+  - T24 [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[下肢烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/下肢 "wikilink")，除外踝和足
+  - T25 [踝和](https://zh.wikipedia.org/wiki/踝 "wikilink")[足烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/足 "wikilink")
 
 ### T26-T28 限于眼和内部器官的烧伤和腐蚀伤
 
@@ -325,9 +311,6 @@ T90-T98 损伤、中毒和外因的其他后果的后遗症
 
 ## 參考文獻
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
 
-1.  [Injury, poisoning and certain other consequences of external
-    causes](http://apps.who.int/classifications/apps/icd/icd10online/ks00.htm)
+1.  [Injury, poisoning and certain other consequences of external causes](http://apps.who.int/classifications/apps/icd/icd10online/ks00.htm)

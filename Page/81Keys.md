@@ -1,6 +1,4 @@
-《**81Keys**》（81Keys：The Key of
-Destiny）是一款由[台灣國人自製的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[西方](https://zh.wikipedia.org/wiki/西方 "wikilink")[中古世紀](https://zh.wikipedia.org/wiki/中古世紀 "wikilink")[輕奇幻](https://zh.wikipedia.org/wiki/輕奇幻 "wikilink")（Light
-Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線上角色扮演遊戲 "wikilink")，遊戲以全[3D方式呈現](https://zh.wikipedia.org/wiki/3D "wikilink")。
+《**81Keys**》（81Keys：The Key of Destiny）是一款由[台灣國人自製的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[西方](https://zh.wikipedia.org/wiki/西方 "wikilink")[中古世紀](https://zh.wikipedia.org/wiki/中古世紀 "wikilink")[輕奇幻](https://zh.wikipedia.org/wiki/輕奇幻 "wikilink")（Light Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線上角色扮演遊戲 "wikilink")，遊戲以全[3D方式呈現](https://zh.wikipedia.org/wiki/3D "wikilink")。
 
 遊戲中有獨特的「神鑰系統」，透過神鑰的養成及不同神鑰的搭配使用，同一種族[職業](../Page/職業.md "wikilink")也會走出完全不同的路線，並有很大量的任務及[怪物](../Page/怪物.md "wikilink")鑰匙收集等系統，玩法多樣化。[台灣是最後一個營運地區並已於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2013年10月14日結束服務。
 
@@ -137,9 +135,7 @@ Fantasy）風格的[線上角色扮演遊戲](https://zh.wikipedia.org/wiki/線�
 
 ### 香港
 
-「GameCyber Technology
-Limited」於宣佈2009年4月宣佈取得《81Keys》[香港](../Page/香港.md "wikilink")及[澳門](../Page/澳門.md "wikilink")的獨家營運權。經兩年的短暫時光後，「GameCyber
-Technology Limited」於2011年6月宣佈終止營運並已於2011年7月29日關閉伺服器及官方網站。
+「GameCyber Technology Limited」於宣佈2009年4月宣佈取得《81Keys》[香港](../Page/香港.md "wikilink")及[澳門](../Page/澳門.md "wikilink")的獨家營運權。經兩年的短暫時光後，「GameCyber Technology Limited」於2011年6月宣佈終止營運並已於2011年7月29日關閉伺服器及官方網站。
 
 ### 中國大陸
 
@@ -161,8 +157,4 @@ Technology Limited」於2011年6月宣佈終止營運並已於2011年7月29日�
 
   - [香港命運之鑰官方網站](http://81keys.gamecyber.net)
 
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:華義國際遊戲](https://zh.wikipedia.org/wiki/Category:華義國際遊戲 "wikilink")
-[Category:中世纪背景游戏](https://zh.wikipedia.org/wiki/Category:中世纪背景游戏 "wikilink")
-[Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink")
+[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:華義國際遊戲](https://zh.wikipedia.org/wiki/Category:華義國際遊戲 "wikilink") [Category:中世纪背景游戏](https://zh.wikipedia.org/wiki/Category:中世纪背景游戏 "wikilink") [Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink")

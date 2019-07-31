@@ -1,6 +1,4 @@
-***Advanced strategic command***
-是一个[回合制策略遊戲](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")，仿照**[战岛系列](https://zh.wikipedia.org/wiki/战岛_\(游戏系列\) "wikilink")**\[1\]的第二和第三部作品。现在使用[SDL库](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")，代码以[C++](../Page/C++.md "wikilink")为主。原来却是用的[Borland
-Pascal](https://zh.wikipedia.org/wiki/Borland_Pascal "wikilink")。核心授权协议是[GPLv2](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")\[2\]支持的系统平台有[Linux](../Page/Linux.md "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+***Advanced strategic command*** 是一个[回合制策略遊戲](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")，仿照**[战岛系列](https://zh.wikipedia.org/wiki/战岛_\(游戏系列\) "wikilink")**\[1\]的第二和第三部作品。现在使用[SDL库](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")，代码以[C++](../Page/C++.md "wikilink")为主。原来却是用的[Borland Pascal](https://zh.wikipedia.org/wiki/Borland_Pascal "wikilink")。核心授权协议是[GPLv2](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")\[2\]支持的系统平台有[Linux](../Page/Linux.md "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 游戏方式
 
@@ -27,20 +25,10 @@ Pascal](https://zh.wikipedia.org/wiki/Borland_Pascal "wikilink")。核心授权�
   - [ASC主页](http://www.asc-hq.org/)
   - [提供联网对战支持的Battle Planet Project](http://www.battle-planet.de/)
 
-[en:Battle Isle
-(series)\#Clones](https://zh.wikipedia.org/wiki/en:Battle_Isle_\(series\)#Clones "wikilink")
+[en:Battle Isle (series)\#Clones](https://zh.wikipedia.org/wiki/en:Battle_Isle_\(series\)#Clones "wikilink")
 
-[Category:回合制策略游戏](https://zh.wikipedia.org/wiki/Category:回合制策略游戏 "wikilink")
-[Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
+[Category:回合制策略游戏](https://zh.wikipedia.org/wiki/Category:回合制策略游戏 "wikilink") [Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
 
 1.  <http://en.wikipedia.org/wiki/Battle_Isle_(series)>
-2.  [ASC's project page on
-    sourceforge.net](http://sourceforge.net/projects/asc)
+2.  [ASC's project page on sourceforge.net](http://sourceforge.net/projects/asc)
 3.  [Battle Planet Project](http://www.battle-planet.de)

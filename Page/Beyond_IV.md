@@ -1,11 +1,8 @@
-《**Beyond
-IV**》是[香港搖滾樂隊](../Page/香港.md "wikilink")[Beyond發行第四张粵語专辑](../Page/Beyond.md "wikilink")。由於這是Beyond樂隊由唱片公司發行的第四張專輯，故碟名取作「Beyond
-IV」。
+《**Beyond IV**》是[香港](../Page/香港.md "wikilink")搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")發行第四张粵語专辑。由於這是Beyond樂隊由唱片公司發行的第四張專輯，故碟名取作「Beyond IV」。
 
 ## 專輯介紹
 
-《Beyond
-IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續拓展其流行搖滾風格，仍不忘以《午夜迷牆》等具商業元素的搖滾音樂，來滿足搖滾樂迷的需要。
+《Beyond IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續拓展其流行搖滾風格，仍不忘以《午夜迷牆》等具商業元素的搖滾音樂，來滿足搖滾樂迷的需要。
 
 專輯的《真的愛你》是唱片的主打曲，歌詞內容是歌頌母愛，雖然樂隊成員並不喜歡此曲太具商業元素，且甚少搖滾色彩，但至今此曲成為[母親節的流行主題曲](https://zh.wikipedia.org/wiki/母親節 "wikilink")。
 
@@ -115,8 +112,7 @@ IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續
 
   - [1989年度叱咤樂壇流行榜頒獎典禮](../Page/1989年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")：
       - 叱咤組合銀獎－Beyond
-  - [1990年度香港金唱片頒獎典禮](https://zh.wikipedia.org/wiki/1990年度香港金唱片頒獎典禮 "wikilink"):\*「白金唱片」：《Beyond
-    IV》
+  - [1990年度香港金唱片頒獎典禮](https://zh.wikipedia.org/wiki/1990年度香港金唱片頒獎典禮 "wikilink"):\*「白金唱片」：《Beyond IV》
 
 ## 音樂錄影帶
 
@@ -128,8 +124,4 @@ IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續
 | [爆裂都市](http://www.youtube.com/watch?v=15bA438MHAU)  | 黃家駒    | 1989年 | [無綫電視](../Page/電視廣播有限公司.md "wikilink") | 唐婉儀 |
 | [午夜迷牆](http://www.youtube.com/watch?v=tQi9vlZK8xI)  | 黃家駒    | 1989年 | [無綫電視](../Page/電視廣播有限公司.md "wikilink") | 楊偉業 |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:Beyond音樂專輯](https://zh.wikipedia.org/wiki/Category:Beyond音樂專輯 "wikilink")
-[Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:Beyond音樂專輯](https://zh.wikipedia.org/wiki/Category:Beyond音樂專輯 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")

@@ -4,20 +4,16 @@
 
   -  – a quarter-inch video cassette format
 
-  - [Card verification
-    code](https://zh.wikipedia.org/wiki/信用卡安全码 "wikilink") –
-    a security feature on credit cards
+  - [Card verification code](https://zh.wikipedia.org/wiki/信用卡安全码 "wikilink") – a security feature on credit cards
 
   -  – a format for digital certificates usable by smart cards
 
   -
-  - [中心靜脈導管](https://zh.wikipedia.org/wiki/中心靜脈導管 "wikilink")（central
-    venous catheter）
+  - [中心靜脈導管](https://zh.wikipedia.org/wiki/中心靜脈導管 "wikilink")（central venous catheter）
 
   - The
 
-  - [Current-voltage
-    characteristic](https://zh.wikipedia.org/wiki/电流-电压特性曲线 "wikilink")
+  - [Current-voltage characteristic](https://zh.wikipedia.org/wiki/电流-电压特性曲线 "wikilink")
 
   - complex
 
@@ -27,18 +23,14 @@
 
 ## 電腦
 
-  - Code Verification Certificate - a
-    [x.509](https://zh.wikipedia.org/wiki/x.509 "wikilink")
-    [PKI](../Page/公開金鑰基礎建設.md "wikilink") certificate used in cable
-    modems to verify code images before accepting them
+  - Code Verification Certificate - a [x.509](https://zh.wikipedia.org/wiki/x.509 "wikilink") [PKI](../Page/公開金鑰基礎建設.md "wikilink") certificate used in cable modems to verify code images before accepting them
 
 ## 法律
 
   -
 ## 語言
 
-  - Consonant–vowel–consonant
-    [syllable](https://zh.wikipedia.org/wiki/音节 "wikilink") pattern
+  - Consonant–vowel–consonant [syllable](https://zh.wikipedia.org/wiki/音节 "wikilink") pattern
   - a variationist sociolinguistics conference in Canada
 
 | URL                                                                                                                                               | 年分   | 地點                                                                                    |
@@ -53,16 +45,11 @@
 
 ## 公司與商業
 
-  - Citigroup Venture Capital Equity Partners – a U.S. based private
-    equity firm renamed  and spun out of Citigroup in 2006
+  - Citigroup Venture Capital Equity Partners – a U.S. based private equity firm renamed  and spun out of Citigroup in 2006
 
-  - [CVC Capital
-    Partners](https://zh.wikipedia.org/wiki/CVC_Capital_Partners "wikilink") –
-    a European private equity firm
+  - [CVC Capital Partners](https://zh.wikipedia.org/wiki/CVC_Capital_Partners "wikilink") – a European private equity firm
 
-  - [美国在线](../Page/美国在线.md "wikilink")（Control Video Corporation）：a
-    short-lived venture that was a predecessor of AOL LLC (formerly
-    America Online, Inc)
+  - [美国在线](../Page/美国在线.md "wikilink")（Control Video Corporation）：a short-lived venture that was a predecessor of AOL LLC (formerly America Online, Inc)
 
   - New York Stock Exchange ticker symbol for
 
@@ -79,25 +66,19 @@
 
   - , Italy
 
-  - [Colonial Valley
-    Conference](https://zh.wikipedia.org/wiki/Colonial_Valley_Conference "wikilink") –
-    a high school athletic conference in New Jersey
+  - [Colonial Valley Conference](https://zh.wikipedia.org/wiki/Colonial_Valley_Conference "wikilink") – a high school athletic conference in New Jersey
 
   -  – in Comberton, United Kingdom
 
-  -  – an NCAA Division III men's volleyball conference with members
-    along the U.S. East Coast
+  -  – an NCAA Division III men's volleyball conference with members along the U.S. East Coast
 
   -  – a voluntary sector infrastructure body in Wales
 
   - in Southern Ontario
 
-  - [Crime Victims
-    Compensation](https://zh.wikipedia.org/wiki/Crime_Victims_Compensation "wikilink")
-    in United States
+  - [Crime Victims Compensation](https://zh.wikipedia.org/wiki/Crime_Victims_Compensation "wikilink") in United States
 
-  - Canterbury Velo Club -based in Canterbury, Kent. 100km ride most
-    Saturdays from Longport at 10:00am
+  - Canterbury Velo Club -based in Canterbury, Kent. 100km ride most Saturdays from Longport at 10:00am
 
   - [CVC广播电台](https://zh.wikipedia.org/wiki/CVC广播电台 "wikilink")
 
@@ -106,11 +87,8 @@
   -
 ## 音樂
 
-  - , a Scottish Alternative rock band formed in  by Lou Hickey and Jon
-    Lawler.
+  - , a Scottish Alternative rock band formed in  by Lou Hickey and Jon Lawler.
 
 ## 軍事
 
-  - [戰鬥車輛](https://zh.wikipedia.org/wiki/戰鬥車輛 "wikilink")（Combat Vehicle
-    Crewman）：referring to persons who man armored fighting vehicles as
-    well as their clothing and equipment.
+  - [戰鬥車輛](https://zh.wikipedia.org/wiki/戰鬥車輛 "wikilink")（Combat Vehicle Crewman）：referring to persons who man armored fighting vehicles as well as their clothing and equipment.

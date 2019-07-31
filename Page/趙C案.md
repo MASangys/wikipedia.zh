@@ -18,22 +18,14 @@
 ## 外部連結
 
   - [赵C姓名权官司二审判决要求更改名字](http://news.sina.com.cn/c/2009-02-26/235717296299.shtml)
-  - [“赵Ｃ姓名权”官司引发中国民众对规范行使姓名权的关注和热议
-    (2013年7月8日查阅)](https://web.archive.org/web/20150119165827/http://news.xinhuanet.com/legal/2009-02/26/content_10904823.htm)
-  - [“赵C”胜诉
-    “陈u优”父母欲效仿争回姓名权](https://web.archive.org/web/20090304183515/http://news.xinhuanet.com/legal/2008-06/12/content_8353783.htm)
+  - [“赵Ｃ姓名权”官司引发中国民众对规范行使姓名权的关注和热议 (2013年7月8日查阅)](https://web.archive.org/web/20150119165827/http://news.xinhuanet.com/legal/2009-02/26/content_10904823.htm)
+  - [“赵C”胜诉 “陈u优”父母欲效仿争回姓名权](https://web.archive.org/web/20090304183515/http://news.xinhuanet.com/legal/2008-06/12/content_8353783.htm)
 
-[Category:2009年中国案件](https://zh.wikipedia.org/wiki/Category:2009年中国案件 "wikilink")
-[Category:中华人民共和国涉警案件](https://zh.wikipedia.org/wiki/Category:中华人民共和国涉警案件 "wikilink")
-[Category:中华人民共和国江西省案件](https://zh.wikipedia.org/wiki/Category:中华人民共和国江西省案件 "wikilink")
-[Category:鹰潭案件](https://zh.wikipedia.org/wiki/Category:鹰潭案件 "wikilink")
-[Category:中文姓名](https://zh.wikipedia.org/wiki/Category:中文姓名 "wikilink")
+[Category:2009年中国案件](https://zh.wikipedia.org/wiki/Category:2009年中国案件 "wikilink") [Category:中华人民共和国涉警案件](https://zh.wikipedia.org/wiki/Category:中华人民共和国涉警案件 "wikilink") [Category:中华人民共和国江西省案件](https://zh.wikipedia.org/wiki/Category:中华人民共和国江西省案件 "wikilink") [Category:鹰潭案件](https://zh.wikipedia.org/wiki/Category:鹰潭案件 "wikilink") [Category:中文姓名](https://zh.wikipedia.org/wiki/Category:中文姓名 "wikilink")
 
 1.  [赵C告公安局一审胜诉不改名：赵C还叫赵C(图)](http://news.xinhuanet.com/legal/2008-06/10/content_8339299.htm)
 
-
-2.  [我叫「趙C」20年
-    為啥不能換二代證（大紀元時報）](http://www.epochtimes.com/b5/8/1/7/n1968362.htm)
+2.  [我叫「趙C」20年 為啥不能換二代證（大紀元時報）](http://www.epochtimes.com/b5/8/1/7/n1968362.htm)
 
 3.
 4.

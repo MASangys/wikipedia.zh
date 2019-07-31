@@ -1,5 +1,4 @@
-**IOSA认证**（IATA Operational Safety
-Audit），即**国际航空运输协会运行安全审计认证**，是[国际航空运输协会](https://zh.wikipedia.org/wiki/国际航空运输协会 "wikilink")（IATA）制定的一项为国际所认可和接受的航空安全标准，用于评估[航空公司](../Page/航空公司.md "wikilink")的运行管理和控制系统。这项认证创建于2003年，以国际[审计标准为指导](https://zh.wikipedia.org/wiki/审计 "wikilink")，力求通过稳定的标准来进行审计。
+**IOSA认证**（IATA Operational Safety Audit），即**国际航空运输协会运行安全审计认证**，是[国际航空运输协会](https://zh.wikipedia.org/wiki/国际航空运输协会 "wikilink")（IATA）制定的一项为国际所认可和接受的航空安全标准，用于评估[航空公司](../Page/航空公司.md "wikilink")的运行管理和控制系统。这项认证创建于2003年，以国际[审计标准为指导](https://zh.wikipedia.org/wiki/审计 "wikilink")，力求通过稳定的标准来进行审计。
 
 IATA要求其成员必须在2007年底之前通过IOSA认证。\[1\]此项认证的有效期为两年，过期须重新进行审计。
 

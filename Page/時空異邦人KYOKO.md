@@ -1,4 +1,4 @@
-《**時空異邦人KYOKO**》是由**[種村有菜](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")**在[集英社](../Page/集英社.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》連載，[少女](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")、[奇幻漫畫作品](../Page/奇幻漫畫.md "wikilink")。
+《**時空異邦人KYOKO**》是由**[種村有菜](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")**在[集英社](../Page/集英社.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》連載，[少女](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")、[奇幻漫畫](../Page/奇幻漫畫.md "wikilink")作品。
 
 ## 概要
 
@@ -6,7 +6,7 @@
 
 ## 登場角色
 
-[配音員是](../Page/配音員.md "wikilink")「Ribon」2001年11月號的應募者全員用服務規劃被發佈的原創動畫版錄像『』的東西。
+[配音員](../Page/配音員.md "wikilink")是「Ribon」2001年11月號的應募者全員用服務規劃被發佈的原創動畫版錄像『』的東西。
 
 ### 異邦人
 
@@ -49,8 +49,7 @@
 ### 木端微塵☆
 
   -
-    1月18日生，O型，本名為黃西曉良，“盜賊集團
-    木端微塵☆”的團長，個性活潑，雖然是盜賊集團不過人也不錯，喜歡響古，額頭有被蛇留下詛咒，有生命危險。
+    1月18日生，O型，本名為黃西曉良，“盜賊集團 木端微塵☆”的團長，個性活潑，雖然是盜賊集團不過人也不錯，喜歡響古，額頭有被蛇留下詛咒，有生命危險。
   -
     6月3日生，B型，水乃的哥哥，“盜賊集團 木端微塵☆”的副團長，很喜歡曉良（威多錫克），只要曉良有危險並會馬上到達現場。
 
@@ -61,10 +60,6 @@
 
 ## 外部連結
 
-  - [T.H.E.M. Anime Review's T.S.K.
-    review](http://www.themanime.org/viewreview.php?id=462)
+  - [T.H.E.M. Anime Review's T.S.K. review](http://www.themanime.org/viewreview.php?id=462)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")

@@ -1,12 +1,8 @@
-是一部由[梁柏堅](https://zh.wikipedia.org/wiki/梁柏堅 "wikilink")、[元奎執導的香港電影](../Page/元奎.md "wikilink")，2004年上映。
+是一部由[梁柏堅](https://zh.wikipedia.org/wiki/梁柏堅 "wikilink")、[元奎](../Page/元奎.md "wikilink")執導的香港電影，2004年上映。
 
 ## 劇情
 
-故事的開始充滿了動盪氣氛，傳說中的異象紛紛現世：兩生花開，帝王星現；乾坤倒轉，天下大亂….
-女帝為此寢食不安，親信尉繚四遣玄機使，與綽號“臥虎藏龍”的叛軍首領，爭奪預言中“帝王星”，雙方明爭暗鬥。
-炭頭與柴頭，自小隨義父黑木爺賣藝為生，一次偶然，無意中從師弟桃桃手上獲得藏寶圖石板，先後被誤認為是“帝王星”真身，從此飛來橫禍。兩人被逼逃命，為了洗脫嫌疑，必須解開語言之謎。
-少女春十三少以販賣男奴為生，看中了炭頭與柴頭兩人，可在奴隸市場賣大錢，待機生擒，怎料遇上武功高強的藍翎，兩人不打不相識。藍翎為了查出“帝王星”真身，隱藏其玄機使身份，與炭頭、柴頭和春十三少，組隊踏上沙漠冒險之旅….
-正陽族叛軍，早已在沙漠盡頭，厲兵襪馬，只待“帝王星”一聲號令下，便揮軍遠征，發動一場“覆國聖戰”，與女帝決戰生死。
+故事的開始充滿了動盪氣氛，傳說中的異象紛紛現世：兩生花開，帝王星現；乾坤倒轉，天下大亂…. 女帝為此寢食不安，親信尉繚四遣玄機使，與綽號“臥虎藏龍”的叛軍首領，爭奪預言中“帝王星”，雙方明爭暗鬥。 炭頭與柴頭，自小隨義父黑木爺賣藝為生，一次偶然，無意中從師弟桃桃手上獲得藏寶圖石板，先後被誤認為是“帝王星”真身，從此飛來橫禍。兩人被逼逃命，為了洗脫嫌疑，必須解開語言之謎。 少女春十三少以販賣男奴為生，看中了炭頭與柴頭兩人，可在奴隸市場賣大錢，待機生擒，怎料遇上武功高強的藍翎，兩人不打不相識。藍翎為了查出“帝王星”真身，隱藏其玄機使身份，與炭頭、柴頭和春十三少，組隊踏上沙漠冒險之旅…. 正陽族叛軍，早已在沙漠盡頭，厲兵襪馬，只待“帝王星”一聲號令下，便揮軍遠征，發動一場“覆國聖戰”，與女帝決戰生死。
 
 ## 角色
 
@@ -42,11 +38,4 @@
   -
   -
   -
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:中国奇幻电影](https://zh.wikipedia.org/wiki/Category:中国奇幻电影 "wikilink")
-[Category:中国动作片](https://zh.wikipedia.org/wiki/Category:中国动作片 "wikilink")
-[Category:英皇電影](https://zh.wikipedia.org/wiki/Category:英皇電影 "wikilink")
-[Category:元奎电影](https://zh.wikipedia.org/wiki/Category:元奎电影 "wikilink")
-[Category:范冰冰主演电影](https://zh.wikipedia.org/wiki/Category:范冰冰主演电影 "wikilink")
+[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:中国奇幻电影](https://zh.wikipedia.org/wiki/Category:中国奇幻电影 "wikilink") [Category:中国动作片](https://zh.wikipedia.org/wiki/Category:中国动作片 "wikilink") [Category:英皇電影](https://zh.wikipedia.org/wiki/Category:英皇電影 "wikilink") [Category:元奎电影](https://zh.wikipedia.org/wiki/Category:元奎电影 "wikilink") [Category:范冰冰主演电影](https://zh.wikipedia.org/wiki/Category:范冰冰主演电影 "wikilink")

@@ -1,6 +1,4 @@
-《**Welcome 外星人**》（）是[Channel
-V](../Page/Channel_V.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年7月20日開始播映。由台灣知名主持人[蔡康永](../Page/蔡康永.md "wikilink")加上[Lollipop
-F成員](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")[威廉及](https://zh.wikipedia.org/wiki/廖亦崟 "wikilink")[阿緯一同主持](https://zh.wikipedia.org/wiki/劉俊緯 "wikilink")。節目邀請各地有特異才藝的人上來表演。
+《**Welcome 外星人**》（）是[Channel V](../Page/Channel_V.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年7月20日開始播映。由台灣知名主持人[蔡康永](../Page/蔡康永.md "wikilink")加上[Lollipop F成員](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")[威廉及](https://zh.wikipedia.org/wiki/廖亦崟 "wikilink")[阿緯一同主持](https://zh.wikipedia.org/wiki/劉俊緯 "wikilink")。節目邀請各地有特異才藝的人上來表演。
 
 ## 節目介紹
 
@@ -790,8 +788,7 @@ KAYLIE、小麥</p></td>
 
 ## 參考資料
 
-  - [《Welcome
-    外星人》官方網站](http://www.startv.com.tw/chv/prog.asp?forid=1648&nouse=430)
+  - [《Welcome 外星人》官方網站](http://www.startv.com.tw/chv/prog.asp?forid=1648&nouse=430)
   - [《791正妹網》](http://791.tw)
 
 ## 參見
@@ -807,6 +804,4 @@ KAYLIE、小麥</p></td>
 
 </div>
 
-[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
+[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")

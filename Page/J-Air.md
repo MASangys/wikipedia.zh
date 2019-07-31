@@ -1,5 +1,4 @@
-****（），全稱「****」，是[日本](../Page/日本.md "wikilink")一家以[大阪國際機場](../Page/大阪國際機場.md "wikilink")為基地的[航空公司](../Page/航空公司.md "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[池田市](../Page/池田市.md "wikilink")，也是[日本航空](../Page/日本航空.md "wikilink")（）的[子公司](../Page/子公司.md "wikilink")。
-[JAL_Express_Osaka_HQ_20100807-001.jpg](https://zh.wikipedia.org/wiki/File:JAL_Express_Osaka_HQ_20100807-001.jpg "fig:JAL_Express_Osaka_HQ_20100807-001.jpg")
+****（），全稱「****」，是[日本](../Page/日本.md "wikilink")一家以[大阪國際機場](../Page/大阪國際機場.md "wikilink")為基地的[航空公司](../Page/航空公司.md "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[池田市](../Page/池田市.md "wikilink")，也是[日本航空](../Page/日本航空.md "wikilink")（）的[子公司](../Page/子公司.md "wikilink")。 [JAL_Express_Osaka_HQ_20100807-001.jpg](https://zh.wikipedia.org/wiki/File:JAL_Express_Osaka_HQ_20100807-001.jpg "fig:JAL_Express_Osaka_HQ_20100807-001.jpg")
 
 ## 航線
 
@@ -10,13 +9,7 @@
 
 ## 現有機隊
 
-[J-Air,_ERJ-170,_JA224J_(20627796680).jpg](https://zh.wikipedia.org/wiki/File:J-Air,_ERJ-170,_JA224J_\(20627796680\).jpg "fig:J-Air,_ERJ-170,_JA224J_(20627796680).jpg")
-[J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA204J\)_at_Hanamaki_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg")
-[J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA206J\)_at_Memanbetsu_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg")
-[J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA202J\)_at_Itami_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg")
-[J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Embraer_170STD_\(JA218J\)_landing_at_Tokyo_International_Airport.jpg "fig:J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg")
-[J-AIR_Embraer_170_RJSN.JPG](https://zh.wikipedia.org/wiki/File:J-AIR_Embraer_170_RJSN.JPG "fig:J-AIR_Embraer_170_RJSN.JPG")
-截至2015年4月3日，J-Air的機隊如下\[1\]\[2\]：
+[J-Air,_ERJ-170,_JA224J_(20627796680).jpg](https://zh.wikipedia.org/wiki/File:J-Air,_ERJ-170,_JA224J_\(20627796680\).jpg "fig:J-Air,_ERJ-170,_JA224J_(20627796680).jpg") [J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA204J\)_at_Hanamaki_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg") [J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA206J\)_at_Memanbetsu_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg") [J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA202J\)_at_Itami_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg") [J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Embraer_170STD_\(JA218J\)_landing_at_Tokyo_International_Airport.jpg "fig:J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg") [J-AIR_Embraer_170_RJSN.JPG](https://zh.wikipedia.org/wiki/File:J-AIR_Embraer_170_RJSN.JPG "fig:J-AIR_Embraer_170_RJSN.JPG") 截至2015年4月3日，J-Air的機隊如下\[1\]\[2\]：
 
 <center>
 
@@ -80,12 +73,8 @@
 
   -
 
-[Category:日本航空_(公司)](https://zh.wikipedia.org/wiki/Category:日本航空_\(公司\) "wikilink")
-[Category:1986年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1986年成立的航空公司 "wikilink")
-[Category:日本航空公司](https://zh.wikipedia.org/wiki/Category:日本航空公司 "wikilink")
-[Category:寰宇一家附属成员](https://zh.wikipedia.org/wiki/Category:寰宇一家附属成员 "wikilink")
+[Category:日本航空_(公司)](https://zh.wikipedia.org/wiki/Category:日本航空_\(公司\) "wikilink") [Category:1986年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1986年成立的航空公司 "wikilink") [Category:日本航空公司](https://zh.wikipedia.org/wiki/Category:日本航空公司 "wikilink") [Category:寰宇一家附属成员](https://zh.wikipedia.org/wiki/Category:寰宇一家附属成员 "wikilink")
 
-1.  [J-Air fleet list at planespotters.net.
-    Retrieved 2011-03-30.](http://www.planespotters.net/Airline/J-Air)
+1.  [J-Air fleet list at planespotters.net. Retrieved 2011-03-30.](http://www.planespotters.net/Airline/J-Air)
 2.
 3.  [JALグループ、次世代リージョナルジェット機としてMRJの導入を決定](http://press.jal.co.jp/ja/release/201408/003052.html)

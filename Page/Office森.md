@@ -50,8 +50,7 @@
 
 ### 男性
 
-  - [あおい洋一郎](https://zh.wikipedia.org/wiki/あおい洋一郎 "wikilink")（現所属：[Velvet
-    Office](https://zh.wikipedia.org/wiki/Velvet_Office "wikilink")）
+  - [あおい洋一郎](https://zh.wikipedia.org/wiki/あおい洋一郎 "wikilink")（現所属：[Velvet Office](https://zh.wikipedia.org/wiki/Velvet_Office "wikilink")）
   - [内野一](https://zh.wikipedia.org/wiki/内野一 "wikilink")
   - [小橋達也](https://zh.wikipedia.org/wiki/小橋達也 "wikilink")（現所属：[Maxmix](https://zh.wikipedia.org/wiki/Maxmix "wikilink")）
   - [坂本和希](https://zh.wikipedia.org/wiki/坂本和希 "wikilink")
@@ -64,8 +63,7 @@
   - [川口美空](https://zh.wikipedia.org/wiki/川口美空 "wikilink")
   - [桐島靖子](https://zh.wikipedia.org/wiki/桐島靖子 "wikilink")（旧名：古林靖子）（現所属：[Trias](https://zh.wikipedia.org/wiki/Trias "wikilink")）
   - [小山瞳](https://zh.wikipedia.org/wiki/小山瞳 "wikilink")
-  - [佐藤麻子](https://zh.wikipedia.org/wiki/佐藤麻子 "wikilink")（現所属：[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [佐藤麻子](https://zh.wikipedia.org/wiki/佐藤麻子 "wikilink")（現所属：[81 Produce](../Page/81_Produce.md "wikilink")）
   - [田中涼子](../Page/田中涼子.md "wikilink")（現所属：[Pro・Fit](https://zh.wikipedia.org/wiki/Pro・Fit "wikilink")）
   - [山下紗朋](https://zh.wikipedia.org/wiki/山下紗朋 "wikilink")
 

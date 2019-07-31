@@ -1,4 +1,4 @@
-《**E×E**》是[日本](../Page/日本.md "wikilink")[YUZUSOFT於](../Page/YUZUSOFT.md "wikilink")2007年6月1日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，E×E為「Empty×Embryo」的簡稱。
+《**E×E**》是[日本](../Page/日本.md "wikilink")[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2007年6月1日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，E×E為「Empty×Embryo」的簡稱。
 
 ## 概要
 
@@ -84,7 +84,4 @@
   - [YUZUSOFT](http://yuzu-soft.com/)
   - [E×E官方網站](http://legacy.yuzu-soft.com/exe/)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")

@@ -1,6 +1,4 @@
-**Pico和Chico**是2007年4月19日由[Soft On
-Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。**[Pico系列](../Page/Pico系列.md "wikilink")**的第二集、正式的名稱為『Pico系列2
-Pico和Chico』。\[1\]
+**Pico和Chico**是2007年4月19日由[Soft On Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。**[Pico系列](../Page/Pico系列.md "wikilink")**的第二集、正式的名稱為『Pico系列2 Pico和Chico』。\[1\]
 
 同日也發售了一千五百個裝有各式各樣的特典的『Pico和Chico滿足BOX』。除了放入本作『Pico和Chico』和第一集的『[我的Pico](../Page/我的Pico.md "wikilink")』，也有Pico和Chico的[公仔和](https://zh.wikipedia.org/wiki/手辦 "wikilink")「[Pico和Chico台詞CD](https://zh.wikipedia.org/wiki/Pico和Chico台詞CD "wikilink")」等商品。
 
@@ -78,12 +76,9 @@ Pico和Chico』。\[1\]
 
 ## 評價
 
-  - [Soft On
-    Demand](../Page/Soft_On_Demand.md "wikilink")2007年3月期預約第1名（『Pico和Chico滿足BOX（初回限定）』）
-  - [Soft On
-    Demand](../Page/Soft_On_Demand.md "wikilink")2007年4月23日分售上第1位・第4位（『Pico和Chico滿足BOX（初回限定）』、『Pico和Chico』）
-  - [Soft On
-    Demand](../Page/Soft_On_Demand.md "wikilink")2007年4月第4週銷售第1名
+  - [Soft On Demand](../Page/Soft_On_Demand.md "wikilink")2007年3月期預約第1名（『Pico和Chico滿足BOX（初回限定）』）
+  - [Soft On Demand](../Page/Soft_On_Demand.md "wikilink")2007年4月23日分售上第1位・第4位（『Pico和Chico滿足BOX（初回限定）』、『Pico和Chico』）
+  - [Soft On Demand](../Page/Soft_On_Demand.md "wikilink")2007年4月第4週銷售第1名
   - [樂天](https://zh.wikipedia.org/wiki/樂天 "wikilink")[ぐるぐる王国初回限定排行榜](https://zh.wikipedia.org/wiki/ぐるぐる王国 "wikilink")2007年2月上半期初登場第五名（『Pico和Chico滿足BOX（初回限定）』）
   - 樂天ぐるぐる王国動畫總合排行榜2007年3月上半期瞬間順位第1名（『Pico和Chico滿足BOX（初回限定）』）
   - [amazon.co.jp成人動畫排行榜瞬間順位第](https://zh.wikipedia.org/wiki/amazon.co.jp "wikilink")2名（『Pico和Chico』）
@@ -97,13 +92,6 @@ Pico和Chico』。\[1\]
       - [我的Pico](../Page/我的Pico.md "wikilink")
       - [Pico×CoCo×Chico](../Page/Pico×CoCo×Chico.md "wikilink")
 
-[Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink")
-[Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink")
-[Category:Pico系列](https://zh.wikipedia.org/wiki/Category:Pico系列 "wikilink")
-[Category:2007年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2007年日本成人動畫 "wikilink")
-[Category:內容涉及兒童性行為的動漫作品](https://zh.wikipedia.org/wiki/Category:內容涉及兒童性行為的動漫作品 "wikilink")
+[Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink") [Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink") [Category:Pico系列](https://zh.wikipedia.org/wiki/Category:Pico系列 "wikilink") [Category:2007年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2007年日本成人動畫 "wikilink") [Category:內容涉及兒童性行為的動漫作品](https://zh.wikipedia.org/wiki/Category:內容涉及兒童性行為的動漫作品 "wikilink")
 
-1.  [Pico & Chico
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8647)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Pico & Chico (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8647)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

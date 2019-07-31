@@ -1,23 +1,14 @@
-**Gamebryo引擎**是NetImmerse引擎的后继版本，是由[Numerical Design
-Limited最初开发的游戏中间层](https://zh.wikipedia.org/wiki/Numerical_Design_Limited "wikilink")，在与[Numerical
-Design
-Limited公司合并后](https://zh.wikipedia.org/wiki/Numerical_Design_Limited "wikilink")，引擎改名为Gamebryo
-Element。
+**Gamebryo引擎**是NetImmerse引擎的后继版本，是由[Numerical Design Limited最初开发的游戏中间层](https://zh.wikipedia.org/wiki/Numerical_Design_Limited "wikilink")，在与[Numerical Design Limited公司合并后](https://zh.wikipedia.org/wiki/Numerical_Design_Limited "wikilink")，引擎改名为Gamebryo Element。
 
 ## 简介
 
-Gamebryo
-Element引擎是由[C++编写的多平台游戏引擎](../Page/C++.md "wikilink")，他支持的平台有：[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[任天堂](../Page/任天堂.md "wikilink")、[Wii](../Page/Wii.md "wikilink")、[PlayStation
-2](../Page/PlayStation_2.md "wikilink")、[PlayStation
-3](../Page/PlayStation_3.md "wikilink")、[Xbox和](../Page/Xbox.md "wikilink")[Xbox
-360](../Page/Xbox_360.md "wikilink")。
+Gamebryo Element引擎是由[C++](../Page/C++.md "wikilink")编写的多平台游戏引擎，他支持的平台有：[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")(DirectX 6-11)、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink"), [Linux](../Page/Linux.md "wikilink")(OpenGL)、[Gamecube](https://zh.wikipedia.org/wiki/Gamecube "wikilink")、[Wii](../Page/Wii.md "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Xbox One](../Page/Xbox_One.md "wikilink").
 
-虽然Gamebryo的渲染引擎部分是私有的，但他允许使用者添加自己的图形绘制代码。Gamebryo包含了长达3500页的说明书，然而关于[Maya的部分却不完整](../Page/Maya.md "wikilink")，有的已经过时。
+虽然Gamebryo的渲染引擎部分是私有的，但他允许使用者添加自己的图形绘制代码。Gamebryo包含了长达3500页的说明书，然而关于[Maya](../Page/Maya.md "wikilink")的部分却不完整，有的已经过时。
 
 Emergent为部分客户提供开发套件，但不提供这些套件的源代码，而且套件只提供给EGT公司代表面谈后认为可以提供的客户。
 
-2010年被韓國公司Gamebase收購之後，在2012年推出最新版本Gamebryo
-4.0後，而該公司無法開發手機平台，已經轉為使用Reach3dx引擎進入手機平台。
+2010年被韓國公司Gamebase收購之後，在2012年推出最新版本Gamebryo 4.0後，而該公司無法開發手機平台，已經轉為使用Reach3dx引擎進入手機平台。
 
 ## 商业使用
 
@@ -394,6 +385,4 @@ Emergent为部分客户提供开发套件，但不提供这些套件的源代码
 
 [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
 
-1.  [Totally Games Selects
-    Netimmerse](http://www.bridgecommander.com/indepth/netimmerse.htm) ,
-    Totally Games, 2000年6月8日
+1.  [Totally Games Selects Netimmerse](http://www.bridgecommander.com/indepth/netimmerse.htm) , Totally Games, 2000年6月8日

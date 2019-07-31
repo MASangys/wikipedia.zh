@@ -1,5 +1,4 @@
-《**甜心战士F**》（）是[永井豪](../Page/永井豪.md "wikilink")担当原作及原案，由[饭坂友佳子来翻案而编绘的动作类](https://zh.wikipedia.org/wiki/饭坂友佳子 "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")，之后被[东映动画](../Page/东映动画.md "wikilink")给[TV动画化](https://zh.wikipedia.org/wiki/TV动画 "wikilink")。1997年2月至1998年1月为止，[朝日电视台放送了](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")《甜心战士F》的动画，为《[美少女战士Sailor
-Stars](https://zh.wikipedia.org/wiki/美少女战士Sailor_Stars "wikilink")》的后番组而制作播出。
+《**甜心战士F**》（）是[永井豪](../Page/永井豪.md "wikilink")担当原作及原案，由[饭坂友佳子来翻案而编绘的动作类](https://zh.wikipedia.org/wiki/饭坂友佳子 "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")，之后被[东映动画](../Page/东映动画.md "wikilink")给[TV动画化](https://zh.wikipedia.org/wiki/TV动画 "wikilink")。1997年2月至1998年1月为止，[朝日电视台放送了](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")《甜心战士F》的动画，为《[美少女战士Sailor Stars](https://zh.wikipedia.org/wiki/美少女战士Sailor_Stars "wikilink")》的后番组而制作播出。
 
 ## 本作概要
 
@@ -148,8 +147,7 @@ Stars](https://zh.wikipedia.org/wiki/美少女战士Sailor_Stars "wikilink")》�
 <!-- end list -->
 
   -
-    2007年的[电视剧](../Page/电视剧.md "wikilink")《[甜心战士 THE
-    LIVE](https://zh.wikipedia.org/wiki/甜心战士_THE_LIVE "wikilink")》里登场的蓝甜心与白甜心均为叶月圣罗的分饰角色。
+    2007年的[电视剧](../Page/电视剧.md "wikilink")《[甜心战士 THE LIVE](https://zh.wikipedia.org/wiki/甜心战士_THE_LIVE "wikilink")》里登场的蓝甜心与白甜心均为叶月圣罗的分饰角色。
 
   - ;白银花剑
 
@@ -271,8 +269,7 @@ Stars](https://zh.wikipedia.org/wiki/美少女战士Sailor_Stars "wikilink")》�
   - 原作：永井豪（动态企画）
   - 漫画：饭坂友佳子
   - 各揭載誌：《[Ciao](../Page/Ciao.md "wikilink")》—小学一年生、小学二年生、小学三年生、小学四年生、めばえ、幼稚園。《学習幼稚園》、《別冊可乐可乐漫画》（[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink")）
-  - 制片人：上田めぐみ、[太田贤司](https://zh.wikipedia.org/wiki/太田贤司 "wikilink")（朝日电视台）
-    、矢田晃一（東映工程）、東伊里弥
+  - 制片人：上田めぐみ、[太田贤司](https://zh.wikipedia.org/wiki/太田贤司 "wikilink")（朝日电视台） 、矢田晃一（東映工程）、東伊里弥
   - 制作担当：松坂一光→目黑宏
   - 系列构成：[山口亮太](../Page/山口亮太.md "wikilink")
   - 脚本：山口亮太、[吉田玲子](../Page/吉田玲子.md "wikilink")、隅泽克之、[十川誠志](../Page/十川誠志.md "wikilink")
@@ -298,16 +295,12 @@ Stars](https://zh.wikipedia.org/wiki/美少女战士Sailor_Stars "wikilink")》�
   - 片头曲
     《甜心战士》
       -
-        作词：[クロードQ](https://zh.wikipedia.org/wiki/クロードQ "wikilink")
-        作曲：[渡边岳夫](https://zh.wikipedia.org/wiki/渡边岳夫 "wikilink")
-        编曲：[龟山耕一郎](https://zh.wikipedia.org/wiki/龟山耕一郎 "wikilink")
-        歌：[SALIA](https://zh.wikipedia.org/wiki/SALIA "wikilink")
+        作词：[クロードQ](https://zh.wikipedia.org/wiki/クロードQ "wikilink") 作曲：[渡边岳夫](https://zh.wikipedia.org/wiki/渡边岳夫 "wikilink") 编曲：[龟山耕一郎](https://zh.wikipedia.org/wiki/龟山耕一郎 "wikilink") 歌：[SALIA](https://zh.wikipedia.org/wiki/SALIA "wikilink")
         CD音源的全版本为了没唱第三段，以第二段结束只有1分58秒。
   - 片尾曲
     《能哭得那样难过，不过…》
       -
-        作词：[冈本真夜](https://zh.wikipedia.org/wiki/冈本真夜 "wikilink") 作曲：冈本真夜
-        编曲：[十川知司](https://zh.wikipedia.org/wiki/十川知司 "wikilink") 歌：冈本真夜
+        作词：[冈本真夜](../Page/冈本真夜.md "wikilink") 作曲：冈本真夜 编曲：[十川知司](https://zh.wikipedia.org/wiki/十川知司 "wikilink") 歌：冈本真夜
         与TV版本的曲子构成不同，用第二段的歌词唱了一部分而结束。
 
 ## 各集标题
@@ -404,8 +397,4 @@ Stars](https://zh.wikipedia.org/wiki/美少女战士Sailor_Stars "wikilink")》�
 
 [ja:キューティーハニー\#テレビアニメ「キューティーハニーF」](https://zh.wikipedia.org/wiki/ja:キューティーハニー#テレビアニメ「キューティーハニーF」 "wikilink")
 
-[Category:甜心战士](https://zh.wikipedia.org/wiki/Category:甜心战士 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:1997年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1997年日本電視動畫 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
-[Category:三立都會台外購動畫](https://zh.wikipedia.org/wiki/Category:三立都會台外購動畫 "wikilink")
+[Category:甜心战士](https://zh.wikipedia.org/wiki/Category:甜心战士 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:1997年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1997年日本電視動畫 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink") [Category:三立都會台外購動畫](https://zh.wikipedia.org/wiki/Category:三立都會台外購動畫 "wikilink")

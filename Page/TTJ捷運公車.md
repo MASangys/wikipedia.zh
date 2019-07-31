@@ -1,10 +1,6 @@
 [TTJ捷運公車_昌平路口_20091219.jpg](https://zh.wikipedia.org/wiki/File:TTJ捷運公車_昌平路口_20091219.jpg "fig:TTJ捷運公車_昌平路口_20091219.jpg")
 
-**TTJ捷運公車**（**Taichung Transit Jet
-bus**），（2009年5月18日─2010年12月31日）推出時口號為**天天坐不用錢**（**TTJBUS**），至2011年則以Taichung-city
-Taichung-county
-Joint為意涵，\[1\]是[臺中市政府](../Page/臺中市政府.md "wikilink")為推廣民眾多使用[公車而開辦的一系列新公車路線及免費方案](https://zh.wikipedia.org/wiki/公車 "wikilink")。
-此系列公車創立時雖以[捷運](../Page/捷運.md "wikilink")命名，事實上它並沒有專用道，也沒有專用或優先號誌，更沒有車外收費系統，所以它並不是[公車捷運系統](https://zh.wikipedia.org/wiki/公車捷運系統 "wikilink")，而是屬於[捷運先導公車](../Page/捷運先導公車.md "wikilink")，直到2010年底。實質上為台中市鼓勵民眾多使用公車而開辦的一系列新公車路線及免費公車方案。
+**TTJ捷運公車**（**Taichung Transit Jet bus**），（2009年5月18日─2010年12月31日）推出時口號為**天天坐不用錢**（**TTJBUS**），至2011年則以Taichung-city Taichung-county Joint為意涵，\[1\]是[臺中市政府](../Page/臺中市政府.md "wikilink")為推廣民眾多使用[公車而開辦的一系列新公車路線及免費方案](https://zh.wikipedia.org/wiki/公車 "wikilink")。 此系列公車創立時雖以[捷運](../Page/捷運.md "wikilink")命名，事實上它並沒有專用道，也沒有專用或優先號誌，更沒有車外收費系統，所以它並不是[公車捷運系統](https://zh.wikipedia.org/wiki/公車捷運系統 "wikilink")，而是屬於[捷運先導公車](../Page/捷運先導公車.md "wikilink")，直到2010年底。實質上為台中市鼓勵民眾多使用公車而開辦的一系列新公車路線及免費公車方案。
 
 最初停靠模式比照[捷運](../Page/捷運.md "wikilink")模式，將公車站牌間距拉長。第二年開始停站模式比照一般公車辦理，行駛範圍也由原本的[臺中市部分](../Page/臺中市_\(省轄市\).md "wikilink")[市轄區內的主要幹道及地區延伸到](https://zh.wikipedia.org/wiki/市轄區 "wikilink")[台中縣](https://zh.wikipedia.org/wiki/台中縣 "wikilink")。第三年因為新成立的[臺中直轄市將預算補助對象調整為所有的市區公車](https://zh.wikipedia.org/wiki/臺中市 "wikilink")，此名稱基本失去原本意義。
 
@@ -12,14 +8,11 @@ Joint為意涵，\[1\]是[臺中市政府](../Page/臺中市政府.md "wikilink"
 
 臺中市政府為推廣民眾多使用[公車](https://zh.wikipedia.org/wiki/公車 "wikilink")，於2009年5月18日起，開辦7條新路線，以類似[捷運](../Page/捷運.md "wikilink")的模式，行走市內主要幹道。TTJ捷運公車的賣點是「準點、快速、車輛新」，在開辦初期（2009年5月18日至11月17日）由於民眾滿意度愈來愈高，市府加碼辦理，免費延長到12月31日，本系列路線免費供持有指定電子付款卡的乘客免費乘坐。99年度捷運公車，改成免刷卡也可免費搭乘，但刷卡可享2小時內轉乘優惠。讓[台中市市民和遊客在](https://zh.wikipedia.org/wiki/台中市 "wikilink")[台中捷運通車前先培養乘搭公共交通的習慣](https://zh.wikipedia.org/wiki/台中捷運 "wikilink")。
 
-2010年1月1日起，TTJ
-捷運公車自台中市區延伸自鄰近台中縣[大里](https://zh.wikipedia.org/wiki/大里區 "wikilink")、[太平](https://zh.wikipedia.org/wiki/太平區_\(臺中市\) "wikilink")、[潭子等鄉鎮市境內](../Page/潭子區.md "wikilink")。
+2010年1月1日起，TTJ 捷運公車自台中市區延伸自鄰近台中縣[大里](https://zh.wikipedia.org/wiki/大里區 "wikilink")、[太平](https://zh.wikipedia.org/wiki/太平區_\(臺中市\) "wikilink")、[潭子等鄉鎮市境內](../Page/潭子區.md "wikilink")。
 
-2011年1月1日起，因為法令限制，TTJ
-捷運公車的免費搭乘預算要等待新台中市議會審核，原本的路線經過修改後，以市區公車收費模式（按里程計費）。
+2011年1月1日起，因為法令限制，TTJ 捷運公車的免費搭乘預算要等待新台中市議會審核，原本的路線經過修改後，以市區公車收費模式（按里程計費）。
 
-2011年1月28日，始公告本年度TTJ
-捷運公車的最新路線及免費搭乘方案，至此全台中市區公車均劃歸為TTJ，在預算審查通過後，6月1日起持卡8公里內免費及電子票證4卡通用，9月1日起新增和平山線、新社山線、海環線、豐安線等免費路線，
+2011年1月28日，始公告本年度TTJ 捷運公車的最新路線及免費搭乘方案，至此全台中市區公車均劃歸為TTJ，在預算審查通過後，6月1日起持卡8公里內免費及電子票證4卡通用，9月1日起新增和平山線、新社山線、海環線、豐安線等免費路線，
 
 ## 路線
 
@@ -112,8 +105,7 @@ Joint為意涵，\[1\]是[臺中市政府](../Page/臺中市政府.md "wikilink"
 <!-- end list -->
 
   -
-    ※TTJ
-    捷運公車推動初期時的路線之一，**然自[民國99年](https://zh.wikipedia.org/wiki/民國99年 "wikilink")1月1日起停駛**。
+    ※TTJ 捷運公車推動初期時的路線之一，**然自[民國99年](https://zh.wikipedia.org/wiki/民國99年 "wikilink")1月1日起停駛**。
 
 [Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg](https://zh.wikipedia.org/wiki/File:Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg "fig:Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg")的站牌\]\]
 
@@ -127,11 +119,9 @@ Joint為意涵，\[1\]是[臺中市政府](../Page/臺中市政府.md "wikilink"
 
 ### 2010年
 
-2010年1月1日起，TTJ捷運公車服務範圍由原先的台中市區擴張至周邊原台中縣的三個鄉鎮，且整併新增停靠站為六條路線（原<span style="color:#0000FF;">57
-中港線</span>停駛、原<span style="color:#FF6600;">52路 忠明進化循環線</span>改為收費公車）。
+2010年1月1日起，TTJ捷運公車服務範圍由原先的台中市區擴張至周邊原台中縣的三個鄉鎮，且整併新增停靠站為六條路線（原<span style="color:#0000FF;">57 中港線</span>停駛、原<span style="color:#FF6600;">52路 忠明進化循環線</span>改為收費公車）。
 
-以下為2010版TTJ捷運公車六條路線（51、53、54、55、56、58）及原<span style="color:#FF6600;">52路
-忠明進化循環線</span>。
+以下為2010版TTJ捷運公車六條路線（51、53、54、55、56、58）及原<span style="color:#FF6600;">52路 忠明進化循環線</span>。
 
   - 2010年當時的路線
 
@@ -410,8 +400,7 @@ Joint為意涵，\[1\]是[臺中市政府](../Page/臺中市政府.md "wikilink"
 
 ### 過去
 
-2011年1月1日起，比照市區公車按里程收費。
-2009年5月18日至12月31日，憑[臺灣通](../Page/臺灣通.md "wikilink")（含原[臺中e卡通](../Page/臺中e卡通.md "wikilink")）或[ETC或](https://zh.wikipedia.org/wiki/ETC "wikilink")[悠遊卡](../Page/悠遊卡.md "wikilink")於上下車時分別刷卡一次即可免費搭乘，不接受投[現](https://zh.wikipedia.org/wiki/現金 "wikilink")。
+2011年1月1日起，比照市區公車按里程收費。 2009年5月18日至12月31日，憑[臺灣通](../Page/臺灣通.md "wikilink")（含原[臺中e卡通](../Page/臺中e卡通.md "wikilink")）或[ETC或](https://zh.wikipedia.org/wiki/ETC "wikilink")[悠遊卡](../Page/悠遊卡.md "wikilink")於上下車時分別刷卡一次即可免費搭乘，不接受投[現](https://zh.wikipedia.org/wiki/現金 "wikilink")。
 
 2010年1月1日至12月31日，全日免費搭乘，但持臺灣通（或臺中e卡通）刷卡，下車刷卡起二小時內再持卡轉乘不同路線之市區公車者，享一次基本里程8公里（20元）免費搭乘。
 
@@ -441,6 +430,4 @@ Joint為意涵，\[1\]是[臺中市政府](../Page/臺中市政府.md "wikilink"
 [Category:台中市公車](https://zh.wikipedia.org/wiki/Category:台中市公車 "wikilink")
 
 1.  [交通局名詞解釋](http://www.traffic.taichung.gov.tw/form/index-1.asp?Parser=2,6,49,47,,,266)
-2.  [免費搭公車
-    上班族賺到了](http://www.libertytimes.com.tw/2009/new/may/19/today-center7-2.htm)
-    ，自由電子報 19-5-09
+2.  [免費搭公車 上班族賺到了](http://www.libertytimes.com.tw/2009/new/may/19/today-center7-2.htm) ，自由電子報 19-5-09

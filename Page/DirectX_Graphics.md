@@ -1,11 +1,6 @@
-**DirectDraw**，微軟[Direct
-X的一員](https://zh.wikipedia.org/wiki/Direct_X "wikilink")，是基於COM架構下的[2D](https://zh.wikipedia.org/wiki/2D "wikilink")
-API，例如DirectDraw的Blt()用於表面间整体图像或是部分图像的移动。
+**DirectDraw**，微軟[Direct X的一員](https://zh.wikipedia.org/wiki/Direct_X "wikilink")，是基於COM架構下的[2D](https://zh.wikipedia.org/wiki/2D "wikilink") API，例如DirectDraw的Blt()用於表面间整体图像或是部分图像的移动。
 
-DirectDraw漸被[Direct3D](../Page/Direct3D.md "wikilink")所取代，[DirectShow](../Page/DirectShow.md "wikilink")的VMR-7
-是以 DirectDraw 7 建造，因為使用DirectDraw 7 控制graphic card，所以稱為VMR-7. VMR-9 則是基於
-Direct3D 9. DirectX 8.0發表時，Direct3D與DirectDraw編程介面合併並改名為**DirectX
-Graphics**。
+DirectDraw漸被[Direct3D](../Page/Direct3D.md "wikilink")所取代，[DirectShow](../Page/DirectShow.md "wikilink")的VMR-7 是以 DirectDraw 7 建造，因為使用DirectDraw 7 控制graphic card，所以稱為VMR-7. VMR-9 則是基於 Direct3D 9. DirectX 8.0發表時，Direct3D與DirectDraw編程介面合併並改名為**DirectX Graphics**。
 
 ## 版本
 

@@ -1,7 +1,6 @@
 ## L00-L08 皮肤和皮下组织的感染
 
-L00-L08
-[皮肤和](https://zh.wikipedia.org/wiki/皮肤 "wikilink")[皮下组织的感染](https://zh.wikipedia.org/wiki/皮下组织 "wikilink")
+L00-L08 [皮肤和](https://zh.wikipedia.org/wiki/皮肤 "wikilink")[皮下组织的感染](https://zh.wikipedia.org/wiki/皮下组织 "wikilink")
 
   - L00 [葡萄球菌性烫伤皮肤综合征](https://zh.wikipedia.org/wiki/葡萄球菌 "wikilink")
   - L01 [脓疱病](https://zh.wikipedia.org/wiki/脓疱病 "wikilink")
@@ -23,8 +22,7 @@ L10-L14 [大疱性疾患](https://zh.wikipedia.org/wiki/大疱性 "wikilink")
 
 ## L20-L30 皮炎和湿疹
 
-L20-L30
-[皮炎和](https://zh.wikipedia.org/wiki/皮炎 "wikilink")[湿疹](../Page/湿疹.md "wikilink")
+L20-L30 [皮炎和](https://zh.wikipedia.org/wiki/皮炎 "wikilink")[湿疹](../Page/湿疹.md "wikilink")
 
   - L20 特应性皮炎
   - L21 脂溢性皮炎
@@ -51,8 +49,7 @@ L40-L45 丘疹鳞屑性疾患
 
 ## L50-L54 荨麻疹和红斑
 
-L50-L54
-[荨麻疹](../Page/荨麻疹.md "wikilink")和[红斑](https://zh.wikipedia.org/wiki/红斑 "wikilink")
+L50-L54 [荨麻疹](../Page/荨麻疹.md "wikilink")和[红斑](https://zh.wikipedia.org/wiki/红斑 "wikilink")
 
   - L50 [荨麻疹](../Page/荨麻疹.md "wikilink")
   - L51 多形红斑
@@ -118,6 +115,4 @@ L80-L99 皮肤和皮下组织的其他疾患
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

@@ -1,6 +1,4 @@
-是由日本[科樂美](../Page/科樂美.md "wikilink")公司發行，[小島製作製作](https://zh.wikipedia.org/wiki/小島製作 "wikilink")，[PlayStation
-3平台發售的多人戰術類動作遊戲](../Page/PlayStation_3.md "wikilink")，於2008年6月12日搭配《[潛龍諜影4
-愛國者之槍](../Page/潛龍諜影4_愛國者之槍.md "wikilink")》同步在日本、北美、歐洲與亞洲等地推出在2012年6月12日結束遊戲的營運。
+是由日本[科樂美](../Page/科樂美.md "wikilink")公司發行，[小島製作製作](https://zh.wikipedia.org/wiki/小島製作 "wikilink")，[PlayStation 3平台發售的多人戰術類動作遊戲](../Page/PlayStation_3.md "wikilink")，於2008年6月12日搭配《[潛龍諜影4 愛國者之槍](../Page/潛龍諜影4_愛國者之槍.md "wikilink")》同步在日本、北美、歐洲與亞洲等地推出在2012年6月12日結束遊戲的營運。
 
 ## 付費下載更新
 
@@ -9,8 +7,7 @@
 <!-- end list -->
 
   -
-    玩家可以使用梅莉兒與強尼，並新增Coppertown Conflict、Tomb of Tubes、Virtuous
-    Vista三張地圖。
+    玩家可以使用梅莉兒與強尼，並新增Coppertown Conflict、Tomb of Tubes、Virtuous Vista三張地圖。
 
 <!-- end list -->
 
@@ -183,15 +180,10 @@
 <!-- end list -->
 
   -
-    Liquid Ocelot 掌握着SOP系統。發動「Guns of
-    Patriots」，停止敵人的攻擊，也同時控制感情，能使敵人在一定時間内不能行動。另外，Liquid
-    Ocelot也是CQC的高手，擅長使用CQC與高電壓互身刀電擊敵人。遊戲中若出現此角色，有一定機率在遊戲時間結束時會進行加時延長賽。
+    Liquid Ocelot 掌握着SOP系統。發動「Guns of Patriots」，停止敵人的攻擊，也同時控制感情，能使敵人在一定時間内不能行動。另外，Liquid Ocelot也是CQC的高手，擅長使用CQC與高電壓互身刀電擊敵人。遊戲中若出現此角色，有一定機率在遊戲時間結束時會進行加時延長賽。
 
 ## 外部連結
 
   - —[《潛龍諜影Online》中文官方網站](http://www.konami.jp/mgo/hk/hd/index.php)
 
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:潛龍諜影系列電子遊戲](https://zh.wikipedia.org/wiki/Category:潛龍諜影系列電子遊戲 "wikilink")
-[Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink")
+[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:潛龍諜影系列電子遊戲](https://zh.wikipedia.org/wiki/Category:潛龍諜影系列電子遊戲 "wikilink") [Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink")

@@ -1,6 +1,4 @@
-《**Full Circle Magazine**》 是使用[Portable Document
-Format发行的免费网络杂志](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")。诞生于2007年4月份，独立发行，与[Canonical
-Ltd并无纠葛](https://zh.wikipedia.org/wiki/Canonical_Ltd "wikilink")，使用广告和志愿者支持的方式持续进行，多数内容具有教学和宣传意义。\[1\]\[2\]\[3\]并没有中文译名。
+《**Full Circle Magazine**》 是使用[Portable Document Format发行的免费网络杂志](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")。诞生于2007年4月份，独立发行，与[Canonical Ltd并无纠葛](https://zh.wikipedia.org/wiki/Canonical_Ltd "wikilink")，使用广告和志愿者支持的方式持续进行，多数内容具有教学和宣传意义。\[1\]\[2\]\[3\]并没有中文译名。
 
 使用[知识共享](../Page/知识共享.md "wikilink")协议发布。
 
@@ -12,8 +10,7 @@ Ltd并无纠葛](https://zh.wikipedia.org/wiki/Canonical_Ltd "wikilink")，使�
 
 ### 增刊
 
-2009年初号召进行春节增刊，最终没有出现。 22期中文版本制作期间，Full Circle中文团队发布了首个增刊，Full Circle
-Gtalk for linux，介绍源自国内社区的首个实用Gtalk语音软件。
+2009年初号召进行春节增刊，最终没有出现。 22期中文版本制作期间，Full Circle中文团队发布了首个增刊，Full Circle Gtalk for linux，介绍源自国内社区的首个实用Gtalk语音软件。
 
 ### 中文访谈
 
@@ -35,8 +32,7 @@ Gtalk for linux，介绍源自国内社区的首个实用Gtalk语音软件。
   - **编者：** Ronnie Tucker
   - **网站维护：** Rob Kerfia
   - **协调员：** Robert Clipsham
-  - **编辑：** Mike Kennedy, David Haas, Gord Campbell, Nicola Cappellini,
-    Ryan Hartlage, David Sutton
+  - **编辑：** Mike Kennedy, David Haas, Gord Campbell, Nicola Cappellini, Ryan Hartlage, David Sutton
 
 ## 其他
 

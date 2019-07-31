@@ -1,5 +1,4 @@
-《**Happy
-Together**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台於](../Page/SBS_\(韓國\).md "wikilink")1999年播放的一套[電視劇](../Page/韓國電視劇.md "wikilink")，講述五個兄弟姊妹的故事。平均收視有35%，最高收視接近40%。
+《**Happy Together**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台於](../Page/SBS_\(韓國\).md "wikilink")1999年播放的一套[電視劇](../Page/韓國電視劇.md "wikilink")，講述五個兄弟姊妹的故事。平均收視有35%，最高收視接近40%。
 
 ## 出演陣容
 
@@ -24,8 +23,4 @@ Together**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikil
 
 ## 作品的變遷
 
-[Category:1999年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1999年韓國電視劇集 "wikilink")
-[Category:SBS特別劇](https://zh.wikipedia.org/wiki/Category:SBS特別劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
-[Category:裴由美劇本作品](https://zh.wikipedia.org/wiki/Category:裴由美劇本作品 "wikilink")
+[Category:1999年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1999年韓國電視劇集 "wikilink") [Category:SBS特別劇](https://zh.wikipedia.org/wiki/Category:SBS特別劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:裴由美劇本作品](https://zh.wikipedia.org/wiki/Category:裴由美劇本作品 "wikilink")

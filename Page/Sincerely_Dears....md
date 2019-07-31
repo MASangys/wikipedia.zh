@@ -1,6 +1,4 @@
-**Sincerely
-Dears...**是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里的一張精選](../Page/田村由香里.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2007年3月28日由[科樂美發行](../Page/科樂美.md "wikilink")，[KING
-RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品編號為GBZC-1（CD）和GBZC-2（附錄DVD）。
+**Sincerely Dears...**是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的一張精選[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2007年3月28日由[科樂美](../Page/科樂美.md "wikilink")發行，[KING RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品編號為GBZC-1（CD）和GBZC-2（附錄DVD）。
 
 ## 概要
 
@@ -12,22 +10,19 @@ RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品�
 
 ### CD
 
-1.  [summer
-    melody](https://zh.wikipedia.org/wiki/summer_melody_\(單曲\) "wikilink")
+1.  [summer melody](https://zh.wikipedia.org/wiki/summer_melody_\(單曲\) "wikilink")
 
       - 作詞：花梨；作曲、編曲：Acryl Vox
 
 2.    - 作詞：[椎名可憐](https://zh.wikipedia.org/wiki/椎名可憐 "wikilink")；作曲：山口美央子；編曲：岸村正實
       - 田村由香里主持的電台節目「」開首曲（2002年4月〜7月）
 
-3.  [Baby's
-    Breath](https://zh.wikipedia.org/wiki/Baby's_Breath_\(田村由香里\) "wikilink")
+3.  [Baby's Breath](https://zh.wikipedia.org/wiki/Baby's_Breath_\(田村由香里\) "wikilink")
 
       - 作詞：；作曲：[cota](https://zh.wikipedia.org/wiki/大津美紀 "wikilink")；編曲：[岩本正樹](https://zh.wikipedia.org/wiki/岩本正樹 "wikilink")
       - 田村由香里主持的電台節目「」開首曲（2002年7月〜10月）
 
-4.  [Lovely
-    Magic](https://zh.wikipedia.org/wiki/Lovely_Magic "wikilink")
+4.  [Lovely Magic](https://zh.wikipedia.org/wiki/Lovely_Magic "wikilink")
 
       - 作詞、作曲：[渡邊美佳](https://zh.wikipedia.org/wiki/渡邊美佳 "wikilink")；編曲：渡邊美佳、久保幹一郎
       - 田村由香里主持的電台節目「」開首曲（2003年4月〜9月）
@@ -37,8 +32,7 @@ RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品�
 6.    - 作詞：；作曲、編曲：[大久保薰](../Page/大久保薰.md "wikilink")
       - 田村由香里主持的電台節目「」開首曲（2004年4月〜9月）
 
-7.  [Little Wish ～lyrical
-    step～](../Page/Little_Wish_～lyrical_step～.md "wikilink")
+7.  [Little Wish ～lyrical step～](../Page/Little_Wish_～lyrical_step～.md "wikilink")
 
       - 作詞：[椎名可憐](https://zh.wikipedia.org/wiki/椎名可憐 "wikilink")；作曲、編曲：太田雅友
       - 動畫「[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")」[片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")
@@ -101,6 +95,4 @@ Concert Tour 2006 \*fancy baby doll\*　Special Edition
 
 ## 參考資料
 
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:精選專輯](https://zh.wikipedia.org/wiki/Category:精選專輯 "wikilink")
-[Category:田村由香里音樂專輯](https://zh.wikipedia.org/wiki/Category:田村由香里音樂專輯 "wikilink")
+[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:精選專輯](https://zh.wikipedia.org/wiki/Category:精選專輯 "wikilink") [Category:田村由香里音樂專輯](https://zh.wikipedia.org/wiki/Category:田村由香里音樂專輯 "wikilink")

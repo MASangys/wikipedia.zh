@@ -1,30 +1,20 @@
-**MAX**是由沖繩出道的日本音樂團體。所屬公司為[RISINGPRO](../Page/RISINGPRO.md "wikilink")。
-是從安室奈美惠單飛之後Super
-Monkeys（スーパーモンキーズ）其他成員所組成。「MAX」名稱的由來是現在艾迴社長松浦勝人的暱稱和「Musical（音樂的）」「Active（活動的）」「eXperience（經驗、體驗）」的開頭文字所組成。
+**MAX**是由沖繩出道的日本音樂團體。所屬公司為[RISINGPRO](../Page/RISINGPRO.md "wikilink")。 是從安室奈美惠單飛之後Super Monkeys（スーパーモンキーズ）其他成員所組成。「MAX」名稱的由來是現在艾迴社長松浦勝人的暱稱和「Musical（音樂的）」「Active（活動的）」「eXperience（經驗、體驗）」的開頭文字所組成。
 
 ## 經歷
 
-原本是在Super
-Monkeys（スーパーモンキーズ）和[安室奈美惠](../Page/安室奈美惠.md "wikilink")屬於同一個團體中的成員，不過**MAX**當時在Super
-Monkeys（スーパーモンキーズ）並未演唱，而是擔任伴舞的角色，在1995年以「愛情VELFARRE DANCE～Saturday
-night～」單曲出道，而在1996年12月11號發行了第一張專輯「MAXIMUM」，全部都是輕快的歌曲。
+原本是在Super Monkeys（スーパーモンキーズ）和[安室奈美惠](../Page/安室奈美惠.md "wikilink")屬於同一個團體中的成員，不過**MAX**當時在Super Monkeys（スーパーモンキーズ）並未演唱，而是擔任伴舞的角色，在1995年以「愛情VELFARRE DANCE～Saturday night～」單曲出道，而在1996年12月11號發行了第一張專輯「MAXIMUM」，全部都是輕快的歌曲。
 
-1997年首次的原創曲子「Give me a
-Shake」的這張單曲獲得了[Oricon](../Page/Oricon.md "wikilink")排行榜初登場第一名，這張單曲曲也在[NHK紅白歌唱大賽首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌唱大賽 "wikilink")。
+1997年首次的原創曲子「Give me a Shake」的這張單曲獲得了[Oricon](../Page/Oricon.md "wikilink")排行榜初登場第一名，這張單曲曲也在[NHK紅白歌唱大賽首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌唱大賽 "wikilink")。
 
-而在[歌手](../Page/歌手.md "wikilink")以外的活動也相當活躍，**MAX**也主演了1996年的電影「麗霆子（レディース）MAX」和1997年的電影「Give
-me a Shake
-レディースMAX」，1998年[朝日電視台](../Page/朝日電視台.md "wikilink")的甜密的惡魔（暫譯，原名スウィートデビル），其他還有[富士電視台](../Page/富士電視台.md "wikilink")的「daiba:ba」或[日本電視台](../Page/日本電視台.md "wikilink")的「Girls×2」的主持等。
+而在[歌手](../Page/歌手.md "wikilink")以外的活動也相當活躍，**MAX**也主演了1996年的電影「麗霆子（レディース）MAX」和1997年的電影「Give me a Shake レディースMAX」，1998年[朝日電視台](../Page/朝日電視台.md "wikilink")的甜密的惡魔（暫譯，原名スウィートデビル），其他還有[富士電視台](../Page/富士電視台.md "wikilink")的「daiba:ba」或[日本電視台](../Page/日本電視台.md "wikilink")的「Girls×2」的主持等。
 
 2002年主唱之一的Mina因為懷孕的關係，同年的三月開始產休。為了彌補這個缺，在同年七月加入了新成員Aki，歌迷也開始有了正負兩端的爭議。之後所屬的經紀公司和成員等人都再也沒有Mina歸隊的消息。
 
-到第27張單曲「Be With You」之前都是由艾迴公司所發行的，第28張單曲「ニライカナイ」開始由SONIC GROOVE
-發行（一樣屬[艾迴公司](https://zh.wikipedia.org/wiki/艾迴 "wikilink")），在[2006年2月](../Page/2006年2月.md "wikilink")發行了睽違4年的專輯。
+到第27張單曲「Be With You」之前都是由艾迴公司所發行的，第28張單曲「ニライカナイ」開始由SONIC GROOVE 發行（一樣屬[艾迴公司](https://zh.wikipedia.org/wiki/艾迴 "wikilink")），在[2006年2月](../Page/2006年2月.md "wikilink")發行了睽違4年的專輯。
 
 2006年以日本人的身份在北京成功進出。
 
-[2008年8月](../Page/2008年8月.md "wikilink")12日，Aki在8月底退出的消息被宣佈出來，在10月28日中發表替換的成員是在睽違六年半歸隊的Mina。10月30號在[富士電視台](../Page/富士電視台.md "wikilink")的「情報プレゼンター
-とくダネ！」內的「朝のヒットスタジオ」內一起唱了「Give me a shake」，讓原本的成員正式的重新出發。
+[2008年8月](../Page/2008年8月.md "wikilink")12日，Aki在8月底退出的消息被宣佈出來，在10月28日中發表替換的成員是在睽違六年半歸隊的Mina。10月30號在[富士電視台](../Page/富士電視台.md "wikilink")的「情報プレゼンター とくダネ！」內的「朝のヒットスタジオ」內一起唱了「Give me a shake」，讓原本的成員正式的重新出發。
 
 ## 成員
 
@@ -68,12 +58,9 @@ me a Shake
 13. あの夏へと（1999/5/26）
 14. 銀河の誓い（1999/8/25）- HIM的輕快曲（原歌名AQUARIUS）。
 15. 一緒に・・・（1999/11/25）
-16. [Never gonna stop
-    it](../Page/Never_gonna_stop_it.md "wikilink")（2000/2/16）
+16. [Never gonna stop it](../Page/Never_gonna_stop_it.md "wikilink")（2000/2/16）
 17. MAGIC（2000/5/24）
-18. バラ色の日々（2000/9/6）-
-    [新好男孩輕快曲](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")（原歌名「LARGER
-    THAN LIFE」）。☆[HDCD](https://zh.wikipedia.org/wiki/HDCD "wikilink")
+18. バラ色の日々（2000/9/6）- [新好男孩輕快曲](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")（原歌名「LARGER THAN LIFE」）。☆[HDCD](https://zh.wikipedia.org/wiki/HDCD "wikilink")
 19. always love（2001/2/15）
 20. Perfect Love（2001/5/16）☆HDCD
 21. moonlight（2001/9/27）☆HDCD
@@ -101,8 +88,7 @@ me a Shake
   - 太陽的SEASON（1995/4/26）
   - Stop the music（1995/7/24）
   - [Body Feels EXIT](../Page/Body_Feels_EXIT.md "wikilink")（1995/10/25）
-  - [Chase the
-    Chance](../Page/Chase_the_Chance.md "wikilink")（1995/12/5）
+  - [Chase the Chance](../Page/Chase_the_Chance.md "wikilink")（1995/12/5）
 
 ### 專輯
 
@@ -245,6 +231,4 @@ me a Shake
 
   - [MAX日本官方網站](http://www.avexnet.or.jp/max/index.html)
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink")

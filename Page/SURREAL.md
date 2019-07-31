@@ -1,9 +1,6 @@
 《**SURREAL**》（超現實）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第17張單曲，作為數量限定的單曲，與收錄本單曲的專輯《[Duty](../Page/Duty.md "wikilink")》同時於2000年9月27日於日本發售。
 
-《SURREAL》、《[Duty](../Page/Duty.md "wikilink")》、《ayumi hamasaki concert
-tour 2000 A
-第1幕》三作，在發行首週分別奪下週榜單曲、專輯、DVD榜的冠軍，此為[公信榜史上首度的三冠](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，同時發售的《ayumi
-hamasaki concert tour 2000 A 第2幕》DVD亦奪下第二名的紀錄。
+《SURREAL》、《[Duty](../Page/Duty.md "wikilink")》、《ayumi hamasaki concert tour 2000 A 第1幕》三作，在發行首週分別奪下週榜單曲、專輯、DVD榜的冠軍，此為[公信榜史上首度的三冠](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，同時發售的《ayumi hamasaki concert tour 2000 A 第2幕》DVD亦奪下第二名的紀錄。
 
 ## 收錄歌曲
 
@@ -44,8 +41,4 @@ hamasaki concert tour 2000 A 第2幕》DVD亦奪下第二名的紀錄。
 
 ## 参考文献
 
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")

@@ -28,8 +28,7 @@ Foldit嘗試利用人腦天生的三維图形匹配能力。目前該程式出�
 
   - [Foldit主页](http://fold.it/)
 
-  - [官方 Foldit
-    wiki](https://web.archive.org/web/20160407222615/http://foldit.wikia.com/wiki/Foldit_Wiki)
+  - [官方 Foldit wiki](https://web.archive.org/web/20160407222615/http://foldit.wikia.com/wiki/Foldit_Wiki)
 
   - , Stanford
 
@@ -37,19 +36,11 @@ Foldit嘗試利用人腦天生的三維图形匹配能力。目前該程式出�
 
   - , Baker Laboratory
 
-  - [Computer game's high score could earn the Nobel Prize in
-    medicine](https://web.archive.org/web/20090126083410/http://uwnews.org/article.asp?articleID=41558)
+  - [Computer game's high score could earn the Nobel Prize in medicine](https://web.archive.org/web/20090126083410/http://uwnews.org/article.asp?articleID=41558)
 
-  - [Biologists Enlist Online
-    Gamers](http://www.technologyreview.com/Biotech/20738/?a=f)
+  - [Biologists Enlist Online Gamers](http://www.technologyreview.com/Biotech/20738/?a=f)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:Mac_OS游戏](https://zh.wikipedia.org/wiki/Category:Mac_OS游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink")
-[Category:蛋白质结构](https://zh.wikipedia.org/wiki/Category:蛋白质结构 "wikilink")
-[Category:计算生物学](https://zh.wikipedia.org/wiki/Category:计算生物学 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Mac_OS游戏](https://zh.wikipedia.org/wiki/Category:Mac_OS游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink") [Category:蛋白质结构](https://zh.wikipedia.org/wiki/Category:蛋白质结构 "wikilink") [Category:计算生物学](https://zh.wikipedia.org/wiki/Category:计算生物学 "wikilink")
 
 1.
 

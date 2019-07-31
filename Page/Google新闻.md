@@ -1,5 +1,4 @@
-**Google新闻**是[Google](../Page/Google.md "wikilink")开发的一款[Web新闻聚合器](https://zh.wikipedia.org/wiki/Web "wikilink")，由Google首席工程師[克里希纳·巴拉特](https://zh.wikipedia.org/wiki/克里希纳·巴拉特 "wikilink")（Krishna
-Bharat）創造與領導開發。
+**Google新闻**是[Google](../Page/Google.md "wikilink")开发的一款[Web新闻聚合器](https://zh.wikipedia.org/wiki/Web "wikilink")，由Google首席工程師[克里希纳·巴拉特](https://zh.wikipedia.org/wiki/克里希纳·巴拉特 "wikilink")（Krishna Bharat）創造與領導開發。
 
 ## 歷史
 
@@ -19,6 +18,4 @@ Bharat）創造與領導開發。
   - [Google新聞](http://news.google.com/news?ned=hk)（香港版）
   - [Google新聞](http://news.google.com/news?ned=tw)（台湾版）
 
-[Category:Google搜尋](https://zh.wikipedia.org/wiki/Category:Google搜尋 "wikilink")
-[Category:新聞網站](https://zh.wikipedia.org/wiki/Category:新聞網站 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:Google搜尋](https://zh.wikipedia.org/wiki/Category:Google搜尋 "wikilink") [Category:新聞網站](https://zh.wikipedia.org/wiki/Category:新聞網站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")

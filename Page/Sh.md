@@ -4,32 +4,23 @@
 
 ### 阿爾巴尼亞語
 
-[阿爾巴尼亞語中](https://zh.wikipedia.org/wiki/阿爾巴尼亞語 "wikilink")，**sh**代表[清齦後擦音](https://zh.wikipedia.org/wiki/清齦後擦音 "wikilink")
-（[國際音標](../Page/國際音標.md "wikilink")：）。這是一個獨立字母，名為**shë**（），排列在[S](../Page/S.md "wikilink")和[T](../Page/T.md "wikilink")之間。
+[阿爾巴尼亞語中](https://zh.wikipedia.org/wiki/阿爾巴尼亞語 "wikilink")，**sh**代表[清齦後擦音](https://zh.wikipedia.org/wiki/清齦後擦音 "wikilink") （[國際音標](../Page/國際音標.md "wikilink")：）。這是一個獨立字母，名為**shë**（），排列在[S](../Page/S.md "wikilink")和[T](../Page/T.md "wikilink")之間。
 
 ### 英語
 
-英語中的**sh**代表[清齦後擦音](https://zh.wikipedia.org/wiki/清齦後擦音 "wikilink")
-（[國際音標](../Page/國際音標.md "wikilink")：）。例外的是[合成詞](https://zh.wikipedia.org/wiki/合成詞 "wikilink")
-中，s和h不組成二合字母，而需要分別讀出，如*hogshead* 讀如*hogs-head* ，而非。sh並不被視為獨立字母。
+英語中的**sh**代表[清齦後擦音](https://zh.wikipedia.org/wiki/清齦後擦音 "wikilink") （[國際音標](../Page/國際音標.md "wikilink")：）。例外的是[合成詞](https://zh.wikipedia.org/wiki/合成詞 "wikilink") 中，s和h不組成二合字母，而需要分別讀出，如*hogshead* 讀如*hogs-head* ，而非。sh並不被視為獨立字母。
 
-American Literary 的[盲文](../Page/盲文.md "wikilink")安排中，sh的縮約形式為(1 4
-6)點樣式，獨立時表示單字*shall*。
+American Literary 的[盲文](../Page/盲文.md "wikilink")安排中，sh的縮約形式為(1 4 6)點樣式，獨立時表示單字*shall*。
 
 ### 愛爾蘭語
 
-[愛爾蘭語](../Page/愛爾蘭語.md "wikilink")的*sh*的發音為，代表*s*的[lenition](https://zh.wikipedia.org/wiki/Irish_initial_mutations "wikilink")；例如，*mo
-shaol*  我的生命 （比較： *saol*  生命）。
+[愛爾蘭語](../Page/愛爾蘭語.md "wikilink")的*sh*的發音為，代表*s*的[lenition](https://zh.wikipedia.org/wiki/Irish_initial_mutations "wikilink")；例如，*mo shaol*  我的生命 （比較： *saol*  生命）。
 
 ### 奧克語
 
-[奧克語的](https://zh.wikipedia.org/wiki/奧克語 "wikilink")*sh*代表[清齦後擦音](https://zh.wikipedia.org/wiki/清齦後擦音 "wikilink")（[國際音標](../Page/國際音標.md "wikilink")：）。它主要在[奧克語的Gascon方言出現](https://zh.wikipedia.org/wiki/奧克語 "wikilink")，對應其他方言的*s*或*ss*：*peish
-= peis*魚、*naishença = naissença*誕生、*sheis = sièis*六。*sh*前的*i*不發聲：*peish,
-naishença*讀如。有些字在所有奧克語方言中都有*sh*，是被其他方言採用的Gascon字（*Aush*,
-*Arcaishon*）或外語借詞（*shampó*）。
+[奧克語的](https://zh.wikipedia.org/wiki/奧克語 "wikilink")*sh*代表[清齦後擦音](https://zh.wikipedia.org/wiki/清齦後擦音 "wikilink")（[國際音標](../Page/國際音標.md "wikilink")：）。它主要在[奧克語的Gascon方言出現](https://zh.wikipedia.org/wiki/奧克語 "wikilink")，對應其他方言的*s*或*ss*：*peish = peis*魚、*naishença = naissença*誕生、*sheis = sièis*六。*sh*前的*i*不發聲：*peish, naishença*讀如。有些字在所有奧克語方言中都有*sh*，是被其他方言採用的Gascon字（*Aush*, *Arcaishon*）或外語借詞（*shampó*）。
 
-關於
-**s·h**，請見[間隔號\#奧克語](https://zh.wikipedia.org/wiki/間隔號#奧克語 "wikilink")。
+關於 **s·h**，請見[間隔號\#奧克語](https://zh.wikipedia.org/wiki/間隔號#奧克語 "wikilink")。
 
 ## 羅馬化
 

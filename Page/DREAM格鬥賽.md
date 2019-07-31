@@ -1,7 +1,6 @@
 DREAM是一個在[日本](../Page/日本.md "wikilink")運作的職業[綜合格鬥格鬥聯盟](https://zh.wikipedia.org/wiki/綜合格鬥 "wikilink")。DREAM的五個[英文字母](../Page/英文字母.md "wikilink")皆為大寫。
 
-DREAM是由主辦[K-1](../Page/K-1.md "wikilink")的FEG ( Fighting Entertainment
-Group ) 公司所經營。原本是和DSE (Dream Stage Entertainment)所一起經營，但是後來則全盤由FEG接手。
+DREAM是由主辦[K-1](../Page/K-1.md "wikilink")的FEG ( Fighting Entertainment Group ) 公司所經營。原本是和DSE (Dream Stage Entertainment)所一起經營，但是後來則全盤由FEG接手。
 
 DREAM取代了原本FEG所主辦的職業MMA比賽Hero's，成為了FEG公司的主流賽事。DREAM在其經營上承接了非常多[PRIDE格鬥錦標賽的風格](https://zh.wikipedia.org/wiki/PRIDE格鬥錦標賽 "wikilink")，就連公司的員工很多也都是直接由Pride所轉任。
 
@@ -9,20 +8,13 @@ DREAM和[戰極](https://zh.wikipedia.org/wiki/戰極 "wikilink")，是目前日
 
 ## 源起
 
-就在[UFC所屬的公司Zuffa](https://zh.wikipedia.org/wiki/UFC "wikilink")，收購了Pride之後。Shooto、M-1
-Global和FEG聯手舉辦了一個格鬥大會
-Yarennoka\!。這場在2007年12月31日所舉辦的比賽，原本是要作為Pride結束之後的一場紀念大會。但是這場大會獲得了廣大的迴響與成功，很多的日本格鬥迷對於Pride的解散，感到悲傷與懷念。隨著越來越多的民意基礎，最後FEG與DSE決定攜手合作，一起發揮兩家公司在經營職業MMA聯盟的人力與物力，籌組一個新的職業格鬥聯盟。
+就在[UFC所屬的公司Zuffa](https://zh.wikipedia.org/wiki/UFC "wikilink")，收購了Pride之後。Shooto、M-1 Global和FEG聯手舉辦了一個格鬥大會 Yarennoka\!。這場在2007年12月31日所舉辦的比賽，原本是要作為Pride結束之後的一場紀念大會。但是這場大會獲得了廣大的迴響與成功，很多的日本格鬥迷對於Pride的解散，感到悲傷與懷念。隨著越來越多的民意基礎，最後FEG與DSE決定攜手合作，一起發揮兩家公司在經營職業MMA聯盟的人力與物力，籌組一個新的職業格鬥聯盟。
 
-2008年的2月13日，雙方達成協議，將新成立的團體命名為DREAM。FEG同時也宣布：將解散原本旗下的職業MMA團體Hero's，所有Hero's的選手都將併入新成立的DREAM。除了原本隸屬於Hero's的明星選手，如：山本德育、秋山成勳。DREAM另外又簽下了Mirko
-"Cro Cop" Filipovic、青木真也、櫻庭和志、石田光洋等一線好手。隨著這些選手的浮現，DREAM的聲勢越來越強。此時，M-1
-Global又拋出了一個相當令人振奮的消息，那就是M-1
-Global旗下所屬的超級明星選手[菲德·埃密利亞恩寇](../Page/菲德·埃密利亞恩寇.md "wikilink")，也不排除參加DREAM所舉辦的比賽。
+2008年的2月13日，雙方達成協議，將新成立的團體命名為DREAM。FEG同時也宣布：將解散原本旗下的職業MMA團體Hero's，所有Hero's的選手都將併入新成立的DREAM。除了原本隸屬於Hero's的明星選手，如：山本德育、秋山成勳。DREAM另外又簽下了Mirko "Cro Cop" Filipovic、青木真也、櫻庭和志、石田光洋等一線好手。隨著這些選手的浮現，DREAM的聲勢越來越強。此時，M-1 Global又拋出了一個相當令人振奮的消息，那就是M-1 Global旗下所屬的超級明星選手[菲德·埃密利亞恩寇](../Page/菲德·埃密利亞恩寇.md "wikilink")，也不排除參加DREAM所舉辦的比賽。
 
-DREAM從一開始運作，就和[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視頻道HDNet合作](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，從DREAM
-01開始就在美國本土播出。除此之外，也積極的尋求和美國的職業MMA聯盟合作。2008年的5月，DREAM宣布和美國的EliteXC合作。兩個聯盟決定要彼此交換選手，同時也不排除共同舉行大會。但是隨著後來EliteEX的破產，這個合作協定也就無疾而終了。
+DREAM從一開始運作，就和[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視頻道HDNet合作](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，從DREAM 01開始就在美國本土播出。除此之外，也積極的尋求和美國的職業MMA聯盟合作。2008年的5月，DREAM宣布和美國的EliteXC合作。兩個聯盟決定要彼此交換選手，同時也不排除共同舉行大會。但是隨著後來EliteEX的破產，這個合作協定也就無疾而終了。
 
-2009年的8月，美國的職業MMA團體Strikeforce的總裁Scott
-Coker宣布和DREAM結盟。未來兩個聯盟相互相交換選手，力求將最好、最強的MMA比賽呈現在觀眾面前。同時，因為正巧此時StrikeForce和Fedor簽下了契約，所以原本已經和DREAM漸行漸遠的Fedor，又開始和DREAM有了關連。傳聞以久的Fedor可能會在DREAM出賽，又再度開始傳聞了。
+2009年的8月，美國的職業MMA團體Strikeforce的總裁Scott Coker宣布和DREAM結盟。未來兩個聯盟相互相交換選手，力求將最好、最強的MMA比賽呈現在觀眾面前。同時，因為正巧此時StrikeForce和Fedor簽下了契約，所以原本已經和DREAM漸行漸遠的Fedor，又開始和DREAM有了關連。傳聞以久的Fedor可能會在DREAM出賽，又再度開始傳聞了。
 
 ## 規則
 
@@ -48,5 +40,4 @@ DREAM規則裡所定義的地板狀態，乃指一方選手若有三點著地，
 
   - [DREAM官方網站](http://www.dreamofficial.com/)
 
-[Category:综合格斗](https://zh.wikipedia.org/wiki/Category:综合格斗 "wikilink")
-[Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink")
+[Category:综合格斗](https://zh.wikipedia.org/wiki/Category:综合格斗 "wikilink") [Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink")

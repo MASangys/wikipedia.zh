@@ -10,13 +10,10 @@
 
   - [親親](../Page/親親_\(KOH+\).md "wikilink")（2007年11月21日，商品編號：UPCH-80050）
   - [最愛](../Page/最愛_\(單曲\).md "wikilink")（2008年10月1日，商品編號：UPCH-80090）
-  - [Produced by Masaharu Fukuyama
-    「Galileo+」](../Page/Produced_by_Masaharu_Fukuyama_「Galileo+」.md "wikilink")（2013年6月26日，商品編號：UUCH-9049（初回限定盘DVD付）/UUCH-1077（通常盘））
+  - [Produced by Masaharu Fukuyama 「Galileo+」](../Page/Produced_by_Masaharu_Fukuyama_「Galileo+」.md "wikilink")（2013年6月26日，商品編號：UUCH-9049（初回限定盘DVD付）/UUCH-1077（通常盘））
 
 ## 注释
 
-[Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink")
-[Category:KOH+](https://zh.wikipedia.org/wiki/Category:KOH+ "wikilink")
-[Category:偵探伽利略系列](https://zh.wikipedia.org/wiki/Category:偵探伽利略系列 "wikilink")
+[Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink") [Category:KOH+](https://zh.wikipedia.org/wiki/Category:KOH+ "wikilink") [Category:偵探伽利略系列](https://zh.wikipedia.org/wiki/Category:偵探伽利略系列 "wikilink")
 
 1.  neowing评价为「」

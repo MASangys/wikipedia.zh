@@ -1,11 +1,8 @@
-《**BITTERSWEET
-FOOLS**》（）是2001年[minori公司所發行的](https://zh.wikipedia.org/wiki/minori "wikilink")[十八禁遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
+《**BITTERSWEET FOOLS**》（）是2001年[minori公司所發行的](https://zh.wikipedia.org/wiki/minori "wikilink")[十八禁遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 概要
 
-以[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")・[佛羅倫斯為舞台](https://zh.wikipedia.org/wiki/佛羅倫斯 "wikilink")，描寫展開攸關性命的戰鬥的青年，與純真的少女相遇的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。[DC](../Page/Dreamcast.md "wikilink")\[2\]以及[PS2的全年齡版](../Page/PlayStation_2.md "wikilink")、[D3出版社](https://zh.wikipedia.org/wiki/D3出版社 "wikilink")（*D3
-Publisher*）的[Simple
-2000版也已經發售](https://zh.wikipedia.org/wiki/Simple系列 "wikilink")。
+以[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")・[佛羅倫斯為舞台](https://zh.wikipedia.org/wiki/佛羅倫斯 "wikilink")，描寫展開攸關性命的戰鬥的青年，與純真的少女相遇的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。[DC](../Page/Dreamcast.md "wikilink")\[2\]以及[PS2的全年齡版](../Page/PlayStation_2.md "wikilink")、[D3出版社](https://zh.wikipedia.org/wiki/D3出版社 "wikilink")（*D3 Publisher*）的[Simple 2000版也已經發售](https://zh.wikipedia.org/wiki/Simple系列 "wikilink")。
 
 2005年12月28日PC重製版發售。\[3\]
 
@@ -62,17 +59,10 @@ Publisher*）的[Simple
 ## 外部連結
 
   - [minori製品情報（18歳未満禁止）](https://web.archive.org/web/20090505215105/http://www.minori.ph/)（2009年6月起，網站屏蔽了日本以外的訪問。）
-  - [PlayStation 2版遊戲 Simple2000系列VOL.9《THE戀愛アドベンチャー BITTERSWEET
-    FOOLS》網頁](http://www.d3p.co.jp/s_20/s20_009.html)
-  - [Dreamcast版遊戲 Simple2000DC系列 《BITTERSWEET
-    FOOLS》網頁](http://www.d3p.co.jp/s_20dc/s20dc_001.html)
+  - [PlayStation 2版遊戲 Simple2000系列VOL.9《THE戀愛アドベンチャー BITTERSWEET FOOLS》網頁](http://www.d3p.co.jp/s_20/s20_009.html)
+  - [Dreamcast版遊戲 Simple2000DC系列 《BITTERSWEET FOOLS》網頁](http://www.d3p.co.jp/s_20dc/s20dc_001.html)
 
-[Category:Minori](https://zh.wikipedia.org/wiki/Category:Minori "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:2001年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2001年日本成人遊戲 "wikilink")
+[Category:Minori](https://zh.wikipedia.org/wiki/Category:Minori "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:2001年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2001年日本成人遊戲 "wikilink")
 
 1.
 2.

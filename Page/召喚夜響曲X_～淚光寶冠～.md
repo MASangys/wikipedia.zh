@@ -94,14 +94,6 @@
 
 ## 外部連結
 
-[召喚夜響曲 X ～TEARS CROWN～
-官方網站](http://www.summonnight.net/snworld/snx/index.html)
+[召喚夜響曲 X ～TEARS CROWN～ 官方網站](http://www.summonnight.net/snworld/snx/index.html)
 
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink")
-[Category:召喚夜響曲系列](https://zh.wikipedia.org/wiki/Category:召喚夜響曲系列 "wikilink")
-[Category:王子主角題材作品](https://zh.wikipedia.org/wiki/Category:王子主角題材作品 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
-[Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
+[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:召喚夜響曲系列](https://zh.wikipedia.org/wiki/Category:召喚夜響曲系列 "wikilink") [Category:王子主角題材作品](https://zh.wikipedia.org/wiki/Category:王子主角題材作品 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")

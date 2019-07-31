@@ -8,8 +8,4 @@
 
 ## 專輯派台歌曲成績
 
-[Category:周麗淇音樂專輯](https://zh.wikipedia.org/wiki/Category:周麗淇音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:2006年迷你專輯](https://zh.wikipedia.org/wiki/Category:2006年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:周麗淇音樂專輯](https://zh.wikipedia.org/wiki/Category:周麗淇音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:2006年迷你專輯](https://zh.wikipedia.org/wiki/Category:2006年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

@@ -16,7 +16,4 @@
 
   - **[珊农·露茜德](../Page/珊农·露茜德.md "wikilink")**（，曾执行、、、以及任务），任务专家
 
-[Category:1996年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1996年佛罗里达州 "wikilink")
-[Category:1996年科学](https://zh.wikipedia.org/wiki/Category:1996年科学 "wikilink")
-[Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink")
-[Category:1996年9月](https://zh.wikipedia.org/wiki/Category:1996年9月 "wikilink")
+[Category:1996年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1996年佛罗里达州 "wikilink") [Category:1996年科学](https://zh.wikipedia.org/wiki/Category:1996年科学 "wikilink") [Category:亚特兰蒂斯号航天飞机任务](https://zh.wikipedia.org/wiki/Category:亚特兰蒂斯号航天飞机任务 "wikilink") [Category:1996年9月](https://zh.wikipedia.org/wiki/Category:1996年9月 "wikilink")

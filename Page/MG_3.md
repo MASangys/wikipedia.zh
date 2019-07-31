@@ -8,8 +8,7 @@ MG 3从2008年开始由位于南京浦口的工厂进行生产。
 
 ## 参考资料
 
-[Category:MG車輛](https://zh.wikipedia.org/wiki/Category:MG車輛 "wikilink")
-[Category:緊湊型轎車](https://zh.wikipedia.org/wiki/Category:緊湊型轎車 "wikilink")
+[Category:MG車輛](https://zh.wikipedia.org/wiki/Category:MG車輛 "wikilink") [Category:緊湊型轎車](https://zh.wikipedia.org/wiki/Category:緊湊型轎車 "wikilink")
 
 1.  <http://price.pcauto.com.cn/serial.jsp?sid=3157>
 2.  <http://www.saicmg.com/mg3sw/index.html>

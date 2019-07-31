@@ -4,8 +4,7 @@
 
 《小朋友齊打交Online》是《[小朋友齊打交2](https://zh.wikipedia.org/wiki/小朋友齊打交2 "wikilink")》的續作，於2004年10月22日開始推出，2016年1月27日結束營運。
 
-遊戲模式共分「故事模式」、「任務模式」、「對戰模式」三種。故事模式呈現主線劇情；任務模式則以補齊主線空白或刻劃角色過去的外傳式劇情為主；對戰模式設有多種場地，玩家可自行挑選電腦操縱的角色作為對手，也能邀請其他玩家切磋\[1\]。它共有四個遊戲篇章：合體戰神篇、邪魔亂世篇、超級元力篇、最強武者篇、摩摩星人篇、撒旦降臨篇及勇闖魔界篇\[2\]。其後亦推出「LFO
-線上漫畫」服務\[3\]。
+遊戲模式共分「故事模式」、「任務模式」、「對戰模式」三種。故事模式呈現主線劇情；任務模式則以補齊主線空白或刻劃角色過去的外傳式劇情為主；對戰模式設有多種場地，玩家可自行挑選電腦操縱的角色作為對手，也能邀請其他玩家切磋\[1\]。它共有四個遊戲篇章：合體戰神篇、邪魔亂世篇、超級元力篇、最強武者篇、摩摩星人篇、撒旦降臨篇及勇闖魔界篇\[2\]。其後亦推出「LFO 線上漫畫」服務\[3\]。
 
 當角色習得招式後每使用一次便會計算經驗值，進而提升其使用效果。遊戲具有類似常見的寵物系統，稱為摩摩星朋友系統。擁有摩摩星朋友之後可培訓其共同戰鬥，並可藉裝備衣飾使他們擁有不同功能及外觀。
 
@@ -49,13 +48,8 @@
   - [LFO官方網頁(已失效)](http://www.littlefighteronline.com/hk/main_tc.php)
   - [《LFO資料博物館》](https://sites.google.com/site/lfostory/)
 
-[Category:小朋友齊打交系列](https://zh.wikipedia.org/wiki/Category:小朋友齊打交系列 "wikilink")
-[Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
-[Category:动作游戏](https://zh.wikipedia.org/wiki/Category:动作游戏 "wikilink")
+[Category:小朋友齊打交系列](https://zh.wikipedia.org/wiki/Category:小朋友齊打交系列 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:动作游戏](https://zh.wikipedia.org/wiki/Category:动作游戏 "wikilink")
 
-1.  [《小朋友齊打交 Online》8 月 10
-    日台灣封測開跑](https://gnn.gamer.com.tw/6/24296.html)，[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")，2006年8月9日
-2.  [《LFO 小朋友齊打交》3.0
-    版最終結局「飛行要塞」現身](http://game.sina.com.tw/game_data/news/content/1/2/2007-10-24/news_10428.shtml)，[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink")，2007年10月24日
-3.  [《小朋友齊打交
-    Online》線上漫畫免費看](https://gnn.gamer.com.tw/9/25369.html)，巴哈姆特電玩資訊站，2006年12月8日
+1.  [《小朋友齊打交 Online》8 月 10 日台灣封測開跑](https://gnn.gamer.com.tw/6/24296.html)，[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")，2006年8月9日
+2.  [《LFO 小朋友齊打交》3.0 版最終結局「飛行要塞」現身](http://game.sina.com.tw/game_data/news/content/1/2/2007-10-24/news_10428.shtml)，[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink")，2007年10月24日
+3.  [《小朋友齊打交 Online》線上漫畫免費看](https://gnn.gamer.com.tw/9/25369.html)，巴哈姆特電玩資訊站，2006年12月8日

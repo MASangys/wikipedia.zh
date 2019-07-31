@@ -1,24 +1,17 @@
-**FunOrb**
-是一個以[Java為遊戲引擎的網頁遊戲平台](../Page/Java.md "wikilink")，開發公司為[Jagex](../Page/Jagex.md "wikilink")
-Ltd.。
-FunOrb的遊戲類型與[Runescape略為不同](https://zh.wikipedia.org/wiki/Runescape "wikilink")，前者為小型遊戲而後者則為[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人在線角色扮演遊戲 "wikilink")。現時Funorb總共有4個版本，分別是[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[法文及](https://zh.wikipedia.org/wiki/法文 "wikilink")[葡萄牙文](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")。於2009年12月3日，Jagex推出了第一款[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，Bouncedown，予[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
-touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。
+**FunOrb** 是一個以[Java](../Page/Java.md "wikilink")為遊戲引擎的網頁遊戲平台，開發公司為[Jagex](../Page/Jagex.md "wikilink") Ltd.。 FunOrb的遊戲類型與[Runescape略為不同](https://zh.wikipedia.org/wiki/Runescape "wikilink")，前者為小型遊戲而後者則為[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人在線角色扮演遊戲 "wikilink")。現時Funorb總共有4個版本，分別是[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[法文及](https://zh.wikipedia.org/wiki/法文 "wikilink")[葡萄牙文](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")。於2009年12月3日，Jagex推出了第一款[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，Bouncedown，予[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。
 
 ## 基本
 
 Funorb每約兩周更新一次\[1\]，包括增加遊戲或更新網站。
 
-如玩家能夠在遊戲內，達到特定的分數或完成特定的挑戰（即是Achievements 或"成就"），便會獲得一些小獎座。玩家亦會得到"Orb
-Coins" 及 "Orb Points" 以作獎勵。擁有足夠的"Orb Coins"，玩家可以在"Orb
-downloads"裡下載桌布、遊戲音樂及圖示等。"Orb Points"則用以比較玩家們在各遊戲的實力。
+如玩家能夠在遊戲內，達到特定的分數或完成特定的挑戰（即是Achievements 或"成就"），便會獲得一些小獎座。玩家亦會得到"Orb Coins" 及 "Orb Points" 以作獎勵。擁有足夠的"Orb Coins"，玩家可以在"Orb downloads"裡下載桌布、遊戲音樂及圖示等。"Orb Points"則用以比較玩家們在各遊戲的實力。
 
 ## 付費會員
 
 **收費**（$ 為美金）
 
   - £2/$3／€2.50
-  - £1.40/$2／€2（持有[Runescape](https://zh.wikipedia.org/wiki/Runescape "wikilink")
-    membership\[2\]）只需每月繳付以上的費用便能夠成為會員
+  - £1.40/$2／€2（持有[Runescape](https://zh.wikipedia.org/wiki/Runescape "wikilink") membership\[2\]）只需每月繳付以上的費用便能夠成為會員
 
 **付費會員的好處**
 
@@ -29,8 +22,7 @@ downloads"裡下載桌布、遊戲音樂及圖示等。"Orb Points"則用以比�
 
 ## 遊戲
 
-[Torquing.jpg](https://zh.wikipedia.org/wiki/File:Torquing.jpg "fig:Torquing.jpg")
-[Starcannon.jpg](https://zh.wikipedia.org/wiki/File:Starcannon.jpg "fig:Starcannon.jpg")
+[Torquing.jpg](https://zh.wikipedia.org/wiki/File:Torquing.jpg "fig:Torquing.jpg") [Starcannon.jpg](https://zh.wikipedia.org/wiki/File:Starcannon.jpg "fig:Starcannon.jpg")
 
 現時共有39個遊戲：
 
@@ -97,8 +89,7 @@ downloads"裡下載桌布、遊戲音樂及圖示等。"Orb Points"則用以比�
 
   - [FunOrb](http://www.funorb.com)
   - [Jagex](http://www.jagex.com)
-  - [FunOrb at
-    Facebook](http://www.facebook.com/pages/FunOrb-Games/97187290522)
+  - [FunOrb at Facebook](http://www.facebook.com/pages/FunOrb-Games/97187290522)
 
 <!-- end list -->
 
@@ -110,10 +101,8 @@ downloads"裡下載桌布、遊戲音樂及圖示等。"Orb Points"則用以比�
   - [*FunOrb* Wikia German](http://de.funorb.wikia.com/wiki/FunOrb_Wiki)
   - [*FunOrb* Wikia French](http://fr.funorb.wikia.com/wiki/FunOrb_Wiki)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
 
-1.  [Next-Gen
-    Biz](http://www.next-gen.biz/index.php?option=com_content&task=view&id=8858&Itemid=50&limit=1&limitstart=1)
+1.  [Next-Gen Biz](http://www.next-gen.biz/index.php?option=com_content&task=view&id=8858&Itemid=50&limit=1&limitstart=1)
 2.  <http://funorb.com> FunOrb.com
 3.

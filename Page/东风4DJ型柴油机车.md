@@ -10,8 +10,7 @@
 
 ### 研制
 
-1999年4月1日，大连机车车辆厂与[德国](../Page/德国.md "wikilink")[西门子交通集团签订技术合作协议](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")，决定以[东风4D型机车为基础](../Page/东风4D型柴油机车.md "wikilink")，共同开发和试制两台新型交流传动柴油机车，称为东风4DAC型。东风4DAC型机车应用了西门子公司提供的交流传动技术，将“[欧洲短跑手](../Page/EuroSprinter.md "wikilink")”（EuroSprinter）系列[ES64F型电力机车](../Page/ES64F型电力机车.md "wikilink")（德国铁路152型电力机车）所采用的[IGBT模块移植到东风](../Page/絕緣柵雙極晶體管.md "wikilink")4DAC型机车的牵引逆变器\[2\]。由于该型机车属于试验性质，主要目的为验证交流传动技术相比直流传动技术的优越性，因此机车除传动系统以外的部分尽量保持与东风4D型机车相同，以获得更具比较性的测试数据\[3\]。根据合同规定，大连机车车辆厂负责总体设计，提供机车车体、机械装置、[转向架及](https://zh.wikipedia.org/wiki/转向架 "wikilink")16V240ZJD型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")；主发电机由[永济电机厂根据西门子的技术要求设计制造](https://zh.wikipedia.org/wiki/永济电机厂 "wikilink")；西门子提供机车使用的1TB2630型交流异步牵引电动机、IGBT元件牵引逆变器、交流辅助发电机以及“SIBAS
-32”微机控制系统等部件。
+1999年4月1日，大连机车车辆厂与[德国](../Page/德国.md "wikilink")[西门子交通集团签订技术合作协议](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")，决定以[东风4D型机车为基础](../Page/东风4D型柴油机车.md "wikilink")，共同开发和试制两台新型交流传动柴油机车，称为东风4DAC型。东风4DAC型机车应用了西门子公司提供的交流传动技术，将“[欧洲短跑手](../Page/EuroSprinter.md "wikilink")”（EuroSprinter）系列[ES64F型电力机车](../Page/ES64F型电力机车.md "wikilink")（德国铁路152型电力机车）所采用的[IGBT模块移植到东风](../Page/絕緣柵雙極晶體管.md "wikilink")4DAC型机车的牵引逆变器\[2\]。由于该型机车属于试验性质，主要目的为验证交流传动技术相比直流传动技术的优越性，因此机车除传动系统以外的部分尽量保持与东风4D型机车相同，以获得更具比较性的测试数据\[3\]。根据合同规定，大连机车车辆厂负责总体设计，提供机车车体、机械装置、[转向架及](https://zh.wikipedia.org/wiki/转向架 "wikilink")16V240ZJD型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")；主发电机由[永济电机厂根据西门子的技术要求设计制造](https://zh.wikipedia.org/wiki/永济电机厂 "wikilink")；西门子提供机车使用的1TB2630型交流异步牵引电动机、IGBT元件牵引逆变器、交流辅助发电机以及“SIBAS 32”微机控制系统等部件。
 
 1999年7月，机车技术设计方案通过大连厂厂内设计评审，并开始进行施工设计；2000年2月进入总组装阶段；同年4月至5月，机车在大连厂内进行出厂前的静态和动态调试。2000年6月28日，首台东风4DAC型机车（DF4DAC-8001）在大连厂举行了落成剪彩仪式\[4\]\[5\]。2000年6月，大连厂又完成了第二台机车（DF4DAC-8002）的组装。同年年内，中国铁道部正式将这种机车定型为东风4DJ型，两台机车车号分别改为0001、0002\[6\]。
 
@@ -42,9 +41,7 @@
 
 ### 控制系统
 
-东风4DJ型机车采用两种微机控制系统，柴油机车控制微机（DLC）用于控制柴油机调速、辅助发电机电压调整及有关的保护装置；机车并装载了西门子公司开发的“SIBAS
-32”车载微机系统，是以[-{zh-hans:32位;
-zh-hant:32位元}-的](../Page/32位元.md "wikilink")[英特尔](../Page/英特尔.md "wikilink")[80386](https://zh.wikipedia.org/wiki/80386 "wikilink")[微处理器](../Page/微处理器.md "wikilink")为基础的牵引控制单元（TCU），具有逆变器变频控制、牵引功率控制、电阻制动控制等功能。此外，司机操纵台上并设有一台彩色[液晶显示屏](https://zh.wikipedia.org/wiki/液晶显示屏 "wikilink")，通过[列车通讯网络](https://zh.wikipedia.org/wiki/列车通讯网络 "wikilink")（TCN）的多功能车辆总线（MVB）与TCU连接，直接显示机车运行状态和故障诊断信息\[10\]。
+东风4DJ型机车采用两种微机控制系统，柴油机车控制微机（DLC）用于控制柴油机调速、辅助发电机电压调整及有关的保护装置；机车并装载了西门子公司开发的“SIBAS 32”车载微机系统，是以[-{zh-hans:32位; zh-hant:32位元}-的](../Page/32位元.md "wikilink")[英特尔](../Page/英特尔.md "wikilink")[80386](https://zh.wikipedia.org/wiki/80386 "wikilink")[微处理器](../Page/微处理器.md "wikilink")为基础的牵引控制单元（TCU），具有逆变器变频控制、牵引功率控制、电阻制动控制等功能。此外，司机操纵台上并设有一台彩色[液晶显示屏](https://zh.wikipedia.org/wiki/液晶显示屏 "wikilink")，通过[列车通讯网络](https://zh.wikipedia.org/wiki/列车通讯网络 "wikilink")（TCN）的多功能车辆总线（MVB）与TCU连接，直接显示机车运行状态和故障诊断信息\[10\]。
 
 ### 转向架
 
@@ -68,13 +65,9 @@ zh-hant:32位元}-的](../Page/32位元.md "wikilink")[英特尔](../Page/英特
 
   - [中国北车股份有限公司：东风4DJ型交流传动内燃机车](https://web.archive.org/web/20160304185442/http://www.chinacnr.com/p325.aspx?ProductID=287&ParentID=6)
 
-  - [Siemens: Locomotives Reference
-    list](https://web.archive.org/web/20120710235158/http://www.mobility.siemens.com/mobility/global/Documents/en/rail-solutions/locomotives/reference-list-en.pdf)
+  - [Siemens: Locomotives Reference list](https://web.archive.org/web/20120710235158/http://www.mobility.siemens.com/mobility/global/Documents/en/rail-solutions/locomotives/reference-list-en.pdf)
 
-[Category:中车大连制铁路机车](https://zh.wikipedia.org/wiki/Category:中车大连制铁路机车 "wikilink")
-[Category:西门子制铁路机车](https://zh.wikipedia.org/wiki/Category:西门子制铁路机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
-[Category:东风型柴油机车](https://zh.wikipedia.org/wiki/Category:东风型柴油机车 "wikilink")
+[Category:中车大连制铁路机车](https://zh.wikipedia.org/wiki/Category:中车大连制铁路机车 "wikilink") [Category:西门子制铁路机车](https://zh.wikipedia.org/wiki/Category:西门子制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:东风型柴油机车](https://zh.wikipedia.org/wiki/Category:东风型柴油机车 "wikilink")
 
 1.
 

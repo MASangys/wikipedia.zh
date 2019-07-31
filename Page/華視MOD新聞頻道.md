@@ -8,10 +8,6 @@
 
   - [華視MOD新聞頻道節目表](http://www.cts.com.tw/schedule/?ch=mod)
 
-[Category:華視新聞](https://zh.wikipedia.org/wiki/Category:華視新聞 "wikilink")
-[Category:台灣公廣旗下頻道](https://zh.wikipedia.org/wiki/Category:台灣公廣旗下頻道 "wikilink")
-[Category:2008年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2008年成立的电视台或电视频道 "wikilink")
-[Category:2012年停播的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2012年停播的電視台或電視頻道 "wikilink")
+[Category:華視新聞](https://zh.wikipedia.org/wiki/Category:華視新聞 "wikilink") [Category:台灣公廣旗下頻道](https://zh.wikipedia.org/wiki/Category:台灣公廣旗下頻道 "wikilink") [Category:2008年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2008年成立的电视台或电视频道 "wikilink") [Category:2012年停播的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2012年停播的電視台或電視頻道 "wikilink")
 
-1.  [中華民國電視學會](../Page/中華民國電視學會.md "wikilink")無線電視年鑑編纂委員
-    編纂，《[中華民國無線電視年鑑第十六輯](https://zh.wikipedia.org/wiki/中華民國無線電視年鑑 "wikilink")：民國九十七年至九十八年》，中華民國電視學會2010年6月30日-{出}-版，第156頁。
+1.  [中華民國電視學會](../Page/中華民國電視學會.md "wikilink")無線電視年鑑編纂委員 編纂，《[中華民國無線電視年鑑第十六輯](https://zh.wikipedia.org/wiki/中華民國無線電視年鑑 "wikilink")：民國九十七年至九十八年》，中華民國電視學會2010年6月30日-{出}-版，第156頁。

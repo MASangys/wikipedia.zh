@@ -1,11 +1,6 @@
 本列表統計的是**國家籃球協會（[NBA](../Page/NBA.md "wikilink")）球員個人職業生涯[常規賽得分總和](https://zh.wikipedia.org/wiki/NBA常規賽 "wikilink")**，NBA球員在其它聯賽（如[ABA](https://zh.wikipedia.org/wiki/ABA "wikilink")）中的數據並不包括在內。所有数据\[1\]都是截至到2019年4月10日。
 
-[Kareem-Abdul-Jabbar_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Kareem-Abdul-Jabbar_Lipofsky.jpg "fig:Kareem-Abdul-Jabbar_Lipofsky.jpg")\]\]
-[Lipofsky-Karl-Malone-32727.jpg](https://zh.wikipedia.org/wiki/File:Lipofsky-Karl-Malone-32727.jpg "fig:Lipofsky-Karl-Malone-32727.jpg")\]\]
-[Kobe_Bryant_Drives2.jpg](https://zh.wikipedia.org/wiki/File:Kobe_Bryant_Drives2.jpg "fig:Kobe_Bryant_Drives2.jpg")\]\]
-[_Lebron_James.jpg](https://zh.wikipedia.org/wiki/File:_Lebron_James.jpg "fig:_Lebron_James.jpg")\]\]
-[Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")\]\]
-[DirkNowitzki.jpg](https://zh.wikipedia.org/wiki/File:DirkNowitzki.jpg "fig:DirkNowitzki.jpg")\]\]
+[Kareem-Abdul-Jabbar_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Kareem-Abdul-Jabbar_Lipofsky.jpg "fig:Kareem-Abdul-Jabbar_Lipofsky.jpg")\]\] [Lipofsky-Karl-Malone-32727.jpg](https://zh.wikipedia.org/wiki/File:Lipofsky-Karl-Malone-32727.jpg "fig:Lipofsky-Karl-Malone-32727.jpg")\]\] [Kobe_Bryant_Drives2.jpg](https://zh.wikipedia.org/wiki/File:Kobe_Bryant_Drives2.jpg "fig:Kobe_Bryant_Drives2.jpg")\]\] [_Lebron_James.jpg](https://zh.wikipedia.org/wiki/File:_Lebron_James.jpg "fig:_Lebron_James.jpg")\]\] [Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")\]\] [DirkNowitzki.jpg](https://zh.wikipedia.org/wiki/File:DirkNowitzki.jpg "fig:DirkNowitzki.jpg")\]\]
 
 ## 生涯總得分表
 
@@ -25,7 +20,7 @@
 <th><p>總得分</p></th>
 <th><p>比赛场次</p></th>
 <th><p>投籃命中</p></th>
-<th><p><a href="../Page/三分球.md" title="wikilink">三分球命中</a></p></th>
+<th><p><a href="../Page/三分球.md" title="wikilink">三分球</a>命中</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/罰球_(籃球)" title="wikilink">罰球命中</a></p></th>
 <th><p>平均得分</p></th>
 <th><p>入選[3]名人堂</p></th>
@@ -559,7 +554,27 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
-<td><p><strong><a href="../Page/埃尔金·贝勒.md" title="wikilink">埃尔金·贝勒*</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/德文·韦德" title="wikilink">德文·韦德</a>^</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/得分後衛" title="wikilink">得分後衛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邁阿密熱火" title="wikilink">邁阿密熱火</a><br />
+（<a href="https://zh.wikipedia.org/wiki/2003-04_NBA賽季" title="wikilink">2003-04</a>--<a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16</a>）<br />
+<a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><br />
+（<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>）<br />
+<a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a><br />
+（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/邁阿密熱火" title="wikilink">邁阿密熱火</a><br />
+（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>—<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>）</p></td>
+<td><p><font color="#007FFF"><strong>23,165</strong></font></p></td>
+<td><p>1054</p></td>
+<td><p>8,454</p></td>
+<td><p>549</p></td>
+<td><p>5,708</p></td>
+<td><p><font color="#007FFF"><strong>22</strong></font></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p><strong><a href="../Page/埃尔金·贝勒.md" title="wikilink">埃尔金·贝勒</a>*</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大前鋒" title="wikilink">大前鋒</a><br />
 <a href="https://zh.wikipedia.org/wiki/小前鋒" title="wikilink">小前鋒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a><br />
@@ -571,26 +586,6 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 <td><p>5,763</p></td>
 <td><p><font color="#007FFF"> <strong>27.4</strong></font></p></td>
 <td><p>1977年</p></td>
-</tr>
-<tr class="even">
-<td><p>30</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/德文·韦德" title="wikilink">德文·韦德</a>^</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/得分後衛" title="wikilink">得分後衛</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/邁阿密熱火" title="wikilink">邁阿密熱火</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2003-04_NBA賽季" title="wikilink">2003-04</a>--<a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16</a>）<br />
-<a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>）<br />
-<a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a><br />
-（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/邁阿密熱火" title="wikilink">邁阿密熱火</a><br />
-（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>—<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>）</p></td>
-<td><p><font color="#007FFF"><strong>23,048</strong></font></p></td>
-<td><p>1054</p></td>
-<td><p>8,454</p></td>
-<td><p>549</p></td>
-<td><p>5,708</p></td>
-<td><p><font color="#007FFF"><strong>22</strong></font></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
@@ -700,20 +695,6 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
-<td><p><strong><a href="../Page/鲍勃·佩蒂特.md" title="wikilink">鲍勃·佩蒂特</a>*</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大前鋒" title="wikilink">大前鋒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聖路易老鷹" title="wikilink">聖路易老鷹</a><br />
-（<a href="https://zh.wikipedia.org/wiki/1954-55_NBA賽季" title="wikilink">1954-55</a>--<a href="../Page/1964-65_NBA賽季.md" title="wikilink">1964-65</a>[30]）</p></td>
-<td><p><font color="#007FFF"><strong>20,880</strong></font></p></td>
-<td><p>792</p></td>
-<td><p>7,349</p></td>
-<td><p>0</p></td>
-<td><p>6,182</p></td>
-<td><p><font color="#007FFF"><strong>26.4</strong></font ></p></td>
-<td><p>1971年</p></td>
-</tr>
-<tr class="even">
-<td><p>38</p></td>
 <td><p><strong><a href="../Page/保罗·加索尔.md" title="wikilink">保罗·加索尔</a>^</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大前锋" title="wikilink">大前锋</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曼菲斯灰熊" title="wikilink">曼菲斯灰熊</a><br />
@@ -733,6 +714,20 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 <td><p>4,755</p></td>
 <td><p><font color="#007FFF"><strong>17.0</strong></p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p><strong><a href="../Page/鲍勃·佩蒂特.md" title="wikilink">鲍勃·佩蒂特</a>*</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大前鋒" title="wikilink">大前鋒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖路易老鷹" title="wikilink">聖路易老鷹</a><br />
+（<a href="https://zh.wikipedia.org/wiki/1954-55_NBA賽季" title="wikilink">1954-55</a>--<a href="../Page/1964-65_NBA賽季.md" title="wikilink">1964-65</a>[30]）</p></td>
+<td><p><font color="#007FFF"><strong>20,880</strong></font></p></td>
+<td><p>792</p></td>
+<td><p>7,349</p></td>
+<td><p>0</p></td>
+<td><p>6,182</p></td>
+<td><p><font color="#007FFF"><strong>26.4</strong></font ></p></td>
+<td><p>1971年</p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
@@ -1003,8 +998,7 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 本列表统计的是国家篮球协会（NBA）常规赛总得分纪录、单季得分纪录随赛季的递增情况\[36\]。
 
   -
-    *数据截至[2016–17 NBA
-    season](https://zh.wikipedia.org/wiki/2016–17_NBA_season "wikilink").*
+    *数据截至[2016–17 NBA season](https://zh.wikipedia.org/wiki/2016–17_NBA_season "wikilink").*
 
 |    |                                                                                                                                   |
 | -- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1950,21 +1944,14 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 
 ## 數據來源
 
-  - [Basketball-Reference.com Career Leaders for
-    Points](http://www.basketball-reference.com/leaders/PTS_career.html)
-  - [Basketball-Reference.com Career Leaders for Points Per
-    Game](http://www.basketball-reference.com/leaders/PPG_career.html)
+  - [Basketball-Reference.com Career Leaders for Points](http://www.basketball-reference.com/leaders/PTS_career.html)
+  - [Basketball-Reference.com Career Leaders for Points Per Game](http://www.basketball-reference.com/leaders/PPG_career.html)
 
 [Category:NBA數據統計](https://zh.wikipedia.org/wiki/Category:NBA數據統計 "wikilink")
 
 1.
 
-2.  A player is not eligible for induction into the [Naismith Memorial
-    Basketball Hall of
-    Fame](https://zh.wikipedia.org/wiki/Naismith_Memorial_Basketball_Hall_of_Fame "wikilink")
-    until he has been fully retired for four calendar years (reduced
-    from five in 2015); player was not eligible for induction upon the
-    commencement of the  NBA season.
+2.  A player is not eligible for induction into the [Naismith Memorial Basketball Hall of Fame](https://zh.wikipedia.org/wiki/Naismith_Memorial_Basketball_Hall_of_Fame "wikilink") until he has been fully retired for four calendar years (reduced from five in 2015); player was not eligible for induction upon the commencement of the  NBA season.
 
 3.  球員必需正式退役滿五年才有資格入選[美國籃球名人堂](../Page/奈史密斯篮球名人纪念堂.md "wikilink")。
 
@@ -1972,10 +1959,9 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 5.
 6.  [麥可·喬丹曾在](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")[1992-93賽季結束後退役](https://zh.wikipedia.org/wiki/1992-93_NBA賽季 "wikilink")，然後在[1995年](https://zh.wikipedia.org/wiki/1994-95_NBA賽季 "wikilink")3月18日復出。
 
-7.  [麥可·喬丹是](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")[NBA歷史上每場平均得分最高的球員](../Page/NBA.md "wikilink")，為30.12分，[威爾特·張伯倫是](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")30.07分。
+7.  [麥可·喬丹是](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")[NBA](../Page/NBA.md "wikilink")歷史上每場平均得分最高的球員，為30.12分，[威爾特·張伯倫是](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")30.07分。
 
-8.  [費城勇士於](https://zh.wikipedia.org/wiki/費城勇士 "wikilink")[1962-63賽季搬到](../Page/1962-63_NBA賽季.md "wikilink")[舊金山並改名為金州勇士](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。[1964-65
-    NBA賽季中途](../Page/1964-65_NBA賽季.md "wikilink")[威爾特·張伯倫被交換到](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")[費城76人](https://zh.wikipedia.org/wiki/費城76人 "wikilink")。
+8.  [費城勇士於](https://zh.wikipedia.org/wiki/費城勇士 "wikilink")[1962-63賽季搬到](../Page/1962-63_NBA賽季.md "wikilink")[舊金山並改名為金州勇士](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。[1964-65 NBA賽季中途](../Page/1964-65_NBA賽季.md "wikilink")[威爾特·張伯倫被交換到](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")[費城76人](https://zh.wikipedia.org/wiki/費城76人 "wikilink")。
 
 9.
 10. [2007-08賽季中途](https://zh.wikipedia.org/wiki/2007-08_NBA賽季 "wikilink")[俠客·歐尼爾被交換到](https://zh.wikipedia.org/wiki/俠客·歐尼爾 "wikilink")[鳳凰城太陽](https://zh.wikipedia.org/wiki/鳳凰城太陽 "wikilink")
@@ -1994,11 +1980,11 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 
 18.
 19.
-20. [2006-07賽季中途](https://zh.wikipedia.org/wiki/2006-07_NBA賽季 "wikilink")[艾倫·艾佛森被交換到](../Page/艾倫·艾佛森.md "wikilink")[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")。
+20. [2006-07賽季中途](https://zh.wikipedia.org/wiki/2006-07_NBA賽季 "wikilink")[艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")被交換到[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")。
 
-21. [2008-09賽季中途](https://zh.wikipedia.org/wiki/2008-09_NBA賽季 "wikilink")[艾倫·艾佛森被交換到](../Page/艾倫·艾佛森.md "wikilink")[底特律活塞](../Page/底特律活塞.md "wikilink")。
+21. [2008-09賽季中途](https://zh.wikipedia.org/wiki/2008-09_NBA賽季 "wikilink")[艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")被交換到[底特律活塞](../Page/底特律活塞.md "wikilink")。
 
-22. [1977-78賽季中途](https://zh.wikipedia.org/wiki/1977-78_NBA賽季 "wikilink")[阿德里安·丹特利被交換到](../Page/阿德里安·丹特利.md "wikilink")[印第安那溜馬](https://zh.wikipedia.org/wiki/印第安那溜馬 "wikilink")。
+22. [1977-78賽季中途](https://zh.wikipedia.org/wiki/1977-78_NBA賽季 "wikilink")[阿德里安·丹特利](../Page/阿德里安·丹特利.md "wikilink")被交換到[印第安那溜馬](https://zh.wikipedia.org/wiki/印第安那溜馬 "wikilink")。
 
 23. [1988-89賽季中途丹特利被交換到](https://zh.wikipedia.org/wiki/1988-89_NBA賽季 "wikilink")[達拉斯小牛](https://zh.wikipedia.org/wiki/達拉斯小牛 "wikilink")。
 
@@ -2023,7 +2009,7 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 
 34. [1990-91賽季中途](https://zh.wikipedia.org/wiki/1990-91_NBA賽季 "wikilink")[沃爾特·戴維斯被交換到](https://zh.wikipedia.org/wiki/沃爾特·戴維斯 "wikilink")[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")。
 
-35. [1997-98賽季中途](https://zh.wikipedia.org/wiki/1997-98_NBA賽季 "wikilink")[特里·卡明斯被交換到](../Page/特里·卡明斯.md "wikilink")[纽约尼克斯](https://zh.wikipedia.org/wiki/纽约尼克斯 "wikilink")。
+35. [1997-98賽季中途](https://zh.wikipedia.org/wiki/1997-98_NBA賽季 "wikilink")[特里·卡明斯](../Page/特里·卡明斯.md "wikilink")被交換到[纽约尼克斯](https://zh.wikipedia.org/wiki/纽约尼克斯 "wikilink")。
 
 36.
 

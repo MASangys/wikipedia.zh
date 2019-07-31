@@ -4,7 +4,6 @@
 
 ## 参考资料
 
-[Category:烃](https://zh.wikipedia.org/wiki/Category:烃 "wikilink")
-[Category:反芳香化合物](https://zh.wikipedia.org/wiki/Category:反芳香化合物 "wikilink")
+[Category:烃](https://zh.wikipedia.org/wiki/Category:烃 "wikilink") [Category:反芳香化合物](https://zh.wikipedia.org/wiki/Category:反芳香化合物 "wikilink")
 
 1.

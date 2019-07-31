@@ -355,5 +355,4 @@
   - [中国足球甲级联赛](https://zh.wikipedia.org/wiki/中国足球甲级联赛 "wikilink")
   - [中国足球甲级A组联赛](../Page/中国足球甲级A组联赛.md "wikilink")
 
-[Category:中国足球赛事](https://zh.wikipedia.org/wiki/Category:中国足球赛事 "wikilink")
-[Category:中國足球甲B聯賽](https://zh.wikipedia.org/wiki/Category:中國足球甲B聯賽 "wikilink")
+[Category:中国足球赛事](https://zh.wikipedia.org/wiki/Category:中国足球赛事 "wikilink") [Category:中國足球甲B聯賽](https://zh.wikipedia.org/wiki/Category:中國足球甲B聯賽 "wikilink")

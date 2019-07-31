@@ -1,7 +1,4 @@
-**Btrfs**（B-tree檔案系統，通常念成**Butter FS**，**Better FS**或**B-tree
-FS**），一種支持[寫入時複製](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")（COW）的文件系统，運行在Linux作業系統，採用[GPL授權](https://zh.wikipedia.org/wiki/GPL "wikilink")。[Oracle于](https://zh.wikipedia.org/wiki/Oracle "wikilink")2007年對外宣布這項計劃，並釋出原始碼，在2014年8月釋出穩定版。目标是取代[Linux](../Page/Linux.md "wikilink")目前的[ext3文件系统](https://zh.wikipedia.org/wiki/ext3 "wikilink")，改善ext3的限制，特別是单个文件的大小，总文件系统大小或文件检查和加入ext3未支持的功能，像是可写快照（writable
-snapshots）、快照的快照（snapshots of
-snapshots）、内建磁盘阵列（RAID），以及子卷（subvolumes）。Btrfs也宣称专注在“容错、修复及易于管理”。
+**Btrfs**（B-tree檔案系統，通常念成**Butter FS**，**Better FS**或**B-tree FS**），一種支持[寫入時複製](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")（COW）的文件系统，運行在Linux作業系統，採用[GPL授權](https://zh.wikipedia.org/wiki/GPL "wikilink")。[Oracle于](https://zh.wikipedia.org/wiki/Oracle "wikilink")2007年對外宣布這項計劃，並釋出原始碼，在2014年8月釋出穩定版。目标是取代[Linux](../Page/Linux.md "wikilink")目前的[ext3文件系统](https://zh.wikipedia.org/wiki/ext3 "wikilink")，改善ext3的限制，特別是单个文件的大小，总文件系统大小或文件检查和加入ext3未支持的功能，像是可写快照（writable snapshots）、快照的快照（snapshots of snapshots）、内建磁盘阵列（RAID），以及子卷（subvolumes）。Btrfs也宣称专注在“容错、修复及易于管理”。
 
 ## 特性
 
@@ -13,8 +10,7 @@ Btrfs，2007年前，已实现
   - 联机负载均衡（块设备间的对象移动以达到平衡）
   - 文件系统级的镜像（类RAID-1）、条带（类RAID-0）
   - 子卷（一个或多个单独可挂载基于每个物流分区）
-  - 透明压缩（目前支持[zlib](https://zh.wikipedia.org/wiki/zlib "wikilink")、[LZO和](https://zh.wikipedia.org/wiki/LZO "wikilink")[ZSTD](https://zh.wikipedia.org/wiki/ZSTD "wikilink")
-    (從 4.14 開始支援)）
+  - 透明压缩（目前支持[zlib](https://zh.wikipedia.org/wiki/zlib "wikilink")、[LZO和](https://zh.wikipedia.org/wiki/LZO "wikilink")[ZSTD](https://zh.wikipedia.org/wiki/ZSTD "wikilink") (從 4.14 開始支援)）
   - 快照（只读和可写，写复制，子卷复制）
   - 文件克隆
   - 数据和元数据的校验和（目前是CRC-32C）
@@ -41,7 +37,4 @@ Btrfs，2007年前，已实现
 
   - [新一代Linux文件系统btrfs简介](http://www.ibm.com/developerworks/cn/linux/l-cn-btrfs/)
 
-[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink")
-[Category:电脑数据](https://zh.wikipedia.org/wiki/Category:电脑数据 "wikilink")
-[Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
-[Category:MeeGo](https://zh.wikipedia.org/wiki/Category:MeeGo "wikilink")
+[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink") [Category:电脑数据](https://zh.wikipedia.org/wiki/Category:电脑数据 "wikilink") [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink") [Category:MeeGo](https://zh.wikipedia.org/wiki/Category:MeeGo "wikilink")

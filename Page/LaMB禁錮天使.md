@@ -1,13 +1,4 @@
-《**LaMB無聲天使**》，是一部[Animax](../Page/Animax.md "wikilink")原創製作的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。[導演是程亮弼](https://zh.wikipedia.org/wiki/導演 "wikilink")。[編劇](../Page/編劇.md "wikilink")是Carmelo
-S. J.
-Juinio，並於2009年3月於全[亞洲播出](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。
-它也是為首個[Animax
-Asia製作的](../Page/Animax_Asia.md "wikilink")[高清動畫](https://zh.wikipedia.org/wiki/高清 "wikilink")。本作品取自2007年[泛亞洲動畫劇本比賽](https://zh.wikipedia.org/wiki/Animax#Animax_.E5.8B.95.E7.95.AB.E5.A4.A7.E7.8D.8E "wikilink")（Animax
-Awards，[臺灣](../Page/臺灣.md "wikilink")稱為Animax動畫大賞）泛亞特別賞之受賞作品，作者為[菲律賓業餘](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[作家Carmelo](https://zh.wikipedia.org/wiki/作家 "wikilink")
-Juinio。[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[簡單計劃](https://zh.wikipedia.org/wiki/簡單計劃 "wikilink")（Simple
-Plan）和[美國樂隊](https://zh.wikipedia.org/wiki/美國 "wikilink")[五次方樂團](https://zh.wikipedia.org/wiki/五次方樂團 "wikilink")（The
-Click Five）將會有兩首不同的[歌曲](../Page/歌曲.md "wikilink")（*I Can Wait
-Forever*和*Summertime*），作為[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主題曲](../Page/主題曲.md "wikilink")。
+《**LaMB無聲天使**》，是一部[Animax](../Page/Animax.md "wikilink")原創製作的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。[導演是程亮弼](https://zh.wikipedia.org/wiki/導演 "wikilink")。[編劇](../Page/編劇.md "wikilink")是Carmelo S. J. Juinio，並於2009年3月於全[亞洲播出](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。 它也是為首個[Animax Asia製作的](../Page/Animax_Asia.md "wikilink")[高清動畫](https://zh.wikipedia.org/wiki/高清 "wikilink")。本作品取自2007年[泛亞洲動畫劇本比賽](https://zh.wikipedia.org/wiki/Animax#Animax_.E5.8B.95.E7.95.AB.E5.A4.A7.E7.8D.8E "wikilink")（Animax Awards，[臺灣](../Page/臺灣.md "wikilink")稱為Animax動畫大賞）泛亞特別賞之受賞作品，作者為[菲律賓業餘](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[作家Carmelo](https://zh.wikipedia.org/wiki/作家 "wikilink") Juinio。[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[簡單計劃](https://zh.wikipedia.org/wiki/簡單計劃 "wikilink")（Simple Plan）和[美國樂隊](https://zh.wikipedia.org/wiki/美國 "wikilink")[五次方樂團](https://zh.wikipedia.org/wiki/五次方樂團 "wikilink")（The Click Five）將會有兩首不同的[歌曲](../Page/歌曲.md "wikilink")（*I Can Wait Forever*和*Summertime*），作為[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主題曲](../Page/主題曲.md "wikilink")。
 
 臺灣及[香港](../Page/香港.md "wikilink")於2009年3月24日起，星期二晚間十點在Animax播出。
 
@@ -17,8 +8,7 @@ Forever*和*Summertime*），作為[動畫的](https://zh.wikipedia.org/wiki/動
 
 ## 劇情簡介
 
-故事講述在環境惡劣的[沙漠](../Page/沙漠.md "wikilink")[星球席諾](https://zh.wikipedia.org/wiki/星球 "wikilink")，當地發明了一種新的[監禁制度](https://zh.wikipedia.org/wiki/監禁 "wikilink")「禁錮計劃」。這種[虛擬的](https://zh.wikipedia.org/wiki/虛擬 "wikilink")[奴隸制度透過特殊囚衣](https://zh.wikipedia.org/wiki/奴隸 "wikilink")「禁錮衣」懲處重罪犯，令他們在喪失[自由](../Page/自由.md "wikilink")的情況下仍能為[社會提供](https://zh.wikipedia.org/wiki/社會 "wikilink")[生產力](https://zh.wikipedia.org/wiki/生產力 "wikilink")。這班重罪犯被稱為「禁錮天使」。「禁錮計劃」令[社會不再需要](https://zh.wikipedia.org/wiki/社會 "wikilink")[監獄](../Page/監獄.md "wikilink")及[死刑](../Page/死刑.md "wikilink")。這個制度同時引發爭議，席諾的市民對禁錮計劃是否道德並未達成共識。2位主角夏娃（Eve）及傑克·葛斯沃（Jack
-Griswold）對抗「禁錮計劃」無形[監獄](../Page/監獄.md "wikilink")的[制度](../Page/制度.md "wikilink")。夏娃原本是一名[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")，可惜由她帶領的科學[實驗發生](https://zh.wikipedia.org/wiki/實驗 "wikilink")[意外並造成大量人命傷亡](https://zh.wikipedia.org/wiki/意外 "wikilink")，所以被判成為「禁錮天使」。傑克則是一名從其他[星球來訪的](https://zh.wikipedia.org/wiki/星球 "wikilink")[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")，為了忘記已故的[妻子](../Page/妻子.md "wikilink")，拼命把自己沉醉於工作中。輾轉間他無意地被捲入「禁錮天使」和無形監獄的[政治](../Page/政治.md "wikilink")之中，並與夏娃產生一段浪漫的[愛情](../Page/愛情.md "wikilink")。
+故事講述在環境惡劣的[沙漠](../Page/沙漠.md "wikilink")[星球席諾](https://zh.wikipedia.org/wiki/星球 "wikilink")，當地發明了一種新的[監禁制度](https://zh.wikipedia.org/wiki/監禁 "wikilink")「禁錮計劃」。這種[虛擬的](https://zh.wikipedia.org/wiki/虛擬 "wikilink")[奴隸制度透過特殊囚衣](https://zh.wikipedia.org/wiki/奴隸 "wikilink")「禁錮衣」懲處重罪犯，令他們在喪失[自由](../Page/自由.md "wikilink")的情況下仍能為[社會提供](https://zh.wikipedia.org/wiki/社會 "wikilink")[生產力](https://zh.wikipedia.org/wiki/生產力 "wikilink")。這班重罪犯被稱為「禁錮天使」。「禁錮計劃」令[社會不再需要](https://zh.wikipedia.org/wiki/社會 "wikilink")[監獄](../Page/監獄.md "wikilink")及[死刑](../Page/死刑.md "wikilink")。這個制度同時引發爭議，席諾的市民對禁錮計劃是否道德並未達成共識。2位主角夏娃（Eve）及傑克·葛斯沃（Jack Griswold）對抗「禁錮計劃」無形[監獄](../Page/監獄.md "wikilink")的[制度](../Page/制度.md "wikilink")。夏娃原本是一名[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")，可惜由她帶領的科學[實驗發生](https://zh.wikipedia.org/wiki/實驗 "wikilink")[意外並造成大量人命傷亡](https://zh.wikipedia.org/wiki/意外 "wikilink")，所以被判成為「禁錮天使」。傑克則是一名從其他[星球來訪的](https://zh.wikipedia.org/wiki/星球 "wikilink")[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")，為了忘記已故的[妻子](../Page/妻子.md "wikilink")，拼命把自己沉醉於工作中。輾轉間他無意地被捲入「禁錮天使」和無形監獄的[政治](../Page/政治.md "wikilink")之中，並與夏娃產生一段浪漫的[愛情](../Page/愛情.md "wikilink")。
 
 ## 登場人物
 
@@ -78,13 +68,8 @@ Griswold）對抗「禁錮計劃」無形[監獄](../Page/監獄.md "wikilink")�
 
 ## 外部連結
 
-  - \[[http://www.animax-hk.com-{T](http://www.animax-hk.com-%7BT)|}-
-    Animax Hong Kong\]
-  - \[[http://www.animax-taiwan.com-{T](http://www.animax-taiwan.com-%7BT)|}-
-    Animax Taiwan\]
+  - \[[http://www.animax-hk.com-{T](http://www.animax-hk.com-%7BT)|}- Animax Hong Kong\]
+  - \[[http://www.animax-taiwan.com-{T](http://www.animax-taiwan.com-%7BT)|}- Animax Taiwan\]
   - [LaMB](http://www.animax-lamb.com)
 
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink")
-[Category:2000年代科幻片](https://zh.wikipedia.org/wiki/Category:2000年代科幻片 "wikilink")
-[Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink")
+[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink") [Category:2000年代科幻片](https://zh.wikipedia.org/wiki/Category:2000年代科幻片 "wikilink") [Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink")

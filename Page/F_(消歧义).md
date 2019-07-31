@@ -1,5 +1,4 @@
-[F f](../Page/F.md "wikilink"),
-是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第6个[字母](../Page/字母.md "wikilink")，以及[国际音标中表示](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[清唇齿擦音的符号](https://zh.wikipedia.org/wiki/清唇齿擦音 "wikilink")。
+[F f](../Page/F.md "wikilink"), 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第6个[字母](../Page/字母.md "wikilink")，以及[国际音标中表示](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[清唇齿擦音的符号](https://zh.wikipedia.org/wiki/清唇齿擦音 "wikilink")。
 
 除此之外，F还可以指代：
 
@@ -38,14 +37,10 @@
 
 ## 计算机科学
 
-  - [F语言](https://zh.wikipedia.org/wiki/F语言 "wikilink")，Fortran
-    95语言的一个子集
-  - [F
-    Sharp](https://zh.wikipedia.org/wiki/F_Sharp "wikilink")(F\#)，.NET框架平台上的面向对象函数编程语言
-  - [F型连接头](../Page/F型连接头.md "wikilink")，一种同轴射频连接器，通常用于“空中传播”的无线电视，有线电视以及普遍用于无线电视和cable
-    modem
-  - [F1
-    score](https://zh.wikipedia.org/wiki/F1_score "wikilink")，一种信息检索技术
+  - [F语言](https://zh.wikipedia.org/wiki/F语言 "wikilink")，Fortran 95语言的一个子集
+  - [F Sharp](https://zh.wikipedia.org/wiki/F_Sharp "wikilink")(F\#)，.NET框架平台上的面向对象函数编程语言
+  - [F型连接头](../Page/F型连接头.md "wikilink")，一种同轴射频连接器，通常用于“空中传播”的无线电视，有线电视以及普遍用于无线电视和cable modem
+  - [F1 score](https://zh.wikipedia.org/wiki/F1_score "wikilink")，一种信息检索技术
   - [浮点数](../Page/浮点数.md "wikilink")（float）,在编程语言中的一类数据类型
 
 ## 音乐
@@ -57,8 +52,7 @@
 ## 交通运输
 
   - [紐約地鐵F線](../Page/紐約地鐵F線.md "wikilink")，一条纽约地铁服务路线
-  - [F
-    (S-train)](https://zh.wikipedia.org/wiki/F_\(S-train\) "wikilink")，丹麦哥本哈根的一条区域铁路线路
+  - [F (S-train)](https://zh.wikipedia.org/wiki/F_\(S-train\) "wikilink")，丹麦哥本哈根的一条区域铁路线路
   - 法國的[航空器註冊編號](../Page/航空器註冊編號.md "wikilink")字首
 
 ## 其他

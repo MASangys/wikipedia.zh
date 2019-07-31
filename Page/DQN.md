@@ -17,9 +17,7 @@
 常見的DQN名字有如下幾類：
 
   - 姓名无视汉字读音：如为汉字标注英语读音或自创读音。
-  - 不知道[漢字本身所代表的不好的意思](https://zh.wikipedia.org/wiki/漢字 "wikilink")，只用讀音去拼湊出漢字：例如象徵海中明月的「海月」，日文漢字有[水母](../Page/水母.md "wikilink")的意思。也有不知道其辭彙的意義而取名的例子如：亞奈流（ア(A
-    )ナ(NA)
-    ル(RU))，日語音同『*anal*』，即[肛門](https://zh.wikipedia.org/wiki/肛門 "wikilink")）、舞良（マラ，日語音同『魔羅』，即[陰莖](https://zh.wikipedia.org/wiki/陰莖 "wikilink")）、妃仁（日語音同『避妊』，即[避孕](https://zh.wikipedia.org/wiki/避孕 "wikilink")）等粗話或與性有關聯的用語，而這問題在歐美國家也時常出現\[4\]\[5\]。更甚者有[慈檀與](https://zh.wikipedia.org/wiki/齐内丁·齐达内 "wikilink")[久亭這種以自己喜愛選手的](../Page/弗朗切斯科·托蒂.md "wikilink")[姓氏](../Page/姓氏.md "wikilink")或[名字等將孩子取名](https://zh.wikipedia.org/wiki/名字 "wikilink")，或者念做「Aqua」卻寫成『空』（Aqua為拉丁語中的「水」），念做「[Mars](../Page/火星.md "wikilink")」卻寫成『金星』這種搞錯外來語意思的例子。
+  - 不知道[漢字本身所代表的不好的意思](https://zh.wikipedia.org/wiki/漢字 "wikilink")，只用讀音去拼湊出漢字：例如象徵海中明月的「海月」，日文漢字有[水母](../Page/水母.md "wikilink")的意思。也有不知道其辭彙的意義而取名的例子如：亞奈流（ア(A )ナ(NA) ル(RU))，日語音同『*anal*』，即[肛門](https://zh.wikipedia.org/wiki/肛門 "wikilink")）、舞良（マラ，日語音同『魔羅』，即[陰莖](https://zh.wikipedia.org/wiki/陰莖 "wikilink")）、妃仁（日語音同『避妊』，即[避孕](https://zh.wikipedia.org/wiki/避孕 "wikilink")）等粗話或與性有關聯的用語，而這問題在歐美國家也時常出現\[4\]\[5\]。更甚者有[慈檀與](https://zh.wikipedia.org/wiki/齐内丁·齐达内 "wikilink")[久亭這種以自己喜愛選手的](../Page/弗朗切斯科·托蒂.md "wikilink")[姓氏](../Page/姓氏.md "wikilink")或[名字等將孩子取名](https://zh.wikipedia.org/wiki/名字 "wikilink")，或者念做「Aqua」卻寫成『空』（Aqua為拉丁語中的「水」），念做「[Mars](../Page/火星.md "wikilink")」卻寫成『金星』這種搞錯外來語意思的例子。
   - 人名以外的名詞：不使用「龍（竜）」或「櫻」等等常見的人名，而使用不適合當作人名的動物名（如：[無尾熊](../Page/無尾熊.md "wikilink")）、食物名（如：[可可](https://zh.wikipedia.org/wiki/可可 "wikilink")）、星球或星座名、甚至有像[哈姆太郎](../Page/哈姆太郎.md "wikilink")等卡通角色的名稱來命名的例子。
   - 混淆性別的名字：如为男生起女性名，或者女生取男性名。但随时代变化，較中性的名字也較為被接受。例如男生的名字取為「千尋」、女生的名字取為「亮」就沒有那麼的突兀了。
   - 起过于恢弘的姓名：由於不了解西方人對傳統宗教（一般是天主教或基督教）中對上帝或惡魔等神明的敬畏而自以為是亂取姓名如“Jesus”（[耶穌基督](https://zh.wikipedia.org/wiki/耶穌基督 "wikilink")）“Salvador”（[救世主](https://zh.wikipedia.org/wiki/救世主 "wikilink")）或"Lucifer"（[路西法](../Page/路西法.md "wikilink")）等。
@@ -74,18 +72,13 @@
 ## 参考文献
 
   -
-[Category:互联网用语](https://zh.wikipedia.org/wiki/Category:互联网用语 "wikilink")
-[Category:日本流行语](https://zh.wikipedia.org/wiki/Category:日本流行语 "wikilink")
+[Category:互联网用语](https://zh.wikipedia.org/wiki/Category:互联网用语 "wikilink") [Category:日本流行语](https://zh.wikipedia.org/wiki/Category:日本流行语 "wikilink")
 
-1.  [〈全球觀測站〉閃亮名字
-    開啥玩笑](http://news.ltn.com.tw/news/supplement/paper/913960/print)
-2.  [日本小孩名字流行“閃亮係”
-    最好念著響亮大器](http://japan.xinhuanet.com/jpnews/2013-06/26/c_132488634.htm)
+1.  [〈全球觀測站〉閃亮名字 開啥玩笑](http://news.ltn.com.tw/news/supplement/paper/913960/print)
+2.  [日本小孩名字流行“閃亮係” 最好念著響亮大器](http://japan.xinhuanet.com/jpnews/2013-06/26/c_132488634.htm)
 3.  [社會日人取名 奇怪「閃亮名」恐遭歧視](http://solomo.xinmedia.com/japan/5428-attitude)
-4.  [紐西蘭父母為孩子取名“肛門”
-    當局拒絕受理](http://big5.huaxia.com/zk/qrsj/wz/2013/05/3320050.html)
+4.  [紐西蘭父母為孩子取名“肛門” 當局拒絕受理](http://big5.huaxia.com/zk/qrsj/wz/2013/05/3320050.html)
 5.  [12種曾被視為禁忌的英文名字！取了孩子會恨你一輩子](http://www.ettoday.net/news/20120206/23098.htm)
 6.  [鼎殺人事件ってなんですか？](http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1277114312)
-7.  [女の名をつけた、と父親を殺害
-    「鼎殺人事件」](http://blog.goo.ne.jp/kiss_sky/e/3a175ea4d1a51023d1e6404b1714eb3b)
+7.  [女の名をつけた、と父親を殺害 「鼎殺人事件」](http://blog.goo.ne.jp/kiss_sky/e/3a175ea4d1a51023d1e6404b1714eb3b)
 8.  [鼎（かなえ）ってDQNネームですか？](http://qanda.rakuten.ne.jp/qa8047050.html)

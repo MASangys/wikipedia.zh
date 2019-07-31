@@ -6,10 +6,7 @@ Xenomai基于一个抽象的[实时操作系统](../Page/实时操作系统.md "
 
 ## Xenomai vs. RTAI
 
-虽然这两个项目有不少共同的想法，而且都支持RTDM实时驱动模块，但是实际上他们有很多不同之处。这些不同之处主要是由他们不同的目标和各自不同的实现方式造成的。RTAI项目致力于技术上可行的最低延迟；Xenomai除此之外还很看重扩展性，可移植性以及可维护性。Xenoami项目将对[Ingo
-Molnar的](https://zh.wikipedia.org/wiki/Ingo_Molnar "wikilink")[PREEMPT
-RT实时抢占补丁提供支持](https://zh.wikipedia.org/wiki/PREEMPT_RT "wikilink")，这又是与RTAI项目的一个显著的不同。
-\[1\]
+虽然这两个项目有不少共同的想法，而且都支持RTDM实时驱动模块，但是实际上他们有很多不同之处。这些不同之处主要是由他们不同的目标和各自不同的实现方式造成的。RTAI项目致力于技术上可行的最低延迟；Xenomai除此之外还很看重扩展性，可移植性以及可维护性。Xenoami项目将对[Ingo Molnar的](https://zh.wikipedia.org/wiki/Ingo_Molnar "wikilink")[PREEMPT RT实时抢占补丁提供支持](https://zh.wikipedia.org/wiki/PREEMPT_RT "wikilink")，这又是与RTAI项目的一个显著的不同。 \[1\]
 
 ## 参见
 
@@ -21,10 +18,8 @@ RT实时抢占补丁提供支持](https://zh.wikipedia.org/wiki/PREEMPT_RT "wiki
 
   -
   -
-  - [Radboud Univ. - Xenomai](http://www.cs.ru.nl/lab/xenomai/) see the
-    Xenomai exercises
+  - [Radboud Univ. - Xenomai](http://www.cs.ru.nl/lab/xenomai/) see the Xenomai exercises
 
 [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink")
 
-1.  [Article:Xenomai-help WG: Xenomai vs.
-    RTAI](https://mail.gna.org/public/xenomai-help/2006-08/msg00115.html)
+1.  [Article:Xenomai-help WG: Xenomai vs. RTAI](https://mail.gna.org/public/xenomai-help/2006-08/msg00115.html)

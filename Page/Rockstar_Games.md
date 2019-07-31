@@ -1,12 +1,4 @@
-**Rockstar Games**常被玩家简称为“R星”，是遊戲發行商[Take-Two
-Interactive旗下的遊戲開發分公司](../Page/Take-Two_Interactive.md "wikilink")，其總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，该公司的前身是[BMG
-Entertainment旗下的游戏发行部门](https://zh.wikipedia.org/wiki/BMG_Entertainment "wikilink")**BMG
-Interactive**。公司的作品中，以《[俠盜獵車手](https://zh.wikipedia.org/wiki/俠盜獵車手 "wikilink")》（Grand
-Theft
-Auto）系列最為知名。公司下設多個工作室，包括自組及收購，每个工作室有不同的颜色标志。2005年，Take-Two为了让自己发行的游戏与Rockstar发行的游戏所做区别，另外成立了[2K
-Games品牌以及发行体育竞技类游戏的](../Page/2K_Games.md "wikilink")[2K
-Sports品牌与发行休闲益智类游戏的](../Page/2K_Sports.md "wikilink")[2K
-Play品牌以整合原Take](https://zh.wikipedia.org/wiki/2K_Play "wikilink")-Two旗下工作室开发的品牌资源。
+**Rockstar Games**常被玩家简称为“R星”，是遊戲發行商[Take-Two Interactive旗下的遊戲開發分公司](../Page/Take-Two_Interactive.md "wikilink")，其總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，该公司的前身是[BMG Entertainment旗下的游戏发行部门](https://zh.wikipedia.org/wiki/BMG_Entertainment "wikilink")**BMG Interactive**。公司的作品中，以《[俠盜獵車手](https://zh.wikipedia.org/wiki/俠盜獵車手 "wikilink")》（Grand Theft Auto）系列最為知名。公司下設多個工作室，包括自組及收購，每个工作室有不同的颜色标志。2005年，Take-Two为了让自己发行的游戏与Rockstar发行的游戏所做区别，另外成立了[2K Games品牌以及发行体育竞技类游戏的](../Page/2K_Games.md "wikilink")[2K Sports品牌与发行休闲益智类游戏的](../Page/2K_Sports.md "wikilink")[2K Play品牌以整合原Take](https://zh.wikipedia.org/wiki/2K_Play "wikilink")-Two旗下工作室开发的品牌资源。
 
 ## 工作室
 
@@ -31,16 +23,13 @@ Play品牌以整合原Take](https://zh.wikipedia.org/wiki/2K_Play "wikilink")-Tw
 
 ## 遊戲作品
 
-  - 《[俠盜獵車手](https://zh.wikipedia.org/wiki/俠盜獵車手 "wikilink")》系列（Grand
-    Theft Auto）
+  - 《[俠盜獵車手](https://zh.wikipedia.org/wiki/俠盜獵車手 "wikilink")》系列（Grand Theft Auto）
   - 《[灣岸](https://zh.wikipedia.org/wiki/灣岸 "wikilink")》系列（Midnight Club）
   - 《[俠盜獵魔](../Page/俠盜獵魔.md "wikilink")》系列（Manhunt）
-  - 《[马克思·佩恩](https://zh.wikipedia.org/wiki/马克思·佩恩 "wikilink")》系列（Max
-    Payne）
+  - 《[马克思·佩恩](https://zh.wikipedia.org/wiki/马克思·佩恩 "wikilink")》系列（Max Payne）
   - 《[鬼妮](https://zh.wikipedia.org/wiki/鬼妮 "wikilink")》（Oni）
   - 《[战士帮](https://zh.wikipedia.org/wiki/战士帮 "wikilink")》（The Warriors）
-  - 《[-{zh-cn:荒野大镖客; zh-tw:碧血狂殺;}-](../Page/紅色死亡左輪.md "wikilink")》（Red
-    Dead Revolver）
+  - 《[-{zh-cn:荒野大镖客; zh-tw:碧血狂殺;}-](../Page/紅色死亡左輪.md "wikilink")》（Red Dead Revolver）
   - 《[碧血狂殺](../Page/荒野大镖客：救赎.md "wikilink")》（Red Dead Redemption）
   - 《[碧血狂殺2](../Page/碧血狂殺2.md "wikilink")》（Red Dead Redemption II）
   - 《[黑色洛城](../Page/黑色洛城.md "wikilink")》（L.A. Noire）
@@ -52,13 +41,7 @@ Play品牌以整合原Take](https://zh.wikipedia.org/wiki/2K_Play "wikilink")-Tw
 
   - [Rockstar Games主頁](http://www.rockstargames.com/zh)
 
-[Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink")
-[Category:1998年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1998年開業電子遊戲公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink")
-[Category:總部在美國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在美國的跨國公司 "wikilink")
+[Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink") [Category:1998年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1998年開業電子遊戲公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink") [Category:總部在美國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在美國的跨國公司 "wikilink")
 
 1.
 2.

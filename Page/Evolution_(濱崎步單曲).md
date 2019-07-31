@@ -10,17 +10,14 @@
 
 1.  **evolution "Original Mix"**
       -
-        作詞：濱崎步 / 作曲：[CREA](../Page/CREA.md "wikilink") /
-        編曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")
+        作詞：濱崎步 / 作曲：[CREA](../Page/CREA.md "wikilink") / 編曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")
         KOSÉ「VISÉE」廣告歌曲
 2.  **evolution "Dub's Floor Remix Transport 004"**
 3.  **evolution "DJ REMO-CON REMIX"**
-4.  **[End of the World](../Page/Duty.md "wikilink") "Laugh & Peace
-    MIX"**
+4.  **[End of the World](../Page/Duty.md "wikilink") "Laugh & Peace MIX"**
 5.  **evolution "BOOM BASS Ayumix"**
 6.  **evolution "Oriental Hot SPA"**
-7.  **[SURREAL](../Page/SURREAL.md "wikilink") "nicely nice electron '00
-    remix"**
+7.  **[SURREAL](../Page/SURREAL.md "wikilink") "nicely nice electron '00 remix"**
 8.  **evolution "Huge terrestrial birth mix"**
 9.  **evolution "LAW IS Q mix"**
 10. **evolution "Original Mix -Instrumental-"**
@@ -49,10 +46,4 @@
 
 <references/>
 
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2001年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:化妝品廣告歌曲](https://zh.wikipedia.org/wiki/Category:化妝品廣告歌曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2001年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲月榜冠軍作品 "wikilink") [Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink") [Category:化妝品廣告歌曲](https://zh.wikipedia.org/wiki/Category:化妝品廣告歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")

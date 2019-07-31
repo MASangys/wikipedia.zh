@@ -1,5 +1,4 @@
-**AFI十大類型十大佳片**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**AFI's
-10 Top 10**）发布於2008年6月17日。
+**AFI十大類型十大佳片**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**AFI's 10 Top 10**）发布於2008年6月17日。
 
 [美國電影學會](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")（AFI）擇定十種電影類型，每種類型從50片提名的美國電影中，各評選出10片百年來各類型最偉大電影，作為美國電影學會的“百年百大”系列的一重要部分。
 
@@ -17,8 +16,7 @@
 
 <!-- end list -->
 
-  - [詹姆斯·史都華是主演電影最多的演員](../Page/詹姆斯·史都華.md "wikilink")，計6部作品、橫跨4個領域。分別是奇幻類的《[風雲人物](../Page/風雲人物.md "wikilink")》、《[迷離世界](https://zh.wikipedia.org/wiki/迷離世界 "wikilink")》、懸疑類的《[迷魂記](../Page/迷魂記.md "wikilink")》、《[後窗](../Page/後窗.md "wikilink")》、浪漫喜劇類的《[費城故事](https://zh.wikipedia.org/wiki/費城故事 "wikilink")》、法庭劇情類的《[桃色血案](../Page/桃色血案.md "wikilink")》（[Anatomy
-    of a Murder](../Page/桃色血案.md "wikilink")）。
+  - [詹姆斯·史都華](../Page/詹姆斯·史都華.md "wikilink")是主演電影最多的演員，計6部作品、橫跨4個領域。分別是奇幻類的《[風雲人物](../Page/風雲人物.md "wikilink")》、《[迷離世界](https://zh.wikipedia.org/wiki/迷離世界 "wikilink")》、懸疑類的《[迷魂記](../Page/迷魂記.md "wikilink")》、《[後窗](../Page/後窗.md "wikilink")》、浪漫喜劇類的《[費城故事](https://zh.wikipedia.org/wiki/費城故事 "wikilink")》、法庭劇情類的《[桃色血案](../Page/桃色血案.md "wikilink")》（[Anatomy of a Murder](../Page/桃色血案.md "wikilink")）。
 
 <!-- end list -->
 
@@ -30,7 +28,7 @@
 
 <!-- end list -->
 
-  - [約翰·韋恩](../Page/約翰·韋恩.md "wikilink")、[葛莉絲·凱莉](https://zh.wikipedia.org/wiki/葛莉絲·凱莉 "wikilink")、[保羅·紐曼](../Page/保羅·紐曼.md "wikilink")、[勞勃·狄尼洛](https://zh.wikipedia.org/wiki/勞勃·狄尼洛 "wikilink")、[金·哈克曼](../Page/金·哈克曼.md "wikilink")、[杰克·尼科尔森](../Page/杰克·尼科尔森.md "wikilink")、[艾尔·帕西诺的電影作品](../Page/艾尔·帕西诺.md "wikilink")，各在名單中出現3次。
+  - [約翰·韋恩](../Page/約翰·韋恩.md "wikilink")、[葛莉絲·凱莉](https://zh.wikipedia.org/wiki/葛莉絲·凱莉 "wikilink")、[保羅·紐曼](../Page/保羅·紐曼.md "wikilink")、[勞勃·狄尼洛](https://zh.wikipedia.org/wiki/勞勃·狄尼洛 "wikilink")、[金·哈克曼](../Page/金·哈克曼.md "wikilink")、[杰克·尼科尔森](../Page/杰克·尼科尔森.md "wikilink")、[艾尔·帕西诺](../Page/艾尔·帕西诺.md "wikilink")的電影作品，各在名單中出現3次。
 
 <!-- end list -->
 
@@ -192,5 +190,4 @@
 
   - [AFI's 10 Top 10](http://www.afi.com/tvevents/100years/10top10.aspx)
 
-[Category:美國電影學院百年百大系列](https://zh.wikipedia.org/wiki/Category:美國電影學院百年百大系列 "wikilink")
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
+[Category:美國電影學院百年百大系列](https://zh.wikipedia.org/wiki/Category:美國電影學院百年百大系列 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")

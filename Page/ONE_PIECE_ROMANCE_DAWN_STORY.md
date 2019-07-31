@@ -1,16 +1,10 @@
-《**ONE PIECE ROMANCE DAWN STORY**》是於2008年在[Jump
-Festa上映的](../Page/Jump_Festa.md "wikilink")《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[OVA動畫動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")，為集英社週刊少年JUMP創刊四十週年紀念動畫作品。
+《**ONE PIECE ROMANCE DAWN STORY**》是於2008年在[Jump Festa上映的](../Page/Jump_Festa.md "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[OVA動畫動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")，為集英社週刊少年JUMP創刊四十週年紀念動畫作品。
 
 ## 概述
 
-本作於1996年在『週刊少年Jump的增刊號』揭載的作品『ROMANCE
-DAWN（SS版）』，是[尾田榮一郎代表作](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》的原點作品，也是其雛形，之後分別收錄在其作品集《ONE
-PIECE RED》和《WANTED\!》上，後來“ROMANCE DAWN”這個名字也作為《海賊王》第一話的副標題來使用。
+本作於1996年在『週刊少年Jump的增刊號』揭載的作品『ROMANCE DAWN（SS版）』，是[尾田榮一郎代表作](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》的原點作品，也是其雛形，之後分別收錄在其作品集《ONE PIECE RED》和《WANTED\!》上，後來“ROMANCE DAWN”這個名字也作為《海賊王》第一話的副標題來使用。
 
-當時的尾田榮一郎還在為《浪客劍心》作者和月伸宏擔任助手，此兩部短篇漫畫結束後尾田榮一郎就正式踏上連載漫畫家之路，雖然作品不多，但《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》也足以令其揚名立萬。
+當時的尾田榮一郎還在為《浪客劍心》作者和月伸宏擔任助手，此兩部短篇漫畫結束後尾田榮一郎就正式踏上連載漫畫家之路，雖然作品不多，但《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》也足以令其揚名立萬。
 
   - 兩部《ROMANCE DAWN》的主人公均同《ONE PIECE》主人公魯夫同名同姓，但卻判若兩人
   - 兩部作品雖劇情不同，但卻存在兩個共同點：
@@ -42,8 +36,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》也足以令其揚名立萬。
     聲優：[松谷彼哉](../Page/松谷彼哉.md "wikilink")（日本）
     《ROMANCE DAWN》的女主角，住在小鎮上的少女。有著一頭美麗的金髮、綁著馬尾的少女。
     原本是個被海賊遺棄的小孩，後來被鎮上的人收養，相當珍惜鎮上的人，並把他們和小鎮視為自己的寶物，願意冒著生命危險去保衛它。她明白，並非所有的海賊都是壞人，會對像魯夫這樣的海賊表現出同理心。
-    是《[ONE
-    PIECE](../Page/ONE_PIECE.md "wikilink")》中[娜美](../Page/娜美.md "wikilink")的原型，在本作OVA動畫版中與原作版的形象略有不同。
+    是《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》中[娜美](../Page/娜美.md "wikilink")的原型，在本作OVA動畫版中與原作版的形象略有不同。
   -
     聲優：[小山力也](../Page/小山力也.md "wikilink")（日本）
     海賊，懸賞金500萬貝里。在本作被魯夫輕鬆擊敗兩次。

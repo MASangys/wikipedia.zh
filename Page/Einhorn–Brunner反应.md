@@ -11,8 +11,7 @@
 
 ## 参考资料
 
-[Category:杂环合成反应](https://zh.wikipedia.org/wiki/Category:杂环合成反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:杂环合成反应](https://zh.wikipedia.org/wiki/Category:杂环合成反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

@@ -1,17 +1,15 @@
-**F\&C**是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，在日本成人遊戲界亦有相當的歷史。
+**F\&C**是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司，在日本成人遊戲界亦有相當的歷史。
 
 ## 歷史沿革
 
   - 1987年，成立**Fairytale**品牌，當時所使用的社名為'''。
   - 1989年，與JAST共同成立**Cocktail**品牌。此一名稱為取其兩社融合之意。
-  - 1991年11月25日，《[沙織
-    -美少女們的貴府-](../Page/沙織_-美少女們的貴府-.md "wikilink")》爆發「[沙織事件](https://zh.wikipedia.org/wiki/沙織事件 "wikilink")」。同年，社名改為**有限会社IDES**。
+  - 1991年11月25日，《[沙織 -美少女們的貴府-](../Page/沙織_-美少女們的貴府-.md "wikilink")》爆發「[沙織事件](https://zh.wikipedia.org/wiki/沙織事件 "wikilink")」。同年，社名改為**有限会社IDES**。
   - 1995年，社名改為**株式会社IDES**。
   - 1997年5月1日，公司重組，捨棄原有的**IDES**，改以Fairytale和Cocktail的頭一個英文字母組成**F\&C**，作為目前所使用的社名。
   - 1999年6月，通信對戰遊戲《FCN》發售，是第一部掛F\&C品牌的遊戲。
   - 2001年，進行企業組織再造，劃分為三個品牌：**FC01**、**FC02**、**FC03**。
-  - 2004年 **Cocktail**再次開始活動及2005年12月
-    **DreamSoft**（原FC03在2002年獨立出的品牌，於2004年更名）的停止活動，使得組織又回到近乎改造前的狀態。
+  - 2004年 **Cocktail**再次開始活動及2005年12月 **DreamSoft**（原FC03在2002年獨立出的品牌，於2004年更名）的停止活動，使得組織又回到近乎改造前的狀態。
   - 2009年，總部遷至[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")[高田馬場](../Page/高田馬場.md "wikilink")2丁目8番3號「佐佐木大樓」2樓。
   - 2011年4月25日，總部遷至東京都新宿區高田馬場4丁目8番4號「ORAGA大樓」9樓。
 
@@ -48,8 +46,7 @@
 
 ## 作品一覧
 
-這裡主要刊登改組以後發售的作品（F\&C及FMC除外）。改組以前的標題作品請參考[FAIRYTALE](../Page/FAIRYTALE.md "wikilink")、[RED-ZONE以及](https://zh.wikipedia.org/wiki/FAIRYTALE#RED-ZONE（レッドゾーン） "wikilink")[COCKTAIL
-SOFT](https://zh.wikipedia.org/wiki/Cocktail_soft "wikilink")。
+這裡主要刊登改組以後發售的作品（F\&C及FMC除外）。改組以前的標題作品請參考[FAIRYTALE](../Page/FAIRYTALE.md "wikilink")、[RED-ZONE以及](https://zh.wikipedia.org/wiki/FAIRYTALE#RED-ZONE（レッドゾーン） "wikilink")[COCKTAIL SOFT](https://zh.wikipedia.org/wiki/Cocktail_soft "wikilink")。
 
 ### F\&C
 
@@ -152,8 +149,7 @@ DreamSoft在2006年的「」發表後，停止活動。
   - 2004年9月24日 -
   - 2005年7月29日 -
       - 2006年2月3日 -
-  - 2005年10月28日 - [Natural Another One 2nd
-    -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
+  - 2005年10月28日 - [Natural Another One 2nd -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
   - 2006年3月24日 -
 
 ###
@@ -257,8 +253,7 @@ RED-ZONE曾經2度暫停活動。第1次是在2001年的「研究日誌」發表
 
 ###
 
-2001年改組以前的標題作品請參考[COCKTAIL
-SOFT](https://zh.wikipedia.org/wiki/Cocktail_soft "wikilink")。
+2001年改組以前的標題作品請參考[COCKTAIL SOFT](https://zh.wikipedia.org/wiki/Cocktail_soft "wikilink")。
 
 COCKTAIL SOFT在2002年的「」發表後，暫停活動、2004年再次開始活動。
 
@@ -286,8 +281,4 @@ COCKTAIL SOFT在2002年的「」發表後，暫停活動、2004年再次開始�
 
   - [官方網站](http://fandc.co.jp)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
-[Category:F\&C](https://zh.wikipedia.org/wiki/Category:F&C "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink") [Category:F\&C](https://zh.wikipedia.org/wiki/Category:F&C "wikilink")

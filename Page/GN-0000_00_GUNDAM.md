@@ -15,34 +15,25 @@
 | 武裝                                                                                                    |
 | 特殊裝置                                                                                                  |
 
-**GN-0000 00鋼彈（00
-Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
-Suit），由剎那·F·塞耶所駕駛。
+**GN-0000 00鋼彈（00 Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile Suit），由剎那·F·塞耶所駕駛。
 
 ## 介紹
 
 天上人在與聯合國軍的大戰中被擊敗而瀕臨崩潰，但在之後的四年間秘密開發了新的GUNDAM而東山再起。
 
-00 就是其中之一，其最大特徵是搭載2台GN-Drive（其一為O GUNDAM 以及另一個為 能天使GUNDAM
-之原裝太陽爐）的「雙重動力系統（Twin Drive System）」。
+00 就是其中之一，其最大特徵是搭載2台GN-Drive（其一為O GUNDAM 以及另一個為 能天使GUNDAM 之原裝太陽爐）的「雙重動力系統（Twin Drive System）」。
 
-本機為[GN-001
-能天使GUNDAM的後繼機](../Page/GN-001_能天使GUNDAM.md "wikilink")，於2312年首次登場，同為擅長格鬥戰的機體。
+本機為[GN-001 能天使GUNDAM的後繼機](../Page/GN-001_能天使GUNDAM.md "wikilink")，於2312年首次登場，同為擅長格鬥戰的機體。
 
-表面上為能天使GUNDAM的後繼機，實際上為只是繼承了GN-Drive以及近戰能力，其餘部份則是繼承了-{GN-XXX
-秘天使GUNDAM}-(例如軀幹部分)
+表面上為能天使GUNDAM的後繼機，實際上為只是繼承了GN-Drive以及近戰能力，其餘部份則是繼承了-{GN-XXX 秘天使GUNDAM}-(例如軀幹部分)
 
-以伊恩·瓦斯提為首之天上人機械團隊，為了讓00 GUNDAM發揮100℅的性能而持續進行開發與調整，當發揮完全的性能時，00
-GUNDAM將展現出超越常識的力量。
+以伊恩·瓦斯提為首之天上人機械團隊，為了讓00 GUNDAM發揮100℅的性能而持續進行開發與調整，當發揮完全的性能時，00 GUNDAM將展現出超越常識的力量。
 
 ### 雙重動力系統（Twin Drive System）
 
-00GUNDAM之最大特色為搭載兩個GN-Drive之雙重動力系統（Twin Drive
-System），此系統之基本設計大約為與Trans-AM系統同時由天上人創立者伊歐利亞所交託。
+00GUNDAM之最大特色為搭載兩個GN-Drive之雙重動力系統（Twin Drive System），此系統之基本設計大約為與Trans-AM系統同時由天上人創立者伊歐利亞所交託。
 
-擁有兩個GN-Drive並不表示它只產生2倍之GN粒子，而是「2次方」之量，以凌駕所有機體之GN粒子釋放量而自豪。由於GN-Drive之共振並不穩定，經過多次測試，最後使用了能天使和[0
-GUNDAM之GN](../Page/GN-000_0_GUNDAM.md "wikilink")-Drive取得最高之共振率才達到可正常運作狀態（共振率高於80℅），但00GUNDAM本身無法承受如此龐大的粒子放出量，所以無法發揮此系統的完整功能，雙重動力系統的同步率在常態下低於100℅，因此也難以使用Trans-AM系統，強行使用會在短時間內造成系統負荷過重而停止運作。
+擁有兩個GN-Drive並不表示它只產生2倍之GN粒子，而是「2次方」之量，以凌駕所有機體之GN粒子釋放量而自豪。由於GN-Drive之共振並不穩定，經過多次測試，最後使用了能天使和[0 GUNDAM之GN](../Page/GN-000_0_GUNDAM.md "wikilink")-Drive取得最高之共振率才達到可正常運作狀態（共振率高於80℅），但00GUNDAM本身無法承受如此龐大的粒子放出量，所以無法發揮此系統的完整功能，雙重動力系統的同步率在常態下低於100℅，因此也難以使用Trans-AM系統，強行使用會在短時間內造成系統負荷過重而停止運作。
 
 搭載於雙肩之GN-Drive能作180度迴轉，置於前方散佈GN粒子流時能形成GN力場抵擋GN光束攻擊。
 
@@ -71,8 +62,7 @@ GUNDAM之GN](../Page/GN-000_0_GUNDAM.md "wikilink")-Drive取得最高之共振�
 <!-- end list -->
 
   -
-    首次與「0強化戰機」接合成為「00強化模組」，並首次啟動Trans-AM
-    Raiser系統，單機擊墜變革者MS「加迪薩」，「加萊佐」及接近十台A-Laws機動戰士。
+    首次與「0強化戰機」接合成為「00強化模組」，並首次啟動Trans-AM Raiser系統，單機擊墜變革者MS「加迪薩」，「加萊佐」及接近十台A-Laws機動戰士。
 
 <!-- end list -->
 
@@ -126,13 +116,8 @@ GUNDAM之GN](../Page/GN-000_0_GUNDAM.md "wikilink")-Drive取得最高之共振�
 <!-- end list -->
 
   -
-    在攔截由ELS擬態而成的木星探測船「[木衛二](https://zh.wikipedia.org/wiki/木衛二 "wikilink")」時首度出戰，但因駕駛員剎那感應到ELS的「訊息」而無法攻擊，在左臂被ELS侵蝕時被提耶利亞駕駛的[CB-002
-    療天使GUNDAM所救](https://zh.wikipedia.org/wiki/CB-002_療天使GUNDAM "wikilink")。
-    在火星之戰中再度出戰，並同時啟動Trans-AM以及Raiser System造成類似Trans-AM
-    Burst的效果枉嘗試和ELS對話，但因為粒子量不足和ELS的訊息量過大，令剎那的左[大腦受損](https://zh.wikipedia.org/wiki/大腦 "wikilink")，本機也被大量ELS侵蝕。最終剎那和本機駕駛艙被提耶利亞遙距控制的[GN-008RE
-    熾天使GUNDAM
-    II拔出並交給洛克昂所駕駛的](https://zh.wikipedia.org/wiki/GN-008RE_熾天使GUNDAM_II "wikilink")[GN-010
-    獄天使GUNDAM](https://zh.wikipedia.org/wiki/GN-010_獄天使GUNDAM "wikilink")，本體則連同熾天使II一同自爆。
+    在攔截由ELS擬態而成的木星探測船「[木衛二](https://zh.wikipedia.org/wiki/木衛二 "wikilink")」時首度出戰，但因駕駛員剎那感應到ELS的「訊息」而無法攻擊，在左臂被ELS侵蝕時被提耶利亞駕駛的[CB-002 療天使GUNDAM所救](https://zh.wikipedia.org/wiki/CB-002_療天使GUNDAM "wikilink")。
+    在火星之戰中再度出戰，並同時啟動Trans-AM以及Raiser System造成類似Trans-AM Burst的效果枉嘗試和ELS對話，但因為粒子量不足和ELS的訊息量過大，令剎那的左[大腦受損](https://zh.wikipedia.org/wiki/大腦 "wikilink")，本機也被大量ELS侵蝕。最終剎那和本機駕駛艙被提耶利亞遙距控制的[GN-008RE 熾天使GUNDAM II拔出並交給洛克昂所駕駛的](https://zh.wikipedia.org/wiki/GN-008RE_熾天使GUNDAM_II "wikilink")[GN-010 獄天使GUNDAM](https://zh.wikipedia.org/wiki/GN-010_獄天使GUNDAM "wikilink")，本體則連同熾天使II一同自爆。
 
 ## 武裝
 
@@ -140,9 +125,7 @@ GUNDAM之GN](../Page/GN-000_0_GUNDAM.md "wikilink")-Drive取得最高之共振�
 
 由能天使鋼彈的GN劍發展而成的武器。
 
-分為：作為雙管光束步槍使用的「步槍模式（Rifle Mode）」、作為實體劍的「劍模式（Sword
-Mode）」、產生鐳射刃的「鐳射刀模式（Beam Saber
-Mode）」，與舊型的最大差異為模式間的切換可以在瞬間完成。
+分為：作為雙管光束步槍使用的「步槍模式（Rifle Mode）」、作為實體劍的「劍模式（Sword Mode）」、產生鐳射刃的「鐳射刀模式（Beam Saber Mode）」，與舊型的最大差異為模式間的切換可以在瞬間完成。
 
 兩把GN劍Ⅱ可結合成雙刃劍。
 
@@ -166,14 +149,11 @@ Mode）」，與舊型的最大差異為模式間的切換可以在瞬間完成�
 
 ### GN劍Ⅲ（GN Sword Ⅲ）
 
-第二季第22話登場，00
-GUNDAM的新裝備，GN劍第三改良型態，外型與[能天使GUNDAM的GN劍相似](../Page/GN-001_能天使GUNDAM.md "wikilink")，刀刃則與七劍型00
-GUNDAM之GN拳刃相似。
+第二季第22話登場，00 GUNDAM的新裝備，GN劍第三改良型態，外型與[能天使GUNDAM的GN劍相似](../Page/GN-001_能天使GUNDAM.md "wikilink")，刀刃則與七劍型00 GUNDAM之GN拳刃相似。
 
 由於GN劍Ⅱ使用強化巨劍時不能有效地控制粒子釋放量，因此使用開發「00鋼彈七劍型」的裝備時取得的資料設計了GN劍Ⅲ。
 
-能夠轉換成三連光束步槍的「步槍模式（Rifle
-Mode）」，能夠使用集束、連射、擴散等不同射擊方式。此外，使用強化巨劍時，只需GN劍Ⅲ一把就能使用。
+能夠轉換成三連光束步槍的「步槍模式（Rifle Mode）」，能夠使用集束、連射、擴散等不同射擊方式。此外，使用強化巨劍時，只需GN劍Ⅲ一把就能使用。
 
 ## 特殊裝置
 
@@ -209,9 +189,7 @@ Mode）」，能夠使用集束、連射、擴散等不同射擊方式。此外�
 
 使用Trans-AM系統可以提高00 GUNDAM的共振率，但也可能導致超過負荷而使Twin Drive系統失控甚至爆炸。
 
-此問題需籍由搭載外掛裝備「0強化戰機（0 Raiser）」解決，兩者合體後稱為「00強化模組（00
-Raiser）」，是00鋼彈之完成型態，足以把Twin
-Drive系統同步率提升至300%（MAX）。
+此問題需籍由搭載外掛裝備「0強化戰機（0 Raiser）」解決，兩者合體後稱為「00強化模組（00 Raiser）」，是00鋼彈之完成型態，足以把Twin Drive系統同步率提升至300%（MAX）。
 
 ### Trans-AM Raiser \[Type-GN Sword Ⅱ\]
 
@@ -287,15 +265,12 @@ Drive系統同步率提升至300%（MAX）。
 `還存在Trans-AM的增幅機能，並使出Raiser Sword。`
 `另外Trans-AM Raiser粒子釋放量曾提高至比平常的7倍以上。`
 
-`4. `**`Raiser``
- ``Sword`**`。Trans-AM Raiser的最強攻擊，經由Raiser系統進行同步(300% MAX) 再以Trans-AM將壓縮粒子完全解放，`
+`4. `**`Raiser``   ``Sword`**`。Trans-AM Raiser的最強攻擊，經由Raiser系統進行同步(300% MAX) 再以Trans-AM將壓縮粒子完全解放，`
 `便能使出強大功率的鐳射軍刀，範圍廣闊的程度曾被敵方以為是長距離的鐳射炮擊。`
 `後來知道完全解放底下功率過於強大，使用過後沒剩多少粒子殘量，`
-`改用GN Sword Ⅲ代替GN Sword Ⅱ作為近身武裝，因為GN Sword Ⅲ能有效地控制`**`Raiser``
- ``Sword`**`的功率。`
+`改用GN Sword Ⅲ代替GN Sword Ⅱ作為近身武裝，因為GN Sword Ⅲ能有效地控制`**`Raiser``   ``Sword`**`的功率。`
 
-`5. `**`Trans-AM``   ``Raiser``   ``Burst``
- ``Mode`**`。由經已覺醒的剎那所開啟的模式，成為純種的腦量子波與Twin Drive之間的聯動，`
+`5. `**`Trans-AM``   ``Raiser``   ``Burst``   ``Mode`**`。由經已覺醒的剎那所開啟的模式，成為純種的腦量子波與Twin Drive之間的聯動，`
 `GN粒子不以濃度以純度大量增加，被純度GN粒子覆蓋內的人與人之間腦內會產生聲音共鳴也能擴張意識，`
 `變革者的腦量子波也因此而被擾亂。讓無法使用`**`腦量子波`**`的普通人類也能在此範圍內以心靈感應方式互相對話。`
 **`GN粒子`**`本身也是能作為媒界，告知或者感知人們的想法與聲音，先一步採取行動。`
@@ -329,8 +304,7 @@ Drive系統同步率提升至300%（MAX）。
 <!-- end list -->
 
   -
-    剎那能夠同時啟動Trans-AM以及Raiser System令00強化模組GN電容器型產生如同Trans-AM
-    Burst的效果，但範圍和強度相對較弱。
+    剎那能夠同時啟動Trans-AM以及Raiser System令00強化模組GN電容器型產生如同Trans-AM Burst的效果，但範圍和強度相對較弱。
 
 ## 變化型
 
@@ -354,9 +328,7 @@ Drive系統同步率提升至300%（MAX）。
 
 官方外傳《機動戰士GUNDAM 00V》中登場。為搭載「七劍」裝備的00 GUNDAM。
 
-在雙重動力系統之性能被完全開發之前，假想剎那·F·塞耶必須駕駛00
-GUNDAM時的接近戰鬥用裝備。此裝備是曾被能天使GUNDAM採用的「七劍（Seven
-Sword）」的進化型，同樣擁有七把劍，但是每把劍均大幅度進化了，左肩上的GN破壞巨劍Ⅱ則取自GN-XⅡ近接戰鬥型的GN破壞巨劍。本裝備是新生的天上人在與剎那會合之前設計而成，在[拉格朗日点](../Page/拉格朗日点.md "wikilink")L3的工廠內研發。但是隨著後來雙爐系統之成功運作而失去作用，因而沒有投入實戰。
+在雙重動力系統之性能被完全開發之前，假想剎那·F·塞耶必須駕駛00 GUNDAM時的接近戰鬥用裝備。此裝備是曾被能天使GUNDAM採用的「七劍（Seven Sword）」的進化型，同樣擁有七把劍，但是每把劍均大幅度進化了，左肩上的GN破壞巨劍Ⅱ則取自GN-XⅡ近接戰鬥型的GN破壞巨劍。本裝備是新生的天上人在與剎那會合之前設計而成，在[拉格朗日点](../Page/拉格朗日点.md "wikilink")L3的工廠內研發。但是隨著後來雙爐系統之成功運作而失去作用，因而沒有投入實戰。
 
   - 高度：18.3公尺
   - 重量：65.1公噸（七劍型裝備重量10.2公噸）
@@ -411,10 +383,7 @@ Sword）」的進化型，同樣擁有七把劍，但是每把劍均大幅度進
 | 武裝                |
 | 特殊裝置              |
 
-在和變革者一戰後，因苦於天人資金資源圴不足。本機是以仁·華斯迪為了在新GUNDAM開發完成前維持戰力，而改修的「七劍」00
-GUNDAM。改修的「七劍」00
-GUNDAM只使用一台取自其他GN-Drive，另一核心組件則用GN電容器，不可能使用Trans-AM系統；只能夠勉强發動00
-GUNDAM。GN破壞巨劍II則和GNR-010 0強化戰機一樣，圴裝上安定雙爐控制系統。裝置了新設計的武裝——GN劍Ⅱ光炮型。
+在和變革者一戰後，因苦於天人資金資源圴不足。本機是以仁·華斯迪為了在新GUNDAM開發完成前維持戰力，而改修的「七劍」00 GUNDAM。改修的「七劍」00 GUNDAM只使用一台取自其他GN-Drive，另一核心組件則用GN電容器，不可能使用Trans-AM系統；只能夠勉强發動00 GUNDAM。GN破壞巨劍II則和GNR-010 0強化戰機一樣，圴裝上安定雙爐控制系統。裝置了新設計的武裝——GN劍Ⅱ光炮型。
 
   - 高度：18.3公尺
   - 重量：68.4公噸（七劍G型裝備重13.5公噸）

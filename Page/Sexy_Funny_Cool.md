@@ -1,24 +1,18 @@
 **SEXXY-FUNИY-COOL**是[香港](../Page/香港.md "wikilink")三人女子跳舞歌唱組合[HotCha](../Page/HotCha.md "wikilink")的第二張專輯，於2008年11月2日發行。此專輯以三款不同封面推出，分別是以[白色](../Page/白色.md "wikilink")背景為主的SEXXY（SEXY）版、以[啡色背景為主的FUNИY](https://zh.wikipedia.org/wiki/啡色 "wikilink")（FUNNY）版及以[黑色](../Page/黑色.md "wikilink")背景為主的COOL版。
 
-這張專輯的主打歌為《了了》、《小野蠻》及《You Are My Best
-Friend》，而隨碟附送的[DVD收錄了四首新歌](https://zh.wikipedia.org/wiki/DVD "wikilink")[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。此外，本專輯亦隨碟附送HotCha珍藏貼紙。
+這張專輯的主打歌為《了了》、《小野蠻》及《You Are My Best Friend》，而隨碟附送的[DVD收錄了四首新歌](https://zh.wikipedia.org/wiki/DVD "wikilink")[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。此外，本專輯亦隨碟附送HotCha珍藏貼紙。
 
-限定特別版以紅底白字為封面，內頁卻包含一套三款第一版的封面，並只發行500套。而熱舞版則以她們的首個公開售票演唱會「YOU ARE MY
-HotCha Debut Dance LIVE」的宣傳海報為封面。
+限定特別版以紅底白字為封面，內頁卻包含一套三款第一版的封面，並只發行500套。而熱舞版則以她們的首個公開售票演唱會「YOU ARE MY HotCha Debut Dance LIVE」的宣傳海報為封面。
 
 ## 曲目資料
 
 ### 第一版、限定特別版及熱舞版
 
-這張專輯收錄了八首新歌，其中《了了》、《小野蠻》、《火熱悶棍La La La》及《You Are My Best
-Friend》於專輯發行前已經派台。《旅行的意義》改編自[陳綺貞](../Page/陳綺貞.md "wikilink")的國語同名歌曲，而《火熱悶棍La
-La La》則與[I Love You
-Boyz合唱](../Page/I_Love_You_Boyz.md "wikilink")，並為[Neway](../Page/Neway.md "wikilink")歐洲國家杯的廣告歌。
+這張專輯收錄了八首新歌，其中《了了》、《小野蠻》、《火熱悶棍La La La》及《You Are My Best Friend》於專輯發行前已經派台。《旅行的意義》改編自[陳綺貞](../Page/陳綺貞.md "wikilink")的國語同名歌曲，而《火熱悶棍La La La》則與[I Love You Boyz合唱](../Page/I_Love_You_Boyz.md "wikilink")，並為[Neway](../Page/Neway.md "wikilink")歐洲國家杯的廣告歌。
 
 ### 2.0 讚賀版
 
-這張專輯加推了兩首派台歌《我要最喜愛的》及《然後會想起你》，其他歌曲則與第一版相同。其中《小野蠻》於新城勁爆頒獎禮2008獲得「勁爆跳舞歌曲大獎」，而《You
-are My Best Friend》於2008年度十大勁歌金曲頒獎典禮獲得「最受歡迎廣告歌曲大獎 銅獎」。
+這張專輯加推了兩首派台歌《我要最喜愛的》及《然後會想起你》，其他歌曲則與第一版相同。其中《小野蠻》於新城勁爆頒獎禮2008獲得「勁爆跳舞歌曲大獎」，而《You are My Best Friend》於2008年度十大勁歌金曲頒獎典禮獲得「最受歡迎廣告歌曲大獎 銅獎」。
 
 <table>
 <thead>
@@ -118,8 +112,7 @@ Edward Chan</p></td>
 </tbody>
 </table>
 
-而在隨碟附送的DVD內，收錄了新歌《我要最喜愛的》MV及2008年12月22日「YOU ARE MY HotCha Debut Dance
-LIVE」演唱會100分鐘20首歌曲的精華片段。
+而在隨碟附送的DVD內，收錄了新歌《我要最喜愛的》MV及2008年12月22日「YOU ARE MY HotCha Debut Dance LIVE」演唱會100分鐘20首歌曲的精華片段。
 
 | \#                                     | 曲名                | \#   | 曲名                                        |
 | -------------------------------------- | ----------------- | ---- | ----------------------------------------- |
@@ -138,13 +131,7 @@ LIVE」演唱會100分鐘20首歌曲的精華片段。
 
 ## 獎項
 
-  - [新城勁爆頒獎禮2008](../Page/2008年度新城勁爆頒獎禮得獎名單.md "wikilink") <small>─
-    勁爆跳舞歌曲大獎 《小野蠻》</small>
-  - [2008年度十大勁歌金曲頒獎典禮](../Page/2008年度十大勁歌金曲得獎名單.md "wikilink") <small>─
-    最受歡迎廣告歌曲大獎 銅獎 《You are My Best
-    Friend》（[Neway](../Page/Neway.md "wikilink")）</small>
+  - [新城勁爆頒獎禮2008](../Page/2008年度新城勁爆頒獎禮得獎名單.md "wikilink") <small>─ 勁爆跳舞歌曲大獎 《小野蠻》</small>
+  - [2008年度十大勁歌金曲頒獎典禮](../Page/2008年度十大勁歌金曲得獎名單.md "wikilink") <small>─ 最受歡迎廣告歌曲大獎 銅獎 《You are My Best Friend》（[Neway](../Page/Neway.md "wikilink")）</small>
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:HotCha音樂專輯](https://zh.wikipedia.org/wiki/Category:HotCha音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:HotCha音樂專輯](https://zh.wikipedia.org/wiki/Category:HotCha音樂專輯 "wikilink")

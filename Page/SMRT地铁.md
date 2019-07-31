@@ -1,4 +1,4 @@
-**新加坡地铁有限公司**（，簡稱**新加坡地鐵**，企業形象標誌為「**SMRT**」），是[新加坡的一家](../Page/新加坡.md "wikilink")[铁道公司](https://zh.wikipedia.org/wiki/铁道公司 "wikilink")，是[SMRT集团的](../Page/SMRT集团.md "wikilink")[子公司](../Page/子公司.md "wikilink")。自1987年SMRT開始運營新加坡首段地鐵網路[南北線起](https://zh.wikipedia.org/wiki/新加坡地鐵南北線 "wikilink")，目前，新加坡地铁有限公司运营着三条新加坡地铁线，即南北线、东西线、环线。SMRT也已经标得[汤申-东海岸地铁线的经营权](../Page/新加坡地铁汤申－东海岸线.md "wikilink")。
+**新加坡地铁有限公司**（，簡稱**新加坡地鐵**，企業形象標誌為「**SMRT**」），是[新加坡](../Page/新加坡.md "wikilink")的一家[铁道公司](https://zh.wikipedia.org/wiki/铁道公司 "wikilink")，是[SMRT集团](../Page/SMRT集团.md "wikilink")的[子公司](../Page/子公司.md "wikilink")。自1987年SMRT開始運營新加坡首段地鐵網路[南北線起](https://zh.wikipedia.org/wiki/新加坡地鐵南北線 "wikilink")，目前，新加坡地铁有限公司运营着三条新加坡地铁线，即南北线、东西线、环线。SMRT也已经标得[汤申-东海岸地铁线的经营权](../Page/新加坡地铁汤申－东海岸线.md "wikilink")。
 
 ## 簡史
 
@@ -8,13 +8,11 @@
 
 1987年12月12日，[諾維娜至](https://zh.wikipedia.org/wiki/諾維娜地鐵站 "wikilink")[歐南園區段的](https://zh.wikipedia.org/wiki/歐南園地鐵站 "wikilink")9個地鐵站由前[新加坡總理](../Page/新加坡總理.md "wikilink")[吳作棟主持開幕禮而正式開放](https://zh.wikipedia.org/wiki/吳作棟 "wikilink")。\[3\]
 
-1988年3月12日，[東西線上](https://zh.wikipedia.org/wiki/新加坡地鐵東西線 "wikilink")[中峇魯至](https://zh.wikipedia.org/wiki/中峇魯地鐵站 "wikilink")[金文泰區段的](https://zh.wikipedia.org/wiki/金文泰地鐵站 "wikilink")6個地鐵站啟用，政府大廈和萊佛士坊成為兩線的交會點。當天，在當時的[新加坡總理](../Page/新加坡總理.md "wikilink")[李光耀主持下](../Page/李光耀.md "wikilink")，新加坡地鐵正式投入運行。\[4\]
+1988年3月12日，[東西線上](https://zh.wikipedia.org/wiki/新加坡地鐵東西線 "wikilink")[中峇魯至](https://zh.wikipedia.org/wiki/中峇魯地鐵站 "wikilink")[金文泰區段的](https://zh.wikipedia.org/wiki/金文泰地鐵站 "wikilink")6個地鐵站啟用，政府大廈和萊佛士坊成為兩線的交會點。當天，在當時的[新加坡總理](../Page/新加坡總理.md "wikilink")[李光耀](../Page/李光耀.md "wikilink")主持下，新加坡地鐵正式投入運行。\[4\]
 
 1999年，輕軌列車系統作為地鐵網絡的支線系統投入服務。\[5\]\[6\]
 
-1990年7月6日，[東西線工程上的最後一個地鐵站](https://zh.wikipedia.org/wiki/新加坡地鐵東西線 "wikilink")
-——
-[文禮站啟用](https://zh.wikipedia.org/wiki/文禮站 "wikilink")，標誌着新加坡地鐵系統全部開通。\[7\]\[8\]
+1990年7月6日，[東西線工程上的最後一個地鐵站](https://zh.wikipedia.org/wiki/新加坡地鐵東西線 "wikilink") —— [文禮站啟用](https://zh.wikipedia.org/wiki/文禮站 "wikilink")，標誌着新加坡地鐵系統全部開通。\[7\]\[8\]
 
 2009年2月28日，文礼延长线（文礼 - 先驱 - 裕群）通车。\[9\]\[10\]
 
@@ -30,8 +28,7 @@
 
 2011年12月15日，新加坡地鐵網絡經歷很可能是24年的營運歷史內最糟的故障，南北線因電力供應器故障在黑暗與不通風的情況下停止運作一小時。\[16\]
 
-2017年10月7日，新加坡南北線鐵路發生水浸，多個地鐵站被波及，包括碧山、布萊德和的大巴窑之間各站，服務延誤將近21小時。\[17\]
-11月7日，水浸停駛事件內部調查完畢，總共有13名員工因為疏忽職守已遭停職，包括7名管理層。SMRT為事件致歉，並承諾會改革公司制度以防止意外再度發生。\[18\]
+2017年10月7日，新加坡南北線鐵路發生水浸，多個地鐵站被波及，包括碧山、布萊德和的大巴窑之間各站，服務延誤將近21小時。\[17\] 11月7日，水浸停駛事件內部調查完畢，總共有13名員工因為疏忽職守已遭停職，包括7名管理層。SMRT為事件致歉，並承諾會改革公司制度以防止意外再度發生。\[18\]
 
 2017年11月15日，新加坡地鐵早上發生追尾相撞事故，一輛列車在裕群站附近撞上另一輛停在路軌的列車，導致至少25名乘客受傷。由於事發於繁忙時間，部分列車因而受影響延誤約20分鐘。\[19\]
 
@@ -216,14 +213,11 @@ SMRT地铁有限公司的電動車組維修保養工作分別由5個維修車廠
 
   - [SMRT地铁网址](http://www.smrt.com.sg)
 
-[Category:新加坡铁路公司](https://zh.wikipedia.org/wiki/Category:新加坡铁路公司 "wikilink")
-[Category:新加坡地铁](https://zh.wikipedia.org/wiki/Category:新加坡地铁 "wikilink")
+[Category:新加坡铁路公司](https://zh.wikipedia.org/wiki/Category:新加坡铁路公司 "wikilink") [Category:新加坡地铁](https://zh.wikipedia.org/wiki/Category:新加坡地铁 "wikilink")
 
 1.
 
-2.  [Mass Rapid Transit Corporation, Singapore
-    1988](https://zh.wikipedia.org/wiki/新加坡地铁历史#mrt1988 "wikilink"), pg.
-    8-9
+2.  [Mass Rapid Transit Corporation, Singapore 1988](https://zh.wikipedia.org/wiki/新加坡地铁历史#mrt1988 "wikilink"), pg. 8-9
 
 3.
 4.
@@ -232,13 +226,9 @@ SMRT地铁有限公司的電動車組維修保養工作分別由5個維修車廠
 
 6.
 
-7.  [Mass Rapid Transit Corporation, Singapore
-    1988](https://zh.wikipedia.org/wiki/新加坡地铁历史#mrt1988 "wikilink"), pg.
-    10
+7.  [Mass Rapid Transit Corporation, Singapore 1988](https://zh.wikipedia.org/wiki/新加坡地铁历史#mrt1988 "wikilink"), pg. 10
 
-8.  [Sharp
-    2005](https://zh.wikipedia.org/wiki/新加坡地铁历史#sharp2005 "wikilink"),
-    pg. 109
+8.  [Sharp 2005](https://zh.wikipedia.org/wiki/新加坡地铁历史#sharp2005 "wikilink"), pg. 109
 
 9.
 

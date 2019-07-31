@@ -1,6 +1,4 @@
-《**HERE WE
-GO\!**》是[嵐](../Page/嵐.md "wikilink")的第3枚專輯，第2枚原創專輯。於2002年7月17日發行。唱片公司為[J
-Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封套不一樣。初回生產限定盤附送宣傳活動的應募券，通常盤則附送小冊子。
+《**HERE WE GO\!**》是[嵐](../Page/嵐.md "wikilink")的第3枚專輯，第2枚原創專輯。於2002年7月17日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封套不一樣。初回生產限定盤附送宣傳活動的應募券，通常盤則附送小冊子。
 
 ## 收錄曲
 
@@ -16,9 +14,7 @@ Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封�
     （作詞：戶澤暢美　作曲・編曲：岩田雅之）
 4.  **Tokyo Lovers Tune Night** (3:43)
     （作詞：久保田洋司　作曲・編曲：Charles Hodgkinson，Sagat Guirey，Kirk Zavieh）
-5.  **[a Day in Our
-    Life](https://zh.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")**
-    (4:39)
+5.  **[a Day in Our Life](https://zh.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")** (4:39)
     （作詞・作曲・編曲：SHUN，SHUYA）
       -
         7th單曲
@@ -46,5 +42,4 @@ Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封�
         8th單曲
         富士台動畫《[烏龍派出所](../Page/烏龍派出所.md "wikilink")》結尾曲
 
-[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
+[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")

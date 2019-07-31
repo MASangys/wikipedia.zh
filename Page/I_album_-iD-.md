@@ -1,25 +1,16 @@
-**I album
--iD-**是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")9張[專輯](../Page/音樂專輯.md "wikilink")。於2006年12月13日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
+**I album -iD-**是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")9張[專輯](../Page/音樂專輯.md "wikilink")。於2006年12月13日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說
 
-本專輯是與上張專輯『[H album
--H·A·N·D-](../Page/H_album_-H·A·N·D-.md "wikilink")』相隔約1年零一個月的第九張原創專輯。由於成員兩人各自忙於個人活動之中，所以在本年的前半年並沒有任何以團體名義推出的作品。踏入下半年，才在7月推出本年度首張單曲『[夏日風情](../Page/夏日風情.md "wikilink")』。結果在11月再次推出新單曲『[十二月禮讚](../Page/Harmony_of_December.md "wikilink")』時，便同時間公佈了會在12月推出年度專輯。
+本專輯是與上張專輯『[H album -H·A·N·D-](../Page/H_album_-H·A·N·D-.md "wikilink")』相隔約1年零一個月的第九張原創專輯。由於成員兩人各自忙於個人活動之中，所以在本年的前半年並沒有任何以團體名義推出的作品。踏入下半年，才在7月推出本年度首張單曲『[夏日風情](../Page/夏日風情.md "wikilink")』。結果在11月再次推出新單曲『[十二月禮讚](../Page/Harmony_of_December.md "wikilink")』時，便同時間公佈了會在12月推出年度專輯。
 
-本專輯已經是連續第三張專輯附有副題，與近幾年的年度專輯都放在年末推出一樣成為了慣例。副題的“iD”包含了眾多意義：成員二人的身份証明（identity）、本能上的衝動（[拉丁語裡id的意思](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")）、正進行個人活動中的二人亦會回歸自己的『原點』繼續KinKi
-Kids的團體活動、[音樂才是二人的](https://zh.wikipedia.org/wiki/音樂 "wikilink")[ID](https://zh.wikipedia.org/wiki/ID "wikilink")。是一張把KinKi
-Kids的存在重新審視的作品。
+本專輯已經是連續第三張專輯附有副題，與近幾年的年度專輯都放在年末推出一樣成為了慣例。副題的“iD”包含了眾多意義：成員二人的身份証明（identity）、本能上的衝動（[拉丁語裡id的意思](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")）、正進行個人活動中的二人亦會回歸自己的『原點』繼續KinKi Kids的團體活動、[音樂才是二人的](https://zh.wikipedia.org/wiki/音樂 "wikilink")[ID](https://zh.wikipedia.org/wiki/ID "wikilink")。是一張把KinKi Kids的存在重新審視的作品。
 
-另外據[堂本光一表示](../Page/堂本光一.md "wikilink")，副題之所以選定為“iD”二字，「因為把我們兩個的名字以[羅馬字書寫的話](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")，就會是『Koich**i
-D**omoto・Tsuyosh**i D**omoto』。就是說名字的最後一個字與姓氏的第一個字就是iD二字。」
+另外據[堂本光一](../Page/堂本光一.md "wikilink")表示，副題之所以選定為“iD”二字，「因為把我們兩個的名字以[羅馬字書寫的話](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")，就會是『Koich**i D**omoto・Tsuyosh**i D**omoto』。就是說名字的最後一個字與姓氏的第一個字就是iD二字。」
 
-本專輯共收錄了三張單曲的A面曲。分別是『H album -H・A・N・D-』推出時未有收錄的『[SNOW\! SNOW\!
-SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")』、「[夏日風情](../Page/夏日風情.md "wikilink")」以及僅在專輯發售前兩星期推出的『[十二月禮讚](../Page/Harmony_of_December.md "wikilink")』。這是KinKi
-Kids名義上首次發行的專輯先行單曲。
+本專輯共收錄了三張單曲的A面曲。分別是『H album -H・A・N・D-』推出時未有收錄的『[SNOW\! SNOW\! SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")』、「[夏日風情](../Page/夏日風情.md "wikilink")」以及僅在專輯發售前兩星期推出的『[十二月禮讚](../Page/Harmony_of_December.md "wikilink")』。這是KinKi Kids名義上首次發行的專輯先行單曲。
 
-與上張專輯一樣，分開了初回版和通常版兩個版本。初回版隨碟附送收錄了「Harmony of December」PV、PV製作特輯和在『KinKi
-Kids H TOUR -Have A Nice Day-』演唱會上獻唱「SNOW\! SNOW\!
-SNOW\!」片段的DVD碟片，以及32頁的歌詞本。而通常版除了封面不同外，隨碟附送20頁的歌詞本，以及多收錄一首歌曲。在封面設計上，無論初回版或通常版都使用了把兩人的照片不斷重覆作背景的設計。
+與上張專輯一樣，分開了初回版和通常版兩個版本。初回版隨碟附送收錄了「Harmony of December」PV、PV製作特輯和在『KinKi Kids H TOUR -Have A Nice Day-』演唱會上獻唱「SNOW\! SNOW\! SNOW\!」片段的DVD碟片，以及32頁的歌詞本。而通常版除了封面不同外，隨碟附送20頁的歌詞本，以及多收錄一首歌曲。在封面設計上，無論初回版或通常版都使用了把兩人的照片不斷重覆作背景的設計。
 
 ## 收錄歌曲
 
@@ -82,8 +73,7 @@ SNOW\!」片段的DVD碟片，以及32頁的歌詞本。而通常版除了封面
       - 和音編排：[高橋哲也](https://zh.wikipedia.org/wiki/高橋哲也 "wikilink")
 12. **十二月禮讚**（**Harmony of December**）
       - ※第24張單曲。
-      - 作曲：[Mashiko
-        Tatsuro](https://zh.wikipedia.org/wiki/Mashiko_Tatsuro "wikilink")
+      - 作曲：[Mashiko Tatsuro](https://zh.wikipedia.org/wiki/Mashiko_Tatsuro "wikilink")
       - 作詞：Mashiko Tatsuro
       - 編曲：[ha-j](https://zh.wikipedia.org/wiki/ha-j "wikilink")
 
@@ -107,6 +97,4 @@ SNOW\!」片段的DVD碟片，以及32頁的歌詞本。而通常版除了封面
       - 編曲：[garamonn](https://zh.wikipedia.org/wiki/garamonn "wikilink")
       - 和音編排：[岩田雅之](https://zh.wikipedia.org/wiki/岩田雅之 "wikilink")
 
-[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:2006年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:2006年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon專輯週榜冠軍作品 "wikilink")

@@ -10,7 +10,4 @@
   - **[斯蒂文·史密斯](https://zh.wikipedia.org/wiki/斯蒂文·史密斯 "wikilink")**（，曾执行、、以及任务），任务专家
   - **[约瑟夫·坦纳](https://zh.wikipedia.org/wiki/约瑟夫·坦纳 "wikilink")**（，曾执行、、以及任务），任务专家
 
-[Category:1997年美国](https://zh.wikipedia.org/wiki/Category:1997年美国 "wikilink")
-[Category:1997年科學](https://zh.wikipedia.org/wiki/Category:1997年科學 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:1997年2月](https://zh.wikipedia.org/wiki/Category:1997年2月 "wikilink")
+[Category:1997年美国](https://zh.wikipedia.org/wiki/Category:1997年美国 "wikilink") [Category:1997年科學](https://zh.wikipedia.org/wiki/Category:1997年科學 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:1997年2月](https://zh.wikipedia.org/wiki/Category:1997年2月 "wikilink")

@@ -8,9 +8,7 @@
 
 ## 反应机理
 
-加热时，α-吡啶甲酸发生[脱羧](https://zh.wikipedia.org/wiki/脱羧 "wikilink")，生成[两性离子](../Page/两性离子.md "wikilink")
-(2)。该离子与强[亲电试剂](https://zh.wikipedia.org/wiki/亲电试剂 "wikilink")（如[醛](../Page/醛.md "wikilink")）作用，发生对羰基的[亲核加成](https://zh.wikipedia.org/wiki/亲核加成 "wikilink")。加成产物发生质子转移，便得到原醇
-(4)。
+加热时，α-吡啶甲酸发生[脱羧](https://zh.wikipedia.org/wiki/脱羧 "wikilink")，生成[两性离子](../Page/两性离子.md "wikilink") (2)。该离子与强[亲电试剂](https://zh.wikipedia.org/wiki/亲电试剂 "wikilink")（如[醛](../Page/醛.md "wikilink")）作用，发生对羰基的[亲核加成](https://zh.wikipedia.org/wiki/亲核加成 "wikilink")。加成产物发生质子转移，便得到原醇 (4)。
 
 [Hammick_Reaction_Mechanism.png](https://zh.wikipedia.org/wiki/File:Hammick_Reaction_Mechanism.png "fig:Hammick_Reaction_Mechanism.png")
 
@@ -20,9 +18,7 @@
 
 ## 参考资料
 
-[Category:加成反应](https://zh.wikipedia.org/wiki/Category:加成反应 "wikilink")
-[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:加成反应](https://zh.wikipedia.org/wiki/Category:加成反应 "wikilink") [Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

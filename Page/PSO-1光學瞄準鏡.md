@@ -1,14 +1,8 @@
-[Tigr_pso_1_med.jpg](https://zh.wikipedia.org/wiki/File:Tigr_pso_1_med.jpg "fig:Tigr_pso_1_med.jpg")
-[51AirborneRegiment49_(cropped).jpg](https://zh.wikipedia.org/wiki/File:51AirborneRegiment49_\(cropped\).jpg "fig:51AirborneRegiment49_(cropped).jpg")
-[Pso-1onsvd.jpg](https://zh.wikipedia.org/wiki/File:Pso-1onsvd.jpg "fig:Pso-1onsvd.jpg")
+[Tigr_pso_1_med.jpg](https://zh.wikipedia.org/wiki/File:Tigr_pso_1_med.jpg "fig:Tigr_pso_1_med.jpg") [51AirborneRegiment49_(cropped).jpg](https://zh.wikipedia.org/wiki/File:51AirborneRegiment49_\(cropped\).jpg "fig:51AirborneRegiment49_(cropped).jpg") [Pso-1onsvd.jpg](https://zh.wikipedia.org/wiki/File:Pso-1onsvd.jpg "fig:Pso-1onsvd.jpg")
 
-[Pso-1_grid.png](https://zh.wikipedia.org/wiki/File:Pso-1_grid.png "fig:Pso-1_grid.png")
-[PSO-1_and_PSO-1-1_Reticle_Scheme.png](https://zh.wikipedia.org/wiki/File:PSO-1_and_PSO-1-1_Reticle_Scheme.png "fig:PSO-1_and_PSO-1-1_Reticle_Scheme.png")
-[PSO-1_and_PGO-7_Reticle_Scheme.png](https://zh.wikipedia.org/wiki/File:PSO-1_and_PGO-7_Reticle_Scheme.png "fig:PSO-1_and_PGO-7_Reticle_Scheme.png")
+[Pso-1_grid.png](https://zh.wikipedia.org/wiki/File:Pso-1_grid.png "fig:Pso-1_grid.png") [PSO-1_and_PSO-1-1_Reticle_Scheme.png](https://zh.wikipedia.org/wiki/File:PSO-1_and_PSO-1-1_Reticle_Scheme.png "fig:PSO-1_and_PSO-1-1_Reticle_Scheme.png") [PSO-1_and_PGO-7_Reticle_Scheme.png](https://zh.wikipedia.org/wiki/File:PSO-1_and_PGO-7_Reticle_Scheme.png "fig:PSO-1_and_PGO-7_Reticle_Scheme.png")
 
-[苏联](../Page/苏联.md "wikilink")**PSO-1**[瞄准镜](../Page/瞄准镜.md "wikilink")（PSO，[俄语罗马化](../Page/俄语罗马化.md "wikilink")全寫：，，意為：狙擊手用光學瞄準具）是一種在大約1963年開始生產，使用當時是苏联最先進的光學技術設計而成的快拆式（[英文](../Page/英语.md "wikilink")：Quick-detachable）望遠鏡，大規模生產給苏联製[突击步枪](../Page/突击步枪.md "wikilink")、[精確射手步槍](../Page/精確射手步槍.md "wikilink")（，簡稱：DMR）或[狙擊步槍使用](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。目前的PSO-1瞄準鏡是由[俄罗斯](../Page/俄罗斯.md "wikilink")的[新西伯利亚](../Page/新西伯利亚.md "wikilink")儀器製造工廠（NPZ國家光學機器設備廠，英文：NPZ
-Optics State
-Plant）製造，並且運送到[俄羅斯軍隊](../Page/俄罗斯军事.md "wikilink")，給[SVD系列狙擊步槍使用](../Page/SVD狙擊步槍.md "wikilink")。\[1\]其設計特點是非常好的瞄准镜的內部，令一名狙擊手迅速確定距離，並且在校正的過程中的不需要轉動手輪。\[2\]\[3\]瞄准镜的內部充滿[氮](../Page/氮.md "wikilink")氣，並且完全密封，以防止霧化等的情況導致光學裝置的失效。它備有一個瞄准镜袋子連協助攜帶的皮帶、瞄准镜套、物鏡罩、遮陽板、電源適配器、備用燈泡和電源。其使用的溫度範圍為±50[℃](../Page/摄氏温标.md "wikilink")。
+[苏联](../Page/苏联.md "wikilink")**PSO-1**[瞄准镜](../Page/瞄准镜.md "wikilink")（PSO，[俄语罗马化](../Page/俄语罗马化.md "wikilink")全寫：，，意為：狙擊手用光學瞄準具）是一種在大約1963年開始生產，使用當時是苏联最先進的光學技術設計而成的快拆式（[英文](../Page/英语.md "wikilink")：Quick-detachable）望遠鏡，大規模生產給苏联製[突击步枪](../Page/突击步枪.md "wikilink")、[精確射手步槍](../Page/精確射手步槍.md "wikilink")（，簡稱：DMR）或[狙擊步槍使用](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。目前的PSO-1瞄準鏡是由[俄罗斯](../Page/俄罗斯.md "wikilink")的[新西伯利亚](../Page/新西伯利亚.md "wikilink")儀器製造工廠（NPZ國家光學機器設備廠，英文：NPZ Optics State Plant）製造，並且運送到[俄羅斯軍隊](../Page/俄罗斯军事.md "wikilink")，給[SVD系列狙擊步槍使用](../Page/SVD狙擊步槍.md "wikilink")。\[1\]其設計特點是非常好的瞄准镜的內部，令一名狙擊手迅速確定距離，並且在校正的過程中的不需要轉動手輪。\[2\]\[3\]瞄准镜的內部充滿[氮](../Page/氮.md "wikilink")氣，並且完全密封，以防止霧化等的情況導致光學裝置的失效。它備有一個瞄准镜袋子連協助攜帶的皮帶、瞄准镜套、物鏡罩、遮陽板、電源適配器、備用燈泡和電源。其使用的溫度範圍為±50[℃](../Page/摄氏温标.md "wikilink")。
 
 ## 設計細節
 
@@ -34,8 +28,7 @@ PSO-1瞄準鏡內部有一個快速距離換算表，其左下角有一自左下
 
 当弹道手轮调至最上端「∧」对应1,000公尺（1,093.61碼，3,280.84英尺，0.62英里）处目标时（最大的BDC距離是由海拔圓柱調整。注意：不是不可能，只是要擊中需要運氣），下面三个「∧」相应代表1,100公尺（1,202.97码，3,608.92英尺，0.68英里）、1,200公尺（1,312.34码，3,937.01英尺，0.75英里）和1,300公尺（1,421.7码，4,265.09英尺，0.81英里）处弹着。\[5\]
 
-中央式平分的水平密位刻度，每小格对应100米处10厘米（一个[密位角](https://zh.wikipedia.org/wiki/密位角 "wikilink")），除了可以利用密位計算用以彌補風或移動目標的偏修正量，也可以用於其他[運動度量測距目標](https://zh.wikipedia.org/wiki/運動度量測距 "wikilink")。\[6\]因為它們的間距為1
-[毫弧度](../Page/毫弧度.md "wikilink")的間隔，這意味著如果一個對象是5公尺（5.47码）寬，將出現10個寬500公尺（546.81码，1,640.42英尺）的散列。
+中央式平分的水平密位刻度，每小格对应100米处10厘米（一个[密位角](https://zh.wikipedia.org/wiki/密位角 "wikilink")），除了可以利用密位計算用以彌補風或移動目標的偏修正量，也可以用於其他[運動度量測距目標](https://zh.wikipedia.org/wiki/運動度量測距 "wikilink")。\[6\]因為它們的間距為1 [毫弧度](../Page/毫弧度.md "wikilink")的間隔，這意味著如果一個對象是5公尺（5.47码）寬，將出現10個寬500公尺（546.81码，1,640.42英尺）的散列。
 
 若將假定**身高1.7[公尺](../Page/米_\(单位\).md "wikilink")（170厘米，5尺7寸）的立姿目標**足部下緣切齊於基準水平線上，而其頭部頂端吻合弧線下緣，則對照弧線數字，若為4，意味目標距離射手400[公尺遠](../Page/米_\(单位\).md "wikilink")，其餘依此類推。
 
@@ -77,11 +70,9 @@ PSO-1可以在鏡片前方裝在一個物鏡罩，並且可裝在遮陽板上，
 
 ## 使用國及相似的瞄準鏡
 
-  - ／：PSO-1系列瞄準鏡：PSO 4×24M、PSO 6×24M、PSO 6×42、PSO 8×42、PSO 8×42D、PSO
-    4—8×42D、1P21（PO 3—9×42M）\[8\]
+  - ／：PSO-1系列瞄準鏡：PSO 4×24M、PSO 6×24M、PSO 6×42、PSO 8×42、PSO 8×42D、PSO 4—8×42D、1P21（PO 3—9×42M）\[8\]
 
-  - ：LPS 4×6
-    °TIP2瞄準鏡，多半只有一個迷你放射性[氚](../Page/氚.md "wikilink")瓶作為照明光源，由[IOR製造](https://zh.wikipedia.org/wiki/IOR "wikilink")
+  - ：LPS 4×6 °TIP2瞄準鏡，多半只有一個迷你放射性[氚](../Page/氚.md "wikilink")瓶作為照明光源，由[IOR製造](https://zh.wikipedia.org/wiki/IOR "wikilink")
 
   - ：JJJ式瞄準鏡
 
@@ -118,19 +109,7 @@ PSO-1可以在鏡片前方裝在一個物鏡罩，並且可裝在遮陽板上，
 
 ## 圖集
 
-<File:2011>. День защиты детей в Донецке 074.jpg|裝上PSO-1瞄准镜的SVD
-<File:SVD> rifle detail.jpg|裝上PSO-1瞄准镜的SVDS <File:Снайперская> винтовка
-СВДК - ЦНИИТОЧМАШ 01.jpg|裝上PSO-1瞄準鏡的SVDK（左視圖） <File:Снайперская>
-винтовка СВДК - ЦНИИТОЧМАШ 02.jpg|裝上PSO-1瞄準鏡的SVDK（右視圖）
-[File:СВУ-АС.jpg|裝上PSO-1瞄准镜的SVU-AM](File:СВУ-АС.jpg%7C裝上PSO-1瞄准镜的SVU-AM)
-<File:Tsv>
-b.jpg|裝上PSO-1瞄准镜的TSV（SVD的[.22衍生型](../Page/.22_LR.md "wikilink")）
-[File:VSK-94.jpg|裝上PSO-1瞄準鏡和](File:VSK-94.jpg%7C裝上PSO-1瞄準鏡和)[消聲器的VSK](../Page/抑制器.md "wikilink")-94（左右視圖）
-<File:SR-3M> left
-view.jpg|裝上PSO-1瞄準鏡和[消聲器的SR](../Page/抑制器.md "wikilink")-3M（左視圖）
-<File:SR-3M> right
-view.jpg|裝上PSO-1瞄準鏡和[消聲器的SR](../Page/抑制器.md "wikilink")-3M（右視圖）
-<File:PSO-1> reticle Romanian 2.JPG|PSO的優化模式測距的左下角可以用來確定距離從170厘米高的目標
+<File:2011>. День защиты детей в Донецке 074.jpg|裝上PSO-1瞄准镜的SVD <File:SVD> rifle detail.jpg|裝上PSO-1瞄准镜的SVDS <File:Снайперская> винтовка СВДК - ЦНИИТОЧМАШ 01.jpg|裝上PSO-1瞄準鏡的SVDK（左視圖） <File:Снайперская> винтовка СВДК - ЦНИИТОЧМАШ 02.jpg|裝上PSO-1瞄準鏡的SVDK（右視圖） [File:СВУ-АС.jpg|裝上PSO-1瞄准镜的SVU-AM](File:СВУ-АС.jpg%7C裝上PSO-1瞄准镜的SVU-AM) <File:Tsv> b.jpg|裝上PSO-1瞄准镜的TSV（SVD的[.22衍生型](../Page/.22_LR.md "wikilink")） [File:VSK-94.jpg|裝上PSO-1瞄準鏡和](File:VSK-94.jpg%7C裝上PSO-1瞄準鏡和)[消聲器的VSK](../Page/抑制器.md "wikilink")-94（左右視圖） <File:SR-3M> left view.jpg|裝上PSO-1瞄準鏡和[消聲器的SR](../Page/抑制器.md "wikilink")-3M（左視圖） <File:SR-3M> right view.jpg|裝上PSO-1瞄準鏡和[消聲器的SR](../Page/抑制器.md "wikilink")-3M（右視圖） <File:PSO-1> reticle Romanian 2.JPG|PSO的優化模式測距的左下角可以用來確定距離從170厘米高的目標
 
 ## 資料來源
 
@@ -139,32 +118,25 @@ view.jpg|裝上PSO-1瞄準鏡和[消聲器的SR](../Page/抑制器.md "wikilink"
 ### 參考
 
   - [SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")
-  - [NSP-3夜視瞄準鏡](https://zh.wikipedia.org/wiki/NSP-3夜視瞄準鏡 "wikilink")
+  - [NSP-3夜視瞄準鏡](../Page/NSP-3夜視瞄準鏡.md "wikilink")
   - [PKS-07光學狙擊鏡](https://zh.wikipedia.org/wiki/PKS-07光學狙擊鏡 "wikilink")
   - [超子光學瞄準鏡](../Page/超子光學瞄準鏡.md "wikilink")
 
 ## 外部連結
 
-  - —[PSO-1 at NPZ Optics State Plant
-    website](https://web.archive.org/web/20060530131459/http://www.npzoptics.com/market/shopping/product_details.shtml?id=101&product_id=107&is_spec=1)
+  - —[PSO-1 at NPZ Optics State Plant website](https://web.archive.org/web/20060530131459/http://www.npzoptics.com/market/shopping/product_details.shtml?id=101&product_id=107&is_spec=1)
 
-  - —[Dragunov.net—PSO-1 telescopic
-    sight](https://web.archive.org/web/20090916035502/http://www.dragunov.net/pso.html)
+  - —[Dragunov.net—PSO-1 telescopic sight](https://web.archive.org/web/20090916035502/http://www.dragunov.net/pso.html)
 
-  - —[PSO-1 Sniper Rifle Scope with SVD side-rail
-    mount](http://www.binocularsmart.com/scopes/svd-rifle-scopes-pso-1.shtml)
+  - —[PSO-1 Sniper Rifle Scope with SVD side-rail mount](http://www.binocularsmart.com/scopes/svd-rifle-scopes-pso-1.shtml)
 
-  - —[POSP 4x24 PSO-1 Rifle Scopes Instruction
-    Manual](http://www.scribd.com/doc/12891542/POSP-4x24-PSO1-Rifle-Scopes-Instruction-Manual)
+  - —[POSP 4x24 PSO-1 Rifle Scopes Instruction Manual](http://www.scribd.com/doc/12891542/POSP-4x24-PSO1-Rifle-Scopes-Instruction-Manual)
 
-  - —[PSO-1 telescopic sight | Guns collecting of military or historical
-    interest](http://www.gunscollecting.com/english/scopes/pso-1-telescopic-sight/)
+  - —[PSO-1 telescopic sight | Guns collecting of military or historical interest](http://www.gunscollecting.com/english/scopes/pso-1-telescopic-sight/)
 
-  - —[D Boy Gun
-    World（槍炮世界）—卡拉什尼科夫专辑—瞄准镜架辅助导轨](http://firearmsworld.net/russain/kalash/acces/mount.htm)
+  - —[D Boy Gun World（槍炮世界）—卡拉什尼科夫专辑—瞄准镜架辅助导轨](http://firearmsworld.net/russain/kalash/acces/mount.htm)
 
-  - —[百步穿楊—蘇聯Dragunov
-    SVD狙擊槍](http://home.comcast.net/~light123/index.htm)
+  - —[百步穿楊—蘇聯Dragunov SVD狙擊槍](http://home.comcast.net/~light123/index.htm)
 
 [Category:槍械瞄準](https://zh.wikipedia.org/wiki/Category:槍械瞄準 "wikilink")
 
@@ -174,13 +146,10 @@ view.jpg|裝上PSO-1瞄準鏡和[消聲器的SR](../Page/抑制器.md "wikilink"
 
 3.
 
-4.  因此，士兵可以快速拆卸和安裝光學瞄準鏡，而且保持瞄準鏡歸零。[PSO-1
-    Manual](http://www.ar15.com/content/manuals/pos1.pdf)
+4.  因此，士兵可以快速拆卸和安裝光學瞄準鏡，而且保持瞄準鏡歸零。[PSO-1 Manual](http://www.ar15.com/content/manuals/pos1.pdf)
 
 5.
 6.  [POSP／PSO-1固定倍率瞄准镜说明书／Manual](http://www.kalinkaoptics.com/Manuals/KOPOSPFixedManual.pdf)
 
-
 7.
-8.  [DRAGUNOV OPTICS
-    APPLICATIONS](http://images.google.nl/imgres?imgurl=http://tantal.kalashnikov.guns.ru/pso/psopartsdiagram.jpg&imgrefurl=http://tantal.kalashnikov.guns.ru/bstpso.html&usg=__uSnRlifElsa9kr7ZgpPsFI1EdHo=&h=360&w=750&sz=58&hl=nl&start=874&um=1&tbnid=GO8ukNajKTDI7M:&tbnh=68&tbnw=141&prev=/images%3Fq%3Ddiopter%26ndsp%3D20%26hl%3Dnl%26client%3Dopera%26rls%3Dnl%26sa%3DN%26start%3D860%26um%3D1)
+8.  [DRAGUNOV OPTICS APPLICATIONS](http://images.google.nl/imgres?imgurl=http://tantal.kalashnikov.guns.ru/pso/psopartsdiagram.jpg&imgrefurl=http://tantal.kalashnikov.guns.ru/bstpso.html&usg=__uSnRlifElsa9kr7ZgpPsFI1EdHo=&h=360&w=750&sz=58&hl=nl&start=874&um=1&tbnid=GO8ukNajKTDI7M:&tbnh=68&tbnw=141&prev=/images%3Fq%3Ddiopter%26ndsp%3D20%26hl%3Dnl%26client%3Dopera%26rls%3Dnl%26sa%3DN%26start%3D860%26um%3D1)

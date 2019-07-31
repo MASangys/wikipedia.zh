@@ -10,9 +10,7 @@
 
 </div>
 
-[Category:美国记者](https://zh.wikipedia.org/wiki/Category:美国记者 "wikilink")
-[Category:布朗大学校友](https://zh.wikipedia.org/wiki/Category:布朗大学校友 "wikilink")
-[Category:人质](https://zh.wikipedia.org/wiki/Category:人质 "wikilink")
+[Category:美国记者](https://zh.wikipedia.org/wiki/Category:美国记者 "wikilink") [Category:布朗大学校友](https://zh.wikipedia.org/wiki/Category:布朗大学校友 "wikilink") [Category:人质](https://zh.wikipedia.org/wiki/Category:人质 "wikilink")
 
 1.
 2.

@@ -31,8 +31,7 @@
 
 ## 製作
 
-  - 原作：[Monkey
-    Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")、[青山剛昌](../Page/青山剛昌.md "wikilink")
+  - 原作：[Monkey Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")、[青山剛昌](../Page/青山剛昌.md "wikilink")
   - 監督：龜垣一
   - 腳本：前川淳
   - 人物設定：平山智/須藤昌朋
@@ -99,12 +98,6 @@
   -
   -
   -
-[Category:鲁邦三世](https://zh.wikipedia.org/wiki/Category:鲁邦三世 "wikilink")
-[Category:名偵探柯南](https://zh.wikipedia.org/wiki/Category:名偵探柯南 "wikilink")
-[Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
-[Category:虛構國家背景作品](https://zh.wikipedia.org/wiki/Category:虛構國家背景作品 "wikilink")
-[Category:交換身分題材動畫](https://zh.wikipedia.org/wiki/Category:交換身分題材動畫 "wikilink")
-[Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")
+[Category:鲁邦三世](https://zh.wikipedia.org/wiki/Category:鲁邦三世 "wikilink") [Category:名偵探柯南](https://zh.wikipedia.org/wiki/Category:名偵探柯南 "wikilink") [Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:虛構國家背景作品](https://zh.wikipedia.org/wiki/Category:虛構國家背景作品 "wikilink") [Category:交換身分題材動畫](https://zh.wikipedia.org/wiki/Category:交換身分題材動畫 "wikilink") [Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")
 
 1.

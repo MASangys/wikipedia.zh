@@ -2,32 +2,24 @@
 
 ## McIlroy：A Quarter Century of Unix
 
-[道格拉斯·麥克羅伊](../Page/道格拉斯·麥克羅伊.md "wikilink")是Unix系统上[管道机制的发明者](../Page/管道_\(Unix\).md "wikilink")，也是Unix文化的缔造者之一。他归纳的Unix哲学如下：
- 更加简化的版本是：做一件事，做好它。虽然只有第三条是特指Unix系统的，但Unix开发者们常常同时强调这三个信条。
+[道格拉斯·麥克羅伊](../Page/道格拉斯·麥克羅伊.md "wikilink")是Unix系统上[管道机制的发明者](../Page/管道_\(Unix\).md "wikilink")，也是Unix文化的缔造者之一。他归纳的Unix哲学如下：  更加简化的版本是：做一件事，做好它。虽然只有第三条是特指Unix系统的，但Unix开发者们常常同时强调这三个信条。
 
 ## Pike：Notes on Programming in C
 
-[羅勃·派克](../Page/羅勃·派克.md "wikilink")在他的《[Notes on Programming in
-C](http://www.lysator.liu.se/c/pikestyle.html)》中提到了以下格言。虽然这些规则是关于[程序设计](../Page/程序设计.md "wikilink")的，但作为Unix哲学丝毫不为过：
+[羅勃·派克](../Page/羅勃·派克.md "wikilink")在他的《[Notes on Programming in C](http://www.lysator.liu.se/c/pikestyle.html)》中提到了以下格言。虽然这些规则是关于[程序设计](../Page/程序设计.md "wikilink")的，但作为Unix哲学丝毫不为过：
 
   - 规则一：你永远不会知道你的程序会在什么地方耗费时间。程序的[瓶颈常常出现在意想不到的地方](https://zh.wikipedia.org/wiki/瓶颈 "wikilink")，因此在你确信找到瓶颈后再动手代码吧。
   - 规则二：测试代码。只有在你详细测试了代码，并且发现一部分代码耗费了绝大部分的运行时间时再对程序作速度优化。
-  - 规则三：功能全面的[算法](../Page/算法.md "wikilink")（fancy
-    algorithm）在处理小[规模问题时效率很低](https://zh.wikipedia.org/wiki/计算复杂性理论 "wikilink")，这是因为算法时间效率中的常量很大，而问题往往规模很小。除非你知道你遇到的常常是复杂的情况，否则就让代码丑陋但是简单而高效吧。（即使问题规模确实很大，也首先尝试第二条规则。）
+  - 规则三：功能全面的[算法](../Page/算法.md "wikilink")（fancy algorithm）在处理小[规模问题时效率很低](https://zh.wikipedia.org/wiki/计算复杂性理论 "wikilink")，这是因为算法时间效率中的常量很大，而问题往往规模很小。除非你知道你遇到的常常是复杂的情况，否则就让代码丑陋但是简单而高效吧。（即使问题规模确实很大，也首先尝试第二条规则。）
   - 规则四：功能全面的算法比简单的算法更容易产生Bug，更难实现。尽量使用简单的算法和[数据结构](../Page/数据结构.md "wikilink")。
   - 规则五：数据决定一切。如果选择的数据结构能很好的管理数据，算法部分往往不言自明。记住，数据结构，而非算法，才是编程的关键。
   - 规则六：没有第六条规则。
 
-Pike的第一、二条规则重申了[高德纳](../Page/高德纳.md "wikilink")的著名格言：“过早的优化是一切罪恶的根源。”\[1\]
-Pike的第三、四条规则被[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")改述成：“疑惑不定之时最适合穷举。”事实上，这两条规则也是[KISS原则](../Page/KISS原则.md "wikilink")的具体表现。规则五在之前[Fred
-Brooks的](https://zh.wikipedia.org/wiki/Fred_Brooks "wikilink")[人月神话](../Page/人月神话.md "wikilink")中也被提及。的《》中也有一章阐述了相同的设计哲学。此规则作为“如果你的数据结构很好，那么控制它的算法就无关痛痒了”的例子常常被简化成“简约地写代码，聪明地用数据”。第六条规则当然只是Pike针对[蒙提·派森](../Page/蒙提·派森.md "wikilink")之小品的幽默发挥而已了。
+Pike的第一、二条规则重申了[高德纳](../Page/高德纳.md "wikilink")的著名格言：“过早的优化是一切罪恶的根源。”\[1\] Pike的第三、四条规则被[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")改述成：“疑惑不定之时最适合穷举。”事实上，这两条规则也是[KISS原则](../Page/KISS原则.md "wikilink")的具体表现。规则五在之前[Fred Brooks的](https://zh.wikipedia.org/wiki/Fred_Brooks "wikilink")[人月神话](../Page/人月神话.md "wikilink")中也被提及。的《》中也有一章阐述了相同的设计哲学。此规则作为“如果你的数据结构很好，那么控制它的算法就无关痛痒了”的例子常常被简化成“简约地写代码，聪明地用数据”。第六条规则当然只是Pike针对[蒙提·派森](../Page/蒙提·派森.md "wikilink")之小品的幽默发挥而已了。
 
 ## Mike Gancarz的《UNIX哲学》
 
-1994年，[X
-Window系统开发组的成员Mike](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")
-Gancarz根据他自己的Unix系统经验以及和其他领域使用Unix系统的资深程序员们的讨论结果，写成了*The UNIX
-Philosophy*，提出了9条训格之言：
+1994年，[X Window系统开发组的成员Mike](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink") Gancarz根据他自己的Unix系统经验以及和其他领域使用Unix系统的资深程序员们的讨论结果，写成了*The UNIX Philosophy*，提出了9条训格之言：
 
   - 一：小即是美。
   - 二：让程序只做好一件事。
@@ -62,50 +54,29 @@ Philosophy*，提出了9条训格之言：
 
 ### 来源
 
-  - *The Unix Programming Environment* by [Brian
-    Kernighan](https://zh.wikipedia.org/wiki/Brian_Kernighan "wikilink")
-    and [Rob
-    Pike](https://zh.wikipedia.org/wiki/Rob_Pike "wikilink")，1984
-  - [*Notes on Programming in
-    C*](http://www.lysator.liu.se/c/pikestyle.html)，Rob Pike, September
-    21, 1989
-  - *A Quarter Century of Unix*, Peter H. Salus, Addison-Wesley, May 31,
-    1994 (ISBN 0-201-54777-5)
-  - [*Philosophy*](http://www.faqs.org/docs/artu/philosophychapter.html)
-    — from [*The Art of Unix
-    Programming*](http://www.catb.org/~esr/writings/taoup)，Eric S.
-    Raymond, Addison-Wesley, September 17, 2003 (ISBN 0-13-142901-9)
-  - [Final Report of the Multics Kernel Design
-    Project](http://citeseer.ist.psu.edu/schroeder77final.html) by M. D.
-    Schroeder, D. D. Clark, J. H. Saltzer, and D. H. Wells, 1977.
+  - *The Unix Programming Environment* by [Brian Kernighan](https://zh.wikipedia.org/wiki/Brian_Kernighan "wikilink") and [Rob Pike](https://zh.wikipedia.org/wiki/Rob_Pike "wikilink")，1984
+  - [*Notes on Programming in C*](http://www.lysator.liu.se/c/pikestyle.html)，Rob Pike, September 21, 1989
+  - *A Quarter Century of Unix*, Peter H. Salus, Addison-Wesley, May 31, 1994 (ISBN 0-201-54777-5)
+  - [*Philosophy*](http://www.faqs.org/docs/artu/philosophychapter.html) — from [*The Art of Unix Programming*](http://www.catb.org/~esr/writings/taoup)，Eric S. Raymond, Addison-Wesley, September 17, 2003 (ISBN 0-13-142901-9)
+  - [Final Report of the Multics Kernel Design Project](http://citeseer.ist.psu.edu/schroeder77final.html) by M. D. Schroeder, D. D. Clark, J. H. Saltzer, and D. H. Wells, 1977.
   - *The UNIX Philosophy*, Mike Gancarz, ISBN 1-55558-123-4
-  - [Basics of the Unix
-    Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
+  - [Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
 
 ## 外部链接
 
-  - [Worse is Better](http://dreamsongs.com/WorseIsBetter.html)，Richard
-    P. Gabriel
-  - [The Rise of "Worse is
-    Better"](http://www.jwz.org/doc/worse-is-better.html)，Richard P.
-    Gabriel
+  - [Worse is Better](http://dreamsongs.com/WorseIsBetter.html)，Richard P. Gabriel
+  - [The Rise of "Worse is Better"](http://www.jwz.org/doc/worse-is-better.html)，Richard P. Gabriel
 
 ## 参见
 
   -
-  - [Plan 9 from Bell
-    Labs](https://zh.wikipedia.org/wiki/Plan_9_from_Bell_Labs "wikilink")
+  - [Plan 9 from Bell Labs](https://zh.wikipedia.org/wiki/Plan_9_from_Bell_Labs "wikilink")
 
   - [英文写作指南](../Page/英文写作指南.md "wikilink")（The Elements of Style）
 
   -
   - [软件工程](../Page/软件工程.md "wikilink")
 
-[Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
-[Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink")
+[Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink") [Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink")
 
-1.  [Knuth,
-    Donald](https://zh.wikipedia.org/wiki/Knuth,_Donald "wikilink"):
-    [Structured Programming with Goto
-    Statements](http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf)
-    . *Computing Surveys* **6**:4 (1974), 261–301.
+1.  [Knuth, Donald](https://zh.wikipedia.org/wiki/Knuth,_Donald "wikilink"): [Structured Programming with Goto Statements](http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf) . *Computing Surveys* **6**:4 (1974), 261–301.

@@ -1,11 +1,8 @@
-**Aurora**
-(前稱**Eeebuntu**)是一個[上网本](../Page/上网本.md "wikilink")專用的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，基於[Ubuntu](../Page/Ubuntu.md "wikilink")，主要給[Eee
-PC使用](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")。
+**Aurora** (前稱**Eeebuntu**)是一個[上网本](../Page/上网本.md "wikilink")專用的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，基於[Ubuntu](../Page/Ubuntu.md "wikilink")，主要給[Eee PC使用](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")。
 
 Eeebuntu 主要分為3個版本:
 
-  - Base,565MB
-    [ISO](https://zh.wikipedia.org/wiki/ISO "wikilink"),簡化的版本用作預先安裝
+  - Base,565MB [ISO](https://zh.wikipedia.org/wiki/ISO "wikilink"),簡化的版本用作預先安裝
   - Standard,一個完整的桌面版本的版本
   - NBR,使用Ubuntu界面的版本
 
@@ -27,9 +24,7 @@ Eeebuntu 2.0是第一個Eeebuntu版本完全刪除Ubuntu的品牌和使用自己
 
 </div>
 
-  - [Official
-    website](https://web.archive.org/web/20100630075322/http://www.auroraos.org/)
+  - [Official website](https://web.archive.org/web/20100630075322/http://www.auroraos.org/)
   - [Pro Design Consultancy Limited](http://www.pro-dcl.com/)
 
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
-[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
+[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")

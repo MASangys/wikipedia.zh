@@ -1,18 +1,16 @@
-这里只介绍很小部分的[Warez小组](../Page/Warez.md "wikilink")。
+这里只介绍很小部分的[Warez](../Page/Warez.md "wikilink")小组。
 
 ## 历史悠久的组织
 
 存在几年以上的小组，或者不活动的小组。
 
   - **Bentley Sidwell Productions**
-    Bentley Sidwell
-    Productions，破解了IBM早期的个人电脑上使用软件。[组织历史](http://www.defacto2.net/groups.cfm?mode=detail&org=bsp)
+    Bentley Sidwell Productions，破解了IBM早期的个人电脑上使用软件。[组织历史](http://www.defacto2.net/groups.cfm?mode=detail&org=bsp)
 
 <!-- end list -->
 
   - **CPI** \> **Canadian Pirates Inc**
-    Canadian Pirates
-    Inc是多伦多安大略湖的一个破解组织，从1983年开始破解苹果的产品。[组织历史](http://www.defacto2.net/groups.cfm?mode=detail&org=cpi)
+    Canadian Pirates Inc是多伦多安大略湖的一个破解组织，从1983年开始破解苹果的产品。[组织历史](http://www.defacto2.net/groups.cfm?mode=detail&org=cpi)
 
 <!-- end list -->
 
@@ -21,33 +19,27 @@
 
 <!-- end list -->
 
-  - **[Drink Or
-    Die](https://zh.wikipedia.org/wiki/Drinkordie "wikilink")**（DOD）
-    在WINDOWS95作为零售版本前将它发布了！后来在[Operation
-    Buccaneer行动中被捕](https://zh.wikipedia.org/wiki/Operation_Buccaneer "wikilink")。
+  - **[Drink Or Die](https://zh.wikipedia.org/wiki/Drinkordie "wikilink")**（DOD）
+    在WINDOWS95作为零售版本前将它发布了！后来在[Operation Buccaneer行动中被捕](https://zh.wikipedia.org/wiki/Operation_Buccaneer "wikilink")。
 
 <!-- end list -->
 
   - **EViL**
-    The iSO division（EViLiSO）是第一个发布电影作品的组织。(then as Video
-    CDs)最终让许多[Topsites认可并接受VCD](https://zh.wikipedia.org/wiki/Topsite "wikilink")。最戏剧性的是在互联网上发布了[美国派](https://zh.wikipedia.org/wiki/美国派 "wikilink")，在电影院放映的3个月前！[1](https://archive.is/20050211094807/http://www.theisonews.com/release.php?releaseid=4262)
+    The iSO division（EViLiSO）是第一个发布电影作品的组织。(then as Video CDs)最终让许多[Topsites认可并接受VCD](https://zh.wikipedia.org/wiki/Topsite "wikilink")。最戏剧性的是在互联网上发布了[美国派](https://zh.wikipedia.org/wiki/美国派 "wikilink")，在电影院放映的3个月前！[1](https://archive.is/20050211094807/http://www.theisonews.com/release.php?releaseid=4262)
 
 <!-- end list -->
 
   - **FiRM**
-    The
-    Firm是早期80－90年代著名的PC破解组织。他们大部分发布游戏破解，但也有少量软件。[组织历史](http://www.defacto2.net/groups.cfm?mode=detail&org=firm)
+    The Firm是早期80－90年代著名的PC破解组织。他们大部分发布游戏破解，但也有少量软件。[组织历史](http://www.defacto2.net/groups.cfm?mode=detail&org=firm)
 
 <!-- end list -->
 
-  - **[International Network of
-    Crackers](https://zh.wikipedia.org/wiki/International_Network_of_Crackers "wikilink")**（INC）
+  - **[International Network of Crackers](https://zh.wikipedia.org/wiki/International_Network_of_Crackers "wikilink")**（INC）
     INC是早期80年代末90年代初破解发布IBM软件的组织之一。大部分的作品在1993年年发布，主要是和教育有关的软件。1994年，INC就彻底消失了。
 
 <!-- end list -->
 
-  - **[National Elite Underground
-    Alliance](https://zh.wikipedia.org/wiki/NEUA "wikilink")**（NEUA）
+  - **[National Elite Underground Alliance](https://zh.wikipedia.org/wiki/NEUA "wikilink")**（NEUA）
     National Elite Underground Alliance活跃于90年代初，发表于IBM软件破解。大部分成员是纽约人。
 
 <!-- end list -->
@@ -57,39 +49,27 @@
 
 <!-- end list -->
 
-  - **[Pirates With
-    Attitude](https://zh.wikipedia.org/wiki/Pirates_With_Attitude "wikilink")**（PWA）
-    PWA成立于1992年直到2000年。最强的是他们在WIN98正式发布前的4星期破解了WIN98并在网上发布了它。PWA members
-    were raided close after the passing of the [No Electronic
-    Theft](https://zh.wikipedia.org/wiki/NET_Act "wikilink") or "NET"
-    Act.[2](https://web.archive.org/web/20061001195352/http://www.usdoj.gov/criminal/cybercrime/pwa_verdict.htm)
+  - **[Pirates With Attitude](https://zh.wikipedia.org/wiki/Pirates_With_Attitude "wikilink")**（PWA）
+    PWA成立于1992年直到2000年。最强的是他们在WIN98正式发布前的4星期破解了WIN98并在网上发布了它。PWA members were raided close after the passing of the [No Electronic Theft](https://zh.wikipedia.org/wiki/NET_Act "wikilink") or "NET" Act.[2](https://web.archive.org/web/20061001195352/http://www.usdoj.gov/criminal/cybercrime/pwa_verdict.htm)
 
 <!-- end list -->
 
   - **Public Enemy**（PE）
-    Public
-    Enemy是90年代初一个非常有竞争力的破解组织。[3](http://www.textfiles.com/piracy/NFO/swdking.txt)
-    [组织历史](http://www.defacto2.net/groups.cfm?mode=detail&org=pe)
+    Public Enemy是90年代初一个非常有竞争力的破解组织。[3](http://www.textfiles.com/piracy/NFO/swdking.txt) [组织历史](http://www.defacto2.net/groups.cfm?mode=detail&org=pe)
 
 <!-- end list -->
 
   - **Radium**（RDM）
-    RDM在2001年有意识般消失了！因为他们得到消息，[商業軟體聯盟已经看中他们了](../Page/商業軟體聯盟.md "wikilink")，并将RDM列为第一目标
+    RDM在2001年有意识般消失了！因为他们得到消息，[商業軟體聯盟](../Page/商業軟體聯盟.md "wikilink")已经看中他们了，并将RDM列为第一目标
 
 ### SKIDROW
 
 ## 參考資料
 
   - [US Department of Justice](http://www.usdoj.gov/)
-  - [The Commodore Scene Database](http://noname.c64.org/csdb/) a
-    comprehensive catalog of Commodore 64 warez groups of the past and
-    present.
-  - [Well known
-    releasegroups](http://www.aboutthescene.com/releasegroup/famous.html)
-  - [Market Share of US(and some UK)TV Release
-    Groups](http://torrentfreak.com/market-share-of-tv-release-groups/)
-    as of March 6, 2006
-  - [FILE STORIA SCENA DEMO, HACKER ETC -
-    BETA: 1989–1991](http://storiahacker.it/1989-1991.html)
+  - [The Commodore Scene Database](http://noname.c64.org/csdb/) a comprehensive catalog of Commodore 64 warez groups of the past and present.
+  - [Well known releasegroups](http://www.aboutthescene.com/releasegroup/famous.html)
+  - [Market Share of US(and some UK)TV Release Groups](http://torrentfreak.com/market-share-of-tv-release-groups/) as of March 6, 2006
+  - [FILE STORIA SCENA DEMO, HACKER ETC - BETA: 1989–1991](http://storiahacker.it/1989-1991.html)
 
 [Category:Warez](https://zh.wikipedia.org/wiki/Category:Warez "wikilink")

@@ -1,9 +1,6 @@
-**ArgoUML**是一个用于绘制[UML图的应用软件](https://zh.wikipedia.org/wiki/UML "wikilink")，它用Java构造，并遵守[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[BSD协议](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")。因为它本身由[Java构建的缘故](https://zh.wikipedia.org/wiki/Java编程语言 "wikilink")，所以ArgoUML能运行在任何支持Java的平台上。
-2003年，ArgoUML获得了《软件开发杂志》的设计和分析工具类别的年度读者选择奖（annual Readers' Choice
-Award）。\[1\]
+**ArgoUML**是一个用于绘制[UML图的应用软件](https://zh.wikipedia.org/wiki/UML "wikilink")，它用Java构造，并遵守[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[BSD协议](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")。因为它本身由[Java构建的缘故](https://zh.wikipedia.org/wiki/Java编程语言 "wikilink")，所以ArgoUML能运行在任何支持Java的平台上。 2003年，ArgoUML获得了《软件开发杂志》的设计和分析工具类别的年度读者选择奖（annual Readers' Choice Award）。\[1\]
 
-ArgoUML没有完全实现UML标准\[2\]，同时它对某些图还不能完全支持（如[时序图](../Page/时序图.md "wikilink")）。\[3\]
-当前的稳定版0.24版式对0.22的一个bug修复版，它一共修正了0.22版本的172个bug。\[4\]
+ArgoUML没有完全实现UML标准\[2\]，同时它对某些图还不能完全支持（如[时序图](../Page/时序图.md "wikilink")）。\[3\] 当前的稳定版0.24版式对0.22的一个bug修复版，它一共修正了0.22版本的172个bug。\[4\]
 
 ArgoUML的开发因为人力缺乏而受到影响。『回退（Undo）』功能早在2003年就已经提出，而迄今未实现。
 
@@ -55,12 +52,10 @@ ArgoUML的开发因为人力缺乏而受到影响。『回退（Undo）』功能
   - 可以多种格式导出UML图：[GIF](../Page/GIF.md "wikilink")，[PNG](../Page/PNG.md "wikilink")，[PS](https://zh.wikipedia.org/wiki/PS "wikilink")，[EPS](../Page/EPS.md "wikilink")，[PGML以及](https://zh.wikipedia.org/wiki/PGML "wikilink")[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")
   - 支持10种语言：英语，英语（EN-GB），德语，西班牙语，意大利语，俄语，法语，挪威语，葡萄牙语，汉语
   - 图像编辑和缩放的高级功能
-  - Built-in design critics provide unobtrusive review of design and
-    suggestions for improvements.
+  - Built-in design critics provide unobtrusive review of design and suggestions for improvements.
   - 可扩展的模型接口
   - 支持OCL
-  - 正向工程（支持生成C++ and C\#, Java, PHP4, PHP5, Python, Ruby代码，Ada,
-    Delphi和SQL也支持，但不成熟）
+  - 正向工程（支持生成C++ and C\#, Java, PHP4, PHP5, Python, Ruby代码，Ada, Delphi和SQL也支持，但不成熟）
   - 逆向工程（导入jar包）
   - 认知支持（Cognitive support）
       - 动作反应（Reflection-in-action）
@@ -88,18 +83,10 @@ ArgoUML有一个商用衍生品Poseidon for UML。
 ## 参见
 
   - [UML工具列表](https://zh.wikipedia.org/wiki/UML工具列表 "wikilink")
-  - [ATL](https://zh.wikipedia.org/wiki/ATL "wikilink")（ATLAS
-    Transformation Language）– an open source
-    [QVT](https://zh.wikipedia.org/wiki/QVT "wikilink") language able to
-    transform UML models produced by Argo/Poseidon.
-  - [StarUML](../Page/StarUML.md "wikilink") –
-    StarUML是一个开源工程，它是用于开发UML/MDA的平台，运行于Winows32机器上。
-  - [OpenBlueLab](https://zh.wikipedia.org/wiki/OpenBlueLab "wikilink")
-    –一个开源的ERP，它直接使用ArgoUML去创建portal，这个portal由用例图和类图配置。
-  - [OMF OpenBlueLab Modeling
-    Framework](https://web.archive.org/web/20071008171748/http://forge.openbluelab.org/gf/project/omf/)
-    –
-    OpenBlueLab的一个子工程，它可以把ArgoUML生成的文件转化成ECORE文件（用于类图），或一种元数据模型（用于用例图）。这个软件的工作目的是要把ArgoUML生成的文件转化成和TopCased兼容的格式。
+  - [ATL](https://zh.wikipedia.org/wiki/ATL "wikilink")（ATLAS Transformation Language）– an open source [QVT](https://zh.wikipedia.org/wiki/QVT "wikilink") language able to transform UML models produced by Argo/Poseidon.
+  - [StarUML](../Page/StarUML.md "wikilink") – StarUML是一个开源工程，它是用于开发UML/MDA的平台，运行于Winows32机器上。
+  - [OpenBlueLab](https://zh.wikipedia.org/wiki/OpenBlueLab "wikilink") –一个开源的ERP，它直接使用ArgoUML去创建portal，这个portal由用例图和类图配置。
+  - [OMF OpenBlueLab Modeling Framework](https://web.archive.org/web/20071008171748/http://forge.openbluelab.org/gf/project/omf/) – OpenBlueLab的一个子工程，它可以把ArgoUML生成的文件转化成ECORE文件（用于类图），或一种元数据模型（用于用例图）。这个软件的工作目的是要把ArgoUML生成的文件转化成和TopCased兼容的格式。
 
 ## 参考链接
 
@@ -109,11 +96,7 @@ ArgoUML有一个商用衍生品Poseidon for UML。
 
   - [ArgoUML官方站点](http://argouml.tigris.org)
 
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
-[Category:UML](https://zh.wikipedia.org/wiki/Category:UML "wikilink")
-[Category:自由UML工具](https://zh.wikipedia.org/wiki/Category:自由UML工具 "wikilink")
-[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
-[Category:Tigris.org工程](https://zh.wikipedia.org/wiki/Category:Tigris.org工程 "wikilink")
+[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:UML](https://zh.wikipedia.org/wiki/Category:UML "wikilink") [Category:自由UML工具](https://zh.wikipedia.org/wiki/Category:自由UML工具 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:Tigris.org工程](https://zh.wikipedia.org/wiki/Category:Tigris.org工程 "wikilink")
 
 1.
 2.

@@ -1,12 +1,6 @@
-《**Folklore
--異魂傳承-**》（日版標題：、美版標題：Folklore）由前[CAPCOM製作人](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[岡本吉起所設立的](../Page/岡本吉起.md "wikilink")[Game
-Republic](https://zh.wikipedia.org/wiki/Game_Republic "wikilink")（代表作：源氏）開發，是一款[PlayStation
-3的](../Page/PlayStation_3.md "wikilink")[幻想](https://zh.wikipedia.org/wiki/幻想 "wikilink")[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[冒險遊戲](../Page/冒險.md "wikilink")。本遊戲利用PlayStation
-3的驚人表現力來活現世界觀對玩家帶來驚嚇和感動的情節。遊戲的中文版將於2007年9月27日發售。
+《**Folklore -異魂傳承-**》（日版標題：、美版標題：Folklore）由前[CAPCOM製作人](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[岡本吉起](../Page/岡本吉起.md "wikilink")所設立的[Game Republic](https://zh.wikipedia.org/wiki/Game_Republic "wikilink")（代表作：源氏）開發，是一款[PlayStation 3的](../Page/PlayStation_3.md "wikilink")[幻想](https://zh.wikipedia.org/wiki/幻想 "wikilink")[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[冒險](../Page/冒險.md "wikilink")遊戲。本遊戲利用PlayStation 3的驚人表現力來活現世界觀對玩家帶來驚嚇和感動的情節。遊戲的中文版將於2007年9月27日發售。
 
-<small>備註：遊戲開發初期代號為「*MONSTER KINGDOM UNKNOWN REALMS*」，未知是否與[PlayStation
-Portable發售的](../Page/PlayStation_Portable.md "wikilink")《Monster Kingdom
-Jewel Summoner》有關聯。</small>
+<small>備註：遊戲開發初期代號為「*MONSTER KINGDOM UNKNOWN REALMS*」，未知是否與[PlayStation Portable發售的](../Page/PlayStation_Portable.md "wikilink")《Monster Kingdom Jewel Summoner》有關聯。</small>
 
 ## 故事
 
@@ -16,13 +10,11 @@ Jewel Summoner》有關聯。</small>
     能出入這座村子的道路已被封閉，連漁夫們都不敢輕易靠近，
     有如一座陸上孤島，但如今依然有一些人在這裡孤苦地生活……
 
-《Folklore
--異魂傳承-》的故事以[克爾特神話為主題](https://zh.wikipedia.org/wiki/克爾特神話 "wikilink")，以現代世界為背景，以穿梭在生死狹縫間的異界，探討「死亡」的意義為主題。主角會在現代[歐洲與](https://zh.wikipedia.org/wiki/歐洲 "wikilink")7個不可思議並擁有稱為「異世靈」的妖精的「異界」旅行，遊戲的世界由位於現實世界與死亡世界之間的，每個異界各有不同的主題風格。
+《Folklore -異魂傳承-》的故事以[克爾特神話為主題](https://zh.wikipedia.org/wiki/克爾特神話 "wikilink")，以現代世界為背景，以穿梭在生死狹縫間的異界，探討「死亡」的意義為主題。主角會在現代[歐洲與](https://zh.wikipedia.org/wiki/歐洲 "wikilink")7個不可思議並擁有稱為「異世靈」的妖精的「異界」旅行，遊戲的世界由位於現實世界與死亡世界之間的，每個異界各有不同的主題風格。
 
 ## 沿革
 
-  - 2007年5月22日起於「[PLAYSTATION
-    Store](https://zh.wikipedia.org/wiki/PLAYSTATION_Store "wikilink")」開放宣傳短片
+  - 2007年5月22日起於「[PLAYSTATION Store](https://zh.wikipedia.org/wiki/PLAYSTATION_Store "wikilink")」開放宣傳短片
   - 2007年6月1日起於「PLAYSTATION Store」開放體驗版下載
 
 ## 主要角色
@@ -70,16 +62,12 @@ Jewel Summoner》有關聯。</small>
 ## 系統
 
   - 戰鬥
-    《Folklore
-    -異魂傳承-》的戰鬥操作相當獨特，遊戲對應[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")
-    [PlayStation
-    3的](../Page/PlayStation_3.md "wikilink")[SIXAXIS](https://zh.wikipedia.org/wiki/SIXAXIS "wikilink")（六軸動態感應）技術。兩位主角在全部的7個異界中冒險時，與「異世靈（Folks）」戰鬥到一定程度后，「異世靈」會出現特別的靈魂脫出狀態，按住手柄上的R1並配合晃動和向上拉扯手柄等肢體操作來發揮其所具備的獨特「魂魄（ID）拉出」能力，來收服各種「異世靈」，收復后就可在之後的戰鬥中視情況來按下L2鍵來選擇切換不同屬性和性質的「異世靈」，驅使牠們進行戰鬥。
+    《Folklore -異魂傳承-》的戰鬥操作相當獨特，遊戲對應[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") [PlayStation 3的](../Page/PlayStation_3.md "wikilink")[SIXAXIS](https://zh.wikipedia.org/wiki/SIXAXIS "wikilink")（六軸動態感應）技術。兩位主角在全部的7個異界中冒險時，與「異世靈（Folks）」戰鬥到一定程度后，「異世靈」會出現特別的靈魂脫出狀態，按住手柄上的R1並配合晃動和向上拉扯手柄等肢體操作來發揮其所具備的獨特「魂魄（ID）拉出」能力，來收服各種「異世靈」，收復后就可在之後的戰鬥中視情況來按下L2鍵來選擇切換不同屬性和性質的「異世靈」，驅使牠們進行戰鬥。
 
 <!-- end list -->
 
   -
-    《Folklore
-    -異魂傳承-》中的「異世靈」驅使系統使得遊戲戰鬥有別于其他動作遊戲，主角在遊戲中的設定為本身是沒有攻擊能力的，而必須驅動異界的「異世靈」來進行戰鬥。玩家在遊戲中可以不斷吸收多達100多種不同屬性和性質的「異世靈」，但只可以同時驅使4只「異世靈」，分別對應手柄上的〇、×、△、□四個按鈕，玩家在對付不同的敵人和形式時，按照自己地喜好來設定各個鍵位對應的「異世靈」，因不同玩家的操作習慣和對戰鬥的不同見解，形成了千變萬化的對敵方式和制敵技巧，讓戰鬥充滿了策略性。每次發動攻擊會消耗主角的精神力（MC），主角在不發動攻擊的時候會自動恢復。這就導致玩家要默默制定戰鬥方式來時刻保證有足夠的MC來進行攻擊和防禦，控制戰鬥節奏。
+    《Folklore -異魂傳承-》中的「異世靈」驅使系統使得遊戲戰鬥有別于其他動作遊戲，主角在遊戲中的設定為本身是沒有攻擊能力的，而必須驅動異界的「異世靈」來進行戰鬥。玩家在遊戲中可以不斷吸收多達100多種不同屬性和性質的「異世靈」，但只可以同時驅使4只「異世靈」，分別對應手柄上的〇、×、△、□四個按鈕，玩家在對付不同的敵人和形式時，按照自己地喜好來設定各個鍵位對應的「異世靈」，因不同玩家的操作習慣和對戰鬥的不同見解，形成了千變萬化的對敵方式和制敵技巧，讓戰鬥充滿了策略性。每次發動攻擊會消耗主角的精神力（MC），主角在不發動攻擊的時候會自動恢復。這就導致玩家要默默制定戰鬥方式來時刻保證有足夠的MC來進行攻擊和防禦，控制戰鬥節奏。
 
 <!-- end list -->
 
@@ -89,8 +77,7 @@ Jewel Summoner》有關聯。</small>
 <!-- end list -->
 
   - 劇情
-    《Folklore
-    -異魂傳承-》的劇情是以兩位主角的視角同時進行的，玩家可以選擇是以愛倫還是濟玆來進行劇情。在完成每一章故事之後會回到主角選擇畫面，這時可以選擇另一名主角重新經歷一遍之前的那名主角經歷的章節，但會以完全不同的視角來經歷。
+    《Folklore -異魂傳承-》的劇情是以兩位主角的視角同時進行的，玩家可以選擇是以愛倫還是濟玆來進行劇情。在完成每一章故事之後會回到主角選擇畫面，這時可以選擇另一名主角重新經歷一遍之前的那名主角經歷的章節，但會以完全不同的視角來經歷。
 
 <!-- end list -->
 
@@ -100,11 +87,7 @@ Jewel Summoner》有關聯。</small>
 <!-- end list -->
 
   - 聯動
-    《Folklore
-    -異魂傳承-》還可以和[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")
-    [PlayStation
-    Protable主機的遊戲](https://zh.wikipedia.org/wiki/PlayStation_Protable "wikilink")《密域奇魂
-    -伊底亞傳承-（Coded Soul）》進行聯動。能取得聯動探索任務、追加業障等等各種特典，還能互傳已捕獲的怪物。
+    《Folklore -異魂傳承-》還可以和[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") [PlayStation Protable主機的遊戲](https://zh.wikipedia.org/wiki/PlayStation_Protable "wikilink")《密域奇魂 -伊底亞傳承-（Coded Soul）》進行聯動。能取得聯動探索任務、追加業障等等各種特典，還能互傳已捕獲的怪物。
 
 ## 基本操作
 
@@ -144,36 +127,28 @@ START——察看異世靈／道具／系統菜單
 
 <!-- end list -->
 
-  - 主唱／演奏：[abingdon boys
-    school](https://zh.wikipedia.org/wiki/abingdon_boys_school "wikilink")
-  - 出版：[Epic Records
-    Japan](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")
+  - 主唱／演奏：[abingdon boys school](https://zh.wikipedia.org/wiki/abingdon_boys_school "wikilink")
+  - 出版：[Epic Records Japan](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")
   - 作詞：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")／作曲：[岸利至](https://zh.wikipedia.org/wiki/岸利至 "wikilink")
 
 ## 相關條目
 
   - [索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")
-  - [Game
-    Republic](https://zh.wikipedia.org/wiki/Game_Republic "wikilink")
+  - [Game Republic](https://zh.wikipedia.org/wiki/Game_Republic "wikilink")
   - [PlayStation 3遊戲列表](../Page/PlayStation_3遊戲列表.md "wikilink")
 
 ## 外部連結
 
-  - [《Folklore -異魂傳承-》
-    香港官方網站](http://asia.playstation.com/hk/promo/folklore/tch/)
+  - [《Folklore -異魂傳承-》 香港官方網站](http://asia.playstation.com/hk/promo/folklore/tch/)
 
-  - [《Folklore -異魂傳承-》
-    日本官方網站](http://www.jp.playstation.com/scej/title/folks/)
+  - [《Folklore -異魂傳承-》 日本官方網站](http://www.jp.playstation.com/scej/title/folks/)
 
   - [《Folklore -異魂傳承-》 官方開發網誌](http://folkssoul.blog105.fc2.com/)
 
-  - [Game Republic
-    官方網站](https://web.archive.org/web/20090511175218/http://www.gamerepublic.jp/)
+  - [Game Republic 官方網站](https://web.archive.org/web/20090511175218/http://www.gamerepublic.jp/)
 
   - [abingdon boys school 官方網站](http://www.aabbss.com/)
 
-  - [A.B.S.F.C
-    官方網站](https://web.archive.org/web/20061207023117/http://www.abs-web.jp/)
+  - [A.B.S.F.C 官方網站](https://web.archive.org/web/20061207023117/http://www.abs-web.jp/)
 
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
+[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")

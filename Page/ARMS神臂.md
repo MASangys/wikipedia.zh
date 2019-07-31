@@ -1,5 +1,6 @@
-《**ARMS神臂**》，原名《**ARMS**》，是[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，作者為[皆川亮二](../Page/皆川亮二.md "wikilink")；動畫版名稱為《**PROJECT
-ARMS**》。各ARMS的命名.
+《**ARMS神臂**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[皆川亮二](../Page/皆川亮二.md "wikilink")所創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。單行本全22卷。第44回（1998年）[小學館漫畫賞得獎](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")。
+
+動畫版名稱為《**PROJECT ARMS**》。分為前期和後期，全52話。
 
 ## 故事內容
 
@@ -185,132 +186,1000 @@ ARMS**》。各ARMS的命名.
 
   - 銀獠
 
-## 相關產品
+## 出版書籍
 
-### 漫畫
+  - 單行本
 
-### TV版動畫
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/小學館.md" title="wikilink">小學館</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>1997年10月18日</p></td>
+<td><p>ISBN 4-09-124881-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>1998年1月17日</p></td>
+<td><p>ISBN 4-09-124882-9</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1998年3月18日</p></td>
+<td><p>ISBN 4-09-124883-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>1998年6月18日</p></td>
+<td><p>ISBN 4-09-124884-5</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>1998年9月18日</p></td>
+<td><p>ISBN 4-09-124885-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>1998年12月10日</p></td>
+<td><p>ISBN 4-09-124886-1</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>1999年3月18日</p></td>
+<td><p>ISBN 4-09-124887-X</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>1999年6月16日</p></td>
+<td><p>ISBN 4-09-124888-8</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>1999年8月7日</p></td>
+<td><p>ISBN 4-09-124889-6</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>1999年11月18日</p></td>
+<td><p>ISBN 4-09-124890-X</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2000年2月18日</p></td>
+<td><p>ISBN 4-09-124891-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2000年5月18日</p></td>
+<td><p>ISBN 4-09-124892-6</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2000年7月18日</p></td>
+<td><p>ISBN 4-09-124893-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2000年10月18日</p></td>
+<td><p>ISBN 4-09-124894-2</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2000年12月18日</p></td>
+<td><p>ISBN 4-09-124895-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>2001年3月17日</p></td>
+<td><p>ISBN 4-09-124896-9</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>2001年5月18日</p></td>
+<td><p>ISBN 4-09-124897-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>2001年7月18日</p></td>
+<td><p>ISBN 4-09-124898-5</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>2001年10月18日</p></td>
+<td><p>ISBN 4-09-124899-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>2002年1月18日</p></td>
+<td><p>ISBN 4-09-126750-5</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+<td><p>2002年3月18日</p></td>
+<td><p>ISBN 4-09-126821-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p>2002年6月18日</p></td>
+<td><p>ISBN 4-09-126822-6</p></td>
+</tr>
+</tbody>
+</table>
 
-#### 主題曲
+  - 豪華版
 
-  - OP
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>小學館</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2007年6月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2007年7月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2007年8月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2007年9月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2007年10月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2007年11月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2007年12月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2008年1月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2008年2月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2008年3月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2008年4月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2008年5月16日</p></td>
+</tr>
+</tbody>
+</table>
 
-<!-- end list -->
+  - 廉價版
 
-  - 『Free Bird』
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>副標題</p></th>
+<th><p>小學館</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td></td>
+<td><p>2011年8月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td></td>
+<td><p>2011年9月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td></td>
+<td><p>2011年10月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td></td>
+<td><p>2011年11月26日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td></td>
+<td><p>2011年12月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td></td>
+<td><p>2012年1月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td></td>
+<td><p>2012年2月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td></td>
+<td><p>2012年3月27日</p></td>
+</tr>
+</tbody>
+</table>
 
-<!-- end list -->
+  - 文庫版
 
-  -
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>小學館</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2014年4月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2014年5月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2014年6月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2014年7月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2014年8月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2014年9月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2014年10月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2014年11月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2014年12月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2015年1月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2015年2月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2015年3月14日</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2015年4月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2015年5月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2015年6月13日</p></td>
+</tr>
+</tbody>
+</table>
+
+## 電視動畫
+
+### 製作團隊
+
+  - 原作 - [皆川亮二](../Page/皆川亮二.md "wikilink")
+  - 原作協力 - [七月鏡一](../Page/七月鏡一.md "wikilink")
+  - 企劃 - 植田文郎、[岩田圭介](https://zh.wikipedia.org/wiki/岩田圭介 "wikilink")(TX)
+  - 執行製作人 - [加藤俊三](https://zh.wikipedia.org/wiki/加藤俊三 "wikilink")
+  - 監督 - [高谷浩利](https://zh.wikipedia.org/wiki/高谷浩利 "wikilink")（前期） → [龜垣一](../Page/龜垣一.md "wikilink")（後期）
+  - 系列構成 - 吉永亜矢
+  - 構想 - [宮下隼一](https://zh.wikipedia.org/wiki/宮下隼一 "wikilink")
+  - 人物設計 - [佐藤正樹](../Page/佐藤正樹.md "wikilink")
+  - 設計支援 - [中谷誠一](https://zh.wikipedia.org/wiki/中谷誠一 "wikilink")
+  - 美術監督 - [東潤一](https://zh.wikipedia.org/wiki/東潤一 "wikilink")
+  - 色彩設計 - 海鉾重信
+  - 美術設定 - 成田偉保
+  - 攝影監督 - 白尾仁志
+  - 編輯 - 岡田輝満
+  - 音響監督 - [浦上靖夫](https://zh.wikipedia.org/wiki/浦上靖夫 "wikilink")
+  - 音樂 - [池田大介](https://zh.wikipedia.org/wiki/池田大介_\(編曲家\) "wikilink")
+  - 音響效果 - 横山正和
+  - 文藝擔當 - 飯沢洋子
+  - 製作擔當 - 持丸政之 → （不在）
+  - 動畫製作人 - 横山敏
+  - 製作人 - [東不可止](https://zh.wikipedia.org/wiki/東不可止 "wikilink")(TX)、[吉岡昌仁](https://zh.wikipedia.org/wiki/吉岡昌仁 "wikilink")(TMS)
+  - 動畫製作 - [東京Movie](https://zh.wikipedia.org/wiki/東京Movie "wikilink")
+  - 製作 - 東京電視台、[TMS娛樂](../Page/TMS娛樂.md "wikilink")
+
+### 主題曲
+
+#### 片頭曲
+
+  - 「[Free Bird](https://zh.wikipedia.org/wiki/Free_Bird "wikilink")」
+    作詞 - 舩木基有 / 作曲 - 岩井勇一郎 / 編曲・歌 - [New Cinema 蜥蜴](https://zh.wikipedia.org/wiki/New_Cinema_蜥蜴 "wikilink")
     （1 - 13話）
-    作詞：舩木基有／作曲：岩井勇一郎／編曲、歌：[New Cinema
-    蜥蜴](https://zh.wikipedia.org/wiki/New_Cinema_蜥蜴 "wikilink")
-
-<!-- end list -->
-
-  - 『Breathe on me』
-
-<!-- end list -->
-
-  -
-    作詞：舩木基有／作曲：岩井勇一郎／編曲、歌：New Cinema 蜥蜴
+  - 「[Breathe on me](https://zh.wikipedia.org/wiki/Breathe_on_me "wikilink")」
+    作詞 - 舩木基有 / 作曲 - 岩井勇一郎 / 編曲・歌 - New Cinema 蜥蜴
     （14 - 26話）
-
-<!-- end list -->
-
-  - 『TIME WAITS FOR NO ONE』
-
-<!-- end list -->
-
-  -
-    作詞：WAG、徳永暁人／作曲：[徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")／編曲、歌：[WAG](https://zh.wikipedia.org/wiki/WAG "wikilink")
+  - 「[TIME WAITS FOR NO ONE](https://zh.wikipedia.org/wiki/TIME_WAITS_FOR_NO_ONE "wikilink")」
+    作詞 - WAG、德永曉人 / 作曲 - [德永曉人](../Page/德永曉人.md "wikilink") / 編曲・歌 - [WAG](https://zh.wikipedia.org/wiki/WAG "wikilink")
     （27 - 52話）
 
-<!-- end list -->
+#### 片尾曲
 
-  - ED
-
-<!-- end list -->
-
-  - 『Just wanna be』
-
-<!-- end list -->
-
-  -
-    作詞：WAG／作曲、編曲：[徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")／歌：[WAG](https://zh.wikipedia.org/wiki/WAG "wikilink")
+  - 「[Just wanna be](https://zh.wikipedia.org/wiki/Just_wanna_be "wikilink")」
+    作詞・歌 - WAG / 作曲・編曲 - 德永曉人
     （1 - 13話）
-
-<!-- end list -->
-
-  - 『[call my
-    name](https://zh.wikipedia.org/wiki/call_my_name "wikilink")』
-
-<!-- end list -->
-
-  -
-    作詞：[AZUKI七](../Page/AZUKI七.md "wikilink")／作曲：[中村由利](https://zh.wikipedia.org/wiki/中村由利_\(歌手\) "wikilink")／編曲：[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")／歌：[GARNET
-    CROW](../Page/GARNET_CROW.md "wikilink")
+  - 「[call my name](https://zh.wikipedia.org/wiki/call_my_name_\(GARNET_CROWの曲\) "wikilink")」
+    作詞 - [AZUKI七](../Page/AZUKI七.md "wikilink") / 作曲 - [中村由利](../Page/中村由利.md "wikilink") / 編曲 - [古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink") / 歌 - [GARNET CROW](../Page/GARNET_CROW.md "wikilink")
     （14 - 26話）
-
-<!-- end list -->
-
-  - 『[Timeless
-    Sleep](https://zh.wikipedia.org/wiki/Timeless_Sleep "wikilink")』
-
-<!-- end list -->
-
-  -
-    作詞：AZUKI七／作曲：中村由利／編曲：古井弘人／歌：GARNET CROW
+  - 「[Timeless Sleep](https://zh.wikipedia.org/wiki/Timeless_Sleep "wikilink")」
+    作詞 - AZUKI七 / 作曲 - 中村由利 / 編曲 - 古井弘人 / 歌 - GARNET CROW
     （27 - 40話）
-
-<!-- end list -->
-
-  - 『』
-
-<!-- end list -->
-
-  -
-    作詞、作曲：PROJECT ARMS／編曲：project-B／歌：PROJECT ARMS
+  - 「[終わらない夢の中で](https://zh.wikipedia.org/wiki/終わらない夢の中で "wikilink")」
+    作詞・作曲・歌 - PROJECT ARMS / 編曲 - project-B
     （41 - 52話）
 
-#### 每集標題
+#### PROJECT ARMS（樂團）
 
-<div class="references-small" style="-moz-column-count:4; column-count:4;">
+「PROJETC ARMS」参加此企劃的配音員（神奈延年、三木真一郎、上田祐司、高山南）以此次契機組成一個團體。由GIZA studio發行一張單曲。
 
-</div>
+| 枚                 | 發售日期         | 標題                                        | [規格編號](../Page/規格產品編號.md "wikilink") | 收錄曲       | 作詞           | 作曲           | 編曲        |
+| ----------------- | ------------ | ----------------------------------------- | ------------------------------------ | --------- | ------------ | ------------ | --------- |
+| 1st               | 2002年3月13日   | [終わらない夢の中で](../Page/ARMS神臂.md "wikilink") | GZCA-2034                            | 終わらない夢の中で | PROJECT ARMS | PROJECT ARMS | project-B |
+| Friend's          | PROJECT ARMS | PROJECT ARMS                              | project-B                            |           |              |              |           |
+| 終わらない夢の中で (inst.) |              |                                           |                                      |           |              |              |           |
+
+### 各話列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話數</p></th>
+<th><p>播放日期</p></th>
+<th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>腳本</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>PROJECT ARMS</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p><strong>2001年</strong><br />
+4月7日</p></td>
+<td></td>
+<td><p>共振</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高谷浩利" title="wikilink">高谷浩利</a></p></td>
+<td><p>西本由紀夫</p></td>
+<td><p>岩井優器</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>4月14日</p></td>
+<td></td>
+<td><p>發動</p></td>
+<td><p><a href="../Page/元永慶太郎.md" title="wikilink">元永慶太郎</a></p></td>
+<td><p>清水貴子</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>4月21日</p></td>
+<td></td>
+<td><p>惡夢</p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本橋秀之" title="wikilink">本橋秀之</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>4月28日</p></td>
+<td></td>
+<td><p>迎擊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山内重保" title="wikilink">山内重保</a></p></td>
+<td><p>花井信也</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日向正樹" title="wikilink">日向正樹</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>5月5日</p></td>
+<td></td>
+<td><p>反擊</p></td>
+<td><p>松園公</p></td>
+<td><p>岡崎幸男</p></td>
+<td><p>江角涼子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>5月12日</p></td>
+<td></td>
+<td><p>瞬擊</p></td>
+<td><p><a href="../Page/後藤圭二.md" title="wikilink">後藤圭二</a></p></td>
+<td><p>喜多幡徹</p></td>
+<td><p>小川一郎</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>5月19日</p></td>
+<td></td>
+<td><p>共鬥</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮下隼一" title="wikilink">宮下隼一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亀垣一" title="wikilink">亀垣一</a></p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>清水貴子</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>5月26日</p></td>
+<td></td>
+<td><p>異鄉</p></td>
+<td><p>御厨恭輔</p></td>
+<td><p>大阪竹志</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>6月2日</p></td>
+<td></td>
+<td><p>魔境</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/桜美かつし" title="wikilink">桜美勝志</a></p></td>
+<td><p>松園公</p></td>
+<td><p>佐藤道雄</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>6月9日</p></td>
+<td></td>
+<td><p>魔獸</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>西本由紀夫</p></td>
+<td><p>青木真理子</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>6月16日</p></td>
+<td></td>
+<td><p>覺醒</p></td>
+<td><p>高谷浩利</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玉川達文" title="wikilink">玉川達文</a></p></td>
+<td><p>中谷誠一</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>6月23日</p></td>
+<td></td>
+<td><p>鼓動</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>原博</p></td>
+<td><p>花井信也</p></td>
+<td><p>日向正樹</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>6月30日</p></td>
+<td></td>
+<td><p>組織</p></td>
+<td><p>岡崎幸男</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島忠二" title="wikilink">中島忠二</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>7月7日</p></td>
+<td></td>
+<td><p>慈雨</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/增井壮一" title="wikilink">增井壮一</a></p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>小川一郎</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>7月14日</p></td>
+<td></td>
+<td><p>魔宴</p></td>
+<td><p>宮下隼一</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今掛勇" title="wikilink">今掛勇</a></p></td>
+<td><p>下司泰弘</p></td>
+<td><p>石川晋吾</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>7月21日</p></td>
+<td></td>
+<td><p>魔王</p></td>
+<td><p>御厨恭輔</p></td>
+<td><p>大阪竹志</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>7月28日</p></td>
+<td></td>
+<td><p>降臨</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>龜垣一</p></td>
+<td><p>清水貴子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>8月4日</p></td>
+<td></td>
+<td><p>業火</p></td>
+<td><p>原博</p></td>
+<td><p>花井信也</p></td>
+<td><p>日向正樹</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>8月11日</p></td>
+<td></td>
+<td><p>狩場</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>岡崎幸男</p></td>
+<td><p>江角涼子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>8月18日</p></td>
+<td></td>
+<td><p>危機</p></td>
+<td><p>龜垣一</p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>岩井優器</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+<td><p>8月25日</p></td>
+<td></td>
+<td><p>希望</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>御厨恭輔</p></td>
+<td><p>大阪竹志</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p>9月1日</p></td>
+<td></td>
+<td><p>騎士</p></td>
+<td><p>高谷浩利</p></td>
+<td><p>久保山英一</p></td>
+<td><p>小川一郎</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+<td><p>9月8日</p></td>
+<td></td>
+<td><p>白兔</p></td>
+<td><p>原博</p></td>
+<td><p>花井信也</p></td>
+<td><p>日向正樹</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>24</p></td>
+<td><p>9月15日</p></td>
+<td></td>
+<td><p>猛毒</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>西本由紀夫</p></td>
+<td><p>岩井優器</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>25</p></td>
+<td><p>9月22日</p></td>
+<td></td>
+<td><p>審判</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>玉川達文</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+<td><p>9月29日</p></td>
+<td></td>
+<td><p>邂逅</p></td>
+<td><p>高谷浩利</p></td>
+<td><p>松園公</p></td>
+<td><p>清水貴子</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PROJECT ARMS The 2nd Chapter</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1（27）</p></td>
+<td><p>10月6日</p></td>
+<td></td>
+<td><p>遠來</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>龜垣一</p></td>
+<td><p><a href="../Page/谷口守泰.md" title="wikilink">谷口守泰</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2（28）</p></td>
+<td><p>10月13日</p></td>
+<td></td>
+<td><p>獵犬</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>山内重保</p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>小川一郎</p></td>
+</tr>
+<tr class="odd">
+<td><p>3（29）</p></td>
+<td><p>10月20日</p></td>
+<td></td>
+<td><p>鬥士</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p><a href="../Page/細田雅弘.md" title="wikilink">細田雅弘</a></p></td>
+<td><p>池田重隆</p></td>
+<td><p>日向正樹</p></td>
+</tr>
+<tr class="even">
+<td><p>4（30）</p></td>
+<td><p>10月27日</p></td>
+<td></td>
+<td><p>信賴</p></td>
+<td><p>御厨恭輔</p></td>
+<td><p>大阪竹志</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5（31）</p></td>
+<td><p>11月3日</p></td>
+<td></td>
+<td><p>來襲</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>松園公<br />
+<a href="../Page/西村純二.md" title="wikilink">西村純二</a></p></td>
+<td><p>久保山英一</p></td>
+<td><p>清水貴子<br />
+谷口守泰</p></td>
+</tr>
+<tr class="even">
+<td><p>6（32）</p></td>
+<td><p>11月10日</p></td>
+<td></td>
+<td><p>孵化</p></td>
+<td><p>山内重保</p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>岩井優器</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7（33）</p></td>
+<td><p>11月17日</p></td>
+<td></td>
+<td><p>火神</p></td>
+<td><p><a href="../Page/大河內一樓.md" title="wikilink">大河內一樓</a></p></td>
+<td><p>西村純二</p></td>
+<td><p>岡尾貴洋</p></td>
+<td><p><a href="../Page/宮繁之.md" title="wikilink">宮繁之</a></p></td>
+</tr>
+<tr class="even">
+<td><p>8（34）</p></td>
+<td><p>11月24日</p></td>
+<td></td>
+<td><p>鳥籠</p></td>
+<td><p>原博</p></td>
+<td><p>池田重隆</p></td>
+<td><p>日向正樹</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9（35）</p></td>
+<td><p>12月1日</p></td>
+<td></td>
+<td><p>寂靜</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>龜垣一</p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>小川一郎<br />
+谷口守泰</p></td>
+</tr>
+<tr class="even">
+<td><p>10（36）</p></td>
+<td><p>12月8日</p></td>
+<td></td>
+<td><p>奔流</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>松園公</p></td>
+<td><p>岩井優器</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11（37）</p></td>
+<td><p>12月15日</p></td>
+<td></td>
+<td><p>前進</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>細田雅弘</p></td>
+<td><p>御厨恭輔</p></td>
+<td><p>櫻井木之實</p></td>
+</tr>
+<tr class="even">
+<td><p>12（38）</p></td>
+<td><p>12月22日</p></td>
+<td></td>
+<td><p>昏睡</p></td>
+<td><p>西村純二</p></td>
+<td><p>Fumotoai</p></td>
+<td><p>中屋了</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13（39）</p></td>
+<td><p>12月29日</p></td>
+<td></td>
+<td><p>火水</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>原博</p></td>
+<td><p>池田重隆</p></td>
+<td><p>日向正樹</p></td>
+</tr>
+<tr class="even">
+<td><p>14（40）</p></td>
+<td><p><strong>2002年</strong><br />
+1月5日</p></td>
+<td></td>
+<td><p>復活</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>龜垣一</p></td>
+<td><p>本橋秀之</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>15（41）</p></td>
+<td><p>1月12日</p></td>
+<td></td>
+<td><p>遠離</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>松園公</p></td>
+<td><p>久保山英一</p></td>
+<td><p>小川一郎<br />
+谷口守泰</p></td>
+</tr>
+<tr class="even">
+<td><p>16（42）</p></td>
+<td><p>1月19日</p></td>
+<td></td>
+<td><p>誕生</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>御厨恭輔</p></td>
+<td><p>櫻井木之實</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>17（43）</p></td>
+<td><p>1月26日</p></td>
+<td></td>
+<td><p>迴轉</p></td>
+<td><p>山内重保</p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>小川一郎</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18（44）</p></td>
+<td><p>2月2日</p></td>
+<td></td>
+<td><p>幻境</p></td>
+<td><p>原博</p></td>
+<td><p>池田重隆</p></td>
+<td><p>日向正樹</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19（45）</p></td>
+<td><p>2月9日</p></td>
+<td></td>
+<td><p>戰場</p></td>
+<td><p>松園公</p></td>
+<td><p>久保山英一</p></td>
+<td><p>本橋秀之</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>20（46）</p></td>
+<td><p>2月16日</p></td>
+<td></td>
+<td><p>要塞</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>山内重保</p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>小川一郎<br />
+谷口守泰</p></td>
+</tr>
+<tr class="odd">
+<td><p>21（47）</p></td>
+<td><p>2月23日</p></td>
+<td></td>
+<td><p>交錯</p></td>
+<td><p><a href="../Page/玉井豪.md" title="wikilink">玉井☆豪</a></p></td>
+<td><p>松園公</p></td>
+<td><p>御厨恭輔</p></td>
+<td><p>櫻井木之實</p></td>
+</tr>
+<tr class="even">
+<td><p>22（48）</p></td>
+<td><p>3月2日</p></td>
+<td></td>
+<td><p>人類</p></td>
+<td><p>久保山英一</p></td>
+<td><p>石川晋吾</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23（49）</p></td>
+<td><p>3月9日</p></td>
+<td></td>
+<td><p>默示</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>原博</p></td>
+<td><p>池田重隆</p></td>
+<td><p>日向正樹</p></td>
+</tr>
+<tr class="even">
+<td><p>24（50）</p></td>
+<td><p>3月16日</p></td>
+<td></td>
+<td><p>世界</p></td>
+<td><p>宮下隼一</p></td>
+<td><p>龜垣一</p></td>
+<td><p>糸賀慎太郎</p></td>
+<td><p>小川一郎<br />
+谷口守泰</p></td>
+</tr>
+<tr class="odd">
+<td><p>25（51）</p></td>
+<td><p>3月23日</p></td>
+<td></td>
+<td><p>藍天</p></td>
+<td><p>吉永亜矢</p></td>
+<td><p>久保山英一</p></td>
+<td><p>清水貴子<br />
+高谷浩利</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>26（52）</p></td>
+<td><p>3月30日</p></td>
+<td></td>
+<td><p>歸還</p></td>
+<td><p>龜垣一</p></td>
+<td><p>小川一郎</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 播放電視台
+
+| 播放電視台                                                         | 播放日期                   | 播放時間              | 備註               |
+| ------------------------------------------------------------- | ---------------------- | ----------------- | ---------------- |
+| [東京電視台](../Page/東京電視台.md "wikilink")                          | 2001年4月7日 - 2002年3月30日 | 星期六 24:50 - 25:20 | **製作電視台**        |
+| [大阪電視台](../Page/大阪電視台.md "wikilink")                          | 星期六 25:25 - 25:55      |                   |                  |
+| [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                      | 2001年4月9日 - 2002年4月1日  | 星期一 25:40 - 26:10 | 第24話到第26話延遲1週放送。 |
+| [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 2001年4月11日 - 2002年4月3日 | 星期三 25:55 - 26:25 |                  |
+| [TV北海道](../Page/TV北海道.md "wikilink")                          | 星期三 26:25 - 26:55      |                   |                  |
+| [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")                        | 2001年7月3日 - 2002年4月2日  | 星期二 25:35 - 26:05 | 第1話到第13話未進行放送。   |
+| [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2007年1月9日 - 2008年1月1日  | 星期二 18:30 - 19:00 |                  |
+
+## 遊戲
 
 ### PS2遊戲
 
   - 『PROJECT ARMS』
-    2002年3月28日，由日本[萬代發售](../Page/萬代.md "wikilink")[PlayStation
-    2用的遊戲](../Page/PlayStation_2.md "wikilink")。\[1\]
-
-## 外部連結
-
-  - [ARMS
-    COMICTHEATER](https://web.archive.org/web/20080509011603/http://www.shogakukan.co.jp/arms/top.htm)（[小學館的此漫畫官網](../Page/小學館.md "wikilink")）
-
-  - [](http://www.tms-e.com/library/on_air_back/arms/)（TV版動畫官網）
-
-  -
-  - [Amazon.co.jp:
-    ARMS：本](http://www.amazon.co.jp/s/ref=nb_ss_b?__mk_ja_JP=%83J%83%5E%83J%83i&url=search-alias%3Dstripbooks&field-keywords=ARMS)
-
-  - [博客來網路書店 -
-    目前您搜尋的關鍵字為：ARMS神臂](http://search.books.com.tw/exep/prod_search.php?cat=all&key=+%AF%AB%C1u+%AC%D2%A4t%ABG%A4G)
+    2002年3月28日，由日本[萬代](../Page/萬代.md "wikilink")發售[PlayStation 2用的遊戲](../Page/PlayStation_2.md "wikilink")。\[1\]
 
 ## 参考文献
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink")
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
-[Category:愛麗絲夢遊仙境題材作品](https://zh.wikipedia.org/wiki/Category:愛麗絲夢遊仙境題材作品 "wikilink")
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:万代游戏](https://zh.wikipedia.org/wiki/Category:万代游戏 "wikilink")
+## 外部連結
 
-1.  [『PROJECT
-    ARMS』遊戲的外盒封面](http://media.gamestats.com/gg/image/ProjectArms_PS2JPNBOXboxart_160w.jpg)
+  - [ARMS COMICTHEATER 小學館漫畫官網](https://web.archive.org/web/20080509011603/http://www.shogakukan.co.jp/arms/top.htm)
+
+  - [](http://www.tms-e.com/library/on_air_back/arms/)（電視動畫官網）
+
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:愛麗絲夢遊仙境題材作品](https://zh.wikipedia.org/wiki/Category:愛麗絲夢遊仙境題材作品 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:万代游戏](https://zh.wikipedia.org/wiki/Category:万代游戏 "wikilink")
+
+1.  [『PROJECT ARMS』遊戲的外盒封面](http://media.gamestats.com/gg/image/ProjectArms_PS2JPNBOXboxart_160w.jpg)

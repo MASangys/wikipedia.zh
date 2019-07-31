@@ -1,5 +1,4 @@
-《**ONE PIECE 被詛咒的聖劍**》是於2004年上映的第五部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
+《**ONE PIECE 被詛咒的聖劍**》是於2004年上映的第五部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情
 
@@ -103,8 +102,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 ## 音樂
 
   - 「」
-    作詞：松風友也・内田浩之 / 作曲：松風友也 / 編曲：[明石昌夫](../Page/明石昌夫.md "wikilink") /
-    歌：[晴晴゛](https://zh.wikipedia.org/wiki/晴晴゛ "wikilink")
+    作詞：松風友也・内田浩之 / 作曲：松風友也 / 編曲：[明石昌夫](../Page/明石昌夫.md "wikilink") / 歌：[晴晴゛](https://zh.wikipedia.org/wiki/晴晴゛ "wikilink")
 
 ## 目標！海賊棒球王
 
@@ -147,8 +145,6 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 
   - [官方網站](http://www.toei-anim.co.jp/movie/2004_onepiece/)
 
-[ru:Список анимационных фильмов о One Piece\#Фильм
-пятый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_пятый "wikilink")
+[ru:Список анимационных фильмов о One Piece\#Фильм пятый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_пятый "wikilink")
 
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2004年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2004年日本劇場動畫 "wikilink")
+[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2004年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2004年日本劇場動畫 "wikilink")

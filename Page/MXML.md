@@ -1,13 +1,10 @@
-**MXML**是一种用于在[Adobe
-Flex布局用户界面组件的](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")[XML](../Page/XML.md "wikilink")语言。语言标签中使用**mx**作为前缀。MXML区分大小写，主要用于在[Flex中的程序编写](https://zh.wikipedia.org/wiki/Flex "wikilink")。
+**MXML**是一种用于在[Adobe Flex布局用户界面组件的](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")[XML](../Page/XML.md "wikilink")语言。语言标签中使用**mx**作为前缀。MXML区分大小写，主要用于在[Flex中的程序编写](https://zh.wikipedia.org/wiki/Flex "wikilink")。
 
-Adobe系統，這在2005年12月收購了Macromedia公司，給出的縮寫MXML沒有官方意義。一些開發商認為這應該代表“可擴展標記語言”。這是可能的名字來自給發布於2002年和2004年，或者“Macromedia的可擴展標記語言”的Macromedia
-Studio產品的MX後綴。
+Adobe系統，這在2005年12月收購了Macromedia公司，給出的縮寫MXML沒有官方意義。一些開發商認為這應該代表“可擴展標記語言”。這是可能的名字來自給發布於2002年和2004年，或者“Macromedia的可擴展標記語言”的Macromedia Studio產品的MX後綴。
 
 MXML主要用於聲明應用程序的接口，也可以用於實現業務邏輯和Web應用的行為。它可以包含的ActionScript.CSS代碼。
 
-MXML經常使用Flex伺服器，動態編譯成標準的二進制文件。然而，的Adobe Flash Builder的 IDE（原的Adobe的Flex
-Builder）和免費的Flex SDK也可以編譯成MXML文件，而無需使用一個Flex伺服器。
+MXML經常使用Flex伺服器，動態編譯成標準的二進制文件。然而，的Adobe Flash Builder的 IDE（原的Adobe的Flex Builder）和免費的Flex SDK也可以編譯成MXML文件，而無需使用一個Flex伺服器。
 
 還有一個PHP PEAR包叫做XML_MXML，這是一個框架來構建的Adobe Flex應用程序。
 
@@ -47,7 +44,6 @@ testView.mxml
 
 ## 擴充結構
 
-基本結構依循[XML](../Page/XML.md "wikilink")標準 在這之下 "\<s:" 代表 spark
-也就是開發商命名空間,由adobe 開發出的套件spark的首字 我們也可以修改或變更導入我們自己的套件
+基本結構依循[XML](../Page/XML.md "wikilink")標準 在這之下 "\<s:" 代表 spark 也就是開發商命名空間,由adobe 開發出的套件spark的首字 我們也可以修改或變更導入我們自己的套件
 
 [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")

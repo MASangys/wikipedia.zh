@@ -1,6 +1,4 @@
-***'VEGA***' 是[EC
-Music旗下的一隊](https://zh.wikipedia.org/wiki/EC_Music "wikilink")2008年新進[組合](../Page/組合.md "wikilink")。由兩男兩女──[葉瑞玲](https://zh.wikipedia.org/wiki/葉瑞玲 "wikilink")（Valerie）、[關卓鍵](https://zh.wikipedia.org/wiki/關卓鍵 "wikilink")（Edan）、[楊芷瑩](https://zh.wikipedia.org/wiki/楊芷瑩 "wikilink")（Gabby）和[陳詠謙](../Page/陳詠謙.md "wikilink")（Abrahim）組成，主打音樂風格是以Classical
-Pop（[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")）的形式唱出情歌，並為歌迷們帶來全新的感受。VEGA的歌唱風格是[香港樂壇少有的](https://zh.wikipedia.org/wiki/香港樂壇 "wikilink")，為樂壇帶來更多不同音樂元素及藝術交流。
+***'VEGA***' 是[EC Music旗下的一隊](https://zh.wikipedia.org/wiki/EC_Music "wikilink")2008年新進[組合](../Page/組合.md "wikilink")。由兩男兩女──[葉瑞玲](https://zh.wikipedia.org/wiki/葉瑞玲 "wikilink")（Valerie）、[關卓鍵](https://zh.wikipedia.org/wiki/關卓鍵 "wikilink")（Edan）、[楊芷瑩](https://zh.wikipedia.org/wiki/楊芷瑩 "wikilink")（Gabby）和[陳詠謙](../Page/陳詠謙.md "wikilink")（Abrahim）組成，主打音樂風格是以Classical Pop（[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")）的形式唱出情歌，並為歌迷們帶來全新的感受。VEGA的歌唱風格是[香港樂壇少有的](https://zh.wikipedia.org/wiki/香港樂壇 "wikilink")，為樂壇帶來更多不同音樂元素及藝術交流。
 
 ## 唱片
 
@@ -59,21 +57,13 @@ Pop（[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[流行音�
 
 2007年
 
-  - 12月 [TVB音樂台](https://zh.wikipedia.org/wiki/TVB "wikilink")「LIVE
-    HOUSE」：[陳曉東Show](https://zh.wikipedia.org/wiki/陳曉東 "wikilink")
-    Case﹝**VEGA** 合作演出﹞
-  - 12月 [銅鑼灣時代廣場](../Page/時代廣場_\(香港\).md "wikilink") ：《TODAY's POP
-    TOMMORROW's CLASSICS》 ﹝**VEGA**首次獨立一小時Mini Showcase﹞
+  - 12月 [TVB音樂台](https://zh.wikipedia.org/wiki/TVB "wikilink")「LIVE HOUSE」：[陳曉東Show](https://zh.wikipedia.org/wiki/陳曉東 "wikilink") Case﹝**VEGA** 合作演出﹞
+  - 12月 [銅鑼灣時代廣場](../Page/時代廣場_\(香港\).md "wikilink") ：《TODAY's POP TOMMORROW's CLASSICS》 ﹝**VEGA**首次獨立一小時Mini Showcase﹞
 
 2008年
 
-  - 11月 [Backstage
-    Restaurant](https://zh.wikipedia.org/wiki/Backstage_Restaurant "wikilink"):
-    **VEGA** and [INK](https://zh.wikipedia.org/wiki/INK "wikilink")
-    Concert﹝**VEGA** and
-    [INK](https://zh.wikipedia.org/wiki/INK "wikilink") ﹞
-  - 6月 [TVB音樂台](https://zh.wikipedia.org/wiki/TVB "wikilink")「LIVE
-    HOUSE」:﹝**VEGA** 獨立演出﹞
+  - 11月 [Backstage Restaurant](https://zh.wikipedia.org/wiki/Backstage_Restaurant "wikilink"): **VEGA** and [INK](https://zh.wikipedia.org/wiki/INK "wikilink") Concert﹝**VEGA** and [INK](https://zh.wikipedia.org/wiki/INK "wikilink") ﹞
+  - 6月 [TVB音樂台](https://zh.wikipedia.org/wiki/TVB "wikilink")「LIVE HOUSE」:﹝**VEGA** 獨立演出﹞
 
 ## 音樂節目獎項
 
@@ -109,11 +99,8 @@ Pop（[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[流行音�
 ## 獎項
 
   - 2007年度9+2音樂先鋒榜頒獎禮 - 先鋒新人獎
-  - 2008年度全國中央電視台主辦 -
-    [CCTV青年歌手大獎賽初賽及決賽代表香港](https://zh.wikipedia.org/wiki/CCTV "wikilink")（黑夜不探戈）
-    - 決賽總得分=89.89分
-  - [2008勁歌金曲優秀選第一回](../Page/2008年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    新人薦場飆星獎
+  - 2008年度全國中央電視台主辦 - [CCTV青年歌手大獎賽初賽及決賽代表香港](https://zh.wikipedia.org/wiki/CCTV "wikilink")（黑夜不探戈） - 決賽總得分=89.89分
+  - [2008勁歌金曲優秀選第一回](../Page/2008年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 新人薦場飆星獎
   - 第五屆勁歌王全球華人樂壇年度總選 - 最有前途組合新人獎
   - [新城國語力頒獎禮2008](../Page/2008年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語新勢力組合
   - [新城勁爆頒獎禮2008](../Page/2008年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆新登場組合
@@ -125,7 +112,7 @@ Pop（[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[流行音�
 
 ## 備註
 
-此組合並非1999年為[李蕙敏創作歌曲](../Page/李蕙敏.md "wikilink")《下次遇到你》的樂團[VEGA](https://zh.wikipedia.org/wiki/VEGA_\(樂團\) "wikilink")。
+此組合並非1999年為[李蕙敏](../Page/李蕙敏.md "wikilink")創作歌曲《下次遇到你》的樂團[VEGA](https://zh.wikipedia.org/wiki/VEGA_\(樂團\) "wikilink")。
 
 ## 外部連結
 

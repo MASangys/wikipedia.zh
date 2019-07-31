@@ -1,22 +1,16 @@
-[Gundam_Unicorn.jpg](https://zh.wikipedia.org/wiki/File:Gundam_Unicorn.jpg "fig:Gundam_Unicorn.jpg")
-《**機動戰士鋼彈UC**》（）是[福井晴敏](../Page/福井晴敏.md "wikilink")撰寫的[GUNDAM小說系列作品](../Page/GUNDAM系列作品.md "wikilink")，於雜誌《[GUNDAM
-ACE](../Page/GUNDAM_ACE.md "wikilink")》2007年2月號至2009年8月號上連載。2009年4月25日，官方宣布本作品動畫化\[1\]，改編動畫以全7話[OVA形式於](https://zh.wikipedia.org/wiki/OVA "wikilink")2010年2月20日至2014年5月17日在世界多國同步播放，並推出多语言[BD](../Page/藍光光碟.md "wikilink")&[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。OVA動畫因大獲好評而決定將其內容進行編輯成新版動畫《機動戰士鋼彈UC
-RE:0096》，於2016年4月3日開始播出。
+[Gundam_Unicorn.jpg](https://zh.wikipedia.org/wiki/File:Gundam_Unicorn.jpg "fig:Gundam_Unicorn.jpg") 《**機動戰士鋼彈UC**》（）是[福井晴敏](../Page/福井晴敏.md "wikilink")撰寫的[GUNDAM小說系列作品](../Page/GUNDAM系列作品.md "wikilink")，於雜誌《[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")》2007年2月號至2009年8月號上連載。2009年4月25日，官方宣布本作品動畫化\[1\]，改編動畫以全7話[OVA形式於](https://zh.wikipedia.org/wiki/OVA "wikilink")2010年2月20日至2014年5月17日在世界多國同步播放，並推出多语言[BD](../Page/藍光光碟.md "wikilink")&[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。OVA動畫因大獲好評而決定將其內容進行編輯成新版動畫《機動戰士鋼彈UC RE:0096》，於2016年4月3日開始播出。
 
 ## 概要
 
-《**機動戰士鋼彈UC**》於2007年所推出的以[UC時代](../Page/宇宙世紀.md "wikilink")（宇宙世紀）為時代背景的小說，作品由[福井晴敏](../Page/福井晴敏.md "wikilink")執筆，[安彥良和擔當人物設定](https://zh.wikipedia.org/wiki/安彥良和 "wikilink")，[角木肇](../Page/角木肇.md "wikilink")擔當機體設定的。作為最新的[宇宙世紀](../Page/宇宙世紀.md "wikilink")作品，其主角機為繼承GUNDAM之名的[RX-0
-獨角獸GUNDAM](../Page/RX-0_獨角獸GUNDAM.md "wikilink")。小說至今已出版全10卷單行本。
+《**機動戰士鋼彈UC**》於2007年所推出的以[UC時代](../Page/宇宙世紀.md "wikilink")（宇宙世紀）為時代背景的小說，作品由[福井晴敏](../Page/福井晴敏.md "wikilink")執筆，[安彥良和擔當人物設定](https://zh.wikipedia.org/wiki/安彥良和 "wikilink")，[角木肇](../Page/角木肇.md "wikilink")擔當機體設定的。作為最新的[宇宙世紀](../Page/宇宙世紀.md "wikilink")作品，其主角機為繼承GUNDAM之名的[RX-0 獨角獸GUNDAM](../Page/RX-0_獨角獸GUNDAM.md "wikilink")。小說至今已出版全10卷單行本。
 
 UC鋼彈中的NT-D模式全稱為-{New Type Destroyer system}-，RE則是指REMASTER。
 
 ## 故事背景
 
-在第二次新吉翁戰爭——別名「-{zh-hans:逆袭的夏亚; zh-hk:馬沙之反擊;
-zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。這之後3年，宇宙世紀0096年，在工業殖民地「工業7號」上進行一項秘密交涉。和地球聯邦政府有秘密協議並依此發展的「畢斯特財團」，打算將過去用以威脅聯邦的最高機密「**拉普拉斯之盒**」交給新吉翁的殘黨軍「**帶袖的**」。
+在第二次新吉翁戰爭——別名「-{zh-hans:逆袭的夏亚; zh-hk:馬沙之反擊; zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。這之後3年，宇宙世紀0096年，在工業殖民地「工業7號」上進行一項秘密交涉。和地球聯邦政府有秘密協議並依此發展的「畢斯特財團」，打算將過去用以威脅聯邦的最高機密「**拉普拉斯之盒**」交給新吉翁的殘黨軍「**帶袖的**」。
 
-另一方面，就讀亞納海姆工業專門學校的少年**巴納吉·林克斯**遇見自稱**奧黛莉·伯恩**的少女。奧黛莉為了制止新的戰爭爆發，必須阻止拉普拉斯之盒的交易。巴納吉在數次幫助奧黛莉之後，逐漸被她所吸引。隨後，地球聯邦察覺這起交易，並進行軍事介入，工業殖民地隨即化為一片火海。巴納吉和同伴一邊避難、一邊尋找奧黛莉，而出現在他面前的是畢斯特財團當家卡帝亞斯·畢斯特。奄奄一息的卡帝亞斯將身世的秘密告訴巴納吉，並且將盒之鑰匙「**RX-0
-獨角獸GUNDAM**」托付給他。一場圍繞拉普拉斯之盒的戰爭就此展開。
+另一方面，就讀亞納海姆工業專門學校的少年**巴納吉·林克斯**遇見自稱**奧黛莉·伯恩**的少女。奧黛莉為了制止新的戰爭爆發，必須阻止拉普拉斯之盒的交易。巴納吉在數次幫助奧黛莉之後，逐漸被她所吸引。隨後，地球聯邦察覺這起交易，並進行軍事介入，工業殖民地隨即化為一片火海。巴納吉和同伴一邊避難、一邊尋找奧黛莉，而出現在他面前的是畢斯特財團當家卡帝亞斯·畢斯特。奄奄一息的卡帝亞斯將身世的秘密告訴巴納吉，並且將盒之鑰匙「**RX-0 獨角獸GUNDAM**」托付給他。一場圍繞拉普拉斯之盒的戰爭就此展開。
 
 ## 登場人物
 
@@ -25,8 +19,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 ### 主要角色
 
   -
-    本作的男主角，16歲的少年，擁有深褐色的瞳孔及頭髮，帶有亞州普遍的膚色，亞納海姆電子工業專科學校工學部資源開發科的實習學生，其真正身份為卡帝亞斯·畢斯特的私生子。所駕駛的機體為RX-0
-    獨角獸鋼彈。幼年時曾於畢斯特大宅接受NT能力開發，後來被親生母親帶走。對奧黛莉·伯恩一見鍾情，在小說有和奧黛莉·伯恩接吻。
+    本作的男主角，16歲的少年，擁有深褐色的瞳孔及頭髮，帶有亞州普遍的膚色，亞納海姆電子工業專科學校工學部資源開發科的實習學生，其真正身份為卡帝亞斯·畢斯特的私生子。所駕駛的機體為RX-0 獨角獸鋼彈。幼年時曾於畢斯特大宅接受NT能力開發，後來被親生母親帶走。對奧黛莉·伯恩一見鍾情，在小說有和奧黛莉·伯恩接吻。
 
 <!-- end list -->
 
@@ -36,18 +29,14 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 ### 新吉翁殘黨軍「帶袖的」（）
 
   -
-    新吉翁殘黨-「-{帶袖的}-」頭領，人稱「[夏亚再臨](https://zh.wikipedia.org/wiki/夏亚 "wikilink")」，駕駛專用機「新安州」，帶面具的男人，小說中第十話交代此人其實是夏亞的複製人。是夏亞命令吉翁共和国的國防部長摩纳罕製造，後被駕駛獨角獸與報喪女妖的巴納吉與利迪擊墜。OVA版中可能是夏亞本人,駕駛新吉翁克與獨角獸鋼彈和報喪女妖交戰，其間與巴納吉穿越時空目睹過去一年戰爭，格里普斯與及阿克西斯墜落等重大歷史事件，最後阿姆羅、拉拉及【一年戰爭時期】的夏亞三人的靈魂一同現身（換言之，OVA
-    版確認了阿姆羅在阻擋阿克西斯降下地球的時候，已經消逝。），引導弗爾的靈魂一同離開。
+    新吉翁殘黨-「-{帶袖的}-」頭領，人稱「[夏亚再臨](https://zh.wikipedia.org/wiki/夏亚 "wikilink")」，駕駛專用機「新安州」，帶面具的男人，小說中第十話交代此人其實是夏亞的複製人。是夏亞命令吉翁共和国的國防部長摩纳罕製造，後被駕駛獨角獸與報喪女妖的巴納吉與利迪擊墜。OVA版中可能是夏亞本人,駕駛新吉翁克與獨角獸鋼彈和報喪女妖交戰，其間與巴納吉穿越時空目睹過去一年戰爭，格里普斯與及阿克西斯墜落等重大歷史事件，最後阿姆羅、拉拉及【一年戰爭時期】的夏亞三人的靈魂一同現身（換言之，OVA 版確認了阿姆羅在阻擋阿克西斯降下地球的時候，已經消逝。），引導弗爾的靈魂一同離開。
     基於擁有夏亞的記憶，弗爾曾多次見過幾部不同的鋼彈（RX-78、Mk-II、Zeta、Nu等等），所以在第一次看到獨角獸鋼彈由獨角獸模式轉為毀滅模式時，説出：「又要與我為敵嗎！？鋼彈！！」
     弗爾知道夏亞記憶的所有一切，甚至有如自己的一樣，因而有分析認為OVA以及動畫版本的弗爾並非小說版灌入夏亞記憶之複製人，而是實實在在的夏亞本人。相信殖民地「阿克西斯」墜下時一部份之精神或靈魂離開身體，與阿姆羅之精神發生共鳴阻止了阿克西斯墜下。(拉拉說道上校還是上校的時候)夏亞失去一年戰爭以及格林普斯戰役時相信人類無限可能性的思維，只餘下對人類絕望的負面人格，因此化成弗爾·伏朗托。詳見《機動戦士ガンダム　逆襲のシャア　シャアのその後》
 
 <!-- end list -->
 
   -
-    第1次新吉翁戰爭，卡雷米·托托的[NEW
-    TYPE部隊的複製人普露第](../Page/Newtype.md "wikilink")12號。ZZ戰爭最後時期，機體大破後精神崩壞，逃生倉被人口販子拾獲賣入妓院，期間被虐待多年、強暴、墮胎反反覆覆，身為女性的機能全部喪失，因精神失常而無反抗意識。後得斯貝洛亞·辛尼曼救回，康復後回歸新吉翁駕駛專用機「剎帝利」。其後被獨角獸打敗後落入聯邦軍手上，再被AE
-    社
-    瑪莎再調整記憶後駕駛黑色獨角獸「報喪女妖」，回復清醒後再駕駛剎帝利參予最後戰役，後因保護擬阿卡馬號被利迪擊墜。OVA版改為被NTD干擾而失控的利迪以光束槍直擊死亡，之後化為精神體提醒眾人還有衛星砲的存在，最後向辛尼曼表示他是給了自己第二個人生的人。另OVA版中由於她被賣入妓院時期過於悲慘及不人道，實在難以在動畫中展現出來，只能隱晦地表達過程。相反小說版中就形容得非常具體及露骨。
+    第1次新吉翁戰爭，卡雷米·托托的[NEW TYPE部隊的複製人普露第](../Page/Newtype.md "wikilink")12號。ZZ戰爭最後時期，機體大破後精神崩壞，逃生倉被人口販子拾獲賣入妓院，期間被虐待多年、強暴、墮胎反反覆覆，身為女性的機能全部喪失，因精神失常而無反抗意識。後得斯貝洛亞·辛尼曼救回，康復後回歸新吉翁駕駛專用機「剎帝利」。其後被獨角獸打敗後落入聯邦軍手上，再被AE 社 瑪莎再調整記憶後駕駛黑色獨角獸「報喪女妖」，回復清醒後再駕駛剎帝利參予最後戰役，後因保護擬阿卡馬號被利迪擊墜。OVA版改為被NTD干擾而失控的利迪以光束槍直擊死亡，之後化為精神體提醒眾人還有衛星砲的存在，最後向辛尼曼表示他是給了自己第二個人生的人。另OVA版中由於她被賣入妓院時期過於悲慘及不人道，實在難以在動畫中展現出來，只能隱晦地表達過程。相反小說版中就形容得非常具體及露骨。
 
 <!-- end list -->
 
@@ -100,8 +89,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 ### 畢斯特財團（）
 
   -
-    畢斯特財團的第二代當家，也是巴納吉的父親，曾在巴納吉年幼時與其見面，及教授其家中壁毯「婦人與獨角獸（）」的真諦。在0096年時，因為在工業七號之亂中被其子亚伯特（巴納吉的同父異母哥哥）槍傷，臨死前與巴納吉在RX-0
-    獨角獸鋼彈中見面，並交付獨角獸給巴納吉，最後飘出駕駛倉被大火吞沒。
+    畢斯特財團的第二代當家，也是巴納吉的父親，曾在巴納吉年幼時與其見面，及教授其家中壁毯「婦人與獨角獸（）」的真諦。在0096年時，因為在工業七號之亂中被其子亚伯特（巴納吉的同父異母哥哥）槍傷，臨死前與巴納吉在RX-0 獨角獸鋼彈中見面，並交付獨角獸給巴納吉，最後飘出駕駛倉被大火吞沒。
 
 <!-- end list -->
 
@@ -139,8 +127,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 ### 地球聯邦軍
 
   -
-    羅南·馬瑟納斯之子，由於不想依循家族傳統從政而離家出走從軍。軍校畢業後配屬為擬阿卡馬號MS駕駛，使用機為ReZel、Delta
-    Plus以及报丧女妖。喜愛古典[雙翼機模型](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")，對米妮瓦有著一往情深的感情。
+    羅南·馬瑟納斯之子，由於不想依循家族傳統從政而離家出走從軍。軍校畢業後配屬為擬阿卡馬號MS駕駛，使用機為ReZel、Delta Plus以及报丧女妖。喜愛古典[雙翼機模型](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")，對米妮瓦有著一往情深的感情。
 
 #### 隆德·貝爾隊
 
@@ -187,9 +174,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 #### ECOAS
 
   -
-    聯邦列屬“狩獵人類部隊”（ECOAS
-    920）的司令，中校。在《拉普拉斯的亡靈》一集中與巴納吉同行探勘拉普拉斯遺駭，外表冷酷但心地其實和善。在遭受弗爾攻擊時為了幫助巴納吉
-    以自己的死來換取 促使他發動 NT-D，跑到外部以肩射火箭彈牽制弗爾，被弗爾的光束斧攻擊而蒸發死亡。
+    聯邦列屬“狩獵人類部隊”（ECOAS 920）的司令，中校。在《拉普拉斯的亡靈》一集中與巴納吉同行探勘拉普拉斯遺駭，外表冷酷但心地其實和善。在遭受弗爾攻擊時為了幫助巴納吉 以自己的死來換取 促使他發動 NT-D，跑到外部以肩射火箭彈牽制弗爾，被弗爾的光束斧攻擊而蒸發死亡。
 
 <!-- end list -->
 
@@ -298,16 +283,11 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 
     :::::::::::::**Article 15**
 
-  - The Earth Federation shall prepare the following articles for the
-    future of human race with high hopes and expectations.
+  - The Earth Federation shall prepare the following articles for the future of human race with high hopes and expectations.
 
-    1\. In preparation for an extraterrestrial biological emergency, the
-    Earth Federation shall increase and expand research and
-    preparedness.
+    1\. In preparation for an extraterrestrial biological emergency, the Earth Federation shall increase and expand research and preparedness.
 
-    2\. In the future, should the emergence of a new space-adapted human
-    race be confirmed, the Earth Federation shall give priority to
-    involving them in the administration of the government.}}
+    2\. In the future, should the emergence of a new space-adapted human race be confirmed, the Earth Federation shall give priority to involving them in the administration of the government.}}
 
 <!-- end list -->
 
@@ -395,8 +375,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 <!-- end list -->
 
   -
-    全稱為「**E**arth **CO**lony
-    **AS**teroid」，於3年前的「第二次新吉翁戰爭」後不久形成，是「地球聯邦軍」新成立的特殊任務小組，它被創造為獨立的工作隊，來做一些骯髒和秘密的任務。
+    全稱為「**E**arth **CO**lony **AS**teroid」，於3年前的「第二次新吉翁戰爭」後不久形成，是「地球聯邦軍」新成立的特殊任務小組，它被創造為獨立的工作隊，來做一些骯髒和秘密的任務。
     有自己的指揮系統，甚至連「隆德·貝爾」也不能直接命令他們。
     其任務是與暴露的「新自護」部隊作戰，掃蕩新自護殘黨。其基地被設在「月神2號」。他們的活動非常廣泛，從軍事需要，簡單的警務，到他們有保障的特殊權利。
     雖然他們的存在是在聯邦軍隊中較為保密，但是其中一支「920特種部隊」自從和新吉翁在「工業7號」上戰鬥後，就駐紮在了「擬·阿卡馬」上。
@@ -441,9 +420,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 ## 技術
 
   -
-    關於NT-D系統，地球聯邦軍官方記錄為是「New-Type
-    Drive」的縮寫，因為在發動NT-D系統之後，機體會改以精神感應系統進行機體的部分操作；但NT-D的真面目其實是「New-Type
-    Destroyer」，因為在此狀態下，本機具有劫持精神感應系統搭載機的感應兵器（包含任何有線及無線式的精神感應無人機）並反過來殲滅精神感應機體的能力。
+    關於NT-D系統，地球聯邦軍官方記錄為是「New-Type Drive」的縮寫，因為在發動NT-D系統之後，機體會改以精神感應系統進行機體的部分操作；但NT-D的真面目其實是「New-Type Destroyer」，因為在此狀態下，本機具有劫持精神感應系統搭載機的感應兵器（包含任何有線及無線式的精神感應無人機）並反過來殲滅精神感應機體的能力。
     事實經歷一年戰爭至夏亚之亂後，聯邦軍早已留意到新人類可怕的力量，再加上新人類人是自護主義理念的一環，於是委託A.E.社開發及製造本機，以消滅吉翁的新人類神話。不過作為「拉普拉斯之盒」鑰匙的一號機被畢斯特財團的第二代當家——卡帝亞斯·畢斯特竄改了OS，灌入「拉普拉斯程式」，使一號機在某特定情況下發動NT-D系統時，需要滿足機體操作系统中隱藏的「拉普拉斯程式」所定下的條件（一般戰鬥中的發動不受影響）。而根據賽亞姆·畢斯特所言，「拉普拉斯程式」乃是藉機械方式辨識真正新人類的系統，使得一號機成了一個矛盾的存在。
     其開發之初就是以搭乘者為新人類為前提進行的精神感應思想操縱系統，UC計劃中只有獨角獸高達及新安州兩部MS搭載，機體受到腦波映像影響直接反映的思考系統，凌駕於手動操縱MS的反應以及動作精度。而此系統與完全精神感應骨架組合開發出獨角獸高達搭載特殊管制系統的NT-D系統，駕駛員與精神感應思想操縱系統交感下將獨角獸高達提升至極限，此時機動性將會得到飛躍性的提升，透過精神感應系統的控制，其推進器從點火、推進到煞停的時間非常的短暫，速度甚至能用「瞬間移動」來形容，駕駛員將要承受強大的G力和對大腦的衝擊力，一般人不能駕駛，考慮到這一點，所以大約只能發動5分鐘左右。另外，NT-D發動時，精神框架會與生物傳感器產生作用，在機體的附近產生像I-力場的光束排斥作用。
     由於內部機構有搭載精神感應骨架，能和具有相同機構的機體產生共鳴。當認定敵人為擁有新人類能力的存在（不會去分辨是新人類還是強化人），便会解除限制并發動NT-D系統，大幅提高推進力和運動性能。NT-D系统探测到精神感应武器后，会強制奪取敵方的感应武器的控制權，來殲滅目標。
@@ -463,8 +440,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 <!-- end list -->
 
   -
-    全称為「Newtype Insection Trace Reformed Oldtype
-    System」，即「NT檢測追踪用改造型OT系統」。
+    全称為「Newtype Insection Trace Reformed Oldtype System」，即「NT檢測追踪用改造型OT系統」。
     通過該系統即可模擬出NT腦波信號來指揮精神制導型兵器，同時簡易的接收機師的物理操作控制，達到OT也具有NT能力般的現象。
 
 ## 小說
@@ -689,8 +665,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 
 ### 战后的战争
 
-《机动战士GUNDAM UC 战后的战争》（）为PlayStation 3游戏[机动战士高达
-UC特装版的特典](../Page/机动战士GUNDAM_UC_\(游戏\).md "wikilink")。
+《机动战士GUNDAM UC 战后的战争》（）为PlayStation 3游戏[机动战士高达 UC特装版的特典](../Page/机动战士GUNDAM_UC_\(游戏\).md "wikilink")。
 
 ### 狩猎不死鸟
 
@@ -700,11 +675,7 @@ UC特装版的特典](../Page/机动战士GUNDAM_UC_\(游戏\).md "wikilink")。
 
 《機動戰士鋼彈 UC》的動畫版是鋼彈動畫中少有的非原創（由小說改編）鋼彈動畫。
 
-2009年4月25日，日昇動畫決定把《機動戰士GUNDAM
-UC》動畫化。官方稱將以一種全新的模式全世界範圍內採取多種方式發布。2010年2月20日，第一集發布，以及在日本五大城市公映，包括東京、大阪、名古屋、福岡、札幌，以兩週時間（2010年2月20日～2010年3月5日）限時試播映，並在現場影院內針對入場者發售藍光光碟第1集先行限量發售版。2010年2月20日起[索尼電腦娛樂通过旗下](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation
-Network上的](../Page/PlayStation_Network.md "wikilink")[PlayStation
-Store向](../Page/PlayStation_Store.md "wikilink")[PlayStation
-3](../Page/PlayStation_3.md "wikilink")、[PSP用户提供影片網路撥放](../Page/PlayStation_Portable.md "wikilink")。
+2009年4月25日，日昇動畫決定把《機動戰士GUNDAM UC》動畫化。官方稱將以一種全新的模式全世界範圍內採取多種方式發布。2010年2月20日，第一集發布，以及在日本五大城市公映，包括東京、大阪、名古屋、福岡、札幌，以兩週時間（2010年2月20日～2010年3月5日）限時試播映，並在現場影院內針對入場者發售藍光光碟第1集先行限量發售版。2010年2月20日起[索尼電腦娛樂通过旗下](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation Network上的](../Page/PlayStation_Network.md "wikilink")[PlayStation Store向](../Page/PlayStation_Store.md "wikilink")[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PSP用户提供影片網路撥放](../Page/PlayStation_Portable.md "wikilink")。
 
 藍光光碟及DVD由[萬代影視](../Page/萬代影視.md "wikilink")出品，第1集於2010年3月12日全球同步發售。
 
@@ -940,72 +911,57 @@ Over the Rainbow</p></td>
 #### 主題歌
 
   - [流星之泪](../Page/流星之泪.md "wikilink")（流星のナミダ） （episode1）
-    作詞：田中秀典、中山豪次郎 / 作曲：中山豪次郎 / 歌：[CHiAKi
-    KURiYAMA](../Page/栗山千明.md "wikilink")
+    作詞：田中秀典、中山豪次郎 / 作曲：中山豪次郎 / 歌：[CHiAKi KURiYAMA](../Page/栗山千明.md "wikilink")
 
 <!-- end list -->
 
-  - [Everlasting](../Page/Everlasting_\(Kylee单曲\).md "wikilink")
-    （episode2）
-    作詞：渡邊亜希子、Kylee / 作曲：Carlos K. / 歌：[Kylee
-    Saunders](https://zh.wikipedia.org/wiki/凱莉·桑德斯 "wikilink")
+  - [Everlasting](../Page/Everlasting_\(Kylee单曲\).md "wikilink") （episode2）
+    作詞：渡邊亜希子、Kylee / 作曲：Carlos K. / 歌：[Kylee Saunders](https://zh.wikipedia.org/wiki/凱莉·桑德斯 "wikilink")
 
 <!-- end list -->
 
-  - [merry-go-round](https://zh.wikipedia.org/wiki/merry-go-round_\(CHEMISTRY单曲\) "wikilink")
-    （episode3）
-    作詞：堂珍嘉邦、川畑要 /
-    作曲・編曲：[UTA](https://zh.wikipedia.org/wiki/UTA "wikilink")
-    / 歌：[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")
+  - [merry-go-round](https://zh.wikipedia.org/wiki/merry-go-round_\(CHEMISTRY单曲\) "wikilink") （episode3）
+    作詞：堂珍嘉邦、川畑要 / 作曲・編曲：[UTA](https://zh.wikipedia.org/wiki/UTA "wikilink") / 歌：[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")
 
 <!-- end list -->
 
   - B-Bird （episode4）
-    作詞：FLAT5th Rico / 作曲・編曲：齊藤真也 /
-    歌：[earthmind](https://zh.wikipedia.org/wiki/earthmind "wikilink")
+    作詞：FLAT5th Rico / 作曲・編曲：齊藤真也 / 歌：[earthmind](https://zh.wikipedia.org/wiki/earthmind "wikilink")
 
 <!-- end list -->
 
   - BROKEN MIRROR （episode5）
-    歌：[BOOM BOOM
-    SATELLITES](https://zh.wikipedia.org/wiki/BOOM_BOOM_SATELLITES "wikilink")
+    歌：[BOOM BOOM SATELLITES](https://zh.wikipedia.org/wiki/BOOM_BOOM_SATELLITES "wikilink")
 
 <!-- end list -->
 
   - [RE:I AM](../Page/RE:I_AM_EP.md "wikilink") （episode6）
-    作詞・作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink") /
-    歌：[Aimer](../Page/Aimer.md "wikilink")
+    作詞・作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink") / 歌：[Aimer](../Page/Aimer.md "wikilink")
 
 <!-- end list -->
 
-  - [StarRingChild](https://zh.wikipedia.org/wiki/StarRingChild "wikilink")
-    （episode7）
-    作詞・作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink") /
-    歌：[Aimer](../Page/Aimer.md "wikilink")
+  - [StarRingChild](https://zh.wikipedia.org/wiki/StarRingChild "wikilink") （episode7）
+    作詞・作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink") / 歌：[Aimer](../Page/Aimer.md "wikilink")
 
 #### 插曲
 
   - A LETTER （episode1）
-    作詞：mpi / 作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
-    / 歌：[Cyua](https://zh.wikipedia.org/wiki/Cyua "wikilink")
+    作詞：mpi / 作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink") / 歌：[Cyua](https://zh.wikipedia.org/wiki/Cyua "wikilink")
 
 <!-- end list -->
 
   - LICHT MEER （episode2）
-    作詞：Rie / 作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
-    / 歌：[井上優弥子](https://zh.wikipedia.org/wiki/井上優弥子 "wikilink")
+    作詞：Rie / 作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink") / 歌：[井上優弥子](https://zh.wikipedia.org/wiki/井上優弥子 "wikilink")
 
 <!-- end list -->
 
   - EGO （episode3）
-    作詞：mpi / 作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
-    / 歌：[小林未郁](../Page/小林未郁.md "wikilink")
+    作詞：mpi / 作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink") / 歌：[小林未郁](../Page/小林未郁.md "wikilink")
 
 <!-- end list -->
 
   - REMIND YOU （episode4）
-    作詞：mpi / 作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
-    / 歌：[小林未郁](../Page/小林未郁.md "wikilink")
+    作詞：mpi / 作曲・編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink") / 歌：[小林未郁](../Page/小林未郁.md "wikilink")
 
 #### ORIGINAL SOUNDTRACK
 
@@ -1047,8 +1003,7 @@ Over the Rainbow</p></td>
   -
 
       -
-        作詞：Benjamin &
-        mpi，作曲、編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")，主唱：SawanoHiroyuki\[nZk\]:Tielle
+        作詞：Benjamin & mpi，作曲、編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")，主唱：SawanoHiroyuki\[nZk\]:Tielle
 
 :;「RE：I AM」（第18話）
 
@@ -1068,16 +1023,12 @@ Over the Rainbow</p></td>
       -
         作詞：澤野弘之、cAnON.，作曲、編曲：澤野弘之，主唱：SawanoHiroyuki\[nZk\]:naNami
 
-:;「[merry-go-round](https://zh.wikipedia.org/wiki/merry-go-round_\(CHEMISTRY单曲\) "wikilink")」
-（第9話）
+:;「[merry-go-round](https://zh.wikipedia.org/wiki/merry-go-round_\(CHEMISTRY单曲\) "wikilink")」 （第9話）
 
   -
 
       -
-        作詞：堂珍嘉邦、川畑要 /
-        作曲・編曲：[UTA](https://zh.wikipedia.org/wiki/UTA "wikilink")
-        /
-        歌：[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")
+        作詞：堂珍嘉邦、川畑要 / 作曲・編曲：[UTA](https://zh.wikipedia.org/wiki/UTA "wikilink") / 歌：[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")
 
 :; 「bL∞dy f8 -eUC-」 （第13－21話）
 
@@ -1086,14 +1037,12 @@ Over the Rainbow</p></td>
       -
         作詞：cAnON.，作曲、編曲：澤野弘之，主唱：SawanoHiroyuki\[nZk\]:Aimer
 
-:;「[StarRingChild](https://zh.wikipedia.org/wiki/StarRingChild "wikilink")」
-（第22話）
+:;「[StarRingChild](https://zh.wikipedia.org/wiki/StarRingChild "wikilink")」 （第22話）
 
   -
 
       -
-        作詞・作曲・編曲：[泽野弘之](../Page/泽野弘之.md "wikilink") /
-        歌：[Aimer](../Page/Aimer.md "wikilink")
+        作詞・作曲・編曲：[泽野弘之](../Page/泽野弘之.md "wikilink") / 歌：[Aimer](../Page/Aimer.md "wikilink")
 
 ### 各集列表
 
@@ -1549,12 +1498,9 @@ Over the Rainbow</p></td>
   - 機動戰士GUNDAM　GUNDAM VS.GUNDAM Next Plus(PSP)
   - 機動戰士GUNDAM EXTREME VS (AC/PS3)
   - 機動戰士GUNDAM EXTREME VS FULL BOOST (AC/PS3)
-  - [SD GUNDAM GGENERATION
-    WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(PSP/Wii)
-  - [SD GUNDAM GGENERATION OVER
-    WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(PSP)
-  - [SD GUNDAM GGENERATION
-    3D](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(N3DS)
+  - [SD GUNDAM GGENERATION WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(PSP/Wii)
+  - [SD GUNDAM GGENERATION OVER WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(PSP)
+  - [SD GUNDAM GGENERATION 3D](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(N3DS)
   - [第3次超級機器人大戰Z](../Page/第3次超級機器人大戰Z.md "wikilink") 時獄篇&天獄篇(PS3/PSV)
   - [高达无双3](../Page/GUNDAM無雙3.md "wikilink")(PS3/Xbox 360)
   - 真·GUNDAM无双(PS3/PSV)
@@ -1575,14 +1521,7 @@ Over the Rainbow</p></td>
   - 電子遊戲
 
   -
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink")
-[Category:科幻动画](https://zh.wikipedia.org/wiki/Category:科幻动画 "wikilink")
-[Category:2010年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2010年日本OVA動畫 "wikilink")
-[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink")
-[Category:天漫](https://zh.wikipedia.org/wiki/Category:天漫 "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:科幻动画](https://zh.wikipedia.org/wiki/Category:科幻动画 "wikilink") [Category:2010年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2010年日本OVA動畫 "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:天漫](https://zh.wikipedia.org/wiki/Category:天漫 "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.  [](http://www.sunrise-anime.jp/news/unicorn/news/index.php#2601)
 2.  [](http://www.gundam-unicorn.net/character/index.html)

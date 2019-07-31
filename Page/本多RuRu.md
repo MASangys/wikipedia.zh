@@ -16,20 +16,11 @@
 
 ### 1998-2000
 
-1998年，RuRu參加由日本《[五花八門淺草橋](https://zh.wikipedia.org/wiki/五花八門淺草橋 "wikilink")》節目推出新人選秀特別企劃單元，希望藉此單元的訓練，培養出一個表演團體，並定下嚴苛的目標:
-1.
-特訓後發行單曲CD，必須到達日本ORICON排行榜前六位2.連續四個月各出一張單曲。而她便在經紀人的鼓勵下，寄出了自己的DEMO帶，面試以一首[惠妮休斯頓高難度的](https://zh.wikipedia.org/wiki/惠妮休斯頓 "wikilink")《I'll
-Always Love
-You》贏得該節目製作人的賞識，與[稻葉貴子](https://zh.wikipedia.org/wiki/稻葉貴子 "wikilink")、[信田美帆](https://zh.wikipedia.org/wiki/信田美帆 "wikilink")、[小湊美和等人正式成立團體](https://zh.wikipedia.org/wiki/小湊美和 "wikilink")[太陽與月亮](../Page/太陽與月亮.md "wikilink")。
+1998年，RuRu參加由日本《[五花八門淺草橋](https://zh.wikipedia.org/wiki/五花八門淺草橋 "wikilink")》節目推出新人選秀特別企劃單元，希望藉此單元的訓練，培養出一個表演團體，並定下嚴苛的目標: 1. 特訓後發行單曲CD，必須到達日本ORICON排行榜前六位2.連續四個月各出一張單曲。而她便在經紀人的鼓勵下，寄出了自己的DEMO帶，面試以一首[惠妮休斯頓高難度的](https://zh.wikipedia.org/wiki/惠妮休斯頓 "wikilink")《I'll Always Love You》贏得該節目製作人的賞識，與[稻葉貴子](https://zh.wikipedia.org/wiki/稻葉貴子 "wikilink")、[信田美帆](https://zh.wikipedia.org/wiki/信田美帆 "wikilink")、[小湊美和等人正式成立團體](https://zh.wikipedia.org/wiki/小湊美和 "wikilink")[太陽與月亮](../Page/太陽與月亮.md "wikilink")。
 
-1999年4月，太陽與月亮終於推出了首張日文單曲《月亮太陽》，由淳君(射亂Q主唱)擔任唱片製作人。而且首張專輯《Taiyo &
-Ciscomoon
-1》銷量高達35萬張以上，並打進日本ORICON排行榜第4名。之後四個月內團體成員各自發行單曲，也創下非常好的成績，終於在同年12月囊括日本音樂界六大獎項的所有新人獎。
+1999年4月，太陽與月亮終於推出了首張日文單曲《月亮太陽》，由淳君(射亂Q主唱)擔任唱片製作人。而且首張專輯《Taiyo & Ciscomoon 1》銷量高達35萬張以上，並打進日本ORICON排行榜第4名。之後四個月內團體成員各自發行單曲，也創下非常好的成績，終於在同年12月囊括日本音樂界六大獎項的所有新人獎。
 
-2000年4月，太陽與月亮團名正式改名為[T\&C
-Bomber並推出第](../Page/太陽與月亮.md "wikilink")7張日文單曲《Don't
-Stop》。同年7月，推出第8張日文單曲《正午的海市蜃樓》及第二張專輯《2nd
-Stage》，之後製作人淳君召集她們開會，他認為太陽與月亮4位成員已經有足夠的實力可以各自發展，所以告知團體即將解散。其後《[五花八門淺草橋](https://zh.wikipedia.org/wiki/五花八門淺草橋 "wikilink")》在台灣播出，RuRu更在一次巧合之下碰上了[維京音樂總經理](https://zh.wikipedia.org/wiki/維京音樂 "wikilink")[姚謙](https://zh.wikipedia.org/wiki/姚謙 "wikilink")，並引領她轉往台灣發展，同年12月加盟[維京音樂](https://zh.wikipedia.org/wiki/維京音樂 "wikilink")。
+2000年4月，太陽與月亮團名正式改名為[T\&C Bomber並推出第](../Page/太陽與月亮.md "wikilink")7張日文單曲《Don't Stop》。同年7月，推出第8張日文單曲《正午的海市蜃樓》及第二張專輯《2nd Stage》，之後製作人淳君召集她們開會，他認為太陽與月亮4位成員已經有足夠的實力可以各自發展，所以告知團體即將解散。其後《[五花八門淺草橋](https://zh.wikipedia.org/wiki/五花八門淺草橋 "wikilink")》在台灣播出，RuRu更在一次巧合之下碰上了[維京音樂總經理](https://zh.wikipedia.org/wiki/維京音樂 "wikilink")[姚謙](https://zh.wikipedia.org/wiki/姚謙 "wikilink")，並引領她轉往台灣發展，同年12月加盟[維京音樂](https://zh.wikipedia.org/wiki/維京音樂 "wikilink")。
 
 ### 2001-2007
 
@@ -47,8 +38,7 @@ Stage》，之後製作人淳君召集她們開會，他認為太陽與月亮4�
 
 ### 2015-現在
 
-2015年7月，在日本[東京](../Page/東京都.md "wikilink")，參加由《最初で最後じゃなかった！太陽とシスコムーン
-トークライブ〜やっぱり4人で〜》。
+2015年7月，在日本[東京](../Page/東京都.md "wikilink")，參加由《最初で最後じゃなかった！太陽とシスコムーン トークライブ〜やっぱり4人で〜》。
 
 2016年8月，在中國[渭南](../Page/渭南市.md "wikilink")，參加由《渭南第五届青岛啤酒节》。
 
@@ -92,10 +82,4 @@ Stage》，之後製作人淳君召集她們開會，他認為太陽與月亮4�
 
 [Category:归化日本公民的中华人民共和国人](https://zh.wikipedia.org/wiki/Category:归化日本公民的中华人民共和国人 "wikilink")
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:中國女歌手](https://zh.wikipedia.org/wiki/Category:中國女歌手 "wikilink")
-[Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink")
-[Category:日本華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本華語流行音樂歌手 "wikilink")
-[Category:遼寧歌手](https://zh.wikipedia.org/wiki/Category:遼寧歌手 "wikilink")
-[Category:瀋陽人](https://zh.wikipedia.org/wiki/Category:瀋陽人 "wikilink")
-[Category:郭姓](https://zh.wikipedia.org/wiki/Category:郭姓 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:中國女歌手](https://zh.wikipedia.org/wiki/Category:中國女歌手 "wikilink") [Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink") [Category:日本華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本華語流行音樂歌手 "wikilink") [Category:遼寧歌手](https://zh.wikipedia.org/wiki/Category:遼寧歌手 "wikilink") [Category:瀋陽人](https://zh.wikipedia.org/wiki/Category:瀋陽人 "wikilink") [Category:郭姓](https://zh.wikipedia.org/wiki/Category:郭姓 "wikilink")

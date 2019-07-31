@@ -1,20 +1,14 @@
-**VC-1**，全名**VC-1視訊編解碼器**（**Video Codec
-1**），是微軟所開發的視訊編解碼系統。2003年提出標準化申請，最早名字是**VC-9**。2006年4月正式通過成為標準。
+**VC-1**，全名**VC-1視訊編解碼器**（**Video Codec 1**），是微軟所開發的視訊編解碼系統。2003年提出標準化申請，最早名字是**VC-9**。2006年4月正式通過成為標準。
 
-VC-1是基於Windows Media Video
-9壓縮技術的影像壓縮標準，由三大編解碼元件所組成，每一個編解碼元件都具有其獨自的FourCC編碼。
+VC-1是基於Windows Media Video 9壓縮技術的影像壓縮標準，由三大編解碼元件所組成，每一個編解碼元件都具有其獨自的FourCC編碼。
 
   - WMV3（WMV9）：WMV3包含了Simple以及Main這兩種Profile。
   - WMVA
   - WVC1
 
-壓縮技術整合了MPEG及H.264之優點，採用Biliner和Bicubic方式，[次像素](https://zh.wikipedia.org/wiki/次像素 "wikilink")（Sub-Pixel）最小可達4分之1像素。VC-1-{只}-有4種動作補償（motion
-composition），壓縮比無法勝過H.264。VC-1在壓縮時間上，明顯比[H.264短了許多](https://zh.wikipedia.org/wiki/H.264 "wikilink")，複雜度約只有H.264的50%，對特效電影有很傑出的效能表現。由於H.264使用較小尺寸的轉換公式與無法調整的量化矩陣，造成不能完整保留影像的高頻細節資訊。
+壓縮技術整合了MPEG及H.264之優點，採用Biliner和Bicubic方式，[次像素](https://zh.wikipedia.org/wiki/次像素 "wikilink")（Sub-Pixel）最小可達4分之1像素。VC-1-{只}-有4種動作補償（motion composition），壓縮比無法勝過H.264。VC-1在壓縮時間上，明顯比[H.264短了許多](https://zh.wikipedia.org/wiki/H.264 "wikilink")，複雜度約只有H.264的50%，對特效電影有很傑出的效能表現。由於H.264使用較小尺寸的轉換公式與無法調整的量化矩陣，造成不能完整保留影像的高頻細節資訊。
 
-[HD
-DVD和](../Page/HD_DVD.md "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")（Blu-ray
-Disc）都支援VC-1。微軟表示Windows Vista將支援VC-1影像壓縮技術的HD
-DVD規格。電影及電視學會（SMPTE）已採用VC-1為視訊壓縮標準。
+[HD DVD和](../Page/HD_DVD.md "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")（Blu-ray Disc）都支援VC-1。微軟表示Windows Vista將支援VC-1影像壓縮技術的HD DVD規格。電影及電視學會（SMPTE）已採用VC-1為視訊壓縮標準。
 
 ## Profiles
 
@@ -247,9 +241,7 @@ DVD規格。電影及電視學會（SMPTE）已採用VC-1為視訊壓縮標準�
 
   -
   -
-  - [VC-1 reference software
-    analysis](http://wiki.multimedia.cx/index.php?title=Understanding_VC-1)
-    at the MultimediaWiki
+  - [VC-1 reference software analysis](http://wiki.multimedia.cx/index.php?title=Understanding_VC-1) at the MultimediaWiki
 
   - RFC 4425 – IETF RTP Payload Format for Video Codec 1
 

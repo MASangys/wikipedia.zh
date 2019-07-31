@@ -1,11 +1,6 @@
-[The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg")
-是由[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")所制作的縱[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+[The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg") 是由[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")所制作的縱[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
-本作是在相隔[PC-98推出該平台最後的作品](https://zh.wikipedia.org/wiki/PC-98 "wikilink")「[東方怪綺談
-～ Mystic
-Square.](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")」的三年後開發的。在2002年6月10日發佈體驗版，並在2002年8月11日（[Comic
-Market](../Page/Comic_Market.md "wikilink")
-62）正式發售，最後在同年9月27日開始在各[同人商店開始了](https://zh.wikipedia.org/wiki/同人商店 "wikilink")[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。當時在商店售賣的時候，[漫畫虎之穴店中有本遊戲的示範](https://zh.wikipedia.org/wiki/漫畫虎之穴 "wikilink")。\[1\]
+本作是在相隔[PC-98推出該平台最後的作品](https://zh.wikipedia.org/wiki/PC-98 "wikilink")「[東方怪綺談 ～ Mystic Square.](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")」的三年後開發的。在2002年6月10日發佈體驗版，並在2002年8月11日（[Comic Market](../Page/Comic_Market.md "wikilink") 62）正式發售，最後在同年9月27日開始在各[同人商店開始了](https://zh.wikipedia.org/wiki/同人商店 "wikilink")[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。當時在商店售賣的時候，[漫畫虎之穴店中有本遊戲的示範](https://zh.wikipedia.org/wiki/漫畫虎之穴 "wikilink")。\[1\]
 
 東方紅魔鄉是第一部將「[幻想鄉](../Page/幻想鄉.md "wikilink")」作為一個地點引入東方系列的作品。此後東方系列的主要場景均為幻想鄉。
 
@@ -15,9 +10,7 @@ Market](../Page/Comic_Market.md "wikilink")
 
 玩家需要操作自機（遊戲主角）在屏幕上移動，向敵機（敵人）進行射擊，同時避免被敵人發射的子彈擊中。在每關的中間和結尾，玩家需要擊敗特定敵方頭目（即道中BOSS和關卡BOSS）才能繼續遊戲。玩家可以發動BOMB（炸彈/大招）以擺脫困境。BOMB的威力比普通攻擊高，可消除炸彈範圍內的所有敵方子彈，BOMB使用後一小段時間內自機處於無敵狀態，但BOMB數量有限。某些敵人在被消滅後會掉落一個BOMB，可供玩家補充。
 
-本作可從[博麗靈夢](../Page/博麗靈夢.md "wikilink")和[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")兩人中選擇一個作為自機。選擇其中一人後，可從兩種武器中選擇其中一種，進行全6關（在Easy難度之下只有5關）的故事模式。當以Normal或以上難度挑戰且不續關成功破關的話，會進入Good
-Ending，並解鎖難度更高的Extra模式。續關後通關或在Easy難度之下通關會進入Bad
-Ending。另外關於結局方面，即使武器種類的選擇都會令結局有所改變。
+本作可從[博麗靈夢](../Page/博麗靈夢.md "wikilink")和[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")兩人中選擇一個作為自機。選擇其中一人後，可從兩種武器中選擇其中一種，進行全6關（在Easy難度之下只有5關）的故事模式。當以Normal或以上難度挑戰且不續關成功破關的話，會進入Good Ending，並解鎖難度更高的Extra模式。續關後通關或在Easy難度之下通關會進入Bad Ending。另外關於結局方面，即使武器種類的選擇都會令結局有所改變。
 
 本作從前作繼承了若干遊戲系統，例如道具自動收集、低速移動模式、擦彈等，此外又引入了很多新系統，包括得分獎勵殘機（達到指定分數後自動獎勵一個殘機）、Replay（遊戲回放）功能、被彈BOMB（在中彈後几幀之內發動BOMB以避免損失殘機）、[符卡](../Page/符卡.md "wikilink")等。
 
@@ -104,13 +97,7 @@ ZUN認為，東方紅魔鄉作為上海愛麗絲幻樂團的第一部作品和�
 
   -
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:吸血鬼題材遊戲](https://zh.wikipedia.org/wiki/Category:吸血鬼題材遊戲 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:吸血鬼題材遊戲](https://zh.wikipedia.org/wiki/Category:吸血鬼題材遊戲 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
 
@@ -121,9 +108,6 @@ ZUN認為，東方紅魔鄉作為上海愛麗絲幻樂團的第一部作品和�
 4.
 5.
 
-6.  [「システム」「スペルカードボーナス」](https://web.archive.org/web/20050408091352/http://gensou.s93.xrea.com/world/qa0207.html#02112501),
-    幻想掲示板 (ZUN's guestbook) via webarchives. 2002-11.
+6.  [「システム」「スペルカードボーナス」](https://web.archive.org/web/20050408091352/http://gensou.s93.xrea.com/world/qa0207.html#02112501), 幻想掲示板 (ZUN's guestbook) via webarchives. 2002-11.
 
-7.  ZUN, ["Shanghai Alice Correspondence
-    Vol.1"](http://en.touhouwiki.net/wiki/Embodiment_of_Scarlet_Devil:_Afterword)
-    . *Embodiment of Scarlet Devil* Afterword. 2002-8-11.
+7.  ZUN, ["Shanghai Alice Correspondence Vol.1"](http://en.touhouwiki.net/wiki/Embodiment_of_Scarlet_Devil:_Afterword) . *Embodiment of Scarlet Devil* Afterword. 2002-8-11.

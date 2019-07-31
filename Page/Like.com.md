@@ -2,14 +2,9 @@
 
 ## 历史
 
-Like.com由Riya公司创办。这家公司建立时的目标是开发一个用于识别图片中相似人脸的搜索引擎。在开展这项业务的过程中，Riya公司遇到很大的困难。后来，他们决定采用同样的技术，来提供不同的服务，于是创办了Like.com。Riya公司的[首席执行官](../Page/首席执行官.md "wikilink")曼贾尔·沙阿（Munjal
-Shah）说：“同样的这项技术在搜索外表相似的产品时效果显著”。\[2\]而公司[首席技术官以及创始人之一的布拉克](https://zh.wikipedia.org/wiki/首席技术官 "wikilink")·戈图尔克（Burak
-Goturk）此前曾经进行过[计算机视觉](../Page/计算机视觉.md "wikilink")技术方面的工作，并且拥有20多项[人脸识别](../Page/人脸识别.md "wikilink")方面的[专利](../Page/专利.md "wikilink")。\[3\]
+Like.com由Riya公司创办。这家公司建立时的目标是开发一个用于识别图片中相似人脸的搜索引擎。在开展这项业务的过程中，Riya公司遇到很大的困难。后来，他们决定采用同样的技术，来提供不同的服务，于是创办了Like.com。Riya公司的[首席执行官](../Page/首席执行官.md "wikilink")曼贾尔·沙阿（Munjal Shah）说：“同样的这项技术在搜索外表相似的产品时效果显著”。\[2\]而公司[首席技术官以及创始人之一的布拉克](https://zh.wikipedia.org/wiki/首席技术官 "wikilink")·戈图尔克（Burak Goturk）此前曾经进行过[计算机视觉](../Page/计算机视觉.md "wikilink")技术方面的工作，并且拥有20多项[人脸识别](../Page/人脸识别.md "wikilink")方面的[专利](../Page/专利.md "wikilink")。\[3\]
 
-Like.com网站于2006年11月8日的[Web
-2.0会议上发布](../Page/Web_2.0.md "wikilink")。\[4\]Like.com从Bay
-Partners、BlueRun Ventures和Leepfrog
-Ventures等投资者那里募集了1950万[美元](../Page/美元.md "wikilink")。公司计划通过与零售网站关联的方式来赚取利润，对经由Like.com发往零售网站的订单收取10%的佣金。截至2006年11月，Like.com网站上已经有来自200家商户的200万件不同商品。\[5\]
+Like.com网站于2006年11月8日的[Web 2.0会议上发布](../Page/Web_2.0.md "wikilink")。\[4\]Like.com从Bay Partners、BlueRun Ventures和Leepfrog Ventures等投资者那里募集了1950万[美元](../Page/美元.md "wikilink")。公司计划通过与零售网站关联的方式来赚取利润，对经由Like.com发往零售网站的订单收取10%的佣金。截至2006年11月，Like.com网站上已经有来自200家商户的200万件不同商品。\[5\]
 
 2010年8月，[Google](../Page/Google.md "wikilink")以大约1亿美元的价格收购Like.com。\[6\]
 
@@ -19,11 +14,7 @@ Like.com的搜索功能仅限於来自[Amazon.com](https://zh.wikipedia.org/wiki
 
 ## 评价
 
-邦比·弗朗西斯科（Bambi
-Francisco）在MarketWatch网站撰文，认为Like.com“代表着[Google](../Page/Google.md "wikilink")的[Google
-Product
-Search](https://zh.wikipedia.org/wiki/Google_Product_Search "wikilink")、[eBay的](https://zh.wikipedia.org/wiki/eBay "wikilink")[Shopping.com](https://zh.wikipedia.org/wiki/Shopping.com "wikilink")、E.
-W. Scripps的Shopzilla以及Become.com等价格比较搜索引擎的发展方向”。\[8\]
+邦比·弗朗西斯科（Bambi Francisco）在MarketWatch网站撰文，认为Like.com“代表着[Google](../Page/Google.md "wikilink")的[Google Product Search](https://zh.wikipedia.org/wiki/Google_Product_Search "wikilink")、[eBay的](https://zh.wikipedia.org/wiki/eBay "wikilink")[Shopping.com](https://zh.wikipedia.org/wiki/Shopping.com "wikilink")、E. W. Scripps的Shopzilla以及Become.com等价格比较搜索引擎的发展方向”。\[8\]
 
 ## 参考文献
 

@@ -1,8 +1,8 @@
-**FREEDOM-PROJECT**（自由計劃）是[日清食品的](../Page/日清食品.md "wikilink")[合味道](../Page/合味道.md "wikilink")[杯麵與漫畫家](https://zh.wikipedia.org/wiki/杯麵 "wikilink")[大友克洋合作的宣傳計劃](../Page/大友克洋.md "wikilink")，主要製作電視廣告、OVA及輕小說等。
+**FREEDOM-PROJECT**（自由計劃）是[日清食品](../Page/日清食品.md "wikilink")的[合味道](../Page/合味道.md "wikilink")[杯麵與漫畫家](https://zh.wikipedia.org/wiki/杯麵 "wikilink")[大友克洋](../Page/大友克洋.md "wikilink")合作的宣傳計劃，主要製作電視廣告、OVA及輕小說等。
 
 ## 概要
 
-本計劃的世界舞台是以[日清食品的](../Page/日清食品.md "wikilink")[合味道](../Page/合味道.md "wikilink")[杯麵與](https://zh.wikipedia.org/wiki/杯麵 "wikilink")[大友克洋的](../Page/大友克洋.md "wikilink")「FREEDOM：自由」為主題，拍攝全10支的廣告系列，並製作全6集+1集後續篇的OVA動畫。動畫會先在Yahoo\!動畫上作網上播放，其後會以標題「**FREEDOM**」作DVD發售。。
+本計劃的世界舞台是以[日清食品](../Page/日清食品.md "wikilink")的[合味道](../Page/合味道.md "wikilink")[杯麵與](https://zh.wikipedia.org/wiki/杯麵 "wikilink")[大友克洋](../Page/大友克洋.md "wikilink")的「FREEDOM：自由」為主題，拍攝全10支的廣告系列，並製作全6集+1集後續篇的OVA動畫。動畫會先在Yahoo\!動畫上作網上播放，其後會以標題「**FREEDOM**」作DVD發售。。
 
   - 口號：「FREEDOM 抓緊自由。」
   - 動畫制作：[日昇動畫](../Page/日昇動畫.md "wikilink")
@@ -49,8 +49,7 @@
   - 2063年 DOME1完成。DOME2着手建造。
   - 2069年 隨人口的增加而建設地下水道，將水從地下水脈引進。
   - 2081年 月面都市擴拡張。
-  - 2101年 被稱為『大厄災』之年。宇宙Station
-    FREEPORT於地球降落，月球與地球的交流斷絕。地球的自然環境急劇惡化，天然資源的紛爭引發內戰。
+  - 2101年 被稱為『大厄災』之年。宇宙Station FREEPORT於地球降落，月球與地球的交流斷絕。地球的自然環境急劇惡化，天然資源的紛爭引發內戰。
   - 2102年 運營局提議月球作為人類最後的都市。
   - 2104年 運營局進行FREEWAY的完全自治宣言。EDEN共和國宣言。
   - 2105年 EDEN完全封鎖。地球文明崩壞。
@@ -81,8 +80,7 @@
       - 4月20日\~4月23日 - 於Yahoo\!動畫72時小時限時公開「FREEDOM 3」。
       - 4月25日 -「FREEDOM 3」DVD發售 。
       - 5月24日 - 輕小說作品「FREEDOM フットマークデイズ」發售 。
-      - 6月24日-[Animax播放](../Page/Animax.md "wikilink")「伊甸篇」的「FREEDOM
-        1」～「FREEDOM 3」
+      - 6月24日-[Animax](../Page/Animax.md "wikilink")播放「伊甸篇」的「FREEDOM 1」～「FREEDOM 3」
       - 6月26日-發售「FREEDOM 1」的[HD DVD](../Page/HD_DVD.md "wikilink")（北美版）
       - 7月20日-CM第6輯「初始地球篇」播放
       - 7月20日\~7月23日 - 於Yahoo\!動畫72時小時限時公開「FREEDOM 4」。
@@ -111,14 +109,6 @@
 
   - [日本合味道官方網站](http://cupnoodle.jp/)
 
-  - [Yahoo\!日本動畫 -
-    FREEDOM](https://web.archive.org/web/20070210052423/http://streaming.yahoo.co.jp/special/anime/freedom/)
+  - [Yahoo\!日本動畫 - FREEDOM](https://web.archive.org/web/20070210052423/http://streaming.yahoo.co.jp/special/anime/freedom/)
 
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink")
-[Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink")
-[Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink")
-[Category:月球背景作品](https://zh.wikipedia.org/wiki/Category:月球背景作品 "wikilink")
-[Category:23世紀背景作品](https://zh.wikipedia.org/wiki/Category:23世紀背景作品 "wikilink")
-[Category:月球題材電視節目](https://zh.wikipedia.org/wiki/Category:月球題材電視節目 "wikilink")
-[Category:流行文化中的美洲原住民](https://zh.wikipedia.org/wiki/Category:流行文化中的美洲原住民 "wikilink")
+[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink") [Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink") [Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink") [Category:月球背景作品](https://zh.wikipedia.org/wiki/Category:月球背景作品 "wikilink") [Category:23世紀背景作品](https://zh.wikipedia.org/wiki/Category:23世紀背景作品 "wikilink") [Category:月球題材電視節目](https://zh.wikipedia.org/wiki/Category:月球題材電視節目 "wikilink") [Category:流行文化中的美洲原住民](https://zh.wikipedia.org/wiki/Category:流行文化中的美洲原住民 "wikilink")

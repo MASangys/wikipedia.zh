@@ -1,5 +1,4 @@
-***Brand New Eyes***
-是美国[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[帕拉莫尔发行的第三张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，本专辑于2009年9月29日在美国和加拿大发行。
+***Brand New Eyes*** 是美国[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[帕拉莫尔发行的第三张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，本专辑于2009年9月29日在美国和加拿大发行。
 
 ## 曲目列表
 
@@ -55,22 +54,15 @@
 
 ## 参与成员
 
-  - [Hayley
-    Williams](https://zh.wikipedia.org/wiki/Hayley_Williams "wikilink")
-    – 主唱
-  - [Josh Farro](https://zh.wikipedia.org/wiki/Josh_Farro "wikilink") –
-    主音吉他手,伴唱
-  - [Taylor York](https://zh.wikipedia.org/wiki/Taylor_York "wikilink")
-    – 主音吉他手,键盘,木琴
-  - [Jeremy
-    Davis](https://zh.wikipedia.org/wiki/Jeremy_Davis "wikilink") – 贝斯手
-  - [Zac Farro](https://zh.wikipedia.org/wiki/Zac_Farro "wikilink") –
-    鼓手,打击乐器
+  - [Hayley Williams](https://zh.wikipedia.org/wiki/Hayley_Williams "wikilink") – 主唱
+  - [Josh Farro](https://zh.wikipedia.org/wiki/Josh_Farro "wikilink") – 主音吉他手,伴唱
+  - [Taylor York](https://zh.wikipedia.org/wiki/Taylor_York "wikilink") – 主音吉他手,键盘,木琴
+  - [Jeremy Davis](https://zh.wikipedia.org/wiki/Jeremy_Davis "wikilink") – 贝斯手
+  - [Zac Farro](https://zh.wikipedia.org/wiki/Zac_Farro "wikilink") – 鼓手,打击乐器
 
 ## 参考资料
 
-[Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink")
-[Category:帕拉莫尔音乐专辑](https://zh.wikipedia.org/wiki/Category:帕拉莫尔音乐专辑 "wikilink")
+[Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink") [Category:帕拉莫尔音乐专辑](https://zh.wikipedia.org/wiki/Category:帕拉莫尔音乐专辑 "wikilink")
 
 1.
 

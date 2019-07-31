@@ -1,9 +1,8 @@
-《**遊戲王R**》（R，Yu-Gi-Oh\!
-R）是由《[遊戲王](../Page/遊戲王.md "wikilink")》作者[高橋和希負責原案和監修](../Page/高橋和希.md "wikilink")，[伊藤彰所繪的](https://zh.wikipedia.org/wiki/伊藤彰 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。\[1\]在[日本](../Page/日本.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")[V-Jump上連載](https://zh.wikipedia.org/wiki/V-Jump "wikilink")，是於[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[遊戲王完結後所繪畫的衍生支線故事](../Page/遊戲王.md "wikilink")。標題內的「R」有「Reverse」之意，在這裡是指「將[本文沒有描寫的伏線Reverse](../Page/遊戲王.md "wikilink")」\[2\]。
+《**遊戲王R**》（R，Yu-Gi-Oh\! R）是由《[遊戲王](../Page/遊戲王.md "wikilink")》作者[高橋和希](../Page/高橋和希.md "wikilink")負責原案和監修，[伊藤彰所繪的](https://zh.wikipedia.org/wiki/伊藤彰 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。\[1\]在[日本](../Page/日本.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")[V-Jump上連載](https://zh.wikipedia.org/wiki/V-Jump "wikilink")，是於[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[遊戲王](../Page/遊戲王.md "wikilink")完結後所繪畫的衍生支線故事。標題內的「R」有「Reverse」之意，在這裡是指「將[本文沒有描寫的伏線Reverse](../Page/遊戲王.md "wikilink")」\[2\]。
 
 ## 故事
 
-故事發生時間在[武藤遊戲於決鬥城市戰勝](../Page/武藤遊戲.md "wikilink")[馬利克·伊修達爾後不久](https://zh.wikipedia.org/wiki/馬利克·伊修達爾 "wikilink")，王之記憶篇之前。
+故事發生時間在[武藤遊戲](../Page/武藤遊戲.md "wikilink")於決鬥城市戰勝[馬利克·伊修達爾後不久](https://zh.wikipedia.org/wiki/馬利克·伊修達爾 "wikilink")，王之記憶篇之前。
 
 某一日，貝卡斯·J·克羅佛多的養子兼[徒弟](https://zh.wikipedia.org/wiki/學生 "wikilink")[天馬夜行突然現身於武藤遊戲及其好友面前](https://zh.wikipedia.org/wiki/#原創角色 "wikilink")，並向遊戲提出挑戰，夜行在決鬥中召喚邪神·阿伯達將武藤遊戲的歐西里斯的天空龍擊敗，並告訴武藤遊戲其好友真崎杏子已被拐走，目前身處於由國際幻象社所操縱的[海馬集團](https://zh.wikipedia.org/wiki/#海馬集團 "wikilink")。為了營救杏子，武藤遊戲等人決定動身前往海馬集團。
 
@@ -28,8 +27,7 @@ R）是由《[遊戲王](../Page/遊戲王.md "wikilink")》作者[高橋和希�
 #### 決鬥盤系統
 
   -
-    能令放置在決鬥盤(Duel
-    Disk)內的[卡牌](../Page/遊戲王集換紙牌遊戲.md "wikilink")[立體化](https://zh.wikipedia.org/wiki/3D "wikilink")。
+    能令放置在決鬥盤(Duel Disk)內的[卡牌](../Page/遊戲王集換紙牌遊戲.md "wikilink")[立體化](https://zh.wikipedia.org/wiki/3D "wikilink")。
     該系統位於海馬集團的總公司內。
 
 ### 卡牌專家
@@ -54,17 +52,13 @@ R）是由《[遊戲王](../Page/遊戲王.md "wikilink")》作者[高橋和希�
 
 以下是於原作及本故事登場的人物。
 
-  - [武藤遊戲](../Page/武藤遊戲.md "wikilink") :
-    本故事的主人翁，同時是「三張神之卡」（「歐貝利斯克的巨神兵」、「歐西里斯的天空龍」及「太陽神的翼神龍」）的擁有者。
+  - [武藤遊戲](../Page/武藤遊戲.md "wikilink") : 本故事的主人翁，同時是「三張神之卡」（「歐貝利斯克的巨神兵」、「歐西里斯的天空龍」及「太陽神的翼神龍」）的擁有者。
     為了營救杏子而必須擊倒位於[海馬集團各層的](https://zh.wikipedia.org/wiki/#海馬集團 "wikilink")[卡牌專家](https://zh.wikipedia.org/wiki/#卡牌專家 "wikilink")。
 
-  - 真崎杏子 :
-    被天馬夜行拐走，以進行[R·A計劃](https://zh.wikipedia.org/wiki/#R·A計劃 "wikilink")。
-    [城之內克也](https://zh.wikipedia.org/wiki/城之內克也 "wikilink") :
-    與武藤游戏一同到海馬集團營救杏子，並和部分卡牌專家決鬥。
+  - 真崎杏子 : 被天馬夜行拐走，以進行[R·A計劃](https://zh.wikipedia.org/wiki/#R·A計劃 "wikilink")。
+    [城之內克也](https://zh.wikipedia.org/wiki/城之內克也 "wikilink") : 與武藤游戏一同到海馬集團營救杏子，並和部分卡牌專家決鬥。
     本田廣: 與武藤游戏及城之内一同到海馬集團營救杏子。
-    海馬瀨人 :
-    遊戲的宿敵。當他身處[美國時](https://zh.wikipedia.org/wiki/美國 "wikilink")，位於[日本總公司](../Page/日本.md "wikilink")[戰鬥環系統的被](https://zh.wikipedia.org/wiki/#戰鬥環系統 "wikilink")[天馬夜行操縱](https://zh.wikipedia.org/wiki/#原創角色 "wikilink")。
+    海馬瀨人 : 遊戲的宿敵。當他身處[美國時](https://zh.wikipedia.org/wiki/美國 "wikilink")，位於[日本](../Page/日本.md "wikilink")總公司[戰鬥環系統的被](https://zh.wikipedia.org/wiki/#戰鬥環系統 "wikilink")[天馬夜行操縱](https://zh.wikipedia.org/wiki/#原創角色 "wikilink")。
     因而返回日本了解情況。
 
   - 海馬木馬 : 海馬瀨人的弟弟，與哥哥一同返回日本。
@@ -89,58 +83,34 @@ R）是由《[遊戲王](../Page/遊戲王.md "wikilink")》作者[高橋和希�
 以下是武藤遊戲、城之內、海馬瀨人及天馬月行所遇到的卡牌專家們。
 
   - 迪舒尊·魯（，Deschutes Lew ）:第一位卡牌專家，被遊戲擊倒。
-    其名來自德舒特河（Deschutes
-    River）及[德舒特縣](https://zh.wikipedia.org/wiki/德舒特縣 "wikilink")（Deschutes
-    County, Oregon）。「Deschutes」同時是第二代[Pentium
-    II核心的代號](https://zh.wikipedia.org/wiki/奔騰II "wikilink")。
+    其名來自德舒特河（Deschutes River）及[德舒特縣](https://zh.wikipedia.org/wiki/德舒特縣 "wikilink")（Deschutes County, Oregon）。「Deschutes」同時是第二代[Pentium II核心的代號](https://zh.wikipedia.org/wiki/奔騰II "wikilink")。
   - 天娜·茉古（，Tilla Mook）:第二位卡牌專家，使用吸血鬼牌組。被遊戲擊敗。
-    其名來自德舒特河[蒂拉穆克縣](https://zh.wikipedia.org/wiki/提拉木克縣 "wikilink")（Tillamook,
-    Oregon）。「Tillamook」同時是[Pentium
-    MMX](https://zh.wikipedia.org/wiki/英特爾微處理器列表#Pentium_MMX "wikilink")
-    P55C的代號。
+    其名來自德舒特河[蒂拉穆克縣](https://zh.wikipedia.org/wiki/提拉木克縣 "wikilink")（Tillamook, Oregon）。「Tillamook」同時是[Pentium MMX](https://zh.wikipedia.org/wiki/英特爾微處理器列表#Pentium_MMX "wikilink") P55C的代號。
   - 古拉馬斯·柯士留（，Klamath Osler）:第三位卡牌專家。自稱擁有好運氣，但被城之内擊倒。
-    其名來自[克拉馬斯縣](../Page/克拉馬斯縣.md "wikilink")（Klamath County,
-    Oregon）。「Klamath」同時是第一代[Pentium
-    II核心的代號](https://zh.wikipedia.org/wiki/奔騰II "wikilink")。
+    其名來自[克拉馬斯縣](../Page/克拉馬斯縣.md "wikilink")（Klamath County, Oregon）。「Klamath」同時是第一代[Pentium II核心的代號](https://zh.wikipedia.org/wiki/奔騰II "wikilink")。
   - 寇克·狄克森（，Kirk Dixon）:第四位卡牌專家，使用機械族牌組。被武藤游戏擊敗。
-    其名「Dixon」是333 MHz 1.6V Intel[Pentium
-    II晶片的代號](https://zh.wikipedia.org/wiki/奔騰II "wikilink")。
-    其主力卡「督戰官角明頓（，Commander Covington）」起源於266 MHz P6 Intel [Pentium
-    II的晶片代號](https://zh.wikipedia.org/wiki/奔騰II "wikilink")「Covington」。
+    其名「Dixon」是333 MHz 1.6V Intel[Pentium II晶片的代號](https://zh.wikipedia.org/wiki/奔騰II "wikilink")。
+    其主力卡「督戰官角明頓（，Commander Covington）」起源於266 MHz P6 Intel [Pentium II的晶片代號](https://zh.wikipedia.org/wiki/奔騰II "wikilink")「Covington」。
   - 比杜·蓋巴買（，Pete Coppermine）:第五位卡牌專家，使用突變體牌組。被城之内擊敗。
-    其名來自科珀曼河（Coppermine
-    River），該河流名稱同時是[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")866
-    MHz 覆晶式針狀矩陣（Flip Chip Pin Grid Array，簡稱FCPGA）[Pentium
-    III](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")（P3-850）的代號。
-  - 舞子·加藤（，Maico Katou），又稱舞子女士（，Mrs.
-    Maico）:第六位卡牌專家，是一位坐輪椅上的長者。使用森林牌組，被遊戲擊倒。
-    其名「Maico」為[摩托車品牌之一](../Page/摩托車.md "wikilink")。由其姓及名所組成的「**K**at**m**ai」是[Pentium
-    III原先版本核心的代號](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")。
+    其名來自科珀曼河（Coppermine River），該河流名稱同時是[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")866 MHz 覆晶式針狀矩陣（Flip Chip Pin Grid Array，簡稱FCPGA）[Pentium III](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")（P3-850）的代號。
+  - 舞子·加藤（，Maico Katou），又稱舞子女士（，Mrs. Maico）:第六位卡牌專家，是一位坐輪椅上的長者。使用森林牌組，被遊戲擊倒。
+    其名「Maico」為[摩托車](../Page/摩托車.md "wikilink")品牌之一。由其姓及名所組成的「**K**at**m**ai」是[Pentium III原先版本核心的代號](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")。
   - 文度·司奴（，Mendo Cino）:第七位卡牌專家，使用昆蟲牌組。被城之内擊敗。
-    其名「Mendocino」是300 MHz P6 Intel [Pentium
-    II](https://zh.wikipedia.org/wiki/奔騰II "wikilink")
-    [Centrino晶片的代號](../Page/迅馳.md "wikilink")。
+    其名「Mendocino」是300 MHz P6 Intel [Pentium II](https://zh.wikipedia.org/wiki/奔騰II "wikilink") [Centrino晶片的代號](../Page/迅馳.md "wikilink")。
   - 韋拉·銘道（，Willa Mette）:第八位卡牌專家，使用白角龍牌組。被海馬擊敗。
-    其名「Willamette」同時是河流「Willamette River」及[Pentium
-    4首款產品的代號](https://zh.wikipedia.org/wiki/奔騰4 "wikilink")。
+    其名「Willamette」同時是河流「Willamette River」及[Pentium 4首款產品的代號](https://zh.wikipedia.org/wiki/奔騰4 "wikilink")。
   - 鐵度·巴尼亞斯（，Tedd Banias）:第九位卡牌專家，使用獸族牌組。與天馬月行決鬥，戰敗。
-    其名「Banias」是第一代[Pentium
-    M核心名稱](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
+    其名「Banias」是第一代[Pentium M核心名稱](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
   - 北森玲子（，Reiko Kitamori）: 第十位卡牌專家，使用棋類及破壞卡牌的組合牌組。被城之内擊倒。
-    其姓氏「北森」意指northwood ，「Northwood」是[Pentium
-    4](https://zh.wikipedia.org/wiki/奔騰4 "wikilink")
-    130nm版本的[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。
+    其姓氏「北森」意指northwood ，「Northwood」是[Pentium 4](https://zh.wikipedia.org/wiki/奔騰4 "wikilink") 130nm版本的[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。
   - 戴普瑞·史考（，Depre Scott）:第十一位卡牌專家，使用宇宙牌組。被武藤游戏擊敗。
-    「Prescott」是[Pentium
-    4第三版本核心的代號](https://zh.wikipedia.org/wiki/奔騰4#Prescott "wikilink")。
+    「Prescott」是[Pentium 4第三版本核心的代號](https://zh.wikipedia.org/wiki/奔騰4#Prescott "wikilink")。
   - 李奇·馬瑟（，Richie Merced）:第十二位卡牌專家，同時是柏伽索斯·J·古諾福特的養子之一。與天馬月行進行決鬥。
     Merced是第一代[Itanium的代號](https://zh.wikipedia.org/wiki/Itanium "wikilink")。
   - 西達·米爾（，Cedar Mill）:第十三位卡牌專家。被遊戲的歐西里斯的天空龍擊倒。
     其名字及草圖於漫畫單行本第四集公佈。
-    「Cedar
-    Mill」為[奔騰4最後一個版本的代號](https://zh.wikipedia.org/wiki/奔騰4 "wikilink")。
-    「Cedar
-    Mills」是位於[比弗頓的其中一個地方](https://zh.wikipedia.org/wiki/俄勒冈州#重要城鎮 "wikilink")。
+    「Cedar Mill」為[奔騰4最後一個版本的代號](https://zh.wikipedia.org/wiki/奔騰4 "wikilink")。
+    「Cedar Mills」是位於[比弗頓的其中一個地方](https://zh.wikipedia.org/wiki/俄勒冈州#重要城鎮 "wikilink")。
 
 #### 商店破壞者（Store Breaker）
 
@@ -148,8 +118,7 @@ R）是由《[遊戲王](../Page/遊戲王.md "wikilink")》作者[高橋和希�
 
   - 百野真澄（百野真澄，Masumi Momono）
     擁有複數的牌組，企圖拿走武藤雙六店內的神之卡。
-    其主力卡「圖拉丁（ ，Tualatin）」起源於1.266 GHz FCPGA2[Pentium
-    III](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")（P3-850）的[微處理器代號](https://zh.wikipedia.org/wiki/微處理器 "wikilink")「Tualatin」。
+    其主力卡「圖拉丁（ ，Tualatin）」起源於1.266 GHz FCPGA2[Pentium III](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")（P3-850）的[微處理器代號](https://zh.wikipedia.org/wiki/微處理器 "wikilink")「Tualatin」。
 
 ## 各話標題
 
@@ -462,14 +431,9 @@ R）是由《[遊戲王](../Page/遊戲王.md "wikilink")》作者[高橋和希�
 
   - [V-Jump官方網站](http://vjump.shueisha.co.jp/)
 
-[Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink")
-[Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink")
-[Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
+[Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink") [Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
 
-1.  [Yu-Gi-Oh\! R
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=8309)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+1.  [Yu-Gi-Oh\! R (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=8309)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 
 2.  漫畫單行本第一集 作者的話
 

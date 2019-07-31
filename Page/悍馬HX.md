@@ -1,9 +1,4 @@
-**悍馬HX (Hummer HX)**
-是一款[通用汽車生產的SUV概念車於](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")2008/1/8
-發表.\[1\]\[2\] 本車像是小型化的H2 和 H3悍馬並有3.6升SIDI
-[V6引擎可以使用](https://zh.wikipedia.org/wiki/V6 "wikilink")[E85酒精混合油](https://zh.wikipedia.org/wiki/E85 "wikilink").本車甚至比H3還要緊湊
-– 只有81 吋 (2,057 mm) 寬, 103吋軸距(2,616-mm)
-也定位為雙門敞篷越野車.所有設計都由新工作室的三名年輕設計師完成，所以評論家說外觀有明顯[Halo](https://zh.wikipedia.org/wiki/Halo "wikilink")(最後一戰)電玩遊戲的色彩.而且本質上通用也注意到了銷售量大幅下滑給日本車的一項因素，就是在現今世界高度城市密集化，大體積大馬力的美國式汽車思維在外銷市場逐漸落敗因為在擁擠的城市中馬力無用，反而靈活度和好停車以及低度維修符合城市生活步調。
+**悍馬HX (Hummer HX)** 是一款[通用汽車生產的SUV概念車於](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")2008/1/8 發表.\[1\]\[2\] 本車像是小型化的H2 和 H3悍馬並有3.6升SIDI [V6引擎可以使用](https://zh.wikipedia.org/wiki/V6 "wikilink")[E85酒精混合油](https://zh.wikipedia.org/wiki/E85 "wikilink").本車甚至比H3還要緊湊 – 只有81 吋 (2,057 mm) 寬, 103吋軸距(2,616-mm) 也定位為雙門敞篷越野車.所有設計都由新工作室的三名年輕設計師完成，所以評論家說外觀有明顯[Halo](https://zh.wikipedia.org/wiki/Halo "wikilink")(最後一戰)電玩遊戲的色彩.而且本質上通用也注意到了銷售量大幅下滑給日本車的一項因素，就是在現今世界高度城市密集化，大體積大馬力的美國式汽車思維在外銷市場逐漸落敗因為在擁擠的城市中馬力無用，反而靈活度和好停車以及低度維修符合城市生活步調。
 
 HX
 
@@ -16,63 +11,43 @@ HX
 
 ## 外觀
 
-本車是由三位通用工作室新銳年輕設計師設計.
-原本本車是作為他們的入會測驗；設計一款年輕人用的悍馬[HUMMER](https://zh.wikipedia.org/wiki/HUMMER "wikilink").
-HX是根據他們的手繪插圖當藍本, 後續再加入機械和生產工程師的修改. 不論內外HX的黏土模型都依照插圖1比1完成,
-並在6個月內完成所有紙上修改.
+本車是由三位通用工作室新銳年輕設計師設計. 原本本車是作為他們的入會測驗；設計一款年輕人用的悍馬[HUMMER](https://zh.wikipedia.org/wiki/HUMMER "wikilink"). HX是根據他們的手繪插圖當藍本, 後續再加入機械和生產工程師的修改. 不論內外HX的黏土模型都依照插圖1比1完成, 並在6個月內完成所有紙上修改.
 
 外觀上,輕重量的主題使本車車頂和車門、擋泥板都能拆掉, 車體能被一般使用者拆到只剩CNC車床加工的骨架.
 
-經典的悍馬設計風格本車也都具備, 例如小圓形車燈, 垂直的擋風玻璃, 極簡風裝飾, 扁長水箱罩和側面排氣口. 它的進氣口在 V-6 引擎下方,
-排氣口卻在上方側面–可以確保引入冷空氣而排出熱氣.
+經典的悍馬設計風格本車也都具備, 例如小圓形車燈, 垂直的擋風玻璃, 極簡風裝飾, 扁長水箱罩和側面排氣口. 它的進氣口在 V-6 引擎下方, 排氣口卻在上方側面–可以確保引入冷空氣而排出熱氣.
 
-尤其本車的小圓形車燈和刻有HUMMER水箱罩有濃烈悍馬風格,但是也都依照HX的 "圓角"主題做了變體 .
-同時也延伸到內裝中的大量圓形和半圓形視覺設計,
-從而創造一種前所未有的車體美學.
+尤其本車的小圓形車燈和刻有HUMMER水箱罩有濃烈悍馬風格,但是也都依照HX的 "圓角"主題做了變體 . 同時也延伸到內裝中的大量圓形和半圓形視覺設計, 從而創造一種前所未有的車體美學.
 
-主車燈採 [HID](https://zh.wikipedia.org/wiki/HID "wikilink")
-頭燈並且可以自動透鏡聚焦就像是[SLR相機一樣](https://zh.wikipedia.org/wiki/SLR "wikilink").
-前後方向燈則是[LED](https://zh.wikipedia.org/wiki/LED "wikilink").
+主車燈採 [HID](https://zh.wikipedia.org/wiki/HID "wikilink") 頭燈並且可以自動透鏡聚焦就像是[SLR相機一樣](https://zh.wikipedia.org/wiki/SLR "wikilink"). 前後方向燈則是[LED](https://zh.wikipedia.org/wiki/LED "wikilink").
 
 ## 內裝
 
 HUMMER HX 的內裝非常像飛機。
 
-整個儀表版以閃亮金屬包覆，中央有三個突出大型LCD顯示器可以串聯顯示或獨立顯示.
-所有開關或按鈕都以鋁合金製作.駕駛前方的主儀表板是一圓形突出的鋁合金框,
-中間有凹陷式圓形顯示錶; 整個儀表可以拆起來獨立.車室地板是橡膠鋪設，其他週邊內裝多半是尼龍製作.
+整個儀表版以閃亮金屬包覆，中央有三個突出大型LCD顯示器可以串聯顯示或獨立顯示. 所有開關或按鈕都以鋁合金製作.駕駛前方的主儀表板是一圓形突出的鋁合金框, 中間有凹陷式圓形顯示錶; 整個儀表可以拆起來獨立.車室地板是橡膠鋪設，其他週邊內裝多半是尼龍製作.
 
 ### 座位和儀表板
 
-HX 座椅是輕骨架筒型座椅,三點式安全帶. 材質以飛機用橡膠製成不受任何風吹雨打損害。後座可以完全躺下以獲得載貨空間.
-所有座椅都有賽車級四點式悍接底座.
+HX 座椅是輕骨架筒型座椅,三點式安全帶. 材質以飛機用橡膠製成不受任何風吹雨打損害。後座可以完全躺下以獲得載貨空間. 所有座椅都有賽車級四點式悍接底座.
 
 前座的中間有一個很寬的突起式儀表板. 上面有一個模仿飛機拉桿式的手煞車，上方有按鈕式發動鈕. 拉桿當汽車發動後會自動彈起.
 
-前方三大顯示器有包含多種軟體,
-可以連接MP3播放器、[iPod和](https://zh.wikipedia.org/wiki/iPod "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink").
-事實上HX根本沒有收音機只有喇叭,
-乘客必須用USB插入[iPod或其他類似裝置以當成音樂來源](https://zh.wikipedia.org/wiki/iPod "wikilink")，換言之本車設計者假設手持娛樂裝置是人人必備，所以與其在車上準備一套隨時會過時的音響不如準備USB插口就好.
+前方三大顯示器有包含多種軟體, 可以連接MP3播放器、[iPod和](https://zh.wikipedia.org/wiki/iPod "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink"). 事實上HX根本沒有收音機只有喇叭, 乘客必須用USB插入[iPod或其他類似裝置以當成音樂來源](https://zh.wikipedia.org/wiki/iPod "wikilink")，換言之本車設計者假設手持娛樂裝置是人人必備，所以與其在車上準備一套隨時會過時的音響不如準備USB插口就好.
 
 ### 電腦套件
 
 圓角風格從車外的外型一路延伸到內裝, 叢集式圓形儀表顯示器是最大特色和視覺焦點.
 
-三座叢集圓形顯示器頗有"箂艙"風格的掛在正中間–本概念是用[LCD](https://zh.wikipedia.org/wiki/LCD "wikilink")
-顯示器並聯達成的。可以顯示車子目前設定在公路模式或是越野模式,
-還有導航系統[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")
-和網路資訊; 還能預先載入旅行計畫路線. 中央三螢幕還有一個最大功能就是連結後視倒車攝影機.
+三座叢集圓形顯示器頗有"箂艙"風格的掛在正中間–本概念是用[LCD](https://zh.wikipedia.org/wiki/LCD "wikilink") 顯示器並聯達成的。可以顯示車子目前設定在公路模式或是越野模式, 還有導航系統[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink") 和網路資訊; 還能預先載入旅行計畫路線. 中央三螢幕還有一個最大功能就是連結後視倒車攝影機.
 
-駕駛座的儀表板則是顯示時速和轉速但並非一般車輛機械式的而是虛擬型態的圓形LCD顯示器；模擬得很像機械指針,
-然而還是能用顏色的變化顯示懸吊和傳動模式的切換.這種從公路模式轉成越野模式的能力提供更適切的駕駛手感.
+駕駛座的儀表板則是顯示時速和轉速但並非一般車輛機械式的而是虛擬型態的圓形LCD顯示器；模擬得很像機械指針, 然而還是能用顏色的變化顯示懸吊和傳動模式的切換.這種從公路模式轉成越野模式的能力提供更適切的駕駛手感.
 
 ## 懸吊
 
 HX 採用其他悍馬車一樣的骨架設計,前後輪都是外掛上車體的獨立懸吊.
 
-本車採用[E85](https://zh.wikipedia.org/wiki/E85 "wikilink")
-[酒精汽油的](https://zh.wikipedia.org/wiki/酒精汽油 "wikilink") 3.6L
-SIDI V-6引擎和六段自排. 四輪傳動4WD 系統可以達到低速爬行能力的越野需求. 四輪碟煞則是提供強大的煞車力.
+本車採用[E85](https://zh.wikipedia.org/wiki/E85 "wikilink") [酒精汽油的](https://zh.wikipedia.org/wiki/酒精汽油 "wikilink") 3.6L SIDI V-6引擎和六段自排. 四輪傳動4WD 系統可以達到低速爬行能力的越野需求. 四輪碟煞則是提供強大的煞車力.
 
 ## 細節規格
 
@@ -125,10 +100,7 @@ SIDI V-6引擎和六段自排. 四輪傳動4WD 系統可以達到低速爬行能
   - [汽車線上專題報導](http://www.auto-online.com.tw/news/87-12859)
   - [時尚品 專題報導](http://www.haibao.cn/article/56477.htm)
 
-[Category:悍馬汽車車輛](https://zh.wikipedia.org/wiki/Category:悍馬汽車車輛 "wikilink")
-[Category:概念车](https://zh.wikipedia.org/wiki/Category:概念车 "wikilink")
-[Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink")
-[Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
+[Category:悍馬汽車車輛](https://zh.wikipedia.org/wiki/Category:悍馬汽車車輛 "wikilink") [Category:概念车](https://zh.wikipedia.org/wiki/Category:概念车 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
 
 1.
 2.

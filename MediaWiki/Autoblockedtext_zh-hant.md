@@ -1,5 +1,4 @@
-__NOEDITSECTION____NOTOC__ \<div id="mw-autoblocked-text
-style="border:1px solid \#000; width:100%; margin:auto;"\>
+__NOEDITSECTION____NOTOC__ \<div id="mw-autoblocked-text style="border:1px solid \#000; width:100%; margin:auto;"\>
 
 <div style="text-align:right;">
 
@@ -70,9 +69,8 @@ $2
 
 ### 詢問網絡服務供應商
 
-倘受此問題屢次影響，則建議聯絡網絡服務供應商（ISP）或IT部門，由其聯系[維基媒體基金會](https://zh.wikipedia.org/wiki/維基媒體基金會 "wikilink")[XFF
-project](https://zh.wikipedia.org/wiki/m:XFF_project "wikilink")，以免再受自動查封影響。
+倘受此問題屢次影響，則建議聯絡網絡服務供應商（ISP）或IT部門，由其聯系[維基媒體基金會](https://zh.wikipedia.org/wiki/維基媒體基金會 "wikilink")[XFF project](https://zh.wikipedia.org/wiki/m:XFF_project "wikilink")，以免再受自動查封影響。
 
 ## IPv6
 
-若您正在使用由[SixXS](https://zh.wikipedia.org/wiki/SixXS "wikilink")（[Sixxs.org](http://www.sixxs.net/)）提供之[IPv6隧道瀏覽維基百科](../Page/IPv6.md "wikilink")，請[登入後再行編輯](https://zh.wikipedia.org/wiki/Special:UserLogin "wikilink")。由於SixXS會在您編輯的同時，自動為頁面內的網站連結加上「\*.sixxs.org/」後綴，而此舉會導致[IPv4使用者無法正常訪問網站](../Page/IPv4.md "wikilink")。所以請務必於儲存條目前去除「\*.sixxs.org/」，敬請垂注。
+若您正在使用由[SixXS](https://zh.wikipedia.org/wiki/SixXS "wikilink")（[Sixxs.org](http://www.sixxs.net/)）提供之[IPv6](../Page/IPv6.md "wikilink")隧道瀏覽維基百科，請[登入後再行編輯](https://zh.wikipedia.org/wiki/Special:UserLogin "wikilink")。由於SixXS會在您編輯的同時，自動為頁面內的網站連結加上「\*.sixxs.org/」後綴，而此舉會導致[IPv4](../Page/IPv4.md "wikilink")使用者無法正常訪問網站。所以請務必於儲存條目前去除「\*.sixxs.org/」，敬請垂注。

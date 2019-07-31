@@ -1,8 +1,6 @@
-《**流星戰隊Musumet**》（）為日本2004年10月至12月播放的[獨立UHF電視台](https://zh.wikipedia.org/wiki/獨立UHF電視台 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全13話。原作為《[Megami
-MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》自2004年1月號起連載的讀者參加企劃「**Musumet
-RGB**」。
+《**流星戰隊Musumet**》（）為日本2004年10月至12月播放的[獨立UHF電視台](https://zh.wikipedia.org/wiki/獨立UHF電視台 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全13話。原作為《[Megami MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》自2004年1月號起連載的讀者參加企劃「**Musumet RGB**」。
 
-本作是最後一部「萌系作品」。在本作結束後，該公司便從[萌系事業退出](../Page/萌.md "wikilink")。
+本作是最後一部「萌系作品」。在本作結束後，該公司便從[萌](../Page/萌.md "wikilink")系事業退出。
 
 ## 概要
 
@@ -12,10 +10,9 @@ RGB**」。
 
 ### Musumet
 
-　只要戴上內藏三色流星力量的頭盔強化配件就可變身，但變身的範圍只有手腳等末端部分。由於沒有緊身衣的關係，所以變身後會維持變身前的服裝（如[學生服等](../Page/水手服.md "wikilink")），具有強烈的[Cosplay要素](../Page/Cosplay.md "wikilink")。
+　只要戴上內藏三色流星力量的頭盔強化配件就可變身，但變身的範圍只有手腳等末端部分。由於沒有緊身衣的關係，所以變身後會維持變身前的服裝（如[學生服等](../Page/水手服.md "wikilink")），具有強烈的[Cosplay](../Page/Cosplay.md "wikilink")要素。
 
-強化系統「Musume
-Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而且也同時著裝緊身衣，取消了平時的Cosplay要素。
+強化系統「Musume Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而且也同時著裝緊身衣，取消了平時的Cosplay要素。
 
   -
     三色三姊妹的么女，擅長的運動是壘球。變身後為「Musume Red」
@@ -41,8 +38,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
   -
     早乙女三姊妹的么女，是中國人，但是在講的話最後常會加上｢～的啦」。變身後為「Otome Yellow」
 
-早乙女家握有雄厚的資產，操控著整個地球的食衣住行。
-還有，她們三人都是同父異母的姊妹，是她們的日本人父親分別和美國人、巴西人、中國人的母親生下的混血兒。
+早乙女家握有雄厚的資產，操控著整個地球的食衣住行。 還有，她們三人都是同父異母的姊妹，是她們的日本人父親分別和美國人、巴西人、中國人的母親生下的混血兒。
 
   - 靈感來自[印刷三原色的](https://zh.wikipedia.org/wiki/顏色 "wikilink")[青](https://zh.wikipedia.org/wiki/青 "wikilink")、[洋紅](https://zh.wikipedia.org/wiki/品紅色 "wikilink")、[黃](https://zh.wikipedia.org/wiki/黃 "wikilink")。
 
@@ -77,9 +73,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
   - 音響監督：[高橋秀雄](https://zh.wikipedia.org/wiki/高橋秀雄 "wikilink")
   - 執行製作人：[加藤長輝](https://zh.wikipedia.org/wiki/加藤長輝 "wikilink")
   - 動畫製作：[TNK](../Page/TNK.md "wikilink")
-  - 製作：「Musumet」製作委員會（[TWOMAX](https://zh.wikipedia.org/wiki/TWOMAX "wikilink")、Prime
-    Direction、[Ponycanyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、Ponycanyon
-    Enterprise）
+  - 製作：「Musumet」製作委員會（[TWOMAX](https://zh.wikipedia.org/wiki/TWOMAX "wikilink")、Prime Direction、[Ponycanyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、Ponycanyon Enterprise）
 
 ## 主題歌
 
@@ -112,7 +106,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 <!-- end list -->
 
   -
-    作詞、作曲：桃井晴子、編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")、歌：[SD☆Children](https://zh.wikipedia.org/wiki/SD☆Children "wikilink")（由松來未祐、[金田朋子組成的團體](../Page/金田朋子.md "wikilink")）
+    作詞、作曲：桃井晴子、編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")、歌：[SD☆Children](https://zh.wikipedia.org/wiki/SD☆Children "wikilink")（由松來未祐、[金田朋子](../Page/金田朋子.md "wikilink")組成的團體）
 
 ## 各話標題
 
@@ -255,8 +249,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 ## 相關節目
 
   - 看光光☆Musumet（）
-      - 於[Animete
-        TV上發布的](https://zh.wikipedia.org/wiki/Animete_TV "wikilink")[網路電視節目](https://zh.wikipedia.org/wiki/網路電視 "wikilink")。
+      - 於[Animete TV上發布的](https://zh.wikipedia.org/wiki/Animete_TV "wikilink")[網路電視節目](https://zh.wikipedia.org/wiki/網路電視 "wikilink")。
       - 發布期間：2004年10月～2005年3月
       - 主演：松本彩乃、大澤千秋、川瀨晶子、井上奈奈
 
@@ -269,10 +262,8 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 ## 外部連結
 
   - [官方網站](http://www.wonderfarm.co.jp/musume/)
-  - [流星戰隊Musumet
-    情報](https://web.archive.org/web/20081024112924/http://www.e-tnk.net/anime/anime_musumetto.html)
-  - [流星戰隊Musumet
-    各話製作群](https://web.archive.org/web/20090227030146/http://www1.vecceed.ne.jp/~m-satomi/MUSUMETT.sub1.html)
+  - [流星戰隊Musumet 情報](https://web.archive.org/web/20081024112924/http://www.e-tnk.net/anime/anime_musumetto.html)
+  - [流星戰隊Musumet 各話製作群](https://web.archive.org/web/20090227030146/http://www1.vecceed.ne.jp/~m-satomi/MUSUMETT.sub1.html)
   - [原始官方網站（已於2005年4月關閉）](http://web.archive.org/*/www.musumet.jp/)
 
 ## <font size=small> 備註 </font>
@@ -283,10 +274,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 
 </div>
 
-[Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Megami_MAGAZINE](https://zh.wikipedia.org/wiki/Category:Megami_MAGAZINE "wikilink")
-[Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink")
+[Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Megami_MAGAZINE](https://zh.wikipedia.org/wiki/Category:Megami_MAGAZINE "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink")
 
 1.  劇本上標記為「****」
 2.  劇本上標記為「****」

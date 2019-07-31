@@ -1,5 +1,4 @@
-《**ENSEMBLE**》（ENSEMBLE ～舞降る羽のアンサンブル～）是2004年1月30日由[F\&C
-FC03發售的](../Page/F&C.md "wikilink")[十八禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。\[1\]
+《**ENSEMBLE**》（ENSEMBLE ～舞降る羽のアンサンブル～）是2004年1月30日由[F\&C FC03發售的](../Page/F&C.md "wikilink")[十八禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。\[1\]
 
 預約購買者在一些店鋪還得到作為特典的[Windows XP對應版](../Page/Windows_XP.md "wikilink")《》。
 
@@ -36,14 +35,12 @@ FC03發售的](../Page/F&C.md "wikilink")[十八禁](../Page/日本成人遊戲.
 
   - 劇本：素浪人、G巳無月、
   - 原畫：
-  - 音樂：[DOORS MUSIC
-    ENTERTAINMENT](https://zh.wikipedia.org/wiki/DOORS_MUSIC_ENTERTAINMENT "wikilink")
+  - 音樂：[DOORS MUSIC ENTERTAINMENT](https://zh.wikipedia.org/wiki/DOORS_MUSIC_ENTERTAINMENT "wikilink")
 
 ## 主題曲
 
   - 片頭曲：「****」
-    作詞：HAJIMEX，作曲：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")，歌：[Honey
-    Bee](https://zh.wikipedia.org/wiki/Honey_Bee "wikilink")
+    作詞：HAJIMEX，作曲：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")，歌：[Honey Bee](https://zh.wikipedia.org/wiki/Honey_Bee "wikilink")
   - 片尾曲：「****」
     作詞、作曲：吉田文，歌：Mayumi
 
@@ -54,9 +51,6 @@ FC03發售的](../Page/F&C.md "wikilink")[十八禁](../Page/日本成人遊戲.
   - [F\&C](http://fandc.co.jp)
   - [官方網站](http://www.dreamsoft.jp/ensemble/)
 
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:F\&C游戏](https://zh.wikipedia.org/wiki/Category:F&C游戏 "wikilink")
+[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:F\&C游戏](https://zh.wikipedia.org/wiki/Category:F&C游戏 "wikilink")
 
 1.

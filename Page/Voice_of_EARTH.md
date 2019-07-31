@@ -1,5 +1,4 @@
-**''Voice of
-Earth**''（地球之声）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")发行的首张[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，其中包括了alan自2007年11月21日出道以来发行过的8张单曲集合，和全新创作的六首歌曲。专辑的封面**alan**的双眸倒映着[地球](../Page/地球.md "wikilink")的影像，暗合了本专辑以“[地球](../Page/地球.md "wikilink")”为主题的初衷。
+**''Voice of Earth**''（地球之声）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")发行的首张[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，其中包括了alan自2007年11月21日出道以来发行过的8张单曲集合，和全新创作的六首歌曲。专辑的封面**alan**的双眸倒映着[地球](../Page/地球.md "wikilink")的影像，暗合了本专辑以“[地球](../Page/地球.md "wikilink")”为主题的初衷。
 
 ## 概况
 
@@ -7,8 +6,7 @@ Earth**''（地球之声）是[中国](https://zh.wikipedia.org/wiki/中国 "wik
 
 **Liberty**做为[日本](../Page/日本.md "wikilink")[THK的电视剧](https://zh.wikipedia.org/wiki/THK "wikilink")《》的[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")；
 
-**Together**是 alan 首次尝试创作的原创[歌曲](../Page/歌曲.md "wikilink")，该曲同其 [Music
-Video仅收录于专辑的初回限定盘中](https://zh.wikipedia.org/wiki/Music_Video "wikilink")；
+**Together**是 alan 首次尝试创作的原创[歌曲](../Page/歌曲.md "wikilink")，该曲同其 [Music Video仅收录于专辑的初回限定盘中](https://zh.wikipedia.org/wiki/Music_Video "wikilink")；
 
 另外凡购买专辑的特典盘还将附送一张单独的[CD](../Page/CD.md "wikilink")，是《》。
 
@@ -51,8 +49,7 @@ Video仅收录于专辑的初回限定盘中](https://zh.wikipedia.org/wiki/Musi
 4.  （怀念的未来～longing future～）
 
       - 作词：[大貫妙子](../Page/大貫妙子.md "wikilink")　作曲：菊池一仁　编曲：中野雄太
-      - [NHK电视台的](https://zh.wikipedia.org/wiki/NHK电视台 "wikilink")《NHK地球エコ2008
-        SAVE THE FUTURE》节目的主题曲
+      - [NHK电视台的](https://zh.wikipedia.org/wiki/NHK电视台 "wikilink")《NHK地球エコ2008 SAVE THE FUTURE》节目的主题曲
 
 5.  （同心）
 
@@ -128,9 +125,7 @@ Video仅收录于专辑的初回限定盘中](https://zh.wikipedia.org/wiki/Musi
 
 <references/>
 
-[Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink")
-[Category:Alan音樂專輯](https://zh.wikipedia.org/wiki/Category:Alan音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
+[Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink") [Category:Alan音樂專輯](https://zh.wikipedia.org/wiki/Category:Alan音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.  专辑周榜 **2009/07/06**附，出榜4周后重新回榜
 2.  专辑周榜 **2009/09/14**附，出榜10周后重新回榜

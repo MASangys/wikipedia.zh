@@ -79,9 +79,7 @@ SPAS-15的概念和SPAS-12相反，目前只會給各個執法和軍事機構使
 
   -   - [特種部隊](../Page/特種部隊.md "wikilink")單位
 
-值得一提的是，意大利憲兵團「Tuscania」和[GIS這兩個單位亦都採購了](https://zh.wikipedia.org/wiki/特別行動小組 "wikilink")[伯奈利M4
-Super
-90半自動霰彈槍以取代原來的SPAS](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")-15，這可被視為對於SPAS-15感到「不滿意」。雖然可拆式[彈匣](../Page/彈匣.md "wikilink")和[管式彈倉相比可以快速更換](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，但由於本身的體積太大，令機動性受到損害。
+值得一提的是，意大利憲兵團「Tuscania」和[GIS這兩個單位亦都採購了](https://zh.wikipedia.org/wiki/特別行動小組 "wikilink")[伯奈利M4 Super 90半自動霰彈槍以取代原來的SPAS](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")-15，這可被視為對於SPAS-15感到「不滿意」。雖然可拆式[彈匣](../Page/彈匣.md "wikilink")和[管式彈倉相比可以快速更換](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，但由於本身的體積太大，令機動性受到損害。
 
 ### 美國的法律地位
 
@@ -101,35 +99,23 @@ SPAS-15同時出現在多個[电影](../Page/电影.md "wikilink")、[電視劇�
 
 ### 电影
 
-  - 1991年—《[-{zh-hans:终结者2：审判日; zh-hk:未來戰士續集;
-    zh-tw:魔鬼終結者第2集;}-](../Page/终结者2：审判日.md "wikilink")》：被人類反抗軍士兵所使用。
-  - 1998年—《[-{zh-hans:冷血悍将; zh-cn:浪人; zh-hk:浪人;
-    zh-tw:冷血悍將;}-](../Page/冷血悍將_\(電影\).md "wikilink")》：被法國特警隊隊員所使用。
+  - 1991年—《[-{zh-hans:终结者2：审判日; zh-hk:未來戰士續集; zh-tw:魔鬼終結者第2集;}-](../Page/终结者2：审判日.md "wikilink")》：被人類反抗軍士兵所使用。
+  - 1998年—《[-{zh-hans:冷血悍将; zh-cn:浪人; zh-hk:浪人; zh-tw:冷血悍將;}-](../Page/冷血悍將_\(電影\).md "wikilink")》：被法國特警隊隊員所使用。
   - 1998年—《[酷斯拉](https://zh.wikipedia.org/wiki/酷斯拉_\(電影\) "wikilink")》：被美軍士兵所使用。
 
 ### 電視劇
 
-  - 1997年—《[-{zh-tw:星際奇兵：SG-1; zh-hk:星際之門：SG-1;
-    zh-hans:星际之门：SG-1;}-](../Page/星際之門：SG-1.md "wikilink")》：傑克·奧尼爾（O'Neill，[李察·狄恩·安德森](../Page/李察·狄恩·安德森.md "wikilink")飾演）所使用。
+  - 1997年—《[-{zh-tw:星際奇兵：SG-1; zh-hk:星際之門：SG-1; zh-hans:星际之门：SG-1;}-](../Page/星際之門：SG-1.md "wikilink")》：傑克·奧尼爾（O'Neill，[李察·狄恩·安德森](../Page/李察·狄恩·安德森.md "wikilink")飾演）所使用。
 
 ### 電子遊戲
 
   - 2002年—《[全球行动](https://zh.wikipedia.org/wiki/全球行动 "wikilink")》：命名為「SPAS15」，6+1发弹匣，半自动射击，花费1675可购买，均可在重机枪手和爆破兵的副主武器页面可购买使用。
-  - 2004年—《[吸血鬼之避世血族](https://zh.wikipedia.org/wiki/吸血鬼之避世血族 "wikilink")》：命名為「Jaegerspas
-    XV」。
+  - 2004年—《[吸血鬼之避世血族](https://zh.wikipedia.org/wiki/吸血鬼之避世血族 "wikilink")》：命名為「Jaegerspas XV」。
   - 2008年—《[AVA Online](../Page/戰地之王.md "wikilink")》
-  - 2008年—《[-{zh-cn:战地：叛逆连队;
-    zh-tw:戰地風雲：惡名昭彰;}-](../Page/战地：叛逆连队.md "wikilink")》：命名為「SPAS15」，半自動射擊。
-  - 2012年—《[戰爭前線](https://zh.wikipedia.org/wiki/戰爭前線 "wikilink")》（Warface）：命名為“SPAS-15”，泵動射擊，使用6发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，為醫療兵專用武器，POINT限時/K點永久購買可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、霰弹枪消音器、[霰弹枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[霰弹枪刺刀](../Page/刺刀.md "wikilink")）以及瞄准镜（[EoTech
-    553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、[Aimpoint
-    Comp
-    M4S瞄准镜](https://zh.wikipedia.org/wiki/Aimpoint_Comp_M4红点镜 "wikilink")、Mojji
-    Zero红点瞄准镜）。
+  - 2008年—《[-{zh-cn:战地：叛逆连队; zh-tw:戰地風雲：惡名昭彰;}-](../Page/战地：叛逆连队.md "wikilink")》：命名為「SPAS15」，半自動射擊。
+  - 2012年—《[戰爭前線](https://zh.wikipedia.org/wiki/戰爭前線 "wikilink")》（Warface）：命名為“SPAS-15”，泵動射擊，使用6发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，為醫療兵專用武器，POINT限時/K點永久購買可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、霰弹枪消音器、[霰弹枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[霰弹枪刺刀](../Page/刺刀.md "wikilink")）以及瞄准镜（[EoTech 553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、[Aimpoint Comp M4S瞄准镜](https://zh.wikipedia.org/wiki/Aimpoint_Comp_M4红点镜 "wikilink")、Mojji Zero红点瞄准镜）。
       - 目前中國大陸伺服器尚未實裝。
-  - 2016年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow six :
-    siege）：命名為“SPAS-15”，泵動射擊，使用7发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，為2016年8月2日DLC「骷髏雨行動（operation
-    skull
-    rain)」中新增的巴西[特別警察行動營](../Page/特別警察行動營.md "wikilink")幹員「Caveira」所使用的主武器之一。
+  - 2016年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow six : siege）：命名為“SPAS-15”，泵動射擊，使用7发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，為2016年8月2日DLC「骷髏雨行動（operation skull rain)」中新增的巴西[特別警察行動營](../Page/特別警察行動營.md "wikilink")幹員「Caveira」所使用的主武器之一。
 
 ## 參見
 
@@ -154,54 +140,37 @@ SPAS-15同時出現在多個[电影](../Page/电影.md "wikilink")、[電視劇�
 
   - —[Franchi Homepage in English](http://www.franchiusa.com/)
 
-  - —[Franchi SPAS-15 at Phoenix
-    Command](https://web.archive.org/web/20090207080607/http://phoenixcommand.com/Spas15.htm)
+  - —[Franchi SPAS-15 at Phoenix Command](https://web.archive.org/web/20090207080607/http://phoenixcommand.com/Spas15.htm)
 
-  - —[Modern Firearms—Franchi
-    SPAS-15](http://world.guns.ru/shotgun/it/franchi-spas-15-e.html)
+  - —[Modern Firearms—Franchi SPAS-15](http://world.guns.ru/shotgun/it/franchi-spas-15-e.html)
 
-  - —[Security Arms—Franchi
-    SPAS 15](http://www.securityarms.com/20010315/galleryfiles/1100/1161.htm)
+  - —[Security Arms—Franchi SPAS 15](http://www.securityarms.com/20010315/galleryfiles/1100/1161.htm)
 
-  - —[The Firearm Blog.com—Franchi
-    SPAS-15“ANACONDA”](http://www.thefirearmblog.com/blog/2013/02/05/franchi-spas-15-anaconda/)
+  - —[The Firearm Blog.com—Franchi SPAS-15“ANACONDA”](http://www.thefirearmblog.com/blog/2013/02/05/franchi-spas-15-anaconda/)
 
   - —Tactical-Life.com—
 
-      - [SPEC-OPS
-        SPAS-15](http://www.tactical-life.com/online/tactical-weapons/spec-ops-spas-15/)
-      - [8 ‘Guns of the Elite’ From SPECIAL
-        WEAPONS 2015](http://www.tactical-life.com/military-and-police/guns-of-the-foreign-elite-2015/#portugal-swja15-franchi)
+      - [SPEC-OPS SPAS-15](http://www.tactical-life.com/online/tactical-weapons/spec-ops-spas-15/)
+      - [8 ‘Guns of the Elite’ From SPECIAL WEAPONS 2015](http://www.tactical-life.com/military-and-police/guns-of-the-foreign-elite-2015/#portugal-swja15-franchi)
 
-  - —[weaponsystems.net—Franchi
-    SPAS-15](http://weaponsystems.net/weaponsystem/AA03%20-%20SPAS-15.html)
+  - —[weaponsystems.net—Franchi SPAS-15](http://weaponsystems.net/weaponsystem/AA03%20-%20SPAS-15.html)
 
-  - —[Military, Security and Civilian Guns and Equipment—Franchi
-    SPAS-15](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=78)
+  - —[Military, Security and Civilian Guns and Equipment—Franchi SPAS-15](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=78)
 
-  - —[Энциклопедия Вооружений－Франчи СПАС 15 (Franchi
-    SPAS 15)](http://gunsite.narod.ru/franchi_spas15.htm)
+  - —[Энциклопедия Вооружений－Франчи СПАС 15 (Franchi SPAS 15)](http://gunsite.narod.ru/franchi_spas15.htm)
 
-  - —[D Boy Gun
-    World（槍炮世界）—SPAS-15多功能霰弹枪](http://firearmsworld.net/italy/franchi/spas15/spas15.htm)
+  - —[D Boy Gun World（槍炮世界）—SPAS-15多功能霰弹枪](http://firearmsworld.net/italy/franchi/spas15/spas15.htm)
 
   - —[defenseonline.com.cn—意大利弗兰基SPAS15式12号军用霰弹枪](https://web.archive.org/web/20141213163632/http://www.defenseonline.com.cn/weapon/qwq/mfq/mfq00043.htm)
 
-  - —[Civilian Gunner—Franchi
-    SPAS15](http://www.wargamehk.com/SPAS15.htm)
+  - —[Civilian Gunner—Franchi SPAS15](http://www.wargamehk.com/SPAS15.htm)
 
-[Category:泵动式霰彈槍](https://zh.wikipedia.org/wiki/Category:泵动式霰彈槍 "wikilink")
-[Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink")
-[Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink")
-[Category:非致命性槍械](https://zh.wikipedia.org/wiki/Category:非致命性槍械 "wikilink")
+[Category:泵动式霰彈槍](https://zh.wikipedia.org/wiki/Category:泵动式霰彈槍 "wikilink") [Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink") [Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink") [Category:非致命性槍械](https://zh.wikipedia.org/wiki/Category:非致命性槍械 "wikilink")
 
 1.
 2.  <http://www.youtube.com/watch?v=1VEykPjHWp8&feature=related>
 3.  <http://www.isayeret.com/content/weapons/shotguns/overview.shtml>
 4.
 5.  <HTTP://www.exercito.pt/meios/Documents/media_MeiosOp/Armamento/ESP%20CAÇ%20SEMI-AUT%20FRANCHI-SPAS.pdf>
-
 6.  <http://militaryworld.wordpress.com/2009/10/03/specijalna-brigada-vojske-srbije/>
-7.  [List of Restricted and Prohibited
-    Firearms](http://www.cfc-cafc.gc.ca/factsheets/r&p_e.asp), Canadian
-    Firearms Centre (CFC)
+7.  [List of Restricted and Prohibited Firearms](http://www.cfc-cafc.gc.ca/factsheets/r&p_e.asp), Canadian Firearms Centre (CFC)

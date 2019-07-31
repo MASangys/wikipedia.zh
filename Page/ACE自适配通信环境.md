@@ -1,16 +1,10 @@
-**Adaptive Communication
-Environment**，簡稱**[ACE](../Page/ACE.md "wikilink")**。為一個以[C++](../Page/C++.md "wikilink")的Template技術所做成的[开放源代码](../Page/开放源代码.md "wikilink")的可跨平台的網路應用程式的程式庫套件。
+**Adaptive Communication Environment**，簡稱**[ACE](../Page/ACE.md "wikilink")**。為一個以[C++](../Page/C++.md "wikilink")的Template技術所做成的[开放源代码](../Page/开放源代码.md "wikilink")的可跨平台的網路應用程式的程式庫套件。
 
 ## 簡介
 
   - ACE介绍：
 
-ACE自适配通信环境（ADAPTIVE Communication
-Environment）是可以自由使用、开放源码的面向对象（OO）框架（Framework），在其中实现了许多用于并发通信软件的核心模式。ACE提供了一组丰富的可复用C++
-Wrapper
-Facade（包装外观）和框架组件，可跨越多种平台完成通用的通信软件任务，其中包括：事件多路分离和事件处理器分派、信号处理、服务初始化、进程间通信、共享内存管理、消息路由、分布式服务动态（重）配置、并发执行和同步，等等。
-ACE的目标用户是高性能和实时通信服务和应用的开发者。它简化了使用进程间通信、事件多路分离、显式动态链接和并发的OO网络应用和服务的开发。此外，通过服务在运行时与应用的动态链接，ACE还使系统的配置和重配置得以自动化。
-ACE正在进行持续的改进。目前发行的稳定版本是6.0
+ACE自适配通信环境（ADAPTIVE Communication Environment）是可以自由使用、开放源码的面向对象（OO）框架（Framework），在其中实现了许多用于并发通信软件的核心模式。ACE提供了一组丰富的可复用C++ Wrapper Facade（包装外观）和框架组件，可跨越多种平台完成通用的通信软件任务，其中包括：事件多路分离和事件处理器分派、信号处理、服务初始化、进程间通信、共享内存管理、消息路由、分布式服务动态（重）配置、并发执行和同步，等等。 ACE的目标用户是高性能和实时通信服务和应用的开发者。它简化了使用进程间通信、事件多路分离、显式动态链接和并发的OO网络应用和服务的开发。此外，通过服务在运行时与应用的动态链接，ACE还使系统的配置和重配置得以自动化。 ACE正在进行持续的改进。目前发行的稳定版本是6.0
 
   - **使用ACE的好处有：**
 
@@ -39,8 +33,7 @@ ACE正在进行持续的改进。目前发行的稳定版本是6.0
 
 <!-- end list -->
 
-  - [The ADAPTIVE Communication Environment
-    (ACE)](https://web.archive.org/web/20090118112312/http://www.cse.wustl.edu/~schmidt/ACE.html)
+  - [The ADAPTIVE Communication Environment (ACE)](https://web.archive.org/web/20090118112312/http://www.cse.wustl.edu/~schmidt/ACE.html)
 
 <!-- end list -->
 
@@ -56,9 +49,7 @@ ACE正在进行持续的改进。目前发行的稳定版本是6.0
 
 <!-- end list -->
 
-  - [Downloading Freely Available Versions of ACE, TAO, and
-    CIAO](http://download.dre.vanderbilt.edu/)
+  - [Downloading Freely Available Versions of ACE, TAO, and CIAO](http://download.dre.vanderbilt.edu/)
   - [ACE+TAO RPM Packages](http://dist.bonsai.com/ken/ace_tao_rpm/)
 
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:C++_Template_Library](https://zh.wikipedia.org/wiki/Category:C++_Template_Library "wikilink")
+[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:C++_Template_Library](https://zh.wikipedia.org/wiki/Category:C++_Template_Library "wikilink")

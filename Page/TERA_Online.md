@@ -1,13 +1,10 @@
-《**TERA**》（又译「**神谕之战**」）是一款由韓國[蓝洞工作室開發的](https://zh.wikipedia.org/wiki/蓝洞工作室 "wikilink")[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人在線角色扮演遊戲 "wikilink")（MMORPG），由[NHN
-Games發行](https://zh.wikipedia.org/wiki/NHN_Games "wikilink")，最初於2009年8月22日在韓國進行[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")。遊戲名稱源自於[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")。
+《**TERA**》（又译「**神谕之战**」）是一款由韓國[蓝洞工作室開發的](https://zh.wikipedia.org/wiki/蓝洞工作室 "wikilink")[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人在線角色扮演遊戲 "wikilink")（MMORPG），由[NHN Games發行](https://zh.wikipedia.org/wiki/NHN_Games "wikilink")，最初於2009年8月22日在韓國進行[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")。遊戲名稱源自於[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")。
 
 ## 玩法
 
 遊戲最大特色在於「非鎖定目標」（Non-Targeting）攻擊，不同於現在的線上遊戲是先決定攻擊的目標再發動攻擊的模式，研發團隊希望藉此讓玩家體驗戰鬥的最大真實感。
 
-而「7 大種族、13
-大職業」為另一遊戲特色，共計可搭配出多種截然不同的男女性別角色。無論是我行我素的「卡斯塔尼克」（男、女）、溫順憨厚的「波波利」（限男）、可愛萌人的蘿莉「艾琳」（限女）、無堅不摧的「亞曼」（男、女）、深思熟慮的「巴拉卡」（限男）、高傲自大的「高等精靈」（男、女）、滿腹雄心壯志的「人類」（男、女）等7大特殊種族，還是劍鬥士、槍騎士、狂戰士、屠殺者、弓箭手、魔導士、祭司、元素使、飛劍士、魔工師、魔拳師、忍者、月光武士
-等 13 大多元化職業，任玩家自由搭配選擇，創造出獨具個人風格的角色。
+而「7 大種族、13 大職業」為另一遊戲特色，共計可搭配出多種截然不同的男女性別角色。無論是我行我素的「卡斯塔尼克」（男、女）、溫順憨厚的「波波利」（限男）、可愛萌人的蘿莉「艾琳」（限女）、無堅不摧的「亞曼」（男、女）、深思熟慮的「巴拉卡」（限男）、高傲自大的「高等精靈」（男、女）、滿腹雄心壯志的「人類」（男、女）等7大特殊種族，還是劍鬥士、槍騎士、狂戰士、屠殺者、弓箭手、魔導士、祭司、元素使、飛劍士、魔工師、魔拳師、忍者、月光武士 等 13 大多元化職業，任玩家自由搭配選擇，創造出獨具個人風格的角色。
 
 ## 种族职业
 
@@ -15,8 +12,7 @@ Games發行](https://zh.wikipedia.org/wiki/NHN_Games "wikilink")，最初於2009
 
 ## 歷史
 
-  - 2007年，[NCsoft](../Page/NCsoft.md "wikilink")《[天堂3](https://zh.wikipedia.org/wiki/天堂3 "wikilink")》開發團隊在離開NCsoft之後，加入新遊戲公司Bluehole，展開新遊戲計畫《Project
-    S1》\[1\]。
+  - 2007年，[NCsoft](../Page/NCsoft.md "wikilink")《[天堂3](https://zh.wikipedia.org/wiki/天堂3 "wikilink")》開發團隊在離開NCsoft之後，加入新遊戲公司Bluehole，展開新遊戲計畫《Project S1》\[1\]。
   - 2009年1月22日，《Project S1》正式命名為《TERA：The Exiled Realm of Arborea》\[2\]。
   - 2009年8月22日，在韓國展開為期兩天的[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")。
   - 2011年1月11日，在韓國展開[公開測試](https://zh.wikipedia.org/wiki/公開測試 "wikilink")。
@@ -46,8 +42,7 @@ Games發行](https://zh.wikipedia.org/wiki/NHN_Games "wikilink")，最初於2009
 
 ## 爭議
 
-《TERA》研發團隊原為[NCsoft](../Page/NCsoft.md "wikilink")的《[天堂3](https://zh.wikipedia.org/wiki/天堂3 "wikilink")》研發團隊，在研發團隊離開NCsoft加入新遊戲公司[Bluehole並展開新遊戲計畫](https://zh.wikipedia.org/wiki/Bluehole "wikilink")《Project
-S1》，在遊戲曝光後，被NCsoft指稱遊戲研發技術與相關資料，與《天堂3》非常類似，因此提出[訴訟](../Page/訴訟.md "wikilink")。
+《TERA》研發團隊原為[NCsoft](../Page/NCsoft.md "wikilink")的《[天堂3](https://zh.wikipedia.org/wiki/天堂3 "wikilink")》研發團隊，在研發團隊離開NCsoft加入新遊戲公司[Bluehole並展開新遊戲計畫](https://zh.wikipedia.org/wiki/Bluehole "wikilink")《Project S1》，在遊戲曝光後，被NCsoft指稱遊戲研發技術與相關資料，與《天堂3》非常類似，因此提出[訴訟](../Page/訴訟.md "wikilink")。
 
 ## 參照
 
@@ -65,16 +60,8 @@ S1》，在遊戲曝光後，被NCsoft指稱遊戲研發技術與相關資料，
 
   - [中国大陆官方网站](https://web.archive.org/web/20140808043546/http://tera.kunlun.com/index.html)
 
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
-[Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink")
+[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink")
 
 1.  [NCsoft針對《天堂3》前開發成員疑似洩漏資料提出65億韓幣賠償訴訟](http://gnn.gamer.com.tw/8/31858.html)
-2.  [《天堂 3》原團隊開發《Project S1》正式命名《TERA》
-    今夏封測登場](http://gnn.gamer.com.tw/8/31858.html)
+2.  [《天堂 3》原團隊開發《Project S1》正式命名《TERA》 今夏封測登場](http://gnn.gamer.com.tw/8/31858.html)
 3.  [《TERA》停止运营公告](http://tera.klyou.com/2016/notice_0615/3098.html)

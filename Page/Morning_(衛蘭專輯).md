@@ -1,5 +1,4 @@
-《**Morning**》為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")第五張個人大碟，亦是她第一張英文大碟，於2009年7月3日推出\[1\]\[2\]\[3\]。全碟歌詞由A
-Music新人[李治廷](../Page/李治廷.md "wikilink")（Aarif）一手包辦，大碟推出後一星期已達白金銷量。
+《**Morning**》為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")第五張個人大碟，亦是她第一張英文大碟，於2009年7月3日推出\[1\]\[2\]\[3\]。全碟歌詞由A Music新人[李治廷](../Page/李治廷.md "wikilink")（Aarif）一手包辦，大碟推出後一星期已達白金銷量。
 
 ## 收錄歌曲
 
@@ -40,14 +39,10 @@ Music新人[李治廷](../Page/李治廷.md "wikilink")（Aarif）一手包辦�
 ## 外部链接
 
   - [衛蘭-Morning](https://web.archive.org/web/20110820142654/http://hk.music.yahoo.com/album-album.html?albumid=31913)
-  - [HMV 衛蘭 JANICE -
-    MORNING](http://www.hmv.com.hk/ch/product/canto.asp?sku=626278)
+  - [HMV 衛蘭 JANICE - MORNING](http://www.hmv.com.hk/ch/product/canto.asp?sku=626278)
   - [新浪-衛蘭《Morning》新碟專訪(I)](https://web.archive.org/web/20160305035820/http://tv.sina.com.hk/cgi-bin/nw/show.cgi?id=c8110e59d86dc1a8)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink")
 
 1.
 2.

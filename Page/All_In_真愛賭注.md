@@ -1,5 +1,4 @@
-《**All In
-真愛賭注**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2003年1月15日起播放的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")。
+《**All In 真愛賭注**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2003年1月15日起播放的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")。
 
 ## 劇情介紹
 
@@ -77,12 +76,12 @@
 
 ## 其他搭配歌曲
 
-  - 台灣[八大戲劇台版本](../Page/八大戲劇台.md "wikilink")
+  - 台灣[八大戲劇台](../Page/八大戲劇台.md "wikilink")版本
       - 片尾曲：[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")《簡簡單單》
 
 <!-- end list -->
 
-  - 台灣[華視主頻版本](../Page/華視主頻.md "wikilink")
+  - 台灣[華視主頻](../Page/華視主頻.md "wikilink")版本
       - 片頭曲：[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")《如果不愛你》
       - 片尾曲：[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")《忘了哭》
 
@@ -96,13 +95,6 @@
 
   - [韓國SBS官方網站](http://tv.sbs.co.kr/allin/)
   - [香港亞洲電視官方網站](https://web.archive.org/web/20071111114132/http://www.hkatv.com/drama/allin/)
-
   - [臺灣八大電視官方網站](https://web.archive.org/web/20090401211405/http://www.gtv.com.tw/Program/B051420030623U/)
 
-
-[Category:2003年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2003年韓國電視劇集 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2003年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2003年韓國電視劇集 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")

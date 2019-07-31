@@ -12,8 +12,7 @@
 
 <!-- end list -->
 
-  - 加地大己（かじ だいき）- [瑛太](../Page/瑛太.md "wikilink")（小學 -
-    [加藤清史郎](../Page/加藤清史郎.md "wikilink")）（粤语配音：[陳健豪](../Page/陳健豪.md "wikilink")、小學：[莎拉](../Page/莎拉.md "wikilink")）
+  - 加地大己（かじ だいき）- [瑛太](../Page/瑛太.md "wikilink")（小學 - [加藤清史郎](../Page/加藤清史郎.md "wikilink")）（粤语配音：[陳健豪](../Page/陳健豪.md "wikilink")、小學：[莎拉](../Page/莎拉.md "wikilink")）
 
 <!-- end list -->
 
@@ -22,8 +21,7 @@
 
 <!-- end list -->
 
-  - 石末亮介（いしまつ りょうすけ）-
-    [生田斗真](../Page/生田斗真.md "wikilink")（粤语配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+  - 石末亮介（いしまつ りょうすけ）- [生田斗真](../Page/生田斗真.md "wikilink")（粤语配音：[李凱傑](../Page/李凱傑.md "wikilink")）
 
 <!-- end list -->
 
@@ -32,8 +30,7 @@
 
 <!-- end list -->
 
-  - 久保秋佳奈子（くぼあき かなこ）- [石原聰美](../Page/石原聰美.md "wikilink")（小學 -
-    [山田夏海](https://zh.wikipedia.org/wiki/山田夏海 "wikilink")）（粤语配音：[王夢華](../Page/王夢華.md "wikilink")）
+  - 久保秋佳奈子（くぼあき かなこ）- [石原聰美](../Page/石原聰美.md "wikilink")（小學 - [山田夏海](https://zh.wikipedia.org/wiki/山田夏海 "wikilink")）（粤语配音：[王夢華](../Page/王夢華.md "wikilink")）
 
 <!-- end list -->
 
@@ -95,8 +92,7 @@
 
 <!-- end list -->
 
-  - 石末貴之（いしまつ たかゆき）-
-    [名高達男](https://zh.wikipedia.org/wiki/名高達男 "wikilink")
+  - 石末貴之（いしまつ たかゆき）- [名高達男](https://zh.wikipedia.org/wiki/名高達男 "wikilink")
 
 <!-- end list -->
 
@@ -105,8 +101,7 @@
 
 <!-- end list -->
 
-  - 堀井奈津美-
-    [佐藤里香第一](https://zh.wikipedia.org/wiki/佐藤里香 "wikilink")、二、五、六章
+  - 堀井奈津美- [佐藤里香第一](https://zh.wikipedia.org/wiki/佐藤里香 "wikilink")、二、五、六章
 
 <!-- end list -->
 
@@ -119,8 +114,7 @@
 
 <!-- end list -->
 
-  - 大和田 敏（おおわだ びん）-
-    [山崎樹範](https://zh.wikipedia.org/wiki/山崎樹範 "wikilink")
+  - 大和田 敏（おおわだ びん）- [山崎樹範](https://zh.wikipedia.org/wiki/山崎樹範 "wikilink")
 
 <!-- end list -->
 
@@ -149,8 +143,7 @@
 <!-- end list -->
 
   - 從大樓屋頂跳下的少年 - [小柴亮太](https://zh.wikipedia.org/wiki/小柴亮太 "wikilink")
-  - 東凛大学脳神経外科学教授 -
-    [佐々木勝彥](https://zh.wikipedia.org/wiki/佐々木勝彥 "wikilink")
+  - 東凛大学脳神経外科学教授 - [佐々木勝彥](https://zh.wikipedia.org/wiki/佐々木勝彥 "wikilink")
   - 大和電機的社長 - [野添義弘](https://zh.wikipedia.org/wiki/野添義弘 "wikilink")
   - 市原良平☆ - [モロ師岡](https://zh.wikipedia.org/wiki/モロ師岡 "wikilink")
   - 河鍋秀子 - [美保純](https://zh.wikipedia.org/wiki/美保純 "wikilink")
@@ -201,8 +194,7 @@
 
   - 山倉醫大的學生 - [西崎彩](https://zh.wikipedia.org/wiki/西崎彩 "wikilink")
   - 新田先生 - [築出静夫](https://zh.wikipedia.org/wiki/築出静夫 "wikilink")
-  - 五十嵐富士夫☆ -
-    [田中圭](../Page/田中圭.md "wikilink")(少年期:[林凌雅](https://zh.wikipedia.org/wiki/林凌雅 "wikilink"))
+  - 五十嵐富士夫☆ - [田中圭](../Page/田中圭.md "wikilink")(少年期:[林凌雅](https://zh.wikipedia.org/wiki/林凌雅 "wikilink"))
 
 <!-- end list -->
 
@@ -268,8 +260,7 @@
 <!-- end list -->
 
   - 「日式中華料理」店長 - [剛州](https://zh.wikipedia.org/wiki/剛州 "wikilink")
-  - 「日式中華料理」店員 -
-    [吉田ウーロン太](https://zh.wikipedia.org/wiki/吉田ウーロン太 "wikilink")
+  - 「日式中華料理」店員 - [吉田ウーロン太](https://zh.wikipedia.org/wiki/吉田ウーロン太 "wikilink")
 
 <!-- end list -->
 
@@ -345,11 +336,9 @@
 
 <!-- end list -->
 
-  - 今成卓見☆ -
-    [平田滿](https://zh.wikipedia.org/wiki/平田滿 "wikilink")（回想：[野村泰仁](https://zh.wikipedia.org/wiki/野村泰仁 "wikilink")）
+  - 今成卓見☆ - [平田滿](https://zh.wikipedia.org/wiki/平田滿 "wikilink")（回想：[野村泰仁](https://zh.wikipedia.org/wiki/野村泰仁 "wikilink")）
   - 矢野 - [田中實](../Page/田中實_\(演員\).md "wikilink")
-  - 三島 -
-    [志賀廣太郎](https://zh.wikipedia.org/wiki/志賀廣太郎 "wikilink")（回想：[杉原貴幸](https://zh.wikipedia.org/wiki/杉原貴幸 "wikilink")）
+  - 三島 - [志賀廣太郎](https://zh.wikipedia.org/wiki/志賀廣太郎 "wikilink")（回想：[杉原貴幸](https://zh.wikipedia.org/wiki/杉原貴幸 "wikilink")）
   - 面試官 - [藤田三三三](https://zh.wikipedia.org/wiki/藤田三三三 "wikilink")
   - 高木公一 - [山田明郷](https://zh.wikipedia.org/wiki/山田明郷 "wikilink")
   - 警察 - [山崎直樹](https://zh.wikipedia.org/wiki/山崎直樹 "wikilink")
@@ -562,19 +551,11 @@
 
   - [官方網站](https://web.archive.org/web/20081230132619/http://wwwz.fujitv.co.jp/voice/index.html)
 
-
 ## 註釋
 
 ## 作品的變遷
 
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink")
+[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:法醫學題材電視劇](https://zh.wikipedia.org/wiki/Category:法醫學題材電視劇 "wikilink")
 
 1.  為日本關東地區，由[Video Research社調查](../Page/Video_Research.md "wikilink")。
 2.  朝日電視台在該時段播放[第二屆世界棒球經典賽預賽](../Page/2009年世界棒球經典賽.md "wikilink")，收視率為33.6%。2月23日和3月2日在相同時段的收視率分別為17.6%和15.2%。

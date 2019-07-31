@@ -1,7 +1,4 @@
-《Have a Nice Day》是[Lamb Production
-Limited製作的健康資訊節目](../Page/博美娛樂.md "wikilink")，2008年12月14日首播，逢週日晚上十時正在[now香港台播出](https://zh.wikipedia.org/wiki/now香港台 "wikilink")，2010年12月26日結束，主持人為[BMA唱片公司董事總經理兼節目製作公司Lamb](../Page/博美娛樂.md "wikilink")
-Production
-Limited老闆之一[林珊珊](../Page/林珊珊.md "wikilink")，監製為[智者創意策劃創辦人](https://zh.wikipedia.org/wiki/智者創意策劃 "wikilink")[鄭丹瑞](../Page/鄭丹瑞.md "wikilink")。
+《Have a Nice Day》是[Lamb Production Limited製作的健康資訊節目](../Page/博美娛樂.md "wikilink")，2008年12月14日首播，逢週日晚上十時正在[now香港台播出](https://zh.wikipedia.org/wiki/now香港台 "wikilink")，2010年12月26日結束，主持人為[BMA唱片公司董事總經理兼節目製作公司Lamb](../Page/博美娛樂.md "wikilink") Production Limited老闆之一[林珊珊](../Page/林珊珊.md "wikilink")，監製為[智者創意策劃創辦人](https://zh.wikipedia.org/wiki/智者創意策劃 "wikilink")[鄭丹瑞](../Page/鄭丹瑞.md "wikilink")。
 
 ## 每集嘉賓
 
@@ -123,15 +120,13 @@ Limited老闆之一[林珊珊](../Page/林珊珊.md "wikilink")，監製為[智�
 
   - [now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")
   - [now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")
-  - [Home Sweet
-    Home](https://zh.wikipedia.org/wiki/Home_Sweet_Home "wikilink")
+  - [Home Sweet Home](https://zh.wikipedia.org/wiki/Home_Sweet_Home "wikilink")
 
 <references />
 
 ## 外部連結
 
-  - [Have a Nice Day -
-    now香港台官方網站](https://web.archive.org/web/20100226064539/http://nowhk.now-tv.com/nowHK/shows/?l=cn&showID=45)
+  - [Have a Nice Day - now香港台官方網站](https://web.archive.org/web/20100226064539/http://nowhk.now-tv.com/nowHK/shows/?l=cn&showID=45)
   - <http://www.facebook.com/HaveANiceDay100>
 
 [Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink")

@@ -1,6 +1,4 @@
-《**Golden
-Eyes**》是2007年的新人[Freeze](../Page/Freeze.md "wikilink")的首張[EP](https://zh.wikipedia.org/wiki/Extended_Play "wikilink")（細碟）。在[專輯中寫的出版日期是](../Page/音樂專輯.md "wikilink")2007年11月20日，但實際她們是在2007年11月23日才推出《Golden
-Eyes》。在[專輯](../Page/音樂專輯.md "wikilink")[封面中](https://zh.wikipedia.org/wiki/封面 "wikilink")，她們擁有自己一貫的作風，三位都穿得很性感，[衣服和](https://zh.wikipedia.org/wiki/衣服 "wikilink")[背景都是](https://zh.wikipedia.org/wiki/背景 "wikilink")[金色的](https://zh.wikipedia.org/wiki/金色 "wikilink")，襯托專輯名稱。在[專輯中她們總共有六款形象](../Page/音樂專輯.md "wikilink")。她們這張[專輯推出三天後便已售罄](../Page/音樂專輯.md "wikilink")，需要加印第二版。
+《**Golden Eyes**》是2007年的新人[Freeze](../Page/Freeze.md "wikilink")的首張[EP](https://zh.wikipedia.org/wiki/Extended_Play "wikilink")（細碟）。在[專輯中寫的出版日期是](../Page/音樂專輯.md "wikilink")2007年11月20日，但實際她們是在2007年11月23日才推出《Golden Eyes》。在[專輯](../Page/音樂專輯.md "wikilink")[封面中](https://zh.wikipedia.org/wiki/封面 "wikilink")，她們擁有自己一貫的作風，三位都穿得很性感，[衣服和](https://zh.wikipedia.org/wiki/衣服 "wikilink")[背景都是](https://zh.wikipedia.org/wiki/背景 "wikilink")[金色的](https://zh.wikipedia.org/wiki/金色 "wikilink")，襯托專輯名稱。在[專輯中她們總共有六款形象](../Page/音樂專輯.md "wikilink")。她們這張[專輯推出三天後便已售罄](../Page/音樂專輯.md "wikilink")，需要加印第二版。
 
 整張[專輯由](../Page/音樂專輯.md "wikilink")[王雙駿](../Page/王雙駿.md "wikilink")和[伍樂城](../Page/伍樂城.md "wikilink")兩位音樂人一手包辦，並且附送2008年的座枱月曆。在[專輯](../Page/音樂專輯.md "wikilink")（月曆）中，她們三人都各自寫了一段感想，而且有她們兒時的照片。在[專輯中還夾著一張](../Page/音樂專輯.md "wikilink")[優惠券](https://zh.wikipedia.org/wiki/優惠券 "wikilink")。
 

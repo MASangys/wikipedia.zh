@@ -1,14 +1,4 @@
-**HY**（エイチワイ）是來自[日本](../Page/日本.md "wikilink")[沖繩縣](../Page/沖繩縣.md "wikilink")的樂隊，於2000年成立，共五位團員，其中男性四名，女性一名。團名由來為五位團員的出生地[沖繩縣](../Page/沖繩縣.md "wikilink")[宇流麻市](../Page/宇流麻市.md "wikilink")的与那城“東屋慶名”（，Higashi-Yakena），取第一個字母而成。主唱為一男一女，是樂團中少見之組合。
-因為高中時期的友誼延續，自2000年組成HY以來，多次參加北谷Street
-Live而擁有許多歌迷。2001年9月，第一張專輯《Departure》在沖繩限定發售，不一會兒就售完。2002年3月在沖繩的宜野灣海濱公園舉行初次的One
-Man
-Live，有超過2000名的歌迷參加。同年4月《Departure》在全國發售，一下子就受到大眾的關心。6月時參加在法國巴黎所舉辦的音樂節，夏季時更是在日本各地的Summer
-Festival中向全國證明了他們的實力。年末堅決地舉行了全國巡迴演唱會。2003年4月，第二張專輯《Street
-Story》一發行，就登上Oricon排行榜第一名，並創下地下樂團第一次連續四周獲得第一的成績。隔年第三張專輯《TRUNK》發行，又再次獲得第一名（地下樂團的首次）。2006年4月12日，他們帶著超越苦難的自信以及歌迷所給予的信賴，發行了第4張專輯《Confidence》，又再度的登上了Oricon排行榜連續2週第一名，這當然又是地下樂團的第一次。目前為止所舉行的One
-Man
-Live的門票完全都賣光。從2006年3月起所舉行的全都道府縣的巡迴TOUR，共動員了88000人。當然門票也都是當日賣完。同年12月，就像[琉球語](../Page/琉球語.md "wikilink")KUMAKARA
-AMAE（從這裡開始邁向未來）一樣，不論是[日本武道館](../Page/日本武道館.md "wikilink")、[大阪城](../Page/大阪城.md "wikilink")HALL的One
-Man Live也好，門票都立即售完。
+**HY**（エイチワイ）是來自[日本](../Page/日本.md "wikilink")[沖繩縣](../Page/沖繩縣.md "wikilink")的樂隊，於2000年成立，共五位團員，其中男性四名，女性一名。團名由來為五位團員的出生地[沖繩縣](../Page/沖繩縣.md "wikilink")[宇流麻市](../Page/宇流麻市.md "wikilink")的与那城“東屋慶名”（，Higashi-Yakena），取第一個字母而成。主唱為一男一女，是樂團中少見之組合。 因為高中時期的友誼延續，自2000年組成HY以來，多次參加北谷Street Live而擁有許多歌迷。2001年9月，第一張專輯《Departure》在沖繩限定發售，不一會兒就售完。2002年3月在沖繩的宜野灣海濱公園舉行初次的One Man Live，有超過2000名的歌迷參加。同年4月《Departure》在全國發售，一下子就受到大眾的關心。6月時參加在法國巴黎所舉辦的音樂節，夏季時更是在日本各地的Summer Festival中向全國證明了他們的實力。年末堅決地舉行了全國巡迴演唱會。2003年4月，第二張專輯《Street Story》一發行，就登上Oricon排行榜第一名，並創下地下樂團第一次連續四周獲得第一的成績。隔年第三張專輯《TRUNK》發行，又再次獲得第一名（地下樂團的首次）。2006年4月12日，他們帶著超越苦難的自信以及歌迷所給予的信賴，發行了第4張專輯《Confidence》，又再度的登上了Oricon排行榜連續2週第一名，這當然又是地下樂團的第一次。目前為止所舉行的One Man Live的門票完全都賣光。從2006年3月起所舉行的全都道府縣的巡迴TOUR，共動員了88000人。當然門票也都是當日賣完。同年12月，就像[琉球語](../Page/琉球語.md "wikilink")KUMAKARA AMAE（從這裡開始邁向未來）一樣，不論是[日本武道館](../Page/日本武道館.md "wikilink")、[大阪城](../Page/大阪城.md "wikilink")HALL的One Man Live也好，門票都立即售完。
 
 ## 團員
 
@@ -278,18 +268,15 @@ scene 〜ここから未来へ〜
 
 <!-- end list -->
 
-  - 名稱：**HY 2007 AMAKUMA A'CHA document TOUR ～from OKINAWA to the
-    WORLD～**
+  - 名稱：**HY 2007 AMAKUMA A'CHA document TOUR ～from OKINAWA to the WORLD～**
   - 發行日期：2007.06.27
 
 <!-- end list -->
 
-  - 名稱：**HY 2007 AMAKUMA A'CHA document TOUR ～from OKINAWA to the
-    WORLD～初回限定盤**
+  - 名稱：**HY 2007 AMAKUMA A'CHA document TOUR ～from OKINAWA to the WORLD～初回限定盤**
   - 發行日期：2007.06.27
 
-HY的第一部記錄DVD完成 內容集結了2007年春天時第一次的海外公演全記錄。
-從成田機場出發，加拿大、美國，第一次的海外巡回演出及歸國後所舉辦的全國巡回演唱會，全部過程一次收錄。
+HY的第一部記錄DVD完成 內容集結了2007年春天時第一次的海外公演全記錄。 從成田機場出發，加拿大、美國，第一次的海外巡回演出及歸國後所舉辦的全國巡回演唱會，全部過程一次收錄。
 
   - 名稱：**HY PACHINAI×5 MAGGY HAKODE TOUR '08 ＆“Nartyche**
   - 發行日期：2009.01.21
@@ -393,6 +380,4 @@ Disc 2
 
   - [HY官方網站](http://www.hymode.net/index.html)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink")
-[Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink") [Category:琉球族歌手](https://zh.wikipedia.org/wiki/Category:琉球族歌手 "wikilink")

@@ -1,9 +1,6 @@
-**Fritsch–Buttenberg–Wiechell重排反应**（Fritsch–Buttenberg–Wiechell
-rearrangement），以 Paul Ernst Moritz Fritsch (1859–1913), Wilhelm Paul
-Buttenberg, Heinrich G. Wiechell 的名字命名。
+**Fritsch–Buttenberg–Wiechell重排反应**（Fritsch–Buttenberg–Wiechell rearrangement），以 Paul Ernst Moritz Fritsch (1859–1913), Wilhelm Paul Buttenberg, Heinrich G. Wiechell 的名字命名。
 
-1,1-二[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")-2-[溴代](https://zh.wikipedia.org/wiki/溴代 "wikilink")[烯烃](../Page/烯烃.md "wikilink")在[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（如[醇盐](../Page/醇盐.md "wikilink")）作用下[重排为](https://zh.wikipedia.org/wiki/重排 "wikilink")1,2-二芳基[炔](https://zh.wikipedia.org/wiki/炔 "wikilink")。\[1\]\[2\]\[3\]
-\[4\]
+1,1-二[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")-2-[溴代](https://zh.wikipedia.org/wiki/溴代 "wikilink")[烯烃](../Page/烯烃.md "wikilink")在[强碱](https://zh.wikipedia.org/wiki/强碱 "wikilink")（如[醇盐](../Page/醇盐.md "wikilink")）作用下[重排为](https://zh.wikipedia.org/wiki/重排 "wikilink")1,2-二芳基[炔](https://zh.wikipedia.org/wiki/炔 "wikilink")。\[1\]\[2\]\[3\] \[4\]
 
 
 [Fritsch-Buttenberg-Wiechell_Rearrangement_Scheme.svg](https://zh.wikipedia.org/wiki/File:Fritsch-Buttenberg-Wiechell_Rearrangement_Scheme.svg "fig:Fritsch-Buttenberg-Wiechell_Rearrangement_Scheme.svg")
@@ -28,16 +25,11 @@ Buttenberg, Heinrich G. Wiechell 的名字命名。
 
 ## 参考资料
 
-[Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  *One-Pot Formation and Derivatization of Di- and Triynes Based on
-    the Fritsch-Buttenberg-Wiechell Rearrangement* Thanh Luu, Yasuhiro
-    Morisaki, Nina Cunningham, and Rik R. Tykwinski [J. Org.
-    Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink")
-    **2007**, 72, 9622-9629
+6.  *One-Pot Formation and Derivatization of Di- and Triynes Based on the Fritsch-Buttenberg-Wiechell Rearrangement* Thanh Luu, Yasuhiro Morisaki, Nina Cunningham, and Rik R. Tykwinski [J. Org. Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink") **2007**, 72, 9622-9629

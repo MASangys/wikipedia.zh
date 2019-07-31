@@ -1,5 +1,4 @@
-《**Depend on
-you**》（依你\[1\]）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第5張單曲，1998年12月9日於日本發行8cm版本。2001年2月28日再發行12cm版本。
+《**Depend on you**》（依你\[1\]）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第5張單曲，1998年12月9日於日本發行8cm版本。2001年2月28日再發行12cm版本。
 
 ## 收錄歌曲
 
@@ -37,9 +36,6 @@ you**》（依你\[1\]）是日本歌手[濱崎步](../Page/濱崎步.md "wikili
 
 </div>
 
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")
+[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")
 
-1.  中文譯名源自《[A
-    BEST](../Page/A_BEST.md "wikilink")》的廣告宣傳影片，但是台灣愛貝克思發行單曲的時候並沒有公布中文譯名。
+1.  中文譯名源自《[A BEST](../Page/A_BEST.md "wikilink")》的廣告宣傳影片，但是台灣愛貝克思發行單曲的時候並沒有公布中文譯名。

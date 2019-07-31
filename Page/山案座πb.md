@@ -1,5 +1,4 @@
-**山案座π星b**，也被称为**HD
-39091b**,是一颗位于[山案座](../Page/山案座.md "wikilink")、距离地球约59光年的系外行星，其母星为[黄次巨星](https://zh.wikipedia.org/wiki/黄次巨星 "wikilink")[山案座π](../Page/山案座π.md "wikilink")。科学家于2001年10月发现该行星。由于该行星较大的质量和较高的离心率，故其被归类为“离心超级木星”。
+**山案座π星b**，也被称为**HD 39091b**,是一颗位于[山案座](../Page/山案座.md "wikilink")、距离地球约59光年的系外行星，其母星为[黄次巨星](https://zh.wikipedia.org/wiki/黄次巨星 "wikilink")[山案座π](../Page/山案座π.md "wikilink")。科学家于2001年10月发现该行星。由于该行星较大的质量和较高的离心率，故其被归类为“离心超级木星”。
 
 ## 观测与发现
 
@@ -25,9 +24,6 @@
   -
   -
   -
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:山案座](https://zh.wikipedia.org/wiki/Category:山案座 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
-[Category:2001年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2001年发现的系外行星 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:山案座](https://zh.wikipedia.org/wiki/Category:山案座 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:2001年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2001年发现的系外行星 "wikilink")
 
 1.   ([web Preprint](http://xxx.lanl.gov/abs/astro-ph?papernum=0112084))

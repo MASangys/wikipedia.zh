@@ -1,14 +1,8 @@
-[GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg "fig:GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg")分区表的硬盘上\]\]
-[GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg "fig:GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg")分区表的硬盘上\]\]
-[GNU_GRUB_components.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_components.svg "fig:GNU_GRUB_components.svg")（0扇区）。如果可行（出于向后兼容的原因第一个分区起始于63扇区而非1扇区，但这不是强制的），`core.img`被写入介于MBR和第一分区之间的空扇区之中。`/boot/grub`目录可以放在单独的分区中，也可以放在根分区中。\]\]
+[GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg "fig:GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg")分区表的硬盘上\]\] [GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg "fig:GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg")分区表的硬盘上\]\] [GNU_GRUB_components.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_components.svg "fig:GNU_GRUB_components.svg")（0扇区）。如果可行（出于向后兼容的原因第一个分区起始于63扇区而非1扇区，但这不是强制的），`core.img`被写入介于MBR和第一分区之间的空扇区之中。`/boot/grub`目录可以放在单独的分区中，也可以放在根分区中。\]\]
 
-**GNU
-GRUB**（简称“GRUB”）是一个来自[GNU项目的](../Page/GNU計劃.md "wikilink")[启动引导程序](https://zh.wikipedia.org/wiki/启动引导程序 "wikilink")。GRUB是[多启动规范的实现](https://zh.wikipedia.org/wiki/多启动规范 "wikilink")，它允许用户可以在计算机内同时拥有多个操作系统，并在计算机启动时选择希望运行的操作系统。GRUB可用于选择操作系统分区上的不同[内核](../Page/内核.md "wikilink")，也可用于向这些内核传递启动参数。
+**GNU GRUB**（简称“GRUB”）是一个来自[GNU项目的](../Page/GNU計劃.md "wikilink")[启动引导程序](https://zh.wikipedia.org/wiki/启动引导程序 "wikilink")。GRUB是[多启动规范的实现](https://zh.wikipedia.org/wiki/多启动规范 "wikilink")，它允许用户可以在计算机内同时拥有多个操作系统，并在计算机启动时选择希望运行的操作系统。GRUB可用于选择操作系统分区上的不同[内核](../Page/内核.md "wikilink")，也可用于向这些内核传递启动参数。
 
-GNU GRUB的前身为**Grand Unified
-Bootloader**。它主要用于[类Unix系统](../Page/类Unix系统.md "wikilink")；同大多[Linux发行版](../Page/Linux发行版.md "wikilink")一样，[GNU](../Page/GNU.md "wikilink")系统也采用GNU
-GRUB作为它的启动器。[Solaris](../Page/Solaris.md "wikilink")从10
-1/06版开始在x86系统上也采用GNU GRUB作为启动器。
+GNU GRUB的前身为**Grand Unified Bootloader**。它主要用于[类Unix系统](../Page/类Unix系统.md "wikilink")；同大多[Linux发行版](../Page/Linux发行版.md "wikilink")一样，[GNU](../Page/GNU.md "wikilink")系统也采用GNU GRUB作为它的启动器。[Solaris](../Page/Solaris.md "wikilink")从10 1/06版开始在x86系统上也采用GNU GRUB作为启动器。
 
 ## 特性
 
@@ -28,11 +22,9 @@ GRUB采用滚动屏幕选择想要启动的操作系统。通过向"menu.lst"（
 
 通过链式启动，一个启动器可以启动另一个启动器。GRUB通过2到3行的命令就可以从[DOS](../Page/DOS.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")和[Solaris](../Page/Solaris.md "wikilink")系统启动。
 
-尽管GRUB为类Unix系统进行了编译和打包，但也有供DOS和Windows使用的变种[GRUB4DOS等](https://zh.wikipedia.org/wiki/GRUB4DOS "wikilink")。GRUB也可以不附带任何操作系统而作为孤立系统安装。从CD上启动时运用GRUB需要1个文件，而从软盘、硬盘和USB设备上启动时需要2个文件。这些文件可以在任何支援GRUB的Linux
-CD上找到，用户可以很容易的找到它们。
+尽管GRUB为类Unix系统进行了编译和打包，但也有供DOS和Windows使用的变种[GRUB4DOS等](https://zh.wikipedia.org/wiki/GRUB4DOS "wikilink")。GRUB也可以不附带任何操作系统而作为孤立系统安装。从CD上启动时运用GRUB需要1个文件，而从软盘、硬盘和USB设备上启动时需要2个文件。这些文件可以在任何支援GRUB的Linux CD上找到，用户可以很容易的找到它们。
 
-新的GRUB2（GRUB第二版）為GRUB的重寫版本，它是GRUB的大革新。GRUB2對[Linux](../Page/Linux.md "wikilink")系統做了更多的優化，支援更多的功能，如動態的載入模組（而在之前的GRUB中，新增或刪除模組要重新編譯GRUB）等。GRUB2的版本號為0.98或更高；舊的GRUB的版本號則為0.97或更低，也被稱為“GRUB
-Legacy”或“GRUB1”等。GRUB2的配置、命令等較GRUB Legacy有一定的不同。
+新的GRUB2（GRUB第二版）為GRUB的重寫版本，它是GRUB的大革新。GRUB2對[Linux](../Page/Linux.md "wikilink")系統做了更多的優化，支援更多的功能，如動態的載入模組（而在之前的GRUB中，新增或刪除模組要重新編譯GRUB）等。GRUB2的版本號為0.98或更高；舊的GRUB的版本號則為0.97或更低，也被稱為“GRUB Legacy”或“GRUB1”等。GRUB2的配置、命令等較GRUB Legacy有一定的不同。
 
 ## 启动过程
 
@@ -60,11 +52,7 @@ GRUB的一个重要的特性是安装它不需依附一个操作系统；但是�
 
 在Linux中，“grub-install”命令是用来把GRUB的步骤1安装到MBR或者分区中的。GRUB的配置文件、步骤2以及其它文件必须安装到某个可用的分区中。如果这些文件或者分区不可用，步骤1将把用户留在[命令行界面](../Page/命令行界面.md "wikilink")。
 
-GRUB配置文件的文件名和位置随系统的不同而不同；如在[Debian](../Page/Debian.md "wikilink")（GRUB
-Legacy）和[OpenSUSE](../Page/OpenSUSE.md "wikilink")中，这个文件为`/boot/grub/menu.lst`，而在[Fedora](../Page/Fedora.md "wikilink")和[Gentoo中为](https://zh.wikipedia.org/wiki/Gentoo "wikilink")`/boot/grub/grub.conf`。[Fedora](../Page/Fedora.md "wikilink")、[Gentoo
-Linux和](../Page/Gentoo_Linux.md "wikilink")[Debian](../Page/Debian.md "wikilink")（GRUB
-2）使用`/boot/grub/grub.conf`
-Fedora为了兼容[文件系统层次结构标准](../Page/文件系统层次结构标准.md "wikilink")提供了一个从`/etc/grub.conf`到`/boot/grub/grub.conf`的[符号链接](../Page/符号链接.md "wikilink")。
+GRUB配置文件的文件名和位置随系统的不同而不同；如在[Debian](../Page/Debian.md "wikilink")（GRUB Legacy）和[OpenSUSE](../Page/OpenSUSE.md "wikilink")中，这个文件为`/boot/grub/menu.lst`，而在[Fedora](../Page/Fedora.md "wikilink")和[Gentoo中为](https://zh.wikipedia.org/wiki/Gentoo "wikilink")`/boot/grub/grub.conf`。[Fedora](../Page/Fedora.md "wikilink")、[Gentoo Linux和](../Page/Gentoo_Linux.md "wikilink")[Debian](../Page/Debian.md "wikilink")（GRUB 2）使用`/boot/grub/grub.conf` Fedora为了兼容[文件系统层次结构标准](../Page/文件系统层次结构标准.md "wikilink")提供了一个从`/etc/grub.conf`到`/boot/grub/grub.conf`的[符号链接](../Page/符号链接.md "wikilink")。
 
 除了硬盘外，GRUB也可安装到[光盘](https://zh.wikipedia.org/wiki/光盘 "wikilink")、[软盘](../Page/软盘.md "wikilink")和[闪存盘](../Page/闪存盘.md "wikilink")等[移动介质中](https://zh.wikipedia.org/wiki/移动介质 "wikilink")，这样就可以啟動一台无法从硬盘启动的系统。
 
@@ -73,8 +61,7 @@ Fedora为了兼容[文件系统层次结构标准](../Page/文件系统层次结
   - [Das U-Boot](../Page/Das_U-Boot.md "wikilink")
   - [LILO](../Page/LILO.md "wikilink")
   - [NTLDR](../Page/NTLDR.md "wikilink")
-  - [Windows Boot
-    Manager](https://zh.wikipedia.org/wiki/Windows_Boot_Manager "wikilink")
+  - [Windows Boot Manager](https://zh.wikipedia.org/wiki/Windows_Boot_Manager "wikilink")
 
 ## 参考资料
 
@@ -86,6 +73,4 @@ Fedora为了兼容[文件系统层次结构标准](../Page/文件系统层次结
   - [GNU GRUB官方手册](http://www.gnu.org/software/grub/manual)
   - [GRUB 2中文指南](http://wiki.ubuntu-tw.org/index.php?title=GRUB_2_%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:引导程序](https://zh.wikipedia.org/wiki/Category:引导程序 "wikilink")
-[Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:引导程序](https://zh.wikipedia.org/wiki/Category:引导程序 "wikilink") [Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink")

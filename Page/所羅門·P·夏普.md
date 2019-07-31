@@ -8,8 +8,7 @@
 
 所罗门·夏普于1787年8月22日在[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")[华盛顿县的](https://zh.wikipedia.org/wiki/华盛顿县_\(弗吉尼亚州\) "wikilink")[阿宾登出生](../Page/阿宾登_\(弗吉尼亚州\).md "wikilink")\[2\]\[3\]，他的父亲托马斯·夏普（）是[美国革命战争老将](https://zh.wikipedia.org/wiki/美国独立战争 "wikilink")，曾参与[王山之战](https://zh.wikipedia.org/wiki/王山之战 "wikilink")；母亲吉恩·夏普（）是[苏格兰人](https://zh.wikipedia.org/wiki/苏格兰人 "wikilink")，[娘家姓叫麦克斯韦](../Page/女性人名.md "wikilink")（），所罗门是两人的第5个孩子，也是第3个儿子\[4\]\[5\]。此外，所罗门还是约克大主教[约翰·夏普](https://zh.wikipedia.org/wiki/约翰·夏普 "wikilink")（）的玄孙\[6\]。夏普一家曾短暂迁居[田纳西州](../Page/田纳西州.md "wikilink")[纳什维尔](../Page/纳什维尔.md "wikilink")附近，之后又搬到[北卡罗莱纳州](https://zh.wikipedia.org/wiki/北卡罗莱纳州 "wikilink")\[7\]，最终于1795年在肯塔基州[洛根县的](https://zh.wikipedia.org/wiki/洛根县_\(肯塔基州\) "wikilink")[拉塞尔维尔定居](https://zh.wikipedia.org/wiki/拉塞尔维尔_\(肯塔基州\) "wikilink")，一家人生活在[慕德河](https://zh.wikipedia.org/wiki/慕德河 "wikilink")（）附近的木屋里\[8\]\[9\]\[10\]\[11\]\[12\]。
 
-夏普童年时断断续续地在“洛根县一所学校”念书，当时该县只有基本的学校\[13\]。他攻读法律，于1806
-年获得[律师从业资格](https://zh.wikipedia.org/wiki/律师 "wikilink")\[14\]，然后在拉塞尔维尔开办律师事务所，但不久后就搬到[沃伦县](https://zh.wikipedia.org/wiki/沃伦县_\(肯塔基州\) "wikilink")[县城](https://zh.wikipedia.org/wiki/县城 "wikilink")[鲍灵格林](https://zh.wikipedia.org/wiki/鲍灵格林_\(肯塔基州\) "wikilink")，这里人口较多，1810年时就有154位居民，所以业务量也比较大\[15\]
+夏普童年时断断续续地在“洛根县一所学校”念书，当时该县只有基本的学校\[13\]。他攻读法律，于1806 年获得[律师从业资格](https://zh.wikipedia.org/wiki/律师 "wikilink")\[14\]，然后在拉塞尔维尔开办律师事务所，但不久后就搬到[沃伦县](https://zh.wikipedia.org/wiki/沃伦县_\(肯塔基州\) "wikilink")[县城](https://zh.wikipedia.org/wiki/县城 "wikilink")[鲍灵格林](https://zh.wikipedia.org/wiki/鲍灵格林_\(肯塔基州\) "wikilink")，这里人口较多，1810年时就有154位居民，所以业务量也比较大\[15\]
 
 ## 婚姻和家庭
 
@@ -31,8 +30,7 @@
 
 ### 生有私生子的指控
 
-[Anna_Cooke.jpg](https://zh.wikipedia.org/wiki/File:Anna_Cooke.jpg "fig:Anna_Cooke.jpg")
-1820年5月或6月，一位名叫安娜·库克（）、年纪约30岁出头的未婚女子声称，自己私生子的父亲正是夏普\[44\]\[45\]，后者否认这一说法\[46\]。有传言称这个[死产孩子的皮肤是黑色](https://zh.wikipedia.org/wiki/死产 "wikilink")，所以有人估计孩子是[穆拉托人](../Page/穆拉托人.md "wikilink")，父亲是黑人\[47\]。库克的父亲是弗吉尼亚州[费尔法克斯县的种植园主](https://zh.wikipedia.org/wiki/费尔法克斯县_\(弗吉尼亚州\) "wikilink")，家道随着他的去世而中落，库克于是在卖掉种植园后不得不与母亲以及兄弟姐妹在1805到1810年间的某一年搬迁到沃伦县，并且有可能在这里结识了夏普。库克连遭不幸，不但孩子夭折，而且她的5个兄弟中还有3个在1818到1821年间相继去世\[48\]。
+[Anna_Cooke.jpg](https://zh.wikipedia.org/wiki/File:Anna_Cooke.jpg "fig:Anna_Cooke.jpg") 1820年5月或6月，一位名叫安娜·库克（）、年纪约30岁出头的未婚女子声称，自己私生子的父亲正是夏普\[44\]\[45\]，后者否认这一说法\[46\]。有传言称这个[死产孩子的皮肤是黑色](https://zh.wikipedia.org/wiki/死产 "wikilink")，所以有人估计孩子是[穆拉托人](../Page/穆拉托人.md "wikilink")，父亲是黑人\[47\]。库克的父亲是弗吉尼亚州[费尔法克斯县的种植园主](https://zh.wikipedia.org/wiki/费尔法克斯县_\(弗吉尼亚州\) "wikilink")，家道随着他的去世而中落，库克于是在卖掉种植园后不得不与母亲以及兄弟姐妹在1805到1810年间的某一年搬迁到沃伦县，并且有可能在这里结识了夏普。库克连遭不幸，不但孩子夭折，而且她的5个兄弟中还有3个在1818到1821年间相继去世\[48\]。
 
 安娜思想开放，喜欢读爱情小说，而且作风放荡不羁，因此这一丑闻很快就失去了人们的注意，没有对夏普的声誉产生多大不利影响\[49\]。虽然夏普的政敌会在之后的竞选期间继续呼吁人们关注这个私生子的传闻，但他的名声总体而言没有因此事受损\[50\]。
 
@@ -81,16 +79,7 @@
   -
 [分類:律師出身的政治人物](https://zh.wikipedia.org/wiki/分類:律師出身的政治人物 "wikilink")
 
-[Category:美国民主共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主共和党联邦众议员 "wikilink")
-[Category:肯塔基州檢察總長](https://zh.wikipedia.org/wiki/Category:肯塔基州檢察總長 "wikilink")
-[Category:肯塔基州眾議員](https://zh.wikipedia.org/wiki/Category:肯塔基州眾議員 "wikilink")
-[Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink")
-[Category:肯塔基州1812年戰爭人物](https://zh.wikipedia.org/wiki/Category:肯塔基州1812年戰爭人物 "wikilink")
-[Category:弗吉尼亚州阿宾登人士](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州阿宾登人士 "wikilink")
-[Category:遇刺身亡的美國政治人物](https://zh.wikipedia.org/wiki/Category:遇刺身亡的美國政治人物 "wikilink")
-[Category:在美國被謀殺身亡者](https://zh.wikipedia.org/wiki/Category:在美國被謀殺身亡者 "wikilink")
-[Category:葬于法兰克福公墓](https://zh.wikipedia.org/wiki/Category:葬于法兰克福公墓 "wikilink")
-[Category:肯塔基州民主共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主共和党人 "wikilink")
+[Category:美国民主共和党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国民主共和党联邦众议员 "wikilink") [Category:肯塔基州檢察總長](https://zh.wikipedia.org/wiki/Category:肯塔基州檢察總長 "wikilink") [Category:肯塔基州眾議員](https://zh.wikipedia.org/wiki/Category:肯塔基州眾議員 "wikilink") [Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink") [Category:肯塔基州1812年戰爭人物](https://zh.wikipedia.org/wiki/Category:肯塔基州1812年戰爭人物 "wikilink") [Category:弗吉尼亚州阿宾登人士](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州阿宾登人士 "wikilink") [Category:遇刺身亡的美國政治人物](https://zh.wikipedia.org/wiki/Category:遇刺身亡的美國政治人物 "wikilink") [Category:在美國被謀殺身亡者](https://zh.wikipedia.org/wiki/Category:在美國被謀殺身亡者 "wikilink") [Category:葬于法兰克福公墓](https://zh.wikipedia.org/wiki/Category:葬于法兰克福公墓 "wikilink") [Category:肯塔基州民主共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主共和党人 "wikilink")
 
 1.
 

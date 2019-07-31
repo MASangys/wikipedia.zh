@@ -1,6 +1,6 @@
-**Entame大獎小說部門**（****），是[Enterbrain主辦的](../Page/Enterbrain.md "wikilink")[輕小說文學獎](../Page/輕小說.md "wikilink")。1999年創立時的名稱為「Fami通Entertainment大獎小說部門（）」（到第三回為止）。
+**Entame大獎小說部門**（****），是[Enterbrain](../Page/Enterbrain.md "wikilink")主辦的[輕小說](../Page/輕小說.md "wikilink")文學獎。1999年創立時的名稱為「Fami通Entertainment大獎小說部門（）」（到第三回為止）。
 
-主要獎項有大賞（到第四回為止為最優秀賞）、優秀賞、東放學園特別賞，大賞獎品為正賞和副賞100萬日圓，優秀賞獎品為正賞和副賞50萬日圓，東放學園特別賞獎品為正賞和副賞5萬日圓。此外，還有作為佳作、入選和特別獎的編輯部特別賞。東放學元特別賞是從學校法人東放學園的在校生和畢業生的投稿作品中選出最佳作品。大賞、優秀賞的得獎作品會在[Fami通文庫出版](../Page/Fami通文庫.md "wikilink")，有時也有佳作、入選、特別賞的作品出版。
+主要獎項有大賞（到第四回為止為最優秀賞）、優秀賞、東放學園特別賞，大賞獎品為正賞和副賞100萬日圓，優秀賞獎品為正賞和副賞50萬日圓，東放學園特別賞獎品為正賞和副賞5萬日圓。此外，還有作為佳作、入選和特別獎的編輯部特別賞。東放學元特別賞是從學校法人東放學園的在校生和畢業生的投稿作品中選出最佳作品。大賞、優秀賞的得獎作品會在[Fami通文庫](../Page/Fami通文庫.md "wikilink")出版，有時也有佳作、入選、特別賞的作品出版。
 
 ## 評審委員
 
@@ -152,7 +152,7 @@
 <td><p>大賞</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田口仙年堂" title="wikilink">田口仙年堂</a></p></td>
-<td><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川代理</a></p></td>
+<td><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a>代理</p></td>
 </tr>
 <tr class="even">
 <td><p>佳作</p></td>
@@ -557,19 +557,14 @@
 
 ## 外部連結
 
-  - [Enterbrain
-    Entame大獎小説部門](https://web.archive.org/web/20071019043909/http://www.enterbrain.co.jp/entertainment/novel.html)
+  - [Enterbrain Entame大獎小説部門](https://web.archive.org/web/20071019043909/http://www.enterbrain.co.jp/entertainment/novel.html)
   - [Fami通文庫](http://www.enterbrain.co.jp/fb/)
 
-[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink")
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
-[Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
+[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
 
 1.  [糖果子彈作者](https://zh.wikipedia.org/wiki/糖果子彈 "wikilink")
 2.  [後院的神明作者](https://zh.wikipedia.org/wiki/後院的神明 "wikilink")
 3.  兩人共用筆名
-4.  [文學少女作者](../Page/文學少女.md "wikilink")
-5.  [2014年 第一彈
-    最大手輕小說授權書單來囉！](http://cyopoko.pixnet.net/blog/post/31651865)
-6.  [2014年 第一彈
-    最大手輕小說授權書單來囉！](http://cyopoko.pixnet.net/blog/post/31651865)
+4.  [文學少女](../Page/文學少女.md "wikilink")作者
+5.  [2014年 第一彈 最大手輕小說授權書單來囉！](http://cyopoko.pixnet.net/blog/post/31651865)
+6.  [2014年 第一彈 最大手輕小說授權書單來囉！](http://cyopoko.pixnet.net/blog/post/31651865)

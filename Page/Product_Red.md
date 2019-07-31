@@ -1,23 +1,12 @@
-[Nano_omores.jpg](https://zh.wikipedia.org/wiki/File:Nano_omores.jpg "fig:Nano_omores.jpg")
-由第二代开始苹果公司推出iPod Nano的Product Red Special Edition，分別有4GB與8GB可供選擇\]\]
-**Product
-Red**（樣式為<font color="#9F1D1D">**<big><big>(</big></big>PRODUCT<big><big>)</big></big><sup>RED<small>™</small></sup>**</font>）是一個曾授權予如[美國運通](../Page/美國運通.md "wikilink")、[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[匡威](../Page/匡威.md "wikilink")、[摩托羅拉](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")、[蓋普與](https://zh.wikipedia.org/wiki/Gap_\(服飾\) "wikilink")[喬治·阿瑪尼等合作夥伴公司的營利性](https://zh.wikipedia.org/wiki/喬治·阿瑪尼 "wikilink")[品牌](../Page/品牌.md "wikilink")，由[U2的](https://zh.wikipedia.org/wiki/U2 "wikilink")[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[波諾與](https://zh.wikipedia.org/wiki/波諾 "wikilink")[Debt
-AIDS Trade in
-Africa](https://zh.wikipedia.org/wiki/Debt_AIDS_Trade_in_Africa "wikilink")
-(DATA)的Bobby
-Shriver著手創立以為[全球防治愛滋病、結核病和瘧疾基金籌款](https://zh.wikipedia.org/wiki/全球基金 "wikilink")。現已宣佈Bobby
-Shrive為Product
-Red的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")，而波諾為該品牌現時的公眾代言人。
+[Nano_omores.jpg](https://zh.wikipedia.org/wiki/File:Nano_omores.jpg "fig:Nano_omores.jpg") 由第二代开始苹果公司推出iPod Nano的Product Red Special Edition，分別有4GB與8GB可供選擇\]\] **Product Red**（樣式為<font color="#9F1D1D">**<big><big>(</big></big>PRODUCT<big><big>)</big></big><sup>RED<small>™</small></sup>**</font>）是一個曾授權予如[美國運通](../Page/美國運通.md "wikilink")、[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[匡威](../Page/匡威.md "wikilink")、[摩托羅拉](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")、[蓋普與](https://zh.wikipedia.org/wiki/Gap_\(服飾\) "wikilink")[喬治·阿瑪尼等合作夥伴公司的營利性](https://zh.wikipedia.org/wiki/喬治·阿瑪尼 "wikilink")[品牌](../Page/品牌.md "wikilink")，由[U2的](https://zh.wikipedia.org/wiki/U2 "wikilink")[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[波諾與](https://zh.wikipedia.org/wiki/波諾 "wikilink")[Debt AIDS Trade in Africa](https://zh.wikipedia.org/wiki/Debt_AIDS_Trade_in_Africa "wikilink") (DATA)的Bobby Shriver著手創立以為[全球防治愛滋病、結核病和瘧疾基金籌款](https://zh.wikipedia.org/wiki/全球基金 "wikilink")。現已宣佈Bobby Shrive為Product Red的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")，而波諾為該品牌現時的公眾代言人。
 
-每間合作公司會製作包含Product Red商標的產品，作為經由銷售Product
-Red產品而增加[收入的回報](https://zh.wikipedia.org/wiki/收入 "wikilink")，[利潤的其中一個百分比會捐贈給全球基金](https://zh.wikipedia.org/wiki/利潤 "wikilink")\[1\]。
+每間合作公司會製作包含Product Red商標的產品，作為經由銷售Product Red產品而增加[收入的回報](https://zh.wikipedia.org/wiki/收入 "wikilink")，[利潤的其中一個百分比會捐贈給全球基金](https://zh.wikipedia.org/wiki/利潤 "wikilink")\[1\]。
 
 ## 指導原則
 
-Product
-Red的主要原則為[1](https://web.archive.org/web/20070522015335/http://www.joinred.com/principles.asp)：
+Product Red的主要原則為[1](https://web.archive.org/web/20070522015335/http://www.joinred.com/principles.asp)：
 
-  - 增加[非洲人民的機會](../Page/非洲.md "wikilink")
+  - 增加[非洲](../Page/非洲.md "wikilink")人民的機會
   - 尊重其僱員並要求其合作夥伴以同樣的方式對待他們的僱員與為他們生產產品或遞送服務的人
   - 宣傳[HIV](https://zh.wikipedia.org/wiki/HIV "wikilink")／[AIDS工作場所政策與做法](https://zh.wikipedia.org/wiki/AIDS "wikilink")
   - 領會一個社群為希望、健康與進步而動員起來的力量
@@ -27,20 +16,14 @@ Red的主要原則為[1](https://web.archive.org/web/20070522015335/http://www.j
 ## 產品
 
   - American Express Red信用卡
-  - [Gap正銷售一系列衣著](https://zh.wikipedia.org/wiki/Gap_\(服飾\) "wikilink")，包括一款在[非洲](../Page/非洲.md "wikilink")[賴索托生產](https://zh.wikipedia.org/wiki/賴索托 "wikilink")，以非洲成長的[棉花製作的T恤](../Page/棉花.md "wikilink")
-  - [匡威正銷售一款以](../Page/匡威.md "wikilink")[非洲](../Page/非洲.md "wikilink")[泥布製作的](https://zh.wikipedia.org/wiki/泥布 "wikilink")[鞋](../Page/鞋.md "wikilink")
-  - [喬治·阿瑪尼已宣佈一款包含Product](https://zh.wikipedia.org/wiki/喬治·阿瑪尼 "wikilink")
-    Red
-    [商標的面罩型](https://zh.wikipedia.org/wiki/商標 "wikilink")[太陽眼鏡](../Page/太陽眼鏡.md "wikilink")
+  - [Gap正銷售一系列衣著](https://zh.wikipedia.org/wiki/Gap_\(服飾\) "wikilink")，包括一款在[非洲](../Page/非洲.md "wikilink")[賴索托生產](https://zh.wikipedia.org/wiki/賴索托 "wikilink")，以非洲成長的[棉花](../Page/棉花.md "wikilink")製作的T恤
+  - [匡威](../Page/匡威.md "wikilink")正銷售一款以[非洲](../Page/非洲.md "wikilink")[泥布製作的](https://zh.wikipedia.org/wiki/泥布 "wikilink")[鞋](../Page/鞋.md "wikilink")
+  - [喬治·阿瑪尼已宣佈一款包含Product](https://zh.wikipedia.org/wiki/喬治·阿瑪尼 "wikilink") Red [商標的面罩型](https://zh.wikipedia.org/wiki/商標 "wikilink")[太陽眼鏡](../Page/太陽眼鏡.md "wikilink")
   - [摩托羅拉已宣佈特別版的](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")[SLVR與](https://zh.wikipedia.org/wiki/Motorola_SLVR_L7 "wikilink")[RAZR手提電話](https://zh.wikipedia.org/wiki/Motorola_RAZR_V3 "wikilink")，其中50%利潤會捐贈給全球基金，Red版的RAZR最初於2006年11月連同Sprint的服務發行
-  - [獨立報正與Product](../Page/獨立報.md "wikilink") Red進行合作
-  - Hotel Café
-    Tour是由[MySpace與Product](https://zh.wikipedia.org/wiki/MySpace "wikilink")
-    Red合作舉辦
-  - [蘋果公司正發售一系列Product](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
-    Red主題的特別版[iPod以及一款](https://zh.wikipedia.org/wiki/iPod "wikilink")25元的Red版iTunes禮品卡
-  - [NEED雜誌正與Product](https://zh.wikipedia.org/wiki/NEED "wikilink")
-    Red進行合作
+  - [獨立報](../Page/獨立報.md "wikilink")正與Product Red進行合作
+  - Hotel Café Tour是由[MySpace與Product](https://zh.wikipedia.org/wiki/MySpace "wikilink") Red合作舉辦
+  - [蘋果公司正發售一系列Product](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") Red主題的特別版[iPod以及一款](https://zh.wikipedia.org/wiki/iPod "wikilink")25元的Red版iTunes禮品卡
+  - [NEED雜誌正與Product](https://zh.wikipedia.org/wiki/NEED "wikilink") Red進行合作
   - Gap多款襯衫、手鐲、項鏈、別針與蠟燭的50%收益會用來協助預防在非洲的愛滋病
 
 ## 時間線
@@ -63,7 +46,7 @@ Red的主要原則為[1](https://web.archive.org/web/20070522015335/http://www.j
 <td><p>創辦</p></td>
 <td><p><a href="../Page/世界經濟論壇.md" title="wikilink">世界經濟論壇</a></p></td>
 <td><p>宣佈</p></td>
-<td><p>Product Red最初於<a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士</a><a href="https://zh.wikipedia.org/wiki/達沃詩" title="wikilink">達沃詩的</a><a href="../Page/世界經濟論壇.md" title="wikilink">世界經濟論壇上宣佈</a>，<a href="https://zh.wikipedia.org/wiki/全球基金" title="wikilink">全球基金確定</a><a href="https://zh.wikipedia.org/wiki/盧安達" title="wikilink">盧安達為首個獲得來自Product</a> Red資金的國家</p></td>
+<td><p>Product Red最初於<a href="https://zh.wikipedia.org/wiki/瑞士" title="wikilink">瑞士</a><a href="https://zh.wikipedia.org/wiki/達沃詩" title="wikilink">達沃詩的</a><a href="../Page/世界經濟論壇.md" title="wikilink">世界經濟論壇</a>上宣佈，<a href="https://zh.wikipedia.org/wiki/全球基金" title="wikilink">全球基金確定</a><a href="https://zh.wikipedia.org/wiki/盧安達" title="wikilink">盧安達為首個獲得來自Product</a> Red資金的國家</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -180,7 +163,7 @@ Red的主要原則為[1](https://web.archive.org/web/20070522015335/http://www.j
 <td><p><a href="../Page/杂志.md" title="wikilink">杂志</a></p></td>
 <td><p>《<a href="../Page/名利场_(杂志).md" title="wikilink">名利场</a>》</p></td>
 <td></td>
-<td><p><a href="../Page/博诺.md" title="wikilink">博诺编辑本期杂志</a>，这期主题为“非洲期”的杂志有20种不同的封面，封面人物均致力于解决非洲问题，包括<a href="../Page/贝拉克·奥巴马.md" title="wikilink">贝拉克·奥巴马</a>、<a href="../Page/穆罕默德·阿里.md" title="wikilink">穆罕默德·阿里</a>、<a href="https://zh.wikipedia.org/wiki/拉尼娅王后" title="wikilink">拉尼娅王后</a>、<a href="../Page/博诺.md" title="wikilink">博诺</a>、<a href="../Page/康多莉扎·赖斯.md" title="wikilink">康多莉扎·赖斯</a>、美国总统<a href="../Page/乔治·沃克·布什.md" title="wikilink">乔治·沃克·布什</a>、总主教<a href="https://zh.wikipedia.org/wiki/德斯蒙德·图图" title="wikilink">德斯蒙德·图图</a>、<a href="https://zh.wikipedia.org/wiki/布拉德·皮特" title="wikilink">布拉德·皮特</a>、<a href="../Page/杰曼·翰苏.md" title="wikilink">杰曼·翰苏</a>、<a href="https://zh.wikipedia.org/wiki/麦当娜" title="wikilink">麦当娜</a>、<a href="../Page/马娅·安杰卢.md" title="wikilink">马娅·安杰卢</a>、<a href="https://zh.wikipedia.org/wiki/克里斯·洛克" title="wikilink">克里斯·洛克</a>、<a href="../Page/沃伦·巴菲特.md" title="wikilink">沃伦·巴菲特</a>、<a href="../Page/比尔·盖茨.md" title="wikilink">比尔·盖茨</a>、<a href="../Page/梅琳达·盖茨.md" title="wikilink">梅琳达·盖茨</a>、<a href="https://zh.wikipedia.org/wiki/奥普拉·温弗里" title="wikilink">奥普拉·温弗里</a>、<a href="https://zh.wikipedia.org/wiki/乔治·克鲁尼" title="wikilink">乔治·克鲁尼</a>、<a href="https://zh.wikipedia.org/wiki/Jay_Z" title="wikilink">Jay Z</a>、<a href="../Page/艾莉西亚·凯斯.md" title="wikilink">艾莉西亚·凯斯</a>、<a href="../Page/伊曼_(模特).md" title="wikilink">伊曼·阿卜杜勒和</a><a href="../Page/唐·钱德尔.md" title="wikilink">唐·钱德尔</a></p></td>
+<td><p><a href="../Page/博诺.md" title="wikilink">博诺</a>编辑本期杂志，这期主题为“非洲期”的杂志有20种不同的封面，封面人物均致力于解决非洲问题，包括<a href="../Page/贝拉克·奥巴马.md" title="wikilink">贝拉克·奥巴马</a>、<a href="../Page/穆罕默德·阿里.md" title="wikilink">穆罕默德·阿里</a>、<a href="https://zh.wikipedia.org/wiki/拉尼娅王后" title="wikilink">拉尼娅王后</a>、<a href="../Page/博诺.md" title="wikilink">博诺</a>、<a href="../Page/康多莉扎·赖斯.md" title="wikilink">康多莉扎·赖斯</a>、美国总统<a href="../Page/乔治·沃克·布什.md" title="wikilink">乔治·沃克·布什</a>、总主教<a href="https://zh.wikipedia.org/wiki/德斯蒙德·图图" title="wikilink">德斯蒙德·图图</a>、<a href="https://zh.wikipedia.org/wiki/布拉德·皮特" title="wikilink">布拉德·皮特</a>、<a href="../Page/杰曼·翰苏.md" title="wikilink">杰曼·翰苏</a>、<a href="https://zh.wikipedia.org/wiki/麦当娜" title="wikilink">麦当娜</a>、<a href="../Page/马娅·安杰卢.md" title="wikilink">马娅·安杰卢</a>、<a href="https://zh.wikipedia.org/wiki/克里斯·洛克" title="wikilink">克里斯·洛克</a>、<a href="../Page/沃伦·巴菲特.md" title="wikilink">沃伦·巴菲特</a>、<a href="../Page/比尔·盖茨.md" title="wikilink">比尔·盖茨</a>、<a href="../Page/梅琳达·盖茨.md" title="wikilink">梅琳达·盖茨</a>、<a href="https://zh.wikipedia.org/wiki/奥普拉·温弗里" title="wikilink">奥普拉·温弗里</a>、<a href="https://zh.wikipedia.org/wiki/乔治·克鲁尼" title="wikilink">乔治·克鲁尼</a>、<a href="https://zh.wikipedia.org/wiki/Jay_Z" title="wikilink">Jay Z</a>、<a href="../Page/艾莉西亚·凯斯.md" title="wikilink">艾莉西亚·凯斯</a>、<a href="../Page/伊曼_(模特).md" title="wikilink">伊曼·阿卜杜勒和</a><a href="../Page/唐·钱德尔.md" title="wikilink">唐·钱德尔</a></p></td>
 <td><p>每售出一份《<a href="../Page/名利场_(杂志).md" title="wikilink">名利场</a>》订阅便捐赠$5</p></td>
 <td></td>
 </tr>
@@ -234,7 +217,7 @@ Red的主要原則為[1](https://web.archive.org/web/20070522015335/http://www.j
 <td><p>书籍</p></td>
 <td><p><a href="../Page/企鹅出版集团.md" title="wikilink">企鹅出版集团</a></p></td>
 <td><p>企鹅经典Red</p></td>
-<td><p>企鹅经典出版了一套由8本经典小说组成的丛书：<a href="../Page/伊迪丝·华顿.md" title="wikilink">伊迪丝·华顿的</a>《》，<a href="../Page/亨利·詹姆斯.md" title="wikilink">亨利·詹姆斯的</a>《》，<a href="../Page/约瑟夫·康拉德.md" title="wikilink">约瑟夫·康拉德的</a>《》，<a href="../Page/查尔斯·狄更斯.md" title="wikilink">查尔斯·狄更斯的</a>《<a href="https://zh.wikipedia.org/wiki/远大前程" title="wikilink">远大前程</a>》，<a href="https://zh.wikipedia.org/wiki/费奥多尔·陀思妥耶夫斯基" title="wikilink">费奥多尔·陀思妥耶夫斯基的</a>《<a href="https://zh.wikipedia.org/wiki/地下室手记" title="wikilink">地下室手记</a>》，<a href="../Page/布莱姆·斯托克.md" title="wikilink">布莱姆·斯托克的</a>《<a href="../Page/德拉库拉_(小说).md" title="wikilink">德拉库拉</a>》，<a href="https://zh.wikipedia.org/wiki/列夫·托尔斯泰" title="wikilink">列夫·托尔斯泰的</a>《<a href="../Page/安娜·卡列尼娜.md" title="wikilink">安娜·卡列尼娜</a>》和<a href="../Page/埃米尔·左拉.md" title="wikilink">埃米尔·左拉的</a>《》</p></td>
+<td><p>企鹅经典出版了一套由8本经典小说组成的丛书：<a href="../Page/伊迪丝·华顿.md" title="wikilink">伊迪丝·华顿</a>的《》，<a href="../Page/亨利·詹姆斯.md" title="wikilink">亨利·詹姆斯</a>的《》，<a href="../Page/约瑟夫·康拉德.md" title="wikilink">约瑟夫·康拉德</a>的《》，<a href="../Page/查尔斯·狄更斯.md" title="wikilink">查尔斯·狄更斯</a>的《<a href="https://zh.wikipedia.org/wiki/远大前程" title="wikilink">远大前程</a>》，<a href="https://zh.wikipedia.org/wiki/费奥多尔·陀思妥耶夫斯基" title="wikilink">费奥多尔·陀思妥耶夫斯基的</a>《<a href="https://zh.wikipedia.org/wiki/地下室手记" title="wikilink">地下室手记</a>》，<a href="../Page/布莱姆·斯托克.md" title="wikilink">布莱姆·斯托克</a>的《<a href="../Page/德拉库拉_(小说).md" title="wikilink">德拉库拉</a>》，<a href="https://zh.wikipedia.org/wiki/列夫·托尔斯泰" title="wikilink">列夫·托尔斯泰的</a>《<a href="../Page/安娜·卡列尼娜.md" title="wikilink">安娜·卡列尼娜</a>》和<a href="../Page/埃米尔·左拉.md" title="wikilink">埃米尔·左拉</a>的《》</p></td>
 <td><p>利润的50%</p></td>
 <td><p>£6.99/£7.99一本</p></td>
 </tr>
@@ -350,31 +333,17 @@ Red的主要原則為[1](https://web.archive.org/web/20070522015335/http://www.j
 
 ## 争议
 
-  - 2017年3月21日，中国大陆媒体《[环球时报](../Page/环球时报.md "wikilink")》在其[微信公共号推送的新闻中](../Page/微信.md "wikilink")，对[苹果公司新推出的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone
-    7和7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
-    (PRODUCT)RED特别版进行了报道，同时对人们称(PRODUCT)RED特别版为“中国红”的现象做出了批评。该新闻对苹果公司在中国大陆发售的红色iPhone，宣传时没有“(PRODUCT)
-    RED”标识的原因进行了猜测，称一个原因是 RED 基金会宣传分裂势力——2016年7月7日， RED
-    在一个被中国大陆封锁的社交网站[Instagram发帖祝](../Page/Instagram.md "wikilink")[达赖生日快乐](../Page/第十四世达赖喇嘛.md "wikilink")。对此，《环球时报》对
-    RED
-    评论道，“真正决定性质的，是金钱支持以及宣传分裂势力这种实质性的行动。”\[15\]但也有观点认为，由于《中华人民共和国境外非政府组织境内活动管理法》规定禁止境外非政府组织从事募捐等活动，所以苹果公司为了避免法律风险而省略基金会品牌头衔。\[16\]
+  - 2017年3月21日，中国大陆媒体《[环球时报](../Page/环球时报.md "wikilink")》在其[微信](../Page/微信.md "wikilink")公共号推送的新闻中，对[苹果公司新推出的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone 7和7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink") (PRODUCT)RED特别版进行了报道，同时对人们称(PRODUCT)RED特别版为“中国红”的现象做出了批评。该新闻对苹果公司在中国大陆发售的红色iPhone，宣传时没有“(PRODUCT) RED”标识的原因进行了猜测，称一个原因是 RED 基金会宣传分裂势力——2016年7月7日， RED 在一个被中国大陆封锁的社交网站[Instagram](../Page/Instagram.md "wikilink")发帖祝[达赖生日快乐](../Page/第十四世达赖喇嘛.md "wikilink")。对此，《环球时报》对 RED 评论道，“真正决定性质的，是金钱支持以及宣传分裂势力这种实质性的行动。”\[15\]但也有观点认为，由于《中华人民共和国境外非政府组织境内活动管理法》规定禁止境外非政府组织从事募捐等活动，所以苹果公司为了避免法律风险而省略基金会品牌头衔。\[16\]
 
 ## 參考
 
 <references/>
 
-  - "[Bono bets on Red to battle
-    Aids](http://news.bbc.co.uk/2/hi/business/4650024.stm)" - Tim
-    Weber，2006年，[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，於2006年2月26日檢索
-  - [Product Red
-    FAQ](https://web.archive.org/web/20070604060341/http://www.joinred.com/faq.asp)
-    - 於2006年2月26日檢索
-  - [Product Red Fact
-    Sheet](https://web.archive.org/web/20070604063940/http://www.joinred.com/facts.asp)
-    - 於2006年2月26日檢索
-  - [2](https://web.archive.org/web/20070311132631/http://www.emporioarmani.com/press/docs/servlet/getdoc?type=&year=2006&id=53&language=EN)
-    - 於2006年2月26日檢索
-  - [摩托羅拉新聞稿](https://web.archive.org/web/20060630041512/http://www.motorola.com/mediacenter/news/detail.jsp?globalObjectId=6743_6700_23)
-    - 於2006年5月15日檢索
+  - "[Bono bets on Red to battle Aids](http://news.bbc.co.uk/2/hi/business/4650024.stm)" - Tim Weber，2006年，[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，於2006年2月26日檢索
+  - [Product Red FAQ](https://web.archive.org/web/20070604060341/http://www.joinred.com/faq.asp) - 於2006年2月26日檢索
+  - [Product Red Fact Sheet](https://web.archive.org/web/20070604063940/http://www.joinred.com/facts.asp) - 於2006年2月26日檢索
+  - [2](https://web.archive.org/web/20070311132631/http://www.emporioarmani.com/press/docs/servlet/getdoc?type=&year=2006&id=53&language=EN) - 於2006年2月26日檢索
+  - [摩托羅拉新聞稿](https://web.archive.org/web/20060630041512/http://www.motorola.com/mediacenter/news/detail.jsp?globalObjectId=6743_6700_23) - 於2006年5月15日檢索
 
 ## 請參閱
 
@@ -388,44 +357,26 @@ Red的主要原則為[1](https://web.archive.org/web/20070522015335/http://www.j
   - [Joinred.com](http://www.joinred.com/) - 官方網站
 
   -
-  - [全球基金網站上的Product
-    Red頁面](https://web.archive.org/web/20070518165822/http://www.theglobalfund.org/en/partners/private/red/)
+  - [全球基金網站上的Product Red頁面](https://web.archive.org/web/20070518165822/http://www.theglobalfund.org/en/partners/private/red/)
 
-  - [Product
-    (RED)總裁的簡報](https://web.archive.org/web/20070611213358/http://usfmbapodcast.com/2007/02/25/17-president-of-product-red/)
-    USF MBA Podcast，2007年2月25日
+  - [Product (RED)總裁的簡報](https://web.archive.org/web/20070611213358/http://usfmbapodcast.com/2007/02/25/17-president-of-product-red/) USF MBA Podcast，2007年2月25日
 
 ### 批評
 
-  - [Shopping is Not
-    Sharing](http://www.cbsnews.com/stories/2006/10/17/opinion/main2098633.shtml)
-    CBS News，2006年10月17日
-  - [Caught
-    Red-handed](http://www.cbc.ca/news/viewpoint/vp_mallick/20061023.html)
-    CBC News，2006年10月23日
-  - [Why the new Amex card makes me see
-    red](http://www.spiked-online.com/index.php?/site/article/1723/)
-    Spiked Online，2006年9月28日
-  - [Costly Red Campaign Reaps Meager $18
-    Million](http://adage.com/article?article_id=115287) Advertising
-    Age，2007年3月5日
-  - [Does Shopping for a Good Cause Really
-    Help?](https://web.archive.org/web/20070611205438/http://www.msnbc.msn.com/id/17613550/site/newsweek/)
-    Newsweek，2007年3月14日
+  - [Shopping is Not Sharing](http://www.cbsnews.com/stories/2006/10/17/opinion/main2098633.shtml) CBS News，2006年10月17日
+  - [Caught Red-handed](http://www.cbc.ca/news/viewpoint/vp_mallick/20061023.html) CBC News，2006年10月23日
+  - [Why the new Amex card makes me see red](http://www.spiked-online.com/index.php?/site/article/1723/) Spiked Online，2006年9月28日
+  - [Costly Red Campaign Reaps Meager $18 Million](http://adage.com/article?article_id=115287) Advertising Age，2007年3月5日
+  - [Does Shopping for a Good Cause Really Help?](https://web.archive.org/web/20070611205438/http://www.msnbc.msn.com/id/17613550/site/newsweek/) Newsweek，2007年3月14日
 
 ### 其他鏈接
 
-  - [Report on the Private Sector and Product
-    Red](http://www.nature.com/news/2006/061016/full/443738a.html)
+  - [Report on the Private Sector and Product Red](http://www.nature.com/news/2006/061016/full/443738a.html)
   - <http://www.apple.com//product-red/>
 
-[Category:品牌](https://zh.wikipedia.org/wiki/Category:品牌 "wikilink")
-[Category:HIV/AIDS](https://zh.wikipedia.org/wiki/Category:HIV/AIDS "wikilink")
+[Category:品牌](https://zh.wikipedia.org/wiki/Category:品牌 "wikilink") [Category:HIV/AIDS](https://zh.wikipedia.org/wiki/Category:HIV/AIDS "wikilink")
 
-1.  Global Business Coalition (2006年1月27日). *Ethical shopping: The Red
-    Revolution* -
-    於2007年1月4日檢索，來自[businessfightsaids.org](http://www.businessfightsaids.org/site/apps/nl/content2.asp?c=gwKXJfNVJtF&b=1028663&content_id=%7B468280BB-D666-4904-BADD-820DE4F90141%7D&notoc=1)
-
+1.  Global Business Coalition (2006年1月27日). *Ethical shopping: The Red Revolution* - 於2007年1月4日檢索，來自[businessfightsaids.org](http://www.businessfightsaids.org/site/apps/nl/content2.asp?c=gwKXJfNVJtF&b=1028663&content_id=%7B468280BB-D666-4904-BADD-820DE4F90141%7D&notoc=1)
 
 2.
 

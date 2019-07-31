@@ -1,7 +1,4 @@
-是[Cocktail
-Soft](../Page/Cocktail_Soft.md "wikilink")（[F\&C](../Page/F&C.md "wikilink")）在1996年7月26日發售的[PC-9801平台](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，[歡迎來到Pia
-Carrot\!\!系列的第](../Page/歡迎來到Pia_Carrot!!系列.md "wikilink")1作。後來移植到[PC-FX](../Page/PC-FX.md "wikilink")、[Sega
-Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，並且改編成OVA共三集。
+是[Cocktail Soft](../Page/Cocktail_Soft.md "wikilink")（[F\&C](../Page/F&C.md "wikilink")）在1996年7月26日發售的[PC-9801平台](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，[歡迎來到Pia Carrot\!\!系列的第](../Page/歡迎來到Pia_Carrot!!系列.md "wikilink")1作。後來移植到[PC-FX](../Page/PC-FX.md "wikilink")、[Sega Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，並且改編成OVA共三集。
 
 ## 故事
 
@@ -70,14 +67,4 @@ OVA是由[Triple X製作](../Page/Arms.md "wikilink")，Pink Pineapple發售的�
 
   - [歡迎來到Pia Carrot\!\!系列官方網站](http://fandc.co.jp/piacarrot/)
 
-[Category:1996年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1996年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink")
-[Category:PC-9801遊戲](https://zh.wikipedia.org/wiki/Category:PC-9801遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PC-FX遊戲](https://zh.wikipedia.org/wiki/Category:PC-FX遊戲 "wikilink")
-[Category:世嘉土星遊戲](https://zh.wikipedia.org/wiki/Category:世嘉土星遊戲 "wikilink")
-[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink")
-[Category:1997年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1997年日本成人動畫 "wikilink")
-[Category:F\&C游戏](https://zh.wikipedia.org/wiki/Category:F&C游戏 "wikilink")
+[Category:1996年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1996年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink") [Category:PC-9801遊戲](https://zh.wikipedia.org/wiki/Category:PC-9801遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PC-FX遊戲](https://zh.wikipedia.org/wiki/Category:PC-FX遊戲 "wikilink") [Category:世嘉土星遊戲](https://zh.wikipedia.org/wiki/Category:世嘉土星遊戲 "wikilink") [Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:1997年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1997年日本成人動畫 "wikilink") [Category:F\&C游戏](https://zh.wikipedia.org/wiki/Category:F&C游戏 "wikilink")

@@ -1,4 +1,4 @@
-**NHK新聞**（）指的是[日本放送協會的](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廣播服務所提供的](https://zh.wikipedia.org/wiki/廣播 "wikilink")[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")。現在的的標識是自1990年（平成2年）開始使用的。NHK在日本國內的54個放送局、放送支局與報導室時時刻刻進行采訪活動，其記者也多加入了[記者俱樂部](../Page/記者俱樂部.md "wikilink")。另外，在海外有位于[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[美國總局](https://zh.wikipedia.org/wiki/美國 "wikilink")、位于[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[歐洲總局和位于](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北京的](https://zh.wikipedia.org/wiki/北京 "wikilink")[中國總局](../Page/中國.md "wikilink")。在日本以外共有21個采訪據點。另外，其在日本各地共有400個以上的[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")[照相機](../Page/照相機.md "wikilink")，統一由東京的新聞中心管理；當發生[地震時](../Page/地震.md "wikilink")，能提供最即時的畫面。
+**NHK新聞**（）指的是[日本放送協會的](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廣播服務所提供的](https://zh.wikipedia.org/wiki/廣播 "wikilink")[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")。現在的的標識是自1990年（平成2年）開始使用的。NHK在日本國內的54個放送局、放送支局與報導室時時刻刻進行采訪活動，其記者也多加入了[記者俱樂部](../Page/記者俱樂部.md "wikilink")。另外，在海外有位于[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[美國總局](https://zh.wikipedia.org/wiki/美國 "wikilink")、位于[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[歐洲總局和位于](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北京的](https://zh.wikipedia.org/wiki/北京 "wikilink")[中國](../Page/中國.md "wikilink")總局。在日本以外共有21個采訪據點。另外，其在日本各地共有400個以上的[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")[照相機](../Page/照相機.md "wikilink")，統一由東京的新聞中心管理；當發生[地震](../Page/地震.md "wikilink")時，能提供最即時的畫面。
 
 目前NHK新聞也可在[全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）的班機上收看\[1\]。
 
@@ -156,20 +156,16 @@
   - [NHK晚間新聞](https://zh.wikipedia.org/wiki/NHK晚間新聞 "wikilink")（）※
   - [NHK7點新聞](../Page/NHK7點新聞.md "wikilink")（）※
   - [新聞中心9點](https://zh.wikipedia.org/wiki/新聞中心9點 "wikilink")（）
-  - [NHK News
-    Today](https://zh.wikipedia.org/wiki/NHK_News_Today "wikilink")（）
+  - [NHK News Today](https://zh.wikipedia.org/wiki/NHK_News_Today "wikilink")（）
   - [NHK21點新聞](https://zh.wikipedia.org/wiki/NHK21點新聞 "wikilink")（）
   - [NHK9點新聞](https://zh.wikipedia.org/wiki/NHK9點新聞 "wikilink")（）※
-  - [News Watch
-    9](https://zh.wikipedia.org/wiki/News_Watch_9 "wikilink")（）※
+  - [News Watch 9](https://zh.wikipedia.org/wiki/News_Watch_9 "wikilink")（）※
   - [NHK10點新聞](https://zh.wikipedia.org/wiki/NHK10點新聞 "wikilink")（）
   - [今日新聞](https://zh.wikipedia.org/wiki/今日新聞_\(NHK\) "wikilink")（）
   - [今日的新聞和體育](https://zh.wikipedia.org/wiki/今日的新聞和體育 "wikilink")（）
-  - [NHK Night
-    Wide](https://zh.wikipedia.org/wiki/NHK_Night_Wide "wikilink")（）
+  - [NHK Night Wide](https://zh.wikipedia.org/wiki/NHK_Night_Wide "wikilink")（）
   - [Night News](https://zh.wikipedia.org/wiki/Night_News "wikilink")（）
-  - [MIDNIGHT
-    JOURNAL](https://zh.wikipedia.org/wiki/MIDNIGHT_JOURNAL "wikilink")（）
+  - [MIDNIGHT JOURNAL](https://zh.wikipedia.org/wiki/MIDNIGHT_JOURNAL "wikilink")（）
   - [Sport Time](https://zh.wikipedia.org/wiki/Sport_Time "wikilink")（）
   - [NHK11點新聞](https://zh.wikipedia.org/wiki/NHK11點新聞 "wikilink")（）
   - [體育&新聞](https://zh.wikipedia.org/wiki/體育&新聞 "wikilink")（）
@@ -188,13 +184,11 @@
   - [元氣日本列島](https://zh.wikipedia.org/wiki/元氣日本列島 "wikilink")（）
   - [早安世界](https://zh.wikipedia.org/wiki/早安世界 "wikilink")（）
   - [早安五點](https://zh.wikipedia.org/wiki/早安五點 "wikilink")（）
-  - [NHK World
-    Network](https://zh.wikipedia.org/wiki/NHK_World_Network "wikilink")（）
+  - [NHK World Network](https://zh.wikipedia.org/wiki/NHK_World_Network "wikilink")（）
   - [今日世界](https://zh.wikipedia.org/wiki/今日世界 "wikilink")（）
   - [經濟最前線](https://zh.wikipedia.org/wiki/經濟最前線 "wikilink")（）
   - [NHK經濟雜誌](https://zh.wikipedia.org/wiki/NHK經濟雜誌 "wikilink")（）
-  - [Business Wide Vision
-    e](https://zh.wikipedia.org/wiki/Business_Wide_Vision_e "wikilink")（）
+  - [Business Wide Vision e](https://zh.wikipedia.org/wiki/Business_Wide_Vision_e "wikilink")（）
   - [兒童新聞週刊](../Page/兒童新聞週刊.md "wikilink")（）
   - [細說新聞週刊](https://zh.wikipedia.org/wiki/細說新聞週刊 "wikilink")（）
   - [NHK手語新聞845](https://zh.wikipedia.org/wiki/NHK手語新聞845 "wikilink")（）

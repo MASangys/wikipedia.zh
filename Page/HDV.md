@@ -1,5 +1,4 @@
-**HDV**是一種用[MiniDV錄影帶來錄影的](https://zh.wikipedia.org/wiki/DV#MiniDV "wikilink")[高清錄影格式](https://zh.wikipedia.org/wiki/高清 "wikilink")，提供一個比以前高清格式更高成本效益高清製作方案。
-[jvc-hdv-4642.JPG](https://zh.wikipedia.org/wiki/File:jvc-hdv-4642.JPG "fig:jvc-hdv-4642.JPG")
+**HDV**是一種用[MiniDV錄影帶來錄影的](https://zh.wikipedia.org/wiki/DV#MiniDV "wikilink")[高清錄影格式](https://zh.wikipedia.org/wiki/高清 "wikilink")，提供一個比以前高清格式更高成本效益高清製作方案。 [jvc-hdv-4642.JPG](https://zh.wikipedia.org/wiki/File:jvc-hdv-4642.JPG "fig:jvc-hdv-4642.JPG")
 
 ## 概要
 
@@ -21,9 +20,7 @@
 
 ## 規格
 
-為方便起見，以下表格列出了三種HDV格式：HDV 720p、HDV 1080i及HDV 1080p。HDV
-1080p不是官方定義為另一標準，但也包括在HDV
-1080i中作可選選項。所有HDV攝影機相容於1080p及原生1080i影像錄影。
+為方便起見，以下表格列出了三種HDV格式：HDV 720p、HDV 1080i及HDV 1080p。HDV 1080p不是官方定義為另一標準，但也包括在HDV 1080i中作可選選項。所有HDV攝影機相容於1080p及原生1080i影像錄影。
 
 | 格式                                                      | HDV 720p                                                                                                                 | HDV 1080i                                                              | HDV 1080p                    |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------- |
@@ -64,5 +61,4 @@
 
 ## 外部連結
 
-[Category:影像儲存](https://zh.wikipedia.org/wiki/Category:影像儲存 "wikilink")
-[Category:應用軟件](https://zh.wikipedia.org/wiki/Category:應用軟件 "wikilink")
+[Category:影像儲存](https://zh.wikipedia.org/wiki/Category:影像儲存 "wikilink") [Category:應用軟件](https://zh.wikipedia.org/wiki/Category:應用軟件 "wikilink")

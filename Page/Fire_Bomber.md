@@ -1,5 +1,4 @@
-**Fire Bomber**，譯為「火焰炸彈」，是[超時空要塞
-7系列動畫中](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，所出現的虛構搖滾樂團。
+**Fire Bomber**，譯為「火焰炸彈」，是[超時空要塞 7系列動畫中](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，所出現的虛構搖滾樂團。
 
 ## 樂團成員
 
@@ -39,9 +38,7 @@
 
 ### 現實世界中
 
-  - 主唱 -
-    歌：[福山芳樹](../Page/福山芳樹.md "wikilink")，CV：[林延年](https://zh.wikipedia.org/wiki/林延年 "wikilink")
-    (熱氣·巴薩拉)
+  - 主唱 - 歌：[福山芳樹](../Page/福山芳樹.md "wikilink")，CV：[林延年](https://zh.wikipedia.org/wiki/林延年 "wikilink") (熱氣·巴薩拉)
   - 主唱 - 歌：，CV：[櫻井智](../Page/櫻井智.md "wikilink") (米蓮·吉納斯)
   - 贝斯 - Yukio Sugi
   - 鼓 - Kazuo Sitay
@@ -202,7 +199,4 @@
   - ACOUSTIC FIRE 2007～Tribute to BASARA ＆ MYLENE～
   - The Revival of Fire Bomber 2009 IN TOKYO
 
-[Category:超時空要塞](https://zh.wikipedia.org/wiki/Category:超時空要塞 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:虛構音樂家](https://zh.wikipedia.org/wiki/Category:虛構音樂家 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:超時空要塞](https://zh.wikipedia.org/wiki/Category:超時空要塞 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:虛構音樂家](https://zh.wikipedia.org/wiki/Category:虛構音樂家 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")

@@ -1,19 +1,16 @@
-**彼得·約翰·卡勒西莫**（，經常被稱為P. J.
-Carlesimo，），生于[宾夕法尼亚州斯克兰顿](../Page/宾夕法尼亚州.md "wikilink")，大学和职业篮球教练，曾任[布魯克林籃網队總教練](https://zh.wikipedia.org/wiki/布魯克林籃網队 "wikilink")。
+**彼得·約翰·卡勒西莫**（，經常被稱為P. J. Carlesimo，），生于[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")斯克兰顿，大学和职业篮球教练，曾任[布魯克林籃網队總教練](https://zh.wikipedia.org/wiki/布魯克林籃網队 "wikilink")。
 
 他是斯克兰顿大学和[福特汉姆大学篮球队前主教练和运动总监彼得](https://zh.wikipedia.org/wiki/福特汉姆大学 "wikilink")·A·卡勒西莫的儿子。
 
 ## 早年执教生涯
 
-卡勒西莫1971年毕业于[福特汉姆大学](https://zh.wikipedia.org/wiki/福特汉姆大学 "wikilink")，成为了学校篮球队的助理教练。他也非常成功的执教过[纽约斯坦顿岛瓦格拉学院](../Page/纽约.md "wikilink")
-(Wagner College)篮球队。
+卡勒西莫1971年毕业于[福特汉姆大学](https://zh.wikipedia.org/wiki/福特汉姆大学 "wikilink")，成为了学校篮球队的助理教练。他也非常成功的执教过[纽约](../Page/纽约.md "wikilink")斯坦顿岛瓦格拉学院 (Wagner College)篮球队。
 
 ## 大学篮球教练
 
-卡勒西莫在1982-1994期间执教过西顿霍尔大学 (Seton Hall
-University)取得212胜166负的成绩，他也成为了学校的“世纪教练”带领西顿霍尔大学海盗篮球队打入1989年NCAA锦标赛总决赛，在加时赛中惜败于[密歇根大学](../Page/密歇根大学.md "wikilink")。
+卡勒西莫在1982-1994期间执教过西顿霍尔大学 (Seton Hall University)取得212胜166负的成绩，他也成为了学校的“世纪教练”带领西顿霍尔大学海盗篮球队打入1989年NCAA锦标赛总决赛，在加时赛中惜败于[密歇根大学](../Page/密歇根大学.md "wikilink")。
 
-1990年[世界男子篮球锦标赛中他作为](https://zh.wikipedia.org/wiki/世界男子篮球锦标赛 "wikilink")[美国国家男子篮球队主教练](https://zh.wikipedia.org/wiki/美国国家男子篮球队 "wikilink")[迈克·沙舍夫斯基的助理教练](../Page/迈克·沙舍夫斯基.md "wikilink")，球队最终夺得赛事铜牌。\[1\]
+1990年[世界男子篮球锦标赛中他作为](https://zh.wikipedia.org/wiki/世界男子篮球锦标赛 "wikilink")[美国国家男子篮球队主教练](https://zh.wikipedia.org/wiki/美国国家男子篮球队 "wikilink")[迈克·沙舍夫斯基](../Page/迈克·沙舍夫斯基.md "wikilink")的助理教练，球队最终夺得赛事铜牌。\[1\]
 
 ## NBA执教生涯
 
@@ -27,7 +24,7 @@ University)取得212胜166负的成绩，他也成为了学校的“世纪教练
 
 2012年，布魯克林籃網的開季戰績不如預期，籃網的管理階層決定開除前任總教頭[艾弗里·约翰逊](https://zh.wikipedia.org/wiki/艾弗里·约翰逊 "wikilink")。卡勒西莫擔任代理總教練。他上任後，執教風格跟強森不同，減少了球員個人單打，並且發揮球員的特質，如讓布魯克‧洛佩茲在籃下發揮，而不是在外圍接球投籃；讓德隆‧威廉斯有更多的擋拆機會。
 
-2013年，季後賽3-4輸給[芝加哥公牛後](../Page/芝加哥公牛.md "wikilink")，[布魯克林籃網宣布不與他續約](https://zh.wikipedia.org/wiki/布魯克林籃網 "wikilink")，由[贾森·基德接任總教練](https://zh.wikipedia.org/wiki/贾森·基德 "wikilink")。
+2013年，季後賽3-4輸給[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")後，[布魯克林籃網宣布不與他續約](https://zh.wikipedia.org/wiki/布魯克林籃網 "wikilink")，由[贾森·基德接任總教練](https://zh.wikipedia.org/wiki/贾森·基德 "wikilink")。
 
 ## 主教练战绩
 
@@ -47,18 +44,9 @@ University)取得212胜166负的成绩，他也成为了学校的“世纪教练
 
 ## 参考资料
 
-[Category:1949年出生](https://zh.wikipedia.org/wiki/Category:1949年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:美国篮球教练](https://zh.wikipedia.org/wiki/Category:美国篮球教练 "wikilink")
-[Category:金州勇士队教练](https://zh.wikipedia.org/wiki/Category:金州勇士队教练 "wikilink")
-[Category:波特兰开拓者队教练](https://zh.wikipedia.org/wiki/Category:波特兰开拓者队教练 "wikilink")
-[Category:西雅图超音速队教练](https://zh.wikipedia.org/wiki/Category:西雅图超音速队教练 "wikilink")
-[Category:布魯克林籃網教練](https://zh.wikipedia.org/wiki/Category:布魯克林籃網教練 "wikilink")
-[Category:福坦莫大學校友](https://zh.wikipedia.org/wiki/Category:福坦莫大學校友 "wikilink")
+[Category:1949年出生](https://zh.wikipedia.org/wiki/Category:1949年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美国篮球教练](https://zh.wikipedia.org/wiki/Category:美国篮球教练 "wikilink") [Category:金州勇士队教练](https://zh.wikipedia.org/wiki/Category:金州勇士队教练 "wikilink") [Category:波特兰开拓者队教练](https://zh.wikipedia.org/wiki/Category:波特兰开拓者队教练 "wikilink") [Category:西雅图超音速队教练](https://zh.wikipedia.org/wiki/Category:西雅图超音速队教练 "wikilink") [Category:布魯克林籃網教練](https://zh.wikipedia.org/wiki/Category:布魯克林籃網教練 "wikilink") [Category:福坦莫大學校友](https://zh.wikipedia.org/wiki/Category:福坦莫大學校友 "wikilink")
 
-1.  [1990 USA
-    Basketball](http://www.usabasketball.com/history/mwc_1990.html)
-2.  [Report: Spurs assistant Carlesimo to be named Sonics
-    coach](http://sports.espn.go.com/nba/news/story?id=2925357)
+1.  [1990 USA Basketball](http://www.usabasketball.com/history/mwc_1990.html)
+2.  [Report: Spurs assistant Carlesimo to be named Sonics coach](http://sports.espn.go.com/nba/news/story?id=2925357)
 3.
 4.

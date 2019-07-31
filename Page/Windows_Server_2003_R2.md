@@ -1,6 +1,4 @@
-**Windows Server 2003 R2**是[Windows Server
-2003的改進版本](../Page/Windows_Server_2003.md "wikilink")，在[2005年12月](../Page/2005年12月.md "wikilink")發售，但舊版的用戶不能免費更新到新版本，而需要付費更新。不過，現時市面上所發售的都是R2。R2的內容除了包含Win2K3
-SP1以外，還有另外一片CD，包含更多新的功能。
+**Windows Server 2003 R2**是[Windows Server 2003的改進版本](../Page/Windows_Server_2003.md "wikilink")，在[2005年12月](../Page/2005年12月.md "wikilink")發售，但舊版的用戶不能免費更新到新版本，而需要付費更新。不過，現時市面上所發售的都是R2。R2的內容除了包含Win2K3 SP1以外，還有另外一片CD，包含更多新的功能。
 
 ## R2的新功能
 
@@ -31,21 +29,15 @@ SP1以外，還有另外一片CD，包含更多新的功能。
 
 ## 价格
 
-  - Windows Server
-    2003标准版零售价格为999.00[美元](../Page/美元.md "wikilink")，包括5个Active
-    Directory。客户也可以通过原始厂商[OEM与](https://zh.wikipedia.org/wiki/OEM "wikilink")[批量许可](https://zh.wikipedia.org/wiki/批量许可 "wikilink")（Volume
-    License；又稱「[大量授權](https://zh.wikipedia.org/wiki/大量授權 "wikilink")」）方式取得。
+  - Windows Server 2003标准版零售价格为999.00[美元](../Page/美元.md "wikilink")，包括5个Active Directory。客户也可以通过原始厂商[OEM与](https://zh.wikipedia.org/wiki/OEM "wikilink")[批量许可](https://zh.wikipedia.org/wiki/批量许可 "wikilink")（Volume License；又稱「[大量授權](https://zh.wikipedia.org/wiki/大量授權 "wikilink")」）方式取得。
 
 <!-- end list -->
 
-  - Windows Server 2003企业版的32位版本零售价格为3,999.00美元，包括25个Active
-    Directory；客户也可以通过原始厂商OEM与批量许可方式取得。至于64位版本的Windows Server
-    2003 Enterprise Edition-{只}-能通过OEM与批量许可方式取得。
+  - Windows Server 2003企业版的32位版本零售价格为3,999.00美元，包括25个Active Directory；客户也可以通过原始厂商OEM与批量许可方式取得。至于64位版本的Windows Server 2003 Enterprise Edition-{只}-能通过OEM与批量许可方式取得。
 
 <!-- end list -->
 
-  - Windows Server 2003 Web版的Open
-    NL价格为399美元，不需要客户端访问授权。此版本没有零售版，-{只}-能通过OEM与批量许可方式取得。
+  - Windows Server 2003 Web版的Open NL价格为399美元，不需要客户端访问授权。此版本没有零售版，-{只}-能通过OEM与批量许可方式取得。
 
 <!-- end list -->
 

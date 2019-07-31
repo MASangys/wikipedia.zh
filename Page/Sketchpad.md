@@ -2,8 +2,6 @@
 
 ## 参考来源
 
-[Category:软件工程](https://zh.wikipedia.org/wiki/Category:软件工程 "wikilink")
-[Category:计算机科学](https://zh.wikipedia.org/wiki/Category:计算机科学 "wikilink")
-[Category:计算机图形学](https://zh.wikipedia.org/wiki/Category:计算机图形学 "wikilink")
+[Category:软件工程](https://zh.wikipedia.org/wiki/Category:软件工程 "wikilink") [Category:计算机科学](https://zh.wikipedia.org/wiki/Category:计算机科学 "wikilink") [Category:计算机图形学](https://zh.wikipedia.org/wiki/Category:计算机图形学 "wikilink")
 
 1.

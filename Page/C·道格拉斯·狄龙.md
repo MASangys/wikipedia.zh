@@ -1,5 +1,4 @@
-**克拉伦斯·道格拉斯·狄龙**（**Clarence Douglas Dillon**，1909年8月21日 -
-2003年1月10日），[美国](../Page/美国.md "wikilink")金融家、外交家、政治家，[美国共和党人](https://zh.wikipedia.org/wiki/美国共和党 "wikilink")，曾任[美国驻法国大使](https://zh.wikipedia.org/wiki/美国驻法国大使 "wikilink")（1953年-1957年）和[美国财政部长](../Page/美国财政部长.md "wikilink")（1961年-1965年）。
+**克拉伦斯·道格拉斯·狄龙**（**Clarence Douglas Dillon**，1909年8月21日 - 2003年1月10日），[美国](../Page/美国.md "wikilink")金融家、外交家、政治家，[美国共和党人](https://zh.wikipedia.org/wiki/美国共和党 "wikilink")，曾任[美国驻法国大使](https://zh.wikipedia.org/wiki/美国驻法国大使 "wikilink")（1953年-1957年）和[美国财政部长](../Page/美国财政部长.md "wikilink")（1961年-1965年）。
 
 ## 生平
 
@@ -31,28 +30,16 @@
 
 ## 外部链接
 
-  - [Ancestry of Joan Douglas
-    Dillon](http://www.wargs.com/royal/dillon.html)
+  - [Ancestry of Joan Douglas Dillon](http://www.wargs.com/royal/dillon.html)
   - [obit](http://www.guardian.co.uk/obituaries/story/0,,881163,00.html)
-  - [family
-    tree](http://worldconnect.rootsweb.com/cgi-bin/igm.cgi?op=PED&db=zacchai&id=I23628)
+  - [family tree](http://worldconnect.rootsweb.com/cgi-bin/igm.cgi?op=PED&db=zacchai&id=I23628)
 
-[Category:1909年出生](https://zh.wikipedia.org/wiki/Category:1909年出生 "wikilink")
-[Category:2003年逝世](https://zh.wikipedia.org/wiki/Category:2003年逝世 "wikilink")
-[Category:美国财政部长](https://zh.wikipedia.org/wiki/Category:美国财政部长 "wikilink")
-[Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink")
-[Category:纽约州共和党人](https://zh.wikipedia.org/wiki/Category:纽约州共和党人 "wikilink")
+[Category:1909年出生](https://zh.wikipedia.org/wiki/Category:1909年出生 "wikilink") [Category:2003年逝世](https://zh.wikipedia.org/wiki/Category:2003年逝世 "wikilink") [Category:美国财政部长](https://zh.wikipedia.org/wiki/Category:美国财政部长 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:纽约州共和党人](https://zh.wikipedia.org/wiki/Category:纽约州共和党人 "wikilink")
 
 1.
 2.
 
-3.  "Dillon, C(larence) Douglas. Priscilla Roberts. "The Scribner
-    Encyclopedia of American Lives. Arnold Markoe, Karen Markoe, and
-    Kenneth T. Jackson (editors). Vol. 7: 2003-2005. Detroit: Charles
-    Scribner's Sons, 2007. Reproduced in Biography Resource Center.
-    Farmington Hills, Michigan: Gale, 2009.
-    <http://galenet.galegroup.com/servlet/BioRC> Fee. Via Fairfax County
-    Public Library. Accessed 2009-03-27. Document Number: K2875000085
+3.  "Dillon, C(larence) Douglas. Priscilla Roberts. "The Scribner Encyclopedia of American Lives. Arnold Markoe, Karen Markoe, and Kenneth T. Jackson (editors). Vol. 7: 2003-2005. Detroit: Charles Scribner's Sons, 2007. Reproduced in Biography Resource Center. Farmington Hills, Michigan: Gale, 2009. <http://galenet.galegroup.com/servlet/BioRC> Fee. Via Fairfax County Public Library. Accessed 2009-03-27. Document Number: K2875000085
 
 4.
 5.

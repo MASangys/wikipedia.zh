@@ -13,6 +13,4 @@
 
 ## 外部連結
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")

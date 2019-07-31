@@ -1,5 +1,4 @@
-[Gp2_2.jpg](https://zh.wikipedia.org/wiki/File:Gp2_2.jpg "fig:Gp2_2.jpg")
-**GP2**是一项由FIA認證的[方程式赛车赛事](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")，於2005年首次舉行。所有參賽賽車的底盤由意大利[Dallara提供](https://zh.wikipedia.org/wiki/Dallara "wikilink")，4.0公升V8引擎則是由雷諾供應。
+[Gp2_2.jpg](https://zh.wikipedia.org/wiki/File:Gp2_2.jpg "fig:Gp2_2.jpg") **GP2**是一项由FIA認證的[方程式赛车赛事](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")，於2005年首次舉行。所有參賽賽車的底盤由意大利[Dallara提供](https://zh.wikipedia.org/wiki/Dallara "wikilink")，4.0公升V8引擎則是由雷諾供應。
 
 2005年，为[F1培养了许多车手的](https://zh.wikipedia.org/wiki/F1 "wikilink")[F3000比赛停止举办](https://zh.wikipedia.org/wiki/F3000 "wikilink")，**GP2**此时应运而生。GP2馬力達到600匹，比不足500匹的F3000更加接近F1的性能，更加配合車手的培育需要。
 
@@ -15,13 +14,11 @@
 
 <!-- end list -->
 
-  - 星期日：120公里的比赛。发车次序由周六成绩决定，但前8位的次序颠倒。所以周六获得冠军的车手，周日将在第8位发车，而周六获得第8名的车手，周日在[头位发车](https://zh.wikipedia.org/wiki/头位 "wikilink")。周日的赛事称为冲刺赛（Sprint
-    Race）。
+  - 星期日：120公里的比赛。发车次序由周六成绩决定，但前8位的次序颠倒。所以周六获得冠军的车手，周日将在第8位发车，而周六获得第8名的车手，周日在[头位发车](https://zh.wikipedia.org/wiki/头位 "wikilink")。周日的赛事称为冲刺赛（Sprint Race）。
 
 ## 积分制
 
-  - 正赛（Feature
-    Race）：[杆位](https://zh.wikipedia.org/wiki/杆位 "wikilink")2分，前8名分别获得10-8-6-5-4-3-2-1个积分。
+  - 正赛（Feature Race）：[杆位](https://zh.wikipedia.org/wiki/杆位 "wikilink")2分，前8名分别获得10-8-6-5-4-3-2-1个积分。
   - 冲刺赛（Sprint Race）：前6名分别获得6-5-4-3-2-1个积分。
   - 最快圈速：每场比赛1分。创造最快圈速的车手必须完成90%以上的路程。2008年，获得这1分的车手必须获得前十。
 
@@ -38,17 +35,13 @@
 
 ## 历届车队冠军
 
-  - 2005： [ART Grand
-    Prix](https://zh.wikipedia.org/wiki/ART_Grand_Prix "wikilink")
+  - 2005： [ART Grand Prix](https://zh.wikipedia.org/wiki/ART_Grand_Prix "wikilink")
   - 2006： ART Grand Prix
-  - 2007： [iSport
-    International](https://zh.wikipedia.org/wiki/iSport_International "wikilink")
-  - 2008： [Barwa International Campos
-    Team](https://zh.wikipedia.org/wiki/Barwa_International_Campos_Team "wikilink")
+  - 2007： [iSport International](https://zh.wikipedia.org/wiki/iSport_International "wikilink")
+  - 2008： [Barwa International Campos Team](https://zh.wikipedia.org/wiki/Barwa_International_Campos_Team "wikilink")
   - 2009： ART Grand Prix
   - 2010： [Rapax](https://zh.wikipedia.org/wiki/Rapax "wikilink")
-  - 2011： [Barwa Addax
-    Team](https://zh.wikipedia.org/wiki/Barwa_Addax_Team "wikilink")
+  - 2011： [Barwa Addax Team](https://zh.wikipedia.org/wiki/Barwa_Addax_Team "wikilink")
   - 2012： [DAMS](https://zh.wikipedia.org/wiki/DAMS "wikilink")
 
 ## 参见

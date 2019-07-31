@@ -6,8 +6,7 @@
 
 ## 格式
 
-IPFilter由\[block/pass\]，\[out/in\]，\[log/quick on網路介面\]，\[proto
-tcp/udp...\]，\[from來源IP to目的IP\]等多個項目依序構成，分別以空格為分界。
+IPFilter由\[block/pass\]，\[out/in\]，\[log/quick on網路介面\]，\[proto tcp/udp...\]，\[from來源IP to目的IP\]等多個項目依序構成，分別以空格為分界。
 
   - **IP**僅可使用阿拉伯數字，以32位地址表示區段或單一主機，零不可被省略。
   - **防護值**僅可使用阿拉伯數字，範圍由000到255，通常數字小表示封鎖，數字大表示開放，細節可以在防火牆軟體內設定。
@@ -33,6 +32,4 @@ tcp/udp...\]，\[from來源IP to目的IP\]等多個項目依序構成，分別�
 
   - [IPfilter官方網站](http://coombs.anu.edu.au/~avalon/)
 
-[Category:網路地址轉換](https://zh.wikipedia.org/wiki/Category:網路地址轉換 "wikilink")
-[Category:網路安全](https://zh.wikipedia.org/wiki/Category:網路安全 "wikilink")
-[Category:路由](https://zh.wikipedia.org/wiki/Category:路由 "wikilink")
+[Category:網路地址轉換](https://zh.wikipedia.org/wiki/Category:網路地址轉換 "wikilink") [Category:網路安全](https://zh.wikipedia.org/wiki/Category:網路安全 "wikilink") [Category:路由](https://zh.wikipedia.org/wiki/Category:路由 "wikilink")

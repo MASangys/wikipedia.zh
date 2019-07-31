@@ -1,12 +1,10 @@
-**iptables**是運行在[使用者空間的應用軟體](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")，通過控制[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")[netfilter模組](https://zh.wikipedia.org/wiki/netfilter "wikilink")，來管理網路封包的处理和转发。在大部分[Linux发行版](../Page/Linux发行版.md "wikilink")中，可以通过[手册页](../Page/手册页.md "wikilink")\[1\]或`man
-iptables`获取用户手册。通常iptables需要[内核模块支持才能运行](https://zh.wikipedia.org/wiki/内核模块 "wikilink")，此处相应的内核模块通常是Xtables。因此，iptables操作需要[超级用户](../Page/超级用户.md "wikilink")权限，其可执行文件通常位于`/sbin/iptables`或`/usr/sbin/iptables`。同时，需要说明的是，以上命令通常只用于处理[IPv4](../Page/IPv4.md "wikilink")数据包；而对于[IPv6](../Page/IPv6.md "wikilink")数据包，则使用类似的**ip6tables**命令。\[2\]
+**iptables**是運行在[使用者空間的應用軟體](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")，通過控制[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")[netfilter模組](https://zh.wikipedia.org/wiki/netfilter "wikilink")，來管理網路封包的处理和转发。在大部分[Linux发行版](../Page/Linux发行版.md "wikilink")中，可以通过[手册页](../Page/手册页.md "wikilink")\[1\]或`man iptables`获取用户手册。通常iptables需要[内核模块支持才能运行](https://zh.wikipedia.org/wiki/内核模块 "wikilink")，此处相应的内核模块通常是Xtables。因此，iptables操作需要[超级用户](../Page/超级用户.md "wikilink")权限，其可执行文件通常位于`/sbin/iptables`或`/usr/sbin/iptables`。同时，需要说明的是，以上命令通常只用于处理[IPv4](../Page/IPv4.md "wikilink")数据包；而对于[IPv6](../Page/IPv6.md "wikilink")数据包，则使用类似的**ip6tables**命令。\[2\]
 
 目前，iptables支持内核2.4以上版本，旧版内核环境下则使用[ipchains](https://zh.wikipedia.org/wiki/ipchains "wikilink")（于2.2版内核）或[ipwadm](https://zh.wikipedia.org/wiki/ipwadm "wikilink")（于2.0版内核）完成类似的功能。2014年1月19日起發行的Linux内核3.13版则使用[nftables取而代之](https://zh.wikipedia.org/wiki/nftables "wikilink")，但仍然提供iptables命令做为兼容接口。\[3\]
 
 ## 概要
 
-[Netfilter-packet-flow.svg](https://zh.wikipedia.org/wiki/File:Netfilter-packet-flow.svg "fig:Netfilter-packet-flow.svg")
-iptables、ip6tables等都使用Xtables框架。存在「表（tables）」、「链（chain）」和「规则（rules）」三个层面。
+[Netfilter-packet-flow.svg](https://zh.wikipedia.org/wiki/File:Netfilter-packet-flow.svg "fig:Netfilter-packet-flow.svg") iptables、ip6tables等都使用Xtables框架。存在「表（tables）」、「链（chain）」和「规则（rules）」三个层面。
 
 每个「表」指的是不同类型的数据包处理流程，如`filter表`表示进行数据包过滤，而`nat表`针对连接进行地址转换操作。每个表中又可以存在多个「链」，系统按照预订的规则将数据包通过某个内建链，例如将从本机发出的数据通过`OUTPUT链`。在「链」中可以存在若干「规则」，这些规则会被逐一进行匹配，如果匹配，可以执行相应的动作，如修改数据包，或者跳转。跳转可以直接接受该数据包或拒绝该数据包，也可以跳转到其他链继续进行匹配，或者从当前链返回调用者链。当链中所有规则都执行完仍然没有跳转时，将根据该链的默认策略（「policy」）执行对应动作；如果也没有默认动作，则是返回调用者链。\[4\]
 
@@ -47,9 +45,7 @@ raw表用于处理异常，有如下两个内建链：
 
 ### 防火墙示例
 
-一个典型的工作站的防火墙配置实例。超级用户（root）可以用"`iptables
--L`"指令顯示防火牆上的配置。完整的配置可以添加`-v`或`-vv`参数来显示更详细信息，或者使用`iptables-save
--c`导出生成当前表的命令。由于没有指明「表」，因此默认使用`filter表`。
+一个典型的工作站的防火墙配置实例。超级用户（root）可以用"`iptables -L`"指令顯示防火牆上的配置。完整的配置可以添加`-v`或`-vv`参数来显示更详细信息，或者使用`iptables-save -c`导出生成当前表的命令。由于没有指明「表」，因此默认使用`filter表`。
 
 ```
  # iptables -L
@@ -81,8 +77,7 @@ raw表用于处理异常，有如下两个内建链：
  1 packets transmitted, 0 received, 100% packet loss, time 0ms
 ```
 
-外部尝试连接本机的[HTTP端口](https://zh.wikipedia.org/wiki/HTTP "wikilink")（即[TCP](../Page/传输控制协议.md "wikilink")
-80端口）将被拒绝连接：
+外部尝试连接本机的[HTTP端口](https://zh.wikipedia.org/wiki/HTTP "wikilink")（即[TCP](../Page/传输控制协议.md "wikilink") 80端口）将被拒绝连接：
 
 ```
  $ telnet 10.0.0.1 80
@@ -96,13 +91,11 @@ raw表用于处理异常，有如下两个内建链：
 
 iptables的重要功能之一是用于端口和/或地址的转换。如下示例展示了將預設[HTTP埠的封包由](https://zh.wikipedia.org/wiki/HTTP "wikilink")80轉向8080埠。這樣，HTTP的daemon可以允許由一般用户權限啟動，而不需要對一般使用者無法將埠號綁在1024埠以下的限制的問題多加考慮。
 
-`iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT
---to-port 8080`
+`iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080`
 
 注意：如果你在你的電腦上面運行了這個指令，它只會對連到你的機器上的外部的IP發生效果。從本地端發起的連線不會遵循nat表上PREROUTING鏈的設置。如果你想讓本地端也遵循規則，你可以另外鍵入下面的指令：
 
-`iptables -t nat -A OUTPUT -o lo -p tcp --dport 80 -j REDIRECT
---to-port 8080`
+`iptables -t nat -A OUTPUT -o lo -p tcp --dport 80 -j REDIRECT --to-port 8080`
 
 這條規則會將lo介面上的封包輸出由80埠轉向到8080埠上面。
 
@@ -130,23 +123,18 @@ iptables的重要功能之一是用于端口和/或地址的转换。如下示�
 
 ### 前端控制介面及命令
 
-有很多第三方软件可以帮助设定iptables规则。前端介面像是[Ncurses](../Page/Ncurses.md "wikilink")或圖型介面可以讓使用者用點選的方式產生許多簡單的規則。命令稿通常是參照[Unix
-shell產生出來的](../Page/Unix_shell.md "wikilink")（不過當然也有可能會使用其它種類型的命令稿），它們有的會用一些預先定義好的規則或簡單的範本來调用iptables或`iptables-restore`执行。一些Linux發行版公司會在它們的發行版裡面包含这些方式，當然像這樣的方式能產生的變化就相當有限，不過也因為產生規則的方式很簡單，所以甚至可以利用php網頁撰寫的方式來產生這些規則。
+有很多第三方软件可以帮助设定iptables规则。前端介面像是[Ncurses](../Page/Ncurses.md "wikilink")或圖型介面可以讓使用者用點選的方式產生許多簡單的規則。命令稿通常是參照[Unix shell產生出來的](../Page/Unix_shell.md "wikilink")（不過當然也有可能會使用其它種類型的命令稿），它們有的會用一些預先定義好的規則或簡單的範本來调用iptables或`iptables-restore`执行。一些Linux發行版公司會在它們的發行版裡面包含这些方式，當然像這樣的方式能產生的變化就相當有限，不過也因為產生規則的方式很簡單，所以甚至可以利用php網頁撰寫的方式來產生這些規則。
 
 此类前端装置如生成器（generator）或脚本（script）往往会被其模板限制，模板仅仅能使用用户定义规则并替换指定的部分，如只能替换端口或IP地址，同时，生成的规则往往难以达到最佳状态，需要进行进一步优化，如此会增加开发和运维的成本。如果用户想要了解iptables并且优化自己的规则，则需要自己创建规则。
 
 ### 前端的設定
 
-  - [Firewall
-    Builder](https://web.archive.org/web/20081210035025/http://www.fwbuilder.org/)
-    —圖形前端配合規則/字集產生器、及自動規則集（automated ruleset）載入。
+  - [Firewall Builder](https://web.archive.org/web/20081210035025/http://www.fwbuilder.org/) —圖形前端配合規則/字集產生器、及自動規則集（automated ruleset）載入。
   - [Shorewall](https://zh.wikipedia.org/wiki/Shorewall "wikilink")，以本文為基礎的規則產生器。
 
 ### 其它的工具
 
-  - Fwsnort - iptables侵入測試以字串比對法及是諾特規則（Snort
-    Rule）來進行[FWSnort](http://www.cipherdyne.org/fwsnort/)，Translates
-    a Snort IDS ruleset into an IPTables ruleset.
+  - Fwsnort - iptables侵入測試以字串比對法及是諾特規則（Snort Rule）來進行[FWSnort](http://www.cipherdyne.org/fwsnort/)，Translates a Snort IDS ruleset into an IPTables ruleset.
 
 ### Iptables/Netfilter圖表
 
@@ -163,24 +151,19 @@ shell產生出來的](../Page/Unix_shell.md "wikilink")（不過當然也有可�
 
 ### 其它防火墻的解決方案
 
-  - [PF
-    (firewall)](https://zh.wikipedia.org/wiki/PF_\(firewall\) "wikilink")
+  - [PF (firewall)](https://zh.wikipedia.org/wiki/PF_\(firewall\) "wikilink")
   - [ipfirewall](https://zh.wikipedia.org/wiki/ipfirewall "wikilink")
   - [ipfilter](https://zh.wikipedia.org/wiki/ipfilter "wikilink")
 
 ## 外部連結
 
   - [The netfilter/iptables project Web page](http://www.netfilter.org/)
-
-  - [Freshmeat project page for the iptables
-    package](http://freshmeat.net/projects/iptables/)
-  - [The netfilter/iptables documentation
-    page](http://www.netfilter.org/documentation/index.html) (outdated)
+  - [Freshmeat project page for the iptables package](http://freshmeat.net/projects/iptables/)
+  - [The netfilter/iptables documentation page](http://www.netfilter.org/documentation/index.html) (outdated)
 
 ## 参考文献
 
-[Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink")
-[Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink")
+[Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink") [Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink")
 
 1.  <https://linux.die.net/man/8/iptables>
 2.  <https://www.linux.com/learn/intro-to-linux/2017/8/iptables-rules-ipv6>

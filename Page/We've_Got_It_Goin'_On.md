@@ -10,6 +10,6 @@
 
 ## 音樂錄影帶
 
-這首單曲的[音樂錄影帶由](../Page/音樂錄影帶.md "wikilink")[萊昂尼·馬丁導演](https://zh.wikipedia.org/wiki/萊昂尼·馬丁 "wikilink")。
+這首單曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")由[萊昂尼·馬丁導演](https://zh.wikipedia.org/wiki/萊昂尼·馬丁 "wikilink")。
 
 [Category:新好男孩歌曲](https://zh.wikipedia.org/wiki/Category:新好男孩歌曲 "wikilink")

@@ -1,6 +1,4 @@
-是一款[Wii遊戲軟體](../Page/Wii.md "wikilink")。內有9種遊戲和一个[Wii
-Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，為初次玩Wii的玩家所設計，令他們可以輕鬆上手，更快學習操縱Wii
-Remote。
+是一款[Wii](../Page/Wii.md "wikilink")遊戲軟體。內有9種遊戲和一个[Wii Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，為初次玩Wii的玩家所設計，令他們可以輕鬆上手，更快學習操縱Wii Remote。
 
 ## 遊戲
 
@@ -40,17 +38,15 @@ Remote。
 
 ### 騎牛
 
-把Wii搖桿橫過來拿（「十字」鍵在左，「２」鍵在右），向前傾是加速，向後傾是減速，向上揮是跳躍，撞倒稻草人可以得到分數，一次撞倒5個可以得到額外的加分。
-單人模式中有機會衝到終點，打破自己的紀錄。雙人模式中，則是比誰的分數高，以分數取勝。
+把Wii搖桿橫過來拿（「十字」鍵在左，「２」鍵在右），向前傾是加速，向後傾是減速，向上揮是跳躍，撞倒稻草人可以得到分數，一次撞倒5個可以得到額外的加分。 單人模式中有機會衝到終點，打破自己的紀錄。雙人模式中，則是比誰的分數高，以分數取勝。
 
 ### 坦克大戰
 
-十字鍵移動坦克車，搖桿游標瞄方向，A鍵是放置地雷，B鍵是發射飛彈。 土黃色的戰車只發一發一般彈，而且它本身不會動。
-灰色的戰車只發一發，但他會移動。 藍綠色的戰車會發一發快彈，他也會移動。
-黃色的戰車發一般彈，但他一次可放四顆地雷。 紅色戰車一次可發三發彈，本身會動。
-綠色戰車一次可發三發快彈，一彈反彈二次，但它不會動。
-紫色戰車一次可發五發，也可放地雷，速度较快。 白色戰車一次可發五發，也可放地雷，並且可以隱形。
-黑色戰車會對你一發一發連續發射快弹，可放地雷，屬於跑的最快的戰車。
+十字鍵移動坦克車，搖桿游標瞄方向，A鍵是放置地雷，B鍵是發射飛彈。 土黃色的戰車只發一發一般彈，而且它本身不會動。 灰色的戰車只發一發，但他會移動。 藍綠色的戰車會發一發快彈，他也會移動。 黃色的戰車發一般彈，但他一次可放四顆地雷。 紅色戰車一次可發三發彈，本身會動。 綠色戰車一次可發三發快彈，一彈反彈二次，但它不會動。 紫色戰車一次可發五發，也可放地雷，速度较快。 白色戰車一次可發五發，也可放地雷，並且可以隱形。 黑色戰車會對你一發一發連續發射快弹，可放地雷，屬於跑的最快的戰車。
+
+## 續集
+
+Wii遙控器Plus - 動感歡樂（Wii Play：Motion）於2011年4月12日由任天堂舉行的新聞發布會上首次公佈.後來在2011年E3大會上展示並於同年6月為Wii發布。該遊戲突出了Wii遙控器Plus - 動感歡樂外設，可以在遊戲中實現更精確的運動控制，並具有幾個迷你游戲，旨在展示設備的增強運動功能。與其前身類似，Wii遙控器Plus - 動感歡樂與北美的黑色Wii遙控器Plus - 動感歡樂 Wii遙控器和歐洲的紅色Wii遙控器捆綁在一起。
 
 ## 参考资料
 
@@ -58,10 +54,4 @@ Remote。
 
   -
   -
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:Touch\!_Generations](https://zh.wikipedia.org/wiki/Category:Touch!_Generations "wikilink")
-[Category:聚会游戏](https://zh.wikipedia.org/wiki/Category:聚会游戏 "wikilink")
-[Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink")
-[Category:Wii游戏](https://zh.wikipedia.org/wiki/Category:Wii游戏 "wikilink")
-[Category:Wii独占游戏](https://zh.wikipedia.org/wiki/Category:Wii独占游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:Touch\!_Generations](https://zh.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:聚会游戏](https://zh.wikipedia.org/wiki/Category:聚会游戏 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:Wii游戏](https://zh.wikipedia.org/wiki/Category:Wii游戏 "wikilink") [Category:Wii独占游戏](https://zh.wikipedia.org/wiki/Category:Wii独占游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")

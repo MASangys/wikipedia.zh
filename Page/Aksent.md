@@ -372,8 +372,7 @@
 
   - 鈴木佑梨（舊藝名：鈴木勤子，現所屬：Production-tanc、）
 
-  - [高梁碧](../Page/高梁碧.md "wikilink")（現所屬：[Kenyu
-    Office](../Page/Kenyu_Office.md "wikilink")）
+  - [高梁碧](../Page/高梁碧.md "wikilink")（現所屬：[Kenyu Office](../Page/Kenyu_Office.md "wikilink")）
 
   - 髙梨愛（現所屬：）
 
@@ -381,8 +380,7 @@
 
   - [津村真琴](../Page/津村真琴.md "wikilink")（現所屬：青二Production）
 
-  - [寺依沙織](../Page/寺依沙織.md "wikilink")（現所屬：[Mausu
-    Promotion](../Page/Mausu_Promotion.md "wikilink")）
+  - [寺依沙織](../Page/寺依沙織.md "wikilink")（現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
   - （自由職業）
 
@@ -398,8 +396,7 @@
 
   - 松浦近美（現所屬：gusuto de piro主宰）
 
-  - [松來未祐](../Page/松來未祐.md "wikilink")（移籍[81
-    Produce之後於在籍中死去](../Page/81_Produce.md "wikilink")）
+  - [松來未祐](../Page/松來未祐.md "wikilink")（移籍[81 Produce之後於在籍中死去](../Page/81_Produce.md "wikilink")）
 
   - （自由職業）
 
@@ -410,10 +407,7 @@
   - [株式會社Aksent公式官網](http://aksent.co.jp/blog/)
   - [附屬養成所Shine](http://shain-s.com/index.html)官方網站
 
-[Category:Aksent](https://zh.wikipedia.org/wiki/Category:Aksent "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")
-[Category:1987年成立的公司](https://zh.wikipedia.org/wiki/Category:1987年成立的公司 "wikilink")
+[Category:Aksent](https://zh.wikipedia.org/wiki/Category:Aksent "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink") [Category:1987年成立的公司](https://zh.wikipedia.org/wiki/Category:1987年成立的公司 "wikilink")
 
 1.
 

@@ -1,10 +1,10 @@
-是[光榮推出的一個關於](https://zh.wikipedia.org/wiki/光榮 "wikilink")[第二次世界大戰海戰的回合制](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")，並為[提督之決斷系列遊戲的最新作](../Page/提督之決斷系列.md "wikilink")。
+是[光榮推出的一個關於](https://zh.wikipedia.org/wiki/光榮 "wikilink")[第二次世界大戰海戰的回合制](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")，並為[提督之決斷系列](../Page/提督之決斷系列.md "wikilink")遊戲的最新作。
 
 ## 概要
 
 視窗版是一人玩家限定的遊戲。遊戲的舞台從前三作的[太平洋海域延伸到全世界](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。而可選擇的國家除了前作包含的[日本](../Page/日本.md "wikilink")（[大日本帝國](https://zh.wikipedia.org/wiki/大日本帝國 "wikilink")）和[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")（美利堅合眾國），還增加了[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")（[大英帝國](https://zh.wikipedia.org/wiki/大英帝國 "wikilink")，包含荷蘭印尼艦隊及澳洲艦隊）和[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")（[納粹德國](../Page/納粹德國.md "wikilink")，包含義大利艦隊）。另外，長劇本在選擇的時候可以改變所屬陣營，預設則為史實的美英（盟軍）對日德（軸心國）。短劇本則根據劇本而設定陣營構成，而在完成短劇本的戰役後（不論勝敗），玩家可選擇轉以長劇本形式繼續遊戲，但該戰的戰果（如被擊沉的艦船和領土範圍）均會反映在遊戲中。
 
-至於領土方面則採用新的表示方式，把全世界分成50個海域，以海峽或所屬港口命名，如[馬六甲海峽](https://zh.wikipedia.org/wiki/馬六甲海峽 "wikilink")、[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")、[多佛海峽等](https://zh.wikipedia.org/wiki/多佛海峽 "wikilink")。但為免再一次挑動中國有關方面的情緒，前作所包含的中國城市除了當時是英國殖民地的[香港以外](../Page/香港.md "wikilink")，一概沒有在第四代遊戲中出現。而擴張勢力的方法則從「佔領據點」變成「確保該海域的制海權」（摧毀敵方艦隊和飛機場），使得前作很少發生的艦隊戰成為本作的焦點。這個新的遊戲方式把前作一切陸軍的存在，如基地佔領、陸戰等全部排除，結果令一些較重視陸軍的玩家感到不滿。
+至於領土方面則採用新的表示方式，把全世界分成50個海域，以海峽或所屬港口命名，如[馬六甲海峽](https://zh.wikipedia.org/wiki/馬六甲海峽 "wikilink")、[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")、[多佛海峽等](https://zh.wikipedia.org/wiki/多佛海峽 "wikilink")。但為免再一次挑動中國有關方面的情緒，前作所包含的中國城市除了當時是英國殖民地的[香港](../Page/香港.md "wikilink")以外，一概沒有在第四代遊戲中出現。而擴張勢力的方法則從「佔領據點」變成「確保該海域的制海權」（摧毀敵方艦隊和飛機場），使得前作很少發生的艦隊戰成為本作的焦點。這個新的遊戲方式把前作一切陸軍的存在，如基地佔領、陸戰等全部排除，結果令一些較重視陸軍的玩家感到不滿。
 
 遊戲分戰略和戰術兩部分進行。戰略部分為回合制，以一週為一回合。戰術部分則為即時制，時限為三天。
 
@@ -16,7 +16,7 @@
 
 當敵方陣營存在著兩或三個國家的時候，首先攻滅的國家的提督將會加入我方成為提督，但軍階會下降兩級。但戰敗國的殘餘艦隊則會立即消失，不能為我方所用。另外，在長劇本中，玩家可以修改提督的姓名。
 
-與前作不同的是，本作的飛機和艦船的建造都不依常理－一直線的建造。而且相對於前作，飛機和艦船的建造過程非常迅速且便宜，各陣營也因此能大量製造[戰艦和](../Page/戰艦.md "wikilink")[空母](https://zh.wikipedia.org/wiki/空母 "wikilink")。但因此，本作未能模擬[第二次世界大戰的淒慘感覺](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。
+與前作不同的是，本作的飛機和艦船的建造都不依常理－一直線的建造。而且相對於前作，飛機和艦船的建造過程非常迅速且便宜，各陣營也因此能大量製造[戰艦](../Page/戰艦.md "wikilink")和[空母](https://zh.wikipedia.org/wiki/空母 "wikilink")。但因此，本作未能模擬[第二次世界大戰的淒慘感覺](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。
 
 總的來說，因為本作的操作和戰略性被簡化，使得這遊戲成為適合[戰略遊戲初學者玩的遊戲](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")。不過，因為以兵器能力考證為首的多個問題（在[威力加強版部分敘述](https://zh.wikipedia.org/wiki/#威力加強版 "wikilink")），使得前作的愛好玩家對此遊戲評價不高。
 
@@ -43,8 +43,7 @@ PS2版的系統介面基本沿用個人電腦版遊戲，可選擇國家也跟�
 
 若PS2的記憶卡內存有通常版的存檔，在開始遊戲（長劇本與短期劇本亦然）的時候，將會出現隱藏艦隊。隱藏艦隊的組成是每個劇本不同的，但所有艦船的能力均是該級艦船的最高值。
 
-在通常版的飛機設計中，德國的Holten全翼機擁有超群的性能，而在威力加強版中，各國的一種噴射機均被強化，並擁有與Holten全翼機同等的戰鬥力。在艦船設計中，除了部份（如日本的舊型[戰列艦](https://zh.wikipedia.org/wiki/戰列艦 "wikilink")）艦級外，如在威力加強版中選擇「新規設計」（重新設計），艦船的設計上限都會比通常版為高，即可設計更高性能
-的艦船。
+在通常版的飛機設計中，德國的Holten全翼機擁有超群的性能，而在威力加強版中，各國的一種噴射機均被強化，並擁有與Holten全翼機同等的戰鬥力。在艦船設計中，除了部份（如日本的舊型[戰列艦](https://zh.wikipedia.org/wiki/戰列艦 "wikilink")）艦級外，如在威力加強版中選擇「新規設計」（重新設計），艦船的設計上限都會比通常版為高，即可設計更高性能 的艦船。
 
 威力加強版遊戲也容許兵器限制。例如，若開啟驅逐艦的限制，則在遊戲開始的時候，選擇國家的艦隊中所有驅逐艦均會被刪除。這提升了遊戲的難度，特別是開始時資源不多的日本。
 
@@ -102,6 +101,4 @@ PS2版的系統介面基本沿用個人電腦版遊戲，可選擇國家也跟�
   - [遊戲官方網站](http://www.gamecity.ne.jp/products/products/ee/new/tei4/index.htm)
   - [遊戲的用家專用頁](http://www.gamecity.ne.jp/regist_c/user/admiral/)
 
-[Category:提督之決斷系列](https://zh.wikipedia.org/wiki/Category:提督之決斷系列 "wikilink")
-[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")
-[Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")
+[Category:提督之決斷系列](https://zh.wikipedia.org/wiki/Category:提督之決斷系列 "wikilink") [Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink") [Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")

@@ -64,26 +64,19 @@ Ugi反应在化学很多领域都有比较广泛的应用。通过这个反应�
 
   - [Ugi四组分缩合反应的发展及应用](http://www.hxtb.org/col/2000/c00056.htm)
 
-[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")
-[Category:多组分反应](https://zh.wikipedia.org/wiki/Category:多组分反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:多组分反应](https://zh.wikipedia.org/wiki/Category:多组分反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  Ugi, I., Lohberger S., Karl R. *The Passerini and Ugi Reactions*,
-    Chapter 4.6, *Comprehensive Organic Synthesis* **1991**, *2*,
-    1083–1109. ISBN 0-08-040593-2, Pergamon, Oxford, 10196 pages.（综述）
+5.  Ugi, I., Lohberger S., Karl R. *The Passerini and Ugi Reactions*, Chapter 4.6, *Comprehensive Organic Synthesis* **1991**, *2*, 1083–1109. ISBN 0-08-040593-2, Pergamon, Oxford, 10196 pages.（综述）
 6.
-7.  Banfi, L., and Riva, R. (2005). *The Passerini Reaction*. Organic
-    Reactions, Vol. 65 L. E. Overman Ed. Wiley. (ISBN 0-471-68260-8)
+7.  Banfi, L., and Riva, R. (2005). *The Passerini Reaction*. Organic Reactions, Vol. 65 L. E. Overman Ed. Wiley. (ISBN 0-471-68260-8)
 8.
 9.
-10. .
-    [doi](https://zh.wikipedia.org/wiki/doi "wikilink"):<span class="reflink plainlinksneverexpand">[10.1002/1521-3765(20000915)6:18\<3321::AID-CHEM3321\>3.0.CO;2-A](http://dx.doi.org/10.1002%2F1521-3765%2820000915%296%3A18%3C3321%3A%3AAID-CHEM3321%3E3.0.CO%3B2-A)</span>.
-11. .
-    [doi](https://zh.wikipedia.org/wiki/doi "wikilink"):<span class="reflink plainlinksneverexpand">[10.1002/1521-3773(20000915)39:18\<3168::AID-ANIE3168\>3.0.CO;2-U](http://dx.doi.org/10.1002%2F1521-3773%2820000915%2939%3A18%3C3168%3A%3AAID-ANIE3168%3E3.0.CO%3B2-U)</span>.
+10. . [doi](https://zh.wikipedia.org/wiki/doi "wikilink"):<span class="reflink plainlinksneverexpand">[10.1002/1521-3765(20000915)6:18\<3321::AID-CHEM3321\>3.0.CO;2-A](http://dx.doi.org/10.1002%2F1521-3765%2820000915%296%3A18%3C3321%3A%3AAID-CHEM3321%3E3.0.CO%3B2-A)</span>.
+11. . [doi](https://zh.wikipedia.org/wiki/doi "wikilink"):<span class="reflink plainlinksneverexpand">[10.1002/1521-3773(20000915)39:18\<3168::AID-ANIE3168\>3.0.CO;2-U](http://dx.doi.org/10.1002%2F1521-3773%2820000915%2939%3A18%3C3168%3A%3AAID-ANIE3168%3E3.0.CO%3B2-U)</span>.
 12.
 13.
 14.

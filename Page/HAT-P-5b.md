@@ -12,8 +12,4 @@
 ## 外部链接
 
   -
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:热木星](https://zh.wikipedia.org/wiki/Category:热木星 "wikilink")
-[Category:2007年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2007年发现的系外行星 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
-[Category:天琴座](https://zh.wikipedia.org/wiki/Category:天琴座 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:热木星](https://zh.wikipedia.org/wiki/Category:热木星 "wikilink") [Category:2007年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2007年发现的系外行星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:天琴座](https://zh.wikipedia.org/wiki/Category:天琴座 "wikilink")

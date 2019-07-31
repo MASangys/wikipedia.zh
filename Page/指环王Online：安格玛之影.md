@@ -1,11 +1,6 @@
-**指环王Online：安格玛之影**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：The
-Lord of the Rings Online: Shadows of
-Angmar，通常缩写为LOTRO或LotRO）是一款运行于[微软](../Page/微软.md "wikilink")[Windows操作系统下的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG），游戏环境建立于[J·R·R·托尔金一系列关于](https://zh.wikipedia.org/wiki/J·R·R·托尔金 "wikilink")[中土大陆作品的](https://zh.wikipedia.org/wiki/中土大陆 "wikilink")[奇幻世界中](https://zh.wikipedia.org/wiki/奇幻 "wikilink")，
-故事发生于《[魔戒](../Page/魔戒.md "wikilink")》的时期。
+**指环王Online：安格玛之影**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：The Lord of the Rings Online: Shadows of Angmar，通常缩写为LOTRO或LotRO）是一款运行于[微软](../Page/微软.md "wikilink")[Windows操作系统下的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG），游戏环境建立于[J·R·R·托尔金一系列关于](https://zh.wikipedia.org/wiki/J·R·R·托尔金 "wikilink")[中土大陆作品的](https://zh.wikipedia.org/wiki/中土大陆 "wikilink")[奇幻世界中](https://zh.wikipedia.org/wiki/奇幻 "wikilink")， 故事发生于《[魔戒](../Page/魔戒.md "wikilink")》的时期。
 
-指环王Online：安格玛之影由[美国](../Page/美国.md "wikilink")[Turbine公司开发](https://zh.wikipedia.org/wiki/Turbine公司 "wikilink")，游戏需要[互联网](../Page/互联网.md "wikilink")连接支持。2007年4月24日，游戏在加拿大、美国、澳大利亚、日本及欧洲开始运营，中国在2007年7月曾进行测试，2009年2月17日由光通通信发展有限公司进行名为“魔戒降临”的[封闭测试](https://zh.wikipedia.org/wiki/封闭测试 "wikilink")。\[1\]
-游戏的第一部资料片[指环王Online：莫里亚矿坑](../Page/指环王Online：莫里亚矿坑.md "wikilink")（The
-Lord of the Rings Online: Mines of Moria）于2008年11月17日发行。
+指环王Online：安格玛之影由[美国](../Page/美国.md "wikilink")[Turbine公司开发](https://zh.wikipedia.org/wiki/Turbine公司 "wikilink")，游戏需要[互联网](../Page/互联网.md "wikilink")连接支持。2007年4月24日，游戏在加拿大、美国、澳大利亚、日本及欧洲开始运营，中国在2007年7月曾进行测试，2009年2月17日由光通通信发展有限公司进行名为“魔戒降临”的[封闭测试](https://zh.wikipedia.org/wiki/封闭测试 "wikilink")。\[1\] 游戏的第一部资料片[指环王Online：莫里亚矿坑](../Page/指环王Online：莫里亚矿坑.md "wikilink")（The Lord of the Rings Online: Mines of Moria）于2008年11月17日发行。
 
 ## 游戏规则
 
@@ -15,16 +10,13 @@ Lord of the Rings Online: Mines of Moria）于2008年11月17日发行。
 
 游戏主线故事即史诗任务由一系列的“卷”组成，完成游戏主线故事的任务称为“章”，每个卷都由数章组成。游戏最初发布的时候有八卷，每次免费升级游戏内容都会追加新的卷，之后共有七个新的免费的内容更新。
 
-在指环王Online中的托尔金中土大陆施放[魔法](../Page/魔法.md "wikilink")与其他的MMORPG，如[魔兽世界](../Page/魔兽世界.md "wikilink")有所不同。在设定中，只有五位“贤者”，但都不是游戏者可以使用控制的。但是，存在一些需要“能量”（相当于魔法值）的主动技能。一些技能的效果如同魔法（如治愈或者向敌人投射火焰），但它们的产生是基于“知识
-”（lore）。\[3\]此外，一些物品及产品可以产生类似魔法的效果。
+在指环王Online中的托尔金中土大陆施放[魔法](../Page/魔法.md "wikilink")与其他的MMORPG，如[魔兽世界](../Page/魔兽世界.md "wikilink")有所不同。在设定中，只有五位“贤者”，但都不是游戏者可以使用控制的。但是，存在一些需要“能量”（相当于魔法值）的主动技能。一些技能的效果如同魔法（如治愈或者向敌人投射火焰），但它们的产生是基于“知识 ”（lore）。\[3\]此外，一些物品及产品可以产生类似魔法的效果。
 
 其他的游戏特色还有快速旅行系统及游戏任务细节跟踪及历史记录。
 
 ### 玩家对战
 
-游戏中的玩家对战（PvP）称为“怪物扮演”或“玩家对战怪物扮演玩家”（PvMP）。\[4\]怪物扮演系统在游戏者角色等级到达10级时开启，游戏者可以扮演
-60级的怪物。怪物扮演者称为creep，有自己的任务、称号及事迹，并与英雄玩家（游戏者角色40级或者以上，称为freep）在[伊顿荒原对战](https://zh.wikipedia.org/wiki/伊顿荒原 "wikilink")，以控制
-5个不同的要塞。当某一方控制了3个前哨，他们就可以进入弗洛矿洞，一个在伊顿荒原下的地下城。前哨是一个小型版本的要塞，如果有治疗者，只需3人即可。
+游戏中的玩家对战（PvP）称为“怪物扮演”或“玩家对战怪物扮演玩家”（PvMP）。\[4\]怪物扮演系统在游戏者角色等级到达10级时开启，游戏者可以扮演 60级的怪物。怪物扮演者称为creep，有自己的任务、称号及事迹，并与英雄玩家（游戏者角色40级或者以上，称为freep）在[伊顿荒原对战](https://zh.wikipedia.org/wiki/伊顿荒原 "wikilink")，以控制 5个不同的要塞。当某一方控制了3个前哨，他们就可以进入弗洛矿洞，一个在伊顿荒原下的地下城。前哨是一个小型版本的要塞，如果有治疗者，只需3人即可。
 
 怪物扮演者及英雄玩家可在伊顿荒原中击败对方阵营人物获得恶名及声望。对于英雄玩家，有从跑龙套到统帅共15个声望可以获得；对于怪物扮演者，则也有从追踪者到大王15个恶名。获得声望／恶名可以让游戏者购买特定的装备及护甲（英雄玩家）或士气、护甲及能量（怪物扮演者）。
 
@@ -78,19 +70,9 @@ Lord of the Rings Online: Mines of Moria）于2008年11月17日发行。
   - 韩国指环王Online官方[网站](https://web.archive.org/web/20090217201317/http://lotro.hangame.com/)
   - 俄罗斯指环王Online官方[网站](https://web.archive.org/web/20090218175923/http://www.lotro-russia.com/)
   - 中国指环王Online官方[网站](https://web.archive.org/web/20090218160917/http://lotro-china.com/)
-  - [Lorebook –
-    官方wiki](https://web.archive.org/web/20080906152425/http://lorebook.lotro.com/)
+  - [Lorebook – 官方wiki](https://web.archive.org/web/20080906152425/http://lorebook.lotro.com/)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:魔戒](https://zh.wikipedia.org/wiki/Category:魔戒 "wikilink")
-[Category:Codemasters遊戲](https://zh.wikipedia.org/wiki/Category:Codemasters遊戲 "wikilink")
-[Category:華納兄弟互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:華納兄弟互動娛樂遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Games_for_Windows认证游戏](https://zh.wikipedia.org/wiki/Category:Games_for_Windows认证游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:小說改編電子遊戲](https://zh.wikipedia.org/wiki/Category:小說改編電子遊戲 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:魔戒](https://zh.wikipedia.org/wiki/Category:魔戒 "wikilink") [Category:Codemasters遊戲](https://zh.wikipedia.org/wiki/Category:Codemasters遊戲 "wikilink") [Category:華納兄弟互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:華納兄弟互動娛樂遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Games_for_Windows认证游戏](https://zh.wikipedia.org/wiki/Category:Games_for_Windows认证游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:小說改編電子遊戲](https://zh.wikipedia.org/wiki/Category:小說改編電子遊戲 "wikilink")
 
 1.
 2.

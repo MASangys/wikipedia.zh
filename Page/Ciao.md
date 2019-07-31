@@ -2,24 +2,15 @@
 
 ## 目前連載作品
 
-  - [ボーイフレンド](https://zh.wikipedia.org/wiki/ボーイフレンド "wikilink")
-    [森田友希](https://zh.wikipedia.org/wiki/森田友希 "wikilink")
-  - [こっちむいて\!みいこ](https://zh.wikipedia.org/wiki/こっちむいて!みいこ "wikilink")
-    [おのえりこ](https://zh.wikipedia.org/wiki/おのえりこ "wikilink")
-  - [12歲。](../Page/12歲。.md "wikilink")
-    [米田菜穗](../Page/米田菜穗.md "wikilink")
-  - [Honey Days](https://zh.wikipedia.org/wiki/Honey_Days "wikilink")
-    [八神千歲](../Page/八神千歲.md "wikilink")
-  - [ひかりオンステージ](https://zh.wikipedia.org/wiki/ひかりオンステージ "wikilink")
-    [中原杏](https://zh.wikipedia.org/wiki/中原杏 "wikilink")
-  - [ゲキカワデビル](https://zh.wikipedia.org/wiki/ゲキカワデビル "wikilink")
-    [藪內優](../Page/藪內優.md "wikilink")
-  - [世界末日戀上你](https://zh.wikipedia.org/wiki/世界末日戀上你 "wikilink")
-    [能登山圭子](https://zh.wikipedia.org/wiki/能登山圭子 "wikilink")
-  - [閃亮和美妙頻道](https://zh.wikipedia.org/wiki/閃亮和美妙頻道 "wikilink")
-    [達永羊](https://zh.wikipedia.org/wiki/達永羊 "wikilink")
-  - [偶像活動Friends\!](https://zh.wikipedia.org/wiki/偶像活動Friends! "wikilink")
-    [小森千尋](https://zh.wikipedia.org/wiki/小森千尋 "wikilink")
+  - [ボーイフレンド](https://zh.wikipedia.org/wiki/ボーイフレンド "wikilink") [森田友希](https://zh.wikipedia.org/wiki/森田友希 "wikilink")
+  - [こっちむいて\!みいこ](https://zh.wikipedia.org/wiki/こっちむいて!みいこ "wikilink") [おのえりこ](https://zh.wikipedia.org/wiki/おのえりこ "wikilink")
+  - [12歲。](../Page/12歲。.md "wikilink") [米田菜穗](../Page/米田菜穗.md "wikilink")
+  - [Honey Days](https://zh.wikipedia.org/wiki/Honey_Days "wikilink") [八神千歲](../Page/八神千歲.md "wikilink")
+  - [ひかりオンステージ](https://zh.wikipedia.org/wiki/ひかりオンステージ "wikilink") [中原杏](https://zh.wikipedia.org/wiki/中原杏 "wikilink")
+  - [ゲキカワデビル](https://zh.wikipedia.org/wiki/ゲキカワデビル "wikilink") [藪內優](../Page/藪內優.md "wikilink")
+  - [世界末日戀上你](https://zh.wikipedia.org/wiki/世界末日戀上你 "wikilink") [能登山圭子](https://zh.wikipedia.org/wiki/能登山圭子 "wikilink")
+  - [閃亮和美妙頻道](https://zh.wikipedia.org/wiki/閃亮和美妙頻道 "wikilink") [達永羊](https://zh.wikipedia.org/wiki/達永羊 "wikilink")
+  - [偶像活動Friends\!](https://zh.wikipedia.org/wiki/偶像活動Friends! "wikilink") [小森千尋](https://zh.wikipedia.org/wiki/小森千尋 "wikilink")
 
 ## 過去連載作品
 
@@ -35,8 +26,7 @@
   - [飛天少女豬](../Page/飛天少女豬.md "wikilink")
   - [阿爾卑斯玫瑰 (漫畫)](../Page/阿爾卑斯玫瑰_\(漫畫\).md "wikilink")
   - [戀愛占卜師](../Page/戀愛占卜師.md "wikilink")
-  - [你是我的小宇宙](https://zh.wikipedia.org/wiki/你是我的小宇宙 "wikilink")
-    [能登山圭子](https://zh.wikipedia.org/wiki/能登山圭子 "wikilink")
+  - [你是我的小宇宙](https://zh.wikipedia.org/wiki/你是我的小宇宙 "wikilink") [能登山圭子](https://zh.wikipedia.org/wiki/能登山圭子 "wikilink")
 
 ## 發行數
 
@@ -57,11 +47,7 @@
 
   - [公式網站](http://www.ciao.shogakukan.co.jp/index.html)
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
-[Category:Ciao](https://zh.wikipedia.org/wiki/Category:Ciao "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink") [Category:Ciao](https://zh.wikipedia.org/wiki/Category:Ciao "wikilink")
 
 1.  『雑誌新聞総かたろぐ　1979年版』
 

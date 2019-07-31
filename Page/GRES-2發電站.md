@@ -7,8 +7,4 @@
   - [埃基巴斯圖兹](https://zh.wikipedia.org/wiki/埃基巴斯圖兹 "wikilink")
   - [煙囪](https://zh.wikipedia.org/wiki/煙囪 "wikilink")
 
-[Category:建筑之最](https://zh.wikipedia.org/wiki/Category:建筑之最 "wikilink")
-[Category:哈薩克斯坦建築物](https://zh.wikipedia.org/wiki/Category:哈薩克斯坦建築物 "wikilink")
-[Category:哈萨克斯坦的世界之最](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦的世界之最 "wikilink")
-[Category:煙囪](https://zh.wikipedia.org/wiki/Category:煙囪 "wikilink")
-[Category:各國發電廠](https://zh.wikipedia.org/wiki/Category:各國發電廠 "wikilink")
+[Category:建筑之最](https://zh.wikipedia.org/wiki/Category:建筑之最 "wikilink") [Category:哈薩克斯坦建築物](https://zh.wikipedia.org/wiki/Category:哈薩克斯坦建築物 "wikilink") [Category:哈萨克斯坦的世界之最](https://zh.wikipedia.org/wiki/Category:哈萨克斯坦的世界之最 "wikilink") [Category:煙囪](https://zh.wikipedia.org/wiki/Category:煙囪 "wikilink") [Category:各國發電廠](https://zh.wikipedia.org/wiki/Category:各國發電廠 "wikilink")

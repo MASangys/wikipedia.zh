@@ -1,5 +1,4 @@
-**MBC週末連續劇**（
-）是[MBC從](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")1977年7月16日開始每逢星期六和星期日晚間播出。2017年11月12日開始改在星期日晚間播出。
+**MBC週末連續劇**（ ）是[MBC從](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")1977年7月16日開始每逢星期六和星期日晚間播出。2017年11月12日開始改在星期日晚間播出。
 
 ## 播出時間變更
 
@@ -1003,8 +1002,4 @@
   - [SBS週末劇場](https://zh.wikipedia.org/wiki/SBS週末劇場 "wikilink")
   - [朝鮮放送周末連續劇](https://zh.wikipedia.org/wiki/朝鮮放送周末連續劇 "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:MBC週末連續劇](https://zh.wikipedia.org/wiki/Category:MBC週末連續劇 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:MBC週末連續劇](https://zh.wikipedia.org/wiki/Category:MBC週末連續劇 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

@@ -4,8 +4,7 @@
 
 ### 主要人物
 
-  - 宇佐美啟（29） - [玉木宏](../Page/玉木宏.md "wikilink")
-    饰演（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
+  - 宇佐美啟（29） - [玉木宏](../Page/玉木宏.md "wikilink") 饰演（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
 
 <!-- end list -->
 
@@ -16,8 +15,7 @@
 
 <!-- end list -->
 
-  - 逢澤愛瑠（25） - [香里奈](../Page/香里奈.md "wikilink")
-    饰演（香港配音：[陳凱婷](../Page/陳凱婷.md "wikilink")）
+  - 逢澤愛瑠（25） - [香里奈](../Page/香里奈.md "wikilink") 饰演（香港配音：[陳凱婷](../Page/陳凱婷.md "wikilink")）
 
 <!-- end list -->
 
@@ -28,8 +26,7 @@
 
 <!-- end list -->
 
-  - 世良旺次郎（26） - [松田翔太](../Page/松田翔太.md "wikilink")
-    饰演（香港配音：[李致林](../Page/李致林.md "wikilink")）
+  - 世良旺次郎（26） - [松田翔太](../Page/松田翔太.md "wikilink") 饰演（香港配音：[李致林](../Page/李致林.md "wikilink")）
 
 <!-- end list -->
 
@@ -41,8 +38,7 @@
 
 <!-- end list -->
 
-  - 大石諭吉（29） - [DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")
-    饰演（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
+  - 大石諭吉（29） - [DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink") 饰演（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
 
 <!-- end list -->
 
@@ -52,8 +48,7 @@
 
 <!-- end list -->
 
-  - 早川海里（19→20） - [吉高由里子](../Page/吉高由里子.md "wikilink")
-    饰演（香港配音：[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
+  - 早川海里（19→20） - [吉高由里子](../Page/吉高由里子.md "wikilink") 饰演（香港配音：[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
 
 <!-- end list -->
 
@@ -65,8 +60,7 @@
 
 <!-- end list -->
 
-  - 上條玲子（34） - [小島聖](https://zh.wikipedia.org/wiki/小島聖 "wikilink")
-    饰演（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
+  - 上條玲子（34） - [小島聖](https://zh.wikipedia.org/wiki/小島聖 "wikilink") 饰演（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
 
 <!-- end list -->
 
@@ -76,8 +70,7 @@
 
 <!-- end list -->
 
-  - 香川芽衣（25） - [貫地谷栞](../Page/貫地谷栞.md "wikilink")
-    饰演（香港配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
+  - 香川芽衣（25） - [貫地谷栞](../Page/貫地谷栞.md "wikilink") 饰演（香港配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
 
 <!-- end list -->
 
@@ -88,8 +81,7 @@
 
 <!-- end list -->
 
-  - 菊田正人（32） - [谷原章介](../Page/谷原章介.md "wikilink")
-    饰演（香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
+  - 菊田正人（32） - [谷原章介](../Page/谷原章介.md "wikilink") 饰演（香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
 
 <!-- end list -->
 
@@ -99,18 +91,13 @@
 
 ### 其他
 
-  - 香川浩介 - [野村祐人](https://zh.wikipedia.org/wiki/野村祐人 "wikilink")
-    饰演（第1話、第3話～第6話、第9話）
-  - 早川毅 - [美木良介](https://zh.wikipedia.org/wiki/美木良介 "wikilink")
-    饰演（第3話、第7話）
-  - 電玩中心工作人員 - [蒲生純一](https://zh.wikipedia.org/wiki/蒲生純一 "wikilink")
-    饰演（第3話）
+  - 香川浩介 - [野村祐人](https://zh.wikipedia.org/wiki/野村祐人 "wikilink") 饰演（第1話、第3話～第6話、第9話）
+  - 早川毅 - [美木良介](https://zh.wikipedia.org/wiki/美木良介 "wikilink") 饰演（第3話、第7話）
+  - 電玩中心工作人員 - [蒲生純一](https://zh.wikipedia.org/wiki/蒲生純一 "wikilink") 饰演（第3話）
   - 瀧川陽治 - [大東俊介](https://zh.wikipedia.org/wiki/大東俊介 "wikilink") 饰演（第4話）
   - 上條裕也 - [尾美利德](../Page/尾美利德.md "wikilink") 饰演（第6話）
-  - 龜井五郎 - [袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")
-    饰演（第7話～第9話）
-  - 龜井美惠 - [梅宮萬紗子](https://zh.wikipedia.org/wiki/梅宮萬紗子 "wikilink")
-    饰演（第9話）
+  - 龜井五郎 - [袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink") 饰演（第7話～第9話）
+  - 龜井美惠 - [梅宮萬紗子](https://zh.wikipedia.org/wiki/梅宮萬紗子 "wikilink") 饰演（第9話）
 
 ## 製作人員
 
@@ -122,13 +109,7 @@
 
 ## 劇情概要
 
-剛遷進公寓頂層的宇佐美啟是個上班族。憑著跟大老闆女兒相戀的關係在公司扶搖直上，但能力上根本不能應付。同層另外三個單位，住的分別是玩世不恭的攝影師世良旺次郎、當翻譯工作的逢澤愛瑠和醫生菊田正人。四人剛好被困在升降機中，結果友好起來。宇佐美的感情並未順利，工作以外，女友香川芽衣推卻求婚。菊田突然提出「交換戀人」的計劃，四人各帶一異性再行交換「試愛」，希望各人可以找到或了解自己的最愛。宇佐美本來極度抗拒，但誰知事情被芽衣知道後堅持加入。結果為證明自己是最適合芽衣的人，宇佐美被迫加入。
-旺次郎帶來願意參與的是香艷美女上-{条}-玲子。
-愛瑠的男朋友是死纏爛打但自悲但又自以為有錢可解決所有問題的大石諭吉。菊田帶來的則是天才畫壇明日之星早川海里。海里自稱見到死神，從死神得到靈感創作，但20歲生日後一定要死。
-結果宇佐美跟諭吉結成同樣悲觀的組合「失運孖寶」， 玲子原來是有夫之婦，後來公佈懷孕的消息，但被丈夫發現她與四人相好，旺次郎則被海里吸引。
-隨著海里20歲生日將至，雖然海里答應旺次郎不再尋死，但實際上生日翌日便失蹤，
-諭吉發覺芽衣感興趣的人是自己，宇佐美決定辭職競選議員，
-愛瑠在外面結識了其他男子但好像忘不了某個人。
+剛遷進公寓頂層的宇佐美啟是個上班族。憑著跟大老闆女兒相戀的關係在公司扶搖直上，但能力上根本不能應付。同層另外三個單位，住的分別是玩世不恭的攝影師世良旺次郎、當翻譯工作的逢澤愛瑠和醫生菊田正人。四人剛好被困在升降機中，結果友好起來。宇佐美的感情並未順利，工作以外，女友香川芽衣推卻求婚。菊田突然提出「交換戀人」的計劃，四人各帶一異性再行交換「試愛」，希望各人可以找到或了解自己的最愛。宇佐美本來極度抗拒，但誰知事情被芽衣知道後堅持加入。結果為證明自己是最適合芽衣的人，宇佐美被迫加入。 旺次郎帶來願意參與的是香艷美女上-{条}-玲子。 愛瑠的男朋友是死纏爛打但自悲但又自以為有錢可解決所有問題的大石諭吉。菊田帶來的則是天才畫壇明日之星早川海里。海里自稱見到死神，從死神得到靈感創作，但20歲生日後一定要死。 結果宇佐美跟諭吉結成同樣悲觀的組合「失運孖寶」， 玲子原來是有夫之婦，後來公佈懷孕的消息，但被丈夫發現她與四人相好，旺次郎則被海里吸引。 隨著海里20歲生日將至，雖然海里答應旺次郎不再尋死，但實際上生日翌日便失蹤， 諭吉發覺芽衣感興趣的人是自己，宇佐美決定辭職競選議員， 愛瑠在外面結識了其他男子但好像忘不了某個人。
 
 ## 播放日期、副題及收視率
 
@@ -227,8 +208,7 @@
 
 ## 音乐
 
-  - 主題曲 - 「Fantasy」，[Earth, Wind &
-    Fire作品](https://zh.wikipedia.org/wiki/Earth,_Wind_&_Fire "wikilink")
+  - 主題曲 - 「Fantasy」，[Earth, Wind & Fire作品](https://zh.wikipedia.org/wiki/Earth,_Wind_&_Fire "wikilink")
   - 插曲 - 「ETERNAL FLAME」，[The Bangles作品](../Page/手鐲合唱團.md "wikilink")
 
 ## 作品的變遷
@@ -238,10 +218,4 @@
   - [TBS金曜劇場《Love Shuffle》官方網站](http://www.tbs.co.jp/loveshuffle/)
   - [TVB《愛·洗牌》官方網站](http://programme.tvb.com/drama/loveshuffle)
 
-[Category:TBS週五連續劇](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇 "wikilink")
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:野島伸司劇本作品](https://zh.wikipedia.org/wiki/Category:野島伸司劇本作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:TBS週五連續劇](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇 "wikilink") [Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:野島伸司劇本作品](https://zh.wikipedia.org/wiki/Category:野島伸司劇本作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")

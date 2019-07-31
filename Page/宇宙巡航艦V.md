@@ -1,10 +1,8 @@
-是一款日本遊戲公司[Treasure所開發](https://zh.wikipedia.org/wiki/:en:Treasure_\(company\) "wikilink")，由[科樂美發行之射擊遊戲](../Page/科樂美.md "wikilink")，屬於橫向捲軸射擊遊戲《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》的作品，於2004年7月22日在日本上市。本作是第一部宇宙巡航艦的本傳作品直接跳過街機而發行於家用平台上之遊戲，並於遊戲中加入了些過去家用版作品的要素。
+是一款日本遊戲公司[Treasure所開發](https://zh.wikipedia.org/wiki/:en:Treasure_\(company\) "wikilink")，由[科樂美](../Page/科樂美.md "wikilink")發行之射擊遊戲，屬於橫向捲軸射擊遊戲《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》的作品，於2004年7月22日在日本上市。本作是第一部宇宙巡航艦的本傳作品直接跳過街機而發行於家用平台上之遊戲，並於遊戲中加入了些過去家用版作品的要素。
 
 ## 劇情
 
-Gradius曆8010年以Big Core Mk-I Rev 1.2及大量Zeros
-Force所構成的新生Bacterion軍團突然自Gradius星軌道上脫離超空間航行，並對[軌道宇宙站進行奇襲](https://zh.wikipedia.org/wiki/太空站 "wikilink")，造成嚴重打擊。Gradius軍立即開始進行反擊，並對超時空戰鬥機Vic
-Viper T-301下達緊急出動命令。
+Gradius曆8010年以Big Core Mk-I Rev 1.2及大量Zeros Force所構成的新生Bacterion軍團突然自Gradius星軌道上脫離超空間航行，並對[軌道宇宙站進行奇襲](https://zh.wikipedia.org/wiki/太空站 "wikilink")，造成嚴重打擊。Gradius軍立即開始進行反擊，並對超時空戰鬥機Vic Viper T-301下達緊急出動命令。
 
 ## 遊戲系統
 
@@ -42,9 +40,7 @@ Viper T-301下達緊急出動命令。
 <!-- end list -->
 
   -
-    子機與自機上下一字型排開，按住子機操作鍵可以自由變換各子機之間的距離。除了固定式以外的子機在不使用子機操作鍵的時候都與過去的作品一樣，會跟著自機移動。源於《高弗的野望二部曲》
-    (GOFER's Ambition Episode II)中的固定式(Fixed)，並導入了[Thunder
-    Cross的四架子機可變稱行距的操作](https://zh.wikipedia.org/wiki/:en:Thunder_Cross_\(arcade_game\) "wikilink")。
+    子機與自機上下一字型排開，按住子機操作鍵可以自由變換各子機之間的距離。除了固定式以外的子機在不使用子機操作鍵的時候都與過去的作品一樣，會跟著自機移動。源於《高弗的野望二部曲》 (GOFER's Ambition Episode II)中的固定式(Fixed)，並導入了[Thunder Cross的四架子機可變稱行距的操作](https://zh.wikipedia.org/wiki/:en:Thunder_Cross_\(arcade_game\) "wikilink")。
 
 <!-- end list -->
 
@@ -218,8 +214,7 @@ Viper T-301下達緊急出動命令。
 <!-- end list -->
 
   -
-    兩發子彈從自機前方成45度角發射。來自《[宇宙巡航艦Ⅲ](https://zh.wikipedia.org/wiki/宇宙巡航艦Ⅲ_-從傳說到神話- "wikilink")》（Gradius
-    III）武器編輯功能中的同名武器，但本遊戲中並無二段強化。
+    兩發子彈從自機前方成45度角發射。來自《[宇宙巡航艦Ⅲ](https://zh.wikipedia.org/wiki/宇宙巡航艦Ⅲ_-從傳說到神話- "wikilink")》（Gradius III）武器編輯功能中的同名武器，但本遊戲中並無二段強化。
 
 *雷射武器*
 
@@ -385,9 +380,7 @@ Last Enemy</p></td>
 <!-- end list -->
 
   - 本作的最後關卡並非以傳統的要塞關卡作為結束，而是追加了另一個關卡 ─ 第二關的敵方母艦複本。
-      - 在第二關開始不久，出現過去系列作品罕見的過場劇情畫面：敵方航空母艦與另一部VIC VIPER T-301由另一空間出現，該VIC
-        VIPER
-        T-301呼叫主角要和他由不同路徑攻入母艦，同時破壞兩個核心，主角便由後方下路攻入母艦，破壞下方核心，然後逃出，此為最後關卡的伏筆。
+      - 在第二關開始不久，出現過去系列作品罕見的過場劇情畫面：敵方航空母艦與另一部VIC VIPER T-301由另一空間出現，該VIC VIPER T-301呼叫主角要和他由不同路徑攻入母艦，同時破壞兩個核心，主角便由後方下路攻入母艦，破壞下方核心，然後逃出，此為最後關卡的伏筆。
       - 到第七關抵達母艦主入口時，主角發覺無法用任何武器破壞，啟動電腦掃瞄後，才知道要毀滅該母艦，必須以兩部戰機在母艦後方以不同路徑攻入，同時破壞兩個核心才能擊破。這時主角啟動時空穿梭系統，將自己與敵方母艦帶回第二關的場景，然後由後方上路攻入母艦，與第二關的玩者（這時由電腦控制並重現玩家的操作）一同攻破母艦，才將其毀滅。
 
 <!-- end list -->
@@ -397,12 +390,6 @@ Last Enemy</p></td>
 ## 外部連結
 
   - [宇宙巡航艦Ⅴ官方網站](http://www.konami.jp/gs/game/gra5/) (日文)
-  - [宇宙巡航艦Ⅴ北美版官方網站](https://web.archive.org/web/20080419113629/http://www.konami.com/Konami/ctl3810/cp20110/si1588404/cl1/gradius_v)
-    (英文)
+  - [宇宙巡航艦Ⅴ北美版官方網站](https://web.archive.org/web/20080419113629/http://www.konami.com/Konami/ctl3810/cp20110/si1588404/cl1/gradius_v) (英文)
 
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:宇宙巡航艦系列電子遊戲](https://zh.wikipedia.org/wiki/Category:宇宙巡航艦系列電子遊戲 "wikilink")
-[Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink")
-[Category:Treasure_(公司)游戏](https://zh.wikipedia.org/wiki/Category:Treasure_\(公司\)游戏 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:宇宙巡航艦系列電子遊戲](https://zh.wikipedia.org/wiki/Category:宇宙巡航艦系列電子遊戲 "wikilink") [Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink") [Category:Treasure_(公司)游戏](https://zh.wikipedia.org/wiki/Category:Treasure_\(公司\)游戏 "wikilink")

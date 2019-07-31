@@ -1,5 +1,4 @@
-**[OL蔡桃桂](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")**為網路漫畫家[RIVER的](https://zh.wikipedia.org/wiki/RIVER "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品\[1\]，於2003年開始於[Yahoo\!奇摩連載](https://zh.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")，單行本由[台灣東販](../Page/台灣東販.md "wikilink")發售\[2\]。內容敘述主角蔡桃桂在大間公司工作中的各種有趣事情。
-值得一提的是，裡面所有的人物名稱多數都和食物有密切的關係（如*蔡桃桂*即台語[蘿蔔糕](../Page/蘿蔔糕.md "wikilink")的念法）
+**[OL蔡桃桂](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")**為網路漫畫家[RIVER的](https://zh.wikipedia.org/wiki/RIVER "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品\[1\]，於2003年開始於[Yahoo\!奇摩連載](https://zh.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")，單行本由[台灣東販](../Page/台灣東販.md "wikilink")發售\[2\]。內容敘述主角蔡桃桂在大間公司工作中的各種有趣事情。 值得一提的是，裡面所有的人物名稱多數都和食物有密切的關係（如*蔡桃桂*即台語[蘿蔔糕](../Page/蘿蔔糕.md "wikilink")的念法）
 
 ## 登場人物
 
@@ -88,14 +87,7 @@
   - [RIVER新浪部落](http://blog.sina.com.tw/river/)
   - [OL蔡桃桂相關人物介紹](https://archive.is/20080913120929/http://homepage11.seed.net.tw/web@1/timmyse2/543/OL_2006/OL_2008_07.htm)
 
-[Category:漫畫小作品](https://zh.wikipedia.org/wiki/Category:漫畫小作品 "wikilink")
-[Category:臺灣漫畫作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫作品 "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
-[Category:職場題材作品](https://zh.wikipedia.org/wiki/Category:職場題材作品 "wikilink")
-[Category:職場題材漫畫](https://zh.wikipedia.org/wiki/Category:職場題材漫畫 "wikilink")
-[Category:臺灣勞工題材作品](https://zh.wikipedia.org/wiki/Category:臺灣勞工題材作品 "wikilink")
-[Category:廖见河](https://zh.wikipedia.org/wiki/Category:廖见河 "wikilink")
+[Category:漫畫小作品](https://zh.wikipedia.org/wiki/Category:漫畫小作品 "wikilink") [Category:臺灣漫畫作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫作品 "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:職場題材作品](https://zh.wikipedia.org/wiki/Category:職場題材作品 "wikilink") [Category:職場題材漫畫](https://zh.wikipedia.org/wiki/Category:職場題材漫畫 "wikilink") [Category:臺灣勞工題材作品](https://zh.wikipedia.org/wiki/Category:臺灣勞工題材作品 "wikilink") [Category:廖见河](https://zh.wikipedia.org/wiki/Category:廖见河 "wikilink")
 
 1.  [如果喵星人會說話？手機漫畫《我的社長大人》](http://www.niusnews.com/=P2sieij8)niusnews
 2.  [OL蔡桃桂3](http://www.books.com.tw/products/0010426028)[博客來](https://zh.wikipedia.org/wiki/博客來 "wikilink")

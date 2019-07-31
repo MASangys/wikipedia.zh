@@ -1,10 +1,8 @@
-《**古靈精探B**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：，前名《古靈精探II》），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。此劇為[2009無綫節目巡禮劇集之一及](../Page/2009無綫節目巡禮.md "wikilink")2009無綫節目精選第二季劇集之一，由[郭晉安及](../Page/郭晉安.md "wikilink")[郭羨妮領銜主演](../Page/郭羨妮.md "wikilink")，並由[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[蕭正楠及](../Page/蕭正楠.md "wikilink")[郭政鴻聯合主演](../Page/郭政鴻.md "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。本劇為《[古靈精探](../Page/古靈精探.md "wikilink")》續集，劇名中的“B”既有第二辑的意思，也有「Baby」的意思。此劇選用跟上輯一樣的主題曲音樂，只是改用新的歌詞，由男主角[郭晉安主唱](../Page/郭晉安.md "wikilink")。2012年11月8日開始於翡翠台星期一至五中午劇集時段重播。
+《**古靈精探B**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：，前名《古靈精探II》），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。此劇為[2009無綫節目巡禮](../Page/2009無綫節目巡禮.md "wikilink")劇集之一及2009無綫節目精選第二季劇集之一，由[郭晉安](../Page/郭晉安.md "wikilink")及[郭羨妮](../Page/郭羨妮.md "wikilink")領銜主演，並由[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")及[郭政鴻](../Page/郭政鴻.md "wikilink")聯合主演，監製[關永忠](../Page/關永忠.md "wikilink")。本劇為《[古靈精探](../Page/古靈精探.md "wikilink")》續集，劇名中的“B”既有第二辑的意思，也有「Baby」的意思。此劇選用跟上輯一樣的主題曲音樂，只是改用新的歌詞，由男主角[郭晉安](../Page/郭晉安.md "wikilink")主唱。2012年11月8日開始於翡翠台星期一至五中午劇集時段重播。
 
 ## 小資料
 
-  - 他們所屬部門 **D.I.E.** 全名由第一輯使用的**Death** Investigation
-    Extension，改為**Detective** Investigation
-    Extension，中文名稱則維持**特別兇案調查分部**。名稱改動的原因不明。
+  - 他們所屬部門 **D.I.E.** 全名由第一輯使用的**Death** Investigation Extension，改為**Detective** Investigation Extension，中文名稱則維持**特別兇案調查分部**。名稱改動的原因不明。
 
 ## 演員表
 
@@ -249,8 +247,8 @@ Anastasia</strong></p></td>
 駱斌之外甥<br />
 甄向榮、甄向華同父異母之兄，與他們不和<br />
 患有百合花<a href="https://zh.wikipedia.org/wiki/花粉過敏症" title="wikilink">花粉過敏症</a><br />
-於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>24集刺殺甄向榮<br />
-於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>25集被捕<br />
+於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探</a>第24集刺殺甄向榮<br />
+於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探</a>第25集被捕<br />
 於第23集被甄向華要求通知駱斌在甄國富棺材底層加暗格助其逃走，卻在保釋奔喪時遭甄向華用百合花粉引發花粉過敏症死亡</p></td>
 <td><p><strong>Roy</strong></p></td>
 </tr>
@@ -717,7 +715,7 @@ Anastasia</strong></p></td>
 <td><p>趙木揚</p></td>
 <td><p>趙敏敏之兄<br />
 歡婆之孫兒<br />
-三年前目擊陳青森偷運<a href="../Page/氯胺酮.md" title="wikilink">氯胺酮被殺</a><br />
+三年前目擊陳青森偷運<a href="../Page/氯胺酮.md" title="wikilink">氯胺酮</a>被殺<br />
 三年前被人發現伏屍於貓妖石前</p></td>
 <td></td>
 </tr>
@@ -1154,8 +1152,8 @@ May Man</strong></p></td>
 <td><p><a href="../Page/黃澤鋒.md" title="wikilink">黃澤鋒</a></p></td>
 <td><p><strong>甄向光</strong></p></td>
 <td><p>患有百合花<a href="https://zh.wikipedia.org/wiki/花粉過敏症" title="wikilink">花粉過敏症</a><br />
-於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>24集刺殺甄向榮<br />
-於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>25集被捕<br />
+於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探</a>第24集刺殺甄向榮<br />
+於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探</a>第25集被捕<br />
 於第23集被甄向華要求通知駱斌在甄國富棺材底層加暗格助其逃走，卻在保釋奔喪時遭甄向華用百合花粉引發花粉過敏症死亡<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#甄家" title="wikilink">甄家</a></strong></p></td>
 <td><p>Roy</p></td>
@@ -1181,7 +1179,7 @@ May Man</strong></p></td>
 <td><p>趙炳坤</p></td>
 <td><p>十年前輪姦吳彩妮之一<br />
 唯一一個知道甄向榮殺害陳金勝的人，並對甄向榮進行勒索<br />
-於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>22集時遭甄向榮刺殺身亡<br />
+於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探</a>第22集時遭甄向榮刺殺身亡<br />
 已去世<br />
 於第25集在-{于}-家安的超能力片段出現<br />
 參見<strong><a href="../Page/古靈精探.md" title="wikilink">古靈精探</a></strong></p></td>
@@ -1593,7 +1591,7 @@ Wendy之上司<br />
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |            |                                                     |                                                     |                                                     |         |
 | ------ | ---------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ------- |
@@ -1621,40 +1619,30 @@ Wendy之上司<br />
 
 ## 外部連結
 
-  - [《古靈精探B》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222160011/http://gotv.tvb.com/programme/102436/151467/)
+  - [《古靈精探B》 GOTV 第1集重溫](https://web.archive.org/web/20140222160011/http://gotv.tvb.com/programme/102436/151467/)
 
   -
   -
 ## 記事
 
-  - 2008年10月14日：[郭晉安與](../Page/郭晉安.md "wikilink")[郭羨妮為此劇拍攝](../Page/郭羨妮.md "wikilink")2009年節目巡禮。
-  - 2008年10月27日12:30：此劇於[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠灰位舉行試造型記者會](../Page/電視廣播城.md "wikilink")。
+  - 2008年10月14日：[郭晉安](../Page/郭晉安.md "wikilink")與[郭羨妮](../Page/郭羨妮.md "wikilink")為此劇拍攝2009年節目巡禮。
+  - 2008年10月27日12:30：此劇於[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠灰位舉行試造型記者會。
   - 2008年12月2日15:00：此劇於在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")15廠舉行開鏡拜神。
-  - 2009年2月5日：眾演員及台前幕後之工作人員晚上於[尖沙咀參與此劇之煞科宴](../Page/尖沙咀.md "wikilink")。
+  - 2009年2月5日：眾演員及台前幕後之工作人員晚上於[尖沙咀](../Page/尖沙咀.md "wikilink")參與此劇之煞科宴。
   - 2009年8月16日：舉行《古靈精探B》之「誰是兇手」宣傳活動。
   - 2009年8月27日：舉行《古靈精探B》之「蛛絲馬跡對對碰」宣傳活動。
 
 ## 電視節目的變遷
 
 |align="center" colspan="5"|[畢打自己人](../Page/畢打自己人.md "wikilink")
-2008年10月20日-2010年2月12日 |- |align="center"
-colspan="3"|[絕代商驕](../Page/絕代商驕.md "wikilink")
+2008年10月20日-2010年2月12日 |- |align="center" colspan="3"|[絕代商驕](../Page/絕代商驕.md "wikilink")
 \-9月5日 |align="center" colspan="2"|[有營煮婦](../Page/有營煮婦.md "wikilink")
 9月7日- |- |align="center" colspan="1"|**上一套：**
 [烈火雄心3](../Page/烈火雄心3.md "wikilink")
-\-8月15日 |align="center"
-colspan="3"|**翡翠台／高清翡翠台第三綫劇集（[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第三線劇集 "wikilink")）**
+\-8月15日 |align="center" colspan="3"|**翡翠台／高清翡翠台第三綫劇集（[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第三線劇集 "wikilink")）**
 **古靈精探B**
 8月18日-9月19日 |align="center" colspan="1"|**下一套：**
 [蔡鍔與小鳳仙](https://zh.wikipedia.org/wiki/蔡鍔與小鳳仙 "wikilink")
 9月21日-
 
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:2009年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2009年無綫電視劇集 "wikilink")
-[Category:2009年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2009年AOD電視劇集 "wikilink")
-[Category:犯罪题材作品](https://zh.wikipedia.org/wiki/Category:犯罪题材作品 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:2009無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2009無綫節目巡禮劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:奇幻電視影集](https://zh.wikipedia.org/wiki/Category:奇幻電視影集 "wikilink")
+[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:2009年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2009年無綫電視劇集 "wikilink") [Category:2009年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2009年AOD電視劇集 "wikilink") [Category:犯罪题材作品](https://zh.wikipedia.org/wiki/Category:犯罪题材作品 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:2009無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2009無綫節目巡禮劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:奇幻電視影集](https://zh.wikipedia.org/wiki/Category:奇幻電視影集 "wikilink")

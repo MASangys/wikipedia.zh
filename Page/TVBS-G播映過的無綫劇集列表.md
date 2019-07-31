@@ -123,5 +123,4 @@
 
 ## 參見
 
-[Category:台灣電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:台灣電視台電視劇列表 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
+[Category:台灣電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:台灣電視台電視劇列表 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")

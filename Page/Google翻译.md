@@ -8,11 +8,9 @@
 
 Google翻譯提供即時翻譯功能（即時輸入即時翻譯），使用者可以在左邊的輸入欄位輸入文字，翻譯結果會即時在右邊的結果框顯示。將鼠標移到翻譯結果文字上可以看到其對應的原文。此外，Google翻譯亦提供朗讀功能（包括原文和譯文），使用者亦可查看[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")[羅馬拼音](https://zh.wikipedia.org/wiki/羅馬拼音 "wikilink")、[漢字的](https://zh.wikipedia.org/wiki/漢字 "wikilink")[漢語拼音](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")，甚至[韓文拼音等等](https://zh.wikipedia.org/wiki/韓文 "wikilink")，功能可算全面。
 
-與其他自動翻譯工具類似，Google翻譯亦有其自身功能侷限。雖然用戶可以通過其幫助來大致理解以外文書寫的文章大意，但Google翻譯服務無法提供準確的譯文，也不能提供可用於出版的內容，例如，它經常會不依據上下文來翻譯詞彙，而且會在翻譯時不遵守語法規則，這是因為其機器翻譯算法與傳統的基於語法分析的算法不同，採用的是基於統計分析的算法。而Google翻译的质量也与语种有关，当源语言是一种[欧盟语言](https://zh.wikipedia.org/wiki/欧盟 "wikilink")，而目标语言是英语时，往往质量较好。2010年的分析显示，法语到英语的翻译相对準確\[3\]，2011年和2012年的分析显示意大利语到英语的翻译同样相对準確\[4\]。然而，当所翻译的文本较短时，其他规则法机器翻译（rule-based
-machine translation）却表现得更好，这在中文到英语的翻译中尤为明显\[5\]。
+與其他自動翻譯工具類似，Google翻譯亦有其自身功能侷限。雖然用戶可以通過其幫助來大致理解以外文書寫的文章大意，但Google翻譯服務無法提供準確的譯文，也不能提供可用於出版的內容，例如，它經常會不依據上下文來翻譯詞彙，而且會在翻譯時不遵守語法規則，這是因為其機器翻譯算法與傳統的基於語法分析的算法不同，採用的是基於統計分析的算法。而Google翻译的质量也与语种有关，当源语言是一种[欧盟语言](https://zh.wikipedia.org/wiki/欧盟 "wikilink")，而目标语言是英语时，往往质量较好。2010年的分析显示，法语到英语的翻译相对準確\[3\]，2011年和2012年的分析显示意大利语到英语的翻译同样相对準確\[4\]。然而，当所翻译的文本较短时，其他规则法机器翻译（rule-based machine translation）却表现得更好，这在中文到英语的翻译中尤为明显\[5\]。
 
-[Google_Eng_Accent.png](https://zh.wikipedia.org/wiki/File:Google_Eng_Accent.png "fig:Google_Eng_Accent.png")
-使用较广泛的语言都有“朗读”功能，对[多中心语言而言](https://zh.wikipedia.org/wiki/多中心语言 "wikilink")，朗读采用的口音取决于所在地区，例如：
+[Google_Eng_Accent.png](https://zh.wikipedia.org/wiki/File:Google_Eng_Accent.png "fig:Google_Eng_Accent.png") 使用较广泛的语言都有“朗读”功能，对[多中心语言而言](https://zh.wikipedia.org/wiki/多中心语言 "wikilink")，朗读采用的口音取决于所在地区，例如：
 
   - 英语：美洲、亚太（[香港](../Page/香港.md "wikilink")、[马](../Page/马来西亚.md "wikilink")、[新除外](../Page/新加坡.md "wikilink")）及西亚大多使用女声的[美国英语](../Page/美国英语.md "wikilink")，其餘均用女声的[英国英语](https://zh.wikipedia.org/wiki/英国英语 "wikilink")，但[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[新西兰](../Page/新西兰.md "wikilink")和[诺福克岛](../Page/诺福克岛.md "wikilink")使用一种特殊的大洋洲口音（女声）。
   - 西班牙语：美洲使用[美洲西班牙语](../Page/美洲西班牙语.md "wikilink")，其餘大部分地區使用。
@@ -20,8 +18,7 @@ machine translation）却表现得更好，这在中文到英语的翻译中尤�
 
 ## 方法
 
-Google翻譯採用的翻譯方法稱作“統計機器翻譯”，具體而言，採用的是基於Franz-Josef
-Och參加2003年[美國國防部高級研究項目局](https://zh.wikipedia.org/wiki/美國國防部高級研究項目局 "wikilink")（DARPA）的機器速度翻譯競賽時獲獎的研究成果。Och現在領銜Google機器翻譯小組。
+Google翻譯採用的翻譯方法稱作“統計機器翻譯”，具體而言，採用的是基於Franz-Josef Och參加2003年[美國國防部高級研究項目局](https://zh.wikipedia.org/wiki/美國國防部高級研究項目局 "wikilink")（DARPA）的機器速度翻譯競賽時獲獎的研究成果。Och現在領銜Google機器翻譯小組。
 
 根據Och的說法\[6\]，若想要開發一個可用於翻譯一對全新語言對的統計機器翻譯系統，必須做好如下的數據基礎蒐集才能有保障：一個擁有百萬的單字數量級別的雙語文本語料庫（或者其平行庫集合），以及屬於這兩種語言的單語語料庫，各自得擁有十億以上的單字。然後，用於翻譯這一對語言的機器翻譯結果就會通過這些數據產生的統計模型而得出。
 
@@ -215,8 +212,7 @@ Google的專員[卓坤婷曾積極參加在日本舉行的國內會議](https://
 
 2014年5月31日起，Google所有服务（各个IP段）在中国被大规模干扰至今\[13\]，但因为翻译及[地图网页版服务有域名后缀为](../Page/Google地图.md "wikilink")[.cn](../Page/.cn.md "wikilink")的入口，并且使用了专门设立在中国境内的服务器和IP地址，所以翻译及[地图网页版仍然能正常服务](../Page/Google地图.md "wikilink")。
 
-2017年3月29日起，中国大陆用户可以直接使用Google翻译（手机版）而不需要使用[代理](../Page/代理.md "wikilink")。在此之前，翻译需使用代理而无法直接翻译，但下载离线翻译包后可使用离线翻译进行翻译。
-2018年8月6日谷歌翻译APP在中国大陆出现了短暂的异常，需使用代理才可正常使用，但异常情况很快恢复了。\[14\]\[15\]
+2017年3月29日起，中国大陆用户可以直接使用Google翻译（手机版）而不需要使用[代理](../Page/代理.md "wikilink")。在此之前，翻译需使用代理而无法直接翻译，但下载离线翻译包后可使用离线翻译进行翻译。 2018年8月6日谷歌翻译APP在中国大陆出现了短暂的异常，需使用代理才可正常使用，但异常情况很快恢复了。\[14\]\[15\]
 
 ## 參見
 
@@ -224,8 +220,7 @@ Google的專員[卓坤婷曾積極參加在日本舉行的國內會議](https://
   - [統計機器翻譯](https://zh.wikipedia.org/wiki/統計機器翻譯 "wikilink")
   - [Google產品列表](https://zh.wikipedia.org/wiki/Google產品列表 "wikilink")
   - [巴別魚](../Page/Yahoo!_Babel_Fish.md "wikilink")
-  - [Windows Live
-    Translator](https://zh.wikipedia.org/wiki/Windows_Live_Translator "wikilink")
+  - [Windows Live Translator](https://zh.wikipedia.org/wiki/Windows_Live_Translator "wikilink")
   - [Asia Online](https://zh.wikipedia.org/wiki/Asia_Online "wikilink")
   - [Bing翻譯](../Page/Bing翻譯.md "wikilink")
 
@@ -236,17 +231,11 @@ Google的專員[卓坤婷曾積極參加在日本舉行的國內會議](https://
   - [Google Translate](http://translate.google.cn/?hl=en)
       - [Google翻译](http://translate.google.cn/?hl=zh-CN)
       - [Google翻譯](https://translate.google.com.tw/?hl=zh-TW)
-  - [Google Trannslate on Google
-    Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
-  - [Google Translate on App
-    Store](https://itunes.apple.com/fi/app/google-translate/id414706506)
-  - [Google translate, statistical machine translation
-    live](http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html)
+  - [Google Trannslate on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+  - [Google Translate on App Store](https://itunes.apple.com/fi/app/google-translate/id414706506)
+  - [Google translate, statistical machine translation live](http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html)
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.
 
@@ -261,13 +250,7 @@ Google的專員[卓坤婷曾積極參加在日本舉行的國內會議](https://
 
 7.  <http://www.reuters.com/article/technologyNews/idUSN1921881520070328?feedType=RSS%20target=>
 
-8.  Google was an official sponsor of the annual Computational
-    Linguistics in Japan Conference
-    ("[Gengoshorigakkai](https://zh.wikipedia.org/wiki/Gengoshorigakkai "wikilink")")
-    in 2007. Google also sent a delegate from its headquarters to the
-    meeting of the members of the Computational Linguistic Society of
-    Japan in march 2005, promising funding to researchers who would be
-    willing to share text data.
+8.  Google was an official sponsor of the annual Computational Linguistics in Japan Conference ("[Gengoshorigakkai](https://zh.wikipedia.org/wiki/Gengoshorigakkai "wikilink")") in 2007. Google also sent a delegate from its headquarters to the meeting of the members of the Computational Linguistic Society of Japan in march 2005, promising funding to researchers who would be willing to share text data.
 
 9.
 

@@ -1,13 +1,12 @@
-**BOBO組合**，由[井柏然](../Page/井柏然.md "wikilink")、[付辛博兩人組成的雙人](../Page/付辛博.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，[華誼兄弟音乐公司旗下藝人](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")。其粉絲團體被稱爲[薄荷](../Page/薄荷.md "wikilink")，簡稱[BH](https://zh.wikipedia.org/wiki/BH "wikilink")，應援色爲薄荷綠。
+**BOBO組合**，由[井柏然](../Page/井柏然.md "wikilink")、[付辛博](../Page/付辛博.md "wikilink")兩人組成的雙人[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，[華誼兄弟音乐公司旗下藝人](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")。其粉絲團體被稱爲[薄荷](../Page/薄荷.md "wikilink")，簡稱[BH](https://zh.wikipedia.org/wiki/BH "wikilink")，應援色爲薄荷綠。
 
 ## 簡介
 
 ### 團體由來
 
-2007年，[井柏然](../Page/井柏然.md "wikilink")、[付辛博共同參加了](../Page/付辛博.md "wikilink")，由[上海東方衛視主辦的的選秀節目](https://zh.wikipedia.org/wiki/上海東方衛視 "wikilink")[加油好男兒](https://zh.wikipedia.org/wiki/加油好男兒 "wikilink")。比賽早期，兩人在不同賽區沒有太多交集。2007年5月8日，由於一次錄制《新娛樂大都會》節目的機會，兩人開始結爲朋友。比賽期間[井柏然與](../Page/井柏然.md "wikilink")[付辛博感情甚好](../Page/付辛博.md "wikilink")，由於名字中各帶有個〈BO〉字，fans將兩人戲稱爲「BOBO」。伴隨比賽的深入，兩人之間的感情越發堅固，喊出了「BOBO永在」的口號。2007年7月21日，好男兒王戰，[井柏然](../Page/井柏然.md "wikilink")、[付辛博分別奪得冠軍和季軍](../Page/付辛博.md "wikilink")。決賽當日，[華誼兄弟總裁](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")[王中磊上臺正式宣佈](../Page/王中磊.md "wikilink")，將其二人打造成爲BoBo組合。組合在2007年8月31日正式簽約華誼兄弟，從此踏入娛樂圈，BOBO組合則是內地第一支花美男式的組合。2007年到2010年間共發行了光榮、世界之大、Let's
-BoBo、青春進行時、微客帝國、全城熱戀等影視歌作品。
+2007年，[井柏然](../Page/井柏然.md "wikilink")、[付辛博](../Page/付辛博.md "wikilink")共同參加了，由[上海東方衛視主辦的的選秀節目](https://zh.wikipedia.org/wiki/上海東方衛視 "wikilink")[加油好男兒](https://zh.wikipedia.org/wiki/加油好男兒 "wikilink")。比賽早期，兩人在不同賽區沒有太多交集。2007年5月8日，由於一次錄制《新娛樂大都會》節目的機會，兩人開始結爲朋友。比賽期間[井柏然](../Page/井柏然.md "wikilink")與[付辛博](../Page/付辛博.md "wikilink")感情甚好，由於名字中各帶有個〈BO〉字，fans將兩人戲稱爲「BOBO」。伴隨比賽的深入，兩人之間的感情越發堅固，喊出了「BOBO永在」的口號。2007年7月21日，好男兒王戰，[井柏然](../Page/井柏然.md "wikilink")、[付辛博](../Page/付辛博.md "wikilink")分別奪得冠軍和季軍。決賽當日，[華誼兄弟總裁](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")[王中磊](../Page/王中磊.md "wikilink")上臺正式宣佈，將其二人打造成爲BoBo組合。組合在2007年8月31日正式簽約華誼兄弟，從此踏入娛樂圈，BOBO組合則是內地第一支花美男式的組合。2007年到2010年間共發行了光榮、世界之大、Let's BoBo、青春進行時、微客帝國、全城熱戀等影視歌作品。
 
-2010年9月1日，成員[井柏然在北京和](../Page/井柏然.md "wikilink")[種子音樂正式簽約](../Page/種子音樂.md "wikilink")，同年12月，並和同公司的師姐[郭書瑤一同發行了](../Page/郭書瑤.md "wikilink")[暖暖手EP](https://zh.wikipedia.org/wiki/暖暖手 "wikilink")，其專輯內並收入一首由井柏然獨唱的井字遊戲正式進軍台灣市場；2011年3月6日，另一位成員[付辛博則在北京和](../Page/付辛博.md "wikilink")[金牌大風簽約](../Page/金牌大風.md "wikilink")。同月，將發行首本付辛博寫真暫停的時光，BoBo組合正式宣告解散。
+2010年9月1日，成員[井柏然](../Page/井柏然.md "wikilink")在北京和[種子音樂](../Page/種子音樂.md "wikilink")正式簽約，同年12月，並和同公司的師姐[郭書瑤](../Page/郭書瑤.md "wikilink")一同發行了[暖暖手EP](https://zh.wikipedia.org/wiki/暖暖手 "wikilink")，其專輯內並收入一首由井柏然獨唱的井字遊戲正式進軍台灣市場；2011年3月6日，另一位成員[付辛博](../Page/付辛博.md "wikilink")則在北京和[金牌大風](../Page/金牌大風.md "wikilink")簽約。同月，將發行首本付辛博寫真暫停的時光，BoBo組合正式宣告解散。
 
 ## 作品
 
@@ -161,8 +160,7 @@ MBC（韓國）</p></td>
 
 </div>
 
-  - [世界之大](https://zh.wikipedia.org/wiki/世界之大 "wikilink")
-    (Q版本\&Cool版本)（2008）
+  - [世界之大](https://zh.wikipedia.org/wiki/世界之大 "wikilink") (Q版本\&Cool版本)（2008）
 
 <div class="NavFrame" style="text-align: left; width:50%">
 
@@ -188,8 +186,7 @@ MBC（韓國）</p></td>
 
 </div>
 
-  - [Let’s
-    bobo](https://zh.wikipedia.org/wiki/Let’s_bobo "wikilink")（2010）
+  - [Let’s bobo](https://zh.wikipedia.org/wiki/Let’s_bobo "wikilink")（2010）
 
 <div class="NavFrame" style="text-align: left; width:50%">
 

@@ -1,9 +1,6 @@
-**Buono\!**（），[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
+**Buono\!**（），[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
-由[Berryz工房及](../Page/Berryz工房.md "wikilink")[℃-ute中選出](../Page/℃-ute.md "wikilink")3名成員組成的一個小組。當初是為動畫[守護甜心\!演唱片頭曲及片尾曲而成立的組合](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")。雖然成員是Hello\!
-Project的成員，但起初的唱片的公司卻是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，直自2011年，唱片公司才改爲[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")，即變回與一般Hello\!
-Project的成員無異。
+由[Berryz工房](../Page/Berryz工房.md "wikilink")及[℃-ute](../Page/℃-ute.md "wikilink")中選出3名成員組成的一個小組。當初是為動畫[守護甜心\!演唱片頭曲及片尾曲而成立的組合](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")。雖然成員是Hello\! Project的成員，但起初的唱片的公司卻是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，直自2011年，唱片公司才改爲[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")，即變回與一般Hello\! Project的成員無異。
 
 ## 成員
 
@@ -90,18 +87,14 @@ Dolce（伴奏樂團）
 ## 概要
 
   - Buono\!大致發音「\[buɔnɔ\]」，是義大利文「讚\!」「好\!」的意思。
-  - Buono\!主要是演唱由[東京電視台播出的動畫](../Page/東京電視台.md "wikilink")「[守護甜心\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")」的歌曲，2007年，選出了[Berryz工房的成員](../Page/Berryz工房.md "wikilink")[嗣永桃子](../Page/嗣永桃子.md "wikilink")、[夏燒雅以及](../Page/夏燒雅.md "wikilink")[℃-ute的成員](../Page/℃-ute.md "wikilink")[鈴木愛理組成這個團體](../Page/鈴木愛理.md "wikilink")，這3位成員的人氣和實力都兼備（成員嗣永桃子及夏燒雅是[Berryz工房其中的TOP](../Page/Berryz工房.md "wikilink")2，而鈴木愛理則是[℃-ute的主音之一](../Page/℃-ute.md "wikilink")。三人亦為各自母團中的ACE。），而成員夏燒雅及鈴木愛理更是繼2003年洗牌組合「」後再次被編入同一小組。
+  - Buono\!主要是演唱由[東京電視台](../Page/東京電視台.md "wikilink")播出的動畫「[守護甜心\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")」的歌曲，2007年，選出了[Berryz工房](../Page/Berryz工房.md "wikilink")的成員[嗣永桃子](../Page/嗣永桃子.md "wikilink")、[夏燒雅](../Page/夏燒雅.md "wikilink")以及[℃-ute](../Page/℃-ute.md "wikilink")的成員[鈴木愛理](../Page/鈴木愛理.md "wikilink")組成這個團體，這3位成員的人氣和實力都兼備（成員嗣永桃子及夏燒雅是[Berryz工房](../Page/Berryz工房.md "wikilink")其中的TOP2，而鈴木愛理則是[℃-ute](../Page/℃-ute.md "wikilink")的主音之一。三人亦為各自母團中的ACE。），而成員夏燒雅及鈴木愛理更是繼2003年洗牌組合「」後再次被編入同一小組。
   - Buono\!最初組成的原因是因為要主唱動畫「守護甜心\!」的主題曲及片尾曲的，但因為出單曲的反應不錯（在Oricon排行榜都要有不錯排名），因而受到廣告商的垂青，進行多方面的活動，是早安家族團體中的唯一異例。
   - Buono\!的中心是輪流交替的，有別於一般早安家族的組合。
-      - 《真實的自我》到《Kiss\! Kiss\!
-        Kiss》及《心之卵》以[夏燒雅為中心](../Page/夏燒雅.md "wikilink")。（共三首單曲，一首副曲）
-      - 《努力向前衝\!》到《MY
-        BOY》及《初戀汽水》以[嗣永桃子為中心](../Page/嗣永桃子.md "wikilink")。（共五首單曲）
-      - 《Take It Easy\!》到《因為是夏天\!》及《JUICY
-        HE＠RT》則以[鈴木愛理為中心](../Page/鈴木愛理.md "wikilink")。（共五首單曲，一首副曲）
-  - 而三位成員同樣都是在[千葉縣出身的](../Page/千葉縣.md "wikilink")。
-  - 三位成員同樣屬於[Hello\! Project
-    Kids](../Page/Hello!_Project_Kids.md "wikilink")。
+      - 《真實的自我》到《Kiss\! Kiss\! Kiss》及《心之卵》以[夏燒雅](../Page/夏燒雅.md "wikilink")為中心。（共三首單曲，一首副曲）
+      - 《努力向前衝\!》到《MY BOY》及《初戀汽水》以[嗣永桃子](../Page/嗣永桃子.md "wikilink")為中心。（共五首單曲）
+      - 《Take It Easy\!》到《因為是夏天\!》及《JUICY HE＠RT》則以[鈴木愛理](../Page/鈴木愛理.md "wikilink")為中心。（共五首單曲，一首副曲）
+  - 而三位成員同樣都是在[千葉縣](../Page/千葉縣.md "wikilink")出身的。
+  - 三位成員同樣屬於[Hello\! Project Kids](../Page/Hello!_Project_Kids.md "wikilink")。
 
 ## 歷史\[1\]
 
@@ -125,15 +118,12 @@ Dolce（伴奏樂團）
   - 2月11日、12日、14日、15日，於日本青年館舉行「」演唱會。
   - 4月29日，Buono\!特設網站更新、同時部落格名稱更改為「」。
   - 8月21日，於Zepp TokyO再度舉辦FC會員限定演唱會「Rock'n Buono\!2」。
-  - 10月15日，在SHIBUYA O-EAST的『MELON
-    GREETING』中以嘉賓出演預定，嗣永桃子、夏燒雅因為感冒而沒有出演，只剩鈴木愛理1人出演\[3\]\[4\]。
+  - 10月15日，在SHIBUYA O-EAST的『MELON GREETING』中以嘉賓出演預定，嗣永桃子、夏燒雅因為感冒而沒有出演，只剩鈴木愛理1人出演\[3\]\[4\]。
 
 ### 2010年
 
-  - 2月3日，第10張單曲《[Our
-    Songs](../Page/Our_Songs.md "wikilink")》發售。這是在[波麗佳音最後發售的單曲](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
-  - 8月10日，精選集《[The Best
-    Buono\!](../Page/The_Best_Buono!.md "wikilink")》發售，這是在波麗佳音最後發售的作品。
+  - 2月3日，第10張單曲《[Our Songs](../Page/Our_Songs.md "wikilink")》發售。這是在[波麗佳音最後發售的單曲](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+  - 8月10日，精選集《[The Best Buono\!](../Page/The_Best_Buono!.md "wikilink")》發售，這是在波麗佳音最後發售的作品。
 
 ### 2011年
 
@@ -141,7 +131,7 @@ Dolce（伴奏樂團）
   - 2月5日，湘南海灘FM說「MUSIC Buono\!」Buono\!個性節目開始。
   - 10月1日，「PIZZA-LA presents Café Buono\!」開始。
   - 10月29日，電影『對不起』（ゴメンナサイ）初次主演\[5\]。還有，擔任演唱同電影的主題曲\[6\]。
-  - 11月12日，發表2012年2月12日將在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎舉行單獨Live演唱會](../Page/巴黎.md "wikilink")\[7\]。
+  - 11月12日，發表2012年2月12日將在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")舉行單獨Live演唱會\[7\]。
 
 ### 2012年
 
@@ -153,28 +143,23 @@ Dolce（伴奏樂團）
 
 ### 2015年
 
-  - 12月31日，出演 Hello\! Project
-    的年末倒數演唱會。並同場宣佈將在2016年8月25日（成员夏烧雅的生日）於日本武道館舉行四年以來的单独演唱會。后来又公布[℃-ute](../Page/℃-ute.md "wikilink")、[Country
-    Girls](../Page/Country_Girls.md "wikilink")、夏烧雅新组合（2016年4月1日公布成员）以参加的方式出演。
+  - 12月31日，出演 Hello\! Project 的年末倒數演唱會。並同場宣佈將在2016年8月25日（成员夏烧雅的生日）於日本武道館舉行四年以來的单独演唱會。后来又公布[℃-ute](../Page/℃-ute.md "wikilink")、[Country Girls](../Page/Country_Girls.md "wikilink")、夏烧雅新组合（2016年4月1日公布成员）以参加的方式出演。
 
 ### 2016年
 
   - 7月28日，YouTube的[buono\!官方频道](https://www.youtube.com/user/buonochannel)时隔约4年更新。
   - 7月30日10点，武道馆演唱会开始普通售票，约两小时内售罄。
   - 8月5日，[buono\!官方频道](https://www.youtube.com/user/buonochannel)更新，公布新歌曲「」「」。
-  - 8月25日，在日本武道馆举行单独演唱会。包含首次表演新歌在内，共演唱24首歌。嗣永桃子所属的Country
-    Girls、铃木爱理所属的℃-ute以客串形式参加、演唱Buono\!的出道曲「真实的自我」。另外2016年4月1日公布的夏烧雅新组合进行了首秀。
+  - 8月25日，在日本武道馆举行单独演唱会。包含首次表演新歌在内，共演唱24首歌。嗣永桃子所属的Country Girls、铃木爱理所属的℃-ute以客串形式参加、演唱Buono\!的出道曲「真实的自我」。另外2016年4月1日公布的夏烧雅新组合进行了首秀。
 
 ### 2017年
 
-  - 5月15日，發表將於日本國內30個場所及香港、台灣之32個場所，直播「Buono\! ライブ 2017
-    〜Pienezza\!〜」演唱會。
-  - 5月22日，於橫濱ARENA舉行最終場演唱會「Buono\! ライブ 2017
-    〜Pienezza\!〜」。新聞報導此為最終場演唱會，約1萬5000人到場。
+  - 5月15日，發表將於日本國內30個場所及香港、台灣之32個場所，直播「Buono\! ライブ 2017 〜Pienezza\!〜」演唱會。
+  - 5月22日，於橫濱ARENA舉行最終場演唱會「Buono\! ライブ 2017 〜Pienezza\!〜」。新聞報導此為最終場演唱會，約1萬5000人到場。
 
 ## 作品
 
-唱片起初由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，2010年11月起改為[zetima發行](https://zh.wikipedia.org/wiki/zetima "wikilink")，2007年起台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
+唱片起初由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，2010年11月起改為[zetima發行](https://zh.wikipedia.org/wiki/zetima "wikilink")，2007年起台灣及香港地區由[豐華唱片](../Page/豐華唱片.md "wikilink")代理。
 
 ### 單曲
 
@@ -523,8 +508,7 @@ Dolce（伴奏樂團）
 
 ### 單獨演唱會
 
-  - Buono\!LIVE　日本青年館公演『Buono\!ライブ2009
-    ～ハイブリッド☆パンチ～』（2009年2月11日、12日、14日、15日）
+  - Buono\!LIVE　日本青年館公演『Buono\!ライブ2009 ～ハイブリッド☆パンチ～』（2009年2月11日、12日、14日、15日）
   - Buono\!ファーストライブツアー2009〜Winterフェスタ\!〜（2009年12月19日、20日、27日、28日）
   - Buono\!ライブツアー2010 〜We are Buono\!〜（2010年2月11日、20日、21日、28日）
   - Buono\!ライブツアー2010 〜Rock'n Buono\! 3～（2010年8月12日、14日、15日、17日）
@@ -545,8 +529,7 @@ MELON GREETING（2009年10月15日、Shibuya O-EAST）
 
   - [Buono\!官方網頁](https://web.archive.org/web/20090718185519/http://www.helloproject.com/buono/)
   - [Buono\!官方部落格](http://ameblo.jp/viva-buono/)
-  - [musicJAPANplus艺人资料库 -
-    Buono\!](http://www.musicjapanplus.jp/artistdb/?artist_id=230)
+  - [musicJAPANplus艺人资料库 - Buono\!](http://www.musicjapanplus.jp/artistdb/?artist_id=230)
   - [新組合Buono\!組成的通知](https://web.archive.org/web/20070817122710/http://www.helloproject.com/newslist/buono_07210005.html)
   - [早安家族的日本網方官站Buono\!的介紹頁面](http://www.helloproject.com/artist/43/index.html)
   - [Buono\!在波麗佳音唱片公司的官方網頁](https://web.archive.org/web/20070930184531/http://music.ponycanyon.co.jp/buono/)
@@ -554,28 +537,21 @@ MELON GREETING（2009年10月15日、Shibuya O-EAST）
 
 ## 參考來源
 
-[Category:Buono\!](https://zh.wikipedia.org/wiki/Category:Buono! "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
+[Category:Buono\!](https://zh.wikipedia.org/wiki/Category:Buono! "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
 
 1.
 
 2.
 
-3.  [Berryz工房
-    嗣永桃子に関する大切なお知らせ](http://www.helloproject.com/news/0910141930_tsugunaga.html)
+3.  [Berryz工房 嗣永桃子に関する大切なお知らせ](http://www.helloproject.com/news/0910141930_tsugunaga.html)
 
-
-4.  [Berryz工房 夏焼雅
-    に関する大切なお知らせ](http://www.helloproject.com/news/0910151500_berryz.html)
-
+4.  [Berryz工房 夏焼雅 に関する大切なお知らせ](http://www.helloproject.com/news/0910151500_berryz.html)
 
 5.
 
 6.
 7.
 
-8.  [Sony Music
-    Shop](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=2620&cd=EPXE000005017)
+8.  [Sony Music Shop](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=2620&cd=EPXE000005017)
 
 9.

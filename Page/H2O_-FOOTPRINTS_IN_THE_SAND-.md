@@ -1,11 +1,6 @@
-《**H<sub>2</sub>O -FOOTPRINTS IN THE
-SAND-**》是日本遊戲公司**[枕](https://zh.wikipedia.org/wiki/枕_\(公司\) "wikilink")**開發的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，後來發售[PlayStation
-2版](../Page/PlayStation_2.md "wikilink")《H2O+》和外傳《√<span style="text-decoration:overline;">after
-and
-another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")。
+《**H<sub>2</sub>O -FOOTPRINTS IN THE SAND-**》是日本遊戲公司**[枕](https://zh.wikipedia.org/wiki/枕_\(公司\) "wikilink")**開發的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，後來發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《H2O+》和外傳《√<span style="text-decoration:overline;">after and another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")。
 
-由動畫第一話末尾的介紹，標題的H2O是來自三個女主角名字的第一個字母（**H**ayami, **H**inata, **O**toha），
-而Footprints來自一首詩《》，此詩的前半部分在動畫第一話的開頭出現，全詩亦在最後一話出現。
+由動畫第一話末尾的介紹，標題的H2O是來自三個女主角名字的第一個字母（**H**ayami, **H**inata, **O**toha）， 而Footprints來自一首詩《》，此詩的前半部分在動畫第一話的開頭出現，全詩亦在最後一話出現。
 
 ## 作品歷史
 
@@ -14,21 +9,15 @@ another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫
   - 2007年1月26日
     漫畫版《H<sub>2</sub>O -FOOTPRINTS IN THE SAND-》開始（2008年2月26日結束）
   - 2007年10月26日
-    PC版遊戲的[外傳故事](https://zh.wikipedia.org/wiki/外傳 "wikilink")（Fan
-    Disc）《√<span style="text-decoration:overline;">after and
-    another</span>》（\(\sqrt{\mathrm{after\ and\ another}}\)）發售（枕的第二部作品）
+    PC版遊戲的[外傳故事](https://zh.wikipedia.org/wiki/外傳 "wikilink")（Fan Disc）《√<span style="text-decoration:overline;">after and another</span>》（\(\sqrt{\mathrm{after\ and\ another}}\)）發售（枕的第二部作品）
   - 2008年1月3日
     電視動畫版《H<sub>2</sub>O -FOOTPRINTS IN THE SAND-》開始（同年3月20日結束）
   - 2008年4月24日
-    PS2版遊戲《H<sub>2</sub>O+》（、H2O
-    Plus）發售（代理商是[角川書店](../Page/角川書店.md "wikilink")）
+    PS2版遊戲《H<sub>2</sub>O+》（、H2O Plus）發售（代理商是[角川書店](../Page/角川書店.md "wikilink")）
   - 2008年7月9日
-    《H<sub>2</sub>O -FOOTPRINTS IN THE SAND- &
-    √<span style="text-decoration:overline;">after and another</span>
-    Perfect Visual Book》（ISBN 978-4-04-867037-1）發售
+    《H<sub>2</sub>O -FOOTPRINTS IN THE SAND- & √<span style="text-decoration:overline;">after and another</span> Perfect Visual Book》（ISBN 978-4-04-867037-1）發售
   - 2009年7月31日
-    PC版遊戲《H2O √<span style="text-decoration:overline;">after and
-    another</span> Complete story Edition》發售
+    PC版遊戲《H2O √<span style="text-decoration:overline;">after and another</span> Complete story Edition》發售
 
 ## 登場人物
 
@@ -50,7 +39,7 @@ another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫
 
   -
     聲：[和泉真優](../Page/風音.md "wikilink")（PC）／[櫻井浩美](../Page/櫻井浩美.md "wikilink")（PS2、動畫）
-    《H2O》的女主角，[台灣角川漫畫版譯為速水](../Page/台灣角川.md "wikilink")。琢磨的同班同學，性格剛強不屈且積極，擁有跟外貌不符合的力氣，有著意外不服輸的個性，後期開始綁上髮帶，料理手藝不錯，喜歡甜的食物。
+    《H2O》的女主角，[台灣角川](../Page/台灣角川.md "wikilink")漫畫版譯為速水。琢磨的同班同學，性格剛強不屈且積極，擁有跟外貌不符合的力氣，有著意外不服輸的個性，後期開始綁上髮帶，料理手藝不錯，喜歡甜的食物。
     家境貧困住在簡陋的地方，之後房屋被人燒燬，目前與琢磨住在同一個屋簷下，因為長期住在偏僻的小屋裡面，對於現代的部分產品都不太會使用（吸塵器、洗衣機之類的）。由於以前父母曾經利用權力欺壓村民，所以在學校受到欺壓，不斷地承擔莫須有的罪名，認為自己被人憎恨是理所當然的，為了不傷害他人選擇孤僻過日。
     以前與螢是好朋友，不過因為的家庭因素關係變的分裂，之後在琢磨的幫助下彼此和好如初。與螢和好之後開始也在學校受到同學的接納。對於對自己不斷關心的琢磨，內心感到動搖且在意，隨著琢磨的告白讓她坦承面對自己的心情。在得知琢磨的母親是被自己家裡的人害死內心痛苦不安，之後下定決心離開村子。
     離開的路途中被神樂家村長用獵槍追殺，因為琢磨突然的出現解救逃過一劫，但是這時候的琢磨卻說出「我要保護母親」這句話，雖然神樂家村長以殺人未遂的罪行逮捕，琢磨卻把早美給當成母親了，即使這樣心裡還是高興著自己是被人需要的存在，隨後到了東京過著如同母子般的生活。
@@ -70,8 +59,7 @@ another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫
   -
     聲：[成瀨未亞](../Page/成瀨未亞.md "wikilink")
     不可思議的少女，性格開朗，自稱時之音的「[精靈](../Page/精靈.md "wikilink")」。[僕娘](https://zh.wikipedia.org/wiki/僕娘 "wikilink")。
-    本名神樂 雛田，有一個叫神樂
-    螢的妹妹，幼年時因為一場意外死亡。死後的靈魂因聽到妹妹的哭聲而不願離開，後來又為妹妹因「成為像自己一樣的好孩子」而與小日向早美絕交，心存執念、變成在當地的幽靈。
+    本名神樂 雛田，有一個叫神樂 螢的妹妹，幼年時因為一場意外死亡。死後的靈魂因聽到妹妹的哭聲而不願離開，後來又為妹妹因「成為像自己一樣的好孩子」而與小日向早美絕交，心存執念、變成在當地的幽靈。
     努力為妹妹與早美的和好而奔波，不過只有「約定之人」弘瀨琢磨才能感知她。經常神出鬼沒的來嚇琢磨，做事情非常大膽，在動畫第八集變身成魔法美少女來回報琢磨。動畫結局中變成更小的蘿莉出現在琢磨眼前告知「這次要好好的照顧她」的話後離開。身高136cm。血型AB型。
 
 ### 次要角色
@@ -130,17 +118,13 @@ another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫
 
   - [原畫](https://zh.wikipedia.org/wiki/原畫 "wikilink")、[人物設計](../Page/人物設計.md "wikilink")：基4%、月音、硯、籠目、SCA-自、砌煉炭
   - [腳本](https://zh.wikipedia.org/wiki/劇本 "wikilink")：藤倉絢一、SCA-自、柚鈴
-  - [主題曲](../Page/主題曲.md "wikilink")：[作曲](https://zh.wikipedia.org/wiki/作曲家 "wikilink")
-    -
-    [PixelBee](https://zh.wikipedia.org/wiki/PixelBee "wikilink")、[歌手](../Page/歌手.md "wikilink")
-    - [monet](https://zh.wikipedia.org/wiki/monet "wikilink")
+  - [主題曲](../Page/主題曲.md "wikilink")：[作曲](https://zh.wikipedia.org/wiki/作曲家 "wikilink") - [PixelBee](https://zh.wikipedia.org/wiki/PixelBee "wikilink")、[歌手](../Page/歌手.md "wikilink") - [monet](https://zh.wikipedia.org/wiki/monet "wikilink")
       - 《H<sub>2</sub>O -FOOTPRINTS IN THE SAND-》
           - 「H<sub>2</sub>O」
           - 「DREAM」
           - 「FOOTPRINTS IN THE SAND」　　
           - 「TOMORROW」
-      - 《√<span style="text-decoration:overline;">after and
-        another</span>》
+      - 《√<span style="text-decoration:overline;">after and another</span>》
           - 「」
 
 ## 主題曲
@@ -162,7 +146,7 @@ another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫
   - 美術監督：高橋和博
   - 音響監督：高寺健（）
   - 音響製作：HALF H.P STUDIO
-  - 編輯：田熊純（[Actas編輯室](../Page/Actas.md "wikilink")）
+  - 編輯：田熊純（[Actas](../Page/Actas.md "wikilink")編輯室）
   - 動畫製作：[ZEXCS](../Page/ZEXCS.md "wikilink")
 
 ### 主題曲
@@ -496,33 +480,16 @@ another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫
 
 <references />
 
-  - [livedoor Anime
-    News](http://blog.livedoor.jp/ld_anime02/archives/51086752.html)
+  - [livedoor Anime News](http://blog.livedoor.jp/ld_anime02/archives/51086752.html)
 
 ## 外部連結
 
   - 官方網站
       - [枕](http://www.makura-soft.com/)（年齢限制）
-          - [H2O -FOOTPRINTS IN THE
-            SAND-](http://www.makura-soft.com/h2o/)
-          - [√after and
-            another](http://www.makura-soft.com/AAA/index.htm)
+          - [H2O -FOOTPRINTS IN THE SAND-](http://www.makura-soft.com/h2o/)
+          - [√after and another](http://www.makura-soft.com/AAA/index.htm)
           - [櫻之詩](https://web.archive.org/web/20071116082752/http://www.makura-soft.com/sakura/index.html)
       - [PS2版H2O+（Regista）](https://web.archive.org/web/20071116115650/http://www.regista.co.jp/h2o/)
       - [電視動畫](http://anime.webnt.jp/h2o/)
 
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink")
-[Category:KeroQ](https://zh.wikipedia.org/wiki/Category:KeroQ "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:偽娘題材遊戲](https://zh.wikipedia.org/wiki/Category:偽娘題材遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
-[Category:視覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:視覺障礙題材作品 "wikilink")
+[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink") [Category:KeroQ](https://zh.wikipedia.org/wiki/Category:KeroQ "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:偽娘題材遊戲](https://zh.wikipedia.org/wiki/Category:偽娘題材遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:視覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:視覺障礙題材作品 "wikilink")

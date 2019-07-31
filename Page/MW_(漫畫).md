@@ -1,5 +1,4 @@
-《**MW**》（**ムウ**）是[手塚治虫的漫畫作品](../Page/手塚治虫.md "wikilink")。並且在《Big
-Comic》（[小學館](../Page/小學館.md "wikilink")）1976年9月10日號－1978年1月25日號連載。身為作品名稱的「MW」不僅代表作品中毒氣的名字，更代表主人公結城美知夫「Man」和「Woman」的身份。
+《**MW**》（**ムウ**）是[手塚治虫](../Page/手塚治虫.md "wikilink")的漫畫作品。並且在《Big Comic》（[小學館](../Page/小學館.md "wikilink")）1976年9月10日號－1978年1月25日號連載。身為作品名稱的「MW」不僅代表作品中毒氣的名字，更代表主人公結城美知夫「Man」和「Woman」的身份。
 
 本作為手塚作品中極富爭議性的故事，內容不但大量描寫了資本主義體制中各種弊端和人性的貪婪醜陋，當中主角的男同性戀性愛的大量描述，在當時的社會風氣下也是極具爭議的敘述手法，更甚者還包括強姦、虐殺等情節都出現在作品中，即便以現在的眼光來看，都是一部極具批判性和驚悚劇情的作品。
 
@@ -36,15 +35,13 @@ Comic》（[小學館](../Page/小學館.md "wikilink")）1976年9月10日號－
 
 ## 改編電影
 
-為紀念原作[手塚治虫誕辰八十週年而製作](../Page/手塚治虫.md "wikilink")。於2009年7月4日於日本上映。香港則由[驕陽電影有限公司購入發行權](https://zh.wikipedia.org/wiki/驕陽電影有限公司 "wikilink")。並加入中文名稱——《**MW毒氣風暴**》。於2009年10月15日於香港上映。根據[日本媒體報導](https://zh.wikipedia.org/wiki/日本媒體 "wikilink")，[日本演員](https://zh.wikipedia.org/wiki/日本演員 "wikilink")[玉木宏在此齣電影首度飾演反派角色](../Page/玉木宏.md "wikilink")。
+為紀念原作[手塚治虫](../Page/手塚治虫.md "wikilink")誕辰八十週年而製作。於2009年7月4日於日本上映。香港則由[驕陽電影有限公司購入發行權](https://zh.wikipedia.org/wiki/驕陽電影有限公司 "wikilink")。並加入中文名稱——《**MW毒氣風暴**》。於2009年10月15日於香港上映。根據[日本媒體報導](https://zh.wikipedia.org/wiki/日本媒體 "wikilink")，[日本演員](https://zh.wikipedia.org/wiki/日本演員 "wikilink")[玉木宏](../Page/玉木宏.md "wikilink")在此齣電影首度飾演反派角色。
 
 ### 演員
 
-  - **結城
-    美智雄**……[玉木宏](../Page/玉木宏.md "wikilink")\*原作名為[美知夫](https://zh.wikipedia.org/wiki/美知夫 "wikilink")
+  - **結城 美智雄**……[玉木宏](../Page/玉木宏.md "wikilink")\*原作名為[美知夫](https://zh.wikipedia.org/wiki/美知夫 "wikilink")
 
-  - **賀來
-    裕太郎**……[山田孝之](../Page/山田孝之.md "wikilink")\*原作名為[賀來嚴](https://zh.wikipedia.org/wiki/賀來嚴 "wikilink")
+  - **賀來 裕太郎**……[山田孝之](../Page/山田孝之.md "wikilink")\*原作名為[賀來嚴](https://zh.wikipedia.org/wiki/賀來嚴 "wikilink")
 
   - **牧野京子**……[石田百合子](../Page/石田百合子.md "wikilink")
 
@@ -77,7 +74,4 @@ Comic》（[小學館](../Page/小學館.md "wikilink")）1976年9月10日號－
 
   - [電影官網](https://web.archive.org/web/20080623022424/http://mw.gyao.jp/)
 
-[Category:手塚治虫作品](https://zh.wikipedia.org/wiki/Category:手塚治虫作品 "wikilink")
-[Category:LGBT題材作品](https://zh.wikipedia.org/wiki/Category:LGBT題材作品 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
+[Category:手塚治虫作品](https://zh.wikipedia.org/wiki/Category:手塚治虫作品 "wikilink") [Category:LGBT題材作品](https://zh.wikipedia.org/wiki/Category:LGBT題材作品 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")

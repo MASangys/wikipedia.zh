@@ -1,6 +1,4 @@
-**China**（**中國合唱團**）是來自[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[硬式搖滾](../Page/硬式搖滾.md "wikilink")樂團，成立於1980年代，初始成員包括鼓手John
-Dommen、兩位吉他手Claudio Matteo & Freddy Laurence、貝斯手Marc Lynn以及主唱Math
-Shiverow。
+**China**（**中國合唱團**）是來自[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[硬式搖滾](../Page/硬式搖滾.md "wikilink")樂團，成立於1980年代，初始成員包括鼓手John Dommen、兩位吉他手Claudio Matteo & Freddy Laurence、貝斯手Marc Lynn以及主唱Math Shiverow。
 
 ## 團員
 
@@ -26,11 +24,8 @@ Shiverow。
 
 ### 專輯
 
-  - [China](https://zh.wikipedia.org/wiki/China_\(China_album\) "wikilink")
-    (1988)
-  - [Sign In The
-    Sky](https://zh.wikipedia.org/wiki/Sign_In_The_Sky_China_album\) "wikilink")
-    (1989)
+  - [China](https://zh.wikipedia.org/wiki/China_\(China_album\) "wikilink") (1988)
+  - [Sign In The Sky](https://zh.wikipedia.org/wiki/Sign_In_The_Sky_China_album\) "wikilink") (1989)
   - Live (1991)
   - Go All The Way (1991)
   - Natural Groove (1995)
@@ -38,12 +33,8 @@ Shiverow。
 
 ### 精選
 
-  - [So
-    Far](https://zh.wikipedia.org/wiki/So_Far_\(China_album\) "wikilink")
-    (1992)
-  - [The Very Best
-    Of](https://zh.wikipedia.org/wiki/The_Very_Best_Of_\(China_album\) "wikilink")
-    (2008)
+  - [So Far](https://zh.wikipedia.org/wiki/So_Far_\(China_album\) "wikilink") (1992)
+  - [The Very Best Of](https://zh.wikipedia.org/wiki/The_Very_Best_Of_\(China_album\) "wikilink") (2008)
 
 ### 單曲
 
@@ -61,5 +52,4 @@ Shiverow。
 
 ## 參考文獻
 
-[Category:瑞士樂團](https://zh.wikipedia.org/wiki/Category:瑞士樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
+[Category:瑞士樂團](https://zh.wikipedia.org/wiki/Category:瑞士樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")

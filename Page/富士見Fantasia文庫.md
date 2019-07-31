@@ -1,5 +1,4 @@
-**富士見Fantasia文庫**（，），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA旗下](../Page/KADOKAWA.md "wikilink")[富士見書房發行的](../Page/富士見書房.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")[文庫](../Page/文庫.md "wikilink")。1988年和《[月刊Dragon
-Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一同創刊，主要讀者為10多歲的國高中生，從創刊當初便發行了眾多以[奇幻世界為舞台的](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。現在和[電擊文庫](../Page/電擊文庫.md "wikilink")、[角川Sneaker文庫並列為](../Page/角川Sneaker文庫.md "wikilink")[角川集團的輕小說主力文庫](../Page/角川集團.md "wikilink")。發行的第一部作品是[田中芳樹著](../Page/田中芳樹.md "wikilink")。
+**富士見Fantasia文庫**（，），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下[富士見書房](../Page/富士見書房.md "wikilink")發行的[輕小說](../Page/輕小說.md "wikilink")[文庫](../Page/文庫.md "wikilink")。1988年和《[月刊Dragon Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一同創刊，主要讀者為10多歲的國高中生，從創刊當初便發行了眾多以[奇幻世界為舞台的](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。現在和[電擊文庫](../Page/電擊文庫.md "wikilink")、[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")並列為[角川集團](../Page/角川集團.md "wikilink")的輕小說主力文庫。發行的第一部作品是[田中芳樹](../Page/田中芳樹.md "wikilink")著。
 
 雖然以「Fantasia」為名，但題材並不侷限於奇幻類型，亦出版許多以現代與其他世界為舞台的書籍。
 
@@ -11,19 +10,14 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
   - [驚爆危機](../Page/驚爆危機.md "wikilink")（[賀東招二](../Page/賀東招二.md "wikilink")/[四季童子](../Page/四季童子.md "wikilink")）
   - [風之聖痕](../Page/風之聖痕.md "wikilink")（[山門敬弘](https://zh.wikipedia.org/wiki/山門敬弘 "wikilink")/[納都花丸](../Page/納都花丸.md "wikilink")）
-  - [BLACK BLOOD
-    BROTHERS](../Page/BLACK_BLOOD_BROTHERS.md "wikilink")（/[草河遊也](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")）
+  - [BLACK BLOOD BROTHERS](../Page/BLACK_BLOOD_BROTHERS.md "wikilink")（/[草河遊也](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")）
   - [黃昏色的詠使](../Page/黃昏色的詠使.md "wikilink")（[細音啓](https://zh.wikipedia.org/wiki/細音啓 "wikilink")/[竹岡美穗](https://zh.wikipedia.org/wiki/竹岡美穗 "wikilink")）
-  - [The
-    Third](https://zh.wikipedia.org/wiki/The_Third "wikilink")（[星野亮](https://zh.wikipedia.org/wiki/星野亮 "wikilink")/）
+  - [The Third](https://zh.wikipedia.org/wiki/The_Third "wikilink")（[星野亮](https://zh.wikipedia.org/wiki/星野亮 "wikilink")/）
   - [節哀唷♥二之宮同學](../Page/節哀唷♥二之宮同學.md "wikilink")（[鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink")/[高苗京鈴](https://zh.wikipedia.org/wiki/高苗京鈴 "wikilink")）
   - [鋼殼都市雷吉歐斯](../Page/鋼殼都市雷吉歐斯.md "wikilink")（/[深遊](https://zh.wikipedia.org/wiki/深遊 "wikilink")）
-  - [特甲少女
-    焱之精靈](https://zh.wikipedia.org/wiki/特甲少女_焱之精靈 "wikilink")（[冲方丁](../Page/冲方丁.md "wikilink")/）
-  - [特甲少女
-    惡戲之猋](https://zh.wikipedia.org/wiki/特甲少女_惡戲之猋 "wikilink")（冲方丁/[白亞右月](https://zh.wikipedia.org/wiki/白亞右月 "wikilink")）
-  - [EME
-    BLACK](../Page/EME_\(輕小說\).md "wikilink")（[瀧川武司](https://zh.wikipedia.org/wiki/瀧川武司 "wikilink")/[尾崎弘宣](https://zh.wikipedia.org/wiki/尾崎弘宣 "wikilink")）
+  - [特甲少女 焱之精靈](https://zh.wikipedia.org/wiki/特甲少女_焱之精靈 "wikilink")（[冲方丁](../Page/冲方丁.md "wikilink")/）
+  - [特甲少女 惡戲之猋](https://zh.wikipedia.org/wiki/特甲少女_惡戲之猋 "wikilink")（冲方丁/[白亞右月](https://zh.wikipedia.org/wiki/白亞右月 "wikilink")）
+  - [EME BLACK](../Page/EME_\(輕小說\).md "wikilink")（[瀧川武司](https://zh.wikipedia.org/wiki/瀧川武司 "wikilink")/[尾崎弘宣](https://zh.wikipedia.org/wiki/尾崎弘宣 "wikilink")）
   - [EME BLUE](../Page/EME_\(輕小說\).md "wikilink")（瀧川武司/尾崎弘宣）
   - [EME RED](../Page/EME_\(輕小說\).md "wikilink")（瀧川武司/尾崎弘宣）
   - [抱歉囉♥二之宮同學](https://zh.wikipedia.org/wiki/抱歉囉♥二之宮同學 "wikilink")（[鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink")/[高苗京鈴](https://zh.wikipedia.org/wiki/高苗京鈴 "wikilink")）
@@ -55,8 +49,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
 ### [台灣東販](../Page/台灣東販.md "wikilink")
 
-  - [天地無用\!
-    魎皇鬼](https://zh.wikipedia.org/wiki/天地無用! "wikilink")（[長谷川菜穗子](https://zh.wikipedia.org/wiki/長谷川菜穗子 "wikilink")）
+  - [天地無用\! 魎皇鬼](https://zh.wikipedia.org/wiki/天地無用! "wikilink")（[長谷川菜穗子](https://zh.wikipedia.org/wiki/長谷川菜穗子 "wikilink")）
 
 ### [東立出版社](../Page/東立出版社.md "wikilink")
 
@@ -70,8 +63,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
   - [東京闇鴉](../Page/東京闇鴉.md "wikilink")（/）
 
-  - [L
-    詐欺師佛雷特蘭德的華麗傳說](https://zh.wikipedia.org/wiki/L_詐欺師佛雷特蘭德的華麗傳說 "wikilink")（[坂照鉄平](https://zh.wikipedia.org/wiki/坂照鉄平 "wikilink")/[水城葵](https://zh.wikipedia.org/wiki/水城葵 "wikilink")→[水谷悠珠](../Page/水谷悠珠.md "wikilink")）
+  - [L 詐欺師佛雷特蘭德的華麗傳說](https://zh.wikipedia.org/wiki/L_詐欺師佛雷特蘭德的華麗傳說 "wikilink")（[坂照鉄平](https://zh.wikipedia.org/wiki/坂照鉄平 "wikilink")/[水城葵](https://zh.wikipedia.org/wiki/水城葵 "wikilink")→[水谷悠珠](../Page/水谷悠珠.md "wikilink")）
 
   - [Re:笨蛋也能拯救世界？](../Page/Re：笨蛋也能拯救世界？.md "wikilink")（[柳實冬貴](../Page/柳實冬貴.md "wikilink")/）
 
@@ -81,8 +73,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
   - [彼岸花綻放之夜](../Page/彼岸花綻放之夜.md "wikilink")（/）
 
-  - [RISING×RYDEEN
-    異能對決](https://zh.wikipedia.org/wiki/RISING×RYDEEN_異能對決 "wikilink")（[初美陽一](https://zh.wikipedia.org/wiki/初美陽一 "wikilink")/）
+  - [RISING×RYDEEN 異能對決](https://zh.wikipedia.org/wiki/RISING×RYDEEN_異能對決 "wikilink")（[初美陽一](https://zh.wikipedia.org/wiki/初美陽一 "wikilink")/）
 
   - [當不成勇者的我，只好認真找工作了。](../Page/當不成勇者的我，只好認真找工作了。.md "wikilink")（[左京潤](../Page/左京潤.md "wikilink")/[戌角柾](../Page/戌角柾.md "wikilink")）
 
@@ -117,13 +108,11 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
 ### 未代理
 
-  - [偶像大師 XENOGLOSSIA](../Page/偶像大師_XENOGLOSSIA.md "wikilink")
-    ～絆～（[涼風涼](https://zh.wikipedia.org/wiki/涼風涼 "wikilink")）
+  - [偶像大師 XENOGLOSSIA](../Page/偶像大師_XENOGLOSSIA.md "wikilink") ～絆～（[涼風涼](https://zh.wikipedia.org/wiki/涼風涼 "wikilink")）
 
-  - [機械女神J](../Page/機械女神.md "wikilink")（[赤堀悟](../Page/赤堀悟.md "wikilink")/，台灣東販代理漫畫版）
+  - [機械女神](../Page/機械女神.md "wikilink")J（[赤堀悟](../Page/赤堀悟.md "wikilink")/，台灣東販代理漫畫版）
 
-  - [機甲兵團
-    J-PHOENIX](https://zh.wikipedia.org/wiki/機甲兵團_J-PHOENIX "wikilink")（作：，案：，著：[唯野条太郎](https://zh.wikipedia.org/wiki/唯野条太郎 "wikilink")//[石野聰](https://zh.wikipedia.org/wiki/石野聰 "wikilink")）
+  - [機甲兵團 J-PHOENIX](https://zh.wikipedia.org/wiki/機甲兵團_J-PHOENIX "wikilink")（作：，案：，著：[唯野条太郎](https://zh.wikipedia.org/wiki/唯野条太郎 "wikilink")//[石野聰](https://zh.wikipedia.org/wiki/石野聰 "wikilink")）
 
   - [氣象精靈記](https://zh.wikipedia.org/wiki/氣象精靈記 "wikilink")（[清水文化](https://zh.wikipedia.org/wiki/清水文化 "wikilink")/[七瀨葵](../Page/七瀨葵.md "wikilink")）
 
@@ -133,12 +122,11 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
   - [死神與巧克力百匯](../Page/死神與巧克力百匯.md "wikilink")（[花凰神也](https://zh.wikipedia.org/wiki/花凰神也 "wikilink")、，台灣角川代理漫畫版）
 
-  - [京四郎與永遠的空
-    -前奏曲-](../Page/京四郎與永遠的空.md "wikilink")（[植竹須美男](../Page/植竹須美男.md "wikilink")/[介錯](https://zh.wikipedia.org/wiki/介錯_\(漫画家\) "wikilink")，台灣角川代理漫畫版）
+  - [京四郎與永遠的空 -前奏曲-](../Page/京四郎與永遠的空.md "wikilink")（[植竹須美男](../Page/植竹須美男.md "wikilink")/[介錯](https://zh.wikipedia.org/wiki/介錯_\(漫画家\) "wikilink")，台灣角川代理漫畫版）
 
   - [聖槍修女](../Page/聖槍修女.md "wikilink")（[富永浩史](https://zh.wikipedia.org/wiki/富永浩史 "wikilink")/，東立出版社代理漫畫版）
 
-  - [櫻花大戰系列](../Page/櫻花大戰系列.md "wikilink")（[赤堀悟](../Page/赤堀悟.md "wikilink")、/[奧田萬里ほか](../Page/奧田萬里.md "wikilink")）
+  - [櫻花大戰系列](../Page/櫻花大戰系列.md "wikilink")（[赤堀悟](../Page/赤堀悟.md "wikilink")、/[奧田萬里](../Page/奧田萬里.md "wikilink")ほか）
 
   - （[雜賀禮史](../Page/雜賀禮史.md "wikilink")/）
 
@@ -156,8 +144,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
   - [火魅子傳](https://zh.wikipedia.org/wiki/火魅子傳 "wikilink")（舞阪洸/）
 
-  - [魔法使的條件
-    太陽與風的坡道](../Page/魔法使的條件_太陽與風的坡道.md "wikilink")（[山田典枝](https://zh.wikipedia.org/wiki/山田典枝 "wikilink")/，台灣角川代理漫畫版）
+  - [魔法使的條件 太陽與風的坡道](../Page/魔法使的條件_太陽與風的坡道.md "wikilink")（[山田典枝](https://zh.wikipedia.org/wiki/山田典枝 "wikilink")/，台灣角川代理漫畫版）
 
   - [魔術士歐菲](https://zh.wikipedia.org/wiki/魔術士歐菲 "wikilink")（[秋田禎信](https://zh.wikipedia.org/wiki/秋田禎信 "wikilink")/[草河遊也](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")，東立出版社代理漫畫版）\[1\]
 
@@ -177,12 +164,9 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
 ## 相關項目
 
-  - [月刊Dragon
-    Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")
-  - [富士見Dragon
-    Book](https://zh.wikipedia.org/wiki/富士見Dragon_Book "wikilink")
-  - [Light Novel
-    Award](https://zh.wikipedia.org/wiki/Light_Novel_Award "wikilink")
+  - [月刊Dragon Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")
+  - [富士見Dragon Book](https://zh.wikipedia.org/wiki/富士見Dragon_Book "wikilink")
+  - [Light Novel Award](https://zh.wikipedia.org/wiki/Light_Novel_Award "wikilink")
       - [富士見Mystery文庫](../Page/富士見Mystery文庫.md "wikilink")
       - [角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")
       - [電擊文庫](../Page/電擊文庫.md "wikilink")
@@ -196,9 +180,6 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
   - [富士見Fantasia文庫官方網站](http://www.fujimishobo.co.jp/novel/fantasia.php)
 
   -
-[Category:富士見書房](https://zh.wikipedia.org/wiki/Category:富士見書房 "wikilink")
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:1988年日本建立](https://zh.wikipedia.org/wiki/Category:1988年日本建立 "wikilink")
+[Category:富士見書房](https://zh.wikipedia.org/wiki/Category:富士見書房 "wikilink") [Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:1988年日本建立](https://zh.wikipedia.org/wiki/Category:1988年日本建立 "wikilink")
 
-1.  日本版權已移籍至[TO
-    Books](https://zh.wikipedia.org/wiki/TO_Books "wikilink")。
+1.  日本版權已移籍至[TO Books](https://zh.wikipedia.org/wiki/TO_Books "wikilink")。

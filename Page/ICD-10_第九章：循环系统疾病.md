@@ -58,13 +58,11 @@
   - I41 分类于他处的疾病引起的[心肌炎](../Page/心肌炎.md "wikilink")
   - I42 [心肌病](https://zh.wikipedia.org/wiki/心肌病 "wikilink")
   - I43 分类于他处的疾病引起的心肌病
-  - I44
-    [房室传导阻滞和](https://zh.wikipedia.org/wiki/房室传导阻滞 "wikilink")[左束支传导阻滞](https://zh.wikipedia.org/wiki/左束支传导阻滞 "wikilink")
+  - I44 [房室传导阻滞和](https://zh.wikipedia.org/wiki/房室传导阻滞 "wikilink")[左束支传导阻滞](https://zh.wikipedia.org/wiki/左束支传导阻滞 "wikilink")
   - I45 其他传导疾患
   - I46 [心脏停搏](https://zh.wikipedia.org/wiki/心脏停搏 "wikilink")
   - I47 [阵发性心动过速](https://zh.wikipedia.org/wiki/阵发性心动过速 "wikilink")
-  - I48
-    [心房纤颤和](https://zh.wikipedia.org/wiki/心房纤颤 "wikilink")[扑动](https://zh.wikipedia.org/wiki/心房扑动 "wikilink")
+  - I48 [心房纤颤和](https://zh.wikipedia.org/wiki/心房纤颤 "wikilink")[扑动](https://zh.wikipedia.org/wiki/心房扑动 "wikilink")
   - I49 其他的心脏心律失常
   - I50 [心力衰竭](https://zh.wikipedia.org/wiki/心力衰竭 "wikilink")
   - I51 心脏病的并发症和不明确表述
@@ -102,8 +100,7 @@
 
 [静脉](../Page/静脉.md "wikilink")、[淋巴管](../Page/淋巴管.md "wikilink")和[淋巴结疾病](https://zh.wikipedia.org/wiki/淋巴结 "wikilink")，不可归类在他处者（I80-I89）
 
-  - I80
-    [静脉炎和](https://zh.wikipedia.org/wiki/静脉炎 "wikilink")[血栓性静脉炎](https://zh.wikipedia.org/wiki/血栓性静脉炎 "wikilink")
+  - I80 [静脉炎和](https://zh.wikipedia.org/wiki/静脉炎 "wikilink")[血栓性静脉炎](https://zh.wikipedia.org/wiki/血栓性静脉炎 "wikilink")
   - I81 [门静脉血栓形成](https://zh.wikipedia.org/wiki/门静脉血栓形成 "wikilink")
   - I82 其他静脉栓塞和血栓形成
   - I83 [下肢静脉曲张](https://zh.wikipedia.org/wiki/下肢静脉曲张 "wikilink")
@@ -128,6 +125,4 @@
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

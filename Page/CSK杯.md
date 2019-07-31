@@ -1,4 +1,4 @@
-**CSK杯亚洲四强赛**，由[日本棋院和](../Page/日本棋院.md "wikilink")[冲绳](https://zh.wikipedia.org/wiki/冲绳 "wikilink")[CSK集团主办的](https://zh.wikipedia.org/wiki/CSK集团 "wikilink")[围棋团体赛](../Page/围棋.md "wikilink")，[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")，[日本](../Page/日本.md "wikilink")，[韩国和](https://zh.wikipedia.org/wiki/韩国 "wikilink")[中華台北各派五名棋手参赛](https://zh.wikipedia.org/wiki/中華台北 "wikilink")。每方保留时间是2小时。比赛按积分排名次；若积分相同，胜局数多者排前；若前两种方法均不能决定名次，从主将到第五将依次排序对比，胜局数多者排名靠前。第一至第四名的奖金额分别为2000万、1000万、600万、400万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。2002年開辦，2006年停辦。
+**CSK杯亚洲四强赛**，由[日本棋院](../Page/日本棋院.md "wikilink")和[冲绳](https://zh.wikipedia.org/wiki/冲绳 "wikilink")[CSK集团主办的](https://zh.wikipedia.org/wiki/CSK集团 "wikilink")[围棋](../Page/围棋.md "wikilink")团体赛，[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")，[日本](../Page/日本.md "wikilink")，[韩国和](https://zh.wikipedia.org/wiki/韩国 "wikilink")[中華台北各派五名棋手参赛](https://zh.wikipedia.org/wiki/中華台北 "wikilink")。每方保留时间是2小时。比赛按积分排名次；若积分相同，胜局数多者排前；若前两种方法均不能决定名次，从主将到第五将依次排序对比，胜局数多者排名靠前。第一至第四名的奖金额分别为2000万、1000万、600万、400万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。2002年開辦，2006年停辦。
 
 ## 歷年成績
 
@@ -300,8 +300,7 @@
 ## 外部链接
 
   - [CSK杯亚洲团体赛_TOM棋圣道场](http://weiqi.sports.tom.com/zhuantinew/73.html)
-  - [Web2go
-    亞洲杯／四國對抗賽](http://www.web2go.idv.tw/gopro/ttlx1_list.php?id=412)
+  - [Web2go 亞洲杯／四國對抗賽](http://www.web2go.idv.tw/gopro/ttlx1_list.php?id=412)
   - [GoBase.org - Asia Igo Cup](http://gobase.org/games/nn/asiacup/)
 
 [Category:国际围棋比赛](https://zh.wikipedia.org/wiki/Category:国际围棋比赛 "wikilink")

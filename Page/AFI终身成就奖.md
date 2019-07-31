@@ -1,9 +1,8 @@
-**美国电影学会终身成就奖**，简称**AFI终身成就奖**（****）是由[美国电影学会理事会颁发的奖项](../Page/美国电影学会.md "wikilink")，用以表彰通过电影或电视，终身致力于美国文化发展的个人。该奖项从1973年开始颁发，第一位获奖人为[约翰·福特](../Page/约翰·福特.md "wikilink")。\[1\]
+**美国电影学会终身成就奖**，简称**AFI终身成就奖**（****）是由[美国电影学会](../Page/美国电影学会.md "wikilink")理事会颁发的奖项，用以表彰通过电影或电视，终身致力于美国文化发展的个人。该奖项从1973年开始颁发，第一位获奖人为[约翰·福特](../Page/约翰·福特.md "wikilink")。\[1\]
 
 ## 获奖名单
 
-[Lillian_Gish-edit1.jpg](https://zh.wikipedia.org/wiki/File:Lillian_Gish-edit1.jpg "fig:Lillian_Gish-edit1.jpg")是唯一[默片時代的獲獎者](https://zh.wikipedia.org/wiki/默片 "wikilink")\]\]
-下文列出自1973年以来历届获奖人：\[2\]
+[Lillian_Gish-edit1.jpg](https://zh.wikipedia.org/wiki/File:Lillian_Gish-edit1.jpg "fig:Lillian_Gish-edit1.jpg")是唯一[默片時代的獲獎者](https://zh.wikipedia.org/wiki/默片 "wikilink")\]\] 下文列出自1973年以来历届获奖人：\[2\]
 
   - 2017年：[黛安·基頓](https://zh.wikipedia.org/wiki/黛安·基頓 "wikilink")
   - 2016年：[约翰·威廉姆斯](https://zh.wikipedia.org/wiki/约翰·威廉姆斯 "wikilink")
@@ -54,9 +53,7 @@
 
 ## 参考资料
 
-[Category:美国电影奖项](https://zh.wikipedia.org/wiki/Category:美国电影奖项 "wikilink")
-[Category:美國電影學會](https://zh.wikipedia.org/wiki/Category:美國電影學會 "wikilink")
-[Category:终身成就奖](https://zh.wikipedia.org/wiki/Category:终身成就奖 "wikilink")
+[Category:美国电影奖项](https://zh.wikipedia.org/wiki/Category:美国电影奖项 "wikilink") [Category:美國電影學會](https://zh.wikipedia.org/wiki/Category:美國電影學會 "wikilink") [Category:终身成就奖](https://zh.wikipedia.org/wiki/Category:终身成就奖 "wikilink")
 
 1.  [美国电影学会官方网站关于AFI终身成就奖介绍及历届获奖人名单](http://www.afi.com/tvevents/laa/laalist.aspx)
 

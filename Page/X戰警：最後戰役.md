@@ -155,13 +155,11 @@ Ben Foster</p></td>
 
 ### 評價
 
-[爛番茄](../Page/爛番茄.md "wikilink")新鮮度58%，基於236條評論，平均分為5.92/10\[1\]，而在[Metacritic](../Page/Metacritic.md "wikilink")上得到58分\[2\]
-，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")6.7分。
+[爛番茄](../Page/爛番茄.md "wikilink")新鮮度58%，基於236條評論，平均分為5.92/10\[1\]，而在[Metacritic](../Page/Metacritic.md "wikilink")上得到58分\[2\] ，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")6.7分。
 
 ### 票房
 
 美國於2006年5月26日上映，首週末收穫122,861,157美元位居當週冠軍，且打破了[陣亡將士紀念日的票房紀錄](https://zh.wikipedia.org/wiki/陣亡將士紀念日 "wikilink")\[3\]。
-
 
 ## 備註
 
@@ -183,19 +181,7 @@ Ben Foster</p></td>
 
   -
   -
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:2006年電影](https://zh.wikipedia.org/wiki/Category:2006年電影 "wikilink")
-[Category:2000年代科幻片](https://zh.wikipedia.org/wiki/Category:2000年代科幻片 "wikilink")
-[Category:2000年代動作片](https://zh.wikipedia.org/wiki/Category:2000年代動作片 "wikilink")
-[Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink")
-[Category:美國動作片](https://zh.wikipedia.org/wiki/Category:美國動作片 "wikilink")
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
-[Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink")
-[Category:X戰警電影](https://zh.wikipedia.org/wiki/Category:X戰警電影 "wikilink")
-[Category:漫威漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫威漫畫改編電影 "wikilink")
-[Category:舊金山背景電影](https://zh.wikipedia.org/wiki/Category:舊金山背景電影 "wikilink")
-[Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")
-[Category:上海电影译制厂译制作品](https://zh.wikipedia.org/wiki/Category:上海电影译制厂译制作品 "wikilink")
+[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:2006年電影](https://zh.wikipedia.org/wiki/Category:2006年電影 "wikilink") [Category:2000年代科幻片](https://zh.wikipedia.org/wiki/Category:2000年代科幻片 "wikilink") [Category:2000年代動作片](https://zh.wikipedia.org/wiki/Category:2000年代動作片 "wikilink") [Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink") [Category:美國動作片](https://zh.wikipedia.org/wiki/Category:美國動作片 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink") [Category:X戰警電影](https://zh.wikipedia.org/wiki/Category:X戰警電影 "wikilink") [Category:漫威漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫威漫畫改編電影 "wikilink") [Category:舊金山背景電影](https://zh.wikipedia.org/wiki/Category:舊金山背景電影 "wikilink") [Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink") [Category:上海电影译制厂译制作品](https://zh.wikipedia.org/wiki/Category:上海电影译制厂译制作品 "wikilink")
 
 1.
 2.

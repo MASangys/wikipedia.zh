@@ -1,5 +1,4 @@
-**LOVE
-PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")。2007年10月5日由[艾迴音樂在台灣發行](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")
+**LOVE PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")。2007年10月5日由[艾迴音樂在台灣發行](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")
 
 ## 收錄曲目
 
@@ -13,12 +12,10 @@ PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](https://zh.wikipedi
 2.  **食夢貘** - 5:16（ユメクイ）
       -
         第12張單曲
-        大塚愛本人主演的日劇『[東京朋友](https://zh.wikipedia.org/wiki/東京朋友 "wikilink")
-        The Movie』主題曲
+        大塚愛本人主演的日劇『[東京朋友](https://zh.wikipedia.org/wiki/東京朋友 "wikilink") The Movie』主題曲
 3.  **Mackerel's canned food** - 4:23
       -
-        [日本電視台](../Page/日本電視台.md "wikilink")『[GURU GURU
-        99](../Page/GURU_GURU_99.md "wikilink")』片尾曲
+        [日本電視台](../Page/日本電視台.md "wikilink")『[GURU GURU 99](../Page/GURU_GURU_99.md "wikilink")』片尾曲
 4.  **PEACH** - 4:11
       -
         第15張單曲
@@ -53,7 +50,4 @@ PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](https://zh.wikipedi
 
 </div>
 
-[Category:大塚愛音樂專輯](https://zh.wikipedia.org/wiki/Category:大塚愛音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:2007年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:大塚愛音樂專輯](https://zh.wikipedia.org/wiki/Category:大塚愛音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:2007年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯月榜冠軍作品 "wikilink") [Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")

@@ -1,20 +1,14 @@
 **Java注解**又称**Java标注**，是[Java](../Page/Java.md "wikilink")语言5.0版本开始支持加入[源代码](../Page/源代码.md "wikilink")的特殊语法[元数据](../Page/元数据.md "wikilink")\[1\]。
 
-Java语言中的类、方法、变量、参数和包等都可以被标注。和[Javadoc](../Page/Javadoc.md "wikilink")不同，Java标注可以通过反射获取标注内容。在[编译器生成](https://zh.wikipedia.org/wiki/编译器 "wikilink")[类文件时](https://zh.wikipedia.org/wiki/类文件 "wikilink")，标注可以被嵌入到[字节码中](https://zh.wikipedia.org/wiki/字节码 "wikilink")。[Java虚拟机](../Page/Java虚拟机.md "wikilink")可以保留标注内容，在运行时可以获取到标注内容\[2\]。
-当然它也支持自定义Java标注\[3\]
+Java语言中的类、方法、变量、参数和包等都可以被标注。和[Javadoc](../Page/Javadoc.md "wikilink")不同，Java标注可以通过反射获取标注内容。在[编译器生成](https://zh.wikipedia.org/wiki/编译器 "wikilink")[类文件时](https://zh.wikipedia.org/wiki/类文件 "wikilink")，标注可以被嵌入到[字节码中](https://zh.wikipedia.org/wiki/字节码 "wikilink")。[Java虚拟机](../Page/Java虚拟机.md "wikilink")可以保留标注内容，在运行时可以获取到标注内容\[2\]。 当然它也支持自定义Java标注\[3\]
 
 ## 历史
 
-Java 平台有许多特别的注解，例如 `transient` 修饰符, `@deprecated` javadoc 标签。2002 年，文案
-JSR-175 提出了通用需求的注解(或者说元注解)手段，并在 2004 年 9 月收到许多人的赞赏。\[4\] 从 JDK 1.5
-开始，java 开始支持注解。Annotation Processing tool (或者说 `apt` tool)
-提供了一个补充性的编译时注解操作的接口。文档 JSR-269 将它规范化，在 JDK 1.6 写入编译器
-javac 中。
+Java 平台有许多特别的注解，例如 `transient` 修饰符, `@deprecated` javadoc 标签。2002 年，文案 JSR-175 提出了通用需求的注解(或者说元注解)手段，并在 2004 年 9 月收到许多人的赞赏。\[4\] 从 JDK 1.5 开始，java 开始支持注解。Annotation Processing tool (或者说 `apt` tool) 提供了一个补充性的编译时注解操作的接口。文档 JSR-269 将它规范化，在 JDK 1.6 写入编译器 javac 中。
 
 ## 内置的注解
 
-Java 定义了一套注解，共有 7 个，3 个在 java.lang 中，剩下 4 个在 java.lang.annotation
-中\[5\]\[6\]
+Java 定义了一套注解，共有 7 个，3 个在 java.lang 中，剩下 4 个在 java.lang.annotation 中\[5\]\[6\]
 
 **作用在代码的注解是**
 
@@ -79,8 +73,7 @@ Java 定义了一套注解，共有 7 个，3 个在 java.lang 中，剩下 4 �
 
 编译器保留一组标注用于特定语法目的 (包括 `@Deprecated`, `@Override`和`@SuppressWarnings`等)。
 
-标注通常用于软件[框架为用户定义的类和方法提供引用外部资源的情形](https://zh.wikipedia.org/wiki/框架 "wikilink")，如XML配置文件、事务环境等。以下是一个标注过的EJB
-3.0的类：
+标注通常用于软件[框架为用户定义的类和方法提供引用外部资源的情形](https://zh.wikipedia.org/wiki/框架 "wikilink")，如XML配置文件、事务环境等。以下是一个标注过的EJB 3.0的类：
 
 ``` java
   @Entity                                           // 声明实体类

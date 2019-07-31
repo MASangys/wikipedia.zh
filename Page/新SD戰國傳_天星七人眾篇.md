@@ -157,8 +157,7 @@
 
 <!-- end list -->
 
-  - **迅風頑馱無**（[ORX-013GUNDAM](https://zh.wikipedia.org/wiki/ORX-013 "wikilink")
-    MK-V）
+  - **迅風頑馱無**（[ORX-013GUNDAM](https://zh.wikipedia.org/wiki/ORX-013 "wikilink") MK-V）
 
 <!-- end list -->
 
@@ -220,8 +219,7 @@
 
 ### 七逆星
 
-  - **魁斬頑馱無**（[Hydra
-    Gundam](https://zh.wikipedia.org/wiki/Hydra_Gundam "wikilink")）
+  - **魁斬頑馱無**（[Hydra Gundam](https://zh.wikipedia.org/wiki/Hydra_Gundam "wikilink")）
 
 <!-- end list -->
 
@@ -328,8 +326,7 @@
 
 <!-- end list -->
 
-  - **鎖鞭刃/改造再生鎖鞭刃**（[MMS-01 （OZ-17MS）
-    Serpent](https://zh.wikipedia.org/wiki/MMS-01_（OZ-17MS）_Serpent "wikilink")）
+  - **鎖鞭刃/改造再生鎖鞭刃**（[MMS-01 （OZ-17MS） Serpent](https://zh.wikipedia.org/wiki/MMS-01_（OZ-17MS）_Serpent "wikilink")）
 
 <!-- end list -->
 
@@ -343,8 +340,7 @@
 
 <!-- end list -->
 
-  - **賄主羽羅火**（[DT-6800HMC Wise
-    Wallaby](https://zh.wikipedia.org/wiki/DT-6800HMC_Wise_Wallaby "wikilink")）
+  - **賄主羽羅火**（[DT-6800HMC Wise Wallaby](https://zh.wikipedia.org/wiki/DT-6800HMC_Wise_Wallaby "wikilink")）
 
 <!-- end list -->
 
@@ -353,8 +349,7 @@
 
 <!-- end list -->
 
-  - **火羽羅火**（[DT-6800HM Fire
-    Wallaby](https://zh.wikipedia.org/wiki/DT-6800HM_Fire_Wallaby "wikilink")）
+  - **火羽羅火**（[DT-6800HM Fire Wallaby](https://zh.wikipedia.org/wiki/DT-6800HM_Fire_Wallaby "wikilink")）
 
 <!-- end list -->
 
@@ -363,8 +358,7 @@
 
 <!-- end list -->
 
-  - **怯鼓**（[OZ-02MD
-    Virgo](https://zh.wikipedia.org/wiki/OZ-02MD_Virgo "wikilink")）
+  - **怯鼓**（[OZ-02MD Virgo](https://zh.wikipedia.org/wiki/OZ-02MD_Virgo "wikilink")）
 
 <!-- end list -->
 
@@ -373,8 +367,7 @@
 
 <!-- end list -->
 
-  - **弍怯鼓**（[WF-02MD Virgo
-    II](https://zh.wikipedia.org/wiki/WF-02MD_Virgo_II "wikilink")）
+  - **弍怯鼓**（[WF-02MD Virgo II](https://zh.wikipedia.org/wiki/WF-02MD_Virgo_II "wikilink")）
 
 <!-- end list -->
 
@@ -383,8 +376,7 @@
 
 <!-- end list -->
 
-  - **針燕翔**（[NRX-009 （NR-001）
-    Balient](https://zh.wikipedia.org/wiki/NRX-009_（NR-001）_Balient "wikilink")）
+  - **針燕翔**（[NRX-009 （NR-001） Balient](https://zh.wikipedia.org/wiki/NRX-009_（NR-001）_Balient "wikilink")）
 
 <!-- end list -->
 
@@ -393,8 +385,7 @@
 
 <!-- end list -->
 
-  - **牙天龍**（[NRMA-006
-    Gadeel](https://zh.wikipedia.org/wiki/NRMA-006_Gadeel "wikilink")）
+  - **牙天龍**（[NRMA-006 Gadeel](https://zh.wikipedia.org/wiki/NRMA-006_Gadeel "wikilink")）
 
 <!-- end list -->
 
@@ -403,8 +394,7 @@
 
 <!-- end list -->
 
-  - **愚嵐電**（[MA-06
-    Grandeene](https://zh.wikipedia.org/wiki/MA-06_Grandeene "wikilink")）
+  - **愚嵐電**（[MA-06 Grandeene](https://zh.wikipedia.org/wiki/MA-06_Grandeene "wikilink")）
 
 <!-- end list -->
 
@@ -509,5 +499,4 @@ SD戰國傳．武者英雄譚（2007）ISBN 978-4063646887
 
 [SD戰國傳系列](../Page/SD戰國傳系列.md "wikilink")
 
-[Category:SD戰國傳](https://zh.wikipedia.org/wiki/Category:SD戰國傳 "wikilink")
-[Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
+[Category:SD戰國傳](https://zh.wikipedia.org/wiki/Category:SD戰國傳 "wikilink") [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")

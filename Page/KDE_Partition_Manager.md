@@ -1,14 +1,10 @@
 **KDE Partition Manager**是一個自由軟體的硬碟分割程式。
 
-它可用於創建、刪除、調整大小、移動、檢查和複製分區。這在創造新作業系統的空間、重組磁盤使用空間、複製硬盤的數據和鏡像一個分區與另一（磁盤映像）是有用的
-。此外，KDE Partition Manager可以備份文件系統為文件和恢復備份等。
+它可用於創建、刪除、調整大小、移動、檢查和複製分區。這在創造新作業系統的空間、重組磁盤使用空間、複製硬盤的數據和鏡像一個分區與另一（磁盤映像）是有用的 。此外，KDE Partition Manager可以備份文件系統為文件和恢復備份等。
 
-KDE Partition
-Manager是一個[KPart能整合在作業系統安裝程式](https://zh.wikipedia.org/wiki/KPart "wikilink")\[1\]以及用於[系統設定應用程式的KControl模塊](https://zh.wikipedia.org/wiki/系統設定 "wikilink")。
+KDE Partition Manager是一個[KPart能整合在作業系統安裝程式](https://zh.wikipedia.org/wiki/KPart "wikilink")\[1\]以及用於[系統設定應用程式的KControl模塊](https://zh.wikipedia.org/wiki/系統設定 "wikilink")。
 
-KDE Partition Manager項目提供了一個包括KDE Partition Manager的 live作業系統，可作為[Live
-CD](../Page/Live_CD.md "wikilink")、[Live
-USB和其他媒體](https://zh.wikipedia.org/wiki/Live_USB "wikilink")。
+KDE Partition Manager項目提供了一個包括KDE Partition Manager的 live作業系統，可作為[Live CD](../Page/Live_CD.md "wikilink")、[Live USB和其他媒體](https://zh.wikipedia.org/wiki/Live_USB "wikilink")。
 
 ## 版本歷史
 
@@ -51,16 +47,11 @@ USB和其他媒體](https://zh.wikipedia.org/wiki/Live_USB "wikilink")。
 
 ## 外部連結
 
-  - [KDE Partition Manager
-    website](https://web.archive.org/web/20150221202705/http://www.partitionmanager.org/)
-  - [The KDE Partition Manager
-    Handbook](http://docs.kde.org/development/en/extragear-sysadmin/partitionmanager/index.html)
-  - [KDE Partition Manager on
-    kde-apps.org](http://www.kde-apps.org/content/show.php/KDE+Partition+Manager?content=89595)
+  - [KDE Partition Manager website](https://web.archive.org/web/20150221202705/http://www.partitionmanager.org/)
+  - [The KDE Partition Manager Handbook](http://docs.kde.org/development/en/extragear-sysadmin/partitionmanager/index.html)
+  - [KDE Partition Manager on kde-apps.org](http://www.kde-apps.org/content/show.php/KDE+Partition+Manager?content=89595)
 
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:KDE_Extragear](https://zh.wikipedia.org/wiki/Category:KDE_Extragear "wikilink")
-[Category:自由分区软件](https://zh.wikipedia.org/wiki/Category:自由分区软件 "wikilink")
+[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:KDE_Extragear](https://zh.wikipedia.org/wiki/Category:KDE_Extragear "wikilink") [Category:自由分区软件](https://zh.wikipedia.org/wiki/Category:自由分区软件 "wikilink")
 
 1.
 2.

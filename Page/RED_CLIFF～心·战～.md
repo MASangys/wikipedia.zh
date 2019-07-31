@@ -1,5 +1,4 @@
-《》（RED
-CLIFF～心·战～）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")的第六张[单曲](../Page/单曲.md "wikilink")，是alan从2008年7月开始连续5个月单曲连发，以“创造地球的五大元素”：[地](https://zh.wikipedia.org/wiki/地 "wikilink")、[空](https://zh.wikipedia.org/wiki/空 "wikilink")、[风](https://zh.wikipedia.org/wiki/风 "wikilink")、[火](../Page/火.md "wikilink")、[水](../Page/水.md "wikilink")为主题的第四弹。作为[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[史诗](../Page/史诗.md "wikilink")[电影](../Page/电影.md "wikilink")[赤壁上部的全世界](https://zh.wikipedia.org/wiki/赤壁_\(電影\) "wikilink")[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。
+《》（RED CLIFF～心·战～）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")的第六张[单曲](../Page/单曲.md "wikilink")，是alan从2008年7月开始连续5个月单曲连发，以“创造地球的五大元素”：[地](https://zh.wikipedia.org/wiki/地 "wikilink")、[空](https://zh.wikipedia.org/wiki/空 "wikilink")、[风](https://zh.wikipedia.org/wiki/风 "wikilink")、[火](../Page/火.md "wikilink")、[水](../Page/水.md "wikilink")为主题的第四弹。作为[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[史诗](../Page/史诗.md "wikilink")[电影](../Page/电影.md "wikilink")[赤壁上部的全世界](https://zh.wikipedia.org/wiki/赤壁_\(電影\) "wikilink")[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。
 
 ## 公信榜销售情况
 
@@ -23,8 +22,7 @@ CLIFF～心·战～）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink
 ### 日本版CD
 
 1.    - 电影《[レッドクリフ](../Page/赤壁_\(电影\).md "wikilink")》（赤壁）的主题曲
-      - 《[真·三国无双5
-        Special](https://zh.wikipedia.org/wiki/真・三國無双 "wikilink")》的TVCF歌曲
+      - 《[真·三国无双5 Special](https://zh.wikipedia.org/wiki/真・三國無双 "wikilink")》的TVCF歌曲
 
 2.  心·战～RED CLIFF～
 
@@ -54,11 +52,6 @@ CLIFF～心·战～）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink
 3.  **三生石三生路**
       - 作词：[陈立志](https://zh.wikipedia.org/wiki/陈立志 "wikilink")　作曲：菊池一仁　编曲：[tasuku](https://zh.wikipedia.org/wiki/tasuku "wikilink")
 4.  **迷失的祝福**
-      - 作词：[崔恕](https://zh.wikipedia.org/wiki/崔恕 "wikilink")　作曲：菊池一仁　编曲：[Kyoda
-        Seiichi](https://zh.wikipedia.org/wiki/Kyoda_Seiichi "wikilink")
+      - 作词：[崔恕](https://zh.wikipedia.org/wiki/崔恕 "wikilink")　作曲：菊池一仁　编曲：[Kyoda Seiichi](https://zh.wikipedia.org/wiki/Kyoda_Seiichi "wikilink")
 
-[Category:2008年音乐专辑](https://zh.wikipedia.org/wiki/Category:2008年音乐专辑 "wikilink")
-[Category:中国歌曲](https://zh.wikipedia.org/wiki/Category:中国歌曲 "wikilink")
-[Category:Alan的歌曲](https://zh.wikipedia.org/wiki/Category:Alan的歌曲 "wikilink")
-[Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
+[Category:2008年音乐专辑](https://zh.wikipedia.org/wiki/Category:2008年音乐专辑 "wikilink") [Category:中国歌曲](https://zh.wikipedia.org/wiki/Category:中国歌曲 "wikilink") [Category:Alan的歌曲](https://zh.wikipedia.org/wiki/Category:Alan的歌曲 "wikilink") [Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")

@@ -1,22 +1,11 @@
-社團法人**全日本CM放送聯盟**（，，通稱ACC），是由[日本廣告主協會](https://zh.wikipedia.org/wiki/日本廣告主協會 "wikilink")（Japan
-Advertisers
-Association，通稱JAA）、[日本廣告業協會](https://zh.wikipedia.org/wiki/日本廣告業協會 "wikilink")（Japan
-Advertising Agencies
-Association，通稱JAAA）、[放送廣告代理店中央聯盟](https://zh.wikipedia.org/wiki/放送廣告代理店中央聯盟 "wikilink")、[日本電視商業製作公司聯盟](https://zh.wikipedia.org/wiki/日本電視商業製作公司聯盟 "wikilink")（Japan
-Association of TV Commercial production
-companies，通稱JAC）、[日本民間放送聯盟](../Page/日本民間放送聯盟.md "wikilink")（National
-Association of Commercial Broadcasters in Japan，通稱NAB）等各業界團體，所參加而組成。
+社團法人**全日本CM放送聯盟**（，，通稱ACC），是由[日本廣告主協會](https://zh.wikipedia.org/wiki/日本廣告主協會 "wikilink")（Japan Advertisers Association，通稱JAA）、[日本廣告業協會](https://zh.wikipedia.org/wiki/日本廣告業協會 "wikilink")（Japan Advertising Agencies Association，通稱JAAA）、[放送廣告代理店中央聯盟](https://zh.wikipedia.org/wiki/放送廣告代理店中央聯盟 "wikilink")、[日本電視商業製作公司聯盟](https://zh.wikipedia.org/wiki/日本電視商業製作公司聯盟 "wikilink")（Japan Association of TV Commercial production companies，通稱JAC）、[日本民間放送聯盟](../Page/日本民間放送聯盟.md "wikilink")（National Association of Commercial Broadcasters in Japan，通稱NAB）等各業界團體，所參加而組成。
 
-以社會文化的貢獻為目標，培育廣告的健全發展為目的，於1960年首先由日本廣告主協會、日本廣告業協会、日本民間放送聯盟，組成「廣告聯合研究會
-（Allied CM Council，簡稱ACC）」，接著在1963年改組成「全日本廣告協議會 （All Japan Radio
-＆Television Commercial
-Council，簡稱ACC）」，最後在1993年，以公益活動為基礎且非營利而社團法人化，設立全日本ＣＭ放送聯盟至今。
+以社會文化的貢獻為目標，培育廣告的健全發展為目的，於1960年首先由日本廣告主協會、日本廣告業協会、日本民間放送聯盟，組成「廣告聯合研究會 （Allied CM Council，簡稱ACC）」，接著在1963年改組成「全日本廣告協議會 （All Japan Radio ＆Television Commercial Council，簡稱ACC）」，最後在1993年，以公益活動為基礎且非營利而社團法人化，設立全日本ＣＭ放送聯盟至今。
 
 ## ACC沿革
 
   - 1960年
-      - 由日本廣告主協會、日本民間放送協會、日本廣告業協會三個團體組成「CM合同研究会」(Allied CM
-        Council；簡稱ACC)開始發跡，以提昇廣告的素質為目標而開始展開活動。
+      - 由日本廣告主協會、日本民間放送協會、日本廣告業協會三個團體組成「CM合同研究会」(Allied CM Council；簡稱ACC)開始發跡，以提昇廣告的素質為目標而開始展開活動。
       - 同時發行機關雜誌「ACC」，主要是讓會員之間的意見做交換。
   - 1961年
       - 第1回ACC CMフェスティバル開辦(參選本數：487本、得獎作品數：123本)
@@ -24,8 +13,7 @@ Council，簡稱ACC）」，最後在1993年，以公益活動為基礎且非營
       - 發行CMハンドブックシリーズ，致力開發廣告事業。
       - 日本電視commercial film製作者聯盟(現：日本電視商業製作公司聯盟)加入聯盟，整體的體制也逐漸完備。
   - 1963年
-      - 「CM合同研究会」改組成「全日本CM協議会」(All Japan Radio & TV Commercial
-        Council；簡稱ACC)。
+      - 「CM合同研究会」改組成「全日本CM協議会」(All Japan Radio & TV Commercial Council；簡稱ACC)。
       - 第3回的ACC CMフェスティバル，選出第一個大獎。
       - 制定ACC会長賞，並且直接舉辦會長獎的第一回贈賞。
   - 1964
@@ -61,8 +49,7 @@ Council，簡稱ACC）」，最後在1993年，以公益活動為基礎且非營
   - 1992
       - 發表廣告著作權運用方針「關於廣告(影像廣告)的使用」。
   - 1993
-      - 將全日本CM協議会改組，成立社団法人全日本シーエム放送連盟(All Japan Radio & Television
-        Commercial Confederation；簡稱ACC)。
+      - 將全日本CM協議会改組，成立社団法人全日本シーエム放送連盟(All Japan Radio & Television Commercial Confederation；簡稱ACC)。
   - 1994
       - 創立ACC CM情報センター，針對第三者，確立使用廣告目的以外的對應。
   - 1995
@@ -100,5 +87,4 @@ Council，簡稱ACC）」，最後在1993年，以公益活動為基礎且非營
 
   - [(社)全日本CM放送聯盟(ACC)](http://www.acc-cm.or.jp/)
 
-[Category:日本组织](https://zh.wikipedia.org/wiki/Category:日本组织 "wikilink")
-[Category:日本媒体](https://zh.wikipedia.org/wiki/Category:日本媒体 "wikilink")
+[Category:日本组织](https://zh.wikipedia.org/wiki/Category:日本组织 "wikilink") [Category:日本媒体](https://zh.wikipedia.org/wiki/Category:日本媒体 "wikilink")

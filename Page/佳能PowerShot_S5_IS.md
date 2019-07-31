@@ -1,6 +1,4 @@
-**[佳能](../Page/佳能.md "wikilink") PowerShot S5 IS**
-这部800万像素的[数码相机拥有](../Page/数码相机.md "wikilink")12x
-[变焦镜头和IS影像稳定系统](../Page/变焦镜头.md "wikilink")。
+**[佳能](../Page/佳能.md "wikilink") PowerShot S5 IS** 这部800万像素的[数码相机](../Page/数码相机.md "wikilink")拥有12x [变焦镜头](../Page/变焦镜头.md "wikilink")和IS影像稳定系统。
 
 ## 参数
 
@@ -47,8 +45,7 @@
 ## 外部链接
 
   - [Canon Inc.](http://www.canon.com)
-  - [Canon's S5 IS product information
-    page](http://web.canon.jp/Imaging/pss5is/index-e.html)
+  - [Canon's S5 IS product information page](http://web.canon.jp/Imaging/pss5is/index-e.html)
 
 |- |colspan="3" style="text-align:center;"|**佳能 "长焦" 消费数码相机** |-
 

@@ -1,22 +1,18 @@
-**S-II**（读作“S-two”）是[土星五号的第二级](https://zh.wikipedia.org/wiki/土星五号 "wikilink")，由[北美航空](../Page/北美航空.md "wikilink")制造。该级由五台J-2液氢液氧发动机驱动，在高层大气中提供给火箭5
-MN的推力。
+**S-II**（读作“S-two”）是[土星五号的第二级](https://zh.wikipedia.org/wiki/土星五号 "wikilink")，由[北美航空](../Page/北美航空.md "wikilink")制造。该级由五台J-2液氢液氧发动机驱动，在高层大气中提供给火箭5 MN的推力。
 
 ## 历史
 
-[Saturn_v_building_seal_beach.jpg](https://zh.wikipedia.org/wiki/File:Saturn_v_building_seal_beach.jpg "fig:Saturn_v_building_seal_beach.jpg")
-1959年12月，美国宇航部门决定要研发一种大推力液氢燃料火箭发动机。[洛克达因获得了发动机制造协议](https://zh.wikipedia.org/wiki/洛克达因 "wikilink")，这就是后来的J-2发动机。同时，S-II的设计也初现雏形，当时的设计是使用四台J-2，长为22.5米，直径6.5米。
+[Saturn_v_building_seal_beach.jpg](https://zh.wikipedia.org/wiki/File:Saturn_v_building_seal_beach.jpg "fig:Saturn_v_building_seal_beach.jpg") 1959年12月，美国宇航部门决定要研发一种大推力液氢燃料火箭发动机。[洛克达因获得了发动机制造协议](https://zh.wikipedia.org/wiki/洛克达因 "wikilink")，这就是后来的J-2发动机。同时，S-II的设计也初现雏形，当时的设计是使用四台J-2，长为22.5米，直径6.5米。
 
 1961年，[马歇尔航天飞行中心开始招募承包商来制造S](https://zh.wikipedia.org/wiki/马歇尔航天飞行中心 "wikilink")-II。在邀请参加招标会的30家航天公司中，只有7家在一个月后递交了意向书，在仔细审查后，又有3家公司被排除。这时，设计部门发现原尺寸太小，未定的尺寸以及未定的上面级都给投标公司带来了不小麻烦。1961年9月11日，制造合同最终给了[北美航空](../Page/北美航空.md "wikilink")，北美航空使用政府建造在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[海豹滩市的工厂进行生产](https://zh.wikipedia.org/wiki/海豹滩市 "wikilink")。
 
 ## 组件
 
-[SaturnV_S-II.jpg](https://zh.wikipedia.org/wiki/File:SaturnV_S-II.jpg "fig:SaturnV_S-II.jpg")
-装满推进剂，S-II级重约500,000 kg，其中设备部分只占3%的重量。
+[SaturnV_S-II.jpg](https://zh.wikipedia.org/wiki/File:SaturnV_S-II.jpg "fig:SaturnV_S-II.jpg") 装满推进剂，S-II级重约500,000 kg，其中设备部分只占3%的重量。
 
 五台发动机连接在底部的推力受力结构上，中间一台是固定的，周围四台可在液压机控制下自由转动。
 
-与S-IC上两个推进剂箱以空腔隔开的设计不同，S-II的液氧箱顶部和液氢箱的底部由一层隔离层相连。隔离层是两层铝箔以及铝箔之间的[苯酚](../Page/苯酚.md "wikilink")蜂窝状夹层结构组成。隔离层可承受两面70℃
-(125℉) 的温差。这种共用隔离层设计为S-II减少了3.6吨的重量。
+与S-IC上两个推进剂箱以空腔隔开的设计不同，S-II的液氧箱顶部和液氢箱的底部由一层隔离层相连。隔离层是两层铝箔以及铝箔之间的[苯酚](../Page/苯酚.md "wikilink")蜂窝状夹层结构组成。隔离层可承受两面70℃ (125℉) 的温差。这种共用隔离层设计为S-II减少了3.6吨的重量。
 
 液氧箱呈[椭圆形](https://zh.wikipedia.org/wiki/椭圆形 "wikilink")，直径10米，高6.7米。其侧面由12块三角片焊接而成，两个底面是两个整圆片。每片三角片依据其位置被放置在一个装有211000升水的水箱中进行三次精确水下爆炸成形。
 
@@ -178,5 +174,4 @@ MN的推力。
   - [土星火箭级](http://history.nasa.gov/SP-4206/sp4206.htm)
   - [土星五号参数页](http://www.apollosaturn.com/)
 
-[Category:阿波罗计划](https://zh.wikipedia.org/wiki/Category:阿波罗计划 "wikilink")
-[Category:火箭级](https://zh.wikipedia.org/wiki/Category:火箭级 "wikilink")
+[Category:阿波罗计划](https://zh.wikipedia.org/wiki/Category:阿波罗计划 "wikilink") [Category:火箭级](https://zh.wikipedia.org/wiki/Category:火箭级 "wikilink")

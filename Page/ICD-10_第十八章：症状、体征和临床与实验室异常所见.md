@@ -9,8 +9,7 @@ R00-R09 涉及循环和[呼吸系统的症状和体征](https://zh.wikipedia.org
   - R04 呼吸道出血
   - R05 [咳嗽](../Page/咳嗽.md "wikilink")
   - R06 [呼吸异常](https://zh.wikipedia.org/wiki/呼吸异常 "wikilink")
-  - R07
-    [咽痛和](https://zh.wikipedia.org/wiki/咽痛 "wikilink")[胸痛](https://zh.wikipedia.org/wiki/胸痛 "wikilink")
+  - R07 [咽痛和](https://zh.wikipedia.org/wiki/咽痛 "wikilink")[胸痛](https://zh.wikipedia.org/wiki/胸痛 "wikilink")
   - R09 累及循环和呼吸系统的其他症状和体征
 
 ## R10-R19 涉及消化系统和腹部的症状和体征
@@ -18,8 +17,7 @@ R00-R09 涉及循环和[呼吸系统的症状和体征](https://zh.wikipedia.org
 R10-R19 涉及[消化系统](../Page/消化系统.md "wikilink")和腹部的症状和体征
 
   - R10 腹部和[盆腔痛](https://zh.wikipedia.org/wiki/盆腔痛 "wikilink")
-  - R11
-    [恶心和](https://zh.wikipedia.org/wiki/恶心 "wikilink")[呕吐](../Page/呕吐.md "wikilink")
+  - R11 [恶心和](https://zh.wikipedia.org/wiki/恶心 "wikilink")[呕吐](../Page/呕吐.md "wikilink")
   - R12 [胃灼热](https://zh.wikipedia.org/wiki/胃灼热 "wikilink")
   - R13 咽食困难
   - R14 胃肠胀气及相关情况
@@ -35,8 +33,7 @@ R20-R23 涉及皮肤和皮下组织的症状和体征
 
   - R20 皮肤触觉障碍
   - R21 [皮疹和其他非特异性皮肤疹](https://zh.wikipedia.org/wiki/皮疹 "wikilink")
-  - R22
-    [皮肤和皮下组织的局部肿胀](https://zh.wikipedia.org/wiki/皮肤 "wikilink")、肿物和肿块
+  - R22 [皮肤和皮下组织的局部肿胀](https://zh.wikipedia.org/wiki/皮肤 "wikilink")、肿物和肿块
   - R23 其他皮肤改变
 
 ## R25-R29 涉及神经和肌肉骨骼系统的症状和体征
@@ -65,12 +62,9 @@ R30-R39 涉及[泌尿系统的症状和体征](https://zh.wikipedia.org/wiki/泌
 
 R40-R46 涉及认知、感觉、情绪状态和行为的症状和体征
 
-  - R40
-    [木僵](https://zh.wikipedia.org/wiki/木僵 "wikilink")、[嗜睡和](https://zh.wikipedia.org/wiki/嗜睡 "wikilink")[昏迷](../Page/昏迷.md "wikilink")
-  - R41
-    涉及[认知功能和意识的其他症状和体征](https://zh.wikipedia.org/wiki/认知功能 "wikilink")
-  - R42
-    [头晕和](https://zh.wikipedia.org/wiki/头晕 "wikilink")[眩晕](../Page/眩暈_\(醫學\).md "wikilink")
+  - R40 [木僵](https://zh.wikipedia.org/wiki/木僵 "wikilink")、[嗜睡和](https://zh.wikipedia.org/wiki/嗜睡 "wikilink")[昏迷](../Page/昏迷.md "wikilink")
+  - R41 涉及[认知功能和意识的其他症状和体征](https://zh.wikipedia.org/wiki/认知功能 "wikilink")
+  - R42 [头晕和](https://zh.wikipedia.org/wiki/头晕 "wikilink")[眩晕](../Page/眩暈_\(醫學\).md "wikilink")
   - R43 [嗅觉](../Page/嗅觉.md "wikilink")和[味觉](../Page/味觉.md "wikilink")障碍
   - R44 涉及一般感觉和知觉的其他症状和体征
   - R45 涉及情绪状态的症状和体征
@@ -93,8 +87,7 @@ R50-R69 一般症状和体征
   - R52 [疼痛](../Page/疼痛.md "wikilink")，不可归类在他处者
   - R53 不适和[疲劳](https://zh.wikipedia.org/wiki/疲劳 "wikilink")
   - R54 [衰老](https://zh.wikipedia.org/wiki/衰老 "wikilink")
-  - R55
-    [晕厥和](https://zh.wikipedia.org/wiki/晕厥 "wikilink")[虚脱](https://zh.wikipedia.org/wiki/虚脱 "wikilink")
+  - R55 [晕厥和](https://zh.wikipedia.org/wiki/晕厥 "wikilink")[虚脱](https://zh.wikipedia.org/wiki/虚脱 "wikilink")
   - R56 [惊厥](https://zh.wikipedia.org/wiki/惊厥 "wikilink")，不可归类在他处者
   - R57 [休克](../Page/休克.md "wikilink")，不可归类在他处者
   - R58 [出血](../Page/出血.md "wikilink")，不可归类在他处者
@@ -116,8 +109,7 @@ R70-R79 血液检查的异常所见，无诊断者
   - R72 [白细胞异常](https://zh.wikipedia.org/wiki/白细胞 "wikilink")，不可归类在他处者
   - R73 血糖水平升高
   - R74 [血清酶水平异常](https://zh.wikipedia.org/wiki/血清酶 "wikilink")
-  - R75
-    [人类免疫缺陷病毒的实验鉴定](https://zh.wikipedia.org/wiki/人类免疫缺陷病毒 "wikilink")
+  - R75 [人类免疫缺陷病毒的实验鉴定](https://zh.wikipedia.org/wiki/人类免疫缺陷病毒 "wikilink")
   - R76 其他血清免疫学异常所见
   - R77 [血浆蛋白的其他异常](https://zh.wikipedia.org/wiki/血浆蛋白 "wikilink")
   - R78 血中发现通常不出现的药物和其他物质
@@ -166,6 +158,4 @@ R95-R99 原因不明确和原因不知的死亡
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

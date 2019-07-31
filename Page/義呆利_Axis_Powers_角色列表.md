@@ -1,16 +1,12 @@
-表列出漫畫《[義呆利 Axis
-Powers](../Page/義呆利_Axis_Powers.md "wikilink")》中的登場[角色](../Page/角色.md "wikilink")。其中[每一個角色均代表著不同的國家或地區](https://zh.wikipedia.org/wiki/國家化身 "wikilink")，個性依其[民族性也有所不同](https://zh.wikipedia.org/wiki/民族性 "wikilink")。作品本質屬於輕鬆搞笑類型，因此某種程度上迴避了[尖銳的](https://zh.wikipedia.org/wiki/屠殺猶太人 "wikilink")[歷史問題](../Page/南京大屠殺.md "wikilink")，與真實歷史有[較大程度的差異](https://zh.wikipedia.org/wiki/俄日戰爭 "wikilink")。
+表列出漫畫《[義呆利 Axis Powers](../Page/義呆利_Axis_Powers.md "wikilink")》中的登場[角色](../Page/角色.md "wikilink")。其中[每一個角色均代表著不同的國家或地區](https://zh.wikipedia.org/wiki/國家化身 "wikilink")，個性依其[民族性也有所不同](https://zh.wikipedia.org/wiki/民族性 "wikilink")。作品本質屬於輕鬆搞笑類型，因此某種程度上迴避了[尖銳的](https://zh.wikipedia.org/wiki/屠殺猶太人 "wikilink")[歷史問題](../Page/南京大屠殺.md "wikilink")，與真實歷史有[較大程度的差異](https://zh.wikipedia.org/wiki/俄日戰爭 "wikilink")。
 
 商業版[廣播劇CD和](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[電視動畫的](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[配音員](../Page/配音員.md "wikilink")是共通的。
 
-條目僅收錄[日丸屋秀和](../Page/日丸屋秀和.md "wikilink")的作品，並未收錄其他同人作品創造出的[角色](../Page/角色.md "wikilink")。和真實存在的[政黨](https://zh.wikipedia.org/wiki/政黨 "wikilink")、[國家](https://zh.wikipedia.org/wiki/國家 "wikilink")、[人物無直接關係](https://zh.wikipedia.org/wiki/人物 "wikilink")。
-原版爲[日文維基百科](https://zh.wikipedia.org/wiki/日文維基百科 "wikilink")－[ヘタリア Axis
-Powers的](https://zh.wikipedia.org/wiki/ヘタリア_Axis_Powers "wikilink")[翻譯與適當補充](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。
+條目僅收錄[日丸屋秀和](../Page/日丸屋秀和.md "wikilink")的作品，並未收錄其他同人作品創造出的[角色](../Page/角色.md "wikilink")。和真實存在的[政黨](https://zh.wikipedia.org/wiki/政黨 "wikilink")、[國家](https://zh.wikipedia.org/wiki/國家 "wikilink")、[人物無直接關係](https://zh.wikipedia.org/wiki/人物 "wikilink")。 原版爲[日文維基百科](https://zh.wikipedia.org/wiki/日文維基百科 "wikilink")－[ヘタリア Axis Powers的](https://zh.wikipedia.org/wiki/ヘタリア_Axis_Powers "wikilink")[翻譯與適當補充](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。
 
 ### 主要國
 
-**主要國**是指[義呆利 Axis
-Powers中](../Page/義呆利_Axis_Powers.md "wikilink")8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikilink")，是本作的八大主角。
+**主要國**是指[義呆利 Axis Powers中](../Page/義呆利_Axis_Powers.md "wikilink")8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikilink")，是本作的八大主角。
 
 #### [軸心國](https://zh.wikipedia.org/wiki/軸心國 "wikilink")
 
@@ -86,8 +82,7 @@ Powers中](../Page/義呆利_Axis_Powers.md "wikilink")8個主要[二戰參戰�
   -
   - 女版名称：莫妮卡（モニカ，Monica）
 
-  - 全稱：德意志聯邦共和國
-    （国旗采用的都是现代德国的[黑红金三色旗](../Page/德国国旗.md "wikilink")，然而[一战的德国应为](https://zh.wikipedia.org/wiki/一战 "wikilink")[德意志帝国](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")，[二战时则为](https://zh.wikipedia.org/wiki/二战 "wikilink")[纳粹德国](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")，[冷战](../Page/冷战.md "wikilink")时期又分裂出了[德意志民主共和国](https://zh.wikipedia.org/wiki/德意志民主共和国 "wikilink")）
+  - 全稱：德意志聯邦共和國 （国旗采用的都是现代德国的[黑红金三色旗](../Page/德国国旗.md "wikilink")，然而[一战的德国应为](https://zh.wikipedia.org/wiki/一战 "wikilink")[德意志帝国](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")，[二战时则为](https://zh.wikipedia.org/wiki/二战 "wikilink")[纳粹德国](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")，[冷战](../Page/冷战.md "wikilink")时期又分裂出了[德意志民主共和国](https://zh.wikipedia.org/wiki/德意志民主共和国 "wikilink")）
 
   - 英文：Federal Republic of Germany　　
 
@@ -339,8 +334,7 @@ Powers中](../Page/義呆利_Axis_Powers.md "wikilink")8個主要[二戰參戰�
     於《》裝扮的鬼怪是[吸血鬼伯爵](https://zh.wikipedia.org/wiki/吸血 "wikilink")。
     於作者繪製的2011年萬聖節系列短漫中，打扮成[福爾摩斯](https://zh.wikipedia.org/wiki/福爾摩斯 "wikilink")。
     角色歌為《》和《》。
-    在動畫第五季
-    W學園中參加的是魔法部，活動內容為夫婦圓滿魔法、戀愛咒語、[某個帶著眼鏡額頭上有閃電傷疤的魔法師的](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")[cosplay](https://zh.wikipedia.org/wiki/cosplay "wikilink")、祈禱收成，以及其他種種。被禁止進出美食部。
+    在動畫第五季 W學園中參加的是魔法部，活動內容為夫婦圓滿魔法、戀愛咒語、[某個帶著眼鏡額頭上有閃電傷疤的魔法師的](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")[cosplay](https://zh.wikipedia.org/wiki/cosplay "wikilink")、祈禱收成，以及其他種種。被禁止進出美食部。
 
 <!-- end list -->
 
@@ -400,8 +394,7 @@ Powers中](../Page/義呆利_Axis_Powers.md "wikilink")8個主要[二戰參戰�
     於《》裝扮的鬼怪是幽靈。
     於作者繪製的2011年萬聖節系列短漫中，打扮成[彼得潘](../Page/彼得潘.md "wikilink")，並和打扮成精靈的[摩納哥一起出場](https://zh.wikipedia.org/wiki/摩納哥 "wikilink")。
     角色歌為《》和《》。
-    在動畫第五季
-    W學園中与[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")一同參加的是美食部，活動內容為做美食、吃美食、愛美食，另外美食部禁止英國進入。
+    在動畫第五季 W學園中与[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")一同參加的是美食部，活動內容為做美食、吃美食、愛美食，另外美食部禁止英國進入。
 
 <!-- end list -->
 
@@ -521,39 +514,32 @@ Powers中](../Page/義呆利_Axis_Powers.md "wikilink")8個主要[二戰參戰�
     之後扶養年幼的日本，將日本視為弟弟般養育，但沒想到長大後的日本處處與他相對，甚至[和其他人一起對付他](../Page/八國聯軍.md "wikilink")，背後有一道刀疤，疑似[日本所致](../Page/南京大屠殺.md "wikilink")。
     教日本寫過[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")，但是對於日本發明和使用了[假名的事而倍感生氣](https://zh.wikipedia.org/wiki/假名 "wikilink")。
     目前與[日本](../Page/日本.md "wikilink")的關係恢復不少，偶爾在經濟合作上會产生些许不协调。
-    會擅自在[Made In
-    China的點心或零食包裝袋上標上](../Page/中國製造.md "wikilink")[文法錯誤的日文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")。
-    很喜歡玩偶，曾經為了他的上司（一條綠色的[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")）在日本送給中國的[Hello
-    Kitty上用毛筆畫上嘴巴而大發脾氣](../Page/Hello_Kitty.md "wikilink")，並且不停地用玩偶敲擊上司的頭。(結果變爲了Kitty的山寨貨Gitty。)
+    會擅自在[Made In China的點心或零食包裝袋上標上](../Page/中國製造.md "wikilink")[文法錯誤的日文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")。
+    很喜歡玩偶，曾經為了他的上司（一條綠色的[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")）在日本送給中國的[Hello Kitty上用毛筆畫上嘴巴而大發脾氣](../Page/Hello_Kitty.md "wikilink")，並且不停地用玩偶敲擊上司的頭。(結果變爲了Kitty的山寨貨Gitty。)
     於《》擔任的樂器是[二胡](../Page/二胡.md "wikilink")
     在作者製作的遊戲《》中的職業是商人（不是戰鬥人員，而是作為販賣物品的NPC出現。）
     於《》中得到的禮物是[盜版哆啦A夢和](../Page/哆啦A夢.md "wikilink")[文房四寶](https://zh.wikipedia.org/wiki/文房四寶 "wikilink")（[筆、墨、紙、硯](https://zh.wikipedia.org/wiki/筆墨紙硯 "wikilink")），包裝的花紋是粉紅色底帶有白色和紫色的[櫻花圖案](https://zh.wikipedia.org/wiki/櫻花 "wikilink")（動畫裡改為綠色緞帶和沒有花紋的純黃色的底色）的布袋（其他人都是禮盒）。
     於《》裝扮的鬼怪是[清朝的殭屍](../Page/殭屍.md "wikilink")。
     於作者繪製的2011年萬聖節系列短漫中，打扮成[孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")，並和[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")還有[澳門](../Page/澳門.md "wikilink")一起出場。
     角色歌為《》和《》。
-    在動畫第五季
-    W學園中和[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")一起參加的是美食部，活動內容為做美食、吃美食、愛美食，另外美食部禁止[英國進入](https://zh.wikipedia.org/wiki/英國 "wikilink")。
+    在動畫第五季 W學園中和[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")一起參加的是美食部，活動內容為做美食、吃美食、愛美食，另外美食部禁止[英國進入](https://zh.wikipedia.org/wiki/英國 "wikilink")。
     說話有「ある」和「よろし」的結語詞（讀成「」和「」，譯作「啊嚕」和「即可」），遇到英國時結語詞會變成「あっへん」（讀成「」，就是[鴉片的意思](https://zh.wikipedia.org/wiki/鴉片 "wikilink")，譯作「啊哼」或「唄」）。
-    「啊嚕」其實是日本人對[北京話](https://zh.wikipedia.org/wiki/北京話 "wikilink")「兒話音」的日語讀法，因為日語中沒有「er」的音調，所以使用最接近的「a
-    ru」來代替；但其實日語的「ru」是讀成「ɺu」(齒齦後邊閃音)，所以聲優在讀的時候，和現實中的中文汉语完全不一樣。
+    「啊嚕」其實是日本人對[北京話](https://zh.wikipedia.org/wiki/北京話 "wikilink")「兒話音」的日語讀法，因為日語中沒有「er」的音調，所以使用最接近的「a ru」來代替；但其實日語的「ru」是讀成「ɺu」(齒齦後邊閃音)，所以聲優在讀的時候，和現實中的中文汉语完全不一樣。
 
 ## 其他國
 
-**其他國**指[義呆利 Axis
-Powers裡除了主要國以外的國家](../Page/義呆利_Axis_Powers.md "wikilink")
+**其他國**指[義呆利 Axis Powers裡除了主要國以外的國家](../Page/義呆利_Axis_Powers.md "wikilink")
 
 ### [歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")
 
-**歐洲**指[義呆利 Axis
-Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/義呆利_Axis_Powers.md "wikilink")。
+**歐洲**指[義呆利 Axis Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/義呆利_Axis_Powers.md "wikilink")。
 
 #### [南歐](https://zh.wikipedia.org/wiki/南歐 "wikilink")
 
   -
   - 女版名称：恰拉·瓦爾加斯（キアーラ・ヴァルガス，Chiara Vargas）
 
-  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[義大利共和國](https://zh.wikipedia.org/wiki/義大利共和國 "wikilink")
-    　　
+  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[義大利共和國](https://zh.wikipedia.org/wiki/義大利共和國 "wikilink") 　　
 
   - 英文：Italian Republic 　　
 
@@ -585,8 +571,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     最喜歡蕃茄跟披薩，是北義大利的哥哥，話語偏髒，是個從外表無法聯想的膽小、軟弱的愛哭鬼，和弟弟一樣喜歡女孩子。
     西班牙撫養他時，曾要他好好學習西班牙語，遭嫌棄「你家的語言太難記了」。但看到比利時來拜訪西班牙時，在比利時問：「學西班牙語了嗎？」，他很快的用西班牙語說出：「親親～！」
     兄弟間的關係不是很好，但有時候卻很依賴弟弟，遇到俄羅斯來他家訪問時，會故意把弟弟推到俄羅斯面前來保護自己。
-    向右上翹的呆毛是他的敏感點；扯他的[呆毛會有發出](https://zh.wikipedia.org/wiki/呆毛 "wikilink")「ちぎー（chi
-    gi--）」的聲音。
+    向右上翹的呆毛是他的敏感點；扯他的[呆毛會有發出](https://zh.wikipedia.org/wiki/呆毛 "wikilink")「ちぎー（chi gi--）」的聲音。
     因為長期與西班牙一起生活，所以文化、宗教都類似西班牙。又一次因為西班牙獲得[世足賽冠軍](https://zh.wikipedia.org/wiki/世足賽 "wikilink")，而請西班牙到他家的餐館裡吃飯，但是沒想到卻有很多海龜爬到他身上。
     愛好是泡妞、種田、料理和午睡。很怕法國和英國，每一次都打不過，而需要德國來救他。
     常常挑釁德國，用蕃茄或者馬鈴薯扔他的臉。有一次故意拿一個假鬍子比在德國臉上，以此來辱罵德國，但是德國說「從我這邊看起來你也好像長了鬍子。」，讓他無地自容。
@@ -602,11 +587,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-  - 女版名称：伊莎貝拉·費爾南德斯·卡里埃多（イザベラ・ヘルナンデス・カリエド，Isabella Fernandez/Hernandez
-    Carriedo）
+  - 女版名称：伊莎貝拉·費爾南德斯·卡里埃多（イザベラ・ヘルナンデス・カリエド，Isabella Fernandez/Hernandez Carriedo）
 
-  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[西班牙王國](https://zh.wikipedia.org/wiki/西班牙王國 "wikilink")
-    　　
+  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[西班牙王國](https://zh.wikipedia.org/wiki/西班牙王國 "wikilink") 　　
 
   - 英文：Kingdom of Spain 　　
 
@@ -656,8 +639,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[希臘共和國](https://zh.wikipedia.org/wiki/希臘共和國 "wikilink")
-    　　
+  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[希臘共和國](https://zh.wikipedia.org/wiki/希臘共和國 "wikilink") 　　
 
   - 英文：Hellenic Republic 　　
 
@@ -750,14 +732,11 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
   -
   - 女版名称：維蕾娜·埃德爾斯坦（ヴィヴィアナ・エーデルシュタイン，Viviana Edelstein）
 
-  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[奧地利共和國](https://zh.wikipedia.org/wiki/奧地利共和國 "wikilink")
-    　　
+  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[奧地利共和國](https://zh.wikipedia.org/wiki/奧地利共和國 "wikilink") 　　
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of
-    Austria　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Austria　　
 
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")
-    　　
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[德語](https://zh.wikipedia.org/wiki/德語 "wikilink") 　　
 
   - [首都](../Page/首都.md "wikilink")：[維也納](../Page/維也納.md "wikilink")
 
@@ -787,8 +766,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     和德國同居時，硬是要德國承認貝多芬是奧地利人而不是德國人；還會看不下去德國要丟掉破洞的內褲，因為不希望德國花錢買內褲、而讓德國繼續穿著已經被自己縫補過五次的老舊內褲，並且對德國說「再這麼浪費的話[亨利三世會被你氣死的](https://zh.wikipedia.org/wiki/亨利三世 "wikilink")！！！」
     因為看不下去德國把義大利拉入[軸心國陣營而用鋼琴表達自己的憤怒](https://zh.wikipedia.org/wiki/軸心國 "wikilink")，卻被德國說：「你的憤怒就是[蕭邦嗎](https://zh.wikipedia.org/wiki/弗里德里克·蕭邦 "wikilink")？」還在意大利、日本、德國漂流的小島上扮演海上鋼琴師。
     擅長做各式甜點（尤其是[薩赫蛋糕](https://zh.wikipedia.org/wiki/薩赫蛋糕 "wikilink")），對此德國表示：「雖然他不擅長做料理（指正餐），但是甜點卻能做的很美味。」
-    雖然在普魯士等國組成的「打爆奧地利」( 也就是惡友組
-    )之戰中，和[英國是盟友](https://zh.wikipedia.org/wiki/英國 "wikilink")，但是英國只是爲了揍法國才和他同盟（英國宗旨：法國的敵人就是英國的朋友。），等到英國教訓過法國以後，就拋棄了他。英國誇讚過他家裡的肉餐麵包很好吃，但是他本人卻說「這在我國只是一般庶民吃的食物。」，為此因而有點擔心英國家的飲食情況。
+    雖然在普魯士等國組成的「打爆奧地利」( 也就是惡友組 )之戰中，和[英國是盟友](https://zh.wikipedia.org/wiki/英國 "wikilink")，但是英國只是爲了揍法國才和他同盟（英國宗旨：法國的敵人就是英國的朋友。），等到英國教訓過法國以後，就拋棄了他。英國誇讚過他家裡的肉餐麵包很好吃，但是他本人卻說「這在我國只是一般庶民吃的食物。」，為此因而有點擔心英國家的飲食情況。
     和波蘭和俄羅斯等東歐國家關係卻很好，曾經好幾次反對列強[瓜分波蘭](../Page/瓜分波蘭.md "wikilink")。
     因為日本讀他的名字的日語讀音和澳大利亞很像，讓他很傷腦筋。
     眼鏡代表的是奧地利的音樂性，拿掉的話會變得沒有音樂的靈性。
@@ -804,20 +782,15 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[匈牙利共和国](https://zh.wikipedia.org/wiki/匈牙利共和国 "wikilink")
-    　　
+  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[匈牙利共和国](https://zh.wikipedia.org/wiki/匈牙利共和国 "wikilink") 　　
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：The Republic of
-    Hungary 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：The Republic of Hungary 　　
 
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[匈牙利語](https://zh.wikipedia.org/wiki/匈牙利語 "wikilink")
-    　　
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[匈牙利語](https://zh.wikipedia.org/wiki/匈牙利語 "wikilink") 　　
 
-  - [首都](../Page/首都.md "wikilink")：[布達佩斯](https://zh.wikipedia.org/wiki/布達佩斯 "wikilink")
-    　　
+  - [首都](../Page/首都.md "wikilink")：[布達佩斯](https://zh.wikipedia.org/wiki/布達佩斯 "wikilink") 　　
 
-  - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[天竺葵](https://zh.wikipedia.org/wiki/天竺葵 "wikilink")
-    　
+  - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[天竺葵](https://zh.wikipedia.org/wiki/天竺葵 "wikilink") 　
 
   - 資料
 
@@ -856,19 +829,15 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-  - 女版名称：阿德萊德·茨溫利（アーデルハイト・ツヴィンクリ，Adelheid
-    Zwingli）（海蒂〔Heidi／ハイジ〕為阿德萊德的暱稱型）
+  - 女版名称：阿德萊德·茨溫利（アーデルハイト・ツヴィンクリ，Adelheid Zwingli）（海蒂〔Heidi／ハイジ〕為阿德萊德的暱稱型）
 
-  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[瑞士聯邦](https://zh.wikipedia.org/wiki/瑞士聯邦 "wikilink")
-    　　
+  - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[瑞士聯邦](https://zh.wikipedia.org/wiki/瑞士聯邦 "wikilink") 　　
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Swiss
-    Confederation　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Swiss Confederation　
 
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")、[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")、[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")、[羅曼什語](https://zh.wikipedia.org/wiki/羅曼什語 "wikilink")　
 
-  - [首都](../Page/首都.md "wikilink")：[伯恩](https://zh.wikipedia.org/wiki/伯恩 "wikilink")
-    　　
+  - [首都](../Page/首都.md "wikilink")：[伯恩](https://zh.wikipedia.org/wiki/伯恩 "wikilink") 　　
 
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[火绒草](../Page/火绒草.md "wikilink")
 
@@ -938,11 +907,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[波蘭共和國](https://zh.wikipedia.org/wiki/波蘭共和國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[波蘭共和國](https://zh.wikipedia.org/wiki/波蘭共和國 "wikilink") 　　
 
-  - 英文：[Republic of
-    Poland](https://zh.wikipedia.org/wiki/:en:Republic_of_Poland "wikilink")　　
+  - 英文：[Republic of Poland](https://zh.wikipedia.org/wiki/:en:Republic_of_Poland "wikilink")　　
 
   - 官方语言：[波蘭語](https://zh.wikipedia.org/wiki/波蘭語 "wikilink") 　　
 
@@ -987,10 +954,8 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[捷克共和國](https://zh.wikipedia.org/wiki/捷克共和國 "wikilink")
-    　　
-  - 英文：[Czech
-    Republic](https://zh.wikipedia.org/wiki/:en:Czech_Republic "wikilink")　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[捷克共和國](https://zh.wikipedia.org/wiki/捷克共和國 "wikilink") 　　
+  - 英文：[Czech Republic](https://zh.wikipedia.org/wiki/:en:Czech_Republic "wikilink")　
   - 官方语言：[捷克語](https://zh.wikipedia.org/wiki/捷克語 "wikilink") 　　
   - 首都：[布拉格](../Page/布拉格.md "wikilink") 　　
   - 国花：[石竹](../Page/石竹.md "wikilink") 及 [玫瑰](../Page/玫瑰.md "wikilink")
@@ -1007,8 +972,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     因對於SPA小有名氣的匈牙利感到不爽而她宣稱自己才是SPA大國。
     之後打電話給斯洛伐克要他選誰是SPA大國時,因斯洛伐克説「那我要選胸大的那個\!」而氣到邊罵斯洛伐克「臭流氓\!木魚腦瓜\!」邊把新買的手機丟進河裏。
     曾想改名為捷奇亞(Czechia)但被有過失敗經驗的奧地利勸阻。
-    1993年1月1日和斯洛伐克分離，是為[天鵝絨離婚](https://zh.wikipedia.org/wiki/天鵝絨離婚 "wikilink")(捷克語:Zánik
-    Československa)
+    1993年1月1日和斯洛伐克分離，是為[天鵝絨離婚](https://zh.wikipedia.org/wiki/天鵝絨離婚 "wikilink")(捷克語:Zánik Československa)
 
 <!-- end list -->
 
@@ -1016,10 +980,8 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[斯洛伐克共和國](https://zh.wikipedia.org/wiki/斯洛伐克共和國 "wikilink")
-    　　
-  - 英文：[Slovak
-    Republic](https://zh.wikipedia.org/wiki/:en:Slovak_Republic "wikilink")　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[斯洛伐克共和國](https://zh.wikipedia.org/wiki/斯洛伐克共和國 "wikilink") 　　
+  - 英文：[Slovak Republic](https://zh.wikipedia.org/wiki/:en:Slovak_Republic "wikilink")　
   - 官方语言：斯洛伐克語
   - 首都：[布拉提斯拉瓦](https://zh.wikipedia.org/wiki/布拉提斯拉瓦 "wikilink") 　　
   - 国花：[石竹](../Page/石竹.md "wikilink") 及 [玫瑰](../Page/玫瑰.md "wikilink")
@@ -1033,8 +995,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     曾因為國名是否要加"-"而和捷克爭執。
     和捷克分離後,原本打算烤片吐司吃,卻因不知道怎麼用而吃着沒烤到位和放置多日的吐司。
     據捷克所説,似乎對SPA很講究。
-    1993年1月1日和捷克分離，是為[天鵝絨離婚](https://zh.wikipedia.org/wiki/天鵝絨離婚 "wikilink")(斯洛伐克語:Rozdelenie
-    Česko-Slovenska)
+    1993年1月1日和捷克分離，是為[天鵝絨離婚](https://zh.wikipedia.org/wiki/天鵝絨離婚 "wikilink")(斯洛伐克語:Rozdelenie Česko-Slovenska)
 
 #### [東歐](https://zh.wikipedia.org/wiki/東歐 "wikilink")
 
@@ -1045,17 +1006,13 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[立陶宛共和國](https://zh.wikipedia.org/wiki/立陶宛共和國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[立陶宛共和國](https://zh.wikipedia.org/wiki/立陶宛共和國 "wikilink") 　　
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of
-    Lithuania](https://zh.wikipedia.org/wiki/:en:Republic_of_Lithuania "wikilink")　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of Lithuania](https://zh.wikipedia.org/wiki/:en:Republic_of_Lithuania "wikilink")　　
 
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[立陶宛語](https://zh.wikipedia.org/wiki/立陶宛語 "wikilink")
-    　　
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[立陶宛語](https://zh.wikipedia.org/wiki/立陶宛語 "wikilink") 　　
 
-  - [首都](../Page/首都.md "wikilink")：[維爾紐斯](https://zh.wikipedia.org/wiki/維爾紐斯 "wikilink")
-    　　
+  - [首都](../Page/首都.md "wikilink")：[維爾紐斯](https://zh.wikipedia.org/wiki/維爾紐斯 "wikilink") 　　
 
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[芸香](https://zh.wikipedia.org/wiki/芸香屬 "wikilink")
 
@@ -1095,14 +1052,11 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[拉脫維亞共和國](https://zh.wikipedia.org/wiki/拉脫維亞共和國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[拉脫維亞共和國](https://zh.wikipedia.org/wiki/拉脫維亞共和國 "wikilink") 　　
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of
-    Latvia](https://zh.wikipedia.org/wiki/:en:Republic_of_Latvia "wikilink")　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of Latvia](https://zh.wikipedia.org/wiki/:en:Republic_of_Latvia "wikilink")　　
 
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[拉脫維亞語](https://zh.wikipedia.org/wiki/拉脫維亞語 "wikilink")
-    　　
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[拉脫維亞語](https://zh.wikipedia.org/wiki/拉脫維亞語 "wikilink") 　　
 
   - [首都](../Page/首都.md "wikilink")：[里加](../Page/里加.md "wikilink") 　　
 
@@ -1139,11 +1093,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[愛沙尼亞共和國](https://zh.wikipedia.org/wiki/愛沙尼亞共和國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[愛沙尼亞共和國](https://zh.wikipedia.org/wiki/愛沙尼亞共和國 "wikilink") 　　
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of
-    Estonia](https://zh.wikipedia.org/wiki/:en:Republic_of_Estonia "wikilink")　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of Estonia](https://zh.wikipedia.org/wiki/:en:Republic_of_Estonia "wikilink")　　
 
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[愛沙尼亞語](https://zh.wikipedia.org/wiki/愛沙尼亞語 "wikilink")
 
@@ -1224,11 +1176,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
   - （娜塔莎〔Наташа（Natasha）／ナターシャ〕為娜塔莉亞的暱稱型）
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[白俄羅斯共和國](https://zh.wikipedia.org/wiki/白俄羅斯共和國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[白俄羅斯共和國](https://zh.wikipedia.org/wiki/白俄羅斯共和國 "wikilink") 　　
 
-  - 英文：[Republic of
-    Belarus](https://zh.wikipedia.org/wiki/:en:Republic_of_Belarus "wikilink")（原稱Belorussia，現稱[Belarus](https://zh.wikipedia.org/wiki/Belarus "wikilink")）　　
+  - 英文：[Republic of Belarus](https://zh.wikipedia.org/wiki/:en:Republic_of_Belarus "wikilink")（原稱Belorussia，現稱[Belarus](https://zh.wikipedia.org/wiki/Belarus "wikilink")）　　
 
   - 官方語言：[白俄羅斯語](https://zh.wikipedia.org/wiki/白俄羅斯語 "wikilink")
 
@@ -1289,11 +1239,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of
-    Romania](https://zh.wikipedia.org/wiki/:en:Republic_of_Romania "wikilink")　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of Romania](https://zh.wikipedia.org/wiki/:en:Republic_of_Romania "wikilink")　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")　
-  - [首都](../Page/首都.md "wikilink")：[布加勒斯特](../Page/布加勒斯特.md "wikilink")
-    　　
+  - [首都](../Page/首都.md "wikilink")：[布加勒斯特](../Page/布加勒斯特.md "wikilink") 　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[狗薔薇](https://zh.wikipedia.org/wiki/狗薔薇 "wikilink")
   - [國鳥](../Page/國鳥.md "wikilink")：[白鵜鶘](https://zh.wikipedia.org/wiki/白鵜鶘 "wikilink")
   - [配音員](../Page/配音員.md "wikilink")：[兒玉卓也](https://zh.wikipedia.org/wiki/兒玉卓也 "wikilink")
@@ -1316,10 +1264,8 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[摩爾多瓦共和國](https://zh.wikipedia.org/wiki/摩爾多瓦共和國 "wikilink")
-    　　
-  - 英文：[Republic of
-    Moldova](https://zh.wikipedia.org/wiki/:en:Republic_of_Moldova "wikilink")
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[摩爾多瓦共和國](https://zh.wikipedia.org/wiki/摩爾多瓦共和國 "wikilink") 　　
+  - 英文：[Republic of Moldova](https://zh.wikipedia.org/wiki/:en:Republic_of_Moldova "wikilink")
   - 官方语言：[摩爾多瓦語](../Page/摩爾多瓦語.md "wikilink")
   - 首都：[基希涅夫](https://zh.wikipedia.org/wiki/基希涅夫 "wikilink") 　　
   - 国花：[桃花](https://zh.wikipedia.org/wiki/桃花 "wikilink")
@@ -1338,13 +1284,10 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[丹麥王國](../Page/丹麥王國.md "wikilink")
-    　　
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Kingdom of
-    Denmark](https://zh.wikipedia.org/wiki/Kingdom_of_Denmark "wikilink")　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[丹麥王國](../Page/丹麥王國.md "wikilink") 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Kingdom of Denmark](https://zh.wikipedia.org/wiki/Kingdom_of_Denmark "wikilink")　　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[丹麥語](https://zh.wikipedia.org/wiki/丹麥語 "wikilink")
-  - [首都](../Page/首都.md "wikilink")：[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")
-    　　　　
+  - [首都](../Page/首都.md "wikilink")：[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[冬青](../Page/冬青.md "wikilink")
   - 资料
 
@@ -1383,13 +1326,10 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[挪威王國](https://zh.wikipedia.org/wiki/挪威王國 "wikilink")
-    　　
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Kingdom of
-    Norway](https://zh.wikipedia.org/wiki/Kingdom_of_Norway "wikilink")　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[挪威王國](https://zh.wikipedia.org/wiki/挪威王國 "wikilink") 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Kingdom of Norway](https://zh.wikipedia.org/wiki/Kingdom_of_Norway "wikilink")　　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[挪威語](https://zh.wikipedia.org/wiki/挪威語 "wikilink")
-  - [首都](../Page/首都.md "wikilink")：[奧斯陸](https://zh.wikipedia.org/wiki/奧斯陸 "wikilink")
-    　　　　
+  - [首都](../Page/首都.md "wikilink")：[奧斯陸](https://zh.wikipedia.org/wiki/奧斯陸 "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[歐石楠](../Page/歐石楠.md "wikilink")
   - 资料
 
@@ -1426,13 +1366,10 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[冰島共和國](https://zh.wikipedia.org/wiki/冰島共和國 "wikilink")
-    　　
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of
-    Iceland](https://zh.wikipedia.org/wiki/Republic_of_Iceland "wikilink")　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[冰島共和國](https://zh.wikipedia.org/wiki/冰島共和國 "wikilink") 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of Iceland](https://zh.wikipedia.org/wiki/Republic_of_Iceland "wikilink")　　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[冰島語](https://zh.wikipedia.org/wiki/冰島語 "wikilink")
-  - [首都](../Page/首都.md "wikilink")：[雷克亞維克](https://zh.wikipedia.org/wiki/雷克亞維克 "wikilink")
-    　　　　
+  - [首都](../Page/首都.md "wikilink")：[雷克亞維克](https://zh.wikipedia.org/wiki/雷克亞維克 "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[仙女木](../Page/仙女木.md "wikilink")
   - 资料
 
@@ -1470,8 +1407,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
   - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[芬蘭共和國](https://zh.wikipedia.org/wiki/芬蘭共和國 "wikilink")
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of
-    Finland
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Finland
 
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[芬蘭語](https://zh.wikipedia.org/wiki/芬蘭語 "wikilink")
 
@@ -1514,16 +1450,13 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
   - 　　
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[瑞典王國](https://zh.wikipedia.org/wiki/瑞典王國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[瑞典王國](https://zh.wikipedia.org/wiki/瑞典王國 "wikilink") 　　
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Kingdom of
-    Sweden　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Kingdom of Sweden　　
 
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[瑞典語](../Page/瑞典語.md "wikilink")
 
-  - [首都](../Page/首都.md "wikilink")：[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")
-    　　　　
+  - [首都](../Page/首都.md "wikilink")：[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink") 　　　　
 
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[歐洲白蜡](https://zh.wikipedia.org/wiki/歐洲白蜡樹 "wikilink")
 
@@ -1561,12 +1494,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[比利時王國](https://zh.wikipedia.org/wiki/比利時王國 "wikilink")
-    　　
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Kingdom of
-    Belgium　　
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[荷蘭語](../Page/荷蘭語.md "wikilink")
-    、[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")、[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[比利時王國](https://zh.wikipedia.org/wiki/比利時王國 "wikilink") 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Kingdom of Belgium　　
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[荷蘭語](../Page/荷蘭語.md "wikilink") 、[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")、[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")
   - [首都](../Page/首都.md "wikilink")：[布魯塞爾](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[虞美人](https://zh.wikipedia.org/wiki/虞美人 "wikilink")
   - 资料
@@ -1599,13 +1529,10 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[荷蘭王國](https://zh.wikipedia.org/wiki/荷蘭王國 "wikilink")
-    　　
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Kingdom of the
-    Netherlands
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[荷蘭王國](https://zh.wikipedia.org/wiki/荷蘭王國 "wikilink") 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Kingdom of the Netherlands
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[荷蘭語](../Page/荷蘭語.md "wikilink")
-  - [首都](../Page/首都.md "wikilink")：[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")
-    　　　　
+  - [首都](../Page/首都.md "wikilink")：[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[鬱金香](https://zh.wikipedia.org/wiki/鬱金香 "wikilink")
   - 资料
 
@@ -1641,10 +1568,8 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[盧森堡大公國](https://zh.wikipedia.org/wiki/盧森堡大公國 "wikilink")
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Grand Duchy of
-    Luxembourg
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[盧森堡語](https://zh.wikipedia.org/wiki/盧森堡語 "wikilink")
-    、[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")、[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Grand Duchy of Luxembourg
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[盧森堡語](https://zh.wikipedia.org/wiki/盧森堡語 "wikilink") 、[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")、[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")
   - [首都](../Page/首都.md "wikilink")：[盧森堡市](https://zh.wikipedia.org/wiki/盧森堡市 "wikilink")
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[月季](../Page/月季.md "wikilink")
   - 生日：6月23日
@@ -1670,8 +1595,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
   -
   - 女版名称：瑪格莉特·威廉斯（マガレット·ウィリアムズ，Margaret Williams）（梅格〔Meg／メグ〕為瑪格莉特的暱稱型）
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[加拿大](../Page/加拿大.md "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[加拿大](../Page/加拿大.md "wikilink") 　　
 
   - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Canada](https://zh.wikipedia.org/wiki/Canada "wikilink")　　
 
@@ -1721,8 +1645,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[古巴共和國](https://zh.wikipedia.org/wiki/古巴共和國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[古巴共和國](https://zh.wikipedia.org/wiki/古巴共和國 "wikilink") 　　
   - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Cuba　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")
   - [首都](../Page/首都.md "wikilink")：[哈瓦那](../Page/哈瓦那.md "wikilink") 　　　　
@@ -1755,11 +1678,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[祕魯共和國](https://zh.wikipedia.org/wiki/祕魯共和國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[祕魯共和國](https://zh.wikipedia.org/wiki/祕魯共和國 "wikilink") 　　
   - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Peru　
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")
-    、[克丘亞語](../Page/克丘亞語.md "wikilink")、[艾馬拉語](../Page/艾馬拉語.md "wikilink")
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink") 、[克丘亞語](../Page/克丘亞語.md "wikilink")、[艾馬拉語](../Page/艾馬拉語.md "wikilink")
   - [首都](../Page/首都.md "wikilink")：[利馬](../Page/利馬.md "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[向日葵](../Page/向日葵.md "wikilink")
   - [生日](../Page/生日.md "wikilink")：7月28日
@@ -1775,12 +1696,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[厄瓜多共和國](https://zh.wikipedia.org/wiki/厄瓜多共和國 "wikilink")
-    　　
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of
-    Ecuador
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")
-    、[奇楚瓦語](https://zh.wikipedia.org/wiki/奇楚瓦語 "wikilink")
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[厄瓜多共和國](https://zh.wikipedia.org/wiki/厄瓜多共和國 "wikilink") 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Ecuador
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink") 、[奇楚瓦語](https://zh.wikipedia.org/wiki/奇楚瓦語 "wikilink")
   - [首都](../Page/首都.md "wikilink")：[基多](../Page/基多.md "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：白花修女蘭
   - [國鳥](../Page/國鳥.md "wikilink")：大兀鷲
@@ -1801,11 +1719,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
   - 　　　　
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[土耳其共和國](https://zh.wikipedia.org/wiki/土耳其共和國 "wikilink")
-    　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[土耳其共和國](https://zh.wikipedia.org/wiki/土耳其共和國 "wikilink") 　　
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of
-    Turkey　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Turkey　　
 
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[土耳其語](https://zh.wikipedia.org/wiki/土耳其語 "wikilink")
 
@@ -1847,10 +1763,8 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[賽普勒斯共和國](https://zh.wikipedia.org/wiki/賽普勒斯共和國 "wikilink")
-    　　
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of
-    Cyprus　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[賽普勒斯共和國](https://zh.wikipedia.org/wiki/賽普勒斯共和國 "wikilink") 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Cyprus　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")、[土耳其語](https://zh.wikipedia.org/wiki/土耳其語 "wikilink")
   - [首都](../Page/首都.md "wikilink")：[尼古西亞](../Page/尼科西亚.md "wikilink")　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：賽普勒斯仙客來
@@ -1873,12 +1787,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[北賽普勒斯土耳其共和國](https://zh.wikipedia.org/wiki/北賽普勒斯土耳其共和國 "wikilink")
-    　　
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：North Cyprus
-    Republic of Turkey
-  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[土耳其語](https://zh.wikipedia.org/wiki/土耳其語 "wikilink")
-    　　　
+  - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[北賽普勒斯土耳其共和國](https://zh.wikipedia.org/wiki/北賽普勒斯土耳其共和國 "wikilink") 　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：North Cyprus Republic of Turkey
+  - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[土耳其語](https://zh.wikipedia.org/wiki/土耳其語 "wikilink") 　　　
   - [首都](../Page/首都.md "wikilink")：[北尼古西亞](../Page/北尼科西亚.md "wikilink")
   - [生日](../Page/生日.md "wikilink")：11月5日
 
@@ -1898,8 +1809,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
   - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")
 
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of
-    Korea](https://zh.wikipedia.org/wiki/Republic_of_Korea "wikilink")　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：[Republic of Korea](https://zh.wikipedia.org/wiki/Republic_of_Korea "wikilink")　　
 
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")
 
@@ -1917,8 +1827,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 4.  [武器](../Page/武器.md "wikilink")：[無](../Page/無.md "wikilink")
 5.  头发：[黑色](../Page/黑色.md "wikilink")
 6.  眼睛：[黑色](../Page/黑色.md "wikilink")
-7.  [口頭禪](../Page/口頭禪.md "wikilink")：「XXX的起源，可能是我哦～～☆」、「〇〇〇的起源，就是我啦～\!」、「其实这个的起源啊......是我哦～?」　
-    　　
+7.  [口頭禪](../Page/口頭禪.md "wikilink")：「XXX的起源，可能是我哦～～☆」、「〇〇〇的起源，就是我啦～\!」、「其实这个的起源啊......是我哦～?」　 　　
 
 <!-- end list -->
 
@@ -1932,8 +1841,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     愛乾净。喜歡做按摩和泡溫泉，曾經趁中國和日本做按摩和泡溫泉的時候，摸了他們的胸部和屁股。 　　
     擅长拍摄[韓劇和製作](https://zh.wikipedia.org/wiki/韓劇 "wikilink")[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")，最近經常和中國一起去[加拿大](../Page/加拿大.md "wikilink")留學和[移民](../Page/移民.md "wikilink")。
     似乎很喜歡加拿大，但最愛的還是上網和玩電動。 　
-    有强烈的[小中華思想](../Page/小中華思想.md "wikilink")；語尾會加上「だぜ（da
-    ze）」；因为[歷史的原因](../Page/三一運動.md "wikilink")，和日本水火不容到了極點，目前兩人之間處於[惡化狀態](https://zh.wikipedia.org/wiki/日韓關係 "wikilink")。
+    有强烈的[小中華思想](../Page/小中華思想.md "wikilink")；語尾會加上「だぜ（da ze）」；因为[歷史的原因](../Page/三一運動.md "wikilink")，和日本水火不容到了極點，目前兩人之間處於[惡化狀態](https://zh.wikipedia.org/wiki/日韓關係 "wikilink")。
     在作者繪製的2011萬聖節系列短漫中，打扮成韓國古代的[戰士](https://zh.wikipedia.org/wiki/戰士 "wikilink")
 
 **動畫版封殺問題**
@@ -1950,8 +1858,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
   - **林曉梅／林乙玲**（作者取的兩個備選用名，目前尚未決定。）
   - [全称](https://zh.wikipedia.org/wiki/國名 "wikilink")：[中華民國](../Page/中華民國.md "wikilink")
-  - 英文：[Republic of
-    China](https://zh.wikipedia.org/wiki/Republic_of_China "wikilink")
+  - 英文：[Republic of China](https://zh.wikipedia.org/wiki/Republic_of_China "wikilink")
   - 官方語言：[華語](../Page/中華民國國語.md "wikilink")
   - 首都：[臺北](../Page/臺北.md "wikilink") 　　　　
   - 國花：[梅花](../Page/中華民國國花.md "wikilink")
@@ -1992,11 +1899,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
   - 阮氏玲
   - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[越南社會主義共和國](https://zh.wikipedia.org/wiki/越南社會主義共和國 "wikilink")
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Socialist Republic
-    of Vietnam　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Socialist Republic of Vietnam　　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[越南語](https://zh.wikipedia.org/wiki/越南語 "wikilink")、[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")
-  - [首都](../Page/首都.md "wikilink")：[河內](https://zh.wikipedia.org/wiki/河內 "wikilink")
-    　　　　
+  - [首都](../Page/首都.md "wikilink")：[河內](https://zh.wikipedia.org/wiki/河內 "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[荷花](https://zh.wikipedia.org/wiki/荷花 "wikilink")
   - 资料
 
@@ -2017,8 +1922,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     在頸子處上端紮著下垂的長[馬尾](https://zh.wikipedia.org/wiki/馬尾 "wikilink")，身穿[越南旗袍並戴斗笠](https://zh.wikipedia.org/wiki/越南旗袍 "wikilink")。
     [歷史中有著許多強勢的女人](../Page/越南歷史.md "wikilink")，而自己也是樸素剛毅。
     在單行本第四集和[台灣一起登場](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
-    於作者繪製的2011年萬聖節系列短漫中，打扮成
-    [TOPIO](http://en.wikipedia.org/wiki/TOPIO)，是萬聖節扮裝派對的優勝者，獲得獎盃和[美國贈與的遊戲](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+    於作者繪製的2011年萬聖節系列短漫中，打扮成 [TOPIO](http://en.wikipedia.org/wiki/TOPIO)，是萬聖節扮裝派對的優勝者，獲得獎盃和[美國贈與的遊戲](https://zh.wikipedia.org/wiki/美國 "wikilink")。
     在2011聖誕特輯得知其實不懂笑，但看見[泰國惹笑的衣服後卻笑了起來](https://zh.wikipedia.org/wiki/泰國 "wikilink")。
     在2013萬聖節系列短漫中，剛出場時用斗笠反戴在臉上遮住，結果遇到打扮成[日本鬼子](../Page/日本鬼子.md "wikilink")的台灣和澳門並認出，並從和台灣的對話得知，自己被台灣設計而打扮成[小日本](https://zh.wikipedia.org/wiki/小日本 "wikilink")。
 
@@ -2029,8 +1933,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[泰王國](https://zh.wikipedia.org/wiki/泰王國 "wikilink")
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Kingdom of
-    Thailand　　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Kingdom of Thailand　　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[泰文](https://zh.wikipedia.org/wiki/泰文 "wikilink")
   - [首都](../Page/首都.md "wikilink")：[曼谷](../Page/曼谷.md "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[睡蓮](../Page/睡蓮.md "wikilink")
@@ -2076,11 +1979,9 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   - [全稱](https://zh.wikipedia.org/wiki/國名 "wikilink")：[印度尼西亞共和國](https://zh.wikipedia.org/wiki/印度尼西亞共和國 "wikilink")
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of
-    Indonesia　
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Indonesia　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")
-  - [首都](../Page/首都.md "wikilink")：[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")
-    　　　　
+  - [首都](../Page/首都.md "wikilink")：[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink") 　　　　
   - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[茉莉花](https://zh.wikipedia.org/wiki/茉莉花 "wikilink")
   - [生日](../Page/生日.md "wikilink")：8月17日
 
@@ -2244,7 +2145,6 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   - [Byzantine_imperial_flag,_14th_century,_square.svg](https://zh.wikipedia.org/wiki/File:Byzantine_imperial_flag,_14th_century,_square.svg "fig:Byzantine_imperial_flag,_14th_century,_square.svg")
-
     [希腊](../Page/希腊.md "wikilink")的另一个母親（作者也没说清楚古希腊和拜占庭的关系），就是她把东正教信仰传播到希腊各处、代替了原本的[希腊多神教](../Page/希腊神话.md "wikilink")。虽然在历史上是罗马帝国的两个正统继承人之一、但是在这本漫画中对此却没有任何设定。非常長壽，但是因为奥斯曼土耳其的攻击，而突然消失在[歷史之中](https://zh.wikipedia.org/wiki/歷史 "wikilink")，这也是造成了日后希腊和土耳其不和的原因之一。
 
 <!-- end list -->
@@ -2271,9 +2171,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     原本只是有利于罗马帝国外围的渔猎民族，曾經擔任過[羅馬的護衛](../Page/羅馬帝國.md "wikilink")。
     據說羅馬帝國的[致命傷是他造成的](../Page/民族大遷徙.md "wikilink")，然而事實真相已埋沒在歷史洪流無人知曉。
 
-[Banner_of_the_Holy_Roman_Emperor_with_Arms_(1493-1556).svg](https://zh.wikipedia.org/wiki/File:Banner_of_the_Holy_Roman_Emperor_with_Arms_\(1493-1556\).svg "fig:Banner_of_the_Holy_Roman_Emperor_with_Arms_(1493-1556).svg")
-**[神聖羅馬帝國](https://zh.wikipedia.org/wiki/神聖羅馬帝國 "wikilink")**（東法蘭克王國，／Holy
-Roman Empire）
+[Banner_of_the_Holy_Roman_Emperor_with_Arms_(1493-1556).svg](https://zh.wikipedia.org/wiki/File:Banner_of_the_Holy_Roman_Emperor_with_Arms_\(1493-1556\).svg "fig:Banner_of_the_Holy_Roman_Emperor_with_Arms_(1493-1556).svg") **[神聖羅馬帝國](https://zh.wikipedia.org/wiki/神聖羅馬帝國 "wikilink")**（東法蘭克王國，／Holy Roman Empire）
 
   - [配音員](../Page/配音員.md "wikilink")：[金野潤](../Page/金野潤.md "wikilink")
 
@@ -2288,16 +2186,12 @@ Roman Empire）
     與義大利不同，和[奧地利不是從屬關係](https://zh.wikipedia.org/wiki/奧地利 "wikilink")，奧地利、[普魯士](../Page/普魯士.md "wikilink")都是神聖羅馬帝國眾多邦國中的兩個國家而已。
     [德國的前身](https://zh.wikipedia.org/wiki/德國 "wikilink")，神聖羅馬帝國在戰爭的最後被法國[拿破崙一世解體](https://zh.wikipedia.org/wiki/拿破崙一世 "wikilink")，組成了[德意志地區西半邊的](https://zh.wikipedia.org/wiki/德意志地區 "wikilink")[萊因邦聯](https://zh.wikipedia.org/wiki/萊因邦聯 "wikilink")。
 
-[Flag_of_Bavaria_(lozengy).svg](https://zh.wikipedia.org/wiki/File:Flag_of_Bavaria_\(lozengy\).svg "fig:Flag_of_Bavaria_(lozengy).svg")
-**[巴伐利亞](https://zh.wikipedia.org/wiki/巴伐利亞 "wikilink")** （ババリア， ／Free
-State of Bavaria）
+[Flag_of_Bavaria_(lozengy).svg](https://zh.wikipedia.org/wiki/File:Flag_of_Bavaria_\(lozengy\).svg "fig:Flag_of_Bavaria_(lozengy).svg") **[巴伐利亞](https://zh.wikipedia.org/wiki/巴伐利亞 "wikilink")** （ババリア， ／Free State of Bavaria）
 
   -
     支持[奧地利的](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[德意志小國](https://zh.wikipedia.org/wiki/德意志 "wikilink")。
 
-[Flag_of_Saxony.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Saxony.svg "fig:Flag_of_Saxony.svg")
-**[薩克森](https://zh.wikipedia.org/wiki/薩克森 "wikilink")** （ザクセン，lang de
-Freistaat Sachsen／Kingdom of Saxony）
+[Flag_of_Saxony.svg](https://zh.wikipedia.org/wiki/File:Flag_of_Saxony.svg "fig:Flag_of_Saxony.svg") **[薩克森](https://zh.wikipedia.org/wiki/薩克森 "wikilink")** （ザクセン，lang de Freistaat Sachsen／Kingdom of Saxony）
 
   -
     支持[普魯士](../Page/普魯士.md "wikilink")的[德意志小國](https://zh.wikipedia.org/wiki/德意志 "wikilink")。
@@ -2311,8 +2205,7 @@ Freistaat Sachsen／Kingdom of Saxony）
   - [配音員](../Page/配音員.md "wikilink")：高坂篤志
 
   -
-  - 女版名称：尤露希安·拜爾修米特（ユールヒェン·バイルシュミット，Julchen
-    Beillschmidt）（茱莉亞〔Julche／ジュリア〕為尤露希安的暱稱型）
+  - 女版名称：尤露希安·拜爾修米特（ユールヒェン·バイルシュミット，Julchen Beillschmidt）（茱莉亞〔Julche／ジュリア〕為尤露希安的暱稱型）
 
 <!-- end list -->
 
@@ -2339,14 +2232,11 @@ Freistaat Sachsen／Kingdom of Saxony）
     於《南瓜祭•スィジヅェアヘゥアシャオゥ（萬聖節•四季摺花咲）》裝扮的鬼怪[惡魔](https://zh.wikipedia.org/wiki/惡魔 "wikilink")
     在2011萬聖節出場和印度一起跳舞,後來又扮成和[義大利一樣的](https://zh.wikipedia.org/wiki/義大利 "wikilink")[囚犯](https://zh.wikipedia.org/wiki/囚犯 "wikilink")
     在動畫第五季W學園中參加的是音樂社，是為了讓部長奧地利不能好好演奏、故意用掃把當做吉他的搗亂部員
-    [角色歌為Mein](https://zh.wikipedia.org/wiki/角色歌 "wikilink")
-    Gott、俺様による俺様の為の俺様の歌
+    [角色歌為Mein](https://zh.wikipedia.org/wiki/角色歌 "wikilink") Gott、俺様による俺様の為の俺様の歌
 
 #### [韃靼系](https://zh.wikipedia.org/wiki/韃靼 "wikilink")
 
-  - [Golden_Horde_flag_1339.svg](https://zh.wikipedia.org/wiki/File:Golden_Horde_flag_1339.svg "fig:Golden_Horde_flag_1339.svg")
-    [金帳汗國](https://zh.wikipedia.org/wiki/金帳汗國 "wikilink")（又譯：[欽察汗國](../Page/欽察汗國.md "wikilink")）（チンチャハン，／Ulus
-    of Jochi（Golden Horde）
+  - [Golden_Horde_flag_1339.svg](https://zh.wikipedia.org/wiki/File:Golden_Horde_flag_1339.svg "fig:Golden_Horde_flag_1339.svg") [金帳汗國](https://zh.wikipedia.org/wiki/金帳汗國 "wikilink")（又譯：[欽察汗國](../Page/欽察汗國.md "wikilink")）（チンチャハン，／Ulus of Jochi（Golden Horde）
     [蒙古的弟弟](https://zh.wikipedia.org/wiki/蒙古 "wikilink")。於中世紀統治[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（當時為[莫斯科公國](https://zh.wikipedia.org/wiki/莫斯科公國 "wikilink")）的國家，是當時的強國。
 
 ### [私人國家](https://zh.wikipedia.org/wiki/私人國家 "wikilink")
@@ -2436,8 +2326,7 @@ Freistaat Sachsen／Kingdom of Saxony）
   -
     位於[美國家內華達州的高傲又不可思議的](https://zh.wikipedia.org/wiki/美國 "wikilink")[獨立國家](https://zh.wikipedia.org/wiki/獨立 "wikilink")。
     是個照常向[美國納稅的老實人](https://zh.wikipedia.org/wiki/美國 "wikilink")，不過尚處在想讓人認為自己是不良少年的年紀。
-    梳的是一種介於soft Mohican（不把側面剃光的莫西幹頭）和regent
-    style（攝政風格頭型，俗稱飛機頭）之間的髮型，會[豎中指](../Page/豎中指.md "wikilink")。
+    梳的是一種介於soft Mohican（不把側面剃光的莫西幹頭）和regent style（攝政風格頭型，俗稱飛機頭）之間的髮型，會[豎中指](../Page/豎中指.md "wikilink")。
     對[美國有些畏懼](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 <!-- end list -->
@@ -2528,8 +2417,7 @@ Freistaat Sachsen／Kingdom of Saxony）
 
   - **王嘉龍／李小春**（是作者取的兩個備選用名，目前尚未決定。）
   - [全稱](https://zh.wikipedia.org/wiki/區名 "wikilink")：[中華人民共和國香港特別行政區](https://zh.wikipedia.org/wiki/中華人民共和國香港特別行政區 "wikilink")
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Hong Kong Special
-    Administrative Region of the People's Republic of China
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Hong Kong Special Administrative Region of the People's Republic of China
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[普通话](../Page/普通话.md "wikilink")
   - [政府驻地](https://zh.wikipedia.org/wiki/政府驻地 "wikilink")：維多利亞城
   - 區花：[洋紫荊](../Page/洋紫荊.md "wikilink")
@@ -2555,8 +2443,7 @@ Freistaat Sachsen／Kingdom of Saxony）
     因為被英國帶走155年，所以無可避免的中了英國的粗眉毛詛咒。
     穿的紅色唐裝比中國的輕薄，有綁一條黃色腰帶，也會功夫。
     稱呼中國為「先生（）」，小時候綁著馬尾。
-    在 [作者2010聖誕特輯](http://www.geocities.jp/himaruya/xmas2011.html)
-    中請中國吃[披薩和](https://zh.wikipedia.org/wiki/披薩 "wikilink")[威士忌](../Page/威士忌.md "wikilink")，讓中國覺得這是西方世界的[酒池肉林](https://zh.wikipedia.org/wiki/酒池肉林 "wikilink")。
+    在 [作者2010聖誕特輯](http://www.geocities.jp/himaruya/xmas2011.html) 中請中國吃[披薩和](https://zh.wikipedia.org/wiki/披薩 "wikilink")[威士忌](../Page/威士忌.md "wikilink")，讓中國覺得這是西方世界的[酒池肉林](https://zh.wikipedia.org/wiki/酒池肉林 "wikilink")。
     在作者繪製的2011萬聖節系列短漫中，打扮成[豬八戒和中國還有](https://zh.wikipedia.org/wiki/豬八戒 "wikilink")[澳門](../Page/澳門.md "wikilink")一起出場。
     角色歌為マジ感動☆香港Night
 
@@ -2567,11 +2454,9 @@ Freistaat Sachsen／Kingdom of Saxony）
 <!-- end list -->
 
   - [全稱](https://zh.wikipedia.org/wiki/區名 "wikilink")：[中華人民共和國澳門特別行政區](https://zh.wikipedia.org/wiki/中華人民共和國澳門特別行政區 "wikilink")
-  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Macao Special
-    Administrative Region of the People's Republic of China
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Macao Special Administrative Region of the People's Republic of China
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[廣東話](https://zh.wikipedia.org/wiki/廣東話 "wikilink")、[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[普通話](https://zh.wikipedia.org/wiki/普通話 "wikilink")、[澳門土生葡語](../Page/澳門土生葡語.md "wikilink")
-  - [政府驻地](https://zh.wikipedia.org/wiki/政府驻地 "wikilink")：[無](../Page/無.md "wikilink")
-    　　　　
+  - [政府驻地](https://zh.wikipedia.org/wiki/政府驻地 "wikilink")：[無](../Page/無.md "wikilink") 　　　　
   - 區花：[荷花](https://zh.wikipedia.org/wiki/荷花 "wikilink")
   - 资料
 
@@ -2649,8 +2534,7 @@ Freistaat Sachsen／Kingdom of Saxony）
 
   - **[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")** **（，）**　　
 
-  - **[首府](https://zh.wikipedia.org/wiki/首府 "wikilink")**：
-    **[大阪市](../Page/大阪市.md "wikilink")** 　　
+  - **[首府](https://zh.wikipedia.org/wiki/首府 "wikilink")**： **[大阪市](../Page/大阪市.md "wikilink")** 　　
 
 <!-- end list -->
 
@@ -2693,8 +2577,7 @@ Freistaat Sachsen／Kingdom of Saxony）
     主婦打扮的純樸少女，有著可愛的笑容。
     手拿著一大鍋的芋煮(以芋頭為原料的鍋飯)，家裡有許多的西式建築。
 
-**[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")** **(福島県,ふくしまけん
-)**
+**[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")** **(福島県,ふくしまけん )**
 
   -
     臉頰兩旁留著鬢角，穿著藍色運動套裝，抱著豬的可愛青年。
@@ -2778,8 +2661,7 @@ Freistaat Sachsen／Kingdom of Saxony）
   -
     短髮少女,有着櫻花頭飾,同時身旁也有很多櫻花出現。
 
-**[和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")**
-**(和歌山県,わかやまけん)**
+**[和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")** **(和歌山県,わかやまけん)**
 
 ### 俄羅斯系
 
@@ -2855,16 +2737,13 @@ Freistaat Sachsen／Kingdom of Saxony）
 
 ## 外部連結
 
-1.  [ヘタリア　\*心のそこからヘタレイタリアをマンセーする\*](http://www.geocities.jp/himaruya/hetaria/index.htm)
-    - 作者公式網站
+1.  [ヘタリア　\*心のそこからヘタレイタリアをマンセーする\*](http://www.geocities.jp/himaruya/hetaria/index.htm) - 作者公式網站
 
 2.  [ヘタリアドットコム](http://hetalia.com/index.htm) - 動畫版公式網站
 
-3.  [日丸屋秀和「ヘタリア Axis Powers」](http://www.gentosha-comics.net/hetalia/) -
-    幻冬舍特設網站
+3.  [日丸屋秀和「ヘタリア Axis Powers」](http://www.gentosha-comics.net/hetalia/) - 幻冬舍特設網站
 
-4.  [義呆利](http://japan.videoland.com.tw/channel/hetalia/default.asp) -
-    緯來日本台官方網站
+4.  [義呆利](http://japan.videoland.com.tw/channel/hetalia/default.asp) - 緯來日本台官方網站
 
 ## 參考註釋
 
@@ -2876,10 +2755,7 @@ Freistaat Sachsen／Kingdom of Saxony）
 
 3.
 
-4.  {{ Cite book | author = 日丸屋秀和 | title =
-    [義呆利](https://zh.wikipedia.org/wiki/義呆利 "wikilink")3 |
-    location = 台灣 | publisher = 原動力亞細亞 | date = 2010年7月 | pages = P17 |
-    language= zh-hant| quote = 義大利與他愉快的夥伴們：俄羅斯 }}
+4.  {{ Cite book | author = 日丸屋秀和 | title = [義呆利](https://zh.wikipedia.org/wiki/義呆利 "wikilink")3 | location = 台灣 | publisher = 原動力亞細亞 | date = 2010年7月 | pages = P17 | language= zh-hant| quote = 義大利與他愉快的夥伴們：俄羅斯 }}
 
 5.
 6.
@@ -2903,8 +2779,4 @@ Freistaat Sachsen／Kingdom of Saxony）
 20.
 21. 聯合國於1947年宣佈普魯士正式滅亡，詳見[普魯士](../Page/普魯士.md "wikilink")條目
 
-22.
-    故事|accessdate=2018-04-29|author=|date=|work=gushi.tw|publisher=|language=zh-TW|quote=1211
-    年，他們先應匈牙利國王安追二世（Andrzej
-    II）的邀請，前往外西凡尼亞（Transylvania）定居，協助抵禦來自黑海草原的波洛夫齊人（Połowcy）。隨著其羽翼漸豐，騎士團試圖聯合日耳曼移民獨立建國，結果在
-    1224 年被憤怒的國王驅逐。}}
+22.  故事|accessdate=2018-04-29|author=|date=|work=gushi.tw|publisher=|language=zh-TW|quote=1211 年，他們先應匈牙利國王安追二世（Andrzej II）的邀請，前往外西凡尼亞（Transylvania）定居，協助抵禦來自黑海草原的波洛夫齊人（Połowcy）。隨著其羽翼漸豐，騎士團試圖聯合日耳曼移民獨立建國，結果在 1224 年被憤怒的國王驅逐。}}

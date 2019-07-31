@@ -1,14 +1,13 @@
-**金肉人二世**（**** Kinnikuman
-Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[蚵仔煎](https://zh.wikipedia.org/wiki/Yudetamago "wikilink")（）的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、亦是原作與[動畫作品及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主角的名字](https://zh.wikipedia.org/wiki/主角 "wikilink")。
+**金肉人二世**（**** Kinnikuman Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[蚵仔煎](https://zh.wikipedia.org/wiki/Yudetamago "wikilink")（）的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、亦是原作與[動畫作品及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主角的名字](https://zh.wikipedia.org/wiki/主角 "wikilink")。
 
-《[金肉人](../Page/金肉人.md "wikilink")》連載完後多年，作者蚵仔煎於1998年在[集英社的青年雜誌](../Page/集英社.md "wikilink")《週刊Playboy》上開始連載金肉人二世至今。
+《[金肉人](../Page/金肉人.md "wikilink")》連載完後多年，作者蚵仔煎於1998年在[集英社](../Page/集英社.md "wikilink")的青年雜誌《週刊Playboy》上開始連載金肉人二世至今。
 
 ## 劇情介紹（以動畫版為依據）
 
 ### 第一季
 
   - 海克力士學院～傳說的序章篇
-    第一代金肉人就任王位之後28年，原本持續著沒有戰爭的和平日子，然而有一天、[地球突然遭到惡行超人們襲擊](../Page/地球.md "wikilink")。金肉人等傳說超人們，為了阻止惡行超人決定挺身而出。但是完全上了年紀的傳說超人們，根本無力對抗惡行超人。
+    第一代金肉人就任王位之後28年，原本持續著沒有戰爭的和平日子，然而有一天、[地球](../Page/地球.md "wikilink")突然遭到惡行超人們襲擊。金肉人等傳說超人們，為了阻止惡行超人決定挺身而出。但是完全上了年紀的傳說超人們，根本無力對抗惡行超人。
     為了培訓出能夠和惡行超人對抗的年輕正義超人，於是決定成立正義超人訓練學校—**海克力士學院**，並由傳說超人們擔任教練。金肉人的兒子金肉萬太郎及其他傳說超人的兒子們，全都陸續地被送到海克力士學院去。
   - 魔鬼工廠篇
     萬太郎經過嚴厲的修煉，平安地從海克力士學院畢業。作為派駐日本的超人而前往地球，和“魔鬼工廠”的惡行超人對抗。
@@ -100,8 +99,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedi
 
 <!-- end list -->
 
-  - **[瞪羚人](https://zh.wikipedia.org/wiki/瞪羚 "wikilink")**(Gazelleman)(
-    Gazeruman)
+  - **[瞪羚人](https://zh.wikipedia.org/wiki/瞪羚 "wikilink")**(Gazelleman)( Gazeruman)
 
 <!-- end list -->
 
@@ -110,7 +108,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedi
 
 <!-- end list -->
 
-  - **[海象人](../Page/海象.md "wikilink")**(Seiuchin)( Seiuchin)
+  - **[海象](../Page/海象.md "wikilink")人**(Seiuchin)( Seiuchin)
 
 <!-- end list -->
 
@@ -133,7 +131,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedi
 <!-- end list -->
 
   -
-    特徵是果凍身體，手部能變成劍，胸前能變成[凸透鏡](https://zh.wikipedia.org/wiki/凸透鏡 "wikilink")，也能變身成[烏賊和](https://zh.wikipedia.org/wiki/烏賊 "wikilink")[水母等](../Page/水母.md "wikilink")[軟體動物](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")。
+    特徵是果凍身體，手部能變成劍，胸前能變成[凸透鏡](https://zh.wikipedia.org/wiki/凸透鏡 "wikilink")，也能變身成[烏賊和](https://zh.wikipedia.org/wiki/烏賊 "wikilink")[水母](../Page/水母.md "wikilink")等[軟體動物](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")。
 
 <!-- end list -->
 
@@ -155,8 +153,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedi
 
 ### 金肉星
 
-  - **[亞歷山大](../Page/亞歷山大.md "wikilink")‧米特**(Alexandria Meat)(
-    Arekisandoria Mīto)
+  - **[亞歷山大](../Page/亞歷山大.md "wikilink")‧米特**(Alexandria Meat)( Arekisandoria Mīto)
 
 <!-- end list -->
 
@@ -241,8 +238,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedi
 
 <!-- end list -->
 
-  - **[行動電話人](https://zh.wikipedia.org/wiki/行動電話 "wikilink")**(Tel-Tel
-    Boy)( Teru Teru Bōi)
+  - **[行動電話人](https://zh.wikipedia.org/wiki/行動電話 "wikilink")**(Tel-Tel Boy)( Teru Teru Bōi)
 
 <!-- end list -->
 
@@ -441,19 +437,4 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedi
 
   - [キン肉マン29週年官方網站](https://web.archive.org/web/20080123234252/http://www.kin29.jp/)
 
-[Category:金肉人](https://zh.wikipedia.org/wiki/Category:金肉人 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink")
-[Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink")
-[Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:摔角題材動畫](https://zh.wikipedia.org/wiki/Category:摔角題材動畫 "wikilink")
-[Category:摔角漫畫](https://zh.wikipedia.org/wiki/Category:摔角漫畫 "wikilink")
-[Category:王子主角題材漫畫](https://zh.wikipedia.org/wiki/Category:王子主角題材漫畫 "wikilink")
-[Category:2001年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2001年日本劇場動畫 "wikilink")
-[Category:2002年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2002年日本劇場動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink")
-[Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink")
-[Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink")
+[Category:金肉人](https://zh.wikipedia.org/wiki/Category:金肉人 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink") [Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:摔角題材動畫](https://zh.wikipedia.org/wiki/Category:摔角題材動畫 "wikilink") [Category:摔角漫畫](https://zh.wikipedia.org/wiki/Category:摔角漫畫 "wikilink") [Category:王子主角題材漫畫](https://zh.wikipedia.org/wiki/Category:王子主角題材漫畫 "wikilink") [Category:2001年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2001年日本劇場動畫 "wikilink") [Category:2002年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2002年日本劇場動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink") [Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink")

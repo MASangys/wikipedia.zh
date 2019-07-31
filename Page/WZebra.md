@@ -4,15 +4,11 @@
 
 WZebra的歷史很大程度上就是Zebra的歷史，後者是WZebra下棋時使用的黑白棋引擎。這裏列出一些重要事件：
 
-1997年6月3日，貢納·安德森（Gunnar
-Andersson）開始致力於黑白棋程序，他決定稱之為Zebra。三周之後，它在IOS（Internet
-Othello Server，互聯網黑白棋伺服器）的積分達到1500，相當於人類業餘棋手的水平。
+1997年6月3日，貢納·安德森（Gunnar Andersson）開始致力於黑白棋程序，他決定稱之為Zebra。三周之後，它在IOS（Internet Othello Server，互聯網黑白棋伺服器）的積分達到1500，相當於人類業餘棋手的水平。
 
 1997年8月，粗略的估值函數（evaluation function）和搜索算法（search algorithms）正常運行。
 
-1997年9月，實現並調試了所有的主要程序組件——開局庫（opening book）、散列表（hash
-table）、終局解算程序（endgame
-solver）。這時的IOS積分達到1900，比大多數世界錦標賽棋手都要強。
+1997年9月，實現並調試了所有的主要程序組件——開局庫（opening book）、散列表（hash table）、終局解算程序（endgame solver）。這時的IOS積分達到1900，比大多數世界錦標賽棋手都要強。
 
 1998年1月，加入並調試了一種新型基於模式（pattern-based）的估值函數。IOS積分升至2300，高於所有人類棋手。
 
@@ -26,8 +22,7 @@ solver）。這時的IOS積分達到1900，比大多數世界錦標賽棋手都�
 
 1998年8月，WZebra 1.41版發佈，這是第一個沒有嚴重錯誤的版本。
 
-1998年10月，在聲望很高的第二屆普林斯頓（Princeton
-II）计算机程序錦標賽中，Zebra獲季軍（冠軍是[Hannibal](https://zh.wikipedia.org/wiki/Hannibal "wikilink")、亞軍是[Logistello](https://zh.wikipedia.org/wiki/Logistello "wikilink")）。
+1998年10月，在聲望很高的第二屆普林斯頓（Princeton II）计算机程序錦標賽中，Zebra獲季軍（冠軍是[Hannibal](https://zh.wikipedia.org/wiki/Hannibal "wikilink")、亞軍是[Logistello](https://zh.wikipedia.org/wiki/Logistello "wikilink")）。
 
 1999年春，Zebra的搜索算法進行了修改，速度大大提高。
 
@@ -47,8 +42,7 @@ II）计算机程序錦標賽中，Zebra獲季軍（冠軍是[Hannibal](https://
 
 2002年5月，WZebra 3.2版發佈。它比先前版具有更多的功能、更少的錯誤、以及一個能更好理解罕見局面的估值函數。
 
-2002年8月，WZebra 及LZebra
-3.3版發佈。後者是WZebra的[Linux](../Page/Linux.md "wikilink")移植程序，兩者包含相同的功能。
+2002年8月，WZebra 及LZebra 3.3版發佈。後者是WZebra的[Linux](../Page/Linux.md "wikilink")移植程序，兩者包含相同的功能。
 
 2002年11月，WZebra 4.0版發佈。它包含許多新功能、並改正了錯誤。此外，它的中局搜索更深遠。
 
@@ -64,5 +58,4 @@ II）计算机程序錦標賽中，Zebra獲季軍（冠軍是[Hannibal](https://
 
   - [WZebra官方網頁](http://radagast.se/othello/)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")

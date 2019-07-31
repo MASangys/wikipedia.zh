@@ -4,8 +4,7 @@ Vala借鉴了大量的[C\#语法](https://zh.wikipedia.org/wiki/C_Sharp "wikilin
 
 ## 示范代码
 
-一个简单的“[Hello
-world](https://zh.wikipedia.org/wiki/Hello_world "wikilink")”程序：
+一个简单的“[Hello world](https://zh.wikipedia.org/wiki/Hello_world "wikilink")”程序：
 
 ``` vala
 void main () {
@@ -30,12 +29,8 @@ class Sample : Object {
 
 ## 外部链接
 
-  - [The Vala Programming Language](http://live.gnome.org/Vala), on
-    GNOME Live\!
-  - [Benchmark of Vala versus C\# and
-    C](http://code.google.com/p/vala-benchmarks/)
-  - [Val(a)IDE,一个Vala
-    [集成开发环境](../Page/集成开发环境.md "wikilink")](http://www.valaide.org/)
+  - [The Vala Programming Language](http://live.gnome.org/Vala), on GNOME Live\!
+  - [Benchmark of Vala versus C\# and C](http://code.google.com/p/vala-benchmarks/)
+  - [Val(a)IDE,一个Vala [集成开发环境](../Page/集成开发环境.md "wikilink")](http://www.valaide.org/)
 
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:C語言家族](https://zh.wikipedia.org/wiki/Category:C語言家族 "wikilink")
+[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:C語言家族](https://zh.wikipedia.org/wiki/Category:C語言家族 "wikilink")

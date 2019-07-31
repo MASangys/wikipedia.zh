@@ -1,4 +1,4 @@
-《**法證先鋒II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝查案](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列第二部](../Page/法證先鋒系列.md "wikilink")，全劇共30集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，由[鍾嘉欣特別演出](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，並由[曹永廉及](../Page/曹永廉.md "wikilink")[郭少芸聯合主演](../Page/郭少芸.md "wikilink")，監製[梅小青](../Page/梅小青.md "wikilink")。
+《**法證先鋒II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝查案[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列](../Page/法證先鋒系列.md "wikilink")第二部，全劇共30集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")領銜主演，由[鍾嘉欣特別演出](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，並由[曹永廉](../Page/曹永廉.md "wikilink")及[郭少芸](../Page/郭少芸.md "wikilink")聯合主演，監製[梅小青](../Page/梅小青.md "wikilink")。
 
 ## 演員表
 
@@ -41,7 +41,7 @@
 林沛沛、许立仁之好友<br />
 李蕎之師兄<br />
 于1993年7月20日因在慈云山配水库与杨逸昇殴打周长发而被怀疑为杀害周长发之凶手，后因冯添做证人而消除杀害周长发之嫌疑<br />
-青年由<a href="../Page/梁証嘉.md" title="wikilink">梁証嘉飾演</a></p></td>
+青年由<a href="../Page/梁証嘉.md" title="wikilink">梁証嘉</a>飾演</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a></strong></p></td>
@@ -313,7 +313,7 @@
 高彥博之前舅仔<br />
 《最後一块骨头》作者<br />
 於第30集出現的巢沛麗而令他回憶跟林汀汀的片段，所以對其有特別的感覺<br />
-青年由<a href="../Page/梁証嘉.md" title="wikilink">梁証嘉飾演</a></p></td>
+青年由<a href="../Page/梁証嘉.md" title="wikilink">梁証嘉</a>飾演</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></strong></p></td>
@@ -1311,7 +1311,7 @@ David Leung之顧客<br />
 <td><p><strong><a href="../Page/陳丹丹.md" title="wikilink">陳丹丹</a></strong></p></td>
 <td><p><strong>卓　嵐</strong></p></td>
 <td><p>替身演員<br />
-患有<a href="../Page/假性懷孕.md" title="wikilink">假性懷孕及</a><a href="../Page/身心障礙.md" title="wikilink">身心障礙</a>（Psychosomatic Disorder）<br />
+患有<a href="../Page/假性懷孕.md" title="wikilink">假性懷孕</a>及<a href="../Page/身心障礙.md" title="wikilink">身心障礙</a>（Psychosomatic Disorder）<br />
 容兆海之女友<br />
 潘安妮之替身<br />
 2003年第一屆《全港新偶像挑戰賽》選手<br />
@@ -1782,7 +1782,7 @@ David Leung之顧客<br />
 
 ### 香港收视
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 | 週次 | 集數    | 日期               | 平均收視                                                | 最高收視                                                |
 | -- | ----- | ---------------- | --------------------------------------------------- | --------------------------------------------------- |
@@ -1801,7 +1801,7 @@ David Leung之顧客<br />
 | 集数    | CSM                                                                         | AGB   |
 | ----- | --------------------------------------------------------------------------- | ----- |
 | CSM省网 | 单集最高                                                                        | CSM市网 |
-| 1-3   | 因[汶川大地震](../Page/汶川大地震.md "wikilink")[全国哀悼日停播](../Page/全国哀悼日.md "wikilink") |       |
+| 1-3   | 因[汶川大地震](../Page/汶川大地震.md "wikilink")[全国哀悼日](../Page/全国哀悼日.md "wikilink")停播 |       |
 | 4     | 6.7                                                                         | 6.7   |
 | 5-9   | 6.69                                                                        | 8.38  |
 | 10-14 | 7.52                                                                        | 8.2   |
@@ -1811,46 +1811,37 @@ David Leung之顧客<br />
 
 ## 軼事
 
-  - 此劇是[歐陽震華與](../Page/歐陽震華.md "wikilink")[佘詩曼繼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")《[洗冤錄II](../Page/洗冤錄II.md "wikilink")》後再度合作。
+  - 此劇是[歐陽震華](../Page/歐陽震華.md "wikilink")與[佘詩曼繼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")《[洗冤錄II](../Page/洗冤錄II.md "wikilink")》後再度合作。
   - 此劇的原裝版大結局為一小時（連廣告），但此劇首播版大結局被加長至一小時三十分鐘（連廣告）。
   - 該劇從2019年4月起於無綫翡翠台深宵時段重播，至4月30日播映第17集時就取得7天跨平台總收視9.7點，是該系列重播以來最高收視，亦是無綫深夜重播劇集的最高收視，成功打破了其他重播劇的收視紀錄\[1\]。
 
 ## 爭議
 
-  - 有傳歐陽震華不滿所飾演的高彥博戲份銳減，因為被新加入的[鄭嘉穎所飾演的楊逸昇分薄戲份](../Page/鄭嘉穎.md "wikilink")。
+  - 有傳歐陽震華不滿所飾演的高彥博戲份銳減，因為被新加入的[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")所飾演的楊逸昇分薄戲份。
   - 由於[鍾嘉欣需要拍攝劇集](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")《[珠光寶氣](https://zh.wikipedia.org/wiki/珠光寶氣_\(電視劇\) "wikilink")》及《[金石良緣](../Page/金石良緣.md "wikilink")》，因此，鍾嘉欣只可以於此劇作特別演出，其戲份則由本輯女主角佘詩曼所演繹，雖然佘詩曼的演技都得到不少觀眾稱讚，但網民仍然認為鍾嘉欣飾演的林汀汀與林文龍飾演的古澤琛合演的戲份太少\[2\]
 
 ## 參考
 
 ## 外部連結
 
-  - [TVB.com
-    法證先鋒II](https://web.archive.org/web/20080722032050/http://tvcity.tvb.com/drama/forensicheroes2/)
-  - [《法證先鋒II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222160321/http://gotv.tvb.com/programme/103131/156477/)
+  - [TVB.com 法證先鋒II](https://web.archive.org/web/20080722032050/http://tvcity.tvb.com/drama/forensicheroes2/)
+  - [《法證先鋒II》 GOTV 第1集重溫](https://web.archive.org/web/20140222160321/http://gotv.tvb.com/programme/103131/156477/)
 
 ## 電視節目的變遷
 
 |align="center" colspan="5"|[同事三分親](../Page/同事三分親.md "wikilink")
-\-2008年8月7日 |- |align="center"
-colspan="1"|[銀樓金粉](../Page/銀樓金粉.md "wikilink")
+\-2008年8月7日 |- |align="center" colspan="1"|[銀樓金粉](../Page/銀樓金粉.md "wikilink")
 \-5月23日 |align="center" colspan="2"|[師奶股神](../Page/師奶股神.md "wikilink")
-5月26日-6月21日 |align="center"
-colspan="3"|[甜言蜜語](../Page/甜言蜜語.md "wikilink")
+5月26日-6月21日 |align="center" colspan="3"|[甜言蜜語](../Page/甜言蜜語.md "wikilink")
 6月23日- |- |align="center" colspan="1"|**上一套：**
 [原來愛上賊](../Page/原來愛上賊.md "wikilink")
-\-5月16日 |align="center"
-colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第三線劇集 "wikilink")）**
+\-5月16日 |align="center" colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第三線劇集 "wikilink")）**
 **法證先鋒II**
 5月19日-6月28日 |align="center" colspan="1"|**下一套：**
 [疑情別戀](../Page/疑情別戀.md "wikilink")
 6月30日-
 
-[Category:2008年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2008年無綫電視劇集 "wikilink")
-[Category:法證先鋒系列](https://zh.wikipedia.org/wiki/Category:法證先鋒系列 "wikilink")
-[Category:2008年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2008年AOD電視劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
+[Category:2008年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2008年無綫電視劇集 "wikilink") [Category:法證先鋒系列](https://zh.wikipedia.org/wiki/Category:法證先鋒系列 "wikilink") [Category:2008年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2008年AOD電視劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
 
 1.
 2.  \[星島日報﹕網友論《法證II》唔想汀汀早死\]，2008年6月6日

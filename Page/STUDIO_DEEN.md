@@ -1,40 +1,22 @@
-[Studio_Deen_(1988-2005).jpg](https://zh.wikipedia.org/wiki/File:Studio_Deen_\(1988-2005\).jpg "fig:Studio_Deen_(1988-2005).jpg")
-**株式會社STUDIO
-DEEN**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[武藏野市](../Page/武藏野市.md "wikilink")\[1\]的動畫製作公司。成立於1975年。[日本動畫協會正式會員](../Page/日本動畫協會.md "wikilink")。
+[Studio_Deen_(1988-2005).jpg](https://zh.wikipedia.org/wiki/File:Studio_Deen_\(1988-2005\).jpg "fig:Studio_Deen_(1988-2005).jpg") **株式會社STUDIO DEEN**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[武藏野市](../Page/武藏野市.md "wikilink")\[1\]的動畫製作公司。成立於1975年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。
 
 ## 概要、沿革
 
-STUDIO
-DEEN的前身是[日昇動畫內部專門負責上色的工作室](../Page/日昇動畫.md "wikilink")。1975年3月14日\[2\]，由當時「日昇工作室（<small></small>）」（今日昇動畫）擔任機器人主題電視動畫《[勇者萊汀](https://zh.wikipedia.org/wiki/勇者萊汀 "wikilink")》負責上色檢查的長谷川洋。從協助日昇動畫作品的上色工作起家，並以當時承包作品名稱的最後一個字「汀」做命名\[3\]，正式成立「**有限公司STUDIO
-DEEN**（<small></small>，以下用DEEN簡稱）｣。
+STUDIO DEEN的前身是[日昇動畫](../Page/日昇動畫.md "wikilink")內部專門負責上色的工作室。1975年3月14日\[2\]，由當時「日昇工作室（<small></small>）」（今日昇動畫）擔任機器人主題電視動畫《[勇者萊汀](https://zh.wikipedia.org/wiki/勇者萊汀 "wikilink")》負責上色檢查的長谷川洋。從協助日昇動畫作品的上色工作起家，並以當時承包作品名稱的最後一個字「汀」做命名\[3\]，正式成立「**有限公司STUDIO DEEN**（<small></small>，以下用DEEN簡稱）｣。
 
-1982年，STUDIO
-DEEN首度嘗試動畫的統包製作。當初，DEEN主要負責[SHIN-EI動畫作品](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢_\(1979年電視動畫\).md "wikilink")》和《》的協力製作。1984年4月之後，《[福星小子](../Page/福星小子.md "wikilink")》的總承包商從小丑工作室（今[Studio
-Pierrot](../Page/Studio_Pierrot.md "wikilink")）轉換成DEEN負責。至1990年代前半，DEEN承包了《[相聚一刻](../Page/相聚一刻.md "wikilink")》、《》、《[亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》、《》等等電影公司[Kitty
-film作品的動畫實質製作](../Page/Kitty_film.md "wikilink")。
+1982年，STUDIO DEEN首度嘗試動畫的統包製作。當初，DEEN主要負責[SHIN-EI動畫作品](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢_\(1979年電視動畫\).md "wikilink")》和《》的協力製作。1984年4月之後，《[福星小子](../Page/福星小子.md "wikilink")》的總承包商從小丑工作室（今[Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")）轉換成DEEN負責。至1990年代前半，DEEN承包了《[相聚一刻](../Page/相聚一刻.md "wikilink")》、《》、《[亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》、《》等等電影公司[Kitty film作品的動畫實質製作](../Page/Kitty_film.md "wikilink")。
 
-1994年4月登記變更成為**株式會社**。2005年，迎接STUDIO
-DEEN公司創立30周年，隔年1月將總部從[東京都](../Page/東京都.md "wikilink")[杉並區搬遷至東京都](../Page/杉並區.md "wikilink")[武藏野市](../Page/武藏野市.md "wikilink")\[4\]。
+1994年4月登記變更成為**株式會社**。2005年，迎接STUDIO DEEN公司創立30周年，隔年1月將總部從[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")搬遷至東京都[武藏野市](../Page/武藏野市.md "wikilink")\[4\]。
 
-2011年4月1日，與株式會社Ima Group（<small></small>）結成商業聯盟\[5\]。同年9月30日，長谷川卸任STUDIO
-DEEN社長，轉任Ima Group的顧問。
+2011年4月1日，與株式會社Ima Group（<small></small>）結成商業聯盟\[5\]。同年9月30日，長谷川卸任STUDIO DEEN社長，轉任Ima Group的顧問。
 
-STUDIO DEEN也有專屬的攝影部門與3DCG製作部門，而且還有替部門取名字。攝影部門取名叫做「組\[6\]」，但在製作《[莉露莉露妖精
-～妖精之門～](../Page/莉露莉露妖精.md "wikilink")》（2016年）開始改用「DEEN
-digital」。而3DCG製作部門（2004年開設）取名叫做「[海鳥](https://zh.wikipedia.org/wiki/海鳥 "wikilink")（<small></small>）」。
+STUDIO DEEN也有專屬的攝影部門與3DCG製作部門，而且還有替部門取名字。攝影部門取名叫做「組\[6\]」，但在製作《[莉露莉露妖精 ～妖精之門～](../Page/莉露莉露妖精.md "wikilink")》（2016年）開始改用「DEEN digital」。而3DCG製作部門（2004年開設）取名叫做「[海鳥](https://zh.wikipedia.org/wiki/海鳥 "wikilink")（<small></small>）」。
 
-國外方面，STUDIO
-DEEN擁有一家在[中國的](../Page/中國.md "wikilink")[子公司](../Page/子公司.md "wikilink")「蘇州丹尼動畫有限公司（簡稱丹尼動畫，舊名：蘇州工作室）」。作畫和上色方面，與[韓國的動畫公司](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")建立其協助關係。
- 2013年9月，STUDIO DEEN繼承母公司Ima Group旗下音樂公司「Cosmic
-Record」的經營權，負責音樂CD的企劃、總企劃製作的職務。
+國外方面，STUDIO DEEN擁有一家在[中國](../Page/中國.md "wikilink")的[子公司](../Page/子公司.md "wikilink")「蘇州丹尼動畫有限公司（簡稱丹尼動畫，舊名：蘇州工作室）」。作畫和上色方面，與[韓國的動畫公司](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")建立其協助關係。  2013年9月，STUDIO DEEN繼承母公司Ima Group旗下音樂公司「Cosmic Record」的經營權，負責音樂CD的企劃、總企劃製作的職務。
 
-STUDIO
-DEEN另外還有事角色製作和授權管理，並專注於自家開發的內容作為角色業務。因此目前正在跟[株式會社Surfersparadise](http://www.surpara.com/)共同以「i-style
-Project」企劃的名義進行[VOCALOID3角色蒼姬琉璃與Merli](../Page/VOCALOID.md "wikilink")，以及「[Project
-Yumenikki](../Page/夢日記.md "wikilink")」的媒體混合展開。還有與中國跨國共同企劃製作播映的電視動畫《[靈劍山](https://zh.wikipedia.org/wiki/從前有座靈劍山#電視動畫 "wikilink")》，並負責在國內出周邊商品與相關的授權管理\[7\]。
+STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發的內容作為角色業務。因此目前正在跟[株式會社Surfersparadise](http://www.surpara.com/)共同以「i-style Project」企劃的名義進行[VOCALOID](../Page/VOCALOID.md "wikilink")3角色蒼姬琉璃與Merli，以及「[Project Yumenikki](../Page/夢日記.md "wikilink")」的媒體混合展開。還有與中國跨國共同企劃製作播映的電視動畫《[靈劍山](https://zh.wikipedia.org/wiki/從前有座靈劍山#電視動畫 "wikilink")》，並負責在國內出周邊商品與相關的授權管理\[7\]。
 
-此外。代表作品方面，有[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋留美子的](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")《福星小子》、《相聚一刻》、《亂馬½》，和漫畫改編後來延伸成電視、電影動畫系列的《[逮捕令](../Page/逮捕令_\(動畫\).md "wikilink")》、《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》、《[今日大魔王](https://zh.wikipedia.org/wiki/魔之系列#電視動畫 "wikilink")》、《[地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")》及《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》。主要資深動畫師方面，有福星小子開始擔任[導演的](https://zh.wikipedia.org/wiki/導演 "wikilink")[押井守](../Page/押井守.md "wikilink")，和作畫指導起家、並包辦了亂馬½、浪客劍心、[閃靈二人組的演出家](https://zh.wikipedia.org/wiki/閃靈二人組 "wikilink")[古橋一浩和擔任](../Page/古橋一浩.md "wikilink")[原畫及](https://zh.wikipedia.org/wiki/原畫師 "wikilink")[人物設計的](../Page/人物設計.md "wikilink")[中嶋敦子](../Page/中嶋敦子.md "wikilink")，皆出身自STUDIO
-DEEN。
+此外。代表作品方面，有[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋留美子的](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")《福星小子》、《相聚一刻》、《亂馬½》，和漫畫改編後來延伸成電視、電影動畫系列的《[逮捕令](../Page/逮捕令_\(動畫\).md "wikilink")》、《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》、《[今日大魔王](https://zh.wikipedia.org/wiki/魔之系列#電視動畫 "wikilink")》、《[地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")》及《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》。主要資深動畫師方面，有福星小子開始擔任[導演的](https://zh.wikipedia.org/wiki/導演 "wikilink")[押井守](../Page/押井守.md "wikilink")，和作畫指導起家、並包辦了亂馬½、浪客劍心、[閃靈二人組的演出家](https://zh.wikipedia.org/wiki/閃靈二人組 "wikilink")[古橋一浩](../Page/古橋一浩.md "wikilink")和擔任[原畫及](https://zh.wikipedia.org/wiki/原畫師 "wikilink")[人物設計](../Page/人物設計.md "wikilink")的[中嶋敦子](../Page/中嶋敦子.md "wikilink")，皆出身自STUDIO DEEN。
 
 ## 作品列表
 
@@ -126,7 +108,7 @@ DEEN。
 <td><p>1995年</p></td>
 <td><p><a href="../Page/DNA².md" title="wikilink">DNA²</a></p></td>
 <td></td>
-<td><p>與<a href="../Page/MADHOUSE.md" title="wikilink">MADHOUSE共同製作</a>。</p></td>
+<td><p>與<a href="../Page/MADHOUSE.md" title="wikilink">MADHOUSE</a>共同製作。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -403,7 +385,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/魔偵探洛基.md" title="wikilink">魔偵探洛基RAGNAROK</a></p></td>
+<td><p><a href="../Page/魔偵探洛基.md" title="wikilink">魔偵探洛基</a>RAGNAROK</p></td>
 <td><p>|</p></td>
 <td></td>
 <td></td>
@@ -685,7 +667,7 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
-<td><p><a href="../Page/吸血鬼騎士.md" title="wikilink">吸血鬼騎士、吸血鬼騎士 Guilty</a></p></td>
+<td><p><a href="../Page/吸血鬼騎士.md" title="wikilink">吸血鬼騎士 Guilty</a>、吸血鬼騎士</p></td>
 <td><p>、</p></td>
 <td><p>漫畫</p></td>
 <td><p>2季都在2008年內播出。</p></td>
@@ -700,7 +682,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/純情羅曼史.md" title="wikilink">純情羅曼史、純情羅曼史2</a></p></td>
+<td><p><a href="../Page/純情羅曼史.md" title="wikilink">純情羅曼史</a>、純情羅曼史2</p></td>
 <td><p>、</p></td>
 <td></td>
 <td></td>
@@ -845,7 +827,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/世界一初戀.md" title="wikilink">世界一初戀、世界一初戀2</a></p></td>
+<td><p><a href="../Page/世界一初戀.md" title="wikilink">世界一初戀</a>、世界一初戀2</p></td>
 <td><p>、</p></td>
 <td><p>漫畫</p></td>
 <td><p>2季都在2011年內播出。</p></td>
@@ -877,7 +859,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/緋色的碎片.md" title="wikilink">緋色的碎片、緋色的碎片 第二章</a></p></td>
+<td><p><a href="../Page/緋色的碎片.md" title="wikilink">緋色的碎片 第二章</a>、緋色的碎片</p></td>
 <td><p>、</p></td>
 <td><p>遊戲</p></td>
 <td><p>2季都在2012年內播出。</p></td>
@@ -976,14 +958,14 @@ DEEN。
 <td></td>
 <td></td>
 <td><p>原創</p></td>
-<td><p>小說《羅德斯島戰記》衍生新作動畫作品。與<a href="../Page/雲雀工作室.md" title="wikilink">雲雀工作室共同製作</a>。</p></td>
+<td><p>小說《羅德斯島戰記》衍生新作動畫作品。與<a href="../Page/雲雀工作室.md" title="wikilink">雲雀工作室</a>共同製作。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>2015年</p></td>
-<td><p><a href="../Page/記錄的地平線.md" title="wikilink">記錄的地平線2</a></p></td>
+<td><p><a href="../Page/記錄的地平線.md" title="wikilink">記錄的地平線</a>2</p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -1025,7 +1007,7 @@ DEEN。
 <td><p><a href="../Page/寶石寵物_魔法變身.md" title="wikilink">寶石寵物 魔法變身</a></p></td>
 <td></td>
 <td><p>原創</p></td>
-<td><p><a href="../Page/三麗鷗.md" title="wikilink">三麗鷗與</a>原案的遊戲原作衍生動畫系列。</p></td>
+<td><p><a href="../Page/三麗鷗.md" title="wikilink">三麗鷗</a>與原案的遊戲原作衍生動畫系列。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1376,7 +1358,7 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>1997年</p></td>
-<td><p><a href="../Page/鬼神童子ZENKI.md" title="wikilink">鬼神童子ZENKI外傳 ～黯鬼奇譚～</a></p></td>
+<td><p><a href="../Page/鬼神童子ZENKI.md" title="wikilink">鬼神童子ZENKI ～黯鬼奇譚～</a>外傳</p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1633,8 +1615,7 @@ DEEN。
 
 #### 網路動畫
 
-  - [義呆利 The Beautiful
-    World](../Page/義呆利_Axis_Powers.md "wikilink")（2009年）
+  - [義呆利 The Beautiful World](../Page/義呆利_Axis_Powers.md "wikilink")（2009年）
   - [Starry☆Sky](../Page/Starry☆Sky.md "wikilink") （2010年）
 
 #### 圖片劇場
@@ -1697,7 +1678,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/銀河漂流.md" title="wikilink">銀河漂流華爾分</a></p></td>
+<td><p><a href="../Page/銀河漂流.md" title="wikilink">銀河漂流</a>華爾分</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1717,7 +1698,7 @@ DEEN。
 <tr class="odd">
 <td><p>1984年</p></td>
 <td><p>1985年</p></td>
-<td><p><a href="../Page/重戰機.md" title="wikilink">重戰機L-Gaim</a></p></td>
+<td><p><a href="../Page/重戰機.md" title="wikilink">重戰機</a>L-Gaim</p></td>
 <td></td>
 <td><p>日本日昇動畫</p></td>
 <td><p>原創</p></td>
@@ -2223,7 +2204,7 @@ DEEN。
 
   - [機動戰士鋼彈](../Page/機動戰士GUNDAM.md "wikilink")（1979年－1980年）
 
-  - [傳說巨神伊甸王](../Page/傳說巨神.md "wikilink")（1980年－1981年）
+  - [傳說巨神](../Page/傳說巨神.md "wikilink")伊甸王（1980年－1981年）
 
   - [無敵機器人 托萊達G7](../Page/無敵機器人_托萊達G7.md "wikilink")（1980年－1981年）
 
@@ -2260,7 +2241,7 @@ DEEN。
 
   - [超能力魔美](../Page/超能力魔美.md "wikilink")（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，1987年－1989年）
 
-  - [北斗神拳2](../Page/北斗神拳.md "wikilink")（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，1987年－1988年）
+  - [北斗神拳](../Page/北斗神拳.md "wikilink")2（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，1987年－1988年）
 
   - [新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")（總承包商：[GAINAX](../Page/GAINAX.md "wikilink")、[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，1995年－1996年）
 
@@ -2286,8 +2267,7 @@ DEEN。
 
 #### 電視動畫
 
-  - [來玩遊戲吧](https://zh.wikipedia.org/wiki/來玩遊戲吧 "wikilink")（負責攝影（DEEN
-    digital名義），總承包商：[Lerche](../Page/雲雀工作室.md "wikilink")，2018年）
+  - [來玩遊戲吧](https://zh.wikipedia.org/wiki/來玩遊戲吧 "wikilink")（負責攝影（DEEN digital名義），總承包商：[Lerche](../Page/雲雀工作室.md "wikilink")，2018年）
 
 ## 相關人物
 
@@ -2378,8 +2358,7 @@ DEEN。
 
 ## 參考資料
 
-  - 「24
-    株式社」《[Animage動畫口袋資料](../Page/Animage.md "wikilink")2000》目錄製作委員會編，[德間書店](../Page/德間書店.md "wikilink")，2000年，第118頁。
+  - 「24 株式社」《[Animage](../Page/Animage.md "wikilink")動畫口袋資料2000》目錄製作委員會編，[德間書店](../Page/德間書店.md "wikilink")，2000年，第118頁。
   - 「動畫人物CRIP STUDIO DEEN社長：長谷川洋」《Animage》1989年3月號，德間書店，第182頁。
   - 「現代視覺文化研究 Vol.2」，2008年，「第1特集地上最強動畫你看了嗎―――\!\!\!動畫工作室全部所有的選手入場\!\!」
 
@@ -2387,8 +2366,7 @@ DEEN。
 
   - －組的攝影團隊之醫的大山佳久另外成立專門負責攝影的公司，現已停止活動。
 
-  - [Studio
-    Matrix](../Page/Studio_Matrix.md "wikilink")－由製作人一職出身的白井勝也創立的公司，現已停止活動。
+  - [Studio Matrix](../Page/Studio_Matrix.md "wikilink")－由製作人一職出身的白井勝也創立的公司，現已停止活動。
 
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
@@ -2398,23 +2376,17 @@ DEEN。
 
   -
 
-[Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink")
-[Category:STUDIO_DEEN](https://zh.wikipedia.org/wiki/Category:STUDIO_DEEN "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
-[Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink")
+[Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink") [Category:STUDIO_DEEN](https://zh.wikipedia.org/wiki/Category:STUDIO_DEEN "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink")
 
 1.
 2.
-3.  動畫人物CRIP：STUDIO
-    DEEN社長「長谷川洋」，出自於《Animage》1989年3月號，[德間書店](../Page/德間書店.md "wikilink")，第182頁。
+3.  動畫人物CRIP：STUDIO DEEN社長「長谷川洋」，出自於《Animage》1989年3月號，[德間書店](../Page/德間書店.md "wikilink")，第182頁。
 
 4.
 5.
 6.  日本消防隊專用的標誌名稱。
 
-7.  [【】](http://www.deen.co.jp/company/hello). 株式會社STUDIO DEEN.
-    \[2018-10-02\] .
+7.  [【】](http://www.deen.co.jp/company/hello). 株式會社STUDIO DEEN. \[2018-10-02\] .
 
 8.
 

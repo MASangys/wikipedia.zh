@@ -1,7 +1,4 @@
-**Niconico動畫**（、簡稱：Niconico、N站、Nico等
-）\[1\]是[日本](../Page/日本.md "wikilink")[多玩國公司所營運的線上](../Page/多玩國.md "wikilink")[弹幕影片分享網站](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")。其中「Niconico」在[日文中為](https://zh.wikipedia.org/wiki/日文 "wikilink")[微笑之意](../Page/微笑.md "wikilink")，動画在日文中則為「影片」的意思。Niconico動畫與[YouTube等影片共享網站相似](../Page/YouTube.md "wikilink")，但Niconico動畫提供觀賞者可在影片上留言并以弹幕的形式出現在影片上的功能。
-[Nikoniko_honsya_ikebukuro.jpg](https://zh.wikipedia.org/wiki/File:Nikoniko_honsya_ikebukuro.jpg "fig:Nikoniko_honsya_ikebukuro.jpg")[池袋的多用途场所](../Page/池袋.md "wikilink")“Niconico本社”（[P'PARCO地下](https://zh.wikipedia.org/wiki/P'PARCO "wikilink")1-2层），注意并非网站运营意义上的本社\]\]
-隨著業務的擴張，如沿用「Niconico」之名的Niconico直播及Niconico插畫，許多相關的服務都已超出了視頻共享服務的框架。在2015年8月，Niconico動畫一般會員約有5000萬人，付費會員約有250萬人。\[2\]提供用戶可跨平台使用此服務。2007年該網站贏得[好設計獎與](../Page/好設計獎.md "wikilink")[日本御宅大賞](https://zh.wikipedia.org/wiki/日本御宅大賞 "wikilink")，2008年又獲得[電子藝術大獎](https://zh.wikipedia.org/wiki/電子藝術大獎 "wikilink")\[3\]\[4\]。
+**Niconico動畫**（、簡稱：Niconico、N站、Nico等 ）\[1\]是[日本](../Page/日本.md "wikilink")[多玩國](../Page/多玩國.md "wikilink")公司所營運的線上[弹幕影片分享網站](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")。其中「Niconico」在[日文中為](https://zh.wikipedia.org/wiki/日文 "wikilink")[微笑](../Page/微笑.md "wikilink")之意，動画在日文中則為「影片」的意思。Niconico動畫與[YouTube](../Page/YouTube.md "wikilink")等影片共享網站相似，但Niconico動畫提供觀賞者可在影片上留言并以弹幕的形式出現在影片上的功能。 [Nikoniko_honsya_ikebukuro.jpg](https://zh.wikipedia.org/wiki/File:Nikoniko_honsya_ikebukuro.jpg "fig:Nikoniko_honsya_ikebukuro.jpg")[池袋](../Page/池袋.md "wikilink")的多用途场所“Niconico本社”（[P'PARCO地下](https://zh.wikipedia.org/wiki/P'PARCO "wikilink")1-2层），注意并非网站运营意义上的本社\]\] 隨著業務的擴張，如沿用「Niconico」之名的Niconico直播及Niconico插畫，許多相關的服務都已超出了視頻共享服務的框架。在2015年8月，Niconico動畫一般會員約有5000萬人，付費會員約有250萬人。\[2\]提供用戶可跨平台使用此服務。2007年該網站贏得[好設計獎](../Page/好設計獎.md "wikilink")與[日本御宅大賞](https://zh.wikipedia.org/wiki/日本御宅大賞 "wikilink")，2008年又獲得[電子藝術大獎](https://zh.wikipedia.org/wiki/電子藝術大獎 "wikilink")\[3\]\[4\]。
 
 ## 介紹
 
@@ -11,15 +8,15 @@
 
 直至現在，Niconico動畫並不容許用戶直接上傳至本網站，而是透過屬同一公司的上傳網站取得影片片源，Niconico動畫的機能本身只是為片源加上留言。
 
-直至β時期為止，Niconico動畫是能對應[Youtube的影片的](https://zh.wikipedia.org/wiki/Youtube "wikilink")，而事實上當時網站大部分的影片都是來自Youtube的。但是自從Youtube阻擋Niconico動畫的連線後，β就結束服務，當以γ的名稱重新開放時，Niconico動畫則完全切斷自己與Youtube的連線。然後作為代替，開設了SMILEVIDEO。另外，對於Youtube把從Niconico動畫的連線阻擋的事件，Youtube至此亦沒有任何公開解釋，因此網路上出現很多不同的揣測\[5\]，一些推測指出其原因是YouTube的服務器難以負荷大量的流量\[6\]。
+直至β時期為止，Niconico動畫是能對應[YouTube](../Page/YouTube.md "wikilink")的影片的，而事實上當時網站大部分的影片都是來自YouTube的。但是自從YouTube阻擋Niconico動畫的連線後，β就結束服務，當以γ的名稱重新開放時，Niconico動畫則完全切斷自己與YouTube的連線。然後作為代替，開設了SMILEVIDEO。另外，對於YouTube把從Niconico動畫的連線阻擋的事件，YouTube至此亦沒有任何公開解釋，因此網路上出現很多不同的揣測\[5\]，一些推測指出其原因是YouTube的服務器難以負荷大量的流量\[6\]。
 
-其後在RC時期曾經對應另一網站的影片，但在2007年10月1日進行系統維護後，以運用上的原因終止了對此網站的對應。那是因為有在SMILEVIDEO上傳多套違犯條約而被停止帳號的使用者，移到AmebaVision申請帳號並上傳影片。而且來自其他上載網站（如Youtube、SMILEVIDEO）比來自AmebaVision的多很多亦是原因之一。
+其後在RC時期曾經對應另一網站的影片，但在2007年10月1日進行系統維護後，以運用上的原因終止了對此網站的對應。那是因為有在SMILEVIDEO上傳多套違犯條約而被停止帳號的使用者，移到AmebaVision申請帳號並上傳影片。而且來自其他上載網站（如YouTube、SMILEVIDEO）比來自AmebaVision的多很多亦是原因之一。
 
-Nico鼓勵用戶上傳時已先準備好預先編碼的影片格式，截至2008年7月5日為止，免費和付費會員皆是支援[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")[數位視訊](https://zh.wikipedia.org/wiki/數位視訊 "wikilink")[編解碼器和](https://zh.wikipedia.org/wiki/編解碼器 "wikilink")[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")[音訊編碼器](https://zh.wikipedia.org/wiki/音訊 "wikilink")。而Nico所上傳的影片，並沒有嚴格限制影片的長度，簡單區分為普通會員一次可上傳2GB，而白金會員則無限制，這也是在[Youtube龐大的市占率下](https://zh.wikipedia.org/wiki/Youtube "wikilink")，仍能持續發展的原因之一。
+Nico鼓勵用戶上傳時已先準備好預先編碼的影片格式，截至2008年7月5日為止，免費和付費會員皆是支援[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")[數位視訊](https://zh.wikipedia.org/wiki/數位視訊 "wikilink")[編解碼器和](https://zh.wikipedia.org/wiki/編解碼器 "wikilink")[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")[音訊編碼器](https://zh.wikipedia.org/wiki/音訊 "wikilink")。而Nico所上傳的影片，並沒有嚴格限制影片的長度，簡單區分為普通會員一次可上傳2GB，而白金會員則無限制，這也是在[YouTube](../Page/YouTube.md "wikilink")龐大的市占率下，仍能持續發展的原因之一。
 
 ### 使用
 
-Niconico動畫用戶可以上傳、觀看和共享影片。但是，與其他影片分享網站不同的是，評論是直接且同步出現在視訊螢幕上。這[彈幕形式的留言功能是Niconico最大的特徵](../Page/视频弹幕.md "wikilink")，使用者可自由指定[彈幕出現的時間](../Page/视频弹幕.md "wikilink")、於影片上的位置、字體的大小、文字的顏色等。留言亦可以選擇是從影片的右方移動到左方，或者是在一段時間內固定在特定位置。這功能使觀看者能直接對影片發表評論，且產生與其他人創建一個共享的觀看經驗。[Niwango公司的](../Page/Niwango.md "wikilink")[董事](../Page/董事.md "wikilink")[西村博之指出](https://zh.wikipedia.org/wiki/西村博之 "wikilink")，Nico的氛圍和文化背景較接近[2channel或](https://zh.wikipedia.org/wiki/2channel "wikilink")[雙葉頻道](../Page/雙葉頻道.md "wikilink")，許多熱門影片通常帶有[御宅族的味道](../Page/御宅族.md "wikilink")，如[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[電腦遊戲和](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[Pop](https://zh.wikipedia.org/wiki/Pop_\(音樂類型\) "wikilink")。Nico影片亦有提供相關的類別標記，其中標籤可由任何用戶自由編輯，而不只是侷限於上傳者本人。每個影片可以擁有十幾種標記類別，其中最多可以選擇五個是鎖定不更動，其他則可由任何用戶自由編輯。通常這些標籤不僅作為分類，也可用來評論文章、諷刺、幽默或其他與影片相關的內容。該網站亦有提供藉由[混合曲製成的](https://zh.wikipedia.org/wiki/混合曲 "wikilink")[MAD片](../Page/MAD片.md "wikilink")，如[組曲《NICONICO動畫》](../Page/組曲《NICONICO動畫》.md "wikilink")。某些動畫也會發布在在網站上，像是《[Candy☆Boy](../Page/Candy☆Boy.md "wikilink")》、《[天體戰士桑雷德](https://zh.wikipedia.org/wiki/天體戰士桑雷德 "wikilink")》和《[企鵝美眉](../Page/企鵝美眉.md "wikilink")》等\[7\]。
+Niconico動畫用戶可以上傳、觀看和共享影片。但是，與其他影片分享網站不同的是，評論是直接且同步出現在視訊螢幕上。這[彈幕形式的留言功能是Niconico最大的特徵](../Page/视频弹幕.md "wikilink")，使用者可自由指定[彈幕出現的時間](../Page/视频弹幕.md "wikilink")、於影片上的位置、字體的大小、文字的顏色等。留言亦可以選擇是從影片的右方移動到左方，或者是在一段時間內固定在特定位置。這功能使觀看者能直接對影片發表評論，且產生與其他人創建一個共享的觀看經驗。[Niwango](../Page/Niwango.md "wikilink")公司的[董事](../Page/董事.md "wikilink")[西村博之指出](https://zh.wikipedia.org/wiki/西村博之 "wikilink")，Nico的氛圍和文化背景較接近[2channel或](https://zh.wikipedia.org/wiki/2channel "wikilink")[雙葉頻道](../Page/雙葉頻道.md "wikilink")，許多熱門影片通常帶有[御宅族](../Page/御宅族.md "wikilink")的味道，如[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[電腦遊戲和](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[Pop](https://zh.wikipedia.org/wiki/Pop_\(音樂類型\) "wikilink")。Nico影片亦有提供相關的類別標記，其中標籤可由任何用戶自由編輯，而不只是侷限於上傳者本人。每個影片可以擁有十幾種標記類別，其中最多可以選擇五個是鎖定不更動，其他則可由任何用戶自由編輯。通常這些標籤不僅作為分類，也可用來評論文章、諷刺、幽默或其他與影片相關的內容。該網站亦有提供藉由[混合曲製成的](https://zh.wikipedia.org/wiki/混合曲 "wikilink")[MAD片](../Page/MAD片.md "wikilink")，如[組曲《NICONICO動畫》](../Page/組曲《NICONICO動畫》.md "wikilink")。某些動畫也會發布在在網站上，像是《[Candy☆Boy](../Page/Candy☆Boy.md "wikilink")》、《[天體戰士桑雷德](https://zh.wikipedia.org/wiki/天體戰士桑雷德 "wikilink")》和《[企鵝美眉](../Page/企鵝美眉.md "wikilink")》等\[7\]。
 
 ### 弹幕
 
@@ -43,13 +40,11 @@ Niconico動畫的搜寻功能可以影片的標題及説明作關鍵字搜寻，
 
 ### 簡介
 
-2006年12月12日，Niconico動畫開始提供實驗性質的服務，稱為「****」。此時的Niconico動畫只是將儲存於YouTube上的影片，加上即時留言字幕的功能，本身並沒有提供影片上載的服務，與YouTube也沒有正式的關係。隨著網站越來越流行，自2007年2月23日後，YouTube禁止Niconico動畫存取其影片，於是Nico被迫關閉服務，但兩個星期後Niwango公司推出自己的動畫分享服務SMILEVIDEO。目前Niconico動畫可以存取儲存於SMILEVIDEO與[Photozou等網站上的動畫](https://zh.wikipedia.org/wiki/Photozou "wikilink")。2007年8月9日，Nico宣布可藉由「[行動電話來上傳影片](https://zh.wikipedia.org/wiki/行動電話 "wikilink")」，並和[NTT
-DOCOMO與](../Page/NTT_DOCOMO.md "wikilink")[au簽約](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")\[10\]。
+2006年12月12日，Niconico動畫開始提供實驗性質的服務，稱為「****」。此時的Niconico動畫只是將儲存於YouTube上的影片，加上即時留言字幕的功能，本身並沒有提供影片上載的服務，與YouTube也沒有正式的關係。隨著網站越來越流行，自2007年2月23日後，YouTube禁止Niconico動畫存取其影片，於是Nico被迫關閉服務，但兩個星期後Niwango公司推出自己的動畫分享服務SMILEVIDEO。目前Niconico動畫可以存取儲存於SMILEVIDEO與[Photozou等網站上的動畫](https://zh.wikipedia.org/wiki/Photozou "wikilink")。2007年8月9日，Nico宣布可藉由「[行動電話來上傳影片](https://zh.wikipedia.org/wiki/行動電話 "wikilink")」，並和[NTT DOCOMO與](../Page/NTT_DOCOMO.md "wikilink")[au簽約](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")\[10\]。
 
 截至2010年3月31日，有上傳過影片的Nico註冊用戶超過1670.0萬名，此外還有約506.00萬名的使用用戶和77.2萬名的付費用戶。由於伺服器的寬頻有限，Niwango在高峰時段（約晚上7點至凌晨2時）會限制免費用戶的訪問量。由於該網站是於日本發佈，Niconico動畫的使用者絕大部分是日本人，但據管理者統計，每日影片觀看次數約有1%來自於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、0.5%來自於[香港](../Page/香港.md "wikilink")\[11\]。這使得Niconico動畫於2007年10月18日開始提供台灣版的服務\[12\]，提供[正體中文使用介面](https://zh.wikipedia.org/wiki/正體中文 "wikilink")、專用留言系統與Niconico市場。2008年7月，該網站亦出現了德語和西班牙語版本；也因此台灣的功能在這時有顯著改善。2012年10月7日，開設英語版服務並以Nicovideo.jp取代原为英文版的Niconico.com，配備了新的播放器和翻譯工具可以讓用戶把視頻說明翻譯成英語或中文\[13\]\[14\]。
 
-2012年4月27日，Niconico動畫宣布即將改名为Niconico，以及引入「Zero」這一个版本以提高視頻分辨率及進行改進\[15\]
-。
+2012年4月27日，Niconico動畫宣布即將改名为Niconico，以及引入「Zero」這一个版本以提高視頻分辨率及進行改進\[15\] 。
 
 ### 歷史沿革
 
@@ -137,7 +132,7 @@ DOCOMO與](../Page/NTT_DOCOMO.md "wikilink")[au簽約](https://zh.wikipedia.org/
 <td><p>2008年3月5日 - 2008年7月5日</p></td>
 <td><ul>
 <li>2008年3月5日：「Niconico動畫（SP1）」開始服務。</li>
-<li>2008年5月12日：影片總觀看次數達至50億回，<a href="../Page/Niconico大百科.md" title="wikilink">Niconico大百科開始提供服務</a></li>
+<li>2008年5月12日：影片總觀看次數達至50億回，<a href="../Page/Niconico大百科.md" title="wikilink">Niconico大百科</a>開始提供服務</li>
 <li>持續時間：123日</li>
 </ul></td>
 </tr>
@@ -249,7 +244,7 @@ DOCOMO與](../Page/NTT_DOCOMO.md "wikilink")[au簽約](https://zh.wikipedia.org/
 <li>增加播放影片時背景可變化之功能</li>
 <li>搜尋頁面改版</li>
 <li>2014年5月2日：推出。</li>
-<li>2014年10月1日：與<a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA業務整合</a></li>
+<li>2014年10月1日：與<a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a>業務整合</li>
 <li>2015年7月28日：付費會員突破250萬人。[28]</li>
 <li>2015年8月5日：ID登錄者數突破5000萬人。[29]</li>
 <li>2016年11月24日：推出<a href="https://zh.wikipedia.org/wiki/RPG_Maker_MV#RPGアツマール" title="wikilink">RPGアツマール服務</a>。</li>
@@ -287,8 +282,7 @@ Niconico動畫觀看影片和上傳影片皆需註冊，其中又可分為免費
 
 ### 廣告
 
-Nico早期是使用[Google
-AdSense](../Page/Google_AdSense.md "wikilink")，來提供話題廣告和其他網路廣告。2008年5月8日，Niwango宣布與[雅虎日本產生合作關係](../Page/雅虎日本.md "wikilink")，並計劃改為搜索與雅虎相關的廣告和其他服務，這也讓Nico可以登上明顯的搜尋關鍵字，但目前Nico的行動版本上並沒有廣告進駐。
+Nico早期是使用[Google AdSense](../Page/Google_AdSense.md "wikilink")，來提供話題廣告和其他網路廣告。2008年5月8日，Niwango宣布與[雅虎日本](../Page/雅虎日本.md "wikilink")產生合作關係，並計劃改為搜索與雅虎相關的廣告和其他服務，這也讓Nico可以登上明顯的搜尋關鍵字，但目前Nico的行動版本上並沒有廣告進駐。
 
 ## 問題
 
@@ -296,9 +290,9 @@ AdSense](../Page/Google_AdSense.md "wikilink")，來提供話題廣告和其他�
 
 ### 版權問題
 
-跟[YouTube一樣](../Page/YouTube.md "wikilink")，Niconico動畫也常被上傳些被認為侵權或者是[盜版的影片](https://zh.wikipedia.org/wiki/盜版 "wikilink")，且也有人在深夜時段上傳色情影片。被指為侵權的短片在版權持有人要求下，Niconico經過審查後亦會刪除。
+跟[YouTube](../Page/YouTube.md "wikilink")一樣，Niconico動畫也常被上傳些被認為侵權或者是[盜版的影片](https://zh.wikipedia.org/wiki/盜版 "wikilink")，且也有人在深夜時段上傳色情影片。被指為侵權的短片在版權持有人要求下，Niconico經過審查後亦會刪除。
 
-2007年10月30日，[日本音樂著作權協會](../Page/日本音樂著作權協會.md "wikilink")（JASRAC）和Niwango宣布開始有夥伴關係，其中Niwango將支付其兩成的收益給JASRAC作為版權使用費\[42\]。2008年7月2日，日本映畫製作者聯盟、日本動畫協會、以及日本映像軟體協會三團體，去信Niconico動畫管理層Niwango，指出他們將加強管控其動畫和相關內容，包括影片動畫和[MAD片等](../Page/MAD片.md "wikilink")、並要求他們把包括MAD等侵權的動畫盡快刪除。這使得一些MAD製作者把MAD發佈地點轉移到另一影片共享網站[Zoome](https://zh.wikipedia.org/wiki/Zoome "wikilink")，然而該網站亦已關閉。
+2007年10月30日，[日本音樂著作權協會](../Page/日本音樂著作權協會.md "wikilink")（JASRAC）和Niwango宣布開始有夥伴關係，其中Niwango將支付其兩成的收益給JASRAC作為版權使用費\[42\]。2008年7月2日，日本映畫製作者聯盟、日本動畫協會、以及日本映像軟體協會三團體，去信Niconico動畫管理層Niwango，指出他們將加強管控其動畫和相關內容，包括影片動畫和[MAD片](../Page/MAD片.md "wikilink")等、並要求他們把包括MAD等侵權的動畫盡快刪除。這使得一些MAD製作者把MAD發佈地點轉移到另一影片共享網站[Zoome](https://zh.wikipedia.org/wiki/Zoome "wikilink")，然而該網站亦已關閉。
 
 ### 系統不穩定問題
 
@@ -324,7 +318,7 @@ AdSense](../Page/Google_AdSense.md "wikilink")，來提供話題廣告和其他�
 
 ### 與中国大陆弹幕网站的關係
 
-中国大陆最早仿照Nico建立的弹幕视频网站[AcFun曾经在](../Page/AcFun.md "wikilink")2008年，在Niconico上引起过不小的风波，很多日本人认为AcFun属于Niconico的不当复制；当年5月末甚至发生了被中国大陆网民称为「Niconico入侵事件」的，日本网民大量涌入AcFun并发表政治等不愉快弹幕的冲突，此事件导致AcFun开始使用会员登录方式\[48\]。
+中国大陆最早仿照Nico建立的弹幕视频网站[AcFun](../Page/AcFun.md "wikilink")曾经在2008年，在Niconico上引起过不小的风波，很多日本人认为AcFun属于Niconico的不当复制；当年5月末甚至发生了被中国大陆网民称为「Niconico入侵事件」的，日本网民大量涌入AcFun并发表政治等不愉快弹幕的冲突，此事件导致AcFun开始使用会员登录方式\[48\]。
 
 有部分日本網民認爲，中國大陆的[bilibili動畫](https://zh.wikipedia.org/wiki/嗶哩嗶哩 "wikilink")（）是Niconico動畫的[模仿品](../Page/山寨文化.md "wikilink")\[49\]。因此，兩國網民常拿這兩個網站來作比較。
 
@@ -348,7 +342,7 @@ AdSense](../Page/Google_AdSense.md "wikilink")，來提供話題廣告和其他�
 ### Niconico大百科
 
   -
-    类似[Wiki模式的ACG资讯百科服务](../Page/Wiki.md "wikilink")，于2008年5月12日开始提供服务。
+    类似[Wiki](../Page/Wiki.md "wikilink")模式的ACG资讯百科服务，于2008年5月12日开始提供服务。
 
 ### Niconico市場
 
@@ -370,14 +364,7 @@ Niconico市場是一個獨特的廣告系統，是Niconico動畫日本版自2007
 
   -
   -
-[Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:niconico動畫](https://zh.wikipedia.org/wiki/Category:niconico動畫 "wikilink")
-[Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink")
-[Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")
-[Category:视频弹幕网站](https://zh.wikipedia.org/wiki/Category:视频弹幕网站 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:niconico動畫](https://zh.wikipedia.org/wiki/Category:niconico動畫 "wikilink") [Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink") [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:视频弹幕网站](https://zh.wikipedia.org/wiki/Category:视频弹幕网站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
 1.  日文的是「影片」的意思，但因為這是商標，所以並沒有翻譯。台灣網站也使用“動畫”。
 
@@ -395,8 +382,7 @@ Niconico市場是一個獨特的廣告系統，是Niconico動畫日本版自2007
 
 8.  『アーキテクチャの生態系――情報環境はいかに設計されてきたか』213頁。
 
-9.  [なぜ「ニコ動」は盛り上がり、「Second Life」は過疎化するのか (1/2) - ITmedia
-    News](http://www.itmedia.co.jp/news/articles/0711/23/news005.html)
+9.  [なぜ「ニコ動」は盛り上がり、「Second Life」は過疎化するのか (1/2) - ITmedia News](http://www.itmedia.co.jp/news/articles/0711/23/news005.html)
 
 10.
 
@@ -410,23 +396,17 @@ Niconico市場是一個獨特的廣告系統，是Niconico動畫日本版自2007
 
 15.
 
-16. [“総コメント数20億突破\!（運営長コメント付）”.](http://blog.nicovideo.jp/niconews/2009/07/003489.html)
-    . ニコニコニュース (2009年7月8日).
+16. [“総コメント数20億突破\!（運営長コメント付）”.](http://blog.nicovideo.jp/niconews/2009/07/003489.html) . ニコニコニュース (2009年7月8日).
 
-17. [“ニコニコ動画のプレミアム会員数が40万人を突破”](http://internetcom.jp/wmnews/20090727/5.html)
-    . インターネットコム
+17. [“ニコニコ動画のプレミアム会員数が40万人を突破”](http://internetcom.jp/wmnews/20090727/5.html) . インターネットコム
 
-18. [“ニコニコ動画のプレミアム会員数が50万人を突破”](http://internetcom.jp/wmnews/20090924/4.html)
-     インターネットコム
+18. [“ニコニコ動画のプレミアム会員数が50万人を突破”](http://internetcom.jp/wmnews/20090924/4.html)  インターネットコム
 
-19. [“ニコニコ動画のプレミアム会員数が60万人を突破”](http://internetcom.jp/wmnews/20091214/3.html)
-    . インターネットコム
+19. [“ニコニコ動画のプレミアム会員数が60万人を突破”](http://internetcom.jp/wmnews/20091214/3.html) . インターネットコム
 
-20. '[ニコニコ動画のプレミアム会員数が70万人を突破〜ニコニコ静画もリニューアル](http://internetcom.jp/wmnews/20100305/2.html)
-    ' インターネットコム
+20. '[ニコニコ動画のプレミアム会員数が70万人を突破〜ニコニコ静画もリニューアル](http://internetcom.jp/wmnews/20100305/2.html) ' インターネットコム
 
 21. [プレミアム会員『100万人』突破しました！‐ニコニコニュース](http://blog.nicovideo.jp/niconews/2010/10/009463.html)
-
 
 22. [まもなく公開「ニコニコ動画：Zero」、川上・夏野氏が注目ポイント解説](http://internet.watch.impress.co.jp/docs/news/20120427_529632.html)
 
@@ -465,21 +445,16 @@ Niconico市場是一個獨特的廣告系統，是Niconico動畫日本版自2007
 
 42.
 
-43.
-    [【動画】サーバー・回線増強について](http://blog.nicovideo.jp/niconews/2011/08/015655.html)
+43.  [【動画】サーバー・回線増強について](http://blog.nicovideo.jp/niconews/2011/08/015655.html)
 
+44.  [アイヤー！『ニコニコ動画』台湾人は台湾版より日本版が好き！](http://news.livedoor.com/article/detail/3351524/)
 
-44.
-    [アイヤー！『ニコニコ動画』台湾人は台湾版より日本版が好き！](http://news.livedoor.com/article/detail/3351524/)
-
-45.
-    [台湾で『ニコニコ動画』がウケない\!?台湾人が語るその理由とは](http://news.livedoor.com/article/detail/3340448/)
+45.  [台湾で『ニコニコ動画』がウケない\!?台湾人が語るその理由とは](http://news.livedoor.com/article/detail/3340448/)
 
 46. [中国、ニコニコ動画へのアクセスを遮断](http://www.excite.co.jp/News/net_clm/20101211/Slashdot_10_12_11_0342232.html)
 
 47. [niconico英文版452875894780293](https://www.facebook.com/niconicocom/posts/452875894780293)[niconico英文版452929091441640](https://www.facebook.com/niconicocom/posts/452929091441640)
 
-48. [Niconico入侵事件 - AcFun
-    WIKI天下基友是一家,](https://web.archive.org/web/20140228182723/http://wiki.acfun.tv/index.php/Niconico%E5%85%A5%E4%BE%B5%E4%BA%8B%E4%BB%B6)
+48. [Niconico入侵事件 - AcFun WIKI天下基友是一家,](https://web.archive.org/web/20140228182723/http://wiki.acfun.tv/index.php/Niconico%E5%85%A5%E4%BE%B5%E4%BA%8B%E4%BB%B6)
 
 49. [『ニコニコ動画』の類似サイト『ビリビリ動画』を中国に作ったアルよ！　本家以上のクオリティにひろゆきも絶賛](http://getnews.jp/archives/288656)

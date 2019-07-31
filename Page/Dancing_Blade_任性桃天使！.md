@@ -45,8 +45,7 @@
 
 <!-- end list -->
 
-  - [UMD-Video](../Page/通用媒體光碟.md "wikilink")（[PlayStation
-    Portable](../Page/PlayStation_Portable.md "wikilink")）
+  - [UMD-Video](../Page/通用媒體光碟.md "wikilink")（[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")）
 
 <!-- end list -->
 
@@ -58,8 +57,7 @@
 
 故事描寫一位從桃子中誕生的少女「桃姬」，為了尋找自己出生的秘密，與同伴們展開的種種冒險。天真少根筋的少女小狗、性感的大姐姐稚女、身穿鎧甲孔武有力的高大男人猿吉等故事中的角色，構想皆來自[日本](../Page/日本.md "wikilink")[童話](../Page/童話.md "wikilink")[桃太郎](../Page/桃太郎.md "wikilink")，除此之外亦有其它童話角色登場（主角不屬於任何童話故事，設定上是桃姬兒時玩伴的少年）。
 
-故事分歧及結局只有數種模式，遊戲性並不是很高，因此也有與其稱之為遊戲不如稱之為「多重結局[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")」更為妥當的評價。實際上於2006年發售的PlayStation
-Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體」。
+故事分歧及結局只有數種模式，遊戲性並不是很高，因此也有與其稱之為遊戲不如稱之為「多重結局[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")」更為妥當的評價。實際上於2006年發售的PlayStation Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體」。
 
   - Dancing Blade 任性桃天使！
 
@@ -104,9 +102,7 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
 ## 登場人物
 
   -
-    年齡：16歲 身高：159cm 體重：46kg 生日：3月3日
-    星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
-    血型：A型 三圍：B83/W58/H85 喜歡的東西：煙火 討厭的東西：蝗蟲 興趣：吃東西
+    年齡：16歲 身高：159cm 體重：46kg 生日：3月3日 星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink") 血型：A型 三圍：B83/W58/H85 喜歡的東西：煙火 討厭的東西：蝗蟲 興趣：吃東西
 
     在忍者村裡長大的活潑開朗、富正義感的女孩。特徵是長度及腰的馬尾與粉紅色迷你裙風格、明顯展現出身體曲線的忍者裝。腰間佩帶著出生時就得到的神秘短刀·白桃丸，可解放其蘊藏的力量使桃姬變身為桃天使。
 
@@ -130,9 +126,7 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
     在Ⅱ的OP裡有與神秘人物在雲海上戰鬥的場面，似乎是轉生成桃姬之前的桃天使。
 
   -
-    年齡：15歲 身高：166cm 體重：53kg 生日：8月6日
-    星座：[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
-    血型：A型 喜歡的東西：書 討厭的東西：吵鬧的地方 興趣：學魔法
+    年齡：15歲 身高：166cm 體重：53kg 生日：8月6日 星座：[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink") 血型：A型 喜歡的東西：書 討厭的東西：吵鬧的地方 興趣：學魔法
 
     隨處可見的平凡少年，個性老實且心地善良，是個一旦下定決心不做到底不善罷甘休的拼命三郎。
 
@@ -143,14 +137,10 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
     在作品中非常受女性喜愛，但同時也會為他帶來不幸及厄運。
 
   -
-    年齡：15歲 身高：153cm 體重：47kg 生日：11月10日
-    星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
-    血型：B型 三圍：B85/W57/H87 喜歡的東西：河豚 討厭的東西：栗子 興趣：睡午覺
+    年齡：15歲 身高：153cm 體重：47kg 生日：11月10日 星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink") 血型：B型 三圍：B85/W57/H87 喜歡的東西：河豚 討厭的東西：栗子 興趣：睡午覺
 
   -
-    年齡：16歲 身高：167cm 體重：51kg 生日：8月31日 星座：[室女座](../Page/室女座.md "wikilink")
-    血型：O型 三圍：B92/W59/H90 喜歡的東西：[關東煮](../Page/關東煮.md "wikilink")（雞蛋）
-    討厭的東西：冷（手腳冰冷） 興趣：揮打鞭子、用蠟燭燙人
+    年齡：16歲 身高：167cm 體重：51kg 生日：8月31日 星座：[室女座](../Page/室女座.md "wikilink") 血型：O型 三圍：B92/W59/H90 喜歡的東西：[關東煮](../Page/關東煮.md "wikilink")（雞蛋） 討厭的東西：冷（手腳冰冷） 興趣：揮打鞭子、用蠟燭燙人
 
   -
     年齡：不詳 身高：230cm 體重：不明 生日：不明 星座：不明 血型：O型 喜歡的東西：女人 討厭的東西：麻煩的事 興趣：強化武裝
@@ -248,15 +238,6 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
 
 ## 外部連結
 
-  - [Dancing Blade
-    任性桃天使！UMD版官方網站](http://www.konami.jp/visual/momotenshi/index.html)
+  - [Dancing Blade 任性桃天使！UMD版官方網站](http://www.konami.jp/visual/momotenshi/index.html)
 
-[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
-[Category:京都動畫](https://zh.wikipedia.org/wiki/Category:京都動畫 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
-[Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink")
-[Category:桃太郎题材作品](https://zh.wikipedia.org/wiki/Category:桃太郎题材作品 "wikilink")
+[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:京都動畫](https://zh.wikipedia.org/wiki/Category:京都動畫 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:桃太郎题材作品](https://zh.wikipedia.org/wiki/Category:桃太郎题材作品 "wikilink")

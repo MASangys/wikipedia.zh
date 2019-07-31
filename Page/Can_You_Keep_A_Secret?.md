@@ -1,5 +1,4 @@
-**Can You Keep A
-Secret?**（台灣EMI公司譯為「A級秘密」）是[宇多田光](../Page/宇多田光.md "wikilink")的第七張日語單曲，於2001年2月16日發行，初動78萬張，累計148萬張，是其代表作之一。
+**Can You Keep A Secret?**（台灣EMI公司譯為「A級秘密」）是[宇多田光](../Page/宇多田光.md "wikilink")的第七張日語單曲，於2001年2月16日發行，初動78萬張，累計148萬張，是其代表作之一。
 
 本曲為史上收視最高日劇[HERO主題曲](../Page/HERO_\(日本電視劇\).md "wikilink")。當年得知此合作計畫後，她閱讀了劇本，並對歌詞做了些修改。她也在該劇客串一名服務生。
 
@@ -17,8 +16,7 @@ Secret?**（台灣EMI公司譯為「A級秘密」）是[宇多田光](../Page/�
 
 總銷量148萬，21世紀銷量第8高單曲，歷代第84位。
 
-Can You Keep A Secret? - **[Oricon](../Page/Oricon.md "wikilink")**
-Sales Chart (Japan)
+Can You Keep A Secret? - **[Oricon](../Page/Oricon.md "wikilink")** Sales Chart (Japan)
 
 | Release    | Chart                       | Peak Position | Debut Sales | Sales Total | Chart Run |
 | :--------- | :-------------------------- | :------------ | :---------- | :---------- | :-------- |
@@ -37,16 +35,6 @@ Sales Chart (Japan)
 
 ## 外部連結
 
-  - [Hikki's Website — official Toshiba EMI
-    site](https://web.archive.org/web/20080926100557/http://www.toshiba-emi.co.jp/hikki/)
+  - [Hikki's Website — official Toshiba EMI site](https://web.archive.org/web/20080926100557/http://www.toshiba-emi.co.jp/hikki/)
 
-[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink")
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:富士月九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士月九劇主題曲 "wikilink")
-[Category:日劇學院賞最佳主題曲](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳主題曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
-[Category:Oricon單曲年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍作品 "wikilink")
-[Category:2001年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink")
+[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink") [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:富士月九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士月九劇主題曲 "wikilink") [Category:日劇學院賞最佳主題曲](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳主題曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:Oricon單曲年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍作品 "wikilink") [Category:2001年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲月榜冠軍作品 "wikilink") [Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink") [Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink")

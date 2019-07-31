@@ -1,19 +1,10 @@
-**JW萬豪酒店**（全稱：**JW萬豪奢華酒店及度假村**，）是[萬豪國際旗下的](../Page/萬豪國際.md "wikilink")[旗艦](https://zh.wikipedia.org/wiki/旗艦 "wikilink")[酒店](../Page/酒店.md "wikilink")[品牌](../Page/品牌.md "wikilink")，總部設於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎及](../Page/巴黎.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")。品牌的主要競爭對手為[希爾頓酒店集團的](https://zh.wikipedia.org/wiki/希爾頓酒店集團 "wikilink")[港麗酒店](https://zh.wikipedia.org/wiki/港麗酒店 "wikilink")，甚至是向[四季酒店等豪華品牌挑戰](../Page/四季酒店.md "wikilink")。
+**JW萬豪酒店**（全稱：**JW萬豪奢華酒店及度假村**，）是[萬豪國際](../Page/萬豪國際.md "wikilink")旗下的[旗艦](https://zh.wikipedia.org/wiki/旗艦 "wikilink")[酒店](../Page/酒店.md "wikilink")[品牌](../Page/品牌.md "wikilink")，總部設於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")及[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")。品牌的主要競爭對手為[希爾頓酒店集團的](https://zh.wikipedia.org/wiki/希爾頓酒店集團 "wikilink")[港麗酒店](https://zh.wikipedia.org/wiki/港麗酒店 "wikilink")，甚至是向[四季酒店](../Page/四季酒店.md "wikilink")等豪華品牌挑戰。
 
-截至2017年8月為止，全球共有85間JW萬豪奢華酒店及度假村營運中。\[1\]酒店酬賓方案為全球萬豪禮賞會員「Marriott
-Rewards」。
+截至2017年8月為止，全球共有85間JW萬豪奢華酒店及度假村營運中。\[1\]酒店酬賓方案為全球萬豪禮賞會員「Marriott Rewards」。
 
 ## 全球營運據點
 
-[Marriott_Hotel_Pacific_Place_Hong_Kong.jpg](https://zh.wikipedia.org/wiki/File:Marriott_Hotel_Pacific_Place_Hong_Kong.jpg "fig:Marriott_Hotel_Pacific_Place_Hong_Kong.jpg")\]\]
-[Christmas_2016_Decorations_Grosvenor_House_London_United_Kingdom.jpg](https://zh.wikipedia.org/wiki/File:Christmas_2016_Decorations_Grosvenor_House_London_United_Kingdom.jpg "fig:Christmas_2016_Decorations_Grosvenor_House_London_United_Kingdom.jpg")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")
-Grosvenor House JW萬豪酒店\]\]
-[JW_Marriott_Desert_Springs_Foyer.jpg](https://zh.wikipedia.org/wiki/File:JW_Marriott_Desert_Springs_Foyer.jpg "fig:JW_Marriott_Desert_Springs_Foyer.jpg")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")
-Desert Springs JW萬豪酒店\]\]
-[JW_Marriott_Essex_House_in_New_York_City_2015.JPG](https://zh.wikipedia.org/wiki/File:JW_Marriott_Essex_House_in_New_York_City_2015.JPG "fig:JW_Marriott_Essex_House_in_New_York_City_2015.JPG")[紐約JW萬豪酒店](https://zh.wikipedia.org/wiki/紐約 "wikilink")\]\]
-[JW_Marriott_Singapore_South_Beach,_Singapore_October_2017.jpg](https://zh.wikipedia.org/wiki/File:JW_Marriott_Singapore_South_Beach,_Singapore_October_2017.jpg "fig:JW_Marriott_Singapore_South_Beach,_Singapore_October_2017.jpg")
-South Beach JW萬豪酒店\]\]
-[JWMDC.JPG](https://zh.wikipedia.org/wiki/File:JWMDC.JPG "fig:JWMDC.JPG")[華盛頓特區JW萬豪酒店](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")\]\]
+[Marriott_Hotel_Pacific_Place_Hong_Kong.jpg](https://zh.wikipedia.org/wiki/File:Marriott_Hotel_Pacific_Place_Hong_Kong.jpg "fig:Marriott_Hotel_Pacific_Place_Hong_Kong.jpg")\]\] [Christmas_2016_Decorations_Grosvenor_House_London_United_Kingdom.jpg](https://zh.wikipedia.org/wiki/File:Christmas_2016_Decorations_Grosvenor_House_London_United_Kingdom.jpg "fig:Christmas_2016_Decorations_Grosvenor_House_London_United_Kingdom.jpg")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink") Grosvenor House JW萬豪酒店\]\] [JW_Marriott_Desert_Springs_Foyer.jpg](https://zh.wikipedia.org/wiki/File:JW_Marriott_Desert_Springs_Foyer.jpg "fig:JW_Marriott_Desert_Springs_Foyer.jpg")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink") Desert Springs JW萬豪酒店\]\] [JW_Marriott_Essex_House_in_New_York_City_2015.JPG](https://zh.wikipedia.org/wiki/File:JW_Marriott_Essex_House_in_New_York_City_2015.JPG "fig:JW_Marriott_Essex_House_in_New_York_City_2015.JPG")[紐約JW萬豪酒店](https://zh.wikipedia.org/wiki/紐約 "wikilink")\]\] [JW_Marriott_Singapore_South_Beach,_Singapore_October_2017.jpg](https://zh.wikipedia.org/wiki/File:JW_Marriott_Singapore_South_Beach,_Singapore_October_2017.jpg "fig:JW_Marriott_Singapore_South_Beach,_Singapore_October_2017.jpg") South Beach JW萬豪酒店\]\] [JWMDC.JPG](https://zh.wikipedia.org/wiki/File:JWMDC.JPG "fig:JWMDC.JPG")[華盛頓特區JW萬豪酒店](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")\]\]
 
 ### 歐洲
 
@@ -208,10 +199,6 @@ South Beach JW萬豪酒店\]\]
   - [JW萬豪酒店─奢華酒店及度假村](http://www.marriott.com/jw-marriott/travel.mi)
   - [JW萬豪酒店廣告](https://www.youtube.com/watch?v=vrq7bMlj73w)
 
-[Category:JW万豪酒店](https://zh.wikipedia.org/wiki/Category:JW万豪酒店 "wikilink")
-[Category:万豪国际酒店集团品牌](https://zh.wikipedia.org/wiki/Category:万豪国际酒店集团品牌 "wikilink")
-[Category:旅馆品牌](https://zh.wikipedia.org/wiki/Category:旅馆品牌 "wikilink")
-[Category:華盛頓哥倫比亞特區公司](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區公司 "wikilink")
-[Category:馬里蘭州公司](https://zh.wikipedia.org/wiki/Category:馬里蘭州公司 "wikilink")
+[Category:JW万豪酒店](https://zh.wikipedia.org/wiki/Category:JW万豪酒店 "wikilink") [Category:万豪国际酒店集团品牌](https://zh.wikipedia.org/wiki/Category:万豪国际酒店集团品牌 "wikilink") [Category:旅馆品牌](https://zh.wikipedia.org/wiki/Category:旅馆品牌 "wikilink") [Category:華盛頓哥倫比亞特區公司](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區公司 "wikilink") [Category:馬里蘭州公司](https://zh.wikipedia.org/wiki/Category:馬里蘭州公司 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-**H-II运载火箭**（ ''' H-II
-'''）是[日本](../Page/日本.md "wikilink")的卫星发射运载器，在1994年至1999年间发射了七次，成功五次。由[NASDA研发](https://zh.wikipedia.org/wiki/NASDA "wikilink")，用于满足日本90年代发射大型卫星的需要。\[1\]是日本第一次采用自主技术研制的液態燃料火箭。\[2\]它由于可靠性和成本问题而被[H-IIA取代](https://zh.wikipedia.org/wiki/H-IIA "wikilink")。
+**H-II运载火箭**（ ''' H-II '''）是[日本](../Page/日本.md "wikilink")的卫星发射运载器，在1994年至1999年间发射了七次，成功五次。由[NASDA研发](https://zh.wikipedia.org/wiki/NASDA "wikilink")，用于满足日本90年代发射大型卫星的需要。\[1\]是日本第一次采用自主技术研制的液態燃料火箭。\[2\]它由于可靠性和成本问题而被[H-IIA取代](https://zh.wikipedia.org/wiki/H-IIA "wikilink")。
 
 ## 背景
 
@@ -40,20 +39,15 @@
 
 ## 图片
 
-Image:H-II-GTV.jpg|H-II地面测试，现安放在[筑波航天中心](../Page/筑波航天中心.md "wikilink")
-Image:H-II_F7_02.JPG|被取消的第7次飞行的H-II的第一第二级，现安放在[种子岛航天中心厂房内](https://zh.wikipedia.org/wiki/种子岛航天中心 "wikilink")
+Image:H-II-GTV.jpg|H-II地面测试，现安放在[筑波航天中心](../Page/筑波航天中心.md "wikilink") Image:H-II_F7_02.JPG|被取消的第7次飞行的H-II的第一第二级，现安放在[种子岛航天中心厂房内](https://zh.wikipedia.org/wiki/种子岛航天中心 "wikilink")
 
 ## 参考来源
 
 ## 外部链接
 
-  - [H-II 运载火箭](http://www.jaxa.jp/projects/rockets/h2/index_e.html),
-    JAXA.
+  - [H-II 运载火箭](http://www.jaxa.jp/projects/rockets/h2/index_e.html), JAXA.
 
-[Category:日本运载火箭](https://zh.wikipedia.org/wiki/Category:日本运载火箭 "wikilink")
-[Category:化學火箭](https://zh.wikipedia.org/wiki/Category:化學火箭 "wikilink")
-[Category:一次性火箭](https://zh.wikipedia.org/wiki/Category:一次性火箭 "wikilink")
-[Category:三菱重工業](https://zh.wikipedia.org/wiki/Category:三菱重工業 "wikilink")
+[Category:日本运载火箭](https://zh.wikipedia.org/wiki/Category:日本运载火箭 "wikilink") [Category:化學火箭](https://zh.wikipedia.org/wiki/Category:化學火箭 "wikilink") [Category:一次性火箭](https://zh.wikipedia.org/wiki/Category:一次性火箭 "wikilink") [Category:三菱重工業](https://zh.wikipedia.org/wiki/Category:三菱重工業 "wikilink")
 
 1.
 

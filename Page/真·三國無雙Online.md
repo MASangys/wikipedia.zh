@@ -1,22 +1,17 @@
 是一款由日本[光榮株式會社在](https://zh.wikipedia.org/wiki/光榮株式會社 "wikilink")2007年發售的[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")。真‧三國無雙Online為[PS2上](https://zh.wikipedia.org/wiki/PS2 "wikilink")[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")的改編續作，遊戲內容主要是讓玩家創立自己的角色，並隨著衝突、特務、爭奪促使角色升級並獲得[虛擬寶物及消費用虛擬貨幣](https://zh.wikipedia.org/wiki/虛擬寶物 "wikilink")，遊戲類似線上格鬥，是由大量的線上的玩家加入、大家可以一起體驗無双格鬥“以一擋千的MMO格鬥”遊戲。除玩家外的普通士兵和武將都比較弱，總體來說難度適中，玩家控制的角色在戰場上的作用就顯得重要許多。2010年2月18日日本方面開始運行[PS3版本](https://zh.wikipedia.org/wiki/PS3 "wikilink")，並與日本[PC](../Page/PC.md "wikilink")版本使用同樣的伺服器。
 
-2013年7月18日後，各國伺服器先後更新為「真‧三國無雙Online
-Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》的模樣，追加「[晉](https://zh.wikipedia.org/wiki/西晉 "wikilink")」勢力的武將等等，並大幅更新現有系統。
+2013年7月18日後，各國伺服器先後更新為「真‧三國無雙Online Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》的模樣，追加「[晉](https://zh.wikipedia.org/wiki/西晉 "wikilink")」勢力的武將等等，並大幅更新現有系統。
 
 ## 遊戲特點
 
-  - 由於PS2的[真三國無雙系列銷售長紅](https://zh.wikipedia.org/wiki/真三國無雙系列 "wikilink")，加上現在Online
-    game的潮流，光榮於2007年推出真‧三國無雙Online，2008年3月由台灣[紅心辣椒](../Page/紅心辣椒.md "wikilink")娛樂科技股份有限公司代理並正式販賣，讓沒有PS2玩家也能享受此系列的快感。
+  - 由於PS2的[真三國無雙系列銷售長紅](https://zh.wikipedia.org/wiki/真三國無雙系列 "wikilink")，加上現在Online game的潮流，光榮於2007年推出真‧三國無雙Online，2008年3月由台灣[紅心辣椒](../Page/紅心辣椒.md "wikilink")娛樂科技股份有限公司代理並正式販賣，讓沒有PS2玩家也能享受此系列的快感。
   - 一般動作遊戲強調複雜、華麗的系統，遊戲主軸在於「讓所有玩家都能上手」讓新手玩家也能上手。真‧三國無雙Online強調簡單的輸入與爽快的「破壞感」，吸引不少輕度玩家，但有時也讓遊戲方式過於單調。
   - 假想人物和人物性格的再創造：儘管以歷史題材為背景，真‧三國無雙Online進行了改造。故事的主角是玩家自己，玩家的角色、臉蛋跟髮型、皮膚的顏色、聲音等、有超過10萬種以上的組合、可以由自己的喜好選擇。使用的武器槍、劍、戟、斧等、也可在眾多的種類當中自由挑選裝備。
   - 猶如排山倒海般逼近的敵兵、在華麗的連續攻擊和必殺技“無雙亂舞”後、一鼓作氣的倒下。
-  - 滿足了以一擋千的格鬥快感的「真・三國無双」，而『真・三國無双Online』則是以它所演變而來的線上遊戲。由於大量的線上的玩家加入、大家可以一起體驗無双格鬥“以一擋千的MMO格鬥”遊戲。
-    每個玩家、以身為三國志時代的一個武將、和各式各樣的同伴、敵人相遇、進而展開激烈的戰鬥、自己為主角的三國志揭開序幕。
-  - 作為線上遊戲的「真・三國無双」系列最大的特色是“爽快的以一擋千格鬥”之下，制服數以千計接連而上的敵人那種爽快感可說是「無双」的。
-    還有對應線上的『真・三國無双Online』、玩家朋友們互相爭奪據點爆發熱烈的激戰！　最大可以到4人對4人的對戰、還有同盟的玩家的合作和敵對玩家的互動等、當中戰術使用的重要性、也刺激的在遊戲中展開。
+  - 滿足了以一擋千的格鬥快感的「真・三國無双」，而『真・三國無双Online』則是以它所演變而來的線上遊戲。由於大量的線上的玩家加入、大家可以一起體驗無双格鬥“以一擋千的MMO格鬥”遊戲。 每個玩家、以身為三國志時代的一個武將、和各式各樣的同伴、敵人相遇、進而展開激烈的戰鬥、自己為主角的三國志揭開序幕。
+  - 作為線上遊戲的「真・三國無双」系列最大的特色是“爽快的以一擋千格鬥”之下，制服數以千計接連而上的敵人那種爽快感可說是「無双」的。 還有對應線上的『真・三國無双Online』、玩家朋友們互相爭奪據點爆發熱烈的激戰！　最大可以到4人對4人的對戰、還有同盟的玩家的合作和敵對玩家的互動等、當中戰術使用的重要性、也刺激的在遊戲中展開。
   - 真・三國無双Online的主角是玩家的自己本身。猶如自己分身一般的玩家，角色可自由的操作、藉由這個角色扮演、宛如自己置身於三國志的世界中。
-  - 玩家的角色有自己本身的強化與武器的鍛鍊兩個成長要素可以成長。
-    自己本身的強化，在參與戰鬥僅有當時的效力，而在戰鬥中所獲得的仙箪，可經由後續的交換而強化自身的能力，也是重要的成長要素之一。
+  - 玩家的角色有自己本身的強化與武器的鍛鍊兩個成長要素可以成長。 自己本身的強化，在參與戰鬥僅有當時的效力，而在戰鬥中所獲得的仙箪，可經由後續的交換而強化自身的能力，也是重要的成長要素之一。
   - 武器的鍛鍊是個效果持久的成長要素。使用武器的鍛鍊、可以增強武器的性能。鍛鍊的方向性也是自由的。表面上看起來相同、但也可能產生截然不同性能的武器。
   - Z版開始追加雙武器系統，能夠在練兵、衝突、爭奪的模式中使用，切換武器時需要消耗無雙值。
 
@@ -341,11 +336,4 @@ Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙
 
   - [真·三國無雙Online中國版官網](http://www.wushuangol.com/)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:真·三国无双系列电子游戏](https://zh.wikipedia.org/wiki/Category:真·三国无双系列电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:真·三国无双系列电子游戏](https://zh.wikipedia.org/wiki/Category:真·三国无双系列电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")

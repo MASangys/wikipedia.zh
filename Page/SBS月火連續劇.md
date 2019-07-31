@@ -1,5 +1,4 @@
-*'
-SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")[韓國時間星期一](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、二晚間22:00播出的電視劇。
+*' SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")[韓國時間星期一](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、二晚間22:00播出的電視劇。
 
 ## 電視劇列表
 
@@ -1634,11 +1633,9 @@ SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會
 
 ## 海外相關播出
 
-馬來西亞與新加坡於One
-HD頻道自2015年6月起星期二與星期三21:00（馬來西亞時間）播出。此類節目在韓國首播24小時後即可觀賞，並以馬來語字幕和華語字幕播出，直至2016年4月25日起，改為20:15播出。
+馬來西亞與新加坡於One HD頻道自2015年6月起星期二與星期三21:00（馬來西亞時間）播出。此類節目在韓國首播24小時後即可觀賞，並以馬來語字幕和華語字幕播出，直至2016年4月25日起，改為20:15播出。
 
-2015年6月前、2016年8月29日至2016年10月31日和2017年5月29日-7月18日期間(即[步步驚心：麗和](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")[我的野蠻女友](../Page/我的野蠻女友_\(韓國電視劇\).md "wikilink"))播出時間為星期一與星期二
-21:00（馬來西亞時間）播出。此類節目和韓國首播遲一個月並以馬來語字幕和華語字幕播出，以上日期的兩部劇集卻利用與韓國同日播出。
+2015年6月前、2016年8月29日至2016年10月31日和2017年5月29日-7月18日期間(即[步步驚心：麗和](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")[我的野蠻女友](../Page/我的野蠻女友_\(韓國電視劇\).md "wikilink"))播出時間為星期一與星期二 21:00（馬來西亞時間）播出。此類節目和韓國首播遲一個月並以馬來語字幕和華語字幕播出，以上日期的兩部劇集卻利用與韓國同日播出。
 
 該節目結束一個月或兩個月後將以配音版（華語或馬來語）在週末播出
 
@@ -1657,9 +1654,6 @@ HD頻道自2015年6月起星期二與星期三21:00（馬來西亞時間）播�
   -
   - [OCN月火連續劇](https://zh.wikipedia.org/wiki/OCN月火連續劇 "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:SBS月火連續劇](https://zh.wikipedia.org/wiki/Category:SBS月火連續劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:SBS月火連續劇](https://zh.wikipedia.org/wiki/Category:SBS月火連續劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.  改为每30分钟播出一集,两集连播

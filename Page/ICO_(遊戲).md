@@ -1,10 +1,8 @@
-是由[ICO小組制作的遊戲](https://zh.wikipedia.org/wiki/ICO小組 "wikilink")。主创者上田文人承担了大量开发工作，开始在玩家群体中获得较高的声望。游戏原计划运行于初代[PlayStation](../Page/PlayStation.md "wikilink")，后因受到机能限制转而成为[PlayStation
-2独占游戏](../Page/PlayStation_2.md "wikilink")。游戏开发历时四年，团队特别雇佣了一个“裁剪小组”，致力于简化游戏中不必要的元素，以增强游戏的代入感。
+是由[ICO小組制作的遊戲](https://zh.wikipedia.org/wiki/ICO小組 "wikilink")。主创者上田文人承担了大量开发工作，开始在玩家群体中获得较高的声望。游戏原计划运行于初代[PlayStation](../Page/PlayStation.md "wikilink")，后因受到机能限制转而成为[PlayStation 2独占游戏](../Page/PlayStation_2.md "wikilink")。游戏开发历时四年，团队特别雇佣了一个“裁剪小组”，致力于简化游戏中不必要的元素，以增强游戏的代入感。
 
 《ICO》在剧情讲述和动画制作方面都有出色的表现：用极少的对话讲述了令人回味的剧情，用[高光和](https://zh.wikipedia.org/wiki/高光 "wikilink")[关键格等技术制作了比同时代游戏先進的动画](https://zh.wikipedia.org/wiki/关键格 "wikilink")，影响了后来的很多游戏作品。《ICO》於商业上未成功，却因其独有的艺术元素（如充满古典氛围的古堡室内场景）成名，获得多个“年度游戏”和“游戏设计师选择”奖项或提名。《ICO》也常在许多游戏榜单中占据前席，被认为是一款出色的艺术品。
 
-2011年，《ICO》和《[汪达与巨像](https://zh.wikipedia.org/wiki/汪达与巨像 "wikilink")》经过高清重制后于PlayStation
-3平台发行。其中日本和香港地区有上述两个游戏的獨立零售版发行，这种版本沿用了经典的原版封面。
+2011年，《ICO》和《[汪达与巨像](https://zh.wikipedia.org/wiki/汪达与巨像 "wikilink")》经过高清重制后于PlayStation 3平台发行。其中日本和香港地区有上述两个游戏的獨立零售版发行，这种版本沿用了经典的原版封面。
 
 ## 剧情
 
@@ -18,27 +16,20 @@
 
   - 《ICO -You were there-》
 
-[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[大島滿](../Page/大島滿.md "wikilink")／[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[對譯](https://zh.wikipedia.org/wiki/對譯 "wikilink")：[Lynne
-Hobday](https://zh.wikipedia.org/wiki/Lynne_Hobday "wikilink")／[演唱](https://zh.wikipedia.org/wiki/演唱 "wikilink")：[Steven
-Geraghty](https://zh.wikipedia.org/wiki/Steven_Geraghty "wikilink")
+[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[大島滿](../Page/大島滿.md "wikilink")／[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[對譯](https://zh.wikipedia.org/wiki/對譯 "wikilink")：[Lynne Hobday](https://zh.wikipedia.org/wiki/Lynne_Hobday "wikilink")／[演唱](https://zh.wikipedia.org/wiki/演唱 "wikilink")：[Steven Geraghty](https://zh.wikipedia.org/wiki/Steven_Geraghty "wikilink")
 
 ## 得獎經歷
 
-Ico發售后即好評如潮，在[Game
-Rankings上達到了](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")90%的好評度，2001年位列第15位（PS2平臺上的第10位）\[1\].
+Ico發售后即好評如潮，在[Game Rankings上達到了](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")90%的好評度，2001年位列第15位（PS2平臺上的第10位）\[1\].
 
-  - 2002 [Game Developers Choice
-    Awards](https://zh.wikipedia.org/wiki/Game_Developers_Choice_Awards "wikilink")
+  - 2002 [Game Developers Choice Awards](https://zh.wikipedia.org/wiki/Game_Developers_Choice_Awards "wikilink")
       - Excellence in Level Design
       - Excellence in Visual Arts
       - Game Innovation Spotlights
 
 <!-- end list -->
 
-  - 2002 5th [Academy of Interactive Arts &
-    Sciences](https://zh.wikipedia.org/wiki/Academy_of_Interactive_Arts_&_Sciences "wikilink")
-    [Achievement
-    Awards](https://zh.wikipedia.org/wiki/Interactive_Achievement_Awards "wikilink")
+  - 2002 5th [Academy of Interactive Arts & Sciences](https://zh.wikipedia.org/wiki/Academy_of_Interactive_Arts_&_Sciences "wikilink") [Achievement Awards](https://zh.wikipedia.org/wiki/Interactive_Achievement_Awards "wikilink")
       - Original Game Character of the Year
       - Nomination in Game Design
       - Nomination in Level Design
@@ -63,22 +54,12 @@ Rankings上達到了](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")90%
 
 其他：
 
-  - \#18 on [IGN](../Page/IGN.md "wikilink")'s 2005 "Top 100 Games of
-    All Time",\[2\]Editors Choice 09/25/2001\[3\]\#6 on "The Top 25 PS2
-    Games of All Time"\[4\], and \#57 on IGN's "Top 100 Games of All
-    Time"\[5\].
+  - \#18 on [IGN](../Page/IGN.md "wikilink")'s 2005 "Top 100 Games of All Time",\[2\]Editors Choice 09/25/2001\[3\]\#6 on "The Top 25 PS2 Games of All Time"\[4\], and \#57 on IGN's "Top 100 Games of All Time"\[5\].
   - Official US PlayStation Magazine The Annual Ico Award For Ico
-  - *[Penny
-    Arcade](https://zh.wikipedia.org/wiki/Penny_Arcade_\(webcomic\) "wikilink")*:
-    Best Use Of Smoky Shadow Guys Who Try To Steal Your Princess, Who
-    Might Be Blind Or Something We're Not Really Sure (Game of the Year
-    2001) \[6\]
-  - Electronic Gaming Monthly in their list of the greatest 200 games of
-    their time listed Ico at number 121.
-  - \#8 in [X-Play](https://zh.wikipedia.org/wiki/X-Play "wikilink")'s
-    10 Best Games for the PS2.
-  - \#2 on [1UP](../Page/1UP.com.md "wikilink")'s Top 10 Cult
-    Classics.\[7\]
+  - *[Penny Arcade](https://zh.wikipedia.org/wiki/Penny_Arcade_\(webcomic\) "wikilink")*: Best Use Of Smoky Shadow Guys Who Try To Steal Your Princess, Who Might Be Blind Or Something We're Not Really Sure (Game of the Year 2001) \[6\]
+  - Electronic Gaming Monthly in their list of the greatest 200 games of their time listed Ico at number 121.
+  - \#8 in [X-Play](https://zh.wikipedia.org/wiki/X-Play "wikilink")'s 10 Best Games for the PS2.
+  - \#2 on [1UP](../Page/1UP.com.md "wikilink")'s Top 10 Cult Classics.\[7\]
 
 ## 參見
 
@@ -93,28 +74,12 @@ Rankings上達到了](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")90%
   - [ICO日本官網](http://www.i-c-o.net/)
   - [ICO歐洲官網](https://web.archive.org/web/20051214014426/http://www.icothegame.com/)
 
-[Category:2001年電子遊戲](https://zh.wikipedia.org/wiki/Category:2001年電子遊戲 "wikilink")
-[Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink")
-[Category:艺术游戏](https://zh.wikipedia.org/wiki/Category:艺术游戏 "wikilink")
-[Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:製作中止的PlayStation_(遊戲機)遊戲](https://zh.wikipedia.org/wiki/Category:製作中止的PlayStation_\(遊戲機\)遊戲 "wikilink")
-[Category:立體3D圖像遊戲](https://zh.wikipedia.org/wiki/Category:立體3D圖像遊戲 "wikilink")
-[Category:魔法題材作品](https://zh.wikipedia.org/wiki/Category:魔法題材作品 "wikilink")
-[Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink")
-[Category:附身題材作品](https://zh.wikipedia.org/wiki/Category:附身題材作品 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2001年電子遊戲](https://zh.wikipedia.org/wiki/Category:2001年電子遊戲 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:艺术游戏](https://zh.wikipedia.org/wiki/Category:艺术游戏 "wikilink") [Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:製作中止的PlayStation_(遊戲機)遊戲](https://zh.wikipedia.org/wiki/Category:製作中止的PlayStation_\(遊戲機\)遊戲 "wikilink") [Category:立體3D圖像遊戲](https://zh.wikipedia.org/wiki/Category:立體3D圖像遊戲 "wikilink") [Category:魔法題材作品](https://zh.wikipedia.org/wiki/Category:魔法題材作品 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:附身題材作品](https://zh.wikipedia.org/wiki/Category:附身題材作品 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.  [ICO Reviews](http://www.gamerankings.com/htmlpages2/367472.asp)
 2.  [IGN's Top 100 Games](http://top100.ign.com/2005/011-020.html)
 3.  [IGN: ICO Review](http://ps2.ign.com/articles/164/164833p1.html)
-4.  [IGN: The Top 25 PS2 Games of All
-    Time](http://ps2.ign.com/articles/772/772296p3.html)
+4.  [IGN: The Top 25 PS2 Games of All Time](http://ps2.ign.com/articles/772/772296p3.html)
 5.
-6.  [Penny Arcade\! - Awards Ceremony, Part
-    Four](http://www.penny-arcade.com/comic/2001/12/24)
-7.  [Top 10 Cult Classics
-    from 1UP.com](http://www.1up.com/do/feature?cId=3141616)
+6.  [Penny Arcade\! - Awards Ceremony, Part Four](http://www.penny-arcade.com/comic/2001/12/24)
+7.  [Top 10 Cult Classics from 1UP.com](http://www.1up.com/do/feature?cId=3141616)

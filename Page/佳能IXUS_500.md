@@ -1,12 +1,6 @@
-**佳能 Digital IXUS 500**（在北美市场称作**PowerShot S500**，日本市场则称为**IXY Digital
-500**）
+**佳能 Digital IXUS 500**（在北美市场称作**PowerShot S500**，日本市场则称为**IXY Digital 500**）
 
-**IXUS 500**与同时推出的[IXUS
-430为之前受好评的](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_430 "wikilink")[Canon
-Digital IXUS
-400的升级版](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_400 "wikilink")。**IXUS
-500**的继任者是[Canon Digital IXUS
-700](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_700 "wikilink")。
+**IXUS 500**与同时推出的[IXUS 430为之前受好评的](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_430 "wikilink")[Canon Digital IXUS 400的升级版](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_400 "wikilink")。**IXUS 500**的继任者是[Canon Digital IXUS 700](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_700 "wikilink")。
 
 ## 主要参数
 
@@ -27,25 +21,18 @@ Digital IXUS
 
 ## CCD问题
 
-部分**Digital IXUS
-500**相机在高温多湿的使用环境下，[CCD可能出现故障](https://zh.wikipedia.org/wiki/CCD "wikilink")，使得无论液晶屏或者保存的图像都无法正确显示。佳能公司对这一部分的产品实行免费维修。
+部分**Digital IXUS 500**相机在高温多湿的使用环境下，[CCD可能出现故障](https://zh.wikipedia.org/wiki/CCD "wikilink")，使得无论液晶屏或者保存的图像都无法正确显示。佳能公司对这一部分的产品实行免费维修。
 
 ## IXUS 500拍摄照片
 
-<File:United> States Postal Service Truck.jpg <File:San> Francisco
-Public Library Main Branch Facade.jpg <File:San> Francisco Parking
-Attendant Vehicle.jpg <File:Amoeba> Music San Francisco Facade.jpg
+<File:United> States Postal Service Truck.jpg <File:San> Francisco Public Library Main Branch Facade.jpg <File:San> Francisco Parking Attendant Vehicle.jpg <File:Amoeba> Music San Francisco Facade.jpg
 
 ## 参见
 
-  - [Canon Digital
-    IXUS](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS "wikilink")
-  - [Canon Digital IXUS
-    430](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_430 "wikilink")
-  - [Canon Digital IXUS
-    400](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_400 "wikilink")
-  - [Canon Digital IXUS
-    700](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_700 "wikilink")
+  - [Canon Digital IXUS](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS "wikilink")
+  - [Canon Digital IXUS 430](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_430 "wikilink")
+  - [Canon Digital IXUS 400](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_400 "wikilink")
+  - [Canon Digital IXUS 700](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_700 "wikilink")
 
 ## 外部链接
 

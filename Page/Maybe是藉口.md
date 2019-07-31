@@ -1,12 +1,8 @@
-《**Maybe是藉口**》（），是[AKB48](../Page/AKB48.md "wikilink")的第13张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be
-Cool\!/KING
-RECORDS与NEW](https://zh.wikipedia.org/wiki/King_Records "wikilink")
-KING RECORDS在2009年8月26日发售。中心成員由前田敦子擔當。
+《**Maybe是藉口**》（），是[AKB48](../Page/AKB48.md "wikilink")的第13张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be Cool\!/KING RECORDS与NEW](https://zh.wikipedia.org/wiki/King_Records "wikilink") KING RECORDS在2009年8月26日发售。中心成員由前田敦子擔當。
 
 ## 概要
 
-單曲分為通常盤・劇場盤。本作的選拔成員系由自前作《[惊喜之泪\!](https://zh.wikipedia.org/wiki/惊喜之泪! "wikilink")》发售日前一天起，至7月上旬进行的“[AKB48選拔總選舉](../Page/AKB48第13張單曲選拔總選舉「向神發誓，動真格」.md "wikilink")”中前21名的成员组成。当中，前12名的成员为通常盘的封面成员，并作为媒体選拔参加相关活动。第22-30名的成员则是组成“Under
-Girls（）”，演唱B面单曲《无法飞翔的凤蝶》（）。
+單曲分為通常盤・劇場盤。本作的選拔成員系由自前作《[惊喜之泪\!](https://zh.wikipedia.org/wiki/惊喜之泪! "wikilink")》发售日前一天起，至7月上旬进行的“[AKB48選拔總選舉](../Page/AKB48第13張單曲選拔總選舉「向神發誓，動真格」.md "wikilink")”中前21名的成员组成。当中，前12名的成员为通常盘的封面成员，并作为媒体選拔参加相关活动。第22-30名的成员则是组成“Under Girls（）”，演唱B面单曲《无法飞翔的凤蝶》（）。
 
 在发售前的2009年8月5日起即由“来电铃声”进行了先行音樂下載。
 
@@ -16,9 +12,7 @@ Girls（）”，演唱B面单曲《无法飞翔的凤蝶》（）。
 
 印在封面及CD盘面等处的“”字样是由当时所属Team K的小野惠令奈\[2\] 所写。
 
-发售前一日[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")单日榜中，推定销量达5.7万张\[3\]，力压[SMAP](../Page/SMAP.md "wikilink")同日发售的单曲《[悄悄地
-緊緊地／Super
-Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wikilink")》（），获得单日第一。当周销量最终达9.1万张\[4\]，仅次于上述SMAP单曲，位列周榜第二。
+发售前一日[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")单日榜中，推定销量达5.7万张\[3\]，力压[SMAP](../Page/SMAP.md "wikilink")同日发售的单曲《[悄悄地 緊緊地／Super Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wikilink")》（），获得单日第一。当周销量最终达9.1万张\[4\]，仅次于上述SMAP单曲，位列周榜第二。
 
 ## MV
 
@@ -92,22 +86,16 @@ Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wiki
 
 （中央位置：前田敦子）
 
-  - Team
-    A：**[板野友美](../Page/板野友美.md "wikilink")**（7）、[北原里英](../Page/北原里英.md "wikilink")（13）、**[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")**（6）、**[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")**（8）、[佐藤由加理](../Page/佐藤由加理.md "wikilink")（15）\[5\]、**[篠田麻里子](../Page/篠田麻里子.md "wikilink")**（3）、**[高橋南](../Page/高橋南.md "wikilink")**（5）、**[前田敦子](../Page/前田敦子.md "wikilink")**（1）、[峯岸南](../Page/峯岸南.md "wikilink")（16）、[宮崎美穗](../Page/宮崎美穗.md "wikilink")（18）
-  - Team
-    K：**[秋元才加](../Page/秋元才加.md "wikilink")**（12）\[6\]、**[大島優子](../Page/大島優子.md "wikilink")**（2）、**[小野惠令奈](../Page/小野惠令奈.md "wikilink")**（11）、**[河西智美](../Page/河西智美.md "wikilink")**（10）、[倉持明日香](../Page/倉持明日香.md "wikilink")（21）\[7\]、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（14）
-  - Team
-    B：[浦野一美](../Page/浦野一美.md "wikilink")（17）、[多田愛佳](../Page/多田愛佳.md "wikilink")（20）\[8\]、**[柏木由紀](../Page/柏木由紀.md "wikilink")**（9）、**[渡邊麻友](../Page/渡邊麻友.md "wikilink")**（4）
-  - [SKE48](../Page/SKE48.md "wikilink") Team
-    S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")（19）
+  - Team A：**[板野友美](../Page/板野友美.md "wikilink")**（7）、[北原里英](../Page/北原里英.md "wikilink")（13）、**[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")**（6）、**[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")**（8）、[佐藤由加理](../Page/佐藤由加理.md "wikilink")（15）\[5\]、**[篠田麻里子](../Page/篠田麻里子.md "wikilink")**（3）、**[高橋南](../Page/高橋南.md "wikilink")**（5）、**[前田敦子](../Page/前田敦子.md "wikilink")**（1）、[峯岸南](../Page/峯岸南.md "wikilink")（16）、[宮崎美穗](../Page/宮崎美穗.md "wikilink")（18）
+  - Team K：**[秋元才加](../Page/秋元才加.md "wikilink")**（12）\[6\]、**[大島優子](../Page/大島優子.md "wikilink")**（2）、**[小野惠令奈](../Page/小野惠令奈.md "wikilink")**（11）、**[河西智美](../Page/河西智美.md "wikilink")**（10）、[倉持明日香](../Page/倉持明日香.md "wikilink")（21）\[7\]、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（14）
+  - Team B：[浦野一美](../Page/浦野一美.md "wikilink")（17）、[多田愛佳](../Page/多田愛佳.md "wikilink")（20）\[8\]、**[柏木由紀](../Page/柏木由紀.md "wikilink")**（9）、**[渡邊麻友](../Page/渡邊麻友.md "wikilink")**（4）
+  - [SKE48](../Page/SKE48.md "wikilink") Team S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")（19）
 
 <!-- end list -->
 
   -
     **粗体**标注者为通常盘封面成员
-    浦野一美\[9\]
-    与佐藤亚美菜是首次进入选拔组。佐藤由加理、秋元、仓持与多田在前作落选，本作中重返。此外，前作选拔组中[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")与[松井玲奈](../Page/松井玲奈.md "wikilink")落选（指原与松井当选Under
-    Girls）。
+    浦野一美\[9\] 与佐藤亚美菜是首次进入选拔组。佐藤由加理、秋元、仓持与多田在前作落选，本作中重返。此外，前作选拔组中[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")与[松井玲奈](../Page/松井玲奈.md "wikilink")落选（指原与松井当选Under Girls）。
     选拔组最后一名（21）的仓持与Under Girls首位（22）米泽的票数差仅有3票。
 
 ### 无法飞翔的凤蝶
@@ -115,10 +103,8 @@ Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wiki
 “Under Girls”名义
 
   - Team A：[高城亚树](https://zh.wikipedia.org/wiki/高城亚树 "wikilink")（23）
-  - Team
-    K：[大堀惠](../Page/大堀惠.md "wikilink")（24）、[增田有华](https://zh.wikipedia.org/wiki/增田有华 "wikilink")（25）、[松原夏海](../Page/松原夏海.md "wikilink")（30）
-  - Team
-    B：[片山陽加](../Page/片山陽加.md "wikilink")（28）、[指原莉乃](../Page/指原莉乃.md "wikilink")（27）、[平嶋夏海](../Page/平嶋夏海.md "wikilink")（26）、[米澤瑠美](../Page/米澤瑠美.md "wikilink")（22）
+  - Team K：[大堀惠](../Page/大堀惠.md "wikilink")（24）、[增田有华](https://zh.wikipedia.org/wiki/增田有华 "wikilink")（25）、[松原夏海](../Page/松原夏海.md "wikilink")（30）
+  - Team B：[片山陽加](../Page/片山陽加.md "wikilink")（28）、[指原莉乃](../Page/指原莉乃.md "wikilink")（27）、[平嶋夏海](../Page/平嶋夏海.md "wikilink")（26）、[米澤瑠美](../Page/米澤瑠美.md "wikilink")（22）
   - SKE48 Team S：[松井玲奈](../Page/松井玲奈.md "wikilink")（29）
 
 ## 备注
@@ -133,12 +119,7 @@ Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wiki
   - 《Maybe是藉口》單曲日本版官方介紹頁（KING RECORDS）
       - [通常盤](http://www.kingrecords.co.jp/cs/g/gKIZM-37/)
 
-[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink")
-[Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.  包含音樂下載单曲《Baby\! Baby\! Baby\!》。若包含独立制作时期单曲则为第15张。
 
@@ -155,5 +136,4 @@ Star★](https://zh.wikipedia.org/wiki/悄悄地_緊緊地／Super_Star★ "wiki
 
 8.  自第8张单曲《[樱花的花瓣们2008](../Page/樱花的花瓣们2008.md "wikilink")》以来，时隔1年半再次进入选拔组。
 
-9.  浦野一美参加了独立制作时期[樱花的花瓣们](../Page/樱花的花瓣们.md "wikilink")、[裙襬飘飘的录制](https://zh.wikipedia.org/wiki/裙襬飘飘 "wikilink")，但这两作均为当时的Team
-    A全体成员参加，故进入选拔组是第一次。
+9.  浦野一美参加了独立制作时期[樱花的花瓣们](../Page/樱花的花瓣们.md "wikilink")、[裙襬飘飘的录制](https://zh.wikipedia.org/wiki/裙襬飘飘 "wikilink")，但这两作均为当时的Team A全体成员参加，故进入选拔组是第一次。

@@ -1,9 +1,8 @@
-**Sony Ericsson P1i**为[Sony
-Ericsson于](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")2007年8月22日所推出的智能手机，內置320万像素自动对焦相机。
+**Sony Ericsson P1i**为[Sony Ericsson于](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")2007年8月22日所推出的智能手机，內置320万像素自动对焦相机。
 
 ## 特色
 
-本機種為P系列的第2支支援WCDMA的手機，而相機部分則升級，由從前的200萬（P990i）升級至320萬。而這次取消了前四代所擁有的掀蓋式數字鍵。官方聲稱體積比前作縮小了25%。同時也內建了自[W850i內建的](../Page/Sony_Ericsson_W850i.md "wikilink")[A2DP](https://zh.wikipedia.org/wiki/A2DP "wikilink")[藍牙立體聲技術](../Page/藍牙.md "wikilink")。
+本機種為P系列的第2支支援WCDMA的手機，而相機部分則升級，由從前的200萬（P990i）升級至320萬。而這次取消了前四代所擁有的掀蓋式數字鍵。官方聲稱體積比前作縮小了25%。同時也內建了自[W850i內建的](../Page/Sony_Ericsson_W850i.md "wikilink")[A2DP](https://zh.wikipedia.org/wiki/A2DP "wikilink")[藍牙](../Page/藍牙.md "wikilink")立體聲技術。
 
 ## 相關功能列表
 

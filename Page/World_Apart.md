@@ -1,5 +1,4 @@
-『**World Apart**』是[ASIAN KUNG-FU
-GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+『**World Apart**』是[ASIAN KUNG-FU GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解説
 
@@ -9,8 +8,7 @@ GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikili
 
 1.  （World Apart）
 
-      - 跟之前的單曲A面（即主打歌曲）比較，是一首於整體上很重Rock味道的歌曲。A Melo（即首段）並沒有出現第2次。
-        另外，這首歌曲的標題的「Apart」與本來Apart（這裡指公寓，Apartment）的意思不同，是「被分離」的意思。
+      - 跟之前的單曲A面（即主打歌曲）比較，是一首於整體上很重Rock味道的歌曲。A Melo（即首段）並沒有出現第2次。 另外，這首歌曲的標題的「Apart」與本來Apart（這裡指公寓，Apartment）的意思不同，是「被分離」的意思。
 
 2.  （永遠地）
 
@@ -20,6 +18,4 @@ GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikili
 
       - 本來是喜多於後藤不用錄音的時候時作給伊地知的歌曲，因為當時發起了「如果能把這個編曲配合喜多的聲音就很酷了」的念頭而被製作。
 
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:ASIAN_KUNG-FU_GENERATION的單曲](https://zh.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION的單曲 "wikilink")
-[Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:ASIAN_KUNG-FU_GENERATION的單曲](https://zh.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION的單曲 "wikilink") [Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink")

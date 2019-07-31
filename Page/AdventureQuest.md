@@ -1,19 +1,12 @@
-《**AdventureQuest**》〔亦稱**Battleon**（取其網站名）及**AQ**（取其頭字母縮寫）〕是一個由[Artix
-Entertainment研製的線上單人](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。此遊戲由2002年開始對外開放。[向量圖形](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")、[Flash及](https://zh.wikipedia.org/wiki/Flash "wikilink")[動畫等技術均可以在遊戲中找到](https://zh.wikipedia.org/wiki/動畫 "wikilink")。\[1\]
+《**AdventureQuest**》〔亦稱**Battleon**（取其網站名）及**AQ**（取其頭字母縮寫）〕是一個由[Artix Entertainment研製的線上單人](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。此遊戲由2002年開始對外開放。[向量圖形](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")、[Flash及](https://zh.wikipedia.org/wiki/Flash "wikilink")[動畫等技術均可以在遊戲中找到](https://zh.wikipedia.org/wiki/動畫 "wikilink")。\[1\]
 
 ## 歷史
 
-**AdventureQuest**是[Artix
-Entertainment的第一個遊戲](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")。這個遊戲越來越流行，[註冊人數不斷急升](https://zh.wikipedia.org/wiki/註冊 "wikilink")，並于[2004年7月](../Page/2004年7月.md "wikilink")註冊人數突破一百萬大關。亦在2005年7月用戶人數更突破五百萬。此驚人的增長使[Artix
-Entertainment加入一些需要付費才能玩的情節及](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")**Z-Tokens**（一種在遊戲中的虛擬貨幣）。
+**AdventureQuest**是[Artix Entertainment的第一個遊戲](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")。這個遊戲越來越流行，[註冊人數不斷急升](https://zh.wikipedia.org/wiki/註冊 "wikilink")，並于[2004年7月](../Page/2004年7月.md "wikilink")註冊人數突破一百萬大關。亦在2005年7月用戶人數更突破五百萬。此驚人的增長使[Artix Entertainment加入一些需要付費才能玩的情節及](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")**Z-Tokens**（一種在遊戲中的虛擬貨幣）。
 
 ## 核心員工
 
-整個計劃主要由**Adam Bohn**帶領，而**AdventureQuest**的研發者為**Tony
-Deller**。**Zhoom**、**Minimal**、**Captain Rhubarb** 及 **Rolith**
-負責維護及運作程式部份。**Courtney Nawara**為主要帶領顧客方面者及[Artix
-Entertainment的求助頁面](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")，
-**Reens**則是論壇的管理員。
+整個計劃主要由**Adam Bohn**帶領，而**AdventureQuest**的研發者為**Tony Deller**。**Zhoom**、**Minimal**、**Captain Rhubarb** 及 **Rolith** 負責維護及運作程式部份。**Courtney Nawara**為主要帶領顧客方面者及[Artix Entertainment的求助頁面](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")， **Reens**則是論壇的管理員。
 
 <span style="color: grey;">注意：大部份員工並沒有將真正的名字透露出去，而是使用綽號公佈。</span>
 
@@ -31,11 +24,9 @@ Entertainment的求助頁面](https://zh.wikipedia.org/wiki/:en:Artix_Entertainm
 
 ### 屬性、防禦參數
 
-此遊戲共有九種屬性設定。其中八種屬性兩兩相對，形成四對各自互相對立的屬性，在人物資料表上依照位置排列為「火、水、風、冰、土、雷、光、闇」。當中火冰相對、風土相對、水雷相對、光闇相對。至於第九種屬性有時會被稱為「空」（Void）、或「元素X」（Element
-X）、或「害」（Harm），對玩家而言只能在持有特定的兵器在一定的觸發條件下才能使用，但是使用這種屬性攻擊時，敵人對另外八種屬性的抵抗力俱不能對第九種屬性起作用。
+此遊戲共有九種屬性設定。其中八種屬性兩兩相對，形成四對各自互相對立的屬性，在人物資料表上依照位置排列為「火、水、風、冰、土、雷、光、闇」。當中火冰相對、風土相對、水雷相對、光闇相對。至於第九種屬性有時會被稱為「空」（Void）、或「元素X」（Element X）、或「害」（Harm），對玩家而言只能在持有特定的兵器在一定的觸發條件下才能使用，但是使用這種屬性攻擊時，敵人對另外八種屬性的抵抗力俱不能對第九種屬性起作用。
 
-在此遊戲之中有所謂「防禦參數」（Defense
-Modifier，即「對不同屬性的抵抗力」）的數值，以百分數表示，此百分數表示了人物在受到相應屬性的攻擊時真正會受到的傷害。此數值愈小，人物對相應屬性的攻擊防禦力愈大（所受到的傷害愈小）。玩家的防禦參數完全由其裝備決定。而怪物的防禦參數通常會依照其攻擊的屬性變化。
+在此遊戲之中有所謂「防禦參數」（Defense Modifier，即「對不同屬性的抵抗力」）的數值，以百分數表示，此百分數表示了人物在受到相應屬性的攻擊時真正會受到的傷害。此數值愈小，人物對相應屬性的攻擊防禦力愈大（所受到的傷害愈小）。玩家的防禦參數完全由其裝備決定。而怪物的防禦參數通常會依照其攻擊的屬性變化。
 
 ### 攻擊形式及其防禦力
 
@@ -80,9 +71,7 @@ Modifier，即「對不同屬性的抵抗力」）的數值，以百分數表示
 
 ## 參考資料或註釋
 
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
 
 1.   [遊戲網站](http://www.battleon.com)
-2.   [RE: AQ
-    Upgrades](http://forums2.battleon.com/f/tm.asp?m=2453450&mpage=2&key=)
+2.   [RE: AQ Upgrades](http://forums2.battleon.com/f/tm.asp?m=2453450&mpage=2&key=)

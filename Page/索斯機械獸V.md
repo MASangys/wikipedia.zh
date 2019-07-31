@@ -1,6 +1,6 @@
-《**索斯機械獸V**》（日文原名：，-{zh-hans:香港译《**索斯机械兽V**》;zh-tw:香港譯《**索斯機械獸V**》;zh-hk:台灣譯《**機獸創世紀**》}-）是一部[日本電視動畫](../Page/日本電視動畫.md "wikilink")，為-{zh-hans:机兽;zh-tw:機獸;zh-hk:索斯機械獸}-系列的第五輯，但與以前的四輯沒有直接關係。該動畫由[東京電視台及](../Page/東京電視台.md "wikilink")[小學館製作](../Page/小學館.md "wikilink")，自2005年4月至2006年3月在東京電視台首播，共50集。2008年3月25日起在香港[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")。由於索斯機械獸動畫第2輯（）是第1輯的延續，所以《索斯機械獸V》也可以當作該動畫系列的第4輯。
+《**索斯機械獸V**》（日文原名：，-{zh-hans:香港译《**索斯机械兽V**》;zh-tw:香港譯《**索斯機械獸V**》;zh-hk:台灣譯《**機獸創世紀**》}-）是一部[日本電視動畫](../Page/日本電視動畫.md "wikilink")，為-{zh-hans:机兽;zh-tw:機獸;zh-hk:索斯機械獸}-系列的第五輯，但與以前的四輯沒有直接關係。該動畫由[東京電視台](../Page/東京電視台.md "wikilink")及[小學館](../Page/小學館.md "wikilink")製作，自2005年4月至2006年3月在東京電視台首播，共50集。2008年3月25日起在香港[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")。由於索斯機械獸動畫第2輯（）是第1輯的延續，所以《索斯機械獸V》也可以當作該動畫系列的第4輯。
 
-[索斯機械獸第一、二部則於](../Page/索斯機械獸.md "wikilink")2002年7月8日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")，《[索斯機械獸III](../Page/索斯機械獸III.md "wikilink")》則於2003年3月21日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")，而《[索斯機械獸IV](../Page/索斯機械獸IV.md "wikilink")》則於2006年10月3日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")。
+[索斯機械獸](../Page/索斯機械獸.md "wikilink")第一、二部則於2002年7月8日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")，《[索斯機械獸III](../Page/索斯機械獸III.md "wikilink")》則於2003年3月21日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")，而《[索斯機械獸IV](../Page/索斯機械獸IV.md "wikilink")》則於2006年10月3日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")。
 
 ## 故事簡介
 
@@ -475,8 +475,7 @@ Zi行星上有一個叫迪加魯特的國家在十多年前與天空之都訂立
     **特性：**攻擊力強
     **簡介：**背部上佩備兩把大刀，右邊佩備的大刀為直切，左邊佩備的大刀為橫切
     **里奧金屬：**背部佩帶的兩把大刀
-    **外置強化套件：**CP-A
-    狼劍，取代右邊的直切大刀。為「右邊的直切大刀」的巨大化版，顏色為金色。能夠斬出劍氣，把生化猛龍的正面垂直斬開一半。在第27集由輸送列車蟲從西方運送過來。
+    **外置強化套件：**CP-A 狼劍，取代右邊的直切大刀。為「右邊的直切大刀」的巨大化版，顏色為金色。能夠斬出劍氣，把生化猛龍的正面垂直斬開一半。在第27集由輸送列車蟲從西方運送過來。
 
 <!-- end list -->
 
@@ -490,8 +489,7 @@ Zi行星上有一個叫迪加魯特的國家在十多年前與天空之都訂立
     **特性：**不明
     **簡介：**飛行時以里歐製成的翅膀切裂敵人，孔雀尾展開時可發出「帕拉庫拉依斯」聲光衝擊波，使敵方機獸神經癱瘓，不能操控。是討伐軍之中惟一可進行空戰的機獸。翅膀上佩帶離子加速器。
     **里奧金屬：**羽毛
-    **外置強化套件：**CP-A
-    孔雀推進器（離子加速器），能夠迅間加速，使用後速度比**生化翼手龍**還要快。在第27集由輸送列車蟲從西方運送過來。
+    **外置強化套件：**CP-A 孔雀推進器（離子加速器），能夠迅間加速，使用後速度比**生化翼手龍**還要快。在第27集由輸送列車蟲從西方運送過來。
 
 <!-- end list -->
 
@@ -748,8 +746,7 @@ Zi行星上有一個叫迪加魯特的國家在十多年前與天空之都訂立
 ## 主題曲
 
   - 片頭曲「」
-    作曲：D・A・I、作詞：川村サイコ、歌：[Do As
-    Infinity](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")
+    作曲：D・A・I、作詞：川村サイコ、歌：[Do As Infinity](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")
 
 <!-- end list -->
 
@@ -836,18 +833,13 @@ Zi行星上有一個叫迪加魯特的國家在十多年前與天空之都訂立
 ### 官方網站
 
   - [東京電視台索斯機械獸5官方網頁](http://www.tv-tokyo.co.jp/anime/zoids_g/main_index.html)
-  - [ゾイド The History of TV
-    ANIMATION](http://www.shopro.co.jp/tv/program/zoids/genesis/index.html)
+  - [ゾイド The History of TV ANIMATION](http://www.shopro.co.jp/tv/program/zoids/genesis/index.html)
   - [ゾイドジェネシス](https://web.archive.org/web/20090713003653/http://mv.avex.jp/zoidsj/)
 
 ### 其他網站
 
   - [ゾイド格納庫 メインページ](http://www.zoids-fan.net/zoids/index.php)
 
-[Category:2005年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2005年東京電視網動畫 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
-[Category:動物題材作品](https://zh.wikipedia.org/wiki/Category:動物題材作品 "wikilink")
-[Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:2005年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2005年東京電視網動畫 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink") [Category:動物題材作品](https://zh.wikipedia.org/wiki/Category:動物題材作品 "wikilink") [Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.  <http://www.shopro.co.jp/tv/program/zoids/genesis/staff.html>

@@ -1,21 +1,16 @@
-**BCG矩陣**（BCG
-Matrix）是於1970年為[波士頓咨詢公司](https://zh.wikipedia.org/wiki/波士頓咨詢公司 "wikilink")(BCG)設計的一個圖表[1](https://web.archive.org/web/20121029005718/http://www.bcg.com/about_bcg/history/history_1968.aspx)，目的是協助企業分析其業務和產品系列的表現，從而協助企業更妥善地分配資源，及作為品牌建立和營銷、產品管理、[戰略管理及公司整體業務的分析工具](https://zh.wikipedia.org/wiki/戰略管理 "wikilink")。
+**BCG矩陣**（BCG Matrix）是於1970年為[波士頓咨詢公司](https://zh.wikipedia.org/wiki/波士頓咨詢公司 "wikilink")(BCG)設計的一個圖表[1](https://web.archive.org/web/20121029005718/http://www.bcg.com/about_bcg/history/history_1968.aspx)，目的是協助企業分析其業務和產品系列的表現，從而協助企業更妥善地分配資源，及作為品牌建立和營銷、產品管理、[戰略管理及公司整體業務的分析工具](https://zh.wikipedia.org/wiki/戰略管理 "wikilink")。
 
 ## 用法
 
-[BCG_Matrix_with_products-small_png.png](https://zh.wikipedia.org/wiki/File:BCG_Matrix_with_products-small_png.png "fig:BCG_Matrix_with_products-small_png.png")
-BCG矩陣實際上是一個二乘二的矩陣，橫軸是相對市場佔有率（以公司業務的市場佔有率除以同業最高的市場佔有率而獲得），縱軸是市場預期增長，再加上兩軸各自的分界而成[2](https://web.archive.org/web/20121029005718/http://www.bcg.com/about_bcg/history/history_1968.aspx)。
+[BCG_Matrix_with_products-small_png.png](https://zh.wikipedia.org/wiki/File:BCG_Matrix_with_products-small_png.png "fig:BCG_Matrix_with_products-small_png.png") BCG矩陣實際上是一個二乘二的矩陣，橫軸是相對市場佔有率（以公司業務的市場佔有率除以同業最高的市場佔有率而獲得），縱軸是市場預期增長，再加上兩軸各自的分界而成[2](https://web.archive.org/web/20121029005718/http://www.bcg.com/about_bcg/history/history_1968.aspx)。
 
 在建立圖表前，負責人員須分析企業內所有業務或產品的表現。完成後，將各業務或產品的表現標在圖表內適當位置，並得出一個表現分佈圖。
 
 圖表內有四個區域，分別有以下意思：
 
-  - **搖錢母牛**（Cash
-    Cows）是指擁有高市場佔有率及低預期增長的業務。顧名思義，這類業務通常都為公司帶來比維持業務所需還要多的現金收入。它們通常都被認為是穩定和沉悶的，所屬市場已經成熟，但所有企業都想擁有的龍頭業務。因為投資在這類業務並不會大量增加收入，所以企業都只會對這些業務維持最基本的開支。
-  - **狗**（Dogs），或稱**寵物**（Pets），是指擁有低市場佔有率及低預期增長的業務。這類業務通常只能維持收支平衡。雖然這些業務可能實際上協助其他業務，但從會計角度來看，因為這類業務未能為公司帶來可觀的收入，所以對公司來說是沒有用處的。而且，這些業務降低了公司的[資產回報率](https://zh.wikipedia.org/wiki/資產回報率 "wikilink")（Return
-    on Assets，ROA）。資產回報率是投資者分析一家公司是否管理良好的一個重要數據。因此，從此角度來看，這類業務應該被售出。
-  - **問號**（Question Marks），或稱**問題兒童**（Problem Child）也有人稱之為**野貓**（Wild
-    Cat），是指面向高增長的市場但市場佔有率低的業務。由於業務面向高增長的市場，故需要公司大量的投資。但因為市場佔有率低，這類業務未能為公司帶來可觀的收入，結果出現大筆現金淨支出。這類業務有潛質為公司帶來可觀的收入──在增加市場佔有率後，這些業務將會變成在「星」區域的業務，並在市場成熟後轉為「搖錢母牛」區域的業務。但如業務經營多年都未能成為市場領導者，則會變成在「狗」區域的業務。因此，對這些業務投放資源前，必先對它們小心分析，以確定業務值得投資。
+  - **搖錢母牛**（Cash Cows）是指擁有高市場佔有率及低預期增長的業務。顧名思義，這類業務通常都為公司帶來比維持業務所需還要多的現金收入。它們通常都被認為是穩定和沉悶的，所屬市場已經成熟，但所有企業都想擁有的龍頭業務。因為投資在這類業務並不會大量增加收入，所以企業都只會對這些業務維持最基本的開支。
+  - **狗**（Dogs），或稱**寵物**（Pets），是指擁有低市場佔有率及低預期增長的業務。這類業務通常只能維持收支平衡。雖然這些業務可能實際上協助其他業務，但從會計角度來看，因為這類業務未能為公司帶來可觀的收入，所以對公司來說是沒有用處的。而且，這些業務降低了公司的[資產回報率](https://zh.wikipedia.org/wiki/資產回報率 "wikilink")（Return on Assets，ROA）。資產回報率是投資者分析一家公司是否管理良好的一個重要數據。因此，從此角度來看，這類業務應該被售出。
+  - **問號**（Question Marks），或稱**問題兒童**（Problem Child）也有人稱之為**野貓**（Wild Cat），是指面向高增長的市場但市場佔有率低的業務。由於業務面向高增長的市場，故需要公司大量的投資。但因為市場佔有率低，這類業務未能為公司帶來可觀的收入，結果出現大筆現金淨支出。這類業務有潛質為公司帶來可觀的收入──在增加市場佔有率後，這些業務將會變成在「星」區域的業務，並在市場成熟後轉為「搖錢母牛」區域的業務。但如業務經營多年都未能成為市場領導者，則會變成在「狗」區域的業務。因此，對這些業務投放資源前，必先對它們小心分析，以確定業務值得投資。
   - **明日之星**（Stars）是指面向高增長的市場而市場佔有率高的業務。這些業務均被期望成為公司未來的龍頭業務──即在「搖錢母牛」區域的業務。雖然這些業務需要投放更多的金錢以維持市場領導者地位，但若能達到此目的，這些投資都是值得的──若能維持市場領導者地位，當市場轉趨成熟時，「星」區域的業務就會變為「搖錢母牛」區的業務。否則，「星」區的業務就會逐漸移向「狗」區域。
 
 當一個行業及其市場轉趨成熟的時候，所有公司在該行業的業務將會變成「搖錢母牛」或「狗」區域的業務。大部分的業務的生命週期都是自「問號」區域開始，然後移向「星」區域。當市場增長放緩時候，則會移向「搖錢母牛」區域。最終則會移向「狗」區域，並完成一個生命週期。
@@ -51,10 +46,7 @@ BCG矩陣為分析產品或服務的強項和弱點提供了一幅有用的「�
 
 <references />
 
-[Category:投资组合理论](https://zh.wikipedia.org/wiki/Category:投资组合理论 "wikilink")
-[Category:市場營銷](https://zh.wikipedia.org/wiki/Category:市場營銷 "wikilink")
-[Category:戰略管理](https://zh.wikipedia.org/wiki/Category:戰略管理 "wikilink")
-[Category:波士顿咨询公司](https://zh.wikipedia.org/wiki/Category:波士顿咨询公司 "wikilink")
+[Category:投资组合理论](https://zh.wikipedia.org/wiki/Category:投资组合理论 "wikilink") [Category:市場營銷](https://zh.wikipedia.org/wiki/Category:市場營銷 "wikilink") [Category:戰略管理](https://zh.wikipedia.org/wiki/Category:戰略管理 "wikilink") [Category:波士顿咨询公司](https://zh.wikipedia.org/wiki/Category:波士顿咨询公司 "wikilink")
 
 1.  石井淳蔵　廣田章光『1からのマーケティング』碩学舎 2012年9月10日　第3版第44發行 66頁第21行
 2.  石井淳蔵　廣田章光『1からのマーケティング』碩学舎 2012年9月10日　第3版第44發行 66頁第14行

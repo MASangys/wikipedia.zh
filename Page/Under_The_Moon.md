@@ -1,9 +1,4 @@
-《**Under The
-Moon**》是2006年12月15日[シュガービーンズ發售的女性向](../Page/WillPlus.md "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[遊戲](../Page/戀愛遊戲.md "wikilink")\[1\]。在2007年8月24日發售[Fan
-disk](https://zh.wikipedia.org/wiki/Fan_disk "wikilink")《**Under The
-Moon
-〜つきいろ絵本〜**》\[2\]。2009年6月25日由[ディンプル移植](https://zh.wikipedia.org/wiki/ディンプル "wikilink")[PS2發售](https://zh.wikipedia.org/wiki/PS2 "wikilink")《**Under
-The Moon 〜クレセント〜**》。\[3\]
+《**Under The Moon**》是2006年12月15日[シュガービーンズ發售的女性向](../Page/WillPlus.md "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[遊戲](../Page/戀愛遊戲.md "wikilink")\[1\]。在2007年8月24日發售[Fan disk](https://zh.wikipedia.org/wiki/Fan_disk "wikilink")《**Under The Moon 〜つきいろ絵本〜**》\[2\]。2009年6月25日由[ディンプル移植](https://zh.wikipedia.org/wiki/ディンプル "wikilink")[PS2發售](https://zh.wikipedia.org/wiki/PS2 "wikilink")《**Under The Moon 〜クレセント〜**》。\[3\]
 
 這個作品的Log是《Under The Moon》，但是官方網站卻是寫《Under the Moon》，『the』這個字可以是小寫也可以是大寫。
 
@@ -32,8 +27,7 @@ The Moon 〜クレセント〜**》。\[3\]
   -
     亞雪在人界第一次遇到的人。黑髮和紅色瞳孔的吸血鬼。是有包容力成熟的男性。雖然在亞雪危險時前來相救，但是動機是個謎。因為說自己沒有名字，所以被亞雪取為**zero**。
   -
-    在《**Under The Moon
-    〜つきいろ絵本〜**》登場。魔王真正的兒子。雖然是惡魔卻有著近金色的茶色頭髮。在月色繪本（〜つきいろ絵本～）之中是來殺亞雪的。（在本篇裡是隱藏角色，需破完雷尼與賽玖所有相關回憶與ＣＧ才可重新攻略）
+    在《**Under The Moon 〜つきいろ絵本〜**》登場。魔王真正的兒子。雖然是惡魔卻有著近金色的茶色頭髮。在月色繪本（〜つきいろ絵本～）之中是來殺亞雪的。（在本篇裡是隱藏角色，需破完雷尼與賽玖所有相關回憶與ＣＧ才可重新攻略）
 
 ## 工作人員
 
@@ -50,9 +44,7 @@ The Moon 〜クレセント〜**》。\[3\]
 
 ## 相關商品
 
-  - Under The Moon
-    [廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")
-    「あの月の下で」
+  - Under The Moon [廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink") 「あの月の下で」
       - 2007年1月26日發售、L.Field（LadyBug Field）
   - Under The Moon 主題歌マキシシングル 「Under The Moon/This Love」
       - 2007年1月26日發售、L.Field（LadyBug Field）
@@ -72,15 +64,10 @@ The Moon 〜クレセント〜**》。\[3\]
 ## 外部連結
 
   - [シュガービーンズ オフィシャルWebサイト](http://www.sugar-beans.com/)
-  - [Under The Moon 〜クレセント〜
-    公式サイト](https://web.archive.org/web/20090713215225/http://www.sugar-beans.com/products/sb02/index.html)
+  - [Under The Moon 〜クレセント〜 公式サイト](https://web.archive.org/web/20090713215225/http://www.sugar-beans.com/products/sb02/index.html)
   - [Under the moon官方網站](http://future-digi.com/UnderTheMoon/)
 
-[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink")
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
+[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
 
 1.
 2.

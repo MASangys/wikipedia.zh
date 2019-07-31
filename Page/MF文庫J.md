@@ -1,18 +1,16 @@
-**MF文庫J**（），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA旗下](../Page/KADOKAWA.md "wikilink")[Media
-Factory的](../Page/Media_Factory.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")[文庫系列](../Page/文庫.md "wikilink")。2002年7月25日創刊。
+**MF文庫J**（），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下[Media Factory的](../Page/Media_Factory.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")[文庫](../Page/文庫.md "wikilink")系列。2002年7月25日創刊。
 
 ## 簡介
 
 「MF文庫J」命名自主要出版國外翻譯書籍（電影的小說作品）的[MF文庫](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")，加上「日本」（Japan），以及「少年」（Juvenile）的第一個字母作為命名。特徵是綠色書背。
 
-創刊初期，除了[輕小說外還有出版許多](../Page/輕小說.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲等的改編小說作品](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，從2004年舉辦[MF文庫J輕小說新人獎開始出版原創作品後](../Page/MF文庫J輕小說新人獎.md "wikilink")，評價才逐漸上升。2006年有《[陰守忍者](https://zh.wikipedia.org/wiki/陰守忍者 "wikilink")》（，[阿智太郎著](https://zh.wikipedia.org/wiki/阿智太郎 "wikilink")）、《[神樣家族](../Page/神樣家族.md "wikilink")》（，[桑島由一著](../Page/桑島由一.md "wikilink")）、《[零之使魔](../Page/零之使魔.md "wikilink")》（，[山口昇著](../Page/山口昇.md "wikilink")）等熱門作品改編成動畫。
+創刊初期，除了[輕小說](../Page/輕小說.md "wikilink")外還有出版許多[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲等的改編小說作品](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，從2004年舉辦[MF文庫J輕小說新人獎](../Page/MF文庫J輕小說新人獎.md "wikilink")開始出版原創作品後，評價才逐漸上升。2006年有《[陰守忍者](https://zh.wikipedia.org/wiki/陰守忍者 "wikilink")》（，[阿智太郎著](https://zh.wikipedia.org/wiki/阿智太郎 "wikilink")）、《[神樣家族](../Page/神樣家族.md "wikilink")》（，[桑島由一](../Page/桑島由一.md "wikilink")著）、《[零之使魔](../Page/零之使魔.md "wikilink")》（，[山口昇](../Page/山口昇.md "wikilink")著）等熱門作品改編成動畫。
 
 MF文庫J近年來積極進行電子出版。比較新的書籍，有發行價格較低的「最強☆讀書生活」系列[電子書](../Page/電子書.md "wikilink")。
 
-不知道編輯部是否刻意，以四個[平假名為標題的作品相當多](../Page/平假名.md "wikilink")，如《[我的狐仙女友](../Page/我的狐仙女友.md "wikilink")》（）、《[神燈女僕](https://zh.wikipedia.org/wiki/神燈女僕 "wikilink")》（）、《[MM一族](../Page/MM一族.md "wikilink")》（）、《[骷髏戀人](https://zh.wikipedia.org/wiki/骷髏戀人 "wikilink")》（）等。
+不知道編輯部是否刻意，以四個[平假名](../Page/平假名.md "wikilink")為標題的作品相當多，如《[我的狐仙女友](../Page/我的狐仙女友.md "wikilink")》（）、《[神燈女僕](https://zh.wikipedia.org/wiki/神燈女僕 "wikilink")》（）、《[MM一族](../Page/MM一族.md "wikilink")》（）、《[骷髏戀人](https://zh.wikipedia.org/wiki/骷髏戀人 "wikilink")》（）等。
 
-2015年4月，角川公司廢止[分公司制](../Page/分公司制.md "wikilink")，並於2016年1月起不在出版品上使用Media
-Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並續辦MF文庫J輕小說新人獎。
+2015年4月，角川公司廢止[分公司制](../Page/分公司制.md "wikilink")，並於2016年1月起不在出版品上使用Media Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並續辦MF文庫J輕小說新人獎。
 
 ## 作品列表
 
@@ -71,14 +69,11 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
   - [夢魔少年](https://zh.wikipedia.org/wiki/夢魔少年 "wikilink")（[三門鐵狼](https://zh.wikipedia.org/wiki/三門鐵狼 "wikilink")／）
   - [修羅場戀人](https://zh.wikipedia.org/wiki/修羅場戀人 "wikilink")（[岸杯也](https://zh.wikipedia.org/wiki/岸杯也 "wikilink")／）
   - [會飛的豬還是豬](https://zh.wikipedia.org/wiki/會飛的豬還是豬 "wikilink")（[涼木行](https://zh.wikipedia.org/wiki/涼木行 "wikilink")／[白身魚](https://zh.wikipedia.org/wiki/白身魚 "wikilink")）
-  - [NOBLE
-    LIGE！](https://zh.wikipedia.org/wiki/NOBLE_LIGE！ "wikilink")（[TAMAMI](https://zh.wikipedia.org/wiki/TAMAMI "wikilink")／）
+  - [NOBLE LIGE！](https://zh.wikipedia.org/wiki/NOBLE_LIGE！ "wikilink")（[TAMAMI](https://zh.wikipedia.org/wiki/TAMAMI "wikilink")／）
   - [不吸血的吸血鬼](https://zh.wikipedia.org/wiki/不吸血的吸血鬼 "wikilink")（／[Yuyi](https://zh.wikipedia.org/wiki/Yuyi "wikilink")）
-  - [NO GAME NO LIFE
-    遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")（[榎宮祐](../Page/榎宮祐.md "wikilink")）
+  - [NO GAME NO LIFE 遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")（[榎宮祐](../Page/榎宮祐.md "wikilink")）
   - [你並不孤單！](../Page/你並不孤單！.md "wikilink")（[小岩井蓮二](https://zh.wikipedia.org/wiki/小岩井蓮二 "wikilink")／）
-  - [Over Image
-    超異能遊戲](https://zh.wikipedia.org/wiki/Over_Image_超異能遊戲 "wikilink")（[遊佐真弘](https://zh.wikipedia.org/wiki/遊佐真弘 "wikilink")／）
+  - [Over Image 超異能遊戲](https://zh.wikipedia.org/wiki/Over_Image_超異能遊戲 "wikilink")（[遊佐真弘](https://zh.wikipedia.org/wiki/遊佐真弘 "wikilink")／）
   - [歌姬少女的創樂譜](https://zh.wikipedia.org/wiki/歌姬少女的創樂譜 "wikilink")（[雨野智晴](https://zh.wikipedia.org/wiki/雨野智晴 "wikilink")／）
   - [穿越時空的龍王與邁向滅亡的魔女之國](../Page/穿越時空的龍王與邁向滅亡的魔女之國.md "wikilink")（[舞阪洸](https://zh.wikipedia.org/wiki/舞阪洸 "wikilink")／）
   - [終焉之栞](../Page/終焉之栞.md "wikilink")（／[主犯：１５０Ｐ](https://zh.wikipedia.org/wiki/主犯：１５０Ｐ "wikilink")／／）
@@ -110,8 +105,7 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
   - [神燈女僕\!](https://zh.wikipedia.org/wiki/神燈女僕! "wikilink")（[夏綠](../Page/夏綠.md "wikilink")／）
   - [肯普法](../Page/肯普法.md "wikilink")（[築地俊彥](../Page/築地俊彥.md "wikilink")／）
   - [天空與蒼月之王](https://zh.wikipedia.org/wiki/天空與蒼月之王 "wikilink")（[霜島桂](https://zh.wikipedia.org/wiki/霜島桂 "wikilink")／[Ginka](https://zh.wikipedia.org/wiki/Ginka "wikilink")）
-  - [PiPit \!\!
-    天線少女](https://zh.wikipedia.org/wiki/PiPit_!!_天線少女 "wikilink")（[和智正喜](https://zh.wikipedia.org/wiki/和智正喜 "wikilink")／）
+  - [PiPit \!\! 天線少女](https://zh.wikipedia.org/wiki/PiPit_!!_天線少女 "wikilink")（[和智正喜](https://zh.wikipedia.org/wiki/和智正喜 "wikilink")／）
   - [玩伴貓耳娘](../Page/玩伴貓耳娘.md "wikilink")（[神野奧那](https://zh.wikipedia.org/wiki/神野奧那 "wikilink")／[放電映像](../Page/放電映像.md "wikilink")）
   - [瀆神之主](https://zh.wikipedia.org/wiki/瀆神之主 "wikilink")（[榊一郎](../Page/榊一郎.md "wikilink")／[kyo](https://zh.wikipedia.org/wiki/kyo "wikilink")）
   - [緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")（[赤松中學](https://zh.wikipedia.org/wiki/赤松中學 "wikilink")／[小舞一](../Page/小舞一.md "wikilink")）
@@ -122,8 +116,7 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
   - [變裝魔界留學生](https://zh.wikipedia.org/wiki/變裝魔界留學生 "wikilink")（[野島研二](../Page/野島研二.md "wikilink")／[武藤此史](https://zh.wikipedia.org/wiki/武藤此史 "wikilink")）
   - [絕境行星](https://zh.wikipedia.org/wiki/絕境行星 "wikilink")（[柿沼秀樹](https://zh.wikipedia.org/wiki/柿沼秀樹 "wikilink")／[駒都英二](../Page/駒都英二.md "wikilink")）
   - [魔女學生會長](https://zh.wikipedia.org/wiki/魔女學生會長 "wikilink")（日日日／[鈴見敦](https://zh.wikipedia.org/wiki/鈴見敦 "wikilink")）
-  - [IS〈Infinite
-    Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")（／[okiura](https://zh.wikipedia.org/wiki/okiura "wikilink")）
+  - [IS〈Infinite Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")（／[okiura](https://zh.wikipedia.org/wiki/okiura "wikilink")）
   - [我的朋友很少](../Page/我的朋友很少.md "wikilink")（[平坂讀](../Page/平坂讀.md "wikilink")／）
   - [迷茫管家與膽怯的我](../Page/迷茫管家與膽怯的我.md "wikilink")（[朝野始](../Page/朝野始.md "wikilink")／[菊池政治](../Page/菊池政治.md "wikilink")）
   - [蒼柩的青金石](../Page/蒼柩的青金石.md "wikilink")（[朝野始](../Page/朝野始.md "wikilink")／[菊池政治](../Page/菊池政治.md "wikilink")）
@@ -183,8 +176,7 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
 ## 外部連結
 
   - [MF文庫J官方網站](http://www.mediafactory.co.jp/bunkoj/index.html)
-  - [MF文庫J | ストリエ](https://storie.jp/official/channel/mfbunkoj) -
-    Web小說連載
+  - [MF文庫J | ストリエ](https://storie.jp/official/channel/mfbunkoj) - Web小說連載
   - [尖端出版](http://www.spp.com.tw/)
   - [東立漫遊網](http://www.tongli.com.tw)
   - [銘顯文化](https://web.archive.org/web/20131205234405/http://www.ezla.com.tw/)

@@ -1,5 +1,4 @@
-**J级常规动力飞航导弹潜艇（苏俄代号：651级。[北约代号](https://zh.wikipedia.org/wiki/北约代号 "wikilink")：Juliett
-Class，另“茱莉叶级”、“朱莉叶级”）**是苏联研制的第一个独立级别的以巡航导弹为主武器的潜艇，J级由[W级潜艇改装型号发展而来](https://zh.wikipedia.org/wiki/W级潜艇 "wikilink")。最初计划建造35艘，实际建造16艘，全部J级潜艇于1992年以前除役。
+**J级常规动力飞航导弹潜艇（苏俄代号：651级。[北约代号](https://zh.wikipedia.org/wiki/北约代号 "wikilink")：Juliett Class，另“茱莉叶级”、“朱莉叶级”）**是苏联研制的第一个独立级别的以巡航导弹为主武器的潜艇，J级由[W级潜艇改装型号发展而来](https://zh.wikipedia.org/wiki/W级潜艇 "wikilink")。最初计划建造35艘，实际建造16艘，全部J级潜艇于1992年以前除役。
 
 ## 历史
 
@@ -22,8 +21,7 @@ J级潜艇的结构基本上沿袭了[W级潜艇的设计](https://zh.wikipedia.
 7.  电机舱
 8.  艉鱼雷舱
 
-最早J级装备的是P-5“柚子”反航母飞航式导弹（SS-N-3A）搭载核弹头作为主武器，后来被P-500玄武岩/SS-N-12沙箱[反舰巡航导弹取代](https://zh.wikipedia.org/wiki/反舰巡航导弹 "wikilink")。
-P-500拥有比较精确的制导能力，使得反舰导弹不需要再使用核弹头作为战斗部。但是P-500仍然不能进行潜射。也就是说J级潜艇的主武器发射是需要上浮发射的。更加重要的是，每次导弹发射间隔大约为10分钟，也就是全部4发导弹发射出去需要大概40分钟的时间。这已经足以让对方航母战斗群的反潜兵力消灭了。
+最早J级装备的是P-5“柚子”反航母飞航式导弹（SS-N-3A）搭载核弹头作为主武器，后来被P-500玄武岩/SS-N-12沙箱[反舰巡航导弹取代](https://zh.wikipedia.org/wiki/反舰巡航导弹 "wikilink")。 P-500拥有比较精确的制导能力，使得反舰导弹不需要再使用核弹头作为战斗部。但是P-500仍然不能进行潜射。也就是说J级潜艇的主武器发射是需要上浮发射的。更加重要的是，每次导弹发射间隔大约为10分钟，也就是全部4发导弹发射出去需要大概40分钟的时间。这已经足以让对方航母战斗群的反潜兵力消灭了。
 
 J级计划建造35艘，实际制造16艘，首舰K-156艇于1960年11月16日开始在高尔基造船厂建造，但后来苏联的核动力潜艇技术成熟，加之J级潜艇战斗力的限制，J级的战斗任务很快被后来服役的[E-1级和](../Page/E级核潜艇.md "wikilink")[E-2级核动力潜艇替代](../Page/E级核潜艇.md "wikilink")。此后以每年两艘的速度投入建造，到1969年停造。
 
@@ -31,9 +29,7 @@ J级计划建造35艘，实际制造16艘，首舰K-156艇于1960年11月16日�
 
 ## 参考及外部链接
 
-  - [article in English from
-    FAS](http://www.fas.org/nuke/guide/russia/theater/651.htm)
+  - [article in English from FAS](http://www.fas.org/nuke/guide/russia/theater/651.htm)
   - [Article in Russian](http://ship.bsu.by/main.asp?id=101388)
 
-[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
-[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
+[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink") [Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")

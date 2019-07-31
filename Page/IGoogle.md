@@ -12,9 +12,7 @@
 
 ## 終止服務
 
-2012年7月4日，谷歌宣布将关闭iGoogle个性化主页、Talk Chatback、Google Mini、Google
-Video、Symbian
-Search等五款产品。鉴于igoogle用户群庞大，谷歌表示2012年7月31日先關閉移動版iGoogle、2013年11月1日关闭iGoogle網頁版\[1\]。
+2012年7月4日，谷歌宣布将关闭iGoogle个性化主页、Talk Chatback、Google Mini、Google Video、Symbian Search等五款产品。鉴于igoogle用户群庞大，谷歌表示2012年7月31日先關閉移動版iGoogle、2013年11月1日关闭iGoogle網頁版\[1\]。
 
 ## 参见
 
@@ -35,13 +33,9 @@ Search等五款产品。鉴于igoogle用户群庞大，谷歌表示2012年7月31
 
   - [天气](http://www.google.com/ig/directory?url=builtin_weather.xml)／[日期和时间](http://www.google.com/ig/directory?url=datetime.xml)／[Gmail](http://www.google.com/ig/directory?url=builtin_gmail.xml)／[日历](http://www.google.com/ig/directory?url=calendar2.xml)／[Google群组](http://www.google.com/ig/directory?url=mygroups.xml)
     [Picasa](http://www.google.com/ig/directory?url=mapplets-picasa.xml)／[Google软件推荐](http://www.google.com/ig/directory?url=toolspromo.xml)／[Youtube](http://www.google.com/ig/directory?url=youtube_videos.xml)／[待办事项](http://www.google.com/ig/directory?url=todo.xml)
-    [Google
-    地圖搜尋](http://www.google.com/ig/directory?url=mapsearch.xml)／[消色块游戏](http://www.google.com/ig/directory?url=colorjunction.xml)／[Picasa
-    Web Photos](http://www.google.com/ig/directory?url=picasa.xml)
+    [Google 地圖搜尋](http://www.google.com/ig/directory?url=mapsearch.xml)／[消色块游戏](http://www.google.com/ig/directory?url=colorjunction.xml)／[Picasa Web Photos](http://www.google.com/ig/directory?url=picasa.xml)
     [Google工具箱](http://www.google.com/ig/directory?url=compound.xml)／[书签](http://www.google.com/ig/directory?url=builtin_bookmarks.xml)／[便条纸](http://www.google.com/ig/directory?url=sticky.xml)／[新闻焦点](http://www.google.com/ig/directory?url=builtin_news_topstories.xml)
-    [自動翻譯](http://www.google.com/ig/directory?url=dictionary.xml)／[Google
-    筆記本](http://www.google.com/ig/directory?url=notebook.xml)／[Google
-    News](http://www.google.com/ig/directory?url=tabnews.xml)
+    [自動翻譯](http://www.google.com/ig/directory?url=dictionary.xml)／[Google 筆記本](http://www.google.com/ig/directory?url=notebook.xml)／[Google News](http://www.google.com/ig/directory?url=tabnews.xml)
 
 ### API作者为Google中国官方的小工具
 
@@ -50,5 +44,4 @@ Search等五款产品。鉴于igoogle用户群庞大，谷歌表示2012年7月31
 
 [Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink")
 
-1.  [iGoogle
-    的下一步？](http://support.google.com/websearch/bin/answer.py?hl=zh-Hant&answer=2664197)
+1.  [iGoogle 的下一步？](http://support.google.com/websearch/bin/answer.py?hl=zh-Hant&answer=2664197)

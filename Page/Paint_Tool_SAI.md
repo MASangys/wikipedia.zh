@@ -2,8 +2,7 @@
 
 ## 名称
 
-软件日文名称为“****”，英文官方网站多用名称为“****”，英文、日文官方网站也同时使用“**Easy PaintTool
-SAI**”的名称，但比**PaintTool SAI**少。以上三种名称同时被官方网站使用。
+软件日文名称为“****”，英文官方网站多用名称为“****”，英文、日文官方网站也同时使用“**Easy PaintTool SAI**”的名称，但比**PaintTool SAI**少。以上三种名称同时被官方网站使用。
 
 另外，正式出版物“ペイントツールSAI公式ガイド”（SAI官方指南）将其名称拼写为“**PAINT TOOL SAI**”。
 
@@ -29,8 +28,7 @@ SAI沒有[文本](https://zh.wikipedia.org/wiki/文本 "wikilink")、渐变、[�
 
   - SAI特有的二进制格式（.sai）
   - [Adobe Photoshop格式](../Page/Adobe_Photoshop.md "wikilink")（.psd）
-  - [Windows
-    bitmap格式](https://zh.wikipedia.org/wiki/Windows_bitmap "wikilink")（.bmp）
+  - [Windows bitmap格式](https://zh.wikipedia.org/wiki/Windows_bitmap "wikilink")（.bmp）
   - [JPEG](../Page/JPEG.md "wikilink")（.jpg）
   - [PNG](https://zh.wikipedia.org/wiki/Portable_Network_Graphics "wikilink")（.png）
   - [TGA](https://zh.wikipedia.org/wiki/TGA "wikilink")（.tga）

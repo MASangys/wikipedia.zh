@@ -1,7 +1,4 @@
-**Sharp
-SX862**的[屏幕設計使用多項技術](https://zh.wikipedia.org/wiki/屏幕 "wikilink")，包括[VGA](https://zh.wikipedia.org/wiki/VGA "wikilink")
-[解像度及](https://zh.wikipedia.org/wiki/解像度 "wikilink")2000:1對比度。除擁3.2吋屏幕，更可以16:9全闊屏幕觀賞VGA
-質素影片，屏幕更可旋轉至T型模式。
+**Sharp SX862**的[屏幕設計使用多項技術](https://zh.wikipedia.org/wiki/屏幕 "wikilink")，包括[VGA](https://zh.wikipedia.org/wiki/VGA "wikilink") [解像度及](https://zh.wikipedia.org/wiki/解像度 "wikilink")2000:1對比度。除擁3.2吋屏幕，更可以16:9全闊屏幕觀賞VGA 質素影片，屏幕更可旋轉至T型模式。
 
 |       |                                                                                                                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,24 +17,19 @@ SX862**的[屏幕設計使用多項技術](https://zh.wikipedia.org/wiki/屏幕 
 
 ## 歷史
 
-Sharp SX862是2007年底在[日本發行的Sharp](../Page/日本.md "wikilink")
-920SH的國際版。在[香港](../Page/香港.md "wikilink")，Sharp
-SX862由SmarTone-Vodafone獨家發售。
+Sharp SX862是2007年底在[日本](../Page/日本.md "wikilink")發行的Sharp 920SH的國際版。在[香港](../Page/香港.md "wikilink")，Sharp SX862由SmarTone-Vodafone獨家發售。
 
 ## 特色
 
 ### 屏幕
 
-Sharp SX862有3.2” 特大AQUOS液晶屏幕（854 x 480像素），提供 VGA高解像及2000:1對比度。 屏幕以CG
-silicon技術製造，在光亮的環境下，仍可觀看高清畫質。
+Sharp SX862有3.2” 特大AQUOS液晶屏幕（854 x 480像素），提供 VGA高解像及2000:1對比度。 屏幕以CG silicon技術製造，在光亮的環境下，仍可觀看高清畫質。
 
-液晶顯示屏採用Mobile Advance
-Superview技術，可視角度達160度。從正面90度角觀看屏幕或從側面160度角觀看，畫面均不受反射的眩光所影響。
+液晶顯示屏採用Mobile Advance Superview技術，可視角度達160度。從正面90度角觀看屏幕或從側面160度角觀看，畫面均不受反射的眩光所影響。
 
 ### 多媒體播放器
 
-Sharp SX862
-內置多媒體播放器及高解像度的VGA屏幕。功能猶如DVD，備有快速前進、回轉及暫停等功能，配合時間搜畫功能，只須一按即可在上次停播位置立即開始播放。
+Sharp SX862 內置多媒體播放器及高解像度的VGA屏幕。功能猶如DVD，備有快速前進、回轉及暫停等功能，配合時間搜畫功能，只須一按即可在上次停播位置立即開始播放。
 
 用家可透過SmarTone-Vodafone的Vboxx或從任何其他來源，轉載影片、短片或電視節目等內容到Sharp SX862。
 
@@ -45,9 +37,7 @@ Sharp SX862更支援多種格式如MP3、AAC+、eAAC+、AAC、及M4A 等。
 
 ### 互聯網
 
-Sharp SX862 支援 HSDPA
-3.6Mbps極速上網，並可以用橫向全屏幕顯示網頁内容。用家更可以分頁功能，同時開啓三個不同網頁；另外，可選擇游標模式，猶如滑鼠在手；或以直按模式，快速選擇連結。
-用家更可使用快速放大功能，以便細閲網頁内容。
+Sharp SX862 支援 HSDPA 3.6Mbps極速上網，並可以用橫向全屏幕顯示網頁内容。用家更可以分頁功能，同時開啓三個不同網頁；另外，可選擇游標模式，猶如滑鼠在手；或以直按模式，快速選擇連結。 用家更可使用快速放大功能，以便細閲網頁内容。
 
 ### 攝錄機
 
@@ -86,10 +76,8 @@ Sharp SX862有3.2百萬像素鏡頭，其他功能包括自動對焦、自動曝
 
 ## 參考
 
-  - [SmarTone-Vodafone Sharp SX862
-    官方網頁](http://www.smartone-vodafone.com/sharp-sx862/index_c.html)
-  - [Sharp SX862
-    官方規格表](http://www.smartone-vodafone.com/jsp/phone/tchinese/detail_v2.jsp?id=898)
+  - [SmarTone-Vodafone Sharp SX862 官方網頁](http://www.smartone-vodafone.com/sharp-sx862/index_c.html)
+  - [Sharp SX862 官方規格表](http://www.smartone-vodafone.com/jsp/phone/tchinese/detail_v2.jsp?id=898)
   - [Sharp SX862 在Youtube](http://www.youtube.com/watch?v=sM2ahHhLQf4)
   - [Sharp SX862 短片轉載示範](http://www.youtube.com/watch?v=mjqxHGODjQo)
 

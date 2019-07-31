@@ -1,5 +1,4 @@
-**约翰·布赖恩·泰勒**（John Brian Taylor
-，），[美国](../Page/美国.md "wikilink")[货币政策方面的专家](https://zh.wikipedia.org/wiki/货币 "wikilink")。
+**约翰·布赖恩·泰勒**（John Brian Taylor ，），[美国](../Page/美国.md "wikilink")[货币政策方面的专家](https://zh.wikipedia.org/wiki/货币 "wikilink")。
 
 ## 生平
 
@@ -9,16 +8,8 @@
 
 ## 外部链接
 
-  - [Taylor's Official Web Site
-    泰勒官方站（英文）](http://www.stanford.edu/~johntayl/)
+  - [Taylor's Official Web Site 泰勒官方站（英文）](http://www.stanford.edu/~johntayl/)
 
-[Category:美国经济学家](https://zh.wikipedia.org/wiki/Category:美国经济学家 "wikilink")
-[Category:货币经济学家](https://zh.wikipedia.org/wiki/Category:货币经济学家 "wikilink")
-[Category:经济计量学会会士](https://zh.wikipedia.org/wiki/Category:经济计量学会会士 "wikilink")
-[Category:史丹佛大學校友](https://zh.wikipedia.org/wiki/Category:史丹佛大學校友 "wikilink")
-[Category:普林斯頓大學校友](https://zh.wikipedia.org/wiki/Category:普林斯頓大學校友 "wikilink")
-[Category:史丹佛大学教师](https://zh.wikipedia.org/wiki/Category:史丹佛大学教师 "wikilink")
-[Category:纽约州人](https://zh.wikipedia.org/wiki/Category:纽约州人 "wikilink")
-[Category:胡佛研究所人物](https://zh.wikipedia.org/wiki/Category:胡佛研究所人物 "wikilink")
+[Category:美国经济学家](https://zh.wikipedia.org/wiki/Category:美国经济学家 "wikilink") [Category:货币经济学家](https://zh.wikipedia.org/wiki/Category:货币经济学家 "wikilink") [Category:经济计量学会会士](https://zh.wikipedia.org/wiki/Category:经济计量学会会士 "wikilink") [Category:史丹佛大學校友](https://zh.wikipedia.org/wiki/Category:史丹佛大學校友 "wikilink") [Category:普林斯頓大學校友](https://zh.wikipedia.org/wiki/Category:普林斯頓大學校友 "wikilink") [Category:史丹佛大学教师](https://zh.wikipedia.org/wiki/Category:史丹佛大学教师 "wikilink") [Category:纽约州人](https://zh.wikipedia.org/wiki/Category:纽约州人 "wikilink") [Category:胡佛研究所人物](https://zh.wikipedia.org/wiki/Category:胡佛研究所人物 "wikilink")
 
 1.

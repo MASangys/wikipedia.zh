@@ -1,4 +1,4 @@
-《**星际旅行III：石破天惊**》（），是一部由[派拉蒙影业于](https://zh.wikipedia.org/wiki/派拉蒙影业 "wikilink")1984年拍摄的[电影](../Page/电影.md "wikilink")，该部电影是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》[科幻系列的第](https://zh.wikipedia.org/wiki/科幻 "wikilink")3部电影。在西方通常简写作“ST3:TSFS”或者“TSFS”。这部电影是[三部曲的中篇](../Page/三部曲.md "wikilink")：接续上部电影《[可汗怒吼](https://zh.wikipedia.org/wiki/可汗怒吼 "wikilink")》，并由下一部电影《[抢救未来](https://zh.wikipedia.org/wiki/抢救未来 "wikilink")》完结。
+《**星际旅行III：石破天惊**》（），是一部由[派拉蒙影业于](https://zh.wikipedia.org/wiki/派拉蒙影业 "wikilink")1984年拍摄的[电影](../Page/电影.md "wikilink")，该部电影是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》[科幻系列的第](https://zh.wikipedia.org/wiki/科幻 "wikilink")3部电影。在西方通常简写作“ST3:TSFS”或者“TSFS”。这部电影是[三部曲](../Page/三部曲.md "wikilink")的中篇：接续上部电影《[可汗怒吼](https://zh.wikipedia.org/wiki/可汗怒吼 "wikilink")》，并由下一部电影《[抢救未来](https://zh.wikipedia.org/wiki/抢救未来 "wikilink")》完结。
 
 ## 角色
 
@@ -6,7 +6,7 @@
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [威廉·夏特纳](../Page/威廉·夏特纳.md "wikilink")                          | [詹姆斯·柯克上将](https://zh.wikipedia.org/wiki/詹姆斯·泰比里厄斯·柯克 "wikilink")                                                     |
 | [伦纳德·尼莫伊](../Page/伦纳德·尼莫伊.md "wikilink")                        | [斯波克上校](https://zh.wikipedia.org/wiki/斯波克 "wikilink")／[联邦星舰精进号电脑语音](https://zh.wikipedia.org/wiki/联邦星舰精进号 "wikilink") |
-| [德福雷斯特·凯利](https://zh.wikipedia.org/wiki/德福雷斯特·凯利 "wikilink")   | [伦纳德·麦科伊中校](../Page/伦纳德·麦科伊.md "wikilink")（医生）                                                                        |
+| [德福雷斯特·凯利](https://zh.wikipedia.org/wiki/德福雷斯特·凯利 "wikilink")   | [伦纳德·麦科伊](../Page/伦纳德·麦科伊.md "wikilink")中校（医生）                                                                        |
 | [詹姆斯·杜汉](https://zh.wikipedia.org/wiki/詹姆斯·杜汉 "wikilink")       | [蒙哥马利·斯科特中校](https://zh.wikipedia.org/wiki/蒙哥马利·斯科特 "wikilink")／上校                                                    |
 | [乔治·竹井](https://zh.wikipedia.org/wiki/乔治·竹井 "wikilink")         | [光·苏鲁中校](https://zh.wikipedia.org/wiki/光·苏鲁 "wikilink")                                                               |
 | [沃尔特·凯尼格](https://zh.wikipedia.org/wiki/沃尔特·凯尼格 "wikilink")     | [帕维尔·切科夫中校](https://zh.wikipedia.org/wiki/帕维尔·切科夫 "wikilink")                                                         |
@@ -30,7 +30,7 @@
 
 ## 剧情概要
 
-2285年，在与[可汗的战斗中损坏的](../Page/可汗·努尼恩·辛格.md "wikilink")[联邦星舰进取号](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701\) "wikilink")，返回了[地球的太空港以进行维修](../Page/地球.md "wikilink")。[柯克还在为](https://zh.wikipedia.org/wiki/詹姆斯·柯克 "wikilink")[斯波克的死感到悲伤](https://zh.wikipedia.org/wiki/斯波克 "wikilink")。[麦科伊医生出现了种种异常的行为](../Page/伦纳德·麦科伊.md "wikilink")：如擅自闯入被封锁的斯波克原来的舱房、胡言乱语等，最后他被送进了医院进行精神检查。[斯科提被另分派到了](https://zh.wikipedia.org/wiki/蒙哥马利·斯科特 "wikilink")[联邦星舰精进号](https://zh.wikipedia.org/wiki/联邦星舰精进号 "wikilink")。[星际舰队指挥部对新形成的](../Page/星际舰队.md "wikilink")[创世星下达了禁入令](https://zh.wikipedia.org/wiki/创世计划 "wikilink")。柯克被告知，进取号即将除役。
+2285年，在与[可汗的战斗中损坏的](../Page/可汗·努尼恩·辛格.md "wikilink")[联邦星舰进取号](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701\) "wikilink")，返回了[地球](../Page/地球.md "wikilink")的太空港以进行维修。[柯克还在为](https://zh.wikipedia.org/wiki/詹姆斯·柯克 "wikilink")[斯波克的死感到悲伤](https://zh.wikipedia.org/wiki/斯波克 "wikilink")。[麦科伊医生出现了种种异常的行为](../Page/伦纳德·麦科伊.md "wikilink")：如擅自闯入被封锁的斯波克原来的舱房、胡言乱语等，最后他被送进了医院进行精神检查。[斯科提被另分派到了](https://zh.wikipedia.org/wiki/蒙哥马利·斯科特 "wikilink")[联邦星舰精进号](https://zh.wikipedia.org/wiki/联邦星舰精进号 "wikilink")。[星际舰队](../Page/星际舰队.md "wikilink")指挥部对新形成的[创世星下达了禁入令](https://zh.wikipedia.org/wiki/创世计划 "wikilink")。柯克被告知，进取号即将除役。
 
 斯波克的父亲[沙瑞克找到柯克并告诉他](https://zh.wikipedia.org/wiki/沙瑞克 "wikilink")，斯波克的遗体必须返回[瓦肯星](https://zh.wikipedia.org/wiki/瓦肯星 "wikilink")，否则他的灵魂就不得安息。沙瑞克要求柯克必须回到创世星，寻回斯波克的遗棺并将它带回瓦肯星——而斯波克临死前与麦科伊进行了[心灵融合](https://zh.wikipedia.org/wiki/心灵融合 "wikilink")，因此带有斯波克灵魂的麦科伊也必须前往瓦肯星。
 
@@ -40,19 +40,17 @@
 
 在[联邦星舰葛瑞森号上](https://zh.wikipedia.org/wiki/联邦星舰葛瑞森号 "wikilink")，[戴维·马库斯博士与](https://zh.wikipedia.org/wiki/戴维·马库斯 "wikilink")[莎维可上尉在创世星的轨道上进行着科学观测](https://zh.wikipedia.org/wiki/莎维可 "wikilink")。他们很快便在地面上发现了生命形式，出于好奇心的驱使，他们俩传送上了星球表面并发现了斯波克空荡的遗棺。循着生命形式的读数，他们发现了幼年斯波克的活体：成长速度奇快，但却没有意识或灵魂。
 
-克林贡人在此时也抵达了创世星，他们摧毁了葛瑞森号并抓获莎维可、马库斯和少年的斯波克作为人质。不一会，进取号也抵达穆塔拉星区（Mutara
-Sector），很快就被克鲁格与他的一群克林贡战士攻击到瘫痪。由于克林贡人威胁将夺去人质的生命，柯克使用了一个计谋来重新掌控局势，但并未成功。戴维·马库斯随后被克林贡人杀害。由于没有其他的选择，柯克只得向克林贡人投降。柯克为了重新占据上风，冒死一搏啟動了进取号的自毁程序。进取号的船员随后传送上了创世星，目睹着进取号在一片亮光中毁灭，同时也捎带上了克鲁格大部分的战士。
+克林贡人在此时也抵达了创世星，他们摧毁了葛瑞森号并抓获莎维可、马库斯和少年的斯波克作为人质。不一会，进取号也抵达穆塔拉星区（Mutara Sector），很快就被克鲁格与他的一群克林贡战士攻击到瘫痪。由于克林贡人威胁将夺去人质的生命，柯克使用了一个计谋来重新掌控局势，但并未成功。戴维·马库斯随后被克林贡人杀害。由于没有其他的选择，柯克只得向克林贡人投降。柯克为了重新占据上风，冒死一搏啟動了进取号的自毁程序。进取号的船员随后传送上了创世星，目睹着进取号在一片亮光中毁灭，同时也捎带上了克鲁格大部分的战士。
 
 柯克最终与他的团队从克林贡人手中营救了斯波克与莎维可，并在与克鲁格的一对一战斗中杀死了他。由于创世星独特的力量，斯波克的遗体得以重生，并随着创世星衰老的速度迅速地成长。在离开不稳定的创世星时，斯波克刚好达到死亡前的年龄。在登上夺来的猛禽舰时，创世星开始了剧烈的爆炸。
 
-在沙瑞克的庇护下，猛禽舰抵达了瓦肯星。在经历了危险的“浮圖邦術”仪式后，斯波克的灵魂离开了麦科伊的意识回到了自己的身体中。仪式最终成功，复活的斯波克开始重新回忆他的过去与朋友。他问进取号的船员们，为什么要冒着失去生命与毁掉事业的危险营救他；柯克告诉他，有些时候需要“牺牲大我，成全小我”（needs
-of the one outweigh the needs of the many）。\[1\]
+在沙瑞克的庇护下，猛禽舰抵达了瓦肯星。在经历了危险的“浮圖邦術”仪式后，斯波克的灵魂离开了麦科伊的意识回到了自己的身体中。仪式最终成功，复活的斯波克开始重新回忆他的过去与朋友。他问进取号的船员们，为什么要冒着失去生命与毁掉事业的危险营救他；柯克告诉他，有些时候需要“牺牲大我，成全小我”（needs of the one outweigh the needs of the many）。\[1\]
 
 ## 制作
 
 ### 导演
 
-在《星际旅行II：可汗怒吼》取得巨大成功后，派拉蒙邀请[哈维·贝内特和](https://zh.wikipedia.org/wiki/哈维·贝内特 "wikilink")[尼古拉斯·迈耶继续为第三部电影出力](../Page/尼古拉斯·迈耶.md "wikilink")。贝内特接受了邀请；迈耶则因对斯波克复活的剧情不感兴趣而婉拒了邀请。最后，斯波克的扮演者[伦纳德·尼莫伊被确定为第三部电影的导演](../Page/伦纳德·尼莫伊.md "wikilink")。\[2\]伦纳德·尼莫伊后来也表示，在写作剧本、拍摄场景、选择角色的过程中，他与哈维·贝内特常常会有一些分歧，但他不能否认贝内特是一个非常有能力的人。\[3\]
+在《星际旅行II：可汗怒吼》取得巨大成功后，派拉蒙邀请[哈维·贝内特和](https://zh.wikipedia.org/wiki/哈维·贝内特 "wikilink")[尼古拉斯·迈耶](../Page/尼古拉斯·迈耶.md "wikilink")继续为第三部电影出力。贝内特接受了邀请；迈耶则因对斯波克复活的剧情不感兴趣而婉拒了邀请。最后，斯波克的扮演者[伦纳德·尼莫伊](../Page/伦纳德·尼莫伊.md "wikilink")被确定为第三部电影的导演。\[2\]伦纳德·尼莫伊后来也表示，在写作剧本、拍摄场景、选择角色的过程中，他与哈维·贝内特常常会有一些分歧，但他不能否认贝内特是一个非常有能力的人。\[3\]
 
 ### 剧本
 
@@ -60,7 +58,7 @@ of the one outweigh the needs of the many）。\[1\]
 
 ### 选角
 
-在《石破天惊》中，莎维可这个角色要比前作《可汗怒吼》占有更重的分量，但遗憾的是，帕拉蒙未能说服[柯斯迪·艾黎继续出演这一角色](https://zh.wikipedia.org/wiki/柯斯迪·艾黎 "wikilink")。柯斯迪·艾黎曾说，派拉蒙给她的片酬少于第二部电影，因此她认为派拉蒙并不是十分在意要让她出演这个角色。最终，莎维可改由[罗宾·柯蒂斯出演](https://zh.wikipedia.org/wiki/罗宾·柯蒂斯 "wikilink")。\[6\]伦纳德·尼莫伊起初建议由[爱德华·詹姆斯·奥尔莫斯扮演克林贡指挥官克鲁格中校的角色](https://zh.wikipedia.org/wiki/爱德华·詹姆斯·奥尔莫斯 "wikilink")，但制片人哈维·贝内特与执行制片人[加里·纳尔迪诺否决了他的建议](https://zh.wikipedia.org/wiki/加里·纳尔迪诺 "wikilink")。后来，选择了[克里斯托弗·劳埃德扮演此角](../Page/克里斯托弗·劳埃德.md "wikilink")。\[7\][梅里特·巴特里克则再次出演柯克儿子](https://zh.wikipedia.org/wiki/梅里特·巴特里克 "wikilink")[戴维·马库斯一角](https://zh.wikipedia.org/wiki/戴维·马库斯 "wikilink")。\[8\]
+在《石破天惊》中，莎维可这个角色要比前作《可汗怒吼》占有更重的分量，但遗憾的是，帕拉蒙未能说服[柯斯迪·艾黎继续出演这一角色](https://zh.wikipedia.org/wiki/柯斯迪·艾黎 "wikilink")。柯斯迪·艾黎曾说，派拉蒙给她的片酬少于第二部电影，因此她认为派拉蒙并不是十分在意要让她出演这个角色。最终，莎维可改由[罗宾·柯蒂斯出演](https://zh.wikipedia.org/wiki/罗宾·柯蒂斯 "wikilink")。\[6\]伦纳德·尼莫伊起初建议由[爱德华·詹姆斯·奥尔莫斯扮演克林贡指挥官克鲁格中校的角色](https://zh.wikipedia.org/wiki/爱德华·詹姆斯·奥尔莫斯 "wikilink")，但制片人哈维·贝内特与执行制片人[加里·纳尔迪诺否决了他的建议](https://zh.wikipedia.org/wiki/加里·纳尔迪诺 "wikilink")。后来，选择了[克里斯托弗·劳埃德](../Page/克里斯托弗·劳埃德.md "wikilink")扮演此角。\[7\][梅里特·巴特里克则再次出演柯克儿子](https://zh.wikipedia.org/wiki/梅里特·巴特里克 "wikilink")[戴维·马库斯一角](https://zh.wikipedia.org/wiki/戴维·马库斯 "wikilink")。\[8\]
 
 ### 拍摄
 
@@ -97,14 +95,7 @@ of the one outweigh the needs of the many）。\[1\]
   -
   -
   -
-[Category:1984年電影](https://zh.wikipedia.org/wiki/Category:1984年電影 "wikilink")
-[Category:美國电影作品](https://zh.wikipedia.org/wiki/Category:美國电影作品 "wikilink")
-[Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink")
-[Category:星际旅行剧情](https://zh.wikipedia.org/wiki/Category:星际旅行剧情 "wikilink")
-[Category:派拉蒙影業電影](https://zh.wikipedia.org/wiki/Category:派拉蒙影業電影 "wikilink")
-[Category:冒险片](https://zh.wikipedia.org/wiki/Category:冒险片 "wikilink")
-[Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
+[Category:1984年電影](https://zh.wikipedia.org/wiki/Category:1984年電影 "wikilink") [Category:美國电影作品](https://zh.wikipedia.org/wiki/Category:美國电影作品 "wikilink") [Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink") [Category:星际旅行剧情](https://zh.wikipedia.org/wiki/Category:星际旅行剧情 "wikilink") [Category:派拉蒙影業電影](https://zh.wikipedia.org/wiki/Category:派拉蒙影業電影 "wikilink") [Category:冒险片](https://zh.wikipedia.org/wiki/Category:冒险片 "wikilink") [Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
 
 1.
 

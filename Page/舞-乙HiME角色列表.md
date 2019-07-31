@@ -1,9 +1,8 @@
-以下是[舞-乙HiME的登場人物](../Page/舞-乙HiME.md "wikilink")。
+以下是[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")的登場人物。
 
 ## Bühne自治區．加爾迪羅貝學園
 
-<span style="font-size:smaller;">（
-德文Bühne，指舞台；德文Garderobe，指劇場的後臺）</span>
+<span style="font-size:smaller;">（ 德文Bühne，指舞台；德文Garderobe，指劇場的後臺）</span>
 
 風花王國境內，面積小、擁有自治權、以乙HiME養成機構「加爾迪羅貝學園」為中心所構成的獨立國家。
 
@@ -164,8 +163,7 @@
 
 <span style="font-size:smaller;">（ Windbloom Kingdom，藍本為英國）</span>
 
-周邊各國當中，殘留著地球時代的技術的「世界學問的中心」，是各國中含有最高科技的國家。王家代代相傳的GEM為「孤高的紅翡翠」,因不能承受上一代MEISTER乙HiME-
-麗奈．賽雅斯力量而損壞。現在的GEM是麗奈家保存的移民歷前製造的SUPER MEISTER GEM「蒼天之青玉」。
+周邊各國當中，殘留著地球時代的技術的「世界學問的中心」，是各國中含有最高科技的國家。王家代代相傳的GEM為「孤高的紅翡翠」,因不能承受上一代MEISTER乙HiME- 麗奈．賽雅斯力量而損壞。現在的GEM是麗奈家保存的移民歷前製造的SUPER MEISTER GEM「蒼天之青玉」。
 
   - 夢宮．亞里香（　Arika Yumemiya）
     聲：[菊地美香](../Page/菊地美香.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
@@ -212,7 +210,7 @@
     擁有GEM．稱號：蒼天之青玉（Blue Sky Sapphire，起源：風花王國）
     主人：前風花王國國王
     亞里香的母親，在舞-乙HiME紀錄足以留下驚人紀錄的Meister，並且服侍風花王國長達十年，但因與心愛的人結合而喪失當乙HiME的資格，就此從乙HiME中退休。在原著第一集遭黎人打敗，遺體遭史密斯利用，製造出詛咒之黑曜石用來當作控制女武神部隊的真祖，是薛凱．王小時暗戀的對象。
-    角色的原型為[閃電霹靂車的結城麗奈](../Page/閃電霹靂車.md "wikilink")（結城レナ）
+    角色的原型為[閃電霹靂車](../Page/閃電霹靂車.md "wikilink")的結城麗奈（結城レナ）
 
 <!-- end list -->
 
@@ -389,8 +387,7 @@
   - 羅莎麗．克勞迪爾（ Rosalie Claudel）
     聲：[高橋美佳子](../Page/高橋美佳子.md "wikilink")
     出生國家：？
-    擁有GEM．稱號：清戀之孔雀石（Pure Heart Malachite，起源：佛羅倫斯）→深淵之翡翠（Abyssal Green
-    Jadeite，起源：佛羅倫斯）
+    擁有GEM．稱號：清戀之孔雀石（Pure Heart Malachite，起源：佛羅倫斯）→深淵之翡翠（Abyssal Green Jadeite，起源：佛羅倫斯）
     主人：佛羅倫斯國王—查理夏爾洛八世
     佛羅倫斯國王的乙HiME，原是清戀的孔雀石的擁有者但因茜與和也私奔而又用深淵的翡翠再次定下契約，在學園時是舞衣和夏樹的晚輩，在Zwei中還有參加隕石的擊落作戰，好像還沒退任，但不排除有與詩帆雙重契約的可能。
 
@@ -545,10 +542,8 @@
   -
     聲：[淺井清己](../Page/淺井清己.md "wikilink")
     出生國家：？
-    全名為『**M**erciful **I**ntelligential **Y**ggdrasil
-    **U**nit』（人性化高智能世界樹系統，其中Yggdrasil指的是北歐神話中連接天、地與地獄的巨樹）
-    穿著黑披風的一名神秘女性，扮演著相當重要的角色，有著許多就連加爾迪羅貝都不知道的知識，世世代代守候著艾莉莎小姐的人。肩膀上那隻金色小鳥好像是有著艾莉莎小姐基因的鳥，可使出『Artemis-黃金之劍』（Artemis指的是希臘神話中的月之女神），以及打開引導星，解除乙式契約的人造人，並且有反具現化裝置（Anti
-    Materializer），擁有比乙HiME還要強的實力。風華事變後在世界各地旅行。
+    全名為『**M**erciful **I**ntelligential **Y**ggdrasil **U**nit』（人性化高智能世界樹系統，其中Yggdrasil指的是北歐神話中連接天、地與地獄的巨樹）
+    穿著黑披風的一名神秘女性，扮演著相當重要的角色，有著許多就連加爾迪羅貝都不知道的知識，世世代代守候著艾莉莎小姐的人。肩膀上那隻金色小鳥好像是有著艾莉莎小姐基因的鳥，可使出『Artemis-黃金之劍』（Artemis指的是希臘神話中的月之女神），以及打開引導星，解除乙式契約的人造人，並且有反具現化裝置（Anti Materializer），擁有比乙HiME還要強的實力。風華事變後在世界各地旅行。
 
 <!-- end list -->
 
@@ -575,5 +570,4 @@
   - [維基百科(日) 舞-乙HiME](http://ja.wikipedia.org/wiki/舞-乙HiME)
   - [維基百科(英) 舞-乙HiME](http://en.wikipedia.org/wiki/My-Otome)
 
-[Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")

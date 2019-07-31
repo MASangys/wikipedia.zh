@@ -2,14 +2,11 @@
 
 ## 提要
 
-《非常偶像Key》是[波麗佳音OVA製作](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")10周年紀念OVA，僅發行[VHS](../Page/VHS.md "wikilink")版，[VCD](../Page/VCD.md "wikilink")版由[木棉花國際](../Page/木棉花國際.md "wikilink")代理發行，一卷VHS收錄一話，每話總長度為25分鐘。原本預計只製作13卷，最後2卷是追加製作的。第1卷售價為1000[日圓](../Page/日圓.md "wikilink")，這是破壞當時市場行情的超低價。[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")[英語版由](https://zh.wikipedia.org/wiki/英語 "wikilink")[VIZ
-Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播權由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[AXN](../Page/AXN.md "wikilink")取得，以[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[配音](../Page/配音.md "wikilink")播映，首播期間為1998年1月1日至1998年2月4日。2004年12月15日重新發行DVD-BOX。
+《非常偶像Key》是[波麗佳音OVA製作](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")10周年紀念OVA，僅發行[VHS](../Page/VHS.md "wikilink")版，[VCD](../Page/VCD.md "wikilink")版由[木棉花國際](../Page/木棉花國際.md "wikilink")代理發行，一卷VHS收錄一話，每話總長度為25分鐘。原本預計只製作13卷，最後2卷是追加製作的。第1卷售價為1000[日圓](../Page/日圓.md "wikilink")，這是破壞當時市場行情的超低價。[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")[英語版由](https://zh.wikipedia.org/wiki/英語 "wikilink")[VIZ Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播權由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[AXN](../Page/AXN.md "wikilink")取得，以[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[配音](../Page/配音.md "wikilink")播映，首播期間為1998年1月1日至1998年2月4日。2004年12月15日重新發行DVD-BOX。
 
 ## 故事簡介
 
-居住在鄉下小鎮猯尾谷的17歲機械少女巳真兔季子，某一天她的祖父巳真武羅尾意外身亡，臨終前只用錄音機留下了「只要交到三萬個真心的朋友就可以恢復成為人類」等遺言。
-兎季子為了實現祖父的遺言前往東京，因故巧遇在錄影帶出租店打工兼賣披薩的國中同學厨川櫻，當晚兎季子在小櫻打工的店內看見超人氣偶像歌手鬱瀬美浦的演唱會錄影帶後，決定也要成為一名偶像歌手。
-厨川櫻的朋友三和土州一出於好意，帶兔季子去看鬱瀬美浦的演唱會，卻意外引發兔季子的超能力。此後兔季子和小櫻逐漸發現，有一股不為人知的勢力為了奪取兔季子的超能力，向他們襲捲而來...
+居住在鄉下小鎮猯尾谷的17歲機械少女巳真兔季子，某一天她的祖父巳真武羅尾意外身亡，臨終前只用錄音機留下了「只要交到三萬個真心的朋友就可以恢復成為人類」等遺言。 兎季子為了實現祖父的遺言前往東京，因故巧遇在錄影帶出租店打工兼賣披薩的國中同學厨川櫻，當晚兎季子在小櫻打工的店內看見超人氣偶像歌手鬱瀬美浦的演唱會錄影帶後，決定也要成為一名偶像歌手。 厨川櫻的朋友三和土州一出於好意，帶兔季子去看鬱瀬美浦的演唱會，卻意外引發兔季子的超能力。此後兔季子和小櫻逐漸發現，有一股不為人知的勢力為了奪取兔季子的超能力，向他們襲捲而來...
 
 ## 制作
 
@@ -52,8 +49,7 @@ Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播
 
   -
     声：長沢美樹
-    兔季子的國中同學和青梅竹馬，與兔季子情同姊妹。為了尋找失蹤的父母親而前往東京，在錄影帶出租店打工並兼差外送披薩，曾被玉利仙市邀約成為AV女優但當場拒絕。Production
-    KEY的經紀人，盡全力協助兔季子完成她的夢想。身材姣好，性格直爽，很有女人味，對三和土州一有好感，但常被他叫錯名字「ちゅうかわ」（厨川的誤稱）。最終話被蛙杖工業綁架並抽取大量凝膠後不治。
+    兔季子的國中同學和青梅竹馬，與兔季子情同姊妹。為了尋找失蹤的父母親而前往東京，在錄影帶出租店打工並兼差外送披薩，曾被玉利仙市邀約成為AV女優但當場拒絕。Production KEY的經紀人，盡全力協助兔季子完成她的夢想。身材姣好，性格直爽，很有女人味，對三和土州一有好感，但常被他叫錯名字「ちゅうかわ」（厨川的誤稱）。最終話被蛙杖工業綁架並抽取大量凝膠後不治。
 
 <!-- end list -->
 
@@ -63,8 +59,7 @@ Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播
 
   -
     声：森川智之
-    鬱瀬美浦後援會會長，個性開朗的青年，是個御宅族，對厨川有好感。在鬱瀬美浦的演唱會上目擊兔季子的超能力之後，開始發掘兔季子，Production
-    Minos和蛙杖重工的秘密，最後和若木一同參與破壞巨蛋演唱會的行動，拼死幫助兔季子恢復成為正常人。
+    鬱瀬美浦後援會會長，個性開朗的青年，是個御宅族，對厨川有好感。在鬱瀬美浦的演唱會上目擊兔季子的超能力之後，開始發掘兔季子，Production Minos和蛙杖重工的秘密，最後和若木一同參與破壞巨蛋演唱會的行動，拼死幫助兔季子恢復成為正常人。
 
 <!-- end list -->
 
@@ -94,8 +89,7 @@ Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播
 
   -
     声：速水奨
-    蛙杖重工的總裁，對自律機械人有著狂熱的愛好，某一次因緣際會見識到巳真家族操控木偶的超能力後便極力遊說武羅尾合作開發以超能力（意志之力）為動力的自律機械人，但屢遭武羅尾拒絕。其後以各種手段威脅武羅尾交出研究成果，並以此為基礎開發出軍用以及仿真人的PPOR。接下來成立了Production
-    Minos，將仿美浦的PPOR搬上演唱會舞台測試。對兔季子的能力相當有興趣但也很忌憚，最終話為了要突破凝膠實驗的瓶頸，一口氣抽取整個演唱會場上萬名觀眾的凝膠來操作PPOR卻遭到兔季子釋出的強大意志反噬，死狀悽慘。
+    蛙杖重工的總裁，對自律機械人有著狂熱的愛好，某一次因緣際會見識到巳真家族操控木偶的超能力後便極力遊說武羅尾合作開發以超能力（意志之力）為動力的自律機械人，但屢遭武羅尾拒絕。其後以各種手段威脅武羅尾交出研究成果，並以此為基礎開發出軍用以及仿真人的PPOR。接下來成立了Production Minos，將仿美浦的PPOR搬上演唱會舞台測試。對兔季子的能力相當有興趣但也很忌憚，最終話為了要突破凝膠實驗的瓶頸，一口氣抽取整個演唱會場上萬名觀眾的凝膠來操作PPOR卻遭到兔季子釋出的強大意志反噬，死狀悽慘。
 
 <!-- end list -->
 
@@ -125,8 +119,7 @@ Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播
 
   -
     声：芝原チヤコ
-    吊木光一手調教出來的超人氣偶像，與吊木光決裂後息影一陣子，復出後加入Production
-    Minos，但實際上是操縱仿造她外型的PPOR在舞台上表演。因為長期操縱PPOR加上兔季子幾次破壞機器人導致身體狀況越來越差，最後身體負擔過重而住院治療。
+    吊木光一手調教出來的超人氣偶像，與吊木光決裂後息影一陣子，復出後加入Production Minos，但實際上是操縱仿造她外型的PPOR在舞台上表演。因為長期操縱PPOR加上兔季子幾次破壞機器人導致身體狀況越來越差，最後身體負擔過重而住院治療。
 
 <!-- end list -->
 
@@ -223,8 +216,7 @@ Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播
 <!-- end list -->
 
   -
-    蛙杖重工秘密開發的自律型機器人，全名「Psychological Power Operate
-    Robot」，以凝膠作為動力源，操縱者需要在特殊的機台上以精神波遙控操作。由於動力源是「人的意志」，因此機器人常常暴走不受控制，或是攻擊操縱者本人。此外PPOR需要強大的精神力才能駕馭，對操縱者的身心是個極大的負擔。
+    蛙杖重工秘密開發的自律型機器人，全名「Psychological Power Operate Robot」，以凝膠作為動力源，操縱者需要在特殊的機台上以精神波遙控操作。由於動力源是「人的意志」，因此機器人常常暴走不受控制，或是攻擊操縱者本人。此外PPOR需要強大的精神力才能駕馭，對操縱者的身心是個極大的負擔。
 
 <!-- end list -->
 
@@ -262,7 +254,4 @@ Media發行](https://zh.wikipedia.org/wiki/VIZ_Media "wikilink")。[台灣首播
 
   - [《非常偶像Key》官方網站](https://web.archive.org/web/20060203050413/http://pierrot.jp/title/key/)
 
-[Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink")
-[Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
+[Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink") [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")

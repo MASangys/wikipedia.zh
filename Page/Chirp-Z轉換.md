@@ -1,7 +1,4 @@
-**啁啾-Z轉換**（Chirp-Z
-transform）為[離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")（DFT）的一般化，是一種適合於計算當**取樣頻率間隔**（**sampling
-frequency interval**）與**取樣時間間隔**（**sampling time
-interval**）乘積的倒數**不等於**[信號的時頻分佈面積時的](https://zh.wikipedia.org/wiki/信號 "wikilink")**演算法**，其為利用[卷积來實現任意大小的](../Page/卷积.md "wikilink")[離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")（DFT）的[快速傅立葉變換演算法](https://zh.wikipedia.org/wiki/快速傅立葉變換 "wikilink")。
+**啁啾-Z轉換**（Chirp-Z transform）為[離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")（DFT）的一般化，是一種適合於計算當**取樣頻率間隔**（**sampling frequency interval**）與**取樣時間間隔**（**sampling time interval**）乘積的倒數**不等於**[信號的時頻分佈面積時的](https://zh.wikipedia.org/wiki/信號 "wikilink")**演算法**，其為利用[卷积](../Page/卷积.md "wikilink")來實現任意大小的[離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")（DFT）的[快速傅立葉變換演算法](https://zh.wikipedia.org/wiki/快速傅立葉變換 "wikilink")。
 
 具體來說，啁啾-Z轉換沿著對數螺旋輪廓，計算出有限數量的點 z<sub>k</sub> 的Z轉換，其定義如下：
 
@@ -51,32 +48,15 @@ k = 0,\dots,N-1.\]
 
 如此即可得到不同頻率成分的\(X_k\)。
 
-此卷積動作可以透過卷積理論所實現，其中，由於這些快速傅立葉轉換結果的長度 *N*
-不同，導致我們必須透過補零的方式，將快速傅立葉轉換的結果補至長度大於或等於
-*2N - 1*，才能精確計算其卷積結果。此外，布魯斯坦演算法提供一個時間複雜度為 O(*N* log *N*)
-的方式計算質數大小的離散傅立葉轉換。
+此卷積動作可以透過卷積理論所實現，其中，由於這些快速傅立葉轉換結果的長度 *N* 不同，導致我們必須透過補零的方式，將快速傅立葉轉換的結果補至長度大於或等於 *2N - 1*，才能精確計算其卷積結果。此外，布魯斯坦演算法提供一個時間複雜度為 O(*N* log *N*) 的方式計算質數大小的離散傅立葉轉換。
 
-在布魯斯坦演算法的卷積過程中使用補零的方式是值得討論的。如果我們將訊號補至長度為 *M* ≥ 2*N*–1，代表
-*a*<sub>*n*</sub> 被擴展至長度為 *M* 的陣列 *A*<sub>*n*</sub>，其中當 0 ≤ *n* \< *N*
-時，*A*<sub>*n*</sub> = *a*<sub>*n*</sub>，否則 *A*<sub>*n*</sub> =
-0。然而，基於卷積中的 *b*<sub>*k*–*n*</sub> 項， *b*<sub>*n*</sub> 需要 n
-的正值和負值。在陣列中補零的離散傅立葉轉換的周期性邊界，代表著 *-n* 等於 *M -
-n*。因此，*b*<sub>*n*</sub> 被擴展到長度為 *M* 的陣列 *B*<sub>*n*</sub>，其中
-*B*<sub>0</sub> = *b*<sub>0</sub>，*B*<sub>*n*</sub> =
-*B*<sub>*M*–*n*</sub> = *b*<sub>*n*</sub>(當 0 \< *n*
-\&lt)，否則，*B*<sub>*n*</sub> = 0。然後根據通常的捲積定理對 *A* 和 *B*
-進行快速傅立葉轉換，逐點相乘，並進行逆快速傅立葉轉換以獲得 *a* 和 *b* 的卷積。
+在布魯斯坦演算法的卷積過程中使用補零的方式是值得討論的。如果我們將訊號補至長度為 *M* ≥ 2*N*–1，代表 *a*<sub>*n*</sub> 被擴展至長度為 *M* 的陣列 *A*<sub>*n*</sub>，其中當 0 ≤ *n* \< *N* 時，*A*<sub>*n*</sub> = *a*<sub>*n*</sub>，否則 *A*<sub>*n*</sub> = 0。然而，基於卷積中的 *b*<sub>*k*–*n*</sub> 項， *b*<sub>*n*</sub> 需要 n 的正值和負值。在陣列中補零的離散傅立葉轉換的周期性邊界，代表著 *-n* 等於 *M - n*。因此，*b*<sub>*n*</sub> 被擴展到長度為 *M* 的陣列 *B*<sub>*n*</sub>，其中 *B*<sub>0</sub> = *b*<sub>0</sub>，*B*<sub>*n*</sub> = *B*<sub>*M*–*n*</sub> = *b*<sub>*n*</sub>(當 0 \< *n* \&lt)，否則，*B*<sub>*n*</sub> = 0。然後根據通常的捲積定理對 *A* 和 *B* 進行快速傅立葉轉換，逐點相乘，並進行逆快速傅立葉轉換以獲得 *a* 和 *b* 的卷積。
 
-讓我們更準確地說明，布魯斯坦演算法的離散傅立葉轉換需要什麼類型的捲積。如果序列 *b*<sub>*n*</sub> 在具有周期 *N* 的
-*n* 中是具有周期性的，那麼它將是長度為 *N* 的循環卷積，並且，為了計算上的方便而使用補零的方式。但是，通常情況並非如此：
+讓我們更準確地說明，布魯斯坦演算法的離散傅立葉轉換需要什麼類型的捲積。如果序列 *b*<sub>*n*</sub> 在具有周期 *N* 的 *n* 中是具有周期性的，那麼它將是長度為 *N* 的循環卷積，並且，為了計算上的方便而使用補零的方式。但是，通常情況並非如此：
 
 \[b_{n+N} = e^{\frac{\pi i}{N} (n+N)^2 } = b_n e^{\frac{\pi i}{N} (2Nn+N^2) } = (-1)^N b_n .\]
 
-因此，當 *N*
-為偶數時，卷積是具有週期性的，但在這種情況下，人們通常使用更有效率的快速傅立葉轉換演算法，例如Cooley-Tukey演算法；反之，當
-*N* 為奇數時，*b*<sub>*n*</sub> 是反週期性的，並且具有長度 *N*
-的負循環卷積。然而，當如上所述，使用補零的方式江陣列補到至少
-2*N*−1 的長度時，兩者之間的差異消失。
+因此，當 *N* 為偶數時，卷積是具有週期性的，但在這種情況下，人們通常使用更有效率的快速傅立葉轉換演算法，例如Cooley-Tukey演算法；反之，當 *N* 為奇數時，*b*<sub>*n*</sub> 是反週期性的，並且具有長度 *N* 的負循環卷積。然而，當如上所述，使用補零的方式江陣列補到至少 2*N*−1 的長度時，兩者之間的差異消失。
 
 ## Z轉換
 
@@ -90,8 +70,7 @@ k = 0,\dots,M-1,\]
 
 由前面所提到的布魯斯坦演算法，我們可以進行如此的轉換。例如，獲得訊號某一部分頻譜中的內插值，以及在傳遞函數分析中增加任意極點，皆為其應用之一。
 
-該演算法被稱為啁啾-Z轉換演算法，是因為在傅立葉轉換的情境(|*z*| = 1)下，一序列 *b*<sub>*n*</sub>
-是一複數正弦波，而在雷達系統中則被稱作「啁啾」。
+該演算法被稱為啁啾-Z轉換演算法，是因為在傅立葉轉換的情境(|*z*| = 1)下，一序列 *b*<sub>*n*</sub> 是一複數正弦波，而在雷達系統中則被稱作「啁啾」。
 
 ## 相關條目
 
@@ -102,13 +81,8 @@ k = 0,\dots,M-1,\]
 
 ## 參考文獻
 
-  - Jian-Jiun Ding, class lecture of Time Frequency Analysis and Wavelet
-    transform, Graduate Institute of Communication Engineering, National
-    Taiwan University, Taipei, Taiwan, 2007.
-  - Jian-Jiun Ding, class lecture of Time Frequency Analysis and Wavelet
-    transform, Graduate Institute of Communication Engineering, National
-    Taiwan University, Taipei, Taiwan, 2018.
+  - Jian-Jiun Ding, class lecture of Time Frequency Analysis and Wavelet transform, Graduate Institute of Communication Engineering, National Taiwan University, Taipei, Taiwan, 2007.
+  - Jian-Jiun Ding, class lecture of Time Frequency Analysis and Wavelet transform, Graduate Institute of Communication Engineering, National Taiwan University, Taipei, Taiwan, 2018.
   - <http://cnx.org/content/m12013/latest/>
 
-[Category:信號處理](https://zh.wikipedia.org/wiki/Category:信號處理 "wikilink")
-[Category:傅里叶分析](https://zh.wikipedia.org/wiki/Category:傅里叶分析 "wikilink")
+[Category:信號處理](https://zh.wikipedia.org/wiki/Category:信號處理 "wikilink") [Category:傅里叶分析](https://zh.wikipedia.org/wiki/Category:傅里叶分析 "wikilink")

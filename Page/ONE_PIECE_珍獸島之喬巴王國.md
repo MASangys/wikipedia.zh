@@ -1,5 +1,4 @@
-《**ONE PIECE 珍獸島之喬巴王國**》是於2002年上映的第三部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。[中國中央電視台電影頻道](https://zh.wikipedia.org/wiki/中國中央電視台電影頻道 "wikilink")（CCTV-6）亦曾引進並於2011年8月10日下午15:15分首播。
+《**ONE PIECE 珍獸島之喬巴王國**》是於2002年上映的第三部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。[中國中央電視台電影頻道](https://zh.wikipedia.org/wiki/中國中央電視台電影頻道 "wikilink")（CCTV-6）亦曾引進並於2011年8月10日下午15:15分首播。
 
 ## 劇情
 
@@ -91,9 +90,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 ## 音樂
 
   - 「」
-    作詞・作曲：[DASEIN](https://zh.wikipedia.org/wiki/DASEIN "wikilink") /
-    編曲：[樫原伸彦](https://zh.wikipedia.org/wiki/樫原伸彦 "wikilink") /
-    歌：DASEIN
+    作詞・作曲：[DASEIN](https://zh.wikipedia.org/wiki/DASEIN "wikilink") / 編曲：[樫原伸彦](https://zh.wikipedia.org/wiki/樫原伸彦 "wikilink") / 歌：DASEIN
 
 ## 夢幻足球王
 
@@ -157,12 +154,9 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 
 </div>
 
-[ru:Список анимационных фильмов о One Piece\#Фильм
-третий](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_третий "wikilink")
+[ru:Список анимационных фильмов о One Piece\#Фильм третий](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_третий "wikilink")
 
-[Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink")
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2002年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2002年日本劇場動畫 "wikilink")
+[Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink") [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2002年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2002年日本劇場動畫 "wikilink")
 
 1.  劇場版第9部有提及。
 

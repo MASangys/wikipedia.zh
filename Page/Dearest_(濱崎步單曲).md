@@ -14,23 +14,19 @@
 
 1.  '''Dearest "Original Mix" '''
       -
-        作曲: [CREA](../Page/CREA.md "wikilink") +
-        [D・A・I](../Page/長尾大.md "wikilink")／編曲: 鈴木直人
+        作曲: [CREA](../Page/CREA.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink")／編曲: 鈴木直人
         日本電視台《犬夜叉》主題曲（第42話〜第60話）
         TU-KA2001年廣告曲
 2.  **Dearest "Depth Nostalgic windmix"**
-3.  **[NEVER EVER](../Page/NEVER_EVER.md "wikilink") "Jonathan Peters
-    Radio Mix"**
+3.  **[NEVER EVER](../Page/NEVER_EVER.md "wikilink") "Jonathan Peters Radio Mix"**
 4.  **Dearest "Energized MIX"**
 5.  **Dearest "Huge '20011002' mix"**
       -
         曲名當中「20011002」是左右對稱的文字排列，乃是濱崎步生日「10月2日」所表示為「1002」而成。
-6.  **[Endless sorrow](../Page/Endless_sorrow.md "wikilink") "Hex Hector
-    Main Radio Mix"**
+6.  **[Endless sorrow](../Page/Endless_sorrow.md "wikilink") "Hex Hector Main Radio Mix"**
 7.  **Dearest "Laugh & Peace Mix"**
 8.  **Dearest "Fresh energy Mix"**
-9.  **[M](../Page/M_\(濱崎步單曲\).md "wikilink") "Johnny Vicious RADIO
-    VOX"**
+9.  **[M](../Page/M_\(濱崎步單曲\).md "wikilink") "Johnny Vicious RADIO VOX"**
 10. **Dearest "Original Mix -Instrumental-"**
 11. **Dearest "Acoustic Piano Version"**
       -
@@ -40,14 +36,4 @@
 
 <references/>
 
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:犬夜叉歌曲](https://zh.wikipedia.org/wiki/Category:犬夜叉歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
-[Category:日本唱片大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎歌曲 "wikilink")
-[Category:日本有線大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎歌曲 "wikilink")
-[Category:2001年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:手提電話廣告歌曲](https://zh.wikipedia.org/wiki/Category:手提電話廣告歌曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:犬夜叉歌曲](https://zh.wikipedia.org/wiki/Category:犬夜叉歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink") [Category:日本唱片大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎歌曲 "wikilink") [Category:日本有線大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎歌曲 "wikilink") [Category:2001年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲月榜冠軍作品 "wikilink") [Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink") [Category:手提電話廣告歌曲](https://zh.wikipedia.org/wiki/Category:手提電話廣告歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")

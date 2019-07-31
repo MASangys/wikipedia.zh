@@ -1,9 +1,6 @@
-**General
-MIDI**，簡稱**GM**，是[MIDI](../Page/MIDI.md "wikilink")的統一規格。雖然MIDI自己本身提供了使不同儀器能夠在基礎水平上互用的協定，但General
-MIDI提供了更進一步的規範：它要求所有的GM相容儀器達到一些共同的特點，像是能夠同時演奏至少24個音符（複音），而且它包含了許多未在MIDI中規範，關於參數和控制訊息的解釋，像是定義儀器可以擁有128個發聲數。
+**General MIDI**，簡稱**GM**，是[MIDI](../Page/MIDI.md "wikilink")的統一規格。雖然MIDI自己本身提供了使不同儀器能夠在基礎水平上互用的協定，但General MIDI提供了更進一步的規範：它要求所有的GM相容儀器達到一些共同的特點，像是能夠同時演奏至少24個音符（複音），而且它包含了許多未在MIDI中規範，關於參數和控制訊息的解釋，像是定義儀器可以擁有128個發聲數。
 
-General
-MIDI最初被標準化是在1991年，由[MIDI制造商协会](https://zh.wikipedia.org/wiki/MIDI制造商协会 "wikilink")（MMA）以及（JMSC）共同制定，此後就被採用作為MIDI標準的追加。他被要求至少能滿足以下條件：
+General MIDI最初被標準化是在1991年，由[MIDI制造商协会](https://zh.wikipedia.org/wiki/MIDI制造商协会 "wikilink")（MMA）以及（JMSC）共同制定，此後就被採用作為MIDI標準的追加。他被要求至少能滿足以下條件：
 
   - 允許同時24個發聲數（包含16個旋律，和8個打擊樂的聲音）
   - 能對應音符力度
@@ -12,14 +9,11 @@ MIDI最初被標準化是在1991年，由[MIDI制造商协会](https://zh.wikipe
 
 ## 概要
 
-在GM被制定以前，MIDI的音色訊號以及控制訊息會因MIDI音源的製造商以及機種而不同。這使的不同的儀器之間並沒有互換性。由不同的MIDI儀器做出來的曲子，在其他的MIDI儀器上播放會導致與結果可能與作者原本想表達的不同的問題。為了解決這樣的問題，在1991年時，MIDI
-Manufacturers Association（MMA）與Japan MIDI Standards
-Committee（JMSC）共同制定了GM。
+在GM被制定以前，MIDI的音色訊號以及控制訊息會因MIDI音源的製造商以及機種而不同。這使的不同的儀器之間並沒有互換性。由不同的MIDI儀器做出來的曲子，在其他的MIDI儀器上播放會導致與結果可能與作者原本想表達的不同的問題。為了解決這樣的問題，在1991年時，MIDI Manufacturers Association（MMA）與Japan MIDI Standards Committee（JMSC）共同制定了GM。
 
 除了GM以外的規格，還有Roland推展的GS、YAMAHA推展的XG等。 這些幾乎都是為了擴張GM的衍生規格，對GM來說是能夠向上相容的。
 
-現在有了[GM2](https://zh.wikipedia.org/wiki/GM2 "wikilink")（[General MIDI
-Level 2](../Page/General_MIDI_Level_2.md "wikilink")）規格，也是對GM的延伸。
+現在有了[GM2](https://zh.wikipedia.org/wiki/GM2 "wikilink")（[General MIDI Level 2](../Page/General_MIDI_Level_2.md "wikilink")）規格，也是對GM的延伸。
 
 ## 參數
 
@@ -841,13 +835,11 @@ GM也同時規範了數個控制器的工作\[1\]
 
 設定「登錄參數」，需要以固定的格式傳送訊號（訊號的數字是十進位）：
 
-1.  啟動登錄參數功能（Control Change
-    messages），必須先同時使用「控制碼」（CC）101和100，以選擇想要控制的參數（如下表）
+1.  啟動登錄參數功能（Control Change messages），必須先同時使用「控制碼」（CC）101和100，以選擇想要控制的參數（如下表）
 2.  接下來輸入數字資料（Data Entry messages，MSB = 控制器\#6, LSB = 控制器\#38）
 3.  最後若是「End of RPN」（CC 38）訊息，即表示結束訊息
 
-以下的全球Registered Parameter Numbers (RPNs)是經過標準化\[2\]的（參數由RPN
-LSB/MSB對規範，值則由Data Entry LSB/MSB對設定）：
+以下的全球Registered Parameter Numbers (RPNs)是經過標準化\[2\]的（參數由RPN LSB/MSB對規範，值則由Data Entry LSB/MSB對設定）：
 
 <table>
 <thead>
@@ -906,8 +898,7 @@ LSB/MSB對規範，值則由Data Entry LSB/MSB對設定）：
 
 ### 系統排除訊息（System Exclusive messages）
 
-兩個系統排除（System Exclusive，"SysEx"）訊息被定義：一個是決定使不使用General
-MIDI在同樣允許非GM相容模式之設備上的相容性；另一個用來修正樂器的整體音量。
+兩個系統排除（System Exclusive，"SysEx"）訊息被定義：一個是決定使不使用General MIDI在同樣允許非GM相容模式之設備上的相容性；另一個用來修正樂器的整體音量。
 
 ## 參照
 
@@ -915,8 +906,7 @@ MIDI在同樣允許非GM相容模式之設備上的相容性；另一個用來�
 
   - [General MIDI Level 2](../Page/General_MIDI_Level_2.md "wikilink")
 
-[Category:MIDI](https://zh.wikipedia.org/wiki/Category:MIDI "wikilink")
-[Category:樂譜檔案格式](https://zh.wikipedia.org/wiki/Category:樂譜檔案格式 "wikilink")
+[Category:MIDI](https://zh.wikipedia.org/wiki/Category:MIDI "wikilink") [Category:樂譜檔案格式](https://zh.wikipedia.org/wiki/Category:樂譜檔案格式 "wikilink")
 
 1.  [1](http://www.indiana.edu/~emusic/cntrlnumb.html)
 2.  [MIDI Messages Table 3](http://www.midi.org/about-midi/table3.shtml)

@@ -1,10 +1,4 @@
-《**Full House
-Kiss2**》（）是2006年2月23日由[CAPCOM發售](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[PS2用的](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。正式種類名稱為恋爱女佣。前作是[Full
-House
-Kiss](../Page/Full_House_Kiss.md "wikilink")。人物設計與原畫是由少女漫畫家[佑羽栞擔任](https://zh.wikipedia.org/wiki/佑羽栞 "wikilink")。media
-mix企画、佑羽刊作画的漫画版在[白泉社的](../Page/白泉社.md "wikilink")《[花與夢](../Page/花與夢.md "wikilink")》上連載。繼承登場人物的續編《[Full
-House
-Kiss2～戀愛迷宮～](https://zh.wikipedia.org/wiki/Full_House_Kiss2～戀愛迷宮～ "wikilink")》從2007年12月20日開始由daletto（）配信。
+《**Full House Kiss2**》（）是2006年2月23日由[CAPCOM發售](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[PS2用的](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。正式種類名稱為恋爱女佣。前作是[Full House Kiss](../Page/Full_House_Kiss.md "wikilink")。人物設計與原畫是由少女漫畫家[佑羽栞擔任](https://zh.wikipedia.org/wiki/佑羽栞 "wikilink")。media mix企画、佑羽刊作画的漫画版在[白泉社](../Page/白泉社.md "wikilink")的《[花與夢](../Page/花與夢.md "wikilink")》上連載。繼承登場人物的續編《[Full House Kiss2～戀愛迷宮～](https://zh.wikipedia.org/wiki/Full_House_Kiss2～戀愛迷宮～ "wikilink")》從2007年12月20日開始由daletto（）配信。
 
 ## 簡介
 
@@ -19,21 +13,17 @@ Kiss2～戀愛迷宮～](https://zh.wikipedia.org/wiki/Full_House_Kiss2～戀愛
     7月9日生，16歳，O型，161cm。女主角。不論何時總是元氣十足，是個好勝的女孩子。一哉曰「是個橫衝直撞的笨蛋」。相當擅長家務。在前作的事件解決後便回到自己的家生活，由於一哉的請求再次到御堂家住且擔任女佣的工作，還成為了東條葵的秘書……
   -
     声：[荻原秀樹](https://zh.wikipedia.org/wiki/荻原秀樹 "wikilink")
-    2月18日生，17歳，A型，178cm。祥慶學園3年級，La
-    Prince之一。世界的大企業御堂集團的獨生子。一出生便成為集團的接班人，7歲就隻身到英國留學學習帝王學。高中生時已經是六個企業有實權的社長。具有名聲與實權，冷靜沉著且傲慢不遜，不過卻是個認真溫柔的笨蛋。在頭腦明晰成績優秀體育萬能稱譽「完整無缺的領袖人物的超级魅力高中生」的背後，其實对掃除和整理之类的工作很不擅长应付。在本作中，成为某人暗杀的对象，出事故重傷3個月。
+    2月18日生，17歳，A型，178cm。祥慶學園3年級，La Prince之一。世界的大企業御堂集團的獨生子。一出生便成為集團的接班人，7歲就隻身到英國留學學習帝王學。高中生時已經是六個企業有實權的社長。具有名聲與實權，冷靜沉著且傲慢不遜，不過卻是個認真溫柔的笨蛋。在頭腦明晰成績優秀體育萬能稱譽「完整無缺的領袖人物的超级魅力高中生」的背後，其實对掃除和整理之类的工作很不擅长应付。在本作中，成为某人暗杀的对象，出事故重傷3個月。
     ※遊戲中的生日为「2月19日」是制作方的小疏漏。
   -
     声：[佐佐木望](../Page/佐佐木望.md "wikilink")
-    9月23日生，20歳，AB型，182cm。祥慶學園3年級，不過因為途中休學赴美所以是20歲。La
-    Prince之一，在一哉的家寄住。歌舞劇團世家出身，在歌舞劇團表演舞台上是旦角演員，不過某事件由於原因現在離開梨園。但前作後和父母好像開始取得聯絡。赴美其間因為有模特兒的美貌做了模特兒的工作，有成年人的姿色也能取悅女性。因為過去痛苦的戀愛經驗产生「已經不想再戀愛」的想法，对誰也不習慣認真对待。基本上是非常尊重女性的人，认为对男孩子无论怎样都好，对男性态度颇为粗鲁而且尖酸刻薄。
+    9月23日生，20歳，AB型，182cm。祥慶學園3年級，不過因為途中休學赴美所以是20歲。La Prince之一，在一哉的家寄住。歌舞劇團世家出身，在歌舞劇團表演舞台上是旦角演員，不過某事件由於原因現在離開梨園。但前作後和父母好像開始取得聯絡。赴美其間因為有模特兒的美貌做了模特兒的工作，有成年人的姿色也能取悅女性。因為過去痛苦的戀愛經驗产生「已經不想再戀愛」的想法，对誰也不習慣認真对待。基本上是非常尊重女性的人，认为对男孩子无论怎样都好，对男性态度颇为粗鲁而且尖酸刻薄。
   -
     声：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
-    8月6日生，17歳，O型，180cm。祥慶學園2年級。La
-    Prince之一，在一哉的家寄住。大銀行的名門子弟，但完全沒有要繼承家業的意思，夢想是成為Hassler在世界活躍。从祖母的留恋不舍、母親的死、父親和姐姐的不和之中出走，不過从前作後好像開始跟家人有恢復良好的關係。雖然被認為是「有討厭女人的想法」，但通过跟麦在一起生活的數個月，「我们」的意識開始萌芽。说谎會觉得不安的老實人，也因此容易被欺騙，是瀨伊时常捉弄的對象。喜歡摩托車撞球之外，最近對電腦也開始有興趣。
+    8月6日生，17歳，O型，180cm。祥慶學園2年級。La Prince之一，在一哉的家寄住。大銀行的名門子弟，但完全沒有要繼承家業的意思，夢想是成為Hassler在世界活躍。从祖母的留恋不舍、母親的死、父親和姐姐的不和之中出走，不過从前作後好像開始跟家人有恢復良好的關係。雖然被認為是「有討厭女人的想法」，但通过跟麦在一起生活的數個月，「我们」的意識開始萌芽。说谎會觉得不安的老實人，也因此容易被欺騙，是瀨伊时常捉弄的對象。喜歡摩托車撞球之外，最近對電腦也開始有興趣。
   -
     声：[成瀨誠](../Page/成瀨誠.md "wikilink")
-    5月13日生，17歳，AB型，175cm。祥慶學園2年級。La
-    Prince之一，在一哉的家寄住。祥庆的女生私下里说拥有中性小恶魔外形的他是「學園的妖精」。有着无论什么都想不明白的地方，虽然在对周围感到困扰的时候会笑嘻嘻地吐出刻薄的话，其实内心敏感而容易受伤害。曾经有一段时间以職業的鋼琴演奏家作為目標，但钢琴师父青树有不正当的意图，讓作為音樂家的父母間產生了争执，現在断绝了跟他們的關係，也捨棄了夢想。興趣變成收集蠟燭和裝飾品，捉弄麻生是每天的習慣。
+    5月13日生，17歳，AB型，175cm。祥慶學園2年級。La Prince之一，在一哉的家寄住。祥庆的女生私下里说拥有中性小恶魔外形的他是「學園的妖精」。有着无论什么都想不明白的地方，虽然在对周围感到困扰的时候会笑嘻嘻地吐出刻薄的话，其实内心敏感而容易受伤害。曾经有一段时间以職業的鋼琴演奏家作為目標，但钢琴师父青树有不正当的意图，讓作為音樂家的父母間產生了争执，現在断绝了跟他們的關係，也捨棄了夢想。興趣變成收集蠟燭和裝飾品，捉弄麻生是每天的習慣。
   -
     声：[坪井智浩](../Page/坪井智浩.md "wikilink")
     12月6日生，19歳，AB型，165cm。依織的弟弟，是歌舞劇團界的希望。近日等待宣佈繼承师名的公演，從那時就有沉重的壓力，得時常來訪問依織。两人表面上看去好像是關係良好的兄弟，其實由於皇过去引起的事件的影响，两人之间有看不見的深溝。想为那件事赎罪，再加上深信自己作為演員的資質敵不過這樣的哥哥，對依織相當有心結。热爱歌舞劇團，每天不斷努力學習和練習。
@@ -123,10 +113,4 @@ Kiss2～戀愛迷宮～](https://zh.wikipedia.org/wiki/Full_House_Kiss2～戀愛
 
   - [Full House Kiss系列官方网站](http://fullkiss.jp/)
 
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink")
-[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink")
-[Category:广播剧CD](https://zh.wikipedia.org/wiki/Category:广播剧CD "wikilink")
-[Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink")
-[Category:家政婦題材作品](https://zh.wikipedia.org/wiki/Category:家政婦題材作品 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:广播剧CD](https://zh.wikipedia.org/wiki/Category:广播剧CD "wikilink") [Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink") [Category:家政婦題材作品](https://zh.wikipedia.org/wiki/Category:家政婦題材作品 "wikilink")

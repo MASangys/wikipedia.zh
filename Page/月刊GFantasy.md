@@ -1,6 +1,4 @@
-《**月刊GFantasy**》（），[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")（Square
-Enix）出版的[日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")。1992年以《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》的增刊《Fantastic
-Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994年4月號改為現在這個名字。
+《**月刊GFantasy**》（），[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")（Square Enix）出版的[日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")。1992年以《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》的增刊《Fantastic Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994年4月號改為現在這個名字。
 
 增刊有《Stencil》（後獨立創刊為《[月刊Stencil](../Page/月刊Stencil.md "wikilink")》、現休刊）及《GFantasy++》。2018年2月22日新創刊《[PFantapy](https://zh.wikipedia.org/wiki/PFantapy "wikilink")》。
 
@@ -229,15 +227,6 @@ Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994
 
   - [官方網站](http://www.square-enix.co.jp/magazine/gfantasy/)
 
-[en:Gangan Comics\#Monthly
-GFantasy](https://zh.wikipedia.org/wiki/en:Gangan_Comics#Monthly_GFantasy "wikilink")
-[it:Gangan Comics\#Monthly
-GFantasy](https://zh.wikipedia.org/wiki/it:Gangan_Comics#Monthly_GFantasy "wikilink")
+[en:Gangan Comics\#Monthly GFantasy](https://zh.wikipedia.org/wiki/en:Gangan_Comics#Monthly_GFantasy "wikilink") [it:Gangan Comics\#Monthly GFantasy](https://zh.wikipedia.org/wiki/it:Gangan_Comics#Monthly_GFantasy "wikilink")
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:女性漫畫雜誌](https://zh.wikipedia.org/wiki/Category:女性漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink")
-[Category:史克威爾艾尼克斯的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯的漫畫雜誌 "wikilink")
-[Category:月刊少年GANGAN](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:女性漫畫雜誌](https://zh.wikipedia.org/wiki/Category:女性漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink") [Category:史克威爾艾尼克斯的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯的漫畫雜誌 "wikilink") [Category:月刊少年GANGAN](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN "wikilink")

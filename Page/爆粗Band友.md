@@ -1,9 +1,6 @@
-《**重金搖滾雙面人**》（），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[若杉公德所繪的](https://zh.wikipedia.org/wiki/若杉公德 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，以[死亡金屬音樂](../Page/死亡金屬音樂.md "wikilink")為主題，標題源自於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")[KISS的名曲](../Page/Kiss合唱團.md "wikilink")《Detroit
-Rock City》。於[白泉社](../Page/白泉社.md "wikilink")所發行的漫畫雜誌《[Young
-Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連載連載。
+《**重金搖滾雙面人**》（），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[若杉公德所繪的](https://zh.wikipedia.org/wiki/若杉公德 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，以[死亡金屬音樂](../Page/死亡金屬音樂.md "wikilink")為主題，標題源自於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")[KISS的名曲](../Page/Kiss合唱團.md "wikilink")《Detroit Rock City》。於[白泉社](../Page/白泉社.md "wikilink")所發行的漫畫雜誌《[Young Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連載連載。
 
-改編真人[電影於](https://zh.wikipedia.org/wiki/電影 "wikilink")2008年8月23日在[日本](../Page/日本.md "wikilink")上映。2009年由[STUDIO
-4℃改編成](../Page/STUDIO_4℃.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全12話。
+改編真人[電影於](https://zh.wikipedia.org/wiki/電影 "wikilink")2008年8月23日在[日本](../Page/日本.md "wikilink")上映。2009年由[STUDIO 4℃改編成](../Page/STUDIO_4℃.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全12話。
 
 ## 劇情簡介
 
@@ -14,11 +11,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    本作的主角，23歲，家鄉在[九州鄉下的](https://zh.wikipedia.org/wiki/九州 "wikilink")[大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink")[犬飼町](https://zh.wikipedia.org/wiki/犬飼町 "wikilink")，有著雙重性格，一方面是一個心地溫和善良的典型牛蒡男，但同時心胸狹窄嫉妒心重。本是鍾情於Swedish
-    Pop，打算成為Kahimi Karie風格的歌手，但畢業後卻簽約Death
-    Records，成為最受歡迎的[死亡金屬樂隊](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")（Detroit
-    Metal
-    City，DMC）的主唱。往往在誤會下被DMC的歌迷締造了很多傳說，如小時候把父母先殺後姦，殺條子四十八招等，在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中演唱「fuckingham宮殿」並與傑克在曲中比賽一口氣連唱「Fuck」，最後以2個字母之差打敗了JACK，演唱會後JACK將傳說吉他贈與根岸，成為傳說吉他的第三代主人雖然根岸在[死亡金屬音樂方面有出色表現](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")，但根岸仍討厭這種音樂，更為DMC的形象感到羞恥，因此一直在親友及夢中情人面前隱瞞身份。在看到夢中情人相川和別的男性較為親密或接觸金屬音樂和被取笑時就會把克勞薩二世的嫉妒性格顯露出來，繼而做出失控的事。特技是用牙齒彈吉他和能在一秒間唱10次「rape」，後來在第18回「PROMISE」中成功做出一秒間唱11次「rape」(在動畫中雖然成功在一秒間唱11次「rape」不過卻因此咬到舌頭)，在第68回「LOSER」中以傳說結他保管人的身份和北原元氣對決時顯露了一直封了的絕技「八弦吉他」（用截斷的筷子用鼻孔和下唇撐著做多兩條弦），可惜不敵對方的「十三弦吉他」（以7條鼻毛做多7條弦），被奪走傳說吉他，第一次嘗到落敗的滋味。後來他再與元氣決戰，結果於1秒內唱出12.5個「強暴」（最後一個以[指交](../Page/指交.md "wikilink")形式唱出），打敗元氣的12個強暴。事後元氣被揭發他於口中放置彈簧。
+    本作的主角，23歲，家鄉在[九州鄉下的](https://zh.wikipedia.org/wiki/九州 "wikilink")[大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink")[犬飼町](https://zh.wikipedia.org/wiki/犬飼町 "wikilink")，有著雙重性格，一方面是一個心地溫和善良的典型牛蒡男，但同時心胸狹窄嫉妒心重。本是鍾情於Swedish Pop，打算成為Kahimi Karie風格的歌手，但畢業後卻簽約Death Records，成為最受歡迎的[死亡金屬樂隊](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")（Detroit Metal City，DMC）的主唱。往往在誤會下被DMC的歌迷締造了很多傳說，如小時候把父母先殺後姦，殺條子四十八招等，在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中演唱「fuckingham宮殿」並與傑克在曲中比賽一口氣連唱「Fuck」，最後以2個字母之差打敗了JACK，演唱會後JACK將傳說吉他贈與根岸，成為傳說吉他的第三代主人雖然根岸在[死亡金屬音樂方面有出色表現](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")，但根岸仍討厭這種音樂，更為DMC的形象感到羞恥，因此一直在親友及夢中情人面前隱瞞身份。在看到夢中情人相川和別的男性較為親密或接觸金屬音樂和被取笑時就會把克勞薩二世的嫉妒性格顯露出來，繼而做出失控的事。特技是用牙齒彈吉他和能在一秒間唱10次「rape」，後來在第18回「PROMISE」中成功做出一秒間唱11次「rape」(在動畫中雖然成功在一秒間唱11次「rape」不過卻因此咬到舌頭)，在第68回「LOSER」中以傳說結他保管人的身份和北原元氣對決時顯露了一直封了的絕技「八弦吉他」（用截斷的筷子用鼻孔和下唇撐著做多兩條弦），可惜不敵對方的「十三弦吉他」（以7條鼻毛做多7條弦），被奪走傳說吉他，第一次嘗到落敗的滋味。後來他再與元氣決戰，結果於1秒內唱出12.5個「強暴」（最後一個以[指交](../Page/指交.md "wikilink")形式唱出），打敗元氣的12個強暴。事後元氣被揭發他於口中放置彈簧。
 
 <!-- end list -->
 
@@ -36,9 +29,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    DMC的鼓手，平常沉默寡言，一旦說話無一不及色情及淫穢字眼，平常的打扮是十足的[御宅族](../Page/御宅族.md "wikilink")形象。喜愛「陷進去戰隊小運動褲」，常常以色情字句對女生們說話，被[秋葉原](../Page/秋葉原.md "wikilink")的其中一間常到的遊戲機中心列為黑名單，打起鼓來非常凶狠，打鼓時亦是滿腦子色情字眼。在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中拿了JACK的重金屬眼鏡蛇當作鼓棍用，Track
-    15（第15回）「PUNK
-    2」中，在被意外引起大火的舞台上，不管火勢，繼續打鼓。當消防隊員滅火以後，發現其還在繼續打鼓，這一行為造就DMC另一個傳奇。
+    DMC的鼓手，平常沉默寡言，一旦說話無一不及色情及淫穢字眼，平常的打扮是十足的[御宅族](../Page/御宅族.md "wikilink")形象。喜愛「陷進去戰隊小運動褲」，常常以色情字句對女生們說話，被[秋葉原](../Page/秋葉原.md "wikilink")的其中一間常到的遊戲機中心列為黑名單，打起鼓來非常凶狠，打鼓時亦是滿腦子色情字眼。在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中拿了JACK的重金屬眼鏡蛇當作鼓棍用，Track 15（第15回）「PUNK 2」中，在被意外引起大火的舞台上，不管火勢，繼續打鼓。當消防隊員滅火以後，發現其還在繼續打鼓，這一行為造就DMC另一個傳奇。
 
 <!-- end list -->
 
@@ -110,9 +101,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    根岸大學時代單戀的同班同學。本作的女主角。東京都出身。畢業後成為根岸愛讀的雜誌「amour
-    amour」的編輯，在CD店舖與根岸再次相遇。與根岸同樣喜歡Swedish
-    pop，討厭金屬等過激的音樂，更認為DMC是最差勁的樂隊。根岸因為她讚揚過自己的吉他彈奏專業，而決心成為專業的音樂人。雖說她最討厭死亡金屬，尤其是DMC，但相川本人卻是成就DMC和克勞薩二世的關鍵人物。在最終話確認他愛的是根岸（當時根岸誤以為他愛的是其他的男人）。
+    根岸大學時代單戀的同班同學。本作的女主角。東京都出身。畢業後成為根岸愛讀的雜誌「amour amour」的編輯，在CD店舖與根岸再次相遇。與根岸同樣喜歡Swedish pop，討厭金屬等過激的音樂，更認為DMC是最差勁的樂隊。根岸因為她讚揚過自己的吉他彈奏專業，而決心成為專業的音樂人。雖說她最討厭死亡金屬，尤其是DMC，但相川本人卻是成就DMC和克勞薩二世的關鍵人物。在最終話確認他愛的是根岸（當時根岸誤以為他愛的是其他的男人）。
 
 <!-- end list -->
 
@@ -121,8 +110,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    崇拜根岸的大學學弟。清新民歌樂隊Tetrapot Melon
-    Tea（「在防波堤上喝蜜瓜奶茶」的意思）的成員，卻被DMC間接摧毀而解散，之後曾和根岸組成兩人樂團：打愛的奶油，但卻因為根岸的忌妒心而拆夥。最諷刺的是他和相川是唯二支持根岸音樂的人，卻也是被欺負最慘的兩位。
+    崇拜根岸的大學學弟。清新民歌樂隊Tetrapot Melon Tea（「在防波堤上喝蜜瓜奶茶」的意思）的成員，卻被DMC間接摧毀而解散，之後曾和根岸組成兩人樂團：打愛的奶油，但卻因為根岸的忌妒心而拆夥。最諷刺的是他和相川是唯二支持根岸音樂的人，卻也是被欺負最慘的兩位。
 
 <!-- end list -->
 
@@ -140,9 +128,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    澀谷區著名饒舌（Rap）歌手。自稱來自紐約，經常以饒舌代替說話，只懂說「Yo」、「Come on」、「Check it
-    out」幾個英文詞彙。真正身份是根岸的兒時好友木林進。裝作不認識根岸，
-    並先行挑釁DMC。根岸在台上以饒舌揭露他的身世，將他徹底打敗，曾說過，如果克勞薩的真面目不是根岸，那就是真正的惡魔了。之後為了強化自己的英語而跑去美國度假了。
+    澀谷區著名饒舌（Rap）歌手。自稱來自紐約，經常以饒舌代替說話，只懂說「Yo」、「Come on」、「Check it out」幾個英文詞彙。真正身份是根岸的兒時好友木林進。裝作不認識根岸， 並先行挑釁DMC。根岸在台上以饒舌揭露他的身世，將他徹底打敗，曾說過，如果克勞薩的真面目不是根岸，那就是真正的惡魔了。之後為了強化自己的英語而跑去美國度假了。
 
 <!-- end list -->
 
@@ -334,8 +320,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 
 ## 動畫
 
-由[STUDIO
-4℃所製作的](../Page/STUDIO_4℃.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")。2008年8月8日正式發售DVD。全12話、24集構成。PG-12指定。
+由[STUDIO 4℃所製作的](../Page/STUDIO_4℃.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")。2008年8月8日正式發售DVD。全12話、24集構成。PG-12指定。
 
 隔年2009年2月6日到3月14日於[WOWOW](../Page/WOWOW.md "wikilink")上每週2本進行放送。2010年由[関西電視台從](https://zh.wikipedia.org/wiki/関西電視台 "wikilink")1月12日開始到同年2月2日於「笑撃エピソード集」節目上播放8話傑作選、[ANIMAX](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")（CS放送）從2月9日起全12話進行放送。
 
@@ -393,8 +378,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
   - 朝仁：
   - 佐治秀紀：[高橋一生](../Page/高橋一生.md "wikilink")
   - DMC樂迷：、[岡田義徳](https://zh.wikipedia.org/wiki/岡田義徳 "wikilink")
-  - Jack ill
-    Dark：[吉恩·西蒙斯](../Page/吉恩·西蒙斯.md "wikilink")（[Kiss合唱團](../Page/Kiss合唱團.md "wikilink")貝斯手）
+  - Jack ill Dark：[吉恩·西蒙斯](../Page/吉恩·西蒙斯.md "wikilink")（[Kiss合唱團](../Page/Kiss合唱團.md "wikilink")貝斯手）
   - Death Records社長：[松雪泰子](../Page/松雪泰子.md "wikilink")
 
 ### 工作人員
@@ -437,27 +421,13 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 
   - [電脳処刑場（官方網站）](http://www.younganimal.com/dmc/)
 
-  - [デトロイト・メタル・シティ特集
-    (音樂棚)](http://musicshelf.jp/?mode=static&html=special_h04/index)
+  - [デトロイト・メタル・シティ特集 (音樂棚)](http://musicshelf.jp/?mode=static&html=special_h04/index)
 
   - [GO TO DMC 真人版電影官方網站](http://www.go-to-dmc.jp/)
 
   -
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:演藝界題材作品](https://zh.wikipedia.org/wiki/Category:演藝界題材作品 "wikilink")
-[Category:2008年日本OVA动画](https://zh.wikipedia.org/wiki/Category:2008年日本OVA动画 "wikilink")
-[Category:2008年日本電影](https://zh.wikipedia.org/wiki/Category:2008年日本電影 "wikilink")
-[Category:東寶](https://zh.wikipedia.org/wiki/Category:東寶 "wikilink")
-[Category:摇滚音乐电影](https://zh.wikipedia.org/wiki/Category:摇滚音乐电影 "wikilink")
-[Category:漫画中的虚构组织](https://zh.wikipedia.org/wiki/Category:漫画中的虚构组织 "wikilink")
-[Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink")
-[Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
-[Category:明星主角題材作品](https://zh.wikipedia.org/wiki/Category:明星主角題材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:演藝界題材作品](https://zh.wikipedia.org/wiki/Category:演藝界題材作品 "wikilink") [Category:2008年日本OVA动画](https://zh.wikipedia.org/wiki/Category:2008年日本OVA动画 "wikilink") [Category:2008年日本電影](https://zh.wikipedia.org/wiki/Category:2008年日本電影 "wikilink") [Category:東寶](https://zh.wikipedia.org/wiki/Category:東寶 "wikilink") [Category:摇滚音乐电影](https://zh.wikipedia.org/wiki/Category:摇滚音乐电影 "wikilink") [Category:漫画中的虚构组织](https://zh.wikipedia.org/wiki/Category:漫画中的虚构组织 "wikilink") [Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:明星主角題材作品](https://zh.wikipedia.org/wiki/Category:明星主角題材作品 "wikilink")
 
-1.  [電影搜查線／台人爆棚排隊也甘願
-    這些亞洲片最吸睛](http://n.yam.com/yam/entertain/20170428/20170428169620.html),2017/04/28
-    蕃薯藤
-2.  [《送行者》2009台灣日片王
-    踩《波妞》吞5千萬](http://ent.appledaily.com.tw/section/article/headline/20091223/32180159/)
-    2009.12.23 蘋果日報
+1.  [電影搜查線／台人爆棚排隊也甘願 這些亞洲片最吸睛](http://n.yam.com/yam/entertain/20170428/20170428169620.html),2017/04/28 蕃薯藤
+2.  [《送行者》2009台灣日片王 踩《波妞》吞5千萬](http://ent.appledaily.com.tw/section/article/headline/20091223/32180159/) 2009.12.23 蘋果日報

@@ -1,8 +1,4 @@
-**AdLib**，是一款FM音源的[ISA界面的音效卡](../Page/ISA.md "wikilink")，1987年時問世，使用[Yamaha
-YM3812的音效處理器晶片](https://zh.wikipedia.org/wiki/Yamaha_YM3812 "wikilink")。台灣由[智冠生產與銷售相容的商品](https://zh.wikipedia.org/wiki/智冠 "wikilink")「魔奇音效卡」。1992年時，再發行AdLib
-Gold（音效處理晶片改為[Yamaha
-YMF262](https://zh.wikipedia.org/wiki/Yamaha_YMF262 "wikilink")）。
-[Adlib.jpg](https://zh.wikipedia.org/wiki/File:Adlib.jpg "fig:Adlib.jpg")
+**AdLib**，是一款FM音源的[ISA](../Page/ISA.md "wikilink")界面的音效卡，1987年時問世，使用[Yamaha YM3812的音效處理器晶片](https://zh.wikipedia.org/wiki/Yamaha_YM3812 "wikilink")。台灣由[智冠生產與銷售相容的商品](https://zh.wikipedia.org/wiki/智冠 "wikilink")「魔奇音效卡」。1992年時，再發行AdLib Gold（音效處理晶片改為[Yamaha YMF262](https://zh.wikipedia.org/wiki/Yamaha_YMF262 "wikilink")）。 [Adlib.jpg](https://zh.wikipedia.org/wiki/File:Adlib.jpg "fig:Adlib.jpg")
 
 ## 簡史
 
@@ -30,10 +26,8 @@ YMF262](https://zh.wikipedia.org/wiki/Yamaha_YMF262 "wikilink")）。
 
   - [OPLx](http://www.oplx.com/)
 
-  - [Adplug - AdLib sound player
-    library](http://adplug.sourceforge.net/)
+  - [Adplug - AdLib sound player library](http://adplug.sourceforge.net/)
 
-  - [SOUNDSHOCK, an English language discussion forum dedicated
-    exclusively to FM Synthesis](http://www.soundshock.se/)
+  - [SOUNDSHOCK, an English language discussion forum dedicated exclusively to FM Synthesis](http://www.soundshock.se/)
 
 [Category:音效卡](https://zh.wikipedia.org/wiki/Category:音效卡 "wikilink")

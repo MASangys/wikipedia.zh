@@ -1,7 +1,4 @@
-《**哥吉拉×美加基拉斯
-G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")24集，[東寶電影公司製作](https://zh.wikipedia.org/wiki/東寶電影公司 "wikilink")、發行，日本票房收入12億日圓，觀眾人次約135萬。導演[手塚昌明曾擔任](https://zh.wikipedia.org/wiki/手塚昌明 "wikilink")《[摩斯拉2
-海底大決戰](../Page/摩斯拉2_海底大決戰.md "wikilink")》及《[摩斯拉3
-王者基多拉來襲](../Page/摩斯拉3_王者基多拉來襲.md "wikilink")》的副導演，本片是他首次擔任導演的作品。
+《**哥吉拉×美加基拉斯 G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")24集，[東寶電影公司製作](https://zh.wikipedia.org/wiki/東寶電影公司 "wikilink")、發行，日本票房收入12億日圓，觀眾人次約135萬。導演[手塚昌明曾擔任](https://zh.wikipedia.org/wiki/手塚昌明 "wikilink")《[摩斯拉2 海底大決戰](../Page/摩斯拉2_海底大決戰.md "wikilink")》及《[摩斯拉3 王者基多拉來襲](../Page/摩斯拉3_王者基多拉來襲.md "wikilink")》的副導演，本片是他首次擔任導演的作品。
 
 ## 劇情概要
 
@@ -17,8 +14,7 @@ G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink"
 
 生還的美加努拉斯則回到涉谷湖裡將哥吉拉的能量注入湖底沉睡的一隻巨大的美加努隆身上，接受了哥吉拉的能量，美加努隆脫皮，究極的戰鬥體「美加基拉斯」誕生\!\!牠在破壞涉谷及周邊後飛得無影無蹤。
 
-奇岩島離開的哥吉拉證實向東京方面游來，由於東京沒有電廠等能源為何哥吉拉會游過來?桐子抱持著不解。哥吉拉在台場上陸，特G對出動「格利分」戰機以光子砲迎擊，在雙方戰鬥同時，美加基拉斯飛來，牠覬覦哥吉拉豐沛的能源故與哥吉拉展開死鬥，在一陣摔角般的決鬥之後，哥吉拉辛苦地獲勝了。
-在哥吉拉與美加基拉斯戰鬥的同時，特G對一度想發射黑洞砲將兩隻怪獸送入黑洞，不過受美加基拉斯發出的高週波破壞，黑洞砲故障而次元潮衛星也向地面落下。
+奇岩島離開的哥吉拉證實向東京方面游來，由於東京沒有電廠等能源為何哥吉拉會游過來?桐子抱持著不解。哥吉拉在台場上陸，特G對出動「格利分」戰機以光子砲迎擊，在雙方戰鬥同時，美加基拉斯飛來，牠覬覦哥吉拉豐沛的能源故與哥吉拉展開死鬥，在一陣摔角般的決鬥之後，哥吉拉辛苦地獲勝了。 在哥吉拉與美加基拉斯戰鬥的同時，特G對一度想發射黑洞砲將兩隻怪獸送入黑洞，不過受美加基拉斯發出的高週波破壞，黑洞砲故障而次元潮衛星也向地面落下。
 
 打敗敵人後哥吉拉走向國立理化學研究所展開破壞，G對策本部長杉浦基彥才說出原本在5年前就應該被廢止的電漿動力能源研究一直都還在秘密進行…桐子聽得非常生氣向長官揮拳。之後她獨自一人駕駛格利分升空欲引導即將墜落的次元潮發射…，格利分衝向哥吉拉，桐子在千鈞一髮之際跳傘，瞬間黑洞砲發射，哥吉拉消滅\!
 
@@ -69,17 +65,4 @@ G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink"
 
   -
   -
-[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
-[Category:2000年電影](https://zh.wikipedia.org/wiki/Category:2000年電影 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:昆蟲電影](https://zh.wikipedia.org/wiki/Category:昆蟲電影 "wikilink")
-[Category:平行世界題材電影](https://zh.wikipedia.org/wiki/Category:平行世界題材電影 "wikilink")
-[Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink")
-[Category:大阪市背景電影](https://zh.wikipedia.org/wiki/Category:大阪市背景電影 "wikilink")
-[Category:山梨縣背景電影](https://zh.wikipedia.org/wiki/Category:山梨縣背景電影 "wikilink")
-[Category:茨城縣背景電影](https://zh.wikipedia.org/wiki/Category:茨城縣背景電影 "wikilink")
-[Category:1954年背景電影](https://zh.wikipedia.org/wiki/Category:1954年背景電影 "wikilink")
-[Category:1966年背景電影](https://zh.wikipedia.org/wiki/Category:1966年背景電影 "wikilink")
-[Category:1996年背景電影](https://zh.wikipedia.org/wiki/Category:1996年背景電影 "wikilink")
-[Category:2001年背景電影](https://zh.wikipedia.org/wiki/Category:2001年背景電影 "wikilink")
-[Category:手塚昌明電影](https://zh.wikipedia.org/wiki/Category:手塚昌明電影 "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink") [Category:2000年電影](https://zh.wikipedia.org/wiki/Category:2000年電影 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:昆蟲電影](https://zh.wikipedia.org/wiki/Category:昆蟲電影 "wikilink") [Category:平行世界題材電影](https://zh.wikipedia.org/wiki/Category:平行世界題材電影 "wikilink") [Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink") [Category:大阪市背景電影](https://zh.wikipedia.org/wiki/Category:大阪市背景電影 "wikilink") [Category:山梨縣背景電影](https://zh.wikipedia.org/wiki/Category:山梨縣背景電影 "wikilink") [Category:茨城縣背景電影](https://zh.wikipedia.org/wiki/Category:茨城縣背景電影 "wikilink") [Category:1954年背景電影](https://zh.wikipedia.org/wiki/Category:1954年背景電影 "wikilink") [Category:1966年背景電影](https://zh.wikipedia.org/wiki/Category:1966年背景電影 "wikilink") [Category:1996年背景電影](https://zh.wikipedia.org/wiki/Category:1996年背景電影 "wikilink") [Category:2001年背景電影](https://zh.wikipedia.org/wiki/Category:2001年背景電影 "wikilink") [Category:手塚昌明電影](https://zh.wikipedia.org/wiki/Category:手塚昌明電影 "wikilink")

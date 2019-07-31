@@ -1,18 +1,14 @@
-**株式會社Mausu
-Promotion**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**Mausu**（<small></small>）」或「**Mausu
-Pro.**（<small></small>）」。
+**株式會社Mausu Promotion**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**Mausu**（<small></small>）」或「**Mausu Pro.**（<small></small>）」。
 
 ## 公司概要
 
-Mausu
-Promotion的原名是「有限公司江崎Production（<small></small>）」，成立於1974年4月8日\[2\]，創辦人是江崎加子男。1995年[株式會社化](https://zh.wikipedia.org/wiki/株式會社 "wikilink")，2000年7月20日更名為現稱\[3\]。至於經紀公司名稱Mausu的由來，不是英語的「口」（mouth）而是「鼠」（mouse）（兩者的日語[片假名寫法一樣](../Page/片假名.md "wikilink")）。也因此該經紀公司的吉祥物是一隻老鼠的角色。
+Mausu Promotion的原名是「有限公司江崎Production（<small></small>）」，成立於1974年4月8日\[2\]，創辦人是江崎加子男。1995年[株式會社化](https://zh.wikipedia.org/wiki/株式會社 "wikilink")，2000年7月20日更名為現稱\[3\]。至於經紀公司名稱Mausu的由來，不是英語的「口」（mouth）而是「鼠」（mouse）（兩者的日語[片假名](../Page/片假名.md "wikilink")寫法一樣）。也因此該經紀公司的吉祥物是一隻老鼠的角色。
 
-Mausu
-Promotion成立之後，英文名稱使用的不是「mouse」，而是跟[日語羅馬字一樣都用](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「mausu」
+Mausu Promotion成立之後，英文名稱使用的不是「mouse」，而是跟[日語羅馬字一樣都用](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「mausu」
 
 Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製作和錄音工作室之兄弟企業。
 
-創辦人江崎加子男從代表董事辭職後，由所屬聲優[納谷六朗的妻子納谷光枝](../Page/納谷六朗.md "wikilink")、及長男納谷僚介擔任社長。
+創辦人江崎加子男從代表董事辭職後，由所屬聲優[納谷六朗](../Page/納谷六朗.md "wikilink")的妻子納谷光枝、及長男納谷僚介擔任社長。
 
 ## 現任董事
 
@@ -344,8 +340,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
 ### 男性
 
-  - [秋元羊介](../Page/秋元羊介.md "wikilink")（現所屬：[Office
-    PAC](../Page/Office_PAC.md "wikilink")）
+  - [秋元羊介](../Page/秋元羊介.md "wikilink")（現所屬：[Office PAC](../Page/Office_PAC.md "wikilink")）
 
   - （自由職業）
 
@@ -353,8 +348,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [石井真](../Page/石井真.md "wikilink")（現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
 
-  - [石田彰](../Page/石田彰.md "wikilink")（現所屬：[PEERLESS
-    GERBERA](../Page/PEERLESS_GERBERA.md "wikilink")）
+  - [石田彰](../Page/石田彰.md "wikilink")（現所屬：[PEERLESS GERBERA](../Page/PEERLESS_GERBERA.md "wikilink")）
 
   - （在籍中死去）
 
@@ -373,8 +367,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   -
   -
-  - [樫井笙人](../Page/樫井笙人.md "wikilink")（現所屬：[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [樫井笙人](../Page/樫井笙人.md "wikilink")（現所屬：[81 Produce](../Page/81_Produce.md "wikilink")）
 
   - [加瀨康之](../Page/加瀨康之.md "wikilink")（現所屬：[大澤事務所](../Page/大澤事務所.md "wikilink")）
 
@@ -392,11 +385,9 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - （自由職業）
 
-  - [黑田崇矢](../Page/黑田崇矢.md "wikilink")（現所屬：[AXL
-    ONE](../Page/AXL_ONE.md "wikilink")）
+  - [黑田崇矢](../Page/黑田崇矢.md "wikilink")（現所屬：[AXL ONE](../Page/AXL_ONE.md "wikilink")）
 
-  - （現所屬：[Across
-    Entertainment](../Page/Across_Entertainment.md "wikilink")）
+  - （現所屬：[Across Entertainment](../Page/Across_Entertainment.md "wikilink")）
 
   - （現所屬：[WONDER SPACE](http://www.wonder-space.net/)）
 
@@ -408,8 +399,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [阪口周平](../Page/阪口周平.md "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
 
-  - [佐藤雄大](../Page/佐藤雄大.md "wikilink")（現所屬：[Bell
-    Production](../Page/Bell_Production.md "wikilink")）
+  - [佐藤雄大](../Page/佐藤雄大.md "wikilink")（現所屬：[Bell Production](../Page/Bell_Production.md "wikilink")）
 
   - （現所屬：）
 
@@ -469,8 +459,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
 ### 女性
 
-  - [逢澤由理香](../Page/逢澤由理香.md "wikilink")（現所屬：[Stay
-    Luck](../Page/Stay_Luck.md "wikilink")）
+  - [逢澤由理香](../Page/逢澤由理香.md "wikilink")（現所屬：[Stay Luck](../Page/Stay_Luck.md "wikilink")）
 
   - （現所屬：[aptepro](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
 
@@ -483,8 +472,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   -
   -
-  - [井上喜久子](../Page/井上喜久子.md "wikilink")（現所屬：[Office
-    Anemone](../Page/Office_Anemone.md "wikilink")、（旁白部門））
+  - [井上喜久子](../Page/井上喜久子.md "wikilink")（現所屬：[Office Anemone](../Page/Office_Anemone.md "wikilink")、（旁白部門））
 
   - （現所屬：Liberta）
 
@@ -645,7 +633,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [×××HOLiC](../Page/×××HOLiC.md "wikilink")
 
-  - （於非影像化內容〈[講談社輕小說文庫各種作品](../Page/講談社輕小說文庫.md "wikilink")，〉擔任配音）
+  - （於非影像化內容〈[講談社輕小說文庫](../Page/講談社輕小說文庫.md "wikilink")各種作品，〉擔任配音）
 
   - [落語天女](https://zh.wikipedia.org/wiki/落語天女 "wikilink")（製作）
 
@@ -661,10 +649,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [株式會社Mausu Promotion公式官網](http://www.mausu.net)
 
-[Category:Mausu_Promotion](https://zh.wikipedia.org/wiki/Category:Mausu_Promotion "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:1974年成立的公司](https://zh.wikipedia.org/wiki/Category:1974年成立的公司 "wikilink")
+[Category:Mausu_Promotion](https://zh.wikipedia.org/wiki/Category:Mausu_Promotion "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:1974年成立的公司](https://zh.wikipedia.org/wiki/Category:1974年成立的公司 "wikilink")
 
 1.
 

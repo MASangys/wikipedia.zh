@@ -8,8 +8,7 @@
 
   - 《[金羊毛](https://zh.wikipedia.org/wiki/金羊毛_\(小说\) "wikilink")》，1990年。
   - 《[恐龙文明三部](https://zh.wikipedia.org/wiki/恐龙文明三部 "wikilink")》
-      - 《[远望](https://zh.wikipedia.org/wiki/远望 "wikilink")》，1992年。在学生中备受推索，更曾納入加拿大[安大略省](../Page/安大略省.md "wikilink")[斯卡布罗自治市傳承公園學校](https://zh.wikipedia.org/wiki/斯卡布罗自治市 "wikilink")（Heritage
-        Park Public School）的課程當中\[9\]\[10\]。
+      - 《[远望](https://zh.wikipedia.org/wiki/远望 "wikilink")》，1992年。在学生中备受推索，更曾納入加拿大[安大略省](../Page/安大略省.md "wikilink")[斯卡布罗自治市傳承公園學校](https://zh.wikipedia.org/wiki/斯卡布罗自治市 "wikilink")（Heritage Park Public School）的課程當中\[9\]\[10\]。
       - 《[化石猎人](https://zh.wikipedia.org/wiki/化石猎人 "wikilink")》，1993年。
       - 《[异族](https://zh.wikipedia.org/wiki/异族 "wikilink")》，1994年。
   - 《[终极实验](https://zh.wikipedia.org/wiki/终极实验 "wikilink")》，1995年。获1995年[星云奖](../Page/星云奖.md "wikilink")最佳长篇小说奖。
@@ -29,11 +28,7 @@
 
 ## 参考资料
 
-[Category:加拿大小說家](https://zh.wikipedia.org/wiki/Category:加拿大小說家 "wikilink")
-[Category:科幻小说作家](https://zh.wikipedia.org/wiki/Category:科幻小说作家 "wikilink")
-[Category:安大略省人](https://zh.wikipedia.org/wiki/Category:安大略省人 "wikilink")
-[Category:懷雅遜大學校友](https://zh.wikipedia.org/wiki/Category:懷雅遜大學校友 "wikilink")
-[Category:雨果獎獲獎作家](https://zh.wikipedia.org/wiki/Category:雨果獎獲獎作家 "wikilink")
+[Category:加拿大小說家](https://zh.wikipedia.org/wiki/Category:加拿大小說家 "wikilink") [Category:科幻小说作家](https://zh.wikipedia.org/wiki/Category:科幻小说作家 "wikilink") [Category:安大略省人](https://zh.wikipedia.org/wiki/Category:安大略省人 "wikilink") [Category:懷雅遜大學校友](https://zh.wikipedia.org/wiki/Category:懷雅遜大學校友 "wikilink") [Category:雨果獎獲獎作家](https://zh.wikipedia.org/wiki/Category:雨果獎獲獎作家 "wikilink")
 
 1.
 2.

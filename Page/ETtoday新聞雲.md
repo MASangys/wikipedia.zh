@@ -27,16 +27,14 @@
 [ETtoday_News_Live_Broadcast_Center_opening_ceremony_20161205.jpg](https://zh.wikipedia.org/wiki/File:ETtoday_News_Live_Broadcast_Center_opening_ceremony_20161205.jpg "fig:ETtoday_News_Live_Broadcast_Center_opening_ceremony_20161205.jpg")
 
   - 2013年1月，更名為ETtoday東森新聞雲，並正式投入[电子商务](../Page/电子商务.md "wikilink")平台。而ETtoday新聞雲仍用作簡稱。
-  - 2013年10月，根據[Alexa
-    Internet網路流量排名](../Page/Alexa_Internet.md "wikilink")，ETtoday東森新聞雲已成為臺灣新聞類網站第一名，緊接在後的是[聯合新聞網](../Page/聯合新聞網.md "wikilink")與[中時電子報](../Page/中時電子報.md "wikilink")\[5\]。
+  - 2013年10月，根據[Alexa Internet網路流量排名](../Page/Alexa_Internet.md "wikilink")，ETtoday東森新聞雲已成為臺灣新聞類網站第一名，緊接在後的是[聯合新聞網](../Page/聯合新聞網.md "wikilink")與[中時電子報](../Page/中時電子報.md "wikilink")\[5\]。
   - 2014年2月，根據數-{}-位時代雜誌評比之2014台灣網站100大，ETtoday東森新聞雲由2013年的31名前進到第9名，也是新聞網站第一名。
   - 2015年12月11日，[東森國際](../Page/東森國際.md "wikilink")副總經理兼發言人[鄭應娜說](https://zh.wikipedia.org/wiki/鄭應娜 "wikilink")，ETtoday東森新聞雲持續擴大規模，員工人數已達400人，網路日流量最高可達1600萬人次，前景相當看好，將成為東森國際下一個金雞母\[6\]。
   - 2016年4月初，王令麟找來前[台灣蘋果日報財富周刊總編輯王學呈擔任ETtoday東森新聞雲總編輯](https://zh.wikipedia.org/wiki/台灣蘋果日報 "wikilink")，原總編輯蔡慶輝升任社長。\[7\]。
   - 2016年8月，東森媒體集團「東森四少」之一、前[福斯國際電視網頻道暨節目營運總經理](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")[陳安祥重返東森集團](https://zh.wikipedia.org/wiki/陳安祥 "wikilink")，擔任ETtoday東森新聞雲總經理\[8\]。
   - 2016年12月5日，ETtoday東森新聞雲新聞直播中心開台儀式，新聞直播中心位於臺北市中正區忠孝西路一段4號15樓，[立法院院長](../Page/立法院院長.md "wikilink")[蘇嘉全](../Page/蘇嘉全.md "wikilink")、ETtoday東森新聞雲總經理陳安祥、ETtoday東森新聞雲總編輯王學呈一起按下開台啟動鈕；同日中午，ETtoday東森新聞雲第一個[現場直播](../Page/現場直播.md "wikilink")[政論節目](../Page/政論節目.md "wikilink")《雲端最前線》上線，首任主持人[楊文嘉](https://zh.wikipedia.org/wiki/楊文嘉 "wikilink")\[9\]\[10\]。
   - 2017年5月2日，網頁搭配全新識別標誌改版\[11\]。
-  - 2018年9月《ETtoday新聞雲》ETtoday榮獲comscore五個第一：跨平台總瀏覽量、總造訪次數、每位訪客觀看頁數第一名；Mobile
-    月不重複訪客、Mobile 總瀏覽量第一名。新聞雲深受Z世代喜愛，是年輕族群常看的新聞平台第一名。
+  - 2018年9月《ETtoday新聞雲》ETtoday榮獲comscore五個第一：跨平台總瀏覽量、總造訪次數、每位訪客觀看頁數第一名；Mobile 月不重複訪客、Mobile 總瀏覽量第一名。新聞雲深受Z世代喜愛，是年輕族群常看的新聞平台第一名。
   - 2018年，根據牛津數位新聞報告，新聞雲是台灣民眾最常使用的數位新聞品牌。根據IWIN最新調查，新聞雲深受11-18歲的青少年喜愛，是年輕族群常看的新聞平台第一名。
 
 ### ETNEWS新聞雲（2017年5月至10月）
@@ -125,14 +123,9 @@
   -
   - [台灣公司資料](http://company.g0v.ronny.tw/id/24328949)
 
-[Category:2009年台灣建立](https://zh.wikipedia.org/wiki/Category:2009年台灣建立 "wikilink")
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
-[Category:2011年建立的網站](https://zh.wikipedia.org/wiki/Category:2011年建立的網站 "wikilink")
-[Category:總部位於臺北市大安區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市大安區的工商業機構 "wikilink")
-[Category:台灣新聞網站](https://zh.wikipedia.org/wiki/Category:台灣新聞網站 "wikilink")
+[Category:2009年台灣建立](https://zh.wikipedia.org/wiki/Category:2009年台灣建立 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:2011年建立的網站](https://zh.wikipedia.org/wiki/Category:2011年建立的網站 "wikilink") [Category:總部位於臺北市大安區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市大安區的工商業機構 "wikilink") [Category:台灣新聞網站](https://zh.wikipedia.org/wiki/Category:台灣新聞網站 "wikilink")
 
-1.  部落小工，[〈當ETtoday接上bloguide〉](http://blog.nownews.com/article.php?bid=119&tid=19998)
-    ，《Bloguide》2006年5月16日。原文現存於[今日新聞網部落格](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")（blog.nownews.com）。
+1.  部落小工，[〈當ETtoday接上bloguide〉](http://blog.nownews.com/article.php?bid=119&tid=19998) ，《Bloguide》2006年5月16日。原文現存於[今日新聞網部落格](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")（blog.nownews.com）。
 
 2.
 

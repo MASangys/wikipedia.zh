@@ -1,8 +1,4 @@
-**格拉茨AK競技會**（簡稱：格拉茨AK，英文：Grazer AK，德語：Grazer Athletik
-Klub）創於1902年8月18日，當時稱為Grazer Athletik-Sport
-Klub（在[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")"GAK"
-及
-"Athletiker"這兩個簡稱是比較常用），位於[施蒂利亞州的](https://zh.wikipedia.org/wiki/施蒂利亞州 "wikilink")[格拉茨市內](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")，是奧地利最著名的[俱樂部之一](../Page/俱樂部.md "wikilink")，在1995至2005年間是格拉茨AK最成功的時期。而格拉茨AK設有[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[跳水及](../Page/跳水.md "wikilink")[乒乓部](https://zh.wikipedia.org/wiki/乒乓 "wikilink")。
+**格拉茨AK競技會**（簡稱：格拉茨AK，英文：Grazer AK，德語：Grazer Athletik Klub）創於1902年8月18日，當時稱為Grazer Athletik-Sport Klub（在[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")"GAK" 及 "Athletiker"這兩個簡稱是比較常用），位於[施蒂利亞州的](https://zh.wikipedia.org/wiki/施蒂利亞州 "wikilink")[格拉茨市內](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")，是奧地利最著名的[俱樂部](../Page/俱樂部.md "wikilink")之一，在1995至2005年間是格拉茨AK最成功的時期。而格拉茨AK設有[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[跳水](../Page/跳水.md "wikilink")及[乒乓部](https://zh.wikipedia.org/wiki/乒乓 "wikilink")。
 
 ## 球會破產
 
@@ -241,7 +237,7 @@ Klub（在[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")"GAK"
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/阿積士" title="wikilink">阿積士</a></p></td>
 <td style="text-align: center;"><p>1-1</p></td>
 <td style="text-align: center;"><p>1-2*</p></td>
-<td style="text-align: center;"><p>*阿積士馮<a href="../Page/銀球.md" title="wikilink">銀球制優惠以總比數</a>3-2晉級<br />
+<td style="text-align: center;"><p>*阿積士馮<a href="../Page/銀球.md" title="wikilink">銀球</a>制優惠以總比數3-2晉級<br />
 降到歐洲足協盃第一圈繼續參賽</p></td>
 </tr>
 <tr class="odd">
@@ -330,8 +326,7 @@ Klub（在[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")"GAK"
 
 ### 打吡戰
 
-以下是[格拉茨AK與同市](https://zh.wikipedia.org/wiki/格拉茨AK "wikilink")[格拉茨](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")（SK
-Sturm Graz）的比賽統計。（截止2005年8月23日）
+以下是[格拉茨AK與同市](https://zh.wikipedia.org/wiki/格拉茨AK "wikilink")[格拉茨](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")（SK Sturm Graz）的比賽統計。（截止2005年8月23日）
 
   - 勝出 | 46場
   - 賽和 | 42場

@@ -1,27 +1,22 @@
-**《誅仙
-Online**》是[完美世界互動科技股份有限公司开发的一款](https://zh.wikipedia.org/wiki/完美世界 "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，於[2007年4月](../Page/2007年4月.md "wikilink")[大陆开始内测](https://zh.wikipedia.org/wiki/大陆 "wikilink")。形象代言人为[任贤齐](https://zh.wikipedia.org/wiki/任贤齐 "wikilink")。
-[Zhu_xian.jpg](https://zh.wikipedia.org/wiki/File:Zhu_xian.jpg "fig:Zhu_xian.jpg")
+**《誅仙 Online**》是[完美世界互動科技股份有限公司开发的一款](https://zh.wikipedia.org/wiki/完美世界 "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，於[2007年4月](../Page/2007年4月.md "wikilink")[大陆开始内测](https://zh.wikipedia.org/wiki/大陆 "wikilink")。形象代言人为[任贤齐](https://zh.wikipedia.org/wiki/任贤齐 "wikilink")。 [Zhu_xian.jpg](https://zh.wikipedia.org/wiki/File:Zhu_xian.jpg "fig:Zhu_xian.jpg")
 
 ## 游戏介绍
 
-改编于[萧鼎的著名网络小说](../Page/萧鼎.md "wikilink")《[诛仙](../Page/诛仙.md "wikilink")》，依据小说开展游戏情節。
+改编于[萧鼎](../Page/萧鼎.md "wikilink")的著名网络小说《[诛仙](../Page/诛仙.md "wikilink")》，依据小说开展游戏情節。
 
 ### 游戏特色
 
-系统采用了与同公司开发的[完美世界](https://zh.wikipedia.org/wiki/完美世界 "wikilink")、[武林外传相同的引擎](../Page/武林外传.md "wikilink")，特别是与武林外传的画面与系统十分相似。
+系统采用了与同公司开发的[完美世界](https://zh.wikipedia.org/wiki/完美世界 "wikilink")、[武林外传](../Page/武林外传.md "wikilink")相同的引擎，特别是与武林外传的画面与系统十分相似。
 
 #### 升級
 
 目前誅仙的等級上限是一百五十級，和一般的網路遊戲一樣，玩家在遊戲中的主要活動在滿級以前都以升級為主，升級所需的經驗值在遊戲當中稱作**修為**。目前遊戲內的限時事件也以提供修為當作主要的獎勵。只有極少數情況玩家會避免等級的提升，例如為了獲取提升高等級生產技能所需要的低等級生產材料，或者在剛更換高等級裝備時利用裝備和前一階怪物的能力差異，暫時避免等級提升來賺取遊戲幣等等。
 
-遊戲中以每十五級作為一階段，每個階段又分為四個小階段，四種等級的怪物分布在每一階段的地圖中。比如說主城河阳的四周分布著等級一到十五的四個小階段的各種小怪物。各個地圖之間主要以**飛天仙子**npc提供的傳送為主要移動手段（須消費遊戲幣）。
-除了屬性的提升，玩家會隨著等級的提升得到技能點數，並自主分配在想要的技能上。除此之外，還會每五等級得到一個天書點數，並能自主分配在想要的天書上，天書的效用以提升技能為主，偶而也可以得到額外的技能。雖然如此，技能的強弱間有很明顯的差異，高等級技能經常可以完全淘汰掉低等級技能，因此要玩出個人風格的空間很受限制。
+遊戲中以每十五級作為一階段，每個階段又分為四個小階段，四種等級的怪物分布在每一階段的地圖中。比如說主城河阳的四周分布著等級一到十五的四個小階段的各種小怪物。各個地圖之間主要以**飛天仙子**npc提供的傳送為主要移動手段（須消費遊戲幣）。 除了屬性的提升，玩家會隨著等級的提升得到技能點數，並自主分配在想要的技能上。除此之外，還會每五等級得到一個天書點數，並能自主分配在想要的天書上，天書的效用以提升技能為主，偶而也可以得到額外的技能。雖然如此，技能的強弱間有很明顯的差異，高等級技能經常可以完全淘汰掉低等級技能，因此要玩出個人風格的空間很受限制。
 
 十五級的時候可以決定門派，自此之後除了飛劍、戒指和項鍊之外，各門派的裝備完全分開，通常每隔十五級有一個新階段的裝備。在各門派當中，男性和女性的裝備在頭部、衣服和鞋子等三處是各自分開的，武器、護符和法寶則相同。
 
-現行最新版本之遊戲開放了『飛升』，當人物飛升之後即可重新選擇門派進入，而不同的前世門派與後世的飛升門派雖有差異存在，但並不大。
-飛升之後可分為仙、魔、佛三個陣營，雖說有5x5x3個不同的玩法(五種前世門派x五種飛升後門派x三種陣營)但因其飛升之後的造化技能強弱並不平衡，造成職業與陣營之間呈現很大的差異。
-仙陣營：主要是群體技能，其造化效能為高爆擊，高爆傷。 佛陣營：主要是輔助技能，較高的保命屬性。 魔陣營：主要是控制技能，較高的攻擊輸出能力。
+現行最新版本之遊戲開放了『飛升』，當人物飛升之後即可重新選擇門派進入，而不同的前世門派與後世的飛升門派雖有差異存在，但並不大。 飛升之後可分為仙、魔、佛三個陣營，雖說有5x5x3個不同的玩法(五種前世門派x五種飛升後門派x三種陣營)但因其飛升之後的造化技能強弱並不平衡，造成職業與陣營之間呈現很大的差異。 仙陣營：主要是群體技能，其造化效能為高爆擊，高爆傷。 佛陣營：主要是輔助技能，較高的保命屬性。 魔陣營：主要是控制技能，較高的攻擊輸出能力。
 
 常見門派與陣營組合： 仙陣營：仙合歡、仙鬼道、仙天音 佛陣營：佛天音、佛鬼道、佛青雲、佛焚香 魔陣營：魔鬼王、魔鬼道、魔天音、魔烈山
 
@@ -94,9 +89,4 @@ Online**》是[完美世界互動科技股份有限公司开发的一款](https:
   - [诛仙（中国）官方网站](http://zhuxian.wanmei.com/)
   - [多玩诛仙专区](http://zx.duowan.com/)
 
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:小說改編電子遊戲](https://zh.wikipedia.org/wiki/Category:小說改編電子遊戲 "wikilink")
-[Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
-[Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
+[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:小說改編電子遊戲](https://zh.wikipedia.org/wiki/Category:小說改編電子遊戲 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")

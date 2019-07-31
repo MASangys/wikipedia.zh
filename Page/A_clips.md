@@ -1,5 +1,4 @@
-《**A
-clips**》（A片）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")發行的第二張影像作品，2000年2月23日於日本發售。本作僅發行錄影帶（[VHS](../Page/VHS.md "wikilink")）版本。
+《**A clips**》（A片）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")發行的第二張影像作品，2000年2月23日於日本發售。本作僅發行錄影帶（[VHS](../Page/VHS.md "wikilink")）版本。
 
 ## 說明
 
@@ -21,5 +20,4 @@ clips**》（A片）是[日本](../Page/日本.md "wikilink")[歌手](../Page/�
 
 ## 參考資料
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2000年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2000年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2000年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2000年音樂相關影像作品 "wikilink")

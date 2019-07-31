@@ -1,4 +1,4 @@
-**XLR250R偵察摩托車**是[陸上自衛隊採購的](../Page/陸上自衛隊.md "wikilink")[本田技研工業XLR](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")250R機車軍用版、有強力的輕型氣冷單汽缸引擎搭載，前輪有油壓式碟型煞車。
+**XLR250R偵察摩托車**是[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")採購的[本田技研工業XLR](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")250R機車軍用版、有強力的輕型氣冷單汽缸引擎搭載，前輪有油壓式碟型煞車。
 
 當時最新型的XLR250R在低・中速都有不錯性能還特別加強越野性。車體設計採高張力鋼管・高張力鋼板搭配使用，重量僅１１１kg（加油車重１２１kg）。
 
@@ -14,8 +14,6 @@
   - [本田XLR250R](http://www.soomoto.com/bphp/viewthread.php?tid=4508&extra=page%3D1)
   - [自衛隊装備品図鑑](https://web.archive.org/web/20080228050434/http://rightwing.sakura.ne.jp/equipment/jgsdf/armor/auto/honda-xlr/honda-xlr.html)
 
-[JGSDF_XLR250R_(HONDA)_4.jpg](https://zh.wikipedia.org/wiki/File:JGSDF_XLR250R_\(HONDA\)_4.jpg "fig:JGSDF_XLR250R_(HONDA)_4.jpg")
-[JGSDF_XLR250R_(HONDA)_5.jpg](https://zh.wikipedia.org/wiki/File:JGSDF_XLR250R_\(HONDA\)_5.jpg "fig:JGSDF_XLR250R_(HONDA)_5.jpg")
+[JGSDF_XLR250R_(HONDA)_4.jpg](https://zh.wikipedia.org/wiki/File:JGSDF_XLR250R_\(HONDA\)_4.jpg "fig:JGSDF_XLR250R_(HONDA)_4.jpg") [JGSDF_XLR250R_(HONDA)_5.jpg](https://zh.wikipedia.org/wiki/File:JGSDF_XLR250R_\(HONDA\)_5.jpg "fig:JGSDF_XLR250R_(HONDA)_5.jpg")
 
-[Category:本田機車車輛](https://zh.wikipedia.org/wiki/Category:本田機車車輛 "wikilink")
-[Category:軍用車輛](https://zh.wikipedia.org/wiki/Category:軍用車輛 "wikilink")
+[Category:本田機車車輛](https://zh.wikipedia.org/wiki/Category:本田機車車輛 "wikilink") [Category:軍用車輛](https://zh.wikipedia.org/wiki/Category:軍用車輛 "wikilink")

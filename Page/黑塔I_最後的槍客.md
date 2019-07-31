@@ -18,10 +18,7 @@
 
 主角[羅蘭是個槍客](../Page/羅蘭·德斯欽.md "wikilink")，槍客是有點類似貴族或騎士的人物。羅蘭的目標是追上黑衣人，並進而追尋黑塔。
 
-故事中的地點很像拓荒時代的美國西部，實際上是個架空的世界，一個正在『前進』的世界，而且和真實世界有點關連，好比說故事中曾提到的[披頭四名曲](https://zh.wikipedia.org/wiki/披頭四 "wikilink")＜[Hey
-Jude](https://zh.wikipedia.org/wiki/Hey_Jude "wikilink")＞，及兒歌＜豆子豆子懂音律＞（[Beans,
-Beans, the Musical
-Fruit](https://zh.wikipedia.org/wiki/:en:Beans,_Beans,_the_Musical_Fruit "wikilink")），還有真實世界留下的殘存科技，例如AMOCO牌無鉛加油機和在廢棄驛站中以原子發電的抽水機。
+故事中的地點很像拓荒時代的美國西部，實際上是個架空的世界，一個正在『前進』的世界，而且和真實世界有點關連，好比說故事中曾提到的[披頭四名曲](https://zh.wikipedia.org/wiki/披頭四 "wikilink")＜[Hey Jude](https://zh.wikipedia.org/wiki/Hey_Jude "wikilink")＞，及兒歌＜豆子豆子懂音律＞（[Beans, Beans, the Musical Fruit](https://zh.wikipedia.org/wiki/:en:Beans,_Beans,_the_Musical_Fruit "wikilink")），還有真實世界留下的殘存科技，例如AMOCO牌無鉛加油機和在廢棄驛站中以原子發電的抽水機。
 
 在故事的開頭，他遇見了農夫布朗和他的烏鴉佐爾頓，他慷慨地讓他在他的小屋過夜，[羅蘭向布朗敘述他在塔爾城的故事](https://zh.wikipedia.org/wiki/:羅蘭·德斯欽 "wikilink")。黑衣人到過塔爾城，他在那裡復活了一個叫諾特的人，並向當地的女酒保艾莉留下訊息，只要告訴諾特「[19](../Page/19.md "wikilink")」，他就會說出死亡的秘密。
 
@@ -41,22 +38,16 @@ Fruit](https://zh.wikipedia.org/wiki/:en:Beans,_Beans,_the_Musical_Fruit "wikili
 
 [史蒂芬金於](https://zh.wikipedia.org/wiki/史蒂芬金 "wikilink")2003年重新修正了《[最後的槍客](https://zh.wikipedia.org/wiki/最後的槍客 "wikilink")》，他感到有許多理由讓重新改寫一次是必須的，其中的第一個理由：《[最後的槍客](https://zh.wikipedia.org/wiki/最後的槍客 "wikilink")》對許多《[黑塔](https://zh.wikipedia.org/wiki/黑塔 "wikilink")》的新讀者來說太過於乏味及艱澀難懂。他讓劇情變得更順暢，和系列更連貫。其他還有一些小更動，以消除故事進展到後面時出現的矛盾。更動之後，修正版比原版多了超過九千字（約三十五頁）的長度。
 
-另外，《[最後的槍客](https://zh.wikipedia.org/wiki/最後的槍客 "wikilink")》中和《[黑塔](https://zh.wikipedia.org/wiki/黑塔 "wikilink")》系列其他的小說有許多的矛盾與錯誤，好比說原版中的[羅蘭曾在塔爾城看雜誌](https://zh.wikipedia.org/wiki/:羅蘭·德斯欽 "wikilink")，但到了《[黑塔II
-三張預言牌](../Page/黑塔II_三張預言牌.md "wikilink")》時又提到紙在羅蘭的世界是很珍貴的東西，及法爾森原本是個城鎮的名字，到系列後面的書中，他成了一個人。
+另外，《[最後的槍客](https://zh.wikipedia.org/wiki/最後的槍客 "wikilink")》中和《[黑塔](https://zh.wikipedia.org/wiki/黑塔 "wikilink")》系列其他的小說有許多的矛盾與錯誤，好比說原版中的[羅蘭曾在塔爾城看雜誌](https://zh.wikipedia.org/wiki/:羅蘭·德斯欽 "wikilink")，但到了《[黑塔II 三張預言牌](../Page/黑塔II_三張預言牌.md "wikilink")》時又提到紙在羅蘭的世界是很珍貴的東西，及法爾森原本是個城鎮的名字，到系列後面的書中，他成了一個人。
 
 另外在原版中，[華特在與](https://zh.wikipedia.org/wiki/華特·歐汀 "wikilink")[羅蘭的談話結束後很明顯的死亡了](../Page/羅蘭·德斯欽.md "wikilink")，而修正版中，羅蘭懷疑他到底是不是死了。
 
 中文版翻譯自修正版。
 
-修正版中還提到了最後一集的重要地點：藍天堂與奧古西恩多，這地方在《[黑塔VII
-業之門](https://zh.wikipedia.org/wiki/黑塔VII_業之門 "wikilink")》中是個關鍵。
+修正版中還提到了最後一集的重要地點：藍天堂與奧古西恩多，這地方在《[黑塔VII 業之門](https://zh.wikipedia.org/wiki/黑塔VII_業之門 "wikilink")》中是個關鍵。
 
 ## 其他版本
 
-<File:The> Gunslinger C.jpg|台灣《最後的槍客》封面
-[File:The_Gunslinger.jpg|中國《槍俠》封面](File:The_Gunslinger.jpg%7C中國《槍俠》封面)
+<File:The> Gunslinger C.jpg|台灣《最後的槍客》封面 [File:The_Gunslinger.jpg|中國《槍俠》封面](File:The_Gunslinger.jpg%7C中國《槍俠》封面)
 
-[Category:黑塔小說系列](https://zh.wikipedia.org/wiki/Category:黑塔小說系列 "wikilink")
-[Category:史蒂芬·金](https://zh.wikipedia.org/wiki/Category:史蒂芬·金 "wikilink")
-[Category:1982年長篇小說](https://zh.wikipedia.org/wiki/Category:1982年長篇小說 "wikilink")
-[Category:1982年美國小說](https://zh.wikipedia.org/wiki/Category:1982年美國小說 "wikilink")
+[Category:黑塔小說系列](https://zh.wikipedia.org/wiki/Category:黑塔小說系列 "wikilink") [Category:史蒂芬·金](https://zh.wikipedia.org/wiki/Category:史蒂芬·金 "wikilink") [Category:1982年長篇小說](https://zh.wikipedia.org/wiki/Category:1982年長篇小說 "wikilink") [Category:1982年美國小說](https://zh.wikipedia.org/wiki/Category:1982年美國小說 "wikilink")

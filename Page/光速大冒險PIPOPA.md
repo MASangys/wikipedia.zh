@@ -1,5 +1,4 @@
-《**光速大冒險PIPOPA**》（）為[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2008年推出的動畫作品，並於同年推出漫畫，次年推出了[Nintendo
-DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
+《**光速大冒險PIPOPA**》（）為[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2008年推出的動畫作品，並於同年推出漫畫，次年推出了[Nintendo DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 
 ## 故事大綱
 
@@ -1315,15 +1314,6 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 
   - [台灣群英社《-{光速大冒險PIPOPA}-》官方網站](http://www.my-cartoon.com.tw/pipopa/)
 
-[Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:網路題材作品](https://zh.wikipedia.org/wiki/Category:網路題材作品 "wikilink")
-[Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:小學背景漫畫](https://zh.wikipedia.org/wiki/Category:小學背景漫畫 "wikilink")
-[Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
+[Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:網路題材作品](https://zh.wikipedia.org/wiki/Category:網路題材作品 "wikilink") [Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:小學背景漫畫](https://zh.wikipedia.org/wiki/Category:小學背景漫畫 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
 
 1.  標題是依據字幕顯示的標題，不依配音說的標題

@@ -1,5 +1,4 @@
-**SD高達聖獸戰記
-獸魂爭霸戰**是[SD高達其中一系列的](https://zh.wikipedia.org/wiki/SD高達 "wikilink")[扭蛋公仔](https://zh.wikipedia.org/wiki/扭蛋 "wikilink")，每一彈都會有普通形態高達和覺醒形態高達，集齊一定數量的覺醒形態高達更可以合體成聖獸形態。
+**SD高達聖獸戰記 獸魂爭霸戰**是[SD高達其中一系列的](https://zh.wikipedia.org/wiki/SD高達 "wikilink")[扭蛋公仔](https://zh.wikipedia.org/wiki/扭蛋 "wikilink")，每一彈都會有普通形態高達和覺醒形態高達，集齊一定數量的覺醒形態高達更可以合體成聖獸形態。
 
 ## 萬聖士
 

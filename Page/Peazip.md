@@ -1,23 +1,7 @@
-{{ infobox software | logo =
-[Peazip_ico.png](https://zh.wikipedia.org/wiki/File:Peazip_ico.png "fig:Peazip_ico.png")
-| screenshot =
-[Peazip-screenshot.png](https://zh.wikipedia.org/wiki/File:Peazip-screenshot.png "fig:Peazip-screenshot.png")
-| caption = PeaZip运行于[Windows
-8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink") | author = |
-developer = Giorgio Tani | released =  | frequently updated = yes |
-programming language = [Free Pascal](../Page/Free_Pascal.md "wikilink")
-| operating system = [Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+{{ infobox software | logo = [Peazip_ico.png](https://zh.wikipedia.org/wiki/File:Peazip_ico.png "fig:Peazip_ico.png") | screenshot = [Peazip-screenshot.png](https://zh.wikipedia.org/wiki/File:Peazip-screenshot.png "fig:Peazip-screenshot.png") | caption = PeaZip运行于[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink") | author = | developer = Giorgio Tani | released =  | frequently updated = yes | programming language = [Free Pascal](../Page/Free_Pascal.md "wikilink") | operating system = [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 [Linux](../Page/Linux.md "wikilink")
 [BSD](../Page/BSD.md "wikilink")
-[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")（積極開發中） |
-platform = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | size =
-| language = 23种语言 | status = 进行中 | genre =
-[壓縮程式](https://zh.wikipedia.org/wiki/壓縮程式 "wikilink")、[檔案管理器](https://zh.wikipedia.org/wiki/檔案管理器 "wikilink")
-| license = [GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink") | website =
- }} **PeaZip**是可以在[Microsoft
-Windows或](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")作業系統中執行的檔案管理器及[壓縮程式](https://zh.wikipedia.org/wiki/壓縮 "wikilink")。\[1\]它除了支援自己原生的[PEA壓縮格式](https://zh.wikipedia.org/wiki/PEA壓縮格式 "wikilink")（主要功能為壓縮、分檔、彈性地認證加密、整合式檢查架構）外，還有支援其他的主流壓縮格式。不過有特別著重在處理開放授權的壓縮格式上。\[2\]\[3\]這套壓縮軟體主要使用[Lazarus](../Page/Lazarus.md "wikilink")開發工具以[Free
-Pascal語言進行撰寫](../Page/Free_Pascal.md "wikilink")。是以[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")發布的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
+[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")（積極開發中） | platform = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | size = | language = 23种语言 | status = 进行中 | genre = [壓縮程式](https://zh.wikipedia.org/wiki/壓縮程式 "wikilink")、[檔案管理器](https://zh.wikipedia.org/wiki/檔案管理器 "wikilink") | license = [GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink") | website =  }} **PeaZip**是可以在[Microsoft Windows或](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")作業系統中執行的檔案管理器及[壓縮程式](https://zh.wikipedia.org/wiki/壓縮 "wikilink")。\[1\]它除了支援自己原生的[PEA壓縮格式](https://zh.wikipedia.org/wiki/PEA壓縮格式 "wikilink")（主要功能為壓縮、分檔、彈性地認證加密、整合式檢查架構）外，還有支援其他的主流壓縮格式。不過有特別著重在處理開放授權的壓縮格式上。\[2\]\[3\]這套壓縮軟體主要使用[Lazarus](../Page/Lazarus.md "wikilink")開發工具以[Free Pascal語言進行撰寫](../Page/Free_Pascal.md "wikilink")。是以[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")發布的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 ## 功能
 
@@ -27,8 +11,7 @@ PeaZip提供使用者透過圖形化使用者介面的前端程式來自動產�
 
 其他比較值得注意的功能還包含了檔案的切割與合併、安全刪檔、位元式檔案比對、檔案完整性檢查、系統效能監控、隨機密碼／密鑰產生器、及整合進[檔案總管](../Page/檔案總管.md "wikilink")[右鍵選單](https://zh.wikipedia.org/wiki/右鍵選單 "wikilink")。除此之外，程式的使用者介面（包含圖片及顏色配置）都可以自行調整。\[4\]\[5\]\[6\]
 
-PeaZip除了提供Windows及Linux（DEB,
-RPM及TGZ格式）的安裝檔之外，亦有對此兩種平台提供無需安裝的可攜式版本。在最近也提供了PortableApps的格式（.paf.exe）.\[7\]
+PeaZip除了提供Windows及Linux（DEB, RPM及TGZ格式）的安裝檔之外，亦有對此兩種平台提供無需安裝的可攜式版本。在最近也提供了PortableApps的格式（.paf.exe）.\[7\]
 
 如同[7z](../Page/7z.md "wikilink")，[Tar](../Page/Tar.md "wikilink")，[ZIP等這些知名且泛用的壓縮格式一般](https://zh.wikipedia.org/wiki/ZIP "wikilink")，PeaZip也支援[PAQ](https://zh.wikipedia.org/wiki/PAQ "wikilink")、LPAQ及ZPAQ格式：儘管這並不建議使用於一般狀況下（因為太耗記憶體且太慢），這些格式因具備對多數資料結構有最佳的壓縮比，在壓縮科技上具有重大突破，所以還是列入支援。\[8\]\[9\]
 
@@ -40,19 +23,12 @@ RPM及TGZ格式）的安裝檔之外，亦有對此兩種平台提供無需安�
 
 PeaZip作為一個圖形化[前端軟體](https://zh.wikipedia.org/wiki/前端 "wikilink")，有支援大量的第三方開放源碼或免費授權公用程式：
 
-  - 可以執行Igor
-    Pavlov的[7z以及Linux下的POSIX](https://zh.wikipedia.org/wiki/7-zip "wikilink")
-    port of 7z
+  - 可以執行Igor Pavlov的[7z以及Linux下的POSIX](https://zh.wikipedia.org/wiki/7-zip "wikilink") port of 7z
   - Bulat Ziganshin的FreeArc壓縮軟體（不要跟SEA的ARC混淆）
-  - [PAQ](https://zh.wikipedia.org/wiki/PAQ "wikilink")8、LPAQ及ZPAQ的執行檔，由Matt
-    Mahoney及眾多開發者維護。
-  - Ilia
-    Muraviev的[QUAD和BALZ](https://zh.wikipedia.org/wiki/QUAD_\(compressor\) "wikilink")
-    compressors
+  - [PAQ](https://zh.wikipedia.org/wiki/PAQ "wikilink")8、LPAQ及ZPAQ的執行檔，由Matt Mahoney及眾多開發者維護。
+  - Ilia Muraviev的[QUAD和BALZ](https://zh.wikipedia.org/wiki/QUAD_\(compressor\) "wikilink") compressors
   - GNU strip和[UPX](../Page/UPX.md "wikilink")
-  - UNACEV2.DLL 2.6.0.0（royalty-free UNACEV2.DLL license）及UNACE for
-    Linux (royalty-free UNACE for Linux license)（maintained by Marcel
-    Lemke, ACE Compression Software）
+  - UNACEV2.DLL 2.6.0.0（royalty-free UNACEV2.DLL license）及UNACE for Linux (royalty-free UNACE for Linux license)（maintained by Marcel Lemke, ACE Compression Software）
 
 這些公用程式大多都可以在控制台模式下執行或透過圖形轉介來提供更加友善的輸出資訊。
 
@@ -83,8 +59,7 @@ PeaZip作為一個圖形化[前端軟體](https://zh.wikipedia.org/wiki/前端 "
   - [ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")
   - [CAB](../Page/CAB.md "wikilink")
   - [CHM](https://zh.wikipedia.org/wiki/CHM "wikilink")
-  - [COMPOUND檔](https://zh.wikipedia.org/wiki/Compound_Files "wikilink")（MSI,
-    DOC, PPT, XLS...）
+  - [COMPOUND檔](https://zh.wikipedia.org/wiki/Compound_Files "wikilink")（MSI, DOC, PPT, XLS...）
   - [CPIO](https://zh.wikipedia.org/wiki/CPIO "wikilink")
   - [DEB](https://zh.wikipedia.org/wiki/DEB "wikilink")
   - [EAR](https://zh.wikipedia.org/wiki/EAR "wikilink")
@@ -116,14 +91,11 @@ PeaZip作為一個圖形化[前端軟體](https://zh.wikipedia.org/wiki/前端 "
 ## 外部連結
 
   - [PeaZip home page](http://www.peazip.org/)
-  - [Pea archiving utility / PEA archive
-    type](http://www.peazip.org/pea-archiving-utility.html)—PEA file
-    format specifications
+  - [Pea archiving utility / PEA archive type](http://www.peazip.org/pea-archiving-utility.html)—PEA file format specifications
 
 ## 參考
 
-[Category:文書處理器](https://zh.wikipedia.org/wiki/Category:文書處理器 "wikilink")
-[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
+[Category:文書處理器](https://zh.wikipedia.org/wiki/Category:文書處理器 "wikilink") [Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
 
 1.
 2.

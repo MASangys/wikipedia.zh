@@ -6,14 +6,11 @@
 
 <!-- end list -->
 
-  - [Amein\!](https://zh.wikipedia.org/wiki/Amein! "wikilink")：其界面介于ArcMap和UMN
-    Mapserver之间.AmeiN\!写了一个ArcMap下的扩展，把UMN
-    Mapserver写成了ArcMap的一个组件，同时也编写了它的项目文件，转换了它的许多实例。
+  - [Amein\!](https://zh.wikipedia.org/wiki/Amein! "wikilink")：其界面介于ArcMap和UMN Mapserver之间.AmeiN\!写了一个ArcMap下的扩展，把UMN Mapserver写成了ArcMap的一个组件，同时也编写了它的项目文件，转换了它的许多实例。
 
 <!-- end list -->
 
-  - [APR
-    Parser](https://zh.wikipedia.org/wiki/APR_Parser "wikilink")：与ArcView协同工作，引导包含了众多项目、表单、视图等的海量文件获取和存放。由于获取的复杂性，几乎不可能看到这些表单间所有的链接。一个数据库包括了所有的帮助定位数据和加速搜索的信息。
+  - [APR Parser](https://zh.wikipedia.org/wiki/APR_Parser "wikilink")：与ArcView协同工作，引导包含了众多项目、表单、视图等的海量文件获取和存放。由于获取的复杂性，几乎不可能看到这些表单间所有的链接。一个数据库包括了所有的帮助定位数据和加速搜索的信息。
 
 <!-- end list -->
 
@@ -25,8 +22,7 @@
 
 <!-- end list -->
 
-  - [AVCE00](https://zh.wikipedia.org/wiki/AVCE00 "wikilink")：是开源的[ANSI
-    C库](../Page/ANSI_C.md "wikilink")，能够使Arc/Info矢量图形显示为E00格式。它允许你像处理E00一样读写这些[二进制文件](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")。
+  - [AVCE00](https://zh.wikipedia.org/wiki/AVCE00 "wikilink")：是开源的[ANSI C库](../Page/ANSI_C.md "wikilink")，能够使Arc/Info矢量图形显示为E00格式。它允许你像处理E00一样读写这些[二进制文件](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")。
 
 <!-- end list -->
 
@@ -34,8 +30,7 @@
 
 <!-- end list -->
 
-  - [AVPython](https://zh.wikipedia.org/wiki/AVPython "wikilink")：AVPython在ArcView
-    GIS里内嵌了一个[Python](../Page/Python.md "wikilink")程序语言。借此，我们可以突破大部分互操作性、可扩展性的障碍，连草根开发者也可以构建现代化的应用。
+  - [AVPython](https://zh.wikipedia.org/wiki/AVPython "wikilink")：AVPython在ArcView GIS里内嵌了一个[Python](../Page/Python.md "wikilink")程序语言。借此，我们可以突破大部分互操作性、可扩展性的障碍，连草根开发者也可以构建现代化的应用。
 
 <!-- end list -->
 
@@ -55,8 +50,7 @@
 
 <!-- end list -->
 
-  - [BRL
-    CADl](https://zh.wikipedia.org/wiki/BRL_CADl "wikilink")：BRL-CAD包是一个功能强大的构造实体几何（CSG）的实体造型系统。
+  - [BRL CADl](https://zh.wikipedia.org/wiki/BRL_CADl "wikilink")：BRL-CAD包是一个功能强大的构造实体几何（CSG）的实体造型系统。
 
 <!-- end list -->
 
@@ -76,25 +70,19 @@
 
 <!-- end list -->
 
-  - [Chameleon](https://zh.wikipedia.org/wiki/Chameleon "wikilink")：Chameloen技术是网页地图领域一项革命性的进步，由DM
-    Solutions开发，旨在创建高度定制化和适应性的环境，部署和管理网页地图应用。
+  - [Chameleon](https://zh.wikipedia.org/wiki/Chameleon "wikilink")：Chameloen技术是网页地图领域一项革命性的进步，由DM Solutions开发，旨在创建高度定制化和适应性的环境，部署和管理网页地图应用。
 
 <!-- end list -->
 
-  - [Cocoon
-    ArcIMS](https://zh.wikipedia.org/wiki/Cocoon_ArcIMS "wikilink")：使用Apache
-    Cocoon在ArcIMS上执行wrapper。
+  - [Cocoon ArcIMS](https://zh.wikipedia.org/wiki/Cocoon_ArcIMS "wikilink")：使用Apache Cocoon在ArcIMS上执行wrapper。
 
 <!-- end list -->
 
-  - [Community
-    Mapbuilder](https://zh.wikipedia.org/wiki/Community_Mapbuilder "wikilink")：使命是使社区合作使用基于标准的，开放源码的工具建立并分享地理数据。为基于浏览器的地图饰件开发开源的mapbuilder库。
+  - [Community Mapbuilder](https://zh.wikipedia.org/wiki/Community_Mapbuilder "wikilink")：使命是使社区合作使用基于标准的，开放源码的工具建立并分享地理数据。为基于浏览器的地图饰件开发开源的mapbuilder库。
 
 <!-- end list -->
 
-  - [Computer Vision
-    Library](https://zh.wikipedia.org/wiki/Computer_Vision_Library "wikilink")：建立开源视图社区，提供网站来结合和更好地执行社区贡献的成果。参见this
-    Computer Vision List。
+  - [Computer Vision Library](https://zh.wikipedia.org/wiki/Computer_Vision_Library "wikilink")：建立开源视图社区，提供网站来结合和更好地执行社区贡献的成果。参见this Computer Vision List。
 
 <!-- end list -->
 
@@ -106,18 +94,15 @@
 
 <!-- end list -->
 
-  - [Demeter Terrain
-    Engine](https://zh.wikipedia.org/wiki/Demeter_Terrain_Engine "wikilink")：Demeter是一个跨平台C++库，用[OpenGL](../Page/OpenGL.md "wikilink")渲染3D地形。Demeter组件为快速性能和良好视觉质量设计，并利用先进技术，如动态镶嵌（自适应网格），实时渲染广域地物，而不需要高端硬件。以独立组件编写而可轻松嵌入任何应用。
+  - [Demeter Terrain Engine](https://zh.wikipedia.org/wiki/Demeter_Terrain_Engine "wikilink")：Demeter是一个跨平台C++库，用[OpenGL](../Page/OpenGL.md "wikilink")渲染3D地形。Demeter组件为快速性能和良好视觉质量设计，并利用先进技术，如动态镶嵌（自适应网格），实时渲染广域地物，而不需要高端硬件。以独立组件编写而可轻松嵌入任何应用。
 
 <!-- end list -->
 
-  - [DEM
-    Tools](https://zh.wikipedia.org/wiki/DEM_Tools "wikilink")：这个包有助于预览DEM（数字高程模型）数据集和在这个星球的不同位置漫步虚拟时空。
+  - [DEM Tools](https://zh.wikipedia.org/wiki/DEM_Tools "wikilink")：这个包有助于预览DEM（数字高程模型）数据集和在这个星球的不同位置漫步虚拟时空。
 
 <!-- end list -->
 
-  - [DEMViewer](https://zh.wikipedia.org/wiki/DEMViewer "wikilink")：DEMViewer是一个Java编写的数字高程模型看图器。利用它你可以可视化ArcInfo生成的数字高程模型（如ASCII文件）并接合数据（照旧使用ArcGrid
-    ASCII输出格式和/或JPG/PNG/GIF图像格式）。
+  - [DEMViewer](https://zh.wikipedia.org/wiki/DEMViewer "wikilink")：DEMViewer是一个Java编写的数字高程模型看图器。利用它你可以可视化ArcInfo生成的数字高程模型（如ASCII文件）并接合数据（照旧使用ArcGrid ASCII输出格式和/或JPG/PNG/GIF图像格式）。
 
 <!-- end list -->
 
@@ -125,8 +110,7 @@
 
 <!-- end list -->
 
-  - [Discovering
-    Cambodia](https://zh.wikipedia.org/wiki/Discovering_Cambodia "wikilink")：这个网站提出了一个网络地图服务的开源GIS解决方案，原为开发在线互动地图原型，以通过地图和事实发掘柬埔寨。
+  - [Discovering Cambodia](https://zh.wikipedia.org/wiki/Discovering_Cambodia "wikilink")：这个网站提出了一个网络地图服务的开源GIS解决方案，原为开发在线互动地图原型，以通过地图和事实发掘柬埔寨。
 
 <!-- end list -->
 
@@ -178,9 +162,7 @@
 
 <!-- end list -->
 
-  - [FWTools](https://zh.wikipedia.org/wiki/FWTools "wikilink")：FWTools是一套用于Windows（win32）和Linux
-    (x86)的开源GIS二进制文件，作者是Frank
-    Warmerdam。以前称为OpenEV_FW。这套文件的目的是便于用户安装和入门的。无需从源编译，或是收集大量相互关联的软件包。FWTools包括了OpenEV、GDAL、MapServer、PROJ.4和OGDI以及一些辅助部件。
+  - [FWTools](https://zh.wikipedia.org/wiki/FWTools "wikilink")：FWTools是一套用于Windows（win32）和Linux (x86)的开源GIS二进制文件，作者是Frank Warmerdam。以前称为OpenEV_FW。这套文件的目的是便于用户安装和入门的。无需从源编译，或是收集大量相互关联的软件包。FWTools包括了OpenEV、GDAL、MapServer、PROJ.4和OGDI以及一些辅助部件。
 
 ## G - H
 
@@ -196,15 +178,11 @@
 
 <!-- end list -->
 
-  - [GDV Mapserver
-    Client](https://zh.wikipedia.org/wiki/GDV_Mapserver_Client "wikilink")：用Javascript写就的Mapserver网络客户端。
+  - [GDV Mapserver Client](https://zh.wikipedia.org/wiki/GDV_Mapserver_Client "wikilink")：用Javascript写就的Mapserver网络客户端。
 
 <!-- end list -->
 
-  - [gecko.NET Library and Web
-    Service](https://zh.wikipedia.org/wiki/gecko.NET_Library_and_Web_Service "wikilink")：gecko.NET是一个自由、开源、原生的[.NET框架](../Page/.NET框架.md "wikilink")[地理信息系统](../Page/地理信息系统.md "wikilink")地图网络服务、可视化控制和库，用于支持[.NET用户控制和库的软件开发环境](https://zh.wikipedia.org/wiki/.NET "wikilink")。你可以将gecko.NET用于以[Visual
-    Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")、[C
-    Sharp和任何支持](https://zh.wikipedia.org/wiki/C_Sharp "wikilink").NET平台的语言所写的应用。
+  - [gecko.NET Library and Web Service](https://zh.wikipedia.org/wiki/gecko.NET_Library_and_Web_Service "wikilink")：gecko.NET是一个自由、开源、原生的[.NET框架](../Page/.NET框架.md "wikilink")[地理信息系统](../Page/地理信息系统.md "wikilink")地图网络服务、可视化控制和库，用于支持[.NET用户控制和库的软件开发环境](https://zh.wikipedia.org/wiki/.NET "wikilink")。你可以将gecko.NET用于以[Visual Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")、[C Sharp和任何支持](https://zh.wikipedia.org/wiki/C_Sharp "wikilink").NET平台的语言所写的应用。
 
 <!-- end list -->
 
@@ -216,13 +194,11 @@
 
 <!-- end list -->
 
-  - [General Cartographic Transformation Package -
-    Fortran](https://zh.wikipedia.org/wiki/General_Cartographic_Transformation_Package_-_Fortran "wikilink")：通用制图转换包（GCTP）是一个软件系统，常规地被设计成允许从一幅地图影射到另一幅的坐标变换。
+  - [General Cartographic Transformation Package - Fortran](https://zh.wikipedia.org/wiki/General_Cartographic_Transformation_Package_-_Fortran "wikilink")：通用制图转换包（GCTP）是一个软件系统，常规地被设计成允许从一幅地图影射到另一幅的坐标变换。
 
 <!-- end list -->
 
-  - [General Cartographic Transformation Package -
-    JavaScript](https://zh.wikipedia.org/wiki/General_Cartographic_Transformation_Package_-_JavaScript "wikilink")：通用制图转换包-[JavaScript](../Page/JavaScript.md "wikilink")版（GCTP-JS）是开源JavaScript指令集，用以提供动态的、从互联网应用到客户端的坐标变换。它提供了一定数量的坐标之间的变换能力，包括Lambert、[亚尔勃斯投影](https://zh.wikipedia.org/wiki/亚尔勃斯投影 "wikilink")、UTM等。
+  - [General Cartographic Transformation Package - JavaScript](https://zh.wikipedia.org/wiki/General_Cartographic_Transformation_Package_-_JavaScript "wikilink")：通用制图转换包-[JavaScript](../Page/JavaScript.md "wikilink")版（GCTP-JS）是开源JavaScript指令集，用以提供动态的、从互联网应用到客户端的坐标变换。它提供了一定数量的坐标之间的变换能力，包括Lambert、[亚尔勃斯投影](https://zh.wikipedia.org/wiki/亚尔勃斯投影 "wikilink")、UTM等。
 
 <!-- end list -->
 
@@ -246,8 +222,7 @@
 
 <!-- end list -->
 
-  - [GeoIP
-    API](https://zh.wikipedia.org/wiki/GeoIP_API "wikilink")：GeoIP是一个根据[IP地址](../Page/IP地址.md "wikilink")查询位置的[API的集成](https://zh.wikipedia.org/wiki/API "wikilink")。它支持对国家、地区、城市、纬度和经度的查询。
+  - [GeoIP API](https://zh.wikipedia.org/wiki/GeoIP_API "wikilink")：GeoIP是一个根据[IP地址](../Page/IP地址.md "wikilink")查询位置的[API的集成](https://zh.wikipedia.org/wiki/API "wikilink")。它支持对国家、地区、城市、纬度和经度的查询。
 
 <!-- end list -->
 
@@ -259,8 +234,7 @@
 
 <!-- end list -->
 
-  - [GeoNetwork
-    OpenSource](../Page/GeoNetwork_OpenSource.md "wikilink")：一个空间数据元数据的门户网站，实现国际地理元数据标准（ISO19115）和（将要实现）OpenGIS网络目录服务分布式数据库搜索标准。使用应用程序，你可以快速建立元数据门户，允许在线维护元数据和数据，供局域网内部使用或互联网发表。
+  - [GeoNetwork OpenSource](../Page/GeoNetwork_OpenSource.md "wikilink")：一个空间数据元数据的门户网站，实现国际地理元数据标准（ISO19115）和（将要实现）OpenGIS网络目录服务分布式数据库搜索标准。使用应用程序，你可以快速建立元数据门户，允许在线维护元数据和数据，供局域网内部使用或互联网发表。
 
 <!-- end list -->
 
@@ -272,8 +246,7 @@
 
 <!-- end list -->
 
-  - [GeoServer](https://zh.wikipedia.org/wiki/GeoServer "wikilink")：GeoServer项目是一个[Java
-    EE实现的OpenGeospatial网络功能服务器规范](https://zh.wikipedia.org/wiki/Java_EE "wikilink")，由开放规划项目（TOPP）维护。
+  - [GeoServer](https://zh.wikipedia.org/wiki/GeoServer "wikilink")：GeoServer项目是一个[Java EE实现的OpenGeospatial网络功能服务器规范](https://zh.wikipedia.org/wiki/Java_EE "wikilink")，由开放规划项目（TOPP）维护。
 
 <!-- end list -->
 
@@ -281,20 +254,15 @@
 
 <!-- end list -->
 
-  - [GeoTools](https://zh.wikipedia.org/wiki/GeoTools "wikilink")：Geo
-    Tools是自由的基于[Java](../Page/Java.md "wikilink")的制图工具包，允许在[网页浏览器](../Page/网页浏览器.md "wikilink")上交互式浏览[地图](../Page/地图.md "wikilink")，而无需专门的服务器端的支持。
+  - [GeoTools](https://zh.wikipedia.org/wiki/GeoTools "wikilink")：Geo Tools是自由的基于[Java](../Page/Java.md "wikilink")的制图工具包，允许在[网页浏览器](../Page/网页浏览器.md "wikilink")上交互式浏览[地图](../Page/地图.md "wikilink")，而无需专门的服务器端的支持。
 
 <!-- end list -->
 
-  - [Geotools.Net](https://zh.wikipedia.org/wiki/Geotools.Net "wikilink")：Geotools.Net是一套.Net类，有助于处理地理信息。该项目始于从Java移植到C\#的JTS
-    1.2。它实现了以下OpenGIS规范：简单功能规范、坐标转换服务。其他功能包括：读写已知二进制文件、输出到[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")、ESRI
-    shapefile格式导入和导出。
+  - [Geotools.Net](https://zh.wikipedia.org/wiki/Geotools.Net "wikilink")：Geotools.Net是一套.Net类，有助于处理地理信息。该项目始于从Java移植到C\#的JTS 1.2。它实现了以下OpenGIS规范：简单功能规范、坐标转换服务。其他功能包括：读写已知二进制文件、输出到[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")、ESRI shapefile格式导入和导出。
 
 <!-- end list -->
 
-  - [GeoVista
-    Studio](https://zh.wikipedia.org/wiki/GeoVista_Studio "wikilink")：GeoVISTA
-    Studio是一个开放的地理空间数据软件开发环境。Studio是一种免编程环境，能使用户快速建立应用进行地理计算和地理可视化。
+  - [GeoVista Studio](https://zh.wikipedia.org/wiki/GeoVista_Studio "wikilink")：GeoVISTA Studio是一个开放的地理空间数据软件开发环境。Studio是一种免编程环境，能使用户快速建立应用进行地理计算和地理可视化。
 
 <!-- end list -->
 
@@ -318,15 +286,11 @@
 
 <!-- end list -->
 
-  - [GIServer](https://zh.wikipedia.org/wiki/GIServer "wikilink")：GIServer是从inovaGIS项目创建的，在互联网上提供免费接入GIS的功能。它仅需具有表格功能的一个互联网浏览器（如[網景
-    (瀏覽器)](../Page/網景_\(瀏覽器\).md "wikilink")）……
+  - [GIServer](https://zh.wikipedia.org/wiki/GIServer "wikilink")：GIServer是从inovaGIS项目创建的，在互联网上提供免费接入GIS的功能。它仅需具有表格功能的一个互联网浏览器（如[網景 (瀏覽器)](../Page/網景_\(瀏覽器\).md "wikilink")）……
 
 <!-- end list -->
 
-  - [GIS
-    Knoppix](https://zh.wikipedia.org/wiki/GIS_Knoppix "wikilink")：GIS-Knoppix是一份预装GIS软件的[Linux](../Page/Linux.md "wikilink")
-    [Live
-    CD](../Page/Live_CD.md "wikilink")，基于[Knoppix](../Page/Knoppix.md "wikilink")。
+  - [GIS Knoppix](https://zh.wikipedia.org/wiki/GIS_Knoppix "wikilink")：GIS-Knoppix是一份预装GIS软件的[Linux](../Page/Linux.md "wikilink") [Live CD](../Page/Live_CD.md "wikilink")，基于[Knoppix](../Page/Knoppix.md "wikilink")。
 
 <!-- end list -->
 
@@ -334,8 +298,7 @@
 
 <!-- end list -->
 
-  - [gispython](https://zh.wikipedia.org/wiki/gispython "wikilink")：这是几个基于PROJ.4、GEOS、GDAL/OGR、MapServer和etree
-    XML界面的网络绘图和GIS项目之家。目标是新的连贯性和模块化的核心，地理空间的[Python](../Page/Python.md "wikilink")编程。
+  - [gispython](https://zh.wikipedia.org/wiki/gispython "wikilink")：这是几个基于PROJ.4、GEOS、GDAL/OGR、MapServer和etree XML界面的网络绘图和GIS项目之家。目标是新的连贯性和模块化的核心，地理空间的[Python](../Page/Python.md "wikilink")编程。
 
 <!-- end list -->
 
@@ -347,8 +310,7 @@
 
 <!-- end list -->
 
-  - [GML4J](https://zh.wikipedia.org/wiki/GML4J "wikilink")：GML4J是一个便利的Java
-    API，与地理标记语言\[2\]协同作业。GML是一个基于XML的地理信息编码框架，为[开放地理空间协会](../Page/开放地理空间协会.md "wikilink")所建议采用。
+  - [GML4J](https://zh.wikipedia.org/wiki/GML4J "wikilink")：GML4J是一个便利的Java API，与地理标记语言\[2\]协同作业。GML是一个基于XML的地理信息编码框架，为[开放地理空间协会](../Page/开放地理空间协会.md "wikilink")所建议采用。
 
 <!-- end list -->
 
@@ -372,8 +334,7 @@
 
 <!-- end list -->
 
-  - [GPSMan](https://zh.wikipedia.org/wiki/GPSMan "wikilink")：GPS管理者（GPSMan）是一个GPS数据图形化管理器，创建一个配置、检查、编辑GPS数据的用户友好界面。GPSMan支持包括[台灣國際航電](../Page/台灣國際航電.md "wikilink")和Lowrance接收机的通讯和实时登陆，也接受任何支持NMEA
-    0183标准的GPS接收机实时登陆信息。
+  - [GPSMan](https://zh.wikipedia.org/wiki/GPSMan "wikilink")：GPS管理者（GPSMan）是一个GPS数据图形化管理器，创建一个配置、检查、编辑GPS数据的用户友好界面。GPSMan支持包括[台灣國際航電](../Page/台灣國際航電.md "wikilink")和Lowrance接收机的通讯和实时登陆，也接受任何支持NMEA 0183标准的GPS接收机实时登陆信息。
 
 <!-- end list -->
 
@@ -385,8 +346,7 @@
 
 <!-- end list -->
 
-  - [gpsutils](https://zh.wikipedia.org/wiki/gpsutils "wikilink")：这个项目的目的是开发开源GPS软件库及应用。兴趣特别集中于开发软件，允许由低成本的OEM单元，如Garmin
-    GPS35 TracPak，对伪距/载波相位数据进行后处理。
+  - [gpsutils](https://zh.wikipedia.org/wiki/gpsutils "wikilink")：这个项目的目的是开发开源GPS软件库及应用。兴趣特别集中于开发软件，允许由低成本的OEM单元，如Garmin GPS35 TracPak，对伪距/载波相位数据进行后处理。
 
 <!-- end list -->
 
@@ -410,9 +370,7 @@
 
 <!-- end list -->
 
-  - [GSLIB](https://zh.wikipedia.org/wiki/GSLIB "wikilink")：GSLIB是Geostatistical
-    Software
-    LIBrary（地统计学软件库）的缩写。该名称最早用于15年前[斯坦福大学收集地统计程序的项目](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")。
+  - [GSLIB](https://zh.wikipedia.org/wiki/GSLIB "wikilink")：GSLIB是Geostatistical Software LIBrary（地统计学软件库）的缩写。该名称最早用于15年前[斯坦福大学收集地统计程序的项目](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")。
 
 <!-- end list -->
 
@@ -420,13 +378,11 @@
 
 <!-- end list -->
 
-  - [GTS
-    Library](https://zh.wikipedia.org/wiki/GTS_Library "wikilink")：GTS代表[GNU](../Page/GNU.md "wikilink")三角表面库。这是一个开源免费软件库，意在提供一套有用的以网状关联三角形处理三维表面的功能。
+  - [GTS Library](https://zh.wikipedia.org/wiki/GTS_Library "wikilink")：GTS代表[GNU](../Page/GNU.md "wikilink")三角表面库。这是一个开源免费软件库，意在提供一套有用的以网状关联三角形处理三维表面的功能。
 
 <!-- end list -->
 
-  - [Guidebee](https://zh.wikipedia.org/wiki/Guidebee "wikilink")：引路蜂手机电子地图API，提供手机平台（[Java
-    ME等](../Page/Java_ME.md "wikilink")）电子地图API，包括地址查询、路径查询、语音导航等。\[3\]
+  - [Guidebee](https://zh.wikipedia.org/wiki/Guidebee "wikilink")：引路蜂手机电子地图API，提供手机平台（[Java ME等](../Page/Java_ME.md "wikilink")）电子地图API，包括地址查询、路径查询、语音导航等。\[3\]
 
 <!-- end list -->
 
@@ -434,8 +390,7 @@
 
 <!-- end list -->
 
-  - [Hierarchical Triangular
-    Mesh](https://zh.wikipedia.org/wiki/Hierarchical_Triangular_Mesh "wikilink")：分层三角网格（HTM）是一个分割单位球面以为球面三角的分割模式。它是一个分层模式，将下层分成并非绝对，但是大略相等的部分。
+  - [Hierarchical Triangular Mesh](https://zh.wikipedia.org/wiki/Hierarchical_Triangular_Mesh "wikilink")：分层三角网格（HTM）是一个分割单位球面以为球面三角的分割模式。它是一个分层模式，将下层分成并非绝对，但是大略相等的部分。
 
 <!-- end list -->
 
@@ -447,8 +402,7 @@
 
 ## I - M
 
-  - [iGeoPortal](https://zh.wikipedia.org/wiki/iGeoPortal "wikilink")：这是首次发布的deegree
-    iGeoPortal。Deegree新的客户/门户组件是一个模块化客户端，其配置给予OGC网站地图上下文格式/文书。不同的模块能够提供网页地图客户端功能以及地名词典客户端、目录客户端或WFS客户端的功能。
+  - [iGeoPortal](https://zh.wikipedia.org/wiki/iGeoPortal "wikilink")：这是首次发布的deegree iGeoPortal。Deegree新的客户/门户组件是一个模块化客户端，其配置给予OGC网站地图上下文格式/文书。不同的模块能够提供网页地图客户端功能以及地名词典客户端、目录客户端或WFS客户端的功能。
 
 <!-- end list -->
 
@@ -460,10 +414,7 @@
 
 <!-- end list -->
 
-  - [Imagine
-    Reader](https://zh.wikipedia.org/wiki/Imagine_Reader "wikilink")：该阅读器包括一个[C++](../Page/C++.md "wikilink")
-    [API](https://zh.wikipedia.org/wiki/API "wikilink")，可以阅读任何Erdas
-    Imagine的信息，分层文件、结构文件，以及高水准的将地相关数据向GeoTIFF转换的程序。
+  - [Imagine Reader](https://zh.wikipedia.org/wiki/Imagine_Reader "wikilink")：该阅读器包括一个[C++](../Page/C++.md "wikilink") [API](https://zh.wikipedia.org/wiki/API "wikilink")，可以阅读任何Erdas Imagine的信息，分层文件、结构文件，以及高水准的将地相关数据向GeoTIFF转换的程序。
 
 <!-- end list -->
 
@@ -471,8 +422,7 @@
 
 <!-- end list -->
 
-  - [Intergraph WMS
-    Viewer](https://zh.wikipedia.org/wiki/Intergraph_WMS_Viewer "wikilink")：Intergraph的WMS查看器便利在WMS源中储存的地理空间信息的互通。
+  - [Intergraph WMS Viewer](https://zh.wikipedia.org/wiki/Intergraph_WMS_Viewer "wikilink")：Intergraph的WMS查看器便利在WMS源中储存的地理空间信息的互通。
 
 <!-- end list -->
 
@@ -480,8 +430,7 @@
 
 <!-- end list -->
 
-  - [IPW](https://zh.wikipedia.org/wiki/IPW "wikilink")：IPW是一个基于UNIX的图像处理系统。IPW包括了几种
-    UNIX过滤程序，可被拴在一起以供形成复杂和有力的图像处理运算法则。IPW包括了一个开发环境来用C创建新的IPW的shell脚本和程序。
+  - [IPW](https://zh.wikipedia.org/wiki/IPW "wikilink")：IPW是一个基于UNIX的图像处理系统。IPW包括了几种 UNIX过滤程序，可被拴在一起以供形成复杂和有力的图像处理运算法则。IPW包括了一个开发环境来用C创建新的IPW的shell脚本和程序。
 
 <!-- end list -->
 
@@ -501,8 +450,7 @@
 
 <!-- end list -->
 
-  - [JasPer](https://zh.wikipedia.org/wiki/JasPer "wikilink")：Jasper项目是一个开源创见，提供基于自由软件的由[JPEG
-    2000第一部分标准指定的编解码器之安装参考](../Page/JPEG_2000.md "wikilink")。
+  - [JasPer](https://zh.wikipedia.org/wiki/JasPer "wikilink")：Jasper项目是一个开源创见，提供基于自由软件的由[JPEG 2000第一部分标准指定的编解码器之安装参考](../Page/JPEG_2000.md "wikilink")。
 
 <!-- end list -->
 
@@ -518,8 +466,7 @@
 
 <!-- end list -->
 
-  - [JTS](https://zh.wikipedia.org/wiki/JTS "wikilink")：Java拓扑套件是一个二维空间谓词和函数的Java
-    API。
+  - [JTS](https://zh.wikipedia.org/wiki/JTS "wikilink")：Java拓扑套件是一个二维空间谓词和函数的Java API。
 
 <!-- end list -->
 
@@ -531,8 +478,7 @@
 
 <!-- end list -->
 
-  - [ka-Map](https://zh.wikipedia.org/wiki/ka-Map "wikilink")：ka-Map（ka意味着ka-繁荣）是一个开源项目，旨在为使用现代网页浏览器具有的特性开发高交互性网页地图界面提供[JavaScript](../Page/JavaScript.md "wikilink")
-    [API](https://zh.wikipedia.org/wiki/API "wikilink")。
+  - [ka-Map](https://zh.wikipedia.org/wiki/ka-Map "wikilink")：ka-Map（ka意味着ka-繁荣）是一个开源项目，旨在为使用现代网页浏览器具有的特性开发高交互性网页地图界面提供[JavaScript](../Page/JavaScript.md "wikilink") [API](https://zh.wikipedia.org/wiki/API "wikilink")。
 
 <!-- end list -->
 
@@ -564,8 +510,7 @@
 
 <!-- end list -->
 
-  - [libGRASS](https://zh.wikipedia.org/wiki/libGRASS "wikilink")：libgrass包由大多数GRASS
-    libgis组成，libdatetime库建立为一个独立的共享库，适合希望读写GRASS数据库的非GRASS程序应用。增加了一些额外功能以简化初始化和非GRASS程序的数据访问。当前libgrass仅接受GRASS柵格数据，以及联合支持文件，希望未来版本能够加入对矢量文件，以及其它在GRASS数据库存取的文件的支持。
+  - [libGRASS](https://zh.wikipedia.org/wiki/libGRASS "wikilink")：libgrass包由大多数GRASS libgis组成，libdatetime库建立为一个独立的共享库，适合希望读写GRASS数据库的非GRASS程序应用。增加了一些额外功能以简化初始化和非GRASS程序的数据访问。当前libgrass仅接受GRASS柵格数据，以及联合支持文件，希望未来版本能够加入对矢量文件，以及其它在GRASS数据库存取的文件的支持。
 
 <!-- end list -->
 
@@ -585,9 +530,7 @@
 
 <!-- end list -->
 
-  - [LPGS
-    Lite](https://zh.wikipedia.org/wiki/LPGS_Lite "wikilink")：LPGS-LITE是一个平台无关（POSIX兼容）的Landsat-7
-    ETM+数据Level0R到Level1G处理器，由[马里兰大学开发](https://zh.wikipedia.org/wiki/马里兰大学 "wikilink")。
+  - [LPGS Lite](https://zh.wikipedia.org/wiki/LPGS_Lite "wikilink")：LPGS-LITE是一个平台无关（POSIX兼容）的Landsat-7 ETM+数据Level0R到Level1G处理器，由[马里兰大学开发](https://zh.wikipedia.org/wiki/马里兰大学 "wikilink")。
 
 <!-- end list -->
 
@@ -599,8 +542,7 @@
 
 <!-- end list -->
 
-  - [Mapbender](https://zh.wikipedia.org/wiki/Mapbender "wikilink")：Mapbender客户端套件软件包提供用户界面以显示、导航和查询OGC
-    WMS适配地图服务。Mapbender客户端套件还含有用户和组管理端口，并且提供使用网页地图服务存取地图的功能。
+  - [Mapbender](https://zh.wikipedia.org/wiki/Mapbender "wikilink")：Mapbender客户端套件软件包提供用户界面以显示、导航和查询OGC WMS适配地图服务。Mapbender客户端套件还含有用户和组管理端口，并且提供使用网页地图服务存取地图的功能。
 
 <!-- end list -->
 
@@ -628,19 +570,15 @@
 
 <!-- end list -->
 
-  - [Map Guide Open
-    Source](https://zh.wikipedia.org/wiki/Map_Guide_Open_Source "wikilink")：开源MapGuide是一个基于网络的平台，支持用户快速开发和部署网页地图应用与地理空间网络服务。
+  - [Map Guide Open Source](https://zh.wikipedia.org/wiki/Map_Guide_Open_Source "wikilink")：开源MapGuide是一个基于网络的平台，支持用户快速开发和部署网页地图应用与地理空间网络服务。
 
 <!-- end list -->
 
-  - [MapServer
-    Workbench](https://zh.wikipedia.org/wiki/MapServer_Workbench "wikilink")：一套开发MapServer网页地图应用的协作工具。
+  - [MapServer Workbench](https://zh.wikipedia.org/wiki/MapServer_Workbench "wikilink")：一套开发MapServer网页地图应用的协作工具。
 
 <!-- end list -->
 
-  - [MapWindow](https://zh.wikipedia.org/wiki/MapWindow "wikilink")：开源MapWindow
-    GIS项目包含了兼容微软视窗的桌面应用，能够查看shapefile和多种柵格数据格式。它可以通过“GIS工具”插件重生成数据、剪辑、合并，及执行其它地处理。开发用户可以使用任何.NET框架语言书写插件扩展此应用，或使用MapWinGUS
-    ActiveX控制书写GIS软件。
+  - [MapWindow](https://zh.wikipedia.org/wiki/MapWindow "wikilink")：开源MapWindow GIS项目包含了兼容微软视窗的桌面应用，能够查看shapefile和多种柵格数据格式。它可以通过“GIS工具”插件重生成数据、剪辑、合并，及执行其它地处理。开发用户可以使用任何.NET框架语言书写插件扩展此应用，或使用MapWinGUS ActiveX控制书写GIS软件。
 
 <!-- end list -->
 
@@ -652,8 +590,7 @@
 
 <!-- end list -->
 
-  - [Maya 2
-    GoogleEarth](https://zh.wikipedia.org/wiki/Maya_2_GoogleEarth "wikilink")：Maya2GoogleEarth是一个开源、跨平台的工具，在Eyebeam开发，从Maya输出三维模型到[Google地球](../Page/Google地球.md "wikilink")。一旦安装，它允许你现场输出3D模型为一个单一的Google地球地标（[KML](../Page/KML.md "wikilink")）文件。
+  - [Maya 2 GoogleEarth](https://zh.wikipedia.org/wiki/Maya_2_GoogleEarth "wikilink")：Maya2GoogleEarth是一个开源、跨平台的工具，在Eyebeam开发，从Maya输出三维模型到[Google地球](../Page/Google地球.md "wikilink")。一旦安装，它允许你现场输出3D模型为一个单一的Google地球地标（[KML](../Page/KML.md "wikilink")）文件。
 
 <!-- end list -->
 
@@ -685,20 +622,15 @@
 
 <!-- end list -->
 
-  - [Mozilla SVG
-    Project](https://zh.wikipedia.org/wiki/Mozilla_SVG_Project "wikilink")：Mozilla
-    SVG实例是一个原生的[SVG实例](https://zh.wikipedia.org/wiki/SVG "wikilink")。它不同于插件形式的SVG查看器，如Adobe
-    SVG Viewer。
+  - [Mozilla SVG Project](https://zh.wikipedia.org/wiki/Mozilla_SVG_Project "wikilink")：Mozilla SVG实例是一个原生的[SVG实例](https://zh.wikipedia.org/wiki/SVG "wikilink")。它不同于插件形式的SVG查看器，如Adobe SVG Viewer。
 
 <!-- end list -->
 
-  - [MP2KML](https://zh.wikipedia.org/wiki/MP2KML "wikilink")：MP2KML将.mp文件（Garmin
-    IMG地图文件的开放替代格式）转换为.kml文件（Google地球的开放格式）。
+  - [MP2KML](https://zh.wikipedia.org/wiki/MP2KML "wikilink")：MP2KML将.mp文件（Garmin IMG地图文件的开放替代格式）转换为.kml文件（Google地球的开放格式）。
 
 <!-- end list -->
 
-  - [MySQL
-    Spatial](https://zh.wikipedia.org/wiki/MySQL_Spatial "wikilink")：[MySQL](../Page/MySQL.md "wikilink")遵从[开放地理空间协会](../Page/开放地理空间协会.md "wikilink")的格式实现的空间扩展。
+  - [MySQL Spatial](https://zh.wikipedia.org/wiki/MySQL_Spatial "wikilink")：[MySQL](../Page/MySQL.md "wikilink")遵从[开放地理空间协会](../Page/开放地理空间协会.md "wikilink")的格式实现的空间扩展。
 
 ## N - Q
 
@@ -706,8 +638,7 @@
 
 <!-- end list -->
 
-  - [NCAR
-    Graphics](https://zh.wikipedia.org/wiki/NCAR_Graphics "wikilink")：NCAR图形是一个基于[Fortran](../Page/Fortran.md "wikilink")和[C的科学可视化软件包](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
+  - [NCAR Graphics](https://zh.wikipedia.org/wiki/NCAR_Graphics "wikilink")：NCAR图形是一个基于[Fortran](../Page/Fortran.md "wikilink")和[C的科学可视化软件包](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
 <!-- end list -->
 
@@ -715,9 +646,7 @@
 
 <!-- end list -->
 
-  - [NetTopologySuite](https://zh.wikipedia.org/wiki/NetTopologySuite "wikilink")：网络拓扑套件是JTS拓扑套件，GIS操作的[Java](../Page/Java.md "wikilink")库（符合OpenGIS）的C\#/.NET移植。这一项目的主要目标是提供[.NET下的快速可靠的](https://zh.wikipedia.org/wiki/.NET "wikilink")[GIS解决方案](https://zh.wikipedia.org/wiki/GIS "wikilink")，包括所有.NET平台，[PocketPC和](https://zh.wikipedia.org/wiki/PocketPC "wikilink")[Sql
-    Server
-    2005](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server#SQL_Server_2005 "wikilink")（通过[通用語言運行庫](../Page/通用語言運行庫.md "wikilink")集成）。项目还包括另一些SharpMap的[.NET库](https://zh.wikipedia.org/wiki/.NET "wikilink")，集成了从诸如Shape文件格式读写的功能，坐标变换和投影，等等。
+  - [NetTopologySuite](https://zh.wikipedia.org/wiki/NetTopologySuite "wikilink")：网络拓扑套件是JTS拓扑套件，GIS操作的[Java](../Page/Java.md "wikilink")库（符合OpenGIS）的C\#/.NET移植。这一项目的主要目标是提供[.NET下的快速可靠的](https://zh.wikipedia.org/wiki/.NET "wikilink")[GIS解决方案](https://zh.wikipedia.org/wiki/GIS "wikilink")，包括所有.NET平台，[PocketPC和](https://zh.wikipedia.org/wiki/PocketPC "wikilink")[Sql Server 2005](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server#SQL_Server_2005 "wikilink")（通过[通用語言運行庫](../Page/通用語言運行庫.md "wikilink")集成）。项目还包括另一些SharpMap的[.NET库](https://zh.wikipedia.org/wiki/.NET "wikilink")，集成了从诸如Shape文件格式读写的功能，坐标变换和投影，等等。
 
 <!-- end list -->
 
@@ -725,8 +654,7 @@
 
 <!-- end list -->
 
-  - [NTXshape](https://zh.wikipedia.org/wiki/NTXshape "wikilink")：NTXShape将CARIS
-    NTX格式转换到更广泛的ESRI shape文件格式。
+  - [NTXshape](https://zh.wikipedia.org/wiki/NTXshape "wikilink")：NTXShape将CARIS NTX格式转换到更广泛的ESRI shape文件格式。
 
 <!-- end list -->
 
@@ -734,8 +662,7 @@
 
 <!-- end list -->
 
-  - [OGCConnector](https://zh.wikipedia.org/wiki/OGCConnector "wikilink")：OGC连接器是一个开源ArcIMS服务连接，由位于密苏里州罗拉的美国地质调查局中部大陆测绘中心开发。OGCConnector工具支持OGC渲层描述符（SLD）格式，正确掌握重投影需求，由于它可以连接ArcIMS服务连接器，维护相同的证明需要ArcIMS
-    Servlet认证。
+  - [OGCConnector](https://zh.wikipedia.org/wiki/OGCConnector "wikilink")：OGC连接器是一个开源ArcIMS服务连接，由位于密苏里州罗拉的美国地质调查局中部大陆测绘中心开发。OGCConnector工具支持OGC渲层描述符（SLD）格式，正确掌握重投影需求，由于它可以连接ArcIMS服务连接器，维护相同的证明需要ArcIMS Servlet认证。
 
 <!-- end list -->
 
@@ -743,30 +670,23 @@
 
 <!-- end list -->
 
-  - [OGLE](https://zh.wikipedia.org/wiki/OGLE "wikilink")：OGLE（即OpenGLExtractor）是一个Eyebeam
-    R\&D软件包，允许捕捉和重用来自[微软视窗三维应用的三维地理数据](https://zh.wikipedia.org/wiki/微软视窗 "wikilink")。
+  - [OGLE](https://zh.wikipedia.org/wiki/OGLE "wikilink")：OGLE（即OpenGLExtractor）是一个Eyebeam R\&D软件包，允许捕捉和重用来自[微软视窗三维应用的三维地理数据](https://zh.wikipedia.org/wiki/微软视窗 "wikilink")。
 
 <!-- end list -->
 
-  - [OGR](https://zh.wikipedia.org/wiki/OGR "wikilink")：OGR简单特征库是一个[C++](../Page/C++.md "wikilink")开源库（及命令行工具），支持读（有时也可以写）不同矢量文件格式包括ESRI
-    shapefiles，和MapInfo mid/mif、TAB格式。
+  - [OGR](https://zh.wikipedia.org/wiki/OGR "wikilink")：OGR简单特征库是一个[C++](../Page/C++.md "wikilink")开源库（及命令行工具），支持读（有时也可以写）不同矢量文件格式包括ESRI shapefiles，和MapInfo mid/mif、TAB格式。
 
 <!-- end list -->
 
-  - [OneMap
-    Project](https://zh.wikipedia.org/wiki/OneMap_Project "wikilink")：OneMap是一个长期项目，促进融合标准网络技术和地理内容，时常被称为GeoWeb。进行尖端研发，并以网络服务部署结果。
+  - [OneMap Project](https://zh.wikipedia.org/wiki/OneMap_Project "wikilink")：OneMap是一个长期项目，促进融合标准网络技术和地理内容，时常被称为GeoWeb。进行尖端研发，并以网络服务部署结果。
 
 <!-- end list -->
 
-  - [Open 3D
-    GIS](https://zh.wikipedia.org/wiki/Open_3D_GIS "wikilink")：开发三维地理信息系统是一个开源项目，主要目标是提供简单的方法来从网络地理数据库显示三维物体。
+  - [Open 3D GIS](https://zh.wikipedia.org/wiki/Open_3D_GIS "wikilink")：开发三维地理信息系统是一个开源项目，主要目标是提供简单的方法来从网络地理数据库显示三维物体。
 
 <!-- end list -->
 
-  - [Open
-    CASCADE](https://zh.wikipedia.org/wiki/Open_CASCADE "wikilink")：Open
-    CASCADE是一个强大的三维建模内核。它包括了可重用的开源C++对象库。Open
-    CASCADE被用于创建任何形式的指定范围三维图形应用，包括[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")、[计算机辅助工程](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")、[计算机辅助制造](../Page/计算机辅助制造.md "wikilink")、[建筑工程建造](https://zh.wikipedia.org/wiki/建筑工程建造 "wikilink")、[地理信息系统](../Page/地理信息系统.md "wikilink")、[逆向工程](../Page/逆向工程.md "wikilink")、[计量](https://zh.wikipedia.org/wiki/计量 "wikilink")、[光学仿真](https://zh.wikipedia.org/wiki/光学仿真 "wikilink")、[拓扑等](https://zh.wikipedia.org/wiki/拓扑 "wikilink")。
+  - [Open CASCADE](https://zh.wikipedia.org/wiki/Open_CASCADE "wikilink")：Open CASCADE是一个强大的三维建模内核。它包括了可重用的开源C++对象库。Open CASCADE被用于创建任何形式的指定范围三维图形应用，包括[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")、[计算机辅助工程](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")、[计算机辅助制造](../Page/计算机辅助制造.md "wikilink")、[建筑工程建造](https://zh.wikipedia.org/wiki/建筑工程建造 "wikilink")、[地理信息系统](../Page/地理信息系统.md "wikilink")、[逆向工程](../Page/逆向工程.md "wikilink")、[计量](https://zh.wikipedia.org/wiki/计量 "wikilink")、[光学仿真](https://zh.wikipedia.org/wiki/光学仿真 "wikilink")、[拓扑等](https://zh.wikipedia.org/wiki/拓扑 "wikilink")。
 
 <!-- end list -->
 
@@ -790,8 +710,7 @@
 
 <!-- end list -->
 
-  - [OpenSVGMapserver](https://zh.wikipedia.org/wiki/OpenSVGMapserver "wikilink")：一个开源的在网上出版arcview
-    shapefiles解决方案，基于[HTML](../Page/HTML.md "wikilink")、[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[PHP](../Page/PHP.md "wikilink")和[MySQL](../Page/MySQL.md "wikilink")数据库，支持互动和过滤。2003年后代码不再更新。
+  - [OpenSVGMapserver](https://zh.wikipedia.org/wiki/OpenSVGMapserver "wikilink")：一个开源的在网上出版arcview shapefiles解决方案，基于[HTML](../Page/HTML.md "wikilink")、[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[PHP](../Page/PHP.md "wikilink")和[MySQL](../Page/MySQL.md "wikilink")数据库，支持互动和过滤。2003年后代码不再更新。
 
 <!-- end list -->
 
@@ -811,30 +730,23 @@
 
 <!-- end list -->
 
-  - [PgArc](https://zh.wikipedia.org/wiki/PgArc "wikilink")：开发、测试和实施ESRI的ArcMap（ArcView/ArcInfo
-    8.x的组件）的开源解决方案。允许其与来自开源的PostGIS空间数据库（[PostgreSQL](../Page/PostgreSQL.md "wikilink")的一个[扩展](https://zh.wikipedia.org/wiki/扩展 "wikilink")）的数据实现互操作。
+  - [PgArc](https://zh.wikipedia.org/wiki/PgArc "wikilink")：开发、测试和实施ESRI的ArcMap（ArcView/ArcInfo 8.x的组件）的开源解决方案。允许其与来自开源的PostGIS空间数据库（[PostgreSQL](../Page/PostgreSQL.md "wikilink")的一个[扩展](https://zh.wikipedia.org/wiki/扩展 "wikilink")）的数据实现互操作。
 
 <!-- end list -->
 
-  - [Phone
-    Hack](https://zh.wikipedia.org/wiki/Phone_Hack "wikilink")：有手机的好处之一是有一个接口连到你所连接的信号塔。由此信息，很容易得到“我到过哪里”类型的接口。
+  - [Phone Hack](https://zh.wikipedia.org/wiki/Phone_Hack "wikilink")：有手机的好处之一是有一个接口连到你所连接的信号塔。由此信息，很容易得到“我到过哪里”类型的接口。
 
 <!-- end list -->
 
-  - [phpGIS](https://zh.wikipedia.org/wiki/phpGIS "wikilink")：php
-    GIS是一个用于所有GIS开发者的封装的信息/GIS系统。
+  - [phpGIS](https://zh.wikipedia.org/wiki/phpGIS "wikilink")：php GIS是一个用于所有GIS开发者的封装的信息/GIS系统。
 
 <!-- end list -->
 
-  - [Piccolo](https://zh.wikipedia.org/wiki/Piccolo "wikilink")：Piccolo是一个革命性的方法，用Java创建鲁棒性的、全功能的图形程序，引人注目的功能如缩放和多重代表。Piccolo是一个基于Java2D
-    API的扩展工具包。
+  - [Piccolo](https://zh.wikipedia.org/wiki/Piccolo "wikilink")：Piccolo是一个革命性的方法，用Java创建鲁棒性的、全功能的图形程序，引人注目的功能如缩放和多重代表。Piccolo是一个基于Java2D API的扩展工具包。
 
 <!-- end list -->
 
-  - [PilotGaea
-    GIS](https://zh.wikipedia.org/wiki/PilotGaea_GIS "wikilink")：為一套結合Web
-    3D導覽、GIS、開發工具三合一的GIS產品，本身為GIS開發工具，具備高度整合與開發的彈性，以期符合不同領域的需求。PilotGaea
-    Universe不但保留原來2D上的所有GIS屬性與分析，在3D上，這些功能與運算更加廣大。
+  - [PilotGaea GIS](https://zh.wikipedia.org/wiki/PilotGaea_GIS "wikilink")：為一套結合Web 3D導覽、GIS、開發工具三合一的GIS產品，本身為GIS開發工具，具備高度整合與開發的彈性，以期符合不同領域的需求。PilotGaea Universe不但保留原來2D上的所有GIS屬性與分析，在3D上，這些功能與運算更加廣大。
 
 <!-- end list -->
 
@@ -846,14 +758,11 @@
 
 <!-- end list -->
 
-  - [Portfolio Explorer Open
-    Source](https://zh.wikipedia.org/wiki/Portfolio_Explorer_Open_Source "wikilink")：探索者是由SRC——一个地理事物智能软件的开发者建立的一个数据和国家独立的地理编码。探索者分配经纬度坐标到每个美国的街道和路口。开发者可以载入数字地址编码向导，以及在LGPL协议下使用、开发探索者软件库。
+  - [Portfolio Explorer Open Source](https://zh.wikipedia.org/wiki/Portfolio_Explorer_Open_Source "wikilink")：探索者是由SRC——一个地理事物智能软件的开发者建立的一个数据和国家独立的地理编码。探索者分配经纬度坐标到每个美国的街道和路口。开发者可以载入数字地址编码向导，以及在LGPL协议下使用、开发探索者软件库。
 
 <!-- end list -->
 
-  - [POPulation
-    MAPper](https://zh.wikipedia.org/wiki/POPulation_MAPper "wikilink")：POPulation
-    MAPper（友称popmap）是一个创造人口图的实用工具。Popmap可以从一个配置文件读取不同站点和每个站点的特定种类的人口权重。然后popmap可以为站点集从mapblast检索最佳图，根据人口密度给定的站点坐标画点。
+  - [POPulation MAPper](https://zh.wikipedia.org/wiki/POPulation_MAPper "wikilink")：POPulation MAPper（友称popmap）是一个创造人口图的实用工具。Popmap可以从一个配置文件读取不同站点和每个站点的特定种类的人口权重。然后popmap可以为站点集从mapblast检索最佳图，根据人口密度给定的站点坐标画点。
 
 <!-- end list -->
 
@@ -861,18 +770,15 @@
 
 <!-- end list -->
 
-  - [Practical Map Server
-    (PMS)](https://zh.wikipedia.org/wiki/Practical_Map_Server_\(PMS\) "wikilink")：PMS将地理内容带给了网页浏览器和其它适配客户端。
+  - [Practical Map Server (PMS)](https://zh.wikipedia.org/wiki/Practical_Map_Server_\(PMS\) "wikilink")：PMS将地理内容带给了网页浏览器和其它适配客户端。
 
 <!-- end list -->
 
-  - [Predator](https://zh.wikipedia.org/wiki/Predator "wikilink")：PREDATOR是一个对象关系型数据库系统。目标是建立一个研究和教育工具，可以处理现实生活中的数据库问题。在康奈尔大学，我们的研究重点一直是有效支持复杂数据类型（因此名为Predator
-    Enhanced Data Type Object-Relational DBMS）的技术。
+  - [Predator](https://zh.wikipedia.org/wiki/Predator "wikilink")：PREDATOR是一个对象关系型数据库系统。目标是建立一个研究和教育工具，可以处理现实生活中的数据库问题。在康奈尔大学，我们的研究重点一直是有效支持复杂数据类型（因此名为Predator Enhanced Data Type Object-Relational DBMS）的技术。
 
 <!-- end list -->
 
-  - [PrimaGIS](https://zh.wikipedia.org/wiki/PrimaGIS "wikilink")：PrimaGIS最初启迪于Makina
-    Corpus的PlongMap产品并借鉴了其中很多思想。PrimaGIS基于Mapserver，Python制图库（PCL）和Zope制图对象（ZCO）。
+  - [PrimaGIS](https://zh.wikipedia.org/wiki/PrimaGIS "wikilink")：PrimaGIS最初启迪于Makina Corpus的PlongMap产品并借鉴了其中很多思想。PrimaGIS基于Mapserver，Python制图库（PCL）和Zope制图对象（ZCO）。
 
 <!-- end list -->
 
@@ -880,8 +786,7 @@
 
 <!-- end list -->
 
-  - [PyDL](https://zh.wikipedia.org/wiki/PyDL "wikilink"):PyDL是一个IDL（RSI出品）的Linux自由克隆体。以[Python](../Page/Python.md "wikilink")开发，用到了Numerical
-    Python、Python图像库和Dislin（策划）封装。执行阵列算法、24或8位图像和一些数字例程。
+  - [PyDL](https://zh.wikipedia.org/wiki/PyDL "wikilink"):PyDL是一个IDL（RSI出品）的Linux自由克隆体。以[Python](../Page/Python.md "wikilink")开发，用到了Numerical Python、Python图像库和Dislin（策划）封装。执行阵列算法、24或8位图像和一些数字例程。
 
 <!-- end list -->
 
@@ -889,8 +794,7 @@
 
 <!-- end list -->
 
-  - [PyIMS](https://zh.wikipedia.org/wiki/PyIMS "wikilink")：模仿ArcIMS4的Python地图脚本应用。启迪于refraction.net的Perl
-    IMS模拟器。
+  - [PyIMS](https://zh.wikipedia.org/wiki/PyIMS "wikilink")：模仿ArcIMS4的Python地图脚本应用。启迪于refraction.net的Perl IMS模拟器。
 
 <!-- end list -->
 
@@ -898,8 +802,7 @@
 
 <!-- end list -->
 
-  - [Python Cartographic
-    Library](https://zh.wikipedia.org/wiki/Python_Cartographic_Library "wikilink")：Python制图库，或PCL，是一个从不同后端向地图渲染GIS数据的模块的封装。其任务在于成为开源GIS软件，如PROJ.4、GEOS、GDAL、OGR，以及MapServer的最佳Python接口，并易于为Python网页应用框架乃至其他可视化工具如matplotlib所用。
+  - [Python Cartographic Library](https://zh.wikipedia.org/wiki/Python_Cartographic_Library "wikilink")：Python制图库，或PCL，是一个从不同后端向地图渲染GIS数据的模块的封装。其任务在于成为开源GIS软件，如PROJ.4、GEOS、GDAL、OGR，以及MapServer的最佳Python接口，并易于为Python网页应用框架乃至其他可视化工具如matplotlib所用。
 
 <!-- end list -->
 
@@ -915,8 +818,7 @@
 
 <!-- end list -->
 
-  - [QuickWMS](https://zh.wikipedia.org/wiki/QuickWMS "wikilink")：JavaScript类，用于创建网页地图客户端和WMS服务器端口，遵守OpenGIS网页地图规范（0.7至1.1版本）。项目目标是能够使用用快速创建网页地图客户端。目标浏览器是Windows、Mac和Linux的Internet
-    Explorer（5.5及以上版本）和Netscape（7.00及以上版本）。
+  - [QuickWMS](https://zh.wikipedia.org/wiki/QuickWMS "wikilink")：JavaScript类，用于创建网页地图客户端和WMS服务器端口，遵守OpenGIS网页地图规范（0.7至1.1版本）。项目目标是能够使用用快速创建网页地图客户端。目标浏览器是Windows、Mac和Linux的Internet Explorer（5.5及以上版本）和Netscape（7.00及以上版本）。
 
 ## R - Z
 
@@ -936,8 +838,7 @@
 
 <!-- end list -->
 
-  - [RoadMatcher](https://zh.wikipedia.org/wiki/RoadMatcher "wikilink")：Vivid
-    Solutions公司的RoadMatcher应用是一个有力的线性路网酏接工具。RoadMatcher提供了完整的可视环境以自动或人工匹配路网。
+  - [RoadMatcher](https://zh.wikipedia.org/wiki/RoadMatcher "wikilink")：Vivid Solutions公司的RoadMatcher应用是一个有力的线性路网酏接工具。RoadMatcher提供了完整的可视环境以自动或人工匹配路网。
 
 <!-- end list -->
 
@@ -945,8 +846,7 @@
 
 <!-- end list -->
 
-  - [SAGA](../Page/SAGA.md "wikilink")：SAGA可以视为地理信息系统，外加一个特别的地理数据处理的应用程序接口（API）。这个API简化了新算法执行，免除了开发者庞大编程支出，如用户界面设计和文件输入输出。SAGA
-    API支持格网数据，如数字地形模型和卫星图片、矢量数据和表格。
+  - [SAGA](../Page/SAGA.md "wikilink")：SAGA可以视为地理信息系统，外加一个特别的地理数据处理的应用程序接口（API）。这个API简化了新算法执行，免除了开发者庞大编程支出，如用户界面设计和文件输入输出。SAGA API支持格网数据，如数字地形模型和卫星图片、矢量数据和表格。
 
 <!-- end list -->
 
@@ -954,18 +854,15 @@
 
 <!-- end list -->
 
-  - [sdts2dem](https://zh.wikipedia.org/wiki/sdts2dem "wikilink")：Sol
-    Katz开发的一份修订的sdts2dem实用工具。
+  - [sdts2dem](https://zh.wikipedia.org/wiki/sdts2dem "wikilink")：Sol Katz开发的一份修订的sdts2dem实用工具。
 
 <!-- end list -->
 
-  - [Shapelib](https://zh.wikipedia.org/wiki/Shapelib "wikilink")：Shapelib是一个简单的C
-    API用于读写ArcView Shapefiles。代码形式发布，没有版权限制。
+  - [Shapelib](https://zh.wikipedia.org/wiki/Shapelib "wikilink")：Shapelib是一个简单的C API用于读写ArcView Shapefiles。代码形式发布，没有版权限制。
 
 <!-- end list -->
 
-  - [SharpMap](https://zh.wikipedia.org/wiki/SharpMap "wikilink")：SharpMap是一个易用的地图渲染，可以渲染GIS数据，用于网页和桌面应用。引擎以C\#书写，基于.NET
-    2.0框架。
+  - [SharpMap](https://zh.wikipedia.org/wiki/SharpMap "wikilink")：SharpMap是一个易用的地图渲染，可以渲染GIS数据，用于网页和桌面应用。引擎以C\#书写，基于.NET 2.0框架。
 
 <!-- end list -->
 
@@ -981,14 +878,11 @@
 
 <!-- end list -->
 
-  - [Simple Map
-    Server](https://zh.wikipedia.org/wiki/Simple_Map_Server "wikilink")：生产地理图片的简单地图服务器。符合OpenGIS1.0.0和1.1.1规范。
+  - [Simple Map Server](https://zh.wikipedia.org/wiki/Simple_Map_Server "wikilink")：生产地理图片的简单地图服务器。符合OpenGIS1.0.0和1.1.1规范。
 
 <!-- end list -->
 
-  - [Simple Map
-    Client](https://zh.wikipedia.org/wiki/Simple_Map_Client "wikilink")：简单地图客户端是允许浏览OpenGIS
-    WMS服务器的Java应用。
+  - [Simple Map Client](https://zh.wikipedia.org/wiki/Simple_Map_Client "wikilink")：简单地图客户端是允许浏览OpenGIS WMS服务器的Java应用。
 
 <!-- end list -->
 
@@ -1024,9 +918,7 @@
 
 <!-- end list -->
 
-  - [SVG
-    Viewer](https://zh.wikipedia.org/wiki/SVG_Viewer "wikilink")：CSIRO
-    SVG工具包是一个对延展矢量图形（[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")）做不同事情的实用工具的集合。
+  - [SVG Viewer](https://zh.wikipedia.org/wiki/SVG_Viewer "wikilink")：CSIRO SVG工具包是一个对延展矢量图形（[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")）做不同事情的实用工具的集合。
 
 <!-- end list -->
 
@@ -1042,18 +934,15 @@
 
 <!-- end list -->
 
-  - [TGR2KML](https://zh.wikipedia.org/wiki/TGR2KML "wikilink")：这个程序转换TIGER多边形而为KML格式。支持的TIGER版本早打TIGER94晚至TIGER
-    2006第二版。
+  - [TGR2KML](https://zh.wikipedia.org/wiki/TGR2KML "wikilink")：这个程序转换TIGER多边形而为KML格式。支持的TIGER版本早打TIGER94晚至TIGER 2006第二版。
 
 <!-- end list -->
 
-  - [TGR2SHP](https://zh.wikipedia.org/wiki/TGR2SHP "wikilink")：TGR2SHP
-    7.01将所有TIGER层（点、线、多边形）转换至ESRI格式shape文件。
+  - [TGR2SHP](https://zh.wikipedia.org/wiki/TGR2SHP "wikilink")：TGR2SHP 7.01将所有TIGER层（点、线、多边形）转换至ESRI格式shape文件。
 
 <!-- end list -->
 
-  - [TGR2MIF](https://zh.wikipedia.org/wiki/TGR2MIF "wikilink")：转换TIGER而至MapInfo
-    MIF/MID格式文件。概要文件抽取（SF1toTable、SF2toTable等）用于从Census2000文件抽取图层。
+  - [TGR2MIF](https://zh.wikipedia.org/wiki/TGR2MIF "wikilink")：转换TIGER而至MapInfo MIF/MID格式文件。概要文件抽取（SF1toTable、SF2toTable等）用于从Census2000文件抽取图层。
 
 <!-- end list -->
 
@@ -1089,9 +978,7 @@
 
 <!-- end list -->
 
-  - [VGMap](https://zh.wikipedia.org/wiki/VGMap "wikilink")：VGMap是Eyebeam
-    R＆D创建的一个新的库，允许设计者、开发者和绘图爱好者在谷歌地图上用比标准系统更丰富的手段叠置图层。它被称做VGMap，因为它为令人艳羡的GMap
-    API添加了矢量绘图能力。
+  - [VGMap](https://zh.wikipedia.org/wiki/VGMap "wikilink")：VGMap是Eyebeam R＆D创建的一个新的库，允许设计者、开发者和绘图爱好者在谷歌地图上用比标准系统更丰富的手段叠置图层。它被称做VGMap，因为它为令人艳羡的GMap API添加了矢量绘图能力。
 
 <!-- end list -->
 
@@ -1099,8 +986,7 @@
 
 <!-- end list -->
 
-  - [View
-    Dog](https://zh.wikipedia.org/wiki/View_Dog "wikilink")：ViewDog是一个查看器，用于nurbs功能，多边形几何，一定的三维域功能表面（通过匹配管支持）。
+  - [View Dog](https://zh.wikipedia.org/wiki/View_Dog "wikilink")：ViewDog是一个查看器，用于nurbs功能，多边形几何，一定的三维域功能表面（通过匹配管支持）。
 
 <!-- end list -->
 
@@ -1108,19 +994,15 @@
 
 <!-- end list -->
 
-  - [Virtual Terrain Project
-    (VTP)](https://zh.wikipedia.org/wiki/Virtual_Terrain_Project_\(VTP\) "wikilink")：VTP的目标是轻松构建互动真实世界的每一部分，三维数字化形式。这一目标将需要[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")、[地理信息系统](../Page/地理信息系统.md "wikilink")、[视觉模拟](https://zh.wikipedia.org/wiki/视觉模拟 "wikilink")、[测量和](https://zh.wikipedia.org/wiki/测量 "wikilink")[遥感](../Page/遥感.md "wikilink")领域的协同一致。VTP在[现场施工](https://zh.wikipedia.org/wiki/现场施工 "wikilink")、[特征提取和](https://zh.wikipedia.org/wiki/特征提取 "wikilink")[渲染算法等方面收集信息和追踪进展](https://zh.wikipedia.org/wiki/渲染算法 "wikilink")。
+  - [Virtual Terrain Project (VTP)](https://zh.wikipedia.org/wiki/Virtual_Terrain_Project_\(VTP\) "wikilink")：VTP的目标是轻松构建互动真实世界的每一部分，三维数字化形式。这一目标将需要[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")、[地理信息系统](../Page/地理信息系统.md "wikilink")、[视觉模拟](https://zh.wikipedia.org/wiki/视觉模拟 "wikilink")、[测量和](https://zh.wikipedia.org/wiki/测量 "wikilink")[遥感](../Page/遥感.md "wikilink")领域的协同一致。VTP在[现场施工](https://zh.wikipedia.org/wiki/现场施工 "wikilink")、[特征提取和](https://zh.wikipedia.org/wiki/特征提取 "wikilink")[渲染算法等方面收集信息和追踪进展](https://zh.wikipedia.org/wiki/渲染算法 "wikilink")。
 
 <!-- end list -->
 
-  - [Visual Basic
-    GIS](https://zh.wikipedia.org/wiki/Visual_Basic_GIS "wikilink")：用[Visual
-    Basic.NET写的GIS工具](https://zh.wikipedia.org/wiki/Visual_Basic.NET "wikilink")。
+  - [Visual Basic GIS](https://zh.wikipedia.org/wiki/Visual_Basic_GIS "wikilink")：用[Visual Basic.NET写的GIS工具](https://zh.wikipedia.org/wiki/Visual_Basic.NET "wikilink")。
 
 <!-- end list -->
 
-  - [WAILI Wavelets
-    Library](https://zh.wikipedia.org/wiki/WAILI_Wavelets_Library "wikilink")：WAILI是一个小波变换库。它包括一些基于小波的基本图像处理任务进而形成更复杂的图像处理任务之中坚。
+  - [WAILI Wavelets Library](https://zh.wikipedia.org/wiki/WAILI_Wavelets_Library "wikilink")：WAILI是一个小波变换库。它包括一些基于小波的基本图像处理任务进而形成更复杂的图像处理任务之中坚。
 
 <!-- end list -->
 
@@ -1140,13 +1022,11 @@
 
 <!-- end list -->
 
-  - [XCSoar](https://zh.wikipedia.org/wiki/XCSoar "wikilink")：XCSoar是一个Pocket
-    PC操作系统上的战术滑行电脑。它能在远达WM2003SE的老旧硬件（PPC平台）运行。设备到位时也将支持WM2005（工作已经开始）。
+  - [XCSoar](https://zh.wikipedia.org/wiki/XCSoar "wikilink")：XCSoar是一个Pocket PC操作系统上的战术滑行电脑。它能在远达WM2003SE的老旧硬件（PPC平台）运行。设备到位时也将支持WM2005（工作已经开始）。
 
 <!-- end list -->
 
-  - [Xearth](https://zh.wikipedia.org/wiki/Xearth "wikilink")：Windows的Xearth是Kirk
-    Johnson的原始xearth项目在微软视窗的移植。Xearth在用户桌面上渲染地球的阴影图像，如同从所喜爱的太空制高点俯视。
+  - [Xearth](https://zh.wikipedia.org/wiki/Xearth "wikilink")：Windows的Xearth是Kirk Johnson的原始xearth项目在微软视窗的移植。Xearth在用户桌面上渲染地球的阴影图像，如同从所喜爱的太空制高点俯视。
 
 <!-- end list -->
 
@@ -1154,13 +1034,11 @@
 
 <!-- end list -->
 
-  - [XV](https://zh.wikipedia.org/wiki/XV "wikilink")：xv是一个[X
-    Window系統的交互图像处理程序](../Page/X_Window系統.md "wikilink")。
+  - [XV](https://zh.wikipedia.org/wiki/XV "wikilink")：xv是一个[X Window系統的交互图像处理程序](../Page/X_Window系統.md "wikilink")。
 
 <!-- end list -->
 
-  - [Yg](https://zh.wikipedia.org/wiki/Yg "wikilink")：Ygl在[X11下模拟SGI的GL例程](https://zh.wikipedia.org/wiki/X11 "wikilink")。出于两个原因被书写：1）在RS/6000
-    GT4硬件，Ygl两倍速（circf（））于GL（奇怪，真的吗？）；2）在非GL硬件乃至远端X服务器运行二维图形。
+  - [Yg](https://zh.wikipedia.org/wiki/Yg "wikilink")：Ygl在[X11下模拟SGI的GL例程](https://zh.wikipedia.org/wiki/X11 "wikilink")。出于两个原因被书写：1）在RS/6000 GT4硬件，Ygl两倍速（circf（））于GL（奇怪，真的吗？）；2）在非GL硬件乃至远端X服务器运行二维图形。
 
 <!-- end list -->
 
@@ -1172,8 +1050,7 @@
 
 ## 参考资料
 
-[Category:GIS软件](https://zh.wikipedia.org/wiki/Category:GIS软件 "wikilink")
-[Category:軟件列表](https://zh.wikipedia.org/wiki/Category:軟件列表 "wikilink")
+[Category:GIS软件](https://zh.wikipedia.org/wiki/Category:GIS软件 "wikilink") [Category:軟件列表](https://zh.wikipedia.org/wiki/Category:軟件列表 "wikilink")
 
 1.  <http://www.avismap.com>
 2.  <http://www.gmlcentral.com>

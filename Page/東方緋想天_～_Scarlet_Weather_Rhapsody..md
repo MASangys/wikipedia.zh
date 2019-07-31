@@ -1,21 +1,14 @@
-[Strange_Weather_Rhapsody.jpg](https://zh.wikipedia.org/wiki/File:Strange_Weather_Rhapsody.jpg "fig:Strange_Weather_Rhapsody.jpg")
-是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")10.5作。當初此作預定是被稱為9.8作，後來則轉為10.5作。
+[Strange_Weather_Rhapsody.jpg](https://zh.wikipedia.org/wiki/File:Strange_Weather_Rhapsody.jpg "fig:Strange_Weather_Rhapsody.jpg") 是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")10.5作。當初此作預定是被稱為9.8作，後來則轉為10.5作。
 
 ## 概要
 
-本作的體驗版最初與《[東方風神錄 ～ Mountain of
-Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》的正式版同時在2007年8月17日（[Comic
-Market](../Page/Comic_Market.md "wikilink")
-72）發佈，其後在2008年4月29日在網上開放下載體驗版，最後在5月25日（第5回[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")）正式發售。東方緋想天是一隻以[東方Project的角色為主題的對戰型](https://zh.wikipedia.org/wiki/東方Project "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")。遊戲製作主要由[黃昏邊境](../Page/黃昏邊境.md "wikilink")擔當，劇本、新角色設定及音樂等則交由[ZUN](../Page/ZUN.md "wikilink")作負責。本作的前作可算是同屬對戰型格鬥遊戲的《[東方萃夢想
-～ Immaterial and Missing
-Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")》，本作登場的角色除了有《萃夢想》有故事模式的10名外，還新增了《永夜抄》的「鈴仙·優曇華院·因幡」、《花映塚》的「射命丸文」以及「小野塚小町」，加上本作新登場的2名，總共有15名登場角色。
+本作的體驗版最初與《[東方風神錄 ～ Mountain of Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》的正式版同時在2007年8月17日（[Comic Market](../Page/Comic_Market.md "wikilink") 72）發佈，其後在2008年4月29日在網上開放下載體驗版，最後在5月25日（第5回[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")）正式發售。東方緋想天是一隻以[東方Project的角色為主題的對戰型](https://zh.wikipedia.org/wiki/東方Project "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")。遊戲製作主要由[黃昏邊境](../Page/黃昏邊境.md "wikilink")擔當，劇本、新角色設定及音樂等則交由[ZUN](../Page/ZUN.md "wikilink")作負責。本作的前作可算是同屬對戰型格鬥遊戲的《[東方萃夢想 ～ Immaterial and Missing Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")》，本作登場的角色除了有《萃夢想》有故事模式的10名外，還新增了《永夜抄》的「鈴仙·優曇華院·因幡」、《花映塚》的「射命丸文」以及「小野塚小町」，加上本作新登場的2名，總共有15名登場角色。
 
 角色的設定是由ZUN負責的，而原畫則由「alphes」制作。
 
 ## 基本系統
 
-[Th10.5_gameplay.png](https://zh.wikipedia.org/wiki/File:Th10.5_gameplay.png "fig:Th10.5_gameplay.png")
-本作的遊戲類型被官方定為「彈幕對戰格鬥遊戲」，不論是與東方Project傳統的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")還是其他格鬥遊戲都有很大分別。
+[Th10.5_gameplay.png](https://zh.wikipedia.org/wiki/File:Th10.5_gameplay.png "fig:Th10.5_gameplay.png") 本作的遊戲類型被官方定為「彈幕對戰格鬥遊戲」，不論是與東方Project傳統的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")還是其他格鬥遊戲都有很大分別。
 
 ### 自機選擇
 
@@ -334,8 +327,7 @@ Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")
 
 #### 比那名居 天子
 
-[tenshi.png](https://zh.wikipedia.org/wiki/File:tenshi.png "fig:tenshi.png")
-**，Hinanawi Tenshi**
+[tenshi.png](https://zh.wikipedia.org/wiki/File:tenshi.png "fig:tenshi.png") **，Hinanawi Tenshi**
 
   -
     **種族**：後天的天人
@@ -349,8 +341,7 @@ Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")
       - 《緋想天》最終頭目（帕秋莉路線、蕾米莉亞路線、射命丸文路線非最終頭目）
       - 《緋想天》《非想天則》《憑依華》可用角色
       - 《心綺樓》觀眾
-      - 《[Double Spoiler ～
-        东方文花帖](https://zh.wikipedia.org/wiki/Double_Spoiler_～_东方文花帖 "wikilink")》Lv10头目
+      - 《[Double Spoiler ～ 东方文花帖](https://zh.wikipedia.org/wiki/Double_Spoiler_～_东方文花帖 "wikilink")》Lv10头目
       - 《[彈幕天邪鬼](https://zh.wikipedia.org/wiki/彈幕天邪鬼 "wikilink")》最終日頭目
     **主題曲**
       - 　有頂天變　～ Wonderful Heaven（《緋想天》）
@@ -372,8 +363,4 @@ Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")
   - [東方緋想天 官方網站](http://www.tasofro.net/touhou105/index.html)
   - [東方緋想天Wiki](http://www38.atwiki.jp/hisouten/)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")

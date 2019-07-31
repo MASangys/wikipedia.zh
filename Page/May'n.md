@@ -1,13 +1,10 @@
-**中林
-芽依**（）是[名古屋出身的日本女](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[歌手](../Page/歌手.md "wikilink")。血液O型。在2003年由[Horipro举办的第](../Page/Horipro.md "wikilink")28回新人选拔赛中，从3万5千人中脱出的歌手，在此次比赛活动中未获得正式的名次，但在之后和公司成功签约，并以本名发行过数张唱片。2008年1月宣布将艺名变更为**May'n**（）。将在电视动画[超时空要塞
-Frontier中](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")，担任片中角色，银河歌姫雪露·诺姆的歌曲演唱工作。
+**中林 芽依**（）是[名古屋出身的日本女](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[歌手](../Page/歌手.md "wikilink")。血液O型。在2003年由[Horipro](../Page/Horipro.md "wikilink")举办的第28回新人选拔赛中，从3万5千人中脱出的歌手，在此次比赛活动中未获得正式的名次，但在之后和公司成功签约，并以本名发行过数张唱片。2008年1月宣布将艺名变更为**May'n**（）。将在电视动画[超时空要塞 Frontier中](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")，担任片中角色，银河歌姫雪露·诺姆的歌曲演唱工作。
 
 ## 個人情報與轶事
 
-13岁时虚报自己年龄是15参加由[Horipro举办的第](../Page/Horipro.md "wikilink")28回新人选拔赛（当时比赛规定的最低参赛年龄是15岁
-参与总人数是34911人），在名古屋的预赛中，评委被她所打动，順利進身澁谷举行的总决赛最後4強，最後雖然沒有得到正式名次，仍舊成功進入[Horipro事務所](../Page/Horipro.md "wikilink")，以此為契機2007年以本名出道。
+13岁时虚报自己年龄是15参加由[Horipro](../Page/Horipro.md "wikilink")举办的第28回新人选拔赛（当时比赛规定的最低参赛年龄是15岁 参与总人数是34911人），在名古屋的预赛中，评委被她所打动，順利進身澁谷举行的总决赛最後4強，最後雖然沒有得到正式名次，仍舊成功進入[Horipro](../Page/Horipro.md "wikilink")事務所，以此為契機2007年以本名出道。
 
-很小的時候(三歲左右)在電視上看到[安室奈美惠的表演](../Page/安室奈美惠.md "wikilink")，被她深深吸引而走上歌手之路，至今仍經常在訪談中提到。
+很小的時候(三歲左右)在電視上看到[安室奈美惠](../Page/安室奈美惠.md "wikilink")的表演，被她深深吸引而走上歌手之路，至今仍經常在訪談中提到。
 
 2008年高中畢業後將藝名改為現在的May'n，意義為希望能成為音樂界的主力歌手(mainアーティスト)，唱出每個人心中的主題曲(mainテーマ)」\[1\]。
 
@@ -19,8 +16,7 @@ Frontier中](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")�
 
 喜歡搜集眼鏡，以及跟河馬有關的各式商品。
 
-除了日本以外在東南亞各國及歐美都頗受歡迎，2014年，2月23日由Horipro授權在中國成立粉絲俱樂部中國分部（May'n China
-Fanclub）
+除了日本以外在東南亞各國及歐美都頗受歡迎，2014年，2月23日由Horipro授權在中國成立粉絲俱樂部中國分部（May'n China Fanclub）
 
 ## 音乐作品
 
@@ -84,8 +80,7 @@ Fanclub）
     10. WE ARE 　
     11. 恋　
     12. Jewels
-6.  **NEW WORLD**（2014年1月29日 商品番号：普通版/VTCL-60360；+DVD限量版/VTZL-75；+Live
-    CD限量版/VTZL-76）
+6.  **NEW WORLD**（2014年1月29日 商品番号：普通版/VTCL-60360；+DVD限量版/VTZL-75；+Live CD限量版/VTZL-76）
     1.  Lose My Illusions
     2.  Chase the world
     3.  Mr.Super Future Star
@@ -103,8 +98,7 @@ Fanclub）
 
 #### 中林芽依
 
-1.  **Crazy Crazy
-    Crazy**（2005年4月27日）[東海地区限定发售单曲](https://zh.wikipedia.org/wiki/東海地区 "wikilink")
+1.  **Crazy Crazy Crazy**（2005年4月27日）[東海地区限定发售单曲](https://zh.wikipedia.org/wiki/東海地区 "wikilink")
     1.  Crazy Crazy Crazy
     2.  Not that Girl
     3.  Crazy Crazy Crazy(Instrumental)
@@ -118,9 +112,7 @@ Fanclub）
     2.  Can't Get'em Enough
     3.  Papa Don't Preach
     4.  Sympathy (instrumental)
-4.  **Fallin' in or Not
-    feat.[SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")**（2006年9月27日
-    商品番号：UPCI-5039）
+4.  **Fallin' in or Not feat.[SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")**（2006年9月27日 商品番号：UPCI-5039）
     1.  Fallin' in or Not feat.SEAMO
     2.  Cry a little
     3.  baby,maybe
@@ -129,8 +121,7 @@ Fanclub）
 #### May'n
 
 1.  ****（2008年5月8日 商品番号：VTCL-35025）以雪露・诺姆 starring May'n的名义
-    1.  （电视动画[超时空要塞
-        Frontier片尾曲](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")（ED））
+    1.  （电视动画[超时空要塞 Frontier片尾曲](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")（ED））
 
     2.  射手座☆午後九時Don't be late（电视动画「超时空要塞 Frontier」插曲）
 
@@ -185,14 +176,12 @@ Fanclub）
     3.  Chase the world (without May'n)
     4.  光 (without May'n)
 9.  '''Run Real Run '''（2013年5月8日 商品番号：VTCL-35150）
-    1.  Run Real Run（動畫「[リアル鬼ごっこ THE
-        ORIGIN](https://zh.wikipedia.org/wiki/リアル鬼ごっこ_THE_ORIGIN "wikilink")」OP）
+    1.  Run Real Run（動畫「[リアル鬼ごっこ THE ORIGIN](https://zh.wikipedia.org/wiki/リアル鬼ごっこ_THE_ORIGIN "wikilink")」OP）
     2.  アウトサイダー
     3.  Run Real Run（without May'n）
     4.  アウトサイダー（without May'n）
 10. '''ViViD '''（2013年7月24日 商品番号：VTCL-35155）
-    1.  ViViD（動畫「[BLOOD
-        LAD血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")」OP）
+    1.  ViViD（動畫「[BLOOD LAD血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")」OP）
     2.  ワイルドローズ
     3.  ViViD（without May'n）
     4.  ワイルドローズ（without May'n）
@@ -211,8 +200,7 @@ Fanclub）
     5.  誰がために（without May'n）
     6.  カタツムリ（without May'n）
 13. **ヤマイダレdarlin**'（2015年7月22日 商品番號：VTCL-35212）
-    1.  ヤマイダレdarlin'（動畫「[創聖機械天使
-        LOGOS](../Page/Aquarion_Logos.md "wikilink")」OP）
+    1.  ヤマイダレdarlin'（動畫「[創聖機械天使 LOGOS](../Page/Aquarion_Logos.md "wikilink")」OP）
     2.  告白
     3.  Lethe – May'n ver.-
 14. **夜明けのロゴス**（2015年12月16日 商品番號：VTCL-35214）
@@ -232,23 +220,18 @@ Fanclub）
 
 1.  **my teens,my tears** (2009年10月21日)
 2.  **Grand Piano** (2009年11月25日)
-3.  **愛は降る星のごとく (TV-Size)**
-    (動畫「[最強武將傳〜三國演義](https://zh.wikipedia.org/wiki/三國演義_\(動畫\) "wikilink")」ED)
-    (2010年5月12日)
+3.  **愛は降る星のごとく (TV-Size)** (動畫「[最強武將傳〜三國演義](https://zh.wikipedia.org/wiki/三國演義_\(動畫\) "wikilink")」ED) (2010年5月12日)
 4.  **Chase the world (TV-Size)**（動畫「加速世界」OP） (2012年4月21日)
 5.  **アオゾラ** (動畫「BTOOOM！」ED) (2012年10月11日)
 6.  **Mr.Super Future Star** (2012年11月22日)
 
 ## 演唱會
 
-  - [超時空要塞F](https://zh.wikipedia.org/wiki/超時空要塞F "wikilink") 超時空Super
-    Live
+  - [超時空要塞F](https://zh.wikipedia.org/wiki/超時空要塞F "wikilink") 超時空Super Live
       - 2008年7月27日/[東京都](../Page/東京都.md "wikilink")・Zepp TOKYO (兩場)
       - 2008年8月6日/[大阪市](../Page/大阪市.md "wikilink")・なんばHatch
-  - [超時空要塞F](https://zh.wikipedia.org/wiki/超時空要塞F "wikilink") Galaxy
-    Tour—FINAL
-      - 2008年10月13日/[橫濱市](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")・[Pacifico
-        Yokohama](https://zh.wikipedia.org/wiki/Pacifico_Yokohama "wikilink")
+  - [超時空要塞F](https://zh.wikipedia.org/wiki/超時空要塞F "wikilink") Galaxy Tour—FINAL
+      - 2008年10月13日/[橫濱市](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")・[Pacifico Yokohama](https://zh.wikipedia.org/wiki/Pacifico_Yokohama "wikilink")
       - 2008年10月22日/[大阪市](../Page/大阪市.md "wikilink")・大阪厚生年金會館
       - 2008年11月5日/[東京都](../Page/東京都.md "wikilink")・[日本武道館](../Page/日本武道館.md "wikilink")
   - May'n CONCERT TOUR 2009 "May'n Act"
@@ -256,28 +239,22 @@ Fanclub）
       - 2009年1月23日/[名古屋市](../Page/名古屋市.md "wikilink")・Bottom Line
       - 2009年1月28日・1月29日/[東京都](../Page/東京都.md "wikilink")・赤坂BLITZ
   - May'n SUMMER TOUR 2009 "LOVE\&JOY"
-      - [2009年](../Page/2009年.md "wikilink")7月26日/[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")・Zepp
-        Fukuoka
+      - [2009年](../Page/2009年.md "wikilink")7月26日/[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")・Zepp Fukuoka
       - 2009年7月31日/[仙台市](../Page/仙台市.md "wikilink")・Zepp Sendai
-      - 2009年8月2日/[札幌縣](https://zh.wikipedia.org/wiki/札幌縣 "wikilink")・Zepp
-        Sapporo
+      - 2009年8月2日/[札幌縣](https://zh.wikipedia.org/wiki/札幌縣 "wikilink")・Zepp Sapporo
       - 2009年8月7日/[大阪市](../Page/大阪市.md "wikilink")・Zepp Osaka
-      - [2009年](../Page/2009年.md "wikilink")8月8日/[名古屋市](../Page/名古屋市.md "wikilink")・Zepp
-        Nagoya
+      - [2009年](../Page/2009年.md "wikilink")8月8日/[名古屋市](../Page/名古屋市.md "wikilink")・Zepp Nagoya
       - 2009年8月12日・8月13日/[東京都](../Page/東京都.md "wikilink")・Zepp Tokyo
   - [福山芳樹](../Page/福山芳樹.md "wikilink")＆May'n Concert IN 廣州
       - 2009年12月13日/[中國](../Page/中國.md "wikilink")[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")・蓓蕾劇院
   - May'n Special Concert 2010 at 日本武道館『BIG★WAAAAAVE\!\!』
       - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")1月24日/[東京都](../Page/東京都.md "wikilink")・[日本武道館](../Page/日本武道館.md "wikilink")
   - May'n BIG★WAAAAAVE\!\! ASIA TOUR 2010
-      - 2010年3月7日/[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")・KL
-        Live 1st Floor
+      - 2010年3月7日/[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")・KL Live 1st Floor
       - 2010年3月19日/[香港](../Page/香港.md "wikilink")・九龍灣國際貿易中心
-      - 2010年3月21日/[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")・Legacy
-        Taipei
+      - 2010年3月21日/[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")・Legacy Taipei
   - Animelo Summer Live 2010 -evolution-
-      - 2010年8月29日/[琦玉縣](https://zh.wikipedia.org/wiki/琦玉縣 "wikilink")・Saitama
-        Super Arena
+      - 2010年8月29日/[琦玉縣](https://zh.wikipedia.org/wiki/琦玉縣 "wikilink")・Saitama Super Arena
       - 2010年11月14日/AFAX Singapore演唱會・Suntec Convention
   - May'n Special Concert 2011「RHYTHM TANK\!\!」at 日本武道館
       - [2011年](../Page/2011年.md "wikilink")3月6日/[東京都](../Page/東京都.md "wikilink")・[日本武道館](../Page/日本武道館.md "wikilink")
@@ -351,25 +328,19 @@ Fanclub）
 
 ## 客串作品
 
-  - **[Ajapai](https://zh.wikipedia.org/wiki/Ajapai "wikilink")**
-    「**unaffected**」
+  - **[Ajapai](https://zh.wikipedia.org/wiki/Ajapai "wikilink")** 「**unaffected**」
       - 2\. Believe feat. MAY NAKABAYASHI
   - **パパパパーンIV** (『ZEKUSHII』非賣品CD)
       - パパパパーンの歌
-  - **Animelo Summer Live 2008 -Challenge- 主題歌 Yells〜It's a beautiful
-    life〜** (2008年7月23日)
+  - **Animelo Summer Live 2008 -Challenge- 主題歌 Yells〜It's a beautiful life〜** (2008年7月23日)
       - Yells〜It's a beautiful life〜
-  - **[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink") feat. May'n
-    『ミラクル・アッパーWL』**(2009年8月21日)
+  - **[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink") feat. May'n 『ミラクル・アッパーWL』**(2009年8月21日)
       - 1.ミラクル・アッパーWL feat. May'n
-  - **Animelo Summer Live 2009 -RE:BRIDGE- 主題歌 〜Return to oneself〜**
-    (2009年6月24日)
+  - **Animelo Summer Live 2009 -RE:BRIDGE- 主題歌 〜Return to oneself〜** (2009年6月24日)
       - RE:BRIDGE〜Return to oneself〜
-  - **[超時空要塞元年紀念單曲](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")『息をしてる
-    感じている』**(2009年10月14日)
+  - **[超時空要塞元年紀念單曲](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")『息をしてる 感じている』**(2009年10月14日)
       - 1.息をしてる 感じている
-  - **Animelo Summer Live 2010 -evolution- 主題歌 〜for beloved one 〜**
-    (2010年)
+  - **Animelo Summer Live 2010 -evolution- 主題歌 〜for beloved one 〜** (2010年)
       - evolution 〜for beloved one 〜
   - **電視動畫「戦国BASARA弐」音楽絵巻 弐 \~乱世、再び\!\~** (2010年9月1日)
       - 23\. ユズレナイ想ヒ \[Short Ver.\]
@@ -379,8 +350,7 @@ Fanclub）
       - 05\. リーベ～幻の光
       - 06\. ふなのり
       - 08\. タブレット
-  - **劇場版マクロスF〜サヨナラノツバサ〜netabare album　the end of "triangle"**
-    (2011年3月9日)
+  - **劇場版マクロスF〜サヨナラノツバサ〜netabare album　the end of "triangle"** (2011年3月9日)
       - 01\. 禁断のエリクシア
       - 07\. Get it on ～光速クライmax
       - 12\. 娘々FINAL ATTACK　フロンティア グレイテスト☆ヒッツ！
@@ -410,17 +380,10 @@ Fanclub）
 
   -
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink")
-[Category:Horipro](https://zh.wikipedia.org/wiki/Category:Horipro "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink")
-[Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink") [Category:Horipro](https://zh.wikipedia.org/wiki/Category:Horipro "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink") [Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [「不過今天是最最幸福的一場演出！」
-    May’n第一日台灣公演報導](https://memeon-music.com/2017/03/24/mayn-livereport-2/)
+5.  [「不過今天是最最幸福的一場演出！」 May’n第一日台灣公演報導](https://memeon-music.com/2017/03/24/mayn-livereport-2/)

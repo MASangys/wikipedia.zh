@@ -1,7 +1,6 @@
 **秋之回忆6～T-wave～**是[5pb.](../Page/5pb..md "wikilink")在2008年8月21日发售的[PS2用](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋愛冒险游戏](https://zh.wikipedia.org/wiki/恋愛冒险游戏 "wikilink")。[CERO的评级为适合](https://zh.wikipedia.org/wiki/CERO "wikilink")12岁以上玩家。本作是[秋之回忆系列的第](https://zh.wikipedia.org/wiki/秋之回忆系列 "wikilink")6作。副标题是“无可取代的爱情……就在身边”。
 
-故事发生在前作「[中断的影片](../Page/秋之回憶5：中斷的影片.md "wikilink")」的1年之后\[1\]，发生的地点和系列第一作相同，都是澄空学園。和前作的“中斷的影片”一样，当达成2个女主人公（りりす和智紗）的Good
-End以后，可以进入Triangle路线，以女主角的視点观察後夜祭之前的故事。
+故事发生在前作「[中断的影片](../Page/秋之回憶5：中斷的影片.md "wikilink")」的1年之后\[1\]，发生的地点和系列第一作相同，都是澄空学園。和前作的“中斷的影片”一样，当达成2个女主人公（りりす和智紗）的Good End以后，可以进入Triangle路线，以女主角的視点观察後夜祭之前的故事。
 
 ## 剧情
 
@@ -9,8 +8,7 @@ End以后，可以进入Triangle路线，以女主角的視点观察後夜祭之
 
 ## 登場角色
 
-  - 塚本志雄（つかもと しお）
-    [声](https://zh.wikipedia.org/wiki/声優 "wikilink")：[藤原祐規](../Page/藤原祐規.md "wikilink")
+  - 塚本志雄（つかもと しお） [声](https://zh.wikipedia.org/wiki/声優 "wikilink")：[藤原祐規](../Page/藤原祐規.md "wikilink")
     主人公。在澄空学園上学的高二学生，在学生会打杂，兼任兼文化祭实行委員。母親在他小时候死于事故，和父亲的关系疏远。
   - 遠峯莉莉絲（とおみね りりす） 声：[新名彩乃](../Page/新名彩乃.md "wikilink")
     澄空學園二年級學生，志雄的青梅竹馬兼同班同學，個性我行我素又任性，直話直說，和小時候溫和有禮貌的形象差很多，在外婆經營的[小料理屋](https://zh.wikipedia.org/wiki/小料理 "wikilink")「ふみ」幫忙。8月11日出生。
@@ -23,8 +21,7 @@ End以后，可以进入Triangle路线，以女主角的視点观察後夜祭之
   - 春日結乃（かすが ゆうの）声：[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
     澄空學園一年級轉學生，志雄的後輩，也是文化祭实行委员。乍看之下好像很活潑，但其實存在著不為人知的一面，好奇心旺盛，個性開朗，朋友也很多，但知心好友沒幾個。2月28日出生。
   - 佐賀亨（さが とおる）声：[根本幸多](https://zh.wikipedia.org/wiki/根本幸多 "wikilink")
-    澄空學園二年級學生，志雄的友人。喜欢遠峯莉莉絲(とおみね
-    りりす)。对音乐很了解，擅长弹奏[吉他](../Page/吉他.md "wikilink")。
+    澄空學園二年級學生，志雄的友人。喜欢遠峯莉莉絲(とおみね りりす)。对音乐很了解，擅长弹奏[吉他](../Page/吉他.md "wikilink")。
   - 稲穂信（いなほ しん）声：[間島淳司](../Page/間島淳司.md "wikilink")
     在饭店「ルサック」打工的[自由职业者](https://zh.wikipedia.org/wiki/自由职业者 "wikilink")，[小料理屋](https://zh.wikipedia.org/wiki/小料理 "wikilink")「ふみ」的常客。虽然是澄空学園的校友，不过因为在学习期间犯下的恶性，被列为学校黑名单的2号。
   - KANATA（かなた） 声：[村田步](https://zh.wikipedia.org/wiki/村田步 "wikilink")
@@ -48,8 +45,7 @@ End以后，可以进入Triangle路线，以女主角的視点观察後夜祭之
                 作詞:涼森有羽子、作曲、編曲:水野大輔／歌:[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")
           - クロエ：**Blue Moon**
               -
-                作詞:葉月みこ、作曲:吉冨小百合、編曲:Gravity
-                Session／歌:[後藤邑子](../Page/後藤邑子.md "wikilink")
+                作詞:葉月みこ、作曲:吉冨小百合、編曲:Gravity Session／歌:[後藤邑子](../Page/後藤邑子.md "wikilink")
           - 黎音：**Rainbow Highway**
               -
                 作詞:Yummy、作曲・編曲:水野大輔／歌:[田中理恵](../Page/田中理惠_\(聲優\).md "wikilink")
@@ -104,13 +100,6 @@ End以后，可以进入Triangle路线，以女主角的視点观察後夜祭之
 
   - [Memories Off 6 \~T-wave\~官方网站](http://memoriesoff.jp/t-wave/)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
-[Category:告别回憶系列](https://zh.wikipedia.org/wiki/Category:告别回憶系列 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:告别回憶系列](https://zh.wikipedia.org/wiki/Category:告别回憶系列 "wikilink")
 
 1.  从信的年龄是21岁这点判断。

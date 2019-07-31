@@ -1,6 +1,4 @@
-**LFC
-TV**是[英國球會](https://zh.wikipedia.org/wiki/英國 "wikilink")[利物浦足球俱樂部的官方電視頻道](https://zh.wikipedia.org/wiki/利物浦足球俱樂部 "wikilink")，於2007年9月20日開始播出。LFC
-TV是Setanta體育（Setanta Sports）旗下的頻道之一。
+**LFC TV**是[英國球會](https://zh.wikipedia.org/wiki/英國 "wikilink")[利物浦足球俱樂部的官方電視頻道](https://zh.wikipedia.org/wiki/利物浦足球俱樂部 "wikilink")，於2007年9月20日開始播出。LFC TV是Setanta體育（Setanta Sports）旗下的頻道之一。
 
 該頻道也在其[官方網站](http://www.liverpoolfc.tv/)上提供付费在線直播。
 
@@ -26,15 +24,10 @@ TV是Setanta體育（Setanta Sports）旗下的頻道之一。
 
 ## 外部連結
 
-  - [Subscribe to **LFC
-    TV**](https://web.archive.org/web/20090429095843/http://www.liverpoolfc.tv/tv/lfctv_subscribe.htm)
-  - [LFC TV Programme
-    schedule](https://web.archive.org/web/20090415231420/http://www.liverpoolfc.tv/tv/today.htm)
+  - [Subscribe to **LFC TV**](https://web.archive.org/web/20090429095843/http://www.liverpoolfc.tv/tv/lfctv_subscribe.htm)
+  - [LFC TV Programme schedule](https://web.archive.org/web/20090415231420/http://www.liverpoolfc.tv/tv/today.htm)
 
-[Category:利物浦足球俱樂部](https://zh.wikipedia.org/wiki/Category:利物浦足球俱樂部 "wikilink")
-[Category:足球節目](https://zh.wikipedia.org/wiki/Category:足球節目 "wikilink")
-[Category:英國電視台](https://zh.wikipedia.org/wiki/Category:英國電視台 "wikilink")
-[Category:2007年在英国设立](https://zh.wikipedia.org/wiki/Category:2007年在英国设立 "wikilink")
+[Category:利物浦足球俱樂部](https://zh.wikipedia.org/wiki/Category:利物浦足球俱樂部 "wikilink") [Category:足球節目](https://zh.wikipedia.org/wiki/Category:足球節目 "wikilink") [Category:英國電視台](https://zh.wikipedia.org/wiki/Category:英國電視台 "wikilink") [Category:2007年在英国设立](https://zh.wikipedia.org/wiki/Category:2007年在英国设立 "wikilink")
 
 1.
 2.

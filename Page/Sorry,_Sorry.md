@@ -1,95 +1,42 @@
-**《Sorry, Sorry》**是韩国男子组合[Super
-Junior的第三张专辑](../Page/Super_Junior.md "wikilink")，于2009年3月12日正式于[韩国发售](https://zh.wikipedia.org/wiki/韩国 "wikilink")，\[1\]有多种版本（见[版本](https://zh.wikipedia.org/wiki/Sorry,_Sorry#版本 "wikilink")）。在开放预定的一星期内，此专辑已被预定超过十五万张。\[2\]经统计，开始销售的第一天此专辑销售量超过29,000张。\[3\]
+**《Sorry, Sorry》**是韩国男子组合[Super Junior的第三张专辑](../Page/Super_Junior.md "wikilink")，于2009年3月12日正式于[韩国发售](https://zh.wikipedia.org/wiki/韩国 "wikilink")，\[1\]有多种版本（见[版本](https://zh.wikipedia.org/wiki/Sorry,_Sorry#版本 "wikilink")）。在开放预定的一星期内，此专辑已被预定超过十五万张。\[2\]经统计，开始销售的第一天此专辑销售量超过29,000张。\[3\]
 
-至現時為止，此張專輯在韓國的各版本銷量總和超過25萬張。这张专辑距该组合上张专辑《[Don't
-Don](../Page/Don't_Don.md "wikilink")》有1年6个月之久。
+至現時為止，此張專輯在韓國的各版本銷量總和超過25萬張。这张专辑距该组合上张专辑《[Don't Don](../Page/Don't_Don.md "wikilink")》有1年6个月之久。
 
 ## 准备阶段
 
-继2007年商业上成功的专辑《[Don't Don](../Page/Don't_Don.md "wikilink")》，Super
-Junior开始了他们的第一次亚洲巡回演唱会“[Super
-Show](../Page/Super_Show.md "wikilink")”，并形成两个子团体：[Super
-Junior-M](../Page/Super_Junior-M.md "wikilink")，指定为中文市场；以及[Super
-Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")。虽然《Sorry,
-Sorry》和SJ-H的处女作几乎同时开始准备录制，但是由于不能全职录音，所以直到2008年11月，当两个子团体活动正式结束才得以开始录制。
+继2007年商业上成功的专辑《[Don't Don](../Page/Don't_Don.md "wikilink")》，Super Junior开始了他们的第一次亚洲巡回演唱会“[Super Show](../Page/Super_Show.md "wikilink")”，并形成两个子团体：[Super Junior-M](../Page/Super_Junior-M.md "wikilink")，指定为中文市场；以及[Super Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")。虽然《Sorry, Sorry》和SJ-H的处女作几乎同时开始准备录制，但是由于不能全职录音，所以直到2008年11月，当两个子团体活动正式结束才得以开始录制。
 
-2008年7月，Super Junior宣布初步筹备《Sorry, Sorry》工作。.\[4\]
-在2008年11月，成员[圭贤在fancafe的文中写道](https://zh.wikipedia.org/wiki/圭贤 "wikilink")，他“一点一点”开始准备第三张专辑。\[5\]在2009年1月的亚洲巡回演唱会的记者招待会上，成员[强仁说](https://zh.wikipedia.org/wiki/强仁 "wikilink")，专辑将在风格，使观众看到不同的一面的Super
-Junior。\[6\]他还评论说，他们的第二张专辑《Don't
-Don》缺乏适当的子团体宣传活动。因此，这次他们将集中精力，增加宣传活动，以便使《Sorry,
-Sorry》更加成功。\[7\]
-3月2日SM公司宣布正式发布日期将在09年3月12日。\[8\][东方神起成员瑜卤允浩和秘奇有天将在](https://zh.wikipedia.org/wiki/东方神起 "wikilink")“heartquake”中演唱RAP的部分。\[9\]
+2008年7月，Super Junior宣布初步筹备《Sorry, Sorry》工作。.\[4\] 在2008年11月，成员[圭贤在fancafe的文中写道](https://zh.wikipedia.org/wiki/圭贤 "wikilink")，他“一点一点”开始准备第三张专辑。\[5\]在2009年1月的亚洲巡回演唱会的记者招待会上，成员[强仁说](https://zh.wikipedia.org/wiki/强仁 "wikilink")，专辑将在风格，使观众看到不同的一面的Super Junior。\[6\]他还评论说，他们的第二张专辑《Don't Don》缺乏适当的子团体宣传活动。因此，这次他们将集中精力，增加宣传活动，以便使《Sorry, Sorry》更加成功。\[7\] 3月2日SM公司宣布正式发布日期将在09年3月12日。\[8\][东方神起成员瑜卤允浩和秘奇有天将在](https://zh.wikipedia.org/wiki/东方神起 "wikilink")“heartquake”中演唱RAP的部分。\[9\]
 
-《Sorry,
-Sorry》是[強仁](../Page/強仁.md "wikilink")入伍前最後一張音樂作品。這也是[韓庚](../Page/韓庚.md "wikilink")與[起範](../Page/起範.md "wikilink")最後一次參與Super
-Junior團體專輯，起範為了可以更專注演戲，不參與該專輯錄製、唱跳表演及宣傳活動，但有參與該專輯照拍攝與MV演出後，專心在戲劇發展上，所以，一共只有12位成員參與唱跳與宣傳工作。該專輯也是最後一次全員到齊參與團體專輯。
+《Sorry, Sorry》是[強仁](../Page/強仁.md "wikilink")入伍前最後一張音樂作品。這也是[韓庚](../Page/韓庚.md "wikilink")與[起範](../Page/起範.md "wikilink")最後一次參與Super Junior團體專輯，起範為了可以更專注演戲，不參與該專輯錄製、唱跳表演及宣傳活動，但有參與該專輯照拍攝與MV演出後，專心在戲劇發展上，所以，一共只有12位成員參與唱跳與宣傳工作。該專輯也是最後一次全員到齊參與團體專輯。
 
 ### 预览版
 
-3月4日，一个专辑的图片预览被发布。 \[10\] 随后，3月6日，发布了33秒的预览视频。\[11\] 3月7日在Super
-Show演唱會最後一場的安可曲時，韓庚與希澈有稍微做了下〈Sorry, Sorry〉的小舞蹈，3月9日，〈Sorry,
-Sorry〉的试听版在韩国各音乐网站流传开来。\[12\]
+3月4日，一个专辑的图片预览被发布。 \[10\] 随后，3月6日，发布了33秒的预览视频。\[11\] 3月7日在Super Show演唱會最後一場的安可曲時，韓庚與希澈有稍微做了下〈Sorry, Sorry〉的小舞蹈，3月9日，〈Sorry, Sorry〉的试听版在韩国各音乐网站流传开来。\[12\]
 
 ## 发行与评价
 
-尽管2008年有Super Junior-M和Super Junior-Happy在中国、韩国宣传，距上次专辑《[Don't
-Don](../Page/Don't_Don.md "wikilink")》的一年仍被视为是Super
-Junior中断活动的一年。之前虽然Super
-Junior有在娱乐节目中吸引了很多目光，但是受到批评说他们不专注于音乐创作。作为一个演唱组合，Super
-Junior希望外界在评价他们其他之前先评价他们的音乐。他们希望通过这张专辑可以有更强烈的音乐表现力，尤其是强调Super
-Junior自己的音乐风格。\[13\]
+尽管2008年有Super Junior-M和Super Junior-Happy在中国、韩国宣传，距上次专辑《[Don't Don](../Page/Don't_Don.md "wikilink")》的一年仍被视为是Super Junior中断活动的一年。之前虽然Super Junior有在娱乐节目中吸引了很多目光，但是受到批评说他们不专注于音乐创作。作为一个演唱组合，Super Junior希望外界在评价他们其他之前先评价他们的音乐。他们希望通过这张专辑可以有更强烈的音乐表现力，尤其是强调Super Junior自己的音乐风格。\[13\]
 
-专辑主打歌〈Sorry, Sorry〉通过各大音乐网站发布后几乎在所有排行榜上均名列第一，证明了单曲的受欢迎程度。Super
-Junior说，这单曲不是因为流行而大家都去听，是因为大家看得到他们的音乐风格。\[14\] 2009年4月末,《Sorry,
-Sorry》的新版将在2009年5月14日发行，附加一个新单曲〈[It's
-You](../Page/It's_You.md "wikilink")〉，由[E-Tribe制作](https://zh.wikipedia.org/wiki/E-Tribe "wikilink")。\[15\]
-〈It's You〉的数字版在2009年5月11日发布，发布后5小时左右，此单曲在所有音乐榜上名列第一。\[16\]
+专辑主打歌〈Sorry, Sorry〉通过各大音乐网站发布后几乎在所有排行榜上均名列第一，证明了单曲的受欢迎程度。Super Junior说，这单曲不是因为流行而大家都去听，是因为大家看得到他们的音乐风格。\[14\] 2009年4月末,《Sorry, Sorry》的新版将在2009年5月14日发行，附加一个新单曲〈[It's You](../Page/It's_You.md "wikilink")〉，由[E-Tribe制作](https://zh.wikipedia.org/wiki/E-Tribe "wikilink")。\[15\] 〈It's You〉的数字版在2009年5月11日发布，发布后5小时左右，此单曲在所有音乐榜上名列第一。\[16\]
 
 ### 歌曲
 
-《Sorry,
-Sorry》主要是流行音乐。这张专辑相比上张专辑风格更加成熟。此专辑包含许多R\&B风格的流行歌曲和歌词以表示“从男孩到男人”的变化。\[17\]
-歌曲没有那么活泼；优美旋律乐器在大部分歌曲中扮演了重要角色，以显示成熟。Rap在本专辑中也很少出现，大部分歌曲主要是R\&B以及和声。[Super
-Junior解释说](../Page/Super_Junior.md "wikilink")，与上张专辑成为“多变音乐市场测试产品”不同，这张专辑更多的是Super
-Junior本身的音乐风格。\[18\]
+《Sorry, Sorry》主要是流行音乐。这张专辑相比上张专辑风格更加成熟。此专辑包含许多R\&B风格的流行歌曲和歌词以表示“从男孩到男人”的变化。\[17\] 歌曲没有那么活泼；优美旋律乐器在大部分歌曲中扮演了重要角色，以显示成熟。Rap在本专辑中也很少出现，大部分歌曲主要是R\&B以及和声。[Super Junior解释说](../Page/Super_Junior.md "wikilink")，与上张专辑成为“多变音乐市场测试产品”不同，这张专辑更多的是Super Junior本身的音乐风格。\[18\]
 
-专辑同名主打歌〈[Sorry,
-Sorry](../Page/Sorry,_Sorry_\(单曲\).md "wikilink")〉是电音舞曲风格，由韩国作曲家、参与了二辑主打歌〈[Don't
-Don](../Page/Don't_Don.md "wikilink")〉的[刘英真作曲](https://zh.wikipedia.org/wiki/刘英真 "wikilink")。这支曲子是从美国庞克、电子和声等得到灵感，是组合以前从未尝试过的风格。美国舞蹈家[尼克·贝司](https://zh.wikipedia.org/wiki/尼克·贝司 "wikilink")（曾经担任[碧昂斯和](https://zh.wikipedia.org/wiki/碧昂斯 "wikilink")[贾斯汀·汀布莱克等编舞](https://zh.wikipedia.org/wiki/贾斯汀·汀布莱克 "wikilink")）参与了舞蹈设计。\[19\]\[20\]显示了歌曲的突出的音乐性。专辑同时显示它受到当代舞蹈和R\&B的强烈影响，而不像上张专辑。
+专辑同名主打歌〈[Sorry, Sorry](../Page/Sorry,_Sorry_\(单曲\).md "wikilink")〉是电音舞曲风格，由韩国作曲家、参与了二辑主打歌〈[Don't Don](../Page/Don't_Don.md "wikilink")〉的[刘英真作曲](https://zh.wikipedia.org/wiki/刘英真 "wikilink")。这支曲子是从美国庞克、电子和声等得到灵感，是组合以前从未尝试过的风格。美国舞蹈家[尼克·贝司](https://zh.wikipedia.org/wiki/尼克·贝司 "wikilink")（曾经担任[碧昂斯和](https://zh.wikipedia.org/wiki/碧昂斯 "wikilink")[贾斯汀·汀布莱克等编舞](https://zh.wikipedia.org/wiki/贾斯汀·汀布莱克 "wikilink")）参与了舞蹈设计。\[19\]\[20\]显示了歌曲的突出的音乐性。专辑同时显示它受到当代舞蹈和R\&B的强烈影响，而不像上张专辑。
 
-同时收录在专辑里的还包括Dance-Pop风的〈喜欢你的理由〉以及英国Pop风的〈安吉拉〉等。\[21\]其編舞「搓手舞」曾經一度成為話題，世界各地有不少粉絲都模仿這段舞蹈，加上編舞簡單易學，成為了國民舞蹈。其歌曲的歌詞多次重複，重複次數甚至多達二十七次，被稱為「洗腦歌」，這也是成為Super
-Junior的代表作品的原因之一。
+同时收录在专辑里的还包括Dance-Pop风的〈喜欢你的理由〉以及英国Pop风的〈安吉拉〉等。\[21\]其編舞「搓手舞」曾經一度成為話題，世界各地有不少粉絲都模仿這段舞蹈，加上編舞簡單易學，成為了國民舞蹈。其歌曲的歌詞多次重複，重複次數甚至多達二十七次，被稱為「洗腦歌」，這也是成為Super Junior的代表作品的原因之一。
 
 ## 宣传
 
-[韩国之外](https://zh.wikipedia.org/wiki/韩国 "wikilink")，《Sorry,
-Sorry》在[亚洲](../Page/亚洲.md "wikilink")大力宣传。4月17日至5月7日，[台北的](https://zh.wikipedia.org/wiki/台北 "wikilink")51条捷運上挂《Sorry,
-Sorry》的广告，宣传4月17日在[台湾发行的台湾版的](https://zh.wikipedia.org/wiki/台湾 "wikilink")《Sorry,
-Sorry》。这之中有一条挂满[Super
-Junior海报的](../Page/Super_Junior.md "wikilink")“Super
-Junior号”\[22\]。5月1日，Super Junior在北京鸟巢的“成龙和他的朋友们”演唱会表演了〈Sorry,
-Sorry〉和〈喜欢你的理由〉，这是他们3辑发行后第一次海外演出。 \[23\]《Sorry,
-Sorry》首次登上[台湾风云榜综合榜](https://zh.wikipedia.org/wiki/台湾风云榜 "wikilink")2位、东洋榜、外语榜1位。
-\[24\] Five Music的東洋榜1位。\[25\] 自6月1日， Mnet的日本姐妹台会开始播放Super
-Junior的纪录片和现场演出7个月。\[26\] 《Sorry,
-Sorry》发行2周后在泰国的国际流行榜登上最高1位。\[27\]
+[韩国之外](https://zh.wikipedia.org/wiki/韩国 "wikilink")，《Sorry, Sorry》在[亚洲](../Page/亚洲.md "wikilink")大力宣传。4月17日至5月7日，[台北的](https://zh.wikipedia.org/wiki/台北 "wikilink")51条捷運上挂《Sorry, Sorry》的广告，宣传4月17日在[台湾发行的台湾版的](https://zh.wikipedia.org/wiki/台湾 "wikilink")《Sorry, Sorry》。这之中有一条挂满[Super Junior海报的](../Page/Super_Junior.md "wikilink")“Super Junior号”\[22\]。5月1日，Super Junior在北京鸟巢的“成龙和他的朋友们”演唱会表演了〈Sorry, Sorry〉和〈喜欢你的理由〉，这是他们3辑发行后第一次海外演出。 \[23\]《Sorry, Sorry》首次登上[台湾风云榜综合榜](https://zh.wikipedia.org/wiki/台湾风云榜 "wikilink")2位、东洋榜、外语榜1位。 \[24\] Five Music的東洋榜1位。\[25\] 自6月1日， Mnet的日本姐妹台会开始播放Super Junior的纪录片和现场演出7个月。\[26\] 《Sorry, Sorry》发行2周后在泰国的国际流行榜登上最高1位。\[27\]
 
-Super Junior开始宣传〈It's You〉不久，SM
-Entertainment通过韩国的新闻网站宣布该组合2009年夏将举行第二次亚洲巡回演唱会[Super
-Show
-2](../Page/Super_Show_2.md "wikilink")。官方于2009年6月3日宣布这次演唱会将开始，差不多是《Sorry,
-Sorry》发行3个月。演唱会包括他们之前的专辑的歌，在7月17－19日将在首尔有3场演出。之后，演唱会将在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[曼谷](../Page/曼谷.md "wikilink")、[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[马来西亚](../Page/马来西亚.md "wikilink")，[新加坡](../Page/新加坡.md "wikilink")以及亚洲其他五个城市。\[28\]
+Super Junior开始宣传〈It's You〉不久，SM Entertainment通过韩国的新闻网站宣布该组合2009年夏将举行第二次亚洲巡回演唱会[Super Show 2](../Page/Super_Show_2.md "wikilink")。官方于2009年6月3日宣布这次演唱会将开始，差不多是《Sorry, Sorry》发行3个月。演唱会包括他们之前的专辑的歌，在7月17－19日将在首尔有3场演出。之后，演唱会将在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[曼谷](../Page/曼谷.md "wikilink")、[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[马来西亚](../Page/马来西亚.md "wikilink")，[新加坡](../Page/新加坡.md "wikilink")以及亚洲其他五个城市。\[28\]
 
 ### 回归演出
 
-3月13日，Super
-Junior在[KBS的](https://zh.wikipedia.org/wiki/KBS "wikilink")《MUSIC
-BANK》演出首场回归表演，演出曲目有〈Sorry,sorry〉和〈喜欢你的理由〉。\[29\]同样的表演也出现在[SBS的](https://zh.wikipedia.org/wiki/SBS "wikilink")《人气歌谣》和[MBC的Music](https://zh.wikipedia.org/wiki/MBC "wikilink")
-Core，并且每周都在这三个节目中表演。〈Sorry, Sorry〉首次得到认可是于2009年3月27日在KBS的《Music
-Bank》月流行榜单中得到一位，这时此歌进榜仅2周。\[30\] 4月夺得同一奖项。\[31\]
-并且是2月份前两周周流行榜单1位。\[32\]
-另外，这首歌在《人气歌谣》中连续三周夺得“人气歌谣”（三连冠）；\[33\]
-它还成为Mnet的《M\! Countdown》的4月9日、4月23日的周歌曲，尽管Super Junior未到场领奖。\[34\]
+3月13日，Super Junior在[KBS的](https://zh.wikipedia.org/wiki/KBS "wikilink")《MUSIC BANK》演出首场回归表演，演出曲目有〈Sorry,sorry〉和〈喜欢你的理由〉。\[29\]同样的表演也出现在[SBS的](https://zh.wikipedia.org/wiki/SBS "wikilink")《人气歌谣》和[MBC的Music](https://zh.wikipedia.org/wiki/MBC "wikilink") Core，并且每周都在这三个节目中表演。〈Sorry, Sorry〉首次得到认可是于2009年3月27日在KBS的《Music Bank》月流行榜单中得到一位，这时此歌进榜仅2周。\[30\] 4月夺得同一奖项。\[31\] 并且是2月份前两周周流行榜单1位。\[32\] 另外，这首歌在《人气歌谣》中连续三周夺得“人气歌谣”（三连冠）；\[33\] 它还成为Mnet的《M\! Countdown》的4月9日、4月23日的周歌曲，尽管Super Junior未到场领奖。\[34\]
 
 ## 曲目列表
 
@@ -295,10 +242,7 @@ Bank》月流行榜单中得到一位，这时此歌进榜仅2周。\[30\] 4月�
 
 ## 参考文献
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
 
 1.
 

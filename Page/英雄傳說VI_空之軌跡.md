@@ -1,8 +1,6 @@
-是[日本Falcom公司製作的](../Page/日本Falcom.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。本作為[英雄傳說系列的第六代作品](../Page/英雄傳說系列.md "wikilink")，也是該系列第三期[軌跡系列第一系列作](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。包含了《**英雄傳說
-空之軌跡FC**》、《**英雄傳說 空之軌跡SC**》、《**英雄傳說 空之軌跡 the 3rd**》共3部作品。
+是[日本Falcom](../Page/日本Falcom.md "wikilink")公司製作的[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。本作為[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")的第六代作品，也是該系列第三期[軌跡系列第一系列作](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。包含了《**英雄傳說 空之軌跡FC**》、《**英雄傳說 空之軌跡SC**》、《**英雄傳說 空之軌跡 the 3rd**》共3部作品。
 
-Falcom慶祝創立30周年之時，正式宣布將推出動畫作品\[1\]，並於2011年11月贩售以《英雄傳說 空之軌跡 THE
-ANIMATION》作為標題的OVA動畫DVD。
+Falcom慶祝創立30周年之時，正式宣布將推出動畫作品\[1\]，並於2011年11月贩售以《英雄傳說 空之軌跡 THE ANIMATION》作為標題的OVA動畫DVD。
 
 **相關作品簡稱**
 
@@ -15,24 +13,16 @@ ANIMATION》作為標題的OVA動畫DVD。
 
 ## 概要
 
-《英雄傳說VI
-空之軌跡》中以假想能源「導力」，架構出獨特科技的世界觀。位處在塞姆利亞大陸上，被埃雷波尼亞帝國及卡爾瓦德共和國包圍的**利貝爾王國**為主要舞台。而以想成為遊擊士的**艾絲蒂爾**與**約書亞**為主角，描述兩人在旅行中發生的許多故事。
+《英雄傳說VI 空之軌跡》中以假想能源「導力」，架構出獨特科技的世界觀。位處在塞姆利亞大陸上，被埃雷波尼亞帝國及卡爾瓦德共和國包圍的**利貝爾王國**為主要舞台。而以想成為遊擊士的**艾絲蒂爾**與**約書亞**為主角，描述兩人在旅行中發生的許多故事。
 
   - 故事由前篇《空之軌跡FC》、後篇《空之軌跡SC》以及外傳《空之軌跡 the 3rd》組成。
-  - 本作設定與之前的[英雄傳說系列第](../Page/英雄傳說系列.md "wikilink")1期《伊賽魯哈撒篇》、第2期《[卡卡布三部曲](https://zh.wikipedia.org/wiki/卡卡布三部曲 "wikilink")》並無相關。
-  - 遊戲發佈在電腦[Microsoft
-    Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，而後也移植到了家用主機[PlayStation
-    Portable及](../Page/PlayStation_Portable.md "wikilink")[PlayStation
-    3平台](../Page/PlayStation_3.md "wikilink")。
-  - 簡體中文版由娛樂通在中國大陸發售，繁體中文版由[英特衛和](https://zh.wikipedia.org/wiki/英特衛 "wikilink")[Typhoon
-    Games在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
+  - 本作設定與之前的[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")第1期《伊賽魯哈撒篇》、第2期《[卡卡布三部曲](https://zh.wikipedia.org/wiki/卡卡布三部曲 "wikilink")》並無相關。
+  - 遊戲發佈在電腦[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，而後也移植到了家用主機[PlayStation Portable及](../Page/PlayStation_Portable.md "wikilink")[PlayStation 3平台](../Page/PlayStation_3.md "wikilink")。
+  - 簡體中文版由娛樂通在中國大陸發售，繁體中文版由[英特衛和](https://zh.wikipedia.org/wiki/英特衛 "wikilink")[Typhoon Games在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
 ### FC
 
-[Main_ed6fc.jpg](https://zh.wikipedia.org/wiki/File:Main_ed6fc.jpg "fig:Main_ed6fc.jpg")
-2004年6月24日《**英雄傳說VI
-空之軌跡**》的PC版本在日本發售。是[英雄傳說系列第六部作品與](../Page/英雄傳說系列.md "wikilink")[軌跡系列第一部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。而在《SC》發售後，本作名稱更改為《**英雄傳說
-空之軌跡FC**》。其中 FC 表示 **F**irst **C**hapter 的簡稱。
+[Main_ed6fc.jpg](https://zh.wikipedia.org/wiki/File:Main_ed6fc.jpg "fig:Main_ed6fc.jpg") 2004年6月24日《**英雄傳說VI 空之軌跡**》的PC版本在日本發售。是[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")第六部作品與[軌跡系列第一部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。而在《SC》發售後，本作名稱更改為《**英雄傳說 空之軌跡FC**》。其中 FC 表示 **F**irst **C**hapter 的簡稱。
 
   - 為英雄傳說系列首次使用3D引擎製作，以及首次擁有主唱的主題曲的遊戲。
 
@@ -46,13 +36,9 @@ ANIMATION》作為標題的OVA動畫DVD。
 
 ### SC
 
-[Main_ed6sc.jpg](https://zh.wikipedia.org/wiki/File:Main_ed6sc.jpg "fig:Main_ed6sc.jpg")
-2006年3月9日《**英雄傳說
-空之軌跡SC**》的PC版本在日本發售。是[英雄傳說系列第七部作品與](../Page/英雄傳說系列.md "wikilink")[軌跡系列第二部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。其中
-SC 表示 **S**econd **C**hapter 的簡稱。
+[Main_ed6sc.jpg](https://zh.wikipedia.org/wiki/File:Main_ed6sc.jpg "fig:Main_ed6sc.jpg") 2006年3月9日《**英雄傳說 空之軌跡SC**》的PC版本在日本發售。是[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")第七部作品與[軌跡系列第二部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。其中 SC 表示 **S**econd **C**hapter 的簡稱。
 
-  - 從《SC》開始[英雄傳說系列的](../Page/英雄傳說系列.md "wikilink")**代號**不再出現在標題上。Falcom曾經為了此取消代號的措施，在《[英雄傳說
-    零之軌跡](https://zh.wikipedia.org/wiki/英雄傳說_零之軌跡 "wikilink")》發售時，特別於官方Twitter上說明此確定為英雄傳說系列第七代作品\[2\]。
+  - 從《SC》開始[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")的**代號**不再出現在標題上。Falcom曾經為了此取消代號的措施，在《[英雄傳說 零之軌跡](https://zh.wikipedia.org/wiki/英雄傳說_零之軌跡 "wikilink")》發售時，特別於官方Twitter上說明此確定為英雄傳說系列第七代作品\[2\]。
 
 <!-- end list -->
 
@@ -68,9 +54,7 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 
 ### the 3rd
 
-[Main_ed6the3rd.jpg](https://zh.wikipedia.org/wiki/File:Main_ed6the3rd.jpg "fig:Main_ed6the3rd.jpg")
-2007年6月28日《**英雄傳說 空之軌跡 the
-3rd**》的PC版本在日本發售。是[英雄傳說系列第八部作品與](../Page/英雄傳說系列.md "wikilink")[軌跡系列第三部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。內容是《SC》完結的半年後的新事件與後日談，屬於外傳性質，同時也是為下一部《[英雄傳說VII](../Page/英雄傳說VII.md "wikilink")》所布局的作品。
+[Main_ed6the3rd.jpg](https://zh.wikipedia.org/wiki/File:Main_ed6the3rd.jpg "fig:Main_ed6the3rd.jpg") 2007年6月28日《**英雄傳說 空之軌跡 the 3rd**》的PC版本在日本發售。是[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")第八部作品與[軌跡系列第三部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。內容是《SC》完結的半年後的新事件與後日談，屬於外傳性質，同時也是為下一部《[英雄傳說VII](../Page/英雄傳說VII.md "wikilink")》所布局的作品。
 
   - 遊戲包裝的插圖畫家變更為。
 
@@ -80,19 +64,15 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 
 <!-- end list -->
 
-  - 初版即支援[Windows
-    Vista系統](../Page/Windows_Vista.md "wikilink")，隨後也推出了對應[Windows
-    7的版本](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
+  - 初版即支援[Windows Vista系統](../Page/Windows_Vista.md "wikilink")，隨後也推出了對應[Windows 7的版本](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
 <!-- end list -->
 
-  - 為Falcom官方在[Microsoft
-    Windows平台上所出的最後一部英雄傳說系列作品](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，其續作《英雄傳說VII》於PSP平台推出。
+  - 為Falcom官方在[Microsoft Windows平台上所出的最後一部英雄傳說系列作品](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，其續作《英雄傳說VII》於PSP平台推出。
 
 ## 系統
 
-<small>詳細請參考：[軌跡系列
-系統](https://zh.wikipedia.org/wiki/軌跡系列#系統 "wikilink")</small>
+<small>詳細請參考：[軌跡系列 系統](https://zh.wikipedia.org/wiki/軌跡系列#系統 "wikilink")</small>
 
 地圖場景及物件都是以3D構成，而人物是以2D構成。玩家的畫面是從一特定的角度向地圖俯視，室外場景可順逆時針旋轉視點，在戰鬥中也一樣可以旋轉視點，但室內及一些特定場景是無法自由旋轉視點的。
 
@@ -132,8 +112,7 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 ### 戰鬥系統
 
 在此只介紹遊戲中獨有的特色系統。
-<small>其他系統詳細請參考：[軌跡系列
-戰鬥](https://zh.wikipedia.org/wiki/軌跡系列#戰鬥 "wikilink")</small>
+<small>其他系統詳細請參考：[軌跡系列 戰鬥](https://zh.wikipedia.org/wiki/軌跡系列#戰鬥 "wikilink")</small>
 
 以行動順序作為主軸的戰鬥系統，被命名「AT戰鬥系統」。
 
@@ -149,15 +128,13 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 
 ### 導力器
 
-<small>詳細請參考：[軌跡系列用語列表
-導力產物](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#導力產物 "wikilink")</small>
+<small>詳細請參考：[軌跡系列用語列表 導力產物](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#導力產物 "wikilink")</small>
 
 設置結晶迴路後可發揮出各種功效的個人用機械裝置。根據使用者的不同，導力器構造也不同。 《FC》每個人物的導力器為6個孔，《SC》後增加為7個孔。
 
 ### 料理
 
-<small>詳細請參考：[軌跡系列
-料理手冊](https://zh.wikipedia.org/wiki/軌跡系列#料理手冊 "wikilink")</small>
+<small>詳細請參考：[軌跡系列 料理手冊](https://zh.wikipedia.org/wiki/軌跡系列#料理手冊 "wikilink")</small>
 
 吃了料理以後，該項料理會被記錄在「料理手冊」中，此後只要擁有指定的食材就能夠製作該項料理。料理有許多功能，最基本的就是回覆HP及解除異常狀態等效果。料理分為三大種類，有無法攜帶，製作後必須現場吃完的「大盤料理」還有能夠攜帶的「隨身料理」，《SC》後增加了可以作為在戰鬥中投射出去攻擊用的「攻擊料理」。
 
@@ -254,8 +231,7 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 ## 世界設定
 
 在此只介紹故事中曾出現之國家、地區場景。
-<small>詳細請參考：[軌跡系列用語列表
-世界情勢](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#世界情勢 "wikilink")</small>
+<small>詳細請參考：[軌跡系列用語列表 世界情勢](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#世界情勢 "wikilink")</small>
 
 塞姆利亞大陸在50年前的導力革命後，走向了全新的時代。而本作故事以大陸西南部緊鄰特迪斯海的利貝爾王國為主要舞台。
 
@@ -263,7 +239,7 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 
   -
     位於塞姆利亞大陸西南部的王國，空之軌跡系列的舞台。
-    有著一千年以上的歷史，實行著君主制,但貴族制約在100年前被廢止。現在的國家元首是艾莉西亞·馮·奧絲雷賽女王。位於塞姆利亞大陸的西面，與北方的埃雷波尼亞帝國以及東部的卡爾瓦德共和國這兩個強國接壤着，是一個生存於兩大國間隙之中作為[緩衝國的小國家](../Page/緩衝國.md "wikilink")，但其以豐富的七耀石資源及高科技的導力器技術及巧妙的外交手段來保持與各國對等的關係。
+    有著一千年以上的歷史，實行著君主制,但貴族制約在100年前被廢止。現在的國家元首是艾莉西亞·馮·奧絲雷賽女王。位於塞姆利亞大陸的西面，與北方的埃雷波尼亞帝國以及東部的卡爾瓦德共和國這兩個強國接壤着，是一個生存於兩大國間隙之中作為[緩衝國](../Page/緩衝國.md "wikilink")的小國家，但其以豐富的七耀石資源及高科技的導力器技術及巧妙的外交手段來保持與各國對等的關係。
     <span style="font-size:smaller;">利貝爾王國以現實世界[第二次世界大戰時的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[泰國作為參考模型](https://zh.wikipedia.org/wiki/泰國 "wikilink")\[3\]</span>。
 
 #### 各地區域
@@ -313,8 +289,7 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 
 ### 歷史
 
-<small>詳細請參考：[軌跡系列用語列表
-歷史](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#歷史 "wikilink")</small>
+<small>詳細請參考：[軌跡系列用語列表 歷史](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#歷史 "wikilink")</small>
 
 軌跡系列以被稱作「七耀曆」的曆法作為紀年方式，空之軌跡系列故事從七耀曆1202年開始。
 
@@ -332,8 +307,7 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 
 ### 組織
 
-<small>詳細請參考：[軌跡系列用語列表
-組織](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#組織 "wikilink")</small>
+<small>詳細請參考：[軌跡系列用語列表 組織](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#組織 "wikilink")</small>
 
   -
     以維護民間人士的安全和地域的和平作為首要目的，以遊擊士所組成的民間團體。
@@ -505,8 +479,7 @@ SC 表示 **S**econd **C**hapter 的簡稱。
 
 ### 日文版
 
-[Microsoft
-Windows版和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PSP版以及](https://zh.wikipedia.org/wiki/PSP "wikilink")[PS3版都是日本遊戲公司](https://zh.wikipedia.org/wiki/PS3 "wikilink")[Falcom所開發](https://zh.wikipedia.org/wiki/Falcom "wikilink")。
+[Microsoft Windows版和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PSP版以及](https://zh.wikipedia.org/wiki/PSP "wikilink")[PS3版都是日本遊戲公司](https://zh.wikipedia.org/wiki/PS3 "wikilink")[Falcom所開發](https://zh.wikipedia.org/wiki/Falcom "wikilink")。
 
 #### Windows
 
@@ -529,8 +502,7 @@ Windows版和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PSP�
 
 #### PSP
 
-在Falcom移植《[咕嚕小天使](https://zh.wikipedia.org/wiki/咕嚕小天使 "wikilink")》至[PlayStation
-Portable平台獲得成功後](../Page/PlayStation_Portable.md "wikilink")，《FC》、《SC》、《3rd》都陸續移植到PSP平台上。
+在Falcom移植《[咕嚕小天使](https://zh.wikipedia.org/wiki/咕嚕小天使 "wikilink")》至[PlayStation Portable平台獲得成功後](../Page/PlayStation_Portable.md "wikilink")，《FC》、《SC》、《3rd》都陸續移植到PSP平台上。
 
 |         | 標題                              | 作業平台 | 儲存媒體 | 發行日期       | 備註                       |
 | ------- | ------------------------------- | ---- | ---- | ---------- | ------------------------ |
@@ -594,8 +566,7 @@ Portable平台獲得成功後](../Page/PlayStation_Portable.md "wikilink")，《
 
 #### PS3
 
-2012年[Falcom宣布空之軌跡系列陸續移植至](https://zh.wikipedia.org/wiki/Falcom "wikilink")[PlayStation
-3平台](../Page/PlayStation_3.md "wikilink")，並對遊戲畫面進行高畫質重製。
+2012年[Falcom宣布空之軌跡系列陸續移植至](https://zh.wikipedia.org/wiki/Falcom "wikilink")[PlayStation 3平台](../Page/PlayStation_3.md "wikilink")，並對遊戲畫面進行高畫質重製。
 
 |     | 標題                             | 作業平台 | 儲存媒體 | 發行日期        | 備註                                                |
 | --- | ------------------------------ | ---- | ---- | ----------- | ------------------------------------------------- |
@@ -608,7 +579,7 @@ Portable平台獲得成功後](../Page/PlayStation_Portable.md "wikilink")，《
 <!-- end list -->
 
 1.  重製影像及圖片解析度到[HD版](../Page/HD_DVD.md "wikilink")[720p](../Page/720p.md "wikilink")，增加PS3獨有的獎盃成就系統。與PSP版存檔互通。
-2.  採用[藍光光碟存儲](../Page/藍光光碟.md "wikilink")，遊戲原聲專輯也進行高音質化，與遊戲合併在同一張光碟。
+2.  採用[藍光光碟](../Page/藍光光碟.md "wikilink")存儲，遊戲原聲專輯也進行高音質化，與遊戲合併在同一張光碟。
 3.  增加新繪插圖，首批並附贈軌跡系列的PS3桌面主題。
 
 #### PSV
@@ -630,13 +601,9 @@ Portable平台獲得成功後](../Page/PlayStation_Portable.md "wikilink")，《
 
 ### 中文版
 
-中文[Microsoft
-Windows平台版本由](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[娛樂通取得代理](https://zh.wikipedia.org/wiki/娛樂通 "wikilink")。簡體中文版由[娛樂通在中國大陸發售](https://zh.wikipedia.org/wiki/娛樂通 "wikilink")，而PC繁體中文版由[英特衛和](https://zh.wikipedia.org/wiki/英特衛 "wikilink")[Typhoon
-Games在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
+中文[Microsoft Windows平台版本由](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[娛樂通取得代理](https://zh.wikipedia.org/wiki/娛樂通 "wikilink")。簡體中文版由[娛樂通在中國大陸發售](https://zh.wikipedia.org/wiki/娛樂通 "wikilink")，而PC繁體中文版由[英特衛和](https://zh.wikipedia.org/wiki/英特衛 "wikilink")[Typhoon Games在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
-《FC》在[PlayStation
-Vita上的的升级版](../Page/PlayStation_Vita.md "wikilink")《英雄传说：空之轨迹FC
-全面进化版》已经确认推出中文版，繁体中文版发售日原為2015年10月1日，後兩次更改為同年的10月22日及11月5日。简体中文版2016年8月25日发售\[5\]。
+《FC》在[PlayStation Vita上的的升级版](../Page/PlayStation_Vita.md "wikilink")《英雄传说：空之轨迹FC 全面进化版》已经确认推出中文版，繁体中文版发售日原為2015年10月1日，後兩次更改為同年的10月22日及11月5日。简体中文版2016年8月25日发售\[5\]。
 
 | 版本           | 各地發行時間      |
 | ------------ | ----------- |
@@ -658,20 +625,15 @@ Vita上的的升级版](../Page/PlayStation_Vita.md "wikilink")《英雄传说�
 
 #### 程序錯誤
 
-该游戏在中国大陆发售时，早期简体中文的界面翻译存在不少[问题](https://zh.wikipedia.org/wiki/程序錯誤 "wikilink")。其中的一句台词“-{嘿嘿嘿，还好啦}-”（[GBK](https://zh.wikipedia.org/wiki/GBK "wikilink")：`BA
-D9 BA D9 BA D9 A3 AC BB B9 BA C3 C0
-B2`）因为丢失开头一个[字节](../Page/字节.md "wikilink")，变成[乱码](https://zh.wikipedia.org/wiki/乱码 "wikilink")“-{俸俸伲购美病}-”而广受玩家诟病。这些错误已通过后续的补丁修正。
+该游戏在中国大陆发售时，早期简体中文的界面翻译存在不少[问题](https://zh.wikipedia.org/wiki/程序錯誤 "wikilink")。其中的一句台词“-{嘿嘿嘿，还好啦}-”（[GBK](https://zh.wikipedia.org/wiki/GBK "wikilink")：`BA D9 BA D9 BA D9 A3 AC BB B9 BA C3 C0 B2`）因为丢失开头一个[字节](../Page/字节.md "wikilink")，变成[乱码](https://zh.wikipedia.org/wiki/乱码 "wikilink")“-{俸俸伲购美病}-”而广受玩家诟病。这些错误已通过后续的补丁修正。
 
 ### 韓國版
 
-韩国版（）由[AruonGames
-Inc.代理Windows版](https://zh.wikipedia.org/wiki/AruonGames_Inc. "wikilink")，以網路認證下載的形式販售。但製作了遊戲中主角約書亞的口琴之實體版本，以周邊紀念商品的模式販售，售價是68200韓元\[6\]。
-PhyreEngine
+韩国版（）由[AruonGames Inc.代理Windows版](https://zh.wikipedia.org/wiki/AruonGames_Inc. "wikilink")，以網路認證下載的形式販售。但製作了遊戲中主角約書亞的口琴之實體版本，以周邊紀念商品的模式販售，售價是68200韓元\[6\]。 PhyreEngine
 
 ### 北美版
 
-由[XSEED代理](https://zh.wikipedia.org/wiki/XSEED "wikilink")，發行時將遊戲名稱譯為，《FC》英文PSP版於2011年3月29日發售。2013年XSEED合併至Marvelous，更名為[Marvelous
-USA](https://zh.wikipedia.org/wiki/Marvelous_USA "wikilink")；2014年7月29日在[Steam平台上發行](../Page/Steam.md "wikilink")《FC》英文PC版，《SC》英文PC版也預定於2015年推出。
+由[XSEED代理](https://zh.wikipedia.org/wiki/XSEED "wikilink")，發行時將遊戲名稱譯為，《FC》英文PSP版於2011年3月29日發售。2013年XSEED合併至Marvelous，更名為[Marvelous USA](https://zh.wikipedia.org/wiki/Marvelous_USA "wikilink")；2014年7月29日在[Steam](../Page/Steam.md "wikilink")平台上發行《FC》英文PC版，《SC》英文PC版也預定於2015年推出。
 
 |    | 標題                                                     | 作業平台 | 發行日期         | 備註                        |
 | -- | ------------------------------------------------------ | ---- | ------------ | ------------------------- |
@@ -690,8 +652,7 @@ USA](https://zh.wikipedia.org/wiki/Marvelous_USA "wikilink")；2014年7月29日�
 
 <!-- end list -->
 
-  - 《[伊蘇vs.空之軌跡 Alternative
-    Saga](../Page/伊苏vs.空之轨迹_Alternative_Saga.md "wikilink")》
+  - 《[伊蘇vs.空之軌跡 Alternative Saga](../Page/伊苏vs.空之轨迹_Alternative_Saga.md "wikilink")》
 
 <!-- end list -->
 
@@ -739,7 +700,7 @@ USA](https://zh.wikipedia.org/wiki/Marvelous_USA "wikilink")；2014年7月29日�
 <td><p><a href="https://zh.wikipedia.org/wiki/う〜み" title="wikilink">う〜み</a><br />
 Ch：伊藤和子</p></td>
 <td><p>浜田英明</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Falcom_Sound_Team_jdk" title="wikilink">Falcom Sound Team jdk</a></p></td>
+<td><p><a href="../Page/Falcom_Sound_Team_jdk.md" title="wikilink">Falcom Sound Team jdk</a></p></td>
 <td><p>和田耕平</p></td>
 <td></td>
 </tr>
@@ -935,8 +896,7 @@ Ch：しばざきあやこ</p></td>
 <!-- end list -->
 
   - 英雄傳說 空之軌跡SC
-    2014年6月開始在日本的網路漫畫雜誌《[Fami通Comic
-    Clear](https://zh.wikipedia.org/wiki/Fami通Comic_Clear "wikilink")》連載。
+    2014年6月開始在日本的網路漫畫雜誌《[Fami通Comic Clear](https://zh.wikipedia.org/wiki/Fami通Comic_Clear "wikilink")》連載。
     與漫畫《英雄傳說 空之軌跡》一樣，由啄木鳥真紀作畫。
 
 <!-- end list -->
@@ -949,8 +909,7 @@ Ch：しばざきあやこ</p></td>
 
   - 英雄傳說 空之軌跡(1) 消失的定期船
     對空之軌跡正傳劇情的演繹。
-    作者[長谷川雅一](https://zh.wikipedia.org/wiki/長谷川雅一 "wikilink")。小說插圖由[Wada
-    Arco擔當](https://zh.wikipedia.org/wiki/Wada_Arco "wikilink")
+    作者[長谷川雅一](https://zh.wikipedia.org/wiki/長谷川雅一 "wikilink")。小說插圖由[Wada Arco擔當](https://zh.wikipedia.org/wiki/Wada_Arco "wikilink")
 
 ### OVA動畫
 
@@ -964,8 +923,7 @@ Ch：しばざきあやこ</p></td>
   - 人物設計・總作畫監督 - [野崎敦子](https://zh.wikipedia.org/wiki/野崎敦子 "wikilink")
   - 布景設計 - [菱沼由典](https://zh.wikipedia.org/wiki/菱沼由典 "wikilink")
   - 架構設計 - [安藤賢司](https://zh.wikipedia.org/wiki/安藤賢司 "wikilink")
-  - 美術監督 -
-    [竹田悠介](https://zh.wikipedia.org/wiki/竹田悠介 "wikilink")、[丁樹錄](https://zh.wikipedia.org/wiki/丁樹錄 "wikilink")
+  - 美術監督 - [竹田悠介](https://zh.wikipedia.org/wiki/竹田悠介 "wikilink")、[丁樹錄](https://zh.wikipedia.org/wiki/丁樹錄 "wikilink")
   - 色彩設計 - [加藤里惠](https://zh.wikipedia.org/wiki/加藤里惠 "wikilink")
   - 攝影監督 - [木村俊也](https://zh.wikipedia.org/wiki/木村俊也 "wikilink")
   - 3D監督 - [井野元英二](https://zh.wikipedia.org/wiki/井野元英二 "wikilink")
@@ -978,13 +936,9 @@ Ch：しばざきあやこ</p></td>
 #### 主題曲
 
   - 片頭曲 《》
-    作詞 - 一二三恭 / 作曲 - [Falcom Sound Team
-    jdk](https://zh.wikipedia.org/wiki/Falcom_Sound_Team_jdk "wikilink")
-    / 編曲 - 神藤由東大 / 主唱 - [小寺可南子](../Page/小寺可南子.md "wikilink")
+    作詞 - 一二三恭 / 作曲 - [Falcom Sound Team jdk](../Page/Falcom_Sound_Team_jdk.md "wikilink") / 編曲 - 神藤由東大 / 主唱 - [小寺可南子](../Page/小寺可南子.md "wikilink")
   - 片尾曲 《》
-    作詞・作曲 - [rino](https://zh.wikipedia.org/wiki/rino "wikilink") / 編曲 -
-    [虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink") / 主唱 -
-    [ChouCho](../Page/ChouCho.md "wikilink")
+    作詞・作曲 - [rino](https://zh.wikipedia.org/wiki/rino "wikilink") / 編曲 - [虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink") / 主唱 - [ChouCho](../Page/ChouCho.md "wikilink")
 
 ## 销售
 
@@ -997,15 +951,14 @@ Ch：しばざきあやこ</p></td>
   - [Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
   - [軌跡系列](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")
-  - [英雄傳說VII（零之軌跡 - 碧之軌跡）](../Page/英雄傳說VII.md "wikilink")
+  - [英雄傳說VII - 碧之軌跡）](../Page/英雄傳說VII.md "wikilink")（零之軌跡
   - [英雄傳說 閃之軌跡](../Page/英雄傳說_閃之軌跡.md "wikilink")
 
 ## 外部連結
 
   - [Falcom](http://www.falcom.co.jp/)
 
-  - [英雄傳說VI
-    空之軌跡系列官方網站](https://web.archive.org/web/20100302145143/http://www.falcom.com/sora/index.html)
+  - [英雄傳說VI 空之軌跡系列官方網站](https://web.archive.org/web/20100302145143/http://www.falcom.com/sora/index.html)
 
   - [英雄傳說「空之軌跡」THE ANIMATION](http://www.sora-anime.com/)
 
@@ -1015,25 +968,11 @@ Ch：しばざきあやこ</p></td>
 
   - [Typhoon Games (HK) Ltd](http://www.typhoongames.com/)
 
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:遊戲改編漫畫](https://zh.wikipedia.org/wiki/Category:遊戲改編漫畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:遊戲改編漫畫](https://zh.wikipedia.org/wiki/Category:遊戲改編漫畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.  [《英雄傳說VI空之軌跡》動畫化](http://www.falcom.co.jp/falcom30th/animation.html)
 2.
 3.  [空の軌跡開発者インタビュー](http://www.falcom.co.jp/info/staff/2006/interview.html)
-
 4.  《SC》追擊古代龍時曾經出現；《3rd》突入影之國時，更出現每小時5600～6000賽爾矩
 5.
 6.

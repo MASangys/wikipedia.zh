@@ -1,5 +1,4 @@
-**艾倫·詹姆斯·柏奈特**（，）\[1\]，經常被稱為**A·J·柏奈特**（A. J.
-Burnett），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[棒球](../Page/棒球.md "wikilink")[選手之一](https://zh.wikipedia.org/wiki/選手 "wikilink")，自2008年球季結束後與[紐約洋基](../Page/紐約洋基.md "wikilink")隊簽約，2012年交易到[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")擔任[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")。
+**艾倫·詹姆斯·柏奈特**（，）\[1\]，經常被稱為**A·J·柏奈特**（A. J. Burnett），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[棒球](../Page/棒球.md "wikilink")[選手之一](https://zh.wikipedia.org/wiki/選手 "wikilink")，自2008年球季結束後與[紐約洋基](../Page/紐約洋基.md "wikilink")隊簽約，2012年交易到[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")擔任[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")。
 
 ## 早期生活
 
@@ -9,18 +8,11 @@ Burnett），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[棒球](.
 
 ### 佛羅里達馬林魚
 
-2001年是柏奈特在大聯盟的第一個完整的球季，當年的成績為11勝12敗和4.05防禦率。5月12日，柏奈特投出生涯的第一個[無安打比賽](../Page/無安打比賽.md "wikilink")，這場比賽的對手是[聖地牙哥教士](https://zh.wikipedia.org/wiki/聖地牙哥教士 "wikilink")，但是這場比賽他也投出9次保送\[2\]，這在棒球比賽裡面是蠻特別的紀錄，比賽結果是以3：0由馬林魚獲勝，這場比賽投出9次保送，但三振卻只有7次。2003年柏奈特繳出12勝9敗、3.30防禦率和203次三振的成績，這是在2008年以前他大聯盟最佳的成績。2002年球季柏奈特主要的投球武器是快速球，平均為每小時94.9英里（miles
-per hour,
-mph）[1](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=4&season=2002&month=0)。2003年柏奈特只先發四場比賽就因傷進行[尺骨附屬韌帶重建術](../Page/尺骨附屬韌帶重建術.md "wikilink")，本球季宣布提前結束，而無緣參與[2003年世界大賽](../Page/2003年世界大賽.md "wikilink")。2004年柏奈特一直到6月才回到球場上，今年總共先發19場比賽，獲得7勝6敗和3.68防禦率的成績，這一年所投出的快速球可以達到102
-mph，不過到了9月的時候，柏奈特因肘部受傷而休息了幾場比賽。
-2005年球季結束以後，柏奈特和他的隊友[卡爾·帕瓦諾](../Page/卡爾·帕瓦諾.md "wikilink")就具備自由球員的資格，他拒絕馬林魚提供的合約想到市場測試他的身價，而在拒絕合約以後，馬林魚開始想將柏奈特交易出去，但到7月31日結束，並沒有交易成功。在今年球季結束以前，柏奈特要拿出他最佳的表現來獲取一份好的合約。明星賽之後的第一場先發，他以5：6輸掉比賽，在此場比賽以後，柏奈特連續贏得7場比賽的勝投，今年最後一場勝投是8月19日對[洛杉磯道奇的比賽](https://zh.wikipedia.org/wiki/洛杉磯道奇 "wikilink")，投8局0失分，以3：0獲得勝投，但是在這場比賽以後，他連續6場比賽吞下敗投，包含5場比賽輸掉4場比賽（ERA達到5.93），也讓馬林魚在9月輸掉外卡的資格，無緣進入季後賽。球季最後柏奈特繳出12勝12敗和3.44防禦率的成績。9月27日，柏奈特的評論被馬林魚要求離開球隊，在被要求離開的前一天，他批評球隊：我們的球員在害怕，我們的總教練在害怕，我們的教練在害怕。這場比賽馬林魚在[亞特蘭大勇士](../Page/亞特蘭大勇士.md "wikilink")的主場從3：0領先到3：5被勇士逆轉，柏奈特因不滿而做出批評\[3\]。事後老教頭麥基恩（Jack
-McKeon）想叫他進辦公室，別再亂講話，他揮手拒絕並馬上打包行李閃人。隔天，馬林魚球團宣布，柏奈特禁賽至球季結束，他因此差1局就投滿210局，少賺5萬美元獎金，並以2次三振的些微差距，與生涯第2次單季200Ｋ擦肩而過，再過1天，球團更決定不與他續約，要求他立刻離開球隊。這一年柏奈特所投出的快速球平均值為95.6 mph
-[2](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=4&season=2005&month=0)。柏奈特原訂9月30日最後1次先發，交給9月擴編才從2A升上來的新秀[喬許·詹森](../Page/喬許·詹森.md "wikilink")。10月27日，柏奈特宣布成為自由球員。
+2001年是柏奈特在大聯盟的第一個完整的球季，當年的成績為11勝12敗和4.05防禦率。5月12日，柏奈特投出生涯的第一個[無安打比賽](../Page/無安打比賽.md "wikilink")，這場比賽的對手是[聖地牙哥教士](https://zh.wikipedia.org/wiki/聖地牙哥教士 "wikilink")，但是這場比賽他也投出9次保送\[2\]，這在棒球比賽裡面是蠻特別的紀錄，比賽結果是以3：0由馬林魚獲勝，這場比賽投出9次保送，但三振卻只有7次。2003年柏奈特繳出12勝9敗、3.30防禦率和203次三振的成績，這是在2008年以前他大聯盟最佳的成績。2002年球季柏奈特主要的投球武器是快速球，平均為每小時94.9英里（miles per hour, mph）[1](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=4&season=2002&month=0)。2003年柏奈特只先發四場比賽就因傷進行[尺骨附屬韌帶重建術](../Page/尺骨附屬韌帶重建術.md "wikilink")，本球季宣布提前結束，而無緣參與[2003年世界大賽](../Page/2003年世界大賽.md "wikilink")。2004年柏奈特一直到6月才回到球場上，今年總共先發19場比賽，獲得7勝6敗和3.68防禦率的成績，這一年所投出的快速球可以達到102 mph，不過到了9月的時候，柏奈特因肘部受傷而休息了幾場比賽。 2005年球季結束以後，柏奈特和他的隊友[卡爾·帕瓦諾](../Page/卡爾·帕瓦諾.md "wikilink")就具備自由球員的資格，他拒絕馬林魚提供的合約想到市場測試他的身價，而在拒絕合約以後，馬林魚開始想將柏奈特交易出去，但到7月31日結束，並沒有交易成功。在今年球季結束以前，柏奈特要拿出他最佳的表現來獲取一份好的合約。明星賽之後的第一場先發，他以5：6輸掉比賽，在此場比賽以後，柏奈特連續贏得7場比賽的勝投，今年最後一場勝投是8月19日對[洛杉磯道奇的比賽](https://zh.wikipedia.org/wiki/洛杉磯道奇 "wikilink")，投8局0失分，以3：0獲得勝投，但是在這場比賽以後，他連續6場比賽吞下敗投，包含5場比賽輸掉4場比賽（ERA達到5.93），也讓馬林魚在9月輸掉外卡的資格，無緣進入季後賽。球季最後柏奈特繳出12勝12敗和3.44防禦率的成績。9月27日，柏奈特的評論被馬林魚要求離開球隊，在被要求離開的前一天，他批評球隊：我們的球員在害怕，我們的總教練在害怕，我們的教練在害怕。這場比賽馬林魚在[亞特蘭大勇士](../Page/亞特蘭大勇士.md "wikilink")的主場從3：0領先到3：5被勇士逆轉，柏奈特因不滿而做出批評\[3\]。事後老教頭麥基恩（Jack McKeon）想叫他進辦公室，別再亂講話，他揮手拒絕並馬上打包行李閃人。隔天，馬林魚球團宣布，柏奈特禁賽至球季結束，他因此差1局就投滿210局，少賺5萬美元獎金，並以2次三振的些微差距，與生涯第2次單季200Ｋ擦肩而過，再過1天，球團更決定不與他續約，要求他立刻離開球隊。這一年柏奈特所投出的快速球平均值為95.6 mph [2](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=4&season=2005&month=0)。柏奈特原訂9月30日最後1次先發，交給9月擴編才從2A升上來的新秀[喬許·詹森](../Page/喬許·詹森.md "wikilink")。10月27日，柏奈特宣布成為自由球員。
 
 ### 多倫多藍鳥
 
-[A-j-burnett-may-22-2008.JPG](https://zh.wikipedia.org/wiki/File:A-j-burnett-may-22-2008.JPG "fig:A-j-burnett-may-22-2008.JPG")投球的柏奈特。\]\]
-2005年12月6日，柏奈特和[多倫多藍鳥](../Page/多倫多藍鳥.md "wikilink")簽下5年5500萬美金的合約\[4\]，但在簽下合約的隔年2006年，球季開始柏奈特就進入傷兵名單，到4月15日對[芝加哥白襪](../Page/芝加哥白襪.md "wikilink")的比賽才回到先發輪執行列\[5\]，但之後又因傷進入傷兵名單，直到6月22日才復出比賽，到球季結束以後，柏奈特繳出10勝8敗和3.98的防禦率。2007年第一場先發面對[底特律老虎](../Page/底特律老虎.md "wikilink")，只投2局便責失6分吞下敗投。接下來的四場先發中，柏奈特拿下2勝0敗的成績，並讓第一場比賽27的高防禦率，降至4.18。這一年柏奈特繳出10勝8敗和3.75防禦率的成績。柏奈特和藍鳥的5年裡面，有附帶一條2008年球季結束以後，柏奈特可以宣布提早成為自由球員，這一年柏奈特為了能夠在獲得一份優渥的合約，而投出生涯最佳的代表作，繳出18勝10敗，勝場數是生涯新高，34場先發中投球局數為221.1局，今年並投出生涯最佳的231次三振，獲得2008年美國聯盟三振王。在球季結束以後，柏奈特執行合約中的逃脫條款，宣布成為自由球員。
+[A-j-burnett-may-22-2008.JPG](https://zh.wikipedia.org/wiki/File:A-j-burnett-may-22-2008.JPG "fig:A-j-burnett-may-22-2008.JPG")投球的柏奈特。\]\] 2005年12月6日，柏奈特和[多倫多藍鳥](../Page/多倫多藍鳥.md "wikilink")簽下5年5500萬美金的合約\[4\]，但在簽下合約的隔年2006年，球季開始柏奈特就進入傷兵名單，到4月15日對[芝加哥白襪](../Page/芝加哥白襪.md "wikilink")的比賽才回到先發輪執行列\[5\]，但之後又因傷進入傷兵名單，直到6月22日才復出比賽，到球季結束以後，柏奈特繳出10勝8敗和3.98的防禦率。2007年第一場先發面對[底特律老虎](../Page/底特律老虎.md "wikilink")，只投2局便責失6分吞下敗投。接下來的四場先發中，柏奈特拿下2勝0敗的成績，並讓第一場比賽27的高防禦率，降至4.18。這一年柏奈特繳出10勝8敗和3.75防禦率的成績。柏奈特和藍鳥的5年裡面，有附帶一條2008年球季結束以後，柏奈特可以宣布提早成為自由球員，這一年柏奈特為了能夠在獲得一份優渥的合約，而投出生涯最佳的代表作，繳出18勝10敗，勝場數是生涯新高，34場先發中投球局數為221.1局，今年並投出生涯最佳的231次三振，獲得2008年美國聯盟三振王。在球季結束以後，柏奈特執行合約中的逃脫條款，宣布成為自由球員。
 
 ### 紐約洋基
 
@@ -38,13 +30,11 @@ McKeon）想叫他進辦公室，別再亂講話，他揮手拒絕並馬上打�
 
 10月29日，[2009年世界大賽](../Page/2009年世界大賽.md "wikilink")的第二場比賽，先發對手為[費城費城人](../Page/費城費城人.md "wikilink")的[佩卓·馬丁尼茲](../Page/佩卓·馬丁尼茲.md "wikilink")，投7局只失1分，拿下個人在季後賽的第1勝。
 
-2009年柏奈特的問題是投出太多的四壞球，共有97次，是美國聯盟投出最多四壞球的投手。
-[001B4476_A._J._Burnett.jpg](https://zh.wikipedia.org/wiki/File:001B4476_A._J._Burnett.jpg "fig:001B4476_A._J._Burnett.jpg")時期的**A·J·柏奈特**\]\]
+2009年柏奈特的問題是投出太多的四壞球，共有97次，是美國聯盟投出最多四壞球的投手。 [001B4476_A._J._Burnett.jpg](https://zh.wikipedia.org/wiki/File:001B4476_A._J._Burnett.jpg "fig:001B4476_A._J._Burnett.jpg")時期的**A·J·柏奈特**\]\]
 
 ### 2013\~2013匹茲堡海盜
 
-2012年2月17日被交易到海盜隊，洋基隊換得小聯盟外野手Exicardo Cayones與投手Diego
-Moreno，同時後兩年合約3300萬美金薪資中洋基需負擔2000萬。
+2012年2月17日被交易到海盜隊，洋基隊換得小聯盟外野手Exicardo Cayones與投手Diego Moreno，同時後兩年合約3300萬美金薪資中洋基需負擔2000萬。
 
 轉隊後的柏奈特，雖然在2012年5月2日出戰聖路易紅雀隊時僅投2.2局就失12分；但從5月19日率領海盜在跨聯盟賽事中擊退老虎隊後，包括六月份的五連勝在內，至7月8日止投出了9連勝，十二連不敗的成績，儼然成為海盜隊不可或缺的王牌先發。
 
@@ -58,23 +48,19 @@ Moreno，同時後兩年合約3300萬美金薪資中洋基需負擔2000萬。
 
 球季結束後，他並未執行與費城人合約中的1275萬美元(約3.9億新台幣)球員選擇權，反而在成為自由球員後不久就與海盜聯絡。海盜很快就與Burnett敲定合約，最終雙方簽下1年約，年薪850萬美元(約2.6億新台幣)。談到這個決定，Burnett今天在接受媒體訪問時表示：「我屬於這裡。這將會是我的最後1個球季，我還可以拚1年，我想要贏得冠軍戒指，而我想要在匹茲堡做到。」
 
-Burnett今年投出生涯第2500K，超越Sam McDowell、Jim Kaat（2461次）、Mark Langston
-（2464次）。
+Burnett今年投出生涯第2500K，超越Sam McDowell、Jim Kaat（2461次）、Mark Langston （2464次）。
 
 ## 派襲
 
 柏奈特從2006年效力於[多倫多藍鳥隊開始](https://zh.wikipedia.org/wiki/多倫多藍鳥隊 "wikilink")，只要隊友擊出再見安打或是再見全壘打時，他就會出其不意，在隊友被記者訪問時，突然從後面拿著塗滿**刮鬍泡沫**的**「奶油派」**，往隊友的臉上砸過去，因此跟他同事過的隊友們，便因此稱呼他**「砸派王」**。
 
-到了2009年柏奈特來到洋基以後更是爐火純青，2009年被他砸過的隊友有[布萊特·加德納](https://zh.wikipedia.org/wiki/布萊特·加德納 "wikilink")、[梅基·卡布瑞拉](../Page/梅基·卡布瑞拉.md "wikilink")、[艾力士·羅德里奎茲](../Page/艾力士·羅德里奎茲.md "wikilink")、[羅賓森·坎諾](../Page/羅賓森·坎諾.md "wikilink")、[強尼·戴蒙](../Page/強尼·戴蒙.md "wikilink")、[荷黑·波沙達](https://zh.wikipedia.org/wiki/荷黑·波沙達 "wikilink")、[松井秀喜](https://zh.wikipedia.org/wiki/松井秀喜 "wikilink")、[尼可拉斯·史威瑟](../Page/尼可拉斯·史威瑟.md "wikilink")、[弗朗西斯科·瑟維里](../Page/弗朗西斯科·瑟維里.md "wikilink")、Juan
-Miranda、[馬克·塔克薛拉](../Page/馬克·塔克薛拉.md "wikilink")和[傑瑞·小赫爾斯頓](../Page/傑瑞·小赫爾斯頓.md "wikilink")。2009年11月4日，[2009年世界大賽](../Page/2009年世界大賽.md "wikilink")最後一場比賽洋基拿下冠軍時，柏奈特將派砸向總教練[喬·吉拉迪](../Page/喬·吉拉迪.md "wikilink")\[9\]。
+到了2009年柏奈特來到洋基以後更是爐火純青，2009年被他砸過的隊友有[布萊特·加德納](https://zh.wikipedia.org/wiki/布萊特·加德納 "wikilink")、[梅基·卡布瑞拉](../Page/梅基·卡布瑞拉.md "wikilink")、[艾力士·羅德里奎茲](../Page/艾力士·羅德里奎茲.md "wikilink")、[羅賓森·坎諾](../Page/羅賓森·坎諾.md "wikilink")、[強尼·戴蒙](../Page/強尼·戴蒙.md "wikilink")、[荷黑·波沙達](https://zh.wikipedia.org/wiki/荷黑·波沙達 "wikilink")、[松井秀喜](https://zh.wikipedia.org/wiki/松井秀喜 "wikilink")、[尼可拉斯·史威瑟](../Page/尼可拉斯·史威瑟.md "wikilink")、[弗朗西斯科·瑟維里](../Page/弗朗西斯科·瑟維里.md "wikilink")、Juan Miranda、[馬克·塔克薛拉](../Page/馬克·塔克薛拉.md "wikilink")和[傑瑞·小赫爾斯頓](../Page/傑瑞·小赫爾斯頓.md "wikilink")。2009年11月4日，[2009年世界大賽](../Page/2009年世界大賽.md "wikilink")最後一場比賽洋基拿下冠軍時，柏奈特將派砸向總教練[喬·吉拉迪](../Page/喬·吉拉迪.md "wikilink")\[9\]。
 
 ## 投球风格
 
-AJ
-伯奈特基本武器有两种，彈指曲球和速球。他的四縫線與二縫線[速球在](https://zh.wikipedia.org/wiki/速球 "wikilink")93-96mph之间帶有強烈的尾劲；而[曲球在一般在](https://zh.wikipedia.org/wiki/曲球 "wikilink")80-82mph左右，有著銳利的下墜幅度。最近他做的手肘尺骨附属韧带手术稍稍影响了他出手的速度。
+AJ 伯奈特基本武器有两种，彈指曲球和速球。他的四縫線與二縫線[速球在](https://zh.wikipedia.org/wiki/速球 "wikilink")93-96mph之间帶有強烈的尾劲；而[曲球在一般在](https://zh.wikipedia.org/wiki/曲球 "wikilink")80-82mph左右，有著銳利的下墜幅度。最近他做的手肘尺骨附属韧带手术稍稍影响了他出手的速度。
 
-最近，为了提高球速合增加尾劲，他把原来的投球方式改成更接近3/4投球。他在蓝鸟时在投手教练Brad
-Arnsberg的帮助下提高了自己的变化球水平，并且取得了不错的效果。
+最近，为了提高球速合增加尾劲，他把原来的投球方式改成更接近3/4投球。他在蓝鸟时在投手教练Brad Arnsberg的帮助下提高了自己的变化球水平，并且取得了不错的效果。
 
 ## 職業生涯成績
 
@@ -101,36 +87,22 @@ Arnsberg的帮助下提高了自己的变化球水平，并且取得了不错的
 
 ## 私人生活
 
-柏奈特畢業於Central Arkansas
-Christian學校\[10\]，球季結束以後他會居住在[馬里蘭州的Monkton](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")\[11\]。柏奈特身上有許多的紋身。
+柏奈特畢業於Central Arkansas Christian學校\[10\]，球季結束以後他會居住在[馬里蘭州的Monkton](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")\[11\]。柏奈特身上有許多的紋身。
 
 ## 參考文獻
 
 ## 外部連結
 
-[Category:多倫多藍鳥隊球員](https://zh.wikipedia.org/wiki/Category:多倫多藍鳥隊球員 "wikilink")
-[Category:佛羅里達馬林魚隊球員](https://zh.wikipedia.org/wiki/Category:佛羅里達馬林魚隊球員 "wikilink")
-[Category:紐約洋基隊球員](https://zh.wikipedia.org/wiki/Category:紐約洋基隊球員 "wikilink")
-[Category:匹茲堡海盜隊球員](https://zh.wikipedia.org/wiki/Category:匹茲堡海盜隊球員 "wikilink")
-[Category:費城費城人隊球員](https://zh.wikipedia.org/wiki/Category:費城費城人隊球員 "wikilink")
-[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
-[Category:美國聯盟三振王](https://zh.wikipedia.org/wiki/Category:美國聯盟三振王 "wikilink")
-[Category:全明星未來之星賽球員](https://zh.wikipedia.org/wiki/Category:全明星未來之星賽球員 "wikilink")
+[Category:多倫多藍鳥隊球員](https://zh.wikipedia.org/wiki/Category:多倫多藍鳥隊球員 "wikilink") [Category:佛羅里達馬林魚隊球員](https://zh.wikipedia.org/wiki/Category:佛羅里達馬林魚隊球員 "wikilink") [Category:紐約洋基隊球員](https://zh.wikipedia.org/wiki/Category:紐約洋基隊球員 "wikilink") [Category:匹茲堡海盜隊球員](https://zh.wikipedia.org/wiki/Category:匹茲堡海盜隊球員 "wikilink") [Category:費城費城人隊球員](https://zh.wikipedia.org/wiki/Category:費城費城人隊球員 "wikilink") [Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink") [Category:美國聯盟三振王](https://zh.wikipedia.org/wiki/Category:美國聯盟三振王 "wikilink") [Category:全明星未來之星賽球員](https://zh.wikipedia.org/wiki/Category:全明星未來之星賽球員 "wikilink")
 
 1.  他的姓在報導上又譯作**柏納特**或**伯奈特**
 2.
-3.  [The Official Site of The Florida Marlins: News: Florida Marlins
-    News](http://florida.marlins.mlb.com/NASApp/mlb/news/article.jsp?ymd=20050926&content_id=1225274&vkey=news_fla&fext=.jsp&c_id=fla)
+3.  [The Official Site of The Florida Marlins: News: Florida Marlins News](http://florida.marlins.mlb.com/NASApp/mlb/news/article.jsp?ymd=20050926&content_id=1225274&vkey=news_fla&fext=.jsp&c_id=fla)
 4.
 5.
-6.  [New York Yankees sign right-handed pitcher A. J.
-    Burnett](http://newyork.yankees.mlb.com/news/press_releases/press_release.jsp?ymd=20081218&content_id=3721198&vkey=pr_nyy&fext=.jsp&c_id=nyy)
-7.  [Red Sox defeat
-    Yankees 7-0](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2009_06_09_nyamlb_bosmlb_1)
-    [Gameday](https://zh.wikipedia.org/wiki/GameDay_\(software\) "wikilink")
-    interactive boxscore.
-8.  [Yanks go fourth against
-    Johan](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2009_06_14_nynmlb_nyamlb_1)
+6.  [New York Yankees sign right-handed pitcher A. J. Burnett](http://newyork.yankees.mlb.com/news/press_releases/press_release.jsp?ymd=20081218&content_id=3721198&vkey=pr_nyy&fext=.jsp&c_id=nyy)
+7.  [Red Sox defeat Yankees 7-0](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2009_06_09_nyamlb_bosmlb_1) [Gameday](https://zh.wikipedia.org/wiki/GameDay_\(software\) "wikilink") interactive boxscore.
+8.  [Yanks go fourth against Johan](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2009_06_14_nynmlb_nyamlb_1)
 9.  [啊 柏奈特派襲](http://ds-hk.net/archiver/tid-91613.html)
 10.
 11.

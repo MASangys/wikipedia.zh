@@ -1,6 +1,4 @@
-《**SIDOOH
-士道**》是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[高橋努](../Page/高橋努.md "wikilink")在《[週刊Young
-Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》上連載的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。描繪在[江戶時代動亂的](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")[幕末](../Page/幕末.md "wikilink")掙扎求存的少年武士們。
+《**SIDOOH 士道**》是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[高橋努](../Page/高橋努.md "wikilink")在《[週刊Young Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》上連載的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。描繪在[江戶時代動亂的](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")[幕末](../Page/幕末.md "wikilink")掙扎求存的少年武士們。
 
 ## 登場人物
 
@@ -100,7 +98,4 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》上連載的[
 
   - [週刊YOUNG JUMP](http://yj.shueisha.co.jp/manga/sidooh/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink")
-[Category:歷史漫畫](https://zh.wikipedia.org/wiki/Category:歷史漫畫 "wikilink")
-[Category:幕末背景作品](https://zh.wikipedia.org/wiki/Category:幕末背景作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink") [Category:歷史漫畫](https://zh.wikipedia.org/wiki/Category:歷史漫畫 "wikilink") [Category:幕末背景作品](https://zh.wikipedia.org/wiki/Category:幕末背景作品 "wikilink")

@@ -1,12 +1,8 @@
-**HYBRID
-UNIVERSE**是[水樹奈奈第](../Page/水樹奈奈.md "wikilink")5隻[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年5月3日由[KING
-RECORDS發售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。
+**HYBRID UNIVERSE**是[水樹奈奈](../Page/水樹奈奈.md "wikilink")第5隻[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年5月3日由[KING RECORDS發售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。
 
 ## 解説
 
-本作是第二隻不是由[矢吹俊郎監督的音樂專輯](../Page/矢吹俊郎.md "wikilink")，只收錄一首矢吹製作的曲目，主要以[上松範康帶領的](../Page/上松範康.md "wikilink")[Elements
-Garden為中心](../Page/Elements_Garden.md "wikilink")。\<\!---\>Elements
-Gardenの本格的な参加により過去のアルバムよりも叙情的な楽曲が多く、これにより水樹奈々の新たな魅力を引き出したと言える反面、矢吹がプロデュースした楽曲が減ってしまったことへの批判もあり、昔から水樹奈々を支持しているファンからは賛否両論のアルバムとして語られている。\<---\>
+本作是第二隻不是由[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")監督的音樂專輯，只收錄一首矢吹製作的曲目，主要以[上松範康](../Page/上松範康.md "wikilink")帶領的[Elements Garden為中心](../Page/Elements_Garden.md "wikilink")。\<\!---\>Elements Gardenの本格的な参加により過去のアルバムよりも叙情的な楽曲が多く、これにより水樹奈々の新たな魅力を引き出したと言える反面、矢吹がプロデュースした楽曲が減ってしまったことへの批判もあり、昔から水樹奈々を支持しているファンからは賛否両論のアルバムとして語られている。\<---\>
 
 在初回盤中附屬的DVD收錄了[PV與另外制作的映像](../Page/音樂錄影帶.md "wikilink")。
 
@@ -62,5 +58,4 @@ Gardenの本格的な参加により過去のアルバムよりも叙情的な�
 
       - 作詞：水樹奈奈、作曲・編曲：上松範康
 
-[Category:水樹奈奈音樂專輯](https://zh.wikipedia.org/wiki/Category:水樹奈奈音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:水樹奈奈音樂專輯](https://zh.wikipedia.org/wiki/Category:水樹奈奈音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

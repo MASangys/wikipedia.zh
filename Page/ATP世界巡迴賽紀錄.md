@@ -1,6 +1,4 @@
-**ATP世界巡迴賽紀錄**是[國際男子職業網球總會](https://zh.wikipedia.org/wiki/國際男子職業網球總會 "wikilink")（Association
-of Tennis
-Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikipedia.org/wiki/網球大滿貫 "wikilink")、[1000大師賽](https://zh.wikipedia.org/wiki/ATP世界巡迴賽1000大師賽 "wikilink")、[500巡迴賽](https://zh.wikipedia.org/wiki/ATP世界巡迴賽500賽 "wikilink")、[250巡迴賽等賽事中所創造的重要紀錄](https://zh.wikipedia.org/wiki/ATP世界巡迴賽250賽 "wikilink")。
+**ATP世界巡迴賽紀錄**是[國際男子職業網球總會](https://zh.wikipedia.org/wiki/國際男子職業網球總會 "wikilink")（Association of Tennis Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikipedia.org/wiki/網球大滿貫 "wikilink")、[1000大師賽](https://zh.wikipedia.org/wiki/ATP世界巡迴賽1000大師賽 "wikilink")、[500巡迴賽](https://zh.wikipedia.org/wiki/ATP世界巡迴賽500賽 "wikilink")、[250巡迴賽等賽事中所創造的重要紀錄](https://zh.wikipedia.org/wiki/ATP世界巡迴賽250賽 "wikilink")。
 
 ## 單打
 
@@ -271,44 +269,28 @@ Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikiped
 </tbody>
 </table>
 
-  - 完成生涯大滿貫的球員(生涯中曾在澳網、法網、温布頓、美網均獲得過冠軍):
-    [阿加西](https://zh.wikipedia.org/wiki/阿加西 "wikilink"),
-    [費德勒](https://zh.wikipedia.org/wiki/費德勒 "wikilink"),
-    [纳达尔](https://zh.wikipedia.org/wiki/纳达尔 "wikilink"),
-    [德约科维奇](https://zh.wikipedia.org/wiki/德约科维奇 "wikilink")。。
-  - 最高的生涯中大滿貫賽奪冠次數:  [費德勒](https://zh.wikipedia.org/wiki/費德勒 "wikilink")
-    20次。
-  - 最高的生涯中大師賽奪冠次數:  [納達爾](https://zh.wikipedia.org/wiki/納達爾 "wikilink")
-    32次。
-  - 單季最多冠紀錄:  [維拉斯](https://zh.wikipedia.org/wiki/維拉斯 "wikilink"),
-    1977年, 16次。
+  - 完成生涯大滿貫的球員(生涯中曾在澳網、法網、温布頓、美網均獲得過冠軍):  [阿加西](https://zh.wikipedia.org/wiki/阿加西 "wikilink"),  [費德勒](https://zh.wikipedia.org/wiki/費德勒 "wikilink"),  [纳达尔](https://zh.wikipedia.org/wiki/纳达尔 "wikilink"),  [德约科维奇](https://zh.wikipedia.org/wiki/德约科维奇 "wikilink")。。
+  - 最高的生涯中大滿貫賽奪冠次數:  [費德勒](https://zh.wikipedia.org/wiki/費德勒 "wikilink") 20次。
+  - 最高的生涯中大師賽奪冠次數:  [納達爾](https://zh.wikipedia.org/wiki/納達爾 "wikilink") 32次。
+  - 單季最多冠紀錄:  [維拉斯](https://zh.wikipedia.org/wiki/維拉斯 "wikilink"), 1977年, 16次。
   - 連續在三種不同的場地奪冠:
-      - 1990年之前:  [博格](https://zh.wikipedia.org/wiki/比约·博格 "wikilink"),
-        1979年。
-      - 1990年之後:  [费德勒](https://zh.wikipedia.org/wiki/费德勒 "wikilink"),
-        2004年. \[温布頓 (草地)、Gstaad (紅土)、多倫多大師賽 (硬地)\]
+      - 1990年之前:  [博格](https://zh.wikipedia.org/wiki/比约·博格 "wikilink"), 1979年。
+      - 1990年之後:  [费德勒](https://zh.wikipedia.org/wiki/费德勒 "wikilink"), 2004年. \[温布頓 (草地)、Gstaad (紅土)、多倫多大師賽 (硬地)\]
 
 ### 排名
 
 (更新日期：2018年3月28日)
 
-  - 最高球王(世界排名第一位)總週數： -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger
-    Federer) (瑞士)，308週。
-  - 最高連續球王週數： -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士) ,
-    237週 (2004年2月2日到2008年8月17日)
-  - 最高年終球王次數： -{zh-hans:桑普拉斯;zh-hk:森柏斯;zh-tw:山普拉斯;}-(Pete Sampras) (美國),
-    6次。費德勒-(Roger Federer) (瑞士)
-  - 最年輕的球王： -{zh-hans:休伊特;zh-hk:曉域;zh-tw:休伊特;}-(Lleyton Hewitt) (澳大利亞),
-    20歲又8個月（2001年）。
-  - 年終排名在200名以內的最年輕球員： [張德培](../Page/張德培.md "wikilink")
-    (美國)，15歲又9個月（1987年）。
+  - 最高球王(世界排名第一位)總週數： -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士)，308週。
+  - 最高連續球王週數： -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士) , 237週 (2004年2月2日到2008年8月17日)
+  - 最高年終球王次數： -{zh-hans:桑普拉斯;zh-hk:森柏斯;zh-tw:山普拉斯;}-(Pete Sampras) (美國), 6次。費德勒-(Roger Federer) (瑞士)
+  - 最年輕的球王： -{zh-hans:休伊特;zh-hk:曉域;zh-tw:休伊特;}-(Lleyton Hewitt) (澳大利亞), 20歲又8個月（2001年）。
+  - 年終排名在200名以內的最年輕球員： [張德培](../Page/張德培.md "wikilink") (美國)，15歲又9個月（1987年）。
   - 年終排名在100名以內的最年輕球員：  (美國)，16歲又4個月（1983年\`)。
   - 年終排名在25名以內的最年輕球員： Aaron Krickstein (美國)。17歲又4個月（1984年）。
-  - 最高年終ATP52週參賽排名積分 (Entry Ranking points)： 納達爾(Rafael Nadal)
-    (西班牙)，2013年, 13030分。
+  - 最高年終ATP52週參賽排名積分 (Entry Ranking points)： 納達爾(Rafael Nadal) (西班牙)，2013年, 13030分。
   - 曾經最高的ATP52週參賽積分：納達爾(Rafael Nadal) (西班牙)，2013年, 13030分。
-  - 最高冠軍競賽積分 (Race points) (自2000年開始實施)： 费德勒(Roger Federer)
-    (瑞士)，2006年，1674分。
+  - 最高冠軍競賽積分 (Race points) (自2000年開始實施)： 费德勒(Roger Federer) (瑞士)，2006年，1674分。
 
 ### 最長的連勝紀錄(公開賽年代)
 
@@ -396,34 +378,21 @@ Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikiped
 </table>
 
   - 硬地連勝紀錄：
-      - 1990年之前: -{zh-hans:伦德尔;zh-hk:蘭度;zh-tw:藍道;}-(Ivan Lendl)
-        (捷克斯拉夫)，1985年到1986年，31連勝。
-      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer)
-        (瑞士)，2005年到2006年, 56連勝。
+      - 1990年之前: -{zh-hans:伦德尔;zh-hk:蘭度;zh-tw:藍道;}-(Ivan Lendl) (捷克斯拉夫)，1985年到1986年，31連勝。
+      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士)，2005年到2006年, 56連勝。
   - 草地連勝紀錄：
-      - 1990年之前: -{zh-hans:博格;zh-hk:波格;zh-tw:博格;}-(Björn Borg)
-        (瑞典)，1976年到1980年, 41連勝(終結於1981年-{zh-hans:温布尔登;
-        zh-hk:溫布頓;}-決賽輸給-{zh-hans:麦肯罗;zh-hk:麥根萊;zh-tw:麥肯羅;}-(John
-        McEnroe)。
-      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer)
-        (瑞士)，2003年到2008年, 65連勝(終結於2008年溫布頓與納達爾(Rafael Nadal)經典的決賽)。
+      - 1990年之前: -{zh-hans:博格;zh-hk:波格;zh-tw:博格;}-(Björn Borg) (瑞典)，1976年到1980年, 41連勝(終結於1981年-{zh-hans:温布尔登; zh-hk:溫布頓;}-決賽輸給-{zh-hans:麦肯罗;zh-hk:麥根萊;zh-tw:麥肯羅;}-(John McEnroe)。
+      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士)，2003年到2008年, 65連勝(終結於2008年溫布頓與納達爾(Rafael Nadal)經典的決賽)。
   - \-{zh-hans:红土;zh-hk:泥地;zh-tw:紅土;}-連勝紀錄:
       - 1990年之前: 維拉斯(Guillermo Vilas) (阿根廷)，1977年, 53連勝。
       - 1990年之後: 納達爾(Rafael Nadal) (西班牙)，2005年到2007年，81連勝。
   - 室內賽連勝紀錄：
-      - \-{zh-hans:伦德尔;zh-hk:蘭度;zh-tw:藍道;}-(Ivan Lendl)
-        (捷克斯拉夫/美國)，1981年到1983年, 66連勝
-        (終結於費城網球賽決賽輸給-{zh-hans:麦肯罗;zh-hk:麥根萊;zh-tw:麥肯羅;}-(John
-        McEnroe)。
+      - \-{zh-hans:伦德尔;zh-hk:蘭度;zh-tw:藍道;}-(Ivan Lendl) (捷克斯拉夫/美國)，1981年到1983年, 66連勝 (終結於費城網球賽決賽輸給-{zh-hans:麦肯罗;zh-hk:麥根萊;zh-tw:麥肯羅;}-(John McEnroe)。
   - 對排名前十名球員連勝紀錄：
-      - \-{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士)
-        ,2003年到2005年, 26連勝 (終結於2005年澳網準決賽輸給Marat Safin)。
+      - \-{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士) ,2003年到2005年, 26連勝 (終結於2005年澳網準決賽輸給Marat Safin)。
   - 決賽連勝紀錄：
-      - 1990年之前: -{zh-hans:博格;zh-hk:波格;zh-tw:博格;}-(Björn Borg)
-        (瑞典)，1979年到1980年以及-{zh-hans:麦肯罗;zh-hk:麥根萊;zh-tw:麥肯羅;}-(John
-        McEnroe) (美國)，1984到1985, 所共同保持的12決賽連勝。
-      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer)
-        (瑞士) ，2003年到2005年, 24決賽連勝。
+      - 1990年之前: -{zh-hans:博格;zh-hk:波格;zh-tw:博格;}-(Björn Borg) (瑞典)，1979年到1980年以及-{zh-hans:麦肯罗;zh-hk:麥根萊;zh-tw:麥肯羅;}-(John McEnroe) (美國)，1984到1985, 所共同保持的12決賽連勝。
+      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士) ，2003年到2005年, 24決賽連勝。
 
 ### 其它
 
@@ -441,15 +410,11 @@ Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikiped
 
   - 最高單季勝場數紀錄:
       - 1990年之前: 藍道(Ivan Lendl) (捷克斯拉夫/美國)，1982年, 106勝-9負 (勝率0.922)。
-      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer)
-        (瑞士)，2006年, 92勝-5負 (勝率0.948)。
+      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士)，2006年, 92勝-5負 (勝率0.948)。
   - 最高單季勝率:
-      - 1990年之前: -{zh-hans:麦肯罗;zh-hk:麥根萊;zh-tw:麥肯羅;}-(John McEnroe)
-        (美國)，1984年, 勝率0.965 (83勝-2負)。
-      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer)
-        (瑞士)，2005年, 0.953 (81勝-4負)。
-  - 單場最多[ACE球紀錄](https://zh.wikipedia.org/wiki/ACE球 "wikilink")
-    (1991年之後):
+      - 1990年之前: -{zh-hans:麦肯罗;zh-hk:麥根萊;zh-tw:麥肯羅;}-(John McEnroe) (美國)，1984年, 勝率0.965 (83勝-2負)。
+      - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士)，2005年, 0.953 (81勝-4負)。
+  - 單場最多[ACE球紀錄](https://zh.wikipedia.org/wiki/ACE球 "wikilink") (1991年之後):
 
 <table>
 <thead>
@@ -603,19 +568,11 @@ Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikiped
 </table>
 
   - 最高累積獎金:
-      - 生涯累積獎金: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer)
-        (瑞士)，2018年 $116,222,182 。
-      - 單季累積獎金:
-        -{zh-hans:诺瓦克·德约科维奇;zh-hk:諾華克·祖高域;zh-tw:諾瓦克·喬科維奇;}-(Novak
-        Djorkvic) (賽爾維亞)，2012年, $12,803,737。
-  - 被選為ATP年度最佳球員次數最多者: -{zh-hans:桑普拉斯;zh-hk:森柏斯;zh-tw:山普拉斯;}-(Pete
-    Sampras) (美國) 1993年到1998年, 6次。
-  - 花費時間最長的單打比賽:
-    [伊斯內爾擊敗](../Page/約翰·伊斯內爾.md "wikilink")[馬俞](../Page/尼古拉·馬俞.md "wikilink"),
-    2010温布尔登第一輪, [11小時5分鐘](../Page/2010年溫布頓網球錦標賽伊斯內爾對馬俞.md "wikilink")
-    (3個比賽日)。
-  - 最快的發球紀錄 (1991年之後): 羅迪克(Andy Roddick) (美國)，2004年,
-    155英哩/每小時或249公里/每小時。
+      - 生涯累積獎金: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer) (瑞士)，2018年 $116,222,182 。
+      - 單季累積獎金: -{zh-hans:诺瓦克·德约科维奇;zh-hk:諾華克·祖高域;zh-tw:諾瓦克·喬科維奇;}-(Novak Djorkvic) (賽爾維亞)，2012年, $12,803,737。
+  - 被選為ATP年度最佳球員次數最多者: -{zh-hans:桑普拉斯;zh-hk:森柏斯;zh-tw:山普拉斯;}-(Pete Sampras) (美國) 1993年到1998年, 6次。
+  - 花費時間最長的單打比賽: [伊斯內爾擊敗](../Page/約翰·伊斯內爾.md "wikilink")[馬俞](../Page/尼古拉·馬俞.md "wikilink"), 2010温布尔登第一輪, [11小時5分鐘](../Page/2010年溫布頓網球錦標賽伊斯內爾對馬俞.md "wikilink") (3個比賽日)。
+  - 最快的發球紀錄 (1991年之後): 羅迪克(Andy Roddick) (美國)，2004年, 155英哩/每小時或249公里/每小時。
 
 ## 其它轶事
 
@@ -635,17 +592,9 @@ Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikiped
 
 ## 雙打
 
-  - 最多冠的球員: 伍德布里奇([Todd
-    Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))
-    (澳大利亞), 83冠。
-  - 最多冠的搭擋: 伍德布里奇([Todd
-    Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))和伍德福德(:en:Mark
-    Woodforde|Mark Woodforde) (澳大利亞), 61冠。參見。
-  - 最多大滿貫冠軍球員: 伍德布里奇([Todd
-    Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))
-    (澳大利亞), 16次。
-  - 最多大滿貫冠軍的搭擋: 伍德布里奇([Todd
-    Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))和伍德福德([Mark
-    Woodforde](../Page/馬克·伍德福德.md "wikilink")) (澳大利亞), 11次。
+  - 最多冠的球員: 伍德布里奇([Todd Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink")) (澳大利亞), 83冠。
+  - 最多冠的搭擋: 伍德布里奇([Todd Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))和伍德福德(:en:Mark Woodforde|Mark Woodforde) (澳大利亞), 61冠。參見。
+  - 最多大滿貫冠軍球員: 伍德布里奇([Todd Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink")) (澳大利亞), 16次。
+  - 最多大滿貫冠軍的搭擋: 伍德布里奇([Todd Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))和伍德福德([Mark Woodforde](../Page/馬克·伍德福德.md "wikilink")) (澳大利亞), 11次。
 
 [Category:網球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:網球紀錄及統計數據 "wikilink")

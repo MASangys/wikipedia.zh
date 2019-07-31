@@ -1,5 +1,4 @@
-《**GUN-KATANA（銃刀）―Non-Human-Killer―**》是[Black
-Cyc開發並於](https://zh.wikipedia.org/wiki/Cyc_\(公司\) "wikilink")2007年8月31日發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險遊戲及](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，是十八禁遊戲史上第一套真正的第一人稱射擊遊戲\[1\]。
+《**GUN-KATANA（銃刀）―Non-Human-Killer―**》是[Black Cyc開發並於](https://zh.wikipedia.org/wiki/Cyc_\(公司\) "wikilink")2007年8月31日發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險遊戲及](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，是十八禁遊戲史上第一套真正的第一人稱射擊遊戲\[1\]。
 
 ## 故事簡介
 
@@ -44,7 +43,7 @@ Cyc開發並於](https://zh.wikipedia.org/wiki/Cyc_\(公司\) "wikilink")2007年
   -
     於瑠門島的Slayer集中營售賣臨時裝備的商人，店鋪名稱是「水戶屋」。
   -
-    在水戶屋「研修」的[天然呆少女](../Page/天然呆.md "wikilink")。
+    在水戶屋「研修」的[天然呆](../Page/天然呆.md "wikilink")少女。
 
 ### 所屬不明
 
@@ -114,11 +113,10 @@ Cyc開發並於](https://zh.wikipedia.org/wiki/Cyc_\(公司\) "wikilink")2007年
     又稱HateBreed，GoI的其中一個「處理」反動人士的地方。
 
   - Epiphany lustrate sacristan（ELS）
-    又稱「」，不可從頸除下，否則會觸動身體內的納米機器而死去。每殺掉一個Non-Human，計數器的分數則會上升，分數代表一位FR
-    Slayer的價值和權利，可用於換取生活必需品和戰鬥裝備品。「七賢人」和部分GoI高層人員可以隨意改變數值，或除去殺戮計數器本身。
+    又稱「」，不可從頸除下，否則會觸動身體內的納米機器而死去。每殺掉一個Non-Human，計數器的分數則會上升，分數代表一位FR Slayer的價值和權利，可用於換取生活必需品和戰鬥裝備品。「七賢人」和部分GoI高層人員可以隨意改變數值，或除去殺戮計數器本身。
 
   -
-    由馬渕昇平製造的[超能力少女集團](../Page/超能力.md "wikilink")。超能力的力量來自[性興奮](https://zh.wikipedia.org/wiki/性興奮 "wikilink")。
+    由馬渕昇平製造的[超能力](../Page/超能力.md "wikilink")少女集團。超能力的力量來自[性興奮](https://zh.wikipedia.org/wiki/性興奮 "wikilink")。
 
   -
 
@@ -132,12 +130,6 @@ Cyc開發並於](https://zh.wikipedia.org/wiki/Cyc_\(公司\) "wikilink")2007年
 
   - [Cyc](http://www.cyc-soft.com/)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
-1.  [Getchu.com：GUN-KATANA（銃刀）－Non Human Killer－
-    通常版](http://www.getchu.com/soft.phtml?id=418845)
+1.  [Getchu.com：GUN-KATANA（銃刀）－Non Human Killer－ 通常版](http://www.getchu.com/soft.phtml?id=418845)

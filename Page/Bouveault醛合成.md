@@ -7,8 +7,7 @@
 
 ## 反应机理
 
-首先卤代烃与[镁](../Page/镁.md "wikilink")反应生成相应的[格氏试剂](../Page/格氏试剂.md "wikilink")，然后加入
-*N*,*N*-二取代[甲酰胺](../Page/甲酰胺.md "wikilink")（如[二甲基甲酰胺](https://zh.wikipedia.org/wiki/二甲基甲酰胺 "wikilink")），格氏试剂与之作用产生[半胺醛](https://zh.wikipedia.org/wiki/半胺醛 "wikilink")（hemiaminal）中间体，该中间体经[水解](../Page/水解.md "wikilink")便很容易得到醛。
+首先卤代烃与[镁](../Page/镁.md "wikilink")反应生成相应的[格氏试剂](../Page/格氏试剂.md "wikilink")，然后加入 *N*,*N*-二取代[甲酰胺](../Page/甲酰胺.md "wikilink")（如[二甲基甲酰胺](https://zh.wikipedia.org/wiki/二甲基甲酰胺 "wikilink")），格氏试剂与之作用产生[半胺醛](https://zh.wikipedia.org/wiki/半胺醛 "wikilink")（hemiaminal）中间体，该中间体经[水解](../Page/水解.md "wikilink")便很容易得到醛。
 
 ## 参见
 
@@ -18,9 +17,7 @@
 
 ## 参考资料
 
-[Category:加成反应](https://zh.wikipedia.org/wiki/Category:加成反应 "wikilink")
-[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:加成反应](https://zh.wikipedia.org/wiki/Category:加成反应 "wikilink") [Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

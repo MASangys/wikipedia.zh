@@ -1,7 +1,4 @@
-**泰晤士高等教育-QS世界大学排名**（[英语](../Page/英语.md "wikilink")：**Times Higher
-Education–QS World University Rankings**，简称**THE-QS World University
-Rankings**）是由[泰晤士高等教育](../Page/泰晤士高等教育.md "wikilink")和[QS（Quacquarelli
-Symonds）共同出版的年度](../Page/Quacquarelli_Symonds.md "wikilink")[世界大学排名](https://zh.wikipedia.org/wiki/世界大学排名 "wikilink")。该排名始于2004年，結束於2009年。其后，泰晤士与QS均开始发布它们各自的排名，即[泰晤士高等教育世界大学排名及](https://zh.wikipedia.org/wiki/泰晤士高等教育世界大学排名 "wikilink")[QS世界大学排名](https://zh.wikipedia.org/wiki/QS世界大学排名 "wikilink")。
+**泰晤士高等教育-QS世界大学排名**（[英语](../Page/英语.md "wikilink")：**Times Higher Education–QS World University Rankings**，简称**THE-QS World University Rankings**）是由[泰晤士高等教育](../Page/泰晤士高等教育.md "wikilink")和[QS（Quacquarelli Symonds）共同出版的年度](../Page/Quacquarelli_Symonds.md "wikilink")[世界大学排名](https://zh.wikipedia.org/wiki/世界大学排名 "wikilink")。该排名始于2004年，結束於2009年。其后，泰晤士与QS均开始发布它们各自的排名，即[泰晤士高等教育世界大学排名及](https://zh.wikipedia.org/wiki/泰晤士高等教育世界大学排名 "wikilink")[QS世界大学排名](https://zh.wikipedia.org/wiki/QS世界大学排名 "wikilink")。
 
 ## 现状
 
@@ -42,13 +39,11 @@ Symonds）共同出版的年度](../Page/Quacquarelli_Symonds.md "wikilink")[世
   - [泰晤士高等教育世界大学排名](https://zh.wikipedia.org/wiki/泰晤士高等教育世界大学排名 "wikilink")
   - [世界大學學術排名](https://zh.wikipedia.org/wiki/世界大學學術排名 "wikilink")
   - [世界大学科研论文表现排名](https://zh.wikipedia.org/wiki/世界大学科研论文表现排名 "wikilink")
-  - [研究机构论文引用排名
-    (1999-2009)](https://zh.wikipedia.org/wiki/研究机构论文引用排名_\(1999-2009\) "wikilink")
+  - [研究机构论文引用排名 (1999-2009)](https://zh.wikipedia.org/wiki/研究机构论文引用排名_\(1999-2009\) "wikilink")
 
 ## 外部链接
 
   - [泰晤士高等教育世界大学排名官方网页](http://www.timeshighereducation.co.uk/)
   - [QS世界大学排名官方网页](http://www.topuniversities.com)
 
-[Category:大学排名](https://zh.wikipedia.org/wiki/Category:大学排名 "wikilink")
-[Category:高等教育](https://zh.wikipedia.org/wiki/Category:高等教育 "wikilink")
+[Category:大学排名](https://zh.wikipedia.org/wiki/Category:大学排名 "wikilink") [Category:高等教育](https://zh.wikipedia.org/wiki/Category:高等教育 "wikilink")

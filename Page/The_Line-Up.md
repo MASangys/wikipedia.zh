@@ -1,10 +1,8 @@
-《**The
-Line-Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")2002年的[粵語音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2002年7月24日發行。
+《**The Line-Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")2002年的[粵語音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2002年7月24日發行。
 
 ## 專輯簡介
 
-本專輯內的十首歌曲，分別收錄在兩張光碟內；第一張光碟內的五首歌曲由[林夕填詞](../Page/林夕.md "wikilink")，第二張光碟的另外五首則由[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")。本專輯的名稱就是代表著由兩位填詞人所寫成的歌曲「line
-up」而成。專輯除收錄了[林夕填詞的冠軍愛情流行作品](../Page/林夕.md "wikilink")《明年今日》和《人來人往》外，還收錄了一些陳奕迅甚少製作的音樂風格的作品，如帶有[藍調味道的](../Page/藍調.md "wikilink")《我有我愛你》，以及[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")、由陳奕迅扮演兩男一女聲線演出的[嘻哈歌曲](../Page/嘻哈.md "wikilink")《兩名男子街頭相遇》，還有節奏感強烈的[電子舞曲](../Page/電子舞曲.md "wikilink")《隨意門》。專輯推出後大受歡迎，贏得各大音樂頒獎禮的金曲獎，亦獲得[叱吒樂壇流行榜頒獎典禮的叱吒樂壇至尊唱片大獎](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")。
+本專輯內的十首歌曲，分別收錄在兩張光碟內；第一張光碟內的五首歌曲由[林夕](../Page/林夕.md "wikilink")填詞，第二張光碟的另外五首則由[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")。本專輯的名稱就是代表著由兩位填詞人所寫成的歌曲「line up」而成。專輯除收錄了[林夕](../Page/林夕.md "wikilink")填詞的冠軍愛情流行作品《明年今日》和《人來人往》外，還收錄了一些陳奕迅甚少製作的音樂風格的作品，如帶有[藍調](../Page/藍調.md "wikilink")味道的《我有我愛你》，以及[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")、由陳奕迅扮演兩男一女聲線演出的[嘻哈](../Page/嘻哈.md "wikilink")歌曲《兩名男子街頭相遇》，還有節奏感強烈的[電子舞曲](../Page/電子舞曲.md "wikilink")《隨意門》。專輯推出後大受歡迎，贏得各大音樂頒獎禮的金曲獎，亦獲得[叱吒樂壇流行榜頒獎典禮的叱吒樂壇至尊唱片大獎](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")。
 
 ## 曲目
 
@@ -50,8 +48,7 @@ up」而成。專輯除收錄了[林夕填詞的冠軍愛情流行作品](../Pag
 
   - 香港：[2002年度勁歌金曲季選](../Page/勁歌金曲優秀選.md "wikilink") - 第三季金曲
   - 香港：[2002 年度新城勁爆頒獎禮](../Page/2002年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆歌曲
-  - 香港：[2002
-    年度新城勁爆頒獎禮](../Page/2002年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆年度歌曲大獎
+  - 香港：[2002 年度新城勁爆頒獎禮](../Page/2002年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆年度歌曲大獎
   - 香港：[2002年度十大勁歌金曲頒獎典禮](../Page/2002年度十大勁歌金曲得獎名單.md "wikilink")－十大勁歌金曲
   - 香港：[2002年度十大勁歌金曲頒獎典禮](../Page/2002年度十大勁歌金曲得獎名單.md "wikilink")－金曲金獎
   - 香港：[第二十五屆十大中文金曲頒獎禮](../Page/第二十五屆十大中文金曲得獎名單.md "wikilink")－十大中文金曲
@@ -70,11 +67,7 @@ up」而成。專輯除收錄了[林夕填詞的冠軍愛情流行作品](../Pag
 
   - 香港：[2002年度勁歌金曲季選](../Page/勁歌金曲優秀選.md "wikilink") - 第四季金曲
   - 香港：[2002 年度新城勁爆頒獎禮](../Page/2002年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆歌曲
-  - 香港：[2002年度叱咤樂壇流行榜頒獎典禮](../Page/2002年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介
-    叱吒十大（第二位）
+  - 香港：[2002年度叱咤樂壇流行榜頒獎典禮](../Page/2002年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介 叱吒十大（第二位）
   - 香港：[2010年度CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")－十週年樂迷至愛大獎－最佳歌詞
 
-[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink")
-[Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
+[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink") [Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")

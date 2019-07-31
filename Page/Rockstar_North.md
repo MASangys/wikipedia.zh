@@ -1,54 +1,32 @@
-**Rockstar North**（前身為**DMA Design
-Ltd**）是一間位於英國蘇格蘭[愛丁堡的](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")[遊戲開發公司](../Page/游戏开发者.md "wikilink")，最著名的作品包括《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系列和DMA時期製作的《[百戰小旅鼠](../Page/百戰小旅鼠.md "wikilink")》系列。
+**Rockstar North**（前身為**DMA Design Ltd**）是一間位於英國蘇格蘭[愛丁堡的](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")[遊戲開發公司](../Page/游戏开发者.md "wikilink")，最著名的作品包括《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系列和DMA時期製作的《[百戰小旅鼠](../Page/百戰小旅鼠.md "wikilink")》系列。
 
-該公司1999年9月起成為[Rockstar
-Games旗下的子公司](../Page/Rockstar_Games.md "wikilink")，\[1\]Rockstars的母公司為[Take-Two
-Interactive](../Page/Take-Two_Interactive.md "wikilink")。Rockstar
-North是《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系列的主要開發商，作品包括《[俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")》、《[俠盜獵車手：罪惡城市](../Page/俠盜獵車手：罪惡城市.md "wikilink")》和《[俠盜獵車手：聖安地列斯](../Page/俠盜獵車手：聖安地列斯.md "wikilink")》，皆[第六世代遊戲主機上極為暢銷的作品](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第六世代\) "wikilink")。此外，《[俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")》和《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》也是[第七世代遊戲主機上銷售最佳的遊戲之一](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第七世代\) "wikilink")。
+該公司1999年9月起成為[Rockstar Games旗下的子公司](../Page/Rockstar_Games.md "wikilink")，\[1\]Rockstars的母公司為[Take-Two Interactive](../Page/Take-Two_Interactive.md "wikilink")。Rockstar North是《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系列的主要開發商，作品包括《[俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")》、《[俠盜獵車手：罪惡城市](../Page/俠盜獵車手：罪惡城市.md "wikilink")》和《[俠盜獵車手：聖安地列斯](../Page/俠盜獵車手：聖安地列斯.md "wikilink")》，皆[第六世代遊戲主機上極為暢銷的作品](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第六世代\) "wikilink")。此外，《[俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")》和《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》也是[第七世代遊戲主機上銷售最佳的遊戲之一](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第七世代\) "wikilink")。
 
 ## 遊戲作品
 
 ***DMA Design***
 
   - [Menace](https://zh.wikipedia.org/wiki/Menace_\(game\) "wikilink")（1988年）（Amiga、ST、PC）
-  - [Ballistix](https://zh.wikipedia.org/wiki/Ballistix "wikilink")（1989年）（ports
-    to MSDOS、C64、TG16）
-  - [Blood
-    Money](https://zh.wikipedia.org/wiki/Blood_Money_\(computer_game\) "wikilink")（1989年）（Amiga、ST、C64）
+  - [Ballistix](https://zh.wikipedia.org/wiki/Ballistix "wikilink")（1989年）（ports to MSDOS、C64、TG16）
+  - [Blood Money](https://zh.wikipedia.org/wiki/Blood_Money_\(computer_game\) "wikilink")（1989年）（Amiga、ST、C64）
   - [百戰小旅鼠](../Page/百戰小旅鼠.md "wikilink")（1990年）（Amiga、CDTV、MS-DOS、ST、Spectrum、CD-I、Lynx）
-  - [Oh No\! More
-    Lemmings](https://zh.wikipedia.org/wiki/Oh_No!_More_Lemmings "wikilink")（1991年）（Amiga、ST、MS-DOS）
+  - [Oh No\! More Lemmings](https://zh.wikipedia.org/wiki/Oh_No!_More_Lemmings "wikilink")（1991年）（Amiga、ST、MS-DOS）
   - [Walker](https://zh.wikipedia.org/wiki/Walker_\(computer_game\) "wikilink")（1993年）（Amiga）
-  - [Hired
-    Guns](https://zh.wikipedia.org/wiki/Hired_Guns "wikilink")（1993年）（Amiga、MS-DOS）
-  - [Holiday Lemmings
-    1993](https://zh.wikipedia.org/wiki/Holiday_Lemmings_1993 "wikilink")（1993年）（MS-DOS）
-  - [Lemmings 2: The
-    Tribes](https://zh.wikipedia.org/wiki/Lemmings_2:_The_Tribes "wikilink")（1993年）（Amiga、MS-DOS、SNES）
-  - [All New World of
-    Lemmings](https://zh.wikipedia.org/wiki/All_New_World_of_Lemmings "wikilink")（1994年）（Amiga、MS-DOS、3DO）（published
-    in the U.S. as *[The Lemmings
-    Chronicles](https://zh.wikipedia.org/wiki/The_Lemmings_Chronicles "wikilink")*）
-  - [Holiday Lemmings
-    1994](https://zh.wikipedia.org/wiki/Holiday_Lemmings_1994 "wikilink")（1994年）（MS-DOS）
-  - [Unirally](https://zh.wikipedia.org/wiki/Unirally "wikilink")（1994年）（SNES）（published
-    in the U.S. as
-    *[Uniracers](https://zh.wikipedia.org/wiki/Uniracers "wikilink")*）
+  - [Hired Guns](https://zh.wikipedia.org/wiki/Hired_Guns "wikilink")（1993年）（Amiga、MS-DOS）
+  - [Holiday Lemmings 1993](https://zh.wikipedia.org/wiki/Holiday_Lemmings_1993 "wikilink")（1993年）（MS-DOS）
+  - [Lemmings 2: The Tribes](https://zh.wikipedia.org/wiki/Lemmings_2:_The_Tribes "wikilink")（1993年）（Amiga、MS-DOS、SNES）
+  - [All New World of Lemmings](https://zh.wikipedia.org/wiki/All_New_World_of_Lemmings "wikilink")（1994年）（Amiga、MS-DOS、3DO）（published in the U.S. as *[The Lemmings Chronicles](https://zh.wikipedia.org/wiki/The_Lemmings_Chronicles "wikilink")*）
+  - [Holiday Lemmings 1994](https://zh.wikipedia.org/wiki/Holiday_Lemmings_1994 "wikilink")（1994年）（MS-DOS）
+  - [Unirally](https://zh.wikipedia.org/wiki/Unirally "wikilink")（1994年）（SNES）（published in the U.S. as *[Uniracers](https://zh.wikipedia.org/wiki/Uniracers "wikilink")*）
   - [俠盜獵車手](https://zh.wikipedia.org/wiki/俠盜獵車手 "wikilink")（1997年）（PS1、GBC、PC）
-  - [Body
-    Harvest](https://zh.wikipedia.org/wiki/Body_Harvest "wikilink")（1998年）（N64）
-  - [Space Station Silicon
-    Valley](https://zh.wikipedia.org/wiki/Space_Station_Silicon_Valley "wikilink")（1998年）（N64）
-  - [俠盜獵車手：倫敦1969](../Page/俠盜獵車手：倫敦1969.md "wikilink")（1999年）（PS1、PC）──Expansion
-    Pack for GTA
-  - [俠盜獵車手：倫敦1961](../Page/俠盜獵車手：倫敦1961.md "wikilink")（1999年）（PC）──Free
-    Expansion Pack for GTA: London 1969
+  - [Body Harvest](https://zh.wikipedia.org/wiki/Body_Harvest "wikilink")（1998年）（N64）
+  - [Space Station Silicon Valley](https://zh.wikipedia.org/wiki/Space_Station_Silicon_Valley "wikilink")（1998年）（N64）
+  - [俠盜獵車手：倫敦1969](../Page/俠盜獵車手：倫敦1969.md "wikilink")（1999年）（PS1、PC）──Expansion Pack for GTA
+  - [俠盜獵車手：倫敦1961](../Page/俠盜獵車手：倫敦1961.md "wikilink")（1999年）（PC）──Free Expansion Pack for GTA: London 1969
   - [俠盜獵車手2](https://zh.wikipedia.org/wiki/俠盜獵車手2 "wikilink")（1999年）（PS1、Dreamcast、GBC、PC）
   - [Tanktics](https://zh.wikipedia.org/wiki/Tanktics_\(1999\) "wikilink")（1999年）
-  - [Wild Metal
-    Country](https://zh.wikipedia.org/wiki/Wild_Metal_Country "wikilink")（1999年）（PC）
-  - [Wild
-    Metal](https://zh.wikipedia.org/wiki/Wild_Metal "wikilink")（1999）（Dreamcast）
+  - [Wild Metal Country](https://zh.wikipedia.org/wiki/Wild_Metal_Country "wikilink")（1999年）（PC）
+  - [Wild Metal](https://zh.wikipedia.org/wiki/Wild_Metal "wikilink")（1999）（Dreamcast）
   - [俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")（2001年）（PS2、Xbox、PC）
 
 <table>
@@ -178,16 +156,11 @@ North是《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系�
 ## 外部連結
 
   -
-  - [MobyGames上的](https://zh.wikipedia.org/wiki/MobyGames "wikilink")[Rockstar
-    North Limited](http://www.mobygames.com/company/rockstar-north-ltd)
+  - [MobyGames上的](https://zh.wikipedia.org/wiki/MobyGames "wikilink")[Rockstar North Limited](http://www.mobygames.com/company/rockstar-north-ltd)
 
   - [DMA歷史網站](http://www.dmadesign.org/)
 
-[Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink")
-[Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink")
-[Category:俠盜獵車手系列](https://zh.wikipedia.org/wiki/Category:俠盜獵車手系列 "wikilink")
-[Category:1988年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1988年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink") [Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink") [Category:俠盜獵車手系列](https://zh.wikipedia.org/wiki/Category:俠盜獵車手系列 "wikilink") [Category:1988年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1988年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
 2.

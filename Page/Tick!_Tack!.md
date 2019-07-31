@@ -1,14 +1,10 @@
-《**Tick\!
-Tack\!**》是由[Navel](../Page/Navel.md "wikilink")在2005年9月16日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的第一部衍生作品，後來改編成漫畫和小說。Logo图是从[怀表](../Page/怀表.md "wikilink")正中发射出的二个箭头，分别写着Tick和Tack，暗示着本作是跟时间有关。
+《**Tick\! Tack\!**》是由[Navel](../Page/Navel.md "wikilink")在2005年9月16日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的第一部衍生作品，後來改編成漫畫和小說。Logo图是从[怀表](../Page/怀表.md "wikilink")正中发射出的二个箭头，分别写着Tick和Tack，暗示着本作是跟时间有关。
 
 ## 概要
 
-原本是要做成[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，但由于內容膨大到和獨立企劃作品相當而變成以独立作品的形式上市。製作上继承了SHUFFLE\!的架構，並追加了新的登场人物。
+原本是要做成[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，但由于內容膨大到和獨立企劃作品相當而變成以独立作品的形式上市。製作上继承了SHUFFLE\!的架構，並追加了新的登场人物。
 
-故事舞台是聶琳涅结局一年后，一行人穿越时空到達的20年前魔界，內容揭露了魔王弗貝西的妻子和家族成员的故事。因『SHUFFLE\!』的另一位腳色設計兼原画的[西又葵](../Page/西又葵.md "wikilink")沒有參與製作，故本作以[鈴平裕](../Page/鈴平裕.md "wikilink")笔下的人物为中心，登场人物比SHUFFLE\!要少。
-2005年9月16日发售了Limited Edition版\[1\]，10月21日发售了Standard
-Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個版本的遊戲內容均相同。
+故事舞台是聶琳涅结局一年后，一行人穿越时空到達的20年前魔界，內容揭露了魔王弗貝西的妻子和家族成员的故事。因『SHUFFLE\!』的另一位腳色設計兼原画的[西又葵](../Page/西又葵.md "wikilink")沒有參與製作，故本作以[鈴平裕](../Page/鈴平裕.md "wikilink")笔下的人物为中心，登场人物比SHUFFLE\!要少。 2005年9月16日发售了Limited Edition版\[1\]，10月21日发售了Standard Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個版本的遊戲內容均相同。
 
 ## 系統
 
@@ -130,11 +126,8 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 ### 书籍
 
   - 漫画《Tick\! Tack\! -NEVER SAY GOODBYE-》
-      - [單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")　日文版：2007年8月7日發售\[7\]\<ISBN
-        978-4-04-713956-5\> 、 中文版：2009年11月24日發售 \<ISBN
-        978-986-237-379-8\>
-      - 從2006年3月到2007年4月在日本『[月刊Comp
-        Ace](../Page/月刊Comp_Ace.md "wikilink")』上連載。作畫為[日下皓](../Page/日下皓.md "wikilink")。
+      - [單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")　日文版：2007年8月7日發售\[7\]\<ISBN 978-4-04-713956-5\> 、 中文版：2009年11月24日發售 \<ISBN 978-986-237-379-8\>
+      - 從2006年3月到2007年4月在日本『[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")』上連載。作畫為[日下皓](../Page/日下皓.md "wikilink")。
 
 <!-- end list -->
 
@@ -154,8 +147,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 <!-- end list -->
 
   -
-    [MediaWorks](../Page/MediaWorks.md "wikilink")刊 \<ISBN
-    4-8402-3474-4\>
+    [MediaWorks](../Page/MediaWorks.md "wikilink")刊 \<ISBN 4-8402-3474-4\>
 
 ## 評價
 
@@ -167,12 +159,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 
   - [游戏官方网站](http://www.project-navel.com/navel/ticktack/)
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Navel游戏](https://zh.wikipedia.org/wiki/Category:Navel游戏 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Navel游戏](https://zh.wikipedia.org/wiki/Category:Navel游戏 "wikilink")
 
 1.
 2.

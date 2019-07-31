@@ -4,15 +4,9 @@
 
 \[z = W(z)e^{W(z)}.\]
 
-由于函数*f*不是[单射](../Page/单射.md "wikilink")，因此函数*W*是[多值的](../Page/多值函数.md "wikilink")（除了0以外）。如果我们把*x*限制为实数，并要求*w*是实数，那么函数仅对于*x*
-≥ −1/*e*有定义，在(−1/*e*, 0)内是多值的；如果加上*w* ≥
-−1的限制，则定义了一个单值函数*W*<sub>0</sub>(*x*)（见图）。我们有*W*<sub>0</sub>(0)
-= 0，*W*<sub>0</sub>(−1/*e*) = −1。而在\[−1/*e*, 0)内的*w* ≤
-−1分支，则记为*W*<sub>−1</sub>(*x*)，从*W*<sub>−1</sub>(−1/*e*)
-= −1递减为*W*<sub>−1</sub>(0<sup>−</sup>) = −∞。
+由于函数*f*不是[单射](../Page/单射.md "wikilink")，因此函数*W*是[多值的](../Page/多值函数.md "wikilink")（除了0以外）。如果我们把*x*限制为实数，并要求*w*是实数，那么函数仅对于*x* ≥ −1/*e*有定义，在(−1/*e*, 0)内是多值的；如果加上*w* ≥ −1的限制，则定义了一个单值函数*W*<sub>0</sub>(*x*)（见图）。我们有*W*<sub>0</sub>(0) = 0，*W*<sub>0</sub>(−1/*e*) = −1。而在\[−1/*e*, 0)内的*w* ≤ −1分支，则记为*W*<sub>−1</sub>(*x*)，从*W*<sub>−1</sub>(−1/*e*) = −1递减为*W*<sub>−1</sub>(0<sup>−</sup>) = −∞。
 
-朗伯*W*函数不能用[初等函数](../Page/初等函数.md "wikilink")来表示。它在[组合数学](../Page/组合数学.md "wikilink")中有许多用途，例如[树的计算](../Page/树_\(图论\).md "wikilink")。它可以用来解许多含有指数的方程，也出现在某些[微分方程](../Page/微分方程.md "wikilink")的解中，例如*y*'(*t*)
-= *a* *y*(*t* − 1)。
+朗伯*W*函数不能用[初等函数](../Page/初等函数.md "wikilink")来表示。它在[组合数学](../Page/组合数学.md "wikilink")中有许多用途，例如[树的计算](../Page/树_\(图论\).md "wikilink")。它可以用来解许多含有指数的方程，也出现在某些[微分方程](../Page/微分方程.md "wikilink")的解中，例如*y*'(*t*) = *a* *y*(*t* − 1)。
 
   -
     [Product_Log.jpg](https://zh.wikipedia.org/wiki/File:Product_Log.jpg "fig:Product_Log.jpg")
@@ -25,8 +19,7 @@
 
 \[W(x)=\int_{-\infty}^{-\frac{1}{e}}{-\frac{1}{\pi}}\Im \left[\frac{{\rm{d}}}{{\rm{d}}x}W(x)\right]\ln \left(1-\frac{z}{x}\right){\rm{d}}x\,\]
 
-若 \(x\not\in\left[-\frac{1}{e},0\right],k\in{\mathbb{Z}}\,\) ,若
-\(x\in\left(-\frac{1}{e},0\right),k=1,\pm2,\pm3,...\,\)
+若 \(x\not\in\left[-\frac{1}{e},0\right],k\in{\mathbb{Z}}\,\) ,若 \(x\in\left(-\frac{1}{e},0\right),k=1,\pm2,\pm3,...\,\)
 
 \[W_k(x)=1+\left(\ln x-1+2k\pi {{\rm{i}}}\right)e^{\frac{{\rm{i}}}{2\pi}\int_0^{\infty}\ln \frac{t-\ln t+\ln x+(2k+1)\pi{\rm{i}}}{t-\ln t+\ln x+(2k-1)\pi{\rm{i}}}\cdot\frac{{\rm{d}}t}{t+1}}=1+\left(\ln x-1+2k\pi {{\rm{i}}}\right)e^{\frac{{\rm{i}}}{2\pi}\int_0^{\infty}\ln \frac{\left(t-\ln t+\ln x\right)^2+\left(4k^2-1\right)\pi^2+2\pi\left(t-\ln t+\ln x\right){\rm{i}}}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}}\,\]
 
@@ -36,19 +29,16 @@
 
 \[{}_{W_k(x)=1+\frac{\left(\ln x-1\right)\cos\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}-2k\pi\sin\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}+{\rm{i}}\left[\left(\ln x-1\right)\sin\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}+2k\pi\cos\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}\right]}{e^{\frac{1}{2\pi}\int_0^\infty\arctan\frac{2\pi\left(t-\ln t+\ln x\right)}{\left(t-\ln t+\ln x\right)^2+\left(4k^2-1\right)\pi^2}\cdot\frac{\rm{d}t}{t+1}}}}\]
 
-设 \(W_k(x)=u+v{\rm{i}},x=t+s{\rm{i}}\) ，则有
-\(\left(u+v{\rm{i}}\right)e^{u+v{\rm{i}}}=t+s{\rm{i}}\) ，展开分离出实部和虚部，
+设 \(W_k(x)=u+v{\rm{i}},x=t+s{\rm{i}}\) ，则有 \(\left(u+v{\rm{i}}\right)e^{u+v{\rm{i}}}=t+s{\rm{i}}\) ，展开分离出实部和虚部，
 
-\(e^u\left(u\cos v-v\sin v\right)=t,e^u\left(u\sin v+v\cos v\right)=s\),当\(s=0\)时，易知
-\(u=-v\cot v\)
+\(e^u\left(u\cos v-v\sin v\right)=t,e^u\left(u\sin v+v\cos v\right)=s\),当\(s=0\)时，易知 \(u=-v\cot v\)
 
 \[{}_{W_k(x)=\frac{\left(1-\ln x\right)\sin\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}-2k\pi\cos\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}}{e^{\frac{1}{2\pi}\int_0^\infty\arctan\frac{2\pi\left(t-\ln t+\ln x\right)}{\left(t-\ln t+\ln x\right)^2+\left(4k^2-1\right)\pi^2}\cdot\frac{\rm{d}t}{t+1}}}\cot\frac{\left(\ln x-1\right)\sin\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}+2k\pi\cos\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}}{e^{\frac{1}{2\pi}\int_0^\infty\arctan\frac{2\pi\left(t-\ln t+\ln x\right)}{\left(t-\ln t+\ln x\right)^2+\left(4k^2-1\right)\pi^2}\cdot\frac{\rm{d}t}{t+1}}}
 +\frac{\left(\ln x-1\right)\sin\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}+2k\pi\cos\frac{1}{4\pi}\int_0^{\infty}\ln\frac{\left(t-\ln t+\ln x\right)^2+\left(2k+1\right)^2\pi^2}{\left(t-\ln t+\ln x\right)^2+\left(2k-1\right)^2\pi^2}\cdot\frac{{\rm{d}}t}{t+1}}{e^{\frac{1}{2\pi}\int_0^\infty\arctan\frac{2\pi\left(t-\ln t+\ln x\right)}{\left(t-\ln t+\ln x\right)^2+\left(4k^2-1\right)\pi^2}\cdot\frac{\rm{d}t}{t+1}}}{\rm{i}},}\]
 
 \[W_0(x)=1+\left(\ln x-1\right)e^{-\frac{1}{\pi}\int_0^\infty\arg\left(t-\ln t+\ln x+\pi{\rm{i}}\right)\cdot\frac{\rm{d}t}{t+1}},x>0\]
 
-若 \(x>\frac{1}{e}\)
-，上式还可化为\(W_0(x)=1+\left(\ln x-1\right)e^{-\frac{1}{\pi}\int_0^\infty\arctan\frac{\pi}{t-\ln t+\ln x}\cdot\frac{\rm{d}t}{t+1}}\)
+若 \(x>\frac{1}{e}\) ，上式还可化为\(W_0(x)=1+\left(\ln x-1\right)e^{-\frac{1}{\pi}\int_0^\infty\arctan\frac{\pi}{t-\ln t+\ln x}\cdot\frac{\rm{d}t}{t+1}}\)
 
 由[隐函数](../Page/隐函数.md "wikilink")的求导法则，朗伯\(W\,\)函数满足以下的[微分方程](../Page/微分方程.md "wikilink")：
 
@@ -62,8 +52,7 @@
 
 \[\int W(x) {\rm{d}}x = x \left[ W(x)+ \frac{1}{W (x) }-1 \right] + C\]
 
-\[\int_0^1 W(x) {\rm{d}}x = \Omega+\frac{1}{\Omega} -2\approx 0.330366\]
-其中\(\Omega\)為[欧米加常数](../Page/欧米加常数.md "wikilink")。
+\[\int_0^1 W(x) {\rm{d}}x = \Omega+\frac{1}{\Omega} -2\approx 0.330366\] 其中\(\Omega\)為[欧米加常数](../Page/欧米加常数.md "wikilink")。
 
 ## 性质
 
@@ -91,19 +80,15 @@
 
 實部
 
-\[\Re\left[W(x+y{\rm{i}})\right]=\sum_{k=1}^{\infty}\frac{(-k)^{k-1}}{k!}\sqrt{(x^2+y^2)^k}\cos \left(k\arctan\frac{x}{y}\right)\,\]
-, \(x^2+y^2<\frac{1}{e^2}\,\) 虛部
+\[\Re\left[W(x+y{\rm{i}})\right]=\sum_{k=1}^{\infty}\frac{(-k)^{k-1}}{k!}\sqrt{(x^2+y^2)^k}\cos \left(k\arctan\frac{x}{y}\right)\,\] , \(x^2+y^2<\frac{1}{e^2}\,\) 虛部
 
-\[\Im\left[W(x+y{\rm{i}})\right]=\sum_{k=1}^{\infty}\frac{(-k)^{k-1}}{k!}\sqrt{(x^2+y^2)^k}\sin \left(k\arctan\frac{x}{y}\right)\,\],
-\(x^2+y^2<\frac{1}{e^2}\,\) 模長
+\[\Im\left[W(x+y{\rm{i}})\right]=\sum_{k=1}^{\infty}\frac{(-k)^{k-1}}{k!}\sqrt{(x^2+y^2)^k}\sin \left(k\arctan\frac{x}{y}\right)\,\], \(x^2+y^2<\frac{1}{e^2}\,\) 模長
 
 \[|W(x+y{\rm{i}})|=W(\sqrt{x+y})\,\] 模角
 
-\[\arg\left[W(x+y{\rm{i}})\right]=\sum_{k=1}^{\infty}\frac{(-k)^{k-1}}{k!}\arctan\left[\cot(k\arctan\frac{x}{y})\right]\,\],
-\(x^2+y^2<\frac{1}{e^2}\,\) 共軛值
+\[\arg\left[W(x+y{\rm{i}})\right]=\sum_{k=1}^{\infty}\frac{(-k)^{k-1}}{k!}\arctan\left[\cot(k\arctan\frac{x}{y})\right]\,\], \(x^2+y^2<\frac{1}{e^2}\,\) 共軛值
 
-\[\overline{W(x+y{\rm{i}})}=\sum_{k=1}^{\infty}\frac{(-k)^{k-1}}{k!}\sqrt{(x^2+y^2)^k}\left[\cos \left(k\arctan\frac{x}{y}\right)-{\rm{i}}\sin \left(k\arctan\frac{x}{y}\right)\right]\,\],
-\(x^2+y^2<\frac{1}{e^2}\,\)
+\[\overline{W(x+y{\rm{i}})}=\sum_{k=1}^{\infty}\frac{(-k)^{k-1}}{k!}\sqrt{(x^2+y^2)^k}\left[\cos \left(k\arctan\frac{x}{y}\right)-{\rm{i}}\sin \left(k\arctan\frac{x}{y}\right)\right]\,\], \(x^2+y^2<\frac{1}{e^2}\,\)
 
 ## 特殊值
 
@@ -253,8 +238,7 @@
 
 \[x = -\frac{W_k\left(-\frac{a\ln Q}{c}\,Q^{b-\frac{a d}{c}}\right)}{a\ln Q} - \frac{d}{c}\]
 
-若:
-\(-\frac{a\ln Q}{c}\,Q^{b-\frac{a d}{c}} \in \left(-\frac{1}{e},0 \right)\),
+若: \(-\frac{a\ln Q}{c}\,Q^{b-\frac{a d}{c}} \in \left(-\frac{1}{e},0 \right)\),
 
 辅助方程有二实解，设为\(W\left(-\frac{a\ln Q}{c}\,Q^{b-\frac{a d}{c}}\right)\)，
 
@@ -355,48 +339,33 @@
 
 標準的 Lambert W 函數可用來表示以下超越代數方程式的解：
 
-\[e^{-c x} = a_o (x-r) ~~\quad\qquad\qquad\qquad\qquad(1)\] 其中
-*a*<sub>0</sub>, *c* 與 *r* 為實常數。
+\[e^{-c x} = a_o (x-r) ~~\quad\qquad\qquad\qquad\qquad(1)\] 其中 *a*<sub>0</sub>, *c* 與 *r* 為實常數。
 
 其解為\(x = r +\tfrac{W\left(\frac{ce^{-c r}}{a_o}\right)}{c}\)
 
 Lambert W 函數之一般化\[1\]\[2\]\[3\] 包括:
 
-  - 一項在低維空間內[廣義相對論](../Page/廣義相對論.md "wikilink")與[量子力學的應用](https://zh.wikipedia.org/wiki/量子力學 "wikilink")（[量子引力](../Page/量子引力.md "wikilink")），實際上一種以前未知的
-    連結 於此二區域中，如 “Journal of Classical and Quantum Gravity”\[4\] 所示其 (1)
-    的右邊式現為二維多項式 x：
+  - 一項在低維空間內[廣義相對論](../Page/廣義相對論.md "wikilink")與[量子力學的應用](https://zh.wikipedia.org/wiki/量子力學 "wikilink")（[量子引力](../Page/量子引力.md "wikilink")），實際上一種以前未知的 連結 於此二區域中，如 “Journal of Classical and Quantum Gravity”\[4\] 所示其 (1) 的右邊式現為二維多項式 x：
 
 \[e^{-c x} = a_o (x-r_1 ) (x-r_2 ) ~~\qquad\qquad(2)\]
 
   -
-    其中 *r*<sub>1</sub> 和 *r*<sub>2</sub> 是不同實常數，為二維多項式的根。於此函數解有單一引數 *x*
-    但 *r*<sub>i</sub> 和 *a*<sub>o</sub> 為函數的參數。如此一來，此一般式類似於
-    “hypergeometric”（超几何分布）函數與 “Meijer G“，但屬於不同類函數。當 *r*<sub>1</sub> =
-    *r*<sub>2</sub>，(2)的兩方可分解為 (1) 因此其解簡化為標準 W 函數。(2)式代表著
-    “dilaton”（[軸子](../Page/軸子.md "wikilink")）場的方程，可據此推導線性，雙體重力問題
-    1+1
-    維（一空間維與一時間維）當兩不等（靜止）質量，以及，量子力學的特徵能[Delta位勢阱](../Page/Delta位勢阱.md "wikilink")給不等電位於一維空間。
+    其中 *r*<sub>1</sub> 和 *r*<sub>2</sub> 是不同實常數，為二維多項式的根。於此函數解有單一引數 *x* 但 *r*<sub>i</sub> 和 *a*<sub>o</sub> 為函數的參數。如此一來，此一般式類似於 “hypergeometric”（超几何分布）函數與 “Meijer G“，但屬於不同類函數。當 *r*<sub>1</sub> = *r*<sub>2</sub>，(2)的兩方可分解為 (1) 因此其解簡化為標準 W 函數。(2)式代表著 “dilaton”（[軸子](../Page/軸子.md "wikilink")）場的方程，可據此推導線性，雙體重力問題 1+1 維（一空間維與一時間維）當兩不等（靜止）質量，以及，量子力學的特徵能[Delta位勢阱](../Page/Delta位勢阱.md "wikilink")給不等電位於一維空間。
 
 <!-- end list -->
 
-  - 量子力學的一特例特徵能的分析解三體問題，亦即（三維）[氢分子離子](https://zh.wikipedia.org/wiki/氢分子离子 "wikilink")。\[5\]於此
-    (1)（或 (2)）的右手邊現為無限級數多項式之比於 *x*：
+  - 量子力學的一特例特徵能的分析解三體問題，亦即（三維）[氢分子離子](https://zh.wikipedia.org/wiki/氢分子离子 "wikilink")。\[5\]於此 (1)（或 (2)）的右手邊現為無限級數多項式之比於 *x*：
 
 \[e^{-c x} = a_o \frac{\prod_{i=1}^{\infty} (x-r_i )}{ \prod_{i=1}^{\infty} (x-s_i)} \qquad \qquad\qquad(3)\]
 
   -
-    其中 *r*<sub>i</sub> 與 *s*<sub>i</sub> 是相異實常數而 *x* 是特徵能和內核距離R之函數。式 (3)
-    與其特例表示於 (1) 和 (2)
-    是與一更大類型[延遲微分方程](../Page/时滞微分方程.md "wikilink")。由于[哈代的](../Page/戈弗雷·哈罗德·哈代.md "wikilink")“虚假导数”概念，多根的特殊情况得以解决\[6\]。
+    其中 *r*<sub>i</sub> 與 *s*<sub>i</sub> 是相異實常數而 *x* 是特徵能和內核距離R之函數。式 (3) 與其特例表示於 (1) 和 (2) 是與一更大類型[延遲微分方程](../Page/时滞微分方程.md "wikilink")。由于[哈代的](../Page/戈弗雷·哈罗德·哈代.md "wikilink")“虚假导数”概念，多根的特殊情况得以解决\[6\]。
 
 Lambert "W" 函數於基礎物理問題之應用並未完全即使標準情況如 (1) 最近在原子，分子，與光學物理領域可見。\[7\]
 
 ## 图象
 
-Image:LambertWRe.png| *z* = Re(W<sub>0</sub>(*x* + *i* *y*))
-Image:LambertWIm.png| *z* = Im(W<sub>0</sub>(*x* + *i* *y*))
-Image:LambertWAbs.png| *z* = |W<sub>0</sub>(*x* + *i* *y*)|
-Image:LambertWAll.png
+Image:LambertWRe.png| *z* = Re(W<sub>0</sub>(*x* + *i* *y*)) Image:LambertWIm.png| *z* = Im(W<sub>0</sub>(*x* + *i* *y*)) Image:LambertWAbs.png| *z* = |W<sub>0</sub>(*x* + *i* *y*)| Image:LambertWAll.png
 
 ## 计算
 
@@ -415,33 +384,10 @@ Image:LambertWAll.png
 
 [Category:特殊函数](https://zh.wikipedia.org/wiki/Category:特殊函数 "wikilink")
 
-1.  T.C. Scott and R.B. Mann, *General Relativity and Quantum Mechanics:
-    Towards a Generalization of the Lambert W Function*, AAECC
-    (Applicable Algebra in Engineering, Communication and Computing),
-    vol. 17, no. 1, (April 2006), pp.41-47,
-    [1](http://portal.acm.org/citation.cfm?id=1127202.1127208&coll=&dl=ACM);
-    Arxiv [2](http://arxiv.org/abs/math-ph/0607011)
-2.  T.C. Scott, G. Fee and J. Grotendorst, ["Asymptotic series of
-    Generalized Lambert W
-    Function"](http://www.sigsam.org/cca/issues/issue185.html), SIGSAM,
-    vol. 47, no. 3, (September 2013), pp. 75-83
-3.  T.C. Scott, G. Fee, J. Grotendorst and W.Z. Zhang, ["Numerics of the
-    Generalized Lambert W
-    Function"](http://www.sigsam.org/cca/issues/issue188.html), SIGSAM,
-    vol. 48, no. 2, (June 2014), pp. 42-56
-4.  P.S. Farrugia, R.B. Mann, and T.C. Scott, *N-body Gravity and the
-    Schrödinger Equation*, Class. Quantum Grav. vol. 24, (2007), pp.
-    4647-4659,
-    [3](https://iopscience.iop.org/article/10.1088/0264-9381/24/18/006);
-    Arxiv [4](http://arxiv.org/abs/gr-qc/0611144v2)
-5.  T.C. Scott, M. Aubert-Frécon and J. Grotendorst, *New Approach for
-    the Electronic Energies of the Hydrogen Molecular Ion*, Chem. Phys.
-    vol. 324, (2006), pp. 323-338,
-    [5](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TFM-4HNYMS6-5&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=9fd01e7be3137ccf30280c1281b62e14);
-    Arxiv [6](http://arxiv.org/abs/physics/0607081)
-6.  Aude Maignan, T.C. Scott, "Fleshing out the Generalized Lambert W
-    Function", SIGSAM, vol. 50, no. 2, (June 2016), pp. 45-60
-7.  T.C. Scott, A. Lüchow, D. Bressanini and J.D. Morgan III, *The Nodal
-    Surfaces of Helium Atom Eigenfunctions*, Phys. Rev. A 75, (2007), p.
-    060101,
-    [7](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.75.060101)
+1.  T.C. Scott and R.B. Mann, *General Relativity and Quantum Mechanics: Towards a Generalization of the Lambert W Function*, AAECC (Applicable Algebra in Engineering, Communication and Computing), vol. 17, no. 1, (April 2006), pp.41-47, [1](http://portal.acm.org/citation.cfm?id=1127202.1127208&coll=&dl=ACM); Arxiv [2](http://arxiv.org/abs/math-ph/0607011)
+2.  T.C. Scott, G. Fee and J. Grotendorst, ["Asymptotic series of Generalized Lambert W Function"](http://www.sigsam.org/cca/issues/issue185.html), SIGSAM, vol. 47, no. 3, (September 2013), pp. 75-83
+3.  T.C. Scott, G. Fee, J. Grotendorst and W.Z. Zhang, ["Numerics of the Generalized Lambert W Function"](http://www.sigsam.org/cca/issues/issue188.html), SIGSAM, vol. 48, no. 2, (June 2014), pp. 42-56
+4.  P.S. Farrugia, R.B. Mann, and T.C. Scott, *N-body Gravity and the Schrödinger Equation*, Class. Quantum Grav. vol. 24, (2007), pp. 4647-4659, [3](https://iopscience.iop.org/article/10.1088/0264-9381/24/18/006); Arxiv [4](http://arxiv.org/abs/gr-qc/0611144v2)
+5.  T.C. Scott, M. Aubert-Frécon and J. Grotendorst, *New Approach for the Electronic Energies of the Hydrogen Molecular Ion*, Chem. Phys. vol. 324, (2006), pp. 323-338, [5](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TFM-4HNYMS6-5&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=9fd01e7be3137ccf30280c1281b62e14); Arxiv [6](http://arxiv.org/abs/physics/0607081)
+6.  Aude Maignan, T.C. Scott, "Fleshing out the Generalized Lambert W Function", SIGSAM, vol. 50, no. 2, (June 2016), pp. 45-60
+7.  T.C. Scott, A. Lüchow, D. Bressanini and J.D. Morgan III, *The Nodal Surfaces of Helium Atom Eigenfunctions*, Phys. Rev. A 75, (2007), p. 060101, [7](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.75.060101)

@@ -1,7 +1,6 @@
-是的[四格漫畫作品](../Page/四格漫畫.md "wikilink")。
+是的[四格漫畫](../Page/四格漫畫.md "wikilink")作品。
 
-在《》創刊時開始連載，至第三號廢刊為止。後來在《[Manga Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單篇短篇，並於同年11月號開始連載至2016年2月號（2015年12月）。
+在《》創刊時開始連載，至第三號廢刊為止。後來在《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單篇短篇，並於同年11月號開始連載至2016年2月號（2015年12月）。
 
 另外，也有在的店面發行的廣告雜誌以的名義連載。
 
@@ -29,7 +28,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
   -
     通稱「」，奈三子和她的母親則稱呼她「小雅（，發音不同）」。
     給人的色彩印象為黑色，或是包含白色在內的單調色彩。現實生活中會大量購入黑色畫材。但本身其實是怕黑，在黑暗的地方會動彈不得。
-    是個外表[黑長直](https://zh.wikipedia.org/wiki/黑長直 "wikilink")，並且充滿神秘感的[無口優等生](../Page/無口.md "wikilink")。奈三子說她人品不錯，只是性格上有點怪怪的。
+    是個外表[黑長直](https://zh.wikipedia.org/wiki/黑長直 "wikilink")，並且充滿神秘感的[無口](../Page/無口.md "wikilink")優等生。奈三子說她人品不錯，只是性格上有點怪怪的。
     平常是用武士腔說話，所以稱呼別人時會加上「殿」。擁有豐富知識。特徵為黑色長髮。看起來對別人的行動沒興趣，事實上卻是充滿興趣，有時甚至會模仿其他人的行動。
     擁有和動物溝通、看的見幽靈等特殊能力。
     雖然在其它班中也佊俱人氣，異性緣不錯，但還沒有男朋友。而且其父母亦已經選好了她的結婚對象。
@@ -61,8 +60,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
     通稱「」，周圍的人稱呼她「」或「」。給人的印象色彩為亮色系，特別是黃色。對於時尚和流行相當敏感。
     喜歡熱鬧，總是保持在興奮狀態，常做出多餘發言。個性像小孩一樣，喜歡惡作劇。在團體中負責帶動氣氛。
     是屬於天才型的畫家，做事都是看心情，作畫是憑感覺，因此上美術課有一半都是在玩。
-    有就讀普通科的姐姐（聲：[名塚雅絵](https://zh.wikipedia.org/wiki/名塚雅絵 "wikilink")／\[1\]
-    香港：[成瑤孆](../Page/成瑤孆.md "wikilink")）。家裡有養貓。
+    有就讀普通科的姐姐（聲：[名塚雅絵](https://zh.wikipedia.org/wiki/名塚雅絵 "wikilink")／\[1\] 香港：[成瑤孆](../Page/成瑤孆.md "wikilink")）。家裡有養貓。
     經常弄掉東西，因此畫冊貼滿了閃亮的反光貼紙。
     雖然每次都能很快完成功課作業交上。但經常都是草草了事而被外間老師教訓。
     主張有人幫她帶雨遮，因此下雨天，會叫別人
@@ -205,8 +203,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 彩井學園除了大學、高中以外還有國中部；雖然是男女合校，但作品中只有很少有男學生的戲份。
 
   - GA
-    正式名稱為「藝術科美術設計班\[4\]」，GA的略稱不是「藝術科美術設計班（**G**eijutsuka **A**rt design
-    class）」，而是來自「藝術科A班」的縮寫，也有GB（藝術科B班，音樂班）存在，用來和其他班級區別。以前曾有GC（藝術科C班，服裝班）。
+    正式名稱為「藝術科美術設計班\[4\]」，GA的略稱不是「藝術科美術設計班（**G**eijutsuka **A**rt design class）」，而是來自「藝術科A班」的縮寫，也有GB（藝術科B班，音樂班）存在，用來和其他班級區別。以前曾有GC（藝術科C班，服裝班）。
     課程一半以上是視覺和造型設計，擁有各式各樣的設計專門科目。
     除了收取學費，還有收取畫材以及美術館展示費用等雜費。
   - 美術社
@@ -303,14 +300,12 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 
 ## 電視動畫
 
-2009年7月起在[讀賣電視台和](../Page/讀賣電視台.md "wikilink")[獨立UHF局播放](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")。
+2009年7月起在[讀賣電視台](../Page/讀賣電視台.md "wikilink")和[獨立UHF局播放](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")。
 
 ### 製作人員
 
   - 原作：
-  - 企画：高谷與志人（[avex
-    entertainment](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")）、孝壽尚志（[芳文社](../Page/芳文社.md "wikilink")）、松本慶明（[Marvelous
-    Entertainment](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")）、大熊保幸、三浦亨（[AIC](https://zh.wikipedia.org/wiki/AIC "wikilink")）、金子一志
+  - 企画：高谷與志人（[avex entertainment](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")）、孝壽尚志（[芳文社](../Page/芳文社.md "wikilink")）、松本慶明（[Marvelous Entertainment](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")）、大熊保幸、三浦亨（[AIC](https://zh.wikipedia.org/wiki/AIC "wikilink")）、金子一志
   - 脚本：[待田堂子](../Page/待田堂子.md "wikilink")
   - 人物設定：[渡邊敦子](https://zh.wikipedia.org/wiki/渡邊敦子_\(動畫師\) "wikilink")
   - 光暈設定：新野量太
@@ -321,11 +316,10 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
   - 編集：櫻井崇
   - 音響監督：
   - 音樂：安部純、武藤星兒（）
-  - 聯合製片人：後藤政則（avex entertainment）、米倉功人
-    ([ytv](../Page/讀賣電視台.md "wikilink"))
+  - 聯合製片人：後藤政則（avex entertainment）、米倉功人 ([ytv](../Page/讀賣電視台.md "wikilink"))
   - 製片人：龍貴大、小林宏之、丸山創（Marvelous Entertainment）、齋藤朋之（ytv） 、黄樹貳悠（AIC）、相田武一郎
   - 動畫製作人：先川幸矢（AIC）
-  - [取材](https://zh.wikipedia.org/wiki/取材 "wikilink")、[美術協力](../Page/美術.md "wikilink")：[女子美術大學](https://zh.wikipedia.org/wiki/女子美術大學 "wikilink")、[女子美術大學附屬高等學校・中學校](https://zh.wikipedia.org/wiki/女子美術大學附屬高等學校・中學校 "wikilink")
+  - [取材](https://zh.wikipedia.org/wiki/取材 "wikilink")、[美術](../Page/美術.md "wikilink")協力：[女子美術大學](https://zh.wikipedia.org/wiki/女子美術大學 "wikilink")、[女子美術大學附屬高等學校・中學校](https://zh.wikipedia.org/wiki/女子美術大學附屬高等學校・中學校 "wikilink")
   - 動畫製作：[AICPLUS+](https://zh.wikipedia.org/wiki/AIC "wikilink")
   - 監督：[櫻井弘明](../Page/櫻井弘明.md "wikilink")
   - 製作：GA製作委員會
@@ -661,8 +655,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 
 ## 遊戲
 
-  - 2010年7月29日，由[Russell在](https://zh.wikipedia.org/wiki/Russell "wikilink")[PSP平台上制作的](https://zh.wikipedia.org/wiki/PSP "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")**「GA
-    藝術科美術設計班 Slapstick WONDER LAND」**发售。
+  - 2010年7月29日，由[Russell在](https://zh.wikipedia.org/wiki/Russell "wikilink")[PSP平台上制作的](https://zh.wikipedia.org/wiki/PSP "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")**「GA 藝術科美術設計班 Slapstick WONDER LAND」**发售。
 
 ## 註解
 
@@ -670,15 +663,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 
   - [電視動畫官方網站](http://mv.avex.jp/ga/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink")
-[Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink") [Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
 
 1.  名塚佳織的姐姐（網路電台節目第5回）
 

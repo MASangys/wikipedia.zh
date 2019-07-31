@@ -1,5 +1,4 @@
-《**ONE PIECE 機關城的機械巨兵**》是於2006年上映的第七部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
+《**ONE PIECE 機關城的機械巨兵**》是於2006年上映的第七部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情
 
@@ -92,9 +91,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 ## 音樂
 
   - 「」（豌豆莢）
-    作詞：[zopp](https://zh.wikipedia.org/wiki/zopp "wikilink")；作曲・編曲：Shusui,
-    Fredrik Hult, Jonas Engstrand, Ola
-    Larsson；歌：[NEWS](../Page/NEWS.md "wikilink")
+    作詞：[zopp](https://zh.wikipedia.org/wiki/zopp "wikilink")；作曲・編曲：Shusui, Fredrik Hult, Jonas Engstrand, Ola Larsson；歌：[NEWS](../Page/NEWS.md "wikilink")
 
 ## 參考資料
 
@@ -102,9 +99,6 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 
   - [電影官方網站](http://www.toei-anim.co.jp/movie/2006_onepiece/)
 
-[ru:Список анимационных фильмов о One Piece\#Фильм
-седьмой](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_седьмой "wikilink")
+[ru:Список анимационных фильмов о One Piece\#Фильм седьмой](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_седьмой "wikilink")
 
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink")
-[Category:稻垣吾郎](https://zh.wikipedia.org/wiki/Category:稻垣吾郎 "wikilink")
+[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink") [Category:稻垣吾郎](https://zh.wikipedia.org/wiki/Category:稻垣吾郎 "wikilink")

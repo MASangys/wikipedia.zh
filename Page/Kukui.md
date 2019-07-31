@@ -4,7 +4,7 @@
 
 ### 來歷
 
-本來是由**myu**與**[riya](https://zh.wikipedia.org/wiki/riya "wikilink")**的組合「**refio**」開始，後來riya與菊地創組成「[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")」的組合，從「refio」退出。其後，「refio」成為myu的個人組織，歌手**霜月はるか**加入之後，便以「**refio＋霜月はるか**」名義發售「透明シェルター」的單曲。伴隨著此，組合更名為「**kukui**」開始活動。因為迷你專輯「光の螺旋律」而重新被人認識。歌曲以幻想的歌詞、平穩的曲調、[前衛搖滾為多](../Page/前衛搖滾.md "wikilink")。
+本來是由**myu**與**[riya](https://zh.wikipedia.org/wiki/riya "wikilink")**的組合「**refio**」開始，後來riya與菊地創組成「[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")」的組合，從「refio」退出。其後，「refio」成為myu的個人組織，歌手**霜月はるか**加入之後，便以「**refio＋霜月はるか**」名義發售「透明シェルター」的單曲。伴隨著此，組合更名為「**kukui**」開始活動。因為迷你專輯「光の螺旋律」而重新被人認識。歌曲以幻想的歌詞、平穩的曲調、[前衛搖滾](../Page/前衛搖滾.md "wikilink")為多。
 
 ### 成員
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-1.  コンコルディア：動畫『[神曲奏界ポリフォニカ](../Page/神曲奏界.md "wikilink")』片尾主題歌
+1.  コンコルディア：動畫『[神曲奏界](../Page/神曲奏界.md "wikilink")ポリフォニカ』片尾主題歌
 2.  二重奏
 3.  コンコルディア（off vocal）
 4.  二重奏（off vocal）
@@ -98,7 +98,7 @@
 
 1.  Approach
 2.  箱庭ノート
-3.  コンコルディア：『[神曲奏界ポリフォニカ](../Page/神曲奏界.md "wikilink")』片尾曲
+3.  コンコルディア：『[神曲奏界](../Page/神曲奏界.md "wikilink")ポリフォニカ』片尾曲
 4.  Starry Waltz：『[西方善魔女](../Page/西方善魔女.md "wikilink")』片尾曲
 5.  Cycle
 6.  夜の奥底
@@ -108,8 +108,7 @@
 10. 記憶
 11. アマヤドリ
 12. 二重奏
-13. Little Primrose：『[鍵姫物語
-    永久アリス輪舞曲](https://zh.wikipedia.org/wiki/鍵姫物語_永久アリス輪舞曲 "wikilink")』片頭曲
+13. Little Primrose：『[鍵姫物語 永久アリス輪舞曲](https://zh.wikipedia.org/wiki/鍵姫物語_永久アリス輪舞曲 "wikilink")』片頭曲
 
 ### 其他
 
@@ -124,6 +123,4 @@
 
   - [官方網站](http://kukui.cc/)
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")

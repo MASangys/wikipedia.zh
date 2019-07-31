@@ -23,8 +23,7 @@
 
 ### 科學警察研究所（I.P.S）
 
-  - 九十九龍介 -
-    （[木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）飾）（粵語配音：[蘇強文](../Page/蘇強文.md "wikilink")）
+  - 九十九龍介 - （[木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）飾）（粵語配音：[蘇強文](../Page/蘇強文.md "wikilink")）
 
 <!-- end list -->
 
@@ -36,8 +35,7 @@
 
 <!-- end list -->
 
-  - 由里和音 -
-    （[綾瀨遙](../Page/綾瀨遙.md "wikilink")飾）（粵語配音：[曾秀清](../Page/曾秀清.md "wikilink")）
+  - 由里和音 - （[綾瀨遙](../Page/綾瀨遙.md "wikilink")飾）（粵語配音：[曾秀清](../Page/曾秀清.md "wikilink")）
 
 <!-- end list -->
 
@@ -46,8 +44,7 @@
 
 <!-- end list -->
 
-  - 船木淳平 -
-    （[平泉成飾](https://zh.wikipedia.org/wiki/平泉成 "wikilink")）（粵語配音：[黃子敬](../Page/黃子敬.md "wikilink")）
+  - 船木淳平 - （[平泉成飾](https://zh.wikipedia.org/wiki/平泉成 "wikilink")）（粵語配音：[黃子敬](../Page/黃子敬.md "wikilink")）
 
 <!-- end list -->
 
@@ -56,8 +53,7 @@
 
 <!-- end list -->
 
-  - 神田純一 -
-    （[設樂統](../Page/設樂統.md "wikilink")（[香蕉人](../Page/香蕉人_\(搞笑組合\).md "wikilink")）飾）（粵語配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
+  - 神田純一 - （[設樂統](../Page/設樂統.md "wikilink")（[香蕉人](../Page/香蕉人_\(搞笑組合\).md "wikilink")）飾）（粵語配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
 
 <!-- end list -->
 
@@ -84,8 +80,7 @@
 
 <!-- end list -->
 
-  - 夏目光男 -
-    （（[爆笑問題](https://zh.wikipedia.org/wiki/爆笑問題 "wikilink")）飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 夏目光男 - （（[爆笑問題](https://zh.wikipedia.org/wiki/爆笑問題 "wikilink")）飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -94,8 +89,7 @@
 
 <!-- end list -->
 
-  - 難波丈太郎 -
-    （（[Ulfuls](https://zh.wikipedia.org/wiki/Ulfuls "wikilink")）飾）（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+  - 難波丈太郎 - （（[Ulfuls](https://zh.wikipedia.org/wiki/Ulfuls "wikilink")）飾）（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
@@ -122,13 +116,11 @@
 
 <!-- end list -->
 
-  - 清潔人員 -
-    （[木下優樹菜](../Page/木下優樹菜.md "wikilink")飾）（粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
+  - 清潔人員 - （[木下優樹菜](../Page/木下優樹菜.md "wikilink")飾）（粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
 
 <!-- end list -->
 
-  - 佐佐未春 -
-    （[大地真央](../Page/大地真央.md "wikilink")飾）（粵語配音：[許盈](../Page/許盈.md "wikilink")）
+  - 佐佐未春 - （[大地真央](../Page/大地真央.md "wikilink")飾）（粵語配音：[許盈](../Page/許盈.md "wikilink")）
 
 <!-- end list -->
 
@@ -146,8 +138,7 @@
 
 ### 警視廳
 
-  - 林田虎之助 -
-    （[水嶋宏飾](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")）
+  - 林田虎之助 - （[水嶋宏飾](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")）
 
 <!-- end list -->
 
@@ -156,8 +147,7 @@
 
 <!-- end list -->
 
-  - 丹原朋實 -
-    （[香川照之](../Page/香川照之.md "wikilink")飾）（粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+  - 丹原朋實 - （[香川照之](../Page/香川照之.md "wikilink")飾）（粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -166,9 +156,7 @@
 
 ### 多集出場的角色
 
-  - 武井公平 -
-    （[市川海老藏](https://zh.wikipedia.org/wiki/市川海老藏_\(11代目\) "wikilink")
-    飾）（粵語配音：[何承駿](../Page/何承駿.md "wikilink")）
+  - 武井公平 - （[市川海老藏](https://zh.wikipedia.org/wiki/市川海老藏_\(11代目\) "wikilink") 飾）（粵語配音：[何承駿](../Page/何承駿.md "wikilink")）
 
 <!-- end list -->
 
@@ -177,8 +165,7 @@
 
 <!-- end list -->
 
-  - 小島秀樹 -
-    （[杉本哲太](../Page/杉本哲太.md "wikilink")飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 小島秀樹 - （[杉本哲太](../Page/杉本哲太.md "wikilink")飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
   - 刑事1 - （飾）
   - 鑑識課員1 - （飾）
   - 警視廳管理官 - （飾）（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）
@@ -187,10 +174,8 @@
 
 #### 第一集
 
-  - 女客人 -
-    [戶田惠子](../Page/戶田惠子.md "wikilink")（粵語配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）
-  - 女子 -
-    [廣末涼子](../Page/廣末涼子.md "wikilink")（粵語配音：[林芷筠](../Page/林芷筠.md "wikilink")）
+  - 女客人 - [戶田惠子](../Page/戶田惠子.md "wikilink")（粵語配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）
+  - 女子 - [廣末涼子](../Page/廣末涼子.md "wikilink")（粵語配音：[林芷筠](../Page/林芷筠.md "wikilink")）
   - 船田勉 - （粵語配音：[張錦江](../Page/張錦江.md "wikilink")）
 
 <!-- end list -->
@@ -200,8 +185,7 @@
 
 <!-- end list -->
 
-  - 土井健三 -
-    [高嶋政伸](../Page/高嶋政伸.md "wikilink")（粵語配音：[古明華](../Page/古明華.md "wikilink")）
+  - 土井健三 - [高嶋政伸](../Page/高嶋政伸.md "wikilink")（粵語配音：[古明華](../Page/古明華.md "wikilink")）
 
 <!-- end list -->
 
@@ -255,12 +239,9 @@
 
 #### 第二集
 
-  - 竹神貞次郎 -
-    [GACKT](../Page/GACKT.md "wikilink")（粵語配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
-  - 宮瀨久美子 -
-    [小雪](../Page/小雪_\(日本演員\).md "wikilink")（粵語配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
-  - 岸川誠司 -
-    [松重豐](../Page/松重豐.md "wikilink")（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
+  - 竹神貞次郎 - [GACKT](../Page/GACKT.md "wikilink")（粵語配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
+  - 宮瀨久美子 - [小雪](../Page/小雪_\(日本演員\).md "wikilink")（粵語配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+  - 岸川誠司 - [松重豐](../Page/松重豐.md "wikilink")（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
   - 津村修介 - （粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
 <!-- end list -->
@@ -290,17 +271,12 @@
 
 #### 第三集
 
-  - 和久井雅和 -
-    [龜梨和也](../Page/龜梨和也.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）（粵語配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
-  - 後藤惠 -
-    [相武紗季](../Page/相武紗季.md "wikilink")（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
-  - 千原醫師 -
-    [小市慢太郎](../Page/小市慢太郎.md "wikilink")（粵語配音：[張錦江](../Page/張錦江.md "wikilink")）
-  - 荒木明夫 -
-    [平山浩行](../Page/平山浩行.md "wikilink")（粵語配音：[雷霆](../Page/雷霆.md "wikilink")）
+  - 和久井雅和 - [龜梨和也](../Page/龜梨和也.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）（粵語配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
+  - 後藤惠 - [相武紗季](../Page/相武紗季.md "wikilink")（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+  - 千原醫師 - [小市慢太郎](../Page/小市慢太郎.md "wikilink")（粵語配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 荒木明夫 - [平山浩行](../Page/平山浩行.md "wikilink")（粵語配音：[雷霆](../Page/雷霆.md "wikilink")）
   - 日向信一 -
-  - 醫師 -
-    [森山米次](https://zh.wikipedia.org/wiki/森山米次 "wikilink")（粵語配音：[林國雄](../Page/林國雄.md "wikilink")）
+  - 醫師 - [森山米次](https://zh.wikipedia.org/wiki/森山米次 "wikilink")（粵語配音：[林國雄](../Page/林國雄.md "wikilink")）
 
 #### 案件說明
 
@@ -309,12 +285,9 @@
 
 #### 第四集～第五集（前半）
 
-  - 中川優 -
-    [佐藤健](../Page/佐藤健.md "wikilink")（粵語配音：[李凱傑](../Page/李凱傑.md "wikilink")）
-  - 中川純 -
-    [木村多江](../Page/木村多江.md "wikilink")（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
-  - 八木仁 -
-    [東儀秀樹](../Page/東儀秀樹.md "wikilink")（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - 中川優 - [佐藤健](../Page/佐藤健.md "wikilink")（粵語配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+  - 中川純 - [木村多江](../Page/木村多江.md "wikilink")（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+  - 八木仁 - [東儀秀樹](../Page/東儀秀樹.md "wikilink")（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
   - 木下莊治 - （粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
   - 西崎實 - （粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
@@ -325,9 +298,7 @@
 
 #### 第五集（後半）～第六集
 
-  - 秋吉加奈子 -
-    [仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）童年
-    -
+  - 秋吉加奈子 - [仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）童年 -
   - 松下百合子 - （粵語配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
 
 <!-- end list -->
@@ -360,8 +331,7 @@
 
 #### 第七集～第八集
 
-  - 北里陽介 -
-    [上川隆也](../Page/上川隆也.md "wikilink")（粵語配音：[伍博民](../Page/伍博民.md "wikilink")）
+  - 北里陽介 - [上川隆也](../Page/上川隆也.md "wikilink")（粵語配音：[伍博民](../Page/伍博民.md "wikilink")）
   - 相澤義之（益田哲也） - （粵語配音：[林保全](../Page/林保全.md "wikilink")）
 
 <!-- end list -->
@@ -408,10 +378,8 @@
 
 <!-- end list -->
 
-  - 會場管理人 -
-    [俵木藤汰](https://zh.wikipedia.org/wiki/俵木藤汰 "wikilink")（粵語配音：[陳曙光](../Page/陳曙光.md "wikilink")）
-  - 劫機男子 -
-    [香取慎吾](../Page/香取慎吾.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - 會場管理人 - [俵木藤汰](https://zh.wikipedia.org/wiki/俵木藤汰 "wikilink")（粵語配音：[陳曙光](../Page/陳曙光.md "wikilink")）
+  - 劫機男子 - [香取慎吾](../Page/香取慎吾.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
 
 #### 案件說明
 
@@ -556,8 +524,7 @@
 
   - [《MR.BRAIN》 - TBS網站](http://www.tbs.co.jp/mr-brain/)
 
-  - [《腦科學先生》 -
-    台灣緯來日本台官方網站](http://japan.videoland.com.tw/channel/mr_brain/default_003.asp)
+  - [《腦科學先生》 - 台灣緯來日本台官方網站](http://japan.videoland.com.tw/channel/mr_brain/default_003.asp)
 
   -
   -
@@ -573,17 +540,4 @@
 
   - 香港
 
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:日本推理劇](https://zh.wikipedia.org/wiki/Category:日本推理劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:腦](https://zh.wikipedia.org/wiki/Category:腦 "wikilink")
-[Category:偽科學](https://zh.wikipedia.org/wiki/Category:偽科學 "wikilink")
-[Category:DSiWare游戏](https://zh.wikipedia.org/wiki/Category:DSiWare游戏 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:森下佳子劇本作品](https://zh.wikipedia.org/wiki/Category:森下佳子劇本作品 "wikilink")
-[Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink")
-[Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
-[Category:香取慎吾](https://zh.wikipedia.org/wiki/Category:香取慎吾 "wikilink")
-[Category:绫濑遥](https://zh.wikipedia.org/wiki/Category:绫濑遥 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:日本推理劇](https://zh.wikipedia.org/wiki/Category:日本推理劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:腦](https://zh.wikipedia.org/wiki/Category:腦 "wikilink") [Category:偽科學](https://zh.wikipedia.org/wiki/Category:偽科學 "wikilink") [Category:DSiWare游戏](https://zh.wikipedia.org/wiki/Category:DSiWare游戏 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:森下佳子劇本作品](https://zh.wikipedia.org/wiki/Category:森下佳子劇本作品 "wikilink") [Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink") [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink") [Category:香取慎吾](https://zh.wikipedia.org/wiki/Category:香取慎吾 "wikilink") [Category:绫濑遥](https://zh.wikipedia.org/wiki/Category:绫濑遥 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")

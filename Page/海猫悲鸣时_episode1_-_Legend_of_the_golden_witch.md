@@ -1,7 +1,4 @@
-《**海貓悲鳴時 episode1 - Legend of the golden
-witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th
-Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》以及由此改编的[漫画的首作](https://zh.wikipedia.org/wiki/漫画 "wikilink")。游戏於2007年夏季的[Comic
-Market](../Page/Comic_Market.md "wikilink")72發表。
+《**海貓悲鳴時 episode1 - Legend of the golden witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》以及由此改编的[漫画的首作](https://zh.wikipedia.org/wiki/漫画 "wikilink")。游戏於2007年夏季的[Comic Market](../Page/Comic_Market.md "wikilink")72發表。
 
 ## 概要
 
@@ -67,17 +64,10 @@ Market](../Page/Comic_Market.md "wikilink")72發表。
 
   - [动画官网](http://umineko.tv/web/index.html)
 
-  - [Yahoo！ケータイで『うみねこのなく頃に
-    Ep1』が配信スタート](http://dengekionline.com/elem/000/000/171/171376/)
+  - [Yahoo！ケータイで『うみねこのなく頃に Ep1』が配信スタート](http://dengekionline.com/elem/000/000/171/171376/)
 
-  - [『うみねこのなく頃に
-    Episode1』が「Yahoo\!ケータイ」より配信開始！](http://news.livedoor.com/article/detail/4206239/)
+  - [『うみねこのなく頃に Episode1』が「Yahoo\!ケータイ」より配信開始！](http://news.livedoor.com/article/detail/4206239/)
 
   - [「うみねこのなく頃に」がiOS向けアプリになって登場。「Episode1」配信中](http://www.4gamer.net/games/209/G020971/20130329025/)
 
-[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink")
-[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")
-[Category:GANGAN_POWERED](https://zh.wikipedia.org/wiki/Category:GANGAN_POWERED "wikilink")
+[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink") [Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink") [Category:GANGAN_POWERED](https://zh.wikipedia.org/wiki/Category:GANGAN_POWERED "wikilink")

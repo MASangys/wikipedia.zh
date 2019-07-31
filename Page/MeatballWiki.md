@@ -1,12 +1,10 @@
-**MeatballWiki**是一個專門記載[線上社群](https://zh.wikipedia.org/wiki/線上社群 "wikilink")、网络[文化及](../Page/文化.md "wikilink")[超媒體的](https://zh.wikipedia.org/wiki/超媒體 "wikilink")[Wiki網站](../Page/Wiki.md "wikilink")\[1\]。
+**MeatballWiki**是一個專門記載[線上社群](https://zh.wikipedia.org/wiki/線上社群 "wikilink")、网络[文化](../Page/文化.md "wikilink")及[超媒體的](https://zh.wikipedia.org/wiki/超媒體 "wikilink")[Wiki](../Page/Wiki.md "wikilink")網站\[1\]。
 
-根据创办人苏尼尔·沙（Sunir
-Shah），它经营“[UseModWiki的破解版](../Page/UseModWiki.md "wikilink")”\[2\]。截至2012年，“MeatballWiki的代码不能被人解读，也失去了控制”\[3\]。截至2013年9月，经过数个破坏攻击和一段时间停机后，该[Wiki网站为只读](../Page/Wiki.md "wikilink")。
+根据创办人苏尼尔·沙（Sunir Shah），它经营“[UseModWiki](../Page/UseModWiki.md "wikilink")的破解版”\[2\]。截至2012年，“MeatballWiki的代码不能被人解读，也失去了控制”\[3\]。截至2013年9月，经过数个破坏攻击和一段时间停机后，该[Wiki](../Page/Wiki.md "wikilink")网站为只读。
 
 ## 创始
 
-2000年，MeatballWiki由来自加拿大[安大略的](https://zh.wikipedia.org/wiki/安大略 "wikilink")[网络论坛管理员苏尼尔](../Page/网络论坛.md "wikilink")·沙创办，使用克利福德·亚当斯（Clifford
-Adams）之互联网域名usemod.com\[4\]。创办时作为讨论关于[沃德·坎宁安的](../Page/沃德·坎宁安.md "wikilink")及其运作，这都在WikiWikiWeb的范围之外。苏尼尔·沙在WikiWikiWeb描述MeatballWiki时指出：“关于如何运行社群本身的社群讨论应该在这里留下。MeatballWiki鼓励关于社群的抽象讨论或客观的分析。”\[5\]
+2000年，MeatballWiki由来自加拿大[安大略的](https://zh.wikipedia.org/wiki/安大略 "wikilink")[网络论坛](../Page/网络论坛.md "wikilink")管理员苏尼尔·沙创办，使用克利福德·亚当斯（Clifford Adams）之互联网域名usemod.com\[4\]。创办时作为讨论关于[沃德·坎宁安](../Page/沃德·坎宁安.md "wikilink")的及其运作，这都在WikiWikiWeb的范围之外。苏尼尔·沙在WikiWikiWeb描述MeatballWiki时指出：“关于如何运行社群本身的社群讨论应该在这里留下。MeatballWiki鼓励关于社群的抽象讨论或客观的分析。”\[5\]
 
 ## 与Wiki社群的关系
 
@@ -29,21 +27,13 @@ MeatballWiki成员创建了一个由Wiki组成“巴士旅程”。\[9\]
 
   - [官方网站](https://zh.wikipedia.org/wiki/MeatBall:MeatballWiki "wikilink")
 
-[Category:2000年建立的网站](https://zh.wikipedia.org/wiki/Category:2000年建立的网站 "wikilink")
-[Category:Wiki社群](https://zh.wikipedia.org/wiki/Category:Wiki社群 "wikilink")
+[Category:2000年建立的网站](https://zh.wikipedia.org/wiki/Category:2000年建立的网站 "wikilink") [Category:Wiki社群](https://zh.wikipedia.org/wiki/Category:Wiki社群 "wikilink")
 
-1.  Ebersbach, Anja; Glaser, Markus; Heigl, Richard; Warta, Alexander
-    (2008). Wiki: Web Collaboration (2nd ed.).
-    [施普林格科学+商业媒体](../Page/施普林格科学+商业媒体.md "wikilink").
-    p. 430. [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink")
-    [978-3-540-68173-1](https://zh.wikipedia.org/wiki/Special:BookSources/978-3-540-68173-1 "wikilink").
-    "a community that has reached cult status and that focuses on
-    virtual communities, network culture and hypermedia"
+1.  Ebersbach, Anja; Glaser, Markus; Heigl, Richard; Warta, Alexander (2008). Wiki: Web Collaboration (2nd ed.). [施普林格科学+商业媒体](../Page/施普林格科学+商业媒体.md "wikilink"). p. 430. [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") [978-3-540-68173-1](https://zh.wikipedia.org/wiki/Special:BookSources/978-3-540-68173-1 "wikilink"). "a community that has reached cult status and that focuses on virtual communities, network culture and hypermedia"
 
 2.
 
-3.  [SunirShah, Thu
-    Jul 12 02:51:11 2012](http://meatballwiki.org/wiki/RecentChanges).
+3.  [SunirShah, Thu Jul 12 02:51:11 2012](http://meatballwiki.org/wiki/RecentChanges).
 
 4.
 

@@ -10,7 +10,4 @@
 
 [Category:女神轉生系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神轉生系列電子遊戲 "wikilink")
 
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink")
-[Category:Xbox独占游戏](https://zh.wikipedia.org/wiki/Category:Xbox独占游戏 "wikilink")
+[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink") [Category:Xbox独占游戏](https://zh.wikipedia.org/wiki/Category:Xbox独占游戏 "wikilink")

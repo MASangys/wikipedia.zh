@@ -10,24 +10,18 @@
 
 1.  GNOME維基：https://wiki.gnome.org/Apps/
 2.  維基百科模版
-3.  維基百科分類
-    [:分類:GNOME](https://zh.wikipedia.org/wiki/:分類:GNOME "wikilink")
+3.  維基百科分類 [:分類:GNOME](https://zh.wikipedia.org/wiki/:分類:GNOME "wikilink")
 
 應該無須再建立只是「GNOME程式」的頁面，此頁已根據各GTK+程式的功能而分門別類。
 
 ## 用戶界面及程式啓動器
 
-  - [GNOME Shell](../Page/GNOME_Shell.md "wikilink") – 於GNOME
-    3.0開始發佈的[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")
+  - [GNOME Shell](../Page/GNOME_Shell.md "wikilink") – 於GNOME 3.0開始發佈的[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")
   - [Cinnamon](../Page/Cinnamon.md "wikilink") – GNOME Shell的衍生桌面環境
-  - [GNOME Panel](https://zh.wikipedia.org/wiki/GNOME_Panel "wikilink")
-    – 程式啓動器
-  - [Maynard](../Page/Wayland.md "wikilink") –
-    原本為[樹莓派編寫的桌面環境](https://zh.wikipedia.org/wiki/樹莓派 "wikilink")
-  - [GNOME Panel](https://zh.wikipedia.org/wiki/GNOME_Panel "wikilink")
-    以及其衍生軟件
-  - [gnome-pie](https://zh.wikipedia.org/wiki/gnome-pie "wikilink") –
-    \[2\]一個圓形的程式啓動器
+  - [GNOME Panel](https://zh.wikipedia.org/wiki/GNOME_Panel "wikilink") – 程式啓動器
+  - [Maynard](../Page/Wayland.md "wikilink") – 原本為[樹莓派編寫的桌面環境](https://zh.wikipedia.org/wiki/樹莓派 "wikilink")
+  - [GNOME Panel](https://zh.wikipedia.org/wiki/GNOME_Panel "wikilink") 以及其衍生軟件
+  - [gnome-pie](https://zh.wikipedia.org/wiki/gnome-pie "wikilink") – \[2\]一個圓形的程式啓動器
 
 ## 教育軟件
 
@@ -53,8 +47,7 @@
 
   - – 簡單屏幕保護配置
 
-  - [Alacarte](https://zh.wikipedia.org/wiki/Alacarte "wikilink") –
-    選單編輯器
+  - [Alacarte](https://zh.wikipedia.org/wiki/Alacarte "wikilink") – 選單編輯器
 
 ### 用戶工具
 
@@ -66,8 +59,7 @@
 
   - [File Roller](../Page/File_Roller.md "wikilink") – 壓縮檔管理器
 
-  - [Getting Things
-    GNOME\!](https://zh.wikipedia.org/wiki/GTD "wikilink") – 個人工作管理軟件
+  - [Getting Things GNOME\!](https://zh.wikipedia.org/wiki/GTD "wikilink") – 個人工作管理軟件
 
   - – 用戶操作重播軟件的GNOME圖像界面
 
@@ -79,8 +71,7 @@
 
   - – 檔案管理器
 
-  - [Nautilus](https://zh.wikipedia.org/wiki/Nautilus "wikilink") –
-    檔案管理器
+  - [Nautilus](https://zh.wikipedia.org/wiki/Nautilus "wikilink") – 檔案管理器
 
   - – 模擬終端機
 
@@ -106,8 +97,7 @@
 
 ## 遊戲
 
-  - [GNOME遊戲](https://zh.wikipedia.org/wiki/GNOME遊戲 "wikilink") –
-    一系列用[Vala](../Page/Vala.md "wikilink")和C寫成的遊戲
+  - [GNOME遊戲](https://zh.wikipedia.org/wiki/GNOME遊戲 "wikilink") – 一系列用[Vala](../Page/Vala.md "wikilink")和C寫成的遊戲
 
 ### [抽象策略遊戲](../Page/抽象策略遊戲.md "wikilink")
 
@@ -119,17 +109,14 @@
 
   - – 踩地雷
 
-  - [gbrainy](https://zh.wikipedia.org/wiki/gbrainy "wikilink") –
-    [智力題遊戲](https://zh.wikipedia.org/wiki/智力題 "wikilink")
+  - [gbrainy](https://zh.wikipedia.org/wiki/gbrainy "wikilink") – [智力題遊戲](https://zh.wikipedia.org/wiki/智力題 "wikilink")
 
 ## 圖像
 
 ### 圖像處理
 
-  - [GIMP](../Page/GIMP.md "wikilink") –
-    [點陣圖圖像編輯器](https://zh.wikipedia.org/wiki/點陣圖圖像編輯器 "wikilink")
-  - [Inkscape](../Page/Inkscape.md "wikilink") –
-    [向量圖形編輯器](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")
+  - [GIMP](../Page/GIMP.md "wikilink") – [點陣圖圖像編輯器](https://zh.wikipedia.org/wiki/點陣圖圖像編輯器 "wikilink")
+  - [Inkscape](../Page/Inkscape.md "wikilink") – [向量圖形編輯器](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")
   - [MyPaint](../Page/MyPaint.md "wikilink") – 點陣圖圖像編輯器
   - [Pinta](../Page/Pinta.md "wikilink") – 點陣圖圖像編輯器
 
@@ -143,8 +130,7 @@
 
 ### 網頁瀏覽器
 
-  - [Web](https://zh.wikipedia.org/wiki/Web_\(瀏覽器\) "wikilink") –
-    GNOME預設瀏覽器
+  - [Web](https://zh.wikipedia.org/wiki/Web_\(瀏覽器\) "wikilink") – GNOME預設瀏覽器
 
   - [Midori](../Page/Midori.md "wikilink") – xfce預設瀏覽器
 
@@ -168,9 +154,7 @@
 
 ### 多方聯絡軟件
 
-  - [Empathy](../Page/Empathy.md "wikilink") –
-    即時通訊軟件、視像會議instant-messaging client, VoIP and
-    videoconferencing
+  - [Empathy](../Page/Empathy.md "wikilink") – 即時通訊軟件、視像會議instant-messaging client, VoIP and videoconferencing
 
   - [Emesene](../Page/Emesene.md "wikilink") – 即時通訊軟件
 
@@ -186,8 +170,7 @@
 
   - [Deluge](../Page/Deluge.md "wikilink") - BitTorrent用戶端
 
-  - [BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")
-    用戶端
+  - [BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink") 用戶端
 
   - [Transmission](../Page/Transmission.md "wikilink") – BitTorrent用戶端
 
@@ -217,15 +200,13 @@
 
   - – 字典
 
-  - [Novell Evolution](../Page/Novell_Evolution.md "wikilink") –
-    電郵、聯絡人和行事曆客戶端
+  - [Novell Evolution](../Page/Novell_Evolution.md "wikilink") – 電郵、聯絡人和行事曆客戶端
 
   - – [光學字符識別客戶端](https://zh.wikipedia.org/wiki/光學字符識別 "wikilink")
 
 ## 軟件開發工具
 
-  - [Anjuta](../Page/Anjuta.md "wikilink") –
-    [整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")
+  - [Anjuta](../Page/Anjuta.md "wikilink") – [整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")
 
   - Builder – 一個正在開發的整合開發環境\[4\]
 
@@ -245,8 +226,7 @@
 
   - – 整合開發環境
 
-  - [Zenity](https://zh.wikipedia.org/wiki/Zenity "wikilink") –
-    用Shell指令碼以創建GTK+對話框
+  - [Zenity](https://zh.wikipedia.org/wiki/Zenity "wikilink") – 用Shell指令碼以創建GTK+對話框
 
   - – 網頁設計編輯
 
@@ -254,9 +234,7 @@
 
   - – 整合開發環境
 
-  - [Gtranslator](https://zh.wikipedia.org/wiki/Gtranslator "wikilink")
-    –
-    使用[gettext的軟件國際化程式](https://zh.wikipedia.org/wiki/gettext "wikilink")
+  - [Gtranslator](https://zh.wikipedia.org/wiki/Gtranslator "wikilink") – 使用[gettext的軟件國際化程式](https://zh.wikipedia.org/wiki/gettext "wikilink")
 
   - [poedit](https://zh.wikipedia.org/wiki/poedit "wikilink") – gettext
 
@@ -267,8 +245,7 @@
 ### 光盤刻錄
 
   - [Brasero](../Page/Brasero.md "wikilink") – 光盤刻錄程式
-  - [GnomeBaker](https://zh.wikipedia.org/wiki/GnomeBaker "wikilink") –
-    光盤刻錄程式
+  - [GnomeBaker](https://zh.wikipedia.org/wiki/GnomeBaker "wikilink") – 光盤刻錄程式
 
 ### 光盤抓取儲存
 
@@ -296,8 +273,7 @@
 
 ### 影片播放器
 
-  - [Totem](https://zh.wikipedia.org/wiki/Totem "wikilink") –
-    GNOME預設影片播放器
+  - [Totem](https://zh.wikipedia.org/wiki/Totem "wikilink") – GNOME預設影片播放器
 
 ### 影片編輯
 
@@ -328,11 +304,7 @@
   - [GNOME/GTK+軟件庫](http://gnomefiles.org/)
   - [GTK+軟件庫](http://www.ibiblio.org/gtk/)
 
-[Category:GNOME应用程序](https://zh.wikipedia.org/wiki/Category:GNOME应用程序 "wikilink")
-[Category:使用GTK+的软件](https://zh.wikipedia.org/wiki/Category:使用GTK+的软件 "wikilink")
-[Category:使用Cairo的軟體](https://zh.wikipedia.org/wiki/Category:使用Cairo的軟體 "wikilink")
-[Category:使用GStreamer的軟體](https://zh.wikipedia.org/wiki/Category:使用GStreamer的軟體 "wikilink")
-[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
+[Category:GNOME应用程序](https://zh.wikipedia.org/wiki/Category:GNOME应用程序 "wikilink") [Category:使用GTK+的软件](https://zh.wikipedia.org/wiki/Category:使用GTK+的软件 "wikilink") [Category:使用Cairo的軟體](https://zh.wikipedia.org/wiki/Category:使用Cairo的軟體 "wikilink") [Category:使用GStreamer的軟體](https://zh.wikipedia.org/wiki/Category:使用GStreamer的軟體 "wikilink") [Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
 
 1.
 2.

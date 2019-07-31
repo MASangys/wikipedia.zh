@@ -65,8 +65,7 @@
 ## 主题曲
 
   - 片尾曲：《》（）
-      - 作詞 - 　作曲 編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")　演唱 -
-        [山野智子](../Page/山野智子.md "wikilink")
+      - 作詞 - 　作曲 編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")　演唱 - [山野智子](../Page/山野智子.md "wikilink")
 
 ## 其他
 
@@ -74,8 +73,4 @@
 
 ## 外部链接
 
-[Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink")
-[Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink")
-[Category:渡邊步電影](https://zh.wikipedia.org/wiki/Category:渡邊步電影 "wikilink")
-[Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink")
-[Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")
+[Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink") [Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink") [Category:渡邊步電影](https://zh.wikipedia.org/wiki/Category:渡邊步電影 "wikilink") [Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink") [Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")

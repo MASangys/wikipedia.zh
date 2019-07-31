@@ -2,8 +2,7 @@
 
 ## 情节简介
 
-堅叔與兩個伙計慘淡經營一間汽車行，堅叔的侄子阿備是一個頭腦靈活的年輕人。一次偶然的機會，阿備迷戀上了鄰居十三妹的一個學生寶珠。為了達到目的，他帶領堅叔和兩個伙計與十三妹的學生們共同籌拍了一部短劇，不料演出後卻大受人們的喜愛。這時，電視台看上了阿備的才智，決定將他納入旗下。而阿備的愛情又會何去何從呢？
-……
+堅叔與兩個伙計慘淡經營一間汽車行，堅叔的侄子阿備是一個頭腦靈活的年輕人。一次偶然的機會，阿備迷戀上了鄰居十三妹的一個學生寶珠。為了達到目的，他帶領堅叔和兩個伙計與十三妹的學生們共同籌拍了一部短劇，不料演出後卻大受人們的喜愛。這時，電視台看上了阿備的才智，決定將他納入旗下。而阿備的愛情又會何去何從呢？ ……
 
 ## 演員表
 
@@ -51,9 +50,4 @@
   -
   -
   -
-[Category:王晶電影](https://zh.wikipedia.org/wiki/Category:王晶電影 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:粤语電影](https://zh.wikipedia.org/wiki/Category:粤语電影 "wikilink")
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")
-[Category:香港爱情片](https://zh.wikipedia.org/wiki/Category:香港爱情片 "wikilink")
-[Category:香港喜剧片](https://zh.wikipedia.org/wiki/Category:香港喜剧片 "wikilink")
+[Category:王晶電影](https://zh.wikipedia.org/wiki/Category:王晶電影 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:粤语電影](https://zh.wikipedia.org/wiki/Category:粤语電影 "wikilink") [Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink") [Category:香港爱情片](https://zh.wikipedia.org/wiki/Category:香港爱情片 "wikilink") [Category:香港喜剧片](https://zh.wikipedia.org/wiki/Category:香港喜剧片 "wikilink")

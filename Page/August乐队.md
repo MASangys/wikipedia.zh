@@ -8,9 +8,7 @@ August乐队源于电影《[愛在暹邏](https://zh.wikipedia.org/wiki/愛在�
 
 主唱：Pchy
 
-[Pchy](../Page/维特维斯特·海伦亚沃恩酷.md "wikilink")：全名为维特维斯特·海伦亚沃恩酷（泰文：วิชญ์วิสิฐ
-หิรัญวงษ์กุล；英语：Witwisit
-Hirunyawongkul），乐队主唱，亦是乐队的灵魂人物，曾创作出《同行》、《你能感受吗》等歌曲，凭借在《愛在暹邏》中的表演获得泰国国家电影协会奖最佳男主角提名，成为该奖历史上获得提名的最年轻的演员。
+[Pchy](../Page/维特维斯特·海伦亚沃恩酷.md "wikilink")：全名为维特维斯特·海伦亚沃恩酷（泰文：วิชญ์วิสิฐ หิรัญวงษ์กุล；英语：Witwisit Hirunyawongkul），乐队主唱，亦是乐队的灵魂人物，曾创作出《同行》、《你能感受吗》等歌曲，凭借在《愛在暹邏》中的表演获得泰国国家电影协会奖最佳男主角提名，成为该奖历史上获得提名的最年轻的演员。
 
 Pchy 1989年7月20日生，就读于泰国法政大学大众新闻传播系
 
@@ -118,17 +116,11 @@ TAW（鼓手），1988年12月17日，就读于泰国玛希隆大学爵士音乐
 
 ## August在台灣
 
-August在電影《愛在暹邏》（The Love of
-Siam）的影響下，在台灣的知名度大增。因此2009年8月15日在台灣，August舉行了第一場[August
-oh\!gust\!台灣演唱會](https://zh.wikipedia.org/wiki/August_oh!gust!台灣演唱會 "wikilink")。
+August在電影《愛在暹邏》（The Love of Siam）的影響下，在台灣的知名度大增。因此2009年8月15日在台灣，August舉行了第一場[August oh\!gust\!台灣演唱會](https://zh.wikipedia.org/wiki/August_oh!gust!台灣演唱會 "wikilink")。
 
-在2010年7月August
-Band參加了第十一屆[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")2010.07.09\~11的演出，其演出時間為2010年7月11日16:00\~16:40演出。這也是貢寮國際海洋音樂祭第一次有泰國樂團參加演出。
+在2010年7月August Band參加了第十一屆[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")2010.07.09\~11的演出，其演出時間為2010年7月11日16:00\~16:40演出。這也是貢寮國際海洋音樂祭第一次有泰國樂團參加演出。
 
-於2011年，Augest受[耶邏表演工作坊邀請再度來台開演唱會](https://zh.wikipedia.org/wiki/耶邏表演工作坊 "wikilink")，演出日期為同年3月26日定名為[Love
-ALl \*
-gust演唱會](https://zh.wikipedia.org/wiki/Love_ALl_*_gust演唱會 "wikilink")，這也是他們來台灣開的第二場演唱會，當中他們同樣也表演了中文歌曲，而這兩場演唱會地點同樣都是在台北市內湖區的[自由廣場](https://zh.wikipedia.org/wiki/自由廣場 "wikilink")，其主辦單位[耶邏表演工作坊也就是之前舉辦](https://zh.wikipedia.org/wiki/耶邏表演工作坊 "wikilink")[August
-oh\!gust\!台灣演唱會集資粉絲代表所成立的工作室](https://zh.wikipedia.org/wiki/August_oh!gust!台灣演唱會 "wikilink")。
+於2011年，Augest受[耶邏表演工作坊邀請再度來台開演唱會](https://zh.wikipedia.org/wiki/耶邏表演工作坊 "wikilink")，演出日期為同年3月26日定名為[Love ALl \* gust演唱會](https://zh.wikipedia.org/wiki/Love_ALl_*_gust演唱會 "wikilink")，這也是他們來台灣開的第二場演唱會，當中他們同樣也表演了中文歌曲，而這兩場演唱會地點同樣都是在台北市內湖區的[自由廣場](https://zh.wikipedia.org/wiki/自由廣場 "wikilink")，其主辦單位[耶邏表演工作坊也就是之前舉辦](https://zh.wikipedia.org/wiki/耶邏表演工作坊 "wikilink")[August oh\!gust\!台灣演唱會集資粉絲代表所成立的工作室](https://zh.wikipedia.org/wiki/August_oh!gust!台灣演唱會 "wikilink")。
 
 ## August在中国
 
@@ -142,7 +134,6 @@ oh\!gust\!台灣演唱會集資粉絲代表所成立的工作室](https://zh.wik
 
   - [August乐队的博客](http://vr-august.hi5.com)（hi5网站在中国大陆遭封锁，大陆用户可能无法访问）
 
-  - [August Band
-    Taiwan台灣論壇](https://web.archive.org/web/20111124074443/http://www.augustband.tw/bbs/index.php)
+  - [August Band Taiwan台灣論壇](https://web.archive.org/web/20111124074443/http://www.augustband.tw/bbs/index.php)
 
 [Category:男子演唱團體](https://zh.wikipedia.org/wiki/Category:男子演唱團體 "wikilink")

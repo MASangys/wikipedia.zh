@@ -1,19 +1,8 @@
-**印度語言轉寫**（**I**ndian languages **TRANS**literation 簡寫為
-**ITRANS**）是[印度文字](https://zh.wikipedia.org/wiki/婆羅米系文字 "wikilink")，特別但不限於[天城文](https://zh.wikipedia.org/wiki/天城文 "wikilink")（用於[印度語](https://zh.wikipedia.org/wiki/印度語 "wikilink")、[馬拉地語](https://zh.wikipedia.org/wiki/馬拉地語 "wikilink")、[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")、[尼泊爾語](https://zh.wikipedia.org/wiki/尼泊爾語 "wikilink")、[信德語和其他語言](https://zh.wikipedia.org/wiki/信德語 "wikilink")）的
-[ASCII](../Page/ASCII.md "wikilink")
-碼[轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")。它由 Avinash
-Chopde 開發。最新版本 ITRANS 5.30 是2001年七月的發布。ITRANS 在這個版本已經穩定了。
+**印度語言轉寫**（**I**ndian languages **TRANS**literation 簡寫為 **ITRANS**）是[印度文字](https://zh.wikipedia.org/wiki/婆羅米系文字 "wikilink")，特別但不限於[天城文](https://zh.wikipedia.org/wiki/天城文 "wikilink")（用於[印度語](https://zh.wikipedia.org/wiki/印度語 "wikilink")、[馬拉地語](https://zh.wikipedia.org/wiki/馬拉地語 "wikilink")、[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")、[尼泊爾語](https://zh.wikipedia.org/wiki/尼泊爾語 "wikilink")、[信德語和其他語言](https://zh.wikipedia.org/wiki/信德語 "wikilink")）的 [ASCII](../Page/ASCII.md "wikilink") 碼[轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")。它由 Avinash Chopde 開發。最新版本 ITRANS 5.30 是2001年七月的發布。ITRANS 在這個版本已經穩定了。
 
-ITRANS 有時用來編碼印度的電子文本 - 它的範圍比
-[Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
-的天城體轉寫方案要廣闊，在很大程度上但非完全和它保持一致。隨著
-[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") 的廣泛實現，傳統
-[IAST](../Page/IAST.md "wikilink") 日益廣泛的用於了電子文本。
+ITRANS 有時用來編碼印度的電子文本 - 它的範圍比 [Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink") 的天城體轉寫方案要廣闊，在很大程度上但非完全和它保持一致。隨著 [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") 的廣泛實現，傳統 [IAST](../Page/IAST.md "wikilink") 日益廣泛的用於了電子文本。
 
-類似
-[Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
-方案，ITRANS
-[羅馬化不使用在日常英語中計算機鍵盤上找不到的變音符號](https://zh.wikipedia.org/wiki/羅馬化 "wikilink")，它非常容易讀取和錄入。
+類似 [Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink") 方案，ITRANS [羅馬化不使用在日常英語中計算機鍵盤上找不到的變音符號](https://zh.wikipedia.org/wiki/羅馬化 "wikilink")，它非常容易讀取和錄入。
 
 ITRANS 計算機程序包還確保可以從羅馬文字自動轉換成印度文字。
 
@@ -69,25 +58,13 @@ ITRANS 計算機程序包還確保可以從羅馬文字自動轉換成印度文�
 ## 外部連結
 
   - [ITRANS Official site](http://www.aczoom.com/itrans/)
-  - [HiTrans - Online ITRANS to Unicode converter with scheme
-    extensions](http://www.giitaayan.com/x.htm)
-  - [Online Interface to ITRANS - ITRANS to GIF, PS, PDF and
-    HTML](http://209.6.178.5:8080/cgi-bin/webitrans.pl)
-  - [site on ITRANS and religious content in
-    ITRANS](http://trchari.tripod.com/itrans1.html)
-  - [View Unicode Hindi through Roman transliteration (ITRNS
-    scheme)](http://ccat.sas.upenn.edu/plc/tamilweb/trans/itransunicode.html)
-  - [Downloadable ITRANS to Unicode
-    transformer](http://ash.banerjee.googlepages.com/dev2uni.html) A
-    simple Java applet demo, with source code. Uses a simple table based
-    extendable algorithm.
-  - [Google Indic
-    Transliteration](http://www.google.com/transliterate/indic/) Online
-    Indic Transliteration by Google
-  - [1](https://archive.is/20051217201509/http://devendraparakh.port5.com/)
-    Devendra Parakh's Hindi word processor site
-  - [Itranslator 2003 as a freeware from Onkarananda Ashram
-    Himalayas](http://www.omkarananda-ashram.org/Sanskrit/Itranslt.html)
+  - [HiTrans - Online ITRANS to Unicode converter with scheme extensions](http://www.giitaayan.com/x.htm)
+  - [Online Interface to ITRANS - ITRANS to GIF, PS, PDF and HTML](http://209.6.178.5:8080/cgi-bin/webitrans.pl)
+  - [site on ITRANS and religious content in ITRANS](http://trchari.tripod.com/itrans1.html)
+  - [View Unicode Hindi through Roman transliteration (ITRNS scheme)](http://ccat.sas.upenn.edu/plc/tamilweb/trans/itransunicode.html)
+  - [Downloadable ITRANS to Unicode transformer](http://ash.banerjee.googlepages.com/dev2uni.html) A simple Java applet demo, with source code. Uses a simple table based extendable algorithm.
+  - [Google Indic Transliteration](http://www.google.com/transliterate/indic/) Online Indic Transliteration by Google
+  - [1](https://archive.is/20051217201509/http://devendraparakh.port5.com/) Devendra Parakh's Hindi word processor site
+  - [Itranslator 2003 as a freeware from Onkarananda Ashram Himalayas](http://www.omkarananda-ashram.org/Sanskrit/Itranslt.html)
 
-[Category:转写系统](https://zh.wikipedia.org/wiki/Category:转写系统 "wikilink")
-[Category:梵語](https://zh.wikipedia.org/wiki/Category:梵語 "wikilink")
+[Category:转写系统](https://zh.wikipedia.org/wiki/Category:转写系统 "wikilink") [Category:梵語](https://zh.wikipedia.org/wiki/Category:梵語 "wikilink")

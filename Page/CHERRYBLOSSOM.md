@@ -17,9 +17,7 @@
 
 2006年2月，上個月離開搖滾樂團「[midnightPumpkin](https://zh.wikipedia.org/wiki/midnightPumpkin "wikilink")」的83，為了組成新的樂團開始尋找成員。同年6月MEEKO、MAICO加入，組成CHERRYBLOSSOM。2007年2月，KUPPA、加入；2009年3月，KUPPA離開。
 
-2006年3月製作獨立專輯。同年7月25日發表專輯《Riskygirl》。12月，「DIVE TO
-WORLD」作為電視動畫《[家庭教師HITMAN
-REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")》第3期片頭曲，才算是主要的初登場。
+2006年3月製作獨立專輯。同年7月25日發表專輯《Riskygirl》。12月，「DIVE TO WORLD」作為電視動畫《[家庭教師HITMAN REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")》第3期片頭曲，才算是主要的初登場。
 
 2010年6月16日於BEST ALBUM發售當天舉行live並解散。
 
@@ -32,8 +30,7 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")》第3期
       - 電視動畫《家庭教師HITMAN REBORN\!》第3期片頭曲
 2.  **春風LOVER SONG**
       - 2008年3月12日發售、商品番號PCCA-02637
-      - 綜藝節目《[音樂戰士 MUSIC
-        FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")》第42期片頭曲
+      - 綜藝節目《[音樂戰士 MUSIC FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")》第42期片頭曲
 3.  **CYCLE**
       - 2008年7月30日發售、商品番號PCCA-02699
       - 電視動畫《家庭教師HITMAN REBORN\!》第8期片尾曲
@@ -62,8 +59,7 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")》第3期
 
 ## 外部連結
 
-  - [CHERRYBLOSSOM Official
-    Site](https://web.archive.org/web/20081016035839/http://www.cherryb.jp/hp/)
+  - [CHERRYBLOSSOM Official Site](https://web.archive.org/web/20081016035839/http://www.cherryb.jp/hp/)
 
   - [CHERRYBLOSSOM（波麗佳音官方網站）](https://web.archive.org/web/20100710042702/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30636500)
 

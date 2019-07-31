@@ -1,6 +1,4 @@
-**Cmidi**（網址為：http://www.cmidi.com
-及https://web.archive.org/web/20100328060454/http://www.cmidi.org.hk/
-），[香港](../Page/香港.md "wikilink")著名原創音樂網站。
+**Cmidi**（網址為：http://www.cmidi.com 及https://web.archive.org/web/20100328060454/http://www.cmidi.org.hk/ ），[香港](../Page/香港.md "wikilink")著名原創音樂網站。
 
 Cmidi於2000年創立，原為[香港](../Page/香港.md "wikilink")最大型香港流行曲[MIDI](../Page/MIDI.md "wikilink")的網站，2005年因應歌曲版權問題及站內歌曲創作趨勢，遂轉型為原創音樂網站。轉型後數月，當時為網絡唱作人[KellyJackie便於Cmidi發表](https://zh.wikipedia.org/wiki/KellyJackie "wikilink")〈[他約我去迪士尼](https://zh.wikipedia.org/wiki/他約我去迪士尼 "wikilink")〉一曲而瞬即成名，同時令網絡歌曲風氣盛行。
 
@@ -32,8 +30,7 @@ Cmidi因2006年網站轉為現時版面時安排未妥當，流失部分會員�
 
 外在環境方面，隨著大型[討論區如](https://zh.wikipedia.org/wiki/討論區 "wikilink")[高登討論區](../Page/高登討論區.md "wikilink")及[香港討論區](../Page/香港討論區.md "wikilink")主導了香港網上討論文化，以及[Facebook](../Page/Facebook.md "wikilink")的興起，亦取代[討論區上友際聯繫的功能](https://zh.wikipedia.org/wiki/討論區 "wikilink")，對Cmidi的經營都造成壓力。
 
-自2008年起，Cmidi伺服器偶然出現問題，以致無法瀏覽網站。2009年5月一個週末更嘗試連續超過60小時無法瀏覽，使瀏覽人流盡失。2009年8月，Cmidi伺服器系統文字及圖像式樣出現問題，以致不能正常瀏覽，問題至今仍未解決\[2\]；原來僅有的會員亦對瀏覽Cmidi失去興趣。於2009年9月學生開課後，每天整體會員發帖量只維持數十篇甚至不足10篇\[3\]，Cmidi討論區上因而有結束經營的討論\[4\]。而
-Cmidi 網站於2013年5月2日正式關閉\[5\]。
+自2008年起，Cmidi伺服器偶然出現問題，以致無法瀏覽網站。2009年5月一個週末更嘗試連續超過60小時無法瀏覽，使瀏覽人流盡失。2009年8月，Cmidi伺服器系統文字及圖像式樣出現問題，以致不能正常瀏覽，問題至今仍未解決\[2\]；原來僅有的會員亦對瀏覽Cmidi失去興趣。於2009年9月學生開課後，每天整體會員發帖量只維持數十篇甚至不足10篇\[3\]，Cmidi討論區上因而有結束經營的討論\[4\]。而 Cmidi 網站於2013年5月2日正式關閉\[5\]。
 
 ### 媒體報導
 
@@ -43,13 +40,9 @@ Cmidi 網站於2013年5月2日正式關閉\[5\]。
 
 [kellyjackie成名後](https://zh.wikipedia.org/wiki/kellyjackie "wikilink")，《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》、《[明報](../Page/明報.md "wikilink")》、《[電腦廣場](https://zh.wikipedia.org/wiki/電腦廣場 "wikilink")》、《[南華早報](../Page/南華早報.md "wikilink")》、《[星島日報](../Page/星島日報.md "wikilink")》及《[香港經濟日報](../Page/香港經濟日報.md "wikilink")》先後報導時，均提及其原先於Cmidi發表歌曲，並推介Cmidi為發表原創歌曲網站。
 
-其後，《[壹本便利](../Page/壹本便利.md "wikilink")》、《[Yes\!](../Page/Yes!.md "wikilink")》、《[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink")》\[7\]\[8\]
-及《[新Monday](../Page/新Monday.md "wikilink")》\[9\]
-均於其專題報導中列舉Cmidi為著名網絡音樂創作平台。
+其後，《[壹本便利](../Page/壹本便利.md "wikilink")》、《[Yes\!](../Page/Yes!.md "wikilink")》、《[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink")》\[7\]\[8\] 及《[新Monday](../Page/新Monday.md "wikilink")》\[9\] 均於其專題報導中列舉Cmidi為著名網絡音樂創作平台。
 
-2006年，[香港電台](../Page/香港電台.md "wikilink")電台節目《**原林部落**》\[10\]\[11\]、《[e個世界](https://zh.wikipedia.org/wiki/e個世界 "wikilink")》及電視節目《**藝文部落**》\[12\]
-均邀請Cmidi音樂人訪問並作專題報導，其中《[e個世界](https://zh.wikipedia.org/wiki/e個世界 "wikilink")》\[13\]
-更先後八次邀請Cmidi作訪問。
+2006年，[香港電台](../Page/香港電台.md "wikilink")電台節目《**原林部落**》\[10\]\[11\]、《[e個世界](https://zh.wikipedia.org/wiki/e個世界 "wikilink")》及電視節目《**藝文部落**》\[12\] 均邀請Cmidi音樂人訪問並作專題報導，其中《[e個世界](https://zh.wikipedia.org/wiki/e個世界 "wikilink")》\[13\] 更先後八次邀請Cmidi作訪問。
 
 近年，一些專題如[香港城市大學](../Page/香港城市大學.md "wikilink")刊物《Cityprint》仍介紹Cmidi為推廣原創音樂之網站\[14\]。
 
@@ -111,11 +104,9 @@ Cmidi現時由「Cmidi原創音樂協會」管理。協會設有委員會，負�
       - 曾被網民誤傳為[鄧麗欣](../Page/鄧麗欣.md "wikilink")之歌曲〈**盡興**〉，事實並無此歌名。
   - 〈**愛與不愛**〉
       - 作曲：**不大奀**　作詞：**尹星雨**　演繹：**尹星雨**
-      - 同時為另一平台[SINA](https://zh.wikipedia.org/wiki/SINA "wikilink")
-        iSONG獲選為「星級歌曲」\[16\]。
+      - 同時為另一平台[SINA](https://zh.wikipedia.org/wiki/SINA "wikilink") iSONG獲選為「星級歌曲」\[16\]。
   - 〈**漂流記**〉
-      - 作曲：[Alex
-        Lung](https://zh.wikipedia.org/wiki/Alex_Lung "wikilink")　作詞：**尹星雨**　演繹：**尹星雨**
+      - 作曲：[Alex Lung](https://zh.wikipedia.org/wiki/Alex_Lung "wikilink")　作詞：**尹星雨**　演繹：**尹星雨**
       - 曾被電台DJ及樂評人**黃志淙**於《[新Monday](../Page/新Monday.md "wikilink")》專題推介\[17\]
   - 〈**狠心告終**〉
       - 作曲：**幻影**　作詞：**風泠**　演繹：**蔚淇**
@@ -157,61 +148,35 @@ Cmidi現時由「Cmidi原創音樂協會」管理。協會設有委員會，負�
   - [Cmidi.com](http://www.cmidi.com)
   - [Cmidi網站第五版本](http://www.cmidi.com/d5)
   - [Cmidi昔日歌曲MIDI下載區](http://www.cmidi.com/d5/midix.php)
-  - [蘋果日報 - 生活優「遊」 - 20050518 - 界
-    Band友玩出成名路](http://www1.appledaily.atnext.com//template/apple_sub/art_main.cfm?iss_id=20050518&sec_id=38165&subsec_id=4276867&art_id=4892749)
-  - [原創空間《採盲點》── FEATURE
-    STORY 001〈網絡創作新趨勢──網絡‧音樂大趨勢〉](http://hkczone.org/hotspot/2006/060321_feature001c.htm)
-  - [\*\~Royals\~\*成員資料 -
-    |\<ellyJ@ckie](http://www.kellyjackie.hk/royals.php)
-  - [YouTube - 陳美詩 @ 棄物無聲 -
-    第十九屆CASH流行曲創作大賽](http://www.youtube.com/watch?v=6_ugaKfQKO4)
-  - [YouTube - TV 薛凱琪 -
-    趕@CASH](http://www.youtube.com/watch?v=539X6tydFcU)
+  - [蘋果日報 - 生活優「遊」 - 20050518 - 界 Band友玩出成名路](http://www1.appledaily.atnext.com//template/apple_sub/art_main.cfm?iss_id=20050518&sec_id=38165&subsec_id=4276867&art_id=4892749)
+  - [原創空間《採盲點》── FEATURE STORY 001〈網絡創作新趨勢──網絡‧音樂大趨勢〉](http://hkczone.org/hotspot/2006/060321_feature001c.htm)
+  - [\*\~Royals\~\*成員資料 - |\<ellyJ@ckie](http://www.kellyjackie.hk/royals.php)
+  - [YouTube - 陳美詩 @ 棄物無聲 - 第十九屆CASH流行曲創作大賽](http://www.youtube.com/watch?v=6_ugaKfQKO4)
+  - [YouTube - TV 薛凱琪 - 趕@CASH](http://www.youtube.com/watch?v=539X6tydFcU)
   - [Cmidi Facebook 專頁](http://facebook.com/cmidi.hk)
 
-[Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink")
-[Category:香港網絡文化](https://zh.wikipedia.org/wiki/Category:香港網絡文化 "wikilink")
-[Category:香港網上論壇](https://zh.wikipedia.org/wiki/Category:香港網上論壇 "wikilink")
+[Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink") [Category:香港網絡文化](https://zh.wikipedia.org/wiki/Category:香港網絡文化 "wikilink") [Category:香港網上論壇](https://zh.wikipedia.org/wiki/Category:香港網上論壇 "wikilink")
 
 1.  [本站正式被結束營運](http://www.facebook.com/cmidi.hk)
-2.  [Cmidi » 本站新聞 »
-    關於近日瀏覽本站時出現的問題](http://www.cmidi.com/coma/news.php?eid=43)
-3.  [Cmidi » 討論區 » 談天說地 »
-    每日發帖量再創歷史新低](http://www.cmidi.com/coma/viewthread.php?tid=32029)
-4.  [Cmidi » 討論區 » 談天說地 » 如果Cmidi「結業」,
-    你心情如何?](http://www.cmidi.com/coma/viewthread.php?tid=31427)
+2.  [Cmidi » 本站新聞 » 關於近日瀏覽本站時出現的問題](http://www.cmidi.com/coma/news.php?eid=43)
+3.  [Cmidi » 討論區 » 談天說地 » 每日發帖量再創歷史新低](http://www.cmidi.com/coma/viewthread.php?tid=32029)
+4.  [Cmidi » 討論區 » 談天說地 » 如果Cmidi「結業」, 你心情如何?](http://www.cmidi.com/coma/viewthread.php?tid=31427)
 5.  [本站正式被結束營運](http://www.facebook.com/cmidi.hk)
 6.  [明報 原創音樂天地](http://ftp.cmidi.com/news_cut/cmidi_news.jpg)
-7.  [東方日報 20060223
-    潮爆網絡歌手玩過界](http://ftp.cmidi.com/news_cut/starrain2.jpg)
-8.  [東方日報 20060223
-    潮爆網絡歌手玩過界](http://ftp.cmidi.com/news_cut/starrain4.jpg)
+7.  [東方日報 20060223 潮爆網絡歌手玩過界](http://ftp.cmidi.com/news_cut/starrain2.jpg)
+8.  [東方日報 20060223 潮爆網絡歌手玩過界](http://ftp.cmidi.com/news_cut/starrain4.jpg)
 9.  [新Monday 20060804 4大網絡創作平台](http://ftp.cmidi.com/news_cut/monday.jpg)
-10. [Cmidi » 本站新聞 »
-    香港電台節目《原林部落》重溫](http://www.cmidi.com/coma/news.php?eid=2)
-11. [原 林 部 落 （ 一 、 二 、 五 台 聯 播
-    ）](http://www.rthk.org.hk/rthk/radio1/MidNight_Blogger/20060120.html)
-12. [Cmidi » 本站新聞 »
-    香港電台電視節目《藝文部落》節目重溫](http://www.cmidi.com/coma/news.php?eid=3)
-13. [Cmidi » 本站新聞 » Cmidi 音樂人參與港台 2 台《e
-    個世界》訪問節目重溫](http://www.cmidi.com/coma/news.php?eid=17)
-14. [城大 Cityprint Vol.22.4 P.68
-    Nov 2007](http://www.cmidi.com/coma/attachments/cmidi_eC2F8MPqJymJ.jpg)
-15. [斷絕來往 - Cookie Music Cookie Word - 曲奇 - Yahoo\!
-    BLOG](http://hk.myblog.yahoo.com/jw!I4W8RaGRHxin4u6fAu3OyKUuM_Ck_A--/article?mid=5)
-16. [SINA
-    iSong－愛與不愛](http://isong.sina.com.hk/cgi-bin/is/song/iframe/lyric.cgi?id=139)
+10. [Cmidi » 本站新聞 » 香港電台節目《原林部落》重溫](http://www.cmidi.com/coma/news.php?eid=2)
+11. [原 林 部 落 （ 一 、 二 、 五 台 聯 播 ）](http://www.rthk.org.hk/rthk/radio1/MidNight_Blogger/20060120.html)
+12. [Cmidi » 本站新聞 » 香港電台電視節目《藝文部落》節目重溫](http://www.cmidi.com/coma/news.php?eid=3)
+13. [Cmidi » 本站新聞 » Cmidi 音樂人參與港台 2 台《e 個世界》訪問節目重溫](http://www.cmidi.com/coma/news.php?eid=17)
+14. [城大 Cityprint Vol.22.4 P.68 Nov 2007](http://www.cmidi.com/coma/attachments/cmidi_eC2F8MPqJymJ.jpg)
+15. [斷絕來往 - Cookie Music Cookie Word - 曲奇 - Yahoo\! BLOG](http://hk.myblog.yahoo.com/jw!I4W8RaGRHxin4u6fAu3OyKUuM_Ck_A--/article?mid=5)
+16. [SINA iSong－愛與不愛](http://isong.sina.com.hk/cgi-bin/is/song/iframe/lyric.cgi?id=139)
 17. [新Monday．Nokia破格搞作－全城搞樂作](http://ftp.cmidi.com/news_cut/Lydia%2002.jpg)
-18. [Mushake -
-    專業樂評](http://mushake.youth-online.com/professoinalcomment/professionalcomment_detail.php?sid=42)
-19. [我寫我事
-    學界作詞人展實力](http://www.hkedcity.net/article/8campus/lyricfinal/_2.phtml?print=1)
-
-20. [The 19th CASH Song Writers Quest Final Entries
-    Announced](http://www.cash.org.hk/en/content/web.do?id=8080808014fa15fb011545f98b87001b)
-21. [香港環保歌/保育歌湧現(二) -
-    亞洲時報](http://www.atchinese.com/index.php?option=com_content&task=view&id=40805&Itemid=91)
-22. [Cmidi » 本站新聞 » Cmidi 音樂人幻影及風泠晉身 Cash
-    流行曲創作大賽決賽](http://www.cmidi.com/coma/news.php?eid=30)
-23. [2007 November 02 - 陳美詩Blog -
-    tvb.com](http://blog.tvb.com/macychan/2007/11/02/)
+18. [Mushake - 專業樂評](http://mushake.youth-online.com/professoinalcomment/professionalcomment_detail.php?sid=42)
+19. [我寫我事 學界作詞人展實力](http://www.hkedcity.net/article/8campus/lyricfinal/_2.phtml?print=1)
+20. [The 19th CASH Song Writers Quest Final Entries Announced](http://www.cash.org.hk/en/content/web.do?id=8080808014fa15fb011545f98b87001b)
+21. [香港環保歌/保育歌湧現(二) - 亞洲時報](http://www.atchinese.com/index.php?option=com_content&task=view&id=40805&Itemid=91)
+22. [Cmidi » 本站新聞 » Cmidi 音樂人幻影及風泠晉身 Cash 流行曲創作大賽決賽](http://www.cmidi.com/coma/news.php?eid=30)
+23. [2007 November 02 - 陳美詩Blog - tvb.com](http://blog.tvb.com/macychan/2007/11/02/)

@@ -1,5 +1,4 @@
-《**嫌疑犯X的獻身**》（）是[日本作家](../Page/日本.md "wikilink")[東野圭吾的](../Page/東野圭吾.md "wikilink")[長篇](../Page/長篇小說.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，也是「伽利略系列」的第三本小說。2003年起以「**嫌疑犯X**」為題於《》連載。2005年8月於[文藝春秋出版](../Page/文藝春秋.md "wikilink")，出版的時候改成現在的標題。2011年英文版出版，譯名《**The
-Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語言翻譯代理的作品。
+《**嫌疑犯X的獻身**》（）是[日本](../Page/日本.md "wikilink")作家[東野圭吾](../Page/東野圭吾.md "wikilink")的[長篇](../Page/長篇小說.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，也是「伽利略系列」的第三本小說。2003年起以「**嫌疑犯X**」為題於《》連載。2005年8月於[文藝春秋](../Page/文藝春秋.md "wikilink")出版，出版的時候改成現在的標題。2011年英文版出版，譯名《**The Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語言翻譯代理的作品。
 
 電影版於2008年10月4日在日本上映，並由與電視劇《[神探伽利略](../Page/神探伽利略.md "wikilink")》相同的演員主演。同年12月24日在台灣上映。该片亦被提名[2009年香港電影金像獎](https://zh.wikipedia.org/wiki/2009年香港電影金像獎 "wikilink")[最佳亞洲電影獎](https://zh.wikipedia.org/wiki/2009年香港電影金像獎#最佳亞洲電影 "wikilink")。
 
@@ -231,7 +230,7 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 <!-- end list -->
 
   -
-    在[赤坂當過](../Page/赤坂.md "wikilink")[陪酒女郎](https://zh.wikipedia.org/wiki/陪酒女郎 "wikilink")，之後在「弁天亭」擔任店員。（在電影中是擔任美里便當店的店長）。第一段婚姻失敗，與第二任丈夫富樫離婚後過著顛沛流離的生活。對總是連累美里感到很抱歉，工藤是她當陪酒女郎時的朋友。
+    在[赤坂](../Page/赤坂.md "wikilink")當過[陪酒女郎](https://zh.wikipedia.org/wiki/陪酒女郎 "wikilink")，之後在「弁天亭」擔任店員。（在電影中是擔任美里便當店的店長）。第一段婚姻失敗，與第二任丈夫富樫離婚後過著顛沛流離的生活。對總是連累美里感到很抱歉，工藤是她當陪酒女郎時的朋友。
 
 <!-- end list -->
 
@@ -251,23 +250,15 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 
 ## 書籍評價
 
-  - 2006年
-    第134回「[直木三十五獎](https://zh.wikipedia.org/wiki/直木三十五獎#第131回～第140回 "wikilink")」　<span style="color:#ff5d22">獲獎</span>
-  - 2006年
-    第6回「[本格推理大獎](../Page/本格推理大獎.md "wikilink")」　<span style="color:#ff5d22">獲獎</span>
-  - 2012年
-    「[2012年版週刊文春百大推理小說](https://zh.wikipedia.org/wiki/週刊文春百大推理小說#2012年版 "wikilink")」　<span style="color:#ff5d22">上榜</span>
-  - 2006年 「[週刊文春推理小說 Best
-    10](../Page/週刊文春推理小說_Best_10.md "wikilink")」　第1名　<span style="color:#ff5d22">獲獎</span>
-  - 2006年
-    「[這本推理小說真厲害！](../Page/這本推理小說真厲害！.md "wikilink")」　第1名　<span style="color:#ff5d22">獲獎</span>
-  - 2006年 「[本格推理小說 Best
-    10](../Page/本格推理小說_Best_10.md "wikilink")」　第1名　<span style="color:#ff5d22">獲獎</span>
-  - 2012年 「[愛倫·坡獎](../Page/愛倫·坡獎.md "wikilink")」（Edgar Awards）最佳小說獎（Best
-    Novel）　入圍\[1\]
+  - 2006年 第134回「[直木三十五獎](https://zh.wikipedia.org/wiki/直木三十五獎#第131回～第140回 "wikilink")」　<span style="color:#ff5d22">獲獎</span>
+  - 2006年 第6回「[本格推理大獎](../Page/本格推理大獎.md "wikilink")」　<span style="color:#ff5d22">獲獎</span>
+  - 2012年 「[2012年版週刊文春百大推理小說](https://zh.wikipedia.org/wiki/週刊文春百大推理小說#2012年版 "wikilink")」　<span style="color:#ff5d22">上榜</span>
+  - 2006年 「[週刊文春推理小說 Best 10](../Page/週刊文春推理小說_Best_10.md "wikilink")」　第1名　<span style="color:#ff5d22">獲獎</span>
+  - 2006年 「[這本推理小說真厲害！](../Page/這本推理小說真厲害！.md "wikilink")」　第1名　<span style="color:#ff5d22">獲獎</span>
+  - 2006年 「[本格推理小說 Best 10](../Page/本格推理小說_Best_10.md "wikilink")」　第1名　<span style="color:#ff5d22">獲獎</span>
+  - 2012年 「[愛倫·坡獎](../Page/愛倫·坡獎.md "wikilink")」（Edgar Awards）最佳小說獎（Best Novel）　入圍\[1\]
   - 2012年 「」（Barry Award）最佳新人獎（Best First Novel）　入圍\[2\]
-  - 2012年
-    「[美國圖書館協會最推薦書籍](../Page/美國圖書館協會.md "wikilink")」-懸疑類　<span style="color:#ff5d22">上榜</span>\[3\]
+  - 2012年 「[美國圖書館協會](../Page/美國圖書館協會.md "wikilink")最推薦書籍」-懸疑類　<span style="color:#ff5d22">上榜</span>\[3\]
 
 <div align="center">
 
@@ -298,7 +289,7 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 
 ## 「本格」推理論戰
 
-《嫌疑犯X的獻身》在2005年出版的本格推理小說中脫穎而出，獲得2006年的「本格推理小說Best10」的第一名。對此推理作家[二階堂黎人在](../Page/二階堂黎人.md "wikilink")[自己的網站上](https://web.archive.org/web/20120627141525/http://homepage1.nifty.com/NIKAIDOU/)提出了疑問。
+《嫌疑犯X的獻身》在2005年出版的本格推理小說中脫穎而出，獲得2006年的「本格推理小說Best10」的第一名。對此推理作家[二階堂黎人](../Page/二階堂黎人.md "wikilink")在[自己的網站上](https://web.archive.org/web/20120627141525/http://homepage1.nifty.com/NIKAIDOU/)提出了疑問。
 
 二階堂認為《嫌疑犯X的獻身》的作者在敘述故事過程中有意隱藏推理的線索，完全不能滿足成為[本格推理小說所要求的條件](https://zh.wikipedia.org/wiki/本格派推理小説 "wikilink")（因此不應該獲得「本格推理小說Best10」第一名）。圍繞這話題眾多作家和評論家在《[EQMM日本版](https://zh.wikipedia.org/wiki/艾勒里·昆恩推理雜誌 "wikilink")》\[4\]上發表了自己的意見，之後展開論戰。過程中雖然二階堂被指其觀點有多處矛盾和判斷錯誤，但二階堂仍然堅持己見。
 
@@ -310,11 +301,11 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 
 ### 2008年日本版
 
-2008年10月4日上映的日本電影，導演[西谷弘](https://zh.wikipedia.org/wiki/西谷弘 "wikilink")，[福山雅治和](../Page/福山雅治.md "wikilink")[柴崎幸主演](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")。
+2008年10月4日上映的日本電影，導演[西谷弘](https://zh.wikipedia.org/wiki/西谷弘 "wikilink")，[福山雅治](../Page/福山雅治.md "wikilink")和[柴崎幸主演](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")。
 
 ### 2012年韓國版
 
-《**嫌疑犯X**》（韓語：****，英語：****），為2012年10月18日上映的韓國改編電影，导演为[方恩珍](https://zh.wikipedia.org/wiki/方恩珍 "wikilink")，[柳承範](../Page/柳承範.md "wikilink")、[李枖原和](../Page/李枖原.md "wikilink")[趙震雄主演](../Page/趙震雄.md "wikilink")。
+《**嫌疑犯X**》（韓語：****，英語：****），為2012年10月18日上映的韓國改編電影，导演为[方恩珍](https://zh.wikipedia.org/wiki/方恩珍 "wikilink")，[柳承範](../Page/柳承範.md "wikilink")、[李枖原](../Page/李枖原.md "wikilink")和[趙震雄](../Page/趙震雄.md "wikilink")主演。
 
 #### 主演（韓國版）
 
@@ -335,24 +326,19 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 
 ## 舞台劇
 
-由「演劇集團Caramelbox」編成舞台劇。編劇和導演由[成井豐擔任](https://zh.wikipedia.org/wiki/成井豐 "wikilink")。從2009年4月18日起至4月26日在「新神戶
-Oriental
-Theatre」公演，同年4月30日至5月24日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[池袋的](../Page/池袋.md "wikilink")「Sunshine劇場」公演。
+由「演劇集團Caramelbox」編成舞台劇。編劇和導演由[成井豐擔任](https://zh.wikipedia.org/wiki/成井豐 "wikilink")。從2009年4月18日起至4月26日在「新神戶 Oriental Theatre」公演，同年4月30日至5月24日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[池袋](../Page/池袋.md "wikilink")的「Sunshine劇場」公演。
 
 2012年同樣由「演劇集團Caramelbox」5月12日至6月3日在「Sunshine劇場」演出，同年6月7日至6月12日在大阪「[梅田藝術劇場](../Page/梅田藝術劇場.md "wikilink")」的「シアター・ドラマシティ」廳演出，6月15～16日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[北千住的](https://zh.wikipedia.org/wiki/北千住 "wikilink")「」演出。
 
 ### 主演
 
-  - 石神哲哉 -
-    [西川浩幸](https://zh.wikipedia.org/wiki/西川浩幸 "wikilink")／[近江谷太朗](https://zh.wikipedia.org/wiki/近江谷太朗 "wikilink")(2012年版)
+  - 石神哲哉 - [西川浩幸](https://zh.wikipedia.org/wiki/西川浩幸 "wikilink")／[近江谷太朗](https://zh.wikipedia.org/wiki/近江谷太朗 "wikilink")(2012年版)
   - 花岡靖子 - [西牟田惠](https://zh.wikipedia.org/wiki/西牟田惠 "wikilink")
   - 花岡美里 - [實川貴美子](https://zh.wikipedia.org/wiki/實川貴美子 "wikilink")
   - 湯川學 - [岡田達也](https://zh.wikipedia.org/wiki/岡田達也 "wikilink")
-  - 草薙俊平 -
-    [齋藤步](https://zh.wikipedia.org/wiki/齋藤步 "wikilink")／[小林正寛](https://zh.wikipedia.org/wiki/小林正寛 "wikilink")(2012年版)
+  - 草薙俊平 - [齋藤步](https://zh.wikipedia.org/wiki/齋藤步 "wikilink")／[小林正寛](https://zh.wikipedia.org/wiki/小林正寛 "wikilink")(2012年版)
   - 間宮刑警 - [川原和久](https://zh.wikipedia.org/wiki/川原和久 "wikilink")
-  - 米沢小代子 -
-    [大森美紀子](https://zh.wikipedia.org/wiki/大森美紀子 "wikilink")／[坂口理惠](https://zh.wikipedia.org/wiki/坂口理惠 "wikilink")(2012年版)
+  - 米沢小代子 - [大森美紀子](https://zh.wikipedia.org/wiki/大森美紀子 "wikilink")／[坂口理惠](https://zh.wikipedia.org/wiki/坂口理惠 "wikilink")(2012年版)
   - 金子芹香/山邊曜子 - [前田綾](https://zh.wikipedia.org/wiki/前田綾 "wikilink")
   - 工藤邦明 - [三浦剛](https://zh.wikipedia.org/wiki/三浦剛 "wikilink")
   - 岸谷由紀夫 - [筒井俊作](https://zh.wikipedia.org/wiki/筒井俊作 "wikilink")
@@ -368,30 +354,15 @@ Theatre」公演，同年4月30日至5月24日在[東京](https://zh.wikipedia.o
 
   - [](http://www.bunshun.co.jp/galileo/yougisha-x/index.html)
 
-  - [直木賞獲獎者一覧 -
-    文藝春秋官方網站](http://www.bunshun.co.jp/award/naoki/list1.htm)
+  - [直木賞獲獎者一覧 - 文藝春秋官方網站](http://www.bunshun.co.jp/award/naoki/list1.htm)
 
   - [豆瓣讀書：嫌疑人X的獻身](http://book.douban.com/subject/4117922/)
 
 ## 參考資料及註釋
 
-[Category:2003年日本小說](https://zh.wikipedia.org/wiki/Category:2003年日本小說 "wikilink")
-[Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink")
-[Category:文藝春秋](https://zh.wikipedia.org/wiki/Category:文藝春秋 "wikilink")
-[Category:偵探伽利略系列](https://zh.wikipedia.org/wiki/Category:偵探伽利略系列 "wikilink")
-[Category:直木三十五獎](https://zh.wikipedia.org/wiki/Category:直木三十五獎 "wikilink")
-[Category:東野圭吾小說改編電影](https://zh.wikipedia.org/wiki/Category:東野圭吾小說改編電影 "wikilink")
-[Category:懸疑小說改編電影](https://zh.wikipedia.org/wiki/Category:懸疑小說改編電影 "wikilink")
-[Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
-[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink")
-[Category:韓國懸疑片](https://zh.wikipedia.org/wiki/Category:韓國懸疑片 "wikilink")
-[Category:2010年代懸疑片](https://zh.wikipedia.org/wiki/Category:2010年代懸疑片 "wikilink")
+[Category:2003年日本小說](https://zh.wikipedia.org/wiki/Category:2003年日本小說 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:文藝春秋](https://zh.wikipedia.org/wiki/Category:文藝春秋 "wikilink") [Category:偵探伽利略系列](https://zh.wikipedia.org/wiki/Category:偵探伽利略系列 "wikilink") [Category:直木三十五獎](https://zh.wikipedia.org/wiki/Category:直木三十五獎 "wikilink") [Category:東野圭吾小說改編電影](https://zh.wikipedia.org/wiki/Category:東野圭吾小說改編電影 "wikilink") [Category:懸疑小說改編電影](https://zh.wikipedia.org/wiki/Category:懸疑小說改編電影 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:韓國懸疑片](https://zh.wikipedia.org/wiki/Category:韓國懸疑片 "wikilink") [Category:2010年代懸疑片](https://zh.wikipedia.org/wiki/Category:2010年代懸疑片 "wikilink")
 
-1.  [Mystery Writers of America Announce Edgar Award
-    Nominees](http://litreactor.com/news/mystery-writers-of-america-announce-edgar-award-nominees)
-2.  [The nominees and winners for the 2012 Barry
-    Awards](http://www.examiner.com/article/the-nominees-and-winners-for-the-2012-barry-awards)
-3.  [ALA.org » RUSA » RUSA Awards » The Reading List » The 2012
-    List](http://www.ala.org/rusa/awards/readinglist/2012)
-4.  1941年在[美國創刊的月刊](https://zh.wikipedia.org/wiki/美國 "wikilink")[推理小說](../Page/推理小說.md "wikilink")[雜誌Ellery](https://zh.wikipedia.org/wiki/雜誌 "wikilink")
-    Queen's Mystery Magazine、簡稱EQMM，有日文版。
+1.  [Mystery Writers of America Announce Edgar Award Nominees](http://litreactor.com/news/mystery-writers-of-america-announce-edgar-award-nominees)
+2.  [The nominees and winners for the 2012 Barry Awards](http://www.examiner.com/article/the-nominees-and-winners-for-the-2012-barry-awards)
+3.  [ALA.org » RUSA » RUSA Awards » The Reading List » The 2012 List](http://www.ala.org/rusa/awards/readinglist/2012)
+4.  1941年在[美國創刊的月刊](https://zh.wikipedia.org/wiki/美國 "wikilink")[推理小說](../Page/推理小說.md "wikilink")[雜誌Ellery](https://zh.wikipedia.org/wiki/雜誌 "wikilink") Queen's Mystery Magazine、簡稱EQMM，有日文版。

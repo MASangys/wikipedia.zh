@@ -1,6 +1,4 @@
-**Eiffel 65**
-是一支来自[意大利城市](../Page/意大利.md "wikilink")[都灵的](../Page/都灵.md "wikilink")3人音乐组合。他们主要以[电子乐](../Page/电子乐.md "wikilink")、[eurodance](https://zh.wikipedia.org/wiki/eurodance "wikilink")、[italodance的风格为主](https://zh.wikipedia.org/wiki/italodance "wikilink")。最为有名的曲目是：《Blue
-(Da Ba Dee)》。
+**Eiffel 65** 是一支来自[意大利](../Page/意大利.md "wikilink")城市[都灵](../Page/都灵.md "wikilink")的3人音乐组合。他们主要以[电子乐](../Page/电子乐.md "wikilink")、[eurodance](https://zh.wikipedia.org/wiki/eurodance "wikilink")、[italodance的风格为主](https://zh.wikipedia.org/wiki/italodance "wikilink")。最为有名的曲目是：《Blue (Da Ba Dee)》。
 
 ## 成员
 
@@ -50,8 +48,7 @@
   - *Contact*（2001年7月）
   - *Eiffel 65*（2003年6月）
   - *Eiffel 65 - Special Edition*（2004年3月）
-  - *Crash Test 01*（2006年10月）- als [Bloom
-    06](https://zh.wikipedia.org/wiki/Bloom_06 "wikilink")
+  - *Crash Test 01*（2006年10月）- als [Bloom 06](https://zh.wikipedia.org/wiki/Bloom_06 "wikilink")
 
 ## 专辑排行
 
@@ -65,9 +62,7 @@
 
 ## 链接
 
-  - <https://web.archive.org/web/20080827165206/http://www.bloom06.com/>
-    Bloom 06官方主页
+  - <https://web.archive.org/web/20080827165206/http://www.bloom06.com/> Bloom 06官方主页
   - <http://www.bloom06.ucoz.ru> Bloom 06 Best Fan-Site 官方主页
 
-[Category:意大利音乐](https://zh.wikipedia.org/wiki/Category:意大利音乐 "wikilink")
-[Category:Dance音乐](https://zh.wikipedia.org/wiki/Category:Dance音乐 "wikilink")
+[Category:意大利音乐](https://zh.wikipedia.org/wiki/Category:意大利音乐 "wikilink") [Category:Dance音乐](https://zh.wikipedia.org/wiki/Category:Dance音乐 "wikilink")

@@ -1,7 +1,4 @@
-**NIGHTMARE**
-（），日本[視覺系](../Page/視覺系.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")（Visual
-Rock）。2000年於仙台組成，簡稱メア。
-另一個樂隊[仙台貨物](../Page/仙台貨物.md "wikilink")即是ナイトメア組成，但成員皆不承認。現屬[艾迴音樂旗下藝人](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")。
+**NIGHTMARE** （），日本[視覺系](../Page/視覺系.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")（Visual Rock）。2000年於仙台組成，簡稱メア。 另一個樂隊[仙台貨物](../Page/仙台貨物.md "wikilink")即是ナイトメア組成，但成員皆不承認。現屬[艾迴音樂旗下藝人](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")。
 
 ## 成員
 
@@ -38,17 +35,10 @@ Rock）。2000年於仙台組成，簡稱メア。
   - 2003年12月25日發行成為主流樂團之後的第一張專輯「Ultimate Circus」。
   - 之後一直到2006年為止，在**日本クラウン**旗下的期間，一共發行了8張單曲、3張專輯、1張精選以及5張DVD（在轉移到**バップ**旗下之後，**日本クラウン**還替他們發行了1張精選跟2張DVD）。
   - 之後，2006年轉移到**「バップ」**(Vap)旗下。
-  - 跳槽唱片公司之後隨即發行單曲「the
-    WORLD/アルミナ」，成為**[日本電視系動畫](../Page/日本電視台.md "wikilink")**「**DEATH
-    NOTE(死亡筆記本)**」的主題曲，單曲發售前，鼓手RUKA就已經接受「DEATH
-    NOTE(死亡筆記本)」的連載周刊「[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")」（[集英社](../Page/集英社.md "wikilink")刊）的訪談。這首歌首次登場就奪下日本公信榜第五名的好成績，也是Nightmare第一次打進前10名。而後也在富士電視台的音樂節目「[HEY\!HEY\!HEY\!MUSIC
-    CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")」上演出。
-  - 隔年發行包含這首單曲的專輯「the WORLD
-    Ruler」，在公信榜上一登場就獲得第6名的紀錄，之後的單曲「レゾンデートル」也成為同系列動畫『[CLAYMORE](https://zh.wikipedia.org/wiki/CLAYMORE "wikilink")』的主題曲，在公信榜上一登場就獲得第3名，是Nightmare首次打入前3名。樂團的人氣有持續上升的趨勢。
+  - 跳槽唱片公司之後隨即發行單曲「the WORLD/アルミナ」，成為**[日本電視系動畫](../Page/日本電視台.md "wikilink")**「**DEATH NOTE(死亡筆記本)**」的主題曲，單曲發售前，鼓手RUKA就已經接受「DEATH NOTE(死亡筆記本)」的連載周刊「[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")」（[集英社](../Page/集英社.md "wikilink")刊）的訪談。這首歌首次登場就奪下日本公信榜第五名的好成績，也是Nightmare第一次打進前10名。而後也在富士電視台的音樂節目「[HEY\!HEY\!HEY\!MUSIC CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")」上演出。
+  - 隔年發行包含這首單曲的專輯「the WORLD Ruler」，在公信榜上一登場就獲得第6名的紀錄，之後的單曲「レゾンデートル」也成為同系列動畫『[CLAYMORE](https://zh.wikipedia.org/wiki/CLAYMORE "wikilink")』的主題曲，在公信榜上一登場就獲得第3名，是Nightmare首次打入前3名。樂團的人氣有持續上升的趨勢。
   - 2011年3月11日宣佈移籍現屬唱片公司avex。
-  - 音樂性方面，Nightmare的成員全部都一致公開表示受[X
-    JAPAN跟](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[LUNA
-    SEA的影響](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")，主要作曲者是由吉他手咲人與鼓手RUKAが擔任。作詞則是咲人、RUKA、跟主唱YOMI，最近柩也開始參與一些歌詞的創作。
+  - 音樂性方面，Nightmare的成員全部都一致公開表示受[X JAPAN跟](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[LUNA SEA的影響](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")，主要作曲者是由吉他手咲人與鼓手RUKAが擔任。作詞則是咲人、RUKA、跟主唱YOMI，最近柩也開始參與一些歌詞的創作。
   - 歌詞方面，從帶有社會批判到苦戀的內容都有，可說是範圍廣闊。另外，「わすれな草」跟「M-aria」是由RUKA作詞的歌曲，據說是描寫他真實的人生經歷。
   - Nightmare的曲風以小調和絃的曲子居多。其代表作包含**ジャイアニズム**系列，曲子的標題皆為**ジャイアニズム痛＝ジャイアニズム2**、**ジャイアニズム惨＝ジャイアニズム3**將數字轉換成漢字。一般認為**ジャイアニズム**系列的第一首作品就是**自傷少年**。
   - Nightmare是現場演唱功力很強的一個樂團，特別是特咲人的[速彈](https://zh.wikipedia.org/wiki/速彈 "wikilink")、[Tapping](https://zh.wikipedia.org/wiki/Tapping "wikilink")、[slapping等等的技巧非常卓越](https://zh.wikipedia.org/wiki/slapping "wikilink")，受到很高的評價。
@@ -56,12 +46,9 @@ Rock）。2000年於仙台組成，簡稱メア。
   - 2013年在法國舉辦的Japan Expo上演出，這也是Nightmare首次海外公演，開始了Nightmare接下來一連串的海外公演。
   - 新單曲「リライト」在Oricon公信榜獲得了第2名，這次的第2名也是樂團生涯的最高名次。
   - 2014年3月於美國Anime Matsuri演出。
-  - 2014年發行的專輯《TO BE OR NOT TO
-    BE》當中收錄的新曲〈TABOO〉和〈ドラスティカ〉將分別成為人氣小說及漫畫改編電影《奴隷区
-    僕と23人の奴隷》的主題曲和結尾曲。
+  - 2014年發行的專輯《TO BE OR NOT TO BE》當中收錄的新曲〈TABOO〉和〈ドラスティカ〉將分別成為人氣小說及漫畫改編電影《奴隷区 僕と23人の奴隷》的主題曲和結尾曲。
   - 2014年11月於上海舉辦的聖夜狂想祭與Mejibray、Royz、Lilith等視覺團一同演出。
-  - 接著11月19日推出的公演影像作品《『NIGHTMARE TOUR 2014 TO BE OR NOT TO BE：That is
-    the Question.』TOUR FINAL @ 東京国際フォーラムホールA》奪得了ORICON DVD音樂榜第一名
+  - 接著11月19日推出的公演影像作品《『NIGHTMARE TOUR 2014 TO BE OR NOT TO BE：That is the Question.』TOUR FINAL @ 東京国際フォーラムホールA》奪得了ORICON DVD音樂榜第一名
 
 ## MAJOR時期作品
 
@@ -847,24 +834,17 @@ Rock）。2000年於仙台組成，簡稱メア。
   - TOUR CPU 2004GHz 〜LIVE at NAKANO SUNPLAZA〜　（2005年3月16日）
   - 天下大暴走　(2005年12月21日)'''
   - TOUR 【anima】lism at Zepp Tokyo -2006.03.16-　（2006年6月28日）
-  - TOUR
-    2006【ジャイアニズム痛】＠[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")
-    HALL　（2007年1月1日）
+  - TOUR 2006【ジャイアニズム痛】＠[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink") HALL　（2007年1月1日）
   - VISION OF the WORLD RULER at 東京国際フォーラムA　（2007年9月12日）
   - 極東シンフォニー 〜the Five Stars Night〜 @BUDOKAN　（2008年3月12日）
   - TOUR 2008 Grand killer show＠東京国際フォーラム ホールA （2008年12月17日）
   - PARADE TOUR FINAL“MAJESTIC"@日本武道館　（2009年12月2日）
-  - NIGHTMARE 10th anniversary special act vol.1GIANIZM
-    〜天魔覆滅〜　（2010年8月25日）
-  - NIGHTMARE TOUR 2011-2012 Nightmarish reality TOUR FINAL
-    日本武道館　（2012年6月6日）
+  - NIGHTMARE 10th anniversary special act vol.1GIANIZM 〜天魔覆滅〜　（2010年8月25日）
+  - NIGHTMARE TOUR 2011-2012 Nightmarish reality TOUR FINAL 日本武道館　（2012年6月6日）
   - NIGHTMARE TOUR 2013「beautiful SCUMS」（2013年2月21日）
-  - NIGHTMARE TOUR 2014 TO BE OR NOT TO BE: THAT IS THE QUESTION TOUR
-    FINAL @ TOKYO INTERNATIONAL FORUM HALL A (2014年11月19日)
-  - NIGHTMARE 15th Anniversary Tour CARPE DIEMeme TOUR FINAL @ 豊洲PIT
-    (2015年10月28日)
-  - Historical〜The highest NIGHTMARE〜in Makuhari Messe＆Fury & the Beast
-    TOUR FINAL @YOYOGI NATIONAL STADIUM SECOND GYMNASIUM (2016年6月8日)
+  - NIGHTMARE TOUR 2014 TO BE OR NOT TO BE: THAT IS THE QUESTION TOUR FINAL @ TOKYO INTERNATIONAL FORUM HALL A (2014年11月19日)
+  - NIGHTMARE 15th Anniversary Tour CARPE DIEMeme TOUR FINAL @ 豊洲PIT (2015年10月28日)
+  - Historical〜The highest NIGHTMARE〜in Makuhari Messe＆Fury & the Beast TOUR FINAL @YOYOGI NATIONAL STADIUM SECOND GYMNASIUM (2016年6月8日)
 
 ### MUSIC CLIPS DVD
 
@@ -1174,33 +1154,27 @@ Rock）。2000年於仙台組成，簡稱メア。
   - 2009年 NIGHTMARE 10th anniversary special act vol.0 -BIRTHDAY-
   - 2010年 NIGHTMARE 10th anniversary special act vol.1 GIANIZM ～天魔覆滅～
   - 2010年 Request of "GIANIZM" the Tour
-  - 2010年 NIGHTMARE 10th ANNIVERSARY SPECIAL ACT VOL.2 re:START of
-    TELL\[ALL\]ISM
-  - 2010年 NIGHTMARE 10th ANNIVERSARY SPECIAL ACT VOL.3 Historical 〜The
-    highest NIGHTMARE〜
-  - 2010年 NIGHTMARE 10th ANNIVERSARY SPECIAL ACT FINAL Historical 〜The
-    highest NIGHTMARE〜in Makuhari Messe
+  - 2010年 NIGHTMARE 10th ANNIVERSARY SPECIAL ACT VOL.2 re:START of TELL\[ALL\]ISM
+  - 2010年 NIGHTMARE 10th ANNIVERSARY SPECIAL ACT VOL.3 Historical 〜The highest NIGHTMARE〜
+  - 2010年 NIGHTMARE 10th ANNIVERSARY SPECIAL ACT FINAL Historical 〜The highest NIGHTMARE〜in Makuhari Messe
   - 2011年 FCライブ
   - 2011年 Nightmare unexpected LIVE 「publish\!」
   - 2011年 NIGHTMARE Tour 2011 the time rewind to ZERO
   - 2011年 氣志團 Presents 極東ロックンロｰル･ハイスクール 〜ジャイアン vs ブタゴリラ〜
   - 2011年 NIGHTMARE Tour 2011 ZEPPELIN.
-  - 2011年 little HEARTS. 3rd Anniversary「MY little HEARTS. Special
-    Edition Vol.3」
+  - 2011年 little HEARTS. 3rd Anniversary「MY little HEARTS. Special Edition Vol.3」
   - 2011年 NIGHTMARE TOUR 2011-2012 Nightmarish reality
   - 2012年 NIGHTMARE TOUR 2011-2012 Nightmarish reality
   - 2012年 NIGHTMARE TOUR 2011-2012 Nightmarish reality TOUR FINAL 日本武道館
   - 2012年 NIGHTMARE　 Tour 2012 To Mimic The Past
   - 2012年 ナイトメア vs バロック「NATURAL BORN ERRORS」
   - 2012年 NIGHTMARE FC LIVE 2012「天下逆走」
-  - 2012年 little HEARTS.4th Anniversary 「MY little HEARTS.Special
-    Edition Vol.4」
+  - 2012年 little HEARTS.4th Anniversary 「MY little HEARTS.Special Edition Vol.4」
   - 2012年 NIGHTMARE TOUR 2012 FINAL「Deus ex machina」
   - 2013年 NIGHTMARE TOUR 2013「beautiful SCUMS」
   - 2013年 NIGHTMARE WINTER TOUR 2013 Dizzy is not Zozzy\!
   - 2014年 NIGHTMARE TOUR 2014「TO BE OR NOT TO BE:That is the Question.」
-  - 2014年 little HEARTS. 6th Anniversary「MY little HEARTS. Special
-    Edition Vol.6」
+  - 2014年 little HEARTS. 6th Anniversary「MY little HEARTS. Special Edition Vol.6」
   - 2014年 「聖夜狂想祭-Halloween Party-」@上海
   - 2014年 NIGHTMARE TOUR 2014 NAMELESS
   - 2015年 NIGHTMARE FC Limited Live 2015
@@ -1209,8 +1183,7 @@ Rock）。2000年於仙台組成，簡稱メア。
   - 2015年 SHOXX 創刊25周年記念 SHOCK WAVE 2015
   - 2015年 VAMPS主宰 HALLOWEEN PARTY 2015
   - 2015年 Fall of Eden
-  - 2015年 little HEARTS. 7th Anniversary MY little HEARTS. Special
-    Edition Vol.7
+  - 2015年 little HEARTS. 7th Anniversary MY little HEARTS. Special Edition Vol.7
   - 2015年 NIGHTMARE 15th Anniversary Tour Fury & the Beást
   - 2015年 FINAL2015 @高田馬場AREA
   - 2016年 NIGHTMARE FC LIMITED LIVE 2016
@@ -1221,8 +1194,7 @@ Rock）。2000年於仙台組成，簡稱メア。
 
 ### 電影
 
-  - [20世紀少年](https://zh.wikipedia.org/wiki/20世紀少年 "wikilink") 第1章（2008年）
-    - 飾演[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")
+  - [20世紀少年](https://zh.wikipedia.org/wiki/20世紀少年 "wikilink") 第1章（2008年） - 飾演[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")
 
 ### 電視‧電台廣播
 
@@ -1253,14 +1225,8 @@ Rock）。2000年於仙台組成，簡稱メア。
   - [ナイトメア Official Web Site](http://www.nightmare-web.com/pc/)
   - [VAP@WEB](http://www.vap.co.jp/nightmare/)
   - [avex Official Web Site](http://avexnet.or.jp/nightmare/index.html)
-  - [jack in the
-    box\!](https://web.archive.org/web/20090505181334/http://www.nack5.co.jp/sc/nightmare/)
+  - [jack in the box\!](https://web.archive.org/web/20090505181334/http://www.nack5.co.jp/sc/nightmare/)
 
-[Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink")
-[Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
+[Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink") [Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
 
 1.  與主流唱片公司簽下合約

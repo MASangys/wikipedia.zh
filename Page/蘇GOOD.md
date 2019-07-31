@@ -1,14 +1,10 @@
 《**蘇GOOD系列**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")首個外判予獨立製作公司所製作的飲食節目系列。
 
-節目由[蘇施黃](../Page/蘇施黃.md "wikilink")主持，共有兩輯、一輯賀年版及一集賀年特輯。第1輯由2008年9月22日至10月31日及2008年11月24日至2009年1月2日播出；賀年版由2009年1月19日至1月31日播出，名為《**SO
-FAR蘇GOOD過牛年**》（）；第2輯由2009年8月24日至10月2日及2010年2月22日至4月3日播出。第1輯和賀年版均於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")逢星期一至五晚上22:35-23:05同步播放；第2輯則於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")逢星期一至五晚上22:30-23:00同步播放，並於翌日凌晨01:45-02:10及04:35-05:00於[高清翡翠台](../Page/高清翡翠台.md "wikilink")重播，及於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。[高清翡翠台](../Page/高清翡翠台.md "wikilink")設有互動功能，使用有[MHEG-5](../Page/MHEG-5.md "wikilink")的[數碼接收器或](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")[IDTV即可使用](https://zh.wikipedia.org/wiki/IDTV "wikilink")。
+節目由[蘇施黃](../Page/蘇施黃.md "wikilink")主持，共有兩輯、一輯賀年版及一集賀年特輯。第1輯由2008年9月22日至10月31日及2008年11月24日至2009年1月2日播出；賀年版由2009年1月19日至1月31日播出，名為《**SO FAR蘇GOOD過牛年**》（）；第2輯由2009年8月24日至10月2日及2010年2月22日至4月3日播出。第1輯和賀年版均於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")逢星期一至五晚上22:35-23:05同步播放；第2輯則於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")逢星期一至五晚上22:30-23:00同步播放，並於翌日凌晨01:45-02:10及04:35-05:00於[高清翡翠台](../Page/高清翡翠台.md "wikilink")重播，及於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。[高清翡翠台](../Page/高清翡翠台.md "wikilink")設有互動功能，使用有[MHEG-5](../Page/MHEG-5.md "wikilink")的[數碼接收器或](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")[IDTV即可使用](https://zh.wikipedia.org/wiki/IDTV "wikilink")。
 
-另外，[翡翠台](../Page/翡翠台.md "wikilink")於2015年2月21日下午13:15-14:15播出節目《**SO
-FAR蘇GOOD過新年**》（），內容是由2009年《SO FAR蘇GOOD過牛年》中剪輯而成。
+另外，[翡翠台](../Page/翡翠台.md "wikilink")於2015年2月21日下午13:15-14:15播出節目《**SO FAR蘇GOOD過新年**》（），內容是由2009年《SO FAR蘇GOOD過牛年》中剪輯而成。
 
-另設嘉賓主持是唱片騎師[泰山及模特兒](../Page/泰山_\(電台DJ\).md "wikilink")[李靜儀](../Page/李靜儀.md "wikilink")（Kendy
-Lee）（第1輯前半部）、[李蔚琳](https://zh.wikipedia.org/wiki/李蔚琳 "wikilink")（Esther
-Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikilink")。
+另設嘉賓主持是唱片騎師[泰山及模特兒](../Page/泰山_\(電台DJ\).md "wikilink")[李靜儀](../Page/李靜儀.md "wikilink")（Kendy Lee）（第1輯前半部）、[李蔚琳](https://zh.wikipedia.org/wiki/李蔚琳 "wikilink")（Esther Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikilink")。
 
 ## 第1輯
 
@@ -529,9 +525,7 @@ Lee）（第1輯后半部）以及叔父[劉天賜](../Page/劉天賜.md "wikili
 
 ### 一般市民的爭議
 
-[星島日報](../Page/星島日報.md "wikilink")刊登了一篇網民批評，批評中指責阿蘇罵人的聲音，人亦無禮貌，經常以「茂利（暓里）」稱呼別人，甚至當眾人面前叫食肆店主「執笠（倒閉）」；又質疑如果青少年及小孩看過節目後，對家長教導子女造成負面影響。\[3\]
-而[am730刊登的文章亦指](https://zh.wikipedia.org/wiki/am730 "wikilink")[蘇施黃](../Page/蘇施黃.md "wikilink")「So
-Bad」。
+[星島日報](../Page/星島日報.md "wikilink")刊登了一篇網民批評，批評中指責阿蘇罵人的聲音，人亦無禮貌，經常以「茂利（暓里）」稱呼別人，甚至當眾人面前叫食肆店主「執笠（倒閉）」；又質疑如果青少年及小孩看過節目後，對家長教導子女造成負面影響。\[3\] 而[am730刊登的文章亦指](https://zh.wikipedia.org/wiki/am730 "wikilink")[蘇施黃](../Page/蘇施黃.md "wikilink")「So Bad」。
 
 ### 教育界的爭議
 
@@ -555,8 +549,7 @@ Bad」。
 
 廣管局至今亦接到投訴，內容指阿蘇說話過於粗俗，對人呼呼喝喝，教壞小朋友。
 
-被市民指責她以「茂利（暓里）」，很不尊重別人，後來蘇在節目中請來其叔父[劉天賜](../Page/劉天賜.md "wikilink")解釋「茂利」一詞，只是用來形容荒謬怪誕或無知的人
-，與「盲毛」的意思相近，並沒有粗俗或不尊敬的意思。\[8\]\[9\]\[10\]\[11\]
+被市民指責她以「茂利（暓里）」，很不尊重別人，後來蘇在節目中請來其叔父[劉天賜](../Page/劉天賜.md "wikilink")解釋「茂利」一詞，只是用來形容荒謬怪誕或無知的人 ，與「盲毛」的意思相近，並沒有粗俗或不尊敬的意思。\[8\]\[9\]\[10\]\[11\]
 
 ### 與助手糾紛
 
@@ -568,29 +561,21 @@ Bad」。
 
 舊節目班底只有主持泰山同稱為「聰明人」的攝影師可以留低，繼續在今次的新節目中與蘇施黃合作。
 
-李靜儀請辭後，[蘇施黃](../Page/蘇施黃.md "wikilink")第1輯后半部找來了**李蔚琳**代替她。 \[13\]\[14\]
-但是在第1輯后半部早期和12月29日晚上的節目中，李靜儀再次出現，似乎為較早拍攝片段。
+李靜儀請辭後，[蘇施黃](../Page/蘇施黃.md "wikilink")第1輯后半部找來了**李蔚琳**代替她。 \[13\]\[14\] 但是在第1輯后半部早期和12月29日晚上的節目中，李靜儀再次出現，似乎為較早拍攝片段。
 
 ## 參考資料
 
 ## 外部連結
 
   - [無綫電視官方網頁 - 蘇GOOD](http://programme.tvb.com/foodandtravel/sogood)
-  - [無綫電視官方網頁 - 蘇GOOD
-    II](http://programme.tvb.com/foodandtravel/sogood2)
+  - [無綫電視官方網頁 - 蘇GOOD II](http://programme.tvb.com/foodandtravel/sogood2)
   - [MyTV - 蘇GOOD](http://mytv.tvb.com/foodandtravel/sogood)
   - [MyTV - 蘇GOOD II](http://mytv.tvb.com/foodandtravel/sogood2)
-  - [MyTV - SO
-    FAR蘇GOOD過牛年](http://mytv.tvb.com/foodandtravel/sogoodsoox)
+  - [MyTV - SO FAR蘇GOOD過牛年](http://mytv.tvb.com/foodandtravel/sogoodsoox)
 
 ## 電視節目的變遷
 
-[Category:2008年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2008年無綫電視節目 "wikilink")
-[Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink")
-[Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink")
-[Category:無綫電視節目系列](https://zh.wikipedia.org/wiki/Category:無綫電視節目系列 "wikilink")
-[Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
-[Category:烹飪節目](https://zh.wikipedia.org/wiki/Category:烹飪節目 "wikilink")
+[Category:2008年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2008年無綫電視節目 "wikilink") [Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink") [Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink") [Category:無綫電視節目系列](https://zh.wikipedia.org/wiki/Category:無綫電視節目系列 "wikilink") [Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink") [Category:烹飪節目](https://zh.wikipedia.org/wiki/Category:烹飪節目 "wikilink")
 
 1.
 2.
@@ -599,8 +584,7 @@ Bad」。
 5.
 6.
 7.
-8.  [《蘇GOOD》漸火阿蘇一“鬧”收視走高](http://news.gztv.com/nfspb/node_303/node_305/2008/10/28/1225231756101136.shtml)
-    ，廣州電視台－廣視網，2008-10-28
+8.  [《蘇GOOD》漸火阿蘇一“鬧”收視走高](http://news.gztv.com/nfspb/node_303/node_305/2008/10/28/1225231756101136.shtml) ，廣州電視台－廣視網，2008-10-28
 
 9.  [教育自由講：庸俗節目收視高觀眾愛看又要罵](http://www.wenweipo.com/news_print.phtml?news_id=HK0811240045)，香港文匯報，2008-11-24
 
@@ -608,11 +592,8 @@ Bad」。
 
 11. [蘇施黃貫徹罵人作風懶理觀眾投訴](http://ol.mingpao.com/cfm/star5.cfm?File=20081006/saa01/mbc1.txt)，明報，2008年10月6日。
 
-12. [蘇施黃 躁爆鬧走女助手
-    阿蘇：我係咁乞人憎](http://hk.myblog.yahoo.com/sting-life/article?mid=7387)(原文來自《壹傳媒》)，2008-10-11
+12. [蘇施黃 躁爆鬧走女助手 阿蘇：我係咁乞人憎](http://hk.myblog.yahoo.com/sting-life/article?mid=7387)(原文來自《壹傳媒》)，2008-10-11
 
-13. [蘇施黃惡輸咗](http://www.kczone.net/~yy/news/1/view.php?mag=Face&site=5476429111719060&issue=73)
-    ，《[FACE周刊](../Page/FACE周刊.md "wikilink")》，2008-10-14
+13. [蘇施黃惡輸咗](http://www.kczone.net/~yy/news/1/view.php?mag=Face&site=5476429111719060&issue=73) ，《[FACE周刊](../Page/FACE周刊.md "wikilink")》，2008-10-14
 
-14. [蘇施黃
-    阿蘇為錢鬧人](http://hk.myblog.yahoo.com/sting-life/article?mid=7289)(原文來自《壹傳媒》)，2008-10-10
+14. [蘇施黃 阿蘇為錢鬧人](http://hk.myblog.yahoo.com/sting-life/article?mid=7289)(原文來自《壹傳媒》)，2008-10-10

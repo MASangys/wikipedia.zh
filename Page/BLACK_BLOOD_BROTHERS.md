@@ -1,6 +1,4 @@
-《**BLACK BLOOD
-BROTHERS**》是[あざの耕平](https://zh.wikipedia.org/wiki/あざの耕平 "wikilink")、[草河遊也的](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")[轻小说](https://zh.wikipedia.org/wiki/轻小说 "wikilink")。[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")刊行。2004年7月16日开始在[DRAGON
-MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
+《**BLACK BLOOD BROTHERS**》是[あざの耕平](https://zh.wikipedia.org/wiki/あざの耕平 "wikilink")、[草河遊也的](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")[轻小说](https://zh.wikipedia.org/wiki/轻小说 "wikilink")。[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")刊行。2004年7月16日开始在[DRAGON MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
 
 ## 小说一覽
 
@@ -31,8 +29,7 @@ MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
 
 ## 登場人物
 
-  - 望月次郎
-    声：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")（動畫）/[神谷浩史](../Page/神谷浩史.md "wikilink")（廣播劇）
+  - 望月次郎 声：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")（動畫）/[神谷浩史](../Page/神谷浩史.md "wikilink")（廣播劇）
 
 被稱為『銀刀』，是十年前在香港聖戰對抗『九龍的血統』的英雄，但同時也因毫不留情斬殺被轉化的黑血，而被其族人稱以「同族殺手」仇視著。黑血，是剛滿百年不久的古血，轉化前是大日本帝國的海軍少尉，但艾莉絲被轉化為其護衛者，並與她和卡莎一同旅行了上百年。『銀刀』之名是源於其配刀，是一把在劍身上鍍了銀的日本刀。因為『賢者夏娃』的血統囊括了許多血統，雖然戰鬥時有強大的力量，但對於已知能剋制黑血的東西全都沒抵抗力。
 
@@ -52,8 +49,7 @@ MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
 
 簡稱「卡莎」，原本是承繼了『魔女摩根』血統的渥洛克家族一員，但在十年前被轉化為『九龍的血統』，是始祖下一代的第一名被轉化的，因而也被稱為大姐。原出身是吉普賽人，被摩根三姊妹之一人轉化，但因為在轉化時加入了其他血統，因而雖然傑出，但仍被渥洛克家族的其他人排斥。
 
-  - 龍 声：[高木禮子](../Page/高木禮子.md "wikilink") /
-    [宮田幸季](../Page/宮田幸季.md "wikilink")(香港聖戰時)
+  - 龍 声：[高木禮子](../Page/高木禮子.md "wikilink") / [宮田幸季](../Page/宮田幸季.md "wikilink")(香港聖戰時)
 
 現在叫做「聖」，是被稱為『東之龍王』的古血。支持著特區的結界，但仍有能威赫傑爾曼的力量。過去聖戰時是青年的模樣，但在聖戰中戰死，目前是少年的樣子。
 
@@ -134,8 +130,4 @@ MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
 
   - [動畫官方網站](https://archive.is/20130111202535/http://character.biglobe.ne.jp/BBB/)
 
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:奇幻小說](https://zh.wikipedia.org/wiki/Category:奇幻小說 "wikilink")
-[Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink")
-[Category:吸血鬼題材小說](https://zh.wikipedia.org/wiki/Category:吸血鬼題材小說 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
+[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:奇幻小說](https://zh.wikipedia.org/wiki/Category:奇幻小說 "wikilink") [Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink") [Category:吸血鬼題材小說](https://zh.wikipedia.org/wiki/Category:吸血鬼題材小說 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")

@@ -8,9 +8,7 @@
 
 2009年6月16日，Yellow Zebra宣佈姐妹組織「False\&Trues」建成\[1\]。這組織主要擔當電子風歌曲的製作。
 
-Yellow
-Zebra所屬的比較出名的歌手有**藤宮ゆき**、**うっちー**、**紗菜**、**雨崎あや**等人，後兩者現在已退出Yellow
-Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時仍然由前兩者擔任主要歌手。
+Yellow Zebra所屬的比較出名的歌手有**藤宮ゆき**、**うっちー**、**紗菜**、**雨崎あや**等人，後兩者現在已退出Yellow Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時仍然由前兩者擔任主要歌手。
 
 因為環境的問題及各種私人的因素將解散，並在C81發行其最後一張專輯。后于2012年宣布组成新社团あ\~るの\~と（R-note），社团由芳葉、らんてぃ、藤宮ゆき和うっちー组成。
 
@@ -21,10 +19,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <!-- end list -->
 
   -
-    12月13日－開設官方網頁\[2\]，並在[Comic
-    Market](../Page/Comic_Market.md "wikilink")
-    73（12月31日）發佈第一枚東方Project編曲CD『東方弦想歌 ～Color of
-    Flower～』，隨後直至2009年春，共推出過10張。
+    12月13日－開設官方網頁\[2\]，並在[Comic Market](../Page/Comic_Market.md "wikilink") 73（12月31日）發佈第一枚東方Project編曲CD『東方弦想歌 ～Color of Flower～』，隨後直至2009年春，共推出過10張。
 
 <!-- end list -->
 
@@ -59,31 +54,21 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
 ### Yellow Zebra 音樂專輯
 
-  - [東方弦想歌 ～Color of
-    Flower～](http://www.yellow-zebra.com/cd/yzcd0001.php)（C71）
-  - [東方蓬千歌 ～Sound of
-    Chord～](http://www.yellow-zebra.com/cd/yzcd0002.php)（例大祭4）
+  - [東方弦想歌 ～Color of Flower～](http://www.yellow-zebra.com/cd/yzcd0001.php)（C71）
+  - [東方蓬千歌 ～Sound of Chord～](http://www.yellow-zebra.com/cd/yzcd0002.php)（例大祭4）
   - [東方スプラッシュ\!](http://www.yellow-zebra.com/cd/yzcd0004.php)（C72）
-  - [東方讃月歌 ～Smell of
-    Flap～](http://www.yellow-zebra.com/cd/yzcd0005.php)（C73）
-  - [東方染紅歌 〜Fate of
-    Blood〜](http://www.yellow-zebra.com/cd/yzcd0007.php)（Comic1☆2）
-  - [東方絢彩歌 ～Touch of
-    Air～](http://www.yellow-zebra.com/cd/yzcd0008.php)（例大祭5）
+  - [東方讃月歌 ～Smell of Flap～](http://www.yellow-zebra.com/cd/yzcd0005.php)（C73）
+  - [東方染紅歌 〜Fate of Blood〜](http://www.yellow-zebra.com/cd/yzcd0007.php)（Comic1☆2）
+  - [東方絢彩歌 ～Touch of Air～](http://www.yellow-zebra.com/cd/yzcd0008.php)（例大祭5）
   - [東方ASSOCIATION](https://archive.is/20130428162354/http://sp.yellow-zebra.com/yzsp0001.html)（例大祭5，與另一同人組織[電開製作所合作](https://zh.wikipedia.org/wiki/電開製作所 "wikilink")）
   - [SENSEASONS](http://www.yellow-zebra.com/cd/yzcd0009.php)（C74）
-  - [東方輪衝歌 ～Moment of
-    Impulse～](http://www.yellow-zebra.com/cd/yzcd0010.php)（C75）
-  - [東方月響歌 ～Ballad of
-    Moon～](http://www.yellow-zebra.com/cd/yzcd0011.php)（例大祭6）
-  - [東方彗麗歌 ～Orbit of
-    Diffusion～](http://www.yellow-zebra.com/cd/yzcd0012.php)（C76）
+  - [東方輪衝歌 ～Moment of Impulse～](http://www.yellow-zebra.com/cd/yzcd0010.php)（C75）
+  - [東方月響歌 ～Ballad of Moon～](http://www.yellow-zebra.com/cd/yzcd0011.php)（例大祭6）
+  - [東方彗麗歌 ～Orbit of Diffusion～](http://www.yellow-zebra.com/cd/yzcd0012.php)（C76）
   - [いえろ～ぜぶら　あーかいぶ](http://www.yellow-zebra.com/cd/yzex0001.php)（C77）
-  - [東方星聖歌 ～Decision of
-    Purpose～](http://www.yellow-zebra.com/cd/yzcd0013.php)（例大祭7）
+  - [東方星聖歌 ～Decision of Purpose～](http://www.yellow-zebra.com/cd/yzcd0013.php)（例大祭7）
   - [東方ESCALATION](https://archive.is/20130428164421/http://sp.yellow-zebra.com/yzsp0002.html)（例大祭7，與另一同人組織[有限会社るざりん合作](https://zh.wikipedia.org/wiki/有限会社るざりん "wikilink")）
-  - [東方愁爽歌 ～Landing of
-    Truth～](http://www.yellow-zebra.com/cd/yzcd0014.php)（C78）
+  - [東方愁爽歌 ～Landing of Truth～](http://www.yellow-zebra.com/cd/yzcd0014.php)（C78）
   - [東方TRITONATION](https://web.archive.org/web/20080820074509/http://sp.yellow-zebra.com/)（C78，與[有限会社るざりん合作](https://zh.wikipedia.org/wiki/有限会社るざりん "wikilink")）
 
 ### False\&Trues 音樂專輯
@@ -126,8 +111,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <!-- end list -->
 
   -
-    男性。在Yellow
-    Zebra內主要擔任音樂[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作](https://zh.wikipedia.org/wiki/作曲 "wikilink")/[編曲及](https://zh.wikipedia.org/wiki/編曲 "wikilink")[樂器演奏](https://zh.wikipedia.org/wiki/樂器演奏 "wikilink")\[5\]。在東方M-1漫才大獎賽系列擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。
+    男性。在Yellow Zebra內主要擔任音樂[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作](https://zh.wikipedia.org/wiki/作曲 "wikilink")/[編曲及](https://zh.wikipedia.org/wiki/編曲 "wikilink")[樂器演奏](https://zh.wikipedia.org/wiki/樂器演奏 "wikilink")\[5\]。在東方M-1漫才大獎賽系列擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。
     自12歲就已經作為一名[結他手參加過不同的組合](https://zh.wikipedia.org/wiki/結他 "wikilink")，並且因為興趣而接觸過更多的樂器\[6\]。現在本人在一個原創樂隊中擔任歌手、結他手、作詞、作曲以及[鼓](../Page/鼓.md "wikilink")手等等，還作為一名作詞家為其他個人樂曲或團體作詞\[7\]。
 
 <!-- end list -->
@@ -150,8 +134,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
   -
     女性。Yellow-Zebra看板[歌手](../Page/歌手.md "wikilink")之一。出演『第1回東方M-1漫才大獎賽』時使用「」的名義，而往後出演『東方M‐1漫才大獎賽系列』以及歌唱時則使用「」的名義。在東方M-1漫才大獎賽系列主要演出**愛莉絲·瑪嘉托洛伊德**、**八雲藍**等角色。
     歌唱上較擅長高音，其高音甚至被其他成員稱為「藤宮高音」，うっちー也說她自己發不出那麼高的聲音，因此由季所唱的歌大多都對聲線之高有很大的要求。她的同學和朋友都說她的聲音很有特徵，連芳葉和らんてぃ也同意，不過由季的母親則說「明明聲音沒有甚麼特徵為甚麼還能擔當到[聲優](../Page/聲優.md "wikilink")呢？」（），本人也自問「有特徵嗎？」（），似乎對自己聲線沒有甚麼自覺。
-    因為在製作者對談中經常都很活躍發言，所以芳葉和らんてぃ說她是「說很多話的歌手」（）。當對談中有人問「藤宮由季是怎樣的人啊？」（）時，Yellow
-    Zebra同組織所屬的ねね就形容她是「喜歡掛上紅眼鏡的小貓的人」（）「經常散發粉紅之氣的人」（）「如其聲所示之人」（）等等。
+    因為在製作者對談中經常都很活躍發言，所以芳葉和らんてぃ說她是「說很多話的歌手」（）。當對談中有人問「藤宮由季是怎樣的人啊？」（）時，Yellow Zebra同組織所屬的ねね就形容她是「喜歡掛上紅眼鏡的小貓的人」（）「經常散發粉紅之氣的人」（）「如其聲所示之人」（）等等。
     此外，由季本人居住在首都圈之中，只有錄音的時候才會前往Yellow Zebra所在的福岡。
     在『[第七龙神](../Page/第七龙神.md "wikilink")』的漫才廣告動畫之中聲演****。
 
@@ -908,8 +891,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <!-- end list -->
 
   -
-    女性。隸屬[Dwango Artist
-    Production的聲優](https://zh.wikipedia.org/wiki/Dwango_Artist_Production "wikilink")。在第4回東方M-1漫才大獎賽演出**鍵山雛**及**古明地覺**。
+    女性。隸屬[Dwango Artist Production的聲優](https://zh.wikipedia.org/wiki/Dwango_Artist_Production "wikilink")。在第4回東方M-1漫才大獎賽演出**鍵山雛**及**古明地覺**。
 
 <!-- end list -->
 
@@ -934,8 +916,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
   - [官方網頁](http://yellow-zebra.com/)
   - [うっちー的個人網誌](http://ameblo.jp/iiyukagendesukoto/)
   - [藤宮ゆき Twitter](http://twitter.com/#!/fuzimiya_yuki)
-  - [レモンティー(お笑いコンビ)山田貴正
-    阿部哲陽](http://ja.wikipedia.org/wiki/レモンティー_\(お笑いコンビ\))
+  - [レモンティー(お笑いコンビ)山田貴正 阿部哲陽](http://ja.wikipedia.org/wiki/レモンティー_\(お笑いコンビ\))
 
 ## 資料來源
 
@@ -945,8 +926,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
 </div>
 
-[Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink")
-[Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink")
+[Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink")
 
 1.
 

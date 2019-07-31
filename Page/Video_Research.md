@@ -1,16 +1,14 @@
-**Video Research**（，Video Research Ltd.
-[縮寫](../Page/縮寫.md "wikilink")**VR**）是[日本一家進行](../Page/日本.md "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")[收視率與](https://zh.wikipedia.org/wiki/收視率 "wikilink")[廣播節目](https://zh.wikipedia.org/wiki/廣播節目 "wikilink")[收聽率調查的公司](https://zh.wikipedia.org/wiki/收聽率 "wikilink")。
+**Video Research**（，Video Research Ltd. [縮寫](../Page/縮寫.md "wikilink")**VR**）是[日本](../Page/日本.md "wikilink")一家進行[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")[收視率與](https://zh.wikipedia.org/wiki/收視率 "wikilink")[廣播節目](https://zh.wikipedia.org/wiki/廣播節目 "wikilink")[收聽率調查的公司](https://zh.wikipedia.org/wiki/收聽率 "wikilink")。
 
 ## 历史
 
-1962年由[電通及](https://zh.wikipedia.org/wiki/電通 "wikilink")[民間放送](https://zh.wikipedia.org/wiki/商業廣播 "wikilink")[核心局出資設立](../Page/核心局.md "wikilink")。除了[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")、[福井縣](../Page/福井縣.md "wikilink")、[德島縣](https://zh.wikipedia.org/wiki/德島縣 "wikilink")、[佐賀縣及](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")[宮崎縣外](../Page/宮崎縣.md "wikilink")，日本42個[都道府縣有電視收視率調查](https://zh.wikipedia.org/wiki/都道府縣 "wikilink")。
+1962年由[電通及](https://zh.wikipedia.org/wiki/電通 "wikilink")[民間放送](https://zh.wikipedia.org/wiki/商業廣播 "wikilink")[核心局](../Page/核心局.md "wikilink")出資設立。除了[山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")、[福井縣](../Page/福井縣.md "wikilink")、[德島縣](https://zh.wikipedia.org/wiki/德島縣 "wikilink")、[佐賀縣及](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")[宮崎縣](../Page/宮崎縣.md "wikilink")外，日本42個[都道府縣有電視收視率調查](https://zh.wikipedia.org/wiki/都道府縣 "wikilink")。
 
 ## 數據
 
 ### 本部
 
-  - 〒102-0075
-    [東京都](../Page/東京都.md "wikilink")[千代田区三番町](https://zh.wikipedia.org/wiki/千代田区 "wikilink")6-17
+  - 〒102-0075 [東京都](../Page/東京都.md "wikilink")[千代田区三番町](https://zh.wikipedia.org/wiki/千代田区 "wikilink")6-17
 
 ### 支部
 
@@ -82,7 +80,4 @@
 
   - [Video Research](http://www.videor.co.jp/)
 
-[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
-[Category:市场研究公司](https://zh.wikipedia.org/wiki/Category:市场研究公司 "wikilink")
-[Category:1962年成立的公司](https://zh.wikipedia.org/wiki/Category:1962年成立的公司 "wikilink")
+[Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:市场研究公司](https://zh.wikipedia.org/wiki/Category:市场研究公司 "wikilink") [Category:1962年成立的公司](https://zh.wikipedia.org/wiki/Category:1962年成立的公司 "wikilink")

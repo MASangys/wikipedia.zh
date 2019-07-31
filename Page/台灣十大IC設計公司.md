@@ -1,9 +1,7 @@
-[IC_Carrier_Icon.svg](https://zh.wikipedia.org/wiki/File:IC_Carrier_Icon.svg "fig:IC_Carrier_Icon.svg")
-台灣IC設計公司營業額排行榜：
+[IC_Carrier_Icon.svg](https://zh.wikipedia.org/wiki/File:IC_Carrier_Icon.svg "fig:IC_Carrier_Icon.svg") 台灣IC設計公司營業額排行榜：
 
   - 台灣的IC設計公司通常都是沒有自設工廠的半導體公司（[Fabless](../Page/無廠半導體公司.md "wikilink")，例如聯發科或威盛），設計並銷售自己的晶片但製造卻是委外的（[晶圓代工](../Page/晶圓代工.md "wikilink")廠：[台積電](https://zh.wikipedia.org/wiki/台積電 "wikilink")，[聯電](https://zh.wikipedia.org/wiki/聯電 "wikilink")）。但是部分公司曾經有自行生產晶片（例如矽統）。
-  - 群聯電子非單純之IC設計公司，其業務包括IC設計及代工業務，故其總營收非純屬IC設計\[1\]。IC
-    Insights所發佈之25大IC設計公司亦未將群聯電子列入排名\[2\]，故自2012年起排名將移除群聯電子。
+  - 群聯電子非單純之IC設計公司，其業務包括IC設計及代工業務，故其總營收非純屬IC設計\[1\]。IC Insights所發佈之25大IC設計公司亦未將群聯電子列入排名\[2\]，故自2012年起排名將移除群聯電子。
 
 ## 2015年排名\[3\]
 
@@ -506,21 +504,13 @@
 
 </div>
 
-[Category:台灣電子公司](https://zh.wikipedia.org/wiki/Category:台灣電子公司 "wikilink")
-[Category:臺灣半導體公司](https://zh.wikipedia.org/wiki/Category:臺灣半導體公司 "wikilink")
-[Category:無廠半導體公司](https://zh.wikipedia.org/wiki/Category:無廠半導體公司 "wikilink")
-[Category:台灣名數10](https://zh.wikipedia.org/wiki/Category:台灣名數10 "wikilink")
+[Category:台灣電子公司](https://zh.wikipedia.org/wiki/Category:台灣電子公司 "wikilink") [Category:臺灣半導體公司](https://zh.wikipedia.org/wiki/Category:臺灣半導體公司 "wikilink") [Category:無廠半導體公司](https://zh.wikipedia.org/wiki/Category:無廠半導體公司 "wikilink") [Category:台灣名數10](https://zh.wikipedia.org/wiki/Category:台灣名數10 "wikilink")
 
 1.
 2.
-3.  Cash's Blog，\[<http://www.cash.idv.tw/wordpress/?p=13667>{{〈}}IC
-    設計公司營收排名 2015{{〉}}\]
+3.  Cash's Blog，\[<http://www.cash.idv.tw/wordpress/?p=13667>{{〈}}IC 設計公司營收排名 2015{{〉}}\]
 4.  台灣蘋果日報，[{{〈}}聯發科蟬聯2012年IC設計龍頭{{〉}}](http://www.appledaily.com.tw/appledaily/article/finance/20130217/34834085/)，《台灣蘋果日報》2013年2月17日
-5.  Bill
-    McClean，\[<http://www.icinsights.com/news/bulletins/USbased-Companies-Held-13-Of-The-Top-20-Fabless-Spots-In-2010/>{{
-    〈}}U.S.-based Companies Held 13 of the Top 20 Fabless Spots in
-    2010{{〉}}\]，《IC Insights》2011年4月21日
+5.  Bill McClean，\[<http://www.icinsights.com/news/bulletins/USbased-Companies-Held-13-Of-The-Top-20-Fabless-Spots-In-2010/>{{ 〈}}U.S.-based Companies Held 13 of the Top 20 Fabless Spots in 2010{{〉}}\]，《IC Insights》2011年4月21日
 6.  孙昌旭，[{{〈}}2008年台湾十大IC设计公司排名出炉{{〉}}](http://www.eeworld.com.cn/news/eda/200902/article_23596.html)，《電子工程世界》2009年2月17日
-7.  奇景光電，[{{〈}}奇景光電公布自結2008年第四季及2008年全年合併財務報表{{〉}}](http://www.himax.com.tw/en/news/pdf/Q408%20Earnings%20Press%20Release_Chinese_Final.pdf)
-    ，《奇景光電》2009年2月19日
+7.  奇景光電，[{{〈}}奇景光電公布自結2008年第四季及2008年全年合併財務報表{{〉}}](http://www.himax.com.tw/en/news/pdf/Q408%20Earnings%20Press%20Release_Chinese_Final.pdf) ，《奇景光電》2009年2月19日
 8.  王智弘，[{{〈}}打破「一代拳王」魔咒　台灣IC設計戰力全面升級{{〉}}](http://www.mem.com.tw/coverstory_content.asp?sn=0710020011)，《新電子科技雜誌》2007年10月號259期

@@ -18,8 +18,7 @@
       - 2006年10月25日发售
     <!-- end list -->
     1.  最強○×計画
-          - 动画『すもももももも
-            地上最強のヨメ([地上最強新娘](../Page/地上最強新娘.md "wikilink"))』片头曲
+          - 动画『すもももももも 地上最強のヨメ([地上最強新娘](../Page/地上最強新娘.md "wikilink"))』片头曲
           - 作词：金杉はじめ・柏森進、作曲・编曲：柏森進
     2.  DICE★KI♪
           - 作词：金杉はじめ・み〜こ、作曲：小池雅也、编曲：小池雅也・柏森進
@@ -29,8 +28,7 @@
       - 2007年1月24日发售
     <!-- end list -->
     1.  切情\!佰火繚乱
-          - 动画『すもももももも
-            地上最強のヨメ([地上最強新娘](../Page/地上最強新娘.md "wikilink"))』片头曲2
+          - 动画『すもももももも 地上最強のヨメ([地上最強新娘](../Page/地上最強新娘.md "wikilink"))』片头曲2
           - 作词：み〜こ・柏森進、作曲・编曲：柏森進
     2.  アキバinワンダーランド
           - 作词：み〜こ、作曲・编曲：柏森進
@@ -342,16 +340,14 @@
 
 ### 漫画特典乐曲
 
-1.  『百合星人ナオコサン([百合星人奈緒子美眉](../Page/百合星人奈緒子美眉.md "wikilink"))』 第1巻
-    初回限定版特典CD「百合星人ナオコサン」
+1.  『百合星人ナオコサン([百合星人奈緒子美眉](../Page/百合星人奈緒子美眉.md "wikilink"))』 第1巻 初回限定版特典CD「百合星人ナオコサン」
       - 2006年12月25日发售
     <!-- end list -->
     1.  「百合星人ナオコサン」
           - 作词・作曲・编曲:柏森進
     2.  c/w「百合星式おゆうぎうた」
           - 歌:ゆり組のみ〜こたち 作词・作曲・编曲:柏森進
-2.  『百合星人ナオコサン([百合星人奈緒子美眉](../Page/百合星人奈緒子美眉.md "wikilink"))』 第2巻
-    初回限定版特典CD「NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜」
+2.  『百合星人ナオコサン([百合星人奈緒子美眉](../Page/百合星人奈緒子美眉.md "wikilink"))』 第2巻 初回限定版特典CD「NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜」
       - 2008年12月10日发售
     <!-- end list -->
     1.  「NAOKO-THUNDER VERNIER II 〜幼女期の終わり〜」
@@ -388,7 +384,4 @@
   - [みこちゅーねっと](http://miko2.net/)（主唱み〜こ的網站）
   - [みころぐ](http://miko2.com/)（主唱み〜こ的網誌）
 
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:遊戲音樂團體](https://zh.wikipedia.org/wiki/Category:遊戲音樂團體 "wikilink")
-[Category:NBC環球娛樂藝人](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂藝人 "wikilink")
-[Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")
+[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:遊戲音樂團體](https://zh.wikipedia.org/wiki/Category:遊戲音樂團體 "wikilink") [Category:NBC環球娛樂藝人](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂藝人 "wikilink") [Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")

@@ -1,20 +1,17 @@
-是《[無雙OROCHI](https://zh.wikipedia.org/wiki/無雙蛇魔 "wikilink")》的續集，此作品在2008年4月3日在日本開始發售PS2版，而[北美版則在](https://zh.wikipedia.org/wiki/北美 "wikilink")2008年9月23日發售，[歐洲版則在](https://zh.wikipedia.org/wiki/歐洲 "wikilink")2008年9月19日發售。此作品也正式宣布在2008年9月4日在日本發售[Xbox
-360版](../Page/Xbox_360.md "wikilink")\[1\]，而歐洲版和北美版則隨同PS2版一起發售。[PSP版則宣布在](https://zh.wikipedia.org/wiki/Playstation_Portable "wikilink")2008年11月27日正式發售\[2\]，之後又推出了含有[無雙OROCHI
-Z部分內容的增值中文版](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "wikilink")。
-2011年，推出續作《[無雙OROCHI 2](../Page/無雙OROCHI_2.md "wikilink")》。
+是《[無雙OROCHI](https://zh.wikipedia.org/wiki/無雙蛇魔 "wikilink")》的續集，此作品在2008年4月3日在日本開始發售PS2版，而[北美版則在](https://zh.wikipedia.org/wiki/北美 "wikilink")2008年9月23日發售，[歐洲版則在](https://zh.wikipedia.org/wiki/歐洲 "wikilink")2008年9月19日發售。此作品也正式宣布在2008年9月4日在日本發售[Xbox 360版](../Page/Xbox_360.md "wikilink")\[1\]，而歐洲版和北美版則隨同PS2版一起發售。[PSP版則宣布在](https://zh.wikipedia.org/wiki/Playstation_Portable "wikilink")2008年11月27日正式發售\[2\]，之後又推出了含有[無雙OROCHI Z部分內容的增值中文版](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "wikilink")。 2011年，推出續作《[無雙OROCHI 2](../Page/無雙OROCHI_2.md "wikilink")》。
 
 ## 角色
 
 ### 新角色
 
-由於此遊戲是《[戰國無雙2：猛將傳](../Page/戰國無雙.md "wikilink")》發售後的作品，[今川義元的新造型版](../Page/今川義元.md "wikilink")、[佐佐木小次郎](../Page/佐佐木小次郎.md "wikilink")、[柴田勝家](../Page/柴田勝家.md "wikilink")、[前田利家](../Page/前田利家.md "wikilink")、[長宗我部元親和](../Page/長宗我部元親.md "wikilink")[加西亞也正式加入遊戲內](https://zh.wikipedia.org/wiki/細川玉 "wikilink")。而且除了自《[真·三國無雙2](https://zh.wikipedia.org/wiki/真·三國無雙 "wikilink")》登場後就沒再出現的[伏羲和](../Page/伏羲.md "wikilink")[女媧再次回歸之外](https://zh.wikipedia.org/wiki/女媧 "wikilink")，遊戲也為這2個角色重新設計新造型，並採用另一聲優為他們配音。
+由於此遊戲是《[戰國無雙](../Page/戰國無雙.md "wikilink")2：猛將傳》發售後的作品，[今川義元](../Page/今川義元.md "wikilink")的新造型版、[佐佐木小次郎](../Page/佐佐木小次郎.md "wikilink")、[柴田勝家](../Page/柴田勝家.md "wikilink")、[前田利家](../Page/前田利家.md "wikilink")、[長宗我部元親](../Page/長宗我部元親.md "wikilink")和[加西亞也正式加入遊戲內](https://zh.wikipedia.org/wiki/細川玉 "wikilink")。而且除了自《[真·三國無雙2](https://zh.wikipedia.org/wiki/真·三國無雙 "wikilink")》登場後就沒再出現的[伏羲](../Page/伏羲.md "wikilink")和[女媧再次回歸之外](https://zh.wikipedia.org/wiki/女媧 "wikilink")，遊戲也為這2個角色重新設計新造型，並採用另一聲優為他們配音。
 
 以下無雙系列在本作品新增的角色：
 
-  - [太公望](https://zh.wikipedia.org/wiki/姜子牙 "wikilink")，源自[封神榜的](https://zh.wikipedia.org/wiki/封神榜 "wikilink")[周朝軍師](../Page/周朝.md "wikilink")
+  - [太公望](https://zh.wikipedia.org/wiki/姜子牙 "wikilink")，源自[封神榜的](https://zh.wikipedia.org/wiki/封神榜 "wikilink")[周朝](../Page/周朝.md "wikilink")軍師
   - [平清盛](../Page/平清盛.md "wikilink")，平安時代最有權勢的平家大名
   - [源義經](../Page/源義經.md "wikilink")，平安時代與平家對敵的源氏民族英雄
-  - [孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")，源自[中國文學](https://zh.wikipedia.org/wiki/中國文學 "wikilink")[四大奇書之一](../Page/四大奇書.md "wikilink")[西遊記](https://zh.wikipedia.org/wiki/西遊記 "wikilink")
+  - [孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")，源自[中國文學](https://zh.wikipedia.org/wiki/中國文學 "wikilink")[四大奇書](../Page/四大奇書.md "wikilink")之一[西遊記](https://zh.wikipedia.org/wiki/西遊記 "wikilink")
   - [卑彌呼](https://zh.wikipedia.org/wiki/卑彌呼 "wikilink")，古代日本邪馬台國的女王
 
 此外還新增真‧遠呂智，為遠呂智的終極形態，達成特定條件之後即可使用之。
@@ -30,8 +27,7 @@ Z部分內容的增值中文版](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "w
 
 此續作延續前作一個月後所發生的事情。
 
-由於平清盛欣賞[遠呂智之實力](../Page/八岐大蛇.md "wikilink")，故打算要把其復活，並召集其舊部下歸隊以整頓遠呂智軍實力。
-在發現只有十七歲的邪馬台國女王卑彌呼體內擁有令遠呂智復活的神秘力量後，平清盛便千方百計要將她『拿』到手。
+由於平清盛欣賞[遠呂智之實力](../Page/八岐大蛇.md "wikilink")，故打算要把其復活，並召集其舊部下歸隊以整頓遠呂智軍實力。 在發現只有十七歲的邪馬台國女王卑彌呼體內擁有令遠呂智復活的神秘力量後，平清盛便千方百計要將她『拿』到手。
 
 以太公望為首領的仙界軍和源義經為了阻止平清盛的野心，便與人類各勢力合作，並和遠呂智軍不斷交戰，以圖打擊遠呂智軍勢力。不過平清盛最終成功使遠呂智復活，復活後的遠呂智更因卑彌呼的神祕力量而進化成「真‧遠呂智」。
 
@@ -52,8 +48,7 @@ Z部分內容的增值中文版](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "w
 
 ## 新增模式
 
-故事模式增加遠呂智勢力的關卡，以遠呂智的角度描述《[無雙OROCHI](https://zh.wikipedia.org/wiki/無雙OROCHI "wikilink")》前的故事，加上承接前作的蜀、魏、吳、戰國，共有5個章節。除此之外也新增了劇情模式（Dramatic
-Mode）、對戰模式（VS Mode）、生存模式（Survival Mode）。
+故事模式增加遠呂智勢力的關卡，以遠呂智的角度描述《[無雙OROCHI](https://zh.wikipedia.org/wiki/無雙OROCHI "wikilink")》前的故事，加上承接前作的蜀、魏、吳、戰國，共有5個章節。除此之外也新增了劇情模式（Dramatic Mode）、對戰模式（VS Mode）、生存模式（Survival Mode）。
 
 ## 新增關卡
 
@@ -161,13 +156,7 @@ Mode）、對戰模式（VS Mode）、生存模式（Survival Mode）。
   - [無雙OROCHI 魔王再臨 官方網站](http://www.gamecity.ne.jp/orochi-sairin/)
   - [無雙OROCHI 蛇魔再臨 官方網站](http://www.gamecity.com.tw/orochi-sairin/)
 
-[Category:无双大蛇系列](https://zh.wikipedia.org/wiki/Category:无双大蛇系列 "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:光荣特库摩电子游戏系列](https://zh.wikipedia.org/wiki/Category:光荣特库摩电子游戏系列 "wikilink")
-[Category:砍殺遊戲](https://zh.wikipedia.org/wiki/Category:砍殺遊戲 "wikilink")
+[Category:无双大蛇系列](https://zh.wikipedia.org/wiki/Category:无双大蛇系列 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:光荣特库摩电子游戏系列](https://zh.wikipedia.org/wiki/Category:光荣特库摩电子游戏系列 "wikilink") [Category:砍殺遊戲](https://zh.wikipedia.org/wiki/Category:砍殺遊戲 "wikilink")
 
 1.
 2.

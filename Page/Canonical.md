@@ -1,5 +1,4 @@
-**英屬曼島商肯諾有限公司**（Canonical Ltd.）
-是一家[私人公司](../Page/私人公司.md "wikilink")，由[南非的企业家](https://zh.wikipedia.org/wiki/南非 "wikilink")[马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")创建，主要为了促进[开源软件](../Page/开源软件.md "wikilink")项目。Canonical在[曼島](../Page/曼島.md "wikilink")登记注册，其雇员分布在世界各地，其主要办事处在[伦敦](../Page/伦敦.md "wikilink")，在[波士顿](../Page/波士顿.md "wikilink")、[圣保罗](https://zh.wikipedia.org/wiki/圣保罗 "wikilink")、[蒙特利尔](../Page/蒙特利尔.md "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[台北和](https://zh.wikipedia.org/wiki/台北市 "wikilink")[马恩岛也有分公司](https://zh.wikipedia.org/wiki/马恩岛 "wikilink")。
+**英屬曼島商肯諾有限公司**（Canonical Ltd.） 是一家[私人公司](../Page/私人公司.md "wikilink")，由[南非的企业家](https://zh.wikipedia.org/wiki/南非 "wikilink")[马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")创建，主要为了促进[开源软件](../Page/开源软件.md "wikilink")项目。Canonical在[曼島](../Page/曼島.md "wikilink")登记注册，其雇员分布在世界各地，其主要办事处在[伦敦](../Page/伦敦.md "wikilink")，在[波士顿](../Page/波士顿.md "wikilink")、[圣保罗](https://zh.wikipedia.org/wiki/圣保罗 "wikilink")、[蒙特利尔](../Page/蒙特利尔.md "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[台北和](https://zh.wikipedia.org/wiki/台北市 "wikilink")[马恩岛也有分公司](https://zh.wikipedia.org/wiki/马恩岛 "wikilink")。
 
 ## Canonical赞助的项目
 
@@ -7,8 +6,7 @@ Canonical公司支持并创建了几个项目，主要都是[自由/开源软件
 
 ### 开源软件
 
-[Ubuntu1404.png](https://zh.wikipedia.org/wiki/File:Ubuntu1404.png "fig:Ubuntu1404.png")
-14.04版的截圖\]\]
+[Ubuntu1404.png](https://zh.wikipedia.org/wiki/File:Ubuntu1404.png "fig:Ubuntu1404.png") 14.04版的截圖\]\]
 
   - Ubuntu家族的[Linux发行版](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
       - [Ubuntu](../Page/Ubuntu.md "wikilink")\[1\]，一个基于[Debian](../Page/Debian.md "wikilink")的Linux发行版，使用[Unity](../Page/Unity_\(使用者介面\).md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")。
@@ -18,8 +16,7 @@ Canonical公司支持并创建了几个项目，主要都是[自由/开源软件
       - [Edubuntu](../Page/Edubuntu.md "wikilink")\[3\]，Ubuntu的教育分支，包含了[Linux终端机服务器计划](https://zh.wikipedia.org/wiki/Linux终端机服务器计划 "wikilink")，以及大量的教育应用程序。
       - [Gobuntu](../Page/Gobuntu.md "wikilink")，一个完全由自由软件组成的基于Ubuntu的发行版。
   - [Bazaar](https://zh.wikipedia.org/wiki/Bazaar "wikilink")\[4\]，一个非中心化的[版本控制](../Page/版本控制.md "wikilink")系统。
-  - [OpenCD](https://zh.wikipedia.org/wiki/OpenCD "wikilink")（现已解散），一个为[Windows用户提供的高质量免费软件和开源软件的集合](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。该项目带有一个易于使用的安装程序，运行在Windows上，可以覆盖大部分任务。比如说包含[GIMP](../Page/GIMP.md "wikilink")、[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")、[Mozilla
-    Firefox和](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[PDF创建程序](https://zh.wikipedia.org/wiki/PDF "wikilink")。
+  - [OpenCD](https://zh.wikipedia.org/wiki/OpenCD "wikilink")（现已解散），一个为[Windows用户提供的高质量免费软件和开源软件的集合](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。该项目带有一个易于使用的安装程序，运行在Windows上，可以覆盖大部分任务。比如说包含[GIMP](../Page/GIMP.md "wikilink")、[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")、[Mozilla Firefox和](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[PDF创建程序](https://zh.wikipedia.org/wiki/PDF "wikilink")。
   - Storm，一个用于[Python](../Page/Python.md "wikilink")的[对象关系映射](../Page/对象关系映射.md "wikilink")\[5\]，Launchpad代码的一部分。
   - [Upstart](../Page/Upstart.md "wikilink")，Ubuntu基于事件的启动进程。
 
@@ -38,9 +35,7 @@ Canonical公司支持并创建了几个项目，主要都是[自由/开源软件
 
 ## 业务计划
 
-在2008年5月接受[衛報](../Page/衛報.md "wikilink")采访时，[马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")说，Canonical公司的[商业模式](../Page/商业模式.md "wikilink")主要是基于软件的服务，并解释说，Canonical还不能[收支平衡](https://zh.wikipedia.org/wiki/收支平衡 "wikilink")，仍需要持续的投资。马克还说，我们认为软件的未来就是不需要[授权的](../Page/著作權.md "wikilink")，人们可以在第一时间免费得到他们想要的软件，公司依赖软件的服务盈利，这是未来的发展趋势。
-\[8\]这个战略类似于[Red
-Hat在](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")20世纪90年代的[经营战略](https://zh.wikipedia.org/wiki/经营战略 "wikilink")。
+在2008年5月接受[衛報](../Page/衛報.md "wikilink")采访时，[马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")说，Canonical公司的[商业模式](../Page/商业模式.md "wikilink")主要是基于软件的服务，并解释说，Canonical还不能[收支平衡](https://zh.wikipedia.org/wiki/收支平衡 "wikilink")，仍需要持续的投资。马克还说，我们认为软件的未来就是不需要[授权的](../Page/著作權.md "wikilink")，人们可以在第一时间免费得到他们想要的软件，公司依赖软件的服务盈利，这是未来的发展趋势。 \[8\]这个战略类似于[Red Hat在](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")20世纪90年代的[经营战略](https://zh.wikipedia.org/wiki/经营战略 "wikilink")。
 
 ## 雇员
 
@@ -50,36 +45,22 @@ Hat在](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")20世纪90年代的[经
 
 当前著名的Canonical公司雇员包括：
 
-  - [马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")（Mark
-    Shuttleworth），[Ubuntu](../Page/Ubuntu.md "wikilink")项目的创始人，[Debian](../Page/Debian.md "wikilink")早期开发者之一，
-    的创始人。（2004–）
+  - [马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")（Mark Shuttleworth），[Ubuntu](../Page/Ubuntu.md "wikilink")项目的创始人，[Debian](../Page/Debian.md "wikilink")早期开发者之一， 的创始人。（2004–）
 
 ### 过去
 
 过去著名的雇员：
 
-  - [本·克林斯](https://zh.wikipedia.org/wiki/本·克林斯 "wikilink")（Ben
-    Collins），前Debian项目领导人，[内核](../Page/内核.md "wikilink")的开发者。（2006–2009）
-  - [大卫·米勒](https://zh.wikipedia.org/wiki/大卫·米勒 "wikilink")（Dave
-    Miller），是[Bugzilla](../Page/Bugzilla.md "wikilink")的成员，第一个雇员。（2004）
-  - [杰夫·沃](https://zh.wikipedia.org/wiki/杰夫·沃 "wikilink")（Jeff
-    Waugh），Canonical的早期雇员，负责[企业发展](https://zh.wikipedia.org/wiki/企业发展 "wikilink")。他于2006年7月离开Canonical，以便更充分地关注他[GNOME](../Page/GNOME.md "wikilink")的项目中的工作。（2004–2006）
-  - [本杰明·马可·希尔](https://zh.wikipedia.org/wiki/本杰明·马可·希尔 "wikilink")（Benjamin
-    Mako Hill），核心开发人员和社区协调员。（2004–2005）
-  - [伊恩·杰克逊](https://zh.wikipedia.org/wiki/伊恩·杰克逊 "wikilink")（Ian
-    Jackson），[dpkg的开发者和前Debian项目领导人](https://zh.wikipedia.org/wiki/dpkg "wikilink")。（2005–2007）
-  - [Lars
-    Wirzenius](https://zh.wikipedia.org/wiki/Lars_Wirzenius "wikilink")，[Linux内核](../Page/Linux内核.md "wikilink")的第一位贡献者，[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")过去的同事。（2007–2009）
-  - [Scott James
-    Remnant](https://zh.wikipedia.org/wiki/Scott_James_Remnant "wikilink")，长期的Debian开发者，他维护[GNU
-    Libtool](https://zh.wikipedia.org/wiki/GNU_Libtool "wikilink")、[dpkg和其他一些重要的](https://zh.wikipedia.org/wiki/dpkg "wikilink")[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")。2006年，斯科特从Debian辞职。同时，他还是[Planet聚合器的作者之一](https://zh.wikipedia.org/wiki/Planet聚合器 "wikilink")。在Canonical，他开发了[Upstart](../Page/Upstart.md "wikilink")[系统初始化系统](https://zh.wikipedia.org/wiki/系统初始化系统 "wikilink")。（2004–2011）\[9\]
-  - [马特·齐默曼](https://zh.wikipedia.org/wiki/马特·齐默曼 "wikilink")（Matt
-    Zimmerman），Debian安全小组早期的成员，曾是 Canonical
-    公司／[Ubuntu](../Page/Ubuntu.md "wikilink")的[首席技术官](https://zh.wikipedia.org/wiki/首席技术官 "wikilink")。（2004–2011）\[10\]
-  - [Jono
-    Bacon](https://zh.wikipedia.org/wiki/Jono_Bacon "wikilink")，是[LugRadio的一个参与者](https://zh.wikipedia.org/wiki/LugRadio "wikilink")。他是Canonical新的*Ubuntu社区领导人*。（2006–2014）
-  - [周鼎](https://zh.wikipedia.org/wiki/周鼎\(程式员\) "wikilink")，[Ubuntu
-    Tweak的作者](https://zh.wikipedia.org/wiki/Ubuntu_Tweak "wikilink")。（2011–2013）\[11\]
+  - [本·克林斯](https://zh.wikipedia.org/wiki/本·克林斯 "wikilink")（Ben Collins），前Debian项目领导人，[内核](../Page/内核.md "wikilink")的开发者。（2006–2009）
+  - [大卫·米勒](https://zh.wikipedia.org/wiki/大卫·米勒 "wikilink")（Dave Miller），是[Bugzilla](../Page/Bugzilla.md "wikilink")的成员，第一个雇员。（2004）
+  - [杰夫·沃](https://zh.wikipedia.org/wiki/杰夫·沃 "wikilink")（Jeff Waugh），Canonical的早期雇员，负责[企业发展](https://zh.wikipedia.org/wiki/企业发展 "wikilink")。他于2006年7月离开Canonical，以便更充分地关注他[GNOME](../Page/GNOME.md "wikilink")的项目中的工作。（2004–2006）
+  - [本杰明·马可·希尔](https://zh.wikipedia.org/wiki/本杰明·马可·希尔 "wikilink")（Benjamin Mako Hill），核心开发人员和社区协调员。（2004–2005）
+  - [伊恩·杰克逊](https://zh.wikipedia.org/wiki/伊恩·杰克逊 "wikilink")（Ian Jackson），[dpkg的开发者和前Debian项目领导人](https://zh.wikipedia.org/wiki/dpkg "wikilink")。（2005–2007）
+  - [Lars Wirzenius](https://zh.wikipedia.org/wiki/Lars_Wirzenius "wikilink")，[Linux内核](../Page/Linux内核.md "wikilink")的第一位贡献者，[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")过去的同事。（2007–2009）
+  - [Scott James Remnant](https://zh.wikipedia.org/wiki/Scott_James_Remnant "wikilink")，长期的Debian开发者，他维护[GNU Libtool](https://zh.wikipedia.org/wiki/GNU_Libtool "wikilink")、[dpkg和其他一些重要的](https://zh.wikipedia.org/wiki/dpkg "wikilink")[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")。2006年，斯科特从Debian辞职。同时，他还是[Planet聚合器的作者之一](https://zh.wikipedia.org/wiki/Planet聚合器 "wikilink")。在Canonical，他开发了[Upstart](../Page/Upstart.md "wikilink")[系统初始化系统](https://zh.wikipedia.org/wiki/系统初始化系统 "wikilink")。（2004–2011）\[9\]
+  - [马特·齐默曼](https://zh.wikipedia.org/wiki/马特·齐默曼 "wikilink")（Matt Zimmerman），Debian安全小组早期的成员，曾是 Canonical 公司／[Ubuntu](../Page/Ubuntu.md "wikilink")的[首席技术官](https://zh.wikipedia.org/wiki/首席技术官 "wikilink")。（2004–2011）\[10\]
+  - [Jono Bacon](https://zh.wikipedia.org/wiki/Jono_Bacon "wikilink")，是[LugRadio的一个参与者](https://zh.wikipedia.org/wiki/LugRadio "wikilink")。他是Canonical新的*Ubuntu社区领导人*。（2006–2014）
+  - [周鼎](https://zh.wikipedia.org/wiki/周鼎\(程式员\) "wikilink")，[Ubuntu Tweak的作者](https://zh.wikipedia.org/wiki/Ubuntu_Tweak "wikilink")。（2011–2013）\[11\]
 
 ## 办公
 
@@ -103,34 +84,19 @@ Canonical公司最初是一个完全虚拟的组织，员工都在家里工作�
 
 {{-}}
 
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
-[Category:Linux公司](https://zh.wikipedia.org/wiki/Category:Linux公司 "wikilink")
+[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink") [Category:Linux公司](https://zh.wikipedia.org/wiki/Category:Linux公司 "wikilink")
 
-1.  英国的注册商标
-    [\#E4059119](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E4059119)
-    “UBUNTU”，2004年9月29日提交。
-2.  英国的注册商标
-    [\#E4541661](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E4541661)
-    “KUBUNTU”，2005年7月8日提交。
-3.  英国的注册商标
-    [\#E4541678](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E4541678)
-    “EDUBUNTU”，2005年7月8日提交。
-4.  英国的注册商标
-    [\#E5152467](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E5152467)
-    “BAZAAR”，2006年6月21日提交。
-5.  [Canonical Releases Storm as Open Source
-    |Ubuntu](http://www.ubuntu.com/news/storm-python-orm-open-sourced)
-6.  英国的注册商标
-    [\#E5152418](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E5152418)
-    “LANDSCAPE”，2006年6月21日提交，2007年8月6日发布。
-7.  英国的注册商标
-    [\#E6251219](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E6251219)
-    “LAUNCHPAD”，2007年9月4日提交。
+1.  英国的注册商标 [\#E4059119](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E4059119) “UBUNTU”，2004年9月29日提交。
+2.  英国的注册商标 [\#E4541661](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E4541661) “KUBUNTU”，2005年7月8日提交。
+3.  英国的注册商标 [\#E4541678](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E4541678) “EDUBUNTU”，2005年7月8日提交。
+4.  英国的注册商标 [\#E5152467](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E5152467) “BAZAAR”，2006年6月21日提交。
+5.  [Canonical Releases Storm as Open Source |Ubuntu](http://www.ubuntu.com/news/storm-python-orm-open-sourced)
+6.  英国的注册商标 [\#E5152418](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E5152418) “LANDSCAPE”，2006年6月21日提交，2007年8月6日发布。
+7.  英国的注册商标 [\#E6251219](http://www.ipo.gov.uk/tm/t-find/t-find-number?trademark=E6251219) “LAUNCHPAD”，2007年9月4日提交。
 8.
 9.
 10.
-11. [对话Ubuntu
-    Tweak作者：站在用户的角度玩Linux](http://os.51cto.com/art/201108/281538.htm)
+11. [对话Ubuntu Tweak作者：站在用户的角度玩Linux](http://os.51cto.com/art/201108/281538.htm)
 12. <http://bazaar-vcs.org/SprintLondonMay07> （地点）
 13.
 14. [Canonical台北設點　Ubuntu與台灣製造業更緊密](http://www.ithome.com.tw/itadm/article.php?c=54673)

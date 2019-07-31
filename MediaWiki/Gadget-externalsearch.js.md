@@ -4,8 +4,7 @@
 
   - /
 
-/\*\* Change Special:Search to use a drop-down menu
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+/\*\* Change Special:Search to use a drop-down menu \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 ` *`
 ` *  Description: Change Special:Search to use a drop-down menu, with the default being`
@@ -64,8 +63,7 @@ function SpecialSearchEnhanced() {
 
 window.searchEngines = \[\];
 
-// Script is specific to Special:Search if ( mw.config.get(
-'wgCanonicalSpecialPageName' ) === 'Search'){
+// Script is specific to Special:Search if ( mw.config.get( 'wgCanonicalSpecialPageName' ) === 'Search'){
 
 ` $(SpecialSearchEnhanced);`
 

@@ -1,11 +1,10 @@
-**DEEN**，是[日本的一個搖滾樂團](../Page/日本.md "wikilink")，現在團員為[池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink")、[山根公路](https://zh.wikipedia.org/wiki/山根公路 "wikilink")。
+**DEEN**，是[日本](../Page/日本.md "wikilink")的一個搖滾樂團，現在團員為[池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink")、[山根公路](https://zh.wikipedia.org/wiki/山根公路 "wikilink")。
 
 ## 經歷
 
 DEEN係於1993年由池森秀一、山根公路、中居辰磨、倉澤圭介所組成，出道首張單曲《このまま君だけを奪い去りたい》破百萬銷售。1994年中居和倉澤退出，由田川伸治和宇津本直紀加入，9月14日首張同名專輯《DEEN》發行，登上排行榜的第一名，也獲得了百萬銷售的成績。在日本歌壇上，第一張單曲與第一張專輯同時超過百萬銷售成績的歌手，至今只有四組人得到這樣的紀錄，DEEN就是其中之一，也獲得了1993年新人暢銷排行第一名。
 
-1997年12月17日發行了大家耳熟能詳的第13張單曲《夢であるように》這張單曲除了是DEEN第一次全員合作所作曲的外，也是DEEN第一次出現在電玩界的音樂，成為[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")《Tales
-of Destiny》的主題曲。
+1997年12月17日發行了大家耳熟能詳的第13張單曲《夢であるように》這張單曲除了是DEEN第一次全員合作所作曲的外，也是DEEN第一次出現在電玩界的音樂，成為[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")《Tales of Destiny》的主題曲。
 
 1999年底宇津本直紀突然宣布退出，并于5年后创立新的乐队名为[Croon](https://zh.wikipedia.org/wiki/Croon "wikilink")。演唱會則有支援性的鼓手HIDE，以及貝斯手宮野和也加入。
 
@@ -31,10 +30,8 @@ of Destiny》的主題曲。
 
 **1993年**
 
-  - 1.好想就這樣奪走你
-    03/10（[金城武翻唱](../Page/金城武.md "wikilink")，1995年專輯《偷偷地醉》中的《深深愛你》）
-  - 2.展開雙翼
-    07/17（[許志安翻唱](../Page/許志安.md "wikilink")，1993年專輯《Heart》中的《心血》）
+  - 1.好想就這樣奪走你 03/10（[金城武](../Page/金城武.md "wikilink")翻唱，1995年專輯《偷偷地醉》中的《深深愛你》）
+  - 2.展開雙翼 07/17（[許志安](../Page/許志安.md "wikilink")翻唱，1993年專輯《Heart》中的《心血》）
   - 3.Memories 09/22
   - 4.寄予永遠 11/28
 
@@ -56,15 +53,13 @@ of Destiny》的主題曲。
 
 **1997年**
 
-  - 12\.[沒有你的夏天](../Page/沒有你的夏天.md "wikilink")
-    08/05（動畫[名偵探柯南](../Page/名偵探柯南.md "wikilink")4th片尾曲）
+  - 12\.[沒有你的夏天](../Page/沒有你的夏天.md "wikilink") 08/05（動畫[名偵探柯南](../Page/名偵探柯南.md "wikilink")4th片尾曲）
   - 13.如夢似幻般 12/17
 
 **1998年**
 
   - 14.在遙遠的天空下 02/18
-  - 15.只要有你
-    05/27（動畫[中華一番](https://zh.wikipedia.org/wiki/中華一番 "wikilink")3rd片頭曲）
+  - 15.只要有你 05/27（動畫[中華一番](https://zh.wikipedia.org/wiki/中華一番 "wikilink")3rd片頭曲）
   - 16.沒有回應的愛 11/18
 
 **1999年**
@@ -181,5 +176,4 @@ of Destiny》的主題曲。
   - [DEEN](http://www.sonymusic.co.jp/Music/Arch/ARI/deen/)在索尼音乐的页面
 
   -
-[Category:1992年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
+[Category:1992年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")

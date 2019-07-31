@@ -1,10 +1,4 @@
-《**OSCA**》（，*O.S.C.A.*）是日本樂團[東京事變](../Page/東京事變.md "wikilink")的第四張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[EMI
-Music
-Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin
-Music於](../Page/維京唱片.md "wikilink")2007年7月11日發行\[1\]。初回限定為「特殊剪裁印刷仕樣、《[東京事變
-live tour 2007 Spa &
-Treatment](https://zh.wikipedia.org/wiki/Spa_&_Treatment#演唱會簡介 "wikilink")》
-門票抽選」。
+《**OSCA**》（，*O.S.C.A.*）是日本樂團[東京事變](../Page/東京事變.md "wikilink")的第四張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[EMI Music Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin Music於](../Page/維京唱片.md "wikilink")2007年7月11日發行\[1\]。初回限定為「特殊剪裁印刷仕樣、《[東京事變 live tour 2007 Spa & Treatment](https://zh.wikipedia.org/wiki/Spa_&_Treatment#演唱會簡介 "wikilink")》 門票抽選」。
 
 在單曲銷售成績方面，本張單曲在日本Oricon銷售榜上最高位居單週第2名\[2\]，名列2007年年度銷售榜第137位\[3\]。
 
@@ -12,13 +6,9 @@ Treatment](https://zh.wikipedia.org/wiki/Spa_&_Treatment#演唱會簡介 "wikili
 
 《**OSCA**》是東京事變繼2005年11月發表《[修羅場](../Page/修羅場_\(東京事變單曲\).md "wikilink")》後，睽違一年半後再度發行作品。但是[椎名林檎](../Page/椎名林檎.md "wikilink")在上一張專輯《[大人](https://zh.wikipedia.org/wiki/大人_\(東京事變專輯\) "wikilink")》接受訪問中提到「今後，她想要專心作詞和演唱，作曲則會交給其他成員\[4\]。」因此，這張單曲的作品均來自於團員們的創作，再加上椎名林檎宛如舞蹈般的演唱，展現出東京事變另外一種面貌。而這樣的改變，竟讓她受到歌迷反應說比較喜歡團員創作的歌曲，不禁讓她自嘲：「那我乾脆就不作曲、專心排練演唱會，讓其他人去跑接下來的宣傳行程好了\[5\]。」
 
-而也因為這個緣故2006年舉行的《["DOMESTIC\!" Just can't help
-it.](../Page/Just_can't_help_it..md "wikilink")》巡迴演唱會上發表了浮雲所創作的歌曲「Mirror
-Ball」，藉此希望之後的活動能以團員的創作曲目為中心\[6\]。而本張單曲的A面歌曲「OSCA」便是椎名林檎委託浮雲作詞及作曲的作品，而第二首曲目「小木偶」則是另外一位新團員伊澤一葉的創作曲，第三首曲目「皮包內容」則是伊澤一葉的創作，不過歌詞則是椎名林檎應伊澤一葉之邀而填寫的詞。而在單曲製作的時程上，東京事變主要是利用全國巡迴演唱會《"DOMESTIC\!"
-Just can't help
-it.》後與椎名林檎與共同創作的新專輯《[平成風俗](../Page/平成風俗.md "wikilink")》宣傳之間的空檔所製作的。在單曲封面上，因為A面歌曲「OSCA」是以浮雲為中心的作品，因此單曲封面就是由浮雲握著遙控器，指向電視螢幕。
+而也因為這個緣故2006年舉行的《["DOMESTIC\!" Just can't help it.](../Page/Just_can't_help_it..md "wikilink")》巡迴演唱會上發表了浮雲所創作的歌曲「Mirror Ball」，藉此希望之後的活動能以團員的創作曲目為中心\[6\]。而本張單曲的A面歌曲「OSCA」便是椎名林檎委託浮雲作詞及作曲的作品，而第二首曲目「小木偶」則是另外一位新團員伊澤一葉的創作曲，第三首曲目「皮包內容」則是伊澤一葉的創作，不過歌詞則是椎名林檎應伊澤一葉之邀而填寫的詞。而在單曲製作的時程上，東京事變主要是利用全國巡迴演唱會《"DOMESTIC\!" Just can't help it.》後與椎名林檎與共同創作的新專輯《[平成風俗](../Page/平成風俗.md "wikilink")》宣傳之間的空檔所製作的。在單曲封面上，因為A面歌曲「OSCA」是以浮雲為中心的作品，因此單曲封面就是由浮雲握著遙控器，指向電視螢幕。
 
-另外，在接受訪談時，伊澤一葉提到「因為上一張專輯《大人》錄音時，自己罹患了[腱鞘炎](https://zh.wikipedia.org/wiki/腱鞘炎 "wikilink")，導致鋼琴的部分是最後才加上去的\[7\]。」但是，這一次的錄音是跟團員們一起愉快的錄完，所以才會造成《大人》的編曲看起來比較緻密，相對地《娛樂》相關作品就比較從容\[8\]。
+另外，在接受訪談時，伊澤一葉提到「因為上一張專輯《大人》錄音時，自己罹患了[腱鞘炎](../Page/腱鞘炎.md "wikilink")，導致鋼琴的部分是最後才加上去的\[7\]。」但是，這一次的錄音是跟團員們一起愉快的錄完，所以才會造成《大人》的編曲看起來比較緻密，相對地《娛樂》相關作品就比較從容\[8\]。
 
 在單曲發售時程上，歌曲「OSCA」音樂錄影帶最早在2007年6月18日開始接受歌迷視聽\[9\]，同日，歌曲「OSCA」也開始接受歌迷數位下載\[10\]。單曲則於7月11日在日本發行\[11\]，台灣則是等到7月13日才同步發行進口盤\[12\]與台壓盤\[13\]。
 
@@ -26,9 +16,7 @@ it.》後與椎名林檎與共同創作的新專輯《[平成風俗](../Page/平
 
 ### 音樂錄影帶
 
-[Tokyojihen01-04-mv.jpg](https://zh.wikipedia.org/wiki/File:Tokyojihen01-04-mv.jpg "fig:Tokyojihen01-04-mv.jpg")
-在歌曲「OSCA」的音樂錄影帶中，導演兒玉裕一以紅衣來代表[義大利跑車](https://zh.wikipedia.org/wiki/義大利 "wikilink")「O.S.C.A」，團員們則是大玩角色扮演，當起了取締超速違規的警官。此外，除了普通版的音樂錄影帶外，更有以跳舞為中心和以團員演奏為中心的版本\[17\]。椎名林檎表示這首歌的音樂錄影帶讓她想起個唱時期的作品，到處充滿新鮮感與刺激。最後，此首歌的音樂錄影其實是參考[blur樂團的歌曲](https://zh.wikipedia.org/wiki/布勒 "wikilink")「Music
-Is My Radar」。
+[Tokyojihen01-04-mv.jpg](https://zh.wikipedia.org/wiki/File:Tokyojihen01-04-mv.jpg "fig:Tokyojihen01-04-mv.jpg") 在歌曲「OSCA」的音樂錄影帶中，導演兒玉裕一以紅衣來代表[義大利跑車](https://zh.wikipedia.org/wiki/義大利 "wikilink")「O.S.C.A」，團員們則是大玩角色扮演，當起了取締超速違規的警官。此外，除了普通版的音樂錄影帶外，更有以跳舞為中心和以團員演奏為中心的版本\[17\]。椎名林檎表示這首歌的音樂錄影帶讓她想起個唱時期的作品，到處充滿新鮮感與刺激。最後，此首歌的音樂錄影其實是參考[blur樂團的歌曲](https://zh.wikipedia.org/wiki/布勒 "wikilink")「Music Is My Radar」。
 
 ### 獲獎紀錄
 
@@ -67,13 +55,9 @@ Is My Radar」。
 
 ## 批評及評價
 
-音樂網站*Hot
-Express*的評論家平賀哲雄認為「OSCA」表現出椎名林檎迷人的聲音，這也是椎名林檎以前的作品中枚沒有看過的\[20\]。音樂網站*CDJournal*的評論家平賀哲雄認為這首歌曲表現出椎名林檎迷人的聲音，這也是椎名林檎以前的作品中沒有看過的\[21\]。音樂網站*CDJournal*的評論家則特別關注這首歌曲的組成，先慢後快的組合方式，就好像是將許多首歌曲結合起來成為一首歌曲\[22\]。音樂網站*What's
-In?*的評論家則更近一步的表示因為先慢後快的歌曲結構，讓歌曲帶有粗曠搖滾的風格\[23\]
+音樂網站*Hot Express*的評論家平賀哲雄認為「OSCA」表現出椎名林檎迷人的聲音，這也是椎名林檎以前的作品中枚沒有看過的\[20\]。音樂網站*CDJournal*的評論家平賀哲雄認為這首歌曲表現出椎名林檎迷人的聲音，這也是椎名林檎以前的作品中沒有看過的\[21\]。音樂網站*CDJournal*的評論家則特別關注這首歌曲的組成，先慢後快的組合方式，就好像是將許多首歌曲結合起來成為一首歌曲\[22\]。音樂網站*What's In?*的評論家則更近一步的表示因為先慢後快的歌曲結構，讓歌曲帶有粗曠搖滾的風格\[23\]
 
-音樂網站*Hot
-Express*的評論家同時也表示「小木偶」這首歌曲就好像在聽椎名林檎的原聲帶專輯《[平成風俗](../Page/平成風俗.md "wikilink")》（2007）中的「賭局」這首歌曲\[24\]。而這樣的曲風也被*CDJournal*的評論家認為這首歌曲是利用鋼琴彈奏帶有鄉村風格的歌曲\[25\]。最後，關於「皮包內容」這首歌曲*Hot
-Express*的評論家表示這像是六零年代的歌曲\[26\]，*CDJournal*的評論家除了認同這樣的觀點外，更覺得這首歌曲就好像是椎名林檎在美國南部的酒吧中表演一樣\[27\]。
+音樂網站*Hot Express*的評論家同時也表示「小木偶」這首歌曲就好像在聽椎名林檎的原聲帶專輯《[平成風俗](../Page/平成風俗.md "wikilink")》（2007）中的「賭局」這首歌曲\[24\]。而這樣的曲風也被*CDJournal*的評論家認為這首歌曲是利用鋼琴彈奏帶有鄉村風格的歌曲\[25\]。最後，關於「皮包內容」這首歌曲*Hot Express*的評論家表示這像是六零年代的歌曲\[26\]，*CDJournal*的評論家除了認同這樣的觀點外，更覺得這首歌曲就好像是椎名林檎在美國南部的酒吧中表演一樣\[27\]。
 
 ## 演出人員及後製
 
@@ -103,9 +87,7 @@ Express*的評論家表示這像是六零年代的歌曲\[26\]，*CDJournal*的�
 
 ### Oricon 銷售榜(日本)
 
-《OSCA》於2007年7月11日發行。發行首週，在日本公信榜Oricon的單曲榜2007年7月第2週付的榜單中以36,914張銷售量居單週第二名。同週第一名是銷售量突破4萬大關的組合
-feat.
-・[松任谷由實](../Page/松任谷由實.md "wikilink")・[柚子所發行的單曲](../Page/柚子_\(組合\).md "wikilink")「」\[28\]。第二週則位居十五位，同週第一、二名分別是女歌手[濱崎步](../Page/濱崎步.md "wikilink")的單曲「[glitter/fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")」及搖滾樂團[色情塗鴉的單曲](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")「」\[29\]。總計《OSCA》總共在日本公信榜Oricon的單曲榜上榜9週，累積銷售達5.8萬張\[30\]。同時在2007年年銷售榜中，《OSCA》以5.8萬張銷售量居全年第137名\[31\]。
+《OSCA》於2007年7月11日發行。發行首週，在日本公信榜Oricon的單曲榜2007年7月第2週付的榜單中以36,914張銷售量居單週第二名。同週第一名是銷售量突破4萬大關的組合 feat. ・[松任谷由實](../Page/松任谷由實.md "wikilink")・[柚子所發行的單曲](../Page/柚子_\(組合\).md "wikilink")「」\[28\]。第二週則位居十五位，同週第一、二名分別是女歌手[濱崎步](../Page/濱崎步.md "wikilink")的單曲「[glitter/fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")」及搖滾樂團[色情塗鴉的單曲](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")「」\[29\]。總計《OSCA》總共在日本公信榜Oricon的單曲榜上榜9週，累積銷售達5.8萬張\[30\]。同時在2007年年銷售榜中，《OSCA》以5.8萬張銷售量居全年第137名\[31\]。
 
 <table>
 <thead>
@@ -203,8 +185,7 @@ OSCA</p></td>
 
 ### 參考資料
 
-[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
-[Category:東京事變歌曲](https://zh.wikipedia.org/wiki/Category:東京事變歌曲 "wikilink")
+[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:東京事變歌曲](https://zh.wikipedia.org/wiki/Category:東京事變歌曲 "wikilink")
 
 1.
 2.

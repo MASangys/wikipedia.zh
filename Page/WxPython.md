@@ -4,8 +4,7 @@ wxPython是跨平台的，开源的。
 
 ## 範例
 
-以下是一個簡單的wxPython的[Hello
-World模塊](../Page/Hello_World.md "wikilink")，描述了在wxPython中的兩個主要物件（主視窗物件和應用程序物件），然後藉由呼叫`MainLoop()`控制事件驅動系統，而該系統負責該程式的使用者互動部分。
+以下是一個簡單的wxPython的[Hello World模塊](../Page/Hello_World.md "wikilink")，描述了在wxPython中的兩個主要物件（主視窗物件和應用程序物件），然後藉由呼叫`MainLoop()`控制事件驅動系統，而該系統負責該程式的使用者互動部分。
 
 ``` python
 #!/usr/bin/env python
@@ -20,10 +19,8 @@ app.MainLoop()
 ## 使用wxPython開發的程式
 
   - [BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")，一種對等的BitTorrent應用程序。
-  - [Google
-    Drive](https://zh.wikipedia.org/wiki/Google_Drive "wikilink")，Google雲端存儲系統的桌面客戶端\[1\]。
-  - [GRASS
-    GIS](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")，一種免費且[開源的地理信息系統](https://zh.wikipedia.org/wiki/開源 "wikilink")。
+  - [Google Drive](https://zh.wikipedia.org/wiki/Google_Drive "wikilink")，Google雲端存儲系統的桌面客戶端\[1\]。
+  - [GRASS GIS](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")，一種免費且[開源的地理信息系統](https://zh.wikipedia.org/wiki/開源 "wikilink")。
   - [PlayOnLinux](../Page/PlayOnLinux.md "wikilink")，一個[Wine](../Page/Wine.md "wikilink")軟體[相容層的圖形化前端](https://zh.wikipedia.org/wiki/相容層 "wikilink")。
 
 ## 參見
@@ -44,12 +41,9 @@ app.MainLoop()
   -
   - [Project Phoenix main page](http://wiki.wxpython.org/ProjectPhoenix)
 
-  - [List of applications developed with
-    wxPython](http://wiki.wxpython.org/wxPythonPit%20Apps)
+  - [List of applications developed with wxPython](http://wiki.wxpython.org/wxPythonPit%20Apps)
 
-  - [Tutorial screencasts for starting wxPython
-    programming](https://web.archive.org/web/20060823135830/http://showmedo.com/videos/series?name=PythonWxPythonBeginnersSeries)
-    at showmedo
+  - [Tutorial screencasts for starting wxPython programming](https://web.archive.org/web/20060823135830/http://showmedo.com/videos/series?name=PythonWxPythonBeginnersSeries) at showmedo
 
 [Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
 

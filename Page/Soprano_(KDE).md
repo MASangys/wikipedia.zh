@@ -1,8 +1,4 @@
-**Soprano**
-是一個軟件庫，提供了一個物件導向的C++/Qt4框架處理[RDF數據](https://zh.wikipedia.org/wiki/RDF "wikilink")。Soprano創建作為[NEPOMUK](../Page/NEPOMUK.md "wikilink")項目下的一個子項目，構成[KDE
-4語義學桌面的一部分](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")\[1\]。Soprano將作為一個倉庫來存儲
-NEPOMUK
-伺服器所產生的信息（如評級、標籤或意見）。然後將索引提供給[Strigi](../Page/Strigi.md "wikilink")來產生更好的搜索結果\[2\]。
+**Soprano** 是一個軟件庫，提供了一個物件導向的C++/Qt4框架處理[RDF數據](https://zh.wikipedia.org/wiki/RDF "wikilink")。Soprano創建作為[NEPOMUK](../Page/NEPOMUK.md "wikilink")項目下的一個子項目，構成[KDE 4語義學桌面的一部分](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")\[1\]。Soprano將作為一個倉庫來存儲 NEPOMUK 伺服器所產生的信息（如評級、標籤或意見）。然後將索引提供給[Strigi](../Page/Strigi.md "wikilink")來產生更好的搜索結果\[2\]。
 
 ## 功能
 
@@ -14,7 +10,5 @@ NEPOMUK
 
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
 
-1.  [Soprano - the QT based RDF
-    framework](http://soprano.sourceforge.net/node/1)
-2.  [More about Nepomuk-KDE: Soprano and KDE integration «
-    /home/liquidat](http://liquidat.wordpress.com/2007/06/19/more-about-nepomuk-kde-soprano-and-kde-integration/)
+1.  [Soprano - the QT based RDF framework](http://soprano.sourceforge.net/node/1)
+2.  [More about Nepomuk-KDE: Soprano and KDE integration « /home/liquidat](http://liquidat.wordpress.com/2007/06/19/more-about-nepomuk-kde-soprano-and-kde-integration/)

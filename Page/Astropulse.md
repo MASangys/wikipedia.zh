@@ -1,5 +1,4 @@
-**Astropulse**是一個使全[世界](../Page/世界.md "wikilink")的志願者能夠使用自己的[電腦出一分力參與研究](https://zh.wikipedia.org/wiki/電腦 "wikilink")[黑洞](../Page/黑洞.md "wikilink")、[脈衝星及](https://zh.wikipedia.org/wiki/脈衝星 "wikilink")[外星生命](../Page/外星生命.md "wikilink")的[分布式計算計劃](https://zh.wikipedia.org/wiki/分布式計算 "wikilink")，也是[在家中搜尋外星智慧生物](../Page/SETI@home.md "wikilink")（SETI@home）的其中一部分。志願者的電腦會透過[伯克利開放式網絡計算平台](https://zh.wikipedia.org/wiki/伯克利開放式網絡計算平台 "wikilink")（BOINC）來進行該計劃。1999年，[太空科學實驗室使用了一個能夠平衡的分散在世界各地的電腦來進行龐大計算的計劃](https://zh.wikipedia.org/wiki/太空科學實驗室 "wikilink")——SETI@home。SETI@home利用了[阿雷西博天文台](../Page/阿雷西博天文台.md "wikilink")[電波望遠鏡及頻寬](https://zh.wikipedia.org/wiki/電波望遠鏡 "wikilink")[無線電波信號作為搜尋外](https://zh.wikipedia.org/wiki/無線電波 "wikilink")[太空技術的記錄資料](https://zh.wikipedia.org/wiki/太空 "wikilink")\[1\]。該計劃及[SETI@home](../Page/SETI@home.md "wikilink")推薦了[中學教師一個具體的方法使學生運用電腦來學習](https://zh.wikipedia.org/wiki/中學 "wikilink")[天文學](../Page/天文學.md "wikilink")，而學校電腦的數量亦支持著分散式計算計劃。
-[SETI@home_Astropulse_Screensaver.JPG](https://zh.wikipedia.org/wiki/File:SETI@home_Astropulse_Screensaver.JPG "fig:SETI@home_Astropulse_Screensaver.JPG")
+**Astropulse**是一個使全[世界](../Page/世界.md "wikilink")的志願者能夠使用自己的[電腦出一分力參與研究](https://zh.wikipedia.org/wiki/電腦 "wikilink")[黑洞](../Page/黑洞.md "wikilink")、[脈衝星及](https://zh.wikipedia.org/wiki/脈衝星 "wikilink")[外星生命](../Page/外星生命.md "wikilink")的[分布式計算計劃](https://zh.wikipedia.org/wiki/分布式計算 "wikilink")，也是[在家中搜尋外星智慧生物](../Page/SETI@home.md "wikilink")（SETI@home）的其中一部分。志願者的電腦會透過[伯克利開放式網絡計算平台](https://zh.wikipedia.org/wiki/伯克利開放式網絡計算平台 "wikilink")（BOINC）來進行該計劃。1999年，[太空科學實驗室使用了一個能夠平衡的分散在世界各地的電腦來進行龐大計算的計劃](https://zh.wikipedia.org/wiki/太空科學實驗室 "wikilink")——SETI@home。SETI@home利用了[阿雷西博天文台](../Page/阿雷西博天文台.md "wikilink")[電波望遠鏡及頻寬](https://zh.wikipedia.org/wiki/電波望遠鏡 "wikilink")[無線電波信號作為搜尋外](https://zh.wikipedia.org/wiki/無線電波 "wikilink")[太空技術的記錄資料](https://zh.wikipedia.org/wiki/太空 "wikilink")\[1\]。該計劃及[SETI@home](../Page/SETI@home.md "wikilink")推薦了[中學教師一個具體的方法使學生運用電腦來學習](https://zh.wikipedia.org/wiki/中學 "wikilink")[天文學](../Page/天文學.md "wikilink")，而學校電腦的數量亦支持著分散式計算計劃。 [SETI@home_Astropulse_Screensaver.JPG](https://zh.wikipedia.org/wiki/File:SETI@home_Astropulse_Screensaver.JPG "fig:SETI@home_Astropulse_Screensaver.JPG")
 
 ## 開發過程
 
@@ -23,44 +22,31 @@ Astropulse會尋找著單一的脈衝及有規則重復的脈衝。這個實驗�
 
   - [Astropulse FAQ](http://setiathome.berkeley.edu/astropulse_faq.php)
 
-  - [SETI@home/AstroPulse
-    Beta](http://seticlassic.ssl.berkeley.edu/beta)
+  - [SETI@home/AstroPulse Beta](http://seticlassic.ssl.berkeley.edu/beta)
 
-  - [SETI@home forum thread about
-    Astropulse](http://setiathome.berkeley.edu/forum_thread.php?id=22272)
+  - [SETI@home forum thread about Astropulse](http://setiathome.berkeley.edu/forum_thread.php?id=22272)
 
-  - [SETI@home Beta forum thread about
-    Astropulse](http://setiweb.ssl.berkeley.edu/beta/forum_thread.php?id=834)
+  - [SETI@home Beta forum thread about Astropulse](http://setiweb.ssl.berkeley.edu/beta/forum_thread.php?id=834)
 
-  - [Astropulse
-    Wiki](https://web.archive.org/web/20081123031658/http://www.boinc-wiki.info/AstroPulse)
+  - [Astropulse Wiki](https://web.archive.org/web/20081123031658/http://www.boinc-wiki.info/AstroPulse)
 
-  - [Electromagnetic
-    Radiation](http://setiathome.berkeley.edu/ap_em_radiation.php)
+  - [Electromagnetic Radiation](http://setiathome.berkeley.edu/ap_em_radiation.php)
 
 ### 供教學及學生用
 
-  - [Ask an Astrophysicist — black
-    holes](http://imagine.gsfc.nasa.gov/docs/ask_astro/black_holes.html)
+  - [Ask an Astrophysicist — black holes](http://imagine.gsfc.nasa.gov/docs/ask_astro/black_holes.html)
 
-  - [Ask an Astrophysicist — neutron stars and
-    pulsars](http://imagine.gsfc.nasa.gov/docs/ask_astro/neutron_star.html)
+  - [Ask an Astrophysicist — neutron stars and pulsars](http://imagine.gsfc.nasa.gov/docs/ask_astro/neutron_star.html)
 
-  - [Goddard Space Center's Teachers
-    Corner](http://imagine.gsfc.nasa.gov/docs/teachers/best.html)
+  - [Goddard Space Center's Teachers Corner](http://imagine.gsfc.nasa.gov/docs/teachers/best.html)
 
-  - [Basics of Radio
-    Astronomy](http://www2.jpl.nasa.gov/radioastronomy/)
+  - [Basics of Radio Astronomy](http://www2.jpl.nasa.gov/radioastronomy/)
 
-  - [SETI Science
-    Links](http://setiathome.berkeley.edu/links_science.php)
+  - [SETI Science Links](http://setiathome.berkeley.edu/links_science.php)
 
-  - [Planetary Society
-    Article](http://www.planetary.org/programs/projects/setiathome/setiathome_20080827.html)
+  - [Planetary Society Article](http://www.planetary.org/programs/projects/setiathome/setiathome_20080827.html)
 
-[Category:伯克利开放式网络计算平台](https://zh.wikipedia.org/wiki/Category:伯克利开放式网络计算平台 "wikilink")
-[Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink")
+[Category:伯克利开放式网络计算平台](https://zh.wikipedia.org/wiki/Category:伯克利开放式网络计算平台 "wikilink") [Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink")
 
 1.  [About Astropulse](http://setiathome.berkeley.edu/ap_info.php)
-2.   [Living Reviews - Observing
-    basics](http://relativity.livingreviews.org/open?pubNo=lrr-2001-5&page=node18.html)
+2.   [Living Reviews - Observing basics](http://relativity.livingreviews.org/open?pubNo=lrr-2001-5&page=node18.html)

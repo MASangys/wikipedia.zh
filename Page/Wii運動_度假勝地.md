@@ -1,8 +1,4 @@
-《**Wii運動 度假勝地**》（Wii Sports
-Resort），是[任天堂](../Page/任天堂.md "wikilink")繼[Wii
-Sports後推出的新運動遊戲](../Page/Wii_Sports.md "wikilink")，發行於[Wii](../Page/Wii.md "wikilink")平台，搭配新週邊[Wii動感強化器來做出更精準的動作感應](https://zh.wikipedia.org/wiki/Wii動感強化器 "wikilink")，遊戲內包括有[射箭](../Page/射箭.md "wikilink")、[快艇](https://zh.wikipedia.org/wiki/快艇 "wikilink")、[飛盤](../Page/飛盤.md "wikilink")、[劍道](../Page/劍道.md "wikilink")、[桌球](https://zh.wikipedia.org/wiki/桌球 "wikilink")、[水上摩托車](https://zh.wikipedia.org/wiki/水上摩托車 "wikilink")、[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[高爾夫球](../Page/高爾夫球.md "wikilink")等項目。遊戲內容大致上承繼著Wii
-Sports，但[棒球](../Page/棒球.md "wikilink")、[拳擊和](https://zh.wikipedia.org/wiki/拳擊 "wikilink")[網球這三種舊版遊戲在Wii](https://zh.wikipedia.org/wiki/網球 "wikilink")
-Sports Resort沒有出現。
+《**Wii運動 度假勝地**》（Wii Sports Resort），是[任天堂](../Page/任天堂.md "wikilink")繼[Wii Sports後推出的新運動遊戲](../Page/Wii_Sports.md "wikilink")，發行於[Wii](../Page/Wii.md "wikilink")平台，搭配新週邊[Wii動感強化器來做出更精準的動作感應](https://zh.wikipedia.org/wiki/Wii動感強化器 "wikilink")，遊戲內包括有[射箭](../Page/射箭.md "wikilink")、[快艇](https://zh.wikipedia.org/wiki/快艇 "wikilink")、[飛盤](../Page/飛盤.md "wikilink")、[劍道](../Page/劍道.md "wikilink")、[桌球](https://zh.wikipedia.org/wiki/桌球 "wikilink")、[水上摩托車](https://zh.wikipedia.org/wiki/水上摩托車 "wikilink")、[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[高爾夫球](../Page/高爾夫球.md "wikilink")等項目。遊戲內容大致上承繼著Wii Sports，但[棒球](../Page/棒球.md "wikilink")、[拳擊和](https://zh.wikipedia.org/wiki/拳擊 "wikilink")[網球這三種舊版遊戲在Wii](https://zh.wikipedia.org/wiki/網球 "wikilink") Sports Resort沒有出現。
 
 ## 遊戲場景
 
@@ -116,13 +112,11 @@ Sports Resort沒有出現。
 
 #### 遊覽飛行
 
-玩家利用wii
-遙控器去控制水上飛機進行遊覽飛行，飛行時如發現圖形(白色圓形加一個「i」字)，駛近將有那景點的介紹，撞擊圖形以收集景點資料(最多能收集八十個)。
+玩家利用wii 遙控器去控制水上飛機進行遊覽飛行，飛行時如發現圖形(白色圓形加一個「i」字)，駛近將有那景點的介紹，撞擊圖形以收集景點資料(最多能收集八十個)。
 
 #### 對戰飛行
 
-雙人遊戲，玩家利用wii
-遙控器去控制水上飛機進行對戰飛行，按「A」鈕可發射水砲，主要為射擊對手飛機上的氣球，射到沒有為止，如果限時到了而還有剩氣球，則計算雙方氣球數，多的一方為勝。另外不定時會有氣球補給點，發生在不同地點，玩家可嘗試撞擊它們以取得氣球。
+雙人遊戲，玩家利用wii 遙控器去控制水上飛機進行對戰飛行，按「A」鈕可發射水砲，主要為射擊對手飛機上的氣球，射到沒有為止，如果限時到了而還有剩氣球，則計算雙方氣球數，多的一方為勝。另外不定時會有氣球補給點，發生在不同地點，玩家可嘗試撞擊它們以取得氣球。
 
 ## 参考资料
 
@@ -132,11 +126,4 @@ Sports Resort沒有出現。
   - [中文官方網頁（台灣）](http://www.nintendo.tw/wiisportsresort/index.htm)
   - [中文官方網頁（香港）](http://www.nintendo.com.hk/wiisportsresort/index.htm)
 
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink")
-[Category:篮球游戏](https://zh.wikipedia.org/wiki/Category:篮球游戏 "wikilink")
-[Category:高尔夫球游戏](https://zh.wikipedia.org/wiki/Category:高尔夫球游戏 "wikilink")
-[Category:网球游戏](https://zh.wikipedia.org/wiki/Category:网球游戏 "wikilink")
-[Category:任天堂情报开发本部游戏](https://zh.wikipedia.org/wiki/Category:任天堂情报开发本部游戏 "wikilink")
-[Category:Wii独占游戏](https://zh.wikipedia.org/wiki/Category:Wii独占游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink") [Category:篮球游戏](https://zh.wikipedia.org/wiki/Category:篮球游戏 "wikilink") [Category:高尔夫球游戏](https://zh.wikipedia.org/wiki/Category:高尔夫球游戏 "wikilink") [Category:网球游戏](https://zh.wikipedia.org/wiki/Category:网球游戏 "wikilink") [Category:任天堂情报开发本部游戏](https://zh.wikipedia.org/wiki/Category:任天堂情报开发本部游戏 "wikilink") [Category:Wii独占游戏](https://zh.wikipedia.org/wiki/Category:Wii独占游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")

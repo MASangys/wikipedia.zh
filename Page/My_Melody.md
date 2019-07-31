@@ -1,24 +1,10 @@
-**My
-Melody**（[台灣譯名為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**美樂蒂**）是[Sanrio第一隻以](https://zh.wikipedia.org/wiki/Sanrio "wikilink")[兔子為造型的](https://zh.wikipedia.org/wiki/兔子 "wikilink")[卡通角色](../Page/卡通.md "wikilink")，在1975年誕生。近年在[亞洲區很受歡迎](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，因此衍生了不少相關[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")[玩具及商品](../Page/玩具.md "wikilink")。
+**My Melody**（[台灣譯名為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**美樂蒂**）是[Sanrio第一隻以](https://zh.wikipedia.org/wiki/Sanrio "wikilink")[兔子為造型的](https://zh.wikipedia.org/wiki/兔子 "wikilink")[卡通](../Page/卡通.md "wikilink")角色，在1975年誕生。近年在[亞洲區很受歡迎](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，因此衍生了不少相關[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")[玩具](../Page/玩具.md "wikilink")及商品。
 
 ## 歷史
 
-My
-Melody的誕生靈感來自[童話故事](https://zh.wikipedia.org/wiki/童話故事 "wikilink")《[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")》，1975年Sanrio以「童話中大野[狼最愛吃的](../Page/狼.md "wikilink")[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")」為題徵求[投票](../Page/投票.md "wikilink")，結果[兔子得到的票數最多](https://zh.wikipedia.org/wiki/兔子 "wikilink")，於是這隻可愛的小白兔便登場了。最初她的名字叫「Little
-Red Riding Hood」，次年才改稱為「My Melody」。
+My Melody的誕生靈感來自[童話故事](https://zh.wikipedia.org/wiki/童話故事 "wikilink")《[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")》，1975年Sanrio以「童話中大野[狼](../Page/狼.md "wikilink")最愛吃的[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")」為題徵求[投票](../Page/投票.md "wikilink")，結果[兔子得到的票數最多](https://zh.wikipedia.org/wiki/兔子 "wikilink")，於是這隻可愛的小白兔便登場了。最初她的名字叫「Little Red Riding Hood」，次年才改稱為「My Melody」。
 
-1976年My
-Melody的好朋友小[老鼠弗蘭多](https://zh.wikipedia.org/wiki/老鼠 "wikilink")（Flat）登場，1983年弟弟Rhythm出現，在80年代末卻沉寂下來，直至1997年My
-Melody在[雜誌投票上突然受到](https://zh.wikipedia.org/wiki/雜誌 "wikilink")[日本高中女生的愛戴](../Page/日本.md "wikilink")，成為除了[Hello
-Kitty外最受歡迎的角色](../Page/Hello_Kitty.md "wikilink")，從此My
-Melody相關的[玩具和精品開始熱賣](../Page/玩具.md "wikilink")。1998年因Hello
-Kitty妒忌Melody人氣比她高，在一次野餐中推了Melody落山下落不明，及後受到極大回響，Melody和Hello
-Kitty的精品銷售量急速上升，在八月官方決定取消被推落山的設定，聲稱只是一場意外，My
-Melody也再次現身。在2005年，以My
-Melody為主角的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[我愛美樂蒂](https://zh.wikipedia.org/wiki/我愛美樂蒂 "wikilink")》在[日本播放](../Page/日本.md "wikilink")，對手[Kuromi於此時出場](../Page/Kuromi.md "wikilink")，令My
-Melody更受歡迎，動畫至今已播放至第四輯，更推出CD和DVD。Sanrio Japan及草莓新聞合辦2010 & 2011 Sanrio
-Character Ranking，台灣三麗鷗亦舉辦2010 Sanrio人氣明星網上選舉，My Melody在三個選舉中皆為第一名, 而My
-Melody也在2014年的日本人氣明星網上選舉得到第一名。
+1976年My Melody的好朋友小[老鼠弗蘭多](https://zh.wikipedia.org/wiki/老鼠 "wikilink")（Flat）登場，1983年弟弟Rhythm出現，在80年代末卻沉寂下來，直至1997年My Melody在[雜誌投票上突然受到](https://zh.wikipedia.org/wiki/雜誌 "wikilink")[日本](../Page/日本.md "wikilink")高中女生的愛戴，成為除了[Hello Kitty外最受歡迎的角色](../Page/Hello_Kitty.md "wikilink")，從此My Melody相關的[玩具](../Page/玩具.md "wikilink")和精品開始熱賣。1998年因Hello Kitty妒忌Melody人氣比她高，在一次野餐中推了Melody落山下落不明，及後受到極大回響，Melody和Hello Kitty的精品銷售量急速上升，在八月官方決定取消被推落山的設定，聲稱只是一場意外，My Melody也再次現身。在2005年，以My Melody為主角的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[我愛美樂蒂](https://zh.wikipedia.org/wiki/我愛美樂蒂 "wikilink")》在[日本](../Page/日本.md "wikilink")播放，對手[Kuromi](../Page/Kuromi.md "wikilink")於此時出場，令My Melody更受歡迎，動畫至今已播放至第四輯，更推出CD和DVD。Sanrio Japan及草莓新聞合辦2010 & 2011 Sanrio Character Ranking，台灣三麗鷗亦舉辦2010 Sanrio人氣明星網上選舉，My Melody在三個選舉中皆為第一名, 而My Melody也在2014年的日本人氣明星網上選舉得到第一名。
 
 ## 資料
 
@@ -49,32 +35,23 @@ Melody也在2014年的日本人氣明星網上選舉得到第一名。
 
   - Flat （老鼠 弗蘭多） 美乐蒂的男朋友 ，有些害羞。
   - Risu （松鼠）老鼠弗蘭多的最好的朋友，有些小小的害羞 喜歡親女孩
-  - Piano （绵羊 必爱诺）cute，是个非常亲切有些爱撒娇的女孩子。
+  - Piano （綿羊，英文：My Sweet Piano、日文：マイスウィートピアノ，台譯：彼安諾/必愛諾/皮亞諾）生日是7月6號，是一位個性溫柔、喜歡撒嬌的女孩子。
 
 ## 參看
 
   - [Hello Kitty](../Page/Hello_Kitty.md "wikilink")
   - [Kuromi](../Page/Kuromi.md "wikilink")
   - [Sanrio](https://zh.wikipedia.org/wiki/Sanrio "wikilink")
-  - [Pom Pom
-    Purin](https://zh.wikipedia.org/wiki/Pom_Pom_Purin "wikilink")
+  - [Pom Pom Purin](https://zh.wikipedia.org/wiki/Pom_Pom_Purin "wikilink")
 
 ## 外部網站
 
-  - [台灣三麗鷗官方網站 - 三麗鷗明星家族My
-    Melody](https://www.sanrio.com.tw/characters/)
-  - [My
-    Melody官方網站（日語）](https://web.archive.org/web/20071104112536/http://www.sanrio.co.jp/characters/mymelody/welcome.html)
-  - [My
-    Melody官方網站（日語簡介）](https://web.archive.org/web/20081013135052/http://www.sanrio.co.jp/characters/detail/mymelody/index.html)
-  - [奇幻魔法Melody官方網站 -
-    第一輯（日語）](http://www.tv-osaka.co.jp/mymelo/index.html)
-  - [奇幻魔法Melody官方網站 -
-    第二輯（日語）](http://www.tv-osaka.co.jp/mymelo_kurukuru/)
-  - [奇幻魔法Melody官方網站 -
-    第三輯（日語）](http://www.tv-osaka.co.jp/animelobby/story_chara_m.html)
-  - [奇幻魔法Melody官方網站 -
-    第四輯（日語）](http://www.tv-osaka.co.jp/ip4/mymelo_kirara/)
+  - [台灣三麗鷗官方網站 - 三麗鷗明星家族My Melody](https://www.sanrio.com.tw/characters/)
+  - [My Melody官方網站（日語）](https://web.archive.org/web/20071104112536/http://www.sanrio.co.jp/characters/mymelody/welcome.html)
+  - [My Melody官方網站（日語簡介）](https://web.archive.org/web/20081013135052/http://www.sanrio.co.jp/characters/detail/mymelody/index.html)
+  - [奇幻魔法Melody官方網站 - 第一輯（日語）](http://www.tv-osaka.co.jp/mymelo/index.html)
+  - [奇幻魔法Melody官方網站 - 第二輯（日語）](http://www.tv-osaka.co.jp/mymelo_kurukuru/)
+  - [奇幻魔法Melody官方網站 - 第三輯（日語）](http://www.tv-osaka.co.jp/animelobby/story_chara_m.html)
+  - [奇幻魔法Melody官方網站 - 第四輯（日語）](http://www.tv-osaka.co.jp/ip4/mymelo_kirara/)
 
-[Category:三麗鷗角色](https://zh.wikipedia.org/wiki/Category:三麗鷗角色 "wikilink")
-[Category:虛構兔子](https://zh.wikipedia.org/wiki/Category:虛構兔子 "wikilink")
+[Category:三麗鷗角色](https://zh.wikipedia.org/wiki/Category:三麗鷗角色 "wikilink") [Category:虛構兔子](https://zh.wikipedia.org/wiki/Category:虛構兔子 "wikilink")

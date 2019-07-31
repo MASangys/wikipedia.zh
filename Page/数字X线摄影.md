@@ -26,12 +26,10 @@ FPD有**气体电离室探测器**、**非晶态硒型平板探测器**和**非�
 
 ## 数字探测器的发展
 
-**1987 - RVG**，世界上第一台牙科口内X线探测器上市，由法国*Trophy
-Radiology*公司制造，迅速获得了广大欧洲牙科市场的承认。该公司实际上为[柯达公司所拥有](https://zh.wikipedia.org/wiki/柯达 "wikilink")，并继续生产口内探测器。
+**1987 - RVG**，世界上第一台牙科口内X线探测器上市，由法国*Trophy Radiology*公司制造，迅速获得了广大欧洲牙科市场的承认。该公司实际上为[柯达公司所拥有](https://zh.wikipedia.org/wiki/柯达 "wikilink")，并继续生产口内探测器。
 **1992 - Sens-a-Ray**，由芬兰的*Regam*公司供应。现在该公司已经关闭，其技术为美国*Dent-X*所有。
 **1993 - VisualX**，由美国*Gendex*公司意大利分公司制造。
-**1994 - CDR**由美国*Schick Technology*公司制造。去年Schick
-Technology发布了一款无线版的CDR系统，在当前市场上独一无二。该公司实际上为德国Sirona所有。
+**1994 - CDR**由美国*Schick Technology*公司制造。去年Schick Technology发布了一款无线版的CDR系统，在当前市场上独一无二。该公司实际上为德国Sirona所有。
 **1995 - SIDEXIS**，*Sirona*制造；**DEXIS**，*ProVison Dental Systems, Inc.*
 
 ## 数字X线摄影的优点

@@ -1,5 +1,4 @@
-**ICD-10
-第三章：血液及造血器官疾病和某些涉及免疫机制的疾患**，为[WHO整理的各类](https://zh.wikipedia.org/wiki/WHO "wikilink")[血液](../Page/血液.md "wikilink")及[造血器官疾病和某些涉及免疫机制的疾患](https://zh.wikipedia.org/wiki/造血器官 "wikilink")。
+**ICD-10 第三章：血液及造血器官疾病和某些涉及免疫机制的疾患**，为[WHO整理的各类](https://zh.wikipedia.org/wiki/WHO "wikilink")[血液](../Page/血液.md "wikilink")及[造血器官疾病和某些涉及免疫机制的疾患](https://zh.wikipedia.org/wiki/造血器官 "wikilink")。
 
 ## 受控词表
 
@@ -52,8 +51,7 @@
   - () 脾疾病
   - () [高铁血红蛋白血症](https://zh.wikipedia.org/wiki/高铁血红蛋白血症 "wikilink")
   - () 血液和造血器官的其他疾病
-  - ()
-    某些涉及[淋巴网状内皮细胞组织和](https://zh.wikipedia.org/wiki/淋巴网状内皮细胞 "wikilink")[网状组织细胞系统的疾病](https://zh.wikipedia.org/wiki/网状组织细胞 "wikilink")
+  - () 某些涉及[淋巴网状内皮细胞组织和](https://zh.wikipedia.org/wiki/淋巴网状内皮细胞 "wikilink")[网状组织细胞系统的疾病](https://zh.wikipedia.org/wiki/网状组织细胞 "wikilink")
   - () 分类于他处的疾病引起的血液和造血器官的其他疾患
 
 ### 某些涉及免疫机制的疾患
@@ -75,11 +73,6 @@
 
 ## 外部链接
 
-  - [World Health Organization](../Page/世界卫生组织.md "wikilink")：ICD-10 -
-    *International Statistical Classification of Diseases and Related
-    Health Problems* (10th Revision, Version for 2007)
-    <http://www.who.int/classifications/apps/icd/icd10online/>
+  - [World Health Organization](../Page/世界卫生组织.md "wikilink")：ICD-10 - *International Statistical Classification of Diseases and Related Health Problems* (10th Revision, Version for 2007) <http://www.who.int/classifications/apps/icd/icd10online/>
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

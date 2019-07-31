@@ -1,29 +1,12 @@
-{{ Infobox Software | name = PyQt | logo = Python and Qt.svg | logo size
-= 160px | screenshot = Screenshot-qt-designer-qwebview.png | screenshot
-size = 300px | caption = Qt Designer | developer = [Riverbank
-Computing](http://www.riverbankcomputing.co.uk/) | latest release
-version = 5.12.3 | latest release date =  | latest preview version = |
-latest preview date = | operating system =
-[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming
-language = [Python](../Page/Python.md "wikilink")\[1\] | genre = |
-license = [GNU
-GPL和商業授權](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink") |
-website = [PyQt官方網站](http://www.riverbankcomputing.co.uk/software/pyqt/)
-}}
+{{ Infobox Software | name = PyQt | logo = Python and Qt.svg | logo size = 160px | screenshot = Screenshot-qt-designer-qwebview.png | screenshot size = 300px | caption = Qt Designer | developer = [Riverbank Computing](http://www.riverbankcomputing.co.uk/) | latest release version = 5.12.3 | latest release date =  | latest preview version = | latest preview date = | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming language = [Python](../Page/Python.md "wikilink")\[1\] | genre = | license = [GNU GPL和商業授權](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink") | website = [PyQt官方網站](http://www.riverbankcomputing.co.uk/software/pyqt/) }}
 
 **PyQt**是[Python](../Page/Python.md "wikilink")语言的[GUI编程解决方案之一](https://zh.wikipedia.org/wiki/GUI "wikilink")。可以用来代替Python内置的[Tkinter](https://zh.wikipedia.org/wiki/Tkinter "wikilink")。其它替代者还有[PyGTK](../Page/PyGTK.md "wikilink")、[wxPython等](https://zh.wikipedia.org/wiki/wxPython "wikilink")。与[Qt](../Page/Qt.md "wikilink")一样，PyQt是一个[自由软件](../Page/自由软件.md "wikilink")。PyQt是[PyKDE的基础](https://zh.wikipedia.org/wiki/PyKDE "wikilink")。
 
-PyQt的开发者是英国的“Riverbank
-Computing”公司。与4.5版本之前的Qt一样，它提供了[GPL与商业协议两种授权方式](https://zh.wikipedia.org/wiki/GPL "wikilink")，因此它可以免费地用于自由软件的开发。不过目前尚不提供[LGPL授权方式](https://zh.wikipedia.org/wiki/LGPL "wikilink")。PyQt可以运行于[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS
-X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")以及[Unix的多数变种上](https://zh.wikipedia.org/wiki/Unix "wikilink")。
+PyQt的开发者是英国的“Riverbank Computing”公司。与4.5版本之前的Qt一样，它提供了[GPL与商业协议两种授权方式](https://zh.wikipedia.org/wiki/GPL "wikilink")，因此它可以免费地用于自由软件的开发。不过目前尚不提供[LGPL授权方式](https://zh.wikipedia.org/wiki/LGPL "wikilink")。PyQt可以运行于[Microsoft Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")以及[Unix的多数变种上](https://zh.wikipedia.org/wiki/Unix "wikilink")。
 
-2009年8月，Qt的开发公司[诺基亚](../Page/诺基亚.md "wikilink")发布[PySide](https://zh.wikipedia.org/wiki/PySide "wikilink")，提供与PyQt类似的功能，但提供了LGPL授权。主要原因是“Riverbank
-Computing”不愿以LGPL授权发布PyQt。\[2\]
+2009年8月，Qt的开发公司[诺基亚](../Page/诺基亚.md "wikilink")发布[PySide](https://zh.wikipedia.org/wiki/PySide "wikilink")，提供与PyQt类似的功能，但提供了LGPL授权。主要原因是“Riverbank Computing”不愿以LGPL授权发布PyQt。\[2\]
 
-自4.5版本以后\[3\]，PyQt同时支持Python 2.x与Python 3.x。但是在API方面有所区别，最主要的是运行在Python
-3.x下的PyQt不使用`QString`，而是`str`。另外，之前为了避开Python
-2.x关键词限制的`exec_()`、`print_()`两个函数现在重新命名为`exec()`，`print()`。
+自4.5版本以后\[3\]，PyQt同时支持Python 2.x与Python 3.x。但是在API方面有所区别，最主要的是运行在Python 3.x下的PyQt不使用`QString`，而是`str`。另外，之前为了避开Python 2.x关键词限制的`exec_()`、`print_()`两个函数现在重新命名为`exec()`，`print()`。
 
 [Python_and_Qt_2.svg](https://zh.wikipedia.org/wiki/File:Python_and_Qt_2.svg "fig:Python_and_Qt_2.svg")
 
@@ -63,14 +46,11 @@ PyQt包含了大约440个类型、超过6000个的函数和方法。
 
 <!-- end list -->
 
-  - “uic”子模块能够将Qt的窗体文件转换为Python代码，能够即时读入窗体文件并且显示出来。它依赖于QtXml模块。“QScintilla”子模块包含一个基于Scintilla的文本编辑器控件，Eric
-    IDE使用它作为代码编辑器。“QtMultimedia”提供了底层的多媒体支持，现在多数开发者改用Phonon模块。“QtSvg”支持SVG
-    1.2 Tiny的静态标准，用于显示与保存SVG格式的图形。
+  - “uic”子模块能够将Qt的窗体文件转换为Python代码，能够即时读入窗体文件并且显示出来。它依赖于QtXml模块。“QScintilla”子模块包含一个基于Scintilla的文本编辑器控件，Eric IDE使用它作为代码编辑器。“QtMultimedia”提供了底层的多媒体支持，现在多数开发者改用Phonon模块。“QtSvg”支持SVG 1.2 Tiny的静态标准，用于显示与保存SVG格式的图形。
 
 ## 简单例子
 
-下面一段代码演示了一个简单的PyQt程序，它的功能是在窗体内显示一个按钮，当按下按钮时，要求用户输入名字。根据用户是否输入了名字，会分别显示两种问候语。
-[PyQt_Example_Screenshot.png](https://zh.wikipedia.org/wiki/File:PyQt_Example_Screenshot.png "fig:PyQt_Example_Screenshot.png")
+下面一段代码演示了一个简单的PyQt程序，它的功能是在窗体内显示一个按钮，当按下按钮时，要求用户输入名字。根据用户是否输入了名字，会分别显示两种问候语。 [PyQt_Example_Screenshot.png](https://zh.wikipedia.org/wiki/File:PyQt_Example_Screenshot.png "fig:PyQt_Example_Screenshot.png")
 
 ``` python
 # -*- coding: utf-8 -*-
@@ -105,8 +85,7 @@ sys.exit(app.exec_())
 
 ## signal和slot
 
-Qt采用了signal和slot的概念来处理GUI程序中的用户事件。PyQt同样支持这种方法，还进而针对Python的特点增强了某些功能。任何Python类型都可以定义signal和slot，并与GUI控件的signal和slot相连接。PyQt支持old-style与new-style两种连接方式。不过，目前一般推荐使用new-style
-connection。因为它还支持连接到Python函数，而且看起来也比较pythonic。
+Qt采用了signal和slot的概念来处理GUI程序中的用户事件。PyQt同样支持这种方法，还进而针对Python的特点增强了某些功能。任何Python类型都可以定义signal和slot，并与GUI控件的signal和slot相连接。PyQt支持old-style与new-style两种连接方式。不过，目前一般推荐使用new-style connection。因为它还支持连接到Python函数，而且看起来也比较pythonic。
 
 ``` Python
 #old-style connection，
@@ -202,8 +181,7 @@ sys.exit(app.exec_())
   - PyQt的API与Qt类似，Qt的文档通常仍然可以应用于PyQt。因此，PyQt的文档比[PyGTK](../Page/PyGTK.md "wikilink")、[wxPython](https://zh.wikipedia.org/wiki/wxPython "wikilink")、[Tkinter等GUI编程库的文档丰富得多](https://zh.wikipedia.org/wiki/Tkinter "wikilink")。
   - 如果程序员具备使用Qt的经验，一般很快就可以过渡到PyQt上。而使用PyQt的程序员，如果同时精通C++的话，也可以很快地过渡到Qt平台上。
   - 利用SIP，大多数为Qt开发的控件可以方便地port到PyQt。——然而，SIP也需要一些学习成本。
-  - 有方便的周边工具支持PyQt。如QtDesigner，可以使用拖拉式的方法来设计界面，简单易用。Eric6，一个使用PyQt设计的Python
-    IDE，对PyQt有特殊的支持。
+  - 有方便的周边工具支持PyQt。如QtDesigner，可以使用拖拉式的方法来设计界面，简单易用。Eric6，一个使用PyQt设计的Python IDE，对PyQt有特殊的支持。
 
 ### 劣势
 
@@ -213,21 +191,17 @@ sys.exit(app.exec_())
 
 ## SIP
 
-SIP是一个自动为C和C++库生成Python扩展模块的工具。为了方便开发PyQt，SIP于1998被“Riverbank
-Computing”公司创造出来。不过，SIP不专用于PyQt，而是适用于所有的C和C++库。
+SIP是一个自动为C和C++库生成Python扩展模块的工具。为了方便开发PyQt，SIP于1998被“Riverbank Computing”公司创造出来。不过，SIP不专用于PyQt，而是适用于所有的C和C++库。
 
 使用SIP时，程序员首先要编写一个特殊的".sip"文件，使用类似于C++的语法在其中描述扩展模块所提供的类型与函数。然后用SIP将这个文件转化为C++代码。最终编译，与C、C++库链接后就成为Python扩展模块。".sip"文件类似于C、C++的头文件。根据需要，需要程序员用SIP定义的语法添加一些C++代码中没有的信息。因为SIP不支持完整的C++语法，所以不能直接使用C++的头文件作为".sip"文件。
 
 ## 使用PyQt的著名應用程式
 
   - [Eric Python IDE](../Page/Eric_Python_IDE.md "wikilink")
-  - [Anki](../Page/Anki.md "wikilink"), a spaced repetition flashcard
-    program
-  - [QtiPlot](../Page/QtiPlot.md "wikilink"), a computer program to
-    analyze and visualize scientific data
+  - [Anki](../Page/Anki.md "wikilink"), a spaced repetition flashcard program
+  - [QtiPlot](../Page/QtiPlot.md "wikilink"), a computer program to analyze and visualize scientific data
   - [qt-recordMyDesktop](https://zh.wikipedia.org/wiki/RecordMyDesktop "wikilink")：recordMyDesktop的Qt4介面
-  - [Kodos](https://zh.wikipedia.org/wiki/Kodos_Python_Regular_Expression_Debugger "wikilink"),
-    Python Regular Expression Debugger
+  - [Kodos](https://zh.wikipedia.org/wiki/Kodos_Python_Regular_Expression_Debugger "wikilink"), Python Regular Expression Debugger
 
 ## 參考文獻
 
@@ -238,13 +212,11 @@ Computing”公司创造出来。不过，SIP不专用于PyQt，而是适用于�
 ## 外部連結
 
   - [官方網站](http://www.riverbankcomputing.co.uk/software/pyqt/)
-  - [PyQT
-    tutorial](https://pythonspot.com/building-an-application-gui-with-pyqt-beginners-tutorial/)
+  - [PyQT tutorial](https://pythonspot.com/building-an-application-gui-with-pyqt-beginners-tutorial/)
   - [PyQt教學](http://www.cs.usfca.edu/~afedosov/qttut)
   - [透過Python體驗QtWebKit快速開發](http://blog.linux.org.tw/~jserv/archives/002026.html)
 
-[Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
-[Category:Qt](https://zh.wikipedia.org/wiki/Category:Qt "wikilink")
+[Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink") [Category:Qt](https://zh.wikipedia.org/wiki/Category:Qt "wikilink")
 
 1.
 2.

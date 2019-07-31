@@ -1,11 +1,4 @@
-**Zend Studio**是[Zend
-Technologies开发的](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink")[PHP](../Page/PHP.md "wikilink")语言集成开发环境（Integrated
-Development
-Environment　[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink"))。也支持HTML和js标签，但只对PHP语言提供调试支持。因为是同一个公司的产品，所以提供的[Zend
-Framework方面的支持比其他软件好](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink")。**Zend
-Studio**5.5系列后，官方推出利用了[Eclipse](../Page/Eclipse.md "wikilink")平台，基于PDT的**Zend
-Studio for Eclipse
-6.0**，之后的版本也都构建于[Eclipse](../Page/Eclipse.md "wikilink")。
+**Zend Studio**是[Zend Technologies开发的](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink")[PHP](../Page/PHP.md "wikilink")语言集成开发环境（Integrated Development Environment　[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink"))。也支持HTML和js标签，但只对PHP语言提供调试支持。因为是同一个公司的产品，所以提供的[Zend Framework方面的支持比其他软件好](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink")。**Zend Studio**5.5系列后，官方推出利用了[Eclipse](../Page/Eclipse.md "wikilink")平台，基于PDT的**Zend Studio for Eclipse 6.0**，之后的版本也都构建于[Eclipse](../Page/Eclipse.md "wikilink")。
 
 ## 功能特点
 
@@ -31,14 +24,7 @@ Studio for Eclipse
 
 ## 发行及反响
 
-**Zend Studio**通常会发布标准版，企业版和专业版，个人用户通常会选择专业版。 毫无疑问，**Zend
-Studio**是目前市面上最优秀的[PHP](../Page/PHP.md "wikilink")语言[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，**Zend
-Studio 4.0**开始被应用于一些重大项目（如NASA的工程）\[1\]，**Zend Studio
-5.0**发布后，下载量很快突破100000。在国内，**Zend Studio
-5.5**系列和**Zend Studio for Eclipse
-6.1.12**使用人数最多\[2\]，当然，按照中国的盗版软件使用率来推断，正版用户估计是少数。
-**Zend Studio**的运行速度一直被人们所诟病，**Zend Studio for
-Eclipse**系列因为太多的bug，智能化大打折扣，除了界面比原系列漂亮这一点得到用户共识以外，其他的改进都显得有点华而不实。
+**Zend Studio**通常会发布标准版，企业版和专业版，个人用户通常会选择专业版。 毫无疑问，**Zend Studio**是目前市面上最优秀的[PHP](../Page/PHP.md "wikilink")语言[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，**Zend Studio 4.0**开始被应用于一些重大项目（如NASA的工程）\[1\]，**Zend Studio 5.0**发布后，下载量很快突破100000。在国内，**Zend Studio 5.5**系列和**Zend Studio for Eclipse 6.1.12**使用人数最多\[2\]，当然，按照中国的盗版软件使用率来推断，正版用户估计是少数。 **Zend Studio**的运行速度一直被人们所诟病，**Zend Studio for Eclipse**系列因为太多的bug，智能化大打折扣，除了界面比原系列漂亮这一点得到用户共识以外，其他的改进都显得有点华而不实。
 
 ## 历史版本
 
@@ -82,9 +68,7 @@ Eclipse**系列因为太多的bug，智能化大打折扣，除了界面比原�
 
 ## 参看
 
-  - [Zend
-    Technologies](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink")
-    Zend Stdio开发公司
+  - [Zend Technologies](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink") Zend Stdio开发公司
   - [Eclipse](../Page/Eclipse.md "wikilink") 一个开放源代码的、基于 Java 的可扩展开发平台。
 
 ## 参考资料
@@ -95,11 +79,9 @@ Eclipse**系列因为太多的bug，智能化大打折扣，除了界面比原�
   - [Zend Studio中文版视频教程、资源下载](http://www.zendstudio.net/)
   - [zend-studio使用教程](https://archive.is/20130424164827/http://www.leapsoul.cn/?tag=zend-studio%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
-[de:Zend Technologies\#Zend
-Studio](https://zh.wikipedia.org/wiki/de:Zend_Technologies#Zend_Studio "wikilink")
+[de:Zend Technologies\#Zend Studio](https://zh.wikipedia.org/wiki/de:Zend_Technologies#Zend_Studio "wikilink")
 
-[Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink")
-[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
+[Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
 
 1.
 

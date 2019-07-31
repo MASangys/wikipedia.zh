@@ -1,6 +1,6 @@
-《**MVP情人**》（）。2002年[三立電視華人電視劇週日十點檔系列的第二部作品](../Page/三立電視.md "wikilink")，全劇共18集，接檔《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》。製作團隊為2001年三立電視[偶像劇](../Page/偶像劇.md "wikilink")《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》的原班人馬。由[孫協志](../Page/孫協志.md "wikilink")、[張韶涵和](../Page/張韶涵.md "wikilink")[顏行書領銜主演](https://zh.wikipedia.org/wiki/顏行書 "wikilink")，是第一部以[籃球為主題的偶像劇](https://zh.wikipedia.org/wiki/籃球 "wikilink")。值得一提的是，本劇男主角之一的顏行書除了在劇中為籃球員，現實中也是臺灣籃球國手。並由於此劇的故事發展主要圍繞籃球比賽，在播放期間更捲起了當時台灣的籃球熱。
+《**MVP情人**》（）。2002年[三立電視](../Page/三立電視.md "wikilink")華人電視劇週日十點檔系列的第二部作品，全劇共18集，接檔《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》。製作團隊為2001年三立電視[偶像劇](../Page/偶像劇.md "wikilink")《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》的原班人馬。由[孫協志](../Page/孫協志.md "wikilink")、[張韶涵](../Page/張韶涵.md "wikilink")和[顏行書領銜主演](https://zh.wikipedia.org/wiki/顏行書 "wikilink")，是第一部以[籃球為主題的偶像劇](https://zh.wikipedia.org/wiki/籃球 "wikilink")。值得一提的是，本劇男主角之一的顏行書除了在劇中為籃球員，現實中也是臺灣籃球國手。並由於此劇的故事發展主要圍繞籃球比賽，在播放期間更捲起了當時台灣的籃球熱。
 
-2002年7月21日起於[華視首播](../Page/華視主頻.md "wikilink")，[三立都會台也於](../Page/三立都會台.md "wikilink")2002年7月27日起首播。
+2002年7月21日起於[華視首播](../Page/華視主頻.md "wikilink")，[三立都會台](../Page/三立都會台.md "wikilink")也於2002年7月27日起首播。
 
 ## 劇情概要
 
@@ -169,26 +169,19 @@
 
 <!-- end list -->
 
-  - 01\. Break\! Go\!／[Da
-    Pump](https://zh.wikipedia.org/wiki/Da_Pump "wikilink")
-  - 02\. So Tell
-    Me／[Heartsdales](https://zh.wikipedia.org/wiki/Heartsdales "wikilink")
-  - 03\. Tangerine Dream／[Do As
-    Infinity](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")
+  - 01\. Break\! Go\!／[Da Pump](https://zh.wikipedia.org/wiki/Da_Pump "wikilink")
+  - 02\. So Tell Me／[Heartsdales](https://zh.wikipedia.org/wiki/Heartsdales "wikilink")
+  - 03\. Tangerine Dream／[Do As Infinity](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")
   - 04\. Fat Free／[Hitomi](../Page/Hitomi.md "wikilink")
   - 05\. Boy Meets Girl (DJ Koo Remix)／[TRF](../Page/TRF.md "wikilink")
-  - 06\. Gamble
-    Rumble／[move](https://zh.wikipedia.org/wiki/move "wikilink")
+  - 06\. Gamble Rumble／[move](https://zh.wikipedia.org/wiki/move "wikilink")
   - 07\. InJury／[駭物樂團](https://zh.wikipedia.org/wiki/駭物樂團 "wikilink")
-  - 08\. The Shining／[K Dub
-    Shine](https://zh.wikipedia.org/wiki/K_Dub_Shine "wikilink")
+  - 08\. The Shining／[K Dub Shine](https://zh.wikipedia.org/wiki/K_Dub_Shine "wikilink")
   - 09\. No.1／[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")
   - 10\. Waiting…／BoA
-  - 11\. Perfect
-    Man／[Shinhwa](https://zh.wikipedia.org/wiki/Shinhwa "wikilink")
+  - 11\. Perfect Man／[Shinhwa](https://zh.wikipedia.org/wiki/Shinhwa "wikilink")
   - 12\. Shout／Shinhwa
-  - 13\. Sea Of Love／[Fly To The
-    Sky](https://zh.wikipedia.org/wiki/Fly_To_The_Sky "wikilink")
+  - 13\. Sea Of Love／[Fly To The Sky](https://zh.wikipedia.org/wiki/Fly_To_The_Sky "wikilink")
 
 ## 外部連結
 
@@ -196,10 +189,4 @@
 
 ## 作品的變遷
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2002年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2002年台灣電視劇集 "wikilink")
-[Category:華視電視劇](https://zh.wikipedia.org/wiki/Category:華視電視劇 "wikilink")
-[Category:三立都會台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立都會台戲劇節目 "wikilink")
-[Category:新北市背景電視劇](https://zh.wikipedia.org/wiki/Category:新北市背景電視劇 "wikilink")
-[Category:桃園市背景作品](https://zh.wikipedia.org/wiki/Category:桃園市背景作品 "wikilink")
-[Category:籃球電視劇](https://zh.wikipedia.org/wiki/Category:籃球電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2002年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2002年台灣電視劇集 "wikilink") [Category:華視電視劇](https://zh.wikipedia.org/wiki/Category:華視電視劇 "wikilink") [Category:三立都會台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立都會台戲劇節目 "wikilink") [Category:新北市背景電視劇](https://zh.wikipedia.org/wiki/Category:新北市背景電視劇 "wikilink") [Category:桃園市背景作品](https://zh.wikipedia.org/wiki/Category:桃園市背景作品 "wikilink") [Category:籃球電視劇](https://zh.wikipedia.org/wiki/Category:籃球電視劇 "wikilink")

@@ -1,21 +1,10 @@
 **Mach**（）是一個由[卡內基梅隆大學开发的计算机](https://zh.wikipedia.org/wiki/卡內基梅隆大學 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[微內核](../Page/微內核.md "wikilink")，為了用於作業系統之研究，特別是在分布式與并行運算上。是最早實現微核心作業系統的例子之一，是許多其它相似的計畫的標準。
 
-Mach開發計畫在卡內基梅隆大學從1985年運行到1994年，到Mach
-3.0版結束。其他還有許多人繼續Mach的研究包括[猶他大學的](https://zh.wikipedia.org/wiki/猶他大學 "wikilink")[Mach 4](http://www.cs.utah.edu/flux/mach4/html/Mach4-proj.html)。Mach的開發是為了取代[BSD的UNIX核心](https://zh.wikipedia.org/wiki/Berkeley_Software_Distribution "wikilink")，所以是許多新的作業系統的設計基礎。Mach的研究至今似乎是停止了，雖然有許多商業化作業系統，如[NEXTSTEP與](https://zh.wikipedia.org/wiki/NEXTSTEP "wikilink")[OPENSTEP](https://zh.wikipedia.org/wiki/OPENSTEP "wikilink")，特別是[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（使用[XNU核心](../Page/XNU.md "wikilink")）都是使用Mach或其衍生系統。Mach的[虚拟内存](../Page/虚拟内存.md "wikilink")（VM）系統也被BSD的開发者用於[CSRG](https://zh.wikipedia.org/wiki/CSRG "wikilink")，並出現在BSD衍生的系統中，如[FreeBSD](../Page/FreeBSD.md "wikilink")。Mac
-OS X與FreeBSD並未保留Mach首倡的微核心結構，除了Mac OS X繼續提供微核心於內部處理通訊以及應用程式直接控制。
+Mach開發計畫在卡內基梅隆大學從1985年運行到1994年，到Mach 3.0版結束。其他還有許多人繼續Mach的研究包括[猶他大學的](https://zh.wikipedia.org/wiki/猶他大學 "wikilink")[Mach 4](http://www.cs.utah.edu/flux/mach4/html/Mach4-proj.html)。Mach的開發是為了取代[BSD的UNIX核心](https://zh.wikipedia.org/wiki/Berkeley_Software_Distribution "wikilink")，所以是許多新的作業系統的設計基礎。Mach的研究至今似乎是停止了，雖然有許多商業化作業系統，如[NEXTSTEP與](https://zh.wikipedia.org/wiki/NEXTSTEP "wikilink")[OPENSTEP](https://zh.wikipedia.org/wiki/OPENSTEP "wikilink")，特別是[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（使用[XNU](../Page/XNU.md "wikilink")核心）都是使用Mach或其衍生系統。Mach的[虚拟内存](../Page/虚拟内存.md "wikilink")（VM）系統也被BSD的開发者用於[CSRG](https://zh.wikipedia.org/wiki/CSRG "wikilink")，並出現在BSD衍生的系統中，如[FreeBSD](../Page/FreeBSD.md "wikilink")。Mac OS X與FreeBSD並未保留Mach首倡的微核心結構，除了Mac OS X繼續提供微核心於內部處理通訊以及應用程式直接控制。
 
-Mach繼承卡內基梅隆大學的[Accent
-kernel](https://zh.wikipedia.org/wiki/Accent_kernel "wikilink")，Mach計畫主導人[理查德·拉希德曾於](https://zh.wikipedia.org/wiki/理查德·拉希德 "wikilink")[微軟的研究部門擔任高級人員](https://zh.wikipedia.org/wiki/微軟 "wikilink")，後成為微軟副總裁。另一Mach開發者[阿瓦德斯·特凡尼安](../Page/阿瓦德斯·特凡尼安.md "wikilink")（Avie
-Tevanian）曾是[NeXT首席程式設計師](../Page/NeXT.md "wikilink")，之後擔任[蘋果電腦軟體技術部門主管直到](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")2006年[1](http://sfgate.com/cgi-bin/blogs/sfgate/sso_detail?blogid=19&entry_id=3821)
-。
+Mach繼承卡內基梅隆大學的[Accent kernel](https://zh.wikipedia.org/wiki/Accent_kernel "wikilink")，Mach計畫主導人[理查德·拉希德曾於](https://zh.wikipedia.org/wiki/理查德·拉希德 "wikilink")[微軟的研究部門擔任高級人員](https://zh.wikipedia.org/wiki/微軟 "wikilink")，後成為微軟副總裁。另一Mach開發者[阿瓦德斯·特凡尼安](../Page/阿瓦德斯·特凡尼安.md "wikilink")（Avie Tevanian）曾是[NeXT](../Page/NeXT.md "wikilink")首席程式設計師，之後擔任[蘋果電腦軟體技術部門主管直到](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")2006年[1](http://sfgate.com/cgi-bin/blogs/sfgate/sso_detail?blogid=19&entry_id=3821) 。
 
-一个名为[GNU
-Mach的计划与其相关](../Page/GNU_Mach.md "wikilink")，它是[GNU操作系统工程的一部分](../Page/GNU.md "wikilink")。已有的操作系统[Debian
-GNU/Hurd便是基于](https://zh.wikipedia.org/wiki/Debian_GNU/Hurd "wikilink")[GNU
-Mach及其上的](../Page/GNU_Mach.md "wikilink")[GNU
-Hurd](../Page/GNU_Hurd.md "wikilink")。
+一个名为[GNU Mach的计划与其相关](../Page/GNU_Mach.md "wikilink")，它是[GNU](../Page/GNU.md "wikilink")操作系统工程的一部分。已有的操作系统[Debian GNU/Hurd便是基于](https://zh.wikipedia.org/wiki/Debian_GNU/Hurd "wikilink")[GNU Mach及其上的](../Page/GNU_Mach.md "wikilink")[GNU Hurd](../Page/GNU_Hurd.md "wikilink")。
 
 ## 历史
 
@@ -23,7 +12,7 @@ Hurd](../Page/GNU_Hurd.md "wikilink")。
 
 ### Mach概念
 
-Mach是作为传统[UNIX内核的替代品出现的](../Page/UNIX.md "wikilink")，因此其间的不同之处值得留意。当时的人们已渐渐感受到了早期UNIX中“一切皆文件”的抽象机制的不足，有限的扩展性使得开发者捉襟掣肘，苦不堪言。虽说贝尔实验室的[Plan9在此方向上做了进一步努力](https://zh.wikipedia.org/wiki/Plan9 "wikilink")，可是效果并不理想。现代操作系统需要更进一步的抽象。
+Mach是作为传统[UNIX](../Page/UNIX.md "wikilink")内核的替代品出现的，因此其间的不同之处值得留意。当时的人们已渐渐感受到了早期UNIX中“一切皆文件”的抽象机制的不足，有限的扩展性使得开发者捉襟掣肘，苦不堪言。虽说贝尔实验室的[Plan9在此方向上做了进一步努力](https://zh.wikipedia.org/wiki/Plan9 "wikilink")，可是效果并不理想。现代操作系统需要更进一步的抽象。
 
 比如UNIX的管道可谓饱受争议。人们迫切需要一个类似管道的机制，允许在程序间交换不同的数据，而不仅仅是文件式的读写。或者换句话说，一套[进程间通信机制](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")（[IPC](https://zh.wikipedia.org/wiki/IPC "wikilink")）。一时间各路系统（包括UNIX）纷纷推出了各自的IPC机制，然而大多皆是些针对特定目标的库，其通用性仍远远不够。
 
@@ -36,8 +25,7 @@ Mach是作为传统[UNIX内核的替代品出现的](../Page/UNIX.md "wikilink")
   - “port”是任务间通讯的一组受保护的消息队列；任务可以对任何port发送或接收数据。
   - “消息”是某些有类型的数据对象的集合，它们只可以发送至port - 而非某特定任务或线程。
 
-Mach继承了Accent
-IPC的理念，然其本身却扎根于UNIX，轻而易举即可移植UNIX下的程序。Mach引入了port的概念用以表示双向的IPC，它就像UNIX下的文件一样拥有权限信息，使得其安全模型非常接近UNIX。并且，Mach使得任何进程都可以拥有一般系统中内核才有的权限，从而允许用户进程实现与硬件交互等操作。
+Mach继承了Accent IPC的理念，然其本身却扎根于UNIX，轻而易举即可移植UNIX下的程序。Mach引入了port的概念用以表示双向的IPC，它就像UNIX下的文件一样拥有权限信息，使得其安全模型非常接近UNIX。并且，Mach使得任何进程都可以拥有一般系统中内核才有的权限，从而允许用户进程实现与硬件交互等操作。
 
 同UNIX一样，Mach系统也包含了一组丰富的实用工具，并保留了unix中驱动程序的概念用以硬件交互。
 
@@ -57,8 +45,7 @@ IPC消息传递机制的应用为线程和并发提供了很好的支持。进�
 
 需要了解，Mach以上的所有特性皆为跨平台而设计。如下引用一段：
 
-与UNIX最初无视多处理器的设计不同，Mach在设计伊始即将[多处理器支持纳入考虑](https://zh.wikipedia.org/wiki/多处理器 "wikilink")。它的扩展性也很好，[UMA还是](https://zh.wikipedia.org/wiki/UMA "wikilink")[NUMA都能很好的支持](https://zh.wikipedia.org/wiki/NUMA "wikilink")。Mach是为千种不同的处理器而设计的，移植到其他体系结构很容易。其设计的一个关键目标即为各不相同的硬件平台上，实现可移植的[分布式系统](https://zh.wikipedia.org/wiki/分布式系统 "wikilink")。（Appendix
-B, Operating System Concepts）
+与UNIX最初无视多处理器的设计不同，Mach在设计伊始即将[多处理器支持纳入考虑](https://zh.wikipedia.org/wiki/多处理器 "wikilink")。它的扩展性也很好，[UMA还是](https://zh.wikipedia.org/wiki/UMA "wikilink")[NUMA都能很好的支持](https://zh.wikipedia.org/wiki/NUMA "wikilink")。Mach是为千种不同的处理器而设计的，移植到其他体系结构很容易。其设计的一个关键目标即为各不相同的硬件平台上，实现可移植的[分布式系统](https://zh.wikipedia.org/wiki/分布式系统 "wikilink")。（Appendix B, Operating System Concepts）
 
 不足自然也不少。相对容易的一个问题是port的位置不明显，在UNIX下这样的问题通过文件系统提供一个大家都知道的名字来解决。虽说这一机制也可以拿来，但是Mach在设计上又恰恰尽力使得port保持透明。缺乏表示port位置的机制，使得其扩展性大打折扣。
 
@@ -66,9 +53,7 @@ B, Operating System Concepts）
 
   - [HURD](https://zh.wikipedia.org/wiki/HURD "wikilink")
   - [GNU Mach](../Page/GNU_Mach.md "wikilink")
-  - [Debian
-    GNU/Hurd](https://zh.wikipedia.org/wiki/Debian_GNU/Hurd "wikilink")
+  - [Debian GNU/Hurd](https://zh.wikipedia.org/wiki/Debian_GNU/Hurd "wikilink")
   - [XNU](../Page/XNU.md "wikilink")
 
-[Category:Mach](https://zh.wikipedia.org/wiki/Category:Mach "wikilink")
-[Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink")
+[Category:Mach](https://zh.wikipedia.org/wiki/Category:Mach "wikilink") [Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink")

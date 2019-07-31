@@ -56,14 +56,4 @@
 
   -
   -
-[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
-[Category:1992年電影](https://zh.wikipedia.org/wiki/Category:1992年電影 "wikilink")
-[Category:Mothra](https://zh.wikipedia.org/wiki/Category:Mothra "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:名古屋市背景電影](https://zh.wikipedia.org/wiki/Category:名古屋市背景電影 "wikilink")
-[Category:橫濱市背景電影](https://zh.wikipedia.org/wiki/Category:橫濱市背景電影 "wikilink")
-[Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink")
-[Category:1993年背景電影](https://zh.wikipedia.org/wiki/Category:1993年背景電影 "wikilink")
-[Category:靜岡縣背景電影](https://zh.wikipedia.org/wiki/Category:靜岡縣背景電影 "wikilink")
-[Category:大河原孝夫電影](https://zh.wikipedia.org/wiki/Category:大河原孝夫電影 "wikilink")
-[Category:成田國際機場背景作品](https://zh.wikipedia.org/wiki/Category:成田國際機場背景作品 "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink") [Category:1992年電影](https://zh.wikipedia.org/wiki/Category:1992年電影 "wikilink") [Category:Mothra](https://zh.wikipedia.org/wiki/Category:Mothra "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:名古屋市背景電影](https://zh.wikipedia.org/wiki/Category:名古屋市背景電影 "wikilink") [Category:橫濱市背景電影](https://zh.wikipedia.org/wiki/Category:橫濱市背景電影 "wikilink") [Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink") [Category:1993年背景電影](https://zh.wikipedia.org/wiki/Category:1993年背景電影 "wikilink") [Category:靜岡縣背景電影](https://zh.wikipedia.org/wiki/Category:靜岡縣背景電影 "wikilink") [Category:大河原孝夫電影](https://zh.wikipedia.org/wiki/Category:大河原孝夫電影 "wikilink") [Category:成田國際機場背景作品](https://zh.wikipedia.org/wiki/Category:成田國際機場背景作品 "wikilink")

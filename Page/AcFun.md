@@ -1,14 +1,10 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:AC娘.png "fig:缩略图")
-**AcFun**（现正式备案名为**AcFun弹幕视频网**，曾用正式备案中文名**爱稀饭网**，常被简称为**AC**，**A站**）实际运营主体为北京弹幕网络科技有限公司，是中国大陆的[弹幕式视频分享网站之一](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")，开设于2007年6月6日\[1\]，最初为动画连载的网站。AcFun取意于“[Anime](https://zh.wikipedia.org/wiki/Anime "wikilink")
-[Comic](https://zh.wikipedia.org/wiki/漫画 "wikilink")
-Fun”，[2008年3月](../Page/2008年3月.md "wikilink")模仿[日本](../Page/日本.md "wikilink")视频分享站[NICONICO动画推出了带类似字幕的弹幕播放器](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，称为[弹幕式播放器](../Page/视频弹幕.md "wikilink")。口号为“天下漫友是一家”，网站文化为“认真你就输了”。\[2\]网站的虚拟形象为AC娘，同时其附属站点也有与AC娘类似的形象。
+[缩略图](https://zh.wikipedia.org/wiki/File:AC娘.png "fig:缩略图") **AcFun**（现正式备案名为**AcFun弹幕视频网**，曾用正式备案中文名**爱稀饭网**，常被简称为**AC**，**A站**）实际运营主体为北京弹幕网络科技有限公司，是中国大陆的[弹幕式视频分享网站之一](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")，开设于2007年6月6日\[1\]，最初为动画连载的网站。AcFun取意于“[Anime](https://zh.wikipedia.org/wiki/Anime "wikilink") [Comic](https://zh.wikipedia.org/wiki/漫画 "wikilink") Fun”，[2008年3月](../Page/2008年3月.md "wikilink")模仿[日本](../Page/日本.md "wikilink")视频分享站[NICONICO动画推出了带类似字幕的弹幕播放器](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，称为[弹幕式播放器](../Page/视频弹幕.md "wikilink")。口号为“天下漫友是一家”，网站文化为“认真你就输了”。\[2\]网站的虚拟形象为AC娘，同时其附属站点也有与AC娘类似的形象。
 
 ## 历史
 
 ### 网站运营
 
-AcFun创立于2007年6月6日，取意“Anime Comic
-Fun”\[3\]，初创时期属个人网站，主要连载[动画](../Page/动画.md "wikilink")。2008年3月模仿日本视频分享站[NICONICO动画制作了带类似字幕的](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")[弹幕式播放器](../Page/视频弹幕.md "wikilink")。\[4\]2010年左右，A站创始人Xilin将A站以400万元人民币的价格卖给了当时在杭州边锋任职的[陈少杰](https://zh.wikipedia.org/wiki/陈少杰 "wikilink")。\[5\]。
+AcFun创立于2007年6月6日，取意“Anime Comic Fun”\[3\]，初创时期属个人网站，主要连载[动画](../Page/动画.md "wikilink")。2008年3月模仿日本视频分享站[NICONICO动画制作了带类似字幕的](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")[弹幕式播放器](../Page/视频弹幕.md "wikilink")。\[4\]2010年左右，A站创始人Xilin将A站以400万元人民币的价格卖给了当时在杭州边锋任职的[陈少杰](https://zh.wikipedia.org/wiki/陈少杰 "wikilink")。\[5\]。
 
 2010年3月16日，漫友“天狗兵”上传视频“午夜虐猫行动”，激起A站其他漫友的愤怒导致服务器瘫痪。4月，小部分A站成员反对[AKB视频占领A站](https://zh.wikipedia.org/wiki/AKB "wikilink")，开始对[AKB48](../Page/AKB48.md "wikilink")视频刷屏，一些人趁乱扩大刷屏内容。同时使用刷屏器刷弹幕开始泛滥。4月末，首页视频基本被刷爆，甚至导致打开[IE立即报错](../Page/Internet_Explorer.md "wikilink")，少数人接单帮忙刷掉刷子或重置弹幕，但不久又被重刷。5月1日管理员锁定弹幕文件，之后发的所有弹幕都会随刷新网页消失。4日管理员简单升级防刷补丁，升级后依然被刷屏。6日acfun[贴吧ID名](../Page/百度贴吧.md "wikilink")“Kira_AI”的用户在帖子《OK，关闭外部POST提交》中承认刷屏，称是“基于对acfun的爱逼迫管理员进行全面改革”。9日Acfun投稿量突破1万\[6\]。该事件导致大量会员流向由[B站](../Page/Bilibili.md "wikilink")\[7\]。
 
@@ -26,8 +22,7 @@ Fun”\[3\]，初创时期属个人网站，主要连载[动画](../Page/动画.
 
 2018年2月2日，AcFun网站和官方客户端软件已经无法正常访问。官方微博发文“我还想再活五百年”\[25\]，据相关消息称Acfun资金不足，公司近200名员工2017年最后两月的工资和2017年10月的加班费均无法发放\[26\]。
 
-2018年2月12日下午，新浪微博昵称为真懒猫-曼基康爱球球的A站运营总监发博称“5点，睡醒了
-​​​”，随后于当日17时整，A站在经历长达240小时服务器停机之后，重新恢复运行。\[27\]
+2018年2月12日下午，新浪微博昵称为真懒猫-曼基康爱球球的A站运营总监发博称“5点，睡醒了 ​​​”，随后于当日17时整，A站在经历长达240小时服务器停机之后，重新恢复运行。\[27\]
 
 2018年6月5日，AcFun被北京[快手](../Page/快手.md "wikilink")科技有限公司全资收购，AcFun原有团队以及品牌维持不变，继续独立运营。\[28\]
 
@@ -57,11 +52,9 @@ Fun”\[3\]，初创时期属个人网站，主要连载[动画](../Page/动画.
 
 2017年6月28日，AcFun独家引进7月新番动画《》。\[49\]
 
-2017年6月29日，AcFun独家引进7月新番动画《[动作女主
-水果应援团](../Page/動作女英雄啦啦水果.md "wikilink")》。\[50\]
+2017年6月29日，AcFun独家引进7月新番动画《[动作女主 水果应援团](../Page/動作女英雄啦啦水果.md "wikilink")》。\[50\]
 
-2017年7月1日，AcFun独家引进7月新番动画《[战姬绝唱Symphogear](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")
-AXZ》。\[51\]
+2017年7月1日，AcFun独家引进7月新番动画《[战姬绝唱Symphogear](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink") AXZ》。\[51\]
 
 2017年10月7日，AcFun独家引进10月新番动画《[侧车搭档](../Page/側車搭檔.md "wikilink")》。\[52\]
 
@@ -180,8 +173,7 @@ A站实际运营主体。</p></td>
 
 2018年2月2日，Acfun官方域名“www.**acfun**.cn”无法正常访问，其官方在微博表示“我想再活五百年！”并附有大哭样表情\[72\]，同时其相关APP客户端也无法正常与服务器连接，疑似遇到资金问题，导致服务器停运。\[73\]内部人员称官网进行临时关闭状态。\[74\]
 
-2018年2月11日，官方微博更新并贴出“年夜饭”有关照片，同日，其旗下一重要域名“www.**acfun**.com”进行了续费一年的操作，外界推測此为疑似重新复出迹象\[75\]。2月12日，其官方微博发表“小伙伴们，目前官网和app可以正常访问和使用啦！
-​​​​”等内容预告域名恢复正常，不久旗下域名“www.**acfun**.cn”链接逐步恢复，历时10天的服务器停运终于结束。\[76\]\[77\]\[78\]。
+2018年2月11日，官方微博更新并贴出“年夜饭”有关照片，同日，其旗下一重要域名“www.**acfun**.com”进行了续费一年的操作，外界推測此为疑似重新复出迹象\[75\]。2月12日，其官方微博发表“小伙伴们，目前官网和app可以正常访问和使用啦！ ​​​​”等内容预告域名恢复正常，不久旗下域名“www.**acfun**.cn”链接逐步恢复，历时10天的服务器停运终于结束。\[76\]\[77\]\[78\]。
 
 ## 服务
 
@@ -204,9 +196,7 @@ AcFun的视频内容主要包括三大类：网友自行制作或分享的节目
 
 ### 发弹幕
 
-对于视频投稿，在视频成功载入后，用户可以通过播放器界面下方选择字幕的模式、颜色、字号和透明度，发表评论。播放时若不使用播放器的“隐藏评论”功能，这些字幕评论可以从视频的右方移动到左方，也可以固定在视频的顶端或底端一段时间。这种字幕评论被称为“[弹幕](../Page/视频弹幕.md "wikilink")”，弹幕被认为是读“tán
-mù”，正确的读音为“dàn mù
-”，对此AcFun网特别进行了说明。发弹幕需要注册登录，而正式会员可以发送更多类型的弹幕，高级弹幕在5级时解锁，未通过答题测试的用户每天只能发送30条弹幕，弹幕字数限制为80[字符](../Page/字符.md "wikilink")。
+对于视频投稿，在视频成功载入后，用户可以通过播放器界面下方选择字幕的模式、颜色、字号和透明度，发表评论。播放时若不使用播放器的“隐藏评论”功能，这些字幕评论可以从视频的右方移动到左方，也可以固定在视频的顶端或底端一段时间。这种字幕评论被称为“[弹幕](../Page/视频弹幕.md "wikilink")”，弹幕被认为是读“tán mù”，正确的读音为“dàn mù ”，对此AcFun网特别进行了说明。发弹幕需要注册登录，而正式会员可以发送更多类型的弹幕，高级弹幕在5级时解锁，未通过答题测试的用户每天只能发送30条弹幕，弹幕字数限制为80[字符](../Page/字符.md "wikilink")。
 
 某些时段投稿视频中出现大量无意义弹幕或是广告，甚至遮盖大部分播放区域，以至于无法正常观看视频，可以右键点击这些弹幕对弹幕发送者进行屏蔽并举报给管理员，而该用户会受到相应的处罚甚至是封号和封[IP](https://zh.wikipedia.org/wiki/IP "wikilink")，A站称甚至会被跨省追捕和承担刑事责任。播放器界面右边可以设置关键字列表屏蔽指定内容的弹幕。
 
@@ -249,8 +239,7 @@ mù”，正确的读音为“dàn mù
 
   - [AcFun官网](http://www.acfun.cn)（[移动版](https://web.archive.org/web/20171018154813/http://m.acfun.cn/)）
 
-  - [AcFun
-    WIKI](https://web.archive.org/web/20150501174509/http://sx1.atv.ac:5566/index.php/Mainpage)（[原址](https://web.archive.org/web/20141026142848/http://wiki.acfun.tv/)目前失效）
+  - [AcFun WIKI](https://web.archive.org/web/20150501174509/http://sx1.atv.ac:5566/index.php/Mainpage)（[原址](https://web.archive.org/web/20141026142848/http://wiki.acfun.tv/)目前失效）
 
   - [A岛，AC匿名版(主岛二次更换网址)](https://web.archive.org/web/20150701220152/http://h.nimingban.com/)（原名为“奇怪的地方”,[(最初原址)](https://web.archive.org/web/20120620022132/http://h.acfun.tv/)目前失效）
 
@@ -264,12 +253,7 @@ mù”，正确的读音为“dàn mù
 
   - [AcFun帮助手册](https://web.archive.org/web/20151107193514/http://www.acfun.tv/info/#page=help)
 
-[Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink")
-[Category:视频弹幕网站](https://zh.wikipedia.org/wiki/Category:视频弹幕网站 "wikilink")
-[Category:娱乐网站](https://zh.wikipedia.org/wiki/Category:娱乐网站 "wikilink")
-[Category:AcFun](https://zh.wikipedia.org/wiki/Category:AcFun "wikilink")
+[Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink") [Category:视频弹幕网站](https://zh.wikipedia.org/wiki/Category:视频弹幕网站 "wikilink") [Category:娱乐网站](https://zh.wikipedia.org/wiki/Category:娱乐网站 "wikilink") [Category:AcFun](https://zh.wikipedia.org/wiki/Category:AcFun "wikilink")
 
 1.
 
@@ -377,7 +361,6 @@ mù”，正确的读音为“dàn mù
 
 58. [IT桔子上的ACFUN页面](https://www.itjuzi.com/company/8424?phpSessId=17e7612d955cc53a15fe8f4aaef29612d179b79e)
 
-
 59.
 
 60.
@@ -400,7 +383,6 @@ mù”，正确的读音为“dàn mù
 69.
 
 70. [AcFun访问中断原因揭秘：无经营许可证，被中国联通断网](http://www.ithome.com/html/it/247720.htm)
-
 
 71.
 

@@ -1,40 +1,24 @@
-{{
-about|[科樂美](../Page/科樂美.md "wikilink")製作的遊戲《心跳回憶》的外傳《劇場系列》|[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")所製作的動畫《心跳回憶
-Only Love》|心跳回憶 Only Love|《心跳回憶》本篇遊戲|心跳回忆}}
+{{ about|[科樂美](../Page/科樂美.md "wikilink")製作的遊戲《心跳回憶》的外傳《劇場系列》|[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")所製作的動畫《心跳回憶 Only Love》|心跳回憶 Only Love|《心跳回憶》本篇遊戲|心跳回忆}}
 
-《**心跳回憶 Drama
-Series**》（），是[科樂美](../Page/科樂美.md "wikilink")（KONAMI）推出的[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")《[心跳回憶](../Page/心跳回忆_\(游戏\).md "wikilink")》的3部[外傳作品的系列名稱](https://zh.wikipedia.org/wiki/外傳 "wikilink")。本系列共有3部作品，分別是：①以[虹野沙希](../Page/虹野沙希.md "wikilink")為女主角的《**Vol.1
-虹色青春**》，②以[片桐彩子](../Page/片桐彩子.md "wikilink")為女主角的《**Vol.2
-彩之戀曲**》，③以[藤崎詩織](../Page/藤崎詩織.md "wikilink")與[館林見晴](../Page/館林見晴.md "wikilink")為女主角的《**Vol.3
-啟程之詩**》。
+《**心跳回憶 Drama Series**》（），是[科樂美](../Page/科樂美.md "wikilink")（KONAMI）推出的[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")《[心跳回憶](../Page/心跳回忆_\(游戏\).md "wikilink")》的3部[外傳作品的系列名稱](https://zh.wikipedia.org/wiki/外傳 "wikilink")。本系列共有3部作品，分別是：①以[虹野沙希](../Page/虹野沙希.md "wikilink")為女主角的《**Vol.1 虹色青春**》，②以[片桐彩子](../Page/片桐彩子.md "wikilink")為女主角的《**Vol.2 彩之戀曲**》，③以[藤崎詩織](../Page/藤崎詩織.md "wikilink")與[館林見晴](../Page/館林見晴.md "wikilink")為女主角的《**Vol.3 啟程之詩**》。
 
-本遊戲由[科樂美電腦娛樂日本](https://zh.wikipedia.org/wiki/科樂美電腦娛樂日本 "wikilink")（Konami
-Computer Entertainment
-Japan）[小島組製作](https://zh.wikipedia.org/wiki/小島組 "wikilink")，在[PlayStation](../Page/PlayStation.md "wikilink")（PS）及[SEGA
-Saturn](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")（SS）推出，唯只有SS版本在Vol.3時有限定版發售。
+本遊戲由[科樂美電腦娛樂日本](https://zh.wikipedia.org/wiki/科樂美電腦娛樂日本 "wikilink")（Konami Computer Entertainment Japan）[小島組製作](https://zh.wikipedia.org/wiki/小島組 "wikilink")，在[PlayStation](../Page/PlayStation.md "wikilink")（PS）及[SEGA Saturn](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")（SS）推出，唯只有SS版本在Vol.3時有限定版發售。
 
 ## 概要
 
-《心跳回憶 Drama Series》是根據遊戲《心跳回憶～forever with you～》（下稱《～forever with
-you～》）內主角在高校生活的3年間裡，抽出其中一段短時間所發生的事情作為特寫，加以仔細描述故事情節。與《～forever
-with you～》不同，Drama Series只會集中描述主角與女主角之間的浪漫故事。\[1\]
-當中也有新登場的角色如秋穗實（）、美咲鈴音等等，也有小時候的[藤崎詩織](../Page/藤崎詩織.md "wikilink")出現。
+《心跳回憶 Drama Series》是根據遊戲《心跳回憶～forever with you～》（下稱《～forever with you～》）內主角在高校生活的3年間裡，抽出其中一段短時間所發生的事情作為特寫，加以仔細描述故事情節。與《～forever with you～》不同，Drama Series只會集中描述主角與女主角之間的浪漫故事。\[1\] 當中也有新登場的角色如秋穗實（）、美咲鈴音等等，也有小時候的[藤崎詩織](../Page/藤崎詩織.md "wikilink")出現。
 
-《心跳回憶 Drama
-Series》3部作品中的均有特定女主角，而且副題中隱藏著女主角名字中的其中一個字，例如「啟程之詩」中的「詩」取自「[藤崎詩織](../Page/藤崎詩織.md "wikilink")」的「詩」。
+《心跳回憶 Drama Series》3部作品中的均有特定女主角，而且副題中隱藏著女主角名字中的其中一個字，例如「啟程之詩」中的「詩」取自「[藤崎詩織](../Page/藤崎詩織.md "wikilink")」的「詩」。
 
 ## 故事簡介
 
 ### Vol.1 虹色青春
 
-Vol.1
-虹色青春以本篇的[虹野沙希](../Page/虹野沙希.md "wikilink")作為女主角，但本篇的其他角色包括[藤崎詩織](../Page/藤崎詩織.md "wikilink")均會作為配角出現。故事舞台由主角高中第二年春天開始，主角原為學校足球部的正選隊員，但在高校二年級時被轉為後備隊員，目標是爭取在校際比賽中成為正選隊員，學校足球部經理[虹野沙希](../Page/虹野沙希.md "wikilink")為此而替主角展開17天的特訓，也同時展開了主角和沙希的故事。\[2\]
+Vol.1 虹色青春以本篇的[虹野沙希](../Page/虹野沙希.md "wikilink")作為女主角，但本篇的其他角色包括[藤崎詩織](../Page/藤崎詩織.md "wikilink")均會作為配角出現。故事舞台由主角高中第二年春天開始，主角原為學校足球部的正選隊員，但在高校二年級時被轉為後備隊員，目標是爭取在校際比賽中成為正選隊員，學校足球部經理[虹野沙希](../Page/虹野沙希.md "wikilink")為此而替主角展開17天的特訓，也同時展開了主角和沙希的故事。\[2\]
 
 ### Vol.2 彩之戀曲
 
-Vol.2
-彩之戀曲的女主角為[片桐彩子](../Page/片桐彩子.md "wikilink")。故事舞台為主角高中第二年的秋天，主角是校內的業餘樂隊「彩」的結他手。同時，秋季的文化祭活動快將舉行，而「彩」亦會在文化祭中參與演出，主角則擔當新曲創作部份。期間，透過樂隊鍵盤手美咲鈴音而認識了美術部的片桐彩子。\[3\]
-故事的後段，主角得知彩子要到巴黎升學，而恰巧她上機的日子正是「彩」在文化祭演出之日，換言之如要趕往機場送機就必須放棄在文化祭的演出……
+Vol.2 彩之戀曲的女主角為[片桐彩子](../Page/片桐彩子.md "wikilink")。故事舞台為主角高中第二年的秋天，主角是校內的業餘樂隊「彩」的結他手。同時，秋季的文化祭活動快將舉行，而「彩」亦會在文化祭中參與演出，主角則擔當新曲創作部份。期間，透過樂隊鍵盤手美咲鈴音而認識了美術部的片桐彩子。\[3\] 故事的後段，主角得知彩子要到巴黎升學，而恰巧她上機的日子正是「彩」在文化祭演出之日，換言之如要趕往機場送機就必須放棄在文化祭的演出……
 
 ### Vol.3 啟程之詩
 
@@ -53,10 +37,7 @@ Vol.2
 
   - 結尾曲：「」
       - 主唱：虹野沙希　作詞：秋山奈津　作曲：小西真理
-          - 此歌曲實際為虹野沙希的配音員[菅原祥子](../Page/菅原祥子.md "wikilink")所主唱，以虹野沙希的名義推出[Single](../Page/单曲.md "wikilink")，同樣地也收錄於虹野沙希[專輯](../Page/音樂專輯.md "wikilink")《Over
-            the rainbow》和Vol.1
-            [原聲大碟](https://zh.wikipedia.org/wiki/原聲大碟 "wikilink")。本系列的3部作品的結尾曲都由該集女主角的配音員所主唱，主要用於遊戲完結時的出現工作人員字幕畫面
-            (Credit Title) 時的背景音樂。
+          - 此歌曲實際為虹野沙希的配音員[菅原祥子](../Page/菅原祥子.md "wikilink")所主唱，以虹野沙希的名義推出[Single](../Page/单曲.md "wikilink")，同樣地也收錄於虹野沙希[專輯](../Page/音樂專輯.md "wikilink")《Over the rainbow》和Vol.1 [原聲大碟](https://zh.wikipedia.org/wiki/原聲大碟 "wikilink")。本系列的3部作品的結尾曲都由該集女主角的配音員所主唱，主要用於遊戲完結時的出現工作人員字幕畫面 (Credit Title) 時的背景音樂。
 
 <!-- end list -->
 
@@ -78,9 +59,7 @@ Vol.2
 
   - 插曲1：「」
       - 主唱：片桐彩子　作詞：さゆ鈴、作曲：桐岡麻季
-          - 遊戲中的插曲。推出Single時的版本為完全版 (Full Version)，收錄於Vol.2
-            原聲大碟的版本為遊戲內的版本 (Game
-            Version)，兩版本稍有分別。
+          - 遊戲中的插曲。推出Single時的版本為完全版 (Full Version)，收錄於Vol.2 原聲大碟的版本為遊戲內的版本 (Game Version)，兩版本稍有分別。
 
 <!-- end list -->
 
@@ -101,9 +80,7 @@ Vol.2
 
   - 結尾曲1：「」
       - 主唱：藤崎詩織　作詞：秋山奈津　作曲：桐岡麻季
-          - 藤崎詩織篇的結尾曲。在遊戲中段進入藤崎詩織篇，則在故事結局時播放此歌曲。和Drama
-            Series前兩集的歌曲一樣，此歌曲是以藤崎詩織的名義收錄於Single「」、[專輯](../Page/音樂專輯.md "wikilink")「」、精選專輯「forever
-            with you」及Vol.3的遊戲原聲大碟。
+          - 藤崎詩織篇的結尾曲。在遊戲中段進入藤崎詩織篇，則在故事結局時播放此歌曲。和Drama Series前兩集的歌曲一樣，此歌曲是以藤崎詩織的名義收錄於Single「」、[專輯](../Page/音樂專輯.md "wikilink")「」、精選專輯「forever with you」及Vol.3的遊戲原聲大碟。
 
 <!-- end list -->
 
@@ -119,8 +96,7 @@ Vol.2
 
 ## 衍生商品
 
-《心跳回憶桌面程式集 虹色青春》（）收錄Vol.1中虹野沙希的圖片、台詞，另附可用作[Windows
-95系統音效的虹野沙希語音與](../Page/Windows_95.md "wikilink")1個小遊戲。工作人員表如下：
+《心跳回憶桌面程式集 虹色青春》（）收錄Vol.1中虹野沙希的圖片、台詞，另附可用作[Windows 95系統音效的虹野沙希語音與](../Page/Windows_95.md "wikilink")1個小遊戲。工作人員表如下：
 
   - 製作人（）：大友貴司
   - 導演（）：井手雅人
@@ -140,33 +116,19 @@ Vol.2
 
   - [心跳回忆](https://zh.wikipedia.org/wiki/心跳回忆 "wikilink")
   - [心跳回憶 Girl's Side](../Page/心跳回憶_Girl's_Side.md "wikilink")
-  - [心跳回憶 Girl's Side 2nd
-    Kiss](../Page/心跳回憶_Girl's_Side_2nd_Kiss.md "wikilink")
+  - [心跳回憶 Girl's Side 2nd Kiss](../Page/心跳回憶_Girl's_Side_2nd_Kiss.md "wikilink")
   - [心跳回憶 Only Love](../Page/心跳回憶_Only_Love.md "wikilink")
 
 ## 外部連結
 
-  - [《心跳回憶 Drama Series》 Vol.1
-    虹色青春](http://www.konami.jp/gs/game/nijiiro/)
-  - [《心跳回憶 Drama Series》Vol.2
-    彩之戀曲](http://www.konami.jp/gs/game/irodori/)
-  - [《心跳回憶 Drama Series》Vol.3
-    啟程之詩](http://www.konami.jp/gs/game/tabidati/)
+  - [《心跳回憶 Drama Series》 Vol.1 虹色青春](http://www.konami.jp/gs/game/nijiiro/)
+  - [《心跳回憶 Drama Series》Vol.2 彩之戀曲](http://www.konami.jp/gs/game/irodori/)
+  - [《心跳回憶 Drama Series》Vol.3 啟程之詩](http://www.konami.jp/gs/game/tabidati/)
   - [《心跳回憶系列》官方網站](http://www.konami.jp/gs/game/tokimeki)
 
-[Category:心跳回憶系列電子遊戲](https://zh.wikipedia.org/wiki/Category:心跳回憶系列電子遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink")
-[Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:心跳回憶系列電子遊戲](https://zh.wikipedia.org/wiki/Category:心跳回憶系列電子遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
-1.  心跳回憶 Drama
-    Series官方網站，*[ときめきメモリアル　ドラマシリーズとは？](http://www.konami.jp/gs/game/nijiiro/intro/index.html)*，2009年10月12日引用。(日文)
-2.  心跳回憶 Drama Series官方網站，*[ときめきメモリアルドラマシリーズ　虹色の青春 -
-    Story](http://www.konami.jp/gs/game/nijiiro/story/index.html)*，2009年10月12日引用。(日文)
-3.  心跳回憶 Drama Series官方網站，*[ときめきメモリアルドラマシリーズ　彩のラブソング -
-    Story　ストーリー](http://www.konami.jp/gs/game/nijiiro/story/index.html)*，2009年10月12日引用。(日文)
-4.  心跳回憶 Drama Series官方網站，*[ときめきメモリアル ドラマシリーズ vol.3「旅立ちの詩」
-    ストーリー紹介](http://www.konami.jp/gs/game/tabidati/story/index.html)*，2009年10月12日引用。(日文)
+1.  心跳回憶 Drama Series官方網站，*[ときめきメモリアル　ドラマシリーズとは？](http://www.konami.jp/gs/game/nijiiro/intro/index.html)*，2009年10月12日引用。(日文)
+2.  心跳回憶 Drama Series官方網站，*[ときめきメモリアルドラマシリーズ　虹色の青春 - Story](http://www.konami.jp/gs/game/nijiiro/story/index.html)*，2009年10月12日引用。(日文)
+3.  心跳回憶 Drama Series官方網站，*[ときめきメモリアルドラマシリーズ　彩のラブソング - Story　ストーリー](http://www.konami.jp/gs/game/nijiiro/story/index.html)*，2009年10月12日引用。(日文)
+4.  心跳回憶 Drama Series官方網站，*[ときめきメモリアル ドラマシリーズ vol.3「旅立ちの詩」 ストーリー紹介](http://www.konami.jp/gs/game/tabidati/story/index.html)*，2009年10月12日引用。(日文)

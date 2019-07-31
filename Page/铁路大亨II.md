@@ -1,6 +1,4 @@
-《**铁路大亨II**》（*Railroad Tycoon
-II*）是[PopTop软件公司](https://zh.wikipedia.org/wiki/:en:PopTop_Software "wikilink")1998年开发的一款[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")，是《[席德·梅尔的铁路大亨](https://zh.wikipedia.org/wiki/铁路大亨 "wikilink")》（[Railroad
-Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版权原属](https://zh.wikipedia.org/wiki/版权 "wikilink")[MicroProse公司](https://zh.wikipedia.org/wiki/:en:MicroProse "wikilink")）的续作。在PopTop软件公司获得其版权后，该系列就和[席德·梅尔没有了任何关系](https://zh.wikipedia.org/wiki/席德·梅尔 "wikilink")，所以其命名也仅保留了“铁路大亨”。2000年，[北京新天地](../Page/北京新天地.md "wikilink")在[中国大陆](../Page/中国大陆.md "wikilink")地区代理發行了[简体中文版](https://zh.wikipedia.org/wiki/简体中文 "wikilink")。
+《**铁路大亨II**》（*Railroad Tycoon II*）是[PopTop软件公司](https://zh.wikipedia.org/wiki/:en:PopTop_Software "wikilink")1998年开发的一款[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")，是《[席德·梅尔的铁路大亨](https://zh.wikipedia.org/wiki/铁路大亨 "wikilink")》（[Railroad Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版权原属](https://zh.wikipedia.org/wiki/版权 "wikilink")[MicroProse公司](https://zh.wikipedia.org/wiki/:en:MicroProse "wikilink")）的续作。在PopTop软件公司获得其版权后，该系列就和[席德·梅尔没有了任何关系](https://zh.wikipedia.org/wiki/席德·梅尔 "wikilink")，所以其命名也仅保留了“铁路大亨”。2000年，[北京新天地](../Page/北京新天地.md "wikilink")在[中国大陆](../Page/中国大陆.md "wikilink")地区代理發行了[简体中文版](https://zh.wikipedia.org/wiki/简体中文 "wikilink")。
 
 ## 游戏简介
 
@@ -18,13 +16,11 @@ Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版�
 
   - 基础设施建设
 
-游戏开始以后，玩家需要用自己的初始资金成立公司，第一步要建设自己的第一条铁路。
-首先要选定两个地点，这两个地点可以是城市也可以是郊区，用车站覆盖，游戏提供了3种大小的车站，车站越大，它的覆盖面积越大，那么能够吸引乘客和货物的范围就越广，玩家需要选择车站的大小和调整位置来覆盖最多的住宅和产业。车站造起以后，就能按照既定的计划用铁路连接它们。拥有了两个车站以上时，玩家就能购买机车在车站之间运行。玩家可以自由设定火车停靠的站点，每次停靠车站，列车都要卸货，并计算收入。对于每一个停靠的车站，玩家都需要对机车设定编组，列车就会根据本站设定好的编组重新装货，向下一站进发。
+游戏开始以后，玩家需要用自己的初始资金成立公司，第一步要建设自己的第一条铁路。 首先要选定两个地点，这两个地点可以是城市也可以是郊区，用车站覆盖，游戏提供了3种大小的车站，车站越大，它的覆盖面积越大，那么能够吸引乘客和货物的范围就越广，玩家需要选择车站的大小和调整位置来覆盖最多的住宅和产业。车站造起以后，就能按照既定的计划用铁路连接它们。拥有了两个车站以上时，玩家就能购买机车在车站之间运行。玩家可以自由设定火车停靠的站点，每次停靠车站，列车都要卸货，并计算收入。对于每一个停靠的车站，玩家都需要对机车设定编组，列车就会根据本站设定好的编组重新装货，向下一站进发。
 
   - 产业链
 
-《铁路大亨II》拥有一套完备的供给/需求系统，是本作的亮点之一。游戏总计有31种货物，主要包括乘客、邮件、食品、工业品、钢铁、汽车以及谷物、牛等等。并且游戏设有48种产业建筑（包括住宅）。乘客和邮件只由城市中的住宅供给，并且住宅同时需求乘客和邮件，所以玩家只需要把一个城市的乘客运到另一个城市即可。而其它的产业则更复杂一些，比如面包坊，面包坊需求谷物或者糖，供给食品。所以玩家需要把谷物运到面包坊，生产食品后再运至城市。有些产业需要不同的货物才能生产出货物，比如汽车厂需求2厢[钢铁和](https://zh.wikipedia.org/wiki/钢铁 "wikilink")1厢[轮胎生产](https://zh.wikipedia.org/wiki/轮胎 "wikilink")3厢[汽车](../Page/汽车.md "wikilink")。不同的产业都有自己的“产业[方程式](https://zh.wikipedia.org/wiki/方程式 "wikilink")”，玩家只要在界面点一下这些产业，就能看到它们的[方程式](https://zh.wikipedia.org/wiki/方程式 "wikilink")。面包坊和汽车厂这类属于“[第二产业](https://zh.wikipedia.org/wiki/第二产业 "wikilink")”，有进有出。还有一种产业不同——[农业](../Page/农业.md "wikilink")和[矿业](https://zh.wikipedia.org/wiki/矿业 "wikilink")，比如粮田、[铁矿](../Page/铁矿.md "wikilink")、[油井和化工厂这类](https://zh.wikipedia.org/wiki/油井 "wikilink")[第一产业](../Page/第一产业.md "wikilink")。这类企业无需提供货物可以自行产出谷物、铁矿、原油和化工品。还有一类产业，它们没有产出而只有需求，比如垃圾填埋场只需求[垃圾](../Page/垃圾.md "wikilink")，军需仓库只需求[武器](../Page/武器.md "wikilink")、[弹药和](https://zh.wikipedia.org/wiki/弹药 "wikilink")[柴油](../Page/柴油.md "wikilink")。[城市](../Page/城市.md "wikilink")本身也是需求的集中地，几乎所有的终端商品——食品，工业品和汽车等都可以销往城市。在这一套系统下，玩家可以精心设计一条
-\[原料车站\]-运输-\[工业加工车站\]-运输-...-\[终端需求车站\] 的产业链，为自己提供稳定的利润来源。
+《铁路大亨II》拥有一套完备的供给/需求系统，是本作的亮点之一。游戏总计有31种货物，主要包括乘客、邮件、食品、工业品、钢铁、汽车以及谷物、牛等等。并且游戏设有48种产业建筑（包括住宅）。乘客和邮件只由城市中的住宅供给，并且住宅同时需求乘客和邮件，所以玩家只需要把一个城市的乘客运到另一个城市即可。而其它的产业则更复杂一些，比如面包坊，面包坊需求谷物或者糖，供给食品。所以玩家需要把谷物运到面包坊，生产食品后再运至城市。有些产业需要不同的货物才能生产出货物，比如汽车厂需求2厢[钢铁和](https://zh.wikipedia.org/wiki/钢铁 "wikilink")1厢[轮胎生产](https://zh.wikipedia.org/wiki/轮胎 "wikilink")3厢[汽车](../Page/汽车.md "wikilink")。不同的产业都有自己的“产业[方程式](https://zh.wikipedia.org/wiki/方程式 "wikilink")”，玩家只要在界面点一下这些产业，就能看到它们的[方程式](https://zh.wikipedia.org/wiki/方程式 "wikilink")。面包坊和汽车厂这类属于“[第二产业](https://zh.wikipedia.org/wiki/第二产业 "wikilink")”，有进有出。还有一种产业不同——[农业](../Page/农业.md "wikilink")和[矿业](https://zh.wikipedia.org/wiki/矿业 "wikilink")，比如粮田、[铁矿](../Page/铁矿.md "wikilink")、[油井和化工厂这类](https://zh.wikipedia.org/wiki/油井 "wikilink")[第一产业](../Page/第一产业.md "wikilink")。这类企业无需提供货物可以自行产出谷物、铁矿、原油和化工品。还有一类产业，它们没有产出而只有需求，比如垃圾填埋场只需求[垃圾](../Page/垃圾.md "wikilink")，军需仓库只需求[武器](../Page/武器.md "wikilink")、[弹药和](https://zh.wikipedia.org/wiki/弹药 "wikilink")[柴油](../Page/柴油.md "wikilink")。[城市](../Page/城市.md "wikilink")本身也是需求的集中地，几乎所有的终端商品——食品，工业品和汽车等都可以销往城市。在这一套系统下，玩家可以精心设计一条 \[原料车站\]-运输-\[工业加工车站\]-运输-...-\[终端需求车站\] 的产业链，为自己提供稳定的利润来源。
 
 这套系统在3种不同的产业难度下有3种模式，分别是简单-高级-专家，难度模式在游戏开始前可以调整。以上介绍的是高级模式的情况。在简单的模式下，[第二产业比如面包坊和汽车厂不仅可以根据](https://zh.wikipedia.org/wiki/第二产业 "wikilink")“产业方程式”生产，也可以象[第一产业](../Page/第一产业.md "wikilink")一样自行生产少量的货物，使得玩家无需安排产业链就可以随意运输。在专家模式下，又加入了“需求等级”的设定。所有的需求被分成了0-9这十个等级。当玩家把大量的货物向一个车站销售的时候，这个车站对这个货物的需求就会下降，每下降一个等级，运输收入会减少10%；反之，如果一个车站长期不接受某项需求，需求等级就会上升，运输收入会提高，运输收入可以在基础值的50%-140%之间波动。所以专家级模式下玩家还需要注意安排让产业链均匀分布到各个需求地点。同时，专家级产业模式还会允许玩家购买这些产业，获取运输收入以外的另一项收入——产业利润，产业的进出量越大，这个产业盈利就会越高。但是产业的进出量越大意味着需求等级就会越低，运输收入就会越低。所以购买产业以后玩家还需要衡量运输收入和产业收入彼此之间的消长。
 
@@ -98,8 +94,7 @@ Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版�
 
 股票价格由股票内在价值和市场交易影响决定。股票价格的波动会极大地影响玩家的个人资产状况。股价主要受公司的经营状况的影响，公司[市值是对玩家所管理的公司的经营成果的最终体现](https://zh.wikipedia.org/wiki/市值 "wikilink")。玩家个人资产也是游戏对玩家的投资能力、经营能力的最终体现。
 
-股票内在价值和多个因素有关，在铁路大亨2里，股票内在价值由这4个因素构成：[每股收益](https://zh.wikipedia.org/wiki/每股盈余 "wikilink")、每股[净资产](https://zh.wikipedia.org/wiki/资产净值 "wikilink")、每股[红利](https://zh.wikipedia.org/wiki/红利 "wikilink")、每股[收入](https://zh.wikipedia.org/wiki/营业额 "wikilink")。股票价值将是这4个财务数据所计算出的股价的加权平均值，加权额度分别是40%，30%，20%，10%。
-其中各个因素计算成股票价值的公式是
+股票内在价值和多个因素有关，在铁路大亨2里，股票内在价值由这4个因素构成：[每股收益](https://zh.wikipedia.org/wiki/每股盈余 "wikilink")、每股[净资产](https://zh.wikipedia.org/wiki/资产净值 "wikilink")、每股[红利](https://zh.wikipedia.org/wiki/红利 "wikilink")、每股[收入](https://zh.wikipedia.org/wiki/营业额 "wikilink")。股票价值将是这4个财务数据所计算出的股价的加权平均值，加权额度分别是40%，30%，20%，10%。 其中各个因素计算成股票价值的公式是
 
 股价=10\*[每股收益](https://zh.wikipedia.org/wiki/每股盈余 "wikilink")
 
@@ -141,20 +136,10 @@ Tycoon](https://zh.wikipedia.org/wiki/:en:Railroad_Tycoon "wikilink")）（[版�
 
 ## 铁路大亨II：二十一世纪
 
-在《铁路大亨II》发售后不久，PopTop
-Software又推出了其[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")：《**铁路大亨II：二十一世纪**》。在资料片里增加了不少新的，甚至包括未来想象世界的地图、场景、任务，以及新机车、建筑、货物等。此后，PopTop软件又推出过《铁路大亨II黄金版》和《铁路大亨II白金版》。
+在《铁路大亨II》发售后不久，PopTop Software又推出了其[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")：《**铁路大亨II：二十一世纪**》。在资料片里增加了不少新的，甚至包括未来想象世界的地图、场景、任务，以及新机车、建筑、货物等。此后，PopTop软件又推出过《铁路大亨II黄金版》和《铁路大亨II白金版》。
 
 ## 参考资料
 
-  - [Gamespot Railroad Tycoon II
-    Review](http://www.gamespot.com/pc/strategy/railroadtycoon2/review.html?om_act=convert&om_clk=gssummary&tag=summary;read-review)
+  - [Gamespot Railroad Tycoon II Review](http://www.gamespot.com/pc/strategy/railroadtycoon2/review.html?om_act=convert&om_clk=gssummary&tag=summary;read-review)
 
-[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
-[Category:鐵路大亨系列](https://zh.wikipedia.org/wiki/Category:鐵路大亨系列 "wikilink")
-[Category:经营模拟游戏](https://zh.wikipedia.org/wiki/Category:经营模拟游戏 "wikilink")
-[Category:铁路模拟游戏](https://zh.wikipedia.org/wiki/Category:铁路模拟游戏 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:鐵路大亨系列](https://zh.wikipedia.org/wiki/Category:鐵路大亨系列 "wikilink") [Category:经营模拟游戏](https://zh.wikipedia.org/wiki/Category:经营模拟游戏 "wikilink") [Category:铁路模拟游戏](https://zh.wikipedia.org/wiki/Category:铁路模拟游戏 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")

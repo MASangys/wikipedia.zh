@@ -1,7 +1,6 @@
 \-{T|poker face}-
 
-《**poker
-face**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")在日本[愛貝克思音樂旗下的首張出道單曲](https://zh.wikipedia.org/wiki/愛貝克思音樂 "wikilink")，1998年4月8日於日本發行。其後於2001年2月28日重新發行增加混音的12cm版本。
+《**poker face**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")在日本[愛貝克思音樂旗下的首張出道單曲](https://zh.wikipedia.org/wiki/愛貝克思音樂 "wikilink")，1998年4月8日於日本發行。其後於2001年2月28日重新發行增加混音的12cm版本。
 
 ## 說明
 
@@ -51,8 +50,6 @@ face**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")在日本[�
 
 </div>
 
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
+[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
 
-1.  [Jpopmusic.com :: View topic - The Oricon Resource/Archives Thread
-    II](http://www.jpopmusic.com/forums/viewtopic.php?p=2958098&highlight=#2958098)
+1.  [Jpopmusic.com :: View topic - The Oricon Resource/Archives Thread II](http://www.jpopmusic.com/forums/viewtopic.php?p=2958098&highlight=#2958098)

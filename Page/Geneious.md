@@ -19,9 +19,7 @@ Geneious結合了所有主要的生物信息學分析工具。 Geneious提供一
 
 ## 人氣和獎項
 
-據作者稱，在2007年5月Geneious從30個國家拥有了50000名用戶，\[1\]，引起了GenomeWeb\[2\],
-BioInform, Bio-IT World\[3\] 和bioinformatics blogs\[4\]\[5\]
-的注意。Geneious還獲得了2007年電子科學世界信息峰會大獎。\[6\]，和2007為創造性地使用信息和通信技術計算機世界卓越成就獎\[7\].
+據作者稱，在2007年5月Geneious從30個國家拥有了50000名用戶，\[1\]，引起了GenomeWeb\[2\], BioInform, Bio-IT World\[3\] 和bioinformatics blogs\[4\]\[5\] 的注意。Geneious還獲得了2007年電子科學世界信息峰會大獎。\[6\]，和2007為創造性地使用信息和通信技術計算機世界卓越成就獎\[7\].
 
 ## 參考文獻
 
@@ -44,20 +42,14 @@ BioInform, Bio-IT World\[3\] 和bioinformatics blogs\[4\]\[5\]
 
   - [Geneious 官方網站](http://www.geneious.com/)
   - [Biomatters 官方網站](http://www.biomatters.com/)
-  - [List of phylogeny
-    software](http://evolution.genetics.washington.edu/phylip/software.html)，hosted
-    at the [University of Washington](../Page/華盛頓大學.md "wikilink")
+  - [List of phylogeny software](http://evolution.genetics.washington.edu/phylip/software.html)，hosted at the [University of Washington](../Page/華盛頓大學.md "wikilink")
 
-[Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink")
-[Category:计算科学](https://zh.wikipedia.org/wiki/Category:计算科学 "wikilink")
+[Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink") [Category:计算科学](https://zh.wikipedia.org/wiki/Category:计算科学 "wikilink")
 
 1.  [1](http://www.in-sequence.com/issues/1_18/new_products/139909-1.html)
 2.  [GenomeWeb](http://www.genomeweb.com/cgi-bin/texis/scripts-genomeweb/genomeweb-search/search.html?query=geneious&Go.x=0&Go.y=0)
-3.  [Bio-IT
-    World](http://www.google.com/search?num=100&hl=ensafe=off&q=site%3Abio-itworld.com+%22geneious%22&btnG=Search)
-4.  [BlindScientist
-    blog](http://blindscientist.genedrift.org/2007/02/26/hello-world/)
+3.  [Bio-IT World](http://www.google.com/search?num=100&hl=ensafe=off&q=site%3Abio-itworld.com+%22geneious%22&btnG=Search)
+4.  [BlindScientist blog](http://blindscientist.genedrift.org/2007/02/26/hello-world/)
 5.  [Technocrat blog](http://technocrat.net/d/2006/4/20/2665)
 6.
-7.  [2007 Computerworld excellence
-    awards](http://computerworld.co.nz/cwea.nsf/UNID/3DC703C7A4CD0273CC2572DC007B51C1?OpenDocument)
+7.  [2007 Computerworld excellence awards](http://computerworld.co.nz/cwea.nsf/UNID/3DC703C7A4CD0273CC2572DC007B51C1?OpenDocument)

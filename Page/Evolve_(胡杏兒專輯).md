@@ -62,6 +62,4 @@ TVB劇集《<a href="../Page/野蠻奶奶大戰戈師奶.md" title="wikilink">�
 
 專輯冠軍歌曲：《單身旅行》、《浪漫世紀》
 
-[Category:胡杏兒音樂專輯](https://zh.wikipedia.org/wiki/Category:胡杏兒音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:胡杏兒音樂專輯](https://zh.wikipedia.org/wiki/Category:胡杏兒音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

@@ -1,11 +1,11 @@
-是[-{谷}-菊秀原作](https://zh.wikipedia.org/wiki/谷菊秀 "wikilink")、[黑岩善宏負責繪製的](../Page/黑岩善宏.md "wikilink")[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，起初於[集英社](../Page/集英社.md "wikilink")《[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")》1992年8月號以短篇的方式發表，之後從同雜誌的12月號開始連載，至1996年9月增刊號完結，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")12冊。2005年由[竹書房發行全](../Page/竹書房.md "wikilink")7冊的新書版。中文代理方面，集英社版的單行本曾經由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社發行](../Page/長鴻出版社.md "wikilink")、[香港由](../Page/香港.md "wikilink")[天下出版發行](../Page/天下出版.md "wikilink")。竹書房版的單行本目前無中文版。
+是[-{谷}-菊秀原作](https://zh.wikipedia.org/wiki/谷菊秀 "wikilink")、[黑岩善宏](../Page/黑岩善宏.md "wikilink")負責繪製的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，起初於[集英社](../Page/集英社.md "wikilink")《[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")》1992年8月號以短篇的方式發表，但與連載版的設定不同。之後從同雜誌的12月號開始連載，至1996年9月增刊號完結，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")12冊。2005年由[竹書房](../Page/竹書房.md "wikilink")發行全7冊的新書版。中文代理方面，集英社版的單行本曾經由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社](../Page/長鴻出版社.md "wikilink")發行、[香港](../Page/香港.md "wikilink")由[天下出版](../Page/天下出版.md "wikilink")發行。竹書房版的單行本目前無中文版。
 
-媒介方面，1995年由[東京電視網播出同名](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink")，1997年發行[OVA的外傳動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。
+媒介方面，1995年於[東京電視網](../Page/東京電視網.md "wikilink")播出同名[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink")，1997年發行[OVA的外傳動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 ## 劇情簡介
 
   -
-    [役小角是日本最偉大的降魔師](../Page/役小角.md "wikilink")，他役使「前鬼」（又名「朱鬼神」）對抗世上的邪惡。小角逝世之前，把前鬼封印在一個石碑中，並留下一個護法輪。此石碑被封印在的「役咒法堂」正殿。當災難出現、護法輪發出光芒時，就對著天空畫[五芒星](https://zh.wikipedia.org/wiki/五芒星 "wikilink")，唸小角秘傳的咒語，使前鬼甦醒。
+    [役小角](../Page/役小角.md "wikilink")是日本最偉大的降魔師，他役使「前鬼」（又名「朱鬼神」）對抗世上的邪惡。小角逝世之前，把前鬼封印在一個石碑中，並留下一個護法輪。此石碑被封印在的「役咒法堂」正殿。當災難出現、護法輪發出光芒時，就對著天空畫[五芒星](https://zh.wikipedia.org/wiki/五芒星 "wikilink")，唸小角秘傳的咒語，使前鬼甦醒。
     在千年以後的鬼神鎮，貓丸與犬丸為了尋找傳說中「役小角的祕寶」而來到鬼神鎮，想以此「祕寶」成為[億萬富翁](https://zh.wikipedia.org/wiki/億萬富翁 "wikilink")。他們趁夜侵入役咒法堂正殿，破壞了結界，撕除了「祕寶」盒上的符咒，打開盒蓋一看，裡面是一顆。寄生果看起來像是一顆眼球，會附身在被強烈慾望薰心的身上，然後依不同的欲望變成不同的。小角的後代役小明，擁有能力讓前鬼解除封印，以前鬼的力量消滅寄生獸、解救被寄生果附身的人。
 
 <!-- end list -->
@@ -21,7 +21,7 @@
 
 ## 登場人物
 
-目前日本[集英社版的單行本之兩種中文版都已經絕版](../Page/集英社.md "wikilink")，下列設定資料均以電視動畫版為主，電視動畫版用語以中視版為主。
+目前日本[集英社](../Page/集英社.md "wikilink")版的單行本之兩種中文版都已經絕版，下列設定資料均以電視動畫版為主，電視動畫版用語以中視版為主。
 
 ### 主要角色
 
@@ -30,7 +30,7 @@
 
     在故事開頭遭到寄生獸的攻擊，千鈞一髮之際解開了前鬼的第一段封印，並得到能役使前鬼的「護法輪」，其後與前鬼為祛除邪惡而戰。故事中，逐漸學會各種咒術，如「火炎咒」、「烈風咒」。直呼前鬼與後鬼，不尊稱「前鬼殿下」、「後鬼殿下」。
 
-    在原作及電視動畫版中提供最多[殺必死](../Page/殺必死.md "wikilink")，包括[全裸入浴及出浴](https://zh.wikipedia.org/wiki/全裸 "wikilink")\[1\]、被寄生獸割掉[比基尼泳衣上半部](../Page/比基尼泳衣.md "wikilink")\[2\]等。
+    在原作及電視動畫版中提供最多[殺必死](../Page/殺必死.md "wikilink")，包括[全裸入浴及出浴](https://zh.wikipedia.org/wiki/全裸 "wikilink")\[1\]、被寄生獸割掉[比基尼泳衣](../Page/比基尼泳衣.md "wikilink")上半部\[2\]等。
 
     在電視動畫版中以單手畫五芒星解開前鬼第二段封印，所用咒語全文依中視版譯詞如下：廣東話版咒語如下:
 
@@ -38,8 +38,7 @@
     男主角，是千年前被役小角封印的前鬼，千年後被小明解開第一段封印而來到鬼神鎮。平時受-{制}-於第二段封印，維持小孩的型態，力量弱小；戰鬥時由小明解開第二段封印，而恢復成力量強大的原貌。最愛吃寄生果，能聞到寄生果的氣味。
 
   -
-    前鬼被解開第二段封印時最初的形體，擁有驚人的力量。初期以受役小角賦予、從自己右手肘冒出的作為武器，搭配小明的咒術可使出各種招式。首次被小明解開第二段封印時想要殺了小明以重獲自由，卻被小明的護法輪變回小孩的型態而作罷，隨即放棄殺了小明，但經常與小明吵架，常用「臭丫頭
-    」對小明稱呼。
+    前鬼被解開第二段封印時最初的形體，擁有驚人的力量。初期以受役小角賦予、從自己右手肘冒出的作為武器，搭配小明的咒術可使出各種招式。首次被小明解開第二段封印時想要殺了小明以重獲自由，卻被小明的護法輪變回小孩的型態而作罷，隨即放棄殺了小明，但經常與小明吵架，常用「臭丫頭 」對小明稱呼。
 
     在原作中，由於役小角秘傳的咒語咒文不完全，無法發揮全部力量。
 
@@ -73,7 +72,7 @@
     在原作中，她在小明幼時即退休、離開鬼神鎮，在日本各地尋找高強法師共同對付魔神獸；在電視動畫版中，她大部分時間都在鬼神鎮。
 
   -
-    小鬼的弟弟，是一位老[僧侶](https://zh.wikipedia.org/wiki/僧侶 "wikilink")，為「麒麟寺」[住持](../Page/住持.md "wikilink")。雖已[出家多年](../Page/出家.md "wikilink")，但性格好色。擅長武術為。尊稱前鬼「前鬼殿下」，尊稱後鬼「後鬼殿下」。
+    小鬼的弟弟，是一位老[僧侶](https://zh.wikipedia.org/wiki/僧侶 "wikilink")，為「麒麟寺」[住持](../Page/住持.md "wikilink")。雖已[出家](../Page/出家.md "wikilink")多年，但性格好色。擅長武術為。尊稱前鬼「前鬼殿下」，尊稱後鬼「後鬼殿下」。
 
   -
     小明千年前的祖先。咒力高深，能役使前鬼，是真實存在的歷史人物。千年前成功以五芒星結界封印寄生樹。他能預知小明的時代將發生的事情，死後仍在關鍵時刻顯靈啟示役家後代，被役家後代尊稱「小角祖先」。
@@ -84,7 +83,7 @@
     招式為與。「守護天蓋」能造出結界抵擋攻擊，「不動龍棍」能化土為棍用以攻擊。
 
   -
-    影高野的退魔師，是一個英俊的[密宗僧侶](../Page/密宗.md "wikilink")，頭戴[墨鏡](https://zh.wikipedia.org/wiki/墨鏡 "wikilink")，使用以咒力化成的「退魔劍」戰鬥。在電視動畫版中，為尋找安久的下落而出走影高野，後來與小明和前鬼相遇，進而並肩作戰。
+    影高野的退魔師，是一個英俊的[密宗](../Page/密宗.md "wikilink")僧侶，頭戴[墨鏡](https://zh.wikipedia.org/wiki/墨鏡 "wikilink")，使用以咒力化成的「退魔劍」戰鬥。在電視動畫版中，為尋找安久的下落而出走影高野，後來與小明和前鬼相遇，進而並肩作戰。
 
   -
     壽海的徒弟，麒麟寺的年輕僧侶。在電視動畫版中，他是小明的[青梅竹馬](../Page/青梅竹馬.md "wikilink")，出場率大增，曾因暗戀小明而遭寄生果附身。其原型以及名字由來是七龍珠的克林。
@@ -141,7 +140,7 @@
   -
     在原作中，受役小角役使的鬼神軍團首領，實力在前鬼之上，曾折斷前鬼頭上的雙角。認為人類為邪惡慾望之源，故想消滅人類，但被役小角與其他鬼神合力封印，由鬼道家看守其封印。他最愛吃寄生獸，因為吃寄生獸時會一併吃掉寄生果與寄主。在小明的時代，他被意圖消滅役家的鬼道家解開封印，被前鬼再封印於月球表面。異形眾解開龍魔大帝的封印之後，被封印於月球表面的他被虛空解開封印，基於保護地球（而不是保護人類）的信念回到地球，與小明、前鬼、後鬼及毒士一同將龍魔大帝封印於月球表面。
   -
-    在原作中，小明的學姊，土役門高級中學[合氣道社主將](../Page/合氣道.md "wikilink")，「英神社」的[巫女](../Page/巫女.md "wikilink")，父親是英神社主人。初登場時，制止剛次的惡質攬客行為，被已遭寄生果附身的剛次撕破巫女服\[3\]。
+    在原作中，小明的學姊，土役門高級中學[合氣道](../Page/合氣道.md "wikilink")社主將，「英神社」的[巫女](../Page/巫女.md "wikilink")，父親是英神社主人。初登場時，制止剛次的惡質攬客行為，被已遭寄生果附身的剛次撕破巫女服\[3\]。
     後於解救被附身獸附身的鎮民。
   -
     小明的同班同學，鬼道家的獨生子。
@@ -175,7 +174,7 @@
   -
     「三邪魔師」的男性成員。對羯磨非常忠誠，只要是羯磨的命令無不遵從。從過去返回時被剛羅暗算，而落入時間夾縫；後來被羯磨以盔甲保住流失的時間，方能繼續留存在世間，但最後被前鬼以金剛斧擊敗。
   -
-    「三邪魔師」的女性成員。原為影高野大僧正的孫女，其咒力及身手在影高野無人能敵，卻被羯磨[洗腦成為三邪魔師之一](../Page/洗腦.md "wikilink")。曾一度被壯真喚醒記憶，其後被羯磨以寄生果附體，最後與前鬼戰鬥過後消失於人世。
+    「三邪魔師」的女性成員。原為影高野大僧正的孫女，其咒力及身手在影高野無人能敵，卻被羯磨[洗腦](../Page/洗腦.md "wikilink")成為三邪魔師之一。曾一度被壯真喚醒記憶，其後被羯磨以寄生果附體，最後與前鬼戰鬥過後消失於人世。
   -
     役小角的後代，也是小明八百年前的祖先。留著一頭棕色長髮，平時以兩串珠紮成雙馬尾。役使式神「護法童子」。與尋找金剛斧而回到過去的小明眾人相遇，更因此懂得去珍惜式神。
 
@@ -335,15 +334,13 @@
 
 ## 電視動畫
 
-日本國內，1995年1月9日起至同年12月25日為止，毎週一的晚間18時00分至18時30分（[日本標準時間](../Page/日本標準時間.md "wikilink")）在[東京電視網](../Page/東京電視網.md "wikilink")（TXN）首播。全51話。此外該動畫也是日本至今唯一一部仍在播出的少年漫畫改編動畫。並在首播期間曾經錄製成[VHS和](../Page/VHS.md "wikilink")[LD](https://zh.wikipedia.org/wiki/LD "wikilink")，均由[Pony
-Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+日本國內，1995年1月9日起至同年12月25日為止，毎週一的晚間18時00分至18時30分（[日本標準時間](../Page/日本標準時間.md "wikilink")）在[東京電視網](../Page/東京電視網.md "wikilink")（TXN）首播。全51話。此外該動畫也是日本至今唯一一部仍在播出的少年漫畫改編動畫。並在首播期間曾經錄製成[VHS](../Page/VHS.md "wikilink")和[LD](https://zh.wikipedia.org/wiki/LD "wikilink")，均由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
-台灣方面，台灣首播權則由[中國電視公司取得](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（以下簡稱「中視版」），並以雙語播出，主聲道為國語配音，副聲道為日語配音。除了[八大電視重播時另外製作國語配音](../Page/八大電視.md "wikilink")（以下簡稱「八大版」）以外，台灣其他電視頻道播的國語配音版本都是中視版\[5\]。
+台灣方面，台灣首播權則由[中國電視公司取得](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（以下簡稱「中視版」），並以雙語播出，主聲道為國語配音，副聲道為日語配音。除了[八大電視](../Page/八大電視.md "wikilink")重播時另外製作國語配音（以下簡稱「八大版」）以外，台灣其他電視頻道播的國語配音版本都是中視版\[5\]。
 
-動畫版的基本設定大都忠實於漫畫原作，與漫畫版不一樣的是各回登場的角色、憑依獸有些微的不同。而主要角色後鬼的設定也和漫畫版大不同。由於漫畫版有很多[殺必死](../Page/殺必死.md "wikilink")（[露內褲](../Page/裙底風光.md "wikilink")、露出[乳頭](../Page/乳頭.md "wikilink")）、[性描寫及血腥殘虐的成人畫面](../Page/性感.md "wikilink")，因此動畫播出時則是將這些成人畫面予以控制注\[6\]。還有，動畫版第3話的內容改編自短篇版、第31話的內容改編自漫畫連載期間發表的外傳。
+動畫版的基本設定大都忠實於漫畫原作，與漫畫版不一樣的是各回登場的角色、憑依獸有些微的不同。而主要角色後鬼的設定也和漫畫版大不同。由於漫畫版有很多[殺必死](../Page/殺必死.md "wikilink")（[露內褲](../Page/裙底風光.md "wikilink")、露出[乳頭](../Page/乳頭.md "wikilink")）、[性描寫及血腥殘虐的成人畫面](../Page/性感.md "wikilink")，因此動畫播出時則是將這些成人畫面予以控制注\[6\]。還有，動畫版第3話的內容改編自漫畫正傳連載以前的短篇、第31話的內容改編自漫畫正傳連載中發表的外傳。
 
-2007年4月17日，由[Kids
-Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "wikilink")。同時TPO錄製成總共2卷的DVD-BOX組在網路以限定版的方式持續進行販售至今，並附贈主角役小明的[黏土公仔](../Page/黏土人.md "wikilink")。
+2007年4月17日，由[Kids Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "wikilink")。同時TPO錄製成總共2卷的DVD-BOX組在網路以限定版的方式持續進行販售至今，並附贈主角役小明的[黏土公仔](../Page/黏土人.md "wikilink")。
 
 ### 製作人員
 
@@ -372,8 +369,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
   - 動畫製片人：豐住政弘
   - 製作人：小林教子→吉澤有（東京電視台）、今井修二→位下博一（讀賣廣告社）、朝倉千代子→千葉行利（K-Factory）
   - 動畫製作：[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
-  - 製作：東京電視台、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")、[Kitty
-    Film](https://zh.wikipedia.org/wiki/Kitty_Film "wikilink")（後期改名K-Factory）
+  - 製作：東京電視台、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")、[Kitty Film](https://zh.wikipedia.org/wiki/Kitty_Film "wikilink")（後期改名K-Factory）
 
 ### 主題歌
 
@@ -1226,16 +1222,11 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 
 ## 遊戲軟體
 
-  - 《**鬼神童子ZENKI
-    烈鬥雷傳**<small>（）</small>》：1995年8月4日發售，對應機種為[SFC](../Page/超級任天堂.md "wikilink")，[Hudson製作發行](https://zh.wikipedia.org/wiki/株式會社哈德森 "wikilink")，類型為動作類遊戲。
-  - 《**鬼神童子ZENKI**<small>（）</small>》：1995年9月1日發售，對應機種為[Game
-    Gear](../Page/Game_Gear.md "wikilink")，[Sega製作發行](../Page/世嘉.md "wikilink")，類型為動作類遊戲。
-  - 《**鬼神童子ZENKI
-    電影雷舞**<small>（）</small>》：1995年11月24日發售，對應機種為SFC，Hudson製作發行，類型為動作類遊戲。
-  - 《**鬼神童子ZENKI FX
-    金剛焱鬥**<small>（）</small>》：1995年12月22日發售，對應機種為[PC-FX](../Page/PC-FX.md "wikilink")，Hudson製作發行，類型為動作類遊戲。
-  - 《**鬼神童子ZENKI
-    天地鳴動**<small>（）</small>》：1996年2月23日發售，對應機種為SFC，Hudson製作發行，類型為[桌上遊戲](../Page/圖版遊戲.md "wikilink")。
+  - 《**鬼神童子ZENKI 烈鬥雷傳**<small>（）</small>》：1995年8月4日發售，對應機種為[SFC](../Page/超級任天堂.md "wikilink")，[Hudson製作發行](https://zh.wikipedia.org/wiki/株式會社哈德森 "wikilink")，類型為動作類遊戲。
+  - 《**鬼神童子ZENKI**<small>（）</small>》：1995年9月1日發售，對應機種為[Game Gear](../Page/Game_Gear.md "wikilink")，[Sega製作發行](../Page/世嘉.md "wikilink")，類型為動作類遊戲。
+  - 《**鬼神童子ZENKI 電影雷舞**<small>（）</small>》：1995年11月24日發售，對應機種為SFC，Hudson製作發行，類型為動作類遊戲。
+  - 《**鬼神童子ZENKI FX 金剛焱鬥**<small>（）</small>》：1995年12月22日發售，對應機種為[PC-FX](../Page/PC-FX.md "wikilink")，Hudson製作發行，類型為動作類遊戲。
+  - 《**鬼神童子ZENKI 天地鳴動**<small>（）</small>》：1996年2月23日發售，對應機種為SFC，Hudson製作發行，類型為[桌上遊戲](../Page/圖版遊戲.md "wikilink")。
 
 ## 腳註
 
@@ -1265,32 +1256,12 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
   -
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:動作漫畫](https://zh.wikipedia.org/wiki/Category:動作漫畫 "wikilink")
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:月刊少年Jump](https://zh.wikipedia.org/wiki/Category:月刊少年Jump "wikilink")
-[Category:佛教题材漫画](https://zh.wikipedia.org/wiki/Category:佛教题材漫画 "wikilink")
-[Category:1995年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1995年日本電視動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
-[Category:超視電視節目](https://zh.wikipedia.org/wiki/Category:超視電視節目 "wikilink")
-[Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink")
-[Category:1997年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1997年日本OVA動畫 "wikilink")
-[Category:動作動畫](https://zh.wikipedia.org/wiki/Category:動作動畫 "wikilink")
-[Category:日本鬼題材作品](https://zh.wikipedia.org/wiki/Category:日本鬼題材作品 "wikilink")
-[Category:佛教题材作品](https://zh.wikipedia.org/wiki/Category:佛教题材作品 "wikilink")
-[Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink")
-[Category:1995年電子遊戲](https://zh.wikipedia.org/wiki/Category:1995年電子遊戲 "wikilink")
-[Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink")
-[Category:PC-FX遊戲](https://zh.wikipedia.org/wiki/Category:PC-FX遊戲 "wikilink")
-[Category:Game_Gear遊戲](https://zh.wikipedia.org/wiki/Category:Game_Gear遊戲 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:動作漫畫](https://zh.wikipedia.org/wiki/Category:動作漫畫 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:月刊少年Jump](https://zh.wikipedia.org/wiki/Category:月刊少年Jump "wikilink") [Category:佛教题材漫画](https://zh.wikipedia.org/wiki/Category:佛教题材漫画 "wikilink") [Category:1995年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1995年日本電視動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink") [Category:超視電視節目](https://zh.wikipedia.org/wiki/Category:超視電視節目 "wikilink") [Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink") [Category:1997年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1997年日本OVA動畫 "wikilink") [Category:動作動畫](https://zh.wikipedia.org/wiki/Category:動作動畫 "wikilink") [Category:日本鬼題材作品](https://zh.wikipedia.org/wiki/Category:日本鬼題材作品 "wikilink") [Category:佛教题材作品](https://zh.wikipedia.org/wiki/Category:佛教题材作品 "wikilink") [Category:驅魔題材作品](https://zh.wikipedia.org/wiki/Category:驅魔題材作品 "wikilink") [Category:1995年電子遊戲](https://zh.wikipedia.org/wiki/Category:1995年電子遊戲 "wikilink") [Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink") [Category:PC-FX遊戲](https://zh.wikipedia.org/wiki/Category:PC-FX遊戲 "wikilink") [Category:Game_Gear遊戲](https://zh.wikipedia.org/wiki/Category:Game_Gear遊戲 "wikilink")
 
 1.  例如：原作〈大法師·鴉紋之章1：鬼神解縛秘咒〉、原作〈寄生獸果實之章1：木乃伊旅館〉。
 2.  例如：原作〈依賴之章：夏天、海水、吞食美麗容貌的男人！〉。
 3.  原作〈咒殺之章1：寄生獸果實〉。
 4.  收錄短篇版的「鬼神童子ZENKI」。
-5.  此外台灣首播日期約在1995年至1996年間，某一回[陳美鳳與](../Page/陳美鳳_\(台灣\).md "wikilink")[周麟](https://zh.wikipedia.org/wiki/周麟_\(藝人\) "wikilink")2人一起主持中視週六午間[綜藝節目](../Page/綜藝節目.md "wikilink")《[歡樂傳真](../Page/歡樂傳真.md "wikilink")》時，在節目尾聲由擔任來賓的[鄭進一介紹了接下來將要播放的](../Page/鄭進一.md "wikilink")《鬼神童子ZENKI》。1997年8月，[中華電視公司週六晚間綜藝節目](../Page/中華電視公司.md "wikilink")《[紅白勝利](../Page/紅白勝利.md "wikilink")》跳槽中視以前，中視曾在週六晚間連續播出《鬼神童子ZENKI》與《[YAWARA！](https://zh.wikipedia.org/wiki/柔道英雌 "wikilink")》各一集。
+5.  此外台灣首播日期約在1995年至1996年間，某一回[陳美鳳與](../Page/陳美鳳_\(台灣\).md "wikilink")[周麟](https://zh.wikipedia.org/wiki/周麟_\(藝人\) "wikilink")2人一起主持中視週六午間[綜藝節目](../Page/綜藝節目.md "wikilink")《[歡樂傳真](../Page/歡樂傳真.md "wikilink")》時，在節目尾聲由擔任來賓的[鄭進一](../Page/鄭進一.md "wikilink")介紹了接下來將要播放的《鬼神童子ZENKI》。1997年8月，[中華電視公司](../Page/中華電視公司.md "wikilink")週六晚間綜藝節目《[紅白勝利](../Page/紅白勝利.md "wikilink")》跳槽中視以前，中視曾在週六晚間連續播出《鬼神童子ZENKI》與《[YAWARA！](https://zh.wikipedia.org/wiki/柔道英雌 "wikilink")》各一集。
 6.  不過只有第1集一直到故事終盤性描寫的表現大多集中在主角役小明身上。
 7.  來自《[Animage](../Page/Animage.md "wikilink")》1995年9月號（[德間書店](../Page/德間書店.md "wikilink")）全國各家播放電視台一覽（第204－205頁）。

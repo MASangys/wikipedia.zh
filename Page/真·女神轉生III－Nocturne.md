@@ -1,8 +1,6 @@
-是一款由日本公司[Atlus開發及發行的](../Page/Atlus.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，是Atlus在步入第六代主機時代時為[PlayStation
-2開發的第二款遊戲](../Page/PlayStation_2.md "wikilink")（第一款為《[魔劍爻](https://zh.wikipedia.org/wiki/魔劍爻 "wikilink")》）。作為[女神轉生系列的正傳作品](../Page/女神轉生系列.md "wikilink")，距離在[超級任天堂上發表的](../Page/超級任天堂.md "wikilink")《[真·女神轉生II](https://zh.wikipedia.org/wiki/真·女神轉生II "wikilink")》的發售時間相差了幾乎8年多。在繼承了前作的各種元素外亦在自身進行了許多的改革，最明顯的是畫面由當初的[第一人稱視角變成跟隨潮流的](https://zh.wikipedia.org/wiki/第一人稱視角 "wikilink")[第三人稱視角全實時](https://zh.wikipedia.org/wiki/第三人稱視角 "wikilink")3D環境，還有獨特的進化了的[回合制戰鬥](https://zh.wikipedia.org/wiki/回合制 "wikilink")。
+是一款由日本公司[Atlus](../Page/Atlus.md "wikilink")開發及發行的[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，是Atlus在步入第六代主機時代時為[PlayStation 2開發的第二款遊戲](../Page/PlayStation_2.md "wikilink")（第一款為《[魔劍爻](https://zh.wikipedia.org/wiki/魔劍爻 "wikilink")》）。作為[女神轉生系列](../Page/女神轉生系列.md "wikilink")的正傳作品，距離在[超級任天堂](../Page/超級任天堂.md "wikilink")上發表的《[真·女神轉生II](https://zh.wikipedia.org/wiki/真·女神轉生II "wikilink")》的發售時間相差了幾乎8年多。在繼承了前作的各種元素外亦在自身進行了許多的改革，最明顯的是畫面由當初的[第一人稱視角變成跟隨潮流的](https://zh.wikipedia.org/wiki/第一人稱視角 "wikilink")[第三人稱視角全實時](https://zh.wikipedia.org/wiki/第三人稱視角 "wikilink")3D環境，還有獨特的進化了的[回合制戰鬥](https://zh.wikipedia.org/wiki/回合制 "wikilink")。
 
-次年Atlus推出了導演剪輯版《真·女神轉生III－Nocturne Maniax》（
-狂熱版），新增困難模式、迷宮等，還有原出自[卡普空](../Page/卡普空.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")《[惡魔獵人2](../Page/惡魔獵人2.md "wikilink")》的主角但丁客串演出。
+次年Atlus推出了導演剪輯版《真·女神轉生III－Nocturne Maniax》（狂熱版），新增困難模式、迷宮等，還有原出自[卡普空](../Page/卡普空.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")《[惡魔獵人2](../Page/惡魔獵人2.md "wikilink")》的主角但丁客串演出。
 
 ## 剧情
 
@@ -28,7 +26,7 @@
 <!-- end list -->
 
   - 冰川
-    表面上是某大電信公司的總技術幹事，實質是女神轉生系列[秩序與](https://zh.wikipedia.org/wiki/秩序 "wikilink")[混沌鬥爭中代表後方的教派](../Page/混沌.md "wikilink")──「蓋亞教」的骨幹成員。在蓋亞教的書庫中找到記載創世祕密的《彌勒經》（內容屬故事虛構）而決定啟動受胎。他的創世攝理是「默」（寂靜），在這個世界生活的每個人都拋棄自己的情感，只懂得作為轉動世界的齒輪而活。高尾佑子認為這樣的世界是一個失去活力，只有時間流動的死城。
+    表面上是某大電信公司的總技術幹事，實質是女神轉生系列[秩序與](https://zh.wikipedia.org/wiki/秩序 "wikilink")[混沌](../Page/混沌.md "wikilink")鬥爭中代表後方的教派──「蓋亞教」的骨幹成員。在蓋亞教的書庫中找到記載創世祕密的《彌勒經》（內容屬故事虛構）而決定啟動受胎。他的創世攝理是「默」（寂靜），在這個世界生活的每個人都拋棄自己的情感，只懂得作為轉動世界的齒輪而活。高尾佑子認為這樣的世界是一個失去活力，只有時間流動的死城。
 
 <!-- end list -->
 
@@ -54,29 +52,18 @@
 
 ## 发行
 
-海外版儘管沒有Maniax的副標題但其實是以這個版本為藍本翻譯的。《真·女神轉生III》是女神轉生系列正傳作品中第一款登陸[美國的遊戲](https://zh.wikipedia.org/wiki/美國 "wikilink")，因此省略了「III」的集數標記，但由於遊戲內容洩及了對美國人而言敏感的宗教題材而被[ESRB列為](https://zh.wikipedia.org/wiki/ESRB "wikilink")[18禁遊戲](https://zh.wikipedia.org/wiki/18禁遊戲 "wikilink")（遊戲本身倒是沒含有過分賣弄色情的內容），亦導致了而後Atlus推出的女神轉生續篇遊戲的美國版都被ESRB清一色評為成人層遊戲。歐洲版遊戲內除了英文外更提供了德文及法文選擇，為了避免商標責任而將副標題的「Nocturne」（[夜曲](https://zh.wikipedia.org/wiki/夜曲 "wikilink")）改為「Lucifer's
-Call」（[路西法的呼喚](../Page/路西法.md "wikilink")）。
+海外版儘管沒有Maniax的副標題但其實是以這個版本為藍本翻譯的。《真·女神轉生III》是女神轉生系列正傳作品中第一款登陸[美國的遊戲](https://zh.wikipedia.org/wiki/美國 "wikilink")，因此省略了「III」的集數標記，但由於遊戲內容洩及了對美國人而言敏感的宗教題材而被[ESRB列為](https://zh.wikipedia.org/wiki/ESRB "wikilink")[18禁遊戲](https://zh.wikipedia.org/wiki/18禁遊戲 "wikilink")（遊戲本身倒是沒含有過分賣弄色情的內容），亦導致了而後Atlus推出的女神轉生續篇遊戲的美國版都被ESRB清一色評為成人層遊戲。歐洲版遊戲內除了英文外更提供了德文及法文選擇，為了避免商標責任而將副標題的「Nocturne」（[夜曲](https://zh.wikipedia.org/wiki/夜曲 "wikilink")）改為「Lucifer's Call」（[路西法](../Page/路西法.md "wikilink")的呼喚）。
 
 ## 評價
 
 系列玩家對此作的褒貶不一，但抱怨聲音一般是指向III所沒有繼承前作的部分。《[Fami通](../Page/Fami通.md "wikilink")》給予了本作35/40分數（白金殿堂），但並沒有為遊戲帶來期待中的銷量。
 
+## 参考资料
+
 ## 外部链接
 
-  - [真女神轉生III Nocturne
-    日本官方网页](https://web.archive.org/web/20071110215708/http://www.atlus.co.jp/cs/game/pstation2/dds3/index.html)
+  - [真女神轉生III Nocturne 日本官方网页](https://web.archive.org/web/20071110215708/http://www.atlus.co.jp/cs/game/pstation2/dds3/index.html)
+  - [真女神轉生III Nocturne Maniax 日本官方网页](https://web.archive.org/web/20071110215613/http://www.atlus.co.jp/cs/game/pstation2/dds3-m/index.html)
+  - [Shin Megami Tensei Nocturne、Digital Devil Saga 美国官方网页](http://www.atlus.com/smt/) （需要出生日检证）
 
-  - [真女神轉生III Nocturne Maniax
-    日本官方网页](https://web.archive.org/web/20071110215613/http://www.atlus.co.jp/cs/game/pstation2/dds3-m/index.html)
-
-  - [Shin Megami Tensei Nocturne、Digital Devil Saga
-    美国官方网页](http://www.atlus.com/smt/) （需要出生日检证）
-
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:女神轉生系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神轉生系列電子遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink")
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
-[Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink")
-[Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:女神轉生系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神轉生系列電子遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")

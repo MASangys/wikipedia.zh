@@ -1,18 +1,11 @@
-**Microsoft Data Access
-Components**（**MDAC**）是微軟專門為[資料存取](../Page/資料存取.md "wikilink")功能而發展的應用程式開發介面，做為微軟的統一化資料存取（Universal
-Data Access;
-UDA）解決方案的核心組成，最初的版本在1996年8月發表。目前其組成元件有[ODBC](../Page/ODBC.md "wikilink")，[OLE
-DB以及](../Page/OLE_DB.md "wikilink")[ADO](../Page/ADO.md "wikilink")，其中[ADO](../Page/ADO.md "wikilink")是在[Visual
-Basic上唯一的資料存取管道](../Page/Visual_Basic.md "wikilink")，而OLE
-DB則是基於[COM之上](https://zh.wikipedia.org/wiki/COM "wikilink")，供C/C++存取與提供資料的介面，ODBC則是統一化的資料存取API。
+**Microsoft Data Access Components**（**MDAC**）是微軟專門為[資料存取](../Page/資料存取.md "wikilink")功能而發展的應用程式開發介面，做為微軟的統一化資料存取（Universal Data Access; UDA）解決方案的核心組成，最初的版本在1996年8月發表。目前其組成元件有[ODBC](../Page/ODBC.md "wikilink")，[OLE DB以及](../Page/OLE_DB.md "wikilink")[ADO](../Page/ADO.md "wikilink")，其中[ADO](../Page/ADO.md "wikilink")是在[Visual Basic上唯一的資料存取管道](../Page/Visual_Basic.md "wikilink")，而OLE DB則是基於[COM之上](https://zh.wikipedia.org/wiki/COM "wikilink")，供C/C++存取與提供資料的介面，ODBC則是統一化的資料存取API。
 
 ## 体系架构
 
 MDAC体系架构可视作三层：
 
 1.  编程界面层：包括[ADO](../Page/ADO.md "wikilink")与[ADO.NET](../Page/ADO.NET.md "wikilink")
-2.  数据库访问层，由数据库制造商开发，如：Oracle或Microsoft的OLE DB、.NET managed
-    providers、ODBC drivers
+2.  数据库访问层，由数据库制造商开发，如：Oracle或Microsoft的OLE DB、.NET managed providers、ODBC drivers
 3.  数据库自身。
 
 开发者还能直接写程序访问OLE DB或ODBC。
@@ -23,19 +16,11 @@ MDAC中包含了下列的元件：
 
 ### SQL Server用戶端網路函式庫
 
-SQL Server Network Client Library（在SQL Server 2005時由SQL Native
-Client取代）是要連接SQL Server所必要的用戶端函式庫，提供必要的資料流轉譯的支援，並作為OLE DB
-Provider for SQL Server, ODBC SQL Server Driver, SQL Server .NET
-Provider等資料提供者的底層通訊函式庫。
+SQL Server Network Client Library（在SQL Server 2005時由SQL Native Client取代）是要連接SQL Server所必要的用戶端函式庫，提供必要的資料流轉譯的支援，並作為OLE DB Provider for SQL Server, ODBC SQL Server Driver, SQL Server .NET Provider等資料提供者的底層通訊函式庫。
 
 ### ADO
 
-為以[COM為基礎所開發的資料存取元件](https://zh.wikipedia.org/wiki/COM "wikilink")，供高階程式語言使用，像是[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")（Scripting
-Language）或是[Visual
-Basic](../Page/Visual_Basic.md "wikilink")，目前已被[Microsoft
-Windows平台上的開發人員廣為採用](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，它向上提供數個物件類別供應用程式呼叫，向下則是呼叫OLE
-DB所提供的介面，因此資料庫必須要有OLE DB Provider，才可以由ADO呼叫，這個機制在[.NET
-Framework中的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[ADO.NET](../Page/ADO.NET.md "wikilink")中也持續採用。
+為以[COM為基礎所開發的資料存取元件](https://zh.wikipedia.org/wiki/COM "wikilink")，供高階程式語言使用，像是[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")（Scripting Language）或是[Visual Basic](../Page/Visual_Basic.md "wikilink")，目前已被[Microsoft Windows平台上的開發人員廣為採用](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，它向上提供數個物件類別供應用程式呼叫，向下則是呼叫OLE DB所提供的介面，因此資料庫必須要有OLE DB Provider，才可以由ADO呼叫，這個機制在[.NET Framework中的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[ADO.NET](../Page/ADO.NET.md "wikilink")中也持續採用。
 
 ### OLE DB
 
@@ -43,32 +28,25 @@ OLE DB是作為由資料來源中撈取資料並接受來自ADO的指令來提�
 
 ### ODBC
 
-ODBC（Open Database Connectivity）是由SQL Access Group，X/Open（目前為The Open
-Group的一部份）以及ISO/EIC所提出的Call Level
-Interface（CLI，呼叫層次介面）介面規格\[1\]，由微軟開發出第一份ODBC的實作，每一個資料庫都可以實作出連結自家資料來源的ODBC驅動程式（Driver），而應用程式開發人員能夠利用ODBC所開放的API呼叫，經由ODBC
-Driver來進入資料庫進行存取以及處理工作。
+ODBC（Open Database Connectivity）是由SQL Access Group，X/Open（目前為The Open Group的一部份）以及ISO/EIC所提出的Call Level Interface（CLI，呼叫層次介面）介面規格\[1\]，由微軟開發出第一份ODBC的實作，每一個資料庫都可以實作出連結自家資料來源的ODBC驅動程式（Driver），而應用程式開發人員能夠利用ODBC所開放的API呼叫，經由ODBC Driver來進入資料庫進行存取以及處理工作。
 
 ### Jet資料庫工具
 
 微軟特別為Microsoft Jet的資料庫提供了兩個重要的元件：
 
-  - **ADOX**：可由開發人員經由封裝在ADOX中的DDL和DCL能力來對[Microsoft
-    Access資料庫執行資料庫物件的修改以及權限上的控制](../Page/Microsoft_Access.md "wikilink")。
+  - **ADOX**：可由開發人員經由封裝在ADOX中的DDL和DCL能力來對[Microsoft Access資料庫執行資料庫物件的修改以及權限上的控制](../Page/Microsoft_Access.md "wikilink")。
   - **JRO**：可由開發人員經由封裝在JRO中的物件，對Microsoft Access資料庫執行複製，修補與壓縮等工作。
 
 ### 曾內含在MDAC中的元件
 
-  - **Embedded SQL/C（ESQL/C）**：在C語言中內嵌SQL，送到資料庫中執行，ESQL/C在SQL Server
-    7.0起終止。
+  - **Embedded SQL/C（ESQL/C）**：在C語言中內嵌SQL，送到資料庫中執行，ESQL/C在SQL Server 7.0起終止。
   - **RDO（Remote Data Object）**：為提供網路資料存取所開發的元件，當時ADO尚未成熟，目前已由ADO取代。
-  - **DAO（Data Access Object）**：為早期Microsoft
-    Access的官方API，但目前已由ADO取代，其DDL功能也由ADOX所取代。
+  - **DAO（Data Access Object）**：為早期Microsoft Access的官方API，但目前已由ADO取代，其DDL功能也由ADOX所取代。
   - **DB-Library**：為C語言直接存取SQL Server的專屬低階介面，在SQL Server 2005起終止支援。
 
 ## 版本列表
 
-微軟提供了兩個方法來檢查電腦中所安裝的MDAC版本為何，其中一個方法是使用ADO.NET [Component
-Checker](https://web.archive.org/web/20050923094302/http://download.microsoft.com/download/8/4/7/8479c13c-aacd-4b79-bc1b-d64c683191a7/cc_pkg.exe)程式，它可以檢查每個MDAC所安裝的DLL版本；另一個方法是檢查登錄資料庫機碼：`HKEY_LOCAL_MACHINE\Software\Microsoft\DataAccess\FullInstallVer`
+微軟提供了兩個方法來檢查電腦中所安裝的MDAC版本為何，其中一個方法是使用ADO.NET [Component Checker](https://web.archive.org/web/20050923094302/http://download.microsoft.com/download/8/4/7/8479c13c-aacd-4b79-bc1b-d64c683191a7/cc_pkg.exe)程式，它可以檢查每個MDAC所安裝的DLL版本；另一個方法是檢查登錄資料庫機碼：`HKEY_LOCAL_MACHINE\Software\Microsoft\DataAccess\FullInstallVer`
 
 <table style="width:85%;">
 <colgroup>
@@ -441,11 +419,6 @@ Checker](https://web.archive.org/web/20050923094302/http://download.microsoft.co
 
 ## 參考資料
 
-[Category:資料庫](https://zh.wikipedia.org/wiki/Category:資料庫 "wikilink")
-[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
-[Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink")
+[Category:資料庫](https://zh.wikipedia.org/wiki/Category:資料庫 "wikilink") [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink")
 
-1.  [Chapter 11
-    Changes](http://staff.develop.com/bobb/sql2005book/changes11.htm) ,
-    supplementary material to "A First Look at SQL Server 2005 for
-    Developers" by Bob Beauchemin, Niels Berglund, and Dan Sullivan.
+1.  [Chapter 11 Changes](http://staff.develop.com/bobb/sql2005book/changes11.htm) , supplementary material to "A First Look at SQL Server 2005 for Developers" by Bob Beauchemin, Niels Berglund, and Dan Sullivan.

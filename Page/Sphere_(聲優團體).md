@@ -1,5 +1,4 @@
-**sphere**（）是[Music
-Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[GloryHeaven](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")（[Lantis](../Page/Lantis.md "wikilink")）。
+**sphere**（）是[Music Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[GloryHeaven](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")（[Lantis](../Page/Lantis.md "wikilink")）。
 
 ## 成员
 
@@ -67,20 +66,15 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 <!-- end list -->
 
   - 2月15日 - 在《Music Ray'n girls 春的巧克力節》正式發表結成宣言。
-  - 3月4日 - 第一個冠上團體名義（）的廣播節目《Pl@net
-    Sphere》，在[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")（）正式放送。
-  - 4月22日 - 生涯首張單曲《[Future
-    Stream](../Page/Future_Stream.md "wikilink")》發行，正式宣告出道。
+  - 3月4日 - 第一個冠上團體名義（）的廣播節目《Pl@net Sphere》，在[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")（）正式放送。
+  - 4月22日 - 生涯首張單曲《[Future Stream](../Page/Future_Stream.md "wikilink")》發行，正式宣告出道。
   - 5月17日 - 生涯第一場live演唱會《sphere 1st Stream 〜sphere與動畫的音樂會〜》正式舉辦。
-  - 7月29日 - 單曲《[Super Noisy
-    Nova](../Page/Super_Noisy_Nova.md "wikilink")》發售。
+  - 7月29日 - 單曲《[Super Noisy Nova](../Page/Super_Noisy_Nova.md "wikilink")》發售。
   - 8月30日 - live演唱會《Shake X Sphere 〜夏之夜的夢〜》正式舉辦。
   - 9月27日 - 參加在[富士急高原樂園](../Page/富士急高原樂園.md "wikilink")舉行的夏日祭。
   - 10月13日 - 手機版官方網站《》正式開張。
-  - 11月25日 - 單曲《[收集群風/Brave my
-    heart](https://zh.wikipedia.org/wiki/收集群風/Brave_my_heart "wikilink")》發售。
-  - 12月23日 -
-    專輯《[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")》發售。
+  - 11月25日 - 單曲《[收集群風/Brave my heart](https://zh.wikipedia.org/wiki/收集群風/Brave_my_heart "wikilink")》發售。
+  - 12月23日 - 專輯《[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")》發售。
 
 <!-- end list -->
 
@@ -89,15 +83,10 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 <!-- end list -->
 
   - 1月10日 - live演唱會《shere Colorful Concert》開催。同月31日追加公演。
-  - 4月18日〜6月20日 - sphere第一次的live巡迴演唱會《〜Sphere's rings live tour
-    2010〜》正式舉行。
-  - 4月21日 -
-    單曲《[REALOVE:REALIFE](../Page/REALOVE:REALIFE.md "wikilink")》發售。
-  - 7月28日 - 單曲《[Now
-    loading...SKY\!\!](../Page/Now_loading...SKY!!.md "wikilink")》發售。
-  - 8月28日 - 參加[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的《[Animelo
-    Summer Live 2010
-    -evolution-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2010年 "wikilink")》。
+  - 4月18日〜6月20日 - sphere第一次的live巡迴演唱會《〜Sphere's rings live tour 2010〜》正式舉行。
+  - 4月21日 - 單曲《[REALOVE:REALIFE](../Page/REALOVE:REALIFE.md "wikilink")》發售。
+  - 7月28日 - 單曲《[Now loading...SKY\!\!](../Page/Now_loading...SKY!!.md "wikilink")》發售。
+  - 8月28日 - 參加[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的《[Animelo Summer Live 2010 -evolution-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2010年 "wikilink")》。
   - 10月20日 - 單曲《Moon Signal》發售。
   - 11月23日 - live演唱會《sphere LIVE 2010「sphere ON LOVE,ON 日本武道館」》正式舉辦。
 
@@ -107,15 +96,10 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 
 <!-- end list -->
 
-  - 1月1日 - 演唱會BD《〜Sphere's rings live tour 2010〜 FINAL LIVE BD plus
-    sphere in 3D》和DVD《〜Sphere's rings live tour 2010〜 FINAL LIVE
-    DVD》同時發售。
-  - 1月3日 - 廣播節目《sphere 4
-    spring》在電台開始播放，當天的[朝日早報新聞報紙也刊登全頁廣告作宣傳](../Page/朝日新聞.md "wikilink")。
-  - 3月16日 - 第二張專輯《[Spring is
-    here](../Page/Spring_is_here.md "wikilink")》發行。
-  - 4月17日 - live演唱會《Spring Party is
-    HERE\!》在[幕張展覽館](../Page/幕張展覽館.md "wikilink")（）正式舉辦。
+  - 1月1日 - 演唱會BD《〜Sphere's rings live tour 2010〜 FINAL LIVE BD plus sphere in 3D》和DVD《〜Sphere's rings live tour 2010〜 FINAL LIVE DVD》同時發售。
+  - 1月3日 - 廣播節目《sphere 4 spring》在電台開始播放，當天的[朝日早報新聞報紙也刊登全頁廣告作宣傳](../Page/朝日新聞.md "wikilink")。
+  - 3月16日 - 第二張專輯《[Spring is here](../Page/Spring_is_here.md "wikilink")》發行。
+  - 4月17日 - live演唱會《Spring Party is HERE\!》在[幕張展覽館](../Page/幕張展覽館.md "wikilink")（）正式舉辦。
   - 5月11日 - 單曲《Hazy》發售。
   - 7月16日 - 生涯第一個冠上團體名義（）的電視節目《Sphere Club》首播。
   - 7月27日 - 單曲《[LET·ME·DO\!\!](../Page/LET·ME·DO!!.md "wikilink")》發售。
@@ -128,15 +112,12 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 
 <!-- end list -->
 
-  - 3月14日 - 演唱會BD\&DVD 《sphere live 2011 Athletic Harmonies Dangerous
-    Stage》及《sphere live 2011 Athletic Harmonies Climax Stage》發售。
-  - 3月19日 - 手機版官方網站《Music
-    Ray'n☆モバイル》支援以[智能手機瀏覽](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
+  - 3月14日 - 演唱會BD\&DVD 《sphere live 2011 Athletic Harmonies Dangerous Stage》及《sphere live 2011 Athletic Harmonies Climax Stage》發售。
+  - 3月19日 - 手機版官方網站《Music Ray'n☆モバイル》支援以[智能手機瀏覽](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
   - 4月15日 - 巡迴演唱會『Sphere's orbit live tour 2012』於名古屋開展。
   - 4月25日 - 單曲《Non stop road/明日への帰り》發售。
   - 7月11日 - 第三張專輯《Third Planet》發行。
-  - 11月7日 - 單曲《[Pride on
-    everyday](https://zh.wikipedia.org/wiki/Pride_on_everyday "wikilink")》發售。
+  - 11月7日 - 單曲《[Pride on everyday](https://zh.wikipedia.org/wiki/Pride_on_everyday "wikilink")》發售。
   - 11月11日 - 出演Anime Festival Asia Singapore 2012。
 
 <!-- end list -->
@@ -147,11 +128,9 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 
   - 3月27日 - 演唱會BD《Sphere's orbit live tour 2012 FINAL SPECIAL STAGE》發售。
   - 5月1日 - 單曲《[GENESIS ARIA](../Page/GENESIS_ARIA.md "wikilink")》發售。
-  - 8月25日 - 出演《[Animelo Summer Live 2013 -FLAG
-    NINE-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2013_-FLAG_NINE- "wikilink")》。
+  - 8月25日 - 出演《[Animelo Summer Live 2013 -FLAG NINE-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2013_-FLAG_NINE- "wikilink")》。
   - 9月15-16日 - live演唱會《sphere live 2013「SPLASH MESSAGE\!」》正式舉辦。
-  - 11月27日 - 單曲《[Sticking
-    Places](../Page/Sticking_Places.md "wikilink")》發售。
+  - 11月27日 - 單曲《[Sticking Places](../Page/Sticking_Places.md "wikilink")》發售。
 
 <!-- end list -->
 
@@ -159,16 +138,13 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 
 <!-- end list -->
 
-  - 2月15日 - 結成5周年記念當中之《》會員專屬活動「『Radio Pl@net Sphere』公開錄音2014
-    ～5周年巧克力節～」（）舉行。
-  - 2月26日 - 第14張單曲《[Eternal
-    Tours](https://zh.wikipedia.org/wiki/Eternal_Tours "wikilink")》發售。為sphere5周年紀念而灌錄的非商業搭配單曲。
+  - 2月15日 - 結成5周年記念當中之《》會員專屬活動「『Radio Pl@net Sphere』公開錄音2014 ～5周年巧克力節～」（）舉行。
+  - 2月26日 - 第14張單曲《[Eternal Tours](https://zh.wikipedia.org/wiki/Eternal_Tours "wikilink")》發售。為sphere5周年紀念而灌錄的非商業搭配單曲。
   - 5月14日 - 第15張單曲《微かな密かな確かなミライ》發售。
   - 7月13日〜11月16日 - 巡迴演唱會『〜Sphere's eternal live tour 2014〜』於埼玉開展。
   - 8月7日 - 寫真集《PlaniSphere》（）發售。
   - 8月20日 - 全部歌曲之高音質版本於數碼媒體網絡商店mora開始發售。
-  - 12月12日 - sphere5周年記念動畫《夏色奇蹟》（）精選專輯『夏色奇蹟 Complete Songs
-    ～那夏天的碎片～』（）於[羅森限量發行](../Page/羅森_\(便利店\).md "wikilink")。
+  - 12月12日 - sphere5周年記念動畫《夏色奇蹟》（）精選專輯『夏色奇蹟 Complete Songs ～那夏天的碎片～』（）於[羅森限量發行](../Page/羅森_\(便利店\).md "wikilink")。
 
 <!-- end list -->
 
@@ -177,8 +153,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 <!-- end list -->
 
   - 1月19日 - 手機版官方網站《Music Ray'n☆モバイル》更改名稱為《sphere》。
-  - 2月11日 - 首張精選專輯《sphere 5周年fan select best
-    album》（）發行，收錄歌曲由愛好者投票決定，並附送原裝綜藝節目DVD。第16張單曲《[情熱CONTINUE](https://zh.wikipedia.org/wiki/情熱CONTINUE "wikilink")》同步發售。
+  - 2月11日 - 首張精選專輯《sphere 5周年fan select best album》（）發行，收錄歌曲由愛好者投票決定，並附送原裝綜藝節目DVD。第16張單曲《[情熱CONTINUE](https://zh.wikipedia.org/wiki/情熱CONTINUE "wikilink")》同步發售。
 
 <!-- end list -->
 
@@ -612,10 +587,7 @@ LASM-34178/79（Type B）</p></td>
 ### 廣播
 
   - Pl@net Sphere（Lantis web radio：2009年3月4日 - ）
-  - Sphere與我們（[文化放送](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")・[超\!A\&G+](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")『[A\&G
-    超RADIO
-    SHOW〜Anisupa\!〜](https://zh.wikipedia.org/wiki/A&G_超RADIO_SHOW〜Anisupa!〜 "wikilink")』内：2009年5月23日
-    - 7月18日）
+  - Sphere與我們（[文化放送](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")・[超\!A\&G+](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")『[A\&G 超RADIO SHOW〜Anisupa\!〜](https://zh.wikipedia.org/wiki/A&G_超RADIO_SHOW〜Anisupa!〜 "wikilink")』内：2009年5月23日 - 7月18日）
   - 劍與魔法與學園2 Presents Sphere和鷲崎和60分（超\!A\&G+：2009年6月27日（單發））
   - sphere的Say\!You Young（超\!A\&G+：2010年4月12日（單發））
   - Sphere的通宵日本R（日本放送：2010年6月18日（單發）、2011年4月16日（定期） - ）
@@ -735,24 +707,15 @@ LASM-34178/79（Type B）</p></td>
 
   - [Sphere官方网站 Pl@net sphere](http://www.planet-sphere.jp/)
 
-[Category:Sphere](https://zh.wikipedia.org/wiki/Category:Sphere "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
-[Category:高垣彩陽](https://zh.wikipedia.org/wiki/Category:高垣彩陽 "wikilink")
-[Category:寿美菜子](https://zh.wikipedia.org/wiki/Category:寿美菜子 "wikilink")
-[Category:豐崎愛生](https://zh.wikipedia.org/wiki/Category:豐崎愛生 "wikilink")
-[Category:戶松遙](https://zh.wikipedia.org/wiki/Category:戶松遙 "wikilink")
+[Category:Sphere](https://zh.wikipedia.org/wiki/Category:Sphere "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink") [Category:高垣彩陽](https://zh.wikipedia.org/wiki/Category:高垣彩陽 "wikilink") [Category:寿美菜子](https://zh.wikipedia.org/wiki/Category:寿美菜子 "wikilink") [Category:豐崎愛生](https://zh.wikipedia.org/wiki/Category:豐崎愛生 "wikilink") [Category:戶松遙](https://zh.wikipedia.org/wiki/Category:戶松遙 "wikilink")
 
 1.
 2.
 3.  關西電台節目《》第22集
 
-4.  『ミュージックレインgirls
-    春のチョコまつり』での発言及び、『[鷲崎健の超ラジ\!](https://zh.wikipedia.org/wiki/鷲崎健の超ラジ! "wikilink")』第111回放送より。
+4.  『ミュージックレインgirls 春のチョコまつり』での発言及び、『[鷲崎健の超ラジ\!](https://zh.wikipedia.org/wiki/鷲崎健の超ラジ! "wikilink")』第111回放送より。
 
-5.  各成員在網路電台節目「Pl@net
-    Sphere」第19回時談到舉辦活動時參與者使用的[螢光棒](../Page/螢光棒.md "wikilink")的顏色，同時決定自己和團體的代表顏色。此後，於2009年8月30日舉行的活動『Shake
-    X Sphere（シェイクスフィア）〜夏の夜の夢〜』中，開始使用這些代表顏色。
+5.  各成員在網路電台節目「Pl@net Sphere」第19回時談到舉辦活動時參與者使用的[螢光棒](../Page/螢光棒.md "wikilink")的顏色，同時決定自己和團體的代表顏色。此後，於2009年8月30日舉行的活動『Shake X Sphere（シェイクスフィア）〜夏の夜の夢〜』中，開始使用這些代表顏色。
 
 6.
 

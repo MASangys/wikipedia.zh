@@ -4,8 +4,7 @@
 
 \(2H^++3CH_2(COOH)_2+2BrO_3^- \rightarrow 2BrCH(COOH)_2+3CO_2+4H_2O\,\)
 
-[BZ_voltage_plot.png](https://zh.wikipedia.org/wiki/File:BZ_voltage_plot.png "fig:BZ_voltage_plot.png")
-[BZGraphScheme.png](https://zh.wikipedia.org/wiki/File:BZGraphScheme.png "fig:BZGraphScheme.png")
+[BZ_voltage_plot.png](https://zh.wikipedia.org/wiki/File:BZ_voltage_plot.png "fig:BZ_voltage_plot.png") [BZGraphScheme.png](https://zh.wikipedia.org/wiki/File:BZGraphScheme.png "fig:BZGraphScheme.png")
 
 ## 历史
 
@@ -19,8 +18,7 @@
 
 ## 原理
 
-[The_Belousov-Zhabotinsky_Reaction.gif](https://zh.wikipedia.org/wiki/File:The_Belousov-Zhabotinsky_Reaction.gif "fig:The_Belousov-Zhabotinsky_Reaction.gif")
-对B-Z反应机理的解释有很多种。在一个版本中，总反应包含两个过程A和B，A过程是双[电子转移的离子反应](https://zh.wikipedia.org/wiki/电子转移 "wikilink")，B过程涉及[自由基](../Page/自由基.md "wikilink")和[单电子转移](https://zh.wikipedia.org/wiki/单电子转移 "wikilink")。\(Br^-\,\)浓度超过临界浓度时主要发生A过程，低于临界浓度时主要发生B过程。溴离子是这里的控制物种：A过程中消耗溴离子生成溴单质，使溴离子浓度降低，低于临界浓度时主要发生B过程。B过程中溴酸根离子氧化金属离子，也生成溴单质。而后（亦有人称此为C过程）溴单质和高价金属离子氧化有机底物，得到还原态金属离子和溴离子，使溴离子浓度升高，再次发生A过程。因此体系在A、B、（C）过程之间反复振荡。封闭系统内这样的振荡可持续上千次，反应过程中不需补充反应物，因此这类反应为[化学波的研究提供了很大方便](https://zh.wikipedia.org/wiki/化学波 "wikilink")。\[4\]\[5\]\[6\]\[7\]
+[The_Belousov-Zhabotinsky_Reaction.gif](https://zh.wikipedia.org/wiki/File:The_Belousov-Zhabotinsky_Reaction.gif "fig:The_Belousov-Zhabotinsky_Reaction.gif") 对B-Z反应机理的解释有很多种。在一个版本中，总反应包含两个过程A和B，A过程是双[电子转移的离子反应](https://zh.wikipedia.org/wiki/电子转移 "wikilink")，B过程涉及[自由基](../Page/自由基.md "wikilink")和[单电子转移](https://zh.wikipedia.org/wiki/单电子转移 "wikilink")。\(Br^-\,\)浓度超过临界浓度时主要发生A过程，低于临界浓度时主要发生B过程。溴离子是这里的控制物种：A过程中消耗溴离子生成溴单质，使溴离子浓度降低，低于临界浓度时主要发生B过程。B过程中溴酸根离子氧化金属离子，也生成溴单质。而后（亦有人称此为C过程）溴单质和高价金属离子氧化有机底物，得到还原态金属离子和溴离子，使溴离子浓度升高，再次发生A过程。因此体系在A、B、（C）过程之间反复振荡。封闭系统内这样的振荡可持续上千次，反应过程中不需补充反应物，因此这类反应为[化学波的研究提供了很大方便](https://zh.wikipedia.org/wiki/化学波 "wikilink")。\[4\]\[5\]\[6\]\[7\]
 
 A过程的总反应：\(BrO_3^-+5Br^-+6H^+ \rightarrow 3Br_2+3H_2O\,\)
 
@@ -52,8 +50,7 @@ Ce<sup>4+</sup>与Br<sub>2</sub>氧化丙二酸，例如：
 
 ## 俄勒冈振子
 
-[Oregonator_Maple_plot.png](https://zh.wikipedia.org/wiki/File:Oregonator_Maple_plot.png "fig:Oregonator_Maple_plot.png")
-R.M.Noyes和R.J.Fields在1974年提出一个五步的简化机理，称为[俄勒冈振子](../Page/俄勒冈振子方程.md "wikilink")(Oregonator)，是由[俄勒冈大学](https://zh.wikipedia.org/wiki/俄勒冈大学 "wikilink")（Oregon）与振荡器（Oscillator）形成的组合词。该机理表示如下。
+[Oregonator_Maple_plot.png](https://zh.wikipedia.org/wiki/File:Oregonator_Maple_plot.png "fig:Oregonator_Maple_plot.png") R.M.Noyes和R.J.Fields在1974年提出一个五步的简化机理，称为[俄勒冈振子](../Page/俄勒冈振子方程.md "wikilink")(Oregonator)，是由[俄勒冈大学](https://zh.wikipedia.org/wiki/俄勒冈大学 "wikilink")（Oregon）与振荡器（Oscillator）形成的组合词。该机理表示如下。
 
   - \(BrO_3^- + Br^- + 2H^+ \rightarrow HBrO_2 + HOBr\,\)
   - \(HBrO_2 + Br^- + H^+ \rightarrow 2HOBr\,\)
@@ -81,35 +78,19 @@ B-Z反应通常加入[邻二氮菲亚铁离子](https://zh.wikipedia.org/wiki/�
 
 </div>
 
-  - Pabian and Zarins, "Banded Agates; Origins and inclusions",
-    University of Nebraska-Lincoln, Educational circular \#12.
+  - Pabian and Zarins, "Banded Agates; Origins and inclusions", University of Nebraska-Lincoln, Educational circular \#12.
 
 ## 外部链接
 
   - 一些关于B-Z反应的英文网站：[1](http://www.scholarpedia.org/article/Belousov-Zhabotinsky_reaction)、[2](https://wayback.archive-it.org/all/20080119231534/http://staff.science.nus.edu.sg/~parwani/c1/node65.html)、[3](https://web.archive.org/web/20121231011212/http://online.redwoods.cc.ca.us/instruct/darnold/deproj/Sp98/Gabe/)、[4](https://web.archive.org/web/20050213233704/http://ed.augie.edu/~awaspaas/inorg/bz.pdf)、[反应机理](http://www.edu365.cat/aulanet/comsoc/treballsrecerca/treballs_03_04/treb_publicats/Oscillating%20reactions/bz_exp.pdf)，图片：[5](http://www.chem.leeds.ac.uk/chaos/pic_gal.html)，视频：[6](http://youtube.com/watch?v=g3JbDybzYqk&feature=related)
   - B-Z振荡反应实验：[7](http://swuhx.cqdowell.com/files.video/video/20080517174328-B-Z振荡反应.pdf)、[8](https://web.archive.org/web/20111020145105/http://public.whut.edu.cn/wlhxyd/index/main.files/xiti/syyx/exp18.html)、[9](http://211.64.32.2/dzxyhxx/xsys/wuhua/wuji.files/jiaoan/15.doc)
 
-[Category:化学反应](https://zh.wikipedia.org/wiki/Category:化学反应 "wikilink")
-[Category:化学动力学](https://zh.wikipedia.org/wiki/Category:化学动力学 "wikilink")
-[Category:非平衡态热力學](https://zh.wikipedia.org/wiki/Category:非平衡态热力學 "wikilink")
+[Category:化学反应](https://zh.wikipedia.org/wiki/Category:化学反应 "wikilink") [Category:化学动力学](https://zh.wikipedia.org/wiki/Category:化学动力学 "wikilink") [Category:非平衡态热力學](https://zh.wikipedia.org/wiki/Category:非平衡态热力學 "wikilink")
 
-1.  Belousov B. P., *A periodic reaction and its mechanism*, in
-    *Collection of short papers on radiation medicine for 1958*, Med.
-    Publ., Moscow, 1959.
-2.  Belousov B. P., *A periodic reaction and its mechanism*, in Field,
-    R. J. and Burger, M., Eds, *Oscillations and traveling waves in
-    chemical systems*. Wiley, New York, 1985.
-3.  A. M. Zhabotinsky. Периодический процесс окисления малоновой кислоты
-    растворе (исследование кинетики реакции Белоусова). \[Periodic
-    processes of malonic acid oxidation in a liquid phase.\] Биофизика
-    \[Biofizika\], 9:306–311, 1964.
-4.  Field, R. J. and Burger, M., Eds, *Oscillations and traveling waves
-    in chemical systems*. Wiley, New York, 1985.
-5.  Epstein, I. R. and Showalter, K., *Nonlinear chemical dynamics:
-    Oscillations, patterns, and chaos*, J. Phys. Chem. **100**, 13132-47
-    (1996).
-6.  Epstein, I. R. and Pojman, J. A., *An introduction to nonlinear
-    chemical dynamics: oscillations, waves, patterns, and chaos*. Oxford
-    University Press, New York, 1998.
-7.  Taylor, A. F., *Mechanism and phenomenology of an oscillating
-    chemical reaction*, Progr. React. Kinet. Mech. 27, 247-325 (2002).
+1.  Belousov B. P., *A periodic reaction and its mechanism*, in *Collection of short papers on radiation medicine for 1958*, Med. Publ., Moscow, 1959.
+2.  Belousov B. P., *A periodic reaction and its mechanism*, in Field, R. J. and Burger, M., Eds, *Oscillations and traveling waves in chemical systems*. Wiley, New York, 1985.
+3.  A. M. Zhabotinsky. Периодический процесс окисления малоновой кислоты растворе (исследование кинетики реакции Белоусова). \[Periodic processes of malonic acid oxidation in a liquid phase.\] Биофизика \[Biofizika\], 9:306–311, 1964.
+4.  Field, R. J. and Burger, M., Eds, *Oscillations and traveling waves in chemical systems*. Wiley, New York, 1985.
+5.  Epstein, I. R. and Showalter, K., *Nonlinear chemical dynamics: Oscillations, patterns, and chaos*, J. Phys. Chem. **100**, 13132-47 (1996).
+6.  Epstein, I. R. and Pojman, J. A., *An introduction to nonlinear chemical dynamics: oscillations, waves, patterns, and chaos*. Oxford University Press, New York, 1998.
+7.  Taylor, A. F., *Mechanism and phenomenology of an oscillating chemical reaction*, Progr. React. Kinet. Mech. 27, 247-325 (2002).

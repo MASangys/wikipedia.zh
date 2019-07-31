@@ -1,18 +1,12 @@
-《**ONE
-OUTS**》是[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")的[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，正式標題是《**ONE
-OUTS Nobody wins, but
-I\!**》，[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")19卷，在[集英社](../Page/集英社.md "wikilink")的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")《[Business
-Jump](../Page/Business_Jump.md "wikilink")》上連載（從1998年24號至2006年18號）。[電視動畫從](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2008年10月起開始播放。
+《**ONE OUTS**》是[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")的[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，正式標題是《**ONE OUTS Nobody wins, but I\!**》，[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")19卷，在[集英社](../Page/集英社.md "wikilink")的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")《[Business Jump](../Page/Business_Jump.md "wikilink")》上連載（從1998年24號至2006年18號）。[電視動畫從](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2008年10月起開始播放。
 
-伴随動畫版的播出，在2008年10月1日發售的《Business Jump》上開始短期集中連載《ONE OUTS
-疑惑的全明星賽篇》，其後作爲漫畫第20卷來發行。
+伴随動畫版的播出，在2008年10月1日發售的《Business Jump》上開始短期集中連載《ONE OUTS 疑惑的全明星賽篇》，其後作爲漫畫第20卷來發行。
 
 《**ONE OUTS**》台灣已經在2010年1月開始發行DVD，名字叫《**鬼影-{}-投手ONE OUTS**》。
 
 ## 劇情簡介
 
-1998年12月，日本[職業棒球隊](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")「埼京彩珠Lycaons」（埼京彩珠豺狼隊）的王牌打者兒島弘道與隊上學弟中根及木野崎到[沖繩縣](../Page/沖繩縣.md "wikilink")行自主訓練。而在某一天，中根和木野崎在尋找隊上新投手人才的時候，遇見了一場名為“One
-Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
+1998年12月，日本[職業棒球隊](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")「埼京彩珠Lycaons」（埼京彩珠豺狼隊）的王牌打者兒島弘道與隊上學弟中根及木野崎到[沖繩縣](../Page/沖繩縣.md "wikilink")行自主訓練。而在某一天，中根和木野崎在尋找隊上新投手人才的時候，遇見了一場名為“One Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
 
 本作比起棒球漫畫，更像是鬥智漫畫，如同棒球版的[鬥牌傳說](../Page/鬥牌傳說.md "wikilink")。並不注重一般團體運動作品中重視的友情、努力、團隊合作；而是強調計謀、[技術犯規](https://zh.wikipedia.org/wiki/技術犯規 "wikilink")、[心理戰](https://zh.wikipedia.org/wiki/心理戰 "wikilink")、竊聽暗號以及球隊合約等。運用了其他作品中幾乎不會用到的、相當細部的棒球規則來做為比賽與故事的核心，有著許多其他棒球題材作品中完全沒有的要素。
 
@@ -32,16 +26,12 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
   -
     本作的主角，投手，右投右打，背號77號。年齡目測約20歲左右。
     一頭金髮，受到兒島的邀請而加入不受看好的Lycaons。雖然球速平均時速只有約130KM，也只會投直球不會投變化球。這樣的能力乍看之下無法在職業棒球中生存下去，但是天賦異秉的東亞卻能在出手瞬間，利用手指控制球出手的轉速，任意投出高轉速或低旋轉球，使打者以為球路單調好打，揮棒時卻感覺球從棒子旁跑掉一樣。另外其控球能力相當精準且穩定。他最強的武器是能看穿人心並使其動搖，讓場面轉為對自己有利的局面。
-    在沖繩的「One
-    Out」遊戲中達成499連勝，但第500場認定敗給兒島，遵守承諾加入Lycaons，幫助其獲得總冠軍。與Lycaons老板訂下「One
-    Outs」契約：當他站上[投手丘](../Page/投手丘.md "wikilink")的時候，每讓一名打者出局，Lycaons老板就必需支付他500萬日元的薪水；相反的，只要在他手上失去一分，他就支付Lycaons老板5000萬日元。最終渡久地讓「彩川組」垮台。
+    在沖繩的「One Out」遊戲中達成499連勝，但第500場認定敗給兒島，遵守承諾加入Lycaons，幫助其獲得總冠軍。與Lycaons老板訂下「One Outs」契約：當他站上[投手丘](../Page/投手丘.md "wikilink")的時候，每讓一名打者出局，Lycaons老板就必需支付他500萬日元的薪水；相反的，只要在他手上失去一分，他就支付Lycaons老板5000萬日元。最終渡久地讓「彩川組」垮台。
     在加入Lycaons時已經知道老板沒有心經營球隊，選擇和Tronpos合作並讓彩川破產而放棄球隊。但得知Tronpos老板三田村要只是想收購隊伍名額而非隊伍本身，決定以三倍價錢收購Lycaons成為老闆。
-    和以Ganalians老板田邊常行為首的經營者聯盟協議，以一星期為單位，期間隊伍不能出現赤字、不能被榜首球隊拋離10場以上，以及最終取得常規賽冠軍的條件下擔任老板。以售價較貴但落敗就全數金額退回觀眾的「L
-    Ticket」讓球隊門票全部售清，也讓Lycaons隊員明白真正的團隊精神，成為隊伍奪冠的一大要素。
+    和以Ganalians老板田邊常行為首的經營者聯盟協議，以一星期為單位，期間隊伍不能出現赤字、不能被榜首球隊拋離10場以上，以及最終取得常規賽冠軍的條件下擔任老板。以售價較貴但落敗就全數金額退回觀眾的「L Ticket」讓球隊門票全部售清，也讓Lycaons隊員明白真正的團隊精神，成為隊伍奪冠的一大要素。
     在明星賽寫下10個三振的新記錄。在常規賽最終面對Mariners五連戰中犧牲自己讓球隊慘敗，但同時讓Mariners所有選手的打擊姿態改變，最終為Lycaons奪下總冠軍，但在奪冠同時消聲匿跡，沒有再出現。
 
-**兒島弘道**（児島
-弘道，聲優：[磯部勉](../Page/磯部勉.md "wikilink")（日本），[陳宏瑋](../Page/陳宏瑋.md "wikilink")（台灣））
+**兒島弘道**（児島 弘道，聲優：[磯部勉](../Page/磯部勉.md "wikilink")（日本），[陳宏瑋](../Page/陳宏瑋.md "wikilink")（台灣））
 
   -
     背號9號。Lycaons當家第四棒，日本的國民英雄，被稱之為「**不走運的天才打者**」。
@@ -77,8 +67,7 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
   -
     背號22號，35歲。曾是Lycaons的希望球手，但因為受傷及賭博而失去當初的自信及實力，被下放二軍。在兒島的請求下讓渡久地將他提升至一軍。
     和倉井一、梅域加不同，並非因才能而被提升但不自知，被渡久地及兒島喝罵後醒覺自己可能再無法出場打棒球，在渡久地的暗示下，他彷效兒島故意讓球打中，為隊伍取得打點，同時為自己爭取留隊的機會。
-    在「L
-    Ticket」制度下，他因為賭博的喜悅而重新掌握擊球方法，在隊伍處於落後時一手帶戰隊反勝，同時也是最早領悟渡久地所指真正的團隊精神是「由我來帶領戰隊勝出，而不是依靠隊友」的人。最終也實現了年輕時要和兒島帶領Lycaons奪冠的宏願。
+    在「L Ticket」制度下，他因為賭博的喜悅而重新掌握擊球方法，在隊伍處於落後時一手帶戰隊反勝，同時也是最早領悟渡久地所指真正的團隊精神是「由我來帶領戰隊勝出，而不是依靠隊友」的人。最終也實現了年輕時要和兒島帶領Lycaons奪冠的宏願。
 
 **胡桃澤浩二**（胡桃沢 浩二，聲優：[高城元氣](../Page/高城元氣.md "wikilink")）
 
@@ -102,16 +91,14 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
   -
     中堅建築公司「彩珠組」（連載後期改為「彩川組」）的會長，同時也是Lycaons的董事。
     對於經營球隊毫無興趣，利用彩珠組本身逐漸惡化的契機，決定在球季後出售球隊。因為條件是今季營收的10年數值，所以放棄球隊勝利，不做任何補強動作，努力以最高價錢將球隊出售。
-    與渡久地簽訂極不平等的One
-    Outs契約。雖會用各種卑劣手段阻止渡久地取勝，然而卻是一個願賭服輸之人，在每次比賽後都會支付其應得薪金。在漫畫第14卷中被渡久地擊垮。
+    與渡久地簽訂極不平等的One Outs契約。雖會用各種卑劣手段阻止渡久地取勝，然而卻是一個願賭服輸之人，在每次比賽後都會支付其應得薪金。在漫畫第14卷中被渡久地擊垮。
 
 **秘書**（聲優：[安井邦彥](../Page/安井邦彥.md "wikilink")（日本），[陳宏瑋](../Page/陳宏瑋.md "wikilink")（台灣））
 
   -
     彩川會長隨侍秘書，隨時報告比賽過程中會長與渡久地契約中的金額變動。
 
-**及川滿夫**（及川
-満夫，聲優：[古川登志夫](../Page/古川登志夫.md "wikilink")（日本），[李景唐](../Page/李景唐.md "wikilink")（台灣））
+**及川滿夫**（及川 満夫，聲優：[古川登志夫](../Page/古川登志夫.md "wikilink")（日本），[李景唐](../Page/李景唐.md "wikilink")（台灣））
 
   -
     球團的行銷部長，看不慣彩川會長的做法，會暗中幫助渡久地。
@@ -169,8 +156,7 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
   -
     屬於謀略型的總教練，因習慣採用一三壘有人來得分的戰術，被稱為「一三壘魔術師」、「智將」。
 
-**丹尼斯‧強森**（Dennis
-Johnson，聲優：[楠大典](../Page/楠大典.md "wikilink")（日本），[林協忠](../Page/林協忠.md "wikilink")（台灣））
+**丹尼斯‧強森**（Dennis Johnson，聲優：[楠大典](../Page/楠大典.md "wikilink")（日本），[林協忠](../Page/林協忠.md "wikilink")（台灣））
 
   -
     背號99號。新洋將，城丘於美國田徑錦標賽上發現了這名頂尖的選手。由於從三壘到本壘僅**2.6**秒，號稱世界上最快的代跑跑者。城丘用來對付渡久地的秘密武器。
@@ -194,8 +180,7 @@ Johnson，聲優：[楠大典](../Page/楠大典.md "wikilink")（日本），[�
   -
     背號51號。外野手，布爾馬隊主砲，不擅應付變化球。經天堂總教練指點迷津後，成為了聯盟全壘打王。
 
-**史考特‧威廉斯**（Scott
-Williams，聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")（日本），[李景唐](../Page/李景唐.md "wikilink")（台灣））
+**史考特‧威廉斯**（Scott Williams，聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")（日本），[李景唐](../Page/李景唐.md "wikilink")（台灣））
 
   -
     背號65號。王牌救援投手，必勝球種為[蝴蝶球](../Page/蝴蝶球.md "wikilink")。卻被渡久地看穿，實際上威廉斯投的是透過注水而令重心變化的「假蝴蝶球」。
@@ -231,10 +216,7 @@ Williams，聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")（�
   - 製作人 - 中谷敏夫、田村學
   - 動畫製作人 - 三田圭志
   - 動畫製作 - [MADHOUSE](../Page/MADHOUSE.md "wikilink")
-  - 製作著作 - [ONE
-    OUTS製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、[D.N.
-    Dream
-    Partners](https://zh.wikipedia.org/wiki/D.N._Dream_Partners "wikilink")、[VAP](../Page/VAP.md "wikilink")、MADHOUSE）
+  - 製作著作 - [ONE OUTS製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、[D.N. Dream Partners](https://zh.wikipedia.org/wiki/D.N._Dream_Partners "wikilink")、[VAP](../Page/VAP.md "wikilink")、MADHOUSE）
 
 ### 主題曲
 
@@ -387,9 +369,4 @@ Williams，聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")（�
 
 ## 參考資料
 
-[Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink")
-[Category:棒球動畫](https://zh.wikipedia.org/wiki/Category:棒球動畫 "wikilink")
-[Category:2008年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2008年日本電視動畫 "wikilink")
-[Category:客家電視台節目](https://zh.wikipedia.org/wiki/Category:客家電視台節目 "wikilink")
-[Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink")
-[Category:Business_Jump](https://zh.wikipedia.org/wiki/Category:Business_Jump "wikilink")
+[Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink") [Category:棒球動畫](https://zh.wikipedia.org/wiki/Category:棒球動畫 "wikilink") [Category:2008年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2008年日本電視動畫 "wikilink") [Category:客家電視台節目](https://zh.wikipedia.org/wiki/Category:客家電視台節目 "wikilink") [Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink") [Category:Business_Jump](https://zh.wikipedia.org/wiki/Category:Business_Jump "wikilink")

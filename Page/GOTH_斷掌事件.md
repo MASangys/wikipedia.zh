@@ -1,5 +1,4 @@
-《**GOTH
-斷掌事件**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。獲得第3屆「本格MYSTERY大賞」。之後改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
+《**GOTH 斷掌事件**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。獲得第3屆「本格MYSTERY大賞」。之後改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 出版資訊
 
@@ -92,12 +91,6 @@
 ## 參考資料
 
   - [香港書城『GOTH斷掌事件』](http://www.hkbookcity.com/showbook2.php?serial_no=70001)
-  - [日本amazon『GOTH
-    リストカット事件』](http://www.amazon.co.jp/GOTH%E2%80%95%E3%83%AA%E3%82%B9%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E4%BA%8B%E4%BB%B6-%E4%B9%99%E4%B8%80/dp/4048733907/ref=sr_1_1?ie=UTF8&s=books&qid=1237411362&sr=8-1)
+  - [日本amazon『GOTH リストカット事件』](http://www.amazon.co.jp/GOTH%E2%80%95%E3%83%AA%E3%82%B9%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E4%BA%8B%E4%BB%B6-%E4%B9%99%E4%B8%80/dp/4048733907/ref=sr_1_1?ie=UTF8&s=books&qid=1237411362&sr=8-1)
 
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
-[Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink")
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:2009年電影](https://zh.wikipedia.org/wiki/Category:2009年電影 "wikilink")
+[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:2009年電影](https://zh.wikipedia.org/wiki/Category:2009年電影 "wikilink")

@@ -15,17 +15,13 @@
 
   - [Zero-K](../Page/Zero-K.md "wikilink")
 
-Zero-K是一个用1个指挥官机器人外加11种选1免费工厂/工程单位起步的大规模快节奏游戏。 大量使用收集的lua脚本，开发者同时维护
-官方Springie服务，服务端激活系统，任务创作程序和lobby软件Zero-K Lobby。
-代码多数GPL或[公共领域](../Page/公共领域.md "wikilink")，媒体内容使用CC-SA-BY协议或者CC-SA-NC-BY。
+Zero-K是一个用1个指挥官机器人外加11种选1免费工厂/工程单位起步的大规模快节奏游戏。 大量使用收集的lua脚本，开发者同时维护 官方Springie服务，服务端激活系统，任务创作程序和lobby软件Zero-K Lobby。 代码多数GPL或[公共领域](../Page/公共领域.md "wikilink")，媒体内容使用CC-SA-BY协议或者CC-SA-NC-BY。
 
-  - [Spring: 1944（S44）](https://web.archive.org/web/20081120080930/http://www.spring1944.com/)
-    二战游戏
+  - [Spring: 1944（S44）](https://web.archive.org/web/20081120080930/http://www.spring1944.com/) 二战游戏
 
 GPL代码，CC-SA-NC-BY
 
-  - [Kernel Panic（KP）](http://springrts.com/phpbb/viewforum.php?f=43)
-    计算机世界的游戏。主要部分在[公共领域](../Page/公共领域.md "wikilink")授权下发布（仅包含两张地图），多数地图未知。
+  - [Kernel Panic（KP）](http://springrts.com/phpbb/viewforum.php?f=43) 计算机世界的游戏。主要部分在[公共领域](../Page/公共领域.md "wikilink")授权下发布（仅包含两张地图），多数地图未知。
 
 <!-- end list -->
 
@@ -51,8 +47,4 @@ GPL代码，CC-SA-NC-BY
 
   - [IRC](../Page/IRC.md "wikilink") 频道: \#sy irc.quakenet.org
 
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:Linux软件](https://zh.wikipedia.org/wiki/Category:Linux软件 "wikilink")
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
+[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Linux软件](https://zh.wikipedia.org/wiki/Category:Linux软件 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")

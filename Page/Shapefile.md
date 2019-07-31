@@ -1,19 +1,14 @@
-ESRI
-Shapefile（shp），或简称shapefile，是[美国环境系统研究所公司](https://zh.wikipedia.org/wiki/美国环境系统研究所公司 "wikilink")（ESRI）开发的空间数据开放格式。\[1\]目前，该文件格式已经成为了地理信息软件界的开放标准，这表明ESRI公司在全球的地理信息系统市场的重要性。Shapefile也是重要的交换格式，能够在ESRI与其他公司的产品之间进行数据互操作。
+ESRI Shapefile（shp），或简称shapefile，是[美国环境系统研究所公司](https://zh.wikipedia.org/wiki/美国环境系统研究所公司 "wikilink")（ESRI）开发的空间数据开放格式。\[1\]目前，该文件格式已经成为了地理信息软件界的开放标准，这表明ESRI公司在全球的地理信息系统市场的重要性。Shapefile也是重要的交换格式，能够在ESRI与其他公司的产品之间进行数据互操作。
 
-Shapefile文件用于描述几何体对象：[点](../Page/点.md "wikilink")、折线与[多边形](../Page/多边形.md "wikilink")。例如，Shapefile文件可以存储[井](https://zh.wikipedia.org/wiki/井 "wikilink")、河流、[湖泊等空间对象的几何位置](../Page/湖泊.md "wikilink")。除了几何位置，shp文件也可以存储这些空间对象的属性，例如河流的名字、城市的温度等等。
+Shapefile文件用于描述几何体对象：[点](../Page/点.md "wikilink")、折线与[多边形](../Page/多边形.md "wikilink")。例如，Shapefile文件可以存储[井](https://zh.wikipedia.org/wiki/井 "wikilink")、河流、[湖泊](../Page/湖泊.md "wikilink")等空间对象的几何位置。除了几何位置，shp文件也可以存储这些空间对象的属性，例如河流的名字、城市的温度等等。
 
 ## 概览
 
-Shapefile属于一种矢量图形格式，它能够保存几何图形的位置及相关属性。但这种格式没法存储地理数据的拓扑信息。Shapefile在九十年代初的ArcView
-GIS的第二个版本被首次应用。目前，许多自由的程序或商业的程序都可以读取Shapefile。
+Shapefile属于一种矢量图形格式，它能够保存几何图形的位置及相关属性。但这种格式没法存储地理数据的拓扑信息。Shapefile在九十年代初的ArcView GIS的第二个版本被首次应用。目前，许多自由的程序或商业的程序都可以读取Shapefile。
 
 Shapefile是一种比较原始的矢量数据存储方式，它仅仅能够存储几何体的位置数据，而无法在一个文件之中同时存储这些几何体的属性数据。因此，Shapefile还必须附带一个二维表用于存储Shapefile中每个几何体的属性信息。Shapefile中许多几何体能够代表复杂的地理事物，并为他们提供强大而精确的计算能力。
 
-Shapefile文件指的是一种文件存储的方法，实际上该种文件格式是由多个文件组成的。其中，要组成一个Shapefile，有三个文件是必不可少的，它们分别是"`.shp`",
-"`.shx`"与
-"`.dbf`"文件。表示同一数据的一组文件其文件名前缀应该相同。例如，存储一个关于湖的几何与属性数据，就必须有lake.shp，lake.shx与lake.dbf三个文件。而其中“真正”的Shapefile的后缀为shp，然而仅有这个文件数据是不完整的，必须要把其他两个附带上才能构成一组完整的地理数据。除了这三个必须的文件以外，还有八个可选的文件，使用它们可以增强空间数据的表达能力。所有的文件名都必须遵循MS
-DOS的[8.3文件名标准](https://zh.wikipedia.org/wiki/8.3 "wikilink")（文件前缀名8个字符，后缀名3个字符，如`shapefil.shp`），以方便与一些老的应用程序保持兼容性，尽管现在许多新的程序都能够支持长文件名。此外，所有的文件都必须位于同一个目录之中。
+Shapefile文件指的是一种文件存储的方法，实际上该种文件格式是由多个文件组成的。其中，要组成一个Shapefile，有三个文件是必不可少的，它们分别是"`.shp`", "`.shx`"与 "`.dbf`"文件。表示同一数据的一组文件其文件名前缀应该相同。例如，存储一个关于湖的几何与属性数据，就必须有lake.shp，lake.shx与lake.dbf三个文件。而其中“真正”的Shapefile的后缀为shp，然而仅有这个文件数据是不完整的，必须要把其他两个附带上才能构成一组完整的地理数据。除了这三个必须的文件以外，还有八个可选的文件，使用它们可以增强空间数据的表达能力。所有的文件名都必须遵循MS DOS的[8.3文件名标准](https://zh.wikipedia.org/wiki/8.3 "wikilink")（文件前缀名8个字符，后缀名3个字符，如`shapefil.shp`），以方便与一些老的应用程序保持兼容性，尽管现在许多新的程序都能够支持长文件名。此外，所有的文件都必须位于同一个目录之中。
 
 必须的文件:
 
@@ -23,29 +18,23 @@ DOS的[8.3文件名标准](https://zh.wikipedia.org/wiki/8.3 "wikilink")（文�
 
 其他可选的文件：
 
-  - `.prj` — 投影格式，用于保存地理坐标系统与投影信息，是一个存储[well-known
-    text投影描述符的文本文件](https://zh.wikipedia.org/wiki/well-known_text "wikilink")。
+  - `.prj` — 投影格式，用于保存地理坐标系统与投影信息，是一个存储[well-known text投影描述符的文本文件](https://zh.wikipedia.org/wiki/well-known_text "wikilink")。
   - `.sbn` and `.sbx` — 几何体的空间索引
   - `.fbn` and `.fbx` — 只读的Shapefiles的几何体的空间索引
   - `.ain` and `.aih` — 列表中活动字段的属性索引。
   - `.ixs` — 可读写Shapefile文件的地理编码索引
   - `.mxs` — 可读写Shapefile文件的地理编码索引(ODB格式)
-  - `.atx` — `.dbf`文件的属性索引，其文件名格式为*shapefile*.*columnname*`.atx` (ArcGIS
-    8及之后的版本)
+  - `.atx` — `.dbf`文件的属性索引，其文件名格式为*shapefile*.*columnname*`.atx` (ArcGIS 8及之后的版本)
   - `.shp.xml` — 以XML格式保存元数据。
-  - `.cpg` —
-    用于描述`.dbf`文件的[代码页](../Page/代码页.md "wikilink")，指明其使用的[字符编码](../Page/字符编码.md "wikilink")。
+  - `.cpg` — 用于描述`.dbf`文件的[代码页](../Page/代码页.md "wikilink")，指明其使用的[字符编码](../Page/字符编码.md "wikilink")。
 
-在每个`.shp`,
-`.shx`与`.dbf`文件之中，图形在每个文件的排序是一致的。也就是说，`.shp`的第一条记录与`.shx`及`.dbf`之中的第一条记录相对应，如此类推。此外，在`.shp`与`.shx`之中，有许多字段的[字节序是不一样的](../Page/字节序.md "wikilink")。因此用户在编写读取这些文件格式的程序时，必须十分小心地处理不同文件的不同字节序。
+在每个`.shp`, `.shx`与`.dbf`文件之中，图形在每个文件的排序是一致的。也就是说，`.shp`的第一条记录与`.shx`及`.dbf`之中的第一条记录相对应，如此类推。此外，在`.shp`与`.shx`之中，有许多字段的[字节序](../Page/字节序.md "wikilink")是不一样的。因此用户在编写读取这些文件格式的程序时，必须十分小心地处理不同文件的不同字节序。
 
 Shapefile通常以X与Y的方式来处理地理坐标，一般X对应经度，Y对应纬度，用户必须注意X，Y的顺序。
 
 ### Shapefile图形格式 (`.shp`)
 
-Shapefile格式的主文件包含了地理参照数据。该文件由一个定长的文件头和一个或若干个变长的记录数据组成。每一条变长数据记录包含一个记录头和一些记录内容。详细的数据存储格式由*Esri
-Shapefile技术描述*.\[2\]提供。注意，虽然Shapefile文件的后缀名与[AutoCAD的图形字体源格式它们的文件后缀名相同的](../Page/AutoCAD.md "wikilink")，都是`.shp`
-，请不要把它们混淆。
+Shapefile格式的主文件包含了地理参照数据。该文件由一个定长的文件头和一个或若干个变长的记录数据组成。每一条变长数据记录包含一个记录头和一些记录内容。详细的数据存储格式由*Esri Shapefile技术描述*.\[2\]提供。注意，虽然Shapefile文件的后缀名与[AutoCAD](../Page/AutoCAD.md "wikilink")的图形字体源格式它们的文件后缀名相同的，都是`.shp` ，请不要把它们混淆。
 
 主文件头包含17个字段，共100个字节，其中包含九个4字节（32位有符号整数，int32）整数字段，紧接着是八个8字节（[双精度浮点数](https://zh.wikipedia.org/wiki/双精度浮点数 "wikilink")）有符号浮点数字段。
 
@@ -180,14 +169,11 @@ Shapefile的文件索引包含与`.shp`文件相同的100个字节的文件头�
 
 ### Shapefile属性格式(`.dbf`)
 
-每个图形的属性数据存储在[dBase格式的数据表之中](https://zh.wikipedia.org/wiki/dBase "wikilink")。属性数据也可以存储在另一种开放的数据表格式[xBase格式之中](https://zh.wikipedia.org/wiki/xBase "wikilink")。在[开源Shapefile](https://zh.wikipedia.org/wiki/开源 "wikilink")[函式库Shapefile](https://zh.wikipedia.org/wiki/函式库 "wikilink")
-C library\[3\]中就是这样存储。
+每个图形的属性数据存储在[dBase格式的数据表之中](https://zh.wikipedia.org/wiki/dBase "wikilink")。属性数据也可以存储在另一种开放的数据表格式[xBase格式之中](https://zh.wikipedia.org/wiki/xBase "wikilink")。在[开源Shapefile](https://zh.wikipedia.org/wiki/开源 "wikilink")[函式库Shapefile](https://zh.wikipedia.org/wiki/函式库 "wikilink") C library\[3\]中就是这样存储。
 
 ### Shapefile投影格式(`.prj`)
 
-`.prj`文件中的信息包含了`.shp`文件中几何数据所使用的[经纬度坐标系统](../Page/经纬度.md "wikilink")。尽管这个文件不是必须的，一般使用都会提供它，这样用户就无需猜测所给的坐标的经纬度系统。ArcGIS
-Desktop 9及以后的版本使用[well-known
-text格式来生成坐标系统描述信息](https://zh.wikipedia.org/wiki/well-known_text "wikilink")。以前的ArcGIS版本和某些第三方软件通常生成如下的这种格式：
+`.prj`文件中的信息包含了`.shp`文件中几何数据所使用的[经纬度](../Page/经纬度.md "wikilink")坐标系统。尽管这个文件不是必须的，一般使用都会提供它，这样用户就无需猜测所给的坐标的经纬度系统。ArcGIS Desktop 9及以后的版本使用[well-known text格式来生成坐标系统描述信息](https://zh.wikipedia.org/wiki/well-known_text "wikilink")。以前的ArcGIS版本和某些第三方软件通常生成如下的这种格式：
 
 老的投影文件格式样例：
 
@@ -215,12 +201,12 @@ Parameters
 
 `.prj`文件中包含以下信息：
 
-  - [经纬度坐标系统或](../Page/经纬度.md "wikilink")[地图投影的名称](../Page/地图投影.md "wikilink")
+  - [经纬度](../Page/经纬度.md "wikilink")坐标系统或[地图投影](../Page/地图投影.md "wikilink")的名称
   - [测量基准](https://zh.wikipedia.org/wiki/测量基准 "wikilink")
   - [椭球体参数](https://zh.wikipedia.org/wiki/椭球体 "wikilink")
   - [本初子午线](https://zh.wikipedia.org/wiki/本初子午线 "wikilink")
   - 所使用的单位
-  - 用于定义[地图投影的参数](../Page/地图投影.md "wikilink")，例如：
+  - 用于定义[地图投影](../Page/地图投影.md "wikilink")的参数，例如：
       - 纬度原点
       - 缩放比例
       - 中央经线
@@ -236,17 +222,15 @@ Parameters
 
 ### Shapefile与拓扑
 
-Shapefile无法存储拓扑信息。在ESRI的文件格式中，ArcInfo
-的Coverage、以及Personal/File/Enterprise[地理数据库](https://zh.wikipedia.org/wiki/地理数据库 "wikilink")，能够保存地理要素的拓扑信息。
+Shapefile无法存储拓扑信息。在ESRI的文件格式中，ArcInfo 的Coverage、以及Personal/File/Enterprise[地理数据库](https://zh.wikipedia.org/wiki/地理数据库 "wikilink")，能够保存地理要素的拓扑信息。
 
 ### 空间表达
 
-在shapefile文件之中，所有的折线与[多边形都是用点来定义](../Page/多边形.md "wikilink")，点与点之间采用线性插值，也就是说点与点之间都是用线段相连。在数据采集时，点与点之间的距离决定了该文件所使用的比例。当图形放大超过一定比例的时候，图形就会呈现出锯齿。要使图形看上去更加平滑，那么就必须使用更多的点，这样就会消耗更大的存储空间。在这种情况下，[样条函数可以很精确地表达不同形状的曲线而且占据相对更少的空间](../Page/样条函数.md "wikilink")，但是目前shapefile并不支持样条曲线。
+在shapefile文件之中，所有的折线与[多边形](../Page/多边形.md "wikilink")都是用点来定义，点与点之间采用线性插值，也就是说点与点之间都是用线段相连。在数据采集时，点与点之间的距离决定了该文件所使用的比例。当图形放大超过一定比例的时候，图形就会呈现出锯齿。要使图形看上去更加平滑，那么就必须使用更多的点，这样就会消耗更大的存储空间。在这种情况下，[样条函数](../Page/样条函数.md "wikilink")可以很精确地表达不同形状的曲线而且占据相对更少的空间，但是目前shapefile并不支持样条曲线。
 
 ### 数据存储量
 
-`.shp`文件或`.dbf`文件最大的体积不能够超过2
-GB（或2<sup>31</sup>位）。也就是说，一个shapefile最多只能够存储七千万个点坐标。\[4\]文件所能够存储的几何体的数目取决于单个要素所使用的顶点的数目。
+`.shp`文件或`.dbf`文件最大的体积不能够超过2 GB（或2<sup>31</sup>位）。也就是说，一个shapefile最多只能够存储七千万个点坐标。\[4\]文件所能够存储的几何体的数目取决于单个要素所使用的顶点的数目。
 
 属性数据库格式所使用的`.dbf`文件基于一个比较古老的[dBase标准](https://zh.wikipedia.org/wiki/dBase "wikilink")。这种数据库格式天生有许多限制，例如：\[5\]
 
@@ -271,19 +255,12 @@ GB（或2<sup>31</sup>位）。也就是说，一个shapefile最多只能够存�
 
 ## 外部链接
 
-  - [Shapefile
-    文件扩展（英文）](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Shapefile_file_extensions/005600000003000000/)
-    – Esri ArcGIS 10.0 在线帮助(2010)
-  - [Esri Shapefile
-    技术描述（英文）](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
-    – Esri白皮书, 1998年6月
-  - [shapelib.maptools.org](http://shapelib.maptools.org/) -
-    开放的shapefile读写C函数库
-  - [Python Shapefile 函数库](http://code.google.com/p/pyshp/) -
-    开源的（[MIT许可证](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")）shapefile读写Python函数库
+  - [Shapefile 文件扩展（英文）](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Shapefile_file_extensions/005600000003000000/) – Esri ArcGIS 10.0 在线帮助(2010)
+  - [Esri Shapefile 技术描述（英文）](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) – Esri白皮书, 1998年6月
+  - [shapelib.maptools.org](http://shapelib.maptools.org/) - 开放的shapefile读写C函数库
+  - [Python Shapefile 函数库](http://code.google.com/p/pyshp/) - 开源的（[MIT许可证](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")）shapefile读写Python函数库
 
-[Category:公开格式](https://zh.wikipedia.org/wiki/Category:公开格式 "wikilink")
-[Category:GIS向量文件格式](https://zh.wikipedia.org/wiki/Category:GIS向量文件格式 "wikilink")
+[Category:公开格式](https://zh.wikipedia.org/wiki/Category:公开格式 "wikilink") [Category:GIS向量文件格式](https://zh.wikipedia.org/wiki/Category:GIS向量文件格式 "wikilink")
 
 1.
 

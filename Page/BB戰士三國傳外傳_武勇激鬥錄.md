@@ -1,5 +1,4 @@
-《**BB戰士 三國傳外傳 武勇激鬥錄**》為《[BB戰士三國傳
-戰神決鬥篇](../Page/BB戰士三國傳_戰神決鬥篇.md "wikilink")》的外傳故事，未有推出單行本，值以模型漫畫形式出現，作者為三國傳系列的下田龍彥。
+《**BB戰士 三國傳外傳 武勇激鬥錄**》為《[BB戰士三國傳 戰神決鬥篇](../Page/BB戰士三國傳_戰神決鬥篇.md "wikilink")》的外傳故事，未有推出單行本，值以模型漫畫形式出現，作者為三國傳系列的下田龍彥。
 
 ## 簡介
 
@@ -17,8 +16,7 @@
 
 由[關平](../Page/關平.md "wikilink")、[張苞](https://zh.wikipedia.org/wiki/張苞 "wikilink")、[劉封](../Page/劉封.md "wikilink")組成「小龍隊」。[劉封](../Page/劉封.md "wikilink")為小龍隊首領。
 
-**[劉封](../Page/劉封.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB143
-輝龍頑駄無）
+**[劉封](../Page/劉封.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB143 輝龍頑駄無）
 
   -
     原名[寇封](https://zh.wikipedia.org/wiki/寇封 "wikilink")，成為[劉備義子後改名](https://zh.wikipedia.org/wiki/劉備 "wikilink")[劉封](../Page/劉封.md "wikilink")，武術及氣力出衆，與[項羽為朋友](https://zh.wikipedia.org/wiki/項羽 "wikilink")。與[關平](../Page/關平.md "wikilink")、[張苞組成](https://zh.wikipedia.org/wiki/張苞 "wikilink")「小龍隊」。被推為小龍隊首領。
@@ -31,8 +29,7 @@
     合體武器：雙龍疾風長刀
     必殺：雙龍疾風擊
 
-**[關平](../Page/關平.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（MSA-0011 S
-Gundam）
+**[關平](../Page/關平.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（MSA-0011 S Gundam）
 
   -
     [關羽義子](https://zh.wikipedia.org/wiki/關羽 "wikilink")，為成為傳說中的「俠」而努力。於外傳《武勇激闘録》，與[劉封](../Page/劉封.md "wikilink")、[張苞組成](https://zh.wikipedia.org/wiki/張苞 "wikilink")「小龍隊」。
@@ -51,8 +48,7 @@ Gundam）
     必殺：雙鬼烈擊
     超必殺：連彈鬼無雙（鬼牙百烈撃、双鬼烈撃、豪鬼爆連爪三位一体必殺）
 
-**[張苞](https://zh.wikipedia.org/wiki/張苞 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB151
-武零斗頑駄無）
+**[張苞](https://zh.wikipedia.org/wiki/張苞 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB151 武零斗頑駄無）
 
   -
     [張飛之子](https://zh.wikipedia.org/wiki/張飛 "wikilink")，與[劉封](../Page/劉封.md "wikilink")、[關平](../Page/關平.md "wikilink")組成「小龍隊」。
@@ -104,8 +100,7 @@ Gundam）
     武器：赤龍刀、凰激砲
     必殺：凰激砲大破彈
 
-**[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB256
-火威獸丸）
+**[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB256 火威獸丸）
 
   -
     [曹操](../Page/曹操.md "wikilink")軍親衛隊的首領，以天生神力聞名於三璃紗。善於使用投擲型的鐵球，即使最堅硬的鎧甲也能一擊粉碎。
@@ -136,8 +131,7 @@ Gundam）
     武器：黒鳳冥星刀
     必殺：黑炎獄霸斬
 
-**[于禁](../Page/于禁.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB159
-獸破頑馱無）
+**[于禁](../Page/于禁.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB159 獸破頑馱無）
 
   -
     從[董卓](../Page/董卓.md "wikilink")之亂時就投身[曹操](../Page/曹操.md "wikilink")軍團的機駕宿將。赤壁之戰時，與[樂進](../Page/樂進.md "wikilink")一起作為曹軍衛將騎團的一員。有著相當重視規律、穩重的個性，曾經負責追擊袁紹軍別部隊，火燒敵陣十餘，徹底地擊破敵人，為曹操軍帶來勝利作出極大貢獻。
@@ -169,8 +163,7 @@ Gundam）
     必殺：十字激斬
     特別貼紙:傷跡貼紙
 
-**[丁奉](../Page/丁奉.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB206
-武者Gerbera鋼彈）
+**[丁奉](../Page/丁奉.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB206 武者Gerbera鋼彈）
 
   -
     輩份較低轟國的智將。臂力驚人，智勇雙全。
@@ -186,8 +179,7 @@ Gundam）
     必殺：裂破三尖擊
     特別貼紙:武器聲音,名字(丁奉,陸遜,項羽)貼紙
 
-**[凌統](../Page/凌統.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB208
-武者高達MK-IV）
+**[凌統](../Page/凌統.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB208 武者高達MK-IV）
 
   -
     仕奉[孫權的參謀](https://zh.wikipedia.org/wiki/孫權 "wikilink")，與父親[凌操同樣仕於長沙軍](https://zh.wikipedia.org/wiki/凌操 "wikilink")，也是孫家的宿將。後來[凌操與當時](https://zh.wikipedia.org/wiki/凌操 "wikilink")、仍為荊州強襲水軍將領[黃祖](../Page/黃祖.md "wikilink")手下的[甘寧交戰](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，結果戰死，令[凌統](../Page/凌統.md "wikilink")對[甘寧懷有深仇大恨](https://zh.wikipedia.org/wiki/甘寧 "wikilink")。因此在[甘寧離開](https://zh.wikipedia.org/wiki/甘寧 "wikilink")[黃祖](../Page/黃祖.md "wikilink")，改投長沙軍時，[凌統](../Page/凌統.md "wikilink")相當痛恨，甚至在他面前屢出惡言。雖然如此，當[凌統](../Page/凌統.md "wikilink")在戰場遭遇危難時，[甘寧不單沒有記仇](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，反而毅然出手相救，化解了是次危機，亦為[凌統](../Page/凌統.md "wikilink")與[甘寧關係轉變的契機](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，兩人自此以後開始放下仇怨，更成為彼此惺惺相惜的戰友及摯友。
@@ -203,8 +195,7 @@ Gundam）
 
 位處西北的軍團，曾加入反董卓聯軍，負責從西路進軍洛陽。
 
-**[馬岱](../Page/馬岱.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB205
-武者Blue鋼彈）
+**[馬岱](../Page/馬岱.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB205 武者Blue鋼彈）
 
   -
     [馬超之表弟](https://zh.wikipedia.org/wiki/馬超 "wikilink")，精通騎術，擅長騎兵作戰，比[馬超更為冷靜](https://zh.wikipedia.org/wiki/馬超 "wikilink")，擁有「闇之血」的猛將。
@@ -226,14 +217,12 @@ Gundam）
 
 四百年前由[項羽建立的國家](https://zh.wikipedia.org/wiki/項羽 "wikilink")。
 
-**[項羽逆X](https://zh.wikipedia.org/wiki/項羽 "wikilink")**（Concept-X 6-1-2
-Turn X）
+**[項羽逆X](https://zh.wikipedia.org/wiki/項羽 "wikilink")**（Concept-X 6-1-2 Turn X）
 
   -
     在三國傳外傳·武勇激鬥錄裡登場的最矚目之處，與傳說中的神秘英雄[項羽同名](https://zh.wikipedia.org/wiki/項羽 "wikilink")，與[劉封](../Page/劉封.md "wikilink")為好友。有著震懾千萬馬的氣勢，武藝極高，猛將[周泰](../Page/周泰.md "wikilink")、[許褚與之交手亦陷於苦戰](https://zh.wikipedia.org/wiki/許褚 "wikilink")，一邊哼着歌（楚之歌）一邊走遍著三璃紗。
     在[馬謖的協助下](https://zh.wikipedia.org/wiki/馬謖 "wikilink")，在故鄉[荊州建立第四勢力](https://zh.wikipedia.org/wiki/荊州 "wikilink")[楚國](https://zh.wikipedia.org/wiki/楚 "wikilink")，被其餘三國大軍包圍中。在絕境之中，強令[馬謖離開](https://zh.wikipedia.org/wiki/馬謖 "wikilink")，獨自面對幾近絕路的困境。最後在戰場中重遇已經成為[劉備養子的](https://zh.wikipedia.org/wiki/劉備 "wikilink")[劉封](../Page/劉封.md "wikilink")([寇封](https://zh.wikipedia.org/wiki/寇封 "wikilink"))，感慨四百年前敗於劉姓武將([劉邦](https://zh.wikipedia.org/wiki/劉邦 "wikilink")?)的宿命，如今亦無法改變，便讓[劉封](../Page/劉封.md "wikilink")處死自己，只留下虞美人贈予的花朵，在戰場上開花，楚國就此滅亡。
-    2010年，以[NDS遊戲](https://zh.wikipedia.org/wiki/NDS "wikilink")[SD高達三國傳
-    BraveBattleWarriors真三璃紗大戰附送的限定版模型方式推出](https://zh.wikipedia.org/wiki/SD高達三國傳_BraveBattleWarriors真三璃紗大戰 "wikilink")，同時在遊戲中亦新增以項羽為主角的特別篇章「項羽之亂」。
+    2010年，以[NDS遊戲](https://zh.wikipedia.org/wiki/NDS "wikilink")[SD高達三國傳 BraveBattleWarriors真三璃紗大戰附送的限定版模型方式推出](https://zh.wikipedia.org/wiki/SD高達三國傳_BraveBattleWarriors真三璃紗大戰 "wikilink")，同時在遊戲中亦新增以項羽為主角的特別篇章「項羽之亂」。
 
 <!-- end list -->
 
@@ -242,8 +231,7 @@ Turn X）
     武器：獄騅劍、虞美神刀、霸王弓、霸鐵甲
     必殺：拳霸爆碎(霸鐵甲與項羽的鬥氣共鳴後所引發的能力，相似於〝阿修羅神拳〞中的〝神拳爆碎〞。)
 
-**[馬謖](https://zh.wikipedia.org/wiki/馬謖 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB249
-武侍丸）
+**[馬謖](https://zh.wikipedia.org/wiki/馬謖 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（原型件:BB249 武侍丸）
 
   -
     出生於荊州的少年天才軍師，懈逅[項羽並替](https://zh.wikipedia.org/wiki/項羽 "wikilink")[項羽出謀獻策](https://zh.wikipedia.org/wiki/項羽 "wikilink")，協助[項羽在荊州獨立](https://zh.wikipedia.org/wiki/項羽 "wikilink")，建立[楚國成為第四勢力](https://zh.wikipedia.org/wiki/楚 "wikilink")。
@@ -364,19 +352,15 @@ Turn X）
 
 ## 參見
 
-  - [BB戰士三國傳
-    風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
-  - [BB戰士三國傳
-    英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
-  - [BB戰士三國傳
-    戰神決鬥編](https://zh.wikipedia.org/wiki/BB戰士三國傳_戰神決鬥編 "wikilink")
+  - [BB戰士三國傳 風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
+  - [BB戰士三國傳 英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
+  - [BB戰士三國傳 戰神決鬥編](https://zh.wikipedia.org/wiki/BB戰士三國傳_戰神決鬥編 "wikilink")
   - [SD戰國傳系列](../Page/SD戰國傳系列.md "wikilink")
 
 ## 參考資料
 
   - 「BB戰士三國傳」模型說明書
-  - 模型雜誌《[Hobby
-    Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")》
+  - 模型雜誌《[Hobby Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")》
   - 動晝雜誌《Kerokero Ace》—「BB戰士三國傳．英雄激突編」矢野健太郎著
   - 動畫雜誌《COCO》
   - 《BB戰士三國傳．風雲豪傑編》（全2卷）[鴇田洸一著](../Page/時田洸一.md "wikilink")
@@ -388,8 +372,6 @@ Turn X）
 
   - [亞洲三國傳官方網頁](https://web.archive.org/web/20080828045222/http://www.bandai-asia.com/sangokuden/)
 
-[ja:BB戦士三国伝\#三国伝外伝
-武勇激闘録](https://zh.wikipedia.org/wiki/ja:BB戦士三国伝#三国伝外伝_武勇激闘録 "wikilink")
+[ja:BB戦士三国伝\#三国伝外伝 武勇激闘録](https://zh.wikipedia.org/wiki/ja:BB戦士三国伝#三国伝外伝_武勇激闘録 "wikilink")
 
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")
+[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")

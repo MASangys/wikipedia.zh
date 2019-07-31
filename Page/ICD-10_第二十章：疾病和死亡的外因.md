@@ -1,5 +1,4 @@
-**ICD-10
-第二十章：疾病和死亡的外因**，即[国际疾病与相关健康问题统计分类第十版的第二十个编码分系统](https://zh.wikipedia.org/wiki/国际疾病与相关健康问题统计分类第十版 "wikilink")（从V01-Y99），其中包括了各种关于疾病及死亡的外在原因，及其分类详情\[1\]。
+**ICD-10 第二十章：疾病和死亡的外因**，即[国际疾病与相关健康问题统计分类第十版的第二十个编码分系统](https://zh.wikipedia.org/wiki/国际疾病与相关健康问题统计分类第十版 "wikilink")（从V01-Y99），其中包括了各种关于疾病及死亡的外在原因，及其分类详情\[1\]。
 
 ## V01-X59 意外事故
 
@@ -7,8 +6,7 @@
 
   - V01 行人在与脚踏车碰撞中的损伤
   - V02 行人在与两轮或三轮摩托车碰撞中的损伤
-  - V03
-    行人在与[小汽车](https://zh.wikipedia.org/wiki/小汽车 "wikilink")、轻型货车或篷车碰撞中的损伤
+  - V03 行人在与[小汽车](https://zh.wikipedia.org/wiki/小汽车 "wikilink")、轻型货车或篷车碰撞中的损伤
   - V04 行人在与重型运输车或公共汽车碰撞中的损伤
   - V05 行人在与火车或铁路车辆碰撞中的损伤
   - V06 行人在与其他非机动车辆碰撞中的损伤
@@ -16,16 +14,12 @@
 
 ### V10-V19 脚踏车驾驶人员在运输事故中的损伤
 
-  - V10
-    脚踏车驾驶人员在[脚踏车与行人或](https://zh.wikipedia.org/wiki/脚踏车 "wikilink")[牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/牲畜 "wikilink")
+  - V10 脚踏车驾驶人员在[脚踏车与行人或](https://zh.wikipedia.org/wiki/脚踏车 "wikilink")[牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/牲畜 "wikilink")
   - V11 脚踏车驾驶人员在脚踏车与其他脚踏车碰撞中的损伤
   - V12 脚踏车驾驶人员在脚踏车与两轮或三轮机动车碰撞中的损伤
-  - V13
-    脚踏车驾驶人员在脚踏车与[小汽车](https://zh.wikipedia.org/wiki/小汽车 "wikilink")、轻型货车或[篷车碰撞中的损伤](https://zh.wikipedia.org/wiki/篷车 "wikilink")
-  - V14
-    脚踏车驾驶人员在脚踏车与[重型运输车或](https://zh.wikipedia.org/wiki/重型运输车 "wikilink")[公共汽车碰撞中的损伤](https://zh.wikipedia.org/wiki/公共汽车 "wikilink")
-  - V15
-    脚踏车驾驶人员在脚踏车与[火车或铁路车辆碰撞中的损伤](https://zh.wikipedia.org/wiki/火车 "wikilink")
+  - V13 脚踏车驾驶人员在脚踏车与[小汽车](https://zh.wikipedia.org/wiki/小汽车 "wikilink")、轻型货车或[篷车碰撞中的损伤](https://zh.wikipedia.org/wiki/篷车 "wikilink")
+  - V14 脚踏车驾驶人员在脚踏车与[重型运输车或](https://zh.wikipedia.org/wiki/重型运输车 "wikilink")[公共汽车碰撞中的损伤](https://zh.wikipedia.org/wiki/公共汽车 "wikilink")
+  - V15 脚踏车驾驶人员在脚踏车与[火车或铁路车辆碰撞中的损伤](https://zh.wikipedia.org/wiki/火车 "wikilink")
   - V16 脚踏车驾驶人员在脚踏车与其他非动车辆碰撞中的损伤
   - V17 脚踏车驾驶人员在脚踏车与固定或静止物体碰撞中的损伤
   - V18 脚踏车驾驶人员在非碰撞性运输事故中的损伤
@@ -33,8 +27,7 @@
 
 ### V20-V29 摩托车驾驶人员在运输事故中的损伤
 
-  - V20
-    摩托车驾驶人员在[摩托车与](https://zh.wikipedia.org/wiki/摩托车 "wikilink")[行人](../Page/行人.md "wikilink")或[牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/牲畜 "wikilink")
+  - V20 摩托车驾驶人员在[摩托车与](https://zh.wikipedia.org/wiki/摩托车 "wikilink")[行人](../Page/行人.md "wikilink")或[牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/牲畜 "wikilink")
   - V21 摩托车驾驶人员在摩托车与脚踏车碰撞中的损伤
   - V22 摩托车驾驶人员在摩托车与两轮或三轮车机动车碰撞中的损伤
   - V23 摩托车驾驶人员在摩托车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -47,8 +40,7 @@
 
 ### V30-V39 三轮机动车乘员在运输事故中的损伤
 
-  - V30
-    [三轮机动车乘员在三轮机动车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/三轮机动车 "wikilink")
+  - V30 [三轮机动车乘员在三轮机动车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/三轮机动车 "wikilink")
   - V31 三轮机动车乘员在三轮机动车与脚踏车碰撞中的损伤
   - V32 三轮机动车乘员在三轮机动车与两轮或三轮机动车碰撞中的损伤
   - V33 三轮机动车乘员在三轮机动车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -61,8 +53,7 @@
 
 ### V40-V49 小汽車乘員在運輸事故中的損傷
 
-  - V40
-    [小汽车乘员在小汽车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/小汽车 "wikilink")
+  - V40 [小汽车乘员在小汽车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/小汽车 "wikilink")
   - V41 小汽车乘员在小汽车与脚踏车碰撞中的损伤
   - V42 小汽车乘员在小汽车与两轮或三轮机动车碰撞中的损伤
   - V43 小汽车乘员在小汽车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -75,8 +66,7 @@
 
 ### V50-V59 轻型货车或蓬车乘员在运输事故中的损伤
 
-  - V50
-    [轻型货车或](https://zh.wikipedia.org/wiki/轻型货车 "wikilink")[蓬车乘员在轻型货车或篷车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/蓬车 "wikilink")
+  - V50 [轻型货车或](https://zh.wikipedia.org/wiki/轻型货车 "wikilink")[蓬车乘员在轻型货车或篷车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/蓬车 "wikilink")
   - V51 轻型货车或篷车乘员在轻型货车或篷车与脚踏车碰撞中的损伤
   - V52 轻型货车或篷车乘员在轻型货车或篷车与两轮或三轮机动车碰撞中损伤
   - V53 轻型货车或篷车乘员在轻型货车或篷车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -89,8 +79,7 @@
 
 ### V60-V69 重型运输车乘员在运输事故中的损伤
 
-  - V60
-    [重型运输车乘员在重型运输车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/重型运输车 "wikilink")
+  - V60 [重型运输车乘员在重型运输车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/重型运输车 "wikilink")
   - V61 重型运输车乘员在重型运输车与脚踏车碰撞中的损伤
   - V62 重型运输车乘员在重型运输车与两轮或三轮机动车碰撞中的损伤
   - V63 重型运输车乘员在重型运输车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -103,8 +92,7 @@
 
 ### V70-V79 公共汽车乘员在运输事故中的损伤
 
-  - V70
-    [公共汽车乘员在公共汽车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/公共汽车 "wikilink")
+  - V70 [公共汽车乘员在公共汽车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/公共汽车 "wikilink")
   - V71 公共汽车乘员在公共汽车与脚踏碰撞中的损伤
   - V72 公共汽车乘员在公共汽车与两轮或三轮机动车碰撞中的损伤
   - V73 公共汽车乘员在公共汽车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -207,8 +195,7 @@
   - W50 被他人殴打、踢、拧、咬或抓伤
   - W51 撞到他人或意外被别人碰撞
   - W52 被蜂涌人群挤压、推挤或踏踩
-  - W53
-    被[鼠](../Page/鼠.md "wikilink")[咬伤](https://zh.wikipedia.org/wiki/咬伤 "wikilink")
+  - W53 被[鼠](../Page/鼠.md "wikilink")[咬伤](https://zh.wikipedia.org/wiki/咬伤 "wikilink")
   - W54 被[狗咬伤或抓伤](https://zh.wikipedia.org/wiki/狗 "wikilink")
   - W55 被其他哺乳动物咬伤或抓伤
   - W56 接触海生动物的损伤
@@ -252,8 +239,7 @@
   - W91 暴露于未特指类型的辐射下
   - W92 暴露于人为原因的过热环境下
   - W93 暴露于人为原因的过冷环境下
-  - W94
-    暴露于[高气压](https://zh.wikipedia.org/wiki/高气压 "wikilink")、[低气压和气压改变环境下](https://zh.wikipedia.org/wiki/低气压 "wikilink")
+  - W94 暴露于[高气压](https://zh.wikipedia.org/wiki/高气压 "wikilink")、[低气压和气压改变环境下](https://zh.wikipedia.org/wiki/低气压 "wikilink")
   - W99 暴露于其他和未特指的人为环境因素下
 
 ### X00-X09 暴露于烟、火和火焰下
@@ -286,10 +272,8 @@
   - X20 接触[毒蛇](../Page/毒蛇.md "wikilink")和[蜥蜴](../Page/蜥蜴.md "wikilink")
   - X21 接触[毒蜘蛛](https://zh.wikipedia.org/wiki/毒蜘蛛 "wikilink")
   - X22 接触[蝎子](https://zh.wikipedia.org/wiki/蝎子 "wikilink")
-  - X23
-    接触[大黄蜂](https://zh.wikipedia.org/wiki/大黄蜂 "wikilink")、[黄蜂](../Page/黄蜂.md "wikilink")和[蜜蜂](../Page/蜜蜂.md "wikilink")
-  - X24
-    接触[蜈蚣](../Page/蜈蚣.md "wikilink")和有毒的[千足虫](https://zh.wikipedia.org/wiki/千足虫 "wikilink")
+  - X23 接触[大黄蜂](https://zh.wikipedia.org/wiki/大黄蜂 "wikilink")、[黄蜂](../Page/黄蜂.md "wikilink")和[蜜蜂](../Page/蜜蜂.md "wikilink")
+  - X24 接触[蜈蚣](../Page/蜈蚣.md "wikilink")和有毒的[千足虫](https://zh.wikipedia.org/wiki/千足虫 "wikilink")
   - X25 接触其他特指的有毒的节肢动物
   - X26 接触有毒的海生动物和植物
   - X27 接触其他特指的有毒动物
@@ -304,8 +288,7 @@
   - X33 闪电的受害者
   - X34 [地震](../Page/地震.md "wikilink")受害者
   - X35 火山爆发受害者
-  - X36
-    [雪崩](../Page/雪崩.md "wikilink")、[山崩](../Page/山崩.md "wikilink")和其他地面运动受害者
+  - X36 [雪崩](../Page/雪崩.md "wikilink")、[山崩](../Page/山崩.md "wikilink")和其他地面运动受害者
   - X37 灾难性暴风雨受害者
   - X38 [洪水](../Page/洪水.md "wikilink")受害者
   - X39 暴露于其他和未特指的自然力量下
@@ -313,10 +296,8 @@
 ### X40-X49 有毒物质的意外中毒及暴露于该物质下
 
   - X40 非类鸦片镇痛药、退热药和抗风湿药的意外中毒及暴露于该类药物
-  - X41
-    [镇癫痫药](https://zh.wikipedia.org/wiki/镇癫痫药 "wikilink")、[镇静](https://zh.wikipedia.org/wiki/镇静 "wikilink")[催眠剂](https://zh.wikipedia.org/wiki/催眠剂 "wikilink")、抗震颤麻痹药和对精神有影响的药物的意外中毒及暴露该药物
-  - X42
-    [麻醉剂和致幻药意外中毒及暴露于该药物](https://zh.wikipedia.org/wiki/麻醉剂 "wikilink")，不可归在他处者
+  - X41 [镇癫痫药](https://zh.wikipedia.org/wiki/镇癫痫药 "wikilink")、[镇静](https://zh.wikipedia.org/wiki/镇静 "wikilink")[催眠剂](https://zh.wikipedia.org/wiki/催眠剂 "wikilink")、抗震颤麻痹药和对精神有影响的药物的意外中毒及暴露该药物
+  - X42 [麻醉剂和致幻药意外中毒及暴露于该药物](https://zh.wikipedia.org/wiki/麻醉剂 "wikilink")，不可归在他处者
   - X43 作用于自主神经系统的其他药物的意外中毒及暴露
   - X44 其他和未特指的药物、药剂和生物制品的意外中毒及暴露于该类药物
   - X45 酒精的意外中毒及暴露于酒精
@@ -405,8 +386,7 @@
   - Y15 酒精中毒及暴露于酒精，主观未定的
   - Y16 有机溶剂和卤素烃及其蒸气的中毒及暴露于该类物质，主观未定的
   - Y17 其他气体和蒸气的中毒及暴露于该类物质，主观未定的
-  - Y18
-    [杀虫剂的中毒及暴露于杀虫剂](https://zh.wikipedia.org/wiki/杀虫剂 "wikilink")，主观未定的
+  - Y18 [杀虫剂的中毒及暴露于杀虫剂](https://zh.wikipedia.org/wiki/杀虫剂 "wikilink")，主观未定的
   - Y19 其他和未特指的化学制品和有害物质的中毒及暴露于该类物质，主观未定的
   - Y20 悬吊、绞勒和窒息，主观未定的
   - Y21 淹溺和沉没，主观未定的
@@ -510,9 +490,6 @@
 
 ## 參考文獻
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
 
-1.  [WTO--External causes of morbidity and
-    mortality](http://apps.who.int/classifications/apps/icd/icd10online/kv01.htm)
+1.  [WTO--External causes of morbidity and mortality](http://apps.who.int/classifications/apps/icd/icd10online/kv01.htm)

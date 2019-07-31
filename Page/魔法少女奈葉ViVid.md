@@ -1,7 +1,6 @@
 是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")第4期計畫的一部分，與《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[藤真拓哉](../Page/藤真拓哉.md "wikilink")，2009年起在《[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")》上連載。[台灣角川](../Page/台灣角川.md "wikilink")於2013年1月22日公告取得授權發行中文版\[1\]。
 
-作品的時間軸位於《[魔法少女奈葉StrikerS Sound
-StageX](https://zh.wikipedia.org/wiki/魔法少女奈葉_Sound_Stage#StrikerS_Sound_StageX "wikilink")》以及《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》之間，相當於《Force》的2年前。于2014年8月15日宣布[电视动画化](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，随后官网开启。
+作品的時間軸位於《[魔法少女奈葉StrikerS Sound StageX](https://zh.wikipedia.org/wiki/魔法少女奈葉_Sound_Stage#StrikerS_Sound_StageX "wikilink")》以及《[魔法戰記奈葉Force](../Page/魔法戰記奈葉Force.md "wikilink")》之間，相當於《Force》的2年前。于2014年8月15日宣布[电视动画化](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，随后官网开启。
 
 ## 故事簡介
 
@@ -188,11 +187,7 @@ ISBN 978-4-04-106098-8</p></td>
 
 ## 衍生作品
 
-衍生[四格漫畫](../Page/四格漫畫.md "wikilink")《魔法少女奈葉ViVid
-COLORS》（）由[ねことうふ作畫](https://zh.wikipedia.org/wiki/ねことうふ "wikilink")，於《[Comptiq](../Page/Comptiq.md "wikilink")》2011年5月號開始連載，2012年改名為《魔法少女奈葉ViVid
-LIFE》（）以免與《魔法少女奈葉ViVid FULL
-COLORS》混淆，2013年4月移至《月刊CompAce》繼續連載並改名為《魔法少女奈葉ViVid
-LIFE －Inter Middle篇－》（），於《月刊CompAce》2014年4月號結束連載。
+衍生[四格漫畫](../Page/四格漫畫.md "wikilink")《魔法少女奈葉ViVid COLORS》（）由[ねことうふ作畫](https://zh.wikipedia.org/wiki/ねことうふ "wikilink")，於《[Comptiq](../Page/Comptiq.md "wikilink")》2011年5月號開始連載，2012年改名為《魔法少女奈葉ViVid LIFE》（）以免與《魔法少女奈葉ViVid FULL COLORS》混淆，2013年4月移至《月刊CompAce》繼續連載並改名為《魔法少女奈葉ViVid LIFE －Inter Middle篇－》（），於《月刊CompAce》2014年4月號結束連載。
 
 <table>
 <thead>
@@ -226,14 +221,12 @@ LIFE －Inter Middle篇－》（），於《月刊CompAce》2014年4月號結束
 
 ## 電視動畫
 
-2015年4月3日在[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[愛知電視台](../Page/愛知電視台.md "wikilink")、[栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")、[BS11等](../Page/日本BS放送.md "wikilink")[獨立電視網播出](../Page/全國獨立放送協議會.md "wikilink")。
+2015年4月3日在[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[愛知電視台](../Page/愛知電視台.md "wikilink")、[栃木電視台](https://zh.wikipedia.org/wiki/栃木電視台 "wikilink")、[BS11等](../Page/日本BS放送.md "wikilink")[獨立電視網播出](../Page/全國獨立放送協議會.md "wikilink")。
 
 ### 製作人員
 
   - 原作：[都築真紀](../Page/都築真紀.md "wikilink")
-  - 漫畫：[藤真拓哉](../Page/藤真拓哉.md "wikilink")（月刊「[CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")」連載／KADOKAWA
-    [角川書店](../Page/角川書店.md "wikilink")刊）
+  - 漫畫：[藤真拓哉](../Page/藤真拓哉.md "wikilink")（月刊「[CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")」連載／KADOKAWA [角川書店](../Page/角川書店.md "wikilink")刊）
   - 監督：伊藤祐毅
   - 劇本：小林成朗
   - 人物設計：山野雅明
@@ -243,8 +236,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日
   - 製片人：石川達也、石岡朋子
   - 動畫製作人：五十嵐守
   - 動畫製作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
-  - 製作：[國王唱片](../Page/國王唱片.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")、[Seven
-    Arcs](../Page/Seven_Arcs.md "wikilink")
+  - 製作：[國王唱片](../Page/國王唱片.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")、[Seven Arcs](../Page/Seven_Arcs.md "wikilink")
 
 ### 主題曲
 
@@ -448,13 +440,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日
   - [電視動畫《魔法少女奈葉ViVid》](http://nanoha-vivid.tv)
 
   -
-[Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:Seven_Arcs](https://zh.wikipedia.org/wiki/Category:Seven_Arcs "wikilink")
+[Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:Seven_Arcs](https://zh.wikipedia.org/wiki/Category:Seven_Arcs "wikilink")
 
 1.
 2.

@@ -1,16 +1,6 @@
-{{ Infobox_Software | name = LIRC | logo = | screenshot = | caption = |
-collapsible = | developer = | status = Active | latest_release_version
-= 0.8.5 | latest_release_date =  | latest_preview_version = |
-latest_preview_date = | operating_system =
-[Linux](../Page/Linux.md "wikilink") | size = 653 KB (archived) |
-programming_language =
-[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink") | genre =
-[紅外線遙控](https://zh.wikipedia.org/wiki/紅外線遙控 "wikilink") | license =
-[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink") |
-website = <http://www.lirc.org/> }}
+{{ Infobox_Software | name = LIRC | logo = | screenshot = | caption = | collapsible = | developer = | status = Active | latest_release_version = 0.8.5 | latest_release_date =  | latest_preview_version = | latest_preview_date = | operating_system = [Linux](../Page/Linux.md "wikilink") | size = 653 KB (archived) | programming_language = [C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink") | genre = [紅外線遙控](https://zh.wikipedia.org/wiki/紅外線遙控 "wikilink") | license = [GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink") | website = <http://www.lirc.org/> }}
 
-**LIRC** (Linux Infrared remote
-control,Linux紅外線遙控)是一個[開放原始碼的套件](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。這個套件可以讓你的Linux系統能夠接收及發送紅外線訊號。
+**LIRC** (Linux Infrared remote control,Linux紅外線遙控)是一個[開放原始碼的套件](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。這個套件可以讓你的Linux系統能夠接收及發送紅外線訊號。
 
 Microsoft Windows上有個功能相同的軟體叫WinLIRC。
 
@@ -21,11 +11,8 @@ LIRC有個具有[圖形使用者介面的](https://zh.wikipedia.org/wiki/圖形�
 ## 外部連結
 
   - [LIRC - Linux Infrared Remote Control](http://www.lirc.org)
-  - [SourceForge.net: Linux Infrared Remote
-    Control](http://sourceforge.net/projects/lirc/)
+  - [SourceForge.net: Linux Infrared Remote Control](http://sourceforge.net/projects/lirc/)
   - [WinLIRC Homepage](http://winlirc.sourceforge.net/)
   - [KDELirc Homepage](http://utils.kde.org/projects/kdelirc)
 
-[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
-[Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink")
-[Category:遙控產品](https://zh.wikipedia.org/wiki/Category:遙控產品 "wikilink")
+[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink") [Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink") [Category:遙控產品](https://zh.wikipedia.org/wiki/Category:遙控產品 "wikilink")

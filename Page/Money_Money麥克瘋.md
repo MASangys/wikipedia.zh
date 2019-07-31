@@ -1,5 +1,4 @@
-《**Money
-Money麥克瘋**》是由[全能製作公司製作](https://zh.wikipedia.org/wiki/全能製作公司 "wikilink")，於[東森綜合台播出](../Page/東森綜合台.md "wikilink")。該節目播出日期於2008年7月14日至2008年11月28日為止。節目強調不比音準、不比音色，也不比外型、外貌、氣質、長相等如何，只強調只要歌詞記得牢，就可以參加比賽。
+《**Money Money麥克瘋**》是由[全能製作公司製作](https://zh.wikipedia.org/wiki/全能製作公司 "wikilink")，於[東森綜合台](../Page/東森綜合台.md "wikilink")播出。該節目播出日期於2008年7月14日至2008年11月28日為止。節目強調不比音準、不比音色，也不比外型、外貌、氣質、長相等如何，只強調只要歌詞記得牢，就可以參加比賽。
 
 節目名稱的「麥克瘋」，即取「[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")」作為諧音，因「麥克」有「[錢](https://zh.wikipedia.org/wiki/錢 "wikilink")」的意思，為了「麥克」而「瘋」，故因此而命名之。
 
@@ -19,14 +18,13 @@ Money麥克瘋**》是由[全能製作公司製作](https://zh.wikipedia.org/wik
 
 每位參賽者有兩回回答歌詞的機會（該回合最高可得二分），無論分數多寡，仍可繼續進行第二回合的資格賽。
 
-以[伊能靜](../Page/伊能靜.md "wikilink")《悲傷茱麗葉》為例，當出題來賓唱到「[故事沒有結束](../Page/故事.md "wikilink")　就劃下[句點](https://zh.wikipedia.org/wiki/句點 "wikilink")」時，參賽者就必須唱出「時光[隧道喚醒](../Page/隧道.md "wikilink")　沉睡的[夢魘](https://zh.wikipedia.org/wiki/夢魘 "wikilink")」，才能得分。
+以[伊能靜](../Page/伊能靜.md "wikilink")《悲傷茱麗葉》為例，當出題來賓唱到「[故事](../Page/故事.md "wikilink")沒有結束　就劃下[句點](https://zh.wikipedia.org/wiki/句點 "wikilink")」時，參賽者就必須唱出「時光[隧道](../Page/隧道.md "wikilink")喚醒　沉睡的[夢魘](https://zh.wikipedia.org/wiki/夢魘 "wikilink")」，才能得分。
 
 此單元無求任何救法可使用。
 
 #### Money Money克漏字
 
-{{〈}}*Money
-Money*克漏字{{〉}}是第二部份的資格賽，製作單位也會隨機選出歌曲，供三位來賓歌唱。每首歌曲，製作單位會隨機選出歌曲後，還會以「填空題」的方式，請參賽來賓唱出歌曲。無論填空的字數有多少，一詞是一個[字至四個字不等](https://zh.wikipedia.org/wiki/漢字 "wikilink")，對一個填空處得一分，最多十個填空處，全對可得十分。
+{{〈}}*Money Money*克漏字{{〉}}是第二部份的資格賽，製作單位也會隨機選出歌曲，供三位來賓歌唱。每首歌曲，製作單位會隨機選出歌曲後，還會以「填空題」的方式，請參賽來賓唱出歌曲。無論填空的字數有多少，一詞是一個[字至四個字不等](https://zh.wikipedia.org/wiki/漢字 "wikilink")，對一個填空處得一分，最多十個填空處，全對可得十分。
 
 如果兩回合的資格賽分數最低者，則該參賽者失去奪得獎金的機會。該回合會取一名落敗的參賽者退出遊戲。
 
@@ -36,7 +34,7 @@ Money*克漏字{{〉}}是第二部份的資格賽，製作單位也會隨機選�
 
 #### 愛唱九宮格
 
-{{〈}}愛唱九宮格{{〉}}是前兩回合分數較高，且存活的兩名參賽者必須一較高下的比賽。製作單位會先秀出九個要比賽的歌曲，接著，電腦會隨機將該九首歌曲隨意置放於這九宮格內的任一位置，前兩回合的最高分參賽者，以[猜拳決定先攻還是後攻](../Page/猜拳.md "wikilink")，並開始進行遊戲。
+{{〈}}愛唱九宮格{{〉}}是前兩回合分數較高，且存活的兩名參賽者必須一較高下的比賽。製作單位會先秀出九個要比賽的歌曲，接著，電腦會隨機將該九首歌曲隨意置放於這九宮格內的任一位置，前兩回合的最高分參賽者，以[猜拳](../Page/猜拳.md "wikilink")決定先攻還是後攻，並開始進行遊戲。
 
 若正在唱歌的參賽者唱對，則可「佔『格』為王」；反之唱錯，則由另外一個對手「自動佔『格』為王」。參賽者必須連成直、橫、斜一線，或是取得五格，即可獲勝，取得獎金資格賽，並保證取得[新台幣五千元的獎金](https://zh.wikipedia.org/wiki/新台幣 "wikilink")；敗者無此資格，並遭淘汰。
 
@@ -70,10 +68,7 @@ Money*克漏字{{〉}}是第二部份的資格賽，製作單位也會隨機選�
 
 ## 抄襲疑雲
 
-有眼尖的網友指出，《Money Money麥克風》的部份陳設內容，以及〈*Money
-Money*克漏字〉兩單元，都疑似抄襲[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家廣播公司節目](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")《歌唱蜜蜂》（*[The
-Singing
-Bee](https://zh.wikipedia.org/wiki/:en:The_Singing_Bee "wikilink")*）\[1\]。
+有眼尖的網友指出，《Money Money麥克風》的部份陳設內容，以及〈*Money Money*克漏字〉兩單元，都疑似抄襲[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家廣播公司節目](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")《歌唱蜜蜂》（*[The Singing Bee](https://zh.wikipedia.org/wiki/:en:The_Singing_Bee "wikilink")*）\[1\]。
 
 ## 註解
 
@@ -86,8 +81,6 @@ Bee](https://zh.wikipedia.org/wiki/:en:The_Singing_Bee "wikilink")*）\[1\]。
   - [麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")
   - [PK](https://zh.wikipedia.org/wiki/PK "wikilink")
 
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:東森電視節目](https://zh.wikipedia.org/wiki/Category:東森電視節目 "wikilink")
+[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:東森電視節目](https://zh.wikipedia.org/wiki/Category:東森電視節目 "wikilink")
 
-1.  [《自由時報》：《麥克瘋》爆抄襲，《大歌星》歡迎跟進](http://www.libertytimes.com.tw/2008/new/jul/17/today-show18.htm)
-    ，2008年8月7日查閱。
+1.  [《自由時報》：《麥克瘋》爆抄襲，《大歌星》歡迎跟進](http://www.libertytimes.com.tw/2008/new/jul/17/today-show18.htm) ，2008年8月7日查閱。

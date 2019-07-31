@@ -1,8 +1,4 @@
-**[DHL年度救援王](../Page/DHL.md "wikilink")**（**DHL Presents the Delivery
-Man Of The Year
-Award**）\[1\]是[美國職棒大聯盟的獎項之一](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")，由美國公司[DHL所贊助](../Page/DHL.md "wikilink")，專門頒給良好表現的[救援投手](https://zh.wikipedia.org/wiki/救援投手 "wikilink")，是一種由球迷投票所產的獎項。這個獎項在2005年第一次頒發，得獎者是[紐約洋基的](../Page/紐約洋基.md "wikilink")[馬里安諾·李维拉](https://zh.wikipedia.org/wiki/馬里安諾·李维拉 "wikilink")，當前的年度得主是在2012年所頒給[坦帕灣光芒的](../Page/坦帕灣光芒.md "wikilink")[費南多·羅尼](../Page/費南多·羅尼.md "wikilink")、單月得主則為[2013年5月所表揚給](../Page/2013年5月.md "wikilink")[匹茲堡海盜的](../Page/匹茲堡海盜.md "wikilink")。其中單月的獎項為**DHL單月救援王**（DHL
-Presents the Delivery Man of the Month
-Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是由[丹尼斯·艾克斯利](../Page/丹尼斯·艾克斯利.md "wikilink")、、和所組成的四人評審小組所選出的。
+**[DHL](../Page/DHL.md "wikilink")年度救援王**（**DHL Presents the Delivery Man Of The Year Award**）\[1\]是[美國職棒大聯盟的獎項之一](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")，由美國公司[DHL](../Page/DHL.md "wikilink")所贊助，專門頒給良好表現的[救援投手](https://zh.wikipedia.org/wiki/救援投手 "wikilink")，是一種由球迷投票所產的獎項。這個獎項在2005年第一次頒發，得獎者是[紐約洋基](../Page/紐約洋基.md "wikilink")的[馬里安諾·李维拉](https://zh.wikipedia.org/wiki/馬里安諾·李维拉 "wikilink")，當前的年度得主是在2012年所頒給[坦帕灣光芒](../Page/坦帕灣光芒.md "wikilink")的[費南多·羅尼](../Page/費南多·羅尼.md "wikilink")、單月得主則為[2013年5月](../Page/2013年5月.md "wikilink")所表揚給[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")的。其中單月的獎項為**DHL單月救援王**（DHL Presents the Delivery Man of the Month Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是由[丹尼斯·艾克斯利](../Page/丹尼斯·艾克斯利.md "wikilink")、、和所組成的四人評審小組所選出的。
 
 ## 年度得主
 
@@ -369,20 +365,12 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 
 ## 註釋
 
-[Category:DHL](https://zh.wikipedia.org/wiki/Category:DHL "wikilink")
-[Category:美國職棒獎項](https://zh.wikipedia.org/wiki/Category:美國職棒獎項 "wikilink")
+[Category:DHL](https://zh.wikipedia.org/wiki/Category:DHL "wikilink") [Category:美國職棒獎項](https://zh.wikipedia.org/wiki/Category:美國職棒獎項 "wikilink")
 
-1.  mlb.im.tv.
-    [紅襪派柏邦獲選DHL年度救援王獎](http://mlb.im.tv/NewsContent.asp?Newsid=2598)．於2008年7月14日查閱
-2.  MLB.com. [Rivera is DHL Delivery Man of the
-    Year](http://mlb.mlb.com/news/article.jsp?ymd=20061024&content_id=1722137&vkey=news_mlb&fext=.jsp&c_id=mlb)．於2007年10月11日查閱
-3.  MLB.com. [Hoffman named winner of the 'DHL Presents the Major League
-    Baseball Delivery Man of the Month Award' for
-    May](http://sandiego.padres.mlb.com/news/press_releases/press_release.jsp?ymd=20050606&content_id=1077885&vkey=pr_sd&fext=.jsp&c_id=sd)
-    ．於2007年10月11日查閱
-4.  [Jenks named June's DHL Delivery
-    Man](http://chicago.whitesox.mlb.com/news/article.jsp?ymd=20060714&content_id=1556648&vkey=news_cws&fext=.jsp&c_id=cws)
-    ．於2007年10月11日查閱
+1.  mlb.im.tv. [紅襪派柏邦獲選DHL年度救援王獎](http://mlb.im.tv/NewsContent.asp?Newsid=2598)．於2008年7月14日查閱
+2.  MLB.com. [Rivera is DHL Delivery Man of the Year](http://mlb.mlb.com/news/article.jsp?ymd=20061024&content_id=1722137&vkey=news_mlb&fext=.jsp&c_id=mlb)．於2007年10月11日查閱
+3.  MLB.com. [Hoffman named winner of the 'DHL Presents the Major League Baseball Delivery Man of the Month Award' for May](http://sandiego.padres.mlb.com/news/press_releases/press_release.jsp?ymd=20050606&content_id=1077885&vkey=pr_sd&fext=.jsp&c_id=sd) ．於2007年10月11日查閱
+4.  [Jenks named June's DHL Delivery Man](http://chicago.whitesox.mlb.com/news/article.jsp?ymd=20060714&content_id=1556648&vkey=news_cws&fext=.jsp&c_id=cws) ．於2007年10月11日查閱
 5.
 6.
 7.

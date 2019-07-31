@@ -1,8 +1,6 @@
 **Aquarium**是[丹麥舞曲團體](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[水叮噹](../Page/水叮噹.md "wikilink")的第一張專輯。
 
-其中包涵了三首曾登上英國排行榜第一的單曲，分別是:「Barbie Girl」、「Doctor Jones」、「Turn Back
-Time」，而「My Oh My」和「Good Morning
-Sunshine」這兩首歌亦擠進了[英國排行榜的前二十](https://zh.wikipedia.org/wiki/英國 "wikilink")。
+其中包涵了三首曾登上英國排行榜第一的單曲，分別是:「Barbie Girl」、「Doctor Jones」、「Turn Back Time」，而「My Oh My」和「Good Morning Sunshine」這兩首歌亦擠進了[英國排行榜的前二十](https://zh.wikipedia.org/wiki/英國 "wikilink")。
 
 專輯則在發行一個月後造成轟動，許多人爭相搶購，全球銷售量高達1000多萬張，榮登全球專輯排行榜第一。
 
@@ -20,8 +18,7 @@ Sunshine」這兩首歌亦擠進了[英國排行榜的前二十](https://zh.wiki
 ### 印尼/丹麥
 
 1.  Didn't I
-2.  Dr. Jones (Molella & Phil Jay Mix) -
-    "Doctor"在此是以簡寫"Dr."呈現，但在曲目5是以完整的文字來表示。
+2.  Dr. Jones (Molella & Phil Jay Mix) - "Doctor"在此是以簡寫"Dr."呈現，但在曲目5是以完整的文字來表示。
 
 ### 丹麥
 
@@ -78,7 +75,4 @@ Sunshine」這兩首歌亦擠進了[英國排行榜的前二十](https://zh.wiki
 |                [英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")                 |        [BPI](https://zh.wikipedia.org/wiki/BPI "wikilink")        | 6  |    白金     |   300,000   |
 |                                   世界榜                                   |                                                                   | 1  |   4x白金    | 10,000,000+ |
 
-[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")
-[Category:水叮噹專輯](https://zh.wikipedia.org/wiki/Category:水叮噹專輯 "wikilink")
-[Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")
-[Category:音樂專輯小作品](https://zh.wikipedia.org/wiki/Category:音樂專輯小作品 "wikilink")
+[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink") [Category:水叮噹專輯](https://zh.wikipedia.org/wiki/Category:水叮噹專輯 "wikilink") [Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink") [Category:音樂專輯小作品](https://zh.wikipedia.org/wiki/Category:音樂專輯小作品 "wikilink")

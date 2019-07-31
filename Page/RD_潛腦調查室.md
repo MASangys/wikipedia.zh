@@ -1,44 +1,28 @@
-《**RD
-潛腦調查室**》為一齣由2008年4月開始於在日本播放的[電視動畫原創作品](../Page/日本電視動畫.md "wikilink")。由[士郎正宗](../Page/士郎正宗.md "wikilink")、[Production
-I.G共同原作的科幻動畫](../Page/Production_I.G.md "wikilink")。RD為「Real
-Drive」的縮寫\[1\]。
+《**RD 潛腦調查室**》為一齣由2008年4月開始於在日本播放的[電視動畫原創作品](../Page/日本電視動畫.md "wikilink")。由[士郎正宗](../Page/士郎正宗.md "wikilink")、[Production I.G共同原作的科幻動畫](../Page/Production_I.G.md "wikilink")。RD為「Real Drive」的縮寫\[1\]。
 
 ## 概要
 
-與同為[Production
-I.G與](../Page/Production_I.G.md "wikilink")[士郎正宗所製作的電視動畫](../Page/士郎正宗.md "wikilink")《[攻殼機動隊
-STAND ALONE
-COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》有共通的設定。
+與同為[Production I.G與](../Page/Production_I.G.md "wikilink")[士郎正宗](../Page/士郎正宗.md "wikilink")所製作的電視動畫《[攻殼機動隊 STAND ALONE COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》有共通的設定。
 
 ## 故事簡介
 
-由士郎正宗與Production
-I.G黃金拍檔再度打造的動畫作品，此作品世界觀和《攻殼機動隊》相通。官方網站雖然沒有解釋「RD」英文的涵義，可是在Production
-I.G站內的英文版情報網頁中，已揭示「RD = Real Drive」這個關鍵字。若是互相對照英文的描述以及《RD
-潛腦調查室》官方網站對於劇情概要的敘述，可以推測「Real
-Drive」在某種程度上是象徵「Meta Real Network」的世界。
+由士郎正宗與Production I.G黃金拍檔再度打造的動畫作品，此作品世界觀和《攻殼機動隊》相通。官方網站雖然沒有解釋「RD」英文的涵義，可是在Production I.G站內的英文版情報網頁中，已揭示「RD = Real Drive」這個關鍵字。若是互相對照英文的描述以及《RD 潛腦調查室》官方網站對於劇情概要的敘述，可以推測「Real Drive」在某種程度上是象徵「Meta Real Network」的世界。
 
-西元2061年，也就是人類構築網路社會已達半世紀之久。即使人類意識能夠透過網路而無礙地溝通交流、生化軀體的活用已經達到成熟顛峰，但是由生化人以及網路駭客所發起的新型態犯罪仍然無法根絕。有鑒於此，一個強化網路安全性的嶄新網路架構「Meta
-Real Network」（日文簡稱Metal）便應運而生。Metal能夠藉由自身的有機電腦防火牆「Bubble
-Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但另一方面，在Metal中竟開始發生了人類透過記憶來解放本能、釋放欲望的新式犯罪行為。為了消滅這個新犯罪模式，一種專門調查機構及其專屬探員「電腦Diver」出現了！整部動畫將透過劇中主角電腦Diver－波留真理的視點，一方面解決一連串的Metal犯罪，一方面來深入故事核心。
+西元2061年，也就是人類構築網路社會已達半世紀之久。即使人類意識能夠透過網路而無礙地溝通交流、生化軀體的活用已經達到成熟顛峰，但是由生化人以及網路駭客所發起的新型態犯罪仍然無法根絕。有鑒於此，一個強化網路安全性的嶄新網路架構「Meta Real Network」（日文簡稱Metal）便應運而生。Metal能夠藉由自身的有機電腦防火牆「Bubble Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但另一方面，在Metal中竟開始發生了人類透過記憶來解放本能、釋放欲望的新式犯罪行為。為了消滅這個新犯罪模式，一種專門調查機構及其專屬探員「電腦Diver」出現了！整部動畫將透過劇中主角電腦Diver－波留真理的視點，一方面解決一連串的Metal犯罪，一方面來深入故事核心。
 
 ## 出場人物
 
   -
-    本作男主角，以前是擅長[自由潛海](https://zh.wikipedia.org/wiki/自由潛海 "wikilink")（Free
-    Diving）的專業[潛水員](https://zh.wikipedia.org/wiki/潛水員 "wikilink")，是一位生於1980年4月1日的老人。在2012年進行的一次觀測實驗中被捲進「海燃燒」現象，因而發生了嚴重的意外，此事件令波留喪失意識長達50年。已接受電子腦，在真實的世界正是一位81歲的坐在輪椅上生活的老人家，必需依賴水面和赫倫的照顧。但在電子腦的世界裡（即Metal裡），卻是行動自如且身手不凡的電腦Diver。在進行潛腦活動時，會回復成50年前年輕時候的姿態。第一人稱是「我」（日文作）。
+    本作男主角，以前是擅長[自由潛海](https://zh.wikipedia.org/wiki/自由潛海 "wikilink")（Free Diving）的專業[潛水員](https://zh.wikipedia.org/wiki/潛水員 "wikilink")，是一位生於1980年4月1日的老人。在2012年進行的一次觀測實驗中被捲進「海燃燒」現象，因而發生了嚴重的意外，此事件令波留喪失意識長達50年。已接受電子腦，在真實的世界正是一位81歲的坐在輪椅上生活的老人家，必需依賴水面和赫倫的照顧。但在電子腦的世界裡（即Metal裡），卻是行動自如且身手不凡的電腦Diver。在進行潛腦活動時，會回復成50年前年輕時候的姿態。第一人稱是「我」（日文作）。
     在那次人工島發生「海燃燒」現象而令至全島停電的時候，因為與水面一起解決了停電事件，因而成為電理研的特殊調查人員。
-    「波留真理」這個名字，原應讀作「Haru Masamichi」（男性化的名字），但時常被誤讀作「Haru
-    Mari」（日文讀音為「」；日本常有女子以「真理」作為名字，此時「真理」的發音為「Mari」，而非「Masamichi」），因而時常被誤會為女性，直到水面她們看見了本人，才相信波留是位男性。沙也加和雪乃也因為名字的問題一直稱呼波留為「Haru
-    Mari」（女性化的名字）。
+    「波留真理」這個名字，原應讀作「Haru Masamichi」（男性化的名字），但時常被誤讀作「Haru Mari」（日文讀音為「」；日本常有女子以「真理」作為名字，此時「真理」的發音為「Mari」，而非「Masamichi」），因而時常被誤會為女性，直到水面她們看見了本人，才相信波留是位男性。沙也加和雪乃也因為名字的問題一直稱呼波留為「Haru Mari」（女性化的名字）。
     最终获得“海”的力量，恢复了年轻的身体
 
 <!-- end list -->
 
   -
     本作女主角，15歲的中學生。生於2045年7月21日。
-    在那次人工島發生「海燃燒」現象而令至全島停電的時候，因為幫忙波留解決停電事件，因而成為波留的Buddy（電理研的工作人員，專門負責照顧電腦Diver並對腦潛的工作提供協助）。強烈地想以Buddy的身份待命在波留身邊，好好地做好Buddy的工作。好奇心很強，一旦遇上有興趣的事情，便會有一頭栽進去的傾向。身體的運動能力很高，甚至可以跟上[程式設計的](https://zh.wikipedia.org/wiki/程式設計 "wikilink")[仿生機械人](https://zh.wikipedia.org/wiki/仿生人 "wikilink")（Android）的動作能力，能穿著[暴走鞋](https://zh.wikipedia.org/wiki/暴走鞋 "wikilink")（roller
-    skate）在難以立足之處疾跑。但是，在[澳大利亞內陸成長的水面好像並不擅長游泳](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")。討厭[青椒](https://zh.wikipedia.org/wiki/青椒 "wikilink")，說話帶點幼稚的感覺。沒有進行義體化和電腦化。被沙也加愛稱為「妮雅茉」（Nyamo，日文原文為「」；這名稱是日本[四格漫畫作品](../Page/四格漫畫.md "wikilink")[笑園漫畫大王的簡稱](../Page/笑園漫畫大王.md "wikilink")）。
+    在那次人工島發生「海燃燒」現象而令至全島停電的時候，因為幫忙波留解決停電事件，因而成為波留的Buddy（電理研的工作人員，專門負責照顧電腦Diver並對腦潛的工作提供協助）。強烈地想以Buddy的身份待命在波留身邊，好好地做好Buddy的工作。好奇心很強，一旦遇上有興趣的事情，便會有一頭栽進去的傾向。身體的運動能力很高，甚至可以跟上[程式設計的](https://zh.wikipedia.org/wiki/程式設計 "wikilink")[仿生機械人](https://zh.wikipedia.org/wiki/仿生人 "wikilink")（Android）的動作能力，能穿著[暴走鞋](https://zh.wikipedia.org/wiki/暴走鞋 "wikilink")（roller skate）在難以立足之處疾跑。但是，在[澳大利亞內陸成長的水面好像並不擅長游泳](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")。討厭[青椒](https://zh.wikipedia.org/wiki/青椒 "wikilink")，說話帶點幼稚的感覺。沒有進行義體化和電腦化。被沙也加愛稱為「妮雅茉」（Nyamo，日文原文為「」；這名稱是日本[四格漫畫](../Page/四格漫畫.md "wikilink")作品[笑園漫畫大王](../Page/笑園漫畫大王.md "wikilink")的簡稱）。
     极度仰慕波留真理，即使對方是个81岁的老人。
 
 <!-- end list -->
@@ -49,8 +33,7 @@ Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但
     擅长料理，家事万能，理想是追求格斗的和谐性。一直与秘书长高波保持“暧昧”关系，后倾心于holon赫倫，在御姐恋人机恋中选择了AI……
 
   -
-    以秘书长高波（人工岛第一公主）为原型制作的AI（片中意思是女性AI是以让男性觉得舒适的外貌建造的，并且一般不会拒绝男人的任何邀请），称波留真理（称其为主人），在与蒼井颯太的格斗技研修中发展出了超
-    友谊关系。
+    以秘书长高波（人工岛第一公主）为原型制作的AI（片中意思是女性AI是以让男性觉得舒适的外貌建造的，并且一般不会拒绝男人的任何邀请），称波留真理（称其为主人），在与蒼井颯太的格斗技研修中发展出了超 友谊关系。
 
   -
 
@@ -65,12 +48,10 @@ Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但
 
 ## 工作人員
 
-  - 原著：[士郎正宗](../Page/士郎正宗.md "wikilink")、[Production
-    I.G](../Page/Production_I.G.md "wikilink")
+  - 原著：[士郎正宗](../Page/士郎正宗.md "wikilink")、[Production I.G](../Page/Production_I.G.md "wikilink")
   - 原著協作：Crossroad
   - 監督：[古橋一浩](../Page/古橋一浩.md "wikilink")
-  - 企劃：奧田誠治（[NTV](https://zh.wikipedia.org/wiki/NTV "wikilink")）、平山博志（[VAP](../Page/VAP.md "wikilink")）、石川光久（[Production
-    I.G](../Page/Production_I.G.md "wikilink")）
+  - 企劃：奧田誠治（[NTV](https://zh.wikipedia.org/wiki/NTV "wikilink")）、平山博志（[VAP](../Page/VAP.md "wikilink")）、石川光久（[Production I.G](../Page/Production_I.G.md "wikilink")）
   - 監製：中谷敏夫（NTV）、笠原陽介（NTV）、植田泰生（VAP）、和田丈嗣（Production I.G）
   - 系列構成：藤咲淳一
   - 人物設定：上山徹郎
@@ -92,23 +73,19 @@ Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但
   - 助理監製：小林三紀子
   - 動畫監製：中武哲也
   - 製作：[Production I.G](../Page/Production_I.G.md "wikilink")
-  - 製作、著作：[RD
-    潛腦調査室製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、D.N.
-    Dream Partner、VAP、Production I.G）
+  - 製作、著作：[RD 潛腦調査室製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、D.N. Dream Partner、VAP、Production I.G）
 
 ## 主題曲
 
 ### 片頭曲
 
   - 「[Wanderland](https://zh.wikipedia.org/wiki/Supernova/Wanderland "wikilink")」
-    作詞 - 菅原卓郎 / 作曲 - 滝善充 / 歌 - [9mm Parabellum
-    Bullet](https://zh.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")（[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")）
+    作詞 - 菅原卓郎 / 作曲 - 滝善充 / 歌 - [9mm Parabellum Bullet](https://zh.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")（[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")）
 
 ### 片尾曲
 
   - 「」
-    作詞・作曲 - 松村孝彦 / 歌 - [LAST
-    ALLIANCE](https://zh.wikipedia.org/wiki/LAST_ALLIANCE "wikilink")（[VAP](../Page/VAP.md "wikilink")）
+    作詞・作曲 - 松村孝彦 / 歌 - [LAST ALLIANCE](https://zh.wikipedia.org/wiki/LAST_ALLIANCE "wikilink")（[VAP](../Page/VAP.md "wikilink")）
 
 ### 插入曲
 
@@ -524,9 +501,7 @@ i</p></td>
 
   - 漫畫版
 
-該動畫改編的，由[Production
-I.G和](../Page/Production_I.G.md "wikilink")[士郎正宗擔任原作](../Page/士郎正宗.md "wikilink")、宮野桃太郎作畫的[漫畫在](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2008年4月26日發售的講談社雜誌《月刊
-Magazine Z》2008年6月號開始連載\[2\]。
+該動畫改編的，由[Production I.G和](../Page/Production_I.G.md "wikilink")[士郎正宗](../Page/士郎正宗.md "wikilink")擔任原作、宮野桃太郎作畫的[漫畫在](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2008年4月26日發售的講談社雜誌《月刊 Magazine Z》2008年6月號開始連載\[2\]。
 
 ## 參考文獻
 
@@ -538,25 +513,11 @@ Magazine Z》2008年6月號開始連載\[2\]。
 
   - [官方網站](http://www.ntv.co.jp/RD/)
 
-  - [Production I.G
-    作品介紹網頁](https://web.archive.org/web/20120708041601/http://www.production-ig.co.jp/contents/works_sp/1740_/index.html)
+  - [Production I.G 作品介紹網頁](https://web.archive.org/web/20120708041601/http://www.production-ig.co.jp/contents/works_sp/1740_/index.html)
 
-  - [GyaO
-    潛腦調查室特集網頁](https://web.archive.org/web/20080621144038/http://www.gyao.jp/anime/rd/)
+  - [GyaO 潛腦調查室特集網頁](https://web.archive.org/web/20080621144038/http://www.gyao.jp/anime/rd/)
 
-[Category:2008年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2008年日本電視動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink")
-[Category:賽博格題材動畫](https://zh.wikipedia.org/wiki/Category:賽博格題材動畫 "wikilink")
-[Category:自主機器人題材動畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材動畫 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink")
-[Category:2061年背景作品](https://zh.wikipedia.org/wiki/Category:2061年背景作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2008年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2008年日本電視動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink") [Category:賽博格題材動畫](https://zh.wikipedia.org/wiki/Category:賽博格題材動畫 "wikilink") [Category:自主機器人題材動畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材動畫 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink") [Category:2061年背景作品](https://zh.wikipedia.org/wiki/Category:2061年背景作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.  <http://www.productionig.com/contents/works_sp/62_/s01_/000757.html>
 2.

@@ -1,13 +1,8 @@
-[Photo-Polyswitch.jpg](https://zh.wikipedia.org/wiki/File:Photo-Polyswitch.jpg "fig:Photo-Polyswitch.jpg")
-**PPTC**（Polymeric Positive Temperature
-Coefficient\[1\]），即**[高分子](../Page/高分子.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")正系数温度元件**。又稱**可復式保險絲**（Resettable
-Fuse）或**聚合物保险丝**（Polyfuse），在[中国大陆](../Page/中国大陆.md "wikilink")的电子业界俗称**自恢复保险丝**或**过流保护片**。在西方电子业界多称为Polyswitch，这是的产品商标。
+[Photo-Polyswitch.jpg](https://zh.wikipedia.org/wiki/File:Photo-Polyswitch.jpg "fig:Photo-Polyswitch.jpg") **PPTC**（Polymeric Positive Temperature Coefficient\[1\]），即**[高分子](../Page/高分子.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")正系数温度元件**。又稱**可復式保險絲**（Resettable Fuse）或**聚合物保险丝**（Polyfuse），在[中国大陆](../Page/中国大陆.md "wikilink")的电子业界俗称**自恢复保险丝**或**过流保护片**。在西方电子业界多称为Polyswitch，这是的产品商标。
 
 ## 歷史與市場
 
-PPTC是美商Raychem（现已经并入Tyco
-Elelctronics）在1981年发明，主要应用在[电池](../Page/电池.md "wikilink")、[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")、[电机](https://zh.wikipedia.org/wiki/电机 "wikilink")、[通讯行业的过电流保护上](https://zh.wikipedia.org/wiki/通讯 "wikilink")。目前全球的年市场规模大约4亿美元。其中Tyco
-Elelctronics市场占有率约65%-70%。
+PPTC是美商Raychem（现已经并入Tyco Elelctronics）在1981年发明，主要应用在[电池](../Page/电池.md "wikilink")、[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")、[电机](https://zh.wikipedia.org/wiki/电机 "wikilink")、[通讯行业的过电流保护上](https://zh.wikipedia.org/wiki/通讯 "wikilink")。目前全球的年市场规模大约4亿美元。其中Tyco Elelctronics市场占有率约65%-70%。
 
 ## 材料與作用機制
 
@@ -51,6 +46,5 @@ PPTC主要的供应商與他們對可復式保險絲所使用的商標或註冊�
 
 [Category:電子元件](https://zh.wikipedia.org/wiki/Category:電子元件 "wikilink")
 
-1.  此處依據 Tyco 公司的稱呼。 Polymeric 是 Polymer的形容詞，也有寫作 Polymer Positive
-    Temperature Coefficent 的。
+1.  此處依據 Tyco 公司的稱呼。 Polymeric 是 Polymer的形容詞，也有寫作 Polymer Positive Temperature Coefficent 的。
 2.  [PPTC 技術介紹（英文，附動畫）](http://www.pttc.com.tw/ocp_technology.aspx)

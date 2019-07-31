@@ -81,8 +81,7 @@
 
   - [刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")（[西尾維新](../Page/西尾維新.md "wikilink")/[竹](../Page/竹_\(插畫家\).md "wikilink")）※大河小說2007（全12卷）
   - [傷物語](../Page/傷物語.md "wikilink")（西尾維新/[VOFAN](../Page/VOFAN.md "wikilink")）
-  - [Classical Fantasy
-    Within](https://zh.wikipedia.org/wiki/Classical_Fantasy_Within "wikilink")（[島田莊司](../Page/島田莊司.md "wikilink")/[士郎正宗](../Page/士郎正宗.md "wikilink")）※大河小說2008（予定全12卷）
+  - [Classical Fantasy Within](https://zh.wikipedia.org/wiki/Classical_Fantasy_Within "wikilink")（[島田莊司](../Page/島田莊司.md "wikilink")/[士郎正宗](../Page/士郎正宗.md "wikilink")）※大河小說2008（予定全12卷）
   - [四方世界の王](https://zh.wikipedia.org/wiki/四方世界の王 "wikilink")（[定金伸治](https://zh.wikipedia.org/wiki/定金伸治 "wikilink")/[記伊孝](https://zh.wikipedia.org/wiki/記伊孝 "wikilink")）※大河小說2009（予定全12卷）
   - [島田荘司veryBEST10](https://zh.wikipedia.org/wiki/島田荘司veryBEST10 "wikilink")（島田莊司）※2冊組
   - [DDD](https://zh.wikipedia.org/wiki/DDD_\(小説\) "wikilink")（[奈須磨菇](https://zh.wikipedia.org/wiki/奈須磨菇 "wikilink")/[小山廣和](../Page/小山廣和.md "wikilink")）※系列作品（予定全4卷）
@@ -91,37 +90,26 @@
   - [貓物語](../Page/貓物語.md "wikilink")（西尾維新/VOFAN）※黑白卷
   - [花散里](https://zh.wikipedia.org/wiki/花散里_\(小説\) "wikilink")（[針谷卓史](https://zh.wikipedia.org/wiki/針谷卓史 "wikilink")/[撫子凛](https://zh.wikipedia.org/wiki/撫子凛 "wikilink")）
   - [真庭語](https://zh.wikipedia.org/wiki/真庭語 "wikilink")（西尾維新/竹）
-  - [428
-    〜封鎖された渋谷で〜](https://zh.wikipedia.org/wiki/428_〜封鎖された渋谷で〜#小説版「428」 "wikilink")（原作：[チュンソフト](https://zh.wikipedia.org/wiki/チュンソフト "wikilink")、執筆：[北島行徳](https://zh.wikipedia.org/wiki/北島行徳 "wikilink")/N村）※系列作品（全4卷）
+  - [428 〜封鎖された渋谷で〜](https://zh.wikipedia.org/wiki/428_〜封鎖された渋谷で〜#小説版「428」 "wikilink")（原作：[チュンソフト](https://zh.wikipedia.org/wiki/チュンソフト "wikilink")、執筆：[北島行徳](https://zh.wikipedia.org/wiki/北島行徳 "wikilink")/N村）※系列作品（全4卷）
   - [ひぐらしのなく頃に](https://zh.wikipedia.org/wiki/ひぐらしのなく頃に "wikilink")（竜騎士07/ともひ）※系列作品（全7卷）
-  - [ひぐらしのなく頃に
-    解](https://zh.wikipedia.org/wiki/ひぐらしのなく頃に_解 "wikilink")（竜騎士07/ともひ）※系列作品（全9卷）
-  - [ひぐらしのなく頃に
-    礼](https://zh.wikipedia.org/wiki/ひぐらしのなく頃に_礼 "wikilink")（竜騎士07/ともひ）（全1卷）
+  - [ひぐらしのなく頃に 解](https://zh.wikipedia.org/wiki/ひぐらしのなく頃に_解 "wikilink")（竜騎士07/ともひ）※系列作品（全9卷）
+  - [ひぐらしのなく頃に 礼](https://zh.wikipedia.org/wiki/ひぐらしのなく頃に_礼 "wikilink")（竜騎士07/ともひ）（全1卷）
   - [うみねこのなく頃に](https://zh.wikipedia.org/wiki/うみねこのなく頃に "wikilink")（竜騎士07/ともひ）※系列作品（全8卷）
-  - [K
-    赤之王國](https://zh.wikipedia.org/wiki/K_赤之王國 "wikilink")（来楽零(GoRA)/鈴木信吾(GoHands)）
-  - [K
-    青之事件簿](https://zh.wikipedia.org/wiki/K_青之事件簿 "wikilink")（宮沢龍生（GoRA）/鈴木次郎）※上下卷
-  - [K
-    R：B](https://zh.wikipedia.org/wiki/K_R：B "wikilink")（あざの耕平(GoRA)/鈴木信吾(GoHands)）
-  - [K -Lost Small
-    World-](https://zh.wikipedia.org/wiki/K_-Lost_Small_World- "wikilink")（壁井有可子（GoRA）/鈴木信吾(GoHands)）
-  - [K SIDE：BLACK &
-    WHITE](https://zh.wikipedia.org/wiki/K_SIDE：BLACK_&_WHITE "wikilink")（宮沢龍生(GoRA)/鈴木信吾(GoHands)）
-  - [K
-    SIDE:RED](https://zh.wikipedia.org/wiki/K_SIDE:RED "wikilink")（来楽零(GoRA)/鈴木信吾(GoHands)）
-  - [K
-    SIDE：BLUE](https://zh.wikipedia.org/wiki/K_SIDE：BLUE "wikilink")（古橋秀之(GoRA)/鈴木信吾(GoHands)）
+  - [K 赤之王國](https://zh.wikipedia.org/wiki/K_赤之王國 "wikilink")（来楽零(GoRA)/鈴木信吾(GoHands)）
+  - [K 青之事件簿](https://zh.wikipedia.org/wiki/K_青之事件簿 "wikilink")（宮沢龍生（GoRA）/鈴木次郎）※上下卷
+  - [K R：B](https://zh.wikipedia.org/wiki/K_R：B "wikilink")（あざの耕平(GoRA)/鈴木信吾(GoHands)）
+  - [K -Lost Small World-](https://zh.wikipedia.org/wiki/K_-Lost_Small_World- "wikilink")（壁井有可子（GoRA）/鈴木信吾(GoHands)）
+  - [K SIDE：BLACK & WHITE](https://zh.wikipedia.org/wiki/K_SIDE：BLACK_&_WHITE "wikilink")（宮沢龍生(GoRA)/鈴木信吾(GoHands)）
+  - [K SIDE:RED](https://zh.wikipedia.org/wiki/K_SIDE:RED "wikilink")（来楽零(GoRA)/鈴木信吾(GoHands)）
+  - [K SIDE：BLUE](https://zh.wikipedia.org/wiki/K_SIDE：BLUE "wikilink")（古橋秀之(GoRA)/鈴木信吾(GoHands)）
 
 ##
 
-可以說是精裝版的講談社BOX。使用較昂貴但精美的裝訂方式。第一系列為[佐藤友哉的](../Page/佐藤友哉.md "wikilink")《》。第二系列為西尾維新的《》與《》，同時發售BOX版和版。
+可以說是精裝版的講談社BOX。使用較昂貴但精美的裝訂方式。第一系列為[佐藤友哉](../Page/佐藤友哉.md "wikilink")的《》。第二系列為西尾維新的《》與《》，同時發售BOX版和版。
 
 ## 关联条目
 
   - [浮文誌](https://zh.wikipedia.org/wiki/浮文誌 "wikilink")
   - [最前线](../Page/最前线.md "wikilink")
 
-[Category:講談社BOX](https://zh.wikipedia.org/wiki/Category:講談社BOX "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
+[Category:講談社BOX](https://zh.wikipedia.org/wiki/Category:講談社BOX "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")

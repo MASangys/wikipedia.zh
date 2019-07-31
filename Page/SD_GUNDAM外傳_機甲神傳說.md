@@ -1,5 +1,4 @@
-**SD高達外傳
-機甲神傳說**是SD高達外傳第四作，以「機動戰士．影子方程式」以及「高達0083．星塵之回憶」為主要角色藍本。故事圍統神秘騎士新高達以及其兄長月神高達、以及傳說中六部機甲神，對抗被捷古自謢附身的騎士GP02。
+**SD高達外傳 機甲神傳說**是SD高達外傳第四作，以「機動戰士．影子方程式」以及「高達0083．星塵之回憶」為主要角色藍本。故事圍統神秘騎士新高達以及其兄長月神高達、以及傳說中六部機甲神，對抗被捷古自謢附身的騎士GP02。
 
 而本作主要是惡搞「[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")」以及「[六神合體](../Page/六神合體.md "wikilink")」的人物設定。
 
@@ -11,7 +10,7 @@
 
 達巴斯王國附近，被騎士高達GP01拯救的失憶騎士，實際上是由已滅亡的月之國，乘著機甲神「蓋亞」逃亡的王子。為解開僅有記憶「6」之謎團，展開搜索機甲神之旅。
 
-角色相對為[六神合體主角明神武](../Page/六神合體.md "wikilink")(明神タケル)。
+角色相對為[六神合體](../Page/六神合體.md "wikilink")主角明神武(明神タケル)。
 
 專用機兵：機甲神蓋亞、超機甲神創世主（Gun-Genesis）
 
@@ -19,16 +18,15 @@
 
 新高達的孿生兄長，以幪面騎士（仮面騎士）身份，潛入度拉斯王國，同時又以薔薇騎士身份，暗中協助新高達。
 
-薔薇騎士，原型為「[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")」角色「禮服幪面俠」。而孿生兄長身份，角色相對為[六神合體的馬古](../Page/六神合體.md "wikilink")（マーグ）
+薔薇騎士，原型為「[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")」角色「禮服幪面俠」。而孿生兄長身份，角色相對為[六神合體](../Page/六神合體.md "wikilink")的馬古（マーグ）
 
 #### 機甲神
 
-**神秘機兵．傳說蓋亞(EL-GAIA/エルガイヤー)**([Z
-Gundam](https://zh.wikipedia.org/wiki/MSZ-006 "wikilink"))
+**神秘機兵．傳說蓋亞(EL-GAIA/エルガイヤー)**([Z Gundam](https://zh.wikipedia.org/wiki/MSZ-006 "wikilink"))
 
 超機甲神核心、出現在喪失記憶的新高達面前，掌握著「6」的關鍵。
 
-相對為[六神合體的蓋亞](../Page/六神合體.md "wikilink")(GAIA)，名稱エルガイヤー是由[重戰機主角機體亞路加](../Page/重戰機.md "wikilink")(エルガイム)與蓋亞(ガイヤー)的名字所組成。
+相對為[六神合體](../Page/六神合體.md "wikilink")的蓋亞(GAIA)，名稱エルガイヤー是由[重戰機](../Page/重戰機.md "wikilink")主角機體亞路加(エルガイム)與蓋亞(ガイヤー)的名字所組成。
 
 必殺﹕悲哀的亂舞(パトスグランジ)
 
@@ -38,7 +36,7 @@ Gundam](https://zh.wikipedia.org/wiki/MSZ-006 "wikilink"))
 
 佛萊蒙村(Flemmen/フレメン村)中尊崇的守護神像，實際上是水晶之機甲神、超機甲神右腕，可以自由控制空氣。
 
-相對為[六神合體的泰坦](../Page/六神合體.md "wikilink")(Titan)
+相對為[六神合體](../Page/六神合體.md "wikilink")的泰坦(Titan)
 
 武器﹕
 
@@ -46,23 +44,23 @@ Gundam](https://zh.wikipedia.org/wiki/MSZ-006 "wikilink"))
 
 單行本中在亞弗龍山(アバロン山)所在的大湖中沉睡、水的機甲神、超機甲神右腳。
 
-相對為[六神合體的琴](../Page/六神合體.md "wikilink")(Sin)
+相對為[六神合體](../Page/六神合體.md "wikilink")的琴(Sin)
 
 **黃火之機甲神．火星喬利阿蘇(マーキュリアス)**(Z-Plus A1)
 
 單行本中在亞弗龍山(アバロン山)所在的火山口沉睡、炎的機甲神、超機甲神左腳。
 
-相對為[六神合體的莢](../Page/六神合體.md "wikilink")(Ra)
+相對為[六神合體](../Page/六神合體.md "wikilink")的莢(Ra)
 
 **綠樹之機甲神．木星尼魯蘇(緑樹の機甲神ジュピタリアス)**(PSYCO GUNDAM MK-II)
 
 代表樹木的機甲神、超機甲神左腕，唯一由度拉斯軍發現，並在後來改造成死機兵毒蛇之影(死機兵エビルシャドウ)。
 
-相對為[六神合體的烏拉尼斯](../Page/六神合體.md "wikilink")(Uranus)
+相對為[六神合體](../Page/六神合體.md "wikilink")的烏拉尼斯(Uranus)
 
 **黑地之機甲神．擊加泰斯/天海王星**(黒地の機甲神ギガンティス)(GUNTANK R-44)
 
-相對為[六神合體的獅身人面](../Page/六神合體.md "wikilink")(Sphinx)
+相對為[六神合體](../Page/六神合體.md "wikilink")的獅身人面(Sphinx)
 
 封印在孤島、代表大地的機甲神，也是超機甲神身體，可收納傳說蓋亞。
 
@@ -225,8 +223,7 @@ Gundam](https://zh.wikipedia.org/wiki/MSZ-006 "wikilink"))
 
 ## 參考書目
 
-  - 單行本「SD高達外傳
-    機甲神傳說」（[ほしの竜一著](https://zh.wikipedia.org/wiki/ほしの竜一 "wikilink")）
+  - 單行本「SD高達外傳 機甲神傳說」（[ほしの竜一著](https://zh.wikipedia.org/wiki/ほしの竜一 "wikilink")）
 
 <!-- end list -->
 
@@ -239,14 +236,11 @@ Gundam](https://zh.wikipedia.org/wiki/MSZ-006 "wikilink"))
 ## 相關連結
 
   - [SD高達外傳](https://zh.wikipedia.org/wiki/SD高達外傳 "wikilink")
-  - [SD高達外傳
-    圓桌騎士編](https://zh.wikipedia.org/wiki/SD高達外傳_圓桌騎士編 "wikilink")
-  - [SD高達外傳
-    聖機兵物語](https://zh.wikipedia.org/wiki/SD高達外傳_聖機兵物語 "wikilink")
+  - [SD高達外傳 圓桌騎士編](https://zh.wikipedia.org/wiki/SD高達外傳_圓桌騎士編 "wikilink")
+  - [SD高達外傳 聖機兵物語](https://zh.wikipedia.org/wiki/SD高達外傳_聖機兵物語 "wikilink")
 
 ## 參見
 
   - [SD GUNDAM系列](../Page/SD_GUNDAM系列.md "wikilink")
 
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")
+[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")

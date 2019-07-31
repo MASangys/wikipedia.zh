@@ -16,20 +16,8 @@
 
 ## 外部連結
 
-  - [*Time to
-    Destination*](https://web.archive.org/web/20060112053132/http://avexnet.jp/item/every/disc/product/AVCD-11643.html)
-    information at [Avex
-    Network](https://zh.wikipedia.org/wiki/AVEX_Records "wikilink").
-  - [*Time to
-    Destination*](http://www.oricon.co.jp/music/release/d/44879/1/)
-    information at [Oricon](../Page/Oricon.md "wikilink").
-  - [*Time to Destination*](http://mora.jp/package/80307944/AVCD-11643/)
-    information at Mora.jp (song length)
+  - [*Time to Destination*](https://web.archive.org/web/20060112053132/http://avexnet.jp/item/every/disc/product/AVCD-11643.html) information at [Avex Network](https://zh.wikipedia.org/wiki/AVEX_Records "wikilink").
+  - [*Time to Destination*](http://www.oricon.co.jp/music/release/d/44879/1/) information at [Oricon](../Page/Oricon.md "wikilink").
+  - [*Time to Destination*](http://mora.jp/package/80307944/AVCD-11643/) information at Mora.jp (song length)
 
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:小事樂團音樂專輯](https://zh.wikipedia.org/wiki/Category:小事樂團音樂專輯 "wikilink")
-[Category:日本唱片大獎專輯大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:日本唱片大獎專輯大獎獲獎作品 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:1998年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:1998年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:小事樂團音樂專輯](https://zh.wikipedia.org/wiki/Category:小事樂團音樂專輯 "wikilink") [Category:日本唱片大獎專輯大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:日本唱片大獎專輯大獎獲獎作品 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:1998年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯月榜冠軍作品 "wikilink") [Category:1998年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯週榜冠軍作品 "wikilink")

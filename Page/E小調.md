@@ -1,6 +1,6 @@
 **e小調**是一個於E音開始的音樂的[小調](https://zh.wikipedia.org/wiki/小調 "wikilink")，調號以1個[升號表示](https://zh.wikipedia.org/wiki/升號 "wikilink")，自由小調中的組成的音有E、F、G、A、B、C、D及E。
 
-當e小調以[和聲小調顯現時](https://zh.wikipedia.org/wiki/和聲小調 "wikilink")，[導音D會變成D](../Page/導音.md "wikilink")，而在[旋律小調上](https://zh.wikipedia.org/wiki/旋律小調 "wikilink")，上行[下中音和導音均會升高為C](../Page/下中音.md "wikilink")及D．下行時則還原。
+當e小調以[和聲小調顯現時](https://zh.wikipedia.org/wiki/和聲小調 "wikilink")，[導音](../Page/導音.md "wikilink")D會變成D，而在[旋律小調上](https://zh.wikipedia.org/wiki/旋律小調 "wikilink")，上行[下中音](../Page/下中音.md "wikilink")和導音均會升高為C及D．下行時則還原。
 
 它的相對大調是[G大調](https://zh.wikipedia.org/wiki/G大調 "wikilink")，並行大調是[E大調](https://zh.wikipedia.org/wiki/E大調 "wikilink")。
 
@@ -50,8 +50,6 @@ e小調是一個頗常見的調號，因此有不少著名作品都是以此為�
   - [佛漢·威廉士](https://zh.wikipedia.org/wiki/佛漢·威廉士 "wikilink")：[第6號交響曲](https://zh.wikipedia.org/wiki/e小調交響曲_\(佛漢·威廉士\) "wikilink")
   - [韋華第](https://zh.wikipedia.org/wiki/韋華第 "wikilink")：巴松管協奏曲，RV 484
 
-[E_natural_minor_scale_ascending_and_descending.png](https://zh.wikipedia.org/wiki/File:E_natural_minor_scale_ascending_and_descending.png "fig:E_natural_minor_scale_ascending_and_descending.png")
-[E_harmonic_minor_scale_ascending_and_descending.png](https://zh.wikipedia.org/wiki/File:E_harmonic_minor_scale_ascending_and_descending.png "fig:E_harmonic_minor_scale_ascending_and_descending.png")
-[E_melodic_minor_scale_ascending_and_descending.png](https://zh.wikipedia.org/wiki/File:E_melodic_minor_scale_ascending_and_descending.png "fig:E_melodic_minor_scale_ascending_and_descending.png")
+[E_natural_minor_scale_ascending_and_descending.png](https://zh.wikipedia.org/wiki/File:E_natural_minor_scale_ascending_and_descending.png "fig:E_natural_minor_scale_ascending_and_descending.png") [E_harmonic_minor_scale_ascending_and_descending.png](https://zh.wikipedia.org/wiki/File:E_harmonic_minor_scale_ascending_and_descending.png "fig:E_harmonic_minor_scale_ascending_and_descending.png") [E_melodic_minor_scale_ascending_and_descending.png](https://zh.wikipedia.org/wiki/File:E_melodic_minor_scale_ascending_and_descending.png "fig:E_melodic_minor_scale_ascending_and_descending.png")
 
 [Category:調](https://zh.wikipedia.org/wiki/Category:調 "wikilink")

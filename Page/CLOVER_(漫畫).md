@@ -4,8 +4,7 @@
 
 如同書名意義"四葉草"，本故事分成4個章節。 第一、二集是第一章，第三集是第二章，第四集是第三章，第五、六集（未出版）是第四章。
 
-第一、二集：
-白花苜蓿計畫：把能使用「魔法」的孩子，由政府從全國中找出來做測試。葉片數每增加一片，力量就愈強大，葉片數少者無法感覺出比自己葉片數多的人的存在和力量，多者卻可以掌握葉片數少者的能力和位置。
+第一、二集： 白花苜蓿計畫：把能使用「魔法」的孩子，由政府從全國中找出來做測試。葉片數每增加一片，力量就愈強大，葉片數少者無法感覺出比自己葉片數多的人的存在和力量，多者卻可以掌握葉片數少者的能力和位置。
 
 女主角蘇是被稱為四片葉的魔法孩子，擁有超強的魔力，所以一直是孤單一人。他拜託魔導師讓他去“妖精遊樂園”，而護送蘇的人是退役軍人和彥。
 
@@ -34,8 +33,7 @@
 
 ## 映畫版
 
-與『[庫洛魔法使劇場版](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")』同時播映。2007年5月25日，與DVD「[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")
-THE MOVIE COLLECTION同時發行。\[1\]
+與『[庫洛魔法使劇場版](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")』同時播映。2007年5月25日，與DVD「[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink") THE MOVIE COLLECTION同時發行。\[1\]
 
 1999年8月21日公開。5分鐘。
 
@@ -50,8 +48,7 @@ THE MOVIE COLLECTION同時發行。\[1\]
   - 音響效果：[倉橋静男](https://zh.wikipedia.org/wiki/サウンドボックス "wikilink")
   - 音樂：[橋本一子](https://zh.wikipedia.org/wiki/橋本一子 "wikilink")
   - [アニメーション制作](https://zh.wikipedia.org/wiki/アニメ制作会社 "wikilink")：[マッドハウス](https://zh.wikipedia.org/wiki/マッドハウス "wikilink")
-  - 聲優:
-    [小沢寿美恵](https://zh.wikipedia.org/wiki/小沢寿美恵 "wikilink")、[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")、[谷山紀章](../Page/谷山紀章.md "wikilink")
+  - 聲優: [小沢寿美恵](https://zh.wikipedia.org/wiki/小沢寿美恵 "wikilink")、[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")、[谷山紀章](../Page/谷山紀章.md "wikilink")
 
 ## 單行本
 
@@ -73,13 +70,6 @@ THE MOVIE COLLECTION同時發行。\[1\]
 
 ## 參考資料
 
-[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:少女漫画](https://zh.wikipedia.org/wiki/Category:少女漫画 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:1999年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1999年日本劇場動畫 "wikilink")
+[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:少女漫画](https://zh.wikipedia.org/wiki/Category:少女漫画 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:1999年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1999年日本劇場動畫 "wikilink")
 
 1.

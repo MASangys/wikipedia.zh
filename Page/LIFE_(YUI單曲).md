@@ -1,6 +1,4 @@
-『**LIFE**』是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2005年11月9日所推出的單曲碟，並是在[Sony
-Music
-Records旗下的第三張單曲碟](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")。初回版本附送印有「[死神](../Page/BLEACH.md "wikilink")」插圖的貼紙。
+『**LIFE**』是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2005年11月9日所推出的單曲碟，並是在[Sony Music Records旗下的第三張單曲碟](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")。初回版本附送印有「[死神](../Page/BLEACH.md "wikilink")」插圖的貼紙。
 
 ## 收錄歌曲
 
@@ -22,14 +20,11 @@ Records旗下的第三張單曲碟](https://zh.wikipedia.org/wiki/日本新力�
 ## 銷售紀錄
 
   - 累積發售量：44,708
-  - [Oricon最高排名](../Page/Oricon.md "wikilink")：第9名
-  - [Oricon上榜次數](../Page/Oricon.md "wikilink")：12次
+  - [Oricon](../Page/Oricon.md "wikilink")最高排名：第9名
+  - [Oricon](../Page/Oricon.md "wikilink")上榜次數：12次
 
 | 發行         | 排行榜       | 最高位 | 總銷量    |
 | ---------- | --------- | --- | ------ |
 | 2005年11月9日 | Oricon 週榜 | 9   | 44,708 |
 
-[Category:YUI歌曲](https://zh.wikipedia.org/wiki/Category:YUI歌曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:BLEACH歌曲](https://zh.wikipedia.org/wiki/Category:BLEACH歌曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
+[Category:YUI歌曲](https://zh.wikipedia.org/wiki/Category:YUI歌曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:BLEACH歌曲](https://zh.wikipedia.org/wiki/Category:BLEACH歌曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")

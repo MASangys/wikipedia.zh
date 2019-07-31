@@ -1,5 +1,4 @@
-《**A BALLADS**》（A
-抒情精選）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年3月12日發行的抒情歌曲合集。
+《**A BALLADS**》（A 抒情精選）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年3月12日發行的抒情歌曲合集。
 
 ## 說明
 
@@ -19,8 +18,4 @@
 
 [分類:精選輯](https://zh.wikipedia.org/wiki/分類:精選輯 "wikilink")
 
-[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:2003年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2003年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:2003年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon專輯月榜冠軍作品 "wikilink") [Category:2003年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon專輯週榜冠軍作品 "wikilink")

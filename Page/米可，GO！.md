@@ -1,4 +1,4 @@
-《**米可，GO！**》是[三群製作事業有限公司製作](https://zh.wikipedia.org/wiki/三群製作事業有限公司 "wikilink")、[公共電視台監製的](https://zh.wikipedia.org/wiki/公共電視台 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，是一部愛與希望的故事。描述一位少女意外中[失明](../Page/失明.md "wikilink")，[導盲犬](../Page/導盲犬.md "wikilink")「米可」帶給這位少女希望的曙光與前進的勇氣。本劇改編的電視[劇本由](https://zh.wikipedia.org/wiki/劇本 "wikilink")[鄭芬芬編寫](../Page/鄭芬芬.md "wikilink")，[台視文化公司發行](../Page/台視文化公司.md "wikilink")，由[夏霏改寫成劇本](../Page/夏霏.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。
+《**米可，GO！**》是[三群製作事業有限公司製作](https://zh.wikipedia.org/wiki/三群製作事業有限公司 "wikilink")、[公共電視台監製的](https://zh.wikipedia.org/wiki/公共電視台 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，是一部愛與希望的故事。描述一位少女意外中[失明](../Page/失明.md "wikilink")，[導盲犬](../Page/導盲犬.md "wikilink")「米可」帶給這位少女希望的曙光與前進的勇氣。本劇改編的電視[劇本由](https://zh.wikipedia.org/wiki/劇本 "wikilink")[鄭芬芬](../Page/鄭芬芬.md "wikilink")編寫，[台視文化公司](../Page/台視文化公司.md "wikilink")發行，由[夏霏](../Page/夏霏.md "wikilink")改寫成劇本[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。
 
 ## 播出時間
 
@@ -25,13 +25,7 @@
 
 ## 故事簡介
 
-少萱正趕往約定好與石原的約會，經過馬路時，發生一場車禍，從此失去了光明。家人為了少萱的生活，經過獸醫楊立彬(
-[梁修治飾](https://zh.wikipedia.org/wiki/梁修治 "wikilink")
-)建議，到[導盲犬訓練中心認識了武一](../Page/導盲犬.md "wikilink")(
-[汪建民飾](../Page/汪建民.md "wikilink")
-)，為少萱安排[導盲犬米可訓練適應家庭生活](../Page/導盲犬.md "wikilink")，寄養在石原小姑家，意外被貓咬傷，不禁使武一耽心起米可，以後是否對貓有恐懼症。自從米可加入少萱的家庭，就開始擔任起少萱的守護神，卻也接二連三發生令少萱不能接受的事實。少萱認識明魯之後，明魯喜歡聽母親拉大提琴的琴聲，回想起母親拉大提琴的身影，少萱為了安撫明魯，就糊塗地答應明魯：「*我回去學拉大提琴，下次來就拉給你聽*」少萱就向少芹音樂老師(
-[梁家榕飾](../Page/梁家榕.md "wikilink")
-)求教，但死神正逐漸走向明魯，少萱從明魯父親得知明魯患有心肌病變，少萱知道能陪在明魯身邊時間已剩不多，卻遭韋姍三番兩次考驗著，少萱一度鬧憋扭地想放棄學大提琴……。
+少萱正趕往約定好與石原的約會，經過馬路時，發生一場車禍，從此失去了光明。家人為了少萱的生活，經過獸醫楊立彬( [梁修治飾](https://zh.wikipedia.org/wiki/梁修治 "wikilink") )建議，到[導盲犬](../Page/導盲犬.md "wikilink")訓練中心認識了武一( [汪建民](../Page/汪建民.md "wikilink")飾 )，為少萱安排[導盲犬](../Page/導盲犬.md "wikilink")米可訓練適應家庭生活，寄養在石原小姑家，意外被貓咬傷，不禁使武一耽心起米可，以後是否對貓有恐懼症。自從米可加入少萱的家庭，就開始擔任起少萱的守護神，卻也接二連三發生令少萱不能接受的事實。少萱認識明魯之後，明魯喜歡聽母親拉大提琴的琴聲，回想起母親拉大提琴的身影，少萱為了安撫明魯，就糊塗地答應明魯：「*我回去學拉大提琴，下次來就拉給你聽*」少萱就向少芹音樂老師( [梁家榕](../Page/梁家榕.md "wikilink")飾 )求教，但死神正逐漸走向明魯，少萱從明魯父親得知明魯患有心肌病變，少萱知道能陪在明魯身邊時間已剩不多，卻遭韋姍三番兩次考驗著，少萱一度鬧憋扭地想放棄學大提琴……。
 
 ## 人物
 
@@ -60,7 +54,7 @@
 <td><p>米可</p></td>
 <td><center>
 <p>米可</p></td>
-<td><p>擔任少萱的<a href="../Page/導盲犬.md" title="wikilink">導盲犬外</a>，也是少萱生活的好幫手。個性溫馴，穩定度高，是屬於<a href="https://zh.wikipedia.org/wiki/黃金獵犬" title="wikilink">黃金獵犬</a>。</p></td>
+<td><p>擔任少萱的<a href="../Page/導盲犬.md" title="wikilink">導盲犬</a>外，也是少萱生活的好幫手。個性溫馴，穩定度高，是屬於<a href="https://zh.wikipedia.org/wiki/黃金獵犬" title="wikilink">黃金獵犬</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/蔡裴琳" title="wikilink">蔡裴琳</a></p></td>
@@ -144,19 +138,9 @@
 ## 入圍獎項
 
 本劇入圍「95年度電視金鐘獎」以下獎項：
-{| class="wikitable" width="80%" |-align=center \! width="15%"|年份 \!
-width="25%"|獎項 \! width="20%"|獲提名者 \! width="20%"|結果 |- align=center |
-rowspan="2"|2006 |戲劇節目最佳女主角獎 |[李佳穎](../Page/李佳穎.md "wikilink") |  |-
-align=center |戲劇節目編劇獎 |[鄭芬芬](../Page/鄭芬芬.md "wikilink") |  |- |}
-來源：[行政院新聞局](http://info.gio.gov.tw/ct.asp?xItem=30536&ctNode=4128)
+{| class="wikitable" width="80%" |-align=center \! width="15%"|年份 \! width="25%"|獎項 \! width="20%"|獲提名者 \! width="20%"|結果 |- align=center | rowspan="2"|2006 |戲劇節目最佳女主角獎 |[李佳穎](../Page/李佳穎.md "wikilink") |  |- align=center |戲劇節目編劇獎 |[鄭芬芬](../Page/鄭芬芬.md "wikilink") |  |- |} 來源：[行政院新聞局](http://info.gio.gov.tw/ct.asp?xItem=30536&ctNode=4128)
 
 ## 外部連結
 
   -
-[Category:2006年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2006年台灣電視劇集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:公視電視劇](https://zh.wikipedia.org/wiki/Category:公視電視劇 "wikilink")
-[Category:三立都會台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立都會台戲劇節目 "wikilink")
-[Category:台北市背景電視劇](https://zh.wikipedia.org/wiki/Category:台北市背景電視劇 "wikilink")
-[Category:視覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:視覺障礙題材作品 "wikilink")
-[Category:狗題材電視節目](https://zh.wikipedia.org/wiki/Category:狗題材電視節目 "wikilink")
+[Category:2006年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2006年台灣電視劇集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:公視電視劇](https://zh.wikipedia.org/wiki/Category:公視電視劇 "wikilink") [Category:三立都會台戲劇節目](https://zh.wikipedia.org/wiki/Category:三立都會台戲劇節目 "wikilink") [Category:台北市背景電視劇](https://zh.wikipedia.org/wiki/Category:台北市背景電視劇 "wikilink") [Category:視覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:視覺障礙題材作品 "wikilink") [Category:狗題材電視節目](https://zh.wikipedia.org/wiki/Category:狗題材電視節目 "wikilink")

@@ -1,5 +1,4 @@
-下列是[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")／[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")
-伺服器實作之列表。
+下列是[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")／[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink") 伺服器實作之列表。
 
 ## 開放源碼
 
@@ -34,11 +33,8 @@
 
 ## 外部連結
 
-  - [List of XMPP server software by the XMPP Standards
-    Foundation](http://xmpp.org/software/servers.shtml)
-  - [Open-source XMPP server comparison
-    chart](https://web.archive.org/web/20090314050632/http://www.saint-andre.com/jabber/jsc/)
-  - [One of the XMPP
-    servers](https://web.archive.org/web/20171017022544/https://ulloo.net/)
+  - [List of XMPP server software by the XMPP Standards Foundation](http://xmpp.org/software/servers.shtml)
+  - [Open-source XMPP server comparison chart](https://web.archive.org/web/20090314050632/http://www.saint-andre.com/jabber/jsc/)
+  - [One of the XMPP servers](https://web.archive.org/web/20171017022544/https://ulloo.net/)
 
 [Category:軟體列表](https://zh.wikipedia.org/wiki/Category:軟體列表 "wikilink")

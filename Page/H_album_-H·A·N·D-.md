@@ -1,28 +1,18 @@
-**H album
--H·A·N·D-**是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")8張[專輯](../Page/音樂專輯.md "wikilink")。於2005年11月16日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
+**H album -H·A·N·D-**是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")8張[專輯](../Page/音樂專輯.md "wikilink")。於2005年11月16日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說
 
-本專輯是以專輯來說自第二張單曲精選專輯『[KinKi Single Selection
-II](../Page/KinKi_Single_Selection_II.md "wikilink")』以來相隔一年，而以原創專輯來說就是自『[G
-album
--24/7-](https://zh.wikipedia.org/wiki/G_album_-24/7- "wikilink")』以來相隔兩年才推出的第8張團體名義原創專輯。
+本專輯是以專輯來說自第二張單曲精選專輯『[KinKi Single Selection II](../Page/KinKi_Single_Selection_II.md "wikilink")』以來相隔一年，而以原創專輯來說就是自『[G album -24/7-](https://zh.wikipedia.org/wiki/G_album_-24/7- "wikilink")』以來相隔兩年才推出的第8張團體名義原創專輯。
 
 從去年2004年的單曲『[嘿，我會加油。](../Page/嘿，我會加油。.md "wikilink")』以後，團體名義推出的音樂作品間隔擴大，該年唯一一張推出過的專輯只是單曲精選專輯而已。因而中斷了自出道起每年均會推出一張原創專輯的做法。這是因為成員二人正積極活躍於各自的個人音樂活動，結果以團體名義發表的單曲相對較少，使原創專輯推出間隔相應擴大。同年推出過的單曲就只有『[天鵝絨的幽闇](../Page/天鵝絨的幽闇.md "wikilink")』，再與單曲精選專輯同時發售的單曲『[Anniversary](../Page/Anniversary.md "wikilink")』，所以這次的專輯甚被期待。
 
-本專輯繼續自上張專輯開始的做法，在專輯名字後加上副題。本專輯的副題是“H·A·N·D”，根據專輯內附歌詞本上模倣[字典的解說文字中提及](../Page/字典.md "wikilink")，H·A·N·D本身是[英語中表示](https://zh.wikipedia.org/wiki/英語 "wikilink")『[手](../Page/手.md "wikilink")』的意思。另外，「H」含有“Heart
-& Harmony & Happiness & Honey & Hope and
-more...”的意思，即“心、和諧、幸福、心愛的人、希望···”的意思。而『H·A·N·D』又是英語「Have
-A Nice
-Day」的縮略，意即「祝你愉快的一天」。所以這個副題其實蘊含了兩個訊息在內。連上張專輯在內已經是連續兩張專輯都有用上了副題，所以有以後的專輯繼續使用副題的傾向。
+本專輯繼續自上張專輯開始的做法，在專輯名字後加上副題。本專輯的副題是“H·A·N·D”，根據專輯內附歌詞本上模倣[字典](../Page/字典.md "wikilink")的解說文字中提及，H·A·N·D本身是[英語中表示](https://zh.wikipedia.org/wiki/英語 "wikilink")『[手](../Page/手.md "wikilink")』的意思。另外，「H」含有“Heart & Harmony & Happiness & Honey & Hope and more...”的意思，即“心、和諧、幸福、心愛的人、希望···”的意思。而『H·A·N·D』又是英語「Have A Nice Day」的縮略，意即「祝你愉快的一天」。所以這個副題其實蘊含了兩個訊息在內。連上張專輯在內已經是連續兩張專輯都有用上了副題，所以有以後的專輯繼續使用副題的傾向。
 
-在本專輯發售後，雖然仍有單曲「[SNOW\! SNOW\!
-SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")」隨之後接，不過在下一年2006年的前半年則再次以個人活動為主。剛以[ENDLICHERI☆ENDLICHERI的名義活動](https://zh.wikipedia.org/wiki/堂本剛#ENDLICHERI☆ENDLICHERI "wikilink")，光一也從過往以[舞台劇為主的重心開始移向](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")。其首次以個人名義推出的出道單曲．專輯亦隨之推出。結果以團體名義推出的下一張音樂作品在2006年的下半年才出現，是7月發售的單曲「[夏日風情](../Page/夏日風情.md "wikilink")」。
+在本專輯發售後，雖然仍有單曲「[SNOW\! SNOW\! SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")」隨之後接，不過在下一年2006年的前半年則再次以個人活動為主。剛以[ENDLICHERI☆ENDLICHERI的名義活動](https://zh.wikipedia.org/wiki/堂本剛#ENDLICHERI☆ENDLICHERI "wikilink")，光一也從過往以[舞台劇為主的重心開始移向](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")。其首次以個人名義推出的出道單曲．專輯亦隨之推出。結果以團體名義推出的下一張音樂作品在2006年的下半年才出現，是7月發售的單曲「[夏日風情](../Page/夏日風情.md "wikilink")」。
 
 本專輯另外一個特別之處，就是有別於過往收錄二人親自作曲的獨唱曲，這次收錄的獨唱曲都是由其他音樂人提供的。不過專輯收錄了兩人合作創作的歌曲「戀淚」。自作曲收錄減少的原因，是因為去年以及下一年繼續的個人活動增多，結果以團體名義推出的個人歌曲數目隨之減少。另外，以原創專輯來說本專輯首次收錄了一首純音樂歌曲。
 
-在[Oricon銷量榜的首批銷量雖然比](../Page/Oricon.md "wikilink")『G album
--24/7-』有所上升，但累積銷量卻不升反跌。初回版比通常錄少收錄一首歌曲，不過卻隨碟附送收錄了兩人的訪問片段、歌曲「99%LIBERTY」的PV，以及專輯製作和PV拍攝片段的[DVD影碟](https://zh.wikipedia.org/wiki/DVD "wikilink")。通常版除了封面不同外，更多收錄一首歌曲。雖然隨碟附送DVD及初回和通常版的收錄歌曲不同的做法，早在2003年推出的單曲已經出現過，但在專輯上還是首次。因為過往的初回版專輯和通常版專輯只是封面和歌詞本內容不同，由此可見[傑尼斯事務所的銷售方針出現了轉變](../Page/傑尼斯事務所.md "wikilink")，以便衝唱片銷量。
+在[Oricon](../Page/Oricon.md "wikilink")銷量榜的首批銷量雖然比『G album -24/7-』有所上升，但累積銷量卻不升反跌。初回版比通常錄少收錄一首歌曲，不過卻隨碟附送收錄了兩人的訪問片段、歌曲「99%LIBERTY」的PV，以及專輯製作和PV拍攝片段的[DVD影碟](https://zh.wikipedia.org/wiki/DVD "wikilink")。通常版除了封面不同外，更多收錄一首歌曲。雖然隨碟附送DVD及初回和通常版的收錄歌曲不同的做法，早在2003年推出的單曲已經出現過，但在專輯上還是首次。因為過往的初回版專輯和通常版專輯只是封面和歌詞本內容不同，由此可見[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的銷售方針出現了轉變，以便衝唱片銷量。
 
 至於在專輯曲風方面，雖然整體傾向流行曲風，並非以成熟路線作中心，但正因為與上張專輯中的沉實成熟風格及過往的專輯之間有別，可以說是一張集合了全新元素的專輯。
 
@@ -56,9 +46,7 @@ SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")」隨之後接，不過在下�
       - 和音編排：[小田原友洋](https://zh.wikipedia.org/wiki/小田原友洋 "wikilink")
 6.  **Love Me More**
       - ※堂本光一獨唱作品。
-      - 作曲：[Marcus
-        Dernulf](https://zh.wikipedia.org/wiki/Marcus_Dernulf "wikilink")、[Marit
-        Woody](https://zh.wikipedia.org/wiki/Marit_Woody "wikilink")
+      - 作曲：[Marcus Dernulf](https://zh.wikipedia.org/wiki/Marcus_Dernulf "wikilink")、[Marit Woody](https://zh.wikipedia.org/wiki/Marit_Woody "wikilink")
       - 作詞：[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink")、[新　美香](https://zh.wikipedia.org/wiki/新美香 "wikilink")
       - 編曲：[ha-j](https://zh.wikipedia.org/wiki/ha-j "wikilink")
 7.  **Breath**
@@ -108,12 +96,9 @@ SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")」隨之後接，不過在下�
 11. **未完的Love Song**
 12. **99%LIBERTY**
 13. **In My Heart**
-      - 作曲：[Ooyagi
-        Hiroo](https://zh.wikipedia.org/wiki/Ooyagi_Hiroo "wikilink")
+      - 作曲：[Ooyagi Hiroo](https://zh.wikipedia.org/wiki/Ooyagi_Hiroo "wikilink")
       - 作詞：Ooyagi Hiroo
       - 編曲：[石塚知生](https://zh.wikipedia.org/wiki/石塚知生 "wikilink")
       - 和音編排：[岩田雅之](https://zh.wikipedia.org/wiki/岩田雅之 "wikilink")
 
-[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")

@@ -28,8 +28,7 @@
   -
     身為地上人的主角，與家人同住在日本東京都武藏野市東吉祥寺。18歳时被德雷克陣營由地上界召喚至拜斯頓·威爾，因為能操縱靈光戰士（以下簡稱AB）DUNBINE而被稱為聖戰士。對於僅熱中於工作而冷落家庭的雙親極度反感，而相當熱衷於越野摩托車的賽事。在從越野摩托車的比賽場返家的途中，因靈光道路開啟而被召喚至拜斯頓·威爾。
     一開始為德雷克作戰，對於拜斯頓的局勢並不清楚，一心只想回到地上。後來受瑪蓓兒影響，駕駛Dunbine叛離亞之國。一路戰鬥下來，也漸漸開始有了「粉碎德雷克野心」以及「消滅靈光機械」的目標。在最終決戰時，將黑騎士刺殺並與之同歸於盡。
-    在續編OVA「-{New Story of Aura Battler
-    DUNBINE}-」之中，則是在TV劇情約700年後的拜斯頓·威爾，以西翁·薩巴之名轉世重生。
+    在續編OVA「-{New Story of Aura Battler DUNBINE}-」之中，則是在TV劇情約700年後的拜斯頓·威爾，以西翁·薩巴之名轉世重生。
 
 <!-- end list -->
 
@@ -63,8 +62,7 @@
   -
     出身於美國加州的地上人，28歳，為機械人工學的権威。因為意外事故而來到拜斯頓・威爾。幫助德雷克製造出運用靈光的強大戰爭機器，協助實現其野心。
     但是實際上是打算坐收漁翁之利狡猾策士，有計畫的利用並慢慢排除德雷克而讓自己成為支配者的野心家。
-    因為是製造出所有靈光戰士，讓戰亂擴大至地上界的大罪人，因此被賦予「不會死」的命運，在之後的700年間成為追求「死」而在拜斯頓・威爾徘徊不去的亡霊。這段故事在OVA版「-{New
-    Story of Aura Battler DUNBINE}-」有詳細的敘述。
+    因為是製造出所有靈光戰士，讓戰亂擴大至地上界的大罪人，因此被賦予「不會死」的命運，在之後的700年間成為追求「死」而在拜斯頓・威爾徘徊不去的亡霊。這段故事在OVA版「-{New Story of Aura Battler DUNBINE}-」有詳細的敘述。
 
 <!-- end list -->
 
@@ -82,8 +80,7 @@
 <!-- end list -->
 
   -
-    那之國的女王，只有20歲。因為在風之壁為座間翔所救，因而將最新銳的AB
-    BILLBINE交付給他，不久自己也搭上靈光戰艦加入戰鬥。最終決戰中，德雷克一死亡，就將自己搭乘的靈光戰艦撞向敵方母艦，同時使出淨化之力將所有的靈光戰士從地上界消滅。
+    那之國的女王，只有20歲。因為在風之壁為座間翔所救，因而將最新銳的AB BILLBINE交付給他，不久自己也搭上靈光戰艦加入戰鬥。最終決戰中，德雷克一死亡，就將自己搭乘的靈光戰艦撞向敵方母艦，同時使出淨化之力將所有的靈光戰士從地上界消滅。
     擁有高貴果決的氣質與端莊美麗的外表，令座間翔一見面就感受到不凡，後來得知身分後也就不感意外。絕大部分時候都異常沉著冷靜，彷彿能看透大部分事物一般。她在最終決戰，到最後淨化一切為止，都是還是一樣冷靜，成熟程度超乎常人。
     最後究竟是生是死，作品中並沒有交代。
     與座間翔見面前就對他抱有高度期望，風之壁一事只是剛好用來當作對他的考驗。讓翔救出的時候，翔就像是席拉的騎士一般。
@@ -115,8 +112,7 @@
 
   -
     在地上界時，是居住於蘇聯（現在則是屬於烏克蘭）的大都市卡爾可夫的失業者。
-    與托德、座間翔一起被召喚至拜斯頓・威爾的地上人。與兩人同時被賦予當時最新型的AB
-    DUNBINE(個人機體配色為綠色)，但在第1話中就被基普家陣營擊落而死亡。
+    與托德、座間翔一起被召喚至拜斯頓・威爾的地上人。與兩人同時被賦予當時最新型的AB DUNBINE(個人機體配色為綠色)，但在第1話中就被基普家陣營擊落而死亡。
 
 <!-- end list -->
 
@@ -180,8 +176,7 @@
 
   -
     艾．菲拉里歐。受到德雷克脅迫協助召喚地上人，破壞地上界與拜斯頓威爾間的定律。後來被翔救出，回到水天界，接受奇．菲拉里歐的懲罰，降級轉世為米．菲拉里歐。
-    之後在OVA「New Story of Aura Battler
-    DUNBINE」再度登場，並與西翁·薩巴一同搭乘薩拜因，並擔任薩拜因副駕駛。
+    之後在OVA「New Story of Aura Battler DUNBINE」再度登場，並與西翁·薩巴一同搭乘薩拜因，並擔任薩拜因副駕駛。
 
 ## 靈光戰士
 
@@ -249,9 +244,7 @@
 ## 主題歌
 
   - OP「ダンバイン とぶ」 歌：MIO（現・[MIQ](../Page/MIQ.md "wikilink")）
-    作詞：[井荻麟](../Page/富野由悠季.md "wikilink")
-    作曲：[網倉一也](https://zh.wikipedia.org/wiki/網倉一也 "wikilink")
-    編曲：[矢野立美](https://zh.wikipedia.org/wiki/矢野立美 "wikilink")
+    作詞：[井荻麟](../Page/富野由悠季.md "wikilink") 作曲：[網倉一也](https://zh.wikipedia.org/wiki/網倉一也 "wikilink") 編曲：[矢野立美](https://zh.wikipedia.org/wiki/矢野立美 "wikilink")
   - ED「みえるだろうバイストン・ウェル」 歌：MIO
     作詞：井荻麟 作曲：網倉一也 編曲：矢野立美
   - 插入歌「」 歌：[小出廣美](https://zh.wikipedia.org/wiki/小出廣美 "wikilink")
@@ -747,12 +740,6 @@
   - [日昇動畫官方網站](https://web.archive.org/web/20090216164212/http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=39)
   - [動畫官方網站](http://www.dunbine.net/)
   - [聖戰士傳說](http://www.bandaigames.channel.or.jp/list/dunbine/)
-  - [Byston Well
-    Tales](https://web.archive.org/web/20090405183452/http://bwtales.web.infoseek.co.jp/)
+  - [Byston Well Tales](https://web.archive.org/web/20090405183452/http://bwtales.web.infoseek.co.jp/)
 
-[Category:1983年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1983年日本電視動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
+[Category:1983年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1983年日本電視動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")

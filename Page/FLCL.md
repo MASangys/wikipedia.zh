@@ -1,5 +1,4 @@
-《**FLCL**》（）為一部由[GAINAX](../Page/GAINAX.md "wikilink")、[Production
-I.G製作的](../Page/Production_I.G.md "wikilink")[日本](../Page/日本.md "wikilink")[OVA系列](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。另還有出版[小説及](https://zh.wikipedia.org/wiki/小説 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。本編OVA全6話、小說全3卷、漫畫單行本全2卷。本作也是在[新世紀福音戰士中擔任副監督的](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")[鶴卷和哉](../Page/鶴卷和哉.md "wikilink")的首部導演作品。
+《**FLCL**》（）為一部由[GAINAX](../Page/GAINAX.md "wikilink")、[Production I.G製作的](../Page/Production_I.G.md "wikilink")[日本](../Page/日本.md "wikilink")[OVA系列](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。另還有出版[小説及](https://zh.wikipedia.org/wiki/小説 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。本編OVA全6話、小說全3卷、漫畫單行本全2卷。本作也是在[新世紀福音戰士中擔任副監督的](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")[鶴卷和哉](../Page/鶴卷和哉.md "wikilink")的首部導演作品。
 
 本作的特徵為凝練的演出、唐突诡异的畫面轉換、夾雜漫畫風格的畫面構成、及隨處可見實驗性質濃厚的演出。而且節奏優秀的動作場面比例不低、設定及動畫品質也有相當高的評價。
 
@@ -7,24 +6,16 @@ I.G製作的](../Page/Production_I.G.md "wikilink")[日本](../Page/日本.md "w
 
 ## 剧情簡介
 
-小学生**南束
-直太**居住在平凡的地方都市“疏瀬”。某天他的平静生活被突然出现的骑着[Vespa的谜样少女](../Page/伟士牌.md "wikilink")**春原
-晴子**打乱了。两人第一次见面时，晴子就用她蓝色的老式左手式的低音电吉他，击中了直太的头，将他打飞出去，之后直太又震惊地发现晴子以[女佣的名义住进了自己的家中](https://zh.wikipedia.org/wiki/女佣 "wikilink")。
+小学生**南束 直太**居住在平凡的地方都市“疏瀬”。某天他的平静生活被突然出现的骑着[Vespa的谜样少女](../Page/伟士牌.md "wikilink")**春原 晴子**打乱了。两人第一次见面时，晴子就用她蓝色的老式左手式的低音电吉他，击中了直太的头，将他打飞出去，之后直太又震惊地发现晴子以[女佣的名义住进了自己的家中](https://zh.wikipedia.org/wiki/女佣 "wikilink")。
 
-从那起，直太的额头就开始长出各种奇妙的角，而来自医疗器械制造商Medical
-Mechanica工厂的巨型机器人则不断地从直太头上的角中跑出来，引发了各种的事件。由于直太的头是仅有的一个能够开启的、机器人传送用的“N.O.超空间通道”，所以晴子也利用直太的“N.O.通道”一直在寻找着海盗王**Atomsk**，并不断地和Medical
-Mechanica工厂作战。同时，直太也一直被特殊入国指挥官**亚麻 罗宇**监视，他认为Medical
-Mechanic工厂正试图征服银河系。随着事态的发展，直太被卷入了——春原晴子，特殊入国管理官亚麻罗宇，以及Medical
-Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太即将迎来的成长，并开始表述他自身的想法。
+从那起，直太的额头就开始长出各种奇妙的角，而来自医疗器械制造商Medical Mechanica工厂的巨型机器人则不断地从直太头上的角中跑出来，引发了各种的事件。由于直太的头是仅有的一个能够开启的、机器人传送用的“N.O.超空间通道”，所以晴子也利用直太的“N.O.通道”一直在寻找着海盗王**Atomsk**，并不断地和Medical Mechanica工厂作战。同时，直太也一直被特殊入国指挥官**亚麻 罗宇**监视，他认为Medical Mechanic工厂正试图征服银河系。随着事态的发展，直太被卷入了——春原晴子，特殊入国管理官亚麻罗宇，以及Medical Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太即将迎来的成长，并开始表述他自身的想法。
 
 ## 登場人物
 
   -
     小學6年級生，純情害羞的普通少年。被晴子的[電貝斯](../Page/電貝斯.md "wikilink")打中額頭後，額頭開始長出奇妙的角，然後從那跑出各式各樣的物體。
   -
-    在直太面前突然出現的謎樣少女。本名為ハルハ・ラハル。自稱19歲的「宇宙人」。個性常常傍若無人。所拿的[電貝斯](../Page/電貝斯.md "wikilink")Rickenbacker
-    4001
-    Azureglo是樂器同時也是武器，還有各式各樣的用途。想利用直太來達成自己的願望。在劇中常裝扮成[護士](https://zh.wikipedia.org/wiki/護士 "wikilink")、[女僕及](https://zh.wikipedia.org/wiki/女僕 "wikilink")[兔女郎](../Page/兔女郎.md "wikilink")。左撇子。
+    在直太面前突然出現的謎樣少女。本名為ハルハ・ラハル。自稱19歲的「宇宙人」。個性常常傍若無人。所拿的[電貝斯](../Page/電貝斯.md "wikilink")Rickenbacker 4001 Azureglo是樂器同時也是武器，還有各式各樣的用途。想利用直太來達成自己的願望。在劇中常裝扮成[護士](https://zh.wikipedia.org/wiki/護士 "wikilink")、[女僕及](https://zh.wikipedia.org/wiki/女僕 "wikilink")[兔女郎](../Page/兔女郎.md "wikilink")。左撇子。
   -
     不知為何跟著直太的女高中生。17歳。跟直太的哥哥タスク在交往，但是タスク因留學而有了新戀人，所以實際上是失戀了。因此而自暴自棄，因為性格上的轉變而有孤獨的一面。有吸煙。
   -
@@ -59,9 +50,7 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
 ## 製作團隊
 
   - 企畫、原作：[GAINAX](../Page/GAINAX.md "wikilink")
-  - 製作：[大月俊倫](../Page/大月俊倫.md "wikilink")（[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）、[石川光久](../Page/石川光久.md "wikilink")（[Production
-    I.G](../Page/Production_I.G.md "wikilink")）、[山賀博之](https://zh.wikipedia.org/wiki/山賀博之 "wikilink")（GAINAX）
+  - 製作：[大月俊倫](../Page/大月俊倫.md "wikilink")（[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）、[石川光久](../Page/石川光久.md "wikilink")（[Production I.G](../Page/Production_I.G.md "wikilink")）、[山賀博之](https://zh.wikipedia.org/wiki/山賀博之 "wikilink")（GAINAX）
   - 監修：[庵野秀明](../Page/庵野秀明.md "wikilink")
   - 原案·監督：[鶴巻和哉](https://zh.wikipedia.org/wiki/鶴巻和哉 "wikilink")
   - 腳本：[榎戶洋司](../Page/榎戶洋司.md "wikilink")
@@ -72,8 +61,7 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
   - 演出：佐伯昭志、[大塚雅彦](../Page/大塚雅彦.md "wikilink")、安藤健
   - 色彩設計：高星晴美
   - 編輯：浅野真樹子
-  - 音樂：[光宗信吉](../Page/光宗信吉.md "wikilink")、[the
-    pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
+  - 音樂：[光宗信吉](../Page/光宗信吉.md "wikilink")、[the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
   - 音響製作：[なかのとおる](https://zh.wikipedia.org/wiki/なかのとおる "wikilink")
   - 效果：野口透（[アニメサウンドプロダクション](https://zh.wikipedia.org/wiki/アニメサウンドプロダクション "wikilink")）
   - 錄音調整：内田直継
@@ -81,16 +69,13 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
   - 錄音工作室：HALF H·P STUDIO
   - 錄音製作擔當：藤田亜紀子
   - 錄音製作：HALF H·P STUDIO
-  - 製作：佐藤雅信（キングレコード）、西沢正智（Production
-    I.G）、[佐藤裕紀](https://zh.wikipedia.org/wiki/佐藤裕紀 "wikilink")（GAINAX）
+  - 製作：佐藤雅信（キングレコード）、西沢正智（Production I.G）、[佐藤裕紀](https://zh.wikipedia.org/wiki/佐藤裕紀 "wikilink")（GAINAX）
   - 動畫製作：Production I.G、GAINAX
 
 ## 主題曲
 
   - 「Ride on shooting star」
-      - 歌手：[the
-        pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")、作詞·作曲：[山中さわお](https://zh.wikipedia.org/wiki/山中さわお "wikilink")、編曲：the
-        pillows
+      - 歌手：[the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")、作詞·作曲：[山中さわお](https://zh.wikipedia.org/wiki/山中さわお "wikilink")、編曲：the pillows
 
 ## 話數列表
 
@@ -141,8 +126,7 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
 
   - [](https://web.archive.org/web/20081202145317/http://www.gainax.co.jp/anime/flcl/)
 
-  - [Production I.G
-    作品詳細](https://web.archive.org/web/20081211144042/http://www.production-ig.co.jp/contents/works_sp/0720_/)
+  - [Production I.G 作品詳細](https://web.archive.org/web/20081211144042/http://www.production-ig.co.jp/contents/works_sp/0720_/)
 
   - [](http://www.style.fm/as/07_data/flcl.shtml)
 
@@ -152,13 +136,6 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
 
   - [講談社BOOK倶楽部](https://web.archive.org/web/20100801064822/http://shop.kodansha.jp/bc/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:2000年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2000年日本OVA動畫 "wikilink")
-[Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink")
-[Category:講談社BOX](https://zh.wikipedia.org/wiki/Category:講談社BOX "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:2000年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2000年日本OVA動畫 "wikilink") [Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink") [Category:講談社BOX](https://zh.wikipedia.org/wiki/Category:講談社BOX "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
 
 1.  [2](http://www.fantasiafest.com/2003/en/news/release.php?lang=en&id=57)

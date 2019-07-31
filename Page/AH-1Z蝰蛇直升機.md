@@ -16,14 +16,13 @@ AH-1Z的發展演化起點是貝爾249型，貝爾249是使用的動力架構的
 
 由於AH-1Z導入新型引擎、旋翼傳動系統、航電設備、偵蒐裝備，以及武器。雖然名義上是AH-1W的改良機種，但實際沿用AH-1W的零件已經低於2成，飛機有95%設計是重新開發的「升級型」戰鬥直升機。和AH-1W相比，它的生存能力獲得加強，而且能在更遠的距離發現目標並以精確武器攻擊目標。
 
-AH-1Z的旋翼由複合材料製成，增加了戰場生存力。它擁有一個半自動摺疊旋翼的系統以減少固定的面積，以便裝載在兩棲攻擊船艦上。它的二個掛載翼被設計得更長，翼尖加裝一個外掛點得以掛載一枚如[AIM-9響尾蛇飛彈的空對空飛彈](../Page/AIM-9響尾蛇飛彈.md "wikilink")。兩翼上各有二個外掛點以掛載火箭莢艙，或反戰車導彈發射器。長弓[毫米波雷達也能掛載在外掛點上](https://zh.wikipedia.org/wiki/毫米波雷達 "wikilink")。
+AH-1Z的旋翼由複合材料製成，增加了戰場生存力。它擁有一個半自動摺疊旋翼的系統以減少固定的面積，以便裝載在兩棲攻擊船艦上。它的二個掛載翼被設計得更長，翼尖加裝一個外掛點得以掛載一枚如[AIM-9響尾蛇飛彈](../Page/AIM-9響尾蛇飛彈.md "wikilink")的空對空飛彈。兩翼上各有二個外掛點以掛載火箭莢艙，或反戰車導彈發射器。長弓[毫米波雷達也能掛載在外掛點上](https://zh.wikipedia.org/wiki/毫米波雷達 "wikilink")。
 
 AH-1Z的綜合航電系統（IAS）由[諾斯洛普·格拉曼負責開發](https://zh.wikipedia.org/wiki/諾斯洛普·格拉曼 "wikilink")。這個系統包括了兩台電腦和一個自動飛控系統。每個座位各有兩個8x6吋的多功能液晶顯示器（LCD）和一個4.2x4.2吋的雙重作用液晶顯示器。通信系統結合了美國海軍的RT-1824綜合無線電、UHF/VHF、COMSEC和數據機在一個單位中。導航系統包括了一個內置式GPS慣性導航系統（EGI），一個數位化地圖系統和低空速空氣資料次要系統，並允許武器能在盤旋狀態下發射。
 
 乘員都裝備了泰萊斯公司的「頂級鷹」頭盔瞄準具。「頂級鷹」有24小時日夜兩用能力和提供40°視野。為加強生存能力，AH-1Z裝備了紅外線熱源抑制系統（HIRSS）以覆蓋引擎排氣，[AN/ALE-47反制灑佈器](https://zh.wikipedia.org/wiki/AN/ALE-47反制灑佈器 "wikilink")，雷達偵察警告、飛彈瞄準警告和雷射瞄準警告系統。
 
-AH-1Z採用了洛克希德·馬丁開發的AN/AAQ-30光學瞄準系統（TSS），TSS整合了第三代前視紅外線感應器（FLIR）、低光源電視光學影像、雷射測距儀、目視型雷射瞄準器。TSS最主要的偵搜工具為第三代FLIR，可同時解析中波紅外線及長波紅外線訊號，最大偵測距離為35公里、辨識距離10公里、辨識解析度640
-x 480，具備四段觀測調整，能在日、夜間、或不利天氣情況下進行瞄準。TSS擁有不同的觀測模式，並能追蹤FLIR或由電視導引。
+AH-1Z採用了洛克希德·馬丁開發的AN/AAQ-30光學瞄準系統（TSS），TSS整合了第三代前視紅外線感應器（FLIR）、低光源電視光學影像、雷射測距儀、目視型雷射瞄準器。TSS最主要的偵搜工具為第三代FLIR，可同時解析中波紅外線及長波紅外線訊號，最大偵測距離為35公里、辨識距離10公里、辨識解析度640 x 480，具備四段觀測調整，能在日、夜間、或不利天氣情況下進行瞄準。TSS擁有不同的觀測模式，並能追蹤FLIR或由電視導引。
 
 ## 用戶國
 
@@ -58,30 +57,16 @@ x 480，具備四段觀測調整，能在日、夜間、或不利天氣情況下
 ## 外部链接
 
   - [新型奎蛇直昇機AH-1Z](http://jczs.news.sina.com.cn/p/2006-03-05/0928355089.html)
-  - [Bell Helicopter Textron - The
-    AH-1Z](https://web.archive.org/web/20080214192222/http://www.bellhelicopter.textron.com/en/aircraft/military/bellAH-1Z.cfm)
-  - [Army Technology - AH-1W/AH-1Z Super
-    Cobra](http://www.army-technology.com/projects/supcobra/)
-  - [Naval Technology - AH-1W/AH-1Z
-    SuperCobra](http://www.naval-technology.com/projects/supcobra/)
-  - [AH-1Z / UH-1Y on U.S. Navy PMA-276
-    site](https://web.archive.org/web/20080215190609/http://pma276public.navair.navy.mil/pma276public/history.asp#14)
-  - [AH-1Z page on
-    GlobalSecurity.org](http://www.globalsecurity.org/military/systems/aircraft/ah-1z.htm)
-  - [Bell AH-1Z Super Cobra - Bell 449 on
-    helis.com](http://www.helis.com/Since80s/h_ah1z.php)
-  - [H-1 Upgrade Program
-    (UH-1Y/AH-1Z)](https://web.archive.org/web/20070710005737/http://hqinet001.hqmc.usmc.mil/p%26r/concepts/2007/PDF/Chapter%203/Part%203/C%26P2007Chap3%20Part3%20Aviation%20Combat%20Element%20Pg183%20H-1%20Upgrade%20Program%20%28UH-1Y%20AH-1Z%29.pdf)，U.S.
-    Marine Corps, 2007.
-  - ["First Production H-1 Helicopters
-    Rollout"](https://web.archive.org/web/20081118040703/http://www.bellhelicopter.com/en/company/pressReleases/PR_060929_1230_H1Rollout.cfm)，Bell
-    Helicopter, September 27, 2006
-  - ["New H-1s reach 3,000 hrs, prep for
-    OpEval"](https://web.archive.org/web/20080215193239/http://pma276public.navair.navy.mil/pma276public/newsArticle.asp?itemID=38)，U.S.
-    Marine Corps, June 13, 2005.
-  - [" AH-1Z Super Cobra Completes Envelope Expansion
-    Testing"](https://web.archive.org/web/20081230102743/http://www.news.navy.mil/search/display.asp?story_id=5276)，U.S.
-    Navy, January 9 2003.
+  - [Bell Helicopter Textron - The AH-1Z](https://web.archive.org/web/20080214192222/http://www.bellhelicopter.textron.com/en/aircraft/military/bellAH-1Z.cfm)
+  - [Army Technology - AH-1W/AH-1Z Super Cobra](http://www.army-technology.com/projects/supcobra/)
+  - [Naval Technology - AH-1W/AH-1Z SuperCobra](http://www.naval-technology.com/projects/supcobra/)
+  - [AH-1Z / UH-1Y on U.S. Navy PMA-276 site](https://web.archive.org/web/20080215190609/http://pma276public.navair.navy.mil/pma276public/history.asp#14)
+  - [AH-1Z page on GlobalSecurity.org](http://www.globalsecurity.org/military/systems/aircraft/ah-1z.htm)
+  - [Bell AH-1Z Super Cobra - Bell 449 on helis.com](http://www.helis.com/Since80s/h_ah1z.php)
+  - [H-1 Upgrade Program (UH-1Y/AH-1Z)](https://web.archive.org/web/20070710005737/http://hqinet001.hqmc.usmc.mil/p%26r/concepts/2007/PDF/Chapter%203/Part%203/C%26P2007Chap3%20Part3%20Aviation%20Combat%20Element%20Pg183%20H-1%20Upgrade%20Program%20%28UH-1Y%20AH-1Z%29.pdf)，U.S. Marine Corps, 2007.
+  - ["First Production H-1 Helicopters Rollout"](https://web.archive.org/web/20081118040703/http://www.bellhelicopter.com/en/company/pressReleases/PR_060929_1230_H1Rollout.cfm)，Bell Helicopter, September 27, 2006
+  - ["New H-1s reach 3,000 hrs, prep for OpEval"](https://web.archive.org/web/20080215193239/http://pma276public.navair.navy.mil/pma276public/newsArticle.asp?itemID=38)，U.S. Marine Corps, June 13, 2005.
+  - [" AH-1Z Super Cobra Completes Envelope Expansion Testing"](https://web.archive.org/web/20081230102743/http://www.news.navy.mil/search/display.asp?story_id=5276)，U.S. Navy, January 9 2003.
 
 [Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink")
 

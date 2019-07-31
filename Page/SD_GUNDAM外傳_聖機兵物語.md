@@ -1,5 +1,4 @@
-**SD高達外傳
-聖機兵物語**是SD高達外傳第三作，以「高達0083．星塵之回憶」為主要角色藍本，故事中亦首度出現巨大戰鬥兵器「機兵」，奠定往後各篇章中圍繞「騎士．機兵」的傳統。（「機兵」的設定，亦影響SD戰國傳系列中出現類似機兵的「機動武者」。）同時此作亦是首次確認兩個舞台不同的前兩作「捷古自護編」的拉古羅亞、與「圓桌騎士編」的布禮特斯王國，其實是同時存在的兩個國家。確立此後續作「機甲神傳說」、「聖龍傳說」、「黃金神話」，圍繞「拉古羅亞—布禮斯特王國—達巴王國」三者為故事舞台的傳統。
+**SD高達外傳 聖機兵物語**是SD高達外傳第三作，以「高達0083．星塵之回憶」為主要角色藍本，故事中亦首度出現巨大戰鬥兵器「機兵」，奠定往後各篇章中圍繞「騎士．機兵」的傳統。（「機兵」的設定，亦影響SD戰國傳系列中出現類似機兵的「機動武者」。）同時此作亦是首次確認兩個舞台不同的前兩作「捷古自護編」的拉古羅亞、與「圓桌騎士編」的布禮特斯王國，其實是同時存在的兩個國家。確立此後續作「機甲神傳說」、「聖龍傳說」、「黃金神話」，圍繞「拉古羅亞—布禮斯特王國—達巴王國」三者為故事舞台的傳統。
 
 ## 主要人物
 
@@ -17,8 +16,7 @@
 
 **騎士高達GP03**
 
-使用雙劍達巴王國騎士，擁有專用雙馬戰車「歐奇斯」(後來[SD高達外傳
-機甲神傳說中六有出現強化型態](https://zh.wikipedia.org/wiki/SD高達外傳_機甲神傳說 "wikilink"))，實力足以與機兵匹敵。
+使用雙劍達巴王國騎士，擁有專用雙馬戰車「歐奇斯」(後來[SD高達外傳 機甲神傳說中六有出現強化型態](https://zh.wikipedia.org/wiki/SD高達外傳_機甲神傳說 "wikilink"))，實力足以與機兵匹敵。
 
   -
     專用機兵﹕裝甲戰車．歐奇斯
@@ -31,8 +29,7 @@
 **傭兵騎士戰神高達/騎士高達F90-II**(傭兵騎士マルスガンダム／騎士ガンダムF90II，F90火星獨立軍型態/F90-II)
 
   -
-    受到達巴王國僱用的傭兵，達巴城陷落後，轉而受僱於新自護。實際上是圓桌騎士團成員鎧騎士F90的真正長子「騎士高達F90
-    II」，七年以前(即是帝王高達一世在位時期、布禮斯特滅亡之前)，因為與父親不和而離家出走。最後在戰事最後重遇三位弟弟，並與父親和解，才以本來的名字加入達巴軍。
+    受到達巴王國僱用的傭兵，達巴城陷落後，轉而受僱於新自護。實際上是圓桌騎士團成員鎧騎士F90的真正長子「騎士高達F90 II」，七年以前(即是帝王高達一世在位時期、布禮斯特滅亡之前)，因為與父親不和而離家出走。最後在戰事最後重遇三位弟弟，並與父親和解，才以本來的名字加入達巴軍。
 
 **女皇莉娜（女王ニナ）**
 
@@ -142,8 +139,7 @@
 
 ## 參考書目
 
-  - 單行本「SD高達外傳
-    聖機兵物語」（[ほしの竜一著](https://zh.wikipedia.org/wiki/ほしの竜一 "wikilink")）
+  - 單行本「SD高達外傳 聖機兵物語」（[ほしの竜一著](https://zh.wikipedia.org/wiki/ほしの竜一 "wikilink")）
 
 <!-- end list -->
 
@@ -155,7 +151,4 @@
 
 ## 相關連結
 
-[Category:SD_GUNDAM](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")
-[Category:1992年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1992年日本劇場動畫 "wikilink")
+[Category:SD_GUNDAM](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink") [Category:1992年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1992年日本劇場動畫 "wikilink")

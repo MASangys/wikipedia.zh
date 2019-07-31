@@ -1,21 +1,10 @@
-《**CANAAN**》（迦南）是根據2008年日本[CHUNSOFT](../Page/CHUNSOFT.md "wikilink")公司所發售的文字解謎冒險遊戲《[428
-〜被封鎖的涉谷〜](https://zh.wikipedia.org/wiki/428_〜被封鎖的涉谷〜 "wikilink")》改編的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，由[P.A.
-Works公司製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。2009年7月至9月於日本播放。最初發表的標題為《**428
-the
-animation**》。香港由2010年9月24日起，於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2台播放](https://zh.wikipedia.org/wiki/J2台 "wikilink")。
+《**CANAAN**》（迦南）是根據2008年日本[CHUNSOFT](../Page/CHUNSOFT.md "wikilink")公司所發售的文字解謎冒險遊戲《[428 〜被封鎖的涉谷〜](https://zh.wikipedia.org/wiki/428_〜被封鎖的涉谷〜 "wikilink")》改編的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，由[P.A. Works公司製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。2009年7月至9月於日本播放。最初發表的標題為《**428 the animation**》。香港由2010年9月24日起，於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2台播放](https://zh.wikipedia.org/wiki/J2台 "wikilink")。
 
 ## 概要
 
-2008年春季，CHUNSOFT提出電視動畫製作的企劃案，由《428
-〜被封鎖的澀谷〜》遊戲總監督[石井二郎](../Page/石井二郎.md "wikilink")領頭，擔任電視動畫版的動畫製作人一職，透露了本作《CANAAN》動畫化決定之後，與諸多動畫製作公司談過，給出具體且有趣提案是Video
-Maker[萬代影視](../Page/萬代影視.md "wikilink")Emotion Video與[P.A.
-Works的合作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。《428
-〜被封鎖的澀谷〜》找來了唱片公司歌手「[上木彩矢](../Page/上木彩矢.md "wikilink")」一起合作，藝人和遊戲之間並不存在多大的關聯性，為了提升宣傳效益，遊戲界和音樂界的跨界合作，提高話題性的行銷手法，電視動畫也採用了跨媒體合作，由唱片公司[Lantis](../Page/Lantis.md "wikilink")旗下藝人結合動畫的跨媒體行銷。動畫的故事是由
-Video Maker 主導展開全新的原創劇情。
+2008年春季，CHUNSOFT提出電視動畫製作的企劃案，由《428 〜被封鎖的澀谷〜》遊戲總監督[石井二郎](../Page/石井二郎.md "wikilink")領頭，擔任電視動畫版的動畫製作人一職，透露了本作《CANAAN》動畫化決定之後，與諸多動畫製作公司談過，給出具體且有趣提案是Video Maker[萬代影視](../Page/萬代影視.md "wikilink")Emotion Video與[P.A. Works的合作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。《428 〜被封鎖的澀谷〜》找來了唱片公司歌手「[上木彩矢](../Page/上木彩矢.md "wikilink")」一起合作，藝人和遊戲之間並不存在多大的關聯性，為了提升宣傳效益，遊戲界和音樂界的跨界合作，提高話題性的行銷手法，電視動畫也採用了跨媒體合作，由唱片公司[Lantis](../Page/Lantis.md "wikilink")旗下藝人結合動畫的跨媒體行銷。動畫的故事是由 Video Maker 主導展開全新的原創劇情。
 
-CHUNSOFT創社25週年，第一款電玩遊戲動畫化的作品於2008年10月[東京電玩展的攤位上宣佈TV化](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")《428
-the
-animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](../Page/CHUNSOFT.md "wikilink")與動畫製作委員會合作，電視動畫是涉谷篇與迦南篇延伸下來的原創電視劇。遊戲以[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")為背景舞臺，動畫以[中國](../Page/中國.md "wikilink")[上海為背景舞臺](https://zh.wikipedia.org/wiki/上海 "wikilink")。獲選為2009年第十三回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門推薦的作品。
+CHUNSOFT創社25週年，第一款電玩遊戲動畫化的作品於2008年10月[東京電玩展的攤位上宣佈TV化](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")《428 the animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](../Page/CHUNSOFT.md "wikilink")與動畫製作委員會合作，電視動畫是涉谷篇與迦南篇延伸下來的原創電視劇。遊戲以[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")為背景舞臺，動畫以[中國](../Page/中國.md "wikilink")[上海為背景舞臺](https://zh.wikipedia.org/wiki/上海 "wikilink")。獲選為2009年第十三回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門推薦的作品。
 
 ## 故事大綱
 
@@ -30,8 +19,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 <!-- end list -->
 
   -
-    病毒實驗的犧牲者，幼年感染過UA病毒，身上沒有出現病毒的花紋印記，本作唯一免疫病毒，與病毒實現共生的特殊體質，犯罪組織「蛇」想活抓的珍貴樣品。個性率真的無情殺手，被大澤形容既冷血又天真，對「感覺」不拐彎抹角，確定了自身的感情，如此直白，表達愛情十分簡明，對待朋友坦誠直率、語言純正，對信任的朋友是沒有拘束的，與朋友交往會毫無保留的付出。面對敵人的過錯，擁有一顆能寬恕對方的胸懷。喜歡甜食，經常含在嘴裡的零食是白砂糖加工凝結製成的香煙糖。任務委託人為夏目百合。主要武器是[貝瑞塔Px4
-    Storm G型手槍](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")。
+    病毒實驗的犧牲者，幼年感染過UA病毒，身上沒有出現病毒的花紋印記，本作唯一免疫病毒，與病毒實現共生的特殊體質，犯罪組織「蛇」想活抓的珍貴樣品。個性率真的無情殺手，被大澤形容既冷血又天真，對「感覺」不拐彎抹角，確定了自身的感情，如此直白，表達愛情十分簡明，對待朋友坦誠直率、語言純正，對信任的朋友是沒有拘束的，與朋友交往會毫無保留的付出。面對敵人的過錯，擁有一顆能寬恕對方的胸懷。喜歡甜食，經常含在嘴裡的零食是白砂糖加工凝結製成的香煙糖。任務委託人為夏目百合。主要武器是[貝瑞塔Px4 Storm G型手槍](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")。
 
 <!-- end list -->
 
@@ -67,8 +55,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
   -
     身高：167cm，國籍：阿富汗，年齡：動畫21歲、本篇19歲。年幼時期12歲、身高150cm
-    本作反派，恐怖組織「**蛇**」的實質首領，迦南的宿敵。容貌出眾、天賦過人，個性桀驁不馴、冷血無情，為人處事經常不照常理出牌，讓人摸不着頭緒的狡黠邪惡罪犯。精通多國語言，有着經濟知識和破解密碼等專長。。主要武器是[FN
-    Five-seveN USG手槍](../Page/FN_Five-seveN手槍.md "wikilink")。
+    本作反派，恐怖組織「**蛇**」的實質首領，迦南的宿敵。容貌出眾、天賦過人，個性桀驁不馴、冷血無情，為人處事經常不照常理出牌，讓人摸不着頭緒的狡黠邪惡罪犯。精通多國語言，有着經濟知識和破解密碼等專長。。主要武器是[FN Five-seveN USG手槍](../Page/FN_Five-seveN手槍.md "wikilink")。
 
 <!-- end list -->
 
@@ -78,8 +65,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 <!-- end list -->
 
   -
-    真正的姓名不詳，**Alphard**的含義為「蛇的心臟」，歐洲天文學家把「Alphard」稱作「Cor
-    Hydrae」，意為「蛇的心臟」，長蛇座心臟（α星）古阿拉伯人又形象稱之為「孤獨者」。幼年接受軍事訓練，監護人夏姆給她取其新名字為**Canaan**，後來自己改名稱為**Alphard**，電玩迦南篇出任務時，以**Sadaka**這個假名代號自稱，Sadaka中譯薩達卡意思是「施捨者」，源自伊斯蘭教中的「天課」。（註：原著428中為Alfard，動畫寫為Alphard，兩個都可用）。每個人都有自己的名字，一個人的名字多半是父母對孩子的期待，名字也是嬰兒降生在世上被賦予的第一份愛。Alphard原本的家庭和真正名字已從歷史紀錄中被抹消掉，老兵夏姆為了孤兒的她另起一個新名「Canaan」，一個新名字是一個新的身份，新的名字進入新名的呼召和命定，夏姆期許她的人生會和名字意義一樣。為了不辱名字的意義，持之以恆的訓練，付出極大努力。自稱捨棄了「Canaan」之名，其實內心很在乎「Canaan」這名字。
+    真正的姓名不詳，**Alphard**的含義為「蛇的心臟」，歐洲天文學家把「Alphard」稱作「Cor Hydrae」，意為「蛇的心臟」，長蛇座心臟（α星）古阿拉伯人又形象稱之為「孤獨者」。幼年接受軍事訓練，監護人夏姆給她取其新名字為**Canaan**，後來自己改名稱為**Alphard**，電玩迦南篇出任務時，以**Sadaka**這個假名代號自稱，Sadaka中譯薩達卡意思是「施捨者」，源自伊斯蘭教中的「天課」。（註：原著428中為Alfard，動畫寫為Alphard，兩個都可用）。每個人都有自己的名字，一個人的名字多半是父母對孩子的期待，名字也是嬰兒降生在世上被賦予的第一份愛。Alphard原本的家庭和真正名字已從歷史紀錄中被抹消掉，老兵夏姆為了孤兒的她另起一個新名「Canaan」，一個新名字是一個新的身份，新的名字進入新名的呼召和命定，夏姆期許她的人生會和名字意義一樣。為了不辱名字的意義，持之以恆的訓練，付出極大努力。自稱捨棄了「Canaan」之名，其實內心很在乎「Canaan」這名字。
 
 <!-- end list -->
 
@@ -189,9 +175,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
   -
     身高：170cm，國籍：日本
-    電視動畫原創角色。NGO組織「OWL」（鴞組織）的主要幹部，動畫版戲中對抗阿爾琺特領導的「蛇組織」。夏目的真實身份是日本[防衛省](../Page/防衛省.md "wikilink")[情報總部綜合情報部所屬的](https://zh.wikipedia.org/wiki/防衞省情報本部 "wikilink")[少佐](https://zh.wikipedia.org/wiki/少佐 "wikilink")。日本情報局的高層人員，也是國際反恐會議的議員，游走世界的多重國際間諜。僱用迦南是為了抹殺阿爾琺特，意圖奪取手中的病毒數據資料。立場性而言，不是好人也不是壞人。自以為真實身份無人知曉，沒想到阿爾琺特早已經查清底細；迦南透過共感覺知道夏目不懷好意，但是並未揭發夏目的底牌。最後夏目來個全面性背叛，帶着數據回日本，離開了中國。要求美國軍方的特殊任務部隊SMU（全名：Special
-    Mission
-    Unit）銷毀「工廠」的運作。提到的4153外交案件，指工廠破壞作戰行動中，假設可以獲得中華人民共和國政府的轟炸許可，其代償是日本政府可以承諾對中國某事件的通過，其詳細不明。
+    電視動畫原創角色。NGO組織「OWL」（鴞組織）的主要幹部，動畫版戲中對抗阿爾琺特領導的「蛇組織」。夏目的真實身份是日本[防衛省](../Page/防衛省.md "wikilink")[情報總部綜合情報部所屬的](https://zh.wikipedia.org/wiki/防衞省情報本部 "wikilink")[少佐](https://zh.wikipedia.org/wiki/少佐 "wikilink")。日本情報局的高層人員，也是國際反恐會議的議員，游走世界的多重國際間諜。僱用迦南是為了抹殺阿爾琺特，意圖奪取手中的病毒數據資料。立場性而言，不是好人也不是壞人。自以為真實身份無人知曉，沒想到阿爾琺特早已經查清底細；迦南透過共感覺知道夏目不懷好意，但是並未揭發夏目的底牌。最後夏目來個全面性背叛，帶着數據回日本，離開了中國。要求美國軍方的特殊任務部隊SMU（全名：Special Mission Unit）銷毀「工廠」的運作。提到的4153外交案件，指工廠破壞作戰行動中，假設可以獲得中華人民共和國政府的轟炸許可，其代償是日本政府可以承諾對中國某事件的通過，其詳細不明。
 
 <!-- end list -->
 
@@ -257,8 +241,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
   -
     國籍：日本
-    「Heaven出版社」（ヘブン出版）的社長，經營一間財務困難快倒閉的三流雜誌社。遊戲本編有一名十歲的女兒，姓名**頭山 花**（とうやま
-    はな）。動畫版的年齡是十二歲，登場於動畫第十三話，澀谷相展中的吊帶褲少女。
+    「Heaven出版社」（ヘブン出版）的社長，經營一間財務困難快倒閉的三流雜誌社。遊戲本編有一名十歲的女兒，姓名**頭山 花**（とうやま はな）。動畫版的年齡是十二歲，登場於動畫第十三話，澀谷相展中的吊帶褲少女。
 
 <!-- end list -->
 
@@ -288,15 +271,12 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 ## 用語
 
   - [共感覺](https://zh.wikipedia.org/wiki/共感覺 "wikilink")（日語：きょうかんかく）
-    源自一部電影的片名，《Synesthesia》中譯「共感覺」，又稱為**聯覺**、**通感**或**聯感**，這不是科幻，是一種官能心理學名詞。詞源來自「希臘文
-    Syn（共同）+
-    Aisthesis（感覺）」。共感覺指一個人感覺混淆，彷彿五種感官知覺融合、合併為一的過程。臨床醫學上意指一種感覺混合的罕見心理症狀，意思即為感官之間的互動綜合。
+    源自一部電影的片名，《Synesthesia》中譯「共感覺」，又稱為**聯覺**、**通感**或**聯感**，這不是科幻，是一種官能心理學名詞。詞源來自「希臘文 Syn（共同）+ Aisthesis（感覺）」。共感覺指一個人感覺混淆，彷彿五種感官知覺融合、合併為一的過程。臨床醫學上意指一種感覺混合的罕見心理症狀，意思即為感官之間的互動綜合。
 
 <!-- end list -->
 
   -
-    加拿大[麥馬士達大學](../Page/麥馬士達大學.md "wikilink")（[麥馬士達大學](../Page/麥馬士達大學.md "wikilink")）的心理學教授茂爾（Daphne
-    Maurer）在2004年11月6日的美國通感協會發表研究，人的感覺器官是互相聯繫、互相作用的整體，任何一種感覺器官受到刺激以後，都會誘發其他感覺系統的反應，這種伴隨性感覺被稱為共感覺。共感覺是所有[嬰兒](../Page/嬰兒.md "wikilink")都具備的能力，茂爾說：「還在學走路的小孩感受到白球的聲音較高，黑球的聲音較低，與具通感能力的成人一樣。隨着人的成長發育，大多數人的通感就遭到抑制。」具有通感能力的人長大後以為所有人感知世界的方式跟自己一樣，在他們提出像「她有個橘色的名字」，這樣的意見時，他們才會發現自己的感覺不同於別人。
+    加拿大[麥馬士達大學](../Page/麥馬士達大學.md "wikilink")（[麥馬士達大學](../Page/麥馬士達大學.md "wikilink")）的心理學教授茂爾（Daphne Maurer）在2004年11月6日的美國通感協會發表研究，人的感覺器官是互相聯繫、互相作用的整體，任何一種感覺器官受到刺激以後，都會誘發其他感覺系統的反應，這種伴隨性感覺被稱為共感覺。共感覺是所有[嬰兒](../Page/嬰兒.md "wikilink")都具備的能力，茂爾說：「還在學走路的小孩感受到白球的聲音較高，黑球的聲音較低，與具通感能力的成人一樣。隨着人的成長發育，大多數人的通感就遭到抑制。」具有通感能力的人長大後以為所有人感知世界的方式跟自己一樣，在他們提出像「她有個橘色的名字」，這樣的意見時，他們才會發現自己的感覺不同於別人。
 
 <!-- end list -->
 
@@ -306,8 +286,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 <!-- end list -->
 
   -
-    人的五感中，會從一種型態的感官刺激，如聽覺，引發另一種型態的感覺，例如視覺或味覺等。好比有人聽到尖銳的高音，會看到紅光，或是吃雞肉時手感覺的形狀是圓錐形。研究發現一般人都曾經在某個階段中，有過這種狀態的生活，有鹹的視覺、紫色的嗅覺、正方形的味覺，還能描述綠色波浪狀的交響曲，也就是視覺帶有聲音或觸覺帶有味道等等。「[時代雜誌](../Page/時代雜誌.md "wikilink")」2001年5月21日曾報導，台灣[中央大學英美語文學系副教授杜尚](https://zh.wikipedia.org/wiki/國立中央大學 "wikilink")（Sean
-    Day）每次聽到淒絕的薩克斯風樂聲，眼前就會出現一堆亮紫色的蛇形在空中扭動。口琴的聲音看起來比較舒服的淺綠色，叮叮咚咚的鋼琴則會帶來一片藍色的薄霧。食物也是色彩繽紛的。吃芒果冰的時候，牆壁會呈現萊姆綠，還有一陣陣櫻桃紅的條紋漣漪。
+    人的五感中，會從一種型態的感官刺激，如聽覺，引發另一種型態的感覺，例如視覺或味覺等。好比有人聽到尖銳的高音，會看到紅光，或是吃雞肉時手感覺的形狀是圓錐形。研究發現一般人都曾經在某個階段中，有過這種狀態的生活，有鹹的視覺、紫色的嗅覺、正方形的味覺，還能描述綠色波浪狀的交響曲，也就是視覺帶有聲音或觸覺帶有味道等等。「[時代雜誌](../Page/時代雜誌.md "wikilink")」2001年5月21日曾報導，台灣[中央大學英美語文學系副教授杜尚](https://zh.wikipedia.org/wiki/國立中央大學 "wikilink")（Sean Day）每次聽到淒絕的薩克斯風樂聲，眼前就會出現一堆亮紫色的蛇形在空中扭動。口琴的聲音看起來比較舒服的淺綠色，叮叮咚咚的鋼琴則會帶來一片藍色的薄霧。食物也是色彩繽紛的。吃芒果冰的時候，牆壁會呈現萊姆綠，還有一陣陣櫻桃紅的條紋漣漪。
 
 <!-- end list -->
 
@@ -322,8 +301,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 <!-- end list -->
 
   -
-    例如：法國詩人[夏爾·波德萊爾](https://zh.wikipedia.org/wiki/夏爾·波德萊爾 "wikilink")、日本詩人[松尾芭蕉](../Page/松尾芭蕉.md "wikilink")、美國歌手[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink")、奧地利作曲家[-{zh-hans:弗朗茨·李斯特;zh-hant:弗朗茨·李斯特;zh-tw:弗朗茨·李斯特;zh-hk:法蘭茲·李斯特;zh-mo:法蘭茲·李斯特;}-等](https://zh.wikipedia.org/wiki/弗朗茨·李斯特 "wikilink")，他們都有神秘的共感覺能力。歷史上許多藝術家這種「彩色聽覺」的能力，最知名就是俄國作曲家[史克里亞賓](https://zh.wikipedia.org/wiki/史克里亞賓 "wikilink")（Alexander
-    Scriabin）。他試圖將這些色彩與音調的共生感覺譜進他的第五交響曲，一個「音樂與色彩水乳交融的構想」，精確地羅列曲調、每秒震動次數和色彩的對應表：C調－256次－紅色，升C調－277次－紫色，D調－298次－黃色，升D調－319次－森林的鋼鐵之光，E調－341次－珍珠白和月光的閃爍，F調－362次－暗紅色，升F調－383次－水藍色，G調－405次－偏玫瑰紅的橙色，A調－447次－綠色，B調－490次－珍珠藍。這首交響曲在演出時，除了安排完整的交響樂團之外，還需要用到一架鋼琴、合唱團和一部能將色彩投射到布幕的色光風琴。可惜首演時，被人以不切實際的理由給刪除。普通人對於共感覺者的感知的現象無法理解，共感覺者經常感到極深的孤獨與疏離感。
+    例如：法國詩人[夏爾·波德萊爾](https://zh.wikipedia.org/wiki/夏爾·波德萊爾 "wikilink")、日本詩人[松尾芭蕉](../Page/松尾芭蕉.md "wikilink")、美國歌手[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink")、奧地利作曲家[-{zh-hans:弗朗茨·李斯特;zh-hant:弗朗茨·李斯特;zh-tw:弗朗茨·李斯特;zh-hk:法蘭茲·李斯特;zh-mo:法蘭茲·李斯特;}-等](https://zh.wikipedia.org/wiki/弗朗茨·李斯特 "wikilink")，他們都有神秘的共感覺能力。歷史上許多藝術家這種「彩色聽覺」的能力，最知名就是俄國作曲家[史克里亞賓](https://zh.wikipedia.org/wiki/史克里亞賓 "wikilink")（Alexander Scriabin）。他試圖將這些色彩與音調的共生感覺譜進他的第五交響曲，一個「音樂與色彩水乳交融的構想」，精確地羅列曲調、每秒震動次數和色彩的對應表：C調－256次－紅色，升C調－277次－紫色，D調－298次－黃色，升D調－319次－森林的鋼鐵之光，E調－341次－珍珠白和月光的閃爍，F調－362次－暗紅色，升F調－383次－水藍色，G調－405次－偏玫瑰紅的橙色，A調－447次－綠色，B調－490次－珍珠藍。這首交響曲在演出時，除了安排完整的交響樂團之外，還需要用到一架鋼琴、合唱團和一部能將色彩投射到布幕的色光風琴。可惜首演時，被人以不切實際的理由給刪除。普通人對於共感覺者的感知的現象無法理解，共感覺者經常感到極深的孤獨與疏離感。
 
 <!-- end list -->
 
@@ -333,8 +311,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 <!-- end list -->
 
   -
-    共感覺設定並不來自奈須磨菇，由428本篇監督石井二郎要求加入原案。根據石井二郎Twitter說法，受到2005年晚間23:00-24:00，NHK
-    BS世界のドキュメンタリー，播送的節目，名為『“共感覚”の不思議 言葉誕生の謎に迫る 』（制作：BBC）所影響。
+    共感覺設定並不來自奈須磨菇，由428本篇監督石井二郎要求加入原案。根據石井二郎Twitter說法，受到2005年晚間23:00-24:00，NHK BS世界のドキュメンタリー，播送的節目，名為『“共感覚”の不思議 言葉誕生の謎に迫る 』（制作：BBC）所影響。
 
 <!-- end list -->
 
@@ -394,8 +371,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 <!-- end list -->
 
   - Unbloom（日語：アンブルーム）
-    村民感染UA病毒後未死，終生無法見光。戴着面具的人皆是Unbloom，他們的身份是和夏珂、雲雲同鄉的村民。村民多是一般的普通人，談不上戰士，戰鬥力指數一般。對「蛇」組織服從力高的村民，可以自由活動，被梁琪放養在上海等待組織下令指揮，做些殺人放火的勾當。忠誠度低的Unbloom被關在克什米爾地區「工廠」。第一話從實驗室脫離三名
-    Unbloom是桑納塔和夏目的NGO組織協助脫逃。三名脫逃的村民和負責載運的司機，雖然受到迦南的掩護，最後仍遭受到「蛇」組織派出的殺手追殺身亡。NGO幫助村民逃離「工廠」，目的是揭發中情報和「蛇」組織合作這一事實。
+    村民感染UA病毒後未死，終生無法見光。戴着面具的人皆是Unbloom，他們的身份是和夏珂、雲雲同鄉的村民。村民多是一般的普通人，談不上戰士，戰鬥力指數一般。對「蛇」組織服從力高的村民，可以自由活動，被梁琪放養在上海等待組織下令指揮，做些殺人放火的勾當。忠誠度低的Unbloom被關在克什米爾地區「工廠」。第一話從實驗室脫離三名 Unbloom是桑納塔和夏目的NGO組織協助脫逃。三名脫逃的村民和負責載運的司機，雖然受到迦南的掩護，最後仍遭受到「蛇」組織派出的殺手追殺身亡。NGO幫助村民逃離「工廠」，目的是揭發中情報和「蛇」組織合作這一事實。
 
 <!-- end list -->
 
@@ -404,14 +380,12 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
 <!-- end list -->
 
-  - PLA，指[中國人民解放軍](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")（英語：People's
-    Liberation Army）
+  - PLA，指[中國人民解放軍](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")（英語：People's Liberation Army）
     中華人民共和國最主要的武裝力量，執行中國共產黨政治任務的武裝集團，常備軍高達230萬人，位居世界首位。電視動畫的「花園計劃」和「人體實驗」這些事情和中國無關係，僅僅在夏目少佐（日軍）的衛星電話請求下，美軍負責轟炸「工廠」後，解放軍協助清理並掩埋村民的屍體的工作。日軍和美軍將新疆地區的恐怖組織「反恐任務」成功，這一功勞送給中國人民解放軍，全部病毒事件就此落幕。
 
 <!-- end list -->
 
-  - NGO，指[非政府組織](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")（英語：Non-governmental
-    organization）
+  - NGO，指[非政府組織](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")（英語：Non-governmental organization）
     一個不屬於政府、不由國家建立的組織，通常獨立於政府。雖然從定義上包含以營利為目的的企業，該名詞一般僅限於非商業化、合法的、與社會文化和環境相關的倡導群體。1995年聯合國關於全球管理的報告統計，有接近29000個國際NGO。國家級的更多，美國統計過有兩百萬個NGO，大部分是過去30年成立的，其中有65000個在俄羅斯。每天有數十個NGO成立。電視動畫中的NGO組織是專門蒐集中情局犯罪事實，要挾方式，進行敲詐勒索。
 
 <!-- end list -->
@@ -421,14 +395,12 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
 <!-- end list -->
 
-  - CIA，指[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")（英語：Central
-    Intelligence Agency）
+  - CIA，指[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")（英語：Central Intelligence Agency）
     美國最大的情報機構，主要任務是公開和秘密地收集和分析關於國外政府等各方面的情報，協調其他國內情報機構的活動，並把這些情報報告到美國政府各個部門的工作。負責維持大量軍事設備，這些設備在冷戰期間用於推翻外國政府，例如前蘇聯，和對美國利益構成威脅的反對者。中央情報局總部設在維吉尼亞州的蘭利（Langley）。Langley指CIA。
 
 <!-- end list -->
 
-  - CDC，指[美國疾病控制與預防中心](https://zh.wikipedia.org/wiki/美國疾病控制與預防中心 "wikilink")（英語：Centers
-    for Disease Control and Prevention）
+  - CDC，指[美國疾病控制與預防中心](https://zh.wikipedia.org/wiki/美國疾病控制與預防中心 "wikilink")（英語：Centers for Disease Control and Prevention）
     隸屬於美國的公家機關，負責疾病監控和公共衛生的整合。
 
 <!-- end list -->
@@ -440,8 +412,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
   - NBCR，指[大規模殺傷性武器](https://zh.wikipedia.org/wiki/大規模殺傷性武器 "wikilink")。
     這詞最早出現於1937年，一般指以下三種：
-      - [核武器](../Page/核武器.md "wikilink")（**N**uclear） -
-        包括[放射性武器](../Page/放射性武器.md "wikilink")
+      - [核武器](../Page/核武器.md "wikilink")（**N**uclear） - 包括[放射性武器](../Page/放射性武器.md "wikilink")
       - [生物武器](../Page/生物武器.md "wikilink")（**B**iological）
       - [化學武器](https://zh.wikipedia.org/wiki/化學武器 "wikilink")（**C**hemical）
 
@@ -455,16 +426,14 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
   - PMC，指私人軍事承辦商（英語：[私人軍事服務公司](../Page/私人軍事服務公司.md "wikilink")）
     擁有大量具作戰能力的[僱傭兵](../Page/僱傭兵.md "wikilink")及軍事武器，接受金錢交易後會執行軍事任務的公司。
     故事中甘明治所營運的DAEDALA Corporation，就是一間PMC。這公司其實是恐怖組織「蛇」集團用以掩飾的表面形象。
-    在現實中，自[911事件後](https://zh.wikipedia.org/wiki/911事件 "wikilink")，PMC越來越多。不只在[伊拉克](../Page/伊拉克.md "wikilink")、[阿富汗](../Page/阿富汗.md "wikilink")等交戰地區，即使在北美、東歐、南美等地區，PMC也活動頻密，主要任務是保護一些重要人物。\<\!--;
-    PMC，指生產及物料控制（英語：Product Material Control）
+    在現實中，自[911事件後](https://zh.wikipedia.org/wiki/911事件 "wikilink")，PMC越來越多。不只在[伊拉克](../Page/伊拉克.md "wikilink")、[阿富汗](../Page/阿富汗.md "wikilink")等交戰地區，即使在北美、東歐、南美等地區，PMC也活動頻密，主要任務是保護一些重要人物。\<\!--; PMC，指生產及物料控制（英語：Product Material Control）
     分成主要兩個部分：
       - PC：生產控制或生產管制。主要職能是生產的計劃與生產的進度控制。
       - MC：物料控制，主要職能是物料計劃、請購、物料調度、物料的控制等。--\>
 
 <!-- end list -->
 
-  - ECM，指[電子反治戰術](https://zh.wikipedia.org/wiki/電子反治戰術 "wikilink")（英語：Electronic
-    Counter Measurement）
+  - ECM，指[電子反治戰術](https://zh.wikipedia.org/wiki/電子反治戰術 "wikilink")（英語：Electronic Counter Measurement）
     軍戰術中以電子戰反治對方情報收集及通信係統的手法 常見的如黑客入侵,周波通信干擾,雷達干擾等
 
 <!-- end list -->
@@ -474,16 +443,13 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
 <!-- end list -->
 
-  - NSA，[美國國家安全局](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")（英語：National
-    Security Agency）
+  - NSA，[美國國家安全局](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")（英語：National Security Agency）
     美國政府機構中最大的情報部門，專門負責收集和分析外國通訊資料，隸屬於美國國防部。
 
 <!-- end list -->
 
-  - SAC，[中國證監會](https://zh.wikipedia.org/wiki/中國證監會 "wikilink")（英語：Securities
-    Association of China）
-    這名稱的準確性有待商討。英语意为“中国证券业协会”，但動畫內容所指的，確實是中國證監會。不曉得是不是動畫縮寫打錯，還是故意更改名字。正確名稱應該是「中國證券監督管理委員會」，英文全名「China
-    Securities Regulatory Commission」，英文簡稱「CSRC」。
+  - SAC，[中國證監會](https://zh.wikipedia.org/wiki/中國證監會 "wikilink")（英語：Securities Association of China）
+    這名稱的準確性有待商討。英语意为“中国证券业协会”，但動畫內容所指的，確實是中國證監會。不曉得是不是動畫縮寫打錯，還是故意更改名字。正確名稱應該是「中國證券監督管理委員會」，英文全名「China Securities Regulatory Commission」，英文簡稱「CSRC」。
 
 <!-- end list -->
 
@@ -498,8 +464,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 <!-- end list -->
 
   - [大蘋果](../Page/大蘋果.md "wikilink")（英文：The Big Apple）
-    地名。意指[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")（New York
-    City）。
+    地名。意指[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")（New York City）。
 
 <!-- end list -->
 
@@ -513,8 +478,7 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
 <!-- end list -->
 
-  - [阿克賽欽地區](https://zh.wikipedia.org/wiki/阿克賽欽 "wikilink")（英語：Aksai
-    Chin）
+  - [阿克賽欽地區](https://zh.wikipedia.org/wiki/阿克賽欽 "wikilink")（英語：Aksai Chin）
     地名。位於中華人民共和國新疆、西藏兩自治區與印度的邊界西段。阿克賽欽是突厥語，這裡的「欽」就是突厥語中國的意思。目前中國方面擁有實際控制權，並稱這裡自古就是中國領土，絕大部分屬於新疆和田地區管轄，南部很小一部分屬於西藏自治區阿里地區管轄。「工廠」實驗室的所在地。
 
 <!-- end list -->
@@ -529,16 +493,13 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 
 <!-- end list -->
 
-  - [PLO](../Page/巴勒斯坦解放組織.md "wikilink")（英語：Palestine Liberation
-    Organization）
+  - [PLO](../Page/巴勒斯坦解放組織.md "wikilink")（英語：Palestine Liberation Organization）
     [巴勒斯坦解放組織](../Page/巴勒斯坦解放組織.md "wikilink")。一個巴勒斯坦阿拉伯人的政治及準軍事組織，他們專注於建立一個獨立的[巴勒斯坦國](https://zh.wikipedia.org/wiki/巴勒斯坦國 "wikilink")，並意圖取代[以色列](../Page/以色列.md "wikilink")。PLO組織進入黎巴嫩後，受到黎巴嫩基督教勢力的強烈排斥。1972年[慕尼黑慘案爆發](https://zh.wikipedia.org/wiki/慕尼黑慘案 "wikilink")，以色列為了報復，入侵[黎巴嫩](../Page/黎巴嫩.md "wikilink")，攻擊涉嫌的PLO組織的領導人，之後，[黎巴嫩內戰](../Page/黎巴嫩內戰.md "wikilink")隨後爆發。黎巴嫩首都貝魯特，有東方小巴黎之稱的城市，瞬間變成火炮下的煉獄。獲得以色列武器支援的基督教民兵和得到敘利亞武器支援的PLO組織，作戰到1981年為止，雙方共有四萬准軍事人員戰死，平民死傷則不計其數。
 
 <!-- end list -->
 
   - [天課](../Page/天課.md "wikilink")（Zakat）
-    伊斯蘭教的宗教術語。天課是伊斯蘭信仰的第四基柱。這是安拉（Allah）對那些豐衣足食的穆民的主命，命令人們把其每年盈餘財富的一部份挪用作為幫助貧民或者有需要的人。穆聖說：『真主規定
-    「天課」
-    為主命，純綷是使我們的盈餘得以滌淨。這主命是異教的任何誡條都不能比擬的。』，無論是施捨、救濟金、賑濟品都無法完全表示出天課既不是政府徵收的稅款、也不是隨意捐助的贈金，而是人類最能擭得真主喜悅的天職，敬拜真主的一種行為。
+    伊斯蘭教的宗教術語。天課是伊斯蘭信仰的第四基柱。這是安拉（Allah）對那些豐衣足食的穆民的主命，命令人們把其每年盈餘財富的一部份挪用作為幫助貧民或者有需要的人。穆聖說：『真主規定 「天課」 為主命，純綷是使我們的盈餘得以滌淨。這主命是異教的任何誡條都不能比擬的。』，無論是施捨、救濟金、賑濟品都無法完全表示出天課既不是政府徵收的稅款、也不是隨意捐助的贈金，而是人類最能擭得真主喜悅的天職，敬拜真主的一種行為。
 
 <!-- end list -->
 
@@ -569,29 +530,21 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
   - 剪接：高橋步
   - 原創音樂：[七瀨光](https://zh.wikipedia.org/wiki/七瀨光 "wikilink")
   - 音響總監：明田川仁（Procen Studio）
-  - 音響設計：[田中理惠](https://zh.wikipedia.org/wiki/田中理惠_\(音响监督\) "wikilink")（Magic
-    Capsule）
+  - 音響設計：[田中理惠](https://zh.wikipedia.org/wiki/田中理惠_\(音响监督\) "wikilink")（Magic Capsule）
   - 動作音效設計：中野勝博（Sound Box）
   - 動畫檢查：高田彩、花谷智佳子
   - 視覺特效總監：山崎嘉雅
-  - 執行製片人(executive
-    producer)：森本浩二、[中村光一](../Page/中村光一.md "wikilink")、福場一義、伊藤善之、矢部征嗣、臼井久人、[安藝貴範](https://zh.wikipedia.org/wiki/安藝貴範 "wikilink")、太田豐紀、[木谷高明](https://zh.wikipedia.org/wiki/木谷高明 "wikilink")、太布尚弘
+  - 執行製片人(executive producer)：森本浩二、[中村光一](../Page/中村光一.md "wikilink")、福場一義、伊藤善之、矢部征嗣、臼井久人、[安藝貴範](https://zh.wikipedia.org/wiki/安藝貴範 "wikilink")、太田豐紀、[木谷高明](https://zh.wikipedia.org/wiki/木谷高明 "wikilink")、太布尚弘
   - 製片人(producer)：大島靖、（石井二郎）、[齋藤滋](../Page/齋藤滋.md "wikilink")、川村仁、[堀川憲司](../Page/堀川憲司.md "wikilink")、福良啟
   - 總策劃(associate producer)：山崎史紀、小田ツヨシ、小坂竜司、中村伸行
-  - 動畫製作：[P.A.
-    Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
+  - 動畫製作：[P.A. Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
   - 製作協力：[Production I.G](../Page/Production_I.G.md "wikilink")
-  - 出品：[Project
-    CANAAN](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
-  - 參與企業：森本浩二：Bandai Visual萬代影視、中村光一：Spike Chunsoft、福場一義：Pony
-    Canyon波麗佳音、伊藤善之：Lantis、矢部征嗣：Hakuhodo DY Media
-    Partners、臼井久人：Showgate、安藝貴範：Good Smile
-    Company、太田豐紀：MAGES、木谷高明：Bushiroad武士道、太布尚弘：Movic
+  - 出品：[Project CANAAN](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
+  - 參與企業：森本浩二：Bandai Visual萬代影視、中村光一：Spike Chunsoft、福場一義：Pony Canyon波麗佳音、伊藤善之：Lantis、矢部征嗣：Hakuhodo DY Media Partners、臼井久人：Showgate、安藝貴範：Good Smile Company、太田豐紀：MAGES、木谷高明：Bushiroad武士道、太布尚弘：Movic
 
 ### 主題歌
 
-  - 片頭曲《[mind as
-    Judgment](https://zh.wikipedia.org/wiki/mind_as_Judgment "wikilink")》
+  - 片頭曲《[mind as Judgment](https://zh.wikipedia.org/wiki/mind_as_Judgment "wikilink")》
     作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")；作曲、編曲：[上松範康](../Page/上松範康.md "wikilink")；歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
   - 片尾曲《My heaven》
     作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")；作編曲：myu；歌：Annabel
@@ -924,16 +877,14 @@ animation》，[多玩國](../Page/多玩國.md "wikilink")所屬的[CHUNSOFT](.
 | DVD Boxset | 2010年9月2日發售 | 990新台幣 | 全13話，三枚入 | 無中文配音、日語(AC3 2.0),16:9 |
 |            |             |        |          |                        |
 
-澳洲版DVD，DVD區域碼:四區。代理商為Siren Visual電影公司，Gryphon
-Entertainment為澳洲經銷商，Vendetta Films為紐西蘭經銷商。
+澳洲版DVD，DVD區域碼:四區。代理商為Siren Visual電影公司，Gryphon Entertainment為澳洲經銷商，Vendetta Films為紐西蘭經銷商。
 
 | 卷數         | 發售日期          | 定價      | 收錄/枚數    | 配音/規格                                  |
 | ---------- | ------------- | ------- | -------- | -------------------------------------- |
 | DVD Boxset | 2010年10月20日發售 | 49.95澳幣 | 全13話，三枚入 | 英語、日語(Dolby Digital 5.1),16:9 - 1.78:1 |
 |            |               |         |          |                                        |
 
-北美版DVD、BD，DVD區域碼:一區。代理商為Sentai Flim Works電影公司，Sma Distribution和Section23
-Films為歐美經銷商。
+北美版DVD、BD，DVD區域碼:一區。代理商為Sentai Flim Works電影公司，Sma Distribution和Section23 Films為歐美經銷商。
 
 | 卷數         | 發售日期          | 定價      | 收錄/枚數    | 配音/規格                                  |
 | ---------- | ------------- | ------- | -------- | -------------------------------------- |
@@ -1007,8 +958,7 @@ Films為歐美經銷商。
 
   - 《CANAAN-異能者迦南-》
 
-於角川書店漫畫雜誌《月刊Comp-Ace》2009年8月號上刊載〈CANAAN
-〜序章〜〉之後正式連載，於2009年9月號開始至2011年3月連載結束。作者為。單行本全3卷。
+於角川書店漫畫雜誌《月刊Comp-Ace》2009年8月號上刊載〈CANAAN 〜序章〜〉之後正式連載，於2009年9月號開始至2011年3月連載結束。作者為。單行本全3卷。
 
 <table>
 <thead>
@@ -1044,9 +994,7 @@ Films為歐美經銷商。
 
   - 《CANAAN Spill》（）
 
-由萬代影視和角川書店合作的網路連載漫畫。於漫畫雜誌《Mobile Comic誌・週2 Comic
-Gohin》2010年3月1日開始至2011年3月22日連載結束。作者為細雪純。單行本全2卷。
-中文版譯名為《異能者迦南》。
+由萬代影視和角川書店合作的網路連載漫畫。於漫畫雜誌《Mobile Comic誌・週2 Comic Gohin》2010年3月1日開始至2011年3月22日連載結束。作者為細雪純。單行本全2卷。 中文版譯名為《異能者迦南》。
 
 內容是TV版《CANAAN》與《428 〜被封鎖的涉谷〜》兩者連繫的原創故事加番外篇。
 
@@ -1081,9 +1029,7 @@ Gohin》2010年3月1日開始至2011年3月22日連載結束。作者為細雪�
 
 執筆者：。
 
-  - 2009年10月24日發售、ISBN
-    978-4-75-800520-3（[一迅社](../Page/一迅社.md "wikilink")、DNA
-    Media Comics）
+  - 2009年10月24日發售、ISBN 978-4-75-800520-3（[一迅社](../Page/一迅社.md "wikilink")、DNA Media Comics）
 
 ### 其他書籍
 
@@ -1091,8 +1037,7 @@ Gohin》2010年3月1日開始至2011年3月22日連載結束。作者為細雪�
 
 <!-- end list -->
 
-  - 2010年2月12日發售、ISBN 978-4-75-801156-3（一迅社、DNA Media Comics刊、編輯：Post
-    Media編集部）
+  - 2010年2月12日發售、ISBN 978-4-75-801156-3（一迅社、DNA Media Comics刊、編輯：Post Media編集部）
 
 ## 參考註釋
 
@@ -1104,8 +1049,7 @@ Gohin》2010年3月1日開始至2011年3月22日連載結束。作者為細雪�
 
   - [CANAAN官方網頁(TOKYO MX)](http://www.mxtv.co.jp/canaan/)
 
-  - [「428 the
-    animation」TYPE-MOON監督腳本](https://web.archive.org/web/20081015040829/http://www.gpara.com/article/cms_show.php?c_id=9929&c_num=56)
+  - [「428 the animation」TYPE-MOON監督腳本](https://web.archive.org/web/20081015040829/http://www.gpara.com/article/cms_show.php?c_id=9929&c_num=56)
 
   - [428官方網頁(遊戲Wii)](https://archive.is/20130501220932/http://chun.sega.jp/428/staff/)
 
@@ -1115,16 +1059,6 @@ Gohin》2010年3月1日開始至2011年3月22日連載結束。作者為細雪�
 
   - [迦南/CANAAN槍支大全](http://www.imfdb.org/index.php/CANAAN)
 
-[Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink")
-[Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink")
-[Category:Animate.tv](https://zh.wikipedia.org/wiki/Category:Animate.tv "wikilink")
-[Category:TYPE-MOON](https://zh.wikipedia.org/wiki/Category:TYPE-MOON "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink")
-[Category:上海市背景作品](https://zh.wikipedia.org/wiki/Category:上海市背景作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
+[Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink") [Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink") [Category:Animate.tv](https://zh.wikipedia.org/wiki/Category:Animate.tv "wikilink") [Category:TYPE-MOON](https://zh.wikipedia.org/wiki/Category:TYPE-MOON "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:上海市背景作品](https://zh.wikipedia.org/wiki/Category:上海市背景作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
 
 1.  以**[J2](../Page/J2.md "wikilink")**頻道翻譯為準。

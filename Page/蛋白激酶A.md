@@ -7,11 +7,8 @@
 ## 外部链接
 
   -
-  - [*Drosophila* *cAMP-dependent protein kinase 1* - The Interactive
-    Fly](http://www.sdbonline.org/fly/newgene/pka-c1.htm)
+  - [*Drosophila* *cAMP-dependent protein kinase 1* - The Interactive Fly](http://www.sdbonline.org/fly/newgene/pka-c1.htm)
 
-[Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink")
-[Category:蛋白激酶](https://zh.wikipedia.org/wiki/Category:蛋白激酶 "wikilink")
-[Category:EC_2.7.11](https://zh.wikipedia.org/wiki/Category:EC_2.7.11 "wikilink")
+[Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink") [Category:蛋白激酶](https://zh.wikipedia.org/wiki/Category:蛋白激酶 "wikilink") [Category:EC_2.7.11](https://zh.wikipedia.org/wiki/Category:EC_2.7.11 "wikilink")
 
 1.

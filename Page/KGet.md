@@ -1,7 +1,4 @@
-**KGet**
-是一個[KDE](../Page/KDE.md "wikilink")下的自由下載管理器。默認情況下它是[Konqueror](../Page/Konqueror.md "wikilink")使用的下載管理器，但Mozilla
-Firefox 也可以使用。\[1\]KGet是KDE Network的一部分，並曾在Tux 雜誌\[2\] 和Free Software
-雜誌\[3\]作過特別報導。
+**KGet** 是一個[KDE](../Page/KDE.md "wikilink")下的自由下載管理器。默認情況下它是[Konqueror](../Page/Konqueror.md "wikilink")使用的下載管理器，但Mozilla Firefox 也可以使用。\[1\]KGet是KDE Network的一部分，並曾在Tux 雜誌\[2\] 和Free Software 雜誌\[3\]作過特別報導。
 
 ## 功能
 
@@ -21,12 +18,10 @@ Firefox 也可以使用。\[1\]KGet是KDE Network的一部分，並曾在Tux 雜
 ## 外部連結
 
   - <http://www.kde.org/applications/internet/kget/development>
-  - [KGet
-    使用手冊](http://docs.kde.org/stable/en/kdenetwork/kget/index.html)
+  - [KGet 使用手冊](http://docs.kde.org/stable/en/kdenetwork/kget/index.html)
   - <http://www.kde.org>
 
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink")
+[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink")
 
 1.
 2.

@@ -1,15 +1,10 @@
-《**無頭騎士異聞錄
-DuRaRaRa\!\!**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[成田良悟](../Page/成田良悟.md "wikilink")撰寫、[ヤスダスズヒト](https://zh.wikipedia.org/wiki/ヤスダスズヒト "wikilink")（安田典生／安田鈴人\[1\]）繪製插畫的[輕小說](../Page/輕小說.md "wikilink")系列。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")（[ASCII
-MEDIA
-WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")）出版；繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理；簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
+《**無頭騎士異聞錄 DuRaRaRa\!\!**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[成田良悟](../Page/成田良悟.md "wikilink")撰寫、[ヤスダスズヒト](https://zh.wikipedia.org/wiki/ヤスダスズヒト "wikilink")（安田典生／安田鈴人\[1\]）繪製插畫的[輕小說](../Page/輕小說.md "wikilink")系列。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")（[ASCII MEDIA WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")）出版；繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理；簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
 
-本作以[池袋](../Page/池袋.md "wikilink")為舞台，嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、以作情報販子「為樂」的青年、專接不尋常病患的密醫、迷上魔物的高中生以及騎著漆黑色機車的「無頭騎士」等共同展開的一連串非日常的故事。第一部全13卷已完結，2014年4月開始刊載第二部《**無頭騎士異聞錄
-DuRaRaRa\!\!SH**》（）。
+本作以[池袋](../Page/池袋.md "wikilink")為舞台，嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、以作情報販子「為樂」的青年、專接不尋常病患的密醫、迷上魔物的高中生以及騎著漆黑色機車的「無頭騎士」等共同展開的一連串非日常的故事。第一部全13卷已完結，2014年4月開始刊載第二部《**無頭騎士異聞錄 DuRaRaRa\!\!SH**》（）。
 
 改編[漫畫版於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）2009年5月號起連載，[茶鳥木明代作畫](https://zh.wikipedia.org/wiki/茶鳥木明代 "wikilink")。
 
-2009年7月宣佈[動畫化](https://zh.wikipedia.org/wiki/動畫 "wikilink")，2010年1月起播放，此外於[東京國際動畫展](https://zh.wikipedia.org/wiki/東京國際動畫展 "wikilink")2010宣佈遊戲化\[2\]。於2014年3月宣佈二期動畫化《無頭騎士異聞錄
-DuRaRaRa\!\!×2》，將分成三個季度播放。第一季「承」於2015年1月播映；第二季「轉」於同年7月播映；第三季「結」於2016年1月播映。
+2009年7月宣佈[動畫化](https://zh.wikipedia.org/wiki/動畫 "wikilink")，2010年1月起播放，此外於[東京國際動畫展](https://zh.wikipedia.org/wiki/東京國際動畫展 "wikilink")2010宣佈遊戲化\[2\]。於2014年3月宣佈二期動畫化《無頭騎士異聞錄 DuRaRaRa\!\!×2》，將分成三個季度播放。第一季「承」於2015年1月播映；第二季「轉」於同年7月播映；第三季「結」於2016年1月播映。
 
 ## 故事簡介
 
@@ -17,12 +12,9 @@ DuRaRaRa\!\!×2》，將分成三個季度播放。第一季「承」於2015年1
 
 在池袋甚囂塵上的無頭騎士，其尋頭之旅將引來軒然大波！ 「實在太有趣了。實在太有趣了。實在太有趣了。」
 
-這個地方一直有我不知道的事情不斷不斷不斷地湧現、誕生、消逝。 就是因為這樣，才讓我離不開人類群居的地方！人類、LOVE！
-我最喜歡人類了！我愛你們！」
+這個地方一直有我不知道的事情不斷不斷不斷地湧現、誕生、消逝。 就是因為這樣，才讓我離不開人類群居的地方！人類、LOVE！ 我最喜歡人類了！我愛你們！」
 
-位於東京的池袋，這裡聚集了許多不尋常的傢伙。 嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、
-以作情報販子「為樂」的青年、專接不尋常病患的密醫、
-迷上魔物的高中生——還有騎著漆黑色機車的「無頭騎士」。
+位於東京的池袋，這裡聚集了許多不尋常的傢伙。 嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、 以作情報販子「為樂」的青年、專接不尋常病患的密醫、 迷上魔物的高中生——還有騎著漆黑色機車的「無頭騎士」。
 
 這些不尋常的傢伙們展開一連串不正常的故事，卻教人看得痛快無比。 不過，雖然個性扭曲──他們還是會談戀愛哦！
 
@@ -104,8 +96,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 #### 尼布羅
 
   -
-    美國一家擁有百年歷史的聯合企業。其事業領域跨及運輸、出版、生化科技等等，規模龐大。在作者系列作中的《[Vamp\!](../Page/Vamp!.md "wikilink")》和《[BACCANO\!
-    大騷動\!](https://zh.wikipedia.org/wiki/BACCANO! "wikilink")》也有登場過。
+    美國一家擁有百年歷史的聯合企業。其事業領域跨及運輸、出版、生化科技等等，規模龐大。在作者系列作中的《[Vamp\!](../Page/Vamp!.md "wikilink")》和《[BACCANO\! 大騷動\!](https://zh.wikipedia.org/wiki/BACCANO! "wikilink")》也有登場過。
     在岸谷森嚴的主導下於「頭」的騷動結束後併購矢霧製藥，目的是為了矢霧製藥所擁有的無頭騎士的頭顱，但因為矢霧波江將頭顱帶走而沒得到。第一部結束後才因波江轉投尼布羅而成功將頭顱帶往美國。
 
 #### 天堂奴隸
@@ -548,8 +539,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
   - 執行製片人：越智武、小山直子
   - 製片人：横山朱子、和田敦、小岐須泰世、金庭こず恵、丸山博雄
   - 動畫製作人：佐藤由美
-  - 動畫系列製作：[Brain's
-    Base](../Page/Brain's_Base.md "wikilink")（第一期）、[朱夏](../Page/朱夏_\(動畫工作室\).md "wikilink")（第二期）
+  - 動畫系列製作：[Brain's Base](../Page/Brain's_Base.md "wikilink")（第一期）、[朱夏](../Page/朱夏_\(動畫工作室\).md "wikilink")（第二期）
   - 製作：池袋DOLLARS\[3\]\[4\]
 
 ### 主題曲
@@ -599,8 +589,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
   -
 
       -
-        作詞：Okamoto Sho、石渡淳治，作曲：Okamoto
-        Kouki，編曲：[OKAMOTO'S](https://zh.wikipedia.org/wiki/OKAMOTO'S "wikilink")、大久保友裕，歌：OKAMOTO'S
+        作詞：Okamoto Sho、石渡淳治，作曲：Okamoto Kouki，編曲：[OKAMOTO'S](https://zh.wikipedia.org/wiki/OKAMOTO'S "wikilink")、大久保友裕，歌：OKAMOTO'S
 
 :;『Day you laugh』（第13－24話）
 
@@ -614,9 +603,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
   -
 
       -
-        作詞 - Kohshi Asakawa / 作曲 - Takeshi Asakawa / 編曲 -
-        [toku](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")（[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")）\&FLOW
-        / 歌 - [FLOW](../Page/FLOW_\(樂團\).md "wikilink")
+        作詞 - Kohshi Asakawa / 作曲 - Takeshi Asakawa / 編曲 - [toku](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")（[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")）\&FLOW / 歌 - [FLOW](../Page/FLOW_\(樂團\).md "wikilink")
 
 \*; 片尾曲
 
@@ -625,17 +612,14 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
   -
 
       -
-        作詞：Glielmo Ko-ichi，作曲：Glielmo Ko-ichi、u-ya，編曲、歌：[THREE LIGHTS
-        DOWN
-        KINGS](https://zh.wikipedia.org/wiki/THREE_LIGHTS_DOWN_KINGS "wikilink")
+        作詞：Glielmo Ko-ichi，作曲：Glielmo Ko-ichi、u-ya，編曲、歌：[THREE LIGHTS DOWN KINGS](https://zh.wikipedia.org/wiki/THREE_LIGHTS_DOWN_KINGS "wikilink")
 
 :;『リフレクション』（第4.5話）
 
   -
 
       -
-        作詞・作曲 - T.Toyonaga / 編曲 - 家原正樹 / 歌 -
-        [豐永利行](../Page/豐永利行.md "wikilink")
+        作詞・作曲 - T.Toyonaga / 編曲 - 家原正樹 / 歌 - [豐永利行](../Page/豐永利行.md "wikilink")
 
 :;『EXIT』（第13－24話）
 
@@ -649,8 +633,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
   -
 
       -
-        作詞・作曲 - T.Toyonaga / 編曲 - 家原正樹 / 歌 -
-        [豐永利行](../Page/豐永利行.md "wikilink")
+        作詞・作曲 - T.Toyonaga / 編曲 - 家原正樹 / 歌 - [豐永利行](../Page/豐永利行.md "wikilink")
 
 :;『C“LR”OWN』（第19.5話）
 
@@ -2087,17 +2070,14 @@ Heo Gidong</p></td>
 
   -
     2010年9月22日發售，[PSP遊戲](../Page/PlayStation_Portable.md "wikilink")。類型為[池袋疾走Adventure](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。
-    發行商[ASCII MEDIA
-    WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")，販售商。
+    發行商[ASCII MEDIA WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")，販售商。
     2011年8月25日，包含追加要素的發售。
     2011年11月17日，[Android](../Page/Android.md "wikilink")版開始提供服務。
 
 <!-- end list -->
 
   -
-    預定2015年1月29日發售，[PlayStation
-    Vita遊戲](../Page/PlayStation_Vita.md "wikilink")。類型為[池袋Relay
-    Adventure](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。
+    預定2015年1月29日發售，[PlayStation Vita遊戲](../Page/PlayStation_Vita.md "wikilink")。類型為[池袋Relay Adventure](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。
 
 <!-- end list -->
 
@@ -2132,31 +2112,12 @@ Heo Gidong</p></td>
 
   - [無頭騎士異聞錄10周年特設網站](http://drrr.dengeki.com/)
 
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
-[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
-[Category:驚悚動畫](https://zh.wikipedia.org/wiki/Category:驚悚動畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink")
-[Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:傳說生物題材作品](https://zh.wikipedia.org/wiki/Category:傳說生物題材作品 "wikilink")
-[Category:都市傳說題材作品](https://zh.wikipedia.org/wiki/Category:都市傳說題材作品 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:池袋背景作品](https://zh.wikipedia.org/wiki/Category:池袋背景作品 "wikilink")
-[Category:失憶症題材漫畫](https://zh.wikipedia.org/wiki/Category:失憶症題材漫畫 "wikilink")
-[Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink")
-[Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink") [Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink") [Category:驚悚動畫](https://zh.wikipedia.org/wiki/Category:驚悚動畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink") [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:傳說生物題材作品](https://zh.wikipedia.org/wiki/Category:傳說生物題材作品 "wikilink") [Category:都市傳說題材作品](https://zh.wikipedia.org/wiki/Category:都市傳說題材作品 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:池袋背景作品](https://zh.wikipedia.org/wiki/Category:池袋背景作品 "wikilink") [Category:失憶症題材漫畫](https://zh.wikipedia.org/wiki/Category:失憶症題材漫畫 "wikilink") [Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink") [Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.  由於安田典生為本名無法使用，故簡體版譯名使用安田鈴人。
 2.
-3.   TVアニメーション「デュラララ\!\!」|accessdate = 2015年7月12日|author = |date =
-    |publisher = }}
-4.   TVアニメーション「デュラララ\!\!×2」公式サイト|accessdate = 2015年7月12日|author = |date
-    = |publisher = }}
+3.   TVアニメーション「デュラララ\!\!」|accessdate = 2015年7月12日|author = |date = |publisher = }}
+4.   TVアニメーション「デュラララ\!\!×2」公式サイト|accessdate = 2015年7月12日|author = |date = |publisher = }}
 5.  番外篇，收錄於DVD第7卷
 6.  番外篇，收錄於DVD第13卷
 7.  番外篇OVA1，於2015年5月30日在劇場先行上映
@@ -2164,8 +2125,7 @@ Heo Gidong</p></td>
 9.  番外篇OVA3，於2016年5月21日在劇場先行上映
 10. [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153451223607121/?type=3&theater)，2017/1/10閱覽。
 11. 配合與日同步播放[雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")的重播時段。
-12. [台灣Animax臉書
-    HD部分](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153522174867121/?type=3&theater)，2017/1/10閱覽。
+12. [台灣Animax臉書 HD部分](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153522174867121/?type=3&theater)，2017/1/10閱覽。
 13. [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153452516367121/?type=3&theater)，2017/1/10閱覽。
 14. 配合與日同步播放[雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")的重播時段。
 15. [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153261991262121/?type=3&theater)，2017/1/10閱覽。

@@ -1,66 +1,34 @@
-**Linux
-Mint**是一種基於[Ubuntu](../Page/Ubuntu.md "wikilink")/[Debian](../Page/Debian.md "wikilink")的[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，由Linux
-Mint Team团队于2006年开始发行。Linux Mint的宗旨是提供一个免費開源、現代、優雅、功能強大卻也易於使用的作業系統\[1\]。
+**Linux Mint**是一種基於[Ubuntu](../Page/Ubuntu.md "wikilink")/[Debian](../Page/Debian.md "wikilink")的[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，由Linux Mint Team团队于2006年开始发行。Linux Mint的宗旨是提供一个免費開源、現代、優雅、功能強大卻也易於使用的作業系統\[1\]。
 
-Linux Mint是对使用者友善而功能强大的操作系统，Linux
-Mint的理想之一，以简单的方式呈现先进技术给使用者，以此来成为最优秀的操作系统。这种简单方式的实现，不是通过简化結构與机能而削减功能，也不是通过抄袭其它开发者的实现方法。Linux
-Mint继承了Ubuntu和Debian的众多优点，同时也分別在兩者的基础上加入很多自己优秀的特性。也因為如此，Linux
-Mint可以幾乎与Ubuntu软件仓库完全相容，采用apt管理和.deb软件包。
+Linux Mint是对使用者友善而功能强大的操作系统，Linux Mint的理想之一，以简单的方式呈现先进技术给使用者，以此来成为最优秀的操作系统。这种简单方式的实现，不是通过简化結构與机能而削减功能，也不是通过抄袭其它开发者的实现方法。Linux Mint继承了Ubuntu和Debian的众多优点，同时也分別在兩者的基础上加入很多自己优秀的特性。也因為如此，Linux Mint可以幾乎与Ubuntu软件仓库完全相容，采用apt管理和.deb软件包。
 
-Linux Mint致力于提供一种更為开箱即用（works out of the
-box）的用户体验，免去用户在安装系统后还要自己安装一系列满足基本使用需求的软件。它包括提供[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")、[多媒体](../Page/多媒体.md "wikilink")编解码器、对DVD播放的支援、[Java](../Page/Java.md "wikilink")和其他组件。它也增加了一套定制桌面及各种菜单，一些独特的配置工具，以及一份基于web的软件包安装界面。
+Linux Mint致力于提供一种更為开箱即用（works out of the box）的用户体验，免去用户在安装系统后还要自己安装一系列满足基本使用需求的软件。它包括提供[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")、[多媒体](../Page/多媒体.md "wikilink")编解码器、对DVD播放的支援、[Java](../Page/Java.md "wikilink")和其他组件。它也增加了一套定制桌面及各种菜单，一些独特的配置工具，以及一份基于web的软件包安装界面。
 
 ## 历史\[2\]
 
-Linux
-Mint的开发始于2006年。尽管如此，Mint所基于的软件层成熟而又久经考验，这包括了Linux内核、GNU工具以及Gnome桌面环境。它也依赖于Ubuntu项目和Debian项目，因为Mint是以它们的系统为基础而开发的。
+Linux Mint的开发始于2006年。尽管如此，Mint所基于的软件层成熟而又久经考验，这包括了Linux内核、GNU工具以及Gnome桌面环境。它也依赖于Ubuntu项目和Debian项目，因为Mint是以它们的系统为基础而开发的。
 
-Linux
-Mint所採用的使用者界面[Cinnamon](../Page/Cinnamon.md "wikilink")，其設計風格注重為[桌面電腦和](https://zh.wikipedia.org/wiki/桌面電腦 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")的使用者提供簡易使用的操作環境，並與過往被Linux普遍使用的[GNOME](../Page/GNOME.md "wikilink")或Microsoft
-[Windows
-XP的](../Page/Windows_XP.md "wikilink")[使用者界面相似](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")，即使入門用家也易於掌握。2010年代以後，採用[觸控螢幕的](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")大幅興起，不少操作系统的使用者界面，包括運行Linux的[Ubuntu](../Page/Ubuntu.md "wikilink")和Microsoft的[Windows
-8等](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，都改為便於觸控操作的設計風格。然而有不少桌面電腦使用者認為這些觸控導向的新使用者界面，卻不便於傳統[滑鼠的使用](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")，其使用體驗不及以往的使用者界面，而Linux
-Mint繼續為滑鼠使用者提供便利的操作環境，吸引不少使用者投入使用。
+Linux Mint所採用的使用者界面[Cinnamon](../Page/Cinnamon.md "wikilink")，其設計風格注重為[桌面電腦和](https://zh.wikipedia.org/wiki/桌面電腦 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")的使用者提供簡易使用的操作環境，並與過往被Linux普遍使用的[GNOME](../Page/GNOME.md "wikilink")或Microsoft [Windows XP的](../Page/Windows_XP.md "wikilink")[使用者界面相似](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")，即使入門用家也易於掌握。2010年代以後，採用[觸控螢幕的](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")大幅興起，不少操作系统的使用者界面，包括運行Linux的[Ubuntu](../Page/Ubuntu.md "wikilink")和Microsoft的[Windows 8等](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，都改為便於觸控操作的設計風格。然而有不少桌面電腦使用者認為這些觸控導向的新使用者界面，卻不便於傳統[滑鼠的使用](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")，其使用體驗不及以往的使用者界面，而Linux Mint繼續為滑鼠使用者提供便利的操作環境，吸引不少使用者投入使用。
 
-2011年起，Linux
-Mint便成為廣受桌面使用者歡迎的Linux發行版，根據[distrowatch.com](https://distrowatch.com/)的統計，從2011年開始Linux
-Mint擁有所有[Linux發行版中最高的點擊數](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，這一現象一直持續到2018年才被其他版超越\[3\]\[4\]。
+2011年起，Linux Mint便成為廣受桌面使用者歡迎的Linux發行版，根據[distrowatch.com](https://distrowatch.com/)的統計，從2011年開始Linux Mint擁有所有[Linux發行版中最高的點擊數](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，這一現象一直持續到2018年才被其他版超越\[3\]\[4\]。
 
-在2016年2月21日Linux
-Mint發現其官方遭到來自[保加利亞的駭客竄改了伺服器](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")，並將下載位置指向到帶有後門的[後門的Linux](https://zh.wikipedia.org/wiki/後門 "wikilink")
-Mint。官方宣稱只有在2/20日當天下載的Cinnamon桌面版具有問題，而透過torrent或直接從http下載，則不會受到影響，若要確認是否下載到不正確的[ISO映像](../Page/ISO映像.md "wikilink")，可以藉由檢查[MD5](../Page/MD5.md "wikilink")來驗證\[5\]\[6\]。
+在2016年2月21日Linux Mint發現其官方遭到來自[保加利亞的駭客竄改了伺服器](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")，並將下載位置指向到帶有後門的[後門的Linux](https://zh.wikipedia.org/wiki/後門 "wikilink") Mint。官方宣稱只有在2/20日當天下載的Cinnamon桌面版具有問題，而透過torrent或直接從http下載，則不會受到影響，若要確認是否下載到不正確的[ISO映像](../Page/ISO映像.md "wikilink")，可以藉由檢查[MD5](../Page/MD5.md "wikilink")來驗證\[5\]\[6\]。
 
 ## 發行版以及桌面環境
 
-Linux
-Mint有許多種不同的版本，包含了基於Ubuntu的四種桌面環境：[Cinnamon](../Page/Cinnamon.md "wikilink")、[MATE](../Page/MATE.md "wikilink")、[KDE](../Page/KDE.md "wikilink")以及[Xfce](../Page/Xfce.md "wikilink")。除此之外，也有基於Debian的Linux
-Mint Debian Edition，又稱LMDE。
+Linux Mint有許多種不同的版本，包含了基於Ubuntu的四種桌面環境：[Cinnamon](../Page/Cinnamon.md "wikilink")、[MATE](../Page/MATE.md "wikilink")、[KDE](../Page/KDE.md "wikilink")以及[Xfce](../Page/Xfce.md "wikilink")。除此之外，也有基於Debian的Linux Mint Debian Edition，又稱LMDE。
 
 ### 基於Ubuntu
 
-[Cinnamon](../Page/Cinnamon.md "wikilink")是Unix-like系统下的一个用户界面，為GNOME
-Shell的一个派生版本，最初是为Linux Mint所开发，其提供了如同GNOME
-2般，易于使用的拟真接口。Cinnamon使用Muffin，一个GNOME
-3的窗口管理器Mutter的派生版本，作为自1.2版起的默认窗口管理器。[MATE](../Page/MATE.md "wikilink")由已经停止官方维护的GNOME
-2源代码派生而来。因为GNOME 3以GNOME
-Shell为基础所创建的用户界面取代传统的拟真接口。这导致了一些Linux社区的批评。许多用户拒绝使用新的GNOME接口，并要求其他开发者继续开发GNOME
-2。MATE随Linux
-Mint12投入使用。[Xfce](../Page/Xfce.md "wikilink")是一个轻量级的Linux或类Unix的桌面系统。Xfce建基在GTK+
-2.x之上。它使用Xfwm作为窗口管理器。这个桌面环境仅需要很少的系统资源，所以可以轻松地应用于較舊的電腦上。
+[Cinnamon](../Page/Cinnamon.md "wikilink")是Unix-like系统下的一个用户界面，為GNOME Shell的一个派生版本，最初是为Linux Mint所开发，其提供了如同GNOME 2般，易于使用的拟真接口。Cinnamon使用Muffin，一个GNOME 3的窗口管理器Mutter的派生版本，作为自1.2版起的默认窗口管理器。[MATE](../Page/MATE.md "wikilink")由已经停止官方维护的GNOME 2源代码派生而来。因为GNOME 3以GNOME Shell为基础所创建的用户界面取代传统的拟真接口。这导致了一些Linux社区的批评。许多用户拒绝使用新的GNOME接口，并要求其他开发者继续开发GNOME 2。MATE随Linux Mint12投入使用。[Xfce](../Page/Xfce.md "wikilink")是一个轻量级的Linux或类Unix的桌面系统。Xfce建基在GTK+ 2.x之上。它使用Xfwm作为窗口管理器。这个桌面环境仅需要很少的系统资源，所以可以轻松地应用于較舊的電腦上。
 
-[KDE](../Page/KDE.md "wikilink")全称K Desktop
-Environment，整个环境采用的都是TrollTech公司所开发的Qt程序库（现在属于[Digia](../Page/Digia.md "wikilink")公司）。KDE会为对于易用桌面的需求而不断探索，例如在Mac
-OS和微软的Windows那样的桌面环境。不過從19版開始，官方不再提供KDE桌面環境，現有版本將會持續提供支援直到2021年。
+[KDE](../Page/KDE.md "wikilink")全称K Desktop Environment，整个环境采用的都是TrollTech公司所开发的Qt程序库（现在属于[Digia](../Page/Digia.md "wikilink")公司）。KDE会为对于易用桌面的需求而不断探索，例如在Mac OS和微软的Windows那样的桌面环境。不過從19版開始，官方不再提供KDE桌面環境，現有版本將會持續提供支援直到2021年。
 
-從17.0開始，Linux Mint只會基於Ubuntu
-LTS版，因此在下一個長期支援版釋出之前會持續更新並移植一些重要的應用程式，當下一個長期支援版本釋出後，則轉為只有安全更新的模式直到支援結束\[7\]。另外，Linux
-Mint還为Cinnamon和MATE环境的Live DVD提供了No codecs版本。这个版本删去了“非自由”的组件因此不能支援多媒体。
+從17.0開始，Linux Mint只會基於Ubuntu LTS版，因此在下一個長期支援版釋出之前會持續更新並移植一些重要的應用程式，當下一個長期支援版本釋出後，則轉為只有安全更新的模式直到支援結束\[7\]。另外，Linux Mint還为Cinnamon和MATE环境的Live DVD提供了No codecs版本。这个版本删去了“非自由”的组件因此不能支援多媒体。
 
 ### 基於Debian
 
-即Linux Mint Debian
-Edition，又稱LMDE，過往是基於Debian「測試版」所發布的版本，但近期改成以Debian「穩定版」作為基礎\[8\]。相較於基於Ubuntu的Mint，LMDE雖然執行速度更快，但也較不容易上手，更新也不同於其他版本的Mint會每半年升級一次，而是採取不間斷的對於bug和安全性問題進行修復，同時間也會保持Mint其他元件的更新，也因為不同於基於ubuntu的的Linux
-Mint更新頻率，所以LMDE擁有自己的版本號碼\[9\]。
+即Linux Mint Debian Edition，又稱LMDE，過往是基於Debian「測試版」所發布的版本，但近期改成以Debian「穩定版」作為基礎\[8\]。相較於基於Ubuntu的Mint，LMDE雖然執行速度更快，但也較不容易上手，更新也不同於其他版本的Mint會每半年升級一次，而是採取不間斷的對於bug和安全性問題進行修復，同時間也會保持Mint其他元件的更新，也因為不同於基於ubuntu的的Linux Mint更新頻率，所以LMDE擁有自己的版本號碼\[9\]。
 
 ## 发行格式
 
@@ -68,9 +36,7 @@ Linux Mint只提供Live DVD这一种ISO下载。
 
 ### 非传统概念的Live DVD
 
-为了追求易用性和良好的人机交互体验，Linux Mint匯集了可以开箱即用的大量多媒体等软件包。因此它的Live
-ISO体积超过了原生的Ubuntu，甚至大于950MB。若以传统的光碟安装方式，这样的体积对于一张700MB的CD来说鐵定是太大了，只有使用DVD光碟燒录才可以。但是它的本质依旧等同于Live
-CD。名称的改变只是为了迁就ISO的大小。
+为了追求易用性和良好的人机交互体验，Linux Mint匯集了可以开箱即用的大量多媒体等软件包。因此它的Live ISO体积超过了原生的Ubuntu，甚至大于950MB。若以传统的光碟安装方式，这样的体积对于一张700MB的CD来说鐵定是太大了，只有使用DVD光碟燒录才可以。但是它的本质依旧等同于Live CD。名称的改变只是为了迁就ISO的大小。
 
 ## 发布历史
 
@@ -194,13 +160,11 @@ CD。名称的改变只是为了迁就ISO的大小。
 ## 外部連結
 
   - [Linux Mint官方網頁](http://www.linuxmint.com/index.html)
-  - [Official Linux Mint
-    Wiki](https://web.archive.org/web/20090409230641/http://linuxmint.com/wiki/index.php/Main_Page)
+  - [Official Linux Mint Wiki](https://web.archive.org/web/20090409230641/http://linuxmint.com/wiki/index.php/Main_Page)
   - [Official Linux Mint Blog](http://linuxmint.com/blog/)
   - [Official Linux Mint論壇](http://linuxmint.com/forum/)
 
-[Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink")
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
+[Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink") [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
 
 1.
 

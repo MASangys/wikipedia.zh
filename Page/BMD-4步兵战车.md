@@ -1,17 +1,12 @@
-**BMD-4伞兵战车** (俄语：Боевая Машина Десантная－4
-简称БМД—4）是前[苏联](../Page/苏联.md "wikilink")解体前研发，1990年代初正式装备俄罗斯[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第四款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-3完全相同，而采用了BMP-3步兵战车的炮塔。（类似的例子有BMD-1和BMD-2）。
+**BMD-4伞兵战车** (俄语：Боевая Машина Десантная－4 简称БМД—4）是前[苏联](../Page/苏联.md "wikilink")解体前研发，1990年代初正式装备俄罗斯[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第四款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-3完全相同，而采用了BMP-3步兵战车的炮塔。（类似的例子有BMD-1和BMD-2）。
 
 ## 研发和装备背景
 
-在BMD-3伞兵战车的底盘上重新加上BMP-3的炮塔。
-这款伞兵战车被称为BMD-4。因此有资料认为BMD-4乃是BMD-3的改型，并非一款独立的伞兵战车。BMD-4伞兵战车在1990年代批装备俄罗斯空降军，并有部分出口到其他国家。俄軍Andrei
-Serdyukov中將表示，俄國空降旅在2020年時將會接收超過300輛BMD-4Ｍ空降戰車以及BTR-MDM裝甲運兵車
+在BMD-3伞兵战车的底盘上重新加上BMP-3的炮塔。 这款伞兵战车被称为BMD-4。因此有资料认为BMD-4乃是BMD-3的改型，并非一款独立的伞兵战车。BMD-4伞兵战车在1990年代批装备俄罗斯空降军，并有部分出口到其他国家。俄軍Andrei Serdyukov中將表示，俄國空降旅在2020年時將會接收超過300輛BMD-4Ｍ空降戰車以及BTR-MDM裝甲運兵車
 
 ## 车体特征
 
-和BMD-3相同， 车体前部为驾驶室，驾驶员位于车体中央。中部为战斗室，
-[炮塔位于车体中部靠前](https://zh.wikipedia.org/wiki/炮塔 "wikilink")，为单人炮塔。后部为载员室，再后是动力舱。
-不设后门，载员只能从载员室的上方出入。
+和BMD-3相同， 车体前部为驾驶室，驾驶员位于车体中央。中部为战斗室， [炮塔位于车体中部靠前](https://zh.wikipedia.org/wiki/炮塔 "wikilink")，为单人炮塔。后部为载员室，再后是动力舱。 不设后门，载员只能从载员室的上方出入。
 
 ## 武器系统
 
@@ -31,13 +26,11 @@ Serdyukov中將表示，俄國空降旅在2020年時將會接收超過300輛BMD-
 
 ## 空投技术
 
-和BMD-3相同，[伊尔-76](../Page/伊尔-76.md "wikilink")可运3辆。可所有成员于车内共同空投，而BMD-1/2僅能讓驾驶员和车长在車內一同空投。利用[PBS950式伞降系统实施空降](https://zh.wikipedia.org/wiki/PBS950式伞降系统 "wikilink")。
-空降技术和过程不详。
+和BMD-3相同，[伊尔-76](../Page/伊尔-76.md "wikilink")可运3辆。可所有成员于车内共同空投，而BMD-1/2僅能讓驾驶员和车长在車內一同空投。利用[PBS950式伞降系统实施空降](https://zh.wikipedia.org/wiki/PBS950式伞降系统 "wikilink")。 空降技术和过程不详。
 
 ## 成员/载员
 
-3名成员（驾驶员，车长和炮长）＋
-5名载员。其中驾驶员位于车体前部中央，上方有舱盖。驾驶员左右后侧各有两個座位。车长位于双人炮塔内部右侧，炮长位于双人炮塔内部左侧。
+3名成员（驾驶员，车长和炮长）＋ 5名载员。其中驾驶员位于车体前部中央，上方有舱盖。驾驶员左右后侧各有两個座位。车长位于双人炮塔内部右侧，炮长位于双人炮塔内部左侧。
 
 搭載的步兵兩人坐在駕駛的兩側獨立座位，其餘三人坐在砲塔環後方的狹窄空間，藉由一個向上開啟的艙門出入。在設計思想上，車載步兵只是在戰車整體設計完後"找個地方塞"，並無舒適而統一的乘員艙，設計思想與西方大相逕庭。
 
@@ -227,6 +220,4 @@ BMD系列的变形车全是由BMD-1发展而来，与BMD-4无关。但也有文�
   - [BMP-2](https://zh.wikipedia.org/wiki/BMP-2 "wikilink")
   - [BMP-3](https://zh.wikipedia.org/wiki/BMP-3 "wikilink")
 
-[Category:步兵戰車](https://zh.wikipedia.org/wiki/Category:步兵戰車 "wikilink")
-[Category:蘇聯裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:蘇聯裝甲戰鬥車輛 "wikilink")
-[Category:空降戰車](https://zh.wikipedia.org/wiki/Category:空降戰車 "wikilink")
+[Category:步兵戰車](https://zh.wikipedia.org/wiki/Category:步兵戰車 "wikilink") [Category:蘇聯裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:蘇聯裝甲戰鬥車輛 "wikilink") [Category:空降戰車](https://zh.wikipedia.org/wiki/Category:空降戰車 "wikilink")

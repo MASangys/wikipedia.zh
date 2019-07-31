@@ -11,13 +11,11 @@
 
 ## 主要內容
 
-2008年7月21日，《黃金B段班》開播，主持人[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝開始推辭上](https://zh.wikipedia.org/wiki/韋汝 "wikilink")9點談話節目；模仿[康康](../Page/康康.md "wikilink")出名的[黃镫輝](https://zh.wikipedia.org/wiki/黃镫輝 "wikilink")，則要在《黃金B段班》中扮演綜藝Ｂ咖中的Ｂ咖，立志作個有質感的諧星，要與[陳漢典](../Page/陳漢典.md "wikilink")搶飯碗！《黃金B段班》企圖開創另類談話節目型態，加入[類戲劇](../Page/類戲劇.md "wikilink")元素，給6位主持人合乎自己性格的角色，節目暫定八人挑梁主持，除[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝](https://zh.wikipedia.org/wiki/韋汝 "wikilink")6人確定外，還有兩名人選難産中。制作單位透露，會由戲劇界去尋找新面孔，缺乏一個美豔的諧星，還有可愛的傻大姊。
-[佩甄對新節目收視率有信心](../Page/李佩甄.md "wikilink")，「你看[小鐘負責](https://zh.wikipedia.org/wiki/小鐘 "wikilink")[客家族群](https://zh.wikipedia.org/wiki/客家 "wikilink")，我負責帶入婆婆媽媽收看，[韋汝吸引年輕人](https://zh.wikipedia.org/wiki/韋汝 "wikilink")，[小馬也有](https://zh.wikipedia.org/wiki/小馬 "wikilink")[非洲](../Page/非洲.md "wikilink")支持者，8個人一個人只要負責0.25（%）的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")，輕輕松松就能破2（%）。」
+2008年7月21日，《黃金B段班》開播，主持人[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝開始推辭上](https://zh.wikipedia.org/wiki/韋汝 "wikilink")9點談話節目；模仿[康康](../Page/康康.md "wikilink")出名的[黃镫輝](https://zh.wikipedia.org/wiki/黃镫輝 "wikilink")，則要在《黃金B段班》中扮演綜藝Ｂ咖中的Ｂ咖，立志作個有質感的諧星，要與[陳漢典](../Page/陳漢典.md "wikilink")搶飯碗！《黃金B段班》企圖開創另類談話節目型態，加入[類戲劇](../Page/類戲劇.md "wikilink")元素，給6位主持人合乎自己性格的角色，節目暫定八人挑梁主持，除[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝](https://zh.wikipedia.org/wiki/韋汝 "wikilink")6人確定外，還有兩名人選難産中。制作單位透露，會由戲劇界去尋找新面孔，缺乏一個美豔的諧星，還有可愛的傻大姊。 [佩甄對新節目收視率有信心](../Page/李佩甄.md "wikilink")，「你看[小鐘負責](https://zh.wikipedia.org/wiki/小鐘 "wikilink")[客家族群](https://zh.wikipedia.org/wiki/客家 "wikilink")，我負責帶入婆婆媽媽收看，[韋汝吸引年輕人](https://zh.wikipedia.org/wiki/韋汝 "wikilink")，[小馬也有](https://zh.wikipedia.org/wiki/小馬 "wikilink")[非洲](../Page/非洲.md "wikilink")支持者，8個人一個人只要負責0.25（%）的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")，輕輕松松就能破2（%）。」
 
 ## 第二季的黃金B段班
 
-有時候會以三男/三女主持，會稱另外三位為**黃金三寶**，加了口號『黃金B段班\!
-旺旺\!』，每集片尾由沈玉琳獨挑大樑的「沈語錄」是該節目特色之一。
+有時候會以三男/三女主持，會稱另外三位為**黃金三寶**，加了口號『黃金B段班\! 旺旺\!』，每集片尾由沈玉琳獨挑大樑的「沈語錄」是該節目特色之一。
 
 ## 分集介紹
 
@@ -103,8 +101,7 @@
   - 10.28 大哥.我表現的好嗎
   - 10.27 女人超羨慕.男人流口水.女藝人性感睡衣大曝光
   - 10.24 愛到卡慘死.我的戀人瞎透了
-  - 10.23
-    女明星素顔大[PK](https://zh.wikipedia.org/wiki/PK "wikilink").誰的肌膚最水嫩
+  - 10.23 女明星素顔大[PK](https://zh.wikipedia.org/wiki/PK "wikilink").誰的肌膚最水嫩
   - 10.22 山女與壁女的迷思 大胸VS小胸 誰的困擾多
   - 10.21 當B咖的助理.沒那麽容易
   - 10.20 不要拒絕我.男諧星也想談戀愛
@@ -112,8 +109,7 @@
   - 10.16 B段班誰的眼光最精准
   - 10.15 演藝圈該不該有跨界藝人
   - 10.14 殘酷排行榜 超迷人的腳趾頭
-  - 10.13
-    [鐵獅玉玲珑之貴賓來喽](https://zh.wikipedia.org/wiki/鐵獅玉玲珑 "wikilink")([許效舜](../Page/許效舜.md "wikilink"))
+  - 10.13 [鐵獅玉玲珑之貴賓來喽](https://zh.wikipedia.org/wiki/鐵獅玉玲珑 "wikilink")([許效舜](../Page/許效舜.md "wikilink"))
   - 10.10 受不了 請你別再這樣做了
   - 10.09 戲劇綠葉角色也很紅
   - 10.08 我也想要談戀愛 [NONO](../Page/NONO.md "wikilink")來聯誼
@@ -149,8 +145,7 @@
   - 09.01 殘酷排行榜之出國最會鬧笑話的藝人
 
 
-\*08.29
-[胡彥斌](../Page/胡彥斌.md "wikilink")、[李玖哲](../Page/李玖哲.md "wikilink")歌迷同樂會
+\*08.29 [胡彥斌](../Page/胡彥斌.md "wikilink")、[李玖哲](../Page/李玖哲.md "wikilink")歌迷同樂會
 
   - 08.28 史上最強ㄋㄞㄋㄞ女大排行
   - 08.27 空姐眼中最想交往的男諧星
@@ -187,5 +182,4 @@
 
 -----
 
-[Category:中天電視節目](https://zh.wikipedia.org/wiki/Category:中天電視節目 "wikilink")
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
+[Category:中天電視節目](https://zh.wikipedia.org/wiki/Category:中天電視節目 "wikilink") [Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")

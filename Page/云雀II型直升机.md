@@ -1,7 +1,6 @@
 [Aérospatiale_SA-318_BW_Alouette_II.jpg](https://zh.wikipedia.org/wiki/File:Aérospatiale_SA-318_BW_Alouette_II.jpg "fig:Aérospatiale_SA-318_BW_Alouette_II.jpg")
 
-**法国宇航云雀II型**（**Aérospatiale Alouette
-II**）是由[法国宇航公司生产的轻型](https://zh.wikipedia.org/wiki/法国宇航公司 "wikilink")、单发及五座多用途直升机。
+**法国宇航云雀II型**（**Aérospatiale Alouette II**）是由[法国宇航公司生产的轻型](https://zh.wikipedia.org/wiki/法国宇航公司 "wikilink")、单发及五座多用途直升机。
 
 云雀II型于1955年3月12日首飞，於1975年停产，是第一款以燃气涡轮代替活塞发动机的直升机。
 

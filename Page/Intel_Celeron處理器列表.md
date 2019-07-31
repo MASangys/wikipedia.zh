@@ -1,5 +1,4 @@
-[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-**[Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")**是針對入門級使用者的低階處理器。
+[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") **[Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")**是針對入門級使用者的低階處理器。
 
 ## 桌上型處理器
 
@@ -203,10 +202,8 @@
 #### Prescott-256 (90 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")*
-  - Celeron D 3X1、Celeron D 3X6及Celeron D 355支援[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")。
-  - Celeron D 3X0J、Celeron D 3X5J、Celeron D 3X1、Celeron D 3X6及Celeron D
-    355支援[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")。
+  - Celeron D 3X1、Celeron D 3X6及Celeron D 355支援[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")。
+  - Celeron D 3X0J、Celeron D 3X5J、Celeron D 3X1、Celeron D 3X6及Celeron D 355支援[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")。
 
 | 型號                                                          | 步進                                       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期     |
 | ----------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | -------- |
@@ -240,8 +237,7 @@
 
 #### Cedar Mill-512 (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX
-    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")*
 
 | 型號                                                         | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期        |
 | ---------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ----------- |
@@ -255,10 +251,8 @@
 
 #### Conroe-L / -CL (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX
-    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")*
-  - Celeron 445支援[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x。
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")*
+  - Celeron 445支援[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x。
 
 | 型號                                                       | 步進      | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻        | [電壓](../Page/電壓.md "wikilink")                              | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽          | 發佈日期        |
 | -------------------------------------------------------- | ------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --------- | ----------------------------------------------------------- | --------------------------------------------------- | ----------- | ----------- |
@@ -271,8 +265,7 @@
 
 #### Allendale (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX
-    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")*
 
 | 型號                                                         | 步進      | 核心  | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期       |
 | ---------------------------------------------------------- | ------- | --- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ---------- |
@@ -283,9 +276,7 @@
 
 #### Wolfdale (45 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX
-    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
 
 | 型號                                                         | 步進      | 核心    | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期    |
 | ---------------------------------------------------------- | ------- | ----- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ------- |
@@ -298,10 +289,7 @@
 
 #### Clarkdale (32 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
 
 | 型號                                                         | 步進 | 核心 | 時脈頻率     | 快取       | 顯示晶片 | 記憶體控制器                                                    | TDP                                                            | 腳座   | 發佈日期                                       |
 | ---------------------------------------------------------- | -- | -- | -------- | -------- | ---- | --------------------------------------------------------- | -------------------------------------------------------------- | ---- | ------------------------------------------ |
@@ -313,9 +301,7 @@
 
 #### Sandy Bridge (32 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
 <table>
 <thead>
@@ -508,9 +494,7 @@
 
 #### Ivy Bridge (22 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、ECC*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、ECC*
 
 <table>
 <thead>
@@ -633,12 +617,9 @@
 
 #### "Bay Trail-D" (22 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink").*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](../Page/SpeedStep.md "wikilink")、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink").*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
-  - GPU基于Ivy Bridge Intel HD Graphics，包含4个EU单元和支持[DirectX
-    11](../Page/DirectX.md "wikilink")，OpenGL 4.0，OpenGL ES 3.0以及 OpenCL
-    1.1
+  - GPU基于Ivy Bridge Intel HD Graphics，包含4个EU单元和支持[DirectX 11](../Page/DirectX.md "wikilink")，OpenGL 4.0，OpenGL ES 3.0以及 OpenCL 1.1
 
 <table>
 <thead>
@@ -735,15 +716,9 @@
 
 #### "Braswell" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
-    VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
-  - GPU基于[Broadwell](../Page/Broadwell微架構.md "wikilink") Intel HD
-    Graphics，包含12个EU单元和支持[DirectX
-    11.2](../Page/DirectX.md "wikilink")，OpenGL 4.4，OpenGL ES 3.0以及
-    OpenCL 2.0
+  - GPU基于[Broadwell](../Page/Broadwell微架構.md "wikilink") Intel HD Graphics，包含12个EU单元和支持[DirectX 11.2](../Page/DirectX.md "wikilink")，OpenGL 4.4，OpenGL ES 3.0以及 OpenCL 2.0
 
 | 型号                                                          | sSpec编号 (步进) | 核心/线程 | 处理器基本频率(GHz) | 处理器加速频率(GHz) | <small>L2缓存(MB)</small> | 处理器显卡           | 处理器显卡频率(MHz) | 内存控制器 (MHz) | TDP | 插槽       | 发布日期    |
 | ----------------------------------------------------------- | ------------ | ----- | ------------ | ------------ | ----------------------- | --------------- | ------------ | ----------- | --- | -------- | ------- |
@@ -755,8 +730,7 @@
 
 #### Haswell (22 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
 
 <table>
 <thead>
@@ -913,10 +887,7 @@
 
 #### "Skylake-S" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
-    VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI、Smart Cache.*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI、Smart Cache.*
   - 全部型号支持DDR3-1600或DDR4-2133内存
   - 全部型号均支持ECC内存
 
@@ -938,14 +909,9 @@
 
 #### "Apollo Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
-    VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
-  - GPU基于Skylake Intel HD Graphics，包含12个EU单元和支持[DirectX
-    12](../Page/DirectX.md "wikilink")，OpenGL 4.5，OpenGL ES 3.0以及 OpenCL
-    2.0
+  - GPU基于Skylake Intel HD Graphics，包含12个EU单元和支持[DirectX 12](../Page/DirectX.md "wikilink")，OpenGL 4.5，OpenGL ES 3.0以及 OpenCL 2.0
 
 | 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz) | 内存控制器 (MHz) | TDP                                                                                                | 插槽  | 发布日期     |
 | ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | ------------ | ----------- | -------------------------------------------------------------------------------------------------- | --- | -------- |
@@ -958,14 +924,9 @@
 
 #### "Gemini Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
-    VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
-  - GPU基于Kaby Lake Intel HD Graphics，包含12个EU单元和支持[DirectX
-    12](../Page/DirectX.md "wikilink")，OpenGL 4.5，OpenGL ES 3.0以及 OpenCL
-    2.0
+  - GPU基于Kaby Lake Intel HD Graphics，包含12个EU单元和支持[DirectX 12](../Page/DirectX.md "wikilink")，OpenGL 4.5，OpenGL ES 3.0以及 OpenCL 2.0
 
 | 型号                                                           | sSpec编号 (步进) | 核心/线程 | 处理器基本频率(GHz) | 处理器加速频率(GHz) | L2缓存(MB)  | 处理器显卡         | 处理器显卡频率(MHz) | 内存控制器 (MHz) | TDP  | 插槽       | 发布日期     |
 | ------------------------------------------------------------ | ------------ | ----- | ------------ | ------------ | --------- | ------------- | ------------ | ----------- | ---- | -------- | -------- |
@@ -977,10 +938,7 @@
 
 #### "Kaby Lake-S" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
-    VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink") 、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - 全部型号均支持DDR3-1600或者DDR4-2400内存（嵌入式型号支持DDR4-2133）
   - 所有型号均支持ECC内存
 
@@ -1509,8 +1467,7 @@ mcbA0</p></td>
 
 #### Dothan (90 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
   - 只有M 350不支援[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")。
 
 | 型號                                                                                                                            | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期       |
@@ -1529,8 +1486,7 @@ mcbA0</p></td>
 
 #### Yonah (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
 <table>
 <thead>
@@ -1674,9 +1630,7 @@ mcbA0</p></td>
 
 #### Sossaman (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
 
 | 型號                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期    |
 | --------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------- | ------- |
@@ -1687,9 +1641,7 @@ mcbA0</p></td>
 
 #### Merom / -L (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
 <table>
 <thead>
@@ -1857,9 +1809,7 @@ mcbA0</p></td>
 
 #### Merom-2M (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
 | 型號                                                            | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻      | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期    |
 | ------------------------------------------------------------- | -------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ------- | ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------- | ------- |
@@ -1873,10 +1823,8 @@ mcbA0</p></td>
 
 #### Penryn-3M (45 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")*
-  - 雙核心系列支援[SSSE3](../Page/SSSE3.md "wikilink")及[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")*
+  - 雙核心系列支援[SSSE3](../Page/SSSE3.md "wikilink")及[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 <table>
 <thead>
@@ -2072,10 +2020,7 @@ mcbA0</p></td>
 
 #### Arrandale (32 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
   - P4505及U3405支援ECC記憶體
 
 | 型號                                                         | 步進                                                            | 核心                                                             | 時脈頻率                                                            | 快取       | 顯示晶片 | 記憶體控制器                                                          | TDP                                                            | 腳座   | 發佈日期                                                            |
@@ -2094,15 +2039,7 @@ mcbA0</p></td>
 
 #### "Sandy Bridge" (32 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - Celeron B810E, Celeron B847E 不支持*XD bit.*
   - Celeron B810E, Celeron B847E 支持[ECC内存](../Page/纠错内存.md "wikilink").
 
@@ -2492,15 +2429,7 @@ SR0EA (Q0)</p></td>
 
 #### "[Ivy Bridge](../Page/Ivy_Bridge微架構.md "wikilink")" (22 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - 嵌入式型号支持ECC内存
 
 | 型号                                                           | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)        | 内存控制器 (MHz)  | TDP                                                                        | 插槽   | 发布日期              |
@@ -2526,15 +2455,7 @@ SR0EA (Q0)</p></td>
 
 #### "Haswell-MB" (22 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
 
 | 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)         | 内存控制器 (MHz)  | TDP                    | 插槽   | 发布日期     |
 | ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | -------------------- | ------------ | ---------------------- | ---- | -------- |
@@ -2544,15 +2465,7 @@ SR0EA (Q0)</p></td>
 
 #### "Haswell-ULT" ([SiP](https://zh.wikipedia.org/wiki/SiP "wikilink"), 22 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - 2957U和2981U额外支持英特尔无线高清技术(Intel Wireless Display,WiDi）
 
 | 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)         | 内存控制器 (MHz)  | TDP                                              | 插槽   | 发布日期     |
@@ -2565,15 +2478,7 @@ SR0EA (Q0)</p></td>
 
 #### "Haswell-ULX" (Sip, 22 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
 
 | 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)         | 内存控制器 (MHz) | TDP                                              | 插槽     | 发布日期     |
 | ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | -------------------- | ----------- | ------------------------------------------------ | ------ | -------- |
@@ -2582,15 +2487,7 @@ SR0EA (Q0)</p></td>
 
 #### "Haswell-H" (22 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - 嵌入式型号支持ECC内存
 
 <table>
@@ -2681,18 +2578,7 @@ SR0EA (Q0)</p></td>
 
 #### "Broadwell-U" (14 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、[Intel
-    VT-d](../Page/X86虚拟化.md "wikilink")、 Smart
-    Cache、AES-NI、英特尔无线高清技术(Intel Wireless
-    Display,WiDi）、Configurable TDP(cTDP)*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、 Smart Cache、AES-NI、英特尔无线高清技术(Intel Wireless Display,WiDi）、Configurable TDP(cTDP)*
 
 | 型号                                                          | sSpec编号 (步进)          | 核心/线程       | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)         | 内存控制器 (MHz) | TDP                                              | 插槽   | 发布日期     |
 | ----------------------------------------------------------- | --------------------- | ----------- | ------------ | ------- | ----- | -------------------- | ----------- | ------------------------------------------------ | ---- | -------- |
@@ -2706,19 +2592,9 @@ SR0EA (Q0)</p></td>
 
 #### “Bay Trail-M" (22 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
-  - GPU基于Ivy Bridge Intel HD Graphics，包含4个EU单元和支持[DirectX
-    11](../Page/DirectX.md "wikilink")，OpenGL 4.0，OpenGL ES 3.0以及 OpenCL
-    1.1
+  - GPU基于Ivy Bridge Intel HD Graphics，包含4个EU单元和支持[DirectX 11](../Page/DirectX.md "wikilink")，OpenGL 4.0，OpenGL ES 3.0以及 OpenCL 1.1
 
 <table>
 <thead>
@@ -2969,19 +2845,9 @@ SR1HQ (B2)</p></td>
 
 #### "Braswell" (14 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、 Smart Cache.*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
-  - GPU基于Broadwell Intel HD Graphics，包含12个EU单元和支持[DirectX
-    11.2](../Page/DirectX.md "wikilink")，OpenGL 4.3，OpenGL ES 3.0以及
-    OpenCL 1.2
+  - GPU基于Broadwell Intel HD Graphics，包含12个EU单元和支持[DirectX 11.2](../Page/DirectX.md "wikilink")，OpenGL 4.3，OpenGL ES 3.0以及 OpenCL 1.2
 
 | 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz)    | 处理器加速频率(GHz)         | 缓存          | 处理器显卡                | 处理器显卡频率(MHz) | 内存控制器 (MHz) | TDP | 插槽          | 发布日期    |
 | ----------------------------------------------------------- | --------------------- | ----- | --------------- | -------------------- | ----------- | -------------------- | ------------ | ----------- | --- | ----------- | ------- |
@@ -2997,18 +2863,7 @@ SR1HQ (B2)</p></td>
 
 "Skylake-U" (14 nm)
 
-  - 支持:
-    *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、
-    [SSE2](../Page/SSE2.md "wikilink")、
-    [SSE3](../Page/SSE3.md "wikilink")、
-    [SSSE3](../Page/SSSE3.md "wikilink")、
-    SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    64](../Page/X86-64.md "wikilink")、[XD
-    bit](../Page/NX位元.md "wikilink") 、[Intel
-    VT-x](../Page/X86虚拟化.md "wikilink")、[Intel
-    VT-d](../Page/X86虚拟化.md "wikilink")、 Smart
-    Cache、AES-NI、英特尔无线高清技术(Intel Wireless
-    Display,WiDi）、Configurable TDP(cTDP)*
+  - 支持: *[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、 [SSE2](../Page/SSE2.md "wikilink")、 [SSE3](../Page/SSE3.md "wikilink")、 [SSSE3](../Page/SSSE3.md "wikilink")、 SSE4.1、SSE4.2、[EIST](../Page/SpeedStep.md "wikilink")、[Intel 64](../Page/X86-64.md "wikilink")、[XD bit](../Page/NX位元.md "wikilink") 、[Intel VT-x](../Page/X86虚拟化.md "wikilink")、[Intel VT-d](../Page/X86虚拟化.md "wikilink")、 Smart Cache、AES-NI、英特尔无线高清技术(Intel Wireless Display,WiDi）、Configurable TDP(cTDP)*
 
 | 型号                                                          | sSpec编号 (步进)          | 核心/线程 | 处理器基本频率(GHz) | 缓存      | 处理器显卡 | 处理器显卡频率(MHz)    | 内存控制器 (MHz) | TDP                                                        | 插槽   | 发布日期     |
 | ----------------------------------------------------------- | --------------------- | ----- | ------------ | ------- | ----- | --------------- | ----------- | ---------------------------------------------------------- | ---- | -------- |
@@ -3020,11 +2875,7 @@ SR1HQ (B2)</p></td>
 
 #### "Apollo Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                          | sSpec编号(步进)                                                                            | 核心/线程 | 处理器基本频率 | 脉冲频率    | 缓存                          | 处理器显卡                                                                                              | 内存控制器(MHz） | TDP      | 插槽         | 发布日期 |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----- | ------- | ------- | --------------------------- | -------------------------------------------------------------------------------------------------- | ---------- | -------- | ---------- | ---- |
@@ -3037,12 +2888,7 @@ SR1HQ (B2)</p></td>
 
 #### "Gemini Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel
-    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                           | 步进  | 核心/线程                         | 处理器基本频率 | 脉冲频率    | 缓存 （MB） | 处理器显卡                         | 内存控制器(MHz)        | TDP | 插槽       | 发布日期     |
 | ------------------------------------------------------------ | --- | ----------------------------- | ------- | ------- | ------- | ----------------------------- | ----------------- | --- | -------- | -------- |
@@ -3053,13 +2899,7 @@ SR1HQ (B2)</p></td>
 
 #### "Kaby Lake-U" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel
-    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel
-    MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                          | 步进      | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                    | TDP                                                                                                                                       | 插槽  | 发布日期     |
 | ----------------------------------------------------------- | ------- | ----- | ------- | ---------- | ----- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --- | -------- |
@@ -3069,13 +2909,7 @@ SR1HQ (B2)</p></td>
 
 "Kaby Lake-Y" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel
-    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel
-    MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                           | 步进 | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                     | TDP                                                                                        | 插槽 | 发布日期     |
 | ------------------------------------------------------------ | -- | ----- | ------- | ---------- | ----- | ------------------------------ | ------------------------------------------------------------------------------------------ | -- | -------- |
@@ -3084,13 +2918,7 @@ SR1HQ (B2)</p></td>
 
 "Kaby Lake-R" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel
-    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel
-    MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD
-    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
-    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                           | 步进 | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                     | TDP                                                                                                                                       | 插槽 | 发布日期     |
 | ------------------------------------------------------------ | -- | ----- | ------- | ---------- | ----- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -- | -------- |
@@ -3099,5 +2927,4 @@ SR1HQ (B2)</p></td>
 
 ## 外部連結
 
-[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink")
-[Category:Intel處理器列表](https://zh.wikipedia.org/wiki/Category:Intel處理器列表 "wikilink")
+[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink") [Category:Intel處理器列表](https://zh.wikipedia.org/wiki/Category:Intel處理器列表 "wikilink")

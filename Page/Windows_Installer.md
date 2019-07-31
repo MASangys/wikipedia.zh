@@ -1,30 +1,18 @@
-**Windows Installer**是在[Windows
-2000時提出](../Page/Windows_2000.md "wikilink")，作為[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統中的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[安裝程式](../Page/安裝程式.md "wikilink")開發標準的作業系統服務。它可以支援安裝程式所需要的許多功能，並且可以支援交易式安裝（Committable
-Installation），當安裝程式發現錯誤或問題時，可以將安裝程序中所做的任何修改（包含複製檔案、修改組態等）全部回溯為未變更的狀態。
+**Windows Installer**是在[Windows 2000時提出](../Page/Windows_2000.md "wikilink")，作為[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統中的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[安裝程式](../Page/安裝程式.md "wikilink")開發標準的作業系統服務。它可以支援安裝程式所需要的許多功能，並且可以支援交易式安裝（Committable Installation），當安裝程式發現錯誤或問題時，可以將安裝程序中所做的任何修改（包含複製檔案、修改組態等）全部回溯為未變更的狀態。
 
-目前Windows
-Installer最新[版本為](https://zh.wikipedia.org/wiki/軟體版本號 "wikilink")5.0版。
+目前Windows Installer最新[版本為](https://zh.wikipedia.org/wiki/軟體版本號 "wikilink")5.0版。
 
 ## 組成
 
-Windows Installer的安裝程式由Windows Installer Service、Installer
-Database、Installation Bootstrapper與需要安裝的檔案所組成。
+Windows Installer的安裝程式由Windows Installer Service、Installer Database、Installation Bootstrapper與需要安裝的檔案所組成。
 
-  - **Windows Installer Service**：與作業系統一起安裝，由Windows
-    Installer安裝程式的Installation Bootstrapper啟動，負責載入Installer
-    Database，以及Windows
-    Installer安裝程式執行期間的交易式安裝功能，以確保安裝程式對系統的修改，不是成功就是失敗（不做任何變更）。
-  - **Installer
-    Database**：由安裝程式工具所製作，裡面含有安裝程式的指令，流程（精靈畫面所需的資料），資料，組態設定等，為
-    Windows Installer 的安裝資料來源，有時候檔案也會被壓縮在Installer Database中。
-  - **Installation Bootstrapper**：啟動Windows
-    Installer以執行安裝程式的起始用程式，通常以setup.exe命名。
+  - **Windows Installer Service**：與作業系統一起安裝，由Windows Installer安裝程式的Installation Bootstrapper啟動，負責載入Installer Database，以及Windows Installer安裝程式執行期間的交易式安裝功能，以確保安裝程式對系統的修改，不是成功就是失敗（不做任何變更）。
+  - **Installer Database**：由安裝程式工具所製作，裡面含有安裝程式的指令，流程（精靈畫面所需的資料），資料，組態設定等，為 Windows Installer 的安裝資料來源，有時候檔案也會被壓縮在Installer Database中。
+  - **Installation Bootstrapper**：啟動Windows Installer以執行安裝程式的起始用程式，通常以setup.exe命名。
 
 ## 可轉散布元件
 
-利用Windows Installer開發安裝程式的軟體廠商，可以在軟體包裝中附上Windows Installer
-的可轉散布套件（Redistribute Package），以確保使用者的電腦可以更新Windows
-Installer的模組版本，讓安裝程式得以順利執行。
+利用Windows Installer開發安裝程式的軟體廠商，可以在軟體包裝中附上Windows Installer 的可轉散布套件（Redistribute Package），以確保使用者的電腦可以更新Windows Installer的模組版本，讓安裝程式得以順利執行。
 
 Windows Installer 目前是屬於Platform SDK的一部份。
 
@@ -209,13 +197,10 @@ Windows Installer 5.0會與Windows Server 2008 R2及Windows 7一起發佈\[4\]
 
 </div>
 
-[Category:微軟開發工具](https://zh.wikipedia.org/wiki/Category:微軟開發工具 "wikilink")
-[Category:安裝軟體](https://zh.wikipedia.org/wiki/Category:安裝軟體 "wikilink")
+[Category:微軟開發工具](https://zh.wikipedia.org/wiki/Category:微軟開發工具 "wikilink") [Category:安裝軟體](https://zh.wikipedia.org/wiki/Category:安裝軟體 "wikilink")
 
-1.  \[<http://msdn.microsoft.com/en-us/library/aa371185(VS.85>).aspx
-    Released Versions of Windows Installer\]
-2.  \[<http://msdn.microsoft.com/en-us/library/bb736325(VS.85>).aspx
-    What's New in Windows Installer 4.5\]
+1.  \[<http://msdn.microsoft.com/en-us/library/aa371185(VS.85>).aspx Released Versions of Windows Installer\]
+2.  \[<http://msdn.microsoft.com/en-us/library/bb736325(VS.85>).aspx What's New in Windows Installer 4.5\]
 3.  \[<http://msdn.microsoft.com/en-us/library/aa371185(VS.85>).aspx\]
 4.  \[<http://msdn.microsoft.com/en-us/library/aa371185(VS.85>).aspx\]
 5.

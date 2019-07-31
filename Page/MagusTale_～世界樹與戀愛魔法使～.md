@@ -1,11 +1,4 @@
-《**MagusTale
-～世界樹與戀愛魔法使～**》（）是日本[Whirlpool在](../Page/Whirlpool.md "wikilink")2007年11月30日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱『』。是繼《》（2006年9月29日發售）之後Whirlpool的第二部作品。而在2008年6月13日發售相關的[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**MagusTale
-Infinity**》。2009年12月24日由[GN
-Software代理發售](../Page/GN_Software.md "wikilink")[PlayStation
-Portable版](../Page/PlayStation_Portable.md "wikilink")《**MagusTale
-Eternity ～世界樹與戀愛魔法使～**》。2010年7月30日Whirlpool發售兩作的合集《**MagusTale
-W-Pack**》。
+《**MagusTale ～世界樹與戀愛魔法使～**》（）是日本[Whirlpool](../Page/Whirlpool.md "wikilink")在2007年11月30日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱『』。是繼《》（2006年9月29日發售）之後Whirlpool的第二部作品。而在2008年6月13日發售相關的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**MagusTale Infinity**》。2009年12月24日由[GN Software代理發售](../Page/GN_Software.md "wikilink")[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《**MagusTale Eternity ～世界樹與戀愛魔法使～**》。2010年7月30日Whirlpool發售兩作的合集《**MagusTale W-Pack**》。
 
 ## 故事簡介
 
@@ -92,13 +85,6 @@ W-Pack**》。
   - [Whirlpool](http://www.whirlpool.co.jp/)
   - [MagusTale 〜世界樹與戀愛的魔法使〜](http://www.whirlpool.co.jp/magustale/)
   - [MagusTale Infinity](http://whirlpool.co.jp/mtinfinity/)
-  - [MagusTale Eternity
-    〜世界樹與戀愛的魔法使〜](http://www.piacci.co.jp/magustale/index.html)
+  - [MagusTale Eternity 〜世界樹與戀愛的魔法使〜](http://www.piacci.co.jp/magustale/index.html)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
-[Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink") [Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")

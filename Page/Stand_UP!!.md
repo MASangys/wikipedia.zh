@@ -1,12 +1,10 @@
-**Stand
-Up\!\!**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****）是[日本](../Page/日本.md "wikilink")[TBS電視台的一部](../Page/TBS電視台.md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，從2003年7月4日開始到2003年9月12日止播出，共11集。背景是描寫日本[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")[戶越的](../Page/戶越.md "wikilink")[高中生們的青春喜劇](https://zh.wikipedia.org/wiki/高中生 "wikilink")。
+**Stand Up\!\!**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****）是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")的一部[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，從2003年7月4日開始到2003年9月12日止播出，共11集。背景是描寫日本[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")[戶越](../Page/戶越.md "wikilink")的[高中生們的青春喜劇](https://zh.wikipedia.org/wiki/高中生 "wikilink")。
 
-海外播出方面，[台灣分別由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS-G與](../Page/TVBS歡樂台.md "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")，於2004年5月29日晚間7時及2008年2月19日晚間8時播出。2003年12月19日在日本發售『Stand
-Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
+海外播出方面，[台灣分別由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS-G與](../Page/TVBS歡樂台.md "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")，於2004年5月29日晚間7時及2008年2月19日晚間8時播出。2003年12月19日在日本發售『Stand Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 ## 主要角色
 
-  - **淺井正平**：[二宮和也飾](../Page/二宮和也.md "wikilink")（[嵐的成員](../Page/嵐.md "wikilink")）
+  - **淺井正平**：[二宮和也](../Page/二宮和也.md "wikilink")飾（[嵐](../Page/嵐.md "wikilink")的成員）
 
 <!-- end list -->
 
@@ -15,8 +13,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **岩崎健吾**：[山下智久飾](../Page/山下智久.md "wikilink")（演出時是[Johnny's
-    Jr](../Page/傑尼斯事務所.md "wikilink")）
+  - **岩崎健吾**：[山下智久](../Page/山下智久.md "wikilink")飾（演出時是[Johnny's Jr](../Page/傑尼斯事務所.md "wikilink")）
 
 <!-- end list -->
 
@@ -25,7 +22,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **大和田千繪**：[鈴木杏飾](../Page/鈴木杏.md "wikilink")
+  - **大和田千繪**：[鈴木杏](../Page/鈴木杏.md "wikilink")飾
 
 <!-- end list -->
 
@@ -34,7 +31,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **宇田川隼人**：[成宮寬貴飾](../Page/成宮寬貴.md "wikilink")
+  - **宇田川隼人**：[成宮寬貴](../Page/成宮寬貴.md "wikilink")飾
 
 <!-- end list -->
 
@@ -43,7 +40,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **江波功司**：[小栗旬飾](../Page/小栗旬.md "wikilink")
+  - **江波功司**：[小栗旬](../Page/小栗旬.md "wikilink")飾
 
 <!-- end list -->
 
@@ -88,7 +85,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **宇田川信人**：[酒井敏也飾](../Page/酒井敏也.md "wikilink")
+  - **宇田川信人**：[酒井敏也](../Page/酒井敏也.md "wikilink")飾
 
 <!-- end list -->
 
@@ -106,7 +103,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 ### 高中的老師
 
-  - **望月五十鈴**：[釋由美子飾](../Page/釋由美子.md "wikilink")
+  - **望月五十鈴**：[釋由美子](../Page/釋由美子.md "wikilink")飾
 
 <!-- end list -->
 
@@ -115,7 +112,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **木村光彥**：[的場浩司飾](../Page/的場浩司.md "wikilink")
+  - **木村光彥**：[的場浩司](../Page/的場浩司.md "wikilink")飾
 
 <!-- end list -->
 
@@ -170,7 +167,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **上原美緒**：[芦名星飾](../Page/芦名星.md "wikilink")
+  - **上原美緒**：[芦名星](../Page/芦名星.md "wikilink")飾
 
 <!-- end list -->
 
@@ -197,7 +194,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 ### 其他角色
 
-  - **久米直也**：[塚本高史飾](../Page/塚本高史.md "wikilink")
+  - **久米直也**：[塚本高史](../Page/塚本高史.md "wikilink")飾
 
 <!-- end list -->
 
@@ -215,7 +212,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **橘廣美**：[劇團一人飾](../Page/劇團一人.md "wikilink")
+  - **橘廣美**：[劇團一人](../Page/劇團一人.md "wikilink")飾
 
 <!-- end list -->
 
@@ -233,7 +230,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **美由紀**：[水川麻美飾](../Page/水川麻美.md "wikilink")
+  - **美由紀**：[水川麻美](../Page/水川麻美.md "wikilink")飾
   - **シン**：[DAIGO飾](https://zh.wikipedia.org/wiki/DAIGO "wikilink")
 
 <!-- end list -->
@@ -256,14 +253,12 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
   - 製作人：[石丸彰彥](https://zh.wikipedia.org/wiki/石丸彰彥 "wikilink")
   - 導演：[堤幸彥](https://zh.wikipedia.org/wiki/堤幸彥 "wikilink")、[加藤新](https://zh.wikipedia.org/wiki/加藤新 "wikilink")、[平川雄一朗](../Page/平川雄一朗.md "wikilink")
   - 企画：[植田博樹](https://zh.wikipedia.org/wiki/植田博樹 "wikilink")
-  - 制作：[TBS
-    ENTERTAINMENT](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")
+  - 制作：[TBS ENTERTAINMENT](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")
   - 製作著作：TBS
 
 ## 主題曲
 
-  - [嵐](../Page/嵐.md "wikilink")「」（2003年9月3日由日本[J
-    Storm唱片發行](../Page/J_Storm.md "wikilink")）
+  - [嵐](../Page/嵐.md "wikilink")「」（2003年9月3日由日本[J Storm唱片發行](../Page/J_Storm.md "wikilink")）
 
 ## 各集日本首播收視率
 
@@ -369,17 +364,8 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 ## 外部連結
 
-  - [緯來日本台《Stand
-    Up\!\!》官方網站](http://japan.videoland.com.tw/channel/standup/)
+  - [緯來日本台《Stand Up\!\!》官方網站](http://japan.videoland.com.tw/channel/standup/)
 
 ## 作品的變遷
 
-[Category:2003年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2003年開播的日本電視劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:性題材電視劇](https://zh.wikipedia.org/wiki/Category:性題材電視劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink")
-[Category:品川區背景作品](https://zh.wikipedia.org/wiki/Category:品川區背景作品 "wikilink")
-[Category:二宮和也](https://zh.wikipedia.org/wiki/Category:二宮和也 "wikilink")
+[Category:2003年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2003年開播的日本電視劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:性題材電視劇](https://zh.wikipedia.org/wiki/Category:性題材電視劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink") [Category:品川區背景作品](https://zh.wikipedia.org/wiki/Category:品川區背景作品 "wikilink") [Category:二宮和也](https://zh.wikipedia.org/wiki/Category:二宮和也 "wikilink")

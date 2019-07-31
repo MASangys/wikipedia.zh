@@ -1,7 +1,4 @@
-《**電擊學園RPG 女神的十字架**》，是[角川書店](../Page/角川書店.md "wikilink")與[ASCII Media
-Works為了慶祝](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫](../Page/電擊文庫.md "wikilink")15周年，而在2009年3月19日於[NDS平台上推出的](https://zh.wikipedia.org/wiki/NDS "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，此遊戲使用傳統RPG的遊戲模式及2D[橫向捲軸戰鬥模式](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，一次同時操縱三個人物利用連續攻擊和必殺技進行戰鬥，此遊戲也支援卡片合成系統，為遊戲添加了更大的變數。隨後在2011年2月10日，[角川書店](../Page/角川書店.md "wikilink")與[ASCII
-Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出《**電擊學園RPG
-女神的十字架 特別版**》。
+《**電擊學園RPG 女神的十字架**》，是[角川書店](../Page/角川書店.md "wikilink")與[ASCII Media Works為了慶祝](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫](../Page/電擊文庫.md "wikilink")15周年，而在2009年3月19日於[NDS平台上推出的](https://zh.wikipedia.org/wiki/NDS "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，此遊戲使用傳統RPG的遊戲模式及2D[橫向捲軸戰鬥模式](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，一次同時操縱三個人物利用連續攻擊和必殺技進行戰鬥，此遊戲也支援卡片合成系統，為遊戲添加了更大的變數。隨後在2011年2月10日，[角川書店](../Page/角川書店.md "wikilink")與[ASCII Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出《**電擊學園RPG 女神的十字架 特別版**》。
 
 ## 世界
 
@@ -29,14 +26,12 @@ Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出
 
 ### 主要人物
 
-  - 主角（名字由玩家自行決定）（声：[竹本英史](../Page/竹本英史.md "wikilink")（戰鬥時） /
-    繪圖：[黑星紅白](../Page/黑星紅白.md "wikilink")）攻擊系統：斬擊
+  - 主角（名字由玩家自行決定）（声：[竹本英史](../Page/竹本英史.md "wikilink")（戰鬥時） / 繪圖：[黑星紅白](../Page/黑星紅白.md "wikilink")）攻擊系統：斬擊
     本作男主角，電擊學園的高二男學生，在與青梅竹馬兼同學的春日井絆一同在半夜調查學校的幽靈謠言時，淺意識看見八位少女被綁在山丘十字架的影像，而被捲入電擊文庫與絕夢的戰爭中。到電擊文庫的世界時，手上會出現寶劍『**吸血鬼**』。樣貌與絕招，完全與最後的魔王「絕夢」完全一樣。跟女主角絆互有好感，而在遊戲劇情中對絆告白。
 
 <!-- end list -->
 
-  - 春日井絆(春日井キズナ)（声：[喜多村英梨](../Page/喜多村英梨.md "wikilink") /
-    繪圖：[いとうのいぢ](https://zh.wikipedia.org/wiki/いとうのいぢ "wikilink")）
+  - 春日井絆(春日井キズナ)（声：[喜多村英梨](../Page/喜多村英梨.md "wikilink") / 繪圖：[いとうのいぢ](https://zh.wikipedia.org/wiki/いとうのいぢ "wikilink")）
     本作女主角，喜歡閱讀，也是學校的圖書委員長，已經看完全圖書館的電擊文庫小說。雖然是女主角，但沒有跟著男主角到電擊文庫的世界，而是在現實世界蒐集絕夢的資料，跟主角互有好感。
   - 絕夢（声：[竹本英史](../Page/竹本英史.md "wikilink")）
     本作的大魔王，樣子與絕招完全跟主角一模一樣，企圖竄改電擊文庫來毀滅世界。原本不是跟主角相同的樣子，而是寄宿在主角身上，隨著主角增強之後，自己的力量也隨之增強。
@@ -45,11 +40,9 @@ Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出
 
 #### 灼眼的夏娜
 
-（原作：[高橋彌七郎](https://zh.wikipedia.org/wiki/高橋彌七郎 "wikilink")
-原作繪圖：[伊東雜音](../Page/伊東雜音_\(1999年出道\).md "wikilink")）
+（原作：[高橋彌七郎](https://zh.wikipedia.org/wiki/高橋彌七郎 "wikilink") 原作繪圖：[伊東雜音](../Page/伊東雜音_\(1999年出道\).md "wikilink")）
 
-  - [“炎髪灼眼的殺手”夏娜](https://zh.wikipedia.org/wiki/灼眼的夏娜登場人物#主要人物 "wikilink")（声：[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）攻撃系統：斬擊
-    屬性「闘」
+  - [“炎髪灼眼的殺手”夏娜](https://zh.wikipedia.org/wiki/灼眼的夏娜登場人物#主要人物 "wikilink")（声：[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）攻撃系統：斬擊 屬性「闘」
     在初章時的販賣部裡出現，『灼眼的夏娜』的主角，為了對抗絕夢而從異次元來到現實世界調查。能用特殊技能"封絕"來搜索敵人。似乎對大河的存在特別在意。
 
 <!-- end list -->
@@ -69,57 +62,49 @@ Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出
 
 #### 奇諾之旅
 
-（原作：[時雨澤惠一](../Page/時雨澤惠一.md "wikilink")
-原作繪圖：[黑星紅白](../Page/黑星紅白.md "wikilink")）
+（原作：[時雨澤惠一](../Page/時雨澤惠一.md "wikilink") 原作繪圖：[黑星紅白](../Page/黑星紅白.md "wikilink")）
 
   -
 
 #### 伊里野的天空、UFO的夏天
 
-（原作：[秋山瑞人](../Page/秋山瑞人.md "wikilink")
-原作繪圖：[駒都英二](../Page/駒都英二.md "wikilink")）
+（原作：[秋山瑞人](../Page/秋山瑞人.md "wikilink") 原作繪圖：[駒都英二](../Page/駒都英二.md "wikilink")）
 
   -
 
 #### 乃木坂春香的秘密
 
-（原作：[五十嵐雄策](https://zh.wikipedia.org/wiki/五十嵐雄策 "wikilink")
-原作繪圖：[SHAA](https://zh.wikipedia.org/wiki/SHAA "wikilink")）
+（原作：[五十嵐雄策](https://zh.wikipedia.org/wiki/五十嵐雄策 "wikilink") 原作繪圖：[SHAA](https://zh.wikipedia.org/wiki/SHAA "wikilink")）
 
   -
 
 #### 魔法禁書目錄
 
-（原作：[鎌池和馬](../Page/鎌池和馬.md "wikilink")
-原作繪圖：[灰村清孝](../Page/灰村清孝.md "wikilink")）
+（原作：[鎌池和馬](../Page/鎌池和馬.md "wikilink") 原作繪圖：[灰村清孝](../Page/灰村清孝.md "wikilink")）
 
   -
 
 #### 撲殺天使朵庫蘿
 
-（原作：[おかゆまさき](https://zh.wikipedia.org/wiki/おかゆまさき "wikilink")
-原作繪圖：[とりしも](https://zh.wikipedia.org/wiki/とりしも "wikilink")）
+（原作：[おかゆまさき](https://zh.wikipedia.org/wiki/おかゆまさき "wikilink") 原作繪圖：[とりしも](https://zh.wikipedia.org/wiki/とりしも "wikilink")）
 
   -
 
 #### TIGER×DRAGON！(虎與龍)
 
-（原作：[竹宮悠由子](../Page/竹宮悠由子.md "wikilink")
-原作繪圖：[泰](https://zh.wikipedia.org/wiki/泰 "wikilink")）
+（原作：[竹宮悠由子](../Page/竹宮悠由子.md "wikilink") 原作繪圖：[泰](https://zh.wikipedia.org/wiki/泰 "wikilink")）
 
   -
 
 #### 機巧魔神
 
-（原作：[三雲岳斗](../Page/三雲岳斗.md "wikilink")
-原作繪圖：[和狸ナオ](https://zh.wikipedia.org/wiki/和狸ナオ "wikilink")）
+（原作：[三雲岳斗](../Page/三雲岳斗.md "wikilink") 原作繪圖：[和狸ナオ](https://zh.wikipedia.org/wiki/和狸ナオ "wikilink")）
 
   -
 
 #### 狼與辛香料
 
-（原作：[支倉凍砂](../Page/支倉凍砂.md "wikilink")
-原作繪圖：[文倉十](../Page/文倉十.md "wikilink")）
+（原作：[支倉凍砂](../Page/支倉凍砂.md "wikilink") 原作繪圖：[文倉十](../Page/文倉十.md "wikilink")）
 
   - 羅倫斯
     出現在電擊學園的販賣部，向玩家兜售各種補給品和新的S章小說文庫本。
@@ -131,16 +116,14 @@ Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出
 
 #### Baccano！(大騷動！)
 
-（原作：[成田良悟](../Page/成田良悟.md "wikilink")
-原作繪圖：[エナミカツミ](https://zh.wikipedia.org/wiki/エナミカツミ "wikilink")）
+（原作：[成田良悟](../Page/成田良悟.md "wikilink") 原作繪圖：[エナミカツミ](https://zh.wikipedia.org/wiki/エナミカツミ "wikilink")）
 
   - [費洛](../Page/Baccano!角色列表.md "wikilink")
     完成S章「Baccano！」後電擊學園會開放遊戲場，同時費洛也會出現在遊戲場內。
 
 #### 犬神！
 
-（原作：[有沢まみず](https://zh.wikipedia.org/wiki/有沢まみず "wikilink")
-原作繪圖：[若月神無](https://zh.wikipedia.org/wiki/若月神無 "wikilink")）
+（原作：[有沢まみず](https://zh.wikipedia.org/wiki/有沢まみず "wikilink") 原作繪圖：[若月神無](https://zh.wikipedia.org/wiki/若月神無 "wikilink")）
 
   - ようこ
     完成S章「犬神！」後出現在圖書館，能將玩家傳送到電擊學園其他位置。
@@ -149,12 +132,4 @@ Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出
 
   - [官方網站](http://d-game.dengeki.com/gakuen/index.html)
 
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
-[Category:以其他作品為題材的作品](https://zh.wikipedia.org/wiki/Category:以其他作品為題材的作品 "wikilink")
-[Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
+[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:以其他作品為題材的作品](https://zh.wikipedia.org/wiki/Category:以其他作品為題材的作品 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")

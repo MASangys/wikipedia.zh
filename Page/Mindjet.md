@@ -2,12 +2,9 @@
 
 ## 特点
 
-Mindjet
-可以让使用者通过创作[思维导图的方式](https://zh.wikipedia.org/wiki/思维导图 "wikilink")，以促进团队的沟通协作和项目管理信息的可视化工具。用户可以将脑中的各种想法和灵感记录下来进行[知识管理](../Page/知识管理.md "wikilink")，并进行发散性思维和[头脑风暴法将知识进行创新和分享](https://zh.wikipedia.org/wiki/头脑风暴法 "wikilink")。
+Mindjet 可以让使用者通过创作[思维导图的方式](https://zh.wikipedia.org/wiki/思维导图 "wikilink")，以促进团队的沟通协作和项目管理信息的可视化工具。用户可以将脑中的各种想法和灵感记录下来进行[知识管理](../Page/知识管理.md "wikilink")，并进行发散性思维和[头脑风暴法将知识进行创新和分享](https://zh.wikipedia.org/wiki/头脑风暴法 "wikilink")。
 
-Mindjet
-通过使用云存储让用户在多个操作平台对文件进行查看及操作，还可以和其他许多软件，如[PowerPoint](https://zh.wikipedia.org/wiki/PowerPoint "wikilink")、[Word](https://zh.wikipedia.org/wiki/Word "wikilink")、[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")、[Adobe
-Reader等进行关联](https://zh.wikipedia.org/wiki/Adobe_Reader "wikilink")，进行内容的导入和导出，拓展了应用的范围和深度。\[1\]
+Mindjet 通过使用云存储让用户在多个操作平台对文件进行查看及操作，还可以和其他许多软件，如[PowerPoint](https://zh.wikipedia.org/wiki/PowerPoint "wikilink")、[Word](https://zh.wikipedia.org/wiki/Word "wikilink")、[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")、[Adobe Reader等进行关联](https://zh.wikipedia.org/wiki/Adobe_Reader "wikilink")，进行内容的导入和导出，拓展了应用的范围和深度。\[1\]
 
 ## 应用
 
@@ -23,19 +20,11 @@ Mindjet 的应用可以分为三类，分别是头脑风暴、项目管理和会
 
 **项目管理**
 
-一个项目的成功取决于有效的人员管理。
-无论是小团队运作，还是复杂的项目，MindManager都可以帮您创建一个成功的蓝图，权衡各种利弊后保持团队的一致决定，确定项目在最终的预期内符合您的期望。\[2\]
+一个项目的成功取决于有效的人员管理。 无论是小团队运作，还是复杂的项目，MindManager都可以帮您创建一个成功的蓝图，权衡各种利弊后保持团队的一致决定，确定项目在最终的预期内符合您的期望。\[2\]
 
 ## 发展
 
-程序的初代版本于1994年以“MindMan—The Creative MindManager”命名在
-[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-操作平台上发布，\[3\]1999年更名为“MindManager”。\[4\][Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
-版本的程序于2006年发布，\[5\][iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
-和 [Android](../Page/Android.md "wikilink") 版本于2011年发布。\[6\]\[7\]随后公司收购
-Thinking Space 和 Cohuman ，开发成基于云服务的配合 MindManager 使用的 Mindjet
-Connect。2012年9月，公司将所有的软件合并成一个单一的产品，称为 Mindjet。
+程序的初代版本于1994年以“MindMan—The Creative MindManager”命名在 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 操作平台上发布，\[3\]1999年更名为“MindManager”。\[4\][Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 版本的程序于2006年发布，\[5\][iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 和 [Android](../Page/Android.md "wikilink") 版本于2011年发布。\[6\]\[7\]随后公司收购 Thinking Space 和 Cohuman ，开发成基于云服务的配合 MindManager 使用的 Mindjet Connect。2012年9月，公司将所有的软件合并成一个单一的产品，称为 Mindjet。
 
 ## 版本
 
@@ -78,11 +67,7 @@ Connect。2012年9月，公司将所有的软件合并成一个单一的产品�
 ## 外部链接
 
   -
-[Category:知识管理](https://zh.wikipedia.org/wiki/Category:知识管理 "wikilink")
-[Category:1994年软件](https://zh.wikipedia.org/wiki/Category:1994年软件 "wikilink")
-[Category:Mac_OS软件](https://zh.wikipedia.org/wiki/Category:Mac_OS软件 "wikilink")
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
-[Category:思维导图软件](https://zh.wikipedia.org/wiki/Category:思维导图软件 "wikilink")
+[Category:知识管理](https://zh.wikipedia.org/wiki/Category:知识管理 "wikilink") [Category:1994年软件](https://zh.wikipedia.org/wiki/Category:1994年软件 "wikilink") [Category:Mac_OS软件](https://zh.wikipedia.org/wiki/Category:Mac_OS软件 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink") [Category:思维导图软件](https://zh.wikipedia.org/wiki/Category:思维导图软件 "wikilink")
 
 1.
 2.  <http://www.mindmanager.cc/yingyong.html>  MindManager中文官方网站

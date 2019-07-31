@@ -1,7 +1,6 @@
-**泛美企業高級人員學院**（Instituto Panamericano de Alta Direccion de
-Empresa，IPADE）是隶属于墨西哥著名的[泛美大学](https://zh.wikipedia.org/wiki/泛美大学 "wikilink")，于1967年由几位杰出的企业家成立。它是首所在墨西哥采用案例教学的学校，以解决公司管理中实际问题为侧重点。在商学院建校的40年历史中，共有22，000学生从不同的课程项目中毕业，其中25%走上CEO或总经理的岗位。
+**泛美企業高級人員學院**（Instituto Panamericano de Alta Direccion de Empresa，IPADE）是隶属于墨西哥著名的[泛美大学](https://zh.wikipedia.org/wiki/泛美大学 "wikilink")，于1967年由几位杰出的企业家成立。它是首所在墨西哥采用案例教学的学校，以解决公司管理中实际问题为侧重点。在商学院建校的40年历史中，共有22，000学生从不同的课程项目中毕业，其中25%走上CEO或总经理的岗位。
 
-自建校之日起，IPADE商学院始终致力于推动国际交流，与全球多所知名的商学院如哈佛商学院，IESE商学院（西班牙）和纳瓦拉大学（巴塞罗那，西班牙）等建立了长期良好的合作关系。另外，IPADE为在拉美其他国家（[危地马拉](../Page/危地马拉.md "wikilink")、[厄瓜多尔](../Page/厄瓜多尔.md "wikilink")、[哥伦比亚](../Page/哥伦比亚.md "wikilink")、[阿根廷和](../Page/阿根廷.md "wikilink")[秘鲁](../Page/秘鲁.md "wikilink")）以及[欧洲](../Page/欧洲.md "wikilink")（[塞维利亚](../Page/塞维利亚.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")）建立同类商学院做出了决定性的贡献。
+自建校之日起，IPADE商学院始终致力于推动国际交流，与全球多所知名的商学院如哈佛商学院，IESE商学院（西班牙）和纳瓦拉大学（巴塞罗那，西班牙）等建立了长期良好的合作关系。另外，IPADE为在拉美其他国家（[危地马拉](../Page/危地马拉.md "wikilink")、[厄瓜多尔](../Page/厄瓜多尔.md "wikilink")、[哥伦比亚](../Page/哥伦比亚.md "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")和[秘鲁](../Page/秘鲁.md "wikilink")）以及[欧洲](../Page/欧洲.md "wikilink")（[塞维利亚](../Page/塞维利亚.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")）建立同类商学院做出了决定性的贡献。
 
 在其建校的40年中，IPADE始终与时俱进，不断更新其信息技术水平，现已开设革新与技术高级管理课程。
 
@@ -23,8 +22,7 @@ Empresa，IPADE）是隶属于墨西哥著名的[泛美大学](https://zh.wikipe
 
 <!-- end list -->
 
-  - Forbes：2007年国际排名为第四位，仅次于IESE, London Business School, Manchester
-    Business School, York (Schulich)。
+  - Forbes：2007年国际排名为第四位，仅次于IESE, London Business School, Manchester Business School, York (Schulich)。
 
 <!-- end list -->
 
@@ -38,19 +36,17 @@ IAPDE的教师队伍由60名全职教授及来自北美和欧洲其他商学院�
 
 ## 主业会（Opus Dei）
 
-IPADE商学院是一所天主[教会学校](https://zh.wikipedia.org/wiki/教会学校 "wikilink")，推行并深化以天主教义为基础的工作、生活及道德价值观。因此，IPADE一贯秉承尊重所有学生，教师和工作人员的个人自由，并在[主业会精神基础上提供多种人文活动](../Page/主业会.md "wikilink")。
+IPADE商学院是一所天主[教会学校](https://zh.wikipedia.org/wiki/教会学校 "wikilink")，推行并深化以天主教义为基础的工作、生活及道德价值观。因此，IPADE一贯秉承尊重所有学生，教师和工作人员的个人自由，并在[主业会](../Page/主业会.md "wikilink")精神基础上提供多种人文活动。
 
 主业会是隶属于天主教会的一个机构，其主要目的是通过在本职工作中完成本宗教的基本责任来发扬神圣耶稣精神。
 
-“大学应该使它的学生形成服务意识：服务于他所在社会，通过职业工作和公民行为追求社会的共同利益”（“大学之服务现实社会”，与Mons.
-Josemaria Escriva de Balaguer 对话，n.74）
+“大学应该使它的学生形成服务意识：服务于他所在社会，通过职业工作和公民行为追求社会的共同利益”（“大学之服务现实社会”，与Mons. Josemaria Escriva de Balaguer 对话，n.74）
 
 ## 课程项目
 
 ### 提高项目
 
-高级管理项目AD-2和AD（Alta
-Direccion的西班牙语缩写）是为总经理，企业家或同等级别的学生开设；公司管理项目D-1（Direccion的西班牙语缩写）是为部门总监，区域经理或同等级别的学生开设。
+高级管理项目AD-2和AD（Alta Direccion的西班牙语缩写）是为总经理，企业家或同等级别的学生开设；公司管理项目D-1（Direccion的西班牙语缩写）是为部门总监，区域经理或同等级别的学生开设。
 
 一家公司能够保持持续快速的增长，与其管理者的个人水平的提高过程密不可分。而IPADE的提高项目正是为公司的最高管理者们提供了这一过程：提高其作为企业家的分析、判断及决策能力，并掌握最新的实用的管理工具。
 
@@ -62,12 +58,9 @@ AD-2，AD和D-1项目之所以能够满足公司该级管理者的需求，主�
 
 ### 执行工商管理硕士（Executive MBA）
 
-MEDEX（Master en Dirección de Empresas para Ejecutivos con Experiencia
-的西班牙缩写），旨在发展中层青年管理人才的管理能力，使其具备在不久的将来担起高级管理责任的能力。
-MEDEX项目使其学生1）在多元的学习环境中发展和完善自身的管理能力；2）获得国际国内认可的工商管理硕士学位。
+MEDEX（Master en Dirección de Empresas para Ejecutivos con Experiencia 的西班牙缩写），旨在发展中层青年管理人才的管理能力，使其具备在不久的将来担起高级管理责任的能力。 MEDEX项目使其学生1）在多元的学习环境中发展和完善自身的管理能力；2）获得国际国内认可的工商管理硕士学位。
 
-MEDEX项目学制为24个月，分为6个学期。由于大部分学生为在职学生，该项目每周在校课时为两个半天，由一节小组项目和三节集体课程组成，其余时间为课外案例和理论自学。
-由于为在职MBA，MEDEX项目要求学生，派遣公司和IPADE教学和管理体系的密切配合，以期通过学术、职业和个人相结合的项目设置，使每个学生顺利完成紧凑的学习过程，持续的经验交流和个人素质的全面提高。
+MEDEX项目学制为24个月，分为6个学期。由于大部分学生为在职学生，该项目每周在校课时为两个半天，由一节小组项目和三节集体课程组成，其余时间为课外案例和理论自学。 由于为在职MBA，MEDEX项目要求学生，派遣公司和IPADE教学和管理体系的密切配合，以期通过学术、职业和个人相结合的项目设置，使每个学生顺利完成紧凑的学习过程，持续的经验交流和个人素质的全面提高。
 
 同其他项目一样，MEDEX也是采用案例教学，着重强调每个学生在分组项目中的参与程度和团队表现。
 
@@ -177,5 +170,4 @@ MBA项目学制为22个月，由6个学期和一个实习期组成。实习期�
   - [MBA排名-华尔街日报](http://online.wsj.com/public/page/2_1181.html)
   - [MBA排名-Forbes](http://www.forbes.com/2007/08/15/best-business-schools-lead-careers-cz_kb_07mba_nonus2yr_slide_5.html?thisSpeed=25000)
 
-[Category:墨西哥大學](https://zh.wikipedia.org/wiki/Category:墨西哥大學 "wikilink")
-[Category:1967年創建的教育機構](https://zh.wikipedia.org/wiki/Category:1967年創建的教育機構 "wikilink")
+[Category:墨西哥大學](https://zh.wikipedia.org/wiki/Category:墨西哥大學 "wikilink") [Category:1967年創建的教育機構](https://zh.wikipedia.org/wiki/Category:1967年創建的教育機構 "wikilink")

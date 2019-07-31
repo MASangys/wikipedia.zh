@@ -22,8 +22,7 @@
 
 ## 拓展
 
-如下[铱](../Page/铱.md "wikilink")脱氢催化剂（Cp\* =
-[五甲基环戊二烯](../Page/五甲基环戊二烯.md "wikilink")配体）和[叔丁醇钾](../Page/叔丁醇钾.md "wikilink")存在下，以[对异丙基甲苯](../Page/对异丙基甲苯.md "wikilink")为溶剂，少量的1,7-辛二烯为质子受体，[正戊醇在相对较低的温度下即可发生Guerbet反应](https://zh.wikipedia.org/wiki/正戊醇 "wikilink")。\[3\]
+如下[铱](../Page/铱.md "wikilink")脱氢催化剂（Cp\* = [五甲基环戊二烯](../Page/五甲基环戊二烯.md "wikilink")配体）和[叔丁醇钾](../Page/叔丁醇钾.md "wikilink")存在下，以[对异丙基甲苯](../Page/对异丙基甲苯.md "wikilink")为溶剂，少量的1,7-辛二烯为质子受体，[正戊醇在相对较低的温度下即可发生Guerbet反应](https://zh.wikipedia.org/wiki/正戊醇 "wikilink")。\[3\]
 
 
 [GuerbetReactionScope.png](https://zh.wikipedia.org/wiki/File:GuerbetReactionScope.png "fig:GuerbetReactionScope.png")
@@ -38,8 +37,7 @@
 
 ## 外部链接
 
-  - *A Review of Guerbet Chemistry* Anthony J. O’Lenick, Jr.
-    <http://www.zenitech.com>[Link](https://web.archive.org/web/20060318103037/http://www.zenitech.com/documents/guerbet_chemistry.pdf#search=%22Guerbet%20Reaction%22)
+  - *A Review of Guerbet Chemistry* Anthony J. O’Lenick, Jr. <http://www.zenitech.com>[Link](https://web.archive.org/web/20060318103037/http://www.zenitech.com/documents/guerbet_chemistry.pdf#search=%22Guerbet%20Reaction%22)
 
 [Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink")
 

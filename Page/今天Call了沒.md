@@ -1,6 +1,4 @@
-《**今天Call了沒**》是由匈牙利Telemedia
-InteracTV原創，授權由臺灣地區MTV頻道播出的電視節目。播映時間約從2007年10月起至2009年2月28日為止，因[國家通訊傳播委員會](https://zh.wikipedia.org/wiki/國家通訊傳播委員會 "wikilink")（[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")：National
-Communication Commission，簡稱NCC）判定有詐欺嫌疑，而勒令停播。
+《**今天Call了沒**》是由匈牙利Telemedia InteracTV原創，授權由臺灣地區MTV頻道播出的電視節目。播映時間約從2007年10月起至2009年2月28日為止，因[國家通訊傳播委員會](https://zh.wikipedia.org/wiki/國家通訊傳播委員會 "wikilink")（[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")：National Communication Commission，簡稱NCC）判定有詐欺嫌疑，而勒令停播。
 
 ## 節目特色
 
@@ -31,11 +29,8 @@ Communication Commission，簡稱NCC）判定有詐欺嫌疑，而勒令停播�
 
   - [《今天Call了沒》官方網站](https://web.archive.org/web/20081229123906/http://www.mtv.com.tw/Channel/Show/CallToday/)
 
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink")
+[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink")
 
 1.  [聯合新聞網：年吸4億有詐？「今天CALL了沒」送辦](http://udn.com/NEWS/SOCIETY/SOC6/4757434.shtml)，2009年2月26日查閱。
 2.  [聯合新聞網：年吸4億有詐？「今天CALL了沒」送辦](http://udn.com/NEWS/SOCIETY/SOC6/4757434.shtml)，2009年2月26日查閱。
-3.  [MTV
-    LAX-Blog：MTV回應消基會對《今天Call了沒》的意見](http://www.mtv.com.tw/blogs/detail_msg.php?mlg=News&d_id=9788)
-    ，2009年2月26日查閱。
+3.  [MTV LAX-Blog：MTV回應消基會對《今天Call了沒》的意見](http://www.mtv.com.tw/blogs/detail_msg.php?mlg=News&d_id=9788) ，2009年2月26日查閱。

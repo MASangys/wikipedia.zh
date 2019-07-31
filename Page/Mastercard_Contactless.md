@@ -1,27 +1,19 @@
-**Mastercard
-Contactless**，前稱PayPass，是[万事达卡組織推出的非接觸式](../Page/万事达卡.md "wikilink")[信用卡及](../Page/信用卡.md "wikilink")[扣賬卡系統](https://zh.wikipedia.org/wiki/扣賬卡 "wikilink")，带有EMV芯片的非接觸式万事达信用卡及扣賬卡不必接觸刷卡機就可以完成交易。同類系統有[Visa
-payWave及](../Page/Visa_payWave.md "wikilink")[銀聯](https://zh.wikipedia.org/wiki/銀聯 "wikilink")[閃付](https://zh.wikipedia.org/wiki/閃付 "wikilink")。
+**Mastercard Contactless**，前稱PayPass，是[万事达卡](../Page/万事达卡.md "wikilink")組織推出的非接觸式[信用卡](../Page/信用卡.md "wikilink")及[扣賬卡系統](https://zh.wikipedia.org/wiki/扣賬卡 "wikilink")，带有EMV芯片的非接觸式万事达信用卡及扣賬卡不必接觸刷卡機就可以完成交易。同類系統有[Visa payWave及](../Page/Visa_payWave.md "wikilink")[銀聯](https://zh.wikipedia.org/wiki/銀聯 "wikilink")[閃付](https://zh.wikipedia.org/wiki/閃付 "wikilink")。
 
 ## 使用
 
-将Mastercard Contactless卡置于支持Mastercard
-Contactless的POS机的4公分範圍內，POS机就能感應到万事达卡的卡片資料并进行下一步交易。
+将Mastercard Contactless卡置于支持Mastercard Contactless的POS机的4公分範圍內，POS机就能感應到万事达卡的卡片資料并进行下一步交易。
 
 ## 安全機制
 
-  - 集合先進的EMV晶片安控及無線電技術，晶片內建多項加密機制，並採用動態資料認證（Dynamic Data Authentication,
-    DDA）功能，交易時，Mastercard
-    CContactless智慧晶片能為每筆交易產生一個獨一的簽章，提高資料在傳輸過程中的安全性，防止資料被竊取及側錄的可能性。
-  - Mastercard Contactless發卡會員機構可以根據風險控管需求，決定Mastercard
-    Contactless交易的處理程序為一般的「連線交易」或是快速的「離線交易」，離線交易最快4秒即可完成列印簽單之所有程序。
-  - 每一張Mastercard
-    Contactless卡都設有「風險額度累計」的功能，在超過一定的交易總累計金額後，商家在執行交易時，系統會由離線交易轉為連線交易，透過終端機與發卡行做確認程序，加強持卡人的支付安全。
+  - 集合先進的EMV晶片安控及無線電技術，晶片內建多項加密機制，並採用動態資料認證（Dynamic Data Authentication, DDA）功能，交易時，Mastercard CContactless智慧晶片能為每筆交易產生一個獨一的簽章，提高資料在傳輸過程中的安全性，防止資料被竊取及側錄的可能性。
+  - Mastercard Contactless發卡會員機構可以根據風險控管需求，決定Mastercard Contactless交易的處理程序為一般的「連線交易」或是快速的「離線交易」，離線交易最快4秒即可完成列印簽單之所有程序。
+  - 每一張Mastercard Contactless卡都設有「風險額度累計」的功能，在超過一定的交易總累計金額後，商家在執行交易時，系統會由離線交易轉為連線交易，透過終端機與發卡行做確認程序，加強持卡人的支付安全。
   - 卡片掌握在消費者手中，不用擔心被側錄及盜刷的問題。
 
 ## 安全疑慮
 
-紐卡素大學(Newcastle
-University)網上罪行及電腦保安中心發表報告，揭示感應式（非接觸式，Contactless）付款信用卡的漏洞，其研究團隊僅花30英鎊(約330港元)從網上購買組件，即可把手機改裝成讀卡器。在測試時，把它放近藏有感應式付款信用卡的銀包，只需兩秒時間，即成功盜取信用卡資料，包括卡主姓名、信用卡號碼及到期日，甚至最近10次的交易紀錄。\[1\]
+紐卡素大學(Newcastle University)網上罪行及電腦保安中心發表報告，揭示感應式（非接觸式，Contactless）付款信用卡的漏洞，其研究團隊僅花30英鎊(約330港元)從網上購買組件，即可把手機改裝成讀卡器。在測試時，把它放近藏有感應式付款信用卡的銀包，只需兩秒時間，即成功盜取信用卡資料，包括卡主姓名、信用卡號碼及到期日，甚至最近10次的交易紀錄。\[1\]
 
 ## 發行者
 
@@ -148,7 +140,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 <tr class="even">
 <td></td>
 <td><p>中銀Esso萬事達白金卡</p></td>
-<td><p><a href="../Page/埃克森美孚.md" title="wikilink">埃克森美孚旗下</a><a href="../Page/加油站.md" title="wikilink">加油站</a></p>
+<td><p><a href="../Page/埃克森美孚.md" title="wikilink">埃克森美孚</a>旗下<a href="../Page/加油站.md" title="wikilink">加油站</a></p>
 <p><a href="https://zh.wikipedia.org/wiki/埃索" title="wikilink">埃索</a></p></td>
 <td></td>
 <td><p><a href="https://www.boci.com.hk/chi/creditcard/boci_cc_sc_esso.html">14</a></p></td>
@@ -436,7 +428,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/拍住賞.md" title="wikilink">拍住賞MasterCard</a></p></td>
+<td><p><a href="../Page/拍住賞.md" title="wikilink">拍住賞</a>MasterCard</p></td>
 <td><p>HKT Payment Limited <a href="../Page/香港電訊.md" title="wikilink">香港電訊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/香港移動通訊" title="wikilink">香港移動通訊</a></p></td>
 <td><p>預付卡，儲值支付工具牌照號碼：SVF0002</p></td>
@@ -480,10 +472,6 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 
   - [MasterCard](http://www.mastercard.com/paypass)
 
-[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink")
-[Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink")
-[Category:智能卡](https://zh.wikipedia.org/wiki/Category:智能卡 "wikilink")
+[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink") [Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink") [Category:智能卡](https://zh.wikipedia.org/wiki/Category:智能卡 "wikilink")
 
-1.  [歹徒擦身拍卡盜資料
-    感應式信用卡存漏洞](http://www.am730.com.hk/article.php?article=157299&d=2063)
-    - AM730(am新聞) ,2013年06月03日
+1.  [歹徒擦身拍卡盜資料 感應式信用卡存漏洞](http://www.am730.com.hk/article.php?article=157299&d=2063) - AM730(am新聞) ,2013年06月03日

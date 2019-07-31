@@ -16,8 +16,7 @@
 ## 參見
 
   - [fdisk](https://zh.wikipedia.org/wiki/fdisk "wikilink")
-  - [Norton
-    PartitionMagic](https://zh.wikipedia.org/wiki/Norton_PartitionMagic "wikilink")
+  - [Norton PartitionMagic](https://zh.wikipedia.org/wiki/Norton_PartitionMagic "wikilink")
   - [SPFDisk](../Page/SPFDisk.md "wikilink")
 
 ## 參考資料
@@ -31,15 +30,9 @@
   - [PartitionGuru 官方英文网站](http://www.partitionguru.com/)
   - [Eassos 官方英文网站](http://www.eassos.com/)
 
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:磁盘级数据恢复软件](https://zh.wikipedia.org/wiki/Category:磁盘级数据恢复软件 "wikilink")
-[Category:分区级数据恢复软件](https://zh.wikipedia.org/wiki/Category:分区级数据恢复软件 "wikilink")
-[Category:文件级数据恢复软件](https://zh.wikipedia.org/wiki/Category:文件级数据恢复软件 "wikilink")
-[Category:共享軟件](https://zh.wikipedia.org/wiki/Category:共享軟件 "wikilink")
+[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:磁盘级数据恢复软件](https://zh.wikipedia.org/wiki/Category:磁盘级数据恢复软件 "wikilink") [Category:分区级数据恢复软件](https://zh.wikipedia.org/wiki/Category:分区级数据恢复软件 "wikilink") [Category:文件级数据恢复软件](https://zh.wikipedia.org/wiki/Category:文件级数据恢复软件 "wikilink") [Category:共享軟件](https://zh.wikipedia.org/wiki/Category:共享軟件 "wikilink")
 
-1.
-    妖精的號角|url=[https://www.fairyhorn.cc/17/diskgenius|website=妖精的號角|language=zh-TW|date=2017-07-03](https://www.fairyhorn.cc/17/diskgenius%7Cwebsite=妖精的號角%7Clanguage=zh-TW%7Cdate=2017-07-03)}}
-2.   Tutorial & howto {{\!}} Disk Genius {{\!}}Disk recovery
-    software|url=[http://www.diskgenius.net/|website=www.diskgenius.net](http://www.diskgenius.net/%7Cwebsite=www.diskgenius.net)}}
+1.   妖精的號角|url=[https://www.fairyhorn.cc/17/diskgenius|website=妖精的號角|language=zh-TW|date=2017-07-03](https://www.fairyhorn.cc/17/diskgenius%7Cwebsite=妖精的號角%7Clanguage=zh-TW%7Cdate=2017-07-03)}}
+2.   Tutorial & howto {{\!}} Disk Genius {{\!}}Disk recovery software|url=[http://www.diskgenius.net/|website=www.diskgenius.net](http://www.diskgenius.net/%7Cwebsite=www.diskgenius.net)}}
 3.
 4.

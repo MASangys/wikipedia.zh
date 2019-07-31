@@ -1,15 +1,8 @@
-《**Neverball**》是一个[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，模式类似于《[超级猴子球](https://zh.wikipedia.org/wiki/超级猴子球 "wikilink")》。
-[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-2000/XP、[Mac OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Sega
-Dreamcast以及](https://zh.wikipedia.org/wiki/Sega_Dreamcast "wikilink")[iPhone都可以看到它的影子](https://zh.wikipedia.org/wiki/iPhone "wikilink")。《Neverball》是[自由软件](../Page/自由软件.md "wikilink")授权协议为[GNU
-General Public
-License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
+《**Neverball**》是一个[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，模式类似于《[超级猴子球](https://zh.wikipedia.org/wiki/超级猴子球 "wikilink")》。 [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 2000/XP、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Sega Dreamcast以及](https://zh.wikipedia.org/wiki/Sega_Dreamcast "wikilink")[iPhone都可以看到它的影子](https://zh.wikipedia.org/wiki/iPhone "wikilink")。《Neverball》是[自由软件](../Page/自由软件.md "wikilink")授权协议为[GNU General Public License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 
 ## 游戏基本
 
-《Neverball》中，玩家通过改变重力方向的形式移动一个球。
-用鼠标或键盘或操纵杆改变水平面引导球到达目的地，不过时间有限而且必须采集足够的硬币点数（黄红蓝三种硬币分别代表1、5、10三种点数）才能开启出口，还有些其他的障碍。获得100个硬币获得额外一次机会。《Neverball》拥有存档系统，记录下游戏的全过程。自动开始，最多保存64个。
+《Neverball》中，玩家通过改变重力方向的形式移动一个球。 用鼠标或键盘或操纵杆改变水平面引导球到达目的地，不过时间有限而且必须采集足够的硬币点数（黄红蓝三种硬币分别代表1、5、10三种点数）才能开启出口，还有些其他的障碍。获得100个硬币获得额外一次机会。《Neverball》拥有存档系统，记录下游戏的全过程。自动开始，最多保存64个。
 
 ## 输入方式
 
@@ -23,9 +16,7 @@ License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 
 ### 关卡设置
 
-《Neverball》可以用[GtkRadiant](../Page/GtkRadiant.md "wikilink")创建关卡，就像[雷神之锤系列游戏一样](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")。
-1.5.0版本中有6套关卡，还有额外关卡下载[Neverforum](http://www.nevercorner.net/forum/)。
-《Neverball》也可以进行时间挑战之类的额外游戏方式。
+《Neverball》可以用[GtkRadiant](../Page/GtkRadiant.md "wikilink")创建关卡，就像[雷神之锤系列游戏一样](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")。 1.5.0版本中有6套关卡，还有额外关卡下载[Neverforum](http://www.nevercorner.net/forum/)。 《Neverball》也可以进行时间挑战之类的额外游戏方式。
 
 《Neverputt》有7套关卡。
 
@@ -35,28 +26,16 @@ License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 
 ## Neverputt
 
-[Neverball_-_Putt.jpg](https://zh.wikipedia.org/wiki/File:Neverball_-_Putt.jpg "fig:Neverball_-_Putt.jpg")
-[Neverputt.png](https://zh.wikipedia.org/wiki/File:Neverputt.png "fig:Neverputt.png")
-《Neverball》
-附带[迷你高尔夫游戏](https://zh.wikipedia.org/wiki/迷你高尔夫 "wikilink")《Neverputt》，使用完全一样的物理和图像引擎。
-《Neverball》 1.4.0之后不再能玩《Neverputt》关卡。
+[Neverball_-_Putt.jpg](https://zh.wikipedia.org/wiki/File:Neverball_-_Putt.jpg "fig:Neverball_-_Putt.jpg") [Neverputt.png](https://zh.wikipedia.org/wiki/File:Neverputt.png "fig:Neverputt.png") 《Neverball》 附带[迷你高尔夫游戏](https://zh.wikipedia.org/wiki/迷你高尔夫 "wikilink")《Neverputt》，使用完全一样的物理和图像引擎。 《Neverball》 1.4.0之后不再能玩《Neverputt》关卡。
 
 ## 外部链接
 
   - [官方](http://icculus.org/neverball/)
-  - [Interview with Robert Kooima, creator of
-    *Neverball*](https://web.archive.org/web/20081121190341/http://www.planetfreeplay.com/interview/2/)
+  - [Interview with Robert Kooima, creator of *Neverball*](https://web.archive.org/web/20081121190341/http://www.planetfreeplay.com/interview/2/)
 
 ## 其他
 
   - [超级猴子球](https://zh.wikipedia.org/wiki/超级猴子球 "wikilink")
   - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
-[Category:动作游戏](https://zh.wikipedia.org/wiki/Category:动作游戏 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:动作游戏](https://zh.wikipedia.org/wiki/Category:动作游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

@@ -1,10 +1,8 @@
-這個頁面收錄了日本歌手[BONNIE
-PINK的音樂作品](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")。
+這個頁面收錄了日本歌手[BONNIE PINK的音樂作品](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")。
 
 ## 單曲
 
-第1張至第8張單曲由[Pony
-Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")，第9張單曲起由[華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。
+第1張至第8張單曲由[Pony Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")，第9張單曲起由[華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。
 <span style="font-size:smaller;">（「※」記號代表由Tore Johansson製作的作品）</span>
 
 <table>
@@ -52,7 +50,7 @@ Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")，第9張單
 <td><p><small>1997年6月18日</small></p></td>
 <td><p><strong>It's gonna rain!</strong></p></td>
 <td><p><small>「」</small></p></td>
-<td><p><small><a href="../Page/富士電視台.md" title="wikilink">富士電視台動畫</a>「浪客劍心」第50集～第66集片尾曲</small></p></td>
+<td><p><small><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>動畫「浪客劍心」第50集～第66集片尾曲</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>6th※</small></p></td>
@@ -167,7 +165,7 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 <td><p><small>2006年5月10日</small></p></td>
 <td><p><strong>LOVE IS BUBBLE</strong></p></td>
 <td><p><small> </small></p></td>
-<td><p><small><a href="../Page/東寶.md" title="wikilink">東寶電影</a>「<a href="https://zh.wikipedia.org/wiki/令人討厭的松子的一生#.E9.9B.BB.E5.BD.B1" title="wikilink">令人討厭的松子的一生</a>」主題曲<br />
+<td><p><small><a href="../Page/東寶.md" title="wikilink">東寶</a>電影「<a href="https://zh.wikipedia.org/wiki/令人討厭的松子的一生#.E9.9B.BB.E5.BD.B1" title="wikilink">令人討厭的松子的一生</a>」主題曲<br />
 電影中有BONNIE PINK本人演唱這首歌的一幕<br />
 這首歌是2005年電影進行拍攝時為之量身訂做的</small></p></td>
 </tr>
@@ -178,7 +176,7 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 <td><p><small>「Free」</small></p></td>
 <td><p><small><a href="../Page/資生堂.md" title="wikilink">資生堂</a>「ANESSA」廣告歌曲<br />
 原本沒有發行的打算，因廣告引起熱烈回響，故緊急決定單曲化發行。<br />
-初回限定盤的封面是廣告女主角<a href="../Page/蛯原友里.md" title="wikilink">蛯原友里的背影</a>，而單曲宣傳標語「夏天歌曲最強」也與ANESSA的「太陽系最強」呼應。</small></p></td>
+初回限定盤的封面是廣告女主角<a href="../Page/蛯原友里.md" title="wikilink">蛯原友里</a>的背影，而單曲宣傳標語「夏天歌曲最強」也與ANESSA的「太陽系最強」呼應。</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>22nd</small></p></td>
@@ -194,7 +192,7 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 <td><p><strong>Water Me</strong></p></td>
 <td><p><small>「Gimme A Beat」<br />
 「MAGICAL MYSTERY TOUR」</small></p></td>
-<td><p><small>「Water Me」為<a href="../Page/富士電視台.md" title="wikilink">富士電視台日劇</a>「<a href="../Page/我們的教科書.md" title="wikilink">我們的教科書</a>」主題曲<br />
+<td><p><small>「Water Me」為<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>日劇「<a href="../Page/我們的教科書.md" title="wikilink">我們的教科書</a>」主題曲<br />
 「Gimme A Beat」為<a href="../Page/日產汽車.md" title="wikilink">NISSAN</a>「MOCO」廣告歌曲<br />
 「MAGICAL MYSTERY TOUR」為<a href="https://zh.wikipedia.org/wiki/NHK" title="wikilink">NHK的</a>「說英語之夜」2007年度主題曲。<br />
 「MAGICAL MYSTERY TOUR」翻唱自<a href="https://zh.wikipedia.org/wiki/披頭四" title="wikilink">披頭四的同名歌曲</a></small></p></td>
@@ -268,8 +266,7 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 
 ### 精選輯
 
-  - 由[Pony
-    Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")
+  - 由[Pony Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")
 
 |                    |                            |                                                                                        |                  |
 | ------------------ | -------------------------- | -------------------------------------------------------------------------------------- | ---------------- |
@@ -317,5 +314,4 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 
   - [BONNIE PINK](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")
 
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")

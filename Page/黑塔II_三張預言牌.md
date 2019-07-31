@@ -1,8 +1,8 @@
-《**三張預言牌**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[史蒂芬金於](https://zh.wikipedia.org/wiki/史蒂芬金 "wikilink")1987年所寫的長篇[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")[黑塔系列中的第二集](https://zh.wikipedia.org/wiki/黑塔 "wikilink")，在遇到黑衣人之後，羅蘭在海灘受到肉食怪物『龍蝦怪』襲擊，因而受了[重傷](https://zh.wikipedia.org/wiki/重傷 "wikilink")，還被『龍蝦怪』的[毒液感染](../Page/毒液.md "wikilink")，性命垂危，他還必須打開海灘上的三道門，牽引出命運中的三個人。此集的副標題為『舊而復新』。
+《**三張預言牌**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[史蒂芬金於](https://zh.wikipedia.org/wiki/史蒂芬金 "wikilink")1987年所寫的長篇[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")[黑塔系列中的第二集](https://zh.wikipedia.org/wiki/黑塔 "wikilink")，在遇到黑衣人之後，羅蘭在海灘受到肉食怪物『龍蝦怪』襲擊，因而受了[重傷](https://zh.wikipedia.org/wiki/重傷 "wikilink")，還被『龍蝦怪』的[毒液](../Page/毒液.md "wikilink")感染，性命垂危，他還必須打開海灘上的三道門，牽引出命運中的三個人。此集的副標題為『舊而復新』。
 
 ## 劇情概要
 
-故事開始於《[最後的槍客](https://zh.wikipedia.org/wiki/最後的槍客 "wikilink")》結尾後七個小時，[羅蘭在西海海岸上清醒](https://zh.wikipedia.org/wiki/:羅蘭·德斯欽 "wikilink")，然後立刻被一種狀似[龍蝦的怪物襲擊](../Page/龍蝦.md "wikilink")（後來這種怪物被稱為龍蝦怪），羅蘭勉強地殺了它，但是他仍然被吃了右手的食指和中指及右腳的大拇指，這個使得他永遠只能使用一把槍。另外，他未經過處裡的傷口受到了感染，讓他[發燒且失去力氣](https://zh.wikipedia.org/wiki/發燒 "wikilink")。然後他繼續沿著海岸朝北走，在那裡他發現了三道門，每一道門都同往不同時代的[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")（分別是1987年、1964年和1977年），羅蘭將穿越那些門並找到和他一起追尋黑塔的同伴。
+故事開始於《[最後的槍客](https://zh.wikipedia.org/wiki/最後的槍客 "wikilink")》結尾後七個小時，[羅蘭在西海海岸上清醒](https://zh.wikipedia.org/wiki/:羅蘭·德斯欽 "wikilink")，然後立刻被一種狀似[龍蝦](../Page/龍蝦.md "wikilink")的怪物襲擊（後來這種怪物被稱為龍蝦怪），羅蘭勉強地殺了它，但是他仍然被吃了右手的食指和中指及右腳的大拇指，這個使得他永遠只能使用一把槍。另外，他未經過處裡的傷口受到了感染，讓他[發燒且失去力氣](https://zh.wikipedia.org/wiki/發燒 "wikilink")。然後他繼續沿著海岸朝北走，在那裡他發現了三道門，每一道門都同往不同時代的[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")（分別是1987年、1964年和1977年），羅蘭將穿越那些門並找到和他一起追尋黑塔的同伴。
 
 第一道門（門上寫著『囚犯』，意思在指這個人的毒癮）帶他去1987年找艾迪·迪恩，一位[海洛因](../Page/海洛因.md "wikilink")[毒蟲](https://zh.wikipedia.org/wiki/毒蟲 "wikilink")，當時正在幫毒梟安立可·巴拉札偷渡[古柯鹼](https://zh.wikipedia.org/wiki/古柯鹼 "wikilink")，由於艾迪深深陷入毒癮與犯罪的問題之中，他決定把自己的命運交給[羅蘭](../Page/羅蘭·德斯欽.md "wikilink")。
 
@@ -18,9 +18,6 @@
 
 艾迪藉由門看歐黛塔在賣場奇怪的移動方式（輪椅）時，他想到了一部叫《[鬼店](https://zh.wikipedia.org/wiki/鬼店 "wikilink")》的電影（《[鬼店](https://zh.wikipedia.org/wiki/鬼店 "wikilink")》是史蒂芬金的第三本小說）。還有羅蘭藉由摩特的身體去槍械販賣店時，他遇到的警察希望利用胖子強尼抓到克萊門斯，再藉克萊門斯抓到毒梟巴拉札或吉拿里，理查·吉拿里，是小說《[銷形蝕骸](../Page/銷形蝕骸.md "wikilink")》中的流氓。
 
-<File:Drawing> of the three.jpg|台灣《三張預言牌》封面
-[File:The_Drawing_of_the_Three.jpg|中國《三張牌》封面](File:The_Drawing_of_the_Three.jpg%7C中國《三張牌》封面)
+<File:Drawing> of the three.jpg|台灣《三張預言牌》封面 [File:The_Drawing_of_the_Three.jpg|中國《三張牌》封面](File:The_Drawing_of_the_Three.jpg%7C中國《三張牌》封面)
 
-[Category:黑塔小說系列](https://zh.wikipedia.org/wiki/Category:黑塔小說系列 "wikilink")
-[Category:史蒂芬·金](https://zh.wikipedia.org/wiki/Category:史蒂芬·金 "wikilink")
-[Category:1987年美國小說](https://zh.wikipedia.org/wiki/Category:1987年美國小說 "wikilink")
+[Category:黑塔小說系列](https://zh.wikipedia.org/wiki/Category:黑塔小說系列 "wikilink") [Category:史蒂芬·金](https://zh.wikipedia.org/wiki/Category:史蒂芬·金 "wikilink") [Category:1987年美國小說](https://zh.wikipedia.org/wiki/Category:1987年美國小說 "wikilink")

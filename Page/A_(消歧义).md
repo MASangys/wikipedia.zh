@@ -1,5 +1,4 @@
-[A a](../Page/A.md "wikilink"),
-是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第1个[字母](../Page/字母.md "wikilink")。
+[A a](../Page/A.md "wikilink"), 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第1个[字母](../Page/字母.md "wikilink")。
 
 除此之外，A还可以指代：
 
@@ -18,9 +17,7 @@
 
 ### 物理学
 
-  - A，The center of a hexagonal face of the
-    [布里渊区](../Page/布里渊区.md "wikilink") of a hexagonal
-    lattice
+  - A，The center of a hexagonal face of the [布里渊区](../Page/布里渊区.md "wikilink") of a hexagonal lattice
   - A，[比表面积](https://zh.wikipedia.org/wiki/比表面积 "wikilink")
   - A，[磁矢势](../Page/磁矢势.md "wikilink")
   - A，[吸光度](https://zh.wikipedia.org/wiki/吸光度 "wikilink")
@@ -43,10 +40,8 @@
 ### 天文学
 
   - A，[恒星光谱](../Page/恒星光谱.md "wikilink")中白色恒星的光谱
-  - A，用于指定1月1日至1月15日期间发现的[彗星或其他](https://zh.wikipedia.org/wiki/彗星 "wikilink")[天体的临时编号](https://zh.wikipedia.org/wiki/天体 "wikilink")，如[C/1760
-    A1](https://zh.wikipedia.org/wiki/C/1760_A1 "wikilink")
-  - A，[彗星编号前缀](https://zh.wikipedia.org/wiki/彗星 "wikilink")，用于起初被错误认定为彗星，实则为一颗[小行星的天体](https://zh.wikipedia.org/wiki/小行星 "wikilink")，如A/2005
-    JM<sub>3</sub>
+  - A，用于指定1月1日至1月15日期间发现的[彗星或其他](https://zh.wikipedia.org/wiki/彗星 "wikilink")[天体的临时编号](https://zh.wikipedia.org/wiki/天体 "wikilink")，如[C/1760 A1](https://zh.wikipedia.org/wiki/C/1760_A1 "wikilink")
+  - A，[彗星编号前缀](https://zh.wikipedia.org/wiki/彗星 "wikilink")，用于起初被错误认定为彗星，实则为一颗[小行星的天体](https://zh.wikipedia.org/wiki/小行星 "wikilink")，如A/2005 JM<sub>3</sub>
   - A，[行星轨道中的](https://zh.wikipedia.org/wiki/行星轨道 "wikilink")[半长轴](https://zh.wikipedia.org/wiki/半长轴 "wikilink")
 
 ### 化学
@@ -89,39 +84,26 @@
 
   - [A音](https://zh.wikipedia.org/wiki/A音 "wikilink")，[音阶](../Page/音阶.md "wikilink")中的第六音
   - [A大调](https://zh.wikipedia.org/wiki/A大调 "wikilink")，[A小调](https://zh.wikipedia.org/wiki/A小调 "wikilink")
-  - [A (Jethro
-    Tull专辑)](https://zh.wikipedia.org/wiki/A_\(Jethro_Tull专辑\) "wikilink")，[前卫摇滚乐队](https://zh.wikipedia.org/wiki/前卫摇滚 "wikilink")[Jethro
-    Tull一部](https://zh.wikipedia.org/wiki/Jethro_Tull "wikilink")1980年代的专辑
-  - [A (Cass
-    McCombs专辑](https://zh.wikipedia.org/wiki/A_\(Cass_McCombs专辑 "wikilink")，[Cass
-    McCombs于](https://zh.wikipedia.org/wiki/Cass_McCombs "wikilink")2003年发行的一部专辑
+  - [A (Jethro Tull专辑)](https://zh.wikipedia.org/wiki/A_\(Jethro_Tull专辑\) "wikilink")，[前卫摇滚乐队](https://zh.wikipedia.org/wiki/前卫摇滚 "wikilink")[Jethro Tull一部](https://zh.wikipedia.org/wiki/Jethro_Tull "wikilink")1980年代的专辑
+  - [A (Cass McCombs专辑](https://zh.wikipedia.org/wiki/A_\(Cass_McCombs专辑 "wikilink")，[Cass McCombs于](https://zh.wikipedia.org/wiki/Cass_McCombs "wikilink")2003年发行的一部专辑
   - [A (乐队)](https://zh.wikipedia.org/wiki/A_\(乐队\) "wikilink")
-  - [A
-    (濱崎步單曲)](../Page/A_\(濱崎步單曲\).md "wikilink")，[滨崎步的第](https://zh.wikipedia.org/wiki/滨崎步 "wikilink")10首单曲
-  - [A (TV
-    system)](https://zh.wikipedia.org/wiki/A_\(TV_system\) "wikilink")，一个[加拿大](../Page/加拿大.md "wikilink")[电视频道](https://zh.wikipedia.org/wiki/电视频道 "wikilink")
+  - [A (濱崎步單曲)](../Page/A_\(濱崎步單曲\).md "wikilink")，[滨崎步的第](https://zh.wikipedia.org/wiki/滨崎步 "wikilink")10首单曲
+  - [A (TV system)](https://zh.wikipedia.org/wiki/A_\(TV_system\) "wikilink")，一个[加拿大](../Page/加拿大.md "wikilink")[电视频道](https://zh.wikipedia.org/wiki/电视频道 "wikilink")
   - "A"，[Cartel乐队单曲](https://zh.wikipedia.org/wiki/Cartel "wikilink")
-  - "A"，[Barenaked
-    Ladies乐队单曲](https://zh.wikipedia.org/wiki/Barenaked_Ladies "wikilink")
+  - "A"，[Barenaked Ladies乐队单曲](https://zh.wikipedia.org/wiki/Barenaked_Ladies "wikilink")
   - A或Side A，指[黑胶唱片的正面](https://zh.wikipedia.org/wiki/黑胶唱片 "wikilink")
   - [A](../Page/A_\(BIGBANG單曲\).md "wikilink")，[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BIGBANG單曲](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
 
 ### 文学
 
-  - "A"，20世纪[诗人](https://zh.wikipedia.org/wiki/诗人 "wikilink")[Louis
-    Zukofsky的一首诗](https://zh.wikipedia.org/wiki/Louis_Zukofsky "wikilink")
-  - [a, A
-    Novel](https://zh.wikipedia.org/wiki/a,_A_Novel "wikilink")，20世纪的一部[小说](../Page/小说.md "wikilink")，作者是[Andy
-    Warhol](https://zh.wikipedia.org/wiki/Andy_Warhol "wikilink")
+  - "A"，20世纪[诗人](https://zh.wikipedia.org/wiki/诗人 "wikilink")[Louis Zukofsky的一首诗](https://zh.wikipedia.org/wiki/Louis_Zukofsky "wikilink")
+  - [a, A Novel](https://zh.wikipedia.org/wiki/a,_A_Novel "wikilink")，20世纪的一部[小说](../Page/小说.md "wikilink")，作者是[Andy Warhol](https://zh.wikipedia.org/wiki/Andy_Warhol "wikilink")
 
 ### 电影
 
-  - [A
-    (Kannada电影)](https://zh.wikipedia.org/wiki/A_\(Kannada电影\) "wikilink")，由[Upendra](https://zh.wikipedia.org/wiki/Upendra "wikilink")[执导](https://zh.wikipedia.org/wiki/导演 "wikilink")
-  - [A
-    (电影)](https://zh.wikipedia.org/wiki/A_\(电影\) "wikilink")，一部1965年的电影
-  - A，印度[Central Board of Film
-    Certification的一个评级](https://zh.wikipedia.org/wiki/Central_Board_of_Film_Certification "wikilink")
+  - [A (Kannada电影)](https://zh.wikipedia.org/wiki/A_\(Kannada电影\) "wikilink")，由[Upendra](https://zh.wikipedia.org/wiki/Upendra "wikilink")[执导](https://zh.wikipedia.org/wiki/导演 "wikilink")
+  - [A (电影)](https://zh.wikipedia.org/wiki/A_\(电影\) "wikilink")，一部1965年的电影
+  - A，印度[Central Board of Film Certification的一个评级](https://zh.wikipedia.org/wiki/Central_Board_of_Film_Certification "wikilink")
   - [A证书](https://zh.wikipedia.org/wiki/A证书 "wikilink")，一个[加拿大](../Page/加拿大.md "wikilink")电影评级
   - 作为[阿凡达](../Page/阿凡达.md "wikilink")（Avatar）的简称
 
@@ -141,11 +123,9 @@
   - "The A's"，[奧克蘭運動家](../Page/奧克蘭運動家.md "wikilink")的昵称
   - A，[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")中[安捷伦科技有限公司的代码](https://zh.wikipedia.org/wiki/安捷伦科技有限公司 "wikilink")
   - [Anarchy-symbol.svg](https://zh.wikipedia.org/wiki/File:Anarchy-symbol.svg "fig:Anarchy-symbol.svg")，[无政府主义](../Page/无政府主义.md "wikilink")的符号
-  - A，[Alton
-    Railroad](https://zh.wikipedia.org/wiki/Alton_Railroad "wikilink")
+  - A，[Alton Railroad](https://zh.wikipedia.org/wiki/Alton_Railroad "wikilink")
   - [紐約地鐵A線](../Page/紐約地鐵A線.md "wikilink")
-  - [A
-    (S-train)](https://zh.wikipedia.org/wiki/A_\(S-train\) "wikilink")，一条[哥本哈根地铁线路](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")
+  - [A (S-train)](https://zh.wikipedia.org/wiki/A_\(S-train\) "wikilink")，一条[哥本哈根地铁线路](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")
   - A，[扑克牌](../Page/扑克牌.md "wikilink")中的一张牌
   - A系列，[ISO 216定义的一系列纸张大小](../Page/ISO_216.md "wikilink")
   - [A股](https://zh.wikipedia.org/wiki/A股 "wikilink")

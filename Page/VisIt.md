@@ -18,23 +18,12 @@
 
 <div class="references-small">
 
-  - [VisIt user community web site with wiki, forum,
-    etc.](http://visitusers.org)
+  - [VisIt user community web site with wiki, forum, etc.](http://visitusers.org)
 
-  - [Examples of visualizations on the official
-    homepage.](https://archive.is/20121213074246/http://visit.llnl.gov/gallery.html)
+  - [Examples of visualizations on the official homepage.](https://archive.is/20121213074246/http://visit.llnl.gov/gallery.html)
 
 </div>
 
-[Category:可视化](https://zh.wikipedia.org/wiki/Category:可视化 "wikilink")
-[Category:自由數據可視化軟件](https://zh.wikipedia.org/wiki/Category:自由數據可視化軟件 "wikilink")
-[Category:自由模擬軟件](https://zh.wikipedia.org/wiki/Category:自由模擬軟件 "wikilink")
-[Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink")
-[Category:自由圖表軟件](https://zh.wikipedia.org/wiki/Category:自由圖表軟件 "wikilink")
-[Category:圖表軟件](https://zh.wikipedia.org/wiki/Category:圖表軟件 "wikilink")
-[Category:计算机图形学](https://zh.wikipedia.org/wiki/Category:计算机图形学 "wikilink")
-[Category:Python软件](https://zh.wikipedia.org/wiki/Category:Python软件 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink")
+[Category:可视化](https://zh.wikipedia.org/wiki/Category:可视化 "wikilink") [Category:自由數據可視化軟件](https://zh.wikipedia.org/wiki/Category:自由數據可視化軟件 "wikilink") [Category:自由模擬軟件](https://zh.wikipedia.org/wiki/Category:自由模擬軟件 "wikilink") [Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink") [Category:自由圖表軟件](https://zh.wikipedia.org/wiki/Category:自由圖表軟件 "wikilink") [Category:圖表軟件](https://zh.wikipedia.org/wiki/Category:圖表軟件 "wikilink") [Category:计算机图形学](https://zh.wikipedia.org/wiki/Category:计算机图形学 "wikilink") [Category:Python软件](https://zh.wikipedia.org/wiki/Category:Python软件 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink")
 
 1.  <https://wci.llnl.gov/codes/visit/home.html> Official homepage

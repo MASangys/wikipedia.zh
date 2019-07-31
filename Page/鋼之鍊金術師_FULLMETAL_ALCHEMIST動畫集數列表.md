@@ -1,6 +1,4 @@
-以下是[日本](../Page/日本.md "wikilink")[动漫系列](https://zh.wikipedia.org/wiki/动漫 "wikilink")《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》第2作動畫
-──《[鋼之鍊金術師 FULLMETAL
-ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》的各話简介，共播出5、全64話。
+以下是[日本](../Page/日本.md "wikilink")[动漫系列](https://zh.wikipedia.org/wiki/动漫 "wikilink")《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》第2作動畫 ──《[鋼之鍊金術師 FULLMETAL ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》的各話简介，共播出5、全64話。
 
 ## 各話簡介
 
@@ -833,10 +831,7 @@ Yakusoku</p></th>
 
 ## 外部連結
 
-  - [鋼之鍊金術師-{}- FULLMETAL ALCHEMIST 官方網站
-    各話介紹](https://web.archive.org/web/20090213211238/http://www.sonymusic.co.jp/Animation/hagaren/about/story.html)
-  - [鋼之鍊金術師-{}- BROTHERHOOD 官方網站
-    各話介紹（普威爾）](https://web.archive.org/web/20101121041620/http://www.prowaremedia.com.tw/BH/BH_story.htm)
+  - [鋼之鍊金術師-{}- FULLMETAL ALCHEMIST 官方網站 各話介紹](https://web.archive.org/web/20090213211238/http://www.sonymusic.co.jp/Animation/hagaren/about/story.html)
+  - [鋼之鍊金術師-{}- BROTHERHOOD 官方網站 各話介紹（普威爾）](https://web.archive.org/web/20101121041620/http://www.prowaremedia.com.tw/BH/BH_story.htm)
 
-[Category:鋼之鍊金術師](https://zh.wikipedia.org/wiki/Category:鋼之鍊金術師 "wikilink")
-[Category:日本動畫集數列表](https://zh.wikipedia.org/wiki/Category:日本動畫集數列表 "wikilink")
+[Category:鋼之鍊金術師](https://zh.wikipedia.org/wiki/Category:鋼之鍊金術師 "wikilink") [Category:日本動畫集數列表](https://zh.wikipedia.org/wiki/Category:日本動畫集數列表 "wikilink")

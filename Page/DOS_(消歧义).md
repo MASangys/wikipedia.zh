@@ -1,36 +1,29 @@
-**[DOS](../Page/DOS.md "wikilink")**條目描述的是由[微軟開發的用於](https://zh.wikipedia.org/wiki/微軟 "wikilink")[IBM
-PC及相容電腦上的磁碟](../Page/IBM_PC.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
+**[DOS](../Page/DOS.md "wikilink")**條目描述的是由[微軟開發的用於](https://zh.wikipedia.org/wiki/微軟 "wikilink")[IBM PC及相容電腦上的磁碟](../Page/IBM_PC.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 **DOS**或**DoS**还可能指以下含义：
 
 ## 電腦網路類
 
-  - [阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")（Denial of
-    Service，DoS），一种常用來使[服务器](../Page/服务器.md "wikilink")瘫痪的網路攻擊手段。
+  - [阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")（Denial of Service，DoS），一种常用來使[服务器](../Page/服务器.md "wikilink")瘫痪的網路攻擊手段。
 
 ## 電腦系統類
 
-**DOS**是[磁碟](https://zh.wikipedia.org/wiki/磁碟機 "wikilink")[作業系統](../Page/操作系统.md "wikilink")（Disk
-Operating System）的縮寫。
+**DOS**是[磁碟](https://zh.wikipedia.org/wiki/磁碟機 "wikilink")[作業系統](../Page/操作系统.md "wikilink")（Disk Operating System）的縮寫。
 
   - 1966年[IBM](../Page/IBM.md "wikilink")[大型主機電腦上的磁碟作業系統](../Page/大型计算机.md "wikilink")，後來稱為。
 
 <!-- end list -->
 
-  - 基於[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-    [8086家族](../Page/X86.md "wikilink")[微處理器的一類磁碟作業系統](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。他們的正式名稱除了DOS之外還有其他字母。
+  - 基於[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [8086家族](../Page/X86.md "wikilink")[微處理器的一類磁碟作業系統](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。他們的正式名稱除了DOS之外還有其他字母。
       - [M-DOS](https://zh.wikipedia.org/wiki/M-DOS "wikilink")（始於1979年，也稱為MIDAS）
 
-      - [86-DOS](https://zh.wikipedia.org/wiki/86-DOS "wikilink")（也稱為QDOS,
-        始於1980年）
+      - [86-DOS](https://zh.wikipedia.org/wiki/86-DOS "wikilink")（也稱為QDOS, 始於1980年）
 
       - [MS-DOS](../Page/MS-DOS.md "wikilink")（始於1981年）
 
-      - [IBM](../Page/IBM.md "wikilink") 的 [PC
-        DOS](https://zh.wikipedia.org/wiki/PC_DOS "wikilink")（始於1981年）
+      - [IBM](../Page/IBM.md "wikilink") 的 [PC DOS](https://zh.wikipedia.org/wiki/PC_DOS "wikilink")（始於1981年）
 
-      - [DOS
-        Plus](https://zh.wikipedia.org/wiki/DOS_Plus "wikilink")（始於1985年）
+      - [DOS Plus](https://zh.wikipedia.org/wiki/DOS_Plus "wikilink")（始於1985年）
 
       - [DR-DOS](../Page/DR-DOS.md "wikilink")（始於1988年）
 
@@ -51,19 +44,13 @@ Operating System）的縮寫。
 
       - [ANDOS](https://zh.wikipedia.org/wiki/ANDOS "wikilink")
 
-      - [Apple
-        DOS](https://zh.wikipedia.org/wiki/Apple_DOS "wikilink")，用於蘋果的[Apple
-        II等型電腦](../Page/Apple_II.md "wikilink")
+      - [Apple DOS](https://zh.wikipedia.org/wiki/Apple_DOS "wikilink")，用於蘋果的[Apple II等型電腦](../Page/Apple_II.md "wikilink")
 
-      - [Apple
-        ProDOS](https://zh.wikipedia.org/wiki/Apple_ProDOS "wikilink")
+      - [Apple ProDOS](https://zh.wikipedia.org/wiki/Apple_ProDOS "wikilink")
 
       - [Atari DOS](https://zh.wikipedia.org/wiki/Atari_DOS "wikilink")
 
-      - [Commodore
-        DOS](https://zh.wikipedia.org/wiki/Commodore_DOS "wikilink")，又稱CBM
-        DOS，用於Commodore的8位元電腦，如[Commodore
-        64](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")
+      - [Commodore DOS](https://zh.wikipedia.org/wiki/Commodore_DOS "wikilink")，又稱CBM DOS，用於Commodore的8位元電腦，如[Commodore 64](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")
 
       - [CSI-DOS](https://zh.wikipedia.org/wiki/CSI-DOS "wikilink")
 
@@ -73,8 +60,7 @@ Operating System）的縮寫。
 
       - [MSX-DOS](https://zh.wikipedia.org/wiki/MSX-DOS "wikilink")
 
-      -   - Real-time Disk Operating System，1972年推出，用於Data
-            General的Nova與[Eclipse](../Page/Eclipse.md "wikilink")上的作業系統
+      -   - Real-time Disk Operating System，1972年推出，用於Data General的Nova與[Eclipse](../Page/Eclipse.md "wikilink")上的作業系統
           - Leif Ekblad，為i386嵌入式平台所作的開放原始碼作業系統
 
       - [TRS-DOS](https://zh.wikipedia.org/wiki/TRS-DOS "wikilink")
@@ -86,8 +72,7 @@ Operating System）的縮寫。
 
 ## 組織類
 
-  - [美国国务院](../Page/美国国务院.md "wikilink")（United States Department of
-    State），美國政府的一個部級組織，負責外交事務。
+  - [美国国务院](../Page/美国国务院.md "wikilink")（United States Department of State），美國政府的一個部級組織，負責外交事務。
 
   -
 ## 科學類

@@ -1,24 +1,14 @@
-**Adobe Fireworks**，缩写**Fw**，是一个[位图](../Page/位图.md "wikilink")和
-[矢量编辑软件](https://zh.wikipedia.org/wiki/矢量编辑软件 "wikilink")。它原来由[Macromedia](../Page/Macromedia.md "wikilink")开发，后在2005年被[Adobe](../Page/Adobe.md "wikilink")收购。Fireworks专门针对[网页设计者而开发](https://zh.wikipedia.org/wiki/网页设计者 "wikilink")，包含了一系列制作网页相关的功能（切片，添加热点等）。它可以与其他原Macromedia产品共同协作，例如流行的[Adobe
-Dreamweaver和](../Page/Adobe_Dreamweaver.md "wikilink")[Adobe
-Animate](../Page/Adobe_Animate.md "wikilink")。它可以被单独购买或捆绑在[Adobe
-Creative Suite中](../Page/Adobe_Creative_Suite.md "wikilink")。Fireworks
-8还捆绑在Macromedia Studio 8中
+**Adobe Fireworks**，缩写**Fw**，是一个[位图](../Page/位图.md "wikilink")和 [矢量编辑软件](https://zh.wikipedia.org/wiki/矢量编辑软件 "wikilink")。它原来由[Macromedia](../Page/Macromedia.md "wikilink")开发，后在2005年被[Adobe](../Page/Adobe.md "wikilink")收购。Fireworks专门针对[网页设计者而开发](https://zh.wikipedia.org/wiki/网页设计者 "wikilink")，包含了一系列制作网页相关的功能（切片，添加热点等）。它可以与其他原Macromedia产品共同协作，例如流行的[Adobe Dreamweaver和](../Page/Adobe_Dreamweaver.md "wikilink")[Adobe Animate](../Page/Adobe_Animate.md "wikilink")。它可以被单独购买或捆绑在[Adobe Creative Suite中](../Page/Adobe_Creative_Suite.md "wikilink")。Fireworks 8还捆绑在Macromedia Studio 8中
 
 ## 矢量、位图编辑
 
-Fireworks把编辑的重点放在[矢量图形](../Page/矢量图形.md "wikilink")上，类似于[Adobe
-Illustrator](../Page/Adobe_Illustrator.md "wikilink")，这种软件一般与擅长位图编辑的[Photoshop配合](https://zh.wikipedia.org/wiki/Photoshop "wikilink")，从而形成一个理想的完整工作流程。在Fireworks中，矢量图形可以被缩放而不损失质量，同样也类似于Adobe
-Illustrator。在Fireworks 8中，一些[Adobe
-FreeHand的矢量图形工具被集成到软件中](../Page/Adobe_FreeHand.md "wikilink")。Fireworks的位图对象在缩放时受到的质量损失和[Adobe
-ImageReady或](https://zh.wikipedia.org/wiki/Adobe_ImageReady "wikilink")[Photoshop的差不多](https://zh.wikipedia.org/wiki/Photoshop "wikilink")。
+Fireworks把编辑的重点放在[矢量图形](../Page/矢量图形.md "wikilink")上，类似于[Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")，这种软件一般与擅长位图编辑的[Photoshop配合](https://zh.wikipedia.org/wiki/Photoshop "wikilink")，从而形成一个理想的完整工作流程。在Fireworks中，矢量图形可以被缩放而不损失质量，同样也类似于Adobe Illustrator。在Fireworks 8中，一些[Adobe FreeHand的矢量图形工具被集成到软件中](../Page/Adobe_FreeHand.md "wikilink")。Fireworks的位图对象在缩放时受到的质量损失和[Adobe ImageReady或](https://zh.wikipedia.org/wiki/Adobe_ImageReady "wikilink")[Photoshop的差不多](https://zh.wikipedia.org/wiki/Photoshop "wikilink")。
 
 ## 菜单，工具栏和工具
 
 ### 可停靠式的菜单
 
-就像所有的Macromedia
-2004年的产品一样，菜单甚至于一些扩展可以在Fireworks环境中随意的移动和停靠（Dock）。菜单可以被收起或展开使用户获得无障碍的环境以及更多的方便。
+就像所有的Macromedia 2004年的产品一样，菜单甚至于一些扩展可以在Fireworks环境中随意的移动和停靠（Dock）。菜单可以被收起或展开使用户获得无障碍的环境以及更多的方便。
 
 ### 工具栏
 
@@ -59,14 +49,8 @@ Fireworks的工具栏有34个按钮。用户可以在一些按钮上打开一个
 
 ## 停止开发
 
-2013年5月6日，Adobe表示不会将Fireworks列入Adobe Creative
-Cloud套装中，原因是Fireworks功能与Photoshop、Illustrator存在过多的重叠。这意味着Fireworks将停止功能更新，但Adobe同时表示Fireworks
-CS6今后仍然能够使用，并可以购买到，只是今后将只為Fireworks提供必要的安全更新和BUG修复。
+2013年5月6日，Adobe表示不会将Fireworks列入Adobe Creative Cloud套装中，原因是Fireworks功能与Photoshop、Illustrator存在过多的重叠。这意味着Fireworks将停止功能更新，但Adobe同时表示Fireworks CS6今后仍然能够使用，并可以购买到，只是今后将只為Fireworks提供必要的安全更新和BUG修复。
 
 ## 參考文獻
 
-[Category:1998年軟體](https://zh.wikipedia.org/wiki/Category:1998年軟體 "wikilink")
-[Category:C++軟體](https://zh.wikipedia.org/wiki/Category:C++軟體 "wikilink")
-[Category:位圖編輯軟體](https://zh.wikipedia.org/wiki/Category:位圖編輯軟體 "wikilink")
-[Category:向量圖形編輯器](https://zh.wikipedia.org/wiki/Category:向量圖形編輯器 "wikilink")
-[Category:已停止開發的Adobe軟體](https://zh.wikipedia.org/wiki/Category:已停止開發的Adobe軟體 "wikilink")
+[Category:1998年軟體](https://zh.wikipedia.org/wiki/Category:1998年軟體 "wikilink") [Category:C++軟體](https://zh.wikipedia.org/wiki/Category:C++軟體 "wikilink") [Category:位圖編輯軟體](https://zh.wikipedia.org/wiki/Category:位圖編輯軟體 "wikilink") [Category:向量圖形編輯器](https://zh.wikipedia.org/wiki/Category:向量圖形編輯器 "wikilink") [Category:已停止開發的Adobe軟體](https://zh.wikipedia.org/wiki/Category:已停止開發的Adobe軟體 "wikilink")

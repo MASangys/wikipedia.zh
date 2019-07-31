@@ -1,5 +1,4 @@
-**MuseScore**（中文有时译作：**繆斯樂譜**或**謬斯樂譜**）是一個用於[Linux](../Page/Linux.md "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[macOS的乐谱编辑软件](https://zh.wikipedia.org/wiki/macOS "wikilink")。MuseScore是一個所見即所得的編輯器，完全支持樂譜播放和导入或导出[MusicXML](../Page/MusicXML.md "wikilink")和标准的[MIDI](../Page/MIDI.md "wikilink")文件。打擊樂符號支持，是直接從程序印出。Linux
-版本用[Kubuntu](../Page/Kubuntu.md "wikilink")為發展平台。
+**MuseScore**（中文有时译作：**繆斯樂譜**或**謬斯樂譜**）是一個用於[Linux](../Page/Linux.md "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[macOS的乐谱编辑软件](https://zh.wikipedia.org/wiki/macOS "wikilink")。MuseScore是一個所見即所得的編輯器，完全支持樂譜播放和导入或导出[MusicXML](../Page/MusicXML.md "wikilink")和标准的[MIDI](../Page/MIDI.md "wikilink")文件。打擊樂符號支持，是直接從程序印出。Linux 版本用[Kubuntu](../Page/Kubuntu.md "wikilink")為發展平台。
 
 該程序有一個乾淨的用戶界面，快速專注於編輯輸入類似step-time note entry。
 
@@ -18,8 +17,7 @@
 
 ## 歷史
 
-[MuseScore_1.2_running_on_Ubuntu.png](https://zh.wikipedia.org/wiki/File:MuseScore_1.2_running_on_Ubuntu.png "fig:MuseScore_1.2_running_on_Ubuntu.png")
-系統執行\]\] 目前沒有 Musescore 釋出的時程表，不過當軟體開發者認為可以釋出新版本時，新版本就會推出。
+[MuseScore_1.2_running_on_Ubuntu.png](https://zh.wikipedia.org/wiki/File:MuseScore_1.2_running_on_Ubuntu.png "fig:MuseScore_1.2_running_on_Ubuntu.png") 系統執行\]\] 目前沒有 Musescore 釋出的時程表，不過當軟體開發者認為可以釋出新版本時，新版本就會推出。
 
   - 2009年8月：0.9.5 （第一個穩定）版本釋出，亦是第一個推出為Mac OS 使用者設計的版本
   - 2010年6月：0.9.6 版本釋出。\[2\]
@@ -208,26 +206,15 @@
 ## 外部連結
 
   - [MuseScore官網](http://musescore.org/zh-hant)
-  - [MuseScore
-    mailinglist](https://web.archive.org/web/20081012144417/http://www.nabble.com/MuseScore-Developer-f30380.html)
+  - [MuseScore mailinglist](https://web.archive.org/web/20081012144417/http://www.nabble.com/MuseScore-Developer-f30380.html)
   - [MuseScore articles](http://delicious.com/musescore)
-  - [Music Dave Phillips, Notation Software for Linux,
-    April 22nd, 2009](http://www.linuxjournal.com/content/music-notation-software-linux-progress-report-part-2)
-  - [MusTech.net review,
-    October 7th, 2008](https://mustech.net/2008/10/musescore-a-free-open-souce-music)
-  - [David Bolton first impressions on
-    MuseScore](http://davidbolton.info/articles/musescore_review.html)
-  - [About.com review,
-    March 24th, 2008](http://linux.about.com/b/2008/03/24/write-beautiful-music-scores-with-musescore.htm)
-  - [Dave Phillips: Music Notation Programs: Recent Releases,
-    Feb 25th, 2008](http://www.linuxjournal.com/content/music-notation-programs-recent-releases)
+  - [Music Dave Phillips, Notation Software for Linux, April 22nd, 2009](http://www.linuxjournal.com/content/music-notation-software-linux-progress-report-part-2)
+  - [MusTech.net review, October 7th, 2008](https://mustech.net/2008/10/musescore-a-free-open-souce-music)
+  - [David Bolton first impressions on MuseScore](http://davidbolton.info/articles/musescore_review.html)
+  - [About.com review, March 24th, 2008](http://linux.about.com/b/2008/03/24/write-beautiful-music-scores-with-musescore.htm)
+  - [Dave Phillips: Music Notation Programs: Recent Releases, Feb 25th, 2008](http://www.linuxjournal.com/content/music-notation-programs-recent-releases)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:樂譜製作軟件](https://zh.wikipedia.org/wiki/Category:樂譜製作軟件 "wikilink")
-[Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
-[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:樂譜製作軟件](https://zh.wikipedia.org/wiki/Category:樂譜製作軟件 "wikilink") [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.  [Musescore Connect 簡介](http://musescore.org/en/node/11523)
 2.

@@ -2,12 +2,11 @@
 
 ## 概要
 
-这款动车组由[庞巴迪运输及](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")[长春轨道客车共同生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，厂方型号MOVIA
-456，屬MOVIA車系之一。深圳地铁公司於2001年11月签约订购，供第一期工程使用。列车为数22组，每组列车由6节车厢组成，合共132节车厢。首组列车由[德国庞巴迪车厂制造](../Page/德国.md "wikilink")，于2004年4月23日以[裝船運送方式运抵](https://zh.wikipedia.org/wiki/鐵路渡輪 "wikilink")[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")；其余21列均由长春制造，並以[甲種運送方式送達](https://zh.wikipedia.org/wiki/車輛運送#甲種運送/無火回送 "wikilink")。
+这款动车组由[庞巴迪运输及](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")[长春轨道客车共同生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，厂方型号MOVIA 456，屬MOVIA車系之一。深圳地铁公司於2001年11月签约订购，供第一期工程使用。列车为数22组，每组列车由6节车厢组成，合共132节车厢。首组列车由[德国](../Page/德国.md "wikilink")庞巴迪车厂制造，于2004年4月23日以[裝船運送方式运抵](https://zh.wikipedia.org/wiki/鐵路渡輪 "wikilink")[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")；其余21列均由长春制造，並以[甲種運送方式送達](https://zh.wikipedia.org/wiki/車輛運送#甲種運送/無火回送 "wikilink")。
 
-全数列车均使用庞巴迪制交流牵引[电动机及](../Page/电动机.md "wikilink")[IGBT牵引变流器](https://zh.wikipedia.org/wiki/IGBT "wikilink")，[受电弓设于第](https://zh.wikipedia.org/wiki/受电弓 "wikilink")2及第5节。除两端设驾驶室厢不带动力外，其余4节车厢均自带动力。
+全数列车均使用庞巴迪制交流牵引[电动机](../Page/电动机.md "wikilink")及[IGBT牵引变流器](https://zh.wikipedia.org/wiki/IGBT "wikilink")，[受电弓设于第](https://zh.wikipedia.org/wiki/受电弓 "wikilink")2及第5节。除两端设驾驶室厢不带动力外，其余4节车厢均自带动力。
 
-与供[广州地铁及](../Page/广州地铁.md "wikilink")[上海轨道交通的同型车比较](https://zh.wikipedia.org/wiki/上海轨道交通 "wikilink")，这款列车使用了Faiveley[塞拉门设计](https://zh.wikipedia.org/wiki/内崁式门 "wikilink")，可减低车厢内噪音。
+与供[广州地铁](../Page/广州地铁.md "wikilink")及[上海轨道交通的同型车比较](https://zh.wikipedia.org/wiki/上海轨道交通 "wikilink")，这款列车使用了Faiveley[塞拉门设计](https://zh.wikipedia.org/wiki/内崁式门 "wikilink")，可减低车厢内噪音。
 
 此列車曾經於[4号綫行走](https://zh.wikipedia.org/wiki/深圳地鐵4号綫 "wikilink")，由于[港铁轨道交通（深圳）有限公司](https://zh.wikipedia.org/wiki/港铁轨道交通（深圳）有限公司 "wikilink")（简称**港鐵（深圳）**）在2010年7月1日接管4号线的运营权，因此在2010年7月1日至2011年6月10日間，此列車以租借形式暫交予港鐵（深圳）使用，但自4号线第二期（蓮花北至清湖站）开通後，此車便調往[1号綫繼續行走](https://zh.wikipedia.org/wiki/深圳地鐵1号綫 "wikilink")。
 
@@ -102,9 +101,7 @@
 
 ## 圖片
 
-<File:Szmtr> TrainInterior.jpg|車廂內部 <File:Shenzhen> Metro Line 1 Train
-20130328.jpg|车厢相接处 <File:Airport> East Station
-Shenzhen.jpg|停泊於[機場東站的Movia](https://zh.wikipedia.org/wiki/機場東站 "wikilink")456型列車
+<File:Szmtr> TrainInterior.jpg|車廂內部 <File:Shenzhen> Metro Line 1 Train 20130328.jpg|车厢相接处 <File:Airport> East Station Shenzhen.jpg|停泊於[機場東站的Movia](https://zh.wikipedia.org/wiki/機場東站 "wikilink")456型列車
 
 ## 参见
 
@@ -114,8 +111,6 @@ Shenzhen.jpg|停泊於[機場東站的Movia](https://zh.wikipedia.org/wiki/機�
 
 ## 参考资料
 
-[Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink")
-[Category:龐巴迪製鐵路車輛](https://zh.wikipedia.org/wiki/Category:龐巴迪製鐵路車輛 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
+[Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink") [Category:龐巴迪製鐵路車輛](https://zh.wikipedia.org/wiki/Category:龐巴迪製鐵路車輛 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
 
 1.

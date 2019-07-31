@@ -1,6 +1,6 @@
-**世貿科特蘭車站**（），又稱**科特蘭街-世界貿易中心車站**，在牆壁上以「世界貿易中心」顯示，過去分別稱為「科特蘭街」及「科特蘭街-世界貿易中心」，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線在](../Page/IRT百老匯-第七大道線.md "wikilink")[曼哈頓下城的一個](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")。此站位於[格林尼治街與](../Page/格林尼治街.md "wikilink")的交界，鄰近[世界貿易中心](https://zh.wikipedia.org/wiki/世界貿易中心 "wikilink")，任何時候都設有[1號線列車服務](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")。
+**世貿科特蘭車站**（），又稱**科特蘭街-世界貿易中心車站**，在牆壁上以「世界貿易中心」顯示，過去分別稱為「科特蘭街」及「科特蘭街-世界貿易中心」，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線](../Page/IRT百老匯-第七大道線.md "wikilink")在[曼哈頓下城的一個](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")。此站位於[格林尼治街](../Page/格林尼治街.md "wikilink")與的交界，鄰近[世界貿易中心](https://zh.wikipedia.org/wiki/世界貿易中心 "wikilink")，任何時候都設有[1號線列車服務](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")。
 
-原初的科特蘭街車站由[跨區捷運公司](../Page/跨區捷運公司.md "wikilink")（IRT）興建，並在1918年啟用。車站在1960年代原初的[世界貿易中心興建時進行翻新](https://zh.wikipedia.org/wiki/世界貿易中心 "wikilink")。當時車站位於科特蘭街地面的一部分需要拆除以便興建世界貿易中心。科特蘭街車站在[九一一襲擊事件中嚴重損壞](https://zh.wikipedia.org/wiki/九一一襲擊事件 "wikilink")。雖然百老匯-第七大道線在2002年就恢復運行，但車站的重建一直拖延至2015年，[紐約與新澤西港口事務管理局需要首先興建此站正下方的](../Page/紐約與新澤西港口事務管理局.md "wikilink")[PATH車站才可施工](../Page/世界貿易中心車站_\(PATH\).md "wikilink")。經過1.58億美元重建，科特蘭街車站在2018年9月8日以「世貿科特蘭」的名義重新啟用。
+原初的科特蘭街車站由[跨區捷運公司](../Page/跨區捷運公司.md "wikilink")（IRT）興建，並在1918年啟用。車站在1960年代原初的[世界貿易中心興建時進行翻新](https://zh.wikipedia.org/wiki/世界貿易中心 "wikilink")。當時車站位於科特蘭街地面的一部分需要拆除以便興建世界貿易中心。科特蘭街車站在[九一一襲擊事件中嚴重損壞](https://zh.wikipedia.org/wiki/九一一襲擊事件 "wikilink")。雖然百老匯-第七大道線在2002年就恢復運行，但車站的重建一直拖延至2015年，[紐約與新澤西港口事務管理局](../Page/紐約與新澤西港口事務管理局.md "wikilink")需要首先興建此站正下方的[PATH車站才可施工](../Page/世界貿易中心車站_\(PATH\).md "wikilink")。經過1.58億美元重建，科特蘭街車站在2018年9月8日以「世貿科特蘭」的名義重新啟用。
 
 車站與PATH的[世界貿易中心車站連接](../Page/世界貿易中心車站_\(PATH\).md "wikilink")，同時亦可進行出站以行人通道前往[福爾頓轉運中心](../Page/福爾頓轉運中心.md "wikilink")。
 
@@ -154,18 +154,13 @@
 </tbody>
 </table>
 
-車站原初位於科特蘭街及格林尼治街地下，設有兩個[側式月台和兩條軌道](../Page/側式月台.md "wikilink")。重建的車站位於[九一一國家紀念博物館和格林尼治街地下](../Page/九一一國家紀念博物館.md "wikilink")，與原位置相同\[5\]\[6\]。它維持了兩條軌道、兩個側式月台的配置，位於地面以下20英呎\[7\]\[8\]\[9\]。車站牆壁裝設「世界貿易中心」（）站名牌\[10\]。兩個月台北端設有下通道\[11\]。此站也設有空調系統\[12\]。
+車站原初位於科特蘭街及格林尼治街地下，設有兩個[側式月台](../Page/側式月台.md "wikilink")和兩條軌道。重建的車站位於[九一一國家紀念博物館](../Page/九一一國家紀念博物館.md "wikilink")和格林尼治街地下，與原位置相同\[5\]\[6\]。它維持了兩條軌道、兩個側式月台的配置，位於地面以下20英呎\[7\]\[8\]\[9\]。車站牆壁裝設「世界貿易中心」（）站名牌\[10\]。兩個月台北端設有下通道\[11\]。此站也設有空調系統\[12\]。
 
-2018年在此站以100萬美元裝設名為*CHORUS*的藝術品\[13\]。這個藝術品包括若干文件內的著名語錄，包括[世界人權宣言及](https://zh.wikipedia.org/wiki/世界人權宣言 "wikilink")[美國獨立宣言的名言](../Page/美國獨立宣言.md "wikilink")，雕刻在車站牆壁上\[14\]\[15\]\[16\]。
+2018年在此站以100萬美元裝設名為*CHORUS*的藝術品\[13\]。這個藝術品包括若干文件內的著名語錄，包括[世界人權宣言及](https://zh.wikipedia.org/wiki/世界人權宣言 "wikilink")[美國獨立宣言](../Page/美國獨立宣言.md "wikilink")的名言，雕刻在車站牆壁上\[14\]\[15\]\[16\]。
 
 ## 参考文献
 
-[Category:1918年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1918年啟用的鐵路車站 "wikilink")
-[Category:2001年关闭的铁路车站](https://zh.wikipedia.org/wiki/Category:2001年关闭的铁路车站 "wikilink")
-[Category:九一一恐怖襲擊事件](https://zh.wikipedia.org/wiki/Category:九一一恐怖襲擊事件 "wikilink")
-[Category:1918年紐約州建立](https://zh.wikipedia.org/wiki/Category:1918年紐約州建立 "wikilink")
-[Category:2001年紐約州廢除](https://zh.wikipedia.org/wiki/Category:2001年紐約州廢除 "wikilink")
-[Category:2018年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2018年啟用的鐵路車站 "wikilink")
+[Category:1918年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1918年啟用的鐵路車站 "wikilink") [Category:2001年关闭的铁路车站](https://zh.wikipedia.org/wiki/Category:2001年关闭的铁路车站 "wikilink") [Category:九一一恐怖襲擊事件](https://zh.wikipedia.org/wiki/Category:九一一恐怖襲擊事件 "wikilink") [Category:1918年紐約州建立](https://zh.wikipedia.org/wiki/Category:1918年紐約州建立 "wikilink") [Category:2001年紐約州廢除](https://zh.wikipedia.org/wiki/Category:2001年紐約州廢除 "wikilink") [Category:2018年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2018年啟用的鐵路車站 "wikilink")
 
 1.
 

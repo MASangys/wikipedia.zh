@@ -1,5 +1,4 @@
-**时钟座ι星b**，也被称为**HR
-810b**，是一颗位于[时钟座](../Page/时钟座.md "wikilink")、距离地球约50光年的系外行星。最初的天体测量结果显示该行星的质量约为木星质量的24倍，这使其可能成为一颗[褐矮星](https://zh.wikipedia.org/wiki/褐矮星 "wikilink")，后来经过修正的数据显示其质量下限为2.26[*M*<sub>*J*</sub>](https://zh.wikipedia.org/wiki/木星质量 "wikilink")。时钟座ι星b是发现的首颗处于[适居带内的系外行星](https://zh.wikipedia.org/wiki/适居带 "wikilink")，同时它也是[日射量接近](https://zh.wikipedia.org/wiki/日射量 "wikilink")[水星](../Page/水星.md "wikilink")的[类木行星的原型](https://zh.wikipedia.org/wiki/类木行星 "wikilink")。
+**时钟座ι星b**，也被称为**HR 810b**，是一颗位于[时钟座](../Page/时钟座.md "wikilink")、距离地球约50光年的系外行星。最初的天体测量结果显示该行星的质量约为木星质量的24倍，这使其可能成为一颗[褐矮星](https://zh.wikipedia.org/wiki/褐矮星 "wikilink")，后来经过修正的数据显示其质量下限为2.26[*M*<sub>*J*</sub>](https://zh.wikipedia.org/wiki/木星质量 "wikilink")。时钟座ι星b是发现的首颗处于[适居带内的系外行星](https://zh.wikipedia.org/wiki/适居带 "wikilink")，同时它也是[日射量接近](https://zh.wikipedia.org/wiki/日射量 "wikilink")[水星](../Page/水星.md "wikilink")的[类木行星的原型](https://zh.wikipedia.org/wiki/类木行星 "wikilink")。
 
 ## 观测与发现
 
@@ -17,8 +16,7 @@
 
 就该行星的质量和轨道距离来说，它可能保有一个卫星系统。由它的质量下限推测，其卫星的顺行轨道距离行星中心约412万公里。\[4\]而要保持这一稳定轨道，则该卫星的质量上限为10[M<sub>⊕</sub>](https://zh.wikipedia.org/wiki/地球质量 "wikilink")。\[5\]该行星表面的反照率约为0.79。其引力的影响范围(即希尔球)约为1147万公里(0.076天文单位)。不过这些测算都是基于该行星的质量下限值。由于时钟座ι星是一颗较太阳年轻的恒星，在该系统中发现的原行星盘使人猜测该系统可能仍然处于碎片轰击阶段。\[6\]
 
-曾有科学家预测该行星的质量可能达到了木星质量的24倍，从地球上观测其轨道倾角为5.5°。如果此种预测准确，时钟座ι星b则可能是时钟座ι星的伴星——一颗极其微暗的褐矮星。不过后来这一数据被证明仅仅对于测定该行星的轨道倾角上限有参考价值；\[7\]而这类数据往往与实际测得的轨道倾角值相矛盾，这种情况即发生在了HD
-192263b、巨蟹座55c和仙后座υ星d的测量中。
+曾有科学家预测该行星的质量可能达到了木星质量的24倍，从地球上观测其轨道倾角为5.5°。如果此种预测准确，时钟座ι星b则可能是时钟座ι星的伴星——一颗极其微暗的褐矮星。不过后来这一数据被证明仅仅对于测定该行星的轨道倾角上限有参考价值；\[7\]而这类数据往往与实际测得的轨道倾角值相矛盾，这种情况即发生在了HD 192263b、巨蟹座55c和仙后座υ星d的测量中。
 
 ## 参见
 
@@ -35,10 +33,7 @@
   -
   -
   -
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:时钟座](https://zh.wikipedia.org/wiki/Category:时钟座 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
-[Category:1998年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1998年发现的系外行星 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:时钟座](https://zh.wikipedia.org/wiki/Category:时钟座 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:1998年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1998年发现的系外行星 "wikilink")
 
 1.
 

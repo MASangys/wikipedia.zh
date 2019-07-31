@@ -1774,7 +1774,7 @@
 <td><p>單場最多三分球</p></td>
 <td><p><a href="../Page/克雷·湯普森.md" title="wikilink">克雷·湯普森</a></p></td>
 <td><p>11球</p></td>
-<td><p><a href="../Page/2016年NBA季後賽.md" title="wikilink">2016年NBA季後賽西區冠軍賽第六戰</a></p></td>
+<td><p><a href="../Page/2016年NBA季後賽.md" title="wikilink">2016年NBA季後賽</a>西區冠軍賽第六戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>單場最多三分球失手</p></td>
@@ -1822,7 +1822,7 @@
 <td><p>單場最多失誤</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
 <td><p>13次</p></td>
-<td><p><a href="../Page/2015年NBA季後賽.md" title="wikilink">2015年NBA季後賽西區決賽第</a>5戰</p></td>
+<td><p><a href="../Page/2015年NBA季後賽.md" title="wikilink">2015年NBA季後賽</a>西區決賽第5戰</p></td>
 </tr>
 <tr class="even">
 <td><p>單場最多連續進球</p></td>
@@ -1886,7 +1886,7 @@
 <td><p>總冠軍赛最高單場三分球進球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史蒂芬·柯瑞" title="wikilink">史蒂芬·柯瑞</a></p></td>
 <td><p>9球</p></td>
-<td><p><a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽總決賽第</a>2戰</p></td>
+<td><p><a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽</a>總決賽第2戰</p></td>
 </tr>
 <tr class="even">
 <td><p>總冠軍赛最低投籃命中率</p></td>
@@ -2627,7 +2627,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約尼克" title="wikilink">紐約尼克</a></p></td>
 <td><p>13連敗</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2001年NBA季後賽" title="wikilink">2001年NBA季後賽第</a>4戰–<br />
-<a href="../Page/2012年NBA季後賽.md" title="wikilink">2012年NBA季後賽第</a>4戰</p></td>
+<a href="../Page/2012年NBA季後賽.md" title="wikilink">2012年NBA季後賽</a>第4戰</p></td>
 </tr>
 <tr class="even">
 <td><p>總冠軍最大領先被逆轉</p></td>
@@ -2820,14 +2820,14 @@
 <td><p>单场单队上下半场最大分差</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休斯敦火箭" title="wikilink">休斯敦火箭</a></p></td>
 <td><p>54分</p></td>
-<td><p>2014年1月16日<a href="../Page/火箭.md" title="wikilink">火箭主场对</a><a href="../Page/雷霆.md" title="wikilink">雷霆</a>，上半场73分，下半场19分</p></td>
+<td><p>2014年1月16日<a href="../Page/火箭.md" title="wikilink">火箭</a>主场对<a href="../Page/雷霆.md" title="wikilink">雷霆</a>，上半场73分，下半场19分</p></td>
 </tr>
 <tr class="even">
 <td><p>客場最大勝分差</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西雅圖超音速" title="wikilink">西雅圖超音速</a><br />
 <a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p>56分</p></td>
-<td><p>1986年12月7日<a href="../Page/超音速.md" title="wikilink">超音速作客对</a><a href="https://zh.wikipedia.org/wiki/熱火" title="wikilink">熱火</a>(136-80)<br />
+<td><p>1986年12月7日<a href="../Page/超音速.md" title="wikilink">超音速</a>作客对<a href="https://zh.wikipedia.org/wiki/熱火" title="wikilink">熱火</a>(136-80)<br />
 2018年12月9日<a href="https://zh.wikipedia.org/wiki/塞爾提克" title="wikilink">塞爾提克作客对</a><a href="https://zh.wikipedia.org/wiki/公牛" title="wikilink">公牛</a>(133-77)</p></td>
 </tr>
 <tr class="odd">
@@ -3042,7 +3042,7 @@
 </tr>
 <tr class="even">
 <td><p>單場勝差比對手得分更多比賽</p></td>
-<td><p><a href="../Page/印第安纳步行者.md" title="wikilink">印第安纳步行者V</a>.S<a href="https://zh.wikipedia.org/wiki/波特蘭开拓者" title="wikilink">波特蘭开拓者</a></p></td>
+<td><p><a href="../Page/印第安纳步行者.md" title="wikilink">印第安纳步行者</a>V.S<a href="https://zh.wikipedia.org/wiki/波特蘭开拓者" title="wikilink">波特蘭开拓者</a></p></td>
 <td><p>124比59，65分</p></td>
 <td><p>1998年2月28日</p></td>
 </tr>
@@ -3101,7 +3101,7 @@
 <td><p>季後賽最大比分逆轉</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯快艇" title="wikilink">洛杉磯快艇對</a><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>31分</p></td>
-<td><p><a href="../Page/2009年NBA季後賽.md" title="wikilink">2009年NBA季後賽第一輪第</a>2戰</p></td>
+<td><p><a href="../Page/2019年NBA季後賽.md" title="wikilink">2019年NBA季後賽</a>第一輪第2戰</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽殊死戰最懸殊的比分</p></td>
@@ -3121,37 +3121,37 @@
 <td><p>季後賽半場最懸殊比分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>41分</p></td>
-<td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽第</a>2戰</p></td>
+<td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽</a>第2戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>季後賽單場單隊最多三分球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>25球</p></td>
-<td><p><a href="../Page/2016年NBA季後賽.md" title="wikilink">2016年NBA季後賽第二輪第</a>2戰</p></td>
+<td><p><a href="../Page/2016年NBA季後賽.md" title="wikilink">2016年NBA季後賽</a>第二輪第2戰</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽單場單隊最多三分球不進</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a></p></td>
 <td><p>37球（44中7）</p></td>
-<td><p><a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽西岸決賽第</a>7戰</p></td>
+<td><p><a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽</a>西岸決賽第7戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>總冠軍賽單場單隊最多三分球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>24球</p></td>
-<td><p><a href="../Page/2017年NBA總決賽.md" title="wikilink">2017年NBA總決賽第</a>4戰</p></td>
+<td><p><a href="../Page/2017年NBA總決賽.md" title="wikilink">2017年NBA總決賽</a>第4戰</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽單場最多火鍋</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大老鷹" title="wikilink">亞特蘭大老鷹</a></p></td>
 <td><p>15個</p></td>
-<td><p><a href="../Page/2016年NBA季後賽.md" title="wikilink">2016年NBA季後賽第一輪第</a>2戰</p></td>
+<td><p><a href="../Page/2016年NBA季後賽.md" title="wikilink">2016年NBA季後賽</a>第一輪第2戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>總決賽半場最高命中率紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>75.8%</p></td>
-<td><p><a href="../Page/2014年NBA總決賽.md" title="wikilink">2014年NBA總決賽第</a>3戰</p></td>
+<td><p><a href="../Page/2014年NBA總決賽.md" title="wikilink">2014年NBA總決賽</a>第3戰</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽單場球隊單節最多得分</p></td>
@@ -3159,25 +3159,25 @@
 <a href="https://zh.wikipedia.org/wiki/費城七六人" title="wikilink">費城七六人</a></p></td>
 <td><p>51分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1962年NBA季後賽" title="wikilink">1962年NBA季後賽</a><br />
-<a href="../Page/2019年NBA季後賽.md" title="wikilink">2019年NBA季後賽第一輪第</a>2戰</p></td>
+<a href="../Page/2019年NBA季後賽.md" title="wikilink">2019年NBA季後賽</a>第一輪第2戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>季後賽單局最低得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新澤西籃網" title="wikilink">新澤西籃網</a></p></td>
 <td><p>9分</p></td>
-<td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽第</a>3戰</p></td>
+<td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽</a>第3戰</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽單場球隊最多罰球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a></p></td>
 <td><p>64罰42中</p></td>
-<td><p><a href="../Page/2015年NBA季後賽.md" title="wikilink">2015年NBA季後賽第二輪第</a>2戰</p></td>
+<td><p><a href="../Page/2015年NBA季後賽.md" title="wikilink">2015年NBA季後賽</a>第二輪第2戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>季後賽半場最低得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新澤西籃網" title="wikilink">新澤西籃網</a></p></td>
 <td><p>30分</p></td>
-<td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽第</a>3戰</p></td>
+<td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽</a>第3戰</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽半場最高得分</p></td>
@@ -3189,19 +3189,19 @@
 <td><p>季後賽兩隊半場最低得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a>&amp;<a href="https://zh.wikipedia.org/wiki/新澤西籃網" title="wikilink">新澤西籃網</a></p></td>
 <td><p>63分</p></td>
-<td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽第</a>3戰（33-30）</p></td>
+<td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽</a>第3戰（33-30）</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽兩隊半場最高得分</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>&amp;<a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>154分</p></td>
-<td><p><a href="../Page/2017年NBA總決賽.md" title="wikilink">2017年NBA總決賽第</a>4戰（68-86）</p></td>
+<td><p><a href="../Page/2017年NBA總決賽.md" title="wikilink">2017年NBA總決賽</a>第4戰（68-86）</p></td>
 </tr>
 <tr class="odd">
 <td><p>季後賽第二節最低得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新澤西籃網" title="wikilink">新澤西籃網</a></p></td>
 <td><p>9分</p></td>
-<td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽第</a>3戰</p></td>
+<td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽</a>第3戰</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -3510,8 +3510,7 @@
 
 ## 参考文献
 
-[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
-[Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink")
+[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink")
 
 1.
 2.

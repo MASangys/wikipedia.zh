@@ -1,5 +1,4 @@
-**ICD-10
-第四章：内分泌、营养和代谢疾病**，为[WHO规定的已发现的各类内分泌](https://zh.wikipedia.org/wiki/WHO "wikilink")，营养和代谢疾病。
+**ICD-10 第四章：内分泌、营养和代谢疾病**，为[WHO规定的已发现的各类内分泌](https://zh.wikipedia.org/wiki/WHO "wikilink")，营养和代谢疾病。
 
 ## 受控词表
 
@@ -12,8 +11,7 @@
   - () 临床症状不明显(亚临床)的碘缺乏性甲状腺功能减退症
   - () 其他甲状腺功能减退症
   - () 其他非毒性甲状腺肿
-  - ()
-    [甲状腺毒症](https://zh.wikipedia.org/wiki/甲状腺毒症 "wikilink")([甲状腺功能亢进症](../Page/甲状腺功能亢进症.md "wikilink"))
+  - () [甲状腺毒症](https://zh.wikipedia.org/wiki/甲状腺毒症 "wikilink")([甲状腺功能亢进症](../Page/甲状腺功能亢进症.md "wikilink"))
   - () [甲状腺炎](../Page/甲状腺炎.md "wikilink")
   - () 其他甲状腺疾患
 
@@ -72,8 +70,7 @@
 
   - () [维生素A缺乏](https://zh.wikipedia.org/wiki/维生素A "wikilink")
   - () [硫胺素缺乏](https://zh.wikipedia.org/wiki/硫胺素 "wikilink")
-  - ()
-    [烟酸](../Page/烟酸.md "wikilink")缺乏（[糙皮病](../Page/糙皮病.md "wikilink")）
+  - () [烟酸](../Page/烟酸.md "wikilink")缺乏（[糙皮病](../Page/糙皮病.md "wikilink")）
   - () 其他B族维生素缺乏
   - () 抗坏血酸缺乏
   - () [维生素D](../Page/维生素D.md "wikilink")缺乏
@@ -99,8 +96,7 @@
 [代谢紊乱](https://zh.wikipedia.org/wiki/代谢紊乱 "wikilink")（E70-E90）
 
   - () [芳香氨基酸代谢紊乱](https://zh.wikipedia.org/wiki/芳香氨基酸 "wikilink")
-  - ()
-    [支链氨基酸](../Page/支链氨基酸.md "wikilink")代谢和[脂肪酸](../Page/脂肪酸.md "wikilink")代谢紊乱
+  - () [支链氨基酸](../Page/支链氨基酸.md "wikilink")代谢和[脂肪酸](../Page/脂肪酸.md "wikilink")代谢紊乱
   - () 其他[氨基酸](../Page/氨基酸.md "wikilink")代谢紊乱
   - () [乳糖](../Page/乳糖.md "wikilink")耐受不良
   - () 其他碳水化合物代谢紊乱
@@ -109,8 +105,7 @@
   - () [糖蛋白代谢紊乱](https://zh.wikipedia.org/wiki/糖蛋白 "wikilink")
   - () [脂蛋白](../Page/脂蛋白.md "wikilink")代谢疾患和其他脂血症
   - () [嘌呤](../Page/嘌呤.md "wikilink")和[嘧啶](../Page/嘧啶.md "wikilink")代谢紊乱
-  - ()
-    [卟啉](../Page/卟啉.md "wikilink")和[胆红素](../Page/胆红素.md "wikilink")代谢紊乱
+  - () [卟啉](../Page/卟啉.md "wikilink")和[胆红素](../Page/胆红素.md "wikilink")代谢紊乱
   - () 矿物质代谢紊乱
   - () [囊性纤维病](https://zh.wikipedia.org/wiki/囊性纤维病 "wikilink")
   - () [绽粉样变性](https://zh.wikipedia.org/wiki/绽粉样变性 "wikilink")
@@ -127,11 +122,6 @@
 
 ## 外部链接
 
-  - [World Health Organization](../Page/世界卫生组织.md "wikilink")：ICD-10 -
-    *International Statistical Classification of Diseases and Related
-    Health Problems* (10th Revision, Version for 2007)
-    <http://www.who.int/classifications/apps/icd/icd10online/>
+  - [World Health Organization](../Page/世界卫生组织.md "wikilink")：ICD-10 - *International Statistical Classification of Diseases and Related Health Problems* (10th Revision, Version for 2007) <http://www.who.int/classifications/apps/icd/icd10online/>
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

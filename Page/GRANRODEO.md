@@ -5,27 +5,20 @@
 ### 經歷
 
   - 結成團體的契機是於2004年推出的動畫「[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")」男主角鳴海孝之的角色歌，當時由鳴海的配音員谷山譜詞、而飯塚負責作、編曲，奠定了二人合作的基礎。而在這之後的一次機會下，遊戲公司「âge」的齊藤K、[Lantis](../Page/Lantis.md "wikilink")現任副社長兼音樂製作人[伊藤善之和谷山一起去唱卡拉OK時](https://zh.wikipedia.org/wiki/伊藤善之 "wikilink")，看到熱情歌唱的谷山後便決定讓這二人組成團體出道。
-  - 所有的作、編曲皆由e-ZUKA操刀，而歌詞除出道曲「[Go For
-    It\!](https://zh.wikipedia.org/wiki/Go_For_It! "wikilink")」外皆為KISHOW所撰。以兩人偏好的[重金屬音樂](https://zh.wikipedia.org/wiki/重金屬 "wikilink")、[硬式搖滾](../Page/硬式搖滾.md "wikilink")為主軸，另外也在[流行樂](../Page/流行_\(音樂類型\).md "wikilink")、[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")、[饒舌金屬](../Page/饒舌金屬.md "wikilink")、、[龐克搖滾](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")、、、[放克](../Page/放克.md "wikilink")、[民俗音樂等等領域中製作出多樣的樂曲](https://zh.wikipedia.org/wiki/民俗音樂 "wikilink")。
+  - 所有的作、編曲皆由e-ZUKA操刀，而歌詞除出道曲「[Go For It\!](https://zh.wikipedia.org/wiki/Go_For_It! "wikilink")」外皆為KISHOW所撰。以兩人偏好的[重金屬音樂](https://zh.wikipedia.org/wiki/重金屬 "wikilink")、[硬式搖滾](../Page/硬式搖滾.md "wikilink")為主軸，另外也在[流行樂](../Page/流行_\(音樂類型\).md "wikilink")、[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")、[饒舌金屬](../Page/饒舌金屬.md "wikilink")、、[龐克搖滾](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")、、、[放克](../Page/放克.md "wikilink")、[民俗音樂等等領域中製作出多樣的樂曲](https://zh.wikipedia.org/wiki/民俗音樂 "wikilink")。
   - 團名最初由KISHOW提名RODEO（英文、西班牙文鬥牛之意）後來因覺得似乎哪裡不夠而加上了GRAN（西班牙文，有大、華麗之意），便成為了現在團名GRANRODEO（グランロデオ），團名考慮時間為一個小時\[1\]。團名提供者除了KISHOW及e-ZUKA外，另一人為上述音樂製作人伊藤善之。（君のぞらじお談）
   - 主要成員雖只有KISHOW、e-ZUKA兩人，但現場演唱會時加入貝斯手、鼓手，以四人團體方式演出。
   - 2005年11月23發行首張單曲Go For It\!，此為動畫「IGPX」片頭主題曲。
-  - 2007年7月25日推出首張專輯[RIDE ON THE
-    EDGE](../Page/RIDE_ON_THE_EDGE.md "wikilink")，除了收錄以往的單曲外，另外還收錄了重新錄製的「[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")」的角色歌及首張單曲。並在同年8月於橫濱BLITZ舉行首次的演唱會。
+  - 2007年7月25日推出首張專輯[RIDE ON THE EDGE](../Page/RIDE_ON_THE_EDGE.md "wikilink")，除了收錄以往的單曲外，另外還收錄了重新錄製的「[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")」的角色歌及首張單曲。並在同年8月於橫濱BLITZ舉行首次的演唱會。
   - 2008年推出第二張專輯[Instinct](https://zh.wikipedia.org/wiki/Instinct "wikilink")，與首張專輯不同的是，這次為了整張專輯的平衡性，並沒有收錄以往所有的C/W歌曲，反而是增加了原創歌曲。同年年初也開始了首場的全國巡迴演唱會。
-  - 2008年8月，首度參與日本國內最大的動畫歌曲演唱會[Animelo Summer
-    Live](../Page/Animelo_Summer_Live.md "wikilink")（簡稱ASL）
-  - 2009年除了舉辦第二次巡迴演唱會外，同樣的也參與了ASL，另外也舉辦了首次的野外演唱會、男生限定演唱會等。10月推出了第三張專輯[BRUSH
-    the SCAR
-    LEMON](https://zh.wikipedia.org/wiki/BRUSH_the_SCAR_LEMON "wikilink")。
+  - 2008年8月，首度參與日本國內最大的動畫歌曲演唱會[Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink")（簡稱ASL）
+  - 2009年除了舉辦第二次巡迴演唱會外，同樣的也參與了ASL，另外也舉辦了首次的野外演唱會、男生限定演唱會等。10月推出了第三張專輯[BRUSH the SCAR LEMON](https://zh.wikipedia.org/wiki/BRUSH_the_SCAR_LEMON "wikilink")。
   - 2010年5月3日舉辦成立五周年紀念的武道館演唱會，也是第一位在武道館開唱的男性聲優（全部的聲優為第六位）。
-  - 2012年10月10日發售的第五張專輯「CRACK STAR
-    FLASH」在10月10日當天的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")取得專輯部門第一名的成績。
+  - 2012年10月10日發售的第五張專輯「CRACK STAR FLASH」在10月10日當天的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")取得專輯部門第一名的成績。
   - 2012年7月1日開設官方FAN CLUB「ロデオ組」。
   - 2013年4月20日與4月21日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦單獨演唱會。
   - 預定2014年1月5日於[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")，2月16日於大阪城ホール舉辦單獨演唱會。
-  - 2018年3月10、11日與FLOW一同來台進行《FLOW×GRANRODEO 1st LIVE TOUR
-    “Howling”》巡迴演唱\[2\]。
+  - 2018年3月10、11日與FLOW一同來台進行《FLOW×GRANRODEO 1st LIVE TOUR “Howling”》巡迴演唱\[2\]。
 
 ### 音樂性．演唱會
 
@@ -51,8 +44,7 @@
 
 ### 單曲
 
-※
-「最高名次」的來源為[oricon公信榜的週平均榜單](https://zh.wikipedia.org/wiki/oricon公信榜 "wikilink")。
+※ 「最高名次」的來源為[oricon公信榜的週平均榜單](https://zh.wikipedia.org/wiki/oricon公信榜 "wikilink")。
 
 |       | 發售日         | 標題                                                                                          | 規格編號         | 最高名次       |
 | ----- | ----------- | ------------------------------------------------------------------------------------------- | ------------ | ---------- |
@@ -170,15 +162,13 @@
 
 <!-- end list -->
 
-  - **[NEEDLESS](../Page/NEEDLESS_\(動畫\).md "wikilink") ORIGINAL
-    SOUNDTRACK**
+  - **[NEEDLESS](../Page/NEEDLESS_\(動畫\).md "wikilink") ORIGINAL SOUNDTRACK**
       - 2009年12月23日発売 / LASA-5032 / GloryHeaven
           - modern strange cowboy (TV-SIZE)
 
 <!-- end list -->
 
-  - **[咎狗之血](../Page/咎狗之血.md "wikilink") ENDING THEME COMPLETE
-    COLLECTION**
+  - **[咎狗之血](../Page/咎狗之血.md "wikilink") ENDING THEME COMPLETE COLLECTION**
       - 2012年5月9日発売 / LASA-5123 / GloryHeaven
           - GRIND "style GR" （動畫『咎狗之血』第12集片尾曲）
 
@@ -531,16 +521,14 @@
 ### 活動、非單獨演唱會
 
   - 君のぞらじお感謝祭
-  - [Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink")
-    2008,2009,2010,2011,2012,2013
+  - [Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink") 2008,2009,2010,2011,2012,2013
   - ANIMAX MUSIX FALL 2010
   - ANIMAX MUSIX 2011,2012,2013
   - [Lantis](../Page/Lantis.md "wikilink")祭り
   - V-ROCK FESTIVAL '09
   - LIVE-THE CHiRAL NIGHT 5th ANNIVERSARY
   - LIVE-アニソンドリームinニイガタ2010
-  - GRANRODEO FES 2013 ROUND GR 演出者 : GRANRODEO / Alice Nine / OLDCODEX
-    / 妖精帝國(2013年7月21日)
+  - GRANRODEO FES 2013 ROUND GR 演出者 : GRANRODEO / Alice Nine / OLDCODEX / 妖精帝國(2013年7月21日)
   - アニメ紅白歌合戦Vol.3（預定於2014年1月19日舉辦）
 
 ### 與遊戲的合作
@@ -554,15 +542,10 @@
 ## 外部連結
 
   - [GRANRODEO Official Website](http://www.granrodeo.net/)
-  - [GRANRODEO | Artist | Lantis web
-    site](https://web.archive.org/web/20120515160342/http://www.lantis.jp/artist/data.php?id=b885ad6895755464e22e96d90628e0be)
+  - [GRANRODEO | Artist | Lantis web site](https://web.archive.org/web/20120515160342/http://www.lantis.jp/artist/data.php?id=b885ad6895755464e22e96d90628e0be)
   - [GRANRODEO官方Fan Club「ロデオ組」](http://granrodeo.jp/)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
 
 1.  出自雜誌hm3 men's special vol.2
 2.  <https://memeon-music.com/2018/03/11/flow-granrodeo-livereport/>

@@ -1,10 +1,8 @@
-**RenderWare引擎**（简称**RW**）是[Criterion
-Games公司开发的](../Page/Criterion_Games.md "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。
+**RenderWare引擎**（简称**RW**）是[Criterion Games公司开发的](../Page/Criterion_Games.md "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。
 
 ## 简介
 
-RenderWare 是一组用于开发电脑游戏的API函数，包括图形、虚拟现实和网络连接的部分，由Criterion
-Software公司（曾是[佳能的全资子公司](../Page/佳能.md "wikilink")，现在是[美国艺电的一部分](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")）开发。
+RenderWare 是一组用于开发电脑游戏的API函数，包括图形、虚拟现实和网络连接的部分，由Criterion Software公司（曾是[佳能](../Page/佳能.md "wikilink")的全资子公司，现在是[美国艺电的一部分](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")）开发。
 
 ## 使用RenderWare引擎的游戏
 
@@ -118,5 +116,4 @@ Software公司（曾是[佳能的全资子公司](../Page/佳能.md "wikilink")�
   - [RenderWare官方网站](https://web.archive.org/web/20071201124840/http://www.renderware.com/)
   - [Criterion Games](http://www.criteriongames.com/)
 
-[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
-[Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink")
+[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink") [Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink")

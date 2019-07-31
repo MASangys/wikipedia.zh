@@ -7,14 +7,9 @@
 
 原本『GT』是描绘“与魔人布欧从最终决战结束到最终话为止的10年间”的原创故事，作为新作，由工作人员、电视台、赞助商等人提出意见。“原作漫畫在『七龍珠Z』播映與製作期間完結篇，當時我們收到結局後，我自己和其他現場工作人員都不覺得這已經是結局”。原作者·鸟山明和周刊少年JUMP编辑部的商谈中提出的意见基础上，转向了描绘“原作的最终话之后”的方向\[3\]。
 
-《[七龍珠](https://zh.wikipedia.org/wiki/龍珠_\(動畫\) "wikilink")》以「动作」和「有趣」的气氛踏上寻找龙珠之旅，本作七龍珠GT以「回归原點」的想法为創作基础。原作的世界观非常广阔，比起地球，宇宙的规模更大，无论有怎样的家伙都被允许\[4\]，到第26話为止，『GT』主要以宇宙為故事舞台‘行星冒险’和‘宇宙戲劇’的題材為主的内容。當初略剧本结束时，大家开始思考\[5\]\[6\]\[7\]“一直描述旅行的话题，应该没什么意思吧”、“龙珠系列的话，还是要帶出爽快感。在日常生活中觸發战斗的展开應該很有趣”，因此和原作相同，本作也從日常路线自然转向战斗。上一部作品『Z』在日本地區年幼的观众孩子，因为魔人普烏篇的[孫悟空有一段時間没有出现](../Page/孙悟空_\(七龙珠\).md "wikilink")，所以放棄觀賞龍珠的事情等理由，『GT』故事的戰鬥部分成为以悟空做为主軸。为此，前作曾經作为主角的[孙悟饭](../Page/孙悟饭.md "wikilink")不是本作品主軸\[8\]。『Z』在原作连载结束后又延长故事，由於當時『Z』也正在進行製作，所以影响到『GT』制作所需的准备时间。前作『Z』语音方面是[单声道](https://zh.wikipedia.org/wiki/单声道 "wikilink")，Credit画面是Blue
-back画，本作语音改为[立体声](https://zh.wikipedia.org/wiki/立体声 "wikilink")\[9\]，Credit画面是静画\[10\]。
+《[七龍珠](https://zh.wikipedia.org/wiki/龍珠_\(動畫\) "wikilink")》以「动作」和「有趣」的气氛踏上寻找龙珠之旅，本作七龍珠GT以「回归原點」的想法为創作基础。原作的世界观非常广阔，比起地球，宇宙的规模更大，无论有怎样的家伙都被允许\[4\]，到第26話为止，『GT』主要以宇宙為故事舞台‘行星冒险’和‘宇宙戲劇’的題材為主的内容。當初略剧本结束时，大家开始思考\[5\]\[6\]\[7\]“一直描述旅行的话题，应该没什么意思吧”、“龙珠系列的话，还是要帶出爽快感。在日常生活中觸發战斗的展开應該很有趣”，因此和原作相同，本作也從日常路线自然转向战斗。上一部作品『Z』在日本地區年幼的观众孩子，因为魔人普烏篇的[孫悟空有一段時間没有出现](../Page/孙悟空_\(七龙珠\).md "wikilink")，所以放棄觀賞龍珠的事情等理由，『GT』故事的戰鬥部分成为以悟空做为主軸。为此，前作曾經作为主角的[孙悟饭](../Page/孙悟饭.md "wikilink")不是本作品主軸\[8\]。『Z』在原作连载结束后又延长故事，由於當時『Z』也正在進行製作，所以影响到『GT』制作所需的准备时间。前作『Z』语音方面是[单声道](https://zh.wikipedia.org/wiki/单声道 "wikilink")，Credit画面是Blue back画，本作语音改为[立体声](https://zh.wikipedia.org/wiki/立体声 "wikilink")\[9\]，Credit画面是静画\[10\]。
 
-七龍珠GT的製作方式以前的系列作品不太一樣。1996年起[東映動畫推出的全部新动画都导入了](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")“Fine
-Negatives Video
-System”（東映動畫在1980年代末和1990年代自行研發的動畫製作技術），‘GT’受此影响，畫面色调也和以往不同。包含其它東映動畫的系列續集，如：《[美少女戰士
-最後星光](../Page/美少女戰士Sailor_Stars.md "wikilink")》《[鬼太郎(1996年版)](https://zh.wikipedia.org/wiki/鬼太郎#1996年_第四作 "wikilink")》《[靈異教師神眉](https://zh.wikipedia.org/wiki/靈異教師神眉 "wikilink")》等作品都使用這個新的製作方式。但是在1997年2月東映轉型CG“RETAS”數位（デジタル）技術後逐漸被取代，直到1998年就沒有使用“Fine
-Negatives Video System”\[11\]。
+七龍珠GT的製作方式以前的系列作品不太一樣。1996年起[東映動畫推出的全部新动画都导入了](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")“Fine Negatives Video System”（東映動畫在1980年代末和1990年代自行研發的動畫製作技術），‘GT’受此影响，畫面色调也和以往不同。包含其它東映動畫的系列續集，如：《[美少女戰士 最後星光](../Page/美少女戰士Sailor_Stars.md "wikilink")》《[鬼太郎(1996年版)](https://zh.wikipedia.org/wiki/鬼太郎#1996年_第四作 "wikilink")》《[靈異教師神眉](https://zh.wikipedia.org/wiki/靈異教師神眉 "wikilink")》等作品都使用這個新的製作方式。但是在1997年2月東映轉型CG“RETAS”數位（デジタル）技術後逐漸被取代，直到1998年就沒有使用“Fine Negatives Video System”\[11\]。
 
 GT的結尾悟空可能已經死亡。企劃人[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")：“最後悟空是活著，還是死了和結局是從‘七龍珠GT’企劃立案的時候就已經決定好了\[12\]”。負責劇本的[前川淳](../Page/前川淳.md "wikilink")自信地表示“悟空或許因為保衛地球而犧牲了，但是或許並非如此，而是成為其他的某種東西再次登場。應該要怎麼判斷，我們決定留給觀眾在看完之後自行去想像”\[13\]。“希望觀眾可以切身地感受類似在現實世界裡，我們腦海中對於‘死亡’的印象所產生的傷感\[14\]”。
 
@@ -28,18 +23,11 @@ GT的敵人是從以前就登場的敵人再延伸下來。企劃人森下孝三
 
 作为原作者的鸟山明，与故事的剧本制作没有关系，但是在企划之际，有以下几点协助。
 
-「GT」這個標題由鳥山明提出，在眾多之意中最主要以“Grand Tour”（壯大之旅）的意思命名的\[21\]，包含“Galaxy
-Tour（银河之旅）”\[22\]、“Galaxy Touring（银河之旅）”、“Great
-Touring（偉大的旅行）”等意思。
+「GT」這個標題由鳥山明提出，在眾多之意中最主要以“Grand Tour”（壯大之旅）的意思命名的\[21\]，包含“Galaxy Tour（银河之旅）”\[22\]、“Galaxy Touring（银河之旅）”、“Great Touring（偉大的旅行）”等意思。
 最後在正式推出前二個月，1995年12月由鳥山明一手完成標題及其標題設計“Grand Tour”（壯大之旅）。
-鳥山明：「
-GT一詞原本是汽車用語「グランツーリスモ」也就是指速度快，性能又高的車子之意。不過在這部動畫中，由於開頭故事內容設定為「在宇宙中到處奔走」包含著「Grand
-Tour」壯大的旅行的涵義，這就是各位所看到的《龙珠GT》，如果大家也能和我一起快樂地觀賞原作《龍珠》壯大的外傳故事《龍珠GT》，那將是我一大榮幸！」
+鳥山明：「 GT一詞原本是汽車用語「グランツーリスモ」也就是指速度快，性能又高的車子之意。不過在這部動畫中，由於開頭故事內容設定為「在宇宙中到處奔走」包含著「Grand Tour」壯大的旅行的涵義，這就是各位所看到的《龙珠GT》，如果大家也能和我一起快樂地觀賞原作《龍珠》壯大的外傳故事《龍珠GT》，那將是我一大榮幸！」
 
-鳥山明主要的人物設計是小孩孫悟空、小芳、特南克斯、吉魯、達爾、孫悟飯、孫悟天、克林的頭髮由黑色改為灰色並加上鬍子、撒旦先生、布拉、琪琪、維黛兒、布瑪和烏普，以及章魚型的宇宙船的機械設計；其他人物的設計則由中鶴勝祥先生設計。鳥山明得到東映動畫的原始劇本和查閱故事綱要後提出了一些建議。\[23\]\[24\]
-中鶴勝祥根據鳥山提供的人物原案繪製成十三張影像板\[25\]\[26\]。看到这个印象板的时候，鸟山说“咦，我是不是有画了这样的画？”\[27\]中鹤证言道，“重要的超级赛亚人4设定也是我画的，一边嘗試错误，一边構圖，给鸟山老师送去的时候，我觉得可能會被稍微-{修}-正，但是想法本身没有变化，所以很开心。\[28\]”在七龍珠GT
-DVD
-BOX的小冊子中，鳥山老師也畫了一幅超級賽亞人四畫像。中鶴勝祥先生：「我非常感謝鳥山老師繪畫動畫原創角色。當時在紀念七龍珠動畫完結篇的一個聚會裡，鳥山老師在紙上畫了一幅七龍珠GT的小孩悟空給我，我本身也很喜歡那個時候的悟空，當時心理想著"我真是一個幸福的Fan。(笑)"」\[29\]
+鳥山明主要的人物設計是小孩孫悟空、小芳、特南克斯、吉魯、達爾、孫悟飯、孫悟天、克林的頭髮由黑色改為灰色並加上鬍子、撒旦先生、布拉、琪琪、維黛兒、布瑪和烏普，以及章魚型的宇宙船的機械設計；其他人物的設計則由中鶴勝祥先生設計。鳥山明得到東映動畫的原始劇本和查閱故事綱要後提出了一些建議。\[23\]\[24\] 中鶴勝祥根據鳥山提供的人物原案繪製成十三張影像板\[25\]\[26\]。看到这个印象板的时候，鸟山说“咦，我是不是有画了这样的画？”\[27\]中鹤证言道，“重要的超级赛亚人4设定也是我画的，一边嘗試错误，一边構圖，给鸟山老师送去的时候，我觉得可能會被稍微-{修}-正，但是想法本身没有变化，所以很开心。\[28\]”在七龍珠GT DVD BOX的小冊子中，鳥山老師也畫了一幅超級賽亞人四畫像。中鶴勝祥先生：「我非常感謝鳥山老師繪畫動畫原創角色。當時在紀念七龍珠動畫完結篇的一個聚會裡，鳥山老師在紙上畫了一幅七龍珠GT的小孩悟空給我，我本身也很喜歡那個時候的悟空，當時心理想著"我真是一個幸福的Fan。(笑)"」\[29\]
 
 鸟山说，“当初對粗略的剧本和故事构成的初期情节稍微做了些建议\[30\]\[31\]”。“我还没看过，但是既期待又害怕剧情的展开。如果他們以輕鬆和緊湊的發展的話，我很期待。我心中的龙珠早已经结束了，不过，动画片还多亏职员們的努力和爱好者的支持才得以持續下去\[32\]。”
 
@@ -87,55 +75,39 @@ BOX的小冊子中，鳥山老師也畫了一幅超級賽亞人四畫像。中�
   -
 
       -
-        作詞 - [坂井泉水](../Page/坂井泉水.md "wikilink") / 作曲 -
-        [織田哲郎](../Page/織田哲郎.md "wikilink") / 編曲 -
-        [葉山剛](https://zh.wikipedia.org/wiki/葉山剛 "wikilink") / 歌 -
-        [FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
+        作詞 - [坂井泉水](../Page/坂井泉水.md "wikilink") / 作曲 - [織田哲郎](../Page/織田哲郎.md "wikilink") / 編曲 - [葉山剛](https://zh.wikipedia.org/wiki/葉山剛 "wikilink") / 歌 - [FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
 
 ※第64話（最終回）除了主題曲之外，還在片尾曲之前以全曲形式播放。
 ※此首歌收錄在1996年3月23日發行的「ドラゴンボール～最強への道～」オリジナルサウンドトラック」專輯裡。
-※同年作词者在1996年7月8日發行的專輯“TODAY IS ANOTHER
-DAY”也發表[坂井泉水](../Page/坂井泉水.md "wikilink")自己的翻唱版本。
+※同年作词者在1996年7月8日發行的專輯“TODAY IS ANOTHER DAY”也發表[坂井泉水](../Page/坂井泉水.md "wikilink")自己的翻唱版本。
 
   - 片尾曲
 
 :; 《》（並不是一個人）（第1話（1996年2月7日）- 第26話（1996年10月30日）
 
-:: 作詞 - [池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink") / 作曲 -
-織田哲郎 / 編曲 -
-[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink") /
-歌 - [DEEN](../Page/DEEN.md "wikilink")
+:: 作詞 - [池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink") / 作曲 - 織田哲郎 / 編曲 - [古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink") / 歌 - [DEEN](../Page/DEEN.md "wikilink")
 
-:; 《Don't you see\!》（你不明白嗎！）（第27話（1996年11月6日）-
-第41話（1997年3月12日）・特別篇（1997年3月26日）
+:; 《Don't you see\!》（你不明白嗎！）（第27話（1996年11月6日）- 第41話（1997年3月12日）・特別篇（1997年3月26日）
 
   -
 
       -
-        作詞 - 坂井泉水 / 作曲 -
-        [栗林誠一郎](https://zh.wikipedia.org/wiki/栗林誠一郎 "wikilink")
-        / 編曲 - 葉山剛 / 歌 - [ZARD](../Page/ZARD.md "wikilink")
+        作詞 - 坂井泉水 / 作曲 - [栗林誠一郎](https://zh.wikipedia.org/wiki/栗林誠一郎 "wikilink") / 編曲 - 葉山剛 / 歌 - [ZARD](../Page/ZARD.md "wikilink")
 
-※播映16年後的2012年的「TV on-air ver.」被收录在BOX『ZARD Album Collection〜20TH
-ANNIVERSARY〜』。
+※播映16年後的2012年的「TV on-air ver.」被收录在BOX『ZARD Album Collection〜20TH ANNIVERSARY〜』。
 
 :; 《Blue Velvet》（藍色天鵝絨）（第42話（1997年4月16日）- 第50話（1997年6月25日）
 
-:: 作詞 - [愛絵理](https://zh.wikipedia.org/wiki/工藤静香 "wikilink") / 作曲·編曲 -
-/ 歌 - [工藤静香](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")
+:: 作詞 - [愛絵理](https://zh.wikipedia.org/wiki/工藤静香 "wikilink") / 作曲·編曲 -  / 歌 - [工藤静香](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")
 
 :; 《》（用生鏽的機關槍擊穿今天）（第51話（1997年7月2日）- 第64話（1997年11月19日）
 
   -
 
       -
-        作詞·作曲 - [小松未歩](https://zh.wikipedia.org/wiki/小松未歩 "wikilink") /
-        編曲 - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink") / 歌
-        - [WANDS](../Page/WANDS.md "wikilink")
+        作詞·作曲 - [小松未歩](https://zh.wikipedia.org/wiki/小松未歩 "wikilink") / 編曲 - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink") / 歌 - [WANDS](../Page/WANDS.md "wikilink")
 
-以《DRAGON BALL GT》名义的音乐在目前尚未发售。但是播映开始的一个月后上映剧场的『[七龍珠
-最強之道](../Page/七龍珠_最強之道.md "wikilink")』的原聲帶『龙珠最强之道ORIGINAL
-SOUNDTRACK』\[34\]同時收錄『GT』『最强之道』全都由德永晓人的製作的音樂。
+以《DRAGON BALL GT》名义的音乐在目前尚未发售。但是播映开始的一个月后上映剧场的『[七龍珠 最強之道](../Page/七龍珠_最強之道.md "wikilink")』的原聲帶『龙珠最强之道ORIGINAL SOUNDTRACK』\[34\]同時收錄『GT』『最强之道』全都由德永晓人的製作的音樂。
 
 ## 各話列表
 
@@ -810,9 +782,7 @@ SOUNDTRACK』\[34\]同時收錄『GT』『最强之道』全都由德永晓人�
 
 **Jump・動畫漫畫・七龍珠GT**
 
-  - 在日本集英出版社最強Jump雜誌上刊載的「七龍珠GT [Anime
-    Comics](https://zh.wikipedia.org/wiki/Anime_Comics "wikilink")」（ドラゴンボールGT
-    アニメコミックス）。
+  - 在日本集英出版社最強Jump雜誌上刊載的「七龍珠GT [Anime Comics](https://zh.wikipedia.org/wiki/Anime_Comics "wikilink")」（ドラゴンボールGT アニメコミックス）。
   - 為1996年至1997年播映的電視動畫七龍珠GT第1話至第64話內容重新印刷的彩色漫畫，全套共38冊。
 
 **Jump・動畫漫畫・七龍珠GT：悟空外傳！勇氣的證明是四星球** - 集英社、1997年7月23日、ISBN 4-83-421525-3
@@ -830,15 +800,12 @@ SOUNDTRACK』\[34\]同時收錄『GT』『最强之道』全都由德永晓人�
 
 ****
 
-  - 原作、監-{修}-：[鳥山明](../Page/鳥山明.md "wikilink")，編劇：[小山高生](../Page/小山高生.md "wikilink")，連載於[集英社](../Page/集英社.md "wikilink")《[V
-    Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")》1993年2月21號－1996年9月號
+  - 原作、監-{修}-：[鳥山明](../Page/鳥山明.md "wikilink")，編劇：[小山高生](../Page/小山高生.md "wikilink")，連載於[集英社](../Page/集英社.md "wikilink")《[V Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")》1993年2月21號－1996年9月號
   - 由中鶴勝祥負責作畫的全彩色漫畫作品，單行本全4冊。
 
 ****
 
-  - 在1996年鳥山明（Akira
-    Toriyama）創作的一頁短篇漫畫，介紹七龍珠的特色－關於第十週年紀念電影《七龍珠：邁向最強之路》和電視動畫《七龍珠GT》－在週刊少年Jump
-    Bonus Comic 1996年3月13日第三頁中被刊載。
+  - 在1996年鳥山明（Akira Toriyama）創作的一頁短篇漫畫，介紹七龍珠的特色－關於第十週年紀念電影《七龍珠：邁向最強之路》和電視動畫《七龍珠GT》－在週刊少年Jump Bonus Comic 1996年3月13日第三頁中被刊載。
 
 另外《龙珠大全集》第7卷还刊登了鸟山的《GT》的设计画，《龙珠超全集》第3卷也刊登了《GT》的故事。
 
@@ -852,8 +819,7 @@ SOUNDTRACK』\[34\]同時收錄『GT』『最强之道』全都由德永晓人�
 
 ## 評價
 
-  - 在日本的平均受眾電視收視率為14.6％。
-    最高收視率為19.7％\[36\]。在七龍珠GT完結篇的八年之後，發行DVD-BOX時銷售了31,696份和21,227份，相比之下，七龍珠與七龍珠Z的售量均低於此值。[1](http://www.someanithing.com/312)
+  - 在日本的平均受眾電視收視率為14.6％。 最高收視率為19.7％\[36\]。在七龍珠GT完結篇的八年之後，發行DVD-BOX時銷售了31,696份和21,227份，相比之下，七龍珠與七龍珠Z的售量均低於此值。[1](http://www.someanithing.com/312)
 
 <!-- end list -->
 
@@ -876,17 +842,11 @@ SOUNDTRACK』\[34\]同時收錄『GT』『最强之道』全都由德永晓人�
 ## 外部連結
 
   - [七龍珠GT動畫版官方網頁](http://www.toei-anim.co.jp/tv/dragongt/)
-  - [東映動畫創立60週年
-    七龍珠GT官方網頁](http://lineup.toei-anim.co.jp/ja/tv/dragonGT/)
+  - [東映動畫創立60週年 七龍珠GT官方網頁](http://lineup.toei-anim.co.jp/ja/tv/dragonGT/)
 
-[en:Dragon Ball\#Dragon Ball
-GT](https://zh.wikipedia.org/wiki/en:Dragon_Ball#Dragon_Ball_GT "wikilink")
+[en:Dragon Ball\#Dragon Ball GT](https://zh.wikipedia.org/wiki/en:Dragon_Ball#Dragon_Ball_GT "wikilink")
 
-[Category:七龍珠](https://zh.wikipedia.org/wiki/Category:七龍珠 "wikilink")
-[Category:1996年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1996年日本電視動畫 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:七龍珠](https://zh.wikipedia.org/wiki/Category:七龍珠 "wikilink") [Category:1996年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1996年日本電視動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.  后续节目《[怪博士與機器娃娃](https://zh.wikipedia.org/wiki/怪博士與機器娃娃 "wikilink")》全篇数位制作。
 
@@ -896,17 +856,13 @@ GT](https://zh.wikipedia.org/wiki/en:Dragon_Ball#Dragon_Ball_GT "wikilink")
 
 4.  「那些日子裡的GT 製片人森下孝三訪問」『七龍珠GT DVD-BOX特製小冊子Dragonbook』、第44-49頁。
 
-5.  週刊少年ジャンプ編集部・編「GTシークレット ウラ話Q\&A編」『ジャンプ・アニメコミックス・ジュニア ドラゴンボールGT
-    パーフェクトファイル』集英社〈ジャンプ・コミックス セレクション〉、1997年5月24日、ISBN
-    4-8342-1524-5、40頁。
+5.  週刊少年ジャンプ編集部・編「GTシークレット ウラ話Q\&A編」『ジャンプ・アニメコミックス・ジュニア ドラゴンボールGT パーフェクトファイル』集英社〈ジャンプ・コミックス セレクション〉、1997年5月24日、ISBN 4-8342-1524-5、40頁。
 
-6.  「DRAGON BALL Q 前川淳ストーリーQ\&A」『ドラゴンボールGT
-    DVD-BOX特製ブックレットDragonbook』、56-59頁。
+6.  「DRAGON BALL Q 前川淳ストーリーQ\&A」『ドラゴンボールGT DVD-BOX特製ブックレットDragonbook』、56-59頁。
 
 7.  「那些日子裡的GT 製片人森下孝三訪問」『七龍珠GT DVD-BOX特製小冊子Dragonbook』、第44-49頁。
 
-8.  「あのころのGT プロデューサー森下孝三インタビュー」『ドラゴンボールGT
-    DVD-BOX特製ブックレットDragonbook』、44-49頁。
+8.  「あのころのGT プロデューサー森下孝三インタビュー」『ドラゴンボールGT DVD-BOX特製ブックレットDragonbook』、44-49頁。
 
 9.  第4话之前都是单声道播出。
 
@@ -915,11 +871,9 @@ GT](https://zh.wikipedia.org/wiki/en:Dragon_Ball#Dragon_Ball_GT "wikilink")
 11.
 
 12.
-13. 「DRAGON BALL Q 前川淳ストーリーQ\&A」『ドラゴンボールGT
-    DVD-BOX特製ブックレットDragonbook』、56-59頁。
+13. 「DRAGON BALL Q 前川淳ストーリーQ\&A」『ドラゴンボールGT DVD-BOX特製ブックレットDragonbook』、56-59頁。
 
-14. 「DRAGON BALL Q 前川淳ストーリーQ\&A」『ドラゴンボールGT
-    DVD-BOX特製ブックレットDragonbook』、56-59頁。
+14. 「DRAGON BALL Q 前川淳ストーリーQ\&A」『ドラゴンボールGT DVD-BOX特製ブックレットDragonbook』、56-59頁。
 
 15.
 16.
@@ -930,31 +884,23 @@ GT](https://zh.wikipedia.org/wiki/en:Dragon_Ball#Dragon_Ball_GT "wikilink")
 20.
 21. 「那些日子裡的GT 製片人森下孝三訪問」『七龍珠GT DVD-BOX特製小冊子Dragonbook』、第44-49頁。
 
-22. 「あのころのGT プロデューサー森下孝三インタビュー」『ドラゴンボールGT
-    DVD-BOX特製ブックレットDragonbook』、44-49頁。
+22. 「あのころのGT プロデューサー森下孝三インタビュー」『ドラゴンボールGT DVD-BOX特製ブックレットDragonbook』、44-49頁。
 
 23. 「未來還有什麼採訪」『神龍通信 第7號（七龍珠大全集第7卷別冊付錄）』、集英社、1996年2月25日、第2頁。
 
 24. 渡辺彰則編『七龍珠大全集 第5巻』第13頁
 
-25. [Vジャンプ編集部編](https://zh.wikipedia.org/wiki/Vジャンプ "wikilink")「『DRAGON
-    BALL』ANIMATION INTERVIEW 中鶴勝祥」『30th Anniversary
-    ドラゴンボール超史集』[集英社](../Page/集英社.md "wikilink")、平成28年（2016年）1月26日、ISBN
-    978-4-08-792505-0、141頁。
+25. [Vジャンプ編集部編](https://zh.wikipedia.org/wiki/Vジャンプ "wikilink")「『DRAGON BALL』ANIMATION INTERVIEW 中鶴勝祥」『30th Anniversary ドラゴンボール超史集』[集英社](../Page/集英社.md "wikilink")、平成28年（2016年）1月26日、ISBN 978-4-08-792505-0、141頁。
 
 26. 「DESIGN BASE GT 中鶴勝祥視覺指南」『七龍珠GT DVD-BOX特製小冊子Dragonbook』、第50-55頁。
 
 27. 週刊少年ジャンプ編集部・編「GT超辞典」『ジャンプ・アニメコミックス・ジュニア ドラゴンボールGT パーフェクトファイル』86頁。
 
-28. [Vジャンプ編集部編](https://zh.wikipedia.org/wiki/Vジャンプ "wikilink")「『DRAGON
-    BALL』ANIMATION INTERVIEW 中鶴勝祥」『30th Anniversary
-    ドラゴンボール超史集』[集英社](../Page/集英社.md "wikilink")、2016年1月26日、ISBN
-    978-4-08-792505-0、141頁。
+28. [Vジャンプ編集部編](https://zh.wikipedia.org/wiki/Vジャンプ "wikilink")「『DRAGON BALL』ANIMATION INTERVIEW 中鶴勝祥」『30th Anniversary ドラゴンボール超史集』[集英社](../Page/集英社.md "wikilink")、2016年1月26日、ISBN 978-4-08-792505-0、141頁。
 
 29. 「七龍珠動畫畫集 金色之戰士」『回顧七龍珠第三回 七龍珠Z的角色設計 中鶴勝祥專訪』、2005年6月15日。
 
-30. 「この先どうなるインタビュー」『神龍通信
-    第7号（ドラゴンボール大全集7巻別冊付録）』、集英社、1996年2月25日、2頁。。大体就是这种感觉的粗略剧本，让人看了之后觉得很有趣
+30. 「この先どうなるインタビュー」『神龍通信 第7号（ドラゴンボール大全集7巻別冊付録）』、集英社、1996年2月25日、2頁。。大体就是这种感觉的粗略剧本，让人看了之后觉得很有趣
 
 31. 渡辺彰則編『ドラゴンボール大全集 第5巻』13頁。
 
@@ -966,8 +912,7 @@ GT](https://zh.wikipedia.org/wiki/en:Dragon_Ball#Dragon_Ball_GT "wikilink")
 
 35.
 
-36.  Dragon Ball GT Episode
-    List|work=Kanzenshuu|access-date=2018-05-03|language=en-US}}
+36.  Dragon Ball GT Episode List|work=Kanzenshuu|access-date=2018-05-03|language=en-US}}
 
 37.
 

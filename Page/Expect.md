@@ -57,11 +57,9 @@ Expect是一种将现有的实用程序组合起来的胶合剂，通常考虑�
 
 Expect主要应用涉及商用软件产品。很多这类的产品都会提供某种命令行工具，但这些工具缺乏脚本编程的能力，只是为了帮助用户管理产品，而商家通常不会在如何实现一个稳定性好的脚本语言上耗费很多精力。Expect脚本中可以包含shell，查询环境变量，通过执行某些Unix命令获得更多的信息，然后在产品所带命令行接口中加入必须的信息，来完成用户的目标。在产品命令行接口中查询相关信息，该脚本可以在多种选择中智能地决定当前应该做什么比较合适。
 
-每次**Expect**操作完成，运行结果将保存在本地环境变量 $expect_out
-中。这允许脚本收集这些信息给用户以相应的反馈，同时也允许根据当前情况**发送**相对应的指令。
+每次**Expect**操作完成，运行结果将保存在本地环境变量 $expect_out 中。这允许脚本收集这些信息给用户以相应的反馈，同时也允许根据当前情况**发送**相对应的指令。
 
-Expect通常用来建立一组[测试套件](../Page/测试套件.md "wikilink")，可以用在程序、组件或者嵌入式系统中。就是利用Expect写成的一组测试套件。它被大量地应用于测试
-[gcc](https://zh.wikipedia.org/wiki/gcc "wikilink")，对于远程目标的测试例如嵌入式开发也是非常合适的。
+Expect通常用来建立一组[测试套件](../Page/测试套件.md "wikilink")，可以用在程序、组件或者嵌入式系统中。就是利用Expect写成的一组测试套件。它被大量地应用于测试 [gcc](https://zh.wikipedia.org/wiki/gcc "wikilink")，对于远程目标的测试例如嵌入式开发也是非常合适的。
 
 你可以利用一种叫作"autoexpect"的工具，自动生成expect脚本。这个工具观测你的操作，并利用启发性知识生成expect脚本。尽管生成的代码可能会很长，含义上有点模糊，你可以修改生成的脚本使它成为你需要的代码。
 
@@ -71,9 +69,7 @@ Expect通常用来建立一组[测试套件](../Page/测试套件.md "wikilink")
 
 Expect可通过[cron封装系统管理任务](https://zh.wikipedia.org/wiki/cron "wikilink")，在规定的时期运行。能够这样做是因为Expect仅仅使用已经安装在主机中的系统管理工具，不需要学习额外的工具。如果程序员学过[Tcl](../Page/Tcl.md "wikilink")，那么转移到Expect是一件非常简单的工作，相同的编程结构和语法，再加上一些内置的额外功能。
 
-业界对室内管理任务使用Expect提供了很大的支持。Expect在很多的公司广泛使用，例如Silicon Graphics, IBM, HP,
-Sun, Xerox, Amdahl, Tektronix, AT\&T,
-ComputerVision和世界银行，利用Expect对开发项目、文件传输、帐号管理、网络测试进行室内自动测试。
+业界对室内管理任务使用Expect提供了很大的支持。Expect在很多的公司广泛使用，例如Silicon Graphics, IBM, HP, Sun, Xerox, Amdahl, Tektronix, AT\&T, ComputerVision和世界银行，利用Expect对开发项目、文件传输、帐号管理、网络测试进行室内自动测试。
 
 Expect已经以多种模块的方式移植到Python和Perl语言中。Expect命令的部分子集移植到Java和嵌入到（基于Java的终端仿真器）之中。这些例行程序通常是原程序的同等功能的另一种解释方式。一旦你理解了其中的概念，如果需要的话，换到其它语言，也就很容易了。
 
@@ -94,24 +90,15 @@ Expect自动化控制命令行工具，但是对[图形用户界面](../Page/图
   -
 ## 外部引用
 
-  - [Expect on SourceForge
-    (current)](http://sourceforge.net/projects/expect/)
-  - [Official homepage (*very
-    outdated\!*)](https://web.archive.org/web/20081218233128/http://expect.nist.gov/)
+  - [Expect on SourceForge (current)](http://sourceforge.net/projects/expect/)
+  - [Official homepage (*very outdated\!*)](https://web.archive.org/web/20081218233128/http://expect.nist.gov/)
   - [The Tcler's Wiki -- Expect page](http://wiki.tcl.tk/201)
   - [Perl Expect.pm module](http://sourceforge.net/projects/expectperl)
-  - [Pexpect a Pure Python Expect-like
-    module](http://pexpect.sourceforge.net)
-  - [Expect Scripting
-    Tutorial](https://web.archive.org/web/20081218130427/http://www.gnulamp.com/expect.html)
-  - [Empty - expectlike tool to run command-line interactive programs in
-    UNIX shell-scripts](http://empty.sourceforge.net)
-  - [Expect-lite -- a wrapper for expect, making automation easy, quick,
-    and fun](http://expect-lite.sourceforge.net/)
-  - [Bulletproof: Reliable CLI interface using
-    Expect](https://web.archive.org/web/20180408033212/http://www.cotse.com/dlf/man/expect/bulletproof1.htm)
-  - [ExpectJ - a Java implementation of the Unix expect
-    utility](http://expectj.sourceforge.net/)
+  - [Pexpect a Pure Python Expect-like module](http://pexpect.sourceforge.net)
+  - [Expect Scripting Tutorial](https://web.archive.org/web/20081218130427/http://www.gnulamp.com/expect.html)
+  - [Empty - expectlike tool to run command-line interactive programs in UNIX shell-scripts](http://empty.sourceforge.net)
+  - [Expect-lite -- a wrapper for expect, making automation easy, quick, and fun](http://expect-lite.sourceforge.net/)
+  - [Bulletproof: Reliable CLI interface using Expect](https://web.archive.org/web/20180408033212/http://www.cotse.com/dlf/man/expect/bulletproof1.htm)
+  - [ExpectJ - a Java implementation of the Unix expect utility](http://expectj.sourceforge.net/)
 
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
-[Category:GUI自动化](https://zh.wikipedia.org/wiki/Category:GUI自动化 "wikilink")
+[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:GUI自动化](https://zh.wikipedia.org/wiki/Category:GUI自动化 "wikilink")

@@ -1,5 +1,4 @@
-**IEEE
-829-1998**，也被称做**829软件测试文档标准**，作为一个[IEEE的标准定义了一套文档用于](https://zh.wikipedia.org/wiki/IEEE "wikilink")8个已定义的[软件测试](../Page/软件测试.md "wikilink")阶段，每个阶段可能产生它自己单独的文件类型。这个标准定义了文档的格式但是没有规定它们是否必须全部被应用，也不包括这些文档中任何相关的其它标准的内容。
+**IEEE 829-1998**，也被称做**829软件测试文档标准**，作为一个[IEEE的标准定义了一套文档用于](https://zh.wikipedia.org/wiki/IEEE "wikilink")8个已定义的[软件测试](../Page/软件测试.md "wikilink")阶段，每个阶段可能产生它自己单独的文件类型。这个标准定义了文档的格式但是没有规定它们是否必须全部被应用，也不包括这些文档中任何相关的其它标准的内容。
 
   - [测试计划](https://zh.wikipedia.org/wiki/测试计划 "wikilink")：一个管理计划的文档 包括：
       - 测试如何完成（包括SUT的配置）.
@@ -19,34 +18,21 @@
 
 IEEE 829中可能引用到的其他标准：
 
-  - [IEEE
-    1008](https://zh.wikipedia.org/wiki/IEEE_1008 "wikilink")，用于单元测试的标准
-  - [IEEE
-    1012](https://zh.wikipedia.org/wiki/IEEE_1012 "wikilink")，用于软件检验和验证的标准
-  - [IEEE
-    1028](https://zh.wikipedia.org/wiki/IEEE_1028 "wikilink")，用于软件检查的标准
-  - [IEEE
-    1044](https://zh.wikipedia.org/wiki/IEEE_1044 "wikilink")，用于软件异常分类的标准
-  - [IEEE
-    1044-1](https://zh.wikipedia.org/wiki/IEEE_1044-1 "wikilink")，软件异常分类指南
-  - [IEEE
-    1233](https://zh.wikipedia.org/wiki/IEEE_1233 "wikilink")，开发软件需求规格的指南
-  - [IEEE
-    730](https://zh.wikipedia.org/wiki/IEEE_730 "wikilink")，用于软件质量保证计划的标准
-  - [IEEE
-    1061](https://zh.wikipedia.org/wiki/IEEE_1061 "wikilink")，用于软件质量度量和方法学的标准
-  - [IEEE
-    12207](https://zh.wikipedia.org/wiki/IEEE_12207 "wikilink")，用于软件生命周期过程和软件生命周期数据的标准
-  - [BSS
-    7925-1](https://zh.wikipedia.org/wiki/BSS_7925-1 "wikilink")，软件测试术语词汇表
-  - [BSS
-    7925-2](https://zh.wikipedia.org/wiki/BSS_7925-2 "wikilink")，用于软件组件测试的标准
+  - [IEEE 1008](https://zh.wikipedia.org/wiki/IEEE_1008 "wikilink")，用于单元测试的标准
+  - [IEEE 1012](https://zh.wikipedia.org/wiki/IEEE_1012 "wikilink")，用于软件检验和验证的标准
+  - [IEEE 1028](https://zh.wikipedia.org/wiki/IEEE_1028 "wikilink")，用于软件检查的标准
+  - [IEEE 1044](https://zh.wikipedia.org/wiki/IEEE_1044 "wikilink")，用于软件异常分类的标准
+  - [IEEE 1044-1](https://zh.wikipedia.org/wiki/IEEE_1044-1 "wikilink")，软件异常分类指南
+  - [IEEE 1233](https://zh.wikipedia.org/wiki/IEEE_1233 "wikilink")，开发软件需求规格的指南
+  - [IEEE 730](https://zh.wikipedia.org/wiki/IEEE_730 "wikilink")，用于软件质量保证计划的标准
+  - [IEEE 1061](https://zh.wikipedia.org/wiki/IEEE_1061 "wikilink")，用于软件质量度量和方法学的标准
+  - [IEEE 12207](https://zh.wikipedia.org/wiki/IEEE_12207 "wikilink")，用于软件生命周期过程和软件生命周期数据的标准
+  - [BSS 7925-1](https://zh.wikipedia.org/wiki/BSS_7925-1 "wikilink")，软件测试术语词汇表
+  - [BSS 7925-2](https://zh.wikipedia.org/wiki/BSS_7925-2 "wikilink")，用于软件组件测试的标准
 
 ## 使用IEEE 829
 
-这个标准的內容，有部分是来自于ISEB基金会的培训课程，和（[英国计算机协会](https://zh.wikipedia.org/wiki/英国计算机协会 "wikilink")）推动的软件测试执业证书考试。
-[ISTQB](https://zh.wikipedia.org/wiki/ISTQB "wikilink")（国际软件测试资质认证委员会）遵循基于ISEB（英国信息系统考试委员会）的课程提纲和德国的ASQF教学大纲，同时被IEEE
-829采纳为软件测试文档的参考标准。
+这个标准的內容，有部分是来自于ISEB基金会的培训课程，和（[英国计算机协会](https://zh.wikipedia.org/wiki/英国计算机协会 "wikilink")）推动的软件测试执业证书考试。 [ISTQB](https://zh.wikipedia.org/wiki/ISTQB "wikilink")（国际软件测试资质认证委员会）遵循基于ISEB（英国信息系统考试委员会）的课程提纲和德国的ASQF教学大纲，同时被IEEE 829采纳为软件测试文档的参考标准。
 
 ## 修正
 
@@ -56,15 +42,10 @@ IEEE 829中可能引用到的其他标准：
 
 ## 外部链接
 
-  - [BS7925-2
-    BS7925-2](https://web.archive.org/web/20080316080029/http://www.ruleworks.co.uk/testguide/BS7925-2.htm)
-    - 下载 BS7925-2
-  - [ISEB Testing Documents](http://isebtesting.blogspot.com) - 下载 Iseb
-    测试文件
-  - [IEEE
-    Std 829](https://web.archive.org/web/20090520183903/http://se.inf.ethz.ch/teaching/ss2005/0050/exercises/REMOVED/IEEE%20Std%20829-1998%20test.pdf)
+  - [BS7925-2 BS7925-2](https://web.archive.org/web/20080316080029/http://www.ruleworks.co.uk/testguide/BS7925-2.htm) - 下载 BS7925-2
+  - [ISEB Testing Documents](http://isebtesting.blogspot.com) - 下载 Iseb 测试文件
+  - [IEEE Std 829](https://web.archive.org/web/20090520183903/http://se.inf.ethz.ch/teaching/ss2005/0050/exercises/REMOVED/IEEE%20Std%20829-1998%20test.pdf)
 
 {{-}}
 
-[Category:软件测试](https://zh.wikipedia.org/wiki/Category:软件测试 "wikilink")
-[Category:IEEE标准](https://zh.wikipedia.org/wiki/Category:IEEE标准 "wikilink")
+[Category:软件测试](https://zh.wikipedia.org/wiki/Category:软件测试 "wikilink") [Category:IEEE标准](https://zh.wikipedia.org/wiki/Category:IEEE标准 "wikilink")

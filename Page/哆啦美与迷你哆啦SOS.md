@@ -81,8 +81,4 @@
   - [迷你哆啦SOS\!\!\!](http://v.youku.com/v_show/id_XOTM5OTgzNg==ad.html电影哆啦A梦)
 
   -
-[Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink")
-[Category:1989年電影](https://zh.wikipedia.org/wiki/Category:1989年電影 "wikilink")
-[Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink")
-[Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink")
-[Category:2014年背景電影](https://zh.wikipedia.org/wiki/Category:2014年背景電影 "wikilink")
+[Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink") [Category:1989年電影](https://zh.wikipedia.org/wiki/Category:1989年電影 "wikilink") [Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink") [Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink") [Category:2014年背景電影](https://zh.wikipedia.org/wiki/Category:2014年背景電影 "wikilink")

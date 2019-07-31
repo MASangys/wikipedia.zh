@@ -1,26 +1,12 @@
-**國際魔術組織聯盟**（，，縮寫：FISM）創立於1948年，是魔術界公認的權威魔術組織之一。目前擁有來自五十個國家和地區超過八十個會員組織和约五萬名會員，其中包括台灣的[黑帽魔術協會與](https://zh.wikipedia.org/wiki/黑帽魔術協會 "wikilink")[台灣魔術發展協會](https://zh.wikipedia.org/wiki/台灣魔術發展協會 "wikilink")（TMA）兩個組織，另外[808魔術道具店也正在著手申請入會中](https://zh.wikipedia.org/wiki/808魔術道具店 "wikilink")。
-FISM組織每三年舉行世界性的魔術大會，由會員組織爭取主辦權，世界各地頂尖的魔術師將在此角逐“世界魔術冠軍”的稱號；在此之前，各地區也會舉辦地區性的選拔會[FISM
-Europe](https://zh.wikipedia.org/wiki/FISM_Europe "wikilink")、[FISM
-Asia](https://zh.wikipedia.org/wiki/FISM_Asia "wikilink")、[FISM North
-America](https://zh.wikipedia.org/wiki/FISM_North_America "wikilink")、[FISM
-Latin
-America](https://zh.wikipedia.org/wiki/FISM_Latin_America "wikilink")、[FISM
-Africa](https://zh.wikipedia.org/wiki/FISM_Africa "wikilink")、[FISM
-Oceania](https://zh.wikipedia.org/wiki/FISM_Oceania "wikilink")，會員組織則擁有所屬地區選拔會推薦參賽的名額。
+**國際魔術組織聯盟**（，，縮寫：FISM）創立於1948年，是魔術界公認的權威魔術組織之一。目前擁有來自五十個國家和地區超過八十個會員組織和约五萬名會員，其中包括台灣的[黑帽魔術協會與](https://zh.wikipedia.org/wiki/黑帽魔術協會 "wikilink")[台灣魔術發展協會](https://zh.wikipedia.org/wiki/台灣魔術發展協會 "wikilink")（TMA）兩個組織，另外[808魔術道具店也正在著手申請入會中](https://zh.wikipedia.org/wiki/808魔術道具店 "wikilink")。 FISM組織每三年舉行世界性的魔術大會，由會員組織爭取主辦權，世界各地頂尖的魔術師將在此角逐“世界魔術冠軍”的稱號；在此之前，各地區也會舉辦地區性的選拔會[FISM Europe](https://zh.wikipedia.org/wiki/FISM_Europe "wikilink")、[FISM Asia](https://zh.wikipedia.org/wiki/FISM_Asia "wikilink")、[FISM North America](https://zh.wikipedia.org/wiki/FISM_North_America "wikilink")、[FISM Latin America](https://zh.wikipedia.org/wiki/FISM_Latin_America "wikilink")、[FISM Africa](https://zh.wikipedia.org/wiki/FISM_Africa "wikilink")、[FISM Oceania](https://zh.wikipedia.org/wiki/FISM_Oceania "wikilink")，會員組織則擁有所屬地區選拔會推薦參賽的名額。
 
-在FISM的比賽規則中，可分為舞台（Stage）以及近距離（Close-up）兩個領域；再往下細分，舞台領域下有一般部門（General
-Magic）、手法部門（Manipulation）、心靈魔術部門（Mentalism）、喜劇部門（Comedy）、大型幻術部門（Stage
-Illusions）；近距離領域下則有廳堂魔術部門（Parlour Magic）、近距離紙牌部門（Close-up
-Cards）、微型魔術部門（Micromagic）；除此之外還有魔術發明獎（Invention）和最佳原創魔術獎(Original)，最後每個部門的冠軍再角逐舞台以及近距離兩個領域的總冠軍（Grand
-Prix）。
+在FISM的比賽規則中，可分為舞台（Stage）以及近距離（Close-up）兩個領域；再往下細分，舞台領域下有一般部門（General Magic）、手法部門（Manipulation）、心靈魔術部門（Mentalism）、喜劇部門（Comedy）、大型幻術部門（Stage Illusions）；近距離領域下則有廳堂魔術部門（Parlour Magic）、近距離紙牌部門（Close-up Cards）、微型魔術部門（Micromagic）；除此之外還有魔術發明獎（Invention）和最佳原創魔術獎(Original)，最後每個部門的冠軍再角逐舞台以及近距離兩個領域的總冠軍（Grand Prix）。
 
 ## 歷史
 
-起源自1937年由法國的[Jules
-Dhotel所提倡的](https://zh.wikipedia.org/wiki/Jules_Dhotel "wikilink")，以世界為規模進行魔術交流為目標的草案，當時因第二次世界大戰影響而不了了之，而在戰後，1948年，於瑞士‧洛桑成立。目前已有50個國家、超過80個會員組織、以及50000名以上的會員。FISM在法律上並未在任何國家以組織形式註冊，但從歷史面來說是為了在瑞士註冊而進行活動。
+起源自1937年由法國的[Jules Dhotel所提倡的](https://zh.wikipedia.org/wiki/Jules_Dhotel "wikilink")，以世界為規模進行魔術交流為目標的草案，當時因第二次世界大戰影響而不了了之，而在戰後，1948年，於瑞士‧洛桑成立。目前已有50個國家、超過80個會員組織、以及50000名以上的會員。FISM在法律上並未在任何國家以組織形式註冊，但從歷史面來說是為了在瑞士註冊而進行活動。
 
-2005年，由FISM事務局局長[Eric
-Eswin向各國魔術組織代表發表](https://zh.wikipedia.org/wiki/Eric_Eswin "wikilink")「對於FISM的未來」一文。自此，以「FISM應成為促進魔術發展的全球性基礎」、「為發展成國際的前導性專業魔術機構，對於今後的活動與系統需進行調整」為目標而持續發展。FISM自以歐洲為中心的組織脫離出來，為了在國際被認識，推動在全世界成立非洲、亞洲、歐洲、北美洲、中南美洲、澳洲等六大洲的組織，並將這些作為FISM的分支組織的構想。
+2005年，由FISM事務局局長[Eric Eswin向各國魔術組織代表發表](https://zh.wikipedia.org/wiki/Eric_Eswin "wikilink")「對於FISM的未來」一文。自此，以「FISM應成為促進魔術發展的全球性基礎」、「為發展成國際的前導性專業魔術機構，對於今後的活動與系統需進行調整」為目標而持續發展。FISM自以歐洲為中心的組織脫離出來，為了在國際被認識，推動在全世界成立非洲、亞洲、歐洲、北美洲、中南美洲、澳洲等六大洲的組織，並將這些作為FISM的分支組織的構想。
 
 FISM的基本理念，是促進不同國家的魔術文化及魔術師之間的交流、以及賽事的營運，而實踐這些的FISM世界魔術大會為三年舉辦一次。
 
@@ -334,16 +320,10 @@ FISM世界魔術大會
 
 
 FISM地區性選拔會
-2014年 FISM North America
-於07/01\~07/05在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[聖路易斯舉行](https://zh.wikipedia.org/wiki/聖路易斯 "wikilink")。
-2014年 FISM Europe 於09/24\~09/28
-由法國[FFAP舉辦於遊輪上](https://zh.wikipedia.org/wiki/FFAP "wikilink")
-9/24於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[馬賽出發](https://zh.wikipedia.org/wiki/馬賽 "wikilink")，中途停靠[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[阿雅克肖](../Page/阿雅克肖.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")[帕爾馬](https://zh.wikipedia.org/wiki/帕爾馬 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")，09/28駛回
-[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")。
-2014年 FISM Asia
-於10/30\~11/02在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[仁川舉行](https://zh.wikipedia.org/wiki/仁川 "wikilink")。
-2017年 FISM Asia
-於11/02\~11/05在[日本](../Page/日本.md "wikilink")[岐阜舉行](https://zh.wikipedia.org/wiki/岐阜 "wikilink")。
+2014年 FISM North America 於07/01\~07/05在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[聖路易斯舉行](https://zh.wikipedia.org/wiki/聖路易斯 "wikilink")。
+2014年 FISM Europe 於09/24\~09/28 由法國[FFAP舉辦於遊輪上](https://zh.wikipedia.org/wiki/FFAP "wikilink") 9/24於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[馬賽出發](https://zh.wikipedia.org/wiki/馬賽 "wikilink")，中途停靠[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[阿雅克肖](../Page/阿雅克肖.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")[帕爾馬](https://zh.wikipedia.org/wiki/帕爾馬 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")，09/28駛回 [法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")。
+2014年 FISM Asia 於10/30\~11/02在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[仁川舉行](https://zh.wikipedia.org/wiki/仁川 "wikilink")。
+2017年 FISM Asia 於11/02\~11/05在[日本](../Page/日本.md "wikilink")[岐阜舉行](https://zh.wikipedia.org/wiki/岐阜 "wikilink")。
 
 ## 歷屆台灣得獎者暨嘉賓
 
@@ -362,17 +342,11 @@ FISM地區性選拔會
 ## 參考資料
 
   - [FISM 官方網站](http://www.fism.org/)
-  - [2014 IBM/SAM/FISM North America 美國密蘇里州聖路易斯 大會
-    官方網站](https://web.archive.org/web/20140714181514/http://ibmsam.com/)
-  - [2014 AMA/FISM Asia 韓國仁川 大會
-    官方網站](https://web.archive.org/web/20140714181940/http://www.2014fismacm.com/)
+  - [2014 IBM/SAM/FISM North America 美國密蘇里州聖路易斯 大會 官方網站](https://web.archive.org/web/20140714181514/http://ibmsam.com/)
+  - [2014 AMA/FISM Asia 韓國仁川 大會 官方網站](https://web.archive.org/web/20140714181940/http://www.2014fismacm.com/)
   - [2014 FFAP/FISM Europe 大會 官方網站](http://www.ecm2014fism.com/)
-  - [2015 第26屆 FISM義大利里米尼大會
-    官方網站](https://web.archive.org/web/20120722034421/http://www.fismitaly2015.com/)
-  - [2017 FISM Asia 日本岐阜大會
-    官方網站](https://web.archive.org/web/20180110174454/https://www.fism.asia/acm2017/JPN/index.html)
+  - [2015 第26屆 FISM義大利里米尼大會 官方網站](https://web.archive.org/web/20120722034421/http://www.fismitaly2015.com/)
+  - [2017 FISM Asia 日本岐阜大會 官方網站](https://web.archive.org/web/20180110174454/https://www.fism.asia/acm2017/JPN/index.html)
   - [2018 第27屆 FISM韓國釜山大會 官方網站](https://2018fismbusan.com)
 
-[Category:魔術](https://zh.wikipedia.org/wiki/Category:魔術 "wikilink")
-[Category:魔術組織](https://zh.wikipedia.org/wiki/Category:魔術組織 "wikilink")
-[Category:國際組織](https://zh.wikipedia.org/wiki/Category:國際組織 "wikilink")
+[Category:魔術](https://zh.wikipedia.org/wiki/Category:魔術 "wikilink") [Category:魔術組織](https://zh.wikipedia.org/wiki/Category:魔術組織 "wikilink") [Category:國際組織](https://zh.wikipedia.org/wiki/Category:國際組織 "wikilink")

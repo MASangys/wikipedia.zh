@@ -44,9 +44,4 @@
 
 ## 作品的變遷
 
-[Category:堀北真希](https://zh.wikipedia.org/wiki/Category:堀北真希 "wikilink")
-[Category:富士電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週六連續劇 "wikilink")
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:2009年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2009年電視特別劇集 "wikilink")
-[Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
+[Category:堀北真希](https://zh.wikipedia.org/wiki/Category:堀北真希 "wikilink") [Category:富士電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週六連續劇 "wikilink") [Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:2009年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2009年電視特別劇集 "wikilink") [Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")

@@ -1,5 +1,4 @@
-本列表列出目前所有[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")》所使用的歌曲專輯。
+本列表列出目前所有[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》所使用的歌曲專輯。
 
 ## 原聲帶
 
@@ -92,11 +91,8 @@
 32. SCENERY
 33. BEATING
 34. CROSS ROAD
-35. [DAYBREAK'S
-    BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")（TV
-    SIZE-EDIT）／L'Arc\~en\~Ciel
-36. [Wana](https://zh.wikipedia.org/wiki/Wana "wikilink")（TV
-    SIZE-EDIT）／THE BACK HORN
+35. [DAYBREAK'S BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")（TV SIZE-EDIT）／L'Arc\~en\~Ciel
+36. [Wana](https://zh.wikipedia.org/wiki/Wana "wikilink")（TV SIZE-EDIT）／THE BACK HORN
 
 ### 機動戰士GUNDAM 00原聲帶 03
 
@@ -135,11 +131,8 @@
 19. Interception
 20. The Devine
 21. Restart
-22. [Ash Like
-    Snow](https://zh.wikipedia.org/wiki/Ash_Like_Snow "wikilink")（TV
-    SIZE-EDIT）／the brilliant green
-23. [Friends](https://zh.wikipedia.org/wiki/朋友_\(Stephanie專輯\) "wikilink")（TV
-    SIZE-EDIT）／Stephanie
+22. [Ash Like Snow](https://zh.wikipedia.org/wiki/Ash_Like_Snow "wikilink")（TV SIZE-EDIT）／the brilliant green
+23. [Friends](https://zh.wikipedia.org/wiki/朋友_\(Stephanie專輯\) "wikilink")（TV SIZE-EDIT）／Stephanie
 
 ### 機動戰士GUNDAM 00原聲帶 04
 
@@ -354,8 +347,7 @@
 
 #### TOMORROW
 
-機動戰士GUNDAM
-00第四首片尾曲（第二季第14話），聲優[恒松步](../Page/恒松步.md "wikilink")以[瑪莉娜·伊士麥之名所唱](https://zh.wikipedia.org/wiki/瑪莉娜·伊士麥 "wikilink")\[5\]，也有一部份用在第15話。
+機動戰士GUNDAM 00第四首片尾曲（第二季第14話），聲優[恒松步](../Page/恒松步.md "wikilink")以[瑪莉娜·伊士麥之名所唱](https://zh.wikipedia.org/wiki/瑪莉娜·伊士麥 "wikilink")\[5\]，也有一部份用在第15話。
 
 **商品番號**
 
@@ -489,8 +481,7 @@
 
 ## 参见
 
-[Category:GUNDAM_00歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM_00歌曲 "wikilink")
-[Category:動畫原聲帶](https://zh.wikipedia.org/wiki/Category:動畫原聲帶 "wikilink")
+[Category:GUNDAM_00歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM_00歌曲 "wikilink") [Category:動畫原聲帶](https://zh.wikipedia.org/wiki/Category:動畫原聲帶 "wikilink")
 
 1.
 2.

@@ -1,11 +1,6 @@
-**Elder
-Club**（）此一詞在2006年的演唱會開始被使用，之後由[早安家族](../Page/早安家族.md "wikilink")藝人的路線分成兩部分，另一為[Wonderful
-Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
+**Elder Club**（）此一詞在2006年的演唱會開始被使用，之後由[早安家族](../Page/早安家族.md "wikilink")藝人的路線分成兩部分，另一為[Wonderful Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
 
-  - UFA 以於2008年10月19日發表，エルダークラブ所屬成員在2009年家族演唱會上全數卒業，演唱會標題為[Hello！Project
-    2009 Winter 決定！ハロ☆プロ アワード ’09
-    ～エルダークラブ卒業記念スペシャル～](https://zh.wikipedia.org/wiki/Hello！Project_2009_Winter_決定！ハロ☆プロ_アワード_’09_～エルダークラブ卒業記念スペシャル～ "wikilink")
-    。
+  - UFA 以於2008年10月19日發表，エルダークラブ所屬成員在2009年家族演唱會上全數卒業，演唱會標題為[Hello！Project 2009 Winter 決定！ハロ☆プロ アワード ’09 ～エルダークラブ卒業記念スペシャル～](https://zh.wikipedia.org/wiki/Hello！Project_2009_Winter_決定！ハロ☆プロ_アワード_’09_～エルダークラブ卒業記念スペシャル～ "wikilink") 。
 
 ## 所屬團員
 
@@ -35,8 +30,7 @@ Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
 
 2007年6月早安家族官方網站的更新，揭載早安家族所屬的團體或個人的個人檔案被分為「ワンダフルハーツ」和「エルダークラブ」。
 
-由[ワンダフルハーツ移籍](https://zh.wikipedia.org/wiki/ワンダフルハーツ "wikilink")[エルダークラブ](https://zh.wikipedia.org/wiki/エルダークラブ "wikilink")
-以下成員，早安少女組｡在籍中時為ワンダフルハーツ成員
+由[ワンダフルハーツ移籍](https://zh.wikipedia.org/wiki/ワンダフルハーツ "wikilink")[エルダークラブ](https://zh.wikipedia.org/wiki/エルダークラブ "wikilink") 以下成員，早安少女組｡在籍中時為ワンダフルハーツ成員
 
   - [紺野朝美](../Page/紺野朝美.md "wikilink")（至2006年7月）
   - [小川麻琴](https://zh.wikipedia.org/wiki/小川麻琴 "wikilink")（至2006年8月）
@@ -58,14 +52,12 @@ Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
 <!-- end list -->
 
   - 東京電視台深夜迷你帶節目系列
-      - [娘DOKYU\!](https://zh.wikipedia.org/wiki/娘DOKYU! "wikilink")（2005年4月－2006年9月），最終期的構成是播出戲劇「絵流田4丁目の人々」和追蹤記錄影像「娘DOKYU\!
-        EXTRA」，エルダークラブ的團體和成員參加前者的演出。
+      - [娘DOKYU\!](https://zh.wikipedia.org/wiki/娘DOKYU! "wikilink")（2005年4月－2006年9月），最終期的構成是播出戲劇「絵流田4丁目の人々」和追蹤記錄影像「娘DOKYU\! EXTRA」，エルダークラブ的團體和成員參加前者的演出。
 
 ## 演唱會
 
   - 「Hello\! Project 2006 Winter ～エルダークラブ～」（2006年1月2日－22日 3都市13公演）
-  - 「Hello\! Project 2007 Winter ～エルダークラブ The
-    Celebration～」（2007年1月5日－20日 3都市11公演）
+  - 「Hello\! Project 2007 Winter ～エルダークラブ The Celebration～」（2007年1月5日－20日 3都市11公演）
   - 「Hello\! Project 2008 Winter ～かしまし エルダークラブ～」（2008年1月5日－19日 3都市9公演）
 
 ## 光碟
@@ -83,7 +75,6 @@ Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
 ## 外部連結
 
   - [早安家族台灣私設FC族譜](http://wiki.helloproject.tw/%E3%82%A8%E3%83%AB%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96)
-  - [Hatena
-    Keyword](http://d.hatena.ne.jp/keyword/%A5%A8%A5%EB%A5%C0%A1%BC%A5%AF%A5%E9%A5%D6)
+  - [Hatena Keyword](http://d.hatena.ne.jp/keyword/%A5%A8%A5%EB%A5%C0%A1%BC%A5%AF%A5%E9%A5%D6)
 
 [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")

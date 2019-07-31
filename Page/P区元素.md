@@ -1,5 +1,4 @@
-[Orbitalblöcke.svg](https://zh.wikipedia.org/wiki/File:Orbitalblöcke.svg "fig:Orbitalblöcke.svg")
-**p区元素**包括[元素周期表中IIIA族](../Page/元素周期表.md "wikilink")[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")\~VIIIA族元素。
+[Orbitalblöcke.svg](https://zh.wikipedia.org/wiki/File:Orbitalblöcke.svg "fig:Orbitalblöcke.svg") **p区元素**包括[元素周期表](../Page/元素周期表.md "wikilink")中IIIA族[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")\~VIIIA族元素。
 
 IIIA族元素又称为[硼族元素](../Page/硼族元素.md "wikilink")，包括[硼](../Page/硼.md "wikilink")、[铝](../Page/铝.md "wikilink")、[镓](../Page/镓.md "wikilink")、[铟](../Page/铟.md "wikilink")、[铊](../Page/铊.md "wikilink")、[鉨](https://zh.wikipedia.org/wiki/鉨 "wikilink")、[Uht等元素](https://zh.wikipedia.org/wiki/Uht "wikilink")；
 
@@ -11,16 +10,9 @@ VIA族元素又称为[氧族元素](../Page/氧族元素.md "wikilink")，包括
 
 VIIA族元素又称[卤素](../Page/卤素.md "wikilink")，包括[氟](../Page/氟.md "wikilink")、[氯](../Page/氯.md "wikilink")、[溴](../Page/溴.md "wikilink")、[碘](../Page/碘.md "wikilink")、[砹](../Page/砹.md "wikilink")、[Ts](https://zh.wikipedia.org/wiki/Ts "wikilink")、[Uhs等元素](https://zh.wikipedia.org/wiki/Uhs "wikilink")；
 
-VIIIA族元素或0族元素，又称为[稀有气体或惰性气体](../Page/稀有气体.md "wikilink")，包括[氖](../Page/氖.md "wikilink")、[氩](../Page/氩.md "wikilink")、[氪](../Page/氪.md "wikilink")、[氙](../Page/氙.md "wikilink")、[氡](../Page/氡.md "wikilink")、[Og](https://zh.wikipedia.org/wiki/Og "wikilink")、[Uho等元素](https://zh.wikipedia.org/wiki/Uho "wikilink")。（氦为s区元素）
+VIIIA族元素或0族元素，又称为[稀有气体](../Page/稀有气体.md "wikilink")或惰性气体，包括[氖](../Page/氖.md "wikilink")、[氩](../Page/氩.md "wikilink")、[氪](../Page/氪.md "wikilink")、[氙](../Page/氙.md "wikilink")、[氡](../Page/氡.md "wikilink")、[Og](https://zh.wikipedia.org/wiki/Og "wikilink")、[Uho等元素](https://zh.wikipedia.org/wiki/Uho "wikilink")。（氦为s区元素）
 
-\- {{\!}}align=right{{\!}}**族→** \!**[13](../Page/硼族元素.md "wikilink")**
-\!**[14](../Page/碳族元素.md "wikilink")**
-\!**[15](../Page/氮族元素.md "wikilink")**
-\!**[16](../Page/氧族元素.md "wikilink")**
-\!**[17](https://zh.wikipedia.org/wiki/鹵素 "wikilink")**
-\!**[18](https://zh.wikipedia.org/wiki/稀有氣體 "wikilink")**
-|period1tail={{\!}}{{\!}}|period2tail={{\!}}{{\!}}|period3tail={{\!}}{{\!}}|period4tail={{\!}}{{\!}}|period5tail={{\!}}{{\!}}|period6tail={{\!}}{{\!}}|period7tail={{\!}}{{\!}}|periodtopmiddle=​|period1middle={{\!}}colspan=5{{\!}}
-}}
+\- {{\!}}align=right{{\!}}**族→** \!**[13](../Page/硼族元素.md "wikilink")** \!**[14](../Page/碳族元素.md "wikilink")** \!**[15](../Page/氮族元素.md "wikilink")** \!**[16](../Page/氧族元素.md "wikilink")** \!**[17](https://zh.wikipedia.org/wiki/鹵素 "wikilink")** \!**[18](https://zh.wikipedia.org/wiki/稀有氣體 "wikilink")** |period1tail={{\!}}{{\!}}|period2tail={{\!}}{{\!}}|period3tail={{\!}}{{\!}}|period4tail={{\!}}{{\!}}|period5tail={{\!}}{{\!}}|period6tail={{\!}}{{\!}}|period7tail={{\!}}{{\!}}|periodtopmiddle=​|period1middle={{\!}}colspan=5{{\!}} }}
 
 ## 参见
 

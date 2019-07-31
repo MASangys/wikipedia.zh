@@ -1,11 +1,8 @@
-《**WILD
-EYES**》是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[KING
-RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2005年5月18日發售\[1\]。
+《**WILD EYES**》是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[KING RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2005年5月18日發售\[1\]。
 
 ## 解説
 
-「WILD EYES」和「HIME
-MURASAKI」這兩首曲目均為動畫「[BASILISK甲賀忍法帖](https://zh.wikipedia.org/wiki/BASILISK甲賀忍法帖 "wikilink")」的片尾曲。
+「WILD EYES」和「HIME MURASAKI」這兩首曲目均為動畫「[BASILISK甲賀忍法帖](https://zh.wikipedia.org/wiki/BASILISK甲賀忍法帖 "wikilink")」的片尾曲。
 
 ## 收錄曲
 
@@ -25,8 +22,6 @@ MURASAKI」這兩首曲目均為動畫「[BASILISK甲賀忍法帖](https://zh.wi
 
 ## 注釋
 
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink")
+[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink")
 
 1.

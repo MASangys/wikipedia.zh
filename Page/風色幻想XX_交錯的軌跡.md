@@ -1,4 +1,4 @@
-《**風色幻想XX～交錯的軌跡～**》是由[弘煜科技开发的](../Page/弘煜科技.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")，為[風色幻想系列的赤藍系列完結篇的首部曲](../Page/風色幻想系列.md "wikilink")。於2008年6月24日在[台湾發售](https://zh.wikipedia.org/wiki/台湾 "wikilink")，[中国大陆则由](../Page/中国大陆.md "wikilink")[寰宇之星代理](../Page/寰宇之星.md "wikilink")，於2009年7月10日发行。
+《**風色幻想XX～交錯的軌跡～**》是由[弘煜科技](../Page/弘煜科技.md "wikilink")开发的[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")，為[風色幻想系列](../Page/風色幻想系列.md "wikilink")的赤藍系列完結篇的首部曲。於2008年6月24日在[台湾發售](https://zh.wikipedia.org/wiki/台湾 "wikilink")，[中国大陆](../Page/中国大陆.md "wikilink")则由[寰宇之星](../Page/寰宇之星.md "wikilink")代理，於2009年7月10日发行。
 
 樹羅大地，一個冒險旅人們口耳相傳的傳說之地，有人稱她為「夢幻之地」、或稱她為「最後的淨土」，也有人稱她為「東方桃花源」，當然就因為至今一直都未有人能道出其所在，因此這片大地迥異於外界的始源之地，仍然優雅的保持著她神秘姿態，佇立著....
 
@@ -126,6 +126,4 @@
   - [弘煜科技事業股份有限公司](http://www.fy.com.tw/index.htm)
   - [寰宇之星软件有限公司](http://www.unistar.net.cn/)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:戰略角色扮演遊戲 "wikilink")
-[Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:戰略角色扮演遊戲 "wikilink") [Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink")

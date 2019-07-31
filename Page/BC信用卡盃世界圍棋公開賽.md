@@ -1,8 +1,6 @@
-**BC信用卡盃世界圍棋公開賽** ( BC card Cup World Baduk Championship) ，
-簡稱**BC卡盃**，是[圍棋主要國際賽事之一](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。
+**BC信用卡盃世界圍棋公開賽** ( BC card Cup World Baduk Championship) ， 簡稱**BC卡盃**，是[圍棋主要國際賽事之一](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。
 
-前身為[韓國國內賽事BC信用卡盃](https://zh.wikipedia.org/wiki/韓國 "wikilink")[新人王戰](https://zh.wikipedia.org/wiki/新人王戰 "wikilink")，[韓國棋院主辦](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")，圍棋TV，NHN協辦
-， [BC信用卡公司贊助](https://zh.wikipedia.org/wiki/BC信用卡 "wikilink")。
+前身為[韓國國內賽事BC信用卡盃](https://zh.wikipedia.org/wiki/韓國 "wikilink")[新人王戰](https://zh.wikipedia.org/wiki/新人王戰 "wikilink")，[韓國棋院主辦](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")，圍棋TV，NHN協辦 ， [BC信用卡公司贊助](https://zh.wikipedia.org/wiki/BC信用卡 "wikilink")。
 
 2008年韓國棋院通過決議，2009年起賽事採[獎金制](https://zh.wikipedia.org/wiki/獎金制 "wikilink")，[公開賽制](https://zh.wikipedia.org/wiki/公開賽制 "wikilink")，以創新現有圍棋體制,創建新的世界圍棋大賽\[1\]。2012年BC信用卡公司被韩国KT公司(电信会社)收购，此前两公司均致力于赞助围棋比赛。BC信用卡盃世界圍棋公開賽历经四届赛事之后将停办，KT杯(韩国电信会社杯)有望接替填补空白，如今两公司合并后，两大赛事可能合二为一\[2\]。
 
@@ -159,10 +157,6 @@
 [Category:国际围棋比赛](https://zh.wikipedia.org/wiki/Category:国际围棋比赛 "wikilink")
 
 1.  韓國新人王戰1991年－2008，其中前五屆為新王戰，第六屆改制為新人王戰
-2.  [BC信用卡杯完成历史使命
-    中韩均有望推出新的世界大赛](http://weiqi.sports.tom.com/2013-02-17/00UP/34330748.html)
-3.  [14岁新锐收到春节大礼
-    李东勋获赠第4届BC信用卡杯外卡](http://post.weiqi.tom.com/s/250008F65512.html)
-
-4.  [BC卡杯孔杰牛雨田半目险胜
-    超新星PK芈昱廷淘汰朴廷桓](http://weiqi.sports.tom.com/2012-03-03/00UP/24060459.html)
+2.  [BC信用卡杯完成历史使命 中韩均有望推出新的世界大赛](http://weiqi.sports.tom.com/2013-02-17/00UP/34330748.html)
+3.  [14岁新锐收到春节大礼 李东勋获赠第4届BC信用卡杯外卡](http://post.weiqi.tom.com/s/250008F65512.html)
+4.  [BC卡杯孔杰牛雨田半目险胜 超新星PK芈昱廷淘汰朴廷桓](http://weiqi.sports.tom.com/2012-03-03/00UP/24060459.html)

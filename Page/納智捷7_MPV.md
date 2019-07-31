@@ -1,7 +1,4 @@
-**納智捷7 MPV**（**Luxgen7
-MPV**）是一款由[裕隆汽車于](https://zh.wikipedia.org/wiki/裕隆汽車 "wikilink")2009年起根據推出的7人商旅车系列。此車以Renault
-Espace底盤為基礎進行改良。有 2.2L
-和電動引擎兩種款.售價依配備為台幣NT$79萬到NT$108萬之間。之後2013年版本旗艦型漲到110萬。
+**納智捷7 MPV**（**Luxgen7 MPV**）是一款由[裕隆汽車于](https://zh.wikipedia.org/wiki/裕隆汽車 "wikilink")2009年起根據推出的7人商旅车系列。此車以Renault Espace底盤為基礎進行改良。有 2.2L 和電動引擎兩種款.售價依配備為台幣NT$79萬到NT$108萬之間。之後2013年版本旗艦型漲到110萬。
 
 該車主打智慧型電腦成分，由[宏達電開發了](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[車載資訊系統](../Page/車載資訊系統.md "wikilink")和[電子穩定程序](https://zh.wikipedia.org/wiki/電子穩定程序 "wikilink")，稱為THINK+系統，特色為聲控功能、衛星導航、全車最多8顆CCD，其中包含夜視攝影機，並有3.5G行動上網功能可以更新系統和下載旅遊、商店、交通資訊，可以說是一種搭載客製化軟體的筆記型電腦內建於[儀表板上](../Page/汽車儀表.md "wikilink")。\[1\]
 
@@ -38,7 +35,6 @@ Espace底盤為基礎進行改良。有 2.2L
 
 ## 參考資料
 
-[Category:納智捷車輛](https://zh.wikipedia.org/wiki/Category:納智捷車輛 "wikilink")
-[Category:多功能休旅車](https://zh.wikipedia.org/wiki/Category:多功能休旅車 "wikilink")
+[Category:納智捷車輛](https://zh.wikipedia.org/wiki/Category:納智捷車輛 "wikilink") [Category:多功能休旅車](https://zh.wikipedia.org/wiki/Category:多功能休旅車 "wikilink")
 
 1.  [裕隆最後一搏，納智捷7全速啟航](http://news.chinatimes.com/focus/501010111/112011120800479.html)

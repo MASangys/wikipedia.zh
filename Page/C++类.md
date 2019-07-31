@@ -2,23 +2,11 @@ C++程序设计允许[程序员](../Page/程序员.md "wikilink")使用**类**�
 
 ## C 结构体与C++ 类的对比
 
-在 C++ 中，**结构体** 是由关键词 `struct`
-定义的一种数据类型\[1\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
-(2003). *[ISO/IEC 14882:2003(E): Programming Languages -
-C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9 Classes
-\[class\]* para. 4</ref>。他的成员和基类默认为公有的（public）。由关键词 `class`
-定义的成员和基类默认为私有的（private）。这是C++中结构体和类仅有的区别。
+在 C++ 中，**结构体** 是由关键词 `struct` 定义的一种数据类型\[1\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink") (2003). *[ISO/IEC 14882:2003(E): Programming Languages - C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9 Classes \[class\]* para. 4</ref>。他的成员和基类默认为公有的（public）。由关键词 `class` 定义的成员和基类默认为私有的（private）。这是C++中结构体和类仅有的区别。
 
 ### 聚合类
 
-聚合类是一种没有用户定义的构造函数，没有私有（private）和保护（protected）非静态数据成员，没有基类，没有虚函数\[2\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
-(2003). *[ISO/IEC 14882:2003(E): Programming Languages -
-C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §8.5.1
-Aggregates \[dcl.init.aggr\]* para.
-1</ref>。这样的类可以由封闭的大括号用逗号分隔开初始化列表\[3\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
-(2003). *[ISO/IEC 14882:2003(E): Programming Languages -
-C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §8.5.1
-Aggregates \[dcl.init.aggr\]* para. 2</ref>。下列的代码在 C 和 C++ 具有相同的语法：
+聚合类是一种没有用户定义的构造函数，没有私有（private）和保护（protected）非静态数据成员，没有基类，没有虚函数\[2\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink") (2003). *[ISO/IEC 14882:2003(E): Programming Languages - C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §8.5.1 Aggregates \[dcl.init.aggr\]* para. 1</ref>。这样的类可以由封闭的大括号用逗号分隔开初始化列表\[3\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink") (2003). *[ISO/IEC 14882:2003(E): Programming Languages - C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §8.5.1 Aggregates \[dcl.init.aggr\]* para. 2</ref>。下列的代码在 C 和 C++ 具有相同的语法：
 
 ``` cpp
 struct C
@@ -43,35 +31,19 @@ D d = { 10, 20, { 1, 2 } };
 
 ### POD 结构
 
-一个[POD结构](https://zh.wikipedia.org/wiki/普通旧式数据结构 "wikilink")（普通旧式数据结构）是一个不包含非POD结构、非POD联合（或者这些类型的数组）或引用的非静态成员变量（静态成员没有限制），并且没有用户定义的[赋值运算符和](https://zh.wikipedia.org/wiki/赋值运算符_\(C++\) "wikilink")[析构器的聚合类](https://zh.wikipedia.org/wiki/析构器 "wikilink")。\[4\]
-一个POD结构可以说是C
-`struct`在C++中的等价物。在大多数情况下，一个POD结构拥有和一个在C中声明的对应的结构相同的内存布局。\[5\]因此，POD结构有时不正式地被称为“C风格结构”（C-style
-struct）。 \[6\]
+一个[POD结构](https://zh.wikipedia.org/wiki/普通旧式数据结构 "wikilink")（普通旧式数据结构）是一个不包含非POD结构、非POD联合（或者这些类型的数组）或引用的非静态成员变量（静态成员没有限制），并且没有用户定义的[赋值运算符和](https://zh.wikipedia.org/wiki/赋值运算符_\(C++\) "wikilink")[析构器的聚合类](https://zh.wikipedia.org/wiki/析构器 "wikilink")。\[4\] 一个POD结构可以说是C `struct`在C++中的等价物。在大多数情况下，一个POD结构拥有和一个在C中声明的对应的结构相同的内存布局。\[5\]因此，POD结构有时不正式地被称为“C风格结构”（C-style struct）。 \[6\]
 
 #### C结构与C++ POD结构共有的属性
 
-  - 数据成员被分配使得一个对象中之后的成员有着更高的地址，除非跨越了一个访问描述符\[7\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
-    (2003). *[ISO/IEC 14882:2003(E): Programming Languages -
-    C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9.2
-    Class members \[class.mem\]* para. 12</ref>。
-  - 两个POD结构类型是布局兼容的如果它们有相同数量的非静态数据成员，而且对应的非静态数据成员（按照顺序）是布局兼容的\[8\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
-    (2003). *[ISO/IEC 14882:2003(E): Programming Languages -
-    C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9.2
-    Class members \[class.mem\]* para. 14</ref>。
-  - 一个POD结构可以包含未命名的[填充](../Page/数据结构对齐.md "wikilink")\[9\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
-    (2003). *[ISO/IEC 14882:2003(E): Programming Languages -
-    C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9.2
-    Class members \[class.mem\]* para. 17</ref>。
+  - 数据成员被分配使得一个对象中之后的成员有着更高的地址，除非跨越了一个访问描述符\[7\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink") (2003). *[ISO/IEC 14882:2003(E): Programming Languages - C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9.2 Class members \[class.mem\]* para. 12</ref>。
+  - 两个POD结构类型是布局兼容的如果它们有相同数量的非静态数据成员，而且对应的非静态数据成员（按照顺序）是布局兼容的\[8\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink") (2003). *[ISO/IEC 14882:2003(E): Programming Languages - C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9.2 Class members \[class.mem\]* para. 14</ref>。
+  - 一个POD结构可以包含未命名的[填充](../Page/数据结构对齐.md "wikilink")\[9\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink") (2003). *[ISO/IEC 14882:2003(E): Programming Languages - C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9.2 Class members \[class.mem\]* para. 17</ref>。
   - 一个指向POD结构对象的指针适合使用[`reinterpret_cast`](https://zh.wikipedia.org/wiki/reinterpret_cast "wikilink")，指向其初始成员而且反之亦然，说明在POD结构的头部不存在填充\[10\]。
-  - 一个POD结构可以被[`offsetof`](https://zh.wikipedia.org/wiki/offsetof "wikilink")宏使用\[11\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
-    (2003). *[ISO/IEC 14882:2003(E): Programming Languages -
-    C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §18.1
-    Types \[lib.support.types\]* para. 5</ref>。
+  - 一个POD结构可以被[`offsetof`](https://zh.wikipedia.org/wiki/offsetof "wikilink")宏使用\[11\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink") (2003). *[ISO/IEC 14882:2003(E): Programming Languages - C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §18.1 Types \[lib.support.types\]* para. 5</ref>。
 
 ## 声明和使用
 
-C++
-的结构体和类具有他们自己的成员。这些成员包括变量（包括其他结构体和类），被看做方法的函数（特定的标示符或重载的运算符），构造函数以及析构函数。成员被声明成为公共或私有使用说明符`public:`和`private:`来区分。说明符后出现的任何成员会获得相应的访问权限直到下一个说明符的出现。对于继承的类能够使用`protected:`说明符。
+C++ 的结构体和类具有他们自己的成员。这些成员包括变量（包括其他结构体和类），被看做方法的函数（特定的标示符或重载的运算符），构造函数以及析构函数。成员被声明成为公共或私有使用说明符`public:`和`private:`来区分。说明符后出现的任何成员会获得相应的访问权限直到下一个说明符的出现。对于继承的类能够使用`protected:`说明符。
 
 ### 基本声明和成员变量
 
@@ -136,8 +108,7 @@ int main ()
 
 ### 成员函数
 
-**成员函数**是C++
-的类和结构体的一个重要特性。这些数据类型可以包含作为其成员的函数。成员函数分为静态成员函数与非静态成员函数。静态成员函数只能访问该数据类型的对象的静态成员。而非静态成员函数能够访问对象的所有成员。在非静态成员函数的函数体内，关键词`this`指向了调用该函数的对象。这通常是通过thiscall调用协议，将对象的地址作为隐含的第一个参数传递给成员函数。\[12\]再次以之前的`person`类型作为例子：
+**成员函数**是C++ 的类和结构体的一个重要特性。这些数据类型可以包含作为其成员的函数。成员函数分为静态成员函数与非静态成员函数。静态成员函数只能访问该数据类型的对象的静态成员。而非静态成员函数能够访问对象的所有成员。在非静态成员函数的函数体内，关键词`this`指向了调用该函数的对象。这通常是通过thiscall调用协议，将对象的地址作为隐含的第一个参数传递给成员函数。\[12\]再次以之前的`person`类型作为例子：
 
 ``` cpp
 class person
@@ -168,8 +139,7 @@ a.print();
 b.print();
 ```
 
-上述的`a`和`b`被称为调用者（sender），当`print()`函数被执行时每一个都引用自己的成员变量。
-将类或结构的申明（称做接口）和定义（称作实现）放入分开的单元是常见的做法。用户需要的接口被放入一个头文件中而实现则独立地放入源代码或者编译后的形式。
+上述的`a`和`b`被称为调用者（sender），当`print()`函数被执行时每一个都引用自己的成员变量。 将类或结构的申明（称做接口）和定义（称作实现）放入分开的单元是常见的做法。用户需要的接口被放入一个头文件中而实现则独立地放入源代码或者编译后的形式。
 
 非静态成员函数，可以用const或volatile关键词限定。const限定的成员函数不能修改其他数据成员（除了具有mutable的例外），也不能调用非const限定的其他成员函数。编译实现时，通常是在const限定的成员函数体内，this所指向的数据成员自动具有const限定，因此是只读的。const对象只能调用const成员函数；volatile对象只能调用volatile限定的成员函数。反之，没有受到限定的普通对象可以调用所有的成员函数，不论它是否为cv限定。构造函数、析构函数不能cv限定。
 
@@ -253,15 +223,13 @@ integer integer::operator*(const integer &k) const
 }
 ```
 
-在這裡，`const`關鍵字出現兩次。表達式`const integer
-&k`中的`const`關鍵字代表函數不能修改此常數值，而第二個`const`關鍵字代表此函數不會修改類物件本身（`*this`）。
+在這裡，`const`關鍵字出現兩次。表達式`const integer &k`中的`const`關鍵字代表函數不能修改此常數值，而第二個`const`關鍵字代表此函數不會修改類物件本身（`*this`）。
 
 而`integer &k`之中，符號（`&`）表示以參照形式呼叫。當呼叫函數時會直接傳遞變數地址，並以變數本身取代這裡的變數`k`。\[13\]
 
 #### 二元可重载运算符
 
-[二元運算符會用函數方式並以](https://zh.wikipedia.org/wiki/二元運算符 "wikilink")「`operator
-運算符`」識別來進行重載，這裡的參數會是單一參數。實際使用時，二元運算符左方的變數會成為類物件本身（`*this`），而右方變數則成為傳入參數。
+[二元運算符會用函數方式並以](https://zh.wikipedia.org/wiki/二元運算符 "wikilink")「`operator 運算符`」識別來進行重載，這裡的參數會是單一參數。實際使用時，二元運算符左方的變數會成為類物件本身（`*this`），而右方變數則成為傳入參數。
 
 ``` cpp
 integer a = 1;
@@ -494,8 +462,7 @@ int main()
 
 ## 属性
 
-C++语法试图使一个结构的所有方面看起来像一个[基本数据类型](../Page/原始型別.md "wikilink")。因此，运算符重载允许结构像整数和浮点数一样操作，结构的[数组](../Page/数组.md "wikilink")可以通过方括号声明（`some_structure
-variable_name[size]`），而且指向结构的指针可以通过和指向内置类型的指针通用的方法解引用。
+C++语法试图使一个结构的所有方面看起来像一个[基本数据类型](../Page/原始型別.md "wikilink")。因此，运算符重载允许结构像整数和浮点数一样操作，结构的[数组](../Page/数组.md "wikilink")可以通过方括号声明（`some_structure variable_name[size]`），而且指向结构的指针可以通过和指向内置类型的指针通用的方法解引用。
 
 ### 内存消耗
 
@@ -509,10 +476,7 @@ struct twonums
 };
 ```
 
-这个结构包含两个整型。在当前许多 C++
-编译器中，整型[默认是](https://zh.wikipedia.org/wiki/default_\(computer_science\) "wikilink")[32
-位整型](https://zh.wikipedia.org/wiki/Integer_\(computer_science\) "wikilink")，
-所以每个成员变量消耗 4 个字节的内存．因而整个结构至少（或者正好）消耗 8 个字节的内存，见下图。
+这个结构包含两个整型。在当前许多 C++ 编译器中，整型[默认是](https://zh.wikipedia.org/wiki/default_\(computer_science\) "wikilink")[32 位整型](https://zh.wikipedia.org/wiki/Integer_\(computer_science\) "wikilink")， 所以每个成员变量消耗 4 个字节的内存．因而整个结构至少（或者正好）消耗 8 个字节的内存，见下图。
 
 `+----+----+`
 `| a  | b  |`
@@ -539,13 +503,11 @@ struct bytes_and_such
 
 在内存中, `XX` 表示两个未被使用的空位元。
 
-因为结构可能会使用指针和数组去[声明](https://zh.wikipedia.org/wiki/Declaration_\(computer_science\) "wikilink")
-或者初始化变量，结构的内存消耗不一定是[固定的](https://zh.wikipedia.org/wiki/constant_\(computer_science\) "wikilink")。另外一个内存消耗不固定的例子是模板结构。
+因为结构可能会使用指针和数组去[声明](https://zh.wikipedia.org/wiki/Declaration_\(computer_science\) "wikilink") 或者初始化变量，结构的内存消耗不一定是[固定的](https://zh.wikipedia.org/wiki/constant_\(computer_science\) "wikilink")。另外一个内存消耗不固定的例子是模板结构。
 
 #### 位字段
 
-位字段（Bit field）可以被用来定义比内置类型还要小的类成员变量。通过这个字段定义的变量，只可以像使用内置的整数类型(例如int,
-char, short, long...)那样子使用。
+位字段（Bit field）可以被用来定义比内置类型还要小的类成员变量。通过这个字段定义的变量，只可以像使用内置的整数类型(例如int, char, short, long...)那样子使用。
 
 ``` cpp
 struct A
@@ -595,13 +557,9 @@ complex& operator+=(const complex & c)
 
 ## 資料來源
 
-  - [Cplusplus.com tutorial
-    lesson 5.2](http://www.cplusplus.com/doc/tutorial/classes2.html),
-    accessed in January 2006
+  - [Cplusplus.com tutorial lesson 5.2](http://www.cplusplus.com/doc/tutorial/classes2.html), accessed in January 2006
   - Chan, S. "Tutorial on C++ and STL", Hong Kong, 2006
-  - [Cplusplus.com tutorial
-    lesson 2.5](http://www.cplusplus.com/doc/tutorial/basic_io.html),
-    accessed in February 2006
+  - [Cplusplus.com tutorial lesson 2.5](http://www.cplusplus.com/doc/tutorial/basic_io.html), accessed in February 2006
 
 [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
 

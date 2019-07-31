@@ -1,10 +1,9 @@
-**RPG Maker
-XP**（[日本](../Page/日本.md "wikilink")：，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：新RPG製作大師XP）是[Enterbrain在PC上出版的第四套](../Page/Enterbrain.md "wikilink")[RPG製作大師系列軟體](../Page/RPG製作大師.md "wikilink")。
+**RPG Maker XP**（[日本](../Page/日本.md "wikilink")：，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：新RPG製作大師XP）是[Enterbrain](../Page/Enterbrain.md "wikilink")在PC上出版的第四套[RPG製作大師](../Page/RPG製作大師.md "wikilink")系列軟體。
 
 ## 特色
 
   - 畫質獲得進一步提升
-  - [RGSS的出現](../Page/RGSS.md "wikilink")，令使用者和開發者能夠利用其開發出自己想要的遊戲
+  - [RGSS](../Page/RGSS.md "wikilink")的出現，令使用者和開發者能夠利用其開發出自己想要的遊戲
   - 資料庫的大調整：
       - 角色設定部分：
           - 以往2000系列限制能力值最高為999，但隨著程式設計的改變，XP的能力值上限大幅度上升，可惜最多也只能到9999(HP和SP)和999(其他屬性)，敵方HP和SP最高則可以達到999999(但用普通方式輸入最多只能輸入99999)
@@ -22,47 +21,33 @@ XP**（[日本](../Page/日本.md "wikilink")：，[台灣](https://zh.wikipedia
 
 ## 画面
 
-  - [RPG製作大師系列中](../Page/RPG製作大師.md "wikilink")，RPG Maker
-    XP首先支援的640x480解析度，先前幾個版本都僅能支援320x240的解析度。並跳脫先前版本的256色限制，支援全彩，這使得RPG
-    Maker XP能夠製作更高畫質的RPG遊戲。
+  - [RPG製作大師](../Page/RPG製作大師.md "wikilink")系列中，RPG Maker XP首先支援的640x480解析度，先前幾個版本都僅能支援320x240的解析度。並跳脫先前版本的256色限制，支援全彩，這使得RPG Maker XP能夠製作更高畫質的RPG遊戲。
 
 <!-- end list -->
 
-  - 由於擔心硬體相容性的問題，[Enterbrain決定只使用軟體模式進行繪製](../Page/Enterbrain.md "wikilink")（Software-mode
-    rendering）。另外其幀率一般為20幀每秒，開啟平滑模式的話40幀每秒。
+  - 由於擔心硬體相容性的問題，[Enterbrain](../Page/Enterbrain.md "wikilink")決定只使用軟體模式進行繪製（Software-mode rendering）。另外其幀率一般為20幀每秒，開啟平滑模式的話40幀每秒。
 
 <!-- end list -->
 
-  - 雖然RPG Maker
-    XP本身只支援640x480的解析度，但透過一些非官方提供的方法（使用[RGSS及呼叫](../Page/RGSS.md "wikilink")[Windows
-    API](../Page/Windows_API.md "wikilink")
-    SetWindowPos/MoveWindow），可以超越640x480的限制。
+  - 雖然RPG Maker XP本身只支援640x480的解析度，但透過一些非官方提供的方法（使用[RGSS](../Page/RGSS.md "wikilink")及呼叫[Windows API](../Page/Windows_API.md "wikilink") SetWindowPos/MoveWindow），可以超越640x480的限制。
 
 ## 系統需求
 
-  - 作業系統：[Microsoft
-    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-    98/98SE/ME/2000/XP/Vista/7
+  - 作業系統：[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 98/98SE/ME/2000/XP/Vista/7
   - 中央處理器：800 MHz
   - 記憶體：128MB
   - 顯示配接器
-  - 音效卡：與[DirectSound相容之音效卡](../Page/DirectSound.md "wikilink")
+  - 音效卡：與[DirectSound](../Page/DirectSound.md "wikilink")相容之音效卡
   - 100MB以上之磁碟空間
   - 另外，本作中文版和2000不一樣，和2003則是相同，運行時需要將安裝光碟放置於光碟機中才可以啟動。
 
 ## Ruby遊戲腳本系統([RGSS](../Page/RGSS.md "wikilink"))
 
-在[RPG製作大師系列中](../Page/RPG製作大師.md "wikilink")，RPG Maker
-XP使用[Ruby程式語言作為架構的腳本系統](../Page/Ruby.md "wikilink")，以[Ruby的基礎架構內建的圖形](../Page/Ruby.md "wikilink")、音效等形成的系統，便稱之為[RGSS](../Page/RGSS.md "wikilink")（Ruby
-Game Scripting System）。這使得RPG Maker
-XP製作的遊戲可以很容易的強化、擴充。整個系統非常容易學習，而有經驗的[程式設計師可以使用](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")[RGSS或者是說Ruby撰寫更複雜的功能](../Page/RGSS.md "wikilink")(尤其使用[Windows
-API](../Page/Windows_API.md "wikilink")——Win32API 類)。
+在[RPG製作大師](../Page/RPG製作大師.md "wikilink")系列中，RPG Maker XP使用[Ruby](../Page/Ruby.md "wikilink")程式語言作為架構的腳本系統，以[Ruby](../Page/Ruby.md "wikilink")的基礎架構內建的圖形、音效等形成的系統，便稱之為[RGSS](../Page/RGSS.md "wikilink")（Ruby Game Scripting System）。這使得RPG Maker XP製作的遊戲可以很容易的強化、擴充。整個系統非常容易學習，而有經驗的[程式設計師可以使用](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")[RGSS](../Page/RGSS.md "wikilink")或者是說Ruby撰寫更複雜的功能(尤其使用[Windows API](../Page/Windows_API.md "wikilink")——Win32API 類)。
 
 ### 內建的模块和類別
 
-RPG Maker
-XP中的[RGSS腳本大部份都宣告於內建的腳本編輯器之中](../Page/RGSS.md "wikilink")。但有一些模塊和類別是內建的，由系統底層生成的圖形、音效功能，會以動態調用[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
-[DirectX來實現這些功能](../Page/DirectX.md "wikilink")，並非以RGSS腳本的形式宣告，以增加效率，因此同時無法放出Ruby源代碼，大概可以分為四類：
+RPG Maker XP中的[RGSS](../Page/RGSS.md "wikilink")腳本大部份都宣告於內建的腳本編輯器之中。但有一些模塊和類別是內建的，由系統底層生成的圖形、音效功能，會以動態調用[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [DirectX](../Page/DirectX.md "wikilink")來實現這些功能，並非以RGSS腳本的形式宣告，以增加效率，因此同時無法放出Ruby源代碼，大概可以分為四類：
 
   - 音效
       - Audio(音效模块)
@@ -81,16 +66,15 @@ XP中的[RGSS腳本大部份都宣告於內建的腳本編輯器之中](../Page/
       - Input(输入模块)
       - Table(表单类)
       - Rect(矩形类)
-      - RGSSError([RGSS内部异常类](../Page/RGSS.md "wikilink"))
+      - RGSSError([RGSS](../Page/RGSS.md "wikilink")内部异常类)
   - Ruby库
       - Zlib(压缩模块)
       - Win32API([Windows API](../Page/Windows_API.md "wikilink"))
 
-但是[RGSS中也有使用脚本的形式宣告](../Page/RGSS.md "wikilink")：
+但是[RGSS](../Page/RGSS.md "wikilink")中也有使用脚本的形式宣告：
 
   - RPG(數據庫模塊)
-      - RPG模塊包含很多類([class](https://zh.wikipedia.org/wiki/class "wikilink"))，這些類的定義都是以Ruby表示(可以從RPG
-        Maker XP的說明文件中查到源代碼)，用於讀取數據庫的內容。
+      - RPG模塊包含很多類([class](https://zh.wikipedia.org/wiki/class "wikilink"))，這些類的定義都是以Ruby表示(可以從RPG Maker XP的說明文件中查到源代碼)，用於讀取數據庫的內容。
 
 注：部份的內建模块和類別在RPG Maker XP附帶的說明中可以找到使用方法。
 
@@ -106,7 +90,7 @@ RPG Maker XP中也添加了些函數，其中能以Ruby源代碼表示的有兩�
   - p(obj\[, obj, ...\])
       - 以Object.insect的方法print出来
   - print(obj\[, obj, ...\])
-      - 本来print是Ruby的标准输出，但是[RGSS重定义为使用Windows的对话框弹出](../Page/RGSS.md "wikilink")
+      - 本来print是Ruby的标准输出，但是[RGSS](../Page/RGSS.md "wikilink")重定义为使用Windows的对话框弹出
 
 ## 素材
 
@@ -139,8 +123,7 @@ RPG Maker XP定義了各種不同的素材格式。
 
 VALUE\!版是本軟件的增強版，與通常版的區別有
 
-  - 支持[Windows
-    Vista](../Page/Windows_Vista.md "wikilink")（通常版要版本号升级为1.02才支援）
+  - 支持[Windows Vista](../Page/Windows_Vista.md "wikilink")（通常版要版本号升级为1.02才支援）
   - 用户认证只需要一次
   - 由5个范例游戏增加到11个
   - 价钱重新调整
@@ -155,7 +138,4 @@ VALUE\!版是本軟件的增強版，與通常版的區別有
   - [巴哈姆特RPG製作大師哈拉板](http://forum.gamer.com.tw/A.php?bsn=4918)
   - [英特衛多媒體](http://www.interwise.com.tw/) - RPG Maker XP 台灣代理官方網站
 
-[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")
-[Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
+[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")

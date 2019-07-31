@@ -1,17 +1,8 @@
-**Windows Virtual
-PC**是[Microsoft於](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows
-7發表後發表的](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[虛擬機器](../Page/虛擬機器.md "wikilink")軟體，是[Microsoft
-Virtual PC的後續軟體](../Page/Microsoft_Virtual_PC.md "wikilink")。Windows
-Virtual PC主要是搭配安裝[Windows XP
-Mode使用](https://zh.wikipedia.org/wiki/Windows_XP_Mode "wikilink")（在Windows
-7 專業版、旗艦版及企業版免費授權使用）。
+**Windows Virtual PC**是[Microsoft於](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows 7發表後發表的](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[虛擬機器](../Page/虛擬機器.md "wikilink")軟體，是[Microsoft Virtual PC的後續軟體](../Page/Microsoft_Virtual_PC.md "wikilink")。Windows Virtual PC主要是搭配安裝[Windows XP Mode使用](https://zh.wikipedia.org/wiki/Windows_XP_Mode "wikilink")（在Windows 7 專業版、旗艦版及企業版免費授權使用）。
 
 ## 特色
 
-Windows Virtual PC結合了Windows
-7的[使用者介面與Windows](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")
-XP Mode設定，並支援許多[USB](../Page/USB.md "wikilink")設備，同時允許用戶直接從Windows XP
-Mode執行許多[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
+Windows Virtual PC結合了Windows 7的[使用者介面與Windows](https://zh.wikipedia.org/wiki/使用者介面 "wikilink") XP Mode設定，並支援許多[USB](../Page/USB.md "wikilink")設備，同時允許用戶直接從Windows XP Mode執行許多[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
 
 ## 功能
 
@@ -34,33 +25,21 @@ Virtual PC 2007 與 Windows Virtual PC 功能比較：
 
 ## Windows XP模式
 
-**Windows XP模式**（Windows XP Mode，簡稱XPM），一种提升[Windows
-7兼容性的主机虚拟化解决方案](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。该功能的正式版随[Windows
-7正式版发布](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
+**Windows XP模式**（Windows XP Mode，簡稱XPM），一种提升[Windows 7兼容性的主机虚拟化解决方案](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。该功能的正式版随[Windows 7正式版发布](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
-Windows XP模式由**Windows Virtual PC**虚拟环境和完整的[Windows
-XP](../Page/Windows_XP.md "wikilink") SP3授权组成，它将通过微软的网站免费提供给Windows 7
-Professional、Enterprise和Ultimate版本用户。Windows
-XP模式不再将虚拟环境以Windows桌面为界划分开来，用户在虚拟XP环境下安装的软件同样可以在Windows
-7主机上使用，也就是说，用户可以在同一个桌面上运行[Windows
-XP应用和](../Page/Windows_XP.md "wikilink")[Windows
-7应用](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")\[1\]，将会在系统后台运行。
+Windows XP模式由**Windows Virtual PC**虚拟环境和完整的[Windows XP](../Page/Windows_XP.md "wikilink") SP3授权组成，它将通过微软的网站免费提供给Windows 7 Professional、Enterprise和Ultimate版本用户。Windows XP模式不再将虚拟环境以Windows桌面为界划分开来，用户在虚拟XP环境下安装的软件同样可以在Windows 7主机上使用，也就是说，用户可以在同一个桌面上运行[Windows XP应用和](../Page/Windows_XP.md "wikilink")[Windows 7应用](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")\[1\]，将会在系统后台运行。
 
 ### 硬件要求
 
   - 至少2GB系统内存。
 
-最初的版本[CPU需支持](https://zh.wikipedia.org/wiki/CPU "wikilink")[虚拟化技术才可執行](https://zh.wikipedia.org/wiki/虚拟化技术 "wikilink")。2010年3月20日微軟發布更新解除此限制\[2\]，用戶可下載更新檔，以使用Windows
-XP模式。
+最初的版本[CPU需支持](https://zh.wikipedia.org/wiki/CPU "wikilink")[虚拟化技术才可執行](https://zh.wikipedia.org/wiki/虚拟化技术 "wikilink")。2010年3月20日微軟發布更新解除此限制\[2\]，用戶可下載更新檔，以使用Windows XP模式。
 
 ### 支持[虚拟化技术的](https://zh.wikipedia.org/wiki/虚拟化技术 "wikilink")[CPU列表](https://zh.wikipedia.org/wiki/CPU "wikilink")
 
 #### Intel
 
-下面表格列出微軟發布更新前限制的功能，例如Intel部分CPU支持Windows
-XP模式\[3\]。据IT168分析，仅仅是微软强行限制Windows
-XP模式必须使用支持[Intel虚拟化技术](https://zh.wikipedia.org/wiki/Intel虚拟化技术 "wikilink")（Intel
-VT）的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，因为用户还是可以使用独立的[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。\[4\]
+下面表格列出微軟發布更新前限制的功能，例如Intel部分CPU支持Windows XP模式\[3\]。据IT168分析，仅仅是微软强行限制Windows XP模式必须使用支持[Intel虚拟化技术](https://zh.wikipedia.org/wiki/Intel虚拟化技术 "wikilink")（Intel VT）的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，因为用户还是可以使用独立的[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。\[4\]
 
 |                                                                              |
 | ---------------------------------------------------------------------------- |
@@ -103,33 +82,21 @@ VT）的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，因为用户还是
 
 #### AMD
 
-除了[Sempron之外](https://zh.wikipedia.org/wiki/Sempron "wikilink")，所有正在出货的[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")[处理器都支持AMD的](https://zh.wikipedia.org/wiki/处理器 "wikilink")[虚拟化技术](https://zh.wikipedia.org/wiki/虚拟化技术 "wikilink")「[AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")」。原来的AMD处理器Rev
-E修订版本的[K8](https://zh.wikipedia.org/wiki/K8 "wikilink")
-[Athlon](https://zh.wikipedia.org/wiki/Athlon "wikilink")/[Turion处理器不支持AMD](https://zh.wikipedia.org/wiki/Turion "wikilink")-V，而进入[Socket
-AM2时代的Rev](../Page/Socket_AM2.md "wikilink")
-F版本开始所有型号都支持AMD-V。而服务器CPU方面，只有Rev
-E [Opteron](../Page/Opteron.md "wikilink")
-100/200/800和之前的不支持，其余正在出货的产品都支持AMD-V。
+除了[Sempron之外](https://zh.wikipedia.org/wiki/Sempron "wikilink")，所有正在出货的[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")[处理器都支持AMD的](https://zh.wikipedia.org/wiki/处理器 "wikilink")[虚拟化技术](https://zh.wikipedia.org/wiki/虚拟化技术 "wikilink")「[AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")」。原来的AMD处理器Rev E修订版本的[K8](https://zh.wikipedia.org/wiki/K8 "wikilink") [Athlon](https://zh.wikipedia.org/wiki/Athlon "wikilink")/[Turion处理器不支持AMD](https://zh.wikipedia.org/wiki/Turion "wikilink")-V，而进入[Socket AM2时代的Rev](../Page/Socket_AM2.md "wikilink") F版本开始所有型号都支持AMD-V。而服务器CPU方面，只有Rev E [Opteron](../Page/Opteron.md "wikilink") 100/200/800和之前的不支持，其余正在出货的产品都支持AMD-V。
 
 ## 參考文獻
 
-  - [Windows Virtual
-    PC官方網頁問答集](https://web.archive.org/web/20090628233316/http://www.microsoft.com/windows/virtual-pc/support/faq.aspx)
-  - [Download Windows XP
-    Mode](https://web.archive.org/web/20120717051200/http://www.microsoft.com/windows/virtual-pc/download.aspx?runGenuineCheck=true)
+  - [Windows Virtual PC官方網頁問答集](https://web.archive.org/web/20090628233316/http://www.microsoft.com/windows/virtual-pc/support/faq.aspx)
+  - [Download Windows XP Mode](https://web.archive.org/web/20120717051200/http://www.microsoft.com/windows/virtual-pc/download.aspx?runGenuineCheck=true)
 
 ## 外部連結
 
-  - [Windows Virtual
-    PC官方網頁](https://web.archive.org/web/20090503012345/http://www.microsoft.com/windows/virtual-pc/)
-  - [Windows Virtual
-    PC官方網頁](http://www.microsoft.com/taiwan/windows/virtual-pc/)
+  - [Windows Virtual PC官方網頁](https://web.archive.org/web/20090503012345/http://www.microsoft.com/windows/virtual-pc/)
+  - [Windows Virtual PC官方網頁](http://www.microsoft.com/taiwan/windows/virtual-pc/)
 
 ## 参考资料
 
-[Category:Windows_7](https://zh.wikipedia.org/wiki/Category:Windows_7 "wikilink")
-[Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink")
-[Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink")
+[Category:Windows_7](https://zh.wikipedia.org/wiki/Category:Windows_7 "wikilink") [Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink") [Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink")
 
 1.  [Windows XP模式](http://news.mydrivers.com/1/133/133300.htm)
 2.

@@ -55,5 +55,4 @@
 | 09月15日      | 女人不是笨就是現實！？愛情與麵包哪個才重要！？       | [何妤玟](../Page/何妤玟.md "wikilink")、[王思佳](../Page/王思佳.md "wikilink")、[毛毛](https://zh.wikipedia.org/wiki/毛毛 "wikilink")、[薇薇安](https://zh.wikipedia.org/wiki/薇薇安 "wikilink")                                                                                                              |          |
 | 09月16日      | 第二屆王牌盃歌唱大賽　男女主角的七情六慾          | [劉至翰](../Page/劉至翰.md "wikilink")、[江宏恩](../Page/江宏恩.md "wikilink")、[廖家儀](../Page/廖家儀.md "wikilink")、[黃國倫](../Page/黃國倫.md "wikilink")、[丁曉雯](https://zh.wikipedia.org/wiki/丁曉雯 "wikilink")                                                                                              |          |
 
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")
+[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")

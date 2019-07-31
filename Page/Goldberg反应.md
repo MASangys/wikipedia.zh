@@ -1,6 +1,4 @@
-**Goldberg反应**（Goldberg
-reaction）是用[苯胺](../Page/苯胺.md "wikilink")或[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[酰胺](../Page/酰胺.md "wikilink")\[1\]\[2\]\[3\]代替[酚](../Page/酚.md "wikilink")进行的[Ullmann二芳醚合成](../Page/Ullmann二芳醚合成.md "wikilink")。由德国女化学家、Fritz
-Ullmann的妻子Irma Goldberg\[4\]发现。
+**Goldberg反应**（Goldberg reaction）是用[苯胺](../Page/苯胺.md "wikilink")或[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[酰胺](../Page/酰胺.md "wikilink")\[1\]\[2\]\[3\]代替[酚](../Page/酚.md "wikilink")进行的[Ullmann二芳醚合成](../Page/Ullmann二芳醚合成.md "wikilink")。由德国女化学家、Fritz Ullmann的妻子Irma Goldberg\[4\]发现。
 
 例如，[邻氯苯甲酸与](https://zh.wikipedia.org/wiki/邻氯苯甲酸 "wikilink")[苯胺](../Page/苯胺.md "wikilink")缩合，可得[芬那酸](https://zh.wikipedia.org/wiki/芬那酸 "wikilink")。\[5\]
 
@@ -20,9 +18,7 @@ Goodbrand等报道了一种用从[碘化亚铜](../Page/碘化亚铜.md "wikilin
 
 ## 参考资料
 
-[Category:碳－杂原子键形成反应](https://zh.wikipedia.org/wiki/Category:碳－杂原子键形成反应 "wikilink")
-[Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:碳－杂原子键形成反应](https://zh.wikipedia.org/wiki/Category:碳－杂原子键形成反应 "wikilink") [Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

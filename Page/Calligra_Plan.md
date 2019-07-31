@@ -1,15 +1,10 @@
-**KPlato** (K PLAnning
-TOol)是一個[專案管理應用程序](https://zh.wikipedia.org/wiki/專案管理 "wikilink")，可以創建[甘特圖風格的圖表](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")，
-[KOffice](../Page/KOffice.md "wikilink")辦公軟體套裝的一部分。它已經移植到[Qt](../Page/Qt.md "wikilink")4和作為KOffice
-2.0.0的一部分釋出在2009年5月。
+**KPlato** (K PLAnning TOol)是一個[專案管理應用程序](https://zh.wikipedia.org/wiki/專案管理 "wikilink")，可以創建[甘特圖風格的圖表](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")， [KOffice](../Page/KOffice.md "wikilink")辦公軟體套裝的一部分。它已經移植到[Qt](../Page/Qt.md "wikilink")4和作為KOffice 2.0.0的一部分釋出在2009年5月。
 
 KPlato的開發於2004年開始。第一版的釋出是在2004年4月，KOffice 1.5的一部分。
 
 ## 外部連結
 
-  - <https://web.archive.org/web/20100209042449/http://www.koffice.org/kplato/>
-    Homepage
+  - <https://web.archive.org/web/20100209042449/http://www.koffice.org/kplato/> Homepage
   - <http://docs.kde.org/stable/en/koffice/kplato/> Handbook
 
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:KOffice](https://zh.wikipedia.org/wiki/Category:KOffice "wikilink")
+[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:KOffice](https://zh.wikipedia.org/wiki/Category:KOffice "wikilink")

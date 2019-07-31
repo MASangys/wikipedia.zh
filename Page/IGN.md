@@ -1,29 +1,20 @@
-**IGN**（Imagine Games
-Network）是一間由乔纳森·辛普森-宾特在1996年创立的多媒體和評論[網站](../Page/網站.md "wikilink")，主要對象為[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。母公司是**IGN
-Entertainment**（[GameSpy](../Page/GameSpy.md "wikilink")、[爛番茄](../Page/爛番茄.md "wikilink")、[AskMen持有者](https://zh.wikipedia.org/wiki/AskMen "wikilink")）。
+**IGN**（Imagine Games Network）是一間由乔纳森·辛普森-宾特在1996年创立的多媒體和評論[網站](../Page/網站.md "wikilink")，主要對象為[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。母公司是**IGN Entertainment**（[GameSpy](../Page/GameSpy.md "wikilink")、[爛番茄](../Page/爛番茄.md "wikilink")、[AskMen持有者](https://zh.wikipedia.org/wiki/AskMen "wikilink")）。
 
 IGN的主網站包含數個特別網頁或「頻道」，每一個都在IGN有分區。遊戲有關的頻道例如有：[电-{}-脑游戏](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")、[任天堂](../Page/任天堂.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")、[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[Retro](https://zh.wikipedia.org/wiki/Retro "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。IGN頻道還包含：電影、音樂、工具、科技、運動、電視等等。
 
 ## 歷史
 
-[Ignentertainmenthq.jpg](https://zh.wikipedia.org/wiki/File:Ignentertainmenthq.jpg "fig:Ignentertainmenthq.jpg")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[布利斯班市](https://zh.wikipedia.org/wiki/布利斯班市 "wikilink")（Brisbane,
-California）\]\]
+[Ignentertainmenthq.jpg](https://zh.wikipedia.org/wiki/File:Ignentertainmenthq.jpg "fig:Ignentertainmenthq.jpg")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[布利斯班市](https://zh.wikipedia.org/wiki/布利斯班市 "wikilink")（Brisbane, California）\]\]
 
-Imagine Games Network
-by於1996年9月創立，IGN以5個獨立網站開始運作：IGN64.com、PSXPower、Saturnworld、Next-Generation.com、Ultra
-Game Players Online。1998年，網路聯合這些獨立網頁發展了IGN旗下的系統「頻道。Next-Generation和Ultra
-Game Players Online沒有被包含在內；UGPO伴隨雜誌的取消而解散，當Imagine決定發展[Daily
-Radar商標時](https://zh.wikipedia.org/wiki/Daily_Radar "wikilink")，Next-Generation被耽擱。
+Imagine Games Network by於1996年9月創立，IGN以5個獨立網站開始運作：IGN64.com、PSXPower、Saturnworld、Next-Generation.com、Ultra Game Players Online。1998年，網路聯合這些獨立網頁發展了IGN旗下的系統「頻道。Next-Generation和Ultra Game Players Online沒有被包含在內；UGPO伴隨雜誌的取消而解散，當Imagine決定發展[Daily Radar商標時](https://zh.wikipedia.org/wiki/Daily_Radar "wikilink")，Next-Generation被耽擱。
 
-2005年6月，IGN聲稱每個月有2300萬人來訪網站，其中5萬是已註冊用戶。根據[Alexa](../Page/Alexa_Internet.md "wikilink")，IGN成為200個最多人訪問的網站，IGN討論區則是最活躍[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")\[1\]。2005年9月，IGN被Rupert
-Murdoch的多媒體交易大企業[新聞集團收購](https://zh.wikipedia.org/wiki/新聞集團 "wikilink")。
+2005年6月，IGN聲稱每個月有2300萬人來訪網站，其中5萬是已註冊用戶。根據[Alexa](../Page/Alexa_Internet.md "wikilink")，IGN成為200個最多人訪問的網站，IGN討論區則是最活躍[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")\[1\]。2005年9月，IGN被Rupert Murdoch的多媒體交易大企業[新聞集團收購](https://zh.wikipedia.org/wiki/新聞集團 "wikilink")。
 
 IGN於2008年1月12日慶祝10周年\[2\]。
 
 2016年5月，IGN宣布收购早前已关站的老牌游戏网站[GameTrailers](../Page/GameTrailers.md "wikilink")的全部内容和商标\[3\]。
 
-2017年2月，IGN上线了针对中国大陆的IGN中国版，由北京岸基恩娱乐科技有限公司负责运营\[4\]。这是IGN继IGN东南亚（IGN
-SEA）之后再次推出中文服务。
+2017年2月，IGN上线了针对中国大陆的IGN中国版，由北京岸基恩娱乐科技有限公司负责运营\[4\]。这是IGN继IGN东南亚（IGN SEA）之后再次推出中文服务。
 
 2017年10月14日，IGN宣布收购[Humble Bundle](../Page/Humble_Bundle.md "wikilink")。
 
@@ -37,11 +28,9 @@ IGN很少給予滿分。从1990年代起，總共有38款遊戲得到滿分\[5\]
 
 得到满分的游戏：
 
-1.  [薩爾達傳說時之笛](https://zh.wikipedia.org/wiki/薩爾達傳說時之笛 "wikilink")（Nintendo
-    64, 1998）\[6\]
+1.  [薩爾達傳說時之笛](https://zh.wikipedia.org/wiki/薩爾達傳說時之笛 "wikilink")（Nintendo 64, 1998）\[6\]
 
-2.  [神奇寶貝紅·綠](https://zh.wikipedia.org/wiki/神奇寶貝紅·綠 "wikilink")（Game
-    Boy, 1999）\[7\]\[8\]
+2.  [神奇寶貝紅·綠](https://zh.wikipedia.org/wiki/神奇寶貝紅·綠 "wikilink")（Game Boy, 1999）\[7\]\[8\]
 
 3.  （Atari Lynx, 1999）\[9\]
 
@@ -51,46 +40,33 @@ IGN很少給予滿分。从1990年代起，總共有38款遊戲得到滿分\[5\]
 
 6.  [超级马里奥兄弟](../Page/超级马里奥兄弟.md "wikilink")（Game Boy Color, 1999）\[12\]
 
-7.  [薩爾達傳說夢見島](https://zh.wikipedia.org/wiki/塞尔达传说_梦见岛 "wikilink")（Game
-    Boy Color, 1999）\[13\]
+7.  [薩爾達傳說夢見島](https://zh.wikipedia.org/wiki/塞尔达传说_梦见岛 "wikilink")（Game Boy Color, 1999）\[13\]
 
 8.  [劍魂](../Page/劍魂_\(格鬥遊戲\).md "wikilink")（Dreamcast, 1999）\[14\]
 
-9.  [马里奥高尔夫](https://zh.wikipedia.org/wiki/马里奥高尔夫64 "wikilink")（Game Boy
-    Color, 1999）\[15\]
+9.  [马里奥高尔夫](https://zh.wikipedia.org/wiki/马里奥高尔夫64 "wikilink")（Game Boy Color, 1999）\[15\]
 
-10. [神奇寶貝黄](https://zh.wikipedia.org/wiki/神奇寶貝_皮卡丘 "wikilink")（Game Boy,
-    1999）\[16\]
+10. [神奇寶貝黄](https://zh.wikipedia.org/wiki/神奇寶貝_皮卡丘 "wikilink")（Game Boy, 1999）\[16\]
 
-11. [刺猬索尼克口袋大冒险](https://zh.wikipedia.org/wiki/刺猬索尼克_口袋冒险 "wikilink")（NeoGeo
-    Pocket Color, 1999）\[17\]
+11. [刺猬索尼克口袋大冒险](https://zh.wikipedia.org/wiki/刺猬索尼克_口袋冒险 "wikilink")（NeoGeo Pocket Color, 1999）\[17\]
 
-12. [SNK vs. Capcom: The Match of the
-    Millennium](../Page/SNK对卡普空_千年之战.md "wikilink")（Neo
-    Geo Pocket Color, 2000）\[18\]
+12. [SNK vs. Capcom: The Match of the Millennium](../Page/SNK对卡普空_千年之战.md "wikilink")（Neo Geo Pocket Color, 2000）\[18\]
 
-13. [米老鼠魔法方块](https://zh.wikipedia.org/wiki/魔法米老鼠俄罗斯方块 "wikilink")（Game
-    Boy Color, 2000）\[19\]
+13. [米老鼠魔法方块](https://zh.wikipedia.org/wiki/魔法米老鼠俄罗斯方块 "wikilink")（Game Boy Color, 2000）\[19\]
 
-14. [合金装备幽灵通天塔](../Page/合金装备_幽灵通天塔.md "wikilink")（Game Boy Color,
-    2000）\[20\]
+14. [合金装备幽灵通天塔](../Page/合金装备_幽灵通天塔.md "wikilink")（Game Boy Color, 2000）\[20\]
 
-15. [神奇寶貝金·銀](https://zh.wikipedia.org/wiki/神奇寶貝_金·銀·水晶 "wikilink")（Game
-    Boy Color, 2000）\[21\]\[22\]
+15. [神奇寶貝金·銀](https://zh.wikipedia.org/wiki/神奇寶貝_金·銀·水晶 "wikilink")（Game Boy Color, 2000）\[21\]\[22\]
 
-16. [薩爾達傳說神祕果實](https://zh.wikipedia.org/wiki/塞尔达传说_不可思议的果实 "wikilink")（Game
-    Boy Color, 2001）\[23\]\[24\]
+16. [薩爾達傳說神祕果實](https://zh.wikipedia.org/wiki/塞尔达传说_不可思议的果实 "wikilink")（Game Boy Color, 2001）\[23\]\[24\]
 
-17. [勇者鬥惡龍III接著邁向傳說](https://zh.wikipedia.org/wiki/勇者斗恶龙III_传说的开始 "wikilink")（Game
-    Boy Color, 2001）\[25\]
+17. [勇者鬥惡龍III接著邁向傳說](https://zh.wikipedia.org/wiki/勇者斗恶龙III_传说的开始 "wikilink")（Game Boy Color, 2001）\[25\]
 
 18. [疯狂龙卷风](../Page/疯狂龙卷风.md "wikilink")（手机游戏, 2006）\[26\]
 
-19. [俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")（PlayStation 3和Xbox 360,
-    2008）\[27\]
+19. [俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")（PlayStation 3和Xbox 360, 2008）\[27\]
 
-20. [潛龍諜影4愛國者之槍](https://zh.wikipedia.org/wiki/合金装备4_爱国者之枪 "wikilink")（PlayStation
-    3, 2008）\[28\]
+20. [潛龍諜影4愛國者之槍](https://zh.wikipedia.org/wiki/合金装备4_爱国者之枪 "wikilink")（PlayStation 3, 2008）\[28\]
 
 21. [超级马里奥银河2](../Page/超级马里奥银河2.md "wikilink")（Wii, 2010）\[29\]
 
@@ -100,44 +76,33 @@ IGN很少給予滿分。从1990年代起，總共有38款遊戲得到滿分\[5\]
 
 24. [时空之轮](../Page/时空之轮.md "wikilink")（Wii Virtual Console, 2011）\[32\]
 
-25. [秘境探險3：德瑞克的騙局](../Page/秘境探險3：德瑞克的騙局.md "wikilink")（PlayStation 3,
-    2011）\[33\]
+25. [秘境探險3：德瑞克的騙局](../Page/秘境探險3：德瑞克的騙局.md "wikilink")（PlayStation 3, 2011）\[33\]
 
-26. [薩爾達傳說天空之劍](https://zh.wikipedia.org/wiki/塞尔达传说_天空之剑 "wikilink")（Wii,
-    2011）\[34\]
+26. [薩爾達傳說天空之劍](https://zh.wikipedia.org/wiki/塞尔达传说_天空之剑 "wikilink")（Wii, 2011）\[34\]
 
 27. （iOS, 2011）\[35\]
 
-28. [最後生還者](../Page/最後生還者.md "wikilink")（PlayStation 3和PlayStation 4,
-    2013/2014）\[36\]
+28. [最後生還者](../Page/最後生還者.md "wikilink")（PlayStation 3和PlayStation 4, 2013/2014）\[36\]
 
-29. [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")（PlayStation 3和Xbox
-    360和PlayStation4和Xbox one）\[37\]
+29. [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")（PlayStation 3和Xbox 360和PlayStation4和Xbox one）\[37\]
 
-30. [潛龍諜影V 幻痛](../Page/潛龍諜影V_幻痛.md "wikilink")（PlayStation 3和Xbox
-    360和PlayStation 4和Xbox One和PC, 2015）\[38\]
+30. [潛龍諜影V 幻痛](../Page/潛龍諜影V_幻痛.md "wikilink")（PlayStation 3和Xbox 360和PlayStation 4和Xbox One和PC, 2015）\[38\]
 
 31. [Undertale](../Page/Undertale.md "wikilink") （PC，2015）\[39\]
 
-32. [The Witness](../Page/见证者.md "wikilink") （PC和PlayStation
-    4，2016）\[40\]
+32. [The Witness](../Page/见证者.md "wikilink") （PC和PlayStation 4，2016）\[40\]
 
-33. [Inside](../Page/Inside_\(游戏\).md "wikilink") （PC和Xbox
-    one，2016）\[41\]
+33. [Inside](../Page/Inside_\(游戏\).md "wikilink") （PC和Xbox one，2016）\[41\]
 
-34. [薩爾達傳說 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink") （Wii U和Nintendo
-    Switch，2017）\[42\]
+34. [薩爾達傳說 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink") （Wii U和Nintendo Switch，2017）\[42\]
 
-35. [超级马里奥 奥德赛](../Page/超级马里奥_奥德赛.md "wikilink")（Nintendo
-    Switch，2017）\[43\]
+35. [超级马里奥 奥德赛](../Page/超级马里奥_奥德赛.md "wikilink")（Nintendo Switch，2017）\[43\]
 
-36. [碧藍山嶺:探尋自我](https://zh.wikipedia.org/wiki/碧藍山嶺:探尋自我 "wikilink") （PC
-    和 PS4 和 XBox， 2018）\[44\]
+36. [碧藍山嶺:探尋自我](https://zh.wikipedia.org/wiki/碧藍山嶺:探尋自我 "wikilink") （PC 和 PS4 和 XBox， 2018）\[44\]
 
 37. [戰神](../Page/戰神_\(2018年遊戲\).md "wikilink") （PS4， 2018）\[45\]
 
-38. [碧血狂殺2](https://zh.wikipedia.org/wiki/荒野大镖客2 "wikilink") （PS4 和
-    XBox， 2018）\[46\]
+38. [碧血狂殺2](https://zh.wikipedia.org/wiki/荒野大镖客2 "wikilink") （PS4 和 XBox， 2018）\[46\]
 
 ## 參考
 
@@ -145,27 +110,16 @@ IGN很少給予滿分。从1990年代起，總共有38款遊戲得到滿分\[5\]
 
   - [官方网站](http://www.ign.com/?setccpref=US)
   - [IGN中国版](http://www.ign.xn--fiqs8s/)
-  - 在[YouTube](../Page/YouTube.md "wikilink")上的[IGN
-    Channel](http://www.youtube.com/user/IGNentertainment)
-  - [Origins: The History of
-    IGN](http://retro.ign.com/articles/845/845097p1.html)
+  - 在[YouTube](../Page/YouTube.md "wikilink")上的[IGN Channel](http://www.youtube.com/user/IGNentertainment)
+  - [Origins: The History of IGN](http://retro.ign.com/articles/845/845097p1.html)
 
-[Category:1996年建立的网站](https://zh.wikipedia.org/wiki/Category:1996年建立的网站 "wikilink")
-[Category:電子遊戲網站](https://zh.wikipedia.org/wiki/Category:電子遊戲網站 "wikilink")
-[Category:電子遊戲網路論壇](https://zh.wikipedia.org/wiki/Category:電子遊戲網路論壇 "wikilink")
-[Category:電子遊戲新聞網站](https://zh.wikipedia.org/wiki/Category:電子遊戲新聞網站 "wikilink")
-[Category:電子遊戲評論網站](https://zh.wikipedia.org/wiki/Category:電子遊戲評論網站 "wikilink")
+[Category:1996年建立的网站](https://zh.wikipedia.org/wiki/Category:1996年建立的网站 "wikilink") [Category:電子遊戲網站](https://zh.wikipedia.org/wiki/Category:電子遊戲網站 "wikilink") [Category:電子遊戲網路論壇](https://zh.wikipedia.org/wiki/Category:電子遊戲網路論壇 "wikilink") [Category:電子遊戲新聞網站](https://zh.wikipedia.org/wiki/Category:電子遊戲新聞網站 "wikilink") [Category:電子遊戲評論網站](https://zh.wikipedia.org/wiki/Category:電子遊戲評論網站 "wikilink")
 
-1.  [ign.com - Site Information from
-    Alexa](http://www.alexa.com/data/details/main/ign.com)
-2.  [IGN: Origins: The History of
-    IGN](http://retro.ign.com/articles/845/845097p1.html)
-3.  [IGN acquires GameTrailers, will maintain archive of all content
-    (update)](http://www.polygon.com/2016/5/17/11692866/gametrailers-ign-acquisition-youtube-archive).Polygon.2016-05-17.\[2016-06-26\].
-4.  [穿越了！全球最大游戏媒体 IGN
-    中国版简体中文网站悄然上线](http://www.chinaz.com/news/2017/0224/663458.shtml).站长之家.2017-02-24.\[2017-09-20\].
-5.  [Search Results for "" on
-    IGN](http://search.ign.com/products?objtName=game&so=exact&sort=relevance&ns=true&origin=advsearch&minscorelimit=0&maxscorelimit=10&genNav=true&query=&developerSearch=&platformSearch=-1&publisherSearch=&genreSearch=-1&minReleaseDate=&maxReleaseDate=&esrbSearch=-1&minScoreSearch=10&maxScoreSearch=10&x=112&y=7)
+1.  [ign.com - Site Information from Alexa](http://www.alexa.com/data/details/main/ign.com)
+2.  [IGN: Origins: The History of IGN](http://retro.ign.com/articles/845/845097p1.html)
+3.  [IGN acquires GameTrailers, will maintain archive of all content (update)](http://www.polygon.com/2016/5/17/11692866/gametrailers-ign-acquisition-youtube-archive).Polygon.2016-05-17.\[2016-06-26\].
+4.  [穿越了！全球最大游戏媒体 IGN 中国版简体中文网站悄然上线](http://www.chinaz.com/news/2017/0224/663458.shtml).站长之家.2017-02-24.\[2017-09-20\].
+5.  [Search Results for "" on IGN](http://search.ign.com/products?objtName=game&so=exact&sort=relevance&ns=true&origin=advsearch&minscorelimit=0&maxscorelimit=10&genNav=true&query=&developerSearch=&platformSearch=-1&publisherSearch=&genreSearch=-1&minReleaseDate=&maxReleaseDate=&esrbSearch=-1&minScoreSearch=10&maxScoreSearch=10&x=112&y=7)
 6.
 7.
 8.

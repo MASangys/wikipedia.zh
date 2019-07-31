@@ -6,9 +6,7 @@
   - [PubChem searchpage](http://pubchem.ncbi.nlm.nih.gov/search/)
   - [PubChem FAQ](http://pubchem.ncbi.nlm.nih.gov/help.html#faq)
   - [PubChem Help](http://pubchem.ncbi.nlm.nih.gov/help.html)
-  - [PubChemSR Search
-    Aid](https://web.archive.org/web/20071227115807/http://cheminfo.informatics.indiana.edu/PubChemSR/)
-  - [PubChem for
-    Newbies](http://depth-first.com/articles/2007/09/26/pubchem-for-newbies/)
+  - [PubChemSR Search Aid](https://web.archive.org/web/20071227115807/http://cheminfo.informatics.indiana.edu/PubChemSR/)
+  - [PubChem for Newbies](http://depth-first.com/articles/2007/09/26/pubchem-for-newbies/)
 
 [Category:化學資料庫](https://zh.wikipedia.org/wiki/Category:化學資料庫 "wikilink")

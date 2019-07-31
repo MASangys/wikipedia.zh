@@ -1,8 +1,4 @@
-在[Unix系統中](https://zh.wikipedia.org/wiki/Unix "wikilink")， KWin是[X
-Window系統中的一個](../Page/X_Window系統.md "wikilink")[窗口管理器](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")。
-構成[KDE Software
-Compilation的一部分](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink")
-，雖然它可以單獨使用或用於其他的桌面環境。
+在[Unix系統中](https://zh.wikipedia.org/wiki/Unix "wikilink")， KWin是[X Window系統中的一個](../Page/X_Window系統.md "wikilink")[窗口管理器](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")。 構成[KDE Software Compilation的一部分](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink") ，雖然它可以單獨使用或用於其他的桌面環境。
 
 KWin可由基于[ECMAScript](../Page/ECMAScript.md "wikilink")的[脚本](../Page/脚本语言.md "wikilink")（如[QML](../Page/QML.md "wikilink")、[QtScript](../Page/QtScript.md "wikilink")）来进行配置。\[1\]
 
@@ -47,18 +43,13 @@ KWin可由基于[ECMAScript](../Page/ECMAScript.md "wikilink")的[脚本](../Pag
 
 ## 外部連結
 
-  - [KWin release notes for
-    KDE4.0](http://techbase.kde.org/Projects/KWin/4.0-release-notes)
+  - [KWin release notes for KDE4.0](http://techbase.kde.org/Projects/KWin/4.0-release-notes)
   - [KDE UserBase 上的 KWin](http://userbase.kde.org/KWin_\(zh_TW\))
-  - [KDE UserBase 上的
-    KWin](https://web.archive.org/web/20100819132835/http://userbase.kde.org/KWin_\(zh_CN\))
-  - [給 KWin 4
-    用的外框](https://web.archive.org/web/20100826191559/http://kde-look.org/index.php?xcontentmode=75)
-  - [KWin Decorations
-    HOWTO](http://www.usermode.org/docs/kwintheme.html)
+  - [KDE UserBase 上的 KWin](https://web.archive.org/web/20100819132835/http://userbase.kde.org/KWin_\(zh_CN\))
+  - [給 KWin 4 用的外框](https://web.archive.org/web/20100826191559/http://kde-look.org/index.php?xcontentmode=75)
+  - [KWin Decorations HOWTO](http://www.usermode.org/docs/kwintheme.html)
 
-[Category:KDE_Software_Compilation](https://zh.wikipedia.org/wiki/Category:KDE_Software_Compilation "wikilink")
-[Category:X_视窗管理器](https://zh.wikipedia.org/wiki/Category:X_视窗管理器 "wikilink")
+[Category:KDE_Software_Compilation](https://zh.wikipedia.org/wiki/Category:KDE_Software_Compilation "wikilink") [Category:X_视窗管理器](https://zh.wikipedia.org/wiki/Category:X_视窗管理器 "wikilink")
 
 1.
 2.

@@ -1,15 +1,11 @@
-**ebullient future**（），是2008年10月5日由[GENEON
-ENTERTAINMENT發行的日本女歌手](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")[ELISA的一首單曲](../Page/ELISA_\(歌手\).md "wikilink")\[1\]\[2\]。商品番號為GNCA-0122。這首單曲是同年[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[ef
-- a tale of
-melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》的主題曲。
+**ebullient future**（），是2008年10月5日由[GENEON ENTERTAINMENT發行的日本女歌手](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")[ELISA的一首單曲](../Page/ELISA_\(歌手\).md "wikilink")\[1\]\[2\]。商品番號為GNCA-0122。這首單曲是同年[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[ef - a tale of melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》的主題曲。
 
 ## 收錄曲
 
 1.  ebullient future（英語版）- 3分41秒
       -
         英譯詞：西田恵美；作曲、編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")
-        電視動畫《[ef - a tale of
-        melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》片頭曲
+        電視動畫《[ef - a tale of melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》片頭曲
 2.  ebullient future（日語版）- 3分41秒
       -
         作詞：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")；作曲、編曲：天門
@@ -33,8 +29,7 @@ melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》
   - 封面圖片設計：高宮紀徹
   - 特別鳴謝
       - [大沼心](../Page/大沼心.md "wikilink")、[新房昭之](../Page/新房昭之.md "wikilink")、、数馬英治、久保田光俊・雨宮茂幸（[SHAFT](../Page/SHAFT.md "wikilink")）
-      - 太布尚弘・（[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")）、（[Frontier
-        Works](../Page/Frontier_Works.md "wikilink")）、多賀徹（Kitty）、「ef2」製作委員会
+      - 太布尚弘・（[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")）、（[Frontier Works](../Page/Frontier_Works.md "wikilink")）、多賀徹（Kitty）、「ef2」製作委員会
 
 ## 脚注
 
@@ -46,16 +41,10 @@ melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》
 
 ## 外部連結
 
-  - [「ebullient future」
-    ELISA](https://web.archive.org/web/20081016053800/http://www.geneon-ent.co.jp/music/elisa/gnca0122/index.html)
-    - GENEON ENTERTAINMENT
+  - [「ebullient future」 ELISA](https://web.archive.org/web/20081016053800/http://www.geneon-ent.co.jp/music/elisa/gnca0122/index.html) - GENEON ENTERTAINMENT
   - [原聲CD介紹](http://www.ef-melo.com/)
 
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:ELISA歌曲](https://zh.wikipedia.org/wiki/Category:ELISA歌曲 "wikilink")
+[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:ELISA歌曲](https://zh.wikipedia.org/wiki/Category:ELISA歌曲 "wikilink")
 
-1.  [「ef」の世界を歌う　「ebullient
-    future」のELISAオフィシャルコメント](https://animeanime.jp/article/2008/11/08/3880.html)
-2.  [ELISAの3rdシングル「ebullient
-    future」がオリコン初登場17位を記録！](https://okmusic.jp/news/2807)
+1.  [「ef」の世界を歌う　「ebullient future」のELISAオフィシャルコメント](https://animeanime.jp/article/2008/11/08/3880.html)
+2.  [ELISAの3rdシングル「ebullient future」がオリコン初登場17位を記録！](https://okmusic.jp/news/2807)

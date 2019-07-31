@@ -1,5 +1,4 @@
-**HCG
-87**是登錄在[希克斯緻密星系群目錄上的一個緻密](https://zh.wikipedia.org/wiki/希克斯緻密星系群 "wikilink")[星系團](https://zh.wikipedia.org/wiki/星系團 "wikilink")，這個集團位於[摩羯座](../Page/摩羯座.md "wikilink")，距離大約是4億[光年遠](../Page/光年.md "wikilink")。
+**HCG 87**是登錄在[希克斯緻密星系群目錄上的一個緻密](https://zh.wikipedia.org/wiki/希克斯緻密星系群 "wikilink")[星系團](https://zh.wikipedia.org/wiki/星系團 "wikilink")，這個集團位於[摩羯座](../Page/摩羯座.md "wikilink")，距離大約是4億[光年](../Page/光年.md "wikilink")遠。
 
 ## 成員
 
@@ -85,14 +84,10 @@
 
 ## 外部連結
 
-  - [NASA APOD: Galaxy Group HCG 87 -
-    July 31, 2003](http://antwrp.gsfc.nasa.gov/apod/ap030731.html)
-  - [Close-ups of
-    HCG 87](http://heritage.stsci.edu/1999/31/closeup.html)
-  - [Galactic
-    Clusters](https://web.archive.org/web/20060503230456/http://www.cosmiclight.com/imagegalleries/gclusters.htm)
-  - [Studies of Hickson Compact
-    Groups](http://heritage.stsci.edu/1999/31/supplemental.html)
+  - [NASA APOD: Galaxy Group HCG 87 - July 31, 2003](http://antwrp.gsfc.nasa.gov/apod/ap030731.html)
+  - [Close-ups of HCG 87](http://heritage.stsci.edu/1999/31/closeup.html)
+  - [Galactic Clusters](https://web.archive.org/web/20060503230456/http://www.cosmiclight.com/imagegalleries/gclusters.htm)
+  - [Studies of Hickson Compact Groups](http://heritage.stsci.edu/1999/31/supplemental.html)
 
 ## 參考資料
 
@@ -102,10 +97,7 @@
 
 </div>
 
-[Category:螺旋星系](https://zh.wikipedia.org/wiki/Category:螺旋星系 "wikilink")
-[Category:希克斯緻密星系群](https://zh.wikipedia.org/wiki/Category:希克斯緻密星系群 "wikilink")
-[Category:星系团](https://zh.wikipedia.org/wiki/Category:星系团 "wikilink")
-[Category:摩羯座](https://zh.wikipedia.org/wiki/Category:摩羯座 "wikilink")
+[Category:螺旋星系](https://zh.wikipedia.org/wiki/Category:螺旋星系 "wikilink") [Category:希克斯緻密星系群](https://zh.wikipedia.org/wiki/Category:希克斯緻密星系群 "wikilink") [Category:星系团](https://zh.wikipedia.org/wiki/Category:星系团 "wikilink") [Category:摩羯座](https://zh.wikipedia.org/wiki/Category:摩羯座 "wikilink")
 
 1.
 2.

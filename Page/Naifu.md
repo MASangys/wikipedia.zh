@@ -1,10 +1,8 @@
-**Naifu**（）是[日本](../Page/日本.md "wikilink")的[摇滚乐团](https://zh.wikipedia.org/wiki/摇滚乐团 "wikilink")，是[GIZA
-studio下属的继](../Page/GIZA_studio.md "wikilink")[WAG和](https://zh.wikipedia.org/wiki/WAG "wikilink")[doa以来又一男子乐团](https://zh.wikipedia.org/wiki/doa "wikilink")。
+**Naifu**（）是[日本](../Page/日本.md "wikilink")的[摇滚乐团](https://zh.wikipedia.org/wiki/摇滚乐团 "wikilink")，是[GIZA studio下属的继](../Page/GIZA_studio.md "wikilink")[WAG和](https://zh.wikipedia.org/wiki/WAG "wikilink")[doa以来又一男子乐团](https://zh.wikipedia.org/wiki/doa "wikilink")。
 
 ## 来历
 
-  - 2005年由过去以个人活动为主的荒神直规和SCHON为中心组成乐团，此后，以[大阪的](https://zh.wikipedia.org/wiki/大阪 "wikilink")[Live
-    House为中心展开演唱活动](https://zh.wikipedia.org/wiki/Live_House "wikilink")。
+  - 2005年由过去以个人活动为主的荒神直规和SCHON为中心组成乐团，此后，以[大阪的](https://zh.wikipedia.org/wiki/大阪 "wikilink")[Live House为中心展开演唱活动](https://zh.wikipedia.org/wiki/Live_House "wikilink")。
   - 2007年所属GIZA studio。
   - 2009年11月19日宣布于12月31日解散。
 

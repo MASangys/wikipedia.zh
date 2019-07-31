@@ -1,6 +1,4 @@
-[Special:Gadgets](https://zh.wikipedia.org/wiki/Special:Gadgets "wikilink")
-[Special:GadgetUsage](https://zh.wikipedia.org/wiki/Special:GadgetUsage "wikilink")
-[Special:参数设置\#mw-prefsection-gadgets](https://zh.wikipedia.org/wiki/Special:参数设置#mw-prefsection-gadgets "wikilink")
+[Special:Gadgets](https://zh.wikipedia.org/wiki/Special:Gadgets "wikilink") [Special:GadgetUsage](https://zh.wikipedia.org/wiki/Special:GadgetUsage "wikilink") [Special:参数设置\#mw-prefsection-gadgets](https://zh.wikipedia.org/wiki/Special:参数设置#mw-prefsection-gadgets "wikilink")
 
 <div style='font-family:monospace; word-break:break-all;'>
 
@@ -19,13 +17,14 @@
   - ToolsRedirect-opt-bolds\[ResourceLoader|dependencies=ext.gadget.ToolsRedirect|rights=edit\]|ToolsRedirect-opt-bolds.js
   - ToolsRedirect-bio-latin-names\[ResourceLoader|dependencies=ext.gadget.ToolsRedirect|rights=edit\]|ToolsRedirect-bio-latin-names.js
   - ToolsRedirect-courtesy-and-art-names\[ResourceLoader|dependencies=ext.gadget.ToolsRedirect|rights=edit\]|ToolsRedirect-courtesy-and-art-names.js
-  - Wordcount\[ResourceLoader|dependencies=ext.gadget.Wordcount\]|Wordcount.js
+  - Wordcount\[ResourceLoader\]|Wordcount.js
   - fixlinkstyle\[ResourceLoader|dependencies=mediawiki.util,jquery.ui.dialog\]|fixlinkstyle.js
   - dykc-nomination\[ResourceLoader|dependencies=mediawiki.util,jquery.ui.dialog|rights=autoconfirmed\]|dykc-nomination.js
   - WikidataDesc\[ResourceLoader\]|WikidataDesc.js
   - link-ts\[ResourceLoader\]|link-ts.js
   - easy-archive\[ResourceLoader\]|easy-archive.js
   - edit-count\[ResourceLoader\]|edit-count.js
+  - dcparticipant\[ResourceLoader|dependencies=ext.gadget.site-lib,jquery.ui.dialog,mediawiki.util,jquery.cookie,oojs-ui-core,oojs-ui-windows|default|rights=autoconfirmed\]|dcparticipant.js
 
 ## editbutton
 
@@ -52,6 +51,7 @@
   - OSMMap\[ResourceLoader|dependencies=ext.gadget.site-lib,ext.gadget.MoveResizeAbsolute|type=general\]|OSMMap.js|OSMMap.css
   - FixedTopBottomLink\[ResourceLoader|dependencies=ext.gadget.site-lib,jquery.cookie,jquery.ui.dialog|default|type=general\]|FixedTopBottomLinkLeftSide.js|FixedTopBottomLinkLeftSide.css
   - confirm-logout\[ResourceLoader\]|confirm-logout.js
+  - shortURL\[ResourceLoader|dependencies=mediawiki.util,oojs-ui|default|type=general\]|shortURL.js
 
 ## appear
 
@@ -110,10 +110,8 @@
 
   - JSL\[ResourceLoader\]|JSL.js
   - SettingsUI\[ResourceLoader|dependencies=jquery.ui.dialog,jquery.ui.slider,jquery.ui.button,mediawiki.user,ext.gadget.libJQuery|rights=hidden|hidden\]|SettingsUI.js
-  - SettingsManager
-    \[ResourceLoader|dependencies=mediawiki.user,user.options,user.tokens,mediawiki.api|rights=hidden|hidden\]|SettingsManager.js
-  - libJQuery
-    \[ResourceLoader|rights=hidden|hidden\]|libJQuery.js|libJQuery.css
+  - SettingsManager \[ResourceLoader|dependencies=mediawiki.user,user.options,user.tokens,mediawiki.api|rights=hidden|hidden\]|SettingsManager.js
+  - libJQuery \[ResourceLoader|rights=hidden|hidden\]|libJQuery.js|libJQuery.css
   - css3-mediaqueries-js\[ResourceLoader|rights=hidden|hidden\]|css3-mediaqueries.js
   - site-lib\[ResourceLoader|dependencies=mediawiki.legacy.wikibits,mediawiki.util|rights=hidden|hidden|targets=desktop,mobile\]|site-lib.js
   - MoveResizeAbsolute\[ResourceLoader|rights=hidden|hidden\]|MoveResizeAbsolute.js

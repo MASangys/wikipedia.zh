@@ -1,5 +1,4 @@
-[Jrtokaibus-shinjukulinerhama-20070202.jpg](https://zh.wikipedia.org/wiki/File:Jrtokaibus-shinjukulinerhama-20070202.jpg "fig:Jrtokaibus-shinjukulinerhama-20070202.jpg")
-**JR東海巴士**（）是[JR東海全資持有負責經營](https://zh.wikipedia.org/wiki/JR東海 "wikilink")[巴士業務的](https://zh.wikipedia.org/wiki/巴士 "wikilink")[公司](../Page/公司.md "wikilink")\[1\]。
+[Jrtokaibus-shinjukulinerhama-20070202.jpg](https://zh.wikipedia.org/wiki/File:Jrtokaibus-shinjukulinerhama-20070202.jpg "fig:Jrtokaibus-shinjukulinerhama-20070202.jpg") **JR東海巴士**（）是[JR東海全資持有負責經營](https://zh.wikipedia.org/wiki/JR東海 "wikilink")[巴士業務的](https://zh.wikipedia.org/wiki/巴士 "wikilink")[公司](../Page/公司.md "wikilink")\[1\]。
 
 ## 歷史
 
@@ -15,8 +14,6 @@
 
   - [JR東海巴士](http://www.jrtbinm.co.jp/)
 
-[Category:日本巴士公司](https://zh.wikipedia.org/wiki/Category:日本巴士公司 "wikilink")
-[Category:JR東海集團](https://zh.wikipedia.org/wiki/Category:JR東海集團 "wikilink")
-[Category:愛知縣公司](https://zh.wikipedia.org/wiki/Category:愛知縣公司 "wikilink")
+[Category:日本巴士公司](https://zh.wikipedia.org/wiki/Category:日本巴士公司 "wikilink") [Category:JR東海集團](https://zh.wikipedia.org/wiki/Category:JR東海集團 "wikilink") [Category:愛知縣公司](https://zh.wikipedia.org/wiki/Category:愛知縣公司 "wikilink")
 
 1.

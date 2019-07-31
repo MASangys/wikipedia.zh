@@ -21,17 +21,11 @@
 ## 参考文献
 
   - [pconline:方便易用:宽带电视TvAnts使用指南](http://arch.pconline.com.cn//pcedu/tuijian/network/other/0509/706025.html)
-  - [8款直播软件推荐,昂达V80
-    Plus直播随身看](http://pad.pconline.com.cn/822/8226881.html)
-  - [ACM论文：P2P IPTV measurement: a case study of
-    TVants](http://dl.acm.org/citation.cfm?id=1368490)
-  - [Dissecting PPLive, SopCast,
-    TVAnts](https://www.researchgate.net/profile/Emilio_Leonardi/publication/265872637_Dissecting_PPLive_SopCast_TVAnts/links/55e439db08ae2fac4721550b.pdf)
-  - [Characterization of TVAnts: Scaling Analysis of a P2P IPTV
-    Traffic](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7563&rep=rep1&type=pdf)
+  - [8款直播软件推荐,昂达V80 Plus直播随身看](http://pad.pconline.com.cn/822/8226881.html)
+  - [ACM论文：P2P IPTV measurement: a case study of TVants](http://dl.acm.org/citation.cfm?id=1368490)
+  - [Dissecting PPLive, SopCast, TVAnts](https://www.researchgate.net/profile/Emilio_Leonardi/publication/265872637_Dissecting_PPLive_SopCast_TVAnts/links/55e439db08ae2fac4721550b.pdf)
+  - [Characterization of TVAnts: Scaling Analysis of a P2P IPTV Traffic](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7563&rep=rep1&type=pdf)
 
-[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink")
-[Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
+[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
 
-1.  [\[網路多媒體](http://toget.pchome.com.tw/category/multimedia/multimedia/18180.html)用寬頻免費看電視：TVants
-    PC Home 2009-11-25\]
+1.  [\[網路多媒體](http://toget.pchome.com.tw/category/multimedia/multimedia/18180.html)用寬頻免費看電視：TVants PC Home 2009-11-25\]

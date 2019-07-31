@@ -1,7 +1,4 @@
-**Aqua
-timez**（暱稱「」）是日本[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，由五位成員組成：太志、大介、OKP-STAR、mayuko、TASSHI，為[EPIC
-Records Japan
-Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。他們是第一隊在地下時期和主流出道時期皆能獲得專輯週榜首位的樂隊。
+**Aqua timez**（暱稱「」）是日本[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，由五位成員組成：太志、大介、OKP-STAR、mayuko、TASSHI，為[EPIC Records Japan Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。他們是第一隊在地下時期和主流出道時期皆能獲得專輯週榜首位的樂隊。
 
 ## 成員介紹
 
@@ -54,8 +51,7 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 
 <!-- end list -->
 
-  - Aqua
-    Times組成，由**主唱太志**、**吉他手大介**、**貝斯手OKP-STAR**、**鍵盤手Mayuko**及**鼓手**五人所組成的樂團，正式出道前主要以[東京為中心](https://zh.wikipedia.org/wiki/東京 "wikilink")，活躍於地下樂團活動。
+  - Aqua Times組成，由**主唱太志**、**吉他手大介**、**貝斯手OKP-STAR**、**鍵盤手Mayuko**及**鼓手**五人所組成的樂團，正式出道前主要以[東京為中心](https://zh.wikipedia.org/wiki/東京 "wikilink")，活躍於地下樂團活動。
 
 <!-- end list -->
 
@@ -71,7 +67,7 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 
 <!-- end list -->
 
-  - 8月24日　發行首張地下樂團創作專輯『**奏響天際的祈禱**』，寫下日本[Oricon公信榜史上地下樂團中](../Page/Oricon.md "wikilink")，第五組首張專輯獲得公信流行榜專輯冠軍的團體，創下日本音樂史上地下專輯發行後花了最長時間（14週）才獲得冠軍的紀錄。
+  - 8月24日　發行首張地下樂團創作專輯『**奏響天際的祈禱**』，寫下日本[Oricon](../Page/Oricon.md "wikilink")公信榜史上地下樂團中，第五組首張專輯獲得公信流行榜專輯冠軍的團體，創下日本音樂史上地下專輯發行後花了最長時間（14週）才獲得冠軍的紀錄。
 
 <!-- end list -->
 
@@ -79,10 +75,8 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 
 <!-- end list -->
 
-  - 4月5日　推出迷你專輯『**七彩的塗鴉**』，正式主流出道。Aqua
-    Timez以人的喜怒哀樂為主要創作題材，以朗朗上口的旋律、令人感同身受的歌詞，加上主唱太志給予人勇氣與溫暖的唱腔，及完美的演奏，根據調查，最受到10幾到20幾歲的年輕人的認同，正式出道後立即受到[日本年輕歌迷的喜愛](../Page/日本.md "wikilink")。另**鼓手**於本張專輯發行時離開樂團，**TASSHI**加入樂團、擔任鼓手位置。
-  - 12月6日　在日本推出首張創作專輯『**追風之歌**』，專輯收錄之前地下樂團時期多首膾炙人口的創作歌曲，如電影【[勇者物語](../Page/勇者物語.md "wikilink")】的主題曲「**迎向朝陽**」、[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")
-    walkman廣告曲「**夜夜夜夜**」等多首歌曲，同年首度登上第57回[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[紅白歌合戰的舞台](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")，在2007年年初的ORICON公信榜前100名中，寫下共有2張單曲及2張專輯共計4張作品同時在榜內的紀錄。
+  - 4月5日　推出迷你專輯『**七彩的塗鴉**』，正式主流出道。Aqua Timez以人的喜怒哀樂為主要創作題材，以朗朗上口的旋律、令人感同身受的歌詞，加上主唱太志給予人勇氣與溫暖的唱腔，及完美的演奏，根據調查，最受到10幾到20幾歲的年輕人的認同，正式出道後立即受到[日本](../Page/日本.md "wikilink")年輕歌迷的喜愛。另**鼓手**於本張專輯發行時離開樂團，**TASSHI**加入樂團、擔任鼓手位置。
+  - 12月6日　在日本推出首張創作專輯『**追風之歌**』，專輯收錄之前地下樂團時期多首膾炙人口的創作歌曲，如電影【[勇者物語](../Page/勇者物語.md "wikilink")】的主題曲「**迎向朝陽**」、[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") walkman廣告曲「**夜夜夜夜**」等多首歌曲，同年首度登上第57回[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[紅白歌合戰的舞台](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")，在2007年年初的ORICON公信榜前100名中，寫下共有2張單曲及2張專輯共計4張作品同時在榜內的紀錄。
 
 <!-- end list -->
 
@@ -90,8 +84,7 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 
 <!-- end list -->
 
-  - 推出第二張創作專輯『**街頭塗鴉**』空降日本ORICON公信榜專輯榜第二名，奠定Aqua
-    Timez在日本樂壇的地位。收錄包括動畫【[BLEACH](../Page/BLEACH.md "wikilink")】片頭曲「**ALONES**」、日劇【女警狀況外】主題曲「**手掌心**」、碳酸飲料廣告曲「**Shiori**」。
+  - 推出第二張創作專輯『**街頭塗鴉**』空降日本ORICON公信榜專輯榜第二名，奠定Aqua Timez在日本樂壇的地位。收錄包括動畫【[BLEACH](../Page/BLEACH.md "wikilink")】片頭曲「**ALONES**」、日劇【女警狀況外】主題曲「**手掌心**」、碳酸飲料廣告曲「**Shiori**」。
 
 <!-- end list -->
 
@@ -108,8 +101,7 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 
 <!-- end list -->
 
-  - 3月11日　推出第三張創作專輯『**無名花**』，收錄包括生產限定單曲「**STAY
-    GOLD**」、動畫【[BLEACH](../Page/BLEACH.md "wikilink")】片頭曲「**薇蘿妮卡**」、電影【應援團少女】主題曲「**夏天的尾巴**」等。
+  - 3月11日　推出第三張創作專輯『**無名花**』，收錄包括生產限定單曲「**STAY GOLD**」、動畫【[BLEACH](../Page/BLEACH.md "wikilink")】片頭曲「**薇蘿妮卡**」、電影【應援團少女】主題曲「**夏天的尾巴**」等。
   - 3月20日　舉行全日本小型巡迴演唱會「**still connected tour '09**」。
   - 10月14日　發行首張精選輯『**The BEST of Aqua Timez**』，並獲得公信榜第一名。
 
@@ -128,12 +120,8 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 
 <!-- end list -->
 
-  - 2月16日　推出第四張創作專輯『**活在當下**』，收錄【[極道鮮師
-    (電影)](../Page/極道鮮師_\(電影\).md "wikilink")】主題曲「**緬梔花～花之歌～**」、動畫【[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")】片尾曲「**深夜的管弦樂團**」、動畫【[STAR
-    DRIVER
-    閃亮的塔科特](../Page/STAR_DRIVER_閃亮的塔科特.md "wikilink")】片頭曲「**超越地心引力**」等。
-  - 6月4日　開始舉行巡迴演唱會「**Carpe diem tour 2011**」，共25場。8月24日巡迴的最終場，為Aqua
-    Timez首次登上[日本武道館演出](../Page/日本武道館.md "wikilink")。
+  - 2月16日　推出第四張創作專輯『**活在當下**』，收錄【[極道鮮師 (電影)](../Page/極道鮮師_\(電影\).md "wikilink")】主題曲「**緬梔花～花之歌～**」、動畫【[火影忍者疾風傳](../Page/火影忍者疾風傳.md "wikilink")】片尾曲「**深夜的管弦樂團**」、動畫【[STAR DRIVER 閃亮的塔科特](../Page/STAR_DRIVER_閃亮的塔科特.md "wikilink")】片頭曲「**超越地心引力**」等。
+  - 6月4日　開始舉行巡迴演唱會「**Carpe diem tour 2011**」，共25場。8月24日巡迴的最終場，為Aqua Timez首次登上[日本武道館](../Page/日本武道館.md "wikilink")演出。
 
 <!-- end list -->
 
@@ -141,8 +129,7 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 
 <!-- end list -->
 
-  - 9月5日　第五張創作專輯『**because you are
-    you**』發行，收錄動畫【[BLEACH](../Page/BLEACH.md "wikilink")】片尾曲「**MASK**」、日劇【[幽靈媽媽搜查線](../Page/幽靈媽媽搜查線.md "wikilink")】主題曲「**花苞**」等歌曲。
+  - 9月5日　第五張創作專輯『**because you are you**』發行，收錄動畫【[BLEACH](../Page/BLEACH.md "wikilink")】片尾曲「**MASK**」、日劇【[幽靈媽媽搜查線](../Page/幽靈媽媽搜查線.md "wikilink")】主題曲「**花苞**」等歌曲。
   - 10月25日　開始巡迴演唱會「**because we are we tour 2012-2013**」。
 
 <!-- end list -->
@@ -152,8 +139,7 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 <!-- end list -->
 
   - 5月8日 宣布「**Present is a Present tour 2018**」巡演結束後樂團解散。
-  - 11月18日 於[橫濱體育館舉辦最後一場演唱會](../Page/橫濱體育館.md "wikilink")『Aqua
-    Timez　FINAL LIVE「last dance」』，於會後解散。
+  - 11月18日 於[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦最後一場演唱會『Aqua Timez　FINAL LIVE「last dance」』，於會後解散。
 
 ## 音樂作品
 
@@ -168,7 +154,7 @@ Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。
 <th><p>收錄歌曲</p></th>
 <th><p>規格</p></th>
 <th><p>產品編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon排行榜</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>排行榜</p></th>
 <th><p>附註</p></th>
 <th><p>收錄專輯</p></th>
 </tr>
@@ -527,7 +513,7 @@ CD</p></td>
 <th><p>收錄歌曲</p></th>
 <th><p>規格</p></th>
 <th><p>產品編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon排行榜</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>排行榜</p></th>
 <th><p>附註</p></th>
 </tr>
 </thead>
@@ -645,7 +631,7 @@ CD</p></td>
 <th><p>收錄歌曲</p></th>
 <th><p>規格</p></th>
 <th><p>產品編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon排行榜</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>排行榜</p></th>
 <th><p>附註</p></th>
 </tr>
 </thead>
@@ -706,7 +692,7 @@ CD</p></td>
 <th><p>收錄歌曲</p></th>
 <th><p>規格</p></th>
 <th><p>產品編號</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon排行榜</a></p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a>排行榜</p></th>
 <th><p>附註</p></th>
 </tr>
 </thead>
@@ -775,12 +761,6 @@ CD</p></td>
 
   - [Aqua Timez 臉書專頁](https://www.facebook.com/AquaTimezofficial)
 
-  - [Aqua Timez 的
-    Blog「流るる風の跡を」](https://web.archive.org/web/20080117102531/http://blog.excite.co.jp/aquatimez/)
+  - [Aqua Timez 的 Blog「流るる風の跡を」](https://web.archive.org/web/20080117102531/http://blog.excite.co.jp/aquatimez/)
 
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
-[Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:流行搖滾樂團 "wikilink")
+[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:流行搖滾樂團 "wikilink")

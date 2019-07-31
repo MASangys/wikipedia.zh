@@ -23,10 +23,7 @@
   -
   -
   -
-[Category:仙王座](https://zh.wikipedia.org/wiki/Category:仙王座 "wikilink")
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:1988年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1988年发现的系外行星 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
+[Category:仙王座](https://zh.wikipedia.org/wiki/Category:仙王座 "wikilink") [Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:1988年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1988年发现的系外行星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
 
 1.
 2.

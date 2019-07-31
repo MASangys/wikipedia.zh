@@ -202,8 +202,7 @@ IGO發表、引進「美食ID」制度。
 <!-- end list -->
 
   - IGO
-    「國際美食機構」的略稱，
-    決定野生的野獸的捕獲等級，再用高價購買，本來只不過是聯合國的一個小機關，隨著美食家食材的需求量增加而從聯合國獨立，現在加盟國數超過聯合國遍及了360個國家，常在IGO直屬飯店舉行美食家各國首腦聚會等等，互相比較財力和政治力。
+    「國際美食機構」的略稱， 決定野生的野獸的捕獲等級，再用高價購買，本來只不過是聯合國的一個小機關，隨著美食家食材的需求量增加而從聯合國獨立，現在加盟國數超過聯合國遍及了360個國家，常在IGO直屬飯店舉行美食家各國首腦聚會等等，互相比較財力和政治力。
 
 <!-- end list -->
 
@@ -256,8 +255,7 @@ IGO發表、引進「美食ID」制度。
 <!-- end list -->
 
   -
-    位於在HOTEL
-    GOURMET東方900公里，有「世界廚房」之稱的大型批發市場，總面積300HA，每天入荷的食材量約有90萬噸，收入約1兆元，世界每個角落的稀有食材都聚集在這裡。
+    位於在HOTEL GOURMET東方900公里，有「世界廚房」之稱的大型批發市場，總面積300HA，每天入荷的食材量約有90萬噸，收入約1兆元，世界每個角落的稀有食材都聚集在這裡。
 
 <!-- end list -->
 
@@ -736,8 +734,7 @@ IGO發表、引進「美食ID」制度。
       - Bar Heavy Lodge
     美食城中心，美食獵人聚集的酒店。
       - 美食塔叉子大樓
-    樓層介紹。普通樓層 0\~100F。中級樓層 101\~200F。200樓以上店，幾乎都謝絕第一次來的客人。高級樓層
-    201\~300F。最高級樓層 301\~320F。301樓以上店，只能從空中搭乘飛行船進去，限定會員的店。
+    樓層介紹。普通樓層 0\~100F。中級樓層 101\~200F。200樓以上店，幾乎都謝絕第一次來的客人。高級樓層 201\~300F。最高級樓層 301\~320F。301樓以上店，只能從空中搭乘飛行船進去，限定會員的店。
       - HEAL THY
     美食塔叉子大樓273樓7星級燒肉。特瑞科在特別展望包廂吃飯。
       - Guts
@@ -2420,11 +2417,9 @@ ISBN 978-4-08-880885-7</p></td>
 ## OVA動畫
 
   - JSAT2009版 『美食獵人TORIKO』（トリコ\!）
-      - 第一彈[Jump
-        Festa動畫版](../Page/Jump_Festa.md "wikilink")。2009年10月上映，配音與電視動畫版不同。
+      - 第一彈[Jump Festa動畫版](../Page/Jump_Festa.md "wikilink")。2009年10月上映，配音與電視動畫版不同。
   - JSAT2010版 『美食獵人TORIKO』（トリコ バーバリアンアイビーを捕獲せよ\!）
-      - 第二彈[Jump
-        Festa動畫版](../Page/Jump_Festa.md "wikilink")。2010年10月上映，配音與電視動畫版不同。
+      - 第二彈[Jump Festa動畫版](../Page/Jump_Festa.md "wikilink")。2010年10月上映，配音與電視動畫版不同。
 
 ## 動畫
 
@@ -2436,8 +2431,7 @@ ISBN 978-4-08-880885-7</p></td>
 
 :;「」（第1話－第98話）
 
-:: 作詞 - [山田ひろし](https://zh.wikipedia.org/wiki/山田ひろし "wikilink") / 作・編曲 -
-櫻井真一 / 歌 - [串田晃](../Page/串田晃.md "wikilink")
+:: 作詞 - [山田ひろし](https://zh.wikipedia.org/wiki/山田ひろし "wikilink") / 作・編曲 - 櫻井真一 / 歌 - [串田晃](../Page/串田晃.md "wikilink")
 
 :;「豪食マイウェイ\!」（第99話-第147話）
 
@@ -2450,65 +2444,52 @@ ISBN 978-4-08-880885-7</p></td>
 
 :;「SATISFACTION」（第2話－第25話）
 
-::作詞 - いしわたり淳治 / 作曲 - 堀向彦輝 / 編曲：平出悟 / 歌 -
-[FTIsland](../Page/FTIsland.md "wikilink")
+::作詞 - いしわたり淳治 / 作曲 - 堀向彦輝 / 編曲：平出悟 / 歌 - [FTIsland](../Page/FTIsland.md "wikilink")
 
 :;「DELI-DELI☆DELICIOUS」（第26話－第38話）
 
-:: 作詞 - こだまさおり / 作・編曲：山口朗宴 / 歌 -
-[Sea☆A](https://zh.wikipedia.org/wiki/Sea☆A "wikilink")
+:: 作詞 - こだまさおり / 作・編曲：山口朗宴 / 歌 - [Sea☆A](https://zh.wikipedia.org/wiki/Sea☆A "wikilink")
 
 :;「サブリナ」（第39話－第50話）
 
-:: 作詞 - [家入里歐](../Page/家入里歐.md "wikilink") / 作曲 - 西尾芳彦、家入里歐 / 編曲：三輪コウダイ
-/ 歌 - 家入里歐
+:: 作詞 - [家入里歐](../Page/家入里歐.md "wikilink") / 作曲 - 西尾芳彦、家入里歐 / 編曲：三輪コウダイ / 歌 - 家入里歐
 
 :;「LOVE CHASE」（第52話－第62話）
 
-:: 作詞 - Blaise Maynard, tax / 作曲 - Blaise Maynard / 編曲：Maynard Plant,
-Zen / 歌 - [山下智久](../Page/山下智久.md "wikilink")
+:: 作詞 - Blaise Maynard, tax / 作曲 - Blaise Maynard / 編曲：Maynard Plant, Zen / 歌 - [山下智久](../Page/山下智久.md "wikilink")
 
-::
-備註：台灣方面受到當時[航海王的主題歌](https://zh.wikipedia.org/wiki/航海王 "wikilink")《HAND's
-UP》未授權的影響故未播放，該段期間以「サブリナ」代為播出。
+:: 備註：台灣方面受到當時[航海王的主題歌](https://zh.wikipedia.org/wiki/航海王 "wikilink")《HAND's UP》未授權的影響故未播放，該段期間以「サブリナ」代為播出。
 
 :;「サンバ de トリコ\!\!\!」（第63話－第75話）
 
-:: 作詞・作曲・編曲 -
-[前山田健一](../Page/前山田健一.md "wikilink")/歌-[ヒャダイン](../Page/前山田健一.md "wikilink")
+:: 作詞・作曲・編曲 - [前山田健一](../Page/前山田健一.md "wikilink")/歌-[ヒャダイン](../Page/前山田健一.md "wikilink")
 
 :;「Lovely Fruit」（第76話－第87話）
 
-:: 作詞 - Hibiki / 作・編曲：上松範康 (Elements Garden) / 歌 -
-[水树奈奈](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")
+:: 作詞 - Hibiki / 作・編曲：上松範康 (Elements Garden) / 歌 - [水树奈奈](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")
 
 :;「虹」（第88話－第98話）
 
-:: 作詞 - 寺岡呼人 / 作曲 - 寺岡呼人 / 編曲・歌 - [JUN SKY
-WALKER(S)](https://zh.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
+:: 作詞 - 寺岡呼人 / 作曲 - 寺岡呼人 / 編曲・歌 - [JUN SKY WALKER(S)](https://zh.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
 
 :;「赤い靴」（第100話-第111話）
 
-:: 作詞 - うらら / 作曲・編曲 - 上口浩平 / 歌 -
-[Salley](https://zh.wikipedia.org/wiki/Salle "wikilink")（サリー）
+:: 作詞 - うらら / 作曲・編曲 - 上口浩平 / 歌 - [Salley](https://zh.wikipedia.org/wiki/Salle "wikilink")（サリー）
 
 :;「トートロジー」（第112話 - 第123話）
 
-:: 作詞 - 志磨遼平 / 作曲・編曲・歌 -
-[ドレスコーズ](https://zh.wikipedia.org/wiki/ドレスコーズ "wikilink")（日本コロムビア）
+:: 作詞 - 志磨遼平 / 作曲・編曲・歌 - [ドレスコーズ](https://zh.wikipedia.org/wiki/ドレスコーズ "wikilink")（日本コロムビア）
 
 :;「Believe in Yourself \!」（第124話 - 第135話）
 
-::作詞 - 伊鐵弘将 / 作曲・編曲 - 阿久津健太郎 / 歌 -
-[palet](https://zh.wikipedia.org/wiki/palet "wikilink")（日本コロムビア）
+::作詞 - 伊鐵弘将 / 作曲・編曲 - 阿久津健太郎 / 歌 - [palet](https://zh.wikipedia.org/wiki/palet "wikilink")（日本コロムビア）
 
 :;「メガラバ」（第136話 - 第147話）
 
   -
 
       -
-        作詞・作曲・編曲 - 原田アツシ / 歌 -
-        [橫山琉璃香](https://zh.wikipedia.org/wiki/橫山琉璃香 "wikilink")（ビクターエンタテインメント）
+        作詞・作曲・編曲 - 原田アツシ / 歌 - [橫山琉璃香](https://zh.wikipedia.org/wiki/橫山琉璃香 "wikilink")（ビクターエンタテインメント）
 
 ### 各集標題
 
@@ -4118,20 +4099,14 @@ WALKER(S)](https://zh.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
       - ティナのグルメラジオDJ2（2012年9月26日發售）
       - トリコ オリジナルサウンドトラックⅠ（2011年8月3日發售）
       - 劇場版トリコ美食神の超食宝 オリジナルサウンドトラック（2013年7月24日發售）
-      - Break into the Light ～約束の帽子～/The Sharing Song
-        ～トリコのテーマ～（2011年3月16日發售）
+      - Break into the Light ～約束の帽子～/The Sharing Song ～トリコのテーマ～（2011年3月16日發售）
       - HEROES（2013年3月16日發售）
 
 ### 劇場版
 
-  - 第一部：『[美食獵人TORIKO 3D
-    開幕！美食大冒險！！](https://zh.wikipedia.org/wiki/美食獵人TORIKO_3D_開幕！美食大冒險！！ "wikilink")』（トリコ
-    3D 開幕\!グルメアドベンチャー\!\!）
-      - 2011年3月19日上映的3D電影。同時上映『[ONE PIECE 3D
-        追逐草帽大冒險](../Page/ONE_PIECE_3D_追逐草帽大冒險.md "wikilink")』。
-  - 第二部：『[美食獵人 劇場版
-    美食神的超食寶](https://zh.wikipedia.org/wiki/美食獵人TORIKO_-美食神的超食寶- "wikilink")』（劇場版
-    トリコ 美食神の超食宝）
+  - 第一部：『[美食獵人TORIKO 3D 開幕！美食大冒險！！](https://zh.wikipedia.org/wiki/美食獵人TORIKO_3D_開幕！美食大冒險！！ "wikilink")』（トリコ 3D 開幕\!グルメアドベンチャー\!\!）
+      - 2011年3月19日上映的3D電影。同時上映『[ONE PIECE 3D 追逐草帽大冒險](../Page/ONE_PIECE_3D_追逐草帽大冒險.md "wikilink")』。
+  - 第二部：『[美食獵人 劇場版 美食神的超食寶](https://zh.wikipedia.org/wiki/美食獵人TORIKO_-美食神的超食寶- "wikilink")』（劇場版 トリコ 美食神の超食宝）
       - 2013年7月27上映的電影版第2作。
 
 ## 電子遊戲
@@ -4155,15 +4130,12 @@ WALKER(S)](https://zh.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
 #### 攻略本
 
   - 日文
-      - DATA CARDDASS トリコイタダキマスター カード版 イタダキハンティングガイド
-        バンダイ公式攻略本（2011年8月11日發售）
-      - DATA CARDDASS トリコ イタダキマスター カード版 2 イタダキハンティングガイド
-        バンダイ公式攻略本（2012年5月2日發售）
+      - DATA CARDDASS トリコイタダキマスター カード版 イタダキハンティングガイド バンダイ公式攻略本（2011年8月11日發售）
+      - DATA CARDDASS トリコ イタダキマスター カード版 2 イタダキハンティングガイド バンダイ公式攻略本（2012年5月2日發售）
       - トリコ グルメサバイバル\! PSP版 2 美食屋ハンティングガイド バンダイナムコゲームス公式攻略本（2012年7月5日發售）
       - バンダイナムコゲームス公式攻略本 トリコ グルメモンスターズ\!グルモンマスターズガイド（2012年12月13日發售）
       - トリコ グルメガバトル\! N3DS版 究極グルバトガイド\!\! バンダイナムコゲームス公式攻略本（2013年7月4日發售）
-      - トリコ アルティメットサバイバル N3DS版 ファーストハンティングブック\!\!
-        バンダイナムコゲームス公式攻略本（2013年11月28日發售）
+      - トリコ アルティメットサバイバル N3DS版 ファーストハンティングブック\!\! バンダイナムコゲームス公式攻略本（2013年11月28日發售）
       - Ｊ－ＳＴＡＲＳ　Ｖｉｃｔｏｒｙ　ＶＳジャンプヒーローズバイブル　週刊少年ジャンプ創刊４５周年記念作品　プレイステーション３・プレイステーションヴィータ対応版（2014年3月發售）
 
 ## 參考文獻
@@ -4207,15 +4179,6 @@ WALKER(S)](https://zh.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
   - [](http://www.cartoonnetworkkorea.com/program/program_show_view.html?code=81)
 
   -
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:料理漫畫](https://zh.wikipedia.org/wiki/Category:料理漫畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:虛構生物題材作品](https://zh.wikipedia.org/wiki/Category:虛構生物題材作品 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:ufotable](https://zh.wikipedia.org/wiki/Category:ufotable "wikilink")
+[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:料理漫畫](https://zh.wikipedia.org/wiki/Category:料理漫畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:虛構生物題材作品](https://zh.wikipedia.org/wiki/Category:虛構生物題材作品 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:2011年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2011年日本電視動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:ufotable](https://zh.wikipedia.org/wiki/Category:ufotable "wikilink")
 
 1.

@@ -229,8 +229,7 @@
 
   - 『』 - 作詞・コーラス
 
-  - [清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")『NUOVA STORIA』 -
-    作曲（與[小高光太郎共同](https://zh.wikipedia.org/wiki/小高光太郎 "wikilink")）
+  - [清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")『NUOVA STORIA』 - 作曲（與[小高光太郎共同](https://zh.wikipedia.org/wiki/小高光太郎 "wikilink")）
 
   - [Piko](../Page/Piko.md "wikilink")『』 - 作詞・作曲（作曲與小高光太郎共同）
 
@@ -240,12 +239,9 @@
 
 ### 海外
 
-  - ～ Music Junction 4th Diary ～Yui Makino & Ceui Live in Hong Kong
-    (牧野由依・Ceui 2011年9月30日)
-  - ～ Music Junction 5th Diary ～Yui Makino & Ceui Live in Guangzhou
-    (牧野由依・Ceui 2011年10月5日)
-  - Mikuni Shimokawa ASIAN LOVERS LIVE 2011 in Taipei feat.Ceui
-    (下川美娜・Ceui 2011年12月18日)
+  - ～ Music Junction 4th Diary ～Yui Makino & Ceui Live in Hong Kong (牧野由依・Ceui 2011年9月30日)
+  - ～ Music Junction 5th Diary ～Yui Makino & Ceui Live in Guangzhou (牧野由依・Ceui 2011年10月5日)
+  - Mikuni Shimokawa ASIAN LOVERS LIVE 2011 in Taipei feat.Ceui (下川美娜・Ceui 2011年12月18日)
 
 ## 参考资料
 
@@ -255,8 +251,6 @@
 
   - [官方网站](http://ceui.jp/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
 
 1.  [lantis提供的介绍](http://www.lantis.jp/artist/data.php?id=c3d4328b5cd881d07e3a898ed5859f1c)

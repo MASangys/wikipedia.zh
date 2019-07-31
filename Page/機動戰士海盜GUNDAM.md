@@ -1,52 +1,33 @@
-《**機動戰士海盜鋼彈**》（、）簡稱CBG，是[長谷川裕一的](../Page/長谷川裕一.md "wikilink")[鋼彈漫畫系列作品](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，在月刊少年ACE上由1994年12月號（創刊號）連載至1997年3月號，全27話，單行本6冊。續作有短篇外傳集的《[機動戰士海盜GUNDAM
-骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")》、講述本作結局三年後的《[機動戰士海盜GUNDAM
-鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")》與[GUNDAM
-ACE](../Page/GUNDAM_ACE.md "wikilink")
-2012年1月號至2016年5月連載的《[機動戰士海盜鋼彈GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈GHOST "wikilink")》。最新作為2016年6月起在[GUNDAM
-ACE](../Page/GUNDAM_ACE.md "wikilink")
-上連載的《[機動戰士海盜鋼彈DUST](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈DUST "wikilink")》。
+《**機動戰士海盜鋼彈**》（、）簡稱CBG，是[長谷川裕一](../Page/長谷川裕一.md "wikilink")的[鋼彈漫畫系列作品](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，在月刊少年ACE上由1994年12月號（創刊號）連載至1997年3月號，全27話，單行本6冊。續作有短篇外傳集的《[機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")》、講述本作結局三年後的《[機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")》與[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink") 2012年1月號至2016年5月連載的《[機動戰士海盜鋼彈GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈GHOST "wikilink")》。最新作為2016年6月起在[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink") 上連載的《[機動戰士海盜鋼彈DUST](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈DUST "wikilink")》。
 
 ## 故事介紹
 
 故事講述發生在[宇宙巴比倫建國戰爭後](../Page/機動戰士GUNDAM_F91.md "wikilink")10年（[U.C.](https://zh.wikipedia.org/wiki/U.C. "wikilink")0133年），一場已經在蠢蠢欲動的戰爭。
 
-來自[地球圈的交換留學生](../Page/地球.md "wikilink")**托比亞**，在即將抵達留學目的地**[木星圈](../Page/木星.md "wikilink")**時，竟遇上了**宇宙海盜**襲擊，並目睹了傳說中海盜的[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，「**[高達](https://zh.wikipedia.org/wiki/#海盜鋼彈 "wikilink")**」。
-危急之際，托比亞擅自駕駛機動戰士迎戰高達，在機體即將被破壞時，海盜卻示意要自己逃生。驚訝於海盜不殺人的托比亞逃往附近船艦，意外發現到這艘木星前往地球的運輸船內竟裝滿了[毒氣](https://zh.wikipedia.org/wiki/毒氣 "wikilink")。在即將被木星[特務滅口的危機下](https://zh.wikipedia.org/wiki/特務 "wikilink")，高達再次出現並救了托比亞。面對滿懷疑惑的托比亞，鋼彈的駕駛員打開了面罩，報出了自己的名號『**十字先鋒－金凱杜·納奧**』……
+來自[地球](../Page/地球.md "wikilink")圈的交換留學生**托比亞**，在即將抵達留學目的地**[木星](../Page/木星.md "wikilink")圈**時，竟遇上了**宇宙海盜**襲擊，並目睹了傳說中海盜的[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，「**[高達](https://zh.wikipedia.org/wiki/#海盜鋼彈 "wikilink")**」。 危急之際，托比亞擅自駕駛機動戰士迎戰高達，在機體即將被破壞時，海盜卻示意要自己逃生。驚訝於海盜不殺人的托比亞逃往附近船艦，意外發現到這艘木星前往地球的運輸船內竟裝滿了[毒氣](https://zh.wikipedia.org/wiki/毒氣 "wikilink")。在即將被木星[特務滅口的危機下](https://zh.wikipedia.org/wiki/特務 "wikilink")，高達再次出現並救了托比亞。面對滿懷疑惑的托比亞，鋼彈的駕駛員打開了面罩，報出了自己的名號『**十字先鋒－金凱杜·納奧**』……
 
 ## 作品解說
 
-在《[月刊少年ACE](https://zh.wikipedia.org/wiki/月刊少年ACE "wikilink")》上，從1994年12月號（創刊號）到1997年3月號全27回連載，單行本全6卷。[台灣東販代理時的譯名為](../Page/台灣東販.md "wikilink")《機動戰士鋼彈X》，易與另一部鋼彈作品《[機動新世紀鋼彈
-X](https://zh.wikipedia.org/wiki/機動新世紀鋼彈_X "wikilink")》搞混。華語圈一般以「海-{}-盜鋼彈」、「骷-{}-髏鋼彈」或「骨十-{}-字鋼彈」等別稱來稱呼本作品。[台灣角川在](../Page/台灣角川.md "wikilink")《[GUNDAM
-ACE](../Page/GUNDAM_ACE.md "wikilink")》中文版連載後續作品時，使用「鋼彈」為正式譯名。
+在《[月刊少年ACE](https://zh.wikipedia.org/wiki/月刊少年ACE "wikilink")》上，從1994年12月號（創刊號）到1997年3月號全27回連載，單行本全6卷。[台灣東販](../Page/台灣東販.md "wikilink")代理時的譯名為《機動戰士鋼彈X》，易與另一部鋼彈作品《[機動新世紀鋼彈 X](https://zh.wikipedia.org/wiki/機動新世紀鋼彈_X "wikilink")》搞混。華語圈一般以「海-{}-盜鋼彈」、「骷-{}-髏鋼彈」或「骨十-{}-字鋼彈」等別稱來稱呼本作品。[台灣角川](../Page/台灣角川.md "wikilink")在《[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")》中文版連載後續作品時，使用「鋼彈」為正式譯名。
 
-主要描寫《[機動戰士GUNDAM
-F91](../Page/機動戰士GUNDAM_F91.md "wikilink")》的後續，以貝拉·羅納為中心復興的新十字先鋒，與把[木星圈作為主要根據地的](../Page/木星.md "wikilink")[木星帝國進行非常激烈的戰鬥](https://zh.wikipedia.org/wiki/木星帝國 "wikilink")。
+主要描寫《[機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")》的後續，以貝拉·羅納為中心復興的新十字先鋒，與把[木星](../Page/木星.md "wikilink")圈作為主要根據地的[木星帝國進行非常激烈的戰鬥](https://zh.wikipedia.org/wiki/木星帝國 "wikilink")。
 
-身為鋼彈原著的[富野由悠季第一次真正參與製作的鋼彈漫畫](../Page/富野由悠季.md "wikilink")（在之前的鋼彈系列漫畫，富野大都只是掛名），除了每一本單行本的原著近照欄富野都有發言，某登場人物說出「」這種諷刺大眾對鋼彈印象的台詞時，作者長谷川還在畫框外註明這台詞是富野親自下的指示。
+身為鋼彈原著的[富野由悠季](../Page/富野由悠季.md "wikilink")第一次真正參與製作的鋼彈漫畫（在之前的鋼彈系列漫畫，富野大都只是掛名），除了每一本單行本的原著近照欄富野都有發言，某登場人物說出「」這種諷刺大眾對鋼彈印象的台詞時，作者長谷川還在畫框外註明這台詞是富野親自下的指示。
 
 整體的畫風與目前為止的高達系列有差異，且一如長谷川的作風，對「高達」這個框架的挑戰也被大量加入。是鋼彈作品中許久不見，對連富野本人也漸漸不在新作品中闡述的「新人類」概念提出新想法的作品。
 
-續作有收錄《[GUNDAM
-ACE](../Page/GUNDAM_ACE.md "wikilink")》上發表的短篇外傳的《[機動戰士海盜GUNDAM
-骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")》和從GUNDAM ACE
-2006年7月號連載至2007年9月號，講述本作結局三年後的《[機動戰士海盜高達
-鋼鐵之七人](https://zh.wikipedia.org/wiki/機動戰士海盜高達_鋼鐵之七人 "wikilink")》。原本《鋼鐵之七人》被定位為本系列的完結篇，但GUNDAM
-ACE
-2012年1月號又開始新連載《[機動戰士海盜高達GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜高達GHOST "wikilink")》，故事時間往後拉17年，來到《[機動戰士V
-GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》的年代。
+續作有收錄《[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")》上發表的短篇外傳的《[機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")》和從GUNDAM ACE 2006年7月號連載至2007年9月號，講述本作結局三年後的《[機動戰士海盜高達 鋼鐵之七人](https://zh.wikipedia.org/wiki/機動戰士海盜高達_鋼鐵之七人 "wikilink")》。原本《鋼鐵之七人》被定位為本系列的完結篇，但GUNDAM ACE 2012年1月號又開始新連載《[機動戰士海盜高達GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜高達GHOST "wikilink")》，故事時間往後拉17年，來到《[機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》的年代。
 
 高達系列製作群的[日昇對於高達系列的衍生作品除一部分的官方外傳外](https://zh.wikipedia.org/wiki/Sunrise "wikilink")，都認定為非正史故事。但本作因為有原著富野由悠季直接參與製作，故近幾年有些官方年表已開始將本作中的木星戰役和續作《鋼鐵之七人》中的神雷計畫編入。
 
-由於在[PS遊戲](../Page/PlayStation.md "wikilink")[《SD Gundam
-GGENERATION-F》和](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")[PS2遊戲](../Page/PlayStation_2.md "wikilink")[《第2次超級機器人大戰α》上登場且主角機海盜高達和哈里遜的藍色高達F](https://zh.wikipedia.org/wiki/超級機器人大戰相關產品列表 "wikilink")91被模型化等的事情，令作品的知名度提高。
+由於在[PS遊戲](../Page/PlayStation.md "wikilink")[《SD Gundam GGENERATION-F》和](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")[PS2遊戲](../Page/PlayStation_2.md "wikilink")[《第2次超級機器人大戰α》上登場且主角機海盜高達和哈里遜的藍色高達F](https://zh.wikipedia.org/wiki/超級機器人大戰相關產品列表 "wikilink")91被模型化等的事情，令作品的知名度提高。
 
 ## 角色介紹
 
 ### [新十字先鋒](https://zh.wikipedia.org/wiki/新十字先鋒 "wikilink")
 
   - /[西布克·阿諾](https://zh.wikipedia.org/wiki/西布克·阿諾 "wikilink")（シーブック・アノー)
-    28歲，新十字先鋒的主力駕駛員。真正的身份為宇宙巴比倫建國戰爭中的英雄─[西布克·阿諾](https://zh.wikipedia.org/wiki/西布克·阿諾 "wikilink")，即是前作[機動戰士GUNDAM
-    F91的主角](../Page/機動戰士GUNDAM_F91.md "wikilink")。為人性格樂觀，在新十字先鋒內普遍受人愛戴。深愛著其戀人茜茜莉，也因此而願意改名為金凱杜‧拿烏──駕駛海盜高達X1守候在她的左右，肩負起保護她及完成她的理想的責任。在跟叛變的札比尼決戰中，被X2的光束劍剌穿駕駛艙，然後機體又墮入大氣層中。原本眾人都以為死定了的金凱杜，在光束劍下幸運逃生，並且使用光束盾當做防護來突入大氣層，成為第一個用光束盾突入大氣層的人。掉落在海上的X1自動的發出了求救信號，金凱杜在SNRI的緊急救援下奇蹟般地復活過來，但還是在臉上留下了疤痕並失去了右手。和托比亞在地球上會合後，率領剩餘的新十字先鋒向木星帝國做最終決戰，將地球聯邦對木星帝國的戰爭導向勝利。一切結束後回復了西布克這個名字，跟茜茜莉消失在地球的綠意中。在後作鋼鐵的七人中有出場幾格，和茜茜莉開了間很受好評的麵包店，並且生了二個孩子。
+    28歲，新十字先鋒的主力駕駛員。真正的身份為宇宙巴比倫建國戰爭中的英雄─[西布克·阿諾](https://zh.wikipedia.org/wiki/西布克·阿諾 "wikilink")，即是前作[機動戰士GUNDAM F91的主角](../Page/機動戰士GUNDAM_F91.md "wikilink")。為人性格樂觀，在新十字先鋒內普遍受人愛戴。深愛著其戀人茜茜莉，也因此而願意改名為金凱杜‧拿烏──駕駛海盜高達X1守候在她的左右，肩負起保護她及完成她的理想的責任。在跟叛變的札比尼決戰中，被X2的光束劍剌穿駕駛艙，然後機體又墮入大氣層中。原本眾人都以為死定了的金凱杜，在光束劍下幸運逃生，並且使用光束盾當做防護來突入大氣層，成為第一個用光束盾突入大氣層的人。掉落在海上的X1自動的發出了求救信號，金凱杜在SNRI的緊急救援下奇蹟般地復活過來，但還是在臉上留下了疤痕並失去了右手。和托比亞在地球上會合後，率領剩餘的新十字先鋒向木星帝國做最終決戰，將地球聯邦對木星帝國的戰爭導向勝利。一切結束後回復了西布克這個名字，跟茜茜莉消失在地球的綠意中。在後作鋼鐵的七人中有出場幾格，和茜茜莉開了間很受好評的麵包店，並且生了二個孩子。
 
 <!-- end list -->
 
@@ -56,8 +37,7 @@ GGENERATION-F》和](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")[P
 <!-- end list -->
 
   -
-    28歲，新十字先鋒軍的領導人，先鋒母艦的艦長。原為宇宙巴比倫的王女，即是前作「[機動戰士GUNDAM
-    F91](../Page/機動戰士GUNDAM_F91.md "wikilink")」裡登場的「茜茜莉·費查特」。在宇宙巴比倫建國戰爭中發表了「平等主義」的演說，導致帝國分裂並將建國戰爭導向結束。在發覺木星帝國的野心後，放棄了「茜茜莉·費查特」的身分，並再次使用「貝拉‧羅納」的名字組織了「新十字先鋒」，與木星的野心對抗。
+    28歲，新十字先鋒軍的領導人，先鋒母艦的艦長。原為宇宙巴比倫的王女，即是前作「[機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")」裡登場的「茜茜莉·費查特」。在宇宙巴比倫建國戰爭中發表了「平等主義」的演說，導致帝國分裂並將建國戰爭導向結束。在發覺木星帝國的野心後，放棄了「茜茜莉·費查特」的身分，並再次使用「貝拉‧羅納」的名字組織了「新十字先鋒」，與木星的野心對抗。
 
 <!-- end list -->
 
@@ -134,7 +114,7 @@ GGENERATION-F》和](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")[P
 
           -
             粒子加速式光束軍刀，產生光束刃後外型近似海盜使用的[彎刀](https://zh.wikipedia.org/wiki/彎刀 "wikilink")。
-            除了是高出力光束軍刀，更將[米諾夫斯基粒子進行縱向加速](../Page/米諾夫斯基粒子.md "wikilink")，使威力更上一層樓，能將使用一般光束盾的機體連盾帶機一起砍斷。
+            除了是高出力光束軍刀，更將[米諾夫斯基粒子](../Page/米諾夫斯基粒子.md "wikilink")進行縱向加速，使威力更上一層樓，能將使用一般光束盾的機體連盾帶機一起砍斷。
     :;
     ::核心戰機狀態時設置在機首兩旁、組合後設置在兩肩的光束槍，拔出後可當光束軍刀使用，性能和一般泛用光束軍刀相似。
     :;
@@ -468,7 +448,7 @@ GGENERATION-F》和](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")[P
 <th><p>中文標題</p></th>
 <th><p>日本ISBN</p></th>
 <th><p>日本发行时间</p></th>
-<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川版ISBN</a></p></th>
+<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a>版ISBN</p></th>
 <th><p>台灣角川版发行时间</p></th>
 </tr>
 </thead>
@@ -588,17 +568,12 @@ GGENERATION-F》和](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")[P
 
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
   - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
-  - [機動戰士海盜高達
-    鋼鐵之七人](https://zh.wikipedia.org/wiki/機動戰士海盜高達_鋼鐵之七人 "wikilink")
+  - [機動戰士海盜高達 鋼鐵之七人](https://zh.wikipedia.org/wiki/機動戰士海盜高達_鋼鐵之七人 "wikilink")
 
 ## 註解
 
 <references />
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:宇宙海盜題材作品](https://zh.wikipedia.org/wiki/Category:宇宙海盜題材作品 "wikilink")
-[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink")
-[Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:宇宙海盜題材作品](https://zh.wikipedia.org/wiki/Category:宇宙海盜題材作品 "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
 
 1.  X3的臂部I力場產生器，只要連續啟動超過105秒便必須強制冷卻120秒，雖然左右手交替使用能維持105x2=210秒的力場，但在第一具產生器的強制冷卻完成前另一具便跟著過熱（120\>105）。也就是在必須長時間開啟I力場的危險戰場上，X3每使用210秒I力場便有15秒的時間處於兩臂產生器都強制冷卻，無力場可用的危險狀態。

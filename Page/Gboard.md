@@ -10,12 +10,9 @@
 
   -
   -
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
 
-1.  [Six months after its iOS debut, Google’s Gboard revamps the Android
-    keyboard](http://arstechnica.com/gadgets/2016/12/gboard-for-android-offers-emoji-search-google-search-gif-search-and-more/),
-    Ars Technica. Retrieved 27 December 2016.
+1.  [Six months after its iOS debut, Google’s Gboard revamps the Android keyboard](http://arstechnica.com/gadgets/2016/12/gboard-for-android-offers-emoji-search-google-search-gif-search-and-more/), Ars Technica. Retrieved 27 December 2016.
 2.
 3.
 4.

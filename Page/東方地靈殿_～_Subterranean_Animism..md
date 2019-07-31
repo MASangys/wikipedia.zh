@@ -6,8 +6,7 @@
 
 本作是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")11作，也是[Windows平台上的第六作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的開發情報最初在2007年10月16日於作者[ZUN](../Page/ZUN.md "wikilink")的網誌「博麗幻想書譜」有所暗示\[1\]，其後在2008年5月1日表明了本作的標題\[2\]。
 
-本作的系統有不少都是承繼了前作的，但也有些是以之前的各作品為基礎改變而成的。自機的選擇和前作《[東方風神錄 ～ Mountain of
-Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣，都是[博麗靈夢](../Page/博麗靈夢.md "wikilink")及[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")，不過武器選擇則變為支援角色的形式，2名自機角色分別都有3名支援角色，總其有6種自機與支援角色的組合。遊戲模式則是[4種難度](https://zh.wikipedia.org/wiki/東方Project#難易度、結局 "wikilink")，全部6關，達成一定條件後可以開放Extra模式挑戰。
+本作的系統有不少都是承繼了前作的，但也有些是以之前的各作品為基礎改變而成的。自機的選擇和前作《[東方風神錄 ～ Mountain of Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣，都是[博麗靈夢](../Page/博麗靈夢.md "wikilink")及[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")，不過武器選擇則變為支援角色的形式，2名自機角色分別都有3名支援角色，總其有6種自機與支援角色的組合。遊戲模式則是[4種難度](https://zh.wikipedia.org/wiki/東方Project#難易度、結局 "wikilink")，全部6關，達成一定條件後可以開放Extra模式挑戰。
 
 ## 故事
 
@@ -15,8 +14,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 ## 遊戲系統
 
-[Th11_gameplay.png](https://zh.wikipedia.org/wiki/File:Th11_gameplay.png "fig:Th11_gameplay.png")
-本作的基本系統主要都是繼承前作《風神錄》的。本項主要說明從前作到本作的變更以及本作的固有系統。
+[Th11_gameplay.png](https://zh.wikipedia.org/wiki/File:Th11_gameplay.png "fig:Th11_gameplay.png") 本作的基本系統主要都是繼承前作《風神錄》的。本項主要說明從前作到本作的變更以及本作的固有系統。
 
 ### 前作到本作的主要變更
 
@@ -103,8 +101,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 <!-- end list -->
 
-  - [射命丸 文](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")（，，Shameimaru
-    Aya）
+  - [射命丸 文](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")（，，Shameimaru Aya）
 
 <!-- end list -->
 
@@ -127,11 +124,9 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 #### 支援角色
 
-分別是[愛莉絲·瑪嘉托洛伊德](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#愛莉絲·瑪嘉托洛伊德 "wikilink")、[帕秋莉·諾雷姬](https://zh.wikipedia.org/wiki/帕秋莉·諾雷姬 "wikilink")、[河城
-荷取（或译作「似鳥」）三人](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.#河城_荷取 "wikilink")。
+分別是[愛莉絲·瑪嘉托洛伊德](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#愛莉絲·瑪嘉托洛伊德 "wikilink")、[帕秋莉·諾雷姬](https://zh.wikipedia.org/wiki/帕秋莉·諾雷姬 "wikilink")、[河城 荷取（或译作「似鳥」）三人](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.#河城_荷取 "wikilink")。
 
-  - [愛莉絲·瑪嘉托洛伊德](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#愛莉絲·瑪嘉托洛伊德 "wikilink")（，Alice
-    Margatroid）
+  - [愛莉絲·瑪嘉托洛伊德](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#愛莉絲·瑪嘉托洛伊德 "wikilink")（，Alice Margatroid）
 
 <!-- end list -->
 
@@ -143,8 +138,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 <!-- end list -->
 
-  - [帕秋莉·諾雷姬](https://zh.wikipedia.org/wiki/帕秋莉·諾雷姬 "wikilink")（，Patchouli
-    Knowledge）
+  - [帕秋莉·諾雷姬](https://zh.wikipedia.org/wiki/帕秋莉·諾雷姬 "wikilink")（，Patchouli Knowledge）
 
 <!-- end list -->
 
@@ -161,9 +155,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 <!-- end list -->
 
-  - [河城
-    荷取（或译作「似鳥」）](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.#河城_荷取 "wikilink")（，，Kawashiro
-    Nitori）
+  - [河城 荷取（或译作「似鳥」）](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.#河城_荷取 "wikilink")（，，Kawashiro Nitori）
 
 <!-- end list -->
 
@@ -586,14 +578,7 @@ Extra中頭目。看見靈夢們來到守矢神社，於是就展開了對決。
 
   - [東方地靈殿 官方網頁](http://www16.big.or.jp/~zun/html/th11top.html)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:核聚变题材作品](https://zh.wikipedia.org/wiki/Category:核聚变题材作品 "wikilink")
-[Category:地下空间背景作品](https://zh.wikipedia.org/wiki/Category:地下空间背景作品 "wikilink")
-[Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:核聚变题材作品](https://zh.wikipedia.org/wiki/Category:核聚变题材作品 "wikilink") [Category:地下空间背景作品](https://zh.wikipedia.org/wiki/Category:地下空间背景作品 "wikilink") [Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.  [2007年10月16日](http://kourindou.exblog.jp/6632104/)　博麗幻想書譜
 

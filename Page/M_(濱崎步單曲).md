@@ -10,14 +10,9 @@
 
 她說，原先作曲家所為《M》創作的旋律，與她對這首歌該有的印象不符，因為太過於「溫暖」了：她認為這首歌應該聽起來更加的「冷清」。她解釋說，要創作出她腦海裡所構想的旋律似乎有點難以讓人理解，是由比較低的[調開始](https://zh.wikipedia.org/wiki/調 "wikilink")，然後上升到較高的調。最後的結果，這首歌在[C大調](../Page/C大調.md "wikilink")開始，然後升上了[升C大調](https://zh.wikipedia.org/wiki/升C大調 "wikilink")。同時使用了[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")、[電吉他](https://zh.wikipedia.org/wiki/電吉他 "wikilink")、[三角鐵等樂器](https://zh.wikipedia.org/wiki/三角鐵 "wikilink")。
 
-她在《M》中首次的作曲亦獲得了不俗的成績，這張單曲銷量高達百萬，成為她歌手生涯中第三高銷量的單曲。 此歌曲收录在2001年的精选专辑《[A
-Best](https://zh.wikipedia.org/wiki/A_Best "wikilink")》、2002年原创专辑《[I
-am...](../Page/I_am....md "wikilink")》、2003年精选专辑《[A
-BALLADS](../Page/A_BALLADS.md "wikilink")》、2008年精选专辑里，[A BEST
-2里不收录](../Page/A_BEST_2.md "wikilink")。是其收录次数最多的单曲。
+她在《M》中首次的作曲亦獲得了不俗的成績，這張單曲銷量高達百萬，成為她歌手生涯中第三高銷量的單曲。 此歌曲收录在2001年的精选专辑《[A Best](https://zh.wikipedia.org/wiki/A_Best "wikilink")》、2002年原创专辑《[I am...](../Page/I_am....md "wikilink")》、2003年精选专辑《[A BALLADS](../Page/A_BALLADS.md "wikilink")》、2008年精选专辑里，[A BEST 2里不收录](../Page/A_BEST_2.md "wikilink")。是其收录次数最多的单曲。
 
-另外，儘管《M》的故事與聖母瑪利亞有關，但是濱崎步曾在演唱會上指出這首歌不應該被念作「Maria」，而是直接念成「M」即可。
-此单曲为ORICON历史上20世纪后迄今为止最后一张连夺两月冠军的单曲
+另外，儘管《M》的故事與聖母瑪利亞有關，但是濱崎步曾在演唱會上指出這首歌不應該被念作「Maria」，而是直接念成「M」即可。 此单曲为ORICON历史上20世纪后迄今为止最后一张连夺两月冠军的单曲
 
 ## 收錄歌曲
 
@@ -28,8 +23,7 @@ BALLADS](../Page/A_BALLADS.md "wikilink")》、2008年精选专辑里，[A BEST
         作曲：[CREA](../Page/CREA.md "wikilink")／編曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")
         TU-KA 手機廣告歌曲
 2.  **M "Dub's Hard Pop Remix"**
-3.  **[SEASONS](../Page/SEASONS.md "wikilink") "Yuta's weather report
-    mix"**
+3.  **[SEASONS](../Page/SEASONS.md "wikilink") "Yuta's weather report mix"**
 4.  **M "nicely nice winter parade remix"**
 5.  **[Far away](../Page/Far_away.md "wikilink") "Laugh & Peace MIX"**
 6.  **M "REWIRED MIX"**
@@ -59,15 +53,7 @@ BALLADS](../Page/A_BALLADS.md "wikilink")》、2008年精选专辑里，[A BEST
 
 ## 參考資料
 
-[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
-[Category:2000年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2001年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:2000年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲月榜冠軍作品 "wikilink") [Category:2001年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲月榜冠軍作品 "wikilink") [Category:2000年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon單曲週榜冠軍作品 "wikilink") [Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.
 2.  Shikano Atsushi. *Rockin'on Japan*. February 2001. Volume 165.

@@ -1,4 +1,4 @@
-**Adreno**是由[高通开发的](../Page/高通.md "wikilink")[SIP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")[GPU并用于其自家的](https://zh.wikipedia.org/wiki/GPU "wikilink")[SoC](../Page/系统芯片.md "wikilink")，該核心最初作為從事GPU開發工作。
+**Adreno**是由[高通](../Page/高通.md "wikilink")开发的[SIP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")[GPU并用于其自家的](https://zh.wikipedia.org/wiki/GPU "wikilink")[SoC](../Page/系统芯片.md "wikilink")，該核心最初作為從事GPU開發工作。
 
 2006年，BitBoys被[ATI收购开設Imageon产品线](https://zh.wikipedia.org/wiki/ATI "wikilink")。2006年[AMD收购](https://zh.wikipedia.org/wiki/AMD "wikilink")[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")。2009年1月，[AMD出售Imageon予](https://zh.wikipedia.org/wiki/AMD "wikilink")[高通](../Page/高通.md "wikilink")\[1\]。随后，Imageon被更名为Adreno。
 
@@ -474,7 +474,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p>Snapdragon 855</p></td>
+<td><p>Snapdragon 855 / 855+</p></td>
 </tr>
 <tr class="even">
 <td><p>名称</p></td>
@@ -503,17 +503,13 @@
 
 ### 系统支持
 
-由高通提供基于[Linux的](../Page/Linux.md "wikilink")[Android操作系统专有驱动](../Page/Android.md "wikilink")。
-曾经仅能通过[libhybris包装后才能在非](https://zh.wikipedia.org/wiki/Hybris_\(软件\) "wikilink")[Android发行版的](../Page/Android.md "wikilink")[Linux上驱动](../Page/Linux.md "wikilink")。
+由高通提供基于[Linux](../Page/Linux.md "wikilink")的[Android](../Page/Android.md "wikilink")操作系统专有驱动。 曾经仅能通过[libhybris包装后才能在非](https://zh.wikipedia.org/wiki/Hybris_\(软件\) "wikilink")[Android](../Page/Android.md "wikilink")发行版的[Linux](../Page/Linux.md "wikilink")上驱动。
 
 ## 历史
 
-**Imageon**（原 **ATI Imageon**）是由
-[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")
-开发的为[手机与](https://zh.wikipedia.org/wiki/手机 "wikilink")[PDA设备提供图形加速与其他多媒体特性的核心](https://zh.wikipedia.org/wiki/PDA "wikilink")。
+**Imageon**（原 **ATI Imageon**）是由 [ATI](https://zh.wikipedia.org/wiki/ATI "wikilink") 开发的为[手机与](https://zh.wikipedia.org/wiki/手机 "wikilink")[PDA设备提供图形加速与其他多媒体特性的核心](https://zh.wikipedia.org/wiki/PDA "wikilink")。
 
-Imageon
-被设计为[SoC](../Page/系统芯片.md "wikilink")。它于2002年发布，面向手持设备、移动电话与平板电脑，为其提供内置图形加速功能（2002年的产品为2D加速，而新型产品为3D加速）。
+Imageon 被设计为[SoC](../Page/系统芯片.md "wikilink")。它于2002年发布，面向手持设备、移动电话与平板电脑，为其提供内置图形加速功能（2002年的产品为2D加速，而新型产品为3D加速）。
 
 ## Imageon技术信息
 
@@ -521,26 +517,19 @@ Imageon
 
   - **Imageon 100** 第一个 Imageon 产品。
   - **Imageon 3200**
-  - **Imageon 2200/2250**
-    2D图像加速、[MPEG解码](../Page/MPEG.md "wikilink")、[JPEG编解码](../Page/JPEG.md "wikilink")，芯片上包含用于[帧缓冲器的](../Page/帧缓冲器.md "wikilink")[SRAM](../Page/静态随机存取存储器.md "wikilink")。
+  - **Imageon 2200/2250** 2D图像加速、[MPEG](../Page/MPEG.md "wikilink")解码、[JPEG](../Page/JPEG.md "wikilink")编解码，芯片上包含用于[帧缓冲器](../Page/帧缓冲器.md "wikilink")的[SRAM](../Page/静态随机存取存储器.md "wikilink")。
   - **Imageon 2240**
   - **Imageon 2260/2262**
-  - **Imageon 2300** 包含2D/3D图像引擎(3D
-    S/W)、MPEG-4解码、JPEG编解码，同时子系统处理引擎支持200万像素摄像头。
+  - **Imageon 2300** 包含2D/3D图像引擎(3D S/W)、MPEG-4解码、JPEG编解码，同时子系统处理引擎支持200万像素摄像头。
   - **Imageon 2182**
   - **Imageon 2282**
-  - **Imageon 2388/2380** 业界第一个支持用于3D加速的[OpenGL
-    ES](../Page/OpenGL_ES.md "wikilink") 1.1+ 扩展支持。
+  - **Imageon 2388/2380** 业界第一个支持用于3D加速的[OpenGL ES](../Page/OpenGL_ES.md "wikilink") 1.1+ 扩展支持。
   - **Imageon 2192** 率先支持310万像素摄像头的主流级芯片。
 
 ### 后期芯片
 
-  - **Imageon 2294/2298** 重命名自**Imageon M100
-    series**。当前系列的旗舰产品，支持DVD质量视频的录制与回放、HD解像度输出并支持1200万像素相机传感器。该产品同时包括Imageon
-    M180.
-  - **Imageon TV** 发布于2006年2月，其为Imageon系列中首个支持Digital Video Broadcasting
-    - Handheld
-    ([DVB-H](https://zh.wikipedia.org/wiki/DVB-H "wikilink"))信号接收的产品，它使手持设备可以接收[DVB-H信号并观看电视节目](https://zh.wikipedia.org/wiki/DVB-H "wikilink")。该芯片包含了[天线调谐器](https://zh.wikipedia.org/wiki/天线调谐器 "wikilink")、[解调制](https://zh.wikipedia.org/wiki/解调制 "wikilink")、解码与完整的软件堆栈。
+  - **Imageon 2294/2298** 重命名自**Imageon M100 series**。当前系列的旗舰产品，支持DVD质量视频的录制与回放、HD解像度输出并支持1200万像素相机传感器。该产品同时包括Imageon M180.
+  - **Imageon TV** 发布于2006年2月，其为Imageon系列中首个支持Digital Video Broadcasting - Handheld ([DVB-H](https://zh.wikipedia.org/wiki/DVB-H "wikilink"))信号接收的产品，它使手持设备可以接收[DVB-H信号并观看电视节目](https://zh.wikipedia.org/wiki/DVB-H "wikilink")。该芯片包含了[天线调谐器](https://zh.wikipedia.org/wiki/天线调谐器 "wikilink")、[解调制](https://zh.wikipedia.org/wiki/解调制 "wikilink")、解码与完整的软件堆栈。
 
 2008年巴塞罗那移动通信大会上更新的Imageon系列芯片：
 
@@ -550,32 +539,18 @@ Imageon
 除应用处理器和移动电视解决方案芯片，AMD还授权一些技术给其他公司与合作伙伴，这些技术包括如下音频和图形处理器：
 
   - **Imageon M210 音频处理器**
-  - **Imageon Z460 3D图形核心** -
-    这是一个[半导体知识产权核](https://zh.wikipedia.org/wiki/IP核 "wikilink")，用于如[Freescale的](https://zh.wikipedia.org/wiki/Freescale "wikilink")[i.MX5x系列应用处理器](https://zh.wikipedia.org/wiki/I.MX "wikilink")
+  - **Imageon Z460 3D图形核心** - 这是一个[半导体知识产权核](https://zh.wikipedia.org/wiki/IP核 "wikilink")，用于如[Freescale的](https://zh.wikipedia.org/wiki/Freescale "wikilink")[i.MX5x系列应用处理器](https://zh.wikipedia.org/wiki/I.MX "wikilink")
   - **Imageon Z180 矢量图形核心**
 
 ## 参见
 
-  - [PowerVR](../Page/PowerVR.md "wikilink") – [Imagination
-    Technologies](../Page/Imagination_Technologies.md "wikilink")
-    研发的移动GPU，用于第三方授权。
-  - [Mali](../Page/Mali_\(GPU\).md "wikilink") – [ARM
-    Norway](https://zh.wikipedia.org/wiki/ARM_Norway "wikilink")
-    研发的移动GPU，用于第三方授权。
-  - [Vivante](../Page/图芯技术.md "wikilink") –
-    [图芯技术](../Page/图芯技术.md "wikilink") 研发的移动GPU，用于第三方授权。
-  - [Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink") –
-    [NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
-    研发的移动SoC，不向第三方授权。
-  - [VideoCore](../Page/VideoCore.md "wikilink") –
-    [Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink")
-    研发的移动GPU，允许第三方授权。
-  - [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink") –
-    [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-    计算机处理器产品，不向第三方授权。
-  - [AMD APU](../Page/AMD加速处理器.md "wikilink") –
-    [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
-    计算机处理器产品，不向第三方授权。
+  - [PowerVR](../Page/PowerVR.md "wikilink") – [Imagination Technologies](../Page/Imagination_Technologies.md "wikilink") 研发的移动GPU，用于第三方授权。
+  - [Mali](../Page/Mali_\(GPU\).md "wikilink") – [ARM Norway](https://zh.wikipedia.org/wiki/ARM_Norway "wikilink") 研发的移动GPU，用于第三方授权。
+  - [Vivante](../Page/图芯技术.md "wikilink") – [图芯技术](../Page/图芯技术.md "wikilink") 研发的移动GPU，用于第三方授权。
+  - [Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink") – [NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink") 研发的移动SoC，不向第三方授权。
+  - [VideoCore](../Page/VideoCore.md "wikilink") – [Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink") 研发的移动GPU，允许第三方授权。
+  - [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink") – [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 计算机处理器产品，不向第三方授权。
+  - [AMD APU](../Page/AMD加速处理器.md "wikilink") – [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 计算机处理器产品，不向第三方授权。
 
 ## 引用
 
@@ -584,8 +559,7 @@ Imageon
   - [Adreno官方网站](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
   - [Snapdragon官方网站](https://www.qualcomm.com/products/snapdragon)
 
-[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
 1.
 
@@ -593,9 +567,7 @@ Imageon
 
 3.
 
-4.  [*Snapdragon 400* processor
-    specs](http://www.qualcomm.com/products/snapdragon/processors/400)
-    at **qualcomm.com**
+4.  [*Snapdragon 400* processor specs](http://www.qualcomm.com/products/snapdragon/processors/400) at **qualcomm.com**
 
 5.
 

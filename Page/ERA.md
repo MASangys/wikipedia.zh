@@ -2,8 +2,7 @@
 
 ERA的现场演唱着中世纪的服装和盔甲出演。
 
-ERA的《The
-Mass》在中国被误认为是二战时期德国纳粹党卫军第一装甲师的军歌，并翻译为《闪电部队在行动》或《SS闪电部队在行动》。\[2\]
+ERA的《The Mass》在中国被误认为是二战时期德国纳粹党卫军第一装甲师的军歌，并翻译为《闪电部队在行动》或《SS闪电部队在行动》。\[2\]
 
 ## 作品
 
@@ -11,20 +10,12 @@ Mass》在中国被误认为是二战时期德国纳粹党卫军第一装甲师�
 
   - *[Era](https://zh.wikipedia.org/wiki/Era_\(专辑\) "wikilink")*, 1997
   - *[Era 2](https://zh.wikipedia.org/wiki/Era_2 "wikilink")*, 2000
-  - *[The Mass](https://zh.wikipedia.org/wiki/The_Mass "wikilink")*,
-    2003\[3\]
-  - *[The Very Best of
-    Era](https://zh.wikipedia.org/wiki/The_Very_Best_of_Era "wikilink")*,
-    2005
-  - *[Reborn](https://zh.wikipedia.org/wiki/Reborn_\(专辑\) "wikilink")*,
-    2008
-  - *[Classics](https://zh.wikipedia.org/wiki/Classics "wikilink")*,
-    2009
-  - *[The
-    Essential](https://zh.wikipedia.org/wiki/The_Essential "wikilink")*,
-    2010
-  - *[Classics
-    II](https://zh.wikipedia.org/wiki/Classics_II "wikilink")*, 2010
+  - *[The Mass](https://zh.wikipedia.org/wiki/The_Mass "wikilink")*, 2003\[3\]
+  - *[The Very Best of Era](https://zh.wikipedia.org/wiki/The_Very_Best_of_Era "wikilink")*, 2005
+  - *[Reborn](https://zh.wikipedia.org/wiki/Reborn_\(专辑\) "wikilink")*, 2008
+  - *[Classics](https://zh.wikipedia.org/wiki/Classics "wikilink")*, 2009
+  - *[The Essential](https://zh.wikipedia.org/wiki/The_Essential "wikilink")*, 2010
+  - *[Classics II](https://zh.wikipedia.org/wiki/Classics_II "wikilink")*, 2010
 
 ### 单曲（非官方）
 
@@ -43,10 +34,8 @@ Mass》在中国被误认为是二战时期德国纳粹党卫军第一装甲师�
 
   - [ERA非官方网站](https://web.archive.org/web/20110724045015/http://www.era.rootnode.net/)
 
-[Category:法国乐团](https://zh.wikipedia.org/wiki/Category:法国乐团 "wikilink")
-[Category:新世纪音乐家](https://zh.wikipedia.org/wiki/Category:新世纪音乐家 "wikilink")
+[Category:法国乐团](https://zh.wikipedia.org/wiki/Category:法国乐团 "wikilink") [Category:新世纪音乐家](https://zh.wikipedia.org/wiki/Category:新世纪音乐家 "wikilink")
 
-1.  [After Enigma at Orphic
-    Music](http://www.orphicmusic.com/AE/reviews.php?id=era)
+1.  [After Enigma at Orphic Music](http://www.orphicmusic.com/AE/reviews.php?id=era)
 2.
 3.

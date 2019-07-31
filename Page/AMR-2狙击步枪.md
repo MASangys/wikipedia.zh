@@ -10,8 +10,7 @@ AMR-2采用了折叠式可调节枪托，配备了[兩腳架](https://zh.wikiped
 
 ### 枪机
 
-AMR-2是一支传統与创新并重的武器。作为一支要求精度极高的非自动步枪，它采用了久经考驗的[旋转后拉式枪机和传統式设计](../Page/手動槍機.md "wikilink")。前者的枪机闭锁面完全对称，对提高射击精度非常有利。该结构从[德国](../Page/德国.md "wikilink")[Gew
-98步槍开始应用](https://zh.wikipedia.org/wiki/Gew_98步槍 "wikilink")。100多年来为众多优秀的高精度步枪所采用。[美军](../Page/美军.md "wikilink")[M24和](https://zh.wikipedia.org/wiki/M24狙擊步槍 "wikilink")[M40狙擊步槍](../Page/M40狙擊步槍.md "wikilink")所采用的[雷明登700型枪机也是源于该结构](../Page/雷明登700步槍.md "wikilink")。可是，由于该结构开锁和压击针簧待击由一个动作同时完成，因而导致开锁困难，有时甚至由于枪管和机头发热而无法开锁；这成为一大难题，也是毛瑟发明该结构100多年来倍受指责的地方。而AMR-2则是采用独特的创新结构成功地解决了这个难题，使开锁动作非常的轻松。
+AMR-2是一支传統与创新并重的武器。作为一支要求精度极高的非自动步枪，它采用了久经考驗的[旋转后拉式枪机和传統式设计](../Page/手動槍機.md "wikilink")。前者的枪机闭锁面完全对称，对提高射击精度非常有利。该结构从[德国](../Page/德国.md "wikilink")[Gew 98步槍开始应用](https://zh.wikipedia.org/wiki/Gew_98步槍 "wikilink")。100多年来为众多优秀的高精度步枪所采用。[美军](../Page/美军.md "wikilink")[M24和](https://zh.wikipedia.org/wiki/M24狙擊步槍 "wikilink")[M40狙擊步槍](../Page/M40狙擊步槍.md "wikilink")所采用的[雷明登700型枪机也是源于该结构](../Page/雷明登700步槍.md "wikilink")。可是，由于该结构开锁和压击针簧待击由一个动作同时完成，因而导致开锁困难，有时甚至由于枪管和机头发热而无法开锁；这成为一大难题，也是毛瑟发明该结构100多年来倍受指责的地方。而AMR-2则是采用独特的创新结构成功地解决了这个难题，使开锁动作非常的轻松。
 
 ### 後座力
 
@@ -37,8 +36,7 @@ AMR-2的肩托将最新的军用缓冲橡胶浇铸在金属嵌件外，并精心
 
 为保证AMR-2有足够的[精度](../Page/準確與精密.md "wikilink")，设计者先是在[槍管](../Page/槍管.md "wikilink")的设计与制造工艺上做了大量工作，在国内首次采用了特殊[膛線](../Page/膛線.md "wikilink")，改善了枪弹的飞行稳定性，提高了狙击步枪的远距离精度。采用特殊的枪管精锻工艺、激光强化技术和镀铬工艺，满足了高精度大口径高精度狙击步枪对枪管的特殊要求。
 
-同时设计者采用了击针平移的击发机构，击发时只有[击针与步枪](../Page/撞針.md "wikilink")[子彈](../Page/子彈.md "wikilink")底火的沿枪管轴线的对心撞击，加上解脱击针到撞击底火的时间短，可以说是所有击发机构中最有利于提高射击精度的一种形式。发射机构采用了运动枪械的发射机构，扣引扳机平稳，[扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")12—18
-[牛頓](../Page/牛頓_\(單位\).md "wikilink")。
+同时设计者采用了击针平移的击发机构，击发时只有[击针与步枪](../Page/撞針.md "wikilink")[子彈](../Page/子彈.md "wikilink")底火的沿枪管轴线的对心撞击，加上解脱击针到撞击底火的时间短，可以说是所有击发机构中最有利于提高射击精度的一种形式。发射机构采用了运动枪械的发射机构，扣引扳机平稳，[扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")12—18 [牛頓](../Page/牛頓_\(單位\).md "wikilink")。
 
 AMR-2的总体布局和细小结构都非常重视[人机工效的合理性](../Page/人因工程学.md "wikilink")，抵肩到扳机的距离和虎口到扳机的尺寸都是严格按照人体的最佳尺寸来确定的。[機匣上端设计有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，光学瞄准具在战术导轨上可以前后移动，可根据不同的需要来调整射手眼部到目镜的距离。
 
@@ -95,14 +93,10 @@ AMR-2与巴雷特的枪机开闭锁原理基本一样，但巴雷特的三枝手
 
 ### [电子游戏](../Page/电子游戏.md "wikilink")
 
-  - 2011年—《[光榮使命](https://zh.wikipedia.org/wiki/光榮使命 "wikilink")》（Passion
-    Leads Army）：命名為「重型狙击步枪」。
-  - 2013年—《[-{zh-cn:战地4;
-    zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
-    4）：命名為「AMR-2」，發射[12.7×108毫米子彈](../Page/12.7×108mm.md "wikilink")，被歸類為戰場拾取武器，5+1發[彈匣](../Page/彈匣.md "wikilink")。只於多人模式時登場，可被所有陣營的玩家拾獲後使用，預設使用[测距仪和](https://zh.wikipedia.org/wiki/测距仪 "wikilink")[腳架技能](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，並具有三種型號：
+  - 2011年—《[光榮使命](https://zh.wikipedia.org/wiki/光榮使命 "wikilink")》（Passion Leads Army）：命名為「重型狙击步枪」。
+  - 2013年—《[-{zh-cn:战地4; zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield 4）：命名為「AMR-2」，發射[12.7×108毫米子彈](../Page/12.7×108mm.md "wikilink")，被歸類為戰場拾取武器，5+1發[彈匣](../Page/彈匣.md "wikilink")。只於多人模式時登場，可被所有陣營的玩家拾獲後使用，預設使用[测距仪和](https://zh.wikipedia.org/wiki/测距仪 "wikilink")[腳架技能](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，並具有三種型號：
       - AMR-2標準型（中文版則命名為「AMR-2狙擊步槍」）：使用[彈道](../Page/弹道学.md "wikilink")（放大40倍）和變焦視鏡（放大14倍）技能；
-      - AMR-2 MID（中文版則命名為「AMR-2
-        MID狙擊步槍」）：使用[CL6X](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大6倍）；
+      - AMR-2 MID（中文版則命名為「AMR-2 MID狙擊步槍」）：使用[CL6X](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大6倍）；
       - AMR-2 CQB（中文版則命名為「AMR-2 CQB狙擊步槍」）：使用稜鏡（放大3.4倍）。
 
 ## 參見
@@ -121,8 +115,7 @@ AMR-2与巴雷特的枪机开闭锁原理基本一样，但巴雷特的三枝手
   - [CS/LR19](https://zh.wikipedia.org/wiki/CS/LR19型狙击步枪 "wikilink")
   - [LG5](../Page/LG5狙击榴弹发射器.md "wikilink")
   - [LR2](../Page/LR2型狙击步枪.md "wikilink")
-  - [XY
-    7.62毫米高精度狙击步枪](https://zh.wikipedia.org/wiki/XY_7.62毫米高精度狙击步枪 "wikilink")
+  - [XY 7.62毫米高精度狙击步枪](https://zh.wikipedia.org/wiki/XY_7.62毫米高精度狙击步枪 "wikilink")
   - [巴雷特M82狙擊步槍](../Page/巴雷特M82狙擊步槍.md "wikilink")
   - [巴雷特M95狙擊步槍](../Page/巴雷特M95狙擊步槍.md "wikilink")
   - [精密國際AW50狙擊步槍](../Page/精密國際AW50狙擊步槍.md "wikilink")
@@ -145,34 +138,22 @@ AMR-2与巴雷特的枪机开闭锁原理基本一样，但巴雷特的三枝手
 
 ## 外部連結
 
-  - —[AMR-2 12.7mm Sniper Rifle, Sino
-    Defence](https://web.archive.org/web/20080921010432/http://www.sinodefence.com/army/small_arms/amr2_sniper.asp)
+  - —[AMR-2 12.7mm Sniper Rifle, Sino Defence](https://web.archive.org/web/20080921010432/http://www.sinodefence.com/army/small_arms/amr2_sniper.asp)
 
-  - —[12.7mm Anti-Materiel
-    Rifles](https://web.archive.org/web/20071216042115/http://www.sino-economy.com/index.php?showtopic=52&pid=1244&st=0&#entry1244)
+  - —[12.7mm Anti-Materiel Rifles](https://web.archive.org/web/20071216042115/http://www.sino-economy.com/index.php?showtopic=52&pid=1244&st=0&#entry1244)
 
-  - —[Modern Firearms—12.7mm AMR-2 anti-materiel / sniper
-    rifle](http://world.guns.ru/sniper/large-caliber-sniper-rifles/ch/amr-2-e.html)
+  - —[Modern Firearms—12.7mm AMR-2 anti-materiel / sniper rifle](http://world.guns.ru/sniper/large-caliber-sniper-rifles/ch/amr-2-e.html)
 
-  - —[Sinodefence.com.—AMR-2 12.7mm Sniper
-    Rifle](https://web.archive.org/web/20070820223800/http://www.sinodefence.com/army/small_arms/amr2_sniper.asp)
+  - —[Sinodefence.com.—AMR-2 12.7mm Sniper Rifle](https://web.archive.org/web/20070820223800/http://www.sinodefence.com/army/small_arms/amr2_sniper.asp)
 
-  - —[Chinese Infantry Heavy Weapon & Small Arms | China Defense
-    Mashup](https://web.archive.org/web/20150212024012/http://www.china-defense-mashup.com/chinas-arsenal/chinese-infantry-heavy-weapon-small-arms)
+  - —[Chinese Infantry Heavy Weapon & Small Arms | China Defense Mashup](https://web.archive.org/web/20150212024012/http://www.china-defense-mashup.com/chinas-arsenal/chinese-infantry-heavy-weapon-small-arms)
 
-  - —[Снайперская винтовка
-    "AMR-2"](http://weapon.at.ua/load/239-1-0-348)
+  - —[Снайперская винтовка "AMR-2"](http://weapon.at.ua/load/239-1-0-348)
 
-  - —图文：国产AMR-2
-    12.7毫米半自动狙击步枪：[1](http://mil.news.sina.com.cn/2005-05-10/2135287742.html)、[2](http://mil.news.sina.com.cn/2005-05-10/2134287741.html)、[3](http://mil.news.sina.com.cn/2005-05-10/2134287740.html)、[4](http://mil.news.sina.com.cn/2005-05-10/2134287738.html)、[5](http://mil.news.sina.com.cn/2005-05-10/2134287736.html)
+  - —图文：国产AMR-2 12.7毫米半自动狙击步枪：[1](http://mil.news.sina.com.cn/2005-05-10/2135287742.html)、[2](http://mil.news.sina.com.cn/2005-05-10/2134287741.html)、[3](http://mil.news.sina.com.cn/2005-05-10/2134287740.html)、[4](http://mil.news.sina.com.cn/2005-05-10/2134287738.html)、[5](http://mil.news.sina.com.cn/2005-05-10/2134287736.html)
 
   - —[華聲論壇—風雨曆程40年—國營216廠專題](http://bbs.big5.voc.com.cn/viewthread.php?action=printable&tid=1373185)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")
-[Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink")
-[Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink")
-[Category:12.7×108毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×108毫米槍械 "wikilink")
-[Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink")
-[Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
+[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:12.7×108毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×108毫米槍械 "wikilink") [Category:中華人民共和國槍械](https://zh.wikipedia.org/wiki/Category:中華人民共和國槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
 
 1.  [国产大口径反器材狙击步枪 1公里内精确打击](http://mil.chinaiiss.com/html/20135/20/a5e9ac_1.html)

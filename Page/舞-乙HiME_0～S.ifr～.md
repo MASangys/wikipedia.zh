@@ -1,11 +1,8 @@
-《**舞-乙HiME
-0～S.ifr～**》是一部由[日本](../Page/日本.md "wikilink")[日昇動畫製作](../Page/日昇動畫.md "wikilink")，並於2008年發售的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。它是《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》系列的前傳。
+《**舞-乙HiME 0～S.ifr～**》是一部由[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作，並於2008年發售的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。它是《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》系列的前傳。
 
-標題中的‘S.ifr’包含了兩層意思：其一它在[阿拉伯語中是](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")[0的意思](../Page/0.md "wikilink")；其二它也提示了作品中的主要角色西弗爾・布蘭（Sifr
-Flan）。至今已推出了三話。
+標題中的‘S.ifr’包含了兩層意思：其一它在[阿拉伯語中是](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")[0](../Page/0.md "wikilink")的意思；其二它也提示了作品中的主要角色西弗爾・布蘭（Sifr Flan）。至今已推出了三話。
 
-在「舞-乙HiME 0～S.ifr～」的預告片中，標題被寫成了「舞-乙HiME
-S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在第一話時，標題是以「S.ifr」。
+在「舞-乙HiME 0～S.ifr～」的預告片中，標題被寫成了「舞-乙HiME S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在第一話時，標題是以「S.ifr」。
 
 ## 登場人物
 
@@ -17,8 +14,7 @@ S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在�
 
 ### Bühne自治區．加爾迪羅貝學園
 
-<span style="font-size:smaller;">（
-德文Bühne，指舞台；德文Garderobe，指劇場的後臺）</span>
+<span style="font-size:smaller;">（ 德文Bühne，指舞台；德文Garderobe，指劇場的後臺）</span>
 
 溫德布倫王國境內，面積小、擁有自治權、以乙-HiME養成機構「加爾迪羅貝學園」為中心所構成的獨立國家。
 
@@ -78,17 +74,14 @@ S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在�
 
   -
     出生國家：？
-    擁有GEM：孤高之紅翡翠（Lofty Crimson Jade，起源：風花王國）蒼天之青玉（Blue Sky
-    Sapphire，起源：移民歷前所創造的超級Meister GEM 蕾娜家的傳家寶玉）
+    擁有GEM：孤高之紅翡翠（Lofty Crimson Jade，起源：風花王國）蒼天之青玉（Blue Sky Sapphire，起源：移民歷前所創造的超級Meister GEM 蕾娜家的傳家寶玉）
     主人：溫德布倫王國王子－布魯斯・溫德布倫
 
 <!-- end list -->
 
   -
-    正篇主角之一的亞里香的母親，為加爾迪羅貝歷屆來最強的畢業生，擁有連Meister
-    GEM都無法負荷、奴獸見到都會害怕的自動消失的強大力量。當初蕾娜的母親反對蕾娜成為乙HiME，可能是預見了她會對自己的力量感到害怕。平時都以素身進行國王的護衛行動。與拉凱爾、艾略特同期。唯有移民歷前所創造的超級Meister
-    GEM才能承受住蕾娜的強大力量。
-    胸部下方有一顆類似Hime的記號的痣，在蕾娜小時候只是隱約可見，但在蕾娜進入加爾德羅貝後，變得越來越深而蕾娜的力量也越來越強。在第一次與M-9戰鬥並且被沖擊彈飛出去時，出現了金黃色的羽翼，保護蕾娜降落到地面。第二次與M-9交戰時，再次出現金黃色的羽翼，並且出現一[雙持著弓箭的手攻擊M](../Page/雙持.md "wikilink")-9，但隨即因為蕾娜的制止而消失。
+    正篇主角之一的亞里香的母親，為加爾迪羅貝歷屆來最強的畢業生，擁有連Meister GEM都無法負荷、奴獸見到都會害怕的自動消失的強大力量。當初蕾娜的母親反對蕾娜成為乙HiME，可能是預見了她會對自己的力量感到害怕。平時都以素身進行國王的護衛行動。與拉凱爾、艾略特同期。唯有移民歷前所創造的超級Meister GEM才能承受住蕾娜的強大力量。
+    胸部下方有一顆類似Hime的記號的痣，在蕾娜小時候只是隱約可見，但在蕾娜進入加爾德羅貝後，變得越來越深而蕾娜的力量也越來越強。在第一次與M-9戰鬥並且被沖擊彈飛出去時，出現了金黃色的羽翼，保護蕾娜降落到地面。第二次與M-9交戰時，再次出現金黃色的羽翼，並且出現一[雙持](../Page/雙持.md "wikilink")著弓箭的手攻擊M-9，但隨即因為蕾娜的制止而消失。
     在準備與學園長等人戰鬥時，喊了「阿爾忒彌斯」，從外部改寫了GEM的程式，因此不需要主人的認證便可物質化，武鬥服的模樣也隨著改變。
     從在剛用蒼天之青玉與布魯斯訂下契約，尚未開始物質化前，單手抵擋住簧風琴的攻擊，以及與四名五柱戰鬥還能輕鬆獲勝來看，可見蕾娜力量的強大。
     似乎因為時常遭到埃利奧特的騷擾的關係，在昏迷期間曾夢到有關埃利奧特的夢。
@@ -103,7 +96,7 @@ S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在�
 
 ### 艾雅魯教團
 
-一個幫助有困難的人的組織。從前作──[舞-乙HiME對乙HiME的](../Page/舞-乙HiME.md "wikilink")[設定](https://zh.wikipedia.org/wiki/舞-乙HiME#用語 "wikilink")，紫音修女有乙HiME隨身可以看出，應該也是貴族所組成的。另外根據布魯斯所說，教團似乎會鞭打同性戀。
+一個幫助有困難的人的組織。從前作──[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")對乙HiME的[設定](https://zh.wikipedia.org/wiki/舞-乙HiME#用語 "wikilink")，紫音修女有乙HiME隨身可以看出，應該也是貴族所組成的。另外根據布魯斯所說，教團似乎會鞭打同性戀。
 
   -
     出生國家：？
@@ -250,14 +243,9 @@ S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在�
 
   - [舞-乙HiME 0～S.ifr～動畫官方網站](http://my-zhime.net/sifr/index.html)
 
-  - [Bandai
-    Visual](https://web.archive.org/web/20081220020216/http://product.bandaivisual.co.jp/web_service/shop_product_info.asp?item_no=BCBA-3226)
+  - [Bandai Visual](https://web.archive.org/web/20081220020216/http://product.bandaivisual.co.jp/web_service/shop_product_info.asp?item_no=BCBA-3226)
 
-[Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink")
-[Category:2008年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2008年日本OVA動畫 "wikilink")
+[Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink") [Category:2008年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2008年日本OVA動畫 "wikilink")
 
-1.  [YouTube
-    舞-乙HiME 0～S.ifr～預告片](http://www.youtube.com/watch?v=FtOaJzcZFKc)
-    於2007年12月9日访问
-2.  [日本Amazon -
-    舞-乙HiME 0\~S.ifr\~(マイオトメシフル) 3<最終巻>](http://www.amazon.co.jp/%E8%88%9E-%E4%B9%99HiME-0~S-ifr~-%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%88%E3%83%A1%E3%82%B7%E3%83%95%E3%83%AB-3-%E6%9C%80%E7%B5%82%E5%B7%BB/dp/B001AQWRSQ)
+1.  [YouTube 舞-乙HiME 0～S.ifr～預告片](http://www.youtube.com/watch?v=FtOaJzcZFKc) 於2007年12月9日访问
+2.  [日本Amazon - 舞-乙HiME 0\~S.ifr\~(マイオトメシフル) 3<最終巻>](http://www.amazon.co.jp/%E8%88%9E-%E4%B9%99HiME-0~S-ifr~-%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%88%E3%83%A1%E3%82%B7%E3%83%95%E3%83%AB-3-%E6%9C%80%E7%B5%82%E5%B7%BB/dp/B001AQWRSQ)

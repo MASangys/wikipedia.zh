@@ -1,5 +1,4 @@
-《**菲比尋常Live\!**》（***Faye Wong
-Live\!***）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲的第三張](../Page/王菲.md "wikilink")[演唱會專輯](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，於2004年11月12日在[香港发行](../Page/香港.md "wikilink")，2CD裝。CD1是17首歌曲，CD2為16首歌曲。
+《**菲比尋常Live\!**》（***Faye Wong Live\!***）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲](../Page/王菲.md "wikilink")的第三張[演唱會專輯](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，於2004年11月12日在[香港](../Page/香港.md "wikilink")发行，2CD裝。CD1是17首歌曲，CD2為16首歌曲。
 
 ## 曲目
 
@@ -24,7 +23,7 @@ IFPI香港2005年10大暢銷囯語專輯。\[1\]
 ## 唱片版本
 
   - [台灣版](https://zh.wikipedia.org/wiki/台灣 "wikilink")：2CD，紅色大圓形貼標，附送海報一張。
-  - [香港版](../Page/香港.md "wikilink")：2CD，進口台灣版，有王菲頭像側標。
+  - [香港](../Page/香港.md "wikilink")版：2CD，進口台灣版，有王菲頭像側標。
   - [大陸版](https://zh.wikipedia.org/wiki/大陸 "wikilink")：分拆成CD1、CD2兩張發行。
 
 其他版本：
@@ -41,8 +40,6 @@ IFPI香港2005年10大暢銷囯語專輯。\[1\]
 
 </div>
 
-[Category:王菲音樂專輯](https://zh.wikipedia.org/wiki/Category:王菲音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:王菲音樂專輯](https://zh.wikipedia.org/wiki/Category:王菲音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
 
-1.  <http://www.ifpihk.org/hong-kong-top-sales-music-award-presented-01-11/hong-kong-top-sales-music-award-presented/2005>
-    IFPI Hong Kong
+1.  <http://www.ifpihk.org/hong-kong-top-sales-music-award-presented-01-11/hong-kong-top-sales-music-award-presented/2005> IFPI Hong Kong

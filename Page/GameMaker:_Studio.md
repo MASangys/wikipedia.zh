@@ -1,6 +1,4 @@
-**Game
-Maker**是一款由以[Delphi](../Page/Delphi.md "wikilink")製作的[电子游戏](../Page/电子游戏.md "wikilink")制作[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。最新版本命名為**Game
-Maker: Studio**。
+**Game Maker**是一款由以[Delphi](../Page/Delphi.md "wikilink")製作的[电子游戏](../Page/电子游戏.md "wikilink")制作[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。最新版本命名為**Game Maker: Studio**。
 
 ## 概論
 
@@ -35,14 +33,9 @@ Maker: Studio**。
   - [YoYo Games](http://www.yoyogames.com/) — 官方网站
   - [Game Maker Community](http://gmc.yoyogames.com/) — 官方论坛
   - [YoYo Games Wiki](http://wiki.yoyogames.com/) — 官方维基
-  - [GMking
-    Network](https://web.archive.org/web/20090407002550/http://gmking.org/)
-    — GMking Network
-  - [Game Maker Technology Magazine](http://www.gamemakertech.info) —
-    Game Maker Technology Magazine
+  - [GMking Network](https://web.archive.org/web/20090407002550/http://gmking.org/) — GMking Network
+  - [Game Maker Technology Magazine](http://www.gamemakertech.info) — Game Maker Technology Magazine
 
-[Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")
-[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
+[Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
 
-1.  [YoYo Games launches GameMaker:
-    Studio](http://yoyogames.com/news/105)
+1.  [YoYo Games launches GameMaker: Studio](http://yoyogames.com/news/105)

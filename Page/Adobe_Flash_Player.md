@@ -1,23 +1,8 @@
-**Adobe Flash Player**（在[Internet
-Explorer和](../Page/Internet_Explorer.md "wikilink")[Firefox](../Page/Firefox.md "wikilink")稱為**Shockwave
-Flash**）\[1\]是曾獲广泛使用、[专有的多媒体程序播放器](../Page/专有软件.md "wikilink")。其最初由[Macromedia](../Page/Macromedia.md "wikilink")出品，在Macromedia被[Adobe](../Page/Adobe.md "wikilink")收购后由Adobe继续开发。
+**Adobe Flash Player**（在[Internet Explorer和](../Page/Internet_Explorer.md "wikilink")[Firefox](../Page/Firefox.md "wikilink")稱為**Shockwave Flash**）\[1\]是曾獲广泛使用、[专有的多媒体程序播放器](../Page/专有软件.md "wikilink")。其最初由[Macromedia](../Page/Macromedia.md "wikilink")出品，在Macromedia被[Adobe](../Page/Adobe.md "wikilink")收购后由Adobe继续开发。
 
-Flash
-Player使用的[SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")，可由[Adobe
-Animate](../Page/Adobe_Animate.md "wikilink")、[Adobe
-Flex或者其他软件或第三方工具创建](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")。Adobe
-Animate原名Flash，同时表示创作程序和播放器。它同时使用[位图](../Page/位图.md "wikilink")和[矢量图形](../Page/矢量图形.md "wikilink")，利用[ActionScript](../Page/ActionScript.md "wikilink")脚本语言进行编程，支持双向视频流和音频流。严格来说，Adobe
-Flash是创作环境而Flash
-Player是运行Flash文件的虚拟机。但是，通常二者均可称为Flash，即Flash同时有三种含义：创作环境，播放器和程序文件。Flash
-Player支持内嵌的脚本语言[ActionScript](../Page/ActionScript.md "wikilink")（AS）。ActionScript是一种基于[ECMAScript](../Page/ECMAScript.md "wikilink")的脚本语言，可用于编写Adobe
-Flash动画和应用程序。由于ActionScript和[JavaScript](../Page/JavaScript.md "wikilink")都是基于ECMAScript语法的，理论上它们互相可以很流畅地从一种语言翻译到另一种。Adobe
-Flash
-Player最初設計目的為播放二維向量动画，但至此之後成為適合開發創造[豐富性網際網路應用程式](../Page/丰富互联网应用程序.md "wikilink")、串流視訊音訊的工具。Flash
-Player使用[向量圖形的技術來最小化檔案的大小以及創造節省網路頻寬和下載時間的檔案](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")。因此Flash成為嵌入網頁中的小遊戲、動畫、廣告、以及[圖形使用者介面常用的格式](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")。
+Flash Player使用的[SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")，可由[Adobe Animate](../Page/Adobe_Animate.md "wikilink")、[Adobe Flex或者其他软件或第三方工具创建](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")。Adobe Animate原名Flash，同时表示创作程序和播放器。它同时使用[位图](../Page/位图.md "wikilink")和[矢量图形](../Page/矢量图形.md "wikilink")，利用[ActionScript](../Page/ActionScript.md "wikilink")脚本语言进行编程，支持双向视频流和音频流。严格来说，Adobe Flash是创作环境而Flash Player是运行Flash文件的虚拟机。但是，通常二者均可称为Flash，即Flash同时有三种含义：创作环境，播放器和程序文件。Flash Player支持内嵌的脚本语言[ActionScript](../Page/ActionScript.md "wikilink")（AS）。ActionScript是一种基于[ECMAScript](../Page/ECMAScript.md "wikilink")的脚本语言，可用于编写Adobe Flash动画和应用程序。由于ActionScript和[JavaScript](../Page/JavaScript.md "wikilink")都是基于ECMAScript语法的，理论上它们互相可以很流畅地从一种语言翻译到另一种。Adobe Flash Player最初設計目的為播放二維向量动画，但至此之後成為適合開發創造[豐富性網際網路應用程式](../Page/丰富互联网应用程序.md "wikilink")、串流視訊音訊的工具。Flash Player使用[向量圖形的技術來最小化檔案的大小以及創造節省網路頻寬和下載時間的檔案](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")。因此Flash成為嵌入網頁中的小遊戲、動畫、廣告、以及[圖形使用者介面常用的格式](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")。
 
-因Flash的諸多限制和[資訊安全問題](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")，合作夥伴包括[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[微軟及](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")等合作下棄用
-Flash 預載，以及[HTML5](../Page/HTML5.md "wikilink")的興起，Flash Player的使用率逐年下滑。
-Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Player。\[2\]
+因Flash的諸多限制和[資訊安全問題](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")，合作夥伴包括[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[微軟及](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")等合作下棄用 Flash 預載，以及[HTML5](../Page/HTML5.md "wikilink")的興起，Flash Player的使用率逐年下滑。 Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Player。\[2\]
 
 ## 行動版本
 
@@ -50,13 +35,10 @@ Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Pla
   - **Macromedia Flash Player 8**
       - Macromedia Flash Player 8（8.0.22.0版本，代號為Maelstrom，2005年8月）
   - **Adobe Flash Player 9**
-      - Adobe Flash Player 9（9.0.15.0版本，代號為Zaphod，2006年6月，Flash Player
-        8.5以前的命名）
+      - Adobe Flash Player 9（9.0.15.0版本，代號為Zaphod，2006年6月，Flash Player 8.5以前的命名）
       - Adobe Flash Player 9 Update 1（9.0.28.0版本，代號為Marvin，2006年12月）
-      - Adobe Flash Player 9 Update
-        2（Mac/Windows:9.0.47.0版本；Linux:9.0.48.0版本，代號為Hotblack，2007年7月）
-      - Adobe Flash Player 9 Update
-        3（9.0.115.0版本，代號為Moviestar或Frogstar，2007年12月）
+      - Adobe Flash Player 9 Update 2（Mac/Windows:9.0.47.0版本；Linux:9.0.48.0版本，代號為Hotblack，2007年7月）
+      - Adobe Flash Player 9 Update 3（9.0.115.0版本，代號為Moviestar或Frogstar，2007年12月）
   - **Adobe Flash Player 10**
       - Adobe Flash Player 10（10.0.12.36版本，代號為Astro，2008年10月）
           - 新特性
@@ -78,10 +60,8 @@ Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Pla
           - 使用雙緩衝OpenGL上下文的全屏
           - 使用核心動畫
       - Adobe Flash Player 10.2（10.2.152.26版本，代號為Spicy，2011年2月）
-          - [Stage
-            Video](https://zh.wikipedia.org/wiki/Stage_Video "wikilink")——一個完整的硬體加速的視訊管線
-          - [Internet
-            Explorer的繪製加速支援](../Page/Internet_Explorer.md "wikilink")
+          - [Stage Video](https://zh.wikipedia.org/wiki/Stage_Video "wikilink")——一個完整的硬體加速的視訊管線
+          - [Internet Explorer的繪製加速支援](../Page/Internet_Explorer.md "wikilink")
           - 自訂[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")[游標](https://zh.wikipedia.org/wiki/游標 "wikilink")
           - 多顯示器的全螢幕支援
           - 強化文字的sub-pixel繪製
@@ -100,8 +80,7 @@ Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Pla
           - 原生64位元支援
           - 相機的[H264](https://zh.wikipedia.org/wiki/H264 "wikilink")/[AVC軟體編碼](https://zh.wikipedia.org/wiki/AVC "wikilink")
           - 支援行動裝置的內容保護
-          - 受保護的[HTTP動態串流](https://zh.wikipedia.org/wiki/HTTP動態串流 "wikilink")（HTTP
-            Dynamic Stream）
+          - 受保護的[HTTP動態串流](https://zh.wikipedia.org/wiki/HTTP動態串流 "wikilink")（HTTP Dynamic Stream）
           - Adobe Flash Access®
           - 安全隨機編號產生器
           - [TLS安全通訊端支援](https://zh.wikipedia.org/wiki/TLS "wikilink")
@@ -174,8 +153,7 @@ Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Pla
 
   - **Adobe Flash Player 20（2015年12月8日）**
       - 增強視訊處理和資訊防盜功能
-      - 12月底发布的20.0.0.267的ActiveX版本有无法使用的严重BUG，该版本随着Window自动更新扩散到全球，造成了史无前例的影响，并且直到半个月后才重新推送BUG修复版，直接引发了Flash
-        Player体系（包括Flash、Flex、Action Script等）的信任危机。
+      - 12月底发布的20.0.0.267的ActiveX版本有无法使用的严重BUG，该版本随着Window自动更新扩散到全球，造成了史无前例的影响，并且直到半个月后才重新推送BUG修复版，直接引发了Flash Player体系（包括Flash、Flex、Action Script等）的信任危机。
 
 <!-- end list -->
 
@@ -205,29 +183,19 @@ Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Pla
 
 ## 隐私争议
 
-2018年2月28日，上海剑圣网络科技有限公司（即[2144](https://zh.wikipedia.org/wiki/2144 "wikilink")）和其分公司重庆重橙网络科技有限公司宣布获得了Adobe
-Flash Player在中国大陆地区的独家代理发行权\[15\]。中国大陆的用户在访问Adobe Flash
-Player的下载页面时，会自动跳转到2144公司网站域名下的下载页面，同时会默认捆绑下载2144游戏中心，且取消勾选的位置较为隐蔽，这让不少用户感到不满\[16\]。
+2018年2月28日，上海剑圣网络科技有限公司（即[2144](https://zh.wikipedia.org/wiki/2144 "wikilink")）和其分公司重庆重橙网络科技有限公司宣布获得了Adobe Flash Player在中国大陆地区的独家代理发行权\[15\]。中国大陆的用户在访问Adobe Flash Player的下载页面时，会自动跳转到2144公司网站域名下的下载页面，同时会默认捆绑下载2144游戏中心，且取消勾选的位置较为隐蔽，这让不少用户感到不满\[16\]。
 
-2144公司网站域名下的下载页面的最下方用户协议区域比Adobe公司的原版下载页面多了一条不起眼的《Helper
-Service服务协议》，该协议的其中一部分写道：\[17\]\[18\]
+2144公司网站域名下的下载页面的最下方用户协议区域比Adobe公司的原版下载页面多了一条不起眼的《Helper Service服务协议》，该协议的其中一部分写道：\[17\]\[18\]
 
-这些条款无视用户隐私，强制更新，堪比霸王条款，严重侵害了用户的合法权利，而且大陆用户只能被动接受，这无形中加速了苟延残喘的Flash
-Player的灭亡。\[19\]
+这些条款无视用户隐私，强制更新，堪比霸王条款，严重侵害了用户的合法权利，而且大陆用户只能被动接受，这无形中加速了苟延残喘的Flash Player的灭亡。\[19\]
 
-中国大陆用户最后一个能正常安装使用的ActiveX和NPAPI版本是2018年2月6日发布28.0.0.161。2018年2月28日起，中国大陆的发行交由2144。\[20\]Google
-Chrome自带的PPAPI版本暂不受影响。\[21\]
+中国大陆用户最后一个能正常安装使用的ActiveX和NPAPI版本是2018年2月6日发布28.0.0.161。2018年2月28日起，中国大陆的发行交由2144。\[20\]Google Chrome自带的PPAPI版本暂不受影响。\[21\]
 
-从Flash Player
-30起，中国大陆的ActiveX、NPAPI和Win10上的PPAPI版本开始实行锁区策略，分成了全球版和大陆版两个独立的版本，即大陆用户无法安装运行全球版，中国大陆以外的用户无法安装运行大陆版。\[22\]大陆版带有2144的进程“FlashHelperService.exe”，且无法关闭，如果关闭进程则Flash内容就会拒绝显示。
+从Flash Player 30起，中国大陆的ActiveX、NPAPI和Win10上的PPAPI版本开始实行锁区策略，分成了全球版和大陆版两个独立的版本，即大陆用户无法安装运行全球版，中国大陆以外的用户无法安装运行大陆版。\[22\]大陆版带有2144的进程“FlashHelperService.exe”，且无法关闭，如果关闭进程则Flash内容就会拒绝显示。
 
-2018年7月12日，网友爆料中国特供版Flash在其用户服务协议里明确表示会搜集用户隐私信息，并且会将信息披露给第三方。\[23\]事情被曝光后，有媒体发现重橙网络已经悄悄更改了Helper
-Service服务协议的内容。
+2018年7月12日，网友爆料中国特供版Flash在其用户服务协议里明确表示会搜集用户隐私信息，并且会将信息披露给第三方。\[23\]事情被曝光后，有媒体发现重橙网络已经悄悄更改了Helper Service服务协议的内容。
 
-更改后的Helper
-Service服务协议中的“隐私声明”一项有了很大的变化，删除了大量内容，将之前“收集用户的上网信息”改成了“记录用户如何使用本程序的信息和用户使用本程序的相关数据”，同时还去掉了将信息披露给第三方的内容。\[24\]更改后的隐私声明全文如下：
- 但目前“中国特供版”Adobe Flash Player 安装包附带安装的 Flash Helper Service
-服务依然存在，且常驻系统，不可关闭。\[25\]
+更改后的Helper Service服务协议中的“隐私声明”一项有了很大的变化，删除了大量内容，将之前“收集用户的上网信息”改成了“记录用户如何使用本程序的信息和用户使用本程序的相关数据”，同时还去掉了将信息披露给第三方的内容。\[24\]更改后的隐私声明全文如下：  但目前“中国特供版”Adobe Flash Player 安装包附带安装的 Flash Helper Service 服务依然存在，且常驻系统，不可关闭。\[25\]
 
 ### 流氓行为
 
@@ -239,64 +207,38 @@ Service服务协议中的“隐私声明”一项有了很大的变化，删除�
 
   - [Adobe Animate](../Page/Adobe_Animate.md "wikilink")
   - [Adobe AIR](../Page/Adobe_AIR.md "wikilink")
-  - [Microsoft
-    Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
+  - [Microsoft Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
 
 ## 外部链接
 
   -
-[de:Adobe Flash\#Flash
-Player](https://zh.wikipedia.org/wiki/de:Adobe_Flash#Flash_Player "wikilink")
+[de:Adobe Flash\#Flash Player](https://zh.wikipedia.org/wiki/de:Adobe_Flash#Flash_Player "wikilink")
 
-[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
-[Category:媒體播放器](https://zh.wikipedia.org/wiki/Category:媒體播放器 "wikilink")
-[Category:Adobe_Flash](https://zh.wikipedia.org/wiki/Category:Adobe_Flash "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:2020年廢除](https://zh.wikipedia.org/wiki/Category:2020年廢除 "wikilink")
+[Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink") [Category:媒體播放器](https://zh.wikipedia.org/wiki/Category:媒體播放器 "wikilink") [Category:Adobe_Flash](https://zh.wikipedia.org/wiki/Category:Adobe_Flash "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:2020年廢除](https://zh.wikipedia.org/wiki/Category:2020年廢除 "wikilink")
 
 1.  <http://krebsonsecurity.com/2014/05/why-you-should-ditch-adobe-shockwave/>
 
 2.  [Adobe宣布 2020年底終止Flash服務](http://www.cna.com.tw/news/firstnews/201707265008-1.aspx)
 
-3.  [技术规范和系统要求 | Adobe
-    AIR](https://www.adobe.com/cn/products/air/tech-specs.html)
+3.  [技术规范和系统要求 | Adobe AIR](https://www.adobe.com/cn/products/air/tech-specs.html)
 
-4.  [Adobe Flash
-    Player](https://market.android.com/details?id=com.adobe.flashplayer&hl=en)
-    , Android Market
+4.  [Adobe Flash Player](https://market.android.com/details?id=com.adobe.flashplayer&hl=en) , Android Market
 
-5.  [技术规范和系统要求 | Adobe
-    AIR](https://www.adobe.com/cn/products/air/tech-specs.html)
+5.  [技术规范和系统要求 | Adobe AIR](https://www.adobe.com/cn/products/air/tech-specs.html)
 
-6.  [Maemo software | Nokia › Maemo
-    Browser](http://maemo.nokia.com/features/maemo-browser/) .
-    Maemo.nokia.com. Retrieved on March 11, 2011.
+6.  [Maemo software | Nokia › Maemo Browser](http://maemo.nokia.com/features/maemo-browser/) . Maemo.nokia.com. Retrieved on March 11, 2011.
 
-7.  [Mobile and Devices Developer Center: Sony
-    PSP](http://www.adobe.com/devnet/devices/psp.html). Adobe（July 16,
-    2007）. Retrieved on March 11, 2011.
+7.  [Mobile and Devices Developer Center: Sony PSP](http://www.adobe.com/devnet/devices/psp.html). Adobe（July 16, 2007）. Retrieved on March 11, 2011.
 
-8.  [Symbian ^3](http://www.adobe-flashlite.com/?tag=symbian-3). Adobe
-    Flash Lite（April 27, 2010）. Retrieved on March 11, 2011.
+8.  [Symbian ^3](http://www.adobe-flashlite.com/?tag=symbian-3). Adobe Flash Lite（April 27, 2010）. Retrieved on March 11, 2011.
 
-9.  [Scott Janousek » Blog Archive » Nintendo Wii Flash Player supported
-    via Opera updated to Flash
-    Lite 3.1（Flash 8/9）](http://flashmobile.scottjanousek.com/2009/09/01/nintendo-wii-flash-player-supported-via-opera-updated-to-flash-lite-3-1-flash-89/)
-    . Flashmobile.scottjanousek.com（September 1, 2009）. Retrieved on
-    March 11, 2011.
+9.  [Scott Janousek » Blog Archive » Nintendo Wii Flash Player supported via Opera updated to Flash Lite 3.1（Flash 8/9）](http://flashmobile.scottjanousek.com/2009/09/01/nintendo-wii-flash-player-supported-via-opera-updated-to-flash-lite-3-1-flash-89/) . Flashmobile.scottjanousek.com（September 1, 2009）. Retrieved on March 11, 2011.
 
-10. [Download Macromedia Flash Player 7 for Pocket
-    PC](http://www.adobe.com/products/flashplayer_pocketpc/downloads/player.html)
-    , Adobe
+10. [Download Macromedia Flash Player 7 for Pocket PC](http://www.adobe.com/products/flashplayer_pocketpc/downloads/player.html) , Adobe
 
-11. [Flash Player 7 For Pocket
-    PC](http://www.adobe.com/products/flashplayer_pocketpc/) .
-    Adobe（July 14, 2009）. Retrieved on March 11, 2011.
+11. [Flash Player 7 For Pocket PC](http://www.adobe.com/products/flashplayer_pocketpc/) . Adobe（July 14, 2009）. Retrieved on March 11, 2011.
 
-12. [rich Internet applications | Adobe Flash Platform
-    runtimes](http://www.adobe.com/mobile/supported_devices/pda.html).
-    Adobe.com（July 14, 2009）. Retrieved on March 11, 2011.
+12. [rich Internet applications | Adobe Flash Platform runtimes](http://www.adobe.com/mobile/supported_devices/pda.html). Adobe.com（July 14, 2009）. Retrieved on March 11, 2011.
 
 13.
 14.

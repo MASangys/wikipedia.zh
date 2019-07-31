@@ -1,5 +1,4 @@
-**[BMO球場](../Page/滿地可銀行.md "wikilink")**（）是[加拿大](../Page/加拿大.md "wikilink")[安大略省](../Page/安大略省.md "wikilink")[多倫多一座戶外體育場](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，現為[美國職業足球大聯盟](https://zh.wikipedia.org/wiki/美國職業足球大聯盟 "wikilink")（MLS）[多倫多FC](https://zh.wikipedia.org/wiki/多倫多FC "wikilink")、[加拿大加式足球聯盟](../Page/加拿大加式足球聯盟.md "wikilink")（CFL）[多倫多淘金人及](https://zh.wikipedia.org/wiki/多倫多淘金人 "wikilink")[美國足球聯賽多倫多FC](https://zh.wikipedia.org/wiki/美國足球聯賽 "wikilink")
-II的主場館。場館坐落[加拿大博覽會會場](https://zh.wikipedia.org/wiki/加拿大博覽會 "wikilink")，業權由多倫多市政府擁有，營運權則歸。球場2007年4月28日首次啟用，第一場賽事為多倫多FC對[堪薩斯城巫師](https://zh.wikipedia.org/wiki/堪薩斯城巫師 "wikilink")，結果主隊以0:1敗陣。
+**[BMO球場](../Page/滿地可銀行.md "wikilink")**（）是[加拿大](../Page/加拿大.md "wikilink")[安大略省](../Page/安大略省.md "wikilink")[多倫多一座戶外體育場](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，現為[美國職業足球大聯盟](https://zh.wikipedia.org/wiki/美國職業足球大聯盟 "wikilink")（MLS）[多倫多FC](https://zh.wikipedia.org/wiki/多倫多FC "wikilink")、[加拿大加式足球聯盟](../Page/加拿大加式足球聯盟.md "wikilink")（CFL）[多倫多淘金人及](https://zh.wikipedia.org/wiki/多倫多淘金人 "wikilink")[美國足球聯賽多倫多FC](https://zh.wikipedia.org/wiki/美國足球聯賽 "wikilink") II的主場館。場館坐落[加拿大博覽會會場](https://zh.wikipedia.org/wiki/加拿大博覽會 "wikilink")，業權由多倫多市政府擁有，營運權則歸。球場2007年4月28日首次啟用，第一場賽事為多倫多FC對[堪薩斯城巫師](https://zh.wikipedia.org/wiki/堪薩斯城巫師 "wikilink")，結果主隊以0:1敗陣。
 
 此場館原為一座，供2007年起作賽的多倫多FC使用，而[2007年國際足協U-20世界盃](../Page/2007年國際足協U-20世界盃.md "wikilink")和[2014年國際足協女子U-20世界盃](../Page/2014年國際足協女子U-20世界盃.md "wikilink")部分賽事（包括前者的開幕賽和決賽）亦在此進行。場館亦於2010年、2016年和2017年三度舉辦[美國職業足球大聯盟盃](../Page/美國職業足球大聯盟盃.md "wikilink")決賽，當中主隊多倫多FC於2017年贏取獎盃。場館亦曾於[2015年泛美運動會](../Page/2015年泛美運動會.md "wikilink")期間舉辦[七人欖球賽事](https://zh.wikipedia.org/wiki/七人欖球 "wikilink")，而[加拿大國家橄欖球隊](../Page/加拿大國家橄欖球隊.md "wikilink")亦曾在此進行主場賽事。場館從2014-16年間進行重修，在東看台新設上層觀眾席，在觀眾席上方增添屋頂，並延長草坪以迎合[加拿大式足球](../Page/加拿大式足球.md "wikilink")賽事。工程完成後，淘金人隊從2016年CFL賽季起以此作其主場館。
 
@@ -19,12 +18,7 @@ BMO球場是展覽館內同一位置上所興建的第五座球場，之前一�
 
 2006年5月11日，[美國職業足球大聯盟](https://zh.wikipedia.org/wiki/美國職業足球大聯盟 "wikilink")（MLS）宣布多倫多FC將於2007年成為聯盟的第十三支球隊（加拿大首隊）。MLS專員稱新加盟球隊須有興建足球專用球場計劃，並指由於此類球場面積相對[國家美式足球聯盟或者](https://zh.wikipedia.org/wiki/國家美式足球聯盟 "wikilink")[加拿大式足球聯賽球場較小](../Page/加拿大加式足球聯盟.md "wikilink")，有助觀眾營造更佳氣氛，而且球隊對有關設施有較大自主權，更能有效控制收入與成本。
 
-同年8月31日，《[多倫多星報](../Page/多倫多星報.md "wikilink")》報道[-{zh-hans:蒙特利尔银行;
-zh-hk:滿地可銀行}-購得球場的命名權](../Page/滿地可銀行.md "wikilink")。（購入前球場只稱作國家足球場。）“BMO”是-{zh-hans:蒙特利尔银行;
-zh-hk:滿地可銀行}-的簡稱，亦是該行在[多倫多證券交易所上的股票代號](https://zh.wikipedia.org/wiki/多倫多證券交易所 "wikilink")，。儘管銀行以「[-{zh-hans:蒙特利尔;
-zh-hk:滿地可}-](../Page/蒙特利尔.md "wikilink")」命名，總部其實設在多倫多。9月20日，球場西看台懸掛印有
-"BMO Field"
-字樣的旗幟，後來在多倫多FC的網站正式宣布球場易名的消息。儘管如此，球場舉行在[國際足協認可比賽時](https://zh.wikipedia.org/wiki/國際足協 "wikilink")，依然稱作「國家足球場」。
+同年8月31日，《[多倫多星報](../Page/多倫多星報.md "wikilink")》報道[-{zh-hans:蒙特利尔银行; zh-hk:滿地可銀行}-購得球場的命名權](../Page/滿地可銀行.md "wikilink")。（購入前球場只稱作國家足球場。）“BMO”是-{zh-hans:蒙特利尔银行; zh-hk:滿地可銀行}-的簡稱，亦是該行在[多倫多證券交易所上的股票代號](https://zh.wikipedia.org/wiki/多倫多證券交易所 "wikilink")，。儘管銀行以「[-{zh-hans:蒙特利尔; zh-hk:滿地可}-](../Page/蒙特利尔.md "wikilink")」命名，總部其實設在多倫多。9月20日，球場西看台懸掛印有 "BMO Field" 字樣的旗幟，後來在多倫多FC的網站正式宣布球場易名的消息。儘管如此，球場舉行在[國際足協認可比賽時](https://zh.wikipedia.org/wiki/國際足協 "wikilink")，依然稱作「國家足球場」。
 
 2007年5月12日，球場開幕。\[25\]開幕禮上，MLS專員宣布「2008年MLS明星賽」() 及2012年「MLS盃」將在這裡舉行。
 
@@ -36,52 +30,32 @@ zh-hk:滿地可}-](../Page/蒙特利尔.md "wikilink")」命名，總部其實�
 
 場館改建項目初步方案於2014年3月公布\[39\]\[40\]。隨了改建賽場以容納加式足球賽事外，項目亦包括在場館東側增設上層看台。足球賽事的觀眾席數遂從21566席增至30000席，加式足球觀眾席數為26500席，而舉行大型賽事和活動時底線區亦可增設臨時觀眾席，達致最高容量4萬人\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]。改建項目分兩期進行，首期包括增長賽場和增建觀眾席，耗資7700萬元，2015年5月完成。次期則包括在永久觀眾席上方增添屋頂，耗資4300萬元，2016年5月完成\[48\]\[49\]\[50\]\[51\]。
 
-楓葉體娛其中兩名主要股東[加拿大貝爾](../Page/加拿大貝爾.md "wikilink")和基爾默集團（）於2015年5月20日宣布購入淘金人隊部分股權，並計劃從2016年CFL賽季起將該隊主場置於BMO球場\[52\]。協議包括在改建完畢的BMO球場舉行兩次[格雷杯賽事](https://zh.wikipedia.org/wiki/格雷杯 "wikilink")\[53\]\[54\]。場館於2016年2月宣布與[-{zh-hans:蒙特利尔银行;
-zh-hk:滿地可銀行}-的命名權協議續期十年](../Page/滿地可銀行.md "wikilink")\[55\]。
+楓葉體娛其中兩名主要股東[加拿大貝爾](../Page/加拿大貝爾.md "wikilink")和基爾默集團（）於2015年5月20日宣布購入淘金人隊部分股權，並計劃從2016年CFL賽季起將該隊主場置於BMO球場\[52\]。協議包括在改建完畢的BMO球場舉行兩次[格雷杯賽事](https://zh.wikipedia.org/wiki/格雷杯 "wikilink")\[53\]\[54\]。場館於2016年2月宣布與[-{zh-hans:蒙特利尔银行; zh-hk:滿地可銀行}-的命名權協議續期十年](../Page/滿地可銀行.md "wikilink")\[55\]。
 
 ### 其他歷史事件
 
   - 2007年9月7日，球場舉行目前為止唯一一場音樂會，演出者為古典搖滾樂隊[創世紀樂團](../Page/創世紀樂團.md "wikilink")。
   - 2008年7月24日，球場上演MLS明星賽，由MLS選手隊對[英格蘭超級聯賽球隊](https://zh.wikipedia.org/wiki/英格蘭超級聯賽 "wikilink")[-{zh-hans:西汉姆联;zh-hk:韋斯咸;zh-tw:西漢姆聯;}-](https://zh.wikipedia.org/wiki/西汉姆联足球俱乐部 "wikilink")，結果MLS選手隊勝3-2。
   - 2009年7月14日，球場首次禁售酒精類飲品。事緣一名少年於2008年5月21日舉行的球賽上，被發現以非法年齡飲用酒精類飲品，因此安大略酒精及博彩委員會判罰BMO球場禁售酒類飲品一天，在2009年7月14日執行。\[56\]
-  - 2009年8月7日，西班牙勁旅[皇家馬德里獲邀前來與多倫多FC合演一場表演賽](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")，結果客隊以5:1勝出。多倫多FC的
-     攻入一球，是歷史上加拿大球員首次射破皇馬的大門。
-  - 2009年5月22日，Toronto Nationals 首次在BMO球場舉行MLL賽事，結果主隊以15:11勝出， 勝方的
-    拿下比賽首個得分。
-  - 2009年11月，加拿大式足球球隊 Toronto Argonauts 班主曾與多倫多市政府商議最快在開始將球隊主場遷往
-    BMO球場。\[57\]加拿大足球聯賽就有關可行性進行研究。\[58\]然而根據 MLSE 營運總裁 Tom Anselmi
-    所指，除非球場進行大型改動，否則以球場現時面積，只能容納一個110碼加10碼球門區或一個100碼加15碼球門區的比賽場地，換句話說，亦即無法滿足110碼加20碼球門區的標準場地要求。\[59\]2009年12月16日，Argonauts
-    宣布擱置有關計劃。\[60\]
+  - 2009年8月7日，西班牙勁旅[皇家馬德里獲邀前來與多倫多FC合演一場表演賽](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")，結果客隊以5:1勝出。多倫多FC的  攻入一球，是歷史上加拿大球員首次射破皇馬的大門。
+  - 2009年5月22日，Toronto Nationals 首次在BMO球場舉行MLL賽事，結果主隊以15:11勝出， 勝方的  拿下比賽首個得分。
+  - 2009年11月，加拿大式足球球隊 Toronto Argonauts 班主曾與多倫多市政府商議最快在開始將球隊主場遷往 BMO球場。\[57\]加拿大足球聯賽就有關可行性進行研究。\[58\]然而根據 MLSE 營運總裁 Tom Anselmi 所指，除非球場進行大型改動，否則以球場現時面積，只能容納一個110碼加10碼球門區或一個100碼加15碼球門區的比賽場地，換句話說，亦即無法滿足110碼加20碼球門區的標準場地要求。\[59\]2009年12月16日，Argonauts 宣布擱置有關計劃。\[60\]
 
 ### 歷史性進球
 
-  - 球場啟用後首個進球：2007年4月28日，[堪薩斯城巫師以](https://zh.wikipedia.org/wiki/堪薩斯城巫師 "wikilink")1:0小勝主隊多倫多FC的
-    MLS 賽事中，美籍球員  攻入奠定性一球。
-  - 多倫多FC球員首個主場進球：2007年5月12日一場 MLS
-    賽事上，[丹尼利·迪基奧](../Page/丹尼利·迪基奧.md "wikilink")於上半場射破客隊[芝加哥火焰的大門](https://zh.wikipedia.org/wiki/芝加哥火焰 "wikilink")。這亦是他在多倫多FC首個進球。
-  - 首個加拿大球員在BMO球場的進球：2007年5月11日，一場20歲以下青年友誼賽中，加拿大以1:2敗於阿根廷腳下。主隊的 [David
-    Edgar](../Page/大卫·埃德加.md "wikilink") 射入一個點球。
-  - BMO球場首個國際賽進球：2007年9月12日，[加拿大對](https://zh.wikipedia.org/wiki/加拿大國家足球隊 "wikilink")[哥斯達黎加的一場友誼賽中](../Page/哥斯達黎加國家足球隊.md "wikilink")，客隊的
-    [Victor Núñez](../Page/维克托·努涅斯.md "wikilink")
-    攻入首個進球。幾分鐘後，主隊的[迪華尼·迪·羅沙里奧追平](https://zh.wikipedia.org/wiki/迪華尼·迪·羅沙里奧 "wikilink")，該球亦是加拿大國家隊在BMO球場的首個進球。
-  - 2007年5月19日，[-{zh-hans:华盛顿特区联;
-    zh-hant:華盛頓聯隊;}-](../Page/华盛顿特区联.md "wikilink")[玻利維亞](../Page/玻利維亞.md "wikilink")裔前鋒[-{zh-hans:杰梅·莫雷诺;zh-hk:占美·摩連奴;zh-tw:杰梅·莫雷諾;}-射入一個點球](../Page/占美·摩連奴.md "wikilink")，協助球隊以2:1力壓主隊勝出，該球亦是他在
-    MLS 第108個進球，平了  創下的 MLS 球員歷來最高入球紀錄，後來這紀錄不斷被他改寫。
+  - 球場啟用後首個進球：2007年4月28日，[堪薩斯城巫師以](https://zh.wikipedia.org/wiki/堪薩斯城巫師 "wikilink")1:0小勝主隊多倫多FC的 MLS 賽事中，美籍球員  攻入奠定性一球。
+  - 多倫多FC球員首個主場進球：2007年5月12日一場 MLS 賽事上，[丹尼利·迪基奧](../Page/丹尼利·迪基奧.md "wikilink")於上半場射破客隊[芝加哥火焰的大門](https://zh.wikipedia.org/wiki/芝加哥火焰 "wikilink")。這亦是他在多倫多FC首個進球。
+  - 首個加拿大球員在BMO球場的進球：2007年5月11日，一場20歲以下青年友誼賽中，加拿大以1:2敗於阿根廷腳下。主隊的 [David Edgar](../Page/大卫·埃德加.md "wikilink") 射入一個點球。
+  - BMO球場首個國際賽進球：2007年9月12日，[加拿大對](https://zh.wikipedia.org/wiki/加拿大國家足球隊 "wikilink")[哥斯達黎加的一場友誼賽中](../Page/哥斯達黎加國家足球隊.md "wikilink")，客隊的 [Victor Núñez](../Page/维克托·努涅斯.md "wikilink") 攻入首個進球。幾分鐘後，主隊的[迪華尼·迪·羅沙里奧追平](https://zh.wikipedia.org/wiki/迪華尼·迪·羅沙里奧 "wikilink")，該球亦是加拿大國家隊在BMO球場的首個進球。
+  - 2007年5月19日，[-{zh-hans:华盛顿特区联; zh-hant:華盛頓聯隊;}-](../Page/华盛顿特区联.md "wikilink")[玻利維亞](../Page/玻利維亞.md "wikilink")裔前鋒[-{zh-hans:杰梅·莫雷诺;zh-hk:占美·摩連奴;zh-tw:杰梅·莫雷諾;}-射入一個點球](../Page/占美·摩連奴.md "wikilink")，協助球隊以2:1力壓主隊勝出，該球亦是他在 MLS 第108個進球，平了  創下的 MLS 球員歷來最高入球紀錄，後來這紀錄不斷被他改寫。
 
 ## 營運、擁有權及撥款
 
-興建BMO球場的開支約6200萬（不包括地價1000萬），資金來自幾方面。同時持有多倫多FC、[NBA](../Page/NBA.md "wikilink")球隊[-{zh-hans:多伦多猛龙;zh-hant:多倫多猛龍;zh-tw:多倫多暴龍;zh-hk:多倫多速龍;zh-mo:多倫多速龍;}-和](../Page/多伦多猛龙.md "wikilink")[NHL球隊](../Page/國家冰球聯盟.md "wikilink")[多倫多楓葉](../Page/多倫多楓葉.md "wikilink")的
-
-斥資800萬建造費，另花1000萬購入命名權。加拿大聯邦政府付出2700萬；安大略省政府撥款800萬；多倫多市政府則支付980萬，並獲得球場的業權。（金額全部以加幣計算）\[61\]
+興建BMO球場的開支約6200萬（不包括地價1000萬），資金來自幾方面。同時持有多倫多FC、[NBA](../Page/NBA.md "wikilink")球隊[-{zh-hans:多伦多猛龙;zh-hant:多倫多猛龍;zh-tw:多倫多暴龍;zh-hk:多倫多速龍;zh-mo:多倫多速龍;}-和](../Page/多伦多猛龙.md "wikilink")[NHL球隊](../Page/國家冰球聯盟.md "wikilink")[多倫多楓葉](../Page/多倫多楓葉.md "wikilink")的  斥資800萬建造費，另花1000萬購入命名權。加拿大聯邦政府付出2700萬；安大略省政府撥款800萬；多倫多市政府則支付980萬，並獲得球場的業權。（金額全部以加幣計算）\[61\]
 
 ## 球場特點
 
-[BMO_Field_Toronto_2007.jpg](https://zh.wikipedia.org/wiki/File:BMO_Field_Toronto_2007.jpg "fig:BMO_Field_Toronto_2007.jpg")2007年啟用時，BMO球場座位數目達20500個，除了組成圖案或字樣的部分外，幾乎全是紅色。東看台有一巨型楓葉圖案，南看台則有
-"BMO" 的字樣，下層西看台則有 "TORONTO"
-的字樣和多倫多FC的徽號。看台之下，是個闊75碼，長115碼（即闊68米，長105米）的草坪。草坪在2007年3月鋪設，用的是人工草，曾因此惹來不少批評。\<\[62\]2009年，多倫多市政府投票批准球場於2010年起永久鋪設天然草坪，球場營運商
-MLSE 負責一切鋪設和保養費用。MLSE 聘請 NGF Golf 公司重新鋪設草坪，花費350萬加元。較早前，於2009年八月，MLSE
-曾應皇家馬德里要求，在表演賽時暫時鋪設天然草坪。\[63\]2010年4月15日，MLS
-新一輪球季展開，BMO球場不但換上新草坪，座位數目亦增加至21800個。\[64\]
+[BMO_Field_Toronto_2007.jpg](https://zh.wikipedia.org/wiki/File:BMO_Field_Toronto_2007.jpg "fig:BMO_Field_Toronto_2007.jpg")2007年啟用時，BMO球場座位數目達20500個，除了組成圖案或字樣的部分外，幾乎全是紅色。東看台有一巨型楓葉圖案，南看台則有 "BMO" 的字樣，下層西看台則有 "TORONTO" 的字樣和多倫多FC的徽號。看台之下，是個闊75碼，長115碼（即闊68米，長105米）的草坪。草坪在2007年3月鋪設，用的是人工草，曾因此惹來不少批評。\<\[62\]2009年，多倫多市政府投票批准球場於2010年起永久鋪設天然草坪，球場營運商 MLSE 負責一切鋪設和保養費用。MLSE 聘請 NGF Golf 公司重新鋪設草坪，花費350萬加元。較早前，於2009年八月，MLSE 曾應皇家馬德里要求，在表演賽時暫時鋪設天然草坪。\[63\]2010年4月15日，MLS 新一輪球季展開，BMO球場不但換上新草坪，座位數目亦增加至21800個。\[64\]
 
 ## 入座紀錄
 
@@ -99,20 +73,11 @@ MLSE 負責一切鋪設和保養費用。MLSE 聘請 NGF Golf 公司重新鋪設
 ## 外部連結
 
   - [BMOField.com](http://www.bmofield.com/)
-  - [BMO Field Construction
-    Photos](http://www.flickr.com/photos/martingroove/sets/72157594322421317/)
-  - [Soccer stadium Web site, including construction
-    webcam](https://web.archive.org/web/20090804042237/http://www.explace.on.ca/mediacentre.html#torontofc)
-  - [Video Tour of BMO
-    Field](https://web.archive.org/web/20090214030539/http://video.google.ca/videoplay?docid=-8210034591718536315)
+  - [BMO Field Construction Photos](http://www.flickr.com/photos/martingroove/sets/72157594322421317/)
+  - [Soccer stadium Web site, including construction webcam](https://web.archive.org/web/20090804042237/http://www.explace.on.ca/mediacentre.html#torontofc)
+  - [Video Tour of BMO Field](https://web.archive.org/web/20090214030539/http://video.google.ca/videoplay?docid=-8210034591718536315)
 
-[Category:2007年完工體育場館](https://zh.wikipedia.org/wiki/Category:2007年完工體育場館 "wikilink")
-[Category:加拿大足球場](https://zh.wikipedia.org/wiki/Category:加拿大足球場 "wikilink")
-[Category:加拿大綜合體育場](https://zh.wikipedia.org/wiki/Category:加拿大綜合體育場 "wikilink")
-[Category:多倫多體育場地](https://zh.wikipedia.org/wiki/Category:多倫多體育場地 "wikilink")
-[Category:2007年安大略省建立](https://zh.wikipedia.org/wiki/Category:2007年安大略省建立 "wikilink")
-[Category:美國職業足球大聯盟體育場](https://zh.wikipedia.org/wiki/Category:美國職業足球大聯盟體育場 "wikilink")
-[Category:2015年泛美運動會](https://zh.wikipedia.org/wiki/Category:2015年泛美運動會 "wikilink")
+[Category:2007年完工體育場館](https://zh.wikipedia.org/wiki/Category:2007年完工體育場館 "wikilink") [Category:加拿大足球場](https://zh.wikipedia.org/wiki/Category:加拿大足球場 "wikilink") [Category:加拿大綜合體育場](https://zh.wikipedia.org/wiki/Category:加拿大綜合體育場 "wikilink") [Category:多倫多體育場地](https://zh.wikipedia.org/wiki/Category:多倫多體育場地 "wikilink") [Category:2007年安大略省建立](https://zh.wikipedia.org/wiki/Category:2007年安大略省建立 "wikilink") [Category:美國職業足球大聯盟體育場](https://zh.wikipedia.org/wiki/Category:美國職業足球大聯盟體育場 "wikilink") [Category:2015年泛美運動會](https://zh.wikipedia.org/wiki/Category:2015年泛美運動會 "wikilink")
 
 1.
 
@@ -227,5 +192,4 @@ MLSE 負責一切鋪設和保養費用。MLSE 聘請 NGF Golf 公司重新鋪設
 
 65.
 
-66. [2010 MLS Attendance: Toronto
-    FC](http://www.mls-daily.com/2010/04/2010-mls-attendance-toronto-fc.html)
+66. [2010 MLS Attendance: Toronto FC](http://www.mls-daily.com/2010/04/2010-mls-attendance-toronto-fc.html)

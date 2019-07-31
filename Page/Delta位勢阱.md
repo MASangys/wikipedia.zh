@@ -1,5 +1,4 @@
-[Deltawell.png](https://zh.wikipedia.org/wiki/File:Deltawell.png "fig:Deltawell.png")。往左與往右的[行進波的振幅與方向都分別表示於圖內](https://zh.wikipedia.org/wiki/行進波 "wikilink")。用來計算[透射係數與](../Page/透射係數.md "wikilink")[反射係數的](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[行進波都以紅色表示](https://zh.wikipedia.org/wiki/行進波 "wikilink")。\]\]
-在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**Delta位勢阱**是一個[阱內位勢為負](../Page/势阱.md "wikilink")[狄拉克Delta函數](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，阱外位勢為0的位勢阱。**Delta位勢阱問題**專門研討，在這種位勢的作用中，一個粒子的量子行為。這是一個常見的理論問題。假若，粒子的能量是正值的，我們想要知道的是，在被Delta位勢壘[散射的狀況下](../Page/散射.md "wikilink")，粒子的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。假若，粒子的能量是負值的，這粒子會被束縛於Delta位勢阱的阱內。這時，我們想要知道的是粒子的能量與束縛的量子態。
+[Deltawell.png](https://zh.wikipedia.org/wiki/File:Deltawell.png "fig:Deltawell.png")。往左與往右的[行進波的振幅與方向都分別表示於圖內](https://zh.wikipedia.org/wiki/行進波 "wikilink")。用來計算[透射係數](../Page/透射係數.md "wikilink")與[反射係數的](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[行進波都以紅色表示](https://zh.wikipedia.org/wiki/行進波 "wikilink")。\]\] 在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**Delta位勢阱**是一個[阱內位勢為負](../Page/势阱.md "wikilink")[狄拉克Delta函數](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，阱外位勢為0的位勢阱。**Delta位勢阱問題**專門研討，在這種位勢的作用中，一個粒子的量子行為。這是一個常見的理論問題。假若，粒子的能量是正值的，我們想要知道的是，在被Delta位勢壘[散射](../Page/散射.md "wikilink")的狀況下，粒子的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。假若，粒子的能量是負值的，這粒子會被束縛於Delta位勢阱的阱內。這時，我們想要知道的是粒子的能量與束縛的量子態。
 
 ## 定義
 
@@ -71,7 +70,7 @@
 
 [Deltapotwell.PNG](https://zh.wikipedia.org/wiki/File:Deltapotwell.PNG "fig:Deltapotwell.PNG")
 
-假若，能量是正值的，粒子可以自由的移動於位勢阱外的兩個半空間，\(x<0\,\!\)或\(x>0\,\!\)。在這裏，粒子的量子行為主要是由Delta位勢阱造成的[散射行為](../Page/散射.md "wikilink")。稱這粒子的[量子態為](../Page/量子態.md "wikilink")**散射態**。設定粒子從左邊入射。在Delta位勢阱，粒子可能會被反射回去，或者會被透射過去。我們想要知道散射的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。設定\(A_r=1\,\!\)，\(A_l=r\,\!\)，\(B_l=0\,\!\)，\(B_r=t\,\!\)。求算反射的[機率幅](../Page/機率幅.md "wikilink")\(r\,\!\)與透射的[機率幅](../Page/機率幅.md "wikilink")\(t\,\!\)：
+假若，能量是正值的，粒子可以自由的移動於位勢阱外的兩個半空間，\(x<0\,\!\)或\(x>0\,\!\)。在這裏，粒子的量子行為主要是由Delta位勢阱造成的[散射](../Page/散射.md "wikilink")行為。稱這粒子的[量子態](../Page/量子態.md "wikilink")為**散射態**。設定粒子從左邊入射。在Delta位勢阱，粒子可能會被反射回去，或者會被透射過去。我們想要知道散射的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。設定\(A_r=1\,\!\)，\(A_l=r\,\!\)，\(B_l=0\,\!\)，\(B_r=t\,\!\)。求算反射的[機率幅](../Page/機率幅.md "wikilink")\(r\,\!\)與透射的[機率幅](../Page/機率幅.md "wikilink")\(t\,\!\)：
 
 \[r= -\ \cfrac{1}{\cfrac{i\hbar^2 k}{m\lambda} + 1}\,\!\]，
 
@@ -114,25 +113,19 @@ Delta位勢阱只能有一個束縛態。束縛態的能量是
 
 \[\psi(x)= \frac{\sqrt{m\lambda}}{\hbar}e^{ - m\lambda\mid x\mid /\hbar^2}\,\!\]。
 
-Delta位勢阱是[有限深方形阱的一個特別案例](../Page/有限深方形阱.md "wikilink")。在有限深位勢阱的深度\(V_0\to\infty\,\!\)與阱寬\(L\to 0\,\!\)的極限，同時保持\(V_0 L=\lambda\,\!\)，就可以從有限深位勢阱的波函數，得到Delta位勢阱的波函數。
+Delta位勢阱是[有限深方形阱](../Page/有限深方形阱.md "wikilink")的一個特別案例。在有限深位勢阱的深度\(V_0\to\infty\,\!\)與阱寬\(L\to 0\,\!\)的極限，同時保持\(V_0 L=\lambda\,\!\)，就可以從有限深位勢阱的波函數，得到Delta位勢阱的波函數。
 
 ## 雙井迪拉克Delta函數模型
 
-[Doubledeltawell.png](https://zh.wikipedia.org/wiki/File:Doubledeltawell.png "fig:Doubledeltawell.png")
-Delta函數模型其實是[氫原子的一維版本根據維度比例由](../Page/氫原子.md "wikilink")
-[达德利·赫施巴赫](../Page/达德利·赫施巴赫.md "wikilink")（“Dudley R.
-Herschbach”）\[1\]團隊所研發。此 delta函數模型以雙井迪拉克Delta函數模型最有用，因其代表一維版的水分子離子。
+[Doubledeltawell.png](https://zh.wikipedia.org/wiki/File:Doubledeltawell.png "fig:Doubledeltawell.png") Delta函數模型其實是[氫原子](../Page/氫原子.md "wikilink")的一維版本根據維度比例由 [达德利·赫施巴赫](../Page/达德利·赫施巴赫.md "wikilink")（“Dudley R. Herschbach”）\[1\]團隊所研發。此 delta函數模型以雙井迪拉克Delta函數模型最有用，因其代表一維版的水分子離子。
 
 雙井迪拉克Delta函數模型是用以下薛丁格方程描述：
 
-\[-\frac{\hbar^2}{2m}\frac{d^2 \psi}{dx^2}(x) +V(x)\psi(x) = E\psi(x)\]
-電位現為：
+\[-\frac{\hbar^2}{2m}\frac{d^2 \psi}{dx^2}(x) +V(x)\psi(x) = E\psi(x)\] 電位現為：
 
-\[V(x)=-q \left[ \delta(x - \frac{R}{2}) + \lambda \delta(x+ \frac{R}{2}) \right]\]
-其中\(0 < R < \infty\)是「核間」距離於迪拉克Delta函數（負）峰值位於\(x= \pm {\textstyle \frac{R}{2}}\)（圖表中棕色所示）。記得此模型與其三維分子版本的關係，我們用[原子单位制且設](../Page/原子单位制.md "wikilink")\(\hbar = m=1\)。此處\(0 < \lambda < 1\)為一可調參數。從單井的例子，可推論[擬設於此解為](../Page/擬設.md "wikilink")：
+\[V(x)=-q \left[ \delta(x - \frac{R}{2}) + \lambda \delta(x+ \frac{R}{2}) \right]\] 其中\(0 < R < \infty\)是「核間」距離於迪拉克Delta函數（負）峰值位於\(x= \pm {\textstyle \frac{R}{2}}\)（圖表中棕色所示）。記得此模型與其三維分子版本的關係，我們用[原子单位制](../Page/原子单位制.md "wikilink")且設\(\hbar = m=1\)。此處\(0 < \lambda < 1\)為一可調參數。從單井的例子，可推論[擬設](../Page/擬設.md "wikilink")於此解為：
 
-\[\psi(x) ~ = ~ A e^{-d \left|x - \frac{R}{2}\right|} + B e^{-d \left|x + \frac{R}{2}  \right|}\]
-令波函數於Delta函數峰值相等可得[行列式](../Page/行列式.md "wikilink")：
+\[\psi(x) ~ = ~ A e^{-d \left|x - \frac{R}{2}\right|} + B e^{-d \left|x + \frac{R}{2}  \right|}\] 令波函數於Delta函數峰值相等可得[行列式](../Page/行列式.md "wikilink")：
 
 \[\left| \begin{array}{cc} q - d & q e^{-d R} \\  q \lambda e^{-d R} & q \lambda - d \end{array} \right| = 0 ~,
 \qquad  E = -\frac{d^2}{2} ~.\] 因此，\(d\)是由偽二次式方程：
@@ -140,15 +133,11 @@ Herschbach”）\[1\]團隊所研發。此 delta函數模型以雙井迪拉克De
 \[d_{\pm}(\lambda)~=~{\textstyle\frac{1}{2}}q(\lambda+1)
 \pm {\textstyle\frac{1}{2}}
 \left\{ q^2(1+\lambda)^{2}-4\,\lambda q^2 \lbrack 1-e^{-2d_{\pm }(\lambda
-)R}]\right\} ^{1/2}\]
-它有兩解\(d=d_{\pm}\)。若等價情況（對稱單核），\(\lambda =1\)則偽二次式化為：
+)R}]\right\} ^{1/2}\] 它有兩解\(d=d_{\pm}\)。若等價情況（對稱單核），\(\lambda =1\)則偽二次式化為：
 
-\[d_{\pm} = q [1 \pm e^{-d_{\pm} R}]\]
-此「+」代表了對稱於中點的波函數（圖中紅色）而\(A = B\)稱為偶態。接著，「-」情況為反對稱於中點的波函數其\(A = -B\)稱為非偶態（圖中綠色）。它們代表著三維\(H_2^{+}\)的兩種最低能態之近似且有助於其分析。對稱電價的特徵能分析解為\[2\]：
+\[d_{\pm} = q [1 \pm e^{-d_{\pm} R}]\] 此「+」代表了對稱於中點的波函數（圖中紅色）而\(A = B\)稱為偶態。接著，「-」情況為反對稱於中點的波函數其\(A = -B\)稱為非偶態（圖中綠色）。它們代表著三維\(H_2^{+}\)的兩種最低能態之近似且有助於其分析。對稱電價的特徵能分析解為\[2\]：
 
-\[d_{\pm} = q ~+~ W(\pm q R e^{-q R} )/R\]
-其中W是標準[朗伯W函数注意此最低能對應於對稱解](../Page/朗伯W函数.md "wikilink")\(d_{+}\)。當非等電價，此為三維分子問題，其解為一般化Lambert
-W函數（見一般化[朗伯W函数章節與相關參考](../Page/朗伯W函数.md "wikilink")）。
+\[d_{\pm} = q ~+~ W(\pm q R e^{-q R} )/R\] 其中W是標準[朗伯W函数](../Page/朗伯W函数.md "wikilink")注意此最低能對應於對稱解\(d_{+}\)。當非等電價，此為三維分子問題，其解為一般化Lambert W函數（見一般化[朗伯W函数](../Page/朗伯W函数.md "wikilink")章節與相關參考）。
 
 ## 外部链接
 
@@ -166,12 +155,5 @@ W函數（見一般化[朗伯W函数章節與相關參考](../Page/朗伯W函数
 
 [Category:量子力学模型](https://zh.wikipedia.org/wiki/Category:量子力学模型 "wikilink")
 
-1.  [D.R Herschbach](../Page/达德利·赫施巴赫.md "wikilink"), J.S. Avery, and O.
-    Goscinski (eds.), *Dimensional Scaling in Chemical Physics*,
-    Springer, (1992).
-    [1](http://www.amazon.com/Dimensional-Scaling-Chemical-Physics-Herschbach/dp/0792320360)
-2.  T.C. Scott, J.F. Babb, [Alexander
-    Dalgarno](../Page/亚历山大·达尔加诺.md "wikilink") and John
-    D. Morgan III, "The Calculation of Exchange Forces: General Results
-    and Specific Models", *J. Chem. Phys.*, 99, pp. 2841-2854, (1993).
-    \[<http://adsabs.harvard.edu/abs/1993JChPh>..99.2841S\]
+1.  [D.R Herschbach](../Page/达德利·赫施巴赫.md "wikilink"), J.S. Avery, and O. Goscinski (eds.), *Dimensional Scaling in Chemical Physics*, Springer, (1992). [1](http://www.amazon.com/Dimensional-Scaling-Chemical-Physics-Herschbach/dp/0792320360)
+2.  T.C. Scott, J.F. Babb, [Alexander Dalgarno](../Page/亚历山大·达尔加诺.md "wikilink") and John D. Morgan III, "The Calculation of Exchange Forces: General Results and Specific Models", *J. Chem. Phys.*, 99, pp. 2841-2854, (1993). \[<http://adsabs.harvard.edu/abs/1993JChPh>..99.2841S\]

@@ -28,28 +28,15 @@
 ## 延伸阅读
 
   - Isobe, M. *et al.* *Tetrahedron Lett.* **1990**, *31*, 3327.
-  - Allmendinger, T. *et al.* *[Tetrahedron
-    Letters](https://zh.wikipedia.org/wiki/Tetrahedron_Letters "wikilink")*
-    **1990**, *31*, 7301.
-  - Nishikawa, T.; Asai, M.; Ohyabu, N.; Isobe, M.; *[J. Org.
-    Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink")*
-    **1998**, *63(1)*, 188-192. PMID 11674062 )
+  - Allmendinger, T. *et al.* *[Tetrahedron Letters](https://zh.wikipedia.org/wiki/Tetrahedron_Letters "wikilink")* **1990**, *31*, 7301.
+  - Nishikawa, T.; Asai, M.; Ohyabu, N.; Isobe, M.; *[J. Org. Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink")* **1998**, *63(1)*, 188-192. PMID 11674062 )
 
-[Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.
-3.  [Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"),
-    Coll. Vol. 6, p.507; Vol. 58, p.4
-    ([Article](http://www.orgsyn.org/orgsyn/prep.asp?prep=cv6p0507))
+3.  [Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"), Coll. Vol. 6, p.507; Vol. 58, p.4 ([Article](http://www.orgsyn.org/orgsyn/prep.asp?prep=cv6p0507))
 4.
 5.
-6.  Anderson, C. E.; Overman, L. E. *[J. Am. Chem.
-    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink")*
-    **2003**, *125*, 12412–12413. ()
-7.  *Asymmetric Overman Rearrangement* *[Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink")*,
-    Vol. 82, p.134 (2005).
-    ([Article](http://www.orgsyn.org/orgsyn/prep.asp?prep=v82p0134))
+6.  Anderson, C. E.; Overman, L. E. *[J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink")* **2003**, *125*, 12412–12413. ()
+7.  *Asymmetric Overman Rearrangement* *[Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink")*, Vol. 82, p.134 (2005). ([Article](http://www.orgsyn.org/orgsyn/prep.asp?prep=v82p0134))

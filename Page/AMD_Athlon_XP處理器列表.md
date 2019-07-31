@@ -5,8 +5,7 @@
 ### Palomino 核心 (Model 6, 180 nm)
 
   - **CPU-ID: 6-6-0**
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
   - 核心面積：**128mm<sup>2</sup>**
 
 | 型號              | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓     | 功耗     | 推出日期       | OPN號碼       |
@@ -22,8 +21,7 @@
 ### Thoroughbred A/B 核心 (Model 8, 130 nm)
 
   - **CPU-ID: 6-8-0 (A), 6-8-1 (B)**
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
   - 核心面積：「A」**80mm<sup>2</sup>**
 
 　　　　　　「B」**84mm<sup>2</sup>**
@@ -52,8 +50,7 @@
 ### Thorton 核心 (Model 10, 130 nm)
 
   - **CPU-ID: 6-A-0**
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號              | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓     | 功耗     | 推出日期 | OPN號碼         |
 | --------------- | -------- | ------- | -------- | ----- | ------ | ------ | ---- | ------------- |
@@ -69,8 +66,7 @@
 ### Barton 核心 (Model 10, 130 nm)
 
   - **CPU-ID: 6-A-0**
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
   - 核心面積：**101mm<sup>2</sup>**
 
 | 型號              | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓     | 功耗     | 推出日期       | OPN號碼         |
@@ -91,8 +87,7 @@
 
 ### Athlon MP "Palomino" 核心 (Model 6, 180 nm)
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號              | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓     | 功耗     | 推出日期        | OPN號碼        |
 | --------------- | -------- | ------- | -------- | ----- | ------ | ------ | ----------- | ------------ |
@@ -117,8 +112,7 @@
 
 ### Barton 核心 (Model 10, 130 nm)
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號              | 時脈       | L2快取    | 外頻       | 倍頻  | 電壓     | 功耗     | 推出日期      | OPN號碼         |
 | --------------- | -------- | ------- | -------- | --- | ------ | ------ | --------- | ------------- |
@@ -129,8 +123,7 @@
 
 ### Mobile Athlon 4 "Corvette" 核心（標準型，[Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                   | 時脈       | L2快取    | 外頻       | 倍頻   | 電壓          | 功耗   | 推出日期 | OPN號碼 |
 | -------------------- | -------- | ------- | -------- | ---- | ----------- | ---- | ---- | ----- |
@@ -142,8 +135,7 @@
 
 ### Mobile Athlon 4 "Corvette" 核心（桌上型代用，[Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                    | 時脈       | L2快取    | 外頻       | 倍頻  | 電壓          | 功耗   | 推出日期 | OPN號碼        |
 | --------------------- | -------- | ------- | -------- | --- | ----------- | ---- | ---- | ------------ |
@@ -155,8 +147,7 @@
 
 ### Mobile Athlon XP "Thoroughbred" 核心（標準型，35 W, [Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                     | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓     | 推出日期 | OPN號碼         |
 | ---------------------- | -------- | ------- | -------- | ----- | ------ | ---- | ------------- |
@@ -175,8 +166,7 @@
 
 ### Mobile Athlon XP "Thoroughbred" 核心（平衡型，25 W, [Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                     | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓   | 推出日期 | OPN號碼         |
 | ---------------------- | -------- | ------- | -------- | ----- | ---- | ---- | ------------- |
@@ -192,8 +182,7 @@
 
 ### Athlon XP-M "Thoroughbred" 核心（主流型，45 W, [Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓   | 推出日期        | OPN號碼         |
 | ----------------- | -------- | ------- | -------- | ----- | ---- | ----------- | ------------- |
@@ -207,8 +196,7 @@
 
 ### Athlon XP-M "Thoroughbred" 核心（桌上型代用，72 W, [Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓   | 推出日期                     | OPN號碼         |
 | ----------------- | -------- | ------- | -------- | ----- | ---- | ------------------------ | ------------- |
@@ -219,8 +207,7 @@
 
 ### Athlon XP-M "Thoroughbred" 核心（低電壓型，35 W, [Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓   | 推出日期       | OPN號碼         |
 | ----------------- | -------- | ------- | -------- | ----- | ---- | ---------- | ------------- |
@@ -234,8 +221,7 @@
 
 ### Athlon XP-M "Barton" 核心（主流型，45-53 W, [Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓   | 推出日期 | OPN號碼         |
 | ----------------- | -------- | ------- | -------- | ----- | ---- | ---- | ------------- |
@@ -247,8 +233,7 @@
 
 ### Athlon XP-M "Barton" 核心（桌上型代用，72 W, [Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓   | 推出日期      | OPN號碼         |
 | ----------------- | -------- | ------- | -------- | ----- | ---- | --------- | ------------- |
@@ -260,8 +245,7 @@
 
 ### Athlon XP-M "Barton" 核心（低電壓型，35 W, [Socket A](../Page/Socket_A.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號                | 時脈       | L2快取    | 外頻       | 倍頻    | 電壓   | 推出日期       | OPN號碼         |
 | ----------------- | -------- | ------- | -------- | ----- | ---- | ---------- | ------------- |
@@ -286,9 +270,7 @@
 
 ### Athlon XP-M "Dublin" 核心（K8架構，[Socket 754](../Page/Socket_754.md "wikilink")）
 
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")，[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")，[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")*
 
 <table>
 <thead>
@@ -352,5 +334,4 @@ AHN3100BIX3Y</p></td>
   - [AMD Sempron處理器列表](../Page/AMD_Sempron處理器列表.md "wikilink")
   - [AMD Athlon 64處理器列表](../Page/AMD_Athlon_64處理器列表.md "wikilink")
 
-[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink")
-[Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")
+[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink") [Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")

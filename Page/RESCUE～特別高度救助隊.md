@@ -2,8 +2,7 @@
 
 ## 概要
 
-故事把[横滨做為舞台](../Page/横滨市.md "wikilink")，[横滨市安全管理局配備的為了成為](https://zh.wikipedia.org/wiki/横滨市安全管理局 "wikilink")[特別高度救助隊](https://zh.wikipedia.org/wiki/特別高度救助隊 "wikilink")(俗稱**SR=Super
-Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫折，並且描寫大地的戀愛和「訓練編輯」，在實際的現場的活躍和描寫拯救人命的感動的「救助編輯」的二部構成[TBS「『RESCUE～特別高度救助隊～』」](http://www.tbs.co.jp/rescue2009/)。
+故事把[横滨做為舞台](../Page/横滨市.md "wikilink")，[横滨市安全管理局配備的為了成為](https://zh.wikipedia.org/wiki/横滨市安全管理局 "wikilink")[特別高度救助隊](https://zh.wikipedia.org/wiki/特別高度救助隊 "wikilink")(俗稱**SR=Super Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫折，並且描寫大地的戀愛和「訓練編輯」，在實際的現場的活躍和描寫拯救人命的感動的「救助編輯」的二部構成[TBS「『RESCUE～特別高度救助隊～』」](http://www.tbs.co.jp/rescue2009/)。
 
   - 此劇並讓主角中丸雄一奪得電視情報雜誌「月刊TVnavi」舉辦的「Drama of The Year 2009」最佳新人獎。
 
@@ -18,8 +17,7 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
 <!-- end list -->
 
   -
-    由横滨市西消防局變成了SR候補生的消防隊員。年幼的時候陷入砂土崩潰中，被Super
-    Ranger·宮崎救出，憧憬成為消防職員。從年幼時目睹了砂土崩潰的創傷陷入了為恐慌狀態。擁有想念朋友的性格。
+    由横滨市西消防局變成了SR候補生的消防隊員。年幼的時候陷入砂土崩潰中，被Super Ranger·宮崎救出，憧憬成為消防職員。從年幼時目睹了砂土崩潰的創傷陷入了為恐慌狀態。擁有想念朋友的性格。
 
 <!-- end list -->
 
@@ -55,8 +53,7 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
 <!-- end list -->
 
   -
-    Super
-    Ranger隊員。由於過去自己的錯誤使晚輩負了傷的創傷，對自己和別人都嚴厲要求完美完成任務，嚴厲地指責提心吊膽地做事的大地。不過，由於大地援助了打算親自進行的救助的事革心了。以前與急救隊的水野交往。
+    Super Ranger隊員。由於過去自己的錯誤使晚輩負了傷的創傷，對自己和別人都嚴厲要求完美完成任務，嚴厲地指責提心吊膽地做事的大地。不過，由於大地援助了打算親自進行的救助的事革心了。以前與急救隊的水野交往。
 
 <!-- end list -->
 
@@ -190,8 +187,7 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
 <!-- end list -->
 
   -
-    横浜市安全管理局警戒防衛課·管理官。作為原Super
-    Ranger的隊長活躍帶領著德永們。對無視了自己的命令的宮崎幫助大地而殉職的事感到責任，現在也因大地而感到焦慮。也有情厚的部分。
+    横浜市安全管理局警戒防衛課·管理官。作為原Super Ranger的隊長活躍帶領著德永們。對無視了自己的命令的宮崎幫助大地而殉職的事感到責任，現在也因大地而感到焦慮。也有情厚的部分。
 
 <!-- end list -->
 
@@ -220,8 +216,7 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
 <!-- end list -->
 
   -
-    店長。給店內和菜單加上消防關係的命名的消防狂熱者，店內的BGM播放著電影『[背部草圖](https://zh.wikipedia.org/wiki/背部草圖_\(電影\) "wikilink")』的題目「Fighting
-    17th」。
+    店長。給店內和菜單加上消防關係的命名的消防狂熱者，店內的BGM播放著電影『[背部草圖](https://zh.wikipedia.org/wiki/背部草圖_\(電影\) "wikilink")』的題目「Fighting 17th」。
 
 李鈴鈴(21)：[橋本真実](https://zh.wikipedia.org/wiki/橋本真実 "wikilink")
 
@@ -232,19 +227,14 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
 
 <!-- end list -->
 
-  - 指令廣播的聲音〔Mission1，Mission2〕/標題短期借款〔Mission2～〕
-    ：[河本邦弘](https://zh.wikipedia.org/wiki/河本邦弘 "wikilink")
-  - 橫浜市西消防站隊長·荒井 -
-    [岡本光太郎](https://zh.wikipedia.org/wiki/岡本光太郎 "wikilink")〔Mission1〕
+  - 指令廣播的聲音〔Mission1，Mission2〕/標題短期借款〔Mission2～〕 ：[河本邦弘](https://zh.wikipedia.org/wiki/河本邦弘 "wikilink")
+  - 橫浜市西消防站隊長·荒井 - [岡本光太郎](https://zh.wikipedia.org/wiki/岡本光太郎 "wikilink")〔Mission1〕
   - 西田-[平山佑介](https://zh.wikipedia.org/wiki/平山佑介 "wikilink")〔Mission1，Mission2〕
   - 年幼期的大地:[澀谷武尊](https://zh.wikipedia.org/wiki/澀谷武尊 "wikilink")〔Mission1〕
   - 宮崎優子（志郎的妻子）：[奧貫薰](https://zh.wikipedia.org/wiki/奧貫薰 "wikilink")〔Mission1〕
-  - 大地救助了的要救助者·翼 -
-    [加藤翼](https://zh.wikipedia.org/wiki/加藤翼 "wikilink")〔Mission1〕
-  - 记者 -
-    [升田尚宏](https://zh.wikipedia.org/wiki/升田尚宏 "wikilink")（TBS廣播員）〔Mission1〕
-  - 井川美香（省吾的妹妹） -
-    [金澤美穗](https://zh.wikipedia.org/wiki/金澤美穗 "wikilink")〔Mission2〕
+  - 大地救助了的要救助者·翼 - [加藤翼](https://zh.wikipedia.org/wiki/加藤翼 "wikilink")〔Mission1〕
+  - 记者 - [升田尚宏](https://zh.wikipedia.org/wiki/升田尚宏 "wikilink")（TBS廣播員）〔Mission1〕
+  - 井川美香（省吾的妹妹） - [金澤美穗](https://zh.wikipedia.org/wiki/金澤美穗 "wikilink")〔Mission2〕
 
 ## スタッフ
 
@@ -263,8 +253,7 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
 
 ## 主題歌
 
-  - 《[RESCUE](../Page/RESCUE.md "wikilink")》／[KAT-TUN](../Page/KAT-TUN.md "wikilink")
-    (J-One Records)
+  - 《[RESCUE](../Page/RESCUE.md "wikilink")》／[KAT-TUN](../Page/KAT-TUN.md "wikilink") (J-One Records)
 
 ## 廣播日·副標題·收視率
 
@@ -395,24 +384,15 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
 ## 關聯項目
 
   - [特別高度救助隊](https://zh.wikipedia.org/wiki/特別高度救助隊 "wikilink")
-  - [橫浜市特別高度救助部隊(Super
-    Ranger)](https://zh.wikipedia.org/wiki/橫浜市安全管理局救助機動中隊 "wikilink")
-  - [壽司王子\!](https://zh.wikipedia.org/wiki/壽司王子! "wikilink") -
-    現在作品演出者[堂本光一](../Page/堂本光一.md "wikilink"),[中丸雄一](../Page/中丸雄一.md "wikilink"),[山下真司](../Page/山下真司.md "wikilink"),[市川由衣](../Page/市川由衣.md "wikilink")參加的[朝日電視系的電視劇](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")。現在作品由於訓練生和那個指導教官中丸扮演的北島和山下演的大八木之間有上和下關係,不過，《[壽司王子\!](https://zh.wikipedia.org/wiki/壽司王子! "wikilink")》初出來了的宮古島中的壽司店「ティダ寿司」的尤其中丸演じる河原和山下演じる奥平之間又現在作品和同樣也有師傅和見習這個師徒關係。
+  - [橫浜市特別高度救助部隊(Super Ranger)](https://zh.wikipedia.org/wiki/橫浜市安全管理局救助機動中隊 "wikilink")
+  - [壽司王子\!](https://zh.wikipedia.org/wiki/壽司王子! "wikilink") - 現在作品演出者[堂本光一](../Page/堂本光一.md "wikilink"),[中丸雄一](../Page/中丸雄一.md "wikilink"),[山下真司](../Page/山下真司.md "wikilink"),[市川由衣](../Page/市川由衣.md "wikilink")參加的[朝日電視系的電視劇](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")。現在作品由於訓練生和那個指導教官中丸扮演的北島和山下演的大八木之間有上和下關係,不過，《[壽司王子\!](https://zh.wikipedia.org/wiki/壽司王子! "wikilink")》初出來了的宮古島中的壽司店「ティダ寿司」的尤其中丸演じる河原和山下演じる奥平之間又現在作品和同樣也有師傅和見習這個師徒關係。
   - [消防防災直升飛機](https://zh.wikipedia.org/wiki/消防防災直升飛機 "wikilink")
-  - 橫浜市消防直升飛機
-    [AS365N](https://zh.wikipedia.org/wiki/AS365 "wikilink")2（愛好者，現實EC155）「幼魚鳥類的肺1(JA6740)」波及「幼魚鳥類的肺2(JA98YH)」被攝影使用了。
+  - 橫浜市消防直升飛機 [AS365N](https://zh.wikipedia.org/wiki/AS365 "wikilink")2（愛好者，現實EC155）「幼魚鳥類的肺1(JA6740)」波及「幼魚鳥類的肺2(JA98YH)」被攝影使用了。
   - [空中急診英雄](../Page/空中急診英雄.md "wikilink") - 以救護直升機為題材的電視劇 淺利陽介演出飛行醫生候補生
-  - [海猿](https://zh.wikipedia.org/wiki/海猿 "wikilink") -
-    在把[海上保安廳](../Page/海上保安廳.md "wikilink")的救助隊作為題材的漫畫，或那個電影和電視劇
-    電影的第二作品石黑賢演出的
-  - [252生存訊號](../Page/252生存訊號.md "wikilink") episode.ZERO -
-    以營救隊作為目標的年輕人的電視劇，續編的電影也有的
-  - [火焰的消防隊](https://zh.wikipedia.org/wiki/火焰的消防隊 "wikilink") - 消防隊的電視劇
-    石橋凌演出的
-  - [FIRE BOYS
-    〜め組の大吾〜](https://zh.wikipedia.org/wiki/FIRE_BOYS_〜め組の大吾〜 "wikilink")
-    - 以營救隊作為目標的消防員的電視劇，石黑賢作為消防員演出著
+  - [海猿](https://zh.wikipedia.org/wiki/海猿 "wikilink") - 在把[海上保安廳](../Page/海上保安廳.md "wikilink")的救助隊作為題材的漫畫，或那個電影和電視劇 電影的第二作品石黑賢演出的
+  - [252生存訊號](../Page/252生存訊號.md "wikilink") episode.ZERO - 以營救隊作為目標的年輕人的電視劇，續編的電影也有的
+  - [火焰的消防隊](https://zh.wikipedia.org/wiki/火焰的消防隊 "wikilink") - 消防隊的電視劇 石橋凌演出的
+  - [FIRE BOYS 〜め組の大吾〜](https://zh.wikipedia.org/wiki/FIRE_BOYS_〜め組の大吾〜 "wikilink") - 以營救隊作為目標的消防員的電視劇，石黑賢作為消防員演出著
 
 ## 脚注
 
@@ -428,9 +408,4 @@ Ranger部隊**)的隊員與受到嚴厲的訓練的年輕人們的青春和挫�
 
   - [TBS官方網站](http://www.tbs.co.jp/rescue2009/)
 
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:橫濱市背景電視劇](https://zh.wikipedia.org/wiki/Category:橫濱市背景電視劇 "wikilink")
-[Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:消防員主角題材作品](https://zh.wikipedia.org/wiki/Category:消防員主角題材作品 "wikilink")
-[Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")
+[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:橫濱市背景電視劇](https://zh.wikipedia.org/wiki/Category:橫濱市背景電視劇 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:消防員主角題材作品](https://zh.wikipedia.org/wiki/Category:消防員主角題材作品 "wikilink") [Category:消防題材電視劇](https://zh.wikipedia.org/wiki/Category:消防題材電視劇 "wikilink")

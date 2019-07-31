@@ -1,22 +1,12 @@
-**OUTER
-SPACE**（外太空），是台灣一時裝品牌，由[Circus樂團](../Page/Circus_\(台灣樂團\).md "wikilink")、[CIRCUS
-ACTION主持人](../Page/CIRCUS_ACTION.md "wikilink")[廖人帥於](https://zh.wikipedia.org/wiki/廖人帥 "wikilink")2007年成立。OUTER
-SPACE所有貨品都會寫著Made in OUTER SPACE，而不是Made in
-任何一個國家、地區。因Leo認為地球是大家的，不單只是人類所有，而國家的出現也是人們因為私人利益而產生的名詞罷了，也因為有了國家，所以產生了戰爭，國家為了方便控制人民思想，於是富麗堂皇說著愛國心來整合控制大家的思想。
+**OUTER SPACE**（外太空），是台灣一時裝品牌，由[Circus樂團](../Page/Circus_\(台灣樂團\).md "wikilink")、[CIRCUS ACTION主持人](../Page/CIRCUS_ACTION.md "wikilink")[廖人帥於](https://zh.wikipedia.org/wiki/廖人帥 "wikilink")2007年成立。OUTER SPACE所有貨品都會寫著Made in OUTER SPACE，而不是Made in 任何一個國家、地區。因Leo認為地球是大家的，不單只是人類所有，而國家的出現也是人們因為私人利益而產生的名詞罷了，也因為有了國家，所以產生了戰爭，國家為了方便控制人民思想，於是富麗堂皇說著愛國心來整合控制大家的思想。
 
 ## [CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")
 
-[CIRCUS是Channel](../Page/Circus_\(台灣樂團\).md "wikilink")
-V一個團體，較[棒棒堂](https://zh.wikipedia.org/wiki/Lollipop-F "wikilink")（Lollipop）、[黑Girl](../Page/黑Girl.md "wikilink")及[Choc7](../Page/Choc7.md "wikilink")（[超克7](https://zh.wikipedia.org/wiki/超克7 "wikilink")）早出道，為各人的師兄。[CIRCUS各人的關係十分友好](../Page/Circus_\(台灣樂團\).md "wikilink")，因此[CIRCUS其他成員](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")（[EASON](../Page/黃尹宣.md "wikilink")、[KID](../Page/林柏昇.md "wikilink")、[小馬](https://zh.wikipedia.org/wiki/林家緯_\(藝人\) "wikilink")）會時常為OUTER
-SPACE拍攝宣傳照上傳至網頁、Blog等。
-[CIRCUS各人於其節目](../Page/Circus_\(台灣樂團\).md "wikilink")（Circus
-Action及Circus 狗仔隊）會時常穿著OUTER SPACE衣服，而Leo也會時常在節目中置入宣傳其品牌OUTER SPACE。
+[CIRCUS是Channel](../Page/Circus_\(台灣樂團\).md "wikilink") V一個團體，較[棒棒堂](https://zh.wikipedia.org/wiki/Lollipop-F "wikilink")（Lollipop）、[黑Girl](../Page/黑Girl.md "wikilink")及[Choc7](../Page/Choc7.md "wikilink")（[超克7](https://zh.wikipedia.org/wiki/超克7 "wikilink")）早出道，為各人的師兄。[CIRCUS各人的關係十分友好](../Page/Circus_\(台灣樂團\).md "wikilink")，因此[CIRCUS其他成員](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")（[EASON](../Page/黃尹宣.md "wikilink")、[KID](../Page/林柏昇.md "wikilink")、[小馬](https://zh.wikipedia.org/wiki/林家緯_\(藝人\) "wikilink")）會時常為OUTER SPACE拍攝宣傳照上傳至網頁、Blog等。 [CIRCUS各人於其節目](../Page/Circus_\(台灣樂團\).md "wikilink")（Circus Action及Circus 狗仔隊）會時常穿著OUTER SPACE衣服，而Leo也會時常在節目中置入宣傳其品牌OUTER SPACE。
 
 ## [棒棒堂](https://zh.wikipedia.org/wiki/棒棒堂 "wikilink")/[Choc7](../Page/Choc7.md "wikilink")（[超克7](https://zh.wikipedia.org/wiki/超克7 "wikilink")）
 
-事實上，棒棒堂底迪經常會購買及穿著OUTER
-SPACE衣服。棒棒堂底迪不只一次在其節目（[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")）中提及十分喜歡OUTER
-SPACE這品牌。
+事實上，棒棒堂底迪經常會購買及穿著OUTER SPACE衣服。棒棒堂底迪不只一次在其節目（[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")）中提及十分喜歡OUTER SPACE這品牌。
 
 ## 商品系列
 
@@ -42,22 +32,19 @@ SPACE這品牌。
   - 太空麻將T
   - Go Sexy Girls 長版T (金、銀限量款）
   - NO SIR 反兵役聯名T（隨機附贈單曲）
-  - 831 x OUTER SPACE
-    聯名T（與[八三夭樂團聯名](https://zh.wikipedia.org/wiki/八三夭樂團 "wikilink")）
+  - 831 x OUTER SPACE 聯名T（與[八三夭樂團聯名](https://zh.wikipedia.org/wiki/八三夭樂團 "wikilink")）
   - 搖滾春吶款（08年活動限定）
   - 熱血春吶款（08年限量100件）
   - 星球爆炸T
   - 太空Battle T
   - I know the answer\!\!\! OUTER SPACE款-洩密T
-  - I know the answer\!\!\! [Stay
-    Real款](https://zh.wikipedia.org/wiki/Stay_Real "wikilink")-考試萬歲T
+  - I know the answer\!\!\! [Stay Real款](https://zh.wikipedia.org/wiki/Stay_Real "wikilink")-考試萬歲T
   - 畢業快樂 T
   - CIRCUS NEVER DIE T
   - 旺福 x OUTER SPACE 聯名限定T
   - 好事不發生T
   - 太空帽（夏日限定款－檸檬黃）
-  - OUTER SPACE x [Pizza Cut
-    Five](https://zh.wikipedia.org/wiki/Pizza_Cut_Five "wikilink") 聯名系列T
+  - OUTER SPACE x [Pizza Cut Five](https://zh.wikipedia.org/wiki/Pizza_Cut_Five "wikilink") 聯名系列T
   - 太空一周年100件限量T
   - 太空亂鬥大合體 激少80件 紀念T
   - 太空單邊肩吊帶 系列
@@ -70,8 +57,7 @@ SPACE這品牌。
   - 太空叮噹T
   - OUTER SPACE 太空帽系列（第二代）
   - OUTER SPACE x 奪魂鋸聯名系列
-  - OUTER SPACE x [Funs
-    Want萬聖太空節限定系列](https://zh.wikipedia.org/wiki/Funs_Want "wikilink")
+  - OUTER SPACE x [Funs Want萬聖太空節限定系列](https://zh.wikipedia.org/wiki/Funs_Want "wikilink")
   - 二號行星 LOGO T系列
   - 第一屆太空設祭　設計師創作限定系列
   - 太空史上首款限量帽夾
@@ -116,8 +102,7 @@ SPACE這品牌。
   - L.O.V.E太空情人 T（秋冬限定）
   - 太空百鬼夜行系列 T
   - OS x 裸奔少年KID火箭發射款T
-  - OS x
-    AV女神[小澤瑪莉亞火箭發射款T](https://zh.wikipedia.org/wiki/小澤瑪莉亞 "wikilink")
+  - OS x AV女神[小澤瑪莉亞火箭發射款T](https://zh.wikipedia.org/wiki/小澤瑪莉亞 "wikilink")
   - 三方跨國聯名\!天使魔鬼款T\[黑.白.限量色\]
   - 阿姆斯壯登陸月球40週年紀念 T
   - 登陸月球40週年標語 T
@@ -191,8 +176,7 @@ SPACE這品牌。
 
 ### CIRCUS ACTION
 
-  - 於[CIRCUS ACTION
-    第四季節目](https://zh.wikipedia.org/wiki/CIRCUS_ACTION#.E7.AC.AC.E5.9B.9B.E5.AD.A3.E7.AF.80.E7.9B.AE "wikilink")（熱血巴士）贊助三十位參加者之服飾。
+  - 於[CIRCUS ACTION 第四季節目](https://zh.wikipedia.org/wiki/CIRCUS_ACTION#.E7.AC.AC.E5.9B.9B.E5.AD.A3.E7.AF.80.E7.9B.AE "wikilink")（熱血巴士）贊助三十位參加者之服飾。
 
 ## 旗艦店
 
@@ -206,9 +190,7 @@ SPACE這品牌。
   - 台中：台中市北區一中街179巷9號（於2009年7月18日至7月31日試業，8月1日正式開幕）
       - 於2009年7月18日至7月31日史無前例地舉行「太空試賣祭」，即一中旗艦店與太空官網均同一價（官網價格會比旗艦店便宜）\[2\]。
       - 開幕當天首200名買家可得到[CIRCUS成員](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")[KID及](../Page/林柏昇.md "wikilink")[EASON的](../Page/黃尹宣.md "wikilink")「夏日男優超清涼拍立得」（人體招牌）
-      - \[\[Channel_V|CHANNEL
-        \[V\]娛樂台\]\]頻道前總監[張世明](../Page/張世明.md "wikilink")前來一中旗艦店支持CIRCUS及OUTER
-        SPACE。\[3\]。
+      - \[\[Channel_V|CHANNEL \[V\]娛樂台\]\]頻道前總監[張世明](../Page/張世明.md "wikilink")前來一中旗艦店支持CIRCUS及OUTER SPACE。\[3\]。
   - 高雄：高雄市新興區新田路167號（於2009年7月25日至7月31日試業，8月1日正式開幕）
       - 於2009年7月25日至7月31日史無前例地舉行「太空試賣祭」，即堀江旗艦店與太空官網均同一價（官網價格會比旗艦店便宜）
 
@@ -223,9 +205,7 @@ SPACE這品牌。
 
   - 香港（[台灣地區以外首間旗艦店](https://zh.wikipedia.org/wiki/台灣地區 "wikilink")，由Outerspace太空總長-廖人帥（Leo）及[熱血主理人](https://zh.wikipedia.org/wiki/熱血 "wikilink")-黑人陳建州於2010年5月30日主持開幕並由Leo擔任Outerspace一日店長）
       - 地址：尖沙咀海運大廈3樓LCX 9B2及9B3號舖
-      - Outer space香港海港星球 正式開幕 \[變型演化完成開幕會\] ：前一百名排隊者，即可免費獲得Outerspace
-        開幕T-shirt一件，一百零一名到三百名身穿outer space &
-        熱血相關商品(配件不算，含L2)的外星人可獲得Outerspace港幣伍拾元折價購買商品(單筆消費可折抵港幣50元)，三百名之後的外星人亦可獲得神秘小禮物一份。
+      - Outer space香港海港星球 正式開幕 \[變型演化完成開幕會\] ：前一百名排隊者，即可免費獲得Outerspace 開幕T-shirt一件，一百零一名到三百名身穿outer space & 熱血相關商品(配件不算，含L2)的外星人可獲得Outerspace港幣伍拾元折價購買商品(單筆消費可折抵港幣50元)，三百名之後的外星人亦可獲得神秘小禮物一份。
 
 OUTER SPACE打算於香港、新加坡等地開設旗艦店。\[4\]香港第一間星球旗艦店將於2010年5月30日開幕。\[5\]
 
@@ -238,11 +218,7 @@ OUTER SPACE打算於香港、新加坡等地開設旗艦店。\[4\]香港第一�
   - [OUTER SPACE 官網](http://www.outerspace.com.tw)
 
   -
-[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
-[Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink")
-[Category:台灣服裝品牌](https://zh.wikipedia.org/wiki/Category:台灣服裝品牌 "wikilink")
-[Category:藝人時裝品牌](https://zh.wikipedia.org/wiki/Category:藝人時裝品牌 "wikilink")
-[Category:服裝品牌](https://zh.wikipedia.org/wiki/Category:服裝品牌 "wikilink")
+[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink") [Category:台灣服裝品牌](https://zh.wikipedia.org/wiki/Category:台灣服裝品牌 "wikilink") [Category:藝人時裝品牌](https://zh.wikipedia.org/wiki/Category:藝人時裝品牌 "wikilink") [Category:服裝品牌](https://zh.wikipedia.org/wiki/Category:服裝品牌 "wikilink")
 
 1.  [太空官網](http://www.outerspace.com.tw)
 2.  \[<http://www.wretch.cc/blog/CircusEason/26107087>[EASON](../Page/黃尹宣.md "wikilink")\]無名

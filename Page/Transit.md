@@ -1,12 +1,8 @@
-**TRANSIT**[翻譯記憶軟體](../Page/翻譯記憶.md "wikilink")，是瑞士[STAR
-Group所發展出一套功能完善的](https://zh.wikipedia.org/wiki/STAR_Group "wikilink")「[電腦輔助翻譯系統](../Page/電腦輔助翻譯.md "wikilink")」（CAT，Computer-assisted
-Translation 或 Computer-aided
-Translation），專為處理大量且重複性高之[翻譯工作所設計](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。TRANSIT同時也是技術性翻譯與在文字地化工作的專業軟體，支援超過100種以上的語言格式，包括亞洲、中東以及東歐語系。廣泛被應用於企業[全球化作業程序](../Page/全球化.md "wikilink")。
+**TRANSIT**[翻譯記憶](../Page/翻譯記憶.md "wikilink")軟體，是瑞士[STAR Group所發展出一套功能完善的](https://zh.wikipedia.org/wiki/STAR_Group "wikilink")「[電腦輔助翻譯](../Page/電腦輔助翻譯.md "wikilink")系統」（CAT，Computer-assisted Translation 或 Computer-aided Translation），專為處理大量且重複性高之[翻譯工作所設計](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。TRANSIT同時也是技術性翻譯與在文字地化工作的專業軟體，支援超過100種以上的語言格式，包括亞洲、中東以及東歐語系。廣泛被應用於企業[全球化](../Page/全球化.md "wikilink")作業程序。
 
 ## 歷史
 
-STAR
-Group總部位於瑞士，全球30個以上國家地區設有營運據點，是現今頗具規模的多國語言服務與技術性通訊／翻譯供應商，提供各種解決方案以協助企業確保資訊及品質最佳化。主要服務為：
+STAR Group總部位於瑞士，全球30個以上國家地區設有營運據點，是現今頗具規模的多國語言服務與技術性通訊／翻譯供應商，提供各種解決方案以協助企業確保資訊及品質最佳化。主要服務為：
 
   - 多國語言翻譯及全球化服務
   - 技術性通訊
@@ -14,12 +10,11 @@ Group總部位於瑞士，全球30個以上國家地區設有營運據點，是�
   - 資訊軟體開發
   - 資訊專案管理
 
-TRANSIT－翻譯記憶軟體 為STAR Group旗下STAR Language Technology & Solutions
-GmbH所開發之電腦輔助翻譯系統。
+TRANSIT－翻譯記憶軟體 為STAR Group旗下STAR Language Technology & Solutions GmbH所開發之電腦輔助翻譯系統。
 
 ## 翻譯記憶工具
 
-[翻譯記憶工具能夠協助翻譯人員克服工作上的成本與數量管理](../Page/翻譯記憶.md "wikilink")。除了可以達成最迅速的翻譯，而另一方面也能夠維持高水準的文件品質。絕大多數的翻譯記憶工具能確保品質、同時節省開銷，甚至還可以為翻譯專案人員管理作業程序。有些翻譯記憶工具，像是TRANSIT，使用時只需要將翻譯的檔案匯入，接著利用歷史紀錄檔中的翻譯記憶」（TM或稱參考資料）來進行全自動或半自動翻譯，最終再將翻譯好的檔案匯出，完成遞交高品質譯文之工作。
+[翻譯記憶](../Page/翻譯記憶.md "wikilink")工具能夠協助翻譯人員克服工作上的成本與數量管理。除了可以達成最迅速的翻譯，而另一方面也能夠維持高水準的文件品質。絕大多數的翻譯記憶工具能確保品質、同時節省開銷，甚至還可以為翻譯專案人員管理作業程序。有些翻譯記憶工具，像是TRANSIT，使用時只需要將翻譯的檔案匯入，接著利用歷史紀錄檔中的翻譯記憶」（TM或稱參考資料）來進行全自動或半自動翻譯，最終再將翻譯好的檔案匯出，完成遞交高品質譯文之工作。
 
 ## TRANSIT的運作概念
 
@@ -46,9 +41,7 @@ TRANSIT能協助翻譯人員進行翻譯，並提供：
 一旦在TRANSIT中完成翻譯後，翻譯人員就可將已完成的翻譯自TRANSIT匯出。在匯出過程中，TRANSIT會重新將原始文件架構至已翻譯的內文中。因此，最終得到的仍是一份具備原始檔案格式的翻譯文件。
 
 **TRANSIT為企業提供最佳翻譯的技術解決方案**
-由於TRANSIT具備翻譯記憶及品質管理的功能，專案經理可以妥善管理企業內部的翻譯專案，完全應付像是
-FrameMaker、XML、HTML、MS Word、Powerpoint、Adobe Indesign
-等主流檔案格式。同時也能夠管理舊有翻譯與專業術語，向譯者提供翻譯時的建議與參考，藉此提高翻譯人員的生產力，減少人力成本。
+由於TRANSIT具備翻譯記憶及品質管理的功能，專案經理可以妥善管理企業內部的翻譯專案，完全應付像是 FrameMaker、XML、HTML、MS Word、Powerpoint、Adobe Indesign 等主流檔案格式。同時也能夠管理舊有翻譯與專業術語，向譯者提供翻譯時的建議與參考，藉此提高翻譯人員的生產力，減少人力成本。
 
 ## TRANSIT的特色
 
@@ -116,9 +109,7 @@ FrameMaker、XML、HTML、MS Word、Powerpoint、Adobe Indesign
 
 ## 試用與推廣
 
-TRANSIT Satellite PE是一套同樣由STAR
-GROUP團隊所研發，完全免費的個人版[翻譯記憶工具](../Page/翻譯記憶.md "wikilink")，提供翻譯工作者隨時隨地取得案件，讓翻譯管理人員可以直接將「Satellite
-PE 使用者」所完成的譯文匯入TRANSIT當中，大大提升翻譯流程與工作效率。TRANSIT Satellite PE的特色有：
+TRANSIT Satellite PE是一套同樣由STAR GROUP團隊所研發，完全免費的個人版[翻譯記憶](../Page/翻譯記憶.md "wikilink")工具，提供翻譯工作者隨時隨地取得案件，讓翻譯管理人員可以直接將「Satellite PE 使用者」所完成的譯文匯入TRANSIT當中，大大提升翻譯流程與工作效率。TRANSIT Satellite PE的特色有：
 
   - 專為那些平日與翻譯公司或企業機關合作的特約翻譯人士（俗稱自由譯者）所開發。
   - 翻譯人員可以獨立承接專案、進行翻譯工作，並將完成之專案提交負責統籌翻譯業務的專案經理人。
@@ -136,7 +127,6 @@ PE 使用者」所完成的譯文匯入TRANSIT當中，大大提升翻譯流程�
 \* [STAR Group 官方首頁](http://www.star-group.net)
 
   - [STAR Group Taiwan 繁體中文網站](http://www.star-taiwan.com)
-  - [TRANSIT Satellite PE
-    免費下載區](http://www.star-group.net/star-www/software/transit/star-group/eng/transit_transit-satellite-pe.html)
+  - [TRANSIT Satellite PE 免費下載區](http://www.star-group.net/star-www/software/transit/star-group/eng/transit_transit-satellite-pe.html)
 
 [Category:電腦輔助翻譯](https://zh.wikipedia.org/wiki/Category:電腦輔助翻譯 "wikilink")

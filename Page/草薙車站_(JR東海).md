@@ -52,10 +52,7 @@
 
 <references/>
 
-[Category:日本鐵路車站_Ku](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ku "wikilink")
-[Category:東海道本線車站_(東海旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(東海旅客鐵道\) "wikilink")
-[Category:清水區鐵路車站_(靜岡市)](https://zh.wikipedia.org/wiki/Category:清水區鐵路車站_\(靜岡市\) "wikilink")
-[Category:1926年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1926年启用的铁路车站 "wikilink")
+[Category:日本鐵路車站_Ku](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ku "wikilink") [Category:東海道本線車站_(東海旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(東海旅客鐵道\) "wikilink") [Category:清水區鐵路車站_(靜岡市)](https://zh.wikipedia.org/wiki/Category:清水區鐵路車站_\(靜岡市\) "wikilink") [Category:1926年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1926年启用的铁路车站 "wikilink")
 
 1.  「薙」，中文中發音同「替」字。
 

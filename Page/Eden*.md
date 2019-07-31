@@ -2,9 +2,7 @@
 
 ## 概要
 
-作品是[minori的第](https://zh.wikipedia.org/wiki/minori "wikilink")6部作品，也是在繼取得成功的《[ef
-- a fairy tale of the
-two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》之後的作品。在本作中，原作和[腳本完全由](https://zh.wikipedia.org/wiki/腳本 "wikilink")[鏡遊負責](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")；而在前作中和鏡遊一起負責原作和腳本的[御影則負責監督](https://zh.wikipedia.org/wiki/御影 "wikilink")。在minori多部作品中負責人物設定和原畫的[七尾奈留](../Page/七尾奈留.md "wikilink")則沒有參與製作，改由、負責。\[2\]
+作品是[minori的第](https://zh.wikipedia.org/wiki/minori "wikilink")6部作品，也是在繼取得成功的《[ef - a fairy tale of the two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》之後的作品。在本作中，原作和[腳本完全由](https://zh.wikipedia.org/wiki/腳本 "wikilink")[鏡遊負責](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")；而在前作中和鏡遊一起負責原作和腳本的[御影則負責監督](https://zh.wikipedia.org/wiki/御影 "wikilink")。在minori多部作品中負責人物設定和原畫的[七尾奈留](../Page/七尾奈留.md "wikilink")則沒有參與製作，改由、負責。\[2\]
 
 作品以流水式的敘事為主，帶有比較緊張的戰鬥情節。作品首次採取1024×640的寬屏畫面，以加強遊戲的表現效果，務求使玩家感覺猶如觀賞[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
@@ -77,25 +75,17 @@ two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》
 
 ## 漫畫
 
-改編自此遊戲的同名[漫畫由](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[守姬武士作畫](https://zh.wikipedia.org/wiki/守姬武士 "wikilink")，在遊戲發行前在[一迅社](../Page/一迅社.md "wikilink")旗下的雜誌《[Comic
-REX](https://zh.wikipedia.org/wiki/Comic_REX "wikilink")》2009年8月號\[6\]至2010年3月號連載。該漫畫的第一本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2010年3月9日發售。\[7\]
+改編自此遊戲的同名[漫畫由](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[守姬武士作畫](https://zh.wikipedia.org/wiki/守姬武士 "wikilink")，在遊戲發行前在[一迅社](../Page/一迅社.md "wikilink")旗下的雜誌《[Comic REX](https://zh.wikipedia.org/wiki/Comic_REX "wikilink")》2009年8月號\[6\]至2010年3月號連載。該漫畫的第一本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2010年3月9日發售。\[7\]
 
 ## 參考資料
 
 ## 外部連結
 
   - [eden\*官方網站](https://web.archive.org/web/20090430200031/http://www.minori.ph/lineup/eden_/index.html)（日本以外地區限制訪問）
-  - [eden\*
-    PLUS＋MOSAIC官方網頁](http://www.minori.ph/lineup/eden_/indexo18.html)（日本以外地區限制訪問）
+  - [eden\* PLUS＋MOSAIC官方網頁](http://www.minori.ph/lineup/eden_/indexo18.html)（日本以外地區限制訪問）
   - [eden\*英文版官方網站](http://mangagamer.org/eden/)
 
-[Category:Minori](https://zh.wikipedia.org/wiki/Category:Minori "wikilink")
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:科幻電子遊戲](https://zh.wikipedia.org/wiki/Category:科幻電子遊戲 "wikilink")
+[Category:Minori](https://zh.wikipedia.org/wiki/Category:Minori "wikilink") [Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:科幻電子遊戲](https://zh.wikipedia.org/wiki/Category:科幻電子遊戲 "wikilink")
 
 1.
 
@@ -104,7 +94,6 @@ REX](https://zh.wikipedia.org/wiki/Comic_REX "wikilink")》2009年8月號\[6\]�
 3.
 
 4.  [eden\*](http://www.messe-sanoh.co.jp/cgi/shopweb/p_image/shohin/info/minori/eden/index.htm)
-
 
 5.
 

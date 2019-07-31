@@ -1,19 +1,6 @@
-**Super
-Junior音樂作品列表**主要列舉[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[Super
-Junior](../Page/Super_Junior.md "wikilink")**及其子團體[Super
-Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super
-Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super
-Junior-M](../Page/Super_Junior-M.md "wikilink")、[Super
-Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")、[Super Junior
-Donghae &
-Eunhyuk歷年發行的各類音樂專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")、單曲、影視歌曲和廣告歌曲。
+**Super Junior音樂作品列表**主要列舉[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[Super Junior](../Page/Super_Junior.md "wikilink")**及其子團體[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super Junior-M](../Page/Super_Junior-M.md "wikilink")、[Super Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")、[Super Junior Donghae & Eunhyuk歷年發行的各類音樂專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")、單曲、影視歌曲和廣告歌曲。
 
-[Super
-Junior已發行](../Page/Super_Junior.md "wikilink")10張正規專輯（9張韓語及1張日語）、1張迷你專輯(1張韓語)、12張單曲（3張韓語及9張日語）、6張演唱會現場專輯和6張[SM
-Entertainment合作專輯](../Page/SM娛樂.md "wikilink")。專輯周榜排名，分別源於日本[Oricon
-Charts](../Page/Oricon.md "wikilink")、韓國[Gaon
-Chart或Hanteo](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")
-Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
+[Super Junior已發行](../Page/Super_Junior.md "wikilink")10張正規專輯（9張韓語及1張日語）、1張迷你專輯(1張韓語)、12張單曲（3張韓語及9張日語）、6張演唱會現場專輯和6張[SM Entertainment合作專輯](../Page/SM娛樂.md "wikilink")。專輯周榜排名，分別源於日本[Oricon Charts](../Page/Oricon.md "wikilink")、韓國[Gaon Chart或Hanteo](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
 
 ## Super Junior
 
@@ -710,10 +697,7 @@ Version、Pause Version、Replay Version</li>
 
 ## Super Junior-K.R.Y.
 
-**[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")**
-是Super Junior成立于2006年11月的第一个官方子团体，
-成员包括[圭贤](https://zh.wikipedia.org/wiki/圭贤 "wikilink")（**K**yuhyun）,
-[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")（**R**yeowook）和[艺声](https://zh.wikipedia.org/wiki/艺声 "wikilink")（**Y**esung）。词组和专攻[民谣并且参与了三张](https://zh.wikipedia.org/wiki/民谣 "wikilink")[原声带](https://zh.wikipedia.org/wiki/原声带 "wikilink")。
+**[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")** 是Super Junior成立于2006年11月的第一个官方子团体， 成员包括[圭贤](https://zh.wikipedia.org/wiki/圭贤 "wikilink")（**K**yuhyun）, [厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")（**R**yeowook）和[艺声](https://zh.wikipedia.org/wiki/艺声 "wikilink")（**Y**esung）。词组和专攻[民谣并且参与了三张](https://zh.wikipedia.org/wiki/民谣 "wikilink")[原声带](https://zh.wikipedia.org/wiki/原声带 "wikilink")。
 
 ### 日文單曲
 
@@ -751,15 +735,7 @@ Version、Pause Version、Replay Version</li>
 
 ## Super Junior-T
 
-**[Super Junior-T](../Page/Super_Junior-T.md "wikilink")**是[Super
-Junior于](../Page/Super_Junior.md "wikilink")2007年2月成立的第二个官方子组合。“Super
-Junior-T”
-中的“T”代表“[韓國演歌](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")”（**T**rot）.。Super
-Junior-T 成员有[利特](../Page/利特.md "wikilink"),
-[希澈](../Page/希澈.md "wikilink"),
-[强仁](https://zh.wikipedia.org/wiki/强仁 "wikilink"),
-[神童](https://zh.wikipedia.org/wiki/神童_\(艺人\) "wikilink"),
-[晟敏](../Page/晟敏.md "wikilink"),以及[银赫](https://zh.wikipedia.org/wiki/银赫 "wikilink")。这个组合是专攻韓國演歌的。
+**[Super Junior-T](../Page/Super_Junior-T.md "wikilink")**是[Super Junior于](../Page/Super_Junior.md "wikilink")2007年2月成立的第二个官方子组合。“Super Junior-T” 中的“T”代表“[韓國演歌](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")”（**T**rot）.。Super Junior-T 成员有[利特](../Page/利特.md "wikilink"), [希澈](../Page/希澈.md "wikilink"), [强仁](https://zh.wikipedia.org/wiki/强仁 "wikilink"), [神童](https://zh.wikipedia.org/wiki/神童_\(艺人\) "wikilink"), [晟敏](../Page/晟敏.md "wikilink"),以及[银赫](https://zh.wikipedia.org/wiki/银赫 "wikilink")。这个组合是专攻韓國演歌的。
 
 ### 单曲
 
@@ -810,10 +786,7 @@ Junior-T 成员有[利特](../Page/利特.md "wikilink"),
 
 ## Super Junior-M
 
-**[Super Junior-M](../Page/Super_Junior-M.md "wikilink")**是[Super
-Junior于](../Page/Super_Junior.md "wikilink")2008年4月成立的第三个官方子组合。Super
-Junior-M中的“M”代表[普通话](../Page/普通话.md "wikilink")（**M**andarin）。Super
-Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[东海](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")、[圭贤以及中國成员](https://zh.wikipedia.org/wiki/圭贤 "wikilink")[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")。此组合大部分的歌曲都由普通话演唱。
+**[Super Junior-M](../Page/Super_Junior-M.md "wikilink")**是[Super Junior于](../Page/Super_Junior.md "wikilink")2008年4月成立的第三个官方子组合。Super Junior-M中的“M”代表[普通话](../Page/普通话.md "wikilink")（**M**andarin）。Super Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[东海](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")、[圭贤以及中國成员](https://zh.wikipedia.org/wiki/圭贤 "wikilink")[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")。此组合大部分的歌曲都由普通话演唱。
 
 ### 正規專輯
 
@@ -923,10 +896,7 @@ Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page
 
 ## Super Junior-Happy
 
-**[Super
-Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")**是[Super
-Junior于](../Page/Super_Junior.md "wikilink")2008年6月成立的第四个官方子组合。Super
-Junior-Happy的成员有利特、艺声、强仁、神童、晟敏、银赫。 此组合专攻快节奏舞曲。
+**[Super Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")**是[Super Junior于](../Page/Super_Junior.md "wikilink")2008年6月成立的第四个官方子组合。Super Junior-Happy的成员有利特、艺声、强仁、神童、晟敏、银赫。 此组合专攻快节奏舞曲。
 
 ### 迷你專輯
 
@@ -969,10 +939,7 @@ Junior-Happy的成员有利特、艺声、强仁、神童、晟敏、银赫。 �
 
 ## Super Junior Donghae & Eunhyuk
 
-**[Super Junior Donghae &
-Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**是Super
-Junior于2011年12月16日成立的第五个官方子组合，
-成员包括[東海和](https://zh.wikipedia.org/wiki/東海 "wikilink")[銀赫](../Page/銀赫.md "wikilink")。
+**[Super Junior Donghae & Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**是Super Junior于2011年12月16日成立的第五个官方子组合， 成员包括[東海和](https://zh.wikipedia.org/wiki/東海 "wikilink")[銀赫](../Page/銀赫.md "wikilink")。
 
 ### 正規專輯
 
@@ -2322,19 +2289,18 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <div class="references-small">
 
 [利特](../Page/利特.md "wikilink")参与了独唱或和声的部分。
-[希澈](../Page/希澈.md "wikilink")参与了独唱或和声的部分。
-[韩庚参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/韩庚 "wikilink")。
-[艺声参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/艺声 "wikilink")。
-[强仁参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/强仁 "wikilink")。
-[神童参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/神童_\(艺人\) "wikilink")。
-[晟敏](../Page/晟敏.md "wikilink")参与了独唱或和声的部分。
-[银赫参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/银赫 "wikilink")。
-[东海参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")。
-[厉旭参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/厉旭 "wikilink")。
-[起范参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/起范 "wikilink")。
-[圭贤参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/圭贤 "wikilink")。
-仅[Super Junior
-K.R.Y.参与](https://zh.wikipedia.org/wiki/Super_Junior#Super_Junior_K.R.Y. "wikilink")。
+ [希澈](../Page/希澈.md "wikilink")参与了独唱或和声的部分。
+ [韩庚参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/韩庚 "wikilink")。
+ [艺声参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/艺声 "wikilink")。
+ [强仁参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/强仁 "wikilink")。
+ [神童参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/神童_\(艺人\) "wikilink")。
+ [晟敏](../Page/晟敏.md "wikilink")参与了独唱或和声的部分。
+ [银赫参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/银赫 "wikilink")。
+ [东海参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")。
+ [厉旭参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/厉旭 "wikilink")。
+ [起范参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/起范 "wikilink")。
+ [圭贤参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/圭贤 "wikilink")。
+ 仅[Super Junior K.R.Y.参与](https://zh.wikipedia.org/wiki/Super_Junior#Super_Junior_K.R.Y. "wikilink")。
 
 </div>
 
@@ -2342,12 +2308,7 @@ K.R.Y.参与](https://zh.wikipedia.org/wiki/Super_Junior#Super_Junior_K.R.Y. "wi
 
 __强显目录__
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
-[Category:Super_Junior-K.R.Y.音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior-K.R.Y.音樂專輯 "wikilink")
-[Category:Super_Junior-M音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior-M音樂專輯 "wikilink")
-[Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink") [Category:Super_Junior-K.R.Y.音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior-K.R.Y.音樂專輯 "wikilink") [Category:Super_Junior-M音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior-M音樂專輯 "wikilink") [Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**椰子罐頭（COCOCAN）**，原名**水果村**、**諾亞方舟（Noah's
-Ark）**是由[遊戲橘子](../Page/遊戲橘子.md "wikilink")開發的休閒[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，[台灣方面由於人數不斷銳減](https://zh.wikipedia.org/wiki/台灣 "wikilink")，自2008年10月1日起停止營運。
+**椰子罐頭（COCOCAN）**，原名**水果村**、**諾亞方舟（Noah's Ark）**是由[遊戲橘子](../Page/遊戲橘子.md "wikilink")開發的休閒[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，[台灣方面由於人數不斷銳減](https://zh.wikipedia.org/wiki/台灣 "wikilink")，自2008年10月1日起停止營運。
 
 椰子罐頭自2003年初在台灣推廣以來，吸引不少網友的興趣，玩家年齡層廣，之後也在日本、[香港](../Page/香港.md "wikilink")等地掀起風潮。
 
@@ -126,8 +125,6 @@ BuLu</p></td>
 
 ## 外部連結
 
-  - [椰子罐頭香港官方網站
-    網際網路檔案館](https://web.archive.org/web/20080202071304/http://www.gamania.com.hk/cococan//)
+  - [椰子罐頭香港官方網站 網際網路檔案館](https://web.archive.org/web/20080202071304/http://www.gamania.com.hk/cococan//)
 
-[Category:大型多人線上第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上第三人稱射擊遊戲 "wikilink")
-[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")
+[Category:大型多人線上第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上第三人稱射擊遊戲 "wikilink") [Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")

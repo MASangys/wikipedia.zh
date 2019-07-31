@@ -2,13 +2,9 @@
 
 ## 子公司
 
-NCsoft在[臺灣](../Page/臺灣.md "wikilink")與[遊戲橘子](../Page/遊戲橘子.md "wikilink")合資成立分公司為[吉恩立](../Page/吉恩立.md "wikilink")（NC
-Taiwan Co.,Ltd.、NC
-Taiwan、NCT），負責營運的遊戲有[天堂2](https://zh.wikipedia.org/wiki/天堂2 "wikilink")（LineageⅡ）、[永恆紀元](../Page/永恆紀元.md "wikilink")（Aion）、[劍靈](https://zh.wikipedia.org/wiki/劍靈 "wikilink")（Blade
-& Soul）。
+NCsoft在[臺灣](../Page/臺灣.md "wikilink")與[遊戲橘子](../Page/遊戲橘子.md "wikilink")合資成立分公司為[吉恩立](../Page/吉恩立.md "wikilink")（NC Taiwan Co.,Ltd.、NC Taiwan、NCT），負責營運的遊戲有[天堂2](https://zh.wikipedia.org/wiki/天堂2 "wikilink")（LineageⅡ）、[永恆紀元](../Page/永恆紀元.md "wikilink")（Aion）、[劍靈](https://zh.wikipedia.org/wiki/劍靈 "wikilink")（Blade & Soul）。
 
-吉恩立（NC
-Taiwan）目前是南韓線上遊戲公司NCsoft的子公司，是NCsoft與臺灣線上遊戲公司遊戲橘子在2003年8月合資成立。成立後即代理NCsoft研發的天堂II。2007年1月NCsoft從遊戲橘子買回部份持股，持股率提高為85%，這時吉恩立正式成為NCsoft的子公司。2009年在台港澳地區發行永恆紀元，7月7日於臺灣上市。
+吉恩立（NC Taiwan）目前是南韓線上遊戲公司NCsoft的子公司，是NCsoft與臺灣線上遊戲公司遊戲橘子在2003年8月合資成立。成立後即代理NCsoft研發的天堂II。2007年1月NCsoft從遊戲橘子買回部份持股，持股率提高為85%，這時吉恩立正式成為NCsoft的子公司。2009年在台港澳地區發行永恆紀元，7月7日於臺灣上市。
 
 ## 非子公司海外代理官方
 
@@ -67,9 +63,6 @@ NCsoftJapan與NCsoftEU/NA為NCsoft亞洲與歐美地區非下轄代理官方網�
   - [剑灵欧服美服官网
     ](http://www.bladeandsoul.com/uk/)
 
-[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
-[Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:NCsoft](https://zh.wikipedia.org/wiki/Category:NCsoft "wikilink")
+[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink") [Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:NCsoft](https://zh.wikipedia.org/wiki/Category:NCsoft "wikilink")
 
 1.

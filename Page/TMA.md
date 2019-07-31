@@ -1,12 +1,10 @@
-**TMA**（）是[日本一家](../Page/日本.md "wikilink")[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")。
+**TMA**（）是[日本](../Page/日本.md "wikilink")一家[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")。
 
 ## 公司简介
 
 TMA于1990年10月成立于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[丰岛区](https://zh.wikipedia.org/wiki/丰岛区 "wikilink")，主业为拍摄[角色扮演色情影片](https://zh.wikipedia.org/wiki/角色扮演色情影片 "wikilink")\[1\]；其作品大多基于时下流行的漫画或动画\[2\]，如《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》、《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》以及《[轻音少女](https://zh.wikipedia.org/wiki/轻音少女 "wikilink")》。
 
-TMA亦是探索成人色情影片[新媒体的先锋](https://zh.wikipedia.org/wiki/新媒体 "wikilink")。2005年8月12日，TMA发布了适用于[PlayStation
-Portable的以](../Page/PlayStation_Portable.md "wikilink")[通用媒体光盘作为](https://zh.wikipedia.org/wiki/通用媒体光盘 "wikilink")[存储介质的影片](https://zh.wikipedia.org/wiki/存储介质 "wikilink")\[3\]；两年后，当[Blu-ray格式还在与](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[HD
-DVD竞争时](../Page/HD_DVD.md "wikilink")，TMA发售了成人色情影片业界第一张[蓝光光碟作品](https://zh.wikipedia.org/wiki/蓝光光碟 "wikilink")，成为日本第一家以蓝光光碟作为存储介质进行成人色情影片发售的公司。\[4\]
+TMA亦是探索成人色情影片[新媒体的先锋](https://zh.wikipedia.org/wiki/新媒体 "wikilink")。2005年8月12日，TMA发布了适用于[PlayStation Portable的以](../Page/PlayStation_Portable.md "wikilink")[通用媒体光盘作为](https://zh.wikipedia.org/wiki/通用媒体光盘 "wikilink")[存储介质的影片](https://zh.wikipedia.org/wiki/存储介质 "wikilink")\[3\]；两年后，当[Blu-ray格式还在与](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[HD DVD竞争时](../Page/HD_DVD.md "wikilink")，TMA发售了成人色情影片业界第一张[蓝光光碟作品](https://zh.wikipedia.org/wiki/蓝光光碟 "wikilink")，成为日本第一家以蓝光光碟作为存储介质进行成人色情影片发售的公司。\[4\]
 
 TMA现在产量为每个月16部影片。
 
@@ -180,12 +178,9 @@ TMA现在产量为每个月16部影片。
 
   - [TMA官网](http://www.tma.co.jp/)
 
-[Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink")
-[Category:丰岛区公司](https://zh.wikipedia.org/wiki/Category:丰岛区公司 "wikilink")
-[Category:1990年成立的公司](https://zh.wikipedia.org/wiki/Category:1990年成立的公司 "wikilink")
+[Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink") [Category:丰岛区公司](https://zh.wikipedia.org/wiki/Category:丰岛区公司 "wikilink") [Category:1990年成立的公司](https://zh.wikipedia.org/wiki/Category:1990年成立的公司 "wikilink")
 
-1.  ["日映審系AVメーカー（た～わ行）](http://allabout.co.jp/gm/gl/13144/) Otsubo,
-    Kemuta 2010-06-30
+1.  ["日映審系AVメーカー（た～わ行）](http://allabout.co.jp/gm/gl/13144/) Otsubo, Kemuta 2010-06-30
 2.
 3.
 4.

@@ -1,9 +1,4 @@
-{{ Infobox VG | title = Lincity-ng | URL =
-<http://lincity-ng.berlios.de/wiki/index.php/Main_Page> | image =
-<File:Lincity-ng.png> | developer = | genre =
-[模拟城市](https://zh.wikipedia.org/wiki/模拟城市 "wikilink") | modes =
-[单机游戏](../Page/单机游戏.md "wikilink") | platforms =
-[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") }}
+{{ Infobox VG | title = Lincity-ng | URL = <http://lincity-ng.berlios.de/wiki/index.php/Main_Page> | image = <File:Lincity-ng.png> | developer = | genre = [模拟城市](https://zh.wikipedia.org/wiki/模拟城市 "wikilink") | modes = [单机游戏](../Page/单机游戏.md "wikilink") | platforms = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") }}
 
 《**Lincity**》是一個免费[開源城市建设游戏](https://zh.wikipedia.org/wiki/開源遊戲 "wikilink")。玩家在此遊戲中的主要任務為建设城市，玩法與另一個城市建设游戏《[模拟城市](https://zh.wikipedia.org/wiki/模拟城市 "wikilink")》類似。玩家在此遊戲中需要達成兩個任務的其中一個，分別是[可持续发展](../Page/可持续发展.md "wikilink")和將所有人容纳到[宇宙飞船中](https://zh.wikipedia.org/wiki/宇宙飞船 "wikilink")。
 
@@ -19,14 +14,9 @@
 
 ## 历史
 
-[Lincity.png](https://zh.wikipedia.org/wiki/File:Lincity.png "fig:Lincity.png")
-此遊戲原本名為「」（C字大寫）。此遊戲的原版並不需要3D显示卡，对应硬件要求较低电脑，且僅使用[2D俯视视角](../Page/二维图像引擎.md "wikilink")。原版需求的[記憶容量較少](../Page/随机存取存储器.md "wikilink")，且需求的[中央处理器](../Page/中央处理器.md "wikilink")功率亦較低。儘管此遊戲持續更新至2004年8月，但遊戲实際上自1999年以來已没有什么大改動。\[4\]
+[Lincity.png](https://zh.wikipedia.org/wiki/File:Lincity.png "fig:Lincity.png") 此遊戲原本名為「」（C字大寫）。此遊戲的原版並不需要3D显示卡，对应硬件要求较低电脑，且僅使用[2D俯视视角](../Page/二维图像引擎.md "wikilink")。原版需求的[記憶容量較少](../Page/随机存取存储器.md "wikilink")，且需求的[中央处理器](../Page/中央处理器.md "wikilink")功率亦較低。儘管此遊戲持續更新至2004年8月，但遊戲实際上自1999年以來已没有什么大改動。\[4\]
 
-《Lincity》原本是為[Linux](../Page/Linux.md "wikilink")而設，但也支援[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[BeOS](../Page/BeOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[AmigaOS
-4](../Page/AmigaOS_4.md "wikilink")、以及其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")。但是，玩家若使用[Mac
-OS
-X遊玩](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，則需要用[GCC编译](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")，並使用[X11.app运行](https://zh.wikipedia.org/wiki/X11 "wikilink")。在Unix类系统中，此遊戲則使用[SVGALib或](https://zh.wikipedia.org/wiki/SVGALib "wikilink")[X11作为用戶界面和](https://zh.wikipedia.org/wiki/X11 "wikilink")[应用程序接口](https://zh.wikipedia.org/wiki/API "wikilink")。\[5\]
+《Lincity》原本是為[Linux](../Page/Linux.md "wikilink")而設，但也支援[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[BeOS](../Page/BeOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[AmigaOS 4](../Page/AmigaOS_4.md "wikilink")、以及其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")。但是，玩家若使用[Mac OS X遊玩](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，則需要用[GCC编译](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")，並使用[X11.app运行](https://zh.wikipedia.org/wiki/X11 "wikilink")。在Unix类系统中，此遊戲則使用[SVGALib或](https://zh.wikipedia.org/wiki/SVGALib "wikilink")[X11作为用戶界面和](https://zh.wikipedia.org/wiki/X11 "wikilink")[应用程序接口](https://zh.wikipedia.org/wiki/API "wikilink")。\[5\]
 
 ### LinCity-NG
 
@@ -36,8 +26,7 @@ X遊玩](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，則需要用[GCC�
 
 開發者在《LinCity-NG》1.9.X版之后的版本添加了水系统管理，並增添了非常簡單的生態系统。《LinCity-NG》2.0版於2009年1月25日發佈。游戏自带[DejaVu字体](../Page/DejaVu字体.md "wikilink")。\[7\]
 
-此遊戲是以[自由軟體授權條款](https://zh.wikipedia.org/wiki/自由軟體授權條款 "wikilink")[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")發佈的，而其原圖則是以[雙許可的形式發佈](https://zh.wikipedia.org/wiki/多許可 "wikilink")。這兩個許可分別是GNU通用公共许可证和[创作共用授权署名](https://zh.wikipedia.org/wiki/创作共用授权 "wikilink")-相同方式共享2.0（CC-by-sa
-2.0）。此許可亦覆蓋其DejaVu字体。\[8\]
+此遊戲是以[自由軟體授權條款](https://zh.wikipedia.org/wiki/自由軟體授權條款 "wikilink")[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")發佈的，而其原圖則是以[雙許可的形式發佈](https://zh.wikipedia.org/wiki/多許可 "wikilink")。這兩個許可分別是GNU通用公共许可证和[创作共用授权署名](https://zh.wikipedia.org/wiki/创作共用授权 "wikilink")-相同方式共享2.0（CC-by-sa 2.0）。此許可亦覆蓋其DejaVu字体。\[8\]
 
 《LinCity-NG》使用的[函數庫為](https://zh.wikipedia.org/wiki/函數庫 "wikilink")[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")，而使用的[应用程序接口](../Page/应用程序接口.md "wikilink")則是[OpenGL](../Page/OpenGL.md "wikilink")。其视角為45度视角。
 
@@ -52,32 +41,22 @@ X遊玩](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，則需要用[GCC�
 
   - [主页和wiki](https://web.archive.org/web/20100719154537/http://lincity-ng.berlios.de/wiki/index.php/Main_Page)
   - [Original *Lincity*主页](http://lincity.sourceforge.net/)
-  - [*LinCity-NG*
-    主页](https://web.archive.org/web/20100719154537/http://lincity-ng.berlios.de/wiki/index.php/Main_Page)
-  - [Berlios developer
-    site](https://web.archive.org/web/20081028131849/http://developer.berlios.de/projects/lincity-ng/)
+  - [*LinCity-NG* 主页](https://web.archive.org/web/20100719154537/http://lincity-ng.berlios.de/wiki/index.php/Main_Page)
+  - [Berlios developer site](https://web.archive.org/web/20081028131849/http://developer.berlios.de/projects/lincity-ng/)
   - [Download](https://web.archive.org/web/20081015174000/http://developer.berlios.de/project/showfiles.php?group_id=2929)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:经营模拟游戏](https://zh.wikipedia.org/wiki/Category:经营模拟游戏 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:经营模拟游戏](https://zh.wikipedia.org/wiki/Category:经营模拟游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
 
 1.
 
 2.
 3.
-4.  [Lincity for Win32 -
-    OoCities](http://www.oocities.org/gregsharp.geo/lincity.html)
+4.  [Lincity for Win32 - OoCities](http://www.oocities.org/gregsharp.geo/lincity.html)
 
 5.  [Lincity - A City Simulation Game](http://lincity.sourceforge.net/)
 
-6.  [lincity-ng should be updated to 1.1.2 –
-    MacPorts](http://lincity-ng.berlios.de/wiki/index.php/Download/Installation)
+6.  [lincity-ng should be updated to 1.1.2 – MacPorts](http://lincity-ng.berlios.de/wiki/index.php/Download/Installation)
 
+7.  [Debian -- Details of package lincity-ng in wheezy](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=404396)
 
-7.  [Debian -- Details of package lincity-ng in
-    wheezy](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=404396)
-
-8.  [lincity-ng --
-    NeedleSeek](http://needleseek.msra.cn/result.aspx?query=lincity-ng)
+8.  [lincity-ng -- NeedleSeek](http://needleseek.msra.cn/result.aspx?query=lincity-ng)

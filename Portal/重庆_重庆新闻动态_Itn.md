@@ -6,8 +6,7 @@
 
 </noinclude>
 
-  - [9月3日](../Page/9月3日.md "wikilink")，重庆晚报报道，[重庆市](../Page/重庆市.md "wikilink")郊铁路覆盖14个发展新区
-    2020年重庆城镇人口2420万（[1](http://news.sina.com.cn/c/2011-10-28/094223377110.shtml)）。
+  - [9月3日](../Page/9月3日.md "wikilink")，重庆晚报报道，[重庆市](../Page/重庆市.md "wikilink")郊铁路覆盖14个发展新区 2020年重庆城镇人口2420万（[1](http://news.sina.com.cn/c/2011-10-28/094223377110.shtml)）。
   - [12月11日](../Page/12月11日.md "wikilink")，重庆晚报报道，[重庆推出新的校车安全标准](../Page/重庆市.md "wikilink")。全市需要大约3000辆安全校车，2011年年内推出1000辆（[2](http://www.cqwb.com.cn/cqwb/html/2011-12/11/content_295141.htm)）。
   - [12月9日](../Page/12月9日.md "wikilink")，[沙坪坝区](../Page/沙坪坝区.md "wikilink")金龙玉凤20人[涉黑案主犯李修武](https://zh.wikipedia.org/wiki/涉黑 "wikilink")[被判](../Page/有期徒刑.md "wikilink")18年并处罚金2.0315亿元，其余分别判处1年2个月至13年不等（[3](http://news.xinhuanet.com/legal/2011-12/09/c_122403087.htm)）。
   - [11月30日](../Page/11月30日.md "wikilink")，[重庆](../Page/重庆市.md "wikilink")8名90后涉恶团伙**洪星帮**主犯吴银缓刑期内再犯[强奸](../Page/强奸.md "wikilink")、[抢劫](../Page/抢劫.md "wikilink")、强迫[卖淫](https://zh.wikipedia.org/wiki/卖淫 "wikilink")、寻衅滋事罪等数罪，一审被判20年，其余7名被判处二年六个月至十七年不等（[4](http://news.xinhuanet.com/legal/2011-12/09/c_122403094.htm)）。

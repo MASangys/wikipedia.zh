@@ -1,14 +1,8 @@
-《**12A
-Acoustic**》是香港樂隊[Zarahn第二張專輯](../Page/Zarahn.md "wikilink")，並於2007年3月30、31日於ZARAHN
-12A FINAL LIVE送予現場觀眾，並於4月3日正式公開發行。
+《**12A Acoustic**》是香港樂隊[Zarahn](../Page/Zarahn.md "wikilink")第二張專輯，並於2007年3月30、31日於ZARAHN 12A FINAL LIVE送予現場觀眾，並於4月3日正式公開發行。
 
 ## 專輯介紹
 
-Zarahn樂隊有澎湃的搖滾能量，全新專輯《12A
-Acoustic》收錄了八首重新改編歌曲。Zarahn把《十二優》專輯的歌曲重新改編成清新的Acoustic版本，其中「迷戀」更化成「梳乎厘Mix」版本，抒發著難忘又動聽的愛情故事。《12A
-Acoustic》特別收錄Bonus Track「Out Of
-CTRL」。這張全新專輯把2006年專輯《[十二優](../Page/十二優.md "wikilink")》以Acoustic搖滾的音樂風格大改造，成為了《12A
-Acoustic》曲式。
+Zarahn樂隊有澎湃的搖滾能量，全新專輯《12A Acoustic》收錄了八首重新改編歌曲。Zarahn把《十二優》專輯的歌曲重新改編成清新的Acoustic版本，其中「迷戀」更化成「梳乎厘Mix」版本，抒發著難忘又動聽的愛情故事。《12A Acoustic》特別收錄Bonus Track「Out Of CTRL」。這張全新專輯把2006年專輯《[十二優](../Page/十二優.md "wikilink")》以Acoustic搖滾的音樂風格大改造，成為了《12A Acoustic》曲式。
 
 ## 曲目
 
@@ -40,6 +34,4 @@ Acoustic》曲式。
 
 12A FINAL LIVE
 
-[Category:Zarahn音樂專輯](https://zh.wikipedia.org/wiki/Category:Zarahn音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink")
+[Category:Zarahn音樂專輯](https://zh.wikipedia.org/wiki/Category:Zarahn音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:周國賢音樂專輯](https://zh.wikipedia.org/wiki/Category:周國賢音樂專輯 "wikilink")

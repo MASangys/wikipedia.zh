@@ -1,7 +1,4 @@
-《**SP
-警視廳警備部警護課第四係**》是一部從2007年11月3日到2008年1月26日間，在[富士电视](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[系每](https://zh.wikipedia.org/wiki/FNS "wikilink")
-星期六[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")11[時](https://zh.wikipedia.org/wiki/小時 "wikilink")10－55分（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）播放，而由[岡田准一主演的](../Page/岡田准一.md "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")、全11集。第一集加长15分钟。台灣[緯來日本台以](../Page/緯來日本台.md "wikilink")「**SP特勤型男**」名稱播出，香港則以「**SP特警**」名稱播出，台灣[WakuWaku
-Japan於](../Page/WakuWaku_Japan.md "wikilink")2017年7月13日起以「**SP特勤型男**」名稱播出。
+《**SP 警視廳警備部警護課第四係**》是一部從2007年11月3日到2008年1月26日間，在[富士电视](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[系每](https://zh.wikipedia.org/wiki/FNS "wikilink") 星期六[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")11[時](https://zh.wikipedia.org/wiki/小時 "wikilink")10－55分（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）播放，而由[岡田准一](../Page/岡田准一.md "wikilink")主演的[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")、全11集。第一集加长15分钟。台灣[緯來日本台](../Page/緯來日本台.md "wikilink")以「**SP特勤型男**」名稱播出，香港則以「**SP特警**」名稱播出，台灣[WakuWaku Japan於](../Page/WakuWaku_Japan.md "wikilink")2017年7月13日起以「**SP特勤型男**」名稱播出。
 
 ## 演員
 
@@ -136,8 +133,7 @@ Japan於](../Page/WakuWaku_Japan.md "wikilink")2017年7月13日起以「**SP特�
 
 ## 劇場版
 
-劇場版『[SP THE MOTION
-PICTURE](https://zh.wikipedia.org/wiki/SP_THE_MOTION_PICTURE "wikilink")』解開電視版未解的謎，2010年10月30日「野望篇」、2011年3月12日「革命篇」順次播映。
+劇場版『[SP THE MOTION PICTURE](https://zh.wikipedia.org/wiki/SP_THE_MOTION_PICTURE "wikilink")』解開電視版未解的謎，2010年10月30日「野望篇」、2011年3月12日「革命篇」順次播映。
 
 ## 外部連結
 
@@ -145,32 +141,4 @@ PICTURE](https://zh.wikipedia.org/wiki/SP_THE_MOTION_PICTURE "wikilink")』解�
 
 ## 節目的變遷
 
-[Category:富士電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週六連續劇 "wikilink")
-[Category:2007年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2007年日本電視劇集 "wikilink")
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:2008年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2008年電視特別劇集 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:2011年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2011年電視特別劇集 "wikilink")
-[Category:週六獎賞](https://zh.wikipedia.org/wiki/Category:週六獎賞 "wikilink")
-[Category:政治電視劇](https://zh.wikipedia.org/wiki/Category:政治電視劇 "wikilink")
-[Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink")
-[Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink")
-[Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink")
-[Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:2010年電影](https://zh.wikipedia.org/wiki/Category:2010年電影 "wikilink")
-[Category:2011年电影](https://zh.wikipedia.org/wiki/Category:2011年电影 "wikilink")
-[Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
-[Category:2010年代动作片](https://zh.wikipedia.org/wiki/Category:2010年代动作片 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:日本动作片](https://zh.wikipedia.org/wiki/Category:日本动作片 "wikilink")
-[Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink")
-[Category:超能力題材電影](https://zh.wikipedia.org/wiki/Category:超能力題材電影 "wikilink")
-[Category:恐怖活動電影](https://zh.wikipedia.org/wiki/Category:恐怖活動電影 "wikilink")
-[Category:富士電視台製作的電影](https://zh.wikipedia.org/wiki/Category:富士電視台製作的電影 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:預知題材作品](https://zh.wikipedia.org/wiki/Category:預知題材作品 "wikilink")
-[Category:金城一紀](https://zh.wikipedia.org/wiki/Category:金城一紀 "wikilink")
+[Category:富士電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週六連續劇 "wikilink") [Category:2007年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2007年日本電視劇集 "wikilink") [Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:2008年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2008年電視特別劇集 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:2011年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2011年電視特別劇集 "wikilink") [Category:週六獎賞](https://zh.wikipedia.org/wiki/Category:週六獎賞 "wikilink") [Category:政治電視劇](https://zh.wikipedia.org/wiki/Category:政治電視劇 "wikilink") [Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink") [Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink") [Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink") [Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:2010年電影](https://zh.wikipedia.org/wiki/Category:2010年電影 "wikilink") [Category:2011年电影](https://zh.wikipedia.org/wiki/Category:2011年电影 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:2010年代动作片](https://zh.wikipedia.org/wiki/Category:2010年代动作片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:日本动作片](https://zh.wikipedia.org/wiki/Category:日本动作片 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:超能力題材電影](https://zh.wikipedia.org/wiki/Category:超能力題材電影 "wikilink") [Category:恐怖活動電影](https://zh.wikipedia.org/wiki/Category:恐怖活動電影 "wikilink") [Category:富士電視台製作的電影](https://zh.wikipedia.org/wiki/Category:富士電視台製作的電影 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:預知題材作品](https://zh.wikipedia.org/wiki/Category:預知題材作品 "wikilink") [Category:金城一紀](https://zh.wikipedia.org/wiki/Category:金城一紀 "wikilink")

@@ -1,16 +1,12 @@
-**Google月球X大奖**（**Google Lunar X
-PRIZE**，縮寫為**GLXP**\[1\]\[2\]）是一項由[X奖基金会發起](https://zh.wikipedia.org/wiki/X奖基金会 "wikilink")，[Google](../Page/Google.md "wikilink")赞助的[太空竞赛](https://zh.wikipedia.org/wiki/太空竞赛 "wikilink")\[3\]。競賽徵求團隊讓自製的探測器登陸月球，在月面移动500米，并回传数据和清晰的影像（包含圖片和影片）至[地球](../Page/地球.md "wikilink")\[4\]。競賽的最後期限曾多番延後，最終定在2018年3月\[5\]。在2010年至2017年間，全球共有多達30支隊伍（包含合併的隊伍在內）宣布參賽。截至2017年中尚有5支隊伍留存，並簽訂發射合約\[6\]。
+**Google月球X大奖**（**Google Lunar X PRIZE**，縮寫為**GLXP**\[1\]\[2\]）是一項由[X奖基金会發起](https://zh.wikipedia.org/wiki/X奖基金会 "wikilink")，[Google](../Page/Google.md "wikilink")赞助的[太空竞赛](https://zh.wikipedia.org/wiki/太空竞赛 "wikilink")\[3\]。競賽徵求團隊讓自製的探測器登陸月球，在月面移动500米，并回传数据和清晰的影像（包含圖片和影片）至[地球](../Page/地球.md "wikilink")\[4\]。競賽的最後期限曾多番延後，最終定在2018年3月\[5\]。在2010年至2017年間，全球共有多達30支隊伍（包含合併的隊伍在內）宣布參賽。截至2017年中尚有5支隊伍留存，並簽訂發射合約\[6\]。
 
 直到期限的2018年3月底，仍然沒有一支隊伍達成發射任務，因此共計三千萬元獎金的得主最終從缺\[7\]\[8\]；但主辦方X獎基金會在同年4月初表示，月球X大獎仍將以無獎金競賽的形式繼續舉辦\[9\]。
 
 ## 競賽概況
 
-月球X大獎競賽的消息在2007年9月13日，由[美國科技雜誌](https://zh.wikipedia.org/wiki/美國 "wikilink")《[WIRED](https://zh.wikipedia.org/wiki/連線 "wikilink")》在[洛杉磯舉辦的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[Wired
-Nextfest展覽上首次公布](https://zh.wikipedia.org/wiki/Wired_Nextfest "wikilink")\[10\]，當時設下第一名的項目是在2012年結束之前登陸月球，除了要讓探測器在月面上移動500米外，還必須回傳1[G的高解析影像及數據](https://zh.wikipedia.org/wiki/十億位元組 "wikilink")\[11\]。消息公布後不久隨即引起熱議，在往後的三年間就有多達22支參賽隊伍\[12\]。然而直到2012年為止尚沒有任何一隊達成目標，因此競賽期限隨之延後至2015年末。2014年12月中旬，由於尚無達成者，加上該年內發生多起太空飛行事故</ref>。同年十月底，[維珍銀河](../Page/維珍銀河.md "wikilink")公司的[太空船2號試飛時發生墜機事故](https://zh.wikipedia.org/wiki/太空船2號 "wikilink")，造成機上人員1死1傷\[13\]。}}，為參賽者帶來經濟和科技上的困難，競賽期限因而二度延期至2016年底\[14\]。
+月球X大獎競賽的消息在2007年9月13日，由[美國科技雜誌](https://zh.wikipedia.org/wiki/美國 "wikilink")《[WIRED](https://zh.wikipedia.org/wiki/連線 "wikilink")》在[洛杉磯舉辦的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[Wired Nextfest展覽上首次公布](https://zh.wikipedia.org/wiki/Wired_Nextfest "wikilink")\[10\]，當時設下第一名的項目是在2012年結束之前登陸月球，除了要讓探測器在月面上移動500米外，還必須回傳1[G的高解析影像及數據](https://zh.wikipedia.org/wiki/十億位元組 "wikilink")\[11\]。消息公布後不久隨即引起熱議，在往後的三年間就有多達22支參賽隊伍\[12\]。然而直到2012年為止尚沒有任何一隊達成目標，因此競賽期限隨之延後至2015年末。2014年12月中旬，由於尚無達成者，加上該年內發生多起太空飛行事故</ref>。同年十月底，[維珍銀河](../Page/維珍銀河.md "wikilink")公司的[太空船2號試飛時發生墜機事故](https://zh.wikipedia.org/wiki/太空船2號 "wikilink")，造成機上人員1死1傷\[13\]。}}，為參賽者帶來經濟和科技上的困難，競賽期限因而二度延期至2016年底\[14\]。
 
-宣布期限延後至2016年的同時，主辦方也列出了但書：延期後的參賽團隊必須在2015年結束前提交一份詳述登月行程規劃的文件。另外，X大獎基金會也對有提供「與發射器供應方簽署相關聲明文件」（即發射合約）的隊伍提高獎金金額，且在延遲期限內仍享有增發獎金的福利\[15\]。隔年，X奖基金会宣布若至少有一支隊伍能在2015年12月31日前取得發射合約\[16\]，比賽最後期限將得以再度延後。至於其他隊伍則必須在2016年年底前獲得發射合約\[17\]。2015年10月，[以色列](../Page/以色列.md "wikilink")的參賽隊伍
-SpaceIL 率先提交發射合約並經主辦方認可\[18\]；同年12月，美國的 Moon Express
-也成為第二支提交發射相關文件的隊伍\[19\]，競賽截止期限因而再延後至2017年12月31日\[20\]。
+宣布期限延後至2016年的同時，主辦方也列出了但書：延期後的參賽團隊必須在2015年結束前提交一份詳述登月行程規劃的文件。另外，X大獎基金會也對有提供「與發射器供應方簽署相關聲明文件」（即發射合約）的隊伍提高獎金金額，且在延遲期限內仍享有增發獎金的福利\[15\]。隔年，X奖基金会宣布若至少有一支隊伍能在2015年12月31日前取得發射合約\[16\]，比賽最後期限將得以再度延後。至於其他隊伍則必須在2016年年底前獲得發射合約\[17\]。2015年10月，[以色列](../Page/以色列.md "wikilink")的參賽隊伍 SpaceIL 率先提交發射合約並經主辦方認可\[18\]；同年12月，美國的 Moon Express 也成為第二支提交發射相關文件的隊伍\[19\]，競賽截止期限因而再延後至2017年12月31日\[20\]。
 
 截至2015年底，月球X大獎的參賽隊伍大減至16支；當中只有5隊成功在年底前遞交發射合約，得以在往後繼續參賽。
 
@@ -236,9 +232,7 @@ launch under contract</p></td>
 
 {{-}}
 
-[Category:X獎](https://zh.wikipedia.org/wiki/Category:X獎 "wikilink")
-[Category:Google月球X大獎](https://zh.wikipedia.org/wiki/Category:Google月球X大獎 "wikilink")
-[Category:2007年建立的奬項](https://zh.wikipedia.org/wiki/Category:2007年建立的奬項 "wikilink")
+[Category:X獎](https://zh.wikipedia.org/wiki/Category:X獎 "wikilink") [Category:Google月球X大獎](https://zh.wikipedia.org/wiki/Category:Google月球X大獎 "wikilink") [Category:2007年建立的奬項](https://zh.wikipedia.org/wiki/Category:2007年建立的奬項 "wikilink")
 
 1.
 
@@ -259,24 +253,13 @@ launch under contract</p></td>
 9.
 
 10.
-11. {{ cite web | url =
-    <http://www.appledaily.com.tw/appledaily/article/international/20070915/3820729/>
-    | title = 企業登月 Google獎9.9億 | author = 張翠蘭 | date = 2007-09-15 |
-    publisher = [蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") }}
+11. {{ cite web | url = <http://www.appledaily.com.tw/appledaily/article/international/20070915/3820729/> | title = 企業登月 Google獎9.9億 | author = 張翠蘭 | date = 2007-09-15 | publisher = [蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") }}
 
-12. {{ cite web | url =
-    <http://www.appledaily.com.tw/appledaily/article/international/20101005/32861247/>
-    | title = Google登月創意賽 獎金6億 | author = 張翠蘭 | date = 2010-10-05 |
-    publisher = [蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") }}
+12. {{ cite web | url = <http://www.appledaily.com.tw/appledaily/article/international/20101005/32861247/> | title = Google登月創意賽 獎金6億 | author = 張翠蘭 | date = 2010-10-05 | publisher = [蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") }}
 
-13. {{ cite web | url =
-    <http://news.ltn.com.tw/news/life/breakingnews/1146034> | title =
-    維珍銀河太空船2號試飛墜毀 1死1重傷 | date = 2014-11-01 | publisher =
-    [自由時報](../Page/自由時報.md "wikilink") }}
+13. {{ cite web | url = <http://news.ltn.com.tw/news/life/breakingnews/1146034> | title = 維珍銀河太空船2號試飛墜毀 1死1重傷 | date = 2014-11-01 | publisher = [自由時報](../Page/自由時報.md "wikilink") }}
 
-14. {{ cite web | url = <http://tech2ipo.com/93684> | title =
-    Google登月计划将延缓至2016 | author = 王梦璇 | date = 2014-12-24 |
-    publisher = TECH2IPO 創見 }}
+14. {{ cite web | url = <http://tech2ipo.com/93684> | title = Google登月计划将延缓至2016 | author = 王梦璇 | date = 2014-12-24 | publisher = TECH2IPO 創見 }}
 
 15.
 16.
@@ -298,15 +281,11 @@ launch under contract</p></td>
 
 25.
 
-26. [Astrobotic reveals moon mission
-    plans](http://www.msnbc.msn.com/id/27463864/) *msnbc.msn.com*
+26. [Astrobotic reveals moon mission plans](http://www.msnbc.msn.com/id/27463864/) *msnbc.msn.com*
 
 27.
 
-28. Opam, Kwame. ["Moon Express unveils lunar lander design with
-    planned 2015 launch
-    date"](http://www.theverge.com/2013/12/8/5189336/moon-express-unveils-designs-for-robotic-lunar-lander),
-    Vox Media, Inc., 9 December 2013
+28. Opam, Kwame. ["Moon Express unveils lunar lander design with planned 2015 launch date"](http://www.theverge.com/2013/12/8/5189336/moon-express-unveils-designs-for-robotic-lunar-lander), Vox Media, Inc., 9 December 2013
 
 29.
 
@@ -314,8 +293,7 @@ launch under contract</p></td>
 
 31.
 
-32.  Omega Envoy's Sagan rover and Angelicvm's Dandelion rover will land
-    together. Sagan will explore first and Dandelion will follow.
+32.  Omega Envoy's Sagan rover and Angelicvm's Dandelion rover will land together. Sagan will explore first and Dandelion will follow.
 
 33.
 
@@ -324,8 +302,7 @@ launch under contract</p></td>
 
 36.
 
-37. [Announcement: New Team Name is
-    "HAKUTO"](http://www.googlelunarxprize.org/teams/white-label-space/blog/announcement-new-team-name-hakuto)
+37. [Announcement: New Team Name is "HAKUTO"](http://www.googlelunarxprize.org/teams/white-label-space/blog/announcement-new-team-name-hakuto)
 
 38.
 39.

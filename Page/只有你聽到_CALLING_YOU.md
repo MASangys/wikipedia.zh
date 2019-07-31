@@ -1,5 +1,4 @@
-《**只有你聽到 CALLING
-YOU**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")。是收錄了3部作品的短篇集。由[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")出版。2003年[廣播劇](../Page/廣播劇.md "wikilink")化，之後陸續改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
+《**只有你聽到 CALLING YOU**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")。是收錄了3部作品的短篇集。由[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")出版。2003年[廣播劇](../Page/廣播劇.md "wikilink")化，之後陸續改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 收錄作品
 
@@ -31,8 +30,7 @@ YOU**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedi
 
 ### 主題歌
 
-  - [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
-    「[只有你聽得到](https://zh.wikipedia.org/wiki/只有你聽得到 "wikilink")」
+  - [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink") 「[只有你聽得到](https://zh.wikipedia.org/wiki/只有你聽得到 "wikilink")」
 
 ## 電影『KIDS』
 
@@ -58,8 +56,7 @@ YOU**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedi
 
 ## 廣播劇「只有你聽到 CALLING YOU」
 
-以原作『**Calling You**』為基礎，以『**只有你聽得到 CALLING
-YOU**』為題的廣播劇於2003年發售。乙一本人也參加編劇，不過，與原作相比做了相當的變動。
+以原作『**Calling You**』為基礎，以『**只有你聽得到 CALLING YOU**』為題的廣播劇於2003年發售。乙一本人也參加編劇，不過，與原作相比做了相當的變動。
 
 ### 演員
 
@@ -90,11 +87,6 @@ YOU**』為題的廣播劇於2003年發售。乙一本人也參加編劇，不�
 ## 參考資料
 
   - [台灣角川『只有你聽得到』](https://web.archive.org/web/20081217095327/http://www.walkersnet.com.tw/details.asp?id=3579#Content1)
-  - [台灣角川『只有你聽得到 CALLING
-    YOU』](http://www.walkersnet.com.tw/details.asp?id=1219#)
+  - [台灣角川『只有你聽得到 CALLING YOU』](http://www.walkersnet.com.tw/details.asp?id=1219#)
 
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:2007年電影](https://zh.wikipedia.org/wiki/Category:2007年電影 "wikilink")
-[Category:2008年電影](https://zh.wikipedia.org/wiki/Category:2008年電影 "wikilink")
+[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:2007年電影](https://zh.wikipedia.org/wiki/Category:2007年電影 "wikilink") [Category:2008年電影](https://zh.wikipedia.org/wiki/Category:2008年電影 "wikilink")

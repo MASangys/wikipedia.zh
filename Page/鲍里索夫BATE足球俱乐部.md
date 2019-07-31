@@ -1,5 +1,4 @@
-**鲍里索夫BATE足球俱樂部**（，发音：\[baˈtɛ\]；），，是一家设在[波里索夫的](https://zh.wikipedia.org/wiki/鲍里索夫 "wikilink")[白俄罗斯](../Page/白俄罗斯.md "wikilink")足球俱乐部。2008年，俱乐部成为白俄罗斯足球史上第一支杀入[欧洲冠军联赛](../Page/欧洲冠军联赛.md "wikilink")小组赛阶段的球队。队名巴特（BATE）是*Borisov
-Works of Automobile and Tractor Electric Equipment*（鲍里索夫汽车与拖拉机电子设备厂）的缩写。
+**鲍里索夫BATE足球俱樂部**（，发音：\[baˈtɛ\]；），，是一家设在[波里索夫的](https://zh.wikipedia.org/wiki/鲍里索夫 "wikilink")[白俄罗斯](../Page/白俄罗斯.md "wikilink")足球俱乐部。2008年，俱乐部成为白俄罗斯足球史上第一支杀入[欧洲冠军联赛](../Page/欧洲冠军联赛.md "wikilink")小组赛阶段的球队。队名巴特（BATE）是*Borisov Works of Automobile and Tractor Electric Equipment*（鲍里索夫汽车与拖拉机电子设备厂）的缩写。
 
 球队最早成立于1973年，但是无法在苏联足球中获得真正的地位。1996年，俱乐部重新建立，参加白俄罗斯联赛，获得了5个联赛冠军和1个杯赛冠军。
 
@@ -12,8 +11,7 @@ Works of Automobile and Tractor Electric Equipment*（鲍里索夫汽车与拖�
 ## 榮譽
 
   - **[白俄羅斯足球超級聯賽](../Page/白俄羅斯足球超級聯賽.md "wikilink")**冠軍（14 次）
-      - 1999, 2002, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013,
-        2014, 2015, 2016, 2017
+      - 1999, 2002, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017
 
 <!-- end list -->
 

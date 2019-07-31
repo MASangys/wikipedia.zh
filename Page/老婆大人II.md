@@ -1,4 +1,4 @@
-《**老婆大人II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，是《[老婆大人](../Page/老婆大人_\(香港\).md "wikilink")》續集，由[宣萱及](../Page/宣萱.md "wikilink")[陳錦鴻領銜主演](../Page/陳錦鴻.md "wikilink")，並由[許紹雄](../Page/許紹雄.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[唐詩詠及](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")[李思捷聯合主演](../Page/李思捷.md "wikilink")，監製[莊偉建](../Page/莊偉建.md "wikilink")。此劇2009無綫節目精選第一季劇集之一。
+《**老婆大人II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，是《[老婆大人](../Page/老婆大人_\(香港\).md "wikilink")》續集，由[宣萱](../Page/宣萱.md "wikilink")及[陳錦鴻](../Page/陳錦鴻.md "wikilink")領銜主演，並由[許紹雄](../Page/許紹雄.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[唐詩詠及](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")[李思捷](../Page/李思捷.md "wikilink")聯合主演，監製[莊偉建](../Page/莊偉建.md "wikilink")。此劇2009無綫節目精選第一季劇集之一。
 
 ## 演員表
 
@@ -63,7 +63,7 @@ Uncle Sunshine</strong></p></td>
 梁昕昕、蘇亞基之好友兼乾兄嫂（第3集）<br />
 何秀秀之好友、情敌<br />
 於第12集確定高天及葉惠娟並非親父母<br />
-被鍾志鳴<a href="../Page/記者.md" title="wikilink">記者</a><a href="../Page/跟蹤.md" title="wikilink">跟蹤</a>、<a href="../Page/偷拍.md" title="wikilink">偷拍及滋擾</a>，可申請禁制令免<a href="https://zh.wikipedia.org/wiki/傳播媒體" title="wikilink">傳媒界侵犯其</a><a href="https://zh.wikipedia.org/wiki/私隱" title="wikilink">私隱</a>（第13集）<br />
+被鍾志鳴<a href="../Page/記者.md" title="wikilink">記者</a><a href="../Page/跟蹤.md" title="wikilink">跟蹤</a>、<a href="../Page/偷拍.md" title="wikilink">偷拍</a>及滋擾，可申請禁制令免<a href="https://zh.wikipedia.org/wiki/傳播媒體" title="wikilink">傳媒界侵犯其</a><a href="https://zh.wikipedia.org/wiki/私隱" title="wikilink">私隱</a>（第13集）<br />
 童年由<a href="https://zh.wikipedia.org/wiki/羅芷晴" title="wikilink">羅芷晴飾演</a></p></td>
 <td><p><strong>Honour<br />
 高官<br />
@@ -249,7 +249,7 @@ Uncle Sunshine</strong></p></td>
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/江漢_(香港演員)" title="wikilink">江　漢</a></p></td>
+<td></td>
 <td><p>梁　生</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞</a><a href="../Page/拿督.md" title="wikilink">拿督</a><br />
 梁昕昕之父</p></td>
@@ -258,7 +258,7 @@ Uncle Sunshine</strong></p></td>
 <tr class="odd">
 <td><p><a href="../Page/梁舜燕.md" title="wikilink">梁舜燕</a></p></td>
 <td><p>梁　太</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞</a><a href="../Page/拿督.md" title="wikilink">拿督夫人</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞</a><a href="../Page/拿督.md" title="wikilink">拿督</a>夫人<br />
 梁昕昕之母</p></td>
 <td></td>
 </tr>
@@ -364,7 +364,7 @@ Mountion</strong></p></td>
 特委裁判官（於第13集辭退此職）<br />
 香港調解協會調解員（第17集始）<br />
 WE Rap Bar股東之一<br />
-<a href="../Page/滑浪風帆.md" title="wikilink">滑浪風帆教練</a><br />
+<a href="../Page/滑浪風帆.md" title="wikilink">滑浪風帆</a>教練<br />
 葛寶怡之男友<br />
 Ling之前男友<br />
 羅浩祈、張德華之好友<br />
@@ -742,7 +742,7 @@ Ling之前男友<br />
 <tr class="odd">
 <td><p><a href="../Page/蘇恩磁.md" title="wikilink">蘇恩磁</a></p></td>
 <td><p>勞玉萍</p></td>
-<td><p><a href="../Page/法庭.md" title="wikilink">法庭清潔大嬸</a>（第2集）<br />
+<td><p><a href="../Page/法庭.md" title="wikilink">法庭</a>清潔大嬸（第2集）<br />
 馬齊仁之外遇對象<br />
 與劉芳爭奪其男友馬齊仁的骨灰（編號：KCC24523）<br />
 需將骨灰歸還劉芳</p></td>
@@ -757,7 +757,7 @@ Ling之前男友<br />
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/單俊偉" title="wikilink">單俊偉</a></p></td>
-<td><p><a href="../Page/婚紗.md" title="wikilink">婚紗照</a><a href="https://zh.wikipedia.org/wiki/攝影師" title="wikilink">攝影師</a></p></td>
+<td><p><a href="../Page/婚紗.md" title="wikilink">婚紗</a>照<a href="https://zh.wikipedia.org/wiki/攝影師" title="wikilink">攝影師</a></p></td>
 <td><p>（第2集）</p></td>
 <td></td>
 </tr>
@@ -777,14 +777,14 @@ Ling之前男友<br />
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td><p>師　奶</p></td>
-<td><p>劉全<a href="../Page/臭豆腐.md" title="wikilink">臭豆腐攤樓上住戶</a>（第3集）<br />
-對劉全的<a href="../Page/臭豆腐.md" title="wikilink">臭豆腐忍無可忍而告上法庭</a></p></td>
+<td><p>劉全<a href="../Page/臭豆腐.md" title="wikilink">臭豆腐</a>攤樓上住戶（第3集）<br />
+對劉全的<a href="../Page/臭豆腐.md" title="wikilink">臭豆腐</a>忍無可忍而告上法庭</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>家　勇</p></td>
-<td><p>劉全<a href="../Page/臭豆腐.md" title="wikilink">臭豆腐攤樓上師奶之子</a>（第3集）</p></td>
+<td><p>劉全<a href="../Page/臭豆腐.md" title="wikilink">臭豆腐</a>攤樓上師奶之子（第3集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -840,7 +840,7 @@ Ling之前男友<br />
 <td><p><strong>殷　傑</strong></p></td>
 <td><p>何秀秀之前夫（第5集出現）<br />
 殷晓明之父<br />
-帶殷晓明<a href="../Page/移民.md" title="wikilink">移民至</a><a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國生活</a><br />
+帶殷晓明<a href="../Page/移民.md" title="wikilink">移民</a>至<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國生活</a><br />
 來港被控虐兒，以及跟何秀秀爭兒子的撫養權，後庭外和解（第13集）<br />
 在<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國跟Jenny結婚</a>（第19集）</p></td>
 <td></td>
@@ -852,7 +852,7 @@ Ling之前男友<br />
 高天、葉惠娟之外孫<br />
 資優兒童，智商達180<br />
 喜歡足球<br />
-跟殷傑<a href="../Page/移民.md" title="wikilink">移民至</a><a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國生活</a></p></td>
+跟殷傑<a href="../Page/移民.md" title="wikilink">移民</a>至<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國生活</a></p></td>
 <td><p><strong>明仔</strong></p></td>
 </tr>
 <tr class="even">
@@ -932,7 +932,7 @@ Winnie之男友</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/張笑千" title="wikilink">張笑千</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/電腦" title="wikilink">電腦</a><a href="../Page/商場.md" title="wikilink">商場職員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電腦" title="wikilink">電腦</a><a href="../Page/商場.md" title="wikilink">商場</a>職員</p></td>
 <td><p>（第5集）</p></td>
 <td></td>
 </tr>
@@ -1112,7 +1112,7 @@ Winnie之男友</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曾健明.md" title="wikilink">曾健明</a></p></td>
-<td><p><a href="../Page/商場.md" title="wikilink">商場途人</a></p></td>
+<td><p><a href="../Page/商場.md" title="wikilink">商場</a>途人</p></td>
 <td><p>（第10集）</p></td>
 <td></td>
 </tr>
@@ -1630,7 +1630,7 @@ Winnie之男友</p></td>
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")之收視紀錄：
 
 |        |                  |                                                     |                                                     |         |
 | ------ | ---------------- | --------------------------------------------------- | --------------------------------------------------- | ------- |
@@ -1643,30 +1643,19 @@ Winnie之男友</p></td>
 
 ## 外部連結
 
-  - [《老婆大人II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222155916/http://gotv.tvb.com/programme/102314/148083/)
+  - [《老婆大人II》 GOTV 第1集重溫](https://web.archive.org/web/20140222155916/http://gotv.tvb.com/programme/102314/148083/)
 
 ## 電視節目的變遷
 
 |align="center" colspan="6"|[畢打自己人](../Page/畢打自己人.md "wikilink")
 2008年10月20日-2010年2月12日 |- |align="center" colspan="2"|**上一套：**
 [幕後大老爺](../Page/幕後大老爺.md "wikilink")
-\-5月1日 |align="center" colspan="3"
-|**翡翠台／高清翡翠台第二綫劇集（[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第二線劇集 "wikilink")）**
+\-5月1日 |align="center" colspan="3" |**翡翠台／高清翡翠台第二綫劇集（[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第二線劇集 "wikilink")）**
 **老婆大人II**
 5月4日-6月5日 |align="center"|**下一套：**
 [碧血鹽梟](../Page/碧血鹽梟.md "wikilink")
-6月8日- |- |align="center"
-colspan="4"|[巾幗梟雄](../Page/巾幗梟雄.md "wikilink")
-\-5月29日 |align="center" colspan="2"|[ID
-精英](https://zh.wikipedia.org/wiki/ID_精英 "wikilink")
+6月8日- |- |align="center" colspan="4"|[巾幗梟雄](../Page/巾幗梟雄.md "wikilink")
+\-5月29日 |align="center" colspan="2"|[ID 精英](https://zh.wikipedia.org/wiki/ID_精英 "wikilink")
 6月1日-
 
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:2009年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2009年無綫電視劇集 "wikilink")
-[Category:2009年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2009年AOD電視劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:無綫電視家庭劇集](https://zh.wikipedia.org/wiki/Category:無綫電視家庭劇集 "wikilink")
-[Category:無綫電視律政劇集](https://zh.wikipedia.org/wiki/Category:無綫電視律政劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:香港圍村背景電視劇](https://zh.wikipedia.org/wiki/Category:香港圍村背景電視劇 "wikilink")
+[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:2009年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2009年無綫電視劇集 "wikilink") [Category:2009年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2009年AOD電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:無綫電視家庭劇集](https://zh.wikipedia.org/wiki/Category:無綫電視家庭劇集 "wikilink") [Category:無綫電視律政劇集](https://zh.wikipedia.org/wiki/Category:無綫電視律政劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:香港圍村背景電視劇](https://zh.wikipedia.org/wiki/Category:香港圍村背景電視劇 "wikilink")

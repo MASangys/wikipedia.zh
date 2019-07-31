@@ -15,23 +15,17 @@
 | 武裝                                                                                                       |
 | 特殊裝置                                                                                                     |
 
-**GN-006 智天使鋼彈（Cherudim
-Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
-Suit），由洛克昂·史特拉托斯（萊爾·狄蘭迪）所駕駛。
+**GN-006 智天使鋼彈（Cherudim Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile Suit），由洛克昂·史特拉托斯（萊爾·狄蘭迪）所駕駛。
 
 ## 介紹
 
 天上人的第四世代GUNDAM之一，於2312年首次登場。
 
-本機為[GN-002
-力天使GUNDAM的後繼機](../Page/GN-002_力天使GUNDAM.md "wikilink")，同為擅長狙擊的機體，但基本性能較前一代更為提高。
+本機為[GN-002 力天使GUNDAM的後繼機](../Page/GN-002_力天使GUNDAM.md "wikilink")，同為擅長狙擊的機體，但基本性能較前一代更為提高。
 
 與前一代最大的不同點在於格鬥戰以及防禦用武裝。
 
-格鬥戰方面，經由分析力天使的實戰數據，GN粒子束軍刀被廢除，取而代之的是在接近戰用的GN粒子束手槍Ⅱ（GN Beam Pistol
-Ⅱ）追加能夠抵擋敵機GN粒子束軍刀的機能。防禦用武裝則是掛接在全身的GN浮游盾(GN Shield
-Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位的防禦力。
+格鬥戰方面，經由分析力天使的實戰數據，GN粒子束軍刀被廢除，取而代之的是在接近戰用的GN粒子束手槍Ⅱ（GN Beam Pistol Ⅱ）追加能夠抵擋敵機GN粒子束軍刀的機能。防禦用武裝則是掛接在全身的GN浮游盾(GN Shield Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位的防禦力。
 
   - 名稱由來
 
@@ -65,9 +59,7 @@ Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位的防�
 <!-- end list -->
 
   -
-    與變革者機體「[GNZ-007
-    加迪斯](https://zh.wikipedia.org/wiki/GNZ-007_加迪斯 "wikilink")」交戰，於使用Trans-AM系統後一度佔優，但因敵機駕駛員艾紐被控制思想導致形勢被扭轉，GN盾牌單元、左臂及左腳被削去。敵機作致命一擊前被[Trans-AM
-    Raiser救下](https://zh.wikipedia.org/wiki/GN-0000_00_GUNDAM#GN-0000+GNR-010_00強化模組（00_Raiser） "wikilink")。
+    與變革者機體「[GNZ-007 加迪斯](https://zh.wikipedia.org/wiki/GNZ-007_加迪斯 "wikilink")」交戰，於使用Trans-AM系統後一度佔優，但因敵機駕駛員艾紐被控制思想導致形勢被扭轉，GN盾牌單元、左臂及左腳被削去。敵機作致命一擊前被[Trans-AM Raiser救下](https://zh.wikipedia.org/wiki/GN-0000_00_GUNDAM#GN-0000+GNR-010_00強化模組（00_Raiser） "wikilink")。
 
 <!-- end list -->
 
@@ -76,9 +68,7 @@ Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位的防�
 <!-- end list -->
 
   -
-    在變革者宇宙母艦「天上人」內部與[GNW-20000
-    權天使GUNDAM交戰](https://zh.wikipedia.org/wiki/GNW-20000_權天使GUNDAM "wikilink")，右腳被砍斷並處於劣勢，其後因[GN-009
-    天使長GUNDAM使用審判系統癱瘓敵機系統而成功把敵機摧毀](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM "wikilink")。
+    在變革者宇宙母艦「天上人」內部與[GNW-20000 權天使GUNDAM交戰](https://zh.wikipedia.org/wiki/GNW-20000_權天使GUNDAM "wikilink")，右腳被砍斷並處於劣勢，其後因[GN-009 天使長GUNDAM使用審判系統癱瘓敵機系統而成功把敵機摧毀](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM "wikilink")。
 
 <!-- end list -->
 
@@ -95,8 +85,7 @@ Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位的防�
 
 遠距離狙擊用步槍，是力天使GUNDAM的步槍發展型。
 
-步槍上的水晶傳感器由天上人獨自開發，也採用在[00
-GUNDAM的GN劍](../Page/GN-0000_00_GUNDAM.md "wikilink")Ⅱ上。
+步槍上的水晶傳感器由天上人獨自開發，也採用在[00 GUNDAM的GN劍](../Page/GN-0000_00_GUNDAM.md "wikilink")Ⅱ上。
 
 槍身可以摺疊變更為「三連火神砲模式」（Tri-Vulcan Mode），適合用在中距離和近距離戰鬥。
 
@@ -110,8 +99,7 @@ GUNDAM的GN劍](../Page/GN-0000_00_GUNDAM.md "wikilink")Ⅱ上。
 
 基路迪高達最獨特之武裝為掛置在全身的GN浮游盾，提供了比力天使GUNDAM的GN全覆護盾更全方位的防禦力。控制由哈囉負責，使洛克昂可以集中精力在射擊上。
 
-可從本體分離、連結與單獨遙控（類似[座天使GUNDAM二型的GN浮游砲](https://zh.wikipedia.org/wiki/座天使GUNDAM二型 "wikilink")）。除可作為實體盾牌防禦，也可利用內藏之GN光束槍（GN
-Beam Gun）進行射擊，4個GN浮游盾結合即成為攻擊模式（Assault Mode），但因沒有尖銳的外型而不能如GN浮游砲般進行實體攻擊。
+可從本體分離、連結與單獨遙控（類似[座天使GUNDAM二型的GN浮游砲](https://zh.wikipedia.org/wiki/座天使GUNDAM二型 "wikilink")）。除可作為實體盾牌防禦，也可利用內藏之GN光束槍（GN Beam Gun）進行射擊，4個GN浮游盾結合即成為攻擊模式（Assault Mode），但因沒有尖銳的外型而不能如GN浮游砲般進行實體攻擊。
 
 ### GN飛彈（GN Missile）×32
 
@@ -147,8 +135,7 @@ Beam Gun）進行射擊，4個GN浮游盾結合即成為攻擊模式（Assault M
 
 相較於第三世代GUNDAM的GN-Drive皆裝在胸部，本機則是改為裝置於腰後面。將GN盾bit卸除後就能發現其GN-Drive幾乎是獨立在機體外的。
 
-這是考慮到GN-Drive內的「拓撲缺陷（Topological
-Defect）」對空間會造成微弱影響，同時也為了更有效率的傳送GN粒子至GN盾牌bit。可是相對的，如果在戰鬥中損失GN盾bit，就很可能導致GN-Drive缺乏保護而外露。
+這是考慮到GN-Drive內的「拓撲缺陷（Topological Defect）」對空間會造成微弱影響，同時也為了更有效率的傳送GN粒子至GN盾牌bit。可是相對的，如果在戰鬥中損失GN盾bit，就很可能導致GN-Drive缺乏保護而外露。
 
 ## 變化型
 
@@ -225,12 +212,9 @@ Defect）」對空間會造成微弱影響，同時也為了更有效率的傳�
 
 官方外傳《機動戰士GUNDAM 00V》及《機動戰士GUNDAM 00I 2314》中登場，搭載「七槍」裝備的智天使鋼彈。
 
-本武裝使用於突入基地設施內的任務，因此將所有槍皆變更為短槍身，全身裝備著七支槍。槍的數目是負責設計的伊恩·瓦斯提刻意與[能天使GUNDAM的](https://zh.wikipedia.org/wiki/能天使GUNDAM "wikilink")「七劍（Seven
-Sword）」相同而設的，本機實際的開發代號也被稱為「七槍（Seven
-Gun）」。為了應付中距離及近距離戰鬥，頭部搭載了專用的（狙擊時會滑向斜前方）水晶傳感鏡頭，左胸亦有小型的傳感鏡頭，此外使用GN小型盾牌替代了不適合在狹窄空間使用的GN浮游盾。
+本武裝使用於突入基地設施內的任務，因此將所有槍皆變更為短槍身，全身裝備著七支槍。槍的數目是負責設計的伊恩·瓦斯提刻意與[能天使GUNDAM的](https://zh.wikipedia.org/wiki/能天使GUNDAM "wikilink")「七劍（Seven Sword）」相同而設的，本機實際的開發代號也被稱為「七槍（Seven Gun）」。為了應付中距離及近距離戰鬥，頭部搭載了專用的（狙擊時會滑向斜前方）水晶傳感鏡頭，左胸亦有小型的傳感鏡頭，此外使用GN小型盾牌替代了不適合在狹窄空間使用的GN浮游盾。
 
-在00I
-2314已成為天使所用的3台GUNDAM之一（在宇宙所使用），由尼奧·吉克（前人革聯軍超兵李奧納多·范恩斯）駕駛。在第一話用作守衛天使的基地用，並擊毁幾部地球聯邦的鐵人太空型。
+在00I 2314已成為天使所用的3台GUNDAM之一（在宇宙所使用），由尼奧·吉克（前人革聯軍超兵李奧納多·范恩斯）駕駛。在第一話用作守衛天使的基地用，並擊毁幾部地球聯邦的鐵人太空型。
 
   - 高度：18.0公尺
   - 重量：62.7公噸（七槍型裝備重量3.8公噸）

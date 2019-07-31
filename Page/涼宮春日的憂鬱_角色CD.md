@@ -1,6 +1,4 @@
-**涼宮春日的憂鬱
-角色CD**是從2006年7月5日到2007年2月21日由[Lantis](../Page/Lantis.md "wikilink")發行的一連串[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年再發行**涼宮春日的憂鬱
-新角色CD**，從2009年9月30日到2009年12月9日由[Lantis](../Page/Lantis.md "wikilink")發行。
+**涼宮春日的憂鬱 角色CD**是從2006年7月5日到2007年2月21日由[Lantis](../Page/Lantis.md "wikilink")發行的一連串[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年再發行**涼宮春日的憂鬱 新角色CD**，從2009年9月30日到2009年12月9日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 概要
 
@@ -272,56 +270,38 @@
 
   - 涼宮春日的憂鬱 角色CD
 
-      - [涼宮春日的憂鬱 角色CD Vol.1
-        涼宮春日](http://www.lantis.jp/new-release/data.php?id=d6e41ab22d900dc3ac5fd1ac89594efb)
+      - [涼宮春日的憂鬱 角色CD Vol.1 涼宮春日](http://www.lantis.jp/new-release/data.php?id=d6e41ab22d900dc3ac5fd1ac89594efb)
 
-      - [涼宮春日的憂鬱 角色CD Vol.2
-        長門有希](http://www.lantis.jp/new-release/data.php?id=86267496249d92a877cb978a1a94a1eb)
+      - [涼宮春日的憂鬱 角色CD Vol.2 長門有希](http://www.lantis.jp/new-release/data.php?id=86267496249d92a877cb978a1a94a1eb)
 
-      - [涼宮春日的憂鬱 角色CD Vol.3
-        朝比奈實玖瑠](http://www.lantis.jp/new-release/data.php?id=23fc315ba722afe29cfeddec1ee71e2b)
+      - [涼宮春日的憂鬱 角色CD Vol.3 朝比奈實玖瑠](http://www.lantis.jp/new-release/data.php?id=23fc315ba722afe29cfeddec1ee71e2b)
 
-      - [涼宮春日的憂鬱 角色CD Vol.4
-        鶴屋學姊](http://www.lantis.jp/new-release/data.php?id=8ae6ec4ffb60634f8b3dc72cbeedf0bc)
+      - [涼宮春日的憂鬱 角色CD Vol.4 鶴屋學姊](http://www.lantis.jp/new-release/data.php?id=8ae6ec4ffb60634f8b3dc72cbeedf0bc)
 
-      - [涼宮春日的憂鬱 角色CD Vol.5
-        朝倉涼子](http://www.lantis.jp/new-release/data.php?id=66e9d869dcf2b145602fc9894daefad3)
+      - [涼宮春日的憂鬱 角色CD Vol.5 朝倉涼子](http://www.lantis.jp/new-release/data.php?id=66e9d869dcf2b145602fc9894daefad3)
 
-      - [涼宮春日的憂鬱 角色CD Vol.6
-        虛妹](http://www.lantis.jp/new-release/data.php?id=667c39f9e22b950e0ca5f43d3f276ff8)
+      - [涼宮春日的憂鬱 角色CD Vol.6 虛妹](http://www.lantis.jp/new-release/data.php?id=667c39f9e22b950e0ca5f43d3f276ff8)
 
-      - [涼宮春日的憂鬱 角色CD Vol.7
-        喜綠江美里](http://www.lantis.jp/new-release/data.php?id=bc4b2b622f1461417c498702c822a8e7)
+      - [涼宮春日的憂鬱 角色CD Vol.7 喜綠江美里](http://www.lantis.jp/new-release/data.php?id=bc4b2b622f1461417c498702c822a8e7)
 
-      - [涼宮春日的憂鬱 角色CD Vol.8
-        古泉一樹](http://www.lantis.jp/new-release/data.php?id=9e33e40abb221c8217d6ba666c352a55)
+      - [涼宮春日的憂鬱 角色CD Vol.8 古泉一樹](http://www.lantis.jp/new-release/data.php?id=9e33e40abb221c8217d6ba666c352a55)
 
-      - [涼宮春日的憂鬱 角色CD Vol.9
-        阿虛](http://www.lantis.jp/new-release/data.php?id=3af4f0ebd7d8fa1fda606f756096af53)
+      - [涼宮春日的憂鬱 角色CD Vol.9 阿虛](http://www.lantis.jp/new-release/data.php?id=3af4f0ebd7d8fa1fda606f756096af53)
 
   - 涼宮春日的憂鬱 新角色CD
 
-      - [涼宮春日的憂鬱 新角色CD Vol.1
-        涼宮春日](http://www.lantis.jp/new-release/data.php?id=a3b5ec59103a753a56deba806308d97a)
+      - [涼宮春日的憂鬱 新角色CD Vol.1 涼宮春日](http://www.lantis.jp/new-release/data.php?id=a3b5ec59103a753a56deba806308d97a)
 
-      - [涼宮春日的憂鬱 新角色CD Vol.2
-        長門有希](http://www.lantis.jp/new-release/data.php?id=e2be6b54b8c8157844a33f7e6917d659)
+      - [涼宮春日的憂鬱 新角色CD Vol.2 長門有希](http://www.lantis.jp/new-release/data.php?id=e2be6b54b8c8157844a33f7e6917d659)
 
-      - [涼宮春日的憂鬱 新角色CD Vol.3
-        朝比奈實玖瑠](http://www.lantis.jp/new-release/data.php?id=981d7ea5e6766c4a2c48ee53642753bb)
+      - [涼宮春日的憂鬱 新角色CD Vol.3 朝比奈實玖瑠](http://www.lantis.jp/new-release/data.php?id=981d7ea5e6766c4a2c48ee53642753bb)
 
-      - [涼宮春日的憂鬱 新角色CD Vol.4
-        古泉一樹](http://www.lantis.jp/new-release/data.php?id=aff95a486a3557c29ea2c340b413a42d)
+      - [涼宮春日的憂鬱 新角色CD Vol.4 古泉一樹](http://www.lantis.jp/new-release/data.php?id=aff95a486a3557c29ea2c340b413a42d)
 
-      - [涼宮春日的憂鬱 新角色CD Vol.5
-        阿虛](http://www.lantis.jp/new-release/data.php?id=cbe32f8b891fc4e93cfa3fb0cfdcb4de)
+      - [涼宮春日的憂鬱 新角色CD Vol.5 阿虛](http://www.lantis.jp/new-release/data.php?id=cbe32f8b891fc4e93cfa3fb0cfdcb4de)
 
-      - [涼宮春日的憂鬱 新角色CD Vol.6
-        鶴屋學姊](http://www.lantis.jp/new-release/data.php?id=13315b7e77c16ca5520da052ae31748e)
+      - [涼宮春日的憂鬱 新角色CD Vol.6 鶴屋學姊](http://www.lantis.jp/new-release/data.php?id=13315b7e77c16ca5520da052ae31748e)
 
-      - [涼宮春日的憂鬱 新角色CD Vol.7
-        谷口](http://www.lantis.jp/new-release/data.php?id=f183e9faddaa8d65a9222819a1868e01)
+      - [涼宮春日的憂鬱 新角色CD Vol.7 谷口](http://www.lantis.jp/new-release/data.php?id=f183e9faddaa8d65a9222819a1868e01)
 
-[Category:涼宮春日歌曲](https://zh.wikipedia.org/wiki/Category:涼宮春日歌曲 "wikilink")
-[Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
+[Category:涼宮春日歌曲](https://zh.wikipedia.org/wiki/Category:涼宮春日歌曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")

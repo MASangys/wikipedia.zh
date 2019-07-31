@@ -1,10 +1,8 @@
-《**ONE PIECE THE MOVIE 喬巴身世之謎：冬季綻放、奇跡的櫻花**》是於2008年上映的第九部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。曾得到第32屆[日本電影金像獎](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")。
+《**ONE PIECE THE MOVIE 喬巴身世之謎：冬季綻放、奇跡的櫻花**》是於2008年上映的第九部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。曾得到第32屆[日本電影金像獎](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")。
 
 ## 製作
 
-《ONE
-PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇）電影化，重新繪製成這套劇場版，與原作不同在於這次劇場版，是一種平行世界的改編方式，因此在劇情上與原作有區別。
+《ONE PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇）電影化，重新繪製成這套劇場版，與原作不同在於這次劇場版，是一種平行世界的改編方式，因此在劇情上與原作有區別。
 
 ### 與原作的區別
 
@@ -161,25 +159,16 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 <!-- end list -->
 
   -
-    作詞：[吉田美和](../Page/吉田美和.md "wikilink") /
-    作曲：[中村正人](https://zh.wikipedia.org/wiki/中村正人 "wikilink")・吉田美和
-    / 編曲：中村正人 / 主唱：[DREAMS COME
-    TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
+    作詞：[吉田美和](../Page/吉田美和.md "wikilink") / 作曲：[中村正人](https://zh.wikipedia.org/wiki/中村正人 "wikilink")・吉田美和 / 編曲：中村正人 / 主唱：[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
 
 ## 參考
 
 ## 外部連結
 
-  - [2008劇場版ワンピース
-    公式サイト](http://www.toei-anim.co.jp/movie/2008_onepiece/)
+  - [2008劇場版ワンピース 公式サイト](http://www.toei-anim.co.jp/movie/2008_onepiece/)
 
-  - [航海王 THE MOVIE 喬巴身世之謎　冬季錠放、奇跡的桜花
-    中文官方網站](http://toei-anim-contents.net/international/onepiece/chopper/index.html)
+  - [航海王 THE MOVIE 喬巴身世之謎　冬季錠放、奇跡的桜花 中文官方網站](http://toei-anim-contents.net/international/onepiece/chopper/index.html)
 
-[ru:Список анимационных фильмов о One Piece\#Фильм
-девятый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_девятый "wikilink")
+[ru:Список анимационных фильмов о One Piece\#Фильм девятый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_девятый "wikilink")
 
-[Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink")
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2008年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2008年日本劇場動畫 "wikilink")
-[Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")
+[Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink") [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2008年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2008年日本劇場動畫 "wikilink") [Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")

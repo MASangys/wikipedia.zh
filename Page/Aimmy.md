@@ -1,5 +1,4 @@
-**Aimmy**（），[日本](../Page/日本.md "wikilink")女歌手。本名**渡邊愛未**（）。[大阪府出身](https://zh.wikipedia.org/wiki/大阪府 "wikilink")。血型A型。[SISTUS
-RECORDS](https://zh.wikipedia.org/wiki/SISTUS_RECORDS "wikilink")、[GENEON所属](https://zh.wikipedia.org/wiki/GENEON "wikilink")。
+**Aimmy**（），[日本](../Page/日本.md "wikilink")女歌手。本名**渡邊愛未**（）。[大阪府出身](https://zh.wikipedia.org/wiki/大阪府 "wikilink")。血型A型。[SISTUS RECORDS](https://zh.wikipedia.org/wiki/SISTUS_RECORDS "wikilink")、[GENEON所属](https://zh.wikipedia.org/wiki/GENEON "wikilink")。
 
 ## 概要
 
@@ -9,8 +8,7 @@ RECORDS](https://zh.wikipedia.org/wiki/SISTUS_RECORDS "wikilink")、[GENEON所�
 
 自幼在還是小学生的時候，受當時的流行偶像[SPEED及](../Page/SPEED_\(日本音樂團體\).md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")等影響，憧憬著成為歌手。於是自己開始嘗試著[作詞及](https://zh.wikipedia.org/wiki/作詞 "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")\[1\]。
 
-2003年，16歳的時候，經友人介紹，與出羽良彰認識并組成組合\[2\]，2004年樹海開始以[大阪府為中心展開音樂活動](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，2006年3月，[SISTUS
-RECORDS出版第一張](https://zh.wikipedia.org/wiki/SISTUS_RECORDS "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")「」。
+2003年，16歳的時候，經友人介紹，與出羽良彰認識并組成組合\[2\]，2004年樹海開始以[大阪府為中心展開音樂活動](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，2006年3月，[SISTUS RECORDS出版第一張](https://zh.wikipedia.org/wiki/SISTUS_RECORDS "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")「」。
 
 以後，一直擔任樹海的主唱歌手，2008年7月，宣布開始以獨立歌手的身份展開音樂活動，負責[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[毀滅世界的六人](https://zh.wikipedia.org/wiki/毀滅世界的六人 "wikilink")》[主題曲](../Page/主題曲.md "wikilink")的演唱工作。[2008年9月24日](https://zh.wikipedia.org/wiki/2008年9月24日 "wikilink")，[雙A面單曲](https://zh.wikipedia.org/wiki/雙A面單曲 "wikilink")「」發售。
 
@@ -33,16 +31,10 @@ RECORDS出版第一張](https://zh.wikipedia.org/wiki/SISTUS_RECORDS "wikilink")
 ## 外部連結
 
   - \*[官方网站](https://web.archive.org/web/20091216131721/http://www.aimmy.jp/)
-  - [AimmyオフィシャルブログPowered by
-    Ameba](http://ameblo.jp/aimmy/)（2008年10月7日〜）
-  - [渡辺マナミ+\*（樹海・Aimmy)
-    Twitter](https://twitter.com/manami1228)（2010年4月〜）
+  - [AimmyオフィシャルブログPowered by Ameba](http://ameblo.jp/aimmy/)（2008年10月7日〜）
+  - [渡辺マナミ+\*（樹海・Aimmy) Twitter](https://twitter.com/manami1228)（2010年4月〜）
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
-[Category:樹海](https://zh.wikipedia.org/wiki/Category:樹海 "wikilink")
-[Category:NBC環球娛樂藝人](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink") [Category:樹海](https://zh.wikipedia.org/wiki/Category:樹海 "wikilink") [Category:NBC環球娛樂藝人](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂藝人 "wikilink")
 
 1.  『プレザンテ vol.4』「アニメのタイアップで話題のユニット 樹海」（ART COMMUNICATION社刊、2006年12月25日）
 2.

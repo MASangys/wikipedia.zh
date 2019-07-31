@@ -18,10 +18,7 @@
 
 ## 应用
 
-此反应自发现起在合成中应用较少。2002年，有人将其用于萜类 gleenol
-的全合成中，利用了该反应条件温和、反应试剂亦非碱性试剂的特点。\[5\]
-同年 Oesterreich 等将此反应与 [Grubbs
-反应的](https://zh.wikipedia.org/wiki/Grubbs反应 "wikilink")[一锅反应应用于合成](https://zh.wikipedia.org/wiki/一锅反应 "wikilink")。\[6\]
+此反应自发现起在合成中应用较少。2002年，有人将其用于萜类 gleenol 的全合成中，利用了该反应条件温和、反应试剂亦非碱性试剂的特点。\[5\] 同年 Oesterreich 等将此反应与 [Grubbs 反应的](https://zh.wikipedia.org/wiki/Grubbs反应 "wikilink")[一锅反应应用于合成](https://zh.wikipedia.org/wiki/一锅反应 "wikilink")。\[6\]
 
 ## 参见
 
@@ -31,18 +28,11 @@
 
 ## 参考资料
 
-[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
-1.  T. Kauffmann, M. Papenberg, R. Wieschollek, J. Sander: In *Chem.
-    Ber.* **1992**, *125*, 143-148
-2.  T. Kauffmann, P. Fiegenbaum, M. Papenberg, R. Wieschollek, D.
-    Wingbermühl: In *Chem. Ber.* **1993**, *126*, 79-87
-3.  T. Kauffmann, J. Braune, P. Fiegenbaum, U. Hansmersmann, C.
-    Neiteler, M. Papenberg, R. Wiescholleck: In *Chem. Ber.* **1993**,
-    *126*, 89-96
+1.  T. Kauffmann, M. Papenberg, R. Wieschollek, J. Sander: In *Chem. Ber.* **1992**, *125*, 143-148
+2.  T. Kauffmann, P. Fiegenbaum, M. Papenberg, R. Wieschollek, D. Wingbermühl: In *Chem. Ber.* **1993**, *126*, 79-87
+3.  T. Kauffmann, J. Braune, P. Fiegenbaum, U. Hansmersmann, C. Neiteler, M. Papenberg, R. Wiescholleck: In *Chem. Ber.* **1993**, *126*, 89-96
 4.  T. Kauffmann: In *Angew. Chem.* **1997**, *109*, 1312-1329
-5.  K. Oesterreich, D. Spitzner: In *Tetrahedron* **2002**, *58*,
-    4331-4334
-6.  K. Oesterreich, I. Klein, D. Spitzner: In *Synlett* **2002**,
-    1712-1714
+5.  K. Oesterreich, D. Spitzner: In *Tetrahedron* **2002**, *58*, 4331-4334
+6.  K. Oesterreich, I. Klein, D. Spitzner: In *Synlett* **2002**, 1712-1714

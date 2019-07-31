@@ -1,7 +1,4 @@
-**Le tea
-girls**選拔賽是由[豐年豐和企業](https://zh.wikipedia.org/wiki/豐年豐和企業 "wikilink")「樂堤」（Le
-tea）系列[茶](../Page/茶.md "wikilink")[飲料](https://zh.wikipedia.org/wiki/飲料 "wikilink")、[Channel
-V與](../Page/Channel_V.md "wikilink")[伊美居傳播合辦](https://zh.wikipedia.org/wiki/伊美居傳播 "wikilink")，是徵選未來之星的活動，透過試鏡、專業評審投票以及網路投票等方式選出獲勝佳麗。最後選出冠、亞軍各一名，季軍三名以及優勝十五人。
+**Le tea girls**選拔賽是由[豐年豐和企業](https://zh.wikipedia.org/wiki/豐年豐和企業 "wikilink")「樂堤」（Le tea）系列[茶](../Page/茶.md "wikilink")[飲料](https://zh.wikipedia.org/wiki/飲料 "wikilink")、[Channel V與](../Page/Channel_V.md "wikilink")[伊美居傳播合辦](https://zh.wikipedia.org/wiki/伊美居傳播 "wikilink")，是徵選未來之星的活動，透過試鏡、專業評審投票以及網路投票等方式選出獲勝佳麗。最後選出冠、亞軍各一名，季軍三名以及優勝十五人。
 
 ## 參賽者一覽
 
@@ -32,7 +29,6 @@ V與](../Page/Channel_V.md "wikilink")[伊美居傳播合辦](https://zh.wikiped
 
 ## 外部連結
 
-  - [Le tea
-    girls選拔賽](https://web.archive.org/web/20071009130751/http://blackie.channelv.com/letea/letea_index.shtm)
+  - [Le tea girls選拔賽](https://web.archive.org/web/20071009130751/http://blackie.channelv.com/letea/letea_index.shtm)
 
 [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")

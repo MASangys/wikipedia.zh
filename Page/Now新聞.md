@@ -1,9 +1,6 @@
-[HK_Telecom_House_201612.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_201612.jpg "fig:HK_Telecom_House_201612.jpg")
-**Now新聞**（前稱：Now寬頻電視新聞；）是[Now
-TV自製和轉播的](https://zh.wikipedia.org/wiki/Now_TV "wikilink")[新聞節目](../Page/新聞節目.md "wikilink")，自家建立並擁有[now直播台](https://zh.wikipedia.org/wiki/now直播台 "wikilink")（331頻道）、[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")（332頻道）、[now財經台](https://zh.wikipedia.org/wiki/now財經台 "wikilink")（333頻道）、[now報價台](https://zh.wikipedia.org/wiki/now報價台 "wikilink")（336頻道）、[交通頻道](https://zh.wikipedia.org/wiki/now寬頻電視交通頻道 "wikilink")（375頻道）、[天氣頻道](https://zh.wikipedia.org/wiki/now寬頻電視天氣頻道 "wikilink")（376頻道）及[航班資訊](https://zh.wikipedia.org/wiki/now寬頻電視航班資訊 "wikilink")（377頻道）。
+[HK_Telecom_House_201612.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_201612.jpg "fig:HK_Telecom_House_201612.jpg") **Now新聞**（前稱：Now寬頻電視新聞；）是[Now TV自製和轉播的](../Page/Now_TV.md "wikilink")[新聞節目](../Page/新聞節目.md "wikilink")，自家建立並擁有[now直播台](https://zh.wikipedia.org/wiki/now直播台 "wikilink")（331頻道）、[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")（332頻道）、[now財經台](https://zh.wikipedia.org/wiki/now財經台 "wikilink")（333頻道）、[now報價台](https://zh.wikipedia.org/wiki/now報價台 "wikilink")（336頻道）、[交通頻道](https://zh.wikipedia.org/wiki/now寬頻電視交通頻道 "wikilink")（375頻道）、[天氣頻道](https://zh.wikipedia.org/wiki/now寬頻電視天氣頻道 "wikilink")（376頻道）及[航班資訊](https://zh.wikipedia.org/wiki/now寬頻電視航班資訊 "wikilink")（377頻道）。
 
-Now新聞早在[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")（現稱：Now
-TV）啟播時已成立，但初時需要依賴[24小時亞視新聞-{台}-及其他國際新聞頻道如](https://zh.wikipedia.org/wiki/新闻财经频道 "wikilink")[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")。其自製有關新聞的頻道需要到2006年3月20日才出現，首個自製的頻道是[now直播台](https://zh.wikipedia.org/wiki/now直播台 "wikilink")、[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台和](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[now報價台](https://zh.wikipedia.org/wiki/now報價台 "wikilink")。另外，資訊性頻道，例如：[交通頻道](https://zh.wikipedia.org/wiki/now寬頻電視交通頻道 "wikilink")、[天氣頻道及](https://zh.wikipedia.org/wiki/now寬頻電視天氣頻道 "wikilink")[航班資訊亦在now寬頻電視啟播時已經播放](https://zh.wikipedia.org/wiki/now寬頻電視航班資訊 "wikilink")。
+Now新聞早在[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")（現稱：Now TV）啟播時已成立，但初時需要依賴[24小時亞視新聞-{台}-及其他國際新聞頻道如](https://zh.wikipedia.org/wiki/新闻财经频道 "wikilink")[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")。其自製有關新聞的頻道需要到2006年3月20日才出現，首個自製的頻道是[now直播台](https://zh.wikipedia.org/wiki/now直播台 "wikilink")、[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台和](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[now報價台](https://zh.wikipedia.org/wiki/now報價台 "wikilink")。另外，資訊性頻道，例如：[交通頻道](https://zh.wikipedia.org/wiki/now寬頻電視交通頻道 "wikilink")、[天氣頻道及](https://zh.wikipedia.org/wiki/now寬頻電視天氣頻道 "wikilink")[航班資訊亦在now寬頻電視啟播時已經播放](https://zh.wikipedia.org/wiki/now寬頻電視航班資訊 "wikilink")。
 
 ## now新聞總部
 
@@ -13,19 +10,17 @@ now新聞（now直播台、now新聞台及now財經台）的總部處於[灣仔]
 
 ### now直播台
 
-**now直播台**（），是[香港第三個直播突發新聞現場的頻道](../Page/香港.md "wikilink")。與now直播台相類似的頻道包括[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線直播新聞台和](../Page/有線直播新聞台.md "wikilink")[香港電台的](../Page/香港電台.md "wikilink")[港台電視32](../Page/港台電視32.md "wikilink")。
+**now直播台**（），是[香港](../Page/香港.md "wikilink")第三個直播突發新聞現場的頻道。與now直播台相類似的頻道包括[香港有線電視](../Page/香港有線電視.md "wikilink")的[有線直播新聞台](../Page/有線直播新聞台.md "wikilink")和[香港電台](../Page/香港電台.md "wikilink")的[港台電視32](../Page/港台電視32.md "wikilink")。
 
 ### now新聞台
 
-**now新聞台**（），是[香港第五個二十四小時報導即時](../Page/香港.md "wikilink")[新聞的頻道](https://zh.wikipedia.org/wiki/新聞 "wikilink")。原本是一個標清製作的新聞頻道，於2018年8月13日起升級為高清頻道。[now新聞台主要競爭對手包括](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")[myTV
-SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫新聞台和](../Page/無綫新聞台.md "wikilink")[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線新聞台](../Page/有線新聞台.md "wikilink")。
+**now新聞台**（），是[香港](../Page/香港.md "wikilink")第五個二十四小時報導即時[新聞的頻道](https://zh.wikipedia.org/wiki/新聞 "wikilink")。原本是一個標清製作的新聞頻道，於2018年8月13日起升級為高清頻道。[now新聞台主要競爭對手包括](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")[myTV SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫新聞台](../Page/無綫新聞台.md "wikilink")和[香港有線電視](../Page/香港有線電視.md "wikilink")的[有線新聞台](../Page/有線新聞台.md "wikilink")。
 
 #### 節目
 
 ### now財經台
 
-**now財經台**（、英文簡稱），是[now寬頻電視的其中一個新聞資訊頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。在2006年3月20日開始播放。[now財經台與對手](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[有線電視財經資訊台一樣](https://zh.wikipedia.org/wiki/有線電視財經資訊台 "wikilink")，於平日日間重點直播股市實況、並於[香港交易所設有直播室](../Page/香港交易所.md "wikilink")，而晚間及假日則播放財經節目及與[now新聞台聯播新聞](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")。[now財經台的主要競爭對手為](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線財經資訊台及](../Page/有線財經資訊台.md "wikilink")[myTV
-SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")。
+**now財經台**（、英文簡稱），是[now寬頻電視的其中一個新聞資訊頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。在2006年3月20日開始播放。[now財經台與對手](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[有線電視財經資訊台一樣](https://zh.wikipedia.org/wiki/有線電視財經資訊台 "wikilink")，於平日日間重點直播股市實況、並於[香港交易所](../Page/香港交易所.md "wikilink")設有直播室，而晚間及假日則播放財經節目及與[now新聞台聯播新聞](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")。[now財經台的主要競爭對手為](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[香港有線電視](../Page/香港有線電視.md "wikilink")的[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")及[myTV SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")。
 
 #### 歷史
 
@@ -55,11 +50,11 @@ SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫財經·資
 
 ### now報價台
 
-**now報價台**（），是[香港第一個二十四小時不停財經報價的頻道](../Page/香港.md "wikilink")。
+**now報價台**（），是[香港](../Page/香港.md "wikilink")第一個二十四小時不停財經報價的頻道。
 
 ## 新聞節目
 
-### [ViuTV新聞時段](../Page/ViuTV.md "wikilink")
+### [ViuTV](../Page/ViuTV.md "wikilink")新聞時段
 
 ViuTV在2016年4月6日啟播後，會播放以下由now新聞製作之新聞及財經節目：
 
@@ -94,31 +89,29 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 
 ### 2000年代
 
-  - 2008年3月25日，正值[西藏騷亂](https://zh.wikipedia.org/wiki/西藏騷亂 "wikilink")，now寬頻電視記者[簡學悕成功突破公安所有阻礙](https://zh.wikipedia.org/wiki/簡學悕 "wikilink")，進入[西藏採訪](https://zh.wikipedia.org/wiki/西藏 "wikilink")；當時，所有境外[記者已被](../Page/記者.md "wikilink")[公安趕離西藏](https://zh.wikipedia.org/wiki/公安 "wikilink")。
-  - 2008年7月20日，記者[周月翔採訪一名居於](../Page/周月翔.md "wikilink")[北京老](https://zh.wikipedia.org/wiki/北京 "wikilink")[衚衕的老婆婆時被公安無理中止採訪並且帶走](https://zh.wikipedia.org/wiki/衚衕 "wikilink")；7月24日記者周月翔及攝影師楊楚文採訪[北京市民購買](https://zh.wikipedia.org/wiki/北京 "wikilink")[北京奧運門票時的混亂時](https://zh.wikipedia.org/wiki/北京奧運 "wikilink")，被公安無理押上公安車一段時間；7月25日攝影師楊楚文採訪北京市民購買京奧門票時的混亂時，被公安從梯上拉跌。以上事件引致now新聞對北京發表嚴重抗議，最終導致雙方決裂，日後now新聞在內地的採訪都不時受到阻攔（）。
-  - 2009年8月12日，時任now新聞台駐[京記者的](https://zh.wikipedia.org/wiki/北京 "wikilink")[黃嘉瑜與攝影師到](../Page/黃嘉瑜.md "wikilink")[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")[成都採訪](https://zh.wikipedia.org/wiki/成都 "wikilink")，於當日上午6時許準備由酒店出發採訪[譚作人案之際](https://zh.wikipedia.org/wiki/譚作人 "wikilink")，數名公安人士在房間外攔截，指稱接獲市民舉報，懷疑黃等三人入住的房間藏有毒品等違禁品，要搜查房間，擾攘近6小時至下午1時許，該段時間三人一直被軟禁於酒店內，令三人不能正常外出採訪。now新聞台、[香港記者協會及](../Page/香港記者協會.md "wikilink")[香港新聞行政人員協會均發聲明指公安無理執法](https://zh.wikipedia.org/wiki/香港新聞行政人員協會 "wikilink")，妨礙[新聞自由](https://zh.wikipedia.org/wiki/新聞自由 "wikilink")。
+  - 2008年3月25日，正值[西藏騷亂](https://zh.wikipedia.org/wiki/西藏騷亂 "wikilink")，now寬頻電視記者[簡學悕成功突破公安所有阻礙](https://zh.wikipedia.org/wiki/簡學悕 "wikilink")，進入[西藏採訪](https://zh.wikipedia.org/wiki/西藏 "wikilink")；當時，所有境外[記者](../Page/記者.md "wikilink")已被[公安趕離西藏](https://zh.wikipedia.org/wiki/公安 "wikilink")。
+  - 2008年7月20日，記者[周月翔](../Page/周月翔.md "wikilink")採訪一名居於[北京老](https://zh.wikipedia.org/wiki/北京 "wikilink")[衚衕的老婆婆時被公安無理中止採訪並且帶走](https://zh.wikipedia.org/wiki/衚衕 "wikilink")；7月24日記者周月翔及攝影師楊楚文採訪[北京市民購買](https://zh.wikipedia.org/wiki/北京 "wikilink")[北京奧運門票時的混亂時](https://zh.wikipedia.org/wiki/北京奧運 "wikilink")，被公安無理押上公安車一段時間；7月25日攝影師楊楚文採訪北京市民購買京奧門票時的混亂時，被公安從梯上拉跌。以上事件引致now新聞對北京發表嚴重抗議，最終導致雙方決裂，日後now新聞在內地的採訪都不時受到阻攔（）。
+  - 2009年8月12日，時任now新聞台駐[京記者的](https://zh.wikipedia.org/wiki/北京 "wikilink")[黃嘉瑜](../Page/黃嘉瑜.md "wikilink")與攝影師到[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")[成都採訪](https://zh.wikipedia.org/wiki/成都 "wikilink")，於當日上午6時許準備由酒店出發採訪[譚作人案之際](https://zh.wikipedia.org/wiki/譚作人 "wikilink")，數名公安人士在房間外攔截，指稱接獲市民舉報，懷疑黃等三人入住的房間藏有毒品等違禁品，要搜查房間，擾攘近6小時至下午1時許，該段時間三人一直被軟禁於酒店內，令三人不能正常外出採訪。now新聞台、[香港記者協會](../Page/香港記者協會.md "wikilink")及[香港新聞行政人員協會均發聲明指公安無理執法](https://zh.wikipedia.org/wiki/香港新聞行政人員協會 "wikilink")，妨礙[新聞自由](https://zh.wikipedia.org/wiki/新聞自由 "wikilink")。
   - 2009年9月4日，[now寬頻電視駐京攝影師林振威與記者](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[陳偉利](../Page/陳偉利.md "wikilink")、[無線電視記者](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[林子豪及攝影記者劉永全到](https://zh.wikipedia.org/wiki/林子豪 "wikilink")[新疆](https://zh.wikipedia.org/wiki/新疆 "wikilink")[烏魯木齊採訪時](https://zh.wikipedia.org/wiki/烏魯木齊 "wikilink")，被多名市武警毆打並且被強制扣留，事件在香港造成強烈反響，多間香港新聞媒體及團體在事件發生後提出抗議及參與遊行示威（詳見[2009年新疆武警扣押香港記者事件](../Page/2009年新疆武警扣押香港記者事件.md "wikilink")）。
 
 ### 2010年代以後
 
   - 2011年8月中，時任中國國務院副總理[李克強訪港](https://zh.wikipedia.org/wiki/李克強 "wikilink")，期間警方多次對示威者及記者無理地阻止他們的示威及採訪活動（詳見[李克強訪問香港期間保安爭議](../Page/李克強訪問香港期間保安爭議.md "wikilink")），其中[now寬頻電視記者](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[梁卓麒及攝影師被無穿制服](https://zh.wikipedia.org/wiki/梁卓麒 "wikilink")、無證件及無表明身份之警員阻礙採訪及驅趕。及後，警方不負責任的態度及歪曲事實續令[now寬頻電視不滿](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，故多次發表嚴重抗議聲明，及在now新聞台節目《時事全方位》交代及討論，得到議員及觀眾支持。
-  - 2018年5月16日：now新聞台攝影師徐駿銘在早上採訪北京維權律師出席[謝燕益北京律師協會人士聽證會時遭警察和便衣人員阻撓](https://zh.wikipedia.org/wiki/謝燕益 "wikilink")，記者證和回鄉證被取去，未有歸還。攝影師試圖搶回證件但不成功，並被多名便衣人員和公安壓在地上及叉頸，頭部流血，按在地上鎖上手扣，押上警車帶走。攝影師中午前被帶到和平里醫院驗傷，在醫院驗傷時被禁止使用手機與外界聯絡，公安要求徐駿銘寫悔過書才讓他離開。Now新聞台對合法採訪遭到無理及粗暴阻撓表示極度憤怒。署理行政長官張建宗表示，非常關注事件，已馬上接觸[港澳辦](https://zh.wikipedia.org/wiki/港澳辦 "wikilink")。記協發表聲明表示强烈抗議\[1\]\[2\]。特首[林鄭月娥對事件表示遺憾](../Page/林鄭月娥.md "wikilink")\[3\]。
+  - 2018年5月16日：now新聞台攝影師徐駿銘在早上採訪北京維權律師出席[謝燕益北京律師協會人士聽證會時遭警察和便衣人員阻撓](https://zh.wikipedia.org/wiki/謝燕益 "wikilink")，記者證和回鄉證被取去，未有歸還。攝影師試圖搶回證件但不成功，並被多名便衣人員和公安壓在地上及叉頸，頭部流血，按在地上鎖上手扣，押上警車帶走。攝影師中午前被帶到和平里醫院驗傷，在醫院驗傷時被禁止使用手機與外界聯絡，公安要求徐駿銘寫悔過書才讓他離開。Now新聞台對合法採訪遭到無理及粗暴阻撓表示極度憤怒。署理行政長官張建宗表示，非常關注事件，已馬上接觸[港澳辦](https://zh.wikipedia.org/wiki/港澳辦 "wikilink")。記協發表聲明表示强烈抗議\[1\]\[2\]。特首[林鄭月娥](../Page/林鄭月娥.md "wikilink")對事件表示遺憾\[3\]。
 
 ## 報道手法
 
-  - 香港於2008年9月7日舉行[第四屆立法會選舉](../Page/2008年香港立法會選舉.md "wikilink")，新聞台或電視台新聞部傳統上會在選舉前製作一些專題報導略略簡介一下選情，但now新聞台則在6月已經開始了，而且報導得非常深入，甚至加入一些分析元素，更在8月時在[馬鞍山](../Page/馬鞍山_\(香港市鎮\).md "wikilink")[恆安商場](../Page/恆安邨.md "wikilink")、[奧海城](../Page/奧海城.md "wikilink")、[九龍灣展貿中心](https://zh.wikipedia.org/wiki/九龍灣展貿中心 "wikilink")、[愉景新城及](../Page/愉景新城.md "wikilink")[演藝學院舉辦了五場論壇](../Page/香港演藝學院.md "wikilink")（五個地方選區），又舉辦了[功能組別的論壇及其相關專題報導](https://zh.wikipedia.org/wiki/功能組別 "wikilink")，可見其對這次立會選舉的重視。
+  - 香港於2008年9月7日舉行[第四屆立法會選舉](../Page/2008年香港立法會選舉.md "wikilink")，新聞台或電視台新聞部傳統上會在選舉前製作一些專題報導略略簡介一下選情，但now新聞台則在6月已經開始了，而且報導得非常深入，甚至加入一些分析元素，更在8月時在[馬鞍山](../Page/馬鞍山_\(香港市鎮\).md "wikilink")[恆安商場](../Page/恆安邨.md "wikilink")、[奧海城](../Page/奧海城.md "wikilink")、[九龍灣展貿中心](https://zh.wikipedia.org/wiki/九龍灣展貿中心 "wikilink")、[愉景新城](../Page/愉景新城.md "wikilink")及[演藝學院舉辦了五場論壇](../Page/香港演藝學院.md "wikilink")（五個地方選區），又舉辦了[功能組別的論壇及其相關專題報導](https://zh.wikipedia.org/wiki/功能組別 "wikilink")，可見其對這次立會選舉的重視。
   - 2008年8月10日，[香港](../Page/香港.md "wikilink")[旺角](../Page/旺角.md "wikilink")[嘉禾大廈發生五級大火](../Page/嘉禾大廈大火.md "wikilink")，now新聞台於中午12:42報導「據消息，有兩名消防員殉職」（指[蕭永方及](https://zh.wikipedia.org/wiki/蕭永方 "wikilink")[陳兆龍](https://zh.wikipedia.org/wiki/陳兆龍 "wikilink")），但到下午2時許其他新聞台才陸續報導有兩名消防員殉職，而不久後官方才正式向記者確認有兩名消防員殉職的事件，
 
 ## 音乐
 
-  - [《now新闻报道》主题音乐《Evening
-    Drama》](http://links.universalproductionmusic.com/LevhEz)
-  - [《now新闻报道》之后天气主题音乐《Morning
-    Magazine》](http://links.universalproductionmusic.com/tvoasb)
+  - [《now新闻报道》主题音乐《Evening Drama》](http://links.universalproductionmusic.com/LevhEz)
+  - [《now新闻报道》之后天气主题音乐《Morning Magazine》](http://links.universalproductionmusic.com/tvoasb)
 
 ## 員工
 
-  - 2014年9月起，部分主播間中會被調派到採訪組崗位培訓（此安排與[香港有線新聞相同](../Page/香港有線新聞.md "wikilink")）。
+  - 2014年9月起，部分主播間中會被調派到採訪組崗位培訓（此安排與[香港有線新聞](../Page/香港有線新聞.md "wikilink")相同）。
 
 <table>
 <thead>
@@ -139,7 +132,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （總主播）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃浩霖" title="wikilink">黃浩霖</a><br />
+<td style="text-align: center;"><p><br />
 （首席主播）</p></td>
 </tr>
 <tr class="odd">
@@ -147,8 +140,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （主播）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐俊逸" title="wikilink">徐俊逸</a><br />
-（主播）</p></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>港聞組採訪主任／副採訪主任／助理採訪主任</strong></p></td>
@@ -182,61 +174,67 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林亦" title="wikilink">林亦</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林碧君" title="wikilink">林碧君</a></p></td>
-</tr>
-<tr class="odd">
 <td style="text-align: center;"><p><strong>國際新聞組記者／編輯</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁宙然" title="wikilink">梁宙然</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋靜嫻" title="wikilink">宋靜嫻</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁銘思" title="wikilink">梁銘思</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁尹齡" title="wikilink">梁尹齡</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/廖美兒" title="wikilink">廖美兒</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王晶_(記者)" title="wikilink">王晶</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/潘磊華" title="wikilink">潘磊華</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃思行" title="wikilink">黃思行</a><br />
 （高級記者）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄧嘉蔚" title="wikilink">鄧嘉蔚</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃靜妍" title="wikilink">黃靜妍</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>體育組</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋貴玲" title="wikilink">宋貴玲</a><br />
 （首席記者）</p></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p><strong>實習記者</strong></p></td>
+</tr>
 <tr class="odd">
-<td style="text-align: center;"><p><strong>專題組記者／編輯</strong></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭嘉樂" title="wikilink">鄭嘉樂</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/陳偉利.md" title="wikilink">陳偉利</a></p></td>
+<td style="text-align: center;"><p><strong>專題組記者／編輯</strong></p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p><a href="../Page/陳偉利.md" title="wikilink">陳偉利</a></p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳家俊" title="wikilink">陳家俊</a></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/何綻苗" title="wikilink">何綻苗</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>編導</strong></p></td>
@@ -373,7 +371,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳詠琳" title="wikilink">陳詠琳</a><br />
-（<a href="../Page/政府新聞處.md" title="wikilink">政府新聞處新聞主任</a>（數碼媒體））</p></td>
+（<a href="../Page/政府新聞處.md" title="wikilink">政府新聞處</a>新聞主任（數碼媒體））</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蘇婉雯" title="wikilink">蘇婉雯</a><br />
@@ -417,7 +415,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/方子敏" title="wikilink">方子敏</a><br />
-（<a href="../Page/科樂美.md" title="wikilink">科樂美公關</a>）</p></td>
+（<a href="../Page/科樂美.md" title="wikilink">科樂美</a>公關）</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/過智溢" title="wikilink">過智溢</a><br />
@@ -429,7 +427,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張文欣" title="wikilink">張文欣</a><br />
-（<a href="../Page/香港賽馬會.md" title="wikilink">香港賽馬會公關人員</a>）</p></td>
+（<a href="../Page/香港賽馬會.md" title="wikilink">香港賽馬會</a>公關人員）</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張兆高" title="wikilink">張兆高</a><br />
@@ -468,11 +466,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 
   - [Now新聞](https://news.now.com/)
 
-[Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink")
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink")
-[Category:24小時電視新聞頻道](https://zh.wikipedia.org/wiki/Category:24小時電視新聞頻道 "wikilink")
-[Category:2006年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2006年成立的電視台或電視頻道 "wikilink")
+[Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:24小時電視新聞頻道](https://zh.wikipedia.org/wiki/Category:24小時電視新聞頻道 "wikilink") [Category:2006年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2006年成立的電視台或電視頻道 "wikilink")
 
 1.
 2.

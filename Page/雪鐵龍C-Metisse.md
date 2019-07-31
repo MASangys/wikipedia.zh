@@ -4,9 +4,7 @@
 
   - 2006年路易威登LV品牌概念車大賽「最佳概念車大獎」。
 
-[File:CitroenC-Metisse13.JPG|車尾](File:CitroenC-Metisse13.JPG%7C車尾)
-[File:CitroenC-Metisse26.JPG|內裝](File:CitroenC-Metisse26.JPG%7C內裝)
-[File:CitroenC-Metisse25.JPG|駕駛座](File:CitroenC-Metisse25.JPG%7C駕駛座)
+[File:CitroenC-Metisse13.JPG|車尾](File:CitroenC-Metisse13.JPG%7C車尾) [File:CitroenC-Metisse26.JPG|內裝](File:CitroenC-Metisse26.JPG%7C內裝) [File:CitroenC-Metisse25.JPG|駕駛座](File:CitroenC-Metisse25.JPG%7C駕駛座)
 
 ## 相關
 

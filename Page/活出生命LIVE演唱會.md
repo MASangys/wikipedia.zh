@@ -1,5 +1,4 @@
-**活出生命LIVE演唱會**（**Live The
-Life**）是[香港](../Page/香港.md "wikilink")歌手[張學友于](https://zh.wikipedia.org/wiki/張學友 "wikilink")2004年10月5日于[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")新翼所舉行的一場慈善演唱會，演唱會只公演一場，全場爆滿，所得收入全部捐獻于[慈善事業](https://zh.wikipedia.org/wiki/慈善事業 "wikilink")。被譽為[大中華地區樂壇巨星和實力派歌手代表之一的張學友在演唱會中分別翻唱了來自](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[香港](../Page/香港.md "wikilink")的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，而在加唱部分才回歸到演唱自己原唱的歌曲，從而使整場演唱會備受矚目。
+**活出生命LIVE演唱會**（**Live The Life**）是[香港](../Page/香港.md "wikilink")歌手[張學友于](https://zh.wikipedia.org/wiki/張學友 "wikilink")2004年10月5日于[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")新翼所舉行的一場慈善演唱會，演唱會只公演一場，全場爆滿，所得收入全部捐獻于[慈善事業](https://zh.wikipedia.org/wiki/慈善事業 "wikilink")。被譽為[大中華地區樂壇巨星和實力派歌手代表之一的張學友在演唱會中分別翻唱了來自](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[香港](../Page/香港.md "wikilink")的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，而在加唱部分才回歸到演唱自己原唱的歌曲，從而使整場演唱會備受矚目。
 
 ## 簡介
 
@@ -17,10 +16,8 @@ Life**）是[香港](../Page/香港.md "wikilink")歌手[張學友于](https://z
 
 #### CD 1
 
-1.  First of May (原唱: [Bee
-    Gees](https://zh.wikipedia.org/wiki/Bee_Gees "wikilink"))
-2.  [但願人長久](https://zh.wikipedia.org/wiki/但願人長久 "wikilink") (原唱:
-    [鄧麗君](../Page/鄧麗君.md "wikilink"))
+1.  First of May (原唱: [Bee Gees](https://zh.wikipedia.org/wiki/Bee_Gees "wikilink"))
+2.  [但願人長久](https://zh.wikipedia.org/wiki/但願人長久 "wikilink") (原唱: [鄧麗君](../Page/鄧麗君.md "wikilink"))
 3.  眼淚 (原唱: [范曉萱](../Page/范曉萱.md "wikilink"))
 4.  天黑黑 (原唱: [孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink"))
 5.  聽海 (原唱: [張惠妹](../Page/張惠妹.md "wikilink"))
@@ -30,8 +27,7 @@ Life**）是[香港](../Page/香港.md "wikilink")歌手[張學友于](https://z
 9.  明天我要嫁給你 (原唱: [周華健](https://zh.wikipedia.org/wiki/周華健 "wikilink"))
 10. 瘋了 (原唱: [林憶蓮](../Page/林憶蓮.md "wikilink"))
 11. 傷追人 (原唱: [古巨基](../Page/古巨基.md "wikilink"))
-12. [小城大事](../Page/小城大事.md "wikilink") (原唱:
-    [楊千嬅](../Page/楊千嬅.md "wikilink"))
+12. [小城大事](../Page/小城大事.md "wikilink") (原唱: [楊千嬅](../Page/楊千嬅.md "wikilink"))
 
 [HKCEC_tk_02.JPG](https://zh.wikipedia.org/wiki/File:HKCEC_tk_02.JPG "fig:HKCEC_tk_02.JPG")
 
@@ -65,10 +61,7 @@ Life**）是[香港](../Page/香港.md "wikilink")歌手[張學友于](https://z
 
 ## 參考資料
 
-[Category:張學友演唱會](https://zh.wikipedia.org/wiki/Category:張學友演唱會 "wikilink")
-[Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:張學友演唱會](https://zh.wikipedia.org/wiki/Category:張學友演唱會 "wikilink") [Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.  [京東商城：音乐华语流行销售榜Top 100](http://mvd.jd.com/mvdtop-4051-2-4056-0-1.html)
 2.  [「IFPI香港唱片銷量大獎 2005」獲獎名單](http://www.rthk.org.hk/press/chi/attach/ifpi2005.htm)

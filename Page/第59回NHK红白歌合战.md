@@ -28,8 +28,7 @@
   - [蓝人乐团](https://zh.wikipedia.org/wiki/蓝人乐团 "wikilink")：在[藤冈藤卷与](https://zh.wikipedia.org/wiki/藤冈藤卷 "wikilink")[大桥望美和](https://zh.wikipedia.org/wiki/大桥望美 "wikilink")[东方神起之间特别表演](https://zh.wikipedia.org/wiki/东方神起 "wikilink")
   - [早乙女太一](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")、[桥大五郎](https://zh.wikipedia.org/wiki/桥大五郎 "wikilink")：为藤彩子伴舞
   - 渡边钟：为WaT介绍曲目
-  - [藤原紀香](https://zh.wikipedia.org/wiki/藤原紀香 "wikilink")：特别企划「SAVE THE
-    FUTURE」
+  - [藤原紀香](https://zh.wikipedia.org/wiki/藤原紀香 "wikilink")：特别企划「SAVE THE FUTURE」
 
 ## 出场歌手及演唱曲目
 
@@ -75,9 +74,4 @@
 
   - [緯來日本台-第59屆紅白歌唱大賽](http://japan.videoland.com.tw/channel/kouhaku/default.htm)
 
-
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
-[Category:2008年音樂](https://zh.wikipedia.org/wiki/Category:2008年音樂 "wikilink")
-[Category:2008年日本電視節目](https://zh.wikipedia.org/wiki/Category:2008年日本電視節目 "wikilink")
-[Category:仲間由紀惠](https://zh.wikipedia.org/wiki/Category:仲間由紀惠 "wikilink")
-[Category:中居正广所主持电视节目](https://zh.wikipedia.org/wiki/Category:中居正广所主持电视节目 "wikilink")
+[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:2008年音樂](https://zh.wikipedia.org/wiki/Category:2008年音樂 "wikilink") [Category:2008年日本電視節目](https://zh.wikipedia.org/wiki/Category:2008年日本電視節目 "wikilink") [Category:仲間由紀惠](https://zh.wikipedia.org/wiki/Category:仲間由紀惠 "wikilink") [Category:中居正广所主持电视节目](https://zh.wikipedia.org/wiki/Category:中居正广所主持电视节目 "wikilink")

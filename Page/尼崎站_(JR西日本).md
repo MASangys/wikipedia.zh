@@ -1,4 +1,4 @@
-**尼崎站**（）位於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市潮江](../Page/尼崎市.md "wikilink")1丁目1番1號，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")(JR西日本)的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。但尼崎市的中心車站是[阪神電鐵](../Page/阪神電氣鐵道.md "wikilink")[尼崎站](../Page/尼崎站_\(阪神\).md "wikilink")。2003年（平成15年），入選[近畿車站百選](../Page/近畿車站百選.md "wikilink")（第四回）。
+**尼崎站**（）位於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")潮江1丁目1番1號，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")(JR西日本)的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。但尼崎市的中心車站是[阪神電鐵](../Page/阪神電氣鐵道.md "wikilink")[尼崎站](../Page/尼崎站_\(阪神\).md "wikilink")。2003年（平成15年），入選[近畿車站百選](../Page/近畿車站百選.md "wikilink")（第四回）。
 
 ## 使用路線
 
@@ -9,7 +9,7 @@
 
 ## 車站構造
 
-[島式月台](../Page/島式月台.md "wikilink")4面8線和[跨站式站房的地面車站](../Page/跨站式站房.md "wikilink")。
+[島式月台](../Page/島式月台.md "wikilink")4面8線和[跨站式站房](../Page/跨站式站房.md "wikilink")的地面車站。
 
 ### 月台配置
 
@@ -89,12 +89,11 @@
 <!-- end list -->
 
   - Aming潮江
-      - [ROUND
-        ONE](https://zh.wikipedia.org/wiki/ROUND_ONE "wikilink")([保齡球場](../Page/保齡球.md "wikilink"))
+      - [ROUND ONE](https://zh.wikipedia.org/wiki/ROUND_ONE "wikilink")([保齡球](../Page/保齡球.md "wikilink")場)
       - [霍兵安明酒店](https://zh.wikipedia.org/wiki/霍兵安明酒店 "wikilink")
       - [阪急綠洲](https://zh.wikipedia.org/wiki/阪急綠洲 "wikilink")
   - 超級大眾浴池「[極樂湯尼崎店](https://zh.wikipedia.org/wiki/極樂湯 "wikilink")」
-  - [家樂福尼崎店](../Page/家樂福.md "wikilink")
+  - [家樂福](../Page/家樂福.md "wikilink")尼崎店
 
 <!-- end list -->
 
@@ -211,12 +210,4 @@
   - [尼崎市交通局(公車站)](https://web.archive.org/web/20070520105238/http://www.city.amagasaki.hyogo.jp/web/contents/info/city/city03/kotu/index.html)(日文)
   - [JR站周邊情報(JR尼崎站旁邊)](https://web.archive.org/web/20071225141233/http://www.jrwd.co.jp/surround_ama.html)(日文)
 
-[Category:日本鐵路車站_A](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_A "wikilink")
-[Category:尼崎市鐵路車站](https://zh.wikipedia.org/wiki/Category:尼崎市鐵路車站 "wikilink")
-[Category:東海道本線車站_(西日本旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(西日本旅客鐵道\) "wikilink")
-[Category:1874年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1874年啟用的鐵路車站 "wikilink")
-[Category:福知山線車站](https://zh.wikipedia.org/wiki/Category:福知山線車站 "wikilink")
-[Category:JR東西線車站](https://zh.wikipedia.org/wiki/Category:JR東西線車站 "wikilink")
-[Category:日本貨物鐵道廢站](https://zh.wikipedia.org/wiki/Category:日本貨物鐵道廢站 "wikilink")
-[Category:尼崎港支線車站](https://zh.wikipedia.org/wiki/Category:尼崎港支線車站 "wikilink")
-[Category:北方貨物線車站](https://zh.wikipedia.org/wiki/Category:北方貨物線車站 "wikilink")
+[Category:日本鐵路車站_A](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_A "wikilink") [Category:尼崎市鐵路車站](https://zh.wikipedia.org/wiki/Category:尼崎市鐵路車站 "wikilink") [Category:東海道本線車站_(西日本旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(西日本旅客鐵道\) "wikilink") [Category:1874年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1874年啟用的鐵路車站 "wikilink") [Category:福知山線車站](https://zh.wikipedia.org/wiki/Category:福知山線車站 "wikilink") [Category:JR東西線車站](https://zh.wikipedia.org/wiki/Category:JR東西線車站 "wikilink") [Category:日本貨物鐵道廢站](https://zh.wikipedia.org/wiki/Category:日本貨物鐵道廢站 "wikilink") [Category:尼崎港支線車站](https://zh.wikipedia.org/wiki/Category:尼崎港支線車站 "wikilink") [Category:北方貨物線車站](https://zh.wikipedia.org/wiki/Category:北方貨物線車站 "wikilink")

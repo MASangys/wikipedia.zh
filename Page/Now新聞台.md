@@ -1,10 +1,6 @@
-[HK_Telecom_House_2008.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_2008.jpg "fig:HK_Telecom_House_2008.jpg")
-[NowNews_Reporter_in_Shanghai.JPG](https://zh.wikipedia.org/wiki/File:NowNews_Reporter_in_Shanghai.JPG "fig:NowNews_Reporter_in_Shanghai.JPG")
-**now新聞台**（），是[香港](../Page/香港.md "wikilink")[now寬頻電視新聞轄下的頻道](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")，為香港第5條自製的電視新聞頻道，於2007年10月24日早上6時啟播。now新聞台是24小時的新聞頻道，其新聞中心與[now財經台及](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[無綫港島新聞中心同樣位於](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")。now新聞台的主要競爭對手包括[有線新聞台](../Page/有線新聞台.md "wikilink")、[無綫新聞台](../Page/無綫新聞台.md "wikilink")。有一特別之處值得一提是，now新聞台於2008年5月27日正式向外公佈其「觀眾報料熱綫」，電話號碼為（852）3656-3452，而電郵為news@nowbnc.com，仿傚[有線新聞的](https://zh.wikipedia.org/wiki/有線新聞 "wikilink")「新聞有線人」。
+[HK_Telecom_House_2008.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_2008.jpg "fig:HK_Telecom_House_2008.jpg") [NowNews_Reporter_in_Shanghai.JPG](https://zh.wikipedia.org/wiki/File:NowNews_Reporter_in_Shanghai.JPG "fig:NowNews_Reporter_in_Shanghai.JPG") **now新聞台**（），是[香港](../Page/香港.md "wikilink")[now寬頻電視新聞轄下的頻道](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")，為香港第5條自製的電視新聞頻道，於2007年10月24日早上6時啟播。now新聞台是24小時的新聞頻道，其新聞中心與[now財經台及](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[無綫港島新聞中心同樣位於](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")。now新聞台的主要競爭對手包括[有線新聞台](../Page/有線新聞台.md "wikilink")、[無綫新聞台](../Page/無綫新聞台.md "wikilink")。有一特別之處值得一提是，now新聞台於2008年5月27日正式向外公佈其「觀眾報料熱綫」，電話號碼為（852）3656-3452，而電郵為news@nowbnc.com，仿傚[有線新聞的](https://zh.wikipedia.org/wiki/有線新聞 "wikilink")「新聞有線人」。
 
-此台與[now財經台一樣](https://zh.wikipedia.org/wiki/now財經台 "wikilink")，大部份拍攝畫面會使用[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")
-[XDCAM拍攝並以](../Page/XDCAM.md "wikilink")[Professional
-Disc媒介儲存](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，雖然XDCAM支援[高清製作](https://zh.wikipedia.org/wiki/高清電視 "wikilink")，但now新聞及財經台只製作[標清節目及高清廣告於其他高清台作廣告用](https://zh.wikipedia.org/wiki/標清 "wikilink")。雖然now新聞及財經台於2015年11月30日升級至16:9製作，但未有同時升級至高清廣播。隨著[有線新聞台於](../Page/有線新聞台.md "wikilink")2015年底升級高清製作，令now新聞台成為香港最後一個非高清的電視新聞頻道，新聞節目初期在高清的[ViuTV播出時需增線至](../Page/ViuTV.md "wikilink")[1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")。直至2018年8月13日，now新聞台正式改以高清廣播，象徵著香港電視新聞進入全高清的年代。
+此台與[now財經台一樣](https://zh.wikipedia.org/wiki/now財經台 "wikilink")，大部份拍攝畫面會使用[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink") [XDCAM](../Page/XDCAM.md "wikilink")拍攝並以[Professional Disc媒介儲存](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，雖然XDCAM支援[高清製作](https://zh.wikipedia.org/wiki/高清電視 "wikilink")，但now新聞及財經台只製作[標清節目及高清廣告於其他高清台作廣告用](https://zh.wikipedia.org/wiki/標清 "wikilink")。雖然now新聞及財經台於2015年11月30日升級至16:9製作，但未有同時升級至高清廣播。隨著[有線新聞台](../Page/有線新聞台.md "wikilink")於2015年底升級高清製作，令now新聞台成為香港最後一個非高清的電視新聞頻道，新聞節目初期在高清的[ViuTV](../Page/ViuTV.md "wikilink")播出時需增線至[1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")。直至2018年8月13日，now新聞台正式改以高清廣播，象徵著香港電視新聞進入全高清的年代。
 
 now新聞台於10月24日6時正在[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")332頻道啟播，首播節目為《[now早晨](https://zh.wikipedia.org/wiki/now早晨 "wikilink")》。[now寬頻電視為宣傳首個自製新聞頻道隆重推出](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於開播初期安排節目預告頻道（100頻道）同步播放本台節目，所有客戶均可免費試看，而客戶在啟動解碼器後會自動轉至now新聞台（原設定為節目預告頻道）。
 
@@ -17,18 +13,11 @@ now新聞台（332頻道）現已成為免費頻道。
 ## 頻道歷史
 
   - 2007年10月24日[早上](https://zh.wikipedia.org/wiki/早上 "wikilink")6時正，now新聞台啟播，首個播放的節目為《[now早晨](https://zh.wikipedia.org/wiki/now早晨 "wikilink")》。
-  - 2007年11月21日，隨著[亞洲電視的](../Page/亞洲電視.md "wikilink")[24小時亞視新聞台的停播](https://zh.wikipedia.org/wiki/24小時亞視新聞台 "wikilink")，now新聞台正式成為了[now寬頻電視的重點主打新聞頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。
-  - 2008年5月27日向外公佈其「報料熱線」，電話號碼為852-3656
-    3452，而電郵為news@nowbnc.com，即跟[有線新聞的](https://zh.wikipedia.org/wiki/有線新聞 "wikilink")《新聞有線人》的做法異曲同工。
-  - 2008年12月，now新聞台啟播一年，首次參選[亞洲電視大獎](https://zh.wikipedia.org/wiki/亞洲電視大獎 "wikilink")（Asian
-    Television
-    Awards）即以[汶川大地震一系列新聞報導奪得](../Page/汶川大地震.md "wikilink")《最佳新聞報導》大獎，脫穎而出於各具實力之[亞太及](https://zh.wikipedia.org/wiki/亞太 "wikilink")[香港電視台](../Page/香港.md "wikilink")；且於同月奪得各亞太地區新聞大獎。
-  - 2009年12月，now新聞台參選[亞洲電視大獎](https://zh.wikipedia.org/wiki/亞洲電視大獎 "wikilink")（Asian
-    Television
-    Awards），以資訊節目《[六‧四廿週年](../Page/六四事件.md "wikilink")》\[1\]奪得《最佳紀錄片節目》（30分鐘或以下）大獎\[2\]。
-  - 2010年3月，now新聞台參選1941年起成立的[皮博迪獎](../Page/皮博迪獎.md "wikilink")（The
-    Peabody
-    Awards），以資訊節目《不倒[四川](../Page/汶川大地震.md "wikilink")》\[3\]奪獎\[4\]。
+  - 2007年11月21日，隨著[亞洲電視](../Page/亞洲電視.md "wikilink")的[24小時亞視新聞台的停播](https://zh.wikipedia.org/wiki/24小時亞視新聞台 "wikilink")，now新聞台正式成為了[now寬頻電視的重點主打新聞頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。
+  - 2008年5月27日向外公佈其「報料熱線」，電話號碼為852-3656 3452，而電郵為news@nowbnc.com，即跟[有線新聞的](https://zh.wikipedia.org/wiki/有線新聞 "wikilink")《新聞有線人》的做法異曲同工。
+  - 2008年12月，now新聞台啟播一年，首次參選[亞洲電視大獎](https://zh.wikipedia.org/wiki/亞洲電視大獎 "wikilink")（Asian Television Awards）即以[汶川大地震](../Page/汶川大地震.md "wikilink")一系列新聞報導奪得《最佳新聞報導》大獎，脫穎而出於各具實力之[亞太及](https://zh.wikipedia.org/wiki/亞太 "wikilink")[香港](../Page/香港.md "wikilink")電視台；且於同月奪得各亞太地區新聞大獎。
+  - 2009年12月，now新聞台參選[亞洲電視大獎](https://zh.wikipedia.org/wiki/亞洲電視大獎 "wikilink")（Asian Television Awards），以資訊節目《[六‧四廿週年](../Page/六四事件.md "wikilink")》\[1\]奪得《最佳紀錄片節目》（30分鐘或以下）大獎\[2\]。
+  - 2010年3月，now新聞台參選1941年起成立的[皮博迪獎](../Page/皮博迪獎.md "wikilink")（The Peabody Awards），以資訊節目《不倒[四川](../Page/汶川大地震.md "wikilink")》\[3\]奪獎\[4\]。
   - 2010年11月15日，now新聞台重組晚間播放時段，其中《[時事8點鐘](../Page/時事8點鐘.md "wikilink")》簡化為《now新聞報道》，《[大鳴大放](../Page/大鳴大放_\(電視節目\).md "wikilink")》提早於20:30播放，而21:00-21:48的「9點鐘新聞報道」則更名為《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》。
   - 2011年7月，於[now.com](http://news.now.com/)增設新聞影片重溫服務（限香港IP用戶才可收看）。
   - 2011年8月1日及8日，分別播出特備專題節目《血．礦》及《奴．工》。
@@ -40,31 +29,23 @@ now新聞台（332頻道）現已成為免費頻道。
   - 2013年12月24日至12月29日期間，為配合廠景裝修，所有新聞報道節目改為在《採訪手記》環節所用的訪問直播室作為暫用廠景。然而12月27日當日播出的《時事全方位》則在原廠景錄影，並且當日提前至11:00結束。同年12月30日起，全面更換片頭和廠景，而新廠景更加添置梳化供《now早晨》及《時事全方位》主持使用。
   - 2014年1月27日起，記者在新聞片段完結前會由「now寬頻電視記者×××報道」，改為說「nowTV記者×××報道」。
   - 2015年11月30日起，now新聞台由[4:3改為以](https://zh.wikipedia.org/wiki/長寬比 "wikilink")16:9標清格式廣播\[6\]，每節新聞亦加上中文字幕。
-  - 2016年3月31日起，因應[ViuTV正式試播](../Page/ViuTV.md "wikilink")，部份新聞時段會與ViuTV聯播。每當[八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每半小時新聞第一節會改為播出《風暴消息》，以便ViuTV每半至一小時會同步播出，第二節起回復正常片頭片尾播出安排。
+  - 2016年3月31日起，因應[ViuTV](../Page/ViuTV.md "wikilink")正式試播，部份新聞時段會與ViuTV聯播。每當[八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每半小時新聞第一節會改為播出《風暴消息》，以便ViuTV每半至一小時會同步播出，第二節起回復正常片頭片尾播出安排。
   - 2016年9月11日，now新聞台參選第五屆張國興傑出青年傳播人獎，以資訊節目《中國人民》系列中「癌症村」\[7\]及「舉國體制」\[8\]兩集節目分別奪得新聞組別的金獎及銀獎\[9\]。
   - 2017年5月13日，now新聞台憑《經緯線》的「刀鋒上的公義」一集奪得第21屆人權新聞獎中文廣播傳媒大獎\[10\]。
-  - 2017年10月23日起，為慶祝now新聞台啟播十週年，使用全新頻道識別畫面、新聞報道節目片頭及名牌（namecard）。而10月24日台慶當日更在Now新聞Facebook專頁及[Now直播台直播](../Page/Now直播台.md "wikilink")《政情開P》。
+  - 2017年10月23日起，為慶祝now新聞台啟播十週年，使用全新頻道識別畫面、新聞報道節目片頭及名牌（namecard）。而10月24日台慶當日更在Now新聞Facebook專頁及[Now直播台](../Page/Now直播台.md "wikilink")直播《政情開P》。
   - 2017年11月起，為慶祝now新聞台啟播十週年，新聞台及財經台辦公室開始裝修及改變樓層，包括會提供高清廣播，財經台使用新直播室，及改變財經台舊直播室樓層給新聞台使用。
-  - 2018年6月14日起，now新聞台及Viu
-    TV於星期一至五18:00-19:30開始公開測試播出高清製作的《now新聞報道》，惟測試只限於虛擬廠景畫面，新聞片段仍然以標清製作。7月23日起，now新聞台原直播廠為高清化最後準備而正式改裝，三部大電視已經移走。原直播廠現只作《時事全方位》節目用，而所有新聞報導由7月21日起暫時改用副直播室作直播。
-  - 2018年7月31日，now新聞台及財經台推出新兩條宣傳片，使用「踏高.望遠，透視清晰新聞視野」口號
-    ，宣傳快將升級高清。\[11\]\[12\]另使用「新.視野 2018 coming soon
-    ..」宣傳片，宣傳全新now新聞中心及高清服務快將啟播。\[13\]
-  - 2018年8月11日至12日，為配合now新聞台高清化之最後準備，所有新聞報道取消使用Shoulder
-    Box（即主播旁邊會顯示一些與該則新聞有關的插圖）及電視機。
+  - 2018年6月14日起，now新聞台及Viu TV於星期一至五18:00-19:30開始公開測試播出高清製作的《now新聞報道》，惟測試只限於虛擬廠景畫面，新聞片段仍然以標清製作。7月23日起，now新聞台原直播廠為高清化最後準備而正式改裝，三部大電視已經移走。原直播廠現只作《時事全方位》節目用，而所有新聞報導由7月21日起暫時改用副直播室作直播。
+  - 2018年7月31日，now新聞台及財經台推出新兩條宣傳片，使用「踏高.望遠，透視清晰新聞視野」口號 ，宣傳快將升級高清。\[11\]\[12\]另使用「新.視野 2018 coming soon ..」宣傳片，宣傳全新now新聞中心及高清服務快將啟播。\[13\]
+  - 2018年8月11日至12日，為配合now新聞台高清化之最後準備，所有新聞報道取消使用Shoulder Box（即主播旁邊會顯示一些與該則新聞有關的插圖）及電視機。
   - 2018年8月13日起，now新聞台正式由標清升級為高清及標清共享台號頻道，並使用原財經台3樓之樓層作新的now新聞中心及直播室。機頂盒版本資訊列新聞跑馬燈及台徽片首先在凌晨2時正啟用，手機及網上直播則在3時30分啟用，首個播放的高清節目為《now早晨》。
 
 ## 資訊列及新聞跑馬燈
 
-啟播初期，資訊列及新聞跑馬燈分別於畫面右上方及下方顯示。資訊列底色為半透明至不透明黑色，顯示一項主要指數。新聞跑馬燈分兩行顯示天文台總部溫度及濕度、當時生效警告（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在畫面左上方顯示](../Page/香港暴雨警告信號.md "wikilink")）、天色、一項主要指數及台徽，除台徽底色為深藍色（2007年10月24日-2010年9月19日中旬台徽曾以旋轉台徽形式，分別以中文及英文名稱，而now財經台台徽為靜態台徽。而台徽及時間初期分別在最上方和中間顯示，後來改在中間及下方顯示），全行底色為半透明至不透明黑色。下行水平滾動顯示新聞（黑底橙字），右下方顯示時間（底色為紫藍色）。\[14\]當有特別消息，會於畫面右方以黑底橫字顯示，並標示為「News
-Alert」。
+啟播初期，資訊列及新聞跑馬燈分別於畫面右上方及下方顯示。資訊列底色為半透明至不透明黑色，顯示一項主要指數。新聞跑馬燈分兩行顯示天文台總部溫度及濕度、當時生效警告（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在畫面左上方顯示](../Page/香港暴雨警告信號.md "wikilink")）、天色、一項主要指數及台徽，除台徽底色為深藍色（2007年10月24日-2010年9月19日中旬台徽曾以旋轉台徽形式，分別以中文及英文名稱，而now財經台台徽為靜態台徽。而台徽及時間初期分別在最上方和中間顯示，後來改在中間及下方顯示），全行底色為半透明至不透明黑色。下行水平滾動顯示新聞（黑底橙字），右下方顯示時間（底色為紫藍色）。\[14\]當有特別消息，會於畫面右方以黑底橫字顯示，並標示為「News Alert」。
 
-2010年9月中起，只顯示新聞跑馬燈，於下方並非貼近畫面邊緣，及分兩欄及兩行顯示。新聞跑馬燈左邊顯示台徽及時間，底色為白色至黑色漸變，其中白色集中在右上一點。新聞跑馬燈分兩行顯示，上行顯示兩項指數，底色為半透明黑色。另於右方顯示垂直滾動顯示天文台總部溫度及濕度、當時生效警告（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在畫面左上方顯示](../Page/香港暴雨警告信號.md "wikilink")）及天色，底色為黑色。下行水平滾動顯示新聞（黑底橙字）。\[15\]當有特別消息，仍舊會於畫面右方以黑底橫字顯示，並標示為「News
-Alert」。而當有一系列消息（如風暴消息、施政報告及財政預算案等），會於畫面上方顯示，標題以黃字及藍色半透明底色，相關消息以白字及紅色半透明底色，兩者間以Now
-TV標誌相隔。\[16\]
+2010年9月中起，只顯示新聞跑馬燈，於下方並非貼近畫面邊緣，及分兩欄及兩行顯示。新聞跑馬燈左邊顯示台徽及時間，底色為白色至黑色漸變，其中白色集中在右上一點。新聞跑馬燈分兩行顯示，上行顯示兩項指數，底色為半透明黑色。另於右方顯示垂直滾動顯示天文台總部溫度及濕度、當時生效警告（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在畫面左上方顯示](../Page/香港暴雨警告信號.md "wikilink")）及天色，底色為黑色。下行水平滾動顯示新聞（黑底橙字）。\[15\]當有特別消息，仍舊會於畫面右方以黑底橫字顯示，並標示為「News Alert」。而當有一系列消息（如風暴消息、施政報告及財政預算案等），會於畫面上方顯示，標題以黃字及藍色半透明底色，相關消息以白字及紅色半透明底色，兩者間以Now TV標誌相隔。\[16\]
 
-2015年11月30日起，now新聞台改以16:9標清格式廣播後，資訊列及新聞跑馬燈設計完全改變，均並非貼近畫面邊緣。資訊列改為在右上方分兩欄顯示，左方一欄垂直滾動顯示當時生效警告以及溫度、或以上天文台總部最高或最低氣溫、濕度（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在資訊列左邊顯示](../Page/香港暴雨警告信號.md "wikilink")），底色為深藍色；右方一欄顯示時間，底色為橙色。新聞跑馬燈左邊顯示台徽，底色為藍色，並再次以中文及英文名稱顯示。而新聞跑馬燈水平滾動以深藍底橙字顯示新聞。新聞跑馬燈右上方顯示兩項主要指數，而非港股交易日及星期六、日則只顯示一項主要指數或匯率，並與新聞跑馬燈並排。\[17\]當有特別消息，仍舊會於畫面右方以黑底橫字顯示，並標示為「News
-Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底黃字或圖示顯示，相關消息以黃底黑字。2016年4月起亦以該方式於星期一至五港股交易日06:00-09:30顯示「早晨快訊」，提供天氣預測、重點新聞及當日將發生的事項。
+2015年11月30日起，now新聞台改以16:9標清格式廣播後，資訊列及新聞跑馬燈設計完全改變，均並非貼近畫面邊緣。資訊列改為在右上方分兩欄顯示，左方一欄垂直滾動顯示當時生效警告以及溫度、或以上天文台總部最高或最低氣溫、濕度（[熱帶氣旋警告及](../Page/香港熱帶氣旋警告信號.md "wikilink")[暴雨警告信號則在資訊列左邊顯示](../Page/香港暴雨警告信號.md "wikilink")），底色為深藍色；右方一欄顯示時間，底色為橙色。新聞跑馬燈左邊顯示台徽，底色為藍色，並再次以中文及英文名稱顯示。而新聞跑馬燈水平滾動以深藍底橙字顯示新聞。新聞跑馬燈右上方顯示兩項主要指數，而非港股交易日及星期六、日則只顯示一項主要指數或匯率，並與新聞跑馬燈並排。\[17\]當有特別消息，仍舊會於畫面右方以黑底橫字顯示，並標示為「News Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底黃字或圖示顯示，相關消息以黃底黑字。2016年4月起亦以該方式於星期一至五港股交易日06:00-09:30顯示「早晨快訊」，提供天氣預測、重點新聞及當日將發生的事項。
 
 2018年8月13日之前，播映贊助節目期間，或因技術問題，資訊列及新聞跑馬燈暫時未能顯示，會於畫面左上方顯示台徽。
 
@@ -102,7 +83,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 
 ### 《時事全方位》（）
 
-駐台時事評論員[馮振超](https://zh.wikipedia.org/wiki/馮振超 "wikilink")（星期一）／[王慧麟](../Page/王慧麟.md "wikilink")（星期二、四）／[尹志強](https://zh.wikipedia.org/wiki/尹志強_\(時事評論員\) "wikilink")（星期三）／[許楨](https://zh.wikipedia.org/wiki/許楨 "wikilink")（星期五）與[彭晴](../Page/彭晴.md "wikilink")（如當日請假則由主播[黃凱迪](../Page/黃凱迪.md "wikilink")／[劉銘欣](https://zh.wikipedia.org/wiki/劉銘欣 "wikilink")／[李臻頂替](../Page/李臻.md "wikilink")）一起主持的時事節目，與學者、官員、議員，不同立場人士就具爭議性的話題及政府政策，深入討論，剖析背景，讓觀眾可以更加深入了解事件，電視觀眾可致電1833298參與討論。
+駐台時事評論員[馮振超](https://zh.wikipedia.org/wiki/馮振超 "wikilink")（星期一）／[王慧麟](../Page/王慧麟.md "wikilink")（星期二、四）／[尹志強](https://zh.wikipedia.org/wiki/尹志強_\(時事評論員\) "wikilink")（星期三）／[許楨](https://zh.wikipedia.org/wiki/許楨 "wikilink")（星期五）與[彭晴](../Page/彭晴.md "wikilink")（如當日請假則由主播[黃凱迪](../Page/黃凱迪.md "wikilink")／[劉銘欣](https://zh.wikipedia.org/wiki/劉銘欣 "wikilink")／[李臻](../Page/李臻.md "wikilink")頂替）一起主持的時事節目，與學者、官員、議員，不同立場人士就具爭議性的話題及政府政策，深入討論，剖析背景，讓觀眾可以更加深入了解事件，電視觀眾可致電1833298參與討論。
 
 由2011年3月7日起，環節節目《環球薈報》取消播放。而2015年5月4日起亦停止進行「now互動民調」。
 
@@ -200,27 +181,25 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 ### 《商滙大灣區》（The Greater Bay Area）
 
   - 播放時間：星期六11:20-11:30、11:50-12:00、星期日09:20-09:30、09:50-10:00。
-  - 由[Now財經台製作](../Page/Now財經台.md "wikilink")。
+  - 由[Now財經台](../Page/Now財經台.md "wikilink")製作。
 
 ### 《理財有方》（Wealth Management）
 
   - 播放時間：星期六09:20-09:30、09:50-10:00、星期日11:20-11:30、11:50-12:00。
-  - 由[Now財經台製作](../Page/Now財經台.md "wikilink")。
+  - 由[Now財經台](../Page/Now財經台.md "wikilink")製作。
 
 ### 《樓市每日睇》環節
 
   - 《示位Show/樓計飾》：星期四12:20-12:30、12:50-13:00、星期六14:20-14:30及14:50-15:00。
   - 《都會藍圖/新屋入伙》：星期三12:20-12:30、12:50-13:00、星期日14:20-14:30及14:50-15:00。
-  - 由[Now財經台製作](../Page/Now財經台.md "wikilink")。
+  - 由[Now財經台](../Page/Now財經台.md "wikilink")製作。
 
 ### 西甲精華
 
-  - 《**西甲戰報**》（）：2016年8月21日起逢星期一至五的賽事日翌日 15:20、15:50、星期六、日的賽事日翌日
-    09:10、09:40。
+  - 《**西甲戰報**》（）：2016年8月21日起逢星期一至五的賽事日翌日 15:20、15:50、星期六、日的賽事日翌日 09:10、09:40。
   - 《**西甲Goal Goal Goal**》（）：2016年8月21日起逢星期六、日的賽事日翌日10:10、10:40。
 
-西甲賽事精華片段由[Now
-Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilink")。而Now新聞網站的「[兩岸國際](http://news.now.com/home/international)」分類亦提供網上重溫。
+西甲賽事精華片段由[Now Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilink")。而Now新聞網站的「[兩岸國際](http://news.now.com/home/international)」分類亦提供網上重溫。
 
 ## 曾播映節目
 
@@ -236,8 +215,7 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
   - 《讀書好》：2011年5月13日至2011年12月30日，逢星期五《時事全方位》節目時段內12:10-12:20播出。
   - 《[大鳴大放](../Page/大鳴大放_\(電視節目\).md "wikilink")》
   - 《[英超戰報](http://news.now.com/home/opinion/detail?catCode=125&topicId=289)》（）：2016年5月16日及之前逢星期一至五的賽事日翌日06:20、06:50、15:20、15:50、星期六、日的賽事日翌日06:20、06:50、07:20、07:50、08:20、08:50。
-  - 《英超Goal Goal
-    Goal》（）：2016年5月16日及之前逢星期六、日的賽事日翌日10:15、10:45、12:15、12:45、星期一至五的賽事日翌日09:20。
+  - 《英超Goal Goal Goal》（）：2016年5月16日及之前逢星期六、日的賽事日翌日10:15、10:45、12:15、12:45、星期一至五的賽事日翌日09:20。
   - 《[文化多面睇](http://news.now.com/home/opinion/detail?catCode=125&topicId=349)》（）：2012年11月2日及之前於星期五《時事全方位》節目時段內12:10-12:20首播，2012年11月5日至2013年1月4日改為星期五21:50-22:00首播，2013年1月7日至2014年9月22日在星期一12:20-12:30首播，新一輯2015年4月17日至2016年8月19日於星期五12:20-12:30首播。
   - 《[電影館](http://news.now.com/home/opinion/detail?catCode=125&topicId=345)》（）：2017年12月28日及之前星期三、四港股交易日12:20-12:30首播。
   - 《[新聞極客](http://news.now.com/home/opinion/detail?catCode=125&topicId=568)》：2018年5月14日及之前較多在星期一新聞時段內播出，亦會在公眾假期新聞時段內播出。
@@ -278,8 +256,7 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
   - 《2016台灣大選》：2016年1月16日16:00-18:00直播。
   - 《[立法會新界東選舉論壇](../Page/2016年香港立法會新界東地方選區補選.md "wikilink")》：2016年2月15日09:30-11:00播出。
   - 《[2016立法會選舉論壇](../Page/2016年香港立法會選舉.md "wikilink")》：2016年8月29日至9月2日於《時事全方位》節目內（10:30-11:00）播出。（now新聞台只播五個功能界別的論壇，地區直選論壇及區議會（第二）論壇則於now直播台播出）
-  - 《[2016立法會選舉](../Page/2016年香港立法會選舉.md "wikilink")
-    點票直撃》：2016年9月4日22:30至9月5日19:00播出（但9月5日13:00後每半小時最後一節改為報道其他新聞）。
+  - 《[2016立法會選舉](../Page/2016年香港立法會選舉.md "wikilink") 點票直撃》：2016年9月4日22:30至9月5日19:00播出（但9月5日13:00後每半小時最後一節改為報道其他新聞）。
   - 《[2017行政長官選舉辯論](../Page/2017年行政長官選舉辯論.md "wikilink")》：2017年3月14日20:00-22:00播出。
 
 ### 大事回顧
@@ -318,8 +295,7 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
 
 ## 時間表
 
-正常情況下新聞報道每半小時一節，並於每小時00及30分開始播映（最大誤差：-2 至
-+2），各節新聞時段如下：（**粗體**表示與[ViuTV聯播](../Page/ViuTV.md "wikilink")）
+正常情況下新聞報道每半小時一節，並於每小時00及30分開始播映（最大誤差：-2 至 +2），各節新聞時段如下：（**粗體**表示與[ViuTV](../Page/ViuTV.md "wikilink")聯播）
 
 |       |                                                                                                                                        |                                                                                                 |                                                   |     |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------- | --- |
@@ -360,9 +336,9 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
 | 17:50 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: purple;">重播《氣象冷知識》</span>                                                   | <span style="color: purple;">重播《新聞智庫》</span>      |     |
 | 18:00 | <span style="color: orange;">**直播</span>及<span style="color: red;">《新聞智庫》**</span>                                                     | <span style="color: orange;">**直播**</span>                                                      |                                                   |     |
 | 18:30 | <span style="color: orange;">直播</span>及<span style="color: red;">《體育快訊》</span>                                                         | <span style="color: blue;">錄播</span>                                                            |                                                   |     |
-| 19:00 | <span style="color: orange;">直播</span>                                                                                                 |                                                                                                 |                                                   |     |
+| 19:00 | <span style="color: orange;">**直播**</span>                                                                                             |                                                                                                 |                                                   |     |
 | 19:30 | <span style="color: blue;">錄播</span>                                                                                                   |                                                                                                 |                                                   |     |
-| 20:00 | <span style="color: orange;">**直播**</span>                                                                                             |                                                                                                 |                                                   |     |
+| 20:00 | <span style="color: orange;">直播</span>                                                                                                 |                                                                                                 |                                                   |     |
 | 20:30 | <span style="color: blue;">錄播</span>                                                                                                   |                                                                                                 |                                                   |     |
 | 21:00 | <span style="color: orange;">直播《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》</span>                                                           | <span style="color: orange;">直播</span>                                                          | <span style="color: orange;">直播</span>            |     |
 | 21:20 | <span style="color: red;">《杏林在線》（星期一、五）</span>                                                                                         |                                                                                                 |                                                   |     |
@@ -386,7 +362,7 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
 | 05:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                                 |                                                   |     |
 | 05:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                                 |                                                   |     |
 
-  - 可對比[ViuTV啟播之前](../Page/ViuTV.md "wikilink")\[18\]及之後\[19\]的now新聞台節目表。
+  - 可對比[ViuTV](../Page/ViuTV.md "wikilink")啟播之前\[18\]及之後\[19\]的now新聞台節目表。
 
 ## now新聞台主播、主持及記者
 
@@ -400,10 +376,7 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
 
   -
   -
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:2007年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2007年成立的電視台或電視頻道 "wikilink")
-[Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink")
-[Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
+[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:2007年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2007年成立的電視台或電視頻道 "wikilink") [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
 
 1.
 2.  [亞洲電視大獎](http://www.asiantvawards.com/ata-2009-winner-list.asp)
@@ -414,8 +387,7 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
 7.
 8.
 9.
-10. [ViuTV
-    Facebook專頁生活時報相片](https://www.facebook.com/ViuTV.hk/photos/a.1565829617005787.1073741828.1555649141357168/1811671729088240/?type=3)
+10. [ViuTV Facebook專頁生活時報相片](https://www.facebook.com/ViuTV.hk/photos/a.1565829617005787.1073741828.1555649141357168/1811671729088240/?type=3)
 11.
 12.
 13.

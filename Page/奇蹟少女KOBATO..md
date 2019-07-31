@@ -13,9 +13,7 @@
 ### 主要人物
 
   -
-    本作的女主角。是個沒有常識又[天然呆](../Page/天然呆.md "wikilink")的女孩子。專長是唱歌。因為-{呆呆}-的加上沒心機，所以很受托兒所的小孩歡迎，但也常常出包，這時通常五百阿藏會對她噴火。小鳩很想去一個地方，在去那裡之前，必須把「瓶子」裝滿受傷的心，為了治療受傷的心，而在艾草托兒所當義工。總是戴著帽子，似乎隱藏著什麼秘密。可用來識別身份。漫畫中提到，小鳩其實是個瀕臨死亡的人，並且是因為當年五百阿藏和『天界』的戰爭所導致的。當年，五百阿藏為了想要得到自己心儀的天使
-    －
-    水晶（跟小鳩擁有同一個靈魂跟外貌只是不同世界的存在）而向『天界』宣戰，卻意外導致『人界』的小鳩遭受到池魚之殃而瀕臨死亡。水晶便以自己的靈魂為代價，代替了小鳩的靈魂，並且停止了小鳩的時間，將小鳩的時間停在死前的一剎那，不過似乎有時間限制。『天使』似乎沈睡在小鳩的體內，因而小鳩偶爾能使用天使的『法願』。
+    本作的女主角。是個沒有常識又[天然呆](../Page/天然呆.md "wikilink")的女孩子。專長是唱歌。因為-{呆呆}-的加上沒心機，所以很受托兒所的小孩歡迎，但也常常出包，這時通常五百阿藏會對她噴火。小鳩很想去一個地方，在去那裡之前，必須把「瓶子」裝滿受傷的心，為了治療受傷的心，而在艾草托兒所當義工。總是戴著帽子，似乎隱藏著什麼秘密。可用來識別身份。漫畫中提到，小鳩其實是個瀕臨死亡的人，並且是因為當年五百阿藏和『天界』的戰爭所導致的。當年，五百阿藏為了想要得到自己心儀的天使 － 水晶（跟小鳩擁有同一個靈魂跟外貌只是不同世界的存在）而向『天界』宣戰，卻意外導致『人界』的小鳩遭受到池魚之殃而瀕臨死亡。水晶便以自己的靈魂為代價，代替了小鳩的靈魂，並且停止了小鳩的時間，將小鳩的時間停在死前的一剎那，不過似乎有時間限制。『天使』似乎沈睡在小鳩的體內，因而小鳩偶爾能使用天使的『法願』。
     動畫版收尾中，小鳩其實是已經死亡的人，因為與某個大人物定下契約，約定只要裝滿瓶子，就可以轉世重生，來到世上，帽子下有個藍色的皇冠，是契約的證明。收集的期限是一年，小鳩後來因為把時間用來陪伴清和，而無法達成約定，靈魂差點被帶走。幸好藤本最後的那顆金平糖讓瓶子填滿，小鳩的願望『想要回到最想念的人的身邊』才得以實現。小鳩離去後，所有曾經跟小鳩接觸過的人全都忘記了和小鳩之間的回憶（琥珀除外）。四年後（漫畫為十六年後），轉世的小鳩與清和見面，因為碰觸到自己的金平糖而想起前世的記憶，與清和重逢。天使兔子也還給了所有人當初和小鳩之間的回憶。
 
 <!-- end list -->
@@ -212,19 +210,15 @@
 
 ### 其他
 
-  - 奇蹟少女KOBATO.2010 Calendar 2009年11月18日發售 ISBN 978-4-04-715363-9
-    [角川书店](https://zh.wikipedia.org/wiki/角川书店 "wikilink")
+  - 奇蹟少女KOBATO.2010 Calendar 2009年11月18日發售 ISBN 978-4-04-715363-9 [角川书店](https://zh.wikipedia.org/wiki/角川书店 "wikilink")
 
-  - TV動畫《奇蹟少女KOBATO.》CHARACTERS COLLECTION 2010年2月24日發售 ISBN
-    978-4-04-854454-2 角川书店
+  - TV動畫《奇蹟少女KOBATO.》CHARACTERS COLLECTION 2010年2月24日發售 ISBN 978-4-04-854454-2 角川书店
 
-  - TV動畫《奇蹟少女KOBATO.》公式指南 Happy Memories 2010年5月28日發售 ISBN
-    978-4-04-854491-7 角川书店
+  - TV動畫《奇蹟少女KOBATO.》公式指南 Happy Memories 2010年5月28日發售 ISBN 978-4-04-854491-7 角川书店
 
   - 2011年10月19日發售 ISBN 978-4-04-854710-9 角川书店
 
-      - 小鸠 插画与回忆 2013年5月5日发售 ISBN 978-7-5356-6175-3
-        [湖南美術出版社](https://zh.wikipedia.org/wiki/湖南美術出版社 "wikilink")（出版）、[天闻角川](../Page/天闻角川.md "wikilink")（发行）
+      - 小鸠 插画与回忆 2013年5月5日发售 ISBN 978-7-5356-6175-3 [湖南美術出版社](https://zh.wikipedia.org/wiki/湖南美術出版社 "wikilink")（出版）、[天闻角川](../Page/天闻角川.md "wikilink")（发行）
 
 ## 電視動畫
 
@@ -253,16 +247,13 @@
   -
 
       -
-        作詞 - [坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")、作曲・編曲
-        - 北川勝利、ストリングス編曲 - 河野伸、歌 -
-        [坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")
+        作詞 - [坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")、作曲・編曲 - 北川勝利、ストリングス編曲 - 河野伸、歌 - [坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")
 
   - 片尾曲
 
 :; 「ジェリーフィッシュの告白」（第1話 - 第19話）
 
-:: 作詞 - [岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")、作曲・編曲 -
-宮川彈、歌 - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
+:: 作詞 - [岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")、作曲・編曲 - 宮川彈、歌 - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
 :; 「わたしにできること」（第20話 - 第23話）
 
@@ -281,13 +272,11 @@
 
 :; 「あした来る日」（即將到來的明天）（第1話、第8話）
 
-:: 作詞 - [新居昭乃](../Page/新居昭乃.md "wikilink")、作曲・編曲 - はまたけし、歌 -
-[花澤香菜](../Page/花澤香菜.md "wikilink")
+:: 作詞 - [新居昭乃](../Page/新居昭乃.md "wikilink")、作曲・編曲 - はまたけし、歌 - [花澤香菜](../Page/花澤香菜.md "wikilink")
 
 :; 「あした来る日～いちょうの木の下で」（即將到來的明天～在銀杏樹下）（第13話）
 
-:: 作詞 - [新居昭乃](../Page/新居昭乃.md "wikilink")、作曲・編曲 - はまたけし 、歌 -
-[花澤香菜](../Page/花澤香菜.md "wikilink")／[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")
+:: 作詞 - [新居昭乃](../Page/新居昭乃.md "wikilink")、作曲・編曲 - はまたけし 、歌 - [花澤香菜](../Page/花澤香菜.md "wikilink")／[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")
 
 :; 「あした来る日〜雪の降る街で」（即將到來的明天～下雪的街道）（第19話）
 
@@ -622,9 +611,4 @@
 
   - [動畫官方網站](https://web.archive.org/web/20090626234839/http://www.kobato.tv/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink")
-[Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")
-[Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:CLAMP](https://zh.wikipedia.org/wiki/Category:CLAMP "wikilink") [Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink") [Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")

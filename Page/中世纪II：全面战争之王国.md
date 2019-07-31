@@ -2,8 +2,7 @@
 
 ## 戰役
 
-中世纪II：全面战争之王国新增了四個分別集中在不同地區的戰役，主題分別關於[征服美洲](https://zh.wikipedia.org/wiki/殖民美洲 "wikilink")、13世紀[不列顛群島上的一連串戰事](https://zh.wikipedia.org/wiki/不列顛群島 "wikilink")
-(包括、、及)、[第三](https://zh.wikipedia.org/wiki/第三次十字軍東征 "wikilink")、[四次十字軍東征以及](https://zh.wikipedia.org/wiki/第四次十字軍東征 "wikilink")[北方十字軍](https://zh.wikipedia.org/wiki/北方十字軍 "wikilink")。
+中世纪II：全面战争之王国新增了四個分別集中在不同地區的戰役，主題分別關於[征服美洲](https://zh.wikipedia.org/wiki/殖民美洲 "wikilink")、13世紀[不列顛群島上的一連串戰事](https://zh.wikipedia.org/wiki/不列顛群島 "wikilink") (包括、、及)、[第三](https://zh.wikipedia.org/wiki/第三次十字軍東征 "wikilink")、[四次十字軍東征以及](https://zh.wikipedia.org/wiki/第四次十字軍東征 "wikilink")[北方十字軍](https://zh.wikipedia.org/wiki/北方十字軍 "wikilink")。
 
 ## 美洲風雲
 
@@ -25,8 +24,7 @@
 
   - (可解鎖)
 
-  - [新法蘭西](../Page/新法蘭西.md "wikilink")
-    ([NPC](https://zh.wikipedia.org/wiki/NPC "wikilink"))
+  - [新法蘭西](../Page/新法蘭西.md "wikilink") ([NPC](https://zh.wikipedia.org/wiki/NPC "wikilink"))
 
   - ([NPC](https://zh.wikipedia.org/wiki/NPC "wikilink"))
 
@@ -57,10 +55,8 @@
   - [贊吉王朝](https://zh.wikipedia.org/wiki/贊吉王朝 "wikilink")
   - [阿尤布王朝](../Page/阿尤布王朝.md "wikilink")
   - [拜占庭帝國](https://zh.wikipedia.org/wiki/拜占庭帝國 "wikilink")
-  - [金帳汗國](https://zh.wikipedia.org/wiki/金帳汗國 "wikilink")
-    ([NPC](https://zh.wikipedia.org/wiki/NPC "wikilink"))
-  - [威尼斯共和國](https://zh.wikipedia.org/wiki/威尼斯共和國 "wikilink")
-    ([NPC](https://zh.wikipedia.org/wiki/NPC "wikilink"))
+  - [金帳汗國](https://zh.wikipedia.org/wiki/金帳汗國 "wikilink") ([NPC](https://zh.wikipedia.org/wiki/NPC "wikilink"))
+  - [威尼斯共和國](https://zh.wikipedia.org/wiki/威尼斯共和國 "wikilink") ([NPC](https://zh.wikipedia.org/wiki/NPC "wikilink"))
 
 #### 英雄
 
@@ -121,23 +117,15 @@
 ## 評價
 
   - Game Informer 給了 9/10 指出遊戲加上了許多改進。
-  - [Gamespot](https://zh.wikipedia.org/wiki/Gamespot "wikilink") 給了
-    8/10\[1\]指出遊戲更值得不過在安裝時很乏味。
+  - [Gamespot](https://zh.wikipedia.org/wiki/Gamespot "wikilink") 給了 8/10\[1\]指出遊戲更值得不過在安裝時很乏味。
 
 ## 參考文獻
 
 ## 外部連結
 
   - [官方網站](https://web.archive.org/web/20100122010504/http://www.totalwar.com/index.html?page=%2Fus%2Fmedieval2%2Fgameinfo%2Fkingdoms%2Findex.html&nav=%2Fus%2Fmedieval2%2F1%2F4%2F)
-  - [Total War 全軍破敵 : Royal Military Academy
-    皇家軍事學院](http://totalwar.honga.net/)
+  - [Total War 全軍破敵 : Royal Military Academy 皇家軍事學院](http://totalwar.honga.net/)
 
-[Category:即时战术游戏](https://zh.wikipedia.org/wiki/Category:即时战术游戏 "wikilink")
-[Category:全面战争系列](https://zh.wikipedia.org/wiki/Category:全面战争系列 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:回合制策略游戏](https://zh.wikipedia.org/wiki/Category:回合制策略游戏 "wikilink")
-[Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
+[Category:即时战术游戏](https://zh.wikipedia.org/wiki/Category:即时战术游戏 "wikilink") [Category:全面战争系列](https://zh.wikipedia.org/wiki/Category:全面战争系列 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:回合制策略游戏](https://zh.wikipedia.org/wiki/Category:回合制策略游戏 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
 
 1.

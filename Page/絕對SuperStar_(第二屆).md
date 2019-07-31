@@ -497,8 +497,7 @@
 
 官方網站
 
-  - [《絕對SuperStar
-    (第二屆)》官方網站（存檔）](https://web.archive.org/web/20090705091454/http://archiveu.mediacorptv.sg/pss2/)
+  - [《絕對SuperStar (第二屆)》官方網站（存檔）](https://web.archive.org/web/20090705091454/http://archiveu.mediacorptv.sg/pss2/)
 
 官方新聞
 
@@ -523,9 +522,7 @@
 
 </div>
 
-[Category:新加坡電視節目](https://zh.wikipedia.org/wiki/Category:新加坡電視節目 "wikilink")
-[Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
-[Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
+[Category:新加坡電視節目](https://zh.wikipedia.org/wiki/Category:新加坡電視節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
 
 1.
 2.

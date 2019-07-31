@@ -1,4 +1,4 @@
-**Animedia**（日文名：アニメディア），[日本](../Page/日本.md "wikilink")[学習研究社所發行的](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")[動畫雜誌月刊](../Page/動畫雜誌.md "wikilink")。每月10日發售。自稱「」。
+**Animedia**（日文名：アニメディア），[日本](../Page/日本.md "wikilink")[学習研究社所發行的](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")[動畫雜誌](../Page/動畫雜誌.md "wikilink")月刊。每月10日發售。自稱「」。
 
 ## 簡介
 
@@ -51,8 +51,6 @@
   -
   - [PCHome購物【アニメディア】1年12期](http://store.pchome.com.tw/jmag/M01061736.htm)
 
-[分類:1981年創辦的雜誌](https://zh.wikipedia.org/wiki/分類:1981年創辦的雜誌 "wikilink")
-[分類:1981年日本建立](https://zh.wikipedia.org/wiki/分類:1981年日本建立 "wikilink")
+[分類:1981年創辦的雜誌](https://zh.wikipedia.org/wiki/分類:1981年創辦的雜誌 "wikilink") [分類:1981年日本建立](https://zh.wikipedia.org/wiki/分類:1981年日本建立 "wikilink")
 
-[Category:學習研究社](https://zh.wikipedia.org/wiki/Category:學習研究社 "wikilink")
-[Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink")
+[Category:學習研究社](https://zh.wikipedia.org/wiki/Category:學習研究社 "wikilink") [Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink")

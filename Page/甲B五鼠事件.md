@@ -39,16 +39,9 @@
 
   - [新华网](http://news.xinhuanet.com/sports/2007-12/03/content_7191827.htm)
   - 甲B五鼠案：[1](http://book.sina.com.cn/nzt/ele/gwslzuqiu/5.shtml)、[2](http://book.sina.com.cn/nzt/ele/gwslzuqiu/6.shtml)
-  - [中国足协网开一面
-    “甲Ｂ五鼠”放跑了仨](http://sports.sina.com.cn/b/2002-03-05/05243429.shtml)
-  - ["甲B五鼠"历史不能重演
-    足协中甲收官严防死守](http://sports.sohu.com/20081113/n260605578.shtml)
+  - [中国足协网开一面 “甲Ｂ五鼠”放跑了仨](http://sports.sina.com.cn/b/2002-03-05/05243429.shtml)
+  - ["甲B五鼠"历史不能重演 足协中甲收官严防死守](http://sports.sohu.com/20081113/n260605578.shtml)
 
-[Category:2001年中国足球](https://zh.wikipedia.org/wiki/Category:2001年中国足球 "wikilink")
-[Category:中国足球甲B联赛](https://zh.wikipedia.org/wiki/Category:中国足球甲B联赛 "wikilink")
-[Category:中华人民共和国体育丑闻](https://zh.wikipedia.org/wiki/Category:中华人民共和国体育丑闻 "wikilink")
-[Category:2001年9月](https://zh.wikipedia.org/wiki/Category:2001年9月 "wikilink")
-[Category:2001年10月](https://zh.wikipedia.org/wiki/Category:2001年10月 "wikilink")
+[Category:2001年中国足球](https://zh.wikipedia.org/wiki/Category:2001年中国足球 "wikilink") [Category:中国足球甲B联赛](https://zh.wikipedia.org/wiki/Category:中国足球甲B联赛 "wikilink") [Category:中华人民共和国体育丑闻](https://zh.wikipedia.org/wiki/Category:中华人民共和国体育丑闻 "wikilink") [Category:2001年9月](https://zh.wikipedia.org/wiki/Category:2001年9月 "wikilink") [Category:2001年10月](https://zh.wikipedia.org/wiki/Category:2001年10月 "wikilink")
 
-1.  [30年合同八个月终止
-    广州吉利无奈退出到底为哪般](http://sports.sina.com.cn/b/2001-12-15/15216394.shtml)
+1.  [30年合同八个月终止 广州吉利无奈退出到底为哪般](http://sports.sina.com.cn/b/2001-12-15/15216394.shtml)

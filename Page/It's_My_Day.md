@@ -1,7 +1,4 @@
-《**It's My
-Day**》是[薛凱琪的首張](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[國語專輯](https://zh.wikipedia.org/wiki/國語 "wikilink")，於2008年4月18日推出，主打歌為《愛麗絲的第一次》，以及第二主打《我不需要Tiffany》。此外，碟內其中一曲《It's
-My
-Day》更由[Zarahn成員](../Page/Zarahn.md "wikilink")[Goro作曲](https://zh.wikipedia.org/wiki/Goro "wikilink")。而《復刻回憶》則是改編自樂壇巨星[張學友的經典粵語流行歌曲](https://zh.wikipedia.org/wiki/張學友 "wikilink")[每天愛你多一些](../Page/每天愛你多一些.md "wikilink")，由[薛凱琪與](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[方大同合唱](https://zh.wikipedia.org/wiki/方大同 "wikilink")。
+《**It's My Day**》是[薛凱琪的首張](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[國語專輯](https://zh.wikipedia.org/wiki/國語 "wikilink")，於2008年4月18日推出，主打歌為《愛麗絲的第一次》，以及第二主打《我不需要Tiffany》。此外，碟內其中一曲《It's My Day》更由[Zarahn](../Page/Zarahn.md "wikilink")成員[Goro作曲](https://zh.wikipedia.org/wiki/Goro "wikilink")。而《復刻回憶》則是改編自樂壇巨星[張學友的經典粵語流行歌曲](https://zh.wikipedia.org/wiki/張學友 "wikilink")[每天愛你多一些](../Page/每天愛你多一些.md "wikilink")，由[薛凱琪與](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[方大同合唱](https://zh.wikipedia.org/wiki/方大同 "wikilink")。
 
 ## 曲目
 
@@ -20,8 +17,8 @@ Day》更由[Zarahn成員](../Page/Zarahn.md "wikilink")[Goro作曲](https://zh.
 
 ## 曲目資料
 
-  - 《新不了情》為[無線電視劇](https://zh.wikipedia.org/wiki/無線 "wikilink")[新不了情插曲](../Page/新不了情_\(2008年電視劇\).md "wikilink")，非翻唱[萬芳的同名歌曲](../Page/萬芳.md "wikilink")，只是同名異曲。
-  - 《復刻回憶》由[薛凱琪與](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[方大同合唱](https://zh.wikipedia.org/wiki/方大同 "wikilink")，原曲為[桑田佳祐的](../Page/桑田佳祐.md "wikilink")《[真夏的果實](../Page/真夏的果實.md "wikilink")》（[南方之星歌曲](../Page/南方之星.md "wikilink")）。
+  - 《新不了情》為[無線電視劇](https://zh.wikipedia.org/wiki/無線 "wikilink")[新不了情插曲](../Page/新不了情_\(2008年電視劇\).md "wikilink")，非翻唱[萬芳](../Page/萬芳.md "wikilink")的同名歌曲，只是同名異曲。
+  - 《復刻回憶》由[薛凱琪與](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[方大同合唱](https://zh.wikipedia.org/wiki/方大同 "wikilink")，原曲為[桑田佳祐](../Page/桑田佳祐.md "wikilink")的《[真夏的果實](../Page/真夏的果實.md "wikilink")》（[南方之星](../Page/南方之星.md "wikilink")歌曲）。
   - 《我不需要Tiffany》為2008年冠軍歌曲、及香港第二主打歌曲。
   - 《It's my day》為台灣第一主打歌曲。
   - 《愛麗斯的第一次》為香港第一主打歌曲。

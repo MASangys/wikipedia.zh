@@ -89,8 +89,7 @@
   -
 
       -
-        原型角色為戰國天才軍師
-        [竹中半兵衛](../Page/竹中重治.md "wikilink")，因此人馬合一形態亦沿用其外號「美濃的麒麟兒」，稱為「麒麟兒」
+        原型角色為戰國天才軍師 [竹中半兵衛](../Page/竹中重治.md "wikilink")，因此人馬合一形態亦沿用其外號「美濃的麒麟兒」，稱為「麒麟兒」
 
 <!-- end list -->
 
@@ -191,14 +190,12 @@
 
 <!-- end list -->
 
-  - **武者江須**（MSA-0011 Sガンダム/S Gundam，雷神著裝後則為 MSA-001Ext Ex-Sガンダム/Ex-S
-    Gundam）
+  - **武者江須**（MSA-0011 Sガンダム/S Gundam，雷神著裝後則為 MSA-001Ext Ex-Sガンダム/Ex-S Gundam）
 
 <!-- end list -->
 
   -
-    擁有光之玉「勇猛無敵者
-    」（日文名稱「マー」即是「火星」），出生於世代祭祀「火之鎧」的神社「四天神社」，為宮司（大祭司）之子，駄舞留精太之徒弟。
+    擁有光之玉「勇猛無敵者 」（日文名稱「マー」即是「火星」），出生於世代祭祀「火之鎧」的神社「四天神社」，為宮司（大祭司）之子，駄舞留精太之徒弟。
 
 <!-- end list -->
 
@@ -473,8 +470,7 @@
 <!-- end list -->
 
   -
-    「闇之五人眾」之一、騎忍軍團首領、「武者七人眾篇」時代「SUPER BIG
-    3」之一，仍然是堂我一族首領。是其中擁有暗黑碎片的人，對眾人希望令殺驅頭復活的想法，存有懷疑。
+    「闇之五人眾」之一、騎忍軍團首領、「武者七人眾篇」時代「SUPER BIG 3」之一，仍然是堂我一族首領。是其中擁有暗黑碎片的人，對眾人希望令殺驅頭復活的想法，存有懷疑。
 
 <!-- end list -->
 
@@ -574,8 +570,7 @@
 
 由「SUPER BIG 3」之一的壐惡所率領的忍軍。
 
-  - **彈犬**（NRX-055-1 バウンド・ドック/Baund
-    Doc\[-{zh-hk:露莎美亞;zh-tw:羅莎彌雅;}-專用機\]）
+  - **彈犬**（NRX-055-1 バウンド・ドック/Baund Doc\[-{zh-hk:露莎美亞;zh-tw:羅莎彌雅;}-專用機\]）
 
 <!-- end list -->
 
@@ -597,10 +592,9 @@
 
 由劍舞風荒所率領的新編忍軍。
 
-##### [女忍者眾](../Page/女忍者.md "wikilink")
+##### [女忍者](../Page/女忍者.md "wikilink")眾
 
-  - **破羅守當音**（PMX-001 パラス・アテネ/Palace Athene）、**蠻魔蠻魔**（AMX-103
-    ハンマ・ハンマ/Hamma Hamma）
+  - **破羅守當音**（PMX-001 パラス・アテネ/Palace Athene）、**蠻魔蠻魔**（AMX-103 ハンマ・ハンマ/Hamma Hamma）
 
 <!-- end list -->
 
@@ -635,7 +629,7 @@
 <!-- end list -->
 
   -
-    「[風林火山](https://zh.wikipedia.org/wiki/風林火山 "wikilink")」一名，源於日本名將[武田信玄軍旗上](../Page/武田信玄.md "wikilink")「風林火山」四字；至於四天王，同樣是信玄麾下「武田四天王」[板垣信方](../Page/板垣信方.md "wikilink")、[甘利虎泰](https://zh.wikipedia.org/wiki/甘利虎泰 "wikilink")、[飯富虎昌](https://zh.wikipedia.org/wiki/飯富虎昌 "wikilink")、[小山田昌辰](https://zh.wikipedia.org/wiki/小山田昌辰 "wikilink")。
+    「[風林火山](https://zh.wikipedia.org/wiki/風林火山 "wikilink")」一名，源於日本名將[武田信玄](../Page/武田信玄.md "wikilink")軍旗上「風林火山」四字；至於四天王，同樣是信玄麾下「武田四天王」[板垣信方](../Page/板垣信方.md "wikilink")、[甘利虎泰](https://zh.wikipedia.org/wiki/甘利虎泰 "wikilink")、[飯富虎昌](https://zh.wikipedia.org/wiki/飯富虎昌 "wikilink")、[小山田昌辰](https://zh.wikipedia.org/wiki/小山田昌辰 "wikilink")。
 
 <!-- end list -->
 
@@ -675,8 +669,7 @@
 <!-- end list -->
 
   -
-    [SD GUNDAM
-    FORCE中](https://zh.wikipedia.org/wiki/SD_GUNDAM_FORCE "wikilink")，亦曾出現天地城，作為騎馬王丸本陣。其設計及功能與舊版完全不同。
+    [SD GUNDAM FORCE中](https://zh.wikipedia.org/wiki/SD_GUNDAM_FORCE "wikilink")，亦曾出現天地城，作為騎馬王丸本陣。其設計及功能與舊版完全不同。
 
 <!-- end list -->
 
@@ -728,8 +721,7 @@
   -
 
       -
-        況且，由於「風林火山篇」時，元老級將領較多（「[天下統一篇](https://zh.wikipedia.org/wiki/天下統一篇 "wikilink")」時頑馱無軍團的成員，[鳳凰](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")、[百之進](https://zh.wikipedia.org/wiki/百之進 "wikilink")（字音太君）均已死去，[殺驅頭亦成為](https://zh.wikipedia.org/wiki/殺驅頭 "wikilink")[闇軍團首領](https://zh.wikipedia.org/wiki/闇軍團 "wikilink")，與[頑馱無軍團對抗](https://zh.wikipedia.org/wiki/頑馱無軍團 "wikilink")；唯一仍留在軍團的成員，就是後來成為將頑馱無的雷。因此，會有「將」與「副將軍」權力重疊的錯覺。實際上，是由於人手不足，變成不得不由一人掌握大權。可以這樣理解：出現副將軍一職後，將頑馱無的權責才正式確立。）將頑馱無部分職能，例如往前線作戰、擁有專屬部隊進行刺探工作，亦由副將軍分擔。所以「風林火山篇」中，大將軍未完全復活前，副將軍就代替大將軍率領年青武者作戰，將頑馱無則居中留守，負責策劃事宜（參考：SD
-        GUNDAM風雲錄相關情節）
+        況且，由於「風林火山篇」時，元老級將領較多（「[天下統一篇](https://zh.wikipedia.org/wiki/天下統一篇 "wikilink")」時頑馱無軍團的成員，[鳳凰](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")、[百之進](https://zh.wikipedia.org/wiki/百之進 "wikilink")（字音太君）均已死去，[殺驅頭亦成為](https://zh.wikipedia.org/wiki/殺驅頭 "wikilink")[闇軍團首領](https://zh.wikipedia.org/wiki/闇軍團 "wikilink")，與[頑馱無軍團對抗](https://zh.wikipedia.org/wiki/頑馱無軍團 "wikilink")；唯一仍留在軍團的成員，就是後來成為將頑馱無的雷。因此，會有「將」與「副將軍」權力重疊的錯覺。實際上，是由於人手不足，變成不得不由一人掌握大權。可以這樣理解：出現副將軍一職後，將頑馱無的權責才正式確立。）將頑馱無部分職能，例如往前線作戰、擁有專屬部隊進行刺探工作，亦由副將軍分擔。所以「風林火山篇」中，大將軍未完全復活前，副將軍就代替大將軍率領年青武者作戰，將頑馱無則居中留守，負責策劃事宜（參考：SD GUNDAM風雲錄相關情節）
 
 <!-- end list -->
 

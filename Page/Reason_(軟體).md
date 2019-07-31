@@ -1,15 +1,9 @@
-**Reason**是由瑞典軟體公司[Propellerhead
-Software所開發的音樂製作軟體](https://zh.wikipedia.org/wiki/:en:Propellerhead_Software "wikilink")。它模擬成架的硬體合成器、取樣機、訊號處理器、編曲機以及混音器。Reason可以作為一個完整的音樂工作室使用，也可以被其他編曲軟體使用當作虛擬樂器插件。
-Reason的軟體名稱是得自[尼爾史蒂芬森的一部](https://zh.wikipedia.org/wiki/:en:Neal_Stephenson "wikilink")[科幻小說](https://zh.wikipedia.org/wiki/科幻小說 "wikilink")“[Snow
-Crash](https://zh.wikipedia.org/wiki/:en:Snow_Crash "wikilink")”中的一樣設備。在早期的發展它被稱作Realizer（繼PPG
-Realizer之後）。
+**Reason**是由瑞典軟體公司[Propellerhead Software所開發的音樂製作軟體](https://zh.wikipedia.org/wiki/:en:Propellerhead_Software "wikilink")。它模擬成架的硬體合成器、取樣機、訊號處理器、編曲機以及混音器。Reason可以作為一個完整的音樂工作室使用，也可以被其他編曲軟體使用當作虛擬樂器插件。
+Reason的軟體名稱是得自[尼爾史蒂芬森的一部](https://zh.wikipedia.org/wiki/:en:Neal_Stephenson "wikilink")[科幻小說](https://zh.wikipedia.org/wiki/科幻小說 "wikilink")“[Snow Crash](https://zh.wikipedia.org/wiki/:en:Snow_Crash "wikilink")”中的一樣設備。在早期的發展它被稱作Realizer（繼PPG Realizer之後）。
 
 ## 概要
 
-Reason
-1.0在2000年11月時釋出。它就像擬真的錄音室，使用者可以在架上放置虛擬設備，像是樂器、效果器，以及混音器等等。這些模組可以由Reason內建的MIDI編曲器或是一些其他的編曲軟體控制，如[Pro
-Tools](../Page/Pro_Tools.md "wikilink")、[Logic](https://zh.wikipedia.org/wiki/Logic "wikilink")、[Digital
-Performer](https://zh.wikipedia.org/wiki/Digital_Performer "wikilink")、[Cubase](../Page/Cubase.md "wikilink")、[Sonar和](https://zh.wikipedia.org/wiki/Sonar "wikilink")[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")，只要透過Propellerhead的[ReWire](../Page/ReWire.md "wikilink")協定便可達成。
+Reason 1.0在2000年11月時釋出。它就像擬真的錄音室，使用者可以在架上放置虛擬設備，像是樂器、效果器，以及混音器等等。這些模組可以由Reason內建的MIDI編曲器或是一些其他的編曲軟體控制，如[Pro Tools](../Page/Pro_Tools.md "wikilink")、[Logic](https://zh.wikipedia.org/wiki/Logic "wikilink")、[Digital Performer](https://zh.wikipedia.org/wiki/Digital_Performer "wikilink")、[Cubase](../Page/Cubase.md "wikilink")、[Sonar和](https://zh.wikipedia.org/wiki/Sonar "wikilink")[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")，只要透過Propellerhead的[ReWire](../Page/ReWire.md "wikilink")協定便可達成。
 
 在4.0的版本中，可以使用的模組包括有：
 

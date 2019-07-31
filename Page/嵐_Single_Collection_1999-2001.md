@@ -1,15 +1,10 @@
-《**嵐 Single Collection
-1999-2001**》是[嵐](../Page/嵐.md "wikilink")的第2枚專輯，第1枚精選專輯。於2002年5月16日發行。唱片公司為[J
-Storm](../Page/J_Storm.md "wikilink")。
+《**嵐 Single Collection 1999-2001**》是[嵐](../Page/嵐.md "wikilink")的第2枚專輯，第1枚精選專輯。於2002年5月16日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
 
   - J Storm發行的首張專輯。
-  - 收錄了[波麗佳音時代發售的](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")6張單曲連同C/W曲的精選專輯。因此，並沒有收錄當時已由J
-    Storm發行的《[a Day in Our
-    Life](https://zh.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")》及《[心情超讚](../Page/心情超讚.md "wikilink")》。
-  - J Storm當時有如單曲525日圓一張的低價格戰略，本作品亦以2625日圓，比一般專輯更低的價格發售。下張原創專輯《[HERE WE
-    GO\!](../Page/HERE_WE_GO!.md "wikilink")》亦繼承了這種策略。
+  - 收錄了[波麗佳音時代發售的](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")6張單曲連同C/W曲的精選專輯。因此，並沒有收錄當時已由J Storm發行的《[a Day in Our Life](https://zh.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")》及《[心情超讚](../Page/心情超讚.md "wikilink")》。
+  - J Storm當時有如單曲525日圓一張的低價格戰略，本作品亦以2625日圓，比一般專輯更低的價格發售。下張原創專輯《[HERE WE GO\!](../Page/HERE_WE_GO!.md "wikilink")》亦繼承了這種策略。
 
 ## 收錄曲
 
@@ -21,8 +16,7 @@ Storm](../Page/J_Storm.md "wikilink")。
     （作詞：F\&T　作曲：馬飼野康二）
 4.  **[HORIZON](https://zh.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")**
     （作詞：TAKESHI　作曲：谷本新）
-5.  **[颱風世代 -Typhoon
-    Generation-](../Page/颱風世代_-Typhoon_Generation-.md "wikilink")**
+5.  **[颱風世代 -Typhoon Generation-](../Page/颱風世代_-Typhoon_Generation-.md "wikilink")**
     （作詞：久保田洋司　作曲：馬飼野康二）
 6.  **[朝著明天吶喊](../Page/颱風世代_-Typhoon_Generation-.md "wikilink")**
     （作詞：久世瑪莉亞　作曲：谷本新）
@@ -39,5 +33,4 @@ Storm](../Page/J_Storm.md "wikilink")。
 12. **[戀情破碎](../Page/時代_\(嵐\).md "wikilink")**
     （作詞：久世瑪莉亞　作曲：馬飼野康二）
 
-[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
+[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")

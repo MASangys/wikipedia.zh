@@ -816,31 +816,31 @@
 
 #### 6月
 
-|                    |                                                                                                                                                                                              |        |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **首播日期**           | **嘉賓**                                                                                                                                                                                       | **主持** |
-| 2011年6月1日 (\#105)  | [查錫我](https://zh.wikipedia.org/wiki/查錫我 "wikilink")                                                                                                                                          | 陳芷菁    |
-| 2011年6月2日 (\#106)  | [蘇民峰](../Page/蘇民峰.md "wikilink")                                                                                                                                                             | 吳家樂    |
-| 2011年6月3日 (\#107)  | [施麗珊](https://zh.wikipedia.org/wiki/施麗珊 "wikilink")                                                                                                                                          | 陳永業    |
-| 2011年6月6日 (\#108)  | [詹瑞文](../Page/詹瑞文.md "wikilink")、[王　晶](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink")                                                                                                   | 吳家樂    |
-| 2011年6月7日 (\#109)  | [韋羅莎](https://zh.wikipedia.org/wiki/韋羅莎 "wikilink")、[龔小玲](https://zh.wikipedia.org/wiki/龔小玲 "wikilink")、[陳淑儀](https://zh.wikipedia.org/wiki/陳淑儀 "wikilink")、[黃子華](../Page/黃子華.md "wikilink") | 陳永業    |
-| 2011年6月8日 (\#110)  | [黃炎良](https://zh.wikipedia.org/wiki/黃炎良 "wikilink")、[羅啟義](https://zh.wikipedia.org/wiki/羅啟義 "wikilink")、[朱棋端](https://zh.wikipedia.org/wiki/朱棋端 "wikilink")                                  | 陳永業    |
-| 2011年6月9日 (\#111)  | [陳敏之](../Page/陳敏之.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")                                                                                                                            | 李浩林    |
-| 2011年6月10日 (\#112) | [李燦榮](../Page/李燦榮.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")                                                                                                         | 吳家樂    |
-| 2011年6月13日 (\#113) | [李璨琛](../Page/李璨琛.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[關禮傑](../Page/關禮傑.md "wikilink")、[林子善](../Page/林子善.md "wikilink")（上）                                                       | 吳家樂    |
-| 2011年6月14日 (\#114) | [李璨琛](../Page/李璨琛.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[關禮傑](../Page/關禮傑.md "wikilink")、[林子善](../Page/林子善.md "wikilink")（下）                                                       | 吳家樂    |
-| 2011年6月15日 (\#115) | [蓋鳴暉](../Page/蓋鳴暉.md "wikilink")                                                                                                                                                             | 陳芷菁    |
-| 2011年6月16日 (\#116) | [胡蓓蔚](../Page/胡蓓蔚.md "wikilink")                                                                                                                                                             | 李浩林    |
-| 2011年6月17日 (\#117) | [陳錦元](https://zh.wikipedia.org/wiki/陳錦元 "wikilink")、[高誌樫](https://zh.wikipedia.org/wiki/高誌樫 "wikilink")、[莫儉榮](https://zh.wikipedia.org/wiki/莫儉榮 "wikilink")                                  | 陳永業    |
-| 2011年6月20日 (\#118) | [李璨琛](../Page/李璨琛.md "wikilink")                                                                                                                                                             | 陳芷菁    |
-| 2011年6月21日 (\#119) | [陳敢權](https://zh.wikipedia.org/wiki/陳敢權 "wikilink")、[余安安](../Page/余安安.md "wikilink")                                                                                                         | 李浩林    |
-| 2011年6月22日 (\#120) | [張繼聰](../Page/張繼聰.md "wikilink")                                                                                                                                                             | 陳永業    |
-| 2011年6月23日 (\#121) | [馮都新](https://zh.wikipedia.org/wiki/馮都新 "wikilink")                                                                                                                                          | 陳永業    |
-| 2011年6月24日 (\#122) | [張世明](../Page/張世明.md "wikilink")                                                                                                                                                             | 李浩林    |
-| 2011年6月27日 (\#123) | [李丞責](../Page/李丞責.md "wikilink")、[劉倩婷](../Page/劉倩婷.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[朱維德](../Page/朱維德.md "wikilink")                                                          | 陳永業    |
-| 2011年6月28日 (\#124) | [郭晉安](../Page/郭晉安.md "wikilink")                                                                                                                                                             | 陳永業    |
-| 2011年6月29日 (\#125) | [林　峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")                                                                                                                                           | 陳芷菁    |
-| 2011年6月30日 (\#126) | [張達明](https://zh.wikipedia.org/wiki/張達明 "wikilink")                                                                                                                                          | 陳芷菁    |
+|                    |                                                                                                                                                                           |        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **首播日期**           | **嘉賓**                                                                                                                                                                    | **主持** |
+| 2011年6月1日 (\#105)  | [查錫我](https://zh.wikipedia.org/wiki/查錫我 "wikilink")                                                                                                                       | 陳芷菁    |
+| 2011年6月2日 (\#106)  | [蘇民峰](../Page/蘇民峰.md "wikilink")                                                                                                                                          | 吳家樂    |
+| 2011年6月3日 (\#107)  | [施麗珊](https://zh.wikipedia.org/wiki/施麗珊 "wikilink")                                                                                                                       | 陳永業    |
+| 2011年6月6日 (\#108)  | [詹瑞文](../Page/詹瑞文.md "wikilink")、[王　晶](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink")                                                                                | 吳家樂    |
+| 2011年6月7日 (\#109)  | [韋羅莎](../Page/韋羅莎.md "wikilink")、[龔小玲](https://zh.wikipedia.org/wiki/龔小玲 "wikilink")、[陳淑儀](https://zh.wikipedia.org/wiki/陳淑儀 "wikilink")、[黃子華](../Page/黃子華.md "wikilink") | 陳永業    |
+| 2011年6月8日 (\#110)  | [黃炎良](https://zh.wikipedia.org/wiki/黃炎良 "wikilink")、[羅啟義](https://zh.wikipedia.org/wiki/羅啟義 "wikilink")、[朱棋端](https://zh.wikipedia.org/wiki/朱棋端 "wikilink")               | 陳永業    |
+| 2011年6月9日 (\#111)  | [陳敏之](../Page/陳敏之.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")                                                                                                         | 李浩林    |
+| 2011年6月10日 (\#112) | [李燦榮](../Page/李燦榮.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")                                                                                      | 吳家樂    |
+| 2011年6月13日 (\#113) | [李璨琛](../Page/李璨琛.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[關禮傑](../Page/關禮傑.md "wikilink")、[林子善](../Page/林子善.md "wikilink")（上）                                    | 吳家樂    |
+| 2011年6月14日 (\#114) | [李璨琛](../Page/李璨琛.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[關禮傑](../Page/關禮傑.md "wikilink")、[林子善](../Page/林子善.md "wikilink")（下）                                    | 吳家樂    |
+| 2011年6月15日 (\#115) | [蓋鳴暉](../Page/蓋鳴暉.md "wikilink")                                                                                                                                          | 陳芷菁    |
+| 2011年6月16日 (\#116) | [胡蓓蔚](../Page/胡蓓蔚.md "wikilink")                                                                                                                                          | 李浩林    |
+| 2011年6月17日 (\#117) | [陳錦元](https://zh.wikipedia.org/wiki/陳錦元 "wikilink")、[高誌樫](https://zh.wikipedia.org/wiki/高誌樫 "wikilink")、[莫儉榮](https://zh.wikipedia.org/wiki/莫儉榮 "wikilink")               | 陳永業    |
+| 2011年6月20日 (\#118) | [李璨琛](../Page/李璨琛.md "wikilink")                                                                                                                                          | 陳芷菁    |
+| 2011年6月21日 (\#119) | [陳敢權](https://zh.wikipedia.org/wiki/陳敢權 "wikilink")、[余安安](../Page/余安安.md "wikilink")                                                                                      | 李浩林    |
+| 2011年6月22日 (\#120) | [張繼聰](../Page/張繼聰.md "wikilink")                                                                                                                                          | 陳永業    |
+| 2011年6月23日 (\#121) | [馮都新](https://zh.wikipedia.org/wiki/馮都新 "wikilink")                                                                                                                       | 陳永業    |
+| 2011年6月24日 (\#122) | [張世明](../Page/張世明.md "wikilink")                                                                                                                                          | 李浩林    |
+| 2011年6月27日 (\#123) | [李丞責](../Page/李丞責.md "wikilink")、[劉倩婷](../Page/劉倩婷.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[朱維德](../Page/朱維德.md "wikilink")                                       | 陳永業    |
+| 2011年6月28日 (\#124) | [郭晉安](../Page/郭晉安.md "wikilink")                                                                                                                                          | 陳永業    |
+| 2011年6月29日 (\#125) | [林　峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")                                                                                                                        | 陳芷菁    |
+| 2011年6月30日 (\#126) | [張達明](https://zh.wikipedia.org/wiki/張達明 "wikilink")                                                                                                                       | 陳芷菁    |
 
 #### 7月
 
@@ -2953,7 +2953,7 @@
 | 2016年9月22日 (\#178) | [阮兆祥](../Page/阮兆祥.md "wikilink")                                                                                                                                                                                | 吳家樂    |
 | 2016年9月23日 (\#179) | [黃淑儀](../Page/黃淑儀.md "wikilink")                                                                                                                                                                                | 陳芷菁    |
 | 2016年9月26日 (\#180) | [李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")                                                                                                                                                             | 吳家樂    |
-| 2016年9月27日 (\#181) | [黃秋生](../Page/黃秋生.md "wikilink")、[陳健豪](../Page/陳健豪.md "wikilink")、[韋羅莎](https://zh.wikipedia.org/wiki/韋羅莎 "wikilink")                                                                                           | 陳芷菁    |
+| 2016年9月27日 (\#181) | [黃秋生](../Page/黃秋生.md "wikilink")、[陳健豪](../Page/陳健豪.md "wikilink")、[韋羅莎](../Page/韋羅莎.md "wikilink")                                                                                                              | 陳芷菁    |
 | 2016年9月28日 (\#182) | [歌莉雅](../Page/歌莉雅.md "wikilink")                                                                                                                                                                                | 陳永業    |
 | 2016年9月29日 (\#183) | [靳埭強](../Page/靳埭強.md "wikilink")                                                                                                                                                                                | 李浩林    |
 | 2016年9月30日 (\#184) | [劉大偉](https://zh.wikipedia.org/wiki/劉大偉 "wikilink")                                                                                                                                                             | 陳芷菁    |
@@ -3940,26 +3940,10 @@
 
   - [無綫電視官方網頁 - 今日VIP](http://programme.tvb.com/variety/greenroom)
 
-[Category:無綫電視清談節目](https://zh.wikipedia.org/wiki/Category:無綫電視清談節目 "wikilink")
-[Category:2000年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2000年代無綫電視節目 "wikilink")
-[Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink")
-[Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink")
-[Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink")
-[Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink")
-[Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink")
-[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
-[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink")
-[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink")
-[Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink")
-[Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink")
-[Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink")
-[Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
+[Category:無綫電視清談節目](https://zh.wikipedia.org/wiki/Category:無綫電視清談節目 "wikilink") [Category:2000年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2000年代無綫電視節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink") [Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink") [Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink") [Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink") [Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
 
-1.  [有話兒：靚聲王開咪
-    Phone雲再起](http://hk.apple.nextmedia.com/entertainment/art/20110903/15580036)，[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")，2011年9月3日
+1.  [有話兒：靚聲王開咪 Phone雲再起](http://hk.apple.nextmedia.com/entertainment/art/20110903/15580036)，[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")，2011年9月3日
 2.  [《今日VIP》訪問下周一播出](http://hk.on.cc/hk/bkn/cnt/entertainment/20150102/bkn-20150102214233170-0102_00862_001.html)，[東網](https://zh.wikipedia.org/wiki/ON.CC "wikilink")，2015年1月2日
-3.  [﻿拍《使徒》傷舊患
-    阿佘被建議休息半年](http://www.msn.com/zh-hk/entertainment/news/%EF%BB%BF拍《使徒》傷舊患-阿佘被建議休息半年/ar-BBuwVoh)，[頭條日報](../Page/頭條日報.md "wikilink")，2016年7月19日
+3.  [﻿拍《使徒》傷舊患 阿佘被建議休息半年](http://www.msn.com/zh-hk/entertainment/news/%EF%BB%BF拍《使徒》傷舊患-阿佘被建議休息半年/ar-BBuwVoh)，[頭條日報](../Page/頭條日報.md "wikilink")，2016年7月19日
 4.  [黃清元不拍戲自認臉太古板](http://johor.chinapress.com.my/20170226/%E9%BB%83%E6%B8%85%E5%85%83%E4%B8%8D%E6%8B%8D%E6%88%B2%E8%87%AA%E8%AA%8D%E8%87%89%E5%A4%AA%E5%8F%A4%E6%9D%BF/)，[中國報新聞網](https://zh.wikipedia.org/wiki/中國報新聞網 "wikilink")，2017年2月26日
-5.  [見盡娛圈人情冷暖　黃翊落淚：遇熟人不敢再打招呼](https://eweekly.hk/article/_title/%E8%A6%8B%E7%9B%A1%E5%A8%9B%E5%9C%88%E4%BA%BA%E6%83%85%E5%86%B7%E6%9A%96_%E9%BB%83%E7%BF%8A%E8%90%BD%E6%B7%9A%E9%81%87%E7%86%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E5%86%8D%E6%89%93%E6%8B%9B%E5%91%BC__iardepz288)
-    ，[E週刊](https://zh.wikipedia.org/wiki/E週刊 "wikilink")，2017年3月29日
+5.  [見盡娛圈人情冷暖　黃翊落淚：遇熟人不敢再打招呼](https://eweekly.hk/article/_title/%E8%A6%8B%E7%9B%A1%E5%A8%9B%E5%9C%88%E4%BA%BA%E6%83%85%E5%86%B7%E6%9A%96_%E9%BB%83%E7%BF%8A%E8%90%BD%E6%B7%9A%E9%81%87%E7%86%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E5%86%8D%E6%89%93%E6%8B%9B%E5%91%BC__iardepz288) ，[E週刊](https://zh.wikipedia.org/wiki/E週刊 "wikilink")，2017年3月29日

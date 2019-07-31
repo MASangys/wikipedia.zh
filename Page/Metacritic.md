@@ -2,8 +2,7 @@
 
 ## 歷史
 
-Metacritic由馬克·道爾（Marc Doyle）、朱莉·道爾·羅伯茨（Julie Doyle Roberts）和詹森·迪茨（Jason
-Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET收购](../Page/CNET.md "wikilink")，而現在它與CNET均位於[CBS公司旗下](../Page/CBS公司.md "wikilink")\[2\]。2010年8月網站改版，但受到用戶差評\[3\]\[4\]。
+Metacritic由馬克·道爾（Marc Doyle）、朱莉·道爾·羅伯茨（Julie Doyle Roberts）和詹森·迪茨（Jason Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET](../Page/CNET.md "wikilink")收购，而現在它與CNET均位於[CBS公司](../Page/CBS公司.md "wikilink")旗下\[2\]。2010年8月網站改版，但受到用戶差評\[3\]\[4\]。
 
 ## 各項高分
 
@@ -21,32 +20,20 @@ Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET收�
 ### 电子遊戲
 
   - [碧血狂殺2](../Page/碧血狂殺2.md "wikilink")（97/100）
-  - [薩爾達傳說 時之笛](../Page/薩爾達傳說_時之笛.md "wikilink") （[Nitendo
-    64](../Page/任天堂64.md "wikilink")）（99/100）\[11\]
-  - [托尼·霍克职业滑板2](https://zh.wikipedia.org/wiki/托尼·霍克职业滑板2 "wikilink")
-    （[PS](../Page/PlayStation_\(遊戲機\).md "wikilink")）（98/100）\[12\]
-  - [俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")
-    （[PS3](../Page/PlayStation_3.md "wikilink")、[Xbox
-    360](../Page/Xbox_360.md "wikilink")）（98/100）\[13\]\[14\]
-  - [灵魂能力](https://zh.wikipedia.org/wiki/劍魂 "wikilink")
-    （[DC](../Page/街机.md "wikilink")）（98/100）\[15\]
-  - [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink") （[Xbox
-    One](../Page/Xbox_One.md "wikilink")、[PS3](../Page/PlayStation_3.md "wikilink")、[Xbox
-    360](../Page/Xbox_360.md "wikilink")、[PS4](../Page/PlayStation_4.md "wikilink")）（97/100）\[16\]\[17\]\[18\]\[19\]
-  - [薩爾達傳說 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink")
-    （[Switch](../Page/任天堂Switch.md "wikilink")）（97/100）\[20\]
-  - [超级马里奥 银河](../Page/超级马里奥银河.md "wikilink")
-    （[Wii](../Page/Wii.md "wikilink")） （97/100）\[21\]
-  - [超级马里奥 银河2](../Page/超级马里奥银河2.md "wikilink")
-    （[Wii](../Page/Wii.md "wikilink")）（97/100）\[22\]
-  - [超级马里奥 奥德赛](../Page/超级马里奥_奥德赛.md "wikilink")
-    （[Switch](../Page/任天堂Switch.md "wikilink")）（97/100）\[23\]
+  - [薩爾達傳說 時之笛](../Page/薩爾達傳說_時之笛.md "wikilink") （[Nitendo 64](../Page/任天堂64.md "wikilink")）（99/100）\[11\]
+  - [托尼·霍克职业滑板2](https://zh.wikipedia.org/wiki/托尼·霍克职业滑板2 "wikilink") （[PS](../Page/PlayStation_\(遊戲機\).md "wikilink")）（98/100）\[12\]
+  - [俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink") （[PS3](../Page/PlayStation_3.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")）（98/100）\[13\]\[14\]
+  - [灵魂能力](https://zh.wikipedia.org/wiki/劍魂 "wikilink") （[DC](../Page/街机.md "wikilink")）（98/100）\[15\]
+  - [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink") （[Xbox One](../Page/Xbox_One.md "wikilink")、[PS3](../Page/PlayStation_3.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PS4](../Page/PlayStation_4.md "wikilink")）（97/100）\[16\]\[17\]\[18\]\[19\]
+  - [薩爾達傳說 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink") （[Switch](../Page/任天堂Switch.md "wikilink")）（97/100）\[20\]
+  - [超级马里奥 银河](../Page/超级马里奥银河.md "wikilink") （[Wii](../Page/Wii.md "wikilink")） （97/100）\[21\]
+  - [超级马里奥 银河2](../Page/超级马里奥银河2.md "wikilink") （[Wii](../Page/Wii.md "wikilink")）（97/100）\[22\]
+  - [超级马里奥 奥德赛](../Page/超级马里奥_奥德赛.md "wikilink") （[Switch](../Page/任天堂Switch.md "wikilink")）（97/100）\[23\]
   - [戰慄時空2](https://zh.wikipedia.org/wiki/戰慄時空2 "wikilink")（96/100）\[24\]
   - [戰慄時空](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink")（96/100）\[25\]
   - [傳送門2](../Page/傳送門2.md "wikilink")（95/100）\[26\]
   - [戰神4](../Page/戰神_\(2018年遊戲\).md "wikilink")（95/100）
-  - [質量效應2](https://zh.wikipedia.org/wiki/質量效應2 "wikilink")（[Xbox
-    360](../Page/Xbox_360.md "wikilink")）（96/100）\[27\]
+  - [質量效應2](https://zh.wikipedia.org/wiki/質量效應2 "wikilink")（[Xbox 360](../Page/Xbox_360.md "wikilink")）（96/100）\[27\]
   - [傳送門](../Page/傳送門.md "wikilink")（90/100）
   - [絕地要塞2](../Page/絕地要塞2.md "wikilink")（92/100）
   - [當個創世神](https://zh.wikipedia.org/wiki/當個創世神 "wikilink")（93/100）
@@ -79,14 +66,9 @@ Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET收�
   -
 {{-}}
 
-[Category:2001年建立的网站](https://zh.wikipedia.org/wiki/Category:2001年建立的网站 "wikilink")
-[Category:电影主题网站](https://zh.wikipedia.org/wiki/Category:电影主题网站 "wikilink")
-[Category:電子遊戲評論網站](https://zh.wikipedia.org/wiki/Category:電子遊戲評論網站 "wikilink")
-[Category:CNET](https://zh.wikipedia.org/wiki/Category:CNET "wikilink")
+[Category:2001年建立的网站](https://zh.wikipedia.org/wiki/Category:2001年建立的网站 "wikilink") [Category:电影主题网站](https://zh.wikipedia.org/wiki/Category:电影主题网站 "wikilink") [Category:電子遊戲評論網站](https://zh.wikipedia.org/wiki/Category:電子遊戲評論網站 "wikilink") [Category:CNET](https://zh.wikipedia.org/wiki/Category:CNET "wikilink")
 
-1.  ["Metacritic: The
-    History"](http://www.metacritic.com/about-metacritic),
-    Metacritic.com
+1.  ["Metacritic: The History"](http://www.metacritic.com/about-metacritic), Metacritic.com
 2.
 3.
 4.

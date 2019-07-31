@@ -56,11 +56,9 @@
 
 ## 外部連結
 
-  - [WARNER MUSIC JAPAN
-    新垣結衣](https://web.archive.org/web/20090314044207/http://wmg.jp/artist/gakky/index.html)
+  - [WARNER MUSIC JAPAN 新垣結衣](https://web.archive.org/web/20090314044207/http://wmg.jp/artist/gakky/index.html)
   - [初回限定盤A](https://web.archive.org/web/20111227112417/http://wmg.jp/artist/gakky/WPCL000010669.html)
   - [初回限定盤B](https://web.archive.org/web/20100505033215/http://wmg.jp/artist/gakky/WPCL000010670.html)
   - [通常盤](https://web.archive.org/web/20090611193035/http://www.wmg.jp/artist/gakky/WPZL000030120.html)
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:新垣結衣音樂專輯](https://zh.wikipedia.org/wiki/Category:新垣結衣音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:新垣結衣音樂專輯](https://zh.wikipedia.org/wiki/Category:新垣結衣音樂專輯 "wikilink")

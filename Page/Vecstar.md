@@ -1,5 +1,4 @@
-Suzuki
-Vecstar，由日本[铃木株式会社生产和销售的](https://zh.wikipedia.org/wiki/铃木株式会社 "wikilink")[踏板式](https://zh.wikipedia.org/wiki/速克达 "wikilink")[摩托车](https://zh.wikipedia.org/wiki/摩托车 "wikilink")。
+Suzuki Vecstar，由日本[铃木株式会社生产和销售的](https://zh.wikipedia.org/wiki/铃木株式会社 "wikilink")[踏板式](https://zh.wikipedia.org/wiki/速克达 "wikilink")[摩托车](https://zh.wikipedia.org/wiki/摩托车 "wikilink")。
 
 ## 概要
 

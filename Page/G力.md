@@ -1,5 +1,4 @@
-**G力**（gravitational force equivalent or G-force），也可稱「重力｣；
-原為一[航空](../Page/航空.md "wikilink")專有名詞，現在廣泛做為移動或改變[切線](https://zh.wikipedia.org/wiki/切線 "wikilink")，或是加速度與減速度時承受力道的單位。
+**G力**（gravitational force equivalent or G-force），也可稱「重力｣； 原為一[航空](../Page/航空.md "wikilink")專有名詞，現在廣泛做為移動或改變[切線](https://zh.wikipedia.org/wiki/切線 "wikilink")，或是加速度與減速度時承受力道的單位。
 
 ## 定義
 
@@ -31,6 +30,4 @@
 
 動態恢復是現在正研究的一種輔助方式，系統隨時監測飛行員的生理狀態，當飛行員陷入昏厥時系統自動接手飛行器，將飛行器校正至G力較小的狀態，同時利用刺激裝置（[電擊](https://zh.wikipedia.org/wiki/電擊 "wikilink")、嗅覺……）使飛行員清醒。
 
-[Category:航空术语](https://zh.wikipedia.org/wiki/Category:航空术语 "wikilink")
-[Category:加速度单位](https://zh.wikipedia.org/wiki/Category:加速度单位 "wikilink")
-[Category:加速度](https://zh.wikipedia.org/wiki/Category:加速度 "wikilink")
+[Category:航空术语](https://zh.wikipedia.org/wiki/Category:航空术语 "wikilink") [Category:加速度单位](https://zh.wikipedia.org/wiki/Category:加速度单位 "wikilink") [Category:加速度](https://zh.wikipedia.org/wiki/Category:加速度 "wikilink")

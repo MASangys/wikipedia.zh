@@ -5,20 +5,13 @@
 ## 外部連結
 
   - [1-Wire and iButton](http://www.maxim-ic.com/1-Wire.cfm?CMP=WP-7)
-  - [1-Wire Weather Station Construction
-    (Book)](https://web.archive.org/web/20170920081823/http://weathertoys.net/)
-  - [1-Wire Weather Instrument
-    Kit](https://web.archive.org/web/20080613030926/http://www.aagelectronica.com/aag/index.html)
+  - [1-Wire Weather Station Construction (Book)](https://web.archive.org/web/20170920081823/http://weathertoys.net/)
+  - [1-Wire Weather Instrument Kit](https://web.archive.org/web/20080613030926/http://www.aagelectronica.com/aag/index.html)
   - [OWFS - 1-wire filesystem for Linux](http://www.owfs.org/)
-  - [OWFS - 1-wire filesystem for Linux (Old
-    Site)](http://owfs.sourceforge.net/)
-  - [OPNODE project (opn-one : 1-Wire home automation
-    controller)](https://web.archive.org/web/20070430071556/http://www.opnode.org/)
-  - [Guides to working with 1-Wire, for programmers and
-    engineers](http://sheepdogguides.com/dst1main.htm)
-  - [jHomeNet - 1-Wire home automation
-    program](http://jhomenet.sourceforge.net/)
-  - [1-Wire ON/OFF temperature controller with RS-232C communications
-    interface to a personal computer](http://www.1wire.info/)
+  - [OWFS - 1-wire filesystem for Linux (Old Site)](http://owfs.sourceforge.net/)
+  - [OPNODE project (opn-one : 1-Wire home automation controller)](https://web.archive.org/web/20070430071556/http://www.opnode.org/)
+  - [Guides to working with 1-Wire, for programmers and engineers](http://sheepdogguides.com/dst1main.htm)
+  - [jHomeNet - 1-Wire home automation program](http://jhomenet.sourceforge.net/)
+  - [1-Wire ON/OFF temperature controller with RS-232C communications interface to a personal computer](http://www.1wire.info/)
 
 [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink")

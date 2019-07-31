@@ -1,22 +1,18 @@
-，歐美名稱《**火神奇航**》（）是由日本遊戲公司[科樂美所開發與發行之橫向捲軸射擊遊戲](../Page/科樂美.md "wikilink")《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》作品，於1988年3月24日在日本上市。
+，歐美名稱《**火神奇航**》（）是由日本遊戲公司[科樂美](../Page/科樂美.md "wikilink")所開發與發行之橫向捲軸射擊遊戲《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》作品，於1988年3月24日在日本上市。
 
 ## 劇情
 
   - 街機版
 
-兩年前，Gradius星突然遭受了Bacterion軍團的攻擊。面臨敵人強大的攻擊，使得Gradius軍陷入了苦戰，因此決定使用最後的手段，派遣超時空戰鬥機Vic
-Viper前往攻擊Bacterion軍團，並成功毀滅了Zelos要塞。兩年後的現在，Bacterion軍團派出了特殊部隊GOFER前往攻擊Gradius星，因此Gradius軍立刻派出了Vic
-Viper進行反擊。\[1\]
+兩年前，Gradius星突然遭受了Bacterion軍團的攻擊。面臨敵人強大的攻擊，使得Gradius軍陷入了苦戰，因此決定使用最後的手段，派遣超時空戰鬥機Vic Viper前往攻擊Bacterion軍團，並成功毀滅了Zelos要塞。兩年後的現在，Bacterion軍團派出了特殊部隊GOFER前往攻擊Gradius星，因此Gradius軍立刻派出了Vic Viper進行反擊。\[1\]
 
   - FC版
 
-當Metalion星系四大行星「Gradius」、「Larz」、「Shin」、「Latis」開始進行10000年一次的行星直線排列的時候，四顆行星的中心處出現了黑暗的氣體雲，並使周圍的太空牧場開始燃燒。接著突如出現了神秘部隊「GOFER」，並對Gradius星展開了攻擊。為了阻止GOFER的攻擊，超時空戰鬥機「Vic
-Viper」再度出擊。\[2\]
+當Metalion星系四大行星「Gradius」、「Larz」、「Shin」、「Latis」開始進行10000年一次的行星直線排列的時候，四顆行星的中心處出現了黑暗的氣體雲，並使周圍的太空牧場開始燃燒。接著突如出現了神秘部隊「GOFER」，並對Gradius星展開了攻擊。為了阻止GOFER的攻擊，超時空戰鬥機「Vic Viper」再度出擊。\[2\]
 
 ## 遊戲系統
 
-本遊戲除了延續[宇宙巡航艦
-(遊戲)的基本系統及操作之外](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")，追加了幾項新要素與變更。
+本遊戲除了延續[宇宙巡航艦 (遊戲)的基本系統及操作之外](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")，追加了幾項新要素與變更。
 
   - 能量膠囊
 
@@ -24,8 +20,7 @@ Viper」再度出擊。\[2\]
 
   - 能量表
 
-每取得一次紅色膠囊即可提升一格能量表，每一格能量表各自表示一種裝備供玩家選擇。在FC版中,1P操縱的戰機為Vic
-Viper(機身為藍色,Option為紅色),2P操縱的戰機為Lord British(機身為紅色,Option為藍色)
+每取得一次紅色膠囊即可提升一格能量表，每一格能量表各自表示一種裝備供玩家選擇。在FC版中,1P操縱的戰機為Vic Viper(機身為藍色,Option為紅色),2P操縱的戰機為Lord British(機身為紅色,Option為藍色)
 
 <center>
 
@@ -323,14 +318,14 @@ The Final Enemy</p></td>
 
 :\*i-revo FC移植版
 
-:\*[Wii虛擬平臺FC移植版](../Page/Wii.md "wikilink")
+:\*[Wii](../Page/Wii.md "wikilink")虛擬平臺FC移植版
 
   - [X68000](../Page/X68000.md "wikilink")
   - [PC Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")
 
-:\*[Wii虛擬平臺PCE移植版](../Page/Wii.md "wikilink")
+:\*[Wii](../Page/Wii.md "wikilink")虛擬平臺PCE移植版
 
-  - 手機[Java程式版](../Page/Java.md "wikilink")
+  - 手機[Java](../Page/Java.md "wikilink")程式版
 
 <!-- end list -->
 
@@ -338,12 +333,9 @@ The Final Enemy</p></td>
 
 <!-- end list -->
 
-  - [PlayStation](../Page/PlayStation.md "wikilink") - 宇宙巡航艦DX包 (GRADIUS
-    Deluxe Pack)
-  - [Sega Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")
-    - 宇宙巡航艦DX包 (GRADIUS Deluxe Pack)
-  - [PlayStation Portable](https://zh.wikipedia.org/wiki/PSP "wikilink")
-    - GRADIUS Portable
+  - [PlayStation](../Page/PlayStation.md "wikilink") - 宇宙巡航艦DX包 (GRADIUS Deluxe Pack)
+  - [Sega Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink") - 宇宙巡航艦DX包 (GRADIUS Deluxe Pack)
+  - [PlayStation Portable](https://zh.wikipedia.org/wiki/PSP "wikilink") - GRADIUS Portable
 
 ## 動畫版
 
@@ -356,9 +348,7 @@ The Final Enemy</p></td>
 
 ## 註記
 
-  - 街機版及一般移植版的頭目配樂為「Take Care\!」，最終關後半部分（與高弗戰鬥之前）的配樂則是「The Final
-    Enemy」，而FC版的頭目配樂為「The Final Enemy」，「Take
-    Care\!」則是與最終頭目高弗戰鬥的配樂。
+  - 街機版及一般移植版的頭目配樂為「Take Care\!」，最終關後半部分（與高弗戰鬥之前）的配樂則是「The Final Enemy」，而FC版的頭目配樂為「The Final Enemy」，「Take Care\!」則是與最終頭目高弗戰鬥的配樂。
   - PCE版的第六關類似[宇宙巡航艦2的第三關](https://zh.wikipedia.org/wiki/宇宙巡航艦2 "wikilink")，都是在遺跡的內部進行戰鬥。
 
 ## 參考資料
@@ -366,24 +356,12 @@ The Final Enemy</p></td>
 ## 外部連結
 
   - [GRADIUS Portable官方網站](http://www.konami.jp/gs/game/gra_psp/) (日文)
-  - [GRADIUS II -GOFER's Ambition-
-    手機版官方網站](http://www.konami.jp/mobile/appli/gradius/)
-    (日文)
-  - [GRADIUS II
-    i-revo版官方網站](http://game.i-revo.jp/dl/search/displayDetail.do?productId=10072)
-    (日文)
+  - [GRADIUS II -GOFER's Ambition- 手機版官方網站](http://www.konami.jp/mobile/appli/gradius/) (日文)
+  - [GRADIUS II i-revo版官方網站](http://game.i-revo.jp/dl/search/displayDetail.do?productId=10072) (日文)
   - [Wii虛擬平臺 GRADIUS II](http://www.nintendo.co.jp/wii/vc/vc_gr2/) (日文)
-  - [Wii虛擬平臺 GRADIUS II -GOFER's Ambition-
-    PCE版](http://vc-pce.com/jpn/j/title/gradius2.html) (日文)
+  - [Wii虛擬平臺 GRADIUS II -GOFER's Ambition- PCE版](http://vc-pce.com/jpn/j/title/gradius2.html) (日文)
 
-[Category:1988年电子游戏](https://zh.wikipedia.org/wiki/Category:1988年电子游戏 "wikilink")
-[Category:宇宙巡航艦系列電子遊戲](https://zh.wikipedia.org/wiki/Category:宇宙巡航艦系列電子遊戲 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
+[Category:1988年电子游戏](https://zh.wikipedia.org/wiki/Category:1988年电子游戏 "wikilink") [Category:宇宙巡航艦系列電子遊戲](https://zh.wikipedia.org/wiki/Category:宇宙巡航艦系列電子遊戲 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
 
-1.  GRADIUS Portable公式Guide, page 28，圖書印刷株式會社, 2006 Mar 28, ISBN
-    4-86155-111-0
+1.  GRADIUS Portable公式Guide, page 28，圖書印刷株式會社, 2006 Mar 28, ISBN 4-86155-111-0
 2.  Gradius II遊戲說明書

@@ -97,8 +97,7 @@
 ### 其他
 
   - 三刀月斗（みとう つきと）& 三刀星司（みとう せいじ）
-    聲 ‐ [中村悠一](../Page/中村悠一.md "wikilink") &
-    [鈴木達央](../Page/鈴木達央.md "wikilink")
+    聲 ‐ [中村悠一](../Page/中村悠一.md "wikilink") & [鈴木達央](../Page/鈴木達央.md "wikilink")
     初陽的言靈師。因為是雙胞胎所以言靈的能力會減半，必須兩人同時說出才有效。聲優，主要配音BL作品。
   - 初陽（はつひ）
     聲 ‐ [梶裕貴](../Page/梶裕貴.md "wikilink")
@@ -222,9 +221,6 @@
 
   - [《Dear+》官方網站](http://www.shinshokan.com/dearplus/)
 
-  - [新書館 -
-    全體檢索：是―ＺＥ―](http://www.shinshokan.jp/search.php?src_search_text=%E6%98%AF%E2%80%95%EF%BC%BA%EF%BC%A5%E2%80%95&src_data_name=&src_author_name=&src_isbn_cd=&src_kankou_ym_y=&src_kankou_ym_m=&src_sort=0&act=src)
+  - [新書館 - 全體檢索：是―ＺＥ―](http://www.shinshokan.jp/search.php?src_search_text=%E6%98%AF%E2%80%95%EF%BC%BA%EF%BC%A5%E2%80%95&src_data_name=&src_author_name=&src_isbn_cd=&src_kankou_ym_y=&src_kankou_ym_m=&src_sort=0&act=src)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:BL漫畫](https://zh.wikipedia.org/wiki/Category:BL漫畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:BL漫畫](https://zh.wikipedia.org/wiki/Category:BL漫畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")

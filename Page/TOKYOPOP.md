@@ -1,8 +1,6 @@
-[_TOKYOPOP_Logo.png](https://zh.wikipedia.org/wiki/File:_TOKYOPOP_Logo.png "fig:_TOKYOPOP_Logo.png")
-**TOKYOPOP**是一家成立於[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[漫畫發行公司](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，其主要業務是經取得漫畫出版權後在[日本以外地區翻譯](../Page/日本.md "wikilink")、出版發行[日本漫畫的](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[德文版](https://zh.wikipedia.org/wiki/德文 "wikilink")。TOKYOPOP最大的海外分部位於[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，此外在[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[德國也設有分部](https://zh.wikipedia.org/wiki/德國 "wikilink")。TOKYOPOP漫畫發行地區包括[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")）、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[德國和](https://zh.wikipedia.org/wiki/德國 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")）和[大洋洲](../Page/大洋洲.md "wikilink")（[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")）。除了日本漫畫外，TOKYOPOP也發行其他地區的漫畫，如[英語原創日本風格漫畫](https://zh.wikipedia.org/wiki/英語原創日本風格漫畫 "wikilink")（）、[韩國漫畫等](https://zh.wikipedia.org/wiki/韩國漫畫 "wikilink")。
+[_TOKYOPOP_Logo.png](https://zh.wikipedia.org/wiki/File:_TOKYOPOP_Logo.png "fig:_TOKYOPOP_Logo.png") **TOKYOPOP**是一家成立於[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[漫畫發行公司](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，其主要業務是經取得漫畫出版權後在[日本](../Page/日本.md "wikilink")以外地區翻譯、出版發行[日本漫畫的](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[德文版](https://zh.wikipedia.org/wiki/德文 "wikilink")。TOKYOPOP最大的海外分部位於[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，此外在[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[德國也設有分部](https://zh.wikipedia.org/wiki/德國 "wikilink")。TOKYOPOP漫畫發行地區包括[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")）、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[德國和](https://zh.wikipedia.org/wiki/德國 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")）和[大洋洲](../Page/大洋洲.md "wikilink")（[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")）。除了日本漫畫外，TOKYOPOP也發行其他地區的漫畫，如[英語原創日本風格漫畫](https://zh.wikipedia.org/wiki/英語原創日本風格漫畫 "wikilink")（）、[韩國漫畫等](https://zh.wikipedia.org/wiki/韩國漫畫 "wikilink")。
 
-目前，TOKYOPOP還翻譯發行[輕小說和](../Page/輕小說.md "wikilink")[film
-comic等](https://zh.wikipedia.org/wiki/film_comic "wikilink")。
+目前，TOKYOPOP還翻譯發行[輕小說](../Page/輕小說.md "wikilink")和[film comic等](https://zh.wikipedia.org/wiki/film_comic "wikilink")。
 
 ## 出版的部份書目
 
@@ -29,16 +27,11 @@ comic等](https://zh.wikipedia.org/wiki/film_comic "wikilink")。
 
 ## 參考資料
 
-  - [Tokyopop discusses the consequence of Borders' bankruptcy on
-    publishers](https://web.archive.org/web/20140912204210/http://asiapacificarts.usc.edu/w_apa/showarticle.aspx?articleID=16492&AspxAutoDetectCookieSupport=1)
-  - [Tokyopop Splits into Two
-    Companies](http://www.icv2.com/articles/news/12677.html)
-  - [Manga Publisher Tokyopop Lays Off Eight More
-    Staffers](http://www.animenewsnetwork.com/news/2008-12-12/manga-publisher-tokyopop-lays-off-eight-more-staffers)
-  - [Tokyopop to Close North American Publishing Division
-    (Update 3)](http://www.animenewsnetwork.com/news/2011-04-15/tokyopop-to-close-north-american-publishing-division)
-  - [Tokyopop Going Public
-    ?](http://www.animenewsnetwork.com/news/2005-01-13/tokyopop-going-public)
+  - [Tokyopop discusses the consequence of Borders' bankruptcy on publishers](https://web.archive.org/web/20140912204210/http://asiapacificarts.usc.edu/w_apa/showarticle.aspx?articleID=16492&AspxAutoDetectCookieSupport=1)
+  - [Tokyopop Splits into Two Companies](http://www.icv2.com/articles/news/12677.html)
+  - [Manga Publisher Tokyopop Lays Off Eight More Staffers](http://www.animenewsnetwork.com/news/2008-12-12/manga-publisher-tokyopop-lays-off-eight-more-staffers)
+  - [Tokyopop to Close North American Publishing Division (Update 3)](http://www.animenewsnetwork.com/news/2011-04-15/tokyopop-to-close-north-american-publishing-division)
+  - [Tokyopop Going Public ?](http://www.animenewsnetwork.com/news/2005-01-13/tokyopop-going-public)
 
 ## 外部連結
 
@@ -47,5 +40,4 @@ comic等](https://zh.wikipedia.org/wiki/film_comic "wikilink")。
   - [TOKYOPOP 英國](http://www.tokyopop.co.uk/)
   - [TOKYOPOP 德國](http://www.tokyopop.de/)
 
-[Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink")
-[Category:漫畫出版社](https://zh.wikipedia.org/wiki/Category:漫畫出版社 "wikilink")
+[Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink") [Category:漫畫出版社](https://zh.wikipedia.org/wiki/Category:漫畫出版社 "wikilink")

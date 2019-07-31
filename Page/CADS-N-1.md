@@ -5,7 +5,4 @@
 
   - <http://www.everything2.com/index.pl?node_id=1814632>
 
-[Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink")
-[Category:海軍高射炮](https://zh.wikipedia.org/wiki/Category:海軍高射炮 "wikilink")
-[Category:近迫武器系統](https://zh.wikipedia.org/wiki/Category:近迫武器系統 "wikilink")
-[Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
+[Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink") [Category:海軍高射炮](https://zh.wikipedia.org/wiki/Category:海軍高射炮 "wikilink") [Category:近迫武器系統](https://zh.wikipedia.org/wiki/Category:近迫武器系統 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")

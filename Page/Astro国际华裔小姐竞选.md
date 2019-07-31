@@ -1,63 +1,44 @@
-《**Astro国际华裔小姐竞选**》，是[马来西亚](../Page/马来西亚.md "wikilink")[Astro华丽台举办的](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")。首届1998年冠军是[吴天瑜](https://zh.wikipedia.org/wiki/吴天瑜 "wikilink")，现任冠军是[彭嘉伊](https://zh.wikipedia.org/wiki/彭嘉伊 "wikilink")(2018年Astro国际华裔小姐)。由於选美合约有规定，每届[冠军会代表](https://zh.wikipedia.org/wiki/冠军 "wikilink")[马来西亚参加](../Page/马来西亚.md "wikilink")[TVB举办的](https://zh.wikipedia.org/wiki/TVB "wikilink")[国际中华小姐竞选](https://zh.wikipedia.org/wiki/国际中华小姐竞选 "wikilink")。\[1\]
+《**Astro国际华裔小姐竞选**》，是[马来西亚](../Page/马来西亚.md "wikilink")[Astro华丽台举办的](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")。首届1998年冠军是[吴天瑜](https://zh.wikipedia.org/wiki/吴天瑜 "wikilink")，现任冠军是[彭嘉伊](https://zh.wikipedia.org/wiki/彭嘉伊 "wikilink")(2018年Astro国际华裔小姐)。由於选美合约有规定，每届[冠军会代表](https://zh.wikipedia.org/wiki/冠军 "wikilink")[马来西亚](../Page/马来西亚.md "wikilink")参加[TVB举办的](https://zh.wikipedia.org/wiki/TVB "wikilink")[国际中华小姐竞选](https://zh.wikipedia.org/wiki/国际中华小姐竞选 "wikilink")。\[1\]
 
 ## 历史
 
-《**Astro国际华裔小姐竞选**》的前身是《**马来西亚华裔小姐**》（Miss Malaysia Chinatown
-），香港TVB于1988年创办国际华裔小姐竞选并邀请世界各大城市代表佳丽参赛，冠军亦自此被委派前往香港代表马来西亚角逐该项选美活动。1998年之前参加国际华裔小姐竞选的代表并不一定是获得马来西亚华裔小姐冠军的选手，也可以从代表各自所在城市的身份去参加。到1998年，是项选美会被[Astro华丽台接办](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")，並改名为《**马来西亚国际华裔小姐竞选**》(Miss
-Malaysia Chinese International
-Pageant)，2004年再易名为《**Astro国际华裔小姐竞选**》(Miss
-Astro Chinese International Pageant)。
+《**Astro国际华裔小姐竞选**》的前身是《**马来西亚华裔小姐**》（Miss Malaysia Chinatown ），香港TVB于1988年创办国际华裔小姐竞选并邀请世界各大城市代表佳丽参赛，冠军亦自此被委派前往香港代表马来西亚角逐该项选美活动。1998年之前参加国际华裔小姐竞选的代表并不一定是获得马来西亚华裔小姐冠军的选手，也可以从代表各自所在城市的身份去参加。到1998年，是项选美会被[Astro华丽台接办](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")，並改名为《**马来西亚国际华裔小姐竞选**》(Miss Malaysia Chinese International Pageant)，2004年再易名为《**Astro国际华裔小姐竞选**》(Miss Astro Chinese International Pageant)。
 
-1989年马来西亚华裔小姐冠军
-[邱明珠](https://zh.wikipedia.org/wiki/邱明珠 "wikilink")（槟城）
+1989年马来西亚华裔小姐冠军 [邱明珠](https://zh.wikipedia.org/wiki/邱明珠 "wikilink")（槟城）
 :\*'''1989年国际华裔小姐
 
-:\*\*[邱明珠](https://zh.wikipedia.org/wiki/邱明珠 "wikilink")（槟城）
-1990年马来西亚华裔小姐冠军
-[张丝媚](https://zh.wikipedia.org/wiki/张丝媚 "wikilink")（柔佛）
+:\*\*[邱明珠](https://zh.wikipedia.org/wiki/邱明珠 "wikilink")（槟城） 1990年马来西亚华裔小姐冠军 [张丝媚](https://zh.wikipedia.org/wiki/张丝媚 "wikilink")（柔佛）
 :\*'''1991年国际华裔小姐
 
-:\*\*[张丝媚](https://zh.wikipedia.org/wiki/张丝媚 "wikilink")（柔佛）
-1991年马来西亚华裔小姐冠军 [林美貞](../Page/林美貞.md "wikilink")（怡保）
+:\*\*[张丝媚](https://zh.wikipedia.org/wiki/张丝媚 "wikilink")（柔佛） 1991年马来西亚华裔小姐冠军 [林美貞](../Page/林美貞.md "wikilink")（怡保）
 :\*'''1992年国际华裔小姐
 
-:\*\*[林美貞](../Page/林美貞.md "wikilink")（怡保） 1992年马来西亚华裔小姐冠军
-[张慧仪](https://zh.wikipedia.org/wiki/张慧仪 "wikilink")（怡保）
+:\*\*[林美貞](../Page/林美貞.md "wikilink")（怡保） 1992年马来西亚华裔小姐冠军 [张慧仪](https://zh.wikipedia.org/wiki/张慧仪 "wikilink")（怡保）
 :\*'''1993年国际华裔小姐
 
 :\*\*[张慧仪](https://zh.wikipedia.org/wiki/张慧仪 "wikilink")（怡保）
 
-:\*\*[林赞蕊](https://zh.wikipedia.org/wiki/林赞蕊 "wikilink")（[古晋](https://zh.wikipedia.org/wiki/古晋 "wikilink")）
-1993年马来西亚华裔小姐冠军
-[杨佩君](https://zh.wikipedia.org/wiki/杨佩君 "wikilink")（亚罗士打）
+:\*\*[林赞蕊](https://zh.wikipedia.org/wiki/林赞蕊 "wikilink")（[古晋](https://zh.wikipedia.org/wiki/古晋 "wikilink")） 1993年马来西亚华裔小姐冠军 [杨佩君](https://zh.wikipedia.org/wiki/杨佩君 "wikilink")（亚罗士打）
 :\*'''1994年国际华裔小姐
 
 :\*\*[杨佩君](https://zh.wikipedia.org/wiki/杨佩君 "wikilink")（[亚罗士打](../Page/亚罗士打.md "wikilink")）
 
-:\*\*[陈金金](https://zh.wikipedia.org/wiki/陈金金 "wikilink")（[亞庇](https://zh.wikipedia.org/wiki/亞庇 "wikilink")）
-1994年马来西亚华裔小姐冠军
-[范绮雯](https://zh.wikipedia.org/wiki/范绮雯 "wikilink")（怡保）
+:\*\*[陈金金](https://zh.wikipedia.org/wiki/陈金金 "wikilink")（[亞庇](https://zh.wikipedia.org/wiki/亞庇 "wikilink")） 1994年马来西亚华裔小姐冠军 [范绮雯](https://zh.wikipedia.org/wiki/范绮雯 "wikilink")（怡保）
 :\*'''1995年国际华裔小姐
 
 :\*\*[范绮雯](https://zh.wikipedia.org/wiki/范绮雯 "wikilink")（怡保）
 
-:\*\*[秦顺薏](https://zh.wikipedia.org/wiki/秦顺薏 "wikilink")（吉隆坡）
-1995年马来西亚华裔小姐冠军
-[李笑美](https://zh.wikipedia.org/wiki/李笑美 "wikilink")（吉隆坡）
+:\*\*[秦顺薏](https://zh.wikipedia.org/wiki/秦顺薏 "wikilink")（吉隆坡） 1995年马来西亚华裔小姐冠军 [李笑美](https://zh.wikipedia.org/wiki/李笑美 "wikilink")（吉隆坡）
 :\*'''1996年国际华裔小姐
 
 :\*\*[李笑美](https://zh.wikipedia.org/wiki/李笑美 "wikilink")（吉隆坡）
 
-:\*\*[李燕玲](https://zh.wikipedia.org/wiki/李燕玲 "wikilink")（新山）
-1996年马来西亚华裔小姐冠军
-[严慧贤](https://zh.wikipedia.org/wiki/严慧贤 "wikilink")（吉隆坡）
+:\*\*[李燕玲](https://zh.wikipedia.org/wiki/李燕玲 "wikilink")（新山） 1996年马来西亚华裔小姐冠军 [严慧贤](https://zh.wikipedia.org/wiki/严慧贤 "wikilink")（吉隆坡）
 :\*'''1997年国际华裔小姐
 
 :\*\*[严慧贤](https://zh.wikipedia.org/wiki/严慧贤 "wikilink")（吉隆坡）
 
-:\*\*[郭秀娴](https://zh.wikipedia.org/wiki/郭秀娴 "wikilink")（怡保）
-1997年马来西亚华裔小姐冠军
-[陈英丽](https://zh.wikipedia.org/wiki/陈英丽 "wikilink")（吉隆坡）
+:\*\*[郭秀娴](https://zh.wikipedia.org/wiki/郭秀娴 "wikilink")（怡保） 1997年马来西亚华裔小姐冠军 [陈英丽](https://zh.wikipedia.org/wiki/陈英丽 "wikilink")（吉隆坡）
 :\*'''1998年国际华裔小姐
 
 :\*\*[陈英丽](https://zh.wikipedia.org/wiki/陈英丽 "wikilink")（吉隆坡）
@@ -753,7 +734,7 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 
 ## 國際華裔小姐(1999－2006)／ 國際中華小姐(2007－現在)
 
-冠军得主会代表[马来西亚參加](../Page/马来西亚.md "wikilink")[TVB举办的](https://zh.wikipedia.org/wiki/TVB "wikilink")[国际中华小姐竞选](https://zh.wikipedia.org/wiki/国际中华小姐竞选 "wikilink")，与來自世界不同地区的佳丽争妍斗丽。
+冠军得主会代表[马来西亚](../Page/马来西亚.md "wikilink")參加[TVB举办的](https://zh.wikipedia.org/wiki/TVB "wikilink")[国际中华小姐竞选](https://zh.wikipedia.org/wiki/国际中华小姐竞选 "wikilink")，与來自世界不同地区的佳丽争妍斗丽。
 
 |           |                                                     |                        |
 | --------- | --------------------------------------------------- | ---------------------- |
@@ -823,10 +804,6 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
   - [Astro國際華裔小姐競選 Facebook專頁](https://www.facebook.com/astro.macip)
   - [Astro國際華裔小姐競選 Instagram專頁](https://www.instagram.com/astro.macip/)
 
-[Category:國際中華小姐競選](https://zh.wikipedia.org/wiki/Category:國際中華小姐競選 "wikilink")
-[Category:馬來西亞華人社會](https://zh.wikipedia.org/wiki/Category:馬來西亞華人社會 "wikilink")
-[Category:女性選美活動](https://zh.wikipedia.org/wiki/Category:女性選美活動 "wikilink")
-[Category:华裔选美活动](https://zh.wikipedia.org/wiki/Category:华裔选美活动 "wikilink")
-[Category:1998年建立](https://zh.wikipedia.org/wiki/Category:1998年建立 "wikilink")
+[Category:國際中華小姐競選](https://zh.wikipedia.org/wiki/Category:國際中華小姐競選 "wikilink") [Category:馬來西亞華人社會](https://zh.wikipedia.org/wiki/Category:馬來西亞華人社會 "wikilink") [Category:女性選美活動](https://zh.wikipedia.org/wiki/Category:女性選美活動 "wikilink") [Category:华裔选美活动](https://zh.wikipedia.org/wiki/Category:华裔选美活动 "wikilink") [Category:1998年建立](https://zh.wikipedia.org/wiki/Category:1998年建立 "wikilink")
 
 1.  [【馬來西亞華裔小姐競選】專訪八強佳麗：靚女唔只係得個樣！](https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/235607/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8F%AF%E8%A3%94%E5%B0%8F%E5%A7%90%E7%AB%B6%E9%81%B8-%E5%B0%88%E8%A8%AA%E5%85%AB%E5%BC%B7%E4%BD%B3%E9%BA%97-%E9%9D%9A%E5%A5%B3%E5%94%94%E5%8F%AA%E4%BF%82%E5%BE%97%E5%80%8B%E6%A8%A3)

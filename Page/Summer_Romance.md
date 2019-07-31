@@ -1,5 +1,4 @@
-《**Summer Romance
-87**》是[香港](../Page/香港.md "wikilink")歌手[張國榮](../Page/張國榮.md "wikilink")的第十一張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第八張[粵語錄音室專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1987年8月21日由[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")發行。\[1\]
+《**Summer Romance 87**》是[香港](../Page/香港.md "wikilink")歌手[張國榮](../Page/張國榮.md "wikilink")的第十一張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第八張[粵語錄音室專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1987年8月21日由[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")發行。\[1\]
 
 ## 專輯介紹
 
@@ -40,9 +39,6 @@
 
   - 香港：第7屆[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")－最佳電影歌曲（提名）
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:1987年音樂專輯](https://zh.wikipedia.org/wiki/Category:1987年音樂專輯 "wikilink")
-[Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1987年音樂專輯](https://zh.wikipedia.org/wiki/Category:1987年音樂專輯 "wikilink") [Category:張國榮音樂專輯](https://zh.wikipedia.org/wiki/Category:張國榮音樂專輯 "wikilink")
 
 1.  [1](https://itunes.apple.com/hk/album/summer-romance-87/979846392)

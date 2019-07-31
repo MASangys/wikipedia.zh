@@ -13,15 +13,13 @@
   - 模糊協定無法增加隱匿性，因為這個功能不會加密封包，它只是利用某種演算法讓封包標頭的資訊變成一串看似無意義的亂數。
   - 因為封包沒有加密，對那些告密者而言，他們還是能知道「誰」正在傳輸「特定的資料」。
 
-目前模糊協定已經在eD2k
-TCP與UDP、伺服器的TCP與UDP、[Kad的TCP上實做](https://zh.wikipedia.org/wiki/Kad "wikilink")，至於Kad的UDP則尚未實做。
+目前模糊協定已經在eD2k TCP與UDP、伺服器的TCP與UDP、[Kad的TCP上實做](https://zh.wikipedia.org/wiki/Kad "wikilink")，至於Kad的UDP則尚未實做。
 
 開啟這項功能會使CPU的佔用率稍微提高，並且在傳輸資料時，會需要多傳數Bytes的資料，然而這並不是什麼大問題。
 
 ## L7-filter與IPP2P
 
-L7-filter是針對[OSI模型的第七層](../Page/OSI模型.md "wikilink")－應用層所設計，是Linux防火牆[Netfilter的分類器](../Page/Netfilter.md "wikilink")。它可以對每個封包所使用的通訊協定做出分類，進而讓Netfilter對特定的通訊協定進行阻擋或者是頻寬控管。目前針對eD2k的比對檔只測試到eMule
-0.47a的版本，之後的版本因為模糊協定的關係，應該無法對經過模糊化的eD2k封包做出有效的比對。
+L7-filter是針對[OSI模型](../Page/OSI模型.md "wikilink")的第七層－應用層所設計，是Linux防火牆[Netfilter](../Page/Netfilter.md "wikilink")的分類器。它可以對每個封包所使用的通訊協定做出分類，進而讓Netfilter對特定的通訊協定進行阻擋或者是頻寬控管。目前針對eD2k的比對檔只測試到eMule 0.47a的版本，之後的版本因為模糊協定的關係，應該無法對經過模糊化的eD2k封包做出有效的比對。
 
 IPP2P則是Netfilter的模組，專門針對P2P通訊協定來設計。在IPP2P的網站並沒有任何關於成功辨識模糊協定的消息，因此可以認定IPP2P無法對經過模糊化的eD2k封包做出有效的比對。
 
@@ -31,5 +29,4 @@ IPP2P則是Netfilter的模組，專門針對P2P通訊協定來設計。在IPP2P�
   - [L7-filter](http://l7-filter.sourceforge.net/)
   - [IPP2P](http://ipp2p.org/)
 
-[Category:传输层协议](https://zh.wikipedia.org/wiki/Category:传输层协议 "wikilink")
-[Category:EMule](https://zh.wikipedia.org/wiki/Category:EMule "wikilink")
+[Category:传输层协议](https://zh.wikipedia.org/wiki/Category:传输层协议 "wikilink") [Category:EMule](https://zh.wikipedia.org/wiki/Category:EMule "wikilink")

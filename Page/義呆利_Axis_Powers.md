@@ -1,23 +1,18 @@
-《**義呆利 Axis
-Powers**》（），簡稱*APH*，是一部於[網路上連載的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，作者為[日丸屋秀和](../Page/日丸屋秀和.md "wikilink")。
+《**義呆利 Axis Powers**》（），簡稱*APH*，是一部於[網路上連載的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，作者為[日丸屋秀和](../Page/日丸屋秀和.md "wikilink")。
 
 ## 簡介
 
 作品以[世界歷史](../Page/世界歷史.md "wikilink")和[日本歷史為主軸](https://zh.wikipedia.org/wiki/日本歷史 "wikilink")。作者將多個國家以該國的文化及風土民情擬人化，主要以喜劇的四格及短篇為主。時代背景以[二戰的](https://zh.wikipedia.org/wiki/二戰 "wikilink")8個參戰國爲主軸，摻雜[世界歷史](../Page/世界歷史.md "wikilink")，並且將國家固有的[風俗](../Page/風俗.md "wikilink")、[風土](https://zh.wikipedia.org/wiki/風土 "wikilink")、[風氣](https://zh.wikipedia.org/wiki/風氣 "wikilink")、[風潮依照不同的民族性模擬到各個角色身上](https://zh.wikipedia.org/wiki/風潮 "wikilink")。
 
-其單行本由[幻冬舍Comics](../Page/幻冬舍Comics.md "wikilink")出版，但與網路版有稍微差異。2011年6月30日發行漫畫單行本第四卷。目前相關的周邊包含了同人CD、商業DRAMA等。動畫版於2009年1月24日開始播放。動畫電影在2010年6月5日於日本上映，台灣則於8月6日放映；而該作的第三季電視動畫《義呆利
-World Series》也已於3月26日推出。則第五季《義呆利 The Beautiful World》於2013年1月25號播出。
-第六季《義呆利 THE WORLD TWINKLE》於2015/7月播出
+其單行本由[幻冬舍Comics](../Page/幻冬舍Comics.md "wikilink")出版，但與網路版有稍微差異。2011年6月30日發行漫畫單行本第四卷。目前相關的周邊包含了同人CD、商業DRAMA等。動畫版於2009年1月24日開始播放。動畫電影在2010年6月5日於日本上映，台灣則於8月6日放映；而該作的第三季電視動畫《義呆利 World Series》也已於3月26日推出。則第五季《義呆利 The Beautiful World》於2013年1月25號播出。 第六季《義呆利 THE WORLD TWINKLE》於2015/7月播出
 
-本作品迴避了一部分尖銳的歷史問題（例：[屠殺猶太人](https://zh.wikipedia.org/wiki/屠殺猶太人 "wikilink")、[南京大屠殺](../Page/南京大屠殺.md "wikilink")），部分內容也與真實歷史（例：[日俄戰爭](https://zh.wikipedia.org/wiki/日俄戰爭 "wikilink")）
-有差異。
+本作品迴避了一部分尖銳的歷史問題（例：[屠殺猶太人](https://zh.wikipedia.org/wiki/屠殺猶太人 "wikilink")、[南京大屠殺](../Page/南京大屠殺.md "wikilink")），部分內容也與真實歷史（例：[日俄戰爭](https://zh.wikipedia.org/wiki/日俄戰爭 "wikilink")） 有差異。
 
 ## 角色國
 
 ### 主要國
 
-**主要國**是指義呆利 Axis
-Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikilink")，是本作的八大主角。
+**主要國**是指義呆利 Axis Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikilink")，是本作的八大主角。
 
 #### [軸心國](https://zh.wikipedia.org/wiki/軸心國 "wikilink")
 
@@ -94,8 +89,7 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
   -
   - 女版名称：莫妮卡（モニカ，Monica）
 
-  - 全稱：德意志聯邦共和國
-    （国旗采用的都是现代德国的[黑红金三色旗](../Page/德国国旗.md "wikilink")，然而[一战的德国应为](https://zh.wikipedia.org/wiki/一战 "wikilink")[德意志帝国](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")，[二战时则为](https://zh.wikipedia.org/wiki/二战 "wikilink")[纳粹德国](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")，[冷战](../Page/冷战.md "wikilink")时期又分裂出了[德意志民主共和国](https://zh.wikipedia.org/wiki/德意志民主共和国 "wikilink")）
+  - 全稱：德意志聯邦共和國 （国旗采用的都是现代德国的[黑红金三色旗](../Page/德国国旗.md "wikilink")，然而[一战的德国应为](https://zh.wikipedia.org/wiki/一战 "wikilink")[德意志帝国](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")，[二战时则为](https://zh.wikipedia.org/wiki/二战 "wikilink")[纳粹德国](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")，[冷战](../Page/冷战.md "wikilink")时期又分裂出了[德意志民主共和国](https://zh.wikipedia.org/wiki/德意志民主共和国 "wikilink")）
 
   - 英文：Federal Republic of Germany　　
 
@@ -351,8 +345,7 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
     於《》裝扮的鬼怪是[吸血鬼伯爵](https://zh.wikipedia.org/wiki/吸血 "wikilink")。
     於作者繪製的2011年萬聖節系列短漫中，打扮成[福爾摩斯](https://zh.wikipedia.org/wiki/福爾摩斯 "wikilink")。
     角色歌為《》和《》。
-    在動畫第五季
-    W學園中參加的是魔法部，活動內容為夫婦圓滿魔法、戀愛咒語、[某個帶著眼鏡額頭上有閃電傷疤的魔法師的](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")[cosplay](https://zh.wikipedia.org/wiki/cosplay "wikilink")、祈禱收成，以及其他種種。
+    在動畫第五季 W學園中參加的是魔法部，活動內容為夫婦圓滿魔法、戀愛咒語、[某個帶著眼鏡額頭上有閃電傷疤的魔法師的](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")[cosplay](https://zh.wikipedia.org/wiki/cosplay "wikilink")、祈禱收成，以及其他種種。
     被禁止進出美食部。
 
 ##### [法国](https://zh.wikipedia.org/wiki/法国 "wikilink")
@@ -414,8 +407,7 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
     於《》裝扮的鬼怪是幽靈。
     於作者繪製的2011年萬聖節系列短漫中，打扮成[彼得潘](../Page/彼得潘.md "wikilink")，並和打扮成精靈的[摩納哥一起出場](https://zh.wikipedia.org/wiki/摩納哥 "wikilink")。
     角色歌為《》和《》。
-    在動畫第五季
-    W學園中与[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")一同參加的是美食部，活動內容為做美食、吃美食、愛美食，另外美食部禁止英國進入。
+    在動畫第五季 W學園中与[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")一同參加的是美食部，活動內容為做美食、吃美食、愛美食，另外美食部禁止英國進入。
 
 ##### [俄罗斯](../Page/俄罗斯.md "wikilink")
 
@@ -535,19 +527,16 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
     教日本寫過[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")，但是對於日本發明和使用了[假名的事而倍感生氣](https://zh.wikipedia.org/wiki/假名 "wikilink")。
     目前與[日本](../Page/日本.md "wikilink")的[關係恢復不少](../Page/中日关系.md "wikilink")，偶爾在經濟合作上會产生些许不协调。
     會擅自在[Made In China的點心或零食包裝袋上標上文法錯誤的日文](../Page/中國製造.md "wikilink")。
-    很喜歡玩偶，曾經為了他的上司（一條綠色的[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")）在日本送給中國的[Hello
-    Kitty上用毛筆畫上嘴巴而大發脾氣](../Page/Hello_Kitty.md "wikilink")，並且不停地用玩偶敲擊上司的頭。(結果變爲了Kitty的山寨貨Gitty。)
+    很喜歡玩偶，曾經為了他的上司（一條綠色的[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")）在日本送給中國的[Hello Kitty上用毛筆畫上嘴巴而大發脾氣](../Page/Hello_Kitty.md "wikilink")，並且不停地用玩偶敲擊上司的頭。(結果變爲了Kitty的山寨貨Gitty。)
     於《》擔任的樂器是[二胡](../Page/二胡.md "wikilink")
     在作者製作的遊戲《》中的職業是商人（不是戰鬥人員，而是作為販賣物品的NPC出現。）
     於《》中得到的禮物是[盜版哆啦A夢和](../Page/哆啦A夢.md "wikilink")[文房四寶](https://zh.wikipedia.org/wiki/文房四寶 "wikilink")（[筆、墨、紙、硯](../Page/文房四宝.md "wikilink")），包裝的花紋是粉紅色底帶有白色和紫色的[桃花圖案](https://zh.wikipedia.org/wiki/桃花 "wikilink")（動畫裡改為綠色緞帶和沒有花紋的純黃色的底色）的布袋（其他人都是禮盒）。
     於《》裝扮的鬼怪是[清朝的殭屍](../Page/殭屍.md "wikilink")。
     於作者繪製的2011年萬聖節系列短漫中，打扮成[孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")，並和[香港](../Page/香港.md "wikilink")還有[澳門](../Page/澳門.md "wikilink")一起出場。
     角色歌為《》和《》。
-    在動畫第五季
-    W學園中和[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")一起參加的是美食部，活動內容為做美食、吃美食、愛美食，另外美食部禁止[英國進入](https://zh.wikipedia.org/wiki/英國 "wikilink")。
+    在動畫第五季 W學園中和[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")一起參加的是美食部，活動內容為做美食、吃美食、愛美食，另外美食部禁止[英國進入](https://zh.wikipedia.org/wiki/英國 "wikilink")。
     說話有「ある」和「よろし」的結語詞（讀成「」和「」，譯作「啊嚕」和「即可」），遇到英國時結語詞會變成「あっへん」（讀成「」，就是[鴉片的意思](https://zh.wikipedia.org/wiki/鴉片 "wikilink")，譯作「啊哼」或「唄」）。
-    「啊嚕」其實是日本人對[北京話](https://zh.wikipedia.org/wiki/北京話 "wikilink")「兒話音」的日語讀法，因為日語中沒有「er」的音調，所以使用最接近的「a
-    ru」來代替；但其實日語的「ru」是讀成「ɺu」(齒齦後邊閃音)，所以聲優在讀的時候，和現實中的中文汉语完全不一樣。
+    「啊嚕」其實是日本人對[北京話](https://zh.wikipedia.org/wiki/北京話 "wikilink")「兒話音」的日語讀法，因為日語中沒有「er」的音調，所以使用最接近的「a ru」來代替；但其實日語的「ru」是讀成「ɺu」(齒齦後邊閃音)，所以聲優在讀的時候，和現實中的中文汉语完全不一樣。
 
 ## 特殊用語
 
@@ -850,12 +839,7 @@ ISBN 978-4-344-82868-1（特裝版）</p></td>
 
 ## 網絡動畫
 
-2009年1月24日在[Mobile
-Animate](https://zh.wikipedia.org/wiki/Mobile_Animate "wikilink")，1月26日在[Animate
-TV開始播放](https://zh.wikipedia.org/wiki/Animate_TV "wikilink")。每集動畫的長度约五分鐘。[DVD化也正在計畫之中](https://zh.wikipedia.org/wiki/DVD "wikilink")。原定於1月24日開始在[Kid
-station電視台播放](https://zh.wikipedia.org/wiki/Kid_station "wikilink")，但2009年1月6日，[Kids
-Station公布了中止動畫在](../Page/Kids_Station.md "wikilink")[Kids
-Station放送的消息](../Page/Kids_Station.md "wikilink")。
+2009年1月24日在[Mobile Animate](https://zh.wikipedia.org/wiki/Mobile_Animate "wikilink")，1月26日在[Animate TV開始播放](https://zh.wikipedia.org/wiki/Animate_TV "wikilink")。每集動畫的長度约五分鐘。[DVD化也正在計畫之中](https://zh.wikipedia.org/wiki/DVD "wikilink")。原定於1月24日開始在[Kid station電視台播放](https://zh.wikipedia.org/wiki/Kid_station "wikilink")，但2009年1月6日，[Kids Station公布了中止動畫在](../Page/Kids_Station.md "wikilink")[Kids Station放送的消息](../Page/Kids_Station.md "wikilink")。
 
 ### 動畫
 
@@ -890,8 +874,7 @@ Station放送的消息](../Page/Kids_Station.md "wikilink")。
 
 :;第5季ヘタリア The Beautiful World《旋轉地球輪舞曲》（）（第101話－第120話）
 
-::作詞、作曲：[moss
-moss](https://zh.wikipedia.org/wiki/moss_moss "wikilink")，編曲：[須藤祐](https://zh.wikipedia.org/wiki/須藤祐 "wikilink")，歌：北義大利（CV：浪川大輔）
+::作詞、作曲：[moss moss](https://zh.wikipedia.org/wiki/moss_moss "wikilink")，編曲：[須藤祐](https://zh.wikipedia.org/wiki/須藤祐 "wikilink")，歌：北義大利（CV：浪川大輔）
 
 :;第6季ヘタリア The World Twinkle《ヘタリアン☆ジェット》（）
 
@@ -1139,15 +1122,13 @@ moss](https://zh.wikipedia.org/wiki/moss_moss "wikilink")，編曲：[須藤祐]
 
 ## 電影
 
-《銀幕意呆利 Axis Powers Paint it,
-White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，片長1小時20分鐘。
+《銀幕意呆利 Axis Powers Paint it, White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，片長1小時20分鐘。
 
   - 主題曲
 
 :; 劇場版主題曲「WA\! 輪\!\! ワールド音頭」
 
-::
-歌：世界8（意大利（[浪川大輔](../Page/浪川大輔.md "wikilink")）、德國（[安元洋貴](../Page/安元洋貴.md "wikilink")）、日本（[高橋広樹](https://zh.wikipedia.org/wiki/高橋広樹 "wikilink")）、美國（[小西克幸](../Page/小西克幸.md "wikilink")）、英國（[杉山紀彰](../Page/杉山紀彰.md "wikilink")）、法國（[小野坂昌也](../Page/小野坂昌也.md "wikilink")）、俄羅斯（[高戶靖廣](../Page/高戶靖廣.md "wikilink")）、中國（[甲斐田幸](../Page/甲斐田幸.md "wikilink")））
+:: 歌：世界8（意大利（[浪川大輔](../Page/浪川大輔.md "wikilink")）、德國（[安元洋貴](../Page/安元洋貴.md "wikilink")）、日本（[高橋広樹](https://zh.wikipedia.org/wiki/高橋広樹 "wikilink")）、美國（[小西克幸](../Page/小西克幸.md "wikilink")）、英國（[杉山紀彰](../Page/杉山紀彰.md "wikilink")）、法國（[小野坂昌也](../Page/小野坂昌也.md "wikilink")）、俄羅斯（[高戶靖廣](../Page/高戶靖廣.md "wikilink")）、中國（[甲斐田幸](../Page/甲斐田幸.md "wikilink")））
 
 :; 劇場版形象歌曲「Mein Gott\!」バンドアレンジバージョン
 
@@ -1182,26 +1163,19 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 #### 本篇
 
-1.  1.  2008年8月15日、由[Frontier
-        Works於](../Page/Frontier_Works.md "wikilink")[Comic
-        Market場內先行販售](../Page/Comic_Market.md "wikilink")。
+1.  1.  2008年8月15日、由[Frontier Works於](../Page/Frontier_Works.md "wikilink")[Comic Market場內先行販售](../Page/Comic_Market.md "wikilink")。
     2.  2008年8月29日、[Animate等特定商店內開始販售](https://zh.wikipedia.org/wiki/Animate "wikilink")。
 
-2.  1.  2008年10月24日、由[Frontier
-        Works推出](../Page/Frontier_Works.md "wikilink")，收錄了原創劇本「」。
+2.  1.  2008年10月24日、由[Frontier Works推出](../Page/Frontier_Works.md "wikilink")，收錄了原創劇本「」。
 
 3.  1.  封面非由日丸屋秀和繪製。
-    2.  2008年12月29日、由[Frontier
-        Works於](../Page/Frontier_Works.md "wikilink")[Comic
-        Market場內先行販售](../Page/Comic_Market.md "wikilink")。
+    2.  2008年12月29日、由[Frontier Works於](../Page/Frontier_Works.md "wikilink")[Comic Market場內先行販售](../Page/Comic_Market.md "wikilink")。
     3.  2009年1月28日、[Animate等特定商店內開始販售](https://zh.wikipedia.org/wiki/Animate "wikilink")。
 
-4.  1.  2009年6月3日、由[Frontier
-        Works推出](../Page/Frontier_Works.md "wikilink")。
+4.  1.  2009年6月3日、由[Frontier Works推出](../Page/Frontier_Works.md "wikilink")。
 
 5.  1.  封面使用原作的圖片（）
-    2.  2009年8月26日、由[Frontier
-        Works推出](../Page/Frontier_Works.md "wikilink")。
+    2.  2009年8月26日、由[Frontier Works推出](../Page/Frontier_Works.md "wikilink")。
 
 #### 遊戲「学園ヘタリア Portable」OP/ED
 
@@ -1267,8 +1241,7 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 11. （[北歐五國](../Page/北歐五國.md "wikilink")）
 
-    1.  （聲：[水島大宙](../Page/水島大宙.md "wikilink")、酒井敬幸、下崎紘史、[岩崎征実](https://zh.wikipedia.org/wiki/岩崎征実 "wikilink")、浅倉
-        歩）2012年7月25日發售
+    1.  （聲：[水島大宙](../Page/水島大宙.md "wikilink")、酒井敬幸、下崎紘史、[岩崎征実](https://zh.wikipedia.org/wiki/岩崎征実 "wikilink")、浅倉 歩）2012年7月25日發售
     2.  收錄《》
 
 12. 《》（[香港](../Page/香港.md "wikilink")）
@@ -1285,8 +1258,7 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 15. 《》（[加拿大](../Page/加拿大.md "wikilink")）
 
-    1.  （聲：[小西克幸](../Page/小西克幸.md "wikilink")) With
-        熊二郎（聲：[岩村愛子](https://zh.wikipedia.org/wiki/岩村愛子 "wikilink")）2012年5月15日配信開始
+    1.  （聲：[小西克幸](../Page/小西克幸.md "wikilink")) With 熊二郎（聲：[岩村愛子](https://zh.wikipedia.org/wiki/岩村愛子 "wikilink")）2012年5月15日配信開始
 
 16. 《》（[羅馬帝國](../Page/羅馬帝國.md "wikilink")）
 
@@ -1346,8 +1318,7 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 9.  （[中國](../Page/中國.md "wikilink")）
 
-    1.  （聲：[甲斐田
-        ゆき](https://zh.wikipedia.org/wiki/甲斐田_ゆき "wikilink")）2013年9月25日發售
+    1.  （聲：[甲斐田 ゆき](https://zh.wikipedia.org/wiki/甲斐田_ゆき "wikilink")）2013年9月25日發售
     2.  收錄《》、《》
 
 10. （[軸心國](https://zh.wikipedia.org/wiki/軸心國 "wikilink")）
@@ -1392,8 +1363,7 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 1.  （[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")）、（[日本](../Page/日本.md "wikilink")）
 
-    1.  （聲：[浪川大輔](../Page/浪川大輔.md "wikilink")）、（聲：[高橋廣樹](../Page/高橋廣樹.md "wikilink")）2015年6月24日發售
-        （兩個角色各收錄一首）
+    1.  （聲：[浪川大輔](../Page/浪川大輔.md "wikilink")）、（聲：[高橋廣樹](../Page/高橋廣樹.md "wikilink")）2015年6月24日發售 （兩個角色各收錄一首）
     2.  收錄《》、《》
 
 2.  （[普魯士](../Page/普魯士.md "wikilink")）、（[德意志](https://zh.wikipedia.org/wiki/德意志 "wikilink")）
@@ -1413,8 +1383,7 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 5.  （[挪威](../Page/挪威.md "wikilink")）、（[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")）
 
-    1.  （聲：[岩崎征実](https://zh.wikipedia.org/wiki/岩崎征実 "wikilink")）、（聲：[浅倉
-        歩](https://zh.wikipedia.org/wiki/浅倉_歩 "wikilink")）2015年9月25日發售（兩個角色各收錄一首）
+    1.  （聲：[岩崎征実](https://zh.wikipedia.org/wiki/岩崎征実 "wikilink")）、（聲：[浅倉 歩](https://zh.wikipedia.org/wiki/浅倉_歩 "wikilink")）2015年9月25日發售（兩個角色各收錄一首）
     2.  收錄《》、《》
 
 6.  （[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")）、（[愛沙尼亞](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")）
@@ -1429,8 +1398,7 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 8.  （[中國](../Page/中國.md "wikilink")）、（[香港](../Page/香港.md "wikilink")）
 
-    1.  （聲：[甲斐田
-        ゆき](https://zh.wikipedia.org/wiki/甲斐田_ゆき "wikilink")）、（聲：[高城元氣](../Page/高城元氣.md "wikilink")）2015年11月6日發售（兩個角色各收錄一首）
+    1.  （聲：[甲斐田 ゆき](https://zh.wikipedia.org/wiki/甲斐田_ゆき "wikilink")）、（聲：[高城元氣](../Page/高城元氣.md "wikilink")）2015年11月6日發售（兩個角色各收錄一首）
     2.  收錄《》、《》
 
 ## 參見
@@ -1442,32 +1410,15 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 ## 外部連結
 
-  - [ヘタリア　\*心のそこからヘタレイタリアをマンセーする\*](http://www.geocities.jp/himaruya/hetaria/index.html)
-    - 作者公式網站
+  - [ヘタリア　\*心のそこからヘタレイタリアをマンセーする\*](http://www.geocities.jp/himaruya/hetaria/index.html) - 作者公式網站
 
-  - [日丸屋秀和「ヘタリア Axis Powers」](http://www.gentosha-comics.net/hetalia/) -
-    幻冬舍特設網站
+  - [日丸屋秀和「ヘタリア Axis Powers」](http://www.gentosha-comics.net/hetalia/) - 幻冬舍特設網站
 
   - [ヘタリアドットコム](http://hetalia.com/index.htm) - 動畫版公式網站
 
-  - [義呆利](http://japan.videoland.com.tw/channel/hetalia/default.asp) -
-    緯來日本台官方網站
+  - [義呆利](http://japan.videoland.com.tw/channel/hetalia/default.asp) - 緯來日本台官方網站
 
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:日本網路漫畫](https://zh.wikipedia.org/wiki/Category:日本網路漫畫 "wikilink")
-[Category:2009年日本網路動畫](https://zh.wikipedia.org/wiki/Category:2009年日本網路動畫 "wikilink")
-[Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink")
-[Category:漫画书中的国家化身](https://zh.wikipedia.org/wiki/Category:漫画书中的国家化身 "wikilink")
-[Category:反韓情緒](https://zh.wikipedia.org/wiki/Category:反韓情緒 "wikilink")
-[Category:國家題材電視節目](https://zh.wikipedia.org/wiki/Category:國家題材電視節目 "wikilink")
-[Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:国家化身](https://zh.wikipedia.org/wiki/Category:国家化身 "wikilink")
-[Category:网络动画](https://zh.wikipedia.org/wiki/Category:网络动画 "wikilink")
-[Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink")
-[Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
+[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:日本網路漫畫](https://zh.wikipedia.org/wiki/Category:日本網路漫畫 "wikilink") [Category:2009年日本網路動畫](https://zh.wikipedia.org/wiki/Category:2009年日本網路動畫 "wikilink") [Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink") [Category:漫画书中的国家化身](https://zh.wikipedia.org/wiki/Category:漫画书中的国家化身 "wikilink") [Category:反韓情緒](https://zh.wikipedia.org/wiki/Category:反韓情緒 "wikilink") [Category:國家題材電視節目](https://zh.wikipedia.org/wiki/Category:國家題材電視節目 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:国家化身](https://zh.wikipedia.org/wiki/Category:国家化身 "wikilink") [Category:网络动画](https://zh.wikipedia.org/wiki/Category:网络动画 "wikilink") [Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
 
 1.  她的舊藝名是金田晶代-かなだ あきよ-，後來才改金田-アキ-，固翻譯成「晶」——發音為「あき」——比較恰當。
 
@@ -1475,10 +1426,7 @@ White（塗成白色吧！）》（）2010年6月5日上映的劇場版動畫，
 
 3.
 
-4.  {{ Cite book | author = 日丸屋秀和 | title =
-    [義呆利](https://zh.wikipedia.org/wiki/義呆利 "wikilink")3 |
-    location = 台灣 | publisher = 原動力亞細亞 | date = 2010年7月 | pages = P17 |
-    language= zh-hant| quote = 義大利與他愉快的夥伴們：俄羅斯 }}
+4.  {{ Cite book | author = 日丸屋秀和 | title = [義呆利](https://zh.wikipedia.org/wiki/義呆利 "wikilink")3 | location = 台灣 | publisher = 原動力亞細亞 | date = 2010年7月 | pages = P17 | language= zh-hant| quote = 義大利與他愉快的夥伴們：俄羅斯 }}
 
 5.
 6.

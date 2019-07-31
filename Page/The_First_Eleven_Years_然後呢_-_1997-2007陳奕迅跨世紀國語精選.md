@@ -1,5 +1,4 @@
-《**The First Eleven Years 然後呢 -
-1997-2007陳奕迅跨世紀國語精選**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")2008年[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2008年3月31日發行。
+《**The First Eleven Years 然後呢 - 1997-2007陳奕迅跨世紀國語精選**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")2008年[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2008年3月31日發行。
 
 ## 專輯簡介
 
@@ -47,7 +46,4 @@
 
 [G-music](https://zh.wikipedia.org/wiki/G-music "wikilink")
 
-[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink")
-[Category:陳奕迅國語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅國語專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
+[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink") [Category:陳奕迅國語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅國語專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")

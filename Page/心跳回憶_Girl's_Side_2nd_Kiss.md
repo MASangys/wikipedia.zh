@@ -1,12 +1,6 @@
-《**心跳回憶 Girl's Side 2nd
-Kiss**》（）是[科樂美數位娛樂在](../Page/科樂美數位娛樂.md "wikilink")2006年8月3日發售的女性向[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，略稱為「GS2」，是《[心跳回憶
-Girl's Side
-系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第2彈。舞台是跟前作一樣是振翅市，不過主人公就讀的學校變成了「羽崎学園」。
+《**心跳回憶 Girl's Side 2nd Kiss**》（）是[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")在2006年8月3日發售的女性向[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，略稱為「GS2」，是《[心跳回憶 Girl's Side 系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第2彈。舞台是跟前作一樣是振翅市，不過主人公就讀的學校變成了「羽崎学園」。
 
-2007年3月15日發售[PC版打字遊戲](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")《心跳回憶
-Girl's Side 2nd Kiss
-Typing》。而在2008年2月14日發售[任天堂DS版戀愛模擬遊戲](../Page/任天堂DS.md "wikilink")《心跳回憶
-Girl's Side 2nd Season》，並增加新角色和新元素。
+2007年3月15日發售[PC版打字遊戲](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")《心跳回憶 Girl's Side 2nd Kiss Typing》。而在2008年2月14日發售[任天堂DS](../Page/任天堂DS.md "wikilink")版戀愛模擬遊戲《心跳回憶 Girl's Side 2nd Season》，並增加新角色和新元素。
 
 ## 登場人物
 
@@ -251,12 +245,9 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 
 <!-- end list -->
 
-  - 主題曲 **「Stay」** -
-    主唱：[大浦祐一](https://zh.wikipedia.org/wiki/大浦祐一 "wikilink")
-  - 片尾曲 **「」** - 主唱：[Stardust
-    Revue](https://zh.wikipedia.org/wiki/Stardust_Revue "wikilink")
-  - 插入歌 **「Lovin' Moon」** -
-    主唱：[camino](https://zh.wikipedia.org/wiki/camino "wikilink")
+  - 主題曲 **「Stay」** - 主唱：[大浦祐一](https://zh.wikipedia.org/wiki/大浦祐一 "wikilink")
+  - 片尾曲 **「」** - 主唱：[Stardust Revue](https://zh.wikipedia.org/wiki/Stardust_Revue "wikilink")
+  - 插入歌 **「Lovin' Moon」** - 主唱：[camino](https://zh.wikipedia.org/wiki/camino "wikilink")
 
 <!-- end list -->
 
@@ -276,8 +267,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 
 ## 系列作品
 
-  - 心跳回忆Girl's Side 2nd Kiss
-    Typing（[Win](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")）
+  - 心跳回忆Girl's Side 2nd Kiss Typing（[Win](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")）
   - 心跳回忆 Girl's Side 2nd Season（[NDS](../Page/任天堂DS.md "wikilink")）
 
 ## 关联商品
@@ -321,8 +311,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 
   - [心跳回憶](https://zh.wikipedia.org/wiki/心跳回憶 "wikilink")
   - [心跳回憶 Girl's Side](../Page/心跳回憶_Girl's_Side.md "wikilink")
-  - [心跳回憶 Girl's Side 3rd
-    Story](../Page/心跳回憶_Girl's_Side_3rd_Story.md "wikilink")
+  - [心跳回憶 Girl's Side 3rd Story](../Page/心跳回憶_Girl's_Side_3rd_Story.md "wikilink")
 
 ## 外部連結
 
@@ -332,10 +321,4 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 
   - [DS版官方网站](http://www.konami.jp/gs/game/Girls_Side/2nd_Season/)
 
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink")
-[Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:心跳回憶系列電子遊戲](https://zh.wikipedia.org/wiki/Category:心跳回憶系列電子遊戲 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:心跳回憶系列電子遊戲](https://zh.wikipedia.org/wiki/Category:心跳回憶系列電子遊戲 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")

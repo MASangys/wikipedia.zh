@@ -1,5 +1,4 @@
-**胺酰-tRNA合成酶**（aminoacyl tRNA
-synthetase，通常简写为**aaRS**）是一类催化特定[胺基酸或其前体与对应](../Page/氨基酸.md "wikilink")[tRNA发生](https://zh.wikipedia.org/wiki/tRNA "wikilink")[酯化反应](../Page/酯化反应.md "wikilink")而形成[胺酰tRNA的](https://zh.wikipedia.org/wiki/氨酰tRNA "wikilink")[酶](../Page/酶.md "wikilink")。由于每一种的胺基酸与[tRNA的连接都需要专一性的胺酰tRNA合成酶来催化](https://zh.wikipedia.org/wiki/tRNA "wikilink")，因此胺酰tRNA合成酶的种类与[标准胺基酸的数量一样都为](https://zh.wikipedia.org/wiki/標準氨基酸列表 "wikilink")20种。
+**胺酰-tRNA合成酶**（aminoacyl tRNA synthetase，通常简写为**aaRS**）是一类催化特定[胺基酸或其前体与对应](../Page/氨基酸.md "wikilink")[tRNA发生](https://zh.wikipedia.org/wiki/tRNA "wikilink")[酯化反应](../Page/酯化反应.md "wikilink")而形成[胺酰tRNA的](https://zh.wikipedia.org/wiki/氨酰tRNA "wikilink")[酶](../Page/酶.md "wikilink")。由于每一种的胺基酸与[tRNA的连接都需要专一性的胺酰tRNA合成酶来催化](https://zh.wikipedia.org/wiki/tRNA "wikilink")，因此胺酰tRNA合成酶的种类与[标准胺基酸的数量一样都为](https://zh.wikipedia.org/wiki/標準氨基酸列表 "wikilink")20种。
 
 胺酰tRNA合成酶也是自然界中最古老的[蛋白质](../Page/蛋白质.md "wikilink")之一。\[1\]
 
@@ -46,8 +45,7 @@ synthetase，通常简写为**aaRS**）是一类催化特定[胺基酸或其前�
 ## 外部链接
 
   -
-[Category:EC_6.1](https://zh.wikipedia.org/wiki/Category:EC_6.1 "wikilink")
-[Category:蛋白质生物合成](https://zh.wikipedia.org/wiki/Category:蛋白质生物合成 "wikilink")
+[Category:EC_6.1](https://zh.wikipedia.org/wiki/Category:EC_6.1 "wikilink") [Category:蛋白质生物合成](https://zh.wikipedia.org/wiki/Category:蛋白质生物合成 "wikilink")
 
 1.
 

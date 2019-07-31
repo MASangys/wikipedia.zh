@@ -1,8 +1,7 @@
 /\*
 
 `       From: `<http://en.wikipedia.org/wiki/User:Gary_King/comments_in_local_time.js>
-`   Documentation: `[`Wikipedia:Comments``   ``in``   ``Local``
- ``Time`](https://zh.wikipedia.org/wiki/Wikipedia:Comments_in_Local_Time "wikilink")
+`   Documentation: `[`Wikipedia:Comments``   ``in``   ``Local``   ``Time`](https://zh.wikipedia.org/wiki/Wikipedia:Comments_in_Local_Time "wikilink")
 
   - /
 
@@ -58,8 +57,7 @@ function add_leading_zero(number) {
 
 }
 
-function adjust_time(original_timestamp, old_hour, old_minute,
-old_day, old_month, old_year, offset) {
+function adjust_time(original_timestamp, old_hour, old_minute, old_day, old_month, old_year, offset) {
 
 `   var today = new Date(), yesterday = new Date(), tomorrow = new Date();`
 `   yesterday.setDate(yesterday.getDate() - 1);`

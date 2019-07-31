@@ -2,7 +2,4 @@
 
 ## 參考文獻
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:1989年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1989年成立的音樂團體 "wikilink")
-[Category:1994年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年解散的音樂團體 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:1989年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1989年成立的音樂團體 "wikilink") [Category:1994年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年解散的音樂團體 "wikilink")

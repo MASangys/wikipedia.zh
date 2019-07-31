@@ -1,10 +1,6 @@
-**AirPort Time
-Capsule**是[苹果公司出品的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[網路儲存設備](https://zh.wikipedia.org/wiki/網路儲存設備 "wikilink")（NAS），它主要用作資料备份用途，设计与[Leopard的](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")[Time
-Machine备份功能互相配合](../Page/Time_Machine.md "wikilink")。第一代產品最早於2008年度的[MacWorld會議及博覽會上发布](https://zh.wikipedia.org/wiki/:en:Macworld/iWorld "wikilink")，並於[2008年2月正式上市](../Page/2008年2月.md "wikilink")。此產品於2013年推出至第五代，但之後並未再推出新款產品。直到2018年4月27日，[彭博通訊社報導蘋果公司已將AirPort產品線停產](https://zh.wikipedia.org/wiki/彭博通訊社 "wikilink")\[1\]。
+**AirPort Time Capsule**是[苹果公司出品的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[網路儲存設備](https://zh.wikipedia.org/wiki/網路儲存設備 "wikilink")（NAS），它主要用作資料备份用途，设计与[Leopard的](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")[Time Machine备份功能互相配合](../Page/Time_Machine.md "wikilink")。第一代產品最早於2008年度的[MacWorld會議及博覽會上发布](https://zh.wikipedia.org/wiki/:en:Macworld/iWorld "wikilink")，並於[2008年2月](../Page/2008年2月.md "wikilink")正式上市。此產品於2013年推出至第五代，但之後並未再推出新款產品。直到2018年4月27日，[彭博通訊社報導蘋果公司已將AirPort產品線停產](https://zh.wikipedia.org/wiki/彭博通訊社 "wikilink")\[1\]。
 
-Time Capsule的硬件架构中包含一個企业级[SATA](../Page/SATA.md "wikilink")
-7200[RPM硬碟](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")、完整[AirPort
-Extreme的硬件架构](../Page/AirPort.md "wikilink")、配備3个乙太网接口以及一个USB接口，可同時作為[路由器及](../Page/路由器.md "wikilink")[網路儲存設備並外接硬碟或打印机](https://zh.wikipedia.org/wiki/網路儲存設備 "wikilink")。
+Time Capsule的硬件架构中包含一個企业级[SATA](../Page/SATA.md "wikilink") 7200[RPM硬碟](https://zh.wikipedia.org/wiki/每分鐘轉速 "wikilink")、完整[AirPort Extreme的硬件架构](../Page/AirPort.md "wikilink")、配備3个乙太网接口以及一个USB接口，可同時作為[路由器](../Page/路由器.md "wikilink")及[網路儲存設備並外接硬碟或打印机](https://zh.wikipedia.org/wiki/網路儲存設備 "wikilink")。
 
 ## 型號比較
 
@@ -129,8 +125,6 @@ Extreme的硬件架构](../Page/AirPort.md "wikilink")、配備3个乙太网接�
 </tbody>
 </table>
 
-[Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink")
-[Category:服务器](https://zh.wikipedia.org/wiki/Category:服务器 "wikilink")
-[Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
+[Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink") [Category:服务器](https://zh.wikipedia.org/wiki/Category:服务器 "wikilink") [Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
 
 1.

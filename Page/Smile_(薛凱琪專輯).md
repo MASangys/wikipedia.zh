@@ -1,6 +1,4 @@
-《**Smile**》是[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2008年的廣東專輯，於2008年12月19日推出，收錄[薛凱琪首個售票音樂劇](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")《Last
-Smile, First
-Tear》的全部音樂和歌曲。專輯內四首由[方大同作曲及編曲的作品均有派台](https://zh.wikipedia.org/wiki/方大同 "wikilink")，分別是《劍龍在草地散步》、《天國的微笑》、《甜蜜蜜》和《不呼不吸幾多秒》。
+《**Smile**》是[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2008年的廣東專輯，於2008年12月19日推出，收錄[薛凱琪首個售票音樂劇](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")《Last Smile, First Tear》的全部音樂和歌曲。專輯內四首由[方大同作曲及編曲的作品均有派台](https://zh.wikipedia.org/wiki/方大同 "wikilink")，分別是《劍龍在草地散步》、《天國的微笑》、《甜蜜蜜》和《不呼不吸幾多秒》。
 
 ## 曲目資料
 
@@ -33,5 +31,4 @@ Tear》的全部音樂和歌曲。專輯內四首由[方大同作曲及編曲的
 | 1\. | 天國的微笑 | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") | [林若寧](../Page/林若寧.md "wikilink")                    | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") | 崔炎德／[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") |
 | 2\. | 甜蜜蜜   | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") | 崔炎德／[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") |
 
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")
+[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")

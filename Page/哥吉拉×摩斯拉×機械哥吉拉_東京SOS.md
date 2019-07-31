@@ -6,8 +6,7 @@
 
 ## 劇情概要
 
-一年前與[哥斯拉](../Page/哥斯拉.md "wikilink")作戰，機龍損失慘重，失去了右手和絕對零度砲。
-維修基地的人員中條義人一次在他叔叔信一的別墅度假時，嬰兒島的小美人來給他一個忠告：人類用[哥斯拉](../Page/哥斯拉.md "wikilink")的骨骸製造機龍其實是個嚴重的錯誤，若出動機龍，[魔斯拉就會與人類為敵](https://zh.wikipedia.org/wiki/魔斯拉 "wikilink")。於是信一想辦法說服老友也是首相的五十嵐，希望能中止機龍的計畫，但此時[哥斯拉](../Page/哥斯拉.md "wikilink")又在太平洋出現......
+一年前與[哥斯拉](../Page/哥斯拉.md "wikilink")作戰，機龍損失慘重，失去了右手和絕對零度砲。 維修基地的人員中條義人一次在他叔叔信一的別墅度假時，嬰兒島的小美人來給他一個忠告：人類用[哥斯拉](../Page/哥斯拉.md "wikilink")的骨骸製造機龍其實是個嚴重的錯誤，若出動機龍，[魔斯拉就會與人類為敵](https://zh.wikipedia.org/wiki/魔斯拉 "wikilink")。於是信一想辦法說服老友也是首相的五十嵐，希望能中止機龍的計畫，但此時[哥斯拉](../Page/哥斯拉.md "wikilink")又在太平洋出現......
 
 ## 登場怪獸
 
@@ -60,15 +59,4 @@
   -
   -
   -
-[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
-[Category:Mothra](https://zh.wikipedia.org/wiki/Category:Mothra "wikilink")
-[Category:2003年電影](https://zh.wikipedia.org/wiki/Category:2003年電影 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:特攝電影跨界作品](https://zh.wikipedia.org/wiki/Category:特攝電影跨界作品 "wikilink")
-[Category:機械人電影](https://zh.wikipedia.org/wiki/Category:機械人電影 "wikilink")
-[Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink")
-[Category:千葉縣背景電影](https://zh.wikipedia.org/wiki/Category:千葉縣背景電影 "wikilink")
-[Category:2004年背景電影](https://zh.wikipedia.org/wiki/Category:2004年背景電影 "wikilink")
-[Category:手塚昌明電影](https://zh.wikipedia.org/wiki/Category:手塚昌明電影 "wikilink")
-[Category:日本自衛隊電影](https://zh.wikipedia.org/wiki/Category:日本自衛隊電影 "wikilink")
-[Category:輕井澤背景電影](https://zh.wikipedia.org/wiki/Category:輕井澤背景電影 "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink") [Category:Mothra](https://zh.wikipedia.org/wiki/Category:Mothra "wikilink") [Category:2003年電影](https://zh.wikipedia.org/wiki/Category:2003年電影 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:特攝電影跨界作品](https://zh.wikipedia.org/wiki/Category:特攝電影跨界作品 "wikilink") [Category:機械人電影](https://zh.wikipedia.org/wiki/Category:機械人電影 "wikilink") [Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink") [Category:千葉縣背景電影](https://zh.wikipedia.org/wiki/Category:千葉縣背景電影 "wikilink") [Category:2004年背景電影](https://zh.wikipedia.org/wiki/Category:2004年背景電影 "wikilink") [Category:手塚昌明電影](https://zh.wikipedia.org/wiki/Category:手塚昌明電影 "wikilink") [Category:日本自衛隊電影](https://zh.wikipedia.org/wiki/Category:日本自衛隊電影 "wikilink") [Category:輕井澤背景電影](https://zh.wikipedia.org/wiki/Category:輕井澤背景電影 "wikilink")

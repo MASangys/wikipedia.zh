@@ -1,6 +1,4 @@
-《**Paradise**》是香港搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")發行的第五張國語專輯，《Paradise》是[Beyond](../Page/Beyond.md "wikilink")樂隊在主音[黃家駒](../Page/黃家駒.md "wikilink")逝世後，三人復出發行的首張專輯，Beyond在[台灣舉辦](https://zh.wikipedia.org/wiki/台灣 "wikilink")《一輩子陪我走音樂會》是黃家駒離世後，首度在台灣公開演出，受到極大的矚目。
-這唱片充滿著懷念黃家駒的感覺，其中《Paradise》、《祝您愉快》、《We Don't Wanna Make It Without You》
-都是懷念黃家駒之作。而《一輩子陪我走》則是以一個輕快的伴奏，高歌四子手足之情。
+《**Paradise**》是香港搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")發行的第五張國語專輯，《Paradise》是[Beyond](../Page/Beyond.md "wikilink")樂隊在主音[黃家駒](../Page/黃家駒.md "wikilink")逝世後，三人復出發行的首張專輯，Beyond在[台灣舉辦](https://zh.wikipedia.org/wiki/台灣 "wikilink")《一輩子陪我走音樂會》是黃家駒離世後，首度在台灣公開演出，受到極大的矚目。 這唱片充滿著懷念黃家駒的感覺，其中《Paradise》、《祝您愉快》、《We Don't Wanna Make It Without You》 都是懷念黃家駒之作。而《一輩子陪我走》則是以一個輕快的伴奏，高歌四子手足之情。
 
 綜合以上所述，這唱片除了是懷念主音吉他手黃家駒外，也為歌迷帶來了一個耳目一新的感覺。
 
@@ -34,7 +32,4 @@
 11. 祝您愉快
 12. Paradise (演奏版)
 
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink")
-[Category:Beyond音樂專輯](https://zh.wikipedia.org/wiki/Category:Beyond音樂專輯 "wikilink")
-[Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink")
+[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink") [Category:Beyond音樂專輯](https://zh.wikipedia.org/wiki/Category:Beyond音樂專輯 "wikilink") [Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink")

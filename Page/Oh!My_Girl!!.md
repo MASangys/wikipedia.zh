@@ -1,5 +1,4 @@
-《**-{Oh\!My
-Girl\!\!}-**》（）是2008年10月14日到同年12月9日在[日本電視台](../Page/日本電視台.md "wikilink")每週二晚間10點播出的電視劇，共9集。台灣[緯來日本台](../Page/緯來日本台.md "wikilink")以「**A咖童星在我家**」的名稱於2009年4月27日首播。
+《**-{Oh\!My Girl\!\!}-**》（）是2008年10月14日到同年12月9日在[日本電視台](../Page/日本電視台.md "wikilink")每週二晚間10點播出的電視劇，共9集。台灣[緯來日本台](../Page/緯來日本台.md "wikilink")以「**A咖童星在我家**」的名稱於2009年4月27日首播。
 
 ## 劇情概要
 
@@ -50,8 +49,4 @@ Girl\!\!}-**》（）是2008年10月14日到同年12月9日在[日本電視台](
 
 ## 節目的變遷
 
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:日本電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週二晚間十點連續劇 "wikilink")
-[Category:作家題材作品](https://zh.wikipedia.org/wiki/Category:作家題材作品 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink")
+[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:日本電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週二晚間十點連續劇 "wikilink") [Category:作家題材作品](https://zh.wikipedia.org/wiki/Category:作家題材作品 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:美亞電視外購劇集](https://zh.wikipedia.org/wiki/Category:美亞電視外購劇集 "wikilink")

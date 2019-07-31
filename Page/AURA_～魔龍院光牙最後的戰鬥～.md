@@ -1,6 +1,4 @@
-《**AURA
-～魔龍院光牙最後的戰鬥～**》（）是[田中羅密歐](../Page/田中羅密歐.md "wikilink")撰寫，[mebae負責插畫的](https://zh.wikipedia.org/wiki/mebae "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，由[小學館](../Page/小學館.md "wikilink")的[Gagaga文庫出版](https://zh.wikipedia.org/wiki/Gagaga文庫 "wikilink")。作者將以前在《PC
-Angel neo》連載的專欄改寫成小說而成為本作。
+《**AURA ～魔龍院光牙最後的戰鬥～**》（）是[田中羅密歐](../Page/田中羅密歐.md "wikilink")撰寫，[mebae負責插畫的](https://zh.wikipedia.org/wiki/mebae "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，由[小學館](../Page/小學館.md "wikilink")的[Gagaga文庫出版](https://zh.wikipedia.org/wiki/Gagaga文庫 "wikilink")。作者將以前在《PC Angel neo》連載的專欄改寫成小說而成為本作。
 
 一部動畫電影於2013年4月13日首映。
 
@@ -55,8 +53,7 @@ Angel neo》連載的專欄改寫成小說而成為本作。
 
 ### 輕小說
 
-2008年7月18日由[小學館](../Page/小學館.md "wikilink")的[Gagaga文庫發售一本名為](https://zh.wikipedia.org/wiki/Gagaga文庫 "wikilink")《》的[輕小說](../Page/輕小說.md "wikilink")（ISBN
-978-4-09-451080-5）。\[1\]
+2008年7月18日由[小學館](../Page/小學館.md "wikilink")的[Gagaga文庫發售一本名為](https://zh.wikipedia.org/wiki/Gagaga文庫 "wikilink")《》的[輕小說](../Page/輕小說.md "wikilink")（ISBN 978-4-09-451080-5）。\[1\]
 
 ### 動畫電影
 
@@ -64,22 +61,7 @@ Angel neo》連載的專欄改寫成小說而成為本作。
 
 ## 參考
 
-[Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink")
-[Category:2008年日本小說](https://zh.wikipedia.org/wiki/Category:2008年日本小說 "wikilink")
-[Category:校園暴力題材小說](https://zh.wikipedia.org/wiki/Category:校園暴力題材小說 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:校園暴力題材漫畫](https://zh.wikipedia.org/wiki/Category:校園暴力題材漫畫 "wikilink")
-[Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink")
-[Category:Lantis](https://zh.wikipedia.org/wiki/Category:Lantis "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:校園暴力題材動畫](https://zh.wikipedia.org/wiki/Category:校園暴力題材動畫 "wikilink")
-[Category:校園暴力題材電影](https://zh.wikipedia.org/wiki/Category:校園暴力題材電影 "wikilink")
-[Category:日本小说改编电影](https://zh.wikipedia.org/wiki/Category:日本小说改编电影 "wikilink")
-[Category:轻小说改编电影](https://zh.wikipedia.org/wiki/Category:轻小说改编电影 "wikilink")
+[Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink") [Category:2008年日本小說](https://zh.wikipedia.org/wiki/Category:2008年日本小說 "wikilink") [Category:校園暴力題材小說](https://zh.wikipedia.org/wiki/Category:校園暴力題材小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:校園暴力題材漫畫](https://zh.wikipedia.org/wiki/Category:校園暴力題材漫畫 "wikilink") [Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink") [Category:Lantis](https://zh.wikipedia.org/wiki/Category:Lantis "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:校園暴力題材動畫](https://zh.wikipedia.org/wiki/Category:校園暴力題材動畫 "wikilink") [Category:校園暴力題材電影](https://zh.wikipedia.org/wiki/Category:校園暴力題材電影 "wikilink") [Category:日本小说改编电影](https://zh.wikipedia.org/wiki/Category:日本小说改编电影 "wikilink") [Category:轻小说改编电影](https://zh.wikipedia.org/wiki/Category:轻小说改编电影 "wikilink")
 
 1.
 2.

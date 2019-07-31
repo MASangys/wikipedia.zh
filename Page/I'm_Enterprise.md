@@ -1,28 +1,18 @@
-**株式會社I'm
-Enterprise**（，）是總部位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[代代木](../Page/代代木.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。常簡寫成「**I'm**（）」。1997年成立。[ARTSVISION的子聲優公司](../Page/ARTSVISION.md "wikilink")。
+**株式會社I'm Enterprise**（，）是總部位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[代代木](../Page/代代木.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。常簡寫成「**I'm**（）」。1997年成立。[ARTSVISION](../Page/ARTSVISION.md "wikilink")的子聲優公司。
 
 ## 概要
 
-I'm
-Enterprise是在1997年6月1日，由[ARTSVISION社長](../Page/ARTSVISION.md "wikilink")[松田-{咲}-實成立](../Page/松田咲實.md "wikilink")，作為ARTSVISION的子公司，兼任I'm
-Enterprise的首任社長。
+I'm Enterprise是在1997年6月1日，由[ARTSVISION](../Page/ARTSVISION.md "wikilink")社長[松田-{咲}-實成立](../Page/松田咲實.md "wikilink")，作為ARTSVISION的子公司，兼任I'm Enterprise的首任社長。
 
-I'm
-Enterprise的政策與母公司ARTSVISION有些微分別，雖然主要仍是培養出偶像聲優，但容許一部分聲優設立或參與劇團的工作。此外，I'm
-Enterprise旗下有兩間子事務所：[VIMS和](../Page/VIMS.md "wikilink")[Crazy
-Box（下述）](https://zh.wikipedia.org/wiki/I'm_Enterprise#Crazy_Box "wikilink")。
+I'm Enterprise的政策與母公司ARTSVISION有些微分別，雖然主要仍是培養出偶像聲優，但容許一部分聲優設立或參與劇團的工作。此外，I'm Enterprise旗下有兩間子事務所：[VIMS](../Page/VIMS.md "wikilink")和[Crazy Box（下述）](https://zh.wikipedia.org/wiki/I'm_Enterprise#Crazy_Box "wikilink")。
 
-2002年6月，I'm
-Enterprise成立官方同好會「」（名稱由當時的會員決定），並委託公司進行營運管理。但事實上因為入會費過低（只需500日圓）造成營運困難，結果部分所屬聲優\[2\]的同好會脫離並委託其他公司進行管理。最後，這個同好會於2007年5月31日正式解散。
+2002年6月，I'm Enterprise成立官方同好會「」（名稱由當時的會員決定），並委託公司進行營運管理。但事實上因為入會費過低（只需500日圓）造成營運困難，結果部分所屬聲優\[2\]的同好會脫離並委託其他公司進行管理。最後，這個同好會於2007年5月31日正式解散。
 
 2006年12月，首任行政總裁松田因為涉嫌[猥褻一位志願當聲優的](https://zh.wikipedia.org/wiki/猥褻 "wikilink")16歲少女，2007年4月4日被東京都警方拘捕協助調查（其後因為糖尿病的關係，保釋外出）。同年5月28日，警方決定就上述事件起訴松田，翌日登上新聞，令此事件正式曝光
 
-:;
-詳細參照：『[ARTSVISION緋聞事件](https://zh.wikipedia.org/wiki/ARTSVISION#ARTSVISION緋聞事件 "wikilink")』。
+:; 詳細參照：『[ARTSVISION緋聞事件](https://zh.wikipedia.org/wiki/ARTSVISION#ARTSVISION緋聞事件 "wikilink")』。
 
-到了2007年5月30日，松田辭去I'm Enterprise社長（包括母公司ARTSVISION社長等等）的職位\[3\]。之後，I'm
-Enterprise社長由[Mausu
-Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）的創辦人[江崎加子男接任](https://zh.wikipedia.org/wiki/江崎加子男 "wikilink")。
+到了2007年5月30日，松田辭去I'm Enterprise社長（包括母公司ARTSVISION社長等等）的職位\[3\]。之後，I'm Enterprise社長由[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）的創辦人[江崎加子男接任](https://zh.wikipedia.org/wiki/江崎加子男 "wikilink")。
 
 ## 所屬聲優
 
@@ -293,7 +283,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - （轉往加入之後，因[交通事故死去](https://zh.wikipedia.org/wiki/車禍 "wikilink")）
 
-  - （2007年轉往加入[ARTSVISION之後離所](../Page/ARTSVISION.md "wikilink")）
+  - （2007年轉往加入[ARTSVISION](../Page/ARTSVISION.md "wikilink")之後離所）
 
   - （2008年4月10日離所）
 
@@ -303,8 +293,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [白石稔](../Page/白石稔.md "wikilink")（2007年1月1日轉往加入[Pro-Fit](../Page/Pro-Fit.md "wikilink")，現在是所屬）
 
-  - [鈴木千尋](../Page/鈴木千尋.md "wikilink")（2003年4月1日轉往加入ARTSVISION，現在是[自由身](../Page/自由職業.md "wikilink")（Office
-    Monorisu業務提攜））
+  - [鈴木千尋](../Page/鈴木千尋.md "wikilink")（2003年4月1日轉往加入ARTSVISION，現在是[自由身](../Page/自由職業.md "wikilink")（Office Monorisu業務提攜））
 
   - [高崎拓郎](https://zh.wikipedia.org/wiki/高崎拓郎 "wikilink")（2015年7月31日離所，現在是所屬）
 
@@ -328,13 +317,11 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - （2016年8月31日離所）
 
-  - [伊月唯](../Page/伊月唯.md "wikilink")（2008年10月31日轉為自由身，經過1個月後加入現在所屬的[Holy
-    Peak](../Page/Holy_Peak.md "wikilink")）
+  - [伊月唯](../Page/伊月唯.md "wikilink")（2008年10月31日轉為自由身，經過1個月後加入現在所屬的[Holy Peak](../Page/Holy_Peak.md "wikilink")）
 
   - （2015年12月31日離所）
 
-  - [榎本溫子](../Page/榎本溫子.md "wikilink")（2005年9月1日～2015年6月30日是81
-    Produce所屬，現在是自由身）
+  - [榎本溫子](../Page/榎本溫子.md "wikilink")（2005年9月1日～2015年6月30日是81 Produce所屬，現在是自由身）
 
   - （2008年4月18日離所，現在是Office棉花糖代表董事）
 
@@ -344,21 +331,17 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [櫻井智](../Page/櫻井智.md "wikilink")（2014年12月1日轉為自由身\[5\]，2016年9月1日宣布引退）
 
-  - [佐藤奏美](../Page/佐藤奏美.md "wikilink")（2013年6月30日轉為自由身，之後曾經加入[Across
-    Entertainment](../Page/Across_Entertainment.md "wikilink")，現在是自由身）
+  - [佐藤奏美](../Page/佐藤奏美.md "wikilink")（2013年6月30日轉為自由身，之後曾經加入[Across Entertainment](../Page/Across_Entertainment.md "wikilink")，現在是自由身）
 
   - [志村由美](../Page/志村由美.md "wikilink")（2003年度所屬～2016年6月30日離所，現在廢業）
 
   - （2008年度所屬～2017年4月30日離所，現在是自由身）
 
-  - [竹達彩奈](../Page/竹達彩奈.md "wikilink")（2012年4月30日轉往加入[ASSEMBLE
-    HEART](https://zh.wikipedia.org/wiki/Pro-Fit#ASSEMBLE_HEART "wikilink")，現在是[LINK
-    PLAN所屬](https://zh.wikipedia.org/wiki/Pro-Fit#LINK_PLAN "wikilink")）
+  - [竹達彩奈](../Page/竹達彩奈.md "wikilink")（2012年4月30日轉往加入[ASSEMBLE HEART](https://zh.wikipedia.org/wiki/Pro-Fit#ASSEMBLE_HEART "wikilink")，現在是[LINK PLAN所屬](https://zh.wikipedia.org/wiki/Pro-Fit#LINK_PLAN "wikilink")）
 
   - （轉往加入[Kenyu Office之後離所](../Page/Kenyu_Office.md "wikilink")）
 
-  - （2007年6月30日轉為自由身，之後改名為田中久美（）加入[Mausu
-    Promotion](../Page/Mausu_Promotion.md "wikilink")，現在是所屬）
+  - （2007年6月30日轉為自由身，之後改名為田中久美（）加入[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")，現在是所屬）
 
   - [田村由香里](../Page/田村由香里.md "wikilink")（2007年度所屬～2016年7月31日離所，2016年8月1日起現在是[amuleto所屬](https://zh.wikipedia.org/wiki/amuleto "wikilink")）
 
@@ -366,14 +349,11 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - （2014年11月30日離所）
 
-  - [那須惠](../Page/那須惠.md "wikilink")（2004年3月1日轉為自由身，經歷[Production
-    baobab](../Page/Production_baobab.md "wikilink")、[Bell
-    Production之後](../Page/Bell_Production.md "wikilink")，再度成轉為自由身（al-share業務提攜））
+  - [那須惠](../Page/那須惠.md "wikilink")（2004年3月1日轉為自由身，經歷[Production baobab](../Page/Production_baobab.md "wikilink")、[Bell Production之後](../Page/Bell_Production.md "wikilink")，再度成轉為自由身（al-share業務提攜））
 
   - （2008年7月31日離所）
 
-  - [藤田麻美](../Page/藤田麻美.md "wikilink")（2013年11月30日轉為自由身，2016年4月1日起現在是[Kenyu
-    Office](../Page/Kenyu_Office.md "wikilink")（預留）所屬）
+  - [藤田麻美](../Page/藤田麻美.md "wikilink")（2013年11月30日轉為自由身，2016年4月1日起現在是[Kenyu Office](../Page/Kenyu_Office.md "wikilink")（預留）所屬）
 
   - [古川小百合](../Page/古川小百合.md "wikilink")（舊藝名：茜，2008年5月30日離所，之後改名同時加入現在所屬的所屬）
 
@@ -381,31 +361,25 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - 牧千尋（2017年1月31日轉為自由身，同年4月1日起現在是al-share所屬）
 
-  - （2003年12月1日轉往加入，經歷之後，現在是[EARLY
-    WING所屬](../Page/EARLY_WING.md "wikilink")）
+  - （2003年12月1日轉往加入，經歷之後，現在是[EARLY WING所屬](../Page/EARLY_WING.md "wikilink")）
 
   - （2015年5月30日離所，2016年6月20日加入青二Production所屬）
 
-  - [森永理科](../Page/森永理科.md "wikilink")（2007年7月1日轉為自由身，經歷之後，2015年1月1日起加入Mausu
-    Promotion）
+  - [森永理科](../Page/森永理科.md "wikilink")（2007年7月1日轉為自由身，經歷之後，2015年1月1日起加入Mausu Promotion）
 
   - （2018年8月31日退社）
 
-  - [山本麻里安](../Page/山本麻里安.md "wikilink")（2008年9月1日轉為自由身，經過1個月後加入現在所屬的81
-    Produce）
+  - [山本麻里安](../Page/山本麻里安.md "wikilink")（2008年9月1日轉為自由身，經過1個月後加入現在所屬的81 Produce）
 
   - [若林直美](../Page/若林直美.md "wikilink")（2008年3月31日轉為自由身，經歷和業務提攜、同人舎（現：al-share）之後，2018年9月1日起現在是所屬）
 
   - [渡邊由紀](../Page/渡邊由紀.md "wikilink")（2004年引退）
 
-  - （2013年度所屬～2019年5月31日離所，2019年6月15日起現在是[Holy
-    Peak所屬](../Page/Holy_Peak.md "wikilink")）
+  - （2013年度所屬～2019年5月31日離所，2019年6月15日起現在是[Holy Peak所屬](../Page/Holy_Peak.md "wikilink")）
 
 ## Crazy Box
 
-**株式會社Carzy
-Box**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[代代木](../Page/代代木.md "wikilink")\[6\]的[聲優](../Page/聲優.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。I'm
-Enterprise的子公司。2000年成立\[7\]。
+**株式會社Carzy Box**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[代代木](../Page/代代木.md "wikilink")\[6\]的[聲優](../Page/聲優.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。I'm Enterprise的子公司。2000年成立\[7\]。
 
 ### 所屬聲優、旁白
 
@@ -512,15 +486,11 @@ Enterprise的子公司。2000年成立\[7\]。
   - [株式會社I'm Enterprise公式官網](http://www.imenterprise.jp/)
       - 子公司：[株式會社Crazy Box公式官網](http://www.crazy-box.co.jp/)
 
-[Category:ARTSVISION集團](https://zh.wikipedia.org/wiki/Category:ARTSVISION集團 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:I'm_Enterprise](https://zh.wikipedia.org/wiki/Category:I'm_Enterprise "wikilink")
+[Category:ARTSVISION集團](https://zh.wikipedia.org/wiki/Category:ARTSVISION集團 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:I'm_Enterprise](https://zh.wikipedia.org/wiki/Category:I'm_Enterprise "wikilink")
 
 1.
 
-2.  牽涉的聲優同好會：山本麻里安『』、中原麻衣『』、森久保祥太郎（VIMS）『Clap！』。至於2007年4月加入的田村由香里，其同好會「Mellow
-    Pretty」在加入前都是獨立營運，因此不包括在內。
+2.  牽涉的聲優同好會：山本麻里安『』、中原麻衣『』、森久保祥太郎（VIMS）『Clap！』。至於2007年4月加入的田村由香里，其同好會「Mellow Pretty」在加入前都是獨立營運，因此不包括在內。
 
 3.  添田哲郎「」《》2007年12月號，第106－111頁。
 

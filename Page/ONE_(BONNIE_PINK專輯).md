@@ -1,5 +1,4 @@
-《**ONE**》是日本歌手[BONNIE
-PINK的第十張原創錄音室專輯](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")，於2009年5月13日由[日本華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。
+《**ONE**》是日本歌手[BONNIE PINK的第十張原創錄音室專輯](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")，於2009年5月13日由[日本華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。
 
 ## 收錄曲目
 
@@ -16,8 +15,7 @@ PINK的第十張原創錄音室專輯](https://zh.wikipedia.org/wiki/BONNIE_PINK
 5.  妄想LOVER
 
 6.    -
-        [BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink") Xbox
-        360/PLAYSTATION(R)3電玩「Tales of Vesperia」日本版主題曲
+        [BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink") Xbox 360/PLAYSTATION(R)3電玩「Tales of Vesperia」日本版主題曲
 
 7.  One Last Time
 
@@ -42,7 +40,6 @@ PINK的第十張原創錄音室專輯](https://zh.wikipedia.org/wiki/BONNIE_PINK
 15. Ring A Bell <small>(Bonus Track)</small>
 
       -
-        [BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink") Xbox
-        360/PLAYSTATION(R)3電玩「Tales of Vesperia」國際版主題曲
+        [BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink") Xbox 360/PLAYSTATION(R)3電玩「Tales of Vesperia」國際版主題曲
 
 [Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink")

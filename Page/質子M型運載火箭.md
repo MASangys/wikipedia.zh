@@ -6,10 +6,7 @@
 
 ## 發射事故
 
-2013年7月2日上午，在哈薩克斯坦拜科努爾航天發射場，俄羅斯一枚質子-M運載火箭在點火升空後不到一分鐘發生偏轉並爆炸解體。\[1\]
-2014年5月16日，俄羅斯一攜帶“快車-AM4R”通信衛星的“質子-M”火箭由於意外情況未能進入預定軌道，並在大氣層中爆炸。\[2\]後來被披露出火箭製造商的腐敗現象，使用了次級的材料以至於發射多次失敗。\[3\]
-[缩略图](https://zh.wikipedia.org/wiki/File:First_stage_Proton_M_cropped.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:On_the_launch_pad.jpg "fig:缩略图")
+2013年7月2日上午，在哈薩克斯坦拜科努爾航天發射場，俄羅斯一枚質子-M運載火箭在點火升空後不到一分鐘發生偏轉並爆炸解體。\[1\] 2014年5月16日，俄羅斯一攜帶“快車-AM4R”通信衛星的“質子-M”火箭由於意外情況未能進入預定軌道，並在大氣層中爆炸。\[2\]後來被披露出火箭製造商的腐敗現象，使用了次級的材料以至於發射多次失敗。\[3\] [缩略图](https://zh.wikipedia.org/wiki/File:First_stage_Proton_M_cropped.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:On_the_launch_pad.jpg "fig:缩略图")
 
 ## 现役几种主力大型火箭性能一览
 

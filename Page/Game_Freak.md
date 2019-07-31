@@ -1,10 +1,8 @@
-**Game
-Freak**（）是[日本遊戲開發](../Page/日本.md "wikilink")、發行商。它的代表作品是「[精灵宝可梦](../Page/精灵宝可梦系列.md "wikilink")」遊戲系列。
+**Game Freak**（）是[日本](../Page/日本.md "wikilink")遊戲開發、發行商。它的代表作品是「[精灵宝可梦](../Page/精灵宝可梦系列.md "wikilink")」遊戲系列。
 
 ## 概略
 
-公司成立前是由[田尻智領導的同人誌組織](../Page/田尻智.md "wikilink")，1989年為發行它們第一款[FC遊戲](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[Quinty前創立](https://zh.wikipedia.org/wiki/Quinty "wikilink")。自從1996年發售第一款[精靈寶可夢遊戲系列紅](https://zh.wikipedia.org/wiki/精靈寶可夢遊戲列表 "wikilink")、綠版本大受歡迎，自此以後集中開發該遊戲系列。此外還成立子公司[精靈寶可夢有限公司](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")。本质上Game
-Freak并不是任天堂的子公司，它也为手机平台甚至其他游戏主机平台制作游戏作品。\[1\]
+公司成立前是由[田尻智](../Page/田尻智.md "wikilink")領導的同人誌組織，1989年為發行它們第一款[FC遊戲](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[Quinty前創立](https://zh.wikipedia.org/wiki/Quinty "wikilink")。自從1996年發售第一款[精靈寶可夢遊戲系列紅](https://zh.wikipedia.org/wiki/精靈寶可夢遊戲列表 "wikilink")、綠版本大受歡迎，自此以後集中開發該遊戲系列。此外還成立子公司[精靈寶可夢有限公司](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")。本质上Game Freak并不是任天堂的子公司，它也为手机平台甚至其他游戏主机平台制作游戏作品。\[1\]
 
 ## 開發作品列表
 
@@ -277,13 +275,7 @@ Android</p></td>
 
   - [公司概要](https://web.archive.org/web/20070928230735/http://www.gamefreak.co.jp/information/company.html)
 
-[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink")
-[Category:任天堂的部门与子公司](https://zh.wikipedia.org/wiki/Category:任天堂的部门与子公司 "wikilink")
-[Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink")
-[Category:1989年日本建立](https://zh.wikipedia.org/wiki/Category:1989年日本建立 "wikilink")
+[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:任天堂的部门与子公司](https://zh.wikipedia.org/wiki/Category:任天堂的部门与子公司 "wikilink") [Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink") [Category:1989年日本建立](https://zh.wikipedia.org/wiki/Category:1989年日本建立 "wikilink")
 
-1.  [POKÉMON DEVS SWAP CUTE FOR CARNAGE WITH NEW
-    GAME](http://www.ign.com/articles/2015/03/11/pokemon-devs-swap-cute-for-carnage-with-new-game).IGN.2015-03-11.\[2015-03-12\].
+1.  [POKÉMON DEVS SWAP CUTE FOR CARNAGE WITH NEW GAME](http://www.ign.com/articles/2015/03/11/pokemon-devs-swap-cute-for-carnage-with-new-game).IGN.2015-03-11.\[2015-03-12\].
 2.

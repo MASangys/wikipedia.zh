@@ -16,6 +16,4 @@
 
   - **[约翰·布拉哈](https://zh.wikipedia.org/wiki/约翰·布拉哈 "wikilink")**（，曾执行、、、以及任务），任务专家
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1997年](https://zh.wikipedia.org/wiki/Category:1997年 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1997年](https://zh.wikipedia.org/wiki/Category:1997年 "wikilink")

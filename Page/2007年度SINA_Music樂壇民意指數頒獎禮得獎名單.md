@@ -1,8 +1,4 @@
-**SINA
-Music樂壇民意指數頒獎禮2007**於2008年1月15日假[香港國際展貿中心](https://zh.wikipedia.org/wiki/香港國際展貿中心 "wikilink")[Star
-Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「Stop on
-Music
-Power」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[楊愛瑾](../Page/楊愛瑾.md "wikilink")，當晚共頒發20個項目，其中14項「我最喜愛」獎項為由網民選舉得出，別具意義，總共35個獎項，以下為當晚的得獎名單：
+**SINA Music樂壇民意指數頒獎禮2007**於2008年1月15日假[香港國際展貿中心](https://zh.wikipedia.org/wiki/香港國際展貿中心 "wikilink")[Star Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「Stop on Music Power」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[楊愛瑾](../Page/楊愛瑾.md "wikilink")，當晚共頒發20個項目，其中14項「我最喜愛」獎項為由網民選舉得出，別具意義，總共35個獎項，以下為當晚的得獎名單：
 
 ## 得獎名單
 
@@ -26,8 +22,7 @@ Power」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[楊愛瑾](.
 <!-- end list -->
 
   - SINA Music合唱歌曲大獎
-      - 《山歌》
-        ──[側田](../Page/側田.md "wikilink")、[吳雨霏](../Page/吳雨霏.md "wikilink")
+      - 《山歌》 ──[側田](../Page/側田.md "wikilink")、[吳雨霏](../Page/吳雨霏.md "wikilink")
 
 <!-- end list -->
 
@@ -127,17 +122,14 @@ Power」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[楊愛瑾](.
 
 ## 媒體播放
 
-於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣網上直播及重溫](https://zh.wikipedia.org/wiki/台灣 "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
+於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣網上直播及重溫](https://zh.wikipedia.org/wiki/台灣 "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")內。
 
 ## 外部链接
 
-  - [SINA
-    Music樂壇民意指數頒獎禮2007](https://web.archive.org/web/20080103055501/http://events.sina.com.hk/event07/musicawards/index.html)
+  - [SINA Music樂壇民意指數頒獎禮2007](https://web.archive.org/web/20080103055501/http://events.sina.com.hk/event07/musicawards/index.html)
 
 ## 參看
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
-[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
-[Category:2007年](https://zh.wikipedia.org/wiki/Category:2007年 "wikilink")
+[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink") [Category:2007年](https://zh.wikipedia.org/wiki/Category:2007年 "wikilink")

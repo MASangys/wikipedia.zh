@@ -1,14 +1,6 @@
-或 （[塔塔尔语](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")：
-\[\]；[西里尔字母](../Page/西里尔字母.md "wikilink")：Я；“新字母”）曾是[苏联](../Page/苏联.md "wikilink")1930年代用於[塔塔尔语的拉丁字母](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")。它取代了1928年基于[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")的
-[Yaña imlâ](https://zh.wikipedia.org/wiki/Yaña_imlâ "wikilink") (Яңа
-имля)。而  在1939年被西里尔字母取代了。
+或 （[塔塔尔语](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")： \[\]；[西里尔字母](../Page/西里尔字母.md "wikilink")：Я；“新字母”）曾是[苏联](../Page/苏联.md "wikilink")1930年代用於[塔塔尔语的拉丁字母](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")。它取代了1928年基于[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")的 [Yaña imlâ](https://zh.wikipedia.org/wiki/Yaña_imlâ "wikilink") (Яңа имля)。而  在1939年被西里尔字母取代了。
 
-共有33个字母，其中9个属于[元音](../Page/元音.md "wikilink")。[引号用来作为](https://zh.wikipedia.org/wiki/引号 "wikilink")[喉塞音](https://zh.wikipedia.org/wiki/喉塞音 "wikilink")
-() ，有时按照普通字母来排序。其他字母也会用作书写外语词。小写字母 B 写成类似 （以避免与  混）、大写字母  写成类似
-[У](../Page/У.md "wikilink")。字母  有一个下缘钩（descender），就像西里尔字母中的
-[Щ](../Page/Щ.md "wikilink")、[Җ和](https://zh.wikipedia.org/wiki/Җ "wikilink")[Ң](../Page/Ң.md "wikilink")。第33个字母（与[壮语](../Page/壮语.md "wikilink")的
- 类似）就像西里尔的软音符号 [Ь](../Page/Ь.md "wikilink")，但未收进 Unicode。大写  在一些字体则很像俄语的
-[Э](../Page/Э.md "wikilink")。
+共有33个字母，其中9个属于[元音](../Page/元音.md "wikilink")。[引号用来作为](https://zh.wikipedia.org/wiki/引号 "wikilink")[喉塞音](https://zh.wikipedia.org/wiki/喉塞音 "wikilink") () ，有时按照普通字母来排序。其他字母也会用作书写外语词。小写字母 B 写成类似 （以避免与  混）、大写字母  写成类似 [У](../Page/У.md "wikilink")。字母  有一个下缘钩（descender），就像西里尔字母中的 [Щ](../Page/Щ.md "wikilink")、[Җ和](https://zh.wikipedia.org/wiki/Җ "wikilink")[Ң](../Page/Ң.md "wikilink")。第33个字母（与[壮语](../Page/壮语.md "wikilink")的  类似）就像西里尔的软音符号 [Ь](../Page/Ь.md "wikilink")，但未收进 Unicode。大写  在一些字体则很像俄语的 [Э](../Page/Э.md "wikilink")。
 
 ## 历史
 
@@ -132,43 +124,17 @@ Jaŋalif (1928–1940)
 
 ## 衰落
 
-在1939年，[斯大林主义](../Page/斯大林主义.md "wikilink")政府禁止了 Jaŋalif，然而 Jaŋalif
-用至1940年1月。Jaŋalif
-还用在[纳粹对战俘的公报](../Page/纳粹主义.md "wikilink")，直至二次大战结束。但由于课本是战前印刷的关系，这些字母实际用至1950年代。一些塔塔尔后裔在苏联以外也使用
-Jaŋalif ，例如 Radio Free Europe 的塔塔尔当局。
+在1939年，[斯大林主义](../Page/斯大林主义.md "wikilink")政府禁止了 Jaŋalif，然而 Jaŋalif 用至1940年1月。Jaŋalif 还用在[纳粹对战俘的公报](../Page/纳粹主义.md "wikilink")，直至二次大战结束。但由于课本是战前印刷的关系，这些字母实际用至1950年代。一些塔塔尔后裔在苏联以外也使用 Jaŋalif ，例如 Radio Free Europe 的塔塔尔当局。
 
-要注意的是，在使用拉丁字母的那12年间，包括 Yaña imlâ 和 İske imlâ 在内的阿拉伯字母仍在使用中。所以，[Musa
-Cälil](https://zh.wikipedia.org/wiki/Musa_Cälil "wikilink") 的其中一本
-[Moabit
-Notebooks](https://zh.wikipedia.org/wiki/Moabit_Notebooks "wikilink")
-记事本是用 Jaŋalif
-来写，而亦有一本用阿拉伯字母。两本记事本都是在1939年之后的德国监狱中书写，而当时西里尔字母的版本已实施。
+要注意的是，在使用拉丁字母的那12年间，包括 Yaña imlâ 和 İske imlâ 在内的阿拉伯字母仍在使用中。所以，[Musa Cälil](https://zh.wikipedia.org/wiki/Musa_Cälil "wikilink") 的其中一本 [Moabit Notebooks](https://zh.wikipedia.org/wiki/Moabit_Notebooks "wikilink") 记事本是用 Jaŋalif 来写，而亦有一本用阿拉伯字母。两本记事本都是在1939年之后的德国监狱中书写，而当时西里尔字母的版本已实施。
 
 ## 西里尔化
 
-[Crimea_propaganda.png](https://zh.wikipedia.org/wiki/File:Crimea_propaganda.png "fig:Crimea_propaganda.png")使用了拉丁字母和阿拉伯字母来宣传，没有使用西里尔字母。[克里米亚鞑靼语当年也采用](https://zh.wikipedia.org/wiki/克里米亚鞑靼语 "wikilink")
-Jaŋalif\]\]
-在1930年代，土耳其成了苏联的其中一个潜在敌人。即使土耳其的[阿塔土克字母不同于](https://zh.wikipedia.org/wiki/穆斯塔法·凯末尔·阿塔土克 "wikilink")
-Jaŋalif，在苏联官员眼中，拉丁字母是一个外在的、资产阶级的世界。在1939年，苏联实行西里尔化。正如[斯大林所言](https://zh.wikipedia.org/wiki/约瑟夫·斯大林 "wikilink")，[俄罗斯人是社会主义人民的领导者](https://zh.wikipedia.org/wiki/俄罗斯族 "wikilink")，所以苏联国内的所有人民，必须晓俄语和同化到俄罗斯去。而字母亦“应工人的要求”而转到西里尔。
+[Crimea_propaganda.png](https://zh.wikipedia.org/wiki/File:Crimea_propaganda.png "fig:Crimea_propaganda.png")使用了拉丁字母和阿拉伯字母来宣传，没有使用西里尔字母。[克里米亚鞑靼语当年也采用](https://zh.wikipedia.org/wiki/克里米亚鞑靼语 "wikilink") Jaŋalif\]\] 在1930年代，土耳其成了苏联的其中一个潜在敌人。即使土耳其的[阿塔土克字母不同于](https://zh.wikipedia.org/wiki/穆斯塔法·凯末尔·阿塔土克 "wikilink") Jaŋalif，在苏联官员眼中，拉丁字母是一个外在的、资产阶级的世界。在1939年，苏联实行西里尔化。正如[斯大林所言](https://zh.wikipedia.org/wiki/约瑟夫·斯大林 "wikilink")，[俄罗斯人是社会主义人民的领导者](https://zh.wikipedia.org/wiki/俄罗斯族 "wikilink")，所以苏联国内的所有人民，必须晓俄语和同化到俄罗斯去。而字母亦“应工人的要求”而转到西里尔。
 
-曾经有几套西里尔化的方案。早在1938年，M. Fazlullin
-教授引入了修改自[俄语字母的](https://zh.wikipedia.org/wiki/俄语字母 "wikilink")[塔塔尔字母](https://zh.wikipedia.org/wiki/塔塔尔字母 "wikilink")，没有使用任何附加符号。特定的塔塔尔字母应使用二合字母来书写，包含相近的俄语字母加上
-[Ъ](../Page/Ъ.md "wikilink") 和 [Ь](../Page/Ь.md "wikilink")。\[1\]
+曾经有几套西里尔化的方案。早在1938年，M. Fazlullin 教授引入了修改自[俄语字母的](https://zh.wikipedia.org/wiki/俄语字母 "wikilink")[塔塔尔字母](https://zh.wikipedia.org/wiki/塔塔尔字母 "wikilink")，没有使用任何附加符号。特定的塔塔尔字母应使用二合字母来书写，包含相近的俄语字母加上 [Ъ](../Page/Ъ.md "wikilink") 和 [Ь](../Page/Ь.md "wikilink")。\[1\]
 
-在1939年 Qorbangaliev 和 Ramazanov 提出了他们使用新增西里尔字母的方案。字母 Ө, Ә, Ү, Һ 由本来的
-Jaŋalif 新增了过去，而 Җ 和 Ң 则被发明，以比照 Щ 和 Ц。Гъ 和 Къ 使用来代表 Ğ 和 Q。在这方案中 "ğädät"
-("custom") 被串成 "гъәдәт", "qar" ("snow") 串成 "къар"。在 Ramazanov's 方案 W
-(Jaŋalif V) 的处理方法为，在元音前写作 В ，在音节的结尾写成 У 和 Ү。 Jaŋalif: vaq - вак; tav -
-тау; dəv -
-дәү。在1939年5月5日，这方案在[鞑靼社会主义自治共和国的最高苏维埃被定为正式字母](https://zh.wikipedia.org/wiki/鞑靼社会主义自治共和国 "wikilink")。不过，“塔塔尔人民不同意这方案”，在1940年7月会议中西里尔字母最终标准化了。1941年1月10日，此方案通过了。根据这个版本，
-"ğädät" 被串成 "гадәт", "qar" 串成 "кар"。原理是：假如
-га/го/гу/гы/ка/ко/ку/кы／接着是“软音节”，包含 "ә, е,
-ө, и, ү" 或软音符号 "ь"，它们就写 ğä/ğö/ğü/ğe/qä/qö/qü/qe，在其他例子则是
-ğa/ğo/ğu/ğı/qa/qo/qu/qı。гә/гө/гү/ге/кә/кө/кү/ке 被串成
-gä/gö/gü/ge/kä/kö/kü/ke。类似的做法同样适用在 е, ю, я，它们被串成 ye, yü, yä 和 yı,
-yu, ya。例子：канәгать - qänäğät (satisfied); ел - yıl (year); ямь - yäm
-(charm)。所以，在塔塔尔语西里尔软音符号不像俄语般用来[腭化](https://zh.wikipedia.org/wiki/腭化 "wikilink")，而是类似[元音和谐](../Page/元音和谐律.md "wikilink")。与现代俄语不一样，有些字可以以
-ъ 结尾，去代表在“软元音”后的“硬 g”，就如 балигъ - baliğ (of the full legal age).\[2\]
+在1939年 Qorbangaliev 和 Ramazanov 提出了他们使用新增西里尔字母的方案。字母 Ө, Ә, Ү, Һ 由本来的 Jaŋalif 新增了过去，而 Җ 和 Ң 则被发明，以比照 Щ 和 Ц。Гъ 和 Къ 使用来代表 Ğ 和 Q。在这方案中 "ğädät" ("custom") 被串成 "гъәдәт", "qar" ("snow") 串成 "къар"。在 Ramazanov's 方案 W (Jaŋalif V) 的处理方法为，在元音前写作 В ，在音节的结尾写成 У 和 Ү。 Jaŋalif: vaq - вак; tav - тау; dəv - дәү。在1939年5月5日，这方案在[鞑靼社会主义自治共和国的最高苏维埃被定为正式字母](https://zh.wikipedia.org/wiki/鞑靼社会主义自治共和国 "wikilink")。不过，“塔塔尔人民不同意这方案”，在1940年7月会议中西里尔字母最终标准化了。1941年1月10日，此方案通过了。根据这个版本， "ğädät" 被串成 "гадәт", "qar" 串成 "кар"。原理是：假如 га/го/гу/гы/ка/ко/ку/кы／接着是“软音节”，包含 "ә, е, ө, и, ү" 或软音符号 "ь"，它们就写 ğä/ğö/ğü/ğe/qä/qö/qü/qe，在其他例子则是 ğa/ğo/ğu/ğı/qa/qo/qu/qı。гә/гө/гү/ге/кә/кө/кү/ке 被串成 gä/gö/gü/ge/kä/kö/kü/ke。类似的做法同样适用在 е, ю, я，它们被串成 ye, yü, yä 和 yı, yu, ya。例子：канәгать - qänäğät (satisfied); ел - yıl (year); ямь - yäm (charm)。所以，在塔塔尔语西里尔软音符号不像俄语般用来[腭化](https://zh.wikipedia.org/wiki/腭化 "wikilink")，而是类似[元音和谐](../Page/元音和谐律.md "wikilink")。与现代俄语不一样，有些字可以以 ъ 结尾，去代表在“软元音”后的“硬 g”，就如 балигъ - baliğ (of the full legal age).\[2\]
 
 所有俄语词语用俄语书写，并应读成俄语发音。
 
@@ -546,20 +512,13 @@ alphabet</p></th>
 
 </div>
 
-在1955年、58年、59年和1989年，有些人尝试开展西里尔字母改革，例如加入字母
-[Қ](https://zh.wikipedia.org/wiki/Қ "wikilink")、[Ғ](../Page/Ғ.md "wikilink")和[Ў](../Page/Ў.md "wikilink")，去作为发音
-\[q\]，\[\] (ğ) 和 \[w\] ，以使塔塔尔语拼写法与读音一致。有些人提出以 V 代替
-Ў。在1990年代，这些尝试都告失败，因为那时很多[塔塔尔斯坦政治家都想重新引入](../Page/鞑靼斯坦共和国.md "wikilink")
-Jaŋalif。
+在1955年、58年、59年和1989年，有些人尝试开展西里尔字母改革，例如加入字母 [Қ](https://zh.wikipedia.org/wiki/Қ "wikilink")、[Ғ](../Page/Ғ.md "wikilink")和[Ў](../Page/Ў.md "wikilink")，去作为发音 \[q\]，\[\] (ğ) 和 \[w\] ，以使塔塔尔语拼写法与读音一致。有些人提出以 V 代替 Ў。在1990年代，这些尝试都告失败，因为那时很多[塔塔尔斯坦政治家都想重新引入](../Page/鞑靼斯坦共和国.md "wikilink") Jaŋalif。
 
-А Ә Б В \[Ў\] Г \[Ғ\] Д Е (Ё) Ж Җ З И Й К \[Қ\] Л М Н Ң О Ө П Р С Т У Ү
-Ф Х Һ Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
+А Ә Б В \[Ў\] Г \[Ғ\] Д Е (Ё) Ж Җ З И Й К \[Қ\] Л М Н Ң О Ө П Р С Т У Ү Ф Х Һ Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
 
-\[\] letters that should be added in 1989. However, Tatar Parliament
-resorted Cyrillic alphabet in January 1997.
+\[\] letters that should be added in 1989. However, Tatar Parliament resorted Cyrillic alphabet in January 1997.
 
-А Ә Б В Г Д Е (Ё) Ж Җ З И Й К Л М Н Ң О Ө П Р С Т У Ү Ф Х Һ Ц Ч Ш Щ Ъ Ы
-Ь Э Ю Я \[3\]
+А Ә Б В Г Д Е (Ё) Ж Җ З И Й К Л М Н Ң О Ө П Р С Т У Ү Ф Х Һ Ц Ч Ш Щ Ъ Ы Ь Э Ю Я \[3\]
 
 ## 重新引入 Jaŋalif
 
@@ -575,8 +534,7 @@ resorted Cyrillic alphabet in January 1997.
 
 [Category:拉丁字母系统](https://zh.wikipedia.org/wiki/Category:拉丁字母系统 "wikilink")
 
-1.   М.З. Закиев. Тюрко-татарское письмо. История, состояние,
-    перспективы. Москва, "Инсан", 2005
+1.   М.З. Закиев. Тюрко-татарское письмо. История, состояние, перспективы. Москва, "Инсан", 2005
 
 2.
 3.

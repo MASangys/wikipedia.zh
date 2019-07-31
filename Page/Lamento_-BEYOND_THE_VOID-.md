@@ -1,13 +1,9 @@
-《**Lamento -BEYOND THE
-VOID-**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2006年10月27日（CD-ROM版為11月10日）發售的[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[十八禁冒險遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。Lamento在[拉丁文中是](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「[挽歌](https://zh.wikipedia.org/wiki/挽歌 "wikilink")」的意思。故事描述在充滿貓的世界-扺沙，發生了不尋常的\[虛噬\]與\[失軀\]等等令人不解的現象，而導致世界逐漸邁入終結。主人公是一名茶白色的小型種貓-寇諾耶(Konoe)，因故鄉種種原因決定逃離故鄉到最繁榮的都市\[藍閃\]。寇諾耶相繼與白髮獨眼貓-萊伊(Rai)，黑色吉良貓-阿薩多(Asato)，虎斑紋貓-巴爾德(Barto)相遇，每個貓都有不同的故事與悲傷的過去，隨著不同的故事發展，也會發現不同的秘密。龐大淒美的世界觀，唯美動聽的背景音樂，等著你/妳來發掘_。
+《**Lamento -BEYOND THE VOID-**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2006年10月27日（CD-ROM版為11月10日）發售的[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[十八禁冒險遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。Lamento在[拉丁文中是](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「[挽歌](https://zh.wikipedia.org/wiki/挽歌 "wikilink")」的意思。故事描述在充滿貓的世界-扺沙，發生了不尋常的\[虛噬\]與\[失軀\]等等令人不解的現象，而導致世界逐漸邁入終結。主人公是一名茶白色的小型種貓-寇諾耶(Konoe)，因故鄉種種原因決定逃離故鄉到最繁榮的都市\[藍閃\]。寇諾耶相繼與白髮獨眼貓-萊伊(Rai)，黑色吉良貓-阿薩多(Asato)，虎斑紋貓-巴爾德(Barto)相遇，每個貓都有不同的故事與悲傷的過去，隨著不同的故事發展，也會發現不同的秘密。龐大淒美的世界觀，唯美動聽的背景音樂，等著你/妳來發掘_。
 
 ## 登場人物
 
   -
-此故事中的主人公。 毛色為白色帶有些許棕色的小型種貓。出身於\[火樓\] 尾巴是鉤形尾，很不喜歡自己的尾巴。使用短刀。
-父母皆去世，爸爸似乎有不為人知的秘密。
-因為詛咒而離開受『虚噬』侵蝕的故鄉「火樓」，獨自踏上旅途。
-很少說話，不喜與人競爭，但性格好強。說的話和年齡相符合。
+此故事中的主人公。 毛色為白色帶有些許棕色的小型種貓。出身於\[火樓\] 尾巴是鉤形尾，很不喜歡自己的尾巴。使用短刀。 父母皆去世，爸爸似乎有不為人知的秘密。 因為詛咒而離開受『虚噬』侵蝕的故鄉「火樓」，獨自踏上旅途。 很少說話，不喜與人競爭，但性格好強。說的話和年齡相符合。
 
 \[吵死了，别再說了。快從我眼前消失吧。\]
 
@@ -17,21 +13,17 @@ VOID-**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2006年10月27
 <!-- end list -->
 
   -
-毛色為白銀色的大型種貓。出身於\[剎羅\]。 右眼帶著眼罩，是出名的賞金獵人。使用雙劍。(一長一短)
-態度自大，但是很冷静，對自己和他人都很嚴格。身世是迷。
+毛色為白銀色的大型種貓。出身於\[剎羅\]。 右眼帶著眼罩，是出名的賞金獵人。使用雙劍。(一長一短) 態度自大，但是很冷静，對自己和他人都很嚴格。身世是迷。
 
 \[不要回頭，看着前方。真正的敵人，就是迷失自我的自己。\]
 
   -
-毛色為黑色的貓，被人稱做不詳的黑貓。出身於\[吉良\] 柯諾爾在旅途中遇到的貓。 遠離凡世的部落「吉良」的戰士。
-不善於和他人交往，笨手笨脚。很保護柯諾爾，對萊伊常常抱有敵意。
+毛色為黑色的貓，被人稱做不詳的黑貓。出身於\[吉良\] 柯諾爾在旅途中遇到的貓。 遠離凡世的部落「吉良」的戰士。 不善於和他人交往，笨手笨脚。很保護柯諾爾，對萊伊常常抱有敵意。
 
 \[.....這個，给你。因為，花很漂亮。\]
 
   -
-毛色為金色的尾巴和圓耳朵有着黑色虎紋的貓。出身於\[剎羅\] 在大型都市\[藍閃\]經營旅館。
-似乎認識萊伊很久了，且對萊伊帶有愧疚。萊伊對他則是無視與厭惡的態度。
-我行我素，性格大辣辣。
+毛色為金色的尾巴和圓耳朵有着黑色虎紋的貓。出身於\[剎羅\] 在大型都市\[藍閃\]經營旅館。 似乎認識萊伊很久了，且對萊伊帶有愧疚。萊伊對他則是無視與厭惡的態度。 我行我素，性格大辣辣。
 
 「哎呀，怎麼都陰沉著臉。就算是陰天，你們也不用愁雲滿面吧?\]
 
@@ -46,15 +38,12 @@ VOID-**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2006年10月27
 \[這種方法不是出於本意.....是不得已的。\]
 
   -
-在祇沙是一个特殊的存在.... 掌管\[快樂\]的惡魔，可以操縱雷。性格暴躁，如同性情粗暴的野馬。
-情緒多邊，脾氣不好。藐视麗碧卡(貓的種族)的言行很多。
+在祇沙是一个特殊的存在.... 掌管\[快樂\]的惡魔，可以操縱雷。性格暴躁，如同性情粗暴的野馬。 情緒多邊，脾氣不好。藐视麗碧卡(貓的種族)的言行很多。
 
 「啊\~啊\~，耳朵和尾巴都縮小了，真悽慘呢\~」
 
   -
-在祇沙是一个特殊的存在.... 掌管\[喜悅\]的惡魔，可以操縱風。總是面带笑容，態度看似友好而且穩重。
-也因為這樣，旁人很難看透他的想法，讓人感觉很陰險。
-對萊伊抱有特殊情感，總是纏著萊伊。
+在祇沙是一个特殊的存在.... 掌管\[喜悅\]的惡魔，可以操縱風。總是面带笑容，態度看似友好而且穩重。 也因為這樣，旁人很難看透他的想法，讓人感觉很陰險。 對萊伊抱有特殊情感，總是纏著萊伊。
 
 \[那麼喜歡說謊嗎？說謊，難道能讓心情那麼愉快嗎？\]
 
@@ -64,9 +53,7 @@ VOID-**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2006年10月27
 \[我來將即將開演的舞台帷幕拉起。那麼，請多關照了。\]
 
   -
-在各地流浪到處歌唱的猫，性格温柔和蔼。konoe都叫他吟遊詩人。 是個謎一樣的人物。
-(過去其實是藍閃的贊牙長，因為擁有出眾的才能而被陷害死亡。同時也是柯諾爾的父親。
-與利克斯有極深的羈絆，但他對利克斯卻帶著無比的後悔與愧疚。遊戲中的修伊只是實體化的靈魂。所以不能跟還在現世的konoe說話。)
+在各地流浪到處歌唱的猫，性格温柔和蔼。konoe都叫他吟遊詩人。 是個謎一樣的人物。 (過去其實是藍閃的贊牙長，因為擁有出眾的才能而被陷害死亡。同時也是柯諾爾的父親。 與利克斯有極深的羈絆，但他對利克斯卻帶著無比的後悔與愧疚。遊戲中的修伊只是實體化的靈魂。所以不能跟還在現世的konoe說話。)
 
 \[......\]
 
@@ -83,10 +70,6 @@ VOID-**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2006年10月27
 
   - [Nitro+CHiRAL官方網站](http://www.nitrochiral.com/pc/)
 
-  - [Lamento -BEYOND THE
-    VOID-官方網站](https://web.archive.org/web/20160808174923/http://www.nitrochiral.com/pc/software/lamento/top.html)
+  - [Lamento -BEYOND THE VOID-官方網站](https://web.archive.org/web/20160808174923/http://www.nitrochiral.com/pc/software/lamento/top.html)
 
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:BL遊戲](https://zh.wikipedia.org/wiki/Category:BL遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Nitro+CHiRAL](https://zh.wikipedia.org/wiki/Category:Nitro+CHiRAL "wikilink")
+[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:BL遊戲](https://zh.wikipedia.org/wiki/Category:BL遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Nitro+CHiRAL](https://zh.wikipedia.org/wiki/Category:Nitro+CHiRAL "wikilink")

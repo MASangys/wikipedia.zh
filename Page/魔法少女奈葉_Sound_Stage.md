@@ -1,12 +1,10 @@
-**魔法少女奈葉 Sound
-Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")三部[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")（[無印](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")、[A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")、[StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")）劇情間的[廣播劇](../Page/廣播劇.md "wikilink")、角色歌和[原聲音樂等商品的CD合輯總稱](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
+**魔法少女奈葉 Sound Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")三部[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")（[無印](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")、[A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")、[StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")）劇情間的[廣播劇](../Page/廣播劇.md "wikilink")、角色歌和[原聲音樂等商品的CD合輯總稱](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
 ## [魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")
 
 ### Sound Stage01
 
-  - 2004年11月26日發行。發行商[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-666）
+  - 2004年11月26日發行。發行商[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-666）
   - 講述第2話和第3話之間故事，名為第2.5「」，收錄了[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、亞麗沙·巴寧斯（[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）、月村鈴香（[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")）三首角色歌
 
 <!-- end list -->
@@ -144,8 +142,7 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### Sound Stage03
 
-  - 2005年4月6日發行。發行商[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-668）
+  - 2005年4月6日發行。發行商[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-668）
   - 講述最終話之后發生的故事，名為第14話「」，收錄[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、[尤諾·斯克萊亞](https://zh.wikipedia.org/wiki/尤諾·斯克萊亞 "wikilink")（[水橋香織](../Page/水橋香織.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）三首角色歌。
 
 <!-- end list -->
@@ -211,8 +208,7 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### 原聲音樂
 
-  - 2005年5月11日發行。發行商[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-693）
+  - 2005年5月11日發行。發行商[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-693）
   - [魔法少女奈葉原聲音樂附帶BGM](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")。
 
 <!-- end list -->
@@ -330,8 +326,7 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### Sound Stage01
 
-  - 2005年11月23日發行。發行商[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-733）
+  - 2005年11月23日發行。發行商[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-733）
   - 講述第3話和第4話之間的故事，名為第3.5話「」，收錄了[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、夏玛尔（[柚木涼香](../Page/柚木涼香.md "wikilink")）三首角色歌。
 
 <!-- end list -->
@@ -403,8 +398,7 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### Sound Stage02
 
-  - 2006年1月12日發行。發行商為[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-743）
+  - 2006年1月12日發行。發行商為[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-743）
   - 講述第6話和第7話之間的故事，名為第6.5話「」，收錄席格娜（[清水香里](../Page/清水香里.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）三首角色歌。
 
 <!-- end list -->
@@ -474,8 +468,7 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### Sound Stage03
 
-  - 2006年3月8日發行。發行商為[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-768）
+  - 2006年3月8日發行。發行商為[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-768）
   - 講述最終話之后發生的故事，名為第14話「」，收錄[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）三首角色歌。
 
 <!-- end list -->
@@ -612,8 +605,7 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### Sound Stage01
 
-  - 2007年5月23日發行。發行商為[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-853）
+  - 2007年5月23日發行。發行商為[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-853）
   - 講述第6話和第7話之間的故事，名為「」，收錄了[昴·中島](https://zh.wikipedia.org/wiki/昴·中島 "wikilink")（[斋藤千和](../Page/斋藤千和.md "wikilink")）、[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、高町奈葉（田村由香里）三首角色歌。
 
 <!-- end list -->
@@ -693,8 +685,7 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### Sound Stage02
 
-  - 2007年7月18日發行。發行商為[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-854）
+  - 2007年7月18日發行。發行商為[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-854）
   - 講述第14話和第15話之間的故事，名為「」，收錄[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、凯珞·露·露茜（[高橋美佳子](../Page/高橋美佳子.md "wikilink")）三首角色歌。
 
 <!-- end list -->
@@ -770,10 +761,8 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### Sound Stage03
 
-  - 2007年10月3日發行。發行商為[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-855）
-  - 講述第18話和19話中間的故事，名為「」，收錄了[緹亞娜·蘭斯特](https://zh.wikipedia.org/wiki/緹亞娜·蘭斯特 "wikilink")（[中原麻衣](../Page/中原麻衣.md "wikilink")）、[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、ReinForce
-    II（[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")）三首角色歌。
+  - 2007年10月3日發行。發行商為[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-855）
+  - 講述第18話和19話中間的故事，名為「」，收錄了[緹亞娜·蘭斯特](https://zh.wikipedia.org/wiki/緹亞娜·蘭斯特 "wikilink")（[中原麻衣](../Page/中原麻衣.md "wikilink")）、[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、ReinForce II（[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")）三首角色歌。
 
 <!-- end list -->
 
@@ -846,8 +835,7 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
 ### Sound Stage04
 
-  - 2007年12月12日發行。發行商為[King
-    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-856）
+  - 2007年12月12日發行。發行商為[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-856）
   - 講述最終話之后的故事，名為「」，收錄了薇塔（[真田麻美](../Page/真田麻美.md "wikilink")）、[菲特·T·哈洛溫](https://zh.wikipedia.org/wiki/菲特·T·哈洛溫 "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）和[昴·中島](https://zh.wikipedia.org/wiki/昴·中島 "wikilink")（[斎藤千和](https://zh.wikipedia.org/wiki/斎藤千和 "wikilink")）、[緹亞娜·蘭斯特](https://zh.wikipedia.org/wiki/緹亞娜·蘭斯特 "wikilink")（[中原麻衣](../Page/中原麻衣.md "wikilink")）、艾力欧·蒙迪尔（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、凯珞·露·露茜（[高橋美佳子](../Page/高橋美佳子.md "wikilink")）的四人共唱歌曲，總共三首角色歌。
 
 <!-- end list -->
@@ -989,11 +977,4 @@ Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系�
 
   - [StrikerS Sound StageX 官方網站](http://ssx.nanohas.com/ssx_top.html)
 
-[Category:魔法少女奈葉歌曲](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉歌曲 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:2004年原聲帶](https://zh.wikipedia.org/wiki/Category:2004年原聲帶 "wikilink")
-[Category:2005年原聲帶](https://zh.wikipedia.org/wiki/Category:2005年原聲帶 "wikilink")
-[Category:2006年原聲帶](https://zh.wikipedia.org/wiki/Category:2006年原聲帶 "wikilink")
-[Category:2007年原聲帶](https://zh.wikipedia.org/wiki/Category:2007年原聲帶 "wikilink")
-[Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
-[Category:King_Records原聲帶](https://zh.wikipedia.org/wiki/Category:King_Records原聲帶 "wikilink")
+[Category:魔法少女奈葉歌曲](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉歌曲 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:2004年原聲帶](https://zh.wikipedia.org/wiki/Category:2004年原聲帶 "wikilink") [Category:2005年原聲帶](https://zh.wikipedia.org/wiki/Category:2005年原聲帶 "wikilink") [Category:2006年原聲帶](https://zh.wikipedia.org/wiki/Category:2006年原聲帶 "wikilink") [Category:2007年原聲帶](https://zh.wikipedia.org/wiki/Category:2007年原聲帶 "wikilink") [Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink") [Category:King_Records原聲帶](https://zh.wikipedia.org/wiki/Category:King_Records原聲帶 "wikilink")

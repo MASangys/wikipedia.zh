@@ -1,5 +1,4 @@
-[Wye-delta.svg](https://zh.wikipedia.org/wiki/File:Wye-delta.svg "fig:Wye-delta.svg")
-**Y-Δ变换**或稱為**星角變換**，是一种把[Y形电路转换成等效的](https://zh.wikipedia.org/wiki/Y形电路 "wikilink")[Δ形电路](https://zh.wikipedia.org/wiki/Δ形电路 "wikilink")，或把Δ形电路转换成等效的Y形电路的方法。它可以用来简化电路的分析。这一变换理论是由於1899年发表。\[1\]
+[Wye-delta.svg](https://zh.wikipedia.org/wiki/File:Wye-delta.svg "fig:Wye-delta.svg") **Y-Δ变换**或稱為**星角變換**，是一种把[Y形电路转换成等效的](https://zh.wikipedia.org/wiki/Y形电路 "wikilink")[Δ形电路](https://zh.wikipedia.org/wiki/Δ形电路 "wikilink")，或把Δ形电路转换成等效的Y形电路的方法。它可以用来简化电路的分析。这一变换理论是由於1899年发表。\[1\]
 
 ## 基本的Y-Δ变换
 
@@ -17,8 +16,7 @@
 
 \[R_2 = \frac{R_bR_c}{R_a + R_b + R_c}\]
 
-\[R_3 = \frac{R_aR_c}{R_a + R_b + R_c}\] 或者可以简记为 Y形电阻 =
-Δ形连接相邻电阻的乘积/Δ形连接电阻之和
+\[R_3 = \frac{R_aR_c}{R_a + R_b + R_c}\] 或者可以简记为 Y形电阻 = Δ形连接相邻电阻的乘积/Δ形连接电阻之和
 
 ### 把Y形电路变换成Δ形电路
 
@@ -32,12 +30,11 @@
 
 \[R_b = \frac{R_1R_2 + R_2R_3 + R_3R_1}{R_3}\]
 
-\[R_c = \frac{R_1R_2 + R_2R_3 + R_3R_1}{R_1}\] 或者可以简记为 Δ形连接电导 =
-Y形连接相邻电导的乘积/Y形连接电导之和
+\[R_c = \frac{R_1R_2 + R_2R_3 + R_3R_1}{R_1}\] 或者可以简记为 Δ形连接电导 = Y形连接相邻电导的乘积/Y形连接电导之和
 
 ## 图论
 
-在[图论中](../Page/图论.md "wikilink")，Y-Δ变换表示将一个图的Y形[子图用等价的Δ形子图代替](https://zh.wikipedia.org/wiki/子图 "wikilink")。变换後的边数不变，但[顶点数和](../Page/顶点_\(图论\).md "wikilink")[回路数会变化](https://zh.wikipedia.org/wiki/回路_\(图论\) "wikilink")。如果这两个图可以通过一系列的Y-Δ变换互相变换得到，那么就可以成这两个图**Y-Δ等价**。例如，[佩特森圖就是一个Y](https://zh.wikipedia.org/wiki/佩特森圖 "wikilink")-Δ[等价类](../Page/等价类.md "wikilink")。
+在[图论](../Page/图论.md "wikilink")中，Y-Δ变换表示将一个图的Y形[子图用等价的Δ形子图代替](https://zh.wikipedia.org/wiki/子图 "wikilink")。变换後的边数不变，但[顶点数和](../Page/顶点_\(图论\).md "wikilink")[回路数会变化](https://zh.wikipedia.org/wiki/回路_\(图论\) "wikilink")。如果这两个图可以通过一系列的Y-Δ变换互相变换得到，那么就可以成这两个图**Y-Δ等价**。例如，[佩特森圖就是一个Y](https://zh.wikipedia.org/wiki/佩特森圖 "wikilink")-Δ[等价类](../Page/等价类.md "wikilink")。
 
 ## 推导
 
@@ -124,8 +121,7 @@ Y形电路中N<sub>1</sub>与<sub>2</sub>的对应阻抗为
 
 上式之和为
 
-\[R_1R_2 + R_1R_3 + R_2R_3 = \frac{R_aR_b^2R_c + R_a^2R_bR_c + R_aR_bR_c^2}{R_T^2}\]
-  (7)
+\[R_1R_2 + R_1R_3 + R_2R_3 = \frac{R_aR_b^2R_c + R_a^2R_bR_c + R_aR_bR_c^2}{R_T^2}\]   (7)
 
 将右侧式子中的公因式\(R_aR_bR_c\)提出，约去分子中的\(R_T\)和分母中的一个\(R_T\)後得到
 
@@ -145,13 +141,8 @@ Y形电路中N<sub>1</sub>与<sub>2</sub>的对应阻抗为
 
 ## 参考文献
 
-  - William Stevenson，“Elements of Power System Analysis 3rd ed.”，McGraw
-    Hill, New York, 1975, ISBN 0-07-061285-4
+  - William Stevenson，“Elements of Power System Analysis 3rd ed.”，McGraw Hill, New York, 1975, ISBN 0-07-061285-4
 
-[Category:電力](https://zh.wikipedia.org/wiki/Category:電力 "wikilink")
-[Category:电路定理](https://zh.wikipedia.org/wiki/Category:电路定理 "wikilink")
-[Category:電力電路](https://zh.wikipedia.org/wiki/Category:電力電路 "wikilink")
+[Category:電力](https://zh.wikipedia.org/wiki/Category:電力 "wikilink") [Category:电路定理](https://zh.wikipedia.org/wiki/Category:电路定理 "wikilink") [Category:電力電路](https://zh.wikipedia.org/wiki/Category:電力電路 "wikilink")
 
-1.  A.E. Kennelly, *Equivalence of triangles and stars in conducting
-    networks*, Electrical World and Engineer, vol. 34, pp. 413-414,
-    1899.
+1.  A.E. Kennelly, *Equivalence of triangles and stars in conducting networks*, Electrical World and Engineer, vol. 34, pp. 413-414, 1899.

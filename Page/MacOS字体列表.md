@@ -1,9 +1,4 @@
-此列表包含[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
-10.0至10.4的所有[电脑字体](https://zh.wikipedia.org/wiki/电脑字体 "wikilink")，包括所有[苹果公司为其他语言专用升级包中的字体](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（主要是[韩文和](https://zh.wikipedia.org/wiki/韩文 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")）。对于
-Mac OS 10.4中的字体列表请参见 [Apple's
-documentation](http://docs.info.apple.com/article.html?artnum=301332)。關於
-MAC OS X
-10.5中的字體列表請參閱[蘋果支持中心-關於OSX10.5的字體列表(EN)](http://support.apple.com/kb/HT1642)
+此列表包含[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 10.0至10.4的所有[电脑字体](https://zh.wikipedia.org/wiki/电脑字体 "wikilink")，包括所有[苹果公司为其他语言专用升级包中的字体](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（主要是[韩文和](https://zh.wikipedia.org/wiki/韩文 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")）。对于 Mac OS 10.4中的字体列表请参见 [Apple's documentation](http://docs.info.apple.com/article.html?artnum=301332)。關於 MAC OS X 10.5中的字體列表請參閱[蘋果支持中心-關於OSX10.5的字體列表(EN)](http://support.apple.com/kb/HT1642)
 
 ## 系统字体
 
@@ -56,7 +51,7 @@ MAC OS X
 | [Gill Sans](https://zh.wikipedia.org/wiki/Gill_Sans "wikilink")          | Light, Light Italic, Regular, Italic, Bold, Bold Italic                                                                          |                                                                                                             |
 | Gujarati                                                                 | Regular, Bold                                                                                                                    | [古吉拉特语](../Page/古吉拉特语.md "wikilink")                                                                        |
 | Gung Seouche                                                             | Regular                                                                                                                          | 韩文。但在字体列表中显示为 "\#GungSeo"                                                                                   |
-| Gurmukhi                                                                 | Regular                                                                                                                          | [旁遮普語Gurmukhi文字](../Page/旁遮普語.md "wikilink")                                                                |
+| Gurmukhi                                                                 | Regular                                                                                                                          | [旁遮普語](../Page/旁遮普語.md "wikilink")Gurmukhi文字                                                                |
 | Hangangche                                                               | Regular                                                                                                                          | 韩文                                                                                                          |
 | HeadlineA                                                                | Regular                                                                                                                          | 韩文，但在字体列表中显示为 "\#HeadLineA"                                                                                 |
 | Hei（黑體）                                                                  | Regular                                                                                                                          | 简体中文                                                                                                        |
@@ -125,9 +120,7 @@ MAC OS X
 
 ## AppleWorks, iWork 和 iLife fonts
 
-麦金塔电脑随机附带的[AppleWorks](https://zh.wikipedia.org/wiki/AppleWorks "wikilink")（旧机型）,
-[iDVD](https://zh.wikipedia.org/wiki/iDVD "wikilink")（带DVD刻录），以及[iWork和](https://zh.wikipedia.org/wiki/iWork "wikilink")[iLife试用版含有Mac](https://zh.wikipedia.org/wiki/iLife "wikilink")
-OS X零售版本中所包含的字体。
+麦金塔电脑随机附带的[AppleWorks](https://zh.wikipedia.org/wiki/AppleWorks "wikilink")（旧机型）, [iDVD](https://zh.wikipedia.org/wiki/iDVD "wikilink")（带DVD刻录），以及[iWork和](https://zh.wikipedia.org/wiki/iWork "wikilink")[iLife试用版含有Mac](https://zh.wikipedia.org/wiki/iLife "wikilink") OS X零售版本中所包含的字体。
 
 | 字体名称                 | 系列                                                                                                                       | 随附来源              |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------- |
@@ -164,8 +157,7 @@ OS X零售版本中所包含的字体。
 ## 隐藏字体
 
 Apple Garamond 仅随 Mac OS X 10.2 发布，并隐藏在
-<small>`/System/Library/CoreServices/Setup
-Assistant.app/Contents/Resources/Setup Assistant.dfont`</small>
+<small>`/System/Library/CoreServices/Setup Assistant.app/Contents/Resources/Setup Assistant.dfont`</small>
 
 Apple Casual隐藏在：
 <small>`/System/Library/Components/Ink.component/Contents/SharedSupport/InkServer.app/Contents/Resources/AppleCasual.dfont`</small>
@@ -184,11 +176,7 @@ Matrix Ticker位于：
 
 [<File:Fonts-x.png>](https://zh.wikipedia.org/wiki/File:Fonts-x.png "fig:File:Fonts-x.png")
 
-  - 下列表单中的字体来自 [free
-    package](https://web.archive.org/web/20070128211703/http://images.apple.com/applescript/itunes/itunes-scripts.OSX.sit)
-    用于
-    [iTunes的](https://zh.wikipedia.org/wiki/iTunes "wikilink")[AppleScript](../Page/AppleScript.md "wikilink")。
-    它们不随系统或者系统更新发布。
+  - 下列表单中的字体来自 [free package](https://web.archive.org/web/20070128211703/http://images.apple.com/applescript/itunes/itunes-scripts.OSX.sit) 用于 [iTunes的](https://zh.wikipedia.org/wiki/iTunes "wikilink")[AppleScript](../Page/AppleScript.md "wikilink")。 它们不随系统或者系统更新发布。
 
 [<File:Fonts-x2.png>](https://zh.wikipedia.org/wiki/File:Fonts-x2.png "fig:File:Fonts-x2.png")
 
@@ -196,20 +184,11 @@ Matrix Ticker位于：
 
   - [苹果10.3字体列表](http://docs.info.apple.com/article.html?artnum=25710)（仅有名称，没有图像）
   - [苹果10.4字体列表](http://docs.info.apple.com/article.html?artnum=301332)（仅有名称，没有图像）
-  - [Mac OS X
-    Tiger中的高级字体设计](https://web.archive.org/web/20070225172636/http://images.apple.com/pro/pdf/L311277A_FontTT_v4.pdf)（附录B
-    包含Mac OS X 10.4 Tiger中拉丁字体的演示）
-  - [微软为Mac OS
-    X所安装字体做的列表](http://www.microsoft.com/typography/fonts/mac.htm)
-  - [Alan Wood做的常用Mac OS
-    X字体列表](http://www.alanwood.net/unicode/fonts_macosx.html)
-  - [Code Style关于Mac
-    OS字体的调查](https://archive.is/20130112220820/www.codestyle.org/css/font-family/sampler-MacResults.shtml)（包括OS
-    8/9 用户）
-  - [微软Windows
-    XP字体列表](http://www.microsoft.com/typography/fonts/winxp.htm)
-  - [微软 Windows XP SP2
-    字体列表](http://www.microsoft.com/typography/fonts/product.aspx?PID=145)
+  - [Mac OS X Tiger中的高级字体设计](https://web.archive.org/web/20070225172636/http://images.apple.com/pro/pdf/L311277A_FontTT_v4.pdf)（附录B 包含Mac OS X 10.4 Tiger中拉丁字体的演示）
+  - [微软为Mac OS X所安装字体做的列表](http://www.microsoft.com/typography/fonts/mac.htm)
+  - [Alan Wood做的常用Mac OS X字体列表](http://www.alanwood.net/unicode/fonts_macosx.html)
+  - [Code Style关于Mac OS字体的调查](https://archive.is/20130112220820/www.codestyle.org/css/font-family/sampler-MacResults.shtml)（包括OS 8/9 用户）
+  - [微软Windows XP字体列表](http://www.microsoft.com/typography/fonts/winxp.htm)
+  - [微软 Windows XP SP2 字体列表](http://www.microsoft.com/typography/fonts/product.aspx?PID=145)
 
-[Category:字体](https://zh.wikipedia.org/wiki/Category:字体 "wikilink")
-[Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink")
+[Category:字体](https://zh.wikipedia.org/wiki/Category:字体 "wikilink") [Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink")

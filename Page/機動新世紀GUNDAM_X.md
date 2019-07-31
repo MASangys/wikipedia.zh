@@ -1,14 +1,10 @@
-《**機動新世紀GUNDAM X**》（、*After War Gundam
-X*）是1996年4月5日至12月27日，於[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")與朝日[電視網部分地區的](https://zh.wikipedia.org/wiki/電視 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，全39話。
+《**機動新世紀GUNDAM X**》（、*After War Gundam X*）是1996年4月5日至12月27日，於[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")與朝日[電視網部分地區的](https://zh.wikipedia.org/wiki/電視 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，全39話。
 
-《**機動新世紀GUNDAM X**》與《[機動武鬥傳G
-GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》及《[新機動戰記GUNDAM
-W](../Page/新機動戰記GUNDAM_W.md "wikilink")》常被並稱為「[平成三部曲](https://zh.wikipedia.org/wiki/平成三部曲 "wikilink")」。
+《**機動新世紀GUNDAM X**》與《[機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》及《[新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")》常被並稱為「[平成三部曲](https://zh.wikipedia.org/wiki/平成三部曲 "wikilink")」。
 
 ## 故事簡介
 
-After
-War（A.W.）15年，舞台在[人類](../Page/人類.md "wikilink")和[地球](../Page/地球.md "wikilink")受到毀滅性破壞的大戰──第7次[宇宙](../Page/宇宙.md "wikilink")戰爭後荒廢的地球。
+After War（A.W.）15年，舞台在[人類](../Page/人類.md "wikilink")和[地球](../Page/地球.md "wikilink")受到毀滅性破壞的大戰──第7次[宇宙](../Page/宇宙.md "wikilink")戰爭後荒廢的地球。
 
 由於戰爭成為孤兒的主角卡洛德以回收和奪取[機動戰士為生計](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")。有一天受到委託，內容是希望奪回被綁架到自由號戰艦上的少女蒂琺。對蒂琺一見鍾情的卡洛德，因為蒂琺見到委託人時的膽怯模樣而帶著她一起逃走。
 
@@ -214,9 +210,7 @@ GX戰損後利用自由號所存放的各式零件重新改裝成的型態，主
 
 **GUNDAMDX（Gundam Double X）**
 
-由地球聯邦軍秘密開發的MS，機體性能比起X大幅提升，最大賣點為衛星加農砲增為雙管，而其衛星系統（Satellite
-System）是用傑米爾·尼特曾駕駛的GUNDAMX（Gundam
-X）上下載下來，因此不必仰賴新人類進行初次認證即可使用。
+由地球聯邦軍秘密開發的MS，機體性能比起X大幅提升，最大賣點為衛星加農砲增為雙管，而其衛星系統（Satellite System）是用傑米爾·尼特曾駕駛的GUNDAMX（Gundam X）上下載下來，因此不必仰賴新人類進行初次認證即可使用。
 
 與GX一樣透過與右手操縱桿一體化的G-Con啟動，但因為機體本身的系統有相當多的地方是使用自傑米爾的GX，因此被卡洛德一行人用GX的G-Con啟動並奪走。後期與G獵鷹合體後可於空中飛行，成為名副其實的機動火藥庫。
 
@@ -390,41 +384,18 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 **片頭曲**
 
-1.  (\#1～\#26) DREAMS -
-    作詞・作曲・編曲：[RO-M](https://zh.wikipedia.org/wiki/RO-M "wikilink")
-    - 主唱：[ROMANTIC
-    MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
-2.  (\#27～\#39) Resolution -
-    作詞：[西脇　唯](https://zh.wikipedia.org/wiki/西脇_唯 "wikilink")
-    / 作曲：[ジョー・リノイエ](https://zh.wikipedia.org/wiki/ジョー・リノイエ "wikilink") /
-    編曲：[ジョー・リノイエ](https://zh.wikipedia.org/wiki/ジョー・リノイエ "wikilink")/[鈴川真樹](https://zh.wikipedia.org/wiki/鈴川真樹 "wikilink")
-    / 主唱：[ROMANTIC
-    MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
+1.  (\#1～\#26) DREAMS - 作詞・作曲・編曲：[RO-M](https://zh.wikipedia.org/wiki/RO-M "wikilink") - 主唱：[ROMANTIC MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
+2.  (\#27～\#39) Resolution - 作詞：[西脇　唯](https://zh.wikipedia.org/wiki/西脇_唯 "wikilink") / 作曲：[ジョー・リノイエ](https://zh.wikipedia.org/wiki/ジョー・リノイエ "wikilink") / 編曲：[ジョー・リノイエ](https://zh.wikipedia.org/wiki/ジョー・リノイエ "wikilink")/[鈴川真樹](https://zh.wikipedia.org/wiki/鈴川真樹 "wikilink") / 主唱：[ROMANTIC MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
 
 **片尾曲**
 
-1.  (\#1～\#13, \#39) HUMAN TOUCH - 作詞：[Susanne Marie
-    Edgren](https://zh.wikipedia.org/wiki/Susanne_Marie_Edgren "wikilink")
-    / 作曲・編曲：[Tom
-    Keane](https://zh.wikipedia.org/wiki/Tom_Keane "wikilink") /
-    主唱：[Warren
-    Wiebe](https://zh.wikipedia.org/wiki/Warren_Wiebe "wikilink")
-2.  (\#14～\#26) HUMAN TOUCH（日本語版）- 作詞：[Susanne Marie
-    Edgren](https://zh.wikipedia.org/wiki/Susanne_Marie_Edgren "wikilink")/[許　瑛子](https://zh.wikipedia.org/wiki/許_瑛子 "wikilink")
-    / 作曲：[Tom Keane](https://zh.wikipedia.org/wiki/Tom_Keane "wikilink")
-    / 編曲：[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink") /
-    主唱：[re-kiss](https://zh.wikipedia.org/wiki/re-kiss "wikilink")
-3.  (\#27～\#38) 銀色Horizon -
-    作詞：[小室みつ子](https://zh.wikipedia.org/wiki/小室みつ子 "wikilink")
-    / 作曲：[濱田金吾](https://zh.wikipedia.org/wiki/濱田金吾 "wikilink") / 編曲：[TOM
-    KEAN](https://zh.wikipedia.org/wiki/TOM_KEAN "wikilink") /
-    主唱：[中瀬聡美](https://zh.wikipedia.org/wiki/中瀬聡美 "wikilink")
+1.  (\#1～\#13, \#39) HUMAN TOUCH - 作詞：[Susanne Marie Edgren](https://zh.wikipedia.org/wiki/Susanne_Marie_Edgren "wikilink") / 作曲・編曲：[Tom Keane](https://zh.wikipedia.org/wiki/Tom_Keane "wikilink") / 主唱：[Warren Wiebe](https://zh.wikipedia.org/wiki/Warren_Wiebe "wikilink")
+2.  (\#14～\#26) HUMAN TOUCH（日本語版）- 作詞：[Susanne Marie Edgren](https://zh.wikipedia.org/wiki/Susanne_Marie_Edgren "wikilink")/[許　瑛子](https://zh.wikipedia.org/wiki/許_瑛子 "wikilink") / 作曲：[Tom Keane](https://zh.wikipedia.org/wiki/Tom_Keane "wikilink") / 編曲：[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink") / 主唱：[re-kiss](https://zh.wikipedia.org/wiki/re-kiss "wikilink")
+3.  (\#27～\#38) 銀色Horizon - 作詞：[小室みつ子](https://zh.wikipedia.org/wiki/小室みつ子 "wikilink") / 作曲：[濱田金吾](https://zh.wikipedia.org/wiki/濱田金吾 "wikilink") / 編曲：[TOM KEAN](https://zh.wikipedia.org/wiki/TOM_KEAN "wikilink") / 主唱：[中瀬聡美](https://zh.wikipedia.org/wiki/中瀬聡美 "wikilink")
 
 **單曲CD专辑**
 
-  - OP1(\#1～\#26) - Dreams - 主唱：[ROMANTIC
-    MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
-    /（1996年5月22日發售）
+  - OP1(\#1～\#26) - Dreams - 主唱：[ROMANTIC MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink") /（1996年5月22日發售）
 
 <!-- end list -->
 
@@ -438,9 +409,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 <!-- end list -->
 
-  - OP2(\#27～\#39) - Resolution - 主唱：[ROMANTIC
-    MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
-    /（1996年10月23日發售）
+  - OP2(\#27～\#39) - Resolution - 主唱：[ROMANTIC MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink") /（1996年10月23日發售）
 
 <!-- end list -->
 
@@ -454,9 +423,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 <!-- end list -->
 
-  - ED1(\#1～\#13) - Human Touch - 主唱：[Warren
-    Wiebe](https://zh.wikipedia.org/wiki/Warren_Wiebe "wikilink")
-    /（1996年5月8日發售）
+  - ED1(\#1～\#13) - Human Touch - 主唱：[Warren Wiebe](https://zh.wikipedia.org/wiki/Warren_Wiebe "wikilink") /（1996年5月8日發售）
 
 <!-- end list -->
 
@@ -469,9 +436,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 <!-- end list -->
 
-  - ED2(\#14～\#26) - Human_Touch -
-    主唱：[re-kiss](https://zh.wikipedia.org/wiki/re-kiss "wikilink")
-    / (日本語版，1996年8月21日發售)
+  - ED2(\#14～\#26) - Human_Touch - 主唱：[re-kiss](https://zh.wikipedia.org/wiki/re-kiss "wikilink") / (日本語版，1996年8月21日發售)
 
 <!-- end list -->
 
@@ -485,9 +450,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 <!-- end list -->
 
-  - ED3(\#27～\#39) - 銀色Horizon -
-    主唱：[中瀬聡美](https://zh.wikipedia.org/wiki/中瀬聡美 "wikilink")
-    / (1996年11月5日發售)
+  - ED3(\#27～\#39) - 銀色Horizon - 主唱：[中瀬聡美](https://zh.wikipedia.org/wiki/中瀬聡美 "wikilink") / (1996年11月5日發售)
 
 <!-- end list -->
 
@@ -582,9 +545,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 ## 放送列表
 
-每一集的标题都取自剧中人物的台词。在前一集的下集预告中伴随着剧中人物的对话出现。
-此外，全剧的剧本是由[川崎裕负责](https://zh.wikipedia.org/wiki/川崎裕 "wikilink")，这里将被省略。
-播出日期以テレビ朝日的播出日期为准。
+每一集的标题都取自剧中人物的台词。在前一集的下集预告中伴随着剧中人物的对话出现。 此外，全剧的剧本是由[川崎裕负责](https://zh.wikipedia.org/wiki/川崎裕 "wikilink")，这里将被省略。 播出日期以テレビ朝日的播出日期为准。
 
 <table>
 <thead>
@@ -976,15 +937,11 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 **前傳 - 機動新世紀GUNDAMX～新類型人戰士傑米爾·尼特～**
 
-  - 前傳附在漫畫「機動新世紀GUNDAMX」中，故事時間點設置在「機動新世紀GUNDAMX」本篇故事發生前15年，即戰前世紀(Before
-    War) B.W.0001年。漫畫分上、下兩篇。
+  - 前傳附在漫畫「機動新世紀GUNDAMX」中，故事時間點設置在「機動新世紀GUNDAMX」本篇故事發生前15年，即戰前世紀(Before War) B.W.0001年。漫畫分上、下兩篇。
 
-**後傳 - [機動新世紀GUNDAM X UNDER THE
-MOONLIGHT](../Page/機動新世紀GUNDAM_X_UNDER_THE_MOONLIGHT.md "wikilink")**
+**後傳 - [機動新世紀GUNDAM X UNDER THE MOONLIGHT](../Page/機動新世紀GUNDAM_X_UNDER_THE_MOONLIGHT.md "wikilink")**
 
-  - 機動新世紀GUNDAM X的續編漫畫，略稱「U·T·M」，於角川書店發售的漫畫雜誌「GUNDAM
-    ACE」連載。後傳的故事時間為「機動新世紀GUNDAMX」本篇故事发生后9年，即戰後世紀（After
-    War）A.W.0024年。漫畫共4集單行本。
+  - 機動新世紀GUNDAM X的續編漫畫，略稱「U·T·M」，於角川書店發售的漫畫雜誌「GUNDAM ACE」連載。後傳的故事時間為「機動新世紀GUNDAMX」本篇故事发生后9年，即戰後世紀（After War）A.W.0024年。漫畫共4集單行本。
 
 ## 参考资料
 
@@ -992,17 +949,7 @@ MOONLIGHT](../Page/機動新世紀GUNDAM_X_UNDER_THE_MOONLIGHT.md "wikilink")**
 
   - [After War GUNDAM X官方網站](http://www.gundam-x.net/)
 
-[Category:戰後紀元](https://zh.wikipedia.org/wiki/Category:戰後紀元 "wikilink")
-[Category:1996年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1996年日本電視動畫 "wikilink")
-[Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
-[Category:月球題材作品](https://zh.wikipedia.org/wiki/Category:月球題材作品 "wikilink")
-[Category:文明崩潰後世界題材作品](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材作品 "wikilink")
-[Category:電通](https://zh.wikipedia.org/wiki/Category:電通 "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
+[Category:戰後紀元](https://zh.wikipedia.org/wiki/Category:戰後紀元 "wikilink") [Category:1996年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1996年日本電視動畫 "wikilink") [Category:朝日電視台動畫](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink") [Category:月球題材作品](https://zh.wikipedia.org/wiki/Category:月球題材作品 "wikilink") [Category:文明崩潰後世界題材作品](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材作品 "wikilink") [Category:電通](https://zh.wikipedia.org/wiki/Category:電通 "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
 
 1.  画面上でこの台詞を発したのは、ルチルの意識が憑依したティファである。
 2.  第26話で流れた予告では、該当するシーンに台詞の音声は入っていない。

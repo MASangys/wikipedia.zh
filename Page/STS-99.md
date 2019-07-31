@@ -7,7 +7,7 @@
   - **[珍妮特·卡万迪](https://zh.wikipedia.org/wiki/珍妮特·卡万迪 "wikilink")**（，曾执行、以及任务），任务专家
   - **[简妮丝·沃斯](https://zh.wikipedia.org/wiki/简妮丝·沃斯 "wikilink")**（，曾执行、、、以及任务），任务专家
   - **[毛利卫](https://zh.wikipedia.org/wiki/毛利卫 "wikilink")**（，日本宇航员，曾执行以及任务），任务专家
-  - **[格哈德·席勒](https://zh.wikipedia.org/wiki/格哈德·席勒 "wikilink")**（，[德国宇航员](../Page/德国.md "wikilink")，曾执行任务），任务专家
+  - **[格哈德·席勒](https://zh.wikipedia.org/wiki/格哈德·席勒 "wikilink")**（，[德国](../Page/德国.md "wikilink")宇航员，曾执行任务），任务专家
 
 ## 任务摘要
 
@@ -17,7 +17,4 @@
 
 奋进号发射后合成孔径雷达天线顺利展开并自检，发射后不到12小时在00:31EST开始执行测绘任务。任务成员分为两组轮流工作保证系统能连续工作，数据传回喷气动力实验室（JPL），初步分析显示数据具有极好的质量。测绘任务在发射后第10日的06:54结束于扫过澳大利亚之后。在总共222小时23分钟的测绘任务重，奋进号获取的雷达影像填满了332卷高密度磁带并覆盖了99.98%的预定测绘区域，94.6%的区域测绘超过两次。
 
-[Category:2000年佛罗里达州](https://zh.wikipedia.org/wiki/Category:2000年佛罗里达州 "wikilink")
-[Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink")
-[Category:2000年科學](https://zh.wikipedia.org/wiki/Category:2000年科學 "wikilink")
-[Category:2000年2月](https://zh.wikipedia.org/wiki/Category:2000年2月 "wikilink")
+[Category:2000年佛罗里达州](https://zh.wikipedia.org/wiki/Category:2000年佛罗里达州 "wikilink") [Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink") [Category:2000年科學](https://zh.wikipedia.org/wiki/Category:2000年科學 "wikilink") [Category:2000年2月](https://zh.wikipedia.org/wiki/Category:2000年2月 "wikilink")

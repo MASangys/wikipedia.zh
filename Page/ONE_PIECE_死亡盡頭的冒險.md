@@ -1,5 +1,4 @@
-**《ONE PIECE 死亡盡頭的冒險》**是於2003年上映的第四部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
+**《ONE PIECE 死亡盡頭的冒險》**是於2003年上映的第四部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
 
 ## 劇情
 
@@ -132,8 +131,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/w
 ## 音樂
 
   - 「sailing day」
-    作詞・作曲：[藤原基央](https://zh.wikipedia.org/wiki/藤原基央 "wikilink")；編曲：[BUMP
-    OF CHICKEN](../Page/BUMP_OF_CHICKEN.md "wikilink")；歌：BUMP OF CHICKEN
+    作詞・作曲：[藤原基央](https://zh.wikipedia.org/wiki/藤原基央 "wikilink")；編曲：[BUMP OF CHICKEN](../Page/BUMP_OF_CHICKEN.md "wikilink")；歌：BUMP OF CHICKEN
 
 ## 相關事件
 
@@ -151,11 +149,9 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/w
 
   - [官方網站](http://www.toei-anim.co.jp/movie/2003_onepiece/)
 
-[ru:Список анимационных фильмов о One Piece\#Фильм
-четвёртый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_четвёртый "wikilink")
+[ru:Список анимационных фильмов о One Piece\#Фильм четвёртый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_четвёртый "wikilink")
 
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2003年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2003年日本劇場動畫 "wikilink")
+[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2003年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2003年日本劇場動畫 "wikilink")
 
 1.  劇場版第9部有提及。
 

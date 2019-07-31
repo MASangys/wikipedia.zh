@@ -1,11 +1,8 @@
-**URL重寫**（）是一種[REST的相關技術](https://zh.wikipedia.org/wiki/REST "wikilink")，它可以在Web
-Server中，針對使用者所提供的URL進行轉換後，再傳入Web Server中的程式處理器。
+**URL重寫**（）是一種[REST的相關技術](https://zh.wikipedia.org/wiki/REST "wikilink")，它可以在Web Server中，針對使用者所提供的URL進行轉換後，再傳入Web Server中的程式處理器。
 
 ## 範例
 
-最常見的用法，就是將一組URL階層字串，轉換成帶有查询字符串(query
-string)的[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，或是反向轉換，例如：
-http://www.somebloghost.com/Blogs/Posts.php?Year=2006\&Month=12\&Day=10
+最常見的用法，就是將一組URL階層字串，轉換成帶有查询字符串(query string)的[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，或是反向轉換，例如： http://www.somebloghost.com/Blogs/Posts.php?Year=2006\&Month=12\&Day=10
 
 經過URL重寫後，可以變成：
 
@@ -25,33 +22,22 @@ http://www.somehost.com/Blogs.aspx?year=2006\&month=12
 
 ### [Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink")
 
-  - [mod_rewrite](http://httpd.apache.org/docs/2.2/mod/mod_rewrite.html)，Apache官方的URL
-    Rewriting模組
-  - [mod_alias](http://httpd.apache.org/docs/2.2/mod/mod_alias.html)，Apache
-    1.3的URL別名模組
+  - [mod_rewrite](http://httpd.apache.org/docs/2.2/mod/mod_rewrite.html)，Apache官方的URL Rewriting模組
+  - [mod_alias](http://httpd.apache.org/docs/2.2/mod/mod_alias.html)，Apache 1.3的URL別名模組
 
 ### [Microsoft Internet Information Server](https://zh.wikipedia.org/wiki/IIS "wikilink") (IIS)
 
   - URL Rewrite Module for IIS 7.0，由微軟官方發展
-  - [IIS
-    Mod-Rewrite](http://www.micronovae.com/ModRewrite/ModRewrite.html)。
+  - [IIS Mod-Rewrite](http://www.micronovae.com/ModRewrite/ModRewrite.html)。
   - [IISRewrite](https://web.archive.org/web/20081009023202/http://qwerksoft.com/products/iisrewrite/)。
   - [ISAPI_Rewrite](http://www.helicontech.com/)。
-  - [URL
-    Replacer](http://www.motobit.com/help/url-replacer-rewriter/iis-mod-rewrite.asp)。
-  - [Ionic's ISAPI Rewrite Filter
-    (IIRF)](https://web.archive.org/web/20060505215808/http://cheeso.members.winisp.net/IIRf.aspx)，無須
-    .NET，免費的開放原始碼元件。
-  - [.NET URL Rewriter and Reverse
-    Proxy](https://web.archive.org/web/20080820092752/http://managedfusion.com/products/url-rewriter/)，免費的
-    URL Rewriting 與反向代理元件，支援 .NET 2.0/3.5，IIS 6.0/7.0。
+  - [URL Replacer](http://www.motobit.com/help/url-replacer-rewriter/iis-mod-rewrite.asp)。
+  - [Ionic's ISAPI Rewrite Filter (IIRF)](https://web.archive.org/web/20060505215808/http://cheeso.members.winisp.net/IIRf.aspx)，無須 .NET，免費的開放原始碼元件。
+  - [.NET URL Rewriter and Reverse Proxy](https://web.archive.org/web/20080820092752/http://managedfusion.com/products/url-rewriter/)，免費的 URL Rewriting 與反向代理元件，支援 .NET 2.0/3.5，IIS 6.0/7.0。
   - [VirtualUrl.NET](https://web.archive.org/web/20081015043416/http://products.visionalyse.com/products/virtualurl/overview/default.aspx)。
-  - [UrlRewriter.NET](http://urlrewriter.net/)，免費的開放原始碼元件，支援.NET
-    1.1/2.0。
-  - [URLRewriting.NET](https://web.archive.org/web/20080820113316/http://www.urlrewriting.net/)，免費的開放原始碼元件，ASP.NET
-    2.0適用。
-  - [VirtualUrl.NET for
-    ASP.NET 2](https://web.archive.org/web/20080102035529/http://www.visionalyse.co.uk/products/VirtualUrl/overview/)。
+  - [UrlRewriter.NET](http://urlrewriter.net/)，免費的開放原始碼元件，支援.NET 1.1/2.0。
+  - [URLRewriting.NET](https://web.archive.org/web/20080820113316/http://www.urlrewriting.net/)，免費的開放原始碼元件，ASP.NET 2.0適用。
+  - [VirtualUrl.NET for ASP.NET 2](https://web.archive.org/web/20080102035529/http://www.visionalyse.co.uk/products/VirtualUrl/overview/)。
 
 ### [J2EE](https://zh.wikipedia.org/wiki/J2EE "wikilink") Servlet
 
@@ -74,11 +60,8 @@ http://www.somehost.com/Blogs.aspx?year=2006\&month=12
 
 ## 外部連結
 
-  - [ASP.NET: URL
-    Rewriting](http://msdn.microsoft.com/en-us/library/ms972974.aspx)
-  - [apache mod_rewrite - URL
-    Rewriting](https://web.archive.org/web/20081011024327/http://ohaha.ks.edu.tw/post/1/47)
-  - [Java Servlet: URL
-    Rewriting](http://www.unix.com.ua/orelly/java-ent/servlet/ch07_03.htm)
+  - [ASP.NET: URL Rewriting](http://msdn.microsoft.com/en-us/library/ms972974.aspx)
+  - [apache mod_rewrite - URL Rewriting](https://web.archive.org/web/20081011024327/http://ohaha.ks.edu.tw/post/1/47)
+  - [Java Servlet: URL Rewriting](http://www.unix.com.ua/orelly/java-ent/servlet/ch07_03.htm)
 
 [Category:網頁技術](https://zh.wikipedia.org/wiki/Category:網頁技術 "wikilink")

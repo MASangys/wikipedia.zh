@@ -11,8 +11,7 @@ M00-M25 [关节病](https://zh.wikipedia.org/wiki/关节病 "wikilink")
 
 ### M05-M14 炎性多关节病
 
-  - M05
-    [血清反应](https://zh.wikipedia.org/wiki/血清反应 "wikilink")[阳性类风湿性关节病](https://zh.wikipedia.org/wiki/阳性 "wikilink")
+  - M05 [血清反应](https://zh.wikipedia.org/wiki/血清反应 "wikilink")[阳性类风湿性关节病](https://zh.wikipedia.org/wiki/阳性 "wikilink")
   - M06 其他[类风湿性关节炎](https://zh.wikipedia.org/wiki/类风湿性关节炎 "wikilink")
   - M07 牛皮癣性和肠病性关节病
   - M08 幼年型关节炎
@@ -51,26 +50,15 @@ M30-M36 系统性结缔组织疾患
   - M34 [全身性硬皮病](https://zh.wikipedia.org/wiki/全身性硬皮病 "wikilink")
   - () 结缔组织的其他系统性受累
       - () [干燥综合征](../Page/干燥综合征.md "wikilink") (修格连氏症候群，或者舍格伦综合征)\<\!--
-      - () Other [overlap
-        syndromes](https://zh.wikipedia.org/wiki/overlap_syndromes "wikilink")
-      - () [Behçet's
-        disease](https://zh.wikipedia.org/wiki/Behçet's_disease "wikilink")
-      - () [Polymyalgia
-        rheumatica](https://zh.wikipedia.org/wiki/Polymyalgia_rheumatica "wikilink")
-      - () [Diffuse (eosinophilic)
-        fasciitis](https://zh.wikipedia.org/wiki/Diffuse_\(eosinophilic\)_fasciitis "wikilink")
-      - () [Multifocal
-        fibrosclerosis](https://zh.wikipedia.org/wiki/Multifocal_fibrosclerosis "wikilink")
-      - () [Relapsing
-        panniculitis](https://zh.wikipedia.org/wiki/Relapsing_panniculitis "wikilink")
-        ([Weber-Christian](https://zh.wikipedia.org/wiki/Weber-Christian "wikilink"))
-      - () [Hypermobility
-        syndrome](https://zh.wikipedia.org/wiki/Hypermobility_syndrome "wikilink")
-      - () Other specified systemic involvement of [connective
-        tissue](https://zh.wikipedia.org/wiki/connective_tissue "wikilink")
-      - () Systemic involvement of [connective
-        tissue](https://zh.wikipedia.org/wiki/connective_tissue "wikilink"),
-        unspecified
+      - () Other [overlap syndromes](https://zh.wikipedia.org/wiki/overlap_syndromes "wikilink")
+      - () [Behçet's disease](https://zh.wikipedia.org/wiki/Behçet's_disease "wikilink")
+      - () [Polymyalgia rheumatica](https://zh.wikipedia.org/wiki/Polymyalgia_rheumatica "wikilink")
+      - () [Diffuse (eosinophilic) fasciitis](https://zh.wikipedia.org/wiki/Diffuse_\(eosinophilic\)_fasciitis "wikilink")
+      - () [Multifocal fibrosclerosis](https://zh.wikipedia.org/wiki/Multifocal_fibrosclerosis "wikilink")
+      - () [Relapsing panniculitis](https://zh.wikipedia.org/wiki/Relapsing_panniculitis "wikilink") ([Weber-Christian](https://zh.wikipedia.org/wiki/Weber-Christian "wikilink"))
+      - () [Hypermobility syndrome](https://zh.wikipedia.org/wiki/Hypermobility_syndrome "wikilink")
+      - () Other specified systemic involvement of [connective tissue](https://zh.wikipedia.org/wiki/connective_tissue "wikilink")
+      - () Systemic involvement of [connective tissue](https://zh.wikipedia.org/wiki/connective_tissue "wikilink"), unspecified
 
 `-->* M36 分类于他处的疾病引起的系统性结缔组织疾患`
 
@@ -113,10 +101,8 @@ M60-M79 软组织疾患
 
 ### M65-M68 滑膜和肌腱疾患
 
-  - M65
-    [滑膜炎和](https://zh.wikipedia.org/wiki/滑膜炎 "wikilink")[腱鞘炎](https://zh.wikipedia.org/wiki/腱鞘炎 "wikilink")
-  - M66
-    [滑膜和](https://zh.wikipedia.org/wiki/滑膜 "wikilink")[肌腱的自发性破裂](https://zh.wikipedia.org/wiki/肌腱 "wikilink")
+  - M65 [滑膜炎和](https://zh.wikipedia.org/wiki/滑膜炎 "wikilink")[腱鞘炎](../Page/腱鞘炎.md "wikilink")
+  - M66 [滑膜和](https://zh.wikipedia.org/wiki/滑膜 "wikilink")[肌腱的自发性破裂](https://zh.wikipedia.org/wiki/肌腱 "wikilink")
   - M67 滑膜和肌腱的其他疾患
   - M68 分类于他处的疾病引起的滑膜和肌腱疾患
 
@@ -154,8 +140,7 @@ M80-M94 骨病和[软骨病](https://zh.wikipedia.org/wiki/软骨病 "wikilink")
 
 ### M91-M94 软骨病
 
-  - M91
-    [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[骨盆的幼年型骨](https://zh.wikipedia.org/wiki/骨盆 "wikilink")[软骨](../Page/软骨.md "wikilink")病
+  - M91 [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[骨盆的幼年型骨](https://zh.wikipedia.org/wiki/骨盆 "wikilink")[软骨](../Page/软骨.md "wikilink")病
   - M92 其他幼年型骨软骨病
   - M93 其他骨软骨病
   - M94 软骨的其他疾患
@@ -173,6 +158,4 @@ M95-M99 肌肉骨骼系统和结缔组织的其他疾患
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

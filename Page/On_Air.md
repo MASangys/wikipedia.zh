@@ -1,24 +1,9 @@
-[朴容夏](../Page/朴容夏.md "wikilink"){{、w}}[李凡秀](../Page/李凡秀.md "wikilink"){{、w}}[宋玧妸](../Page/宋玧妸.md "wikilink")
-| slogan = | theme_song = 有一種話（） | opentheme = | endtheme = | composer
-= | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons
-= | num_episodes = 21 | list_episodes = | executive_producer = |
-producer = | supervising_producer = | editor = | location =
-[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[九份](../Page/九份.md "wikilink")、[日月潭](../Page/日月潭.md "wikilink")、[國立故宮博物院](https://zh.wikipedia.org/wiki/國立故宮博物院 "wikilink")、[台北101](../Page/台北101.md "wikilink")、[圓山大飯店](../Page/圓山大飯店.md "wikilink")、[野柳地質公園](https://zh.wikipedia.org/wiki/野柳地質公園 "wikilink")、[中橫公路](../Page/中橫公路.md "wikilink")[燕子口](https://zh.wikipedia.org/wiki/燕子口 "wikilink")
-| cinematography = | camera = | runtime = 約70分鐘（含廣告） | company = K-Dream
-| distributor = | channel = [SBS](../Page/SBS_\(韓國\).md "wikilink") |
-picture_format = | audio_format = | first_run =  | first_aired =  |
-last_aired =  | status = | preceded_by =
-[不汗-{}-黨](../Page/不汗黨.md "wikilink") | followed_by =
-[一枝梅](../Page/一枝梅.md "wikilink") | related = | website =
-<http://tv.sbs.co.kr/onair/> | 中國大陸名稱 = 爱情正在直播 | 台灣名稱 = 真愛On Air | 港澳名稱
-= On-Air | 馬新名稱 = }} 《**On
-Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2008年3月5日起播放的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")，導演[申宇哲和編劇](../Page/申宇哲.md "wikilink")[金銀淑繼](../Page/金銀淑.md "wikilink")[SBS戀人系列後再度合作](../Page/SBS戀人系列.md "wikilink")。因為這部戲是以韓國電視台為舞臺所創作的故事，加上導演和編劇在韓國演藝圈有廣泛的人脈，邀請到了不少韓國當紅女星客串演出。
+[宋玧妸](../Page/宋玧妸.md "wikilink"){{、w}}[李凡秀](../Page/李凡秀.md "wikilink"){{、w}}[朴容夏](../Page/朴容夏.md "wikilink") | slogan = | theme_song = 有一種話（） | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 21 | list_episodes = | executive_producer = | producer = | supervising_producer = | editor = | location =
+[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[九份](../Page/九份.md "wikilink")、[日月潭](../Page/日月潭.md "wikilink")、[國立故宮博物院](https://zh.wikipedia.org/wiki/國立故宮博物院 "wikilink")、[台北101](../Page/台北101.md "wikilink")、[圓山大飯店](../Page/圓山大飯店.md "wikilink")、[野柳地質公園](https://zh.wikipedia.org/wiki/野柳地質公園 "wikilink")、[中橫公路](../Page/中橫公路.md "wikilink")[燕子口](https://zh.wikipedia.org/wiki/燕子口 "wikilink") | cinematography = | camera = | runtime = 約70分鐘（含廣告） | company = K-Dream | distributor = | channel = [SBS](../Page/SBS_\(韓國\).md "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | status = | preceded_by = [不汗-{}-黨](../Page/不汗黨.md "wikilink") | followed_by = [一枝梅](../Page/一枝梅.md "wikilink") | related = | website = <http://tv.sbs.co.kr/onair/> | 中國大陸名稱 = 爱情正在直播 | 台灣名稱 = 真愛On Air | 港澳名稱 = On-Air | 馬新名稱 = }} 《**On Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2008年3月5日起播放的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")，導演[申宇哲](../Page/申宇哲.md "wikilink")和編劇[金銀淑](../Page/金銀淑.md "wikilink")繼[SBS戀人系列](../Page/SBS戀人系列.md "wikilink")後再度合作。因為這部戲是以韓國電視台為舞臺所創作的故事，加上導演和編劇在韓國演藝圈有廣泛的人脈，邀請到了不少韓國當紅女星客串演出。
 
 ## 故事大綱
 
-韓國當紅女星吳升雅、黑馬導演李慶民、人氣編劇徐英恩以及帶出過大批明星的經紀人張基俊，因為一部有關精神病院的電視劇而走在一起。
-他們當中，吳升雅態度傲慢，李慶民第一次執導，徐英恩個性剛陽，張基俊則對演員特有人情味。除了他們四人外，還有眾多的劇組人員在韓劇邊拍邊播的模式下進行電視劇的製作……
+韓國當紅女星吳升雅、黑馬導演李慶民、人氣編劇徐英恩以及帶出過大批明星的經紀人張基俊，因為一部有關精神病院的電視劇而走在一起。 他們當中，吳升雅態度傲慢，李慶民第一次執導，徐英恩個性剛陽，張基俊則對演員特有人情味。除了他們四人外，還有眾多的劇組人員在韓劇邊拍邊播的模式下進行電視劇的製作……
 
 ## 角色介紹
 
@@ -375,15 +360,11 @@ Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS�
 
 ### 客串出演
 
-  - 第1集
-    ：[李孝利](../Page/李孝利.md "wikilink")、[FTIsland](../Page/FTIsland.md "wikilink")、[金亞中](../Page/金亞中.md "wikilink")、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[韓彩英](../Page/韓彩英.md "wikilink")、[朴真熙](../Page/朴真熙.md "wikilink")
+  - 第1集 ：[李孝利](../Page/李孝利.md "wikilink")、[FTIsland](../Page/FTIsland.md "wikilink")、[金亞中](../Page/金亞中.md "wikilink")、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[韓彩英](../Page/韓彩英.md "wikilink")、[朴真熙](../Page/朴真熙.md "wikilink")
   - 第2集 ：[全道嬿](../Page/全道嬿.md "wikilink")、（冒牌演藝經紀公司騙子）
-  - 第3集
-    ：[李天熙](../Page/李天熙.md "wikilink")、[全慧彬](../Page/全慧彬.md "wikilink")、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[金喜善](../Page/金喜善.md "wikilink")（照片登場）
-  - 第4集
-    ：[金民俊](https://zh.wikipedia.org/wiki/金民俊 "wikilink")、（冒牌演藝經紀公司騙子）
-  - 第5集
-    ：[姜惠貞](../Page/姜惠貞.md "wikilink")、[嚴智媛](https://zh.wikipedia.org/wiki/嚴智媛 "wikilink")
+  - 第3集 ：[李天熙](../Page/李天熙.md "wikilink")、[全慧彬](../Page/全慧彬.md "wikilink")、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[金喜善](../Page/金喜善.md "wikilink")（照片登場）
+  - 第4集 ：[金民俊](https://zh.wikipedia.org/wiki/金民俊 "wikilink")、（冒牌演藝經紀公司騙子）
+  - 第5集 ：[姜惠貞](../Page/姜惠貞.md "wikilink")、[嚴智媛](https://zh.wikipedia.org/wiki/嚴智媛 "wikilink")
   - 第9集 ：[李瑞鎮](../Page/李瑞鎮.md "wikilink")
   - 第11集：[宋昶義](https://zh.wikipedia.org/wiki/宋昶義 "wikilink")
   - 第12集：[姜惠貞](../Page/姜惠貞.md "wikilink")
@@ -392,8 +373,7 @@ Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS�
   - 第15集：[金濟東](../Page/金濟東.md "wikilink")
   - 第16集：[金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink")
   - 第20集：[金成珉](../Page/金成珉.md "wikilink")
-  - 第21集：[尹世雅](../Page/尹世雅.md "wikilink")、[Hines
-    Ward](../Page/赫因斯·沃德.md "wikilink")
+  - 第21集：[尹世雅](../Page/尹世雅.md "wikilink")、[Hines Ward](../Page/赫因斯·沃德.md "wikilink")
 
 ## 各地播放時間
 
@@ -428,7 +408,7 @@ Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS�
 
 | 集數                                                    | 播放日期                                 | TNS收視率\[1\]                               | AGB收視率\[2\]                                  |
 | ----------------------------------------------------- | ------------------------------------ | ----------------------------------------- | -------------------------------------------- |
-| [全國地區](https://zh.wikipedia.org/wiki/大韓民國 "wikilink") | **[首爾地區](../Page/首爾.md "wikilink")** | 全國地區                                      | **首爾地區**                                     |
+| [全國地區](https://zh.wikipedia.org/wiki/大韓民國 "wikilink") | **[首爾](../Page/首爾.md "wikilink")地區** | 全國地區                                      | **首爾地區**                                     |
 |                                                       |                                      |                                           |                                              |
 | 第1集                                                   | 2008/03/05                           | <span style="color: green;"> 13.4%</span> | <span style="color: green;">**15.2%**</span> |
 | 第2集                                                   | 2008/03/06                           | 15.2%                                     | **16.1%**                                    |
@@ -493,7 +473,7 @@ Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS�
 
 | 集數                                                    | 收視率                                  |
 | ----------------------------------------------------- | ------------------------------------ |
-| [全國地區](https://zh.wikipedia.org/wiki/大韓民國 "wikilink") | **[首爾地區](../Page/首爾.md "wikilink")** |
+| [全國地區](https://zh.wikipedia.org/wiki/大韓民國 "wikilink") | **[首爾](../Page/首爾.md "wikilink")地區** |
 |                                                       |                                      |
 | 第1集                                                   | 20.7%                                |
 | 第2集                                                   | 22.0%                                |
@@ -507,8 +487,7 @@ Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS�
 
 ## 獎項
 
-  - [SBS演技大賞最優秀女演員獎](https://zh.wikipedia.org/wiki/SBS演技大賞 "wikilink")
-    ([金荷娜](../Page/金荷娜.md "wikilink")、[宋允兒](https://zh.wikipedia.org/wiki/宋允兒 "wikilink"))
+  - [SBS演技大賞最優秀女演員獎](https://zh.wikipedia.org/wiki/SBS演技大賞 "wikilink") ([金荷娜](../Page/金荷娜.md "wikilink")、[宋允兒](https://zh.wikipedia.org/wiki/宋允兒 "wikilink"))
   - [SBS演技大賞優秀男演員獎](https://zh.wikipedia.org/wiki/SBS演技大賞 "wikilink")([朴容夏](../Page/朴容夏.md "wikilink"))
   - 第2屆韓國電視節最優秀女演員獎 ([金荷娜](../Page/金荷娜.md "wikilink"))
 
@@ -520,15 +499,7 @@ Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS�
   - [香港無綫官方網頁](http://programme.tvb.com/drama/onair/)
   - [臺灣緯來官方網站](http://drama.videoland.com.tw/channel/l_oa/default.asp)
 
-[Category:2008年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2008年韓國電視劇集 "wikilink")
-[Category:金銀淑劇本作品](https://zh.wikipedia.org/wiki/Category:金銀淑劇本作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
-[Category:娛樂行業題材電視劇](https://zh.wikipedia.org/wiki/Category:娛樂行業題材電視劇 "wikilink")
-[Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink")
-[Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink")
-[Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
-[Category:安徽卫视电视剧](https://zh.wikipedia.org/wiki/Category:安徽卫视电视剧 "wikilink")
+[Category:2008年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2008年韓國電視劇集 "wikilink") [Category:金銀淑劇本作品](https://zh.wikipedia.org/wiki/Category:金銀淑劇本作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:娛樂行業題材電視劇](https://zh.wikipedia.org/wiki/Category:娛樂行業題材電視劇 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:明星主角題材電視劇](https://zh.wikipedia.org/wiki/Category:明星主角題材電視劇 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:安徽卫视电视剧](https://zh.wikipedia.org/wiki/Category:安徽卫视电视剧 "wikilink")
 
 1.  TNS收視資料：[TNS Media Korea](http://www.tnsmk.co.kr)
 2.  AGB收視資料：[AGB Nielsen Media](http://www.agbnmr.co.kr/)

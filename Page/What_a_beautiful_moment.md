@@ -1,11 +1,9 @@
-《**What a beautiful
-moment**》是[ZARD出道](../Page/ZARD.md "wikilink")13年來第一次，也是唯一一次巡迴演唱會的DVD作品。發行日期為2005年6月8日。
+《**What a beautiful moment**》是[ZARD](../Page/ZARD.md "wikilink")出道13年來第一次，也是唯一一次巡迴演唱會的DVD作品。發行日期為2005年6月8日。
 
 ## 内容
 
-  - 收錄了ZARD首次的實況演唱會影像。主要使用在[東京國際論壇Hall](../Page/東京國際論壇.md "wikilink")
-    A的Live映像被構成。
-  - [坂井泉水歌唱生涯唯一現場演唱會DVD作品](../Page/坂井泉水.md "wikilink")。
+  - 收錄了ZARD首次的實況演唱會影像。主要使用在[東京國際論壇](../Page/東京國際論壇.md "wikilink")Hall A的Live映像被構成。
+  - [坂井泉水](../Page/坂井泉水.md "wikilink")歌唱生涯唯一現場演唱會DVD作品。
 
 ## 場次
 
@@ -13,7 +11,7 @@ moment**》是[ZARD出道](../Page/ZARD.md "wikilink")13年來第一次，也是
 | ------------- | ------------------------------------------------------- |
 | 公演日           | 会场                                                      |
 | 2004年3月2日（二）  | 大阪Festival Hall                                         |
-| 2004年3月8日（一）  | [東京國際論壇Hall](../Page/東京國際論壇.md "wikilink") A            |
+| 2004年3月8日（一）  | [東京國際論壇](../Page/東京國際論壇.md "wikilink")Hall A            |
 | 2004年3月9日（二）  | 東京國際論壇Hall A                                            |
 | 2004年4月5日（一）  | 神户国际会馆                                                  |
 | 2004年4月8日（四）  | Pacifco横浜国立大Hall                                        |
@@ -54,19 +52,15 @@ moment**》是[ZARD出道](../Page/ZARD.md "wikilink")13年來第一次，也是
 ## 樂手
 
   - vocal：[坂井泉水](../Page/坂井泉水.md "wikilink")
-  - Electric
-    Guitar：[大賀好修](../Page/大賀好修.md "wikilink")、[綿貫正顕](https://zh.wikipedia.org/wiki/綿貫正顕 "wikilink")、[岡本仁志](https://zh.wikipedia.org/wiki/岡本仁志 "wikilink")
+  - Electric Guitar：[大賀好修](../Page/大賀好修.md "wikilink")、[綿貫正顕](https://zh.wikipedia.org/wiki/綿貫正顕 "wikilink")、[岡本仁志](https://zh.wikipedia.org/wiki/岡本仁志 "wikilink")
   - Bass：[麻井寛史](https://zh.wikipedia.org/wiki/麻井寛史 "wikilink")
   - Keyboards：[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")、[大楠雄藏](https://zh.wikipedia.org/wiki/大楠雄藏 "wikilink")
-  - Acoustic Guitar &
-    Chorus：[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")、[大田紳一郎](../Page/大田紳一郎.md "wikilink")
-  - Chorus：[岡崎雪](https://zh.wikipedia.org/wiki/岡崎雪 "wikilink")、[SATIN
-    DOLL](https://zh.wikipedia.org/wiki/SATIN_DOLL "wikilink")
+  - Acoustic Guitar & Chorus：[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")、[大田紳一郎](../Page/大田紳一郎.md "wikilink")
+  - Chorus：[岡崎雪](https://zh.wikipedia.org/wiki/岡崎雪 "wikilink")、[SATIN DOLL](https://zh.wikipedia.org/wiki/SATIN_DOLL "wikilink")
   - Violin：[高久知也](https://zh.wikipedia.org/wiki/高久知也 "wikilink")
   - Saxophone：[鈴木央紹](../Page/鈴木央紹.md "wikilink")、[勝田一樹](https://zh.wikipedia.org/wiki/勝田一樹 "wikilink")
   - Percussion：[車谷啓介](https://zh.wikipedia.org/wiki/車谷啓介 "wikilink")
-  - Drums：[David C.
-    Brown](https://zh.wikipedia.org/wiki/David_C._Brown "wikilink")
+  - Drums：[David C. Brown](https://zh.wikipedia.org/wiki/David_C._Brown "wikilink")
   - Manipulator：[大藪拓](https://zh.wikipedia.org/wiki/大藪拓 "wikilink")
 
 ## 関連項目
@@ -74,6 +68,4 @@ moment**》是[ZARD出道](../Page/ZARD.md "wikilink")13年來第一次，也是
   - [ZARD](../Page/ZARD.md "wikilink")
   - [坂井泉水](../Page/坂井泉水.md "wikilink")
 
-[Category:ZARD](https://zh.wikipedia.org/wiki/Category:ZARD "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:2004年音樂](https://zh.wikipedia.org/wiki/Category:2004年音樂 "wikilink")
+[Category:ZARD](https://zh.wikipedia.org/wiki/Category:ZARD "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:2004年音樂](https://zh.wikipedia.org/wiki/Category:2004年音樂 "wikilink")

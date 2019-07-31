@@ -1,4 +1,4 @@
-**KOLOR**是[香港一支流行搖滾樂隊](../Page/香港.md "wikilink")，由主音SAMMY（[蘇浩才](../Page/蘇浩才.md "wikilink")）、結他手ROBIN（[羅灝斌](https://zh.wikipedia.org/wiki/羅灝斌 "wikilink")）、低音結他手高豐（[高耀豐](https://zh.wikipedia.org/wiki/高耀豐 "wikilink")）及鼓手MICHAEL（[朱偉初](https://zh.wikipedia.org/wiki/朱偉初 "wikilink")）於2005年組成。高豐於2013年退出KOLOR，而Bass手阿昇（[謝日昇](https://zh.wikipedia.org/wiki/謝日昇 "wikilink")）則後期補上。
+**KOLOR**是[香港](../Page/香港.md "wikilink")一支流行搖滾樂隊，由主音SAMMY（[蘇浩才](../Page/蘇浩才.md "wikilink")）、結他手ROBIN（[羅灝斌](https://zh.wikipedia.org/wiki/羅灝斌 "wikilink")）、低音結他手高豐（[高耀豐](https://zh.wikipedia.org/wiki/高耀豐 "wikilink")）及鼓手MICHAEL（[朱偉初](https://zh.wikipedia.org/wiki/朱偉初 "wikilink")）於2005年組成。高豐於2013年退出KOLOR，而Bass手阿昇（[謝日昇](https://zh.wikipedia.org/wiki/謝日昇 "wikilink")）則後期補上。
 
 ## 成員
 
@@ -10,41 +10,29 @@
 
 ## 簡介
 
-Kolor樂隊的名字取自英文Color，即是“色彩”的意思。當中的「K」是代表樂隊的經理人－[黃家強](../Page/黃家強.md "wikilink")。Kolor由臨記、[Tat
-Flip及](../Page/Tat_Flip.md "wikilink")[Nothing
-None前成員組合而成](https://zh.wikipedia.org/wiki/Nothing_None "wikilink")。他們開始時都玩[搖滾和](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[新金屬為多](../Page/新金屬.md "wikilink")。
+Kolor樂隊的名字取自英文Color，即是“色彩”的意思。當中的「K」是代表樂隊的經理人－[黃家強](../Page/黃家強.md "wikilink")。Kolor由臨記、[Tat Flip及](../Page/Tat_Flip.md "wikilink")[Nothing None前成員組合而成](https://zh.wikipedia.org/wiki/Nothing_None "wikilink")。他們開始時都玩[搖滾和](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[新金屬](../Page/新金屬.md "wikilink")為多。
 
 他們認為，對於音樂的理解和一個畫家，用不同的顏色描繪一幅圖畫，去表達自己的思想與感覺一樣。所以他們的音樂，會以不同的音樂元素去築構而成，求新求變。
 
-前經紀人則為前[Beyond低音吉他手](../Page/Beyond.md "wikilink")[黃家強](../Page/黃家強.md "wikilink")，後來因不和而解除合作關係，及後隨首個音樂會《INDEPENDENCE
-LIVE》正式宣佈獨立。
+前經紀人則為前[Beyond](../Page/Beyond.md "wikilink")低音吉他手[黃家強](../Page/黃家強.md "wikilink")，後來因不和而解除合作關係，及後隨首個音樂會《INDEPENDENCE LIVE》正式宣佈獨立。
 
-2007年7月首度推出同名專輯《[Color](../Page/Color_\(Kolor_專輯\).md "wikilink")》。更於同年年尾奪得《[2007年度叱咤樂壇流行榜頒獎典禮](../Page/2007年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")》「叱咤樂壇生力軍組合
-銅獎」
+2007年7月首度推出同名專輯《[Color](../Page/Color_\(Kolor_專輯\).md "wikilink")》。更於同年年尾奪得《[2007年度叱咤樂壇流行榜頒獎典禮](../Page/2007年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")》「叱咤樂壇生力軍組合 銅獎」
 
-2009年，KOLOR第二張大碟《[Surrealism](https://zh.wikipedia.org/wiki/Surrealism_\(Kolor_專輯\) "wikilink")》面世，收錄熱播作品《圍城》、《愛莫能助》等歌曲，風格亦漸趨成熟，同時獲得更多大型演出的機會。經過多年的努力及累積連串演出經驗後，現為自主製作音樂的KOLOR發表第三張大碟《[Independence](https://zh.wikipedia.org/wiki/Independence "wikilink")》及首個音樂會《INDEPENDENCE
-LIVE》，引起非常正面的迴響。當中《尋因果》及《半首歌》於電台上播放率甚佳，第三主打《對錯》更邀請歌手[盧巧音合作](https://zh.wikipedia.org/wiki/盧巧音 "wikilink")，得到一致好評。
+2009年，KOLOR第二張大碟《[Surrealism](https://zh.wikipedia.org/wiki/Surrealism_\(Kolor_專輯\) "wikilink")》面世，收錄熱播作品《圍城》、《愛莫能助》等歌曲，風格亦漸趨成熟，同時獲得更多大型演出的機會。經過多年的努力及累積連串演出經驗後，現為自主製作音樂的KOLOR發表第三張大碟《[Independence](https://zh.wikipedia.org/wiki/Independence "wikilink")》及首個音樂會《INDEPENDENCE LIVE》，引起非常正面的迴響。當中《尋因果》及《半首歌》於電台上播放率甚佳，第三主打《對錯》更邀請歌手[盧巧音合作](https://zh.wikipedia.org/wiki/盧巧音 "wikilink")，得到一致好評。
 
-自2010年2月14日起，Kolor在官方網頁發佈歌曲《尋因果》。其後每個月的十四日，Kolor就定期在網上發佈全新單曲，而這定律就名為Kolor的《Law
-of 14》，Kolor在2013年6月14日發佈最後一首Law of 14 單曲, 並在7月1日演唱會中宣佈停止Law of 14 。
+自2010年2月14日起，Kolor在官方網頁發佈歌曲《尋因果》。其後每個月的十四日，Kolor就定期在網上發佈全新單曲，而這定律就名為Kolor的《Law of 14》，Kolor在2013年6月14日發佈最後一首Law of 14 單曲, 並在7月1日演唱會中宣佈停止Law of 14 。
 
-2010年12月，KOLOR登陸台灣SIMPLE LIFE音樂會表演，及與HIP HOP組合24
-HERBS合作於[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")（九展）Star
-Hall舉辦《24K音樂會》，並推出第四張專輯《[As Simple
-As](../Page/As_Simple_As.md "wikilink")》。
+2010年12月，KOLOR登陸台灣SIMPLE LIFE音樂會表演，及與HIP HOP組合24 HERBS合作於[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")（九展）Star Hall舉辦《24K音樂會》，並推出第四張專輯《[As Simple As](../Page/As_Simple_As.md "wikilink")》。
 
-2011年3月，Kololr憑《愚公》獲得[香港電台中文歌曲龍虎榜冠軍](../Page/香港電台.md "wikilink")，並計劃於夏天再度舉辦大型音樂會。同年Kolor憑《費城實驗》歷史性首次獲得[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金榜冠軍歌](../Page/勁歌金榜.md "wikilink")；及後《費城實驗》更獲無綫電視改編為該台綜藝節目《[功夫新星](../Page/功夫新星.md "wikilink")》主題曲，Kolor並獲邀主唱該改編後的主題曲。Kolor亦為香港電台電視節目《[正斗中文](../Page/正斗中文.md "wikilink")》翻唱每集粵語歌詞賞析
-(MV) 歌曲。\[1\] \[2\]
+2011年3月，Kololr憑《愚公》獲得[香港電台](../Page/香港電台.md "wikilink")中文歌曲龍虎榜冠軍，並計劃於夏天再度舉辦大型音樂會。同年Kolor憑《費城實驗》歷史性首次獲得[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金榜](../Page/勁歌金榜.md "wikilink")冠軍歌；及後《費城實驗》更獲無綫電視改編為該台綜藝節目《[功夫新星](../Page/功夫新星.md "wikilink")》主題曲，Kolor並獲邀主唱該改編後的主題曲。Kolor亦為香港電台電視節目《[正斗中文](../Page/正斗中文.md "wikilink")》翻唱每集粵語歌詞賞析 (MV) 歌曲。\[1\] \[2\]
 
 2012在九展舉行「Law of 14」演唱會全場爆滿，同年底首次與柏斯管樂團舉行第四次演唱會獲得外界熱烈好評。
 
-2013年7月在[沙田大會堂再次與柏斯管樂團合作舉行演唱會](../Page/沙田大會堂.md "wikilink")，全場爆滿。同年，貝斯手高耀豐離隊，由新成員[謝日昇加入](https://zh.wikipedia.org/wiki/謝日昇 "wikilink")。
+2013年7月在[沙田大會堂](../Page/沙田大會堂.md "wikilink")再次與柏斯管樂團合作舉行演唱會，全場爆滿。同年，貝斯手高耀豐離隊，由新成員[謝日昇加入](https://zh.wikipedia.org/wiki/謝日昇 "wikilink")。
 
-2015年2月13日，Kolor於[旺角麥花臣場館舉行Kollective](https://zh.wikipedia.org/wiki/旺角麥花臣場館 "wikilink")
-Memories 41演唱會，回顧「Law Of 14」41個月的回憶。
+2015年2月13日，Kolor於[旺角麥花臣場館舉行Kollective](https://zh.wikipedia.org/wiki/旺角麥花臣場館 "wikilink") Memories 41演唱會，回顧「Law Of 14」41個月的回憶。
 
-2016年8月12日，Kolor再於旺角麥花臣場館舉行單獨演唱會KOLOR LIVE 2016
-TWISTED。同時會場優先發售同名大碟《TWISTED》，收錄多首新歌，以及重新混音之《修羅之怒》、《生於憂患》及《意志的勝利》。
+2016年8月12日，Kolor再於旺角麥花臣場館舉行單獨演唱會KOLOR LIVE 2016 TWISTED。同時會場優先發售同名大碟《TWISTED》，收錄多首新歌，以及重新混音之《修羅之怒》、《生於憂患》及《意志的勝利》。
 
 ## 專輯
 
@@ -337,9 +325,7 @@ TWISTED。同時會場優先發售同名大碟《TWISTED》，收錄多首新歌
 
   -
   -
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink")
-[Category:Kolor](https://zh.wikipedia.org/wiki/Category:Kolor "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink") [Category:Kolor](https://zh.wikipedia.org/wiki/Category:Kolor "wikilink")
 
 1.  [正斗中文 - Kolor版 張氏情歌](http://www.youtube.com/watch?v=9BT7hqWmTmk)
 2.  [正斗中文 - Kolor版 青春痘](http://www.youtube.com/watch?v=GA2pFb8DRVA)

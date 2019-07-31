@@ -6,8 +6,7 @@ Travianer目前只有兩種[語言](../Page/語言.md "wikilink")，分別是[�
 
 ## 故事大綱
 
-很久很久以前，在一片世外桃源，正在砍樹挖泥時，收到了從未謀面的[叔叔的來信](https://zh.wikipedia.org/wiki/叔叔 "wikilink")，他說要留下一套[房子](https://zh.wikipedia.org/wiki/房子 "wikilink")。
-找到[叔叔](https://zh.wikipedia.org/wiki/叔叔 "wikilink")，卻發現，我得到的不僅是一個[房子](https://zh.wikipedia.org/wiki/房子 "wikilink")，還有一個[詛咒](../Page/詛咒.md "wikilink")......
+很久很久以前，在一片世外桃源，正在砍樹挖泥時，收到了從未謀面的[叔叔的來信](https://zh.wikipedia.org/wiki/叔叔 "wikilink")，他說要留下一套[房子](https://zh.wikipedia.org/wiki/房子 "wikilink")。 找到[叔叔](https://zh.wikipedia.org/wiki/叔叔 "wikilink")，卻發現，我得到的不僅是一個[房子](https://zh.wikipedia.org/wiki/房子 "wikilink")，還有一個[詛咒](../Page/詛咒.md "wikilink")......
 
 原來，[叔叔在很久以前](https://zh.wikipedia.org/wiki/叔叔 "wikilink")，與一個德魯伊拼酒，那個德魯伊慘敗，他懷恨在心，就給我們家人下了一個[詛咒](../Page/詛咒.md "wikilink")：我們都會老得很快。唯一可以拯救我們的是一個[護身符](https://zh.wikipedia.org/wiki/護身符 "wikilink")。然而這個[護身符也神秘失蹤了](https://zh.wikipedia.org/wiki/護身符 "wikilink")。[叔叔由於常年酗酒](https://zh.wikipedia.org/wiki/叔叔 "wikilink")，記憶力很不好，他想不起來[護身符到哪裡去了](https://zh.wikipedia.org/wiki/護身符 "wikilink")......
 
@@ -39,8 +38,7 @@ Travianer目前只有兩種[語言](../Page/語言.md "wikilink")，分別是[�
   - SP──SP是[社會點數](https://zh.wikipedia.org/wiki/社會 "wikilink")。打工，下棋都可以增加SP。SP可以用來購買[傢具和房子](https://zh.wikipedia.org/wiki/傢具 "wikilink")。
   - OP──OP是[職業](../Page/職業.md "wikilink")點數。從事任何[職業](../Page/職業.md "wikilink")都會消耗OP。OP用完，就不能再作任何工作了。每消耗一個OP，會產生一個AP。
   - XP──XP是[經驗值](https://zh.wikipedia.org/wiki/經驗 "wikilink")。所有的行為都可以增加[經驗值](https://zh.wikipedia.org/wiki/經驗 "wikilink")，包括砍樹挖泥、在[酒館刷盤子](https://zh.wikipedia.org/wiki/酒館 "wikilink")、[圖書館看書](https://zh.wikipedia.org/wiki/圖書館 "wikilink")、和[競技場比武等都可以獲得](https://zh.wikipedia.org/wiki/競技場 "wikilink")[經驗值](https://zh.wikipedia.org/wiki/經驗 "wikilink")。
-  - 錢──錢是你在[市場上賣掉](https://zh.wikipedia.org/wiki/市場 "wikilink")[工作所得的](https://zh.wikipedia.org/wiki/工作 "wikilink")[木頭](https://zh.wikipedia.org/wiki/木 "wikilink")、[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")、[泥](../Page/泥.md "wikilink")等的收入。然後用這些錢可以[購買](https://zh.wikipedia.org/wiki/購買 "wikilink")[工具](../Page/工具.md "wikilink")、[裝備](https://zh.wikipedia.org/wiki/裝備 "wikilink")、和[武器](../Page/武器.md "wikilink")。（1個金幣
-    = 100銀幣= 10000銅幣）
+  - 錢──錢是你在[市場上賣掉](https://zh.wikipedia.org/wiki/市場 "wikilink")[工作所得的](https://zh.wikipedia.org/wiki/工作 "wikilink")[木頭](https://zh.wikipedia.org/wiki/木 "wikilink")、[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")、[泥](../Page/泥.md "wikilink")等的收入。然後用這些錢可以[購買](https://zh.wikipedia.org/wiki/購買 "wikilink")[工具](../Page/工具.md "wikilink")、[裝備](https://zh.wikipedia.org/wiki/裝備 "wikilink")、和[武器](../Page/武器.md "wikilink")。（1個金幣 = 100銀幣= 10000銅幣）
   - [技能點](https://zh.wikipedia.org/wiki/技能 "wikilink")──[技能點可以用來提高](https://zh.wikipedia.org/wiki/技能 "wikilink")[職業](../Page/職業.md "wikilink")[級別或者](https://zh.wikipedia.org/wiki/級別 "wikilink")[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")[技能](https://zh.wikipedia.org/wiki/技能 "wikilink")。
 
 ## 地理
@@ -79,8 +77,7 @@ Travianer目前只有兩種[語言](../Page/語言.md "wikilink")，分別是[�
 
 Diamonds是**Travianer**的附加[服務](https://zh.wikipedia.org/wiki/服務 "wikilink")，需要以[現金購買](https://zh.wikipedia.org/wiki/現金 "wikilink")[遊戲內的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")「[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")」。[註冊後](https://zh.wikipedia.org/wiki/註冊 "wikilink")，就可以獲得35個[免費](https://zh.wikipedia.org/wiki/免費 "wikilink")[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")。
 
-  - 7天內加入金幣[俱樂部](../Page/俱樂部.md "wikilink")（7 days membership in the
-    Gold Club）──15[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
+  - 7天內加入金幣[俱樂部](../Page/俱樂部.md "wikilink")（7 days membership in the Gold Club）──15[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
   - 更改[職業](../Page/職業.md "wikilink")──30[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
   - 重新[職業](../Page/職業.md "wikilink")和重新分配屬性點──50[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
   - 購買便宜的[資源](https://zh.wikipedia.org/wiki/資源 "wikilink")──3[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")
@@ -101,9 +98,6 @@ Diamonds是**Travianer**的附加[服務](https://zh.wikipedia.org/wiki/服務 "
   - [Travianer.de - 德文官方網頁](http://www.travianer.de/)
   - [Travians.com/vbb - 英文官方遊戲論壇網頁](http://www.travians.com/vbb/)
   - [Travianer.de/vbb - 德文官方遊戲論壇網頁](http://www.travianer.de/vbb/)
-  - [Travianer
-    遊戲指南（英）](http://www.travians.com/AnleitungTravianer_en.pdf/)
+  - [Travianer 遊戲指南（英）](http://www.travians.com/AnleitungTravianer_en.pdf/)
 
-[Category:浏览器遊戲](https://zh.wikipedia.org/wiki/Category:浏览器遊戲 "wikilink")
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
+[Category:浏览器遊戲](https://zh.wikipedia.org/wiki/Category:浏览器遊戲 "wikilink") [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")

@@ -1,20 +1,12 @@
-[UART_8250_Microchip.jpg](https://zh.wikipedia.org/wiki/File:UART_8250_Microchip.jpg "fig:UART_8250_Microchip.jpg")上的UART晶片8250\]\]
-**通用非同步收发传输器**（Universal Asynchronous
-Receiver/Transmitter，通常称为**UART**）是一种[异步收發傳輸器](../Page/异步串行通信.md "wikilink")，是[电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")[硬件的一部分](../Page/硬件.md "wikilink")，將数据通过[串行通信和](../Page/串行通信.md "wikilink")[並行通信间作传输转换](https://zh.wikipedia.org/wiki/並行通信 "wikilink")。UART通常用在与其他通信接口（如[EIA](https://zh.wikipedia.org/wiki/電子工業聯盟 "wikilink")
-[RS-232](https://zh.wikipedia.org/wiki/RS-232 "wikilink")）的连接上。
+[UART_8250_Microchip.jpg](https://zh.wikipedia.org/wiki/File:UART_8250_Microchip.jpg "fig:UART_8250_Microchip.jpg")上的UART晶片8250\]\] **通用非同步收发传输器**（Universal Asynchronous Receiver/Transmitter，通常称为**UART**）是一种[异步收發傳輸器](../Page/异步串行通信.md "wikilink")，是[电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")[硬件](../Page/硬件.md "wikilink")的一部分，將数据通过[串行通信](../Page/串行通信.md "wikilink")和[並行通信间作传输转换](https://zh.wikipedia.org/wiki/並行通信 "wikilink")。UART通常用在与其他通信接口（如[EIA](https://zh.wikipedia.org/wiki/電子工業聯盟 "wikilink") [RS-232](https://zh.wikipedia.org/wiki/RS-232 "wikilink")）的连接上。
 
-具体实物表现为独立的模組化芯片，或是微处理器中的內部周边裝置(peripheral)。一般和RS-232C规格的，类似[Maxim的MAX](https://zh.wikipedia.org/wiki/Maxim "wikilink")232之类的标准信号幅度变换芯片进行搭配，作为连接外部设备的接口。在UART上追加同步方式的序列信号变换电路的产品，被称为USART(Universal
-Synchronous Asynchronous Receiver Transmitter)。
+具体实物表现为独立的模組化芯片，或是微处理器中的內部周边裝置(peripheral)。一般和RS-232C规格的，类似[Maxim的MAX](https://zh.wikipedia.org/wiki/Maxim "wikilink")232之类的标准信号幅度变换芯片进行搭配，作为连接外部设备的接口。在UART上追加同步方式的序列信号变换电路的产品，被称为USART(Universal Synchronous Asynchronous Receiver Transmitter)。
 
 ## 功能
 
 在手机设计和测试阶段被用来控制CPU与其余部分的訊息传送
 
-UART是通用异步收发器（异步串行通信口）的英文缩写，它包括了[RS232](https://zh.wikipedia.org/wiki/RS232 "wikilink")、[RS449](https://zh.wikipedia.org/wiki/RS449 "wikilink")、[RS423](https://zh.wikipedia.org/wiki/RS423 "wikilink")、[RS422和](https://zh.wikipedia.org/wiki/RS422 "wikilink")[RS485等接口标准规范和总线标准规范](https://zh.wikipedia.org/wiki/RS485 "wikilink")，即UART是异步串行通信口的总称。而RS232、RS449、RS423、RS422和RS485等，是对应各种异步串行通信口的接口标准和总线标准，它规定了通信口的电气特性、传输速率、连接特性和接口的机械特性等内容。实际上是属于通信网络中的[實體層](https://zh.wikipedia.org/wiki/實體層 "wikilink")（Physical
-Layer）的概念，与通信协议没有直接关系。而通信协议，是属于通信网络中的[資料鏈結層](https://zh.wikipedia.org/wiki/資料鏈結層 "wikilink")（Data
-Link
-Layer）的概念。COM是PC（个人计算机）上，异步串行通信口的简写。由于历史原因，IBM的PC外部接口配置为RS232，成为实际上的PC界默认标准。所以，现在PC机的COM均为RS232。若配有多个异步串行通信口，则分别称为COM1、COM2...
-。
+UART是通用异步收发器（异步串行通信口）的英文缩写，它包括了[RS232](https://zh.wikipedia.org/wiki/RS232 "wikilink")、[RS449](https://zh.wikipedia.org/wiki/RS449 "wikilink")、[RS423](https://zh.wikipedia.org/wiki/RS423 "wikilink")、[RS422和](https://zh.wikipedia.org/wiki/RS422 "wikilink")[RS485等接口标准规范和总线标准规范](https://zh.wikipedia.org/wiki/RS485 "wikilink")，即UART是异步串行通信口的总称。而RS232、RS449、RS423、RS422和RS485等，是对应各种异步串行通信口的接口标准和总线标准，它规定了通信口的电气特性、传输速率、连接特性和接口的机械特性等内容。实际上是属于通信网络中的[實體層](https://zh.wikipedia.org/wiki/實體層 "wikilink")（Physical Layer）的概念，与通信协议没有直接关系。而通信协议，是属于通信网络中的[資料鏈結層](https://zh.wikipedia.org/wiki/資料鏈結層 "wikilink")（Data Link Layer）的概念。COM是PC（个人计算机）上，异步串行通信口的简写。由于历史原因，IBM的PC外部接口配置为RS232，成为实际上的PC界默认标准。所以，现在PC机的COM均为RS232。若配有多个异步串行通信口，则分别称为COM1、COM2... 。
 
 ## 原理
 
@@ -28,8 +20,7 @@ UART通常并不直接产生或接收其他设备的外部信号。独立接口�
 
 [UART_timing_diagram.svg](https://zh.wikipedia.org/wiki/File:UART_timing_diagram.svg "fig:UART_timing_diagram.svg")
 
-空闲状态，即没有数据传输，是高电平。这是从（有线）电报时代的历史遗存。线路保持高电平表明線路与传输设备没有损坏。每个字符表示为一个帧，以逻辑低电平为开始比特，然后是数据比特，可选的奇偶校验比特，最后是一个或多个停止比特（逻辑高电平）。大部分应用都是先传最低位的数据比特（the
-least significant data bit），但也有例外（如打印终端）。
+空闲状态，即没有数据传输，是高电平。这是从（有线）电报时代的历史遗存。线路保持高电平表明線路与传输设备没有损坏。每个字符表示为一个帧，以逻辑低电平为开始比特，然后是数据比特，可选的奇偶校验比特，最后是一个或多个停止比特（逻辑高电平）。大部分应用都是先传最低位的数据比特（the least significant data bit），但也有例外（如打印终端）。
 
 如果线路长期（至少大于传输一帧的时间）保持低电平，这被UART检测为Break condition.
 
@@ -156,24 +147,15 @@ UART把一个字符放入移位寄存器，就开始产生一个数据帧。对�
 
 ## 外部連結
 
-  - [16550D
-    UART的Datasheet](https://web.archive.org/web/20080613095627/http://www.national.com/ds/PC/PC16550D.pdf)
+  - [16550D UART的Datasheet](https://web.archive.org/web/20080613095627/http://www.national.com/ds/PC/PC16550D.pdf)
 
-  - [Freebsd
-    Tutorials](http://www.freebsd.org/doc/en_US.ISO8859-1/articles/serial-uart/)
-    (includes standard signal definitions, history of UART ICs, and
-    pinout for commonly used DB25 connector)
+  - [Freebsd Tutorials](http://www.freebsd.org/doc/en_US.ISO8859-1/articles/serial-uart/) (includes standard signal definitions, history of UART ICs, and pinout for commonly used DB25 connector)
 
-  - [UART Tutorial for
-    Robotics](http://www.societyofrobots.com/microcontroller_uart.shtml)
-    (contains many practical examples)
+  - [UART Tutorial for Robotics](http://www.societyofrobots.com/microcontroller_uart.shtml) (contains many practical examples)
 
 [Category:資料傳輸](https://zh.wikipedia.org/wiki/Category:資料傳輸 "wikilink")
 
-1.  Adam Osborne, *An Introduction to Microcomputers Volume 1: Basic
-    Concepts*, Osborne-McGraw Hill Berkeley California USA, 1980  pp.
-    116–126
+1.  Adam Osborne, *An Introduction to Microcomputers Volume 1: Basic Concepts*, Osborne-McGraw Hill Berkeley California USA, 1980  pp. 116–126
 2.   090529 zilog.com
-3.  [Intel 8251A
-    datasheet](http://map.grauw.nl/resources/midi/intel_8251.pdf)
+3.  [Intel 8251A datasheet](http://map.grauw.nl/resources/midi/intel_8251.pdf)
 4.   090529 cs.utk.edu

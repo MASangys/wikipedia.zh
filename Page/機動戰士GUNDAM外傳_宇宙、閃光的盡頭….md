@@ -1,5 +1,4 @@
-是[GUNDAM遊戲系列作品中以遊戲形式推出高達外傳的第三作](../Page/GUNDAM系列作品.md "wikilink")，原本是以[PS2正傳遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《[機動戰士GUNDAM
-宇宙相逢篇](../Page/機動戰士GUNDAM.md "wikilink")》的外傳故事，後來獨立分開發售的正式外傳故事。
+是[GUNDAM遊戲系列作品中以遊戲形式推出高達外傳的第三作](../Page/GUNDAM系列作品.md "wikilink")，原本是以[PS2正傳遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《[機動戰士GUNDAM 宇宙相逢篇](../Page/機動戰士GUNDAM.md "wikilink")》的外傳故事，後來獨立分開發售的正式外傳故事。
 
 ## 故事背景
 
@@ -9,13 +8,9 @@
 
 ## 作品解說
 
-[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《[機動戰士鋼彈
-宇宙相逢篇](https://zh.wikipedia.org/wiki/機動戰士鋼彈_宇宙相逢篇 "wikilink")》是同名高達[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[機動戰士GUNDAM
-宇宙相逢篇](../Page/機動戰士GUNDAM.md "wikilink")III》遊戲化的作品。再現電影的故事形式之外，又加上作為遊戲的原創故事以外傳故事方式收錄的作品。到現在為止的機動戰士高達外傳系列是完全新作原創故事。本作品[BANDAI發行的雜誌](https://zh.wikipedia.org/wiki/BANDAI "wikilink")「SD俱樂部」連載的規劃『[大河原邦男](../Page/大河原邦男.md "wikilink")收集系列』（機動戰士收集系列、M-MSV），而且附帶的小說《機動戰士收集系列小說》把第三幕〈阿·巴瓦·空攻防戰〉作為原作參考。
+[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《[機動戰士鋼彈 宇宙相逢篇](https://zh.wikipedia.org/wiki/機動戰士鋼彈_宇宙相逢篇 "wikilink")》是同名高達[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[機動戰士GUNDAM 宇宙相逢篇](../Page/機動戰士GUNDAM.md "wikilink")III》遊戲化的作品。再現電影的故事形式之外，又加上作為遊戲的原創故事以外傳故事方式收錄的作品。到現在為止的機動戰士高達外傳系列是完全新作原創故事。本作品[BANDAI發行的雜誌](https://zh.wikipedia.org/wiki/BANDAI "wikilink")「SD俱樂部」連載的規劃『[大河原邦男](../Page/大河原邦男.md "wikilink")收集系列』（機動戰士收集系列、M-MSV），而且附帶的小說《機動戰士收集系列小說》把第三幕〈阿·巴瓦·空攻防戰〉作為原作參考。
 
-同時，本作以前的機動戰士高達外傳系列都作為外傳獨立形式的遊戲發售，以作為按遊戲內的輔助故事附隨的形式被發表的本作品成為第一次。但機動戰士高達外傳系列，如果也有把[Super
-Famicon的遊戲](https://zh.wikipedia.org/wiki/Super_Famicon "wikilink")「機動戰士高達
-CROSS DIMENSION 0079」收錄「對死去的人們祈禱」列為正傳遊戲包含外傳第一個作品的故事，本作就列為第二。
+同時，本作以前的機動戰士高達外傳系列都作為外傳獨立形式的遊戲發售，以作為按遊戲內的輔助故事附隨的形式被發表的本作品成為第一次。但機動戰士高達外傳系列，如果也有把[Super Famicon的遊戲](https://zh.wikipedia.org/wiki/Super_Famicon "wikilink")「機動戰士高達 CROSS DIMENSION 0079」收錄「對死去的人們祈禱」列為正傳遊戲包含外傳第一個作品的故事，本作就列為第二。
 
 作為主役的機動戰士高達4號機和高達5號機的商品推銷，為遊戲的發售前後以[鋼普拉和](https://zh.wikipedia.org/wiki/鋼普拉 "wikilink")[手辦等各種各樣的商品發售](https://zh.wikipedia.org/wiki/手辦 "wikilink")。
 
@@ -104,8 +99,7 @@ CROSS DIMENSION 0079」收錄「對死去的人們祈禱」列為正傳遊戲包
 <!-- end list -->
 
   -
-    24歳。[自護公國上尉](../Page/吉翁公國.md "wikilink")。對自己的戰鬥能力有著絕大的自信，就算對自己的上司，也還是說著「我只是為勝利而戰」，是個具有崇高榮譽心的人。在笫3話中登場，他駕駛著最新銳機種[機動戰士MS](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")-11
-    ACT渣古，率領著3名部下急襲第16獨立部隊。並與弗特．羅姆菲洛展開一場激戰，當中與弗特．羅姆菲洛的最後一戰不敵戰死。
+    24歳。[自護公國上尉](../Page/吉翁公國.md "wikilink")。對自己的戰鬥能力有著絕大的自信，就算對自己的上司，也還是說著「我只是為勝利而戰」，是個具有崇高榮譽心的人。在笫3話中登場，他駕駛著最新銳機種[機動戰士MS](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")-11 ACT渣古，率領著3名部下急襲第16獨立部隊。並與弗特．羅姆菲洛展開一場激戰，當中與弗特．羅姆菲洛的最後一戰不敵戰死。
 
 <!-- end list -->
 
@@ -159,8 +153,7 @@ CROSS DIMENSION 0079」收錄「對死去的人們祈禱」列為正傳遊戲包
 <!-- end list -->
 
   -
-    漫畫版登場，在[機動戰士GUNDAM戰記 Lost War
-    Chronicles登場](../Page/機動戰士GUNDAM戰記_Lost_War_Chronicles.md "wikilink")，為了返回自護本國，停泊在格拉那達。此後參加阿·巴瓦·空攻防戰，那個時候搭乘[格魯古古參戰](https://zh.wikipedia.org/wiki/MS-14系列機動戰士 "wikilink")。
+    漫畫版登場，在[機動戰士GUNDAM戰記 Lost War Chronicles登場](../Page/機動戰士GUNDAM戰記_Lost_War_Chronicles.md "wikilink")，為了返回自護本國，停泊在格拉那達。此後參加阿·巴瓦·空攻防戰，那個時候搭乘[格魯古古參戰](https://zh.wikipedia.org/wiki/MS-14系列機動戰士 "wikilink")。
 
 ### 其他
 
@@ -264,8 +257,7 @@ CROSS DIMENSION 0079」收錄「對死去的人們祈禱」列為正傳遊戲包
 
   - 有關if編的故事
 
-由於遊戲有不同的結局，在[夏元雅人](../Page/夏元雅人.md "wikilink")在繪畫單行本第2卷的時候就採用的是普通路綫的結局，即是高達4號機爆炸魯斯．克塞爾陣亡，弗特．羅姆菲洛生存的一般結局。以魯斯．克塞爾和弗特．羅姆菲洛兩人皆存活的Happy
-Ending路綫，由於劇情也挺充實，所以[夏元雅人](../Page/夏元雅人.md "wikilink")在漫畫裹也保留了下來，加入了單行本第3卷if編。
+由於遊戲有不同的結局，在[夏元雅人](../Page/夏元雅人.md "wikilink")在繪畫單行本第2卷的時候就採用的是普通路綫的結局，即是高達4號機爆炸魯斯．克塞爾陣亡，弗特．羅姆菲洛生存的一般結局。以魯斯．克塞爾和弗特．羅姆菲洛兩人皆存活的Happy Ending路綫，由於劇情也挺充實，所以[夏元雅人](../Page/夏元雅人.md "wikilink")在漫畫裹也保留了下來，加入了單行本第3卷if編。
 
 ## 相關作品
 
@@ -273,12 +265,6 @@ Ending路綫，由於劇情也挺充實，所以[夏元雅人](../Page/夏元雅
 
 ## 外部連結
 
-  - [PS2機動戰士GUNDAM
-    相逄在宇宙官方網站](http://www.bandaigames.channel.or.jp/list/ps2_gundam-sora/)
+  - [PS2機動戰士GUNDAM 相逄在宇宙官方網站](http://www.bandaigames.channel.or.jp/list/ps2_gundam-sora/)
 
-[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink")
-[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink")
-[Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")
+[Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:日本科幻小說](https://zh.wikipedia.org/wiki/Category:日本科幻小說 "wikilink")

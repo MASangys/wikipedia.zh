@@ -1,5 +1,4 @@
-《**Live For
-Today**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2003年7月22日正式發行。
+《**Live For Today**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2003年7月22日正式發行。
 
 ## 專輯簡介
 
@@ -39,25 +38,19 @@ Today**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 
 ### 專輯《Live For Today》
 
-  - 2003年度[百事音樂風雲榜](https://zh.wikipedia.org/wiki/音乐风云榜 "wikilink") -
-    年度粵語最佳專輯
-  - 2003年度[明周演藝動力大獎](https://zh.wikipedia.org/wiki/明周演藝動力大獎 "wikilink")
-    - 最突出唱片
+  - 2003年度[百事音樂風雲榜](https://zh.wikipedia.org/wiki/音乐风云榜 "wikilink") - 年度粵語最佳專輯
+  - 2003年度[明周演藝動力大獎](https://zh.wikipedia.org/wiki/明周演藝動力大獎 "wikilink") - 最突出唱片
   - [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[2004年度音樂風雲榜頒獎盛典](../Page/2004年度音樂風雲榜頒獎盛典得獎名單.md "wikilink")－粵語年度最佳專輯
 
 ### 歌曲《十面埋伏》
 
   - [2003年度勁歌金曲季選](../Page/勁歌金曲優秀選.md "wikilink") - 第二季金曲
   - 2003年度[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink") - 勁爆歌曲大獎
-  - 2003年度[叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")
-    - 專業推介 叱吒十大（第三位）
-  - 2003年度[十大勁歌金曲頒獎禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎禮 "wikilink")
-    - 十大勁歌金曲
-  - 第二十六屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink")
-    - 十大中文金曲
+  - 2003年度[叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink") - 專業推介 叱吒十大（第三位）
+  - 2003年度[十大勁歌金曲頒獎禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎禮 "wikilink") - 十大勁歌金曲
+  - 第二十六屆[十大中文金曲頒獎禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎禮 "wikilink") - 十大中文金曲
   - [四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")2003 - 歌曲獎
-  - 2003年度[CASH金帆音樂頒獎禮](https://zh.wikipedia.org/wiki/CASH金帆音樂頒獎禮 "wikilink")
-    - 最佳流行歌曲
+  - 2003年度[CASH金帆音樂頒獎禮](https://zh.wikipedia.org/wiki/CASH金帆音樂頒獎禮 "wikilink") - 最佳流行歌曲
   - 2003年度勁歌王總選頒獎典禮 - 粵語金曲獎
   - 2003年度馬來西亞金曲紅人頒獎禮 - 十大金曲獎
   - 北京2004年度音樂風雲榜頒獎盛典－粵語年度最佳作詞
@@ -70,10 +63,6 @@ Today**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 
 ## 外部連結
 
-  - [英皇娛樂Youtube
-    頻道：《那天當陳奕迅遇上陳海琪》特輯](http://www.youtube.com/watch?v=6nknt4rDKP0)
+  - [英皇娛樂Youtube 頻道：《那天當陳奕迅遇上陳海琪》特輯](http://www.youtube.com/watch?v=6nknt4rDKP0)
 
-[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink")
-[Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
+[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink") [Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")

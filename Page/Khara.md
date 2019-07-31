@@ -17,45 +17,24 @@ khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与
   - [福音战士新剧场版系列](https://zh.wikipedia.org/wiki/福音战士新剧场版 "wikilink")
       - 前篇 [福音戰士新劇場版：序](../Page/福音戰士新劇場版：序.md "wikilink")（2007年9月1日上映）
       - 中篇 [福音戰士新劇場版：破](../Page/福音戰士新劇場版：破.md "wikilink")（2009年6月27日上映）
-      - 后篇
-        [福音战士新剧场版：Q](https://zh.wikipedia.org/wiki/福音战士新剧场版：Q "wikilink")（2012年11月17日上映）
-      - 完结篇
-        [福音战士新剧场版：│▌](https://zh.wikipedia.org/wiki/福音战士新剧场版：│▌ "wikilink")（製作中）
-  - 剧场电影
-    [监督失格](https://zh.wikipedia.org/wiki/监督失格 "wikilink")（監督：[平野勝之](https://zh.wikipedia.org/wiki/平野勝之 "wikilink")）
-    - 共同製作（2011年公開）
-  - 漫画 [新世紀福音战士](https://zh.wikipedia.org/wiki/新世紀福音战士 "wikilink")
-    （[貞本義行](https://zh.wikipedia.org/wiki/貞本義行 "wikilink")） -
-    原作
-  - 漫画
-    [新世纪福音战士：碇真嗣育成计划](https://zh.wikipedia.org/wiki/新世纪福音战士：碇真嗣育成计划_\(漫画\) "wikilink")（[高橋脩](../Page/高橋脩.md "wikilink")）
-    - 原作
-  - 漫画 [新世紀福音戰士
-    學園墮天錄](https://zh.wikipedia.org/wiki/新世紀福音戰士_學園墮天錄 "wikilink")
-    （[眠民](https://zh.wikipedia.org/wiki/眠民 "wikilink")） - 原作
-  - 小説《[新世纪福音战士
-    ANIMA](https://zh.wikipedia.org/wiki/新世纪福音战士_ANIMA "wikilink")》（[山下いくと](https://zh.wikipedia.org/wiki/山下いくと "wikilink")・[陰山琢磨](https://zh.wikipedia.org/wiki/陰山琢磨 "wikilink")）
-    - 原作
+      - 后篇 [福音战士新剧场版：Q](https://zh.wikipedia.org/wiki/福音战士新剧场版：Q "wikilink")（2012年11月17日上映）
+      - 完结篇 [福音战士新剧场版：│▌](https://zh.wikipedia.org/wiki/福音战士新剧场版：│▌ "wikilink")（製作中）
+  - 剧场电影 [监督失格](https://zh.wikipedia.org/wiki/监督失格 "wikilink")（監督：[平野勝之](https://zh.wikipedia.org/wiki/平野勝之 "wikilink")） - 共同製作（2011年公開）
+  - 漫画 [新世紀福音战士](https://zh.wikipedia.org/wiki/新世紀福音战士 "wikilink") （[貞本義行](https://zh.wikipedia.org/wiki/貞本義行 "wikilink")） - 原作
+  - 漫画 [新世纪福音战士：碇真嗣育成计划](https://zh.wikipedia.org/wiki/新世纪福音战士：碇真嗣育成计划_\(漫画\) "wikilink")（[高橋脩](../Page/高橋脩.md "wikilink")） - 原作
+  - 漫画 [新世紀福音戰士 學園墮天錄](https://zh.wikipedia.org/wiki/新世紀福音戰士_學園墮天錄 "wikilink") （[眠民](https://zh.wikipedia.org/wiki/眠民 "wikilink")） - 原作
+  - 小説《[新世纪福音战士 ANIMA](https://zh.wikipedia.org/wiki/新世纪福音战士_ANIMA "wikilink")》（[山下いくと](https://zh.wikipedia.org/wiki/山下いくと "wikilink")・[陰山琢磨](https://zh.wikipedia.org/wiki/陰山琢磨 "wikilink")） - 原作
   - 漫画 [ぷちえヴぁ〜EVANGELION@SCHOOL〜](../Page/福音小戰士.md "wikilink")（原作）\[4\]
   - 动画 [ぷちえヴぁ〜EVANGELION@SCHOOL〜](../Page/福音小戰士.md "wikilink")（监修）\[5\]
 
 ### 协力制作
 
-  - 动画电影 [崖上的波妞](../Page/崖上的波妞.md "wikilink") -
-    制作协力（2008年・[吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")）
-  - 动画电影 [剧场版 机动战士鋼彈00 -A wakening of the
-    Trailblazer-](https://zh.wikipedia.org/wiki/剧场版_机动战士鋼彈00_-A_wakening_of_the_Trailblazer- "wikilink")
-    （2010年・[日升动画](https://zh.wikipedia.org/wiki/日升动画 "wikilink")）
+  - 动画电影 [崖上的波妞](../Page/崖上的波妞.md "wikilink") - 制作协力（2008年・[吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")）
+  - 动画电影 [剧场版 机动战士鋼彈00 -A wakening of the Trailblazer-](https://zh.wikipedia.org/wiki/剧场版_机动战士鋼彈00_-A_wakening_of_the_Trailblazer- "wikilink") （2010年・[日升动画](https://zh.wikipedia.org/wiki/日升动画 "wikilink")）
   - 动画电影  （2011年・BigWest）
-  - [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")
-    [机动战士鋼彈UC](https://zh.wikipedia.org/wiki/机动战士鋼彈UC "wikilink")
-    episode 3
-    （2011年・[日升动画](https://zh.wikipedia.org/wiki/日升动画 "wikilink")）
-  - 动画电影 [攻壳机动队 S.A.C. Solid State Society
-    3D](../Page/攻壳机动队_S.A.C._Solid_State_Society.md "wikilink")（2011年・[Production
-    I.G](../Page/Production_I.G.md "wikilink")）
-  - 动画电影
-    [来自虞美人之坡](https://zh.wikipedia.org/wiki/来自虞美人之坡 "wikilink")（2011年・吉卜力工作室）
+  - [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink") [机动战士鋼彈UC](https://zh.wikipedia.org/wiki/机动战士鋼彈UC "wikilink") episode 3 （2011年・[日升动画](https://zh.wikipedia.org/wiki/日升动画 "wikilink")）
+  - 动画电影 [攻壳机动队 S.A.C. Solid State Society 3D](../Page/攻壳机动队_S.A.C._Solid_State_Society.md "wikilink")（2011年・[Production I.G](../Page/Production_I.G.md "wikilink")）
+  - 动画电影 [来自虞美人之坡](https://zh.wikipedia.org/wiki/来自虞美人之坡 "wikilink")（2011年・吉卜力工作室）
 
 ## 相关人物
 
@@ -126,16 +105,10 @@ khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与
 
   - [福音战士新剧场版官方网站](http://www.evangelion.co.jp/)
 
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
-[Category:日本动画工作室](https://zh.wikipedia.org/wiki/Category:日本动画工作室 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:Khara](https://zh.wikipedia.org/wiki/Category:Khara "wikilink")
+[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink") [Category:日本动画工作室](https://zh.wikipedia.org/wiki/Category:日本动画工作室 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:Khara](https://zh.wikipedia.org/wiki/Category:Khara "wikilink")
 
 1.  [](http://www.khara.co.jp/info/)
-2.  [Hideaki Anno Releases Statement About New Evangelion Movies - Anime
-    News
-    Network](http://www.animenewsnetwork.com/news/2007-02-20/hideaki-anno-releases-statement-about-new-evangelion-movies)
-3.  [ヱヴァンゲリヲン新劇場版制作日誌](https://web.archive.org/web/20071011210259/http://eva.yahoo.co.jp/gekijou/01.html)
-    2007年2月12日（参照[互联网档案馆](../Page/互联网档案馆.md "wikilink")）
+2.  [Hideaki Anno Releases Statement About New Evangelion Movies - Anime News Network](http://www.animenewsnetwork.com/news/2007-02-20/hideaki-anno-releases-statement-about-new-evangelion-movies)
+3.  [ヱヴァンゲリヲン新劇場版制作日誌](https://web.archive.org/web/20071011210259/http://eva.yahoo.co.jp/gekijou/01.html) 2007年2月12日（参照[互联网档案馆](../Page/互联网档案馆.md "wikilink")）
 4.  [](http://www.bk1.jp/isbn/9784047151000)
 5.  [](http://www.evangelion.co.jp/petit_eva/)

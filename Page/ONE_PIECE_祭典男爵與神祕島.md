@@ -1,5 +1,4 @@
-**《ONE PIECE 祭典男爵與神祕島》**是於2005年上映的第六部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
+**《ONE PIECE 祭典男爵與神祕島》**是於2005年上映的第六部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情
 
@@ -155,12 +154,8 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 ## 外部連結
 
   - [官方網站](http://www.toei-anim.co.jp/movie/2005_onepiece/)
-  - [WEBアニメスタイル『ONE PIECE
-    ―オマツリ男爵と秘密の島―』細田守インタビュー](http://www.style.fm/as/13_special/mini_050815.shtml)
+  - [WEBアニメスタイル『ONE PIECE ―オマツリ男爵と秘密の島―』細田守インタビュー](http://www.style.fm/as/13_special/mini_050815.shtml)
 
-[ru:Список анимационных фильмов о One Piece\#Фильм
-шестой](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_шестой "wikilink")
+[ru:Список анимационных фильмов о One Piece\#Фильм шестой](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_шестой "wikilink")
 
-[Category:細田守電影](https://zh.wikipedia.org/wiki/Category:細田守電影 "wikilink")
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2005年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2005年日本劇場動畫 "wikilink")
+[Category:細田守電影](https://zh.wikipedia.org/wiki/Category:細田守電影 "wikilink") [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2005年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2005年日本劇場動畫 "wikilink")

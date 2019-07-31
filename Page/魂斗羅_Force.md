@@ -1,6 +1,4 @@
-**魂斗羅
-Force**是[科樂美公司於](../Page/科樂美.md "wikilink")1992年，只有在美國地區發售的FC遊戲軟體。本非魂斗羅系列作品，原計劃在日本以《Arc
-Hound》 (アークハウンド)為名發售。後來日版發售計劃被取消，便改名《Contra Force》在美發售。
+**魂斗羅 Force**是[科樂美](../Page/科樂美.md "wikilink")公司於1992年，只有在美國地區發售的FC遊戲軟體。本非魂斗羅系列作品，原計劃在日本以《Arc Hound》 (アークハウンド)為名發售。後來日版發售計劃被取消，便改名《Contra Force》在美發售。
 
 ## 遊戲特色
 
@@ -18,8 +16,7 @@ Hound》 (アークハウンド)為名發售。後來日版發售計劃被取消
 
 **使用武器**
 
-  - HG(Hand
-    Grenades)：[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")。能量表第二格武裝，中射程拋物線。被大多數玩家視為最無用武器。
+  - HG(Hand Grenades)：[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")。能量表第二格武裝，中射程拋物線。被大多數玩家視為最無用武器。
   - MG(Machine Gun)：機關槍。能量表第三格武裝，可連射且射程長
 
 ### Iron艾隆
@@ -42,8 +39,7 @@ Hound》 (アークハウンド)為名發售。後來日版發售計劃被取消
 
 ### Beans班恩
 
-藍天小組的爆裂物專家，他的炸彈可以摧毀了一大批在螢幕上的敵人，但缺乏準確性。
-蹲下動作為兩種，裝備槍械時為匍匐式，裝備炸彈時與戰時相同但水平線較低
+藍天小組的爆裂物專家，他的炸彈可以摧毀了一大批在螢幕上的敵人，但缺乏準確性。 蹲下動作為兩種，裝備槍械時為匍匐式，裝備炸彈時與戰時相同但水平線較低
 
 **使用武器**
 
@@ -61,6 +57,4 @@ Hound》 (アークハウンド)為名發售。後來日版發售計劃被取消
   - TI(Turbo Power):能量表第四格武裝，增加角色射擊子彈數的上限至三。
   - RA(Rolling Attack):能量表第五格武裝，跳躍時變成無敵判定。
 
-[Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:魂斗罗系列](https://zh.wikipedia.org/wiki/Category:魂斗罗系列 "wikilink")
+[Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:魂斗罗系列](https://zh.wikipedia.org/wiki/Category:魂斗罗系列 "wikilink")

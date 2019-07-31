@@ -1,12 +1,10 @@
-[Viscom.svg](https://zh.wikipedia.org/wiki/File:Viscom.svg "fig:Viscom.svg")
-**Viscom**（），是[德国](../Page/德国.md "wikilink")的一家企业，总部位于[汉诺威](../Page/汉诺威.md "wikilink")，为自动光学检测（AOI）、自动X光检测（AXI）等高性能检测设备的制造商。
+[Viscom.svg](https://zh.wikipedia.org/wiki/File:Viscom.svg "fig:Viscom.svg") **Viscom**（），是[德国](../Page/德国.md "wikilink")的一家企业，总部位于[汉诺威](../Page/汉诺威.md "wikilink")，为自动光学检测（AOI）、自动X光检测（AXI）等高性能检测设备的制造商。
 
 Viscom是电子组件检测供应商之一，也是该领域[欧洲](../Page/欧洲.md "wikilink")市场的领袖。Viscom的检测系统可运用于几乎所有领域——从汽车电子、航天航空到工业电子、半导体、光电学工业。
 
 ## 历史
 
-Viscom于1984年由Martin Heuser博士和Volker
-Pape创立。创立之初，该公司主要开发图像处理软件。1992年，搬迁到汉诺威Badenstedt如今的地址后，该公司开始了检测设备的批量生产。除了自动光学检测设备外，1995年，该公司推出微聚焦X射线检测和全球第一台可见光和X射线组合检测系统。1998年，公司在美国和新加坡建立了分部，并组建了全球范围内的代表网络。2001年，通过微系统检测进一步开辟了新的商业领域。同年，企业形式转换为股份公司形式，2006年5月，公司上市。自2007年8月起，Viscom也提供半导体检测设备，从而以此在这一蒸蒸日上的行业开辟了新的市场、客户和成长领域。一年后，该公司又推出针对太阳能电池产品的检测设备。
+Viscom于1984年由Martin Heuser博士和Volker Pape创立。创立之初，该公司主要开发图像处理软件。1992年，搬迁到汉诺威Badenstedt如今的地址后，该公司开始了检测设备的批量生产。除了自动光学检测设备外，1995年，该公司推出微聚焦X射线检测和全球第一台可见光和X射线组合检测系统。1998年，公司在美国和新加坡建立了分部，并组建了全球范围内的代表网络。2001年，通过微系统检测进一步开辟了新的商业领域。同年，企业形式转换为股份公司形式，2006年5月，公司上市。自2007年8月起，Viscom也提供半导体检测设备，从而以此在这一蒸蒸日上的行业开辟了新的市场、客户和成长领域。一年后，该公司又推出针对太阳能电池产品的检测设备。
 
 ## 企业结构
 
@@ -36,6 +34,4 @@ Viscom股份公司生产以下四个领域的产品：
 
   - [Viscom](http://www.viscom.com)
 
-[Category:德國製造公司](https://zh.wikipedia.org/wiki/Category:德國製造公司 "wikilink")
-[Category:光学设备制造商](https://zh.wikipedia.org/wiki/Category:光学设备制造商 "wikilink")
-[Category:漢諾威公司](https://zh.wikipedia.org/wiki/Category:漢諾威公司 "wikilink")
+[Category:德國製造公司](https://zh.wikipedia.org/wiki/Category:德國製造公司 "wikilink") [Category:光学设备制造商](https://zh.wikipedia.org/wiki/Category:光学设备制造商 "wikilink") [Category:漢諾威公司](https://zh.wikipedia.org/wiki/Category:漢諾威公司 "wikilink")

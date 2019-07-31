@@ -1,6 +1,4 @@
-《**超人力霸王THE
-NEXT**》（原題：ULTRAMAN），是2004年12月18日在[日本上映](../Page/日本.md "wikilink")，由[圓谷製作與](../Page/圓谷製作.md "wikilink")[松竹映畫所製作的](https://zh.wikipedia.org/wiki/松竹映畫 "wikilink")[超人力霸王電影作品](../Page/超人力霸王.md "wikilink")，「ULTRAMAN
-N PROJECT」作品之一。
+《**超人力霸王THE NEXT**》（原題：ULTRAMAN），是2004年12月18日在[日本](../Page/日本.md "wikilink")上映，由[圓谷製作](../Page/圓谷製作.md "wikilink")與[松竹映畫所製作的](https://zh.wikipedia.org/wiki/松竹映畫 "wikilink")[超人力霸王](../Page/超人力霸王.md "wikilink")電影作品，「ULTRAMAN N PROJECT」作品之一。
 
 ## 劇情簡介
 
@@ -8,17 +6,13 @@ N PROJECT」作品之一。
 
 從小憧憬著[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，而成為[自衛隊飛官的真木舜一](https://zh.wikipedia.org/wiki/自衛隊 "wikilink")，為了自己因血液病變隨時會死亡的兒子而提前退役，但是在退役前的最後一天，突然發生緊急升空迎擊的緊急事態，他的戰鬥機與不明紅色發光體「RED」撞擊，而在模糊的意識中，他看到了銀色巨人。而奇蹟般生還的真木，卻被將他視為危險人物的特殊機關「BCST」盯上，並進行強制監視。
 
-這時THE ONE開始現身襲擊，但面對進化的怪獸卻無反擊之力。這時，逃出監視的真木現身了。雖然在THE
-ONE的攻擊下撞上牆壁，但他卻並未喪命，且變身為超人「ULTRAMAN
-THE NEXT」，兩者展開了對決。但因為NEXT的變身型態並不完全無法發揮全力，結果消耗了大量體力並讓THE ONE逃逸。
+這時THE ONE開始現身襲擊，但面對進化的怪獸卻無反擊之力。這時，逃出監視的真木現身了。雖然在THE ONE的攻擊下撞上牆壁，但他卻並未喪命，且變身為超人「ULTRAMAN THE NEXT」，兩者展開了對決。但因為NEXT的變身型態並不完全無法發揮全力，結果消耗了大量體力並讓THE ONE逃逸。
 
-而後真木發現兒子繼夢病倒，說服了BCST前往醫院探視兒子的病情。真木與繼夢父子間訂下了一個約定。而THE
-ONE這時卻也在附於老鼠身上之後巨大化，就在人類面臨危機時，成為完全體的ULTRAMAN
-THE NEXT出現了，以新宿為舞台，與THE ONE展開殊死戰。
+而後真木發現兒子繼夢病倒，說服了BCST前往醫院探視兒子的病情。真木與繼夢父子間訂下了一個約定。而THE ONE這時卻也在附於老鼠身上之後巨大化，就在人類面臨危機時，成為完全體的ULTRAMAN THE NEXT出現了，以新宿為舞台，與THE ONE展開殊死戰。
 
 ## 電影特色
 
-本片擺脫以往[超人力霸王](../Page/超人力霸王.md "wikilink")[超級英雄式的劇情](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，以寫實手法呈現，主角不是熱血少年，而是只想與妻兒安心過日子的平凡中年男子。以往圓谷公司較弱的[CG合成](https://zh.wikipedia.org/wiki/CG "wikilink")，在本作表現有顯著改善，特別是空戰特效部份，作品邀請到在動畫界以「[板野馬戲團](https://zh.wikipedia.org/wiki/板野馬戲團 "wikilink")」手法著稱的[板野一郎執導](../Page/板野一郎.md "wikilink")。
+本片擺脫以往[超人力霸王](../Page/超人力霸王.md "wikilink")[超級英雄式的劇情](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，以寫實手法呈現，主角不是熱血少年，而是只想與妻兒安心過日子的平凡中年男子。以往圓谷公司較弱的[CG合成](https://zh.wikipedia.org/wiki/CG "wikilink")，在本作表現有顯著改善，特別是空戰特效部份，作品邀請到在動畫界以「[板野馬戲團](https://zh.wikipedia.org/wiki/板野馬戲團 "wikilink")」手法著稱的[板野一郎](../Page/板野一郎.md "wikilink")執導。
 
 ## 本作特色
 
@@ -35,7 +29,7 @@ THE NEXT出現了，以新宿為舞台，與THE ONE展開殊死戰。
   - 美術：大澤折三
   - 剪輯：松木朗
   - 音樂監督：TAK MATSUMOTO(松本孝弘／[B'z](../Page/B'z.md "wikilink"))
-  - [空戰飛行畫面導演](../Page/空戰.md "wikilink")：[板野一郎](../Page/板野一郎.md "wikilink")
+  - [空戰](../Page/空戰.md "wikilink")飛行畫面導演：[板野一郎](../Page/板野一郎.md "wikilink")
   - 特技監督：菊池雄一
   - 導演：小中和哉
 
@@ -62,10 +56,4 @@ THE NEXT出現了，以新宿為舞台，與THE ONE展開殊死戰。
 
   - [電影官網](https://web.archive.org/web/20060828120454/http://www.ultraman-movie.com/ultraman/)
 
-[Category:ULTRA_N_PROJECT](https://zh.wikipedia.org/wiki/Category:ULTRA_N_PROJECT "wikilink")
-[Category:超人力霸王系列電影作品](https://zh.wikipedia.org/wiki/Category:超人力霸王系列電影作品 "wikilink")
-[Category:2004年電影](https://zh.wikipedia.org/wiki/Category:2004年電影 "wikilink")
-[Category:新宿背景電影](https://zh.wikipedia.org/wiki/Category:新宿背景電影 "wikilink")
-[Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink")
-[Category:日本自衛隊電影](https://zh.wikipedia.org/wiki/Category:日本自衛隊電影 "wikilink")
-[Category:小中和哉電影](https://zh.wikipedia.org/wiki/Category:小中和哉電影 "wikilink")
+[Category:ULTRA_N_PROJECT](https://zh.wikipedia.org/wiki/Category:ULTRA_N_PROJECT "wikilink") [Category:超人力霸王系列電影作品](https://zh.wikipedia.org/wiki/Category:超人力霸王系列電影作品 "wikilink") [Category:2004年電影](https://zh.wikipedia.org/wiki/Category:2004年電影 "wikilink") [Category:新宿背景電影](https://zh.wikipedia.org/wiki/Category:新宿背景電影 "wikilink") [Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink") [Category:日本自衛隊電影](https://zh.wikipedia.org/wiki/Category:日本自衛隊電影 "wikilink") [Category:小中和哉電影](https://zh.wikipedia.org/wiki/Category:小中和哉電影 "wikilink")

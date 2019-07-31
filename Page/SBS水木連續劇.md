@@ -2442,8 +2442,7 @@
 
 ## 海外相關播出
 
-[馬來西亞與](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[新加坡](../Page/新加坡.md "wikilink")於One
-HD頻道自2015年6月起星期四與星期五21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目在韓國首播24小時後即可觀賞，並以馬來語字幕和華語字幕播出，直至2016年4月28日起，改為20:15播出([當你沉睡時](../Page/當你沉睡時.md "wikilink")維持在21:00)。
+[馬來西亞與](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[新加坡](../Page/新加坡.md "wikilink")於One HD頻道自2015年6月起星期四與星期五21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目在韓國首播24小時後即可觀賞，並以馬來語字幕和華語字幕播出，直至2016年4月28日起，改為20:15播出([當你沉睡時](../Page/當你沉睡時.md "wikilink")維持在21:00)。
 
 2015年6月前播出時間為星期三與星期四21:00（[馬來西亞時間](https://zh.wikipedia.org/wiki/馬來西亞標準時間 "wikilink")）播出。此類節目和韓國首播遲一個月並以馬來語、英語和簡體中文字幕播出。
 
@@ -2460,7 +2459,4 @@ HD頻道自2015年6月起星期四與星期五21:00（[馬來西亞時間](https
 
   - [SBS電視台節目表](http://tv.sbs.co.kr/broadplan/index.jsp?pmDiv=tv)
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:SBS特別劇](https://zh.wikipedia.org/wiki/Category:SBS特別劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:SBS特別劇](https://zh.wikipedia.org/wiki/Category:SBS特別劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

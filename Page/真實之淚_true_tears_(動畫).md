@@ -1,12 +1,10 @@
-《**真實之淚 true
-tears**》是由[P.A.WORKS所製作的](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")[日本的](../Page/日本.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。
+《**真實之淚 true tears**》是由[P.A.WORKS所製作的](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")[日本](../Page/日本.md "wikilink")的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。
 
 ## 概要
 
 本作自2008年1月开始播放，以[富山县为舞台](https://zh.wikipedia.org/wiki/富山县 "wikilink")（担当动画制作的[P.A.WORKS社址就在富山县](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")[南砺市](../Page/南砺市.md "wikilink")），故事觀與[同名遊戲相同](../Page/真實之淚_true_tears.md "wikilink")，但角色和剧情均为原创\[2\]。
 
-[DVD于](https://zh.wikipedia.org/wiki/DVD "wikilink")2008年发售，[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
-BOX则是在2010年3月26日发售。
+[DVD于](https://zh.wikipedia.org/wiki/DVD "wikilink")2008年发售，[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink") BOX则是在2010年3月26日发售。
 
 ## 故事
 
@@ -21,10 +19,9 @@ BOX则是在2010年3月26日发售。
   -
     真一郎小學時就相識的青梅竹馬，也是同班同學。麥端高校女子籃球部6號球員，成績優秀，運動神經也超群，被三代吉稱讚「有著優等生的氣息，卻一點都不驕傲的完美女孩」。由於一年前父母雙亡，與湯淺夫婦交情甚深的真一郎的父親便收留她，自此開始與真一郎同居、幫忙仲上家事務的生活。因真一郎母親關係，把自己對真一郎情感封閉在心中，直到乃绘的出現讓呂比美開始重新面對真一郎情感。最终和石动纯结束了“恋人的游戏”，真一郎知道了自己感情的所属。真一郎找到乃繪，坦白了自己心底喜欢的是比吕美，见到乃繪会让他有所动摇。也就是这样，真一郎和乃繪分手了。在发生了各种事情后，真一郎找到了比吕美，真一郎能够面对比吕美，能够为少女擦拭眼泪。两人最终相爱交往。
   -
-    一年前轉至麥端高校的轉學生，就讀一年A班。因為奇特的想法與不理會別人目光的個性，被同學間視為是怪人。在祖母過世之後，眼淚就再也哭不出來了。實際上卻出奇的健談，長相與言行舉止都和年齡不符，比較像個小孩子，卻擁有能看透別人內心的敏銳感性。
-    常到學校的雞舍對著雞說話，是個不可思議的女孩。在與真一郎相處中，漸漸真心喜歡上真一郎。
+    一年前轉至麥端高校的轉學生，就讀一年A班。因為奇特的想法與不理會別人目光的個性，被同學間視為是怪人。在祖母過世之後，眼淚就再也哭不出來了。實際上卻出奇的健談，長相與言行舉止都和年齡不符，比較像個小孩子，卻擁有能看透別人內心的敏銳感性。 常到學校的雞舍對著雞說話，是個不可思議的女孩。在與真一郎相處中，漸漸真心喜歡上真一郎。
   -
-    比真一郎大一歲的小時玩伴，三代吉的女朋友，擁有茶色短髮的開朗活潑少女。時常幫忙家中經營[今川燒店](../Page/今川燒.md "wikilink")，因此料理的技術不容置疑。經常為真一郎排解心中煩惱，然而身高卻老是被真一郎開玩笑，雖然跟三代吉交往，事實上喜歡的是真一郎。曾强吻真一郎，并向其告白，但被拒绝。
+    比真一郎大一歲的小時玩伴，三代吉的女朋友，擁有茶色短髮的開朗活潑少女。時常幫忙家中經營[今川燒](../Page/今川燒.md "wikilink")店，因此料理的技術不容置疑。經常為真一郎排解心中煩惱，然而身高卻老是被真一郎開玩笑，雖然跟三代吉交往，事實上喜歡的是真一郎。曾强吻真一郎，并向其告白，但被拒绝。
   -
     真一郎的好友與同班同學。之前真一郎介紹愛子給他，兩人便以此為契機開始交往，對愛子的感情也相當認真。常在放學後與真一郎一起到訪今川燒店。
 
@@ -62,11 +59,8 @@ BOX则是在2010年3月26日发售。
   - 音樂：菊地創
   - 音樂制作：[Lantis](../Page/Lantis.md "wikilink")
   - 製作：[永谷敬之](../Page/永谷敬之.md "wikilink")、伊藤善之、平光良介、[堀川憲司](../Page/堀川憲司.md "wikilink")
-  - 動畫制作：[P.A.
-    Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
-  - 製作：[true
-    tears製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")、Bandai
-    Visual、[Lantis](../Page/Lantis.md "wikilink")
+  - 動畫制作：[P.A. Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
+  - 製作：[true tears製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")、Bandai Visual、[Lantis](../Page/Lantis.md "wikilink")
 
 ## 主題曲
 
@@ -356,12 +350,7 @@ BS11 Digital于2008年1月4日播放了特别节目。
 
   - [true tears 動畫版](http://www.truetears.jp/)
 
-[Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink")
-[Category:富山縣背景作品](https://zh.wikipedia.org/wiki/Category:富山縣背景作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink") [Category:富山縣背景作品](https://zh.wikipedia.org/wiki/Category:富山縣背景作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

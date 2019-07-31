@@ -1,5 +1,4 @@
-[Super Junior及其子组合](../Page/Super_Junior.md "wikilink")[Super
-Junior-M的多部作品被命名为](../Page/Super_Junior-M.md "wikilink")《**U**》。
+[Super Junior及其子组合](../Page/Super_Junior.md "wikilink")[Super Junior-M的多部作品被命名为](../Page/Super_Junior-M.md "wikilink")《**U**》。
 
 ## 韓國單曲
 
@@ -21,5 +20,4 @@ Junior-M的多部作品被命名为](../Page/Super_Junior-M.md "wikilink")《**U
 
 日文版“U”收录于专辑《U/TWINS》中。Super Junior全员演唱。
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")

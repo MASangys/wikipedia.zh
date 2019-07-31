@@ -1,5 +1,4 @@
-**SM
-Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")假日合辑的计划名，亦是家族演唱會的名稱，包括当前SM娛樂旗下所有艺人。
+**SM Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")假日合辑的计划名，亦是家族演唱會的名稱，包括当前SM娛樂旗下所有艺人。
 
 ## 音樂作品
 
@@ -244,29 +243,21 @@ Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "
 
 [Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink")
 
-1.  [SHINee年底演唱会《The
-    Wizard》好奇心暴增！](http://www.smtown.com/Link/Board/3676659)
+1.  [SHINee年底演唱会《The Wizard》好奇心暴增！](http://www.smtown.com/Link/Board/3676659)
 
 2.  [国内最大规模的音乐节‘SMTOWN WEEK’](http://www.smtown.com/Link/Board/3515601)
 
-3.  [举办少女时代年度演唱会《Märchen
-    Fantasy》！](http://www.smtown.com/Link/Board/3676660)
+3.  [举办少女时代年度演唱会《Märchen Fantasy》！](http://www.smtown.com/Link/Board/3676660)
 
-4.  [f(x)与EXO举办圣诞节联合演唱会《Christmas
-    Wonderland》！](http://www.smtown.com/Link/Board/3676664)
+4.  [f(x)与EXO举办圣诞节联合演唱会《Christmas Wonderland》！](http://www.smtown.com/Link/Board/3676664)
 
-5.  [东方神起将于12月26-27日举办出道十周年纪念演唱会《Time
-    Slip》！](http://www.smtown.com/Link/Board/3676665)
+5.  [东方神起将于12月26-27日举办出道十周年纪念演唱会《Time Slip》！](http://www.smtown.com/Link/Board/3676665)
 
-6.  [Super Junior将于12月28、29日举办年底演唱会《Treasure
-    Island》！](http://www.smtown.com/Link/Board/3676667)
+6.  [Super Junior将于12月28、29日举办年底演唱会《Treasure Island》！](http://www.smtown.com/Link/Board/3676667)
 
-7.  [SMTOWN
-    LIVE第六次世界巡迴演出即將於7/8日揭開華麗序幕](http://www.koreastardaily.com/tc/news/94684)
+7.  [SMTOWN LIVE第六次世界巡迴演出即將於7/8日揭開華麗序幕](http://www.koreastardaily.com/tc/news/94684)
 
 8.
-9.  [8月5日本港舉行的首個SMTOWN Special Stage in Hong Kong
-    演唱會，8隊頂尖韓國歌手單位將來港表演。](https://topick.hket.com/article/1834056/8%E6%9C%88%E9%A6%96%E8%BE%A6%E3%80%8C%E9%A6%99%E6%B8%AF%E9%9B%BB%E7%AB%B6%E9%9F%B3%E6%A8%82%E7%AF%80%E3%80%8D%E3%80%80%E9%9F%93%E5%9C%8BSMTOWN%E7%B5%84%E5%90%88%E5%8C%85%E6%8B%ACEXO%E8%A5%B2%E6%B8%AF)
+9.  [8月5日本港舉行的首個SMTOWN Special Stage in Hong Kong 演唱會，8隊頂尖韓國歌手單位將來港表演。](https://topick.hket.com/article/1834056/8%E6%9C%88%E9%A6%96%E8%BE%A6%E3%80%8C%E9%A6%99%E6%B8%AF%E9%9B%BB%E7%AB%B6%E9%9F%B3%E6%A8%82%E7%AF%80%E3%80%8D%E3%80%80%E9%9F%93%E5%9C%8BSMTOWN%E7%B5%84%E5%90%88%E5%8C%85%E6%8B%ACEXO%E8%A5%B2%E6%B8%AF)
 
-10. [「SMTOWN LIVE 2019 IN TOKYO」 5月8日(水)12:00からSMTOWN OFFICIAL
-    JAPAN先行受付開始！](https://smtown-official.jp/smtownlive_2019/)
+10. [「SMTOWN LIVE 2019 IN TOKYO」 5月8日(水)12:00からSMTOWN OFFICIAL JAPAN先行受付開始！](https://smtown-official.jp/smtownlive_2019/)

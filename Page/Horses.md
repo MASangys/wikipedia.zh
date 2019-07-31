@@ -1,4 +1,4 @@
-**《Horses》**是[帕蒂·史密斯首张音乐专辑](../Page/帕蒂·史密斯.md "wikilink")，制作人为前[地下丝绒乐队的成员](https://zh.wikipedia.org/wiki/地下丝绒 "wikilink")[约翰·凯尔](../Page/约翰·凯尔.md "wikilink")，专辑于1975年发行。该专辑在[滚石杂志评选的](https://zh.wikipedia.org/wiki/滚石杂志 "wikilink")[五百大专辑中名列](https://zh.wikipedia.org/wiki/滚石杂志五百大专辑 "wikilink")44位。\[1\]
+**《Horses》**是[帕蒂·史密斯](../Page/帕蒂·史密斯.md "wikilink")首张音乐专辑，制作人为前[地下丝绒乐队的成员](https://zh.wikipedia.org/wiki/地下丝绒 "wikilink")[约翰·凯尔](../Page/约翰·凯尔.md "wikilink")，专辑于1975年发行。该专辑在[滚石杂志评选的](https://zh.wikipedia.org/wiki/滚石杂志 "wikilink")[五百大专辑中名列](https://zh.wikipedia.org/wiki/滚石杂志五百大专辑 "wikilink")44位。\[1\]
 
 ## 制作成员
 
@@ -24,17 +24,12 @@
 ### B面
 
   -
-    1\.
-    "Kimberly"（史密斯、[艾伦·拉尼尔](https://zh.wikipedia.org/wiki/艾伦·拉尼尔 "wikilink")、克拉尔）–
-    4:27
-    2\. "Break It
-    Up"（史密斯、[汤姆·魏尔伦](https://zh.wikipedia.org/wiki/汤姆·魏尔伦 "wikilink")）–
-    4:04
+    1\. "Kimberly"（史密斯、[艾伦·拉尼尔](https://zh.wikipedia.org/wiki/艾伦·拉尼尔 "wikilink")、克拉尔）– 4:27
+    2\. "Break It Up"（史密斯、[汤姆·魏尔伦](https://zh.wikipedia.org/wiki/汤姆·魏尔伦 "wikilink")）– 4:04
     3\. "Land:" – 9:25
       -
         "Horses"（史密斯）
-        "Land of a Thousand
-        Dances"（[克里斯·肯纳](https://zh.wikipedia.org/wiki/克里斯·肯纳 "wikilink")）
+        "Land of a Thousand Dances"（[克里斯·肯纳](https://zh.wikipedia.org/wiki/克里斯·肯纳 "wikilink")）
         "La Mer(de)"（史密斯）
     4\. "Elegie"（史密斯、拉尼尔）– 2:57
 

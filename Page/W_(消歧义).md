@@ -11,39 +11,25 @@
 
 ## 音乐和娱乐
 
-  - [W (Double
-    U)](../Page/W_\(Double_U\).md "wikilink")，日本一個已停止活動的流行音乐二人女子组合
-  - [*W*
-    (1974年电影)](https://zh.wikipedia.org/wiki/W_\(1974年电影\) "wikilink")，一部1974年公映的悬疑片
-  - [*W.*
-    (电影)](https://zh.wikipedia.org/wiki/W. "wikilink")，2008公映，由Oliver
-    Stone执导的关于[美国总统](../Page/美国总统.md "wikilink")[乔治·W·布什的电影](https://zh.wikipedia.org/wiki/乔治·W·布什 "wikilink")
+  - [W (Double U)](../Page/W_\(Double_U\).md "wikilink")，日本一個已停止活動的流行音乐二人女子组合
+  - [*W* (1974年电影)](https://zh.wikipedia.org/wiki/W_\(1974年电影\) "wikilink")，一部1974年公映的悬疑片
+  - [*W.* (电影)](https://zh.wikipedia.org/wiki/W. "wikilink")，2008公映，由Oliver Stone执导的关于[美国总统](../Page/美国总统.md "wikilink")[乔治·W·布什的电影](https://zh.wikipedia.org/wiki/乔治·W·布什 "wikilink")
   - [*W* (杂志)](https://zh.wikipedia.org/wiki/W_\(杂志\) "wikilink")，美国时尚杂志
-  - *[W, or the Memory of
-    Childhood](https://zh.wikipedia.org/wiki/W,_or_the_Memory_of_Childhood "wikilink")*，1975年Georges
-    Perec出版的小说
-  - [The
-    W](https://zh.wikipedia.org/wiki/The_W "wikilink")，纽约说唱组合Wu-Tang
-    Clan第三张专辑
+  - *[W, or the Memory of Childhood](https://zh.wikipedia.org/wiki/W,_or_the_Memory_of_Childhood "wikilink")*，1975年Georges Perec出版的小说
+  - [The W](https://zh.wikipedia.org/wiki/The_W "wikilink")，纽约说唱组合Wu-Tang Clan第三张专辑
   - [幪面超人W](https://zh.wikipedia.org/wiki/幪面超人W "wikilink")，日本特攝平成[幪面超人系列第](https://zh.wikipedia.org/wiki/幪面超人系列 "wikilink")11套作品
-  - [W
-    (漫畫)](../Page/W_\(漫畫\).md "wikilink")，台灣漫畫家[黃色書刊著作](../Page/黃色書刊_\(漫畫家\).md "wikilink")，目前在[comico連載中](https://zh.wikipedia.org/wiki/comico "wikilink")
-  - [W
-    (电视剧)](https://zh.wikipedia.org/wiki/W_\(電視劇\) "wikilink")，韩国[MBC电视台于](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年7月20日起播出的[水木连续剧](../Page/MBC水木迷你連續劇.md "wikilink")
+  - [W (漫畫)](../Page/W_\(漫畫\).md "wikilink")，台灣漫畫家[黃色書刊著作](../Page/黃色書刊_\(漫畫家\).md "wikilink")，目前在[comico連載中](https://zh.wikipedia.org/wiki/comico "wikilink")
+  - [W (电视剧)](https://zh.wikipedia.org/wiki/W_\(電視劇\) "wikilink")，韩国[MBC电视台于](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年7月20日起播出的[水木连续剧](../Page/MBC水木迷你連續劇.md "wikilink")
 
 ## 科学和计算
 
-  - [w
-    (Unix)](https://zh.wikipedia.org/wiki/w_\(Unix\) "wikilink")，类[UNIX](../Page/UNIX.md "wikilink")系统列出登录用户的命令
+  - [w (Unix)](https://zh.wikipedia.org/wiki/w_\(Unix\) "wikilink")，类[UNIX](../Page/UNIX.md "wikilink")系统列出登录用户的命令
   - [W Window系统](../Page/W_Window系统.md "wikilink")，UNIX平台一个图形视窗系统
-  - [Haplogroup W
-    (mtDNA)](../Page/线粒体基因组.md "wikilink")，人类[线粒体DNA](https://zh.wikipedia.org/wiki/线粒体 "wikilink")
-    (mtDNA) 独立组
+  - [Haplogroup W (mtDNA)](../Page/线粒体基因组.md "wikilink")，人类[线粒体DNA](https://zh.wikipedia.org/wiki/线粒体 "wikilink") (mtDNA) 独立组
   - [朗伯W函数](../Page/朗伯W函数.md "wikilink")
   - [瓦特](../Page/瓦特.md "wikilink")，国际标准单位中功率的单位
   - [功](../Page/功.md "wikilink")，在物理學中，變量*W*表示功，使用[焦耳](../Page/焦耳.md "wikilink")作為單位
-  - [W 及 Z
-    玻色子](https://zh.wikipedia.org/wiki/W_及_Z_玻色子 "wikilink")，[基本粒子](../Page/基本粒子.md "wikilink")
+  - [W 及 Z 玻色子](https://zh.wikipedia.org/wiki/W_及_Z_玻色子 "wikilink")，[基本粒子](../Page/基本粒子.md "wikilink")
   - W，[钨](../Page/钨.md "wikilink")元素的化学符号,因其[德文名称Wolfram得名](https://zh.wikipedia.org/wiki/德文 "wikilink")
   - W，氨基酸[色氨酸](../Page/色氨酸.md "wikilink")的缩写形式
   - 前缀「w-」代表[纤维锌矿晶体结构](https://zh.wikipedia.org/wiki/纤维锌矿晶体结构 "wikilink")

@@ -1,10 +1,10 @@
-《**魔法學園MA**》（****）是[榊一郎作](../Page/榊一郎.md "wikilink")、[BLADE繪製插畫的](https://zh.wikipedia.org/wiki/BLADE "wikilink")[輕小說](../Page/輕小說.md "wikilink")。[Fami通文庫出版](../Page/Fami通文庫.md "wikilink")，全九本。略稱「」。此外，還有出版番外篇《****》。中文版由[尖端出版社出版](https://zh.wikipedia.org/wiki/尖端出版社 "wikilink")。
+《**魔法學園MA**》（****）是[榊一郎](../Page/榊一郎.md "wikilink")作、[BLADE繪製插畫的](https://zh.wikipedia.org/wiki/BLADE "wikilink")[輕小說](../Page/輕小說.md "wikilink")。[Fami通文庫](../Page/Fami通文庫.md "wikilink")出版，全九本。略稱「」。此外，還有出版番外篇《****》。中文版由[尖端出版社出版](https://zh.wikipedia.org/wiki/尖端出版社 "wikilink")。
 
 除了小說，還有在同出版社的「」上連載的漫畫作品，作畫為BLADE。2007年6月7日發售遊戲。
 
 ## 劇情大綱
 
-羽瀨川拓人，表面上是普通的高中生，實際上卻是地圖上未記載的魔法使養成機構「學園」的學生、半調子的魔法師。在召喚考試的時候，發生錯誤，控制失敗，召喚出來的是能夠在一個晚上毀滅整個國家的[獸耳少女](../Page/獸耳.md "wikilink")。從此，他便被捲入各種騷亂之中……
+羽瀨川拓人，表面上是普通的高中生，實際上卻是地圖上未記載的魔法使養成機構「學園」的學生、半調子的魔法師。在召喚考試的時候，發生錯誤，控制失敗，召喚出來的是能夠在一個晚上毀滅整個國家的[獸耳](../Page/獸耳.md "wikilink")少女。從此，他便被捲入各種騷亂之中……
 
 ## 登場人物
 
@@ -22,33 +22,32 @@
     能夠製造魔力的[真空狀態](https://zh.wikipedia.org/wiki/真空 "wikilink")，發動能力時會將緞帶解開，變成另一個人格「」，說話語氣會變得非常粗魯；此外，頭髮會變成深藍色，被稱為「」，不過本人非常討厭此稱呼。對拓人抱持好感。後來判斷出和拓人同樣是「原始神魔創造者」。有史以來，同時具有「夜藍的侵奪者」與「原始神魔創造者」兩種能力的，只有[聖母瑪利亞一人](https://zh.wikipedia.org/wiki/聖母瑪利亞 "wikilink")。可以說是聖母的完成版。
   -
     神格化的魔杖，人型狀態是相當美麗的少女。口氣從容，但認真說話時會改用理智口吻。會對隨便得到的資訊認真，具有讓物體[擬人化的能力](https://zh.wikipedia.org/wiki/擬人化 "wikilink")。
-    由於[RPG攻略的影響](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，扮演的[魔王角色和擬人化的魔法道具部下在學園倉庫據地為王](../Page/魔王.md "wikilink")，讓打掃學園倉庫的主角一行人吃足了苦頭。在事件結束後加入拓人的[同居生活](https://zh.wikipedia.org/wiki/同居 "wikilink")，和塔娜羅特與鈴穗一同爭奪拓人。
+    由於[RPG攻略的影響](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，扮演的[魔王](../Page/魔王.md "wikilink")角色和擬人化的魔法道具部下在學園倉庫據地為王，讓打掃學園倉庫的主角一行人吃足了苦頭。在事件結束後加入拓人的[同居生活](https://zh.wikipedia.org/wiki/同居 "wikilink")，和塔娜羅特與鈴穗一同爭奪拓人。
   -
-    在學園就讀許多年的學長。能夠研究、教學，被當作準教師。對[萌相當執著](../Page/萌.md "wikilink")，並且對「」相當了解。
-    超一流魔法使，同時也是個美男子。儘管如此，卻是能夠冠上「超」字的變態[御宅族](../Page/御宅族.md "wikilink")，一流的魔法技能基本上都浪費在製作[同人誌或者是幫遊戲練功等用途上](../Page/同人誌.md "wikilink")。除此之外，一旦發生騷動，都會往更混亂的方向發展，簡直是麻煩製造機。
-    真實身分是能夠匹敵[路西法的惡魔](../Page/路西法.md "wikilink")「毒之王」薩麥爾。對數度被人類討伐後又復活的身體感到不愉快，但還有想做的事情有待完成。
+    在學園就讀許多年的學長。能夠研究、教學，被當作準教師。對[萌](../Page/萌.md "wikilink")相當執著，並且對「」相當了解。
+    超一流魔法使，同時也是個美男子。儘管如此，卻是能夠冠上「超」字的變態[御宅族](../Page/御宅族.md "wikilink")，一流的魔法技能基本上都浪費在製作[同人誌](../Page/同人誌.md "wikilink")或者是幫遊戲練功等用途上。除此之外，一旦發生騷動，都會往更混亂的方向發展，簡直是麻煩製造機。
+    真實身分是能夠匹敵[路西法](../Page/路西法.md "wikilink")的惡魔「毒之王」薩麥爾。對數度被人類討伐後又復活的身體感到不愉快，但還有想做的事情有待完成。
   -
-    榮太郎的使魔。長著獸耳、尾巴，[女僕裝打扮](https://zh.wikipedia.org/wiki/女僕 "wikilink")。相當優秀的上位魔物。武器為「」，是在拖把上裝有[戟的](../Page/戟.md "wikilink")[武器](../Page/武器.md "wikilink")，在佐久間暴走的時候常常會使用它來制止。此武器每四個星期會變形一次。
+    榮太郎的使魔。長著獸耳、尾巴，[女僕裝打扮](https://zh.wikipedia.org/wiki/女僕 "wikilink")。相當優秀的上位魔物。武器為「」，是在拖把上裝有[戟](../Page/戟.md "wikilink")的[武器](../Page/武器.md "wikilink")，在佐久間暴走的時候常常會使用它來制止。此武器每四個星期會變形一次。
   -
     指揮風紀哥雷姆，平常是金髮碧眼的少年姿態，實際上是遠距離操縱的傀儡。沒有人見過本人的姿態，因此在學園中有眾多謠言。
   -
     在BLADE的漫畫版中首次登場。最喜愛獸耳。玲穗快被「聯盟」殺害時將其救出。此外，十幾年前還是學生，幫助鈴穗時被寒河江教授稱為助教。
   -
-    在外傳第二集中首次登場。是中級第三位的能天使，以「愛與和平(Love and Peace
-    )」為處事方針，別名「福音宣告者」，也被稱之為「愛的恐怖分子」。喜歡對別人下祝福(親吻)，不過因為他滿身都是肌肉跟汗水，所以大家很怕他。曾經是教職員，現階段為打掃工。
+    在外傳第二集中首次登場。是中級第三位的能天使，以「愛與和平(Love and Peace )」為處事方針，別名「福音宣告者」，也被稱之為「愛的恐怖分子」。喜歡對別人下祝福(親吻)，不過因為他滿身都是肌肉跟汗水，所以大家很怕他。曾經是教職員，現階段為打掃工。
   -
     本名不明。學園的頂點。不管多麼靠近，看起來依然是一片模糊，只能了解輪廓。
     被稱為「受注香油者」，且生日為[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，推測真實身分是[耶穌‧基督](https://zh.wikipedia.org/wiki/耶穌 "wikilink")。
   -
-    拓人的叔母、鈴穗的母親。過去是擁有強大破壞力的魔法使，被稱呼為「」，連修達得知名字時都整個呆住。和[米迦勒與](https://zh.wikipedia.org/wiki/聖米迦勒 "wikilink")[加百列為好友](../Page/加百列.md "wikilink")。
+    拓人的叔母、鈴穗的母親。過去是擁有強大破壞力的魔法使，被稱呼為「」，連修達得知名字時都整個呆住。和[米迦勒與](https://zh.wikipedia.org/wiki/聖米迦勒 "wikilink")[加百列](../Page/加百列.md "wikilink")為好友。
   -
     拓人就讀學校的女高中生。在學校被同學稱為「大姊」。對拓人抱持好感，卻一直沒被發現。
     第三集開始與拓人互相直呼姓名。此外，不知道拓人是魔法使。家裡是有名的蛋糕店，蛋糕品牌「霧」相當受歡迎。
   -
-    雙葉的[雙胞胎弟弟](../Page/雙胞胎.md "wikilink")，外表看起來像是[黑道一般兇猛](https://zh.wikipedia.org/wiki/黑道 "wikilink")。相當擅長[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")，以「」的名義為人所知。
+    雙葉的[雙胞胎](../Page/雙胞胎.md "wikilink")弟弟，外表看起來像是[黑道一般兇猛](https://zh.wikipedia.org/wiki/黑道 "wikilink")。相當擅長[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")，以「」的名義為人所知。
     在網路上有名叫做為「美夏」的戀人，卻不知道她的真實身分是大天使[米迦勒](../Page/米迦勒.md "wikilink")。
   -
-    為了暗殺拓人而從神界來到人間的[刺客](https://zh.wikipedia.org/wiki/刺客 "wikilink")。經常和辛格拉薇亞兩人一同行動。[巫女打扮的](../Page/巫女.md "wikilink")[白子](https://zh.wikipedia.org/wiki/白子 "wikilink")。暗殺失敗後，在榮太郎底下工作，被迫幫忙冬季[同人誌即賣會的同人誌製作](../Page/同人誌即賣會.md "wikilink")、操作巨大[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")「」，過著悲慘的生活。擅長太刀接近戰。
+    為了暗殺拓人而從神界來到人間的[刺客](https://zh.wikipedia.org/wiki/刺客 "wikilink")。經常和辛格拉薇亞兩人一同行動。[巫女](../Page/巫女.md "wikilink")打扮的[白子](https://zh.wikipedia.org/wiki/白子 "wikilink")。暗殺失敗後，在榮太郎底下工作，被迫幫忙冬季[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")的同人誌製作、操作巨大[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")「」，過著悲慘的生活。擅長太刀接近戰。
     真實身分是四神之一，西方守護獸[白虎](../Page/白虎.md "wikilink")。
   -
     為了暗殺拓人而從魔界來到人間的刺客。和雅分別為神界和魔界的[特務](https://zh.wikipedia.org/wiki/特務 "wikilink")。穿著[拘束服](https://zh.wikipedia.org/wiki/綁縛 "wikilink")，說奇怪的外國腔日語。和雅一同過著悲慘的生活。擅長[衝擊波](https://zh.wikipedia.org/wiki/衝擊波 "wikilink")。
@@ -63,7 +62,7 @@
   -
     位於異空間，巨大塔狀的魔法使教育機構。能夠從初級魔法開始修習，漸漸提高等級到高等魔法。不靠魔法也能夠輕鬆過日子，故選擇這條道路的都是有興趣的人，也因此學園中的老師和學生相處的很融洽。能夠和神界與魔界聯繫，有時也會有從兩地來的留學生。
   - 神界
-    掌管秩序之神的世界。神界中也有[天使與聖獸](../Page/天使.md "wikilink")。來到人間需要許可，卻因各種原因而有[偷渡行為](https://zh.wikipedia.org/wiki/偷渡 "wikilink")。基本上並未和惡魔交惡。
+    掌管秩序之神的世界。神界中也有[天使](../Page/天使.md "wikilink")與聖獸。來到人間需要許可，卻因各種原因而有[偷渡行為](https://zh.wikipedia.org/wiki/偷渡 "wikilink")。基本上並未和惡魔交惡。
   - 魔界
     掌管混亂之惡魔的世界。有許多種類的[妖怪](../Page/妖怪.md "wikilink")。不知為何有許多惡魔對[轉蛋](../Page/轉蛋.md "wikilink")、[模型相當感興趣](https://zh.wikipedia.org/wiki/模型 "wikilink")，在某個惡魔進行走私時，其他惡魔會幫忙掩護。
   - 聯盟
@@ -214,8 +213,7 @@
 
 ## 漫畫
 
-作畫是BLADE，Enterbrain在2006年3月35日發售共一冊（ISBN
-4-7577-2637-6），臺灣由尖端出版社代理2007年1月18日出版。\[1\]
+作畫是BLADE，Enterbrain在2006年3月35日發售共一冊（ISBN 4-7577-2637-6），臺灣由尖端出版社代理2007年1月18日出版。\[1\]
 
 ## 電視動畫
 
@@ -370,15 +368,11 @@
   - 音響監督：[岩浪美和](../Page/岩浪美和.md "wikilink")
   - 製作人：小山倫良、鈴木健太、浅香敏明、前田洋平、川崎とも子
   - 動畫製作：[ZEXCS](../Page/ZEXCS.md "wikilink")
-  - 製作：[MA
-    PROJECT](https://zh.wikipedia.org/wiki/製作委員会方式 "wikilink")（T.O
-    Entertainment、Enterbrain、[Media
-    Factory](../Page/Media_Factory.md "wikilink")、[角川映畫](../Page/角川映畫.md "wikilink")）
+  - 製作：[MA PROJECT](https://zh.wikipedia.org/wiki/製作委員会方式 "wikilink")（T.O Entertainment、Enterbrain、[Media Factory](../Page/Media_Factory.md "wikilink")、[角川映畫](../Page/角川映畫.md "wikilink")）
 
 ## 遊戲
 
-[Enterbrain在](../Page/Enterbrain.md "wikilink")2007年6月7日發售的[PlayStation
-2](../Page/PlayStation_2.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")，[ファミ通的クロスレビュー給予](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")21/40分數。\[4\]
+[Enterbrain](../Page/Enterbrain.md "wikilink")在2007年6月7日發售的[PlayStation 2](../Page/PlayStation_2.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")，[ファミ通的クロスレビュー給予](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")21/40分數。\[4\]
 
 ## 參考來源
 
@@ -390,26 +384,9 @@
   - [遊戲官方網站](https://web.archive.org/web/20071013083401/http://enterbrain.co.jp/game_site/MA/index.html)Enterbrain
   - [尖端浮文字](http://59.120.14.127/htm/other/7/metamorphosis/menu.htm)
 
-[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:戰略角色扮演遊戲 "wikilink")
-[Category:ENTERBRAIN遊戲](https://zh.wikipedia.org/wiki/Category:ENTERBRAIN遊戲 "wikilink")
-[Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink")
-[Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
+[Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:戰略角色扮演遊戲 "wikilink") [Category:ENTERBRAIN遊戲](https://zh.wikipedia.org/wiki/Category:ENTERBRAIN遊戲 "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
 
-1.  [The Magician's Academy
-    (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=9147)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-2.  [Magician's Academy
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9697)
-    Anime News Network
-3.  [まかでみ・WAっしょい！
-    (2008)](http://www.allcinema.net/prog/show_c.php?num_c=331437)allcinema
+1.  [The Magician's Academy (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=9147)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [Magician's Academy (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9697) Anime News Network
+3.  [まかでみ・WAっしょい！ (2008)](http://www.allcinema.net/prog/show_c.php?num_c=331437)allcinema
 4.  [まじしゃんず・あかでみぃ](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=2064)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")

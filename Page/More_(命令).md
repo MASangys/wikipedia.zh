@@ -10,13 +10,9 @@ more：一种用于[命令行分页显示的工具](https://zh.wikipedia.org/wik
 ## 历史\[1\]
 
 more的原作者是Daniel Halbert，并由Eric Shienbrood和Geoff Peck扩充功能。
-Daniel
-Halbert在[MIT](../Page/MIT.md "wikilink")就读本科时，他学习的操作系统是[ITS](https://zh.wikipedia.org/wiki/ITS "wikilink")。ITS自带一个分页工具，当显示的内容满一屏幕后，它会在屏幕的底部添加提示“--more--”，用户按下空格键就能继续显示下一页的内容。
-Daniel
-Halbert考入[加利福尼亚大学伯克利分校就读研究生课程时](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")，学习的是VAX
-Unix系统，它使用的分页器是cr3。当一页文本已经显示完成后，cr3用系统响铃的方式提示用户。这个做法有几个不利，一来，很多终端是“哑终端”，没有扬声器；二来，装满大量终端的机房内哔声此起彼伏，用户也不胜其烦。
-于是Daniel Halbert改进了cr3，并将新工具命名为“more”。这是第一个采用完整英文单词命名的Unix命令。随后发行的BSD
-3.0首次包含了more。此后，它成为所有的Unix及Unix-like操作系统的标准工具。
+Daniel Halbert在[MIT](../Page/MIT.md "wikilink")就读本科时，他学习的操作系统是[ITS](https://zh.wikipedia.org/wiki/ITS "wikilink")。ITS自带一个分页工具，当显示的内容满一屏幕后，它会在屏幕的底部添加提示“--more--”，用户按下空格键就能继续显示下一页的内容。
+Daniel Halbert考入[加利福尼亚大学伯克利分校就读研究生课程时](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")，学习的是VAX Unix系统，它使用的分页器是cr3。当一页文本已经显示完成后，cr3用系统响铃的方式提示用户。这个做法有几个不利，一来，很多终端是“哑终端”，没有扬声器；二来，装满大量终端的机房内哔声此起彼伏，用户也不胜其烦。
+于是Daniel Halbert改进了cr3，并将新工具命名为“more”。这是第一个采用完整英文单词命名的Unix命令。随后发行的BSD 3.0首次包含了more。此后，它成为所有的Unix及Unix-like操作系统的标准工具。
 
 ## 用法
 
@@ -30,11 +26,9 @@ Unix系统，它使用的分页器是cr3。当一页文本已经显示完成后�
 #### 参数
 
   - \-数字 指定一页显示的行数。
-  - \-d 将在“--More--(已读百分比)”后显示提示信息“\[Press space to continue, 'q' to
-    quit.\]”；当用户按下无效按键时，出现提示信息“\[Press 'h' for instructions.\]”。
+  - \-d 将在“--More--(已读百分比)”后显示提示信息“\[Press space to continue, 'q' to quit.\]”；当用户按下无效按键时，出现提示信息“\[Press 'h' for instructions.\]”。
   - \-l 忽略换页符(**^L**)。没有此参数时，more遇到含有^L的行将自动暂停显示。
-  - \-f
-    按原文件实际的行数计算，而非以显示在屏幕上的行数计算。(文件中的一行文本可能非常长，占用数个屏幕行，此时开启本选项，将无法很好地完成分页功能)。
+  - \-f 按原文件实际的行数计算，而非以显示在屏幕上的行数计算。(文件中的一行文本可能非常长，占用数个屏幕行，此时开启本选项，将无法很好地完成分页功能)。
   - \-p 以清屏代替滚屏。
   - \-c 类似于-p。
   - \-s 将数个连续空行显示为一个空行。
@@ -57,8 +51,7 @@ Unix系统，它使用的分页器是cr3。当一页文本已经显示完成后�
   - /键+正则表达式 搜索第k次出现的正则表达式。默认值为1。
   - n键 搜索第k次出现的最后用过的正则表达式。默认值为1。
   - \!键+命令或:键+\!键+命令 在一个子shell中启动指定命令。
-  - v键
-    在当前行启动编辑器。编辑器由环境变量决定，优先权为VISUAL\>EDITOR，如果VISUAL和EDITOR均未定义，则启动vi。
+  - v键 在当前行启动编辑器。编辑器由环境变量决定，优先权为VISUAL\>EDITOR，如果VISUAL和EDITOR均未定义，则启动vi。
   - Ctrl+L键 重新绘制屏幕。
   - :键+n键 跳到第k个文件。默认值为1。
   - :键+p键 跳到第k个之前的文件。默认值为1。
@@ -76,11 +69,8 @@ Unix系统，它使用的分页器是cr3。当一页文本已经显示完成后�
 #### 格式
 
   - more /E \[/C\] \[/P\] \[/S\] \[/Tn\] \[+n\] <文件1>\[<空格键>文件2...\]
-  - more \[/E \[/C\] \[/P\] \[/S\] \[/Tn\]
-    [+n](https://zh.wikipedia.org/wiki/+n "wikilink") \<
-    \[驱动器:\]\[路径\]文件名
-  - 命令 | more \[/E \[/C\] \[/P\] \[/S\] \[/Tn\]
-    [+n](https://zh.wikipedia.org/wiki/+n "wikilink")
+  - more \[/E \[/C\] \[/P\] \[/S\] \[/Tn\] [+n](https://zh.wikipedia.org/wiki/+n "wikilink") \< \[驱动器:\]\[路径\]文件名
+  - 命令 | more \[/E \[/C\] \[/P\] \[/S\] \[/Tn\] [+n](https://zh.wikipedia.org/wiki/+n "wikilink")
 
 #### 参数
 
@@ -108,12 +98,8 @@ Unix系统，它使用的分页器是cr3。当一页文本已经显示完成后�
 
 ## 参考文献
 
-[Category:Windows管理](https://zh.wikipedia.org/wiki/Category:Windows管理 "wikilink")
-[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
+[Category:Windows管理](https://zh.wikipedia.org/wiki/Category:Windows管理 "wikilink") [Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
 
-1.  [Daniel
-    Halbert写的关于more的简史](http://www.halwitz.org/halbert/more.html)
-
+1.  [Daniel Halbert写的关于more的简史](http://www.halwitz.org/halbert/more.html)
 2.  [more的manpage。](http://www.linuxmanpages.com/man1/more.1.php)
 3.  \[Microsoft Windows XP SP2命令行more /?的输出\]

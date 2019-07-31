@@ -1,11 +1,8 @@
-**TVB
-Korea頻道**（，英文簡稱，）是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司與](https://zh.wikipedia.org/wiki/電視廣播\(國際\)有限公司 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")共同創辦而擁有的一條以[韓語廣播的頻道](https://zh.wikipedia.org/wiki/韓語 "wikilink")。
+**TVB Korea頻道**（，英文簡稱，）是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司與](https://zh.wikipedia.org/wiki/電視廣播\(國際\)有限公司 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")共同創辦而擁有的一條以[韓語廣播的頻道](https://zh.wikipedia.org/wiki/韓語 "wikilink")。
 
 ## 頻道歷史
 
-TVB
-Korea是TVBI與CMB於2008年2月共同創辦、主要以播放[無綫電視劇為主的](https://zh.wikipedia.org/wiki/無綫電視劇 "wikilink")[有線電視頻道](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，同年3月開始試播，同年6月開播，在當地的覆蓋率達到900萬户。\[1\]2016年6月，TVB
-Korea停播。
+TVB Korea是TVBI與CMB於2008年2月共同創辦、主要以播放[無綫電視劇為主的](https://zh.wikipedia.org/wiki/無綫電視劇 "wikilink")[有線電視頻道](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，同年3月開始試播，同年6月開播，在當地的覆蓋率達到900萬户。\[1\]2016年6月，TVB Korea停播。
 
 ## 節目
 
@@ -26,8 +23,7 @@ Korea停播。
   - [覆雨翻雲](../Page/覆雨翻雲.md "wikilink")（）
   - [Seventh Day](../Page/最美麗的第七天.md "wikilink")（）（原題：最美麗的第七天）
   - [犯罪鑑識班II](../Page/法證先鋒II.md "wikilink")（）（原題：法證先鋒II）
-  - [The
-    Four](https://zh.wikipedia.org/wiki/少年四大名捕 "wikilink")（）（原題：少年四大名捕）
+  - [The Four](https://zh.wikipedia.org/wiki/少年四大名捕 "wikilink")（）（原題：少年四大名捕）
   - [尋秦記](../Page/尋秦記.md "wikilink")（）
   - [Hotelier in Hong Kong](../Page/酒店風雲.md "wikilink")（）（原題：酒店風雲）
   - [上海灘](../Page/上海灘_\(1980年電視劇\).md "wikilink")（）
@@ -66,11 +62,9 @@ Korea停播。
   - [九江十二坊](../Page/九江十二坊.md "wikilink")（）
   - [東西宮略](../Page/東西宮略.md "wikilink")（）
   - [偵探狄仁傑](../Page/盛世仁傑.md "wikilink")（）（原題：盛世仁傑）
-  - [拳王；Muay
-    Thai](https://zh.wikipedia.org/wiki/拳王_\(電視劇\) "wikilink")（）（原題：拳王）
+  - [拳王；Muay Thai](https://zh.wikipedia.org/wiki/拳王_\(電視劇\) "wikilink")（）（原題：拳王）
   - [殺人劇場](https://zh.wikipedia.org/wiki/心戰_\(電視劇\) "wikilink")（）（原題：心戰）
-  - [THE
-    ONE](https://zh.wikipedia.org/wiki/飛虎_\(電視劇\) "wikilink")（）（原題：飛虎）
+  - [THE ONE](https://zh.wikipedia.org/wiki/飛虎_\(電視劇\) "wikilink")（）（原題：飛虎）
   - [王座](https://zh.wikipedia.org/wiki/造王者_\(電視劇\) "wikilink")（）（原題：造王者）
   - [回到三國](../Page/回到三國.md "wikilink")志（）（原題：回到三國）
   - [Wild Street 2](../Page/怒火街頭2.md "wikilink")（）（原題：怒火街頭2）
@@ -144,8 +138,7 @@ Korea停播。
   - [後宮爭霸](https://zh.wikipedia.org/wiki/凰圖騰 "wikilink")（）（原題：凰圖騰）
   - [浣花洗劍錄](https://zh.wikipedia.org/wiki/浣花洗劍錄#改編電視劇 "wikilink")（）
   - [秀秀的男人](../Page/秀秀的男人.md "wikilink")（）
-  - [Secret
-    Castle](https://zh.wikipedia.org/wiki/花非花霧非霧 "wikilink")（）（原題：花非花霧非霧）
+  - [Secret Castle](https://zh.wikipedia.org/wiki/花非花霧非霧 "wikilink")（）（原題：花非花霧非霧）
   - [皇帝與我](https://zh.wikipedia.org/wiki/大內低手 "wikilink")（）（原題：大內低手）
   - [詠春傳奇](https://zh.wikipedia.org/wiki/詠春傳奇 "wikilink")（）
   - [疯狂公寓2013](https://zh.wikipedia.org/wiki/爱情公寓3 "wikilink")()
@@ -180,14 +173,12 @@ Korea停播。
 
 ### 資訊
 
-文化及娛樂綜藝節目方面，TVB
-Korea頻道提供韓國、[日本](../Page/日本.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")及[中國大陸的節目](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。
+文化及娛樂綜藝節目方面，TVB Korea頻道提供韓國、[日本](../Page/日本.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")及[中國大陸的節目](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。
 
 #### 演藝／娛樂
 
   - [功夫最強傳](../Page/功夫新星.md "wikilink")（）
-  - [2012
-    TVB全球華人新秀歌唱大賽](https://zh.wikipedia.org/wiki/TVB全球華人新秀歌唱大賽#第30屆（2011年） "wikilink")（）
+  - [2012 TVB全球華人新秀歌唱大賽](https://zh.wikipedia.org/wiki/TVB全球華人新秀歌唱大賽#第30屆（2011年） "wikilink")（）
   - [香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")（）
   - [香港最佳滋味](../Page/為食一條街.md "wikilink")（）
   - [香港美味探險隊](../Page/為食總司令.md "wikilink")（）
@@ -226,8 +217,7 @@ Korea頻道提供韓國、[日本](../Page/日本.md "wikilink")、[臺灣](../P
 
 ## 參考資料
 
-  - 2008年9月25日，《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》{{〈}}TVB進軍韓國
-    小生花旦晒冷{{〉}}
+  - 2008年9月25日，《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》{{〈}}TVB進軍韓國 小生花旦晒冷{{〉}}
   - 2008年9月25日，[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")《[東張西望](../Page/東張西望.md "wikilink")》
 
 ## 參考及連結
@@ -237,8 +227,6 @@ Korea頻道提供韓國、[日本](../Page/日本.md "wikilink")、[臺灣](../P
   - [官方網站](https://web.archive.org/web/20081017224244/http://www.tvb.co.kr/)
 
   -
-[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")
-[Category:2008年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2008年成立的電視台或電視頻道 "wikilink")
-[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink")
+[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:2008年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2008年成立的電視台或電視頻道 "wikilink") [Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink")
 
 1.  [港劇韓國熱播TVB-Korea頻道踏出成功一步](http://www.zyrb.com.cn/Article/yl/200809/20080925112547_62927.shtml)

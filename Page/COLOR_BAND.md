@@ -1,6 +1,4 @@
-**COLOR
-BAND**，[臺灣](../Page/臺灣.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，暱稱為「**COLOR**」，亦有「**CoLoR**」的用法。團體約成軍於2006年（或2005年），於2008年八月份發行首張單曲〈勇敢飛象〉，2009年和[趙又廷](../Page/趙又廷.md "wikilink")合唱《[痞子英雄](../Page/痞子英雄.md "wikilink")》的主題曲〈無賴正義〉，首張專輯於同年8月21日正式發行。
-由「小剛」[王維皓](../Page/王維皓.md "wikilink")、「可樂」[陳彥瑋兩人組成](https://zh.wikipedia.org/wiki/陳彥瑋 "wikilink")。被唱片公司定義為「**玩樂系創作搖滾團體**」。2013年起官網、所有社群網頁皆停止使用，實質宣告解散。
+**COLOR BAND**，[臺灣](../Page/臺灣.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，暱稱為「**COLOR**」，亦有「**CoLoR**」的用法。團體約成軍於2006年（或2005年），於2008年八月份發行首張單曲〈勇敢飛象〉，2009年和[趙又廷](../Page/趙又廷.md "wikilink")合唱《[痞子英雄](../Page/痞子英雄.md "wikilink")》的主題曲〈無賴正義〉，首張專輯於同年8月21日正式發行。 由「小剛」[王維皓](../Page/王維皓.md "wikilink")、「可樂」[陳彥瑋兩人組成](https://zh.wikipedia.org/wiki/陳彥瑋 "wikilink")。被唱片公司定義為「**玩樂系創作搖滾團體**」。2013年起官網、所有社群網頁皆停止使用，實質宣告解散。
 
 ## 成員簡介
 
@@ -51,8 +49,7 @@ BAND**，[臺灣](../Page/臺灣.md "wikilink")[搖滾](https://zh.wikipedia.org
   - 2011年
       -
         單曲〈Believe〉（[日本強震台灣賑災募款晚會主題曲](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")）
-        第二張創作專輯《Color
-        Man》9月16日正式發行（「為你燦爛」一曲為[華視](../Page/中華電視公司.md "wikilink")40週年台慶主題曲\[1\]）
+        第二張創作專輯《Color Man》9月16日正式發行（「為你燦爛」一曲為[華視](../Page/中華電視公司.md "wikilink")40週年台慶主題曲\[1\]）
 
 ### 首張全創作專輯
 
@@ -60,8 +57,7 @@ BAND**，[臺灣](../Page/臺灣.md "wikilink")[搖滾](https://zh.wikipedia.org
 
 ### 卡樂門（COLOR MAN）
 
-《**卡樂門（COLOR
-MAN）**》，由[索尼音樂娛樂於](../Page/台灣索尼音樂娛樂.md "wikilink")2011年9月16日發行。
+《**卡樂門（COLOR MAN）**》，由[索尼音樂娛樂於](../Page/台灣索尼音樂娛樂.md "wikilink")2011年9月16日發行。
 
 ## 主持
 

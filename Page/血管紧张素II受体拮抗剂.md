@@ -1,9 +1,6 @@
 [Losartan_structure.png](https://zh.wikipedia.org/wiki/File:Losartan_structure.png "fig:Losartan_structure.png")
 
-**血管紧张素II受体拮抗剂**（Angiotensin II receptor
-antagonist），也被称为**血管紧张素受体阻滞剂**（angiotensin
-receptor blockers,
-**ARB**s)或**AT<sub>1</sub>受体拮抗剂**，是一类作用于[肾素-血管紧张素系统](../Page/肾素-血管紧张素系统.md "wikilink")的药物。主要应用于治疗[高血压](https://zh.wikipedia.org/wiki/高血压 "wikilink")、[糖尿病肾病和](https://zh.wikipedia.org/wiki/糖尿病肾病 "wikilink")[充血性心力衰竭](https://zh.wikipedia.org/wiki/充血性心力衰竭 "wikilink")。
+**血管紧张素II受体拮抗剂**（Angiotensin II receptor antagonist），也被称为**血管紧张素受体阻滞剂**（angiotensin receptor blockers, **ARB**s)或**AT<sub>1</sub>受体拮抗剂**，是一类作用于[肾素-血管紧张素系统](../Page/肾素-血管紧张素系统.md "wikilink")的药物。主要应用于治疗[高血压](https://zh.wikipedia.org/wiki/高血压 "wikilink")、[糖尿病肾病和](https://zh.wikipedia.org/wiki/糖尿病肾病 "wikilink")[充血性心力衰竭](https://zh.wikipedia.org/wiki/充血性心力衰竭 "wikilink")。
 
 ## 结构
 
@@ -15,9 +12,7 @@ receptor blockers,
 
 每一种ARB类药物的[药效都取决于](https://zh.wikipedia.org/wiki/药效 "wikilink")[药代学和](https://zh.wikipedia.org/wiki/药代学 "wikilink")[药动学的三个参数](https://zh.wikipedia.org/wiki/药动学 "wikilink")：
 
-①
-**升压抑制**：该参数关系到用药量或对血管紧张素II升压反应的抑-{制}-程度。以下是[美国](../Page/美国.md "wikilink")[FDA要求的](https://zh.wikipedia.org/wiki/FDA "wikilink")[处方药包装说明书](https://zh.wikipedia.org/wiki/处方药 "wikilink")（Package
-Insert）中列出的24小时后各种ARB的抑制效果：
+① **升压抑制**：该参数关系到用药量或对血管紧张素II升压反应的抑-{制}-程度。以下是[美国](../Page/美国.md "wikilink")[FDA要求的](https://zh.wikipedia.org/wiki/FDA "wikilink")[处方药包装说明书](https://zh.wikipedia.org/wiki/处方药 "wikilink")（Package Insert）中列出的24小时后各种ARB的抑制效果：
 
   - 缬沙坦 80mg 30%
   - 替米沙坦 80mg 40%
@@ -27,8 +22,7 @@ Insert）中列出的24小时后各种ARB的抑制效果：
   - 奥美沙坦 20mg 61%
   - 奥美沙坦 40mg 74%
 
-②
-**AT<sub>1</sub>受体亲和力**：亲和力关系到药物对AT<sub>1</sub>受体特异性结合，美国FDA要求的[处方药包装说明书中列出的AT](https://zh.wikipedia.org/wiki/处方药 "wikilink")<sub>1</sub>受体亲和力如下（该数据指该药物选择性作用于AT<sub>1</sub>与AT<sub>2</sub>的比值）：
+② **AT<sub>1</sub>受体亲和力**：亲和力关系到药物对AT<sub>1</sub>受体特异性结合，美国FDA要求的[处方药包装说明书中列出的AT](https://zh.wikipedia.org/wiki/处方药 "wikilink")<sub>1</sub>受体亲和力如下（该数据指该药物选择性作用于AT<sub>1</sub>与AT<sub>2</sub>的比值）：
 
   - 洛沙坦 1,000倍
   - 替米沙坦 3,000倍
@@ -36,8 +30,7 @@ Insert）中列出的24小时后各种ARB的抑制效果：
   - 奥美沙坦 12,500倍
   - 缬沙坦 20,000倍
 
-③
-**[代谢](../Page/代谢.md "wikilink")[半衰期](https://zh.wikipedia.org/wiki/半衰期 "wikilink")**：美国FDA要求的处方药包装说明书中列出数据如下：
+③ **[代谢](../Page/代谢.md "wikilink")[半衰期](https://zh.wikipedia.org/wiki/半衰期 "wikilink")**：美国FDA要求的处方药包装说明书中列出数据如下：
 
   - 缬沙坦 6小时
   - 洛沙坦 6－9小时

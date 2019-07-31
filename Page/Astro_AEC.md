@@ -1,16 +1,12 @@
-**Astro
-AEC**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的頻道](https://zh.wikipedia.org/wiki/Astro "wikilink")，全天候24小时播出。該頻道主要播出來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、[新加坡的節目](../Page/新加坡.md "wikilink")，同時亦播出本地節目（亦稱**“Astro本地圈”**节目）该频道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[马来语及](../Page/马来语.md "wikilink")[英文字幕服务](https://zh.wikipedia.org/wiki/英文 "wikilink")。
+**Astro AEC**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的頻道](https://zh.wikipedia.org/wiki/Astro "wikilink")，全天候24小时播出。該頻道主要播出來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")的節目，同時亦播出本地節目（亦稱**“Astro本地圈”**节目）该频道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[马来语](../Page/马来语.md "wikilink")及[英文字幕服务](https://zh.wikipedia.org/wiki/英文 "wikilink")。
 
 ## Astro AEC HD
 
-[Astro_AEC_HD.png](https://zh.wikipedia.org/wiki/File:Astro_AEC_HD.png "fig:Astro_AEC_HD.png")
-**Astro AEC
-HD**是[Astro第五個](https://zh.wikipedia.org/wiki/Astro "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[高清頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")，於2014年11月16日正式啟播。该频道於其標清频道同步播出所有節目。
+[Astro_AEC_HD.png](https://zh.wikipedia.org/wiki/File:Astro_AEC_HD.png "fig:Astro_AEC_HD.png") **Astro AEC HD**是[Astro第五個](https://zh.wikipedia.org/wiki/Astro "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[高清頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")，於2014年11月16日正式啟播。该频道於其標清频道同步播出所有節目。
 
 ## Astro本地圈
 
-**Astro AEC、Astro AEC
-HD**為“Astro本地圈”的起點。在Astro剛啟動“本地圈”時，所有的自製節目都在此頻道播出。隨著本土節目的成功，“Astro本地圈”旗下的節目並不再局限於此頻道播出，而Astro也把旗下中文頻道所製作的本地節目都歸類為“Astro本地圈”节目。
+**Astro AEC、Astro AEC HD**為“Astro本地圈”的起點。在Astro剛啟動“本地圈”時，所有的自製節目都在此頻道播出。隨著本土節目的成功，“Astro本地圈”旗下的節目並不再局限於此頻道播出，而Astro也把旗下中文頻道所製作的本地節目都歸類為“Astro本地圈”节目。
 
 ## 直播节目列表
 
@@ -130,7 +126,7 @@ May I Hug You Now?</p></td>
 <td><p><a href="https://web.facebook.com/TGCTheGoldenClub/">网页</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/健康123.md" title="wikilink">健康123（第四季）</a><br />
+<td><p><a href="../Page/健康123.md" title="wikilink">健康123</a>（第四季）<br />
 Health 123<br />
 (Season 4)</p></td>
 <td><p>13</p></td>
@@ -369,7 +365,7 @@ Call Me Handsome<br />
 <td><p><a href="https://web.facebook.com/AstroCallMeHandsome/">網頁</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Astro经典名曲歌唱大赛.md" title="wikilink">Astro经典名曲歌唱大赛2018</a><br />
+<td><p><a href="../Page/Astro经典名曲歌唱大赛.md" title="wikilink">Astro经典名曲歌唱大赛</a>2018<br />
 Astro Classic Golden Melody</p></td>
 <td><p>19</p></td>
 <td><p>顏江瀚</p></td>
@@ -450,5 +446,4 @@ Up Close</p></td>
   -
 ## 註明
 
-[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
-[Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
+[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")

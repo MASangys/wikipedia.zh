@@ -1,15 +1,12 @@
-[Kitaca_readers.jpg](https://zh.wikipedia.org/wiki/File:Kitaca_readers.jpg "fig:Kitaca_readers.jpg")攝）\]\]
-**Kitaca**（）是一種可再充值、非接觸式的[智能卡形式的乘車票證](https://zh.wikipedia.org/wiki/智能卡 "wikilink")，適用於[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）。此智能卡於2008年10月25日正式發卡。2009年1月底為止已發行約10萬張。採用[索尼公司的](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")[FeliCa](../Page/FeliCa.md "wikilink")技術。
+[Kitaca_readers.jpg](https://zh.wikipedia.org/wiki/File:Kitaca_readers.jpg "fig:Kitaca_readers.jpg")攝）\]\] **Kitaca**（）是一種可再充值、非接觸式的[智能卡形式的乘車票證](https://zh.wikipedia.org/wiki/智能卡 "wikilink")，適用於[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）。此智能卡於2008年10月25日正式發卡。2009年1月底為止已發行約10萬張。採用[索尼公司的](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")[FeliCa](../Page/FeliCa.md "wikilink")技術。
 
 「Kitaca」也是JR北海道的註冊商標。
 
 ## 簡介
 
-Kitaca為[RFID規範之非接觸式票卡](https://zh.wikipedia.org/wiki/射頻識別 "wikilink")，在2008年10月25日開始使用，目前僅適用於[札幌市](../Page/札幌市.md "wikilink")範圍的55個JR車站，包括無人管理車站。票卡背面右下角卡號開頭為「JH」，代表JR北海道的英文「JR
-Hokkaido」。
+Kitaca為[RFID規範之非接觸式票卡](https://zh.wikipedia.org/wiki/射頻識別 "wikilink")，在2008年10月25日開始使用，目前僅適用於[札幌市](../Page/札幌市.md "wikilink")範圍的55個JR車站，包括無人管理車站。票卡背面右下角卡號開頭為「JH」，代表JR北海道的英文「JR Hokkaido」。
 
-[Iccard.gif](https://zh.wikipedia.org/wiki/File:Iccard.gif "fig:Iccard.gif")
-和其他同類票卡一樣，Kitaca的建議使用方式為「觸碰即走」，即把票卡或裝有票卡的車票夾或皮夾直接觸碰閘機的感應部分。
+[Iccard.gif](https://zh.wikipedia.org/wiki/File:Iccard.gif "fig:Iccard.gif") 和其他同類票卡一樣，Kitaca的建議使用方式為「觸碰即走」，即把票卡或裝有票卡的車票夾或皮夾直接觸碰閘機的感應部分。
 
 ## 使用範圍
 
@@ -47,6 +44,4 @@ Hokkaido」。
 
   - [Kitaca](http://www.jrhokkaido.co.jp/kitaca/index.html) JR北海道
 
-[Category:北海道旅客鐵道](https://zh.wikipedia.org/wiki/Category:北海道旅客鐵道 "wikilink")
-[Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink")
-[Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")
+[Category:北海道旅客鐵道](https://zh.wikipedia.org/wiki/Category:北海道旅客鐵道 "wikilink") [Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")

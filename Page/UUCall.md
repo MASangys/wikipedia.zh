@@ -21,11 +21,7 @@
 
 ## 关于“中華電信（香港）國際有限公司”
 
-2009年12月28日，UUCall被并入“中華電信（香港）國際有限公司”。该公司在[香港电讯管理局的注册为](https://zh.wikipedia.org/wiki/电讯管理局 "wikilink")“1533
--{中華電信（香港）國際有限公司}-”\[1\]，英文为“1533 China Telecom (Hong Kong)
-International Group Company
-Limited”（类似于[中国电信（香港）国际有限公司的](https://zh.wikipedia.org/wiki/中国电信#控股子公司 "wikilink")“China
-Telecom (Hong Kong) Int'l Limited”\[2\]）。
+2009年12月28日，UUCall被并入“中華電信（香港）國際有限公司”。该公司在[香港电讯管理局的注册为](https://zh.wikipedia.org/wiki/电讯管理局 "wikilink")“1533 -{中華電信（香港）國際有限公司}-”\[1\]，英文为“1533 China Telecom (Hong Kong) International Group Company Limited”（类似于[中国电信（香港）国际有限公司的](https://zh.wikipedia.org/wiki/中国电信#控股子公司 "wikilink")“China Telecom (Hong Kong) Int'l Limited”\[2\]）。
 
 ## 竞争对手
 
@@ -35,8 +31,7 @@ Telecom (Hong Kong) Int'l Limited”\[2\]）。
 
   - [爱聊](https://zh.wikipedia.org/wiki/爱聊 "wikilink")
 
-  - [Mediaring
-    Talk](https://zh.wikipedia.org/wiki/Mediaring_Talk "wikilink")
+  - [Mediaring Talk](https://zh.wikipedia.org/wiki/Mediaring_Talk "wikilink")
 
   - [Globe7](https://zh.wikipedia.org/wiki/Globe7 "wikilink")
 
@@ -49,8 +44,5 @@ Telecom (Hong Kong) Int'l Limited”\[2\]）。
 
 [Category:VoIP](https://zh.wikipedia.org/wiki/Category:VoIP "wikilink")
 
-1.  [電訊管理局 -
-    對外電訊服務營辦商](http://www.ofta.gov.hk/zh/tele-lic/operator-licensees/pnets-ets.html)
-
-2.  [OFTA - External Telecommunications Services (ETS)
-    Operators](http://www.ofta.gov.hk/en/tele-lic/operator-licensees/pnets-ets.html)
+1.  [電訊管理局 - 對外電訊服務營辦商](http://www.ofta.gov.hk/zh/tele-lic/operator-licensees/pnets-ets.html)
+2.  [OFTA - External Telecommunications Services (ETS) Operators](http://www.ofta.gov.hk/en/tele-lic/operator-licensees/pnets-ets.html)

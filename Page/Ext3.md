@@ -1,10 +1,8 @@
-**第三代扩展文件系统**（，縮寫為**ext3**），是一个[日志文件系统](../Page/日志文件系统.md "wikilink")，常用于[Linux操作系统](https://zh.wikipedia.org/wiki/Linux操作系统 "wikilink")。它是很多[Linux发行版的默认](../Page/Linux发行版.md "wikilink")[文件系统](../Page/文件系统.md "wikilink")。[Stephen
-Tweedie在](https://zh.wikipedia.org/wiki/Stephen_Tweedie "wikilink")1999年2月的内核邮件列表\[1\]中，最早显示了他使用扩展的[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")，该文件系统从2.4.15版本的内核开始，合并到内核主线中\[2\]。
+**第三代扩展文件系统**（，縮寫為**ext3**），是一个[日志文件系统](../Page/日志文件系统.md "wikilink")，常用于[Linux操作系统](https://zh.wikipedia.org/wiki/Linux操作系统 "wikilink")。它是很多[Linux发行版](../Page/Linux发行版.md "wikilink")的默认[文件系统](../Page/文件系统.md "wikilink")。[Stephen Tweedie在](https://zh.wikipedia.org/wiki/Stephen_Tweedie "wikilink")1999年2月的内核邮件列表\[1\]中，最早显示了他使用扩展的[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")，该文件系统从2.4.15版本的内核开始，合并到内核主线中\[2\]。
 
 ## 优势
 
-虽然它的性能（速度）不如它的竞争对手，例如[JFS2](https://zh.wikipedia.org/wiki/JFS文件系统 "wikilink")，[ReiserFS和](../Page/ReiserFS.md "wikilink")[XFS](../Page/XFS.md "wikilink")，但它具有重要的优势，那就是它允许在适当的时候从流行的[ext2文件系统升级](https://zh.wikipedia.org/wiki/ext2 "wikilink")，而无需[备份和恢复数据](../Page/备份.md "wikilink")；除此之外，它还具有比[ReiserFS和](../Page/ReiserFS.md "wikilink")[XFS更低的的](../Page/XFS.md "wikilink")[CPU使用率](https://zh.wikipedia.org/wiki/CPU使用率 "wikilink")[1](http://linuxgazette.net/122/TWDT.html#piszcz)
-。
+虽然它的性能（速度）不如它的竞争对手，例如[JFS2](https://zh.wikipedia.org/wiki/JFS文件系统 "wikilink")，[ReiserFS](../Page/ReiserFS.md "wikilink")和[XFS](../Page/XFS.md "wikilink")，但它具有重要的优势，那就是它允许在适当的时候从流行的[ext2文件系统升级](https://zh.wikipedia.org/wiki/ext2 "wikilink")，而无需[备份](../Page/备份.md "wikilink")和恢复数据；除此之外，它还具有比[ReiserFS](../Page/ReiserFS.md "wikilink")和[XFS](../Page/XFS.md "wikilink")更低的的[CPU使用率](https://zh.wikipedia.org/wiki/CPU使用率 "wikilink")[1](http://linuxgazette.net/122/TWDT.html#piszcz) 。
 
 ext3文件系统增加的超越其前代的包括：
 
@@ -16,8 +14,7 @@ ext3文件系统增加的超越其前代的包括：
 
 Linux实现的ext3文件系统，包括3个级别的日志：
 
-  - 日记：（慢，但风险小）元数据和文件内容都在提交到主文件系统前写入。这样将提高稳定性但性能上有所损失，因为所有的数据都要写入2次。如果没有在/etc/fstab中加上这个选项，修改中的档案遇上[kernel
-    panic或突然断电的时候就可能发生损毁的情况](https://zh.wikipedia.org/wiki/kernel_panic "wikilink")，当然，这还是得看软体是怎么写入档案的。
+  - 日记：（慢，但风险小）元数据和文件内容都在提交到主文件系统前写入。这样将提高稳定性但性能上有所损失，因为所有的数据都要写入2次。如果没有在/etc/fstab中加上这个选项，修改中的档案遇上[kernel panic或突然断电的时候就可能发生损毁的情况](https://zh.wikipedia.org/wiki/kernel_panic "wikilink")，当然，这还是得看软体是怎么写入档案的。
 
 <!-- end list -->
 
@@ -45,15 +42,13 @@ ext3不支持在其他文件系统上已经支持（例如：[JFS2和](../Page/J
 
 离线的ext2磁盘碎片整理工具`e2defrag`，可以用于ext3文件系统，但前提是在使用前要将文件系统转换回ext2。但依赖于功能位在文件系统中打开，`e2defrag`可能会毁灭数据；目前仍然不知道如何处理新的ext3功能。\[3\]
 
-有一些用户使用的磁盘碎片整理工具，例如Shake[2](http://vleu.net/shake/)
-和defrag[3](http://ck.kolivas.org/apps/defrag/)，这些工具通过复制文件来实现新分配的文件不存在碎片。但这只在文件系统相当空的情况下有效，并且该文件系统不经常出现碎片。目前没有真正的用于ext3的磁盘碎片整理工具[4](http://www.redhat.com/archives/ext3-users/2005-March/msg00013.html)
-。
+有一些用户使用的磁盘碎片整理工具，例如Shake[2](http://vleu.net/shake/) 和defrag[3](http://ck.kolivas.org/apps/defrag/)，这些工具通过复制文件来实现新分配的文件不存在碎片。但这只在文件系统相当空的情况下有效，并且该文件系统不经常出现碎片。目前没有真正的用于ext3的磁盘碎片整理工具[4](http://www.redhat.com/archives/ext3-users/2005-March/msg00013.html) 。
 
 事实上，磁盘碎片整理完全是一种人们在[单用户](https://zh.wikipedia.org/wiki/单用户 "wikilink")[单进程环境下](https://zh.wikipedia.org/wiki/单进程 "wikilink")（如DOS／早期Windows）工作时养成的旧习。
 
-在多任务环境下，磁盘碎片的出现根本是不可避免的，而且碎片化的速度非常之快。操作系统的任务不是不负责任地给用户提供一个整理工具，而是应该在系统设计的时候消除碎片化对性能的伤害。比如[Linux的](../Page/Linux.md "wikilink")[块设备操作都要经过一个](https://zh.wikipedia.org/wiki/块设备 "wikilink")**I/O调度层**，通过在调度层中使用带有[电梯算法的调度策略来消除碎片对性能的影响](https://zh.wikipedia.org/wiki/电梯算法 "wikilink")。
+在多任务环境下，磁盘碎片的出现根本是不可避免的，而且碎片化的速度非常之快。操作系统的任务不是不负责任地给用户提供一个整理工具，而是应该在系统设计的时候消除碎片化对性能的伤害。比如[Linux](../Page/Linux.md "wikilink")的[块设备操作都要经过一个](https://zh.wikipedia.org/wiki/块设备 "wikilink")**I/O调度层**，通过在调度层中使用带有[电梯算法的调度策略来消除碎片对性能的影响](https://zh.wikipedia.org/wiki/电梯算法 "wikilink")。
 
-另外，如果将来[固态硬盘普及乃至取代传统硬盘](../Page/固态硬盘.md "wikilink")，也会让磁盘碎片的概念成为历史。
+另外，如果将来[固态硬盘](../Page/固态硬盘.md "wikilink")普及乃至取代传统硬盘，也会让磁盘碎片的概念成为历史。
 
 ### 反删除
 
@@ -98,40 +93,21 @@ Ext3在写入日志时，并不做[校验和](https://zh.wikipedia.org/wiki/校�
 
   - [ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")
   - [ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")
-  - [List of file
-    systems](https://zh.wikipedia.org/wiki/List_of_file_systems "wikilink")
-  - [Comparison of file
-    systems](https://zh.wikipedia.org/wiki/Comparison_of_file_systems "wikilink")
+  - [List of file systems](https://zh.wikipedia.org/wiki/List_of_file_systems "wikilink")
+  - [Comparison of file systems](https://zh.wikipedia.org/wiki/Comparison_of_file_systems "wikilink")
 
 ## 外部链接
 
-  - [Linux ext3
-    FAQ](http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html)
-  - [Introducing ext3 - IBM developerWorks Advanced filesystem
-    implementor's guide,
-    Part 7](http://www-128.ibm.com/developerworks/linux/library/l-fs7.html)
-  - [Ext2 File System For
-    Windows](http://sourceforge.net/projects/ext2fsd) GPL ext2/ext3 file
-    system driver for Windows NT/2000/XP/Vista（opensource, supports read
-    & write, supports 2K/XP/VISTA on X86/AMD64）
-  - [Ext2 Installable File System For
-    Windows](http://www.fs-driver.org/) ext2/ext3 file system driver for
-    MS Windows NT/2000/XP（freeware, supports read & write on Windows
-    NT4.0/2000/XP/2003 on x86 processors only）
-  - [EXT2
-    IFS](https://web.archive.org/web/20070829085513/http://uranus.it.swin.edu.au/~jn/linux/ext2ifs.htm)
-    ext2/ext3 file system driver for MS Windows NT/2000/XP（opensource,
-    doesn't support writing, doesn't support Windows XP SP2 or Windows
-    Vista）
-  - [Explore2fs](http://www.chrysocome.net/explore2fs) An explorer-like
-    GUI tool for accessing ext2/ext3 filesystems under MS Windows
+  - [Linux ext3 FAQ](http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html)
+  - [Introducing ext3 - IBM developerWorks Advanced filesystem implementor's guide, Part 7](http://www-128.ibm.com/developerworks/linux/library/l-fs7.html)
+  - [Ext2 File System For Windows](http://sourceforge.net/projects/ext2fsd) GPL ext2/ext3 file system driver for Windows NT/2000/XP/Vista（opensource, supports read & write, supports 2K/XP/VISTA on X86/AMD64）
+  - [Ext2 Installable File System For Windows](http://www.fs-driver.org/) ext2/ext3 file system driver for MS Windows NT/2000/XP（freeware, supports read & write on Windows NT4.0/2000/XP/2003 on x86 processors only）
+  - [EXT2 IFS](https://web.archive.org/web/20070829085513/http://uranus.it.swin.edu.au/~jn/linux/ext2ifs.htm) ext2/ext3 file system driver for MS Windows NT/2000/XP（opensource, doesn't support writing, doesn't support Windows XP SP2 or Windows Vista）
+  - [Explore2fs](http://www.chrysocome.net/explore2fs) An explorer-like GUI tool for accessing ext2/ext3 filesystems under MS Windows
   - [ext2/ext3 resizing tools](http://ext2resize.sourceforge.net/)
-  - [Presentation on EXT3 Journaling
-    Filesystem](http://olstrans.sourceforge.net/release/OLS2000-ext3/OLS2000-ext3.html)
-    by Dr. Stephen Tweedie at the Ottawa Linux Symposium, 20 July, 2000
+  - [Presentation on EXT3 Journaling Filesystem](http://olstrans.sourceforge.net/release/OLS2000-ext3/OLS2000-ext3.html) by Dr. Stephen Tweedie at the Ottawa Linux Symposium, 20 July, 2000
 
-[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink")
-[Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
+[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink") [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
 
 1.
 2.

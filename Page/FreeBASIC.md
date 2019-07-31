@@ -1,6 +1,4 @@
-**FreeBASIC** 是一个 [BASIC](../Page/BASIC.md "wikilink")
-语言的[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")\[1\]，可运行在[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、保护模式的[DOS](../Page/DOS.md "wikilink")（[DOS扩展](https://zh.wikipedia.org/wiki/DOS扩展 "wikilink")）、[Linux](../Page/Linux.md "wikilink")以及[Xbox](../Page/Xbox.md "wikilink")上。
+**FreeBASIC** 是一个 [BASIC](../Page/BASIC.md "wikilink") 语言的[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")\[1\]，可运行在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、保护模式的[DOS](../Page/DOS.md "wikilink")（[DOS扩展](https://zh.wikipedia.org/wiki/DOS扩展 "wikilink")）、[Linux](../Page/Linux.md "wikilink")以及[Xbox](../Page/Xbox.md "wikilink")上。
 
 FreeBASIC通过使用"QB"关键字可以在高级别上支持用[QBASIC](../Page/QBASIC.md "wikilink")编写的[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")。许多用QBASIC写的程序可以在不需任何修改的情况下编译和运行在这个模式下。但是如果使用默认的参数来编译的话，大部分的程序还是要进行一些修改的。
 
@@ -8,9 +6,7 @@ FreeBASIC通过使用"QB"关键字可以在高级别上支持用[QBASIC](../Page
 
 ### 平台支持
 
-FreeBASIC 现在可以运行在64位和32位的 Windows、GNU/Linux，以及16位的 DOS系统。也可以为 Xbox
-创建应用程序。越来越多的平台将会被支持。运行时库被设计成可移植的。所有第三方工具均使用来自 GNU
-Binutils。系统上编译器 100% 用 FreeBASIC 代码写成，使得可以简单的自举而不需要依赖太多的不可移植工具。
+FreeBASIC 现在可以运行在64位和32位的 Windows、GNU/Linux，以及16位的 DOS系统。也可以为 Xbox 创建应用程序。越来越多的平台将会被支持。运行时库被设计成可移植的。所有第三方工具均使用来自 GNU Binutils。系统上编译器 100% 用 FreeBASIC 代码写成，使得可以简单的自举而不需要依赖太多的不可移植工具。
 
 ### 现代编程语言特性支持
 
@@ -18,16 +14,13 @@ FreeBASIC作为一种高级编程语言，支持面向过程、面向对象和�
 
 ### 调试支持
 
-完全支持GDB（GNU 调试器），数组越界检查（只有使用 -exx
-命令行选项），[空指针检查](https://zh.wikipedia.org/wiki/空指针 "wikilink")（同上）。
+完全支持GDB（GNU 调试器），数组越界检查（只有使用 -exx 命令行选项），[空指针检查](https://zh.wikipedia.org/wiki/空指针 "wikilink")（同上）。
 
 ### 图形界面支持
 
-该项目提供了与常见程序库的简单的绑定，比如：C 运行时库、Allegro、SDL、OpenGL、GTK+、Windows
-API等，同时也提供了一些示例程序。
+该项目提供了与常见程序库的简单的绑定，比如：C 运行时库、Allegro、SDL、OpenGL、GTK+、Windows API等，同时也提供了一些示例程序。
 
-它使用[GNU
-Binutils](../Page/GNU_Binutils.md "wikilink")[软件开发工具作为](https://zh.wikipedia.org/wiki/软件开发工具 "wikilink")[后端](https://zh.wikipedia.org/wiki/后端 "wikilink")，除了动态和静态[库](https://zh.wikipedia.org/wiki/库 "wikilink")，还可以制作控制台和图形／[GUI可执行文件](https://zh.wikipedia.org/wiki/GUI "wikilink")。FreeBASIC完全支持[C库和部分](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++](../Page/C++.md "wikilink")库。这使得程序员可以使用和创建C和许多其他语言的库。
+它使用[GNU Binutils](../Page/GNU_Binutils.md "wikilink")[软件开发工具作为](https://zh.wikipedia.org/wiki/软件开发工具 "wikilink")[后端](https://zh.wikipedia.org/wiki/后端 "wikilink")，除了动态和静态[库](https://zh.wikipedia.org/wiki/库 "wikilink")，还可以制作控制台和图形／[GUI可执行文件](https://zh.wikipedia.org/wiki/GUI "wikilink")。FreeBASIC完全支持[C库和部分](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C++](../Page/C++.md "wikilink")库。这使得程序员可以使用和创建C和许多其他语言的库。
 
 FreeBASIC还不是一个[优化编译器](https://zh.wikipedia.org/wiki/优化编译器 "wikilink")，但是它的速度被认为接近主流工具，如[GCC](../Page/GCC.md "wikilink")\[2\]。
 
@@ -43,18 +36,11 @@ FreeBASIC支持块[注释和行尾注释](https://zh.wikipedia.org/wiki/注释 "
 
 FreeBASIC继承自[QuickBASIC](../Page/QuickBASIC.md "wikilink")\[3\]。为了使FreeBASIC与现代的工具兼容并且具有高级编程特性，在开发FreeBASIC的时候还是进行了一些修改的。而*-lang*选项的设置使得FreeBASIC编译器也能够适应[GCC](../Page/GCC.md "wikilink")和QuickBASIC兼容语言。
 
-\-
-当选择FB语言设置时（[命令行参数为](https://zh.wikipedia.org/wiki/命令行参数 "wikilink")*-lang
-fb*），将开启所有的FreeBASIC新特性，并且不允许使用QuickBASIC的"hackish"特性（该特性不符合现代编程实践）。
+\- 当选择FB语言设置时（[命令行参数为](https://zh.wikipedia.org/wiki/命令行参数 "wikilink")*-lang fb*），将开启所有的FreeBASIC新特性，并且不允许使用QuickBASIC的"hackish"特性（该特性不符合现代编程实践）。
 
-\- FB-Lite语言设置（*-lang
-fblite*）提供了访问大多数FreeBASIC中新的非面向对象的特性，但是允许使用与老版本BASIC类似的代码风格。语法规则，如允许隐变量、后缀、[`GOSUB`](https://zh.wikipedia.org/wiki/GOSUB "wikilink")
-/ `RETURN`、[行号等等](https://zh.wikipedia.org/wiki/行号 "wikilink")。
+\- FB-Lite语言设置（*-lang fblite*）提供了访问大多数FreeBASIC中新的非面向对象的特性，但是允许使用与老版本BASIC类似的代码风格。语法规则，如允许隐变量、后缀、[`GOSUB`](https://zh.wikipedia.org/wiki/GOSUB "wikilink") / `RETURN`、[行号等等](https://zh.wikipedia.org/wiki/行号 "wikilink")。
 
-\- QB语言设置（*-lang qb*）与*-lang
-fblite*类似，但是它更专注于复制[QBASIC](../Page/QBASIC.md "wikilink")式的行为。*-lang
-qb*被设计用来使为QBASIC写的程序能够更容易地运行，在有的情况下*-lang fblite*的兼容性不够好，这时*-lang
-qb*就会很有用。
+\- QB语言设置（*-lang qb*）与*-lang fblite*类似，但是它更专注于复制[QBASIC](../Page/QBASIC.md "wikilink")式的行为。*-lang qb*被设计用来使为QBASIC写的程序能够更容易地运行，在有的情况下*-lang fblite*的兼容性不够好，这时*-lang qb*就会很有用。
 
 ### 示例代码
 
@@ -147,8 +133,7 @@ called at the end of scope automatically'/
 
 FreeBASIC拥有一个内置的2D软件[图形库](https://zh.wikipedia.org/wiki/图形库 "wikilink")，与QuickBASIC兼容，为用户提供了简单的图形元素（如矩形，线和圆）、[位块传输以及一些QuickBASIC的图形库中没有的附加特性](https://zh.wikipedia.org/wiki/位块传输 "wikilink")。图形库本身并不依赖于操作系统，因此可以跨平台使用。
 
-虽然图形库是内置的，但是只有在选择使用时才会被包含，这可以简单地通过调用FBgfx
-*Screen*命令来实现。通用库（如[OpenGL](../Page/OpenGL.md "wikilink")+）为了[硬件加速](../Page/硬件加速.md "wikilink")使用[API](https://zh.wikipedia.org/wiki/API "wikilink")（Windows、Linux等）来创建一个[窗口可以不包含FreeBASIC的图形库](https://zh.wikipedia.org/wiki/窗口 "wikilink")。
+虽然图形库是内置的，但是只有在选择使用时才会被包含，这可以简单地通过调用FBgfx *Screen*命令来实现。通用库（如[OpenGL](../Page/OpenGL.md "wikilink")+）为了[硬件加速](../Page/硬件加速.md "wikilink")使用[API](https://zh.wikipedia.org/wiki/API "wikilink")（Windows、Linux等）来创建一个[窗口可以不包含FreeBASIC的图形库](https://zh.wikipedia.org/wiki/窗口 "wikilink")。
 
 ## 未来的开发
 
@@ -163,18 +148,10 @@ FreeBASIC仍然继续开发，目标是成为一个[GCC](../Page/GCC.md "wikilin
   - [FreeBASIC官方网站](http://www.freebasic.net/)
   - [FreeBASIC官方文档](http://www.freebasic.net/wiki/wikka.php?wakka=DocToc)
   - [FreeBASIC官方论坛](http://www.freebasic.net/forum)
-  - [FreeBASIC 托管在 SourceForge
-    的页面](http://sourceforge.net/projects/fbc/)
+  - [FreeBASIC 托管在 SourceForge 的页面](http://sourceforge.net/projects/fbc/)
   - [FreeBASIC wiki](http://www.freebasic.net/wiki/)
 
-[Category:BASIC编译器](https://zh.wikipedia.org/wiki/Category:BASIC编译器 "wikilink")
-[Category:自由编译器与解释器](https://zh.wikipedia.org/wiki/Category:自由编译器与解释器 "wikilink")
-[Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink")
-[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
-[Category:过程程序设计语言](https://zh.wikipedia.org/wiki/Category:过程程序设计语言 "wikilink")
-[Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink")
-[Category:自托管软件](https://zh.wikipedia.org/wiki/Category:自托管软件 "wikilink")
-[Category:带有BASIC代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有BASIC代码示例的条目 "wikilink")
+[Category:BASIC编译器](https://zh.wikipedia.org/wiki/Category:BASIC编译器 "wikilink") [Category:自由编译器与解释器](https://zh.wikipedia.org/wiki/Category:自由编译器与解释器 "wikilink") [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:过程程序设计语言](https://zh.wikipedia.org/wiki/Category:过程程序设计语言 "wikilink") [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink") [Category:自托管软件](https://zh.wikipedia.org/wiki/Category:自托管软件 "wikilink") [Category:带有BASIC代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有BASIC代码示例的条目 "wikilink")
 
 1.
 

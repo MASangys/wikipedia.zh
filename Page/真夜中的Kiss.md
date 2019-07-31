@@ -1,5 +1,4 @@
-《**-{zh-hans:真夜中的Kiss;
-zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[持田秋](../Page/持田秋.md "wikilink")的一部作品。於[集英社](../Page/集英社.md "wikilink")的[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[りぼん](https://zh.wikipedia.org/wiki/りぼん "wikilink")》2007年4月號開始連載。
+《**-{zh-hans:真夜中的Kiss; zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[持田秋](../Page/持田秋.md "wikilink")的一部作品。於[集英社](../Page/集英社.md "wikilink")的[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[りぼん](https://zh.wikipedia.org/wiki/りぼん "wikilink")》2007年4月號開始連載。
 
 ## 故事簡介
 
@@ -102,8 +101,6 @@ zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫
 
 1.  [りぼん的官方網頁（日文）](http://ribon.shueisha.co.jp/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink")
 
 1.  尖端出版真夜中的Kiss扇頁。

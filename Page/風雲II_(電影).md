@@ -1,8 +1,8 @@
-是一部以香港漫畫家[馬榮成漫畫](../Page/馬榮成.md "wikilink")《[風雲](../Page/風雲_\(漫畫\).md "wikilink")》為基礎所改編的玄幻武俠電影，是1998年香港電影《[風雲：雄霸天下](../Page/風雲：雄霸天下_\(1998年電影\).md "wikilink")》的續集，在前作中擔當主演的[郭富城和](../Page/郭富城.md "wikilink")[鄭伊健在本片中再次攜手](../Page/鄭伊健.md "wikilink")，另有[任达华](https://zh.wikipedia.org/wiki/任达华 "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[何家勁](../Page/何家勁.md "wikilink")、[唐嫣等明星加盟其中](../Page/唐嫣.md "wikilink")。本片於2008年3月18日舉行新聞發布會\[1\]，3月底在泰國正式開拍，同年7月2日殺青\[2\]，2009年12月9日下午兩點在中國大陸正式上映\[3\]。
+是一部以香港漫畫家[馬榮成](../Page/馬榮成.md "wikilink")漫畫《[風雲](../Page/風雲_\(漫畫\).md "wikilink")》為基礎所改編的玄幻武俠電影，是1998年香港電影《[風雲：雄霸天下](../Page/風雲：雄霸天下_\(1998年電影\).md "wikilink")》的續集，在前作中擔當主演的[郭富城](../Page/郭富城.md "wikilink")和[鄭伊健](../Page/鄭伊健.md "wikilink")在本片中再次攜手，另有[任达华](https://zh.wikipedia.org/wiki/任达华 "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[何家勁](../Page/何家勁.md "wikilink")、[唐嫣](../Page/唐嫣.md "wikilink")等明星加盟其中。本片於2008年3月18日舉行新聞發布會\[1\]，3月底在泰國正式開拍，同年7月2日殺青\[2\]，2009年12月9日下午兩點在中國大陸正式上映\[3\]。
 
 ## 故事大綱
 
-故事講述[聶風](https://zh.wikipedia.org/wiki/聶風 "wikilink")（[鄭伊健飾](../Page/鄭伊健.md "wikilink")）為了對付野心勃勃的絕無神（[任達華飾](../Page/任達華.md "wikilink")），不惜以身犯險修練魔功，[步驚雲](https://zh.wikipedia.org/wiki/步驚雲 "wikilink")（[郭富城飾](../Page/郭富城.md "wikilink")）、聶風兩人約定如聶風成魔後變成一個六親不認的魔頭，便由步驚雲殺死聶風，一場驚天地，決生死的終極之戰旋即展開。
+故事講述[聶風](https://zh.wikipedia.org/wiki/聶風 "wikilink")（[鄭伊健](../Page/鄭伊健.md "wikilink")飾）為了對付野心勃勃的絕無神（[任達華](../Page/任達華.md "wikilink")飾），不惜以身犯險修練魔功，[步驚雲](https://zh.wikipedia.org/wiki/步驚雲 "wikilink")（[郭富城](../Page/郭富城.md "wikilink")飾）、聶風兩人約定如聶風成魔後變成一個六親不認的魔頭，便由步驚雲殺死聶風，一場驚天地，決生死的終極之戰旋即展開。
 
 ## 演員
 
@@ -175,18 +175,9 @@
   -
   -
   -
-  - [《風雲II》](http://epg.i-cable.com/new/movie/the_storm_warriors.php?from_ch=041)有線寬頻
-    i-CABLE
+  - [《風雲II》](http://epg.i-cable.com/new/movie/the_storm_warriors.php?from_ch=041)有線寬頻 i-CABLE
 
-[Category:武俠片](https://zh.wikipedia.org/wiki/Category:武俠片 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:奇幻冒險電影](https://zh.wikipedia.org/wiki/Category:奇幻冒險電影 "wikilink")
-[Category:風雲](https://zh.wikipedia.org/wiki/Category:風雲 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
-[Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink")
-[Category:香港電影金像獎最佳視覺效果獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳視覺效果獲獎電影 "wikilink")
-[Category:彭氏兄弟电影](https://zh.wikipedia.org/wiki/Category:彭氏兄弟电影 "wikilink")
+[Category:武俠片](https://zh.wikipedia.org/wiki/Category:武俠片 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:奇幻冒險電影](https://zh.wikipedia.org/wiki/Category:奇幻冒險電影 "wikilink") [Category:風雲](https://zh.wikipedia.org/wiki/Category:風雲 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink") [Category:香港電影金像獎最佳視覺效果獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳視覺效果獲獎電影 "wikilink") [Category:彭氏兄弟电影](https://zh.wikipedia.org/wiki/Category:彭氏兄弟电影 "wikilink")
 
 1.
 2.

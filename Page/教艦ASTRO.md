@@ -1,8 +1,6 @@
-**《教艦ASTRO》**是在「[Manga Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")」連載的[四格漫畫](../Page/四格漫畫.md "wikilink")，作者為蕃納蔥。中文版由[台灣東販出版](../Page/台灣東販.md "wikilink")。
+**《教艦ASTRO》**是在「[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")」連載的[四格漫畫](../Page/四格漫畫.md "wikilink")，作者為蕃納蔥。中文版由[台灣東販](../Page/台灣東販.md "wikilink")出版。
 
-在Manga Time Kirara Carat
-vol.10和vol.11以單話完結的形式連載，而從2005年11月號開始在相同月刊開始連載。單話完結作品收錄在單行本的第一話和第二話。
+在Manga Time Kirara Carat vol.10和vol.11以單話完結的形式連載，而從2005年11月號開始在相同月刊開始連載。單話完結作品收錄在單行本的第一話和第二話。
 
 由於單話刊行和連載間隔半年以上，在單話刊行時畫風較簡單，人物有些許變形，但在連載開始後便能感受到蕃納蔥纖細、肉感的獨特風格。
 
@@ -16,10 +14,9 @@ vol.10和vol.11以單話完結的形式連載，而從2005年11月號開始在�
 
 基本上每個月連載劇情相連的四格漫畫，劇情輕鬆滑稽，步調掌握出色。作品中時間會隨著連載推進，不會一再重複同一年。
 
-在作品中時程可以看到[2ch風表情](../Page/2ch文字人物.md "wikilink")、[百合](https://zh.wikipedia.org/wiki/百合_\(同人\) "wikilink")、[同人誌等狂熱分子取向的劇情](../Page/同人誌.md "wikilink")。
+在作品中時程可以看到[2ch風表情](../Page/2ch文字人物.md "wikilink")、[百合](https://zh.wikipedia.org/wiki/百合_\(同人\) "wikilink")、[同人誌](../Page/同人誌.md "wikilink")等狂熱分子取向的劇情。
 
-標題的「ASTRO」為「Asashio Sogo Teachers' ROom」的縮寫（在連載時的標題為「Asashio Sogo
-Teachers' Room」）。
+標題的「ASTRO」為「Asashio Sogo Teachers' ROom」的縮寫（在連載時的標題為「Asashio Sogo Teachers' Room」）。
 
 ## 登場人物
 
@@ -31,7 +28,7 @@ Teachers' Room」）。
     常常關心別人的戀情，自己卻沒有這種體驗。
   - 荒井 準名（）
     朝潮第三屆畢業生。保健室醫生。
-    對病人有如天使般溫柔，但對裝病的人有如惡魔一般。具有喜歡鮮血的危險興趣。帶著眼鏡。大和泉與南雲兩屆，不過與和泉十分親近。外表看起來是以校醫身分自豪的人物，實際上卻喜歡傷口與鮮血，性格兇暴卻又具有少女情懷的一面。精通遊戲，時常帶[任天堂DS和](../Page/任天堂DS.md "wikilink")[PSP到學校](../Page/PlayStation_Portable.md "wikilink")，並會在遊戲發售日徹夜排隊。身材不起眼，但愛輝所言「就是這樣才棒」。
+    對病人有如天使般溫柔，但對裝病的人有如惡魔一般。具有喜歡鮮血的危險興趣。帶著眼鏡。大和泉與南雲兩屆，不過與和泉十分親近。外表看起來是以校醫身分自豪的人物，實際上卻喜歡傷口與鮮血，性格兇暴卻又具有少女情懷的一面。精通遊戲，時常帶[任天堂DS](../Page/任天堂DS.md "wikilink")和[PSP到學校](../Page/PlayStation_Portable.md "wikilink")，並會在遊戲發售日徹夜排隊。身材不起眼，但愛輝所言「就是這樣才棒」。
     在保健室中一邊玩遊戲、睡覺，一邊焦急的等待學生上門（特別是流血受傷的學生）。對新來的輔導老師谷內搶走學生而感到不滿。但每年暑假過後會有許多煩惱的女學生上門，對此感到厭煩。
     和愛輝從高中時代開始交往，看是無情對待實際上是相思相愛。也有忌妒和害羞等柔弱的一面。
 
@@ -59,7 +56,7 @@ Teachers' Room」）。
 ### 其他教師
 
   - 谷內 幸也（）
-    諮商老師。短髮中分，戴眼鏡的紳士。曾擔任[同人誌即賣會工作人員](../Page/同人誌即賣會.md "wikilink")，來到朝潮之前便知道有子的同人作家身分。
+    諮商老師。短髮中分，戴眼鏡的紳士。曾擔任[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")工作人員，來到朝潮之前便知道有子的同人作家身分。
   - 日比野 早紀
     家庭科教師。在男性教師中相當有人氣，瞇著眼睛的巨乳美人。能夠在三分鐘內以剩餘材料煮成一道菜、使用拖鞋及退蟑螂的家事型女性。
   - 佐佐木 廣
@@ -95,6 +92,4 @@ Teachers' Room」）。
 
   - 教艦ASTRO 1 ISBN 978-9861764160
 
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink")
-[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
+[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")

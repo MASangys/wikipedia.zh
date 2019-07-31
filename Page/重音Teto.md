@@ -1,10 +1,8 @@
-[Kasane_Teto.png](https://zh.wikipedia.org/wiki/File:Kasane_Teto.png "fig:Kasane_Teto.png")
-**重音Teto**（，此處「」為重疊之意，對應漢語音-{zh-hans:chóng;zh-hk:chóng;zh-tw:ㄔㄨㄥˊ;}-）是在2008年4月1日[愚人節前夕](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，由匿名留言板[2ch發起](https://zh.wikipedia.org/wiki/2ch "wikilink")，用作捉弄人的[虛擬偶像](https://zh.wikipedia.org/wiki/虛擬偶像 "wikilink")。後來有人以此[角色](../Page/角色.md "wikilink")為基調，將其製作成[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")[UTAU的聲音資料庫](https://zh.wikipedia.org/wiki/UTAU "wikilink")。其後，由她的音源調降音階後衍生的[性轉換角色](https://zh.wikipedia.org/wiki/性轉換 "wikilink")也被廣泛使用。
+[Kasane_Teto.png](https://zh.wikipedia.org/wiki/File:Kasane_Teto.png "fig:Kasane_Teto.png") **重音Teto**（，此處「」為重疊之意，對應漢語音-{zh-hans:chóng;zh-hk:chóng;zh-tw:ㄔㄨㄥˊ;}-）是在2008年4月1日[愚人節前夕](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，由匿名留言板[2ch發起](https://zh.wikipedia.org/wiki/2ch "wikilink")，用作捉弄人的[虛擬偶像](https://zh.wikipedia.org/wiki/虛擬偶像 "wikilink")。後來有人以此[角色](../Page/角色.md "wikilink")為基調，將其製作成[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")[UTAU的聲音資料庫](https://zh.wikipedia.org/wiki/UTAU "wikilink")。其後，由她的音源調降音階後衍生的[性轉換角色](https://zh.wikipedia.org/wiki/性轉換 "wikilink")也被廣泛使用。
 
 ## 概要
 
-重音Teto的音源為小山乃舞世，與桃音、唄音合稱UTAU三人娘，現在是UTAU中的最高人氣歌手，擔任UTAU招牌娘，在日本[Niconico動畫](../Page/Niconico動畫.md "wikilink")影音網站，UTAU相關動畫約有10萬，其中1/4以上是重音Teto的相關影片，也是目前使用UTAU的虛擬歌手唯二有作品在Niconico動畫達成播放數一百萬的百萬傳說曲的歌手，其中一首
-"伊什的口袋怪物 你可以這麼說！(イッシュのポケモン　言えるのか！)"是與其他Vocaloid歌手合唱達成傳說入\[1\]。
+重音Teto的音源為小山乃舞世，與桃音、唄音合稱UTAU三人娘，現在是UTAU中的最高人氣歌手，擔任UTAU招牌娘，在日本[Niconico動畫](../Page/Niconico動畫.md "wikilink")影音網站，UTAU相關動畫約有10萬，其中1/4以上是重音Teto的相關影片，也是目前使用UTAU的虛擬歌手唯二有作品在Niconico動畫達成播放數一百萬的百萬傳說曲的歌手，其中一首 "伊什的口袋怪物 你可以這麼說！(イッシュのポケモン　言えるのか！)"是與其他Vocaloid歌手合唱達成傳說入\[1\]。
 
 ## 人物設定
 
@@ -40,20 +38,11 @@
 
 ## 反應
 
-  - [SEGA與](https://zh.wikipedia.org/wiki/SEGA "wikilink")[Crypton
-    Future
-    Media](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")（下略作「Crypton」）會社合作的音樂遊戲。在2011年10月11日系列的第二輯發行的『初音ミク
-    -Project DIVA-
-    2nd』中，作為遊戲的兼容角色，可以用DLC模組方式下載重音Teto在遊戲中使用。在第四個項目符號『初音ミク
-    -Project DIVA- F』中，於2012年11月6日發布DLC重音Teto模組。
-  - 重音Teto除了UTAU音源之外，由[初音未來](../Page/初音未來.md "wikilink")的Crypton會社於2017製作了重音Teto的[Vocaloid音源](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，但未公開販售，並以重音Teto
-    Vocaloid音源、UTAU音源和小山乃音源，合併使用在Niconico超會議2017的超歌舞伎花街詞合鏡上，劇目中，重音Teto擔任仲居重音此一角色，與初音未來是劇中唯二的虛擬偶像，劇目主題曲使用重音Teto的知名歌曲吉原哀歌。
-  - Crypton會社於[手塚治虫](../Page/手塚治虫.md "wikilink")誕生90週年及富田誕辰85週年，於2017年9月6日推出公式紀念CD『初音ミク
-    Sings
-    “手塚治虫と冨田勲の音楽を生演奏で”』，結合Vocaloid與UTAU兩大領域第一歌姬初音未來、重音Teto及真人聲優[前田玲奈](../Page/前田玲奈.md "wikilink")共同歌唱手塚治虫動畫歌曲。
+  - [SEGA與](https://zh.wikipedia.org/wiki/SEGA "wikilink")[Crypton Future Media](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")（下略作「Crypton」）會社合作的音樂遊戲。在2011年10月11日系列的第二輯發行的『初音ミク -Project DIVA- 2nd』中，作為遊戲的兼容角色，可以用DLC模組方式下載重音Teto在遊戲中使用。在第四個項目符號『初音ミク -Project DIVA- F』中，於2012年11月6日發布DLC重音Teto模組。
+  - 重音Teto除了UTAU音源之外，由[初音未來](../Page/初音未來.md "wikilink")的Crypton會社於2017製作了重音Teto的[Vocaloid音源](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，但未公開販售，並以重音Teto Vocaloid音源、UTAU音源和小山乃音源，合併使用在Niconico超會議2017的超歌舞伎花街詞合鏡上，劇目中，重音Teto擔任仲居重音此一角色，與初音未來是劇中唯二的虛擬偶像，劇目主題曲使用重音Teto的知名歌曲吉原哀歌。
+  - Crypton會社於[手塚治虫](../Page/手塚治虫.md "wikilink")誕生90週年及富田誕辰85週年，於2017年9月6日推出公式紀念CD『初音ミク Sings “手塚治虫と冨田勲の音楽を生演奏で”』，結合Vocaloid與UTAU兩大領域第一歌姬初音未來、重音Teto及真人聲優[前田玲奈](../Page/前田玲奈.md "wikilink")共同歌唱手塚治虫動畫歌曲。
   - Crypton會社協助重音Teto申請商標著作權，並於2018年4月6日完成商標出願登録。
-  - 為慶祝重音teto
-    10周年，重音Teto生涯第一次個人演唱會『TETOFES』，將於10周年記念的『Teto之日』2018年10月7日灄谷DAIA開場。
+  - 為慶祝重音teto 10周年，重音Teto生涯第一次個人演唱會『TETOFES』，將於10周年記念的『Teto之日』2018年10月7日灄谷DAIA開場。
   - Crypton會社舉辦的公式『初音未來交響樂會2018-2019』(初音ミクシンフォニー2018-2019)，重音teto正式登場，與Crypton虛擬歌姬、公子一同演出。
 
 ## 知名作品
@@ -91,8 +80,7 @@
   -
   - [Niconico動畫-重音Teto創作歌曲](https://www.nicovideo.jp/tag/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88?sort=f)
 
-[Category:UTAU](https://zh.wikipedia.org/wiki/Category:UTAU "wikilink")
-[Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink")
+[Category:UTAU](https://zh.wikipedia.org/wiki/Category:UTAU "wikilink") [Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink")
 
 1.
 2.

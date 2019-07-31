@@ -6,27 +6,21 @@
 
   - [C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")，一種通用的程序式[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，由[丹尼斯·里奇](../Page/丹尼斯·里奇.md "wikilink")在1972年發明。
   - [C++](../Page/C++.md "wikilink")，是一種以C語言為基礎的物件導向[程式設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")。
-  - [Objective-C](../Page/Objective-C.md "wikilink")，C語言的擴充版本，一種[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")[編程語言](https://zh.wikipedia.org/wiki/編程語言 "wikilink")。它主要使用於Mac
-    OS X和GNUstep這兩個使用OpenStep標準的系統，而在NeXTSTEP和OpenStep中它更是基本語言。
-  - [C\#是由微軟公司在](../Page/C♯.md "wikilink")2001年所開發的一種[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，且運作于[.NET
-    Framework之上的高階](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。
+  - [Objective-C](../Page/Objective-C.md "wikilink")，C語言的擴充版本，一種[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")[編程語言](https://zh.wikipedia.org/wiki/編程語言 "wikilink")。它主要使用於Mac OS X和GNUstep這兩個使用OpenStep標準的系統，而在NeXTSTEP和OpenStep中它更是基本語言。
+  - [C\#是由微軟公司在](../Page/C♯.md "wikilink")2001年所開發的一種[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，且運作于[.NET Framework之上的高階](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。
   - [C(數字)](https://zh.wikipedia.org/wiki/十六進位 "wikilink")，在十六進制中，C代表十進制的12。
   - [C(雜誌)](https://zh.wikipedia.org/wiki/C\(雜誌\) "wikilink")，是芬蘭一本在1988年創立的電腦雜誌。英文是(C-lehti或C=lehti)，主要集中介紹Commodore電腦。
   - [Control-C](https://zh.wikipedia.org/wiki/Control-C "wikilink")，即是在鍵盤上按下crtl和C鍵，是美國資訊互換標準代碼([ASCII](../Page/ASCII.md "wikilink"))的一種[控制字元](https://zh.wikipedia.org/wiki/控制字元 "wikilink")，亦稱為(ETX)字元。
   - C，是一種[可計算函數](https://zh.wikipedia.org/wiki/可計算函數 "wikilink")，是用來討論可計算性而不提及任何具體的[計算模型](https://zh.wikipedia.org/wiki/計算模型 "wikilink")。
-  - [MS-DOS](../Page/MS-DOS.md "wikilink")（2.0或以后版本）及[微软视窗](https://zh.wikipedia.org/wiki/微软视窗 "wikilink")[作业系统称第一个實体](https://zh.wikipedia.org/wiki/作业系统 "wikilink")[硬盘](../Page/硬盘.md "wikilink")上的可开机（active）主分割中的逻辑磁盘为“**C:**”或“**c:**”，系统档案都是分別放在此磁盘的DOS、Windows或Windows
-    NT子目錄中。
+  - [MS-DOS](../Page/MS-DOS.md "wikilink")（2.0或以后版本）及[微软视窗](https://zh.wikipedia.org/wiki/微软视窗 "wikilink")[作业系统称第一个實体](https://zh.wikipedia.org/wiki/作业系统 "wikilink")[硬盘](../Page/硬盘.md "wikilink")上的可开机（active）主分割中的逻辑磁盘为“**C:**”或“**c:**”，系统档案都是分別放在此磁盘的DOS、Windows或Windows NT子目錄中。
 
 ## 科技
 
   - [C電池](https://zh.wikipedia.org/wiki/C電池 "wikilink")，又稱二號電池，是其中一種大小的[電池](https://zh.wikipedia.org/wiki/電池 "wikilink")。
   - [電池(真空管)](https://zh.wikipedia.org/wiki/電池\(真空管\) "wikilink")，是真空管收音機的柵極偏壓電池。
-  - [充電速率](../Page/充電器.md "wikilink")，代表充電或放電的速度，等於每小時電池的電容。例如C對於1600mAh的電池是1600
-    mA (或 1.6 amps)，2C即是C速度為兩倍，而1/2C便是C是一半速度。
+  - [充電速率](../Page/充電器.md "wikilink")，代表充電或放電的速度，等於每小時電池的電容。例如C對於1600mAh的電池是1600 mA (或 1.6 amps)，2C即是C速度為兩倍，而1/2C便是C是一半速度。
   - [C形鉗](https://zh.wikipedia.org/wiki/C形鉗 "wikilink")，是一種固定金屬和木材的常見工具，主要在木工和焊接中使用。
-  - [C
-    band波段](https://zh.wikipedia.org/wiki/C_band波段 "wikilink")，代表某一段的電磁波，分別有NATO(500
-    MHz至1000 MHz)和IEEE (4至8 GHz)的C band波段，亦可表示光的某段波長和作通訊用途。
+  - [C band波段](https://zh.wikipedia.org/wiki/C_band波段 "wikilink")，代表某一段的電磁波，分別有NATO(500 MHz至1000 MHz)和IEEE (4至8 GHz)的C band波段，亦可表示光的某段波長和作通訊用途。
   - 在電路圖中，C亦是[電容器的標準縮寫](https://zh.wikipedia.org/wiki/電容器 "wikilink")。
 
 ## 科學
@@ -36,8 +30,7 @@
   - [C單倍群(Y-DNA)](https://zh.wikipedia.org/wiki/C單倍群\(Y-DNA\) "wikilink")，是[人類粒線體DNA單倍體群](../Page/人類粒線體DNA單倍體群.md "wikilink")的一種。
   - [C1](../Page/C1.md "wikilink")至[C7](https://zh.wikipedia.org/wiki/C7 "wikilink")，代表[頸椎骨](https://zh.wikipedia.org/wiki/頸椎骨 "wikilink")。
   - C亦可代表化學元素[碳](../Page/碳.md "wikilink")。
-  - 在[梅西耶天體](../Page/梅西耶天體.md "wikilink")中，C是部分天體的首字縮寫。(參見英文版條目Caldwell
-    catalogue)
+  - 在[梅西耶天體](../Page/梅西耶天體.md "wikilink")中，C是部分天體的首字縮寫。(參見英文版條目Caldwell catalogue)
   - c，代表在真空下的[光速](../Page/光速.md "wikilink")。
   - c，亦代表[音速](../Page/音速.md "wikilink")。
   - [胞嘧啶](../Page/胞嘧啶.md "wikilink")，是構成[DNA的四种](https://zh.wikipedia.org/wiki/DNA "wikilink")[核苷酸](../Page/核苷酸.md "wikilink")结構之一。
@@ -64,8 +57,7 @@
   - [不定積分解之](https://zh.wikipedia.org/wiki/不定積分 "wikilink")[常数项](https://zh.wikipedia.org/wiki/常数 "wikilink")。
   - [圆周](https://zh.wikipedia.org/wiki/圆周 "wikilink")。
   - 在機率中，[組合](../Page/組合.md "wikilink")或所選擇的函數，例如"在一次中組合n個物體k"或"n組合k"，會以下列的方式表示。
-    \(\mathbf{C}(n,k)\)
-    ，\(\mathbf{C}_k^n\)、\(\mathbf{_nC_k}\)或\({n \choose k}\)
+    \(\mathbf{C}(n,k)\) ，\(\mathbf{C}_k^n\)、\(\mathbf{_nC_k}\)或\({n \choose k}\)
   - 在[几何学](../Page/几何学.md "wikilink")中，c表示[截距](https://zh.wikipedia.org/wiki/截距 "wikilink")（intercept）。
 
 ## 測量
@@ -73,15 +65,11 @@
   - c.或[circa](https://zh.wikipedia.org/wiki/circa "wikilink")，是一個大約日期或其他數值。
   - °C，[攝氏溫標](https://zh.wikipedia.org/wiki/攝氏溫標 "wikilink")。
   - C，[克拉](../Page/克拉.md "wikilink")或稱卡、卡拉，是珠玉、[鑽石等](https://zh.wikipedia.org/wiki/鑽石 "wikilink")[寶石](../Page/寶石.md "wikilink")的[質量單位](https://zh.wikipedia.org/wiki/質量 "wikilink")，和[貴金屬](../Page/貴金屬.md "wikilink")的[純度比例](https://zh.wikipedia.org/wiki/純度 "wikilink")。
-  - c,
-    [百分之](https://zh.wikipedia.org/wiki/百分之 "wikilink")，是國際單位制詞頭，代表10<sup>−2</sup>，或1/100。
-  - C,
-    [庫侖](https://zh.wikipedia.org/wiki/庫侖 "wikilink"),在國際單位制詞頭中是[電量的單位](https://zh.wikipedia.org/wiki/電量 "wikilink")。
-  - c, [Cup
-    (容量)](https://zh.wikipedia.org/wiki/Cup_\(容量\) "wikilink")，是一個容量單位。在煮食中量度[散裝食品](https://zh.wikipedia.org/wiki/散裝食品 "wikilink")，例如糖又或者一些流質食物。
+  - c, [百分之](https://zh.wikipedia.org/wiki/百分之 "wikilink")，是國際單位制詞頭，代表10<sup>−2</sup>，或1/100。
+  - C, [庫侖](https://zh.wikipedia.org/wiki/庫侖 "wikilink"),在國際單位制詞頭中是[電量的單位](https://zh.wikipedia.org/wiki/電量 "wikilink")。
+  - c, [Cup (容量)](https://zh.wikipedia.org/wiki/Cup_\(容量\) "wikilink")，是一個容量單位。在煮食中量度[散裝食品](https://zh.wikipedia.org/wiki/散裝食品 "wikilink")，例如糖又或者一些流質食物。
   - 在[宝石学](../Page/宝石学.md "wikilink")，[钻石](../Page/钻石.md "wikilink")的鑑定标準简称“4C”，分別代表切割（**C**ut）、色泽（**C**olour）、浄度（**C**larity）和重量（**C**arat）
-  - 在[度量衡中](https://zh.wikipedia.org/wiki/度量衡 "wikilink")，**cc**是“立方厘米”（**c**ubic
-    **c**entimetre）的缩写。
+  - 在[度量衡中](https://zh.wikipedia.org/wiki/度量衡 "wikilink")，**cc**是“立方厘米”（**c**ubic **c**entimetre）的缩写。
 
 ## 音樂
 
@@ -91,8 +79,7 @@
 
 ## 視像媒體 （动画）
 
-  - [C
-    (動畫)](../Page/C_\(動畫\).md "wikilink")，是龍之子Production製作的[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[富士電視台](../Page/富士電視台.md "wikilink")於2011年4月播放。
+  - [C (動畫)](../Page/C_\(動畫\).md "wikilink")，是龍之子Production製作的[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[富士電視台](../Page/富士電視台.md "wikilink")於2011年4月播放。
 
 ## 符號
 
@@ -103,8 +90,7 @@
 
 [Closed_captioning_symbol.svg](https://zh.wikipedia.org/wiki/File:Closed_captioning_symbol.svg "fig:Closed_captioning_symbol.svg")
 
-  - 在[网络语言中](https://zh.wikipedia.org/wiki/网络语言 "wikilink")，**c**经常被用來替代“see”，如“i**c**”即“I
-    see”，“**c**u”即“see you”
+  - 在[网络语言中](https://zh.wikipedia.org/wiki/网络语言 "wikilink")，**c**经常被用來替代“see”，如“i**c**”即“I see”，“**c**u”即“see you”
   - 在[香港](../Page/香港.md "wikilink")的[茶餐廳](../Page/茶餐廳.md "wikilink")中，侍應常將「凍」（**C**old）省作「C」。例如「C0T」即「凍、檸（零）、茶（TEA）」。
   - 在文件或[电子邮件](../Page/电子邮件.md "wikilink")上，**cc**表示“副本抄送”
   - 在小写字母中划一竖线表示“分”（货币），**¢**
@@ -115,9 +101,7 @@
   - C，是[花旗集團在](https://zh.wikipedia.org/wiki/花旗集團 "wikilink")[紐約證券交易所的縮寫](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")。
   - C，是[捷克斯拉夫生產的一種玩具名稱](https://zh.wikipedia.org/wiki/捷克斯拉夫 "wikilink")。
   - C，是[澳式足球](../Page/澳式足球.md "wikilink")的中央位置。
-  - C，是Grupo Financiero
-    Banamex(曾經是墨西哥第二大銀行)的[紐約證券交易所的公司代碼](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")。
+  - C，是Grupo Financiero Banamex(曾經是墨西哥第二大銀行)的[紐約證券交易所的公司代碼](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")。
   - \[c\]，是[國際音標](../Page/國際音標.md "wikilink")中的[清硬顎塞音](../Page/清硬顎塞音.md "wikilink")。
-  - [C位
-    (黑白棋)](https://zh.wikipedia.org/wiki/C位_\(黑白棋\) "wikilink")，代表棋盤上a2、a7、b1、b8、g1、g8、h2和h7的位置。
+  - [C位 (黑白棋)](https://zh.wikipedia.org/wiki/C位_\(黑白棋\) "wikilink")，代表棋盤上a2、a7、b1、b8、g1、g8、h2和h7的位置。
   - C，在[啤牌中](https://zh.wikipedia.org/wiki/啤牌 "wikilink")，C是梅花的縮寫，而在[橋牌中](https://zh.wikipedia.org/wiki/橋牌 "wikilink")，在叫牌的流程，1C代表一梅花，做莊的要有7磴牌，2C即8磴牌，如此類推。

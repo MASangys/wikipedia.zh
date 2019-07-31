@@ -1,22 +1,16 @@
-**Wink**是由[鈴木早智子和](https://zh.wikipedia.org/wiki/鈴木早智子 "wikilink")[相田翔子組成的](../Page/相田翔子.md "wikilink")[日本女子二人組合](../Page/日本.md "wikilink")，活躍於1988年至1996年。
+**Wink**是由[鈴木早智子和](https://zh.wikipedia.org/wiki/鈴木早智子 "wikilink")[相田翔子](../Page/相田翔子.md "wikilink")組成的[日本](../Page/日本.md "wikilink")女子二人組合，活躍於1988年至1996年。
 
 ## 經歷
 
-鈴木早智子和相田翔子在1987年參與出版的《Up to
-boy》[雜誌選美](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。前者奪冠，後者摘亞（有數人同得亞軍）。兩人在一年後隨即組成女子組合，並在1988年4月發行首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《Sugar
-Baby Love》。
+鈴木早智子和相田翔子在1987年參與出版的《Up to boy》[雜誌選美](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。前者奪冠，後者摘亞（有數人同得亞軍）。兩人在一年後隨即組成女子組合，並在1988年4月發行首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《Sugar Baby Love》。
 
 經紀公司原本規劃將兩人的組合取名為「Twinkle」，取其閃耀發光之意，後來因為不好發音的緣故，於是便簡化為「Wink」。
 
-Wink前兩張單曲成績平平，但1988年11月推出的第3張單曲《愛が止まらない 〜Turn It Into
-Love〜》，搭配連續劇成為主題曲，在剛發行時，最高位只到達日本公信榜19位，但歐洲式舞曲曲風和電視劇的推波助瀾下及兩人高貴洋娃娃風格的舞蹈及造型，漸漸贏得大眾的注意，終於在1989年的二月首次拿到日本公信榜的冠軍，創下了64.5萬張的佳績，（此後連續10張單曲都曾名列前3名，直至1991年），從此成為日本眾所皆知的偶像團體。
+Wink前兩張單曲成績平平，但1988年11月推出的第3張單曲《愛が止まらない 〜Turn It Into Love〜》，搭配連續劇成為主題曲，在剛發行時，最高位只到達日本公信榜19位，但歐洲式舞曲曲風和電視劇的推波助瀾下及兩人高貴洋娃娃風格的舞蹈及造型，漸漸贏得大眾的注意，終於在1989年的二月首次拿到日本公信榜的冠軍，創下了64.5萬張的佳績，（此後連續10張單曲都曾名列前3名，直至1991年），從此成為日本眾所皆知的偶像團體。
 
-1989年可說是Wink聲勢最為顛峰的一年，當年度推出的3張單曲《涙をみせないで 〜Boys Don't Cry〜》、《淋しい熱帯魚》、《One
-Night In Heaven
-〜真夜中のエンジェル〜》，接連突破50萬張的唱片銷量，占據銷售排行冠軍，且分別名列當年度銷售排行榜的第5、7、10名，《[淋しい熱帯魚](../Page/寂寞的熱帶魚.md "wikilink")》更獲得了第22回[全日本有線放送大獎及第](../Page/全日本有線放送大獎.md "wikilink")31回[日本唱片大獎的殊榮](../Page/日本唱片大獎.md "wikilink")，並以該曲參加了第40回的[NHK紅白歌唱大賽](https://zh.wikipedia.org/wiki/NHK紅白歌唱大賽 "wikilink")。
+1989年可說是Wink聲勢最為顛峰的一年，當年度推出的3張單曲《涙をみせないで 〜Boys Don't Cry〜》、《淋しい熱帯魚》、《One Night In Heaven 〜真夜中のエンジェル〜》，接連突破50萬張的唱片銷量，占據銷售排行冠軍，且分別名列當年度銷售排行榜的第5、7、10名，《[淋しい熱帯魚](../Page/寂寞的熱帶魚.md "wikilink")》更獲得了第22回[全日本有線放送大獎](../Page/全日本有線放送大獎.md "wikilink")及第31回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")的殊榮，並以該曲參加了第40回的[NHK紅白歌唱大賽](https://zh.wikipedia.org/wiki/NHK紅白歌唱大賽 "wikilink")。
 
-但隨後不久的90年代，日本樂壇吹起了[小室哲哉旋風](../Page/小室哲哉.md "wikilink")，在激烈的競爭下，Wink的唱片銷售成績漸漸不如以往，1995年6月，Wink也改變了以往的風格，推出了舞曲風格的單曲《JIVE
-INTO THE NIGHT 〜野蛮な夜に〜》，但成績卻不盡理想。
+但隨後不久的90年代，日本樂壇吹起了[小室哲哉](../Page/小室哲哉.md "wikilink")旋風，在激烈的競爭下，Wink的唱片銷售成績漸漸不如以往，1995年6月，Wink也改變了以往的風格，推出了舞曲風格的單曲《JIVE INTO THE NIGHT 〜野蛮な夜に〜》，但成績卻不盡理想。
 
 1996年3月底，就在Wink出道即將屆滿8年之際，經紀公司宣布停止Wink的相關活動，鈴木早智子與相田翔子後來則各自以藝人及演員的身分在演藝圈發展。
 
@@ -74,10 +68,6 @@ Wink最大的特色，便是唱歌時臉上完全沒有表情，且均以[羅莉
   -
 ## 外部連結
 
-  - [Wink \*All Love can
-    Be\*](http://www.geocities.jp/wink_all_love_can_be/)
+  - [Wink \*All Love can Be\*](http://www.geocities.jp/wink_all_love_can_be/)
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink")
-[Category:BEST_HIT歌謠祭大獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭大獎獲獎者 "wikilink")
-[Category:1988年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1988年成立的音樂團體 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink") [Category:BEST_HIT歌謠祭大獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭大獎獲獎者 "wikilink") [Category:1988年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1988年成立的音樂團體 "wikilink")

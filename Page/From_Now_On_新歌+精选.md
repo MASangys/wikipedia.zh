@@ -1,5 +1,4 @@
-《**From Now On
-新歌+精選**》是[張棟樑個人第一張新歌加精選輯](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")，也是在台灣[科藝百代的最後一張專輯](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")。由[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華納唱片製作](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）及[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")（[香港](../Page/香港.md "wikilink")）發行。[馬來西亞於](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")2008年3月28日發行，[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")則於2008年4月18日發行。裡面收錄3首全新單曲及20首從張棟樑第一張至第三張專輯的主打歌。
+《**From Now On 新歌+精選**》是[張棟樑個人第一張新歌加精選輯](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")，也是在台灣[科藝百代的最後一張專輯](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")。由[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華納唱片製作](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）及[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")（[香港](../Page/香港.md "wikilink")）發行。[馬來西亞於](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")2008年3月28日發行，[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")則於2008年4月18日發行。裡面收錄3首全新單曲及20首從張棟樑第一張至第三張專輯的主打歌。
 
 ## 曲目
 
@@ -140,13 +139,8 @@
 
 ## 外部連結
 
-  - [EMI－From Now
-    On官方網站](https://web.archive.org/web/20080822073649/http://www.emimusic.com.tw/pop/nicholas/)
-  - [EMI－專輯From Now
-    On介紹](https://web.archive.org/web/20080601071936/http://www.emimusic.com.tw/music/album/1398)
-  - [張棟樑From Now
-    On專輯-歌詞](http://malaysianchinesealbums.blogspot.com/2008/03/nicholas-teo-latest-album-28032008.html)
+  - [EMI－From Now On官方網站](https://web.archive.org/web/20080822073649/http://www.emimusic.com.tw/pop/nicholas/)
+  - [EMI－專輯From Now On介紹](https://web.archive.org/web/20080601071936/http://www.emimusic.com.tw/music/album/1398)
+  - [張棟樑From Now On專輯-歌詞](http://malaysianchinesealbums.blogspot.com/2008/03/nicholas-teo-latest-album-28032008.html)
 
-[Category:張棟樑音樂專輯](https://zh.wikipedia.org/wiki/Category:張棟樑音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
+[Category:張棟樑音樂專輯](https://zh.wikipedia.org/wiki/Category:張棟樑音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")

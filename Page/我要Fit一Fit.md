@@ -260,8 +260,6 @@ Bobby之男友</p></td>
 
 ## 外部連結
 
-  - [無綫官方劇集網頁 -
-    我要Fit一Fit](https://web.archive.org/web/20080604125842/http://tvcity.tvb.com/drama/slim_chances/)
+  - [無綫官方劇集網頁 - 我要Fit一Fit](https://web.archive.org/web/20080604125842/http://tvcity.tvb.com/drama/slim_chances/)
 
-[Category:2002年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2002年無綫電視劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
+[Category:2002年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2002年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")

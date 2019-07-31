@@ -1,6 +1,4 @@
-**NRG**（New Radiancy
-Group，），是[韓國第一代偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，五人[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於1997年出道，初期主要在[中國發展](../Page/中國.md "wikilink")。2005年發表正規七輯後，轉以個人活動為主，但並未解散。2017年，為迎接出道二十週年，NRG暌違12年發行新作，並舉行回歸
-Showcase重啟活動。\[1\]
+**NRG**（New Radiancy Group，），是[韓國第一代偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，五人[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於1997年出道，初期主要在[中國](../Page/中國.md "wikilink")發展。2005年發表正規七輯後，轉以個人活動為主，但並未解散。2017年，為迎接出道二十週年，NRG暌違12年發行新作，並舉行回歸 Showcase重啟活動。\[1\]
 
 NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재일우）**。
 
@@ -232,10 +230,6 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:1997年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1997年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:1997年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1997年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.

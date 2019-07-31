@@ -1,5 +1,4 @@
-**xargs**是一条[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统的常用命令](../Page/操作系统.md "wikilink")。它的作用是将参数列表转换成小块分段传递给其他命令，以避免参数列表过长的问题\[1\]。xargs的作用一般等同于大多数[Unix
-shell中的](../Page/Unix_shell.md "wikilink")[反引号](https://zh.wikipedia.org/wiki/反引号 "wikilink")，但更加灵活易用，并可以正确处理输入中有空格等特殊字符的情况。对于经常产生大量输出的命令如[find](https://zh.wikipedia.org/wiki/find "wikilink")、[locate和](https://zh.wikipedia.org/wiki/locate "wikilink")[grep来说非常有用](https://zh.wikipedia.org/wiki/grep "wikilink")。
+**xargs**是一条[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")的常用命令。它的作用是将参数列表转换成小块分段传递给其他命令，以避免参数列表过长的问题\[1\]。xargs的作用一般等同于大多数[Unix shell中的](../Page/Unix_shell.md "wikilink")[反引号](https://zh.wikipedia.org/wiki/反引号 "wikilink")，但更加灵活易用，并可以正确处理输入中有空格等特殊字符的情况。对于经常产生大量输出的命令如[find](https://zh.wikipedia.org/wiki/find "wikilink")、[locate和](https://zh.wikipedia.org/wiki/locate "wikilink")[grep来说非常有用](https://zh.wikipedia.org/wiki/grep "wikilink")。
 
 ## 示例
 
@@ -72,8 +71,6 @@ find . -name "*.foo" -print0 | xargs -0 -i mv {} /tmp/trash
   -
   -
   -
-[Category:Unix文字处理实用工具](https://zh.wikipedia.org/wiki/Category:Unix文字处理实用工具 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
+[Category:Unix文字处理实用工具](https://zh.wikipedia.org/wiki/Category:Unix文字处理实用工具 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
 
-1.  [GNU Core Utilities
-    FAQ](http://www.gnu.org/software/coreutils/faq/coreutils-faq.html#Argument-list-too-long)
+1.  [GNU Core Utilities FAQ](http://www.gnu.org/software/coreutils/faq/coreutils-faq.html#Argument-list-too-long)

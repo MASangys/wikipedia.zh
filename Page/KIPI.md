@@ -1,13 +1,11 @@
-**KIPI**（KDE Image Plugin
-Interface）是為了制定一個通用的插件結構。其目的是要在各種圖形應用程式之間分享圖像[插件](../Page/插件.md "wikilink")。
+**KIPI**（KDE Image Plugin Interface）是為了制定一個通用的插件結構。其目的是要在各種圖形應用程式之間分享圖像[插件](../Page/插件.md "wikilink")。
 
 照片管理程序，如“digiKam”、“KPhotoAlbum”、“GwenView”和“ShowImg”通過使用插件就可以擴展它的功能。插件可以讓用戶使用幾乎任何方式操縱圖像文件。透過編寫一個小插件更容易添加主體應用程序的能力，而不需要修改主體應用程序的核心。許多有價值的插件的[C++](../Page/C++.md "wikilink")源代碼，只有到100-200行左右。
 
 ## 主體應用程序
 
   - [digiKam](https://zh.wikipedia.org/wiki/digiKam "wikilink")\[1\]
-  - [KPhotoAlbum](https://zh.wikipedia.org/wiki/KPhotoAlbum "wikilink")
-    \[2\]
+  - [KPhotoAlbum](https://zh.wikipedia.org/wiki/KPhotoAlbum "wikilink") \[2\]
   - [ShowImg](https://zh.wikipedia.org/wiki/ShowImg "wikilink")\[3\]
   - [Gwenview](../Page/Gwenview.md "wikilink")\[4\]
   - [KSquirrel](https://zh.wikipedia.org/wiki/KSquirrel "wikilink")\[5\]
@@ -50,5 +48,4 @@ Interface）是為了制定一個通用的插件結構。其目的是要在各�
 2.
 3.
 4.
-5.  [KSquirrel
-    changelog](http://ksquirrel.sourceforge.net/changelog.php)
+5.  [KSquirrel changelog](http://ksquirrel.sourceforge.net/changelog.php)

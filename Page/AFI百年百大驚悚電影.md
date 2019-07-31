@@ -1,4 +1,4 @@
-**AFI百年百大驚悚電影**（）是2001年[美国电影学会從](../Page/美国电影学会.md "wikilink")400片提名電影中選出的100部百年來最偉大的驚悚片的集合，它是[美国电影学会百年系列的一个重要部分](../Page/AFI百年系列.md "wikilink")\[1\]。
+**AFI百年百大驚悚電影**（）是2001年[美国电影学会](../Page/美国电影学会.md "wikilink")從400片提名電影中選出的100部百年來最偉大的驚悚片的集合，它是[美国电影学会百年系列的一个重要部分](../Page/AFI百年系列.md "wikilink")\[1\]。
 
 ## 本名單简介
 
@@ -121,8 +121,7 @@
 
 ## 参见
 
-  - [AFI百年百大电影
-    (1998年版)](https://zh.wikipedia.org/wiki/AFI百年百大电影 "wikilink")
+  - [AFI百年百大电影 (1998年版)](https://zh.wikipedia.org/wiki/AFI百年百大电影 "wikilink")
   - [AFI百年百大电影 (2007年版)](../Page/AFI百年百大电影_\(2007年版\).md "wikilink")
 
 ## 注释
@@ -135,14 +134,10 @@
 
 ## 外部連結
 
-  - [American Film Institute's 100 Years, 100
-    Thrills（百大驚悚片）](http://www.afi.com/Docs/tvevents/pdf/thrills100.pdf)
+  - [American Film Institute's 100 Years, 100 Thrills（百大驚悚片）](http://www.afi.com/Docs/tvevents/pdf/thrills100.pdf)
 
-  - [American Film Institute's 100 Years, 100
-    Thrills（四百大提名片）](http://www.afi.com/Docs/tvevents/pdf/thrills400.pdf)
+  - [American Film Institute's 100 Years, 100 Thrills（四百大提名片）](http://www.afi.com/Docs/tvevents/pdf/thrills400.pdf)
 
-[Category:美國電影學院百年百大系列](https://zh.wikipedia.org/wiki/Category:美國電影學院百年百大系列 "wikilink")
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:驚悚片](https://zh.wikipedia.org/wiki/Category:驚悚片 "wikilink")
+[Category:美國電影學院百年百大系列](https://zh.wikipedia.org/wiki/Category:美國電影學院百年百大系列 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:驚悚片](https://zh.wikipedia.org/wiki/Category:驚悚片 "wikilink")
 
 1.  [AFI官网上的百年百大系列](http://www.afi.com/100years/)

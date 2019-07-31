@@ -1,7 +1,6 @@
 [LE-7_rocket_engine.jpg](https://zh.wikipedia.org/wiki/File:LE-7_rocket_engine.jpg "fig:LE-7_rocket_engine.jpg")
 
-**LE-7火箭发动机**及其改进型LE-7A是[日本](../Page/日本.md "wikilink")为[H2火箭系列制造的液態氢氧发动机](https://zh.wikipedia.org/wiki/H2火箭 "wikilink")。是第一种第一级主引擎。设计研发工作都在日本国内进行，由日本國家太空開發機構(NASDA)，航空宇宙技術研究所(NAL)，[三菱重工和](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")[石川岛播磨重工业公司合力完成](https://zh.wikipedia.org/wiki/IHI公司 "wikilink")。NASDA和NAL已经合并为[JAXA](https://zh.wikipedia.org/wiki/JAXA "wikilink")。设计主要由三菱重工完成，石川岛播磨提供涡轮泵。因为该发动机也称为“三菱重工
-LE-7(A)”。
+**LE-7火箭发动机**及其改进型LE-7A是[日本](../Page/日本.md "wikilink")为[H2火箭系列制造的液態氢氧发动机](https://zh.wikipedia.org/wiki/H2火箭 "wikilink")。是第一种第一级主引擎。设计研发工作都在日本国内进行，由日本國家太空開發機構(NASDA)，航空宇宙技術研究所(NAL)，[三菱重工和](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")[石川岛播磨重工业公司合力完成](https://zh.wikipedia.org/wiki/IHI公司 "wikilink")。NASDA和NAL已经合并为[JAXA](https://zh.wikipedia.org/wiki/JAXA "wikilink")。设计主要由三菱重工完成，石川岛播磨提供涡轮泵。因为该发动机也称为“三菱重工 LE-7(A)”。
 
 LE-7的设计初衷是为H2火箭研制一个不可重用的高效中等尺寸发动机。
 
@@ -31,8 +30,7 @@ LE-7的设计初衷是为H2火箭研制一个不可重用的高效中等尺寸�
 
 ## LE-7A
 
-[thumb](https://zh.wikipedia.org/wiki/file:Mitsubishi_LE-7A.JPG "wikilink")
-LE-7A是LE-7的改进型，没有改变原有的基础设计。但7A在降低成本，增加可靠性和改善性能上有所增强。7A是随着[H-IIA火箭的诞生而设计的](https://zh.wikipedia.org/wiki/H-IIA火箭 "wikilink")。
+[thumb](https://zh.wikipedia.org/wiki/file:Mitsubishi_LE-7A.JPG "wikilink") LE-7A是LE-7的改进型，没有改变原有的基础设计。但7A在降低成本，增加可靠性和改善性能上有所增强。7A是随着[H-IIA火箭的诞生而设计的](https://zh.wikipedia.org/wiki/H-IIA火箭 "wikilink")。
 
 ### 改进
 
@@ -85,8 +83,6 @@ LE-7A是LE-7的改进型，没有改变原有的基础设计。但7A在降低成
 
   - [H-IIA 火箭的发动机研制](http://www.mhi.co.jp/tech/pdf/e392/e392051.pdf)
 
-[Category:日本航天](https://zh.wikipedia.org/wiki/Category:日本航天 "wikilink")
-[Category:火箭发动机](https://zh.wikipedia.org/wiki/Category:火箭发动机 "wikilink")
+[Category:日本航天](https://zh.wikipedia.org/wiki/Category:日本航天 "wikilink") [Category:火箭发动机](https://zh.wikipedia.org/wiki/Category:火箭发动机 "wikilink")
 
-1.  [AIAA technical paper abstract on LE-7A Nozzle
-    Configurations](http://pdf.aiaa.org/preview/CDReadyMJPC2003_775/PV2003_4763.pdf)
+1.  [AIAA technical paper abstract on LE-7A Nozzle Configurations](http://pdf.aiaa.org/preview/CDReadyMJPC2003_775/PV2003_4763.pdf)

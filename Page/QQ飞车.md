@@ -25,11 +25,7 @@
   - [中国国内版手机官網](http://speedm.qq.com/)
   - [台湾国际版手机官網](https://speed.garena.tw)
 
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:競速遊戲](https://zh.wikipedia.org/wiki/Category:競速遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:競速遊戲](https://zh.wikipedia.org/wiki/Category:競速遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.  《[QQ飞车2.0《变形机甲新纪元》TGC现场正式发布](http://speed.qq.com/webplat/info/news_version3/147/534/535/540/m3135/201211/182370.shtml)》
 2.

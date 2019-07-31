@@ -1,6 +1,4 @@
-**尼罗**（）是一个由[DC漫画出版的反派虚拟人物](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")，首次出现于《[绿光戰警](https://zh.wikipedia.org/wiki/绿光戰警 "wikilink")
-第三卷
-\#132》（2001年），由[贾德·威尼克和](https://zh.wikipedia.org/wiki/贾德·威尼克 "wikilink")[达利尔·班克斯所创作](https://zh.wikipedia.org/wiki/达利尔·班克斯 "wikilink")。
+**尼罗**（）是一个由[DC漫画出版的反派虚拟人物](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")，首次出现于《[绿光戰警](https://zh.wikipedia.org/wiki/绿光戰警 "wikilink") 第三卷 \#132》（2001年），由[贾德·威尼克和](https://zh.wikipedia.org/wiki/贾德·威尼克 "wikilink")[达利尔·班克斯所创作](https://zh.wikipedia.org/wiki/达利尔·班克斯 "wikilink")。
 
 ## 历史
 
@@ -38,8 +36,7 @@
 
 阿历克斯·尼罗再次登场\[1\]。他在之前的故事中乔装成[凯尔·雷纳](../Page/凯尔·雷纳.md "wikilink")在宇宙中屠杀生灵，被前来追查的[哈尔·乔丹](../Page/哈尔·乔丹.md "wikilink")发现了真实身份。
 
-在《离子
-\#5》中，与哈尔·乔丹、凯尔·雷纳交战后，尼罗由于招支不住[离子强大力量的打击而失去知觉](../Page/离子_\(DC漫画\).md "wikilink")。在此之前他透露，他被一未知团体强迫乔装妆成离子侠。
+在《离子 \#5》中，与哈尔·乔丹、凯尔·雷纳交战后，尼罗由于招支不住[离子强大力量的打击而失去知觉](../Page/离子_\(DC漫画\).md "wikilink")。在此之前他透露，他被一未知团体强迫乔装妆成离子侠。
 
 凯尔·雷纳带着尼罗前往[Oa星球](https://zh.wikipedia.org/wiki/Oa星球 "wikilink")，向监护者寻求答案。然而，当尼罗被监护者们唤醒时，他似乎自发地释放了大量的能源，就像发生爆炸一样\[2\]。尼罗被监护者们关押了起来，仍然是精神极不稳定但已恢复意识。
 
@@ -59,10 +56,7 @@
 
 ## 参考文献
 
-[分类:DC漫画超级反派](https://zh.wikipedia.org/wiki/分类:DC漫画超级反派 "wikilink")
-[分类:虚构谋杀犯](https://zh.wikipedia.org/wiki/分类:虚构谋杀犯 "wikilink")
-[分类:虚构艺术家](https://zh.wikipedia.org/wiki/分类:虚构艺术家 "wikilink")
-[分类:2001年首次亮相的漫画角色](https://zh.wikipedia.org/wiki/分类:2001年首次亮相的漫画角色 "wikilink")
+[分类:DC漫画超级反派](https://zh.wikipedia.org/wiki/分类:DC漫画超级反派 "wikilink") [分类:虚构谋杀犯](https://zh.wikipedia.org/wiki/分类:虚构谋杀犯 "wikilink") [分类:虚构艺术家](https://zh.wikipedia.org/wiki/分类:虚构艺术家 "wikilink") [分类:2001年首次亮相的漫画角色](https://zh.wikipedia.org/wiki/分类:2001年首次亮相的漫画角色 "wikilink")
 
 1.  *Ion* \#4
 2.  *Ion* \#5

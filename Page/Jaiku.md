@@ -1,6 +1,4 @@
-**Jaiku**是一個「[社群網路](https://zh.wikipedia.org/wiki/社群網路 "wikilink")」、「[微型部落格](https://zh.wikipedia.org/wiki/微型部落格 "wikilink")」及「人生轉播」服務，類似[Twitter](../Page/Twitter.md "wikilink")，由[芬蘭的Jyri](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")
-Engeström及Petteri
-Koponen於2006年2月成立，同年七月正式運行，2007年10月9日被[Google](../Page/Google.md "wikilink")收購。
+**Jaiku**是一個「[社群網路](https://zh.wikipedia.org/wiki/社群網路 "wikilink")」、「[微型部落格](https://zh.wikipedia.org/wiki/微型部落格 "wikilink")」及「人生轉播」服務，類似[Twitter](../Page/Twitter.md "wikilink")，由[芬蘭的Jyri](https://zh.wikipedia.org/wiki/芬蘭 "wikilink") Engeström及Petteri Koponen於2006年2月成立，同年七月正式運行，2007年10月9日被[Google](../Page/Google.md "wikilink")收購。
 
 ## 歷史
 
@@ -27,13 +25,6 @@ Jaiku兼容S60平台手提電話，因為Jaiku有此平台的客戶端軟體，�
 
   - [JaikuEngine](http://code.google.com/p/jaikuengine/)
 
-[Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink")
-[Category:微博客](https://zh.wikipedia.org/wiki/Category:微博客 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:社交网络服务](https://zh.wikipedia.org/wiki/Category:社交网络服务 "wikilink")
-[Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
-[Category:2006年芬蘭建立](https://zh.wikipedia.org/wiki/Category:2006年芬蘭建立 "wikilink")
+[Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink") [Category:微博客](https://zh.wikipedia.org/wiki/Category:微博客 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:社交网络服务](https://zh.wikipedia.org/wiki/Category:社交网络服务 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:2006年芬蘭建立](https://zh.wikipedia.org/wiki/Category:2006年芬蘭建立 "wikilink")
 
-1.  [Official Google
-    Blog](http://googleblog.blogspot.com/2011/10/fall-sweep.html)
+1.  [Official Google Blog](http://googleblog.blogspot.com/2011/10/fall-sweep.html)

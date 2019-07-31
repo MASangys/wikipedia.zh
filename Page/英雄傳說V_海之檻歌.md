@@ -2,13 +2,9 @@
 
 ## 概要
 
-與《[英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")》、《[英雄傳說IV
--{zh-cn:朱红的泪;
-zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》合稱為《卡卡布三部曲》。
+與《[英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")》、《[英雄傳說IV -{zh-cn:朱红的泪; zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》合稱為《卡卡布三部曲》。
 
-接續《[英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")》、《[英雄傳說IV
--{zh-cn:朱红的泪;
-zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》，為卡卡布三部曲的最終作。但作品時間設定在4代（卡卡布曆936年）與3代（卡卡布曆992年）之間，為卡卡布曆943年。舞臺是「大蛇的背骨」南側的威特路那。
+接續《[英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")》、《[英雄傳說IV -{zh-cn:朱红的泪; zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》，為卡卡布三部曲的最終作。但作品時間設定在4代（卡卡布曆936年）與3代（卡卡布曆992年）之間，為卡卡布曆943年。舞臺是「大蛇的背骨」南側的威特路那。
 
 ## 工作人員
 
@@ -16,8 +12,7 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》，為�
   - 劇本：[早川正](https://zh.wikipedia.org/wiki/早川正 "wikilink")、[小野聰子](https://zh.wikipedia.org/wiki/小野聰子 "wikilink")、[竹入久喜](https://zh.wikipedia.org/wiki/竹入久喜 "wikilink")、[近藤季洋](https://zh.wikipedia.org/wiki/近藤季洋 "wikilink")、[奧山はるか](https://zh.wikipedia.org/wiki/奧山はるか "wikilink")
   - 劇本計畫：[遠藤徹](https://zh.wikipedia.org/wiki/遠藤徹 "wikilink")、[近藤季洋](https://zh.wikipedia.org/wiki/近藤季洋 "wikilink")
   - 圖像：[村上星兒](https://zh.wikipedia.org/wiki/村上水軍_\(插畫師\) "wikilink")、[荒木健](https://zh.wikipedia.org/wiki/荒木健 "wikilink")、[梶谷幸人](https://zh.wikipedia.org/wiki/梶谷幸人 "wikilink")、[酒井美知代](https://zh.wikipedia.org/wiki/酒井美知代 "wikilink")、[奧山はるか](https://zh.wikipedia.org/wiki/奧山はるか "wikilink")、[高居淳](https://zh.wikipedia.org/wiki/高居淳 "wikilink")、[津嘉山あずさ](https://zh.wikipedia.org/wiki/津嘉山あずさ "wikilink")
-  - 音乐：[Falcom Sound Team
-    jdk](https://zh.wikipedia.org/wiki/Falcom_Sound_Team_jdk "wikilink")（[松岡博文](https://zh.wikipedia.org/wiki/松岡博文 "wikilink")、[白川篤史](../Page/天門_\(作曲家\).md "wikilink")、[中島勝](https://zh.wikipedia.org/wiki/中島タケオ "wikilink")、[園田隼人](https://zh.wikipedia.org/wiki/園田隼人 "wikilink")、[松村弘和](https://zh.wikipedia.org/wiki/松村弘和 "wikilink")、[石橋渡](https://zh.wikipedia.org/wiki/石橋渡 "wikilink")）
+  - 音乐：[Falcom Sound Team jdk](../Page/Falcom_Sound_Team_jdk.md "wikilink")（[松岡博文](../Page/松岡博文.md "wikilink")、[白川篤史](../Page/天門_\(作曲家\).md "wikilink")、[中島勝](https://zh.wikipedia.org/wiki/中島タケオ "wikilink")、[園田隼人](https://zh.wikipedia.org/wiki/園田隼人 "wikilink")、[松村弘和](https://zh.wikipedia.org/wiki/松村弘和 "wikilink")、[石橋渡](https://zh.wikipedia.org/wiki/石橋渡 "wikilink")）
   - 片頭圖像：[新津誠](../Page/新海誠.md "wikilink")、[小林慶久](https://zh.wikipedia.org/wiki/小林慶久 "wikilink")、[山中綾子](https://zh.wikipedia.org/wiki/山中綾子 "wikilink")、[山田秀樹](../Page/山田秀樹.md "wikilink")
   - 片頭計畫：[村上剛](https://zh.wikipedia.org/wiki/村上剛 "wikilink")
   - 插圖：[川元利弘](https://zh.wikipedia.org/wiki/川元利弘 "wikilink")、[岩崎美奈子](../Page/岩崎美奈子.md "wikilink")
@@ -413,8 +408,7 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》，為�
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
   - [英雄傳說 卡卡布三部曲](../Page/英雄傳說_卡卡布三部曲.md "wikilink")
   - [英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")
-  - [英雄傳說IV -{zh-cn:朱红的泪;
-    zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")
+  - [英雄傳說IV -{zh-cn:朱红的泪; zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")
 
 ## 外部連結
 
@@ -424,8 +418,4 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》，為�
   - 官方BBS
       - [](https://web.archive.org/web/20071231065332/http://www.falcom.com/qanda/bbsED/wwwbbs.cgi)
 
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink")
-[Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink")
-[Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")
-[Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink") [Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink") [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")

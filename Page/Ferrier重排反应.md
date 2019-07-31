@@ -1,6 +1,4 @@
-**Ferrier重排反应**（Ferrier
-rearrangement），由[糖化学家](https://zh.wikipedia.org/wiki/糖化学 "wikilink")[罗伯特·费里尔](https://zh.wikipedia.org/wiki/罗伯特·费里尔 "wikilink")（Robert
-J. Ferrier）首先报道。\[1\]
+**Ferrier重排反应**（Ferrier rearrangement），由[糖化学家](https://zh.wikipedia.org/wiki/糖化学 "wikilink")[罗伯特·费里尔](https://zh.wikipedia.org/wiki/罗伯特·费里尔 "wikilink")（Robert J. Ferrier）首先报道。\[1\]
 
 [烯糖](https://zh.wikipedia.org/wiki/烯糖 "wikilink")（2,3-[不饱和](https://zh.wikipedia.org/wiki/不饱和 "wikilink")[糖苷](../Page/糖苷.md "wikilink")）经[亲核取代反应](../Page/亲核取代反应.md "wikilink")，生成[烯丙基重排的产物](https://zh.wikipedia.org/wiki/烯丙基重排 "wikilink")。
 
@@ -9,12 +7,7 @@ J. Ferrier）首先报道。\[1\]
 
 ## 反应机理
 
-首先在[路易斯酸](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")（如[氯化铟](../Page/氯化铟.md "wikilink")或[三氟化硼](../Page/三氟化硼.md "wikilink")）作用下，乙酸根离子离去，产生离域的氧杂烯丙基碳正离子
-(2)。 接下来
-(2)原位与[醇](../Page/醇.md "wikilink")作用，生成2-[糖苷](../Page/糖苷.md "wikilink")的
-α- (3) 和 β- (4)
-[异头物](https://zh.wikipedia.org/wiki/异头物 "wikilink")，同时双键迁移至
-3,4- 位。\[2\]
+首先在[路易斯酸](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")（如[氯化铟](../Page/氯化铟.md "wikilink")或[三氟化硼](../Page/三氟化硼.md "wikilink")）作用下，乙酸根离子离去，产生离域的氧杂烯丙基碳正离子 (2)。 接下来 (2)原位与[醇](../Page/醇.md "wikilink")作用，生成2-[糖苷](../Page/糖苷.md "wikilink")的 α- (3) 和 β- (4) [异头物](https://zh.wikipedia.org/wiki/异头物 "wikilink")，同时双键迁移至 3,4- 位。\[2\]
 
 ## 例子
 
@@ -31,10 +24,7 @@ J. Ferrier）首先报道。\[1\]
 
 ### 生成*C*-糖苷
 
-用[硅烷替代醇](https://zh.wikipedia.org/wiki/硅烷 "wikilink")，可得 *C*-糖苷。
-如果硅烷为[三乙基硅烷](https://zh.wikipedia.org/wiki/三乙基硅烷 "wikilink")（R'
-= H），则反应后得到
-3,4-不饱和[脱氧糖](https://zh.wikipedia.org/wiki/脱氧糖 "wikilink")。\[11\]
+用[硅烷替代醇](https://zh.wikipedia.org/wiki/硅烷 "wikilink")，可得 *C*-糖苷。 如果硅烷为[三乙基硅烷](https://zh.wikipedia.org/wiki/三乙基硅烷 "wikilink")（R' = H），则反应后得到 3,4-不饱和[脱氧糖](https://zh.wikipedia.org/wiki/脱氧糖 "wikilink")。\[11\]
 
 
 [Ferrier_rearrangement_C-glycoside.svg](https://zh.wikipedia.org/wiki/File:Ferrier_rearrangement_C-glycoside.svg "fig:Ferrier_rearrangement_C-glycoside.svg")
@@ -52,18 +42,13 @@ J. Ferrier）首先报道。\[1\]
 
 ## 参考资料
 
-[Category:碳－杂原子键形成反应](https://zh.wikipedia.org/wiki/Category:碳－杂原子键形成反应 "wikilink")
-[Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
-[Category:糖化学](https://zh.wikipedia.org/wiki/Category:糖化学 "wikilink")
+[Category:碳－杂原子键形成反应](https://zh.wikipedia.org/wiki/Category:碳－杂原子键形成反应 "wikilink") [Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink") [Category:糖化学](https://zh.wikipedia.org/wiki/Category:糖化学 "wikilink")
 
 1.
 
 2.
 
-3.   ([open
-    access](https://zh.wikipedia.org/wiki/open_access_\(publishing\) "wikilink")
-    publication)
+3.   ([open access](https://zh.wikipedia.org/wiki/open_access_\(publishing\) "wikilink") publication)
 
 4.
 

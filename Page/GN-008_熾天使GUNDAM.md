@@ -15,20 +15,15 @@
 | 武裝                                                                                                      |
 | 特殊裝置                                                                                                    |
 
-**GN-008 熾天使GUNDAM（Seravee
-Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
-Suit），由提耶利亞·厄德所駕駛。
+**GN-008 熾天使GUNDAM（Seravee Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile Suit），由提耶利亞·厄德所駕駛。
 
 ## 介紹
 
 天上人的第四世代GUNDAM之一，於2312年首次登場，是新生天上人的三台第3.5世代GUNDAM中最早投入實戰之機體。
 
-本機為[GN-005
-德天使GUNDAM的後繼機](../Page/GN-005_德天使GUNDAM.md "wikilink")，同為重裝型GUNDAM，但基本性能較前一代更為提高。作為德天使GUNDAM概念的發展型，同樣也裝備了大型粒子砲以對應艦隊戰和要塞戰。
+本機為[GN-005 德天使GUNDAM的後繼機](../Page/GN-005_德天使GUNDAM.md "wikilink")，同為重裝型GUNDAM，但基本性能較前一代更為提高。作為德天使GUNDAM概念的發展型，同樣也裝備了大型粒子砲以對應艦隊戰和要塞戰。
 
-背部隱藏著巨大的GUNDAM臉，臉部出現之狀態稱為「Face Burst
-Mode」，在GN粒子輸出功率大幅提升時啟動。主武裝是GN火箭砲Ⅱ和4門GN加農砲，可以改變組合產生不同的攻擊手法。
+背部隱藏著巨大的GUNDAM臉，臉部出現之狀態稱為「Face Burst Mode」，在GN粒子輸出功率大幅提升時啟動。主武裝是GN火箭砲Ⅱ和4門GN加農砲，可以改變組合產生不同的攻擊手法。
 
 本機設有特殊能力，但在與天上人超級電腦Veda失去連結的狀態下無法使用。
 
@@ -46,8 +41,7 @@ Mode」，在GN粒子輸出功率大幅提升時啟動。主武裝是GN火箭砲
 <!-- end list -->
 
   -
-    首次出擊並進行於宇宙殖民地「榮耀」的救援任務，拯救了即將敗陣之[GN-001RE
-    能天使GUNDAM修補版](https://zh.wikipedia.org/wiki/GN-001_能天使GUNDAM#GN-001RE_能天使GUNDAM改（Gundam_Exia_Repair） "wikilink")。
+    首次出擊並進行於宇宙殖民地「榮耀」的救援任務，拯救了即將敗陣之[GN-001RE 能天使GUNDAM修補版](https://zh.wikipedia.org/wiki/GN-001_能天使GUNDAM#GN-001RE_能天使GUNDAM改（Gundam_Exia_Repair） "wikilink")。
 
 <!-- end list -->
 
@@ -83,23 +77,14 @@ Mode」，在GN粒子輸出功率大幅提升時啟動。主武裝是GN火箭砲
 <!-- end list -->
 
   -
-    被回收後修補改良成為[GN-008RE 熾天使GUNDAM
-    II](https://zh.wikipedia.org/wiki/GN-008RE_熾天使GUNDAM_II "wikilink")，並作為後繼機[CB-002
-    療天使GUNDAM之追加裝備](https://zh.wikipedia.org/wiki/CB-002_療天使GUNDAM "wikilink")。
-    在ELS之戰中由提耶利亞遙距控制並拔出正被ELS侵蝕之[GN-0000RE+GNR-010
-    00強化模組容器型的駕駛艙](https://zh.wikipedia.org/wiki/GN-0000RE+GNR-010_00強化模組容器型 "wikilink")，機體也被ELS侵蝕而與00強化模組容器型一同自爆。
+    被回收後修補改良成為[GN-008RE 熾天使GUNDAM II](https://zh.wikipedia.org/wiki/GN-008RE_熾天使GUNDAM_II "wikilink")，並作為後繼機[CB-002 療天使GUNDAM之追加裝備](https://zh.wikipedia.org/wiki/CB-002_療天使GUNDAM "wikilink")。
+    在ELS之戰中由提耶利亞遙距控制並拔出正被ELS侵蝕之[GN-0000RE+GNR-010 00強化模組容器型的駕駛艙](https://zh.wikipedia.org/wiki/GN-0000RE+GNR-010_00強化模組容器型 "wikilink")，機體也被ELS侵蝕而與00強化模組容器型一同自爆。
 
 ## 武裝
 
 ### GN火箭砲II（GN Bazooka II）×2
 
-改良自[德天使GUNDAM的GN火箭砲](https://zh.wikipedia.org/wiki/德天使GUNDAM "wikilink")，熾天使共搭載兩把。平時與GN加農砲連用進行輪番射擊或是齊射，兩挺火箭砲可合體成為「雙重火箭砲（港譯：GN雙聯大砲）（Double
-Bazooka）」，其中央能進一步展開成為「重火力模式（港譯：爆發模式）（Burst
-Mode）」，重火力模式下肩部GN加農砲連結後為「雙管重火力火箭加農砲（Twin
-Burst Bazooka Cannon）」單管模式下與肩部的GN加農砲連結後為「破壞加農砲（Buster
-Cannon）」兩門火箭砲同時連結兩肩的加農砲則為「雙重破壞加農砲（Twin Buster
-Cannon)，如開啟Trans-AM系統並連同四門GN加農砲使用時稱為「超絕重火力模式（港譯：超爆發模式）（Hyper Burst
-Mode）」，可發射威力驚人的大型火球，其威力之大除了能融解死兆砲的堅硬裝甲之外，甚至能彈開向其發射的光束攻擊。
+改良自[德天使GUNDAM的GN火箭砲](https://zh.wikipedia.org/wiki/德天使GUNDAM "wikilink")，熾天使共搭載兩把。平時與GN加農砲連用進行輪番射擊或是齊射，兩挺火箭砲可合體成為「雙重火箭砲（港譯：GN雙聯大砲）（Double Bazooka）」，其中央能進一步展開成為「重火力模式（港譯：爆發模式）（Burst Mode）」，重火力模式下肩部GN加農砲連結後為「雙管重火力火箭加農砲（Twin Burst Bazooka Cannon）」單管模式下與肩部的GN加農砲連結後為「破壞加農砲（Buster Cannon）」兩門火箭砲同時連結兩肩的加農砲則為「雙重破壞加農砲（Twin Buster Cannon)，如開啟Trans-AM系統並連同四門GN加農砲使用時稱為「超絕重火力模式（港譯：超爆發模式）（Hyper Burst Mode）」，可發射威力驚人的大型火球，其威力之大除了能融解死兆砲的堅硬裝甲之外，甚至能彈開向其發射的光束攻擊。
 
 ### GN加農砲（GN Cannon）×4
 
@@ -216,9 +201,7 @@ GN力場幾乎能夠防禦從實體彈到粒子束的所有類型攻擊，雖然
 | 武裝                   |
 | 特殊裝置                 |
 
-熾天使GUNDAM的GN重型武裝追加方案之一，藉由一台[GN-009
-天使長GUNDAM及兩台無人駕駛型](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM "wikilink")[GN-00902
-SEM](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM#GN-00902（SEM） "wikilink")，能夠在數百公里的範圍內展開審判領域，而熾天使GUNDAM本體以及兩部SEM透過量子通信由天使長GUNDAM進行遠端遙控。
+熾天使GUNDAM的GN重型武裝追加方案之一，藉由一台[GN-009 天使長GUNDAM及兩台無人駕駛型](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM "wikilink")[GN-00902 SEM](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM#GN-00902（SEM） "wikilink")，能夠在數百公里的範圍內展開審判領域，而熾天使GUNDAM本體以及兩部SEM透過量子通信由天使長GUNDAM進行遠端遙控。
 
 但由於兩部SEM的製造較為困難，再加上提耶利亞當時處於無法與吠陀連接的狀態中，因此SEM對於熾天使GUNDAM而言無非只是累贅，甚至可能在奪回吠陀之前就被擊墜，因此最後熾天使GUNDAM採用了GNHW/B方案的追加武裝。
 
@@ -277,8 +260,7 @@ SEM](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM#GN-00902（SEM） "wik
 | 武裝               |
 | 特殊裝置             |
 
-裝備於新型CB-002
-療天使鋼彈背部的機體，以於前次大戰中破損的熾天使鋼彈修補而成，塗裝從白色改為黑色，動力源改為三座GN-Drive\[τ\]。
+裝備於新型CB-002 療天使鋼彈背部的機體，以於前次大戰中破損的熾天使鋼彈修補而成，塗裝從白色改為黑色，動力源改為三座GN-Drive\[τ\]。
 
 武裝包括兩把GN火箭炮及兩把GN光束軍刀。
 

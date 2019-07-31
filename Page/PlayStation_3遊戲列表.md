@@ -1,11 +1,8 @@
-「[PlayStation
-3](../Page/PlayStation_3.md "wikilink")」遊戲以公開發售，或透過下載遊戲至硬碟內遊玩。部份遊戲同時提供光碟版本及網絡付費下載版本。
+「[PlayStation 3](../Page/PlayStation_3.md "wikilink")」遊戲以公開發售，或透過下載遊戲至硬碟內遊玩。部份遊戲同時提供光碟版本及網絡付費下載版本。
 
 ## PLAYSTATION 3公開發售的遊戲
 
-「[PlayStation
-3](../Page/PlayStation_3.md "wikilink")」公開發售的遊戲以「[藍光光碟](../Page/藍光光碟.md "wikilink")」作為光碟格式，遊戲是不分區碼限制，任何版本的PlayStation
-3可以進行任何地區的遊戲。
+「[PlayStation 3](../Page/PlayStation_3.md "wikilink")」公開發售的遊戲以「[藍光光碟](../Page/藍光光碟.md "wikilink")」作為光碟格式，遊戲是不分區碼限制，任何版本的PlayStation 3可以進行任何地區的遊戲。
 
 <table>
 <thead>
@@ -11313,10 +11310,7 @@
 
 ## PLAYSTATION®Store網路下載遊戲
 
-「[PlayStation 3](../Page/PlayStation_3.md "wikilink")」玩家可透過「[PlayStation
-Network](../Page/PlayStation_Network.md "wikilink")」進入「[PlayStation
-Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下載對應「PlayStation
-3」之網路下載遊戲。
+「[PlayStation 3](../Page/PlayStation_3.md "wikilink")」玩家可透過「[PlayStation Network](../Page/PlayStation_Network.md "wikilink")」進入「[PlayStation Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下載對應「PlayStation 3」之網路下載遊戲。
 
 <table style="width:95%;">
 <colgroup>
@@ -11555,8 +11549,7 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 
 [PlayStation 3官方日版遊戲發售表](http://www.jp.playstation.com/software/ps3/)
 
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
+[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
 
 1.
 
@@ -11570,744 +11563,383 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 
 6.
 
-7.  [3D Dot Game Heroes - PlayStation 3 -
-    IGN](http://uk.ps3.ign.com/objects/143/14350003.html).
-    Uk.ps3.ign.com (2010-09-23). Retrieved on 2012-11-29.
+7.  [3D Dot Game Heroes - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14350003.html). Uk.ps3.ign.com (2010-09-23). Retrieved on 2012-11-29.
 
-8.  [428 Breaks Wii Barricade, Escapes To PSP And
-    PS3](http://www.siliconera.com/2009/07/01/428-breaks-wii-barricade-escapes-to-psp-and-ps3).
-    Siliconera (2009-07-01). Retrieved on 2012-11-29.
+8.  [428 Breaks Wii Barricade, Escapes To PSP And PS3](http://www.siliconera.com/2009/07/01/428-breaks-wii-barricade-escapes-to-psp-and-ps3). Siliconera (2009-07-01). Retrieved on 2012-11-29.
 
-9.  [50 Cent: Blood on the Sand - PlayStation 3 -
-    IGN](http://www.ign.com/games/50-cent-blood-on-the-sand/ps3-14242724).
-    www,ign.com. Retrieved on 2013-02-16
+9.  [50 Cent: Blood on the Sand - PlayStation 3 - IGN](http://www.ign.com/games/50-cent-blood-on-the-sand/ps3-14242724). www,ign.com. Retrieved on 2013-02-16
 
-10. [Absolute Supercars - PlayStation 3 -
-    IGN](http://www.ign.com/games/absolute-supercars/ps3-123600).
-    Ps3.ign.com (2008-08-13). Retrieved on 2012-11-29.
+10. [Absolute Supercars - PlayStation 3 - IGN](http://www.ign.com/games/absolute-supercars/ps3-123600). Ps3.ign.com (2008-08-13). Retrieved on 2012-11-29.
 
-11. [AC/DC Live: Rock Band Track Pack - PlayStation 3 -
-    IGN](http://uk.ps3.ign.com/objects/142/14285457.html).
-    Uk.ps3.ign.com (2008-10-16). Retrieved on 2012-11-29.
+11. [AC/DC Live: Rock Band Track Pack - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/142/14285457.html). Uk.ps3.ign.com (2008-10-16). Retrieved on 2012-11-29.
 
-12. [Ace Combat Assault Horizon - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/082/082903.html). Ps3.ign.com
-    (2011-12-05). Retrieved on 2012-11-29.
+12. [Ace Combat Assault Horizon - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082903.html). Ps3.ign.com (2011-12-05). Retrieved on 2012-11-29.
 
-13. [Adidas MiCoach - PlayStation 3 -
-    IGN](http://www.ign.com/games/adidas-micoach/ps3-110583).
-    Ps3.ign.com (2011-12-05). Retrieved on 2012-11-29.
+13. [Adidas MiCoach - PlayStation 3 - IGN](http://www.ign.com/games/adidas-micoach/ps3-110583). Ps3.ign.com (2011-12-05). Retrieved on 2012-11-29.
 
-14. [Adventure Time: Explore the Dungeon Because I Don't Know\! -
-    PlayStation 3 -
-    IGN](http://www.ign.com/games/adventure-time-explore-the-dungeon-because-i-dont-know/ps3-168257).
-    Ps3.ign.com (2011-12-05). Retrieved on 2012-11-29.
+14. [Adventure Time: Explore the Dungeon Because I Don't Know\! - PlayStation 3 - IGN](http://www.ign.com/games/adventure-time-explore-the-dungeon-because-i-dont-know/ps3-168257). Ps3.ign.com (2011-12-05). Retrieved on 2012-11-29.
 
-15. [AFL Live - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/143/14333868.html). Ps3.ign.com
-    (2011-04-27). Retrieved on 2012-11-29.
+15. [AFL Live - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14333868.html). Ps3.ign.com (2011-04-27). Retrieved on 2012-11-29.
 
 16.
 
 17. *Hakuna Matata* in Asia
 
-18. [Afrika - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/826/826943.html). Ps3.ign.com
-    (2009-10-06). Retrieved on 2012-11-29.
+18. [Afrika - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826943.html). Ps3.ign.com (2009-10-06). Retrieved on 2012-11-29.
 
-19. [Afro Samurai - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/142/14233719.html). Ps3.ign.com
-    (2009-03-06). Retrieved on 2012-11-29.
+19. [Afro Samurai - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14233719.html). Ps3.ign.com (2009-03-06). Retrieved on 2012-11-29.
 
-20. [After Hours Athletes - PlayStation 3 -
-    IGN](http://www.ign.com/games/after-hours-athletes/ps3-115861).
-    Ps3.ign.com (2011-04-27). Retrieved on 2012-11-29.
+20. [After Hours Athletes - PlayStation 3 - IGN](http://www.ign.com/games/after-hours-athletes/ps3-115861). Ps3.ign.com (2011-04-27). Retrieved on 2012-11-29.
 
-21. [Agent - PlayStation 3 -
-    IGN](http://uk.ps3.ign.com/objects/953/953582.html). Uk.ps3.ign.com.
-    Retrieved on 2012-11-29.
+21. [Agent - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/953/953582.html). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-22. [Air Conflicts: Pacific Carriers - PlayStation 3 -
-    IGN](http://www.ign.com/games/air-conflicts-pacific-carriers/ps3-20004136).
-    Uk.ps3.ign.com. Retrieved on 2012-11-29.
+22. [Air Conflicts: Pacific Carriers - PlayStation 3 - IGN](http://www.ign.com/games/air-conflicts-pacific-carriers/ps3-20004136). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-23. [Air Conflicts: Secret Wars - PlayStation 3 -
-    IGN](http://www.ign.com/games/air-conflicts-secret-wars/ps3-94212).
-    Uk.ps3.ign.com. Retrieved on 2012-11-29.
+23. [Air Conflicts: Secret Wars - PlayStation 3 - IGN](http://www.ign.com/games/air-conflicts-secret-wars/ps3-94212). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-24. [Air Conflicts: Vietnam - PlayStation 3 -
-    IGN](http://www.ign.com/games/air-conflicts-vietnam/ps3-166387).
-    Uk.ps3.ign.com. Retrieved on 2012-11-29.
+24. [Air Conflicts: Vietnam - PlayStation 3 - IGN](http://www.ign.com/games/air-conflicts-vietnam/ps3-166387). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
 25.
 
 26.
 
-27. [Akiba's Trip 2 - PlayStation 3 -
-    IGN](http://www.ign.com/games/akibas-trip-2/ps3-20004573).
-    Ps3.ign.com (2011-06-02). Retrieved on 2012-11-29.
+27. [Akiba's Trip 2 - PlayStation 3 - IGN](http://www.ign.com/games/akibas-trip-2/ps3-20004573). Ps3.ign.com (2011-06-02). Retrieved on 2012-11-29.
 
-28. [Alice: Madness Returns - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/143/14323747.html). Ps3.ign.com
-    (2011-06-02). Retrieved on 2012-11-29.
+28. [Alice: Madness Returns - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14323747.html). Ps3.ign.com (2011-06-02). Retrieved on 2012-11-29.
 
-29. [Aliens: Colonial Marines - PlayStation 3 -
-    IGN](http://www.ign.com/games/aliens-colonial-marines/ps3-868804).
-    IGN (2013-02-12). Retrieved on 2013-08-18.
+29. [Aliens: Colonial Marines - PlayStation 3 - IGN](http://www.ign.com/games/aliens-colonial-marines/ps3-868804). IGN (2013-02-12). Retrieved on 2013-08-18.
 
-30. [Aliens vs. Predator - PlayStation 3 -
-    IGN](http://www.ign.com/games/aliens-vs-predator/ps3-14322170). IGN
-    (2013-02-12). Retrieved on 2013-08-18.
+30. [Aliens vs. Predator - PlayStation 3 - IGN](http://www.ign.com/games/aliens-vs-predator/ps3-14322170). IGN (2013-02-12). Retrieved on 2013-08-18.
 
-31. [All-Pro Football 2K8 - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/881/881586.html). Ps3.ign.com
-    (2007-07-02). Retrieved on 2012-11-29.
+31. [All-Pro Football 2K8 - PlayStation 3 - IGN](http://ps3.ign.com/objects/881/881586.html). Ps3.ign.com (2007-07-02). Retrieved on 2012-11-29.
 
-32. [Alone in the Dark: Inferno - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/772/772037.html). Ps3.ign.com
-    (2008-09-12). Retrieved on 2012-11-29.
+32. [Alone in the Dark: Inferno - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772037.html). Ps3.ign.com (2008-09-12). Retrieved on 2012-11-29.
 
-33. [Alpha Protocol - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/794/794752.html). Ps3.ign.com
-    (2010-06-01). Retrieved on 2012-11-29.
+33. [Alpha Protocol - PlayStation 3 - IGN](http://ps3.ign.com/objects/794/794752.html). Ps3.ign.com (2010-06-01). Retrieved on 2012-11-29.
 
 34.
 
-35. [Anarchy Reigns - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/095/095396.html). Ps3.ign.com
-    (2011-08-17). Retrieved on 2012-11-29.
+35. [Anarchy Reigns - PlayStation 3 - IGN](http://ps3.ign.com/objects/095/095396.html). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-36. [A.C.E. Another Century's Episode R - PlayStation 3 -
-    IGN](http://www.ign.com/games/ace-another-centurys-episode-r/ps3-68814).
-    Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
+36. [A.C.E. Another Century's Episode R - PlayStation 3 - IGN](http://www.ign.com/games/ace-another-centurys-episode-r/ps3-68814). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-37. [Angry Birds Star Wars - PlayStation 3 -
-    IGN](http://www.ign.com/games/star-wars-angry-birds/ps3-20002420).
-    Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
+37. [Angry Birds Star Wars - PlayStation 3 - IGN](http://www.ign.com/games/star-wars-angry-birds/ps3-20002420). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-38. [Angry Birds Trilogy - PlayStation 3 -
-    IGN](http://www.ign.com/games/angry-birds-trilogy/ps3-135852).
-    Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
+38. [Angry Birds Trilogy - PlayStation 3 - IGN](http://www.ign.com/games/angry-birds-trilogy/ps3-135852). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-39. [Apache: Air Assault - PlayStation 3 -
-    IGN](http://www.ign.com/games/apache-air-assault/ps3-80868).
-    Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
+39. [Apache: Air Assault - PlayStation 3 - IGN](http://www.ign.com/games/apache-air-assault/ps3-80868). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-40. [Ape Escape - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/143/14323378.html). Ps3.ign.com
-    (2009-09-24). Retrieved on 2012-11-29.
+40. [Ape Escape - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14323378.html). Ps3.ign.com (2009-09-24). Retrieved on 2012-11-29.
 
-41. [Aqua - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/774/774968.html). Ps3.ign.com
-    (2008-07-07). Retrieved on 2012-11-29.
+41. [Aqua - PlayStation 3 - IGN](http://ps3.ign.com/objects/774/774968.html). Ps3.ign.com (2008-07-07). Retrieved on 2012-11-29.
 
-42. [AquaPazza - PlayStation 3 -
-    IGN](http://www.ign.com/games/aquapazza/ps3-20005454). Ps3.ign.com
-    (2009-09-24). Retrieved on 2012-11-29.
+42. [AquaPazza - PlayStation 3 - IGN](http://www.ign.com/games/aquapazza/ps3-20005454). Ps3.ign.com (2009-09-24). Retrieved on 2012-11-29.
 
-43. [Ar no Surge - PlayStation 3 -
-    IGN](http://www.ign.com/games/ar-no-surge/ps3-20006035). Ps3.ign.com
-    (2011-02-11). Retrieved on 2012-11-29.
+43. [Ar no Surge - PlayStation 3 - IGN](http://www.ign.com/games/ar-no-surge/ps3-20006035). Ps3.ign.com (2011-02-11). Retrieved on 2012-11-29.
 
 44.
 
-45. [Arcana Heart 3 - PlayStation 3 -
-    IGN](http://www.ign.com/games/arcana-heart-3/ps3-81473). Ps3.ign.com
-    (2011-02-11). Retrieved on 2012-11-29.
+45. [Arcana Heart 3 - PlayStation 3 - IGN](http://www.ign.com/games/arcana-heart-3/ps3-81473). Ps3.ign.com (2011-02-11). Retrieved on 2012-11-29.
 
-46. [Ar tonelico Qoga: Knell of Ar Ciel - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/037/037989.html). Ps3.ign.com
-    (2011-02-11). Retrieved on 2012-11-29.
+46. [Ar tonelico Qoga: Knell of Ar Ciel - PlayStation 3 - IGN](http://ps3.ign.com/objects/037/037989.html). Ps3.ign.com (2011-02-11). Retrieved on 2012-11-29.
 
-47. [Armored Core 4 - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/761/761163.html). Ps3.ign.com
-    (2007-06-15). Retrieved on 2012-11-29.
+47. [Armored Core 4 - PlayStation 3 - IGN](http://ps3.ign.com/objects/761/761163.html). Ps3.ign.com (2007-06-15). Retrieved on 2012-11-29.
 
-48. [Armored Core for Answer - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/142/14223782.html). Ps3.ign.com
-    (2008-09-11). Retrieved on 2012-11-29.
+48. [Armored Core for Answer - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14223782.html). Ps3.ign.com (2008-09-11). Retrieved on 2012-11-29.
 
-49. [Armored Core V - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/057/057305.html). Ps3.ign.com
-    (2011-12-15). Retrieved on 2012-11-29.
+49. [Armored Core V - PlayStation 3 - IGN](http://ps3.ign.com/objects/057/057305.html). Ps3.ign.com (2011-12-15). Retrieved on 2012-11-29.
 
-50. [Armored Core: Verdict Day - PlayStation 3 -
-    IGN](http://www.ign.com/games/armored-core-verdict-day/ps3-161140).
-    Ps3.ign.com (2011-12-15). Retrieved on 2012-11-29.
+50. [Armored Core: Verdict Day - PlayStation 3 - IGN](http://www.ign.com/games/armored-core-verdict-day/ps3-161140). Ps3.ign.com (2011-12-15). Retrieved on 2012-11-29.
 
-51. [Army of Two - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/825/825893.html). Ps3.ign.com
-    (2008-02-12). Retrieved on 2012-11-29.
+51. [Army of Two - PlayStation 3 - IGN](http://ps3.ign.com/objects/825/825893.html). Ps3.ign.com (2008-02-12). Retrieved on 2012-11-29.
 
 52.
-53. [Army of Two: The Devil's Cartel - PlayStation 3 -
-    IGN](http://www.ign.com/games/army-of-two-3-rumored/ps3-123787). IGN
-    (2013-03-26). Retrieved on 2012-11-29.
+53. [Army of Two: The Devil's Cartel - PlayStation 3 - IGN](http://www.ign.com/games/army-of-two-3-rumored/ps3-123787). IGN (2013-03-26). Retrieved on 2012-11-29.
 
-54. [Arthur and the Revenge of Maltazard - PlayStation 3 -
-    IGN](http://www.ign.com/games/arthur-and-the-revenge-of-maltazard/ps3-14316549).
-    IGN (2013-03-26). Retrieved on 2012-11-29.
+54. [Arthur and the Revenge of Maltazard - PlayStation 3 - IGN](http://www.ign.com/games/arthur-and-the-revenge-of-maltazard/ps3-14316549). IGN (2013-03-26). Retrieved on 2012-11-29.
 
-55. [Ashes Cricket 2009 - PlayStation 3 -
-    IGN](http://uk.ps3.ign.com/objects/143/14348733.html).
-    Uk.ps3.ign.com (2009-07-17). Retrieved on 2012-11-29.
+55. [Ashes Cricket 2009 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14348733.html). Uk.ps3.ign.com (2009-07-17). Retrieved on 2012-11-29.
 
-56. [Assassin's Creed - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/772/772025.html). Ps3.ign.com
-    (2007-11-12). Retrieved on 2012-11-29.
+56. [Assassin's Creed - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772025.html). Ps3.ign.com (2007-11-12). Retrieved on 2012-11-29.
 
-57. [Assassin's Creed II - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/143/14302494.html). Ps3.ign.com
-    (2010-01-28). Retrieved on 2012-11-29.
+57. [Assassin's Creed II - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14302494.html). Ps3.ign.com (2010-01-28). Retrieved on 2012-11-29.
 
-58. [Assassin's Creed III - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/128/128700.html). Ps3.ign.com
-    (2012-10-30). Retrieved on 2012-11-29.
+58. [Assassin's Creed III - PlayStation 3 - IGN](http://ps3.ign.com/objects/128/128700.html). Ps3.ign.com (2012-10-30). Retrieved on 2012-11-29.
 
-59. [Assassin's Creed III - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/128/128700.html). IGN (2013-04-03).
-    Retrieved on 2013-08-18.
+59. [Assassin's Creed III - PlayStation 3 - IGN](http://ps3.ign.com/objects/128/128700.html). IGN (2013-04-03). Retrieved on 2013-08-18.
 
-60. [Assassin's Creed: Brotherhood - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/057/057511.html). Ps3.ign.com
-    (2011-02-24). Retrieved on 2012-11-29.
+60. [Assassin's Creed: Brotherhood - PlayStation 3 - IGN](http://ps3.ign.com/objects/057/057511.html). Ps3.ign.com (2011-02-24). Retrieved on 2012-11-29.
 
-61. [Assassin's Creed: Revelations - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/093/093900.html). Ps3.ign.com
-    (2012-01-06). Retrieved on 2012-11-29.
+61. [Assassin's Creed: Revelations - PlayStation 3 - IGN](http://ps3.ign.com/objects/093/093900.html). Ps3.ign.com (2012-01-06). Retrieved on 2012-11-29.
 
-62. [Assassin's Creed Rogue - PlayStation 3 Review - IGN
-    UK](http://uk.ign.com/articles/2014/11/15/assassins-creed-rogue-review).
-    Uk.ign.com (2014-11-15). Retrieved on 2014-12-18.
+62. [Assassin's Creed Rogue - PlayStation 3 Review - IGN UK](http://uk.ign.com/articles/2014/11/15/assassins-creed-rogue-review). Uk.ign.com (2014-11-15). Retrieved on 2014-12-18.
 
-63. [Asura's Wrath - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/086/086441.html). Ps3.ign.com
-    (2011-09-08). Retrieved on 2012-11-29.
+63. [Asura's Wrath - PlayStation 3 - IGN](http://ps3.ign.com/objects/086/086441.html). Ps3.ign.com (2011-09-08). Retrieved on 2012-11-29.
 
-64. [Atelier Ayesha: The Alchemist of Dusk -
-    PlayStation 3](http://www.ign.com/games/atelier-ayesha/ps3-130907).
-    IGN (2013-03-07). Retrieved on 2013-08-18.
+64. [Atelier Ayesha: The Alchemist of Dusk - PlayStation 3](http://www.ign.com/games/atelier-ayesha/ps3-130907). IGN (2013-03-07). Retrieved on 2013-08-18.
 
-65. [Atelier Escha & Logy: Alchemist of Dusk Sky -
-    PlayStation 3](http://www.ign.com/games/atelier-15/ps3-162815). IGN
-    (2013-08-18). Retrieved on 2013-08-18.
+65. [Atelier Escha & Logy: Alchemist of Dusk Sky - PlayStation 3](http://www.ign.com/games/atelier-15/ps3-162815). IGN (2013-08-18). Retrieved on 2013-08-18.
 
-66. [Atelier Meruru: The Apprentice of Arland -
-    PlayStation 3](http://www.ign.com/games/atelier-meruru-the-apprentice-of-arland/ps3-102920).
-    IGN (2011-03-08). Retrieved on 2012-11-29.
+66. [Atelier Meruru: The Apprentice of Arland - PlayStation 3](http://www.ign.com/games/atelier-meruru-the-apprentice-of-arland/ps3-102920). IGN (2011-03-08). Retrieved on 2012-11-29.
 
-67. [Atelier Rorona: The Alchemist of Arland - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/143/14329253.html). Ps3.ign.com
-    (2010-07-26). Retrieved on 2012-11-29.
+67. [Atelier Rorona: The Alchemist of Arland - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14329253.html). Ps3.ign.com (2010-07-26). Retrieved on 2012-11-29.
 
-68. Spencer (2013-08-09). *[New Atelier Rorona Set For Release On
-    November 21](http://www.siliconera.com/2013/08/09/new-atelier-rorona-set-for-release-on-november-21/)*.
-    *Siliconera*. Curse.
-    [Archived](https://web.archive.org/web/20131010130042/http://www.siliconera.com/2013/08/09/new-atelier-rorona-set-for-release-on-november-21/)
-    from the original on 2013-10-10. Retrieved 2015-02-22.
+68. Spencer (2013-08-09). *[New Atelier Rorona Set For Release On November 21](http://www.siliconera.com/2013/08/09/new-atelier-rorona-set-for-release-on-november-21/)*. *Siliconera*. Curse. [Archived](https://web.archive.org/web/20131010130042/http://www.siliconera.com/2013/08/09/new-atelier-rorona-set-for-release-on-november-21/) from the original on 2013-10-10. Retrieved 2015-02-22.
 
-69. Ishaan (2014-05-08). *[Atelier Rorona Plus Announced For June
-    Release](http://www.siliconera.com/2014/05/08/atelier-rorona-plus-announced-for-june-release/)*.
-    *Siliconera*. Curse.
-    [Archived](https://web.archive.org/web/20140509065708/http://www.siliconera.com/2014/05/08/atelier-rorona-plus-announced-for-june-release/)
-    from the original on 2014-05-09. Retrieved 2015-02-22.
+69. Ishaan (2014-05-08). *[Atelier Rorona Plus Announced For June Release](http://www.siliconera.com/2014/05/08/atelier-rorona-plus-announced-for-june-release/)*. *Siliconera*. Curse. [Archived](https://web.archive.org/web/20140509065708/http://www.siliconera.com/2014/05/08/atelier-rorona-plus-announced-for-june-release/) from the original on 2014-05-09. Retrieved 2015-02-22.
 
-70. Thomas, Lucas M. (2015-03-09). [Out This Week:
-    March 9, 2015](http://www.ign.com/articles/2015/03/09/out-this-week-march-9-2015).
-    *IGN*. Ziff Davis.
-    [Archived](http://web.archive.org/web/20150310000701/http://www.ign.com/articles/2015/03/09/out-this-week-march-9-2015)
-    from the original on 2015-03-10. Retrieved 2015-03-09.
+70. Thomas, Lucas M. (2015-03-09). [Out This Week: March 9, 2015](http://www.ign.com/articles/2015/03/09/out-this-week-march-9-2015). *IGN*. Ziff Davis. [Archived](http://web.archive.org/web/20150310000701/http://www.ign.com/articles/2015/03/09/out-this-week-march-9-2015) from the original on 2015-03-10. Retrieved 2015-03-09.
 
-71. [Atelier Totori: The Adventurer of Arland -
-    PlayStation 3](http://www.ign.com/games/atelier-totori-the-adventurer-of-arland/ps3-775487).
-    IGN (2011-08-01). Retrieved on 2012-11-29.
+71. [Atelier Totori: The Adventurer of Arland - PlayStation 3](http://www.ign.com/games/atelier-totori-the-adventurer-of-arland/ps3-775487). IGN (2011-08-01). Retrieved on 2012-11-29.
 
-72. [Avatar: The Game - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/735/735830.html). Ps3.ign.com
-    (2009-11-24). Retrieved on 2012-11-29.
+72. [Avatar: The Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/735/735830.html). Ps3.ign.com (2009-11-24). Retrieved on 2012-11-29.
 
-73. [Back to the Future: The Game - PlayStation 3 -
-    IGN](http://www.ign.com/games/back-to-the-future-the-game-collectors-edition/ps3-96849).
-    Ps3.ign.com (2010-03-02). Retrieved on 2012-11-29.
+73. [Back to the Future: The Game - PlayStation 3 - IGN](http://www.ign.com/games/back-to-the-future-the-game-collectors-edition/ps3-96849). Ps3.ign.com (2010-03-02). Retrieved on 2012-11-29.
 
-74. [Backbreaker - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/958/958007.html). Ps3.ign.com
-    (2010-03-02). Retrieved on 2012-11-29.
+74. [Backbreaker - PlayStation 3 - IGN](http://ps3.ign.com/objects/958/958007.html). Ps3.ign.com (2010-03-02). Retrieved on 2012-11-29.
 
-75. [Baja: Edge of Control - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/142/14240391.html). Ps3.ign.com
-    (2008-10-15). Retrieved on 2012-11-29.
+75. [Baja: Edge of Control - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14240391.html). Ps3.ign.com (2008-10-15). Retrieved on 2012-11-29.
 
-76. [Bakugan: Battle Brawlers - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/143/14324498.html). Ps3.ign.com
-    (2009-10-09). Retrieved on 2012-11-29.
+76. [Bakugan: Battle Brawlers - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14324498.html). Ps3.ign.com (2009-10-09). Retrieved on 2012-11-29.
 
-77. [Bakugan: Defenders of the Core - PlayStation 3 -
-    IGN](http://www.ign.com/games/bakugan-battle-brawlers-defenders-of-the-core/ps3-77144).
-    Ps3.ign.com (2009-10-09). Retrieved on 2012-11-29.
+77. [Bakugan: Defenders of the Core - PlayStation 3 - IGN](http://www.ign.com/games/bakugan-battle-brawlers-defenders-of-the-core/ps3-77144). Ps3.ign.com (2009-10-09). Retrieved on 2012-11-29.
 
-78. [BandFuse: Rock Legends - PlayStation 3 -
-    IGN](http://www.ign.com/games/bandfuse-rock-legends-150218/ps3-150219).
-    Uk.ps3.ign.com (2009-11-04). Retrieved on 2012-11-29.
+78. [BandFuse: Rock Legends - PlayStation 3 - IGN](http://www.ign.com/games/bandfuse-rock-legends-150218/ps3-150219). Uk.ps3.ign.com (2009-11-04). Retrieved on 2012-11-29.
 
-79. [Band Hero - PlayStation 3 -
-    IGN](http://uk.ps3.ign.com/objects/143/14347905.html).
-    Uk.ps3.ign.com (2009-11-04). Retrieved on 2012-11-29.
+79. [Band Hero - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14347905.html). Uk.ps3.ign.com (2009-11-04). Retrieved on 2012-11-29.
 
-80. [Batman: Arkham Asylum - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/142/14273490.html). Ps3.ign.com
-    (2009-09-02). Retrieved on 2012-11-29.
+80. [Batman: Arkham Asylum - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14273490.html). Ps3.ign.com (2009-09-02). Retrieved on 2012-11-29.
 
-81. [Batman: Arkham City - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/055/055050.html). Ps3.ign.com
-    (2011-07-05). Retrieved on 2012-11-29.
+81. [Batman: Arkham City - PlayStation 3 - IGN](http://ps3.ign.com/objects/055/055050.html). Ps3.ign.com (2011-07-05). Retrieved on 2012-11-29.
 
 82.
 
-83. [Battle Fantasia - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/142/14246644.html). Ps3.ign.com
-    (2008-08-01). Retrieved on 2012-11-29.
+83. [Battle Fantasia - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14246644.html). Ps3.ign.com (2008-08-01). Retrieved on 2012-11-29.
 
-84. [Battle vs. Chess - PlayStation 3 -
-    IGN](http://www.ign.com/games/battle-vs-chess/ps3-74197).
-    Ps3.ign.com (2008-08-01). Retrieved on 2012-11-29.
+84. [Battle vs. Chess - PlayStation 3 - IGN](http://www.ign.com/games/battle-vs-chess/ps3-74197). Ps3.ign.com (2008-08-01). Retrieved on 2012-11-29.
 
-85. [Battlefield 3 - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/082/082317.html). Ps3.ign.com
-    (2012-10-18). Retrieved on 2012-11-29.
+85. [Battlefield 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082317.html). Ps3.ign.com (2012-10-18). Retrieved on 2012-11-29.
 
 86.
 
-87. [Battlefield: Bad Company - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/713/713942.html). Ps3.ign.com
-    (2009-06-01). Retrieved on 2012-11-29.
+87. [Battlefield: Bad Company - PlayStation 3 - IGN](http://ps3.ign.com/objects/713/713942.html). Ps3.ign.com (2009-06-01). Retrieved on 2012-11-29.
 
-88. [Battlefield: Bad Company 2 - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/142/14293278.html). Ps3.ign.com
-    (2010-05-21). Retrieved on 2012-11-29.
+88. [Battlefield: Bad Company 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14293278.html). Ps3.ign.com (2010-05-21). Retrieved on 2012-11-29.
 
-89. [Battleship - PlayStation 3 -
-    IGN](http://www.ign.com/games/battleship/ps3-126590). Ps3.ign.com
-    (2010-05-21). Retrieved on 2012-11-29.
+89. [Battleship - PlayStation 3 - IGN](http://www.ign.com/games/battleship/ps3-126590). Ps3.ign.com (2010-05-21). Retrieved on 2012-11-29.
 
-90. [Bayonetta - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/142/14253676.html). Ps3.ign.com
-    (2010-08-05). Retrieved on 2012-11-29.
+90. [Bayonetta - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14253676.html). Ps3.ign.com (2010-08-05). Retrieved on 2012-11-29.
 
-91. [Beat Sketcher - PlayStation 3 -
-    IGN](http://www.ign.com/games/beat-sketcher/ps3-77873). Ps3.ign.com
-    (2009-08-14). Retrieved on 2012-11-29.
+91. [Beat Sketcher - PlayStation 3 - IGN](http://www.ign.com/games/beat-sketcher/ps3-77873). Ps3.ign.com (2009-08-14). Retrieved on 2012-11-29.
 
-92. [Beijing 2008: The Official Video Game of the Olympic Games -
-    PlayStation 3 - IGN](http://ps3.ign.com/objects/787/787978.html).
-    Ps3.ign.com (2008-07-01). Retrieved on 2012-11-29.
+92. [Beijing 2008: The Official Video Game of the Olympic Games - PlayStation 3 - IGN](http://ps3.ign.com/objects/787/787978.html). Ps3.ign.com (2008-07-01). Retrieved on 2012-11-29.
 
-93. [Bejeweled 3 - PlayStation 3 -
-    IGN](http://uk.ign.com/games/bejeweled-3/ps3-111906). Ps3.ign.com
-    (2008-07-01). Retrieved on 2012-11-29.
+93. [Bejeweled 3 - PlayStation 3 - IGN](http://uk.ign.com/games/bejeweled-3/ps3-111906). Ps3.ign.com (2008-07-01). Retrieved on 2012-11-29.
 
-94. [Ben 10: Galactic Racing - PlayStation 3 -
-    IGN](http://uk.ign.com/games/ben-10-galactic-racing/ps3-110254).
-    Ps3.ign.com (2011-11-25). Retrieved on 2015-02-24.
+94. [Ben 10: Galactic Racing - PlayStation 3 - IGN](http://uk.ign.com/games/ben-10-galactic-racing/ps3-110254). Ps3.ign.com (2011-11-25). Retrieved on 2015-02-24.
 
-95. [Ben 10: Omniverse - PlayStation 3 -
-    IGN](http://uk.ign.com/games/ben-10-omniverse/ps3-134337).
-    Ps3.ign.com (2008-07-01). Retrieved on 2015-02-24.
+95. [Ben 10: Omniverse - PlayStation 3 - IGN](http://uk.ign.com/games/ben-10-omniverse/ps3-134337). Ps3.ign.com (2008-07-01). Retrieved on 2015-02-24.
 
-96. [Ben 10: Omniverse 2 - PlayStation 3 -
-    IGN](http://uk.ign.com/games/ben-10-omniverse-2/ps3-168266).
-    Ps3.ign.com (2013-11-22). Retrieved on 2015-02-24.
+96. [Ben 10: Omniverse 2 - PlayStation 3 - IGN](http://uk.ign.com/games/ben-10-omniverse-2/ps3-168266). Ps3.ign.com (2013-11-22). Retrieved on 2015-02-24.
 
-97. [Ben 10 Ultimate Alien: Cosmic Destruction - PlayStation 3 -
-    IGN](http://uk.ign.com/games/bejeweled-3/ps3-111906). Ps3.ign.com
-    (2010-10-29). Retrieved on 2015-02-24.
+97. [Ben 10 Ultimate Alien: Cosmic Destruction - PlayStation 3 - IGN](http://uk.ign.com/games/bejeweled-3/ps3-111906). Ps3.ign.com (2010-10-29). Retrieved on 2015-02-24.
 
-98. [Beowulf: The Game - PlayStation 3 -
-    IGN](http://ps3.ign.com/objects/908/908914.html). Ps3.ign.com
-    (2007-11-06). Retrieved on 2012-11-29.
+98. [Beowulf: The Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/908/908914.html). Ps3.ign.com (2007-11-06). Retrieved on 2012-11-29.
 
-99. [Best of PlayStation Network, Vol. 1 Arrives This June –
-    PlayStation.Blog](https://blog.us.playstation.com/2013/05/22/best-of-playstation-network-vol-1-arrives-this-june/).
-    Blog.us.playstation.com. Retrieved on 2013-08-23.
+99. [Best of PlayStation Network, Vol. 1 Arrives This June – PlayStation.Blog](https://blog.us.playstation.com/2013/05/22/best-of-playstation-network-vol-1-arrives-this-june/). Blog.us.playstation.com. Retrieved on 2013-08-23.
 
-100. Robinson, Martin. (2012-06-05) [Quantic Dream's Beyond confirmed,
-     Ellen Page onboard • News • PlayStation 3
-     •](http://www.eurogamer.net/articles/2012-06-05-quantic-dreams-beyond-confirmed-ellen-page-onboard).
-     Eurogamer.net. Retrieved on 2012-11-29.
+100. Robinson, Martin. (2012-06-05) [Quantic Dream's Beyond confirmed, Ellen Page onboard • News • PlayStation 3 •](http://www.eurogamer.net/articles/2012-06-05-quantic-dreams-beyond-confirmed-ellen-page-onboard). Eurogamer.net. Retrieved on 2012-11-29.
 
-101. [Bionic Commando - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14211212.html). Ps3.ign.com
-     (2009-05-06). Retrieved on 2012-11-29.
+101. [Bionic Commando - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14211212.html). Ps3.ign.com (2009-05-06). Retrieved on 2012-11-29.
 
-102. [Binary Domain - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/093/093835.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+102. [Binary Domain - PlayStation 3 - IGN](http://ps3.ign.com/objects/093/093835.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-103. [BioShock - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/793/793104.html). Ps3.ign.com
-     (2008-11-06). Retrieved on 2012-11-29.
+103. [BioShock - PlayStation 3 - IGN](http://ps3.ign.com/objects/793/793104.html). Ps3.ign.com (2008-11-06). Retrieved on 2012-11-29.
 
-104. [BioShock 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14257954.html). Ps3.ign.com
-     (2010-08-26). Retrieved on 2012-11-29.
+104. [BioShock 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14257954.html). Ps3.ign.com (2010-08-26). Retrieved on 2012-11-29.
 
-105. [BioShock Infinite - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14258732.html). Ps3.ign.com
-     (2012-10-22). Retrieved on 2012-11-29.
+105. [BioShock Infinite - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14258732.html). Ps3.ign.com (2012-10-22). Retrieved on 2012-11-29.
 
-106. [Birds of Steel - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/109/109619.html). Ps3.ign.com
-     (2012-02-13). Retrieved on 2012-11-29.
+106. [Birds of Steel - PlayStation 3 - IGN](http://ps3.ign.com/objects/109/109619.html). Ps3.ign.com (2012-02-13). Retrieved on 2012-11-29.
 
-107. [BlackSite: Area 51 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/849/849459.html). Ps3.ign.com
-     (2007-12-08). Retrieved on 2012-11-29.
+107. [BlackSite: Area 51 - PlayStation 3 - IGN](http://ps3.ign.com/objects/849/849459.html). Ps3.ign.com (2007-12-08). Retrieved on 2012-11-29.
 
-108. [Blades of Time - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110881.html). Ps3.ign.com
-     (2011-09-15). Retrieved on 2012-11-29.
+108. [Blades of Time - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110881.html). Ps3.ign.com (2011-09-15). Retrieved on 2012-11-29.
 
-109. [Bladestorm: The Hundred Years' War - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/772/772611.html). Ps3.ign.com
-     (2007-10-05). Retrieved on 2012-11-29.
+109. [Bladestorm: The Hundred Years' War - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772611.html). Ps3.ign.com (2007-10-05). Retrieved on 2012-11-29.
 
-110. [BlazBlue: Calamity Trigger - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14345703.html). Ps3.ign.com
-     (2009-11-13). Retrieved on 2012-11-29.
+110. [BlazBlue: Calamity Trigger - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14345703.html). Ps3.ign.com (2009-11-13). Retrieved on 2012-11-29.
 
-111. [BlazBlue: Continuum Shift - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/060/060606.html). Ps3.ign.com
-     (2010-07-22). Retrieved on 2012-11-29.
+111. [BlazBlue: Continuum Shift - PlayStation 3 - IGN](http://ps3.ign.com/objects/060/060606.html). Ps3.ign.com (2010-07-22). Retrieved on 2012-11-29.
 
-112. [BlazBlue: Chrono Phantasma - PlayStation 3 -
-     IGN](http://www.ign.com/games/blazblue-chronophantasma/ps3-139265).
-     IGN (2013-07-26). Retrieved on 2013-08-18.
+112. [BlazBlue: Chrono Phantasma - PlayStation 3 - IGN](http://www.ign.com/games/blazblue-chronophantasma/ps3-139265). IGN (2013-07-26). Retrieved on 2013-08-18.
 
-113. [Blazing Angels: Squadrons of WWII - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/848/848835.html). Ps3.ign.com
-     (2007-01-16). Retrieved on 2012-11-29.
+113. [Blazing Angels: Squadrons of WWII - PlayStation 3 - IGN](http://ps3.ign.com/objects/848/848835.html). Ps3.ign.com (2007-01-16). Retrieved on 2012-11-29.
 
-114. [Blazing Angels 2: Secret Missions of WWII - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/874/874023.html). Ps3.ign.com
-     (2007-08-30). Retrieved on 2012-11-29.
+114. [Blazing Angels 2: Secret Missions of WWII - PlayStation 3 - IGN](http://ps3.ign.com/objects/874/874023.html). Ps3.ign.com (2007-08-30). Retrieved on 2012-11-29.
 
-115. [Bleach: Soul Resurreccion - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/092/092176.html). Ps3.ign.com.
-     Retrieved on 2013-12-04.
+115. [Bleach: Soul Resurreccion - PlayStation 3 - IGN](http://ps3.ign.com/objects/092/092176.html). Ps3.ign.com. Retrieved on 2013-12-04.
 
-116. [Blitz: The League II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14207331.html). Ps3.ign.com
-     (2008-08-07). Retrieved on 2012-11-29.
+116. [Blitz: The League II - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14207331.html). Ps3.ign.com (2008-08-07). Retrieved on 2012-11-29.
 
-117. [Blur - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14222095.html). Ps3.ign.com
-     (2010-03-04). Retrieved on 2012-11-29.
+117. [Blur - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14222095.html). Ps3.ign.com (2010-03-04). Retrieved on 2012-11-29.
 
-118. [Bodycount - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/901/901011.html). Ps3.ign.com
-     (2011-08-05). Retrieved on 2012-11-29.
+118. [Bodycount - PlayStation 3 - IGN](http://ps3.ign.com/objects/901/901011.html). Ps3.ign.com (2011-08-05). Retrieved on 2012-11-29.
 
-119. [Bolt - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14256527.html). Ps3.ign.com
-     (2008-07-16). Retrieved on 2012-11-29.
+119. [Bolt - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14256527.html). Ps3.ign.com (2008-07-16). Retrieved on 2012-11-29.
 
-120. [Borderlands - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/957/957207.html). Ps3.ign.com
-     (2010-08-11). Retrieved on 2012-11-29.
+120. [Borderlands - PlayStation 3 - IGN](http://ps3.ign.com/objects/957/957207.html). Ps3.ign.com (2010-08-11). Retrieved on 2012-11-29.
 
-121. [Borderlands 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/094/094189.html). Ps3.ign.com
-     (2012-11-15). Retrieved on 2012-11-29.
+121. [Borderlands 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/094/094189.html). Ps3.ign.com (2012-11-15). Retrieved on 2012-11-29.
 
-122. [Borderlands: The Pre-Sequel\! - PlayStation 3 - IGN
-     UK](http://uk.ign.com/games/borderlands-the-pre-sequel/ps3-20016004).
-     Uk.ign.com (2014-10-17). Retrieved on 2014-12-18.
+122. [Borderlands: The Pre-Sequel\! - PlayStation 3 - IGN UK](http://uk.ign.com/games/borderlands-the-pre-sequel/ps3-20016004). Uk.ign.com (2014-10-17). Retrieved on 2014-12-18.
 
 123.
 
-124. [Brain Challenge - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14277821.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+124. [Brain Challenge - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14277821.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-125. [Brink - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14349123.html).
-     Uk.ps3.ign.com (2011-06-28). Retrieved on 2012-11-29.
+125. [Brink - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14349123.html). Uk.ps3.ign.com (2011-06-28). Retrieved on 2012-11-29.
 
-126. [Brothers in Arms: Hell's Highway - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/772/772044.html). Ps3.ign.com
-     (2008-09-15). Retrieved on 2012-11-29.
+126. [Brothers in Arms: Hell's Highway - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772044.html). Ps3.ign.com (2008-09-15). Retrieved on 2012-11-29.
 
-127. [Brütal Legend - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/851/851726.html). Ps3.ign.com
-     (2009-09-29). Retrieved on 2012-11-29.
+127. [Brütal Legend - PlayStation 3 - IGN](http://ps3.ign.com/objects/851/851726.html). Ps3.ign.com (2009-09-29). Retrieved on 2012-11-29.
 
-128. [Bulletstorm - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14274039.html). Ps3.ign.com
-     (2011-01-21). Retrieved on 2012-11-29.
+128. [Bulletstorm - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14274039.html). Ps3.ign.com (2011-01-21). Retrieved on 2012-11-29.
 
-129. [Burnout Paradise - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/850/850815.html). Ps3.ign.com
-     (2009-04-29). Retrieved on 2012-11-29.
+129. [Burnout Paradise - PlayStation 3 - IGN](http://ps3.ign.com/objects/850/850815.html). Ps3.ign.com (2009-04-29). Retrieved on 2012-11-29.
 
-130. [Buzz\! Brain Of The
-     UK](http://gamespot.com/ps3/puzzle/buzzbrainoftheuk/index.html).
-     GameSpot.com (2009-03-27). Retrieved on 2012-11-29.
+130. [Buzz\! Brain Of The UK](http://gamespot.com/ps3/puzzle/buzzbrainoftheuk/index.html). GameSpot.com (2009-03-27). Retrieved on 2012-11-29.
 
-131. [Buzz\! Quiz TV - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/958/958423.html). Ps3.ign.com
-     (2009-01-20). Retrieved on 2012-11-29.
+131. [Buzz\! Quiz TV - PlayStation 3 - IGN](http://ps3.ign.com/objects/958/958423.html). Ps3.ign.com (2009-01-20). Retrieved on 2012-11-29.
 
-132. [Buzz\! Quiz World - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14354806.html).
-     Uk.ps3.ign.com (2009-11-06). Retrieved on 2012-11-29.
+132. [Buzz\! Quiz World - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14354806.html). Uk.ps3.ign.com (2009-11-06). Retrieved on 2012-11-29.
 
-133. [Cabela's African Adventure - PlayStation 3 -
-     IGN](http://uk.ign.com/games/cabelas-african-adventures/ps3-20007166).
-     Ps3.ign.com (2013-10-15). Retrieved on 2015-10-15.
+133. [Cabela's African Adventure - PlayStation 3 - IGN](http://uk.ign.com/games/cabelas-african-adventures/ps3-20007166). Ps3.ign.com (2013-10-15). Retrieved on 2015-10-15.
 
-134. [Cabela's Big Game Hunter 2010 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14356714.html). Ps3.ign.com
-     (2009-08-24). Retrieved on 2012-11-29.
+134. [Cabela's Big Game Hunter 2010 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14356714.html). Ps3.ign.com (2009-08-24). Retrieved on 2012-11-29.
 
-135. [Cabela's Big Game Hunter 2012 - PlayStation 3 -
-     IGN](http://uk.ign.com/games/cabelas-big-game-hunter-2012/ps3-112306).
-     Ps3.ign.com (2011-09-27). Retrieved on 2015-03-02.
+135. [Cabela's Big Game Hunter 2012 - PlayStation 3 - IGN](http://uk.ign.com/games/cabelas-big-game-hunter-2012/ps3-112306). Ps3.ign.com (2011-09-27). Retrieved on 2015-03-02.
 
-136. [Cabela's Dangerous Hunts 2009 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/959/959093.html). Ps3.ign.com
-     (2008-09-02). Retrieved on 2012-11-29.
+136. [Cabela's Dangerous Hunts 2009 - PlayStation 3 - IGN](http://ps3.ign.com/objects/959/959093.html). Ps3.ign.com (2008-09-02). Retrieved on 2012-11-29.
 
-137. [Cabela's Dangerous Hunts 2011 - PlayStation 3 -
-     IGN](http://uk.ign.com/games/cabelas-dangerous-hunts-2011/ps3-80819).
-     Ps3.ign.com (2011-05-06). Retrieved on 2015-03-02.
+137. [Cabela's Dangerous Hunts 2011 - PlayStation 3 - IGN](http://uk.ign.com/games/cabelas-dangerous-hunts-2011/ps3-80819). Ps3.ign.com (2011-05-06). Retrieved on 2015-03-02.
 
-138. [Cabela's Dangerous Hunts 2013 - PlayStation 3 -
-     IGN](http://uk.ign.com/games/cabelas-dangerous-hunts-2013/ps3-140440).
-     Ps3.ign.com (2012-11-23). Retrieved on 2015-03-02.
+138. [Cabela's Dangerous Hunts 2013 - PlayStation 3 - IGN](http://uk.ign.com/games/cabelas-dangerous-hunts-2013/ps3-140440). Ps3.ign.com (2012-11-23). Retrieved on 2015-03-02.
 
-139. [Cabela's Outdoor Adventures - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14356723.html). Ps3.ign.com
-     (2009-10-07). Retrieved on 2012-11-29.
+139. [Cabela's Outdoor Adventures - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14356723.html). Ps3.ign.com (2009-10-07). Retrieved on 2012-11-29.
 
-140. 2014-07-22, [「カラドリウス
-     ブレイズ」の体験会が7月27日に開催。実プレイの初披露，新システムの発表などを予定](http://www.4gamer.net/games/243/G024314/20140722034/),
-     4gamer
+140. 2014-07-22, [「カラドリウス ブレイズ」の体験会が7月27日に開催。実プレイの初披露，新システムの発表などを予定](http://www.4gamer.net/games/243/G024314/20140722034/), 4gamer
 
-141. [Call of Duty 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/801/801848.html). Ps3.ign.com
-     (2006-10-19). Retrieved on 2012-11-29.
+141. [Call of Duty 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/801/801848.html). Ps3.ign.com (2006-10-19). Retrieved on 2012-11-29.
 
-142. [Call of Duty 4: Modern Warfare - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/902/902587.html). Ps3.ign.com
-     (2008-03-28). Retrieved on 2012-11-29.
+142. [Call of Duty 4: Modern Warfare - PlayStation 3 - IGN](http://ps3.ign.com/objects/902/902587.html). Ps3.ign.com (2008-03-28). Retrieved on 2012-11-29.
 
-143. [Call of Duty: Modern Warfare 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14281101.html). Ps3.ign.com
-     (2010-05-05). Retrieved on 2012-11-29.
+143. [Call of Duty: Modern Warfare 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14281101.html). Ps3.ign.com (2010-05-05). Retrieved on 2012-11-29.
 
-144. [Call of Duty: Modern Warfare 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/069/069474.html). Ps3.ign.com
-     (2012-02-02). Retrieved on 2012-11-29.
+144. [Call of Duty: Modern Warfare 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/069/069474.html). Ps3.ign.com (2012-02-02). Retrieved on 2012-11-29.
 
 145.
 
-146. [Call of Duty: Black Ops - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14349500.html). Ps3.ign.com
-     (2011-07-15). Retrieved on 2012-11-29.
+146. [Call of Duty: Black Ops - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14349500.html). Ps3.ign.com (2011-07-15). Retrieved on 2012-11-29.
 
-147. [Call of Duty: Ghosts - PlayStation 3 -
-     IGN](http://www.ign.com/games/call-of-duty-ghosts/ps3-167093). IGN
-     (2013-08-14). Retrieved on 2013-08-18.
+147. [Call of Duty: Ghosts - PlayStation 3 - IGN](http://www.ign.com/games/call-of-duty-ghosts/ps3-167093). IGN (2013-08-14). Retrieved on 2013-08-18.
 
-148. [Call of Duty: World at War - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14222039.html). Ps3.ign.com
-     (2009-07-31). Retrieved on 2012-11-29.
+148. [Call of Duty: World at War - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14222039.html). Ps3.ign.com (2009-07-31). Retrieved on 2012-11-29.
 
-149. [Call of Juarez: Bound in Blood - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14312665.html).
-     Uk.ps3.ign.com (2009-08-03). Retrieved on 2012-11-29.
+149. [Call of Juarez: Bound in Blood - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14312665.html). Uk.ps3.ign.com (2009-08-03). Retrieved on 2012-11-29.
 
-150. [Call of Juarez: The Cartel - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/099/099858.html). Ps3.ign.com
-     (2011-06-27). Retrieved on 2012-11-29.
+150. [Call of Juarez: The Cartel - PlayStation 3 - IGN](http://ps3.ign.com/objects/099/099858.html). Ps3.ign.com (2011-06-27). Retrieved on 2012-11-29.
 
-151. [Captain America: Super Soldier - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/900/900963.html). Ps3.ign.com
-     (2011-07-06). Retrieved on 2012-11-29.
+151. [Captain America: Super Soldier - PlayStation 3 - IGN](http://ps3.ign.com/objects/900/900963.html). Ps3.ign.com (2011-07-06). Retrieved on 2012-11-29.
 
-152. [Carnival Island - PlayStation 3 -
-     IGN](http://uk.ign.com/games/carnival-island/ps3-110723).
-     Ps3.ign.com (2011-10-18). Retrieved on 2015-03-02.
+152. [Carnival Island - PlayStation 3 - IGN](http://uk.ign.com/games/carnival-island/ps3-110723). Ps3.ign.com (2011-10-18). Retrieved on 2015-03-02.
 
-153. [Cars 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/100/100481.html). Ps3.ign.com
-     (2011-05-20). Retrieved on 2012-11-29.
+153. [Cars 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/100/100481.html). Ps3.ign.com (2011-05-20). Retrieved on 2012-11-29.
 
-154. [Cars Mater-National Championship - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/899/899150.html).
-     Uk.ps3.ign.com. Retrieved on 2012-11-29.
+154. [Cars Mater-National Championship - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/899/899150.html). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-155. [Cars Race-O-Rama - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14354393.html).
-     Uk.ps3.ign.com (2009-06-03). Retrieved on 2012-11-29.
+155. [Cars Race-O-Rama - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14354393.html). Uk.ps3.ign.com (2009-06-03). Retrieved on 2012-11-29.
 
-156. [Cartoon Network: Punch Time Explosion XL - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/090/090443.html). Ps3.ign.com
-     (2011-12-13). Retrieved on 2012-11-29.
+156. [Cartoon Network: Punch Time Explosion XL - PlayStation 3 - IGN](http://ps3.ign.com/objects/090/090443.html). Ps3.ign.com (2011-12-13). Retrieved on 2012-11-29.
 
-157. [Castlevania: Lords of Shadow - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/142/14275422.html).
-     Uk.ps3.ign.com (2010-12-22). Retrieved on 2012-11-29.
+157. [Castlevania: Lords of Shadow - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/142/14275422.html). Uk.ps3.ign.com (2010-12-22). Retrieved on 2012-11-29.
 
-158. [Castlevania: Lords of Shadow 2 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/142/14275422.html). IGN
-     (2013-08-18). Retrieved on 2013-08-18.
+158. [Castlevania: Lords of Shadow 2 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/142/14275422.html). IGN (2013-08-18). Retrieved on 2013-08-18.
 
-159. [Catherine - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/083/083913.html). Ps3.ign.com
-     (2011-07-13). Retrieved on 2012-11-29.
+159. [Catherine - PlayStation 3 - IGN](http://ps3.ign.com/objects/083/083913.html). Ps3.ign.com (2011-07-13). Retrieved on 2012-11-29.
 
-160. [Chaotic: Shadow Warriors - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14322680.html). Ps3.ign.com
-     (2009-12-03). Retrieved on 2012-11-29.
+160. [Chaotic: Shadow Warriors - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14322680.html). Ps3.ign.com (2009-12-03). Retrieved on 2012-11-29.
 
-161. [Child of Eden - PlayStation 3 -
-     IGN](http://www.ign.com/games/child-of-eden/ps3-14354641).
-     Ps3.ign.com (2014-01-15)
+161. [Child of Eden - PlayStation 3 - IGN](http://www.ign.com/games/child-of-eden/ps3-14354641). Ps3.ign.com (2014-01-15)
 
-162. [Sid Meier's Civilization Revolution - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/947/947168.html). Ps3.ign.com
-     (2008-07-02). Retrieved on 2012-11-29.
+162. [Sid Meier's Civilization Revolution - PlayStation 3 - IGN](http://ps3.ign.com/objects/947/947168.html). Ps3.ign.com (2008-07-02). Retrieved on 2012-11-29.
 
-163. [Clash of the Titans - PlayStation 3 -
-     IGN](http://uk.ign.com/games/clash-of-the-titans/ps3-14231737).
-     Ps3.ign.com (2010-05-28). Retrieved on 2015-03-02.
+163. [Clash of the Titans - PlayStation 3 - IGN](http://uk.ign.com/games/clash-of-the-titans/ps3-14231737). Ps3.ign.com (2010-05-28). Retrieved on 2015-03-02.
 
-164. [Clive Barker's Jericho - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/843/843256.html). Ps3.ign.com
-     (2007-10-31). Retrieved on 2012-11-29.
+164. [Clive Barker's Jericho - PlayStation 3 - IGN](http://ps3.ign.com/objects/843/843256.html). Ps3.ign.com (2007-10-31). Retrieved on 2012-11-29.
 
-165. [Cloudy with a Chance of Meatballs - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14336392.html).
-     Uk.ps3.ign.com (2009-06-02). Retrieved on 2012-11-29.
+165. [Cloudy with a Chance of Meatballs - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14336392.html). Uk.ps3.ign.com (2009-06-02). Retrieved on 2012-11-29.
 
 166. *DiRT* in North America
 
-167. [Dirt - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/826/826337.html). Ps3.ign.com
-     (2007-09-02). Retrieved on 2012-11-29.
+167. [Dirt - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826337.html). Ps3.ign.com (2007-09-02). Retrieved on 2012-11-29.
 
 168. *DiRT 2* in North America
 
-169. [Dirt 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/949/949706.html). Ps3.ign.com
-     (2009-09-09). Retrieved on 2012-11-29.
+169. [Dirt 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/949/949706.html). Ps3.ign.com (2009-09-09). Retrieved on 2012-11-29.
 
-170. [College Hoops 2K7 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/815/815879.html). Ps3.ign.com
-     (2007-01-18). Retrieved on 2012-11-29.
+170. [College Hoops 2K7 - PlayStation 3 - IGN](http://ps3.ign.com/objects/815/815879.html). Ps3.ign.com (2007-01-18). Retrieved on 2012-11-29.
 
-171. [College Hoops 2K8 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/948/948275.html). Ps3.ign.com
-     (2007-11-01). Retrieved on 2012-11-29.
+171. [College Hoops 2K8 - PlayStation 3 - IGN](http://ps3.ign.com/objects/948/948275.html). Ps3.ign.com (2007-11-01). Retrieved on 2012-11-29.
 
-172. [Command & Conquer: Red Alert 3 Ultimate Edition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14235402.html). Ps3.ign.com
-     (2009-03-05). Retrieved on 2012-11-29.
+172. [Command & Conquer: Red Alert 3 Ultimate Edition - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14235402.html). Ps3.ign.com (2009-03-05). Retrieved on 2012-11-29.
 
-173. [Conan - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/885/885363.html). Ps3.ign.com
-     (2007-09-11). Retrieved on 2012-11-29.
+173. [Conan - PlayStation 3 - IGN](http://ps3.ign.com/objects/885/885363.html). Ps3.ign.com (2007-09-11). Retrieved on 2012-11-29.
 
-174. [Condemned 2: Bloodshot - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/903/903766.html). Ps3.ign.com
-     (2008-03-20). Retrieved on 2012-11-29.
+174. [Condemned 2: Bloodshot - PlayStation 3 - IGN](http://ps3.ign.com/objects/903/903766.html). Ps3.ign.com (2008-03-20). Retrieved on 2012-11-29.
 
-175. [Conflict: Denied Ops - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/902/902452.html). Ps3.ign.com
-     (2008-01-25). Retrieved on 2012-11-29.
+175. [Conflict: Denied Ops - PlayStation 3 - IGN](http://ps3.ign.com/objects/902/902452.html). Ps3.ign.com (2008-01-25). Retrieved on 2012-11-29.
 
-176. [Crash Time 4 - PlayStation 3 -
-     IGN](http://uk.ign.com/games/crash-time-4-the-syndicate/ps3-114768).
-     Ps3.ign.com (2010-01-25). Retrieved on 2015-02-20.
+176. [Crash Time 4 - PlayStation 3 - IGN](http://uk.ign.com/games/crash-time-4-the-syndicate/ps3-114768). Ps3.ign.com (2010-01-25). Retrieved on 2015-02-20.
 
-177. [Crash Time 5: Undercover - PlayStation 3 -
-     Gamepressure](http://games.gamepressure.com/game_info.asp?ID=18861).
-     games.gamepressure.com (2012-09-28). Retrieved on 2015-02-20.
+177. [Crash Time 5: Undercover - PlayStation 3 - Gamepressure](http://games.gamepressure.com/game_info.asp?ID=18861). games.gamepressure.com (2012-09-28). Retrieved on 2015-02-20.
 
-178. [Create - PlayStation 3 -
-     IGN](http://uk.ign.com/games/create/ps3-82304). Ps3.ign.com
-     (2010-11-19). Retrieved on 2015-03-02.
+178. [Create - PlayStation 3 - IGN](http://uk.ign.com/games/create/ps3-82304). Ps3.ign.com (2010-11-19). Retrieved on 2015-03-02.
 
-179. [Cross Edge - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14252543.html). Ps3.ign.com
-     (2009-05-08). Retrieved on 2012-11-29.
+179. [Cross Edge - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14252543.html). Ps3.ign.com (2009-05-08). Retrieved on 2012-11-29.
 
-180. [Cross of the
-     Dutchman](http://www.gametrailers.com/game/cross-of-the-dutchman/16025).
-     GameTrailers.com (2012-05-22). Retrieved on 2012-11-29.
+180. [Cross of the Dutchman](http://www.gametrailers.com/game/cross-of-the-dutchman/16025). GameTrailers.com (2012-05-22). Retrieved on 2012-11-29.
 
-181. [Crysis - PlayStation 3 -
-     IGN](http://www.ign.com/games/crysis/ps3-112680). IGN.com.
-     Retrieved on 2013-04-23.
+181. [Crysis - PlayStation 3 - IGN](http://www.ign.com/games/crysis/ps3-112680). IGN.com. Retrieved on 2013-04-23.
 
-182. [Crysis 2 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/845/845451.html). Uk.ps3.ign.com
-     (2011-03-15). Retrieved on 2012-11-29.
+182. [Crysis 2 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/845/845451.html). Uk.ps3.ign.com (2011-03-15). Retrieved on 2012-11-29.
 
-183. [CSI: Crime Scene Investigation - Fatal Conspiracy - PlayStation 3
-     -
-     IGN](http://uk.ign.com/games/csi-crime-scene-investigation-fatal-conspiracy/ps3-75852).
-     Uk.ps3.ign.com (2010-10-26). Retrieved on 2015-03-02.
+183. [CSI: Crime Scene Investigation - Fatal Conspiracy - PlayStation 3 - IGN](http://uk.ign.com/games/csi-crime-scene-investigation-fatal-conspiracy/ps3-75852). Uk.ps3.ign.com (2010-10-26). Retrieved on 2015-03-02.
 
-184. [Damage Inc. Pacific Squadron WWII - PlayStation 3 -
-     IGN](http://uk.ign.com/games/damage-inc-pacific-squadron-wwii/ps3-136266).
-     Uk.ps3.ign.com (2012-08-28). Retrieved on 2015-03-08.
+184. [Damage Inc. Pacific Squadron WWII - PlayStation 3 - IGN](http://uk.ign.com/games/damage-inc-pacific-squadron-wwii/ps3-136266). Uk.ps3.ign.com (2012-08-28). Retrieved on 2015-03-08.
 
-185. [Dark Sector - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/674/674095.html). Ps3.ign.com
-     (2008-03-26). Retrieved on 2012-11-29.
+185. [Dark Sector - PlayStation 3 - IGN](http://ps3.ign.com/objects/674/674095.html). Ps3.ign.com (2008-03-26). Retrieved on 2012-11-29.
 
-186. [Dante's Inferno Divine Edition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14296030.html). Ps3.ign.com
-     (2010-02-03). Retrieved on 2012-11-29.
+186. [Dante's Inferno Divine Edition - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14296030.html). Ps3.ign.com (2010-02-03). Retrieved on 2012-11-29.
 
 187.
-188. [Dark Souls - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/086/086623.html). Ps3.ign.com
-     (2011-08-17). Retrieved on 2012-11-29.
+188. [Dark Souls - PlayStation 3 - IGN](http://ps3.ign.com/objects/086/086623.html). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-189. [Dark Souls II - PlayStation 3 -
-     IGN](http://www.ign.com/games/dark-souls-ii/ps3-149844). IGN
-     (2013-08-06). Retrieved on 2013-08-18.
+189. [Dark Souls II - PlayStation 3 - IGN](http://www.ign.com/games/dark-souls-ii/ps3-149844). IGN (2013-08-06). Retrieved on 2013-08-18.
 
-190. [Dark Void - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14211556.html). Ps3.ign.com
-     (2010-01-18). Retrieved on 2012-11-29.
+190. [Dark Void - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14211556.html). Ps3.ign.com (2010-01-18). Retrieved on 2012-11-29.
 
-191. [Darksiders - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/818/818225.html). Ps3.ign.com
-     (2009-12-02). Retrieved on 2012-11-29.
+191. [Darksiders - PlayStation 3 - IGN](http://ps3.ign.com/objects/818/818225.html). Ps3.ign.com (2009-12-02). Retrieved on 2012-11-29.
 
-192. [Darksiders II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14336767.html). Ps3.ign.com
-     (2012-10-24). Retrieved on 2012-11-29.
+192. [Darksiders II - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14336767.html). Ps3.ign.com (2012-10-24). Retrieved on 2012-11-29.
 
-193. [de Blob 2 - PlayStation 3 -
-     IGN](http://uk.ign.com/games/de-blob-2/ps3-77576). Ps3.ign.com
-     (2011-02-25). Retrieved on 2015-03-08.
+193. [de Blob 2 - PlayStation 3 - IGN](http://uk.ign.com/games/de-blob-2/ps3-77576). Ps3.ign.com (2011-02-25). Retrieved on 2015-03-08.
 
-194. [Dead Island - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/100/100157.html). Ps3.ign.com
-     (2011-07-26). Retrieved on 2012-11-29.
+194. [Dead Island - PlayStation 3 - IGN](http://ps3.ign.com/objects/100/100157.html). Ps3.ign.com (2011-07-26). Retrieved on 2012-11-29.
 
-195. [Dead Island Riptide - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/100/100157.html). IGN (2013-04-23).
-     Retrieved on 2013-08-18.
+195. [Dead Island Riptide - PlayStation 3 - IGN](http://ps3.ign.com/objects/100/100157.html). IGN (2013-04-23). Retrieved on 2013-08-18.
 
-196. [Deadliest Warrior: Ancient Combat - PlayStation 3 -
-     IGN](http://uk.ign.com/games/deadliest-warrior-ancient-combat/ps3-121981).
-     Ps3.ign.com (2012-04-17). Retrieved on 2015-03-17.
+196. [Deadliest Warrior: Ancient Combat - PlayStation 3 - IGN](http://uk.ign.com/games/deadliest-warrior-ancient-combat/ps3-121981). Ps3.ign.com (2012-04-17). Retrieved on 2015-03-17.
 
 197.
 
@@ -12315,2016 +11947,1047 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 
 199.
 
-200. [Dead Rising 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14312883.html). Ps3.ign.com
-     (2010-10-06). Retrieved on 2012-11-29.
+200. [Dead Rising 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14312883.html). Ps3.ign.com (2010-10-06). Retrieved on 2012-11-29.
 
-201. [Dead Space - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/850/850400.html). Ps3.ign.com
-     (2008-11-25). Retrieved on 2012-11-29.
+201. [Dead Space - PlayStation 3 - IGN](http://ps3.ign.com/objects/850/850400.html). Ps3.ign.com (2008-11-25). Retrieved on 2012-11-29.
 
 202.
-203. [Dead Space 3 - PlayStation 3 -
-     IGN](http://www.ign.com/games/dead-space-3/ps3-22614). IGN
-     (2013-02-05). Retrieved on 2013-08-18.
+203. [Dead Space 3 - PlayStation 3 - IGN](http://www.ign.com/games/dead-space-3/ps3-22614). IGN (2013-02-05). Retrieved on 2013-08-18.
 
-204. [Dead to Rights: Retribution - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14321481.html).
-     Uk.ps3.ign.com (2010-05-15). Retrieved on 2012-11-29.
+204. [Dead to Rights: Retribution - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14321481.html). Uk.ps3.ign.com (2010-05-15). Retrieved on 2012-11-29.
 
-205. [Def Jam: Icon - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/766/766228.html). Ps3.ign.com
-     (2007-03-20). Retrieved on 2012-11-29.
+205. [Def Jam: Icon - PlayStation 3 - IGN](http://ps3.ign.com/objects/766/766228.html). Ps3.ign.com (2007-03-20). Retrieved on 2012-11-29.
 
-206. [Def Jam Rapstar - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14352162.html).
-     Uk.ps3.ign.com (2010-09-29). Retrieved on 2012-11-29.
+206. [Def Jam Rapstar - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14352162.html). Uk.ps3.ign.com (2010-09-29). Retrieved on 2012-11-29.
 
-207. [Demon's Souls - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14242310.html). Ps3.ign.com
-     (2009-09-01). Retrieved on 2012-11-29.
+207. [Demon's Souls - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14242310.html). Ps3.ign.com (2009-09-01). Retrieved on 2012-11-29.
 
-208. [Derby Time Online - PS3 -
-     IGN](http://ps3.ign.com/objects/142/14288459.html). Ps3.ign.com
-     (2009-07-29). Retrieved on 2012-11-29.
+208. [Derby Time Online - PS3 - IGN](http://ps3.ign.com/objects/142/14288459.html). Ps3.ign.com (2009-07-29). Retrieved on 2012-11-29.
 
 209.
 
-210. [Destroy All Humans\! Path of the Furon - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/947/947057.html). Ps3.ign.com
-     (2008-11-11). Retrieved on 2012-11-29.
+210. [Destroy All Humans\! Path of the Furon - PlayStation 3 - IGN](http://ps3.ign.com/objects/947/947057.html). Ps3.ign.com (2008-11-11). Retrieved on 2012-11-29.
 
-211. [Deus Ex: Human Revolution - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14220592.html). Ps3.ign.com
-     (2011-06-07). Retrieved on 2012-11-29.
+211. [Deus Ex: Human Revolution - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14220592.html). Ps3.ign.com (2011-06-07). Retrieved on 2012-11-29.
 
 212.
 
-213. [Devil May Cry 4 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748464.html). Ps3.ign.com
-     (2008-01-28). Retrieved on 2012-11-29.
+213. [Devil May Cry 4 - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748464.html). Ps3.ign.com (2008-01-28). Retrieved on 2012-11-29.
 
-214. [Devil May Cry HD Collection - PlayStation 3 -
-     IGN](http://uk.ign.com/games/devil-may-cry-hd-collection/ps3-111682).
-     Ps3.ign.com (2012-04-03). Retrieved on 2015-03-11.
+214. [Devil May Cry HD Collection - PlayStation 3 - IGN](http://uk.ign.com/games/devil-may-cry-hd-collection/ps3-111682). Ps3.ign.com (2012-04-03). Retrieved on 2015-03-11.
 
 215.
 
-216. [Dirt 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/082/082108.html). Ps3.ign.com
-     (2011-06-28). Retrieved on 2012-11-29.
+216. [Dirt 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082108.html). Ps3.ign.com (2011-06-28). Retrieved on 2012-11-29.
 
-217. [Dirt Showdown - PlayStation 3 -
-     IGN](http://www.ign.com/games/dirt-showdown/ps3-124235). IGN
-     (2012-05-29). Retrieved on 2013-08-18.
+217. [Dirt Showdown - PlayStation 3 - IGN](http://www.ign.com/games/dirt-showdown/ps3-124235). IGN (2012-05-29). Retrieved on 2013-08-18.
 
-218. [Disgaea 3: Absence of Justice - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950618.html). Ps3.ign.com
-     (2009-01-07). Retrieved on 2012-11-29.
+218. [Disgaea 3: Absence of Justice - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950618.html). Ps3.ign.com (2009-01-07). Retrieved on 2012-11-29.
 
-219. [Disgaea 4: A Promise Unforgotten - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/061/061676.html). Ps3.ign.com
-     (2011-08-01). Retrieved on 2012-11-29.
+219. [Disgaea 4: A Promise Unforgotten - PlayStation 3 - IGN](http://ps3.ign.com/objects/061/061676.html). Ps3.ign.com (2011-08-01). Retrieved on 2012-11-29.
 
-220. [Disgaea D2: A Brighter Darkness - PlayStation 3 -
-     IGN](http://www.ign.com/games/project-d-working-title/ps3-137721).
-     IGN (2013-08-05). Retrieved on 2013-08-18.
+220. [Disgaea D2: A Brighter Darkness - PlayStation 3 - IGN](http://www.ign.com/games/project-d-working-title/ps3-137721). IGN (2013-08-05). Retrieved on 2013-08-18.
 
-221. [Dishonored - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/112/112931.html). Ps3.ign.com
-     (2012-10-08). Retrieved on 2012-11-29.
+221. [Dishonored - PlayStation 3 - IGN](http://ps3.ign.com/objects/112/112931.html). Ps3.ign.com (2012-10-08). Retrieved on 2012-11-29.
 
-222. [Disney Sing It - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14267813.html). Ps3.ign.com
-     (2008-11-06). Retrieved on 2012-11-29.
+222. [Disney Sing It - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14267813.html). Ps3.ign.com (2008-11-06). Retrieved on 2012-11-29.
 
 223.
-224. [Disney Sing It: Pop Hits - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14347898.html). Ps3.ign.com
-     (2009-10-12). Retrieved on 2012-11-29.
+224. [Disney Sing It: Pop Hits - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14347898.html). Ps3.ign.com (2009-10-12). Retrieved on 2012-11-29.
 
-225. [Disney Universe - PlayStation 3 -
-     IGN](http://uk.ign.com/games/disney-universe/ps3-109467).
-     Ps3.ign.com (2011-10-28). Retrieved on 2015-03-08.
+225. [Disney Universe - PlayStation 3 - IGN](http://uk.ign.com/games/disney-universe/ps3-109467). Ps3.ign.com (2011-10-28). Retrieved on 2015-03-08.
 
-226. [DJ Hero - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14319214.html).
-     Uk.ps3.ign.com (2009-09-14). Retrieved on 2012-11-29.
+226. [DJ Hero - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14319214.html). Uk.ps3.ign.com (2009-09-14). Retrieved on 2012-11-29.
 
-227. [DJ Hero 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/057/057891.html). Ps3.ign.com
-     (2010-09-24). Retrieved on 2012-11-29.
+227. [DJ Hero 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/057/057891.html). Ps3.ign.com (2010-09-24). Retrieved on 2012-11-29.
 
-228. [News | IncGamers.com | PC
-     Gaming](http://www.incgamers.com/News/25182/dmc-devil-may-cry-announced).
-     IncGamers.com. Retrieved on 2012-11-29.
+228. [News | IncGamers.com | PC Gaming](http://www.incgamers.com/News/25182/dmc-devil-may-cry-announced). IncGamers.com. Retrieved on 2012-11-29.
 
-229. [Doom III: BFG Edition - PlayStation 3 -
-     IGN](http://uk.ign.com/games/doom-3/ps3-135329). Ps3.ign.com
-     (2012-10-16). Retrieved on 2012-11-29.
+229. [Doom III: BFG Edition - PlayStation 3 - IGN](http://uk.ign.com/games/doom-3/ps3-135329). Ps3.ign.com (2012-10-16). Retrieved on 2012-11-29.
 
-230. [Dragon Age: Origins - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14290728.html). Ps3.ign.com
-     (2010-05-05). Retrieved on 2012-11-29.
+230. [Dragon Age: Origins - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14290728.html). Ps3.ign.com (2010-05-05). Retrieved on 2012-11-29.
 
-231. [Dragon Age: Origins - Awakening - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/056/056418.html). Ps3.ign.com
-     (2010-02-18). Retrieved on 2012-11-29.
+231. [Dragon Age: Origins - Awakening - PlayStation 3 - IGN](http://ps3.ign.com/objects/056/056418.html). Ps3.ign.com (2010-02-18). Retrieved on 2012-11-29.
 
-232. [Dragon Age II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/080/080341.html). Ps3.ign.com
-     (2011-03-22). Retrieved on 2012-11-29.
+232. [Dragon Age II - PlayStation 3 - IGN](http://ps3.ign.com/objects/080/080341.html). Ps3.ign.com (2011-03-22). Retrieved on 2012-11-29.
 
 233.
 
 234.
 
-235. [Dragon Ball Z: Burst Limit - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14224980.html). Ps3.ign.com
-     (2008-06-06). Retrieved on 2012-11-29.
+235. [Dragon Ball Z: Burst Limit - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14224980.html). Ps3.ign.com (2008-06-06). Retrieved on 2012-11-29.
 
-236. [Dragon Ball: Raging Blast - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14351079.html).
-     Uk.ps3.ign.com (2009-10-12). Retrieved on 2012-11-29.
+236. [Dragon Ball: Raging Blast - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14351079.html). Uk.ps3.ign.com (2009-10-12). Retrieved on 2012-11-29.
 
-237. [Dragon Ball: Raging Blast 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/073/073729.html). Ps3.ign.com
-     (2010-08-19). Retrieved on 2012-11-29.
+237. [Dragon Ball: Raging Blast 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/073/073729.html). Ps3.ign.com (2010-08-19). Retrieved on 2012-11-29.
 
-238. Campbell, Evan (2015-01-09). "[Dragon Ball Xenoverse Sees A Slight
-     Delay](http://www.ign.com/articles/2015/01/09/dragon-ball-xenoverse-sees-a-slight-delay)".
-     *IGN*. Ziff Davis.
-     [Archived](http://web.archive.org/web/20150209165917/http://www.ign.com/articles/2015/01/09/dragon-ball-xenoverse-sees-a-slight-delay)
-     from the original on 2015-02-09. Retrieved 2015-02-23.
+238. Campbell, Evan (2015-01-09). "[Dragon Ball Xenoverse Sees A Slight Delay](http://www.ign.com/articles/2015/01/09/dragon-ball-xenoverse-sees-a-slight-delay)". *IGN*. Ziff Davis. [Archived](http://web.archive.org/web/20150209165917/http://www.ign.com/articles/2015/01/09/dragon-ball-xenoverse-sees-a-slight-delay) from the original on 2015-02-09. Retrieved 2015-02-23.
 
-239. Thomas, Lucas M. (2015-02-23). "[Out This Week:
-     February 23, 2015](http://www.ign.com/articles/2015/02/23/out-this-week-february-23-2015)".
-     *IGN*. Ziff Davis.
-     [Archived](http://web.archive.org/web/20150224032359/http://www.ign.com/articles/2015/02/23/out-this-week-february-23-2015)
-     from the original on 2015-02-24. Retrieved 2015-02-23.
+239. Thomas, Lucas M. (2015-02-23). "[Out This Week: February 23, 2015](http://www.ign.com/articles/2015/02/23/out-this-week-february-23-2015)". *IGN*. Ziff Davis. [Archived](http://web.archive.org/web/20150224032359/http://www.ign.com/articles/2015/02/23/out-this-week-february-23-2015) from the original on 2015-02-24. Retrieved 2015-02-23.
 
 240.
-241. [Dragon's Crown - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110941.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+241. [Dragon's Crown - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110941.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-242. [Dragon's Dogma - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/105/105968.html). Ps3.ign.com
-     (2012-09-21). Retrieved on 2012-11-29.
+242. [Dragon's Dogma - PlayStation 3 - IGN](http://ps3.ign.com/objects/105/105968.html). Ps3.ign.com (2012-09-21). Retrieved on 2012-11-29.
 
-243. [Dragon's Dogma: Dark Arisen - PlayStation 3 -
-     IGN](http://www.ign.com/games/dragons-dogma-dark-arisen/ps3-143638).
-     IGN (2013-04-23). Retrieved on 2013-08-18.
+243. [Dragon's Dogma: Dark Arisen - PlayStation 3 - IGN](http://www.ign.com/games/dragons-dogma-dark-arisen/ps3-143638). IGN (2013-04-23). Retrieved on 2013-08-18.
 
-244. [Driver: San Francisco - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/774/774970.html). Ps3.ign.com
-     (2011-08-17). Retrieved on 2012-11-29.
+244. [Driver: San Francisco - PlayStation 3 - IGN](http://ps3.ign.com/objects/774/774970.html). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-245. [DuckTales: Remastered - PlayStation 3 -
-     IGN](http://uk.ign.com/games/duck-tales-next-gen/ps3-163190).
-     Ps3.ign.com (2012-08-13). Retrieved on 2015-03-08.
+245. [DuckTales: Remastered - PlayStation 3 - IGN](http://uk.ign.com/games/duck-tales-next-gen/ps3-163190). Ps3.ign.com (2012-08-13). Retrieved on 2015-03-08.
 
-246. [Duke Nukem Forever - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/895/895108.html). Ps3.ign.com
-     (2011-07-27). Retrieved on 2012-11-29.
+246. [Duke Nukem Forever - PlayStation 3 - IGN](http://ps3.ign.com/objects/895/895108.html). Ps3.ign.com (2011-07-27). Retrieved on 2012-11-29.
 
-247. [Dungeon Siege III - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/076/076801.html). Ps3.ign.com
-     (2011-03-30). Retrieved on 2012-11-29.
+247. [Dungeon Siege III - PlayStation 3 - IGN](http://ps3.ign.com/objects/076/076801.html). Ps3.ign.com (2011-03-30). Retrieved on 2012-11-29.
 
-248. [Dynasty Warriors 6 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/749/749968.html). Ps3.ign.com
-     (2008-06-05). Retrieved on 2012-11-29.
+248. [Dynasty Warriors 6 - PlayStation 3 - IGN](http://ps3.ign.com/objects/749/749968.html). Ps3.ign.com (2008-06-05). Retrieved on 2012-11-29.
 
-249. [Dynasty Warriors 6: Empires - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14284091.html). Ps3.ign.com
-     (2009-07-09). Retrieved on 2012-11-29.
+249. [Dynasty Warriors 6: Empires - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14284091.html). Ps3.ign.com (2009-07-09). Retrieved on 2012-11-29.
 
-250. [Dynasty Warriors 7 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/086/086626.html). Ps3.ign.com
-     (2012-06-06). Retrieved on 2012-11-29.
+250. [Dynasty Warriors 7 - PlayStation 3 - IGN](http://ps3.ign.com/objects/086/086626.html). Ps3.ign.com (2012-06-06). Retrieved on 2012-11-29.
 
-251. [Dynasty Warriors 7 - PlayStation 3 -
-     IGN](http://www.ign.com/games/dynasty-warriors-7-xtreme-legends/ps3-112618).
-     IGN (2011-11-15). Retrieved on 2013-08-18.
+251. [Dynasty Warriors 7 - PlayStation 3 - IGN](http://www.ign.com/games/dynasty-warriors-7-xtreme-legends/ps3-112618). IGN (2011-11-15). Retrieved on 2013-08-18.
 
-252. [Dynasty Warriors 7 Empires - PlayStation 3 -
-     IGN](http://www.ign.com/games/dynasty-warriors-7-empires/ps3-140702).
-     IGN. Retrieved on 2013-08-18.
+252. [Dynasty Warriors 7 Empires - PlayStation 3 - IGN](http://www.ign.com/games/dynasty-warriors-7-empires/ps3-140702). IGN. Retrieved on 2013-08-18.
 
-253. [Dynasty Warriors 8 - PlayStation 3 -
-     IGN](http://www.ign.com/games/dynasty-warriors-8/ps3-146217). IGN.
-     Retrieved on 2013-08-18.
+253. [Dynasty Warriors 8 - PlayStation 3 - IGN](http://www.ign.com/games/dynasty-warriors-8/ps3-146217). IGN. Retrieved on 2013-08-18.
 
-254. [Dynasty Warriors: Gundam - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/873/873402.html). Ps3.ign.com
-     (2007-08-17). Retrieved on 2012-11-29.
+254. [Dynasty Warriors: Gundam - PlayStation 3 - IGN](http://ps3.ign.com/objects/873/873402.html). Ps3.ign.com (2007-08-17). Retrieved on 2012-11-29.
 
-255. [Dynasty Warriors: Gundam 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/774/774973.html). Ps3.ign.com
-     (2009-04-21). Retrieved on 2012-11-29.
+255. [Dynasty Warriors: Gundam 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/774/774973.html). Ps3.ign.com (2009-04-21). Retrieved on 2012-11-29.
 
-256. [Dynasty Warriors: Gundam 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/085/085964.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+256. [Dynasty Warriors: Gundam 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/085/085964.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-257. [Dynasty Warriors: Gundam Reborn - PlayStation 3 -
-     IGN](http://uk.ign.com/games/shin-gundam-musou/ps3-20004841).
-     Ps3.ign.com (2013-12-19). Retrieved on 2015-03-08.
+257. [Dynasty Warriors: Gundam Reborn - PlayStation 3 - IGN](http://uk.ign.com/games/shin-gundam-musou/ps3-20004841). Ps3.ign.com (2013-12-19). Retrieved on 2015-03-08.
 
-258. [Dynasty Warriors: Strikeforce - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/022/022756.html). Uk.ps3.ign.com
-     (2010-01-28). Retrieved on 2012-11-29.
+258. [Dynasty Warriors: Strikeforce - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/022/022756.html). Uk.ps3.ign.com (2010-01-28). Retrieved on 2012-11-29.
 
-259. [EA Sports MMA - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14354515.html).
-     Uk.ps3.ign.com (2010-09-16). Retrieved on 2012-11-29.
+259. [EA Sports MMA - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14354515.html). Uk.ps3.ign.com (2010-09-16). Retrieved on 2012-11-29.
 
-260. [Eat Lead: The Return of Matt Hazard - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14277732.html). Ps3.ign.com
-     (2009-03-02). Retrieved on 2012-11-29.
+260. [Eat Lead: The Return of Matt Hazard - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14277732.html). Ps3.ign.com (2009-03-02). Retrieved on 2012-11-29.
 
-261. [El Shaddai: Ascension of the Metatron - PlayStation 3 -
-     IGN](http://www.ign.com/games/el-shaddai-ascension-of-the-metatron/ps3-73990).
-     IGN. Retrieved on 2013-08-18.
+261. [El Shaddai: Ascension of the Metatron - PlayStation 3 - IGN](http://www.ign.com/games/el-shaddai-ascension-of-the-metatron/ps3-73990). IGN. Retrieved on 2013-08-18.
 
-262. [The Elder Scrolls IV: Oblivion - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/857/857879.html). Ps3.ign.com
-     (2007-04-26). Retrieved on 2012-11-29.
+262. [The Elder Scrolls IV: Oblivion - PlayStation 3 - IGN](http://ps3.ign.com/objects/857/857879.html). Ps3.ign.com (2007-04-26). Retrieved on 2012-11-29.
 
-263. [The Elder Scrolls IV: The Shivering Isles - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/874/874116.html). Ps3.ign.com
-     (2007-11-21). Retrieved on 2012-11-29.
+263. [The Elder Scrolls IV: The Shivering Isles - PlayStation 3 - IGN](http://ps3.ign.com/objects/874/874116.html). Ps3.ign.com (2007-11-21). Retrieved on 2012-11-29.
 
-264. [The Elder Scrolls V: Skyrim - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/093/093394.html). Ps3.ign.com
-     (2012-06-07). Retrieved on 2012-11-29.
+264. [The Elder Scrolls V: Skyrim - PlayStation 3 - IGN](http://ps3.ign.com/objects/093/093394.html). Ps3.ign.com (2012-06-07). Retrieved on 2012-11-29.
 
-265. [Enchanted Arms - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/852/852004.html). Ps3.ign.com
-     (2007-04-03). Retrieved on 2012-11-29.
+265. [Enchanted Arms - PlayStation 3 - IGN](http://ps3.ign.com/objects/852/852004.html). Ps3.ign.com (2007-04-03). Retrieved on 2012-11-29.
 
-266. Thomas, Lucas M. (2014-06-09). *[Out This Week:
-     June 9, 2014](http://www.ign.com/articles/2014/06/09/out-this-week-june-9-2014)*.
-     *IGN*. Ziff Davis.
-     [Archived](https://web.archive.org/web/20141202213343/http://www.ign.com/articles/2014/06/09/out-this-week-june-9-2014)
-     from the original on 2014-12-02. Retrieved 2015-02-22.
+266. Thomas, Lucas M. (2014-06-09). *[Out This Week: June 9, 2014](http://www.ign.com/articles/2014/06/09/out-this-week-june-9-2014)*. *IGN*. Ziff Davis. [Archived](https://web.archive.org/web/20141202213343/http://www.ign.com/articles/2014/06/09/out-this-week-june-9-2014) from the original on 2014-12-02. Retrieved 2015-02-22.
 
-267. [Enemy Territory: Quake Wars - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/884/884680.html). Ps3.ign.com
-     (2008-04-23). Retrieved on 2012-11-29.
+267. [Enemy Territory: Quake Wars - PlayStation 3 - IGN](http://ps3.ign.com/objects/884/884680.html). Ps3.ign.com (2008-04-23). Retrieved on 2012-11-29.
 
-268. [Eternal Light - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/904/904798.html). Ps3.ign.com
-     (2008-03-06). Retrieved on 2012-11-29.
+268. [Eternal Light - PlayStation 3 - IGN](http://ps3.ign.com/objects/904/904798.html). Ps3.ign.com (2008-03-06). Retrieved on 2012-11-29.
 
-269. [Eternal Sonata - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/902/902203.html). Ps3.ign.com
-     (2008-12-03). Retrieved on 2012-11-29.
+269. [Eternal Sonata - PlayStation 3 - IGN](http://ps3.ign.com/objects/902/902203.html). Ps3.ign.com (2008-12-03). Retrieved on 2012-11-29.
 
-270. Known as *Hot Shots Golf: Out of Bounds* in North America and
-     *Everybody's Golf: World Tour* in Europe
+270. Known as *Hot Shots Golf: Out of Bounds* in North America and *Everybody's Golf: World Tour* in Europe
 
-271. [Hot Shots Golf: Out of Bounds - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/775/775513.html). Ps3.ign.com
-     (2009-03-12). Retrieved on 2012-11-29.
+271. [Hot Shots Golf: Out of Bounds - PlayStation 3 - IGN](http://ps3.ign.com/objects/775/775513.html). Ps3.ign.com (2009-03-12). Retrieved on 2012-11-29.
 
-272. [Hot Shots Golf: World Invitational - PlayStation 3 -
-     IGN](http://www.ign.com/games/hot-shots-golf-world-invitational/ps3-140436).
-     IGN. Retrieved on 2013-08-18.
+272. [Hot Shots Golf: World Invitational - PlayStation 3 - IGN](http://www.ign.com/games/hot-shots-golf-world-invitational/ps3-140436). IGN. Retrieved on 2013-08-18.
 
-273. [The Eye of Judgment - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/775/775515.html). Ps3.ign.com
-     (2008-05-06). Retrieved on 2012-11-29.
+273. [The Eye of Judgment - PlayStation 3 - IGN](http://ps3.ign.com/objects/775/775515.html). Ps3.ign.com (2008-05-06). Retrieved on 2012-11-29.
 
-274. [EyePet: Your Virtual Pet - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14275443.html). Ps3.ign.com
-     (2010-06-16). Retrieved on 2012-11-29.
+274. [EyePet: Your Virtual Pet - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14275443.html). Ps3.ign.com (2010-06-16). Retrieved on 2012-11-29.
 
-275. [F.E.A.R. - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/848/848829.html). Ps3.ign.com
-     (2007-04-30). Retrieved on 2012-11-29.
+275. [F.E.A.R. - PlayStation 3 - IGN](http://ps3.ign.com/objects/848/848829.html). Ps3.ign.com (2007-04-30). Retrieved on 2012-11-29.
 
-276. [F.E.A.R. 2: Project Origin - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/812/812588.html). Ps3.ign.com
-     (2009-07-29). Retrieved on 2012-11-29.
+276. [F.E.A.R. 2: Project Origin - PlayStation 3 - IGN](http://ps3.ign.com/objects/812/812588.html). Ps3.ign.com (2009-07-29). Retrieved on 2012-11-29.
 
-277. [F.E.A.R. 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/045/045905.html). Ps3.ign.com
-     (2011-06-20). Retrieved on 2012-11-29.
+277. [F.E.A.R. 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/045/045905.html). Ps3.ign.com (2011-06-20). Retrieved on 2012-11-29.
 
-278. [F1 2010 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14253208.html). Ps3.ign.com
-     (2010-09-16). Retrieved on 2012-11-29.
+278. [F1 2010 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14253208.html). Ps3.ign.com (2010-09-16). Retrieved on 2012-11-29.
 
-279. [FaceBreaker - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14232017.html). Ps3.ign.com
-     (2008-09-02). Retrieved on 2012-11-29.
+279. [FaceBreaker - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14232017.html). Ps3.ign.com (2008-09-02). Retrieved on 2012-11-29.
 
-280. [Fairytale Fights - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14276256.html). Ps3.ign.com
-     (2009-08-13). Retrieved on 2012-11-29.
+280. [Fairytale Fights - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14276256.html). Ps3.ign.com (2009-08-13). Retrieved on 2012-11-29.
 
-281. [Faith and a .45 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14230212.html). Ps3.ign.com
-     (2008-02-01). Retrieved on 2012-11-29.
+281. [Faith and a .45 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14230212.html). Ps3.ign.com (2008-02-01). Retrieved on 2012-11-29.
 
-282. [Fallout 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/901/901269.html). Ps3.ign.com
-     (2009-07-14). Retrieved on 2012-11-29.
+282. [Fallout 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/901/901269.html). Ps3.ign.com (2009-07-14). Retrieved on 2012-11-29.
 
-283. [Fallout: New Vegas - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14341977.html). Ps3.ign.com
-     (2011-05-11). Retrieved on 2012-11-29.
+283. [Fallout: New Vegas - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14341977.html). Ps3.ign.com (2011-05-11). Retrieved on 2012-11-29.
 
-284. [Fantastic 4: Rise of the Silver Surfer - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/864/864864.html). Ps3.ign.com
-     (2007-06-17). Retrieved on 2012-11-29.
+284. [Fantastic 4: Rise of the Silver Surfer - PlayStation 3 - IGN](http://ps3.ign.com/objects/864/864864.html). Ps3.ign.com (2007-06-17). Retrieved on 2012-11-29.
 
-285. [Far Cry 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14226062.html). Ps3.ign.com
-     (2008-11-21). Retrieved on 2012-11-29.
+285. [Far Cry 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14226062.html). Ps3.ign.com (2008-11-21). Retrieved on 2012-11-29.
 
-286. [Far Cry 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/053/053488.html). Ps3.ign.com
-     (2012-11-21). Retrieved on 2012-11-29.
+286. [Far Cry 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/053/053488.html). Ps3.ign.com (2012-11-21). Retrieved on 2012-11-29.
 
-287. [Ferrari Challenge Trofeo Pirelli - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/894/894275.html). Ps3.ign.com
-     (2008-08-13). Retrieved on 2012-11-29.
+287. [Ferrari Challenge Trofeo Pirelli - PlayStation 3 - IGN](http://ps3.ign.com/objects/894/894275.html). Ps3.ign.com (2008-08-13). Retrieved on 2012-11-29.
 
-288. [Ferrari: The Race Experience - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/084/084522.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+288. [Ferrari: The Race Experience - PlayStation 3 - IGN](http://ps3.ign.com/objects/084/084522.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-289. [FIFA Soccer 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/842/842310.html). Ps3.ign.com
-     (2007-09-25). Retrieved on 2012-11-29.
+289. [FIFA Soccer 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/842/842310.html). Ps3.ign.com (2007-09-25). Retrieved on 2012-11-29.
 
-290. [FIFA Soccer 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14241197.html). Ps3.ign.com
-     (2009-04-02). Retrieved on 2012-11-29.
+290. [FIFA Soccer 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14241197.html). Ps3.ign.com (2009-04-02). Retrieved on 2012-11-29.
 
-291. [FIFA Soccer 10 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14333489.html) .
-     Uk.ps3.ign.com (2009-09-23). Retrieved on 2012-11-29.
+291. [FIFA Soccer 10 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14333489.html) . Uk.ps3.ign.com (2009-09-23). Retrieved on 2012-11-29.
 
-292. [FIFA Soccer 11 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/060/060988.html). Ps3.ign.com
-     (2010-08-17). Retrieved on 2012-11-29.
+292. [FIFA Soccer 11 - PlayStation 3 - IGN](http://ps3.ign.com/objects/060/060988.html). Ps3.ign.com (2010-08-17). Retrieved on 2012-11-29.
 
-293. [FIFA Soccer 12 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/106/106069.html). Ps3.ign.com
-     (2011-08-17). Retrieved on 2012-11-29.
+293. [FIFA Soccer 12 - PlayStation 3 - IGN](http://ps3.ign.com/objects/106/106069.html). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-294. [FIFA Soccer 13 - PlayStation 3 -
-     IGN](http://www.ign.com/games/fifa-soccer-13/ps3-115679). IGN.
-     Retrieved on 2013-08-18.
+294. [FIFA Soccer 13 - PlayStation 3 - IGN](http://www.ign.com/games/fifa-soccer-13/ps3-115679). IGN. Retrieved on 2013-08-18.
 
 295.
-296. [FIFA Street - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/115/115645.html). Ps3.ign.com
-     (2012-02-10). Retrieved on 2012-11-29.
+296. [FIFA Street - PlayStation 3 - IGN](http://ps3.ign.com/objects/115/115645.html). Ps3.ign.com (2012-02-10). Retrieved on 2012-11-29.
 
-297. [FIFA Street 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/959/959412.html). Ps3.ign.com
-     (2008-02-12). Retrieved on 2012-11-29.
+297. [FIFA Street 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/959/959412.html). Ps3.ign.com (2008-02-12). Retrieved on 2012-11-29.
 
-298. [The Fight: Lights Out - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/064/064975.html). Ps3.ign.com
-     (2010-09-16). Retrieved on 2012-11-29.
+298. [The Fight: Lights Out - PlayStation 3 - IGN](http://ps3.ign.com/objects/064/064975.html). Ps3.ign.com (2010-09-16). Retrieved on 2012-11-29.
 
-299. [Fight Night Round 4 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14252467.html). Ps3.ign.com
-     (2009-11-20). Retrieved on 2012-11-29.
+299. [Fight Night Round 4 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14252467.html). Ps3.ign.com (2009-11-20). Retrieved on 2012-11-29.
 
-300. [Fight Night Round 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748455.html). Ps3.ign.com
-     (2006-12-06). Retrieved on 2012-11-29.
+300. [Fight Night Round 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748455.html). Ps3.ign.com (2006-12-06). Retrieved on 2012-11-29.
 
 301.
 302. [1](http://www.giantbomb.com/final-exam/3030-41522) .
 
-303. [Final Fantasy X / X-2 HD Remaster - PlayStation 3 -
-     IGN](http://www.ign.com/games/final-fantasy-x-x-2-hd-remaster/ps3-117910).
-     IGN. Retrieved on 2013-08-18.
+303. [Final Fantasy X / X-2 HD Remaster - PlayStation 3 - IGN](http://www.ign.com/games/final-fantasy-x-x-2-hd-remaster/ps3-117910). IGN. Retrieved on 2013-08-18.
 
-304. [Final Fantasy XIII - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/826/826843.html). Ps3.ign.com
-     (2010-02-17). Retrieved on 2012-11-29.
+304. [Final Fantasy XIII - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826843.html). Ps3.ign.com (2010-02-17). Retrieved on 2012-11-29.
 
-305. [Final Fantasy XIII-2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/097/097872.html). Ps3.ign.com
-     (2012-03-23). Retrieved on 2012-11-29.
+305. [Final Fantasy XIII-2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/097/097872.html). Ps3.ign.com (2012-03-23). Retrieved on 2012-11-29.
 
-306. [Final Fantasy XIV Online - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/823/823994.html). Ps3.ign.com
-     (2012-09-20). Retrieved on 2012-11-29.
+306. [Final Fantasy XIV Online - PlayStation 3 - IGN](http://ps3.ign.com/objects/823/823994.html). Ps3.ign.com (2012-09-20). Retrieved on 2012-11-29.
 
 307.
 
-308. [Fireburst - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/001/001151.html). Uk.ps3.ign.com
-     (2011-03-18). Retrieved on 2012-11-29.
+308. [Fireburst - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/001/001151.html). Uk.ps3.ign.com (2011-03-18). Retrieved on 2012-11-29.
 
-309. [Fist of the North Star: Ken's Rage - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/035/035867.html). Ps3.ign.com
-     (2010-11-03). Retrieved on 2012-11-29.
+309. [Fist of the North Star: Ken's Rage - PlayStation 3 - IGN](http://ps3.ign.com/objects/035/035867.html). Ps3.ign.com (2010-11-03). Retrieved on 2012-11-29.
 
-310. [Fist of the North Star: Ken's Rage 2 - PlayStation 3 -
-     IGN](http://www.ign.com/games/fist-of-the-north-star-kens-rage-2/ps3-135753).
-     IGN. Retrieved on 2013-08-18.
+310. [Fist of the North Star: Ken's Rage 2 - PlayStation 3 - IGN](http://www.ign.com/games/fist-of-the-north-star-kens-rage-2/ps3-135753). IGN. Retrieved on 2013-08-18.
 
-311. [Folklore - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/826/826967.html). Ps3.ign.com
-     (2008-01-30). Retrieved on 2012-11-29.
+311. [Folklore - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826967.html). Ps3.ign.com (2008-01-30). Retrieved on 2012-11-29.
 
-312. [Formula One Championship Edition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748480.html). Ps3.ign.com
-     (2007-03-29). Retrieved on 2012-11-29.
+312. [Formula One Championship Edition - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748480.html). Ps3.ign.com (2007-03-29). Retrieved on 2012-11-29.
 
-313. [Fracture - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/814/814910.html). Ps3.ign.com
-     (2008-10-02). Retrieved on 2012-11-29.
+313. [Fracture - PlayStation 3 - IGN](http://ps3.ign.com/objects/814/814910.html). Ps3.ign.com (2008-10-02). Retrieved on 2012-11-29.
 
-314. [Fritz Chess - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14305807.html).
-     Uk.ps3.ign.com (2009-07-31). Retrieved on 2012-11-29.
+314. [Fritz Chess - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14305807.html). Uk.ps3.ign.com (2009-07-31). Retrieved on 2012-11-29.
 
-315. [Front Mission Evolved - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14352188.html).
-     Uk.ps3.ign.com (2010-09-16). Retrieved on 2012-11-29.
+315. [Front Mission Evolved - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14352188.html). Uk.ps3.ign.com (2010-09-16). Retrieved on 2012-11-29.
 
-316. [Fuel - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14275017.html). Ps3.ign.com
-     (2009-05-22). Retrieved on 2012-11-29.
+316. [Fuel - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14275017.html). Ps3.ign.com (2009-05-22). Retrieved on 2012-11-29.
 
-317. [Full Auto 2: Battlelines - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/825/825014.html). Ps3.ign.com
-     (2007-02-02). Retrieved on 2012-11-29.
+317. [Full Auto 2: Battlelines - PlayStation 3 - IGN](http://ps3.ign.com/objects/825/825014.html). Ps3.ign.com (2007-02-02). Retrieved on 2012-11-29.
 
-318. [G1 Jockey 4: 2007 Version - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/960/960896.html). Ps3.ign.com
-     (2007-09-20). Retrieved on 2012-11-29.
+318. [G1 Jockey 4: 2007 Version - PlayStation 3 - IGN](http://ps3.ign.com/objects/960/960896.html). Ps3.ign.com (2007-09-20). Retrieved on 2012-11-29.
 
-319. [G1
-     Jockey 4 2008](http://gamespot.com/ps3/sports/g1jockey42008/index.html).
-     GameSpot.com (2008-09-18). Retrieved on 2012-11-29.
+319. [G1 Jockey 4 2008](http://gamespot.com/ps3/sports/g1jockey42008/index.html). GameSpot.com (2008-09-18). Retrieved on 2012-11-29.
 
-320. [GalGun - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/116/116903.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+320. [GalGun - PlayStation 3 - IGN](http://ps3.ign.com/objects/116/116903.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-321. Telltale also released a Game of Thrones game in 2014 with the same
-     name but it is a download only episodic game similar to the walking
-     dead series, this is the 2012 release
+321. Telltale also released a Game of Thrones game in 2014 with the same name but it is a download only episodic game similar to the walking dead series, this is the 2012 release
 
-322. [Genji: Days of the Blade - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/761/761160.html). Ps3.ign.com
-     (2006-11-04). Retrieved on 2012-11-29.
+322. [Genji: Days of the Blade - PlayStation 3 - IGN](http://ps3.ign.com/objects/761/761160.html). Ps3.ign.com (2006-11-04). Retrieved on 2012-11-29.
 
-323. [G-Force - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14333672.html).
-     Uk.ps3.ign.com (2009-07-21). Retrieved on 2012-11-29.
+323. [G-Force - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14333672.html). Uk.ps3.ign.com (2009-07-21). Retrieved on 2012-11-29.
 
-324. [Ghostbusters: The Video Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14218851.html). Ps3.ign.com
-     (2009-06-18). Retrieved on 2012-11-29.
+324. [Ghostbusters: The Video Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14218851.html). Ps3.ign.com (2009-06-18). Retrieved on 2012-11-29.
 
-325. [G.I. Joe: The Rise of Cobra - The Game - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14320054.html).
-     Uk.ps3.ign.com (2009-08-06). Retrieved on 2012-11-29.
+325. [G.I. Joe: The Rise of Cobra - The Game - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14320054.html). Uk.ps3.ign.com (2009-08-06). Retrieved on 2012-11-29.
 
-326. [The Godfather: The Don's Edition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/874/874183.html). Ps3.ign.com
-     (2007-03-20). Retrieved on 2012-11-29.
+326. [The Godfather: The Don's Edition - PlayStation 3 - IGN](http://ps3.ign.com/objects/874/874183.html). Ps3.ign.com (2007-03-20). Retrieved on 2012-11-29.
 
-327. [The Godfather II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/953/953333.html). Ps3.ign.com
-     (2009-01-28). Retrieved on 2012-11-29.
+327. [The Godfather II - PlayStation 3 - IGN](http://ps3.ign.com/objects/953/953333.html). Ps3.ign.com (2009-01-28). Retrieved on 2012-11-29.
 
-328. [God of War III - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/886/886158.html). Ps3.ign.com
-     (2010-11-04). Retrieved on 2012-11-29.
+328. [God of War III - PlayStation 3 - IGN](http://ps3.ign.com/objects/886/886158.html). Ps3.ign.com (2010-11-04). Retrieved on 2012-11-29.
 
-329. [E3 2012: God of War: Ascension Unleashes on PS3 Next March –
-     PlayStation
-     Blog](http://blog.us.playstation.com/2012/06/04/e3-2012-god-of-war-ascension-unleashes-on-ps3-next-march/)
-     . Blog.us.playstation.com. Retrieved on 2012-11-29.
+329. [E3 2012: God of War: Ascension Unleashes on PS3 Next March – PlayStation Blog](http://blog.us.playstation.com/2012/06/04/e3-2012-god-of-war-ascension-unleashes-on-ps3-next-march/) . Blog.us.playstation.com. Retrieved on 2012-11-29.
 
-330. [God of War Collection - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/029/029855.html). Ps3.ign.com
-     (2009-11-06). Retrieved on 2012-11-29.
+330. [God of War Collection - PlayStation 3 - IGN](http://ps3.ign.com/objects/029/029855.html). Ps3.ign.com (2009-11-06). Retrieved on 2012-11-29.
 
-331. [God of War Origins - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110610.html). Ps3.ign.com
-     (2011-08-25). Retrieved on 2012-11-29.
+331. [God of War Origins - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110610.html). Ps3.ign.com (2011-08-25). Retrieved on 2012-11-29.
 
-332. [God of War Saga - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/139/139114.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+332. [God of War Saga - PlayStation 3 - IGN](http://ps3.ign.com/objects/139/139114.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-333. [Golden Axe: Beast Rider - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/794/794422.html). Ps3.ign.com
-     (2008-10-03). Retrieved on 2012-11-29.
+333. [Golden Axe: Beast Rider - PlayStation 3 - IGN](http://ps3.ign.com/objects/794/794422.html). Ps3.ign.com (2008-10-03). Retrieved on 2012-11-29.
 
-334. [GoldenEye 007: Reloaded - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/023/023720.html). Ps3.ign.com
-     (2011-10-11). Retrieved on 2012-11-29.
+334. [GoldenEye 007: Reloaded - PlayStation 3 - IGN](http://ps3.ign.com/objects/023/023720.html). Ps3.ign.com (2011-10-11). Retrieved on 2012-11-29.
 
-335. [The Golden Compass - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/889/889064.html). Ps3.ign.com
-     (2007-11-06). Retrieved on 2012-11-29.
+335. [The Golden Compass - PlayStation 3 - IGN](http://ps3.ign.com/objects/889/889064.html). Ps3.ign.com (2007-11-06). Retrieved on 2012-11-29.
 
-336. [Gran Turismo 5 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/857/857126.html). Ps3.ign.com
-     (2012-11-25). Retrieved on 2012-11-29.
+336. [Gran Turismo 5 - PlayStation 3 - IGN](http://ps3.ign.com/objects/857/857126.html). Ps3.ign.com (2012-11-25). Retrieved on 2012-11-29.
 
-337. [Gran Turismo 5 Prologue - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/949/949777.html). Ps3.ign.com
-     (2008-10-03). Retrieved on 2012-11-29.
+337. [Gran Turismo 5 Prologue - PlayStation 3 - IGN](http://ps3.ign.com/objects/949/949777.html). Ps3.ign.com (2008-10-03). Retrieved on 2012-11-29.
 
 338.
 
-339. [Grand Slam Tennis 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/115/115334.html). Ps3.ign.com
-     (2012-01-16). Retrieved on 2012-11-29.
+339. [Grand Slam Tennis 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/115/115334.html). Ps3.ign.com (2012-01-16). Retrieved on 2012-11-29.
 
-340. [Grand Theft Auto IV - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/793/793799.html). Ps3.ign.com
-     (2008-04-27). Retrieved on 2012-11-29.
+340. [Grand Theft Auto IV - PlayStation 3 - IGN](http://ps3.ign.com/objects/793/793799.html). Ps3.ign.com (2008-04-27). Retrieved on 2012-11-29.
 
-341. [Grand Theft Auto V](http://www.rockstargames.com/V/).
-     Rockstargames.com. Retrieved on 2012-11-29.
+341. [Grand Theft Auto V](http://www.rockstargames.com/V/). Rockstargames.com. Retrieved on 2012-11-29.
 
-342. [Grand Theft Auto: Episodes from Liberty City - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/059/059690.html). Ps3.ign.com
-     (2010-04-09). Retrieved on 2012-11-29.
+342. [Grand Theft Auto: Episodes from Liberty City - PlayStation 3 - IGN](http://ps3.ign.com/objects/059/059690.html). Ps3.ign.com (2010-04-09). Retrieved on 2012-11-29.
 
-343. [Grand Theft Auto: San
-     Andreas](http://www.rockstargames.com/sanandreas/).
-     Rockstargames.com. Retrieved on 2015-12-01.
+343. [Grand Theft Auto: San Andreas](http://www.rockstargames.com/sanandreas/). Rockstargames.com. Retrieved on 2015-12-01.
 
-344. [Green Day: Rock Band - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14357181.html). Ps3.ign.com
-     (2010-06-08). Retrieved on 2012-11-29.
+344. [Green Day: Rock Band - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14357181.html). Ps3.ign.com (2010-06-08). Retrieved on 2012-11-29.
 
-345. *[GRID Autosport - Game
-     Information](http://www.codemasters.com/uk/gridautosport/ps3/info/)
-     *. <http://www.codemasters.com/>.
-     [Archived](https://web.archive.org/web/20140709043703/http://www.codemasters.com/uk/gridautosport/ps3/info/)
-     from the original on 2014-07-09. Retrieved 2015-02-22.
+345. *[GRID Autosport - Game Information](http://www.codemasters.com/uk/gridautosport/ps3/info/) *. <http://www.codemasters.com/>. [Archived](https://web.archive.org/web/20140709043703/http://www.codemasters.com/uk/gridautosport/ps3/info/) from the original on 2014-07-09. Retrieved 2015-02-22.
 
-346. Thomas, Lucas M. (2014-06-23). *[Out This Week:
-     June 24, 2014](http://www.ign.com/articles/2014/06/23/out-this-week-june-24-2014)*.
-     *IGN*. Ziff Davis.
-     [Archived](https://web.archive.org/web/20141204151953/http://www.ign.com/articles/2014/06/23/out-this-week-june-24-2014%7Carchivedate%3D2014-12-04)
-     from the original on 2014-12-04. Retrieved 2015-02-22.
+346. Thomas, Lucas M. (2014-06-23). *[Out This Week: June 24, 2014](http://www.ign.com/articles/2014/06/23/out-this-week-june-24-2014)*. *IGN*. Ziff Davis. [Archived](https://web.archive.org/web/20141204151953/http://www.ign.com/articles/2014/06/23/out-this-week-june-24-2014%7Carchivedate%3D2014-12-04) from the original on 2014-12-04. Retrieved 2015-02-22.
 
-347. [The Grinder - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/060/060492.html). Ps3.ign.com
-     (2010-02-04). Retrieved on 2012-11-29.
+347. [The Grinder - PlayStation 3 - IGN](http://ps3.ign.com/objects/060/060492.html). Ps3.ign.com (2010-02-04). Retrieved on 2012-11-29.
 
-348. [Guitar Hero III: Legends of Rock - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/858/858010.html). Ps3.ign.com
-     (2007-10-18). Retrieved on 2012-11-29.
+348. [Guitar Hero III: Legends of Rock - PlayStation 3 - IGN](http://ps3.ign.com/objects/858/858010.html). Ps3.ign.com (2007-10-18). Retrieved on 2012-11-29.
 
-349. [Guitar Hero World Tour Complete Band Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14222046.html). Ps3.ign.com
-     (2008-09-29). Retrieved on 2012-11-29.
+349. [Guitar Hero World Tour Complete Band Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14222046.html). Ps3.ign.com (2008-09-29). Retrieved on 2012-11-29.
 
-350. [Guitar Hero 5 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14303811.html).
-     Uk.ps3.ign.com (2009-09-02). Retrieved on 2012-11-29.
+350. [Guitar Hero 5 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14303811.html). Uk.ps3.ign.com (2009-09-02). Retrieved on 2012-11-29.
 
 351.
-352. [Guitar Hero: Metallica - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14294148.html). Ps3.ign.com
-     (2009-04-15). Retrieved on 2012-11-29.
+352. [Guitar Hero: Metallica - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14294148.html). Ps3.ign.com (2009-04-15). Retrieved on 2012-11-29.
 
-353. [Guitar Hero Smash Hits - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14322306.html). Ps3.ign.com
-     (2009-06-03). Retrieved on 2012-11-29.
+353. [Guitar Hero Smash Hits - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14322306.html). Ps3.ign.com (2009-06-03). Retrieved on 2012-11-29.
 
-354. [Guitar Hero: Van Halen - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14346092.html).
-     Uk.ps3.ign.com (2010-02-22). Retrieved on 2012-11-29.
+354. [Guitar Hero: Van Halen - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14346092.html). Uk.ps3.ign.com (2010-02-22). Retrieved on 2012-11-29.
 
-355. [Guitar Hero: Warriors of Rock - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/042/042754.html). Ps3.ign.com
-     (2010-09-30). Retrieved on 2012-11-29.
+355. [Guitar Hero: Warriors of Rock - PlayStation 3 - IGN](http://ps3.ign.com/objects/042/042754.html). Ps3.ign.com (2010-09-30). Retrieved on 2012-11-29.
 
-356. [Hail To The Chimp - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/884/884638.html). Ps3.ign.com
-     (2008-06-17). Retrieved on 2012-11-29.
+356. [Hail To The Chimp - PlayStation 3 - IGN](http://ps3.ign.com/objects/884/884638.html). Ps3.ign.com (2008-06-17). Retrieved on 2012-11-29.
 
-357. [Hannah Montana: The Movie - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14323238.html).
-     Uk.ps3.ign.com (2009-04-13). Retrieved on 2012-11-29.
+357. [Hannah Montana: The Movie - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14323238.html). Uk.ps3.ign.com (2009-04-13). Retrieved on 2012-11-29.
 
-358. [Harry Potter and the Deathly Hallows: Part 1 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/061/061055.html). Ps3.ign.com
-     (2010-11-16). Retrieved on 2012-11-29.
+358. [Harry Potter and the Deathly Hallows: Part 1 - PlayStation 3 - IGN](http://ps3.ign.com/objects/061/061055.html). Ps3.ign.com (2010-11-16). Retrieved on 2012-11-29.
 
-359. [Harry Potter and the Deathly Hallows: Part 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/076/076175.html). Ps3.ign.com
-     (2011-07-01). Retrieved on 2012-11-29.
+359. [Harry Potter and the Deathly Hallows: Part 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/076/076175.html). Ps3.ign.com (2011-07-01). Retrieved on 2012-11-29.
 
-360. [Harry Potter and the Order of the Phoenix - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/850/850866.html). Ps3.ign.com
-     (2007-06-27). Retrieved on 2012-11-29.
+360. [Harry Potter and the Order of the Phoenix - PlayStation 3 - IGN](http://ps3.ign.com/objects/850/850866.html). Ps3.ign.com (2007-06-27). Retrieved on 2012-11-29.
 
 361.
-362. [Haze - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/784/784480.html). Ps3.ign.com
-     (2008-05-08). Retrieved on 2012-11-29.
+362. [Haze - PlayStation 3 - IGN](http://ps3.ign.com/objects/784/784480.html). Ps3.ign.com (2008-05-08). Retrieved on 2012-11-29.
 
-363. [Heat - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/827/827805.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+363. [Heat - PlayStation 3 - IGN](http://ps3.ign.com/objects/827/827805.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-364. [Heavenly Sword - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/700/700186.html). Ps3.ign.com
-     (2007-08-29). Retrieved on 2012-11-29.
+364. [Heavenly Sword - PlayStation 3 - IGN](http://ps3.ign.com/objects/700/700186.html). Ps3.ign.com (2007-08-29). Retrieved on 2012-11-29.
 
-365. [Heavy Rain - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/811/811232.html). Ps3.ign.com
-     (2010-08-20). Retrieved on 2012-11-29.
+365. [Heavy Rain - PlayStation 3 - IGN](http://ps3.ign.com/objects/811/811232.html). Ps3.ign.com (2010-08-20). Retrieved on 2012-11-29.
 
-366. [Hellboy: The Science of Evil - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/827/827012.html). Ps3.ign.com
-     (2008-08-20). Retrieved on 2012-11-29.
+366. [Hellboy: The Science of Evil - PlayStation 3 - IGN](http://ps3.ign.com/objects/827/827012.html). Ps3.ign.com (2008-08-20). Retrieved on 2012-11-29.
 
-367. [Heroes Over Europe - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/964/964992.html). Ps3.ign.com
-     (2009-09-25). Retrieved on 2012-11-29.
+367. [Heroes Over Europe - PlayStation 3 - IGN](http://ps3.ign.com/objects/964/964992.html). Ps3.ign.com (2009-09-25). Retrieved on 2012-11-29.
 
 368. Released as Free\! Free\! Bowling in Japan
 
-369. [The History Channel: Battle For the Pacific - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/952/952274.html). Ps3.ign.com
-     (2008-02-22). Retrieved on 2012-11-29.
+369. [The History Channel: Battle For the Pacific - PlayStation 3 - IGN](http://ps3.ign.com/objects/952/952274.html). Ps3.ign.com (2008-02-22). Retrieved on 2012-11-29.
 
-370. [History - Civil War: Secret Missions - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14270502.html). Ps3.ign.com
-     (2008-11-25). Retrieved on 2012-11-29.
+370. [History - Civil War: Secret Missions - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14270502.html). Ps3.ign.com (2008-11-25). Retrieved on 2012-11-29.
 
-371. [History - Great Battles Medieval - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14341213.html).
-     Uk.ps3.ign.com (2010-09-02). Retrieved on 2012-11-29.
+371. [History - Great Battles Medieval - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14341213.html). Uk.ps3.ign.com (2010-09-02). Retrieved on 2012-11-29.
 
-372. [Hitman: Absolution - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14348845.html). Ps3.ign.com
-     (2012-09-20). Retrieved on 2012-11-29.
+372. [Hitman: Absolution - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14348845.html). Ps3.ign.com (2012-09-20). Retrieved on 2012-11-29.
 
-373. [Homefront - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14353142.html).
-     Uk.ps3.ign.com (2011-06-14). Retrieved on 2012-11-29.
+373. [Homefront - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14353142.html). Uk.ps3.ign.com (2011-06-14). Retrieved on 2012-11-29.
 
-374. [House of the Dead: Overkill Extended Cut - PlayStation 3 -
-     IGN](http://www.ign.com/games/the-house-of-the-dead-overkill/ps3-109109).
-     ps3.ign.com (2011-10-25). Retrieved on 2015-9-16/
+374. [House of the Dead: Overkill Extended Cut - PlayStation 3 - IGN](http://www.ign.com/games/the-house-of-the-dead-overkill/ps3-109109). ps3.ign.com (2011-10-25). Retrieved on 2015-9-16/
 
-375. [How to Train Your Dragon - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/782/782964.html). Ps3.ign.com
-     (2010-03-31). Retrieved on 2012-11-29.
+375. [How to Train Your Dragon - PlayStation 3 - IGN](http://ps3.ign.com/objects/782/782964.html). Ps3.ign.com (2010-03-31). Retrieved on 2012-11-29.
 
 376.
-377. [Hunted: The Demon's Forge - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/065/065241.html). Ps3.ign.com
-     (2011-04-15). Retrieved on 2012-11-29.
+377. [Hunted: The Demon's Forge - PlayStation 3 - IGN](http://ps3.ign.com/objects/065/065241.html). Ps3.ign.com (2011-04-15). Retrieved on 2012-11-29.
 
-378. [Hyperdimension Neptunia - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/090/090809.html). Ps3.ign.com
-     (2010-10-28). Retrieved on 2012-11-29.
+378. [Hyperdimension Neptunia - PlayStation 3 - IGN](http://ps3.ign.com/objects/090/090809.html). Ps3.ign.com (2010-10-28). Retrieved on 2012-11-29.
 
-379. [Hyperdimension Neptunia Mk-II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/068/068707.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+379. [Hyperdimension Neptunia Mk-II - PlayStation 3 - IGN](http://ps3.ign.com/objects/068/068707.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-380. [Ice Age: Dawn of the Dinosaurs - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14322298.html).
-     Uk.ps3.ign.com (2009-07-08). Retrieved on 2012-11-29.
+380. [Ice Age: Dawn of the Dinosaurs - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14322298.html). Uk.ps3.ign.com (2009-07-08). Retrieved on 2012-11-29.
 
-381. [The Ico & Shadow of the Colossus Collection - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/075/075635.html). Ps3.ign.com
-     (2011-03-02). Retrieved on 2012-11-29.
+381. [The Ico & Shadow of the Colossus Collection - PlayStation 3 - IGN](http://ps3.ign.com/objects/075/075635.html). Ps3.ign.com (2011-03-02). Retrieved on 2012-11-29.
 
-382. [IL-2: Sturmovik: Birds of Prey - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/142/14258702.html).
-     Uk.ps3.ign.com (2009-10-09). Retrieved on 2012-11-29.
+382. [IL-2: Sturmovik: Birds of Prey - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/142/14258702.html). Uk.ps3.ign.com (2009-10-09). Retrieved on 2012-11-29.
 
-383. [Imabikisou - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/905/905505.html). Ps3.ign.com
-     (2007-09-21). Retrieved on 2012-11-29.
+383. [Imabikisou - PlayStation 3 - IGN](http://ps3.ign.com/objects/905/905505.html). Ps3.ign.com (2007-09-21). Retrieved on 2012-11-29.
 
-384. [The Incredible Hulk - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/900/900972.html). Ps3.ign.com
-     (2008-06-30). Retrieved on 2012-11-29.
+384. [The Incredible Hulk - PlayStation 3 - IGN](http://ps3.ign.com/objects/900/900972.html). Ps3.ign.com (2008-06-30). Retrieved on 2012-11-29.
 
-385. [Infamous - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/800/800208.html). Ps3.ign.com
-     (2009-05-11). Retrieved on 2012-11-29.
+385. [Infamous - PlayStation 3 - IGN](http://ps3.ign.com/objects/800/800208.html). Ps3.ign.com (2009-05-11). Retrieved on 2012-11-29.
 
-386. [Infamous 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/038/038010.html). Ps3.ign.com
-     (2011-05-27). Retrieved on 2012-11-29.
+386. [Infamous 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/038/038010.html). Ps3.ign.com (2011-05-27). Retrieved on 2012-11-29.
 
-387. [2](http://www.ign.com/games/injustice-gods-among-us/ps3-135392)
-     Injustice: Gods Among Us - PlayStation 3 www.ign.com Retrieved on
-     2013-05-13
+387. [2](http://www.ign.com/games/injustice-gods-among-us/ps3-135392) Injustice: Gods Among Us - PlayStation 3 www.ign.com Retrieved on 2013-05-13
 
-388. [Guillermo Del Toro's InSane - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/095/095033.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+388. [Guillermo Del Toro's InSane - PlayStation 3 - IGN](http://ps3.ign.com/objects/095/095033.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-389. [Initial D: Extreme Stage - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14237997.html). Ps3.ign.com
-     (2008-06-17). Retrieved on 2012-11-29.
+389. [Initial D: Extreme Stage - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14237997.html). Ps3.ign.com (2008-06-17). Retrieved on 2012-11-29.
 
-390. [Interstellar Marines - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/787/787092.html). Ps3.ign.com
-     (2009-10-20). Retrieved on 2012-11-29.
+390. [Interstellar Marines - PlayStation 3 - IGN](http://ps3.ign.com/objects/787/787092.html). Ps3.ign.com (2009-10-20). Retrieved on 2012-11-29.
 
-391. [Inversion - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/038/038858.html). Ps3.ign.com
-     (2012-01-31). Retrieved on 2012-11-29.
+391. [Inversion - PlayStation 3 - IGN](http://ps3.ign.com/objects/038/038858.html). Ps3.ign.com (2012-01-31). Retrieved on 2012-11-29.
 
-392. [Iron Man - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/864/864868.html). Ps3.ign.com
-     (2008-04-14). Retrieved on 2012-11-29.
+392. [Iron Man - PlayStation 3 - IGN](http://ps3.ign.com/objects/864/864868.html). Ps3.ign.com (2008-04-14). Retrieved on 2012-11-29.
 
-393. [Iron Man 2 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14319899.html).
-     Uk.ps3.ign.com (2010-05-06). Retrieved on 2012-11-29.
+393. [Iron Man 2 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14319899.html). Uk.ps3.ign.com (2010-05-06). Retrieved on 2012-11-29.
 
 394.
 
-395. [James Bond 007: Blood Stone - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14303824.html).
-     Uk.ps3.ign.com (2010-10-08). Retrieved on 2012-11-29.
+395. [James Bond 007: Blood Stone - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14303824.html). Uk.ps3.ign.com (2010-10-08). Retrieved on 2012-11-29.
 
-396. [John Woo Presents Stranglehold - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/749/749071.html). Ps3.ign.com
-     (2007-08-23). Retrieved on 2012-11-29.
+396. [John Woo Presents Stranglehold - PlayStation 3 - IGN](http://ps3.ign.com/objects/749/749071.html). Ps3.ign.com (2007-08-23). Retrieved on 2012-11-29.
 
-397. [Janline R](http://www.gametrailers.com/game/janline-r/11834).
-     GameTrailers.com. Retrieved on 2012-11-29.
+397. [Janline R](http://www.gametrailers.com/game/janline-r/11834). GameTrailers.com. Retrieved on 2012-11-29.
 
-398. [Just Cause 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/862/862519.html). Ps3.ign.com
-     (2010-10-01). Retrieved on 2012-11-29.
+398. [Just Cause 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/862/862519.html). Ps3.ign.com (2010-10-01). Retrieved on 2012-11-29.
 
-399. [Jurassic Park: The Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/076/076989.html). Ps3.ign.com
-     (2011-11-18). Retrieved on 2012-11-29.
+399. [Jurassic Park: The Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/076/076989.html). Ps3.ign.com (2011-11-18). Retrieved on 2012-11-29.
 
-400. [Jurassic: The Hunted - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/022/022369.html). Ps3.ign.com
-     (2009-11-14). Retrieved on 2012-11-29.
+400. [Jurassic: The Hunted - PlayStation 3 - IGN](http://ps3.ign.com/objects/022/022369.html). Ps3.ign.com (2009-11-14). Retrieved on 2012-11-29.
 
-401. [Juiced 2: Hot Import Nights - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/887/887421.html). Ps3.ign.com
-     (2007-10-03). Retrieved on 2012-11-29.
+401. [Juiced 2: Hot Import Nights - PlayStation 3 - IGN](http://ps3.ign.com/objects/887/887421.html). Ps3.ign.com (2007-10-03). Retrieved on 2012-11-29.
 
-402. [Just Dance 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110686.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+402. [Just Dance 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110686.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-403. [Kane & Lynch: Dead Men - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/879/879519.html). Ps3.ign.com
-     (2008-04-08). Retrieved on 2012-11-29.
+403. [Kane & Lynch: Dead Men - PlayStation 3 - IGN](http://ps3.ign.com/objects/879/879519.html). Ps3.ign.com (2008-04-08). Retrieved on 2012-11-29.
 
-404. [Kane & Lynch 2: Dog Days - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14208746.html). Ps3.ign.com
-     (2010-06-16). Retrieved on 2012-11-29.
+404. [Kane & Lynch 2: Dog Days - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14208746.html). Ps3.ign.com (2010-06-16). Retrieved on 2012-11-29.
 
-405. [Karaoke Revolution - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14339568.html). Ps3.ign.com
-     (2009-12-01). Retrieved on 2012-11-29.
+405. [Karaoke Revolution - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14339568.html). Ps3.ign.com (2009-12-01). Retrieved on 2012-11-29.
 
-406. [Karaoke Revolution Presents American Idol Encore Game & Microphone
-     - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14222588.html). Ps3.ign.com
-     (2008-04-02). Retrieved on 2012-11-29.
+406. [Karaoke Revolution Presents American Idol Encore Game & Microphone - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14222588.html). Ps3.ign.com (2008-04-02). Retrieved on 2012-11-29.
 
-407. [Karaoke Revolution Presents American Idol Encore 2 - PlayStation 3
-     - IGN](http://ps3.ign.com/objects/142/14267036.html). Ps3.ign.com
-     (2008-11-24). Retrieved on 2012-11-29.
+407. [Karaoke Revolution Presents American Idol Encore 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14267036.html). Ps3.ign.com (2008-11-24). Retrieved on 2012-11-29.
 
-408. [Katamari Forever - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14333801.html). Ps3.ign.com
-     (2009-08-14). Retrieved on 2012-11-29.
+408. [Katamari Forever - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14333801.html). Ps3.ign.com (2009-08-14). Retrieved on 2012-11-29.
 
-409. [Killzone 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748475.html). Ps3.ign.com
-     (2009-05-21). Retrieved on 2012-11-29.
+409. [Killzone 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748475.html). Ps3.ign.com (2009-05-21). Retrieved on 2012-11-29.
 
-410. [Killzone 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14324403.html). Ps3.ign.com
-     (2011-06-21). Retrieved on 2012-11-29.
+410. [Killzone 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14324403.html). Ps3.ign.com (2011-06-21). Retrieved on 2012-11-29.
 
-411. [The King of Fighters: Maximum Impact 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/772/772049.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+411. [The King of Fighters: Maximum Impact 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772049.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-412. [The King of Fighters XIII - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/062/062898.html). Ps3.ign.com
-     (2011-08-25). Retrieved on 2012-11-29.
+412. [The King of Fighters XIII - PlayStation 3 - IGN](http://ps3.ign.com/objects/062/062898.html). Ps3.ign.com (2011-08-25). Retrieved on 2012-11-29.
 
 413.
 
-414. [Kingdom Under Fire II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14231230.html). Ps3.ign.com
-     (2008-01-28). Retrieved on 2012-11-29.
+414. [Kingdom Under Fire II - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14231230.html). Ps3.ign.com (2008-01-28). Retrieved on 2012-11-29.
 
-415. [Kingdoms of Amalur: Reckoning - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/064/064690.html). Ps3.ign.com
-     (2011-12-08). Retrieved on 2012-11-29.
+415. [Kingdoms of Amalur: Reckoning - PlayStation 3 - IGN](http://ps3.ign.com/objects/064/064690.html). Ps3.ign.com (2011-12-08). Retrieved on 2012-11-29.
 
-416. [Knights Contract - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/074/074899.html). Ps3.ign.com
-     (2011-02-08). Retrieved on 2012-11-29.
+416. [Knights Contract - PlayStation 3 - IGN](http://ps3.ign.com/objects/074/074899.html). Ps3.ign.com (2011-02-08). Retrieved on 2012-11-29.
 
-417. [Kung Fu Panda - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/812/812553.html). Ps3.ign.com
-     (2008-03-11). Retrieved on 2012-11-29.
+417. [Kung Fu Panda - PlayStation 3 - IGN](http://ps3.ign.com/objects/812/812553.html). Ps3.ign.com (2008-03-11). Retrieved on 2012-11-29.
 
-418. [Kung Fu Panda 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/054/054112.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+418. [Kung Fu Panda 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/054/054112.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-419. [Kurayami - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/824/824526.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+419. [Kurayami - PlayStation 3 - IGN](http://ps3.ign.com/objects/824/824526.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-420. [L.A. Noire - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/760/760495.html). Ps3.ign.com
-     (2011-06-21). Retrieved on 2012-11-29.
+420. [L.A. Noire - PlayStation 3 - IGN](http://ps3.ign.com/objects/760/760495.html). Ps3.ign.com (2011-06-21). Retrieved on 2012-11-29.
 
-421. [Lair - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/761/761161.html). Ps3.ign.com
-     (2007-08-31). Retrieved on 2012-11-29.
+421. [Lair - PlayStation 3 - IGN](http://ps3.ign.com/objects/761/761161.html). Ps3.ign.com (2007-08-31). Retrieved on 2012-11-29.
 
-422. Eddie, Captain. (2011-12-03) [The Last Of Us Is A New PlayStation 3
-     Exclusive -
-     News](http://www.gameinformer.com/b/news/archive/2011/12/03/the-last-of-us-is-a-new-playstation-3-exclusive.aspx).
-     www.GameInformer.com. Retrieved on 2012-11-29.
+422. Eddie, Captain. (2011-12-03) [The Last Of Us Is A New PlayStation 3 Exclusive - News](http://www.gameinformer.com/b/news/archive/2011/12/03/the-last-of-us-is-a-new-playstation-3-exclusive.aspx). www.GameInformer.com. Retrieved on 2012-11-29.
 
-423. [Last Rebellion - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14266738.html). Ps3.ign.com
-     (2009-05-08). Retrieved on 2012-11-29.
+423. [Last Rebellion - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14266738.html). Ps3.ign.com (2009-05-08). Retrieved on 2012-11-29.
 
-424. [Legendary - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/948/948691.html). Ps3.ign.com
-     (2008-10-31). Retrieved on 2012-11-29.
+424. [Legendary - PlayStation 3 - IGN](http://ps3.ign.com/objects/948/948691.html). Ps3.ign.com (2008-10-31). Retrieved on 2012-11-29.
 
-425. [The Legend of Spyro: Dawn of the Dragon - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14250200.html). Ps3.ign.com
-     (2008-12-06). Retrieved on 2012-11-29.
+425. [The Legend of Spyro: Dawn of the Dragon - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14250200.html). Ps3.ign.com (2008-12-06). Retrieved on 2012-11-29.
 
-426. [LEGO Batman: The Videogame - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/896/896274.html). Ps3.ign.com
-     (2008-10-11). Retrieved on 2012-11-29.
+426. [LEGO Batman: The Videogame - PlayStation 3 - IGN](http://ps3.ign.com/objects/896/896274.html). Ps3.ign.com (2008-10-11). Retrieved on 2012-11-29.
 
-427. [LEGO Batman 2: DC Super Heroes - PlayStation 3 -
-     IGN](http://www.ign.com/games/lego-batman-2-dc-super-heroes/ps3-124688).
-     Retrieved on 2013-02-16
+427. [LEGO Batman 2: DC Super Heroes - PlayStation 3 - IGN](http://www.ign.com/games/lego-batman-2-dc-super-heroes/ps3-124688). Retrieved on 2013-02-16
 
-428. [LEGO Harry Potter: Years 1-4 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14329937.html).
-     Uk.ps3.ign.com (2010-06-28). Retrieved on 2012-11-29.
+428. [LEGO Harry Potter: Years 1-4 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14329937.html). Uk.ps3.ign.com (2010-06-28). Retrieved on 2012-11-29.
 
 429.
-430. [LEGO Indiana Jones: The Original Adventures - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/953/953319.html). Ps3.ign.com
-     (2008-06-03). Retrieved on 2012-11-29.
+430. [LEGO Indiana Jones: The Original Adventures - PlayStation 3 - IGN](http://ps3.ign.com/objects/953/953319.html). Ps3.ign.com (2008-06-03). Retrieved on 2012-11-29.
 
-431. [LEGO Indiana Jones 2: The Adventure Continues - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14329929.html).
-     Uk.ps3.ign.com (2009-11-18). Retrieved on 2012-11-29.
+431. [LEGO Indiana Jones 2: The Adventure Continues - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14329929.html). Uk.ps3.ign.com (2009-11-18). Retrieved on 2012-11-29.
 
-432. [LEGO Pirates of the Caribbean: The Video Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/092/092996.html). Ps3.ign.com
-     (2011-02-02). Retrieved on 2012-11-29.
+432. [LEGO Pirates of the Caribbean: The Video Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/092/092996.html). Ps3.ign.com (2011-02-02). Retrieved on 2012-11-29.
 
-433. [LEGO Rock Band - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14342412.html). Ps3.ign.com
-     (2009-10-20). Retrieved on 2012-11-29.
+433. [LEGO Rock Band - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14342412.html). Ps3.ign.com (2009-10-20). Retrieved on 2012-11-29.
 
-434. [LEGO Star Wars: The Complete Saga - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/904/904615.html). Ps3.ign.com
-     (2007-10-12). Retrieved on 2012-11-29.
+434. [LEGO Star Wars: The Complete Saga - PlayStation 3 - IGN](http://ps3.ign.com/objects/904/904615.html). Ps3.ign.com (2007-10-12). Retrieved on 2012-11-29.
 
-435. [LEGO Star Wars III: The Clone Wars - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/060/060893.html). Ps3.ign.com
-     (2010-06-16). Retrieved on 2012-11-29.
+435. [LEGO Star Wars III: The Clone Wars - PlayStation 3 - IGN](http://ps3.ign.com/objects/060/060893.html). Ps3.ign.com (2010-06-16). Retrieved on 2012-11-29.
 
-436. [Leisure Suit Larry: Box Office Bust - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14227832.html). Ps3.ign.com
-     (2009-04-07). Retrieved on 2012-11-29.
+436. [Leisure Suit Larry: Box Office Bust - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14227832.html). Ps3.ign.com (2009-04-07). Retrieved on 2012-11-29.
 
-437. [Lightning Returns: Final Fantasy XIII - Playstation 3 -
-     IGN](http://www.ign.com/games/final-fantasy-xiii-3-140567/ps3-127607)
-     Ps3.ign.com (2014-01-15)
+437. [Lightning Returns: Final Fantasy XIII - Playstation 3 - IGN](http://www.ign.com/games/final-fantasy-xiii-3-140567/ps3-127607) Ps3.ign.com (2014-01-15)
 
-438. [LittleBigPlanet - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/856/856680.html). Ps3.ign.com
-     (2010-06-04). Retrieved on 2012-11-29.
+438. [LittleBigPlanet - PlayStation 3 - IGN](http://ps3.ign.com/objects/856/856680.html). Ps3.ign.com (2010-06-04). Retrieved on 2012-11-29.
 
-439. [LittleBigPlanet 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/019/019675.html). Ps3.ign.com
-     (2011-10-25). Retrieved on 2012-11-29.
+439. [LittleBigPlanet 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/019/019675.html). Ps3.ign.com (2011-10-25). Retrieved on 2012-11-29.
 
-440. [London 2012: The Official Video Game of the Olympic Games -
-     PlayStation 3 - IGN](http://ps3.ign.com/objects/109/109993.html).
-     Ps3.ign.com (2012-04-18). Retrieved on 2012-11-29.
+440. [London 2012: The Official Video Game of the Olympic Games - PlayStation 3 - IGN](http://ps3.ign.com/objects/109/109993.html). Ps3.ign.com (2012-04-18). Retrieved on 2012-11-29.
 
-441. [The Lord of the Rings: Aragorn's Quest - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/065/065009.html). Ps3.ign.com
-     (2010-09-02). Retrieved on 2012-11-29.
+441. [The Lord of the Rings: Aragorn's Quest - PlayStation 3 - IGN](http://ps3.ign.com/objects/065/065009.html). Ps3.ign.com (2010-09-02). Retrieved on 2012-11-29.
 
-442. [The Lord of the Rings: Conquest - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14235096.html). Ps3.ign.com
-     (2009-02-24). Retrieved on 2012-11-29.
+442. [The Lord of the Rings: Conquest - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14235096.html). Ps3.ign.com (2009-02-24). Retrieved on 2012-11-29.
 
-443. [The Lord of the Rings: War in the North - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/045/045924.html). Ps3.ign.com
-     (2011-09-22). Retrieved on 2012-11-29.
+443. [The Lord of the Rings: War in the North - PlayStation 3 - IGN](http://ps3.ign.com/objects/045/045924.html). Ps3.ign.com (2011-09-22). Retrieved on 2012-11-29.
 
-444. [Lost Planet: Extreme Condition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14211550.html). Ps3.ign.com
-     (2008-01-19). Retrieved on 2012-11-29.
+444. [Lost Planet: Extreme Condition - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14211550.html). Ps3.ign.com (2008-01-19). Retrieved on 2012-11-29.
 
-445. [Lost Planet 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14266746.html). Ps3.ign.com
-     (2010-05-06). Retrieved on 2012-11-29.
+445. [Lost Planet 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14266746.html). Ps3.ign.com (2010-05-06). Retrieved on 2012-11-29.
 
 446.
 
-447. [Lost: Via Domus - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/829/829064.html). Ps3.ign.com
-     (2008-03-03). Retrieved on 2012-11-29.
+447. [Lost: Via Domus - PlayStation 3 - IGN](http://ps3.ign.com/objects/829/829064.html). Ps3.ign.com (2008-03-03). Retrieved on 2012-11-29.
 
-448. [Lucha Libre AAA: Heroes del Ring - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/006/006916.html). Ps3.ign.com
-     (2010-11-02). Retrieved on 2012-11-29.
+448. [Lucha Libre AAA: Heroes del Ring - PlayStation 3 - IGN](http://ps3.ign.com/objects/006/006916.html). Ps3.ign.com (2010-11-02). Retrieved on 2012-11-29.
 
-449. [Madagascar: Escape 2 Africa - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/782/782969.html). Ps3.ign.com
-     (2008-11-14). Retrieved on 2012-11-29.
+449. [Madagascar: Escape 2 Africa - PlayStation 3 - IGN](http://ps3.ign.com/objects/782/782969.html). Ps3.ign.com (2008-11-14). Retrieved on 2012-11-29.
 
-450. [Madagascar Kartz - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/002/002832.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+450. [Madagascar Kartz - PlayStation 3 - IGN](http://ps3.ign.com/objects/002/002832.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-451. [Madden NFL 07 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/811/811802.html). Ps3.ign.com
-     (2006-11-09). Retrieved on 2012-11-29.
+451. [Madden NFL 07 - PlayStation 3 - IGN](http://ps3.ign.com/objects/811/811802.html). Ps3.ign.com (2006-11-09). Retrieved on 2012-11-29.
 
-452. [Madden NFL 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/868/868501.html). Ps3.ign.com
-     (2007-08-16). Retrieved on 2012-11-29.
+452. [Madden NFL 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/868/868501.html). Ps3.ign.com (2007-08-16). Retrieved on 2012-11-29.
 
-453. [Madden NFL 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14229532.html). Ps3.ign.com
-     (2009-01-23). Retrieved on 2012-11-29.
+453. [Madden NFL 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14229532.html). Ps3.ign.com (2009-01-23). Retrieved on 2012-11-29.
 
-454. [Madden NFL 10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14270630.html). Ps3.ign.com
-     (2009-12-11). Retrieved on 2012-11-29.
+454. [Madden NFL 10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14270630.html). Ps3.ign.com (2009-12-11). Retrieved on 2012-11-29.
 
-455. [Madden NFL 11 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/036/036265.html). Ps3.ign.com
-     (2010-07-26). Retrieved on 2012-11-29.
+455. [Madden NFL 11 - PlayStation 3 - IGN](http://ps3.ign.com/objects/036/036265.html). Ps3.ign.com (2010-07-26). Retrieved on 2012-11-29.
 
-456. [Madden NFL 12 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/103/103602.html). Ps3.ign.com
-     (2011-06-06). Retrieved on 2012-11-29.
+456. [Madden NFL 12 - PlayStation 3 - IGN](http://ps3.ign.com/objects/103/103602.html). Ps3.ign.com (2011-06-06). Retrieved on 2012-11-29.
 
 457.
 
 458.
 
-459. [Mafia II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/957/957841.html). Ps3.ign.com
-     (2010-08-31). Retrieved on 2012-11-29.
+459. [Mafia II - PlayStation 3 - IGN](http://ps3.ign.com/objects/957/957841.html). Ps3.ign.com (2010-08-31). Retrieved on 2012-11-29.
 
-460. [MAG - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/811/811710.html). Ps3.ign.com
-     (2010-06-08). Retrieved on 2012-11-29.
+460. [MAG - PlayStation 3 - IGN](http://ps3.ign.com/objects/811/811710.html). Ps3.ign.com (2010-06-08). Retrieved on 2012-11-29.
 
-461. [Magus - PlayStation 3 -
-     IGN](http://uk.ign.com/games/magus/ps3-20000657). Ps3.ign.com
-     (2014-02-25). Retrieved on 2015-02-10.
+461. [Magus - PlayStation 3 - IGN](http://uk.ign.com/games/magus/ps3-20000657). Ps3.ign.com (2014-02-25). Retrieved on 2015-02-10.
 
-462. [Mahjong Fight Club Online - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/853/853351.html). Ps3.ign.com
-     (2006-09-22). Retrieved on 2012-11-29.
+462. [Mahjong Fight Club Online - PlayStation 3 - IGN](http://ps3.ign.com/objects/853/853351.html). Ps3.ign.com (2006-09-22). Retrieved on 2012-11-29.
 
-463. [Mahjong Taikai IV - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/775/775495.html). Ps3.ign.com
-     (2006-10-07). Retrieved on 2012-11-29.
+463. [Mahjong Taikai IV - PlayStation 3 - IGN](http://ps3.ign.com/objects/775/775495.html). Ps3.ign.com (2006-10-07). Retrieved on 2012-11-29.
 
-464. [Majin and the Forsaken Kingdom - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/027/027978.html). Ps3.ign.com
-     (2010-11-23). Retrieved on 2012-11-29.
+464. [Majin and the Forsaken Kingdom - PlayStation 3 - IGN](http://ps3.ign.com/objects/027/027978.html). Ps3.ign.com (2010-11-23). Retrieved on 2012-11-29.
 
-465. [Major League Baseball 2K7 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/815/815888.html). Ps3.ign.com
-     (2007-03-15). Retrieved on 2012-11-29.
+465. [Major League Baseball 2K7 - PlayStation 3 - IGN](http://ps3.ign.com/objects/815/815888.html). Ps3.ign.com (2007-03-15). Retrieved on 2012-11-29.
 
-466. [Major League Baseball 2K8 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/898/898263.html). Ps3.ign.com
-     (2008-03-03). Retrieved on 2012-11-29.
+466. [Major League Baseball 2K8 - PlayStation 3 - IGN](http://ps3.ign.com/objects/898/898263.html). Ps3.ign.com (2008-03-03). Retrieved on 2012-11-29.
 
-467. [Major League Baseball 2K9 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14299424.html). Ps3.ign.com
-     (2009-02-11). Retrieved on 2012-11-29.
+467. [Major League Baseball 2K9 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14299424.html). Ps3.ign.com (2009-02-11). Retrieved on 2012-11-29.
 
-468. [Major League Baseball 2K10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/042/042256.html). Ps3.ign.com
-     (2010-02-05). Retrieved on 2012-11-29.
+468. [Major League Baseball 2K10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/042/042256.html). Ps3.ign.com (2010-02-05). Retrieved on 2012-11-29.
 
-469. [Major League Baseball 2K11 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/093/093320.html). Ps3.ign.com
-     (2011-01-20). Retrieved on 2012-11-29.
+469. [Major League Baseball 2K11 - PlayStation 3 - IGN](http://ps3.ign.com/objects/093/093320.html). Ps3.ign.com (2011-01-20). Retrieved on 2012-11-29.
 
-470. [Major League Baseball 2K12 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/123/123610.html). Ps3.ign.com
-     (2012-03-06). Retrieved on 2012-11-29.
+470. [Major League Baseball 2K12 - PlayStation 3 - IGN](http://ps3.ign.com/objects/123/123610.html). Ps3.ign.com (2012-03-06). Retrieved on 2012-11-29.
 
-471. [Makai Wars - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/772/772036.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+471. [Makai Wars - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772036.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-472. [Man vs. Wild - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/041/041588.html). Ps3.ign.com
-     (2010-08-02). Retrieved on 2012-11-29.
+472. [Man vs. Wild - PlayStation 3 - IGN](http://ps3.ign.com/objects/041/041588.html). Ps3.ign.com (2010-08-02). Retrieved on 2012-11-29.
 
-473. [Mars: War Logs - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14328809.html). Ps3.ign.com
-     (2009-04-16). Retrieved on 2012-11-29.
+473. [Mars: War Logs - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14328809.html). Ps3.ign.com (2009-04-16). Retrieved on 2012-11-29.
 
-474. [Marvel: Ultimate Alliance - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/822/822967.html). Ps3.ign.com
-     (2006-12-15). Retrieved on 2012-11-29.
+474. [Marvel: Ultimate Alliance - PlayStation 3 - IGN](http://ps3.ign.com/objects/822/822967.html). Ps3.ign.com (2006-12-15). Retrieved on 2012-11-29.
 
-475. [Marvel: Ultimate Alliance 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14233937.html). Ps3.ign.com
-     (2009-10-23). Retrieved on 2012-11-29.
+475. [Marvel: Ultimate Alliance 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14233937.html). Ps3.ign.com (2009-10-23). Retrieved on 2012-11-29.
 
-476. [Marvel Vs. Capcom 3: Fate of Two Worlds - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/070/070922.html). Ps3.ign.com
-     (2011-02-15). Retrieved on 2012-11-29.
+476. [Marvel Vs. Capcom 3: Fate of Two Worlds - PlayStation 3 - IGN](http://ps3.ign.com/objects/070/070922.html). Ps3.ign.com (2011-02-15). Retrieved on 2012-11-29.
 
-477. [Mass Effect 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14235018.html). Ps3.ign.com
-     (2010-12-15). Retrieved on 2012-11-29.
+477. [Mass Effect 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14235018.html). Ps3.ign.com (2010-12-15). Retrieved on 2012-11-29.
 
-478. [Mass Effect 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14235017.html). Ps3.ign.com
-     (2012-01-31). Retrieved on 2012-11-29.
+478. [Mass Effect 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14235017.html). Ps3.ign.com (2012-01-31). Retrieved on 2012-11-29.
 
-479. [Mass Effect Trilogy - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/143823.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+479. [Mass Effect Trilogy - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/143823.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-480. [Max Payne 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14332801.html). Ps3.ign.com
-     (2012-05-09). Retrieved on 2012-11-29.
+480. [Max Payne 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14332801.html). Ps3.ign.com (2012-05-09). Retrieved on 2012-11-29.
 
-481. [Medal of Honor - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/037/037293.html). Ps3.ign.com
-     (2010-10-12). Retrieved on 2012-11-29.
+481. [Medal of Honor - PlayStation 3 - IGN](http://ps3.ign.com/objects/037/037293.html). Ps3.ign.com (2010-10-12). Retrieved on 2012-11-29.
 
-482. [Medal of Honor: Airborne - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/692/692471.html). Ps3.ign.com
-     (2007-08-14). Retrieved on 2012-11-29.
+482. [Medal of Honor: Airborne - PlayStation 3 - IGN](http://ps3.ign.com/objects/692/692471.html). Ps3.ign.com (2007-08-14). Retrieved on 2012-11-29.
 
-483. [Medal of Honor: Warfighter - Playstation 3 -
-     IGN](http://www.ign.com/games/medal-of-honor-warfighter/ps3-101085).
-     Ps3.IGN.com (2012-10-23). Retrieved on 2014-7-04.
+483. [Medal of Honor: Warfighter - Playstation 3 - IGN](http://www.ign.com/games/medal-of-honor-warfighter/ps3-101085). Ps3.IGN.com (2012-10-23). Retrieved on 2014-7-04.
 
-484. [Megazone 23: Blue Garland - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950815.html). Ps3.ign.com
-     (2007-07-18). Retrieved on 2012-11-29.
+484. [Megazone 23: Blue Garland - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950815.html). Ps3.ign.com (2007-07-18). Retrieved on 2012-11-29.
 
-485. [Mercenaries 2: World in Flames - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/793/793793.html). Ps3.ign.com
-     (2008-08-27). Retrieved on 2012-11-29.
+485. [Mercenaries 2: World in Flames - PlayStation 3 - IGN](http://ps3.ign.com/objects/793/793793.html). Ps3.ign.com (2008-08-27). Retrieved on 2012-11-29.
 
-486. [Metal Gear Online - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950626.html). Ps3.ign.com
-     (2009-05-06). Retrieved on 2012-11-29.
+486. [Metal Gear Online - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950626.html). Ps3.ign.com (2009-05-06). Retrieved on 2012-11-29.
 
-487. [Metal Gear Rising: Revengeance - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14276686.html). Ps3.ign.com
-     (2012-09-20). Retrieved on 2012-11-29.
+487. [Metal Gear Rising: Revengeance - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14276686.html). Ps3.ign.com (2012-09-20). Retrieved on 2012-11-29.
 
-488. [Metal Gear Solid HD Collection - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110044.html). Ps3.ign.com
-     (2011-11-07). Retrieved on 2012-11-29.
+488. [Metal Gear Solid HD Collection - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110044.html). Ps3.ign.com (2011-11-07). Retrieved on 2012-11-29.
 
-489. [Metal Gear Solid 4: Guns of the Patriots - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/714/714044.html). Ps3.ign.com
-     (2009-01-26). Retrieved on 2012-11-29.
+489. [Metal Gear Solid 4: Guns of the Patriots - PlayStation 3 - IGN](http://ps3.ign.com/objects/714/714044.html). Ps3.ign.com (2009-01-26). Retrieved on 2012-11-29.
 
 490.
 
-491. Yin-Poole, Wesley (2015-03-03). [Metal Gear Solid 5: The Phantom
-     Pain release date
-     revealed](http://www.eurogamer.net/articles/2015-03-03-metal-gear-solid-5-the-phantom-pain-release-date-revealed).
-     *Eurogamer*. Gamer Network.
-     [Archived](http://web.archive.org/web/20150304045839/http://www.eurogamer.net/articles/2015-03-03-metal-gear-solid-5-the-phantom-pain-release-date-revealed)
-     from the original on 2015-03-04. Retrieved 2015-03-03.
+491. Yin-Poole, Wesley (2015-03-03). [Metal Gear Solid 5: The Phantom Pain release date revealed](http://www.eurogamer.net/articles/2015-03-03-metal-gear-solid-5-the-phantom-pain-release-date-revealed). *Eurogamer*. Gamer Network. [Archived](http://web.archive.org/web/20150304045839/http://www.eurogamer.net/articles/2015-03-03-metal-gear-solid-5-the-phantom-pain-release-date-revealed) from the original on 2015-03-04. Retrieved 2015-03-03.
 
-492. [Metro: Last Light - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/079/079461.html). Ps3.ign.com
-     (2012-06-04). Retrieved on 2012-11-29.
+492. [Metro: Last Light - PlayStation 3 - IGN](http://ps3.ign.com/objects/079/079461.html). Ps3.ign.com (2012-06-04). Retrieved on 2012-11-29.
 
-493. [Michael Jackson: The Experience - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/017/017978.html). Ps3.ign.com
-     (2011-04-26). Retrieved on 2012-11-29.
+493. [Michael Jackson: The Experience - PlayStation 3 - IGN](http://ps3.ign.com/objects/017/017978.html). Ps3.ign.com (2011-04-26). Retrieved on 2012-11-29.
 
-494. [Midnight Club: Los Angeles - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/906/906843.html). Ps3.ign.com
-     (2009-03-03). Retrieved on 2012-11-29.
+494. [Midnight Club: Los Angeles - PlayStation 3 - IGN](http://ps3.ign.com/objects/906/906843.html). Ps3.ign.com (2009-03-03). Retrieved on 2012-11-29.
 
-495. [Mindjack - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/077/077391.html). Ps3.ign.com
-     (2010-12-09). Retrieved on 2012-11-29.
+495. [Mindjack - PlayStation 3 - IGN](http://ps3.ign.com/objects/077/077391.html). Ps3.ign.com (2010-12-09). Retrieved on 2012-11-29.
 
-496. [Mini Ninjas - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14314876.html).
-     Uk.ps3.ign.com (2009-08-27). Retrieved on 2012-11-29.
+496. [Mini Ninjas - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14314876.html). Uk.ps3.ign.com (2009-08-27). Retrieved on 2012-11-29.
 
-497. [Mirror's Edge - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/949/949457.html). Ps3.ign.com
-     (2008-12-05). Retrieved on 2012-11-29.
+497. [Mirror's Edge - PlayStation 3 - IGN](http://ps3.ign.com/objects/949/949457.html). Ps3.ign.com (2008-12-05). Retrieved on 2012-11-29.
 
-498. [Mist of Chaos - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/752/752113.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+498. [Mist of Chaos - PlayStation 3 - IGN](http://ps3.ign.com/objects/752/752113.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-499. [MLB 07: The Show - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/861/861385.html). Ps3.ign.com
-     (2007-06-01). Retrieved on 2012-11-29.
+499. [MLB 07: The Show - PlayStation 3 - IGN](http://ps3.ign.com/objects/861/861385.html). Ps3.ign.com (2007-06-01). Retrieved on 2012-11-29.
 
-500. [MLB 08: The Show - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14223575.html). Ps3.ign.com
-     (2008-02-25). Retrieved on 2012-11-29.
+500. [MLB 08: The Show - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14223575.html). Ps3.ign.com (2008-02-25). Retrieved on 2012-11-29.
 
-501. [MLB 09: The Show - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14307517.html). Ps3.ign.com
-     (2009-10-28). Retrieved on 2012-11-29.
+501. [MLB 09: The Show - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14307517.html). Ps3.ign.com (2009-10-28). Retrieved on 2012-11-29.
 
 502.
 
-503. [MLB 10: The Show - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/042/042460.html). Ps3.ign.com
-     (2009-12-17). Retrieved on 2012-11-29.
+503. [MLB 10: The Show - PlayStation 3 - IGN](http://ps3.ign.com/objects/042/042460.html). Ps3.ign.com (2009-12-17). Retrieved on 2012-11-29.
 
 504.
-505. [MLB 11: The Show - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/095/095027.html). Ps3.ign.com
-     (2011-02-28). Retrieved on 2012-11-29.
+505. [MLB 11: The Show - PlayStation 3 - IGN](http://ps3.ign.com/objects/095/095027.html). Ps3.ign.com (2011-02-28). Retrieved on 2012-11-29.
 
-506. [MLB 12: The Show - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/122/122251.html). Ps3.ign.com
-     (2012-03-07). Retrieved on 2012-11-29.
+506. [MLB 12: The Show - PlayStation 3 - IGN](http://ps3.ign.com/objects/122/122251.html). Ps3.ign.com (2012-03-07). Retrieved on 2012-11-29.
 
 507.
 
-508. [MLB Front Office Manager - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14288576.html). Ps3.ign.com
-     (2009-01-27). Retrieved on 2012-11-29.
+508. [MLB Front Office Manager - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14288576.html). Ps3.ign.com (2009-01-27). Retrieved on 2012-11-29.
 
-509. [Mobile Suit Gundam: Crossfire - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748465.html). Ps3.ign.com
-     (2007-02-11). Retrieved on 2012-11-29.
+509. [Mobile Suit Gundam: Crossfire - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748465.html). Ps3.ign.com (2007-02-11). Retrieved on 2012-11-29.
 
-510. [Mobile Suit Gundam: Battlefield Record U.C.008 - PS3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14334772.html) .
-     Uk.ps3.ign.com. Retrieved on 2012-11-29.
+510. [Mobile Suit Gundam: Battlefield Record U.C.008 - PS3 - IGN](http://uk.ps3.ign.com/objects/143/14334772.html) . Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-511. [Mobile Suit Gundam Unicorn - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/125/125643.html). Ps3.ign.com
-     (2012-03-08). Retrieved on 2012-11-29.
+511. [Mobile Suit Gundam Unicorn - PlayStation 3 - IGN](http://ps3.ign.com/objects/125/125643.html). Ps3.ign.com (2012-03-08). Retrieved on 2012-11-29.
 
-512. [ModNation Racers - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14354797.html). Ps3.ign.com
-     (2010-07-09). Retrieved on 2012-11-29.
+512. [ModNation Racers - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14354797.html). Ps3.ign.com (2010-07-09). Retrieved on 2012-11-29.
 
-513. [Monopoly - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14268629.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+513. [Monopoly - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14268629.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-514. [Monster Madness: Grave Danger - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/822/822805.html). Ps3.ign.com
-     (2008-09-01). Retrieved on 2012-11-29.
+514. [Monster Madness: Grave Danger - PlayStation 3 - IGN](http://ps3.ign.com/objects/822/822805.html). Ps3.ign.com (2008-09-01). Retrieved on 2012-11-29.
 
 515.
-516. [Mortal Kombat - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14317281.html). Ps3.ign.com
-     (2011-07-20). Retrieved on 2012-11-29.
+516. [Mortal Kombat - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14317281.html). Ps3.ign.com (2011-07-20). Retrieved on 2012-11-29.
 
-517. [Mortal Kombat vs. DC Universe - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/853/853444.html). Ps3.ign.com
-     (2008-11-14). Retrieved on 2012-11-29.
+517. [Mortal Kombat vs. DC Universe - PlayStation 3 - IGN](http://ps3.ign.com/objects/853/853444.html). Ps3.ign.com (2008-11-14). Retrieved on 2012-11-29.
 
-518. [MotoGP 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14222671.html). Ps3.ign.com
-     (2008-10-15). Retrieved on 2012-11-29.
+518. [MotoGP 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14222671.html). Ps3.ign.com (2008-10-15). Retrieved on 2012-11-29.
 
-519. [MotoGP 09/10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14344222.html). Ps3.ign.com
-     (2010-03-13). Retrieved on 2012-11-29.
+519. [MotoGP 09/10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14344222.html). Ps3.ign.com (2010-03-13). Retrieved on 2012-11-29.
 
 520.
 521.
 
-522. [MotorStorm - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748488.html). Ps3.ign.com
-     (2008-01-17). Retrieved on 2012-11-29.
+522. [MotorStorm - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748488.html). Ps3.ign.com (2008-01-17). Retrieved on 2012-11-29.
 
-523. [MotorStorm Apocalypse - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/076/076172.html). Ps3.ign.com
-     (2011-08-11). Retrieved on 2012-11-29.
+523. [MotorStorm Apocalypse - PlayStation 3 - IGN](http://ps3.ign.com/objects/076/076172.html). Ps3.ign.com (2011-08-11). Retrieved on 2012-11-29.
 
-524. [MotorStorm: Pacific Rift - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/965/965107.html). Ps3.ign.com
-     (2008-09-25). Retrieved on 2012-11-29.
+524. [MotorStorm: Pacific Rift - PlayStation 3 - IGN](http://ps3.ign.com/objects/965/965107.html). Ps3.ign.com (2008-09-25). Retrieved on 2012-11-29.
 
-525. [MX vs. ATV Reflex - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14347682.html).
-     Uk.ps3.ign.com (2009-12-08). Retrieved on 2012-11-29.
+525. [MX vs. ATV Reflex - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14347682.html). Uk.ps3.ign.com (2009-12-08). Retrieved on 2012-11-29.
 
-526. [MX vs. ATV Alive - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/086/086256.html). Ps3.ign.com
-     (2011-05-24). Retrieved on 2012-11-29.
+526. [MX vs. ATV Alive - PlayStation 3 - IGN](http://ps3.ign.com/objects/086/086256.html). Ps3.ign.com (2011-05-24). Retrieved on 2012-11-29.
 
-527. [MX vs. ATV Untamed - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/947/947098.html). Ps3.ign.com
-     (2007-12-06). Retrieved on 2012-11-29.
+527. [MX vs. ATV Untamed - PlayStation 3 - IGN](http://ps3.ign.com/objects/947/947098.html). Ps3.ign.com (2007-12-06). Retrieved on 2012-11-29.
 
-528. [Boku no Natsuyasumi 3: Summer Holidays 20th Century -
-     PlayStation 3 - IGN](http://ps3.ign.com/objects/836/836657.html).
-     Ps3.ign.com. Retrieved on 2012-11-29.
+528. [Boku no Natsuyasumi 3: Summer Holidays 20th Century - PlayStation 3 - IGN](http://ps3.ign.com/objects/836/836657.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-529. [MySims SkyHeroes - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/073/073134.html). Ps3.ign.com
-     (2010-06-15). Retrieved on 2012-11-29.
+529. [MySims SkyHeroes - PlayStation 3 - IGN](http://ps3.ign.com/objects/073/073134.html). Ps3.ign.com (2010-06-15). Retrieved on 2012-11-29.
 
-530. [Naruto: Ultimate Ninja Storm - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/965/965454.html). Ps3.ign.com
-     (2008-12-03). Retrieved on 2012-11-29.
+530. [Naruto: Ultimate Ninja Storm - PlayStation 3 - IGN](http://ps3.ign.com/objects/965/965454.html). Ps3.ign.com (2008-12-03). Retrieved on 2012-11-29.
 
-531. [Naruto: Ultimate Ninja Storm 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/055/055550.html). Ps3.ign.com
-     (2010-10-13). Retrieved on 2012-11-29.
+531. [Naruto: Ultimate Ninja Storm 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/055/055550.html). Ps3.ign.com (2010-10-13). Retrieved on 2012-11-29.
 
-532. [Naruto Shippuden: Ultimate Ninja Storm 3 - PlayStation 3 -
-     IGN](http://www.ign.com/games/narutimate-storm-3/ps3-136438).
-     www.ign.com. Retrieved on 2013-02-15
+532. [Naruto Shippuden: Ultimate Ninja Storm 3 - PlayStation 3 - IGN](http://www.ign.com/games/narutimate-storm-3/ps3-136438). www.ign.com. Retrieved on 2013-02-15
 
-533. [Naruto Shippuden: Ultimate Ninja Storm Generations - PlayStation 3
-     - IGN](http://ps3.ign.com/objects/112/112456.html). Ps3.ign.com
-     (2011-07-01). Retrieved on 2012-11-29.
+533. [Naruto Shippuden: Ultimate Ninja Storm Generations - PlayStation 3 - IGN](http://ps3.ign.com/objects/112/112456.html). Ps3.ign.com (2011-07-01). Retrieved on 2012-11-29.
 
-534. [NASCAR 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/826/826350.html). Ps3.ign.com
-     (2007-07-11). Retrieved on 2012-11-29.
+534. [NASCAR 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826350.html). Ps3.ign.com (2007-07-11). Retrieved on 2012-11-29.
 
-535. [NASCAR 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14238151.html). Ps3.ign.com
-     (2008-06-12). Retrieved on 2012-11-29.
+535. [NASCAR 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14238151.html). Ps3.ign.com (2008-06-12). Retrieved on 2012-11-29.
 
-536. [NASCAR The Game 2011 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/087/087259.html). Ps3.ign.com
-     (2011-04-07). Retrieved on 2012-11-29.
+536. [NASCAR The Game 2011 - PlayStation 3 - IGN](http://ps3.ign.com/objects/087/087259.html). Ps3.ign.com (2011-04-07). Retrieved on 2012-11-29.
 
-537. [Naughty Bear - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/054/054731.html). Ps3.ign.com
-     (2010-10-05). Retrieved on 2012-11-29.
+537. [Naughty Bear - PlayStation 3 - IGN](http://ps3.ign.com/objects/054/054731.html). Ps3.ign.com (2010-10-05). Retrieved on 2012-11-29.
 
-538. [NBA '07 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/826/826632.html). Ps3.ign.com
-     (2007-02-20). Retrieved on 2012-11-29.
+538. [NBA '07 - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826632.html). Ps3.ign.com (2007-02-20). Retrieved on 2012-11-29.
 
-539. [NBA '08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/905/905978.html). Ps3.ign.com
-     (2007-10-03). Retrieved on 2012-11-29.
+539. [NBA '08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/905/905978.html). Ps3.ign.com (2007-10-03). Retrieved on 2012-11-29.
 
-540. [NBA '09: The Inside - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14254782.html). Ps3.ign.com
-     (2008-08-20). Retrieved on 2012-11-29.
+540. [NBA '09: The Inside - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14254782.html). Ps3.ign.com (2008-08-20). Retrieved on 2012-11-29.
 
-541. [NBA 2K7 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/815/815873.html). Ps3.ign.com
-     (2007-03-16). Retrieved on 2012-11-29.
+541. [NBA 2K7 - PlayStation 3 - IGN](http://ps3.ign.com/objects/815/815873.html). Ps3.ign.com (2007-03-16). Retrieved on 2012-11-29.
 
-542. [NBA 2K8 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/866/866307.html). Ps3.ign.com
-     (2007-09-14). Retrieved on 2012-11-29.
+542. [NBA 2K8 - PlayStation 3 - IGN](http://ps3.ign.com/objects/866/866307.html). Ps3.ign.com (2007-09-14). Retrieved on 2012-11-29.
 
-543. [NBA 2K9 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/954/954500.html). Ps3.ign.com
-     (2008-10-11). Retrieved on 2012-11-29.
+543. [NBA 2K9 - PlayStation 3 - IGN](http://ps3.ign.com/objects/954/954500.html). Ps3.ign.com (2008-10-11). Retrieved on 2012-11-29.
 
-544. [NBA 2K10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14293227.html). Ps3.ign.com
-     (2009-09-22). Retrieved on 2012-11-29.
+544. [NBA 2K10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14293227.html). Ps3.ign.com (2009-09-22). Retrieved on 2012-11-29.
 
-545. [NBA 2K11 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/064/064504.html). Ps3.ign.com
-     (2010-10-01). Retrieved on 2012-11-29.
+545. [NBA 2K11 - PlayStation 3 - IGN](http://ps3.ign.com/objects/064/064504.html). Ps3.ign.com (2010-10-01). Retrieved on 2012-11-29.
 
-546. [NBA 2K12 - PlayStation 3 -
-     IGN](http://www.ign.com/games/nba-2k12/ps3-104465.html).
-     Ps3.ign.com (2010-10-01). Retrieved on 2012-11-29.
+546. [NBA 2K12 - PlayStation 3 - IGN](http://www.ign.com/games/nba-2k12/ps3-104465.html). Ps3.ign.com (2010-10-01). Retrieved on 2012-11-29.
 
 547.
 
-548. [NBA Ballers: Chosen One - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14218831.html). Ps3.ign.com
-     (2008-04-21). Retrieved on 2012-11-29.
+548. [NBA Ballers: Chosen One - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14218831.html). Ps3.ign.com (2008-04-21). Retrieved on 2012-11-29.
 
-549. [NBA Live 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/900/900781.html). Ps3.ign.com
-     (2007-09-20). Retrieved on 2012-11-29.
+549. [NBA Live 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/900/900781.html). Ps3.ign.com (2007-09-20). Retrieved on 2012-11-29.
 
-550. [NBA Live 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14241219.html). Ps3.ign.com
-     (2008-10-08). Retrieved on 2012-11-29.
+550. [NBA Live 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14241219.html). Ps3.ign.com (2008-10-08). Retrieved on 2012-11-29.
 
-551. [NBA Live 10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14293218.html). Ps3.ign.com
-     (2009-10-01). Retrieved on 2012-11-29.
+551. [NBA Live 10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14293218.html). Ps3.ign.com (2009-10-01). Retrieved on 2012-11-29.
 
-552. [NBA Street Homecourt - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/847/847037.html). Ps3.ign.com
-     (2007-05-17). Retrieved on 2012-11-29.
+552. [NBA Street Homecourt - PlayStation 3 - IGN](http://ps3.ign.com/objects/847/847037.html). Ps3.ign.com (2007-05-17). Retrieved on 2012-11-29.
 
-553. [NCAA Basketball 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14280099.html). Ps3.ign.com
-     (2008-10-30). Retrieved on 2012-11-29.
+553. [NCAA Basketball 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14280099.html). Ps3.ign.com (2008-10-30). Retrieved on 2012-11-29.
 
-554. [NCAA Basketball 10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14353229.html). Ps3.ign.com
-     (2009-11-11). Retrieved on 2012-11-29.
+554. [NCAA Basketball 10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14353229.html). Ps3.ign.com (2009-11-11). Retrieved on 2012-11-29.
 
-555. [NCAA Football 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/890/890437.html). Ps3.ign.com
-     (2007-07-13). Retrieved on 2012-11-29.
+555. [NCAA Football 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/890/890437.html). Ps3.ign.com (2007-07-13). Retrieved on 2012-11-29.
 
-556. [NCAA Football 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14233294.html). Ps3.ign.com
-     (2008-07-11). Retrieved on 2012-11-29.
+556. [NCAA Football 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14233294.html). Ps3.ign.com (2008-07-11). Retrieved on 2012-11-29.
 
-557. [NCAA Football 10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14324469.html). Ps3.ign.com
-     (2009-07-16). Retrieved on 2012-11-29.
+557. [NCAA Football 10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14324469.html). Ps3.ign.com (2009-07-16). Retrieved on 2012-11-29.
 
-558. [NCAA Football 11 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/056/056574.html). Ps3.ign.com
-     (2010-06-14). Retrieved on 2012-11-29.
+558. [NCAA Football 11 - PlayStation 3 - IGN](http://ps3.ign.com/objects/056/056574.html). Ps3.ign.com (2010-06-14). Retrieved on 2012-11-29.
 
-559. [NCAA Football 12 Review -
-     IGN](http://ps3.ign.com/articles/118/1181529p1.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+559. [NCAA Football 12 Review - IGN](http://ps3.ign.com/articles/118/1181529p1.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-560. [NCAA March Madness 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/946/946081.html). Ps3.ign.com
-     (2007-12-06). Retrieved on 2012-11-29.
+560. [NCAA March Madness 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/946/946081.html). Ps3.ign.com (2007-12-06). Retrieved on 2012-11-29.
 
-561. [Need for Speed Carbon - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/826/826965.html). Ps3.ign.com
-     (2007-02-12). Retrieved on 2012-11-29.
+561. [Need for Speed Carbon - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826965.html). Ps3.ign.com (2007-02-12). Retrieved on 2012-11-29.
 
-562. [Need for Speed: Hot Pursuit - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/001/001320.html). Ps3.ign.com
-     (2010-09-23). Retrieved on 2012-11-29.
+562. [Need for Speed: Hot Pursuit - PlayStation 3 - IGN](http://ps3.ign.com/objects/001/001320.html). Ps3.ign.com (2010-09-23). Retrieved on 2012-11-29.
 
-563. [Need for Speed ProStreet - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/904/904766.html). Ps3.ign.com
-     (2008-02-15). Retrieved on 2012-11-29.
+563. [Need for Speed ProStreet - PlayStation 3 - IGN](http://ps3.ign.com/objects/904/904766.html). Ps3.ign.com (2008-02-15). Retrieved on 2012-11-29.
 
-564. [Need for Speed: The Run - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/107/107125.html). Ps3.ign.com
-     (2011-10-20). Retrieved on 2012-11-29.
+564. [Need for Speed: The Run - PlayStation 3 - IGN](http://ps3.ign.com/objects/107/107125.html). Ps3.ign.com (2011-10-20). Retrieved on 2012-11-29.
 
-565. [Need for Speed Shift - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14319191.html).
-     Uk.ps3.ign.com (2010-03-10). Retrieved on 2012-11-29.
+565. [Need for Speed Shift - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14319191.html). Uk.ps3.ign.com (2010-03-10). Retrieved on 2012-11-29.
 
-566. [Need for Speed Undercover - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14234994.html). Ps3.ign.com
-     (2008-11-07). Retrieved on 2012-11-29.
+566. [Need for Speed Undercover - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14234994.html). Ps3.ign.com (2008-11-07). Retrieved on 2012-11-29.
 
 567.
 
-568. [NeverDead - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/077/077946.html). Ps3.ign.com
-     (2012-01-31). Retrieved on 2012-11-29.
+568. [NeverDead - PlayStation 3 - IGN](http://ps3.ign.com/objects/077/077946.html). Ps3.ign.com (2012-01-31). Retrieved on 2012-11-29.
 
-569. [NFL Head Coach 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14233302.html). Ps3.ign.com
-     (2008-08-14). Retrieved on 2012-11-29.
+569. [NFL Head Coach 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14233302.html). Ps3.ign.com (2008-08-14). Retrieved on 2012-11-29.
 
-570. [NFL Tour - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/949/949522.html). Ps3.ign.com
-     (2008-01-08). Retrieved on 2012-11-29.
+570. [NFL Tour - PlayStation 3 - IGN](http://ps3.ign.com/objects/949/949522.html). Ps3.ign.com (2008-01-08). Retrieved on 2012-11-29.
 
-571. [NHL 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/900/900347.html). Ps3.ign.com
-     (2007-09-11). Retrieved on 2012-11-29.
+571. [NHL 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/900/900347.html). Ps3.ign.com (2007-09-11). Retrieved on 2012-11-29.
 
-572. [NHL 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14230951.html). Ps3.ign.com
-     (2008-08-20). Retrieved on 2012-11-29.
+572. [NHL 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14230951.html). Ps3.ign.com (2008-08-20). Retrieved on 2012-11-29.
 
-573. [NHL 10 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14347690.html).
-     Uk.ps3.ign.com (2009-09-01). Retrieved on 2012-11-29.
+573. [NHL 10 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14347690.html). Uk.ps3.ign.com (2009-09-01). Retrieved on 2012-11-29.
 
-574. [NHL 11 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/061/061025.html). Ps3.ign.com
-     (2010-08-04). Retrieved on 2012-11-29.
+574. [NHL 11 - PlayStation 3 - IGN](http://ps3.ign.com/objects/061/061025.html). Ps3.ign.com (2010-08-04). Retrieved on 2012-11-29.
 
 575.
 576.
 577.
 
-578. [NHL 2K7 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/815/815877.html). Ps3.ign.com
-     (2006-11-20). Retrieved on 2012-11-29.
+578. [NHL 2K7 - PlayStation 3 - IGN](http://ps3.ign.com/objects/815/815877.html). Ps3.ign.com (2006-11-20). Retrieved on 2012-11-29.
 
-579. [NHL 2K8 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/866/866308.html). Ps3.ign.com
-     (2007-09-12). Retrieved on 2012-11-29.
+579. [NHL 2K8 - PlayStation 3 - IGN](http://ps3.ign.com/objects/866/866308.html). Ps3.ign.com (2007-09-12). Retrieved on 2012-11-29.
 
-580. [NHL 2K9 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/954/954507.html). Ps3.ign.com
-     (2008-08-21). Retrieved on 2012-11-29.
+580. [NHL 2K9 - PlayStation 3 - IGN](http://ps3.ign.com/objects/954/954507.html). Ps3.ign.com (2008-08-21). Retrieved on 2012-11-29.
 
-581. [NHL 2K10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14315178.html). Ps3.ign.com
-     (2009-08-27). Retrieved on 2012-11-29.
+581. [NHL 2K10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14315178.html). Ps3.ign.com (2009-08-27). Retrieved on 2012-11-29.
 
-582. [Ni-Oh - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/711/711566.html). Ps3.ign.com
-     (2006-01-17). Retrieved on 2012-11-29.
+582. [Ni-Oh - PlayStation 3 - IGN](http://ps3.ign.com/objects/711/711566.html). Ps3.ign.com (2006-01-17). Retrieved on 2012-11-29.
 
 583.
-584. [Nier - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/774/774976.html). Ps3.ign.com
-     (2010-04-14). Retrieved on 2012-11-29.
+584. [Nier - PlayStation 3 - IGN](http://ps3.ign.com/objects/774/774976.html). Ps3.ign.com (2010-04-14). Retrieved on 2012-11-29.
 
-585. [Ninja Gaiden Sigma - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/856/856529.html). Ps3.ign.com
-     (2007-08-29). Retrieved on 2012-11-29.
+585. [Ninja Gaiden Sigma - PlayStation 3 - IGN](http://ps3.ign.com/objects/856/856529.html). Ps3.ign.com (2007-08-29). Retrieved on 2012-11-29.
 
-586. [Ninja Gaiden 2 Set for PS3 -
-     IGN](http://ps3.ign.com/articles/963/963353p1.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+586. [Ninja Gaiden 2 Set for PS3 - IGN](http://ps3.ign.com/articles/963/963353p1.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-587. [Ninja Gaiden III - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14350230.html). Ps3.ign.com
-     (2012-01-12). Retrieved on 2012-11-29.
+587. [Ninja Gaiden III - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14350230.html). Ps3.ign.com (2012-01-12). Retrieved on 2012-11-29.
 
-588. [Ninja Gaiden Sigma 3 - Playstation 3 -
-     Primagames](http://www.primagames.com/games/ninja-gaiden-sigma-3) .
-     Primagames.com (2012-11-28).Retrieved on 2012-11-28.
+588. [Ninja Gaiden Sigma 3 - Playstation 3 - Primagames](http://www.primagames.com/games/ninja-gaiden-sigma-3) . Primagames.com (2012-11-28).Retrieved on 2012-11-28.
 
-589. [No More Heroes: Heroes' Paradise - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/045/045740.html). Ps3.ign.com
-     (2011-06-07). Retrieved on 2012-11-29.
+589. [No More Heroes: Heroes' Paradise - PlayStation 3 - IGN](http://ps3.ign.com/objects/045/045740.html). Ps3.ign.com (2011-06-07). Retrieved on 2012-11-29.
 
-590. [NPPL: Championship Paintball 2009 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14270531.html). Ps3.ign.com
-     (2008-10-17). Retrieved on 2012-11-29.
+590. [NPPL: Championship Paintball 2009 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14270531.html). Ps3.ign.com (2008-10-17). Retrieved on 2012-11-29.
 
 591. *One Piece: Kaizoku Musou* in Japan
 
-592. [One Piece: Pirate Warriors - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/116/116782.html). Ps3.ign.com
-     (2012-09-20). Retrieved on 2012-11-29.
+592. [One Piece: Pirate Warriors - PlayStation 3 - IGN](http://ps3.ign.com/objects/116/116782.html). Ps3.ign.com (2012-09-20). Retrieved on 2012-11-29.
 
-593. [Operation Flashpoint: Dragon Rising - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/901/901429.html). Ps3.ign.com
-     (2009-12-22). Retrieved on 2012-11-29.
+593. [Operation Flashpoint: Dragon Rising - PlayStation 3 - IGN](http://ps3.ign.com/objects/901/901429.html). Ps3.ign.com (2009-12-22). Retrieved on 2012-11-29.
 
-594. [Operation Flashpoint: Red River - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/082/082114.html). Ps3.ign.com
-     (2011-06-06). Retrieved on 2012-11-29.
+594. [Operation Flashpoint: Red River - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082114.html). Ps3.ign.com (2011-06-06). Retrieved on 2012-11-29.
 
-595. [The Orange Box - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/743/743925.html). Ps3.ign.com
-     (2007-12-11). Retrieved on 2012-11-29.
+595. [The Orange Box - PlayStation 3 - IGN](http://ps3.ign.com/objects/743/743925.html). Ps3.ign.com (2007-12-11). Retrieved on 2012-11-29.
 
-596. [The Outsider - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/772/772101.html). Ps3.ign.com
-     (2007-03-24). Retrieved on 2012-11-29.
+596. [The Outsider - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772101.html). Ps3.ign.com (2007-03-24). Retrieved on 2012-11-29.
 
-597. [Overlord: Raising Hell - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14236295.html). Ps3.ign.com
-     (2008-06-20). Retrieved on 2012-11-29.
+597. [Overlord: Raising Hell - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14236295.html). Ps3.ign.com (2008-06-20). Retrieved on 2012-11-29.
 
-598. [Overlord II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14273773.html). Ps3.ign.com
-     (2009-06-25). Retrieved on 2012-11-29.
+598. [Overlord II - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14273773.html). Ps3.ign.com (2009-06-25). Retrieved on 2012-11-29.
 
 599. [3](http://www.gamefaqs.com/ps3/999447-pachipara-16-gingira-paradise-2/data)
 
-600. [Pain\! - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/907/907097.html). Ps3.ign.com
-     (2009-06-02). Retrieved on 2012-11-29.
+600. [Pain\! - PlayStation 3 - IGN](http://ps3.ign.com/objects/907/907097.html). Ps3.ign.com (2009-06-02). Retrieved on 2012-11-29.
 
-601. [Persona 4: Arena - PlayStation 3 -
-     IGN](http://www.ign.com/games/persona-4-arena/ps3-116910).
-     Ps3.ign.com (2007-10-18). Retrieved on 2012-11-29.
+601. [Persona 4: Arena - PlayStation 3 - IGN](http://www.ign.com/games/persona-4-arena/ps3-116910). Ps3.ign.com (2007-10-18). Retrieved on 2012-11-29.
 
-602. [Persona 4: The Ultimax Ultra Suplex Hold - PlayStation 3 -
-     IGN](http://www.ign.com/games/shin-megami-tensei-persona-5/ps3-770347).
-     Ps3.ign.com (2007-10-18). Retrieved on 2012-11-29.
+602. [Persona 4: The Ultimax Ultra Suplex Hold - PlayStation 3 - IGN](http://www.ign.com/games/shin-megami-tensei-persona-5/ps3-770347). Ps3.ign.com (2007-10-18). Retrieved on 2012-11-29.
 
-603. [Persona 5 - PlayStation 3 -
-     IGN](http://www.ign.com/games/shin-megami-tensei-persona-5/ps3-770347).
-     Ps3.ign.com (2007-10-18). Retrieved on 2012-11-29.
+603. [Persona 5 - PlayStation 3 - IGN](http://www.ign.com/games/shin-megami-tensei-persona-5/ps3-770347). Ps3.ign.com (2007-10-18). Retrieved on 2012-11-29.
 
-604. [Pro Evolution Soccer 2008 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/775/775498.html). Ps3.ign.com
-     (2007-10-18). Retrieved on 2012-11-29.
+604. [Pro Evolution Soccer 2008 - PlayStation 3 - IGN](http://ps3.ign.com/objects/775/775498.html). Ps3.ign.com (2007-10-18). Retrieved on 2012-11-29.
 
-605. [Pro Evolution Soccer 2009 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14261714.html). Ps3.ign.com
-     (2008-11-26). Retrieved on 2012-11-29.
+605. [Pro Evolution Soccer 2009 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14261714.html). Ps3.ign.com (2008-11-26). Retrieved on 2012-11-29.
 
-606. [Pro Evolution Soccer 2010 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14338554.html).
-     Uk.ps3.ign.com (2009-11-09). Retrieved on 2012-11-29.
+606. [Pro Evolution Soccer 2010 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14338554.html). Uk.ps3.ign.com (2009-11-09). Retrieved on 2012-11-29.
 
-607. [Pro Evolution Soccer 2011 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/061/061118.html). Ps3.ign.com
-     (2011-03-08). Retrieved on 2012-11-29.
+607. [Pro Evolution Soccer 2011 - PlayStation 3 - IGN](http://ps3.ign.com/objects/061/061118.html). Ps3.ign.com (2011-03-08). Retrieved on 2012-11-29.
 
-608. [Pro Evolution Soccer 2012 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/108/108495.html). Ps3.ign.com
-     (2011-08-05). Retrieved on 2012-11-29.
+608. [Pro Evolution Soccer 2012 - PlayStation 3 - IGN](http://ps3.ign.com/objects/108/108495.html). Ps3.ign.com (2011-08-05). Retrieved on 2012-11-29.
 
-609. [Phineas and Ferb: Across the 2nd Dimension - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/105/105366.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+609. [Phineas and Ferb: Across the 2nd Dimension - PlayStation 3 - IGN](http://ps3.ign.com/objects/105/105366.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-610. [Pinball Hall of Fame: The Williams Collection - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14307129.html). Ps3.ign.com
-     (2009-08-21). Retrieved on 2012-11-29.
+610. [Pinball Hall of Fame: The Williams Collection - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14307129.html). Ps3.ign.com (2009-08-21). Retrieved on 2012-11-29.
 
-611. [Pirates of the Caribbean: At World's End - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/742/742505.html). Ps3.ign.com
-     (2007-05-18). Retrieved on 2012-11-29.
+611. [Pirates of the Caribbean: At World's End - PlayStation 3 - IGN](http://ps3.ign.com/objects/742/742505.html). Ps3.ign.com (2007-05-18). Retrieved on 2012-11-29.
 
-612. [Planet 51 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/142/14222263.html).
-     Uk.ps3.ign.com (2009-06-23). Retrieved on 2012-11-29.
+612. [Planet 51 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/142/14222263.html). Uk.ps3.ign.com (2009-06-23). Retrieved on 2012-11-29.
 
 613.
 
 614. Called Gachinko Heroes in japan
 
-615. [Portal 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/064/064329.html). Ps3.ign.com
-     (2011-04-16). Retrieved on 2012-11-29.
+615. [Portal 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/064/064329.html). Ps3.ign.com (2011-04-16). Retrieved on 2012-11-29.
 
-616. [Possession - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/706/706274.html). Ps3.ign.com
-     (2006-01-23). Retrieved on 2012-11-29.
+616. [Possession - PlayStation 3 - IGN](http://ps3.ign.com/objects/706/706274.html). Ps3.ign.com (2006-01-23). Retrieved on 2012-11-29.
 
-617. [Indie Multiplayer First Person
-     Shooter](http://www.primalcarnage.com/website/) . Primal Carnage.
-     Retrieved on 2012-11-29.
+617. [Indie Multiplayer First Person Shooter](http://www.primalcarnage.com/website/) . Primal Carnage. Retrieved on 2012-11-29.
 
-618. [Prince of Persia - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/890/890665.html). Ps3.ign.com
-     (2008-12-05). Retrieved on 2012-11-29.
+618. [Prince of Persia - PlayStation 3 - IGN](http://ps3.ign.com/objects/890/890665.html). Ps3.ign.com (2008-12-05). Retrieved on 2012-11-29.
 
-619. [Prince of Persia: The Forgotten Sands - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/053/053696.html). Ps3.ign.com
-     (2010-03-24). Retrieved on 2012-11-29.
+619. [Prince of Persia: The Forgotten Sands - PlayStation 3 - IGN](http://ps3.ign.com/objects/053/053696.html). Ps3.ign.com (2010-03-24). Retrieved on 2012-11-29.
 
-620. [Prince of Persia Classic Trilogy HD - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/082/082927.html). Ps3.ign.com
-     (2011-02-15). Retrieved on 2012-11-29.
+620. [Prince of Persia Classic Trilogy HD - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082927.html). Ps3.ign.com (2011-02-15). Retrieved on 2012-11-29.
 
-621. [Prison Break: The Conspiracy - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14274185.html). Ps3.ign.com
-     (2009-08-19). Retrieved on 2012-11-29.
+621. [Prison Break: The Conspiracy - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14274185.html). Ps3.ign.com (2009-08-19). Retrieved on 2012-11-29.
 
-622. [Pro Baseball Spirits 4 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/883/883109.html). Ps3.ign.com
-     (2007-05-08). Retrieved on 2012-11-29.
+622. [Pro Baseball Spirits 4 - PlayStation 3 - IGN](http://ps3.ign.com/objects/883/883109.html). Ps3.ign.com (2007-05-08). Retrieved on 2012-11-29.
 
-623. [Jikkyou Powerful Pro Baseball PS3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/772/772041.html). Ps3.ign.com
-     (2005-09-16). Retrieved on 2012-11-29.
+623. [Jikkyou Powerful Pro Baseball PS3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772041.html). Ps3.ign.com (2005-09-16). Retrieved on 2012-11-29.
 
-624. [Pro Yakyu Spirits 6 - PS3 -
-     IGN](http://ps3.ign.com/objects/731/731045.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+624. [Pro Yakyu Spirits 6 - PS3 - IGN](http://ps3.ign.com/objects/731/731045.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-625. [Pro Yakyuu
-     Spirits 2010](http://www.gamespot.com/ps3/sports/proyakyuuspirits2010/index.html).
-     GameSpot.com (2010-04-01). Retrieved on 2012-11-29.
+625. [Pro Yakyuu Spirits 2010](http://www.gamespot.com/ps3/sports/proyakyuuspirits2010/index.html). GameSpot.com (2010-04-01). Retrieved on 2012-11-29.
 
-626. [Prototype - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950253.html). Ps3.ign.com
-     (2009-06-12). Retrieved on 2012-11-29.
+626. [Prototype - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950253.html). Ps3.ign.com (2009-06-12). Retrieved on 2012-11-29.
 
-627. [Prototype 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/094/094303.html). Ps3.ign.com
-     (2012-03-08). Retrieved on 2012-11-29.
+627. [Prototype 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/094/094303.html). Ps3.ign.com (2012-03-08). Retrieved on 2012-11-29.
 
 628.
 
-629. [Pure - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14234938.html). Ps3.ign.com
-     (2008-09-17). Retrieved on 2012-11-29.
+629. [Pure - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14234938.html). Ps3.ign.com (2008-09-17). Retrieved on 2012-11-29.
 
-630. [Pure Futbol - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/063/063976.html). Ps3.ign.com
-     (2010-03-25). Retrieved on 2012-11-29.
+630. [Pure Futbol - PlayStation 3 - IGN](http://ps3.ign.com/objects/063/063976.html). Ps3.ign.com (2010-03-25). Retrieved on 2012-11-29.
 
-631. [Puss In Boots - The Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/054/054117.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+631. [Puss In Boots - The Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/054/054117.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
 632.
 
 633.
 
-634. [Quantum Theory - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14288075.html). Ps3.ign.com
-     (2010-01-18). Retrieved on 2012-11-29.
+634. [Quantum Theory - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14288075.html). Ps3.ign.com (2010-01-18). Retrieved on 2012-11-29.
 
-635. [R.U.S.E. - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14333386.html).
-     Uk.ps3.ign.com (2009-08-20). Retrieved on 2012-11-29.
+635. [R.U.S.E. - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14333386.html). Uk.ps3.ign.com (2009-08-20). Retrieved on 2012-11-29.
 
-636. [Ra.One - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/113/113103.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+636. [Ra.One - PlayStation 3 - IGN](http://ps3.ign.com/objects/113/113103.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-637. [Grid - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/901/901015.html). Ps3.ign.com
-     (2010-03-04). Retrieved on 2012-11-29.
+637. [Grid - PlayStation 3 - IGN](http://ps3.ign.com/objects/901/901015.html). Ps3.ign.com (2010-03-04). Retrieved on 2012-11-29.
 
-638. [Rage - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/926/926418.html). Ps3.ign.com
-     (2011-08-02). Retrieved on 2012-11-29.
+638. [Rage - PlayStation 3 - IGN](http://ps3.ign.com/objects/926/926418.html). Ps3.ign.com (2011-08-02). Retrieved on 2012-11-29.
 
-639. [Railfan - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/775/775511.html). Ps3.ign.com
-     (2006-09-22). Retrieved on 2012-11-29.
+639. [Railfan - PlayStation 3 - IGN](http://ps3.ign.com/objects/775/775511.html). Ps3.ign.com (2006-09-22). Retrieved on 2012-11-29.
 
-640. [Railfan Taiwan Koutetsu - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950620.html). Ps3.ign.com
-     (2007-09-20). Retrieved on 2012-11-29.
+640. [Railfan Taiwan Koutetsu - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950620.html). Ps3.ign.com (2007-09-20). Retrieved on 2012-11-29.
 
-641. [Rain in Rio - RED DINGO
-     GAMES](http://reddingogames.webs.com/raininrio.htm).
-     Reddingogames.webs.com (2009-01-14). Retrieved on 2012-11-29.
+641. [Rain in Rio - RED DINGO GAMES](http://reddingogames.webs.com/raininrio.htm). Reddingogames.webs.com (2009-01-14). Retrieved on 2012-11-29.
 
 642.
-643. [Ratatouille - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/882/882530.html). Ps3.ign.com
-     (2007-11-06). Retrieved on 2012-11-29.
+643. [Ratatouille - PlayStation 3 - IGN](http://ps3.ign.com/objects/882/882530.html). Ps3.ign.com (2007-11-06). Retrieved on 2012-11-29.
 
-644. [Ratchet & Clank Future: A Crack in Time - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/887/887461.html). Ps3.ign.com
-     (2009-09-11). Retrieved on 2012-11-29.
+644. [Ratchet & Clank Future: A Crack in Time - PlayStation 3 - IGN](http://ps3.ign.com/objects/887/887461.html). Ps3.ign.com (2009-09-11). Retrieved on 2012-11-29.
 
-645. [Ratchet & Clank: All 4 One - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/083/083779.html). Ps3.ign.com
-     (2011-08-16). Retrieved on 2012-11-29.
+645. [Ratchet & Clank: All 4 One - PlayStation 3 - IGN](http://ps3.ign.com/objects/083/083779.html). Ps3.ign.com (2011-08-16). Retrieved on 2012-11-29.
 
 646. Known as Ratchet and Clank: Q-Force in Europe
 
-647. [Ratchet & Clank Future: Quest for Booty - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14266751.html). Ps3.ign.com
-     (2008-07-16). Retrieved on 2012-11-29.
+647. [Ratchet & Clank Future: Quest for Booty - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14266751.html). Ps3.ign.com (2008-07-16). Retrieved on 2012-11-29.
 
-648. [Ratchet & Clank Future: Tools of Destruction - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/819/819456.html). Ps3.ign.com
-     (2007-11-08). Retrieved on 2012-11-29.
+648. [Ratchet & Clank Future: Tools of Destruction - PlayStation 3 - IGN](http://ps3.ign.com/objects/819/819456.html). Ps3.ign.com (2007-11-08). Retrieved on 2012-11-29.
 
-649. [Recoil: Retrograd - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14235091.html). Ps3.ign.com
-     (2008-03-03). Retrieved on 2012-11-29.
+649. [Recoil: Retrograd - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14235091.html). Ps3.ign.com (2008-03-03). Retrieved on 2012-11-29.
 
-650. [Record of Agarest War - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950808.html). Ps3.ign.com
-     (2009-11-16). Retrieved on 2012-11-29.
+650. [Record of Agarest War - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950808.html). Ps3.ign.com (2009-11-16). Retrieved on 2012-11-29.
 
-651. [Record of Agarest War Zero - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/091/091667.html). Ps3.ign.com
-     (2011-03-08). Retrieved on 2012-11-29.
+651. [Record of Agarest War Zero - PlayStation 3 - IGN](http://ps3.ign.com/objects/091/091667.html). Ps3.ign.com (2011-03-08). Retrieved on 2012-11-29.
 
-652. [Red Dead Redemption - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748481.html). Ps3.ign.com
-     (2011-09-07). Retrieved on 2012-11-29.
+652. [Red Dead Redemption - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748481.html). Ps3.ign.com (2011-09-07). Retrieved on 2012-11-29.
 
-653. [Red Faction: Armageddon - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14336823.html). Ps3.ign.com
-     (2011-04-18). Retrieved on 2012-11-29.
+653. [Red Faction: Armageddon - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14336823.html). Ps3.ign.com (2011-04-18). Retrieved on 2012-11-29.
 
-654. [Red Faction: Guerrilla - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14235419.html). Ps3.ign.com
-     (2009-08-26). Retrieved on 2012-11-29.
+654. [Red Faction: Guerrilla - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14235419.html). Ps3.ign.com (2009-08-26). Retrieved on 2012-11-29.
 
 655. Original release of Deadly premonition on PS3, only in Japan/Asia
 
 656.
 657.
 
-658. [Resident Evil 5 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/734/734381.html). Ps3.ign.com
-     (2009-03-12). Retrieved on 2012-11-29.
+658. [Resident Evil 5 - PlayStation 3 - IGN](http://ps3.ign.com/objects/734/734381.html). Ps3.ign.com (2009-03-12). Retrieved on 2012-11-29.
 
-659. [Resident Evil 6 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/085/085710.html). Ps3.ign.com
-     (2012-10-24). Retrieved on 2012-11-29.
+659. [Resident Evil 6 - PlayStation 3 - IGN](http://ps3.ign.com/objects/085/085710.html). Ps3.ign.com (2012-10-24). Retrieved on 2012-11-29.
 
-660. [Resident Evil: Operation Raccoon City - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/091/091253.html). Ps3.ign.com
-     (2011-06-07). Retrieved on 2012-11-29.
+660. [Resident Evil: Operation Raccoon City - PlayStation 3 - IGN](http://ps3.ign.com/objects/091/091253.html). Ps3.ign.com (2011-06-07). Retrieved on 2012-11-29.
 
 661.
 
-662. [Resistance: Fall of Man - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748483.html). Ps3.ign.com
-     (2007-11-15). Retrieved on 2012-11-29.
+662. [Resistance: Fall of Man - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748483.html). Ps3.ign.com (2007-11-15). Retrieved on 2012-11-29.
 
-663. [Resistance 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14211237.html). Ps3.ign.com
-     (2008-10-28). Retrieved on 2012-11-29.
+663. [Resistance 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14211237.html). Ps3.ign.com (2008-10-28). Retrieved on 2012-11-29.
 
-664. [Resistance 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/037/037866.html). Ps3.ign.com
-     (2012-03-30). Retrieved on 2012-11-29.
+664. [Resistance 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/037/037866.html). Ps3.ign.com (2012-03-30). Retrieved on 2012-11-29.
 
-665. [Resonance of Fate - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14336225.html). Ps3.ign.com
-     (2010-03-18). Retrieved on 2012-11-29.
+665. [Resonance of Fate - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14336225.html). Ps3.ign.com (2010-03-18). Retrieved on 2012-11-29.
 
-666. [Ride to Hell - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14265659.html). Ps3.ign.com
-     (2008-08-21). Retrieved on 2012-11-29.
+666. [Ride to Hell - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14265659.html). Ps3.ign.com (2008-08-21). Retrieved on 2012-11-29.
 
-667. [Ridge Racer 7 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/823/823649.html). Ps3.ign.com
-     (2007-02-18). Retrieved on 2012-11-29.
+667. [Ridge Racer 7 - PlayStation 3 - IGN](http://ps3.ign.com/objects/823/823649.html). Ps3.ign.com (2007-02-18). Retrieved on 2012-11-29.
 
-668. [Ridge Racer Unbounded - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/099/099683.html). Ps3.ign.com
-     (2012-03-31). Retrieved on 2012-11-29.
+668. [Ridge Racer Unbounded - PlayStation 3 - IGN](http://ps3.ign.com/objects/099/099683.html). Ps3.ign.com (2012-03-31). Retrieved on 2012-11-29.
 
-669. [Rio - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/102/102982.html). Ps3.ign.com
-     (2011-03-10). Retrieved on 2012-11-29.
+669. [Rio - PlayStation 3 - IGN](http://ps3.ign.com/objects/102/102982.html). Ps3.ign.com (2011-03-10). Retrieved on 2012-11-29.
 
-670. [Rise of the Argonauts - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/901/901023.html). Ps3.ign.com
-     (2009-02-06). Retrieved on 2012-11-29.
+670. [Rise of the Argonauts - PlayStation 3 - IGN](http://ps3.ign.com/objects/901/901023.html). Ps3.ign.com (2009-02-06). Retrieved on 2012-11-29.
 
-671. [Robotic;Notes - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/114/114697.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+671. [Robotic;Notes - PlayStation 3 - IGN](http://ps3.ign.com/objects/114/114697.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-672. [Rock Band Game Only Edition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/897/897524.html). Ps3.ign.com
-     (2008-03-20). Retrieved on 2012-11-29.
+672. [Rock Band Game Only Edition - PlayStation 3 - IGN](http://ps3.ign.com/objects/897/897524.html). Ps3.ign.com (2008-03-20). Retrieved on 2012-11-29.
 
-673. [Rock Band 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14263126.html). Ps3.ign.com
-     (2008-09-08). Retrieved on 2012-11-29.
+673. [Rock Band 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14263126.html). Ps3.ign.com (2008-09-08). Retrieved on 2012-11-29.
 
-674. [Rock Band 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/028/028566.html). Ps3.ign.com
-     (2010-10-25). Retrieved on 2012-11-29.
+674. [Rock Band 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/028/028566.html). Ps3.ign.com (2010-10-25). Retrieved on 2012-11-29.
 
-675. [Rock Band: Japan - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14257555.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+675. [Rock Band: Japan - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14257555.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-676. [Rock Band Track Pack: Classic Rock - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14327524.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+676. [Rock Band Track Pack: Classic Rock - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14327524.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-677. [Rock Band Track Pack: Country - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14349191.html).
-     Uk.ps3.ign.com (2009-09-04). Retrieved on 2012-11-29.
+677. [Rock Band Track Pack: Country - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14349191.html). Uk.ps3.ign.com (2009-09-04). Retrieved on 2012-11-29.
 
-678. [Rock Band Track Pack: Country 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/094/094114.html). Ps3.ign.com
-     (2011-01-27). Retrieved on 2012-11-29.
+678. [Rock Band Track Pack: Country 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/094/094114.html). Ps3.ign.com (2011-01-27). Retrieved on 2012-11-29.
 
-679. [Rock Band Track Pack: Metal - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/026/026076.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+679. [Rock Band Track Pack: Metal - PlayStation 3 - IGN](http://ps3.ign.com/objects/026/026076.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-680. [Rock Band: Track Pack - Volume 2 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/142/14277845.html).
-     Uk.ps3.ign.com. Retrieved on 2012-11-29.
+680. [Rock Band: Track Pack - Volume 2 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/142/14277845.html). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-681. [Rock Revolution - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14254447.html). Ps3.ign.com
-     (2008-10-27). Retrieved on 2012-11-29.
+681. [Rock Revolution - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14254447.html). Ps3.ign.com (2008-10-27). Retrieved on 2012-11-29.
 
-682. [Rocksmith - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/103/103232.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+682. [Rocksmith - PlayStation 3 - IGN](http://ps3.ign.com/objects/103/103232.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-683. [Rogue Warrior - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/849/849721.html). Ps3.ign.com
-     (2009-12-05). Retrieved on 2012-11-29.
+683. [Rogue Warrior - PlayStation 3 - IGN](http://ps3.ign.com/objects/849/849721.html). Ps3.ign.com (2009-12-05). Retrieved on 2012-11-29.
 
-684. [Rune Factory: Tides of Destiny - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/089/089250.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+684. [Rune Factory: Tides of Destiny - PlayStation 3 - IGN](http://ps3.ign.com/objects/089/089250.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-685. [Yakuza: Kenzan\! - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950635.html). Ps3.ign.com
-     (2008-02-28). Retrieved on 2012-11-29.
+685. [Yakuza: Kenzan\! - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950635.html). Ps3.ign.com (2008-02-28). Retrieved on 2012-11-29.
 
-686. [The Saboteur - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/894/894258.html). Ps3.ign.com
-     (2009-12-03). Retrieved on 2012-11-29.
+686. [The Saboteur - PlayStation 3 - IGN](http://ps3.ign.com/objects/894/894258.html). Ps3.ign.com (2009-12-03). Retrieved on 2012-11-29.
 
-687. [Sacred 2: Fallen Angel - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14262640.html). Ps3.ign.com
-     (2009-05-06). Retrieved on 2012-11-29.
+687. [Sacred 2: Fallen Angel - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14262640.html). Ps3.ign.com (2009-05-06). Retrieved on 2012-11-29.
 
-688. [Saints Row 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/905/905741.html). Ps3.ign.com
-     (2009-06-11). Retrieved on 2012-11-29.
+688. [Saints Row 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/905/905741.html). Ps3.ign.com (2009-06-11). Retrieved on 2012-11-29.
 
 689.
 690.
 
-691. [Saw: The Videogame - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14231741.html). Ps3.ign.com
-     (2009-07-23). Retrieved on 2012-11-29.
+691. [Saw: The Videogame - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14231741.html). Ps3.ign.com (2009-07-23). Retrieved on 2012-11-29.
 
-692. [Saw II: Flesh & Blood - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/069/069219.html). Ps3.ign.com
-     (2010-10-14). Retrieved on 2012-11-29.
+692. [Saw II: Flesh & Blood - PlayStation 3 - IGN](http://ps3.ign.com/objects/069/069219.html). Ps3.ign.com (2010-10-14). Retrieved on 2012-11-29.
 
-693. [SBK: Superbike World Championship - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/959/959702.html). Ps3.ign.com
-     (2009-03-30). Retrieved on 2012-11-29.
+693. [SBK: Superbike World Championship - PlayStation 3 - IGN](http://ps3.ign.com/objects/959/959702.html). Ps3.ign.com (2009-03-30). Retrieved on 2012-11-29.
 
-694. [SBK: Superbike World Championship - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14326140.html).
-     Uk.ps3.ign.com (2009-04-21). Retrieved on 2012-11-29.
+694. [SBK: Superbike World Championship - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14326140.html). Uk.ps3.ign.com (2009-04-21). Retrieved on 2012-11-29.
 
-695. [Scene It? Bright Lights\! Big Screen\! - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/030/030526.html). Ps3.ign.com
-     (2009-11-20). Retrieved on 2012-11-29.
+695. [Scene It? Bright Lights\! Big Screen\! - PlayStation 3 - IGN](http://ps3.ign.com/objects/030/030526.html). Ps3.ign.com (2009-11-20). Retrieved on 2012-11-29.
 
-696. [SCORE International Baja 1000 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14256712.html). Ps3.ign.com
-     (2008-05-28). Retrieved on 2012-11-29.
+696. [SCORE International Baja 1000 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14256712.html). Ps3.ign.com (2008-05-28). Retrieved on 2012-11-29.
 
-697. [Scratch: The Ultimate DJ - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/142/14287883.html).
-     Uk.ps3.ign.com (2009-04-02). Retrieved on 2012-11-29.
+697. [Scratch: The Ultimate DJ - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/142/14287883.html). Uk.ps3.ign.com (2009-04-02). Retrieved on 2012-11-29.
 
-698. [SEGA Golf Club - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/816/816048.html). Ps3.ign.com
-     (2006-09-22). Retrieved on 2012-11-29.
+698. [SEGA Golf Club - PlayStation 3 - IGN](http://ps3.ign.com/objects/816/816048.html). Ps3.ign.com (2006-09-22). Retrieved on 2012-11-29.
 
-699. [SEGA Rally Revo - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/825/825458.html). Ps3.ign.com
-     (2007-10-10). Retrieved on 2012-11-29.
+699. [SEGA Rally Revo - PlayStation 3 - IGN](http://ps3.ign.com/objects/825/825458.html). Ps3.ign.com (2007-10-10). Retrieved on 2012-11-29.
 
-700. [SEGA Superstars Tennis - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14211932.html). Ps3.ign.com
-     (2008-03-04). Retrieved on 2012-11-29.
+700. [SEGA Superstars Tennis - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14211932.html). Ps3.ign.com (2008-03-04). Retrieved on 2012-11-29.
 
-701. [Sengoku Basara: Samurai Heroes - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/027/027055.html). Ps3.ign.com
-     (2010-09-16). Retrieved on 2012-11-29.
+701. [Sengoku Basara: Samurai Heroes - PlayStation 3 - IGN](http://ps3.ign.com/objects/027/027055.html). Ps3.ign.com (2010-09-16). Retrieved on 2012-11-29.
 
-702. [Shadows of the Damned - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14274035.html). Ps3.ign.com
-     (2011-05-31). Retrieved on 2012-11-29.
+702. [Shadows of the Damned - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14274035.html). Ps3.ign.com (2011-05-31). Retrieved on 2012-11-29.
 
-703. [Shaun White Snowboarding - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/805/805112.html). Ps3.ign.com
-     (2009-01-16). Retrieved on 2012-11-29.
+703. [Shaun White Snowboarding - PlayStation 3 - IGN](http://ps3.ign.com/objects/805/805112.html). Ps3.ign.com (2009-01-16). Retrieved on 2012-11-29.
 
-704. [ShellShock 2: Blood Trails - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14223631.html). Ps3.ign.com
-     (2009-02-02). Retrieved on 2012-11-29.
+704. [ShellShock 2: Blood Trails - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14223631.html). Ps3.ign.com (2009-02-02). Retrieved on 2012-11-29.
 
-705. [Shift 2 Unleashed - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/082/082474.html). Ps3.ign.com
-     (2011-05-12). Retrieved on 2012-11-29.
+705. [Shift 2 Unleashed - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082474.html). Ps3.ign.com (2011-05-12). Retrieved on 2012-11-29.
 
 706.
 
-707. [Shrek Forever After - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14252961.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+707. [Shrek Forever After - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14252961.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-708. [Silent Hill: Downpour - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/069/069283.html). Ps3.ign.com
-     (2012-01-04). Retrieved on 2012-11-29.
+708. [Silent Hill: Downpour - PlayStation 3 - IGN](http://ps3.ign.com/objects/069/069283.html). Ps3.ign.com (2012-01-04). Retrieved on 2012-11-29.
 
-709. [Silent Hill HD Collection - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110033.html). Ps3.ign.com
-     (2012-03-19). Retrieved on 2012-11-29.
+709. [Silent Hill HD Collection - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110033.html). Ps3.ign.com (2012-03-19). Retrieved on 2012-11-29.
 
-710. [Silent Hill: Homecoming - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/777/777941.html). Ps3.ign.com
-     (2008-10-07). Retrieved on 2012-11-29.
+710. [Silent Hill: Homecoming - PlayStation 3 - IGN](http://ps3.ign.com/objects/777/777941.html). Ps3.ign.com (2008-10-07). Retrieved on 2012-11-29.
 
-711. [The Simpsons Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/780/780083.html). Ps3.ign.com
-     (2007-09-20). Retrieved on 2012-11-29.
+711. [The Simpsons Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/780/780083.html). Ps3.ign.com (2007-09-20). Retrieved on 2012-11-29.
 
-712. [The Sims 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/061/061012.html). Ps3.ign.com
-     (2010-10-29). Retrieved on 2012-11-29.
+712. [The Sims 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/061/061012.html). Ps3.ign.com (2010-10-29). Retrieved on 2012-11-29.
 
-713. [The Sims 3: Pets - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110374.html). Ps3.ign.com
-     (2011-08-17). Retrieved on 2012-11-29.
+713. [The Sims 3: Pets - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110374.html). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-714. [SingStar Game & Microphone - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/819/819473.html). Ps3.ign.com
-     (2008-05-19). Retrieved on 2012-11-29.
+714. [SingStar Game & Microphone - PlayStation 3 - IGN](http://ps3.ign.com/objects/819/819473.html). Ps3.ign.com (2008-05-19). Retrieved on 2012-11-29.
 
-715. [SingStar ABBA - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14280443.html). Ps3.ign.com
-     (2008-12-05). Retrieved on 2012-11-29.
+715. [SingStar ABBA - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14280443.html). Ps3.ign.com (2008-12-05). Retrieved on 2012-11-29.
 
-716. [SingStar Latino - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/030/030398.html). Ps3.ign.com
-     (2009-11-24). Retrieved on 2012-11-29.
+716. [SingStar Latino - PlayStation 3 - IGN](http://ps3.ign.com/objects/030/030398.html). Ps3.ign.com (2009-11-24). Retrieved on 2012-11-29.
 
-717. [SingStar Motown - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/030/030721.html). Uk.ps3.ign.com
-     (2009-09-18). Retrieved on 2012-11-29.
+717. [SingStar Motown - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/030/030721.html). Uk.ps3.ign.com (2009-09-18). Retrieved on 2012-11-29.
 
-718. [SingStar Pop Edition - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14340444.html).
-     Uk.ps3.ign.com (2009-04-24). Retrieved on 2012-11-29.
+718. [SingStar Pop Edition - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14340444.html). Uk.ps3.ign.com (2009-04-24). Retrieved on 2012-11-29.
 
-719. [SingStar: Queen - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14319879.html). Ps3.ign.com
-     (2009-08-04). Retrieved on 2012-11-29.
+719. [SingStar: Queen - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14319879.html). Ps3.ign.com (2009-08-04). Retrieved on 2012-11-29.
 
-720. [SingStar TakeThat - PS3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14356223.html) .
-     Uk.ps3.ign.com. Retrieved on 2012-11-29.
+720. [SingStar TakeThat - PS3 - IGN](http://uk.ps3.ign.com/objects/143/14356223.html) . Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-721. [SingStar Vol. 2 Game Only Edition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14253301.html). Ps3.ign.com
-     (2008-10-13). Retrieved on 2012-11-29.
+721. [SingStar Vol. 2 Game Only Edition - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14253301.html). Ps3.ign.com (2008-10-13). Retrieved on 2012-11-29.
 
-722. [SingStar Vol. 3 - Party Edition - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/142/14275475.html).
-     Uk.ps3.ign.com. Retrieved on 2012-11-29.
+722. [SingStar Vol. 3 - Party Edition - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/142/14275475.html). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-723. [Singularity - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14267336.html). Ps3.ign.com
-     (2010-06-29). Retrieved on 2012-11-29.
+723. [Singularity - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14267336.html). Ps3.ign.com (2010-06-29). Retrieved on 2012-11-29.
 
-724. [Siren: Blood Curse - Full Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/836/836886.html). Ps3.ign.com
-     (2008-07-16). Retrieved on 2012-11-29.
+724. [Siren: Blood Curse - Full Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/836/836886.html). Ps3.ign.com (2008-07-16). Retrieved on 2012-11-29.
 
-725. [Six Days in Fallujah - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14336301.html). Ps3.ign.com
-     (2009-04-13). Retrieved on 2012-11-29.
+725. [Six Days in Fallujah - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14336301.html). Ps3.ign.com (2009-04-13). Retrieved on 2012-11-29.
 
-726. [Skate - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/856/856065.html). Ps3.ign.com
-     (2007-09-05). Retrieved on 2012-11-29.
+726. [Skate - PlayStation 3 - IGN](http://ps3.ign.com/objects/856/856065.html). Ps3.ign.com (2007-09-05). Retrieved on 2012-11-29.
 
-727. [Skate 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14234978.html). Ps3.ign.com
-     (2009-07-01). Retrieved on 2012-11-29.
+727. [Skate 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14234978.html). Ps3.ign.com (2009-07-01). Retrieved on 2012-11-29.
 
-728. [Skate 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/019/019209.html). Ps3.ign.com
-     (2010-05-17). Retrieved on 2012-11-29.
+728. [Skate 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/019/019209.html). Ps3.ign.com (2010-05-17). Retrieved on 2012-11-29.
 
-729. [Ski-Doo Snowmobile Challenge - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14270568.html). Ps3.ign.com
-     (2009-03-18). Retrieved on 2012-11-29.
+729. [Ski-Doo Snowmobile Challenge - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14270568.html). Ps3.ign.com (2009-03-18). Retrieved on 2012-11-29.
 
 730.
 
@@ -14332,728 +12995,368 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 
 732.
 
-733. [The Sly Collection - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14208510.html). Ps3.ign.com
-     (2010-11-16). Retrieved on 2012-11-29.
+733. [The Sly Collection - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14208510.html). Ps3.ign.com (2010-11-16). Retrieved on 2012-11-29.
 
 734.
-735. [Sniper: Ghost Warrior - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/091/091964.html). Ps3.ign.com
-     (2011-04-07). Retrieved on 2012-11-29.
+735. [Sniper: Ghost Warrior - PlayStation 3 - IGN](http://ps3.ign.com/objects/091/091964.html). Ps3.ign.com (2011-04-07). Retrieved on 2012-11-29.
 
-736. [Sniper: Ghost Warrior 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/097/097267.html). Ps3.ign.com
-     (2012-03-20). Retrieved on 2012-11-29.
+736. [Sniper: Ghost Warrior 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/097/097267.html). Ps3.ign.com (2012-03-20). Retrieved on 2012-11-29.
 
 737.
-738. [SOCOM: Confrontation - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/906/906076.html). Ps3.ign.com
-     (2009-11-11). Retrieved on 2012-11-29.
+738. [SOCOM: Confrontation - PlayStation 3 - IGN](http://ps3.ign.com/objects/906/906076.html). Ps3.ign.com (2009-11-11). Retrieved on 2012-11-29.
 
-739. [Soldier of Fortune: Payback - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/946/946739.html). Ps3.ign.com
-     (2007-11-16). Retrieved on 2012-11-29.
+739. [Soldier of Fortune: Payback - PlayStation 3 - IGN](http://ps3.ign.com/objects/946/946739.html). Ps3.ign.com (2007-11-16). Retrieved on 2012-11-29.
 
-740. [Sonic Generations - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/105/105575.html). Ps3.ign.com
-     (2011-08-17). Retrieved on 2012-11-29.
+740. [Sonic Generations - PlayStation 3 - IGN](http://ps3.ign.com/objects/105/105575.html). Ps3.ign.com (2011-08-17). Retrieved on 2012-11-29.
 
-741. [Sonic & SEGA All-Stars Racing - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14353442.html).
-     Uk.ps3.ign.com (2009-12-02). Retrieved on 2012-11-29.
+741. [Sonic & SEGA All-Stars Racing - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14353442.html). Uk.ps3.ign.com (2009-12-02). Retrieved on 2012-11-29.
 
-742. [Sonic the Hedgehog - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/770/770960.html). Ps3.ign.com
-     (2007-03-15). Retrieved on 2012-11-29.
+742. [Sonic the Hedgehog - PlayStation 3 - IGN](http://ps3.ign.com/objects/770/770960.html). Ps3.ign.com (2007-03-15). Retrieved on 2012-11-29.
 
-743. [Sonic's Ultimate Genesis Collection - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14286205.html). Ps3.ign.com
-     (2009-02-11). Retrieved on 2012-11-29.
+743. [Sonic's Ultimate Genesis Collection - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14286205.html). Ps3.ign.com (2009-02-11). Retrieved on 2012-11-29.
 
-744. [Sonic Unleashed - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14242718.html). Ps3.ign.com
-     (2008-12-12). Retrieved on 2012-11-29.
+744. [Sonic Unleashed - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14242718.html). Ps3.ign.com (2008-12-12). Retrieved on 2012-11-29.
 
 745. Known as Lord of Sorcery in Japan
 
-746. [Soulcalibur IV - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/739/739576.html) . Ps3.ign.com
-     (2008-10-17). Retrieved on 2012-11-29.
+746. [Soulcalibur IV - PlayStation 3 - IGN](http://ps3.ign.com/objects/739/739576.html) . Ps3.ign.com (2008-10-17). Retrieved on 2012-11-29.
 
-747. [Soulcalibur V - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/096/096207.html). Ps3.ign.com
-     (2011-11-22). Retrieved on 2012-11-29.
+747. [Soulcalibur V - PlayStation 3 - IGN](http://ps3.ign.com/objects/096/096207.html). Ps3.ign.com (2011-11-22). Retrieved on 2012-11-29.
 
-748. [Spec Ops: The Line - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/053/053072.html). Ps3.ign.com
-     (2012-06-26). Retrieved on 2012-11-29.
+748. [Spec Ops: The Line - PlayStation 3 - IGN](http://ps3.ign.com/objects/053/053072.html). Ps3.ign.com (2012-06-26). Retrieved on 2012-11-29.
 
-749. [Spider-Man 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/684/684224.html). Ps3.ign.com
-     (2007-05-04). Retrieved on 2012-11-29.
+749. [Spider-Man 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/684/684224.html). Ps3.ign.com (2007-05-04). Retrieved on 2012-11-29.
 
-750. [Spider-Man: Edge of Time - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/104/104859.html). Ps3.ign.com
-     (2011-08-25). Retrieved on 2012-11-29.
+750. [Spider-Man: Edge of Time - PlayStation 3 - IGN](http://ps3.ign.com/objects/104/104859.html). Ps3.ign.com (2011-08-25). Retrieved on 2012-11-29.
 
-751. [Spider-Man: Shattered Dimensions - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/065/065640.html). Ps3.ign.com
-     (2010-10-10). Retrieved on 2012-11-29.
+751. [Spider-Man: Shattered Dimensions - PlayStation 3 - IGN](http://ps3.ign.com/objects/065/065640.html). Ps3.ign.com (2010-10-10). Retrieved on 2012-11-29.
 
-752. [Spider-Man: Web of Shadows - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14247565.html). Ps3.ign.com
-     (2008-10-21). Retrieved on 2012-11-29.
+752. [Spider-Man: Web of Shadows - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14247565.html). Ps3.ign.com (2008-10-21). Retrieved on 2012-11-29.
 
-753. [Splatterhouse - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14249100.html). Ps3.ign.com
-     (2010-12-01). Retrieved on 2012-11-29.
+753. [Splatterhouse - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14249100.html). Ps3.ign.com (2010-12-01). Retrieved on 2012-11-29.
 
 754. Known simply as *Split/Second* in North America
 
-755. [Split/Second - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14323200.html). Ps3.ign.com
-     (2010-05-14). Retrieved on 2012-11-29.
+755. [Split/Second - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14323200.html). Ps3.ign.com (2010-05-14). Retrieved on 2012-11-29.
 
-756. [SSX - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/743/743923.html). Ps3.ign.com
-     (2012-02-24). Retrieved on 2012-11-29.
+756. [SSX - PlayStation 3 - IGN](http://ps3.ign.com/objects/743/743923.html). Ps3.ign.com (2012-02-24). Retrieved on 2012-11-29.
 
-757. [Star Ocean: The Last Hope International - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/905/905549.html). Ps3.ign.com
-     (2010-02-12). Retrieved on 2012-11-29.
+757. [Star Ocean: The Last Hope International - PlayStation 3 - IGN](http://ps3.ign.com/objects/905/905549.html). Ps3.ign.com (2010-02-12). Retrieved on 2012-11-29.
 
-758. [Star Ocean: Integrity and Faithlessness - PlayStation 3 -
-     IGN](http://ign.com/games/star-ocean-5/ps3-20035860). ign.com
-     (2015-04-14). Retrieved on 2015-04-18.
+758. [Star Ocean: Integrity and Faithlessness - PlayStation 3 - IGN](http://ign.com/games/star-ocean-5/ps3-20035860). ign.com (2015-04-14). Retrieved on 2015-04-18.
 
-759. [Star Wars: The Clone Wars - Republic Heroes - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14348788.html).
-     Uk.ps3.ign.com (2009-08-28). Retrieved on 2012-11-29.
+759. [Star Wars: The Clone Wars - Republic Heroes - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14348788.html). Uk.ps3.ign.com (2009-08-28). Retrieved on 2012-11-29.
 
-760. [Star Wars: The Force Unleashed - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/823/823668.html). Ps3.ign.com
-     (2008-12-05). Retrieved on 2012-11-29.
+760. [Star Wars: The Force Unleashed - PlayStation 3 - IGN](http://ps3.ign.com/objects/823/823668.html). Ps3.ign.com (2008-12-05). Retrieved on 2012-11-29.
 
-761. [Star Wars: The Force Unleashed II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/055/055056.html). Ps3.ign.com
-     (2010-09-29). Retrieved on 2012-11-29.
+761. [Star Wars: The Force Unleashed II - PlayStation 3 - IGN](http://ps3.ign.com/objects/055/055056.html). Ps3.ign.com (2010-09-29). Retrieved on 2012-11-29.
 
-762. [Starhawk - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14340339.html). Ps3.ign.com
-     (2012-08-10). Retrieved on 2012-11-29.
+762. [Starhawk - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14340339.html). Ps3.ign.com (2012-08-10). Retrieved on 2012-11-29.
 
-763. [Stormrise - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14265663.html). Ps3.ign.com
-     (2009-03-23). Retrieved on 2012-11-29.
+763. [Stormrise - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14265663.html). Ps3.ign.com (2009-03-23). Retrieved on 2012-11-29.
 
-764. [Street Fighter IV - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14211548.html). Ps3.ign.com
-     (2009-04-24). Retrieved on 2012-11-29.
+764. [Street Fighter IV - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14211548.html). Ps3.ign.com (2009-04-24). Retrieved on 2012-11-29.
 
-765. [Street Fighter x Tekken - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/081/081889.html). Ps3.ign.com
-     (2011-09-13). Retrieved on 2012-11-29.
+765. [Street Fighter x Tekken - PlayStation 3 - IGN](http://ps3.ign.com/objects/081/081889.html). Ps3.ign.com (2011-09-13). Retrieved on 2012-11-29.
 
-766. [Strength of the Sword - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14333825.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+766. [Strength of the Sword - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14333825.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-767. [Stuntman: Ignition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/772/772039.html). Ps3.ign.com
-     (2008-03-27). Retrieved on 2012-11-29.
+767. [Stuntman: Ignition - PlayStation 3 - IGN](http://ps3.ign.com/objects/772/772039.html). Ps3.ign.com (2008-03-27). Retrieved on 2012-11-29.
 
-768. [Super Street Fighter IV - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/035/035905.html). Ps3.ign.com
-     (2011-03-25). Retrieved on 2012-11-29.
+768. [Super Street Fighter IV - PlayStation 3 - IGN](http://ps3.ign.com/objects/035/035905.html). Ps3.ign.com (2011-03-25). Retrieved on 2012-11-29.
 
-769. [Supercar Challenge - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14305554.html). Ps3.ign.com
-     (2009-08-17). Retrieved on 2012-11-29.
+769. [Supercar Challenge - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14305554.html). Ps3.ign.com (2009-08-17). Retrieved on 2012-11-29.
 
-770. [Superstars V8 Racing - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14349433.html). Ps3.ign.com
-     (2009-06-25). Retrieved on 2012-11-29.
+770. [Superstars V8 Racing - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14349433.html). Ps3.ign.com (2009-06-25). Retrieved on 2012-11-29.
 
-771. [Supremacy MMA - PlayStation 3 -
-     IGN](http://au.ign.com/games/supremacy-mma/ps3-77286). Au.ign.com
-     (2011-08-29). Retrieved on 2012-11-29.
+771. [Supremacy MMA - PlayStation 3 - IGN](http://au.ign.com/games/supremacy-mma/ps3-77286). Au.ign.com (2011-08-29). Retrieved on 2012-11-29.
 
-772. [Surf's Up - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/894/894308.html). Ps3.ign.com
-     (2007-05-21). Retrieved on 2012-11-29.
+772. [Surf's Up - PlayStation 3 - IGN](http://ps3.ign.com/objects/894/894308.html). Ps3.ign.com (2007-05-21). Retrieved on 2012-11-29.
 
-773. [Syndicate - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14236905.html). Ps3.ign.com
-     (2012-02-20). Retrieved on 2012-11-29.
+773. [Syndicate - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14236905.html). Ps3.ign.com (2012-02-20). Retrieved on 2012-11-29.
 
-774. [Tales of Graces F - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/082/082061.html). Ps3.ign.com
-     (2012-03-20). Retrieved on 2012-11-29.
+774. [Tales of Graces F - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082061.html). Ps3.ign.com (2012-03-20). Retrieved on 2012-11-29.
 
-775. [Tales of Symphonia Chronicles - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/200/20000209.html). Ps3.ign.com
-     (2013-10-24). Retrieved on 2013-11-22.
+775. [Tales of Symphonia Chronicles - PlayStation 3 - IGN](http://ps3.ign.com/objects/200/20000209.html). Ps3.ign.com (2013-10-24). Retrieved on 2013-11-22.
 
-776. [Tales of Vesperia - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14254175.html). Ps3.ign.com
-     (2010-01-12). Retrieved on 2012-11-29.
+776. [Tales of Vesperia - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14254175.html). Ps3.ign.com (2010-01-12). Retrieved on 2012-11-29.
 
-777. [Tales of Xillia - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/082/082400.html). Ps3.ign.com
-     (2012-10-24). Retrieved on 2012-11-29.
+777. [Tales of Xillia - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082400.html). Ps3.ign.com (2012-10-24). Retrieved on 2012-11-29.
 
-778. [Tales of Xillia 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/135/135531.html). Ps3.ign.com
-     (2012-09-20). Retrieved on 2012-11-29.
+778. [Tales of Xillia 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/135/135531.html). Ps3.ign.com (2012-09-20). Retrieved on 2012-11-29.
 
-779. [Tales of Zestiria - PlayStation 3 -
-     IGN](http://www.ign.com/games/tales-of-zestiria/ps3-134805).
-     Ps3.ign.com (2013-12-13). Retrieved on 2013-12-13.
+779. [Tales of Zestiria - PlayStation 3 - IGN](http://www.ign.com/games/tales-of-zestiria/ps3-134805). Ps3.ign.com (2013-12-13). Retrieved on 2013-12-13.
 
-780. [Tears to Tiara: Kakan no Daichi - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950804.html). Ps3.ign.com
-     (2007-07-18). Retrieved on 2012-11-29.
+780. [Tears to Tiara: Kakan no Daichi - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950804.html). Ps3.ign.com (2007-07-18). Retrieved on 2012-11-29.
 
-781. [Tekken 6 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748466.html). Ps3.ign.com
-     (2009-10-21). Retrieved on 2012-11-29.
+781. [Tekken 6 - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748466.html). Ps3.ign.com (2009-10-21). Retrieved on 2012-11-29.
 
-782. [Tekken Hybrid - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110966.html). Ps3.ign.com
-     (2011-08-16). Retrieved on 2012-11-29.
+782. [Tekken Hybrid - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110966.html). Ps3.ign.com (2011-08-16). Retrieved on 2012-11-29.
 
-783. [Tekken Tag Tournament 2 confirmed for PS3 next
-     year](http://www.vg247.com/2011/07/25/tekken-tag-tournament-2-confirmed-for-ps3-release-next-year/).
-     VG247 (2011-07-26). Retrieved on 2012-11-29.
+783. [Tekken Tag Tournament 2 confirmed for PS3 next year](http://www.vg247.com/2011/07/25/tekken-tag-tournament-2-confirmed-for-ps3-release-next-year/). VG247 (2011-07-26). Retrieved on 2012-11-29.
 
-784. [Terminator Salvation - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14219356.html). Ps3.ign.com
-     (2009-05-14). Retrieved on 2012-11-29.
+784. [Terminator Salvation - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14219356.html). Ps3.ign.com (2009-05-14). Retrieved on 2012-11-29.
 
-785. [Test Drive Unlimited 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/018/018326.html). Ps3.ign.com
-     (2010-12-22). Retrieved on 2012-11-29.
+785. [Test Drive Unlimited 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/018/018326.html). Ps3.ign.com (2010-12-22). Retrieved on 2012-11-29.
 
-786. [The Bigs - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/849/849418.html). Ps3.ign.com
-     (2007-06-21). Retrieved on 2012-11-29.
+786. [The Bigs - PlayStation 3 - IGN](http://ps3.ign.com/objects/849/849418.html). Ps3.ign.com (2007-06-21). Retrieved on 2012-11-29.
 
-787. [The Bigs 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14326301.html). Ps3.ign.com
-     (2009-06-12). Retrieved on 2012-11-29.
+787. [The Bigs 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14326301.html). Ps3.ign.com (2009-06-12). Retrieved on 2012-11-29.
 
-788. [Robert Ludlum's The Bourne Conspiracy - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/800/800196.html). Ps3.ign.com
-     (2008-06-09). Retrieved on 2012-11-29.
+788. [Robert Ludlum's The Bourne Conspiracy - PlayStation 3 - IGN](http://ps3.ign.com/objects/800/800196.html). Ps3.ign.com (2008-06-09). Retrieved on 2012-11-29.
 
-789. [The Chronicles of Narnia: Prince Caspian - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950652.html). Ps3.ign.com
-     (2008-06-09). Retrieved on 2012-11-29.
+789. [The Chronicles of Narnia: Prince Caspian - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950652.html). Ps3.ign.com (2008-06-09). Retrieved on 2012-11-29.
 
 790.
-791. [The Club - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/826/826624.html). Ps3.ign.com
-     (2008-01-26). Retrieved on 2012-11-29.
+791. [The Club - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826624.html). Ps3.ign.com (2008-01-26). Retrieved on 2012-11-29.
 
-792. [The Cursed Crusade - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/949/949803.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+792. [The Cursed Crusade - PlayStation 3 - IGN](http://ps3.ign.com/objects/949/949803.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-793. [The Darkness - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/720/720415.html). Ps3.ign.com
-     (2007-06-28). Retrieved on 2012-11-29.
+793. [The Darkness - PlayStation 3 - IGN](http://ps3.ign.com/objects/720/720415.html). Ps3.ign.com (2007-06-28). Retrieved on 2012-11-29.
 
-794. [The Darkness II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14248535.html). Ps3.ign.com
-     (2011-12-06). Retrieved on 2012-11-29.
+794. [The Darkness II - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14248535.html). Ps3.ign.com (2011-12-06). Retrieved on 2012-11-29.
 
-795. [The Idolmaster 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/113/113697.html). Ps3.ign.com
-     (2011-10-27). Retrieved on 2012-11-29.
+795. [The Idolmaster 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/113/113697.html). Ps3.ign.com (2011-10-27). Retrieved on 2012-11-29.
 
-796. [They - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/953/953409.html). Ps3.ign.com
-     (2008-04-21). Retrieved on 2012-11-29.
+796. [They - PlayStation 3 - IGN](http://ps3.ign.com/objects/953/953409.html). Ps3.ign.com (2008-04-21). Retrieved on 2012-11-29.
 
-797. [Thief 4 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14340785.html).
-     Uk.ps3.ign.com. Retrieved on 2012-11-29.
+797. [Thief 4 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14340785.html). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-798. [This is Vegas - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/794/794759.html). Ps3.ign.com
-     (2008-08-22). Retrieved on 2012-11-29.
+798. [This is Vegas - PlayStation 3 - IGN](http://ps3.ign.com/objects/794/794759.html). Ps3.ign.com (2008-08-22). Retrieved on 2012-11-29.
 
-799. [Thor: God of Thunder - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/900/900982.html). Ps3.ign.com
-     (2011-05-10). Retrieved on 2012-11-29.
+799. [Thor: God of Thunder - PlayStation 3 - IGN](http://ps3.ign.com/objects/900/900982.html). Ps3.ign.com (2011-05-10). Retrieved on 2012-11-29.
 
-800. [Tiger Woods PGA Tour 07 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/826/826461.html). Ps3.ign.com
-     (2006-11-04). Retrieved on 2012-11-29.
+800. [Tiger Woods PGA Tour 07 - PlayStation 3 - IGN](http://ps3.ign.com/objects/826/826461.html). Ps3.ign.com (2006-11-04). Retrieved on 2012-11-29.
 
-801. [Tiger Woods PGA Tour 08 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/899/899084.html). Ps3.ign.com
-     (2007-08-20). Retrieved on 2012-11-29.
+801. [Tiger Woods PGA Tour 08 - PlayStation 3 - IGN](http://ps3.ign.com/objects/899/899084.html). Ps3.ign.com (2007-08-20). Retrieved on 2012-11-29.
 
-802. [Tiger Woods PGA Tour 09 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14241193.html). Ps3.ign.com
-     (2008-08-20). Retrieved on 2012-11-29.
+802. [Tiger Woods PGA Tour 09 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14241193.html). Ps3.ign.com (2008-08-20). Retrieved on 2012-11-29.
 
-803. [Tiger Woods PGA Tour 10 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14322325.html). Ps3.ign.com
-     (2009-07-23). Retrieved on 2012-11-29.
+803. [Tiger Woods PGA Tour 10 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14322325.html). Ps3.ign.com (2009-07-23). Retrieved on 2012-11-29.
 
-804. [Tiger Woods PGA Tour 11 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/058/058620.html) . Ps3.ign.com
-     (2010-09-08). Retrieved on 2012-11-29.
+804. [Tiger Woods PGA Tour 11 - PlayStation 3 - IGN](http://ps3.ign.com/objects/058/058620.html) . Ps3.ign.com (2010-09-08). Retrieved on 2012-11-29.
 
-805. [Tiger Woods PGA Tour 12: The Masters - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/096/096485.html). Ps3.ign.com
-     (2011-07-19). Retrieved on 2012-11-29.
+805. [Tiger Woods PGA Tour 12: The Masters - PlayStation 3 - IGN](http://ps3.ign.com/objects/096/096485.html). Ps3.ign.com (2011-07-19). Retrieved on 2012-11-29.
 
-806. [Tiger Woods PGA Tour 13: The Masters - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/096/096485.html). Ps3.ign.com
-     (2011-07-19). Retrieved on 2012-11-29.
+806. [Tiger Woods PGA Tour 13: The Masters - PlayStation 3 - IGN](http://ps3.ign.com/objects/096/096485.html). Ps3.ign.com (2011-07-19). Retrieved on 2012-11-29.
 
-807. [Tiger Woods PGA Tour 14: The Masters - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/096/096485.html). Ps3.ign.com
-     (2011-07-19). Retrieved on 2013-03-26.
+807. [Tiger Woods PGA Tour 14: The Masters - PlayStation 3 - IGN](http://ps3.ign.com/objects/096/096485.html). Ps3.ign.com (2011-07-19). Retrieved on 2013-03-26.
 
-808. [Time Crisis 4 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/896/896236.html). Ps3.ign.com
-     (2008-04-24). Retrieved on 2012-11-29.
+808. [Time Crisis 4 - PlayStation 3 - IGN](http://ps3.ign.com/objects/896/896236.html). Ps3.ign.com (2008-04-24). Retrieved on 2012-11-29.
 
-809. [TimeO - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/877/877064.html). Ps3.ign.com
-     (2007-01-15). Retrieved on 2012-11-29.
+809. [TimeO - PlayStation 3 - IGN](http://ps3.ign.com/objects/877/877064.html). Ps3.ign.com (2007-01-15). Retrieved on 2012-11-29.
 
-810. [TimeShift - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/899/899181.html). Ps3.ign.com
-     (2007-11-13). Retrieved on 2012-11-29.
+810. [TimeShift - PlayStation 3 - IGN](http://ps3.ign.com/objects/899/899181.html). Ps3.ign.com (2007-11-13). Retrieved on 2012-11-29.
 
-811. [TNA Impact\! - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/814/814948.html) . Ps3.ign.com
-     (2008-09-08). Retrieved on 2012-11-29.
+811. [TNA Impact\! - PlayStation 3 - IGN](http://ps3.ign.com/objects/814/814948.html) . Ps3.ign.com (2008-09-08). Retrieved on 2012-11-29.
 
-812. [To End All Wars - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/948/948337.html). Ps3.ign.com
-     (2007-07-06). Retrieved on 2012-11-29.
+812. [To End All Wars - PlayStation 3 - IGN](http://ps3.ign.com/objects/948/948337.html). Ps3.ign.com (2007-07-06). Retrieved on 2012-11-29.
 
-813. [Japan's Wonderful Animal Fighting Game is Still Coming to the
-     West.
-     YES](http://kotaku.com/5916002/japans-wonderful-animal-fighting-is-still-coming-to-the-west-yes).
-     Kotaku.com (2012-06-05). Retrieved on 2012-11-29.
+813. [Japan's Wonderful Animal Fighting Game is Still Coming to the West. YES](http://kotaku.com/5916002/japans-wonderful-animal-fighting-is-still-coming-to-the-west-yes). Kotaku.com (2012-06-05). Retrieved on 2012-11-29.
 
-814. [Tom Clancy's EndWar - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/902/902335.html). Ps3.ign.com
-     (2009-01-09). Retrieved on 2012-11-29.
+814. [Tom Clancy's EndWar - PlayStation 3 - IGN](http://ps3.ign.com/objects/902/902335.html). Ps3.ign.com (2009-01-09). Retrieved on 2012-11-29.
 
-815. [Tom Clancy's Ghost Recon Advanced Warfighter 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/862/862424.html). Ps3.ign.com
-     (2007-08-17). Retrieved on 2012-11-29.
+815. [Tom Clancy's Ghost Recon Advanced Warfighter 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/862/862424.html). Ps3.ign.com (2007-08-17). Retrieved on 2012-11-29.
 
-816. [Tom Clancy's Ghost Recon: Future Soldier - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14290332.html). Ps3.ign.com
-     (2012-10-02). Retrieved on 2012-11-29.
+816. [Tom Clancy's Ghost Recon: Future Soldier - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14290332.html). Ps3.ign.com (2012-10-02). Retrieved on 2012-11-29.
 
-817. [Tom Clancy's HAWX - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/966/966361.html). Ps3.ign.com
-     (2009-06-12). Retrieved on 2012-11-29.
+817. [Tom Clancy's HAWX - PlayStation 3 - IGN](http://ps3.ign.com/objects/966/966361.html). Ps3.ign.com (2009-06-12). Retrieved on 2012-11-29.
 
-818. [Tom Clancy's HAWX 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/073/073126.html). Ps3.ign.com
-     (2010-06-15). Retrieved on 2012-11-29.
+818. [Tom Clancy's HAWX 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/073/073126.html). Ps3.ign.com (2010-06-15). Retrieved on 2012-11-29.
 
-819. [Tom Clancy's Rainbow Six: Vegas - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/815/815420.html). Ps3.ign.com
-     (2007-07-06). Retrieved on 2012-11-29.
+819. [Tom Clancy's Rainbow Six: Vegas - PlayStation 3 - IGN](http://ps3.ign.com/objects/815/815420.html). Ps3.ign.com (2007-07-06). Retrieved on 2012-11-29.
 
-820. [Tom Clancy's Rainbow Six: Vegas 2 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14220054.html). Ps3.ign.com
-     (2008-03-18). Retrieved on 2012-11-29.
+820. [Tom Clancy's Rainbow Six: Vegas 2 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14220054.html). Ps3.ign.com (2008-03-18). Retrieved on 2012-11-29.
 
-821. [Tom Clancy's Splinter Cell: Blacklist - PlayStation 3 -
-     IGN](http://www.ign.com/games/tom-clancys-splinter-cell-blacklist/pc-75427).
-     IGN (2013-08-20). Retrieved on 2013-08-28.
+821. [Tom Clancy's Splinter Cell: Blacklist - PlayStation 3 - IGN](http://www.ign.com/games/tom-clancys-splinter-cell-blacklist/pc-75427). IGN (2013-08-20). Retrieved on 2013-08-28.
 
-822. [Tom Clancy's Splinter Cell Classic Trilogy HD - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/082/082907.html) . Ps3.ign.com
-     (2011-01-31). Retrieved on 2012-11-29.
+822. [Tom Clancy's Splinter Cell Classic Trilogy HD - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082907.html) . Ps3.ign.com (2011-01-31). Retrieved on 2012-11-29.
 
-823. [Tom Clancy's Splinter Cell Double Agent - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/774/774379.html). Ps3.ign.com
-     (2007-04-04). Retrieved on 2012-11-29.
+823. [Tom Clancy's Splinter Cell Double Agent - PlayStation 3 - IGN](http://ps3.ign.com/objects/774/774379.html). Ps3.ign.com (2007-04-04). Retrieved on 2012-11-29.
 
-824. [Tomb Raider - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/002/002509.html). Ps3.ign.com
-     (2012-08-16). Retrieved on 2012-11-29.
+824. [Tomb Raider - PlayStation 3 - IGN](http://ps3.ign.com/objects/002/002509.html). Ps3.ign.com (2012-08-16). Retrieved on 2012-11-29.
 
-825. [Tomb Raider Trilogy - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/095/095864.html) . Ps3.ign.com
-     (2011-03-28). Retrieved on 2012-11-29.
+825. [Tomb Raider Trilogy - PlayStation 3 - IGN](http://ps3.ign.com/objects/095/095864.html) . Ps3.ign.com (2011-03-28). Retrieved on 2012-11-29.
 
-826. [Tomb Raider Underworld - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14224307.html). Ps3.ign.com
-     (2008-10-23). Retrieved on 2012-11-29.
+826. [Tomb Raider Underworld - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14224307.html). Ps3.ign.com (2008-10-23). Retrieved on 2012-11-29.
 
-827. [Tony Hawk's Project 8 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/803/803281.html). Ps3.ign.com
-     (2007-02-18). Retrieved on 2012-11-29.
+827. [Tony Hawk's Project 8 - PlayStation 3 - IGN](http://ps3.ign.com/objects/803/803281.html). Ps3.ign.com (2007-02-18). Retrieved on 2012-11-29.
 
-828. [Tony Hawk's Proving Ground - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/906/906158.html). Ps3.ign.com
-     (2007-08-23). Retrieved on 2012-11-29.
+828. [Tony Hawk's Proving Ground - PlayStation 3 - IGN](http://ps3.ign.com/objects/906/906158.html). Ps3.ign.com (2007-08-23). Retrieved on 2012-11-29.
 
-829. [Tony Hawk: Ride - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14222062.html). Ps3.ign.com
-     (2009-11-20). Retrieved on 2012-11-29.
+829. [Tony Hawk: Ride - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14222062.html). Ps3.ign.com (2009-11-20). Retrieved on 2012-11-29.
 
-830. [Tony Hawk: Shred - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/023/023714.html). Ps3.ign.com
-     (2010-08-09). Retrieved on 2012-11-29.
+830. [Tony Hawk: Shred - PlayStation 3 - IGN](http://ps3.ign.com/objects/023/023714.html). Ps3.ign.com (2010-08-09). Retrieved on 2012-11-29.
 
-831. [Top Gun: Hard Lock - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110869.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+831. [Top Gun: Hard Lock - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110869.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-832. [Top Spin 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/949/949655.html). Ps3.ign.com
-     (2008-06-23). Retrieved on 2012-11-29.
+832. [Top Spin 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/949/949655.html). Ps3.ign.com (2008-06-23). Retrieved on 2012-11-29.
 
-833. [Top Spin 4 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/085/085826.html). Ps3.ign.com
-     (2011-02-15). Retrieved on 2012-11-29.
+833. [Top Spin 4 - PlayStation 3 - IGN](http://ps3.ign.com/objects/085/085826.html). Ps3.ign.com (2011-02-15). Retrieved on 2012-11-29.
 
-834. [Tornado Outbreak - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14353918.html).
-     Uk.ps3.ign.com (2009-08-04). Retrieved on 2012-11-29.
+834. [Tornado Outbreak - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14353918.html). Uk.ps3.ign.com (2009-08-04). Retrieved on 2012-11-29.
 
-835. [Toro to Mori Mori - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14356773.html). Ps3.ign.com
-     (2009-07-23). Retrieved on 2012-11-29.
+835. [Toro to Mori Mori - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14356773.html). Ps3.ign.com (2009-07-23). Retrieved on 2012-11-29.
 
-836. [Toy Story 3: The Video Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/061/061766.html). Ps3.ign.com
-     (2010-06-16). Retrieved on 2012-11-29.
+836. [Toy Story 3: The Video Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/061/061766.html). Ps3.ign.com (2010-06-16). Retrieved on 2012-11-29.
 
-837. [Transformers: Dark of the Moon - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/092/092433.html). Ps3.ign.com
-     (2011-05-25). Retrieved on 2012-11-29.
+837. [Transformers: Dark of the Moon - PlayStation 3 - IGN](http://ps3.ign.com/objects/092/092433.html). Ps3.ign.com (2011-05-25). Retrieved on 2012-11-29.
 
-838. [Transformers: The Game - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/805/805122.html). Ps3.ign.com
-     (2007-06-20). Retrieved on 2012-11-29.
+838. [Transformers: The Game - PlayStation 3 - IGN](http://ps3.ign.com/objects/805/805122.html). Ps3.ign.com (2007-06-20). Retrieved on 2012-11-29.
 
-839. [Transformers: Revenge of the Fallen - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14267356.html). Ps3.ign.com
-     (2009-08-21). Retrieved on 2012-11-29.
+839. [Transformers: Revenge of the Fallen - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14267356.html). Ps3.ign.com (2009-08-21). Retrieved on 2012-11-29.
 
 840.
-841. [Transformers: War for Cybertron - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/054/054929.html). Ps3.ign.com
-     (2010-09-07). Retrieved on 2012-11-29.
+841. [Transformers: War for Cybertron - PlayStation 3 - IGN](http://ps3.ign.com/objects/054/054929.html). Ps3.ign.com (2010-09-07). Retrieved on 2012-11-29.
 
-842. [Trinity Universe - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14348137.html). Ps3.ign.com
-     (2010-05-17). Retrieved on 2012-11-29.
+842. [Trinity Universe - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14348137.html). Ps3.ign.com (2010-05-17). Retrieved on 2012-11-29.
 
-843. [Trinity: Souls of Zill O'll - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14353130.html). Ps3.ign.com
-     (2010-09-16). Retrieved on 2012-11-29.
+843. [Trinity: Souls of Zill O'll - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14353130.html). Ps3.ign.com (2010-09-16). Retrieved on 2012-11-29.
 
-844. [Trivial Pursuit - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14283664.html). Ps3.ign.com
-     (2009-02-26). Retrieved on 2012-11-29.
+844. [Trivial Pursuit - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14283664.html). Ps3.ign.com (2009-02-26). Retrieved on 2012-11-29.
 
-845. [Tron Evolution - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14319753.html). Ps3.ign.com
-     (2010-10-13). Retrieved on 2012-11-29.
+845. [Tron Evolution - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14319753.html). Ps3.ign.com (2010-10-13). Retrieved on 2012-11-29.
 
-846. [Turning Point: Fall of Liberty - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/851/851207.html). Ps3.ign.com
-     (2008-02-20). Retrieved on 2012-11-29.
+846. [Turning Point: Fall of Liberty - PlayStation 3 - IGN](http://ps3.ign.com/objects/851/851207.html). Ps3.ign.com (2008-02-20). Retrieved on 2012-11-29.
 
-847. [Turok - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/773/773516.html). Ps3.ign.com
-     (2008-01-25). Retrieved on 2012-11-29.
+847. [Turok - PlayStation 3 - IGN](http://ps3.ign.com/objects/773/773516.html). Ps3.ign.com (2008-01-25). Retrieved on 2012-11-29.
 
-848. [Twisted Metal - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/951/951234.html). Ps3.ign.com
-     (2012-02-10). Retrieved on 2012-11-29.
+848. [Twisted Metal - PlayStation 3 - IGN](http://ps3.ign.com/objects/951/951234.html). Ps3.ign.com (2012-02-10). Retrieved on 2012-11-29.
 
-849. [Two Worlds II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/002/002789.html). Ps3.ign.com
-     (2011-02-04). Retrieved on 2012-11-29.
+849. [Two Worlds II - PlayStation 3 - IGN](http://ps3.ign.com/objects/002/002789.html). Ps3.ign.com (2011-02-04). Retrieved on 2012-11-29.
 
-850. [UEFA Euro 2008 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14225776.html). Ps3.ign.com
-     (2008-04-23). Retrieved on 2012-11-29.
+850. [UEFA Euro 2008 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14225776.html). Ps3.ign.com (2008-04-23). Retrieved on 2012-11-29.
 
-851. [UFC Undisputed 2009 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/876/876981.html). Uk.ps3.ign.com
-     (2009-05-22). Retrieved on 2012-11-29.
+851. [UFC Undisputed 2009 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/876/876981.html). Uk.ps3.ign.com (2009-05-22). Retrieved on 2012-11-29.
 
-852. [UFC 2010 to Debut at VGAs -
-     IGN](http://ps3.ign.com/articles/105/1052757p1.html). Ps3.ign.com.
-     Retrieved on 2012-11-29.
+852. [UFC 2010 to Debut at VGAs - IGN](http://ps3.ign.com/articles/105/1052757p1.html). Ps3.ign.com. Retrieved on 2012-11-29.
 
-853. [UFC Undisputed 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/082/082938.html). Ps3.ign.com
-     (2012-01-18). Retrieved on 2012-11-29.
+853. [UFC Undisputed 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/082/082938.html). Ps3.ign.com (2012-01-18). Retrieved on 2012-11-29.
 
-854. iantothemax (2014-04-16). [Utra Street Fighter IV Heading to
-     Japanese Consoles on August 7, Famitsu Provides First In-Game Look
-     at UDON-Designed Alternate
-     Costumes](http://shoryuken.com/2014/04/16/ultra-street-fighter-iv-heading-to-japanese-consoles-on-august-7-famitsu-provides-first-in-game-look-at-udon-designed-alternate-costumes/).
-     shoryuken.com.
-     [Archived](https://web.archive.org/web/20140419100118/http://shoryuken.com/2014/04/16/ultra-street-fighter-iv-heading-to-japanese-consoles-on-august-7-famitsu-provides-first-in-game-look-at-udon-designed-alternate-costumes/)
-     from the original on 2014-04-19. Accessed 2015-01-11.
+854. iantothemax (2014-04-16). [Utra Street Fighter IV Heading to Japanese Consoles on August 7, Famitsu Provides First In-Game Look at UDON-Designed Alternate Costumes](http://shoryuken.com/2014/04/16/ultra-street-fighter-iv-heading-to-japanese-consoles-on-august-7-famitsu-provides-first-in-game-look-at-udon-designed-alternate-costumes/). shoryuken.com. [Archived](https://web.archive.org/web/20140419100118/http://shoryuken.com/2014/04/16/ultra-street-fighter-iv-heading-to-japanese-consoles-on-august-7-famitsu-provides-first-in-game-look-at-udon-designed-alternate-costumes/) from the original on 2014-04-19. Accessed 2015-01-11.
 
-855. ComboFiend (2014-05-15). [Ultra Street Fighter IV Release
-     Dates](http://www.capcom-unity.com/combofiend/blog/2014/05/15/ultra-street-fighter-iv-release-dates).
-     capcom-unity.com.
-     [Archived](https://web.archive.org/web/20141118042229/http://www.capcom-unity.com/combofiend/blog/2014/05/15/ultra-street-fighter-iv-release-dates)
-     from the original on 2014-11-18.
+855. ComboFiend (2014-05-15). [Ultra Street Fighter IV Release Dates](http://www.capcom-unity.com/combofiend/blog/2014/05/15/ultra-street-fighter-iv-release-dates). capcom-unity.com. [Archived](https://web.archive.org/web/20141118042229/http://www.capcom-unity.com/combofiend/blog/2014/05/15/ultra-street-fighter-iv-release-dates) from the original on 2014-11-18.
 
-856. Thomas, Lucas M. (2014-08-04)[Out This Week:
-     August 4, 2014](http://www.ign.com/articles/2014/08/04/out-this-week-august-4-2014).
-     ign.com. Ziff Davis.
-     [Archived](https://web.archive.org/web/20140810092511/http://www.ign.com/articles/2014/08/04/out-this-week-august-4-2014)
-     from the original on 2014-08-10. Accessed 2015-01-11.
+856. Thomas, Lucas M. (2014-08-04)[Out This Week: August 4, 2014](http://www.ign.com/articles/2014/08/04/out-this-week-august-4-2014). ign.com. Ziff Davis. [Archived](https://web.archive.org/web/20140810092511/http://www.ign.com/articles/2014/08/04/out-this-week-august-4-2014) from the original on 2014-08-10. Accessed 2015-01-11.
 
-857. [Uncharted: Drake's Fortune - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/812/812550.html). Ps3.ign.com
-     (2008-01-31). Retrieved on 2012-11-29.
+857. [Uncharted: Drake's Fortune - PlayStation 3 - IGN](http://ps3.ign.com/objects/812/812550.html). Ps3.ign.com (2008-01-31). Retrieved on 2012-11-29.
 
-858. [Uncharted 2: Among Thieves - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14225971.html). Ps3.ign.com
-     (2010-04-19). Retrieved on 2012-11-29.
+858. [Uncharted 2: Among Thieves - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14225971.html). Ps3.ign.com (2010-04-19). Retrieved on 2012-11-29.
 
-859. [Uncharted 3: Drake's Deception - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/094/094314.html). Ps3.ign.com
-     (2012-04-11). Retrieved on 2012-11-29.
+859. [Uncharted 3: Drake's Deception - PlayStation 3 - IGN](http://ps3.ign.com/objects/094/094314.html). Ps3.ign.com (2012-04-11). Retrieved on 2012-11-29.
 
-860. [Uncharted Waters Online - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14288467.html). Ps3.ign.com
-     (2011-06-08). Retrieved on 2012-11-29.
+860. [Uncharted Waters Online - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14288467.html). Ps3.ign.com (2011-06-08). Retrieved on 2012-11-29.
 
-861. [Unreal Tournament III - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748505.html). Ps3.ign.com
-     (2007-12-14). Retrieved on 2012-11-29.
+861. [Unreal Tournament III - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748505.html). Ps3.ign.com (2007-12-14). Retrieved on 2012-11-29.
 
-862. [Untold Legends: Dark Kingdom - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/814/814614.html). Ps3.ign.com
-     (2007-02-11). Retrieved on 2012-11-29.
+862. [Untold Legends: Dark Kingdom - PlayStation 3 - IGN](http://ps3.ign.com/objects/814/814614.html). Ps3.ign.com (2007-02-11). Retrieved on 2012-11-29.
 
-863. [Up - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14327829.html). Ps3.ign.com
-     (2009-03-19). Retrieved on 2012-11-29.
+863. [Up - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14327829.html). Ps3.ign.com (2009-03-19). Retrieved on 2012-11-29.
 
-864. [Urban Mysteries - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/824/824717.html). Ps3.ign.com
-     (2006-05-01). Retrieved on 2012-11-29.
+864. [Urban Mysteries - PlayStation 3 - IGN](http://ps3.ign.com/objects/824/824717.html). Ps3.ign.com (2006-05-01). Retrieved on 2012-11-29.
 
-865. [Valkyria Chronicles - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/950/950634.html). Ps3.ign.com
-     (2009-06-19). Retrieved on 2012-11-29.
+865. [Valkyria Chronicles - PlayStation 3 - IGN](http://ps3.ign.com/objects/950/950634.html). Ps3.ign.com (2009-06-19). Retrieved on 2012-11-29.
 
-866. [Vampire Rain: Altered Species - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/791/791124.html). Ps3.ign.com
-     (2008-09-05). Retrieved on 2012-11-29.
+866. [Vampire Rain: Altered Species - PlayStation 3 - IGN](http://ps3.ign.com/objects/791/791124.html). Ps3.ign.com (2008-09-05). Retrieved on 2012-11-29.
 
-867. [Vancouver 2010: The Official Videogame of the Winter Olympic Games
-     - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14320919.html). Ps3.ign.com
-     (2009-03-11). Retrieved on 2012-11-29.
+867. [Vancouver 2010: The Official Videogame of the Winter Olympic Games - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14320919.html). Ps3.ign.com (2009-03-11). Retrieved on 2012-11-29.
 
-868. [Vanquish - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14231560.html). Ps3.ign.com
-     (2010-09-27). Retrieved on 2012-11-29.
+868. [Vanquish - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14231560.html). Ps3.ign.com (2010-09-27). Retrieved on 2012-11-29.
 
-869. [Venetica - PlayStation 3 -
-     IGN](http://uk.ign.com/games/venetica/ps3-77925). Ps3.ign.com
-     (2010-11-05). Retrieved on 2015-02-10.
+869. [Venetica - PlayStation 3 - IGN](http://uk.ign.com/games/venetica/ps3-77925). Ps3.ign.com (2010-11-05). Retrieved on 2015-02-10.
 
-870. [Viking: Battle for Asgard - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/958/958172.html). Ps3.ign.com
-     (2008-03-18). Retrieved on 2012-11-29.
+870. [Viking: Battle for Asgard - PlayStation 3 - IGN](http://ps3.ign.com/objects/958/958172.html). Ps3.ign.com (2008-03-18). Retrieved on 2012-11-29.
 
-871. [Virtua Fighter 5 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/641/641054.html). Ps3.ign.com
-     (2007-02-16). Retrieved on 2012-11-29.
+871. [Virtua Fighter 5 - PlayStation 3 - IGN](http://ps3.ign.com/objects/641/641054.html). Ps3.ign.com (2007-02-16). Retrieved on 2012-11-29.
 
-872. [Virtua Tennis 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/824/824785.html). Ps3.ign.com
-     (2007-02-09). Retrieved on 2012-11-29.
+872. [Virtua Tennis 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/824/824785.html). Ps3.ign.com (2007-02-09). Retrieved on 2012-11-29.
 
-873. [Virtua Tennis 4 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/064/064301.html). Ps3.ign.com
-     (2011-06-07). Retrieved on 2012-11-29.
+873. [Virtua Tennis 4 - PlayStation 3 - IGN](http://ps3.ign.com/objects/064/064301.html). Ps3.ign.com (2011-06-07). Retrieved on 2012-11-29.
 
-874. [Virtua Tennis 2009 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14320739.html). Ps3.ign.com
-     (2009-06-12). Retrieved on 2012-11-29.
+874. [Virtua Tennis 2009 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14320739.html). Ps3.ign.com (2009-06-12). Retrieved on 2012-11-29.
 
-875. [Voltage - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/953/953510.html). Ps3.ign.com
-     (2008-05-08). Retrieved on 2012-11-29.
+875. [Voltage - PlayStation 3 - IGN](http://ps3.ign.com/objects/953/953510.html). Ps3.ign.com (2008-05-08). Retrieved on 2012-11-29.
 
-876. [WALL-E - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14226077.html). Ps3.ign.com
-     (2008-10-15). Retrieved on 2012-11-29.
+876. [WALL-E - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14226077.html). Ps3.ign.com (2008-10-15). Retrieved on 2012-11-29.
 
-877. [The Wall - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/825/825300.html). Ps3.ign.com
-     (2006-05-05). Retrieved on 2012-11-29.
+877. [The Wall - PlayStation 3 - IGN](http://ps3.ign.com/objects/825/825300.html). Ps3.ign.com (2006-05-05). Retrieved on 2012-11-29.
 
-878. [Wangan Midnight - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/775/775481.html). Ps3.ign.com
-     (2007-07-18). Retrieved on 2012-11-29.
+878. [Wangan Midnight - PlayStation 3 - IGN](http://ps3.ign.com/objects/775/775481.html). Ps3.ign.com (2007-07-18). Retrieved on 2012-11-29.
 
-879. [Wanted: Weapons of Fate - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14266797.html). Ps3.ign.com
-     (2009-02-26). Retrieved on 2012-11-29.
+879. [Wanted: Weapons of Fate - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14266797.html). Ps3.ign.com (2009-02-26). Retrieved on 2012-11-29.
 
-880. [Warhammer 40,000: Space Marine - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14352256.html).
-     Uk.ps3.ign.com (2011-09-01). Retrieved on 2012-11-29.
+880. [Warhammer 40,000: Space Marine - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14352256.html). Uk.ps3.ign.com (2011-09-01). Retrieved on 2012-11-29.
 
-881. [Warhawk - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/748/748468.html). Ps3.ign.com
-     (2008-07-14). Retrieved on 2012-11-29.
+881. [Warhawk - PlayStation 3 - IGN](http://ps3.ign.com/objects/748/748468.html). Ps3.ign.com (2008-07-14). Retrieved on 2012-11-29.
 
-882. [Warriors: Legends of Troy - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14354217.html). Ps3.ign.com
-     (2011-02-07). Retrieved on 2012-11-29.
+882. [Warriors: Legends of Troy - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14354217.html). Ps3.ign.com (2011-02-07). Retrieved on 2012-11-29.
 
-883. [Warriors Orochi Z - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14309628.html). Ps3.ign.com
-     (2009-03-06). Retrieved on 2012-11-29.
+883. [Warriors Orochi Z - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14309628.html). Ps3.ign.com (2009-03-06). Retrieved on 2012-11-29.
 
-884. [Watchdogs - PlayStation 3 - IGN
-     UK](http://uk.ign.com/articles/2014/05/29/watch-dogs-playstation-3-review).
-     Uk.ign.com (2014-05-29). Retrieved on 2014-12-18.
+884. [Watchdogs - PlayStation 3 - IGN UK](http://uk.ign.com/articles/2014/05/29/watch-dogs-playstation-3-review). Uk.ign.com (2014-05-29). Retrieved on 2014-12-18.
 
-885. [Watchdogs - Worldwide Release Date Announcement -
-     VG247](http://www.vg247.com/2014/03/06/watch-dogs-release-date-and-new-trailer-could-drop-today-rumour).
-     vg247.com (2014-3-6). Retrieved on 2014-12-18.
+885. [Watchdogs - Worldwide Release Date Announcement - VG247](http://www.vg247.com/2014/03/06/watch-dogs-release-date-and-new-trailer-could-drop-today-rumour). vg247.com (2014-3-6). Retrieved on 2014-12-18.
 
-886. [Watchmen: The End is Nigh - The Complete Experience -
-     PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14354104.html).
-     Ps3.ign.com (2009-07-24). Retrieved on 2012-11-29.
+886. [Watchmen: The End is Nigh - The Complete Experience - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14354104.html). Ps3.ign.com (2009-07-24). Retrieved on 2012-11-29.
 
-887. [Way of the Samurai 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/775/775516.html). Ps3.ign.com
-     (2010-01-20). Retrieved on 2012-11-29.
+887. [Way of the Samurai 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/775/775516.html). Ps3.ign.com (2010-01-20). Retrieved on 2012-11-29.
 
-888. [Wet - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/957/957974.html). Ps3.ign.com
-     (2009-09-18). Retrieved on 2012-11-29.
+888. [Wet - PlayStation 3 - IGN](http://ps3.ign.com/objects/957/957974.html). Ps3.ign.com (2009-09-18). Retrieved on 2012-11-29.
 
-889. [Wheelman - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/812/812841.html). Ps3.ign.com
-     (2009-05-04). Retrieved on 2012-11-29.
+889. [Wheelman - PlayStation 3 - IGN](http://ps3.ign.com/objects/812/812841.html). Ps3.ign.com (2009-05-04). Retrieved on 2012-11-29.
 
-890. [Where the Wild Things Are - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/019/019647.html). Ps3.ign.com
-     (2009-09-01). Retrieved on 2012-11-29.
+890. [Where the Wild Things Are - PlayStation 3 - IGN](http://ps3.ign.com/objects/019/019647.html). Ps3.ign.com (2009-09-01). Retrieved on 2012-11-29.
 
-891. [White Album: Tsuzurareru Fuyu no
-     Omoide](http://gamespot.com/ps3/adventure/whitealbum/index.html).
-     GameSpot.com (2010-06-24). Retrieved on 2012-11-29.
+891. [White Album: Tsuzurareru Fuyu no Omoide](http://gamespot.com/ps3/adventure/whitealbum/index.html). GameSpot.com (2010-06-24). Retrieved on 2012-11-29.
 
-892. [White Knight Chronicles International Edition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/856/856638.html). Ps3.ign.com
-     (2010-01-04). Retrieved on 2012-11-29.
+892. [White Knight Chronicles International Edition - PlayStation 3 - IGN](http://ps3.ign.com/objects/856/856638.html). Ps3.ign.com (2010-01-04). Retrieved on 2012-11-29.
 
-893. [White Knight Chronicles II - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/022/022750.html). Ps3.ign.com
-     (2011-09-02). Retrieved on 2012-11-29.
+893. [White Knight Chronicles II - PlayStation 3 - IGN](http://ps3.ign.com/objects/022/022750.html). Ps3.ign.com (2011-09-02). Retrieved on 2012-11-29.
 
-894. [Winning Post 7 Maximum 2007 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/881/881184.html). Ps3.ign.com
-     (2007-01-30). Retrieved on 2012-11-29.
+894. [Winning Post 7 Maximum 2007 - PlayStation 3 - IGN](http://ps3.ign.com/objects/881/881184.html). Ps3.ign.com (2007-01-30). Retrieved on 2012-11-29.
 
 895.
-896. [Winning Post
-     World](http://www.gamespot.com/ps3/sports/winningpostworld/index.html).
-     GameSpot.com (2009-04-02). Retrieved on 2012-11-29.
+896. [Winning Post World](http://www.gamespot.com/ps3/sports/winningpostworld/index.html). GameSpot.com (2009-04-02). Retrieved on 2012-11-29.
 
-897. [WipEout HD Blu-Ray Version - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/032/032811.html).
-     Uk.ps3.ign.com. Retrieved on 2012-11-29.
+897. [WipEout HD Blu-Ray Version - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/032/032811.html). Uk.ps3.ign.com. Retrieved on 2012-11-29.
 
-898. [The Witch and the Hundred
-     Knight](http://www.nisamerica.com/games/witch100/). nisamerica.com.
-     Retrieved on 2013-12-12.
+898. [The Witch and the Hundred Knight](http://www.nisamerica.com/games/witch100/). nisamerica.com. Retrieved on 2013-12-12.
 
-899. [Wolfenstein - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/954/954876.html). Ps3.ign.com
-     (2009-08-18). Retrieved on 2012-11-29.
+899. [Wolfenstein - PlayStation 3 - IGN](http://ps3.ign.com/objects/954/954876.html). Ps3.ign.com (2009-08-18). Retrieved on 2012-11-29.
 
 900.
 
 901.
 
-902. [World of Outlaws: Sprint Cars - PlayStation 3 -
-     IGN](http://www.ign.com/games/world-of-outlaws-sprint-cars-14333875/ps3-14333873)
-     Ps3.ign.com (2014-01-15)
+902. [World of Outlaws: Sprint Cars - PlayStation 3 - IGN](http://www.ign.com/games/world-of-outlaws-sprint-cars-14333875/ps3-14333873) Ps3.ign.com (2014-01-15)
 
-903. [World Series of Poker 2008: Battle for the Bracelets -
-     PlayStation 3 - IGN](http://ps3.ign.com/objects/948/948199.html).
-     Ps3.ign.com (2007-08-23). Retrieved on 2012-11-29.
+903. [World Series of Poker 2008: Battle for the Bracelets - PlayStation 3 - IGN](http://ps3.ign.com/objects/948/948199.html). Ps3.ign.com (2007-08-23). Retrieved on 2012-11-29.
 
-904. [World Snooker Championship 2007 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/825/825141.html). Ps3.ign.com
-     (2007-02-27). Retrieved on 2012-11-29.
+904. [World Snooker Championship 2007 - PlayStation 3 - IGN](http://ps3.ign.com/objects/825/825141.html). Ps3.ign.com (2007-02-27). Retrieved on 2012-11-29.
 
-905. [WRC FIA World Rally Championship - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/037/037041.html). Ps3.ign.com
-     (2010-08-06). Retrieved on 2012-11-29.
+905. [WRC FIA World Rally Championship - PlayStation 3 - IGN](http://ps3.ign.com/objects/037/037041.html). Ps3.ign.com (2010-08-06). Retrieved on 2012-11-29.
 
-906. [WSC Real 08: World Snooker Championship - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14255018.html). Ps3.ign.com
-     (2008-09-05). Retrieved on 2012-11-29.
+906. [WSC Real 08: World Snooker Championship - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14255018.html). Ps3.ign.com (2008-09-05). Retrieved on 2012-11-29.
 
-907. [WSC Real 09: World Snooker Championship - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/023/023453.html). Ps3.ign.com
-     (2009-04-03). Retrieved on 2012-11-29.
+907. [WSC Real 09: World Snooker Championship - PlayStation 3 - IGN](http://ps3.ign.com/objects/023/023453.html). Ps3.ign.com (2009-04-03). Retrieved on 2012-11-29.
 
-908. [WWE '12 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/109/109900.html) . Ps3.ign.com
-     (2011-10-18). Retrieved on 2012-11-29.
+908. [WWE '12 - PlayStation 3 - IGN](http://ps3.ign.com/objects/109/109900.html) . Ps3.ign.com (2011-10-18). Retrieved on 2012-11-29.
 
-909. [WWE All Stars - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/077/077293.html). Ps3.ign.com
-     (2011-03-28). Retrieved on 2012-11-29.
+909. [WWE All Stars - PlayStation 3 - IGN](http://ps3.ign.com/objects/077/077293.html). Ps3.ign.com (2011-03-28). Retrieved on 2012-11-29.
 
-910. [WWE Legends of WrestleMania - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14252213.html). Ps3.ign.com
-     (2009-03-24). Retrieved on 2012-11-29.
+910. [WWE Legends of WrestleMania - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14252213.html). Ps3.ign.com (2009-03-24). Retrieved on 2012-11-29.
 
-911. [WWE SmackDown vs. Raw 2008 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/844/844743.html). Ps3.ign.com
-     (2007-11-09). Retrieved on 2012-11-29.
+911. [WWE SmackDown vs. Raw 2008 - PlayStation 3 - IGN](http://ps3.ign.com/objects/844/844743.html). Ps3.ign.com (2007-11-09). Retrieved on 2012-11-29.
 
-912. [X Quest - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/813/813421.html). Ps3.ign.com
-     (2006-02-24). Retrieved on 2012-11-29.
+912. [X Quest - PlayStation 3 - IGN](http://ps3.ign.com/objects/813/813421.html). Ps3.ign.com (2006-02-24). Retrieved on 2012-11-29.
 
-913. [WWE SmackDown vs. Raw 2010 - PlayStation 3 -
-     IGN](http://uk.ps3.ign.com/objects/143/14347660.html).
-     Uk.ps3.ign.com (2009-10-26). Retrieved on 2012-11-29.
+913. [WWE SmackDown vs. Raw 2010 - PlayStation 3 - IGN](http://uk.ps3.ign.com/objects/143/14347660.html). Uk.ps3.ign.com (2009-10-26). Retrieved on 2012-11-29.
 
-914. [WWE SmackDown vs. Raw 2011 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/073/073316.html). Ps3.ign.com
-     (2010-10-21). Retrieved on 2012-11-29.
+914. [WWE SmackDown vs. Raw 2011 - PlayStation 3 - IGN](http://ps3.ign.com/objects/073/073316.html). Ps3.ign.com (2010-10-21). Retrieved on 2012-11-29.
 
-915. [X-Blades - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14238364.html). Ps3.ign.com
-     (2009-02-09). Retrieved on 2012-11-29.
+915. [X-Blades - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14238364.html). Ps3.ign.com (2009-02-09). Retrieved on 2012-11-29.
 
-916. [X-Men Origins: Wolverine - Uncaged Edition - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14267365.html). Ps3.ign.com
-     (2009-05-01). Retrieved on 2012-11-29.
+916. [X-Men Origins: Wolverine - Uncaged Edition - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14267365.html). Ps3.ign.com (2009-05-01). Retrieved on 2012-11-29.
 
 917.
 
@@ -15061,30 +13364,16 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 
 919.
 
-920. [Yakuza 3 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14263681.html). Ps3.ign.com
-     (2010-03-10). Retrieved on 2012-11-29.
+920. [Yakuza 3 - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14263681.html). Ps3.ign.com (2010-03-10). Retrieved on 2012-11-29.
 
-921. [Yakuza 4 - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/143/14347894.html). Ps3.ign.com
-     (2011-04-14). Retrieved on 2012-11-29.
+921. [Yakuza 4 - PlayStation 3 - IGN](http://ps3.ign.com/objects/143/14347894.html). Ps3.ign.com (2011-04-14). Retrieved on 2012-11-29.
 
-922. [Yakuza: Dead
-     Souls](http://www.gamespot.com/ps3/action/ryugagotoku5/index.html).
-     GameSpot.com (2012-03-13). Retrieved on 2012-11-29.
+922. [Yakuza: Dead Souls](http://www.gamespot.com/ps3/action/ryugagotoku5/index.html). GameSpot.com (2012-03-13). Retrieved on 2012-11-29.
 
-923. [Yamasa DigiWorld DX \[working
-     title](http://ps3.ign.com/objects/775/775529.html) - PlayStation 3
-     - IGN\]. Ps3.ign.com (2005-09-16). Retrieved on 2012-11-29.
+923. [Yamasa DigiWorld DX \[working title](http://ps3.ign.com/objects/775/775529.html) - PlayStation 3 - IGN\]. Ps3.ign.com (2005-09-16). Retrieved on 2012-11-29.
 
-924. [You Don't Know Jack - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/142/14260766.html). Ps3.ign.com
-     (2011-02-09). Retrieved on 2012-11-29.
+924. [You Don't Know Jack - PlayStation 3 - IGN](http://ps3.ign.com/objects/142/14260766.html). Ps3.ign.com (2011-02-09). Retrieved on 2012-11-29.
 
-925. [Zack Zero - PlayStation 3 -
-     IGN](http://au.ign.com/games/zack-zero/ps3-126666). Au.ign.com
-     (2012-01-15). Retrieved on 2012-11-29.
+925. [Zack Zero - PlayStation 3 - IGN](http://au.ign.com/games/zack-zero/ps3-126666). Au.ign.com (2012-01-15). Retrieved on 2012-11-29.
 
-926. [Zone of the Enders HD Collection - PlayStation 3 -
-     IGN](http://ps3.ign.com/objects/110/110049.html). Ps3.ign.com
-     (2012-09-28). Retrieved on 2012-11-29.
+926. [Zone of the Enders HD Collection - PlayStation 3 - IGN](http://ps3.ign.com/objects/110/110049.html). Ps3.ign.com (2012-09-28). Retrieved on 2012-11-29.

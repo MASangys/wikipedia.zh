@@ -10,20 +10,13 @@ AMC航空提供由[阿斯旺](../Page/阿斯旺.md "wikilink")、[洪加達](../
 
 该航空公司也有提供定期（包機）航班：
 
-  - [亞歷山大](../Page/亞歷山大.md "wikilink")（[博格薩爾瓦多阿拉伯機場](https://zh.wikipedia.org/wiki/博格薩爾瓦多阿拉伯機場 "wikilink")）-
-    [吉達](https://zh.wikipedia.org/wiki/吉達 "wikilink")（[阿卜杜勒-阿齊茲國王國際機場](https://zh.wikipedia.org/wiki/阿卜杜勒-阿齊茲國王國際機場 "wikilink")）
-    - 每星期兩班
-  - 亞歷山大（博格薩爾瓦多阿拉伯機場） -
-    [麥地那](https://zh.wikipedia.org/wiki/麥地那 "wikilink")（[穆罕默德·本·阿卜杜勒-阿齊茲親王國際機場](https://zh.wikipedia.org/wiki/穆罕默德·本·阿卜杜勒-阿齊茲親王國際機場 "wikilink")）
-    - 每星期兩班
-  - 亞歷山大（博格薩爾瓦多阿拉伯機場）-
-    [迪拜](https://zh.wikipedia.org/wiki/迪拜 "wikilink")（[迪拜國際機場](https://zh.wikipedia.org/wiki/迪拜國際機場 "wikilink")）
-    - 每星期一班
+  - [亞歷山大](../Page/亞歷山大.md "wikilink")（[博格薩爾瓦多阿拉伯機場](https://zh.wikipedia.org/wiki/博格薩爾瓦多阿拉伯機場 "wikilink")）- [吉達](https://zh.wikipedia.org/wiki/吉達 "wikilink")（[阿卜杜勒-阿齊茲國王國際機場](https://zh.wikipedia.org/wiki/阿卜杜勒-阿齊茲國王國際機場 "wikilink")） - 每星期兩班
+  - 亞歷山大（博格薩爾瓦多阿拉伯機場） - [麥地那](https://zh.wikipedia.org/wiki/麥地那 "wikilink")（[穆罕默德·本·阿卜杜勒-阿齊茲親王國際機場](https://zh.wikipedia.org/wiki/穆罕默德·本·阿卜杜勒-阿齊茲親王國際機場 "wikilink")） - 每星期兩班
+  - 亞歷山大（博格薩爾瓦多阿拉伯機場）- [迪拜](https://zh.wikipedia.org/wiki/迪拜 "wikilink")（[迪拜國際機場](https://zh.wikipedia.org/wiki/迪拜國際機場 "wikilink")） - 每星期一班
 
 ## 機隊
 
-[PKIERZKOWSKI_080520_SUBPZ_WAW.jpg](https://zh.wikipedia.org/wiki/File:PKIERZKOWSKI_080520_SUBPZ_WAW.jpg "fig:PKIERZKOWSKI_080520_SUBPZ_WAW.jpg")
-AMC航空有以下機隊（2012年12月）[1](http://www.ch-aviation.ch/aircraft.php?search=set&airline=AMV&al_op=1)：
+[PKIERZKOWSKI_080520_SUBPZ_WAW.jpg](https://zh.wikipedia.org/wiki/File:PKIERZKOWSKI_080520_SUBPZ_WAW.jpg "fig:PKIERZKOWSKI_080520_SUBPZ_WAW.jpg") AMC航空有以下機隊（2012年12月）[1](http://www.ch-aviation.ch/aircraft.php?search=set&airline=AMV&al_op=1)：
 
   - 4 架 [波音737-800](https://zh.wikipedia.org/wiki/波音737-800 "wikilink")
   - 1 架 [麥道MD-83](../Page/麥道MD-80.md "wikilink")
@@ -36,8 +29,7 @@ AMC航空有以下機隊（2012年12月）[1](http://www.ch-aviation.ch/aircraft
 
   - [AMC航空](http://www.amcairlines.com/)
 
-[Category:埃及航空公司](https://zh.wikipedia.org/wiki/Category:埃及航空公司 "wikilink")
-[Category:1992年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1992年成立的航空公司 "wikilink")
+[Category:埃及航空公司](https://zh.wikipedia.org/wiki/Category:埃及航空公司 "wikilink") [Category:1992年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1992年成立的航空公司 "wikilink")
 
 1.
 

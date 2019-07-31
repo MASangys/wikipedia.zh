@@ -1,5 +1,4 @@
-洛克人的第四個系列**洛克人EXE**於2001年誕生。所取的時間與洛克人（元祖）系列一樣，屬平行世界作品。遊戲作品混合了動作暨角色扮演和儲卡遊戲。日本電視動畫分別有
-無印、Axess、Stream、Beast和Beast+ 五套，其動畫於多個地方（美國、新加坡、香港等）電視台配音及播放，另外還有劇場版。
+洛克人的第四個系列**洛克人EXE**於2001年誕生。所取的時間與洛克人（元祖）系列一樣，屬平行世界作品。遊戲作品混合了動作暨角色扮演和儲卡遊戲。日本電視動畫分別有 無印、Axess、Stream、Beast和Beast+ 五套，其動畫於多個地方（美國、新加坡、香港等）電視台配音及播放，另外還有劇場版。
 
 ## 遊戲背景
 
@@ -44,10 +43,8 @@
 
 ### EXE戰鬥晶片GP/N1大賽
 
-在[3的N](https://zh.wikipedia.org/wiki/#EXE3 "wikilink")1大賽結束後，意猶未盡的各操縱者收到電郵，邀請參予「BATTLE
-CHIP GRAND PIX」大會。
-本次可使用不同的領航員。此外，本次的對戰方式與前作或後來的作品均不同。整場戰鬥全由電腦自動操縱，並且藉由「Program
-Deck」來控制晶片使用順序。
+在[3的N](https://zh.wikipedia.org/wiki/#EXE3 "wikilink")1大賽結束後，意猶未盡的各操縱者收到電郵，邀請參予「BATTLE CHIP GRAND PIX」大會。
+本次可使用不同的領航員。此外，本次的對戰方式與前作或後來的作品均不同。整場戰鬥全由電腦自動操縱，並且藉由「Program Deck」來控制晶片使用順序。
 
 其中GP大賽(對戰晶片大賽)跟Ｎ１大賽實際內容類同，但兩者分別在於一款屬於[GBA版本](../Page/Game_Boy_Advance.md "wikilink")(GP大賽)、另一款[WSC版本](../Page/WonderSwan_Color.md "wikilink")(Ｎ１大賽)。
 
@@ -57,11 +54,9 @@ Deck」來控制晶片使用順序。
 
 ### EXE4
 
-WWW的大戰5個月後…
-從WWW基地凱旋歸來的熱斗和洛克人升上6年級。就在大家充實的過著和平的生活時，NASA卻偵測到有小行星正逐漸接近地球，因此組成了危機應變小組。
+WWW的大戰5個月後… 從WWW基地凱旋歸來的熱斗和洛克人升上6年級。就在大家充實的過著和平的生活時，NASA卻偵測到有小行星正逐漸接近地球，因此組成了危機應變小組。
 
-熱斗與爸爸在隔了好久後終於可以一起出來買東西了。吃完早餐後，熱斗與爸爸一起到電氣街新開的電氣屋買東西，偶然遇見也來買東西的美露和伊朵。
-2人看著擺在櫥窗裡的立體音響。
+熱斗與爸爸在隔了好久後終於可以一起出來買東西了。吃完早餐後，熱斗與爸爸一起到電氣街新開的電氣屋買東西，偶然遇見也來買東西的美露和伊朵。 2人看著擺在櫥窗裡的立體音響。
 
 「熱斗，現在蘿露和葛萊德也在這個立體音響的電腦世界裡面。熱斗你要不要連線進入看看？」
 
@@ -105,8 +100,7 @@ WWW的大戰5個月後…
 
 ### EXE5
 
-利格爾博士跳樓卻死不了！他為了征服地球，利用尼比拉格雷（[Nebula](https://zh.wikipedia.org/wiki/星雲 "wikilink")
-Grey）來攻擊心靈網絡！這作加入了「解放任務」，是一個棋盤遊戲，亦新增了靈體共鳴和黑暗晶片的融合──混沌共鳴。
+利格爾博士跳樓卻死不了！他為了征服地球，利用尼比拉格雷（[Nebula](https://zh.wikipedia.org/wiki/星雲 "wikilink") Grey）來攻擊心靈網絡！這作加入了「解放任務」，是一個棋盤遊戲，亦新增了靈體共鳴和黑暗晶片的融合──混沌共鳴。
 
   - （ＧＢＡ）
 
@@ -118,7 +112,7 @@ Grey）來攻擊心靈網絡！這作加入了「解放任務」，是一個棋�
 
 ### EXE5DS
 
-與EXE5的內容大致相同，但遊戲內容變更成兩部作品融合，但是在[任天堂DS中執行](../Page/任天堂DS.md "wikilink")，因此也增加了不少功能。
+與EXE5的內容大致相同，但遊戲內容變更成兩部作品融合，但是在[任天堂DS](../Page/任天堂DS.md "wikilink")中執行，因此也增加了不少功能。
 
   - （ＮＤＳ）（╱ Double Team DS）
 
@@ -219,6 +213,4 @@ EXE6是EXE系列中屬於正式的最後一作。WWW為奪取電腦獸而再度�
   - [洛克人EXE劇場版中文官方網站](http://www.e-muse.com.tw/property/rockman/introduction/20070613_ova/)
   - [洛克人EXE官方網站](http://www.rockman-exe.com/)
 
-[Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink")
-[Category:21世紀背景作品](https://zh.wikipedia.org/wiki/Category:21世紀背景作品 "wikilink")
-[Category:洛克人EXE系列](https://zh.wikipedia.org/wiki/Category:洛克人EXE系列 "wikilink")
+[Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink") [Category:21世紀背景作品](https://zh.wikipedia.org/wiki/Category:21世紀背景作品 "wikilink") [Category:洛克人EXE系列](https://zh.wikipedia.org/wiki/Category:洛克人EXE系列 "wikilink")

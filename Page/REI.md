@@ -17,13 +17,10 @@
 
 <!-- end list -->
 
-  - 「Magic a Ride
-    ～魔女騎士～」日文版（[すたじお綠茶](https://zh.wikipedia.org/wiki/すたじお綠茶 "wikilink")）2008年7月4日發售、中文版（[未來數位](../Page/未來數位.md "wikilink")）2009年1月31日發售
-  - 「しゅ～てぃんぐ妹スター☆ ～お兄ちゃん、覚悟しててよね♪～」日文版（[Grand
-    Cru](https://zh.wikipedia.org/wiki/Grand_Cru "wikilink")）2011年3月31日發售
+  - 「Magic a Ride ～魔女騎士～」日文版（[すたじお綠茶](https://zh.wikipedia.org/wiki/すたじお綠茶 "wikilink")）2008年7月4日發售、中文版（[未來數位](../Page/未來數位.md "wikilink")）2009年1月31日發售
+  - 「しゅ～てぃんぐ妹スター☆ ～お兄ちゃん、覚悟しててよね♪～」日文版（[Grand Cru](https://zh.wikipedia.org/wiki/Grand_Cru "wikilink")）2011年3月31日發售
   - 「放課後キッチン」日文版（[あてゅ・わぁくす](https://zh.wikipedia.org/wiki/あてゅ・わぁくす "wikilink")）2011年10月28日發售
-  - 「[Friend to
-    Lover](../Page/Friend_to_Lover.md "wikilink")」（[SMEE](../Page/HOOKSOFT.md "wikilink")）2013年6月28日發售
+  - 「[Friend to Lover](../Page/Friend_to_Lover.md "wikilink")」（[SMEE](../Page/HOOKSOFT.md "wikilink")）2013年6月28日發售
 
 <!-- end list -->
 
@@ -43,9 +40,7 @@
 
 <!-- end list -->
 
-  - 繪圖郵件(パステルポスト)（[Manganove](https://zh.wikipedia.org/wiki/Manganove "wikilink")）
-    - [Webcomic](https://zh.wikipedia.org/wiki/Webcomic "wikilink")
-    2007年 - 2008年 連載
+  - 繪圖郵件(パステルポスト)（[Manganove](https://zh.wikipedia.org/wiki/Manganove "wikilink")） - [Webcomic](https://zh.wikipedia.org/wiki/Webcomic "wikilink") 2007年 - 2008年 連載
 
 <!-- end list -->
 
@@ -54,8 +49,7 @@
 <!-- end list -->
 
   - 台灣動漫專賣店[綠林寮](http://www.greenwood.com.tw/)的看板娘「小綠」人物設計及插圖。
-  - 台灣的動漫喫茶店[Cafe
-    Cosic](https://web.archive.org/web/20090825215410/http://www.cosic.com.tw/)制服設定
+  - 台灣的動漫喫茶店[Cafe Cosic](https://web.archive.org/web/20090825215410/http://www.cosic.com.tw/)制服設定
   - 《[E☆2](https://zh.wikipedia.org/wiki/E☆2 "wikilink")》的畫集「台灣的少女」封面繪者/參加者之一
 
 <!-- end list -->
@@ -77,6 +71,4 @@
   - [魔女騎士](http://future-digi.com/magicaride/index.html)
   - [珈琲可思客](https://web.archive.org/web/20090825215410/http://www.cosic.com.tw/)
 
-[Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink")
-[Category:電子遊戲繪圖及原畫家](https://zh.wikipedia.org/wiki/Category:電子遊戲繪圖及原畫家 "wikilink")
-[Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink")
+[Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink") [Category:電子遊戲繪圖及原畫家](https://zh.wikipedia.org/wiki/Category:電子遊戲繪圖及原畫家 "wikilink") [Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink")

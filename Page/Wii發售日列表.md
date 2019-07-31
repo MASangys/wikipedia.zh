@@ -220,8 +220,7 @@
 
 <div class="references-small">
 
-\*：所有地區發售的Wii主機都有隨包裝附贈《*[Wii
-Sports](../Page/Wii_Sports.md "wikilink")*》遊戲軟體，[日本除外](../Page/日本.md "wikilink")
+\*：所有地區發售的Wii主機都有隨包裝附贈《*[Wii Sports](../Page/Wii_Sports.md "wikilink")*》遊戲軟體，[日本](../Page/日本.md "wikilink")除外
 ‡：並非建議售價，而是任天堂估計的市場零售價\[24\]
 §：實際市場上的售價可能更低
 
@@ -229,31 +228,21 @@ Sports](../Page/Wii_Sports.md "wikilink")*》遊戲軟體，[日本除外](../Pa
 
 </div>
 
-[Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink")
-[Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink")
+[Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink") [Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink")
 
-1.  Nintendo（2006年9月14日）[Nintendo's Incomparable Wii Console Launches
-    Nov. 19; MSRP -{zh-cn:￥;
-    zh-hant:$;}-250.00](http://www.nintendo.com/newsarticle?articleid=aT85VZmuLFtGkO9m1HSsJ2PdSlh7Sc0b&page=)
-    ，*Nintendo.com*
+1.  Nintendo（2006年9月14日）[Nintendo's Incomparable Wii Console Launches Nov. 19; MSRP -{zh-cn:￥; zh-hant:$;}-250.00](http://www.nintendo.com/newsarticle?articleid=aT85VZmuLFtGkO9m1HSsJ2PdSlh7Sc0b&page=) ，*Nintendo.com*
 
-2.  CNW Group（2006年9月17日）[Nintendo's Incomparable Wii Console Launches
-    Nov. 19; MSRP -{zh-cn:￥;
-    zh-hant:$;}-279.95](http://www.newswire.ca/en/releases/archive/September2006/14/c6047.html)
-    ，*Newswire.ca*
+2.  CNW Group（2006年9月17日）[Nintendo's Incomparable Wii Console Launches Nov. 19; MSRP -{zh-cn:￥; zh-hant:$;}-279.95](http://www.newswire.ca/en/releases/archive/September2006/14/c6047.html) ，*Newswire.ca*
 
 3.
 
 4.  ZMART [Wii](http://www.zmart.cl/Scripts/prodView.asp?idProduct=2184)
 
-5.  NintendoLife.com（2006年12月2日），[Brazilian Wii to cost over
-    USD 1,100](http://www.nintendolife.com/articles/2006/11/07/brazilian_wii_to_cost_over_usd1100)，*nintendolife.com*
+5.  NintendoLife.com（2006年12月2日），[Brazilian Wii to cost over USD 1,100](http://www.nintendolife.com/articles/2006/11/07/brazilian_wii_to_cost_over_usd1100)，*nintendolife.com*
 
-6.  Kathleen Sanders（2006年9月13日）[Japanese Wii Price, Release Date
-    Revealed](http://wii.ign.com/articles/732/732644p1.html) ，*IGN.com*
+6.  Kathleen Sanders（2006年9月13日）[Japanese Wii Price, Release Date Revealed](http://wii.ign.com/articles/732/732644p1.html) ，*IGN.com*
 
-7.  Nintendo（2006年9月15日）[Wii Australian
-    details](http://www.planetgamecube.com/newsArt.cfm?artid=12068)，*Planetgamecube.com*
+7.  Nintendo（2006年9月15日）[Wii Australian details](http://www.planetgamecube.com/newsArt.cfm?artid=12068)，*Planetgamecube.com*
 
 8.
 
@@ -261,17 +250,14 @@ Sports](../Page/Wii_Sports.md "wikilink")*》遊戲軟體，[日本除外](../Pa
 
 10.
 
-11. Planet GameCube（2006年9月15日）[Europe Gets Wii
-    Last](http://www.nintendoworldreport.com/newsArt.cfm?artid=12069)，*Planetgamecube.com*
+11. Planet GameCube（2006年9月15日）[Europe Gets Wii Last](http://www.nintendoworldreport.com/newsArt.cfm?artid=12069)，*Planetgamecube.com*
 
 12.
 13.
 
 14. Hardware.no - Prisguide ，*Hardware.no*
 
-15. Hardware.no - Prisguide
-    [2](http://prisguide.hardware.no/product.php?productId=31928),
-    *hardware.no*
+15. Hardware.no - Prisguide [2](http://prisguide.hardware.no/product.php?productId=31928), *hardware.no*
 
 16.
 

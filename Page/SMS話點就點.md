@@ -1,6 +1,6 @@
-《**話點就點**》，[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的音樂節目](../Page/電視廣播有限公司.md "wikilink")，是[香港第一個以](../Page/香港.md "wikilink")[電話簡訊點唱的音樂節目](../Page/簡訊.md "wikilink")。
+《**話點就點**》，[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的音樂節目，是[香港](../Page/香港.md "wikilink")第一個以[電話簡訊點唱的音樂節目](../Page/簡訊.md "wikilink")。
 
-《話點就點》於2002年9月23日至2004年7月17日期間，初期在星期一至星期五的17:45-18:15在[電視廣播有限公司旗下頻道](../Page/電視廣播有限公司.md "wikilink")[翡翠台播出](../Page/翡翠台.md "wikilink")。後來在2003年5月10日開始改在[香港時間逢星期六](../Page/香港時間.md "wikilink")14:55-15:55在[電視廣播有限公司旗下頻道](../Page/電視廣播有限公司.md "wikilink")[翡翠台播出](../Page/翡翠台.md "wikilink")，其後由同類型音樂節目《[音樂潮giv](https://zh.wikipedia.org/wiki/音樂潮@giv "wikilink")》取代。
+《話點就點》於2002年9月23日至2004年7月17日期間，初期在星期一至星期五的17:45-18:15在[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下頻道[翡翠台](../Page/翡翠台.md "wikilink")播出。後來在2003年5月10日開始改在[香港時間](../Page/香港時間.md "wikilink")逢星期六14:55-15:55在[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下頻道[翡翠台](../Page/翡翠台.md "wikilink")播出，其後由同類型音樂節目《[音樂潮giv](https://zh.wikipedia.org/wiki/音樂潮@giv "wikilink")》取代。
 
 ## 主持
 

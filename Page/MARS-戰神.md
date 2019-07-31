@@ -451,11 +451,7 @@
   - 制作 - [AX-ON](https://zh.wikipedia.org/wiki/AX-ON "wikilink")
   - 制作協力 - AOI Pro.
   - 發行 - [Show Gate](https://zh.wikipedia.org/wiki/Show_Gate "wikilink")
-  - 製作 -
-    劇場版「MARS～只是愛著你～」製作委員會（日本電視台電視網、[VAP](../Page/VAP.md "wikilink")、博報堂DY
-    Music &
-    Pictures、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、AOI
-    Pro.、[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[中京電視台](../Page/中京電視台.md "wikilink")、[札幌電視台](https://zh.wikipedia.org/wiki/札幌電視台 "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")）
+  - 製作 - 劇場版「MARS～只是愛著你～」製作委員會（日本電視台電視網、[VAP](../Page/VAP.md "wikilink")、博報堂DY Music & Pictures、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、AOI Pro.、[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[中京電視台](../Page/中京電視台.md "wikilink")、[札幌電視台](https://zh.wikipedia.org/wiki/札幌電視台 "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")）
 
 ## 參考資訊
 
@@ -465,25 +461,6 @@
   - [MARS～只是愛著你～官方網站](http://www.ntv.co.jp/mars/)
   - [MARS～只是愛著你～官方網站](http://mars-love.jp/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink")
-[Category:機車題材作品](https://zh.wikipedia.org/wiki/Category:機車題材作品 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:日本電視台週六深夜連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週六深夜連續劇 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:2016年日本電影](https://zh.wikipedia.org/wiki/Category:2016年日本電影 "wikilink")
-[Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
-[Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink")
-[Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink")
-[Category:雙胞胎題材電影](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電影 "wikilink")
-[Category:機車題材電影](https://zh.wikipedia.org/wiki/Category:機車題材電影 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink") [Category:機車題材作品](https://zh.wikipedia.org/wiki/Category:機車題材作品 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:日本電視台週六深夜連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週六深夜連續劇 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:2016年日本電影](https://zh.wikipedia.org/wiki/Category:2016年日本電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:雙胞胎題材電影](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電影 "wikilink") [Category:機車題材電影](https://zh.wikipedia.org/wiki/Category:機車題材電影 "wikilink")
 
 1.

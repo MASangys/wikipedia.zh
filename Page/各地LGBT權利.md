@@ -34,8 +34,7 @@ LGBT權利的[人權論述在](https://zh.wikipedia.org/wiki/人權 "wikilink")1
   - 跨性別者可施行[性別重置手術](../Page/性別重置手術.md "wikilink")和[激素替代療法](../Page/激素替代療法.md "wikilink")
   - 政府允許性別變更登記（承認其性別身份）
 
-[反對LGBT權益](../Page/反對LGBT權益.md "wikilink")的法律包括[性悖軌法](../Page/性悖軌法.md "wikilink")（sodomy
-law）的制定：處罰合意的同性性行為，為同性性行為制定較高的性交[同意年齡](https://zh.wikipedia.org/wiki/最低合法性交年齡 "wikilink")，LGBT相關的[言論自由](../Page/言論自由.md "wikilink")以及[集會自由](../Page/集會自由.md "wikilink")、[結社自由](../Page/結社自由.md "wikilink")受到法律限制等等。
+[反對LGBT權益](../Page/反對LGBT權益.md "wikilink")的法律包括[性悖軌法](../Page/性悖軌法.md "wikilink")（sodomy law）的制定：處罰合意的同性性行為，為同性性行為制定較高的性交[同意年齡](https://zh.wikipedia.org/wiki/最低合法性交年齡 "wikilink")，LGBT相關的[言論自由](../Page/言論自由.md "wikilink")以及[集會自由](../Page/集會自由.md "wikilink")、[結社自由](../Page/結社自由.md "wikilink")受到法律限制等等。
 
 2011年，[聯合國通過首份承認LGBT權利的決議案](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，隨後並提出侵犯LGBT權利的報告，具體調查世界各國境內仇恨罪、同性性行為之刑事定罪以及相關歧視等行為。\[3\]\[4\]
 
@@ -47,12 +46,9 @@ law）的制定：處罰合意的同性性行為，為同性性行為制定較�
 
 根據學者們的推測，最早有關於[亞伯拉罕諸教](../Page/亞伯拉罕諸教.md "wikilink")法律中可能*反對*同性性行為的紀錄，是出於西元前550年時[巴比倫囚虜中的](https://zh.wikipedia.org/wiki/巴比倫囚虜 "wikilink")[猶太人](https://zh.wikipedia.org/wiki/猶太人 "wikilink")，在他們的經典[利未記](../Page/利未記.md "wikilink")中紀載（雖然一些保守的學者認為年代要更早於利未記），規定男男之間的同性性交處以死刑。而在同一個時代，在許多的其他宗教信仰中同性關係是被包容的。
 
-一些人們因此相信亞伯拉罕諸教信仰是法律處罰同性性行為的源頭，不過類似的情形也在[印歐語系民族的文化中可以發現](https://zh.wikipedia.org/wiki/印歐語系 "wikilink")，比如[古羅馬律法](https://zh.wikipedia.org/wiki/古羅馬 "wikilink")*Lex
-Scantinia*以及原始日耳曼民族的神話*nith*，或者是西元前1075年的[亞述法律紀錄](https://zh.wikipedia.org/wiki/亞述 "wikilink")。\[8\].
+一些人們因此相信亞伯拉罕諸教信仰是法律處罰同性性行為的源頭，不過類似的情形也在[印歐語系民族的文化中可以發現](https://zh.wikipedia.org/wiki/印歐語系 "wikilink")，比如[古羅馬律法](https://zh.wikipedia.org/wiki/古羅馬 "wikilink")*Lex Scantinia*以及原始日耳曼民族的神話*nith*，或者是西元前1075年的[亞述法律紀錄](https://zh.wikipedia.org/wiki/亞述 "wikilink")。\[8\].
 
-透過傳統[猶太教](https://zh.wikipedia.org/wiki/猶太教 "wikilink")、[基督教](../Page/基督教.md "wikilink")和[伊斯蘭教的闡釋](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")，懲罰同志的法律持續地在歷史上延續。隨著[殖民主義的到來](https://zh.wikipedia.org/wiki/殖民主義 "wikilink")，那些亞伯拉罕諸教信仰的國家，將這種價值觀伴隨著[帝國主義的政治控制擴張到世界各地](https://zh.wikipedia.org/wiki/帝國主義 "wikilink")。
-中國傳統理念中對於同性戀情並沒有明確地指責，甚至在部分地區存在有「[契兄弟](https://zh.wikipedia.org/wiki/契兄弟 "wikilink")」相稱的同性情侶\[9\]，《[聊齋誌異](https://zh.wikipedia.org/wiki/聊齋誌異 "wikilink")》等名著中也多有描寫。近代以來，由於殖民統治時期傳入的亞伯拉罕宗教思想及民間傳統觀念對於生育的認知，同性戀成為了一種「罪惡」與不潔的道德。中華人民共和國建立後，曾一度將同性性行為列入流氓罪進行處罰，直到1997年才除罪化。\[10\]
-通常法律反對同性性行為和主要支持者時，亞伯拉罕諸教信仰是主要因素。但是事实上中国的流氓罪定義籠統，且法律本身並不針對同性戀群體。又由于文化大革命時期执法的随意性，这给予了世俗中的反对非婚性行为者惩罚違背傳統生育理念以及同性性行为者的借口，而且實際案例也相对较少。法律界对此是否能将1997年将流氓罪具体化视为對同性性行為的非罪化與去污名化，以及是否存在同性性行為法定有罪的情况目前有争议。\[11\]
+透過傳統[猶太教](https://zh.wikipedia.org/wiki/猶太教 "wikilink")、[基督教](../Page/基督教.md "wikilink")和[伊斯蘭教的闡釋](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")，懲罰同志的法律持續地在歷史上延續。隨著[殖民主義的到來](https://zh.wikipedia.org/wiki/殖民主義 "wikilink")，那些亞伯拉罕諸教信仰的國家，將這種價值觀伴隨著[帝國主義的政治控制擴張到世界各地](https://zh.wikipedia.org/wiki/帝國主義 "wikilink")。 中國傳統理念中對於同性戀情並沒有明確地指責，甚至在部分地區存在有「[契兄弟](https://zh.wikipedia.org/wiki/契兄弟 "wikilink")」相稱的同性情侶\[9\]，《[聊齋誌異](https://zh.wikipedia.org/wiki/聊齋誌異 "wikilink")》等名著中也多有描寫。近代以來，由於殖民統治時期傳入的亞伯拉罕宗教思想及民間傳統觀念對於生育的認知，同性戀成為了一種「罪惡」與不潔的道德。中華人民共和國建立後，曾一度將同性性行為列入流氓罪進行處罰，直到1997年才除罪化。\[10\] 通常法律反對同性性行為和主要支持者時，亞伯拉罕諸教信仰是主要因素。但是事实上中国的流氓罪定義籠統，且法律本身並不針對同性戀群體。又由于文化大革命時期执法的随意性，这给予了世俗中的反对非婚性行为者惩罚違背傳統生育理念以及同性性行为者的借口，而且實際案例也相对较少。法律界对此是否能将1997年将流氓罪具体化视为對同性性行為的非罪化與去污名化，以及是否存在同性性行為法定有罪的情况目前有争议。\[11\]
 
 ## 世界各國家或地區關於同性戀的法律規定
 
@@ -68,8 +64,7 @@ Scantinia*以及原始日耳曼民族的神話*nith*，或者是西元前1075年
 
 ## GILRHO
 
-法律認可同性傾向之全球指數（GILRHO，Global Index on Legal Recognition of Homosexual
-Orientation）
+法律認可同性傾向之全球指數（GILRHO，Global Index on Legal Recognition of Homosexual Orientation）
 
   - A. 成人間的合意同性性行為合法與否。
   - B. 合意的同性性行為和異性性行為相比，其合法性是否有相同年齡限制。
@@ -84,8 +79,7 @@ Orientation）
 
 ## TvT
 
-TRANSREPECT VERSUS TRANSPHOBIA WORLDWIDE
-[1](https://www.usaid.gov/sites/default/files/documents/15396/lgbt-inclusion-and-development-november-2014.pdf)
+TRANSREPECT VERSUS TRANSPHOBIA WORLDWIDE [1](https://www.usaid.gov/sites/default/files/documents/15396/lgbt-inclusion-and-development-november-2014.pdf)
 
 ## 參見
 
@@ -115,8 +109,7 @@ TRANSREPECT VERSUS TRANSPHOBIA WORLDWIDE
       - [世界同性恋权利地图（2012年版）](https://web.archive.org/web/20130308042918/http://old.ilga.org/Statehomophobia/ILGA_map_2012_A4.pdf)
 
   -
-  - [美国大赦国际：世界各地LGBT合法地位](https://web.archive.org/web/20100516054224/http://www.amnestyusa.org/lgbt-human-rights/country-information/page.do?id=1106576)
-    — 互动式地图
+  - [美国大赦国际：世界各地LGBT合法地位](https://web.archive.org/web/20100516054224/http://www.amnestyusa.org/lgbt-human-rights/country-information/page.do?id=1106576) — 互动式地图
 
   - [GayLawNet: 法律](http://www.gaylawnet.com/laws/laws.htm)
 
@@ -124,15 +117,13 @@ TRANSREPECT VERSUS TRANSPHOBIA WORLDWIDE
 
       - [法律信息研究资源链接](https://web.archive.org/web/20111228093601/http://www.iglhrc.org/cgi-bin/iowa/content/takeaction/resourcecenter/index.html)
 
-  - [国际法律家委员会](../Page/国际法律家委员会.md "wikilink")：[性倾向，性别认同与正义 -
-    比较法案例汇编](https://web.archive.org/web/20120118183926/http://www.icj.org/dwn/database/Sexual%20Orientation%2C%20Gender%20Identity%20and%20Justice-%20A%20Comparative%20Law%20Casebook%5B1%5D.pdf)
+  - [国际法律家委员会](../Page/国际法律家委员会.md "wikilink")：[性倾向，性别认同与正义 - 比较法案例汇编](https://web.archive.org/web/20120118183926/http://www.icj.org/dwn/database/Sexual%20Orientation%2C%20Gender%20Identity%20and%20Justice-%20A%20Comparative%20Law%20Casebook%5B1%5D.pdf)
 
   - [联合国](https://zh.wikipedia.org/wiki/联合国 "wikilink")[人权理事会](../Page/联合国人权理事会.md "wikilink")：[基于性取向和性别认同的歧视性法律和对个人的暴力行为](http://www2.ohchr.org/english/bodies/hrcouncil/docs/19session/A.HRC.19.41_English.pdf)年度报告C
 
 {{-}}
 
-[Category:各地LGBT權利](https://zh.wikipedia.org/wiki/Category:各地LGBT權利 "wikilink")
-[Category:LGBT相關法律](https://zh.wikipedia.org/wiki/Category:LGBT相關法律 "wikilink")
+[Category:各地LGBT權利](https://zh.wikipedia.org/wiki/Category:各地LGBT權利 "wikilink") [Category:LGBT相關法律](https://zh.wikipedia.org/wiki/Category:LGBT相關法律 "wikilink")
 
 1.
 2.
@@ -141,13 +132,8 @@ TRANSREPECT VERSUS TRANSPHOBIA WORLDWIDE
 5.
 6.
 7.
-8.  The Middle [Assyrian Law
-    Codes](https://zh.wikipedia.org/wiki/Assyrian_law "wikilink") (1075
-    BC) states: *"If a man have intercourse with his brother-in-arms,
-    they shall turn him into a eunuch"*, see [Sodomy
-    law\#History](https://zh.wikipedia.org/wiki/Sodomy_law#History "wikilink")
+8.  The Middle [Assyrian Law Codes](https://zh.wikipedia.org/wiki/Assyrian_law "wikilink") (1075 BC) states: *"If a man have intercourse with his brother-in-arms, they shall turn him into a eunuch"*, see [Sodomy law\#History](https://zh.wikipedia.org/wiki/Sodomy_law#History "wikilink")
 9.  <https://m.guokr.com/article/59746/>
-10. "[Quiet pink revolution in dark before
-    dawn?](http://news.xinhuanet.com/english/2005-12/26/content_3970520.htm)"
+10. "[Quiet pink revolution in dark before dawn?](http://news.xinhuanet.com/english/2005-12/26/content_3970520.htm)"
 11.
 12. <http://lgbtsciencedigest.blogspot.hk/2017/05/blog-post.html>\]

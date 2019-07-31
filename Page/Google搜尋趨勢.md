@@ -20,9 +20,7 @@ Googl搜索解析可以对数个不同的条目的搜索行为进行比较，也
 
 {{-}}
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:搜索引擎](https://zh.wikipedia.org/wiki/Category:搜索引擎 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:搜索引擎](https://zh.wikipedia.org/wiki/Category:搜索引擎 "wikilink")
 
-1.  ["Official Google AdWords Blog: 'Announcing Google Insights for
-    Search'"](http://adwords.blogspot.com/2008/08/announcing-google-insights-for-search.html)
+1.  ["Official Google AdWords Blog: 'Announcing Google Insights for Search'"](http://adwords.blogspot.com/2008/08/announcing-google-insights-for-search.html)
 2.

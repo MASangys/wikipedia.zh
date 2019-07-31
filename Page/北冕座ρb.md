@@ -14,7 +14,4 @@
   -
 {{-}}
 
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:北冕座](https://zh.wikipedia.org/wiki/Category:北冕座 "wikilink")
-[Category:1997年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1997年发现的系外行星 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:北冕座](https://zh.wikipedia.org/wiki/Category:北冕座 "wikilink") [Category:1997年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1997年发现的系外行星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")

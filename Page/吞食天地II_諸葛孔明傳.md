@@ -28,17 +28,9 @@
 
 ## 參考文獻
 
-[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:红白机独占游戏](https://zh.wikipedia.org/wiki/Category:红白机独占游戏 "wikilink")
-[Category:三國題材電子遊戲](https://zh.wikipedia.org/wiki/Category:三國題材電子遊戲 "wikilink")
-[Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
+[Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:红白机独占游戏](https://zh.wikipedia.org/wiki/Category:红白机独占游戏 "wikilink") [Category:三國題材電子遊戲](https://zh.wikipedia.org/wiki/Category:三國題材電子遊戲 "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
 
-1.  [*tenchiokurau ii
-    shokatsukmeiden*](http://www.mobygames.com/game/nes/tenchi-o-kurau-ii-shokatsu-kmei-den)
-    game overview at
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+1.  [*tenchiokurau ii shokatsukmeiden*](http://www.mobygames.com/game/nes/tenchi-o-kurau-ii-shokatsu-kmei-den) game overview at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 2.
 3.
 4.

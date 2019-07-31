@@ -1,10 +1,8 @@
-受控环境下的项目管理第二版（**PRojects IN Controlled
-Environments**，简写为PRINCE2）是一种[项目管理](../Page/项目管理.md "wikilink")[方法](https://zh.wikipedia.org/wiki/方法 "wikilink")。它包括项目的管理，控制和组织。“PRINCE2”是这种方法的第二个重要版本，并且是[政府商务部的注册商标](https://zh.wikipedia.org/wiki/政府商务部 "wikilink")，该部门是[英国财政部](../Page/英国财政部.md "wikilink")的一个独立机构。
+受控环境下的项目管理第二版（**PRojects IN Controlled Environments**，简写为PRINCE2）是一种[项目管理](../Page/项目管理.md "wikilink")[方法](https://zh.wikipedia.org/wiki/方法 "wikilink")。它包括项目的管理，控制和组织。“PRINCE2”是这种方法的第二个重要版本，并且是[政府商务部的注册商标](https://zh.wikipedia.org/wiki/政府商务部 "wikilink")，该部门是[英国财政部](../Page/英国财政部.md "wikilink")的一个独立机构。
 
 ## 发展历程
 
-PRINCE2起源于之前的PRINCE项目管理方法。PRINCE最早是在1989年由英国政府计算机和电信中心（CCTA）开发的，作为英国政府IT项目管理的标准。但是，它很快就被应用于IT以外的项目环境中。PRINCE2在1996年作为一种通用的项目管理方法正式出版。PRINCE2如今日益流行，是英国项目管理的标准。它已在除英国外50多个国家广泛使用。当前的最新版本是OGC在2009年出版的PRINCE2
-2009。
+PRINCE2起源于之前的PRINCE项目管理方法。PRINCE最早是在1989年由英国政府计算机和电信中心（CCTA）开发的，作为英国政府IT项目管理的标准。但是，它很快就被应用于IT以外的项目环境中。PRINCE2在1996年作为一种通用的项目管理方法正式出版。PRINCE2如今日益流行，是英国项目管理的标准。它已在除英国外50多个国家广泛使用。当前的最新版本是OGC在2009年出版的PRINCE2 2009。
 
 ## PRINCE2方法介绍
 
@@ -117,8 +115,7 @@ PRINCE2方法可以与大多数[项目管理技术搭配使用](https://zh.wikip
 
 1.任何项目和项目管理，均是一个“输入－→实施－→输出”的过程。项目的各子项目、各阶段、及各分解产品包也是如此。PROJECT　IN　BOX。
 2.项目管理不是一个人的事。必须由一个项目组织，进行各级授权OBS，共同并行工作。授权已经发展到向三维方向授权――产品分解PBS（做什么？）、项目过程分解WBS（如何作？）、项目职能目标分解DBS（为什么？）。
-3.项目在分解授权的同时，也必须是分层管理――公司管理层（看项目结果：输入、输出）、项目管理委员会（要点控制：授权项目负责人、项目是否值得、计划是否合理、下阶段是否进行、项目是否完成、项目目标是否达到）、项目经理（日常管理：项目上所有管理的事）、分包合同或工作包小组经理（具体操作：按分包合同或工作包目标具体操作。）。
-同时，项目的各项计划也是分层进行编制、上报、审核、检查、评审的管理。项目的各职能计划也发展到向三维方向分解――产品分解PBS（做什么？，合同包或工作包计划）、项目过程分解WBS（如何作？，阶段或时间滚动计划）、项目职能目标分解DBS（为什么？，各专项计划例如风险计划、配置计划、进度计划、质量检查计划、资源配置计划、资金预算计划、成本统计……）。
+3.项目在分解授权的同时，也必须是分层管理――公司管理层（看项目结果：输入、输出）、项目管理委员会（要点控制：授权项目负责人、项目是否值得、计划是否合理、下阶段是否进行、项目是否完成、项目目标是否达到）、项目经理（日常管理：项目上所有管理的事）、分包合同或工作包小组经理（具体操作：按分包合同或工作包目标具体操作。）。 同时，项目的各项计划也是分层进行编制、上报、审核、检查、评审的管理。项目的各职能计划也发展到向三维方向分解――产品分解PBS（做什么？，合同包或工作包计划）、项目过程分解WBS（如何作？，阶段或时间滚动计划）、项目职能目标分解DBS（为什么？，各专项计划例如风险计划、配置计划、进度计划、质量检查计划、资源配置计划、资金预算计划、成本统计……）。
 4.项目在输入条件后，实施阶段主要工作是控制。必须通过8个过程――SU、DP、IP、CS、MP、SB、CP、PL，最终产生项目输出结果。
 5.在项目控制过程中，始终要进行项目的职能管理（8个项目组件）――按项目目标的顺序分解DBS（为什么？）如下――商业论证、组织结构、风险、配置、进度、质量、成本、资源……
 6.项目管理是多专业的管理，需要有各种专业技能的支持（8个技能或工具）――配置、进度、预算、成本、文档、合同、检查、评审……
@@ -151,15 +148,11 @@ PRINCE2从业者必须每5年重新参加一次考试来保持认证。培训机
 
 项目管理工具
 
-  - [in-Step PRINCE2
-    Edition](http://www.microtool.de/instep/de/instep_prince.asp)
+  - [in-Step PRINCE2 Edition](http://www.microtool.de/instep/de/instep_prince.asp)
   - [P2ware Planner Suite](http://www.p2ware.com/en/index.html)
 
 [Category:项目管理](https://zh.wikipedia.org/wiki/Category:项目管理 "wikilink")
 
-1.  [OGC Best Management Practice -
-    PRINCE2](http://www.best-management-practice.com/Knowledge-Centre/Best-Practice-Guidance/PRINCE2/)
-2.  [OGC - PRINCE2 - What is
-    it?](http://www.ogc.gov.uk/methods_prince_2__whatisit.asp)
-3.  [APM Group - Successful Candidate
-    Register](http://www.apmgroup.co.uk/examquery.asp)
+1.  [OGC Best Management Practice - PRINCE2](http://www.best-management-practice.com/Knowledge-Centre/Best-Practice-Guidance/PRINCE2/)
+2.  [OGC - PRINCE2 - What is it?](http://www.ogc.gov.uk/methods_prince_2__whatisit.asp)
+3.  [APM Group - Successful Candidate Register](http://www.apmgroup.co.uk/examquery.asp)

@@ -67,8 +67,7 @@
   - frozen in time（2002年12月4日）
   - hitomi live tour 2004 TRAVELER（2004年9月29日）
   - hitomi 2005 10TH ANNIVERSARY LIVE THANK YOU（2005年6月1日）
-  - hitomi japanese girl collection 2005～LOVE，MUSIC，LOVE
-    FASHION～（2005年11月23日）
+  - hitomi japanese girl collection 2005～LOVE，MUSIC，LOVE FASHION～（2005年11月23日）
   - peace（2007年12月5日）
 
 ### VHS
@@ -80,8 +79,7 @@
 ### 參加作品
 
   - YOU ARE THE ONE （1997年1月1日）- TK presents こねっと
-  - LOVE DA LOVE -my favorite thing-（1998年12月26日）-YOU THE ROCK &
-    TSUTCHIE featuring hitomi
+  - LOVE DA LOVE -my favorite thing-（1998年12月26日）-YOU THE ROCK & TSUTCHIE featuring hitomi
   - エレファントラブ （2002年3月27日）- atami
   - 天国の歌 feat. hitomi （2007年1月31日）-Taiji All Stars
 
@@ -143,18 +141,9 @@
 
 ## 外部連結
 
-  - [hitomi official
-    website](https://web.archive.org/web/20090815064751/http://hitomilovelife.net/index.html)
-  - [hitomi オフィシャルブログ「hitomiのヒトミ」Powered by
-    Ameba](http://ameblo.jp/ninpu-hitomi/)
+  - [hitomi official website](https://web.archive.org/web/20090815064751/http://hitomilovelife.net/index.html)
+  - [hitomi オフィシャルブログ「hitomiのヒトミ」Powered by Ameba](http://ameblo.jp/ninpu-hitomi/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:小室家族](https://zh.wikipedia.org/wiki/Category:小室家族 "wikilink")
-[Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
-[Category:日本大學校友](https://zh.wikipedia.org/wiki/Category:日本大學校友 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:小室家族](https://zh.wikipedia.org/wiki/Category:小室家族 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:日本大學校友](https://zh.wikipedia.org/wiki/Category:日本大學校友 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
 
 1.  [賀囝囝半歲大](http://hk.apple.nextmedia.com/enews/realtime/20150608/53827060hitomi)

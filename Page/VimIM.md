@@ -1,5 +1,4 @@
-**VimIM**
-是[Vim](../Page/Vim.md "wikilink")的一个[插件](../Page/插件.md "wikilink")，可作为[Vim](../Page/Vim.md "wikilink")内嵌[中文输入法](../Page/中文输入法.md "wikilink")。
+**VimIM** 是[Vim](../Page/Vim.md "wikilink")的一个[插件](../Page/插件.md "wikilink")，可作为[Vim](../Page/Vim.md "wikilink")内嵌[中文输入法](../Page/中文输入法.md "wikilink")。
 
 ## VimIM 历史
 
@@ -35,5 +34,4 @@ VimIM是一个基于Vim的嵌入式中文输入法。
 
   - <http://vim.sourceforge.net/scripts/script.php?script_id=2506>
 
-[Category:中文輸入法平台](https://zh.wikipedia.org/wiki/Category:中文輸入法平台 "wikilink")
-[Category:Vi](https://zh.wikipedia.org/wiki/Category:Vi "wikilink")
+[Category:中文輸入法平台](https://zh.wikipedia.org/wiki/Category:中文輸入法平台 "wikilink") [Category:Vi](https://zh.wikipedia.org/wiki/Category:Vi "wikilink")

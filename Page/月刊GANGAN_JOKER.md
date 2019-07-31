@@ -1,14 +1,10 @@
-《**月刊GANGAN
-JOKER**》（）是由[史克威爾艾尼克斯發行](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，並於2009年4月22日創刊的[日本](../Page/日本.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
+《**月刊GANGAN JOKER**》（）是由[史克威爾艾尼克斯發行](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，並於2009年4月22日創刊的[日本](../Page/日本.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
 
 ## 概要
 
-JOKER是發行到2009年為止的《[GANGAN
-POWERED](https://zh.wikipedia.org/wiki/GANGAN_POWERED "wikilink")》（《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》增刊）和《[月刊GANGAN
-WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
+JOKER是發行到2009年為止的《[GANGAN POWERED](https://zh.wikipedia.org/wiki/GANGAN_POWERED "wikilink")》（《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》增刊）和《[月刊GANGAN WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 
-2009年2月13日官方網站設立時僅僅告知了雜誌名和預定創刊日期，未明確透露細節。但是在2月21日發售的POWERED
-4月號以及2月26日發售的WING4月號宣布了兩刊休刊和部分在兩刊連載的作品將轉移到JOKER的相關消息，還有JOKER也公布了嶄新的連載陣容。
+2009年2月13日官方網站設立時僅僅告知了雜誌名和預定創刊日期，未明確透露細節。但是在2月21日發售的POWERED 4月號以及2月26日發售的WING4月號宣布了兩刊休刊和部分在兩刊連載的作品將轉移到JOKER的相關消息，還有JOKER也公布了嶄新的連載陣容。
 
 此外JOKER將延續POWERED的後期路線，把氣力投放在原作為[同人遊戲](../Page/同人遊戲.md "wikilink")的漫畫作品上。
 
@@ -694,17 +690,10 @@ tanu（角色原案）<br />
 
 ## 相關條目
 
-  - [Fresh
-    GANGAN](https://zh.wikipedia.org/wiki/Fresh_GANGAN "wikilink")
+  - [Fresh GANGAN](https://zh.wikipedia.org/wiki/Fresh_GANGAN "wikilink")
 
 ## 外部連結
 
   - [月刊GANGAN JOKER](http://www.square-enix.com/jp/magazine/joker/)
 
-[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:GANGAN_POWERED](https://zh.wikipedia.org/wiki/Category:GANGAN_POWERED "wikilink")
-[Category:月刊GANGAN_WING](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_WING "wikilink")
-[Category:史克威爾艾尼克斯的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯的漫畫雜誌 "wikilink")
+[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:GANGAN_POWERED](https://zh.wikipedia.org/wiki/Category:GANGAN_POWERED "wikilink") [Category:月刊GANGAN_WING](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_WING "wikilink") [Category:史克威爾艾尼克斯的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯的漫畫雜誌 "wikilink")

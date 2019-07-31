@@ -1,5 +1,4 @@
-****（****）是[Linux内核](../Page/Linux内核.md "wikilink")中實踐[POSIX
-Threads標準的函式庫](https://zh.wikipedia.org/wiki/POSIX_Threads "wikilink")。
+****（****）是[Linux内核](../Page/Linux内核.md "wikilink")中實踐[POSIX Threads標準的函式庫](https://zh.wikipedia.org/wiki/POSIX_Threads "wikilink")。
 
 测试表明，NPTL能够成功地在[IA-32平台上在两秒鐘内生成](https://zh.wikipedia.org/wiki/IA-32 "wikilink")100,000个[线程](../Page/多线程.md "wikilink")；相应的没有的内核将耗费15分钟左右。\[1\]\[2\]
 
@@ -11,8 +10,7 @@ Threads標準的函式庫](https://zh.wikipedia.org/wiki/POSIX_Threads "wikilink
 
 首次是随发表的。此前老式的线程偶尔会发生系统无法产生线程的毛病，这个毛病的原因是因为在新线程开始的时候系统没有借机先占。当时的系统对这个问题的解决比较好。在关于上的的网页上发表了一篇文章称解决了这个问题\[3\]。
 
-从第3版开始是的一部分，从内核2.6开始它被纳入内核。目前它完全被结合入[GNU C
-函式庫](https://zh.wikipedia.org/wiki/GNU_C_函式庫 "wikilink")。
+从第3版开始是的一部分，从内核2.6开始它被纳入内核。目前它完全被结合入[GNU C 函式庫](https://zh.wikipedia.org/wiki/GNU_C_函式庫 "wikilink")。
 
 ## 设计
 
@@ -27,14 +25,10 @@ Threads標準的函式庫](https://zh.wikipedia.org/wiki/POSIX_Threads "wikilink
 ## 外部链接
 
   - [NPTL设计论文](http://people.redhat.com/drepper/nptl-design.pdf)
-  - [NPTL跟踪工具](http://nptltracetool.sourceforge.net/)
-    可以同来跟踪和调试NPTL程式的开源工具
+  - [NPTL跟踪工具](http://nptltracetool.sourceforge.net/) 可以同来跟踪和调试NPTL程式的开源工具
 
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
 
 1.  [引入2.6内核](http://www.linuxjournal.com/article/6530)
-2.  [The Native POSIX Thread Library for
-    Linux](http://people.redhat.com/drepper/nptl-design.pdf)
-3.  [Red Hat Linux 9 and Java 2 Platform, Standard Edition 1.4.2: A
-    Winning
-    Combination](http://java.sun.com/developer/technicalArticles/JavaTechandLinux/RedHat/)
+2.  [The Native POSIX Thread Library for Linux](http://people.redhat.com/drepper/nptl-design.pdf)
+3.  [Red Hat Linux 9 and Java 2 Platform, Standard Edition 1.4.2: A Winning Combination](http://java.sun.com/developer/technicalArticles/JavaTechandLinux/RedHat/)

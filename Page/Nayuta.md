@@ -29,78 +29,47 @@ nayuta於2005年8月就已經開始同人活動，當時名義是「」。在200
 
 #### 混音專輯
 
-  - 経験値上昇中☆ (2008, EXIT TRANCE PRESENTS SPEED アニメトランス BEST 3, remixed by
-    源屋)
-  - 1000%SPARKING\! (2008, EXIT TRANCE PRESENTS SPEED アニメトランス BEST 3,
-    remixed by Ryu☆)
-  - 冒険でしょでしょ？ (2008, EXIT TRANCE PRESENTS SPEED アニメトランス BEST 5, remixed
-    by 源屋)
-  - God knows... (2009, スーパー★アニメ☆リミックス SUPER BEST, remixed by DJ
-    Command)
-  - God knows... (2010, アニメユーロベスト～School Edition～, remixed by DJ
-    Command)
+  - 経験値上昇中☆ (2008, EXIT TRANCE PRESENTS SPEED アニメトランス BEST 3, remixed by 源屋)
+  - 1000%SPARKING\! (2008, EXIT TRANCE PRESENTS SPEED アニメトランス BEST 3, remixed by Ryu☆)
+  - 冒険でしょでしょ？ (2008, EXIT TRANCE PRESENTS SPEED アニメトランス BEST 5, remixed by 源屋)
+  - God knows... (2009, スーパー★アニメ☆リミックス SUPER BEST, remixed by DJ Command)
+  - God knows... (2010, アニメユーロベスト～School Edition～, remixed by DJ Command)
   - Perfect-area complete\! (2010、超\!アニメビート, remixed by ELEMENTAS)
 
 #### 同人作品
 
-  - Lyrical Crimson
-    (2008年12月15日、[EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
+  - Lyrical Crimson (2008年12月15日、[EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
       - 「STAY HERE，NOT ALONE」
       - 緋色月下、狂咲ノ絕
-  - H -Heart and Beat Technology- (2009,
-    [Halozy](https://zh.wikipedia.org/wiki/Halozy "wikilink")) すみじゅん
-    feat. nayuta
+  - H -Heart and Beat Technology- (2009, [Halozy](https://zh.wikipedia.org/wiki/Halozy "wikilink")) すみじゅん feat. nayuta
       - メグメル (Cuckool Mix 2009)
       - 時を刻む唄
-  - Crescendo Planet (2009,
-    [Halozy](https://zh.wikipedia.org/wiki/Halozy "wikilink")) Izu feat.
-    nayuta
+  - Crescendo Planet (2009, [Halozy](https://zh.wikipedia.org/wiki/Halozy "wikilink")) Izu feat. nayuta
       - 午前零時の月階段
-  - Scattered Destiny
-    (2009年2月18日、[EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
+  - Scattered Destiny (2009年2月18日、[EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
       - 死奏憐音、玲瓏ノ終
-  - Lucent Wish
-    (2009年7月26日、[EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
-    crouka feat. nayuta
+  - Lucent Wish (2009年7月26日、[EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink")) crouka feat. nayuta
       - 風導星歌、黎明ノ景
-  - Sacred Factor
-    (2009年12月9日、[EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
+  - Sacred Factor (2009年12月9日、[EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
       - 緋色月下、狂咲ノ絶 -1st Anniversary Remix-
-  - Split Theory (2010,
-    [EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
-    黒鳥 feat. nayuta
+  - Split Theory (2010, [EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink")) 黒鳥 feat. nayuta
       - structure
       - 無炎舞踊≠循環
-  - Felsic Mirage / EastNewSound Alternative Outside 2010 Summer (2010,
-    [EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
-    黒鳥 feat. nayuta
+  - Felsic Mirage / EastNewSound Alternative Outside 2010 Summer (2010, [EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink")) 黒鳥 feat. nayuta
       - 幽音絶花、繚乱ノ彩
-  - Halozy Remixes vol.1 (2010,
-    [Halozy](https://zh.wikipedia.org/wiki/Halozy "wikilink")) Vo.nayuta
-    remixed by きりん
+  - Halozy Remixes vol.1 (2010, [Halozy](https://zh.wikipedia.org/wiki/Halozy "wikilink")) Vo.nayuta remixed by きりん
       - 午前零時の月階段 (きりん Remix)
-  - Cosmic Armonica (2010,
-    [Halozy](https://zh.wikipedia.org/wiki/Halozy "wikilink")) すみじゅん
-    feat. nayuta
+  - Cosmic Armonica (2010, [Halozy](https://zh.wikipedia.org/wiki/Halozy "wikilink")) すみじゅん feat. nayuta
       - まるばつ小径
-  - CROW WING (2010,
-    [TAMUSIC](https://zh.wikipedia.org/wiki/TAMUSIC "wikilink")) KEIGO
-    KANZAKI feat. nayuta
+  - CROW WING (2010, [TAMUSIC](https://zh.wikipedia.org/wiki/TAMUSIC "wikilink")) KEIGO KANZAKI feat. nayuta
       - No Direction
-  - SPECTRUM (2010,
-    [TAMUSIC](https://zh.wikipedia.org/wiki/TAMUSIC "wikilink")) KEIGO
-    KANZAKI feat. nayuta & YUNA
+  - SPECTRUM (2010, [TAMUSIC](https://zh.wikipedia.org/wiki/TAMUSIC "wikilink")) KEIGO KANZAKI feat. nayuta & YUNA
       - シオン
-  - LC:VIOLY (2011,
-    [TAMUSIC](https://zh.wikipedia.org/wiki/TAMUSIC "wikilink"))
-    TAM×琉姫アルナ feat. NANO(nayuta)
+  - LC:VIOLY (2011, [TAMUSIC](https://zh.wikipedia.org/wiki/TAMUSIC "wikilink")) TAM×琉姫アルナ feat. NANO(nayuta)
       - splash heart Violin MIX
 
 ## 外部連結
 
   - [nayuta個人網誌](http://7uta.seesaa.net/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")

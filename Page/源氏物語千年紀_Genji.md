@@ -1,5 +1,4 @@
-《'''源氏物語千年紀 Genji
-'''》是一部日本[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，於2009年1月15日至3月26日在[富士電視台](../Page/富士電視台.md "wikilink")[noitaminA播出](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。
+《'''源氏物語千年紀 Genji '''》是一部日本[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，於2009年1月15日至3月26日在[富士電視台](../Page/富士電視台.md "wikilink")[noitaminA播出](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。
 
 2008年8月，動畫節目[noitaminA原定是把](https://zh.wikipedia.org/wiki/noitaminA "wikilink")[大和和紀](../Page/大和和紀.md "wikilink")改編自[源氏物語](../Page/源氏物語.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[源氏物語](../Page/源氏物語_\(漫畫\).md "wikilink")》動畫化，不過，根據監督[出崎統](../Page/出崎統.md "wikilink")的意向，2008年11月10日對計劃作了相應調整，變成了動畫直接取材自小說原著\[1\]。工作人員除了一部份外均未變更。
 
@@ -9,12 +8,10 @@
   - 系列構成・腳本：[金春智子](../Page/金春智子.md "wikilink")
   - 人物設定・作畫監督：[杉野昭夫](../Page/杉野昭夫.md "wikilink")
   - 音樂監督：[鈴木清司](https://zh.wikipedia.org/wiki/鈴木清司 "wikilink")
-  - 音樂：[S.E.N.S.
-    Project](https://zh.wikipedia.org/wiki/S.E.N.S. "wikilink")
+  - 音樂：[S.E.N.S. Project](https://zh.wikipedia.org/wiki/S.E.N.S. "wikilink")
   - 美術監督：[河野次郎](https://zh.wikipedia.org/wiki/河野次郎 "wikilink")
   - CG監督：下山真吾
-  - 動畫製作：[TMS
-    Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")、[手塚Production](https://zh.wikipedia.org/wiki/手塚Production "wikilink")
+  - 動畫製作：[TMS Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")、[手塚Production](https://zh.wikipedia.org/wiki/手塚Production "wikilink")
 
 ## 配音員
 
@@ -202,8 +199,6 @@
   - [電視動畫官方網站](http://genji-anime.com/)
   - [源氏物語千年紀委員會](https://web.archive.org/web/20090315093957/http://www.2008genji.jp/)
 
-[Category:源氏物語題材作品](https://zh.wikipedia.org/wiki/Category:源氏物語題材作品 "wikilink")
-[Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")
-[Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink")
+[Category:源氏物語題材作品](https://zh.wikipedia.org/wiki/Category:源氏物語題材作品 "wikilink") [Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink") [Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink")
 
 1.

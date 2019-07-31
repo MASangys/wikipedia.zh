@@ -1,6 +1,4 @@
-[MIPI_logo.jpg](https://zh.wikipedia.org/wiki/File:MIPI_logo.jpg "fig:MIPI_logo.jpg")
-**MIPI**（**行動產業处理器接口**）是**Mobile Industry Processor
-Interface**的缩写。该缩写的特定用途包括：
+[MIPI_logo.jpg](https://zh.wikipedia.org/wiki/File:MIPI_logo.jpg "fig:MIPI_logo.jpg") **MIPI**（**行動產業处理器接口**）是**Mobile Industry Processor Interface**的缩写。该缩写的特定用途包括：
 
   - MIPI联盟 —— 组织机构
   - MIPI成员 —— 任何加入MIPI联盟的[公司](../Page/公司.md "wikilink")
@@ -143,8 +141,7 @@ MIPI联盟将成员分为4种类型：使用者、贡献者、推进者、创办
 
   - [MIPI联盟主页](http://www.mipi.org/)
 
-[Category:移动通信标准](https://zh.wikipedia.org/wiki/Category:移动通信标准 "wikilink")
-[Category:国际组织](https://zh.wikipedia.org/wiki/Category:国际组织 "wikilink")
+[Category:移动通信标准](https://zh.wikipedia.org/wiki/Category:移动通信标准 "wikilink") [Category:国际组织](https://zh.wikipedia.org/wiki/Category:国际组织 "wikilink")
 
 1.  [Working Groups: Overview](http://mipi.org/wgoverview.shtml)
 2.  [Current Members](http://www.mipi.org/mcurrentmembers.asp)

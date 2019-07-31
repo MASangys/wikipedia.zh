@@ -1,7 +1,4 @@
-《**12RIVEN -the Ψcliminal of integral-**》，是一款在2008年3月13日發行的[PlayStation
-2遊戲](../Page/PlayStation_2.md "wikilink")\[1\]，簡稱「12RIVEN」或「12R」。[PC版在同年](../Page/PC.md "wikilink")4月4日推出。\[2\]原為「[infinity](../Page/无限轮回.md "wikilink")」系列的第四作，不過製作的[KID公司於](../Page/KID.md "wikilink")2006年12月結業，令遊戲開發一度中斷；直至2007年2月[CyberFront公司購入](https://zh.wikipedia.org/wiki/CyberFront "wikilink")[KID公司遊戲代理版權](../Page/KID.md "wikilink")，並繼續開發本遊戲，令本作能夠順利推出。繁體中文化版本發行權由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[光譜資訊获得](../Page/光譜資訊.md "wikilink")，暫定於2008年第二季發行。簡體中文版則由[北京娛樂通放棄代理后](https://zh.wikipedia.org/wiki/北京娛樂通 "wikilink")，由北京光譜資訊代理,2009年9月30日以**12r跳跃的时空**的名称发售。和前作[Remember11的简体中文版一样](https://zh.wikipedia.org/wiki/Remember11 "wikilink")，本简体中文版基于PlayStation
-2模拟器。值得注意的是，在安装光盘中含有两个疑似古月引擎脚本的文本程序，声称编写于2009年9月17日，作者为[胡颖卓和](https://zh.wikipedia.org/wiki/胡颖卓 "wikilink")[北京娱乐通](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")。这说明娱乐通公司也参与了本作的中文化工作。本作及[infinity系列三作的PC版的合集](../Page/无限轮回.md "wikilink")《Infinity
-Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日本地區發行。
+《**12RIVEN -the Ψcliminal of integral-**》，是一款在2008年3月13日發行的[PlayStation 2遊戲](../Page/PlayStation_2.md "wikilink")\[1\]，簡稱「12RIVEN」或「12R」。[PC](../Page/PC.md "wikilink")版在同年4月4日推出。\[2\]原為「[infinity](../Page/无限轮回.md "wikilink")」系列的第四作，不過製作的[KID](../Page/KID.md "wikilink")公司於2006年12月結業，令遊戲開發一度中斷；直至2007年2月[CyberFront公司購入](https://zh.wikipedia.org/wiki/CyberFront "wikilink")[KID](../Page/KID.md "wikilink")公司遊戲代理版權，並繼續開發本遊戲，令本作能夠順利推出。繁體中文化版本發行權由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[光譜資訊](../Page/光譜資訊.md "wikilink")获得，暫定於2008年第二季發行。簡體中文版則由[北京娛樂通放棄代理后](https://zh.wikipedia.org/wiki/北京娛樂通 "wikilink")，由北京光譜資訊代理,2009年9月30日以**12r跳跃的时空**的名称发售。和前作[Remember11的简体中文版一样](https://zh.wikipedia.org/wiki/Remember11 "wikilink")，本简体中文版基于PlayStation 2模拟器。值得注意的是，在安装光盘中含有两个疑似古月引擎脚本的文本程序，声称编写于2009年9月17日，作者为[胡颖卓和](https://zh.wikipedia.org/wiki/胡颖卓 "wikilink")[北京娱乐通](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")。这说明娱乐通公司也参与了本作的中文化工作。本作及[infinity系列三作的PC版的合集](../Page/无限轮回.md "wikilink")《Infinity Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日本地區發行。
 
 本作沿用了前作的雙主線同時進行的方式，在遊戲的初期會以不斷切換視角的方式進行著故事，之後則根據選擇的不同，進入鍊丸線及鳴海線兩者之一。在兩條路線都走過之後便會開啟最終章的\(\int\)路線。
 
@@ -83,14 +80,12 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 ### 實際情形
 
   - 雅堂 鍊丸（）CV：？？？/[高橋直純](../Page/高橋直純.md "wikilink")（鳴海視點中）
-    5月20日在integral飯店的頂樓被冥追殺時由於和繆抱在一起，經由繆的精神融合看到了division，因此才來到了自我和識閾下分開24小時的Ａ世界。事件時為了潛入理文六高救出繆及舞菜，在千里的幫助下利用其弟御目賀的身份進入理文六高，但事後卻因此被鳴海誤認為御目賀。事件結束後，為了完成歷史，回到20年前的Ａ世界見到了當時仍是七歲的鳴海(舞菜)。由於鍊丸和繆回到現實世界後使在Ａ世界發生事件的結果在現世界中成真，因此鍊丸視角的第二天（21日）在integral
-    tower上的事件**對應**鳴海視角開頭的事件。
+    5月20日在integral飯店的頂樓被冥追殺時由於和繆抱在一起，經由繆的精神融合看到了division，因此才來到了自我和識閾下分開24小時的Ａ世界。事件時為了潛入理文六高救出繆及舞菜，在千里的幫助下利用其弟御目賀的身份進入理文六高，但事後卻因此被鳴海誤認為御目賀。事件結束後，為了完成歷史，回到20年前的Ａ世界見到了當時仍是七歲的鳴海(舞菜)。由於鍊丸和繆回到現實世界後使在Ａ世界發生事件的結果在現世界中成真，因此鍊丸視角的第二天（21日）在integral tower上的事件**對應**鳴海視角開頭的事件。
 
 <!-- end list -->
 
   - 三島 鳴海（）CV：？？？
-    原姓真稻（まいな，和舞菜同音）。七歲那年捲入了兒童路隊被巴士衝撞的交通事故，使得她的自我和識閾下分離，自我進入了Ａ世界（即是後來的舞菜）。失去自我的鳴海在十歲時受到雙親遭槍殺的刺激，產生了新的自我，救出了當時一歲的雙胞胎弟妹。事故之後被老大收養。鳴海視角開頭是5月21日，收到真琴短信後來到integral
-    tower頂樓，見到誕吾（誤認為是鍊丸）冥、繆和千里（兩人互換了衣服）。
+    原姓真稻（まいな，和舞菜同音）。七歲那年捲入了兒童路隊被巴士衝撞的交通事故，使得她的自我和識閾下分離，自我進入了Ａ世界（即是後來的舞菜）。失去自我的鳴海在十歲時受到雙親遭槍殺的刺激，產生了新的自我，救出了當時一歲的雙胞胎弟妹。事故之後被老大收養。鳴海視角開頭是5月21日，收到真琴短信後來到integral tower頂樓，見到誕吾（誤認為是鍊丸）冥、繆和千里（兩人互換了衣服）。
 
 <!-- end list -->
 
@@ -100,8 +95,7 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 <!-- end list -->
 
   - 霧寺 冥（）CV：[松風雅也](../Page/松風雅也.md "wikilink")
-    鳴海的弟弟，繆的雙胞胎哥哥。名字寫做「鳴」（日文版在鳴海得知之前一直顯示為“メイ”，而中文版則用“冥”代替之）。在被ASLOG釋放之後由霧寺家收養，成為了閾域的一員及Ψcliminal的帶領者。由於他和繆是唯二能夠自行在腦中播放具有和division相反作用的CODECS的人，對閾域來說是敏感人物，因此閾域命令他帶領Ψcliminal追殺繆。身上裝有竊聽器，因此不得不裝成壞人。在integral
-    tower被炸後對鳴海道出事件真相。
+    鳴海的弟弟，繆的雙胞胎哥哥。名字寫做「鳴」（日文版在鳴海得知之前一直顯示為“メイ”，而中文版則用“冥”代替之）。在被ASLOG釋放之後由霧寺家收養，成為了閾域的一員及Ψcliminal的帶領者。由於他和繆是唯二能夠自行在腦中播放具有和division相反作用的CODECS的人，對閾域來說是敏感人物，因此閾域命令他帶領Ψcliminal追殺繆。身上裝有竊聽器，因此不得不裝成壞人。在integral tower被炸後對鳴海道出事件真相。
 
 <!-- end list -->
 
@@ -111,8 +105,7 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 <!-- end list -->
 
   - 伊野瀨 千里（）CV：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")
-    (第壹)日蝕計畫的成果，由ASLOG將NRM66反轉錄病毒植入受精卵而誕生的24個Ψclone之一，在其中排行第12，根據[希臘字母的順序的名字是](https://zh.wikipedia.org/wiki/希臘字母 "wikilink")[μ](https://zh.wikipedia.org/wiki/μ "wikilink")。由於和繆同音，原本是日蝕計畫中用來做為進一步研究的犠牲者，但由於一度被當時也在ASLOG的繆和冥給救出而對兩人（特別是繆）心懷感激。由於小時候的她很喜歡千里花，冥為她取了千里這個名字。原為閾域和Ψcliminal的一員，但知道要對繆不利之後脫離組織，並努力想救出繆。5月21日在integral
-    tower頂樓為了保護繆，並救出其弟御目賀（其實是御目賀所設的陷阱），和繆互換衣服，卻因此使鳴海誤以為她是繆。
+    (第壹)日蝕計畫的成果，由ASLOG將NRM66反轉錄病毒植入受精卵而誕生的24個Ψclone之一，在其中排行第12，根據[希臘字母的順序的名字是](https://zh.wikipedia.org/wiki/希臘字母 "wikilink")[μ](https://zh.wikipedia.org/wiki/μ "wikilink")。由於和繆同音，原本是日蝕計畫中用來做為進一步研究的犠牲者，但由於一度被當時也在ASLOG的繆和冥給救出而對兩人（特別是繆）心懷感激。由於小時候的她很喜歡千里花，冥為她取了千里這個名字。原為閾域和Ψcliminal的一員，但知道要對繆不利之後脫離組織，並努力想救出繆。5月21日在integral tower頂樓為了保護繆，並救出其弟御目賀（其實是御目賀所設的陷阱），和繆互換衣服，卻因此使鳴海誤以為她是繆。
 
 <!-- end list -->
 
@@ -122,15 +115,12 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 <!-- end list -->
 
   - 星野 遊遊（）CV：[小林優](../Page/小林優.md "wikilink")
-    一個月大時由於捲入真稻夫婦被殺的事件，雖然活了下來，但從此患有被稱做B
-    sight的盲視的疾病，雖然視覺機能沒有問題，但是無法意識到自己能看見東西，但因為她和正常人一樣會下意識地對危險的東西做出反應，所以經常被人認為是在欺騙；也因為患有這種疾病，她並不識字。進入Ａ世界後才擁有了正常人的視力，因此成立“幻象”組織來維護Ａ世界。後來疑似因為division的刺激，使得腦內原本斷開的傳導線路活化，因而在現實世界中恢復了視力。
+    一個月大時由於捲入真稻夫婦被殺的事件，雖然活了下來，但從此患有被稱做B sight的盲視的疾病，雖然視覺機能沒有問題，但是無法意識到自己能看見東西，但因為她和正常人一樣會下意識地對危險的東西做出反應，所以經常被人認為是在欺騙；也因為患有這種疾病，她並不識字。進入Ａ世界後才擁有了正常人的視力，因此成立“幻象”組織來維護Ａ世界。後來疑似因為division的刺激，使得腦內原本斷開的傳導線路活化，因而在現實世界中恢復了視力。
 
 <!-- end list -->
 
   - 誕吾（）CV：[中村俊洋](https://zh.wikipedia.org/wiki/中村俊洋 "wikilink")
-    真實身份是第24個Ψclone：伊野瀨御目賀([ω](https://zh.wikipedia.org/wiki/ω "wikilink")，Omega)。他是閾域的一員，也是「第貳日蝕計畫」的主持者。在鳴海到達integral
-    tower最上層時由於人在現場，被鳴海誤以為他是鍊丸。曾兩度想殺死真琴，並在浴缸（Rev飯店612號房）刺傷真琴的頸動脈，用玫瑰補飲料模擬真琴的血液，且躲藏在浴缸底部。後來在Rev頂樓heaven的陽臺殺死了真琴。最後在Ａ世界的integral
-    tower頂層被冥用三發橡膠麻醉彈打中後失去意識。
+    真實身份是第24個Ψclone：伊野瀨御目賀([ω](https://zh.wikipedia.org/wiki/ω "wikilink")，Omega)。他是閾域的一員，也是「第貳日蝕計畫」的主持者。在鳴海到達integral tower最上層時由於人在現場，被鳴海誤以為他是鍊丸。曾兩度想殺死真琴，並在浴缸（Rev飯店612號房）刺傷真琴的頸動脈，用玫瑰補飲料模擬真琴的血液，且躲藏在浴缸底部。後來在Rev頂樓heaven的陽臺殺死了真琴。最後在Ａ世界的integral tower頂層被冥用三發橡膠麻醉彈打中後失去意識。
 
 <!-- end list -->
 
@@ -172,11 +162,7 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 ## 外部連結
 
   -
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink")
 
 1.
 

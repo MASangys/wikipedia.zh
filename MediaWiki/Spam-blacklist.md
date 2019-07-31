@@ -1,9 +1,7 @@
 `# 符合此列表的外部連結在被加入頁面時會被阻攔而無法加入，日志记录于`[`Special:Log/spamblacklist`](https://zh.wikipedia.org/wiki/Special:Log/spamblacklist "wikilink")
-`# 本列表僅在中文維基百科有效，維基媒體計劃共用的列表請見`[`:meta:Spam``
- ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
+`# 本列表僅在中文維基百科有效，維基媒體計劃共用的列表請見`[`:meta:Spam``   ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
 `# Mediawiki軟體的詳細說明請見`[`:mw:Extension:SpamBlacklist`](https://zh.wikipedia.org/wiki/:mw:Extension:SpamBlacklist "wikilink")
-`# 管理员可以通过`[`seth's``
- ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
+`# 管理员可以通过`[`seth's``   ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
 `# 白名單另見`[`MediaWiki:Spam-whitelist`](https://zh.wikipedia.org/wiki/MediaWiki:Spam-whitelist "wikilink")
 `#  `
 
@@ -13,6 +11,25 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\bdanaopharms\.com\b
+\bbesthostingtw\.com\b
+\bpokerhongkong\.org\b
+\bhappyteethtw\.com\b
+\bvpntaiwan\.com\b
+\bmoneybosstw\.com\b
+\boutdoormoviehq\.com\b
+\bonlinecasinohk\.com\b
+\bonlinecasinotw\.com\b
+\bonlinecasinotw\.com\b
+\buscombatsports\.com\b
+\bbestamps\.net\b
+\bbestwebhostingaustralia\.net\b
+\bgunnewsdaily\.com\b
+\b98yp\.net\b
+\bwww\.920ka\.com\b
+\bpolestar\.com\.tw\b
+\bcreaders\.net\b
+\bbannedbook\.org\b
 \bifunnymemes\.com\b # [[special:contribs/Lavacoolba|special:contribs/Lavacoolba]] start
 \bi-vaper\.com\b
 \bhowlifes\.com\b # Lavacoolba end

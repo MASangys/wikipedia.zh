@@ -1,35 +1,24 @@
-**丹拿CVG5**（Daimler
-CVG5）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[丹拿出產的](../Page/丹拿_\(英國\).md "wikilink")[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")。CVG5
-全稱為“Commercial Victory Gardner
-5-cylinder”，因選配[吉拿](../Page/吉拿.md "wikilink")（Gardner）5氣缸引擎而名。CVG5為前置引擎，半駕駛艙設計。
+**丹拿CVG5**（Daimler CVG5）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[丹拿出產的](../Page/丹拿_\(英國\).md "wikilink")[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")。CVG5 全稱為“Commercial Victory Gardner 5-cylinder”，因選配[吉拿](../Page/吉拿.md "wikilink")（Gardner）5氣缸引擎而名。CVG5為前置引擎，半駕駛艙設計。
 
 ## 簡述
 
-所謂「CVG5型」，只是一個簡寫，它的全寫是「Commercial Victory Gardner 5
-cylinder」，而「CVG6型」也就是「Commercial Victory Gardner 6
-cylinder」。「Victory」（勝利型）是這個型號巴士的主要名稱，數目字的分野，主要反映出引擎汽缸的數目。可能是由於名稱太長，所以留存下來的名字，一直就是「CVG5」及「CVG6」型，沒有人再強調甚麼「Victory」或「勝利」的字眼了。
+所謂「CVG5型」，只是一個簡寫，它的全寫是「Commercial Victory Gardner 5 cylinder」，而「CVG6型」也就是「Commercial Victory Gardner 6 cylinder」。「Victory」（勝利型）是這個型號巴士的主要名稱，數目字的分野，主要反映出引擎汽缸的數目。可能是由於名稱太長，所以留存下來的名字，一直就是「CVG5」及「CVG6」型，沒有人再強調甚麼「Victory」或「勝利」的字眼了。
 
 當年的丹拿「CVG5型」雙層巴士底盤在1946年面世的時候，全部只有一個規格，就是前後輪軸距離是16呎4吋（4.98米），配用「[吉拿](../Page/吉拿.md "wikilink")」的5LW引擎，及先選式手動波箱。
 
 ## 香港的丹拿CVG5
 
-1949年，隨著大量新移民從[中國湧入](../Page/中國.md "wikilink")，人口的急升，香港的巴士載客服務量激增，使原有的單層巴士不敷應用。[九巴率先引入](https://zh.wikipedia.org/wiki/九巴 "wikilink")4輛「丹拿」CVG5雙層巴士，率先進入雙層巴士時代，行走尖沙咀至九龍城一帶。由於香港以前從未有雙層巴士出現，故此為了使這批雙層巴士順利行走主要幹線彌敦道，當局要大費周章把路旁的樹木依情況鋸去，並把招牌限制升高至4.8米。（這高度對於香港現時的巴士來說，仍然非常足夠。）
+1949年，隨著大量新移民從[中國](../Page/中國.md "wikilink")湧入，人口的急升，香港的巴士載客服務量激增，使原有的單層巴士不敷應用。[九巴率先引入](https://zh.wikipedia.org/wiki/九巴 "wikilink")4輛「丹拿」CVG5雙層巴士，率先進入雙層巴士時代，行走尖沙咀至九龍城一帶。由於香港以前從未有雙層巴士出現，故此為了使這批雙層巴士順利行走主要幹線彌敦道，當局要大費周章把路旁的樹木依情況鋸去，並把招牌限制升高至4.8米。（這高度對於香港現時的巴士來說，仍然非常足夠。）
 
 ### 丹拿A型
 
-[Kcrtst1952.jpg](https://zh.wikipedia.org/wiki/File:Kcrtst1952.jpg "fig:Kcrtst1952.jpg")的丹拿CVG5（A型）\]\]
-第一輛雙層巴士在九龍半島出現，是在1949年，亦即是這款丹拿「CVG5
-型」，九巴將之稱為「丹拿A型」。巴士全長是26呎（7.92米），闊度是7呎6吋（2.29米）。巴士採用的金屬車身，也是來自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，由「Metal
-Sections」公司供應。這款巴士的模式與當年英國本土的車款相若，黑黑的傳統車嘴，人稱「烏嘴狗」。車門設於車尾，情形一如[倫敦市面的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[AEC
-Routemaster巴士無異](../Page/AEC_Routemaster.md "wikilink")。另外，首批丹拿「CVG5型」巴士的車頭的上層車窗，初時是採用自上而下的開啟方式，自五十年代中期，才改作橫向的推拉方式開關。另外，九巴又於1952年開始，加設了前車門，並將尾門稍加改良，配合人手控制的閘門操作，成為五、六十年代九巴巴士的標準閘門設計。
+[Kcrtst1952.jpg](https://zh.wikipedia.org/wiki/File:Kcrtst1952.jpg "fig:Kcrtst1952.jpg")的丹拿CVG5（A型）\]\] 第一輛雙層巴士在九龍半島出現，是在1949年，亦即是這款丹拿「CVG5 型」，九巴將之稱為「丹拿A型」。巴士全長是26呎（7.92米），闊度是7呎6吋（2.29米）。巴士採用的金屬車身，也是來自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，由「Metal Sections」公司供應。這款巴士的模式與當年英國本土的車款相若，黑黑的傳統車嘴，人稱「烏嘴狗」。車門設於車尾，情形一如[倫敦市面的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[AEC Routemaster巴士無異](../Page/AEC_Routemaster.md "wikilink")。另外，首批丹拿「CVG5型」巴士的車頭的上層車窗，初時是採用自上而下的開啟方式，自五十年代中期，才改作橫向的推拉方式開關。另外，九巴又於1952年開始，加設了前車門，並將尾門稍加改良，配合人手控制的閘門操作，成為五、六十年代九巴巴士的標準閘門設計。
 
-從1949年至1953年，九巴共購入125輛「烏嘴狗」款式的丹拿「CVG5
-型」雙層巴士。又從1954年至1957年，購買另外90輛採用名叫「伯明翰」式（Birmingham）車嘴的「CVG5型」，這款車嘴的主要設計特色，是不再有烏黑的引擎飾蓋，取而代之，是完整的引擎外罩，而兩枚車頭燈也被收藏於車嘴上面。
+從1949年至1953年，九巴共購入125輛「烏嘴狗」款式的丹拿「CVG5 型」雙層巴士。又從1954年至1957年，購買另外90輛採用名叫「伯明翰」式（Birmingham）車嘴的「CVG5型」，這款車嘴的主要設計特色，是不再有烏黑的引擎飾蓋，取而代之，是完整的引擎外罩，而兩枚車頭燈也被收藏於車嘴上面。
 
 ### 丹拿B型
 
-到1959年，九巴再度增購丹拿「CVG5型」新巴士。從1959年至1961年，總訂購額達110輛。這批新車最大的特點，是長度增加了1呎，而底盤的前後軸距保持不變，被叫做「丹拿B型」。新的「Metal
-Sections」的車身，首次採用「[曼徹斯特](https://zh.wikipedia.org/wiki/曼徹斯特 "wikilink")」式（Manchester）的車嘴，意思是指這個款式，最早是在曼徹斯特市採用，從外貌上看，「曼徹斯特」式的車嘴，將兩枚車燈從車嘴移出，放在沙板位置上面。這個改動，又能令半駕駛艙式巴士的設計，進一步突出起來。至於增長了1呎的車身，全部被應用於尾輪軸之後，上層的尾窗被加長，而下層尾門之前則加多了一個寬柱位，上面增設路線號碼牌。
+到1959年，九巴再度增購丹拿「CVG5型」新巴士。從1959年至1961年，總訂購額達110輛。這批新車最大的特點，是長度增加了1呎，而底盤的前後軸距保持不變，被叫做「丹拿B型」。新的「Metal Sections」的車身，首次採用「[曼徹斯特](https://zh.wikipedia.org/wiki/曼徹斯特 "wikilink")」式（Manchester）的車嘴，意思是指這個款式，最早是在曼徹斯特市採用，從外貌上看，「曼徹斯特」式的車嘴，將兩枚車燈從車嘴移出，放在沙板位置上面。這個改動，又能令半駕駛艙式巴士的設計，進一步突出起來。至於增長了1呎的車身，全部被應用於尾輪軸之後，上層的尾窗被加長，而下層尾門之前則加多了一個寬柱位，上面增設路線號碼牌。
 
 ### 引退
 
@@ -45,5 +34,4 @@ Sections」的車身，首次採用「[曼徹斯特](https://zh.wikipedia.org/wi
 
   - 香港巴士識別第二集-古老篇（北嶺國際有限公司出版）
 
-[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink")
-[Category:香港雙層巴士](https://zh.wikipedia.org/wiki/Category:香港雙層巴士 "wikilink")
+[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:香港雙層巴士](https://zh.wikipedia.org/wiki/Category:香港雙層巴士 "wikilink")

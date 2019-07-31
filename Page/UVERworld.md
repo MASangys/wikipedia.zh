@@ -1,7 +1,6 @@
-**UVERworld**（ウーバーワールド），[滋賀縣出身的日本](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")6人組團體，於2005年[夏季出道](../Page/夏季.md "wikilink")，[日本](../Page/日本.md "wikilink")[混音](../Page/混音.md "wikilink")、[流行](https://zh.wikipedia.org/wiki/流行 "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
+**UVERworld**（ウーバーワールド），[滋賀縣出身的日本](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")6人組團體，於2005年[夏季](../Page/夏季.md "wikilink")出道，[日本](../Page/日本.md "wikilink")[混音](../Page/混音.md "wikilink")、[流行](https://zh.wikipedia.org/wiki/流行 "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
-UVER是[德語über和英语over的混合](https://zh.wikipedia.org/wiki/德語 "wikilink")，UVERworld＝OVER
-THE WORLD（超越自己的世界），他們懷著此一信念，樂隊名稱也因此而來。
+UVER是[德語über和英语over的混合](https://zh.wikipedia.org/wiki/德語 "wikilink")，UVERworld＝OVER THE WORLD（超越自己的世界），他們懷著此一信念，樂隊名稱也因此而來。
 
 UVERworld的前身為[sound極road](https://zh.wikipedia.org/wiki/sound極road "wikilink")，結成於2000年6月。當時一共有7位團員，除了2014年3月26日前的5位正式成員，還有另一個主唱、薩克斯風手（SEIKA）、小號手。
 
@@ -784,10 +783,4 @@ DVD<br />
 
   - [UVERworld](http://www.uverworld.org)（官方网站3）
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:滋賀縣出身人物](https://zh.wikipedia.org/wiki/Category:滋賀縣出身人物 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:日本嘻哈團體](https://zh.wikipedia.org/wiki/Category:日本嘻哈團體 "wikilink")
-[Category:UVERworld](https://zh.wikipedia.org/wiki/Category:UVERworld "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:滋賀縣出身人物](https://zh.wikipedia.org/wiki/Category:滋賀縣出身人物 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本嘻哈團體](https://zh.wikipedia.org/wiki/Category:日本嘻哈團體 "wikilink") [Category:UVERworld](https://zh.wikipedia.org/wiki/Category:UVERworld "wikilink")

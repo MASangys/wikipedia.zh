@@ -32,14 +32,9 @@ found:
 
 GOTO语句一直是批评和争论的目标，主要的负面影响是使用GOTO语句使程序的可读性变差，甚至成为不可维护的「[面条代码](https://zh.wikipedia.org/wiki/面条代码 "wikilink")」。随着[结构化编程](../Page/结构化编程.md "wikilink")在二十世纪六十年代到七十年代变得越来越流行，许多[计算机科学家得出结论](https://zh.wikipedia.org/wiki/计算机科学家 "wikilink")，即程序应当总是使用被称为「结构化」[控制流程](../Page/控制流程.md "wikilink")的命令，如[迴圈以及if](https://zh.wikipedia.org/wiki/程式迴圈 "wikilink")-then-else语句来替代GOTO。甚至在今天，许多[程序风格编码标准禁止使用GOTO语句](https://zh.wikipedia.org/wiki/程序风格 "wikilink")。为GOTO语句辩护的人认为，加以限制地使用GOTO语句不会导致低质量的代码，并且声称在许多编程语言中，一些任务如果不使用一条或多条GOTO语句是无法被直接实现的。如[有限状态自动机的实现](https://zh.wikipedia.org/wiki/有限状态自动机 "wikilink")、跳出嵌套[循环以及](https://zh.wikipedia.org/wiki/程式迴圈 "wikilink")[异常处理](../Page/异常处理.md "wikilink")。
 
-大概最著名的对于GOTO的批评是[艾兹格·迪杰斯特拉](https://zh.wikipedia.org/wiki/艾兹格·迪杰斯特拉 "wikilink")（Edsger
-Wybe
-Dijkstra）在1968年的一篇名稱為《GOTO陳述有害論》的論文。\[2\]迪杰斯特拉认为不加限制地使用GOTO语句应当从高级语言中废止，因为它使分析和验证程序正确性（特别是涉及循环）的任务变得复杂。另外一种观点出现在[高德纳](../Page/高德纳.md "wikilink")的*Structured
-Programming with go to Statements*
-\[3\]中，文章分析了许多常见编程任务，然后发现其中的一些使用GOTO将得到最理想的结构。
+大概最著名的对于GOTO的批评是[艾兹格·迪杰斯特拉](https://zh.wikipedia.org/wiki/艾兹格·迪杰斯特拉 "wikilink")（Edsger Wybe Dijkstra）在1968年的一篇名稱為《GOTO陳述有害論》的論文。\[2\]迪杰斯特拉认为不加限制地使用GOTO语句应当从高级语言中废止，因为它使分析和验证程序正确性（特别是涉及循环）的任务变得复杂。另外一种观点出现在[高德纳](../Page/高德纳.md "wikilink")的*Structured Programming with go to Statements* \[3\]中，文章分析了许多常见编程任务，然后发现其中的一些使用GOTO将得到最理想的结构。
 
-这些批评在一些编程语言的设计上起到了效果。虽然[Ada](../Page/Ada.md "wikilink")语言的设计者在二十世纪七十年代晚期意识到了对于GOTO的批评，这条语句仍旧被包含进去，主要是用来支持自动生成那些`goto`语句必不可少的代码。\[4\]但是，作为goto语句目的地的标签必须使用双尖括号括起来（如：`<`<Start_Again>`>`），而这个语法在其他语言中都不被使用。这使得检查程序中goto目的地的存在变得容易。goto语句本身使用简单的形式**`goto`**`
-Start_Again; `.
+这些批评在一些编程语言的设计上起到了效果。虽然[Ada](../Page/Ada.md "wikilink")语言的设计者在二十世纪七十年代晚期意识到了对于GOTO的批评，这条语句仍旧被包含进去，主要是用来支持自动生成那些`goto`语句必不可少的代码。\[4\]但是，作为goto语句目的地的标签必须使用双尖括号括起来（如：`<`<Start_Again>`>`），而这个语法在其他语言中都不被使用。这使得检查程序中goto目的地的存在变得容易。goto语句本身使用简单的形式**`goto`**`  Start_Again; `.
 
 ## 变体
 
@@ -71,16 +66,12 @@ Start_Again; `.
 
 ## 外部链接
 
-  - [A Structured Discipline of
-    Programming](https://web.archive.org/web/20090822145609/http://www.geek-central.gen.nz/peeves/programming_discipline.html)
-  - [Using gotos](http://www.stevemcconnell.com/ccgoto.htm). Summarized
-    arguments agains and pro usage of goto
+  - [A Structured Discipline of Programming](https://web.archive.org/web/20090822145609/http://www.geek-central.gen.nz/peeves/programming_discipline.html)
+  - [Using gotos](http://www.stevemcconnell.com/ccgoto.htm). Summarized arguments agains and pro usage of goto
 
-[Category:BASIC程序设计语言家族](https://zh.wikipedia.org/wiki/Category:BASIC程序设计语言家族 "wikilink")
-[Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink")
+[Category:BASIC程序设计语言家族](https://zh.wikipedia.org/wiki/Category:BASIC程序设计语言家族 "wikilink") [Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink")
 
-1.  [C Standard section 6.8.6.1 The goto
-    statement](http://c0x.coding-guidelines.com/6.8.6.1.html)
+1.  [C Standard section 6.8.6.1 The goto statement](http://c0x.coding-guidelines.com/6.8.6.1.html)
 2.
 3.
 4.

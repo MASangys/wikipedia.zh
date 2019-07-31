@@ -1,8 +1,4 @@
-《**X檔案：我要相信**》（）是一部2008年[懸疑片](https://zh.wikipedia.org/wiki/懸疑片 "wikilink")（Mystery
-film）、[科幻片](https://zh.wikipedia.org/wiki/科幻片 "wikilink")，為1998年電影《[X檔案：征服未來](../Page/X檔案：征服未來.md "wikilink")》（The
-X-Files
-(film)）的續集，由[克里斯·卡特執導](https://zh.wikipedia.org/wiki/克里斯·卡特 "wikilink")，[大衛·杜考夫尼](../Page/大衛·杜考夫尼.md "wikilink")、[姬蓮·安德森](https://zh.wikipedia.org/wiki/姬蓮·安德森 "wikilink")、[米徹·佩勒吉](../Page/米徹·佩勒吉.md "wikilink")和[阿曼達·皮特](https://zh.wikipedia.org/wiki/阿曼達·皮特 "wikilink")（Amanda
-Peet）主演。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2008年8月1日上映，[香港](../Page/香港.md "wikilink")則2008年8月4日上映。
+《**X檔案：我要相信**》（）是一部2008年[懸疑片](https://zh.wikipedia.org/wiki/懸疑片 "wikilink")（Mystery film）、[科幻片](https://zh.wikipedia.org/wiki/科幻片 "wikilink")，為1998年電影《[X檔案：征服未來](../Page/X檔案：征服未來.md "wikilink")》（The X-Files (film)）的續集，由[克里斯·卡特執導](https://zh.wikipedia.org/wiki/克里斯·卡特 "wikilink")，[大衛·杜考夫尼](../Page/大衛·杜考夫尼.md "wikilink")、[姬蓮·安德森](https://zh.wikipedia.org/wiki/姬蓮·安德森 "wikilink")、[米徹·佩勒吉](../Page/米徹·佩勒吉.md "wikilink")和[阿曼達·皮特](https://zh.wikipedia.org/wiki/阿曼達·皮特 "wikilink")（Amanda Peet）主演。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2008年8月1日上映，[香港](../Page/香港.md "wikilink")則2008年8月4日上映。
 
 ## 剧情介绍
 
@@ -40,21 +36,4 @@ Peet）主演。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2008
   -
   -
   -
-[Category:2008年電影](https://zh.wikipedia.org/wiki/Category:2008年電影 "wikilink")
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink")
-[Category:美國科幻動作片](https://zh.wikipedia.org/wiki/Category:美國科幻動作片 "wikilink")
-[Category:美國科幻恐怖片](https://zh.wikipedia.org/wiki/Category:美國科幻恐怖片 "wikilink")
-[Category:美國動作驚悚片](https://zh.wikipedia.org/wiki/Category:美國動作驚悚片 "wikilink")
-[Category:加拿大電影作品](https://zh.wikipedia.org/wiki/Category:加拿大電影作品 "wikilink")
-[Category:加拿大恐怖片](https://zh.wikipedia.org/wiki/Category:加拿大恐怖片 "wikilink")
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
-[Category:特攝電影](https://zh.wikipedia.org/wiki/Category:特攝電影 "wikilink")
-[Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
-[Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")
-[Category:2000年代動作片](https://zh.wikipedia.org/wiki/Category:2000年代動作片 "wikilink")
-[Category:2000年代科幻片](https://zh.wikipedia.org/wiki/Category:2000年代科幻片 "wikilink")
-[Category:2000年代驚悚片](https://zh.wikipedia.org/wiki/Category:2000年代驚悚片 "wikilink")
-[Category:2000年代恐怖片](https://zh.wikipedia.org/wiki/Category:2000年代恐怖片 "wikilink")
-[Category:溫哥華取景電影](https://zh.wikipedia.org/wiki/Category:溫哥華取景電影 "wikilink")
-[Category:X檔案](https://zh.wikipedia.org/wiki/Category:X檔案 "wikilink")
+[Category:2008年電影](https://zh.wikipedia.org/wiki/Category:2008年電影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:美國科幻動作片](https://zh.wikipedia.org/wiki/Category:美國科幻動作片 "wikilink") [Category:美國科幻恐怖片](https://zh.wikipedia.org/wiki/Category:美國科幻恐怖片 "wikilink") [Category:美國動作驚悚片](https://zh.wikipedia.org/wiki/Category:美國動作驚悚片 "wikilink") [Category:加拿大電影作品](https://zh.wikipedia.org/wiki/Category:加拿大電影作品 "wikilink") [Category:加拿大恐怖片](https://zh.wikipedia.org/wiki/Category:加拿大恐怖片 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:特攝電影](https://zh.wikipedia.org/wiki/Category:特攝電影 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink") [Category:2000年代動作片](https://zh.wikipedia.org/wiki/Category:2000年代動作片 "wikilink") [Category:2000年代科幻片](https://zh.wikipedia.org/wiki/Category:2000年代科幻片 "wikilink") [Category:2000年代驚悚片](https://zh.wikipedia.org/wiki/Category:2000年代驚悚片 "wikilink") [Category:2000年代恐怖片](https://zh.wikipedia.org/wiki/Category:2000年代恐怖片 "wikilink") [Category:溫哥華取景電影](https://zh.wikipedia.org/wiki/Category:溫哥華取景電影 "wikilink") [Category:X檔案](https://zh.wikipedia.org/wiki/Category:X檔案 "wikilink")

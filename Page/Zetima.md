@@ -1,7 +1,4 @@
-**Zetima** 是[日本藝能公司](../Page/日本.md "wikilink")[Up-Front
-Works旗下擁有的一間](https://zh.wikipedia.org/wiki/Up-Front_Works "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。這個品牌的唱片是由[史詩唱片日本負責發行](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。在日本以外的地區，這間公司最為人熟悉的是發行[Hello\!
-Project旗下成員的唱片](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，最受歡迎的包括[早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")。另外，此公司亦曾經發行唱片的歌手包括[平家充代](https://zh.wikipedia.org/wiki/平家充代 "wikilink")、[迷你早安](https://zh.wikipedia.org/wiki/迷你早安 "wikilink")（Mini
-Moni）和[田村直美](../Page/田村直美.md "wikilink")。
+**Zetima** 是[日本](../Page/日本.md "wikilink")藝能公司[Up-Front Works旗下擁有的一間](https://zh.wikipedia.org/wiki/Up-Front_Works "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。這個品牌的唱片是由[史詩唱片日本負責發行](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。在日本以外的地區，這間公司最為人熟悉的是發行[Hello\! Project旗下成員的唱片](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，最受歡迎的包括[早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")。另外，此公司亦曾經發行唱片的歌手包括[平家充代](https://zh.wikipedia.org/wiki/平家充代 "wikilink")、[迷你早安](https://zh.wikipedia.org/wiki/迷你早安 "wikilink")（Mini Moni）和[田村直美](../Page/田村直美.md "wikilink")。
 
 ## 歌手和組合
 
@@ -16,11 +13,9 @@ Moni）和[田村直美](../Page/田村直美.md "wikilink")。
   - [Earthshaker](https://zh.wikipedia.org/wiki/Earthshaker "wikilink")
   - [Flex Life](https://zh.wikipedia.org/wiki/Flex_Life "wikilink")
   - [GaGaalinG](https://zh.wikipedia.org/wiki/GaGaalinG "wikilink")
-  - [H.P.
-    全員](https://zh.wikipedia.org/wiki/H!P_夏季洗牌組合#H.P._全員 "wikilink")（）
+  - [H.P. 全員](https://zh.wikipedia.org/wiki/H!P_夏季洗牌組合#H.P._全員 "wikilink")（）
   - [HANGRY\&ANGRY](../Page/HANGRY&ANGRY.md "wikilink")
-  - [Hello\! Project
-    洗牌組合](https://zh.wikipedia.org/wiki/Hello!_Project_洗牌組合 "wikilink")
+  - [Hello\! Project 洗牌組合](https://zh.wikipedia.org/wiki/Hello!_Project_洗牌組合 "wikilink")
   - [犬神馬戲團](https://zh.wikipedia.org/wiki/犬神馬戲團 "wikilink")（）
   - [加藤紀子](https://zh.wikipedia.org/wiki/加藤紀子 "wikilink")
   - [上沼恵美子](https://zh.wikipedia.org/wiki/上沼恵美子 "wikilink")
@@ -28,7 +23,7 @@ Moni）和[田村直美](../Page/田村直美.md "wikilink")。
   - [松浦亞彌](https://zh.wikipedia.org/wiki/松浦亞彌 "wikilink")
   - [哈密瓜紀念日](../Page/哈密瓜紀念日.md "wikilink")（）
   - [迷你早安](https://zh.wikipedia.org/wiki/迷你早安 "wikilink")（）
-  - [森高千里](https://zh.wikipedia.org/wiki/森高千里 "wikilink")
+  - [森高千里](../Page/森高千里.md "wikilink")
   - [早安少女組。](../Page/早安少女組。.md "wikilink")（）
   - [Red Velvet](../Page/Red_Velvet.md "wikilink")
   - [草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")
@@ -39,8 +34,7 @@ Moni）和[田村直美](../Page/田村直美.md "wikilink")。
   - [田中麗奈](../Page/田中麗奈_\(早安少女組\).md "wikilink")
   - [早安少女組。誕生10年紀念隊](https://zh.wikipedia.org/wiki/早安少女組誕生10年紀念隊 "wikilink")（）
   - [中島卓偉](../Page/中島卓偉.md "wikilink")
-  - [月島星璃](https://zh.wikipedia.org/wiki/偶像宣言#登場人物 "wikilink") starring
-    [久住小春](../Page/久住小春.md "wikilink")（早安少女組。）（）
+  - [月島星璃](https://zh.wikipedia.org/wiki/偶像宣言#登場人物 "wikilink") starring [久住小春](../Page/久住小春.md "wikilink")（早安少女組。）（）
   - [吉澤瞳](../Page/吉澤瞳.md "wikilink")
   - [紺野朝美](../Page/紺野朝美.md "wikilink")
   - [矢口真里](../Page/矢口真里.md "wikilink")

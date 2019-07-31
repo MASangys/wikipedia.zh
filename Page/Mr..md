@@ -1,7 +1,4 @@
-**Mr.**（**Mister**）是一隊[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，前身是獨立樂隊White
-Noise，由主音歌手Alan（[布志綸](../Page/布志綸.md "wikilink")）、節奏吉他手Ronny（黎澤恩）、主音吉他手MJ（譚傑明）、貝斯手Dash（譚健文）及鼓手Tom（杜志烜）組成。由於音樂的認受性乃建基於大眾對樂手本身的印象，因此他們決定改名為Mr.，進一步在音樂工業上作出貢獻，希望有更多聽眾能得到共鳴。Mr.的真正意思是指**平凡人**。他們五人都是由基層出身，從平凡的五個人到置身音樂圈成為樂隊。2019年，Mr首次以獨立樂隊身份發怖新歌《釋放自己》，並在1月11日晚上8時在Mr.
-Youtube頻道發怖《釋放自己》MV。在同年2月23日，宣佈在5月17及5月18日在紅館舉行一連兩場"Everyone Concert
-10"演唱會。
+**Mr.**（**Mister**）是一隊[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，前身是獨立樂隊White Noise，由主音歌手Alan（[布志綸](../Page/布志綸.md "wikilink")）、節奏吉他手Ronny（黎澤恩）、主音吉他手MJ（譚傑明）、貝斯手Dash（譚健文）及鼓手Tom（杜志烜）組成。由於音樂的認受性乃建基於大眾對樂手本身的印象，因此他們決定改名為Mr.，進一步在音樂工業上作出貢獻，希望有更多聽眾能得到共鳴。Mr.的真正意思是指**平凡人**。他們五人都是由基層出身，從平凡的五個人到置身音樂圈成為樂隊。2019年，Mr首次以獨立樂隊身份發怖新歌《釋放自己》，並在1月11日晚上8時在Mr. Youtube頻道發怖《釋放自己》MV。在同年2月23日，宣佈在5月17及5月18日在紅館舉行一連兩場"Everyone Concert 10"演唱會。
 
 ## 簡介
 
@@ -17,8 +14,7 @@ Youtube頻道發怖《釋放自己》MV。在同年2月23日，宣佈在5月17�
 
 2010年2月6日，推出新曲加remix精選大碟《Like Black》。
 
-2010年3月6日至7日，在[紅磡體育館舉行一連兩場](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")《Mr.
-Everyone Concert 01》\[3\]。
+2010年3月6日至7日，在[紅磡體育館舉行一連兩場](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")《Mr. Everyone Concert 01》\[3\]。
 
 2010年5月7日，推出首個演唱會《Mr. Everyone Concert 01》CD及DVD。
 
@@ -40,11 +36,9 @@ Everyone Concert 01》\[3\]。
 
 2015年10月5日，[環球唱片和Mr](https://zh.wikipedia.org/wiki/環球唱片 "wikilink").發出聯合聲明表示跟Mr.將會在2016年中約滿，而約滿後雙方會暫停合作。\[5\]
 
-2018年5月18日，宣佈在8月24日及8月25日將分別與[觸執毛](../Page/觸執毛.md "wikilink")及[Kolor](../Page/Kolor.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、Yellow於[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")舉辦起哄音樂節「SHOUT
-IT OUT」。
+2018年5月18日，宣佈在8月24日及8月25日將分別與[觸執毛](../Page/觸執毛.md "wikilink")及[Kolor](../Page/Kolor.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、Yellow於[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")舉辦起哄音樂節「SHOUT IT OUT」。
 
-2019年休息了一段日子的Mr.，年初以獨立樂隊身份發布新歌，早前更宣布五月於紅館舉行"Everyone Concert
-10"演唱會。舉行兩場演唱會。\[6\]發佈新歌單曲《釋放自己》，並在當天晚上8時在其Youtube頻道發佈《釋放自己》MV。
+2019年休息了一段日子的Mr.，年初以獨立樂隊身份發布新歌，早前更宣布五月於紅館舉行"Everyone Concert 10"演唱會。舉行兩場演唱會。\[6\]發佈新歌單曲《釋放自己》，並在當天晚上8時在其Youtube頻道發佈《釋放自己》MV。
 
 
 
@@ -52,40 +46,31 @@ IT OUT」。
 
 ### 布志綸
 
-**布志綸**
-（，主音，曾任職[環球唱片國際部](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")（負責與電台接觸），被認為聲音與[陳奕迅](../Page/陳奕迅.md "wikilink")相近。中學就讀[聖保羅書院](../Page/聖保羅書院.md "wikilink")，後到[加拿大](../Page/加拿大.md "wikilink")[麥馬士達大學](../Page/麥馬士達大學.md "wikilink")修讀經濟系畢業。出道前是獨立樂隊White
-Noise\[7\]的成員。2016年中Mr.與環球唱片約滿。2017年布志綸以個人身份簽約[耀榮文化](../Page/耀榮文化.md "wikilink")，同年8月發表第一首個人單曲《人在野》，2018年4月發表第二首個人單曲《經得起變化》。首張個人專輯將在2019推出。
+**布志綸** （，主音，曾任職[環球唱片國際部](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")（負責與電台接觸），被認為聲音與[陳奕迅](../Page/陳奕迅.md "wikilink")相近。中學就讀[聖保羅書院](../Page/聖保羅書院.md "wikilink")，後到[加拿大](../Page/加拿大.md "wikilink")[麥馬士達大學](../Page/麥馬士達大學.md "wikilink")修讀經濟系畢業。出道前是獨立樂隊White Noise\[7\]的成員。2016年中Mr.與環球唱片約滿。2017年布志綸以個人身份簽約[耀榮文化](../Page/耀榮文化.md "wikilink")，同年8月發表第一首個人單曲《人在野》，2018年4月發表第二首個人單曲《經得起變化》。首張個人專輯將在2019推出。
 
 ### 黎澤恩
 
-**黎澤恩**（，1979年7月11日－，歲），節奏結他手。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[譚傑明](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")、[譚健文以及暱稱](https://zh.wikipedia.org/wiki/譚健文 "wikilink")「阿永」的鼓手組成獨立樂隊White
-Noise\[8\]。因為曾祖父是[美國人](../Page/美國人.md "wikilink")，所以黎澤恩是十六分一美國[混血兒](../Page/混血兒.md "wikilink")\[9\]。
+**黎澤恩**（，1979年7月11日－，歲），節奏結他手。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[譚傑明](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")、[譚健文以及暱稱](https://zh.wikipedia.org/wiki/譚健文 "wikilink")「阿永」的鼓手組成獨立樂隊White Noise\[8\]。因為曾祖父是[美國人](../Page/美國人.md "wikilink")，所以黎澤恩是十六分一美國[混血兒](../Page/混血兒.md "wikilink")\[9\]。
 
 ### 譚傑明
 
-**譚傑明**（，1981年1月10日－，歲），主音結他手。Mr.的大部分作品均由譚傑明或[譚健文填詞](https://zh.wikipedia.org/wiki/譚健文 "wikilink")，他偶爾也會和[布志綸](../Page/布志綸.md "wikilink")一起作曲。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚健文以及暱稱](https://zh.wikipedia.org/wiki/譚健文 "wikilink")「阿永」的鼓手組成獨立樂隊White
-Noise。
+**譚傑明**（，1981年1月10日－，歲），主音結他手。Mr.的大部分作品均由譚傑明或[譚健文填詞](https://zh.wikipedia.org/wiki/譚健文 "wikilink")，他偶爾也會和[布志綸](../Page/布志綸.md "wikilink")一起作曲。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚健文以及暱稱](https://zh.wikipedia.org/wiki/譚健文 "wikilink")「阿永」的鼓手組成獨立樂隊White Noise。
 
 譚傑明10歲時到[加拿大](../Page/加拿大.md "wikilink")升學\[10\]，畢業於。在Mr.其他成員口中，他是五人中最愛美的一個，愛畫眼線。2009年至2010年間，他曾與[卓韻芝](../Page/卓韻芝.md "wikilink")拍拖。他愛作punk友打扮。
 
 ### 譚健文
 
-**譚健文**（，1981年1月6日－，歲）
-貝斯手，是**Mr.**的主要發言人，並讓Mr.結識[譚詠麟](../Page/譚詠麟.md "wikilink")及與唱片公司簽約\[11\]。中學就讀於[香港教師會李興貴中學及佛教善德英文中學](https://zh.wikipedia.org/wiki/香港教師會李興貴中學 "wikilink")，畢業於[理工大學](https://zh.wikipedia.org/wiki/理工大學 "wikilink")[物流管理系](https://zh.wikipedia.org/wiki/物流管理 "wikilink")。曾於唱片業工作，有一位孿生弟弟譚健榮。
+**譚健文**（，1981年1月6日－，歲） 貝斯手，是**Mr.**的主要發言人，並讓Mr.結識[譚詠麟](../Page/譚詠麟.md "wikilink")及與唱片公司簽約\[11\]。中學就讀於[香港教師會李興貴中學及佛教善德英文中學](https://zh.wikipedia.org/wiki/香港教師會李興貴中學 "wikilink")，畢業於[理工大學](https://zh.wikipedia.org/wiki/理工大學 "wikilink")[物流管理系](https://zh.wikipedia.org/wiki/物流管理 "wikilink")。曾於唱片業工作，有一位孿生弟弟譚健榮。
 
-Mr.的大部分作品均由譚健文或[譚傑明填詞](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")，並由譚健文和唱。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚傑明以及暱稱](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")「阿永」的鼓手組成獨立樂隊White
-Noise\[12\]。
+Mr.的大部分作品均由譚健文或[譚傑明填詞](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")，並由譚健文和唱。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚傑明以及暱稱](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")「阿永」的鼓手組成獨立樂隊White Noise\[12\]。
 
 ### 杜志烜
 
 **杜志烜**（，1987年12月25日－，歲），[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")，亦是Mr.中年紀最小的成員。
 
-杜志烜有一名弟弟，13歲時父母離婚。中學時就讀於[東莞工商總會劉百樂中學](../Page/東莞工商總會劉百樂中學.md "wikilink")，曾於2003最佳進步獎頒獎禮獲頒「進步獎學金」\[13\]。他本來是Cogent
-Spirit樂隊的成員，與White
-Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，但不足三個月後便決定回港，正式加入Mr.\[14\]。在Mr.初出道時，杜志烜仍有兼職送[魚生](https://zh.wikipedia.org/wiki/魚生 "wikilink")，但不久後便辭職，全面投入樂隊工作。
+杜志烜有一名弟弟，13歲時父母離婚。中學時就讀於[東莞工商總會劉百樂中學](../Page/東莞工商總會劉百樂中學.md "wikilink")，曾於2003最佳進步獎頒獎禮獲頒「進步獎學金」\[13\]。他本來是Cogent Spirit樂隊的成員，與White Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，但不足三個月後便決定回港，正式加入Mr.\[14\]。在Mr.初出道時，杜志烜仍有兼職送[魚生](https://zh.wikipedia.org/wiki/魚生 "wikilink")，但不久後便辭職，全面投入樂隊工作。
 
-2011年9月9日，杜志烜宣佈與模特兒[何思諺](../Page/何思諺.md "wikilink")結婚。而且女友已懷孕。\[15\]
-，兩人於10月14日舉行婚禮\[16\] 。現育有一子（杜卓霖）。
+2011年9月9日，杜志烜宣佈與模特兒[何思諺](../Page/何思諺.md "wikilink")結婚。而且女友已懷孕。\[15\] ，兩人於10月14日舉行婚禮\[16\] 。現育有一子（杜卓霖）。
 
 ## 音樂
 
@@ -618,8 +603,7 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 
 ## 電視節目
 
-  - 2013 [Mr.真搞「野」](https://zh.wikipedia.org/wiki/Mr.真搞「野」 "wikilink")
-    （[有線電視](../Page/香港有線電視.md "wikilink")）
+  - 2013 [Mr.真搞「野」](https://zh.wikipedia.org/wiki/Mr.真搞「野」 "wikilink") （[有線電視](../Page/香港有線電視.md "wikilink")）
 
 ## 參與MV
 
@@ -631,17 +615,11 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 
 <!-- end list -->
 
-  - 2008年度[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")
-    ——[最受歡迎組合銅獎](../Page/2008年度十大勁歌金曲得獎名單.md "wikilink")
-  - [新城勁爆頒獎禮2008](../Page/2008年度新城勁爆頒獎禮得獎名單.md "wikilink")
-    ——[新城勁爆新人王（組合）](../Page/2008年度新城勁爆頒獎禮得獎名單.md "wikilink")
-  - [YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")2008
-    ——[樂壇新勢力（組合）](../Page/Yahoo!搜尋人氣大獎2008.md "wikilink")
-  - 2008年度[叱咤樂壇流行榜頒獎典禮](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink")
-    ——[叱-{咤}-樂壇生力軍組合銀獎](../Page/2008年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2008
-    —— [我最喜愛新組合 金獎](../Page/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")
+  - 2008年度[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink") ——[最受歡迎組合銅獎](../Page/2008年度十大勁歌金曲得獎名單.md "wikilink")
+  - [新城勁爆頒獎禮2008](../Page/2008年度新城勁爆頒獎禮得獎名單.md "wikilink") ——[新城勁爆新人王（組合）](../Page/2008年度新城勁爆頒獎禮得獎名單.md "wikilink")
+  - [YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")2008 ——[樂壇新勢力（組合）](../Page/Yahoo!搜尋人氣大獎2008.md "wikilink")
+  - 2008年度[叱咤樂壇流行榜頒獎典禮](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink") ——[叱-{咤}-樂壇生力軍組合銀獎](../Page/2008年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2008 —— [我最喜愛新組合 金獎](../Page/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")
   - 2008年度（美國）紐約華語流行榜年度大選 —— 最佳新進組合
 
 <!-- end list -->
@@ -650,32 +628,19 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 
 <!-- end list -->
 
-  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
-    ——[新城勁爆樂隊](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
-  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
-    ——[新城勁爆我最欣賞樂隊](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
-  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
-    ——[新城勁爆歌曲](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
-    -《如果我是陳奕迅》
-  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
-    ——[新城勁爆播放指數大獎(歌曲獎)](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
-    -《如果我是陳奕迅》
+  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") ——[新城勁爆樂隊](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
+  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") ——[新城勁爆我最欣賞樂隊](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink")
+  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") ——[新城勁爆歌曲](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") -《如果我是陳奕迅》
+  - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") ——[新城勁爆播放指數大獎(歌曲獎)](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") -《如果我是陳奕迅》
   - [YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")2009 ——本地音樂組合
-  - [YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")2009 ——十大人氣歌曲
-    -《如果我是陳奕迅》
-  - [2009年度叱-{咤}-樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 叱咤樂壇組合銀獎
-  - [2009年度叱-{咤}-樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 叱咤樂壇我最喜愛的歌曲大獎《如果我是陳奕迅》
-  - [2009年度叱-{咤}-樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 叱咤樂壇我最喜愛的組合
+  - [YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")2009 ——十大人氣歌曲 -《如果我是陳奕迅》
+  - [2009年度叱-{咤}-樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 叱咤樂壇組合銀獎
+  - [2009年度叱-{咤}-樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 叱咤樂壇我最喜愛的歌曲大獎《如果我是陳奕迅》
+  - [2009年度叱-{咤}-樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 叱咤樂壇我最喜愛的組合
   - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
-  - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 十大金曲獎 -
-    《如果我是陳奕迅》
-  - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") -
-    全年最高銷量歌手大獎組合
-  - 2009年度[加拿大](../Page/加拿大.md "wikilink")至HiT中文歌曲排行榜 -
-    全國推崇十大歌曲（粵語）《如果我是陳奕迅》
+  - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 十大金曲獎 - 《如果我是陳奕迅》
+  - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 全年最高銷量歌手大獎組合
+  - 2009年度[加拿大](../Page/加拿大.md "wikilink")至HiT中文歌曲排行榜 - 全國推崇十大歌曲（粵語）《如果我是陳奕迅》
   - 2009年度[加拿大](../Page/加拿大.md "wikilink")至HiT中文歌曲排行榜 - 全國推崇組合（粵語）
 
 <!-- end list -->
@@ -685,23 +650,15 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 <!-- end list -->
 
   - [YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")2010 ——本地音樂組合
-  - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲
-    《黑色狂迷》
-  - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆合唱歌曲
-    《Go》（與譚詠麟合唱）
+  - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲 《黑色狂迷》
+  - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆合唱歌曲 《Go》（與譚詠麟合唱）
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆我最欣賞樂隊
-  - [2010年度叱-{咤}-樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 專業推介 叱咤十大 第二位 《黑色狂迷》
+  - [2010年度叱-{咤}-樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 專業推介 叱咤十大 第二位 《黑色狂迷》
   - [第三十三屆十大中文金曲頒獎音樂會](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
-  - [第三十三屆十大中文金曲頒獎音樂會](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink") -
-    全年最高銷量歌手大獎組合
-  - 2010年度[SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
-    - SINA Music 最高收聽率二十大歌曲《黑色狂迷》
-  - 2010年度[SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
-    - 我最喜愛組合 (香港)
+  - [第三十三屆十大中文金曲頒獎音樂會](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink") - 全年最高銷量歌手大獎組合
+  - 2010年度[SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink") - SINA Music 最高收聽率二十大歌曲《黑色狂迷》
+  - 2010年度[SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink") - 我最喜愛組合 (香港)
 
 <!-- end list -->
 
@@ -709,20 +666,13 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 
 <!-- end list -->
 
-  - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲
-    《零時起-{哄}-》
+  - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲 《零時起-{哄}-》
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆我最欣賞樂隊
-  - [2011年度叱-{咤}-樂壇流行榜](https://zh.wikipedia.org/wiki/2011年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 叱咤樂壇組合 銀獎
-  - 2011年度[SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
-    - SINA Music 最高收聽率二十大歌曲《零時起哄》
-  - 2011年度[SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
-    - 我最喜愛組合 (香港)
-  - [第三十四屆十大中文金曲頒獎音樂會](../Page/第三十四屆十大中文金曲得獎名單.md "wikilink") -
-    CASH最佳創作歌手大獎
+  - [2011年度叱-{咤}-樂壇流行榜](https://zh.wikipedia.org/wiki/2011年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 叱咤樂壇組合 銀獎
+  - 2011年度[SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink") - SINA Music 最高收聽率二十大歌曲《零時起哄》
+  - 2011年度[SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink") - 我最喜愛組合 (香港)
+  - [第三十四屆十大中文金曲頒獎音樂會](../Page/第三十四屆十大中文金曲得獎名單.md "wikilink") - CASH最佳創作歌手大獎
 
 <!-- end list -->
 
@@ -733,43 +683,30 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲 《昨天》
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆我最欣賞樂隊
-  - [2012年度叱-{咤}-樂壇流行榜](https://zh.wikipedia.org/wiki/2012年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 專業推介．叱咤十大 第四位 《昨天》
-  - [2012年度叱-{咤}-樂壇流行榜](https://zh.wikipedia.org/wiki/2012年度叱咤樂壇流行榜頒獎典禮 "wikilink")
-    - 叱咤樂壇組合 銀獎
-  - 2012年度[SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
-    - SINA Music 最高收聽率二十大歌曲《昨天》
-  - 2012年度[SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
-    - 我最喜愛組合 (香港)
+  - [2012年度叱-{咤}-樂壇流行榜](https://zh.wikipedia.org/wiki/2012年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 專業推介．叱咤十大 第四位 《昨天》
+  - [2012年度叱-{咤}-樂壇流行榜](https://zh.wikipedia.org/wiki/2012年度叱咤樂壇流行榜頒獎典禮 "wikilink") - 叱咤樂壇組合 銀獎
+  - 2012年度[SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink") - SINA Music 最高收聽率二十大歌曲《昨天》
+  - 2012年度[SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink") - 我最喜愛組合 (香港)
   - [第三十五屆十大中文金曲頒獎音樂會](../Page/第三十五屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
 
 ## 參考文獻
 
 ## 外部連結
 
-  - [Mr. Yahoo
-    Blog\!](https://web.archive.org/web/20091226132721/http://hk.myblog.yahoo.com/damrblog)
+  - [Mr. Yahoo Blog\!](https://web.archive.org/web/20091226132721/http://hk.myblog.yahoo.com/damrblog)
 
   - [Mr. Facebook](http://www.facebook.com/wearemister)
 
   - [MONSTERS MUSIC](http://monstersmusic.wordpress.com)
 
-  - [Mr.
-    Forum](https://web.archive.org/web/20121011063037/http://damrblog.com/)
+  - [Mr. Forum](https://web.archive.org/web/20121011063037/http://damrblog.com/)
 
-  - [Pinkwork City 訪問(Sound &
-    Video)](https://web.archive.org/web/20090915224705/http://www.pink.com.hk/musicshop/band/mr3.htm)
+  - [Pinkwork City 訪問(Sound & Video)](https://web.archive.org/web/20090915224705/http://www.pink.com.hk/musicshop/band/mr3.htm)
 
-  - [撐MR. -
-    撐原創](http://www.facebook.com/topic.php?topic=14627&post=55171&uid=320888620635#!/group.php?gid=320888620635)
+  - [撐MR. - 撐原創](http://www.facebook.com/topic.php?topic=14627&post=55171&uid=320888620635#!/group.php?gid=320888620635)
 
   -
-[Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink")
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:Mr.](https://zh.wikipedia.org/wiki/Category:Mr. "wikilink")
-[Category:叱咤樂壇我最喜愛的歌曲得主](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲得主 "wikilink")
+[Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:Mr.](https://zh.wikipedia.org/wiki/Category:Mr. "wikilink") [Category:叱咤樂壇我最喜愛的歌曲得主](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲得主 "wikilink")
 
 1.
 

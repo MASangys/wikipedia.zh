@@ -1,8 +1,4 @@
-**蘇格蘭FWA年度最佳青年球員**（[英語全名](https://zh.wikipedia.org/wiki/英語 "wikilink")**Scottish
-Football Writers' Association Young Player of the Year**，通常稱為**SFWA
-Young Player of the Year**，或簡稱為**Scottish Young Player of the
-Year**）是每年頒發予[蘇格蘭](../Page/蘇格蘭.md "wikilink")頂級[足球](../Page/足球.md "wikilink")聯賽[蘇格蘭足球超級聯賽](../Page/蘇格蘭足球超級聯賽.md "wikilink")上一球季表現最出色的青年（23歲以下）球員。候選名單由「蘇格蘭足球記者協會」（Scottish
-Football Writers' Association，簡稱SFWA）的會員訂定及選出最後的獲獎球員。
+**蘇格蘭FWA年度最佳青年球員**（[英語全名](https://zh.wikipedia.org/wiki/英語 "wikilink")**Scottish Football Writers' Association Young Player of the Year**，通常稱為**SFWA Young Player of the Year**，或簡稱為**Scottish Young Player of the Year**）是每年頒發予[蘇格蘭](../Page/蘇格蘭.md "wikilink")頂級[足球](../Page/足球.md "wikilink")聯賽[蘇格蘭足球超級聯賽](../Page/蘇格蘭足球超級聯賽.md "wikilink")上一球季表現最出色的青年（23歲以下）球員。候選名單由「蘇格蘭足球記者協會」（Scottish Football Writers' Association，簡稱SFWA）的會員訂定及選出最後的獲獎球員。
 
 ## 歷屆獲獎人
 
@@ -94,9 +90,7 @@ Football Writers' Association，簡稱SFWA）的會員訂定及選出最後的�
 
 ## 參考資料
 
-[Category:蘇格蘭足球](https://zh.wikipedia.org/wiki/Category:蘇格蘭足球 "wikilink")
-[Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink")
-[Category:2001年建立的獎項](https://zh.wikipedia.org/wiki/Category:2001年建立的獎項 "wikilink")
+[Category:蘇格蘭足球](https://zh.wikipedia.org/wiki/Category:蘇格蘭足球 "wikilink") [Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink") [Category:2001年建立的獎項](https://zh.wikipedia.org/wiki/Category:2001年建立的獎項 "wikilink")
 
 1.
 
@@ -108,10 +102,6 @@ Football Writers' Association，簡稱SFWA）的會員訂定及選出最後的�
 
 5.
 
-6.  [Ace Fletcher doubles up young player
-    accolade](http://edinburghnews.scotsman.com/sport/Ace-Fletcher-doubles-up-young.5274265.jp),
-    *[Edinburgh Evening
-    News](https://zh.wikipedia.org/wiki/Edinburgh_Evening_News "wikilink")*,
-    16 May 2009.
+6.  [Ace Fletcher doubles up young player accolade](http://edinburghnews.scotsman.com/sport/Ace-Fletcher-doubles-up-young.5274265.jp), *[Edinburgh Evening News](https://zh.wikipedia.org/wiki/Edinburgh_Evening_News "wikilink")*, 16 May 2009.
 
 7.

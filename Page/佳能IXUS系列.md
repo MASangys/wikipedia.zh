@@ -1,4 +1,4 @@
-**佳能伊克薩斯系列（IXY/PowerShot）**是[佳能旗下的輕便型](../Page/佳能.md "wikilink")[數碼相機系列](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")。
+**佳能伊克薩斯系列（IXY/PowerShot）**是[佳能](../Page/佳能.md "wikilink")旗下的輕便型[數碼相機系列](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")。
 
 ## 旗下產品
 
@@ -1762,8 +1762,7 @@ L<sup>3</sup></p></td>
 
 34.
 
-35. [Canon PowerShot SD880 IS review -
-    CNET](http://reviews.cnet.com/digital-cameras/canon-powershot-sd880-is/4505-6501_7-33310695.html)
+35. [Canon PowerShot SD880 IS review - CNET](http://reviews.cnet.com/digital-cameras/canon-powershot-sd880-is/4505-6501_7-33310695.html)
 
 36.
 

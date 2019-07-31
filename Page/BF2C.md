@@ -1,32 +1,22 @@
-**寇蒂斯Model 67**（美國海軍編號**BF2C-1蒼鷹**）與**寇蒂斯Model 68 Hawk
-III**為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[柯蒂斯-萊特公司](../Page/柯蒂斯-萊特公司.md "wikilink")於1930年代為[美國海軍](../Page/美國海軍.md "wikilink")開發的[雙翼機](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")。雖然在美國海軍的評價並不高，但是這款[寇蒂斯鷹系列](../Page/寇蒂斯鷹系列.md "wikilink")在外銷上獲得一定成績，並在其他國家的天空獲得了不少戰果。
+**寇蒂斯Model 67**（美國海軍編號**BF2C-1蒼鷹**）與**寇蒂斯Model 68 Hawk III**為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[柯蒂斯-萊特公司](../Page/柯蒂斯-萊特公司.md "wikilink")於1930年代為[美國海軍](../Page/美國海軍.md "wikilink")開發的[雙翼機](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")。雖然在美國海軍的評價並不高，但是這款[寇蒂斯鷹系列](../Page/寇蒂斯鷹系列.md "wikilink")在外銷上獲得一定成績，並在其他國家的天空獲得了不少戰果。
 
 ## 設計與開發
 
-寇蒂斯公司和[美国海军認為寇蒂斯F](https://zh.wikipedia.org/wiki/美国海军 "wikilink")11C-2战斗机的设计有潛力尚未開發，因此要求寇蒂斯開發一款使用可收放式起落架的F-11C。新飛機保留了鷹系列经典的[克拉克Y翼型以及F](https://zh.wikipedia.org/wiki/克拉克Y翼 "wikilink")11C-2之木質主翼，並安裝了手搖式可收放起落架，起落架的設計來自来自[格鲁曼的](https://zh.wikipedia.org/wiki/格鲁曼 "wikilink")[XFF-1的手搖式起落架](https://zh.wikipedia.org/wiki/格鲁曼FF "wikilink")\[1\]，新飛機称为XF11C-3（寇蒂斯內部編號Model
-67），並於1933年5月交付美國海軍進行測試。
+寇蒂斯公司和[美国海军認為寇蒂斯F](https://zh.wikipedia.org/wiki/美国海军 "wikilink")11C-2战斗机的设计有潛力尚未開發，因此要求寇蒂斯開發一款使用可收放式起落架的F-11C。新飛機保留了鷹系列经典的[克拉克Y翼型以及F](https://zh.wikipedia.org/wiki/克拉克Y翼 "wikilink")11C-2之木質主翼，並安裝了手搖式可收放起落架，起落架的設計來自来自[格鲁曼的](https://zh.wikipedia.org/wiki/格鲁曼 "wikilink")[XFF-1的手搖式起落架](https://zh.wikipedia.org/wiki/格鲁曼FF "wikilink")\[1\]，新飛機称为XF11C-3（寇蒂斯內部編號Model 67），並於1933年5月交付美國海軍進行測試。
 
-XF11C-3採用與C-2相同出力但不同型號的懷特[R-1820-80發動機](https://zh.wikipedia.org/wiki/R-1820發動機 "wikilink")，出力700匹馬力（522[千瓦](https://zh.wikipedia.org/wiki/千瓦 "wikilink")），改良結果XF-11C-3時速比舊型F-11-C2快了27.5公里（17英里）。但是增加的飛機空重（200公斤）抵銷了可收式起落架所彌補的氣流阻力，因此在飛機操作性上並沒有比舊型機好去哪，為了改善重量問題美國海軍測試時XF11C-3將木製主翼更換為金屬結構主翼，並採用NACA2212型機翼。改良版的XF11C-3變更代號為XBF2C-1（寇蒂斯內部編號Model
-67A）以符合美國海軍的[戰鬥轟炸機編號要求](https://zh.wikipedia.org/wiki/戰鬥轟炸機 "wikilink")。\[2\]
+XF11C-3採用與C-2相同出力但不同型號的懷特[R-1820-80發動機](https://zh.wikipedia.org/wiki/R-1820發動機 "wikilink")，出力700匹馬力（522[千瓦](https://zh.wikipedia.org/wiki/千瓦 "wikilink")），改良結果XF-11C-3時速比舊型F-11-C2快了27.5公里（17英里）。但是增加的飛機空重（200公斤）抵銷了可收式起落架所彌補的氣流阻力，因此在飛機操作性上並沒有比舊型機好去哪，為了改善重量問題美國海軍測試時XF11C-3將木製主翼更換為金屬結構主翼，並採用NACA2212型機翼。改良版的XF11C-3變更代號為XBF2C-1（寇蒂斯內部編號Model 67A）以符合美國海軍的[戰鬥轟炸機編號要求](https://zh.wikipedia.org/wiki/戰鬥轟炸機 "wikilink")。\[2\]
 
-[Curtiss_BF2C-1_Goshawk_VB-5_NAN1-86.jpg](https://zh.wikipedia.org/wiki/File:Curtiss_BF2C-1_Goshawk_VB-5_NAN1-86.jpg "fig:Curtiss_BF2C-1_Goshawk_VB-5_NAN1-86.jpg")的BF2C-1戰鬥機\]\]
-在變更要求後，美國海軍下了27架**BF2C-1**訂單，飛機擁有機背如鯨魚般線條的機身，無座艙罩式單座[駕駛艙](https://zh.wikipedia.org/wiki/駕駛艙 "wikilink")，金屬框架製下翼，武裝為2挺[白朗寧M1919中型機槍](../Page/白朗寧M1919中型機槍.md "wikilink")以及3具總共可掛500磅外載的[派龍架](https://zh.wikipedia.org/wiki/派龍架 "wikilink")。這批戰鬥轟炸機於1934年10月交貨並配發在第五飛行轟炸中隊（VB-5，隸屬於[遊騎兵號航空母艦](https://zh.wikipedia.org/wiki/遊騎兵號航空母艦 "wikilink")），但是只使用了幾個月就因為起落架的操作問題和飛行時翼樑會震動，因此撤離航艦退役\[3\]。這架飛機的失敗也使得寇蒂斯蒼鷹系列機型成為寇蒂斯飛機公司最後一款為美國海軍製造的戰鬥機\[4\]，但是部分在當時是十分先進的設計思想被後來其它的美國海軍航空隊軍機採用。
+[Curtiss_BF2C-1_Goshawk_VB-5_NAN1-86.jpg](https://zh.wikipedia.org/wiki/File:Curtiss_BF2C-1_Goshawk_VB-5_NAN1-86.jpg "fig:Curtiss_BF2C-1_Goshawk_VB-5_NAN1-86.jpg")的BF2C-1戰鬥機\]\] 在變更要求後，美國海軍下了27架**BF2C-1**訂單，飛機擁有機背如鯨魚般線條的機身，無座艙罩式單座[駕駛艙](https://zh.wikipedia.org/wiki/駕駛艙 "wikilink")，金屬框架製下翼，武裝為2挺[白朗寧M1919中型機槍](../Page/白朗寧M1919中型機槍.md "wikilink")以及3具總共可掛500磅外載的[派龍架](https://zh.wikipedia.org/wiki/派龍架 "wikilink")。這批戰鬥轟炸機於1934年10月交貨並配發在第五飛行轟炸中隊（VB-5，隸屬於[遊騎兵號航空母艦](https://zh.wikipedia.org/wiki/遊騎兵號航空母艦 "wikilink")），但是只使用了幾個月就因為起落架的操作問題和飛行時翼樑會震動，因此撤離航艦退役\[3\]。這架飛機的失敗也使得寇蒂斯蒼鷹系列機型成為寇蒂斯飛機公司最後一款為美國海軍製造的戰鬥機\[4\]，但是部分在當時是十分先進的設計思想被後來其它的美國海軍航空隊軍機採用。
 
 ## 霍克III戰鬥機
 
-在美國海軍版本失敗後，寇蒂斯以同樣機型繼續進行外銷型修改，修改版稱「Model 68」或「Hawk
-III」（中文音譯為「霍克III」），與美國海軍版本不同的是取消著艦鈎和換回以往寇蒂斯系列的木製克拉克Y平底型機翼、發動機更換為R-1820-F53、更換機槍強化火力、Model
-68C之後更換三葉螺旋槳減輕發動機震動問題，Model 79 Hawk
-IV引擎更換為R-1820-F56、並加裝封閉式座艙讓飛機速度進一步提升，武裝方面把機頭左側機槍換為[M2重機槍以強化火力](../Page/白朗寧M2重機槍.md "wikilink")，這些外銷型獲得部分國家青睞，因為外銷型把原先的震動問題解決了。
+在美國海軍版本失敗後，寇蒂斯以同樣機型繼續進行外銷型修改，修改版稱「Model 68」或「Hawk III」（中文音譯為「霍克III」），與美國海軍版本不同的是取消著艦鈎和換回以往寇蒂斯系列的木製克拉克Y平底型機翼、發動機更換為R-1820-F53、更換機槍強化火力、Model 68C之後更換三葉螺旋槳減輕發動機震動問題，Model 79 Hawk IV引擎更換為R-1820-F56、並加裝封閉式座艙讓飛機速度進一步提升，武裝方面把機頭左側機槍換為[M2重機槍以強化火力](../Page/白朗寧M2重機槍.md "wikilink")，這些外銷型獲得部分國家青睞，因為外銷型把原先的震動問題解決了。
 
 在1935年上半年，泰国以63,900泰铢/架的价格购买了24架霍克III型战斗机，同时也购买了生产许可证，前12架于8月份运抵泰国，其它12架在1935年末运达，这些飞机被命名为10型战斗机，自1937年至1939年，共有50架霍克III型飞机在本地制造，此类飞机一直服役到1949年，在泰國作為教練機的Hawk-III甚至使用到1949年之後才告退役\[5\]，其中一架机身（KH-10）目前保存在[皇家泰国空军博物馆](https://zh.wikipedia.org/wiki/皇家泰国空军博物馆 "wikilink")。
 
 ## 中國戰場的實戰
 
-[1930s_Hawk_III_of_China_Air_Force.jpg](https://zh.wikipedia.org/wiki/File:1930s_Hawk_III_of_China_Air_Force.jpg "fig:1930s_Hawk_III_of_China_Air_Force.jpg")
-[Curtiss_Model_68_Hawk_III.jpg](https://zh.wikipedia.org/wiki/File:Curtiss_Model_68_Hawk_III.jpg "fig:Curtiss_Model_68_Hawk_III.jpg")
-[中華民國空軍](../Page/中華民國空軍.md "wikilink")的Moedl68C
-Hawk-III（中國稱其為新霍克或霍克三）在[抗日戰爭時與日本帝國海軍航空隊以及陸軍航空隊多次交手獲得部分戰绩](https://zh.wikipedia.org/wiki/抗日戰爭 "wikilink")，初期空軍的空戰王牌如[劉粹剛](https://zh.wikipedia.org/wiki/劉粹剛 "wikilink")、[高志航](../Page/高志航.md "wikilink")等人皆是以此型飛機取得豐碩戰果，當時空軍戰鬥機中服役數量最多者為霍克三，雖然國民政府總共向美國採購了102架Hawk-III。但這批訂單在1936年敲定，因此在1937年時只有4、5大隊與3大隊第七中隊完成換裝，以1中隊滿編9機標準，在1937年7月中日衝突升溫之際，空軍僅有不到70架的Hawk-III可供運用。霍克三也是中國第一種採用[M2重機槍這類重型火力的戰鬥機](../Page/白朗寧M2重機槍.md "wikilink")，而由於其使用的重機槍子彈價錢較貴，故在平時作空中射擊訓練時祇會用機頭另一邊的M1919機槍，由於抗戰初期中國空軍的轟炸機數量不足而霍克三也可以掛上250公斤炸彈，故也作為攻擊機使用；不過這批戰機一方面耗損甚鉅、且難以與日軍新型戰機匹敵，二方面中國在寇蒂斯廠推薦下採購新型的[HAWK-75系列](../Page/P-36戰鬥機.md "wikilink")，加上向蘇聯採購的戰機。Hawk-III在1938年後逐漸退出前線，到1940年時只剩4大隊隸屬之22中隊以9架霍克三擔任重慶的夜間攔截戰備，剩下的僅提供訓練單位使用。
+[1930s_Hawk_III_of_China_Air_Force.jpg](https://zh.wikipedia.org/wiki/File:1930s_Hawk_III_of_China_Air_Force.jpg "fig:1930s_Hawk_III_of_China_Air_Force.jpg") [Curtiss_Model_68_Hawk_III.jpg](https://zh.wikipedia.org/wiki/File:Curtiss_Model_68_Hawk_III.jpg "fig:Curtiss_Model_68_Hawk_III.jpg") [中華民國空軍](../Page/中華民國空軍.md "wikilink")的Moedl68C Hawk-III（中國稱其為新霍克或霍克三）在[抗日戰爭時與日本帝國海軍航空隊以及陸軍航空隊多次交手獲得部分戰绩](https://zh.wikipedia.org/wiki/抗日戰爭 "wikilink")，初期空軍的空戰王牌如[劉粹剛](https://zh.wikipedia.org/wiki/劉粹剛 "wikilink")、[高志航](../Page/高志航.md "wikilink")等人皆是以此型飛機取得豐碩戰果，當時空軍戰鬥機中服役數量最多者為霍克三，雖然國民政府總共向美國採購了102架Hawk-III。但這批訂單在1936年敲定，因此在1937年時只有4、5大隊與3大隊第七中隊完成換裝，以1中隊滿編9機標準，在1937年7月中日衝突升溫之際，空軍僅有不到70架的Hawk-III可供運用。霍克三也是中國第一種採用[M2重機槍這類重型火力的戰鬥機](../Page/白朗寧M2重機槍.md "wikilink")，而由於其使用的重機槍子彈價錢較貴，故在平時作空中射擊訓練時祇會用機頭另一邊的M1919機槍，由於抗戰初期中國空軍的轟炸機數量不足而霍克三也可以掛上250公斤炸彈，故也作為攻擊機使用；不過這批戰機一方面耗損甚鉅、且難以與日軍新型戰機匹敵，二方面中國在寇蒂斯廠推薦下採購新型的[HAWK-75系列](../Page/P-36戰鬥機.md "wikilink")，加上向蘇聯採購的戰機。Hawk-III在1938年後逐漸退出前線，到1940年時只剩4大隊隸屬之22中隊以9架霍克三擔任重慶的夜間攔截戰備，剩下的僅提供訓練單位使用。
 
 ### 淞滬會戰
 
@@ -60,20 +50,16 @@ Hawk-III（中國稱其為新霍克或霍克三）在[抗日戰爭時與日本�
 [美國海軍](../Page/美國海軍.md "wikilink")採用27架BF2C-1（Model 67A）
 
   -
-[土耳其空軍於](https://zh.wikipedia.org/wiki/土耳其空軍 "wikilink")1935年4月購買1架Model
-68B *Hawk III*
+[土耳其空軍於](https://zh.wikipedia.org/wiki/土耳其空軍 "wikilink")1935年4月購買1架Model 68B *Hawk III*
 
   -
-[泰國皇家空軍](../Page/泰國皇家空軍.md "wikilink")於1935年8月至1936年4月以每架63900[泰銖](../Page/泰銖.md "wikilink")的代價購買了24架Model
-68B*鷹III型*，並持續使用到1949年退役。目前在[泰國皇家空軍博物館](../Page/泰國皇家空軍博物館.md "wikilink")內保留一架實機（KH-10）展示
+[泰國皇家空軍](../Page/泰國皇家空軍.md "wikilink")於1935年8月至1936年4月以每架63900[泰銖](../Page/泰銖.md "wikilink")的代價購買了24架Model 68B*鷹III型*，並持續使用到1949年退役。目前在[泰國皇家空軍博物館](../Page/泰國皇家空軍博物館.md "wikilink")內保留一架實機（KH-10）展示
 
   -
-[中華民國空軍](../Page/中華民國空軍.md "wikilink")於1936年與寇蒂斯訂購了102架外銷型Model
-68C，國內將這種戰機稱為*新霍克*或*霍克三*。這批飛機於1936年3月19日至1938年陸續交貨\[6\]，其中12架由原廠輸出，其餘90架以零組件方式交付[中央飛機製造廠以及](https://zh.wikipedia.org/wiki/中央飛機製造廠 "wikilink")[韶關飛機製造廠組裝](https://zh.wikipedia.org/wiki/韶關飛機製造廠 "wikilink")，最後一架組裝完成交付空軍的時間為1940年。
+[中華民國空軍](../Page/中華民國空軍.md "wikilink")於1936年與寇蒂斯訂購了102架外銷型Model 68C，國內將這種戰機稱為*新霍克*或*霍克三*。這批飛機於1936年3月19日至1938年陸續交貨\[6\]，其中12架由原廠輸出，其餘90架以零組件方式交付[中央飛機製造廠以及](https://zh.wikipedia.org/wiki/中央飛機製造廠 "wikilink")[韶關飛機製造廠組裝](https://zh.wikipedia.org/wiki/韶關飛機製造廠 "wikilink")，最後一架組裝完成交付空軍的時間為1940年。
 
   -
-[阿根廷空軍](../Page/阿根廷空軍.md "wikilink")於1936年5月購買了10架Model 68C *Hawk
-III*，同年7月購買1架Model 79 *Hawk IV*\[7\]
+[阿根廷空軍](../Page/阿根廷空軍.md "wikilink")於1936年5月購買了10架Model 68C *Hawk III*，同年7月購買1架Model 79 *Hawk IV*\[7\]
 
 ## 性能諸元（BF2C-1）
 
@@ -82,10 +68,8 @@ III*，同年7月購買1架Model 79 *Hawk IV*\[7\]
 ## 外部連結
 
   - [Images](http://www.airminded.net/goshawk/goshawk.html)
-  - [Avia Russia Virtual Aircraft
-    Museum](https://web.archive.org/web/20070705041729/http://avia.russian.ee/air/usa/curtiss_bf2c.php)
-  - [Silhouette of the
-    plane](http://www.muzeumlotnictwa.pl/galeria/sylwetki_barwne/CURTISS_F11_Goshawk/CURTISS_F11C.2_Goshawk_9282_1.F.16_USA.jpg)
+  - [Avia Russia Virtual Aircraft Museum](https://web.archive.org/web/20070705041729/http://avia.russian.ee/air/usa/curtiss_bf2c.php)
+  - [Silhouette of the plane](http://www.muzeumlotnictwa.pl/galeria/sylwetki_barwne/CURTISS_F11_Goshawk/CURTISS_F11C.2_Goshawk_9282_1.F.16_USA.jpg)
   - [第二次淞滬戰爭我國參戰之霍克二式及三式戰機](http://cwlam2000.0catch.com/caf26.htm)
 
 ## 参见
@@ -97,24 +81,12 @@ III*，同年7月購買1架Model 79 *Hawk IV*\[7\]
 
 {{-}}
 
-[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink")
-[Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink")
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
-[Category:柯蒂斯公司生产的飞机](https://zh.wikipedia.org/wiki/Category:柯蒂斯公司生产的飞机 "wikilink")
-[Category:中華民國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:中華民國空軍戰鬥機 "wikilink")
-[Category:抗戰時期中國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:抗戰時期中國空軍戰鬥機 "wikilink")
-[Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
+[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:柯蒂斯公司生产的飞机](https://zh.wikipedia.org/wiki/Category:柯蒂斯公司生产的飞机 "wikilink") [Category:中華民國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:中華民國空軍戰鬥機 "wikilink") [Category:抗戰時期中國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:抗戰時期中國空軍戰鬥機 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
 
-1.  "The Complete Encyclopedia of World Aircraft"
-    [cover](http://images.barnesandnoble.com/images/5490000/5496066.gif)
-    Editors: Paul Eden & Soph Moeng,（Amber Books Ltd. Bradley's Close,
-    74-77 White Lion Street, London, NI 9PF, 2002, ISBN 0-7607-3432-1）,
-    1152 pp.
+1.  "The Complete Encyclopedia of World Aircraft" [cover](http://images.barnesandnoble.com/images/5490000/5496066.gif) Editors: Paul Eden & Soph Moeng,（Amber Books Ltd. Bradley's Close, 74-77 White Lion Street, London, NI 9PF, 2002, ISBN 0-7607-3432-1）, 1152 pp.
 
 2.
-3.  "United States Navy Aircraft Since 1911" by Gordon Swanborough &
-    Peter M. Bowers（Naval Institute Press Annapolis, MD, ISBN
-    0-87021-968-5）1976, 546 pp.
+3.  "United States Navy Aircraft Since 1911" by Gordon Swanborough & Peter M. Bowers（Naval Institute Press Annapolis, MD, ISBN 0-87021-968-5）1976, 546 pp.
 
 4.
 5.

@@ -2,8 +2,7 @@
 
 ## 簡史
 
-為行政院新聞局主持與規劃，於2004年針對臺灣影視產業所成立的資訊交流平臺，原名為「國家影音事業發展中心」計畫，於2008年正式改版與更名為：國家影視產業資訊平臺，簡稱為TAVIS.tw，是政府部門首個以[Web
-2.0形式所架構與營運的](../Page/Web_2.0.md "wikilink")[網站](../Page/網站.md "wikilink")，內容匯聚臺灣影視創作作品與人才，被政府視為影視產業的線上目錄。
+為行政院新聞局主持與規劃，於2004年針對臺灣影視產業所成立的資訊交流平臺，原名為「國家影音事業發展中心」計畫，於2008年正式改版與更名為：國家影視產業資訊平臺，簡稱為TAVIS.tw，是政府部門首個以[Web 2.0形式所架構與營運的](../Page/Web_2.0.md "wikilink")[網站](../Page/網站.md "wikilink")，內容匯聚臺灣影視創作作品與人才，被政府視為影視產業的線上目錄。
 
 ## 重要影響
 
@@ -39,8 +38,7 @@
 
 ## 識別系統
 
-線條連接
-TAVIS五個字母，比照網路一般連結著有形無形的資訊世界，尾端無線網路點代表傳遞數位化資訊的意思。橘黃色系為主要色彩系統，依照不同頻道有不同的配色，「哈臺影音快遞」為紫色系、「創藝頻道」為綠色系、「產業頻道」為藍色系、「資深頻道」為粉紅色系等識別。
+線條連接 TAVIS五個字母，比照網路一般連結著有形無形的資訊世界，尾端無線網路點代表傳遞數位化資訊的意思。橘黃色系為主要色彩系統，依照不同頻道有不同的配色，「哈臺影音快遞」為紫色系、「創藝頻道」為綠色系、「產業頻道」為藍色系、「資深頻道」為粉紅色系等識別。
 
 ## 服務內容
 
@@ -58,19 +56,15 @@ TAVIS五個字母，比照網路一般連結著有形無形的資訊世界，尾
   - 2004/04/30 「成立國家影音事業發展中心－影音資訊蒐集與保存」第 4 場公聽會
   - 2004/04/30 「成立國家影音事業發展中心－影音資訊蒐集與保存」第 5 場公聽會
   - 2004/05/12 「成立國家影音事業發展中心－影音資訊蒐集與保存」第 6 場公聽會
-  - 2004/10/22
-    專案計畫「國家影音事業發展中心」名稱更改為[國家影視產業資訊平臺](http://www.tavis.com/bin/home.php)
+  - 2004/10/22 專案計畫「國家影音事業發展中心」名稱更改為[國家影視產業資訊平臺](http://www.tavis.com/bin/home.php)
   - 2004/11/30 舉辦「2010完全數位－國家影音產業資訊平臺啟動發表會
-  - 2008/09/24
-    舉辦「我想看見你－[TAVIS.tw](http://www.tavis.com/bin/home.php)[國家影視產業資訊平臺](http://www.tavis.com/bin/home.php)轉型記者會」
-  - 2008年舉辦「Wow\! eye Taiwan 第一屆全民影音創作大賽」，獲得451筆作品參賽，於2009年舉辦「Wow\! eye
-    Taiwan 第二屆全民影音創作大賽」及全國大專影音畢業聯展。
+  - 2008/09/24 舉辦「我想看見你－[TAVIS.tw](http://www.tavis.com/bin/home.php)[國家影視產業資訊平臺](http://www.tavis.com/bin/home.php)轉型記者會」
+  - 2008年舉辦「Wow\! eye Taiwan 第一屆全民影音創作大賽」，獲得451筆作品參賽，於2009年舉辦「Wow\! eye Taiwan 第二屆全民影音創作大賽」及全國大專影音畢業聯展。
 
 ## 參考資料
 
   - [國家影視產業資訊平台網路大事記](https://web.archive.org/web/20090322174036/http://info.gio.gov.tw/lp.asp?CtNode=3535&CtUnit=608&BaseDSD=7&mp=1)
-  - [打造數位台灣
-    國家影音產業資訊平台明啟動](http://www.epochtimes.com/b5/4/11/29/n731778.htm)
+  - [打造數位台灣 國家影音產業資訊平台明啟動](http://www.epochtimes.com/b5/4/11/29/n731778.htm)
   - [數位典藏國家型科技計畫:內容發展分項計畫,「國家影音產業資訊平台」之介紹](https://archive.is/20121222051250/http://content.ndap.org.tw/main/doc_detail.php?doc_id=939)
   - [「國家影音產業資訊平台」行銷企劃案諮詢會議紀錄](http://www.gio.gov.tw/public/Attachment/642117233536.doc)
 
@@ -78,5 +72,4 @@ TAVIS五個字母，比照網路一般連結著有形無形的資訊世界，尾
 
   - [國家影音產業資訊平臺](http://tavis.tw/bin/home.php)
 
-[Category:TAVIS.tw](https://zh.wikipedia.org/wiki/Category:TAVIS.tw "wikilink")
-[Category:新聞局](https://zh.wikipedia.org/wiki/Category:新聞局 "wikilink")
+[Category:TAVIS.tw](https://zh.wikipedia.org/wiki/Category:TAVIS.tw "wikilink") [Category:新聞局](https://zh.wikipedia.org/wiki/Category:新聞局 "wikilink")

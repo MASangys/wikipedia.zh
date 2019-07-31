@@ -1,7 +1,4 @@
-**《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")2005》**（Astro
-Wah Lai Toi Drama Awards
-2005）乃是由Astro華麗台主辦的年度壓軸盛事，投選活動將于2005年12月1日正式啓動。於周六（2006年1月7日）晚在[馬來西亞SUNWAY](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")
-PYRAMID隆重举行。當晚，[無線電視劇](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《[金枝慾孽](../Page/金枝慾孽.md "wikilink")》最威風，成功地抱走8大獎項，四大皇帝妃子手中都有獎，包括了獲得「我的至愛氣勢最強大獎」、「我的至愛女主角」、「我最難忘的一幕」、「我最難忘的一幕」及4個「我的至愛角色」。[佘詩曼成為當晚大贏家](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，成功以大熱姿態奪得「我的至愛女主角」，首次成為馬來西亞觀眾們心目中的視-{后}-，[佘詩曼還與](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[張智霖一同以大熱姿態奪得](../Page/張智霖.md "wikilink")「我的至愛情侶檔」。[林峯也憑](https://zh.wikipedia.org/wiki/林峯 "wikilink")《[大唐雙龍傳](../Page/大唐雙龍傳_\(電視劇\).md "wikilink")》首次成為馬來西亞視帝。[安德尊及](../Page/安德尊.md "wikilink")[王翠玲主持](https://zh.wikipedia.org/wiki/王翠玲 "wikilink")。
+**《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")2005》**（Astro Wah Lai Toi Drama Awards 2005）乃是由Astro華麗台主辦的年度壓軸盛事，投選活動將于2005年12月1日正式啓動。於周六（2006年1月7日）晚在[馬來西亞SUNWAY](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink") PYRAMID隆重举行。當晚，[無線電視劇](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《[金枝慾孽](../Page/金枝慾孽.md "wikilink")》最威風，成功地抱走8大獎項，四大皇帝妃子手中都有獎，包括了獲得「我的至愛氣勢最強大獎」、「我的至愛女主角」、「我最難忘的一幕」、「我最難忘的一幕」及4個「我的至愛角色」。[佘詩曼成為當晚大贏家](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，成功以大熱姿態奪得「我的至愛女主角」，首次成為馬來西亞觀眾們心目中的視-{后}-，[佘詩曼還與](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[張智霖](../Page/張智霖.md "wikilink")一同以大熱姿態奪得「我的至愛情侶檔」。[林峯也憑](https://zh.wikipedia.org/wiki/林峯 "wikilink")《[大唐雙龍傳](../Page/大唐雙龍傳_\(電視劇\).md "wikilink")》首次成為馬來西亞視帝。[安德尊](../Page/安德尊.md "wikilink")及[王翠玲主持](https://zh.wikipedia.org/wiki/王翠玲 "wikilink")。
 
 ## 我的至愛戲勢最強大獎
 

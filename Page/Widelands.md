@@ -1,14 +1,4 @@
-{{ Infobox VG | title = | image = <File:Widelands-svn3311.jpg> | caption
-= 截图svn3311版本 | developer =
-[团队](http://xoops.widelands.org/modules/mediawiki/wiki/Developers) |
-engine = 自制 (基於[SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")) |
-genre = [即时战略](../Page/即时战略游戏.md "wikilink") | modes =
-[单人游戏](https://zh.wikipedia.org/wiki/单人游戏 "wikilink")，[联机游戏](https://zh.wikipedia.org/wiki/联机游戏 "wikilink")
-| platforms = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") }}
-***Widelands***
-是一个慢节奏[即时战略游戏](../Page/即时战略游戏.md "wikilink")，模仿[工人物语系列](../Page/工人物语系列.md "wikilink")的前两部，在[GPL协议下发布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。可以在[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Mac
-OS
-X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows下运行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+{{ Infobox VG | title = | image = <File:Widelands-svn3311.jpg> | caption = 截图svn3311版本 | developer = [团队](http://xoops.widelands.org/modules/mediawiki/wiki/Developers) | engine = 自制 (基於[SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")) | genre = [即时战略](../Page/即时战略游戏.md "wikilink") | modes = [单人游戏](https://zh.wikipedia.org/wiki/单人游戏 "wikilink")，[联机游戏](https://zh.wikipedia.org/wiki/联机游戏 "wikilink") | platforms = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") }} ***Widelands*** 是一个慢节奏[即时战略游戏](../Page/即时战略游戏.md "wikilink")，模仿[工人物语系列](../Page/工人物语系列.md "wikilink")的前两部，在[GPL协议下发布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。可以在[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows下运行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 游戏特点
 
@@ -30,23 +20,12 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows下运行](https
 
   - [Widelands项目页──Sourceforge.net](http://www.sourceforge.net/projects/widelands)
 
-  - [Inofficial development versions for linux
-    users](https://web.archive.org/web/20160304223641/https://www.azagtoth.de/widelands-daily/)
+  - [Inofficial development versions for linux users](https://web.archive.org/web/20160304223641/https://www.azagtoth.de/widelands-daily/)
 
   -
   -
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
+[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
 
 1.
-2.  [计划开始后的变动](http://xoops.widelands.org/modules/mediawiki/index.php/Changelog)
-
-    [计划好的变动](http://xoops.widelands.org/modules/mediawiki/index.php/Roadmap)
-
-3.  [Bugtracker](http://sourceforge.net/tracker/?group_id=40163&atid=427221)
-    [特性申请列表](http://sourceforge.net/tracker/?group_id=40163&atid=427224)
+2.  [计划开始后的变动](http://xoops.widelands.org/modules/mediawiki/index.php/Changelog)  [计划好的变动](http://xoops.widelands.org/modules/mediawiki/index.php/Roadmap)
+3.  [Bugtracker](http://sourceforge.net/tracker/?group_id=40163&atid=427221) [特性申请列表](http://sourceforge.net/tracker/?group_id=40163&atid=427224)

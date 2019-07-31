@@ -1,6 +1,4 @@
-**YAHOO\!搜尋人氣大獎2008**，（又稱**第6屆Yahoo！搜尋人氣大獎**），於2008年12月10日假[香港展覽中心](../Page/香港展覽中心.md "wikilink")舉行，主題為「搜尋最愛
-繼續喝釆 人氣獎項
-由你主宰」，當晚共頒發49個項目，當中20項為音樂獎項，11項為電視及電影獎項，14項為社會焦點獎項，更設4項至尊獎項。以下為當晚的得獎名單：
+**YAHOO\!搜尋人氣大獎2008**，（又稱**第6屆Yahoo！搜尋人氣大獎**），於2008年12月10日假[香港展覽中心](../Page/香港展覽中心.md "wikilink")舉行，主題為「搜尋最愛 繼續喝釆 人氣獎項 由你主宰」，當晚共頒發49個項目，當中20項為音樂獎項，11項為電視及電影獎項，14項為社會焦點獎項，更設4項至尊獎項。以下為當晚的得獎名單：
 
 ## 得獎名單
 
@@ -18,26 +16,21 @@
       - 《分手要狠》——[吳雨霏](../Page/吳雨霏.md "wikilink")
       - 《撈月亮的人》 ——[楊千嬅](../Page/楊千嬅.md "wikilink")
   - Yahoo\!Music人氣合唱歌曲 2008
-      - 《寫得太多》
-        ——[麥浚龍](../Page/麥浚龍.md "wikilink")、[倫永亮](../Page/倫永亮.md "wikilink")
-      - 《一事無成》
-        ——[周柏豪](../Page/周柏豪.md "wikilink")、[鄭融](../Page/鄭融.md "wikilink")
-      - 《四面楚歌》
-        ——[關楚耀](../Page/關楚耀.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
+      - 《寫得太多》 ——[麥浚龍](../Page/麥浚龍.md "wikilink")、[倫永亮](../Page/倫永亮.md "wikilink")
+      - 《一事無成》 ——[周柏豪](../Page/周柏豪.md "wikilink")、[鄭融](../Page/鄭融.md "wikilink")
+      - 《四面楚歌》 ——[關楚耀](../Page/關楚耀.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
   - Yahoo\!Music人氣MV 2008
       - 《野百合》 ——[鍾舒漫](../Page/鍾舒漫.md "wikilink")
       - 《小蠻腰》 ——[泳兒](../Page/泳兒.md "wikilink")
       - 《分手要狠》——[吳雨霏](../Page/吳雨霏.md "wikilink")
   - Yahoo\!Music人氣國語歌曲 2008
-      - 《小酒窩》
-        ——[林俊杰](../Page/林俊杰.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")
+      - 《小酒窩》 ——[林俊杰](../Page/林俊杰.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")
   - 華語歌曲
       - 《最美麗的第七天》 ——[泳兒](../Page/泳兒.md "wikilink")
       - 《歌。頌》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
       - 《勁歌金曲2情歌王》 ——[古巨基](../Page/古巨基.md "wikilink")
   - 歌詞
-      - 《我的最愛》
-        ——[方力申](../Page/方力申.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")
+      - 《我的最愛》 ——[方力申](../Page/方力申.md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")
   - 搜尋人氣電視劇集歌曲
       - 《愛不疚》 ——[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
   - 樂壇新勢力（男歌手）

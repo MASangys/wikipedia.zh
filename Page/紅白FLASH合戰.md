@@ -24,10 +24,8 @@
   - 2002年，****發起活動，由**FLASH50**提供營運相關資源。
   - 2003年，**FLASH50**擔任主辦人，因為有上一屆的紀錄，此屆的參賽者及觀眾皆增加許多，紅白FLASH合戰也變的較廣為人知。
   - 2004年，為最後一屆紅白FLASH合戰，同時也是參賽者最多的一屆。
-  - 2005年，由[FLASH★BOMB取代](https://zh.wikipedia.org/wiki/FLASH★BOMB "wikilink")。在這期間，同類型的[紅白闇鍋祭](https://zh.wikipedia.org/wiki/紅白闇鍋祭 "wikilink")，以及模仿[slashup的](https://zh.wikipedia.org/wiki/slashup "wikilink")[naname
-    up展開](https://zh.wikipedia.org/wiki/naname_up "wikilink")。
-  - 2007年，紅白FLASH合戰復出，與[紅白闇鍋祭](https://zh.wikipedia.org/wiki/紅白闇鍋祭 "wikilink")、[naname
-    up一同成為Flash板的三大盛事](https://zh.wikipedia.org/wiki/naname_up "wikilink")。
+  - 2005年，由[FLASH★BOMB取代](https://zh.wikipedia.org/wiki/FLASH★BOMB "wikilink")。在這期間，同類型的[紅白闇鍋祭](https://zh.wikipedia.org/wiki/紅白闇鍋祭 "wikilink")，以及模仿[slashup的](https://zh.wikipedia.org/wiki/slashup "wikilink")[naname up展開](https://zh.wikipedia.org/wiki/naname_up "wikilink")。
+  - 2007年，紅白FLASH合戰復出，與[紅白闇鍋祭](https://zh.wikipedia.org/wiki/紅白闇鍋祭 "wikilink")、[naname up一同成為Flash板的三大盛事](https://zh.wikipedia.org/wiki/naname_up "wikilink")。
   - 2008年，與[Niconico動畫合作舉行](https://zh.wikipedia.org/wiki/ニコニコ動画 "wikilink")。
   - 2009年，以新生迎接第三回的「紅白FLASH合戦2009 -再燐-」，以新的管理人員與嶄新的管理方案營運。
   - 2010年，第四回「紅白FLASH合戰2010」，由於投票系統出問題，紅白雙組不分勝負。
@@ -358,9 +356,6 @@
 
   - [2ch的Flash板](http://pc11.2ch.net/swf/)
 
-  - [FLASH・<span lang="ja">-{動画板}-</span>Wiki -
-    <span lang="ja">-{紅白FLASH合戦}-</span>](http://www20.atwiki.jp/flaita/pages/194.html)
+  - [FLASH・<span lang="ja">-{動画板}-</span>Wiki - <span lang="ja">-{紅白FLASH合戦}-</span>](http://www20.atwiki.jp/flaita/pages/194.html)
 
-[Category:Flash動畫](https://zh.wikipedia.org/wiki/Category:Flash動畫 "wikilink")
-[Category:2ch](https://zh.wikipedia.org/wiki/Category:2ch "wikilink")
-[Category:競賽](https://zh.wikipedia.org/wiki/Category:競賽 "wikilink")
+[Category:Flash動畫](https://zh.wikipedia.org/wiki/Category:Flash動畫 "wikilink") [Category:2ch](https://zh.wikipedia.org/wiki/Category:2ch "wikilink") [Category:競賽](https://zh.wikipedia.org/wiki/Category:競賽 "wikilink")

@@ -1,10 +1,8 @@
-《**KUSO KUSO
-酷酷獸**》是[八大電視](../Page/八大電視.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，[可米國際影視製作](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")，由2007年1月15日[周一到](https://zh.wikipedia.org/wiki/周一 "wikilink")[周五晚間十時](https://zh.wikipedia.org/wiki/周五 "wikilink")[八大綜合台首播](../Page/八大綜合台.md "wikilink")。由[張善為主持](../Page/張善為.md "wikilink")，張善為[反串扮演](../Page/反串.md "wikilink")「善微媽媽」帶領八位女兒們，每集請來[導演及](https://zh.wikipedia.org/wiki/導演 "wikilink")[偶像劇大明星嘉賓教授演技](../Page/偶像劇.md "wikilink")。此節目將分為兩個大單元：前半小時是“KUSO表演班”（再分為暖身課程（情緒基礎訓練）、轉吧表演班（創意肢體表演測驗）、大明星對手戲（經典偶像劇角色扮演）、狀況劇大考驗）每次都會請到偶像劇的主角像[鄭元暢](../Page/鄭元暢.md "wikilink")、[飛輪海等指導酷酷獸](../Page/飛輪海.md "wikilink")，也讓酷酷獸化身為[偶像劇中女主角和大明星對戲](../Page/偶像劇.md "wikilink")；後半小時則是短劇，[張善為也會飾演窮酸客家女性的](../Page/張善為.md "wikilink")“張冬妹”或搖身一變成為“KUSO硬幫幫”的黑道老大，內容有趣多變。
+《**KUSO KUSO 酷酷獸**》是[八大電視](../Page/八大電視.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，[可米國際影視製作](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")，由2007年1月15日[周一到](https://zh.wikipedia.org/wiki/周一 "wikilink")[周五晚間十時](https://zh.wikipedia.org/wiki/周五 "wikilink")[八大綜合台](../Page/八大綜合台.md "wikilink")首播。由[張善為](../Page/張善為.md "wikilink")主持，張善為[反串](../Page/反串.md "wikilink")扮演「善微媽媽」帶領八位女兒們，每集請來[導演及](https://zh.wikipedia.org/wiki/導演 "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")大明星嘉賓教授演技。此節目將分為兩個大單元：前半小時是“KUSO表演班”（再分為暖身課程（情緒基礎訓練）、轉吧表演班（創意肢體表演測驗）、大明星對手戲（經典偶像劇角色扮演）、狀況劇大考驗）每次都會請到偶像劇的主角像[鄭元暢](../Page/鄭元暢.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")等指導酷酷獸，也讓酷酷獸化身為[偶像劇](../Page/偶像劇.md "wikilink")中女主角和大明星對戲；後半小時則是短劇，[張善為](../Page/張善為.md "wikilink")也會飾演窮酸客家女性的“張冬妹”或搖身一變成為“KUSO硬幫幫”的黑道老大，內容有趣多變。
 
 ## 主持
 
-[張善為](../Page/張善為.md "wikilink")（飾
-善微媽媽）：現年30歲，一直懷有星夢的她，年輕時曾慘遭壞心經紀人欺騙，導致星夢破碎，所以現在自己開設KUSO表演班，並將招募而來、同樣懷抱著單純星夢的女孩兒們，視如己出般的照顧，只是偶爾在見到帥哥時，仍會心癢難耐，自願搶任演技示範者！
+[張善為](../Page/張善為.md "wikilink")（飾 善微媽媽）：現年30歲，一直懷有星夢的她，年輕時曾慘遭壞心經紀人欺騙，導致星夢破碎，所以現在自己開設KUSO表演班，並將招募而來、同樣懷抱著單純星夢的女孩兒們，視如己出般的照顧，只是偶爾在見到帥哥時，仍會心癢難耐，自願搶任演技示範者！
 
 ## 酷酷獸
 
@@ -137,73 +135,47 @@
 ### 電視劇
 
   - 2007年：
-      - 《[終極一家](https://zh.wikipedia.org/wiki/終極一家 "wikilink")》（阿脈兒（飾
-        蛙哥）、愛兒（飾
-        神奇小護士）、[婉兒](https://zh.wikipedia.org/wiki/婉兒 "wikilink")（飾
-        黠谷柔情）、[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（飾 小聾女））
+      - 《[終極一家](https://zh.wikipedia.org/wiki/終極一家 "wikilink")》（阿脈兒（飾 蛙哥）、愛兒（飾 神奇小護士）、[婉兒](https://zh.wikipedia.org/wiki/婉兒 "wikilink")（飾 黠谷柔情）、[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（飾 小聾女））
   - 2008年：
-      - 《[惡作劇2吻](../Page/惡作劇2吻.md "wikilink")》（[黎兒](https://zh.wikipedia.org/wiki/黎兒 "wikilink")（飾
-        許秋賢））
+      - 《[惡作劇2吻](../Page/惡作劇2吻.md "wikilink")》（[黎兒](https://zh.wikipedia.org/wiki/黎兒 "wikilink")（飾 許秋賢））
       - 《[霹靂MIT](../Page/霹靂MIT.md "wikilink")》
           - 球兒 （飾 187情報網 聖英學院的學生 第1-14集）
           - 愛兒 （飾 蕭雅琪 聖英學院的學生 第1集 菁英榜：第一名（589分）第1集的受害者）
           - 婉兒 （飾 林宜庭 聖英學院的學生 第1集 菁英榜：第二名（571分）第1集的受害者）
           - 米兒 （飾 女學生甲 聖英學院的學生 第3集）
           - 羽兒 （飾 女學生乙 聖英學院的學生 第3集）
-      - 《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")
-        飾 米麒麟餐厅客人）
+      - 《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 米麒麟餐厅客人）
   - 2009年：
-      - 《[終極三國](../Page/終極三國.md "wikilink")》（[黎兒](https://zh.wikipedia.org/wiki/黎兒 "wikilink")（飾
-        甘昭烈）、阿脈兒（飾 龐統
-        ）、[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（客串第26集
-        ））
+      - 《[終極三國](../Page/終極三國.md "wikilink")》（[黎兒](https://zh.wikipedia.org/wiki/黎兒 "wikilink")（飾 甘昭烈）、阿脈兒（飾 龐統 ）、[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（客串第26集 ））
   - 2010年：
-      - 《[萌學園之萌騎士傳奇](../Page/萌學園之萌騎士傳奇.md "wikilink")》（球兒（飾
-        飄啊飄））([張善為](../Page/張善為.md "wikilink") (熇炎) )
-      - 《[萌學園2聖戰再起](../Page/萌學園之萌騎士傳奇.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（飾
-        飄啊飄）、張善為\]\] (熇炎) )
+      - 《[萌學園之萌騎士傳奇](../Page/萌學園之萌騎士傳奇.md "wikilink")》（球兒（飾 飄啊飄））([張善為](../Page/張善為.md "wikilink") (熇炎) )
+      - 《[萌學園2聖戰再起](../Page/萌學園之萌騎士傳奇.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（飾 飄啊飄）、張善為\]\] (熇炎) )
       - 《[愛似百匯](../Page/愛似百匯.md "wikilink")》（球兒（飾 大林)
   - 2011年
-      - 《[華麗的挑戰](https://zh.wikipedia.org/wiki/華麗的挑戰 "wikilink")》
-        （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾
-        LME演员培训所学生）
-      - 《[萌學園3魔法號令](../Page/萌學園之萌騎士傳奇.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（飾
-        飄啊飄）、[張善為](../Page/張善為.md "wikilink") (熇炎) )
+      - 《[華麗的挑戰](https://zh.wikipedia.org/wiki/華麗的挑戰 "wikilink")》 （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 LME演员培训所学生）
+      - 《[萌學園3魔法號令](../Page/萌學園之萌騎士傳奇.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（飾 飄啊飄）、[張善為](../Page/張善為.md "wikilink") (熇炎) )
   - 2012年
-      - 《[絕對達令](https://zh.wikipedia.org/wiki/絕對達令 "wikilink")》
-        （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾
-        內衣店店員》）
-      - 《[智勝鮮師](../Page/智勝鮮師.md "wikilink")》（[黎兒](https://zh.wikipedia.org/wiki/黎兒 "wikilink")（飾柏麗詩
-        ））
-      - 《[PM10-AM03](../Page/PM10-AM03.md "wikilink")》（[黎兒](https://zh.wikipedia.org/wiki/黎兒 "wikilink")（飾糖糖
-        ））
-      - 《[終極一班2](https://zh.wikipedia.org/wiki/終極一班2 "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（飾裘球
-        ））
+      - 《[絕對達令](https://zh.wikipedia.org/wiki/絕對達令 "wikilink")》 （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 內衣店店員》）
+      - 《[智勝鮮師](../Page/智勝鮮師.md "wikilink")》（[黎兒](https://zh.wikipedia.org/wiki/黎兒 "wikilink")（飾柏麗詩 ））
+      - 《[PM10-AM03](../Page/PM10-AM03.md "wikilink")》（[黎兒](https://zh.wikipedia.org/wiki/黎兒 "wikilink")（飾糖糖 ））
+      - 《[終極一班2](https://zh.wikipedia.org/wiki/終極一班2 "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")（飾裘球 ））
   - 2013年
-      - 《[終極一班3](../Page/終極一班3.md "wikilink")》
-        （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 裘球）
+      - 《[終極一班3](../Page/終極一班3.md "wikilink")》 （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 裘球）
   - 2014年
-      - 《[流氓蛋糕店](../Page/流氓蛋糕店.md "wikilink")》
-        （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 裘裘）
-      - 《[終極惡女](https://zh.wikipedia.org/wiki/終極惡女 "wikilink")》
-        （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 小楓）
+      - 《[流氓蛋糕店](../Page/流氓蛋糕店.md "wikilink")》 （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 裘裘）
+      - 《[終極惡女](https://zh.wikipedia.org/wiki/終極惡女 "wikilink")》 （[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 小楓）
 
 <!-- end list -->
 
   - 2016年
-      - 《[終極一班4](../Page/終極一班4.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")
-        飾 裘球）
-      - 《[有喜欢的人台湾篇
-        心有所属](https://zh.wikipedia.org/wiki/有喜欢的人台湾篇_心有所属 "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")
-        飾 菲）
-      - 《[X情人系列-恐怖情人](https://zh.wikipedia.org/wiki/X情人系列-恐怖情人 "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")
-        飾 张米莉）
+      - 《[終極一班4](../Page/終極一班4.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 裘球）
+      - 《[有喜欢的人台湾篇 心有所属](https://zh.wikipedia.org/wiki/有喜欢的人台湾篇_心有所属 "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 菲）
+      - 《[X情人系列-恐怖情人](https://zh.wikipedia.org/wiki/X情人系列-恐怖情人 "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 张米莉）
 
 <!-- end list -->
 
   - 2017年
-      - 《[終極一班5](../Page/終極一班5.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink")
-        飾 裘球）
+      - 《[終極一班5](../Page/終極一班5.md "wikilink")》（[球兒](https://zh.wikipedia.org/wiki/球兒 "wikilink") 飾 裘球）
 
 ### MV演出
 
@@ -231,19 +203,19 @@
 <tbody>
 <tr class="odd">
 <td><p>2007年1月15日（一）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
 <td><p>張大帥把妹</p></td>
-<td><p><a href="../Page/張善為.md" title="wikilink">張善為飾張大帥</a><br />
-<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒飾服務生</a><br />
+<td><p><a href="../Page/張善為.md" title="wikilink">張善為</a>飾張大帥<br />
+<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>飾服務生<br />
 <a href="https://zh.wikipedia.org/wiki/米兒" title="wikilink">米兒飾正妹</a><br />
 <a href="https://zh.wikipedia.org/wiki/婉兒" title="wikilink">婉兒飾正妹</a><br />
-<a href="../Page/利昂霖.md" title="wikilink">利昂霖飾凱子</a></p></td>
+<a href="../Page/利昂霖.md" title="wikilink">利昂霖</a>飾凱子</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年1月16日（二）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
 <td><p>酷獸硬梆幫 - 成立篇</p></td>
-<td><p><a href="../Page/張善為.md" title="wikilink">張善為飾大帥哥幫主</a><br />
+<td><p><a href="../Page/張善為.md" title="wikilink">張善為</a>飾大帥哥幫主<br />
 <a href="https://zh.wikipedia.org/wiki/金寶三" title="wikilink">金寶三飾金能幹</a><br />
 <a href="https://zh.wikipedia.org/wiki/蛙哥" title="wikilink">蛙哥飾蛙哥</a><br />
 <a href="https://zh.wikipedia.org/wiki/瞎秘" title="wikilink">瞎秘飾瞎秘</a><br />
@@ -251,37 +223,37 @@
 </tr>
 <tr class="odd">
 <td><p>2007年1月17日（三）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（上）</p></td>
 <td><p>頹哥打工記</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼飾攝影師</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年1月18日（四）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（下）</p></td>
-<td><p>張冬妹過冬（<a href="../Page/吳尊.md" title="wikilink">吳尊客串</a>）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（下）</p></td>
+<td><p>張冬妹過冬（<a href="../Page/吳尊.md" title="wikilink">吳尊</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年1月19日（五）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼</a>（上）</p></td>
 <td><p>阿脈兒的異想世界</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年1月22日（一）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼</a>（下）</p></td>
 <td><p>酷獸硬梆幫-搖搖板篇</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年1月23日（二）</p></td>
-<td><p><a href="../Page/鈕承澤.md" title="wikilink">鈕承澤導演</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（上）</p></td>
-<td><p>張冬妹過冬（<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸客串</a>）</p></td>
+<td><p><a href="../Page/鈕承澤.md" title="wikilink">鈕承澤</a>導演、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（上）</p></td>
+<td><p>張冬妹過冬（<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年1月24日（三）</p></td>
-<td><p><a href="../Page/鈕承澤.md" title="wikilink">鈕承澤導演</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（下）</p></td>
+<td><p><a href="../Page/鈕承澤.md" title="wikilink">鈕承澤</a>導演、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（下）</p></td>
 <td><p>頹哥掉錢包</p></td>
 <td></td>
 </tr>
@@ -299,13 +271,13 @@
 </tr>
 <tr class="odd">
 <td><p>2007年1月29日（一）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
 <td><p>酷獸硬梆幫-請客篇（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年1月30日（二）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
 <td></td>
 </tr>
@@ -335,19 +307,19 @@
 </tr>
 <tr class="odd">
 <td><p>2007年2月6日（二）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
 <td><p>頹哥看護篇（<a href="https://zh.wikipedia.org/wiki/BEN" title="wikilink">BEN客串</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年2月7日（三）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
 <td><p>（無）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年2月8日（四）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a></p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a></p></td>
 <td><p>（無）</p></td>
 <td></td>
 </tr>
@@ -365,25 +337,25 @@
 </tr>
 <tr class="even">
 <td><p>2007年2月13日（二）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年2月14日（三）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年2月15日（四）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/張芯瑜.md" title="wikilink">張芯瑜</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/張芯瑜.md" title="wikilink">張芯瑜</a>（上）</p></td>
 <td><p>（無）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年2月16日（五）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/張芯瑜.md" title="wikilink">張芯瑜</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/張芯瑜.md" title="wikilink">張芯瑜</a>（下）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -419,13 +391,13 @@
 </tr>
 <tr class="odd">
 <td><p>2007年2月26日（一）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
 <td><p>（無）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年2月27日（二）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -437,13 +409,13 @@
 </tr>
 <tr class="even">
 <td><p>2007年3月1日（四）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a></p></td>
-<td><p>張冬妹過冬（<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸客串</a>）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a></p></td>
+<td><p>張冬妹過冬（<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月2日（五）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a></p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -467,67 +439,67 @@
 </tr>
 <tr class="odd">
 <td><p>2007年3月8日（四）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（上）</p></td>
-<td><p>張冬妹過冬（<a href="https://zh.wikipedia.org/wiki/五熊" title="wikilink">五熊</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒客串</a>）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（上）</p></td>
+<td><p>張冬妹過冬（<a href="https://zh.wikipedia.org/wiki/五熊" title="wikilink">五熊</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年3月9日（五）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（下）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月12日（一）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（上）</p></td>
 <td><p>頹哥推啤酒篇</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年3月13日（二）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（下）</p></td>
-<td><p>頹哥打工記-AB餐廳（<a href="https://zh.wikipedia.org/wiki/五熊" title="wikilink">五熊</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸客串</a>）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（下）</p></td>
+<td><p>頹哥打工記-AB餐廳（<a href="https://zh.wikipedia.org/wiki/五熊" title="wikilink">五熊</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月14日（三）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
 <td><p>頹哥偷東西篇（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
 <td><p>薇薇兒旁聽</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年3月15日（四）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
 <td></td>
 <td><p>薇薇兒旁聽</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月16日（五）</p></td>
-<td><p><a href="../Page/熱情仲夏.md" title="wikilink">熱情仲夏劇組</a></p></td>
+<td><p><a href="../Page/熱情仲夏.md" title="wikilink">熱情仲夏</a>劇組</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年3月19日（一）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（上）</p></td>
 <td><p>（無）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月20日（二）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（下）</p></td>
 <td><p>頹哥打工-賣西瓜篇（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年3月21日（三）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（上）</p></td>
 <td><p>頹哥打工-換零錢篇（<a href="https://zh.wikipedia.org/wiki/BEN" title="wikilink">BEN客串</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月22日（四）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（下）</p></td>
 <td><p>頹哥只顧聊天（<a href="https://zh.wikipedia.org/wiki/BEN" title="wikilink">BEN客串</a>）</p></td>
 <td></td>
 </tr>
@@ -540,31 +512,31 @@
 <tr class="odd">
 <td><p>2007年3月26日（一）</p></td>
 <td><p><a href="../Page/楊士萱.md" title="wikilink">楊士萱</a>（下）</p></td>
-<td><p>頹哥賣東西（<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒客串</a>）</p></td>
+<td><p>頹哥賣東西（<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年3月27日（二）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（上）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月28日（三）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>、<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>（下）</p></td>
 <td><p>（無）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年3月29日（四）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（上）</p></td>
 <td></td>
 <td><p>加恩兒旁聽</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年3月30日（五）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（下）</p></td>
-<td><p>頹哥打工記：私家偵探篇（<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸客串</a>）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（下）</p></td>
+<td><p>頹哥打工記：私家偵探篇（<a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a>客串）</p></td>
 <td><p>加恩兒旁聽</p></td>
 </tr>
 <tr class="even">
@@ -581,7 +553,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年4月4日（三）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a></p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a></p></td>
 <td><p>張春妹-亂倒垃圾篇（<a href="https://zh.wikipedia.org/wiki/BEN" title="wikilink">BEN客串</a>）</p></td>
 <td></td>
 </tr>
@@ -599,7 +571,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007年4月9日（一）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台導演</a>、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a></p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a></p></td>
 <td><p>頹哥打工記-挖寶篇（<a href="https://zh.wikipedia.org/wiki/JUNIOR" title="wikilink">JUNIOR客串</a>）</p></td>
 <td></td>
 </tr>
@@ -671,13 +643,13 @@
 </tr>
 <tr class="odd">
 <td><p>2007年4月25日（三）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蜜雪" title="wikilink">蜜雪</a>、<a href="https://zh.wikipedia.org/wiki/劉亮佐" title="wikilink">劉亮佐</a>（上）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蜜雪" title="wikilink">蜜雪</a>、<a href="../Page/劉亮佐.md" title="wikilink">劉亮佐</a>（上）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年4月26日（四）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蜜雪" title="wikilink">蜜雪</a>、<a href="https://zh.wikipedia.org/wiki/劉亮佐" title="wikilink">劉亮佐</a>（下）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蜜雪" title="wikilink">蜜雪</a>、<a href="../Page/劉亮佐.md" title="wikilink">劉亮佐</a>（下）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -978,9 +950,6 @@
 
 ## 外部連結
 
-  - [KUSO KUSO
-    酷酷獸](https://web.archive.org/web/20080318191238/http://www.gtv.com.tw/Program/S041120070115P/)
+  - [KUSO KUSO 酷酷獸](https://web.archive.org/web/20080318191238/http://www.gtv.com.tw/Program/S041120070115P/)
 
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
-[Category:八大電視節目](https://zh.wikipedia.org/wiki/Category:八大電視節目 "wikilink")
+[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:八大電視節目](https://zh.wikipedia.org/wiki/Category:八大電視節目 "wikilink")

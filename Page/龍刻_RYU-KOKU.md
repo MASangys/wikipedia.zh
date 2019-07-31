@@ -1,20 +1,17 @@
-《**龍刻
-RYU-KOKU**》是[KID於](../Page/KID.md "wikilink")2006年9月21日發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，也是KID[破產前的最後一套遊戲](../Page/破產.md "wikilink")。[英特衛多媒體在台灣發行繁體中文PC版](../Page/英特衛多媒體.md "wikilink")，列為《遊戲偶像劇系列》第4集，分為「平裝版」與「特典版」。
+《**龍刻 RYU-KOKU**》是[KID](../Page/KID.md "wikilink")於2006年9月21日發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，也是KID[破產](../Page/破產.md "wikilink")前的最後一套遊戲。[英特衛多媒體](../Page/英特衛多媒體.md "wikilink")在台灣發行繁體中文PC版，列為《遊戲偶像劇系列》第4集，分為「平裝版」與「特典版」。
 
-2009年9月底，[北京娱乐通在中国大陆发行了基于](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")[古月游戏引擎的简体中文PC版](https://zh.wikipedia.org/wiki/古月游戏引擎 "wikilink")。这个版本放弃了传统的基于光盘验证的数字版权保护技术，完全依赖于网络激活，是中国大陆少有的几个不需要插光盘就能运行的[单机游戏之一](../Page/单机游戏.md "wikilink")。
+2009年9月底，[北京娱乐通在中国大陆发行了基于](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")[古月游戏引擎的简体中文PC版](https://zh.wikipedia.org/wiki/古月游戏引擎 "wikilink")。这个版本放弃了传统的基于光盘验证的数字版权保护技术，完全依赖于网络激活，是中国大陆少有的几个不需要插光盘就能运行的[单机游戏](../Page/单机游戏.md "wikilink")之一。
 
 下列譯名及用語，除特別註明者外，以英特衛版為準。
 
 ## 故事簡介
 
-主角「水內司」是個就讀皆森高中的高中生。身為劍道社主將的他，與青梅竹馬
-「笠木愛娜」一同為即將到來的劍道大會而努力練習著。但近來時常作的那個怪夢，卻讓他感到困惑不已。就在這
-時候，突然出現了一名叫「水乃內美流」的神秘轉學生，於是平靜的日子便慢慢地開始發生了變化……。
+主角「水內司」是個就讀皆森高中的高中生。身為劍道社主將的他，與青梅竹馬 「笠木愛娜」一同為即將到來的劍道大會而努力練習著。但近來時常作的那個怪夢，卻讓他感到困惑不已。就在這 時候，突然出現了一名叫「水乃內美流」的神秘轉學生，於是平靜的日子便慢慢地開始發生了變化……。
 
 ## 登場人物
 
   -
-    17歲，4月16日出生，身高171cm，血型A型，皆森高校[劍道部男子大將](../Page/劍道.md "wikilink")，擅長[日本歷史](https://zh.wikipedia.org/wiki/日本歷史 "wikilink")。
+    17歲，4月16日出生，身高171cm，血型A型，皆森高校[劍道](../Page/劍道.md "wikilink")部男子大將，擅長[日本歷史](https://zh.wikipedia.org/wiki/日本歷史 "wikilink")。
     故事主角。就讀皆森高校2年級，學業優秀、擅長運動的典型模範生。小時候經常受欺負，於是練習劍道，其實原因是爲了保護笠木愛娜。
     實際上是數千年前的封師「」的轉生，水内司仍擁有水乃内司的靈魂及記憶。
   -
@@ -27,8 +24,7 @@ RYU-KOKU**》是[KID於](../Page/KID.md "wikilink")2006年9月21日發售的[戀
   -
     15歲，7月21日出生，身高154cm，皆森高校生物部飼養系成員，喜歡[書法](https://zh.wikipedia.org/wiki/書法 "wikilink")、[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")。
     剛轉校皆森高校1年級，無甚麼表情和反應的女孩，在班級中被孤立，似乎來自有錢人家。
-    實際上是由(北京娱乐通版譯作玖印智嘉)
-    創造的[人造人](https://zh.wikipedia.org/wiki/人造人 "wikilink")，但身體中是數千年前水乃内司的妹妹、符咒系封師「玖印智佳」。
+    實際上是由(北京娱乐通版譯作玖印智嘉) 創造的[人造人](https://zh.wikipedia.org/wiki/人造人 "wikilink")，但身體中是數千年前水乃内司的妹妹、符咒系封師「玖印智佳」。
   -
     24歲，3月2日出生，身長166cm，血型B型，喜歡吸煙、喝酒。
     皆森高校的保健醫生，喜歡和學生談天。好奇心強，正在研究六年前恩師（兼男朋友）失蹤等相關事件。
@@ -47,7 +43,7 @@ RYU-KOKU**》是[KID於](../Page/KID.md "wikilink")2006年9月21日發售的[戀
     和美流相識，是類似美流「哥哥般的人」。左手用於戰鬥。
     實際上是和美流一樣是數千年前活到現在的龍。
   -
-    [土地神](https://zh.wikipedia.org/wiki/土地神 "wikilink")，[神社千年](../Page/神社.md "wikilink")[銀杏的主人](https://zh.wikipedia.org/wiki/銀杏 "wikilink")，外表是女性但其實是[雌雄同体](https://zh.wikipedia.org/wiki/雌雄同体 "wikilink")，實際是一位有強大力量的妖。
+    [土地神](https://zh.wikipedia.org/wiki/土地神 "wikilink")，[神社](../Page/神社.md "wikilink")千年[銀杏的主人](https://zh.wikipedia.org/wiki/銀杏 "wikilink")，外表是女性但其實是[雌雄同体](https://zh.wikipedia.org/wiki/雌雄同体 "wikilink")，實際是一位有強大力量的妖。
 
 ## 用語及設定
 
@@ -158,12 +154,4 @@ RYU-KOKU**》是[KID於](../Page/KID.md "wikilink")2006年9月21日發售的[戀
 
   - [繁體中文PC特典版官方網站](https://web.archive.org/web/20091210210043/http://www.interwise.com.tw/showroom/view.php?C=5070616)，存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:使用网络激活的单机游戏](https://zh.wikipedia.org/wiki/Category:使用网络激活的单机游戏 "wikilink")
-[Category:不需要光盘验证的单机游戏](https://zh.wikipedia.org/wiki/Category:不需要光盘验证的单机游戏 "wikilink")
-[Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:使用网络激活的单机游戏](https://zh.wikipedia.org/wiki/Category:使用网络激活的单机游戏 "wikilink") [Category:不需要光盘验证的单机游戏](https://zh.wikipedia.org/wiki/Category:不需要光盘验证的单机游戏 "wikilink") [Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

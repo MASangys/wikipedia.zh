@@ -1,8 +1,6 @@
-《**感應少年EIJI**》（）是1996年至2000年於[週刊少年Magazine連載的](../Page/週刊少年Magazine.md "wikilink")[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。[安童夕馬原作](https://zh.wikipedia.org/wiki/安童夕馬 "wikilink")、[朝基勝士作畫](../Page/朝基勝士.md "wikilink")。於1997年和1999年曾兩度在[日本電視台系列播出由](../Page/日本電視台.md "wikilink")[松岡昌宏主演的](../Page/松岡昌宏.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
+《**感應少年EIJI**》（）是1996年至2000年於[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")連載的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。[安童夕馬原作](https://zh.wikipedia.org/wiki/安童夕馬 "wikilink")、[朝基勝士](../Page/朝基勝士.md "wikilink")作畫。於1997年和1999年曾兩度在[日本電視台](../Page/日本電視台.md "wikilink")系列播出由[松岡昌宏](../Page/松岡昌宏.md "wikilink")主演的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
-2010年10月，安童在Twitter上表示自己最近開始執筆感應少年第二部，隔年在2011年4月25日發售的『[週刊Young
-Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開始了距離約有10年的新連載。台灣由[東立出版社代理](../Page/東立出版社.md "wikilink")，命名為《**感應少年EIJI
-新章**》出版。
+2010年10月，安童在Twitter上表示自己最近開始執筆感應少年第二部，隔年在2011年4月25日發售的『[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開始了距離約有10年的新連載。台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理，命名為《**感應少年EIJI 新章**》出版。
 
 ## 登場人物
 
@@ -12,7 +10,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
     主角，擁有感應能力的高中二年級學生。和**志摩**在「殺人鬼[梅比斯](https://zh.wikipedia.org/wiki/莫比烏斯帶 "wikilink")」事件當中認識，偶爾會幫忙事件的搜查。是個不良少年，學校成績不好，也沒什麼朋友。曾經用感應能力獲得高成績。很重視友情，正義感強烈。總是用感應能力先一步讀取出敵人的攻擊，打架超強。
     曾經和友人**江川徹**單獨兩人殲滅整個不良少年集團，面對受過專業戰鬥訓練的人也毫不遜色。意外地頭腦很不錯，能從志摩的說明中總結出結論，並用手法騙過**澤木**。一開始感應能力只能通過手來施展，但後來發展到可以通過全身來施展。另外，也有過在感應到對方的神經性創傷及惡意而無意識地施展出感應能力（也就是說，對無惡意的人則不能施展）。感應能力重複施展的話能力會增強，但映兒事後會陷入昏睡失控的狀態。
     在學校很受女生歡迎，但實際上一次也沒和女孩交往過。中學時因為無法控制自己的感應能力，腦中無時無刻都會浮現出每一個人醜陋又真實的內心，讓他過著墮落、頹廢的日子，但是後來遇見**赤樹**刑警，學會控制之後便收斂了許多。
-    和**葛西裕介**兩人有在玩[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，他擔任[貝斯手及主唱](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")。駕駛的[摩托車為](../Page/摩托車.md "wikilink")[KAWASAKI的](https://zh.wikipedia.org/wiki/KAWASAKI "wikilink")[zephyr1100RS](https://zh.wikipedia.org/wiki/KAWASAKI#電單車 "wikilink")。
+    和**葛西裕介**兩人有在玩[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，他擔任[貝斯手及主唱](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")。駕駛的[摩托車](../Page/摩托車.md "wikilink")為[KAWASAKI的](https://zh.wikipedia.org/wiki/KAWASAKI "wikilink")[zephyr1100RS](https://zh.wikipedia.org/wiki/KAWASAKI#電單車 "wikilink")。
     電視劇第二部中變成了以[樂團樂手為目標的自由人](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，住在[Livehouse中靠打工維生](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")。電視劇中只能用左手施展感應能力，第二部中添加了聲音感應能力，在漫畫版中也沿用了這個設定。
     在新章中，映兒未能順利畢業，留級一年，目前是高中三年級。同時也是在和江川徹、葛西裕介、田宮章吉這些固定主角班底中，唯二的高中延畢生(另一位是田宮章吉)。
 
@@ -398,17 +396,13 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 #### 主要人物
 
   - 明日真映兒：[松岡昌宏](../Page/松岡昌宏.md "wikilink")（[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")）
-  - 志摩亮子：[大塚寧寧](../Page/大塚寧寧.md "wikilink")（第一部） →
-    [工藤静香](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")（第二部）
+  - 志摩亮子：[大塚寧寧](../Page/大塚寧寧.md "wikilink")（第一部） → [工藤静香](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")（第二部）
   - 田宮章吉：[井之原快彥](../Page/井之原快彥.md "wikilink")（[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")）
   - 葛西裕介：[小原裕貴](../Page/小原裕貴.md "wikilink")
-  - 明日真惠美：[松本惠](https://zh.wikipedia.org/wiki/松本惠 "wikilink")（第一部） →
-    [後藤理沙](../Page/後藤理沙.md "wikilink")（第二部） →
-    [酒井彩名](../Page/酒井彩名.md "wikilink")（SP）
+  - 明日真惠美：[松本惠](https://zh.wikipedia.org/wiki/松本惠 "wikilink")（第一部） → [後藤理沙](../Page/後藤理沙.md "wikilink")（第二部） → [酒井彩名](../Page/酒井彩名.md "wikilink")（SP）
   - 澤木晃（Apple）：[田邊誠一](../Page/田邊誠一.md "wikilink")
   - Pi刑警：[市川勉](https://zh.wikipedia.org/wiki/市川勉 "wikilink")
-  - 羽根山末吉：[永澤俊矢](https://zh.wikipedia.org/wiki/永澤俊矢 "wikilink")（第一部） →
-    [加藤茶](https://zh.wikipedia.org/wiki/加藤茶 "wikilink")（第二部）
+  - 羽根山末吉：[永澤俊矢](https://zh.wikipedia.org/wiki/永澤俊矢 "wikilink")（第一部） → [加藤茶](https://zh.wikipedia.org/wiki/加藤茶 "wikilink")（第二部）
 
 #### 第2期起加入的人物
 
@@ -473,8 +467,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 大平瑞樹 /
-    加藤和樹：[伊藤隆大](https://zh.wikipedia.org/wiki/伊藤隆大 "wikilink")（一人飾演兩角）
+  - 大平瑞樹 / 加藤和樹：[伊藤隆大](https://zh.wikipedia.org/wiki/伊藤隆大 "wikilink")（一人飾演兩角）
   - 加藤佳奈子：[大場久美子](https://zh.wikipedia.org/wiki/大場久美子 "wikilink")
 
 <!-- end list -->
@@ -592,8 +585,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 ### 製作團隊
 
   - 劇本：[小原信治](https://zh.wikipedia.org/wiki/小原信治 "wikilink")、[田子明弘](https://zh.wikipedia.org/wiki/田子明弘 "wikilink")、[大石哲也](https://zh.wikipedia.org/wiki/大石哲也 "wikilink")（1、SP）、[坂東賢治](https://zh.wikipedia.org/wiki/坂東賢治 "wikilink")（2）
-  - 音樂：[寺田創一](https://zh.wikipedia.org/wiki/寺田創一 "wikilink")（1）、[DJ
-    KRUSH](https://zh.wikipedia.org/wiki/DJ_KRUSH "wikilink")（1）、[仲西匡](https://zh.wikipedia.org/wiki/仲西匡 "wikilink")（2）
+  - 音樂：[寺田創一](https://zh.wikipedia.org/wiki/寺田創一 "wikilink")（1）、[DJ KRUSH](https://zh.wikipedia.org/wiki/DJ_KRUSH "wikilink")（1）、[仲西匡](https://zh.wikipedia.org/wiki/仲西匡 "wikilink")（2）
       - 吉他：[吉川忠英](https://zh.wikipedia.org/wiki/吉川忠英 "wikilink")（1）、字串安排：[沢田完](https://zh.wikipedia.org/wiki/沢田完 "wikilink")（2）
   - 導演：[堤幸彥](https://zh.wikipedia.org/wiki/堤幸彥 "wikilink")（1）、[佐藤東彌](https://zh.wikipedia.org/wiki/佐藤東彌 "wikilink")（1）、[大谷太郎](https://zh.wikipedia.org/wiki/大谷太郎 "wikilink")（1）、[猪股隆一](https://zh.wikipedia.org/wiki/猪股隆一 "wikilink")（2）、[五木田亮一](https://zh.wikipedia.org/wiki/五木田亮一 "wikilink")（2）、[大根仁](../Page/大根仁.md "wikilink")（2）、[都築淳一](https://zh.wikipedia.org/wiki/都築淳一 "wikilink")（SP）
   - 主題曲
@@ -605,9 +597,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
   - 美術：大竹潤一郎、 [高野雅裕](https://zh.wikipedia.org/wiki/高野雅裕 "wikilink")
   - 執行製作人：[小杉善信](https://zh.wikipedia.org/wiki/小杉善信 "wikilink")（1）、[佐藤敦](https://zh.wikipedia.org/wiki/佐藤敦 "wikilink")（2）
   - 製作人：[櫨山裕子](https://zh.wikipedia.org/wiki/櫨山裕子 "wikilink")、[蒔田光治](https://zh.wikipedia.org/wiki/蒔田光治 "wikilink")（1）、[伊藤響](https://zh.wikipedia.org/wiki/伊藤響 "wikilink")（2）、[内山雅博](https://zh.wikipedia.org/wiki/内山雅博 "wikilink")（2）、鈴木聡（SP）、中川順平（SP）
-  - 製作協力：[Office
-    Crescendo](https://zh.wikipedia.org/wiki/Office_Crescendo "wikilink")、[K
-    Factory](https://zh.wikipedia.org/wiki/K_Factory "wikilink")
+  - 製作協力：[Office Crescendo](https://zh.wikipedia.org/wiki/Office_Crescendo "wikilink")、[K Factory](https://zh.wikipedia.org/wiki/K_Factory "wikilink")
 
 ### 放送日程
 
@@ -829,7 +819,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 ## 遊戲
 
-1999年2月18日，[講談社發售](https://zh.wikipedia.org/wiki/講談社 "wikilink")[PlayStation遊戲光碟](../Page/PlayStation.md "wikilink")《感應少年EIJI（）》。
+1999年2月18日，[講談社發售](https://zh.wikipedia.org/wiki/講談社 "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")遊戲光碟《感應少年EIJI（）》。
 
   - 配音
 
@@ -843,25 +833,6 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 ## 外部連結
 
   -
-[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
-[Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink")
-[Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink")
+[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink") [Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink") [Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink")
 
-[Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:日本電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週六連續劇 "wikilink")
-[Category:1997年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1997年日本電視劇集 "wikilink")
-[Category:1999年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1999年日本電視劇集 "wikilink")
-[Category:推理漫畫改編電視劇](https://zh.wikipedia.org/wiki/Category:推理漫畫改編電視劇 "wikilink")
-[Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
-[Category:警察題材電視劇](https://zh.wikipedia.org/wiki/Category:警察題材電視劇 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
-[Category:驚悚遊戲](https://zh.wikipedia.org/wiki/Category:驚悚遊戲 "wikilink")
+[Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:日本電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週六連續劇 "wikilink") [Category:1997年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1997年日本電視劇集 "wikilink") [Category:1999年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1999年日本電視劇集 "wikilink") [Category:推理漫畫改編電視劇](https://zh.wikipedia.org/wiki/Category:推理漫畫改編電視劇 "wikilink") [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink") [Category:警察題材電視劇](https://zh.wikipedia.org/wiki/Category:警察題材電視劇 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:驚悚遊戲](https://zh.wikipedia.org/wiki/Category:驚悚遊戲 "wikilink")

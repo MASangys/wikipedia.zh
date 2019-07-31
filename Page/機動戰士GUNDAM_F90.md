@@ -1,21 +1,12 @@
-《**機動戰士GUNDAM
-F90**》（機動戦士ガンダムF90）是[山口宏的](https://zh.wikipedia.org/wiki/山口宏 "wikilink")[GUNDAM漫畫系列作品](../Page/GUNDAM系列作品.md "wikilink")
-，在1990年[萬代](../Page/萬代.md "wikilink")發售連串的鋼普拉模型的計劃，為計劃基礎發表的漫畫等作品。當中故事續作是[機動戰士GUNDAMF91
-Formula戰記
-0122](https://zh.wikipedia.org/wiki/機動戰士GUNDAMF91_Formula戰記_0122 "wikilink")。
+《**機動戰士GUNDAM F90**》（機動戦士ガンダムF90）是[山口宏的](https://zh.wikipedia.org/wiki/山口宏 "wikilink")[GUNDAM漫畫系列作品](../Page/GUNDAM系列作品.md "wikilink") ，在1990年[萬代](../Page/萬代.md "wikilink")發售連串的鋼普拉模型的計劃，為計劃基礎發表的漫畫等作品。當中故事續作是[機動戰士GUNDAMF91 Formula戰記 0122](https://zh.wikipedia.org/wiki/機動戰士GUNDAMF91_Formula戰記_0122 "wikilink")。
 
 ## 故事背景
 
-[U.C.](../Page/宇宙世紀.md "wikilink")0120年，經過過去的騷動，在平靜的日子期間，[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13實驗部隊被要求測試次期主力
-[機動戰士的開發方案](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，[海軍戰略研究所](https://zh.wikipedia.org/wiki/海軍戰略研究所 "wikilink")（Strategic
-Naval Research
-Institute，簡稱S.N.R.I.）的試驗成品[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")「鋼彈F90」。在試驗的途中被[舊吉翁軍的神祕](../Page/吉翁公國.md "wikilink")[機動戰士襲擊](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，最後鋼彈F90二號機遭到強奪。[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13實驗部隊被編成[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13獨立機動艦隊，為了奪回鋼彈F90二號機向[吉翁軍的根據地前往](../Page/吉翁公國.md "wikilink")[火星](../Page/火星.md "wikilink")。
+[U.C.](../Page/宇宙世紀.md "wikilink")0120年，經過過去的騷動，在平靜的日子期間，[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13實驗部隊被要求測試次期主力 [機動戰士的開發方案](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，[海軍戰略研究所](https://zh.wikipedia.org/wiki/海軍戰略研究所 "wikilink")（Strategic Naval Research Institute，簡稱S.N.R.I.）的試驗成品[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")「鋼彈F90」。在試驗的途中被[舊吉翁軍的神祕](../Page/吉翁公國.md "wikilink")[機動戰士襲擊](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，最後鋼彈F90二號機遭到強奪。[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13實驗部隊被編成[地球聯邦軍第](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")13獨立機動艦隊，為了奪回鋼彈F90二號機向[吉翁軍的根據地前往](../Page/吉翁公國.md "wikilink")[火星](../Page/火星.md "wikilink")。
 
 ## 作品解說
 
-電影[機動戰士GUNDAM
-F91的MSV計劃其中之一](../Page/機動戰士GUNDAM_F91.md "wikilink")，以[機動戰士GUNDAM
-F91公佈後被作為發表宣言](../Page/機動戰士GUNDAM_F91.md "wikilink")，揭開次世代的鋼彈序章。從[第二次新自護抗戰](https://zh.wikipedia.org/wiki/第二次新自護抗戰 "wikilink")27年、[馬夫迪動亂](https://zh.wikipedia.org/wiki/馬夫迪動亂 "wikilink")15年後、[宇宙巴比倫建國戰爭的](https://zh.wikipedia.org/wiki/宇宙巴比倫建國戰爭 "wikilink")3年前故事。
+電影[機動戰士GUNDAM F91的MSV計劃其中之一](../Page/機動戰士GUNDAM_F91.md "wikilink")，以[機動戰士GUNDAM F91公佈後被作為發表宣言](../Page/機動戰士GUNDAM_F91.md "wikilink")，揭開次世代的鋼彈序章。從[第二次新自護抗戰](https://zh.wikipedia.org/wiki/第二次新自護抗戰 "wikilink")27年、[馬夫迪動亂](https://zh.wikipedia.org/wiki/馬夫迪動亂 "wikilink")15年後、[宇宙巴比倫建國戰爭的](https://zh.wikipedia.org/wiki/宇宙巴比倫建國戰爭 "wikilink")3年前故事。
 
 鋼彈F90是將因戰鬥用而大型化，回歸用兵思想的原點，以小型、高性能化為訴求，由軍方內部研究機關[海軍戰略研究所製造出來的試作實驗機](https://zh.wikipedia.org/wiki/海軍戰略研究所 "wikilink")。在特性上，藉由配置在機體各處裝備的接續點，可以隨任務需要換裝已經整合化的外加單元，以對應各種不同的戰場下戰鬥。
 
@@ -94,10 +85,6 @@ F91公佈後被作為發表宣言](../Page/機動戰士GUNDAM_F91.md "wikilink")
 ## 相關作品
 
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
-  - [機動戰士GUNDAMF91 Formula戰記
-    0122](https://zh.wikipedia.org/wiki/機動戰士GUNDAMF91_Formula戰記_0122 "wikilink")
+  - [機動戰士GUNDAMF91 Formula戰記 0122](https://zh.wikipedia.org/wiki/機動戰士GUNDAMF91_Formula戰記_0122 "wikilink")
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")

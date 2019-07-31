@@ -1,11 +1,8 @@
-《**奏光之Strain**》（原名：****）是由[Studio
-Fantasia所製作的動畫作品](../Page/Studio_Fantasia.md "wikilink")。
+《**奏光之Strain**》（原名：****）是由[Studio Fantasia所製作的動畫作品](../Page/Studio_Fantasia.md "wikilink")。
 
 ## 劇情簡介
 
-在遙遠的未來，人類分裂成了以有人兵器STRAIN（STRategic Armored INfantry
-戰略裝甲步兵）為主戰力的「聯合(Union)」，和以無人兵器TUMOR（Tactical
-Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague)」兩大陣營，進行永無止息的戰鬥。
+在遙遠的未來，人類分裂成了以有人兵器STRAIN（STRategic Armored INfantry 戰略裝甲步兵）為主戰力的「聯合(Union)」，和以無人兵器TUMOR（Tactical Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague)」兩大陣營，進行永無止息的戰鬥。
 
 16歲的塞拉·威萊克是聯合陣營的名門獨生女，就讀於庫拉尼阿爾星域的寄宿制STRAIN駕駛員養成機關「庫拉貝拉空間機甲兵科學院」。成績優秀的她的心中有個秘密，就是期望與哥哥再相會。
 
@@ -52,8 +49,7 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
 
 <!-- end list -->
 
-  - マーサ·シュビーパウエル ——
-    [花井なお](https://zh.wikipedia.org/wiki/花井なお "wikilink")
+  - マーサ·シュビーパウエル —— [花井なお](https://zh.wikipedia.org/wiki/花井なお "wikilink")
   - アーメンガァド·ヨハニッツ —— [阪田佳代](../Page/阪田佳代.md "wikilink")
   - ベッキィ —— [阪田佳代](../Page/阪田佳代.md "wikilink")
   - クレイヴン —— [麥人](../Page/麥人.md "wikilink")
@@ -83,14 +79,12 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
 ### 片頭曲
 
   - 「メッセージ」
-    作詞：上田緑 、作曲・編曲：上野洋子
-    、歌：[上野洋子](https://zh.wikipedia.org/wiki/上野洋子 "wikilink")
+    作詞：上田緑 、作曲・編曲：上野洋子 、歌：[上野洋子](https://zh.wikipedia.org/wiki/上野洋子 "wikilink")
 
 ### 片尾曲
 
   - 「海のオパール」
-    作詞：上田緑 、作曲・編曲：上野洋子
-    、歌：[Sema](https://zh.wikipedia.org/wiki/Sema "wikilink")
+    作詞：上田緑 、作曲・編曲：上野洋子 、歌：[Sema](https://zh.wikipedia.org/wiki/Sema "wikilink")
   - 「アウローラ〜ひとすじの曙光〜」（第9話）
     作詞：森由里子 、作曲・編曲：上野洋子 、歌：Yoko
 
@@ -98,9 +92,4 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
 
   - [奏光之Strain的網站](https://web.archive.org/web/20070720223912/http://www.s-strain.jp/)
 
-
-[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink")
-[Category:WOWOW深夜動畫](https://zh.wikipedia.org/wiki/Category:WOWOW深夜動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink") [Category:WOWOW深夜動畫](https://zh.wikipedia.org/wiki/Category:WOWOW深夜動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Dragon_Age](https://zh.wikipedia.org/wiki/Category:月刊Dragon_Age "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

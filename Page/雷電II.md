@@ -2,8 +2,7 @@
 
 ## 遊戲
 
-世界聯軍的雷電戰機擊敗外星人後的三年，原本撤退的外星艦隊突然捲土重來襲擊地球，世界聯軍開發的強化版雷電配備了新武器導向電漿炮和散射核彈，再次踏上征途。
-[缩略图](https://zh.wikipedia.org/wiki/File:Musée_Mécanique_192.JPG "fig:缩略图")
+世界聯軍的雷電戰機擊敗外星人後的三年，原本撤退的外星艦隊突然捲土重來襲擊地球，世界聯軍開發的強化版雷電配備了新武器導向電漿炮和散射核彈，再次踏上征途。 [缩略图](https://zh.wikipedia.org/wiki/File:Musée_Mécanique_192.JPG "fig:缩略图")
 
 ### 關卡
 
@@ -95,9 +94,6 @@ BOSS為所有的水晶生命體大集合。
 
 ## 參考來源
 
-[Category:雷电系列](https://zh.wikipedia.org/wiki/Category:雷电系列 "wikilink")
-[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:雷电系列](https://zh.wikipedia.org/wiki/Category:雷电系列 "wikilink") [Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.

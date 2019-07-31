@@ -1,11 +1,9 @@
-《**ARASHIC**》是[嵐](../Page/嵐.md "wikilink")的第8枚專輯，第6枚原創專輯。於2006年7月5日發行。唱片公司為[J
-Storm](../Page/J_Storm.md "wikilink")。
+《**ARASHIC**》是[嵐](../Page/嵐.md "wikilink")的第8枚專輯，第6枚原創專輯。於2006年7月5日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
 
   - 與前作相距約11個月。
-  - 初回生產限定盤與通常盤的封套不一樣。初回生產限定盤中共兩張DVD，收錄了2005年的「One」巡迴中演唱的5曲。通常盤初回Plus附送寫真集，通常盤則追加收錄Bonus
-    Track《LOVE PARADE》。
+  - 初回生產限定盤與通常盤的封套不一樣。初回生產限定盤中共兩張DVD，收錄了2005年的「One」巡迴中演唱的5曲。通常盤初回Plus附送寫真集，通常盤則追加收錄Bonus Track《LOVE PARADE》。
   - 繼前作之後再度獲得Oicon週專輯排行榜第一名，且此張作品首波銷售量比前作還要高。
 
 ## 收錄曲
@@ -70,6 +68,4 @@ Storm](../Page/J_Storm.md "wikilink")。
 4.  [A·RA·SHI](../Page/A·RA·SHI.md "wikilink")
 5.  [美好的世界](../Page/One_\(嵐\).md "wikilink")
 
-[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:2006年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:2006年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon專輯週榜冠軍作品 "wikilink")

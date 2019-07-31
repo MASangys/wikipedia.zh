@@ -1,5 +1,4 @@
-《**NEOPHILIA**》為[平野綾的第](https://zh.wikipedia.org/wiki/平野綾 "wikilink")5張單曲。
-由[Lantis](../Page/Lantis.md "wikilink")於2007年11月7日發行。
+《**NEOPHILIA**》為[平野綾的第](https://zh.wikipedia.org/wiki/平野綾 "wikilink")5張單曲。 由[Lantis](../Page/Lantis.md "wikilink")於2007年11月7日發行。
 
 ## 概要
 
@@ -21,14 +20,12 @@
 
 ## 商業搭配
 
-  - [埼玉電視台](../Page/埼玉電視台.md "wikilink")『アニたま』[片尾曲](../Page/主題曲.md "wikilink")（2007年11月）
-    \#1
+  - [埼玉電視台](../Page/埼玉電視台.md "wikilink")『アニたま』[片尾曲](../Page/主題曲.md "wikilink")（2007年11月） \#1
 
 ## 脚注
 
 <references />
 
-[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
-[Category:平野綾單曲](https://zh.wikipedia.org/wiki/Category:平野綾單曲 "wikilink")
+[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:平野綾單曲](https://zh.wikipedia.org/wiki/Category:平野綾單曲 "wikilink")
 
 1.  [Lantis的單曲特設頁](http://www.lantis.jp/new-release/data2.php?id=9ba0e6a84e64ef98944f22a5f716ab5d)

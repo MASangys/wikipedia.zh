@@ -1,12 +1,8 @@
-《**G-taste**》是日本漫畫家[八神浩樹的](https://zh.wikipedia.org/wiki/八神浩樹 "wikilink")[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於1996年在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[MISTER
-MAGAZINE](https://zh.wikipedia.org/wiki/MISTER_MAGAZINE "wikilink")》開始連載，但因該雜誌停刊而於2000年1月暫停連載。2000年5月改在講談社《[Young
-Magazine
-Uppers](https://zh.wikipedia.org/wiki/Young_Magazine_Uppers "wikilink")》（）繼續連載，但因為該雜誌停刊而再次中斷連載。2010年9月改在講談社《[月刊Young
-Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》（）繼續連載，中文版由[尖端出版發行](../Page/尖端出版.md "wikilink")。後來改編成電視劇、OVA、遊戲等相關作品。
+《**G-taste**》是日本漫畫家[八神浩樹的](https://zh.wikipedia.org/wiki/八神浩樹 "wikilink")[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於1996年在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[MISTER MAGAZINE](https://zh.wikipedia.org/wiki/MISTER_MAGAZINE "wikilink")》開始連載，但因該雜誌停刊而於2000年1月暫停連載。2000年5月改在講談社《[Young Magazine Uppers](https://zh.wikipedia.org/wiki/Young_Magazine_Uppers "wikilink")》（）繼續連載，但因為該雜誌停刊而再次中斷連載。2010年9月改在講談社《[月刊Young Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》（）繼續連載，中文版由[尖端出版](../Page/尖端出版.md "wikilink")發行。後來改編成電視劇、OVA、遊戲等相關作品。
 
 ## 概要
 
-標題中的「G」指「Girl」，「taste」代表[味道](https://zh.wikipedia.org/wiki/味道 "wikilink")，涵義是將男性對女性各種角色的[慾望具體化](https://zh.wikipedia.org/wiki/慾望 "wikilink")。本作主線劇情薄弱，而是以介紹各種各樣具魅力的女主角為主，被歸類為[Cosplay的類型](../Page/Cosplay.md "wikilink")。由漫畫改編的[電視劇於](https://zh.wikipedia.org/wiki/電視劇 "wikilink")2001年4月至7月的每個星期五凌晨3點14分在[朝日電視台播放](../Page/朝日電視台.md "wikilink")。由[釋由美子擔任](../Page/釋由美子.md "wikilink")[說書人](https://zh.wikipedia.org/wiki/說書人 "wikilink")，以一集一個主題的方式，每一集邀請人氣偶像穿上各種職業的服裝大受歡迎。
+標題中的「G」指「Girl」，「taste」代表[味道](https://zh.wikipedia.org/wiki/味道 "wikilink")，涵義是將男性對女性各種角色的[慾望具體化](https://zh.wikipedia.org/wiki/慾望 "wikilink")。本作主線劇情薄弱，而是以介紹各種各樣具魅力的女主角為主，被歸類為[Cosplay](../Page/Cosplay.md "wikilink")的類型。由漫畫改編的[電視劇於](https://zh.wikipedia.org/wiki/電視劇 "wikilink")2001年4月至7月的每個星期五凌晨3點14分在[朝日電視台](../Page/朝日電視台.md "wikilink")播放。由[釋由美子](../Page/釋由美子.md "wikilink")擔任[說書人](https://zh.wikipedia.org/wiki/說書人 "wikilink")，以一集一個主題的方式，每一集邀請人氣偶像穿上各種職業的服裝大受歡迎。
 
 ## 角色
 
@@ -126,7 +122,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》（�
 <!-- end list -->
 
   - 如月麻里菜
-    [鬼面具](../Page/鬼.md "wikilink")，[巫女服](https://zh.wikipedia.org/wiki/巫女#.E5.B7.AB.E5.A5.B3.E6.9C.8D "wikilink")，[龜甲縛](https://zh.wikipedia.org/wiki/龜甲縛 "wikilink")。
+    [鬼](../Page/鬼.md "wikilink")面具，[巫女服](https://zh.wikipedia.org/wiki/巫女#.E5.B7.AB.E5.A5.B3.E6.9C.8D "wikilink")，[龜甲縛](https://zh.wikipedia.org/wiki/龜甲縛 "wikilink")。
 
 <!-- end list -->
 
@@ -148,7 +144,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》（�
 
 ### 成人動畫
 
-1999年12月18日到2003年4月24日發行[成人動畫版的](../Page/成人動畫.md "wikilink")[VHS及](../Page/VHS.md "wikilink")[DVD-Video](../Page/DVD-Video.md "wikilink")，2014發售合集版共2集。
+1999年12月18日到2003年4月24日發行[成人動畫](../Page/成人動畫.md "wikilink")版的[VHS](../Page/VHS.md "wikilink")及[DVD-Video](../Page/DVD-Video.md "wikilink")，2014發售合集版共2集。
 
   - 『G-taste 〜八木澤萌〜』
   - 『G-taste 〜森村奈奈〜』
@@ -216,16 +212,4 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》（�
 
   - [G-Best官方網站](http://kc.kodansha.co.jp/gtaste/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:月刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:月刊Young_Magazine "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:Young_Magazine_Uppers](https://zh.wikipedia.org/wiki/Category:Young_Magazine_Uppers "wikilink")
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink")
-[Category:1999年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1999年日本成人動畫 "wikilink")
-[Category:2010年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2010年日本OVA動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:後藤法子劇本電視劇](https://zh.wikipedia.org/wiki/Category:後藤法子劇本電視劇 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:月刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:月刊Young_Magazine "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:Young_Magazine_Uppers](https://zh.wikipedia.org/wiki/Category:Young_Magazine_Uppers "wikilink") [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink") [Category:1999年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1999年日本成人動畫 "wikilink") [Category:2010年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2010年日本OVA動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:後藤法子劇本電視劇](https://zh.wikipedia.org/wiki/Category:後藤法子劇本電視劇 "wikilink")

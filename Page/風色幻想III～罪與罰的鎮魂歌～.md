@@ -1,8 +1,8 @@
-《**風色幻想III～罪與罰的鎮魂歌～**》是[弘煜科技开发的](../Page/弘煜科技.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。亦是弘煜經過長久研發期，使用新型[3D遊戲引擎的開始](https://zh.wikipedia.org/wiki/3D "wikilink")。故事內容屬於菲利斯多篇四部曲中第三部曲。游戏於2004年11月16日在台湾發售，\[1\][中国大陆则由](../Page/中国大陆.md "wikilink")[寰宇之星代理](../Page/寰宇之星.md "wikilink")，於2005年2月25日发行。\[2\]
+《**風色幻想III～罪與罰的鎮魂歌～**》是[弘煜科技](../Page/弘煜科技.md "wikilink")开发的[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。亦是弘煜經過長久研發期，使用新型[3D遊戲引擎的開始](https://zh.wikipedia.org/wiki/3D "wikilink")。故事內容屬於菲利斯多篇四部曲中第三部曲。游戏於2004年11月16日在台湾發售，\[1\][中国大陆](../Page/中国大陆.md "wikilink")则由[寰宇之星](../Page/寰宇之星.md "wikilink")代理，於2005年2月25日发行。\[2\]
 
 ## 故事簡介
 
-很久以前，[救世主加瑟多為結束](https://zh.wikipedia.org/wiki/救世主 "wikilink")[人類與](../Page/人類.md "wikilink")[妖精的戰爭](https://zh.wikipedia.org/wiki/妖精 "wikilink")，使用遠古時代邪神迪斯雅的七枚原罪徽章封印亂世的六大聖靈，但為封印六聖靈而力盡的加瑟多卻在死前留下未來七大[原罪徽章的力量將會復甦](../Page/原罪.md "wikilink")，毀滅世界的預言……。人類為抵禦這滅世災難，集合世界各地的精英，成立一個專門消弭七原罪之劫的組織——「斷罪之翼」。
+很久以前，[救世主加瑟多為結束](https://zh.wikipedia.org/wiki/救世主 "wikilink")[人類](../Page/人類.md "wikilink")與[妖精的戰爭](https://zh.wikipedia.org/wiki/妖精 "wikilink")，使用遠古時代邪神迪斯雅的七枚原罪徽章封印亂世的六大聖靈，但為封印六聖靈而力盡的加瑟多卻在死前留下未來七大[原罪](../Page/原罪.md "wikilink")徽章的力量將會復甦，毀滅世界的預言……。人類為抵禦這滅世災難，集合世界各地的精英，成立一個專門消弭七原罪之劫的組織——「斷罪之翼」。
 
 故事的主角**凱琳·賽拉菲姆**和如同姊姊的守護者**雪菈·貝祺朵**成為今年聖都尼魯進入「斷罪之翼」組織的代表。在「斷罪之翼」凱琳與來自世界各地的夥伴們為封印原罪劫不斷努力。但一件件圍繞著原罪之劫與原罪徽章的陰謀卻也開始浮上檯面。這會為凱琳與這群共患難的夥伴們帶來什麼樣的改變？傳說的原罪劫又真會如預言般的覺醒嗎？
 
@@ -142,9 +142,7 @@
   - [風色幻想Ⅲ\~罪與罰的鎮魂歌官網](http://www.fy.com.tw/product/game/wf3/index.htm)
   - [寰宇之星软件有限公司](http://www.unistar.net.cn/)
 
-[Category:战略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:战略角色扮演遊戲 "wikilink")
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink")
+[Category:战略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:战略角色扮演遊戲 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink")
 
 1.
 2.

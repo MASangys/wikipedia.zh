@@ -20,11 +20,9 @@ Pe-3R是夜間戰鬥機。
 
 ## 評價
 
-本機是戰時蘇聯飛機中的另類代表，完全不像其他戰時機型簡陃，性能也足和[P-38或](https://zh.wikipedia.org/wiki/P-38 "wikilink")[Bf
-110匹敵](https://zh.wikipedia.org/wiki/Bf_110 "wikilink")。
+本機是戰時蘇聯飛機中的另類代表，完全不像其他戰時機型簡陃，性能也足和[P-38或](https://zh.wikipedia.org/wiki/P-38 "wikilink")[Bf 110匹敵](https://zh.wikipedia.org/wiki/Bf_110 "wikilink")。
 
-雖然以Pe-2的構造，安裝雷達完全不成問題，但僅有少數能像[P-38](https://zh.wikipedia.org/wiki/P-38 "wikilink")、[Bf
-110或](https://zh.wikipedia.org/wiki/Bf_110 "wikilink")[蚊式等類似的雙引擎戰機](https://zh.wikipedia.org/wiki/蚊式 "wikilink")，改裝成為[夜間戰鬥機](../Page/夜間戰鬥機.md "wikilink")（Pe-3R）。
+雖然以Pe-2的構造，安裝雷達完全不成問題，但僅有少數能像[P-38](https://zh.wikipedia.org/wiki/P-38 "wikilink")、[Bf 110或](https://zh.wikipedia.org/wiki/Bf_110 "wikilink")[蚊式等類似的雙引擎戰機](https://zh.wikipedia.org/wiki/蚊式 "wikilink")，改裝成為[夜間戰鬥機](../Page/夜間戰鬥機.md "wikilink")（Pe-3R）。
 
 除了是因為蘇聯電子科技較美英德稍遜，在1939年紅軍才開始使用新問世的國產防空雷達。更嚴重的問題是在雷達成為空軍標準裝備後，當時的蘇聯紅軍要求戰鬥機完全依賴地面雷達站提供情報，反映其作戰方式侷限於「飛行員不過是戰鬥員」的陳腐觀念，無法讓戰鬥機使用其空中高度優勢發現敵人，甚至拖慢了蘇聯發展[預警機和](https://zh.wikipedia.org/wiki/預警機 "wikilink")[全天候戰鬥機的進度](https://zh.wikipedia.org/wiki/全天候戰鬥機 "wikilink")。
 
@@ -86,5 +84,4 @@ Pe-3R是夜間戰鬥機。
   - [教練機](../Page/教練機.md "wikilink")
       - [Po-2](https://zh.wikipedia.org/wiki/Po-2 "wikilink")
 
-[Category:蘇聯轟炸機](https://zh.wikipedia.org/wiki/Category:蘇聯轟炸機 "wikilink")
-[Category:二戰俯衝轟炸機](https://zh.wikipedia.org/wiki/Category:二戰俯衝轟炸機 "wikilink")
+[Category:蘇聯轟炸機](https://zh.wikipedia.org/wiki/Category:蘇聯轟炸機 "wikilink") [Category:二戰俯衝轟炸機](https://zh.wikipedia.org/wiki/Category:二戰俯衝轟炸機 "wikilink")

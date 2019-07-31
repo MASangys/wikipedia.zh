@@ -1,10 +1,8 @@
-**BIOS[中断调用](https://zh.wikipedia.org/wiki/中断 "wikilink")**（）是一組功能，为[DOS](../Page/DOS.md "wikilink")程式與一些软件提供使用[IBM
-PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS](../Page/BIOS.md "wikilink")的功能。一些[操作系统](../Page/操作系统.md "wikilink")在[系统引导時也使用BIOS以检测并初始化硬件資源](https://zh.wikipedia.org/wiki/系统引导 "wikilink")。
+**BIOS[中断调用](https://zh.wikipedia.org/wiki/中断 "wikilink")**（）是一組功能，为[DOS](../Page/DOS.md "wikilink")程式與一些软件提供使用[IBM PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS](../Page/BIOS.md "wikilink")的功能。一些[操作系统](../Page/操作系统.md "wikilink")在[系统引导時也使用BIOS以检测并初始化硬件資源](https://zh.wikipedia.org/wiki/系统引导 "wikilink")。
 
 ## 中断调用
 
-若要调用中断，可以使用[X86](../Page/X86.md "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")的[INT指令](https://zh.wikipedia.org/wiki/INT_\(x86指令\) "wikilink")。
-例如，如下的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")指令可以使用BIOS的0x10中断向屏幕打印一个字符。
+若要调用中断，可以使用[X86](../Page/X86.md "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")的[INT指令](https://zh.wikipedia.org/wiki/INT_\(x86指令\) "wikilink")。 例如，如下的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")指令可以使用BIOS的0x10中断向屏幕打印一个字符。
 
 <code language="x86">
 
@@ -467,21 +465,13 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS](../Page/BIOS.md "wi
   -
 ## 参考资料
 
-  - [The x86 Interrupt List](http://www.cs.cmu.edu/~ralf/files.html)
-    (a.k.a. RBIL, Ralf Brown's Interrupt List)
-  - [Embedded BIOS User's
-    Manual](ftp://ftp.embeddedarm.com/old/saved-downloads-manuals/EBIOS-UM.PDF)
-  - [PhoenixBIOS 4.0 User's
-    Manual](https://web.archive.org/web/20120617084000/http://www.esapcsolutions.com/ecom/drawings/PhoenixBIOS4_rev6UserMan.pdf)
-  - [HTML version of Ralf Brown Interrupt
-    List](http://www.ctyme.com/rbrown.htm)
-  - *IBM Personal System/2 and Personal Computer BIOS Interface
-    Technical Reference*, IBM, 1988, ISBN 999857739X
-  - *System BIOS for IBM PCs, Compatibles, and EISA Computers*, , 1991,
-    ISBN 0201577607
+  - [The x86 Interrupt List](http://www.cs.cmu.edu/~ralf/files.html) (a.k.a. RBIL, Ralf Brown's Interrupt List)
+  - [Embedded BIOS User's Manual](ftp://ftp.embeddedarm.com/old/saved-downloads-manuals/EBIOS-UM.PDF)
+  - [PhoenixBIOS 4.0 User's Manual](https://web.archive.org/web/20120617084000/http://www.esapcsolutions.com/ecom/drawings/PhoenixBIOS4_rev6UserMan.pdf)
+  - [HTML version of Ralf Brown Interrupt List](http://www.ctyme.com/rbrown.htm)
+  - *IBM Personal System/2 and Personal Computer BIOS Interface Technical Reference*, IBM, 1988, ISBN 999857739X
+  - *System BIOS for IBM PCs, Compatibles, and EISA Computers*, , 1991, ISBN 0201577607
   - *Programmer's Guide to the AMIBIOS*, , 1993, ISBN 0070015619
-  - *The Programmer's PC Sourcebook* by Thom Hogan, Microsoft Press,
-    1991 ISBN 155615321X
+  - *The Programmer's PC Sourcebook* by Thom Hogan, Microsoft Press, 1991 ISBN 155615321X
 
-[Category:BIOS](https://zh.wikipedia.org/wiki/Category:BIOS "wikilink")
-[Category:中断](https://zh.wikipedia.org/wiki/Category:中断 "wikilink")
+[Category:BIOS](https://zh.wikipedia.org/wiki/Category:BIOS "wikilink") [Category:中断](https://zh.wikipedia.org/wiki/Category:中断 "wikilink")

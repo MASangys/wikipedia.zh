@@ -1,26 +1,20 @@
-《**機動戰士鋼彈F91**》（）是[鋼彈系列作品中的第二部完全新作](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，而非總集篇或重製的劇場版動畫。於1991年3月在日本上映，原定下檔後，將會推出電視動畫版續集。可惜上映時票房成績一般，令該計劃遭擱置，改以《[機動戰士V
-GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》代替。原本預定在電視動畫版上演的「宇宙巴比倫建國戰爭」的後續，只能在年表和富野由悠季原作，以漫畫形式發行的「[機動戰士海盗GUNDAM](https://zh.wikipedia.org/wiki/機動戰士海盗GUNDAM "wikilink")」的回憶場景中略窺一二。
+《**機動戰士鋼彈F91**》（）是[鋼彈系列作品中的第二部完全新作](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，而非總集篇或重製的劇場版動畫。於1991年3月在日本上映，原定下檔後，將會推出電視動畫版續集。可惜上映時票房成績一般，令該計劃遭擱置，改以《[機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》代替。原本預定在電視動畫版上演的「宇宙巴比倫建國戰爭」的後續，只能在年表和富野由悠季原作，以漫畫形式發行的「[機動戰士海盗GUNDAM](https://zh.wikipedia.org/wiki/機動戰士海盗GUNDAM "wikilink")」的回憶場景中略窺一二。
 
 ## 故事介紹
 
-經過短暫的和平後，[貴族主義在](https://zh.wikipedia.org/wiki/貴族主義 "wikilink")[宇宙殖民地的政治界和商界中抬頭](../Page/宇宙殖民地.md "wikilink")，當中羅那家族更組成一支私立軍隊「[骨十字先鋒軍](https://zh.wikipedia.org/wiki/死亡先鋒 "wikilink")」。[地球聯邦軍一直對宇宙民居採取觀察態度](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，並沒有加以理會。U.C.0123年，骨十字先鋒軍部隊突襲Side
-4各[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")，與地球聯邦軍部隊交戰。地球聯邦軍的[機動戰士的性能不及骨十字先鋒軍的機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，戰爭處於一面倒的狀態。宇宙殖民地FRONTIER
-IV的某間大學內正在進行選美比賽，正當裁判宣佈謝西莉勝出時，一架被毀的機動戰士掉下來，會場頓時陷入恐慌。主角西普克和他的朋友集合後前往戰爭博物館避難，但他們眼見地球聯邦軍節節敗退，於是決定駕駛的半毀的舊式機動戰士，想逃往24號港口乘搭難民船……。
+經過短暫的和平後，[貴族主義在](https://zh.wikipedia.org/wiki/貴族主義 "wikilink")[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")的政治界和商界中抬頭，當中羅那家族更組成一支私立軍隊「[骨十字先鋒軍](https://zh.wikipedia.org/wiki/死亡先鋒 "wikilink")」。[地球聯邦軍一直對宇宙民居採取觀察態度](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，並沒有加以理會。U.C.0123年，骨十字先鋒軍部隊突襲Side 4各[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")，與地球聯邦軍部隊交戰。地球聯邦軍的[機動戰士的性能不及骨十字先鋒軍的機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，戰爭處於一面倒的狀態。宇宙殖民地FRONTIER IV的某間大學內正在進行選美比賽，正當裁判宣佈謝西莉勝出時，一架被毀的機動戰士掉下來，會場頓時陷入恐慌。主角西普克和他的朋友集合後前往戰爭博物館避難，但他們眼見地球聯邦軍節節敗退，於是決定駕駛的半毀的舊式機動戰士，想逃往24號港口乘搭難民船……。
 
 ## 作品解說
 
-1988年在《[機動戰士GUNDAM
--{zh-hans:逆袭的夏亚;zh-hk:馬沙之反擊;zh-tw:逆襲的夏亞;}-](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》之後的3年（1991），富野導演的第2部電影創作動畫。同時也是第2期鋼彈系列的開募集。
+1988年在《[機動戰士GUNDAM -{zh-hans:逆袭的夏亚;zh-hk:馬沙之反擊;zh-tw:逆襲的夏亞;}-](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》之後的3年（1991），富野導演的第2部電影創作動畫。同時也是第2期鋼彈系列的開募集。
 
-富野導演說過「從最初的《機動戰士鋼彈》到《[機動戰士GUNDAM
--{zh-hans:逆袭的夏亚;zh-hk:馬沙之反擊;zh-tw:逆襲的夏亞;}-](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》，這系列作品在10年間，受到大家的支持，希望這次開始的新系列，各位也能再支持它10年。」
+富野導演說過「從最初的《機動戰士鋼彈》到《[機動戰士GUNDAM -{zh-hans:逆袭的夏亚;zh-hk:馬沙之反擊;zh-tw:逆襲的夏亞;}-](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》，這系列作品在10年間，受到大家的支持，希望這次開始的新系列，各位也能再支持它10年。」
 
 然而機動戰士F91可說是另一個「鋼彈十年」的再出發，全新的設定和造型，意圖為鋼彈注入新的生命力和活力。這一點可由富野導演在製作發表時的談話而得知：「關於此次請大河原先生設定MS，有一點是最初就決定的，那就是不再畫薩克那種單眼的MS。」。
 
 不過隨著票房不佳連帶影響續作電視動畫化。不過這也證實當年的鋼彈迷們似乎不接受全新的鋼彈，對於一套幾近完成式的作品來說，求變是唯一不變的法則，然而F91在企劃過程中所面臨的難關可以說是難以想像的，可見富野導演所下的決心。
 
-在夏亞之亂30年後。長久持續的和平使地球聯邦政府腐敗，置宇宙居民於不顧的棄民政策一向未改。對此，在宇宙貴族主義的理想背後，為了地球圈的存亡，企圖肅清90%的人類的鐵假面和骨十字先鋒軍（CrossBone
-Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不得不對其產生奇妙的現實感。
+在夏亞之亂30年後。長久持續的和平使地球聯邦政府腐敗，置宇宙居民於不顧的棄民政策一向未改。對此，在宇宙貴族主義的理想背後，為了地球圈的存亡，企圖肅清90%的人類的鐵假面和骨十字先鋒軍（CrossBone Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不得不對其產生奇妙的現實感。
 
 ## 角色介紹
 
@@ -167,8 +161,7 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 
   - [F91 鋼彈F91](https://zh.wikipedia.org/wiki/F91_GUNDAMF91 "wikilink")
   - [RGM-109赫維鋼](https://zh.wikipedia.org/wiki/RGM-109赫維鋼 "wikilink")
-  - [RGM-89J 傑鋼
-    一般型(A型、B型)](https://zh.wikipedia.org/wiki/RGM-89系列機動戰士 "wikilink")
+  - [RGM-89J 傑鋼 一般型(A型、B型)](https://zh.wikipedia.org/wiki/RGM-89系列機動戰士 "wikilink")
   - F71 G‧加農
 
 ### 其他
@@ -214,23 +207,14 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 ### 主题曲
 
   - 主題曲「」
-    作詞：[西脇唯](https://zh.wikipedia.org/wiki/西脇唯 "wikilink")
-    作曲：[西脇唯](https://zh.wikipedia.org/wiki/西脇唯 "wikilink")、[緒里原洋子](https://zh.wikipedia.org/wiki/緒里原洋子 "wikilink")
-    編曲：[門倉聰](https://zh.wikipedia.org/wiki/門倉聰 "wikilink")
-    主唱：[森口博子](../Page/森口博子.md "wikilink")
+    作詞：[西脇唯](https://zh.wikipedia.org/wiki/西脇唯 "wikilink") 作曲：[西脇唯](https://zh.wikipedia.org/wiki/西脇唯 "wikilink")、[緒里原洋子](https://zh.wikipedia.org/wiki/緒里原洋子 "wikilink") 編曲：[門倉聰](https://zh.wikipedia.org/wiki/門倉聰 "wikilink") 主唱：[森口博子](../Page/森口博子.md "wikilink")
 
 <!-- end list -->
 
   - 印象曲「」
-    作詞：[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")、[茂村泰彦](https://zh.wikipedia.org/wiki/茂村泰彦 "wikilink")
-    作曲：[茂村泰彦](https://zh.wikipedia.org/wiki/茂村泰彦 "wikilink")
-    編曲：[門倉聰](https://zh.wikipedia.org/wiki/門倉聰 "wikilink")
-    主唱：[森口博子](../Page/森口博子.md "wikilink")
+    作詞：[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")、[茂村泰彦](https://zh.wikipedia.org/wiki/茂村泰彦 "wikilink") 作曲：[茂村泰彦](https://zh.wikipedia.org/wiki/茂村泰彦 "wikilink") 編曲：[門倉聰](https://zh.wikipedia.org/wiki/門倉聰 "wikilink") 主唱：[森口博子](../Page/森口博子.md "wikilink")
 
-※在製作組方面原本是將「」作為機動戰士GUNDAM
-F91的[主題曲](../Page/主題曲.md "wikilink")，而「」就以插曲形式出現，不過最後因[富野由悠季的意向被換掉](../Page/富野由悠季.md "wikilink")，「君を見つめて
--The time I'm seeing
-you-」則改成[宣傳片的歌曲](https://zh.wikipedia.org/wiki/宣傳片 "wikilink")，而「」就改成[主題曲](../Page/主題曲.md "wikilink")。
+※在製作組方面原本是將「」作為機動戰士GUNDAM F91的[主題曲](../Page/主題曲.md "wikilink")，而「」就以插曲形式出現，不過最後因[富野由悠季](../Page/富野由悠季.md "wikilink")的意向被換掉，「君を見つめて -The time I'm seeing you-」則改成[宣傳片的歌曲](https://zh.wikipedia.org/wiki/宣傳片 "wikilink")，而「」就改成[主題曲](../Page/主題曲.md "wikilink")。
 
 ### 原声带
 
@@ -267,8 +251,7 @@ you-」則改成[宣傳片的歌曲](https://zh.wikipedia.org/wiki/宣傳片 "wi
 
 <!-- end list -->
 
-  - [機動戰士GUNDAM
-    影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
+  - [機動戰士GUNDAM 影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
 
 <!-- end list -->
 
@@ -279,23 +262,17 @@ you-」則改成[宣傳片的歌曲](https://zh.wikipedia.org/wiki/宣傳片 "wi
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
       - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
       - [機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")
-      - [機動戰士海盜GUNDAM
-        GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_GHOST "wikilink")
+      - [機動戰士海盜GUNDAM GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_GHOST "wikilink")
 
 ## 注释
 
 ## 外部链接
 
   - [サンライズ公式Web](https://web.archive.org/web/20140506132301/http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=56)
-  - [機動戦士ガンダムF91
-    特集页面](http://animejapan.cplaza.ne.jp/b-ch/gf91_sp/index.html)
+  - [機動戦士ガンダムF91 特集页面](http://animejapan.cplaza.ne.jp/b-ch/gf91_sp/index.html)
   - [機動戦士ガンダムF91 公式web](http://www.gundam-f91.net/)
 
 <!-- end list -->
 
   -
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
+[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")

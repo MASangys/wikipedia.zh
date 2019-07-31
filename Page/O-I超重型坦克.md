@@ -1,5 +1,4 @@
-**O-I**（試製120t超重戰車“”）是[大日本帝國陸軍](../Page/大日本帝國陸軍.md "wikilink")試做的[超重型坦克](../Page/超重型坦克.md "wikilink")，只生產了1輛。
-[IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png](https://zh.wikipedia.org/wiki/File:IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png "fig:IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png")
+**O-I**（試製120t超重戰車“”）是[大日本帝國陸軍](../Page/大日本帝國陸軍.md "wikilink")試做的[超重型坦克](../Page/超重型坦克.md "wikilink")，只生產了1輛。 [IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png](https://zh.wikipedia.org/wiki/File:IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png "fig:IJA_interior_side_view_schematic_of_the_O-I_super_heavy_tank.png")
 
 ## 概要
 
@@ -20,10 +19,8 @@ O-I型超重戰車以打擊敵方坦克為主要任務，是[百式重戰車的�
 
 <references/>
 
-  - [Artist rendition of the
-    O-I](https://web.archive.org/web/20100215202734/http://ww2drawings.jexiste.fr/Files/1-Vehicles/Axis/3-Japan/03-HeavyTanks/Type100O-I/O-I.htm)
+  - [Artist rendition of the O-I](https://web.archive.org/web/20100215202734/http://ww2drawings.jexiste.fr/Files/1-Vehicles/Axis/3-Japan/03-HeavyTanks/Type100O-I/O-I.htm)
 
-[Category:超重型坦克](https://zh.wikipedia.org/wiki/Category:超重型坦克 "wikilink")
-[Category:日本二戰坦克](https://zh.wikipedia.org/wiki/Category:日本二戰坦克 "wikilink")
+[Category:超重型坦克](https://zh.wikipedia.org/wiki/Category:超重型坦克 "wikilink") [Category:日本二戰坦克](https://zh.wikipedia.org/wiki/Category:日本二戰坦克 "wikilink")
 
 1.  《日本の戦車》p145

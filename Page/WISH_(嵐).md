@@ -1,10 +1,8 @@
-《**WISH**》是[嵐](../Page/嵐.md "wikilink")的第15枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2005年11月16日發行。唱片公司為[J
-Storm](../Page/J_Storm.md "wikilink")。
+《**WISH**》是[嵐](../Page/嵐.md "wikilink")的第15枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2005年11月16日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
 
-  - 作為連續劇主題曲，為繼《a Day in Our
-    Life》以來嵐首次突破累計30萬。初動紀錄亦同時更新，超過前作《櫻花盛開》的累計銷售量。
+  - 作為連續劇主題曲，為繼《a Day in Our Life》以來嵐首次突破累計30萬。初動紀錄亦同時更新，超過前作《櫻花盛開》的累計銷售量。
   - Secret Talk為過往最長的45分鐘。
 
 ## 收錄曲
@@ -26,8 +24,4 @@ Storm](../Page/J_Storm.md "wikilink")。
 3.  WISH（Original Karaoke）
 4.  一億之星（Original Karaoke）
 
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink")
-[Category:TBS週五連續劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇主題曲 "wikilink")
-[Category:花樣男子](https://zh.wikipedia.org/wiki/Category:花樣男子 "wikilink")
-[Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink") [Category:TBS週五連續劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇主題曲 "wikilink") [Category:花樣男子](https://zh.wikipedia.org/wiki/Category:花樣男子 "wikilink") [Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")

@@ -1,27 +1,17 @@
-**GLAY**（中文譯名：**灰色**），[日本著名的](../Page/日本.md "wikilink")4人組搖滾樂團。於1988年組成，1993年底被[X
-JAPAN團長](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI發掘](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，簽下他們並為其統籌出道計畫\[1\]。自1994年正式出道後創作出大量受歡迎的[流行歌曲](https://zh.wikipedia.org/wiki/Pop音樂 "wikilink")，並對1990年代日本[搖滾音樂有所影響](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")。
+**GLAY**（中文譯名：**灰色**），[日本](../Page/日本.md "wikilink")著名的4人組搖滾樂團。於1988年組成，1993年底被[X JAPAN團長](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI發掘](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，簽下他們並為其統籌出道計畫\[1\]。自1994年正式出道後創作出大量受歡迎的[流行歌曲](https://zh.wikipedia.org/wiki/Pop音樂 "wikilink")，並對1990年代日本[搖滾音樂有所影響](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")。
 
-出道至今締造出8張百萬單曲：[口唇](../Page/口唇_\(GLAY單曲\).md "wikilink")、[HOWEVER](../Page/HOWEVER.md "wikilink")、[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")、[SOUL
-LOVE](../Page/SOUL_LOVE.md "wikilink")、[BE WITH
-YOU](../Page/BE_WITH_YOU.md "wikilink")、[Winter,again](../Page/Winter,again.md "wikilink")、[不是這裡，要往哪裡](../Page/不是這裡，要往哪裡.md "wikilink")、[迷惑/SPECIAL
-THANKS](https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS "wikilink")（[日本唱片業協會紀錄認定](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")），5張百萬專輯：[BELOVED](https://zh.wikipedia.org/wiki/BELOVED_\(GLAY原創專輯\) "wikilink")、[REVIEW-BEST
-OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")、[pure
-soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")、[HEAVY
-GAUGE](https://zh.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAY\) "wikilink")、[DRIVE-GLAY
-complete
-BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮獲最多百萬單曲的紀錄中，GLAY位居第4名（[ORICON紀錄認定](https://zh.wikipedia.org/wiki/ORICON "wikilink")，不包含『口唇』、『不是這裡，要往哪裡』）。
+出道至今締造出8張百萬單曲：[口唇](../Page/口唇_\(GLAY單曲\).md "wikilink")、[HOWEVER](../Page/HOWEVER.md "wikilink")、[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")、[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")、[BE WITH YOU](../Page/BE_WITH_YOU.md "wikilink")、[Winter,again](../Page/Winter,again.md "wikilink")、[不是這裡，要往哪裡](../Page/不是這裡，要往哪裡.md "wikilink")、[迷惑/SPECIAL THANKS](https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS "wikilink")（[日本唱片業協會紀錄認定](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")），5張百萬專輯：[BELOVED](https://zh.wikipedia.org/wiki/BELOVED_\(GLAY原創專輯\) "wikilink")、[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")、[pure soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")、[HEAVY GAUGE](https://zh.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAY\) "wikilink")、[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮獲最多百萬單曲的紀錄中，GLAY位居第4名（[ORICON紀錄認定](https://zh.wikipedia.org/wiki/ORICON "wikilink")，不包含『口唇』、『不是這裡，要往哪裡』）。
 
 ## 成員
 
 [MTV_VMAJ_2014_Glay.jpg](https://zh.wikipedia.org/wiki/File:MTV_VMAJ_2014_Glay.jpg "fig:MTV_VMAJ_2014_Glay.jpg")
 
   - [TERU](https://zh.wikipedia.org/wiki/TERU "wikilink")（主唱）：1971年6月8日－O型。
-  - [TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")（吉他手 &
-    鋼琴）：1971年5月26日－O型。GLAY有九成的歌曲的作詞、作曲都由他擔綱。
+  - [TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")（吉他手 & 鋼琴）：1971年5月26日－O型。GLAY有九成的歌曲的作詞、作曲都由他擔綱。
   - [HISASHI](https://zh.wikipedia.org/wiki/HISASHI "wikilink")（吉他手）：1972年2月2日－O型。
   - [JIRO](https://zh.wikipedia.org/wiki/JIRO "wikilink")（貝斯手）：1972年10月17日－A型。
 
-除了HISASHI以外都是從[北海道](../Page/北海道.md "wikilink")[函館市出身](../Page/函館市.md "wikilink")。HISASHI則出身於[青森縣](../Page/青森縣.md "wikilink")[弘前市](../Page/弘前市.md "wikilink")
+除了HISASHI以外都是從[北海道](../Page/北海道.md "wikilink")[函館市](../Page/函館市.md "wikilink")出身。HISASHI則出身於[青森縣](../Page/青森縣.md "wikilink")[弘前市](../Page/弘前市.md "wikilink")
 
 ### 已離開成員
 
@@ -672,21 +662,16 @@ CD+DVD</small></p></td>
 
 ## 紀錄
 
-1999年7月31日在[千葉縣的](../Page/千葉縣.md "wikilink")『[幕張Messe](https://zh.wikipedia.org/wiki/幕張Messe "wikilink")』舉辦『[GLAY
-EXPO '99 SURVIVAL LIVE IN
-MAKUHARI](../Page/GLAY_EXPO_'99_SURVIVAL_LIVE_IN_MAKUHARI.md "wikilink")』動員了超過20萬歌迷，是日本音樂史上動員最多人的演唱會，亦是目前的[世界紀錄](https://zh.wikipedia.org/wiki/世界紀錄 "wikilink")。
+1999年7月31日在[千葉縣](../Page/千葉縣.md "wikilink")的『[幕張Messe](https://zh.wikipedia.org/wiki/幕張Messe "wikilink")』舉辦『[GLAY EXPO '99 SURVIVAL LIVE IN MAKUHARI](../Page/GLAY_EXPO_'99_SURVIVAL_LIVE_IN_MAKUHARI.md "wikilink")』動員了超過20萬歌迷，是日本音樂史上動員最多人的演唱會，亦是目前的[世界紀錄](https://zh.wikipedia.org/wiki/世界紀錄 "wikilink")。
 
 ## 海外演唱會（亞洲）
 
   - 首次北京演唱會：在2002年10月13日，舉辦『中日邦交正常化三十週年紀念 ONE LOVE IN BEIJING』反響空前。
-  - 首次台灣演唱會：在2011年7月5日、7月6日連續舉辦兩場『ROCK AROUND THE WORLD FOREVER in
-    TAIPEI』。
+  - 首次台灣演唱會：在2011年7月5日、7月6日連續舉辦兩場『ROCK AROUND THE WORLD FOREVER in TAIPEI』。
   - 首次香港演唱會：在2013年5月25日舉辦了一場『ASIA TOUR 2013 "JUSTICE & GUILTY"』。
   - 第2次台灣演唱會：在2013年7月6日舉辦了一場『ASIA TOUR 2013 "JUSTICE & GUILTY"』。
-  - 第3次台灣演唱會：在2018年3月17日於台北小巨蛋舉辦『Glay Arena Tour 2018 "Springdelics" in
-    Taipei 』。
-  - 第2次香港演唱會：在2018年3月24日於香港亞洲國際博覽館Hall 10舉辦『Glay Arena Tour 2018
-    "Springdelics" in Hong Kong』。
+  - 第3次台灣演唱會：在2018年3月17日於台北小巨蛋舉辦『Glay Arena Tour 2018 "Springdelics" in Taipei 』。
+  - 第2次香港演唱會：在2018年3月24日於香港亞洲國際博覽館Hall 10舉辦『Glay Arena Tour 2018 "Springdelics" in Hong Kong』。
 
 ## 參考資料
 
@@ -697,25 +682,8 @@ MAKUHARI](../Page/GLAY_EXPO_'99_SURVIVAL_LIVE_IN_MAKUHARI.md "wikilink")』動�
   - [GLAY官方facebook](https://www.facebook.com/glayalg)
 
   -
-  - [musicJAPANplus藝人資料庫 -
-    GLAY](http://www.musicjapanplus.jp/artistdb/?artist_id=143)
+  - [musicJAPANplus藝人資料庫 - GLAY](http://www.musicjapanplus.jp/artistdb/?artist_id=143)
 
-[Category:GLAY](https://zh.wikipedia.org/wiki/Category:GLAY "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink")
-[Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink")
-[Category:日本唱片大獎專輯大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎專輯大獎獲獎者 "wikilink")
-[Category:日本有線大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎者 "wikilink")
-[Category:BEST_HIT歌謠祭大獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭大獎獲獎者 "wikilink")
-[Category:日本金唱片大獎邦樂部門獲獎者](https://zh.wikipedia.org/wiki/Category:日本金唱片大獎邦樂部門獲獎者 "wikilink")
-[Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink")
-[Category:Oricon專輯年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon專輯年榜冠軍獲得者 "wikilink")
-[Category:Oricon音樂相關影像作品年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon音樂相關影像作品年榜冠軍獲得者 "wikilink")
-[Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink")
-[Category:曾在日產體育場舉行演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾在日產體育場舉行演唱會的音樂人 "wikilink")
-[Category:1988年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1988年成立的音樂團體 "wikilink")
-[Category:1988年日本建立](https://zh.wikipedia.org/wiki/Category:1988年日本建立 "wikilink")
-[Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
+[Category:GLAY](https://zh.wikipedia.org/wiki/Category:GLAY "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink") [Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink") [Category:日本唱片大獎專輯大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎專輯大獎獲獎者 "wikilink") [Category:日本有線大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎者 "wikilink") [Category:BEST_HIT歌謠祭大獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭大獎獲獎者 "wikilink") [Category:日本金唱片大獎邦樂部門獲獎者](https://zh.wikipedia.org/wiki/Category:日本金唱片大獎邦樂部門獲獎者 "wikilink") [Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink") [Category:Oricon專輯年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon專輯年榜冠軍獲得者 "wikilink") [Category:Oricon音樂相關影像作品年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon音樂相關影像作品年榜冠軍獲得者 "wikilink") [Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink") [Category:曾在日產體育場舉行演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾在日產體育場舉行演唱會的音樂人 "wikilink") [Category:1988年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1988年成立的音樂團體 "wikilink") [Category:1988年日本建立](https://zh.wikipedia.org/wiki/Category:1988年日本建立 "wikilink") [Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
 
 1.  『』（1998年3月号）社

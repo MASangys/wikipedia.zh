@@ -173,14 +173,7 @@ Galaxy Colosseum</p></td>
   -
   - [官方網站](http://www.mariokart.com/wii/)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:瑪利歐賽車系列](https://zh.wikipedia.org/wiki/Category:瑪利歐賽車系列 "wikilink")
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:Android_TV游戏](https://zh.wikipedia.org/wiki/Category:Android_TV游戏 "wikilink")
-[Category:Wii方向盤遊戲](https://zh.wikipedia.org/wiki/Category:Wii方向盤遊戲 "wikilink")
-[Category:任天堂Wi-Fi连接游戏](https://zh.wikipedia.org/wiki/Category:任天堂Wi-Fi连接游戏 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:瑪利歐賽車系列](https://zh.wikipedia.org/wiki/Category:瑪利歐賽車系列 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:Android_TV游戏](https://zh.wikipedia.org/wiki/Category:Android_TV游戏 "wikilink") [Category:Wii方向盤遊戲](https://zh.wikipedia.org/wiki/Category:Wii方向盤遊戲 "wikilink") [Category:任天堂Wi-Fi连接游戏](https://zh.wikipedia.org/wiki/Category:任天堂Wi-Fi连接游戏 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.
 2.

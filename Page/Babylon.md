@@ -1,4 +1,4 @@
-**Babylon**是一款词典软件。目前最新的版本是9.0.0。用户可在需要查询的词上单击[鼠标中键](../Page/鼠标.md "wikilink")，Babylon就会弹出一个窗口显示结果。Babylon有一个用于pdf文件的插件，支援在pdf文件中的取词。词典分为两类，一类是免费的，但是释义较简单，另一类是收费的，通常是比较有名的词典的在线版本。收费词典价格较高，大约每部要几十美元。
+**Babylon**是一款词典软件。目前最新的版本是9.0.0。用户可在需要查询的词上单击[鼠标](../Page/鼠标.md "wikilink")中键，Babylon就会弹出一个窗口显示结果。Babylon有一个用于pdf文件的插件，支援在pdf文件中的取词。词典分为两类，一类是免费的，但是释义较简单，另一类是收费的，通常是比较有名的词典的在线版本。收费词典价格较高，大约每部要几十美元。
 
 Babylon可以使用官方提供的Babylon Builder软件制作自己的词典。
 
@@ -22,6 +22,5 @@ Babylon提供一个静态的wiki词典，其更新的频率大约为几个月一
 
 [Category:电子词典](https://zh.wikipedia.org/wiki/Category:电子词典 "wikilink")
 
-1.  [最强词典翻译涉水国内 Babylon免费版 -
-    PChome.net](http://article.pchome.net/content-651501.html)
+1.  [最强词典翻译涉水国内 Babylon免费版 - PChome.net](http://article.pchome.net/content-651501.html)
 2.  [翻译软件大全：鸡肋的Babylon中文免费版](http://blog.sina.com.cn/s/blog_4696f46b01009ukm.html)

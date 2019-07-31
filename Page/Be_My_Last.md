@@ -1,5 +1,4 @@
-《**Be My
-Last**》（台灣EMI公司譯為「你是唯一」）是[宇多田光](../Page/宇多田光.md "wikilink")的第14張日語單曲，於2005年9月28日發行，初動8萬張，累計銷售15萬張。
+《**Be My Last**》（台灣EMI公司譯為「你是唯一」）是[宇多田光](../Page/宇多田光.md "wikilink")的第14張日語單曲，於2005年9月28日發行，初動8萬張，累計銷售15萬張。
 
 ## 簡介
 
@@ -7,9 +6,7 @@ Last**》（台灣EMI公司譯為「你是唯一」）是[宇多田光](../Page/
   - 分CD跟CD+DVD兩版本發售，為她首張作品以此方式發售。
   - 本曲為2005年10月上映的電影[春之雪](../Page/春之雪.md "wikilink")主題曲，《如願以償》後連續第二首電影主題曲。
   - 本曲封面與PV都是在[捷克](../Page/捷克.md "wikilink")的[布拉格](../Page/布拉格.md "wikilink")拍攝，封面左方的黑色城堡就是有名的世界最大古堡[布拉格城堡](../Page/布拉格城堡.md "wikilink")。
-  - 於2005年11月11日播放的「[Music
-    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」，只使用大提琴伴奏演唱了本曲。其後於「[UTADA
-    UNITED 2006](../Page/UTADA_UNITED_2006.md "wikilink")」演唱會中同樣演唱此版本。
+  - 於2005年11月11日播放的「[Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」，只使用大提琴伴奏演唱了本曲。其後於「[UTADA UNITED 2006](../Page/UTADA_UNITED_2006.md "wikilink")」演唱會中同樣演唱此版本。
   - 伴奏只使用一支[吉他](../Page/吉他.md "wikilink")的簡單樂曲\[1\]，其唯一一首沒有使用鍵盤作編曲的歌曲。
 
 ## 曲目
@@ -32,13 +29,8 @@ Last**》（台灣EMI公司譯為「你是唯一」）是[宇多田光](../Page/
 
 ## 外部連結
 
-  - [Hikki's
-    Website](https://web.archive.org/web/20080926100557/http://www.toshiba-emi.co.jp/hikki/)
-    — 宇多田光官方網站
+  - [Hikki's Website](https://web.archive.org/web/20080926100557/http://www.toshiba-emi.co.jp/hikki/) — 宇多田光官方網站
 
-[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
+[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
 
 1.

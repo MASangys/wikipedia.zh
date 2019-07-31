@@ -1,16 +1,10 @@
-《**DUEL
-SAVIOR**》是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2004年10月1日發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")\[1\]。2005年7月29日發售追加[資料片的](https://zh.wikipedia.org/wiki/資料片 "wikilink")《**[DUEL
-SAVIOR
-JUSTICE](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_JUSTICE "wikilink")**》。同年12月22日，[Alchemist發售移植到](../Page/Alchemist.md "wikilink")[PlayStation
-2主機上的](../Page/PlayStation_2.md "wikilink")《**[DUEL SAVIOR
-DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\]。
+《**DUEL SAVIOR**》是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2004年10月1日發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")\[1\]。2005年7月29日發售追加[資料片的](https://zh.wikipedia.org/wiki/資料片 "wikilink")《**[DUEL SAVIOR JUSTICE](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_JUSTICE "wikilink")**》。同年12月22日，[Alchemist](../Page/Alchemist.md "wikilink")發售移植到[PlayStation 2主機上的](../Page/PlayStation_2.md "wikilink")《**[DUEL SAVIOR DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\]。
 
 ## 遊戲系統
 
   -
     系統上分為[AVG部分和橫向](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[ACT部分](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。AVG部分為透過在校園地圖上選取目的地，前往該處觸發劇情與提升女主角的好感度。橫向ACT為操縱主角大河以強弱攻擊、[二段跳和前衝刺等動作打倒接連出現的敵人](https://zh.wikipedia.org/wiki/二段跳 "wikilink")。含有微量的[RPG升級要素](../Page/電子角色扮演遊戲.md "wikilink")，打倒敵人會獲得經驗值，累積至一定值能升級而增加計量表的長度，計量表愈長意味著有可能連續做出更多的集氣攻擊和特殊移動。完成某位女主角的結局後，該女主角在ACT部分會變成可操縱腳色。\[3\]\[4\]\[5\]
-    故事表現手法上繼承[BALDR
-    FORCE](../Page/BALDR_FORCE.md "wikilink")，女主角們有一定的攻略順序。愈後面開放攻略的女主角，其專屬劇情包含了更多的故事謎團。玩家會隨著攻略進度而一步一步接近故事核心。
+    故事表現手法上繼承[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")，女主角們有一定的攻略順序。愈後面開放攻略的女主角，其專屬劇情包含了更多的故事謎團。玩家會隨著攻略進度而一步一步接近故事核心。
 
 ## 故事簡介
 
@@ -19,15 +13,14 @@ DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\
 
 ## 登場人物
 
-<small>※[聲優排序](../Page/聲優.md "wikilink")：左PC、右PS2</small>
+<small>※[聲優](../Page/聲優.md "wikilink")排序：左PC、右PS2</small>
 
 ### 救世主候補
 
   -
-    男主角，是個色鬼。和未亞一起從近似[日本的和平世界被召喚到阿凡達](../Page/日本.md "wikilink")（原本召喚的應該只是未亞，因不明原因令大河作為「附屬品」而被召喚）結果成為史上第一位男性救世主候補。平時吊兒郎當，不當「命令」是一回事，但做人意外地有原則，絕對會守著「約定」。原本當上救世主候補的目的是為了創造「自己的後宮世界」，然而到了後期，因種種事情而意識到自己沉重的使命。
-    在原本的世界中，雙親早死的大河寄居親戚家，利用課餘在[便利店兼職](https://zh.wikipedia.org/wiki/便利店 "wikilink")。但種種理由令大河一直在找尋便宜的房子準備和未亞搬去新環境（在後續作品《[Xross
-    Scramble](../Page/Xross_Scramble.md "wikilink")》中改成有自己租的套房後才被招喚）。
-    召喚器是可因應不同狀況而改變成炸彈或斧頭等形態的大劍「」。正如大河是史上第一位男性救世主候補一樣，背逆者在召喚器中是唯一持有男性[人格的特別存在](../Page/人格.md "wikilink")。和未亞的召喚器「正義」間有特別的聯繫。
+    男主角，是個色鬼。和未亞一起從近似[日本](../Page/日本.md "wikilink")的和平世界被召喚到阿凡達（原本召喚的應該只是未亞，因不明原因令大河作為「附屬品」而被召喚）結果成為史上第一位男性救世主候補。平時吊兒郎當，不當「命令」是一回事，但做人意外地有原則，絕對會守著「約定」。原本當上救世主候補的目的是為了創造「自己的後宮世界」，然而到了後期，因種種事情而意識到自己沉重的使命。
+    在原本的世界中，雙親早死的大河寄居親戚家，利用課餘在[便利店兼職](https://zh.wikipedia.org/wiki/便利店 "wikilink")。但種種理由令大河一直在找尋便宜的房子準備和未亞搬去新環境（在後續作品《[Xross Scramble](../Page/Xross_Scramble.md "wikilink")》中改成有自己租的套房後才被招喚）。
+    召喚器是可因應不同狀況而改變成炸彈或斧頭等形態的大劍「」。正如大河是史上第一位男性救世主候補一樣，背逆者在召喚器中是唯一持有男性[人格](../Page/人格.md "wikilink")的特別存在。和未亞的召喚器「正義」間有特別的聯繫。
 
 <!-- end list -->
 
@@ -45,7 +38,7 @@ DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\
 <!-- end list -->
 
   -
-    救世主學科班長兼宿舍長，道德觀念較為保守的[僧侶](https://zh.wikipedia.org/wiki/僧侶 "wikilink")，總會待在教堂祈禱。雖然是聖職者，但十分害怕[喪屍](../Page/喪屍.md "wikilink")、[幽靈](https://zh.wikipedia.org/wiki/幽靈 "wikilink")、[墳場等事物](../Page/墳場.md "wikilink")。
+    救世主學科班長兼宿舍長，道德觀念較為保守的[僧侶](https://zh.wikipedia.org/wiki/僧侶 "wikilink")，總會待在教堂祈禱。雖然是聖職者，但十分害怕[喪屍](../Page/喪屍.md "wikilink")、[幽靈](https://zh.wikipedia.org/wiki/幽靈 "wikilink")、[墳場](../Page/墳場.md "wikilink")等事物。
     召喚器是等身長的[杖](https://zh.wikipedia.org/wiki/杖 "wikilink")「」。擅長回復系、防禦系魔法（但在遊戲的戰鬥部份中沒有回復魔法的招式）。
 
 <!-- end list -->
@@ -75,7 +68,7 @@ DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\
   -
     別名「赦爾」，傭兵科的學生，武器為大劍。長相頗帥、劍術也不錯，但好色上不輸大河而被女生敬而遠之。和大河是臭味相投的密友，常常偷窺女子澡堂並用幻影石偷拍女生後販賣。對未亞一見鍾情，對待未亞的態度明顯和對待其他女生不同。
   -
-    學園戰技科的教師.。典型的[巨乳角色](../Page/巨乳.md "wikilink")，出場或移動時甚至會有「澎～澎～」的效果音。個性上開朗又讓人捉摸不定，對學生很好但教學態度很嚴厲，學生們對她又愛又怕。身為魔術師的能力極為優秀，尤其擅長把人停滯在空中的「[懸浮術](https://zh.wikipedia.org/wiki/#Levi "wikilink")」。在救世主候補們戰鬥時常常因午睡等理由失蹤，故事中幾乎沒有關於她戰鬥場面的描寫。會在深夜潛入食堂偷酒喝。
+    學園戰技科的教師.。典型的[巨乳](../Page/巨乳.md "wikilink")角色，出場或移動時甚至會有「澎～澎～」的效果音。個性上開朗又讓人捉摸不定，對學生很好但教學態度很嚴厲，學生們對她又愛又怕。身為魔術師的能力極為優秀，尤其擅長把人停滯在空中的「[懸浮術](https://zh.wikipedia.org/wiki/#Levi "wikilink")」。在救世主候補們戰鬥時常常因午睡等理由失蹤，故事中幾乎沒有關於她戰鬥場面的描寫。會在深夜潛入食堂偷酒喝。
     真正身分是王國密探，擅長暗殺。受克雷雪達女王密令潛伏學園，最主要的任務是監視學園長穆麗爾。
   -
     學園的教師，在學園主要研究有關過去的救世主與破滅間的戰爭。上課和考試都很嚴格，但沒有教授任何實踐科目而被男學生評為「[豆芽菜](https://zh.wikipedia.org/wiki/豆芽菜 "wikilink")」。長相美型不過常常擺出看不起弱者的態度和做出惹人厭的發言，在學園內沒什麼人氣，不過身為知識、禮儀和規範等方面的教育者相當稱職。有一位亡軼的妹妹，在大河和未亞身上看到自己和妹妹過去的影子。
@@ -262,41 +255,29 @@ DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\
 ## 主題曲
 
   - **Fatally**
-    作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：[C.G
-    mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")，歌：KOTOKO
+    作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：[C.G mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")，歌：KOTOKO
 
 ## 工作人員
 
-  - 劇本：砂月 with
-    [企劃屋](https://zh.wikipedia.org/wiki/企劃屋 "wikilink")（[丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")、、小林且典）
+  - 劇本：砂月 with [企劃屋](https://zh.wikipedia.org/wiki/企劃屋 "wikilink")（[丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")、、小林且典）
   - 原畫：[菊池政治](../Page/菊池政治.md "wikilink")
   - 影片：[神月社](https://zh.wikipedia.org/wiki/神月社 "wikilink")
 
 ## DUEL SAVIOR JUSTICE
 
   -
-    2005年7月29日發售的重製版。已安裝的舊版「DUAL
-    SAVIOR」的玩家能透過更新的方式免除重新安裝，並繼承存檔紀錄。同時發售有更新專用的光碟「DUAL
-    SAVIOR collection disc.」\[7\]。
+    2005年7月29日發售的重製版。已安裝的舊版「DUAL SAVIOR」的玩家能透過更新的方式免除重新安裝，並繼承存檔紀錄。同時發售有更新專用的光碟「DUAL SAVIOR collection disc.」\[7\]。
     更新內容包含了本篇追加後宮結局，片頭動畫的重製，並追加以下模式\[8\]\[9\]：
-      - 在體力耗盡前不停打倒敵人的「生存模式」，能操作本篇無法使用的角色，並追加[V.G.系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#Variable_Geo系列 "wikilink")
-        角色1名、[Chocolat](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#Chocolat系列 "wikilink")
-        角色3名和[貓貓軟體的](https://zh.wikipedia.org/wiki/貓貓軟體 "wikilink")[水色](https://zh.wikipedia.org/wiki/水色_\(遊戲\) "wikilink")
-        角色3名。
+      - 在體力耗盡前不停打倒敵人的「生存模式」，能操作本篇無法使用的角色，並追加[V.G.系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#Variable_Geo系列 "wikilink") 角色1名、[Chocolat](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#Chocolat系列 "wikilink") 角色3名和[貓貓軟體的](https://zh.wikipedia.org/wiki/貓貓軟體 "wikilink")[水色](https://zh.wikipedia.org/wiki/水色_\(遊戲\) "wikilink") 角色3名。
       - 「練習模式」，能練習操作所有在生存模式下能使用的角色。
       - 「識破防禦練習道場」，能無損傷接下敵人攻擊的強力防禦技「」的練習模式。可以針對不同的攻擊進行練習。
 
 ## DUEL SAVIOR DESTINY
 
   -
-    2005年12月22日由[Alchemist發售的DUAL](../Page/Alchemist.md "wikilink")
-    SAVIOR的[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。\[10\]
-    追加了古妮亞路線和主角的配音，原有語音也加入由新配音員重新詮釋的版本，並可在系統選單做單獨角色的配音切換。採用新的主題歌「NO WAY
-    OUT\!」（作詞、作曲：YOFFY、演唱：[PSYCHIC
-    LOVER](../Page/PSYCHIC_LOVER.md "wikilink")）和片頭動畫。
-    特定路線過關後，若在記憶卡中有「[Chocolat ～maid cafe
-    "curio"～](https://zh.wikipedia.org/wiki/Chocolat_～maid_cafe_"curio"～ "wikilink")」記錄的話，可以遊玩「chocalat
-    SAVIOR」模式。以女僕咖啡廳為舞台和來襲的服務生們戰鬥，依照結果來發表等級。
+    2005年12月22日由[Alchemist](../Page/Alchemist.md "wikilink")發售的DUAL SAVIOR的[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。\[10\]
+    追加了古妮亞路線和主角的配音，原有語音也加入由新配音員重新詮釋的版本，並可在系統選單做單獨角色的配音切換。採用新的主題歌「NO WAY OUT\!」（作詞、作曲：YOFFY、演唱：[PSYCHIC LOVER](../Page/PSYCHIC_LOVER.md "wikilink")）和片頭動畫。
+    特定路線過關後，若在記憶卡中有「[Chocolat ～maid cafe "curio"～](https://zh.wikipedia.org/wiki/Chocolat_～maid_cafe_"curio"～ "wikilink")」記錄的話，可以遊玩「chocalat SAVIOR」模式。以女僕咖啡廳為舞台和來襲的服務生們戰鬥，依照結果來發表等級。
     限定版的「」附有音樂CD和娜娜斯的人物模型。\[11\]
 
 ## 相關商品
@@ -431,24 +412,18 @@ DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\
 </table>
 
   - Fanbook
-    [EAGLE
-    PUBLISHING於](https://zh.wikipedia.org/wiki/EAGLE_PUBLISHING "wikilink")2005年8月30日出版，ISBN
-    4-86146-077-8。收錄遊戲所有CG、[官方網站的四格漫畫](http://www.web-giga.com/duelsavior/ds_comic.htm)、攻略等，另有砂月所寫的4頁短篇故事「DUEL
-    SAVIOR異聞 」
+    [EAGLE PUBLISHING於](https://zh.wikipedia.org/wiki/EAGLE_PUBLISHING "wikilink")2005年8月30日出版，ISBN 4-86146-077-8。收錄遊戲所有CG、[官方網站的四格漫畫](http://www.web-giga.com/duelsavior/ds_comic.htm)、攻略等，另有砂月所寫的4頁短篇故事「DUEL SAVIOR異聞 」
 
 <!-- end list -->
 
   - 小說
-    [Jive於](https://zh.wikipedia.org/wiki/Jive "wikilink")2005年12月24日出版，[皆川千尋著](https://zh.wikipedia.org/wiki/皆川千尋 "wikilink")，ISBN
-    4-86176-244-8。[小宮山裕設計封面](https://zh.wikipedia.org/wiki/小宮山裕 "wikilink")，插畫來自由[菊池政治所畫的遊戲CG](../Page/菊池政治.md "wikilink")。故事內容是經刪減及修改的後宮路線。
+    [Jive於](https://zh.wikipedia.org/wiki/Jive "wikilink")2005年12月24日出版，[皆川千尋著](https://zh.wikipedia.org/wiki/皆川千尋 "wikilink")，ISBN 4-86176-244-8。[小宮山裕設計封面](https://zh.wikipedia.org/wiki/小宮山裕 "wikilink")，插畫來自由[菊池政治](../Page/菊池政治.md "wikilink")所畫的遊戲CG。故事內容是經刪減及修改的後宮路線。
 
 ## 小知識
 
   - 在無印及JUSTICE版開頭動畫中約1分45秒至48秒出現的高塔其實和故事毫無關係，只是一種「演出手法」。
-  - 在上述版本中，一張CG中出現了《[BALDR
-    FORCE](../Page/BALDR_FORCE.md "wikilink")》中的角色梁和彩音，但兩人的配音和原本不一樣。
-  - [官方網站的四格漫畫](http://www.web-giga.com/duelsavior/ds_comic.htm)中，在旁邊出現的是[希臘文字](https://zh.wikipedia.org/wiki/希臘字母 "wikilink")，「」即是「Duel
-    savior」，「」是「duel savior」。
+  - 在上述版本中，一張CG中出現了《[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")》中的角色梁和彩音，但兩人的配音和原本不一樣。
+  - [官方網站的四格漫畫](http://www.web-giga.com/duelsavior/ds_comic.htm)中，在旁邊出現的是[希臘文字](https://zh.wikipedia.org/wiki/希臘字母 "wikilink")，「」即是「Duel savior」，「」是「duel savior」。
   - 女角的名稱多來自植物名稱\[12\]，如下：
 
 <table>
@@ -516,8 +491,7 @@ DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\
 
 ## 評價
 
-在成人遊戲雜誌《[TECH
-GIAN](../Page/TECH_GIAN.md "wikilink")》2005年舉辦的讀者票選「」中，得到2004年下半期第1位的榮譽。\[13\]
+在成人遊戲雜誌《[TECH GIAN](../Page/TECH_GIAN.md "wikilink")》2005年舉辦的讀者票選「」中，得到2004年下半期第1位的榮譽。\[13\]
 
 ## 参考資料
 
@@ -531,15 +505,9 @@ GIAN](../Page/TECH_GIAN.md "wikilink")》2005年舉辦的讀者票選「」中�
 
   - [戲畫](http://www.web-giga.com/)
   - [PC版官方網站](http://www.web-giga.com/duelsavior/duelsavior_f.htm)
-  - [DUEL SAVIOR
-    DESTINY官方網站](https://web.archive.org/web/20070826145617/http://www.alchemist-net.co.jp/products/DSD/)
+  - [DUEL SAVIOR DESTINY官方網站](https://web.archive.org/web/20070826145617/http://www.alchemist-net.co.jp/products/DSD/)
 
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:戲畫](https://zh.wikipedia.org/wiki/Category:戲畫 "wikilink")
+[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:戲畫](https://zh.wikipedia.org/wiki/Category:戲畫 "wikilink")
 
 1.
 

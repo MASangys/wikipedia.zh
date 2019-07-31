@@ -38,8 +38,7 @@
 
 ## 与Mac OS X的兼容性
 
-诺基亚公司为使用者提供了[Nokia PC
-Suite](https://zh.wikipedia.org/wiki/Nokia_PC_Suite "wikilink")，它能让手机与PC同步传输资料，日历，通讯录以及其他各种信息。
+诺基亚公司为使用者提供了[Nokia PC Suite](https://zh.wikipedia.org/wiki/Nokia_PC_Suite "wikilink")，它能让手机与PC同步传输资料，日历，通讯录以及其他各种信息。
 
 Mac的用户需要通过[蓝牙连接来传输资料](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")，同步通讯录和日历则要用到[iSync](https://zh.wikipedia.org/wiki/iSync "wikilink")。有一些诺基亚手机能很好的支持iSync，而有一些需要用到诺基亚的iSync插件\[18\]。
 
@@ -63,32 +62,27 @@ Mac的用户需要通过[蓝牙连接来传输资料](https://zh.wikipedia.org/w
 
 ## 外部链接
 
-  - [Nokia Eseries (Product
-    Portal)](https://web.archive.org/web/20080614155537/http://www.nokiaforbusiness.com/nfb/find_a_product/browse_mobile_devices.html)
+  - [Nokia Eseries (Product Portal)](https://web.archive.org/web/20080614155537/http://www.nokiaforbusiness.com/nfb/find_a_product/browse_mobile_devices.html)
 
 ## 脚注
 
-[sv:Lista över
-Nokia-smartphones\#Eserien](https://zh.wikipedia.org/wiki/sv:Lista_över_Nokia-smartphones#Eserien "wikilink")
+[sv:Lista över Nokia-smartphones\#Eserien](https://zh.wikipedia.org/wiki/sv:Lista_över_Nokia-smartphones#Eserien "wikilink")
 
 [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
 
 1.
 2.
 3.
-4.  [Nokia E50 product
-    page](http://www.Europe.Nokia.com/无kia/0,,91889,00.html)
+4.  [Nokia E50 product page](http://www.Europe.Nokia.com/无kia/0,,91889,00.html)
 5.  [Nokia E51 product page](http://Europe.Nokia.com/A4546299)
 6.  [1](http://europe.nokia.com/find-products/devices/nokia-e52)
-7.  [Nokia E60 product
-    page](http://www.Europe.Nokia.com/Nokia/0,,81338,00.html)
+7.  [Nokia E60 product page](http://www.Europe.Nokia.com/Nokia/0,,81338,00.html)
 8.  [Nokia E61product page](http://Europe.Nokia.com/A4142101)
 9.  [Nokia E61i product page](http://Europe.Nokia.com/A4344018)
 10. [Nokia E62 product page](http://usa.Nokia.com/A4197015)
 11. [Nokia E65 product page](http://Europe.Nokia.com/A4344227)
 12. [E66 product page](http://Europe.Nokia.com/A41148254Nokia)
-13. [Nokia E70 product
-    page](http://www.Europe.Nokia.com/Nokia/0,,81003,00.html)
+13. [Nokia E70 product page](http://www.Europe.Nokia.com/Nokia/0,,81003,00.html)
 14. [Nokia E70-2 product page](http://www.Nokiausa.com/A4409015)
 15. [Nokia E71 product page](http://Europe.Nokia.com/A41146122)
 16. [Nokia E75 product page](http://Europe.Nokia.com/e75#/main/l和ing)

@@ -1,5 +1,4 @@
-**P血型系统**（英文：**P Antigen
-System**）是[人类血型系统](../Page/人类血型系统.md "wikilink")的一种，其基因座位于[22号染色体上](https://zh.wikipedia.org/wiki/22號染色體_\(人類\) "wikilink")。其抗原以[糖脂](../Page/糖脂.md "wikilink")形式存在，包括P<sub>1</sub>、P<sub>2</sub>、P<sup>k</sup><sub>1</sub>、P<sup>k</sup><sub>2</sub>以及p五种表型。\[1\]
+**P血型系统**（英文：**P Antigen System**）是[人类血型系统](../Page/人类血型系统.md "wikilink")的一种，其基因座位于[22号染色体上](https://zh.wikipedia.org/wiki/22號染色體_\(人類\) "wikilink")。其抗原以[糖脂](../Page/糖脂.md "wikilink")形式存在，包括P<sub>1</sub>、P<sub>2</sub>、P<sup>k</sup><sub>1</sub>、P<sup>k</sup><sub>2</sub>以及p五种表型。\[1\]
 
 ## 发现历程
 
@@ -11,9 +10,7 @@ System**）是[人类血型系统](../Page/人类血型系统.md "wikilink")的�
 
   - [血型](https://zh.wikipedia.org/wiki/血型 "wikilink")
 
-[Category:血液](https://zh.wikipedia.org/wiki/Category:血液 "wikilink")
-[Category:血液学](https://zh.wikipedia.org/wiki/Category:血液学 "wikilink")
-[Category:人类血型系统](https://zh.wikipedia.org/wiki/Category:人类血型系统 "wikilink")
+[Category:血液](https://zh.wikipedia.org/wiki/Category:血液 "wikilink") [Category:血液学](https://zh.wikipedia.org/wiki/Category:血液学 "wikilink") [Category:人类血型系统](https://zh.wikipedia.org/wiki/Category:人类血型系统 "wikilink")
 
 1.  杜若甫 (2004), 中国人群体遗传学，北京: 科学出版社, p.100-114
 2.

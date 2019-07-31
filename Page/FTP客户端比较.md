@@ -972,5 +972,4 @@
   - [FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")
   - [SSH客户端比较](../Page/SSH客户端比较.md "wikilink")
 
-[Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
-[Category:FTP客户端](https://zh.wikipedia.org/wiki/Category:FTP客户端 "wikilink")
+[Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink") [Category:FTP客户端](https://zh.wikipedia.org/wiki/Category:FTP客户端 "wikilink")

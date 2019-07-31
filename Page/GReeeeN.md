@@ -1,17 +1,16 @@
-**GReeeeN**是[日本的](../Page/日本.md "wikilink")4人組創作樂團。
+**GReeeeN**是[日本](../Page/日本.md "wikilink")的4人組創作樂團。
 
 ## 「GReeeeN」的由來
 
-「GReeeeN」 是由「Green Boy」這個字衍生出來的。「Green
-Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3月8日BLOG中的解釋，GReeeeN的意思是「尚未完成所以會繼續下去，蘊藏有未知的可能性」。
+「GReeeeN」 是由「Green Boy」這個字衍生出來的。「Green Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3月8日BLOG中的解釋，GReeeeN的意思是「尚未完成所以會繼續下去，蘊藏有未知的可能性」。
 
 「GReeeeN」中的4個小寫的「e」則代表成員人數。而且成員都是牙醫學系出身，這亦代表笑的時候能夠看見牙齒，表達出成員「希望能傳達微笑（grin）」的意念。
 
 ## 成員
 
   - **HIDE**（1980年4月3日－）[京都府出身](https://zh.wikipedia.org/wiki/京都府 "wikilink")，負責高音部分
-  - **navi**（1980年4月30日－）[宮城縣出身](../Page/宮城縣.md "wikilink")，負責高音部分
-  - **92**（1982年3月21日－）[沖繩縣出身](../Page/沖繩縣.md "wikilink")，負責低音部分
+  - **navi**（1980年4月30日－）[宮城縣](../Page/宮城縣.md "wikilink")出身，負責高音部分
+  - **92**（1982年3月21日－）[沖繩縣](../Page/沖繩縣.md "wikilink")出身，負責低音部分
   - **SOH**（1981年2月2日－）[佐賀縣出身](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")，負責低音部分
 
 全部團員畢業於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[奥羽大學的](https://zh.wikipedia.org/wiki/奥羽大學 "wikilink")[牙醫學系](https://zh.wikipedia.org/wiki/牙醫 "wikilink")。而且皆已通過國家考試並取得執照成為執業牙醫。
@@ -228,7 +227,7 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 </tbody>
 </table>
 
-  - 2015年4月1日開始，為配合[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[郡山市的宣傳活動及促進地域活化](../Page/郡山市.md "wikilink")，GReeeeN兩首08年度的單曲[キセキ和](../Page/奇蹟_\(GReeeeN單曲\).md "wikilink")[扉分別設定為](https://zh.wikipedia.org/wiki/扉_\(GReeeeN單曲\) "wikilink")[JR東日本](../Page/東日本旅客鐵道.md "wikilink")[郡山站](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")[新幹線和](../Page/東北新幹線.md "wikilink")[在來線的](../Page/東北本線.md "wikilink")[發車音樂](../Page/發車音樂.md "wikilink")，取代原有的首都圈型音樂（五感工房製作的JR-SH-2）。
+  - 2015年4月1日開始，為配合[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[郡山市](../Page/郡山市.md "wikilink")的宣傳活動及促進地域活化，GReeeeN兩首08年度的單曲[キセキ和](../Page/奇蹟_\(GReeeeN單曲\).md "wikilink")[扉分別設定為](https://zh.wikipedia.org/wiki/扉_\(GReeeeN單曲\) "wikilink")[JR東日本](../Page/東日本旅客鐵道.md "wikilink")[郡山站](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")[新幹線和](../Page/東北新幹線.md "wikilink")[在來線的](../Page/東北本線.md "wikilink")[發車音樂](../Page/發車音樂.md "wikilink")，取代原有的首都圈型音樂（五感工房製作的JR-SH-2）。
 
 ### 原創專輯
 
@@ -417,30 +416,21 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
   - [whiteeeen](https://zh.wikipedia.org/wiki/whiteeeen "wikilink")《ポケット》（2015年8月5日）
   - [whiteeeen](https://zh.wikipedia.org/wiki/whiteeeen "wikilink")《ゼロ恋》（2016年12月14日）
   - [NEWS](../Page/NEWS.md "wikilink")《U R not alone》（2017年3月22日）
-  - [whiteeeen](https://zh.wikipedia.org/wiki/whiteeeen "wikilink")《テトテ
-    with GReeeeN》（2017年5月17日）
+  - [whiteeeen](https://zh.wikipedia.org/wiki/whiteeeen "wikilink")《テトテ with GReeeeN》（2017年5月17日）
   - [冰川清志](../Page/冰川清志.md "wikilink")(氷川きよし)《碧し》（2017年11月21日）
   - [柚子](../Page/柚子_\(組合\).md "wikilink")(ゆず)《イコール》（2018年4月4日）
-  - [MISIA](../Page/MISIA.md "wikilink")《アイノカタチ
-    feat.HIDE(GReeeeN)》（2018年8月22日）
+  - [MISIA](../Page/MISIA.md "wikilink")《アイノカタチ feat.HIDE(GReeeeN)》（2018年8月22日）
   - [みゆはん](https://zh.wikipedia.org/wiki/みゆはん "wikilink")《ストラト》（2019年3月20日）
   - [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")(ももいろクローバーZ)《背番号》
 
 ## 電影
 
-GReeeeN的出道故事也被改編為電影《（中国大陆：奇迹，那天如此重要。
-台灣：唱吧！奇蹟！）》，於2017年1月28日公映，紀念出道十周年。由[松坂桃李和](../Page/松坂桃李.md "wikilink")[菅田將暉主演](../Page/菅田將暉.md "wikilink")。
+GReeeeN的出道故事也被改編為電影《（中国大陆：奇迹，那天如此重要。 台灣：唱吧！奇蹟！）》，於2017年1月28日公映，紀念出道十周年。由[松坂桃李](../Page/松坂桃李.md "wikilink")和[菅田將暉](../Page/菅田將暉.md "wikilink")主演。
 
 ## 外部連結
 
   - [官方網站](http://greeeen.co.jp/)
   - [UNIVERSAL MUSIC](http://www.universal-music.co.jp/greeeen/)
-  - [UNDER HORSE
-    RECORDS](https://web.archive.org/web/20120724123614/http://www.under-horse.com/)
+  - [UNDER HORSE RECORDS](https://web.archive.org/web/20120724123614/http://www.under-horse.com/)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:日本唱片大獎專輯大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎專輯大獎獲獎者 "wikilink")
-[Category:Japan_Hot_100年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍獲得者 "wikilink")
-[Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本唱片大獎專輯大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎專輯大獎獲獎者 "wikilink") [Category:Japan_Hot_100年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍獲得者 "wikilink") [Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")

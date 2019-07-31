@@ -1,12 +1,10 @@
-《**怪
-～ayakashi～**》（）為[日本](../Page/日本.md "wikilink")的[恐怖](https://zh.wikipedia.org/wiki/恐怖 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[富士電視台](../Page/富士電視台.md "wikilink")系列「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」的第三部作品。從2006年1月12日到3月23日期間播放，全11話。
+《**怪 ～ayakashi～**》（）為[日本](../Page/日本.md "wikilink")的[恐怖](https://zh.wikipedia.org/wiki/恐怖 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[富士電視台](../Page/富士電視台.md "wikilink")系列「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」的第三部作品。從2006年1月12日到3月23日期間播放，全11話。
 
 本作為noitaminA改變以《[蜂蜜幸運草](https://zh.wikipedia.org/wiki/蜂蜜幸運草 "wikilink")》等少女漫畫為原作的動畫路線、將日本從古至今以來的三篇鬼故事「[四谷怪談](../Page/四谷怪談.md "wikilink")」、「[天守物語](https://zh.wikipedia.org/wiki/天守物語 "wikilink")」、「[化貓](https://zh.wikipedia.org/wiki/化貓 "wikilink")」做為基礎、加入創作者們對原作的獨特解釋和以現在的觀點來創作新的故事，來替故事加入更多的味道、讓讀過原作的人也能以新鮮的感覺觀賞這部強烈前衛風格的異色之作。
 
 這三篇故事、以短篇形式來製作、所以作品間的故事並無相關聯、製作人員也都各自進行自己的故事。所以各個故事都有自己的風格。畫風也都各有差別。
 
-「ayakashi」的讀音方面與[MBS所播的](../Page/每日放送.md "wikilink")《[天保異聞
-妖奇士](../Page/天保異聞_妖奇士.md "wikilink")》相當相似。
+「ayakashi」的讀音方面與[MBS所播的](../Page/每日放送.md "wikilink")《[天保異聞 妖奇士](../Page/天保異聞_妖奇士.md "wikilink")》相當相似。
 
 ## 故事簡介
 
@@ -194,12 +192,7 @@
   - 廣告：正岡高子（富士電視台）
   - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
   - 企畫協力：LATERNA
-  - 制作：[怪
-    〜ayakashi〜製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（富士電視、東映動畫、Asmik
-    Ace
-    Entertainment、[日本新力音樂](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")、SKY
-    Perfect Well
-    Think、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
+  - 制作：[怪 〜ayakashi〜製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（富士電視、東映動畫、Asmik Ace Entertainment、[日本新力音樂](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")、SKY Perfect Well Think、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
 
 ### 四谷怪談
 
@@ -407,10 +400,4 @@
 
   - [怪 ～ayakashi～（東映官方網站）](http://www.toei-anim.co.jp/tv/ayakashi/)
 
-[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:恐怖動畫](https://zh.wikipedia.org/wiki/Category:恐怖動畫 "wikilink")
-[Category:妖怪題材作品](https://zh.wikipedia.org/wiki/Category:妖怪題材作品 "wikilink")
-[Category:怪谈题材作品](https://zh.wikipedia.org/wiki/Category:怪谈题材作品 "wikilink")
-[Category:化貓題材作品](https://zh.wikipedia.org/wiki/Category:化貓題材作品 "wikilink")
-[Category:坂元裕二劇本作品](https://zh.wikipedia.org/wiki/Category:坂元裕二劇本作品 "wikilink")
+[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:恐怖動畫](https://zh.wikipedia.org/wiki/Category:恐怖動畫 "wikilink") [Category:妖怪題材作品](https://zh.wikipedia.org/wiki/Category:妖怪題材作品 "wikilink") [Category:怪谈题材作品](https://zh.wikipedia.org/wiki/Category:怪谈题材作品 "wikilink") [Category:化貓題材作品](https://zh.wikipedia.org/wiki/Category:化貓題材作品 "wikilink") [Category:坂元裕二劇本作品](https://zh.wikipedia.org/wiki/Category:坂元裕二劇本作品 "wikilink")

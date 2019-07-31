@@ -18,8 +18,7 @@
 
 ## Repackage版本
 
-于2007年6月28日，**高潤荷**再次推出新专辑叫"Younha Vol.1 Repackage Album - The Perfect
-Day to Say I Love You"。
+于2007年6月28日，**高潤荷**再次推出新专辑叫"Younha Vol.1 Repackage Album - The Perfect Day to Say I Love You"。
 
 ### Repackage版本歌曲列表
 
@@ -38,7 +37,4 @@ Day to Say I Love You"。
 13. 비밀번호 486（演奏版）
 14. 연애조건（混合版）（演奏版）
 
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:高潤荷音樂專輯](https://zh.wikipedia.org/wiki/Category:高潤荷音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:高潤荷音樂專輯](https://zh.wikipedia.org/wiki/Category:高潤荷音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

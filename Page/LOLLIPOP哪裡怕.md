@@ -1,15 +1,8 @@
-《**LOLLIPOP
-哪裡怕**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Channel
-\[V](../Page/Channel_V.md "wikilink")\]
-娛樂台所播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，於2007年10月27日開始播映，晚上9點播出。節目由[Lollipop
-F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM的成員](../Page/JPM.md "wikilink")[小傑](https://zh.wikipedia.org/wiki/小傑 "wikilink")、[王子主持](https://zh.wikipedia.org/wiki/王子 "wikilink")，是以協助青少年解決困難為目標。於2008年4月19日第二十四集之節目後宣佈，「哪裡怕戰士」已收集好燃料返回「哪裡怕星球」，稍後會再返回地球，意指《LOLLIPOP
-哪裡怕》會停播一段時間，稍後會重新推出；但[Lollipop
-F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM成員曾在](../Page/JPM.md "wikilink")[模范棒棒堂上提及過](../Page/模范棒棒堂.md "wikilink")，《**[哪裡5打抗](../Page/哪裡5打抗.md "wikilink")**》其實是本節目的延續。
+《**LOLLIPOP 哪裡怕**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Channel \[V](../Page/Channel_V.md "wikilink")\] 娛樂台所播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，於2007年10月27日開始播映，晚上9點播出。節目由[Lollipop F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM](../Page/JPM.md "wikilink")的成員[小傑](https://zh.wikipedia.org/wiki/小傑 "wikilink")、[王子主持](https://zh.wikipedia.org/wiki/王子 "wikilink")，是以協助青少年解決困難為目標。於2008年4月19日第二十四集之節目後宣佈，「哪裡怕戰士」已收集好燃料返回「哪裡怕星球」，稍後會再返回地球，意指《LOLLIPOP 哪裡怕》會停播一段時間，稍後會重新推出；但[Lollipop F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM](../Page/JPM.md "wikilink")成員曾在[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")上提及過，《**[哪裡5打抗](../Page/哪裡5打抗.md "wikilink")**》其實是本節目的延續。
 
 ## 節目性質
 
-《LOLLIPOP
-哪裡怕》由6位「哪裡怕戰隊」主持，團長為[敖犬](https://zh.wikipedia.org/wiki/莊濠全 "wikilink")。本節目為真人秀，模擬外星戰士意外墜落在台灣，為了尋找星空傳煤和瞭解地球人，6位戰士先從與自己年紀相仿的學生接觸，開始和學生一起體驗學校生活，並意外發現地球上有許讓人驚奇的新奇事物，還有年輕學子賦予的任務，於是戰士們決定一一挑戰，並將地球的新鮮事通通挖出來。
+《LOLLIPOP 哪裡怕》由6位「哪裡怕戰隊」主持，團長為[敖犬](https://zh.wikipedia.org/wiki/莊濠全 "wikilink")。本節目為真人秀，模擬外星戰士意外墜落在台灣，為了尋找星空傳煤和瞭解地球人，6位戰士先從與自己年紀相仿的學生接觸，開始和學生一起體驗學校生活，並意外發現地球上有許讓人驚奇的新奇事物，還有年輕學子賦予的任務，於是戰士們決定一一挑戰，並將地球的新鮮事通通挖出來。
 
 ## 角色介紹
 
@@ -72,7 +65,7 @@ F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM成員曾在](../P
 **\[V\]娛樂（台灣）**
 
 首播：
-\*[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡同步](../Page/新加坡.md "wikilink")
+\*[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")同步
 
   -   - 2007年10月27日起：每週六晚上9時（第一季）
       - 2008年6月28日起：每週六晚上10時（重播第一季）
@@ -135,7 +128,7 @@ F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM成員曾在](../P
 <td><p>第5話</p></td>
 <td><p>2007年11月24日</p></td>
 <td><p>掃垃圾也能掃出名堂?!</p></td>
-<td><p><a href="../Page/模范棒棒堂.md" title="wikilink">模范棒棒堂前成員</a><a href="https://zh.wikipedia.org/wiki/張嚴之" title="wikilink">小T和個案主角就讀同一所高中</a>（南強工商）<br />
+<td><p><a href="../Page/模范棒棒堂.md" title="wikilink">模范棒棒堂</a>前成員<a href="https://zh.wikipedia.org/wiki/張嚴之" title="wikilink">小T和個案主角就讀同一所高中</a>（南強工商）<br />
 戰士們在執行委託前前往探望</p></td>
 </tr>
 <tr class="odd">
@@ -267,7 +260,4 @@ F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM成員曾在](../P
 
   - [Channel \[V](../Page/Channel_V.md "wikilink")\]
 
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
-[Category:棒棒堂](https://zh.wikipedia.org/wiki/Category:棒棒堂 "wikilink")
+[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:棒棒堂](https://zh.wikipedia.org/wiki/Category:棒棒堂 "wikilink")

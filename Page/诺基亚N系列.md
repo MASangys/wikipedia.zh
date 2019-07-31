@@ -2,29 +2,17 @@
 
 ## 历史
 
-诺基亚于2005年4月27日在[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")举行的手机制造商[记者招待会上宣布了一个新的多媒体设备品牌](https://zh.wikipedia.org/wiki/记者招待会 "wikilink")。\[1\]最初于记者会上发布的N系列手机是[N70](https://zh.wikipedia.org/wiki/诺基亚_N70 "wikilink")、[N90和](https://zh.wikipedia.org/wiki/诺基亚_N90 "wikilink")[N91](https://zh.wikipedia.org/wiki/诺基亚_N91 "wikilink")。2005年11月2日，诺基亚发布了[N71](https://zh.wikipedia.org/wiki/诺基亚_N71 "wikilink")、
-[N80和](https://zh.wikipedia.org/wiki/诺基亚_N80 "wikilink")[N92](https://zh.wikipedia.org/wiki/诺基亚_N92 "wikilink")。2006年4月25日，诺基亚发布了[N72](https://zh.wikipedia.org/wiki/诺基亚_N72 "wikilink")、[N73和](https://zh.wikipedia.org/wiki/诺基亚_N73 "wikilink")[N93](https://zh.wikipedia.org/wiki/诺基亚_N93 "wikilink")。2006年9月26日诺基亚发布[N75和](https://zh.wikipedia.org/wiki/诺基亚_N75 "wikilink")[N95](https://zh.wikipedia.org/wiki/诺基亚_N95 "wikilink")。2007年1月8日，诺基亚发布了[N76](https://zh.wikipedia.org/wiki/诺基亚_N76 "wikilink")、[N77和](https://zh.wikipedia.org/wiki/诺基亚_N77 "wikilink")[N93i](https://zh.wikipedia.org/wiki/诺基亚_N93i "wikilink")。2007年8月29日，诺基亚发布了[N95
-8GB](https://zh.wikipedia.org/wiki/诺基亚_N95_8GB "wikilink")、[N81](https://zh.wikipedia.org/wiki/诺基亚_N81 "wikilink")、[N81
-8GB](https://zh.wikipedia.org/wiki/诺基亚_N81_8GB "wikilink")，并于同年11月14日发布了[N82](https://zh.wikipedia.org/wiki/诺基亚_N82 "wikilink")，它是第一部有[氙气闪光灯的诺基亚手机](https://zh.wikipedia.org/wiki/氙气闪光灯 "wikilink")。2008年巴塞罗纳的全球移动通信协会上，诺基亚发布了[N96和](https://zh.wikipedia.org/wiki/诺基亚_N96 "wikilink")[N78](https://zh.wikipedia.org/wiki/诺基亚_N78 "wikilink")。同年8月末，诺基亚又发布了两款新N系列手机[N79和](https://zh.wikipedia.org/wiki/诺基亚_N79 "wikilink")[N85](https://zh.wikipedia.org/wiki/诺基亚_N85 "wikilink")。12月2日，诺基亚发布了[N97](https://zh.wikipedia.org/wiki/诺基亚_97 "wikilink")。\[2\]\[3\]2009年2月17日，诺基亚发布了N86
-8MP，它是诺基亚公司第一部有800万像素的手机。
+诺基亚于2005年4月27日在[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")举行的手机制造商[记者招待会上宣布了一个新的多媒体设备品牌](https://zh.wikipedia.org/wiki/记者招待会 "wikilink")。\[1\]最初于记者会上发布的N系列手机是[N70](https://zh.wikipedia.org/wiki/诺基亚_N70 "wikilink")、[N90和](https://zh.wikipedia.org/wiki/诺基亚_N90 "wikilink")[N91](https://zh.wikipedia.org/wiki/诺基亚_N91 "wikilink")。2005年11月2日，诺基亚发布了[N71](https://zh.wikipedia.org/wiki/诺基亚_N71 "wikilink")、 [N80和](https://zh.wikipedia.org/wiki/诺基亚_N80 "wikilink")[N92](https://zh.wikipedia.org/wiki/诺基亚_N92 "wikilink")。2006年4月25日，诺基亚发布了[N72](https://zh.wikipedia.org/wiki/诺基亚_N72 "wikilink")、[N73和](https://zh.wikipedia.org/wiki/诺基亚_N73 "wikilink")[N93](https://zh.wikipedia.org/wiki/诺基亚_N93 "wikilink")。2006年9月26日诺基亚发布[N75和](https://zh.wikipedia.org/wiki/诺基亚_N75 "wikilink")[N95](https://zh.wikipedia.org/wiki/诺基亚_N95 "wikilink")。2007年1月8日，诺基亚发布了[N76](https://zh.wikipedia.org/wiki/诺基亚_N76 "wikilink")、[N77和](https://zh.wikipedia.org/wiki/诺基亚_N77 "wikilink")[N93i](https://zh.wikipedia.org/wiki/诺基亚_N93i "wikilink")。2007年8月29日，诺基亚发布了[N95 8GB](https://zh.wikipedia.org/wiki/诺基亚_N95_8GB "wikilink")、[N81](https://zh.wikipedia.org/wiki/诺基亚_N81 "wikilink")、[N81 8GB](https://zh.wikipedia.org/wiki/诺基亚_N81_8GB "wikilink")，并于同年11月14日发布了[N82](https://zh.wikipedia.org/wiki/诺基亚_N82 "wikilink")，它是第一部有[氙气闪光灯的诺基亚手机](https://zh.wikipedia.org/wiki/氙气闪光灯 "wikilink")。2008年巴塞罗纳的全球移动通信协会上，诺基亚发布了[N96和](https://zh.wikipedia.org/wiki/诺基亚_N96 "wikilink")[N78](https://zh.wikipedia.org/wiki/诺基亚_N78 "wikilink")。同年8月末，诺基亚又发布了两款新N系列手机[N79和](https://zh.wikipedia.org/wiki/诺基亚_N79 "wikilink")[N85](https://zh.wikipedia.org/wiki/诺基亚_N85 "wikilink")。12月2日，诺基亚发布了[N97](https://zh.wikipedia.org/wiki/诺基亚_97 "wikilink")。\[2\]\[3\]2009年2月17日，诺基亚发布了N86 8MP，它是诺基亚公司第一部有800万像素的手机。
 
 ## 特征
 
-N系列被規劃為諾基亞公司中四大營業單位 (Business Units) 的"多媒體事務部"中，而諾基亞也使用See New、Feel
-New、Hear New、Watch New、Play New與Do
-New等總共6個New有關的辭彙，期待N系列能從視覺、聽覺、觸覺等元素帶給使用者全新的使用經驗。
-诺基亚N系列的目标人群是那些想把尽可能多的功能装入一部设备的人。N系列通常有比较好的摄像头（其中有很大一部分使用了[卡尔蔡司光学元件](../Page/蔡司公司.md "wikilink")）就是一个这样的例子。
-除了N81/N818G，從N95開始，之後的N系列產品都有內建[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")、WLAN等功能。另外，除了N72之外，所有的N系列產品皆內建3G(或者更好的)通訊。
+N系列被規劃為諾基亞公司中四大營業單位 (Business Units) 的"多媒體事務部"中，而諾基亞也使用See New、Feel New、Hear New、Watch New、Play New與Do New等總共6個New有關的辭彙，期待N系列能從視覺、聽覺、觸覺等元素帶給使用者全新的使用經驗。 诺基亚N系列的目标人群是那些想把尽可能多的功能装入一部设备的人。N系列通常有比较好的摄像头（其中有很大一部分使用了[卡尔蔡司光学元件](../Page/蔡司公司.md "wikilink")）就是一个这样的例子。 除了N81/N818G，從N95開始，之後的N系列產品都有內建[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")、WLAN等功能。另外，除了N72之外，所有的N系列產品皆內建3G(或者更好的)通訊。
 
 ## 操作系统
 
-N系列的第一部手机N90，使用旧款的[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
-8.1 OS，N70也使用这个系统。后来诺基亚推出的N系列手机都转而使用SymbianOS
-9(除了基于N70的N72)。新的N系列手机将使用加入了更多新特性的SymbianOS
-9系统。
+N系列的第一部手机N90，使用旧款的[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink") 8.1 OS，N70也使用这个系统。后来诺基亚推出的N系列手机都转而使用SymbianOS 9(除了基于N70的N72)。新的N系列手机将使用加入了更多新特性的SymbianOS 9系统。
 
-[N800](https://zh.wikipedia.org/wiki/诺基亚_N800 "wikilink")[N810以及](https://zh.wikipedia.org/wiki/诺基亚_N810 "wikilink")[诺基亚N900](../Page/诺基亚N900.md "wikilink")网络终端是唯一几部不用Symbian
-OS系统的N系列手机。它们使用基于[Linux](../Page/Linux.md "wikilink")的[Maemo](../Page/Maemo.md "wikilink")操作系统。\[4\]
+[N800](https://zh.wikipedia.org/wiki/诺基亚_N800 "wikilink")[N810以及](https://zh.wikipedia.org/wiki/诺基亚_N810 "wikilink")[诺基亚N900](../Page/诺基亚N900.md "wikilink")网络终端是唯一几部不用Symbian OS系统的N系列手机。它们使用基于[Linux](../Page/Linux.md "wikilink")的[Maemo](../Page/Maemo.md "wikilink")操作系统。\[4\]
 
 ## N系列产品列表
 
@@ -68,8 +56,7 @@ OS系统的N系列手机。它们使用基于[Linux](../Page/Linux.md "wikilink"
 
 ## 外部链接
 
-  - [Nokia
-    Nseries](https://web.archive.org/web/20080517082145/http://nseries.com/)
+  - [Nokia Nseries](https://web.archive.org/web/20080517082145/http://nseries.com/)
   - [Nokia Royal Artist Club](http://www.royalartistclub.com)
 
 ## 参见條目
@@ -79,67 +66,37 @@ OS系统的N系列手机。它们使用基于[Linux](../Page/Linux.md "wikilink"
 
 [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
 
-1.  [Nokia launches Nokia Nseries branded multimedia device
-    range](http://press.nokia.com/PR/200504/991467_5.html)
+1.  [Nokia launches Nokia Nseries branded multimedia device range](http://press.nokia.com/PR/200504/991467_5.html)
 2.  <http://www.nseries.com/index.html#l=products,n79>
 3.  <http://www.nseries.com/index.html#l=products,n85>
 4.  [maemo.org](http://maemo.org/)
-5.  [Nokia N70 product
-    page](http://www.nseries.com/index.html#l=products,n70)
-6.  [Nokia N70 Music 版product
-    page](http://www.nseries.com/index.html#l=products,n70_music)
-7.  [Nokia N71 product
-    page](http://www.nseries.com/index.html#l=products,n71)
-8.  [Nokia N72 product
-    page](http://www.nseries.com/index.html#l=products,n72)
-9.  [Nokia N73 product
-    page](http://www.nseries.com/index.html#l=products,n73)
-10. [Nokia N73 Music 版product
-    page](http://www.nseries.com/index.html#l=products,n73_music)
-11. [Nokia N75 product
-    page](http://www.nseries.com/index.html#l=products,n75)
-12. [Nokia N76 product
-    page](http://www.nseries.com/index.html#l=products,n76)
-13. [Nokia N77 product
-    page](http://www.nseries.com/index.html#l=products,n77)
-14. [Nokia N78 product
-    page](http://www.nseries.com/index.html#l=products,n78)
-15. [Nokia N79 product
-    page](http://www.nseries.com/index.html#l=products,n79)
-16. [Nokia N80 product
-    page](http://www.nseries.com/index.html#l=products,n80)
-17. [Nokia N81 product
-    page](http://www.nseries.com/index.html#l=products,n81_sd)
-18. [Nokia N81 8GB product
-    page](http://www.nseries.com/index.html#l=products,n81_8gb)
-19. [Nokia N82 product
-    page](http://www.nseries.com/index.html#l=products,n82)
-20. [Nokia N85 product
-    page](http://www.nseries.com/index.html#l=products,n85)
-21. [Nokia N90 product
-    page](http://www.nseries.com/index.html#l=products,n90)
-22. [Nokia N91 product
-    page](http://www.nseries.com/index.html#l=products,n91)
-23. [Nokia N91 8GB product
-    page](http://www.nseries.com/index.html#l=products,n91_8gb)
-24. [Nokia N92 product
-    page](http://www.nseries.com/index.html#l=products,n92)
-25. [Nokia N93 product
-    page](http://www.nseries.com/index.html#l=products,n93)
-26. [Nokia N93i product
-    page](http://www.nseries.com/index.html#l=products,n93i)
-27. [Nokia N95 product
-    page](http://www.nseries.com/index.html#l=products,n95)
-28. [Nokia N95 8GB product
-    page](http://www.nseries.com/index.html#l=products,n95_8gb)
-29. [Nokia N96 product
-    page](http://www.nseries.com/index.html#1=products,n96)
-30. [Nokia N97 product
-    page](http://www.nseries.com/index.html#1=products,n97)
-31. [Nokia N800 product
-    page](http://www.nseries.com/index.html#l=products,n800)
-32. [Nokia N810 product
-    page](http://www.nseries.com/index.html#l=products,n810)
-33. [Nokia N810 WiMAX product
-    page](http://www.nseries.com/index.html#l=products,n810_wme)
+5.  [Nokia N70 product page](http://www.nseries.com/index.html#l=products,n70)
+6.  [Nokia N70 Music 版product page](http://www.nseries.com/index.html#l=products,n70_music)
+7.  [Nokia N71 product page](http://www.nseries.com/index.html#l=products,n71)
+8.  [Nokia N72 product page](http://www.nseries.com/index.html#l=products,n72)
+9.  [Nokia N73 product page](http://www.nseries.com/index.html#l=products,n73)
+10. [Nokia N73 Music 版product page](http://www.nseries.com/index.html#l=products,n73_music)
+11. [Nokia N75 product page](http://www.nseries.com/index.html#l=products,n75)
+12. [Nokia N76 product page](http://www.nseries.com/index.html#l=products,n76)
+13. [Nokia N77 product page](http://www.nseries.com/index.html#l=products,n77)
+14. [Nokia N78 product page](http://www.nseries.com/index.html#l=products,n78)
+15. [Nokia N79 product page](http://www.nseries.com/index.html#l=products,n79)
+16. [Nokia N80 product page](http://www.nseries.com/index.html#l=products,n80)
+17. [Nokia N81 product page](http://www.nseries.com/index.html#l=products,n81_sd)
+18. [Nokia N81 8GB product page](http://www.nseries.com/index.html#l=products,n81_8gb)
+19. [Nokia N82 product page](http://www.nseries.com/index.html#l=products,n82)
+20. [Nokia N85 product page](http://www.nseries.com/index.html#l=products,n85)
+21. [Nokia N90 product page](http://www.nseries.com/index.html#l=products,n90)
+22. [Nokia N91 product page](http://www.nseries.com/index.html#l=products,n91)
+23. [Nokia N91 8GB product page](http://www.nseries.com/index.html#l=products,n91_8gb)
+24. [Nokia N92 product page](http://www.nseries.com/index.html#l=products,n92)
+25. [Nokia N93 product page](http://www.nseries.com/index.html#l=products,n93)
+26. [Nokia N93i product page](http://www.nseries.com/index.html#l=products,n93i)
+27. [Nokia N95 product page](http://www.nseries.com/index.html#l=products,n95)
+28. [Nokia N95 8GB product page](http://www.nseries.com/index.html#l=products,n95_8gb)
+29. [Nokia N96 product page](http://www.nseries.com/index.html#1=products,n96)
+30. [Nokia N97 product page](http://www.nseries.com/index.html#1=products,n97)
+31. [Nokia N800 product page](http://www.nseries.com/index.html#l=products,n800)
+32. [Nokia N810 product page](http://www.nseries.com/index.html#l=products,n810)
+33. [Nokia N810 WiMAX product page](http://www.nseries.com/index.html#l=products,n810_wme)
 34. [1](http://europe.nokia.com/find-products/devices/nokia-n900#/main/landing)

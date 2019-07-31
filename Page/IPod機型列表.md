@@ -602,12 +602,8 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 
 </div>
 
-[Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink")
-[Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
+[Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink") [Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
 
 1.
-2.  [Apple Inc.](https://zh.wikipedia.org/wiki/Apple_Inc. "wikilink"),
-    [Identifying iPod models](http://support.apple.com/kb/HT1353),
-    retrieved 31 October 2007.
-3.  [Mactracker](https://zh.wikipedia.org/wiki/Mactracker "wikilink"),
-    Apple Inc. model database, version as of 26 July 2007.
+2.  [Apple Inc.](https://zh.wikipedia.org/wiki/Apple_Inc. "wikilink"), [Identifying iPod models](http://support.apple.com/kb/HT1353), retrieved 31 October 2007.
+3.  [Mactracker](https://zh.wikipedia.org/wiki/Mactracker "wikilink"), Apple Inc. model database, version as of 26 July 2007.

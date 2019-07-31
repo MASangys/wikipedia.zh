@@ -1,15 +1,10 @@
-**株式會社Sigma
-Seven**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。常簡寫成「**Sigma
-7**」或「**Σ7**」。
+**株式會社Sigma Seven**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。常簡寫成「**Sigma 7**」或「**Σ7**」。
 
 ## 概要
 
-1988年3月3日\[2\]，由[東京俳優生活協同組合（簡稱俳協）所屬聲優](../Page/東京俳優生活協同組合.md "wikilink")[槙大輔與](../Page/槙大輔.md "wikilink")等人成立。Sigma
-Seven成立之後，主要業務是聲優經紀，之中以旁白解說員的比重逐漸較高，也有自由兼任播報員之經紀業務。
+1988年3月3日\[2\]，由[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")（簡稱俳協）所屬聲優[槙大輔](../Page/槙大輔.md "wikilink")與等人成立。Sigma Seven成立之後，主要業務是聲優經紀，之中以旁白解說員的比重逐漸較高，也有自由兼任播報員之經紀業務。
 
-Sigma Seven附有養成學校和子公司[Sigma Seven
-e](../Page/Sigma_Seven_e.md "wikilink")。而且，Sigma
-Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，與窪田等與槙大輔的老歸屬俳協關係密切。
+Sigma Seven附有養成學校和子公司[Sigma Seven e](../Page/Sigma_Seven_e.md "wikilink")。而且，Sigma Seven在[東映](../Page/東映.md "wikilink")特攝影集的相關業務上，與窪田等與槙大輔的老歸屬俳協關係密切。
 
 ### 公開徵選者
 
@@ -274,8 +269,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
   - （引退）
 
-  - （[自由職業](../Page/自由職業.md "wikilink")，[Max
-    Mix業務提攜](../Page/Max_Mix.md "wikilink")）
+  - （[自由職業](../Page/自由職業.md "wikilink")，[Max Mix業務提攜](../Page/Max_Mix.md "wikilink")）
 
   - （自由職業）
 
@@ -287,8 +281,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
   - （自由職業）
 
-  - （現所屬：[Crazy
-    Box](https://zh.wikipedia.org/wiki/I'm_Enterprise#Crazy_Box "wikilink")）
+  - （現所屬：[Crazy Box](https://zh.wikipedia.org/wiki/I'm_Enterprise#Crazy_Box "wikilink")）
 
   -
   - （現所屬：青二Production）
@@ -300,13 +293,11 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
   - [中井將貴](../Page/中井將貴.md "wikilink")（自由職業）
 
-  - [中原茂](../Page/中原茂.md "wikilink")（現所屬：[Local Dream
-    Production](http://localdream.jp/)）
+  - [中原茂](../Page/中原茂.md "wikilink")（現所屬：[Local Dream Production](http://localdream.jp/)）
 
   - [野島裕史](../Page/野島裕史.md "wikilink")（現所屬：青二Production）
 
-  - [寶龜克壽](../Page/寶龜克壽.md "wikilink")（現所屬：[Kenyu
-    Office](../Page/Kenyu_Office.md "wikilink")）
+  - [寶龜克壽](../Page/寶龜克壽.md "wikilink")（現所屬：[Kenyu Office](../Page/Kenyu_Office.md "wikilink")）
 
   - （現轉行從事[音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink")，負責海外紀錄片包含海外電影片日文字幕翻譯的工作）
 
@@ -322,8 +313,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
   -
   - 天野慶子（現所屬：[VORTEX](http://vortex-wine.com/)）
 
-  - [石原夏織](../Page/石原夏織.md "wikilink")（現所屬：[Style
-    Cube](../Page/Style_Cube.md "wikilink")）
+  - [石原夏織](../Page/石原夏織.md "wikilink")（現所屬：[Style Cube](../Page/Style_Cube.md "wikilink")）
 
   - （自由職業）
 
@@ -331,8 +321,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
   - （現所屬：[賢Production](../Page/賢Production.md "wikilink")）
 
-  - [小倉唯](../Page/小倉唯.md "wikilink")（現所屬：[CLARE
-    VOICE](../Page/CLARE_VOICE.md "wikilink")）
+  - [小倉唯](../Page/小倉唯.md "wikilink")（現所屬：[CLARE VOICE](../Page/CLARE_VOICE.md "wikilink")）
 
   - （現所屬：PRECIOUS SMILE代表）
 
@@ -369,10 +358,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
   - [株式會社Sigma Seven公式官網](http://sigma7.co.jp/)
 
-[Category:Sigma_Seven](https://zh.wikipedia.org/wiki/Category:Sigma_Seven "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:1988年日本建立](https://zh.wikipedia.org/wiki/Category:1988年日本建立 "wikilink")
+[Category:Sigma_Seven](https://zh.wikipedia.org/wiki/Category:Sigma_Seven "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:1988年日本建立](https://zh.wikipedia.org/wiki/Category:1988年日本建立 "wikilink")
 
 1.
 

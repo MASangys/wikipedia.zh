@@ -1,5 +1,4 @@
-本列表中的[UNIX](../Page/UNIX.md "wikilink")实用程序由IEEE Std
-1003.1-2008定义，是[单一UNIX规范](https://zh.wikipedia.org/wiki/单一UNIX规范 "wikilink")（SUS）的一部分。本列表中的实用程序可以在UNIX操作系统和绝大多数[类UNIX操作系统中找到](https://zh.wikipedia.org/wiki/类UNIX "wikilink")。
+本列表中的[UNIX](../Page/UNIX.md "wikilink")实用程序由IEEE Std 1003.1-2008定义，是[单一UNIX规范](https://zh.wikipedia.org/wiki/单一UNIX规范 "wikilink")（SUS）的一部分。本列表中的实用程序可以在UNIX操作系统和绝大多数[类UNIX操作系统中找到](https://zh.wikipedia.org/wiki/类UNIX "wikilink")。
 
 ## 列表
 
@@ -174,10 +173,8 @@ IEEE标准1003.1-2008实用程序
 
 ## 外部链接
 
-  - [IEEE Std 1003.1,2004
-    specifications](http://www.opengroup.org/onlinepubs/000095399/)
-  - [Rosetta Stone For \*Nix](http://bhami.com/rosetta.html) –
-    configurable list of equivalent programs for \*nix systems.
+  - [IEEE Std 1003.1,2004 specifications](http://www.opengroup.org/onlinepubs/000095399/)
+  - [Rosetta Stone For \*Nix](http://bhami.com/rosetta.html) – configurable list of equivalent programs for \*nix systems.
   - [Unix縮寫列表](http://www.roesler-ac.de/wolfram/acro/index.htm)
   - [Unix系统主页](http://www.unix.org/)
 
@@ -192,6 +189,4 @@ IEEE标准1003.1-2008实用程序
 
 {{-}}
 
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
-[Category:系統管理](https://zh.wikipedia.org/wiki/Category:系統管理 "wikilink")
-[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
+[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:系統管理](https://zh.wikipedia.org/wiki/Category:系統管理 "wikilink") [Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")

@@ -12,8 +12,7 @@
 
 这是一个[平衡反应](https://zh.wikipedia.org/wiki/平衡反应 "wikilink")，平衡气相成分与[温度](../Page/温度.md "wikilink")与[压强](../Page/压强.md "wikilink")有关。反应向右时放出热量并析出[煤煙](../Page/煤煙.md "wikilink")，称析碳反应或碳素沉积反应。生成的碳可能沉积在[催化剂](../Page/催化剂.md "wikilink")上使之失活，成为化学工业中不希望发生的副反应。
 
-在所有温度下，形成二氧化碳和碳得Boudouard反应都是[放热过程](https://zh.wikipedia.org/wiki/放热过程 "wikilink")。然而，随着温度的升高Boudouard反应的标准焓负数变少，\[2\]
-如侧图所示。
+在所有温度下，形成二氧化碳和碳得Boudouard反应都是[放热过程](https://zh.wikipedia.org/wiki/放热过程 "wikilink")。然而，随着温度的升高Boudouard反应的标准焓负数变少，\[2\] 如侧图所示。
 
 这个反应的命名是以法国化学家Octave Boudouard（1872年-1923年）在1905年研究这种平衡后而命名。\[3\]
 
@@ -25,13 +24,9 @@ Boudouard反应是[高炉内的一个重要过程](https://zh.wikipedia.org/wiki
 
 ## 参考资料
 
-[Category:化学工业](https://zh.wikipedia.org/wiki/Category:化学工业 "wikilink")
-[Category:碳](https://zh.wikipedia.org/wiki/Category:碳 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:化学工业](https://zh.wikipedia.org/wiki/Category:化学工业 "wikilink") [Category:碳](https://zh.wikipedia.org/wiki/Category:碳 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
-1.  [Bioenergylist.org - Boudouard Reaction
-    spreadsheet](http://gasifiers.bioenergylists.org/files/Boudouard%20Reaction.xls)
-
+1.  [Bioenergylist.org - Boudouard Reaction spreadsheet](http://gasifiers.bioenergylists.org/files/Boudouard%20Reaction.xls)
 
 2.  [Reaction Web](http://www.crct.polymtl.ca/reacweb.htm)
 

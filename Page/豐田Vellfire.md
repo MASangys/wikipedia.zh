@@ -12,9 +12,7 @@ Vellfire原本只在日本國內販售，而在其他同樣為左側通行道路
 
 ## 曾在動畫中出現
 
-在"[我的腦內戀礙選項](../Page/我的腦內戀礙選項.md "wikilink")"動畫版第九話中 ,
-道樂宴有職業賽車手的駕駛技術，人稱「山丘之杜拉罕」，開著一輛豐田Vellfire
-,連日產GT-R都能超過去
+在"[我的腦內戀礙選項](../Page/我的腦內戀礙選項.md "wikilink")"動畫版第九話中 , 道樂宴有職業賽車手的駕駛技術，人稱「山丘之杜拉罕」，開著一輛豐田Vellfire ,連日產GT-R都能超過去
 
 ## 外部連結
 
@@ -25,7 +23,4 @@ Vellfire原本只在日本國內販售，而在其他同樣為左側通行道路
 
 [en:Toyota_Vellfire](https://zh.wikipedia.org/wiki/en:Toyota_Vellfire "wikilink")
 
-[Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink")
-[Category:多功能休旅車](https://zh.wikipedia.org/wiki/Category:多功能休旅車 "wikilink")
-[Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink")
-[Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
+[Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink") [Category:多功能休旅車](https://zh.wikipedia.org/wiki/Category:多功能休旅車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")

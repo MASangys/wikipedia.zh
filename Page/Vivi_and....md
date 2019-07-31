@@ -1,6 +1,4 @@
-'''Vivi and...
-'''為藝人[徐若瑄](../Page/徐若瑄.md "wikilink")在[臺灣](../Page/臺灣.md "wikilink")發行的中文音樂專輯，也是她在艾迴合約中的最後一張專輯。專輯中邀來徐若瑄眾多的親朋好友參與音樂製作，包含[周杰倫](../Page/周杰倫.md "wikilink")、[王力宏](../Page/王力宏.md "wikilink")也參與此專輯。這張專輯當中有七首徐若瑄填詞，可說是屬於Vivi
-and…每一個傾聽她的人。
+'''Vivi and... '''為藝人[徐若瑄](../Page/徐若瑄.md "wikilink")在[臺灣](../Page/臺灣.md "wikilink")發行的中文音樂專輯，也是她在艾迴合約中的最後一張專輯。專輯中邀來徐若瑄眾多的親朋好友參與音樂製作，包含[周杰倫](../Page/周杰倫.md "wikilink")、[王力宏](../Page/王力宏.md "wikilink")也參與此專輯。這張專輯當中有七首徐若瑄填詞，可說是屬於Vivi and…每一個傾聽她的人。
 
 ## 曲目
 
@@ -21,6 +19,4 @@ and…每一個傾聽她的人。
 
   - [Hitoradio](https://web.archive.org/web/20070928044750/http://www.hitoradio.com/music/1a_2_1_1.php?ca_id=13&album_id=288)
 
-[Category:徐若瑄音樂專輯](https://zh.wikipedia.org/wiki/Category:徐若瑄音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:徐若瑄音樂專輯](https://zh.wikipedia.org/wiki/Category:徐若瑄音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")

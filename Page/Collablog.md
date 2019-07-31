@@ -1,25 +1,23 @@
-**Collablog**是一個[網際網路內容出版系統](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，也是一種[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")（CMS）、部落格程式，它是以[PHP語言撰寫](../Page/PHP.md "wikilink")，並搭配[MySQL資料庫使用](../Page/MySQL.md "wikilink")。
+**Collablog**是一個[網際網路內容出版系統](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，也是一種[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")（CMS）、部落格程式，它是以[PHP](../Page/PHP.md "wikilink")語言撰寫，並搭配[MySQL](../Page/MySQL.md "wikilink")資料庫使用。
 
 在2004年11月開始進行開發，2005年8月時推出測試版，開始在部份網站使用，並推廣到不同面向市場。2008年1月正式對外釋出雙版本的程式下載。\[1\]
 
 Collablog主要提供給企業、教育事業或個人部落格、網站之用，非營利版本是不收費的。Collablog具備更新內容簡便的特性，它的設計思維是期望提供互動且協同式內容的創造性，以及讓部落格應用更簡單。
 
-其主要的特點是所有的頁面幾乎都有[RSS輸出](../Page/RSS.md "wikilink")，不論是文章、分類、標籤關鍵字、行事曆、迴響等均然。其次是具備來源網址顯示，文章可選擇多分類、設定文章張貼排程等等。這個部落格程式的概念簡單，功能卻不俗，有部份功能成為一些部落格平台的改進參考。
+其主要的特點是所有的頁面幾乎都有[RSS](../Page/RSS.md "wikilink")輸出，不論是文章、分類、標籤關鍵字、行事曆、迴響等均然。其次是具備來源網址顯示，文章可選擇多分類、設定文章張貼排程等等。這個部落格程式的概念簡單，功能卻不俗，有部份功能成為一些部落格平台的改進參考。
 
 ## 特點
 
   - 可協同產生內容，支援多部落格和多用戶。
   - Collablog Portal版程式提供部落格平台的入口網站首頁。
   - Collablog Community版程式提供多重用戶共同維護單一部落格頁面，成為共筆部落格。
-  - 具備[HTML視覺化編輯器](../Page/HTML.md "wikilink")，所見即所得。
+  - 具備[HTML](../Page/HTML.md "wikilink")視覺化編輯器，所見即所得。
   - 支援[W3C網頁標準](https://zh.wikipedia.org/wiki/W3C "wikilink")。
   - 支援XML-PRC離線編輯功能。
   - 支援IE、Mozilla Firefox、Opera、Safari等網際網路瀏覽器。
   - 支援模組、模板佈景。
   - 支援小工具、外掛、多國語言文件。
-  - 支援[RDF](https://zh.wikipedia.org/wiki/RDF "wikilink") 1.0、
-    [ATOM](https://zh.wikipedia.org/wiki/Atom "wikilink") 0.3
-    、[RSS](../Page/RSS.md "wikilink") 2.0。
+  - 支援[RDF](https://zh.wikipedia.org/wiki/RDF "wikilink") 1.0、 [ATOM](https://zh.wikipedia.org/wiki/Atom "wikilink") 0.3 、[RSS](../Page/RSS.md "wikilink") 2.0。
   - 支援[WAP](https://zh.wikipedia.org/wiki/WAP "wikilink") 行動網頁格式。
   - 支援迴響驗證碼。
   - 支援[Trackback](https://zh.wikipedia.org/wiki/Trackback "wikilink")。
@@ -49,14 +47,10 @@ Collablog主要提供給企業、教育事業或個人部落格、網站之用�
   - [Yblog.org Collablog Portal正體中文展示站](http://yblog.org/)
   - [優賞社區網誌](https://web.archive.org/web/20090111100310/http://www.ysteng.idv.tw/)
   - [無名日記](http://collablog.asongo.info/)
-  - [採用Collablog
-    Community的正體中文攝影網站](https://web.archive.org/web/20070608134845/http://www.eaglesky.idv.tw/)
+  - [採用Collablog Community的正體中文攝影網站](https://web.archive.org/web/20070608134845/http://www.eaglesky.idv.tw/)
 
 ## 参考文献
 
-[Category:内容管理系统](https://zh.wikipedia.org/wiki/Category:内容管理系统 "wikilink")
-[Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink")
-[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
+[Category:内容管理系统](https://zh.wikipedia.org/wiki/Category:内容管理系统 "wikilink") [Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink") [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
 
-1.  [1](http://yblog.org/archive/index.php/Collablog_2008_release)
-    Collablog雙版本正式開放下載
+1.  [1](http://yblog.org/archive/index.php/Collablog_2008_release) Collablog雙版本正式開放下載

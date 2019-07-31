@@ -1,4 +1,4 @@
-《**OH\!必勝奉順英**》（[韓文](../Page/諺文.md "wikilink")：****，）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[KBS電視台於](../Page/韓國放送公社.md "wikilink")2004年9月至11月期間，韓國時間逢星期一、二，晚上9時55分播放的[月火迷你連續劇由金鍾學製作公司負責](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，[安在旭](../Page/安在旭.md "wikilink")、[蔡琳](../Page/蔡琳.md "wikilink")、[柳鎮](../Page/柳鎮_\(韓國\).md "wikilink")、[朴宣暎等演員演出](../Page/朴宣暎.md "wikilink")。台灣[緯來戲劇台及](../Page/緯來戲劇台.md "wikilink")[華視播映本劇時](https://zh.wikipedia.org/wiki/華視 "wikilink")，改名《**必勝！奉順英**》。
+《**OH\!必勝奉順英**》（[韓文](../Page/諺文.md "wikilink")：****，）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[KBS電視台於](../Page/韓國放送公社.md "wikilink")2004年9月至11月期間，韓國時間逢星期一、二，晚上9時55分播放的[月火迷你連續劇由金鍾學製作公司負責](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，[安在旭](../Page/安在旭.md "wikilink")、[蔡琳](../Page/蔡琳.md "wikilink")、[柳鎮](../Page/柳鎮_\(韓國\).md "wikilink")、[朴宣暎](../Page/朴宣暎.md "wikilink")等演員演出。台灣[緯來戲劇台](../Page/緯來戲劇台.md "wikilink")及[華視播映本劇時](https://zh.wikipedia.org/wiki/華視 "wikilink")，改名《**必勝！奉順英**》。
 
 ## 劇情介紹
 
@@ -14,15 +14,7 @@
 ## 外部連結
 
   - [KBS《OH\!必勝奉順英》官方網站](http://www.kbs.co.kr/drama/feelyoung/index.html)
-
   - [緯來戲劇台《必勝！奉順英》官方網站](http://drama.videoland.com.tw/channel/victory/)
   - [華視《必勝！奉順英》官方網站](http://event.cts.com.tw/feelyoung/)
 
-[Category:KBS月火連續劇](https://zh.wikipedia.org/wiki/Category:KBS月火連續劇 "wikilink")
-[Category:2004年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2004年韓國電視劇集 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
-[Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
-[Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:姜銀慶劇本作品](https://zh.wikipedia.org/wiki/Category:姜銀慶劇本作品 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:KBS月火連續劇](https://zh.wikipedia.org/wiki/Category:KBS月火連續劇 "wikilink") [Category:2004年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2004年韓國電視劇集 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:姜銀慶劇本作品](https://zh.wikipedia.org/wiki/Category:姜銀慶劇本作品 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")

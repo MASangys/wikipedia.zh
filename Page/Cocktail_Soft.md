@@ -10,8 +10,7 @@
 
 ## 作品一覧
 
-本段記述Cocktail soft1987年到2000年組織改編以前的遊戲。2001年以後的遊戲請參照[F\&C\#COCKTAIL
-SOFT](https://zh.wikipedia.org/wiki/F&C#COCKTAIL_SOFT（カクテル・ソフト） "wikilink")。
+本段記述Cocktail soft1987年到2000年組織改編以前的遊戲。2001年以後的遊戲請參照[F\&C\#COCKTAIL SOFT](https://zh.wikipedia.org/wiki/F&C#COCKTAIL_SOFT（カクテル・ソフト） "wikilink")。
 
 ### 系列
 
@@ -21,8 +20,7 @@ SOFT](https://zh.wikipedia.org/wiki/F&C#COCKTAIL_SOFT（カクテル・ソフト
       - 1990年4月16日 - CANCAN BUNNY SUPERIOR
       - 1991年8月10日 - CANCAN BUNNY SPIRITS
       - 1992年7月30日 - CANCAN BUNNY Première
-          - 1996年1月26日 - CANCAN BUNNY Première/SPIRITS（[FM
-            TOWNS版](https://zh.wikipedia.org/wiki/FM_TOWNS "wikilink")）
+          - 1996年1月26日 - CANCAN BUNNY Première/SPIRITS（[FM TOWNS版](https://zh.wikipedia.org/wiki/FM_TOWNS "wikilink")）
           - 1996年11月22日 - CANCAN BUNNY Première（Windows版）
       - 1993年6月25日 - CANCAN BUNNY EXTRA
       - 1994年11月11日 - CANCAN BUNNY LIMITED 5 1/2
@@ -79,14 +77,10 @@ SOFT](https://zh.wikipedia.org/wiki/F&C#COCKTAIL_SOFT（カクテル・ソフト
 
 <!-- end list -->
 
-  -   - 1996年7月26日 - [歡迎來到Pia Carrot\!\! 〜We've been Waiting for
-        you〜](../Page/歡迎來到Pia_Carrot!!.md "wikilink")
-          - 1996年10月18日 - 歡迎來到Pia Carrot\!\! 〜We've been Waiting for
-            you〜（Windows版）
-      - 1997年10月31日 - [歡迎來到Pia
-        Carrot\!\!2](../Page/歡迎來到Pia_Carrot!!2.md "wikilink")
-      - 1998年10月30日 -
-        [ぴあきゃろTOYBOX](https://zh.wikipedia.org/wiki/Piaキャロットへようこそ!!2#ぴあきゃろTOYBOX "wikilink")
+  -   - 1996年7月26日 - [歡迎來到Pia Carrot\!\! 〜We've been Waiting for you〜](../Page/歡迎來到Pia_Carrot!!.md "wikilink")
+          - 1996年10月18日 - 歡迎來到Pia Carrot\!\! 〜We've been Waiting for you〜（Windows版）
+      - 1997年10月31日 - [歡迎來到Pia Carrot\!\!2](../Page/歡迎來到Pia_Carrot!!2.md "wikilink")
+      - 1998年10月30日 - [ぴあきゃろTOYBOX](https://zh.wikipedia.org/wiki/Piaキャロットへようこそ!!2#ぴあきゃろTOYBOX "wikilink")
       - 1999年8月12日 - 歡迎來到Pia Carrot\!\! 1・2・TB
 
 <!-- end list -->
@@ -125,8 +119,7 @@ SOFT](https://zh.wikipedia.org/wiki/F&C#COCKTAIL_SOFT（カクテル・ソフト
   - 1995年7月25日 -
   - 1996年1月26日 -
   - 1996年6月28日 -
-  - 2000年4月7日 -
-    [公主的回憶](https://zh.wikipedia.org/wiki/公主的回憶 "wikilink")（）
+  - 2000年4月7日 - [公主的回憶](https://zh.wikipedia.org/wiki/公主的回憶 "wikilink")（）
   - 2000年8月11日 -
 
 ## 相關條目
@@ -137,7 +130,6 @@ SOFT](https://zh.wikipedia.org/wiki/F&C#COCKTAIL_SOFT（カクテル・ソフト
 ## 外部連結
 
   - [F\&C](http://fandc.co.jp/)
-  - [Carrot
-    Island](https://web.archive.org/web/20090415165746/http://www.icardpark.com/island/)
+  - [Carrot Island](https://web.archive.org/web/20090415165746/http://www.icardpark.com/island/)
 
 [Category:F\&C](https://zh.wikipedia.org/wiki/Category:F&C "wikilink")

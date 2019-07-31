@@ -1,5 +1,4 @@
-《**Cyndi with
-U**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌的第四張](../Page/王心凌.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[愛貝克思](../Page/愛貝克思_\(台灣\).md "wikilink")（時為艾迴唱片）於2005年12月27日以預購及正式訂購的途徑，同步發行雙版本。該專輯於2006年2月14日發行慶功改版。
+《**Cyndi with U**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌](../Page/王心凌.md "wikilink")的第四張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[愛貝克思](../Page/愛貝克思_\(台灣\).md "wikilink")（時為艾迴唱片）於2005年12月27日以預購及正式訂購的途徑，同步發行雙版本。該專輯於2006年2月14日發行慶功改版。
 
 ## 曲目
 
@@ -54,7 +53,4 @@ U**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikil
   - 2005年12月27日：正式版（1片CD、1片[VCD](../Page/VCD.md "wikilink")（收錄39分鐘工作日誌））
   - 2006年2月14日：慶功版（1片CD、1片[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（收錄「王心凌NO.1慶功演唱會」實況+30分鐘幕後花絮））
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:王心凌音樂專輯](https://zh.wikipedia.org/wiki/Category:王心凌音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:王心凌音樂專輯](https://zh.wikipedia.org/wiki/Category:王心凌音樂專輯 "wikilink")

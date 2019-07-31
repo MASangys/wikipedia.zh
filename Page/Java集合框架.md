@@ -1,24 +1,14 @@
-[Java.util.Collection_hierarchy.svg](https://zh.wikipedia.org/wiki/File:Java.util.Collection_hierarchy.svg "fig:Java.util.Collection_hierarchy.svg")
-[Java.util.Map_hierarchy.svg](https://zh.wikipedia.org/wiki/File:Java.util.Map_hierarchy.svg "fig:Java.util.Map_hierarchy.svg")
-**Java集合框架**(**Java collections
-framework**)是一個包含一系列實作可重複使用集合的[資料結構的](https://zh.wikipedia.org/wiki/資料結構 "wikilink")[類別和](https://zh.wikipedia.org/wiki/類別_\(電腦科學\) "wikilink")[介面集合](../Page/介面_\(程式設計\).md "wikilink")。
-雖然稱為「框架」，其使用方式卻像個[函式庫](../Page/函式庫.md "wikilink")。集合框架提供了定義各式各樣集合的介面和實作上述集合的類別。
+[Java.util.Collection_hierarchy.svg](https://zh.wikipedia.org/wiki/File:Java.util.Collection_hierarchy.svg "fig:Java.util.Collection_hierarchy.svg") [Java.util.Map_hierarchy.svg](https://zh.wikipedia.org/wiki/File:Java.util.Map_hierarchy.svg "fig:Java.util.Map_hierarchy.svg") **Java集合框架**(**Java collections framework**)是一個包含一系列實作可重複使用集合的[資料結構的](https://zh.wikipedia.org/wiki/資料結構 "wikilink")[類別和](https://zh.wikipedia.org/wiki/類別_\(電腦科學\) "wikilink")[介面集合](../Page/介面_\(程式設計\).md "wikilink")。 雖然稱為「框架」，其使用方式卻像個[函式庫](../Page/函式庫.md "wikilink")。集合框架提供了定義各式各樣集合的介面和實作上述集合的類別。
 
 ## 與陣列的不同處
 
-集合和陣列在兩者保持物件參考核可被視作為一個團體上有著功能上的相似處。集合和陣列其中一點不同的是，集合在宣告時不需要指定固定的容量。集合可以在新增或移除內容時自動地增加或縮減其容量。
-另外，集合無法收納基本資料型態，像是整數(int)、長整數(long)或者雙精度浮點數(double)。取而代之的是，集合可以收納上述基本資料型態的包裹類別，像是整數(Integer)、長整數(Long)、或雙精度浮點數(Double)。\[1\]
+集合和陣列在兩者保持物件參考核可被視作為一個團體上有著功能上的相似處。集合和陣列其中一點不同的是，集合在宣告時不需要指定固定的容量。集合可以在新增或移除內容時自動地增加或縮減其容量。 另外，集合無法收納基本資料型態，像是整數(int)、長整數(long)或者雙精度浮點數(double)。取而代之的是，集合可以收納上述基本資料型態的包裹類別，像是整數(Integer)、長整數(Long)、或雙精度浮點數(Double)。\[1\]
 
 ## 歷史
 
-集合介面在先行版版本時納入，並包含少數簡單的資料結構類別，但當時並未包含完整的集合框架。\[2\]
-原本在Java典型集中物件的方法是使用陣列(array)、向量(Vector)或者雜湊表(Hashtable)類別來處理。但上述的類別並不容易擴展，而且並沒有一個標準的介面。\[3\]
-當時若想使用可重用集合[資料結構](https://zh.wikipedia.org/wiki/資料結構 "wikilink")，也是有數種第三方框架可供選擇。最廣為使用的例如的*集合包*(Collections
-package)\[4\]的*集合包*\[5\]
+集合介面在先行版版本時納入，並包含少數簡單的資料結構類別，但當時並未包含完整的集合框架。\[2\] 原本在Java典型集中物件的方法是使用陣列(array)、向量(Vector)或者雜湊表(Hashtable)類別來處理。但上述的類別並不容易擴展，而且並沒有一個標準的介面。\[3\] 當時若想使用可重用集合[資料結構](https://zh.wikipedia.org/wiki/資料結構 "wikilink")，也是有數種第三方框架可供選擇。最廣為使用的例如的*集合包*(Collections package)\[4\]的*集合包*\[5\]
 
-集合框架主要由[約書亞·布洛克](../Page/約書亞·布洛克.md "wikilink")設計且開發，並於中導入。它重新使用了不少來自道格·利亞的集合包的概念和類別，並在最後使後者過時。\[6\]
-\[7\]
-道格·利亞後來投入發展[并发性](../Page/并发性.md "wikilink")，並在其使用了和集合框架有關的類別。\[8\]而後來并发性工具在以導入。
+集合框架主要由[約書亞·布洛克](../Page/約書亞·布洛克.md "wikilink")設計且開發，並於中導入。它重新使用了不少來自道格·利亞的集合包的概念和類別，並在最後使後者過時。\[6\] \[7\] 道格·利亞後來投入發展[并发性](../Page/并发性.md "wikilink")，並在其使用了和集合框架有關的類別。\[8\]而後來并发性工具在以導入。
 
 ## 架構
 
@@ -26,8 +16,7 @@ package)\[4\]的*集合包*\[5\]
 
 ### 三種集合
 
-集合可分為三種：**有序列表**(ordered
-lists)、**映射表**(maps)和**集**(sets)。有序列表容許程式設計師依序地加入元素，並以同樣的順序取回元素，例如等候列表。在有序列表介面底下有兩個子介面，分別為**列表**(Lists)和**佇列**(Queue)。映射表使用索引來參考物件並取回其值。在映射表介面底下有一個子介面**映射表**(Map)。集是一種可供遍巡的無序集合，但當中不允許重複的物件存在。在其中有個子介面**集**(Set)。\[10\]
+集合可分為三種：**有序列表**(ordered lists)、**映射表**(maps)和**集**(sets)。有序列表容許程式設計師依序地加入元素，並以同樣的順序取回元素，例如等候列表。在有序列表介面底下有兩個子介面，分別為**列表**(Lists)和**佇列**(Queue)。映射表使用索引來參考物件並取回其值。在映射表介面底下有一個子介面**映射表**(Map)。集是一種可供遍巡的無序集合，但當中不允許重複的物件存在。在其中有個子介面**集**(Set)。\[10\]
 
 ### 列表介面
 
@@ -42,13 +31,11 @@ lists)、**映射表**(maps)和**集**(sets)。有序列表容許程式設計師
 
 ### 佇列類別
 
-java.util.Queue定義了佇列資料結構，也就是將元素以其加入的順序來排序的集合。新加入的元素會放在對列的最末端，而提出物件時會先從最頂端開始提出。這實現了[先進先出](../Page/先進先出.md "wikilink")的模式。在這介面下有java.util.LinkedList,
-java.util.ArrayDeque,和java.util.PriorityQueue。\[12\]
+java.util.Queue定義了佇列資料結構，也就是將元素以其加入的順序來排序的集合。新加入的元素會放在對列的最末端，而提出物件時會先從最頂端開始提出。這實現了[先進先出](../Page/先進先出.md "wikilink")的模式。在這介面下有java.util.LinkedList, java.util.ArrayDeque,和java.util.PriorityQueue。\[12\]
 
 ### 集介面
 
-Java的java.util.Set定義了集。集不能包含任何重複的元素，另外集也沒有順序。也因為如此，在集內的元素無法以索引存取。在集底下實作了**雜湊集**(java.util.HashSet)、**連結雜湊集**(java.util.LinkedHashSet)和**樹狀集**(java.util.TreeSet)。雜湊集使用**雜湊映射表**(java.util.HashMap)來儲存元素和其雜湊值來防止重複。連結雜湊集藉由建立雙向連結列表來按照各個元素的加入順序進行聯繫，如此可以保持這個集的順序。樹狀集使用[紅黑樹來確保沒有重複的元素](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")。另外，如此的實作容許樹狀集能實作**已排序集**(java.util.SortedSet)。\[13\]
-跟一般的集所不同的是，已排序集會藉由元素的**與之比較**(compareTo)方法、或於已排序集建構式當中提供的函數，來對其中元素進行排序。如此可以輕鬆取得已排序集當中的第一和第末元素，或者由某最大和最小值為區間來取得子集。\[14\]
+Java的java.util.Set定義了集。集不能包含任何重複的元素，另外集也沒有順序。也因為如此，在集內的元素無法以索引存取。在集底下實作了**雜湊集**(java.util.HashSet)、**連結雜湊集**(java.util.LinkedHashSet)和**樹狀集**(java.util.TreeSet)。雜湊集使用**雜湊映射表**(java.util.HashMap)來儲存元素和其雜湊值來防止重複。連結雜湊集藉由建立雙向連結列表來按照各個元素的加入順序進行聯繫，如此可以保持這個集的順序。樹狀集使用[紅黑樹來確保沒有重複的元素](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")。另外，如此的實作容許樹狀集能實作**已排序集**(java.util.SortedSet)。\[13\] 跟一般的集所不同的是，已排序集會藉由元素的**與之比較**(compareTo)方法、或於已排序集建構式當中提供的函數，來對其中元素進行排序。如此可以輕鬆取得已排序集當中的第一和第末元素，或者由某最大和最小值為區間來取得子集。\[14\]
 
 已排序集還可藉由**可導航集**(java.util.NavigableSet)介面擴充。可導航集和已排序集很像，不過有著額外的新方法，像是**地板**(floor)、**天花板**(ceiling)、**更低**(lower)和**更高**(higher)。這些方法可以按照某參數來在可導航集尋找符合條件的元素。另外，可導航集也提供了一個疊代器，可用於遍詢其中的元素。\[15\]
 

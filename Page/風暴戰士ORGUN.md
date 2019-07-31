@@ -98,9 +98,6 @@
 ## 外部連結
 
   -
-  - [AnimeOnDVD
-    review](https://web.archive.org/web/20070927200741/http://www.animeondvd.com/reviews2/disc_reviews/245.php)
+  - [AnimeOnDVD review](https://web.archive.org/web/20070927200741/http://www.animeondvd.com/reviews2/disc_reviews/245.php)
 
-[Category:1991年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1991年日本OVA動畫 "wikilink")
-[Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink")
-[Category:蟲洞題材作品](https://zh.wikipedia.org/wiki/Category:蟲洞題材作品 "wikilink")
+[Category:1991年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1991年日本OVA動畫 "wikilink") [Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink") [Category:蟲洞題材作品](https://zh.wikipedia.org/wiki/Category:蟲洞題材作品 "wikilink")

@@ -1,5 +1,4 @@
-《**Re:
-甜心战士**》（）是2004年發售的《[甜心战士](https://zh.wikipedia.org/wiki/甜心战士 "wikilink")》系列[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。借鉴或替换了过去所有[东映动画](../Page/东映动画.md "wikilink")制作的《甜心战士》系列的动画新作，本作品由[GAINAX](../Page/GAINAX.md "wikilink")担当制作。
+《**Re: 甜心战士**》（）是2004年發售的《[甜心战士](https://zh.wikipedia.org/wiki/甜心战士 "wikilink")》系列[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。借鉴或替换了过去所有[东映动画](../Page/东映动画.md "wikilink")制作的《甜心战士》系列的动画新作，本作品由[GAINAX](../Page/GAINAX.md "wikilink")担当制作。
 
 ## 作品概要
 
@@ -16,8 +15,7 @@
 ### 主要角色
 
   - 如月甜心／甜心战士
-    （[声](https://zh.wikipedia.org/wiki/声优 "wikilink") -
-    [堀江由衣](../Page/堀江由衣.md "wikilink")）
+    （[声](https://zh.wikipedia.org/wiki/声优 "wikilink") - [堀江由衣](../Page/堀江由衣.md "wikilink")）
 
     如月博士的女儿。1年前因突发事故而丧命，后用其[细胞](../Page/细胞.md "wikilink")制作成为了超级的[人造人](https://zh.wikipedia.org/wiki/人造人 "wikilink")，拥有一颗人类的内心。口呼“甜心闪光！”可变化为各种造型的姿态。战斗时变身成为甜心战士，左手臂可飞出“甜心回力镖”攻击对手，还拥有将敌人斩裂的“白银花剑”，与秘密组织·豹爪进行着维护社会秩序的战斗。
 
@@ -155,22 +153,15 @@
   - 片头歌曲
     \[甜心战士\]
       -
-        作词：クロードQ 作曲：渡边岳夫
-        编曲：[h-wonder](https://zh.wikipedia.org/wiki/h-wonder "wikilink")
-        歌：[幸田来未](https://zh.wikipedia.org/wiki/幸田来未 "wikilink")
+        作词：クロードQ 作曲：渡边岳夫 编曲：[h-wonder](https://zh.wikipedia.org/wiki/h-wonder "wikilink") 歌：[幸田来未](https://zh.wikipedia.org/wiki/幸田来未 "wikilink")
   - 片尾歌曲
     「Into your heart」
       -
-        作词：[渡边未来](https://zh.wikipedia.org/wiki/渡边未来 "wikilink") 作曲：渡辺未来
-        编曲:h-wonder 歌：幸田来未
+        作词：[渡边未来](https://zh.wikipedia.org/wiki/渡边未来 "wikilink") 作曲：渡辺未来 编曲:h-wonder 歌：幸田来未
 
 ## 外部链接
 
-  - [Re: 甜心战士 Official Web
-    Site](https://web.archive.org/web/20090511053607/http://www.toei-video.co.jp/archive/re-cutiehoney/index.html)
-  - [Re: 甜心战士
-    (DVD)](http://www.toei-anim.co.jp/shop/dvd_recutie/index.html)
+  - [Re: 甜心战士 Official Web Site](https://web.archive.org/web/20090511053607/http://www.toei-video.co.jp/archive/re-cutiehoney/index.html)
+  - [Re: 甜心战士 (DVD)](http://www.toei-anim.co.jp/shop/dvd_recutie/index.html)
 
-[Category:2004年日本OVA动画](https://zh.wikipedia.org/wiki/Category:2004年日本OVA动画 "wikilink")
-[Category:甜心戰士](https://zh.wikipedia.org/wiki/Category:甜心戰士 "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
+[Category:2004年日本OVA动画](https://zh.wikipedia.org/wiki/Category:2004年日本OVA动画 "wikilink") [Category:甜心戰士](https://zh.wikipedia.org/wiki/Category:甜心戰士 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")

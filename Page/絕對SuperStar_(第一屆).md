@@ -437,8 +437,7 @@
 
 官方網站
 
-  - [《絕對SuperStar
-    (第一屆)》官方網站（存檔）](https://web.archive.org/web/20090325023828/http://archiveu.mediacorptv.sg/project/)
+  - [《絕對SuperStar (第一屆)》官方網站（存檔）](https://web.archive.org/web/20090325023828/http://archiveu.mediacorptv.sg/project/)
 
 官方新聞
 
@@ -452,6 +451,4 @@
   - [【絕對】翻身賽成績](http://archiveu.mediacorptv.sg/story.aspx?Editorial_Id=24&SubCategoryID=20)
   - [第一場半決賽成績](http://archiveu.mediacorptv.sg/storydetail.aspx?Editorial_ID=37&SubCategoryID=20)
 
-[Category:新加坡電視節目](https://zh.wikipedia.org/wiki/Category:新加坡電視節目 "wikilink")
-[Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
-[Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
+[Category:新加坡電視節目](https://zh.wikipedia.org/wiki/Category:新加坡電視節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")

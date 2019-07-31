@@ -22,14 +22,10 @@
   - DV
   - FFV1
   - [H.263](../Page/H.263.md "wikilink")
-  - [H.264/MPEG-4
-    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")
+  - [H.264/MPEG-4 AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")
   - [HuffYUV](https://zh.wikipedia.org/wiki/HuffYUV "wikilink")
   - [MPEG-1](../Page/MPEG-1.md "wikilink")，[MPEG-2](../Page/MPEG-2.md "wikilink")
-  - [MPEG-4](../Page/MPEG-4.md "wikilink") Simple Profile/Advanced
-    Simple
-    Profile（支持编码[FourCCs](https://zh.wikipedia.org/wiki/FourCC "wikilink"):
-    DIVX, DX50, XVID, FMP4, M4S2）
+  - [MPEG-4](../Page/MPEG-4.md "wikilink") Simple Profile/Advanced Simple Profile（支持编码[FourCCs](https://zh.wikipedia.org/wiki/FourCC "wikilink"): DIVX, DX50, XVID, FMP4, M4S2）
   - [MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")
   - MSMPEG-4 v. 2（FourCC DIV3）
   - Raw RGB
@@ -45,8 +41,7 @@
   - AMR narrow band
   - [MP3](../Page/MP3.md "wikilink")，[MP2](https://zh.wikipedia.org/wiki/MP2 "wikilink")
   - [Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")
-  - [WAV
-    PCM](https://zh.wikipedia.org/wiki/Pulse-code_modulation "wikilink")
+  - [WAV PCM](https://zh.wikipedia.org/wiki/Pulse-code_modulation "wikilink")
   - [WAV LPCM](https://zh.wikipedia.org/wiki/LPCM "wikilink")
   - [WMA](../Page/Windows_Media_Audio.md "wikilink")
 
@@ -66,12 +61,10 @@
 
   - FFV1
   - [H.263](../Page/H.263.md "wikilink")
-  - [H.264/MPEG-4
-    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")（使用[x264](https://zh.wikipedia.org/wiki/x264 "wikilink")）
+  - [H.264/MPEG-4 AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")（使用[x264](https://zh.wikipedia.org/wiki/x264 "wikilink")）
   - [HuffYUV](https://zh.wikipedia.org/wiki/HuffYUV "wikilink")
   - [MPEG-1](../Page/MPEG-1.md "wikilink")，[MPEG-2](../Page/MPEG-2.md "wikilink")
-  - [MPEG-4](../Page/MPEG-4.md "wikilink")（SP/ASP，使用[FFmpeg](../Page/FFmpeg.md "wikilink")
-    [MPEG-4](../Page/MPEG-4.md "wikilink")或[Xvid](../Page/Xvid.md "wikilink")）
+  - [MPEG-4](../Page/MPEG-4.md "wikilink")（SP/ASP，使用[FFmpeg](../Page/FFmpeg.md "wikilink") [MPEG-4](../Page/MPEG-4.md "wikilink")或[Xvid](../Page/Xvid.md "wikilink")）
   - [MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")
   - [Snow](https://zh.wikipedia.org/wiki/Snow_\(codec\) "wikilink")
 
@@ -81,8 +74,7 @@
   - [AC3](https://zh.wikipedia.org/wiki/AC3 "wikilink")
   - [MP3](../Page/MP3.md "wikilink")，[MP2](https://zh.wikipedia.org/wiki/MP2 "wikilink")
   - [Ogg Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")
-  - [WAV
-    PCM](https://zh.wikipedia.org/wiki/Pulse-code_modulation "wikilink")
+  - [WAV PCM](https://zh.wikipedia.org/wiki/Pulse-code_modulation "wikilink")
   - [WAV LPCM](https://zh.wikipedia.org/wiki/LPCM "wikilink")
 
 ## 参见
@@ -93,13 +85,7 @@
 
 ## 外部链接
 
-  - [1](http://avidemux.sourceforge.net/)（网站镜像：[2](http://fixounet.free.fr/avidemux/),
-    [3](https://web.archive.org/web/20090131235337/http://avidemux.berlios.de/)
-    ）
+  - [1](http://avidemux.sourceforge.net/)（网站镜像：[2](http://fixounet.free.fr/avidemux/), [3](https://web.archive.org/web/20090131235337/http://avidemux.berlios.de/) ）
   - [Avidemux论坛](http://www.avidemux.org/admForum)
 
-[Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink")
-[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:視頻編輯軟體](https://zh.wikipedia.org/wiki/Category:視頻編輯軟體 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
+[Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink") [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:視頻編輯軟體](https://zh.wikipedia.org/wiki/Category:視頻編輯軟體 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")

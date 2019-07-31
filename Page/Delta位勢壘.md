@@ -1,8 +1,8 @@
-在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**Delta位勢壘**是一個壘內位勢為[狄拉克Delta函數](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，壘外位勢為0的位勢壘。**Delta位勢壘問題**專門研討，在這種位勢的作用中，一個移動的粒子的量子行為。我們想要知道的是，在被Delta位勢壘[散射的狀況下](../Page/散射.md "wikilink")，粒子的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。在許多量子力學的教科書裏，這是一個常見的習題。
+在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**Delta位勢壘**是一個壘內位勢為[狄拉克Delta函數](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，壘外位勢為0的位勢壘。**Delta位勢壘問題**專門研討，在這種位勢的作用中，一個移動的粒子的量子行為。我們想要知道的是，在被Delta位勢壘[散射](../Page/散射.md "wikilink")的狀況下，粒子的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。在許多量子力學的教科書裏，這是一個常見的習題。
 
 ## 定義
 
-[Deltapot.png](https://zh.wikipedia.org/wiki/File:Deltapot.png "fig:Deltapot.png")。往左與往右的[行進波的振幅與方向都分別表示於圖內](https://zh.wikipedia.org/wiki/行進波 "wikilink")。用來計算[透射係數與](../Page/透射係數.md "wikilink")[反射係數的](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[行進波都以紅色表示](https://zh.wikipedia.org/wiki/行進波 "wikilink")。\]\]
+[Deltapot.png](https://zh.wikipedia.org/wiki/File:Deltapot.png "fig:Deltapot.png")。往左與往右的[行進波的振幅與方向都分別表示於圖內](https://zh.wikipedia.org/wiki/行進波 "wikilink")。用來計算[透射係數](../Page/透射係數.md "wikilink")與[反射係數的](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[行進波都以紅色表示](https://zh.wikipedia.org/wiki/行進波 "wikilink")。\]\]
 
 一個粒子獨立於[時間的](https://zh.wikipedia.org/wiki/時間 "wikilink")[薛丁格方程為](https://zh.wikipedia.org/wiki/薛丁格方程 "wikilink")
 
@@ -70,7 +70,7 @@
 
 [DeltaPotentialBarrier.PNG](https://zh.wikipedia.org/wiki/File:DeltaPotentialBarrier.PNG "fig:DeltaPotentialBarrier.PNG")
 
-由於能量是正值的，粒子可以自由的移動於位勢壘外的兩個半空間，\(x<0\,\!\)或\(x>0\,\!\)。可是，在Delta位勢壘，粒子會遇到[散射狀況](../Page/散射.md "wikilink")。設定粒子從左邊入射。在Delta位勢壘，粒子可能會被反射回去，或者會被透射過去。我們想要知道散射的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。設定\(A_r=1\,\!\)，\(A_l=r\,\!\)，\(B_l=0\,\!\)，\(B_r=t\,\!\)。求算反射的[機率幅](../Page/機率幅.md "wikilink")\(r\,\!\)與透射的[機率幅](../Page/機率幅.md "wikilink")\(t\,\!\)：
+由於能量是正值的，粒子可以自由的移動於位勢壘外的兩個半空間，\(x<0\,\!\)或\(x>0\,\!\)。可是，在Delta位勢壘，粒子會遇到[散射](../Page/散射.md "wikilink")狀況。設定粒子從左邊入射。在Delta位勢壘，粒子可能會被反射回去，或者會被透射過去。我們想要知道散射的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。設定\(A_r=1\,\!\)，\(A_l=r\,\!\)，\(B_l=0\,\!\)，\(B_r=t\,\!\)。求算反射的[機率幅](../Page/機率幅.md "wikilink")\(r\,\!\)與透射的[機率幅](../Page/機率幅.md "wikilink")\(t\,\!\)：
 
 \[r=\cfrac{1}{\cfrac{i\hbar^2 k}{m\lambda} - 1}\,\!\]，
 

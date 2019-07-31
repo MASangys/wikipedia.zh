@@ -1,12 +1,10 @@
-**Nemerle**，是微軟公司提出的.NET平台上的新語言，由Wrocław大學的Kamil Skalski、Michał
-Moskal、Prof. Leszek Pacholski、Paweł Olszt等人發明。
+**Nemerle**，是微軟公司提出的.NET平台上的新語言，由Wrocław大學的Kamil Skalski、Michał Moskal、Prof. Leszek Pacholski、Paweł Olszt等人發明。
 
 ## 範例
 
 ### Hello, World\!
 
-一個傳統的["Hello
-World\!"可以被寫成C](https://zh.wikipedia.org/wiki/Hello_world_program "wikilink")\#-like的風格：
+一個傳統的["Hello World\!"可以被寫成C](https://zh.wikipedia.org/wiki/Hello_world_program "wikilink")\#-like的風格：
 
 `class Hello {`
 `  static Main () : void {`
@@ -97,8 +95,7 @@ Nemerle可以被直接嵌入ASP.NET:
 
 ### PInvoke
 
-Nemerle有更多**原生平台函式庫**（native platform
-libraries）。風格非常類似C\#'s和其它[.NET平台上的語言](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")。下面是最簡單的例子：
+Nemerle有更多**原生平台函式庫**（native platform libraries）。風格非常類似C\#'s和其它[.NET平台上的語言](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")。下面是最簡單的例子：
 
 `using System;`
 `using System.Runtime.InteropServices;`
@@ -121,14 +118,11 @@ libraries）。風格非常類似C\#'s和其它[.NET平台上的語言](https://
 ## 外部連結
 
   - [Language Homepage](http://nemerle.org/)
-  - [The official
-    documentation](https://web.archive.org/web/20071009155042/http://nemerle.org/Documentation#Learning_Nemerle#Language_documentation)
+  - [The official documentation](https://web.archive.org/web/20071009155042/http://nemerle.org/Documentation#Learning_Nemerle#Language_documentation)
 
 <!-- end list -->
 
-  - [Nemerle at 99 Bottles of
-    Beer](http://www.99-bottles-of-beer.net/language-nemerle-869.html)
-  - [Interesting entries about Nemerle from akiramei's diary (in
-    Japanese)](http://d.hatena.ne.jp/akiramei/searchdiary?word=%2a%5bNemerle%5d)
+  - [Nemerle at 99 Bottles of Beer](http://www.99-bottles-of-beer.net/language-nemerle-869.html)
+  - [Interesting entries about Nemerle from akiramei's diary (in Japanese)](http://d.hatena.ne.jp/akiramei/searchdiary?word=%2a%5bNemerle%5d)
 
 [Category:.NET程式語言](https://zh.wikipedia.org/wiki/Category:.NET程式語言 "wikilink")

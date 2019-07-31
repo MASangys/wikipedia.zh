@@ -1,5 +1,4 @@
-1998年开始，[美国电影学会](../Page/美国电影学会.md "wikilink")（AFI）为了庆祝[电影诞生](../Page/电影.md "wikilink")100周年，每年都会评选一个美国电影“**百年百大……**”（**AFI
-100 Years... series**）。
+1998年开始，[美国电影学会](../Page/美国电影学会.md "wikilink")（AFI）为了庆祝[电影](../Page/电影.md "wikilink")诞生100周年，每年都会评选一个美国电影“**百年百大……**”（**AFI 100 Years... series**）。
 
 ## 百年百大系列：
 
@@ -21,5 +20,4 @@
 
   - [美国电影学院百年百大系列](http://www.afi.com/tvevents/100years/100yearslist.aspx)
 
-[Category:美國電影學會](https://zh.wikipedia.org/wiki/Category:美國電影學會 "wikilink")
-[Category:美国电影学院百年百大系列](https://zh.wikipedia.org/wiki/Category:美国电影学院百年百大系列 "wikilink")
+[Category:美國電影學會](https://zh.wikipedia.org/wiki/Category:美國電影學會 "wikilink") [Category:美国电影学院百年百大系列](https://zh.wikipedia.org/wiki/Category:美国电影学院百年百大系列 "wikilink")

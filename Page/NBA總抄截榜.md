@@ -1,8 +1,6 @@
-本表列出NBA生涯[抢断排行榜](https://zh.wikipedia.org/wiki/抢断 "wikilink")。(数据截至2018年12月2日)
+本列表統計的是國家籃球協會（NBA）球員個人職業生涯例行賽助攻總和，NBA球員在其它聯賽（如ABA）中的數據並不包括在內。所有數據都是截至到2019年4月10日。
 
-[John_Stockton_Lipofskydotcom-32245.jpg](https://zh.wikipedia.org/wiki/File:John_Stockton_Lipofskydotcom-32245.jpg "fig:John_Stockton_Lipofskydotcom-32245.jpg")\]\]
-[KiddFTline2.jpg](https://zh.wikipedia.org/wiki/File:KiddFTline2.jpg "fig:KiddFTline2.jpg")\]\]
-[Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")\]\]
+[John_Stockton_Lipofskydotcom-32245.jpg](https://zh.wikipedia.org/wiki/File:John_Stockton_Lipofskydotcom-32245.jpg "fig:John_Stockton_Lipofskydotcom-32245.jpg")\]\] [KiddFTline2.jpg](https://zh.wikipedia.org/wiki/File:KiddFTline2.jpg "fig:KiddFTline2.jpg")\]\] [Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")\]\]
 
 |    |              |
 | -- | ------------ |
@@ -113,6 +111,16 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a></p></td>
+<td><p>控球后卫</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新奥尔良黄蜂" title="wikilink">新奥尔良黄蜂</a><br />
+<a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a>（<a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a>-<a href="https://zh.wikipedia.org/wiki/2016-17_NBA赛季" title="wikilink">2016-17</a>[4]）</p></td>
+<td><p>2,122</p></td>
+<td><p>2.2</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿尔文·罗伯特森" title="wikilink">阿尔文·罗伯特森</a></p></td>
 <td><p>得分後衛<br />
 控球後衛</p></td>
@@ -124,8 +132,8 @@
 <td><p>2.7</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>10</p></td>
+<tr class="odd">
+<td><p>11</p></td>
 <td><p><a href="../Page/卡爾·馬龍.md" title="wikilink">卡爾·馬龍</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大前鋒" title="wikilink">大前鋒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/猶他爵士" title="wikilink">猶他爵士</a>（<a href="https://zh.wikipedia.org/wiki/1985-86_NBA賽季" title="wikilink">1985-86</a>–<a href="https://zh.wikipedia.org/wiki/2002-03_NBA賽季" title="wikilink">2002-03</a>）<br />
@@ -134,8 +142,8 @@
 <td><p>1.4</p></td>
 <td><p>2010</p></td>
 </tr>
-<tr class="odd">
-<td><p>11</p></td>
+<tr class="even">
+<td><p>12</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/穆基·布莱洛克" title="wikilink">穆基·布莱洛克</a></p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐澤西籃網" title="wikilink">紐澤西籃網</a>（<a href="https://zh.wikipedia.org/wiki/1989-90_NBA賽季" title="wikilink">1989-90</a>–<a href="https://zh.wikipedia.org/wiki/1991-92_NBA賽季" title="wikilink">1991-92</a>）<br />
@@ -145,7 +153,7 @@
 <td><p>2.3</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>13</p></td>
 <td><p><a href="../Page/艾倫·艾佛森.md" title="wikilink">艾倫·艾佛森</a></p></td>
 <td><p>控球後衛</p></td>
@@ -158,7 +166,7 @@
 <td><p>2.2</p></td>
 <td><p>2016</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>14</p></td>
 <td><p><a href="../Page/德里克·哈珀.md" title="wikilink">德里克·哈珀</a></p></td>
 <td><p>控球後衛</p></td>
@@ -169,16 +177,6 @@
 <td><p>1,957</p></td>
 <td><p>1.6</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>12</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a></p></td>
-<td><p>控球后卫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新奥尔良黄蜂" title="wikilink">新奥尔良黄蜂</a><br />
-<a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a>（<a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a>-<a href="https://zh.wikipedia.org/wiki/2016-17_NBA赛季" title="wikilink">2016-17</a>[4]）</p></td>
-<td><p>2,042</p></td>
-<td><p>2.3</p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -191,6 +189,16 @@
 </tr>
 <tr class="even">
 <td><p>16</p></td>
+<td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a></p></td>
+<td><p>小前锋</p></td>
+<td><p><a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a>（<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a>-<a href="../Page/2009-10_NBA赛季.md" title="wikilink">2009-10</a>，<a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>[5]）<br />
+<a href="https://zh.wikipedia.org/wiki/迈阿密热" title="wikilink">迈阿密热</a>（<a href="https://zh.wikipedia.org/wiki/2010-11_NBA赛季" title="wikilink">2010-11</a>-<a href="https://zh.wikipedia.org/wiki/2013-14_NBA赛季" title="wikilink">2013-14</a>）</p></td>
+<td><p>1,937</p></td>
+<td><p>1.6</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伊塞亞·托馬斯" title="wikilink">伊塞亞·托馬斯</a></p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a>（<a href="https://zh.wikipedia.org/wiki/1981-82_NBA賽季" title="wikilink">1981-82</a>–<a href="https://zh.wikipedia.org/wiki/1993-94_NBA賽季" title="wikilink">1993-94</a>）</p></td>
@@ -198,25 +206,15 @@
 <td><p>1.9</p></td>
 <td><p>2000</p></td>
 </tr>
-<tr class="odd">
-<td><p>17</p></td>
+<tr class="even">
+<td><p>18</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/凱文·賈奈特" title="wikilink">凱文·賈奈特</a></p></td>
 <td><p>大前鋒</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達灰狼" title="wikilink">明尼蘇達灰狼</a>（<a href="https://zh.wikipedia.org/wiki/1995-96_NBA賽季" title="wikilink">1995-96</a>–<a href="https://zh.wikipedia.org/wiki/2006-07_NBA賽季" title="wikilink">2006-07</a>，<a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>[5]）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達灰狼" title="wikilink">明尼蘇達灰狼</a>（<a href="https://zh.wikipedia.org/wiki/1995-96_NBA賽季" title="wikilink">1995-96</a>–<a href="https://zh.wikipedia.org/wiki/2006-07_NBA賽季" title="wikilink">2006-07</a>，<a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>[6]）<br />
 <a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a>（<a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08</a>–<a href="https://zh.wikipedia.org/wiki/2012-13_NBA賽季" title="wikilink">2012-13</a>）<br />
 <a href="../Page/布鲁克林篮网.md" title="wikilink">布鲁克林篮网</a>（<a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>）</p></td>
 <td><p>1,859</p></td>
 <td><p>1.3</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>18</p></td>
-<td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a></p></td>
-<td><p>小前锋</p></td>
-<td><p><a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a>（<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a>-<a href="../Page/2009-10_NBA赛季.md" title="wikilink">2009-10</a>，<a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>[6]）<br />
-<a href="https://zh.wikipedia.org/wiki/迈阿密热" title="wikilink">迈阿密热</a>（<a href="https://zh.wikipedia.org/wiki/2010-11_NBA赛季" title="wikilink">2010-11</a>-<a href="https://zh.wikipedia.org/wiki/2013-14_NBA赛季" title="wikilink">2013-14</a>）</p></td>
-<td><p>1,791</p></td>
-<td><p>1.7</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -294,6 +292,18 @@
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
+<td><p><a href="../Page/安德烈·伊格达拉.md" title="wikilink">安德烈·伊格达拉</a></p></td>
+<td><p>小前锋<br />
+得分后卫</p></td>
+<td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a>（<a href="../Page/2004-05_NBA赛季.md" title="wikilink">2004-05</a>-<a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a>）<br />
+<a href="../Page/丹佛掘金.md" title="wikilink">丹佛掘金</a>（<a href="../Page/2012-13_NBA赛季.md" title="wikilink">2012-13</a>）<br />
+<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>（<a href="https://zh.wikipedia.org/wiki/2013-14_NBA赛季" title="wikilink">2013-14</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>[7]）</p></td>
+<td><p>1,663</p></td>
+<td><p>1.5</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/查爾斯·巴克利" title="wikilink">查爾斯·巴克利</a></p></td>
 <td><p>大前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a>（<a href="https://zh.wikipedia.org/wiki/1984-85_NBA賽季" title="wikilink">1984-85</a>–<a href="https://zh.wikipedia.org/wiki/1991-92_NBA賽季" title="wikilink">1991-92</a>）<br />
@@ -303,8 +313,8 @@
 <td><p>1.5</p></td>
 <td><p>2006</p></td>
 </tr>
-<tr class="even">
-<td><p>26</p></td>
+<tr class="odd">
+<td><p>27</p></td>
 <td><p><a href="../Page/盖斯·威廉姆斯.md" title="wikilink">盖斯·威廉姆斯</a></p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>（<a href="https://zh.wikipedia.org/wiki/1975-76_NBA賽季" title="wikilink">1975-76</a>–<a href="https://zh.wikipedia.org/wiki/1976-77_NBA賽季" title="wikilink">1976-77</a>）<br />
@@ -315,8 +325,8 @@
 <td><p>2.0</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>27</p></td>
+<tr class="even">
+<td><p>28</p></td>
 <td><p><a href="../Page/何塞·霍金斯.md" title="wikilink">何塞·霍金斯</a></p></td>
 <td><p>得分後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a>（<a href="https://zh.wikipedia.org/wiki/1988-89_NBA賽季" title="wikilink">1988-89</a>–<a href="https://zh.wikipedia.org/wiki/1992-93_NBA賽季" title="wikilink">1992-93</a>）<br />
@@ -327,8 +337,8 @@
 <td><p>1.7</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>28</p></td>
+<tr class="odd">
+<td><p>29</p></td>
 <td><p><a href="../Page/埃迪·琼斯.md" title="wikilink">埃迪·琼斯</a></p></td>
 <td><p>得分後衛<br />
 小前鋒</p></td>
@@ -342,8 +352,17 @@
 <td><p>1.7</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>29</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德怀恩·韦德" title="wikilink">德怀恩·韦德</a></p></td>
+<td><p>得分後衛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/迈阿密热" title="wikilink">迈阿密热</a>（<a href="https://zh.wikipedia.org/wiki/2003-04_NBA賽季" title="wikilink">2003-04</a>–<a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16</a>[8])</p></td>
+<td><p>1,620</p></td>
+<td><p>1.5</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
 <td><p><a href="../Page/罗德·斯特里克兰.md" title="wikilink">罗德·斯特里克兰</a></p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約尼克" title="wikilink">紐約尼克</a>（<a href="https://zh.wikipedia.org/wiki/1988-89_NBA賽季" title="wikilink">1988-89</a>–<a href="https://zh.wikipedia.org/wiki/1989-90_NBA賽季" title="wikilink">1989-90</a>）<br />
@@ -360,7 +379,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>30</p></td>
+<td><p>32</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬克·傑克遜" title="wikilink">馬克·傑克遜</a></p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約尼克" title="wikilink">紐約尼克</a>（<a href="https://zh.wikipedia.org/wiki/1987-88_NBA賽季" title="wikilink">1987-88</a>–<a href="https://zh.wikipedia.org/wiki/1991-92_NBA賽季" title="wikilink">1991-92</a>，<a href="https://zh.wikipedia.org/wiki/2000-01_NBA賽季" title="wikilink">2000-01</a>–<a href="https://zh.wikipedia.org/wiki/2001-02_NBA賽季" title="wikilink">2001-02</a>）<br />
@@ -375,7 +394,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>31</p></td>
+<td><p>33</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泰瑞·波特" title="wikilink">泰瑞·波特</a></p></td>
 <td><p>控球後衛<br />
 得分後衛</p></td>
@@ -388,32 +407,20 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>32</p></td>
+<td><p>34</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/贾森·特里" title="wikilink">贾森·特里</a></p></td>
 <td><p>控球后卫</p></td>
 <td><p><a href="../Page/亚特兰大老鹰.md" title="wikilink">亚特兰大老鹰</a>（<a href="https://zh.wikipedia.org/wiki/1999-00_NBA赛季" title="wikilink">1999-00</a>-<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a>（<a href="../Page/2004-05_NBA赛季.md" title="wikilink">2004-05</a>-<a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a>）<br />
 <a href="../Page/波士顿凯尔特人.md" title="wikilink">波士顿凯尔特人</a>（<a href="../Page/2012-13_NBA赛季.md" title="wikilink">2013-13</a>）<br />
 <a href="../Page/布鲁克林篮网.md" title="wikilink">布鲁克林篮网</a>（<a href="https://zh.wikipedia.org/wiki/2013-14_NBA赛季" title="wikilink">2013-14</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a>（<a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>[7]）</p></td>
+<a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a>（<a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>[9]）</p></td>
 <td><p>1,568</p></td>
 <td><p>1.2</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>33</p></td>
-<td><p><a href="../Page/安德烈·伊格达拉.md" title="wikilink">安德烈·伊格达拉</a></p></td>
-<td><p>小前锋<br />
-得分后卫</p></td>
-<td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a>（<a href="../Page/2004-05_NBA赛季.md" title="wikilink">2004-05</a>-<a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a>）<br />
-<a href="../Page/丹佛掘金.md" title="wikilink">丹佛掘金</a>（<a href="../Page/2012-13_NBA赛季.md" title="wikilink">2012-13</a>）<br />
-<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>（<a href="https://zh.wikipedia.org/wiki/2013-14_NBA赛季" title="wikilink">2013-14</a>-<a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a>[8]）</p></td>
-<td><p>1,565</p></td>
-<td><p>1.7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>34</p></td>
+<td><p>35</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/道格·里弗斯" title="wikilink">道格·里弗斯</a></p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大老鷹" title="wikilink">亞特蘭大老鷹</a>（<a href="https://zh.wikipedia.org/wiki/1983-84_NBA賽季" title="wikilink">1983-84</a>–<a href="https://zh.wikipedia.org/wiki/1990-91_NBA賽季" title="wikilink">1990-91</a>）<br />
@@ -424,8 +431,8 @@
 <td><p>1.8</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>35</p></td>
+<tr class="even">
+<td><p>36</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink">拉里·伯德</a></p></td>
 <td><p>大前鋒<br />
 小前鋒</p></td>
@@ -434,8 +441,8 @@
 <td><p>1.7</p></td>
 <td><p>1998</p></td>
 </tr>
-<tr class="even">
-<td><p>36</p></td>
+<tr class="odd">
+<td><p>37</p></td>
 <td><p><a href="../Page/道格·克里斯蒂.md" title="wikilink">道格·克里斯蒂</a></p></td>
 <td><p>得分後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a>（<a href="https://zh.wikipedia.org/wiki/1992-93_NBA賽季" title="wikilink">1992-93</a>–<a href="https://zh.wikipedia.org/wiki/1993-94_NBA賽季" title="wikilink">1993-94</a>）<br />
@@ -449,8 +456,8 @@
 <td><p>1.9</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>37</p></td>
+<tr class="even">
+<td><p>38</p></td>
 <td><p><a href="../Page/安德烈·米勒.md" title="wikilink">安德烈·米勒</a></p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a>（<a href="https://zh.wikipedia.org/wiki/1999-00_NBA賽季" title="wikilink">1999-00</a>－<a href="https://zh.wikipedia.org/wiki/2001-02_NBA賽季" title="wikilink">2001-02</a>）<br />
@@ -467,8 +474,8 @@
 <td><p>1.2</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>38</p></td>
+<tr class="odd">
+<td><p>39</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/内特·麦克米兰" title="wikilink">内特·麦克米兰</a></p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西雅圖超音速" title="wikilink">西雅圖超音速</a>（<a href="https://zh.wikipedia.org/wiki/1986-87_NBA賽季" title="wikilink">1986-87</a>–<a href="https://zh.wikipedia.org/wiki/1997-98_NBA賽季" title="wikilink">1997-98</a>）</p></td>
@@ -476,8 +483,8 @@
 <td><p>1.9</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>39</p></td>
+<tr class="even">
+<td><p>40</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑夫·霍納塞克" title="wikilink">傑夫·霍納塞克</a></p></td>
 <td><p>得分後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鳳凰城太陽" title="wikilink">鳳凰城太陽</a>（<a href="https://zh.wikipedia.org/wiki/1986-87_NBA賽季" title="wikilink">1986-87</a>–<a href="https://zh.wikipedia.org/wiki/1991-92_NBA賽季" title="wikilink">1991-92</a>）<br />
@@ -487,8 +494,8 @@
 <td><p>1.4</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>40</p></td>
+<tr class="odd">
+<td><p>41</p></td>
 <td><p><a href="../Page/貝倫·戴維斯.md" title="wikilink">貝倫·戴維斯</a></p></td>
 <td><p>得分後衛</p></td>
 <td><p><a href="../Page/夏洛特黃蜂.md" title="wikilink">夏洛特黃蜂</a>（<a href="https://zh.wikipedia.org/wiki/1999-00_NBA賽季" title="wikilink">1999-00</a>－<a href="https://zh.wikipedia.org/wiki/2001-02_NBA賽季" title="wikilink">2001-02</a>）<br />
@@ -501,8 +508,8 @@
 <td><p>1.8</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>41</p></td>
+<tr class="even">
+<td><p>42</p></td>
 <td><p><a href="../Page/克里斯·穆林.md" title="wikilink">克里斯·穆林</a></p></td>
 <td><p>小前鋒</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>（<a href="https://zh.wikipedia.org/wiki/1985-86_NBA賽季" title="wikilink">1985-86</a>–<a href="https://zh.wikipedia.org/wiki/1996-97_NBA賽季" title="wikilink">1996-97</a>，<a href="https://zh.wikipedia.org/wiki/2000-01_NBA賽季" title="wikilink">2000-01</a>）<br />
@@ -510,15 +517,6 @@
 <td><p>1,530</p></td>
 <td><p>1.6</p></td>
 <td><p>2011</p></td>
-</tr>
-<tr class="even">
-<td><p>42</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德怀恩·韦德" title="wikilink">德怀恩·韦德</a></p></td>
-<td><p>得分後衛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迈阿密热" title="wikilink">迈阿密热</a>（<a href="https://zh.wikipedia.org/wiki/2003-04_NBA賽季" title="wikilink">2003-04</a>–<a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16</a>[9])</p></td>
-<td><p>1,524</p></td>
-<td><p>1.7</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
@@ -538,21 +536,26 @@
 </tr>
 <tr class="even">
 <td><p>44</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特雷沃·阿里扎" title="wikilink">特雷沃·阿里扎</a></p></td>
+<td><p>小前鋒</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約尼克" title="wikilink">紐約尼克</a>（<a href="https://zh.wikipedia.org/wiki/2004-05_NBA賽季" title="wikilink">2004-05</a>–<a href="https://zh.wikipedia.org/wiki/2005-06_NBA賽季" title="wikilink">2005-06</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/奧蘭多魔術" title="wikilink">奧蘭多魔術</a>（<a href="https://zh.wikipedia.org/wiki/2005-06_NBA賽季" title="wikilink">2005-06</a>）– <a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a>（<a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08</a>）–<a href="https://zh.wikipedia.org/wiki/2009-10_NBA賽季" title="wikilink">2009-10</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/紐澳良黃蜂" title="wikilink">紐澳良黃蜂</a>（<a href="../Page/2010-11_NBA賽季.md" title="wikilink">2010-11</a>）–<a href="https://zh.wikipedia.org/wiki/2011-12_NBA賽季" title="wikilink">2011-12</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/華盛頓巫師" title="wikilink">華盛頓巫師</a>（<a href="https://zh.wikipedia.org/wiki/2012-13_NBA賽季" title="wikilink">2012-13</a>）–<a href="../Page/2013-14_NBA賽季.md" title="wikilink">2013-14</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a>（<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>）–<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）</p></td>
+<td><p>1,515</p></td>
+<td><p>1.5</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>45</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朱利葉斯·歐文" title="wikilink">朱利葉斯·歐文</a></p></td>
 <td><p>小前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a>（<a href="https://zh.wikipedia.org/wiki/1976-77_NBA賽季" title="wikilink">1976-77</a>–<a href="https://zh.wikipedia.org/wiki/1986-87_NBA賽季" title="wikilink">1986-87</a>）</p></td>
 <td><p>1,508</p></td>
 <td><p>1.8</p></td>
 <td><p>1993</p></td>
-</tr>
-<tr class="odd">
-<td><p>45</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雷吉·米勒" title="wikilink">雷吉·米勒</a></p></td>
-<td><p>得分後衛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印第安那溜馬" title="wikilink">印第安那溜馬</a>（<a href="https://zh.wikipedia.org/wiki/1987-88_NBA賽季" title="wikilink">1987-88</a>–<a href="https://zh.wikipedia.org/wiki/2004-05_NBA賽季" title="wikilink">2004-05</a>）</p></td>
-<td><p>1,505</p></td>
-<td><p>1.1</p></td>
-<td><p>2012</p></td>
 </tr>
 <tr class="even">
 <td><p>46</p></td>
@@ -566,23 +569,18 @@
 <a href="../Page/孟菲斯灰熊.md" title="wikilink">孟菲斯灰熊</a>（<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>）–<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>）<br />
 <a href="../Page/沙加緬度國王.md" title="wikilink">沙加緬度國王</a>（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/亞特蘭大老鷹" title="wikilink">亞特蘭大老鷹</a>（<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>）</p></td>
-<td><p>1,489</p></td>
+<td><p>1,507</p></td>
 <td><p>1.0</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/特雷沃·阿里扎" title="wikilink">特雷沃·阿里扎</a></p></td>
-<td><p>小前鋒</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/紐約尼克" title="wikilink">紐約尼克</a>（<a href="https://zh.wikipedia.org/wiki/2004-05_NBA賽季" title="wikilink">2004-05</a>–<a href="https://zh.wikipedia.org/wiki/2005-06_NBA賽季" title="wikilink">2005-06</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/奧蘭多魔術" title="wikilink">奧蘭多魔術</a>（<a href="https://zh.wikipedia.org/wiki/2005-06_NBA賽季" title="wikilink">2005-06</a>）– <a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a>（<a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08</a>）–<a href="https://zh.wikipedia.org/wiki/2009-10_NBA賽季" title="wikilink">2009-10</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/紐澳良黃蜂" title="wikilink">紐澳良黃蜂</a>（<a href="../Page/2010-11_NBA賽季.md" title="wikilink">2010-11</a>）–<a href="https://zh.wikipedia.org/wiki/2011-12_NBA賽季" title="wikilink">2011-12</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/華盛頓巫師" title="wikilink">華盛頓巫師</a>（<a href="https://zh.wikipedia.org/wiki/2012-13_NBA賽季" title="wikilink">2012-13</a>）–<a href="../Page/2013-14_NBA賽季.md" title="wikilink">2013-14</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a>（<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>）–<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）</p></td>
-<td><p>1,488</p></td>
-<td><p>1.5</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷吉·米勒" title="wikilink">雷吉·米勒</a></p></td>
+<td><p>得分後衛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印第安那溜馬" title="wikilink">印第安那溜馬</a>（<a href="https://zh.wikipedia.org/wiki/1987-88_NBA賽季" title="wikilink">1987-88</a>–<a href="https://zh.wikipedia.org/wiki/2004-05_NBA賽季" title="wikilink">2004-05</a>）</p></td>
+<td><p>1,505</p></td>
+<td><p>1.1</p></td>
+<td><p>2012</p></td>
 </tr>
 <tr class="even">
 <td><p>48</p></td>
@@ -633,6 +631,8 @@
 ## 註腳
 
 <references />
+
+{{-}}
 
 [Category:NBA數據統計](https://zh.wikipedia.org/wiki/Category:NBA數據統計 "wikilink")
 

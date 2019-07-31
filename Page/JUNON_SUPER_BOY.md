@@ -1,17 +1,14 @@
-**JUNON SUPER
-BOY**，是由「主婦與生活社」發行的月刊雜誌「[JUNON](https://zh.wikipedia.org/wiki/JUNON "wikilink")」所主辦的美男子選拔賽。
+**JUNON SUPER BOY**，是由「主婦與生活社」發行的月刊雜誌「[JUNON](https://zh.wikipedia.org/wiki/JUNON "wikilink")」所主辦的美男子選拔賽。
 
 自1988年起開始舉辦，每年一回，進行情況揭載於月刊雜誌「JUNON」。
 
-選拔賽中通過最終審查的參賽者統稱為「**[JUNON
-BOY](https://zh.wikipedia.org/wiki/Category:JUNON_BOY "wikilink")**」。
+選拔賽中通過最終審查的參賽者統稱為「**[JUNON BOY](https://zh.wikipedia.org/wiki/Category:JUNON_BOY "wikilink")**」。
 
 ## 概要
 
 参加資格：13歳到22歳沒有經紀公司的男子。
 
-審查流程：第一次審査「資料審查」→第二次審査「面試&照相」→第三次審査「雜誌讀者人氣投票」→通過的前10名參賽者進行最終審査。另自2009年起在JUNON官方網站「PLATINUM
-JUNON」開始進行第二次審査落選者的敗部復活人氣投票活動。
+審查流程：第一次審査「資料審查」→第二次審査「面試&照相」→第三次審査「雜誌讀者人氣投票」→通過的前10名參賽者進行最終審査。另自2009年起在JUNON官方網站「PLATINUM JUNON」開始進行第二次審査落選者的敗部復活人氣投票活動。
 
 最終審査：進行方式為參賽者在觀眾、歷屆獲獎者及藝人來賓前表演才藝。
 
@@ -561,7 +558,4 @@ IVAN</p></td>
   - [JUNON SUPERBOY ANOTHERS](http://junonboy-anothers.com/pre)
   - [JUNON美男子channel｜FRESH\!](https://freshlive.tv/junon)
 
-[Category:男性選美活動](https://zh.wikipedia.org/wiki/Category:男性選美活動 "wikilink")
-[Category:日本選美活動](https://zh.wikipedia.org/wiki/Category:日本選美活動 "wikilink")
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
-[Category:JUNON_BOY](https://zh.wikipedia.org/wiki/Category:JUNON_BOY "wikilink")
+[Category:男性選美活動](https://zh.wikipedia.org/wiki/Category:男性選美活動 "wikilink") [Category:日本選美活動](https://zh.wikipedia.org/wiki/Category:日本選美活動 "wikilink") [Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink") [Category:JUNON_BOY](https://zh.wikipedia.org/wiki/Category:JUNON_BOY "wikilink")

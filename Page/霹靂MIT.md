@@ -1,5 +1,4 @@
-《**霹靂MIT**》（），是由[八大電視與](../Page/八大電視.md "wikilink")[三匠影視繼](https://zh.wikipedia.org/wiki/三匠影視 "wikilink")《[愛殺17](../Page/愛殺17.md "wikilink")》後再度合作開拍的懸疑[偶像劇](../Page/偶像劇.md "wikilink")。2007年12月18日開鏡。男女主角為[飛輪海成員](../Page/飛輪海.md "wikilink")[炎亞綸](../Page/炎亞綸.md "wikilink")、前[黑Girl成員](../Page/黑Girl.md "wikilink")[吳映潔（鬼鬼）以及](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")[黃鴻升
-(小鬼)](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[范瑋琪](../Page/范瑋琪.md "wikilink")。原先[楊士萱所飾演角色改由](../Page/楊士萱.md "wikilink")[陸廷威扮演](../Page/陸廷威.md "wikilink")。本劇已在台灣及香港的有線電視播畢。《霹靂MIT》以每集一推理單元為結構，喜劇成分背後隱含充滿寫實與深刻的人心刻畫，諷刺現代社會的教育政策與社會價值觀。
+《**霹靂MIT**》（），是由[八大電視](../Page/八大電視.md "wikilink")與[三匠影視繼](https://zh.wikipedia.org/wiki/三匠影視 "wikilink")《[愛殺17](../Page/愛殺17.md "wikilink")》後再度合作開拍的懸疑[偶像劇](../Page/偶像劇.md "wikilink")。2007年12月18日開鏡。男女主角為[飛輪海](../Page/飛輪海.md "wikilink")成員[炎亞綸](../Page/炎亞綸.md "wikilink")、前[黑Girl](../Page/黑Girl.md "wikilink")成員[吳映潔（鬼鬼）以及](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")[黃鴻升 (小鬼)](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[范瑋琪](../Page/范瑋琪.md "wikilink")。原先[楊士萱](../Page/楊士萱.md "wikilink")所飾演角色改由[陸廷威](../Page/陸廷威.md "wikilink")扮演。本劇已在台灣及香港的有線電視播畢。《霹靂MIT》以每集一推理單元為結構，喜劇成分背後隱含充滿寫實與深刻的人心刻畫，諷刺現代社會的教育政策與社會價值觀。
 
 電視劇以高畫質拍攝播送，且受[行政院新聞局](../Page/行政院新聞局.md "wikilink")[台灣優質高畫質電視節目補助](https://zh.wikipedia.org/wiki/台灣優質高畫質電視節目補助 "wikilink")。
 
@@ -801,22 +800,21 @@ MIT任務，即將出發……
 
 ## 大事紀
 
-  - 在《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》劇中「冷冽」一角本來由[炎亞綸](../Page/炎亞綸.md "wikilink")（[飛輪海成員](../Page/飛輪海.md "wikilink")）擔綱演出，但經由[可米製作和](https://zh.wikipedia.org/wiki/可米製作 "wikilink")[八大協議過後](../Page/八大電視.md "wikilink")，以雙方的角色交換過後會比較適合為由，決定將原本要演出《霹靂MIT》主角的[唐禹哲請來演出](../Page/唐禹哲.md "wikilink")「冷冽」一角，而[炎亞綸則演出](../Page/炎亞綸.md "wikilink")《霹靂MIT》的詹士德。
+  - 在《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》劇中「冷冽」一角本來由[炎亞綸](../Page/炎亞綸.md "wikilink")（[飛輪海](../Page/飛輪海.md "wikilink")成員）擔綱演出，但經由[可米製作和](https://zh.wikipedia.org/wiki/可米製作 "wikilink")[八大協議過後](../Page/八大電視.md "wikilink")，以雙方的角色交換過後會比較適合為由，決定將原本要演出《霹靂MIT》主角的[唐禹哲](../Page/唐禹哲.md "wikilink")請來演出「冷冽」一角，而[炎亞綸](../Page/炎亞綸.md "wikilink")則演出《霹靂MIT》的詹士德。
 
 <!-- end list -->
 
-  - 由[汪東城](../Page/汪東城.md "wikilink")（[飛輪海成員](../Page/飛輪海.md "wikilink")）主演的《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》開播後收視不如預期，外傳已危及到[炎亞綸初挑大樑的](../Page/炎亞綸.md "wikilink")《霹靂MIT》，據悉雖已拍畢，無線台播映權至2008年5月仍乏人問津，仍未拍板定案，原先傳出由[華視頻道播出](https://zh.wikipedia.org/wiki/華視 "wikilink")，後被[楊丞琳](../Page/楊丞琳.md "wikilink")、[潘瑋柏主演的](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")《[不良笑花](../Page/不良笑花.md "wikilink")》捷足先登。\[1\]
+  - 由[汪東城](../Page/汪東城.md "wikilink")（[飛輪海](../Page/飛輪海.md "wikilink")成員）主演的《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》開播後收視不如預期，外傳已危及到[炎亞綸](../Page/炎亞綸.md "wikilink")初挑大樑的《霹靂MIT》，據悉雖已拍畢，無線台播映權至2008年5月仍乏人問津，仍未拍板定案，原先傳出由[華視頻道播出](https://zh.wikipedia.org/wiki/華視 "wikilink")，後被[楊丞琳](../Page/楊丞琳.md "wikilink")、[潘瑋柏主演的](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")《[不良笑花](../Page/不良笑花.md "wikilink")》捷足先登。\[1\]
 
 <!-- end list -->
 
-  - 由 \[<http://stars.udn.com/>
-    「聯合追星網」舉辦的「新上檔或預定即上檔偶像劇，你最想看哪一部」[偶像劇大調查活動](../Page/偶像劇.md "wikilink")（投票期間：2008年7月1日至2008年7月15日），2008年7月16日凌晨揭曉票選結果，是由[炎亞綸](../Page/炎亞綸.md "wikilink")、[吳映潔（鬼鬼）主演的](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")《霹靂MIT》（38143票）奪下冠軍。其中，[明道和](https://zh.wikipedia.org/wiki/明道 "wikilink")[郭品超主演的](../Page/郭品超.md "wikilink")《[敲敲愛上你](../Page/敲敲愛上你.md "wikilink")》（26949票）及[言承旭](../Page/言承旭.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[吳尊主演的](../Page/吳尊.md "wikilink")《[籃球火](../Page/籃球火.md "wikilink")》（21433票）分佔最受期待的第二名和第三名。\[2\]
+  - 由 \[<http://stars.udn.com/> 「聯合追星網」舉辦的「新上檔或預定即上檔偶像劇，你最想看哪一部」[偶像劇](../Page/偶像劇.md "wikilink")大調查活動（投票期間：2008年7月1日至2008年7月15日），2008年7月16日凌晨揭曉票選結果，是由[炎亞綸](../Page/炎亞綸.md "wikilink")、[吳映潔（鬼鬼）主演的](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")《霹靂MIT》（38143票）奪下冠軍。其中，[明道和](https://zh.wikipedia.org/wiki/明道 "wikilink")[郭品超](../Page/郭品超.md "wikilink")主演的《[敲敲愛上你](../Page/敲敲愛上你.md "wikilink")》（26949票）及[言承旭](../Page/言承旭.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[吳尊](../Page/吳尊.md "wikilink")主演的《[籃球火](../Page/籃球火.md "wikilink")》（21433票）分佔最受期待的第二名和第三名。\[2\]
 
 ### 換角事件
 
-[楊士萱拍攝期間傳出因與媽媽發生爭執](../Page/楊士萱.md "wikilink")，加上當時服用抗憂鬱藥物，在精神狀況恍惚之下，於2008年1月15日晚間9點尾隨1名女大學生返家，在台北某大樓強對被害人掀裙、撕破褲襪、作勢拍照，後逃離現場，因現場遺留皮夾內證件而暴露身分。
+[楊士萱](../Page/楊士萱.md "wikilink")拍攝期間傳出因與媽媽發生爭執，加上當時服用抗憂鬱藥物，在精神狀況恍惚之下，於2008年1月15日晚間9點尾隨1名女大學生返家，在台北某大樓強對被害人掀裙、撕破褲襪、作勢拍照，後逃離現場，因現場遺留皮夾內證件而暴露身分。
 
-起初[楊士萱否認涉案](../Page/楊士萱.md "wikilink")，但27日由[經紀人和](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[律師陪同召開記者會公開坦承犯行](../Page/律師.md "wikilink")，1月29日事件進入司法程序。他參與演出的《霹靂MIT》製作單位三匠影視與[八大電視高層經開會討論](../Page/八大電視.md "wikilink")，28日發表正式聲明，確定換角，原本楊士萱出演的角色將改由曾同台合作拍攝《[愛殺17](../Page/愛殺17.md "wikilink")》的新人[陸廷威演出](../Page/陸廷威.md "wikilink")。
+起初[楊士萱](../Page/楊士萱.md "wikilink")否認涉案，但27日由[經紀人和](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[律師](../Page/律師.md "wikilink")陪同召開記者會公開坦承犯行，1月29日事件進入司法程序。他參與演出的《霹靂MIT》製作單位三匠影視與[八大電視](../Page/八大電視.md "wikilink")高層經開會討論，28日發表正式聲明，確定換角，原本楊士萱出演的角色將改由曾同台合作拍攝《[愛殺17](../Page/愛殺17.md "wikilink")》的新人[陸廷威](../Page/陸廷威.md "wikilink")演出。
 
 [士林地方法院於同年](../Page/臺灣士林地方法院.md "wikilink")7月16日審結此案，認為楊未觸及被害人身體，同意楊的「變態行為」辯解，不構成[性騷擾](https://zh.wikipedia.org/wiki/性騷擾 "wikilink")、猥褻罪，改依強制罪判其徒刑6個月、得易科罰金。
 
@@ -830,14 +828,12 @@ MIT任務，即將出發……
 
 ### 結局伏筆
 
-大結局劇情中有一句話是：『遊戲結束了嗎？其實才剛開始！』，引起網友們推測是否會拍攝《霹靂MIT》的續集，但三匠影視已宣佈不會拍攝續集。有部分網友則是希望同樣由[炎亞綸跟](../Page/炎亞綸.md "wikilink")[吳映潔（鬼鬼）主演的](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")《[桃花愛無敵](https://zh.wikipedia.org/wiki/桃花愛無敵 "wikilink")》能趕快復拍。但是《[桃花愛無敵](https://zh.wikipedia.org/wiki/桃花愛無敵 "wikilink")》已经改名为《[桃花小妹](https://zh.wikipedia.org/wiki/桃花小妹 "wikilink")》，由[王心凌和](../Page/王心凌.md "wikilink")[汪东城主演](https://zh.wikipedia.org/wiki/汪东城 "wikilink")。
+大結局劇情中有一句話是：『遊戲結束了嗎？其實才剛開始！』，引起網友們推測是否會拍攝《霹靂MIT》的續集，但三匠影視已宣佈不會拍攝續集。有部分網友則是希望同樣由[炎亞綸](../Page/炎亞綸.md "wikilink")跟[吳映潔（鬼鬼）主演的](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")《[桃花愛無敵](https://zh.wikipedia.org/wiki/桃花愛無敵 "wikilink")》能趕快復拍。但是《[桃花愛無敵](https://zh.wikipedia.org/wiki/桃花愛無敵 "wikilink")》已经改名为《[桃花小妹](https://zh.wikipedia.org/wiki/桃花小妹 "wikilink")》，由[王心凌](../Page/王心凌.md "wikilink")和[汪东城主演](https://zh.wikipedia.org/wiki/汪东城 "wikilink")。
 
 ## 週邊商品
 
-  - 《霹靂MIT》簽名商品獨家送
-    [詳細](http://www.obuy.com.tw/promotion/2008pili_mit/index.html)
-  - 《霹靂MIT》電視小說
-    [詳細](https://web.archive.org/web/20081203045200/http://www.books.com.tw/exep/prod/booksfile.php?item=0010420356)
+  - 《霹靂MIT》簽名商品獨家送 [詳細](http://www.obuy.com.tw/promotion/2008pili_mit/index.html)
+  - 《霹靂MIT》電視小說 [詳細](https://web.archive.org/web/20081203045200/http://www.books.com.tw/exep/prod/booksfile.php?item=0010420356)
 
 ## 收視率(民視)
 
@@ -870,16 +866,7 @@ MIT任務，即將出發……
 
 ## 作品的變遷
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2008年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2008年台灣電視劇集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:八大電視劇](https://zh.wikipedia.org/wiki/Category:八大電視劇 "wikilink")
-[Category:民視電視劇](https://zh.wikipedia.org/wiki/Category:民視電視劇 "wikilink")
-[Category:公視電視劇](https://zh.wikipedia.org/wiki/Category:公視電視劇 "wikilink")
-[Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink")
-[Category:台灣推理劇](https://zh.wikipedia.org/wiki/Category:台灣推理劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2008年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2008年台灣電視劇集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:八大電視劇](https://zh.wikipedia.org/wiki/Category:八大電視劇 "wikilink") [Category:民視電視劇](https://zh.wikipedia.org/wiki/Category:民視電視劇 "wikilink") [Category:公視電視劇](https://zh.wikipedia.org/wiki/Category:公視電視劇 "wikilink") [Category:台灣校園劇](https://zh.wikipedia.org/wiki/Category:台灣校園劇 "wikilink") [Category:台灣推理劇](https://zh.wikipedia.org/wiki/Category:台灣推理劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
-1.  [大東人氣下滑帶衰
-    炎亞綸消失無線台(2008/5/23)](http://www.libertytimes.com.tw/2008/new/may/23/today-show8.htm)
+1.  [大東人氣下滑帶衰 炎亞綸消失無線台(2008/5/23)](http://www.libertytimes.com.tw/2008/new/may/23/today-show8.htm)
 2.  [網友想看Ella新戲、最期待「霹靂MIT」(2008/7/16)](http://www.udn.com/2008/7/16/NEWS/ENTERTAINMENT/ENT1/4428483.shtml)

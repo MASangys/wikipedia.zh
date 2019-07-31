@@ -1,18 +1,10 @@
-《**週刊YOUNG JUMP**》（《WEEKLY YOUNG
-JUMP》）是由[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")发行的[青年漫画杂志](https://zh.wikipedia.org/wiki/青年漫画 "wikilink")。
-于1979年5月半月刊《YOUNG JUMP》创刊、1981年随着週刊化杂志名也变更为《週刊YOUNG
-JUMP》。逢星期四发售。简称为《YOUNG
-J》或《YJ》。也是日本歷史上目前刊行最久的週刊青年漫畫雜誌。
+《**週刊YOUNG JUMP**》（《WEEKLY YOUNG JUMP》）是由[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")发行的[青年漫画杂志](https://zh.wikipedia.org/wiki/青年漫画 "wikilink")。 于1979年5月半月刊《YOUNG JUMP》创刊、1981年随着週刊化杂志名也变更为《週刊YOUNG JUMP》。逢星期四发售。简称为《YOUNG J》或《YJ》。也是日本歷史上目前刊行最久的週刊青年漫畫雜誌。
 
 ## 概要
 
-創刊初期的編輯的規制有「（性暗示）[愛](../Page/愛.md "wikilink")、[暴力](../Page/暴力.md "wikilink")、[權力](../Page/權力.md "wikilink")（中解放）」。並延續《[週刊少年JUMP](../Page/週刊少年Jump.md "wikilink")》創刊以來的「友情、努力、勝利」的編輯規制，不過週刊YOUNG
-JUMP與週刊少年JUMP不同的是規制較自由，與2007年創刊的《Jump
-Square》的作品類似會帶會有社會問題、恐怖主義、悽慘的暴力、諷刺描寫等衝擊性很強的作品。
+創刊初期的編輯的規制有「（性暗示）[愛](../Page/愛.md "wikilink")、[暴力](../Page/暴力.md "wikilink")、[權力](../Page/權力.md "wikilink")（中解放）」。並延續《[週刊少年JUMP](../Page/週刊少年Jump.md "wikilink")》創刊以來的「友情、努力、勝利」的編輯規制，不過週刊YOUNG JUMP與週刊少年JUMP不同的是規制較自由，與2007年創刊的《Jump Square》的作品類似會帶會有社會問題、恐怖主義、悽慘的暴力、諷刺描寫等衝擊性很強的作品。
 
-另外，集英社於2010年在自家官網有成立YOUNG JUMP的線上網站『webYJ（Web YOUNG
-JUMP）』作發表新作品和連載作品上，後來集英社將它轉行用在發表MANGA的入圍作品，而新作發表和連載作品的運作則交由[隔壁的YOUNG
-JUMP（）](http://tonarinoyj.jp/)。
+另外，集英社於2010年在自家官網有成立YOUNG JUMP的線上網站『webYJ（Web YOUNG JUMP）』作發表新作品和連載作品上，後來集英社將它轉行用在發表MANGA的入圍作品，而新作發表和連載作品的運作則交由[隔壁的YOUNG JUMP（）](http://tonarinoyj.jp/)。
 
 ## 歷任總編輯
 
@@ -309,8 +301,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 
   - [酷哥辣妹搜查网](https://zh.wikipedia.org/wiki/酷哥辣妹搜查网 "wikilink")（[小手川瑜亚](https://zh.wikipedia.org/wiki/小手川瑜亚 "wikilink")）
 
-  - [足球小将-ROAD TO
-    2002](https://zh.wikipedia.org/wiki/足球小将 "wikilink")（[高桥阳一](../Page/高桥阳一.md "wikilink")）
+  - [足球小将-ROAD TO 2002](https://zh.wikipedia.org/wiki/足球小将 "wikilink")（[高桥阳一](../Page/高桥阳一.md "wikilink")）
 
   - [KIRARA](https://zh.wikipedia.org/wiki/KIRARA "wikilink")（[唯登诗树](https://zh.wikipedia.org/wiki/唯登诗树 "wikilink")）
 
@@ -338,15 +329,11 @@ JUMP（）](http://tonarinoyj.jp/)。
 
   - [守護靈](https://zh.wikipedia.org/wiki/守護靈 "wikilink")（原名：ヒトヒトリフタリ、[高橋努](../Page/高橋努.md "wikilink")）
 
-  - （[金田一蓮十郎](../Page/金田一蓮十郎.md "wikilink")）2012年28号 -
-    2013年30号、←從『[アオハル](https://zh.wikipedia.org/wiki/アオハル "wikilink")』移籍
+  - （[金田一蓮十郎](../Page/金田一蓮十郎.md "wikilink")）2012年28号 - 2013年30号、←從『[アオハル](https://zh.wikipedia.org/wiki/アオハル "wikilink")』移籍
 
-  - [WxY
-    ダブリューエックスワイ](https://zh.wikipedia.org/wiki/WxY "wikilink")（[マドカマチコ](https://zh.wikipedia.org/wiki/マドカマチコ "wikilink")）2012年30号
-    - 2014年12号
+  - [WxY ダブリューエックスワイ](https://zh.wikipedia.org/wiki/WxY "wikilink")（[マドカマチコ](https://zh.wikipedia.org/wiki/マドカマチコ "wikilink")）2012年30号 - 2014年12号
 
-  - [ニポンゴ](https://zh.wikipedia.org/wiki/ニポンゴ "wikilink")（）2011年50号[讀切版](https://zh.wikipedia.org/wiki/讀切 "wikilink")、2012年31号
-    - 2014年15号
+  - [ニポンゴ](https://zh.wikipedia.org/wiki/ニポンゴ "wikilink")（）2011年50号[讀切版](https://zh.wikipedia.org/wiki/讀切 "wikilink")、2012年31号 - 2014年15号
 
   - （）2011年41號－2014年42號連載
 
@@ -368,9 +355,4 @@ YOUNG JUMP網絡上連載的漫畫。
 
   - [週刊ヤングジャンプ公式サイト](http://yj.shueisha.co.jp/) - 官方网站
 
-[Category:1979年建立的出版物](https://zh.wikipedia.org/wiki/Category:1979年建立的出版物 "wikilink")
-[Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:週刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:週刊漫畫雜誌 "wikilink")
-[Category:集英社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:集英社的漫畫雜誌 "wikilink")
+[Category:1979年建立的出版物](https://zh.wikipedia.org/wiki/Category:1979年建立的出版物 "wikilink") [Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:週刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:週刊漫畫雜誌 "wikilink") [Category:集英社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:集英社的漫畫雜誌 "wikilink")

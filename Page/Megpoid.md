@@ -1,16 +1,12 @@
-是[Internet有限公司以](https://zh.wikipedia.org/wiki/INTERNET_\(公司\) "wikilink")[Yamaha的](https://zh.wikipedia.org/wiki/Yamaha "wikilink")[VOCALOID2語音合成引擎為基礎開發販售的虛擬女性歌手軟件](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")。收錄聲優中島愛錄音製作而成的語音資料庫，2015年12月發佈Megpoid
-V4聲庫。
+是[Internet有限公司以](https://zh.wikipedia.org/wiki/INTERNET_\(公司\) "wikilink")[Yamaha的](https://zh.wikipedia.org/wiki/Yamaha "wikilink")[VOCALOID2語音合成引擎為基礎開發販售的虛擬女性歌手軟件](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")。收錄聲優中島愛錄音製作而成的語音資料庫，2015年12月發佈Megpoid V4聲庫。
 
 ## 軟件簡介
 
-軟件使用了[Yamaha的](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")[VOCALOID
-2](../Page/VOCALOID.md "wikilink")[語音合成引擎](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，把人類的聲音錄音並合成為酷似真正的歌聲。只需輸入[音調](https://zh.wikipedia.org/wiki/音調 "wikilink")、歌詞則可發出聲音，亦可以調整震音、音速等的「感情參數」，最多能夠16人合唱，亦支援即時演奏、對應[ReWire](../Page/ReWire.md "wikilink")。製作完成後會以[WAV](../Page/WAV.md "wikilink")格式輸出，但軟件本身只可做出歌唱部分，伴奏音聲需要使用其他音樂軟件合成。歌詞輸入能辨認[平假名](../Page/平假名.md "wikilink")、[片假名](../Page/片假名.md "wikilink")和[羅馬字](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")，但不能辨認、作為助詞和、作為長音時會分別轉為、、、的發音，亦不能對應[促音](../Page/促音.md "wikilink")、[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")，需要自行修改\[1\]。
-Megpoid聲音十分柔和，但調重音時會有困難。調音難度相對容易，除了聲音間的調合性較好外，軟件本身也帶有使用教學。在中低音的表現優異，而且沒有常見的跳音問題；但相反的聲音拖尾的情況也很嚴重，而且在拉長音時會出現嚴重雜訊。
+軟件使用了[Yamaha的](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")[VOCALOID 2](../Page/VOCALOID.md "wikilink")[語音合成引擎](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，把人類的聲音錄音並合成為酷似真正的歌聲。只需輸入[音調](https://zh.wikipedia.org/wiki/音調 "wikilink")、歌詞則可發出聲音，亦可以調整震音、音速等的「感情參數」，最多能夠16人合唱，亦支援即時演奏、對應[ReWire](../Page/ReWire.md "wikilink")。製作完成後會以[WAV](../Page/WAV.md "wikilink")格式輸出，但軟件本身只可做出歌唱部分，伴奏音聲需要使用其他音樂軟件合成。歌詞輸入能辨認[平假名](../Page/平假名.md "wikilink")、[片假名](../Page/片假名.md "wikilink")和[羅馬字](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")，但不能辨認、作為助詞和、作為長音時會分別轉為、、、的發音，亦不能對應[促音](../Page/促音.md "wikilink")、[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")，需要自行修改\[1\]。 Megpoid聲音十分柔和，但調重音時會有困難。調音難度相對容易，除了聲音間的調合性較好外，軟件本身也帶有使用教學。在中低音的表現優異，而且沒有常見的跳音問題；但相反的聲音拖尾的情況也很嚴重，而且在拉長音時會出現嚴重雜訊。
 
 ### 需求配備
 
-  - 微處理器：Pentium4 2GHz／Athlon XP 2000+以上（推薦Pentium4 2.8GHz／Athlon 64
-    2800+以上）
+  - 微處理器：Pentium4 2GHz／Athlon XP 2000+以上（推薦Pentium4 2.8GHz／Athlon 64 2800+以上）
   - 作業系統：Windows 7／Vista／XP（7／Vista時推薦單機使用。另外也適合32bit版的OS）
   - RAM：512MB以上（推薦1GB以上，使用Real-time VOCALOID2 VST instrument時推薦2GB以上）
   - 光碟機：DVD-Rom
@@ -28,16 +24,14 @@ Megpoid聲音十分柔和，但調重音時會有困難。調音難度相對容�
 
   - 誕生日：2009年6月26日
   - 由於Internet社的VOCALOID發賣方針不是以「虛擬偶像」為重點，所以沒有設定GUMI的年齡、身高、體重。
-      - 年齡：大部分人也認為是在[巡音流歌](../Page/巡音流歌.md "wikilink")和[初音未來](../Page/初音未來.md "wikilink")之間（18歲），也有人說GUMI是9歲
-        （因為[中島愛曾說Megpoid的聲音像](https://zh.wikipedia.org/wiki/中島愛 "wikilink")9歲的自己）
+      - 年齡：大部分人也認為是在[巡音流歌](../Page/巡音流歌.md "wikilink")和[初音未來](../Page/初音未來.md "wikilink")之間（18歲），也有人說GUMI是9歲 （因為[中島愛曾說Megpoid的聲音像](https://zh.wikipedia.org/wiki/中島愛 "wikilink")9歲的自己）
   - 擅長的曲種：搖滾、電音、抒情系歌曲
   - 擅長的節奏：60BPM～175BPM
   - 擅長的音域：F3～A4
 
 ## Vocaloid 3 Megpoid
 
-舊稱為Megpoid
-Extend，於2011年10月21日發售。和[初音未來](../Page/初音未來.md "wikilink")或[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")append不同，不需原來的聲音資料庫並可個別使用。分成Power、Whisper、Sweet和Adult四個不同的資對庫，可分開購買或買入四合一的整合包，但Native資料庫需另外購買。英語English資料庫於2013年2月28日發售。
+舊稱為Megpoid Extend，於2011年10月21日發售。和[初音未來](../Page/初音未來.md "wikilink")或[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")append不同，不需原來的聲音資料庫並可個別使用。分成Power、Whisper、Sweet和Adult四個不同的資對庫，可分開購買或買入四合一的整合包，但Native資料庫需另外購買。英語English資料庫於2013年2月28日發售。
 
 ### Power
 
@@ -233,8 +227,7 @@ VOCALOID傳說曲是指歌曲影片再生數超過100萬人觀看的著名曲，
 
 #### 網路配信專輯
 
-以下是在「KarenT」、[iTunes
-Store之类的网络音乐配信平台上](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、注明了「Megpoid」或者「GUMI」作为歌手演唱的专辑。
+以下是在「KarenT」、[iTunes Store之类的网络音乐配信平台上](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、注明了「Megpoid」或者「GUMI」作为歌手演唱的专辑。
 
 <table>
 <thead>
@@ -558,9 +551,7 @@ Store之类的网络音乐配信平台上](https://zh.wikipedia.org/wiki/iTunes_
 
 **初音ミク Project mirai系列**
 
-> 任天堂3DS用音樂游戲。在2012年3月8日銷售的第一作『初音ミク and Future Stars Project
-> mirai』中，以嘉賓身分參加合唱樂曲「マトリョシカ」、「ハッピーシンセサイザ」，因發售當時GUMI的[黏土人](../Page/黏土人.md "wikilink")模型尚未發行，故沒有在游戲模組中登場。而2013年11月28日銷售繼篇『初音ミク
-> Project mirai 2』，因黏土人發行得以在游戲模組中登場。
+> 任天堂3DS用音樂游戲。在2012年3月8日銷售的第一作『初音ミク and Future Stars Project mirai』中，以嘉賓身分參加合唱樂曲「マトリョシカ」、「ハッピーシンセサイザ」，因發售當時GUMI的[黏土人](../Page/黏土人.md "wikilink")模型尚未發行，故沒有在游戲模組中登場。而2013年11月28日銷售繼篇『初音ミク Project mirai 2』，因黏土人發行得以在游戲模組中登場。
 
 **[太鼓達人系列](../Page/太鼓之達人系列.md "wikilink")**
 
@@ -661,12 +652,9 @@ Megpoid公式ファンブック\~GUMIの軌跡\~
 
 ## 試聽歌曲
 
-  - [BLUE
-    BUTTERFLY（オリジナル曲）](http://www7.ssw.co.jp/vl2/megpoid_bluebtfly.wax)
-  - [Fly Me to The
-    Moon-Part1](http://www7.ssw.co.jp/vl2/megpoid_flyme1.wax)
-  - [Fly Me to The
-    Moon-Part2](http://www7.ssw.co.jp/vl2/megpoid_flyme2.wax)
+  - [BLUE BUTTERFLY（オリジナル曲）](http://www7.ssw.co.jp/vl2/megpoid_bluebtfly.wax)
+  - [Fly Me to The Moon-Part1](http://www7.ssw.co.jp/vl2/megpoid_flyme1.wax)
+  - [Fly Me to The Moon-Part2](http://www7.ssw.co.jp/vl2/megpoid_flyme2.wax)
   - [Be MYSELF（1コーラス）](http://www7.ssw.co.jp/vl2/megpoid_bemyself2.wax)
   - [Be MYSELF](http://www7.ssw.co.jp/vl2/megpoid_bemyself.wax)
 
@@ -682,11 +670,6 @@ Megpoid公式ファンブック\~GUMIの軌跡\~
 
   - [Megpoid（メグッポイド）](http://www.ssw.co.jp/products/vocal/megpoid/index.html)
 
-[Category:Vocaloid2引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid2引擎产品 "wikilink")
-[Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink")
-[Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink")
-[Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
-[Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink")
-[Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
+[Category:Vocaloid2引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid2引擎产品 "wikilink") [Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink") [Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink") [Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink") [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
 
 1.  《DTM MAGAZINE》2008年1月號 P.29

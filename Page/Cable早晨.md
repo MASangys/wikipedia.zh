@@ -1,12 +1,12 @@
 **Cable早晨**（）是[香港有線新聞有限公司製作的兩小時](https://zh.wikipedia.org/wiki/香港有線新聞有限公司 "wikilink")[直播](https://zh.wikipedia.org/wiki/直播 "wikilink")[早晨](https://zh.wikipedia.org/wiki/早晨 "wikilink")[新聞節目](../Page/新聞節目.md "wikilink")，以輕鬆並帶著朝氣活力的方式，為[早上剛醒來的](https://zh.wikipedia.org/wiki/早上 "wikilink")[觀眾提供各類型](https://zh.wikipedia.org/wiki/觀眾 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")。
 
-節目賣點為其獨有的環節，即互動形式的[天氣報告和今日新聞焦點](https://zh.wikipedia.org/wiki/天氣報告 "wikilink")。在頭一節先由主播在直播室的電視牆前闡釋[香港天文台的即日及未來數天](../Page/香港天文台.md "wikilink")[天氣預測](https://zh.wikipedia.org/wiki/天氣 "wikilink")，透過直播鏡頭描述戶外即時天色狀況，觀測雲層、陽光與能見度變化。在每半小時的節目尾聲，會預告當日的數個新聞焦點，預視觀眾時事動向。此外，亦有今日社評和報章摘要環節，提供當日報章的觀點。
+節目賣點為其獨有的環節，即互動形式的[天氣報告和今日新聞焦點](https://zh.wikipedia.org/wiki/天氣報告 "wikilink")。在頭一節先由主播在直播室的電視牆前闡釋[香港天文台](../Page/香港天文台.md "wikilink")的即日及未來數天[天氣預測](https://zh.wikipedia.org/wiki/天氣 "wikilink")，透過直播鏡頭描述戶外即時天色狀況，觀測雲層、陽光與能見度變化。在每半小時的節目尾聲，會預告當日的數個新聞焦點，預視觀眾時事動向。此外，亦有今日社評和報章摘要環節，提供當日報章的觀點。
 
 而為了令節目生動、讓觀眾有親切感，主播、編輯和導播早於節目開始前三小時——即凌晨四時——便要開始準備，訂出主打新聞、構思開場白，以及互動形式的天氣環節。節目歷年來經過最少數次改革。
 
-節目每半小時開始一遍，每次分三部份播出，以[廣告劃分](../Page/廣告.md "wikilink")。節目最初只於[有線新聞台](../Page/有線新聞台.md "wikilink")（第9頻道）播映。其後，[有線第1台](../Page/有線第1台.md "wikilink")（第4頻道）亦開始同步播映；而[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")（第8頻道）曾於星期一至五早上非[港股交易日亦會聯播](https://zh.wikipedia.org/wiki/港股 "wikilink")，直至2018年7月30日因《[創富早餐](https://zh.wikipedia.org/wiki/創富早餐 "wikilink")》停播，港股交易日起亦會同步播映。有線新聞踏入高清時代後，節目同時於[有線高清新聞台](../Page/有線新聞台.md "wikilink")（第209頻道）播出。免費電視頻道[香港開電視](../Page/香港開電視.md "wikilink")（第1/3台）由2018年元旦起同步播出。
+節目每半小時開始一遍，每次分三部份播出，以[廣告](../Page/廣告.md "wikilink")劃分。節目最初只於[有線新聞台](../Page/有線新聞台.md "wikilink")（第9頻道）播映。其後，[有線第1台](../Page/有線第1台.md "wikilink")（第4頻道）亦開始同步播映；而[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")（第8頻道）曾於星期一至五早上非[港股交易日亦會聯播](https://zh.wikipedia.org/wiki/港股 "wikilink")，直至2018年7月30日因《[創富早餐](https://zh.wikipedia.org/wiki/創富早餐 "wikilink")》停播，港股交易日起亦會同步播映。有線新聞踏入高清時代後，節目同時於[有線高清新聞台](../Page/有線新聞台.md "wikilink")（第209頻道）播出。免費電視頻道[香港開電視](../Page/香港開電視.md "wikilink")（第1/3台）由2018年元旦起同步播出。
 
-當有突發事件發生時，會暫停各環節，由[主播和記者透過直播畫面或最新片段](https://zh.wikipedia.org/wiki/香港有線電視新聞#主播、主持及記者 "wikilink")，作即時的旁述和報道。香港其他電視台的早晨新聞節目有[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[香港早晨](../Page/香港早晨.md "wikilink")》、[now寬頻電視的](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")《[Now早晨](../Page/Now早晨.md "wikilink")》和[港台電視的](../Page/港台電視.md "wikilink")《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》。本節目為於2018年1月1日之前，唯一沒有在香港免費電視台播出的早晨新聞節目\[1\]。
+當有突發事件發生時，會暫停各環節，由[主播和記者透過直播畫面或最新片段](https://zh.wikipedia.org/wiki/香港有線電視新聞#主播、主持及記者 "wikilink")，作即時的旁述和報道。香港其他電視台的早晨新聞節目有[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[香港早晨](../Page/香港早晨.md "wikilink")》、[now寬頻電視的](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")《[Now早晨](../Page/Now早晨.md "wikilink")》和[港台電視](../Page/港台電視.md "wikilink")的《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》。本節目為於2018年1月1日之前，唯一沒有在香港免費電視台播出的早晨新聞節目\[1\]。
 
 節目曾以每半小時分三部份播出，首節主播先以數分鐘時間把重點新聞包括本港、國際、財經和體育消息，按重要和觀眾關心程度概述一遍，但近年已取消此安排，並恢復每半小時兩節播出。
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - 2016年1月1日，節目採用高清拍攝，改於全新直播室進行直播。描述當天的天氣狀況時亦會直播香港各地的畫面，例如[維港](https://zh.wikipedia.org/wiki/維港 "wikilink")、荃灣、[黃大仙](https://zh.wikipedia.org/wiki/黃大仙 "wikilink")、[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[城門河](../Page/城門河.md "wikilink")、[紅磡海旁](../Page/紅磡.md "wikilink")、[觀塘海旁等](../Page/觀塘.md "wikilink")。但由於成本高昂，有關安排在不足半年已取消。
+  - 2016年1月1日，節目採用高清拍攝，改於全新直播室進行直播。描述當天的天氣狀況時亦會直播香港各地的畫面，例如[維港](https://zh.wikipedia.org/wiki/維港 "wikilink")、荃灣、[黃大仙](https://zh.wikipedia.org/wiki/黃大仙 "wikilink")、[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[城門河](../Page/城門河.md "wikilink")、[紅磡](../Page/紅磡.md "wikilink")海旁、[觀塘](../Page/觀塘.md "wikilink")海旁等。但由於成本高昂，有關安排在不足半年已取消。
 
 <!-- end list -->
 
@@ -48,11 +48,11 @@
 
 <!-- end list -->
 
-  - 2018年1月1日，[奇妙電視中文台](https://zh.wikipedia.org/wiki/奇妙電視中文台 "wikilink")（現稱「[香港開電視](../Page/香港開電視.md "wikilink")」）開始播放本節目；節目同時在[有線新聞台](../Page/有線新聞台.md "wikilink")、[有線第1台和奇妙電視中文台](../Page/有線第1台.md "wikilink")（現稱「香港開電視」）聯播。
+  - 2018年1月1日，[奇妙電視中文台](https://zh.wikipedia.org/wiki/奇妙電視中文台 "wikilink")（現稱「[香港開電視](../Page/香港開電視.md "wikilink")」）開始播放本節目；節目同時在[有線新聞台](../Page/有線新聞台.md "wikilink")、[有線第1台](../Page/有線第1台.md "wikilink")和奇妙電視中文台（現稱「香港開電視」）聯播。
 
 <!-- end list -->
 
-  - 2018年7月30日，因《[創富早餐](https://zh.wikipedia.org/wiki/創富早餐 "wikilink")》停播，[有線財經資訊台逢港股交易日開始播放本節目](../Page/有線財經資訊台.md "wikilink")；節目同時在有線新聞台、有線第1台、有線財經資訊台和奇妙電視中文台（現稱「香港開電視」）聯播。
+  - 2018年7月30日，因《[創富早餐](https://zh.wikipedia.org/wiki/創富早餐 "wikilink")》停播，[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")逢港股交易日開始播放本節目；節目同時在有線新聞台、有線第1台、有線財經資訊台和奇妙電視中文台（現稱「香港開電視」）聯播。
 
 <!-- end list -->
 
@@ -84,31 +84,30 @@
 
 Cable早晨由兩位[有線電視主播主持](https://zh.wikipedia.org/wiki/香港有線新聞有限公司#主播、主持及記者 "wikilink")，通常為一男一女年輕主播，或者兩位女年輕主播，以配合節目的活力、輕鬆形象。
 
-節目當年剛開始播映時由[張宏艷和](../Page/張宏艷.md "wikilink")[莊安宜負責](../Page/莊安宜.md "wikilink")，初時還有一位財經主播一同在虛擬場景中主持。亦曾由較資深的[王靜茵和](../Page/王靜茵.md "wikilink")[關善茹配上新加盟的主播以作培訓](https://zh.wikipedia.org/wiki/關善茹 "wikilink")。
+節目當年剛開始播映時由[張宏艷](../Page/張宏艷.md "wikilink")和[莊安宜](../Page/莊安宜.md "wikilink")負責，初時還有一位財經主播一同在虛擬場景中主持。亦曾由較資深的[王靜茵](../Page/王靜茵.md "wikilink")和[關善茹配上新加盟的主播以作培訓](https://zh.wikipedia.org/wiki/關善茹 "wikilink")。
 
-2009年8月31日起，全新面貌的Cable早晨，初期由[盧頌萱和](https://zh.wikipedia.org/wiki/盧頌萱 "wikilink")[王春媚負責](../Page/王春媚.md "wikilink")。至11月中，由[王沛然取代王春媚主持](../Page/王沛然.md "wikilink")；2010年3月下旬起，[張曉雯取代](../Page/張曉雯.md "wikilink")[王沛然主持](../Page/王沛然.md "wikilink")。而[關善茹亦會間中主持](https://zh.wikipedia.org/wiki/關善茹 "wikilink")。
+2009年8月31日起，全新面貌的Cable早晨，初期由[盧頌萱和](https://zh.wikipedia.org/wiki/盧頌萱 "wikilink")[王春媚](../Page/王春媚.md "wikilink")負責。至11月中，由[王沛然](../Page/王沛然.md "wikilink")取代王春媚主持；2010年3月下旬起，[張曉雯](../Page/張曉雯.md "wikilink")取代[王沛然](../Page/王沛然.md "wikilink")主持。而[關善茹亦會間中主持](https://zh.wikipedia.org/wiki/關善茹 "wikilink")。
 
-2010年5月10日起，由[王春媚及](../Page/王春媚.md "wikilink")[關善茹主持](https://zh.wikipedia.org/wiki/關善茹 "wikilink")；5月中旬起，由[游安怡取代關善茹主持](../Page/游安怡.md "wikilink")。8-9月期間，[黃凱欣一度主持Cable早晨](https://zh.wikipedia.org/wiki/黃凱欣 "wikilink")。同年9月13日起，由[關善茹及](https://zh.wikipedia.org/wiki/關善茹 "wikilink")[羅慧沁主持](https://zh.wikipedia.org/wiki/羅慧沁 "wikilink")，但在翌日起，便由[游安怡取代關善茹主持](../Page/游安怡.md "wikilink")。在9月27日起，恢復由[關善茹及](https://zh.wikipedia.org/wiki/關善茹 "wikilink")[羅慧沁主持](https://zh.wikipedia.org/wiki/羅慧沁 "wikilink")。
+2010年5月10日起，由[王春媚](../Page/王春媚.md "wikilink")及[關善茹主持](https://zh.wikipedia.org/wiki/關善茹 "wikilink")；5月中旬起，由[游安怡](../Page/游安怡.md "wikilink")取代關善茹主持。8-9月期間，[黃凱欣一度主持Cable早晨](https://zh.wikipedia.org/wiki/黃凱欣 "wikilink")。同年9月13日起，由[關善茹及](https://zh.wikipedia.org/wiki/關善茹 "wikilink")[羅慧沁主持](https://zh.wikipedia.org/wiki/羅慧沁 "wikilink")，但在翌日起，便由[游安怡](../Page/游安怡.md "wikilink")取代關善茹主持。在9月27日起，恢復由[關善茹及](https://zh.wikipedia.org/wiki/關善茹 "wikilink")[羅慧沁主持](https://zh.wikipedia.org/wiki/羅慧沁 "wikilink")。
 
-2013年12月9日起，經改革後的Cable早晨由[張靜文及](../Page/張靜文.md "wikilink")[張惠萍主持](https://zh.wikipedia.org/wiki/張惠萍 "wikilink")，其後另外數名主播麥恬昕、胡凱文相繼加入。
+2013年12月9日起，經改革後的Cable早晨由[張靜文](../Page/張靜文.md "wikilink")及[張惠萍主持](https://zh.wikipedia.org/wiki/張惠萍 "wikilink")，其後另外數名主播麥恬昕、胡凱文相繼加入。
 
 ## 參見
 
   - [香港有線電視](../Page/香港有線電視.md "wikilink")
   - [有線電視主播和記者](https://zh.wikipedia.org/wiki/香港有線新聞有限公司#主播、主持及記者 "wikilink")
-  - 2003年宣傳片段：[2003年Cable早晨](http://www.youtube.com/watch?v=FrqVmOfq8Ks)
-  - 2009年宣傳片段：[Cable早晨
-    朝朝醒晨](http://www.youtube.com/watch?v=qCabZqoPOVs&e)
-  - [Cable早晨開場（有線新聞台視角）](https://www.youtube.com/watch?v=X8meEX1Ufbk)
-  - [Cable早晨開場（香港開電視視角）](https://www.youtube.com/watch?v=odrqV-vw8-Y)
+  - Cable早晨開場：[有線新聞台視角](https://www.youtube.com/watch?v=X8meEX1Ufbk)、[香港開電視視角](https://www.youtube.com/watch?v=odrqV-vw8-Y)
 
 ## 節目調動（[香港開電視](../Page/香港開電視.md "wikilink")）
 
 ### 常規調動
 
-  - 2018年8月20日至9月2日，由於07:00-08:00播出《[亞運最精彩](https://zh.wikipedia.org/wiki/2018年亞洲運動會 "wikilink")》，延至08:00才聯播**Cable早晨**。
+  - 2018年8月20日至9月2日，由於07:00-08:00播出《[亞運最精彩](https://zh.wikipedia.org/wiki/2018年亞洲運動會 "wikilink")》，延至08:00播出。
 
 ### 特別調動
+
+  - 2019年7月22日，由於05:55-08:00直播《利物浦季前熱身賽 - 利物浦 對 西維爾》，當日原定延至08:00播出。但因球賽超時，須於08:15第二節時段才加入聯播。
+  - 2019年7月25日，由於07:55-10:00直播《利物浦季前熱身賽 - 利物浦 對 士砵亭》，提早於07:55結束聯播。
 
 ## 參考文獻附註
 
@@ -121,12 +120,7 @@ Cable早晨由兩位[有線電視主播主持](https://zh.wikipedia.org/wiki/香
   - [十一點半最前線](https://zh.wikipedia.org/wiki/十一點半最前線 "wikilink")
   - [午夜最前線](https://zh.wikipedia.org/wiki/午夜最前線 "wikilink")
 
-[Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink")
-[Category:香港電視新聞節目](https://zh.wikipedia.org/wiki/Category:香港電視新聞節目 "wikilink")
-[Category:早間電視節目](https://zh.wikipedia.org/wiki/Category:早間電視節目 "wikilink")
-[Category:香港電視小作品](https://zh.wikipedia.org/wiki/Category:香港電視小作品 "wikilink")
-[Category:奇妙電視節目](https://zh.wikipedia.org/wiki/Category:奇妙電視節目 "wikilink")
+[Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink") [Category:香港電視新聞節目](https://zh.wikipedia.org/wiki/Category:香港電視新聞節目 "wikilink") [Category:早間電視節目](https://zh.wikipedia.org/wiki/Category:早間電視節目 "wikilink") [Category:香港電視小作品](https://zh.wikipedia.org/wiki/Category:香港電視小作品 "wikilink") [Category:奇妙電視節目](https://zh.wikipedia.org/wiki/Category:奇妙電視節目 "wikilink")
 
-1.  《[香港早晨](../Page/香港早晨.md "wikilink")》在[翡翠台和](../Page/翡翠台.md "wikilink")[無綫新聞台播出](../Page/無綫新聞台.md "wikilink")，《[Now早晨](../Page/Now早晨.md "wikilink")》在[ViuTV播出](../Page/ViuTV.md "wikilink")，《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》在[港台電視31、31A播出](../Page/港台電視31、31A.md "wikilink")
-2.  [有線電視大廈發生火警](http://www.mpinews.com/htm/INews/20061031/gb20836t.htm)
-    （明報）
+1.  《[香港早晨](../Page/香港早晨.md "wikilink")》在[翡翠台](../Page/翡翠台.md "wikilink")和[無綫新聞台](../Page/無綫新聞台.md "wikilink")播出，《[Now早晨](../Page/Now早晨.md "wikilink")》在[ViuTV](../Page/ViuTV.md "wikilink")播出，《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》在[港台電視31、31A](../Page/港台電視31、31A.md "wikilink")播出
+2.  [有線電視大廈發生火警](http://www.mpinews.com/htm/INews/20061031/gb20836t.htm) （明報）

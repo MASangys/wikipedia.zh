@@ -1,30 +1,24 @@
-[LED_TV.jpg](https://zh.wikipedia.org/wiki/File:LED_TV.jpg "fig:LED_TV.jpg")
-[LCDTV_&_LEDTV.jpg](https://zh.wikipedia.org/wiki/File:LCDTV_&_LEDTV.jpg "fig:LCDTV_&_LEDTV.jpg")
-[LCD_TV_與_LED_TV比較2_小.jpg](https://zh.wikipedia.org/wiki/File:LCD_TV_與_LED_TV比較2_小.jpg "fig:LCD_TV_與_LED_TV比較2_小.jpg")
+[LED_TV.jpg](https://zh.wikipedia.org/wiki/File:LED_TV.jpg "fig:LED_TV.jpg") [LCDTV_&_LEDTV.jpg](https://zh.wikipedia.org/wiki/File:LCDTV_&_LEDTV.jpg "fig:LCDTV_&_LEDTV.jpg") [LCD_TV_與_LED_TV比較2_小.jpg](https://zh.wikipedia.org/wiki/File:LCD_TV_與_LED_TV比較2_小.jpg "fig:LCD_TV_與_LED_TV比較2_小.jpg")
 
-**LED背光液晶顯示電視**（LED-backlit LCD
-television），是使用[發光二極體](https://zh.wikipedia.org/wiki/發光二極體 "wikilink")（LED）作為[背光](../Page/背光.md "wikilink")源的[液晶顯示電視](https://zh.wikipedia.org/wiki/液晶顯示電視 "wikilink")。部分电视机生产廠商，如[三星](../Page/三星電子.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[东芝](../Page/东芝.md "wikilink")、[飞利浦](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")、[乐金及](https://zh.wikipedia.org/wiki/乐金 "wikilink")[索尼](../Page/索尼.md "wikilink")等将其稱为**LED電視**，但此並不是指使用[發光二極管做為圖像顯示的](../Page/发光二极管显示器.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")。
+**LED背光液晶顯示電視**（LED-backlit LCD television），是使用[發光二極體](https://zh.wikipedia.org/wiki/發光二極體 "wikilink")（LED）作為[背光](../Page/背光.md "wikilink")源的[液晶顯示電視](https://zh.wikipedia.org/wiki/液晶顯示電視 "wikilink")。部分电视机生产廠商，如[三星](../Page/三星電子.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[东芝](../Page/东芝.md "wikilink")、[飞利浦](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")、[乐金及](https://zh.wikipedia.org/wiki/乐金 "wikilink")[索尼](../Page/索尼.md "wikilink")等将其稱为**LED電視**，但此並不是指使用[發光二極管做為圖像顯示的](../Page/发光二极管显示器.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")。
 
 隨著發光二極管电视市場競爭日趨激烈，加上發光二極管應用逐漸成熟，各家電視廠商紛紛積極導入發光二極管背光液晶顯示電視，企圖在家用電視改朝換代之際能夠拔得頭籌。
 
 ## 發光二極管背光技術種類
 
-發光二極管背光技術可分為直下式（direct back-lit或 full LED array back-lit）與側照式（edge LED
-back-lit）兩種，而當中直下式所使用的發光二極管有分為白光發光二極管與紅、綠、藍三色發光二極管兩種。
+發光二極管背光技術可分為直下式（direct back-lit或 full LED array back-lit）與側照式（edge LED back-lit）兩種，而當中直下式所使用的發光二極管有分為白光發光二極管與紅、綠、藍三色發光二極管兩種。
 
 ### 直下式發光二極管背光技術
 
 直下式發光二極管背光技術是把多枚發光二極管排成[陣列](https://zh.wikipedia.org/wiki/陣列 "wikilink")，放在散光片及LCD後面，直接照射LCD。如此，直下式可以依從畫面不同部份的光度變化，快速地微調發光二極管的明暗，大為提高[動態對比度達至](https://zh.wikipedia.org/wiki/動態對比度 "wikilink")[等離子顯示器的水平](https://zh.wikipedia.org/wiki/等離子顯示器 "wikilink")。缺點也就是需使用數量較多的發光二極管，耗電、體積厚、價格較高。
 
-直下式發光二極管背光所使用的有白光發光二極管，也有使用紅、綠、藍三種單色發光二極管（RGB LED）的，使用RGB
-LED可以有更闊[光頻譜](https://zh.wikipedia.org/wiki/光頻譜 "wikilink")，也即有更廣[色域](../Page/色域.md "wikilink")。
+直下式發光二極管背光所使用的有白光發光二極管，也有使用紅、綠、藍三種單色發光二極管（RGB LED）的，使用RGB LED可以有更闊[光頻譜](https://zh.wikipedia.org/wiki/光頻譜 "wikilink")，也即有更廣[色域](../Page/色域.md "wikilink")。
 
 ### 側照式發光二極管背光技術
 
 側照式發光二極管背光技術是把白光發光二極管放在LCD的四邊，LCD後有一與LCD大小相近的反光片，發光二極管從LCD與反光片之間的縫中照進去，反光片上特別設計的微紋能把LED照來的光作90°反射後照向LCD的背部。此等反射片精細得在不需散光片的情況下也能使發光二極管的光平均地分佈地照到LCD背部。
 
-相對RGB
-LED，白光發光二極管較為耗電，加上反光片有損耗及LED照射角等因素，側照式LED原先的耗電會較高，但因為沒有散光片，省去了散光片的損耗，側照式LED背光的耗電可以做到與直照式同級。
+相對RGB LED，白光發光二極管較為耗電，加上反光片有損耗及LED照射角等因素，側照式LED原先的耗電會較高，但因為沒有散光片，省去了散光片的損耗，側照式LED背光的耗電可以做到與直照式同級。
 
 側照式可以比直下式做的更輕薄，但色域及對比度都不及直下式。
 
@@ -44,5 +38,4 @@ LED，白光發光二極管較為耗電，加上反光片有損耗及LED照射�
 
 ## 腳注
 
-[Category:电视机](https://zh.wikipedia.org/wiki/Category:电视机 "wikilink")
-[Category:顯示科技](https://zh.wikipedia.org/wiki/Category:顯示科技 "wikilink")
+[Category:电视机](https://zh.wikipedia.org/wiki/Category:电视机 "wikilink") [Category:顯示科技](https://zh.wikipedia.org/wiki/Category:顯示科技 "wikilink")

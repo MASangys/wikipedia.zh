@@ -1,14 +1,12 @@
-**KPV重機槍**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：，意為：弗拉基米重機槍）是[蘇聯制造的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，發射[14.5×114毫米彈藥](https://zh.wikipedia.org/wiki/14.5×114毫米 "wikilink")，與[二戰蘇聯的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[反坦克步槍彈藥相同](../Page/反坦克步槍.md "wikilink")。
+**KPV重機槍**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：，意為：弗拉基米重機槍）是[蘇聯制造的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，發射[14.5×114毫米彈藥](https://zh.wikipedia.org/wiki/14.5×114毫米 "wikilink")，與[二戰蘇聯的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[反坦克步槍](../Page/反坦克步槍.md "wikilink")彈藥相同。
 
 ## 簡介
 
-[KPVrear.jpg](https://zh.wikipedia.org/wiki/File:KPVrear.jpg "fig:KPVrear.jpg")
-KPV重機槍1949年定位為步兵武器，但因太大及太重，在60年代改為防空武器。用作防空的KPV效果良好，可裝在[ZPU-4](https://zh.wikipedia.org/wiki/ZPU-4 "wikilink")、[ZPU-2及](https://zh.wikipedia.org/wiki/ZPU-2 "wikilink")[ZPU-1上對](https://zh.wikipedia.org/wiki/ZPU-1 "wikilink")1500米內低飛的飛機或直升機射擊。裝在[BTR系列及](https://zh.wikipedia.org/wiki/BTR-60 "wikilink")[BRDM-2上的KPV令車輛火力提升](https://zh.wikipedia.org/wiki/BRDM-2 "wikilink")，而坦克上的KPV重機槍名為**KPVT**。
+[KPVrear.jpg](https://zh.wikipedia.org/wiki/File:KPVrear.jpg "fig:KPVrear.jpg") KPV重機槍1949年定位為步兵武器，但因太大及太重，在60年代改為防空武器。用作防空的KPV效果良好，可裝在[ZPU-4](https://zh.wikipedia.org/wiki/ZPU-4 "wikilink")、[ZPU-2及](https://zh.wikipedia.org/wiki/ZPU-2 "wikilink")[ZPU-1上對](https://zh.wikipedia.org/wiki/ZPU-1 "wikilink")1500米內低飛的飛機或直升機射擊。裝在[BTR系列及](https://zh.wikipedia.org/wiki/BTR-60 "wikilink")[BRDM-2上的KPV令車輛火力提升](https://zh.wikipedia.org/wiki/BRDM-2 "wikilink")，而坦克上的KPV重機槍名為**KPVT**。
 
 [朝鮮也把KPV重機槍用於其國產的](https://zh.wikipedia.org/wiki/朝鮮 "wikilink")[T-62主戰坦克並重新命名為](https://zh.wikipedia.org/wiki/T-62主戰坦克 "wikilink")[天馬虎主戰坦克](../Page/天馬虎主戰坦克.md "wikilink")。
 
-中國亦有對KPV進行仿制，名為56式四联高射机枪（type
-56）。其继任者是02式重机枪。主要的不同點是重量降低，配用轻型枪架和瞄准具，并开始使用同口径新型号枪弹（新旧弹药口径通用）。\[1\]。
+中國亦有對KPV進行仿制，名為56式四联高射机枪（type 56）。其继任者是02式重机枪。主要的不同點是重量降低，配用轻型枪架和瞄准具，并开始使用同口径新型号枪弹（新旧弹药口径通用）。\[1\]。
 
 ## 彈藥
 
@@ -19,7 +17,7 @@ KPV重機槍1949年定位為步兵武器，但因太大及太重，在60年代�
   - DGE-02—穿甲爆炸燃烧弹（APEI），为中国生产的新型号。色标为弹尖涂黑加黄圈且弹头余部涂紫。
   - DGJ-02—钨芯脱壳穿甲弹，为中国生产的新型号，据称初速可达1450m/s。
 
-[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")、[中國](../Page/中國.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[波蘭及](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[羅馬尼亞亦有制造以上彈藥](../Page/羅馬尼亞.md "wikilink")。
+[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")、[中國](../Page/中國.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[波蘭及](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")亦有制造以上彈藥。
 
 ## 使用國
 
@@ -132,22 +130,12 @@ KPV重機槍1949年定位為步兵武器，但因太大及太重，在60年代�
 
 ## 外部連結
 
-  - [Modern Firearms—KPV Pictures and more detailed production
-    information](https://web.archive.org/web/20080406130549/http://world.guns.ru/machine/mg01-e.htm)
+  - [Modern Firearms—KPV Pictures and more detailed production information](https://web.archive.org/web/20080406130549/http://world.guns.ru/machine/mg01-e.htm)
 
-  - [Russian/Soviet KPV MACHINE GUN ON WHEELED MOUNT (MARKOV'S MOUNT)
-    IN 14.5 x 114 calibre (M41/44) – Walk around
-    photos](http://www.thetankmaster.com/ENGLISH/AFV/KPV.asp)
+  - [Russian/Soviet KPV MACHINE GUN ON WHEELED MOUNT (MARKOV'S MOUNT) IN 14.5 x 114 calibre (M41/44) – Walk around photos](http://www.thetankmaster.com/ENGLISH/AFV/KPV.asp)
 
-  - [ZPU-2 - TWIN MOUNT 14.5MM ANTI-AIRCRAFT GUNS (Twin mount
-    anti-aircraft 14.5mm KPV machine guns) – Walk around
-    photos](http://www.thetankmaster.com/ENGLISH/AFV/ZPU2.asp)
+  - [ZPU-2 - TWIN MOUNT 14.5MM ANTI-AIRCRAFT GUNS (Twin mount anti-aircraft 14.5mm KPV machine guns) – Walk around photos](http://www.thetankmaster.com/ENGLISH/AFV/ZPU2.asp)
 
-[Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink")
-[Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
-[Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
+[Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink") [Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 
 1.  [world.guns.ru-QJG 02](http://world.guns.ru/machine/mg48-e.htm)

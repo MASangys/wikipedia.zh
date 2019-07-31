@@ -1,8 +1,8 @@
-**AKABEiSOFT2**是位於[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市的](../Page/福岡市.md "wikilink")[成人遊戲製作公司](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，旗下有、、、曉WORKS黑的品牌，和的姊妹品牌、、。
+**AKABEiSOFT2**是位於[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[成人遊戲製作公司](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，旗下有、、、曉WORKS黑的品牌，和的姊妹品牌、、。
 
 ## 歷史
 
-AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同人遊戲的團體](../Page/同人遊戲.md "wikilink")「**AKABEiSOFT**」（），作品多有《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》的[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。2004年冬季，把[一次和](https://zh.wikipedia.org/wiki/原創 "wikilink")[二次創作物的發行分別分拆為](../Page/二次創作.md "wikilink")「**AKABEiSOFT**」和「****」，翌年把前者[法人化](../Page/法人.md "wikilink")，社名登記為「有限公司AKABEiSOFT2」，品牌名稱則為「（一樣的意思和讀法）」。伴隨法人化，同人團體的「AKABEiSOFT」合併至「有葉與愉快的夥伴們」，而負責原畫的有葉（）則自成個人團體，亦結束開發同人遊戲，同人創作只剩下同人誌方面。2007年，再設立****、**曉WORKS**兩品牌。社內公司株式會社エフォルダム旗下品牌エフォルダムソフト於2014年4月16日解散。\[1\]
+AKABEiSOFT2的前身是創作[同人誌](../Page/同人誌.md "wikilink")及[同人遊戲](../Page/同人遊戲.md "wikilink")的團體「**AKABEiSOFT**」（），作品多有《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》的[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。2004年冬季，把[一次和](https://zh.wikipedia.org/wiki/原創 "wikilink")[二次創作](../Page/二次創作.md "wikilink")物的發行分別分拆為「**AKABEiSOFT**」和「****」，翌年把前者[法人](../Page/法人.md "wikilink")化，社名登記為「有限公司AKABEiSOFT2」，品牌名稱則為「（一樣的意思和讀法）」。伴隨法人化，同人團體的「AKABEiSOFT」合併至「有葉與愉快的夥伴們」，而負責原畫的有葉（）則自成個人團體，亦結束開發同人遊戲，同人創作只剩下同人誌方面。2007年，再設立****、**曉WORKS**兩品牌。社內公司株式會社エフォルダム旗下品牌エフォルダムソフト於2014年4月16日解散。\[1\]
 
 ## 作品列表
 
@@ -252,8 +252,7 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
   - 2014年4月25日 - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
   - 2015年4月24日 - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
   - 2016年4月29日 - [PURELY×CATION](../Page/PURELY×CATION.md "wikilink")
-  - 2017年4月28日 -
-    [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
+  - 2017年4月28日 - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
   - 2017年12月22日 -
   - 2018年4月27日 -
 
@@ -286,8 +285,7 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
   - 2012年6月29日 -
   - 2012年7月27日 -
   - 2014年2月28日 -
-  - 2014年8月29日 -
-    [できない私が、くり返す。](https://zh.wikipedia.org/wiki/できない私が、くり返す。 "wikilink")
+  - 2014年8月29日 - [できない私が、くり返す。](https://zh.wikipedia.org/wiki/できない私が、くり返す。 "wikilink")
   - 2015年9月18日 -
   - 2015年12月11日 -
   - 2016年1月29日 -
@@ -327,15 +325,13 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
 
   - 2007年2月23日 -
       -
-        由[Five
-        Records的精選CD](../Page/5pb..md "wikilink")，但AKABEiSOFT2沒有在自己的網站作出任何告知。
+        由[Five Records的精選CD](../Page/5pb..md "wikilink")，但AKABEiSOFT2沒有在自己的網站作出任何告知。
   - 2008年8月15日 -
       -
         由ArielWave發售角色歌
   - 2009年4月24日 -
       -
-        由Five
-        Records發售[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")
+        由Five Records發售[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")
 
 ## 主要的工作人員
 
@@ -375,16 +371,12 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
 
   - [官方網站](https://web.archive.org/web/20090228211628/http://www.akabeesoft2.com/)　
   - [官方網站](http://www.syangrila.com/)
-  - [暁WORKS :: WEB
-    SITE](https://web.archive.org/web/20080525070915/http://www.akatsukiworks.com/)
+  - [暁WORKS :: WEB SITE](https://web.archive.org/web/20080525070915/http://www.akatsukiworks.com/)
   - [同人團體「有葉與愉快的夥伴們HP」](https://web.archive.org/web/20081217115302/http://home.att.ne.jp/omega/akabeisoft/)（包括AKABEiSOFT）
-  - [原畫擔當有葉個人網站「It
-    buds.」](https://web.archive.org/web/20081201074551/http://home.att.ne.jp/omega/akabeisoft/alpha/index.html)
+  - [原畫擔當有葉個人網站「It buds.」](https://web.archive.org/web/20081201074551/http://home.att.ne.jp/omega/akabeisoft/alpha/index.html)
   - [原画擔當友瀨俊作網站「無限軌道」](http://mugenkidou.sakura.ne.jp/)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink")
 
 1.
 2.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。

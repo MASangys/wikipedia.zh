@@ -1,28 +1,14 @@
-《**Warsow**》是一款免费[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，其第一版（v0.04a）于2005年6月8日发布。游戏由一群[自由职业](https://zh.wikipedia.org/wiki/自由职业 "wikilink")[软件开发者和](https://zh.wikipedia.org/wiki/软件开发者 "wikilink")[艺术家制作](https://zh.wikipedia.org/wiki/艺术家 "wikilink")，他们以开发中高质量高标准的内部测试自豪。\[1\]《Warsow》是混合授权软件，其引擎为改自[id
-Tech
-2的](https://zh.wikipedia.org/wiki/id_Tech_2 "wikilink")[Qfusion引擎](https://zh.wikipedia.org/wiki/Qfusion "wikilink")，以GPL发布；而图像音乐等各种多媒体资源则皆以[私有的](../Page/专有软件.md "wikilink")*Warsow
-Content License*发布，即在允许贡献者把自己的作品进入“personal
-portfolio”的同时禁止将之用于其他游戏\[2\]。
+《**Warsow**》是一款免费[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，其第一版（v0.04a）于2005年6月8日发布。游戏由一群[自由职业](https://zh.wikipedia.org/wiki/自由职业 "wikilink")[软件开发者和](https://zh.wikipedia.org/wiki/软件开发者 "wikilink")[艺术家制作](https://zh.wikipedia.org/wiki/艺术家 "wikilink")，他们以开发中高质量高标准的内部测试自豪。\[1\]《Warsow》是混合授权软件，其引擎为改自[id Tech 2的](https://zh.wikipedia.org/wiki/id_Tech_2 "wikilink")[Qfusion引擎](https://zh.wikipedia.org/wiki/Qfusion "wikilink")，以GPL发布；而图像音乐等各种多媒体资源则皆以[私有的](../Page/专有软件.md "wikilink")*Warsow Content License*发布，即在允许贡献者把自己的作品进入“personal portfolio”的同时禁止将之用于其他游戏\[2\]。
 
 ## 竞赛
 
-《Warsow》已被[ESL等电子竞技相关组织纳为比赛项目](https://zh.wikipedia.org/wiki/Electronic_Sports_League "wikilink")，\[3\]\[4\]\[5\]\[6\]且也在许多游戏竞赛中出现，著名的有欧洲的*Bamboocha*\[7\]与日本的*ESW
-:
-WARSOW*。\[8\]除此以外，2007年间还举办了一些以Warsow为主要项目的[局域网](../Page/局域网.md "wikilink")内竞赛，如Crossfire
-Devotii Challenge 3、\[9\]Warsow.nl LAN\[10\]与E-SPORTS STADIUM
-2007.\[11\]
+《Warsow》已被[ESL等电子竞技相关组织纳为比赛项目](https://zh.wikipedia.org/wiki/Electronic_Sports_League "wikilink")，\[3\]\[4\]\[5\]\[6\]且也在许多游戏竞赛中出现，著名的有欧洲的*Bamboocha*\[7\]与日本的*ESW : WARSOW*。\[8\]除此以外，2007年间还举办了一些以Warsow为主要项目的[局域网](../Page/局域网.md "wikilink")内竞赛，如Crossfire Devotii Challenge 3、\[9\]Warsow.nl LAN\[10\]与E-SPORTS STADIUM 2007.\[11\]
 
-《Warsow》为德国电视频道[GIGA
-Television多次报道](https://zh.wikipedia.org/wiki/GIGA_Television "wikilink")，\[12\]如该电视台的电子游戏节目《GIGA
-eSports》及其下属节目《Skill Sunday》与《Free For All》。[Pay
-TV](https://zh.wikipedia.org/wiki/Pay_TV "wikilink")
-[ITV也曾于由](https://zh.wikipedia.org/wiki/ITV "wikilink")提供的节目《GIGA
-2》中放送《Warsow》相关报道。
+《Warsow》为德国电视频道[GIGA Television多次报道](https://zh.wikipedia.org/wiki/GIGA_Television "wikilink")，\[12\]如该电视台的电子游戏节目《GIGA eSports》及其下属节目《Skill Sunday》与《Free For All》。[Pay TV](https://zh.wikipedia.org/wiki/Pay_TV "wikilink") [ITV也曾于由](https://zh.wikipedia.org/wiki/ITV "wikilink")提供的节目《GIGA 2》中放送《Warsow》相关报道。
 
 ## 玩法
 
-《Warsow》是极富挑战性的游戏，注重快速移动和跳跃技巧（trickjump）。\[13\]《Warsow》中可以使用[雷神之锤系列](../Page/雷神之锤系列.md "wikilink")中的一些跳跃技巧，如环跳、兔子蹦、、超级跳、斜坡滑行与火箭跳。此外，在《Warsow》中还可像[Urban
-Terror里一样利用加速模式发动](../Page/Urban_Terror.md "wikilink")[蹬墙跳](https://zh.wikipedia.org/wiki/三角跳 "wikilink")。
+《Warsow》是极富挑战性的游戏，注重快速移动和跳跃技巧（trickjump）。\[13\]《Warsow》中可以使用[雷神之锤系列](../Page/雷神之锤系列.md "wikilink")中的一些跳跃技巧，如环跳、兔子蹦、、超级跳、斜坡滑行与火箭跳。此外，在《Warsow》中还可像[Urban Terror里一样利用加速模式发动](../Page/Urban_Terror.md "wikilink")[蹬墙跳](https://zh.wikipedia.org/wiki/三角跳 "wikilink")。
 
 ## 模式
 
@@ -42,34 +28,21 @@ Terror里一样利用加速模式发动](../Page/Urban_Terror.md "wikilink")[蹬
 
 ## 媒体报道
 
-2008年4月14日，[ABC电子游戏TV节目](../Page/澳大利亚广播公司.md "wikilink")《[Good
-Game](https://zh.wikipedia.org/wiki/Good_Game "wikilink")》介绍了《Warsow》，并称之为“The
-Best Free Games Around”。\[14\]
+2008年4月14日，[ABC电子游戏TV节目](../Page/澳大利亚广播公司.md "wikilink")《[Good Game](https://zh.wikipedia.org/wiki/Good_Game "wikilink")》介绍了《Warsow》，并称之为“The Best Free Games Around”。\[14\]
 
 ## 引用
 
 ## 外部链接
 
   - [Warsow.net](http://www.warsow.net)
-  - [warsownews.net](https://web.archive.org/web/20080821161000/http://warsownews.net/)
-    – 新闻站 articles, beginner guides, tournament calendar, demos, huds,
-    mods, maps etc
-  - [Warsow
-    Wiki](https://web.archive.org/web/20090107094042/http://www.warsow.net/wiki/index.php?title=Main_Page)
+  - [warsownews.net](https://web.archive.org/web/20080821161000/http://warsownews.net/) – 新闻站 articles, beginner guides, tournament calendar, demos, huds, mods, maps etc
+  - [Warsow Wiki](https://web.archive.org/web/20090107094042/http://www.warsow.net/wiki/index.php?title=Main_Page)
   - [1337demos.com](http://www.1337demos.com/) - 社区站点，观看／上传demo录像
 
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
 
 1.
-2.  *license.txt* as found in the [Warsow 0.42
-    SDK](http://www.warsow.net/?page=download) Retrieved on 2008-06-04
+2.  *license.txt* as found in the [Warsow 0.42 SDK](http://www.warsow.net/?page=download) Retrieved on 2008-06-04
 3.
 4.
 5.

@@ -1,13 +1,10 @@
-**Lubuntu**（發音：）是[Ubuntu
-Linux桌面系統計劃的一个分支](../Page/Ubuntu.md "wikilink")，其預設[桌面環境為](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")[LXDE](../Page/LXDE.md "wikilink")，特別適用於配備老舊的電腦。和[Xubuntu](../Page/Xubuntu.md "wikilink")、[Ubuntu
-Lite一樣](https://zh.wikipedia.org/wiki/Ubuntu_Lite "wikilink")，都是屬於追求輕巧的Ubuntu分支。其特色除了輕巧快速外，並提供極低的套件相依性，將因為套件相依造成的操作問題減到最低。
+**Lubuntu**（發音：）是[Ubuntu Linux桌面系統計劃的一个分支](../Page/Ubuntu.md "wikilink")，其預設[桌面環境為](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")[LXDE](../Page/LXDE.md "wikilink")，特別適用於配備老舊的電腦。和[Xubuntu](../Page/Xubuntu.md "wikilink")、[Ubuntu Lite一樣](https://zh.wikipedia.org/wiki/Ubuntu_Lite "wikilink")，都是屬於追求輕巧的Ubuntu分支。其特色除了輕巧快速外，並提供極低的套件相依性，將因為套件相依造成的操作問題減到最低。
 
 ## 版本
 
 Lubuntu計劃由[LXDE](../Page/LXDE.md "wikilink")團隊推出，原本預計在2009年10月發行第一個版本\[1\]，並在該年9月初時推出第一個測試版\[2\]，但最後並未正式發行。
 
-隨著Ubuntu
-10.04進入Beta階段，Lubuntu也於2010推出Beta版本\[3\]，最後並在2010年5月2日推出正式版。\[4\]
+隨著Ubuntu 10.04進入Beta階段，Lubuntu也於2010推出Beta版本\[3\]，最後並在2010年5月2日推出正式版。\[4\]
 
 2011年5月，Lubuntu正式成为Ubuntu的官方分支\[5\]。
 
@@ -21,8 +18,7 @@ Lubuntu計劃由[LXDE](../Page/LXDE.md "wikilink")團隊推出，原本預計在
   - **快速**－它甚至可以執行在1999年出產的老舊電腦上。(新版本则需要更高的硬件要求,具体请查阅Lubuntu官网.)
   - **省能源**－它比其他常見的系統需要較少的資源執行相同的工作。
   - **簡樸美**－藉由GTK+ 2，它擁有美觀、支援國際化的使用者介面。
-  - **使用簡單**－提供使用者選擇如[Eee
-    PC般的應用程式桌面選單](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")，或是如微軟Windows般的應用程式列表。
+  - **使用簡單**－提供使用者選擇如[Eee PC般的應用程式桌面選單](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")，或是如微軟Windows般的應用程式列表。
   - **可自訂性**－使用者可以輕易自訂LXDE的外觀。
   - **其他功能**－提供如分頁檔案瀏覽或是執行對話框選單等功能，新程式在安裝後圖示即立即出現在桌面選單上。
   - **套件間無相依性**－每一個套件可以分開使用，並不會相依到其他套件，可避免套件相依性帶來的操作問題。
@@ -32,10 +28,8 @@ Lubuntu計劃由[LXDE](../Page/LXDE.md "wikilink")團隊推出，原本預計在
 
   - **PCManFM**－超輕巧，擁有分頁的檔案管理器。
   - **LXPanel**－可以使用圖形介面設定的桌面面板。
-  - **LXSession**－標準相容的X11作業階段管理器，支援透過HAL與GDM關機、重新開機與暫停（LXSession
-    Lite是個去掉X11作業階段支援的精簡版本，而且更加穩定）
-  - **LXAppearance**－LXAppearance是一套新的多功能GTK+ 佈景切換器，可以切換GTK+
-    佈景、圖示以及程式使用的字型。
+  - **LXSession**－標準相容的X11作業階段管理器，支援透過HAL與GDM關機、重新開機與暫停（LXSession Lite是個去掉X11作業階段支援的精簡版本，而且更加穩定）
+  - **LXAppearance**－LXAppearance是一套新的多功能GTK+ 佈景切換器，可以切換GTK+ 佈景、圖示以及程式使用的字型。
   - **LXLauncher**－LXLauncher是個桌面上的程式清單。
   - **Openbox**－輕量，相容標準，而且具備高度可調整性的視窗管理器。
   - **GPicView**－簡潔、快速、輕量的圖片檢視器，可以立即啟動。
@@ -98,14 +92,10 @@ Lubuntu計劃由[LXDE](../Page/LXDE.md "wikilink")團隊推出，原本預計在
   - [Lubuntu在Ubuntu Wiki頁面的介紹](https://wiki.ubuntu.com/Lubuntu)
   - [LXDE官方網站](https://web.archive.org/web/20090602052422/http://www.lxde.org/zh-tw)
 
-[Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink")
-[Category:LXDE](https://zh.wikipedia.org/wiki/Category:LXDE "wikilink")
+[Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink") [Category:LXDE](https://zh.wikipedia.org/wiki/Category:LXDE "wikilink")
 
 1.  <http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?topic_id=16099&forum=33&post_id=82439#forumpost82439>
 2.  [Lubuntu和Ubuntu+LXDE環境一樣嗎？](http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=92282#forumpost92282)
-3.  [Lubuntu 10.04 Beta1釋出 -
-    以LXDE為桌面環境的Ubuntu分支](http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?viewmode=flat&type=&topic_id=23500&forum=11)
-4.  [Lubuntu 10.04 is now available for
-    download](http://lubuntu.net/blog/lubuntu-1004-now-available-download)
-
+3.  [Lubuntu 10.04 Beta1釋出 - 以LXDE為桌面環境的Ubuntu分支](http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?viewmode=flat&type=&topic_id=23500&forum=11)
+4.  [Lubuntu 10.04 is now available for download](http://lubuntu.net/blog/lubuntu-1004-now-available-download)
 5.

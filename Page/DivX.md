@@ -1,18 +1,12 @@
-**DivX**是DivX公司（前身是DivX
-Networks公司）的著名品牌，一種[MPEG-4技術](../Page/MPEG-4.md "wikilink")[視頻編解碼器](https://zh.wikipedia.org/wiki/視頻編解碼器 "wikilink")。该公司2007年秋以2200萬美元收購德國[Main
-Concept](https://zh.wikipedia.org/wiki/Main_Concept "wikilink")。
+**DivX**是DivX公司（前身是DivX Networks公司）的著名品牌，一種[MPEG-4](../Page/MPEG-4.md "wikilink")技術[視頻編解碼器](https://zh.wikipedia.org/wiki/視頻編解碼器 "wikilink")。该公司2007年秋以2200萬美元收購德國[Main Concept](https://zh.wikipedia.org/wiki/Main_Concept "wikilink")。
 
 ## 歷史
 
 DivX商標不同於“DIVX”（Digital Video Express，現已解散）。
 
-DivX將encore2的代碼繼續發展成DivX
-4.0，於2001年7月推出。至於曾有份參與OpenDivX的開發人員，則用encore2的代碼開發相同核心的[開放源碼版本](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")。DivX公司則繼續發展DivX編解碼器，於2002年3月推出DivX
-5.0。
+DivX將encore2的代碼繼續發展成DivX 4.0，於2001年7月推出。至於曾有份參與OpenDivX的開發人員，則用encore2的代碼開發相同核心的[開放源碼版本](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")。DivX公司則繼續發展DivX編解碼器，於2002年3月推出DivX 5.0。
 
-於2010年10月，DivX公司被[Sonic
-Solutions收購](https://zh.wikipedia.org/wiki/Sonic_Solutions "wikilink")。並於2011年2月，因Sonic
-Solutions被[Rovi公司收購而成為旗下企業](https://zh.wikipedia.org/wiki/Rovi公司 "wikilink")。
+於2010年10月，DivX公司被[Sonic Solutions收購](https://zh.wikipedia.org/wiki/Sonic_Solutions "wikilink")。並於2011年2月，因Sonic Solutions被[Rovi公司收購而成為旗下企業](https://zh.wikipedia.org/wiki/Rovi公司 "wikilink")。
 
 ### 早期作品
 
@@ -41,13 +35,11 @@ DivX或者6擴大了範圍，包括DivX的只是一個解碼器和播放器，�
 DivX編解碼器和DivX播放器也可免費在DivX網站下載。
 
   - 2009年1月6日，DivX7發佈，其中增加的H.264視訊，AAC格式音訊和Matroska容器支援，大大改善了原來的格式限制\[1\]。
-  - 2013年9月5日，DivX 10.0發佈，其中提供了DivX HEVC
-    Plug-in，成為第一家為[HEVC提供免費的影片播放器和影片轉換器的軟體廠商](https://zh.wikipedia.org/wiki/HEVC "wikilink")，啟用後即可撥放或將其他格式影片轉換為HEVC影片。\[2\]
+  - 2013年9月5日，DivX 10.0發佈，其中提供了DivX HEVC Plug-in，成為第一家為[HEVC提供免費的影片播放器和影片轉換器的軟體廠商](https://zh.wikipedia.org/wiki/HEVC "wikilink")，啟用後即可撥放或將其他格式影片轉換為HEVC影片。\[2\]
 
 ### 規範
 
-DivX定義許多規範，代表著MPEG-4在DivX中應有的特色。因為開發小組不同於MPEG-4標準，故有一個DivX-specific裝置確認的工具給開發廠商。\[3\]DivX's
-profiles不同於標準化的ISO/IEC MPEG-4國際標準。
+DivX定義許多規範，代表著MPEG-4在DivX中應有的特色。因為開發小組不同於MPEG-4標準，故有一個DivX-specific裝置確認的工具給開發廠商。\[3\]DivX's profiles不同於標準化的ISO/IEC MPEG-4國際標準。
 
 |                      | Handheld（deprecated）                                        | Portable（deprecated） | qMobile                | Mobile                 | Home Theater | High Def   |
 | -------------------- | ----------------------------------------------------------- | -------------------- | ---------------------- | ---------------------- | ------------ | ---------- |
@@ -62,17 +54,13 @@ profiles不同於標準化的ISO/IEC MPEG-4國際標準。
 
 ## 編碼應用
 
-Dr. DiVX是一個由Divx公司創建的應用程式，可以轉換多種視頻格式為DivX編碼視頻。原來封閉原始碼的Dr.
-DivX終止於1.06版，這是最後一套可以Windows
-9x/Me平台下執行的程式。開放源碼的部份已可以支援DivX
-6。\[4\]。
+Dr. DiVX是一個由Divx公司創建的應用程式，可以轉換多種視頻格式為DivX編碼視頻。原來封閉原始碼的Dr. DivX終止於1.06版，這是最後一套可以Windows 9x/Me平台下執行的程式。開放源碼的部份已可以支援DivX 6。\[4\]。
 
 至於其他的應用程式還有[AutoGK](https://zh.wikipedia.org/wiki/AutoGK "wikilink")、[VirtualDub](../Page/VirtualDub.md "wikilink")、[TMPGEnc以及](https://zh.wikipedia.org/wiki/TMPGEnc "wikilink")[DVDx](https://zh.wikipedia.org/wiki/DVDx "wikilink")。
 
 ## 競爭者
 
-DivX的競爭者有Microsoft的Windows Media
-Video系列，還有Apple的QuickTime、[Xvid以及RealNetworks的RealVideo系列](../Page/Xvid.md "wikilink")。
+DivX的競爭者有Microsoft的Windows Media Video系列，還有Apple的QuickTime、[Xvid](../Page/Xvid.md "wikilink")以及RealNetworks的RealVideo系列。
 
 ## 參見
 
@@ -82,8 +70,7 @@ Video系列，還有Apple的QuickTime、[Xvid以及RealNetworks的RealVideo系�
 
   - [Dr. DivX](https://zh.wikipedia.org/wiki/Dr._DivX "wikilink")
   - DivX Player
-  - [DXGM （video
-    codec）](https://zh.wikipedia.org/wiki/DXGM_（video_codec） "wikilink")
+  - [DXGM （video codec）](https://zh.wikipedia.org/wiki/DXGM_（video_codec） "wikilink")
 
 <!-- end list -->
 
@@ -91,13 +78,10 @@ Video系列，還有Apple的QuickTime、[Xvid以及RealNetworks的RealVideo系�
 
 <!-- end list -->
 
-  - [Audio Video
-    Interleave](https://zh.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")（.AVI）
+  - [Audio Video Interleave](https://zh.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")（.AVI）
   - [Matroska](../Page/Matroska.md "wikilink")（.MKV）
-  - [MPEG-4 Part
-    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")
-  - [H.264/MPEG-4
-    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")
+  - [MPEG-4 Part 2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")
+  - [H.264/MPEG-4 AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")
   - [Xvid](../Page/Xvid.md "wikilink")
   - [FFmpeg](../Page/FFmpeg.md "wikilink")
   - [ffdshow](https://zh.wikipedia.org/wiki/ffdshow "wikilink")
@@ -121,9 +105,7 @@ Video系列，還有Apple的QuickTime、[Xvid以及RealNetworks的RealVideo系�
 ## 外部链接
 
   -
-  - [DivX
-    Labs](https://web.archive.org/web/20100106015123/http://labs.divx.com/)
-    Community DivX website, with betas and ongoing projects
+  - [DivX Labs](https://web.archive.org/web/20100106015123/http://labs.divx.com/) Community DivX website, with betas and ongoing projects
 
   -
 [Category:視頻編解碼器](https://zh.wikipedia.org/wiki/Category:視頻編解碼器 "wikilink")
@@ -131,5 +113,4 @@ Video系列，還有Apple的QuickTime、[Xvid以及RealNetworks的RealVideo系�
 1.
 2.
 3.
-4.  [DivX Video Converter - Free Movie Converter Trial - Convert Video
-    Files](http://www.divx.com/divx/windows/converter/)
+4.  [DivX Video Converter - Free Movie Converter Trial - Convert Video Files](http://www.divx.com/divx/windows/converter/)

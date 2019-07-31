@@ -14,22 +14,13 @@
 
 一般来讲，持有美国学生签证的国际学生只能在学校里找工作以获得[社会安全号](https://zh.wikipedia.org/wiki/社会安全号 "wikilink")(SSN)，但是一周工作时间共计不得超过20个小时。但是，在一些特殊情况下，[美国移民局也有可能给个别学生签发短期的工作许可](https://zh.wikipedia.org/wiki/美国移民局 "wikilink")。
 
-持有美国学生签证的国际学生可以参加两种与课程专业相关的实习，[CPT](https://zh.wikipedia.org/wiki/课程实习训练 "wikilink")（Curricular
-Practical Training）和[OPT](../Page/选择性实习训练.md "wikilink")（Optional
-Practical
-Training）。CPT用于在读期间，一般来讲全职不超过11个月，兼职不超过23个月；而OPT是用于毕业后使用，在每拿到一个更高级的新文凭后都可以申请为期一年的OPT。2008年4月8日，新的法规允许一些理工科类别的专业可以在一年时间的OPT的基础上再延长17个月的实习。这些专业被称为“STEM”(即科学：**S**cience，技术：**T**echnology，工程：**E**ngineering，数学：**M**athematics)
-\[2\]但是新的规定对于OPT期间没有找到工作的学生的规定较往常更严格：如果没有找到工作超过90天，就有可能面临美国居留身份失效的后果。\[3\]
+持有美国学生签证的国际学生可以参加两种与课程专业相关的实习，[CPT](https://zh.wikipedia.org/wiki/课程实习训练 "wikilink")（Curricular Practical Training）和[OPT](../Page/选择性实习训练.md "wikilink")（Optional Practical Training）。CPT用于在读期间，一般来讲全职不超过11个月，兼职不超过23个月；而OPT是用于毕业后使用，在每拿到一个更高级的新文凭后都可以申请为期一年的OPT。2008年4月8日，新的法规允许一些理工科类别的专业可以在一年时间的OPT的基础上再延长17个月的实习。这些专业被称为“STEM”(即科学：**S**cience，技术：**T**echnology，工程：**E**ngineering，数学：**M**athematics) \[2\]但是新的规定对于OPT期间没有找到工作的学生的规定较往常更严格：如果没有找到工作超过90天，就有可能面临美国居留身份失效的后果。\[3\]
 
 ## 税收
 
-持有美国学生签证的国际学生，在签证前五年，需要以非美国税务居民征收联邦税和州税，但是免于FICA税（包括社会安全税（Social
-Security）和医疗税收（Medicare）等税务的征收。第六年以后，税务状态转化成美国本地税务居民，按照获准在美国居留的外国人的税率征收。这时除非你仍然是在原学校进行全日制学习和工作，都需要缴纳FICA税。\[4\]
-五年或者五年下的持有美国学生签证的国际学生在报税的时候填Form 1040NR表格或者1040NR-EZ；五年以上则填报Form
-1040或者1040-EZ。
+持有美国学生签证的国际学生，在签证前五年，需要以非美国税务居民征收联邦税和州税，但是免于FICA税（包括社会安全税（Social Security）和医疗税收（Medicare）等税务的征收。第六年以后，税务状态转化成美国本地税务居民，按照获准在美国居留的外国人的税率征收。这时除非你仍然是在原学校进行全日制学习和工作，都需要缴纳FICA税。\[4\] 五年或者五年下的持有美国学生签证的国际学生在报税的时候填Form 1040NR表格或者1040NR-EZ；五年以上则填报Form 1040或者1040-EZ。
 
-[中华人民共和国与美国签有税务豁免协议](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，对于来自于[中华人民共和国的美国学生签证的国际学生每年可以申请](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")5000美元的收入税收豁免，基于中美税务Treaty
-20(b)
-和20(c)，TA或者RA的收入与获得奖学金（fellowship）的美国学生签证的国际学生一般来说可以申请税收全免。5000美元的税收豁免或者奖学金（fellowship）的税收全免并不适用于来自其他国家或地区（包括中国香港特别行政区、中国澳门特别行政区）的中国籍学生。如果学生自中国大陆以外的国家和地区出发前往美国，即使持有[中华人民共和国国籍](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，也不能使用这些税收豁免。但是如果该学生的出发地与美国之间有税务豁免协议，则该学生可以使用该国或地区与美国的税务协议。
+[中华人民共和国与美国签有税务豁免协议](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，对于来自于[中华人民共和国的美国学生签证的国际学生每年可以申请](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")5000美元的收入税收豁免，基于中美税务Treaty 20(b) 和20(c)，TA或者RA的收入与获得奖学金（fellowship）的美国学生签证的国际学生一般来说可以申请税收全免。5000美元的税收豁免或者奖学金（fellowship）的税收全免并不适用于来自其他国家或地区（包括中国香港特别行政区、中国澳门特别行政区）的中国籍学生。如果学生自中国大陆以外的国家和地区出发前往美国，即使持有[中华人民共和国国籍](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，也不能使用这些税收豁免。但是如果该学生的出发地与美国之间有税务豁免协议，则该学生可以使用该国或地区与美国的税务协议。
 
 ## 学生和交流访问学者的比較
 
@@ -89,20 +80,13 @@ Security）和医疗税收（Medicare）等税务的征收。第六年以后，�
 
 ## 外部链接
 
-  - [美國在台協會 -
-    學生及交換訪客簽證](http://www.ait.org.tw/zh/student-and-exchange-visitor-visas.html)
-  - [学生签证 (F-1) |
-    美国驻成都总领事馆](https://web.archive.org/web/20110904002156/http://chengdu-ch.usembassy-china.org.cn/student_visas3.html)
-  - [學生（F）和交流訪客（J） 美國總領事館 -
-    香港及澳門](https://web.archive.org/web/20110810133130/http://chinese.hongkong.usconsulate.gov/niv_study.html)
-  - [Sample F-1 Visa
-    Questions](https://web.archive.org/web/20090703164808/http://qna.educouncil.org/Visa_and_Immigration/nZxyNXyYnNy.html)
-  - [USCIS - Students and
-    Employment](http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=e34c83453d4a3210VgnVCM100000b92ca60aRCRD&vgnextchannel=e34c83453d4a3210VgnVCM100000b92ca60aRCRD)
-  - [Student Visas - the Bureau of Consular Affairs, U.S. Department of
-    State](https://web.archive.org/web/20110401231358/http://travel.state.gov/visa/temp/types/types_1268.html)
-  - [Student Process Steps How to Navigate the U.S. Immigration System -
-    U.S. Dept of Homeland Security](http://www.ice.gov/sevis/students/)
+  - [美國在台協會 - 學生及交換訪客簽證](http://www.ait.org.tw/zh/student-and-exchange-visitor-visas.html)
+  - [学生签证 (F-1) | 美国驻成都总领事馆](https://web.archive.org/web/20110904002156/http://chengdu-ch.usembassy-china.org.cn/student_visas3.html)
+  - [學生（F）和交流訪客（J） 美國總領事館 - 香港及澳門](https://web.archive.org/web/20110810133130/http://chinese.hongkong.usconsulate.gov/niv_study.html)
+  - [Sample F-1 Visa Questions](https://web.archive.org/web/20090703164808/http://qna.educouncil.org/Visa_and_Immigration/nZxyNXyYnNy.html)
+  - [USCIS - Students and Employment](http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9ac89243c6a7543f6d1a/?vgnextoid=e34c83453d4a3210VgnVCM100000b92ca60aRCRD&vgnextchannel=e34c83453d4a3210VgnVCM100000b92ca60aRCRD)
+  - [Student Visas - the Bureau of Consular Affairs, U.S. Department of State](https://web.archive.org/web/20110401231358/http://travel.state.gov/visa/temp/types/types_1268.html)
+  - [Student Process Steps How to Navigate the U.S. Immigration System - U.S. Dept of Homeland Security](http://www.ice.gov/sevis/students/)
 
 ## 相关条目
 

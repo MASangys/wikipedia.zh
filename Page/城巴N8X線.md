@@ -209,10 +209,7 @@
   - [681巴士總站－城巴N8X線](http://www.681busterminal.com/hk-n8x.html)
   - [681巴士總站－城巴N8X線（舊版資料）](http://www.681busterminal.com/hk-n8x_old.html)
 
-[Category:香港東區巴士路線](https://zh.wikipedia.org/wiki/Category:香港東區巴士路線 "wikilink")
-[Category:中西區巴士路線](https://zh.wikipedia.org/wiki/Category:中西區巴士路線 "wikilink")
-[Category:城巴及新世界第一巴士路線](https://zh.wikipedia.org/wiki/Category:城巴及新世界第一巴士路線 "wikilink")
-[Category:香港通宵巴士路線](https://zh.wikipedia.org/wiki/Category:香港通宵巴士路線 "wikilink")
+[Category:香港東區巴士路線](https://zh.wikipedia.org/wiki/Category:香港東區巴士路線 "wikilink") [Category:中西區巴士路線](https://zh.wikipedia.org/wiki/Category:中西區巴士路線 "wikilink") [Category:城巴及新世界第一巴士路線](https://zh.wikipedia.org/wiki/Category:城巴及新世界第一巴士路線 "wikilink") [Category:香港通宵巴士路線](https://zh.wikipedia.org/wiki/Category:香港通宵巴士路線 "wikilink")
 
 1.  [N8和N](../Page/新巴N8線.md "wikilink")8X的分別只是有沒有途經耀東邨之分。
 2.  [城巴乘客通告](http://mobile.nwstbus.com.hk/pdf/E201801673a03.pdf)

@@ -9,10 +9,8 @@
 
 ## 外部链接
 
-  - [**Extrasolar Visions**: Epsilon Eridani
-    c](http://www.extrasolar.net/planettour.asp?StarCatID=normal&PlanetID=236)
+  - [**Extrasolar Visions**: Epsilon Eridani c](http://www.extrasolar.net/planettour.asp?StarCatID=normal&PlanetID=236)
 
 {{-}}
 
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:可能存在的系外行星](https://zh.wikipedia.org/wiki/Category:可能存在的系外行星 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:可能存在的系外行星](https://zh.wikipedia.org/wiki/Category:可能存在的系外行星 "wikilink")

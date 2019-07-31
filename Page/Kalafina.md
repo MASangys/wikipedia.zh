@@ -1,6 +1,4 @@
-**Kalafina**（台：**華麗菲娜**\[1\]，陸：**卡拉菲娜**\[2\]）是已經解散的日本女子音樂團體，隸屬於[SPACE
-CRAFT](../Page/SPACE_CRAFT.md "wikilink")（經紀公司）與[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")（唱片公司）。由[梶浦由記](../Page/梶浦由記.md "wikilink")為製作[空之境界](../Page/空之境界.md "wikilink")劇場版主題曲而在2007年組成。
+**Kalafina**（台：**華麗菲娜**\[1\]，陸：**卡拉菲娜**\[2\]）是已經解散的日本女子音樂團體，隸屬於[SPACE CRAFT](../Page/SPACE_CRAFT.md "wikilink")（經紀公司）與[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")（唱片公司）。由[梶浦由記](../Page/梶浦由記.md "wikilink")為製作[空之境界](../Page/空之境界.md "wikilink")劇場版主題曲而在2007年組成。
 
 ## 簡介
 
@@ -10,22 +8,15 @@ Kalafina是2007年[梶浦由記](../Page/梶浦由記.md "wikilink")因製作[�
 
 ### 解散
 
-2017年12月23日，[體育日本報導了Kalafina製作人](https://zh.wikipedia.org/wiki/體育日本 "wikilink")[梶浦由記](../Page/梶浦由記.md "wikilink")將在2018年2月離開其經紀公司[SPACE
-CRAFT](../Page/SPACE_CRAFT.md "wikilink")，而Kalafina在2018年2月後的活動是空白的\[10\]\[11\]。2018年2月21日，梶浦由記在[Twitter](../Page/Twitter.md "wikilink")上宣佈離開SPACE
-CRAFT，將成立自己的事務所\[12\]\[13\]\[14\]，並且支持Kalafina後續的活動\[15\]。
+2017年12月23日，[體育日本報導了Kalafina製作人](https://zh.wikipedia.org/wiki/體育日本 "wikilink")[梶浦由記](../Page/梶浦由記.md "wikilink")將在2018年2月離開其經紀公司[SPACE CRAFT](../Page/SPACE_CRAFT.md "wikilink")，而Kalafina在2018年2月後的活動是空白的\[10\]\[11\]。2018年2月21日，梶浦由記在[Twitter](../Page/Twitter.md "wikilink")上宣佈離開SPACE CRAFT，將成立自己的事務所\[12\]\[13\]\[14\]，並且支持Kalafina後續的活動\[15\]。
 
-2018年3月12日，[體育報知報導了Kalafina內將會有一個團員離開](https://zh.wikipedia.org/wiki/體育報知 "wikilink")\[16\]，之後在3月14日報導了該名成員是[Keiko](../Page/Keiko.md "wikilink")的新聞\[17\]，之後官方在4月13日宣佈Keiko在4月1日因合約期滿離開經紀公司SPACE
-CRAFT\[18\]。
+2018年3月12日，[體育報知報導了Kalafina內將會有一個團員離開](https://zh.wikipedia.org/wiki/體育報知 "wikilink")\[16\]，之後在3月14日報導了該名成員是[Keiko](../Page/Keiko.md "wikilink")的新聞\[17\]，之後官方在4月13日宣佈Keiko在4月1日因合約期滿離開經紀公司SPACE CRAFT\[18\]。
 
-2018年11月2日，SPACE
-CRAFT宣佈[Hikaru已經在](../Page/Hikaru_\(歌手\).md "wikilink")10月20日約滿離開\[19\]。之後Hikaru在11月5日開設Twitter帳號與粉絲互動\[20\]。2019年2月6日，[Wakana](../Page/Wakana.md "wikilink")也開設Twitter帳號與粉絲互動\[21\]。
+2018年11月2日，SPACE CRAFT宣佈[Hikaru已經在](../Page/Hikaru_\(歌手\).md "wikilink")10月20日約滿離開\[19\]。之後Hikaru在11月5日開設Twitter帳號與粉絲互動\[20\]。2019年2月6日，[Wakana](../Page/Wakana.md "wikilink")也開設Twitter帳號與粉絲互動\[21\]。
 
-2019年3月13日，SPACE
-CRAFT表示因製作人與成員的陸續離開，恢復活動的可能性極低，所以決定解散\[22\]。同日宣佈原Kalafina官方Fans
-Club（Harmony）會員剩餘有效期限將在4月1日轉移至Wakana個人的Fans Club\[23\]。
+2019年3月13日，SPACE CRAFT表示因製作人與成員的陸續離開，恢復活動的可能性極低，所以決定解散\[22\]。同日宣佈原Kalafina官方Fans Club（Harmony）會員剩餘有效期限將在4月1日轉移至Wakana個人的Fans Club\[23\]。
 
-2019年3月14日，前製作人梶浦由記、前成員Keiko與Hikaru透過梶浦由記的網站對於SPACE
-CRAFT解散Kalafina一事發表意見\[24\]，並對於先前未能說明情況表示歉意。
+2019年3月14日，前製作人梶浦由記、前成員Keiko與Hikaru透過梶浦由記的網站對於SPACE CRAFT解散Kalafina一事發表意見\[24\]，並對於先前未能說明情況表示歉意。
 
 ## 名稱
 
@@ -44,31 +35,18 @@ CRAFT解散Kalafina一事發表意見\[24\]，並對於先前未能說明情況�
 [Kalafina_Signatures.png](https://zh.wikipedia.org/wiki/File:Kalafina_Signatures.png "fig:Kalafina_Signatures.png")
 
   - 在錄音或是演唱會時合作的樂手大多與[梶浦由記](../Page/梶浦由記.md "wikilink")合作的樂手相同（除了[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")）。
-  - 原先沒有獨立的Fans Club，而是掛在FictionJunction
-    Club下進行粉絲相關活動（會報與會員抽票等活動），直到2017年才獨立出自己的Fans
-    Club網站Harmony\[31\]。
+  - 原先沒有獨立的Fans Club，而是掛在FictionJunction Club下進行粉絲相關活動（會報與會員抽票等活動），直到2017年才獨立出自己的Fans Club網站Harmony\[31\]。
 
 ### 演唱會
 
   - 第一次參加演唱會演出是在2009年4月29日的「Revo＆梶浦由記 Presents 『Dream Port 2008』」\[32\]。
-  - 第一次的演唱會是在2009年5月19日的[Shibuya
-    O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")（Kalafina
-    Closed Premium Live）\[33\]\[34\]，由購買專輯與單曲者中抽選500名\[35\]。
+  - 第一次的演唱會是在2009年5月19日的[Shibuya O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")（Kalafina Closed Premium Live）\[33\]\[34\]，由購買專輯與單曲者中抽選500名\[35\]。
   - 第一次海外演出是在2009年5月22日（於美國[波士頓舉辦的](https://zh.wikipedia.org/wiki/波士頓 "wikilink")）\[36\]。
-  - 第一次公開售票的演唱會是在2009年8月26日，地點在[Shibuya
-    O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")（Kalafina
-    LIVE 2009 "storia"）\[37\]\[38\]。
-  - 第一次在海外舉辦巡迴演唱會是在2010年2月26日，地點在[臺北市](../Page/臺北市.md "wikilink")的1710
-    Live Studio（現在的花漾Hana展演空間，Kalafina LIVE TOUR 2010 in
-    Asia）\[39\]\[40\]\[41\]\[42\]。
-  - 第一次踏上[日本武道館](../Page/日本武道館.md "wikilink")舉辦萬人演唱會是在2015年2月28日、3月1日（Kalafina
-    LIVE THE BEST 2015 "Red Day" & "Blue
-    Day"）\[43\]\[44\]\[45\]\[46\]\[47\]。
-  - 從五週年開始到九週年，每年的1月23日固定舉辦週年演唱會，場地都會選在第一次公開演唱會的地點[TSUTAYA
-    O-EAST](../Page/TSUTAYA_O-EAST.md "wikilink")\[48\]（2013年舉辦五週年時當時的場地名為Shibuya
-    O-EAST）。
-  - 2018年1月23日，三度踏上日本武道館，舉辦十週年紀念演唱會（Kalafina 10th Anniversary LIVE
-    2018）\[49\]。
+  - 第一次公開售票的演唱會是在2009年8月26日，地點在[Shibuya O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")（Kalafina LIVE 2009 "storia"）\[37\]\[38\]。
+  - 第一次在海外舉辦巡迴演唱會是在2010年2月26日，地點在[臺北市](../Page/臺北市.md "wikilink")的1710 Live Studio（現在的花漾Hana展演空間，Kalafina LIVE TOUR 2010 in Asia）\[39\]\[40\]\[41\]\[42\]。
+  - 第一次踏上[日本武道館](../Page/日本武道館.md "wikilink")舉辦萬人演唱會是在2015年2月28日、3月1日（Kalafina LIVE THE BEST 2015 "Red Day" & "Blue Day"）\[43\]\[44\]\[45\]\[46\]\[47\]。
+  - 從五週年開始到九週年，每年的1月23日固定舉辦週年演唱會，場地都會選在第一次公開演唱會的地點[TSUTAYA O-EAST](../Page/TSUTAYA_O-EAST.md "wikilink")\[48\]（2013年舉辦五週年時當時的場地名為Shibuya O-EAST）。
+  - 2018年1月23日，三度踏上日本武道館，舉辦十週年紀念演唱會（Kalafina 10th Anniversary LIVE 2018）\[49\]。
 
 ## 作品
 
@@ -857,13 +835,9 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - 4月29日、5月6日、5月15日 Revo＆梶浦由記Presents Dream Port
-    2008（、、[東京國際論壇](../Page/東京國際論壇.md "wikilink") Hall
-    A）
-  - 7月31日 Yuki Kajiura LIVE Vol.2＃（[Shibuya
-    O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")）
-  - 12月27日 Yuki Kajiura LIVE Vol.3＃
-    （[横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")）
+  - 4月29日、5月6日、5月15日 Revo＆梶浦由記Presents Dream Port 2008（、、[東京國際論壇](../Page/東京國際論壇.md "wikilink") Hall A）
+  - 7月31日 Yuki Kajiura LIVE Vol.2＃（[Shibuya O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")）
+  - 12月27日 Yuki Kajiura LIVE Vol.3＃ （[横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")）
 
 <!-- end list -->
 
@@ -871,17 +845,14 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - 4月16日
-    （[morph-tokyo](https://zh.wikipedia.org/wiki/morph-tokyo "wikilink")）
+  - 4月16日 （[morph-tokyo](https://zh.wikipedia.org/wiki/morph-tokyo "wikilink")）
   - 5月2日 Pop Up Japan★Special（）
   - 5月7日 （morph-tokyo）
-  - 5月19日 （[Shibuya
-    O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")）
+  - 5月19日 （[Shibuya O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")）
   - 6月14日 （）
   - 6月17日 （morph-tokyo）
   - 7月22日 Storia（morph-tokyo）
-  - 8月26日 Kalafina Live 2009“storia”（[Shibuya
-    O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）
+  - 8月26日 Kalafina Live 2009“storia”（[Shibuya O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）
   - 9月15日 Heaven＆Earth（morph-tokyo）
   - 10月11日 （）
   - 10月15日 fairytale（morph-tokyo）
@@ -889,8 +860,7 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
   - 11月12日 （）
   - 11月18日 progressive（morph-tokyo）
   - 12月23日 Bright Christmas 2009 Kalafina Special Mini LIVE（）
-  - 12月27日 Kalafina LIVE 2009
-    “progressive”([横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")）
+  - 12月27日 Kalafina LIVE 2009 “progressive”([横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")）
 
 <!-- end list -->
 
@@ -898,16 +868,13 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - 2月20日
-    （[LIQUIDROOM](https://zh.wikipedia.org/wiki/LIQUIDROOM "wikilink")）
+  - 2月20日 （[LIQUIDROOM](https://zh.wikipedia.org/wiki/LIQUIDROOM "wikilink")）
   - 3月14日 （）
-  - 3月19日 （[TOWER
-    RECORDS新宿店](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")）
+  - 3月19日 （[TOWER RECORDS新宿店](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")）
   - 3月20日 （）
   - 3月21日 （TOWER RECORDS梅田NU茶屋町店）
   - 5月8日 LaLaport MUSIC JAM Vol.28公開錄音（LaLaport TOKYO-BAY）
-  - 5月23日 FictionJunction / Yuki Kajiura LIVE vol.\#6（Zepp SENDAI）※FRONT
-    ACT
+  - 5月23日 FictionJunction / Yuki Kajiura LIVE vol.\#6（Zepp SENDAI）※FRONT ACT
   - 7月4日 Anime Songs Night in Harajuku ～Jump to the world～（）
   - 8月6日 Kalafina LIVE 2010“Red Moon”in Hong Kong（HITEC, Rotunda 3）
   - 8月28日
@@ -917,8 +884,7 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
   - 11月3日 ANIMAX MUSIX FALL 2010（[橫濱體育館](../Page/橫濱體育館.md "wikilink")）
   - 12月10日 （）
   - 12月17日 Kalafina LIVE 2010“Red Moon”in Taipei（Legacy Taipei傳音樂展演空間）
-  - 12月19日 [Lis Ani\!LIVE](../Page/Lis_Ani!.md "wikilink") 2010 DAY
-    STAGE/NIGHT STAGE（東京國際論壇 Hall A）
+  - 12月19日 [Lis Ani\!LIVE](../Page/Lis_Ani!.md "wikilink") 2010 DAY STAGE/NIGHT STAGE（東京國際論壇 Hall A）
 
 <!-- end list -->
 
@@ -927,12 +893,9 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 <!-- end list -->
 
   - 1月29日  vol.5（[德島市](../Page/德島市.md "wikilink")）
-      - Kalafina
-        一日站長（JR[德島車站](https://zh.wikipedia.org/wiki/德島車站 "wikilink")）
-      - Kalafina
-        （[德島市](../Page/德島市.md "wikilink")[新町橋東公園](https://zh.wikipedia.org/wiki/新町橋 "wikilink")）
-  - 5月1日 ORICON INFINITY MUSIC 2011at UNIVERSAL STUDIOS
-    JAPAN®（[日本環球影城](../Page/日本環球影城.md "wikilink") ）
+      - Kalafina 一日站長（JR[德島車站](https://zh.wikipedia.org/wiki/德島車站 "wikilink")）
+      - Kalafina （[德島市](../Page/德島市.md "wikilink")[新町橋東公園](https://zh.wikipedia.org/wiki/新町橋 "wikilink")）
+  - 5月1日 ORICON INFINITY MUSIC 2011at UNIVERSAL STUDIOS JAPAN®（[日本環球影城](../Page/日本環球影城.md "wikilink") ）
   - 11月25日 “After Eden” Special LIVE 2011（TOKYO DOME CITY HALL）
   - 12月24日 X'mas Premium Acoustic LIVE（）
 
@@ -963,22 +926,9 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - Kalafina LIVE TOUR 2010 ～progressive ＋～（2月2日 [Umeda
-    AKASO](https://zh.wikipedia.org/wiki/Umeda_AKASO "wikilink")、2月3日
-    [ボトムライン名古屋](https://zh.wikipedia.org/wiki/ボトムライン名古屋 "wikilink")、2月9日
-    [Shibuya
-    O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）
-  - Kalafina LIVE TOUR 2010 in Asia（2月26日
-    [台北](https://zh.wikipedia.org/wiki/台北 "wikilink") 1710 Live
-    Studio、2月28日 [上海](https://zh.wikipedia.org/wiki/上海 "wikilink") MAO
-    Livehouse SHANGHAI、3月7日 [香港](../Page/香港.md "wikilink") HITEC
-    Auditorium）
-  - Kajiura Produce 3rd Anniversary LIVE TOUR～Kalafina LIVE 2010“Red
-    Moon”～（5月15日　[なんばHatch](https://zh.wikipedia.org/wiki/なんばHatch "wikilink")、5月29日
-    [横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")、6月5日
-    [名古屋DIAMOND](https://zh.wikipedia.org/wiki/名古屋 "wikilink")
-    HALL、6月12日 [東京JCB](https://zh.wikipedia.org/wiki/東京 "wikilink")
-    HALL）
+  - Kalafina LIVE TOUR 2010 ～progressive ＋～（2月2日 [Umeda AKASO](https://zh.wikipedia.org/wiki/Umeda_AKASO "wikilink")、2月3日 [ボトムライン名古屋](https://zh.wikipedia.org/wiki/ボトムライン名古屋 "wikilink")、2月9日 [Shibuya O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）
+  - Kalafina LIVE TOUR 2010 in Asia（2月26日 [台北](https://zh.wikipedia.org/wiki/台北 "wikilink") 1710 Live Studio、2月28日 [上海](https://zh.wikipedia.org/wiki/上海 "wikilink") MAO Livehouse SHANGHAI、3月7日 [香港](../Page/香港.md "wikilink") HITEC Auditorium）
+  - Kajiura Produce 3rd Anniversary LIVE TOUR～Kalafina LIVE 2010“Red Moon”～（5月15日　[なんばHatch](https://zh.wikipedia.org/wiki/なんばHatch "wikilink")、5月29日 [横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")、6月5日 [名古屋DIAMOND](https://zh.wikipedia.org/wiki/名古屋 "wikilink") HALL、6月12日 [東京JCB](https://zh.wikipedia.org/wiki/東京 "wikilink") HALL）
   - Kalafina LIVE 2010 “” （12月10日\[追加公演\]・11日 ）
 
 <!-- end list -->
@@ -987,10 +937,7 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - Kalafina LIVE Spring TOUR 2011 “Magia” （3月27日 NHK大阪Hall
-    4月2日　[富山県民会館](https://zh.wikipedia.org/wiki/富山県民会館 "wikilink")　4月8日
-    [名古屋市芸術創造センター](https://zh.wikipedia.org/wiki/名古屋市芸術創造センター "wikilink")
-    4月15日 NHK Hall）
+  - Kalafina LIVE Spring TOUR 2011 “Magia” （3月27日 NHK大阪Hall 4月2日　[富山県民会館](https://zh.wikipedia.org/wiki/富山県民会館 "wikilink")　4月8日 [名古屋市芸術創造センター](https://zh.wikipedia.org/wiki/名古屋市芸術創造センター "wikilink") 4月15日 NHK Hall）
 
 <!-- end list -->
 
@@ -998,23 +945,17 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - Kalafina LIVE TOUR 2012 "After Eden" （1月7日・8日 NHK大阪ホール ，1月20日・21日
-    中京大学文化市民会館プルニエホール，1月28日・29日 中野サンプラザ 2月4日 渋谷公会堂）
-  - Kalafina LIVE TOUR 2012 “After Eden” LIVE HOUSE ver.（1月9日 広島CLUB
-    QUATTRO，1月22日 福岡DRUM LOGOS，2月2日 Shibuya O-EAST ）
+  - Kalafina LIVE TOUR 2012 "After Eden" （1月7日・8日 NHK大阪ホール ，1月20日・21日 中京大学文化市民会館プルニエホール，1月28日・29日 中野サンプラザ 2月4日 渋谷公会堂）
+  - Kalafina LIVE TOUR 2012 “After Eden” LIVE HOUSE ver.（1月9日 広島CLUB QUATTRO，1月22日 福岡DRUM LOGOS，2月2日 Shibuya O-EAST ）
 
 ## 演出
 
 ### 廣播
 
   - [こむちゃっとカウントダウン](https://zh.wikipedia.org/wiki/こむちゃっとカウントダウン "wikilink")（[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，2008年12月6日、2010年1月16日、2010年8月14日）
-  - [THE
-    WORKS](https://zh.wikipedia.org/wiki/THE_WORKS "wikilink")（[NACK5](https://zh.wikipedia.org/wiki/NACK5 "wikilink")，2009年6月14日）
-  - [FEEL SO
-    MUSE](https://zh.wikipedia.org/wiki/FEEL_SO_MUSE "wikilink")（[FM
-    FUJI](https://zh.wikipedia.org/wiki/FM_FUJI "wikilink")，2009年6月26日）
-  - MUSIC GENERATION FROM K-WEST
-    (BAY-FM、2009年6月30日・2010年1月18日・2010年9月14日)
+  - [THE WORKS](https://zh.wikipedia.org/wiki/THE_WORKS "wikilink")（[NACK5](https://zh.wikipedia.org/wiki/NACK5 "wikilink")，2009年6月14日）
+  - [FEEL SO MUSE](https://zh.wikipedia.org/wiki/FEEL_SO_MUSE "wikilink")（[FM FUJI](https://zh.wikipedia.org/wiki/FM_FUJI "wikilink")，2009年6月26日）
+  - MUSIC GENERATION FROM K-WEST (BAY-FM、2009年6月30日・2010年1月18日・2010年9月14日)
   - アニコボ (ニッポン放送、2009年6月30日・7月7日)
   - MBSうたぐみ Smile×Songs (MBSラジオ、2009年7月13日)
   - レイクサイドモーニング (FM滋賀、2009年7月16日)
@@ -1038,21 +979,13 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 ### 電視
 
   - [ぐるっと関西おひるまえ](https://zh.wikipedia.org/wiki/ぐるっと関西おひるまえ "wikilink")（[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")，2009年7月10日）
-  - [うたたね](https://zh.wikipedia.org/wiki/うたたね "wikilink")（[TOKYO
-    MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，2009年7月18日）
-  - [MUSIC JAPAN
-    リクエスト](https://zh.wikipedia.org/wiki/MUSIC_JAPAN_リクエスト "wikilink")（[MUSIC
-    JAPAN
-    TV](https://zh.wikipedia.org/wiki/MUSIC_JAPAN_TV "wikilink")，2009年7月22日）
-  - [アニメ&特撮大好き\!O・BA・MA](https://zh.wikipedia.org/wiki/アニメ&特撮大好き!O・BA・MA "wikilink")（MUSIC
-    JAPAN TV，2009年8月1日）
-  - [劇場版「空の境界」特別番組
-    ～全七章の軌跡～](../Page/空之境界.md "wikilink")（[TBS](../Page/TBS.md "wikilink")，2009年8月2日）
+  - [うたたね](https://zh.wikipedia.org/wiki/うたたね "wikilink")（[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，2009年7月18日）
+  - [MUSIC JAPAN リクエスト](https://zh.wikipedia.org/wiki/MUSIC_JAPAN_リクエスト "wikilink")（[MUSIC JAPAN TV](https://zh.wikipedia.org/wiki/MUSIC_JAPAN_TV "wikilink")，2009年7月22日）
+  - [アニメ&特撮大好き\!O・BA・MA](https://zh.wikipedia.org/wiki/アニメ&特撮大好き!O・BA・MA "wikilink")（MUSIC JAPAN TV，2009年8月1日）
+  - [劇場版「空の境界」特別番組 ～全七章の軌跡～](../Page/空之境界.md "wikilink")（[TBS](../Page/TBS.md "wikilink")，2009年8月2日）
   - [アニぱら音楽館](https://zh.wikipedia.org/wiki/アニぱら音楽館 "wikilink")（[キッズステーション](https://zh.wikipedia.org/wiki/キッズステーション "wikilink")，2009年11月3日）
-  - [MUSIC JAPAN
-    新世紀アニソンSP2](../Page/MUSIC_JAPAN.md "wikilink")（[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")，2010年1月10日）
-  - [MUSIC JAPAN
-    新世紀アニソンSP2完全版](../Page/MUSIC_JAPAN.md "wikilink")（[NHK-BS2](https://zh.wikipedia.org/wiki/NHK-BS2 "wikilink")，2010年2月13日）
+  - [MUSIC JAPAN 新世紀アニソンSP2](../Page/MUSIC_JAPAN.md "wikilink")（[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")，2010年1月10日）
+  - [MUSIC JAPAN 新世紀アニソンSP2完全版](../Page/MUSIC_JAPAN.md "wikilink")（[NHK-BS2](https://zh.wikipedia.org/wiki/NHK-BS2 "wikilink")，2010年2月13日）
   - [Mライブ](https://zh.wikipedia.org/wiki/Mライブ "wikilink")（TBS，2010年3月23日）
   - [魁\!音楽番付Eight](https://zh.wikipedia.org/wiki/魁!音楽番付Eight "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")，2010年5月5日）
   - [おもいッきりPON\!](https://zh.wikipedia.org/wiki/おもいッきりPON! "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")，2010年9月13日）
@@ -1069,24 +1002,17 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
   - [Kalafina官方網頁](http://www.kalafina.jp/)
 
-  - [Kalafina 公式ブログ Powered by
-    LINE](http://lineblog.me/kalafina/)（2015年6月9日～）
+  - [Kalafina 公式ブログ Powered by LINE](http://lineblog.me/kalafina/)（2015年6月9日～）
 
-  - [Kalafina Official
-    Blog](https://web.archive.org/web/20100103104710/http://blog.oricon.co.jp/kalafina)（～2015年8月6日）
+  - [Kalafina Official Blog](https://web.archive.org/web/20100103104710/http://blog.oricon.co.jp/kalafina)（～2015年8月6日）
 
   - [日本索尼音樂娛樂Kalafina作品介紹頁](http://www.sonymusic.co.jp/artist/kalafina/discography/)
 
-  - [Kalafinaのプロフィールならオリコン芸能人事典-ORICON
-    STYLE](http://www.oricon.co.jp/prof/artist/442690/products/release/)
+  - [Kalafinaのプロフィールならオリコン芸能人事典-ORICON STYLE](http://www.oricon.co.jp/prof/artist/442690/products/release/)
 
   -
 
-[Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:TYPE-MOON](https://zh.wikipedia.org/wiki/Category:TYPE-MOON "wikilink")
+[Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:TYPE-MOON](https://zh.wikipedia.org/wiki/Category:TYPE-MOON "wikilink")
 
 1.
 

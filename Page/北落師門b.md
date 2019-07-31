@@ -1,5 +1,4 @@
-**北落師門b**，也稱為[大袞](../Page/大袞.md "wikilink")(Dagon)，是在[南魚座](../Page/南魚座.md "wikilink")距離地球大約25[光年](../Page/光年.md "wikilink")的一顆行星\[1\]。這顆行星是在2008年[哈伯太空望遠鏡的照片中被發現環繞著](https://zh.wikipedia.org/wiki/哈伯太空望遠鏡 "wikilink")[A-型主序星](https://zh.wikipedia.org/wiki/AV星 "wikilink")[北落師門](https://zh.wikipedia.org/wiki/北落師門 "wikilink")\[2\]。北落師門b和另外3顆環繞著[HR
-8799的行星同時被宣布發現](https://zh.wikipedia.org/wiki/HR_8799 "wikilink")，他們是第一批以直接的影像證實在軌道上運行的行星。
+**北落師門b**，也稱為[大袞](../Page/大袞.md "wikilink")(Dagon)，是在[南魚座](../Page/南魚座.md "wikilink")距離地球大約25[光年](../Page/光年.md "wikilink")的一顆行星\[1\]。這顆行星是在2008年[哈伯太空望遠鏡的照片中被發現環繞著](https://zh.wikipedia.org/wiki/哈伯太空望遠鏡 "wikilink")[A-型主序星](https://zh.wikipedia.org/wiki/AV星 "wikilink")[北落師門](https://zh.wikipedia.org/wiki/北落師門 "wikilink")\[2\]。北落師門b和另外3顆環繞著[HR 8799的行星同時被宣布發現](https://zh.wikipedia.org/wiki/HR_8799 "wikilink")，他們是第一批以直接的影像證實在軌道上運行的行星。
 
 ## 發現
 
@@ -34,14 +33,9 @@
 ## 外部連結
 
   - [Preprint of discovery paper](http://arxiv.org/abs/0811.1994)
-  - [Preprint of prediction
-    paper](http://arxiv.org/abs/astro-ph/0605372)
+  - [Preprint of prediction paper](http://arxiv.org/abs/astro-ph/0605372)
 
-[Category:太陽系外行星](https://zh.wikipedia.org/wiki/Category:太陽系外行星 "wikilink")
-[Category:2008年發現的系外行星](https://zh.wikipedia.org/wiki/Category:2008年發現的系外行星 "wikilink")
-[Category:類木行星](https://zh.wikipedia.org/wiki/Category:類木行星 "wikilink")
-[Category:南魚座](https://zh.wikipedia.org/wiki/Category:南魚座 "wikilink")
-[Category:直接影像法發現的系外行星](https://zh.wikipedia.org/wiki/Category:直接影像法發現的系外行星 "wikilink")
+[Category:太陽系外行星](https://zh.wikipedia.org/wiki/Category:太陽系外行星 "wikilink") [Category:2008年發現的系外行星](https://zh.wikipedia.org/wiki/Category:2008年發現的系外行星 "wikilink") [Category:類木行星](https://zh.wikipedia.org/wiki/Category:類木行星 "wikilink") [Category:南魚座](https://zh.wikipedia.org/wiki/Category:南魚座 "wikilink") [Category:直接影像法發現的系外行星](https://zh.wikipedia.org/wiki/Category:直接影像法發現的系外行星 "wikilink")
 
 1.
 
@@ -61,9 +55,7 @@
 9.
 
 10.
-11. Predictions for a planet just inside Fomalhaut's eccentric ring,
-    Alice C. Quillen, *Monthly Notices of the Royal Astronomical
-    Society*, **372**, \#1 (October 2006), pp. L14–L18, , .
+11. Predictions for a planet just inside Fomalhaut's eccentric ring, Alice C. Quillen, *Monthly Notices of the Royal Astronomical Society*, **372**, \#1 (October 2006), pp. L14–L18, , .
 
 12.
 

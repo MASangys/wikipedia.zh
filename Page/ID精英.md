@@ -1,8 +1,8 @@
-《**ID精英**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司以紀律部隊作為題材而拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共29集，由[郭晉安及](../Page/郭晉安.md "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，並由[鄧健泓](../Page/鄧健泓.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[姜大偉及](https://zh.wikipedia.org/wiki/姜大偉 "wikilink")[梁靖琪聯合主演](../Page/梁靖琪.md "wikilink")，監製为[羅永賢](../Page/羅永賢.md "wikilink")。
+《**ID精英**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")以紀律部隊作為題材而拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共29集，由[郭晉安](../Page/郭晉安.md "wikilink")及[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")領銜主演，並由[鄧健泓](../Page/鄧健泓.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[姜大偉及](https://zh.wikipedia.org/wiki/姜大偉 "wikilink")[梁靖琪](../Page/梁靖琪.md "wikilink")聯合主演，監製为[羅永賢](../Page/羅永賢.md "wikilink")。
 
 ## 劇情
 
-[入境处专责管制边防治安及验证出入境人士身份](https://zh.wikipedia.org/wiki/入境处 "wikilink")，确保[香港境内安全](../Page/香港.md "wikilink")；身为入境处的纪律人员对身份辨识的敏锐度因而比任何人为高，但单凭一张证件或一纸文件，是否就可百分百道尽事情的真伪呢？方浚杰（[郭晋安](https://zh.wikipedia.org/wiki/郭晋安 "wikilink")）因投考入境处而认识同期学员郑柏宇（[曹永廉](../Page/曹永廉.md "wikilink")）及叶安琪（[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")），三人遂成好友。野心较大的柏宇后转投警队并跃升为重案组高级督察，当调查一命案时，发现黑社会新贵胡杰琛（[黄德斌](https://zh.wikipedia.org/wiki/黄德斌 "wikilink")）因浚杰之妻而杀人，令浚杰生活出现突变。刚与柏宇分手的安琪为帮助好友，主动为浚杰照顾儿子，经常陪伴左右，令二人处于一种非情侣却亲密的微妙关系。另方面，甚欣赏浚杰办事能力的欧顺风（[邓健泓](https://zh.wikipedia.org/wiki/邓健泓 "wikilink")），希望带浚杰走出阴霾，向主管麦启铭（姜大伟）力荐他加入调查组，令倍受关怀的浚杰重新振作，力争上游，顺利加入调查组。不久浚杰便着手彻查一个假证集团，期间竟再度遇上失纵多时的妻子并发现其非比寻常的真正身份……
+[入境处专责管制边防治安及验证出入境人士身份](https://zh.wikipedia.org/wiki/入境处 "wikilink")，确保[香港](../Page/香港.md "wikilink")境内安全；身为入境处的纪律人员对身份辨识的敏锐度因而比任何人为高，但单凭一张证件或一纸文件，是否就可百分百道尽事情的真伪呢？方浚杰（[郭晋安](https://zh.wikipedia.org/wiki/郭晋安 "wikilink")）因投考入境处而认识同期学员郑柏宇（[曹永廉](../Page/曹永廉.md "wikilink")）及叶安琪（[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")），三人遂成好友。野心较大的柏宇后转投警队并跃升为重案组高级督察，当调查一命案时，发现黑社会新贵胡杰琛（[黄德斌](https://zh.wikipedia.org/wiki/黄德斌 "wikilink")）因浚杰之妻而杀人，令浚杰生活出现突变。刚与柏宇分手的安琪为帮助好友，主动为浚杰照顾儿子，经常陪伴左右，令二人处于一种非情侣却亲密的微妙关系。另方面，甚欣赏浚杰办事能力的欧顺风（[邓健泓](https://zh.wikipedia.org/wiki/邓健泓 "wikilink")），希望带浚杰走出阴霾，向主管麦启铭（姜大伟）力荐他加入调查组，令倍受关怀的浚杰重新振作，力争上游，顺利加入调查组。不久浚杰便着手彻查一个假证集团，期间竟再度遇上失纵多时的妻子并发现其非比寻常的真正身份……
 
 ## 演員表
 
@@ -120,7 +120,7 @@ B隊主管<br />
 <td><p><strong>葉安琪</strong></p></td>
 <td><p><strong>Angel、阿Jo</strong><br />
 高級入境事務助理<br />
-沙田政府合署高級入境事務助理（<a href="../Page/大圍.md" title="wikilink">大圍分局</a>）<br />
+沙田政府合署高級入境事務助理（<a href="../Page/大圍.md" title="wikilink">大圍</a>分局）<br />
 第15集調任入境事務處檢控組<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#沙田政府合署" title="wikilink">沙田政府合署</a></strong><br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#葉家" title="wikilink">葉家</a></strong></p></td>
@@ -934,7 +934,7 @@ Vincy之男友<br />
 
 ### 與案件相關人物
 
-#### [模特兒入港事件](../Page/模特兒.md "wikilink")
+#### [模特兒](../Page/模特兒.md "wikilink")入港事件
 
 <table>
 <tbody>
@@ -1041,7 +1041,7 @@ Vincy之男友<br />
 </tbody>
 </table>
 
-#### [假結婚事件](../Page/假結婚.md "wikilink")
+#### [假結婚](../Page/假結婚.md "wikilink")事件
 
 <table>
 <tbody>
@@ -1370,7 +1370,7 @@ Vincy之男友<br />
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")之收視紀錄：
 
 |        |        |                       |                                                     |                                                     |         |
 | ------ | ------ | --------------------- | --------------------------------------------------- | --------------------------------------------------- | ------- |
@@ -1402,19 +1402,14 @@ Vincy之男友<br />
 ## 電視節目的變遷
 
 |align="center" colspan="6"|[畢打自己人](../Page/畢打自己人.md "wikilink")
-2008年10月20日-2010年2月12日 |- |align="center"
-colspan="3"|[老婆大人II](../Page/老婆大人II.md "wikilink")
+2008年10月20日-2010年2月12日 |- |align="center" colspan="3"|[老婆大人II](../Page/老婆大人II.md "wikilink")
 \-6月5日 |align="center" colspan="3"|[碧血鹽梟](../Page/碧血鹽梟.md "wikilink")
 6月8日- |- |align="center" colspan="2"|**上一套：**
 [巾幗梟雄](../Page/巾幗梟雄.md "wikilink")
-\-5月29日 |align="center"
-colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第三線劇集 "wikilink")）**
+\-5月29日 |align="center" colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第三線劇集 "wikilink")）**
 **ID精英**
 6月1日-7月5日 |align="center" colspan="1"|**下一套：**
 [烈火雄心3](../Page/烈火雄心3.md "wikilink")
 7月6日-
 
-[Category:2009年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2009年無綫電視劇集 "wikilink")
-[Category:2009年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2009年AOD電視劇集 "wikilink")
-[Category:2007無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2007無綫節目巡禮劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
+[Category:2009年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2009年無綫電視劇集 "wikilink") [Category:2009年AOD電視劇集](https://zh.wikipedia.org/wiki/Category:2009年AOD電視劇集 "wikilink") [Category:2007無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2007無綫節目巡禮劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")

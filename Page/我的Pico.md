@@ -1,5 +1,4 @@
-《**我的Pico**》（）是2006年9月7日由[Soft On
-Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。\[1\]這作是世界第一個[正太控](../Page/正太控.md "wikilink")成人動畫。\[2\]
+《**我的Pico**》（）是2006年9月7日由[Soft On Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。\[1\]這作是世界第一個[正太控](../Page/正太控.md "wikilink")成人動畫。\[2\]
 
 ## 概要
 
@@ -74,15 +73,7 @@ Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/
 
   - [ぴこWEB](https://web.archive.org/web/20061115025610/http://www.pico.bz/)官方網站
 
-[Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink")
-[Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink")
-[Category:Pico系列](https://zh.wikipedia.org/wiki/Category:Pico系列 "wikilink")
-[Category:2006年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2006年日本成人動畫 "wikilink")
-[Category:內容涉及兒童性行為的動漫作品](https://zh.wikipedia.org/wiki/Category:內容涉及兒童性行為的動漫作品 "wikilink")
+[Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink") [Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink") [Category:Pico系列](https://zh.wikipedia.org/wiki/Category:Pico系列 "wikilink") [Category:2006年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2006年日本成人動畫 "wikilink") [Category:內容涉及兒童性行為的動漫作品](https://zh.wikipedia.org/wiki/Category:內容涉及兒童性行為的動漫作品 "wikilink")
 
-1.  [My Pico
-    (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6908)[Anime
-    News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-2.  [ぼくのぴこ
-    シリーズぴこ1](http://www.getchu.com/soft.phtml?id=283925)Getchu.com
+1.  [My Pico (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6908)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
+2.  [ぼくのぴこ シリーズぴこ1](http://www.getchu.com/soft.phtml?id=283925)Getchu.com

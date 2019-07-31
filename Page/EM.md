@@ -2,8 +2,7 @@
 
 ## 城市
 
-  - [艾尔蒙地](https://zh.wikipedia.org/wiki/艾尔蒙地 "wikilink")（El
-    Monte），美国加利福尼亚州洛杉矶县的一个城市
+  - [艾尔蒙地](https://zh.wikipedia.org/wiki/艾尔蒙地 "wikilink")（El Monte），美国加利福尼亚州洛杉矶县的一个城市
 
 ## 代码
 
@@ -11,8 +10,7 @@
 
   - 的IATA代码
 
-  - [帝国航空
-    (美国)的IATA代码](https://zh.wikipedia.org/wiki/帝国航空_\(美国\) "wikilink")
+  - [帝国航空 (美国)的IATA代码](https://zh.wikipedia.org/wiki/帝国航空_\(美国\) "wikilink")
 
   - [伦敦同业拆放利率](https://zh.wikipedia.org/wiki/伦敦同业拆放利率 "wikilink")、期货合同在芝加哥商品交易所的1月路透社仪表代码
 
@@ -27,9 +25,7 @@
 
 ## 媒体
 
-  - [-{zh-cn:史诗电影 (电影); zh-tw:史詩大帝國;
-    zh-hk:搞乜鬼大製作;}-](../Page/史诗电影_\(电影\).md "wikilink")（*Epic
-    Movie*），2007年美国喜剧电影
+  - [-{zh-cn:史诗电影 (电影); zh-tw:史詩大帝國; zh-hk:搞乜鬼大製作;}-](../Page/史诗电影_\(电影\).md "wikilink")（*Epic Movie*），2007年美国喜剧电影
 
 ## 音乐
 
@@ -41,7 +37,7 @@
 
 <!-- end list -->
 
-  - {em}，欧洲[爵士乐队](../Page/爵士乐.md "wikilink")
+  - {em}，欧洲[爵士乐](../Page/爵士乐.md "wikilink")队
 
 ## 组织
 
@@ -49,8 +45,7 @@
 
 ## 院校
 
-  - [海星中學
-    (澳門)](https://zh.wikipedia.org/wiki/海星中學_\(澳門\) "wikilink")，澳门天主教耶稣会管理的中学
+  - [海星中學 (澳門)](https://zh.wikipedia.org/wiki/海星中學_\(澳門\) "wikilink")，澳门天主教耶稣会管理的中学
 
 ## 科学
 
@@ -70,8 +65,7 @@
 
   - [M](../Page/M.md "wikilink")，拉丁字母
   - [М](../Page/М.md "wikilink")，西里尔字母
-  - [Em
-    (二合字母)](https://zh.wikipedia.org/wiki/Em_\(二合字母\) "wikilink")，葡萄牙语二合字母
+  - [Em (二合字母)](https://zh.wikipedia.org/wiki/Em_\(二合字母\) "wikilink")，葡萄牙语二合字母
 
 ### 数学
 
@@ -107,14 +101,8 @@
 ## 其他
 
   - [伊拉斯莫斯世界計劃](../Page/伊拉斯莫斯世界計劃.md "wikilink")，交换生计划\<\!--
-  - [Electrician's
-    mate](https://zh.wikipedia.org/wiki/Electrician's_mate "wikilink"),
-    a rating in the U.S. Navy and U.S. Coast Guard
-  - [Etymologicum
-    Magnum](https://zh.wikipedia.org/wiki/Etymologicum_Magnum "wikilink"),
-    standard abbreviation in the bibliography of the largest Byzantine
-    lexicon, the lexical encyclopaedia compiled at Constantinople around
-    1150 AD
+  - [Electrician's mate](https://zh.wikipedia.org/wiki/Electrician's_mate "wikilink"), a rating in the U.S. Navy and U.S. Coast Guard
+  - [Etymologicum Magnum](https://zh.wikipedia.org/wiki/Etymologicum_Magnum "wikilink"), standard abbreviation in the bibliography of the largest Byzantine lexicon, the lexical encyclopaedia compiled at Constantinople around 1150 AD
 
 \--\>
 

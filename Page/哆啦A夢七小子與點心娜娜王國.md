@@ -1,5 +1,4 @@
-《**哆啦A夢七小子與點心娜娜王國**》（ザ☆ドラえもんズ
-おかしなお菓子なオカシナナ）于1999年3月6日与《[大雄的宇宙漂流记](https://zh.wikipedia.org/wiki/大雄的宇宙漂流记 "wikilink")》及《[大雄的结婚前夜](https://zh.wikipedia.org/wiki/大雄的结婚前夜 "wikilink")》同年在日本上映，由[米谷良知](../Page/米谷良知.md "wikilink")执导。片長15分鐘。
+《**哆啦A夢七小子與點心娜娜王國**》（ザ☆ドラえもんズ おかしなお菓子なオカシナナ）于1999年3月6日与《[大雄的宇宙漂流记](https://zh.wikipedia.org/wiki/大雄的宇宙漂流记 "wikilink")》及《[大雄的结婚前夜](https://zh.wikipedia.org/wiki/大雄的结婚前夜 "wikilink")》同年在日本上映，由[米谷良知](../Page/米谷良知.md "wikilink")执导。片長15分鐘。
 
 ## 剧情简介
 
@@ -16,9 +15,4 @@
       - 作曲：[石川惠樹](https://zh.wikipedia.org/wiki/石川惠樹 "wikilink")
       - 演唱：[水木一郎](../Page/水木一郎.md "wikilink")＆[堀江美都子](../Page/堀江美都子.md "wikilink")
 
-[Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink")
-[Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink")
-[Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink")
-[Category:1999年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1999年日本劇場動畫 "wikilink")
-[Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink")
-[Category:糖果甜點題材電影](https://zh.wikipedia.org/wiki/Category:糖果甜點題材電影 "wikilink")
+[Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink") [Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink") [Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink") [Category:1999年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1999年日本劇場動畫 "wikilink") [Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink") [Category:糖果甜點題材電影](https://zh.wikipedia.org/wiki/Category:糖果甜點題材電影 "wikilink")

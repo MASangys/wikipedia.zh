@@ -2,12 +2,9 @@
 
 ## 車輛簡介
 
-金輪號是在2001年由[大連機車車輛廠](https://zh.wikipedia.org/wiki/大連機車 "wikilink")、[四方机车车辆厂和](https://zh.wikipedia.org/wiki/四方机车车辆厂 "wikilink")[兰州铁路局聯合研製](https://zh.wikipedia.org/wiki/兰州铁路局 "wikilink")，主要是在[神州號的基础上进行高原性增压处理](../Page/神州號NZJ2型柴油動車組.md "wikilink")、防风沙设计，以适应中国西部地区的高海拔、大风沙环境，因此金轮号也是和神州号一样使用NZJ2的编号，屬於動力集中式雙層內燃動車組，以頭尾每端各一台[柴油機車推挽式重联牽引](../Page/柴油機車.md "wikilink")。機車和客車车厢分別由大連機車車輛廠及四方机车车辆厂負責製造。
+金輪號是在2001年由[大連機車車輛廠](https://zh.wikipedia.org/wiki/大連機車 "wikilink")、[四方机车车辆厂和](https://zh.wikipedia.org/wiki/四方机车车辆厂 "wikilink")[兰州铁路局聯合研製](https://zh.wikipedia.org/wiki/兰州铁路局 "wikilink")，主要是在[神州號的基础上进行高原性增压处理](../Page/神州號NZJ2型柴油動車組.md "wikilink")、防风沙设计，以适应中国西部地区的高海拔、大风沙环境，因此金轮号也是和神州号一样使用NZJ2的编号，屬於動力集中式雙層內燃動車組，以頭尾每端各一台[柴油機車](../Page/柴油機車.md "wikilink")推挽式重联牽引。機車和客車车厢分別由大連機車車輛廠及四方机车车辆厂負責製造。
 
-在2001年至2003年间共生产了四組金輪號列車，编号NZJ<sub>2</sub> 0006 -
-0009，包括机车四组八台，客车车厢四组，其中又分为两类：兩組（第一、四组）為**單層**客車，最初单层金轮号采用二动九拖编组，后因客流扩编至十节拖车，车种包括硬座车（YZ<sub>25DT</sub>）、硬卧车（YW<sub>25DT</sub>）和软卧车（RW<sub>25DT</sub>）；机车使用16V240ZJD型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，装车功率2940
-kW。其餘兩組（第二、三组）為**雙層**客車，双层金轮号采用二动六拖编组，曾经扩编至十节拖车，车种包括双层硬座车（SYZ<sub>25DT</sub>）和双层软座车（SRZ<sub>25DT</sub>）；机车使用带电子[燃油喷射技术的](../Page/燃料噴射裝置.md "wikilink")16V240ZJE型柴油机，装车功率3310
-kW。
+在2001年至2003年间共生产了四組金輪號列車，编号NZJ<sub>2</sub> 0006 - 0009，包括机车四组八台，客车车厢四组，其中又分为两类：兩組（第一、四组）為**單層**客車，最初单层金轮号采用二动九拖编组，后因客流扩编至十节拖车，车种包括硬座车（YZ<sub>25DT</sub>）、硬卧车（YW<sub>25DT</sub>）和软卧车（RW<sub>25DT</sub>）；机车使用16V240ZJD型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，装车功率2940 kW。其餘兩組（第二、三组）為**雙層**客車，双层金轮号采用二动六拖编组，曾经扩编至十节拖车，车种包括双层硬座车（SYZ<sub>25DT</sub>）和双层软座车（SRZ<sub>25DT</sub>）；机车使用带电子[燃油喷射技术的](../Page/燃料噴射裝置.md "wikilink")16V240ZJE型柴油机，装车功率3310 kW。
 
 ## 车内布局
 
@@ -18,21 +15,16 @@ kW。
 
 ## 车辆运用历史
 
-所有金轮号均配屬[蘭州鐵路局](https://zh.wikipedia.org/wiki/蘭州鐵路局 "wikilink")。第一列金輪號是采用雙層客車，于2001年7月26日起担当兰州和西宁之间的城际特快列车。而单层金轮号先后运行过[兰州](https://zh.wikipedia.org/wiki/兰州站 "wikilink")
--
-[玉门](https://zh.wikipedia.org/wiki/玉门站 "wikilink")、[兰州](https://zh.wikipedia.org/wiki/兰州站 "wikilink")
-- [天水之间的管内特快列车](https://zh.wikipedia.org/wiki/天水站 "wikilink")。
+所有金轮号均配屬[蘭州鐵路局](https://zh.wikipedia.org/wiki/蘭州鐵路局 "wikilink")。第一列金輪號是采用雙層客車，于2001年7月26日起担当兰州和西宁之间的城际特快列车。而单层金轮号先后运行过[兰州](https://zh.wikipedia.org/wiki/兰州站 "wikilink") - [玉门](https://zh.wikipedia.org/wiki/玉门站 "wikilink")、[兰州](https://zh.wikipedia.org/wiki/兰州站 "wikilink") - [天水之间的管内特快列车](https://zh.wikipedia.org/wiki/天水站 "wikilink")。
 
 目前金轮号动力车已经报废，拖车担当的列车车次如下：
 
-  - T6601/6602：[嘉峪关](../Page/嘉峪关站.md "wikilink") -
-    兰州，兰州客运段担当，单层拖车与[RW19K](../Page/中国铁路19K型客车.md "wikilink")、[RZ25T混编](../Page/中国铁路25T型客车.md "wikilink")，牵引机车为[SS7E](../Page/韶山7E型电力机车.md "wikilink")、[HXD3D或](https://zh.wikipedia.org/wiki/HXD3D "wikilink")[HXD1D](https://zh.wikipedia.org/wiki/HXD1D "wikilink")。
+  - T6601/6602：[嘉峪关](../Page/嘉峪关站.md "wikilink") - 兰州，兰州客运段担当，单层拖车与[RW19K](../Page/中国铁路19K型客车.md "wikilink")、[RZ25T混编](../Page/中国铁路25T型客车.md "wikilink")，牵引机车为[SS7E](../Page/韶山7E型电力机车.md "wikilink")、[HXD3D或](https://zh.wikipedia.org/wiki/HXD3D "wikilink")[HXD1D](https://zh.wikipedia.org/wiki/HXD1D "wikilink")。
 
 此前金轮号曾担当以下列车：
 
   - T9201/T9202/T9203/T9204：嘉峪关 - 兰州，兰州客运段担当，两组单层，一组双层。
-  - [T207/T208/T209/T210/T213/T214](../Page/兰州－西宁城际列车.md "wikilink")：[蘭州](https://zh.wikipedia.org/wiki/蘭州站 "wikilink")
-    - [西寧](https://zh.wikipedia.org/wiki/西寧站 "wikilink")，一组双层。
+  - [T207/T208/T209/T210/T213/T214](../Page/兰州－西宁城际列车.md "wikilink")：[蘭州](https://zh.wikipedia.org/wiki/蘭州站 "wikilink") - [西寧](https://zh.wikipedia.org/wiki/西寧站 "wikilink")，一组双层。
   - T6603/6604：[天水](https://zh.wikipedia.org/wiki/天水站 "wikilink")-兰州，一组双层，SS7E牵引。\[1\]
   - T3101/3102：-天水，双层拖车与25T型客车（车身广告贴纸图案为金轮号的涂装）混编。\[2\]
 
@@ -72,12 +64,10 @@ kW。
 
 <!-- end list -->
 
-  - [神州號官方產品介紹
-    (長春軌道客車車輛廠)](http://www.cccar.com.cn/product_intro.asp?nlid=46)
+  - [神州號官方產品介紹 (長春軌道客車車輛廠)](http://www.cccar.com.cn/product_intro.asp?nlid=46)
   - [金輪號介紹(海子鐵路網)](http://bbs.hasea.com/viewthread.php?tid=178730&extra=page%3D1)
 
-[Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink")
-[Category:蘭州鐵路局](https://zh.wikipedia.org/wiki/Category:蘭州鐵路局 "wikilink")
+[Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink") [Category:蘭州鐵路局](https://zh.wikipedia.org/wiki/Category:蘭州鐵路局 "wikilink")
 
 1.
 2.

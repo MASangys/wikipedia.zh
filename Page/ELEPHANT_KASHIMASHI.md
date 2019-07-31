@@ -1,5 +1,4 @@
-**ELEPHANT
-KASHIMASHI**（[日语](../Page/日语.md "wikilink")：****）\[1\]\[2\]，[日本的](../Page/日本.md "wikilink")[摇滚](../Page/摇滚乐.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/樂團 "wikilink")，1981年结成，1988年正式出道。现属[日本环球音乐旗下](../Page/環球音樂_\(日本\).md "wikilink")。
+**ELEPHANT KASHIMASHI**（[日语](../Page/日语.md "wikilink")：****）\[1\]\[2\]，[日本](../Page/日本.md "wikilink")的[摇滚](../Page/摇滚乐.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/樂團 "wikilink")，1981年结成，1988年正式出道。现属[日本环球音乐旗下](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 樂團成員
 
@@ -8,7 +7,7 @@ KASHIMASHI**（[日语](../Page/日语.md "wikilink")：****）\[1\]\[2\]，[日
 <!-- end list -->
 
   -
-    [東京都](../Page/東京都.md "wikilink")[北區](../Page/北區_\(東京都\).md "wikilink")[赤羽台出身](../Page/赤羽台.md "wikilink")。
+    [東京都](../Page/東京都.md "wikilink")[北區](../Page/北區_\(東京都\).md "wikilink")[赤羽台](../Page/赤羽台.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -17,7 +16,7 @@ KASHIMASHI**（[日语](../Page/日语.md "wikilink")：****）\[1\]\[2\]，[日
 <!-- end list -->
 
   -
-    東京都北區[赤羽出身](../Page/赤羽.md "wikilink")。
+    東京都北區[赤羽](../Page/赤羽.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -26,7 +25,7 @@ KASHIMASHI**（[日语](../Page/日语.md "wikilink")：****）\[1\]\[2\]，[日
 <!-- end list -->
 
   -
-    東京都[中央區](../Page/中央區_\(東京都\).md "wikilink")[月島出身](../Page/月島.md "wikilink")。
+    東京都[中央區](../Page/中央區_\(東京都\).md "wikilink")[月島](../Page/月島.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -39,9 +38,9 @@ KASHIMASHI**（[日语](../Page/日语.md "wikilink")：****）\[1\]\[2\]，[日
 
 ## 经历
 
-1997年，單曲《》（）被选為[富士電視台](../Page/富士電視台.md "wikilink")“[火九](../Page/富士電視台週二晚間九點連續劇.md "wikilink")”[连续剧](../Page/日本电视剧.md "wikilink")，由[江角真紀子主演的](../Page/江角真紀子.md "wikilink")《》（）主題曲，銷量達70萬張。
+1997年，單曲《》（）被选為[富士電視台](../Page/富士電視台.md "wikilink")“[火九](../Page/富士電視台週二晚間九點連續劇.md "wikilink")”[连续剧](../Page/日本电视剧.md "wikilink")，由[江角真紀子](../Page/江角真紀子.md "wikilink")主演的《》（）主題曲，銷量達70萬張。
 
-2007年，單曲《》（）被选為[電視廣告的主題曲](../Page/電視廣告.md "wikilink")。
+2007年，單曲《》（）被选為[電視廣告](../Page/電視廣告.md "wikilink")的主題曲。
 
 2017年，乐队出道整三十周年，首次参加NHK红白歌会。
 
@@ -130,14 +129,9 @@ KASHIMASHI**（[日语](../Page/日语.md "wikilink")：****）\[1\]\[2\]，[日
 ## 外部連結
 
   - [官方網站](http://www.elephantkashimashi.com)
-  - [musicJAPANplus艺人资料库 - Elephant
-    Kashimashi](http://www.musicjapanplus.jp/artistdb/?artist_id=207)
+  - [musicJAPANplus艺人资料库 - Elephant Kashimashi](http://www.musicjapanplus.jp/artistdb/?artist_id=207)
 
-[Category:1981年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1981年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
+[Category:1981年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1981年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
 
 1.
 2.

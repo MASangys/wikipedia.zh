@@ -15,20 +15,15 @@
 | 武裝                                                                                                    |
 | 特殊裝置                                                                                                  |
 
-**GN-007 墮天使GUNDAM（Arios
-Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
-Suit），由阿雷路亞·帕普提茲姆所駕駛。
+**GN-007 墮天使GUNDAM（Arios Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile Suit），由阿雷路亞·帕普提茲姆所駕駛。
 
 ## 介紹
 
 天上人的第四世代GUNDAM之一，於2312年首次登場。
 
-本機為[GN-003
-主天使GUNDAM的後繼機](../Page/GN-003_主天使GUNDAM.md "wikilink")，同為高速空戰可變型的機體，但基本性能較前一代更為提高。
+本機為[GN-003 主天使GUNDAM的後繼機](../Page/GN-003_主天使GUNDAM.md "wikilink")，同為高速空戰可變型的機體，但基本性能較前一代更為提高。
 
-於飛行形態時可與另一機體——[GNR-101A
-GN弓兵戰機合體](https://zh.wikipedia.org/wiki/GNR-101A_GN弓兵戰機 "wikilink")，合體後稱為「射手墮天使GUNDAM」。
+於飛行形態時可與另一機體——[GNR-101A GN弓兵戰機合體](https://zh.wikipedia.org/wiki/GNR-101A_GN弓兵戰機 "wikilink")，合體後稱為「射手墮天使GUNDAM」。
 
   - 名稱由來
 
@@ -82,8 +77,7 @@ GN弓兵戰機合體](https://zh.wikipedia.org/wiki/GNR-101A_GN弓兵戰機 "wik
 
 雙管GN粒子束步槍，是主天使GUNDAM的雙粒子束機關槍發展型。
 
-步槍上配有水晶傳感器，由天上人獨自開發，也採用在[00
-GUNDAM的GN劍](../Page/GN-0000_00_GUNDAM.md "wikilink")Ⅱ及[智天使GUNDAM的GN狙擊步槍](../Page/GN-006_智天使GUNDAM.md "wikilink")Ⅱ上。
+步槍上配有水晶傳感器，由天上人獨自開發，也採用在[00 GUNDAM的GN劍](../Page/GN-0000_00_GUNDAM.md "wikilink")Ⅱ及[智天使GUNDAM的GN狙擊步槍](../Page/GN-006_智天使GUNDAM.md "wikilink")Ⅱ上。
 
 GN雙倍粒子束步槍上方的槍身為可動式設計，飛行形態時可向下方地面攻擊，也可集束射擊。
 
@@ -121,8 +115,7 @@ MS型態時掛置於雙肩上，於變型後能合攏成為機首。
 
 ## GN-Drive
 
-相較於第三世代GUNDAM的GN-Drive皆裝在胸部，本機則是改為安裝在骨盆的位置。這是考慮到GN-Drive內的「拓撲缺陷（Topological
-Defect）」對空間會造成微弱影響，同時也為了更有效率的傳送GN粒子給與腳部推進器和GN弓兵。
+相較於第三世代GUNDAM的GN-Drive皆裝在胸部，本機則是改為安裝在骨盆的位置。這是考慮到GN-Drive內的「拓撲缺陷（Topological Defect）」對空間會造成微弱影響，同時也為了更有效率的傳送GN粒子給與腳部推進器和GN弓兵。
 
 ## 支援機
 
@@ -255,12 +248,9 @@ GN弓兵戰機和墮天使合體後會增強墮天使的機動性、火力及速
 
 官方外傳《機動戰士GUNDAM 00V》及《機動戰士GUNDAM 00I 2314》中登場，搭載「龍騎兵」裝備的墮天使GUNDAM。
 
-追加武裝參考了能天使鋼彈的戰劍、力天使鋼彈的導彈以及德天使鋼彈的加農砲數據而成，為最終決戰開發的重武裝方案；但因機體平衡性能、與GN弓兵戰機配合之間的問題下，所以實戰時採用了墮天使GUNDAM
-GNHW/M。
+追加武裝參考了能天使鋼彈的戰劍、力天使鋼彈的導彈以及德天使鋼彈的加農砲數據而成，為最終決戰開發的重武裝方案；但因機體平衡性能、與GN弓兵戰機配合之間的問題下，所以實戰時採用了墮天使GUNDAM GNHW/M。
 
-在00I
-2314已成為天使所用的3台GUNDAM之一（在大氣層和地上所使用），由尼奧·吉克（前人革聯軍超兵李奧納多·范恩斯）駕駛。在和ELS戰鬥中遭ELS侵蝕，並在侵蝕後擬態成ELS
-屠龍聖劍型墮天使鋼彈。最後被李奧納多·范恩斯和黛芬尼·貝迪利亞所駕駛的鐵人式槴子擊毁。
+在00I 2314已成為天使所用的3台GUNDAM之一（在大氣層和地上所使用），由尼奧·吉克（前人革聯軍超兵李奧納多·范恩斯）駕駛。在和ELS戰鬥中遭ELS侵蝕，並在侵蝕後擬態成ELS 屠龍聖劍型墮天使鋼彈。最後被李奧納多·范恩斯和黛芬尼·貝迪利亞所駕駛的鐵人式槴子擊毁。
 
 ## 註釋
 

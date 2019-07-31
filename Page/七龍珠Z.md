@@ -1,37 +1,27 @@
-《**七龍珠Z**》（，）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明](../Page/鳥山明.md "wikilink")漫畫《[七龍珠](../Page/七龙珠.md "wikilink")》並於1989年4月26日到1996年1月31日播放的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，共291集+2集特別篇。\[1\]標題中「[Ζ](https://zh.wikipedia.org/wiki/Ζ "wikilink")」是希臘字母（Zeta，）並不是拉丁字母「[Z](../Page/Z.md "wikilink")」。《[七龍珠](../Page/七龍珠_\(動畫\).md "wikilink")》的續集，以平均20.5%的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")
-獲得廣大觀眾歡迎。
+《**七龍珠Z**》（，）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明](../Page/鳥山明.md "wikilink")漫畫《[七龍珠](../Page/七龙珠.md "wikilink")》並於1989年4月26日到1996年1月31日播放的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，共291集+2集特別篇。\[1\]標題中「[Ζ](https://zh.wikipedia.org/wiki/Ζ "wikilink")」是希臘字母（Zeta，）並不是拉丁字母「[Z](../Page/Z.md "wikilink")」。《[七龍珠](../Page/七龍珠_\(動畫\).md "wikilink")》的續集，以平均20.5%的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink") 獲得廣大觀眾歡迎。
 
 ## 解說
 
-副標題的「Z」是鳥山明提出，指英文字母表的最後一個字母，意即七龍珠的故事即將要結束了。\[2\]但是在鳥山明向製作人解釋「Z」的涵義之前，製作人經常把這部動畫片稱為『七龍珠
-悟飯的大冒險』，孫悟空的兒子[孫悟飯比較像主角](https://zh.wikipedia.org/wiki/孫悟飯 "wikilink")，所以在本作中的原創劇情、開場與結束的動畫以描繪悟飯為主。\[3\]鳥山明「不是啦…
-我從來就不打算換掉主角」。當年『七龍珠Z』在日本正式播映前，JUMP的1989年18號收錄的特報將「Z」解釋為「究極」與「最強」的說明。
+副標題的「Z」是鳥山明提出，指英文字母表的最後一個字母，意即七龍珠的故事即將要結束了。\[2\]但是在鳥山明向製作人解釋「Z」的涵義之前，製作人經常把這部動畫片稱為『七龍珠 悟飯的大冒險』，孫悟空的兒子[孫悟飯比較像主角](https://zh.wikipedia.org/wiki/孫悟飯 "wikilink")，所以在本作中的原創劇情、開場與結束的動畫以描繪悟飯為主。\[3\]鳥山明「不是啦… 我從來就不打算換掉主角」。當年『七龍珠Z』在日本正式播映前，JUMP的1989年18號收錄的特報將「Z」解釋為「究極」與「最強」的說明。
 
 鳥山明的第一任責任編輯[鳥嶋和彥](../Page/鳥嶋和彥.md "wikilink")看了前作收視率下滑的『[七龍珠](https://zh.wikipedia.org/wiki/龍珠_\(動畫\) "wikilink")』，少年悟空貫穿比克大魔王的動畫場面，可愛的與甜美畫風還保留著，「這可不行啊」。從孫悟空長大後與孫悟飯登場的地方，鳥嶋和東映與電視台經過協商評估後，決定換掉一部分的動畫師，讓『[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")』的動畫師加入\[4\]，同時申報新的製作經費和預算，由此全新的面貌的電視動畫節目『七龍珠Z』誕生了。\[5\]
 
 ## 工作人員
 
-  - 企画 -
-    森下孝三（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")）、清水賢治（[富士電視台](../Page/富士電視台.md "wikilink")）
-  - 製片人 -
-    清水賢治（1-291話）、金田耕司（[富士電視台](../Page/富士電視台.md "wikilink")）（118-291話）
-  - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink") -
-    [鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink")『週刊少年Jump』連載）
-  - [導演](https://zh.wikipedia.org/wiki/導演 "wikilink") -
-    岸本松司（1-58話）、鳥本武（59-109話）、山口彰彦（110-169話）、末永雄一（170-291話）
+  - 企画 - 森下孝三（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")）、清水賢治（[富士電視台](../Page/富士電視台.md "wikilink")）
+  - 製片人 - 清水賢治（1-291話）、金田耕司（[富士電視台](../Page/富士電視台.md "wikilink")）（118-291話）
+  - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink") - [鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink")『週刊少年Jump』連載）
+  - [導演](https://zh.wikipedia.org/wiki/導演 "wikilink") - 岸本松司（1-58話）、鳥本武（59-109話）、山口彰彦（110-169話）、末永雄一（170-291話）
   - 系列導演 - [西尾大介](../Page/西尾大介.md "wikilink")（1-199話）
-  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink") -
-    [小山高生](../Page/小山高生.md "wikilink")
+  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink") - [小山高生](../Page/小山高生.md "wikilink")
   - 音樂 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
-  - [人物設定](https://zh.wikipedia.org/wiki/人物設定 "wikilink") -
-    [前田實](../Page/前田實.md "wikilink")（1-199話）→[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")（200-291話）
+  - [人物設定](https://zh.wikipedia.org/wiki/人物設定 "wikilink") - [前田實](../Page/前田實.md "wikilink")（1-199話）→[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")（200-291話）
   - 脚本：戸田博司、[隅沢克之](https://zh.wikipedia.org/wiki/隅沢克之 "wikilink")、[松井亜彌等](https://zh.wikipedia.org/wiki/松井亜彌 "wikilink")
   - 美術 - 池田祐二（1-199話）→徳重賢（200-291話）
   - 演出：[山内重保](https://zh.wikipedia.org/wiki/山内重保 "wikilink")、[橋本光夫](../Page/橋本光夫.md "wikilink")、上田芳裕等
   - 美術進行 - 中村實→田村晴夫→福本智雄
   - 色彩指定檢查 - 酒井日出子、澤田豊二、森田博、千田日出子、辻田邦夫
-  - 特殊効果 -
-    櫻田和哉、橋本由香里、谷藤薫児、平尾千秋、河内正行、中島正之、下川信裕、佐藤章二、岡田良明、岡島雄二、貝澤由香里、勝岡稔夫、太田直
+  - 特殊効果 - 櫻田和哉、橋本由香里、谷藤薫児、平尾千秋、河内正行、中島正之、下川信裕、佐藤章二、岡田良明、岡島雄二、貝澤由香里、勝岡稔夫、太田直
   - 後製進行 - 井上馨司
   - 攝影 - 宇宙工作室→三晃產品
   - 編集 - 福光伸一
@@ -39,14 +29,11 @@
   - 音響効果 - 新井秀德 （Fizz Sound Creation）
   - 選曲 - 宮下滋
   - 音頻總監 - 小松亘弘
-  - 演出助手、製作進行、演助進行 -
-    折目達也、上村康宏、山口彰彦、末永雄一、藤瀬順一、門田英彦、山口彰彦、石川敏浩、橋本敬子、今村隆寛、岡本晴久、藤岡和實、柳義明、松坂一光、広瀬公一、山本豪、境宗久
+  - 演出助手、製作進行、演助進行 - 折目達也、上村康宏、山口彰彦、末永雄一、藤瀬順一、門田英彦、山口彰彦、石川敏浩、橋本敬子、今村隆寛、岡本晴久、藤岡和實、柳義明、松坂一光、広瀬公一、山本豪、境宗久
   - 助理製片人 - 蛭田成一（88-291話）、木戸睦（102-109話）
-  - 公關 -
-    重岡由美子（1-103話）→名須川京子（104-109話）→川崎悦子（110-233話）→松永佳子（234-291話）（[富士電視台](../Page/富士電視台.md "wikilink")）
+  - 公關 - 重岡由美子（1-103話）→名須川京子（104-109話）→川崎悦子（110-233話）→松永佳子（234-291話）（[富士電視台](../Page/富士電視台.md "wikilink")）
   - 顯像 - 東映化學
-  - 製作 -
-    [富士電視台](../Page/富士電視台.md "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[東映](../Page/東映.md "wikilink")
+  - 製作 - [富士電視台](../Page/富士電視台.md "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[東映](../Page/東映.md "wikilink")
 
 ## 主題曲
 
@@ -54,8 +41,7 @@
 
 :; 「CHA-LA HEAD-CHA-LA」（第1話－第199話）
 
-:: 作詞 - 森雪之丞 / 作曲 - 清岡千穂 / 編曲 - 山本健司 / 歌 -
-[影山浩宣](../Page/影山浩宣.md "wikilink")
+:: 作詞 - 森雪之丞 / 作曲 - 清岡千穂 / 編曲 - 山本健司 / 歌 - [影山浩宣](../Page/影山浩宣.md "wikilink")
 
 :; 「WE GOTTA POWER」（第200話－第291話）
 
@@ -68,8 +54,7 @@
 
 :; 「」（第1話－第199話）
 
-:: 作詞 - [荒川稔久](../Page/荒川稔久.md "wikilink") / 作曲 - 池毅 / 編曲 - 山本健司 / 歌 -
-MANNA
+:: 作詞 - [荒川稔久](../Page/荒川稔久.md "wikilink") / 作曲 - 池毅 / 編曲 - 山本健司 / 歌 - MANNA
 
 :; 「」（第63話－第64話之間）
 
@@ -100,8 +85,7 @@ MANNA
 
 :: （TVSP1・「｣））
 
-:: 作曲・編曲 - [岩崎文紀](https://zh.wikipedia.org/wiki/岩崎文紀 "wikilink") /
-歌・VOICE - TOKIO / 演奏 - Dragon Majic Orchestra
+:: 作曲・編曲 - [岩崎文紀](https://zh.wikipedia.org/wiki/岩崎文紀 "wikilink") / 歌・VOICE - TOKIO / 演奏 - Dragon Majic Orchestra
 
 :; 「」（第120話）
 
@@ -109,8 +93,7 @@ MANNA
 
 :; 「」（第139話）
 
-:: 作詞 - 岩室先子 / 作曲 - 清岡千穂 / 編曲 - 山本健司 / 歌 -
-影山浩宣、[佐藤有香](../Page/佐藤有香.md "wikilink")
+:: 作詞 - 岩室先子 / 作曲 - 清岡千穂 / 編曲 - 山本健司 / 歌 - 影山浩宣、[佐藤有香](../Page/佐藤有香.md "wikilink")
 
 :; 「」（第184話）
 
@@ -2742,32 +2725,19 @@ MANNA
 
 ## 劇場版
 
-  - [-{zh-hk:天神之戰;zh-hans:七龙珠Z 热血热斗;zh-tw:七龍珠Z
-    熱血熱鬥;}-](https://zh.wikipedia.org/wiki/七龍珠Z_\(1989年劇場版\) "wikilink")（1989年7月15日）
-  - [-{zh-hk:地球最強戰士;zh-hans:七龙珠Z 世上最强之人;zh-tw:七龍珠Z
-    世上最強之人;}-](https://zh.wikipedia.org/wiki/七龍珠Z_世界最強的高手 "wikilink")（1990年3月10日）
-  - [-{zh-hk:地球爭霸戰;zh-hans:七龙珠Z 地球争霸战;zh-tw:七龍珠Z
-    地球超決戰;}-](../Page/七龍珠Z_地球超級大決戰.md "wikilink")（1990年7月7日）
-  - [-{zh-hk:超級撒亞人;zh-hans:七龙珠Z 超级赛亚人孙悟空;zh-tw:七龍珠Z
-    超級賽亞人孫悟空;}-](../Page/七龍珠Z_超級賽亞人孫悟空.md "wikilink")（1991年3月9日）
-  - [-{zh-hk:最強對最強;zh-hans:七龙珠Z 最强对最强;zh-tw:七龍珠Z
-    最強對最強;}-](../Page/七龍珠Z_最強對最強.md "wikilink")（1991年7月20日）
-  - [-{zh-hk:100億能量戰士;zh-hans:七龙珠Z 一百亿能量战士们;zh-tw:七龍珠Z
-    激鬥\!100億能量的戰士;}-](https://zh.wikipedia.org/wiki/七龍珠Z_激突!!100億能量的戰士 "wikilink")（1992年3月7日）
-  - [-{zh-hk:超激決戰人造人;zh-hans:七龙珠Z 激战人造人;zh-tw:七龍珠Z
-    激戰人造人;}-](../Page/七龍珠Z_極限之戰!!三大超級賽亞人.md "wikilink")（1992年7月11日）
-  - [-{zh-hk:終極撒亞人;zh-hans:七龙珠Z 传说中的超级赛亚人;zh-tw:七龍珠Z
-    傳說中的超級賽亞人;}-](https://zh.wikipedia.org/wiki/七龍珠Z_燃燒吧!!熱戰·烈戰·超激戰 "wikilink")（1993年3月6日）
-  - [-{zh-hk:銀河最強戰士;zh-hans:七龙珠Z 银河最强战士;zh-tw:七龍珠Z
-    銀河最強戰士;}-](../Page/七龍珠Z_銀河面臨危機!!身手不凡的高手.md "wikilink")（1993年7月10日）
-  - [-{zh-hk:超能量戰士悟天;zh-hans:七龙珠Z 两人的危机;zh-tw:七龍珠Z
-    兩人的危機;}-](https://zh.wikipedia.org/wiki/七龍珠Z_危險的二人!超級戰士難以安枕 "wikilink")（1994年3月12日）
-  - [-{zh-hk:生化戰士;zh-hans:七龙珠Z 击败超战士;zh-tw:七龍珠Z
-    擊敗超戰士;}-](https://zh.wikipedia.org/wiki/七龍珠Z_超級戰士撃破!!勝利的勇士是我 "wikilink")（1994年7月9日）
-  - [-{zh-hk:冥界超激戰;zh-hans:七龙珠Z 复活！悟空与贝吉塔的合体;zh-tw:七龍珠Z
-    復活！悟空與貝吉塔的合體;}-](../Page/七龍珠Z_復活的融合!!悟空和達爾.md "wikilink")（1995年3月4日）
-  - [-{zh-hk:龍拳爆發;zh-hans:七龙珠Z 龙拳爆发;zh-tw:七龍珠Z
-    龍拳爆發;}-](https://zh.wikipedia.org/wiki/七龍珠Z_龍拳爆發!!悟空捨我其誰 "wikilink")（1995年7月15日）
+  - [-{zh-hk:天神之戰;zh-hans:七龙珠Z 热血热斗;zh-tw:七龍珠Z 熱血熱鬥;}-](https://zh.wikipedia.org/wiki/七龍珠Z_\(1989年劇場版\) "wikilink")（1989年7月15日）
+  - [-{zh-hk:地球最強戰士;zh-hans:七龙珠Z 世上最强之人;zh-tw:七龍珠Z 世上最強之人;}-](https://zh.wikipedia.org/wiki/七龍珠Z_世界最強的高手 "wikilink")（1990年3月10日）
+  - [-{zh-hk:地球爭霸戰;zh-hans:七龙珠Z 地球争霸战;zh-tw:七龍珠Z 地球超決戰;}-](../Page/七龍珠Z_地球超級大決戰.md "wikilink")（1990年7月7日）
+  - [-{zh-hk:超級撒亞人;zh-hans:七龙珠Z 超级赛亚人孙悟空;zh-tw:七龍珠Z 超級賽亞人孫悟空;}-](../Page/七龍珠Z_超級賽亞人孫悟空.md "wikilink")（1991年3月9日）
+  - [-{zh-hk:最強對最強;zh-hans:七龙珠Z 最强对最强;zh-tw:七龍珠Z 最強對最強;}-](../Page/七龍珠Z_最強對最強.md "wikilink")（1991年7月20日）
+  - [-{zh-hk:100億能量戰士;zh-hans:七龙珠Z 一百亿能量战士们;zh-tw:七龍珠Z 激鬥\!100億能量的戰士;}-](https://zh.wikipedia.org/wiki/七龍珠Z_激突!!100億能量的戰士 "wikilink")（1992年3月7日）
+  - [-{zh-hk:超激決戰人造人;zh-hans:七龙珠Z 激战人造人;zh-tw:七龍珠Z 激戰人造人;}-](../Page/七龍珠Z_極限之戰!!三大超級賽亞人.md "wikilink")（1992年7月11日）
+  - [-{zh-hk:終極撒亞人;zh-hans:七龙珠Z 传说中的超级赛亚人;zh-tw:七龍珠Z 傳說中的超級賽亞人;}-](https://zh.wikipedia.org/wiki/七龍珠Z_燃燒吧!!熱戰·烈戰·超激戰 "wikilink")（1993年3月6日）
+  - [-{zh-hk:銀河最強戰士;zh-hans:七龙珠Z 银河最强战士;zh-tw:七龍珠Z 銀河最強戰士;}-](../Page/七龍珠Z_銀河面臨危機!!身手不凡的高手.md "wikilink")（1993年7月10日）
+  - [-{zh-hk:超能量戰士悟天;zh-hans:七龙珠Z 两人的危机;zh-tw:七龍珠Z 兩人的危機;}-](https://zh.wikipedia.org/wiki/七龍珠Z_危險的二人!超級戰士難以安枕 "wikilink")（1994年3月12日）
+  - [-{zh-hk:生化戰士;zh-hans:七龙珠Z 击败超战士;zh-tw:七龍珠Z 擊敗超戰士;}-](https://zh.wikipedia.org/wiki/七龍珠Z_超級戰士撃破!!勝利的勇士是我 "wikilink")（1994年7月9日）
+  - [-{zh-hk:冥界超激戰;zh-hans:七龙珠Z 复活！悟空与贝吉塔的合体;zh-tw:七龍珠Z 復活！悟空與貝吉塔的合體;}-](../Page/七龍珠Z_復活的融合!!悟空和達爾.md "wikilink")（1995年3月4日）
+  - [-{zh-hk:龍拳爆發;zh-hans:七龙珠Z 龙拳爆发;zh-tw:七龍珠Z 龍拳爆發;}-](https://zh.wikipedia.org/wiki/七龍珠Z_龍拳爆發!!悟空捨我其誰 "wikilink")（1995年7月15日）
   - [七龍珠Z 神與神](../Page/七龍珠Z_神與神.md "wikilink")（2013年3月30日）
 
 <!-- end list -->
@@ -2777,8 +2747,7 @@ MANNA
 
 <!-- end list -->
 
-  - [七龍珠Z
-    復活的F](https://zh.wikipedia.org/wiki/七龍珠Z_復活的F "wikilink")（2015年上映）
+  - [七龍珠Z 復活的F](https://zh.wikipedia.org/wiki/七龍珠Z_復活的F "wikilink")（2015年上映）
 
 <!-- end list -->
 
@@ -2798,8 +2767,7 @@ MANNA
 <!-- end list -->
 
   - [七龍珠Z外傳 賽亞人滅絕計畫](../Page/七龍珠Z外傳_賽亞人滅絕計畫.md "wikilink")(1993年7月23日)
-  - [七龍珠Z
-    巴達克之章](https://zh.wikipedia.org/wiki/七龍珠Z_巴達克之章 "wikilink")(2012年)
+  - [七龍珠Z 巴達克之章](https://zh.wikipedia.org/wiki/七龍珠Z_巴達克之章 "wikilink")(2012年)
 
 ## 參考來源
 
@@ -2807,31 +2775,15 @@ MANNA
 
   - [七龍珠Z動畫版官方網頁](http://www.toei-anim.co.jp/tv/dragonz/)
   - [七龍珠劇場版官方網頁](http://www.toei-anim.co.jp/ptr/dragonball/movie/)
-  - [東映動畫創立60週年紀念
-    七龍珠Z官方網頁](http://lineup.toei-anim.co.jp/ja/tv/dragonz/)
+  - [東映動畫創立60週年紀念 七龍珠Z官方網頁](http://lineup.toei-anim.co.jp/ja/tv/dragonz/)
 
-[cs:Dragon Ball\#Dragon Ball
-Z](https://zh.wikipedia.org/wiki/cs:Dragon_Ball#Dragon_Ball_Z "wikilink")
-[ro:Dragon Ball\#Dragon Ball
-Z](https://zh.wikipedia.org/wiki/ro:Dragon_Ball#Dragon_Ball_Z "wikilink")
+[cs:Dragon Ball\#Dragon Ball Z](https://zh.wikipedia.org/wiki/cs:Dragon_Ball#Dragon_Ball_Z "wikilink") [ro:Dragon Ball\#Dragon Ball Z](https://zh.wikipedia.org/wiki/ro:Dragon_Ball#Dragon_Ball_Z "wikilink")
 
-[Category:七龍珠](https://zh.wikipedia.org/wiki/Category:七龍珠 "wikilink")
-[Category:1989年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1989年日本電視動畫 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
+[Category:七龍珠](https://zh.wikipedia.org/wiki/Category:七龍珠 "wikilink") [Category:1989年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1989年日本電視動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
 
-1.  [Dragon Ball Z
-    (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=244)Anime
-    News Network
-2.  鈴木晴彦編「鳥山明×中鶴勝祥対談」『テレビアニメ完全ガイド「DRAGONBALL
-    Z」孫悟空伝説』集英社〈ジャンプ・コミックス〉、2003年10月8日、ISBN
-    4-08-873546-3、92・97頁。
+1.  [Dragon Ball Z (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=244)Anime News Network
+2.  鈴木晴彦編「鳥山明×中鶴勝祥対談」『テレビアニメ完全ガイド「DRAGONBALL Z」孫悟空伝説』集英社〈ジャンプ・コミックス〉、2003年10月8日、ISBN 4-08-873546-3、92・97頁。
 3.  「神龍通信 第5号 アニメドラゴンボールメインスタッフ座談会第2回」『ドラゴンボール大全集』別冊付録、集英社、1995年。
-4.  「鳥嶋和彦 鳥山先生と築いたヒストリー」『サンケイスポーツ特別版
-    ドラゴンボールZ復活の「F」新聞』[サンケイスポーツ](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")、2015年4月18日、28面。
+4.  「鳥嶋和彦 鳥山先生と築いたヒストリー」『サンケイスポーツ特別版 ドラゴンボールZ復活の「F」新聞』[サンケイスポーツ](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")、2015年4月18日、28面。
 5.  『[サンケイスポーツ特別版](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")2015年5月18日号　ドラゴンボールZ復活の「F」新聞』2015年4月18日、28面。
-6.  [Dragon Ball Z: The History Of Trunks
-    (special)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=133)Anime
-    News Network
+6.  [Dragon Ball Z: The History Of Trunks (special)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=133)Anime News Network

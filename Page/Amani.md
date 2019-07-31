@@ -21,8 +21,7 @@
 
 ## 參考文獻
 
-[Category:1991年歌曲](https://zh.wikipedia.org/wiki/Category:1991年歌曲 "wikilink")
-[Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
+[Category:1991年歌曲](https://zh.wikipedia.org/wiki/Category:1991年歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
 
 1.
 2.

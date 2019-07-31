@@ -1,23 +1,12 @@
-是[暴雪娛樂於](../Page/暴雪娛樂.md "wikilink")2012年5月15日發行的一款[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。是「[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")」的第三代。本作需要登入[Battle.net才能進行遊戲](https://zh.wikipedia.org/wiki/Battle.net "wikilink")，PC版即使在單機模式(single-player
-games)下也必須連上網路才能進行遊戲，也是該系列作品中唯一須全程連網的遊戲；家用游戏机版则无需全程联网。
+是[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")於2012年5月15日發行的一款[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。是「[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")」的第三代。本作需要登入[Battle.net才能進行遊戲](https://zh.wikipedia.org/wiki/Battle.net "wikilink")，PC版即使在單機模式(single-player games)下也必須連上網路才能進行遊戲，也是該系列作品中唯一須全程連網的遊戲；家用游戏机版则无需全程联网。
 
-於2008年6月28日在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎舉行的](../Page/巴黎.md "wikilink")[2008暴雪全球邀請賽中公佈研發](https://zh.wikipedia.org/wiki/暴雪嘉年華 "wikilink")《暗黑破壞神III》及播放遊戲試玩畫面\[1\]\[2\]。玩家可選擇野蠻人、巫醫、秘術師、武僧及狩魔獵人這五個職業。有資料片的話還可玩聖教軍職業，再加購數位組合包的話可玩死靈法師職業。2011年9月21日啟動[封測活動](https://zh.wikipedia.org/wiki/封測 "wikilink")\[3\]。
+於2008年6月28日在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")舉行的[2008暴雪全球邀請賽中公佈研發](https://zh.wikipedia.org/wiki/暴雪嘉年華 "wikilink")《暗黑破壞神III》及播放遊戲試玩畫面\[1\]\[2\]。玩家可選擇野蠻人、巫醫、秘術師、武僧及狩魔獵人這五個職業。有資料片的話還可玩聖教軍職業，再加購數位組合包的話可玩死靈法師職業。2011年9月21日啟動[封測活動](https://zh.wikipedia.org/wiki/封測 "wikilink")\[3\]。
 
 [资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《[奪魂之鐮](https://zh.wikipedia.org/wiki/暗黑破壞神III：奪魂之鐮 "wikilink")》于2014年3月25日发售，數位組合包《》於2017年6月27日開始發售。
 
 ## 遊戲性質
 
-《暗黑破壞神III》和前作同樣是款[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。雖然《暗黑破壞神III》會保留很多原版的遊戲特點，但它將著重在合作和小組配合上。《暗黑破壞神III》的專有引擎將與[Havok物理引擎合作](../Page/Havok引擎.md "wikilink")，創造出獨特的遊戲中的環境破壞效果。開發小組計劃支援多種不同的系統組合，而且不要求[Windows
-Vista的](../Page/Windows_Vista.md "wikilink")[DirectX](../Page/DirectX.md "wikilink")
-10\[4\]。暴雪娛樂準備同時間出版[Microsoft
-Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
-OS
-X版本](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，2013年9月3日於美國、加拿大、拉丁美洲西班牙語系地區、歐洲、澳大利亞及紐西蘭地區支援[PlayStation
-3與](../Page/PlayStation_3.md "wikilink")[Xbox
-360平台](../Page/Xbox_360.md "wikilink")。2014年8月19日則發行[PlayStation
-4與](../Page/PlayStation_4.md "wikilink")[Xbox
-One平台版本](../Page/Xbox_One.md "wikilink")；而包含所有游戏追加内容的《暗黑破壞神III
-永恒之戰》于2018年11月3日在[任天堂Switch發售](../Page/任天堂Switch.md "wikilink")，其後官方宣佈日後会以更新語言包的形式追加对中文的支持。
+《暗黑破壞神III》和前作同樣是款[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。雖然《暗黑破壞神III》會保留很多原版的遊戲特點，但它將著重在合作和小組配合上。《暗黑破壞神III》的專有引擎將與[Havok物理引擎合作](../Page/Havok引擎.md "wikilink")，創造出獨特的遊戲中的環境破壞效果。開發小組計劃支援多種不同的系統組合，而且不要求[Windows Vista的](../Page/Windows_Vista.md "wikilink")[DirectX](../Page/DirectX.md "wikilink") 10\[4\]。暴雪娛樂準備同時間出版[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS X版本](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，2013年9月3日於美國、加拿大、拉丁美洲西班牙語系地區、歐洲、澳大利亞及紐西蘭地區支援[PlayStation 3與](../Page/PlayStation_3.md "wikilink")[Xbox 360平台](../Page/Xbox_360.md "wikilink")。2014年8月19日則發行[PlayStation 4與](../Page/PlayStation_4.md "wikilink")[Xbox One平台版本](../Page/Xbox_One.md "wikilink")；而包含所有游戏追加内容的《暗黑破壞神III 永恒之戰》于2018年11月3日在[任天堂Switch](../Page/任天堂Switch.md "wikilink")發售，其後官方宣佈日後会以更新語言包的形式追加对中文的支持。
 
 ### 專家模式
 
@@ -33,12 +22,11 @@ One平台版本](../Page/Xbox_One.md "wikilink")；而包含所有游戏追加�
 
 ### 職業
 
-[D3class.png](https://zh.wikipedia.org/wiki/File:D3class.png "fig:D3class.png")
-在遊戲中，玩家們可以体验到7种职业：力量：野蠻人、聖教軍(需資料片《[奪魂之鐮](https://zh.wikipedia.org/wiki/暗黑破壞神III：奪魂之鐮 "wikilink")》)；敏捷：武僧、狩魔獵人；智力：巫醫、秘術師、死靈法師(需購買數位組合包《死靈法師的崛起》)\[7\]。
+[D3class.png](https://zh.wikipedia.org/wiki/File:D3class.png "fig:D3class.png") 在遊戲中，玩家們可以体验到7种职业：力量：野蠻人、聖教軍(需資料片《[奪魂之鐮](https://zh.wikipedia.org/wiki/暗黑破壞神III：奪魂之鐮 "wikilink")》)；敏捷：武僧、狩魔獵人；智力：巫醫、秘術師、死靈法師(需購買數位組合包《死靈法師的崛起》)\[7\]。
 
 ## 遊戲開發
 
-《暗黑破壞神III》從2001年開始研發，由當時的[暴雪北方負責](https://zh.wikipedia.org/wiki/暴雪北方 "wikilink")，2005年暴雪北方公司關閉營運後，研發團隊整併至[暴雪娛樂繼續執行](../Page/暴雪娛樂.md "wikilink")，直到2008年6月28日在[巴黎舉行的](../Page/巴黎.md "wikilink")[暴風雪全球邀請賽才首度公布遊戲畫面](https://zh.wikipedia.org/wiki/2008暴雪全球邀請賽 "wikilink")\[8\]。
+《暗黑破壞神III》從2001年開始研發，由當時的[暴雪北方負責](https://zh.wikipedia.org/wiki/暴雪北方 "wikilink")，2005年暴雪北方公司關閉營運後，研發團隊整併至[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")繼續執行，直到2008年6月28日在[巴黎](../Page/巴黎.md "wikilink")舉行的[暴風雪全球邀請賽才首度公布遊戲畫面](https://zh.wikipedia.org/wiki/2008暴雪全球邀請賽 "wikilink")\[8\]。
 
 ## 伺服器
 
@@ -56,28 +44,11 @@ One平台版本](../Page/Xbox_One.md "wikilink")；而包含所有游戏追加�
 
   - [大陆中文官方网站](http://www.diablo3.com.cn/home)
 
-  - [暗黑破壞神Ⅲ
-    測試許可及常見問題](http://tw.battle.net/d3/zh/blog/401134#c-364336602)
+  - [暗黑破壞神Ⅲ 測試許可及常見問題](http://tw.battle.net/d3/zh/blog/401134#c-364336602)
 
   - [凯恩之角](http://d.163.com/)
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink")
-[Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:暗黑破坏神系列电子游戏](https://zh.wikipedia.org/wiki/Category:暗黑破坏神系列电子游戏 "wikilink")
-[Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Xbox_360游戏](https://zh.wikipedia.org/wiki/Category:Xbox_360游戏 "wikilink")
-[Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:可選主角性別遊戲](https://zh.wikipedia.org/wiki/Category:可選主角性別遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink") [Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:暗黑破坏神系列电子游戏](https://zh.wikipedia.org/wiki/Category:暗黑破坏神系列电子游戏 "wikilink") [Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Xbox_360游戏](https://zh.wikipedia.org/wiki/Category:Xbox_360游戏 "wikilink") [Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:可選主角性別遊戲](https://zh.wikipedia.org/wiki/Category:可選主角性別遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
 

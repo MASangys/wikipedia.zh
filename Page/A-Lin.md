@@ -4,22 +4,19 @@
 
 ### 事業起飛
 
-1999年，A-Lin在[南投教](../Page/南投縣.md "wikilink")[921地震受災兒童吟唱聖詩](https://zh.wikipedia.org/wiki/921地震 "wikilink")《[Amazing
-Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前經紀人Jason發掘\[1\]；4年後，雙方再次在A-Lin的駐唱酒吧「EZ5」碰面，並於2005年4月15日正式簽約，合約內容為十年九張音樂作品。\[2\]
+1999年，A-Lin在[南投教](../Page/南投縣.md "wikilink")[921地震受災兒童吟唱聖詩](https://zh.wikipedia.org/wiki/921地震 "wikilink")《[Amazing Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前經紀人Jason發掘\[1\]；4年後，雙方再次在A-Lin的駐唱酒吧「EZ5」碰面，並於2005年4月15日正式簽約，合約內容為十年九張音樂作品。\[2\]
 
 2006年2月10日，她發行個人首張專輯《[失戀無罪](../Page/失戀無罪.md "wikilink")》\[3\]，並獲得「天生歌姬」稱號\[4\]。同年，她在[張惠妹](../Page/張惠妹.md "wikilink")主動邀約下參與其製作的《愛上卡門》[音樂劇](../Page/音樂劇.md "wikilink")，飾演第二女主角，彩排半年後於年末在[臺北小巨蛋演出兩場](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")\[5\]。
 
 ### 結婚生子
 
-2007年5月，A-Lin以個人首張專輯《[失戀無罪](../Page/失戀無罪.md "wikilink")》首度入圍[金曲獎最佳新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")\[6\]。同年6月，[愛貝克思發行了A](../Page/愛貝克思_\(台灣\).md "wikilink")-Lin的首張[EP專輯](https://zh.wikipedia.org/wiki/EP "wikilink")《[愛
-請問怎麼走](../Page/愛_請問怎麼走.md "wikilink")》\[7\]。因[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")[生子等原因](https://zh.wikipedia.org/wiki/懷孕 "wikilink")，A-Lin此後一直沒有推出專輯。
+2007年5月，A-Lin以個人首張專輯《[失戀無罪](../Page/失戀無罪.md "wikilink")》首度入圍[金曲獎最佳新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")\[6\]。同年6月，[愛貝克思發行了A](../Page/愛貝克思_\(台灣\).md "wikilink")-Lin的首張[EP專輯](https://zh.wikipedia.org/wiki/EP "wikilink")《[愛 請問怎麼走](../Page/愛_請問怎麼走.md "wikilink")》\[7\]。因[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")[生子等原因](https://zh.wikipedia.org/wiki/懷孕 "wikilink")，A-Lin此後一直沒有推出專輯。
 
 2008年8月，愛貝克思發行了A-Lin第二張專輯《[天生歌姬](../Page/天生歌姬_\(黃麗玲專輯\).md "wikilink")》\[8\]，她也憑借此專輯首次入圍臺灣[金曲獎最佳國語女歌手獎](https://zh.wikipedia.org/wiki/金曲獎最佳國語女歌手獎 "wikilink")\[9\]。
 
 ### 產後復出
 
-2009年12月28日，A-Lin發行了她第三張個人專輯《[以前
-以後](../Page/以前_以後.md "wikilink")》\[10\]。
+2009年12月28日，A-Lin發行了她第三張個人專輯《[以前 以後](../Page/以前_以後.md "wikilink")》\[10\]。
 
 2010年12月24日，她在[聖誕節前夕發行第四張個人專輯](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")《[寂寞不痛](../Page/寂寞不痛.md "wikilink")》\[11\]。
 
@@ -27,11 +24,9 @@ Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前
 
 ### 穩步上揚
 
-2012年5月，A-Lin帶著新作品《我們會更好的》再次入圍金曲獎\[14\]。同年12月30日，她發行第六張個人專輯《[幸福了
-然後呢](../Page/幸福了_然後呢.md "wikilink")》，該專輯在華語專輯榜連續超過一年進入前二十位\[15\]。
+2012年5月，A-Lin帶著新作品《我們會更好的》再次入圍金曲獎\[14\]。同年12月30日，她發行第六張個人專輯《[幸福了 然後呢](../Page/幸福了_然後呢.md "wikilink")》，該專輯在華語專輯榜連續超過一年進入前二十位\[15\]。
 
-2013年3月和6月，A-Lin分別在臺北小巨蛋和[香港紅磡體育館舉行了兩場](https://zh.wikipedia.org/wiki/香港紅磡體育館 "wikilink")[巡迴演唱會](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")，並創下小巨蛋單場人數最多紀錄\[16\]\[17\]。同年9月，因愛貝克思將裁撤其華語部門，A-Lin自10月起不得不另覓[經紀公司](../Page/經紀公司.md "wikilink")\[18\]。
-同年11月，她因故推辭多場跨年和[尾牙表演](https://zh.wikipedia.org/wiki/尾牙 "wikilink")，但仍出席非音樂類活動和[代言](https://zh.wikipedia.org/wiki/代言人 "wikilink")。
+2013年3月和6月，A-Lin分別在臺北小巨蛋和[香港紅磡體育館舉行了兩場](https://zh.wikipedia.org/wiki/香港紅磡體育館 "wikilink")[巡迴演唱會](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")，並創下小巨蛋單場人數最多紀錄\[16\]\[17\]。同年9月，因愛貝克思將裁撤其華語部門，A-Lin自10月起不得不另覓[經紀公司](../Page/經紀公司.md "wikilink")\[18\]。 同年11月，她因故推辭多場跨年和[尾牙表演](https://zh.wikipedia.org/wiki/尾牙 "wikilink")，但仍出席非音樂類活動和[代言](https://zh.wikipedia.org/wiki/代言人 "wikilink")。
 
 2014年2月22日，A-Lin於臺北小巨蛋第9屆[KKBOX數位音樂風雲榜頒獎典禮上獲得](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")2014「年度十大風雲歌手」獎項，這是她連續第四次獲得該獎項\[19\]。同年5月15日，她正式加盟[台灣索尼音樂](../Page/台灣索尼音樂娛樂.md "wikilink")\[20\]。同年6月28日，她再度受邀於[第25屆金曲獎頒獎典禮以](https://zh.wikipedia.org/wiki/第25屆金曲獎 "wikilink")[搖滾形式獻唱](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[江蕙](../Page/江蕙.md "wikilink")的[台語歌曲](https://zh.wikipedia.org/wiki/台語歌曲 "wikilink")\[21\]。同年12月30日，她發行第七張個人專輯《[罪惡感](https://zh.wikipedia.org/wiki/罪惡感 "wikilink")》\[22\]。
 
@@ -1300,8 +1295,7 @@ Rap詞：J.Sheon</p></td>
 
 ### 電影
 
-  - 《[比悲傷更悲傷的故事](../Page/比悲傷更悲傷的故事_\(2018年電影\).md "wikilink")》（2018年11月30日）：飾
-    A-Lin（**客串**）
+  - 《[比悲傷更悲傷的故事](../Page/比悲傷更悲傷的故事_\(2018年電影\).md "wikilink")》（2018年11月30日）：飾 A-Lin（**客串**）
 
 ### 配音
 
@@ -1492,17 +1486,7 @@ Rap詞：J.Sheon</p></td>
   -
   -
   -
-[Category:1983年出生](https://zh.wikipedia.org/wiki/Category:1983年出生 "wikilink")
-[Category:台灣女歌手](https://zh.wikipedia.org/wiki/Category:台灣女歌手 "wikilink")
-[Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink")
-[Category:台灣原住民歌手](https://zh.wikipedia.org/wiki/Category:台灣原住民歌手 "wikilink")
-[Category:臺灣天主教徒](https://zh.wikipedia.org/wiki/Category:臺灣天主教徒 "wikilink")
-[Category:阿美族人](https://zh.wikipedia.org/wiki/Category:阿美族人 "wikilink")
-[Category:成功人](https://zh.wikipedia.org/wiki/Category:成功人 "wikilink")
-[Category:苓雅人](https://zh.wikipedia.org/wiki/Category:苓雅人 "wikilink")
-[Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink")
-[Category:臺東人](https://zh.wikipedia.org/wiki/Category:臺東人 "wikilink")
-[Category:黃姓](https://zh.wikipedia.org/wiki/Category:黃姓 "wikilink")
+[Category:1983年出生](https://zh.wikipedia.org/wiki/Category:1983年出生 "wikilink") [Category:台灣女歌手](https://zh.wikipedia.org/wiki/Category:台灣女歌手 "wikilink") [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:台灣原住民歌手](https://zh.wikipedia.org/wiki/Category:台灣原住民歌手 "wikilink") [Category:臺灣天主教徒](https://zh.wikipedia.org/wiki/Category:臺灣天主教徒 "wikilink") [Category:阿美族人](https://zh.wikipedia.org/wiki/Category:阿美族人 "wikilink") [Category:成功人](https://zh.wikipedia.org/wiki/Category:成功人 "wikilink") [Category:苓雅人](https://zh.wikipedia.org/wiki/Category:苓雅人 "wikilink") [Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink") [Category:臺東人](https://zh.wikipedia.org/wiki/Category:臺東人 "wikilink") [Category:黃姓](https://zh.wikipedia.org/wiki/Category:黃姓 "wikilink")
 
 1.
 

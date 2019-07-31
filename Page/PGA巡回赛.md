@@ -1,15 +1,8 @@
-**PGA巡回赛**（英文：，简称“美巡赛”）是一项[美国](../Page/美国.md "wikilink")职业[高尔夫球系列赛事的统称](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，也是负责运作这些赛事的机构本身的名称。其总部设于[佛罗里达州](../Page/佛罗里达州.md "wikilink")[杰克逊维尔市郊外的蓬特委德拉海滩](https://zh.wikipedia.org/wiki/杰克逊维尔市 "wikilink")（Ponte
-Vedra Beach）。该组织的名称也经常被表示为全部大写的"**PGA TOUR**"。
+**PGA巡回赛**（英文：，简称“美巡赛”）是一项[美国](../Page/美国.md "wikilink")职业[高尔夫球系列赛事的统称](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，也是负责运作这些赛事的机构本身的名称。其总部设于[佛罗里达州](../Page/佛罗里达州.md "wikilink")[杰克逊维尔市郊外的蓬特委德拉海滩](https://zh.wikipedia.org/wiki/杰克逊维尔市 "wikilink")（Ponte Vedra Beach）。该组织的名称也经常被表示为全部大写的"**PGA TOUR**"。
 
 ## 沿革
 
-从1968年起，PGA巡回赛从[美国职业高尔夫球协会](https://zh.wikipedia.org/wiki/美国职业高尔夫球协会 "wikilink")（简称为PGA
-of America）中分立出来，后者则成为球会职业球员的组织体。而独立的球员组成了新的组织，名为职业高尔夫球员协会（the
-Association of Professional Golfers
-，简称APG）。但在不久后，职业球员决定解散APG，同时成立一个由10名理事管理的PGA巡回赛球员分部[1](http://www.pga.com/pgaofamerica/history/1960-1969.html)，这一组织的名称在1975年正式变成现有的名称——“PGA
-Tour”[2](http://www.pga.com/pgaofamerica/history/1970-1979.html)。1981年，PGA巡回赛与USPGA在市场开拓方面产生纠纷，之后在同年8月下旬决定将名称改为“TPA
-Tour”，即“巡回赛球员协会”（）的缩写\[1\]。但七个月后这场纠纷得到解决，于是巡回赛名称在1982年3月又改回成“PGA
-Tour”\[2\]。
+从1968年起，PGA巡回赛从[美国职业高尔夫球协会](https://zh.wikipedia.org/wiki/美国职业高尔夫球协会 "wikilink")（简称为PGA of America）中分立出来，后者则成为球会职业球员的组织体。而独立的球员组成了新的组织，名为职业高尔夫球员协会（the Association of Professional Golfers ，简称APG）。但在不久后，职业球员决定解散APG，同时成立一个由10名理事管理的PGA巡回赛球员分部[1](http://www.pga.com/pgaofamerica/history/1960-1969.html)，这一组织的名称在1975年正式变成现有的名称——“PGA Tour”[2](http://www.pga.com/pgaofamerica/history/1970-1979.html)。1981年，PGA巡回赛与USPGA在市场开拓方面产生纠纷，之后在同年8月下旬决定将名称改为“TPA Tour”，即“巡回赛球员协会”（）的缩写\[1\]。但七个月后这场纠纷得到解决，于是巡回赛名称在1982年3月又改回成“PGA Tour”\[2\]。
 
 世界高尔夫球坛存在多个容易混淆的*PGA*。PGA巡回赛并不举办[四大赛和](https://zh.wikipedia.org/wiki/四大赛 "wikilink")[莱德杯](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")。USPGA举办了四大满贯赛之一的**[PGA锦标赛](https://zh.wikipedia.org/wiki/PGA锦标赛 "wikilink")**和[高级PGA锦标赛](https://zh.wikipedia.org/wiki/高级PGA锦标赛 "wikilink")，同时该组织还与**[PGA欧洲巡回赛](https://zh.wikipedia.org/wiki/PGA欧洲巡回赛 "wikilink")**联合举办莱德杯赛。另外，PGA巡回赛也不涉及美国女子高尔夫球赛，后者由[女子职业高尔夫球协会](https://zh.wikipedia.org/wiki/女子职业高尔夫球协会 "wikilink")（缩写为“**LPGA**”）运作。PGA巡回赛也并不是美国高尔夫球运动的主管机构，相反，[美国高尔夫球协会](https://zh.wikipedia.org/wiki/美国高尔夫球协会 "wikilink")（，缩写为“USGA”）是美国高尔夫球运动的官方权威机构，其负责举办另一项大满贯赛事“[美国公开赛](https://zh.wikipedia.org/wiki/美国公开赛 "wikilink")”。PGA巡回赛组织的赛事包括1月份至11月份每周均有的巡回赛事，也包括[球员锦标赛](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")、[联邦快递杯赛以及两年一度的](https://zh.wikipedia.org/wiki/联邦快递杯 "wikilink")[总统杯](../Page/总统杯.md "wikilink")等。
 
@@ -18,10 +11,8 @@ Tour”\[2\]。
 PGA巡回赛主要运营美国境内的三项巡回赛，另外还在[加拿大](../Page/加拿大.md "wikilink")和[墨西哥](../Page/墨西哥.md "wikilink")不定期举办赛事。
 
   - **PGA巡回赛**（PGA Tour），顶级赛事；
-  - [冠军巡回赛](https://zh.wikipedia.org/wiki/冠军巡回赛 "wikilink")（Champions
-    Tour），為50岁以上高尔夫球员所舉辦的；
-  - [全国巡回赛](https://zh.wikipedia.org/wiki/全国巡回赛 "wikilink")（Nationwide
-    Tour），一项中级赛事。
+  - [冠军巡回赛](https://zh.wikipedia.org/wiki/冠军巡回赛 "wikilink")（Champions Tour），為50岁以上高尔夫球员所舉辦的；
+  - [全国巡回赛](https://zh.wikipedia.org/wiki/全国巡回赛 "wikilink")（Nationwide Tour），一项中级赛事。
 
 PGA巡回赛主办方还在每年秋天举办一项六轮比赛的资格巡回赛（经常被称为“[Q-School](https://zh.wikipedia.org/wiki/Q-School "wikilink")”）。这项赛事中的前25名（包括并列）可以获邀参加下一年度的PGA巡回赛。而所有前75名成绩的选手可以参加下一年度的全国巡回赛。
 
@@ -31,10 +22,7 @@ PGA巡回赛主办方还在每年秋天举办一项六轮比赛的资格巡回�
 
 赢得一项PGA巡回赛赛事的冠军，就可以获得一张参加今后两年全部巡回赛的资格卡，如再多赢一场，资格卡期限可再增加一年，依此类推，但上限为5年。赢得[世界高尔夫球锦标赛](../Page/世界高尔夫球锦标赛.md "wikilink")或[巡回锦标赛的冠军](https://zh.wikipedia.org/wiki/巡回锦标赛 "wikilink")，则可以获得3年的免资格赛特权。如赢得了四大满贯赛事中任何一项冠军或者[球员锦标赛的冠军](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")，免资格赛特权可达5年。此外还有一些免资格赛特权规定，例如：获得20次以上巡回赛赛事冠军的，可以终生免参加资格赛；列入[生涯奖金榜](https://web.archive.org/web/20070714123708/http://www.pgatour.com/r/stats/current/014.html)前50名但不满足其他免资格赛条件的，可以获得在一年度内的一次免资格赛特权；上述奖金榜前25名的选手可以获得在一年度内的两次免资格赛特权；对于一些因伤病退出赛季的选手，可以使用医疗免资格赛特权而重新获得资格卡。
 
-与其他几项主要运动类似，并没有规则明文禁止女性参加PGA巡回赛。在2003年，Annika Sörenstam和Suzy
-Whaley作为女性代表参加了PGA巡回赛，而[魏圣美](../Page/魏圣美.md "wikilink")在2004年至2008年持续参加了这一巡回赛。但是这三位女选手都未能在比赛中成功晋级至后半段（make
-the
-cut），其中魏圣美在2004年距离晋级标准仅有一杆之差。与此相反，[美国女子职业高尔夫球协会组织](https://zh.wikipedia.org/wiki/美国女子职业高尔夫球协会 "wikilink")（简称LPGA）与其他女子运动组织一样，其组织的赛事仅限定女性选手参加。
+与其他几项主要运动类似，并没有规则明文禁止女性参加PGA巡回赛。在2003年，Annika Sörenstam和Suzy Whaley作为女性代表参加了PGA巡回赛，而[魏圣美](../Page/魏圣美.md "wikilink")在2004年至2008年持续参加了这一巡回赛。但是这三位女选手都未能在比赛中成功晋级至后半段（make the cut），其中魏圣美在2004年距离晋级标准仅有一杆之差。与此相反，[美国女子职业高尔夫球协会组织](https://zh.wikipedia.org/wiki/美国女子职业高尔夫球协会 "wikilink")（简称LPGA）与其他女子运动组织一样，其组织的赛事仅限定女性选手参加。
 
 PGA巡回赛具有浓厚的公益慈善色彩，往往代表着举办地的慈善事业发展程度。除了个别几项历史较久的赛事外，大多数PGA巡回赛都为非营利性质，同时PGA巡回赛组织本身也是一个非营利组织。2005年，该组织发起了一项旨在募集十亿美金善款的活动，而最终在该赛季结束前一周达到了这个目标。
 
@@ -42,15 +30,9 @@ PGA巡回赛具有浓厚的公益慈善色彩，往往代表着举办地的慈�
 
 ## 媒体转播
 
-2006年1月，PGA巡回赛公布了2007年至2012年的新的媒体转播方案。CBS的体育频道将继续担任PGA巡回赛的主要报道合作伙伴，而且每赛季将逐步增加报道16至19个赛事。
-而NBC体育频道将增加5至10个赛事的报道。另外，The Golf
-Channel成为了该巡回赛15年间的互联网转播商。以上这些转播权都不包括对四大满贯赛事的转播，这是因为PGA巡回赛对于四大赛事并没有支配权。而在电台方面，主要由CBS（[美国名人赛和](https://zh.wikipedia.org/wiki/美国名人赛 "wikilink")[PGA锦标赛](https://zh.wikipedia.org/wiki/PGA锦标赛 "wikilink")），NBC（[美国公开赛](https://zh.wikipedia.org/wiki/美国公开赛 "wikilink")）以及ESPN（[英国公开赛](https://zh.wikipedia.org/wiki/英国公开赛 "wikilink")）等机构提供直播。
+2006年1月，PGA巡回赛公布了2007年至2012年的新的媒体转播方案。CBS的体育频道将继续担任PGA巡回赛的主要报道合作伙伴，而且每赛季将逐步增加报道16至19个赛事。 而NBC体育频道将增加5至10个赛事的报道。另外，The Golf Channel成为了该巡回赛15年间的互联网转播商。以上这些转播权都不包括对四大满贯赛事的转播，这是因为PGA巡回赛对于四大赛事并没有支配权。而在电台方面，主要由CBS（[美国名人赛和](https://zh.wikipedia.org/wiki/美国名人赛 "wikilink")[PGA锦标赛](https://zh.wikipedia.org/wiki/PGA锦标赛 "wikilink")），NBC（[美国公开赛](https://zh.wikipedia.org/wiki/美国公开赛 "wikilink")）以及ESPN（[英国公开赛](https://zh.wikipedia.org/wiki/英国公开赛 "wikilink")）等机构提供直播。
 
-PGA巡回赛在美国以外的地区也有较高的收视率。在英国，[天空体育](https://zh.wikipedia.org/wiki/天空体育 "wikilink")（Sky
-Sports）在2006年以前是该赛事的主要转播媒体，但据媒体报道，其竞争对手Setanta
-Sports通过一份高达1亿零3百万的合约，获得了从2007年起6年间在英国和爱尔兰的独占转播权。这一转播方案包括了冠军巡回赛和全国巡回赛的赛事，但与美国媒体一样，并不包括四大满贯赛事的转播权。同时与其他美国媒体不同的是，Setanta
-Sports不包括世界高尔夫球锦标赛的转播。为了更好地转播高尔夫球比赛，Setanta Sports还特地设立了Setanta
-Golf频道来提供转播节目\[3\]。
+PGA巡回赛在美国以外的地区也有较高的收视率。在英国，[天空体育](https://zh.wikipedia.org/wiki/天空体育 "wikilink")（Sky Sports）在2006年以前是该赛事的主要转播媒体，但据媒体报道，其竞争对手Setanta Sports通过一份高达1亿零3百万的合约，获得了从2007年起6年间在英国和爱尔兰的独占转播权。这一转播方案包括了冠军巡回赛和全国巡回赛的赛事，但与美国媒体一样，并不包括四大满贯赛事的转播权。同时与其他美国媒体不同的是，Setanta Sports不包括世界高尔夫球锦标赛的转播。为了更好地转播高尔夫球比赛，Setanta Sports还特地设立了Setanta Golf频道来提供转播节目\[3\]。
 
 在美国和加拿大，PGA巡回赛的电台转播节目可以在XM卫星电台收听到，频道号为146。
 
@@ -58,31 +40,19 @@ Golf频道来提供转播节目\[3\]。
 
 ### 赛季概况
 
-每年7月至8月间，四大满贯赛事中的三项集中在这一时期举行。在过去，这段时期会成为巡回赛的低谷期，因为许多顶尖高手都选择参加大满贯赛事。为此，巡回赛举办方引入了一种新的赛制，即联邦快递杯赛（FedEx
-Cup）。每年1月至8月中旬，球员们参加所谓的“常规赛”（regular
-season）赛事，并根据成绩赢取联邦快递杯赛积分和奖金。在常规赛季末，联邦快递杯总积分排名前144名的选手获得参加“季后赛”（playoffs）的资格。季后赛在8月中旬至9月中旬期间举行，共有四项赛事。四项赛事的参赛名额从144依次减至120、70，最终形成参加巡回赛锦标赛的30名选手名额。这四轮比赛中，选手将赢取额外积分。在锦标赛结束后，所有积分累积，得最高分者为当年度冠军。为实现这一赛制，比赛组织方对传统的赛事日程做出了大幅修改。
+每年7月至8月间，四大满贯赛事中的三项集中在这一时期举行。在过去，这段时期会成为巡回赛的低谷期，因为许多顶尖高手都选择参加大满贯赛事。为此，巡回赛举办方引入了一种新的赛制，即联邦快递杯赛（FedEx Cup）。每年1月至8月中旬，球员们参加所谓的“常规赛”（regular season）赛事，并根据成绩赢取联邦快递杯赛积分和奖金。在常规赛季末，联邦快递杯总积分排名前144名的选手获得参加“季后赛”（playoffs）的资格。季后赛在8月中旬至9月中旬期间举行，共有四项赛事。四项赛事的参赛名额从144依次减至120、70，最终形成参加巡回赛锦标赛的30名选手名额。这四轮比赛中，选手将赢取额外积分。在锦标赛结束后，所有积分累积，得最高分者为当年度冠军。为实现这一赛制，比赛组织方对传统的赛事日程做出了大幅修改。
 
-2007年，[球员锦标赛](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")（The
-Players
-Championship）被前移至五月举行，成为赛季最初连续5个月中的焦点之战。而[巡回赛锦标赛](https://zh.wikipedia.org/wiki/巡回赛锦标赛 "wikilink")（Tour
-Championship）则放到九月中旬举行，之后紧接着国际性团体赛事，即[莱德杯或](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")[总统杯](../Page/总统杯.md "wikilink")。这一赛程安排在2008年和2009年有了细微的变化：在联邦快递杯季后赛第三项赛事，即[宝马锦标赛](https://zh.wikipedia.org/wiki/宝马锦标赛 "wikilink")（BMW
-Championship）后，巡回赛会增加一个周末的休整期。2008年，这一休整期出现在莱德杯前，而巡回赛锦标赛则在莱德杯之后举行。2009年，休整期后先举行巡回赛锦标赛，再隔两周后举行总统杯比赛。
+2007年，[球员锦标赛](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")（The Players Championship）被前移至五月举行，成为赛季最初连续5个月中的焦点之战。而[巡回赛锦标赛](https://zh.wikipedia.org/wiki/巡回赛锦标赛 "wikilink")（Tour Championship）则放到九月中旬举行，之后紧接着国际性团体赛事，即[莱德杯或](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")[总统杯](../Page/总统杯.md "wikilink")。这一赛程安排在2008年和2009年有了细微的变化：在联邦快递杯季后赛第三项赛事，即[宝马锦标赛](https://zh.wikipedia.org/wiki/宝马锦标赛 "wikilink")（BMW Championship）后，巡回赛会增加一个周末的休整期。2008年，这一休整期出现在莱德杯前，而巡回赛锦标赛则在莱德杯之后举行。2009年，休整期后先举行巡回赛锦标赛，再隔两周后举行总统杯比赛。
 
-进入秋季后，巡回赛的主角将是一些非顶尖选手的竞争。从2007年起开始设立的这一阶段被称为PGA巡回赛秋季系列赛（PGA Tour Fall
-Series），共有5-7项赛事。
+进入秋季后，巡回赛的主角将是一些非顶尖选手的竞争。从2007年起开始设立的这一阶段被称为PGA巡回赛秋季系列赛（PGA Tour Fall Series），共有5-7项赛事。
 
-2007年起，巡回赛中引入了一项在墨西哥举行的选择性赛事，这一赛事与[埃森哲世界高尔夫比洞赛](https://zh.wikipedia.org/wiki/埃森哲世界高尔夫比洞赛 "wikilink")（WGC-Accenture
-Match Play
-Championship）在同一天举行\[4\]。而2008年，赛事扩展到了[波多黎各](../Page/波多黎各.md "wikilink")。
+2007年起，巡回赛中引入了一项在墨西哥举行的选择性赛事，这一赛事与[埃森哲世界高尔夫比洞赛](https://zh.wikipedia.org/wiki/埃森哲世界高尔夫比洞赛 "wikilink")（WGC-Accenture Match Play Championship）在同一天举行\[4\]。而2008年，赛事扩展到了[波多黎各](../Page/波多黎各.md "wikilink")。
 
 ### 赛事
 
-2009年PGA巡回赛的常规赛季为45周，共有48个赛事，其中47个为正式带奖金的赛事，包括四项与较高等级赛事在同一天举行的选择性赛事。第48项赛事为[总统杯](../Page/总统杯.md "wikilink")团体赛。大多数职业球员都会选择参加全赛季中的20到30项赛事。巡回赛的举办路线是根据气候变化确定的。赛季初，比赛从温暖的[夏威夷开始](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，之后的2个月在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")和[亚利桑那州巡回](https://zh.wikipedia.org/wiki/亚利桑那州 "wikilink")（即所谓的西海岸区，West
-Coast
-Swing），之后赛事移至美国东南部（即所谓的南部区）。从4月起，巡回赛事开始北上。整个夏季将在东北和中西部地区度过，最后的秋季系列将再次回到南部各州。
+2009年PGA巡回赛的常规赛季为45周，共有48个赛事，其中47个为正式带奖金的赛事，包括四项与较高等级赛事在同一天举行的选择性赛事。第48项赛事为[总统杯](../Page/总统杯.md "wikilink")团体赛。大多数职业球员都会选择参加全赛季中的20到30项赛事。巡回赛的举办路线是根据气候变化确定的。赛季初，比赛从温暖的[夏威夷开始](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，之后的2个月在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")和[亚利桑那州巡回](https://zh.wikipedia.org/wiki/亚利桑那州 "wikilink")（即所谓的西海岸区，West Coast Swing），之后赛事移至美国东南部（即所谓的南部区）。从4月起，巡回赛事开始北上。整个夏季将在东北和中西部地区度过，最后的秋季系列将再次回到南部各州。
 
-大多数赛事中，参赛名额为132、144或156，这取决于每年的不同情况和白昼比赛时间的长短。所有晋级到后半段的选手（make the
-cut）都可以获得多少不等的奖金，而一般冠军的奖金往往可以占总奖金额的18%。
+大多数赛事中，参赛名额为132、144或156，这取决于每年的不同情况和白昼比赛时间的长短。所有晋级到后半段的选手（make the cut）都可以获得多少不等的奖金，而一般冠军的奖金往往可以占总奖金额的18%。
 
 2008年，巡回赛政策委员会决定修改晋级球员的数量。晋级标准仍为前70名（含并列）成绩，除非因并列而产生超过78名以上的晋级球员。如出现这一情况，那么晋级分数线将被调整，即在不超过78名晋级球员的前提下取最接近70名的人数。那些虽然取得70名或更好成绩但仍被新规则淘汰的选手将获得奖金和联邦快递杯积分。这一新规则立即在年初三项赛事中的两项（即[夏威夷索尼公开赛和别克邀请赛](https://zh.wikipedia.org/wiki/夏威夷索尼公开赛 "wikilink")）中得到运用。在2月下旬，政策委员会又对规则进行修正，并在本田经典赛中首次施行。最新规则要求在36洞比赛中决出前70名（含并列），但如果这导致晋级球员超过78名，则将根据54洞成绩决出最后的晋级球员名单\[5\]。
 
@@ -572,61 +542,28 @@ Children's Miracle Network Classic</p></td>
 
 ### 赛事类别说明
 
-  - **[四大赛](https://zh.wikipedia.org/wiki/四大赛 "wikilink")（Major）**:
-    男子职业高尔夫球坛的四大世界性顶级赛事，分别为：美国名人赛、美国公开赛、英国公开赛和PGA锦标赛。每项赛事的冠军均自动获得100个[OWGR积分](https://zh.wikipedia.org/wiki/OWGR "wikilink")。
-  - **[世界高尔夫锦标赛](https://zh.wikipedia.org/wiki/世界高尔夫锦标赛 "wikilink")
-    （WGC）**:
-    由[PGA巡回赛国际联合会组织的一系列赛事](https://zh.wikipedia.org/wiki/PGA巡回赛国际联合会 "wikilink")，参加者为世界各地顶尖高尔夫球手。
+  - **[四大赛](https://zh.wikipedia.org/wiki/四大赛 "wikilink")（Major）**: 男子职业高尔夫球坛的四大世界性顶级赛事，分别为：美国名人赛、美国公开赛、英国公开赛和PGA锦标赛。每项赛事的冠军均自动获得100个[OWGR积分](https://zh.wikipedia.org/wiki/OWGR "wikilink")。
+  - **[世界高尔夫锦标赛](https://zh.wikipedia.org/wiki/世界高尔夫锦标赛 "wikilink") （WGC）**: 由[PGA巡回赛国际联合会组织的一系列赛事](https://zh.wikipedia.org/wiki/PGA巡回赛国际联合会 "wikilink")，参加者为世界各地顶尖高尔夫球手。
   - **特别赛**: 巡回赛中的两项特殊性赛事，其特殊之处在于：
-      - [梅赛德斯-奔驰锦标赛](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰锦标赛 "wikilink")（Mercedes-Benz
-        Championship）是每个赛季的首个赛事，其参赛者仅为上一赛季各项巡回赛事的冠军得主，这一点也可以从原有赛事名称——“冠军决胜赛”（Tournament
-        of
-        Champions，1953-1993)——看出。因此，这项赛事的参赛者人数相对较少，也不存在36洞之后淘汰部分选手的做法。
-      - [球员锦标赛](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")（The
-        Players
-        Championship）是除了四大赛和世界高尔夫锦标赛之外，唯一吸引了绝大多数世界顶级球员参加的赛事，因此越来越多地被媒体称为“第五个大满贯赛事”。其特殊性在世界高尔夫官方排名系统中也得到了体现。与四大赛相似的是，球员锦标赛冠军得主将固定不变地获得80点积分，仅比四大赛的积分少20%。而其他常规赛事的积分则取决于每年参赛选手的整体排名状况。在北美地区，有部分人希望将该赛事升级为第五项大满贯赛事，并在联邦快递杯赛积分系统中与现有的四大赛获得相同的地位，但在世界范围内并没有得到广泛的支持。而任何对于世界高尔夫排名算法的修改都需要得到全球性的支持意见，因此目前这一修改方案并未得到实施。
-  - **季后赛**:
-    每年度联邦快递杯赛的最后四项赛事被统称为“季后赛”。经过常规赛的竞争后，获得积分榜前144名的选手将进入[巴克莱高球赛](https://zh.wikipedia.org/wiki/巴克莱高球赛 "wikilink")（the
-    Barclays）。之后进入下一项赛事的参赛者将从前一个赛事的参赛者中通过淘汰决定：[德意志银行锦标赛](https://zh.wikipedia.org/wiki/德意志银行锦标赛 "wikilink")（前120名）；[宝马锦标赛](https://zh.wikipedia.org/wiki/宝马锦标赛 "wikilink")（前70名）；[巡回赛锦标赛](https://zh.wikipedia.org/wiki/巡回赛锦标赛 "wikilink")（前30名）。
-  - **团体赛**:
-    在单数年份和双数年份，12名美国顶级球手将代表国家队分别参加[莱德杯和](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")[总统杯](../Page/总统杯.md "wikilink")的角逐。莱德杯是美国顶级球员与欧洲顶级球员的集体对抗赛，其知名度和竞技水平不亚于四大赛。而总统杯是美国顶级球员与未参加莱德杯比赛的其他国家地区的顶级球员之间的对抗赛，其知名度略低于莱德杯，但仍是全球高尔夫球坛的一大盛事。这两项赛事都不设奖金，因此与奖金排行榜没有关系，但高尔夫球手均以参加这两项赛事为职业生涯中的无上荣誉。
-  - **常规赛**:
-    除上述各种比赛外，于每周举行的固定赛事。各项赛事在知名度和参与度上有所区别，这并不一定取决于赛事的奖金多少。一般下列因素会影响赛事的水平：
+      - [梅赛德斯-奔驰锦标赛](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰锦标赛 "wikilink")（Mercedes-Benz Championship）是每个赛季的首个赛事，其参赛者仅为上一赛季各项巡回赛事的冠军得主，这一点也可以从原有赛事名称——“冠军决胜赛”（Tournament of Champions，1953-1993)——看出。因此，这项赛事的参赛者人数相对较少，也不存在36洞之后淘汰部分选手的做法。
+      - [球员锦标赛](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")（The Players Championship）是除了四大赛和世界高尔夫锦标赛之外，唯一吸引了绝大多数世界顶级球员参加的赛事，因此越来越多地被媒体称为“第五个大满贯赛事”。其特殊性在世界高尔夫官方排名系统中也得到了体现。与四大赛相似的是，球员锦标赛冠军得主将固定不变地获得80点积分，仅比四大赛的积分少20%。而其他常规赛事的积分则取决于每年参赛选手的整体排名状况。在北美地区，有部分人希望将该赛事升级为第五项大满贯赛事，并在联邦快递杯赛积分系统中与现有的四大赛获得相同的地位，但在世界范围内并没有得到广泛的支持。而任何对于世界高尔夫排名算法的修改都需要得到全球性的支持意见，因此目前这一修改方案并未得到实施。
+  - **季后赛**: 每年度联邦快递杯赛的最后四项赛事被统称为“季后赛”。经过常规赛的竞争后，获得积分榜前144名的选手将进入[巴克莱高球赛](https://zh.wikipedia.org/wiki/巴克莱高球赛 "wikilink")（the Barclays）。之后进入下一项赛事的参赛者将从前一个赛事的参赛者中通过淘汰决定：[德意志银行锦标赛](https://zh.wikipedia.org/wiki/德意志银行锦标赛 "wikilink")（前120名）；[宝马锦标赛](https://zh.wikipedia.org/wiki/宝马锦标赛 "wikilink")（前70名）；[巡回赛锦标赛](https://zh.wikipedia.org/wiki/巡回赛锦标赛 "wikilink")（前30名）。
+  - **团体赛**: 在单数年份和双数年份，12名美国顶级球手将代表国家队分别参加[莱德杯和](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")[总统杯](../Page/总统杯.md "wikilink")的角逐。莱德杯是美国顶级球员与欧洲顶级球员的集体对抗赛，其知名度和竞技水平不亚于四大赛。而总统杯是美国顶级球员与未参加莱德杯比赛的其他国家地区的顶级球员之间的对抗赛，其知名度略低于莱德杯，但仍是全球高尔夫球坛的一大盛事。这两项赛事都不设奖金，因此与奖金排行榜没有关系，但高尔夫球手均以参加这两项赛事为职业生涯中的无上荣誉。
+  - **常规赛**: 除上述各种比赛外，于每周举行的固定赛事。各项赛事在知名度和参与度上有所区别，这并不一定取决于赛事的奖金多少。一般下列因素会影响赛事的水平：
       - 赛事在年度日程中的位置。顶级球员往往为了不与重大赛事冲突，而选择性地参加某些赛事。
       - 过往历届冠军的资历和表现。
       - 使用球场的设计和评价。
       - 与某位传奇球星的关系。下列六项赛事都与高尔夫巨星有着一定的关联：
-          - [惠普拜伦·尼尔森锦标赛](https://zh.wikipedia.org/wiki/惠普拜伦·尼尔森锦标赛 "wikilink")（HP
-            Byron Nelson
-            Championship），以拜伦·尼尔森冠名，在2007年之前是PGA巡回赛中唯一一项以球手名字命名的赛事。
-          - [阿诺德·帕尔默邀请赛](https://zh.wikipedia.org/wiki/阿诺德·帕尔默邀请赛 "wikilink")（Arnold
-            Palmer Invitational），原为“the Bay
-            Hill邀请赛”，后以阿诺德·帕尔默命名，并在其拥有的高尔夫球度假村内举行。
-          - [北方信托公开赛](https://zh.wikipedia.org/wiki/北方信托公开赛 "wikilink")（the
-            Northern Trust
-            Open）和[殖民地邀请赛](https://zh.wikipedia.org/wiki/殖民地邀请赛 "wikilink")（Crowne
-            Plaza Invitational at
-            Colonial），均以著名球星[本·霍根](../Page/本·霍根.md "wikilink")（Ben
-            Hogan）而知名，尤其是后者，霍根曾五次夺得其锦标。
-          - [纪念锦标赛](https://zh.wikipedia.org/wiki/纪念锦标赛 "wikilink")（Memorial
-            Tournament），由传奇巨星[杰克·尼克劳斯创立](https://zh.wikipedia.org/wiki/杰克·尼克劳斯 "wikilink")，并在其设计的球场举办，成为每年度受人关注的一项赛事。
-          - [AT\&T全国赛](https://zh.wikipedia.org/wiki/AT&T全国赛 "wikilink")（AT\&T
-            National），著名球星[泰格·伍兹数度参加这项赛事](https://zh.wikipedia.org/wiki/泰格·伍兹 "wikilink")，使得其知名度大大提升。
-  - **邀请赛**:
-    赛事性质与常规赛相近，但参赛人数规模略小（由主办方邀请100-120名选手）。上一年度奖金榜前70名选手和该赛事的以往历届冠军将自动获邀参赛。由赞助商邀请的选手名额也在逐年增加，而且有些邀请赛也允许卫冕冠军邀请一至数名业余选手参加。邀请赛包括[殖民地邀请赛](https://zh.wikipedia.org/wiki/殖民地邀请赛 "wikilink")、[阿诺德·帕尔默邀请赛](https://zh.wikipedia.org/wiki/阿诺德·帕尔默邀请赛 "wikilink")、[韦里孙传统赛](https://zh.wikipedia.org/wiki/韦里孙传统赛 "wikilink")、[纪念高球赛等](https://zh.wikipedia.org/wiki/纪念高球赛 "wikilink")。上述赛事或是与某位高球传奇巨星有密切关系，或是拥有优质的比赛球场。
-  - **选择性**:
-    与另一项较高水准的赛事在同一周举办，因此参赛者水平和奖金数额较低。参加这类赛事的球员往往徘徊于奖金榜125名至150名之间，他们希望在这类竞争相对不激烈的比赛中取得胜利，而迅速提升自己的排名。由于其参与者水平较低，赛事也只能获得PGA巡回赛中最低的积分——24分。
-  - **秋季系列**:
-    在每年联邦快递杯赛季的季后赛结束后（巡回赛锦标赛）之后，秋季系列比赛会向奖金榜排行靠后的选手开放。通过这一系列比赛的争夺，获得加分的幸运儿将保住下一赛季巡回赛的参赛资格，而无需再次经受Q-School的残酷竞争。
+          - [惠普拜伦·尼尔森锦标赛](https://zh.wikipedia.org/wiki/惠普拜伦·尼尔森锦标赛 "wikilink")（HP Byron Nelson Championship），以拜伦·尼尔森冠名，在2007年之前是PGA巡回赛中唯一一项以球手名字命名的赛事。
+          - [阿诺德·帕尔默邀请赛](https://zh.wikipedia.org/wiki/阿诺德·帕尔默邀请赛 "wikilink")（Arnold Palmer Invitational），原为“the Bay Hill邀请赛”，后以阿诺德·帕尔默命名，并在其拥有的高尔夫球度假村内举行。
+          - [北方信托公开赛](https://zh.wikipedia.org/wiki/北方信托公开赛 "wikilink")（the Northern Trust Open）和[殖民地邀请赛](https://zh.wikipedia.org/wiki/殖民地邀请赛 "wikilink")（Crowne Plaza Invitational at Colonial），均以著名球星[本·霍根](../Page/本·霍根.md "wikilink")（Ben Hogan）而知名，尤其是后者，霍根曾五次夺得其锦标。
+          - [纪念锦标赛](https://zh.wikipedia.org/wiki/纪念锦标赛 "wikilink")（Memorial Tournament），由传奇巨星[杰克·尼克劳斯创立](https://zh.wikipedia.org/wiki/杰克·尼克劳斯 "wikilink")，并在其设计的球场举办，成为每年度受人关注的一项赛事。
+          - [AT\&T全国赛](https://zh.wikipedia.org/wiki/AT&T全国赛 "wikilink")（AT\&T National），著名球星[泰格·伍兹数度参加这项赛事](https://zh.wikipedia.org/wiki/泰格·伍兹 "wikilink")，使得其知名度大大提升。
+  - **邀请赛**: 赛事性质与常规赛相近，但参赛人数规模略小（由主办方邀请100-120名选手）。上一年度奖金榜前70名选手和该赛事的以往历届冠军将自动获邀参赛。由赞助商邀请的选手名额也在逐年增加，而且有些邀请赛也允许卫冕冠军邀请一至数名业余选手参加。邀请赛包括[殖民地邀请赛](https://zh.wikipedia.org/wiki/殖民地邀请赛 "wikilink")、[阿诺德·帕尔默邀请赛](https://zh.wikipedia.org/wiki/阿诺德·帕尔默邀请赛 "wikilink")、[韦里孙传统赛](https://zh.wikipedia.org/wiki/韦里孙传统赛 "wikilink")、[纪念高球赛等](https://zh.wikipedia.org/wiki/纪念高球赛 "wikilink")。上述赛事或是与某位高球传奇巨星有密切关系，或是拥有优质的比赛球场。
+  - **选择性**: 与另一项较高水准的赛事在同一周举办，因此参赛者水平和奖金数额较低。参加这类赛事的球员往往徘徊于奖金榜125名至150名之间，他们希望在这类竞争相对不激烈的比赛中取得胜利，而迅速提升自己的排名。由于其参与者水平较低，赛事也只能获得PGA巡回赛中最低的积分——24分。
+  - **秋季系列**: 在每年联邦快递杯赛季的季后赛结束后（巡回赛锦标赛）之后，秋季系列比赛会向奖金榜排行靠后的选手开放。通过这一系列比赛的争夺，获得加分的幸运儿将保住下一赛季巡回赛的参赛资格，而无需再次经受Q-School的残酷竞争。
 
-此外，还有一些获PGA巡回赛官方认可但不计入奖金榜排名的赛事，其大多在年末（11月和12月）举行。这些非正式的赛事多半为了配合电视观众的需要，包括[PGA高尔夫大满贯](https://zh.wikipedia.org/wiki/PGA高尔夫大满贯 "wikilink")（PGA
-Grand Slam of
-Golf）、[温德3轮挑战赛](https://zh.wikipedia.org/wiki/温德3轮挑战赛 "wikilink")（Wendy's
-3-Tour
-Challenge）、[富兰克林邓普顿高球赛](https://zh.wikipedia.org/wiki/富兰克林邓普顿高球赛 "wikilink")（Franklin
-Templeton
-Shootout）和[争奖赛](https://zh.wikipedia.org/wiki/争奖赛 "wikilink")（Skins
-Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏谑为“拙劣赛季”。
+此外，还有一些获PGA巡回赛官方认可但不计入奖金榜排名的赛事，其大多在年末（11月和12月）举行。这些非正式的赛事多半为了配合电视观众的需要，包括[PGA高尔夫大满贯](https://zh.wikipedia.org/wiki/PGA高尔夫大满贯 "wikilink")（PGA Grand Slam of Golf）、[温德3轮挑战赛](https://zh.wikipedia.org/wiki/温德3轮挑战赛 "wikilink")（Wendy's 3-Tour Challenge）、[富兰克林邓普顿高球赛](https://zh.wikipedia.org/wiki/富兰克林邓普顿高球赛 "wikilink")（Franklin Templeton Shootout）和[争奖赛](https://zh.wikipedia.org/wiki/争奖赛 "wikilink")（Skins Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏谑为“拙劣赛季”。
 
 ## 2009年度奖金榜前10名
 
@@ -1376,24 +1313,9 @@ Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏�
 
 注释:
 
-1.  1991年单赛季获得2次冠军的球员：[比利·安德拉德](https://zh.wikipedia.org/wiki/比利·安德拉德 "wikilink")（Billy
-    Andrade）、[马克·布鲁克斯](https://zh.wikipedia.org/wiki/马克·布鲁克斯 "wikilink")（Mark
-    Brooks）、[弗雷德·卡波斯](https://zh.wikipedia.org/wiki/弗雷德·卡波斯 "wikilink")（Fred
-    Couples）、[安德鲁·玛吉](https://zh.wikipedia.org/wiki/安德鲁·玛吉 "wikilink")（Andrew
-    Magee）、[科里·帕文](https://zh.wikipedia.org/wiki/科里·帕文 "wikilink")（Corey
-    Pavin）、尼克·普莱斯、[汤姆·普茨尔](https://zh.wikipedia.org/wiki/汤姆·普茨尔 "wikilink")（Tom
-    Purtzer）、[伊安·沃斯纳姆](https://zh.wikipedia.org/wiki/伊安·沃斯纳姆 "wikilink")（Ian
-    Woosnam）
-2.  1983年单赛季获得2次冠军的球员：[塞維·巴勒斯特羅](https://zh.wikipedia.org/wiki/塞維·巴勒斯特羅 "wikilink")（Seve
-    Ballesteros）、[吉姆·科博特](https://zh.wikipedia.org/wiki/吉姆·科博特 "wikilink")（Jim
-    Colbert）、[马克·麦克卡波尔](https://zh.wikipedia.org/wiki/马克·麦克卡波尔 "wikilink")（Mark
-    McCumber）、[吉尔·摩根](https://zh.wikipedia.org/wiki/吉尔·摩根 "wikilink")（Gil
-    Morgan）、卡尔文·皮特、[豪尔·萨顿](https://zh.wikipedia.org/wiki/豪尔·萨顿 "wikilink")（Hal
-    Sutton）、兰尼·沃德金斯、[福兹·佐勒尔](https://zh.wikipedia.org/wiki/福兹·佐勒尔 "wikilink")（Fuzzy
-    Zoeller）
-3.  1969年单赛季获得3次冠军的球员：比利·加士柏、[雷蒙德·弗洛伊德](https://zh.wikipedia.org/wiki/雷蒙德·弗洛伊德 "wikilink")（Raymond
-    Floyd）、[戴夫·希尔](https://zh.wikipedia.org/wiki/戴夫·希尔 "wikilink")（Dave
-    Hill）、杰克·尼克劳斯
+1.  1991年单赛季获得2次冠军的球员：[比利·安德拉德](https://zh.wikipedia.org/wiki/比利·安德拉德 "wikilink")（Billy Andrade）、[马克·布鲁克斯](https://zh.wikipedia.org/wiki/马克·布鲁克斯 "wikilink")（Mark Brooks）、[弗雷德·卡波斯](https://zh.wikipedia.org/wiki/弗雷德·卡波斯 "wikilink")（Fred Couples）、[安德鲁·玛吉](https://zh.wikipedia.org/wiki/安德鲁·玛吉 "wikilink")（Andrew Magee）、[科里·帕文](https://zh.wikipedia.org/wiki/科里·帕文 "wikilink")（Corey Pavin）、尼克·普莱斯、[汤姆·普茨尔](https://zh.wikipedia.org/wiki/汤姆·普茨尔 "wikilink")（Tom Purtzer）、[伊安·沃斯纳姆](https://zh.wikipedia.org/wiki/伊安·沃斯纳姆 "wikilink")（Ian Woosnam）
+2.  1983年单赛季获得2次冠军的球员：[塞維·巴勒斯特羅](https://zh.wikipedia.org/wiki/塞維·巴勒斯特羅 "wikilink")（Seve Ballesteros）、[吉姆·科博特](https://zh.wikipedia.org/wiki/吉姆·科博特 "wikilink")（Jim Colbert）、[马克·麦克卡波尔](https://zh.wikipedia.org/wiki/马克·麦克卡波尔 "wikilink")（Mark McCumber）、[吉尔·摩根](https://zh.wikipedia.org/wiki/吉尔·摩根 "wikilink")（Gil Morgan）、卡尔文·皮特、[豪尔·萨顿](https://zh.wikipedia.org/wiki/豪尔·萨顿 "wikilink")（Hal Sutton）、兰尼·沃德金斯、[福兹·佐勒尔](https://zh.wikipedia.org/wiki/福兹·佐勒尔 "wikilink")（Fuzzy Zoeller）
+3.  1969年单赛季获得3次冠军的球员：比利·加士柏、[雷蒙德·弗洛伊德](https://zh.wikipedia.org/wiki/雷蒙德·弗洛伊德 "wikilink")（Raymond Floyd）、[戴夫·希尔](https://zh.wikipedia.org/wiki/戴夫·希尔 "wikilink")（Dave Hill）、杰克·尼克劳斯
 
 ### 获得奖金榜冠军次数的排名
 
@@ -1407,13 +1329,7 @@ Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏�
 
 ## 年度最佳球员等荣誉
 
-美国高尔夫球界主要的年度个人大奖有两类。**[PGA年度最佳球员](../Page/PGA年度最佳球员.md "wikilink")（PGA
-Player of the
-Year）**创始于1948年，由美国职业高尔夫球协会颁发。从1982年起，组织者通过统计比赛成绩、积分等数据选出最佳球员。另一个为**[PGA巡回赛年度最佳球员](https://zh.wikipedia.org/wiki/PGA巡回赛年度最佳球员 "wikilink")（PGA
-Tour Player of the
-Year）**，又被称为**杰克·尼克劳斯奖杯**，是由PGA巡回赛组织于1990年设立的奖项。该奖项的得主由全体参赛球员投票选举产生，但最后组织者仅公布得票最高者的名字。正如下表所示，1992年至2008年期间，每年的两项大奖都被同一个选手获得。1990年，**年度最佳新人奖（Rookie
-of the
-Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。事实上，许多选手在获得新人奖之前，已经在其他巡回赛或国际赛事上取得了辉煌的成绩，其中一些也已年过三十。
+美国高尔夫球界主要的年度个人大奖有两类。**[PGA年度最佳球员](../Page/PGA年度最佳球员.md "wikilink")（PGA Player of the Year）**创始于1948年，由美国职业高尔夫球协会颁发。从1982年起，组织者通过统计比赛成绩、积分等数据选出最佳球员。另一个为**[PGA巡回赛年度最佳球员](https://zh.wikipedia.org/wiki/PGA巡回赛年度最佳球员 "wikilink")（PGA Tour Player of the Year）**，又被称为**杰克·尼克劳斯奖杯**，是由PGA巡回赛组织于1990年设立的奖项。该奖项的得主由全体参赛球员投票选举产生，但最后组织者仅公布得票最高者的名字。正如下表所示，1992年至2008年期间，每年的两项大奖都被同一个选手获得。1990年，**年度最佳新人奖（Rookie of the Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。事实上，许多选手在获得新人奖之前，已经在其他巡回赛或国际赛事上取得了辉煌的成绩，其中一些也已年过三十。
 
 <table>
 <thead>
@@ -1878,16 +1794,11 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
   - [PGA.com 美国职业高尔夫球协会官方网站](http://www.pga.com)
   - [PGA巡回赛赛事分布地图](http://www.golfworldmap.com/pgatour.html)
 
-[Category:高爾夫球賽事](https://zh.wikipedia.org/wiki/Category:高爾夫球賽事 "wikilink")
-[Category:美国体育](https://zh.wikipedia.org/wiki/Category:美国体育 "wikilink")
+[Category:高爾夫球賽事](https://zh.wikipedia.org/wiki/Category:高爾夫球賽事 "wikilink") [Category:美国体育](https://zh.wikipedia.org/wiki/Category:美国体育 "wikilink")
 
 1.
 2.
-3.  [3](http://www.timesonline.co.uk/newspaper/0,,176-2252447,00.html).
-    *[星期天时报](https://zh.wikipedia.org/wiki/星期天时报 "wikilink")*,
-    2006年7月1日。
+3.  [3](http://www.timesonline.co.uk/newspaper/0,,176-2252447,00.html). *[星期天时报](https://zh.wikipedia.org/wiki/星期天时报 "wikilink")*, 2006年7月1日。
 4.  [PGA巡回赛在墨西哥举办正式赛事](http://www.pgatour.com/info/company/story/9163568)
-
 5.  [PGA巡回赛政策委员会紧急修改晋级规则](http://www.pgatour.com/2008/r/02/26/cut/index.html)
-
 6.  每项赛事的冠军和成绩靠前者都会根据一定的规则取得官方世界高尔夫排名的积分。

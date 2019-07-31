@@ -1,11 +1,8 @@
-**Theatre
-Echo**（）是[日本](../Page/日本.md "wikilink")的[劇團和](https://zh.wikipedia.org/wiki/劇團 "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")。座落於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")。法人商號為「**[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")**」。
+**Theatre Echo**（）是[日本](../Page/日本.md "wikilink")的[劇團和](https://zh.wikipedia.org/wiki/劇團 "wikilink")[藝能事務所](https://zh.wikipedia.org/wiki/藝能事務所 "wikilink")。座落於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")。法人商號為「**[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")**」。
 
 ## 概要
 
-1950年以「山神會」之名發起。1954年名稱改變為「戲劇團テアトル·エコー」。1957年法人化。主要上演著[Neil
-Simon等的喜劇一年](https://zh.wikipedia.org/wiki/Neil_Simon "wikilink")2～4次。演員也同時兼任[聲優](../Page/聲優.md "wikilink")，1990年代從前半部分左右開始，對職業聲優秀的增加伴隨的聲優秀的偶像化表現著否定性的見解，沒有以前那樣對動畫的casting積極，為此活動以動畫為中心的演員的大部分，為那個時候把所謂聲優秀業做為正業的事務所轉會了。可是，外畫·海外電視劇的after
-recording現在積極地也過去著。
+1950年以「山神會」之名發起。1954年名稱改變為「戲劇團テアトル·エコー」。1957年法人化。主要上演著[Neil Simon等的喜劇一年](https://zh.wikipedia.org/wiki/Neil_Simon "wikilink")2～4次。演員也同時兼任[聲優](../Page/聲優.md "wikilink")，1990年代從前半部分左右開始，對職業聲優秀的增加伴隨的聲優秀的偶像化表現著否定性的見解，沒有以前那樣對動畫的casting積極，為此活動以動畫為中心的演員的大部分，為那個時候把所謂聲優秀業做為正業的事務所轉會了。可是，外畫·海外電視劇的after recording現在積極地也過去著。
 
 ## 所屬演員
 
@@ -61,8 +58,7 @@ recording現在積極地也過去著。
 
   - [北澤彪](https://zh.wikipedia.org/wiki/北澤彪 "wikilink")(創辦人)(故人)
   - [池水通洋](https://zh.wikipedia.org/wiki/池水通洋 "wikilink")(現所屬[青二Production](https://zh.wikipedia.org/wiki/青二Production "wikilink"))
-  - [伊澤弘](https://zh.wikipedia.org/wiki/伊澤弘 "wikilink")(現所屬[劇團Big
-    Face](https://zh.wikipedia.org/wiki/劇團Big_Face "wikilink"))
+  - [伊澤弘](https://zh.wikipedia.org/wiki/伊澤弘 "wikilink")(現所屬[劇團Big Face](https://zh.wikipedia.org/wiki/劇團Big_Face "wikilink"))
   - [石森達幸](../Page/石森達幸.md "wikilink")(故人)
   - [市川治](../Page/市川治.md "wikilink")(故人)
   - [伊武雅刀](../Page/伊武雅刀.md "wikilink")(現所屬[PAPADO](https://zh.wikipedia.org/wiki/PAPADO "wikilink"))
@@ -78,8 +74,7 @@ recording現在積極地也過去著。
   - [熊倉一雄](../Page/熊倉一雄.md "wikilink")（代表取締役）(故人)
   - [倉口佳三](https://zh.wikipedia.org/wiki/倉口佳三 "wikilink")
   - [倉根啓幸](https://zh.wikipedia.org/wiki/倉根啓幸 "wikilink")
-  - [小宮孝泰](https://zh.wikipedia.org/wiki/小宮孝泰 "wikilink")(現所屬[Office
-    PSC](https://zh.wikipedia.org/wiki/Office_PSC "wikilink"))
+  - [小宮孝泰](https://zh.wikipedia.org/wiki/小宮孝泰 "wikilink")(現所屬[Office PSC](https://zh.wikipedia.org/wiki/Office_PSC "wikilink"))
   - [槐柳二](../Page/槐柳二.md "wikilink")(故人)
   - [阪脩](../Page/阪脩.md "wikilink")(現所屬青二Production)
   - [作間功](https://zh.wikipedia.org/wiki/作間功 "wikilink")
@@ -93,8 +88,7 @@ recording現在積極地也過去著。
   - [辻村真人](https://zh.wikipedia.org/wiki/辻村真人 "wikilink")(現所屬81Produce)
   - [寺門ジモン](https://zh.wikipedia.org/wiki/寺門ジモン "wikilink")(現所屬太田製作)
   - [中江真司](https://zh.wikipedia.org/wiki/中江真司 "wikilink")(故人)
-  - [中村有志](https://zh.wikipedia.org/wiki/中村有志 "wikilink")(現所屬[ASH\&D
-    Corpration](https://zh.wikipedia.org/wiki/ASH&D_Corpration "wikilink"))
+  - [中村有志](https://zh.wikipedia.org/wiki/中村有志 "wikilink")(現所屬[ASH\&D Corpration](https://zh.wikipedia.org/wiki/ASH&D_Corpration "wikilink"))
   - [永江智明](https://zh.wikipedia.org/wiki/永江智明 "wikilink")(現所屬[巖淵Group](https://zh.wikipedia.org/wiki/巖淵Group "wikilink"))
   - [中西俊彥](https://zh.wikipedia.org/wiki/中西俊彥 "wikilink")(現所屬[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink"))
   - [納谷悟朗](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")(故人)
@@ -120,8 +114,7 @@ recording現在積極地也過去著。
 
   - [石川寬美](../Page/石川寬美.md "wikilink")(現所屬81Produce)
   - [江森浩子](../Page/江森浩子.md "wikilink")(現所屬青二Production)
-  - [一城みゆ希](https://zh.wikipedia.org/wiki/一城みゆ希 "wikilink")(現所屬[Production
-    baobab](../Page/Production_baobab.md "wikilink"))
+  - [一城みゆ希](https://zh.wikipedia.org/wiki/一城みゆ希 "wikilink")(現所屬[Production baobab](../Page/Production_baobab.md "wikilink"))
   - [佳川紘子](../Page/佳川紘子.md "wikilink")
   - [勝生真沙子](../Page/勝生真沙子.md "wikilink")(現所屬81Produce)
   - [川浪葉子](../Page/川浪葉子.md "wikilink")(現所屬青二Production)
@@ -134,14 +127,11 @@ recording現在積極地也過去著。
   - [高橋和枝](https://zh.wikipedia.org/wiki/高橋和枝 "wikilink")(故人)
   - [富永美沙子](https://zh.wikipedia.org/wiki/富永美沙子 "wikilink")(故人)
   - [沼波輝枝](../Page/沼波輝枝.md "wikilink")(故人)
-  - [野澤直子](https://zh.wikipedia.org/wiki/野澤直子 "wikilink")(現所屬[吉本興業](../Page/吉本興業.md "wikilink")/[よしもとCreating
-    Agency](https://zh.wikipedia.org/wiki/よしもとCreating_Agency "wikilink"))
+  - [野澤直子](https://zh.wikipedia.org/wiki/野澤直子 "wikilink")(現所屬[吉本興業](../Page/吉本興業.md "wikilink")/[よしもとCreating Agency](https://zh.wikipedia.org/wiki/よしもとCreating_Agency "wikilink"))
   - [平井道子](https://zh.wikipedia.org/wiki/平井道子 "wikilink")(故人)
   - [牧野和子](../Page/牧野和子.md "wikilink")(現所屬[文藝座](https://zh.wikipedia.org/wiki/文藝座 "wikilink"))
-  - [松金米子](../Page/松金米子.md "wikilink")(現所屬[Knock
-    Out](https://zh.wikipedia.org/wiki/Knock_Out "wikilink"))
-  - [翠準子](https://zh.wikipedia.org/wiki/翠準子 "wikilink")(現所屬PRODUCTION
-    baobab)
+  - [松金米子](../Page/松金米子.md "wikilink")(現所屬[Knock Out](https://zh.wikipedia.org/wiki/Knock_Out "wikilink"))
+  - [翠準子](https://zh.wikipedia.org/wiki/翠準子 "wikilink")(現所屬PRODUCTION baobab)
   - [宮嵨泰子](https://zh.wikipedia.org/wiki/宮嵨泰子 "wikilink")(現所屬[朝日電視台](../Page/朝日電視台.md "wikilink")播音員)
   - [武籐禮子](https://zh.wikipedia.org/wiki/武籐禮子 "wikilink")(故人)
   - [和田良子](https://zh.wikipedia.org/wiki/和田良子 "wikilink")
@@ -173,8 +163,7 @@ recording現在積極地也過去著。
 
   - [宇宙家族ロビンソン](https://zh.wikipedia.org/wiki/宇宙家族ロビンソン "wikilink")
   - [SFドラマ 猿の軍団](https://zh.wikipedia.org/wiki/SFドラマ_猿の軍団 "wikilink")
-  - [ガンマー第3号
-    宇宙大作戦](https://zh.wikipedia.org/wiki/ガンマー第3号_宇宙大作戦 "wikilink")
+  - [ガンマー第3号 宇宙大作戦](https://zh.wikipedia.org/wiki/ガンマー第3号_宇宙大作戦 "wikilink")
   - [ジャンボーグA](https://zh.wikipedia.org/wiki/ジャンボーグA "wikilink")
   - [ミラーマン](https://zh.wikipedia.org/wiki/ミラーマン "wikilink")
   - [冒険ロックバット](https://zh.wikipedia.org/wiki/冒険ロックバット "wikilink")
@@ -217,6 +206,4 @@ recording現在積極地也過去著。
 
   - [Theatre Echo](http://www.t-echo.co.jp/)
 
-[Category:Theatre_Echo](https://zh.wikipedia.org/wiki/Category:Theatre_Echo "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:日本戲劇](https://zh.wikipedia.org/wiki/Category:日本戲劇 "wikilink")
+[Category:Theatre_Echo](https://zh.wikipedia.org/wiki/Category:Theatre_Echo "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:日本戲劇](https://zh.wikipedia.org/wiki/Category:日本戲劇 "wikilink")

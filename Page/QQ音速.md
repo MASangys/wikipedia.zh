@@ -8,8 +8,7 @@
   - [R2Beat韩国官网](http://pmang.sayclub.com/r2beat/)
   - [R2Beat拉丁美洲地区官网](https://web.archive.org/web/20110411215811/http://r2beat.softnyx.com/)
 
-[Category:多人線上音樂遊戲](https://zh.wikipedia.org/wiki/Category:多人線上音樂遊戲 "wikilink")
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
+[Category:多人線上音樂遊戲](https://zh.wikipedia.org/wiki/Category:多人線上音樂遊戲 "wikilink") [Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
 
 1.
 

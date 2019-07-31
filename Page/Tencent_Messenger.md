@@ -1,19 +1,14 @@
-{{ OftenUpdate }}   **Tencent
-Messenger**，简称为**TM**（另有叫法为“腾讯TM”）。TM和[QQ一样](https://zh.wikipedia.org/wiki/QQ "wikilink")，都是由[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[腾讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")（）推出的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，可与QQ互联互通。
+{{ OftenUpdate }}   **Tencent Messenger**，简称为**TM**（另有叫法为“腾讯TM”）。TM和[QQ一样](https://zh.wikipedia.org/wiki/QQ "wikilink")，都是由[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[腾讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")（）推出的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，可与QQ互联互通。
 
 ## 历史
 
-TM开发的初衷是[腾讯](../Page/腾讯.md "wikilink")公司为了与当时[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[MSN
-Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")（现在的[Windows
-Live Messenger](../Page/Windows_Live_Messenger.md "wikilink")）抗衡而推出的。
+TM开发的初衷是[腾讯](../Page/腾讯.md "wikilink")公司为了与当时[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[MSN Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")（现在的[Windows Live Messenger](../Page/Windows_Live_Messenger.md "wikilink")）抗衡而推出的。
 
 由于侧重于办公/商用环境，因此TM和QQ相比只具有最基本也是最本质的通讯功能（包含文字聊天、音频/视频聊天、文件传送），在界面上力求简单朴实。
 
-TM去掉了QQ里面一些比较花哨的内容（如QQ秀）和捆绑在原版QQ中的插件程序（如QQ游戏、QQ音乐、QQ直播），使得TM2008
-Beta的安装程序体积大为减小，仅12.2MB\[1\]，相比之下，QQ2009正式版SP1的安装程序为22MB\[2\]，并且TM没有任何广告条。
+TM去掉了QQ里面一些比较花哨的内容（如QQ秀）和捆绑在原版QQ中的插件程序（如QQ游戏、QQ音乐、QQ直播），使得TM2008 Beta的安装程序体积大为减小，仅12.2MB\[1\]，相比之下，QQ2009正式版SP1的安装程序为22MB\[2\]，并且TM没有任何广告条。
 
-早期版本的TM（指采用新架构的TM2008以前的版本）和同一时间段的QQ相比，功能较单一，可以与QQ安装于同一目录下，实现一键切换，聊天记录共享。自TM2008起，由于架构的变化，TM安装目录独立于QQ，且聊天记录不能共享。不过这个问题在
-TM 2009 Beta ，和使用 TM 2008架构的 QQ 2009 上已解决。
+早期版本的TM（指采用新架构的TM2008以前的版本）和同一时间段的QQ相比，功能较单一，可以与QQ安装于同一目录下，实现一键切换，聊天记录共享。自TM2008起，由于架构的变化，TM安装目录独立于QQ，且聊天记录不能共享。不过这个问题在 TM 2009 Beta ，和使用 TM 2008架构的 QQ 2009 上已解决。
 
 初期推广时，腾讯对TM用户推出了多种优惠措施，包括：
 
@@ -27,13 +22,11 @@ TM 2009 Beta ，和使用 TM 2008架构的 QQ 2009 上已解决。
 
 另一方面，由于TM无广告，亦无会员特色项目（诸如QQ秀之类），若TM大规模取代QQ，则腾讯的经济收入也受到影响，因此腾讯对TM的推广态度由积极转为低调。种种原因造成TM在中国大陆的知名度和市场占有率远不如QQ，即使TM在资源占用、界面布局等方面均优于同一时期的QQ。
 
-在使用TM客户端向使用QQ客户端的用户发送消息时，会在第一条发送的消息前加入“(您的好友正在使用TM，详情请咨询您的好友或点击：http://tm.qq.com
-)”的提示。
+在使用TM客户端向使用QQ客户端的用户发送消息时，会在第一条发送的消息前加入“(您的好友正在使用TM，详情请咨询您的好友或点击：http://tm.qq.com )”的提示。
 
 ## 趋势
 
-腾讯在QQ2009
-Preview（2008年1月9日发布）中使用了早先（2007年8月15日）发布的TM2008的[内核](../Page/内核.md "wikilink")以及[界面](https://zh.wikipedia.org/wiki/界面 "wikilink")，腾讯为了解决饱受批评的旧版QQ资源占用大、运行速度慢的问题而彻底转向了TM2008内核架构，未来的趋势是QQ与TM的融合，不过两者的市场定位略有差异（TM偏向办公，QQ偏向娱乐），短期内不会合二为一。另外，从TM2008的图标改变也说明了两者的融合趋势。
+腾讯在QQ2009 Preview（2008年1月9日发布）中使用了早先（2007年8月15日）发布的TM2008的[内核](../Page/内核.md "wikilink")以及[界面](https://zh.wikipedia.org/wiki/界面 "wikilink")，腾讯为了解决饱受批评的旧版QQ资源占用大、运行速度慢的问题而彻底转向了TM2008内核架构，未来的趋势是QQ与TM的融合，不过两者的市场定位略有差异（TM偏向办公，QQ偏向娱乐），短期内不会合二为一。另外，从TM2008的图标改变也说明了两者的融合趋势。
 
 ## 历次版本
 
@@ -131,9 +124,7 @@ Preview（2008年1月9日发布）中使用了早先（2007年8月15日）发布
   - [腾讯IM产品官方下载](http://im.qq.com)
   - [繁体QQ官方网站](http://hi.qq.com)
 
-[Category:Windows即时通讯客户端](https://zh.wikipedia.org/wiki/Category:Windows即时通讯客户端 "wikilink")
-[Category:腾讯QQ](https://zh.wikipedia.org/wiki/Category:腾讯QQ "wikilink")
-[Category:2004年软件](https://zh.wikipedia.org/wiki/Category:2004年软件 "wikilink")
+[Category:Windows即时通讯客户端](https://zh.wikipedia.org/wiki/Category:Windows即时通讯客户端 "wikilink") [Category:腾讯QQ](https://zh.wikipedia.org/wiki/Category:腾讯QQ "wikilink") [Category:2004年软件](https://zh.wikipedia.org/wiki/Category:2004年软件 "wikilink")
 
 1.
 2.

@@ -164,16 +164,11 @@ About Me</strong></p></td>
 
 ## 其他
 
-  - 2005年：《[Big4 of voices in my
-    dream](https://zh.wikipedia.org/wiki/Big4_of_voices_in_my_dream "wikilink")》（與[SG
-    Wannabe](../Page/SG_Wannabe.md "wikilink")、[M TO
-    M及](https://zh.wikipedia.org/wiki/M_TO_M "wikilink")[金鍾國合作](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")）
+  - 2005年：《[Big4 of voices in my dream](https://zh.wikipedia.org/wiki/Big4_of_voices_in_my_dream "wikilink")》（與[SG Wannabe](../Page/SG_Wannabe.md "wikilink")、[M TO M及](https://zh.wikipedia.org/wiki/M_TO_M "wikilink")[金鍾國合作](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")）
 
 ## 外部連結
 
   - [NAVER](http://people.naver.com/DetailView.nhn?frompage=nx_people&id=3432)
-
   - [歌迷網頁](http://cafe.daum.net/VIBE/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink")

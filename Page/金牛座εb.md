@@ -11,7 +11,4 @@
   -
 {{-}}
 
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:金牛座](https://zh.wikipedia.org/wiki/Category:金牛座 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
-[Category:2007年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2007年发现的系外行星 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:金牛座](https://zh.wikipedia.org/wiki/Category:金牛座 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:2007年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2007年发现的系外行星 "wikilink")

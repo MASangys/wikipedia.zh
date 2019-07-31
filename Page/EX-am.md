@@ -1,19 +1,15 @@
-**EX-am**（EX-am
-週刊）是[香港](../Page/香港.md "wikilink")[文化傳信](../Page/文化傳信.md "wikilink")發行的週刊少年漫畫雜誌，於1993年6月23日創刊，每週三出刊。其連載的漫畫作品多來自[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")的《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》。於2008年12月24日出版的2009年4·5合併號正式宣佈停刊，而最後一期EX-am亦為2009年4·5合併號（760期）。
+**EX-am**（EX-am 週刊）是[香港](../Page/香港.md "wikilink")[文化傳信](../Page/文化傳信.md "wikilink")發行的週刊少年漫畫雜誌，於1993年6月23日創刊，每週三出刊。其連載的漫畫作品多來自[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")的《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》。於2008年12月24日出版的2009年4·5合併號正式宣佈停刊，而最後一期EX-am亦為2009年4·5合併號（760期）。
 
 ## 概要
 
-  - 《EX-am》雖然是《週刊少年Jump》的中文版，卻不是每個《週刊少年Jump》的作品都會在其連載，因為《週刊少年Jump》的作品不全由文化傳信取得版權（如：《[NARUTO](https://zh.wikipedia.org/wiki/NARUTO "wikilink")》、《[家庭教師HITMAN
-    REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》、《[網球王子](https://zh.wikipedia.org/wiki/網球王子 "wikilink")》和《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》是[正文社](../Page/正文社.md "wikilink")取得，《[ONE
-    PIECE](../Page/ONE_PIECE.md "wikilink")》是[天下出版社取得](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")）。
+  - 《EX-am》雖然是《週刊少年Jump》的中文版，卻不是每個《週刊少年Jump》的作品都會在其連載，因為《週刊少年Jump》的作品不全由文化傳信取得版權（如：《[NARUTO](https://zh.wikipedia.org/wiki/NARUTO "wikilink")》、《[家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》、《[網球王子](https://zh.wikipedia.org/wiki/網球王子 "wikilink")》和《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》是[正文社](../Page/正文社.md "wikilink")取得，《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》是[天下出版社取得](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")）。
   - 每週三出刊，但真正出刊時間為週二。
   - 《EX-am》除了漫畫連載外，也有[ACG](../Page/ACG.md "wikilink")相關商品、電影情報、動畫情報、漫話日語及不定期的特別報道。
   - 《EX-am》的漫畫連載，有時會一次連載兩回，使進度不至於過慢。
 
 ## 歷史
 
-《EX-am》為[香港](../Page/香港.md "wikilink")首本日本[集英社](../Page/集英社.md "wikilink")正式授權的週刊少年漫畫雜誌。隨著文化傳信之前的主打本地漫畫《[玉郎漫畫](../Page/玉郎漫畫.md "wikilink")》結束，承接的《EX-am》最初為連載日本及[香港漫畫](../Page/香港漫畫.md "wikilink")，其後開始轉為全[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。
-《EX-am》創刊前，市面有若干日本漫畫中文版出現，比較具規模的出版社包括[海豹叢書出版社及](https://zh.wikipedia.org/wiki/海豹叢書 "wikilink")[雅景出版社](https://zh.wikipedia.org/wiki/雅景 "wikilink")，但皆沒有日本正式授權。時代改變令香港開始對版權加以重視，文化傳信開始了洽購版權的做法，日後在港出版的日本漫畫皆採用授權印刷。
+《EX-am》為[香港](../Page/香港.md "wikilink")首本日本[集英社](../Page/集英社.md "wikilink")正式授權的週刊少年漫畫雜誌。隨著文化傳信之前的主打本地漫畫《[玉郎漫畫](../Page/玉郎漫畫.md "wikilink")》結束，承接的《EX-am》最初為連載日本及[香港漫畫](../Page/香港漫畫.md "wikilink")，其後開始轉為全[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。 《EX-am》創刊前，市面有若干日本漫畫中文版出現，比較具規模的出版社包括[海豹叢書出版社及](https://zh.wikipedia.org/wiki/海豹叢書 "wikilink")[雅景出版社](https://zh.wikipedia.org/wiki/雅景 "wikilink")，但皆沒有日本正式授權。時代改變令香港開始對版權加以重視，文化傳信開始了洽購版權的做法，日後在港出版的日本漫畫皆採用授權印刷。
 
 創刊時共有7個漫畫，除《繼承者超人H.V》為香港漫畫外，均為日本漫畫：
 
@@ -43,32 +39,22 @@
 
 ### 日本漫畫
 
-  - 《[龍珠Z](https://zh.wikipedia.org/wiki/龍珠Z "wikilink")》、《[反轉時空機
-    TOKIMECHA](https://zh.wikipedia.org/wiki/反轉時空機_TOKIMECHA "wikilink")》、《[COWA
-    心慌慌](https://zh.wikipedia.org/wiki/COWA_心慌慌 "wikilink")》（[鳥山明](../Page/鳥山明.md "wikilink")）
-  - 《[K.O.小拳王](https://zh.wikipedia.org/wiki/K.O.小拳王 "wikilink")》、《[足球小將](../Page/足球小將.md "wikilink")》、《[足球小將
-    特別篇](../Page/足球小將.md "wikilink")》、《[足球小將
-    世青篇](../Page/足球小將.md "wikilink")》、《[足球小將
-    Golden-23](../Page/足球小將.md "wikilink")》（[高橋陽一](https://zh.wikipedia.org/wiki/高橋陽一 "wikilink")）
+  - 《[龍珠Z](https://zh.wikipedia.org/wiki/龍珠Z "wikilink")》、《[反轉時空機 TOKIMECHA](https://zh.wikipedia.org/wiki/反轉時空機_TOKIMECHA "wikilink")》、《[COWA 心慌慌](https://zh.wikipedia.org/wiki/COWA_心慌慌 "wikilink")》（[鳥山明](../Page/鳥山明.md "wikilink")）
+  - 《[K.O.小拳王](https://zh.wikipedia.org/wiki/K.O.小拳王 "wikilink")》、《[足球小將](../Page/足球小將.md "wikilink")》、《[足球小將 特別篇](../Page/足球小將.md "wikilink")》、《[足球小將 世青篇](../Page/足球小將.md "wikilink")》、《[足球小將 Golden-23](../Page/足球小將.md "wikilink")》（[高橋陽一](https://zh.wikipedia.org/wiki/高橋陽一 "wikilink")）
   - 《[魔界美少女](https://zh.wikipedia.org/wiki/魔界美少女 "wikilink")》（[光原伸](https://zh.wikipedia.org/wiki/光原伸 "wikilink")）
   - 《[BOY聖子到](https://zh.wikipedia.org/wiki/BOY聖子到 "wikilink")》《[無賴男](https://zh.wikipedia.org/wiki/無賴男 "wikilink")》《[神盾勇者](https://zh.wikipedia.org/wiki/神盾勇者 "wikilink")》（[梅澤春人](https://zh.wikipedia.org/wiki/梅澤春人 "wikilink")）
   - 《靜鬥士 翔》（[車田正美](https://zh.wikipedia.org/wiki/車田正美 "wikilink")）
   - 《[遊戲王](../Page/遊戲王.md "wikilink")》（[高橋和希](../Page/高橋和希.md "wikilink")）
-  - 《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》、《[武裝鍊金](../Page/武裝鍊金.md "wikilink")》《[GUN
-    BLAZE
-    WEST](https://zh.wikipedia.org/wiki/GUN_BLAZE_WEST "wikilink")》（[和月伸宏](../Page/和月伸宏.md "wikilink")）
-  - 《[WILD HALF
-    神犬阿西](../Page/WILD_HALF.md "wikilink")》（[淺美裕子](../Page/淺美裕子.md "wikilink")）
+  - 《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》、《[武裝鍊金](../Page/武裝鍊金.md "wikilink")》《[GUN BLAZE WEST](https://zh.wikipedia.org/wiki/GUN_BLAZE_WEST "wikilink")》（[和月伸宏](../Page/和月伸宏.md "wikilink")）
+  - 《[WILD HALF 神犬阿西](../Page/WILD_HALF.md "wikilink")》（[淺美裕子](../Page/淺美裕子.md "wikilink")）
   - 《[行運超人](../Page/行運超人.md "wikilink")》（蒲生 洋 (ガモウひろし)）
   - 《[力人傳說](https://zh.wikipedia.org/wiki/力人傳說 "wikilink")》（[小畑健](../Page/小畑健.md "wikilink")）
   - 《[超能機動爺爺G](https://zh.wikipedia.org/wiki/超能機動爺爺G "wikilink")》（[土方茂](../Page/小畑健.md "wikilink")）
   - 《[忍空](../Page/忍空.md "wikilink")》（[桐山光侍](https://zh.wikipedia.org/wiki/桐山光侍 "wikilink")）
-  - 《[D・N・A²](../Page/DNA².md "wikilink")》、《[SHADOW
-    LADY](https://zh.wikipedia.org/wiki/SHADOW_LADY "wikilink")》（[桂正和](../Page/桂正和.md "wikilink")）
+  - 《[D・N・A²](../Page/DNA².md "wikilink")》、《[SHADOW LADY](https://zh.wikipedia.org/wiki/SHADOW_LADY "wikilink")》（[桂正和](../Page/桂正和.md "wikilink")）
   - 《[RASH\!\!](https://zh.wikipedia.org/wiki/RASH!! "wikilink")》（[北条司](../Page/北条司.md "wikilink")）
   - 《[翠山警匪雙子星](https://zh.wikipedia.org/wiki/翠山警匪雙子星 "wikilink")》（[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")）
-  - 《[TOKYO
-    罪惡剋星](https://zh.wikipedia.org/wiki/TOKYO_罪惡剋星 "wikilink")》（[次原隆二](../Page/次原隆二.md "wikilink")）
+  - 《[TOKYO 罪惡剋星](https://zh.wikipedia.org/wiki/TOKYO_罪惡剋星 "wikilink")》（[次原隆二](../Page/次原隆二.md "wikilink")）
   - 《[棋魂](https://zh.wikipedia.org/wiki/棋魂 "wikilink")》（堀田由美、小畑健）
   - 《櫻鐵對話錄》、《Waqwaq》（[藤崎龍](../Page/藤崎龍.md "wikilink")）
   - 《[草莓100%](https://zh.wikipedia.org/wiki/草莓100% "wikilink")》、《[初戀限定。](https://zh.wikipedia.org/wiki/初戀限定。 "wikilink")》（[河下水希](../Page/河下水希.md "wikilink")）
@@ -76,15 +62,12 @@
   - 《[拉魯Ω古拉德](../Page/拉魯Ω古拉德.md "wikilink")》（鷹野常雄、小畑健）
   - 《[死亡筆記](https://zh.wikipedia.org/wiki/死亡筆記 "wikilink")》（[大場鶇](../Page/大場鶇.md "wikilink")、小畑健）
   - ※《[-{zh-hans:爆漫。;zh-hant:爆漫。;zh-tw:爆漫王。;}-](https://zh.wikipedia.org/wiki/爆漫。 "wikilink")》（大場鶇、小畑健）
-  - ※《[茶煲情緣TO
-    LOVEる](../Page/出包王女.md "wikilink")》（[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")、長谷見沙貴）
-  - ※《[Eyeshield
-    21高速達陣](https://zh.wikipedia.org/wiki/Eyeshield_21高速達陣 "wikilink")》（[稻垣理一郎](../Page/稻垣理一郎.md "wikilink")、[村田雄介](../Page/村田雄介.md "wikilink")）
+  - ※《[茶煲情緣TO LOVEる](../Page/出包王女.md "wikilink")》（[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")、長谷見沙貴）
+  - ※《[Eyeshield 21高速達陣](https://zh.wikipedia.org/wiki/Eyeshield_21高速達陣 "wikilink")》（[稻垣理一郎](../Page/稻垣理一郎.md "wikilink")、[村田雄介](../Page/村田雄介.md "wikilink")）
   - ※《[-{zh-hans:BLEACH;zh-hant:BLEACH;zh-tw:BLEACH死神;zh-hk:BLEACH漂靈;zh-mo:BLEACH漂靈;}-](../Page/BLEACH.md "wikilink")》（[久保帶人](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")）
   - ※《[百鬼小當家](https://zh.wikipedia.org/wiki/百鬼小當家 "wikilink")》（[椎橋寬](../Page/椎橋寬.md "wikilink")）
   - ※《[D.Gray-man](https://zh.wikipedia.org/wiki/D.Gray-man "wikilink")》（[星野桂](../Page/星野桂.md "wikilink")）
-  - ※《[Hunter x
-    Hunter](https://zh.wikipedia.org/wiki/Hunter_x_Hunter "wikilink")》（[冨樫義博](../Page/冨樫義博.md "wikilink")）
+  - ※《[Hunter x Hunter](https://zh.wikipedia.org/wiki/Hunter_x_Hunter "wikilink")》（[冨樫義博](../Page/冨樫義博.md "wikilink")）
   - ※《[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")》（高橋和希、影山直行）
 
 ※者為受停刊影響而停止連載之作品。
@@ -95,8 +78,7 @@
   - 《[念動少年](https://zh.wikipedia.org/wiki/念動少年 "wikilink")》（[童彥明](https://zh.wikipedia.org/wiki/童彥明 "wikilink")）
   - 《逆走》、《尼路外傳》、《說謊的愛人》、《<JUST Begun>》（曾照泉）
   - 《上海2020》（李少棠）
-  - 《[CAN CAN
-    封神物語](https://zh.wikipedia.org/wiki/CAN_CAN_封神物語 "wikilink")》（[石明川](https://zh.wikipedia.org/wiki/石明川 "wikilink")）
+  - 《[CAN CAN 封神物語](https://zh.wikipedia.org/wiki/CAN_CAN_封神物語 "wikilink")》（[石明川](https://zh.wikipedia.org/wiki/石明川 "wikilink")）
   - 《[星君少俠](https://zh.wikipedia.org/wiki/星君少俠 "wikilink")》（石明川）
   - 《[福享千萬年](https://zh.wikipedia.org/wiki/福享千萬年 "wikilink")》（[曾健游](https://zh.wikipedia.org/wiki/曾健游 "wikilink")）
   - 《[天道神兵](https://zh.wikipedia.org/wiki/天道神兵 "wikilink")》（米奇）
@@ -280,8 +262,6 @@ EX-am於總期數第100期 (1995年第21期) 時舉行了100期最佳封面選�
 
   - [週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
 
-[en:Weekly Shōnen
-Jump\#EX-am](https://zh.wikipedia.org/wiki/en:Weekly_Shōnen_Jump#EX-am "wikilink")
+[en:Weekly Shōnen Jump\#EX-am](https://zh.wikipedia.org/wiki/en:Weekly_Shōnen_Jump#EX-am "wikilink")
 
-[Category:香港漫畫雜誌](https://zh.wikipedia.org/wiki/Category:香港漫畫雜誌 "wikilink")
-[Category:香港已停刊杂志](https://zh.wikipedia.org/wiki/Category:香港已停刊杂志 "wikilink")
+[Category:香港漫畫雜誌](https://zh.wikipedia.org/wiki/Category:香港漫畫雜誌 "wikilink") [Category:香港已停刊杂志](https://zh.wikipedia.org/wiki/Category:香港已停刊杂志 "wikilink")

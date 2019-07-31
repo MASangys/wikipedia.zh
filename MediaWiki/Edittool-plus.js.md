@@ -1,45 +1,4 @@
-// //define buttons　定義按鈕與下拉式選單 定义按钮和下拉菜单 addEditButton('btnInterLink',{
-src : 'c/c0/Button_link.png', tagOpen : '\[\[', sampleText :
-wgULS("链接标题","連結標題"), tagClose : '\]\]', speedTip :
-wgULS("内部链接","內部連結") }); addEditButton('btnInterHashLink',{ src
-: "9/93/Button_sub_link.png", tagOpen : wgULS("\[\[条目\#","\[\[條目\#"),
-sampleText : wgULS("章节|文本","章節|文字"), tagClose : "\]\]", speedTip :
-wgULS("内部段落链接","內部段落連結") }); addEditButton('btnCategoryLink',{ src :
-"b/b0/Button_category02.png", tagOpen : "\[\[:Category:", sampleText :
-wgULS("分类名","分類名稱"), tagClose : "\]\]", speedTip : wgULS("分类链接","分類連結")
-}); addEditButton('btnMediaLink',{ src : '9/9d/Media_icon.png', tagOpen
-: '\[\[Media:', sampleText : 'Example.ogg', tagClose : '\]\]', speedTip
-: wgULS('媒体文件链接','媒體文件連結') }); addEditButton('btnExtraLink',{ src :
-'7/73/External_link_icon.png', tagOpen : '\[', sampleText :
-wgULS('http://www.example.com 链接标题','http://www.example.com 連結標題'),
-tagClose : '\]', speedTip : wgULS('外部链接（加前缀 http://）',"外部連結（加首碼
-http://）") }); addEditButton('btnTemplateLink',{ src :
-"9/97/Template_button.png", tagOpen : "{{", sampleText :
-wgULS('模板名','模板名稱'), tagClose : "}}", speedTip : "模板" });
-addEditButton('btnCategory',{ src : "b/b4/Button_category03.png",
-tagOpen : "\[\[Category:", sampleText : wgULS("分类名","分類名稱"), tagClose :
-"\]\]", speedTip : wgULS("分类","分類") }); addEditButton('btnRedirect',{
-src : "4/47/Button_redir.png", tagOpen : "\#REDIRECT \[\[", sampleText
-: wgULS("目标条目名","目標條目名稱"), tagClose : "\]\]", speedTip :
-wgULS("重定向","重新導向") }); addEditButton('btnImage',{ src :
-'f/f0/Image_icon.png', tagOpen : '\[\[File:', sampleText :
-'Example.jpg', tagClose : '\]\]', speedTip : wgULS('嵌入图像','內嵌圖片') });
-addEditButton('btnAdvImage',{ src : "1/1c/Button_advanced_image.png",
-tagOpen : "\<imagemap\>\\n", sampleText : wgULS("File:图像名 | 100px |
-描述\\nrect 0 0 50 50 \[\[链接|链接\]\]\\ncircle 50 50 20
-\[\[链接B|链接B\]\]\\ndesc bottom-left\\n","File:圖片名稱 | 100px |
-說明\\nrect 0 0 50 50 \[\[連結|連結\]\]\\ncircle 50 50 20
-\[\[連結B|連結B\]\]\\ndesc bottom-left\\n"), tagClose :
-"\</imagemap\>", speedTip : wgULS("高级图像", "進階圖片") }); var
-__temp="\\nFile:PictureFileName.jpg|"+wgULS("图像题注","圖片題注");
-addEditButton('btnGallery',{ src : "9/9e/Btn_toolbar_gallery.png",
-tagOpen : "\<gallery\>\\n", sampleText : __temp+__temp, tagClose :
-"\\n\</gallery\>", speedTip : wgULS("画廊", "畫廊") });
-addEditButton('btnMath',{ src : '5/5b/Math_icon.png', tagOpen :
-'\<math\>', sampleText : wgULS("插入数学公式","插入數學公式"), tagClose :
-'\</math\>', speedTip : wgULS('插入数学公式(LaTeX)',"插入數學公式（LaTeX）") });
-addEditButton('btnNowiki',{ src : '8/82/Nowiki_icon.png', tagOpen :
-'\<nowiki\>', sampleText : wgULS('插入非格式文本','插入非格式文字'), tagClose : '',
+// //define buttons　定義按鈕與下拉式選單 定义按钮和下拉菜单 addEditButton('btnInterLink',{ src : 'c/c0/Button_link.png', tagOpen : '\[\[', sampleText : wgULS("链接标题","連結標題"), tagClose : '\]\]', speedTip : wgULS("内部链接","內部連結") }); addEditButton('btnInterHashLink',{ src : "9/93/Button_sub_link.png", tagOpen : wgULS("\[\[条目\#","\[\[條目\#"), sampleText : wgULS("章节|文本","章節|文字"), tagClose : "\]\]", speedTip : wgULS("内部段落链接","內部段落連結") }); addEditButton('btnCategoryLink',{ src : "b/b0/Button_category02.png", tagOpen : "\[\[:Category:", sampleText : wgULS("分类名","分類名稱"), tagClose : "\]\]", speedTip : wgULS("分类链接","分類連結") }); addEditButton('btnMediaLink',{ src : '9/9d/Media_icon.png', tagOpen : '\[\[Media:', sampleText : 'Example.ogg', tagClose : '\]\]', speedTip : wgULS('媒体文件链接','媒體文件連結') }); addEditButton('btnExtraLink',{ src : '7/73/External_link_icon.png', tagOpen : '\[', sampleText : wgULS('http://www.example.com 链接标题','http://www.example.com 連結標題'), tagClose : '\]', speedTip : wgULS('外部链接（加前缀 http://）',"外部連結（加首碼 http://）") }); addEditButton('btnTemplateLink',{ src : "9/97/Template_button.png", tagOpen : "{{", sampleText : wgULS('模板名','模板名稱'), tagClose : "}}", speedTip : "模板" }); addEditButton('btnCategory',{ src : "b/b4/Button_category03.png", tagOpen : "\[\[Category:", sampleText : wgULS("分类名","分類名稱"), tagClose : "\]\]", speedTip : wgULS("分类","分類") }); addEditButton('btnRedirect',{ src : "4/47/Button_redir.png", tagOpen : "\#REDIRECT \[\[", sampleText : wgULS("目标条目名","目標條目名稱"), tagClose : "\]\]", speedTip : wgULS("重定向","重新導向") }); addEditButton('btnImage',{ src : 'f/f0/Image_icon.png', tagOpen : '\[\[File:', sampleText : 'Example.jpg', tagClose : '\]\]', speedTip : wgULS('嵌入图像','內嵌圖片') }); addEditButton('btnAdvImage',{ src : "1/1c/Button_advanced_image.png", tagOpen : "\<imagemap\>\\n", sampleText : wgULS("File:图像名 | 100px | 描述\\nrect 0 0 50 50 \[\[链接|链接\]\]\\ncircle 50 50 20 \[\[链接B|链接B\]\]\\ndesc bottom-left\\n","File:圖片名稱 | 100px | 說明\\nrect 0 0 50 50 \[\[連結|連結\]\]\\ncircle 50 50 20 \[\[連結B|連結B\]\]\\ndesc bottom-left\\n"), tagClose : "\</imagemap\>", speedTip : wgULS("高级图像", "進階圖片") }); var __temp="\\nFile:PictureFileName.jpg|"+wgULS("图像题注","圖片題注"); addEditButton('btnGallery',{ src : "9/9e/Btn_toolbar_gallery.png", tagOpen : "\<gallery\>\\n", sampleText : __temp+__temp, tagClose : "\\n\</gallery\>", speedTip : wgULS("画廊", "畫廊") }); addEditButton('btnMath',{ src : '5/5b/Math_icon.png', tagOpen : '\<math\>', sampleText : wgULS("插入数学公式","插入數學公式"), tagClose : '\</math\>', speedTip : wgULS('插入数学公式(LaTeX)',"插入數學公式（LaTeX）") }); addEditButton('btnNowiki',{ src : '8/82/Nowiki_icon.png', tagOpen : '\<nowiki\>', sampleText : wgULS('插入非格式文本','插入非格式文字'), tagClose : '',
 
 `   speedTip   : wgULS('插入非格式文本','非維基格式文字')`
 
@@ -366,9 +325,7 @@ addDropdownMenu("articleEdit",wgULS('条目编辑','條目編輯'),\[
 `   { `
 `       id         : "seealso",`
 `       text       : wgULS("参见章节","參見章節"),`
-`       tagOpen    : "\n==参见==\n* `[`"``   ``,``   ``sampleText``
- ``:``   ``"参见地址"``   ``,``   ``tagClose``   ``:``
- ``"`](https://zh.wikipedia.org/wiki/"_,_sampleText_:_"参见地址"_,_tagClose_:_" "wikilink")`\n"`
+`       tagOpen    : "\n==参见==\n* `[`"``   ``,``   ``sampleText``   ``:``   ``"参见地址"``   ``,``   ``tagClose``   ``:``   ``"`](https://zh.wikipedia.org/wiki/"_,_sampleText_:_"参见地址"_,_tagClose_:_" "wikilink")`\n"`
 `   },`
 `   { `
 `       id         : "Disambig",`

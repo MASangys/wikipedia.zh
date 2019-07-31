@@ -1,8 +1,6 @@
 是由[SEGA開發的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")\[1\]，製作人為[铃木裕](../Page/铃木裕.md "wikilink")。本游戏是[莎木系列](../Page/莎木系列.md "wikilink")的第二作，2001年在[DreamCast平台首發](https://zh.wikipedia.org/wiki/DreamCast "wikilink")，隔年移植至Xbox发行。\[2\]
 
-2018年8月21日，SEGA發行了《莎木
-I\&II》的HD版合輯，共計有[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[Xbox
-One與](../Page/Xbox_One.md "wikilink")[PC版本](../Page/个人电脑.md "wikilink")，並有官方中文化支援\[3\]\[4\]。
+2018年8月21日，SEGA發行了《莎木 I\&II》的HD版合輯，共計有[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[Xbox One與](../Page/Xbox_One.md "wikilink")[PC版本](../Page/个人电脑.md "wikilink")，並有官方中文化支援\[3\]\[4\]。
 
 ## 故事簡介
 
@@ -31,20 +29,9 @@ One與](../Page/Xbox_One.md "wikilink")[PC版本](../Page/个人电脑.md "wikil
   -
   - [莎木 I＆II（HD版合輯）官方網站](http://asia.sega.com/shenmue1-2/cht/)
 
-[Category:莎木系列](https://zh.wikipedia.org/wiki/Category:莎木系列 "wikilink")
-[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")
-[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
-[Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:1987年背景作品](https://zh.wikipedia.org/wiki/Category:1987年背景作品 "wikilink")
-[Category:中国背景电子游戏](https://zh.wikipedia.org/wiki/Category:中国背景电子游戏 "wikilink")
-[Category:香港背景電子遊戲](https://zh.wikipedia.org/wiki/Category:香港背景電子遊戲 "wikilink")
+[Category:莎木系列](https://zh.wikipedia.org/wiki/Category:莎木系列 "wikilink") [Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink") [Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink") [Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:1987年背景作品](https://zh.wikipedia.org/wiki/Category:1987年背景作品 "wikilink") [Category:中国背景电子游戏](https://zh.wikipedia.org/wiki/Category:中国背景电子游戏 "wikilink") [Category:香港背景電子遊戲](https://zh.wikipedia.org/wiki/Category:香港背景電子遊戲 "wikilink")
 
-1.  [*shenmue-ii*](http://www.mobygames.com/game/shenmue-ii) game
-    overview at
-    [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+1.  [*shenmue-ii*](http://www.mobygames.com/game/shenmue-ii) game overview at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 2.
 3.
 4.

@@ -14,8 +14,7 @@ N00-N08 [肾小球疾病](https://zh.wikipedia.org/wiki/肾小球 "wikilink")
 
 ## N10-N16 [肾小管](https://zh.wikipedia.org/wiki/肾小管 "wikilink")、[间质疾病](https://zh.wikipedia.org/wiki/间质 "wikilink")
 
-N10-N16
-[肾小管](https://zh.wikipedia.org/wiki/肾小管 "wikilink")、[间质疾病](https://zh.wikipedia.org/wiki/间质 "wikilink")
+N10-N16 [肾小管](https://zh.wikipedia.org/wiki/肾小管 "wikilink")、[间质疾病](https://zh.wikipedia.org/wiki/间质 "wikilink")
 
   - N10 急性肾小管、间质肾炎
   - N11 慢性肾小管、间质肾炎
@@ -37,8 +36,7 @@ N17-N19 [肾衰竭](https://zh.wikipedia.org/wiki/肾衰竭 "wikilink")
 
 N20-N23 [尿石病](https://zh.wikipedia.org/wiki/尿石病 "wikilink")
 
-  - N20
-    [肾和](https://zh.wikipedia.org/wiki/肾 "wikilink")[输尿管结石](https://zh.wikipedia.org/wiki/输尿管结石 "wikilink")
+  - N20 [肾和](https://zh.wikipedia.org/wiki/肾 "wikilink")[输尿管结石](https://zh.wikipedia.org/wiki/输尿管结石 "wikilink")
   - N21 下泌尿道结石
   - N22 分类于他处的疾病引起的泌尿道结石
   - N23 未特指的肾绞痛
@@ -74,14 +72,11 @@ N40-N51 男性生殖器官疾病
   - N40 [前列腺增生](https://zh.wikipedia.org/wiki/前列腺增生 "wikilink")
   - N41 [前列腺炎](../Page/前列腺炎.md "wikilink")性疾病
   - N42 前列腺的其他疾患
-  - N43
-    [水囊肿](https://zh.wikipedia.org/wiki/水囊肿 "wikilink")（睾丸鞘膜积液）和[精子囊肿](https://zh.wikipedia.org/wiki/精子囊肿 "wikilink")
+  - N43 [水囊肿](https://zh.wikipedia.org/wiki/水囊肿 "wikilink")（睾丸鞘膜积液）和[精子囊肿](https://zh.wikipedia.org/wiki/精子囊肿 "wikilink")
   - N44 睾丸扭转
-  - N45
-    [睾丸炎](../Page/睾丸炎.md "wikilink")和[附睾炎](https://zh.wikipedia.org/wiki/附睾炎 "wikilink")
+  - N45 [睾丸炎](../Page/睾丸炎.md "wikilink")和[附睾炎](https://zh.wikipedia.org/wiki/附睾炎 "wikilink")
   - N46 男性不育症
-  - N47
-    [包皮过长](https://zh.wikipedia.org/wiki/包皮过长 "wikilink")、[包茎和](https://zh.wikipedia.org/wiki/包茎 "wikilink")[包茎嵌顿](https://zh.wikipedia.org/wiki/包茎嵌顿 "wikilink")
+  - N47 [包皮过长](https://zh.wikipedia.org/wiki/包皮过长 "wikilink")、[包茎和](https://zh.wikipedia.org/wiki/包茎 "wikilink")[包茎嵌顿](https://zh.wikipedia.org/wiki/包茎嵌顿 "wikilink")
   - N48 [阴茎](../Page/阴茎.md "wikilink")的其他疾患
   - N49 男性生殖器官炎性疾患，不可归类在他处者
   - N50 男性生殖器官的其他疾患
@@ -101,17 +96,13 @@ N60-N64 [乳房](../Page/乳房.md "wikilink")疾患
 
 N70-N77 女性盆腔器官炎性疾病
 
-  - N70
-    [输卵管炎和](https://zh.wikipedia.org/wiki/输卵管炎 "wikilink")[卵巢炎](https://zh.wikipedia.org/wiki/卵巢炎 "wikilink")
+  - N70 [输卵管炎和](https://zh.wikipedia.org/wiki/输卵管炎 "wikilink")[卵巢炎](https://zh.wikipedia.org/wiki/卵巢炎 "wikilink")
   - N71 [子宫炎性疾病](https://zh.wikipedia.org/wiki/子宫炎 "wikilink")，除外宫颈
   - N72 [宫颈炎性疾病](https://zh.wikipedia.org/wiki/宫颈 "wikilink")
   - N73 其他女性盆腔炎性疾病
-  - N74
-    分类于他处的疾病引起的女性[盆腔炎性疾患](https://zh.wikipedia.org/wiki/盆腔炎 "wikilink")
-  - N75
-    [前庭大腺](https://zh.wikipedia.org/wiki/前庭大腺 "wikilink")（[巴多林腺](https://zh.wikipedia.org/wiki/巴多林腺 "wikilink")）疾病
-  - N76
-    [阴道](../Page/阴道.md "wikilink")和[外阴的其他炎症](https://zh.wikipedia.org/wiki/外阴 "wikilink")
+  - N74 分类于他处的疾病引起的女性[盆腔炎性疾患](https://zh.wikipedia.org/wiki/盆腔炎 "wikilink")
+  - N75 [前庭大腺](https://zh.wikipedia.org/wiki/前庭大腺 "wikilink")（[巴多林腺](https://zh.wikipedia.org/wiki/巴多林腺 "wikilink")）疾病
+  - N76 [阴道](../Page/阴道.md "wikilink")和[外阴的其他炎症](https://zh.wikipedia.org/wiki/外阴 "wikilink")
   - N77 分类于他处的疾病引起的外阴阴道溃疡和炎症
 
 ## N80-N98 女性生殖道非炎性疾患
@@ -144,6 +135,4 @@ N80-N98 女性生殖道非炎性疾患
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

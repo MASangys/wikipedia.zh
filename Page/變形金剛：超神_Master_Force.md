@@ -1,30 +1,22 @@
-**變形金剛：超神 Master
-Force**(<sup>[日文](https://zh.wikipedia.org/wiki/日文 "wikilink"):</sup>****，<sup>[英文直譯](https://zh.wikipedia.org/wiki/英文 "wikilink"):</sup>**Transformer:
-Super God Master
-Force**)是由日本[東映公司在](../Page/東映.md "wikilink")1988年所製作的[變形金剛之](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，為[變形金剛：頭領戰士之續集](../Page/變形金剛：頭領戰士.md "wikilink")，共47集。
+**變形金剛：超神 Master Force**(<sup>[日文](https://zh.wikipedia.org/wiki/日文 "wikilink"):</sup>****，<sup>[英文直譯](https://zh.wikipedia.org/wiki/英文 "wikilink"):</sup>**Transformer: Super God Master Force**)是由日本[東映](../Page/東映.md "wikilink")公司在1988年所製作的[變形金剛之](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，為[變形金剛：頭領戰士](../Page/變形金剛：頭領戰士.md "wikilink")之續集，共47集。
 
-本作和之前作品的不同在於本作偏向《[超人力霸王](../Page/超人力霸王.md "wikilink")》系列等怪獸[特攝作品般的等身大英雄](https://zh.wikipedia.org/wiki/特攝 "wikilink")/巨大變身英雄風格。Autobot的變形金剛分成了偽裝成人類的[隱者戰士](https://zh.wikipedia.org/wiki/:en:Pretenders_\(Transformers\) "wikilink")(Pretender)與由人類變身而成的少年頭領戰士(Headmaster
-Jr.)與超神戰士([Godmaster](https://zh.wikipedia.org/wiki/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce "wikilink"))。Decepticon的角色則分為偽裝成怪物的偽裝者與由人類變身而成的少年頭領戰士與超神戰士。
+本作和之前作品的不同在於本作偏向《[超人力霸王](../Page/超人力霸王.md "wikilink")》系列等怪獸[特攝作品般的等身大英雄](https://zh.wikipedia.org/wiki/特攝 "wikilink")/巨大變身英雄風格。Autobot的變形金剛分成了偽裝成人類的[隱者戰士](https://zh.wikipedia.org/wiki/:en:Pretenders_\(Transformers\) "wikilink")(Pretender)與由人類變身而成的少年頭領戰士(Headmaster Jr.)與超神戰士([Godmaster](https://zh.wikipedia.org/wiki/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce "wikilink"))。Decepticon的角色則分為偽裝成怪物的偽裝者與由人類變身而成的少年頭領戰士與超神戰士。
 
 ## 劇情概要
 
-頭領戰士中的大戰完結後，地球和平了一段日子\[1\]。可是好景不常，潛伏在地球的Decepticon又再度活動，於是已漸漸融入了人類社會的Autobot偽裝者便再度出擊，由鉄鷹(Hawk/Metal
-Hawk)帶領，對抗由吉加(Giga)及美加(Mega)兩名人類所指揮的Decepticon。
+頭領戰士中的大戰完結後，地球和平了一段日子\[1\]。可是好景不常，潛伏在地球的Decepticon又再度活動，於是已漸漸融入了人類社會的Autobot偽裝者便再度出擊，由鉄鷹(Hawk/Metal Hawk)帶領，對抗由吉加(Giga)及美加(Mega)兩名人類所指揮的Decepticon。
 
 中期以後的Autobot指揮官則由一位名為迅雷()的青年卡車司機接任。
 
-在最後一場戰鬥中，Autobot成功了擊敗這次戰爭的幕後黑手**魔鬼Ｚ**(Devil
-Z)。魔鬼Ｚ在死了之後放出了一種物質，使得超神戰士及少年頭領戰士與機械身體分離，而機械身體成為了具有獨立意識的變形金剛。為了追擊逃離地球的Decepticon，變形金剛迅雷帶著Autobot離開了地球。
+在最後一場戰鬥中，Autobot成功了擊敗這次戰爭的幕後黑手**魔鬼Ｚ**(Devil Z)。魔鬼Ｚ在死了之後放出了一種物質，使得超神戰士及少年頭領戰士與機械身體分離，而機械身體成為了具有獨立意識的變形金剛。為了追擊逃離地球的Decepticon，變形金剛迅雷帶著Autobot離開了地球。
 
 ## 漫畫版
 
-漫畫版在背景設定方面，基本上是與動畫版差不多的，但是故事的發展卻與動畫版不一樣，尤其是在漫畫版最終回的時候，Autobot與Decepticon的人類成員一起聯手對抗魔鬼Ｚ。此外，漫畫版對於超神戰士([Godmaster](https://zh.wikipedia.org/wiki/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce "wikilink"))的由來也較有介紹。基本上漫畫版超神
-Master Force與動畫版是互為平行世界的關係。\[2\]
+漫畫版在背景設定方面，基本上是與動畫版差不多的，但是故事的發展卻與動畫版不一樣，尤其是在漫畫版最終回的時候，Autobot與Decepticon的人類成員一起聯手對抗魔鬼Ｚ。此外，漫畫版對於超神戰士([Godmaster](https://zh.wikipedia.org/wiki/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce "wikilink"))的由來也較有介紹。基本上漫畫版超神 Master Force與動畫版是互為平行世界的關係。\[2\]
 
 ## 關於迅雷的外表
 
-由於時常有觀眾分不清楚-{zh-tw: 迅雷; zh-hk: 仁萊;zh-cn:
-仁萊}-與柯博文的關係，因為兩人的外觀幾乎一模一樣，這是因為動力戰士([Powermaster](https://zh.wikipedia.org/wiki/:en:Powermaster "wikilink"))版的柯博文到了日本後改名稱為迅雷之因素。
+由於時常有觀眾分不清楚-{zh-tw: 迅雷; zh-hk: 仁萊;zh-cn: 仁萊}-與柯博文的關係，因為兩人的外觀幾乎一模一樣，這是因為動力戰士([Powermaster](https://zh.wikipedia.org/wiki/:en:Powermaster "wikilink"))版的柯博文到了日本後改名稱為迅雷之因素。
 
 在本作的設定中，原本有一套新的變形金剛軀體是要作為Master星的英雄所使用。而這套軀體則是參考了柯博文所設計的。後來這套新身體跟著其他超神戰士的身軀被魔鬼Ｚ偷走而帶到了地球來，隨後就失蹤了。而這套新身軀在偶然的情況之下被迅雷拿到，使迅雷成為了超神戰士。簡單的說，迅雷使用了參考柯博文而設計的身體，所以兩人才會長得幾乎一樣。
 
@@ -84,17 +76,13 @@ Master Force與動畫版是互為平行世界的關係。\[2\]
 
 ## 備註
 
-  - 本作雖然有前作「[變形金剛：頭領戰士](../Page/變形金剛：頭領戰士.md "wikilink")」的角色登場，但是並沒有特別強調這部與過去作品的關聯性，即使這部作品也算是日本Generation
-    1的作品之一。
+  - 本作雖然有前作「[變形金剛：頭領戰士](../Page/變形金剛：頭領戰士.md "wikilink")」的角色登場，但是並沒有特別強調這部與過去作品的關聯性，即使這部作品也算是日本Generation 1的作品之一。
 
 ## 註記
 
 <references/>
 
-[Category:日本變形金剛動畫](https://zh.wikipedia.org/wiki/Category:日本變形金剛動畫 "wikilink")
-[Category:1988年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1988年日本電視動畫 "wikilink")
-[Category:巨大变身英雄](https://zh.wikipedia.org/wiki/Category:巨大变身英雄 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
+[Category:日本變形金剛動畫](https://zh.wikipedia.org/wiki/Category:日本變形金剛動畫 "wikilink") [Category:1988年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1988年日本電視動畫 "wikilink") [Category:巨大变身英雄](https://zh.wikipedia.org/wiki/Category:巨大变身英雄 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
 
 1.  由於製作年代是1988年的關係，因此作品中許多場景看起來並不像是21世紀的情況
 2.  Official Transformers Collectors' Club Newsletter

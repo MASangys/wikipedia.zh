@@ -1,5 +1,4 @@
-**PGA锦标赛**
-（，又称“PGA高尔夫球锦标赛”，也被美国以外地区称为“美国PGA锦标赛”），是在[美国举行的每年一度的](../Page/美国.md "wikilink")[高尔夫球顶级赛事](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，其主办方为[美國職業高爾夫球員協會](https://zh.wikipedia.org/wiki/美國職業高爾夫球員協會 "wikilink")（，简称**USPGA**）。该项赛事也是世界职业高尔夫球坛[四大赛中之一](https://zh.wikipedia.org/wiki/四大赛 "wikilink")（其余三项为[英国公开赛](../Page/英国高尔夫球公开赛.md "wikilink")、[美国名人赛和](https://zh.wikipedia.org/wiki/美国名人赛 "wikilink")[美国公开赛](../Page/美國高爾夫公開賽.md "wikilink")），於2018年前都在每年的8月中旬举行（一般与英国公开赛相隔四周）。在此之前由于它是每年四大满贯赛事中最后一项，因此也被戏称为“Glory的最后一击”。这项赛事也是[PGA巡回赛](../Page/PGA巡回赛.md "wikilink")、[PGA欧洲巡回赛和](https://zh.wikipedia.org/wiki/PGA欧洲巡回赛 "wikilink")[日本高尔夫球巡回赛中的一环](https://zh.wikipedia.org/wiki/日本高尔夫球巡回赛 "wikilink")，2008年奖金总额达到750万美元。
+**PGA锦标赛** （，又称“PGA高尔夫球锦标赛”，也被美国以外地区称为“美国PGA锦标赛”），是在[美国](../Page/美国.md "wikilink")举行的每年一度的[高尔夫球顶级赛事](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，其主办方为[美國職業高爾夫球員協會](https://zh.wikipedia.org/wiki/美國職業高爾夫球員協會 "wikilink")（，简称**USPGA**）。该项赛事也是世界职业高尔夫球坛[四大赛中之一](https://zh.wikipedia.org/wiki/四大赛 "wikilink")（其余三项为[英国公开赛](../Page/英国高尔夫球公开赛.md "wikilink")、[美国名人赛和](https://zh.wikipedia.org/wiki/美国名人赛 "wikilink")[美国公开赛](../Page/美國高爾夫公開賽.md "wikilink")），於2018年前都在每年的8月中旬举行（一般与英国公开赛相隔四周）。在此之前由于它是每年四大满贯赛事中最后一项，因此也被戏称为“Glory的最后一击”。这项赛事也是[PGA巡回赛](../Page/PGA巡回赛.md "wikilink")、[PGA欧洲巡回赛和](https://zh.wikipedia.org/wiki/PGA欧洲巡回赛 "wikilink")[日本高尔夫球巡回赛中的一环](https://zh.wikipedia.org/wiki/日本高尔夫球巡回赛 "wikilink")，2008年奖金总额达到750万美元。
 
 但由於美國8月氣候的不確定性，加上為了避免[聯邦快遞杯季後賽賽事與歐洲各國足球賽季衝突](https://zh.wikipedia.org/wiki/聯邦快遞杯 "wikilink")，以及[奧運重新將高爾夫列為比賽項目等諸多因素](https://zh.wikipedia.org/wiki/奧運 "wikilink")，因此自2019年起，賽事更改為每年5月舉辦。
 
@@ -9,22 +8,17 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 
 ## 沿革
 
-首届PGA锦标赛于1916年在[纽约Eastchester](../Page/纽约.md "wikilink") 的Siwanoy
-乡村高尔夫俱乐部举行。当时的冠军Jim
-Barnes赢得了500美元的奖金。与此相对，2008年PGA锦标赛的冠军Pádraig
-Harrington赢得了135万美元的巨奖。冠军同时还会赢得由纽约商业界大亨[罗德曼·沃纳梅克](https://zh.wikipedia.org/wiki/罗德曼·沃纳梅克 "wikilink")（Rodman
-Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳梅克奖杯 "wikilink")。
+首届PGA锦标赛于1916年在[纽约](../Page/纽约.md "wikilink")Eastchester 的Siwanoy 乡村高尔夫俱乐部举行。当时的冠军Jim Barnes赢得了500美元的奖金。与此相对，2008年PGA锦标赛的冠军Pádraig Harrington赢得了135万美元的巨奖。冠军同时还会赢得由纽约商业界大亨[罗德曼·沃纳梅克](https://zh.wikipedia.org/wiki/罗德曼·沃纳梅克 "wikilink")（Rodman Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳梅克奖杯 "wikilink")。
 
-该项赛事在初期采用了[比洞赛模式](../Page/比洞赛.md "wikilink")，而自1958年起改用[比杆赛](https://zh.wikipedia.org/wiki/比杆赛 "wikilink")。有评论认为，正是媒体转播方出于提高收视率的考虑，而希望将一大批知名球员保留至决赛日，从而要求球赛组织者改变了比赛模式。
+该项赛事在初期采用了[比洞赛](../Page/比洞赛.md "wikilink")模式，而自1958年起改用[比杆赛](https://zh.wikipedia.org/wiki/比杆赛 "wikilink")。有评论认为，正是媒体转播方出于提高收视率的考虑，而希望将一大批知名球员保留至决赛日，从而要求球赛组织者改变了比赛模式。
 
-在1971年，PGA锦标赛破例在2月份举行，成为当年四大满贯赛事中最早的一项比赛。而到1960年代为止，比赛经常在英国公开赛一周后的7月举行，由于时间间隔太短，许多选手无法在短时间内跨过[大西洋参加这项赛事](../Page/大西洋.md "wikilink")。
+在1971年，PGA锦标赛破例在2月份举行，成为当年四大满贯赛事中最早的一项比赛。而到1960年代为止，比赛经常在英国公开赛一周后的7月举行，由于时间间隔太短，许多选手无法在短时间内跨过[大西洋](../Page/大西洋.md "wikilink")参加这项赛事。
 
 ## 参赛资格
 
-最初高尔夫球运动往往被富有的业余选手所掌控，因此PGA的创立者出于提高职业高尔夫球员的社会地位和影响力的目的而设立了这个赛事。这一传统在现今的比赛中仍得以体现。PGA锦标赛是四大满贯赛中唯一不邀请高水平业余选手参加的比赛，也是唯一为球会职业球员保留了大量参赛席位（156个席位中的20个）的赛事。这些席位的分配和争夺通过每年6月份各家俱乐部之间举行的[PGA
-职业国家锦标赛来完成](https://zh.wikipedia.org/wiki/PGA_职业国家锦标赛 "wikilink")。
+最初高尔夫球运动往往被富有的业余选手所掌控，因此PGA的创立者出于提高职业高尔夫球员的社会地位和影响力的目的而设立了这个赛事。这一传统在现今的比赛中仍得以体现。PGA锦标赛是四大满贯赛中唯一不邀请高水平业余选手参加的比赛，也是唯一为球会职业球员保留了大量参赛席位（156个席位中的20个）的赛事。这些席位的分配和争夺通过每年6月份各家俱乐部之间举行的[PGA 职业国家锦标赛来完成](https://zh.wikipedia.org/wiki/PGA_职业国家锦标赛 "wikilink")。
 
-从1968年起，[PGA巡回赛已独立于美国职业高尔夫协会而自行运作](../Page/PGA巡回赛.md "wikilink")。这一巡回赛是由巡回赛职业球员组成的组织，但是PGA锦标赛仍然是由俱乐部和职业高尔夫教练组成的美国职业高尔夫协会所管理的。PGA锦标赛是四大满贯赛中唯一一个没有明文规定[世界排名前](https://zh.wikipedia.org/wiki/高尔夫球官方排名 "wikilink")50的选手的直接参赛权的比赛，但实际上没有通过资格赛的前100名选手一般都会受到邀请。
+从1968年起，[PGA巡回赛](../Page/PGA巡回赛.md "wikilink")已独立于美国职业高尔夫协会而自行运作。这一巡回赛是由巡回赛职业球员组成的组织，但是PGA锦标赛仍然是由俱乐部和职业高尔夫教练组成的美国职业高尔夫协会所管理的。PGA锦标赛是四大满贯赛中唯一一个没有明文规定[世界排名前](https://zh.wikipedia.org/wiki/高尔夫球官方排名 "wikilink")50的选手的直接参赛权的比赛，但实际上没有通过资格赛的前100名选手一般都会受到邀请。
 
 以下是参加该项锦标赛的资格标准:
 
@@ -34,8 +28,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
   - 最近5届英国公开赛的冠军
   - 上一届[高级PGA锦标赛的冠军](https://zh.wikipedia.org/wiki/高级PGA锦标赛 "wikilink")
   - 上一届PGA锦标赛的前15名（包括并列第15名）成绩者
-  - 上一届[PGA
-    职业国家锦标赛的前](https://zh.wikipedia.org/wiki/PGA_职业国家锦标赛 "wikilink")20名成绩者
+  - 上一届[PGA 职业国家锦标赛的前](https://zh.wikipedia.org/wiki/PGA_职业国家锦标赛 "wikilink")20名成绩者
   - PGA巡回赛中获得奖金数最高的70名选手（统计期间自上一届PGA锦标赛前1周至本次PGA锦标赛前2周）
   - 参加最近一届[莱德杯比赛的美国队成员](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")
   - 自上一届PGA锦标赛之后，由PGA巡回赛协办或批准的赛事的冠军（不包括职业选手和业余选手混合赛或队际对抗赛的选手）
@@ -700,7 +693,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
 </tr>
 <tr class="odd">
 <td><p>1943</p></td>
-<td><p>因<a href="../Page/第二次世界大战.md" title="wikilink">第二次世界大战而暂停</a></p></td>
+<td><p>因<a href="../Page/第二次世界大战.md" title="wikilink">第二次世界大战</a>而暂停</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -924,7 +917,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
 <td><p>纽约州Roslyn Harbor</p></td>
 </tr>
 <tr class="even">
-<td><p>1917年-1918年: 因<a href="../Page/第一次世界大战.md" title="wikilink">第一次世界大战而暂停</a></p></td>
+<td><p>1917年-1918年: 因<a href="../Page/第一次世界大战.md" title="wikilink">第一次世界大战</a>而暂停</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -958,28 +951,19 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
   - 比杆赛时期冠亚军最大分差：7杆，冠军为[杰克·尼克劳斯](https://zh.wikipedia.org/wiki/杰克·尼克劳斯 "wikilink")（1980年）
   - 72洞赛最低绝对杆数：265杆，冠军为David Toms (66-65-65-69)，2001年
       - 这同时也是四大满贯赛事中最低的72洞杆数。
-  - 72洞赛最低相对杆数：−18,
-    [泰格·伍兹](https://zh.wikipedia.org/wiki/泰格·伍兹 "wikilink")
-    (66-67-70-67, 270杆) 和Bob May (72-66-66-66, 270杆)，2000年;
-    [泰格·伍兹](https://zh.wikipedia.org/wiki/泰格·伍兹 "wikilink")
-    (69-68-65-68, 270杆)，2006年
-  - 18洞最低绝对杆数: 63 – Bruce Crampton, 1975年第2轮;Raymond Floyd, 1982年第1轮;
-    Gary Player, 1984年第2轮; Vijay Singh, 1993第2轮; Michael Bradley,
-    1995年第1轮; Brad Faxon, 1995年第4轮; José María Olazábal, 2000年第3轮;
-    Mark O'Meara, 2001第2轮; Thomas Bjørn, 2005年第3轮; 泰格·伍兹, 2007年第2轮
+  - 72洞赛最低相对杆数：−18, [泰格·伍兹](https://zh.wikipedia.org/wiki/泰格·伍兹 "wikilink") (66-67-70-67, 270杆) 和Bob May (72-66-66-66, 270杆)，2000年; [泰格·伍兹](https://zh.wikipedia.org/wiki/泰格·伍兹 "wikilink") (69-68-65-68, 270杆)，2006年
+  - 18洞最低绝对杆数: 63 – Bruce Crampton, 1975年第2轮;Raymond Floyd, 1982年第1轮; Gary Player, 1984年第2轮; Vijay Singh, 1993第2轮; Michael Bradley, 1995年第1轮; Brad Faxon, 1995年第4轮; José María Olazábal, 2000年第3轮; Mark O'Meara, 2001第2轮; Thomas Bjørn, 2005年第3轮; 泰格·伍兹, 2007年第2轮
 
 ## 2009年后的赛事
 
   - 2009 – Hazeltine National Golf Club (明尼苏达州Chaska)
   - 2010 – Whistling Straits, Straits Course (威斯康辛州Haven)
   - 2011 – Atlanta Athletic Club, Highlands Course (乔治亚州Johns Creek)
-  - 2012 – Kiawah Island Golf Resort, The Ocean Course (南卡罗来纳州Kiawah
-    Island)
+  - 2012 – Kiawah Island Golf Resort, The Ocean Course (南卡罗来纳州Kiawah Island)
   - 2013 – Oak Hill Country Club, East Course (纽约州Pittsford)
   - 2014 – TBA
   - 2015 – Whistling Straits, Straits Course (威斯康辛州Haven)
-  - 2016 – Baltusrol Golf Club, Lower Course (新泽西州Springfield Township,
-    Union County)
+  - 2016 – Baltusrol Golf Club, Lower Course (新泽西州Springfield Township, Union County)
 
 ## 參見條目
 
@@ -994,6 +978,4 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
   - [2006年赛事网页](http://www.pga.com/pgachampionship/2006/)
   - [PGA历史展览馆](https://web.archive.org/web/20090628151504/http://champexhibit.pgalinks.com/index.cfm?page=history_main%2F)
 
-[Category:高爾夫球賽事](https://zh.wikipedia.org/wiki/Category:高爾夫球賽事 "wikilink")
-[Category:美国体育](https://zh.wikipedia.org/wiki/Category:美国体育 "wikilink")
-[Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")
+[Category:高爾夫球賽事](https://zh.wikipedia.org/wiki/Category:高爾夫球賽事 "wikilink") [Category:美国体育](https://zh.wikipedia.org/wiki/Category:美国体育 "wikilink") [Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")

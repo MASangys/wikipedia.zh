@@ -1,8 +1,4 @@
-[McCafe_Coffee_and_Cake.jpg](https://zh.wikipedia.org/wiki/File:McCafe_Coffee_and_Cake.jpg "fig:McCafe_Coffee_and_Cake.jpg")
-[McCafé_Hong_Kong.jpg](https://zh.wikipedia.org/wiki/File:McCafé_Hong_Kong.jpg "fig:McCafé_Hong_Kong.jpg")
-[MontevideoMcCafe.JPG](https://zh.wikipedia.org/wiki/File:MontevideoMcCafe.JPG "fig:MontevideoMcCafe.JPG")
-[McCafe_Track_on_Queen_Victoria_Street.jpg](https://zh.wikipedia.org/wiki/File:McCafe_Track_on_Queen_Victoria_Street.jpg "fig:McCafe_Track_on_Queen_Victoria_Street.jpg")
-****是[咖啡屋風格的食品和飲品](../Page/咖啡店.md "wikilink")[連鎖店](../Page/連鎖店.md "wikilink")，由[麥當勞公司所有](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")。該連鎖店最初於1993年在[澳大利亞的](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[墨爾本創辦](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")\[1\]，反映了消費者在[Espresso](https://zh.wikipedia.org/wiki/Espresso "wikilink")[濃縮咖啡](../Page/濃縮咖啡.md "wikilink")方面的消費傾向\[2\]。报告指出，附有門店的[麥當勞比通常的麥當勞快餐店多獲得](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")15%的收入\[3\]，到2003年，成为了[澳大利亞和](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[新西蘭最大的咖啡店品牌](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")\[4\]。
+[McCafe_Coffee_and_Cake.jpg](https://zh.wikipedia.org/wiki/File:McCafe_Coffee_and_Cake.jpg "fig:McCafe_Coffee_and_Cake.jpg") [McCafé_Hong_Kong.jpg](https://zh.wikipedia.org/wiki/File:McCafé_Hong_Kong.jpg "fig:McCafé_Hong_Kong.jpg") [MontevideoMcCafe.JPG](https://zh.wikipedia.org/wiki/File:MontevideoMcCafe.JPG "fig:MontevideoMcCafe.JPG") [McCafe_Track_on_Queen_Victoria_Street.jpg](https://zh.wikipedia.org/wiki/File:McCafe_Track_on_Queen_Victoria_Street.jpg "fig:McCafe_Track_on_Queen_Victoria_Street.jpg") ****是[咖啡屋風格的食品和飲品](../Page/咖啡店.md "wikilink")[連鎖店](../Page/連鎖店.md "wikilink")，由[麥當勞公司所有](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")。該連鎖店最初於1993年在[澳大利亞的](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[墨爾本創辦](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")\[1\]，反映了消費者在[Espresso](https://zh.wikipedia.org/wiki/Espresso "wikilink")[濃縮咖啡](../Page/濃縮咖啡.md "wikilink")方面的消費傾向\[2\]。报告指出，附有門店的[麥當勞比通常的麥當勞快餐店多獲得](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")15%的收入\[3\]，到2003年，成为了[澳大利亞和](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[新西蘭最大的咖啡店品牌](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")\[4\]。
 
 [麦当劳](../Page/麦当劳.md "wikilink")自2009年6月3日起，在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[广州](https://zh.wikipedia.org/wiki/广州 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[武汉](https://zh.wikipedia.org/wiki/武汉 "wikilink")、[南京和](https://zh.wikipedia.org/wiki/南京 "wikilink")[天津](https://zh.wikipedia.org/wiki/天津 "wikilink")7大城市推出鲜煮咖啡\[5\]，而后又于同年7月22日，将中国大陆其他地区的1000余家餐厅供应的咖啡全面使用取代原来的特级香浓咖啡\[6\]。
 
@@ -41,8 +37,7 @@
 
   - [麦当劳鲜煮咖啡香浓四溢(组图)](https://web.archive.org/web/20150604123405/http://stock.hexun.com/2009-06-04/118311498.html)
 
-[Category:麦当劳](https://zh.wikipedia.org/wiki/Category:麦当劳 "wikilink")
-[Category:咖啡店](https://zh.wikipedia.org/wiki/Category:咖啡店 "wikilink")
+[Category:麦当劳](https://zh.wikipedia.org/wiki/Category:麦当劳 "wikilink") [Category:咖啡店](https://zh.wikipedia.org/wiki/Category:咖啡店 "wikilink")
 
 1.
 

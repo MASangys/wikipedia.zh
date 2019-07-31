@@ -140,11 +140,9 @@
 
 <references />
 
-[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
-[Category:Jabber客户端](https://zh.wikipedia.org/wiki/Category:Jabber客户端 "wikilink")
+[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink") [Category:Jabber客户端](https://zh.wikipedia.org/wiki/Category:Jabber客户端 "wikilink")
 
-1.  [Original XMPP clients list on
-    xmpp.org](http://xmpp.org/software/clients.shtml)
+1.  [Original XMPP clients list on xmpp.org](http://xmpp.org/software/clients.shtml)
 2.  <http://cabber.sourceforge.net>
 3.  <http://savannah.gnu.org/projects/freetalk>
 4.  <http://nafai.dyndns.org>

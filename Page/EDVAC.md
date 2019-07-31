@@ -1,7 +1,6 @@
 [Edvac.jpg](https://zh.wikipedia.org/wiki/File:Edvac.jpg "fig:Edvac.jpg")
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg "fig:缩略图")
-**离散变量自动电子计算机**（，）是一台[美国](../Page/美国.md "wikilink")早期[电子计算机](../Page/电子计算机.md "wikilink")。与它的前任[ENIAC不同](https://zh.wikipedia.org/wiki/ENIAC "wikilink")，EDVAC采用[二进制](https://zh.wikipedia.org/wiki/二进制 "wikilink")，而且是一台[冯·诺伊曼结构](../Page/冯·诺伊曼结构.md "wikilink")的计算机。
+[缩略图](https://zh.wikipedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg "fig:缩略图") **离散变量自动电子计算机**（，）是一台[美国](../Page/美国.md "wikilink")早期[电子计算机](../Page/电子计算机.md "wikilink")。与它的前任[ENIAC不同](https://zh.wikipedia.org/wiki/ENIAC "wikilink")，EDVAC采用[二进制](https://zh.wikipedia.org/wiki/二进制 "wikilink")，而且是一台[冯·诺伊曼结构](../Page/冯·诺伊曼结构.md "wikilink")的计算机。
 
 ## 起源和设计
 
@@ -15,8 +14,7 @@ EDVAC的初步[预算为十万](https://zh.wikipedia.org/wiki/预算 "wikilink")
 
 EDVAC使用了大约6000个[真空管](../Page/真空管.md "wikilink")和12000个[二极管](https://zh.wikipedia.org/wiki/二极管 "wikilink")，占地45.5[平方米](../Page/平方米.md "wikilink")，重达7850千克，消耗电力56[千瓦](https://zh.wikipedia.org/wiki/千瓦 "wikilink")
 
-EDVAC是[二进制](https://zh.wikipedia.org/wiki/二进制 "wikilink")[串行计算机](https://zh.wikipedia.org/wiki/串行计算机 "wikilink")，具有[加](https://zh.wikipedia.org/wiki/加 "wikilink")[减](https://zh.wikipedia.org/wiki/减 "wikilink")[乘和软件](https://zh.wikipedia.org/wiki/乘 "wikilink")[除的功能](https://zh.wikipedia.org/wiki/除 "wikilink")。一条加法指令约864[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")，乘法指令2900微秒（或2.9[毫秒](https://zh.wikipedia.org/wiki/毫秒 "wikilink")）。
-使用[延迟线存储器](../Page/延迟线存储器.md "wikilink")，具有1000个44位（bit）的字。
+EDVAC是[二进制](https://zh.wikipedia.org/wiki/二进制 "wikilink")[串行计算机](https://zh.wikipedia.org/wiki/串行计算机 "wikilink")，具有[加](https://zh.wikipedia.org/wiki/加 "wikilink")[减](https://zh.wikipedia.org/wiki/减 "wikilink")[乘和软件](https://zh.wikipedia.org/wiki/乘 "wikilink")[除的功能](https://zh.wikipedia.org/wiki/除 "wikilink")。一条加法指令约864[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")，乘法指令2900微秒（或2.9[毫秒](https://zh.wikipedia.org/wiki/毫秒 "wikilink")）。 使用[延迟线存储器](../Page/延迟线存储器.md "wikilink")，具有1000个44位（bit）的字。
 
 物理上包括：
 
@@ -43,5 +41,4 @@ EDVAC于1949年8月交付给弹道研究实验室。在发现和解决许多问�
   - [冯·诺伊曼结构](../Page/冯·诺伊曼结构.md "wikilink")
   - [ENIAC](https://zh.wikipedia.org/wiki/ENIAC "wikilink")
 
-[Category:早期电脑](https://zh.wikipedia.org/wiki/Category:早期电脑 "wikilink")
-[Category:计算机历史](https://zh.wikipedia.org/wiki/Category:计算机历史 "wikilink")
+[Category:早期电脑](https://zh.wikipedia.org/wiki/Category:早期电脑 "wikilink") [Category:计算机历史](https://zh.wikipedia.org/wiki/Category:计算机历史 "wikilink")

@@ -1,8 +1,4 @@
-**Ben 10 外星英雄**（英文：Ben 10 Alien
-Force）為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[時代華納公司旗下](https://zh.wikipedia.org/wiki/時代華納 "wikilink")[Cartoon
-Network
-Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")2008年推出之[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，是[Ben
-10系列主劇情的第二套系列作](../Page/Ben_10系列.md "wikilink")。中国大陆由[广东广播电视台](../Page/广东广播电视台.md "wikilink")[嘉佳卡通卫视播出](https://zh.wikipedia.org/wiki/嘉佳卡通 "wikilink")。\[1\]
+**Ben 10 外星英雄**（英文：Ben 10 Alien Force）為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[時代華納公司旗下](https://zh.wikipedia.org/wiki/時代華納 "wikilink")[Cartoon Network Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")2008年推出之[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，是[Ben 10系列主劇情的第二套系列作](../Page/Ben_10系列.md "wikilink")。中国大陆由[广东广播电视台](../Page/广东广播电视台.md "wikilink")[嘉佳卡通卫视播出](https://zh.wikipedia.org/wiki/嘉佳卡通 "wikilink")。\[1\]
 
 ## 故事簡介
 
@@ -10,20 +6,17 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 ## 友方
 
-  - **田小班**（Benjamin
-    Tennyson，Ben）（[配音](../Page/配音.md "wikilink")：[何志威](../Page/何志威.md "wikilink")（台）／[保志總一朗](../Page/保志總一朗.md "wikilink")（日））（初次登場-第1集）
+  - **田小班**（Benjamin Tennyson，Ben）（[配音](../Page/配音.md "wikilink")：[何志威](../Page/何志威.md "wikilink")（台）／[保志總一朗](../Page/保志總一朗.md "wikilink")（日））（初次登場-第1集）
 
 <!-- end list -->
 
   -
     今年15歲的小班跟以前一樣愛冒險，非常喜歡喝雪泥大王的[雪泥](https://zh.wikipedia.org/wiki/雪泥 "wikilink")，也喜歡踢足球，味覺似乎變的跟馬克爺爺一樣特殊，還會在[雪泥裡面加薑汁](https://zh.wikipedia.org/wiki/雪泥 "wikilink")。過去是由馬克爺爺帶領這個團隊，現在他失蹤了，所以小班必須成為有責任感的領導者。[Omnitrix已經重新校正過](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")(聲控裝置)，讓小班可以叫出新的外星英雄。
-    在《The Final
-    Battle》小班為了阻止魔賈斯，親手將[Omnitrix摧毀並用計將阿貝多手上的](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")[Ultimatrix給奪了過來](https://zh.wikipedia.org/wiki/Ultimatrix "wikilink")。
+    在《The Final Battle》小班為了阻止魔賈斯，親手將[Omnitrix摧毀並用計將阿貝多手上的](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")[Ultimatrix給奪了過來](https://zh.wikipedia.org/wiki/Ultimatrix "wikilink")。
 
 <!-- end list -->
 
-  - **田小玟**（Gwendolyn
-    Tennyson，Gwen）（[配音](../Page/配音.md "wikilink")：[許淑嬪](../Page/許淑嬪.md "wikilink")（台）／[前田沙耶香](https://zh.wikipedia.org/wiki/前田沙耶香 "wikilink")（日））（初次登場-第1集）
+  - **田小玟**（Gwendolyn Tennyson，Gwen）（[配音](../Page/配音.md "wikilink")：[許淑嬪](../Page/許淑嬪.md "wikilink")（台）／[前田沙耶香](https://zh.wikipedia.org/wiki/前田沙耶香 "wikilink")（日））（初次登場-第1集）
 
 <!-- end list -->
 
@@ -33,21 +26,18 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **李凱文**（Kevin
-    Levin）(歐斯摩西星人+地球人)（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink")（台）／幼年：[李明幸](../Page/李明幸.md "wikilink")（台）／[杉山紀彰](../Page/杉山紀彰.md "wikilink")（日）／幼年：[増田裕生](https://zh.wikipedia.org/wiki/増田裕生 "wikilink")（日））（初次登場-第1集）
+  - **李凱文**（Kevin Levin）(歐斯摩西星人+地球人)（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink")（台）／幼年：[李明幸](../Page/李明幸.md "wikilink")（台）／[杉山紀彰](../Page/杉山紀彰.md "wikilink")（日）／幼年：[増田裕生](https://zh.wikipedia.org/wiki/増田裕生 "wikilink")（日））（初次登場-第1集）
 
 <!-- end list -->
 
   -
     凱文是個高大、渾身肌肉的街頭混混，也是小班以前的死對頭(即為在十歲的版本中變為十不像的凱文，被小班打進虛無零界時遇到魁哥，接受魁哥的指導擺脫十不像的樣貌，能力由吸收轉為複製)，曾經違法買賣武器，現在已改邪歸正，成為小班和小玟的夥伴，不過偶爾還是會做出奸詐投機、趁火打劫的事(但他到最後往往見財化水)。以前常和阿吉合作。對小玟有意思，但是小玟對他遲遲不行動感到不耐。不過終於鼓起勇氣向小玟提出約會，開始與小玟交往。
-    他的能力可以讓身體表面複製並變成他摸到的任何[固體](https://zh.wikipedia.org/wiki/固體 "wikilink")。第三季初期[Omnitrix爆炸](https://zh.wikipedia.org/wiki/Omnitrix "wikilink"),變成左臉是天晶玉，身體是半邊岩石與半邊金屬，兩條腿是木頭的怪物。平時用偽裝面具讓自己看起來像是正常人,在《The
-    Final Battle》因為Omnitrix被小班設成自爆模式爆炸所以後來變回人形。凱文有一台車，經常被砸或弄髒。
+    他的能力可以讓身體表面複製並變成他摸到的任何[固體](https://zh.wikipedia.org/wiki/固體 "wikilink")。第三季初期[Omnitrix爆炸](https://zh.wikipedia.org/wiki/Omnitrix "wikilink"),變成左臉是天晶玉，身體是半邊岩石與半邊金屬，兩條腿是木頭的怪物。平時用偽裝面具讓自己看起來像是正常人,在《The Final Battle》因為Omnitrix被小班設成自爆模式爆炸所以後來變回人形。凱文有一台車，經常被砸或弄髒。
     在《Ben 10 外星蜂暴》曾經送給小班一輛車當生日禮物，這輛車在之後的系列《Ben 10 終極英雄》也會出現。
 
 <!-- end list -->
 
-  - **田馬克／馬克爺爺**（Max Tennyson/Grandpa
-    Max）（初次登場-第6集）（[配音](../Page/配音.md "wikilink")：[徐健春](../Page/徐健春.md "wikilink")（台）[たてかべ和也](https://zh.wikipedia.org/wiki/たてかべ和也 "wikilink")（日））
+  - **田馬克／馬克爺爺**（Max Tennyson/Grandpa Max）（初次登場-第6集）（[配音](../Page/配音.md "wikilink")：[徐健春](../Page/徐健春.md "wikilink")（台）[たてかべ和也](https://zh.wikipedia.org/wiki/たてかべ和也 "wikilink")（日））
 
 <!-- end list -->
 
@@ -58,8 +48,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **茱莉**（Julie
-    Yamamoto）（[配音](../Page/配音.md "wikilink")：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（台））（初次登場-第1集）
+  - **茱莉**（Julie Yamamoto）（[配音](../Page/配音.md "wikilink")：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（台））（初次登場-第1集）
 
 <!-- end list -->
 
@@ -73,9 +62,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 <!-- end list -->
 
   -
-    首度登場是在《Ben 10 外星英雄》的《Ben 10 Returns: Part
-    1》，誤會小班偷取Omnitrix。後來與小班和小玟一起發現凱文在仲介永恆武士的外星科技品交易，衝突過後永恆武士逃走，凱文也加入追查永恆武士的行列。在《Ben
-    10 Returns: Part 2》和永恆武士激烈交戰後傷重而死，臨終時吩咐小班和小玟找出馬克最好的方法就是調查馬克在追查的案子。
+    首度登場是在《Ben 10 外星英雄》的《Ben 10 Returns: Part 1》，誤會小班偷取Omnitrix。後來與小班和小玟一起發現凱文在仲介永恆武士的外星科技品交易，衝突過後永恆武士逃走，凱文也加入追查永恆武士的行列。在《Ben 10 Returns: Part 2》和永恆武士激烈交戰後傷重而死，臨終時吩咐小班和小玟找出馬克最好的方法就是調查馬克在追查的案子。
 
 <!-- end list -->
 
@@ -84,13 +71,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 <!-- end list -->
 
   -
-    蓋文星人，Omnitrix的發明者。也是唯一能輕鬆自由拔下[Omnitrix的核心的人](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")。在《Good
-    Copy, Bad Copy》阿貝多變成小班的身體並受困其中後，阿茲米斯出現並拔走阿貝多複製品的核心讓阿貝多永久受困。在《War of
-    the
-    Worlds》進化人發動全面戰爭，阿茲米斯原本不願意讓小班戴Omnitrix參戰，後來讓小班完全掌控Omnitrix的功能。當小班和凱文在《Vengeance
-    of
-    Vilgax》為了和回歸的魔賈斯決鬥而駭入Omnitrix，他先警告小班不能這麼做。後來由於無視警告造成Omnitrix爆發，他表示惱怒並告訴小班要將逃脫的外星人找回。在《Primus》魔賈斯入侵普萊摩斯，他告訴小班等人Omnitrix的基因樣本來自普萊摩斯。在《The
-    Final Battle》小班被奪走Omnitrix，他曾經現身對小班表示小班想出連他都沒想到的方法使用Omnitrix。
+    蓋文星人，Omnitrix的發明者。也是唯一能輕鬆自由拔下[Omnitrix的核心的人](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")。在《Good Copy, Bad Copy》阿貝多變成小班的身體並受困其中後，阿茲米斯出現並拔走阿貝多複製品的核心讓阿貝多永久受困。在《War of the Worlds》進化人發動全面戰爭，阿茲米斯原本不願意讓小班戴Omnitrix參戰，後來讓小班完全掌控Omnitrix的功能。當小班和凱文在《Vengeance of Vilgax》為了和回歸的魔賈斯決鬥而駭入Omnitrix，他先警告小班不能這麼做。後來由於無視警告造成Omnitrix爆發，他表示惱怒並告訴小班要將逃脫的外星人找回。在《Primus》魔賈斯入侵普萊摩斯，他告訴小班等人Omnitrix的基因樣本來自普萊摩斯。在《The Final Battle》小班被奪走Omnitrix，他曾經現身對小班表示小班想出連他都沒想到的方法使用Omnitrix。
 
 <!-- end list -->
 
@@ -99,22 +80,18 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 <!-- end list -->
 
   -
-    阿茲米斯的助手，在《Ben 10 變身之謎》登場時，因為走私科技品被關在外星監獄陰克西卡裡，與魔賈斯同族，初登場時外型與《Ben
-    10》第一集登場的魔賈斯差不多，而當時翻譯為瑪亞絲，在《Ben 10外星英雄》登場時比之前瘦了不少。在《The Final
-    Battle: Part 1》開頭發現阿貝多偷走了未完成的Ultimatrix。
+    阿茲米斯的助手，在《Ben 10 變身之謎》登場時，因為走私科技品被關在外星監獄陰克西卡裡，與魔賈斯同族，初登場時外型與《Ben 10》第一集登場的魔賈斯差不多，而當時翻譯為瑪亞絲，在《Ben 10外星英雄》登場時比之前瘦了不少。在《The Final Battle: Part 1》開頭發現阿貝多偷走了未完成的Ultimatrix。
 
 <!-- end list -->
 
-  - **矛盾博士**（Professor
-    Paradox）（[配音](../Page/配音.md "wikilink")：[曹冀魯](../Page/曹冀魯.md "wikilink")／[魏伯勤](../Page/魏伯勤.md "wikilink")（台））（初次登場-第10集）
+  - **矛盾博士**（Professor Paradox）（[配音](../Page/配音.md "wikilink")：[曹冀魯](../Page/曹冀魯.md "wikilink")／[魏伯勤](../Page/魏伯勤.md "wikilink")（台））（初次登場-第10集）
 
 <!-- end list -->
 
   -
     矛盾博士原本是在1950年美國軍方秘密實驗的參與人之一，後來因為實驗出問題而被吸入的紀年時空軸待了12萬年，不過也因為這樣他走入了永恆，永遠不會老而且可以自由操控週遭的時間、走入任何空間中。現在他在穿越時空修正歷史，據他所言他拯救世界幾百次，其中一次還和小班一起合作。
     在《Ben 10 外星英雄》是唯一的時空穿越者。
-    Dwayne McDuffie證實矛盾博士這個角色的靈感來自於英國電視節目[Doctor
-    Who裡的](../Page/異世奇人.md "wikilink")[Doctor](../Page/博士_\(異世奇人\).md "wikilink")(尤其是第十任)\[2\]
+    Dwayne McDuffie證實矛盾博士這個角色的靈感來自於英國電視節目[Doctor Who裡的](../Page/異世奇人.md "wikilink")[Doctor](../Page/博士_\(異世奇人\).md "wikilink")(尤其是第十任)\[2\]
 
 ## 敵方
 
@@ -163,8 +140,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **麥克．晨星**（Mike
-    Morningstar）（初次登場-第5集）（[配音](../Page/配音.md "wikilink")：[李世揚](../Page/李世揚.md "wikilink")（台））
+  - **麥克．晨星**（Mike Morningstar）（初次登場-第5集）（[配音](../Page/配音.md "wikilink")：[李世揚](../Page/李世揚.md "wikilink")（台））
 
 <!-- end list -->
 
@@ -241,8 +217,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 ## 外星英雄
 
-  - '''小波波（品種：Sonorosian）（Echo
-    Echo）（初次登場-第2集）（[配音](../Page/配音.md "wikilink")：[杨凯凯](https://zh.wikipedia.org/wiki/杨凯凯 "wikilink")（台））
+  - '''小波波（品種：Sonorosian）（Echo Echo）（初次登場-第2集）（[配音](../Page/配音.md "wikilink")：[杨凯凯](https://zh.wikipedia.org/wiki/杨凯凯 "wikilink")（台））
 
 <!-- end list -->
 
@@ -272,8 +247,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **魟人**（品種：Aerophibian）（Jetray）（初次登場-第3集）（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink")
-    （台））
+  - **魟人**（品種：Aerophibian）（Jetray）（初次登場-第3集）（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink") （台））
 
 <!-- end list -->
 
@@ -283,8 +257,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **極微人**（品種：Nanomectronian）（Nanomech）（[配音](../Page/配音.md "wikilink")：[何志威](../Page/何志威.md "wikilink")（台））（初次登場-Ben
-    10外星英雄 真人版電影 外星蜂暴）
+  - **極微人**（品種：Nanomectronian）（Nanomech）（[配音](../Page/配音.md "wikilink")：[何志威](../Page/何志威.md "wikilink")（台））（初次登場-Ben 10外星英雄 真人版電影 外星蜂暴）
 
 <!-- end list -->
 
@@ -294,8 +267,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **沼澤火**（品種：海砂火星人
-    Methanosian）（Swampfire）（初次登場-第1集）（[配音](../Page/配音.md "wikilink")：[符爽](../Page/符爽.md "wikilink")（台））
+  - **沼澤火**（品種：海砂火星人 Methanosian）（Swampfire）（初次登場-第1集）（[配音](../Page/配音.md "wikilink")：[符爽](../Page/符爽.md "wikilink")（台））
 
 <!-- end list -->
 
@@ -305,8 +277,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **異形怪**（品種：Polymorph
-    ）（Goop）（初次登場-第9集）（[配音](../Page/配音.md "wikilink")：[許淑嬪](../Page/許淑嬪.md "wikilink")（台））
+  - **異形怪**（品種：Polymorph ）（Goop）（初次登場-第9集）（[配音](../Page/配音.md "wikilink")：[許淑嬪](../Page/許淑嬪.md "wikilink")（台））
 
 <!-- end list -->
 
@@ -316,8 +287,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **蜘蛛魔猴**（品種：阿拉卡那星人）（Spider
-    Monkey）（初次登場-第8集）（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink")（台））
+  - **蜘蛛魔猴**（品種：阿拉卡那星人）（Spider Monkey）（初次登場-第8集）（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink")（台））
 
 <!-- end list -->
 
@@ -327,9 +297,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **寒冰幽靈**（品種：納克佛吉星人）（Big
-    Chill）（初次登場-第4集）（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink")
-    （台））
+  - **寒冰幽靈**（品種：納克佛吉星人）（Big Chill）（初次登場-第4集）（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink") （台））
 
 <!-- end list -->
 
@@ -339,8 +307,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **水晶奇俠**（品種：佩卓沙平星人）（Chromastone）（初次登場-第5集）（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink")
-    （台））
+  - **水晶奇俠**（品種：佩卓沙平星人）（Chromastone）（初次登場-第5集）（[配音](../Page/配音.md "wikilink")：[于正昇](../Page/于正昇.md "wikilink") （台））
 
 <!-- end list -->
 
@@ -360,8 +327,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **鬼影**（品種：伊克透瑞星人）（Ghostfreak）([配音](../Page/配音.md "wikilink")：[林谷珍](../Page/林谷珍.md "wikilink")
-    （台））
+  - **鬼影**（品種：伊克透瑞星人）（Ghostfreak）([配音](../Page/配音.md "wikilink")：[林谷珍](../Page/林谷珍.md "wikilink") （台））
 
 <!-- end list -->
 
@@ -401,8 +367,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **轟天雷**（品種：那布里星佩拉洛塔人 Arburian
-    Pelarota）（Cannonbolt）(初次登場-第25集)（[配音](../Page/配音.md "wikilink")：-[林谷珍](../Page/林谷珍.md "wikilink")}-（台））
+  - **轟天雷**（品種：那布里星佩拉洛塔人 Arburian Pelarota）（Cannonbolt）(初次登場-第25集)（[配音](../Page/配音.md "wikilink")：-[林谷珍](../Page/林谷珍.md "wikilink")}-（台））
 
 <!-- end list -->
 
@@ -412,8 +377,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 <!-- end list -->
 
-  - **X超人**（品種：天外天神族）（Alien
-    X）（初次登場-第13集））（憤怒侵略[配音](../Page/配音.md "wikilink")：[林谷珍](../Page/林谷珍.md "wikilink")（（台））)（大愛慈悲[配音](../Page/配音.md "wikilink")：[谢佼娟](https://zh.wikipedia.org/wiki/谢佼娟 "wikilink")（台））
+  - **X超人**（品種：天外天神族）（Alien X）（初次登場-第13集））（憤怒侵略[配音](../Page/配音.md "wikilink")：[林谷珍](../Page/林谷珍.md "wikilink")（（台））)（大愛慈悲[配音](../Page/配音.md "wikilink")：[谢佼娟](https://zh.wikipedia.org/wiki/谢佼娟 "wikilink")（台））
 
 <!-- end list -->
 
@@ -484,22 +448,18 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 | 46 | The Final Battle: Part 2          | 最後戰役（下集） |
 |    |                                   |          |
 
-  - [Ben 10
-    外星蜂暴](https://zh.wikipedia.org/wiki/Ben_10_外星蜂暴 "wikilink")（）
+  - [Ben 10 外星蜂暴](https://zh.wikipedia.org/wiki/Ben_10_外星蜂暴 "wikilink")（）
 
 2009-11-25
 
-  - [Ben 10 終極英雄](../Page/Ben_10_終極英雄.md "wikilink")（Ben 10 Ultimate
-    Alien ）
+  - [Ben 10 終極英雄](../Page/Ben_10_終極英雄.md "wikilink")（Ben 10 Ultimate Alien ）
 
 2010-10-10 全球同步播出
 
 ## 參見
 
-  - [Cartoon
-    Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")
-  - [Cartoon Network
-    Studios](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")
+  - [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")
+  - [Cartoon Network Studios](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")
   - [Ben 10系列](../Page/Ben_10系列.md "wikilink")
   - [Ben 10](https://zh.wikipedia.org/wiki/Ben_10 "wikilink")（小时候的小班）
   - [Ben 10 終極英雄](../Page/Ben_10_終極英雄.md "wikilink")
@@ -507,21 +467,15 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 
 ## 相關連結
 
-  - [Ben 10
-    外星英雄](https://web.archive.org/web/20090116124042/http://cartoonnetwork.com.tw/minisite/ben10_alien_force/index.jsp)
+  - [Ben 10 外星英雄](https://web.archive.org/web/20090116124042/http://cartoonnetwork.com.tw/minisite/ben10_alien_force/index.jsp)
 
-  - [Ben 10 Alien
-    force](http://www.cartoonnetwork.com/tv_shows/ben10af/index.html)
+  - [Ben 10 Alien force](http://www.cartoonnetwork.com/tv_shows/ben10af/index.html)
 
   - [本節目官方網站](http://www.cartoonnetwork.com/tv_shows/promotion_landing_page/ben10/index.html)
 
 ## 參考資料
 
-[Category:2000年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2000年代美國動畫影集 "wikilink")
-[Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink")
-[Category:Ben_10](https://zh.wikipedia.org/wiki/Category:Ben_10 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:广东广播电视台外购动画片](https://zh.wikipedia.org/wiki/Category:广东广播电视台外购动画片 "wikilink")
+[Category:2000年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2000年代美國動畫影集 "wikilink") [Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink") [Category:Ben_10](https://zh.wikipedia.org/wiki/Category:Ben_10 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:广东广播电视台外购动画片](https://zh.wikipedia.org/wiki/Category:广东广播电视台外购动画片 "wikilink")
 
 1.
 2.  <http://ben10.wikia.com/wiki/Professor_Paradox>

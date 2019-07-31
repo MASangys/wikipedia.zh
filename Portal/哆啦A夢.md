@@ -15,8 +15,7 @@ __NOTOC__
 
 <div style="float:left; width:50%;">
 
-{{/box-header|[<File:02wiki-zn-frontpage-icon.png>](https://zh.wikipedia.org/wiki/File:02wiki-zn-frontpage-icon.png "fig:File:02wiki-zn-frontpage-icon.png")
-你知道吗|Portal:哆啦A夢/你知道吗|}}  {{/box-footer|}}
+{{/box-header|[<File:02wiki-zn-frontpage-icon.png>](https://zh.wikipedia.org/wiki/File:02wiki-zn-frontpage-icon.png "fig:File:02wiki-zn-frontpage-icon.png") 你知道吗|Portal:哆啦A夢/你知道吗|}}  {{/box-footer|}}
 
 <div style="float:left; width:63%;">
 
@@ -40,12 +39,9 @@ __NOTOC__
 
 {{/box-header|電影|Portal:哆啦A夢/大長篇|}}  {{/box-footer|}}
 
-{{/box-header|[<File:05wiki-zn-frontpage-icon.png>](https://zh.wikipedia.org/wiki/File:05wiki-zn-frontpage-icon.png "fig:File:05wiki-zn-frontpage-icon.png")
-相關图片|Portal:哆啦A夢/特色图片|}}  {{/box-footer|}}
+{{/box-header|[<File:05wiki-zn-frontpage-icon.png>](https://zh.wikipedia.org/wiki/File:05wiki-zn-frontpage-icon.png "fig:File:05wiki-zn-frontpage-icon.png") 相關图片|Portal:哆啦A夢/特色图片|}}  {{/box-footer|}}
 
-{{/box-header|模板|Portal:哆啦A夢/模板|}}  {{/box-footer|}}
-{{/box-header|[<File:03wiki-zn-frontpage-icon.gif>](https://zh.wikipedia.org/wiki/File:03wiki-zn-frontpage-icon.gif "fig:File:03wiki-zn-frontpage-icon.gif")
-欢迎参与|Portal:哆啦A夢/欢迎参与|}}  {{/box-footer|}}
+{{/box-header|模板|Portal:哆啦A夢/模板|}}  {{/box-footer|}} {{/box-header|[<File:03wiki-zn-frontpage-icon.gif>](https://zh.wikipedia.org/wiki/File:03wiki-zn-frontpage-icon.gif "fig:File:03wiki-zn-frontpage-icon.gif") 欢迎参与|Portal:哆啦A夢/欢迎参与|}}  {{/box-footer|}}
 
 </div>
 
@@ -65,5 +61,4 @@ __NOTOC__
 
 {{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
 
-[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
-[Category:哆啦A夢](https://zh.wikipedia.org/wiki/Category:哆啦A夢 "wikilink")
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink") [Category:哆啦A夢](https://zh.wikipedia.org/wiki/Category:哆啦A夢 "wikilink")

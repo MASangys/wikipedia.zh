@@ -1,29 +1,6 @@
-{{ infobox OS |name = Scientific Linux |logo = Scientific Linux logo and
-wordmark.svg |logo_size = 80px |screenshot = Scientific Linux 7.png
-|screenshot_size = 300px |caption = Scientific Linux 7.0 - GNOME桌面
-|developer =
-[Fermilab](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink")
-/ [CERN](../Page/歐洲核子研究組織.md "wikilink") |family =
-[類Unix系統](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")
-|source_model = [開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")
-|released = 2004年5月10日 |latest_release_version = 7.6
-|latest_release_date =  |latest_preview_version = 7.6 RC2
-|latest_preview_date =  |ui = [GNOME](../Page/GNOME.md "wikilink")
-|package_manager = [RPM](../Page/RPM套件管理員.md "wikilink") |kernel_type
-=
-[單核心](https://zh.wikipedia.org/wiki/單核心 "wikilink")（[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")）
-|license = [GPL以及其它多種](https://zh.wikipedia.org/wiki/GPL "wikilink")
-|working_state = 現行 |supported_platforms =
-[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
-|website = [scientificlinux.org](https://www.scientificlinux.org/) |
-updatemodel =
-[Yum](https://zh.wikipedia.org/wiki/Yellow_Dog_Updater_Modified "wikilink")（[PackageKit](../Page/PackageKit.md "wikilink")）
-}}
+{{ infobox OS |name = Scientific Linux |logo = Scientific Linux logo and wordmark.svg |logo_size = 80px |screenshot = Scientific Linux 7.png |screenshot_size = 300px |caption = Scientific Linux 7.0 - GNOME桌面 |developer = [Fermilab](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink") / [CERN](../Page/歐洲核子研究組織.md "wikilink") |family = [類Unix系統](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink") |source_model = [開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink") |released = 2004年5月10日 |latest_release_version = 7.6 |latest_release_date =  |latest_preview_version = 7.6 RC2 |latest_preview_date =  |ui = [GNOME](../Page/GNOME.md "wikilink") |package_manager = [RPM](../Page/RPM套件管理員.md "wikilink") |kernel_type = [單核心](https://zh.wikipedia.org/wiki/單核心 "wikilink")（[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")） |license = [GPL以及其它多種](https://zh.wikipedia.org/wiki/GPL "wikilink") |working_state = 現行 |supported_platforms = [x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") |website = [scientificlinux.org](https://www.scientificlinux.org/) | updatemodel = [Yum](https://zh.wikipedia.org/wiki/Yellow_Dog_Updater_Modified "wikilink")（[PackageKit](../Page/PackageKit.md "wikilink")） }}
 
-**Scientific
-Linux**是一款由[費米國家加速器實驗室](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink")（Fermilab）與[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")（CERN）合作開發的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。
-開發上是以[Red Hat Enterprise
-Linux作為基礎](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，並且期望「盡其所能地接近商業發行版的作業系統」\[1\]。2019年4月，開發團隊宣佈其將不會再繼續開發新版本，但對6.X與7.X版的維護仍將持續到它們的生命週期結束。此後[費米國家加速器實驗室將會使用](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink")[CentOS](../Page/CentOS.md "wikilink")進行8.0的部署\[2\]。
+**Scientific Linux**是一款由[費米國家加速器實驗室](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink")（Fermilab）與[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")（CERN）合作開發的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。 開發上是以[Red Hat Enterprise Linux作為基礎](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，並且期望「盡其所能地接近商業發行版的作業系統」\[1\]。2019年4月，開發團隊宣佈其將不會再繼續開發新版本，但對6.X與7.X版的維護仍將持續到它們的生命週期結束。此後[費米國家加速器實驗室將會使用](https://zh.wikipedia.org/wiki/費米國家加速器實驗室 "wikilink")[CentOS](../Page/CentOS.md "wikilink")進行8.0的部署\[2\]。
 
 ## 版本歷史
 
@@ -89,9 +66,7 @@ Scientific Linux已發佈的版本如下：
   - [CERN Linux主頁](http://linux.web.cern.ch/linux/)
   - [Fermilab Linux主頁](https://fermilinux.fnal.gov/)
 
-[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
-[Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink")
+[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink")
 
-1.  [Scientific Linux - General Questions about Scientific
-    Linux](http://www.scientificlinux.org/documentation/faq/general1)
+1.  [Scientific Linux - General Questions about Scientific Linux](http://www.scientificlinux.org/documentation/faq/general1)
 2.

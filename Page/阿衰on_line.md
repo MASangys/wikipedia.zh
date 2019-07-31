@@ -1,5 +1,4 @@
-《**阿衰on
-line**》是一部由[中国大陆](../Page/中国大陆.md "wikilink")漫画家[猫小乐](https://zh.wikipedia.org/wiki/猫小乐 "wikilink")（本名**陈乐**）编绘的[校园漫画](https://zh.wikipedia.org/wiki/校园漫画 "wikilink")，从2001年起在[云南出版集团公司](../Page/云南出版集团公司.md "wikilink")旗下的[云南教育出版社](../Page/云南教育出版社.md "wikilink")主办的月刊漫画杂志《[漫画派对](https://zh.wikipedia.org/wiki/漫画party "wikilink")》上连载。
+《**阿衰on line**》是一部由[中国大陆](../Page/中国大陆.md "wikilink")漫画家[猫小乐](https://zh.wikipedia.org/wiki/猫小乐 "wikilink")（本名**陈乐**）编绘的[校园漫画](https://zh.wikipedia.org/wiki/校园漫画 "wikilink")，从2001年起在[云南出版集团公司](../Page/云南出版集团公司.md "wikilink")旗下的[云南教育出版社](../Page/云南教育出版社.md "wikilink")主办的月刊漫画杂志《[漫画派对](https://zh.wikipedia.org/wiki/漫画party "wikilink")》上连载。
 
 该漫画描述了[初中生阿衰和他的同学](https://zh.wikipedia.org/wiki/初中 "wikilink")、老师、家长之间发生的一桩桩生活、学习中的故事。故事剧情相对紧贴时事、滑稽爆笑，受到一些9学生的欢迎。
 
@@ -86,14 +85,9 @@ line**》是一部由[中国大陆](../Page/中国大陆.md "wikilink")漫画家
 
 ## 注释
 
-[Category:中国漫画作品](https://zh.wikipedia.org/wiki/Category:中国漫画作品 "wikilink")
-[Category:中学背景漫画](https://zh.wikipedia.org/wiki/Category:中学背景漫画 "wikilink")
-[Category:虚构儿童](https://zh.wikipedia.org/wiki/Category:虚构儿童 "wikilink")
-[Category:虚构中国人](https://zh.wikipedia.org/wiki/Category:虚构中国人 "wikilink")
+[Category:中国漫画作品](https://zh.wikipedia.org/wiki/Category:中国漫画作品 "wikilink") [Category:中学背景漫画](https://zh.wikipedia.org/wiki/Category:中学背景漫画 "wikilink") [Category:虚构儿童](https://zh.wikipedia.org/wiki/Category:虚构儿童 "wikilink") [Category:虚构中国人](https://zh.wikipedia.org/wiki/Category:虚构中国人 "wikilink")
 
-[Category:漫画派对](https://zh.wikipedia.org/wiki/Category:漫画派对 "wikilink")
-[Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink")
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
+[Category:漫画派对](https://zh.wikipedia.org/wiki/Category:漫画派对 "wikilink") [Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink") [Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
 
 1.
 2.

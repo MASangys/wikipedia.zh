@@ -1,5 +1,4 @@
-**TARAKO**（，），[日本資深女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[演員](../Page/演員.md "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")、[編劇](../Page/編劇.md "wikilink")。出身於[群馬縣](../Page/群馬縣.md "wikilink")[太田市](https://zh.wikipedia.org/wiki/太田市 "wikilink")\[1\]\[2\]
-。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")158cm。AB型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
+**TARAKO**（，），[日本](../Page/日本.md "wikilink")資深女性[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[演員](../Page/演員.md "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")、[編劇](../Page/編劇.md "wikilink")。出身於[群馬縣](../Page/群馬縣.md "wikilink")[太田市](https://zh.wikipedia.org/wiki/太田市 "wikilink")\[1\]\[2\] 。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")158cm。AB型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
 
 ## 人物簡介
 
@@ -29,24 +28,20 @@
   - [森林大帝](../Page/森林大帝.md "wikilink")（ルル他）
   - *[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")*（**[櫻桃子](../Page/櫻桃子.md "wikilink")**〈**小丸子**〉）
   - [NOIR](../Page/NOIR.md "wikilink")（阿爾蒂娜）
-  - [Hunter ×
-    Hunter](https://zh.wikipedia.org/wiki/Hunter_×_Hunter "wikilink")（センリツ）
+  - [Hunter × Hunter](https://zh.wikipedia.org/wiki/Hunter_×_Hunter "wikilink")（センリツ）
   - [聖魔大戰](../Page/聖魔大戰.md "wikilink")（酔助、ジケシーン）
   - [愛麗絲夢遊仙境](https://zh.wikipedia.org/wiki/愛麗絲夢遊仙境 "wikilink")（愛麗絲）
   - [冒險遊記](../Page/冒險遊記Pluster_World.md "wikilink")（摩利）
   - [蜜柑繪日記](../Page/蜜柑繪日記.md "wikilink")（橘子（みかん））
   - [相聚一刻](../Page/相聚一刻.md "wikilink")（麻美、ホステスのアケミ）
   - [日常](../Page/日常.md "wikilink")（第16話預告旁白）
-  - [槍彈辯駁3 －The End of
-    希望峰學園－](../Page/槍彈辯駁3_－The_End_of_希望峰學園－.md "wikilink")（黑白熊）
+  - [槍彈辯駁3 －The End of 希望峰學園－](../Page/槍彈辯駁3_－The_End_of_希望峰學園－.md "wikilink")（黑白熊）
   - [新槍彈辯駁V3 大家的自相殘殺新學期](../Page/新槍彈辯駁V3_大家的自相殘殺新學期.md "wikilink")（黑白熊）
 
 ### OVA
 
-  - [NG騎士檸檬汽水&40](../Page/NG騎士檸檬汽水&40.md "wikilink") EX ビクビクトライアングル
-    愛の嵐大作戰（蛇魚子）
-  - [NG騎士檸檬汽水&40](../Page/NG騎士檸檬汽水&40.md "wikilink") DX ワクワク時空
-    炎の大搜査戰（蛇魚子）
+  - [NG騎士檸檬汽水&40](../Page/NG騎士檸檬汽水&40.md "wikilink") EX ビクビクトライアングル 愛の嵐大作戰（蛇魚子）
+  - [NG騎士檸檬汽水&40](../Page/NG騎士檸檬汽水&40.md "wikilink") DX ワクワク時空 炎の大搜査戰（蛇魚子）
   - [HUNTER×HUNTEROVA](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（センリツ）
 
 ### 電影動畫
@@ -95,8 +90,7 @@
 
 <!-- end list -->
 
-  - [劇場版 光之美少女Splash
-    Star：滴嗒危機一髮！](https://zh.wikipedia.org/wiki/光之美少女Splash_Star#劇場版 "wikilink")（分針子）
+  - [劇場版 光之美少女Splash Star：滴嗒危機一髮！](https://zh.wikipedia.org/wiki/光之美少女Splash_Star#劇場版 "wikilink")（分針子）
 
 <!-- end list -->
 
@@ -140,8 +134,7 @@
 
   - （1992年）\[11\]
 
-  - [世界奇妙物語 20週年春季特別篇
-    ～熱門節目競賽篇～](../Page/世界奇妙物語_20週年春季特別篇_〜熱門節目競賽篇〜.md "wikilink")「能見到小丸子的街道」（2010年）－[櫻桃子](../Page/櫻桃子.md "wikilink")〈小丸子〉的聲音
+  - [世界奇妙物語 20週年春季特別篇 ～熱門節目競賽篇～](../Page/世界奇妙物語_20週年春季特別篇_〜熱門節目競賽篇〜.md "wikilink")「能見到小丸子的街道」（2010年）－[櫻桃子](../Page/櫻桃子.md "wikilink")〈小丸子〉的聲音
 
 ### 電影
 
@@ -149,7 +142,7 @@
 
 ### 錄影帶、DVD
 
-  - [可愛巧虎島系列](../Page/可愛巧虎島.md "wikilink")（）－本人出演、旁白擔當
+  - [可愛巧虎島](../Page/可愛巧虎島.md "wikilink")系列（）－本人出演、旁白擔當
 
 ## 音樂作品
 
@@ -174,7 +167,7 @@
 <tr class="even">
 <td><p>不思議</p></td>
 <td><p>1984年7月21日</p></td>
-<td><p>收錄在<a href="../Page/古川登志夫.md" title="wikilink">古川登志夫單曲</a>「」B面。</p></td>
+<td><p>收錄在<a href="../Page/古川登志夫.md" title="wikilink">古川登志夫</a>單曲「」B面。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -309,7 +302,7 @@
 </tr>
 <tr class="odd">
 <td><p>悲優…TARAKO～</p></td>
-<td><p><a href="../Page/萬代.md" title="wikilink">萬代音樂</a></p></td>
+<td><p><a href="../Page/萬代.md" title="wikilink">萬代</a>音樂</p></td>
 <td><p>1998年8月21日</p></td>
 </tr>
 </tbody>
@@ -321,8 +314,7 @@
 
 ### LIVE影像
 
-  - 「大好」'91 in KUDAN KAIKAN（[BMG
-    VICTOR](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")，1991年6月21日，VHS）
+  - 「大好」'91 in KUDAN KAIKAN（[BMG VICTOR](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")，1991年6月21日，VHS）
 
 ## 腳註
 
@@ -338,11 +330,7 @@
 
   -
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:群馬縣出身人物](https://zh.wikipedia.org/wiki/Category:群馬縣出身人物 "wikilink")
-[Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:群馬縣出身人物](https://zh.wikipedia.org/wiki/Category:群馬縣出身人物 "wikilink") [Category:旁白](https://zh.wikipedia.org/wiki/Category:旁白 "wikilink")
 
 1.
 2.

@@ -1,11 +1,6 @@
-**里緒**（，），原名柚木蒂娜（），[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，也是日本女子團體[惠比壽麝香葡萄](../Page/惠比壽麝香葡萄.md "wikilink")的成員。出身於[東京都](../Page/東京都.md "wikilink")。在2005年出道，很快便出名。以活泼可爱的风格闻名。被日本AV行业誉为2006年最佳新人。从2007年末起，她改名为Rio。2008年，Rio憑著超高的人氣，獲得主持個人電視節目《Rioの楽園》的機會，跨足一般的演藝工作。2010年，Rio和另外兩位人氣女優[吉澤明步](../Page/吉澤明步.md "wikilink")、[Mihiro共同擔綱演出](https://zh.wikipedia.org/wiki/Mihiro "wikilink")[SKELT
-8
-BAMBINO樂團單曲](https://zh.wikipedia.org/wiki/SKELT_8_BAMBINO "wikilink")[What's
-Love？Feat.
-SoulJa的演出](https://zh.wikipedia.org/wiki/What's_Love？Feat._SoulJa "wikilink")。
+**里緒**（，），原名柚木蒂娜（），[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，也是日本女子團體[惠比壽麝香葡萄](../Page/惠比壽麝香葡萄.md "wikilink")的成員。出身於[東京都](../Page/東京都.md "wikilink")。在2005年出道，很快便出名。以活泼可爱的风格闻名。被日本AV行业誉为2006年最佳新人。从2007年末起，她改名为Rio。2008年，Rio憑著超高的人氣，獲得主持個人電視節目《Rioの楽園》的機會，跨足一般的演藝工作。2010年，Rio和另外兩位人氣女優[吉澤明步](../Page/吉澤明步.md "wikilink")、[Mihiro共同擔綱演出](https://zh.wikipedia.org/wiki/Mihiro "wikilink")[SKELT 8 BAMBINO樂團單曲](https://zh.wikipedia.org/wiki/SKELT_8_BAMBINO "wikilink")[What's Love？Feat. SoulJa的演出](https://zh.wikipedia.org/wiki/What's_Love？Feat._SoulJa "wikilink")。
 
-她是个[混血儿](https://zh.wikipedia.org/wiki/混血儿 "wikilink")，父亲是日本人，母亲为葡萄牙人。她从妈妈那里学习[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")，她的爱好有卡拉OK。
-曾经在[獨協大学经济部学习](https://zh.wikipedia.org/wiki/獨協大学 "wikilink")（现在是休学中）。所属公司为T-POWER，业务提携是Baccarat事务所。
+她是个[混血儿](https://zh.wikipedia.org/wiki/混血儿 "wikilink")，父亲是日本人，母亲为葡萄牙人。她从妈妈那里学习[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")，她的爱好有卡拉OK。 曾经在[獨協大学经济部学习](https://zh.wikipedia.org/wiki/獨協大学 "wikilink")（现在是休学中）。所属公司为T-POWER，业务提携是Baccarat事务所。
 
 ## 作品
 
@@ -13,8 +8,7 @@ SoulJa的演出](https://zh.wikipedia.org/wiki/What's_Love？Feat._SoulJa "wikil
 
 2008年1月1日 『今年も生だよ\! 新春9時間笑いっぱなし伝説-2008年最も売れる吉本No.1芸人は誰だ\!?』 （テレビ東京）
 
-DVD - 「やりすぎ超時間DVD
-笑いっぱなし生伝説2008」（2008年12月24日発売、よしもとアールアンドシー、品番：YRBY-90077）
+DVD - 「やりすぎ超時間DVD 笑いっぱなし生伝説2008」（2008年12月24日発売、よしもとアールアンドシー、品番：YRBY-90077）
 
 2008年1月17日〜 ハーレムナイト『Rioの楽園』 （スカパー\!371ch エンタ\!371）
 
@@ -1696,13 +1690,4 @@ ISBN 978-4-7756-0352-9</p></td>
   - [Rio官方Twitter](https://twitter.com/rio_lv_vly)
   - [Rio官方網誌](http://blog.livedoor.jp/rio_carnival/)
 
-[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink")
-[Category:Max-A女优](https://zh.wikipedia.org/wiki/Category:Max-A女优 "wikilink")
-[Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink")
-[Category:IDEAPOCKET女優](https://zh.wikipedia.org/wiki/Category:IDEAPOCKET女優 "wikilink")
-[Category:惠比寿麝香葡萄](https://zh.wikipedia.org/wiki/Category:惠比寿麝香葡萄 "wikilink")
-[Category:葡萄牙裔混血兒](https://zh.wikipedia.org/wiki/Category:葡萄牙裔混血兒 "wikilink")
-[Category:獨協大學校友](https://zh.wikipedia.org/wiki/Category:獨協大學校友 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink") [Category:Max-A女优](https://zh.wikipedia.org/wiki/Category:Max-A女优 "wikilink") [Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink") [Category:IDEAPOCKET女優](https://zh.wikipedia.org/wiki/Category:IDEAPOCKET女優 "wikilink") [Category:惠比寿麝香葡萄](https://zh.wikipedia.org/wiki/Category:惠比寿麝香葡萄 "wikilink") [Category:葡萄牙裔混血兒](https://zh.wikipedia.org/wiki/Category:葡萄牙裔混血兒 "wikilink") [Category:獨協大學校友](https://zh.wikipedia.org/wiki/Category:獨協大學校友 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")

@@ -1,16 +1,11 @@
-《**Break the Records -by you & for
-you-**》是[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第4張專輯作品。
+《**Break the Records -by you & for you-**》是[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第4張專輯作品。
 
 ## 概要\[1\]
 
   - 與前作相隔約10個月發行。
   - 包括單曲在內連續三個月發行音樂作品。
-  - KAT-TUN的第4張專輯「Break the Records -by you & for you-」收錄了「[DON'T U EVER
-    STOP](../Page/DON'T_U_EVER_STOP.md "wikilink")」、「[White
-    X'mas](../Page/White_X'mas.md "wikilink")（Album Version）」、「[ONE
-    DROP](../Page/ONE_DROP.md "wikilink")」、「[RESCUE](../Page/RESCUE.md "wikilink")」等冠軍單曲之外，並收錄包含成員各自擔當的6首SOLO作品，及其餘5首新歌，全15曲。
-  - 初回限定盤收錄全15曲，「Special
-    Booklet（36P）」中也收錄成員最新照片。通常盤除15曲外，另追加1曲「MOON」，全16曲。
+  - KAT-TUN的第4張專輯「Break the Records -by you & for you-」收錄了「[DON'T U EVER STOP](../Page/DON'T_U_EVER_STOP.md "wikilink")」、「[White X'mas](../Page/White_X'mas.md "wikilink")（Album Version）」、「[ONE DROP](../Page/ONE_DROP.md "wikilink")」、「[RESCUE](../Page/RESCUE.md "wikilink")」等冠軍單曲之外，並收錄包含成員各自擔當的6首SOLO作品，及其餘5首新歌，全15曲。
+  - 初回限定盤收錄全15曲，「Special Booklet（36P）」中也收錄成員最新照片。通常盤除15曲外，另追加1曲「MOON」，全16曲。
   - 發行初回限定盤、通常盤2種類，封面設計是不一樣的。　
   - 本作品為6人時期的最後一張專輯。
 
@@ -21,8 +16,7 @@ you-**》是[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wi
 1.  DON'T U EVER STOP
       - LYRICS：SPIN、RAP LYRICS：JOKER
       - MUSIC：SHUSUI / Fredrik Hult / Carl Utbult
-      - ARRANGEMENT：SHUSUI / Fredrik Hult / Carl Utbult /
-        YUKIHIDE”YT”TAKIYAMA
+      - ARRANGEMENT：SHUSUI / Fredrik Hult / Carl Utbult / YUKIHIDE”YT”TAKIYAMA
 2.  SADISTIC LOVE
       - LYRICS：MASANCO、RAP LYRICS：JOKER
       - MUSIC：STEVEN LEE、ARRANGEMENT：EIGO
@@ -91,10 +85,6 @@ you-**》是[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wi
 
 <references/>
 
-[Category:KAT-TUN音樂專輯](https://zh.wikipedia.org/wiki/Category:KAT-TUN音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:2009年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯月榜冠軍作品 "wikilink")
+[Category:KAT-TUN音樂專輯](https://zh.wikipedia.org/wiki/Category:KAT-TUN音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:2009年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯月榜冠軍作品 "wikilink")
 
-1.  「[Johnny's net－Break the Records -by you & for
-    you-【KAT-TUN】](http://www.johnnys-net.jp/j/artists/kattun/disco/_popup/pop_4th.html)
-    」檢閱日期：2010年9月17日。
+1.  「[Johnny's net－Break the Records -by you & for you-【KAT-TUN】](http://www.johnnys-net.jp/j/artists/kattun/disco/_popup/pop_4th.html) 」檢閱日期：2010年9月17日。

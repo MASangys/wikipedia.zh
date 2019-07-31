@@ -2893,7 +2893,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月17日－<br />
 2019年9月5日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Justice_(韓國電視劇)" title="wikilink">JUSTICE</a><br />
+<td style="text-align: center;"><p><a href="../Page/Justice_(韓國電視劇).md" title="wikilink">JUSTICE</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/孫賢周.md" title="wikilink">孫賢周</a>、<a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>、<a href="https://zh.wikipedia.org/wiki/林珍娜" title="wikilink">林珍娜</a></p></td>
@@ -2904,7 +2904,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月11日－<br />
 2019年10月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/山茶花開時" title="wikilink">山茶花開時</a><br />
+<td style="text-align: center;"><p><a href="../Page/山茶花開時.md" title="wikilink">山茶花開時</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>、<a href="../Page/姜河那.md" title="wikilink">姜河那</a>、<a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃</a></p></td>
@@ -2920,7 +2920,6 @@
   - [韓國KBS官方網站](http://www.kbs.co.kr/)
   - [KBS 2TV節目表](https://web.archive.org/web/20070812055613/http://www.kbs.co.kr/plan_table/channel/2tv/index.html)
 
-
 ## 相關項目
 
   - [MBC水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")
@@ -2928,7 +2927,4 @@
   - [tvN水木連續劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")
   - [JTBC水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")
 
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:KBS水木連續劇](https://zh.wikipedia.org/wiki/Category:KBS水木連續劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:KBS水木連續劇](https://zh.wikipedia.org/wiki/Category:KBS水木連續劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

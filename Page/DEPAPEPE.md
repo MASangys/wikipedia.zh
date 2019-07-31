@@ -1,12 +1,10 @@
 **DEPAPEPE**是一个2002年建立的[日本](../Page/日本.md "wikilink")二人[吉他](../Page/吉他.md "wikilink")组合。小组成员分别是德冈庆也和三浦拓也。
 
-DEPAPEPE 2002年11月由德岡慶也及三浦拓也二人合組而成的DEPAPEPE 當時從神戶到大阪、
-京都以及東京，隨著街頭表演的經驗累積，DEPAPEPE瞬間開啟了知名度及人氣。
+DEPAPEPE 2002年11月由德岡慶也及三浦拓也二人合組而成的DEPAPEPE 當時從神戶到大阪、 京都以及東京，隨著街頭表演的經驗累積，DEPAPEPE瞬間開啟了知名度及人氣。
 
 其特色為僅以二把空心吉它就能表現出變化多端的心象風景以及喜怒哀樂， 以洋溢著青春氣息的輕快曲風旋律，彈奏出舒緩人心的音樂空間。
 
-在他们正式发布自己的专辑之前，曾发行过3张小制作的独立专辑，而且总销量达到十万张。2005年DEPAPEPE发行了他们第一张正式专辑《Let's
-Go\!\!\!》。目前签约于[日本新力音乐公司](https://zh.wikipedia.org/wiki/日本新力音乐 "wikilink")。
+在他们正式发布自己的专辑之前，曾发行过3张小制作的独立专辑，而且总销量达到十万张。2005年DEPAPEPE发行了他们第一张正式专辑《Let's Go\!\!\!》。目前签约于[日本新力音乐公司](https://zh.wikipedia.org/wiki/日本新力音乐 "wikilink")。
 
 2016年樂團來台與台灣音樂人一同出演Mu.siC流行日台音楽祭\[1\]。
 
@@ -49,8 +47,7 @@ Go\!\!\!》。目前签约于[日本新力音乐公司](https://zh.wikipedia.org
 ## 外部链接
 
   - [DEPAPEPE官方网站](http://www.sonymusic.co.jp/Music/Info/depapepe/main.html)
-  - [DEPAPEPE官方樂迷网站 (Acoustic
-    Friends)](https://archive.is/20130501154651/http://fanclub.rainbow-e.co.jp/fanclub/depapepe_af/)
+  - [DEPAPEPE官方樂迷网站 (Acoustic Friends)](https://archive.is/20130501154651/http://fanclub.rainbow-e.co.jp/fanclub/depapepe_af/)
 
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 

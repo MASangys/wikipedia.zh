@@ -2,8 +2,7 @@
 
 ## 概要
 
-在1998年設立。在[同人活動方面](https://zh.wikipedia.org/wiki/同人 "wikilink")，主要是參與制作[同人音樂](../Page/同人音樂.md "wikilink")（多為[東方Project相關](https://zh.wikipedia.org/wiki/東方Project "wikilink")[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")，除此之外亦有[紅白機的遊戲音樂編曲及原創音樂](https://zh.wikipedia.org/wiki/紅白機 "wikilink")），以及原創[網絡廣播等](https://zh.wikipedia.org/wiki/網絡電台 "wikilink")。關於坊間對IOSYS的認識，由於IOSYS活躍於參與東方Project的二次同人創作，所以一般都將兩者聯想在一起。在音樂創作的方式方面，除了將作品收錄在[CD](../Page/CD.md "wikilink")發售外，還會在網頁上公開音樂的[Flash動畫供人欣賞](https://zh.wikipedia.org/wiki/Flash "wikilink")。在作品發售方面，除了可以在名為「IOSYS
-SHOP（）」的網頁訂購外，還可以從全日本的[同人商店購入](https://zh.wikipedia.org/wiki/同人商店 "wikilink")。
+在1998年設立。在[同人活動方面](https://zh.wikipedia.org/wiki/同人 "wikilink")，主要是參與制作[同人音樂](../Page/同人音樂.md "wikilink")（多為[東方Project相關](https://zh.wikipedia.org/wiki/東方Project "wikilink")[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")，除此之外亦有[紅白機的遊戲音樂編曲及原創音樂](https://zh.wikipedia.org/wiki/紅白機 "wikilink")），以及原創[網絡廣播等](https://zh.wikipedia.org/wiki/網絡電台 "wikilink")。關於坊間對IOSYS的認識，由於IOSYS活躍於參與東方Project的二次同人創作，所以一般都將兩者聯想在一起。在音樂創作的方式方面，除了將作品收錄在[CD](../Page/CD.md "wikilink")發售外，還會在網頁上公開音樂的[Flash動畫供人欣賞](https://zh.wikipedia.org/wiki/Flash "wikilink")。在作品發售方面，除了可以在名為「IOSYS SHOP（）」的網頁訂購外，還可以從全日本的[同人商店購入](https://zh.wikipedia.org/wiki/同人商店 "wikilink")。
 
 ## 歷史
 
@@ -251,8 +250,7 @@ SHOP（）」的網頁訂購外，還可以從全日本的[同人商店購入](h
   - トヨトヨ（劇團 国境なき意志団）
   - ひなき藍（聲優）
   - ペス（劇團 国境なき意志団～鏡～）
-  - miko（[Alternative
-    ending](https://zh.wikipedia.org/wiki/Alternative_ending "wikilink")）
+  - miko（[Alternative ending](https://zh.wikipedia.org/wiki/Alternative_ending "wikilink")）
   - みなみ
   - ゆか
 
@@ -268,10 +266,7 @@ SHOP（）」的網頁訂購外，還可以從全日本的[同人商店購入](h
 
 </div>
 
-[Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink")
-[Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink")
-[Category:萌系歌曲作曲家](https://zh.wikipedia.org/wiki/Category:萌系歌曲作曲家 "wikilink")
-[Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")
+[Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink") [Category:萌系歌曲作曲家](https://zh.wikipedia.org/wiki/Category:萌系歌曲作曲家 "wikilink") [Category:萌系歌曲歌手](https://zh.wikipedia.org/wiki/Category:萌系歌曲歌手 "wikilink")
 
 1.  [PROFILE](http://www.iosysos.com/profile/)
 2.  [はいてない.com](http://haitenai.com/)

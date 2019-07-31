@@ -2,9 +2,7 @@
 
 ## 实例
 
-这个文件`example.mp`通过MetaPost的编译器编译（在[Linux](../Page/Linux.md "wikilink")系统中使用`mpost`命令）之后产生了3个[EPS文件](https://zh.wikipedia.org/wiki/EPS文件 "wikilink")：
-`example.1`, `example.2`, `example.3`。这三个文件就是右边的三张图
-[Metapost_ex.svg](https://zh.wikipedia.org/wiki/File:Metapost_ex.svg "fig:Metapost_ex.svg")
+这个文件`example.mp`通过MetaPost的编译器编译（在[Linux](../Page/Linux.md "wikilink")系统中使用`mpost`命令）之后产生了3个[EPS文件](https://zh.wikipedia.org/wiki/EPS文件 "wikilink")： `example.1`, `example.2`, `example.3`。这三个文件就是右边的三张图 [Metapost_ex.svg](https://zh.wikipedia.org/wiki/File:Metapost_ex.svg "fig:Metapost_ex.svg")
 
 ``` octave
  transform pagecoords;
@@ -60,9 +58,7 @@
  bye
 ```
 
-产生的3个eps文件可以直接用在[TeX](../Page/TeX.md "wikilink")中（通过[LaTeX的](https://zh.wikipedia.org/wiki/LaTeX "wikilink")`\includegraphics`命令、[ConTeXt的](https://zh.wikipedia.org/wiki/ConTeXt "wikilink")`\externalfigure`命令、Plain
-TeX的`\epsfbox`命令，或者Plain
-pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印这三张图片，这些引用是必须的，因为TeX的字体([Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink"))并不包含在MetaPost产生的eps文件中。
+产生的3个eps文件可以直接用在[TeX](../Page/TeX.md "wikilink")中（通过[LaTeX的](https://zh.wikipedia.org/wiki/LaTeX "wikilink")`\includegraphics`命令、[ConTeXt的](https://zh.wikipedia.org/wiki/ConTeXt "wikilink")`\externalfigure`命令、Plain TeX的`\epsfbox`命令，或者Plain pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印这三张图片，这些引用是必须的，因为TeX的字体([Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink"))并不包含在MetaPost产生的eps文件中。
 
 ## 参见
 
@@ -70,51 +66,19 @@ pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印�
 
 ## 参考
 
-  - MetaFun (modules for Metapost) by Hans Hagen,
-    [1](http://wiki.contextgarden.net/MetaFun)
-  - [Donald
-    Knuth](https://zh.wikipedia.org/wiki/Donald_Knuth "wikilink"): *The
-    [METAFONT](../Page/METAFONT.md "wikilink")book*, ([Computers and
-    Typesetting](https://zh.wikipedia.org/wiki/Computers_and_Typesetting "wikilink")
-    Volume C)
-    [Addison-Wesley](https://zh.wikipedia.org/wiki/Addison-Wesley "wikilink")
-    1986. ISBN 0-201-13444-6
-  - Comprehensive T<sub>E</sub>X Archive Network
-    ([CTAN](https://zh.wikipedia.org/wiki/CTAN "wikilink")):
-    <http://www.ctan.org/>. Repository of the T<sub>E</sub>X source and
-    hundreds of add-ons and style files.
-  - (La)TeX Navigator provides 305 simple MetaPost examples:
-    <http://tex.loria.fr/prod-graph/zoonekynd/metapost/metapost.html>
-  - Taco Hoekwater: [MetaPost
-    developments—autumn 2006](http://www.tug.org/TUGboat/Articles/tb27-1/tb86hoekwater-metapost.pdf).
-    *TUGboat* **27**:1 (2006).
+  - MetaFun (modules for Metapost) by Hans Hagen, [1](http://wiki.contextgarden.net/MetaFun)
+  - [Donald Knuth](https://zh.wikipedia.org/wiki/Donald_Knuth "wikilink"): *The [METAFONT](../Page/METAFONT.md "wikilink")book*, ([Computers and Typesetting](https://zh.wikipedia.org/wiki/Computers_and_Typesetting "wikilink") Volume C) [Addison-Wesley](https://zh.wikipedia.org/wiki/Addison-Wesley "wikilink") 1986. ISBN 0-201-13444-6
+  - Comprehensive T<sub>E</sub>X Archive Network ([CTAN](https://zh.wikipedia.org/wiki/CTAN "wikilink")): <http://www.ctan.org/>. Repository of the T<sub>E</sub>X source and hundreds of add-ons and style files.
+  - (La)TeX Navigator provides 305 simple MetaPost examples: <http://tex.loria.fr/prod-graph/zoonekynd/metapost/metapost.html>
+  - Taco Hoekwater: [MetaPost developments—autumn 2006](http://www.tug.org/TUGboat/Articles/tb27-1/tb86hoekwater-metapost.pdf). *TUGboat* **27**:1 (2006).
 
 ## 外部链接
 
-  - The TeX users group
-    ([TUG](https://zh.wikipedia.org/wiki/TeX_Users_Group "wikilink"))
-    <http://www.tug.org/> has a page devoted to MetaPost:
-    <http://www.tug.org/metapost.html>
-  - Active development of MetaPost continues at
-    <https://web.archive.org/web/20070929092912/http://foundry.supelec.fr/projects/metapost/>
-  - [Functional MetaPost](http://cryp.to/funcmp/) allows MetaPost to be
-    used from the functional programming language
-    [Haskell](https://zh.wikipedia.org/wiki/Haskell_\(programming_language\) "wikilink")
-  - John D. Hobby has a homepage at
-    <http://ect.bell-labs.com/who/hobby/index.shtml> and some other
-    pages and publications devoted to MetaPost, though these are now a
-    little dated
-      - Historic MetaPost homepage:
-        <https://web.archive.org/web/20081212090123/http://ect.bell-labs.com/who/hobby/MetaPost.shtml>
-      - *A User's Manual for MetaPost* John D. Hobby. Available as a
-        file mpman.ps distributed with MetaPost, or from the [Bell Labs
-        web
-        site](https://web.archive.org/web/20051217231314/http://cm.bell-labs.com/cm/cs/doc/92/2-21.ps.gz).
-        Also available in [PDF
-        format](http://www.tug.org/tutorials/mp/mpman.pdf) from
-        [CTAN](https://zh.wikipedia.org/wiki/CTAN "wikilink").
+  - The TeX users group ([TUG](https://zh.wikipedia.org/wiki/TeX_Users_Group "wikilink")) <http://www.tug.org/> has a page devoted to MetaPost: <http://www.tug.org/metapost.html>
+  - Active development of MetaPost continues at <https://web.archive.org/web/20070929092912/http://foundry.supelec.fr/projects/metapost/>
+  - [Functional MetaPost](http://cryp.to/funcmp/) allows MetaPost to be used from the functional programming language [Haskell](https://zh.wikipedia.org/wiki/Haskell_\(programming_language\) "wikilink")
+  - John D. Hobby has a homepage at <http://ect.bell-labs.com/who/hobby/index.shtml> and some other pages and publications devoted to MetaPost, though these are now a little dated
+      - Historic MetaPost homepage: <https://web.archive.org/web/20081212090123/http://ect.bell-labs.com/who/hobby/MetaPost.shtml>
+      - *A User's Manual for MetaPost* John D. Hobby. Available as a file mpman.ps distributed with MetaPost, or from the [Bell Labs web site](https://web.archive.org/web/20051217231314/http://cm.bell-labs.com/cm/cs/doc/92/2-21.ps.gz). Also available in [PDF format](http://www.tug.org/tutorials/mp/mpman.pdf) from [CTAN](https://zh.wikipedia.org/wiki/CTAN "wikilink").
 
-[Category:领域特定语言](https://zh.wikipedia.org/wiki/Category:领域特定语言 "wikilink")
-[Category:矢量图形置标语言](https://zh.wikipedia.org/wiki/Category:矢量图形置标语言 "wikilink")
-[Category:TeX](https://zh.wikipedia.org/wiki/Category:TeX "wikilink")
-[Category:公有领域软件](https://zh.wikipedia.org/wiki/Category:公有领域软件 "wikilink")
+[Category:领域特定语言](https://zh.wikipedia.org/wiki/Category:领域特定语言 "wikilink") [Category:矢量图形置标语言](https://zh.wikipedia.org/wiki/Category:矢量图形置标语言 "wikilink") [Category:TeX](https://zh.wikipedia.org/wiki/Category:TeX "wikilink") [Category:公有领域软件](https://zh.wikipedia.org/wiki/Category:公有领域软件 "wikilink")

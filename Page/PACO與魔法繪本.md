@@ -1,11 +1,8 @@
-，是以2004年在[日本](../Page/日本.md "wikilink")全國8城市公演的[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")「**MIDSUMMER
-CAROL
-青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
+，是以2004年在[日本](../Page/日本.md "wikilink")全國8城市公演的[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")「**MIDSUMMER CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 簡介
 
-本故事設定於一間醫院，而這裡住滿了各種不可思議的人。院內一名因心臟病發而被送院的老伯大貫，內心抑壓着仇恨，因而總是說出各種令人討厭的話。他一直渴望死時不會被院內那些沒用的人記住。直到有一天，大貫認識了新入院的失憶女孩帕科。帕科自一次車禍之後，腦內只能保存一天的記憶。自從帕科入院，她每天都會拿着同一本故事書，請大貫給她說故事。而這同一個故事，對女孩來說，每天都是一個新的故事。他們不知不覺間成為了好朋友。
-大貫亦集齊了院友把那本故事書演變成話劇，希望令帕科的病情得到好轉。
+本故事設定於一間醫院，而這裡住滿了各種不可思議的人。院內一名因心臟病發而被送院的老伯大貫，內心抑壓着仇恨，因而總是說出各種令人討厭的話。他一直渴望死時不會被院內那些沒用的人記住。直到有一天，大貫認識了新入院的失憶女孩帕科。帕科自一次車禍之後，腦內只能保存一天的記憶。自從帕科入院，她每天都會拿着同一本故事書，請大貫給她說故事。而這同一個故事，對女孩來說，每天都是一個新的故事。他們不知不覺間成為了好朋友。 大貫亦集齊了院友把那本故事書演變成話劇，希望令帕科的病情得到好轉。
 
 ## 演員
 
@@ -20,8 +17,7 @@ CAROL
 
 <!-- end list -->
 
-  - 帕科 ：[Ayaka
-    Wilson](https://zh.wikipedia.org/wiki/Ayaka_Wilson "wikilink")
+  - 帕科 ：[Ayaka Wilson](https://zh.wikipedia.org/wiki/Ayaka_Wilson "wikilink")
 
 <!-- end list -->
 
@@ -117,15 +113,4 @@ CAROL
 
   - [starblvd電影快報](https://web.archive.org/web/20090302043332/http://movie.starblvd.net/cgi-bin/movie/euccns?%2Ffilm%2F2008%2FMagicalBook%2FMagicalBook.html)
 
-[Category:失憶症題材電影](https://zh.wikipedia.org/wiki/Category:失憶症題材電影 "wikilink")
-[Category:2008年日本電影](https://zh.wikipedia.org/wiki/Category:2008年日本電影 "wikilink")
-[Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink")
-[Category:2000年代喜劇片](https://zh.wikipedia.org/wiki/Category:2000年代喜劇片 "wikilink")
-[Category:日本奇幻電影](https://zh.wikipedia.org/wiki/Category:日本奇幻電影 "wikilink")
-[Category:2000年代奇幻片](https://zh.wikipedia.org/wiki/Category:2000年代奇幻片 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink")
-[Category:戏剧改编电影](https://zh.wikipedia.org/wiki/Category:戏剧改编电影 "wikilink")
-[Category:中岛哲也电影](https://zh.wikipedia.org/wiki/Category:中岛哲也电影 "wikilink")
-[Category:醫院背景電影](https://zh.wikipedia.org/wiki/Category:醫院背景電影 "wikilink")
-[Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink")
+[Category:失憶症題材電影](https://zh.wikipedia.org/wiki/Category:失憶症題材電影 "wikilink") [Category:2008年日本電影](https://zh.wikipedia.org/wiki/Category:2008年日本電影 "wikilink") [Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink") [Category:2000年代喜劇片](https://zh.wikipedia.org/wiki/Category:2000年代喜劇片 "wikilink") [Category:日本奇幻電影](https://zh.wikipedia.org/wiki/Category:日本奇幻電影 "wikilink") [Category:2000年代奇幻片](https://zh.wikipedia.org/wiki/Category:2000年代奇幻片 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink") [Category:戏剧改编电影](https://zh.wikipedia.org/wiki/Category:戏剧改编电影 "wikilink") [Category:中岛哲也电影](https://zh.wikipedia.org/wiki/Category:中岛哲也电影 "wikilink") [Category:醫院背景電影](https://zh.wikipedia.org/wiki/Category:醫院背景電影 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink")

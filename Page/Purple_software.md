@@ -2,13 +2,11 @@
 
 ## 概要
 
-1998年[JAST](../Page/JAST.md "wikilink")設立了Purple品牌，2001年讓渡給，變更為現在的品牌名直到現在。從《天使們的午後
-SEASON 2001》到《奏 〜Kanade〜》的企畫、製作由有限公司執行。
+1998年[JAST](../Page/JAST.md "wikilink")設立了Purple品牌，2001年讓渡給，變更為現在的品牌名直到現在。從《天使們的午後 SEASON 2001》到《奏 〜Kanade〜》的企畫、製作由有限公司執行。
 
 品牌名的「Purple」出自《[源氏物語](../Page/源氏物語.md "wikilink")》的[紫之上](../Page/紫之上.md "wikilink")\[1\]。
 
-此外，作為姐妹品牌的，與**Adel**（、[BL品牌](https://zh.wikipedia.org/wiki/BL "wikilink")），JEWELRY轉移到有限公司，Adel獨立、設立了有限公司。販售彩牙股份有限公司的品牌[ALcot](../Page/ALcot.md "wikilink")的《ENGAGE
-LINKS》。
+此外，作為姐妹品牌的，與**Adel**（、[BL品牌](https://zh.wikipedia.org/wiki/BL "wikilink")），JEWELRY轉移到有限公司，Adel獨立、設立了有限公司。販售彩牙股份有限公司的品牌[ALcot](../Page/ALcot.md "wikilink")的《ENGAGE LINKS》。
 
 ## 作品一覧
 
@@ -20,9 +18,7 @@ LINKS》。
   - 2000年1月28日 -
   - 2000年7月28日 -
   - 2001年4月27日 - Purple Fan Disc
-  - 2001年9月7日 - [天使們的午後 SEASON
-    2001](../Page/天使們的午後.md "wikilink")（讓渡後發售）
-    \[2\]
+  - 2001年9月7日 - [天使們的午後 SEASON 2001](../Page/天使們的午後.md "wikilink")（讓渡後發售） \[2\]
 
 ### Purple software
 
@@ -501,15 +497,12 @@ LINKS》。
 <!-- end list -->
 
   - [橋本みゆき](../Page/橋本美雪.md "wikilink") - 歌手，負責《》以後的主題曲（《》、《》除外）
-  - [Rita](https://zh.wikipedia.org/wiki/Rita "wikilink") -
-    歌手、聲優，負責《》、《》的主題曲
-  - [浅葉リオ](https://zh.wikipedia.org/wiki/浅葉リオ "wikilink") -
-    歌手，負責《》以後的片尾曲
+  - [Rita](https://zh.wikipedia.org/wiki/Rita "wikilink") - 歌手、聲優，負責《》、《》的主題曲
+  - [浅葉リオ](https://zh.wikipedia.org/wiki/浅葉リオ "wikilink") - 歌手，負責《》以後的片尾曲
   - [齋藤悠彌](https://zh.wikipedia.org/wiki/齋藤悠彌 "wikilink") - 作曲家
       - Purple software - 負責《》以後的片尾曲、《》的主題曲
       - WHITESOFT - 負責《》的主題曲、《》的主題曲
-  - [藤田淳平](../Page/藤田淳平.md "wikilink") - [Elements
-    Garden所屬作曲家](../Page/Elements_Garden.md "wikilink")，負責WHITESOFT全部作品的BGM
+  - [藤田淳平](../Page/藤田淳平.md "wikilink") - [Elements Garden所屬作曲家](../Page/Elements_Garden.md "wikilink")，負責WHITESOFT全部作品的BGM
   - [I've](../Page/I've.md "wikilink") - 負責WHITESOFT全部作品的主題曲
 
 <!-- end list -->
@@ -520,8 +513,7 @@ LINKS》。
 
   - みやび - 廣報。2007年12月退社。
 
-  - \- 劇本
-    <small>退職後轉到[Rosebleu](https://zh.wikipedia.org/wiki/Rosebleu "wikilink")</small>
+  - \- 劇本 <small>退職後轉到[Rosebleu](https://zh.wikipedia.org/wiki/Rosebleu "wikilink")</small>
 
 ## 備註
 
@@ -536,8 +528,7 @@ LINKS》。
   -
 [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
 
-1.  『[PC
-    Angel](https://zh.wikipedia.org/wiki/PC_Angel_neo "wikilink")』1998年11月號
+1.  『[PC Angel](https://zh.wikipedia.org/wiki/PC_Angel_neo "wikilink")』1998年11月號
 
 2.  製作：Silver有限公司
 

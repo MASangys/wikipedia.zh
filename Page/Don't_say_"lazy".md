@@ -1,7 +1,4 @@
-**《Don't say
-"lazy"》**（），是動畫《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的片尾曲，以櫻高輕音部（）名義發行的單曲。內含兩首歌及其伴奏，另一首為〈Sweet
-Bitter Beauty Song〉。2009年4月22日由[Pony
-Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。
+**《Don't say "lazy"》**（），是動畫《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的片尾曲，以櫻高輕音部（）名義發行的單曲。內含兩首歌及其伴奏，另一首為〈Sweet Bitter Beauty Song〉。2009年4月22日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。
 
 ## 概要
 
@@ -11,12 +8,7 @@ Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。
   - 初回限定盤和通常盤的包裝有所不同，初回限定盤（PSSG-70038）帶有可替換的角色封面。
   - 發售前夕，與《[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")》在[Amazon排行榜上分別奪得第](https://zh.wikipedia.org/wiki/Amazon "wikilink")1、2名。在動畫、遊戲類及綜合音樂類均穩居第一名寶座。
   - 根據[ORICON公信榜的統計](https://zh.wikipedia.org/wiki/ORICON公信榜 "wikilink")，發售當天即創下銷售超過兩萬張、該日銷售量第三名的紀錄。4月24日《》成為該日銷售量第一名。而在同一天《[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")》也獲得銷售量第二名。以同一動畫主題曲、同一歌唱者名義、同日發售在公信榜上締造第1、2名的佳績，可謂十分罕見。
-  - 之後銷售沒有衰退的跡象，至同年4月27日止連續四天之當日銷售量仍為第一，但週排行敗於[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")『THE
-    MONSTER
-    〜Someday〜』獲得第二名。首週販售量超過《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》主題曲『もってけ\!セーラーふく』，發售第三週銷售量突破10萬張。同時與『Cagayake\!GIRLS』一同達成"同一歌手、同時發售之單曲連續三周同時進入top10"的單曲記錄。此為自1999年1月[宇多田光](../Page/宇多田光.md "wikilink")的『Automatic/time
-    will
-    tell』8cm盤・12cm盤後相隔10年四個月的單曲新記錄，"同一歌手而不同作品"方面則是自1998年7月[L'Arc〜en〜Ciel的](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")『HONEY』『花葬』『浸食
-    〜lose control〜』以來相隔約11年後的單曲新記錄，2009年5月的月排名為第三名。
+  - 之後銷售沒有衰退的跡象，至同年4月27日止連續四天之當日銷售量仍為第一，但週排行敗於[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")『THE MONSTER 〜Someday〜』獲得第二名。首週販售量超過《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》主題曲『もってけ\!セーラーふく』，發售第三週銷售量突破10萬張。同時與『Cagayake\!GIRLS』一同達成"同一歌手、同時發售之單曲連續三周同時進入top10"的單曲記錄。此為自1999年1月[宇多田光](../Page/宇多田光.md "wikilink")的『Automatic/time will tell』8cm盤・12cm盤後相隔10年四個月的單曲新記錄，"同一歌手而不同作品"方面則是自1998年7月[L'Arc〜en〜Ciel的](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")『HONEY』『花葬』『浸食 〜lose control〜』以來相隔約11年後的單曲新記錄，2009年5月的月排名為第三名。
 
 ## 收錄曲
 
@@ -41,9 +33,4 @@ Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。
 
 ## 腳註
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink")
-[Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
-[Category:Oricon動畫單曲年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍歌曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink") [Category:Oricon動畫單曲年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍歌曲 "wikilink")

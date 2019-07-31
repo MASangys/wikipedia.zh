@@ -1,7 +1,4 @@
-**SINA
-Music樂壇民意指數頒獎禮2008**，於2009年1月12日假[香港國際展貿中心](https://zh.wikipedia.org/wiki/香港國際展貿中心 "wikilink")[Star
-Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「你想點SING
-就點星」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[趙碩之](../Page/趙碩之.md "wikilink")，當晚共頒發23個項目，其中15項「我最喜愛」獎項為由網民選舉得出，別具意義，總共48個獎項，以下為當晚的得獎名單：
+**SINA Music樂壇民意指數頒獎禮2008**，於2009年1月12日假[香港國際展貿中心](https://zh.wikipedia.org/wiki/香港國際展貿中心 "wikilink")[Star Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「你想點SING 就點星」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[趙碩之](../Page/趙碩之.md "wikilink")，當晚共頒發23個項目，其中15項「我最喜愛」獎項為由網民選舉得出，別具意義，總共48個獎項，以下為當晚的得獎名單：
 
 ## 得獎名單
 
@@ -15,8 +12,7 @@ Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「
       - 《愛不疚》 ——[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
       - 《櫻花樹下》 ——[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
       - 《撈月亮的人》 ——[楊千嬅](../Page/楊千嬅.md "wikilink")
-      - 《Over the Rainbow》
-        ——[at17](https://zh.wikipedia.org/wiki/at17 "wikilink")
+      - 《Over the Rainbow》 ——[at17](https://zh.wikipedia.org/wiki/at17 "wikilink")
       - 《四面楚歌》 ——[關楚耀](../Page/關楚耀.md "wikilink")
       - 《如果碰到你的臉》 ——[泳兒](../Page/泳兒.md "wikilink")
       - 《只想和你在一起》 ——[孫耀威](../Page/孫耀威.md "wikilink")
@@ -28,20 +24,15 @@ Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「
       - 《廣深公路》 ——[黃耀明](../Page/黃耀明.md "wikilink")
       - 《囍帖街》 ——[謝安琪](../Page/謝安琪.md "wikilink")
   - SINA Music 新歌試聽 － 合唱歌曲大獎
-      - 《一事無成》
-        ——[鄭融](../Page/鄭融.md "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")
+      - 《一事無成》 ——[鄭融](../Page/鄭融.md "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")
   - SINA Music 全碟試聽 — 最高收聽率大碟
-      - 《Urban Emotions》
-        ——[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
+      - 《Urban Emotions》 ——[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
   - SINA MUSIC 創作概念大碟
-      - 《Ten Days in the Madhouse》
-        ——[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
+      - 《Ten Days in the Madhouse》 ——[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
   - SINA MUSIC LIVE 現場演繹大獎
-      - 《Over the Rainbow》音樂會
-        ——[at17](https://zh.wikipedia.org/wiki/at17 "wikilink")
+      - 《Over the Rainbow》音樂會 ——[at17](https://zh.wikipedia.org/wiki/at17 "wikilink")
   - SINA Music 新浪直播室 — 最高收視大獎
-      - 《It's My Day》新碟專訪
-        ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
+      - 《It's My Day》新碟專訪 ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - SINA Music 最高收視MV大獎
       - 《小蠻腰》 ——[泳兒](../Page/泳兒.md "wikilink")
   - SINA MUSIC 卓越音樂人大獎
@@ -51,8 +42,7 @@ Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「
   - 我最喜愛唱作人
       - [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
   - 我最喜愛演唱會
-      - 《StarLight 容祖兒演唱會 08》
-        ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《StarLight 容祖兒演唱會 08》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
   - 我最喜愛男新人
       - 金獎：[陳偉霆](../Page/陳偉霆.md "wikilink")、[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")
       - 銅獎：[歐陽靖](https://zh.wikipedia.org/wiki/歐陽靖_\(香港\) "wikilink")
@@ -89,13 +79,10 @@ Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「
 
 ## 外部連結
 
-  - [SINA
-    Music樂壇民意指數頒獎禮2008](https://web.archive.org/web/20090115010755/http://music.sina.com.hk/cgi-bin/event08/musicawards/live.cgi)
+  - [SINA Music樂壇民意指數頒獎禮2008](https://web.archive.org/web/20090115010755/http://music.sina.com.hk/cgi-bin/event08/musicawards/live.cgi)
 
 ## 參看
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
-[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
-[Category:2008年](https://zh.wikipedia.org/wiki/Category:2008年 "wikilink")
+[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink") [Category:2008年](https://zh.wikipedia.org/wiki/Category:2008年 "wikilink")

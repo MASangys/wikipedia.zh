@@ -13,8 +13,7 @@
 4.  **善男信女**（第二波主打）
     詞：陳鎮川 / 曲：[李偉菘](../Page/李偉菘.md "wikilink") / 製作：李偉菘
 5.  **Say a lil something**（第七波主打）
-    詞：崔惟楷 / 曲：[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") /
-    製作：李偲菘
+    詞：崔惟楷 / 曲：[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") / 製作：李偲菘
 6.  **愛遊戲**
     詞：陳鎮川 / 曲：陳偉 / 製作：陳偉
 7.  **小男人大男孩**
@@ -61,6 +60,4 @@
   - [華納線上音樂雜誌](https://web.archive.org/web/20100126145744/http://www.warnermusic.com.tw/index.asp)
   - [占士邦－蕭敬騰官方網站](http://www.jamsclub.net/)
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:蕭敬騰音樂專輯](https://zh.wikipedia.org/wiki/Category:蕭敬騰音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:蕭敬騰音樂專輯](https://zh.wikipedia.org/wiki/Category:蕭敬騰音樂專輯 "wikilink")

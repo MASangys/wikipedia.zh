@@ -26,8 +26,7 @@
 
 <!-- end list -->
 
-  - 10月11日－12月20日：**[BLOODY
-    MONDAY](../Page/BLOODY_MONDAY.md "wikilink")**（；另譯：天才駭客F）
+  - 10月11日－12月20日：**[BLOODY MONDAY](../Page/BLOODY_MONDAY.md "wikilink")**（；另譯：天才駭客F）
 
 <!-- end list -->
 
@@ -80,16 +79,14 @@
 <!-- end list -->
 
   - 出演：[志田未來](../Page/志田未來.md "wikilink")、[林遣都](../Page/林遣都.md "wikilink")、[田辺誠一](../Page/田邊誠一.md "wikilink")、[岡本杏理](../Page/岡本杏理.md "wikilink")、[忽那汐-{里}-](../Page/忽那汐里.md "wikilink")、[黒川智花](../Page/黑川智花.md "wikilink")、[大和田伸也](../Page/大和田伸也.md "wikilink")、[斉藤由貴](../Page/齊藤由貴.md "wikilink")、[樋口可南子](../Page/樋口可南子.md "wikilink")
-  - 原作：[法蘭西絲·霍森·柏納特](../Page/法蘭西絲·霍森·柏納特.md "wikilink")(Frances Eliza
-    Hodgson Burnet)『小公主莎拉』(A Little Princess Sara)
+  - 原作：[法蘭西絲·霍森·柏納特](../Page/法蘭西絲·霍森·柏納特.md "wikilink")(Frances Eliza Hodgson Burnet)『小公主莎拉』(A Little Princess Sara)
   - 劇本：[岡田惠和](../Page/岡田惠和.md "wikilink")
 
 ### 2010年代
 
 #### 2010年
 
-  - 1月23日－3月20日：**[BLOODY
-    MONDAY](../Page/BLOODY_MONDAY.md "wikilink")**Season2（；另譯：天才駭客F 2）
+  - 1月23日－3月20日：**[BLOODY MONDAY](../Page/BLOODY_MONDAY.md "wikilink")**Season2（；另譯：天才駭客F 2）
 
 <!-- end list -->
 
@@ -126,7 +123,4 @@
 
   - [TBS電視](http://www.tbs.co.jp/)
 
-[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink")
-[Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink")
-[Category:TBS週六晚間八點連續劇](https://zh.wikipedia.org/wiki/Category:TBS週六晚間八點連續劇 "wikilink")
-[Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")
+[Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink") [Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink") [Category:TBS週六晚間八點連續劇](https://zh.wikipedia.org/wiki/Category:TBS週六晚間八點連續劇 "wikilink") [Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")

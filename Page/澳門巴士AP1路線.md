@@ -3,10 +3,7 @@
 ## 簡介及歷史
 
   - **AP1路線**是為了配合[澳門國際機場](../Page/澳門國際機場.md "wikilink")開幕開始行駛；開線時是由[澳巴和](https://zh.wikipedia.org/wiki/澳巴 "wikilink")[新福利聯營](https://zh.wikipedia.org/wiki/新福利 "wikilink")，而全程收費為[澳門幣](https://zh.wikipedia.org/wiki/澳門幣 "wikilink")5圓，過橋後收費[澳門幣](https://zh.wikipedia.org/wiki/澳門幣 "wikilink")3.5圓；
-  - **AP**字頭的意思：一說取自本線起訖點[葡萄牙文首字母](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")（機場
-    **A**eroporto—關閘 **P**ortas do
-    Cerco），另一說取自機場的[葡萄牙文](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")**A**ero**P**orto。後來計劃開辦的機場巴士路線
-    AP2（機場↔媽閣）則令 AP 字頭的定義傾向後者。
+  - **AP**字頭的意思：一說取自本線起訖點[葡萄牙文首字母](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")（機場 **A**eroporto—關閘 **P**ortas do Cerco），另一說取自機場的[葡萄牙文](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")**A**ero**P**orto。後來計劃開辦的機場巴士路線 AP2（機場↔媽閣）則令 AP 字頭的定義傾向後者。
   - 1995年11月13日，本線正式開始營運。
   - 本路線亦2008-2009年間開辦三次AP1X特快路線，往返關閘至機場，沿途不經港澳碼頭及黑沙環。同時亦在1996年開辦AP1特別直線，往返葡京至機場。
   - 1998年8月21日，澳門巴士票價調整，本路線收費亦作出調整：全程收費為[澳門幣](https://zh.wikipedia.org/wiki/澳門幣 "wikilink")6圓，過橋後收費為[澳門幣](https://zh.wikipedia.org/wiki/澳門幣 "wikilink")4圓。
@@ -51,8 +48,7 @@
   - 後因客量偏低，新福利改派TOYOTA COASTER小巴，而澳巴亦改派TOYOTA COASTER 小巴
   - 新福利TOYOTA COASTER因消耗過多油費而退出營運，新福利改派三菱單門Rosa
   - 2005年，三菱ROSA單門小巴因車齡過高，改派三菱Rosa雙門小巴
-  - 2010年至2011年早上尖峰時段，新福利會派出Dennis Dart 或蘇州金龍9米中巴，澳巴則派出Hino
-    Rx小巴或五洲龍9米中巴行駛。
+  - 2010年至2011年早上尖峰時段，新福利會派出Dennis Dart 或蘇州金龍9米中巴，澳巴則派出Hino Rx小巴或五洲龍9米中巴行駛。
 
 ### 2011年8月之後
 

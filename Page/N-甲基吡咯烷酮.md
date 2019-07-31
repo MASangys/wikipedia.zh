@@ -19,5 +19,4 @@
   - [2-吡咯烷酮](https://zh.wikipedia.org/wiki/2-吡咯烷酮 "wikilink")
   - [1,3-二甲基-2-咪唑啉酮](../Page/1,3-二甲基-2-咪唑啉酮.md "wikilink")（DMI）
 
-[Category:酰胺溶剂](https://zh.wikipedia.org/wiki/Category:酰胺溶剂 "wikilink")
-[Category:吡咯烷酮](https://zh.wikipedia.org/wiki/Category:吡咯烷酮 "wikilink")
+[Category:酰胺溶剂](https://zh.wikipedia.org/wiki/Category:酰胺溶剂 "wikilink") [Category:吡咯烷酮](https://zh.wikipedia.org/wiki/Category:吡咯烷酮 "wikilink")

@@ -1,9 +1,6 @@
-**-{A|zh-tw:唯舞獨尊Online;zh-cn:唯舞独尊Online;zh:唯舞独尊Online;zh-sg:唯舞独尊Online;zh-hk:夢之音樂街;zh-hans:唯舞独尊Online;zh-hant:唯舞獨尊Online;zh-mo:夢之音樂街;}-**（英文：**We
-Dancing
-Online**，-{zh-tw:[香港](../Page/香港.md "wikilink");zh-cn:[香港](../Page/香港.md "wikilink");zh:[香港](../Page/香港.md "wikilink");zh-sg:[香港](../Page/香港.md "wikilink");zh-hk:[中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink");zh-hans:[香港](../Page/香港.md "wikilink");zh-hant:[香港](../Page/香港.md "wikilink");zh-mo:[中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink");}-稱：**-{zh-tw:夢之音樂街;zh-cn:梦之音乐街;zh:梦之音乐街;zh-sg:梦之音乐街;zh-hk:唯舞獨尊Online;zh-hans:梦之音乐街;zh-hant:夢之音樂街;zh-mo:唯舞獨尊Online;}-**，簡稱-{zh-tw:「**唯舞**」、「**We5**」或「**WeDo**」;zh-cn:「**唯舞**」、「**We5**」或「**WeDo**」;zh:「**唯舞**」、「**We5**」或「**WeDo**」;zh-sg:「**唯舞**」、「**We5**」或「**WeDo**」;zh-hk:「**WDO**」;zh-hans:「**唯舞**」、「**We5**」或「**WeDo**」;zh-hant:「**唯舞**」、「**We5**」或「**WeDo**」;zh-mo:「**WDO**」;}-），是由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[鈊象電子獨立開發的休閒類跳舞線上遊戲](../Page/鈊象電子.md "wikilink")\[1\]，遊戲名稱是以[蔡依林的音樂專輯](../Page/蔡依林.md "wikilink")《[唯舞獨尊](../Page/唯舞獨尊_演唱會鮮聽版&混音.md "wikilink")》取名\[2\]，蔡依林同時也是初代遊戲代言人。
+**-{A|zh-tw:唯舞獨尊Online;zh-cn:唯舞独尊Online;zh:唯舞独尊Online;zh-sg:唯舞独尊Online;zh-hk:夢之音樂街;zh-hans:唯舞独尊Online;zh-hant:唯舞獨尊Online;zh-mo:夢之音樂街;}-**（英文：**We Dancing Online**，-{zh-tw:[香港](../Page/香港.md "wikilink");zh-cn:[香港](../Page/香港.md "wikilink");zh:[香港](../Page/香港.md "wikilink");zh-sg:[香港](../Page/香港.md "wikilink");zh-hk:[中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink");zh-hans:[香港](../Page/香港.md "wikilink");zh-hant:[香港](../Page/香港.md "wikilink");zh-mo:[中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink");}-稱：**-{zh-tw:夢之音樂街;zh-cn:梦之音乐街;zh:梦之音乐街;zh-sg:梦之音乐街;zh-hk:唯舞獨尊Online;zh-hans:梦之音乐街;zh-hant:夢之音樂街;zh-mo:唯舞獨尊Online;}-**，簡稱-{zh-tw:「**唯舞**」、「**We5**」或「**WeDo**」;zh-cn:「**唯舞**」、「**We5**」或「**WeDo**」;zh:「**唯舞**」、「**We5**」或「**WeDo**」;zh-sg:「**唯舞**」、「**We5**」或「**WeDo**」;zh-hk:「**WDO**」;zh-hans:「**唯舞**」、「**We5**」或「**WeDo**」;zh-hant:「**唯舞**」、「**We5**」或「**WeDo**」;zh-mo:「**WDO**」;}-），是由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[鈊象電子](../Page/鈊象電子.md "wikilink")獨立開發的休閒類跳舞線上遊戲\[1\]，遊戲名稱是以[蔡依林](../Page/蔡依林.md "wikilink")的音樂專輯《[唯舞獨尊](../Page/唯舞獨尊_演唱會鮮聽版&混音.md "wikilink")》取名\[2\]，蔡依林同時也是初代遊戲代言人。
 
-現時有個人電腦專用的PC
-Online版，以及適合遊樂場的大型機台版，此外，兩岸三地各版本的代言人皆不盡相同，台灣版現由[蔡依林代言](../Page/蔡依林.md "wikilink")，香港版則是[棒棒堂](https://zh.wikipedia.org/wiki/Lollipop棒棒堂 "wikilink")\[3\]。目前，香港則終止了線上版的營運。
+現時有個人電腦專用的PC Online版，以及適合遊樂場的大型機台版，此外，兩岸三地各版本的代言人皆不盡相同，台灣版現由[蔡依林](../Page/蔡依林.md "wikilink")代言，香港版則是[棒棒堂](https://zh.wikipedia.org/wiki/Lollipop棒棒堂 "wikilink")\[3\]。目前，香港則終止了線上版的營運。
 
 ## 基本要素
 
@@ -49,15 +46,11 @@ Online版，以及適合遊樂場的大型機台版，此外，兩岸三地各�
 
 ### 打擊類型
 
-[2009_GTI_Asia_Taipei_IGS_We_Dancing_Online.jpg](https://zh.wikipedia.org/wiki/File:2009_GTI_Asia_Taipei_IGS_We_Dancing_Online.jpg "fig:2009_GTI_Asia_Taipei_IGS_We_Dancing_Online.jpg")
-[缩略图](https://zh.wikipedia.org/wiki/File:We_Dancing_Online_Chinese_Version.JPG "fig:缩略图")
-畫面上出現指令向右移動，上為黃色、下為藍色、左為綠色、右為紅色，在指令到達判定區時，必須使用方向鍵或數字鍵依照歌曲節奏對應按下，依照在判定區位置按下判定等級。在-{zh-tw:中國大陸;zh-cn:台湾、香港;zh:台湾、香港;zh-sg:台湾、香港;zh-hk:中國大陸;zh-hans:台湾、香港;zh-hant:中國大陸;zh-mo:中國大陸;}-的版本，此玩法稱為「-{zh-tw:太鼓;zh-cn:打击;zh:打击;zh-sg:打击;zh-hk:太鼓;zh-hans:打击;zh-hant:太鼓;zh-mo:太鼓;}-」。
+[2009_GTI_Asia_Taipei_IGS_We_Dancing_Online.jpg](https://zh.wikipedia.org/wiki/File:2009_GTI_Asia_Taipei_IGS_We_Dancing_Online.jpg "fig:2009_GTI_Asia_Taipei_IGS_We_Dancing_Online.jpg") [缩略图](https://zh.wikipedia.org/wiki/File:We_Dancing_Online_Chinese_Version.JPG "fig:缩略图") 畫面上出現指令向右移動，上為黃色、下為藍色、左為綠色、右為紅色，在指令到達判定區時，必須使用方向鍵或數字鍵依照歌曲節奏對應按下，依照在判定區位置按下判定等級。在-{zh-tw:中國大陸;zh-cn:台湾、香港;zh:台湾、香港;zh-sg:台湾、香港;zh-hk:中國大陸;zh-hans:台湾、香港;zh-hant:中國大陸;zh-mo:中國大陸;}-的版本，此玩法稱為「-{zh-tw:太鼓;zh-cn:打击;zh:打击;zh-sg:打击;zh-hk:太鼓;zh-hans:打击;zh-hant:太鼓;zh-mo:太鼓;}-」。
 
-  - 連擊（連打）：在指令判定範圍內連續輸入完相同指令次數，僅需有鍵入即判定為 Great，輸入符合或超過需求數目判定為
-    Perfect。但在AC版本，如果輸入的次數比需求的一半還低，會被判定成 Bad。
+  - 連擊（連打）：在指令判定範圍內連續輸入完相同指令次數，僅需有鍵入即判定為 Great，輸入符合或超過需求數目判定為 Perfect。但在AC版本，如果輸入的次數比需求的一半還低，會被判定成 Bad。
   - 壓擊（按住、長按、壓按）：在判定區時按著該鍵不放，直到結尾在判定區時再放開。
-  - Combo：在 Perfect、Great、Cool 之下都會繼續累積 Combo，若判定為 Bad 或 Miss 則 Combo
-    中斷，Combo 數越多，獲得分數加倍。
+  - Combo：在 Perfect、Great、Cool 之下都會繼續累積 Combo，若判定為 Bad 或 Miss 則 Combo 中斷，Combo 數越多，獲得分數加倍。
   - 個人秀：大型機台版本限定的功能。隨著Combo是否連續，會有集氣加成，氣滿時使用「個人秀」功能，會有「**加**速」、「**減**速」、「旋**轉**」、「**隱**藏」、「**反**鍵」等效果，此外，在此狀態下，也會隨Combo的連續狀態決定分數加成的多寡\[4\]。
   - 八方位：類似於[九宮類型](https://zh.wikipedia.org/wiki/#九宮類型 "wikilink")，是以右側的數字鍵（5除外）控制八個方向，在大型機台版本，因為只有四個方向鍵的關係，所以會有「左+上」、「左+下」、「右+上」、「右+下」、「上+下」、「左+右」的連打組成複合方位，然而，PC版只有單一按鍵方位連打，並無街機版專屬的複合方位連打。
   - 究極（街機版）：比「特級」更難，且追加了「關門機制」，只要玩家在遊玩時發生Bad或Miss，不僅Combo中斷，且會扣血，即使Combo在後面的節奏不中斷，一樣不會回血，如果玩家血量值被扣到0，則遊戲強制結束，在對戰狀態下，先被扣到0的一方，會根據另一方的結果，判定是否敗北，而在合作狀態下，先被扣到0的一方，若另一方仍未被關門，會直接遊戲到歌曲結束，但若雙方均已關門，分數已經達到過關標準則直接判定勝利（反之則為失敗），單人以及其他模式狀態下則是只要血量值被扣到0，不論結果如何一律判定失敗。
@@ -74,8 +67,7 @@ PS：連線遊戲時，只要關門了，縱使對方尚未關門，關門的一
 
 ### RF類型
 
-此類型是從[鈊象電子的知名遊戲](../Page/鈊象電子.md "wikilink")[Rock
-Fever改編而來](../Page/Rock_Fever.md "wikilink")，指令由上方掉落，以S、D、F、J、K、L六個按鍵進行遊戲，指令到達標示星星的判定點，即可按下對應的按鍵。
+此類型是從[鈊象電子](../Page/鈊象電子.md "wikilink")的知名遊戲[Rock Fever改編而來](../Page/Rock_Fever.md "wikilink")，指令由上方掉落，以S、D、F、J、K、L六個按鍵進行遊戲，指令到達標示星星的判定點，即可按下對應的按鍵。
 
   - 集氣條：遊戲進行時，集氣條會越積越高到達最高點時就可按下空白鍵，系統則會隨機發動不同的挑戰模式使玩家積分升高。與[節奏類型不同的是](https://zh.wikipedia.org/wiki/#節奏類型 "wikilink")，「節奏」的爆氣機制為譜面流速加速，而非隨機挑戰模式。
   - 血條：遊戲能否繼續進行則是要看玩家的血條而定，如果玩家的血量見底，遊戲則宣告結束。
@@ -85,9 +77,7 @@ Fever改編而來](../Page/Rock_Fever.md "wikilink")，指令由上方掉落，�
       - 神隱：譜面的所有指令忽隱忽現。
       - 隱藏：與「突現」完全相反，指令在接近判定點時會隱藏。
 
-與大型機台[Rock Fever不一樣的是](../Page/Rock_Fever.md "wikilink")，PC
-Online版多了壓擊的指令，而與[Rock
-Fever相同之處即為功能加分](../Page/Rock_Fever.md "wikilink")，玩家只要選擇速度或是隱藏類，於遊戲中每個音符所打擊的分數均有加乘一定比例。
+與大型機台[Rock Fever不一樣的是](../Page/Rock_Fever.md "wikilink")，PC Online版多了壓擊的指令，而與[Rock Fever相同之處即為功能加分](../Page/Rock_Fever.md "wikilink")，玩家只要選擇速度或是隱藏類，於遊戲中每個音符所打擊的分數均有加乘一定比例。
 
 ### 九宮類型
 
@@ -157,8 +147,7 @@ Fever相同之處即為功能加分](../Page/Rock_Fever.md "wikilink")，玩家�
 
 ### 從開發到上市
 
-[2008TaipeiGameShow_Day2_IGS_WeDancingOnline.jpg](https://zh.wikipedia.org/wiki/File:2008TaipeiGameShow_Day2_IGS_WeDancingOnline.jpg "fig:2008TaipeiGameShow_Day2_IGS_WeDancingOnline.jpg")的展示區）\]\]
-2006年，有大型音樂機台開發經驗的[鈊象電子](../Page/鈊象電子.md "wikilink")，鑑於當時電玩線上化與家庭化的趨勢，決定要將大型音樂機台的功能，在線上電腦遊戲中實現，於是，取名「唯舞獨尊Online」，並邀請發行[同名專輯的](../Page/唯舞獨尊_演唱會鮮聽版&混音.md "wikilink")[蔡依林擔任代言人](../Page/蔡依林.md "wikilink")\[7\]，然而，因為程式出錯頻繁的關係，一度打亂了原本預定的封閉測試計畫，最後，2007年5月3日宣布正式公開測試後，本遊戲正式在兩岸三地同步發行。
+[2008TaipeiGameShow_Day2_IGS_WeDancingOnline.jpg](https://zh.wikipedia.org/wiki/File:2008TaipeiGameShow_Day2_IGS_WeDancingOnline.jpg "fig:2008TaipeiGameShow_Day2_IGS_WeDancingOnline.jpg")的展示區）\]\] 2006年，有大型音樂機台開發經驗的[鈊象電子](../Page/鈊象電子.md "wikilink")，鑑於當時電玩線上化與家庭化的趨勢，決定要將大型音樂機台的功能，在線上電腦遊戲中實現，於是，取名「唯舞獨尊Online」，並邀請發行[同名專輯的](../Page/唯舞獨尊_演唱會鮮聽版&混音.md "wikilink")[蔡依林](../Page/蔡依林.md "wikilink")擔任代言人\[7\]，然而，因為程式出錯頻繁的關係，一度打亂了原本預定的封閉測試計畫，最後，2007年5月3日宣布正式公開測試後，本遊戲正式在兩岸三地同步發行。
 
 ### 街機連線的挑戰
 
@@ -166,27 +155,23 @@ Fever相同之處即為功能加分](../Page/Rock_Fever.md "wikilink")，玩家�
 
 ### 盜用事件論戰
 
-2006─2007年間，線上音樂遊戲的競爭非常激烈，當時對手包括韓國《[勁舞團](../Page/勁舞團.md "wikilink")》、中國《[超級舞者](https://zh.wikipedia.org/wiki/超級舞者 "wikilink")》（台灣為「熱舞Online」），各家業者為了保住各自的玩家市場，都先後展開激烈的文宣戰，然而，在遊戲上市前，卻已傳出「歌名盜用事件」\[9\]，引起非常激烈的論戰\[10\]。在台灣，則是[鈊象電子委託](../Page/鈊象電子.md "wikilink")[百代唱片提告](https://zh.wikipedia.org/wiki/百代唱片 "wikilink")\[11\]；在中國，則是由代理商[宏象網路發表了](https://zh.wikipedia.org/wiki/宏象網路 "wikilink")「避免混淆視聽」的聲明\[12\]。
+2006─2007年間，線上音樂遊戲的競爭非常激烈，當時對手包括韓國《[勁舞團](../Page/勁舞團.md "wikilink")》、中國《[超級舞者](https://zh.wikipedia.org/wiki/超級舞者 "wikilink")》（台灣為「熱舞Online」），各家業者為了保住各自的玩家市場，都先後展開激烈的文宣戰，然而，在遊戲上市前，卻已傳出「歌名盜用事件」\[9\]，引起非常激烈的論戰\[10\]。在台灣，則是[鈊象電子](../Page/鈊象電子.md "wikilink")委託[百代唱片提告](https://zh.wikipedia.org/wiki/百代唱片 "wikilink")\[11\]；在中國，則是由代理商[宏象網路發表了](https://zh.wikipedia.org/wiki/宏象網路 "wikilink")「避免混淆視聽」的聲明\[12\]。
 
 ### 藝人代言造就遊戲名氣
 
-[2008TaipeiGameShow_Day3_IGS_JolinTsai_with_WeDancingOnline_theme.jpg](https://zh.wikipedia.org/wiki/File:2008TaipeiGameShow_Day3_IGS_JolinTsai_with_WeDancingOnline_theme.jpg "fig:2008TaipeiGameShow_Day3_IGS_JolinTsai_with_WeDancingOnline_theme.jpg")。\]\]
-為了在遊戲推出前打響知名度，鈊象電子以8位數天價，向當時的百代唱片簽下了[蔡依林的遊戲代言資格](../Page/蔡依林.md "wikilink")，與其音樂專輯《[唯舞獨尊](../Page/唯舞獨尊_演唱會鮮聽版&混音.md "wikilink")》的音樂使用權利，在當時的演藝圈為之轟動，甚至因此傳出歌迷偷走燈箱裝飾的瘋狂舉動，險些造成反效果\[13\]。
+[2008TaipeiGameShow_Day3_IGS_JolinTsai_with_WeDancingOnline_theme.jpg](https://zh.wikipedia.org/wiki/File:2008TaipeiGameShow_Day3_IGS_JolinTsai_with_WeDancingOnline_theme.jpg "fig:2008TaipeiGameShow_Day3_IGS_JolinTsai_with_WeDancingOnline_theme.jpg")。\]\] 為了在遊戲推出前打響知名度，鈊象電子以8位數天價，向當時的百代唱片簽下了[蔡依林](../Page/蔡依林.md "wikilink")的遊戲代言資格，與其音樂專輯《[唯舞獨尊](../Page/唯舞獨尊_演唱會鮮聽版&混音.md "wikilink")》的音樂使用權利，在當時的演藝圈為之轟動，甚至因此傳出歌迷偷走燈箱裝飾的瘋狂舉動，險些造成反效果\[13\]。
 
-然而，因為蔡依林的代言所帶動的名氣，此遊戲先在2008年[台北國際電玩展舉辦的](../Page/台北國際電玩展.md "wikilink")「風雲遊戲票選」中，拿下了「最佳休閒遊戲」\[14\]，隨後在經濟部工業局的2007年[遊戲之星選拔賽中](../Page/遊戲之星選拔賽.md "wikilink")，拿下了「最佳製作人」、「年度大賞」、「最佳連線遊戲」\[15\]等獎項，在2008年，堪稱是最風光的一年。
+然而，因為蔡依林的代言所帶動的名氣，此遊戲先在2008年[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")舉辦的「風雲遊戲票選」中，拿下了「最佳休閒遊戲」\[14\]，隨後在經濟部工業局的2007年[遊戲之星選拔賽](../Page/遊戲之星選拔賽.md "wikilink")中，拿下了「最佳製作人」、「年度大賞」、「最佳連線遊戲」\[15\]等獎項，在2008年，堪稱是最風光的一年。
 
 同年，香港的天宇科技在進軍台灣遊戲市場後，拿到了香港區的代理權，並邀請[棒棒堂作為香港版的代言樂團](https://zh.wikipedia.org/wiki/Lollipop棒棒堂 "wikilink")。
 
-2009─2010年間，改由[蕭亞軒擔任遊戲代言人的同時](../Page/蕭亞軒.md "wikilink")，遊戲也進行了大幅的改版
-唯舞獨尊2.0\[16\]，在隨後的2009年遊戲之星選拔賽中，此遊戲再度重溫「最佳連線遊戲」的榮譽\[17\]。
+2009─2010年間，改由[蕭亞軒](../Page/蕭亞軒.md "wikilink")擔任遊戲代言人的同時，遊戲也進行了大幅的改版 唯舞獨尊2.0\[16\]，在隨後的2009年遊戲之星選拔賽中，此遊戲再度重溫「最佳連線遊戲」的榮譽\[17\]。
 
-2012年，由[安心亞擔任遊戲代言人](../Page/安心亞.md "wikilink")，宣布遊戲改版為
-唯舞獨尊3，增加水族箱、自動編譜等功能，並演唱遊戲主題曲《唯舞》\[18\]。
+2012年，由[安心亞](../Page/安心亞.md "wikilink")擔任遊戲代言人，宣布遊戲改版為 唯舞獨尊3，增加水族箱、自動編譜等功能，並演唱遊戲主題曲《唯舞》\[18\]。
 
-2013年，改由[謝金燕擔任遊戲代言人](https://zh.wikipedia.org/wiki/謝金燕 "wikilink")，並和[謝金燕合作代言歌曲](https://zh.wikipedia.org/wiki/謝金燕 "wikilink")，[謝金燕和經紀人球球特別為遊戲作詞作曲](https://zh.wikipedia.org/wiki/謝金燕 "wikilink")，打造主題舞曲《姐姐》。\[19\]另外同步推出
-Android 版本的《唯舞獨尊行動版》，在手機、平板也能玩。\[20\]
+2013年，改由[謝金燕擔任遊戲代言人](https://zh.wikipedia.org/wiki/謝金燕 "wikilink")，並和[謝金燕合作代言歌曲](https://zh.wikipedia.org/wiki/謝金燕 "wikilink")，[謝金燕和經紀人球球特別為遊戲作詞作曲](https://zh.wikipedia.org/wiki/謝金燕 "wikilink")，打造主題舞曲《姐姐》。\[19\]另外同步推出 Android 版本的《唯舞獨尊行動版》，在手機、平板也能玩。\[20\]
 
-2014年，改由[蔡依林擔任遊戲代言人](../Page/蔡依林.md "wikilink")，據悉唯舞獨尊將推出升級版，演唱遊戲主題曲《電話皇后》。\[21\]
+2014年，改由[蔡依林](../Page/蔡依林.md "wikilink")擔任遊戲代言人，據悉唯舞獨尊將推出升級版，演唱遊戲主題曲《電話皇后》。\[21\]
 
 ## 類似遊戲
 
@@ -204,10 +189,7 @@ Android 版本的《唯舞獨尊行動版》，在手機、平板也能玩。\[2
       - [台灣版（尚芳國際）](http://we5.igsgame.com/)
       - [中國版（華立科技）](https://web.archive.org/web/20100507032021/http://www.wedo.cc/)
 
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:多人線上音樂遊戲](https://zh.wikipedia.org/wiki/Category:多人線上音樂遊戲 "wikilink")
-[Category:2007年電子遊戲](https://zh.wikipedia.org/wiki/Category:2007年電子遊戲 "wikilink")
-[Category:鈊象電子遊戲](https://zh.wikipedia.org/wiki/Category:鈊象電子遊戲 "wikilink")
+[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:多人線上音樂遊戲](https://zh.wikipedia.org/wiki/Category:多人線上音樂遊戲 "wikilink") [Category:2007年電子遊戲](https://zh.wikipedia.org/wiki/Category:2007年電子遊戲 "wikilink") [Category:鈊象電子遊戲](https://zh.wikipedia.org/wiki/Category:鈊象電子遊戲 "wikilink")
 
 1.
 2.
@@ -224,11 +206,9 @@ Android 版本的《唯舞獨尊行動版》，在手機、平板也能玩。\[2
 13.
 14.
 15.
-16. [史上最強！雙舞-{后}-代言《唯舞獨尊Online》
-    氣勢如虹](http://www.gamebase.com.tw/forum/7204/topic/87432134/1)，遊戲基地，2009年10月16日，於2010年2月14日查閱
+16. [史上最強！雙舞-{后}-代言《唯舞獨尊Online》 氣勢如虹](http://www.gamebase.com.tw/forum/7204/topic/87432134/1)，遊戲基地，2009年10月16日，於2010年2月14日查閱
 17.
 18. [安心亞-唯舞 唯舞獨尊3改版代言歌曲](http://www.youtube.com/watch?v=kKoelIX8bmI)
 19. [謝金燕 X 唯舞獨尊3 全新電音單曲《姐姐》](http://www.youtube.com/watch?v=QoQDjG5z9f8)
 20. [謝金燕 X 唯舞獨尊3 代言廣告](http://www.youtube.com/watch?v=u06G-SzXwRQ)
-21. [蔡依林 唯舞獨尊DX Online
-    電玩主題曲](http://www.youtube.com/watch?v=XWDZ0xj-Yxw)
+21. [蔡依林 唯舞獨尊DX Online 電玩主題曲](http://www.youtube.com/watch?v=XWDZ0xj-Yxw)

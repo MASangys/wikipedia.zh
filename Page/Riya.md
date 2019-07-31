@@ -14,8 +14,7 @@
 
   -
     2005年3月24日發售（[Lantis](../Page/Lantis.md "wikilink")）
-    PSP遊戲『[英雄伝説ガガーブトリロジー
-    白き魔女](https://zh.wikipedia.org/wiki/英雄傳說 "wikilink")』開頭、結尾主題歌
+    PSP遊戲『[英雄伝説ガガーブトリロジー 白き魔女](https://zh.wikipedia.org/wiki/英雄傳說 "wikilink")』開頭、結尾主題歌
 
 ### 專輯
 
@@ -24,30 +23,20 @@
 <!-- end list -->
 
   -
-    2005年8月31日發售（[Key Sounds
-    Label](../Page/Key_Sounds_Label.md "wikilink")）
-    始まりの坂／蒼の夢／星なる石／走る／百年の夏／僕らの恋／灰色の羽根／グラモフォン／神話／氷時計／折れない翼／そして物語が終わる／Love
-    Song
+    2005年8月31日發售（[Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")）
+    始まりの坂／蒼の夢／星なる石／走る／百年の夏／僕らの恋／灰色の羽根／グラモフォン／神話／氷時計／折れない翼／そして物語が終わる／Love Song
 
 ### 其他樂曲
 
-  - 少女の幻想／オーバー／海鳴り／遠い旅の記憶／一万の軌跡／空に光る／桜抒曲／同じ高み／風の少女／ひとひらの桜／木漏れ日（電腦遊戲「[CLANNAD](../Page/CLANNAD.md "wikilink")」
-    印象曲）
-  - 廻る世界で＜duet with
-    [霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")＞（[PlayStation
-    2遊戲](../Page/PlayStation_2.md "wikilink")「アカイイト」開頭主題歌）
+  - 少女の幻想／オーバー／海鳴り／遠い旅の記憶／一万の軌跡／空に光る／桜抒曲／同じ高み／風の少女／ひとひらの桜／木漏れ日（電腦遊戲「[CLANNAD](../Page/CLANNAD.md "wikilink")」 印象曲）
+  - 廻る世界で＜duet with [霜月はるか](https://zh.wikipedia.org/wiki/霜月はるか "wikilink")＞（[PlayStation 2遊戲](../Page/PlayStation_2.md "wikilink")「アカイイト」開頭主題歌）
   - 旅路の果て＜duet with 霜月はるか＞（PlayStation 2遊戲「アカイイト」結尾主題歌）
   - ディアノイア（電腦遊戲「[最終試験くじら](https://zh.wikipedia.org/wiki/最終試験くじら "wikilink")」開頭主題歌）
-  - CRESCENT MOON（PlayStation
-    2＆[Dreamcast遊戲](../Page/Dreamcast.md "wikilink")「[水月](https://zh.wikipedia.org/wiki/水月 "wikilink")～迷心～」開頭主題歌）
+  - CRESCENT MOON（PlayStation 2＆[Dreamcast](../Page/Dreamcast.md "wikilink")遊戲「[水月](https://zh.wikipedia.org/wiki/水月 "wikilink")～迷心～」開頭主題歌）
   - メグメル（電腦遊戲「[CLANNAD](../Page/CLANNAD.md "wikilink")」開頭主題歌）
   - －影二つ－／小さなてのひら（電腦遊戲「CLANNAD」結尾主題歌）
   - 光のほうへ～明日へのJYUMON～（PlayStation 2遊戲「マビノ×スタイル」開頭主題歌）
   - 比翼の羽根（電視動畫「[緣之空](https://zh.wikipedia.org/wiki/緣之空 "wikilink")」開頭主題歌）
-  - Traveler's tale ([PlayStation
-    4遊戲](../Page/PlayStation_4.md "wikilink")「[ISLAND](https://zh.wikipedia.org/wiki/:ISLAND_\(遊戲\)#%E4%B8%BB%E9%A1%8C%E6%9B%B2 "wikilink")」開頭主題歌)
+  - Traveler's tale ([PlayStation 4遊戲](../Page/PlayStation_4.md "wikilink")「[ISLAND](https://zh.wikipedia.org/wiki/:ISLAND_\(遊戲\)#%E4%B8%BB%E9%A1%8C%E6%9B%B2 "wikilink")」開頭主題歌)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink")
-[Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")

@@ -430,8 +430,6 @@
 
   -
   -
-[Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")
-[Category:富邦集團](https://zh.wikipedia.org/wiki/Category:富邦集團 "wikilink")
-[Category:總部位於臺北市內湖區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市內湖區的工商業機構 "wikilink")
+[Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:富邦集團](https://zh.wikipedia.org/wiki/Category:富邦集團 "wikilink") [Category:總部位於臺北市內湖區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市內湖區的工商業機構 "wikilink")
 
 1.  怀疑与同性恋照片案件有关，因此MOMO亲子台直接解约。

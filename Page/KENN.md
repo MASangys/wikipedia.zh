@@ -1,10 +1,8 @@
-**KENN**（，1982年3月24日—），本名**大橋賢一郎**（日語假名：おおはし
-けんいちろう），是日本的男[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")、[聲優](../Page/聲優.md "wikilink")，[Zynchro所屬](https://zh.wikipedia.org/wiki/Zynchro "wikilink")。[東京都出身](../Page/東京都.md "wikilink")，[東京自由学園畢業](https://zh.wikipedia.org/wiki/東京自由学園 "wikilink")。
+**KENN**（，1982年3月24日—），本名**大橋賢一郎**（日語假名：おおはし けんいちろう），是日本的男[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")、[聲優](../Page/聲優.md "wikilink")，[Zynchro所屬](https://zh.wikipedia.org/wiki/Zynchro "wikilink")。[東京都](../Page/東京都.md "wikilink")出身，[東京自由学園畢業](https://zh.wikipedia.org/wiki/東京自由学園 "wikilink")。
 
 ## 經歷
 
-2003年作為支援成員加入樂團[The
-NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節目投票中得到支持，成爲正式成員。在樂團裏擔當主唱、鍵盤手。可是在2006年10月，樂團活動終止。
+2003年作為支援成員加入樂團[The NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節目投票中得到支持，成爲正式成員。在樂團裏擔當主唱、鍵盤手。可是在2006年10月，樂團活動終止。
 
 2004年開始投身演藝與配音，自樂團終止活動起主要活躍於這兩個方面。2009年發行第一張個人名義的單曲大碟，重開他的歌手路。2014年五月推出第一張小專輯。
 
@@ -14,12 +12,11 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 ### 藝名由來
 
-樂團成員多數以英文為命名，自身最初也打算用「KEN」作名字。可是由於和其他成員名字重復，而且有名會占卜的同事跟他說「多加個 N
-運氣會變好」，就用了「KENN」為名。因爲這藝名，在見面會裏面被[鈴村健一](../Page/鈴村健一.md "wikilink")、[鳥海浩輔等調戲過](../Page/鳥海浩輔.md "wikilink")。
+樂團成員多數以英文為命名，自身最初也打算用「KEN」作名字。可是由於和其他成員名字重復，而且有名會占卜的同事跟他說「多加個 N 運氣會變好」，就用了「KENN」為名。因爲這藝名，在見面會裏面被[鈴村健一](../Page/鈴村健一.md "wikilink")、[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")等調戲過。
 
 ### 暱稱由來
 
-參演[網球王子舞台劇的時候](../Page/網球王子舞台劇.md "wikilink")，被一同演出的演員用英文念他的名字，漸漸以此為暱稱，甚至有人搞混哪個是藝名，哪個是暱稱。好像很在意自己的暱稱，在電台等場合說過自己的的暱稱是平假名的「けんぬ」不是片假名的「ケンヌ」。
+參演[網球王子舞台劇](../Page/網球王子舞台劇.md "wikilink")的時候，被一同演出的演員用英文念他的名字，漸漸以此為暱稱，甚至有人搞混哪個是藝名，哪個是暱稱。好像很在意自己的暱稱，在電台等場合說過自己的的暱稱是平假名的「けんぬ」不是片假名的「ケンヌ」。
 
 ## 出演作品
 
@@ -46,8 +43,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 <!-- end list -->
 
-  - [家庭教師HITMAN
-    REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")（**迪諾**）
+  - [家庭教師HITMAN REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")（**迪諾**）
   - [遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")（**霸王十代**）
 
 <!-- end list -->
@@ -56,8 +52,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 <!-- end list -->
 
-  - [迷宮塔
-    ～烏魯克之盾～](https://zh.wikipedia.org/wiki/迷宮塔_～烏魯克之盾～ "wikilink")（**基魯**）
+  - [迷宮塔 ～烏魯克之盾～](https://zh.wikipedia.org/wiki/迷宮塔_～烏魯克之盾～ "wikilink")（**基魯**）
 
 <!-- end list -->
 
@@ -65,10 +60,9 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 <!-- end list -->
 
-  - [迷宮塔
-    ～烏魯克之劍～](https://zh.wikipedia.org/wiki/迷宮塔_～烏魯克之劍～ "wikilink")（**基魯**）
+  - [迷宮塔 ～烏魯克之劍～](https://zh.wikipedia.org/wiki/迷宮塔_～烏魯克之劍～ "wikilink")（**基魯**）
   - [FRESH光之美少女\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")（一条和希）
-  - [奇蹟列車～歡迎來到大江戶線～](../Page/奇蹟列車.md "wikilink")（**六本木史**）
+  - [奇蹟列車](../Page/奇蹟列車.md "wikilink")～歡迎來到大江戶線～（**六本木史**）
   - [卡片鬥士翔](../Page/卡片鬥士翔.md "wikilink")（赤丸力）
 
 <!-- end list -->
@@ -86,8 +80,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 <!-- end list -->
 
-  - [全職獵人 Hunter x
-    Hunter](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（芬克斯）
+  - [全職獵人 Hunter x Hunter](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（芬克斯）
   - [寶石寵物 Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")（賈斯帕）
   - [寶石寵物 Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")（賈斯帕）
   - [星光少女 極光之夢](../Page/星光少女_極光之夢.md "wikilink")（**響**）
@@ -104,8 +97,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
   - [向銀河開球](https://zh.wikipedia.org/wiki/向銀河開球 "wikilink")（**降矢虎太**）
   - [能量獸之戰獸旋戰鬥](../Page/能量獸之戰獸旋戰鬥.md "wikilink")（**徹斯·斯諾**）
   - [HUNTER×HUNTER](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（芬克斯）
-  - [星光少女 Dear My
-    Future](https://zh.wikipedia.org/wiki/星光少女_Dear_My_Future "wikilink")（響）
+  - [星光少女 Dear My Future](https://zh.wikipedia.org/wiki/星光少女_Dear_My_Future "wikilink")（響）
   - [寶石寵物 Kira☆Deco！](../Page/寶石寵物_Kira☆Deco！.md "wikilink")（賈斯帕）
   - [寶石寵物 Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")（賈斯帕、第十四代武者小路篤胤）
 
@@ -117,8 +109,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
   - [寶石寵物 Happiness](../Page/寶石寵物_Happiness.md "wikilink")（賈斯帕）
   - [蟲奉行](../Page/蟲奉行.md "wikilink")（**月島仁兵衛**）
-  - [BROTHERS
-    CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")（**朝日奈風斗**）
+  - [BROTHERS CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")（**朝日奈風斗**）
   - [境界的彼方](../Page/境界的彼方.md "wikilink")（**神原秋人**）
   - [武士弗拉明戈](../Page/武士弗拉明戈.md "wikilink")（黑木闇兒）
   - [熱風海陸 BushiRoad](../Page/熱風海陸.md "wikilink")（**周防**）
@@ -131,8 +122,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
   - [魔神之骨](../Page/魔神之骨.md "wikilink")（**龍神翔悟**）
   - [Lady 寶石寵物](../Page/Lady_寶石寵物.md "wikilink")（王子：米烏拉）
-  - [Baby Steps
-    \~網球優等生\~](../Page/Baby_Steps_~網球優等生~.md "wikilink")（井出義明）
+  - [Baby Steps \~網球優等生\~](../Page/Baby_Steps_~網球優等生~.md "wikilink")（井出義明）
   - [閃爍的青春](../Page/閃爍的青春.md "wikilink")（**小湊亞耶**）
   - [黑執事 Book of Circus](../Page/黑執事.md "wikilink")（羅納德·諾克斯）
   - [鑽石王牌](../Page/鑽石王牌.md "wikilink")（神谷卡爾羅斯俊樹）
@@ -148,8 +138,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 <!-- end list -->
 
   - [亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")（**奇夫**）
-  - [無頭騎士異聞錄 DuRaRaRa\!\!×2
-    轉](../Page/無頭騎士異聞錄_DuRaRaRa!!.md "wikilink")（寫樂影次郎）
+  - [無頭騎士異聞錄 DuRaRaRa\!\!×2 轉](../Page/無頭騎士異聞錄_DuRaRaRa!!.md "wikilink")（寫樂影次郎）
   - [高校星歌劇](https://zh.wikipedia.org/wiki/高校星歌劇 "wikilink")（虎石和泉）
   - [Lady 寶石寵物](../Page/Lady_寶石寵物.md "wikilink")（賈斯帕）
 
@@ -160,16 +149,14 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 <!-- end list -->
 
   - 無頭騎士異聞錄 DuRaRaRa\!\!×2 結（寫樂影次郎）
-  - [Divine
-    Gate](https://zh.wikipedia.org/wiki/Divine_Gate "wikilink")（歐文）
+  - [Divine Gate](https://zh.wikipedia.org/wiki/Divine_Gate "wikilink")（歐文）
   - [亞人](../Page/亞人_\(漫畫\).md "wikilink")（渡邊）
   - [火星異種 復仇](../Page/火星異種.md "wikilink")（**阿萊克斯·K·斯圖亞特**）
   - [超時空要塞Δ](../Page/超時空要塞Δ.md "wikilink")（波克·康法爾特）
   - [雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")（婆娑羅：山門）
   - [DAYS](https://zh.wikipedia.org/wiki/DAYS_\(漫畫\) "wikilink")（火村真弓）
   - [亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink") 風塵乱舞（**奇夫**）
-  - [Scared Rider
-    Xechs](../Page/Scared_Rider_Xechs.md "wikilink")（**無月聖**）
+  - [Scared Rider Xechs](../Page/Scared_Rider_Xechs.md "wikilink")（**無月聖**）
   - [月歌。](../Page/月歌。.md "wikilink")（**皐月葵**）
   - [終末的伊澤塔](../Page/終末的伊澤塔.md "wikilink")（漢斯）
   - [超心動！文藝復興](../Page/超心動！文藝復興.md "wikilink")（**墨之宮葵**）
@@ -181,11 +168,9 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 <!-- end list -->
 
-  - [MARGINAL\#4 由KISS開始創造的Big
-    Bang](../Page/MARGINAL＃4.md "wikilink")（**野村L**）
+  - [MARGINAL\#4 由KISS開始創造的Big Bang](../Page/MARGINAL＃4.md "wikilink")（**野村L**）
   - 高校星歌劇 第2期（虎石和泉）
-  - [喧嘩番長 乙女－Girl Beats
-    Boys－](https://zh.wikipedia.org/wiki/喧嘩番長_乙女 "wikilink")（**箕輪-{斗斗}-丸**\[1\]）
+  - [喧嘩番長 乙女－Girl Beats Boys－](https://zh.wikipedia.org/wiki/喧嘩番長_乙女 "wikilink")（**箕輪-{斗斗}-丸**\[1\]）
   - [將國戡亂記](../Page/將國戡亂記.md "wikilink")（**裘洛斯**）
   - [我的英雄學院](../Page/我的英雄學院.md "wikilink")（英雄：原住民）
   - [泥鯨之子們在沙地上歌唱](../Page/泥鯨之子們在沙地上歌唱.md "wikilink")（ロハリト·ノ·アモンロギア）
@@ -217,17 +202,14 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 **2013年**
 
-  - [暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")（前原陽斗）
-    ※隨漫畫第7卷發售
+  - [暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")（前原陽斗） ※隨漫畫第7卷發售
 
 **2014年**
 
   - [常住戰陣！！蟲奉行「真正的武士」](../Page/蟲奉行.md "wikilink")（**月島仁兵衛**） ※隨漫畫第15卷發售
   - [常住戰陣！！蟲奉行「戀愛中的火鉢」](../Page/蟲奉行.md "wikilink")（**月島仁兵衛**） ※隨漫畫第16卷發售
   - [閃爍的青春](../Page/閃爍的青春.md "wikilink")（**小湊亞耶**） ※隨漫畫第12卷發售
-  - [BROTHERS
-    CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")
-    第1話 聖夜（**朝日奈風斗**）
+  - [BROTHERS CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink") 第1話 聖夜（**朝日奈風斗**）
 
 **2015年**
 
@@ -236,8 +218,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 **2016年**
 
   - [亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")「汗血戀路」（**奇夫**、那爾撒斯的戀人／達龍的戀人／耶拉姆的戀人）
-  - [高校星歌劇](https://zh.wikipedia.org/wiki/高校星歌劇 "wikilink") 第1期
-    OVA1（虎石和泉） \[3\]
+  - [高校星歌劇](https://zh.wikipedia.org/wiki/高校星歌劇 "wikilink") 第1期 OVA1（虎石和泉） \[3\]
   - 高校星歌劇 第1期 OVA2（虎石和泉） \[4\]
   - 亞爾斯蘭戰記「友情之宴」（**奇夫**）
 
@@ -253,8 +234,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 **2010年**
 
-  - [10th週年劇場版 遊戲王
-    ～超融合！跨越時空的羈絆～](../Page/10th週年劇場版_遊戲王_～超融合！跨越時空的羈絆～.md "wikilink")（**遊城十代**）
+  - [10th週年劇場版 遊戲王 ～超融合！跨越時空的羈絆～](../Page/10th週年劇場版_遊戲王_～超融合！跨越時空的羈絆～.md "wikilink")（**遊城十代**）
 
 **2014年**
 
@@ -272,8 +252,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 <!-- end list -->
 
-  - [明治東亰恋伽
-    ～花鏡の幻想曲～](https://zh.wikipedia.org/wiki/明治東亰恋伽_～花鏡の幻想曲～ "wikilink")(菱田春草)
+  - [明治東亰恋伽 ～花鏡の幻想曲～](https://zh.wikipedia.org/wiki/明治東亰恋伽_～花鏡の幻想曲～ "wikilink")(菱田春草)
 
 <!-- end list -->
 
@@ -281,27 +260,21 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 <!-- end list -->
 
-  - [剧场版 黑執事 Book of the Atlantic](../Page/黑執事.md "wikilink")
-    豪華客船篇（**羅納德·諾克斯**）
+  - [剧场版 黑執事 Book of the Atlantic](../Page/黑執事.md "wikilink") 豪華客船篇（**羅納德·諾克斯**）
 
 ### 遊戲
 
-  - [家庭教師HITMAN
-    REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")
-    ドリームハイパーバトル\!（迪諾）
+  - [家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink") ドリームハイパーバトル\!（迪諾）
   - 家庭教師HITMAN REBORN\! Let's 暗殺\!? 狙われた10代目\!（迪諾）
-  - [逆轉裁判4](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink")
-    音像錄影帶（**王泥喜法介**）
+  - [逆轉裁判4](https://zh.wikipedia.org/wiki/逆轉裁判 "wikilink") 音像錄影帶（**王泥喜法介**）
   - [逆轉裁判5](../Page/逆轉裁判5.md "wikilink")（**王泥喜法介**）
-  - [遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink") Tag
-    Force（**遊城十代**）
+  - [遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink") Tag Force（**遊城十代**）
   - VitaminZ（**成宮天十郎**）
       - VitaminZ
       - VitaminZ Revolution
       - VitaminXtoZ
       - VitaminZ Graduation
-  - [断罪のマリア](https://zh.wikipedia.org/wiki/断罪のマリア "wikilink")（ジョーカー /
-    ビフロンス）
+  - [断罪のマリア](https://zh.wikipedia.org/wiki/断罪のマリア "wikilink")（ジョーカー / ビフロンス）
   - [燃燒驅動](https://zh.wikipedia.org/wiki/燃燒驅動 "wikilink")（大地）
   - scared rider xechs（**無月・ヒジリ**）
       - scared rider xechs
@@ -321,8 +294,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
   - [湯之花SpRING！](../Page/湯之花SpRING！.md "wikilink")（**片桐金太郎**）
   - Marginal\#4 (**野村エル**)
   - アイ★チュウ（**愛童星夜**）
-  - [Final Fantasy
-    XIV：新生艾奧傑亞](https://zh.wikipedia.org/wiki/Final_Fantasy_XIV：新生艾奧傑亞 "wikilink")（**ウリエンジェ**）
+  - [Final Fantasy XIV：新生艾奧傑亞](https://zh.wikipedia.org/wiki/Final_Fantasy_XIV：新生艾奧傑亞 "wikilink")（**ウリエンジェ**）
   - [IDOLiSH7](../Page/IDOLiSH7.md "wikilink")（**四葉環**）
   - 在茜色世界與君詠唱（**高杉晉作**）
   - 喧嘩番長 乙女（**箕輪斗々丸**）
@@ -349,19 +321,16 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 ### DVD
 
   - Will Be There（The NaB's）
-  - [家庭教師ヒットマンREBORN\!](https://zh.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")
-    ボンゴレ最強のカルネヴァーレ4 RED
+  - [家庭教師ヒットマンREBORN\!](https://zh.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink") ボンゴレ最強のカルネヴァーレ4 RED
   - ライブビデオ JAPAN 乙女♥Festival
-  - [VitaminXtoZ](https://zh.wikipedia.org/wiki/VitaminZ "wikilink")
-    いくぜっ\!究極（ハイパー）★エクスプロージョン
+  - [VitaminXtoZ](https://zh.wikipedia.org/wiki/VitaminZ "wikilink") いくぜっ\!究極（ハイパー）★エクスプロージョン
   - MEN'S DVD SERIES KENN 「一期一会 〜a-once-in-a-lifetime chance」
   - [VitaminZ](https://zh.wikipedia.org/wiki/VitaminZ "wikilink")～大阪・初夏の陣～
   - [VitaminZ](https://zh.wikipedia.org/wiki/VitaminZ "wikilink")～東京・盛夏の陣～
 
 ### 戲劇
 
-  - DVD Drama
-    [斬セイバー](https://zh.wikipedia.org/wiki/斬セイバー "wikilink")（旁白）
+  - DVD Drama [斬セイバー](https://zh.wikipedia.org/wiki/斬セイバー "wikilink")（旁白）
 
 ### 舞台
 
@@ -413,18 +382,13 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 ## 外部連結
 
-  - [KENN Official
-    website](https://web.archive.org/web/20080302124112/http://www.dreamweaverjapan.com/kenn/)
+  - [KENN Official website](https://web.archive.org/web/20080302124112/http://www.dreamweaverjapan.com/kenn/)
 
   - [KENN Official blog](http://ameblo.jp/kenn-blog/)
 
-  - [The NaB's Official
-    Site](https://web.archive.org/web/20070126141723/http://www.dreamweaverjapan.com/NaBs/)
+  - [The NaB's Official Site](https://web.archive.org/web/20070126141723/http://www.dreamweaverjapan.com/NaBs/)
 
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink")
-[Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
 1.
 

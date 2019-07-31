@@ -2,52 +2,36 @@
 
 ## 簡介
 
-  - 與前作《[SAKURA
-    Drops/Letters](https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters "wikilink")》相隔約半年、新婚後首張單曲。本作發行後進行為期約1年的充電期。
+  - 與前作《[SAKURA Drops/Letters](https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters "wikilink")》相隔約半年、新婚後首張單曲。本作發行後進行為期約1年的充電期。
   - 歌曲是在與當時先的丈夫[紀里谷和明](../Page/紀里谷和明.md "wikilink")在[法國渡蜜月時寫下的](https://zh.wikipedia.org/wiki/法國 "wikilink")，其本人稱在製作這首歌最用心的地方是開頭、間奏和結尾。
   - 在電視節目與演唱會演唱本作時都有降調的習慣，這是因為在製作歌曲時就是以降調後的為原型，後來按受建議才決定把CD版本的歌曲升調。其本人在作品封面親手寫上的[和弦](../Page/和弦.md "wikilink")便是歌曲原來降調的狀態。
-  - c/w曲《Simple And
-    Clean》為《[光](../Page/光_\(宇多田光單曲\).md "wikilink")》的英語版本，也是遊戲「[王國之心](https://zh.wikipedia.org/wiki/王國之心 "wikilink")」全球版的主題曲。歌曲的副歌開頭旋律跟日語版本的《光》有所不同，這是因為其本人在製作《光》的時候覺得歌詞與旋律不夠契合，因此決定重寫另一段旋律使用。而原先的旋律則分別用在《Simple
-    And Clean》跟《[謊言般的I Love
-    You](../Page/DEEP_RIVER.md "wikilink")》裡，因此這兩首歌副歌開頭的旋律是完全一致的。
+  - c/w曲《Simple And Clean》為《[光](../Page/光_\(宇多田光單曲\).md "wikilink")》的英語版本，也是遊戲「[王國之心](https://zh.wikipedia.org/wiki/王國之心 "wikilink")」全球版的主題曲。歌曲的副歌開頭旋律跟日語版本的《光》有所不同，這是因為其本人在製作《光》的時候覺得歌詞與旋律不夠契合，因此決定重寫另一段旋律使用。而原先的旋律則分別用在《Simple And Clean》跟《[謊言般的I Love You](../Page/DEEP_RIVER.md "wikilink")》裡，因此這兩首歌副歌開頭的旋律是完全一致的。
   - 發售形態為[增強型CD](https://zh.wikipedia.org/wiki/增強型CD "wikilink")，收錄了以往的官方[螢幕保護裝置](../Page/螢幕保護裝置.md "wikilink")以及本作的新螢幕保護裝置。
-  - [TOYOTA](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")「WiSH」使用的歌曲交響純音樂版本「COLORS
-    -Orchestra Version-」收錄於合輯《Beautiful Drivin' Classic Wish》中。
+  - [TOYOTA](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")「WiSH」使用的歌曲交響純音樂版本「COLORS -Orchestra Version-」收錄於合輯《Beautiful Drivin' Classic Wish》中。
 
 ## 商業成績
 
-  - 發行首週以超過43萬張的銷量登上[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1位，成為其自《[traveling](https://zh.wikipedia.org/wiki/traveling_\(單曲\) "wikilink")》以來連續第4首冠軍單曲，同時繼前作《[SAKURA
-    Drops/Letters](https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters "wikilink")》連續兩作首週銷量突破40萬張。
+  - 發行首週以超過43萬張的銷量登上[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1位，成為其自《[traveling](https://zh.wikipedia.org/wiki/traveling_\(單曲\) "wikilink")》以來連續第4首冠軍單曲，同時繼前作《[SAKURA Drops/Letters](https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters "wikilink")》連續兩作首週銷量突破40萬張。
   - 次週再以約14萬張的銷量蟬聯公信榜冠單位置，同時僅憑兩週的銷量登上當時年間冠軍位置。第三週賣出約10萬張的銷量，並以超過67萬張的累計銷量登上2月度月間冠軍位置。
   - 年間累計銷量超過88萬張，成為2003年度年間第3單曲，僅落後於[SMAP](../Page/SMAP.md "wikilink")的《[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")》及[福山雅治](../Page/福山雅治.md "wikilink")的《》。
-  - 總銷量超過89萬張，成為自《[Can You Keep A
-    Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")》後自身銷量最高的單曲，並獲[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為百萬唱片。手機全曲下載亦獲認證為金唱片。
-  - 公信榜在榜週數達45週，與《[Flavor Of
-    Life](../Page/Flavor_Of_Life.md "wikilink")》一同為其在榜週數最長的單曲。
+  - 總銷量超過89萬張，成為自《[Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")》後自身銷量最高的單曲，並獲[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為百萬唱片。手機全曲下載亦獲認證為金唱片。
+  - 公信榜在榜週數達45週，與《[Flavor Of Life](../Page/Flavor_Of_Life.md "wikilink")》一同為其在榜週數最長的單曲。
 
 ## 曲目
 
 ## 電視演出
 
   - 2003年1月12日 [CDTV](https://zh.wikipedia.org/wiki/CDTV "wikilink")
-  - 2003年1月29日
-    [Viewsic](https://zh.wikipedia.org/wiki/Viewsic "wikilink")
-  - 2003年1月31日 [Music
-    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")
-  - 2003年2月5日 [Sokuhou Uta no
-    Daijiten](https://zh.wikipedia.org/wiki/Sokuhou_Uta_no_Daijiten "wikilink")
-  - 2003年2月6日 [Ax Music
-    TV](https://zh.wikipedia.org/wiki/Ax_Music_TV "wikilink")
-  - 2003年2月8日 [Pop
-    Jam](https://zh.wikipedia.org/wiki/Pop_Jam "wikilink")
+  - 2003年1月29日 [Viewsic](https://zh.wikipedia.org/wiki/Viewsic "wikilink")
+  - 2003年1月31日 [Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")
+  - 2003年2月5日 [Sokuhou Uta no Daijiten](https://zh.wikipedia.org/wiki/Sokuhou_Uta_no_Daijiten "wikilink")
+  - 2003年2月6日 [Ax Music TV](https://zh.wikipedia.org/wiki/Ax_Music_TV "wikilink")
+  - 2003年2月8日 [Pop Jam](https://zh.wikipedia.org/wiki/Pop_Jam "wikilink")
   - 2003年2月8日 [CDTV](https://zh.wikipedia.org/wiki/CDTV "wikilink")
   - 2003年2月13日 [Utaban](https://zh.wikipedia.org/wiki/Utaban "wikilink")
-  - 2003年2月17日 [HEY\! HEY\!
-    HEY\!](https://zh.wikipedia.org/wiki/HEY!_HEY!_HEY! "wikilink")
-  - 2003年3月3日
-    [SMAPxSMAP](https://zh.wikipedia.org/wiki/SMAPxSMAP "wikilink")
-  - 2003年12月17日 [Asahi
-    Special](https://zh.wikipedia.org/wiki/Asahi_Special "wikilink")
+  - 2003年2月17日 [HEY\! HEY\! HEY\!](https://zh.wikipedia.org/wiki/HEY!_HEY!_HEY! "wikilink")
+  - 2003年3月3日 [SMAPxSMAP](https://zh.wikipedia.org/wiki/SMAPxSMAP "wikilink")
+  - 2003年12月17日 [Asahi Special](https://zh.wikipedia.org/wiki/Asahi_Special "wikilink")
 
 ## 製作名單
 
@@ -90,8 +74,7 @@
 
 ### 簡介
 
-  - 有別於她當時大部份PV均由其前夫[紀里谷和明](../Page/紀里谷和明.md "wikilink")拍攝的慣例，本作是由外國導演Donald
-    Cameron所拍攝。
+  - 有別於她當時大部份PV均由其前夫[紀里谷和明](../Page/紀里谷和明.md "wikilink")拍攝的慣例，本作是由外國導演Donald Cameron所拍攝。
   - 本作封面是借用PV其中的一幕。
 
 ### 收錄內容
@@ -100,18 +83,7 @@
 
 ## 外部連結
 
-  - [Utada Hikaru's Website](http://www.emimusic.jp/hikki/) — Official
-    EMI Music website
-  - [The Colors
-    Fanlisting](https://web.archive.org/web/20070928034210/http://caged-child.net/dreams/extras)
-    — Includes further information about the song and PV
+  - [Utada Hikaru's Website](http://www.emimusic.jp/hikki/) — Official EMI Music website
+  - [The Colors Fanlisting](https://web.archive.org/web/20070928034210/http://caged-child.net/dreams/extras) — Includes further information about the song and PV
 
-[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink")
-[Category:宇多田光影像作品](https://zh.wikipedia.org/wiki/Category:宇多田光影像作品 "wikilink")
-[Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
-[Category:2003年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2003年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:顏色題材樂曲](https://zh.wikipedia.org/wiki/Category:顏色題材樂曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")
+[Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink") [Category:宇多田光影像作品](https://zh.wikipedia.org/wiki/Category:宇多田光影像作品 "wikilink") [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:2003年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon單曲月榜冠軍作品 "wikilink") [Category:2003年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon單曲週榜冠軍作品 "wikilink") [Category:顏色題材樂曲](https://zh.wikipedia.org/wiki/Category:顏色題材樂曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")

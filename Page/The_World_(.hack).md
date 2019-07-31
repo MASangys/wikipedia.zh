@@ -1,24 +1,16 @@
-**The
-World**—是舞台[.hack中的](https://zh.wikipedia.org/wiki/.hack "wikilink")[架空](https://zh.wikipedia.org/wiki/架空世界 "wikilink")[網絡遊戲](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")。是架空的作業系統「Altimit
-OS」的遊戲。 由[Cyber Connect
-Corporation](https://zh.wikipedia.org/wiki/Cyber_Connect_Corporation "wikilink")（後稱「CC社」）所發售的[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。是「Pluto
-Kiss（後述）」發生後第一款網絡遊戲。使用頭戴式顯視器(FMD)和控制器就可以進入**The World**遊玩。
+**The World**—是舞台[.hack中的](https://zh.wikipedia.org/wiki/.hack "wikilink")[架空](https://zh.wikipedia.org/wiki/架空世界 "wikilink")[網絡遊戲](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")。是架空的作業系統「Altimit OS」的遊戲。 由[Cyber Connect Corporation](https://zh.wikipedia.org/wiki/Cyber_Connect_Corporation "wikilink")（後稱「CC社」）所發售的[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。是「Pluto Kiss（後述）」發生後第一款網絡遊戲。使用頭戴式顯視器(FMD)和控制器就可以進入**The World**遊玩。
 
 ## 概要
 
   -
-    The
-    World是以**艾瑪．威藍特**的[敘事詩](https://zh.wikipedia.org/wiki/敘事詩 "wikilink")「**[黄昏的碑文](https://zh.wikipedia.org/wiki/#黄昏的碑文 "wikilink")**」的斷作為世界觀，由**哈洛爾德．修伊**製作的網絡遊戲。大致可分為：
+    The World是以**艾瑪．威藍特**的[敘事詩](https://zh.wikipedia.org/wiki/敘事詩 "wikilink")「**[黄昏的碑文](https://zh.wikipedia.org/wiki/#黄昏的碑文 "wikilink")**」的斷作為世界觀，由**哈洛爾德．修伊**製作的網絡遊戲。大致可分為：
 
 <!-- end list -->
 
   - [fragment](https://zh.wikipedia.org/wiki/#fragment "wikilink")
-  - [The World
-    R:1](https://zh.wikipedia.org/wiki/#The_World_R:1 "wikilink")
-  - [The World
-    R:2](https://zh.wikipedia.org/wiki/#The_World_R:2 "wikilink")
-  - [The World
-    R:X](https://zh.wikipedia.org/wiki/#The_World_R:X "wikilink")
+  - [The World R:1](https://zh.wikipedia.org/wiki/#The_World_R:1 "wikilink")
+  - [The World R:2](https://zh.wikipedia.org/wiki/#The_World_R:2 "wikilink")
+  - [The World R:X](https://zh.wikipedia.org/wiki/#The_World_R:X "wikilink")
 
 <!-- end list -->
 
@@ -60,8 +52,7 @@ Kiss（後述）」發生後第一款網絡遊戲。使用頭戴式顯視器(FMD
     2007年5月，測試版fragment運行，公測玩家共1024人，原定測試期為6個月，後改為3個月。
     2007年12月24日，正式版「The World」發售。至2008年中，利用者達2000萬人以上。
     運為期為2007年至2015年，其後CC社總公司發生火災，導致在伺服器的資料受損，決定遷移至R:2。
-    於2015年12月24日發表處於計畫階段「The World
-    R:2」，於2016年。因無法繼承R:1的資料，導致大量舊玩家流失，雖有大量新玩家加入，但規模減少至1200萬人以上，遊戲氣氛也大大改變。
+    於2015年12月24日發表處於計畫階段「The World R:2」，於2016年。因無法繼承R:1的資料，導致大量舊玩家流失，雖有大量新玩家加入，但規模減少至1200萬人以上，遊戲氣氛也大大改變。
     為了將處於計畫階段盡快上市，在運營初期時有不少bug。
     於2018年停止營運。停止營運原因不明。
     於2020年公開「The World R:X」
@@ -69,8 +60,7 @@ Kiss（後述）」發生後第一款網絡遊戲。使用頭戴式顯視器(FMD
 ## 黄昏的碑文
 
   -
-    『黄昏的碑文』，正式名稱是——英語為「epitaph of the twilight」；德語為「Epitaph der
-    Dammerung」，為艾瑪.維蘭德創作的長篇網絡敘事詩歌，原文為德語。
+    『黄昏的碑文』，正式名稱是——英語為「epitaph of the twilight」；德語為「Epitaph der Dammerung」，為艾瑪.維蘭德創作的長篇網絡敘事詩歌，原文為德語。
     碑文轉載於艾瑪的個人互聯網主頁上，無論是誰都能免費觀看。但在之後不久因受到「**冥王之吻**」事件的影響而消失。在艾瑪的個人主頁上因添加了防拷貝系統（右鍵點擊拷貝.保存等指令被禁止)而由外部的熱心讀者以手寫的方式遺留下了一部分——BBS上的則盡數消失。以片段的詞句表示。
 
 《黃昏的碑文》00
@@ -158,8 +148,7 @@ Kiss（後述）」發生後第一款網絡遊戲。使用頭戴式顯視器(FMD
     <span style="color: Aqua">黑暗女王黑爾芭終於舉兵，</span>
     <span style="color: Aqua">光明之王亞培隆起而呼應，</span>
     <span style="color: Aqua">兩者皆望見彩虹一端，</span>
-    <span style="color: Aqua">並聯手抵抗可憎之「波」。</span>(註：在小說.hack//ANOTHER
-    BIRTH中威茲曼寄來的其中一份碑文郵件就是淺藍色的這段)
+    <span style="color: Aqua">並聯手抵抗可憎之「波」。</span>(註：在小說.hack//ANOTHER BIRTH中威茲曼寄來的其中一份碑文郵件就是淺藍色的這段)
 
 《黃昏的碑文》(米亞的話)
 
@@ -215,25 +204,15 @@ Kiss（後述）」發生後第一款網絡遊戲。使用頭戴式顯視器(FMD
 
 ### 以此為舞台的作品
 
-  - [.hack//AI
-    buster](https://zh.wikipedia.org/wiki/.hack/AI_buster "wikilink")（小說）
-    - 2007年
-  - [.hack//SIGN](https://zh.wikipedia.org/wiki/.hack/SIGN "wikilink")（動畫）
-    - 2009年
-  - [.hack//ZERO](https://zh.wikipedia.org/wiki/.hack/ZERO "wikilink")（小説）
-    - 2009年
+  - [.hack//AI buster](https://zh.wikipedia.org/wiki/.hack/AI_buster "wikilink")（小說） - 2007年
+  - [.hack//SIGN](https://zh.wikipedia.org/wiki/.hack/SIGN "wikilink")（動畫） - 2009年
+  - [.hack//ZERO](https://zh.wikipedia.org/wiki/.hack/ZERO "wikilink")（小説） - 2009年
   - [.hack](../Page/.hack_\(遊戲\).md "wikilink")（第1期PS2遊戲） - 2010年
-  - [.hack//Liminality](https://zh.wikipedia.org/wiki/.hack/Liminality "wikilink")（動畫）
-    - 2010年
-  - [.hack//XXXX](https://zh.wikipedia.org/wiki/.hack/XXXX "wikilink")（漫畫）
-    - 2010年
-  - [.hack//Another Birth
-    另一誕生](https://zh.wikipedia.org/wiki/.hack/Another_Birth_另一誕生 "wikilink")（小說）
-    - 2010年
-  - [.hack//GIFT](https://zh.wikipedia.org/wiki/.hack/GIFT "wikilink")（動畫）
-    - 2010年（遊戲之後）
-  - [.hack//黄昏的腕輪傳說](https://zh.wikipedia.org/wiki/.hack/黄昏的腕輪傳說 "wikilink")（漫畫・動畫）
-    - 2014年
+  - [.hack//Liminality](https://zh.wikipedia.org/wiki/.hack/Liminality "wikilink")（動畫） - 2010年
+  - [.hack//XXXX](https://zh.wikipedia.org/wiki/.hack/XXXX "wikilink")（漫畫） - 2010年
+  - [.hack//Another Birth 另一誕生](https://zh.wikipedia.org/wiki/.hack/Another_Birth_另一誕生 "wikilink")（小說） - 2010年
+  - [.hack//GIFT](https://zh.wikipedia.org/wiki/.hack/GIFT "wikilink")（動畫） - 2010年（遊戲之後）
+  - [.hack//黄昏的腕輪傳說](https://zh.wikipedia.org/wiki/.hack/黄昏的腕輪傳說 "wikilink")（漫畫・動畫） - 2014年
 
 ## The World R:2
 
@@ -286,34 +265,22 @@ Kiss（後述）」發生後第一款網絡遊戲。使用頭戴式顯視器(FMD
 
 ### 以此為舞台的作品
 
-  - [.hack//Roots](https://zh.wikipedia.org/wiki/.hack/Roots "wikilink")（動畫）
-    - 2017年（遊戲前的8個月）
-  - [.hack//Alcor](https://zh.wikipedia.org/wiki/.hack/Alcor "wikilink")（小說）
-    - 2017年（Roots後半至遊戲中期）
-  - [.hack//CELL](https://zh.wikipedia.org/wiki/.hack/CELL "wikilink")（小說）
-    - 2017年（Roots後半至遊戲中期）
-  - [.hack//G.U.](https://zh.wikipedia.org/wiki/.hack/G.U._\(遊戲\) "wikilink")（PS2遊戲）
-    - 2017年
-  - [.hack//G.U.+](https://zh.wikipedia.org/wiki/.hack/G.U.+ "wikilink")（漫畫）
-    - 2017年
-  - [.hack//G.U.](https://zh.wikipedia.org/wiki/.hack/G.U._\(小說\) "wikilink")（小說）
-    - 2017年
-  - [.hack//GnU](https://zh.wikipedia.org/wiki/.hack/GnU "wikilink")（漫畫）
-    - 2017年
+  - [.hack//Roots](https://zh.wikipedia.org/wiki/.hack/Roots "wikilink")（動畫） - 2017年（遊戲前的8個月）
+  - [.hack//Alcor](https://zh.wikipedia.org/wiki/.hack/Alcor "wikilink")（小說） - 2017年（Roots後半至遊戲中期）
+  - [.hack//CELL](https://zh.wikipedia.org/wiki/.hack/CELL "wikilink")（小說） - 2017年（Roots後半至遊戲中期）
+  - [.hack//G.U.](https://zh.wikipedia.org/wiki/.hack/G.U._\(遊戲\) "wikilink")（PS2遊戲） - 2017年
+  - [.hack//G.U.+](https://zh.wikipedia.org/wiki/.hack/G.U.+ "wikilink")（漫畫） - 2017年
+  - [.hack//G.U.](https://zh.wikipedia.org/wiki/.hack/G.U._\(小說\) "wikilink")（小說） - 2017年
+  - [.hack//GnU](https://zh.wikipedia.org/wiki/.hack/GnU "wikilink")（漫畫） - 2017年
 
 ## The World R:X
 
 ### 以此為舞台的作品
 
-  - [.hack//Link](https://zh.wikipedia.org/wiki/.hack/Link "wikilink")（PSP遊戲)）
-    - 2020年
-  - [.hack//LINK
-    黄昏騎士團](https://zh.wikipedia.org/wiki/.hack/Link "wikilink")（漫畫）
-    - 2020年
-  - [.hack//Quantum](https://zh.wikipedia.org/wiki/.hack/Quantum "wikilink")（動畫）
-    - 2022年
+  - [.hack//Link](https://zh.wikipedia.org/wiki/.hack/Link "wikilink")（PSP遊戲)） - 2020年
+  - [.hack//LINK 黄昏騎士團](https://zh.wikipedia.org/wiki/.hack/Link "wikilink")（漫畫） - 2020年
+  - [.hack//Quantum](https://zh.wikipedia.org/wiki/.hack/Quantum "wikilink")（動畫） - 2022年
 
 {{.hack}}
 
-[Category:.hack系列](https://zh.wikipedia.org/wiki/Category:.hack系列 "wikilink")
-[Category:虛構電子遊戲](https://zh.wikipedia.org/wiki/Category:虛構電子遊戲 "wikilink")
+[Category:.hack系列](https://zh.wikipedia.org/wiki/Category:.hack系列 "wikilink") [Category:虛構電子遊戲](https://zh.wikipedia.org/wiki/Category:虛構電子遊戲 "wikilink")

@@ -42,12 +42,9 @@ MSFC制造了前三个测试体（S-IC-T、S-IC-S、S-IC-F）和前两个实际�
 
 ## 组件
 
-[SaturnV_S-IC.jpg](https://zh.wikipedia.org/wiki/File:SaturnV_S-IC.jpg "fig:SaturnV_S-IC.jpg")
-S-IC上最大最重的部件是推力受力结构，重达21吨，它将五台发动机的推力均匀地分配给箭体。箭体上四个4.3米长，816kg重的稳定锚定是美国当时制造的最大铝制品，这四个锚定可承受1100
-°C高温。
+[SaturnV_S-IC.jpg](https://zh.wikipedia.org/wiki/File:SaturnV_S-IC.jpg "fig:SaturnV_S-IC.jpg") S-IC上最大最重的部件是推力受力结构，重达21吨，它将五台发动机的推力均匀地分配给箭体。箭体上四个4.3米长，816kg重的稳定锚定是美国当时制造的最大铝制品，这四个锚定可承受1100 °C高温。
 
-[apmisc-MSFC-6870792.jpg](https://zh.wikipedia.org/wiki/File:apmisc-MSFC-6870792.jpg "fig:apmisc-MSFC-6870792.jpg")
-受力结构之上是燃料箱，装有770,000升精炼煤油。燃料箱自重11吨，每秒可放出7300升燃料。火箭发射前，不断有[氮气通入燃料箱保持燃料混合](https://zh.wikipedia.org/wiki/氮气 "wikilink")。起飞后，由液氧箱上的氦气箱提供供液压力。
+[apmisc-MSFC-6870792.jpg](https://zh.wikipedia.org/wiki/File:apmisc-MSFC-6870792.jpg "fig:apmisc-MSFC-6870792.jpg") 受力结构之上是燃料箱，装有770,000升精炼煤油。燃料箱自重11吨，每秒可放出7300升燃料。火箭发射前，不断有[氮气通入燃料箱保持燃料混合](https://zh.wikipedia.org/wiki/氮气 "wikilink")。起飞后，由液氧箱上的氦气箱提供供液压力。
 
 液氧箱装有1,204,000升液氧，液氧箱到发动机的输送管道是直的，且贯穿燃料箱，设计师为此采取了必要的隔热措施。
 
@@ -214,8 +211,7 @@ S-IC上最大最重的部件是推力受力结构，重达21吨，它将五台�
   - [土星五号参数](http://www.apollosaturn.com/)
   - [YouTube上S-IC的静态试车](http://www.youtube.com/watch?v=f3sVuFjJlp4)
 
-[Category:阿波罗计划](https://zh.wikipedia.org/wiki/Category:阿波罗计划 "wikilink")
-[Category:火箭级](https://zh.wikipedia.org/wiki/Category:火箭级 "wikilink")
+[Category:阿波罗计划](https://zh.wikipedia.org/wiki/Category:阿波罗计划 "wikilink") [Category:火箭级](https://zh.wikipedia.org/wiki/Category:火箭级 "wikilink")
 
 1.  即先关一台，再关四台
 2.  先关一台，再关两台，然后再关两台

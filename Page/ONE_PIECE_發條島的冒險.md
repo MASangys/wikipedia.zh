@@ -1,5 +1,4 @@
-《**ONE PIECE 發條島大冒險**》是於2001年上映的第二部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。[中國中央電視台電影頻道](https://zh.wikipedia.org/wiki/中國中央電視台電影頻道 "wikilink")（CCTV-6）亦曾引進並於2011年8月9日下午14:25分首播。
+《**ONE PIECE 發條島大冒險**》是於2001年上映的第二部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。[中國中央電視台電影頻道](https://zh.wikipedia.org/wiki/中國中央電視台電影頻道 "wikilink")（CCTV-6）亦曾引進並於2011年8月9日下午14:25分首播。
 
 ## 劇情
 
@@ -104,8 +103,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 ## 音樂
 
   - 「Believe」
-    作詞：谷穂ちろる；作曲・編曲：GROOVE
-    SURFERS；歌：[Folder5](https://zh.wikipedia.org/wiki/Folder5 "wikilink")
+    作詞：谷穂ちろる；作曲・編曲：GROOVE SURFERS；歌：[Folder5](https://zh.wikipedia.org/wiki/Folder5 "wikilink")
   - 「Ready\!」
     作詞：C.CLOSE；作曲・編曲：CROOVE SURFERS；歌：Folder5
 
@@ -121,12 +119,9 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 
 </div>
 
-[ru:Список анимационных фильмов о One Piece\#Фильм
-второй](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_второй "wikilink")
+[ru:Список анимационных фильмов о One Piece\#Фильм второй](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_второй "wikilink")
 
-[Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink")
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2001年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2001年日本劇場動畫 "wikilink")
+[Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink") [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2001年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2001年日本劇場動畫 "wikilink")
 
 1.  劇場版第9部有提及。
 

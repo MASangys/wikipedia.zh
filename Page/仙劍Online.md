@@ -319,8 +319,7 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    2009年2月24日，游戏更新后，玩家每天达到一定打怪上限后，会获得一个“无收益状态”。在此状态下无法获得打怪经验值、掉落物（不含任务道具）、掉落金钱。
-    此状态是必须等到次日6点才能取消。\[6\]此举引发诸多争议，玩家普遍认为此举为久游限制外挂的相关举动。\[7\]
+    2009年2月24日，游戏更新后，玩家每天达到一定打怪上限后，会获得一个“无收益状态”。在此状态下无法获得打怪经验值、掉落物（不含任务道具）、掉落金钱。 此状态是必须等到次日6点才能取消。\[6\]此举引发诸多争议，玩家普遍认为此举为久游限制外挂的相关举动。\[7\]
 
 <!-- end list -->
 
@@ -341,8 +340,7 @@ PVE服务器：彩衣</p></td>
   -
     2009年3月1日，仙剑ol道具管理再次被发现存在巨大BUG。玩家在通过“杭州城”3城区的“传送门”时寄卖物品，寄卖物品将不会从行囊中扣除。于是大量玩家通过此漏洞复制包括玄石、冲装券、经验袋等重要物品。
     由于久游并未及时关闭游戏服务器并进行回档处理，至使包含诸多VIP区在内的“世界”完全混乱。依靠“复制品”，不少玩家在“世界”中开始疯狂“屠杀”。
-    对于玩家投诉，久游公司一律采用“机器人式”回答；对于官方论坛中言辞较为犀利的帖子（包括转载的相关媒体报道，如：3月4日[京华时报](../Page/京华时报.md "wikilink")：《<仙剑OL>公测引发玩家投诉潮
-    测试协议含“霸王条款” 玩家权益难保障？》\[10\]），久游一律予以删除。坊间曾一度传言：久游拟放弃仙剑OL。\[11\]
+    对于玩家投诉，久游公司一律采用“机器人式”回答；对于官方论坛中言辞较为犀利的帖子（包括转载的相关媒体报道，如：3月4日[京华时报](../Page/京华时报.md "wikilink")：《<仙剑OL>公测引发玩家投诉潮 测试协议含“霸王条款” 玩家权益难保障？》\[10\]），久游一律予以删除。坊间曾一度传言：久游拟放弃仙剑OL。\[11\]
     3月6日，久游首次对此事件发表官方声明。\[12\]除表示游戏漏洞已被修复外，声明中仍未涉及“复制”问题的处理意见。而不少玩家表示由于失去信心已删号走人。\[13\]
 
 <!-- end list -->
@@ -379,11 +377,7 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    2009年4月9日，仙剑OL[台港澳地区开始封测](https://zh.wikipedia.org/wiki/台港澳 "wikilink")，[遊戲新幹線](../Page/遊戲新幹線.md "wikilink")也正式釋出《仙劍Online》30秒電視廣告版，搶先在網路上放映
-    30
-    秒版本[蝶戀](http://www.youtube.com/watch?v=4RJ4BCF4vgs)的感人情節。此外，藝人[黃韻玲](../Page/黃韻玲.md "wikilink")與[林俊逸為](https://zh.wikipedia.org/wiki/林俊逸 "wikilink")《仙劍Online》所演唱主題曲《[蝶戀](http://www.youtube.com/watch?v=FYlG7ujWc1c)》也同步於
-    [Pixnet](https://zh.wikipedia.org/wiki/Pixnet "wikilink")
-    [痞客幫上首度播映](../Page/痞客邦.md "wikilink")。
+    2009年4月9日，仙剑OL[台港澳地区开始封测](https://zh.wikipedia.org/wiki/台港澳 "wikilink")，[遊戲新幹線](../Page/遊戲新幹線.md "wikilink")也正式釋出《仙劍Online》30秒電視廣告版，搶先在網路上放映 30 秒版本[蝶戀](http://www.youtube.com/watch?v=4RJ4BCF4vgs)的感人情節。此外，藝人[黃韻玲](../Page/黃韻玲.md "wikilink")與[林俊逸為](https://zh.wikipedia.org/wiki/林俊逸 "wikilink")《仙劍Online》所演唱主題曲《[蝶戀](http://www.youtube.com/watch?v=FYlG7ujWc1c)》也同步於 [Pixnet](https://zh.wikipedia.org/wiki/Pixnet "wikilink") [痞客幫上首度播映](../Page/痞客邦.md "wikilink")。
 
 <!-- end list -->
 
@@ -392,8 +386,7 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    2010年1月7日，在[蘋果日報的報導中提及](https://zh.wikipedia.org/wiki/蘋果日報台灣版 "wikilink")**仙劍Online**將於1月底推出仙劍2.0改版。\[16\]其後遊戲新幹線更釋出[仙劍2.0
-    Online改版專區](https://zh.wikipedia.org/wiki/仙劍2.0_Online "wikilink")，\[17\]包含了轉生系統，幻化系統，二轉御靈等重大內容更新。
+    2010年1月7日，在[蘋果日報的報導中提及](https://zh.wikipedia.org/wiki/蘋果日報台灣版 "wikilink")**仙劍Online**將於1月底推出仙劍2.0改版。\[16\]其後遊戲新幹線更釋出[仙劍2.0 Online改版專區](https://zh.wikipedia.org/wiki/仙劍2.0_Online "wikilink")，\[17\]包含了轉生系統，幻化系統，二轉御靈等重大內容更新。
 
 <!-- end list -->
 
@@ -411,8 +404,7 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    2011年4月15日，大宇資訊公布仙劍Online在星馬地區開始封測，並預載2.0版本\[19\]，由[馬來西亞CiB](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")
-    Net公司代理。\[20\]
+    2011年4月15日，大宇資訊公布仙劍Online在星馬地區開始封測，並預載2.0版本\[19\]，由[馬來西亞CiB](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink") Net公司代理。\[20\]
 
 <!-- end list -->
 
@@ -445,56 +437,39 @@ PVE服务器：彩衣</p></td>
 
   - [马来西亚官方网站](https://archive.is/20110418004306/http://cpo.cibmall.net/index.html)
 
-[Category:仙剑奇侠传系列电子游戏](https://zh.wikipedia.org/wiki/Category:仙剑奇侠传系列电子游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:久游网游戏](https://zh.wikipedia.org/wiki/Category:久游网游戏 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
+[Category:仙剑奇侠传系列电子游戏](https://zh.wikipedia.org/wiki/Category:仙剑奇侠传系列电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:久游网游戏](https://zh.wikipedia.org/wiki/Category:久游网游戏 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
 
 1.  用作每日活动场地的峨眉峰地图未作更新。
 
 2.
 3.  [巴哈姆特新聞2010.02.02：GAMESTAR票選結果出爐](http://gnn.gamer.com.tw/3/42153.html)
 
-4.  [遊戲基地新聞2010.02.02：2009
-    數位內容競賽頒獎典禮](http://www.gamebase.com.tw/news/news_content.php?sno=88398209)
+4.  [遊戲基地新聞2010.02.02：2009 數位內容競賽頒獎典禮](http://www.gamebase.com.tw/news/news_content.php?sno=88398209)
 
 5.  [久游公司骗取仙剑Online玩家购买CD-KEY有涉嫌欺诈行为](http://www.315ts.net/archive/tousu/2009/0116/291141.shtml)2009-01-16
 
-6.  [久游仙剑OL官方网游论坛-官方“无收益”问题解答](http://bbs.9you.com/index.jsp?bbs=6&type=Forum&id=8711)
-    2009.2.25
+6.  [久游仙剑OL官方网游论坛-官方“无收益”问题解答](http://bbs.9you.com/index.jsp?bbs=6&type=Forum&id=8711) 2009.2.25
 
-7.  [久游仙剑OL官方网游论坛](http://bbs.9you.com/index.jsp?bbs=6&type=Forum&id=8711)
-    每日更新
+7.  [久游仙剑OL官方网游论坛](http://bbs.9you.com/index.jsp?bbs=6&type=Forum&id=8711) 每日更新
 
-8.  [久游仙剑OL官方网游论坛-玩家申诉贴](http://bbs6.9you.com/viewThread.jsp?id=1qe8s4GdP)
-    09-02-24 23:40:06
+8.  [久游仙剑OL官方网游论坛-玩家申诉贴](http://bbs6.9you.com/viewThread.jsp?id=1qe8s4GdP) 09-02-24 23:40:06
 
-9.  [久游仙剑OL官方网游论坛-“玄石”问题的官方回复](http://bbs6.9you.com/viewThread.jsp?id=dODgx3quN)
-    2009-02-25
+9.  [久游仙剑OL官方网游论坛-“玄石”问题的官方回复](http://bbs6.9you.com/viewThread.jsp?id=dODgx3quN) 2009-02-25
 
-10. [《仙剑OL》公测引发玩家投诉潮-
-    京华时报·京华网](http://epaper.jinghua.cn/html/2009-03/04/content_397846.htm)
-     2009-3-4
+10. [《仙剑OL》公测引发玩家投诉潮- 京华时报·京华网](http://epaper.jinghua.cn/html/2009-03/04/content_397846.htm)  2009-3-4
 
 11.
-12. [久游网关于《仙剑OL》运营声明](http://gamenews.9you.com/html/art_pal/2009_03/06/CMGBZHFR6Z.html)
-    2009-3-6
+12. [久游网关于《仙剑OL》运营声明](http://gamenews.9you.com/html/art_pal/2009_03/06/CMGBZHFR6Z.html) 2009-3-6
 
 13.
 14.
 15.
-16. [1](http://tw.nextmedia.com/subapple/article/art_id/32214325/IssueID/20100107/sec_id/18)
-    見此篇新聞之仙劍Online部分。
+16. [1](http://tw.nextmedia.com/subapple/article/art_id/32214325/IssueID/20100107/sec_id/18) 見此篇新聞之仙劍Online部分。
 
 17.  仙劍2.0 Online改版專區首頁
 
 18. [仙劍online結束營運公告](http://cpo.gameflier.com/news/news.asp?CPO_NoticeType=notice&CPO_NoticeID=2360)
 
-
 19. 新马地区的2.0版本也包含在台港澳地区《女娲降临》版本内才有的“佛心礼”机制。
 
-20. [2](http://gnn.gamer.com.tw/1/52701.html) 《仙劍
-    Online》正式授權星、馬地區2.0版即將登場。
+20. [2](http://gnn.gamer.com.tw/1/52701.html) 《仙劍 Online》正式授權星、馬地區2.0版即將登場。

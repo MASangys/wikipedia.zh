@@ -18,8 +18,7 @@ A、B抗原主要表达在红细胞膜上，以糖蛋白或糖脂的形式，呈
 
 ### 亚型
 
-1930年，人们发现A抗原可以分为A1与A2两个亚型。目前已知，A型至少包括20个亚型，绝大多数是A1和A2（\>99%），其中A1的比例超过80%\[10\]。
-1980年以前，人们通常认为红细胞的ABH决定簇主要存在于鞘糖脂分子上，但是，1980年发表的几篇报道指出：糖脂与糖蛋白相比，在ABH抗原决定簇中仅扮演次要角色。红细胞上的多数ABH抗原都位于离子交换蛋、带3蛋白、葡萄糖转运蛋白以及带4.5蛋白的单个高度分枝的多聚N-乙酰氨基乳糖的N-型糖苷键上。
+1930年，人们发现A抗原可以分为A1与A2两个亚型。目前已知，A型至少包括20个亚型，绝大多数是A1和A2（\>99%），其中A1的比例超过80%\[10\]。 1980年以前，人们通常认为红细胞的ABH决定簇主要存在于鞘糖脂分子上，但是，1980年发表的几篇报道指出：糖脂与糖蛋白相比，在ABH抗原决定簇中仅扮演次要角色。红细胞上的多数ABH抗原都位于离子交换蛋、带3蛋白、葡萄糖转运蛋白以及带4.5蛋白的单个高度分枝的多聚N-乙酰氨基乳糖的N-型糖苷键上。
 
 ## 血清学
 
@@ -145,9 +144,7 @@ AB型 25%</p></td>
 
 #### *cis*-*AB*
 
-极少数人类个体的一条染色体中同时存在一个***cis*-*AB***基因，它编码的酶可以同时催化A抗原和B抗原的合成。*cis*-*AB*是从一个亲本遗传而来的，因此即便其基因型是*cisAB*
-/ *O*，也会表现为AB型，若与O型血的人（基因型*O* /
-*O*）生育，子女的血型可能是AB或O，而不像通常AB型血与O型血的父母只能有A或B型血的子女。
+极少数人类个体的一条染色体中同时存在一个***cis*-*AB***基因，它编码的酶可以同时催化A抗原和B抗原的合成。*cis*-*AB*是从一个亲本遗传而来的，因此即便其基因型是*cisAB* / *O*，也会表现为AB型，若与O型血的人（基因型*O* / *O*）生育，子女的血型可能是AB或O，而不像通常AB型血与O型血的父母只能有A或B型血的子女。
 
 ## ABO血型在人群中的分布
 
@@ -155,13 +152,11 @@ AB型 25%</p></td>
 
 ### 世界人群
 
-从世界角度来看，*I<sup>B</sup>*等位基因的频率最低，约为16%，在[中亚](../Page/中亚.md "wikilink")一带的阿爾泰民族最常见，而在美洲和[澳大利亚](../Page/澳大利亚.md "wikilink")原住民中最为罕见。*I<sup>A</sup>*等位基因较*I<sup>B</sup>*更为常见，约21%的世界人口携带*I<sup>A</sup>*，但相对高频率的区域比较分散，如北美印第安人黑脚族（30-35%），澳大利亚一些原住民族群（40-53%），[斯堪的納維亞地區北部的](https://zh.wikipedia.org/wiki/斯堪的納維亞地區 "wikilink")[拉普人](https://zh.wikipedia.org/wiki/拉普人 "wikilink")，或者[薩米人](https://zh.wikipedia.org/wiki/薩米人 "wikilink")（50－90%）等，而在中南美的印第安人中，*I<sup>A</sup>*几乎无分布。由于*I<sup>A</sup>*、*I<sup>B</sup>*两种等位基因型频率不高，O血型称为世界上最常見的血型，平均频率达63%，特别是在中南美洲印第安人中，O型血频率接近100%，O血型在澳大利亚原住民和[西歐人群](https://zh.wikipedia.org/wiki/西歐 "wikilink")（特别是[凯尔特人](../Page/凯尔特人.md "wikilink")）中也很常见，在[東歐和中亚的频率则相对较低](https://zh.wikipedia.org/wiki/東歐 "wikilink")。\[11\]
-A型在北欧西欧与日本、湖南最多。
+从世界角度来看，*I<sup>B</sup>*等位基因的频率最低，约为16%，在[中亚](../Page/中亚.md "wikilink")一带的阿爾泰民族最常见，而在美洲和[澳大利亚](../Page/澳大利亚.md "wikilink")原住民中最为罕见。*I<sup>A</sup>*等位基因较*I<sup>B</sup>*更为常见，约21%的世界人口携带*I<sup>A</sup>*，但相对高频率的区域比较分散，如北美印第安人黑脚族（30-35%），澳大利亚一些原住民族群（40-53%），[斯堪的納維亞地區北部的](https://zh.wikipedia.org/wiki/斯堪的納維亞地區 "wikilink")[拉普人](https://zh.wikipedia.org/wiki/拉普人 "wikilink")，或者[薩米人](https://zh.wikipedia.org/wiki/薩米人 "wikilink")（50－90%）等，而在中南美的印第安人中，*I<sup>A</sup>*几乎无分布。由于*I<sup>A</sup>*、*I<sup>B</sup>*两种等位基因型频率不高，O血型称为世界上最常見的血型，平均频率达63%，特别是在中南美洲印第安人中，O型血频率接近100%，O血型在澳大利亚原住民和[西歐人群](https://zh.wikipedia.org/wiki/西歐 "wikilink")（特别是[凯尔特人](../Page/凯尔特人.md "wikilink")）中也很常见，在[東歐和中亚的频率则相对较低](https://zh.wikipedia.org/wiki/東歐 "wikilink")。\[11\] A型在北欧西欧与日本、湖南最多。
 
 <center>
 
-<File:Map> of blood group a.gif|A型分布 <File:Map> of blood group
-b.gif|B型分布 <File:Map> of blood group o.gif|O型分布
+<File:Map> of blood group a.gif|A型分布 <File:Map> of blood group b.gif|B型分布 <File:Map> of blood group o.gif|O型分布
 
 </center>
 
@@ -171,9 +166,7 @@ b.gif|B型分布 <File:Map> of blood group o.gif|O型分布
 
 ## 参考文献
 
-[Category:血液](https://zh.wikipedia.org/wiki/Category:血液 "wikilink")
-[Category:血型系统](https://zh.wikipedia.org/wiki/Category:血型系统 "wikilink")
-[Category:人类血型系统](https://zh.wikipedia.org/wiki/Category:人类血型系统 "wikilink")
+[Category:血液](https://zh.wikipedia.org/wiki/Category:血液 "wikilink") [Category:血型系统](https://zh.wikipedia.org/wiki/Category:血型系统 "wikilink") [Category:人类血型系统](https://zh.wikipedia.org/wiki/Category:人类血型系统 "wikilink")
 
 1.
 2.
@@ -181,14 +174,8 @@ b.gif|B型分布 <File:Map> of blood group o.gif|O型分布
 4.
 5.
 6.
-7.  Morgan, W. T. J. & Watkins, W. M. Br. Med. Bull. 25, 30–34 (1969),
-    Watkins, W. M. in: *Advances in Human Genetics* Vol. 10 (eds Harris,
-    H. & Hirschhorn, K.) 1–136 (Plenum, New York, 1980), Watkins, W. M.
-    & Morgan, W. T. J. *Vox Sang.* 4, 97−119 (1959)
+7.  Morgan, W. T. J. & Watkins, W. M. Br. Med. Bull. 25, 30–34 (1969), Watkins, W. M. in: *Advances in Human Genetics* Vol. 10 (eds Harris, H. & Hirschhorn, K.) 1–136 (Plenum, New York, 1980), Watkins, W. M. & Morgan, W. T. J. *Vox Sang.* 4, 97−119 (1959)
 8.
 9.
-10. [Blood Group A
-    Suptypes](http://www.owenfoundation.com/Health_Science/Blood_Group_A_Subtypes.html)
-    ，The Owen Foundation, retrieved 2008-07-01.
-11. [Distribution of Blood
-    Types](http://anthro.palomar.edu/vary/vary_3.htm)
+10. [Blood Group A Suptypes](http://www.owenfoundation.com/Health_Science/Blood_Group_A_Subtypes.html) ，The Owen Foundation, retrieved 2008-07-01.
+11. [Distribution of Blood Types](http://anthro.palomar.edu/vary/vary_3.htm)

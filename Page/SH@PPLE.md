@@ -1,5 +1,4 @@
-是[竹岡葉月撰寫](https://zh.wikipedia.org/wiki/竹岡葉月 "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")作品。角川集團旗下的[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")出版，繁體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理。本作品已經漫畫化，由[ういらあくる作畫並在](https://zh.wikipedia.org/wiki/ういらあくる "wikilink")[角川書店](../Page/角川書店.md "wikilink")《[月刊Comp
-Ace](../Page/月刊Comp_Ace.md "wikilink")》連載。
+是[竹岡葉月撰寫](https://zh.wikipedia.org/wiki/竹岡葉月 "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")作品。角川集團旗下的[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")出版，繁體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理。本作品已經漫畫化，由[ういらあくる作畫並在](https://zh.wikipedia.org/wiki/ういらあくる "wikilink")[角川書店](../Page/角川書店.md "wikilink")《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》連載。
 
 ## 故事簡介
 
@@ -107,10 +106,4 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》連載。
 
   - SH@PPLE 雙子麗人 （2011年9月23日發行、ISBN 978-986-287-373-1）
 
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:2008年小說](https://zh.wikipedia.org/wiki/Category:2008年小說 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:愛情小說](https://zh.wikipedia.org/wiki/Category:愛情小說 "wikilink")
-[Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink")
-[Category:交換身分題材小說](https://zh.wikipedia.org/wiki/Category:交換身分題材小說 "wikilink")
+[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:2008年小說](https://zh.wikipedia.org/wiki/Category:2008年小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:愛情小說](https://zh.wikipedia.org/wiki/Category:愛情小說 "wikilink") [Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink") [Category:交換身分題材小說](https://zh.wikipedia.org/wiki/Category:交換身分題材小說 "wikilink")

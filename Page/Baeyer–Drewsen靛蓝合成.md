@@ -1,12 +1,10 @@
-**von
-Baeyer–Drewsen靛蓝合成**（冯·拜耳-德维森靛蓝合成），也被误称为“Baeyer–Drews<u>o</u>n靛蓝合成”
+**von Baeyer–Drewsen靛蓝合成**（冯·拜耳-德维森靛蓝合成），也被误称为“Baeyer–Drews<u>o</u>n靛蓝合成”
 
 [邻硝基苯甲醛](../Page/邻硝基苯甲醛.md "wikilink")与[丙酮](../Page/丙酮.md "wikilink")用稀[氢氧化钠](../Page/氢氧化钠.md "wikilink")水溶液处理得到[羟醛反应](../Page/羟醛反应.md "wikilink")产物，该产物在碱溶液中加热则转变为[靛蓝](../Page/靛蓝.md "wikilink")。\[1\]
 
 
 [Baeyer-Drewson_indigo_synthesis.svg](https://zh.wikipedia.org/wiki/File:Baeyer-Drewson_indigo_synthesis.svg "fig:Baeyer-Drewson_indigo_synthesis.svg")
-由[阿道夫·冯·拜尔](../Page/阿道夫·冯·拜尔.md "wikilink")（Adolf von Baeyer）与Viggo
-Drewsen于1882年发现。\[2\]
+由[阿道夫·冯·拜尔](../Page/阿道夫·冯·拜尔.md "wikilink")（Adolf von Baeyer）与Viggo Drewsen于1882年发现。\[2\]
 
 邻硝基苯甲醛可通过[邻硝基甲苯被](https://zh.wikipedia.org/wiki/邻硝基甲苯 "wikilink")[二氧化锰](../Page/二氧化锰.md "wikilink")氧化得到。丙酮也可被[丙酮酸](../Page/丙酮酸.md "wikilink")或[乙醛](../Page/乙醛.md "wikilink")所代替。
 
@@ -23,8 +21,7 @@ Drewsen于1882年发现。\[2\]
 
 ## 参考资料
 
-[Category:杂环合成反应](https://zh.wikipedia.org/wiki/Category:杂环合成反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:杂环合成反应](https://zh.wikipedia.org/wiki/Category:杂环合成反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

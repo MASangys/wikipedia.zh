@@ -18,8 +18,7 @@
 
   - （Palette、2018年4月27日）
 
-  - [Summer
-    Pockets](../Page/Summer_Pockets.md "wikilink")（）（[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、2018年6月29日）
+  - [Summer Pockets](../Page/Summer_Pockets.md "wikilink")（）（[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、2018年6月29日）
 
   - （Palette、2019年4月26日）
 
@@ -29,8 +28,7 @@
 
 <!-- end list -->
 
-  - [ef - a tale of
-    memories.第](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")7話預告插畫
+  - [ef - a tale of memories.第](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")7話預告插畫
   - [要聽爸爸的話第](https://zh.wikipedia.org/wiki/要聽爸爸的話 "wikilink")10話片尾插畫
   - [我的妹妹哪有這麼可愛。第2季第](../Page/我的妹妹哪有這麼可愛！_\(動畫\).md "wikilink")9話片尾插畫
   - [翠星上的加爾岡緹亞第](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")12話片尾插畫
@@ -52,6 +50,4 @@
   - [](http://yaplog.jp/tsubasu/)（部落格）
 
   -
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:電子遊戲繪圖及原畫家](https://zh.wikipedia.org/wiki/Category:電子遊戲繪圖及原畫家 "wikilink")
-[Category:岐阜縣出身人物](https://zh.wikipedia.org/wiki/Category:岐阜縣出身人物 "wikilink")
+[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:電子遊戲繪圖及原畫家](https://zh.wikipedia.org/wiki/Category:電子遊戲繪圖及原畫家 "wikilink") [Category:岐阜縣出身人物](https://zh.wikipedia.org/wiki/Category:岐阜縣出身人物 "wikilink")

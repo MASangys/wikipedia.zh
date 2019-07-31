@@ -74,38 +74,27 @@ KV2亦成為了早期帝王谷探險家，如[商博良等棲身的地方](https
 
 KV2並無受到河水氾濫的損陷，而陵墓內牆身上的圖案亦保存良好。
 
-埃及古物協會（Egyptian Antiquities Association）與埃及古物最高委員會（Supreme Council of
-Antiquities）目前負責填補墓內牆壁及天花板的裂縫及破洞、並清潔墓內的繪圖裝飾、設置燈光設備、木製通道及玻璃板。\[9\]
+埃及古物協會（Egyptian Antiquities Association）與埃及古物最高委員會（Supreme Council of Antiquities）目前負責填補墓內牆壁及天花板的裂縫及破洞、並清潔墓內的繪圖裝飾、設置燈光設備、木製通道及玻璃板。\[9\]
 
 ## 資料來源
 
 ## 參考書籍
 
-  - Reeves, N & Wilkinson, R.H. <cite>The Complete Valley of the
-    Kings</cite>, 2008, London: Thames and Hudson, ISBN
-    978-0-500-28403-2
-  - Siliotti, A. <cite>Guide to the Valley of the Kings and to the
-    Theban Necropolises and Temples</cite>, 1996, A.A. Gaddis, Cairo
+  - Reeves, N & Wilkinson, R.H. <cite>The Complete Valley of the Kings</cite>, 2008, London: Thames and Hudson, ISBN 978-0-500-28403-2
+  - Siliotti, A. <cite>Guide to the Valley of the Kings and to the Theban Necropolises and Temples</cite>, 1996, A.A. Gaddis, Cairo
 
 ## 外部連結
 
-  - [Egypt The Tomb of Ramesses IV, Valley of the Kings,
-    Egypt](http://www.touregypt.net/featurestories/ramesses4t.htm)
-  - [Theban Mapping Project:
-    KV2](https://web.archive.org/web/20080517022742/http://www.kv5.com/sites/browse_tomb_816.html)
+  - [Egypt The Tomb of Ramesses IV, Valley of the Kings, Egypt](http://www.touregypt.net/featurestories/ramesses4t.htm)
+  - [Theban Mapping Project: KV2](https://web.archive.org/web/20080517022742/http://www.kv5.com/sites/browse_tomb_816.html)
 
-[Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink")
-[Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
+[Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink") [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
 
-1.  Reeves, N & Wilkinson, R.H. (2008): The Complete Valley of the
-    Kings, P.163, London: Thames and Hudson, 2008. ISBN
-    978-0-500-28403-2
+1.  Reeves, N & Wilkinson, R.H. (2008): The Complete Valley of the Kings, P.163, London: Thames and Hudson, 2008. ISBN 978-0-500-28403-2
 
-2.  [Ramesses IV, the Beginning the Empire's
-    Collapse](http://www.touregypt.net/featurestories/ramessesiv.htm)
+2.  [Ramesses IV, the Beginning the Empire's Collapse](http://www.touregypt.net/featurestories/ramessesiv.htm)
 
-3.  [Egypt The Tomb of Ramesses IV, Valley of the Kings,
-    Egypt](http://www.touregypt.net/featurestories/ramesses4t.htm)
+3.  [Egypt The Tomb of Ramesses IV, Valley of the Kings, Egypt](http://www.touregypt.net/featurestories/ramesses4t.htm)
 
 4.
 5.

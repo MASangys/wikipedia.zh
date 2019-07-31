@@ -1,21 +1,12 @@
 《**K-ON！輕音部**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**-{K-ON\!}-**，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[kakifly创作的](https://zh.wikipedia.org/wiki/kakifly "wikilink")[四格漫画作品](https://zh.wikipedia.org/wiki/四格漫画 "wikilink")，後來被改編成為同名[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
-標題取日文“[輕音樂](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")”（）一詞的前面四個[平假名](../Page/平假名.md "wikilink")。漫畫自2007年5月開始在[芳文社](../Page/芳文社.md "wikilink")四格漫畫月刊《[Manga
-Time
-Kirara](../Page/Manga_Time_Kirara.md "wikilink")》上連載，並自2008年10月開始在芳文社雜誌《[Manga
-Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上隔月連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
+標題取日文“[輕音樂](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")”（）一詞的前面四個[平假名](../Page/平假名.md "wikilink")。漫畫自2007年5月開始在[芳文社](../Page/芳文社.md "wikilink")四格漫畫月刊《[Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》上連載，並自2008年10月開始在芳文社雜誌《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上隔月連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
 
-由[京都動畫](../Page/京都動畫.md "wikilink")製作的同名[電視動畫日本於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2009年4月播出，引起巨大的熱潮和經濟效應；[Animax](../Page/Animax.md "wikilink")在香港、台灣則分別於2010年3月9日、3月24日播出；台灣方面由樂團[旺福](../Page/旺福.md "wikilink")擔任[代言人](https://zh.wikipedia.org/wiki/代言人 "wikilink")。動畫第2季於2010年4月6日開始播出，標題改為《**-{K-ON\!\!}-**》（）。根據雜誌《[Manga
-Time
-Kirara](../Page/Manga_Time_Kirara.md "wikilink")》消息，單行本第四卷為漫畫最終卷，於2010年9月27日發售，漫畫與動畫一併完結。2010年9月29日在第2季播畢後發佈製作[劇場版的消息](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
+由[京都動畫](../Page/京都動畫.md "wikilink")製作的同名[電視動畫日本於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2009年4月播出，引起巨大的熱潮和經濟效應；[Animax](../Page/Animax.md "wikilink")在香港、台灣則分別於2010年3月9日、3月24日播出；台灣方面由樂團[旺福](../Page/旺福.md "wikilink")擔任[代言人](https://zh.wikipedia.org/wiki/代言人 "wikilink")。動畫第2季於2010年4月6日開始播出，標題改為《**-{K-ON\!\!}-**》（）。根據雜誌《[Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》消息，單行本第四卷為漫畫最終卷，於2010年9月27日發售，漫畫與動畫一併完結。2010年9月29日在第2季播畢後發佈製作[劇場版的消息](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
 
-2011年2月9日於《Manga Time Kirara》雜誌同年3月號封面預告本作將再度開始新連載，《Manga Time
-Kirara》連載的是4人的大學劇情，從2011年4月9日開始到2012年6月8日連載結束，單行本全1卷；而《Manga
-Time Kirara Carat》則是憂、梓、純的高中劇情，從2011年4月28日開始到2012年6月28日結束，單行本全1卷。
+2011年2月9日於《Manga Time Kirara》雜誌同年3月號封面預告本作將再度開始新連載，《Manga Time Kirara》連載的是4人的大學劇情，從2011年4月9日開始到2012年6月8日連載結束，單行本全1卷；而《Manga Time Kirara Carat》則是憂、梓、純的高中劇情，從2011年4月28日開始到2012年6月28日結束，單行本全1卷。
 
-2018年6月9日《Manga Time Kirara》雜誌預告今年7月本作的續篇《K-ON！輕音部
-Shuffle》将于7月9日发售的8月号上开始连载，主角为担当鼓手的新角色\[1\]。
+2018年6月9日《Manga Time Kirara》雜誌預告今年7月本作的續篇《K-ON！輕音部 Shuffle》将于7月9日发售的8月号上开始连载，主角为担当鼓手的新角色\[1\]。
 
 ## 劇情簡介
 
@@ -23,8 +14,7 @@ Shuffle》将于7月9日发售的8月号上开始连载，主角为担当鼓手�
 
 ## 舞台
 
-[Toyosato_Elementary_School_old_building._May,_2015.A.JPG](https://zh.wikipedia.org/wiki/File:Toyosato_Elementary_School_old_building._May,_2015.A.JPG "fig:Toyosato_Elementary_School_old_building._May,_2015.A.JPG")
-原作並無特別設定場景，在確定動畫化後，負責製作之京都動畫雖然將生活圈設定於[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")，但將許多[京都地區景色包含其中](https://zh.wikipedia.org/wiki/京都府 "wikilink")：琴吹紬平日通學時搭乘[電車](../Page/電車.md "wikilink")與候車月台參考自[京都市](../Page/京都市.md "wikilink")內營運的[叡山電鐵本線](https://zh.wikipedia.org/wiki/叡山電鐵叡山本線 "wikilink")[出町柳站與](https://zh.wikipedia.org/wiki/出町柳站 "wikilink")[修學院站](https://zh.wikipedia.org/wiki/修學院站 "wikilink")，主角們上下課的沿路和快餐店則參考[京都市](../Page/京都市.md "wikilink")[左京區](../Page/左京區.md "wikilink")[北山通和](https://zh.wikipedia.org/wiki/北山通 "wikilink")[白川通](../Page/白川通.md "wikilink")一帶，而樂器店和[商店街即參考自京都市](https://zh.wikipedia.org/wiki/商店街 "wikilink")[四條河原町](../Page/四條河原町.md "wikilink")一帶的[商業區](https://zh.wikipedia.org/wiki/商業區 "wikilink")\[2\]；三年級學生[修學旅行當中所出現知名歷史文化建築](https://zh.wikipedia.org/wiki/修學旅行 "wikilink")，如[金閣寺](../Page/鹿苑寺.md "wikilink")、[北野天滿宮](../Page/北野天滿宮.md "wikilink")、等\[3\]。主角們就讀的櫻丘高中，動畫版稱為櫻丘女子高中（），以[滋賀縣](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")[犬上郡](https://zh.wikipedia.org/wiki/犬上郡 "wikilink")[豐鄉町豐鄉小學校舊校舍為藍本](https://zh.wikipedia.org/wiki/豐鄉町 "wikilink")；此地因動畫播出，成為許多動漫迷[聖地巡禮地點之一](https://zh.wikipedia.org/wiki/聖地巡禮 "wikilink")\[4\]。
+[Toyosato_Elementary_School_old_building._May,_2015.A.JPG](https://zh.wikipedia.org/wiki/File:Toyosato_Elementary_School_old_building._May,_2015.A.JPG "fig:Toyosato_Elementary_School_old_building._May,_2015.A.JPG") 原作並無特別設定場景，在確定動畫化後，負責製作之京都動畫雖然將生活圈設定於[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")，但將許多[京都地區景色包含其中](https://zh.wikipedia.org/wiki/京都府 "wikilink")：琴吹紬平日通學時搭乘[電車](../Page/電車.md "wikilink")與候車月台參考自[京都市](../Page/京都市.md "wikilink")內營運的[叡山電鐵本線](https://zh.wikipedia.org/wiki/叡山電鐵叡山本線 "wikilink")[出町柳站與](https://zh.wikipedia.org/wiki/出町柳站 "wikilink")[修學院站](https://zh.wikipedia.org/wiki/修學院站 "wikilink")，主角們上下課的沿路和快餐店則參考[京都市](../Page/京都市.md "wikilink")[左京區](../Page/左京區.md "wikilink")[北山通和](https://zh.wikipedia.org/wiki/北山通 "wikilink")[白川通](../Page/白川通.md "wikilink")一帶，而樂器店和[商店街即參考自京都市](https://zh.wikipedia.org/wiki/商店街 "wikilink")[四條河原町](../Page/四條河原町.md "wikilink")一帶的[商業區](https://zh.wikipedia.org/wiki/商業區 "wikilink")\[2\]；三年級學生[修學旅行當中所出現知名歷史文化建築](https://zh.wikipedia.org/wiki/修學旅行 "wikilink")，如[金閣寺](../Page/鹿苑寺.md "wikilink")、[北野天滿宮](../Page/北野天滿宮.md "wikilink")、等\[3\]。主角們就讀的櫻丘高中，動畫版稱為櫻丘女子高中（），以[滋賀縣](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")[犬上郡](https://zh.wikipedia.org/wiki/犬上郡 "wikilink")[豐鄉町豐鄉小學校舊校舍為藍本](https://zh.wikipedia.org/wiki/豐鄉町 "wikilink")；此地因動畫播出，成為許多動漫迷[聖地巡禮地點之一](https://zh.wikipedia.org/wiki/聖地巡禮 "wikilink")\[4\]。
 
 ## 登場人物
 
@@ -155,9 +145,7 @@ Shuffle》将于7月9日发售的8月号上开始连载，主角为担当鼓手�
 
 ### 替換用封面
 
-日語版販售時會依照販售店家的不同，另外會附贈替換用封面當作贈品。在[Melonbooks](../Page/Melonbooks.md "wikilink")限定版封面，第一冊為平澤憂、第二冊為中野梓\[5\]、第三冊為秋山澪\[6\]\[7\]、以及第四冊為琴吹紬\[8\]\[9\]，皆為穿著[泳衣](../Page/泳衣.md "wikilink")的身姿；而在第四冊販售時，第一冊到第三冊的替換用封面再版印刷\[10\]。在[Gamers限定版封面](https://zh.wikipedia.org/wiki/Gamers "wikilink")，第三冊與《》一起購買的限定版替換用封面為平澤唯與中野梓的限定替換用封面\[11\]，僅購買第三冊的限定版替換用封面是秋山澪穿著[和服](../Page/和服.md "wikilink")的身姿\[12\]，第四冊限定版封面是秋山澪的穿著[體操服的身姿](https://zh.wikipedia.org/wiki/體操服 "wikilink")\[13\]。在[Animate附贈的第四冊限定版封面是中野梓在吉他旁邊橫臥的身姿](https://zh.wikipedia.org/wiki/Animate "wikilink")\[14\]。而在《[Manga
-Time Kirara
-Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-ON！輕音部裡》的連續附錄第三回贈送中野梓的限定替換用封面（粉紅色）\[15\]。
+日語版販售時會依照販售店家的不同，另外會附贈替換用封面當作贈品。在[Melonbooks](../Page/Melonbooks.md "wikilink")限定版封面，第一冊為平澤憂、第二冊為中野梓\[5\]、第三冊為秋山澪\[6\]\[7\]、以及第四冊為琴吹紬\[8\]\[9\]，皆為穿著[泳衣](../Page/泳衣.md "wikilink")的身姿；而在第四冊販售時，第一冊到第三冊的替換用封面再版印刷\[10\]。在[Gamers限定版封面](https://zh.wikipedia.org/wiki/Gamers "wikilink")，第三冊與《》一起購買的限定版替換用封面為平澤唯與中野梓的限定替換用封面\[11\]，僅購買第三冊的限定版替換用封面是秋山澪穿著[和服](../Page/和服.md "wikilink")的身姿\[12\]，第四冊限定版封面是秋山澪的穿著[體操服的身姿](https://zh.wikipedia.org/wiki/體操服 "wikilink")\[13\]。在[Animate附贈的第四冊限定版封面是中野梓在吉他旁邊橫臥的身姿](https://zh.wikipedia.org/wiki/Animate "wikilink")\[14\]。而在《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-ON！輕音部裡》的連續附錄第三回贈送中野梓的限定替換用封面（粉紅色）\[15\]。
 
 ## 電視動畫
 
@@ -169,8 +157,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 
 ### 制作人员
 
-  - 原作：[kakifly](https://zh.wikipedia.org/wiki/kakifly "wikilink")（芳文社《Manga
-    Time Kirara》連載）
+  - 原作：[kakifly](https://zh.wikipedia.org/wiki/kakifly "wikilink")（芳文社《Manga Time Kirara》連載）
   - 監督：[山田尚子](../Page/山田尚子.md "wikilink")
   - 系列構成：[吉田玲子](../Page/吉田玲子.md "wikilink")
   - 人物設定、總作画監督：[堀口悠纪子](https://zh.wikipedia.org/wiki/堀口悠纪子 "wikilink")
@@ -433,16 +420,12 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 
 <!-- end list -->
 
-1.  「**[GO\! GO\! MANIAC](../Page/GO!_GO!_MANIAC.md "wikilink")**」**（第1話
-    - 第13話）**
+1.  「**[GO\! GO\! MANIAC](../Page/GO!_GO!_MANIAC.md "wikilink")**」**（第1話 - 第13話）**
       - 作词：大森祥子，作曲、编曲：Tom-H@ck
-      - 演出：放學後TEA
-        TIME［平澤唯（主唱）、秋山澪、田井中律、琴吹紬、中野梓（CV：豐崎爱生、日笠陽子、佐藤聰美、壽美菜子、竹達彩奈）］
-2.  「**[Utauyo\!\!MIRACLE](../Page/Utauyo!!MIRACLE.md "wikilink")**」**（第14話
-    - 第27話）**
+      - 演出：放學後TEA TIME［平澤唯（主唱）、秋山澪、田井中律、琴吹紬、中野梓（CV：豐崎爱生、日笠陽子、佐藤聰美、壽美菜子、竹達彩奈）］
+2.  「**[Utauyo\!\!MIRACLE](../Page/Utauyo!!MIRACLE.md "wikilink")**」**（第14話 - 第27話）**
       - 作词：大森祥子，作曲、编曲：Tom-H@ck
-      - 演出：放學後TEA
-        TIME［平澤唯（主唱）、秋山澪、田井中律、琴吹紬、中野梓（CV：豐崎爱生、日笠陽子、佐藤聰美、壽美菜子、竹達彩奈）］
+      - 演出：放學後TEA TIME［平澤唯（主唱）、秋山澪、田井中律、琴吹紬、中野梓（CV：豐崎爱生、日笠陽子、佐藤聰美、壽美菜子、竹達彩奈）］
 
 <!-- end list -->
 
@@ -452,13 +435,10 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 
 1.  「**[Listen\!\!](../Page/Listen!!.md "wikilink")**」**（第1話 - 第13話）**
       - 作词：大森祥子，作曲：前澤寬之，编曲：小森茂生
-      - 演出：放學後TEA
-        TIME［秋山澪（主唱）、平泽唯、田井中律、琴吹紬、中野梓（CV：日笠陽子、豐崎爱生、佐藤聰美、壽美菜子、竹達彩奈）］
-2.  「**[NO,Thank You\!](../Page/NO,Thank_You!.md "wikilink")**」**（第14話 -
-    第27話）**
+      - 演出：放學後TEA TIME［秋山澪（主唱）、平泽唯、田井中律、琴吹紬、中野梓（CV：日笠陽子、豐崎爱生、佐藤聰美、壽美菜子、竹達彩奈）］
+2.  「**[NO,Thank You\!](../Page/NO,Thank_You!.md "wikilink")**」**（第14話 - 第27話）**
       - 作词：大森祥子，作曲：前澤寬之，编曲：小森茂生
-      - 演出：放學後TEA
-        TIME［秋山澪（主唱）、平泽唯、田井中律、琴吹紬、中野梓（CV：日笠陽子、豐崎爱生、佐藤聰美、壽美菜子、竹達彩奈）］
+      - 演出：放學後TEA TIME［秋山澪（主唱）、平泽唯、田井中律、琴吹紬、中野梓（CV：日笠陽子、豐崎爱生、佐藤聰美、壽美菜子、竹達彩奈）］
 
 <!-- end list -->
 
@@ -1631,11 +1611,9 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 </tbody>
 </table>
 
-  - [K-ON\! LIVE活動 \~Let's
-    Go\!\~](../Page/K-ON!_LIVE活動_~Let's_Go!~.md "wikilink")
+  - [K-ON\! LIVE活動 \~Let's Go\!\~](../Page/K-ON!_LIVE活動_~Let's_Go!~.md "wikilink")
     2010年6月30日發售的LIVE DVD・BD。收錄了正編約150分、映像特典約15分\[24\]。
-  - [K-ON\!\! LIVE活動 〜Come with
-    Me\!\!〜](https://zh.wikipedia.org/wiki/K-ON!!_LIVE活動_〜Come_with_Me!!〜 "wikilink")
+  - [K-ON\!\! LIVE活動 〜Come with Me\!\!〜](https://zh.wikipedia.org/wiki/K-ON!!_LIVE活動_〜Come_with_Me!!〜 "wikilink")
     2011年8月3日發售的LIVE DVD・BD。收錄了正編約215分和映像特典約50分\[25\]。
 
 ### URA-ON\!
@@ -1756,27 +1734,20 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 第一季：
 
   - Recochoku2009年上半年最優秀新人賞 - 櫻高輕音部
-  - 第14回Animation神戶賞主題歌賞（關西廣播賞） - 《[Don't say
-    "lazy"](../Page/Don't_say_"lazy".md "wikilink")》
+  - 第14回Animation神戶賞主題歌賞（關西廣播賞） - 《[Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")》
   - 日經MJ2009年「熱門商品番付」西前頭
-  - [東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")2010
-    第9回[東京動畫賞優秀賞電視節目部門](https://zh.wikipedia.org/wiki/東京動畫賞 "wikilink")
+  - [東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")2010 第9回[東京動畫賞優秀賞電視節目部門](https://zh.wikipedia.org/wiki/東京動畫賞 "wikilink")
   - 第24回日本金唱片大賞特別賞
-  - [電影旬報](../Page/電影旬報.md "wikilink")社「DVD of the Year
-    2009」最優秀TV動畫、OVA賞
-  - 第4回（2009年度）[声優賞歌唱賞](https://zh.wikipedia.org/wiki/声優賞 "wikilink") -
-    放學後TEA
-    TIME（[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
+  - [電影旬報](../Page/電影旬報.md "wikilink")社「DVD of the Year 2009」最優秀TV動畫、OVA賞
+  - 第4回（2009年度）[声優賞歌唱賞](https://zh.wikipedia.org/wiki/声優賞 "wikilink") - 放學後TEA TIME（[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
 
 第二季：
 
-  - [第15回Animation神戶賞](https://web.archive.org/web/20071011200637/http://www.anime-kobe.jp/anime-kobe/#tv)（關西廣播賞）-
-    作品賞・電視節目部門
+  - [第15回Animation神戶賞](https://web.archive.org/web/20071011200637/http://www.anime-kobe.jp/anime-kobe/#tv)（關西廣播賞）- 作品賞・電視節目部門
 
 ## 劇場版
 
-2010年9月28日，製作方面於電視播放最後一話後宣佈劇場版製作的消息。翌年2月20日於Come with Me
-LIVE活動中，由導演[山田尚子](../Page/山田尚子.md "wikilink")親自宣佈劇場版於2011年12月3日日本戲院上映。據山田尚子表示，劇場版將不會是總集篇的重新剪接版，而是全新創作的延續篇。故事的大綱為輕音部的五個人將會去倫敦旅行。
+2010年9月28日，製作方面於電視播放最後一話後宣佈劇場版製作的消息。翌年2月20日於Come with Me LIVE活動中，由導演[山田尚子](../Page/山田尚子.md "wikilink")親自宣佈劇場版於2011年12月3日日本戲院上映。據山田尚子表示，劇場版將不會是總集篇的重新剪接版，而是全新創作的延續篇。故事的大綱為輕音部的五個人將會去倫敦旅行。
 
 ## 網路廣播
 
@@ -1806,9 +1777,7 @@ LIVE活動中，由導演[山田尚子](../Page/山田尚子.md "wikilink")親�
 
 ## 其他
 
-  - 2009年11月27日，因為正值平澤唯生日（另外，《K-ON\! Comic
-    Anthology》第一卷也於同一天發售），日本的[2ch網友自行發動大規模及各式各樣的慶祝活動](https://zh.wikipedia.org/wiki/2ch "wikilink")；甚至同一天有網友出錢贊助[高知賽馬場舉辦](https://zh.wikipedia.org/wiki/高知賽馬場 "wikilink")[賽馬](../Page/賽馬.md "wikilink")比賽【櫻丘高校輕音部協贊
-    小唯的誕生日特別賽馬】（另有一說，是芳文社出錢舉辦），足可見此部漫畫在日本的風靡程度。
+  - 2009年11月27日，因為正值平澤唯生日（另外，《K-ON\! Comic Anthology》第一卷也於同一天發售），日本的[2ch網友自行發動大規模及各式各樣的慶祝活動](https://zh.wikipedia.org/wiki/2ch "wikilink")；甚至同一天有網友出錢贊助[高知賽馬場舉辦](https://zh.wikipedia.org/wiki/高知賽馬場 "wikilink")[賽馬](../Page/賽馬.md "wikilink")比賽【櫻丘高校輕音部協贊 小唯的誕生日特別賽馬】（另有一說，是芳文社出錢舉辦），足可見此部漫畫在日本的風靡程度。
 
 ## 歌曲CD
 
@@ -2151,8 +2120,7 @@ DEATH DEVIL</p></td>
 ## 遊戲
 
   - [K-ON\!放學後LIVE\!\!](../Page/K-ON!放學後LIVE!!.md "wikilink")
-    2010年9月30日[世嘉公司發售的](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")[PlayStation
-    Portable遊戲](../Page/PlayStation_Portable.md "wikilink")\[27\]。2010年4月3日官方網站發表決定遊戲化。
+    2010年9月30日[世嘉公司發售的](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")[PlayStation Portable遊戲](../Page/PlayStation_Portable.md "wikilink")\[27\]。2010年4月3日官方網站發表決定遊戲化。
 
 <!-- end list -->
 
@@ -2162,14 +2130,12 @@ DEATH DEVIL</p></td>
 ## 软件
 
   - 名称：『K-ON\! ILLUSTRATION ARCHIVES 2009-2012』
-    介绍：该软件于[Comic Market](../Page/Comic_Market.md "wikilink")
-    83放出，收录了電視動畫各季及剧场版總共432张彩图（包括C83全新彩图以及从未公开过的彩图）。\[28\]
+    介绍：该软件于[Comic Market](../Page/Comic_Market.md "wikilink") 83放出，收录了電視動畫各季及剧场版總共432张彩图（包括C83全新彩图以及从未公开过的彩图）。\[28\]
 
 ## 活動
 
   - 亞洲動畫節
-    2009年11月21日・22日在[新加坡](../Page/新加坡.md "wikilink")“亞洲動畫節”（Anime
-    Festival Asia，簡稱 AFA）邀請主演聲優進行了配音、現場問答出演、錄音\[29\]。
+    2009年11月21日・22日在[新加坡](../Page/新加坡.md "wikilink")“亞洲動畫節”（Anime Festival Asia，簡稱 AFA）邀請主演聲優進行了配音、現場問答出演、錄音\[29\]。
 
 <!-- end list -->
 
@@ -2178,8 +2144,7 @@ DEATH DEVIL</p></td>
 <!-- end list -->
 
   -
-    2009年12月30日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦了『K-ON\!』LIVE活動\[30\]。擔當主要角色的8個聲優，本作品樂曲的作曲家帶來的背景樂隊演出。而且一部份樂曲（「わたしの恋はホッチキス」、「ふわふわ時間」）是由聲優現場演奏。2010年6月30日發售了DVD和Blu-ray
-    Disc。
+    2009年12月30日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦了『K-ON\!』LIVE活動\[30\]。擔當主要角色的8個聲優，本作品樂曲的作曲家帶來的背景樂隊演出。而且一部份樂曲（「わたしの恋はホッチキス」、「ふわふわ時間」）是由聲優現場演奏。2010年6月30日發售了DVD和Blu-ray Disc。
 
 <!-- end list -->
 
@@ -2193,51 +2158,30 @@ DEATH DEVIL</p></td>
 <!-- end list -->
 
   -
-    2011年2月20日在[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")召開的活動\[33\]，出演的聲優共為十人。而一部份樂曲（「ぴゅあぴゅあはーと」、「ふわふわ時間」）是由聲優現場演奏，ENCORE曲則是（「Utauyo\!\!MIRACLE」、「NO,Thank
-    You\!」）DOUBLE ENCORE曲（「Cagayake\!GIRLS」、「Don't say
-    "lazy"」）。於2011年8月3日發售DVD和Blu-ray Disc。
+    2011年2月20日在[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")召開的活動\[33\]，出演的聲優共為十人。而一部份樂曲（「ぴゅあぴゅあはーと」、「ふわふわ時間」）是由聲優現場演奏，ENCORE曲則是（「Utauyo\!\!MIRACLE」、「NO,Thank You\!」）DOUBLE ENCORE曲（「Cagayake\!GIRLS」、「Don't say "lazy"」）。於2011年8月3日發售DVD和Blu-ray Disc。
 
 ## 註釋
 
 ## 外部連結
 
   -
-  - [K-ON\! 漫画在线连载（Niconico静图 ·
-    Kirara基地）](http://seiga.nicovideo.jp/comic/20824)
+  - [K-ON\! 漫画在线连载（Niconico静图 · Kirara基地）](http://seiga.nicovideo.jp/comic/20824)
 
   - [（K-ON\! 漫画作者个人主页）](http://www.kakifly.com/index.html)
 
   - [K-ON\! 動畫官方網站（TBS電視）](http://www.tbs.co.jp/anime/k-on/)
 
-  - [K-ON\! ILLUSTRATION
-    ARCHIVES 2009-2012](http://www.kyotoanimation.co.jp/event/comiket83/item/2/)
+  - [K-ON\! ILLUSTRATION ARCHIVES 2009-2012](http://www.kyotoanimation.co.jp/event/comiket83/item/2/)
 
-  - [K-ON\! 輕音部（Hong Kong
-    Animax）](https://web.archive.org/web/20100510070615/http://www.animax-hk.com/shows/k)
+  - [K-ON\! 輕音部（Hong Kong Animax）](https://web.archive.org/web/20100510070615/http://www.animax-hk.com/shows/k)
 
-  - [K-ON\!\! 輕音部2（Hong Kong
-    Animax）](https://web.archive.org/web/20101110141446/http://www.animax-hk.com/shows/KON%21%21)
+  - [K-ON\!\! 輕音部2（Hong Kong Animax）](https://web.archive.org/web/20101110141446/http://www.animax-hk.com/shows/KON%21%21)
 
-  - [K-ON\! 輕音部（Taiwan
-    Animax）](https://web.archive.org/web/20120909021933/http://www.animax-taiwan.com/shows/kon)
+  - [K-ON\! 輕音部（Taiwan Animax）](https://web.archive.org/web/20120909021933/http://www.animax-taiwan.com/shows/kon)
 
-  - [K-ON\!\! 輕音部2（Taiwan
-    Animax）](https://web.archive.org/web/20120909021805/http://www.animax-taiwan.com/shows/kon2)
+  - [K-ON\!\! 輕音部2（Taiwan Animax）](https://web.archive.org/web/20120909021805/http://www.animax-taiwan.com/shows/kon2)
 
-[Category:K-ON\!](https://zh.wikipedia.org/wiki/Category:K-ON! "wikilink")
-[Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink")
-[Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
-[Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink")
-[Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink")
-[Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:音樂題材作品](https://zh.wikipedia.org/wiki/Category:音樂題材作品 "wikilink")
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
+[Category:K-ON\!](https://zh.wikipedia.org/wiki/Category:K-ON! "wikilink") [Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink") [Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink") [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink") [Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:音樂題材作品](https://zh.wikipedia.org/wiki/Category:音樂題材作品 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
 
 1.
 
@@ -2245,9 +2189,7 @@ DEATH DEVIL</p></td>
 
 3.  參考動畫第2季第4話
 
-4.  [1部動畫
-    救活1間校舍](http://www.libertytimes.com.tw/2010/new/nov/22/today-int7.htm)
-
+4.  [1部動畫 救活1間校舍](http://www.libertytimes.com.tw/2010/new/nov/22/today-int7.htm)
 
 5.
 
@@ -2274,13 +2216,9 @@ DEATH DEVIL</p></td>
 
 18. 動畫內的記法。部分歌詞是直接取自kakifly的原作漫畫；而實際的作曲和編曲為[前澤寬之](../Page/前澤寬之.md "wikilink")負責。
 
-19. 動畫內的記法。實際的作詞為、作曲為[藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")、編曲則由[白石元負責](https://zh.wikipedia.org/wiki/白石元 "wikilink")。（記載於[波麗佳音網頁內](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
-    [有關CD的介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001336&DSP_SKHKETSEQ=001)
-    ）
+19. 動畫內的記法。實際的作詞為、作曲為[藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")、編曲則由[白石元負責](https://zh.wikipedia.org/wiki/白石元 "wikilink")。（記載於[波麗佳音網頁內](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") [有關CD的介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001336&DSP_SKHKETSEQ=001) ）
 
-20. 動畫內的記法。實際的作詞為、作曲和編曲則由[川口進負責](https://zh.wikipedia.org/wiki/川口進 "wikilink")。（記載於[波麗佳音網頁內](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
-    [有關CD的介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001336&DSP_SKHKETSEQ=001)
-    ）
+20. 動畫內的記法。實際的作詞為、作曲和編曲則由[川口進負責](https://zh.wikipedia.org/wiki/川口進 "wikilink")。（記載於[波麗佳音網頁內](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") [有關CD的介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001336&DSP_SKHKETSEQ=001) ）
 
 21. 各話標題中文翻譯以代理商[普威爾的中文字幕為準](https://zh.wikipedia.org/wiki/普威爾 "wikilink")。
 
@@ -2299,14 +2237,10 @@ DEATH DEVIL</p></td>
 
 29.
 
-30. [K-ON\!LIVE活動「Let's
-    Go\!」特設網頁](http://www.tbs.co.jp/anime/k-on/special/event091230.html)
+30. [K-ON\!LIVE活動「Let's Go\!」特設網頁](http://www.tbs.co.jp/anime/k-on/special/event091230.html)
 
-31. [中日新聞 CHUNICHI
-    Web 2009年9月22日朝刊。](https://web.archive.org/web/20090925140330/http://www.chunichi.co.jp/article/national/news/CK2009092202000103.html)
+31. [中日新聞 CHUNICHI Web 2009年9月22日朝刊。](https://web.archive.org/web/20090925140330/http://www.chunichi.co.jp/article/national/news/CK2009092202000103.html)
 
-32. [豊郷小旧校舎見たい 読売新聞 YOMIURI ONLINE
-    地域滋賀 2009年9月22日閲覧。](http://www.yomiuri.co.jp/index.htm)
+32. [豊郷小旧校舎見たい 読売新聞 YOMIURI ONLINE 地域滋賀 2009年9月22日閲覧。](http://www.yomiuri.co.jp/index.htm)
 
-33. [K-ON！！LIVE活動「～Come with
-    Me\!\!～」特設網頁](http://www.tbs.co.jp/anime/k-on/special/event110220.html)
+33. [K-ON！！LIVE活動「～Come with Me\!\!～」特設網頁](http://www.tbs.co.jp/anime/k-on/special/event110220.html)

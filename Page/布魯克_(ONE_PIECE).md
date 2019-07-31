@@ -1,9 +1,8 @@
-**布魯克**（）是日本漫畫家[尾田榮一郎所創作的](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》中的虛構角色，是該作品的中的一位主要角色。是主角[魯夫的第](https://zh.wikipedia.org/wiki/魯夫 "wikilink")8位夥伴，[草帽海賊團的](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。他的外表是一具爆炸頭骷髏，同時是一名劍擊高手。
+**布魯克**（）是日本漫畫家[尾田榮一郎所創作的](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》中的虛構角色，是該作品的中的一位主要角色。是主角[魯夫的第](https://zh.wikipedia.org/wiki/魯夫 "wikilink")8位夥伴，[草帽海賊團的](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。他的外表是一具爆炸頭骷髏，同時是一名劍擊高手。
 
 ## 設計
 
-作者[尾田榮一郎在擔任](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[和月伸宏的助手時](../Page/和月伸宏.md "wikilink")，某天與同門的[武井宏之聊天](../Page/武井宏之.md "wikilink")，偶然間開玩笑表示「這就是骨頭（訣竅）」（日文“骨頭”與“訣竅”發音相似）。而最初設定則是巴其海賊團的船員之一。
+作者[尾田榮一郎在擔任](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[和月伸宏](../Page/和月伸宏.md "wikilink")的助手時，某天與同門的[武井宏之](../Page/武井宏之.md "wikilink")聊天，偶然間開玩笑表示「這就是骨頭（訣竅）」（日文“骨頭”與“訣竅”發音相似）。而最初設定則是巴其海賊團的船員之一。
 
 其名字布魯克（Brook）音同英語裡的小溪和忍耐，亦為英語裡常見的男性姓名。
 
@@ -11,31 +10,29 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》中的虛構角色，是該作品的�
 
 布魯克是[草帽海賊團第](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")8位夥伴。自稱「死了剩一把骨頭的布魯克」，「[黃泉果實](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#惡魔果實 "wikilink")」（）能力者，曾經死過一次但因為果實能力而復活，但由於尋找屍體的時間過長，肉體已經腐敗，因此只剩白骨。外貌特徵是[骷髏身體](https://zh.wikipedia.org/wiki/骷髏 "wikilink")，生前則是身形苗条與配戴墨鏡的模樣。身穿紳士裝和擁有一副爆炸頭，喜歡[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、會演奏所有的[樂器](https://zh.wikipedia.org/wiki/樂器 "wikilink")。手邊常駐的拐杖，實際上是一把杖型擊劍。
 
-身體十分輕盈，可以在海面上快速行走，有很高的跳躍力。雖然[身體是一副白骨](https://zh.wikipedia.org/wiki/身體 "wikilink")，卻仍然保有視覺、聽覺、嗅覺、味覺、觸覺，還能夠吃飯、喝茶、流淚、噴鼻血及排泄。和[蒙其·D·魯夫同樣有著只要喝](../Page/蒙其·D·魯夫.md "wikilink")[牛奶就能讓骨骼遭受的傷害痊癒的特殊體質](../Page/牛奶.md "wikilink")\[1\]，也同樣不怕雷擊。只要[頭蓋骨還健在](https://zh.wikipedia.org/wiki/頭蓋骨 "wikilink")，即便被外力影響掉落，仍可接回原本的位置恢復行動能力，他的頭蓋骨同時可自由掀開蓋合，收納重量體積較輕巧的物品。
+身體十分輕盈，可以在海面上快速行走，有很高的跳躍力。雖然[身體是一副白骨](https://zh.wikipedia.org/wiki/身體 "wikilink")，卻仍然保有視覺、聽覺、嗅覺、味覺、觸覺，還能夠吃飯、喝茶、流淚、噴鼻血及排泄。和[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")同樣有著只要喝[牛奶](../Page/牛奶.md "wikilink")就能讓骨骼遭受的傷害痊癒的特殊體質\[1\]，也同樣不怕雷擊。只要[頭蓋骨還健在](https://zh.wikipedia.org/wiki/頭蓋骨 "wikilink")，即便被外力影響掉落，仍可接回原本的位置恢復行動能力，他的頭蓋骨同時可自由掀開蓋合，收納重量體積較輕巧的物品。
 
-個性好色、滑稽隨和，獨特笑聲是「呦呵呵呵」，見到[女性開口第一句話就是](../Page/女性.md "wikilink")「可不可以讓我欣賞妳的[內褲](https://zh.wikipedia.org/wiki/內褲 "wikilink")」？同時重視恩義承諾。關鍵時刻也會運用年長者的歷練和智慧，提點和幫助夥伴度過難關。夢想環嶢世界一周再次到「偉大航道
-雙子峽」跟島嶼鯨魚拉布重逢，尾田亦曾提到草帽海賊團如果是個大家族，布魯克就是家中的爺爺\[2\]。最愛的食物是[咖哩飯](https://zh.wikipedia.org/wiki/咖哩飯 "wikilink")，但因為每次吃完總是會把臉給弄髒，因此香吉士不常做給他吃\[3\]，討厭的食物是[檸檬](https://zh.wikipedia.org/wiki/檸檬 "wikilink")，原因是沒辦法做出酸的表情\[4\]。布魯克在羅賓印象中的花種代表為[薔薇](https://zh.wikipedia.org/wiki/薔薇 "wikilink")\[5\]。布魯克一天的睡眠時間為晚上12點到凌晨5點\[6\]。
+個性好色、滑稽隨和，獨特笑聲是「呦呵呵呵」，見到[女性](../Page/女性.md "wikilink")開口第一句話就是「可不可以讓我欣賞妳的[內褲](https://zh.wikipedia.org/wiki/內褲 "wikilink")」？同時重視恩義承諾。關鍵時刻也會運用年長者的歷練和智慧，提點和幫助夥伴度過難關。夢想環嶢世界一周再次到「偉大航道 雙子峽」跟島嶼鯨魚拉布重逢，尾田亦曾提到草帽海賊團如果是個大家族，布魯克就是家中的爺爺\[2\]。最愛的食物是[咖哩飯](https://zh.wikipedia.org/wiki/咖哩飯 "wikilink")，但因為每次吃完總是會把臉給弄髒，因此香吉士不常做給他吃\[3\]，討厭的食物是[檸檬](https://zh.wikipedia.org/wiki/檸檬 "wikilink")，原因是沒辦法做出酸的表情\[4\]。布魯克在羅賓印象中的花種代表為[薔薇](https://zh.wikipedia.org/wiki/薔薇 "wikilink")\[5\]。布魯克一天的睡眠時間為晚上12點到凌晨5點\[6\]。
 
 ## 劇中表現
 
-布魯克出身西海，年輕時原本是某國護衛團長，後加入倫巴海賊團成為該團的劍士暨音樂家，後因[船長尤奇染上](../Page/船長.md "wikilink")[瘟疫離開海賊團而成為代理船長](../Page/瘟疫.md "wikilink")。50年前跟鯨魚拉布約定在雙子峽重逢，當時的懸賞金額是3,300萬貝里。
+布魯克出身西海，年輕時原本是某國護衛團長，後加入倫巴海賊團成為該團的劍士暨音樂家，後因[船長](../Page/船長.md "wikilink")尤奇染上[瘟疫](../Page/瘟疫.md "wikilink")離開海賊團而成為代理船長。50年前跟鯨魚拉布約定在雙子峽重逢，當時的懸賞金額是3,300萬貝里。
 
 後來倫巴海賊團在魔幻三角地帶遇到敵人並遭遇有毒武器的攻擊，而且船醫也已經死亡，包括布魯克在內的船員們在船上舉行了一場大合奏後全軍覆沒，同時也是大合奏中最後死亡的，布魯克臨死前嚐到同伴一個接著一個死去的寂寞和恐懼。因生前吃下黃泉果實所產生的能力，靈魂回歸現世並準備尋找身體，雖然在魔幻三角地帶的濃霧中迷路了一年後找到了身體、但是已經化成一堆白骨了，不過爆炸頭仍然存在，自此他只能以骷髏狀態生活在船上，幫同伴們安葬後，孤獨的度過50年。
 
 ### 第一部
 
-被時任「[王下七武海](../Page/王下七武海.md "wikilink")」[月光·摩利亞奪去了影子](../Page/月光·摩利亞.md "wikilink")，移植至赫古巴庫所改造的武士殭屍「斬龍武士」龍馬的身上。偶然中發現了[鹽能夠淨化殭屍的秘密](https://zh.wikipedia.org/wiki/鹽 "wikilink")，為了搶回自己的影子，在島上大量淨化殭屍，讓鬼魂島陷入一片恐慌，結果不敵裝有自己影子的殭屍劍豪龍馬，大敗而歸。
+被時任「[王下七武海](../Page/王下七武海.md "wikilink")」[月光·摩利亞](../Page/月光·摩利亞.md "wikilink")奪去了影子，移植至赫古巴庫所改造的武士殭屍「斬龍武士」龍馬的身上。偶然中發現了[鹽能夠淨化殭屍的秘密](https://zh.wikipedia.org/wiki/鹽 "wikilink")，為了搶回自己的影子，在島上大量淨化殭屍，讓鬼魂島陷入一片恐慌，結果不敵裝有自己影子的殭屍劍豪龍馬，大敗而歸。
 
-之後和草帽海賊團相遇，興奮地表現出重見活人的喜悅，魯夫因為布魯克非常有趣、立刻邀請他加入，但是布魯克因為被奪去影子而無法待在陽光底下而拒絕了魯夫的邀請，並透露這50年來的經歷，還特地警告魯夫等人趕快離開鬼魂島。在不聽勸告的魯夫帶領一行人踏進鬼魂島後，布魯克趁[佛朗基與](../Page/佛朗基.md "wikilink")[妮可·羅賓被蜘蛛猴困住時](../Page/妮可·羅賓.md "wikilink")，淨化蜘蛛猴並救了兩人，還特地對他們透露利用鹽淨化殭屍的方法，以便於對抗島上的殭屍群。直到[羅羅亞·索隆戰勝龍馬](../Page/羅羅亞·索隆.md "wikilink")，影子才終於回到他的腳下。在擊敗摩利亞後，從魯夫口中得知夥伴拉布現在平安無事的消息，為了履行和拉布的約定，以音樂家身分正式加入草帽海賊團。
+之後和草帽海賊團相遇，興奮地表現出重見活人的喜悅，魯夫因為布魯克非常有趣、立刻邀請他加入，但是布魯克因為被奪去影子而無法待在陽光底下而拒絕了魯夫的邀請，並透露這50年來的經歷，還特地警告魯夫等人趕快離開鬼魂島。在不聽勸告的魯夫帶領一行人踏進鬼魂島後，布魯克趁[佛朗基](../Page/佛朗基.md "wikilink")與[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")被蜘蛛猴困住時，淨化蜘蛛猴並救了兩人，還特地對他們透露利用鹽淨化殭屍的方法，以便於對抗島上的殭屍群。直到[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")戰勝龍馬，影子才終於回到他的腳下。在擊敗摩利亞後，從魯夫口中得知夥伴拉布現在平安無事的消息，為了履行和拉布的約定，以音樂家身分正式加入草帽海賊團。
 
-在[夏波帝諸島與夥伴分散的布魯克被彈飛的布魯克掉落到偉大航道](https://zh.wikipedia.org/wiki/夏波帝諸島 "wikilink")「納瑪庫拉島」上的「貧困王國」哈拉海塔尼亞，由於墜落在當地人舉行儀式的法陣當中，被當地人誤認為[撒旦惡魔](https://zh.wikipedia.org/wiki/撒旦 "wikilink")\[7\]。他從哈拉海塔尼亞的領導人佩力克口中，得知島上長手族強盜的猖獗造成民不聊生，便利用音樂激起當地居民的戰意與勇氣，讓當地居民成功制服了長手族強盜。後來布魯克得知魯夫在頂點戰爭中的消息，釋放了長手族強盜，卻反被長手族強盜帶到劍山島上的泰納格納王國供人參觀，為了克服被囚禁的狀況，布魯克當著長手族人的面前表演特技，還拿起吉他演奏自創的樂曲「bone
-to be wild」。
+在[夏波帝諸島與夥伴分散的布魯克被彈飛的布魯克掉落到偉大航道](https://zh.wikipedia.org/wiki/夏波帝諸島 "wikilink")「納瑪庫拉島」上的「貧困王國」哈拉海塔尼亞，由於墜落在當地人舉行儀式的法陣當中，被當地人誤認為[撒旦惡魔](https://zh.wikipedia.org/wiki/撒旦 "wikilink")\[7\]。他從哈拉海塔尼亞的領導人佩力克口中，得知島上長手族強盜的猖獗造成民不聊生，便利用音樂激起當地居民的戰意與勇氣，讓當地居民成功制服了長手族強盜。後來布魯克得知魯夫在頂點戰爭中的消息，釋放了長手族強盜，卻反被長手族強盜帶到劍山島上的泰納格納王國供人參觀，為了克服被囚禁的狀況，布魯克當著長手族人的面前表演特技，還拿起吉他演奏自創的樂曲「bone to be wild」。
 
 ### 第二部
 
 兩年後的布魯克成為頗負盛名的[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，在他開完告別演唱會後與夥伴們繼續一同冒險。
 
-  - [魚人島篇](../Page/魚人島.md "wikilink")
+  - [魚人島](../Page/魚人島.md "wikilink")篇
 
 <!-- end list -->
 
@@ -45,7 +42,7 @@ to be wild」。
 <!-- end list -->
 
   -
-    卻在索隆與海王星王子鯊星的談判過程中，意外得知「海俠」[吉貝爾留給草帽海賊團的口信](../Page/吉貝爾.md "wikilink")，布魯克以想保護[白星為由](../Page/白星.md "wikilink")（實際目的是想看內褲），帶著龍宮王國的右大臣前往公主所在的「硬殼塔」，目睹被班塔·戴肯九世運送過來的海賊們準備發動奇襲，此時卻也剛好跟衝出硬殼塔的魯夫和白星公主碰面。
+    卻在索隆與海王星王子鯊星的談判過程中，意外得知「海俠」[吉貝爾](../Page/吉貝爾.md "wikilink")留給草帽海賊團的口信，布魯克以想保護[白星](../Page/白星.md "wikilink")為由（實際目的是想看內褲），帶著龍宮王國的右大臣前往公主所在的「硬殼塔」，目睹被班塔·戴肯九世運送過來的海賊們準備發動奇襲，此時卻也剛好跟衝出硬殼塔的魯夫和白星公主碰面。
 
 <!-- end list -->
 
@@ -68,12 +65,12 @@ to be wild」。
 
 <!-- end list -->
 
-  - [多雷斯羅薩篇](../Page/多雷斯羅薩.md "wikilink")
+  - [多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")篇
 
 <!-- end list -->
 
   -
-    前往多雷斯羅薩的途中，布魯克對於[唐吉訶德·多佛朗明哥具備著過人實力](../Page/唐吉訶德·多佛朗明哥.md "wikilink")，卻沒有追殺一行人的舉動產生質疑，並於隔天呼喚船上的所有人收看送報鷗投遞的報紙新聞。[千陽號行駛至多雷斯羅薩後](../Page/千陽號.md "wikilink")，布魯克、娜美、喬巴、桃之助決定留在船上待命和看守千陽號，當喬巴表示為了不讓桃之助處於容易胡思亂想的獨處狀態，請求布魯克和娜美配合桃之助玩主僕扮演的遊戲時，布魯克立刻出言反對這項建議，但仍然在喬巴的半逼迫下跟著眾人進行遊戲，扮演桃之助的隋從「砰吉」（骨吉），隨後因為發現船艙裡有入侵者而進入警戒狀態。
+    前往多雷斯羅薩的途中，布魯克對於[唐吉訶德·多佛朗明哥](../Page/唐吉訶德·多佛朗明哥.md "wikilink")具備著過人實力，卻沒有追殺一行人的舉動產生質疑，並於隔天呼喚船上的所有人收看送報鷗投遞的報紙新聞。[千陽號](../Page/千陽號.md "wikilink")行駛至多雷斯羅薩後，布魯克、娜美、喬巴、桃之助決定留在船上待命和看守千陽號，當喬巴表示為了不讓桃之助處於容易胡思亂想的獨處狀態，請求布魯克和娜美配合桃之助玩主僕扮演的遊戲時，布魯克立刻出言反對這項建議，但仍然在喬巴的半逼迫下跟著眾人進行遊戲，扮演桃之助的隋從「砰吉」（骨吉），隨後因為發現船艙裡有入侵者而進入警戒狀態。
 
 <!-- end list -->
 
@@ -83,22 +80,16 @@ to be wild」。
 [兩年後布魯克的懸賞單.jpg](https://zh.wikipedia.org/wiki/File:兩年後布魯克的懸賞單.jpg "fig:兩年後布魯克的懸賞單.jpg")
 
   -
-    4人聯手痛扁險些至眾人於死地的喬菈，接受羅的指令將船隻駛近格林比特，遭遇多佛朗明哥的襲擊。香吉士、娜美、喬巴、布魯克、桃之助藉著羅的掩護，帶著被送回千陽號的凱薩逃向佐烏，詎料「[ONE_PIECE海賊列表\#BIG
-    MOM海賊團為了追捕凱薩而尾隨在千陽號的後方](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#BIG_MOM海賊團 "wikilink")。一行人擺脫BIG
-    MOM海賊船追擊，逃至島上，遭遇「四皇」海道的手下襲擊。多雷斯羅薩事件落幕後，布魯克的懸賞金增為8,300萬貝里。
+    4人聯手痛扁險些至眾人於死地的喬菈，接受羅的指令將船隻駛近格林比特，遭遇多佛朗明哥的襲擊。香吉士、娜美、喬巴、布魯克、桃之助藉著羅的掩護，帶著被送回千陽號的凱薩逃向佐烏，詎料「[ONE_PIECE海賊列表\#BIG MOM海賊團為了追捕凱薩而尾隨在千陽號的後方](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#BIG_MOM海賊團 "wikilink")。一行人擺脫BIG MOM海賊船追擊，逃至島上，遭遇「四皇」海道的手下襲擊。多雷斯羅薩事件落幕後，布魯克的懸賞金增為8,300萬貝里。
 
 <!-- end list -->
 
-  - [佐烏篇](../Page/佐烏.md "wikilink")
+  - [佐烏](../Page/佐烏.md "wikilink")篇
 
 <!-- end list -->
 
   -
-    避開BIG
-    MOM海賊團的追殺後和伙伴抵達佐烏，一度遭受岛上驻守的人们袭击，但发现当地的毛皮族居民被凯萨的剧毒瓦斯兵器重创后，跟著伙伴、凯萨和毛皮族医护人员合作，对毛皮族居民进行急救，被毛皮族人所收留，但從「BIG
-    MOM」麾下成員[卡波涅·培基轉述獲知香吉士的真實身世而聞之色變](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#卡波涅·培基 "wikilink")，和後來趕到的鲁夫等人會合並轉述香吉士為保護夥伴安全而赴約「BIG
-    MOM」舉辦的婚宴茶會的經過。為了奪回香吉士，跟随魯夫、娜美、騙人布、乔巴、毛皮族的凱洛特及佩特羅、“BIG
-    MOM”的部下波哥姆斯前往“BIG MOM”的根据地。
+    避開BIG MOM海賊團的追殺後和伙伴抵達佐烏，一度遭受岛上驻守的人们袭击，但发现当地的毛皮族居民被凯萨的剧毒瓦斯兵器重创后，跟著伙伴、凯萨和毛皮族医护人员合作，对毛皮族居民进行急救，被毛皮族人所收留，但從「BIG MOM」麾下成員[卡波涅·培基轉述獲知香吉士的真實身世而聞之色變](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#卡波涅·培基 "wikilink")，和後來趕到的鲁夫等人會合並轉述香吉士為保護夥伴安全而赴約「BIG MOM」舉辦的婚宴茶會的經過。為了奪回香吉士，跟随魯夫、娜美、騙人布、乔巴、毛皮族的凱洛特及佩特羅、“BIG MOM”的部下波哥姆斯前往“BIG MOM”的根据地。
 
 <!-- end list -->
 
@@ -107,22 +98,12 @@ to be wild」。
 <!-- end list -->
 
   -
-    草帽海賊團分組行動的期間，於萬國托特蘭偶遇「BIG
-    MOM」第35名女兒暨香吉士被安排的婚約者夏洛特·普琳，獲知香吉士參與政治聯姻的真相。後於偽裝活動期間，偶然聽見隸屬「BIG
-    MOM」麾下的魚人海賊團船長吉貝爾欲退出「BIG MOM」的陣營卻臨時收回成命的消息，還有普琳被「BIG
-    MOM」手下跟隨監護的情形而警覺事態有異。為調查歷史本文一事，遂和同行的毛皮族人佩特羅潛入萬國托特蘭「BIG
-    MOM」的本營，成功取得歷史本文拓本將其藏進[頭蓋骨](https://zh.wikipedia.org/wiki/頭蓋骨 "wikilink")，遭遇「BIG
-    MOM」的兒女手下伏擊並挺身作戰，卻被忽然現身的「BIG MOM」指認為需要活捉的「珍奇異獸」。面對「BIG
-    MOM」的強勢要脅，布魯克迎戰之餘更表達自己已經作好最壞打算的覺悟，不敵「BIG
-    MOM」的攻勢遭活擒，從而得知普琳實為和「BIG MOM」共謀將香吉士和賓什莫克家族全數滅口的實情。
+    草帽海賊團分組行動的期間，於萬國托特蘭偶遇「BIG MOM」第35名女兒暨香吉士被安排的婚約者夏洛特·普琳，獲知香吉士參與政治聯姻的真相。後於偽裝活動期間，偶然聽見隸屬「BIG MOM」麾下的魚人海賊團船長吉貝爾欲退出「BIG MOM」的陣營卻臨時收回成命的消息，還有普琳被「BIG MOM」手下跟隨監護的情形而警覺事態有異。為調查歷史本文一事，遂和同行的毛皮族人佩特羅潛入萬國托特蘭「BIG MOM」的本營，成功取得歷史本文拓本將其藏進[頭蓋骨](https://zh.wikipedia.org/wiki/頭蓋骨 "wikilink")，遭遇「BIG MOM」的兒女手下伏擊並挺身作戰，卻被忽然現身的「BIG MOM」指認為需要活捉的「珍奇異獸」。面對「BIG MOM」的強勢要脅，布魯克迎戰之餘更表達自己已經作好最壞打算的覺悟，不敵「BIG MOM」的攻勢遭活擒，從而得知普琳實為和「BIG MOM」共謀將香吉士和賓什莫克家族全數滅口的實情。
 
 <!-- end list -->
 
   -
-    布魯克透過娜美、喬巴、凱洛特、佩特羅、[吉貝爾協助成功脫困](../Page/吉貝爾.md "wikilink")，偕同夥伴們、對「BIG
-    MOM」心生不滿的凱薩·克勞恩、意圖暗殺「BIG MOM」的火戰車船長卡波涅·培基組成臨時聯盟，執行破壞「BIG
-    MOM」與賓什莫克家族聯姻茶會暨解救賓什莫克家族成員的計畫，趁著婚禮陷入混亂期間破壞「BIG
-    MOM」恩人卡爾梅露修女的照片。眾人逃離萬國托特蘭時協助團員對抗「BIG MOM」與旗下軍團。
+    布魯克透過娜美、喬巴、凱洛特、佩特羅、[吉貝爾](../Page/吉貝爾.md "wikilink")協助成功脫困，偕同夥伴們、對「BIG MOM」心生不滿的凱薩·克勞恩、意圖暗殺「BIG MOM」的火戰車船長卡波涅·培基組成臨時聯盟，執行破壞「BIG MOM」與賓什莫克家族聯姻茶會暨解救賓什莫克家族成員的計畫，趁著婚禮陷入混亂期間破壞「BIG MOM」恩人卡爾梅露修女的照片。眾人逃離萬國托特蘭時協助團員對抗「BIG MOM」與旗下軍團。
 
 <!-- end list -->
 
@@ -162,10 +143,8 @@ to be wild」。
 <!-- end list -->
 
   -
-    布魯克最喜愛的歌曲是《平克斯的美酒》（）；這亦是倫巴海賊團眾人和抹香鯨拉布最喜愛的歌曲。起源於西海，是《ONE
-    PIECE》裡面的很久以前就有的歌，[羅賓指稱這是一首](../Page/妮可·羅賓.md "wikilink")「海賊之歌」，[翻滾海賊團船長蘿拉表示只要是海賊都會唱](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#翻滾海賊團 "wikilink")，[魯夫也表示](../Page/蒙其·D·魯夫.md "wikilink")[「紅髮」傑克他們常唱](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink")。布魯克藏有一個「音貝」，保存了50年前倫巴海賊團的夥伴們臨終之際合奏的《平克斯的酒》，現在則存放於他的[頭蓋骨裡](https://zh.wikipedia.org/wiki/頭蓋骨 "wikilink")。
-    《平克斯的美酒》是《ONE
-    PIECE》原創曲，在創作[恐怖三桅帆船篇的](https://zh.wikipedia.org/wiki/恐怖三桅帆船 "wikilink")4至5年前，作者[尾田榮一郎已拜託動畫音樂大師](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[田中公平為此曲作曲](../Page/田中公平.md "wikilink")；而歌詞則由尾田本人創作，並在漫畫第488話首次公布。所以自從布魯克首次出場，這首歌曲已經完成了\[8\]。歌詞中還添加了布魯克的招牌「喲呵呵呵」的笑聲。
+    布魯克最喜愛的歌曲是《平克斯的美酒》（）；這亦是倫巴海賊團眾人和抹香鯨拉布最喜愛的歌曲。起源於西海，是《ONE PIECE》裡面的很久以前就有的歌，[羅賓指稱這是一首](../Page/妮可·羅賓.md "wikilink")「海賊之歌」，[翻滾海賊團船長蘿拉表示只要是海賊都會唱](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#翻滾海賊團 "wikilink")，[魯夫也表示](../Page/蒙其·D·魯夫.md "wikilink")[「紅髮」傑克他們常唱](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink")。布魯克藏有一個「音貝」，保存了50年前倫巴海賊團的夥伴們臨終之際合奏的《平克斯的酒》，現在則存放於他的[頭蓋骨裡](https://zh.wikipedia.org/wiki/頭蓋骨 "wikilink")。
+    《平克斯的美酒》是《ONE PIECE》原創曲，在創作[恐怖三桅帆船篇的](https://zh.wikipedia.org/wiki/恐怖三桅帆船 "wikilink")4至5年前，作者[尾田榮一郎已拜託動畫音樂大師](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[田中公平](../Page/田中公平.md "wikilink")為此曲作曲；而歌詞則由尾田本人創作，並在漫畫第488話首次公布。所以自從布魯克首次出場，這首歌曲已經完成了\[8\]。歌詞中還添加了布魯克的招牌「喲呵呵呵」的笑聲。
 
 <!-- end list -->
 
@@ -180,7 +159,7 @@ to be wild」。
 
 ### 夥伴
 
-布魯克目前跟隨以[蒙其·D·魯夫為首的夥伴同行](../Page/蒙其·D·魯夫.md "wikilink")，通稱「[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")」，夥伴包括[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")、[娜美](../Page/娜美.md "wikilink")、[騙人布](../Page/騙人布.md "wikilink")、[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")、[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")、[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")、[佛朗基](../Page/佛朗基.md "wikilink")、[吉貝爾](../Page/吉貝爾.md "wikilink")
+布魯克目前跟隨以[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")為首的夥伴同行，通稱「[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")」，夥伴包括[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")、[娜美](../Page/娜美.md "wikilink")、[騙人布](../Page/騙人布.md "wikilink")、[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")、[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")、[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")、[佛朗基](../Page/佛朗基.md "wikilink")、[吉貝爾](../Page/吉貝爾.md "wikilink")
 
 ## 參考資料
 
@@ -194,15 +173,9 @@ to be wild」。
 
 ## 相關項目
 
-[ca:Llista de personatges de One
-Piece\#Brook](https://zh.wikipedia.org/wiki/ca:Llista_de_personatges_de_One_Piece#Brook "wikilink")
-[en:List of One Piece
-characters\#Brook](https://zh.wikipedia.org/wiki/en:List_of_One_Piece_characters#Brook "wikilink")
+[ca:Llista de personatges de One Piece\#Brook](https://zh.wikipedia.org/wiki/ca:Llista_de_personatges_de_One_Piece#Brook "wikilink") [en:List of One Piece characters\#Brook](https://zh.wikipedia.org/wiki/en:List_of_One_Piece_characters#Brook "wikilink")
 
-[Category:草帽海賊團](https://zh.wikipedia.org/wiki/Category:草帽海賊團 "wikilink")
-[Category:虛構男性動漫角色](https://zh.wikipedia.org/wiki/Category:虛構男性動漫角色 "wikilink")
-[Category:虚构不死生物](https://zh.wikipedia.org/wiki/Category:虚构不死生物 "wikilink")
-[Category:虛構音樂家](https://zh.wikipedia.org/wiki/Category:虛構音樂家 "wikilink")
+[Category:草帽海賊團](https://zh.wikipedia.org/wiki/Category:草帽海賊團 "wikilink") [Category:虛構男性動漫角色](https://zh.wikipedia.org/wiki/Category:虛構男性動漫角色 "wikilink") [Category:虚构不死生物](https://zh.wikipedia.org/wiki/Category:虚构不死生物 "wikilink") [Category:虛構音樂家](https://zh.wikipedia.org/wiki/Category:虛構音樂家 "wikilink")
 
 1.  《ONE PIECE》漫畫第858話
 

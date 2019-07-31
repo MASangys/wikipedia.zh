@@ -86,8 +86,7 @@
 
 ## Bühne自治區．加爾迪羅貝學園
 
-<span style="font-size:smaller;">（
-德文Bühne，指舞台；德文Garderobe，指劇場的後臺）</span>
+<span style="font-size:smaller;">（ 德文Bühne，指舞台；德文Garderobe，指劇場的後臺）</span>
 
 風花王國境內，面積小、擁有自治權、以乙HiME養成機構「加爾迪羅貝學園」為中心所構成的獨立國家。
 
@@ -114,8 +113,7 @@
 <span style="font-size:smaller;">聲優：[千葉紗子](../Page/千葉紗子.md "wikilink")</span>
 
   -
-    擁有GEM・稱號：冰雪之銀水晶（Ice Silver
-    Crystal）起源：庫魯格[伯邊境領](http://en.wikipedia.org/wiki/Margrave)　
+    擁有GEM・稱號：冰雪之銀水晶（Ice Silver Crystal）起源：庫魯格[伯邊境領](http://en.wikipedia.org/wiki/Margrave)　
     主人：真祖—二三．姬野
     加爾迪羅貝學園長兼Bühne自治區元首，亦是五柱之一。
 
@@ -167,8 +165,7 @@
 <!-- end list -->
 
   -
-    被稱為真祖的、史上第一名的乙HiME，於十二王戰爭時代突然出現，為戰爭畫上休止符的傳說般的人物，作為乙HiME們力量的泉源，長眠在加爾迪羅貝靈廟的「真祖之間」，擔任著生產GEM的「母體」的角色。主人是貌似真白的一位少女，於舞-乙HiME
-    0～S.ifr開頭有那名少女對他進行認證的畫面。:於第一話，供奉在真祖之間的真白金剛石被偷走了。
+    被稱為真祖的、史上第一名的乙HiME，於十二王戰爭時代突然出現，為戰爭畫上休止符的傳說般的人物，作為乙HiME們力量的泉源，長眠在加爾迪羅貝靈廟的「真祖之間」，擔任著生產GEM的「母體」的角色。主人是貌似真白的一位少女，於舞-乙HiME 0～S.ifr開頭有那名少女對他進行認證的畫面。:於第一話，供奉在真祖之間的真白金剛石被偷走了。
 
 ### 學員人員和學生
 
@@ -232,8 +229,7 @@
 
 ## 愛瑞斯共和國
 
-<span style="font-size:smaller;">（ Aries Republic）</span>
-擁有整個星球上最強的經濟能力，唯一罷黜君主制、執行共和制的經濟大國，王家代代相傳的GEM為「珠洲之黃玉」藍本為美國。
+<span style="font-size:smaller;">（ Aries Republic）</span> 擁有整個星球上最強的經濟能力，唯一罷黜君主制、執行共和制的經濟大國，王家代代相傳的GEM為「珠洲之黃玉」藍本為美國。
 
   - 雪之．克利桑德（ Yukino Chrysant）
 
@@ -298,8 +294,7 @@
 
 ## 阿爾泰公國
 
-<span style="font-size:smaller;">（ Altai dukedom）</span>
-位於風花王國北方的強大軍事國家。藍本為[俄羅斯聯邦](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
+<span style="font-size:smaller;">（ Altai dukedom）</span> 位於風花王國北方的強大軍事國家。藍本為[俄羅斯聯邦](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
 
   - 凪．戴．阿爾泰（ Nagi．Dai．Altai）
 
@@ -319,8 +314,7 @@
 <span style="font-size:smaller;">聲優：[小清水亞美](../Page/小清水亞美.md "wikilink")</span>
 
   -
-    擁有GEM・稱號：漆黑之金鋼石（Ultimate Black Diamond）→海神之翠玉（Neptune
-    Emerald）　起源：阿爾泰公國
+    擁有GEM・稱號：漆黑之金鋼石（Ultimate Black Diamond）→海神之翠玉（Neptune Emerald）　起源：阿爾泰公國
     主人：阿爾泰大公—颯．戴．阿爾泰→風花王國女王－真白‧布蘭‧杜‧溫德布倫
     因為對亞里香的嫉妒心，而使漆黑之金鋼石有了反應，因而變成漆黑之金鋼石的主人，但在原著最後被打敗。
     於第三話和奈緒一起前往阿爾泰的遺跡，但在最後被不明力量彈到黑谷（貓神山）的湖中遺跡裡。
@@ -337,8 +331,7 @@
 
 ## 卡迪亞帝國
 
-<span style="font-size:smaller;">（ Cardair Empire）</span>
-與佛羅倫斯自古對立的國家，王家代代相傳的GEM為「瑰麗之縞瑪瑙」藍本為[巴比倫王國](https://zh.wikipedia.org/wiki/巴比倫王國 "wikilink")（及[羅馬帝國](../Page/羅馬帝國.md "wikilink")）。
+<span style="font-size:smaller;">（ Cardair Empire）</span> 與佛羅倫斯自古對立的國家，王家代代相傳的GEM為「瑰麗之縞瑪瑙」藍本為[巴比倫王國](https://zh.wikipedia.org/wiki/巴比倫王國 "wikilink")（及[羅馬帝國](../Page/羅馬帝國.md "wikilink")）。
 
   - 和也．克勞捷克（ Cazya．Crauzec）
 
@@ -363,16 +356,14 @@
 
 ## 佛羅倫斯
 
-<span style="font-size:smaller;">（ Florince）</span>
-王家代代相傳的GEM為「清戀之孔雀石」與「螺旋之蛇紋石」，藍本為[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")。
+<span style="font-size:smaller;">（ Florince）</span> 王家代代相傳的GEM為「清戀之孔雀石」與「螺旋之蛇紋石」，藍本為[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")。
 
   - 查理夏爾洛八世（ Charles Guinel Roy d'Florince VIII ）
 
 <span style="font-size:smaller;">聲優：[岩尾萬太郎](https://zh.wikipedia.org/wiki/岩尾萬太郎 "wikilink")</span>
 
   -
-    擁有GEM：清戀之孔雀石（Pure Heart Malachite）→深淵之翡翠（Abyssal Green
-    Jadeite）、螺旋之蛇紋石（Spiral Spin Serpentine）
+    擁有GEM：清戀之孔雀石（Pure Heart Malachite）→深淵之翡翠（Abyssal Green Jadeite）、螺旋之蛇紋石（Spiral Spin Serpentine）
     契約的乙HiME：羅莎麗．克勞迪爾、詩帆．尤伊
     佛羅倫斯國王，在風華事變戰爭中被颯威脅的國王。
 
@@ -383,8 +374,7 @@
 <span style="font-size:smaller;">聲優：[高橋美佳子](../Page/高橋美佳子.md "wikilink")</span>
 
   -
-    擁有GEM．稱號：清戀之孔雀石（Pure Heart Malachite）→深淵之翡翠（Abyssal Green
-    Jadeite）起源：佛羅倫斯
+    擁有GEM．稱號：清戀之孔雀石（Pure Heart Malachite）→深淵之翡翠（Abyssal Green Jadeite）起源：佛羅倫斯
     主人：佛羅倫斯國王—查理夏爾洛八世
     原是清戀的孔雀石的擁有者但因茜與和也私奔而又用深淵的翡翠再次定下契約。
     在第一話時也有協助擊破隕石。講話時習慣在重點處一個字一個字的念。
@@ -404,8 +394,7 @@
 
 ## 羅繆勒斯同盟王國
 
-<span style="font-size:smaller;">（ United Kingdom of Lutesia）
-Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
+<span style="font-size:smaller;">（ United Kingdom of Lutesia） Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
 
 ### 羅繆勒斯
 
@@ -520,7 +509,7 @@ Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
 
 ## 黑團
 
-<span style="font-size:smaller;">（ Schwartz）</span>
+<span style="font-size:smaller;">（ Schwartz）</span> 藍本為[香港](../Page/香港.md "wikilink")。
 
 是個邪惡的團體。風花事變後，交由黑谷（貓神山）管理。
 
@@ -560,7 +549,6 @@ Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
   - [維基百科(日) 舞-乙HiME](http://ja.wikipedia.org/wiki/舞-乙HiME)
   - [維基百科(英) 舞-乙HiME](http://en.wikipedia.org/wiki/My-Otome)
 
-[Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
 1.  部分資料翻譯並改編自[維基百科(英) 舞-乙HiME](http://en.wikipedia.org/wiki/My-Otome)

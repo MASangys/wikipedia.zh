@@ -1,19 +1,14 @@
-「**音速小子 X**」（英文：Sonic X　日文：ソニック エックス）是一部由[日本](../Page/日本.md "wikilink")
-[東京電視台和](../Page/東京電視台.md "wikilink")[TMS
-Entertainment製作的動畫](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")。作品角色取自著名電玩[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")，劇情則是在穿越時空的原創故事中，混入系列過去多個遊戲的主線內容。總共三季，每季26集，第三季未在日本放映，有日文配音。[日本於](../Page/日本.md "wikilink")2003年4月6日至2004年3月28日於[東京電視台播放第一季和第二季](../Page/東京電視台.md "wikilink")，而第三季始終未播放。
+「**音速小子 X**」（英文：Sonic X　日文：ソニック エックス）是一部由[日本](../Page/日本.md "wikilink") [東京電視台](../Page/東京電視台.md "wikilink")和[TMS Entertainment製作的動畫](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")。作品角色取自著名電玩[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")，劇情則是在穿越時空的原創故事中，混入系列過去多個遊戲的主線內容。總共三季，每季26集，第三季未在日本放映，有日文配音。[日本](../Page/日本.md "wikilink")於2003年4月6日至2004年3月28日於[東京電視台](../Page/東京電視台.md "wikilink")播放第一季和第二季，而第三季始終未播放。
 
-[香港在](../Page/香港.md "wikilink")2005年1月3日至3月17日於[無綫電視翡翠台首播第一季與第二季](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")（1\~52集），其後在2005年10月5日至11月14日播放第三季（53\~78集）。[台灣的第一季到第三季都在](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東森幼幼台播映](../Page/東森幼幼台.md "wikilink")。
+[香港](../Page/香港.md "wikilink")在2005年1月3日至3月17日於[無綫電視翡翠台首播第一季與第二季](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")（1\~52集），其後在2005年10月5日至11月14日播放第三季（53\~78集）。[台灣的第一季到第三季都在](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東森幼幼台](../Page/東森幼幼台.md "wikilink")播映。
 
 ## 故事大意
 
 ### 第一季（第1 - 26集）
 
-根據傳說，能收集到七顆渾沌寶石(Chaos Emerald)就能獲得全世界，邪惡天才科學家 -
-蛋頭博士企圖利用這股力量統治世界，但音速小子卻總是破壞他的計畫。在一次的對決中，音速小子把蛋頭博士的機器弄壞了，而蛋頭博士在混亂之下，按下了機器的開關，使得故障的機器啟動了渾沌制御(Chaos
-Control)，造成時空扭轉，把音速小子與他的夥伴們送往另一個世界。在這個世界，音速小子認識了一名叫克里斯的少年，與他成為莫逆之交，也在克里斯的幫助下，找回失散的同伴，但蛋頭博士仍不放棄征服世界的野心，再度與音速小子展開死鬥。
+根據傳說，能收集到七顆渾沌寶石(Chaos Emerald)就能獲得全世界，邪惡天才科學家 - 蛋頭博士企圖利用這股力量統治世界，但音速小子卻總是破壞他的計畫。在一次的對決中，音速小子把蛋頭博士的機器弄壞了，而蛋頭博士在混亂之下，按下了機器的開關，使得故障的機器啟動了渾沌制御(Chaos Control)，造成時空扭轉，把音速小子與他的夥伴們送往另一個世界。在這個世界，音速小子認識了一名叫克里斯的少年，與他成為莫逆之交，也在克里斯的幫助下，找回失散的同伴，但蛋頭博士仍不放棄征服世界的野心，再度與音速小子展開死鬥。
 
-※："Chaos"在英文的原意為渾沌(亦寫作混沌)，指的是[虛空](https://zh.wikipedia.org/wiki/虛空 "wikilink")，或者沒有結構的均勻狀態。“卡歐斯”是“Chaos”音譯成日文“カオス”再音譯成中文的翻譯。[Sega似乎在音速小子大冒險](https://zh.wikipedia.org/wiki/Sega "wikilink")2(Sonic
-Adventure 2，DC/GC的電玩)中，將之定義為時間與空間的渾沌能量。
+※："Chaos"在英文的原意為渾沌(亦寫作混沌)，指的是[虛空](https://zh.wikipedia.org/wiki/虛空 "wikilink")，或者沒有結構的均勻狀態。“卡歐斯”是“Chaos”音譯成日文“カオス”再音譯成中文的翻譯。[Sega似乎在音速小子大冒險](https://zh.wikipedia.org/wiki/Sega "wikilink")2(Sonic Adventure 2，DC/GC的電玩)中，將之定義為時間與空間的渾沌能量。
 “Emerald”的原意是綠寶石或翡翠，但是渾沌寶石只有一顆是綠色，所以翻作寶石，這是[Sega一直以來的誤用](https://zh.wikipedia.org/wiki/Sega "wikilink")。
 “Chaos Control”算是一種動作或是現象，不算是機器，只是蛋頭博士必須靠著機器的力量去使用而已。
 
@@ -23,13 +18,9 @@ Adventure 2，DC/GC的電玩)中，將之定義為時間與空間的渾沌能量
 
 ### 第三季（第53 - 78集）
 
-塔爾斯、艾咪和克琳姆在觀賞流星雨時，意外認識了從外星來的波斯菊，同時梅達列克斯也開始攻擊他們居住的星球，並奪走行星之卵(Planet
-Egg)。正當大家被梅達列克斯搞的烏煙瘴氣時，克里斯竟然出現在渾沌之母(Master
-Emerald)前，原來他藉由渾沌之母發出的能量當媒介來到這個世界，但因為途中出了差錯，他的外表從十八歲變成十二歲，但記憶並沒有流失。經過波斯菊解釋後，才知道行星之卵被奪走的星球最後都會毀滅，於是，音速小子他們乘坐由塔爾斯所建造的
-- 藍色颱風號展開了宇宙之旅。
+塔爾斯、艾咪和克琳姆在觀賞流星雨時，意外認識了從外星來的波斯菊，同時梅達列克斯也開始攻擊他們居住的星球，並奪走行星之卵(Planet Egg)。正當大家被梅達列克斯搞的烏煙瘴氣時，克里斯竟然出現在渾沌之母(Master Emerald)前，原來他藉由渾沌之母發出的能量當媒介來到這個世界，但因為途中出了差錯，他的外表從十八歲變成十二歲，但記憶並沒有流失。經過波斯菊解釋後，才知道行星之卵被奪走的星球最後都會毀滅，於是，音速小子他們乘坐由塔爾斯所建造的 - 藍色颱風號展開了宇宙之旅。
 
-※："Planet Egg"用在中文應該翻作"行星之卵"，因為"惑星"一詞為日文。"Master
-Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌寶石之主"，而且渾沌寶石也只有一顆是綠的，所以翻作"渾沌寶石之母"較為合宜。因為劇中常以卡歐斯寶石簡稱七顆渾沌寶石，固翻作"渾沌之母"。
+※："Planet Egg"用在中文應該翻作"行星之卵"，因為"惑星"一詞為日文。"Master Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌寶石之主"，而且渾沌寶石也只有一顆是綠的，所以翻作"渾沌寶石之母"較為合宜。因為劇中常以卡歐斯寶石簡稱七顆渾沌寶石，固翻作"渾沌之母"。
 
 ## 登場人物介紹
 
@@ -38,14 +29,12 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
   -  - Sonic the Hedgehog
     本作男主角，藍色刺蝟，能以音速般的速度奔跑。蛋頭博士的頭號死敵。
     在第一季中，蛋頭博士的機器發生故障，被送到另一個世界。由於他不小心掉入游泳池，被克里斯救上岸，也因此與之相識，與朋友相聚之後就寄宿於克里斯家。與克里斯非常要好，在第26集中，他運用渾沌制御把自己的世界與克里斯的世界融合，因為他不想跟他分開。第二季的49到52集中，因為音速小子把兩個世界融合的關係，時間正面臨靜止的危機，他不得不與克里斯道別。
-    第三季中，他以超級音速小子的姿態與黑歐克決鬥，但依然不敵這個金屬怪物而失敗，為了避免七顆卡歐斯寶石落入敵人手中，他將寶石分散至宇宙中。塔爾斯建造的大型太空船–藍色颱風號(Blue
-    Typhoon)上有個大砲，音速小子可以用高速旋轉的方式，從砲口發射，並且有個回收器，可以回收發射出去的音速小子。
+    第三季中，他以超級音速小子的姿態與黑歐克決鬥，但依然不敵這個金屬怪物而失敗，為了避免七顆卡歐斯寶石落入敵人手中，他將寶石分散至宇宙中。塔爾斯建造的大型太空船–藍色颱風號(Blue Typhoon)上有個大砲，音速小子可以用高速旋轉的方式，從砲口發射，並且有個回收器，可以回收發射出去的音速小子。
 
 <!-- end list -->
 
   -  - Miles「Tails」Prower
-    雙尾狐狸，能夠用兩條尾巴在空中翱翔。他的本名來自英文的每小時幾英哩(miles per
-    hour)，因為它有兩條尾巴，其他人（尚未認識音速小子）稱他為塔爾斯(英文尾巴複數形"Tails"的音譯)。雖然只有八歲，可是卻有著天才的頭腦，在機械方面特別有天份。
+    雙尾狐狸，能夠用兩條尾巴在空中翱翔。他的本名來自英文的每小時幾英哩(miles per hour)，因為它有兩條尾巴，其他人（尚未認識音速小子）稱他為塔爾斯(英文尾巴複數形"Tails"的音譯)。雖然只有八歲，可是卻有著天才的頭腦，在機械方面特別有天份。
 
 <!-- end list -->
 
@@ -62,11 +51,8 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
 <!-- end list -->
 
   -  - Knuckles the Echidna
-    古代的戰鬥名族 -
-    納寇茲的末裔，因為是末裔，所以用族民作自己的名字。腦袋不大靈光，但是非常善良，永不放棄希望。容易受騙上當，常常被蛋頭博士欺騙，音速小子他們常嘲笑他是單細胞生物。納寇茲不是土撥鼠，是[針鼴](https://zh.wikipedia.org/wiki/針鼴 "wikilink")，這種生物挖的洞不深，所以納寇茲才會需要鐵鍬爪(Shovel
-    Claw)。
-    ※："Knuckles"的原意是指關節，但日本人常將之用為揍人拳頭(從Sega製作的遊戲Bare
-    Knuckles可知)。因為音速小子本是以美國文化為主，固"納寇茲"是英文音譯，日文音譯為"納克魯茲"(ナックルズ)，[台灣地區則譯為](https://zh.wikipedia.org/wiki/台灣地區 "wikilink")"納克"。
+    古代的戰鬥名族 - 納寇茲的末裔，因為是末裔，所以用族民作自己的名字。腦袋不大靈光，但是非常善良，永不放棄希望。容易受騙上當，常常被蛋頭博士欺騙，音速小子他們常嘲笑他是單細胞生物。納寇茲不是土撥鼠，是[針鼴](https://zh.wikipedia.org/wiki/針鼴 "wikilink")，這種生物挖的洞不深，所以納寇茲才會需要鐵鍬爪(Shovel Claw)。
+    ※："Knuckles"的原意是指關節，但日本人常將之用為揍人拳頭(從Sega製作的遊戲Bare Knuckles可知)。因為音速小子本是以美國文化為主，固"納寇茲"是英文音譯，日文音譯為"納克魯茲"(ナックルズ)，[台灣地區則譯為](https://zh.wikipedia.org/wiki/台灣地區 "wikilink")"納克"。
 
 <!-- end list -->
 
@@ -77,8 +63,7 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
 <!-- end list -->
 
   -  - Cosmo
-    第三季才登場，被梅達列克斯追緝，逃到音速小子居住的星球，為了奪回各星球的生命，行星之卵(Planet
-    Egg)，與音速小子他們一同旅行。與塔爾斯感情很好，最後為了打敗梅達列克斯犧牲自己的生命，與塔爾斯天人永隔。
+    第三季才登場，被梅達列克斯追緝，逃到音速小子居住的星球，為了奪回各星球的生命，行星之卵(Planet Egg)，與音速小子他們一同旅行。與塔爾斯感情很好，最後為了打敗梅達列克斯犧牲自己的生命，與塔爾斯天人永隔。
     其族人擁有特殊的變身能力，男性可以變成巨大的怪獸，代價是迅速死亡，女性可以變身為植物，不論男女好像都會在死後變為植物的種子。
     ※：Cosmos可翻作宇宙或是大波斯菊，日本人常消掉最後一個s的發音(カスモ)。
 
@@ -146,9 +131,7 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
   -  - Dark Oak
     梅達列克斯的首領，與波斯菊原本是同一族人，但是穿著機械裝甲，有如機器人一般，為了達成森化的計畫，所以決定奪取其他行星的行星之卵，創造和平的寂靜宇宙，亦即杳無人煙的宇宙。
   -  - The Big Four
-    於第三季登場的敵人，跟闇橡樹一樣是波斯菊的族人，同樣穿著機械裝甲，他們追隨闇橡樹，同時也是梅達列克斯的四大天王，分別為月桂樹貝爾(Pale
-    Bay Leaf)、黑水仙納西斯(Black Narcissus)、黃櫸樹榆科(Yellow Zelkova)和紅松木(Red
-    Pine)。其中紅松木是登場集數最少的四大天王，第一次出場就被吸入黑洞中。
+    於第三季登場的敵人，跟闇橡樹一樣是波斯菊的族人，同樣穿著機械裝甲，他們追隨闇橡樹，同時也是梅達列克斯的四大天王，分別為月桂樹貝爾(Pale Bay Leaf)、黑水仙納西斯(Black Narcissus)、黃櫸樹榆科(Yellow Zelkova)和紅松木(Red Pine)。其中紅松木是登場集數最少的四大天王，第一次出場就被吸入黑洞中。
 
 ### 其他角色
 
@@ -157,8 +140,7 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
 <!-- end list -->
 
   -
-    自稱「究極生命體」(The Ultimate Life Form)，由蛋頭博士的爺爺 - 傑洛德教授(Pr.
-    Gerald)創造。長得跟音速小子很像，但是是黑色的身體有著紅色的線。胸前有一撮白色的毛。
+    自稱「究極生命體」(The Ultimate Life Form)，由蛋頭博士的爺爺 - 傑洛德教授(Pr. Gerald)創造。長得跟音速小子很像，但是是黑色的身體有著紅色的線。胸前有一撮白色的毛。
     擁有操控渾沌寶石的力量，能力與音速小子相當，甚至在其之上，為了幫五十年前被誤殺的瑪莉亞(Maria)報仇而想要毀滅世界，但最後想起瑪莉亞真正的願望是保護人類所以犧牲自己保住地球。
     蛋頭博士在他墜落於地球後，將之救起，但是他在第三季才得以恢復，且喪失了記憶。由於蛋頭博士騙他可以讓他回復記憶，而聽從蛋頭博士的指示作事。後來從露露戳破了蛋頭博士的謊言後，便離開了蛋頭博士，為了自己而行動。
     想殺害波斯菊，目的是「為了不再讓更多人受害」。
@@ -289,8 +271,7 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
 
 ## 製作人員
 
-  - 原案: [SEGA](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink") [Sonic
-    Team](../Page/Sonic_Team.md "wikilink")、日本咕嚕咕嚕漫畫月刊、日本咕嚕咕嚕漫畫別冊
+  - 原案: [SEGA](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink") [Sonic Team](../Page/Sonic_Team.md "wikilink")、日本咕嚕咕嚕漫畫月刊、日本咕嚕咕嚕漫畫別冊
   - 企劃：SONIC Project
   - 監製：中裕司
   - 總策劃：佐佐木絵美
@@ -309,8 +290,7 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
   - 音效監督：百瀬慶一
   - 音樂設計：高野壽夫
   - 動畫製作人：水沼健二
-  - 製作人：笹村武史([東京電視台](../Page/東京電視台.md "wikilink"))、松元理人(TMS
-    Entertainment)
+  - 製作人：笹村武史([東京電視台](../Page/東京電視台.md "wikilink"))、松元理人(TMS Entertainment)
   - 監督：龜垣一
   - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、TMS Entertainment
 
@@ -320,16 +300,14 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
 
 1.  「SONIC DRIVE」
       -
-        作詞：相田毅　作曲・編曲：渡部チェル　主唱：[影山浩宣](../Page/影山浩宣.md "wikilink") ＆
-        [高取秀明](../Page/高取秀明.md "wikilink")
+        作詞：相田毅　作曲・編曲：渡部チェル　主唱：[影山浩宣](../Page/影山浩宣.md "wikilink") ＆ [高取秀明](../Page/高取秀明.md "wikilink")
 
 ### 片尾曲
 
 1.  「ミ・ラ・イ」(日文發音：Mi-Ra-I　英文譯名：Future　中文譯名：未來) 第1集-第13集
       -
         作詞・作曲・編曲：馬場一嘉　主唱：RUN & GUN
-2.  「光る道」(日文發音：Hikaru Michi　英文譯名：The Shining Road　中文譯名：光之道)
-    第14集-第39集、第53集-第78集
+2.  「光る道」(日文發音：Hikaru Michi　英文譯名：The Shining Road　中文譯名：光之道) 第14集-第39集、第53集-第78集
       -
         作詞：田口俊　作曲・編曲：松任谷正隆　主唱：廣重綾
 3.  「T.O.P」第40集-第52集
@@ -342,12 +320,4 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
   - [音速小子 X（東京電影）](http://www.tms-e.com/library/on_air_back/sonic/)
   - [音速小子 X（東京電視台）](http://www.tv-tokyo.co.jp/anime/sonic_x/)
 
-[Category:2003年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2003年日本電視動畫 "wikilink")
-[Category:2003年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2003年東京電視網動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:刺猬索尼克系列](https://zh.wikipedia.org/wiki/Category:刺猬索尼克系列 "wikilink")
-[Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:Bilibili外購動畫](https://zh.wikipedia.org/wiki/Category:Bilibili外購動畫 "wikilink")
-[Category:愛奇藝外購動畫](https://zh.wikipedia.org/wiki/Category:愛奇藝外購動畫 "wikilink")
+[Category:2003年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2003年日本電視動畫 "wikilink") [Category:2003年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2003年東京電視網動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:刺猬索尼克系列](https://zh.wikipedia.org/wiki/Category:刺猬索尼克系列 "wikilink") [Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:Bilibili外購動畫](https://zh.wikipedia.org/wiki/Category:Bilibili外購動畫 "wikilink") [Category:愛奇藝外購動畫](https://zh.wikipedia.org/wiki/Category:愛奇藝外購動畫 "wikilink")

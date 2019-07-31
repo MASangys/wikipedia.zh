@@ -1,7 +1,4 @@
-**General MIDI Level
-2**，簡稱**GM2**，是[MIDI](../Page/MIDI.md "wikilink")的標準規格。它的基礎是[General
-MIDI以及](../Page/General_MIDI.md "wikilink")[GS
-extensions](https://zh.wikipedia.org/wiki/GS_extensions "wikilink")。在1999年被[MIDI制造商协会](https://zh.wikipedia.org/wiki/MIDI制造商协会 "wikilink")(MMA)所採用。
+**General MIDI Level 2**，簡稱**GM2**，是[MIDI](../Page/MIDI.md "wikilink")的標準規格。它的基礎是[General MIDI以及](../Page/General_MIDI.md "wikilink")[GS extensions](https://zh.wikipedia.org/wiki/GS_extensions "wikilink")。在1999年被[MIDI制造商协会](https://zh.wikipedia.org/wiki/MIDI制造商协会 "wikilink")(MMA)所採用。
 
 ## 最低需求條件
 
@@ -14,9 +11,7 @@ extensions](https://zh.wikipedia.org/wiki/GS_extensions "wikilink")。在1999年
 
 ### 音色及群組轉換事件（Program and bank change events）
 
-General MIDI 2相容的合成器透過設定cc\#0 (Bank Select MSB)至121並使用cc\#32 (Bank
-Select
-LSB)在音色轉換之前去選定各個群組。群組0包含了原本[GM中所有的聲音組](https://zh.wikipedia.org/wiki/GM "wikilink")。
+General MIDI 2相容的合成器透過設定cc\#0 (Bank Select MSB)至121並使用cc\#32 (Bank Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[GM中所有的聲音組](https://zh.wikipedia.org/wiki/GM "wikilink")。
 
 ### 旋律音色
 
@@ -1673,11 +1668,9 @@ LSB)在音色轉換之前去選定各個群組。群組0包含了原本[GM中所
 
 ### 鼓組
 
-這些音色編號和GS是一樣的。藉由設定cc\#0 (Bank Select MSB)至120、cc\#32 (Bank Select
-LSB)至0，還有音色轉換（Program Change）去選擇鼓組。
+這些音色編號和GS是一樣的。藉由設定cc\#0 (Bank Select MSB)至120、cc\#32 (Bank Select LSB)至0，還有音色轉換（Program Change）去選擇鼓組。
 
-  - 1 Standard Kit－唯一在[General MIDI Level
-    1中被規定的鼓組](../Page/General_MIDI.md "wikilink")
+  - 1 Standard Kit－唯一在[General MIDI Level 1中被規定的鼓組](../Page/General_MIDI.md "wikilink")
   - 9 Room Kit－較為環繞的鼓組音色
   - 17 Power Kit－較有力道的鼓組
   - 25 Electronic Kit－各種電子鼓機的模擬

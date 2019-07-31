@@ -1,28 +1,13 @@
-**E-UTRA(N)**（Evolved Universal Terrestrial Radio Access
-(Network)，演進的通用陸面無線接入(网络)），屬於[3GPP](../Page/3GPP.md "wikilink")
-[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")
-的[空中介面](https://zh.wikipedia.org/wiki/空中介面 "wikilink")\[1\]，目前是
-3GPP 的第八版本。與 [HSPA](https://zh.wikipedia.org/wiki/HSPA "wikilink")
-不同的是，LTE 的 E-UTRA
-係一全新的系統，絕不相容於W-CDMA。它提供了更高的传输速率，低延迟和最佳化数据包的能力，用[OFDMA无线接入给下行连接](https://zh.wikipedia.org/wiki/OFDMA "wikilink")，[SC-FDMA](../Page/SC-FDMA.md "wikilink")给上行连接。
-[EUTRAN_arch.op.svg](https://zh.wikipedia.org/wiki/File:EUTRAN_arch.op.svg "fig:EUTRAN_arch.op.svg")
-and
-[SAE](https://zh.wikipedia.org/wiki/System_Architecture_Evolution "wikilink")
-network\]\]
+**E-UTRA(N)**（Evolved Universal Terrestrial Radio Access (Network)，演進的通用陸面無線接入(网络)），屬於[3GPP](../Page/3GPP.md "wikilink") [LTE](https://zh.wikipedia.org/wiki/LTE "wikilink") 的[空中介面](https://zh.wikipedia.org/wiki/空中介面 "wikilink")\[1\]，目前是 3GPP 的第八版本。與 [HSPA](https://zh.wikipedia.org/wiki/HSPA "wikilink") 不同的是，LTE 的 E-UTRA 係一全新的系統，絕不相容於W-CDMA。它提供了更高的传输速率，低延迟和最佳化数据包的能力，用[OFDMA无线接入给下行连接](https://zh.wikipedia.org/wiki/OFDMA "wikilink")，[SC-FDMA](../Page/SC-FDMA.md "wikilink")给上行连接。 [EUTRAN_arch.op.svg](https://zh.wikipedia.org/wiki/File:EUTRAN_arch.op.svg "fig:EUTRAN_arch.op.svg") and [SAE](https://zh.wikipedia.org/wiki/System_Architecture_Evolution "wikilink") network\]\]
 
 ## 特色
 
 E-UTRA 具有如下的特色：
 
-  - 峰值下載速率（Peak download rates）為292 Mbit/s的為4x4的天線，143 Mbit/s的天線為2x2的20
-    MHz的頻譜\[2\]。
+  - 峰值下載速率（Peak download rates）為292 Mbit/s的為4x4的天線，143 Mbit/s的天線為2x2的20 MHz的頻譜\[2\]。
   - 峰值上傳速率71 Mbit / s的每20 MHz的頻譜\[3\]。
-  - 彈性化的頻寬在1.25 MHz到20 MHz之間. ：1.4 MHz，3 MHz，5 MHz，15 MHz和20 MHz的標準化。
-    相較之下, W-CDMA 一般只使用5 MHz頻譜。
-  - [頻譜效率](../Page/頻譜效率.md "wikilink")（[頻譜效率](../Page/頻譜效率.md "wikilink")）
-    增加到 2-4 倍，遠較 3GPP
-    ([HSPA](https://zh.wikipedia.org/wiki/HSPA "wikilink")) release 6
-    要好。
+  - 彈性化的頻寬在1.25 MHz到20 MHz之間. ：1.4 MHz，3 MHz，5 MHz，15 MHz和20 MHz的標準化。 相較之下, W-CDMA 一般只使用5 MHz頻譜。
+  - [頻譜效率](../Page/頻譜效率.md "wikilink")（[頻譜效率](../Page/頻譜效率.md "wikilink")） 增加到 2-4 倍，遠較 3GPP ([HSPA](https://zh.wikipedia.org/wiki/HSPA "wikilink")) release 6 要好。
   - 低數據傳輸延遲
   - 支持終端移動速度高達350公里/小時或500公里/小時（取決於頻段）。
   - 同時支持[FDD和](https://zh.wikipedia.org/wiki/FDD "wikilink")[TDD的複式以及半雙工FDD相同的無線接入技術](https://zh.wikipedia.org/wiki/TDD "wikilink")。
@@ -34,18 +19,15 @@ E-UTRA 具有如下的特色：
 
 ## 基本原理
 
-雖然随着UMTS與HSDPA技術和HSUPA技術及其發展，提供高數據傳輸速率的無線數據使用量預計將繼續大幅增加，在未來幾年由於需求的增加和提供的服務和內容上的搬遷，需要繼續為最終用戶削減成本。預計這一增長不僅需要更快的網絡和無線電接口，但也更符合成本效益比，是現行標準可能的演變。
-因此，3GPP的財團提出了要求。新的無線電接口（EUTRAN）和核心網絡演進（系統架構演進SAE的），將滿足這種需要。
+雖然随着UMTS與HSDPA技術和HSUPA技術及其發展，提供高數據傳輸速率的無線數據使用量預計將繼續大幅增加，在未來幾年由於需求的增加和提供的服務和內容上的搬遷，需要繼續為最終用戶削減成本。預計這一增長不僅需要更快的網絡和無線電接口，但也更符合成本效益比，是現行標準可能的演變。 因此，3GPP的財團提出了要求。新的無線電接口（EUTRAN）和核心網絡演進（系統架構演進SAE的），將滿足這種需要。
 
 ## EUTRAN 協定堆疊
 
-EUTRAN 協定堆疊包含有\[4\]：
-[EUTRAN_protocol_stack.op.svg](https://zh.wikipedia.org/wiki/File:EUTRAN_protocol_stack.op.svg "fig:EUTRAN_protocol_stack.op.svg")
+EUTRAN 協定堆疊包含有\[4\]： [EUTRAN_protocol_stack.op.svg](https://zh.wikipedia.org/wiki/File:EUTRAN_protocol_stack.op.svg "fig:EUTRAN_protocol_stack.op.svg")
 
   - 實體層\[5\]：執行從MAC所有信息傳輸通道在空中接口。
   - MAC層\[6\]：MAC子層提供了一組邏輯通道，它的RLC子層复用物理層到傳輸通道。
-  - RLC\[7\]：用於傳送 PDCP 的 PDUs。它可以在3種不同模式的可靠性提供依據。 根據這個模式下，它可以提供：
-    ARQ的錯誤校正，分割/串聯的PDU，重新排序為序列交貨，重複檢測等等。
+  - RLC\[7\]：用於傳送 PDCP 的 PDUs。它可以在3種不同模式的可靠性提供依據。 根據這個模式下，它可以提供： ARQ的錯誤校正，分割/串聯的PDU，重新排序為序列交貨，重複檢測等等。
   - PDCP\[8\]：對於RRC層提供數據傳輸的加密和完整性保護。
   - RRC\[9\]：播的系統信息相關的接入層和運輸的非接入層 （NAS）的消息。
 
@@ -64,48 +46,31 @@ E-UTRA採用正交頻分复用（OFDM），多輸入-多輸出（MIMO）天線�
 
 下行有下列的實體通道\[11\]:
 
-  - 實體控制通道（Physical Downlink Control Channel, PDCCH）承载各种各样的控制信息,
-    自适应的重传需要通过PDCCH进行上行授权.
-  - 實體控制格式指示通道（Physical Control Format Indicator Channel, PCFICH）用於通知
-    PDCCH 的長度.
-  - 實體混合ARQ指示通道（Physical Hybrid ARQ Indicator Channel,
-    PHICH）是使ACK／NACK的传输独立于 PDCCH的配置。PHICH占用的RE是在PBCH中指示的。
-  - 實體下行共享通道（Physical Downlink Shared Channel, PDSCH）用于承载来自传输信道DSCH的数据.
-    PDSCH 上有支援 [QPSK](https://zh.wikipedia.org/wiki/QPSK "wikilink"),
-    [16QAM](https://zh.wikipedia.org/wiki/16QAM "wikilink") 以及
-    [64QAM](https://zh.wikipedia.org/wiki/64QAM "wikilink").
-  - 實體組播通道（Physical Multicast Channel, PMCH）用於使用單一頻道（Single Frequency
-    Network）组播频道。
+  - 實體控制通道（Physical Downlink Control Channel, PDCCH）承载各种各样的控制信息, 自适应的重传需要通过PDCCH进行上行授权.
+  - 實體控制格式指示通道（Physical Control Format Indicator Channel, PCFICH）用於通知 PDCCH 的長度.
+  - 實體混合ARQ指示通道（Physical Hybrid ARQ Indicator Channel, PHICH）是使ACK／NACK的传输独立于 PDCCH的配置。PHICH占用的RE是在PBCH中指示的。
+  - 實體下行共享通道（Physical Downlink Shared Channel, PDSCH）用于承载来自传输信道DSCH的数据. PDSCH 上有支援 [QPSK](https://zh.wikipedia.org/wiki/QPSK "wikilink"), [16QAM](https://zh.wikipedia.org/wiki/16QAM "wikilink") 以及 [64QAM](https://zh.wikipedia.org/wiki/64QAM "wikilink").
+  - 實體組播通道（Physical Multicast Channel, PMCH）用於使用單一頻道（Single Frequency Network）组播频道。
   - 實體廣播通道（Physical Broadcast Channel, PBCH）用於在Cell內傳播系統基本資訊。
 
 以及下列的訊號:
 
   - 同步器 (PSS and SSS) 是指 UE 發現 LTE cell 和執行初始同步。
   - 參考信號 (cell specific, MBSFN, and UE specific) 用於UE 針對不同的通道進行通道估計。
-  - 定位參考信號（Positioning reference signals, PRS）, 在第九個版本中加入, 是指 UE 使用
-    OTDOA
-    ([multilateration的一種](https://zh.wikipedia.org/wiki/multilateration "wikilink"))
+  - 定位參考信號（Positioning reference signals, PRS）, 在第九個版本中加入, 是指 UE 使用 OTDOA  ([multilateration的一種](https://zh.wikipedia.org/wiki/multilateration "wikilink"))
 
 ### 上行 (UL)
 
 上行支援三種實體通道:
 
   - 實體隨機接入通道（Physical Random Access Channel, PRACH）是手機發出的請求識別訊號\[12\]。
-  - 實體上行共享通道（Physical Uplink Shared Channel,
-    PUSCH）用于承载来自传输信道USCH的数据。PUSCH
-    通道上可以存在TFCI。PDSCH 可支援
-    [QPSK](https://zh.wikipedia.org/wiki/QPSK "wikilink")
-    模組，16QAM的並且根據用戶設備類64QAM調製方式。PUSCH 是唯一的通道,
-    因為更大的帶寬, 要使用 [SC-FDMA](../Page/SC-FDMA.md "wikilink")。
-  - 實體上行控制通道（Physical Uplink Control Channel, PUCCH）用於承載控制資訊.
-    請注意，僅包含控制信息的上行研究DL承認以及相關的CQI報告，所有的UL編碼和分配參數已知的網絡側，並傳訊給
-    UE在PDCCH。
+  - 實體上行共享通道（Physical Uplink Shared Channel, PUSCH）用于承载来自传输信道USCH的数据。PUSCH 通道上可以存在TFCI。PDSCH 可支援 [QPSK](https://zh.wikipedia.org/wiki/QPSK "wikilink") 模組，16QAM的並且根據用戶設備類64QAM調製方式。PUSCH 是唯一的通道, 因為更大的帶寬, 要使用 [SC-FDMA](../Page/SC-FDMA.md "wikilink")。
+  - 實體上行控制通道（Physical Uplink Control Channel, PUCCH）用於承載控制資訊. 請注意，僅包含控制信息的上行研究DL承認以及相關的CQI報告，所有的UL編碼和分配參數已知的網絡側，並傳訊給 UE在PDCCH。
 
 以及下列的訊號:
 
   - 參考信號（Reference signals, RS）：RS存在於每個RB中，RS的位置會因發射天線的數量、CP的形式等不同而不同。
-  - 探測參考信號（Sounding reference signals, SRS）：由enodeB使用於評估上行通道, SRS是UE
-    发送的全频带参考信号。
+  - 探測參考信號（Sounding reference signals, SRS）：由enodeB使用於評估上行通道, SRS是UE 发送的全频带参考信号。
 
 ## 使用者設備 (UE) 分類
 
@@ -131,26 +96,21 @@ E-UTRA採用正交頻分复用（OFDM），多輸入-多輸出（MIMO）天線�
 
 注1：L1的數據傳輸速率傳送數據不包括不同協議層间的开销损耗。
 
-注2：Category 8指定的3.0 Gbps/1.5 Gbps是扇区级能接近的总数据峰值速率。单个用户的实际最大数据速率为1.2
-Gbps的（下行）和600 Mbps（上行）\[14\]。
+注2：Category 8指定的3.0 Gbps/1.5 Gbps是扇区级能接近的总数据峰值速率。单个用户的实际最大数据速率为1.2 Gbps的（下行）和600 Mbps（上行）\[14\]。
 
 注3：最大數據傳輸速率给出的是在使用 20 MHz 带宽时的速率。 当适用的带宽更小时最大數據傳輸速率将会更低。
 
 ## EUTRAN發布
 
   - 版本8，2008年定版，是第一份LTE標準。
-  - 版本9，2009年定版，包括一些增加的實體層，如dual layer (MIMO)的波束傳輸（beamforming
-    transmission）或定位（positioning）支持。
-  - 發布10，2011年定版，引入LTE強化功能，如載波聚合（carrier
-    aggregation），上行的SU-MIMO或中繼（relay），用於處理L1峰值數據（L1
-    peak data）速率增加。
+  - 版本9，2009年定版，包括一些增加的實體層，如dual layer (MIMO)的波束傳輸（beamforming transmission）或定位（positioning）支持。
+  - 發布10，2011年定版，引入LTE強化功能，如載波聚合（carrier aggregation），上行的SU-MIMO或中繼（relay），用於處理L1峰值數據（L1 peak data）速率增加。
 
 所有LTE的設計都保持向下相容性，版本8的client可以在版本10的網路上執行。
 
 ## 具体频带
 
-3GPP TS 36.101中，表 5.5-1 的“E-UTRA工作頻段”和 5.6.1-1
-的“E-UTRA信道帶寬”，\[15\]下表中列出指定頻段的LTE和每個上市波段的信道帶寬支持:
+3GPP TS 36.101中，表 5.5-1 的“E-UTRA工作頻段”和 5.6.1-1 的“E-UTRA信道帶寬”，\[15\]下表中列出指定頻段的LTE和每個上市波段的信道帶寬支持:
 
 <table>
 <thead>
@@ -662,18 +622,10 @@ UE接收<br />
 
 下面的列表显示了标准化的LTE频段及其使用区域，主要的LTE频带以 **粗体** 显示。
 
-  - **EUTRAN 工作频段号双工模式为FDD的 <span id="LTE_Band_I">I</span>(1),
-    <span id="LTE_Band_III">III</span>(3),
-    <span id="LTE_Band_VII">VII</span>(7),
-    <span id="LTE_Band_XXVIII">XXVIII</span>(28)，双工模式为TDD的
-    <span id="LTE_Band_XXXVIII">XXXVIII</span>(38),
-    <span id="LTE_Band_XL">XL</span>(40) 适用于ITU的 1, 2, 3 类地区未来进行国际漫游**
-  - EUTRAN 工作频段号双工模式为FDD的 <span id="LTE_Band_VIII">VIII</span>(8)
-    长期来看未来可允许在ITU的 1, 2, 3 类地区进行国际漫游
-  - EUTRAN 工作频段号双工模式为FDD的 <span id="LTE_Band_XX">XX</span>(20)
-    适合在ITU的1类(欧洲/中东/非洲)地区漫游
-  - EUTRAN 工作频段号双工模式为FDD的 <span id="LTE_Band_II">II</span>(2),
-    <span id="LTE_Band_IV">IV</span>(4) 适合在ITU的2类(美洲)地区漫游
+  - **EUTRAN 工作频段号双工模式为FDD的 <span id="LTE_Band_I">I</span>(1), <span id="LTE_Band_III">III</span>(3), <span id="LTE_Band_VII">VII</span>(7), <span id="LTE_Band_XXVIII">XXVIII</span>(28)，双工模式为TDD的 <span id="LTE_Band_XXXVIII">XXXVIII</span>(38), <span id="LTE_Band_XL">XL</span>(40) 适用于ITU的 1, 2, 3 类地区未来进行国际漫游**
+  - EUTRAN 工作频段号双工模式为FDD的 <span id="LTE_Band_VIII">VIII</span>(8) 长期来看未来可允许在ITU的 1, 2, 3 类地区进行国际漫游
+  - EUTRAN 工作频段号双工模式为FDD的 <span id="LTE_Band_XX">XX</span>(20) 适合在ITU的1类(欧洲/中东/非洲)地区漫游
+  - EUTRAN 工作频段号双工模式为FDD的 <span id="LTE_Band_II">II</span>(2), <span id="LTE_Band_IV">IV</span>(4) 适合在ITU的2类(美洲)地区漫游
 
 <table>
 <thead>
@@ -1197,51 +1149,36 @@ UE接收<br />
 
 ## 外部連結
 
-  - [3GPP UMTS Long Term Evolution
-    page](https://web.archive.org/web/20081103101754/http://www.3gpp.org/Highlights/LTE/LTE.htm)
+  - [3GPP UMTS Long Term Evolution page](https://web.archive.org/web/20081103101754/http://www.3gpp.org/Highlights/LTE/LTE.htm)
 
 [Category:無線](https://zh.wikipedia.org/wiki/Category:無線 "wikilink")
 
 1.  [3GPP UMTS Long Term Evolution page](http://www.3gpp.org/LTE)
 
-2.  [3GPP TS 36.306 E-UTRA User Equipment radio access
-    capabilities](http://ftp.3gpp.org/specs/html-info/36306.htm)
+2.  [3GPP TS 36.306 E-UTRA User Equipment radio access capabilities](http://ftp.3gpp.org/specs/html-info/36306.htm)
 
 3.
-4.  [3GPP TS 36.300 E-UTRA Overall
-    description](http://ftp.3gpp.org/specs/html-info/36300.htm)
+4.  [3GPP TS 36.300 E-UTRA Overall description](http://ftp.3gpp.org/specs/html-info/36300.htm)
 
-5.  [3GPP TS 36.201 E-UTRA: LTE physical layer; General
-    description](http://ftp.3gpp.org/specs/html-info/36201.htm)
+5.  [3GPP TS 36.201 E-UTRA: LTE physical layer; General description](http://ftp.3gpp.org/specs/html-info/36201.htm)
 
-6.  [3GPP TS 36.321 E-UTRA: Access Control (MAC) protocol
-    specification](http://ftp.3gpp.org/specs/html-info/36321.htm)
+6.  [3GPP TS 36.321 E-UTRA: Access Control (MAC) protocol specification](http://ftp.3gpp.org/specs/html-info/36321.htm)
 
-7.  [3GPP TS 36.322 E-UTRA: Radio Link Control (RLC) protocol
-    specification](http://ftp.3gpp.org/specs/html-info/36322.htm)
+7.  [3GPP TS 36.322 E-UTRA: Radio Link Control (RLC) protocol specification](http://ftp.3gpp.org/specs/html-info/36322.htm)
 
-8.  [3GPP TS 36.323 E-UTRA: Packet Data Convergence Protocol (PDCP)
-    specification](http://ftp.3gpp.org/specs/html-info/36323.htm)
+8.  [3GPP TS 36.323 E-UTRA: Packet Data Convergence Protocol (PDCP) specification](http://ftp.3gpp.org/specs/html-info/36323.htm)
 
-9.  [3GPP TS 36.331 E-UTRA: Radio Resource Control (RRC) protocol
-    specification](http://ftp.3gpp.org/specs/html-info/36331.htm)
+9.  [3GPP TS 36.331 E-UTRA: Radio Resource Control (RRC) protocol specification](http://ftp.3gpp.org/specs/html-info/36331.htm)
 
-10. [3GPP TS 24.301 Non-Access-Stratum (NAS) protocol for Evolved Packet
-    System (EPS);
-    Stage 3](http://ftp.3gpp.org/specs/html-info/24301.htm)
+10. [3GPP TS 24.301 Non-Access-Stratum (NAS) protocol for Evolved Packet System (EPS); Stage 3](http://ftp.3gpp.org/specs/html-info/24301.htm)
 
-11. [3GPP TS 36.211 E-UTRA Physical channels and
-    modulation](http://ftp.3gpp.org/specs/html-info/36211.htm)
+11. [3GPP TS 36.211 E-UTRA Physical channels and modulation](http://ftp.3gpp.org/specs/html-info/36211.htm)
 
 12.
 
 13.
-14. [3GPP LTE / LTE-A Standardization: Status and Overview of
-    Technologie,
-    slide 16](http://www.ict-samurai.eu/sites/www.ict-samurai.eu/files/documents/3GPP%20LTE-A%20Standardization.pdf)
+14. [3GPP LTE / LTE-A Standardization: Status and Overview of Technologie, slide 16](http://www.ict-samurai.eu/sites/www.ict-samurai.eu/files/documents/3GPP%20LTE-A%20Standardization.pdf)
 
-15. [3GPP TS 36.101 E-UTRA: User Equipment (UE) radio transmission and
-    reception](http://www.3gpp.org/ftp/Specs/html-info/36101.htm)
+15. [3GPP TS 36.101 E-UTRA: User Equipment (UE) radio transmission and reception](http://www.3gpp.org/ftp/Specs/html-info/36101.htm)
 
-16. [中華電信4G LTE服務搶先開台第一
-    開創高速行動上網新紀元](http://www.cht.com.tw/aboutus/messages/msg-140529-123335.html)。
+16. [中華電信4G LTE服務搶先開台第一 開創高速行動上網新紀元](http://www.cht.com.tw/aboutus/messages/msg-140529-123335.html)。

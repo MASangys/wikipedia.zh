@@ -1,7 +1,4 @@
-《**HEY\!HEY\!HEY\! MUSIC
-CHAMP**》是日本[富士電視台](../Page/富士電視台.md "wikilink")系列自1994年10月17日開始播出，由搞笑二人組[DOWN
-TOWN所主持的音樂節目](../Page/DOWN_TOWN.md "wikilink")。原播出時間為毎週一的20:00 -
-20:54（JST），立體聲播出。簡稱《**HEY\!HEY\!HEY\!**》或《**HEY\!³**》。
+《**HEY\!HEY\!HEY\! MUSIC CHAMP**》是日本[富士電視台](../Page/富士電視台.md "wikilink")系列自1994年10月17日開始播出，由搞笑二人組[DOWN TOWN所主持的音樂節目](../Page/DOWN_TOWN.md "wikilink")。原播出時間為毎週一的20:00 - 20:54（JST），立體聲播出。簡稱《**HEY\!HEY\!HEY\!**》或《**HEY\!³**》。
 
 2012年，因節目收視長期低迷，暨於12月17日晚上19:00至20:54播放最終回（2小時特別篇），正式結束18年的固定節目播放歷史，並自2013年起改為不定期播出的特集節目。
 
@@ -50,10 +47,6 @@ TOWN所主持的音樂節目](../Page/DOWN_TOWN.md "wikilink")。原播出時間
 
 ## 外部連結
 
-  - [HEY\!HEY\!HEY\!MUSIC
-    CHAMP](https://web.archive.org/web/20061027233523/http://www.fujitv.jp/HEY/)
-    官方網站
+  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://web.archive.org/web/20061027233523/http://www.fujitv.jp/HEY/) 官方網站
 
-[Category:富士電視台音樂節目](https://zh.wikipedia.org/wiki/Category:富士電視台音樂節目 "wikilink")
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
-[Category:1994年日本電視節目](https://zh.wikipedia.org/wiki/Category:1994年日本電視節目 "wikilink")
+[Category:富士電視台音樂節目](https://zh.wikipedia.org/wiki/Category:富士電視台音樂節目 "wikilink") [Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink") [Category:1994年日本電視節目](https://zh.wikipedia.org/wiki/Category:1994年日本電視節目 "wikilink")

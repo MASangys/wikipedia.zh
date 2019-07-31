@@ -8,9 +8,7 @@
 
 ## 描述
 
-[Hypersphere_coord.gif](https://zh.wikipedia.org/wiki/File:Hypersphere_coord.gif "fig:Hypersphere_coord.gif")（藍色）以及超子午線（綠色）的[立體投影法](https://zh.wikipedia.org/wiki/立體投影 "wikilink")。
-因為立體投影法的[共形特性](https://zh.wikipedia.org/wiki/共形 "wikilink")，這些曲線彼此在交點上彼此正交（圖中黃色點），如同在四維空間中一樣。所有曲線都是圓；交會在\<0,0,0,1\>的曲線具有無限大的半徑（亦即直線）。\]\]
-对于任何[自然数](../Page/自然数.md "wikilink")*n*，[半径为](https://zh.wikipedia.org/wiki/半径 "wikilink")*r*的*n*维球面定义为(*n* + 1)维[欧几里得空间](../Page/欧几里得空间.md "wikilink")中到某个定点的距离等于常数*r*的所有点的集合，其中*r*可以是任何正的实数。它是(*n* + 1)维空间内的*n*维[流形](../Page/流形.md "wikilink")。特别地：
+[Hypersphere_coord.gif](https://zh.wikipedia.org/wiki/File:Hypersphere_coord.gif "fig:Hypersphere_coord.gif")（藍色）以及超子午線（綠色）的[立體投影法](https://zh.wikipedia.org/wiki/立體投影 "wikilink")。 因為立體投影法的[共形特性](https://zh.wikipedia.org/wiki/共形 "wikilink")，這些曲線彼此在交點上彼此正交（圖中黃色點），如同在四維空間中一樣。所有曲線都是圓；交會在\<0,0,0,1\>的曲線具有無限大的半徑（亦即直線）。\]\] 对于任何[自然数](../Page/自然数.md "wikilink")*n*，[半径为](https://zh.wikipedia.org/wiki/半径 "wikilink")*r*的*n*维球面定义为(*n* + 1)维[欧几里得空间](../Page/欧几里得空间.md "wikilink")中到某个定点的距离等于常数*r*的所有点的集合，其中*r*可以是任何正的实数。它是(*n* + 1)维空间内的*n*维[流形](../Page/流形.md "wikilink")。特别地：
 
   - 0维球面是直线上的两个点{*p* − *r*, *p* + *r*}；
   - 1维球面是[平面](../Page/平面.md "wikilink")上的[圆](../Page/圆.md "wikilink")；
@@ -19,8 +17,7 @@
 
 ### (*n* + 1)维空间中的欧几里得坐标
 
-(*n* +
-1)维空间中的点：(*x*<sub>1</sub>、*x*<sub>1</sub>、*x*<sub>2</sub>、……、*x*<sub>*n*+1</sub>)定义了一个*n*维球面(**S**<sub>*n*</sub>)，由以下方程表示：
+(*n* + 1)维空间中的点：(*x*<sub>1</sub>、*x*<sub>1</sub>、*x*<sub>2</sub>、……、*x*<sub>*n*+1</sub>)定义了一个*n*维球面(**S**<sub>*n*</sub>)，由以下方程表示：
 
 \[r^2=\sum_{i=1}^{n+1} (x_i - C_i)^2.\,\]
 
@@ -80,22 +77,11 @@
   -
     {|
 
-|- |\(V_0\,\) |= |\(1\,\) |  |  |- |\(V_1\,\) |= |\(2\pi\,R\)
-|\(\approx\) |\(6.28319 \,R\) |- |\(V_2\,\) |= |\(\pi\,R^2\)
-|\(\approx\) |\(3.14159 \,R^2\) |- |\(V_3\,\) |=
-|\(\frac{4 \pi}{3}\,R^3\) |\(\approx\) |\(4.18879 \,R^3\) |- |\(V_4\,\)
-|= |\(\frac{\pi^2}{2}\,R^4\) |\(\approx\) |\(4.93480 \,R^4\) |-
-|\(V_5\,\) |= |\(\frac{8 \pi^2}{15}\,R^5\) |\(\approx\)
-|\(5.26379 \,R^5\) |- |\(V_6\,\) |= |\(\frac{\pi^3}{6}\,R^6\)
-|\(\approx\) |\(5.16771 \,R^6\) |- |\(V_7\,\) |=
-|\(\frac{16 \pi^3}{105}\,R^7\) |\(\approx\) |\(4.72477 \,R^7\) |-
-|\(V_8\,\) |= |\(\frac{\pi^4}{24}\,R^8\) |\(\approx\) |\(4.05871 \,R^8\)
-|}
+|- |\(V_0\,\) |= |\(1\,\) |  |  |- |\(V_1\,\) |= |\(2\pi\,R\) |\(\approx\) |\(6.28319 \,R\) |- |\(V_2\,\) |= |\(\pi\,R^2\) |\(\approx\) |\(3.14159 \,R^2\) |- |\(V_3\,\) |= |\(\frac{4 \pi}{3}\,R^3\) |\(\approx\) |\(4.18879 \,R^3\) |- |\(V_4\,\) |= |\(\frac{\pi^2}{2}\,R^4\) |\(\approx\) |\(4.93480 \,R^4\) |- |\(V_5\,\) |= |\(\frac{8 \pi^2}{15}\,R^5\) |\(\approx\) |\(5.26379 \,R^5\) |- |\(V_6\,\) |= |\(\frac{\pi^3}{6}\,R^6\) |\(\approx\) |\(5.16771 \,R^6\) |- |\(V_7\,\) |= |\(\frac{16 \pi^3}{105}\,R^7\) |\(\approx\) |\(4.72477 \,R^7\) |- |\(V_8\,\) |= |\(\frac{\pi^4}{24}\,R^8\) |\(\approx\) |\(4.05871 \,R^8\) |}
 
 但当 \(n\) 趋于无穷大时，\(\frac{V_n}{R^n}\) 趋于0。
 
-如果维度*n*不限于整数，那么n维球面的体积就是*n*的[连续函数](../Page/连续函数.md "wikilink")，它的[极大值位于](https://zh.wikipedia.org/wiki/极大值 "wikilink")*n*
-= 5.2569464...，体积为5.277768...。当*n* = 0或*n* = 12.76405...时，体积为1。
+如果维度*n*不限于整数，那么n维球面的体积就是*n*的[连续函数](../Page/连续函数.md "wikilink")，它的[极大值位于](https://zh.wikipedia.org/wiki/极大值 "wikilink")*n* = 5.2569464...，体积为5.277768...。当*n* = 0或*n* = 12.76405...时，体积为1。
 
 单位*n*维球面的外切[超正方体的边长为](https://zh.wikipedia.org/wiki/超正方体 "wikilink")2，因此体积为2<sup>*n*</sup>；当维度增加时，*n*维球面的体积与外切于它的超正方体的体积之比单调减少。
 
@@ -123,8 +109,7 @@
 
 \[\cdots\,\]
 
-\[\tan(\phi_{1})=\frac{\sqrt{{x_n}^2+{x_{n-1}}^2+\cdots+{x_2}^2}}{x_{1}}\]
-注意最后一个角\(\phi _{n-1}\)的值域为\(2\pi\)，而其它角的值域为\(\pi\)。这个值域覆盖了整个球面。
+\[\tan(\phi_{1})=\frac{\sqrt{{x_n}^2+{x_{n-1}}^2+\cdots+{x_2}^2}}{x_{1}}\] 注意最后一个角\(\phi _{n-1}\)的值域为\(2\pi\)，而其它角的值域为\(\pi\)。这个值域覆盖了整个球面。
 
 *n*维空间内的[体积元素可以从变换的](https://zh.wikipedia.org/wiki/体积元素 "wikilink")[雅可比行列式得出](https://zh.wikipedia.org/wiki/雅可比行列式 "wikilink")：
 
@@ -175,8 +160,7 @@ dr\,d\phi_1 \, d\phi_2\cdots d\phi_{n-1}\]
 
   - （第14章：The Hypersphere）
 
-  - Marsaglia, G. "Choosing a Point from the Surface of a Sphere." Ann.
-    Math. Stat. 43, 645-646, 1972.
+  - Marsaglia, G. "Choosing a Point from the Surface of a Sphere." Ann. Math. Stat. 43, 645-646, 1972.
 
   - .
 
@@ -185,5 +169,4 @@ dr\,d\phi_1 \, d\phi_2\cdots d\phi_{n-1}\]
   -
 [科学空间：求n维球的体积http://spaces.ac.cn/index.php/archives/3154/](http://spaces.ac.cn/index.php/archives/3154/)
 
-[Category:四维几何](https://zh.wikipedia.org/wiki/Category:四维几何 "wikilink")
-[Category:多维几何](https://zh.wikipedia.org/wiki/Category:多维几何 "wikilink")
+[Category:四维几何](https://zh.wikipedia.org/wiki/Category:四维几何 "wikilink") [Category:多维几何](https://zh.wikipedia.org/wiki/Category:多维几何 "wikilink")

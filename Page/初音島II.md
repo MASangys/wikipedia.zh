@@ -1,4 +1,4 @@
-《**初音島II**》（，簡稱D.C.II）是由[日本](../Page/日本.md "wikilink")[美少女遊戲品牌](../Page/美少女遊戲.md "wikilink")[CIRCUS製作和發行的](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》的續作。《初音島II》的首個遊戲版本為電腦版[成人遊戲](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，於2006年5月26日推出。並[多媒體發展而有漫畫](../Page/跨媒體製作.md "wikilink")、小說、動畫和家用遊戲機版等多種版本。
+《**初音島II**》（，簡稱D.C.II）是由[日本](../Page/日本.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")品牌[CIRCUS製作和發行的](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》的續作。《初音島II》的首個遊戲版本為電腦版[成人遊戲](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，於2006年5月26日推出。並[多媒體發展而有漫畫](../Page/跨媒體製作.md "wikilink")、小說、動畫和家用遊戲機版等多種版本。
 
 ## 歴史
 
@@ -84,8 +84,7 @@
 
 ## 故事
 
-芳乃家的「櫻內義之」，和鄰居的「朝倉音姬」與「朝倉由夢」從小有如親兄弟姊妹般一起長大。季節又接近了聖誕節，櫻花全年盛開的初音島也染上聖誕氣氛的時期。風見學園附屬中學三年級的義之和同班同學也正構想著一週後的聖誕派對要擺的攤位。
-以這個聖誕派對為起點，冬去春來，義之的戀愛故事就此揭幕，有如島上綻放的魔法櫻花一般。
+芳乃家的「櫻內義之」，和鄰居的「朝倉音姬」與「朝倉由夢」從小有如親兄弟姊妹般一起長大。季節又接近了聖誕節，櫻花全年盛開的初音島也染上聖誕氣氛的時期。風見學園附屬中學三年級的義之和同班同學也正構想著一週後的聖誕派對要擺的攤位。 以這個聖誕派對為起點，冬去春來，義之的戀愛故事就此揭幕，有如島上綻放的魔法櫻花一般。
 
 ## 登場人物
 
@@ -94,10 +93,8 @@
   -
     配音員：[皇帝](https://zh.wikipedia.org/wiki/皇帝_\(配音員\) "wikilink")（部分）、[三咲里奈](https://zh.wikipedia.org/wiki/三咲里奈 "wikilink")（幼年時）／[淺沼晉太郎](../Page/淺沼晉太郎.md "wikilink")、[伊藤靜](../Page/伊藤靜.md "wikilink")（幼年時）／同左
     風見學園附屬中學三年三班的學生。雖然監護人是身為風見學園校長的**芳乃櫻**，但因為櫻太忙碌而從小就寄住在隔壁的朝倉家，與朝倉姊妹有如親兄弟姊妹般一起長大。直到升上附屬中學三年級前才在朝倉純一的建議下搬回芳乃家居住。
-    個性喜歡熱鬧加上又健談，周圍和他親近的女性多到會被板橋涉虧是「中產階級的傢伙\[1\]」（）的程度。但對戀愛的事非常遲鈍，至今尚未有戀愛的經驗。由於長的帥、個性好再加上有時會在無意識下說出些讓女生心猿意馬的話，故雖然本人完全沒有自覺，但在《D.C.II
-    S.C.》和《D.C.II
-    F.L.》中指出已有學妹成為其[支持者](https://zh.wikipedia.org/wiki/愛好者 "wikilink")。附屬中學二年級時，被認定是在聖誕派對後夜祭\[2\]上發生的「血染的聖夜」事件的主犯，成為學生會黑名單上列為Ａ級，和涉與杉並齊名的需要注意人物。但自從朝倉音姬成為學生會長之後，因為不想給她帶來麻煩，行為明顯收斂了。
-    與[第一代作品的主人翁朝倉純一相同](../Page/初音島.md "wikilink")，擁有從手中變出[和菓子和看見別人的夢的能力](../Page/和菓子.md "wikilink")。
+    個性喜歡熱鬧加上又健談，周圍和他親近的女性多到會被板橋涉虧是「中產階級的傢伙\[1\]」（）的程度。但對戀愛的事非常遲鈍，至今尚未有戀愛的經驗。由於長的帥、個性好再加上有時會在無意識下說出些讓女生心猿意馬的話，故雖然本人完全沒有自覺，但在《D.C.II S.C.》和《D.C.II F.L.》中指出已有學妹成為其[支持者](https://zh.wikipedia.org/wiki/愛好者 "wikilink")。附屬中學二年級時，被認定是在聖誕派對後夜祭\[2\]上發生的「血染的聖夜」事件的主犯，成為學生會黑名單上列為Ａ級，和涉與杉並齊名的需要注意人物。但自從朝倉音姬成為學生會長之後，因為不想給她帶來麻煩，行為明顯收斂了。
+    與[第一代作品的主人翁朝倉純一相同](../Page/初音島.md "wikilink")，擁有從手中變出[和菓子](../Page/和菓子.md "wikilink")和看見別人的夢的能力。
     特技是彈吉他，雖然是自學但技術相當不錯，在小戀、奈奈佳故事路線會成為樂團的吉他手。滑雪高手且擅長煮飯，艾莉卡將他煮的咖哩評為：「皇家御廚也煮不出這種味道」，但不擅長唸書。
     在D.C.II Dearest Marriage中，毕业后与“朝倉 音姬”交往后不久结婚，生有一女“樱内樱姬”。
 
@@ -179,8 +176,7 @@
   -
     配音員：[石川佳子](https://zh.wikipedia.org/wiki/石川佳子 "wikilink")／-／[釘宮理惠](../Page/釘宮理惠.md "wikilink")
 
-風見學園付屬一年級生，《D.C.II
-P.S.》新增角色之一，是來自歐洲某國的公主，轉入風見學園後便開始在學生會中幫忙。頭腦很好，在滑雪方面是個新手，與義之第一次見面時因為意外的襲胸事件便非常討厭義之，直到聖誕節後才開始對義之有好感。
+風見學園付屬一年級生，《D.C.II P.S.》新增角色之一，是來自歐洲某國的公主，轉入風見學園後便開始在學生會中幫忙。頭腦很好，在滑雪方面是個新手，與義之第一次見面時因為意外的襲胸事件便非常討厭義之，直到聖誕節後才開始對義之有好感。
 
   -
     真實身分是外星人，聽聞[第一代作品中的紫和泉子的事蹟才到地球](../Page/初音島.md "wikilink")。
@@ -190,8 +186,7 @@ P.S.》新增角色之一，是來自歐洲某國的公主，轉入風見學園�
   -
     配音員：[櫻千歲](https://zh.wikipedia.org/wiki/櫻千歲 "wikilink")／[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")／同左
 
-《D.C.II
-P.S.》新增角色之一，與第一代動畫版作品《D.C.S.S》的艾西亞是同一人物。對難懂的事情和遊樂園裡過於刺激的遊樂設施非常苦手，不過卻常常逞強否認這件事。來到初音島之前一直在世界各地旅行著，來初音島後在商店街擺地攤賣自己用魔法變出來的「手工」玩具，不過生意並不太好。在一次偶然的機會遇到了義之，與義之關係變得很好並慢慢的被他所吸引。
+《D.C.II P.S.》新增角色之一，與第一代動畫版作品《D.C.S.S》的艾西亞是同一人物。對難懂的事情和遊樂園裡過於刺激的遊樂設施非常苦手，不過卻常常逞強否認這件事。來到初音島之前一直在世界各地旅行著，來初音島後在商店街擺地攤賣自己用魔法變出來的「手工」玩具，不過生意並不太好。在一次偶然的機會遇到了義之，與義之關係變得很好並慢慢的被他所吸引。
 
   -
     51年前（D.C.S.S動畫版結尾）向永不枯萎的櫻花樹許下了自己不存在的世界的願望，所以除了義之和櫻以外的人都記不住和艾西亞有關的事情，因此與人相處的態度上並不積極。此外，她也知道義之與櫻花樹的關係。
@@ -201,8 +196,7 @@ P.S.》新增角色之一，與第一代動畫版作品《D.C.S.S》的艾西亞
   -
     配音員：[小倉結衣](../Page/小倉結衣.md "wikilink")／-／[廣橋涼](../Page/廣橋涼.md "wikilink")
 
-風見學園附屬中學一年三班學生，《D.C.II
-P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所以在劇本上對話常常被中略，真實身分其實是義之聽完所有風見學園七大不可思議事件後遇見的幽靈，為了找出和解除自己對塵世的留戀以便成佛便拜託義之一起幫忙，雖然是個幽靈，不過卻非常的怕鬼甚至曾經說出了否定自己存在的話。
+風見學園附屬中學一年三班學生，《D.C.II P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所以在劇本上對話常常被中略，真實身分其實是義之聽完所有風見學園七大不可思議事件後遇見的幽靈，為了找出和解除自己對塵世的留戀以便成佛便拜託義之一起幫忙，雖然是個幽靈，不過卻非常的怕鬼甚至曾經說出了否定自己存在的話。
 
   -
     生前體弱多病，進入風見學園後沒多久便開始住院，活著的時候永不枯萎的櫻花樹還未再度綻放，因此大約是10幾年前的事情。
@@ -235,7 +229,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 
   -
     配音員：[北都南](../Page/北都南.md "wikilink")／[田村由香里](../Page/田村由香里.md "wikilink")／同左
-    風見學園校長，櫻內義之的監護人。外貌和[前作時幾乎沒變的](../Page/初音島.md "wikilink")[蘿莉外型角色](../Page/蘿莉.md "wikilink")，但年紀至少大了已是70歲老爺爺的朝倉純一一歲。與純一的感情變的像是家人，有著傳承自祖母的魔力。目前義之就是住在芳乃家，寵物由貓換成了狗。
+    風見學園校長，櫻內義之的監護人。外貌和[前作時幾乎沒變的](../Page/初音島.md "wikilink")[蘿莉](../Page/蘿莉.md "wikilink")外型角色，但年紀至少大了已是70歲老爺爺的朝倉純一一歲。與純一的感情變的像是家人，有著傳承自祖母的魔力。目前義之就是住在芳乃家，寵物由貓換成了狗。
     前作完結後長年待在美國從事魔法研究，在數年前才回到初音島並種下了改良後的魔法櫻花樹，讓初音島的櫻花樹從「只會在春天才開花」變回「一年四季也開著」。在漫画版中也向“永不枯萎的樱花树”许下过心愿，心愿就是-想要一个小孩（这个小孩就是主角樱内义之）。
 
 <!-- end list -->
@@ -248,10 +242,8 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 ### D.C.II
 
   - 總OP・第三部OP「」
-      - 作詞・作曲：[tororo](https://zh.wikipedia.org/wiki/tororo "wikilink")、編曲：[Angel
-        Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
-  - 總ED「[Spring has
-    come](https://zh.wikipedia.org/wiki/ダ・カーポII_〜あさきゆめみし君と〜 "wikilink")」
+      - 作詞・作曲：[tororo](https://zh.wikipedia.org/wiki/tororo "wikilink")、編曲：[Angel Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
+  - 總ED「[Spring has come](https://zh.wikipedia.org/wiki/ダ・カーポII_〜あさきゆめみし君と〜 "wikilink")」
       - 作詞・作曲：rino、編曲：[大久保薰](../Page/大久保薰.md "wikilink")、歌：[rino](https://zh.wikipedia.org/wiki/rino "wikilink")
   - 第一部OP and 插曲「beautiful flower」
       - 作詞・作曲・編曲：宇佐美宏、歌：[美郷あき](https://zh.wikipedia.org/wiki/美郷あき "wikilink")
@@ -260,8 +252,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
   - 插曲「Time will shine」
       - 作詞：原口知己、作曲・編曲：稻田昌宏、歌：[Alchemy+](https://zh.wikipedia.org/wiki/Alchemy+ "wikilink")
   - 奈奈佳ED・插曲「」
-      - 作詞・作曲：BABY
-        FACE、編曲：鈴木マサキ、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
+      - 作詞・作曲：BABY FACE、編曲：鈴木マサキ、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
   - 杏・小恋線ED and 先行版ED曲「Little Distance」
       - 作詞：RUCCA、作曲：中野慎也、編曲：稻田昌宏（[Alchemy+](https://zh.wikipedia.org/wiki/Alchemy+ "wikilink")）、歌：[桃田佳世子](https://zh.wikipedia.org/wiki/桃田佳世子 "wikilink")
   - 音姫・由夢ED「If... 〜I wish〜」
@@ -276,8 +267,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
       - 歌：風見学園
         [高垣彩陽](../Page/高垣彩陽.md "wikilink")、[堀江由衣](../Page/堀江由衣.md "wikilink")、[南條愛乃](../Page/南條愛乃.md "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[青木沙耶香](../Page/青木沙耶香.md "wikilink")、[岡嶋妙](../Page/岡嶋妙.md "wikilink")、[柳瀨洋美](https://zh.wikipedia.org/wiki/柳瀨洋美 "wikilink")、[水橋香織](../Page/水橋香織.md "wikilink")、[伊藤靜](../Page/伊藤靜.md "wikilink")、[釘宮理惠](../Page/釘宮理惠.md "wikilink")、[廣橋涼](../Page/廣橋涼.md "wikilink")、[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")、[淺沼晉太郎](../Page/淺沼晉太郎.md "wikilink")、[岸尾大輔](../Page/岸尾大輔.md "wikilink")、[山口勝平](../Page/山口勝平.md "wikilink")、[淺川悠](../Page/淺川悠.md "wikilink")、[下田麻美](../Page/下田麻美.md "wikilink")、[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")、[田村由香里](../Page/田村由香里.md "wikilink")、[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[羽多野涉](../Page/羽多野涉.md "wikilink")、[折笠富美子](../Page/折笠富美子.md "wikilink")
   - 茜、麻耶線ED「1sec.」
-      - 作詞：[ゆうまお](https://zh.wikipedia.org/wiki/ゆうまお "wikilink")、作曲・編曲：[太田雅友](../Page/太田雅友.md "wikilink")
-        歌：[瀬名](https://zh.wikipedia.org/wiki/瀬名_\(シンガーソングライター\) "wikilink")
+      - 作詞：[ゆうまお](https://zh.wikipedia.org/wiki/ゆうまお "wikilink")、作曲・編曲：[太田雅友](../Page/太田雅友.md "wikilink") 歌：[瀬名](https://zh.wikipedia.org/wiki/瀬名_\(シンガーソングライター\) "wikilink")
   - 真由紀、艾莉卡線ED「」
       - 作詞・作曲：rino、編曲：[安藤聖](https://zh.wikipedia.org/wiki/安藤聖 "wikilink")、歌：rino
   - 真昼、艾西亞線ED「」
@@ -737,8 +727,7 @@ Shln Jgglck</p></td>
 
 《初音島II》在日本美少女游戏与动画相关商品销售网站Getchu.com的2007年销量榜上排名第六。\[5\]
 
-在2007年10月，《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《初音島II》在入圍的249款遊戲中獲得47票而成為第7名。\[6\]
+在2007年10月，《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十名最佳美少女遊戲排名的票選活動，《初音島II》在入圍的249款遊戲中獲得47票而成為第7名。\[6\]
 
 ## 參考資料
 
@@ -756,20 +745,7 @@ magazine](../Page/電擊G's_magazine.md "wikilink")》舉辦了日本前五十�
   - [D.C.II S.S.動畫官方網站](http://www.mxtv.co.jp/dc2ss/)
   - [BDPG版官方網站](http://www.hublots.net/dcbd/dc2.html)
 
-[Category:初音島](https://zh.wikipedia.org/wiki/Category:初音島 "wikilink")
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:電擊G's雜誌](https://zh.wikipedia.org/wiki/Category:電擊G's雜誌 "wikilink")
-[Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink")
-[Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
+[Category:初音島](https://zh.wikipedia.org/wiki/Category:初音島 "wikilink") [Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:電擊G's雜誌](https://zh.wikipedia.org/wiki/Category:電擊G's雜誌 "wikilink") [Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink") [Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
 
 1.  「中產階級」平常是指財產略多於一般民眾的社會層級，這裡暗指義之的異性緣（財產）遠多於其他同學（一般民眾）。
 2.  日文用語，指在學園祭等活動中，最後一天晚上所舉辦的活動。

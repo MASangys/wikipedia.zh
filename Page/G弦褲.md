@@ -10,8 +10,7 @@
 
 ## 男性用G弦褲
 
-[Mens-thong_stringi-meskie.JPG](https://zh.wikipedia.org/wiki/File:Mens-thong_stringi-meskie.JPG "fig:Mens-thong_stringi-meskie.JPG")
-部分男用G弦褲在前面垂直造可容納[男性生殖器的囊袋](../Page/生殖器.md "wikilink")。G弦褲往往能比其他男性內衣款式更貼身，並消除大腿內側和生殖器之間的壓迫感，這兩個原因令男性可能會選擇穿G弦褲\[3\]。
+[Mens-thong_stringi-meskie.JPG](https://zh.wikipedia.org/wiki/File:Mens-thong_stringi-meskie.JPG "fig:Mens-thong_stringi-meskie.JPG") 部分男用G弦褲在前面垂直造可容納[男性生殖器的囊袋](../Page/生殖器.md "wikilink")。G弦褲往往能比其他男性內衣款式更貼身，並消除大腿內側和生殖器之間的壓迫感，這兩個原因令男性可能會選擇穿G弦褲\[3\]。
 
 ## 參見
 
@@ -23,8 +22,7 @@
 
 {{-}}
 
-[Category:内衣](https://zh.wikipedia.org/wiki/Category:内衣 "wikilink")
-[Category:泳裝](https://zh.wikipedia.org/wiki/Category:泳裝 "wikilink")
+[Category:内衣](https://zh.wikipedia.org/wiki/Category:内衣 "wikilink") [Category:泳裝](https://zh.wikipedia.org/wiki/Category:泳裝 "wikilink")
 
 1.
 2.

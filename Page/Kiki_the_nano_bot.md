@@ -1,6 +1,4 @@
-**kiki the nano bot**
-是一个[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，糅合[仓库番以及](https://zh.wikipedia.org/wiki/仓库番 "wikilink")[Kula
-World的游戏因素](https://zh.wikipedia.org/wiki/Kula_World "wikilink")。
+**kiki the nano bot** 是一个[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，糅合[仓库番以及](https://zh.wikipedia.org/wiki/仓库番 "wikilink")[Kula World的游戏因素](https://zh.wikipedia.org/wiki/Kula_World "wikilink")。
 
 ## 主线
 
@@ -19,8 +17,7 @@ kiki， 一个理智的纳米机器人来到一个到处都是发傻纳米机器
 
 ## 得奖
 
-赢得了 'Best Graphics', 'Best Originality' 和 'Best Overall Game' [uDevGame
-Game Programming Contest](http://www.idevgames.com/) 2002 \[4\]\[5\]。
+赢得了 'Best Graphics', 'Best Originality' 和 'Best Overall Game' [uDevGame Game Programming Contest](http://www.idevgames.com/) 2002 \[4\]\[5\]。
 
 ## 其他
 
@@ -33,20 +30,10 @@ Game Programming Contest](http://www.idevgames.com/) 2002 \[4\]\[5\]。
 
   - [kiki the nano bot —— sourceforge.net](http://kiki.sourceforge.net/)
   - [官网截图](http://kiki.sourceforge.net/screenshots/index.html)
-  - [kiki the nanobot 评论 ——
-    www.acid-play.com](http://www.acid-play.com/download/kiki-the-nano-bot/)
-  - [interview with the creator of *kiki the nano
-    bot*](https://web.archive.org/web/20080317085845/http://www.planetfreeplay.com/interview/3/)
+  - [kiki the nanobot 评论 —— www.acid-play.com](http://www.acid-play.com/download/kiki-the-nano-bot/)
+  - [interview with the creator of *kiki the nano bot*](https://web.archive.org/web/20080317085845/http://www.planetfreeplay.com/interview/3/)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
 
 1.  [1](http://kiki.sourceforge.net/misc/story.html)
 2.  [2](http://kiki.sourceforge.net/manual/index.html)

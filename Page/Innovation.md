@@ -43,6 +43,4 @@
 |  <small>2000</small>  | <small>一輩子</small> |         \-          |
 | <small>這分鐘不愛我</small> |         \-         |         \-          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:小雪音樂專輯](https://zh.wikipedia.org/wiki/Category:小雪音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:小雪音樂專輯](https://zh.wikipedia.org/wiki/Category:小雪音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")

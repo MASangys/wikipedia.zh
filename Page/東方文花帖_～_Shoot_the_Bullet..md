@@ -1,16 +1,10 @@
-[Shoot_the_Bullet.jpg](https://zh.wikipedia.org/wiki/File:Shoot_the_Bullet.jpg "fig:Shoot_the_Bullet.jpg")
-是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
+[Shoot_the_Bullet.jpg](https://zh.wikipedia.org/wiki/File:Shoot_the_Bullet.jpg "fig:Shoot_the_Bullet.jpg") 是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
 
 ## 概要
 
-本作的發表情報於2005年12月29日公開，並於次日12月30日在[Comic
-Market](../Page/Comic_Market.md "wikilink")
-69正式售賣，而[委託販賣則在](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")2006年2月24日開始。本作是作為[書籍作品](https://zh.wikipedia.org/wiki/書籍 "wikilink")《[東方文花帖
-～ Bohemian Archive in Japanese
-Red.](https://zh.wikipedia.org/wiki/東方文花帖_～_Bohemian_Archive_in_Japanese_Red. "wikilink")》的遊戲部分。雖然作者[ZUN](../Page/ZUN.md "wikilink")是預定將本作收錄在書籍的CD-ROM部分，可是由於製作時間上的問題，所以被迫分開推出。在本作中，過往的大部分登場了的角色都會作為敵人出場，自機只有在書籍《文花帖》和遊戲《[花映塚](../Page/東方花映塚_～_Phantasmagoria_of_Flower_View..md "wikilink")》中有出現過的「[射命丸文](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")（[鴉天狗](https://zh.wikipedia.org/wiki/鴉天狗 "wikilink")）」。雖然本作是一隻[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，但與一般的不同，自機沒有任何的攻擊手段，遊戲規則是「只要拍得一定數量的照片便能過關」。故事模式的10個等級加上Extra模式，共有11個等級的敵人可供挑戰。
+本作的發表情報於2005年12月29日公開，並於次日12月30日在[Comic Market](../Page/Comic_Market.md "wikilink") 69正式售賣，而[委託販賣則在](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")2006年2月24日開始。本作是作為[書籍作品](https://zh.wikipedia.org/wiki/書籍 "wikilink")《[東方文花帖 ～ Bohemian Archive in Japanese Red.](https://zh.wikipedia.org/wiki/東方文花帖_～_Bohemian_Archive_in_Japanese_Red. "wikilink")》的遊戲部分。雖然作者[ZUN](../Page/ZUN.md "wikilink")是預定將本作收錄在書籍的CD-ROM部分，可是由於製作時間上的問題，所以被迫分開推出。在本作中，過往的大部分登場了的角色都會作為敵人出場，自機只有在書籍《文花帖》和遊戲《[花映塚](../Page/東方花映塚_～_Phantasmagoria_of_Flower_View..md "wikilink")》中有出現過的「[射命丸文](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")（[鴉天狗](https://zh.wikipedia.org/wiki/鴉天狗 "wikilink")）」。雖然本作是一隻[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，但與一般的不同，自機沒有任何的攻擊手段，遊戲規則是「只要拍得一定數量的照片便能過關」。故事模式的10個等級加上Extra模式，共有11個等級的敵人可供挑戰。
 
-在遊戲推出初期，內容並未完善。作者在隨後先後發佈了不同的更新檔供下載。在ver1.01a的更新檔中，宣佈將會追加稱為「號外1」的額外關卡，並表示日後會追加更多的內容關卡\[1\]。可是在2006年前半，一直都不見作者追加，使得支持者們去信[電郵詢問](https://zh.wikipedia.org/wiki/電郵 "wikilink")，作者對此表示會在夏季Comic
-Market後著手開發\[2\]。到了10月，由於作者宣佈正進行新作的開發\[3\]，所以最後追加額外關卡的計劃一直都沒有實現。直至2010年3月3日，作者才宣佈推出文花帖第二彈「」\[4\]。
+在遊戲推出初期，內容並未完善。作者在隨後先後發佈了不同的更新檔供下載。在ver1.01a的更新檔中，宣佈將會追加稱為「號外1」的額外關卡，並表示日後會追加更多的內容關卡\[1\]。可是在2006年前半，一直都不見作者追加，使得支持者們去信[電郵詢問](https://zh.wikipedia.org/wiki/電郵 "wikilink")，作者對此表示會在夏季Comic Market後著手開發\[2\]。到了10月，由於作者宣佈正進行新作的開發\[3\]，所以最後追加額外關卡的計劃一直都沒有實現。直至2010年3月3日，作者才宣佈推出文花帖第二彈「」\[4\]。
 
 ## 故事
 
@@ -55,10 +49,7 @@ Market後著手開發\[2\]。到了10月，由於作者宣佈正進行新作的�
   - TWO　SHOT：照片出現頭目跟射命丸文的加乘比例，只有一種比例1.5倍。
   - NICE SHOT：只要出現紅色魔法陣的瞬間照到它及BOSS就會出現的額外加乘比例，拍到的魔法陣越大分數加乘比例越高，最多加乘1.5倍。
   - RISK SHOT：只要在擦彈時拍照就會出現的額外加分，擦彈越多，該額外加分就越多，最多加2000分。
-  - RED SHOT：特有的紅色彈幕額外加分，並非單照到紅色彈幕就有這種額外加分，必須要視BOSS特質才會出現。除了RED
-    SHOT以外，也有其他不同種類的彈幕加分，目前已確認有：BLUE SHOT、ORANGE SHOT、GREEN
-    SHOT、PUPRLE SHOT、RAINBOW SHOT、COLORFUL SHOT、CYAN
-    SHOT。最多加到2100分（僅限RAINBOW SHOT和COLORFUL SHOT）
+  - RED SHOT：特有的紅色彈幕額外加分，並非單照到紅色彈幕就有這種額外加分，必須要視BOSS特質才會出現。除了RED SHOT以外，也有其他不同種類的彈幕加分，目前已確認有：BLUE SHOT、ORANGE SHOT、GREEN SHOT、PUPRLE SHOT、RAINBOW SHOT、COLORFUL SHOT、CYAN SHOT。最多加到2100分（僅限RAINBOW SHOT和COLORFUL SHOT）
 
 ## 登場角色
 
@@ -203,10 +194,7 @@ Market後著手開發\[2\]。到了10月，由於作者宣佈正進行新作的�
 
   - ZUN在網誌上對本遊戲的感想
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
 
 1.
 2.

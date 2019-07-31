@@ -1,6 +1,4 @@
-**Super
-Dash小說新人獎**是[集英社舉辦的](../Page/集英社.md "wikilink")[輕小說新人獎](../Page/輕小說.md "wikilink")。一年發表一次（每年的10月25日截止，隔年4月25日發表）。得獎作品由評審委員共同決議，大賞得獎者可以得到正賞的盾和副賞100萬日圓，佳作得獎者可以得到正賞的盾和副賞50萬日圓，同時出版後能夠得到版稅。
-此外，得獎者的作品會在[Super Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")。
+**Super Dash小說新人獎**是[集英社](../Page/集英社.md "wikilink")舉辦的[輕小說](../Page/輕小說.md "wikilink")新人獎。一年發表一次（每年的10月25日截止，隔年4月25日發表）。得獎作品由評審委員共同決議，大賞得獎者可以得到正賞的盾和副賞100萬日圓，佳作得獎者可以得到正賞的盾和副賞50萬日圓，同時出版後能夠得到版稅。 此外，得獎者的作品會在[Super Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")。
 
 ## 評審委員
 
@@ -316,9 +314,6 @@ Dash小說新人獎**是[集英社舉辦的](../Page/集英社.md "wikilink")[�
 
 ## 外部連結
 
-  - [Super
-    Dash小說新人獎網頁](https://web.archive.org/web/20081218020655/http://dash.shueisha.co.jp/sinjin/)
+  - [Super Dash小說新人獎網頁](https://web.archive.org/web/20081218020655/http://dash.shueisha.co.jp/sinjin/)
 
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
-[Category:集英社主導的獎](https://zh.wikipedia.org/wiki/Category:集英社主導的獎 "wikilink")
-[Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink")
+[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:集英社主導的獎](https://zh.wikipedia.org/wiki/Category:集英社主導的獎 "wikilink") [Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink")

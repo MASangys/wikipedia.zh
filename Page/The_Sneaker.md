@@ -1,6 +1,4 @@
-是[角川書店](../Page/角川書店.md "wikilink")發行的[輕小說](../Page/輕小說.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1993年創刊，2011年休刊，目標為年輕成年男性。曾連載多本人氣輕小說，包括[涼宮春日](../Page/涼宮春日系列.md "wikilink")、[聖魔之血](../Page/聖魔之血.md "wikilink")及[Code
-Geass
-反叛的魯路修系列](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")。
+是[角川書店](../Page/角川書店.md "wikilink")發行的[輕小說](../Page/輕小說.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1993年創刊，2011年休刊，目標為年輕成年男性。曾連載多本人氣輕小說，包括[涼宮春日](../Page/涼宮春日系列.md "wikilink")、[聖魔之血](../Page/聖魔之血.md "wikilink")及[Code Geass 反叛的魯路修系列](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")。
 
 ## 主要刊載作品
 
@@ -24,18 +22,15 @@ Geass
 ### 連載結束作品
 
   - [オイレンシュピーゲル](https://zh.wikipedia.org/wiki/オイレンシュピーゲル "wikilink")（[冲方丁](../Page/冲方丁.md "wikilink")）
-  - [GOTH
-    リストカット事件](https://zh.wikipedia.org/wiki/GOTH_リストカット事件 "wikilink")（[乙一](../Page/乙一.md "wikilink")）
+  - [GOTH リストカット事件](https://zh.wikipedia.org/wiki/GOTH_リストカット事件 "wikilink")（[乙一](../Page/乙一.md "wikilink")）
   - [されど罪人は竜と踊る](https://zh.wikipedia.org/wiki/されど罪人は竜と踊る "wikilink")（[浅井ラボ](https://zh.wikipedia.org/wiki/浅井ラボ "wikilink")）
   - [新羅德斯島戰記](https://zh.wikipedia.org/wiki/新羅德斯島戰記 "wikilink")（[水野良](../Page/水野良.md "wikilink")）
   - [戦闘城塞マスラヲ](https://zh.wikipedia.org/wiki/戦闘城塞マスラヲ "wikilink")（[林トモアキ](https://zh.wikipedia.org/wiki/林トモアキ "wikilink")）
   - [桜ish―推定魔法少女―](https://zh.wikipedia.org/wiki/桜ish―推定魔法少女― "wikilink")（[一肇](https://zh.wikipedia.org/wiki/一肇 "wikilink")）
   - [DOORS](https://zh.wikipedia.org/wiki/DOORS_\(小説\) "wikilink")（[神坂一](../Page/神坂一.md "wikilink")）
-  - [トラブルシューター
-    シェリフスターズSS](https://zh.wikipedia.org/wiki/トラブルシューター_シェリフスターズSS "wikilink")（神坂一）
+  - [トラブルシューター シェリフスターズSS](https://zh.wikipedia.org/wiki/トラブルシューター_シェリフスターズSS "wikilink")（神坂一）
   - [聖魔之血](../Page/聖魔之血.md "wikilink")（[吉田直](../Page/吉田直.md "wikilink")）
-  - [フォーチュン・クエスト
-    パステルの旅立ち](https://zh.wikipedia.org/wiki/フォーチュン・クエスト "wikilink")（[深沢美潮](https://zh.wikipedia.org/wiki/深沢美潮 "wikilink")）
+  - [フォーチュン・クエスト パステルの旅立ち](https://zh.wikipedia.org/wiki/フォーチュン・クエスト "wikilink")（[深沢美潮](https://zh.wikipedia.org/wiki/深沢美潮 "wikilink")）
   - [ボクらは霊能探偵団\!](https://zh.wikipedia.org/wiki/ボクらは霊能探偵団! "wikilink")（中村うさぎ）
   - [ミルナの禁忌](https://zh.wikipedia.org/wiki/ミルナの禁忌 "wikilink")（[白倉由美](https://zh.wikipedia.org/wiki/白倉由美 "wikilink")）
   - [闇の運命を背負う者](https://zh.wikipedia.org/wiki/闇の運命を背負う者 "wikilink")（神坂一）
@@ -48,10 +43,4 @@ Geass
 
   - [The Sneaker](http://www.kadokawa.co.jp/mag/sneaker/)
 
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
-[Category:輕小說雜誌](https://zh.wikipedia.org/wiki/Category:輕小說雜誌 "wikilink")
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:1993年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1993年創辦的雜誌 "wikilink")
-[Category:2011年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2011年停刊的雜誌 "wikilink")
-[Category:1993年日本建立](https://zh.wikipedia.org/wiki/Category:1993年日本建立 "wikilink")
-[Category:2011年日本廢除](https://zh.wikipedia.org/wiki/Category:2011年日本廢除 "wikilink")
+[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink") [Category:輕小說雜誌](https://zh.wikipedia.org/wiki/Category:輕小說雜誌 "wikilink") [Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:1993年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1993年創辦的雜誌 "wikilink") [Category:2011年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2011年停刊的雜誌 "wikilink") [Category:1993年日本建立](https://zh.wikipedia.org/wiki/Category:1993年日本建立 "wikilink") [Category:2011年日本廢除](https://zh.wikipedia.org/wiki/Category:2011年日本廢除 "wikilink")

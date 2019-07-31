@@ -1,5 +1,4 @@
-**JCB**（Japan Credit
-Bureau，吉士美卡或日財卡）為[日本](../Page/日本.md "wikilink")[三和銀行](https://zh.wikipedia.org/wiki/三和銀行 "wikilink")、[日本信販銀行](https://zh.wikipedia.org/wiki/日本信販銀行 "wikilink")、[三井銀行](https://zh.wikipedia.org/wiki/三井銀行 "wikilink")、[協和銀行](https://zh.wikipedia.org/wiki/協和銀行 "wikilink")、[大和銀行等企业在](https://zh.wikipedia.org/wiki/大和銀行 "wikilink")1961年成立的信用卡组织。
+**JCB**（Japan Credit Bureau，吉士美卡或日財卡）為[日本](../Page/日本.md "wikilink")[三和銀行](https://zh.wikipedia.org/wiki/三和銀行 "wikilink")、[日本信販銀行](https://zh.wikipedia.org/wiki/日本信販銀行 "wikilink")、[三井銀行](https://zh.wikipedia.org/wiki/三井銀行 "wikilink")、[協和銀行](https://zh.wikipedia.org/wiki/協和銀行 "wikilink")、[大和銀行等企业在](https://zh.wikipedia.org/wiki/大和銀行 "wikilink")1961年成立的信用卡组织。
 
 该组织从1961年開始發行信用卡，但只限於日本國內使用。1981年後，開始國際業務，建立全球服務網路，並迅發展國際發卡市場，讓JCB信用卡目前可以在世界190個國家及地區使用。
 
@@ -44,8 +43,4 @@ Bureau，吉士美卡或日財卡）為[日本](../Page/日本.md "wikilink")[�
   - [JCB（香港）](http://www.hk.jcb/zh/)
   - [JCB（中華人民共和国）](http://www.jcbcard.cn)
 
-[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink")
-[Category:三菱集团](https://zh.wikipedia.org/wiki/Category:三菱集团 "wikilink")
-[Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink")
-[Category:1961年成立的公司](https://zh.wikipedia.org/wiki/Category:1961年成立的公司 "wikilink")
-[Category:信用卡发卡组织](https://zh.wikipedia.org/wiki/Category:信用卡发卡组织 "wikilink")
+[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink") [Category:三菱集团](https://zh.wikipedia.org/wiki/Category:三菱集团 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:1961年成立的公司](https://zh.wikipedia.org/wiki/Category:1961年成立的公司 "wikilink") [Category:信用卡发卡组织](https://zh.wikipedia.org/wiki/Category:信用卡发卡组织 "wikilink")

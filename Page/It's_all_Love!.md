@@ -1,7 +1,4 @@
-《**It's all
-Love\!**》是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第43rd單曲，也是[倖田來未](../Page/倖田來未.md "wikilink")和其妹[日本](../Page/日本.md "wikilink")歌手[misono以](https://zh.wikipedia.org/wiki/misono "wikilink")「倖田來未×misono」名義推出的單曲。收錄、二人合唱的「It's
-all
-Love\!」以及各自獨唱的[日本](../Page/日本.md "wikilink")電影《[舞吧！昴](https://zh.wikipedia.org/wiki/舞吧！昴 "wikilink")（[昴-スバル-](https://zh.wikipedia.org/wiki/昴-スバル- "wikilink")）》主題曲「faraway」、「天秤～強がりな私×弱がりな君～（天秤～逞強的我x軟弱的你～）》。
+《**It's all Love\!**》是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第43rd單曲，也是[倖田來未](../Page/倖田來未.md "wikilink")和其妹[日本](../Page/日本.md "wikilink")歌手[misono以](https://zh.wikipedia.org/wiki/misono "wikilink")「倖田來未×misono」名義推出的單曲。收錄、二人合唱的「It's all Love\!」以及各自獨唱的[日本](../Page/日本.md "wikilink")電影《[舞吧！昴](https://zh.wikipedia.org/wiki/舞吧！昴 "wikilink")（[昴-スバル-](https://zh.wikipedia.org/wiki/昴-スバル- "wikilink")）》主題曲「faraway」、「天秤～強がりな私×弱がりな君～（天秤～逞強的我x軟弱的你～）》。
 
 ## 附註
 
@@ -44,15 +41,7 @@ Love\!」以及各自獨唱的[日本](../Page/日本.md "wikilink")電影《[�
 
 ## 外部連結
 
-  - [倖田來未×misono Official
-    Site](https://web.archive.org/web/20090710013259/http://rhythmzone.net/koda/its-all-love/)
+  - [倖田來未×misono Official Site](https://web.archive.org/web/20090710013259/http://rhythmzone.net/koda/its-all-love/)
   - [倖田來未×misono Official Site（台灣官網）](http://www.avex.com.tw/koda/)
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")
-[Category:misono歌曲](https://zh.wikipedia.org/wiki/Category:misono歌曲 "wikilink")
-[Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2009年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年RIAJ付費音樂下載榜冠軍歌曲 "wikilink")
-[Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink") [Category:misono歌曲](https://zh.wikipedia.org/wiki/Category:misono歌曲 "wikilink") [Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink") [Category:2009年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年RIAJ付費音樂下載榜冠軍歌曲 "wikilink") [Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")

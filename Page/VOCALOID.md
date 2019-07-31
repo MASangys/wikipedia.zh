@@ -1,8 +1,4 @@
-**VOCALOID**（）是日本樂器製造商[山葉公司開發的](../Page/山葉公司.md "wikilink")[電子音樂製作](../Page/電子音樂.md "wikilink")[語音合成軟件](https://zh.wikipedia.org/wiki/語音合成 "wikilink")\[1\]，輸入音調和歌詞，就可以合成為原為人類聲音的歌聲。2003年2月推出首個版本，2007年1月推出新版本VOCALOID
-2。2008年4月4日，發表開發線上版「NetVOCALOID」\[2\]\[3\]，9月30日於「CEATEC JAPAN
-2008」正式展示，可於[網頁瀏覽器直接使用](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，相比非網上版，因為是由[伺服器計算合成聲音](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，客戶端的電腦負荷可大大減低\[4\]。2009年4月9日正式公開，服務提供於部分[手提電話](https://zh.wikipedia.org/wiki/手提電話 "wikilink")\[5\]\[6\]。VOCALOID
-3于2011年10月21日正式发售。时隔3年后VOCALOID
-4于2014年11月20日正式公布，于2014年12月31日发售。2018年7月12日，VOCALOID5正式公布\[7\]。
+**VOCALOID**（）是日本樂器製造商[山葉公司](../Page/山葉公司.md "wikilink")開發的[電子音樂](../Page/電子音樂.md "wikilink")製作[語音合成軟件](https://zh.wikipedia.org/wiki/語音合成 "wikilink")\[1\]，輸入音調和歌詞，就可以合成為原為人類聲音的歌聲。2003年2月推出首個版本，2007年1月推出新版本VOCALOID 2。2008年4月4日，發表開發線上版「NetVOCALOID」\[2\]\[3\]，9月30日於「CEATEC JAPAN 2008」正式展示，可於[網頁瀏覽器直接使用](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，相比非網上版，因為是由[伺服器計算合成聲音](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，客戶端的電腦負荷可大大減低\[4\]。2009年4月9日正式公開，服務提供於部分[手提電話](https://zh.wikipedia.org/wiki/手提電話 "wikilink")\[5\]\[6\]。VOCALOID 3于2011年10月21日正式发售。时隔3年后VOCALOID 4于2014年11月20日正式公布，于2014年12月31日发售。2018年7月12日，VOCALOID5正式公布\[7\]。
 
 ## 词源
 
@@ -13,35 +9,23 @@
 
 ## 历史
 
-[Yamaha于](https://zh.wikipedia.org/wiki/Yamaha "wikilink")2000年3月开始研发VOCALOID并宣布将于2003年3月5日至9日在[德国的](../Page/德国.md "wikilink")公示其存在\[9\]。2005年6月，Yamaha对VOCALOID更新至V1.1；此后进一步对其改进，版本更新至V1.1.2\[10\]。使用第一代VOCALOID的虚拟歌姬共有5个。最初的系统只有装满处理算法的处理引擎，并无音色\[11\]。
+[Yamaha于](https://zh.wikipedia.org/wiki/Yamaha "wikilink")2000年3月开始研发VOCALOID并宣布将于2003年3月5日至9日在[德国](../Page/德国.md "wikilink")的公示其存在\[9\]。2005年6月，Yamaha对VOCALOID更新至V1.1；此后进一步对其改进，版本更新至V1.1.2\[10\]。使用第一代VOCALOID的虚拟歌姬共有5个。最初的系统只有装满处理算法的处理引擎，并无音色\[11\]。
 
-VOCALOID 2于2007年发布。与第一代引擎不同，VOCALOID
-2基于其对声音样本的探测结果而非人声的分析\[12\]。合成引擎和用户界面被彻底改造，日本的VOCALOIDs拥有自己独有的日本界面VOCALOID
-2系统的主要部分是乐谱编辑器（VOCALOID
-2编辑器）\[13\]，歌手库和合成引擎。合成引擎从乐谱编辑器接收乐谱信息、从歌手库中选择适当的音色，并将它们融合在一起以输出合成音\[14\]。Yamaha提供的乐谱编辑器和合成引擎在不同的VOCALOID
-2产品中基本没有区别。
+VOCALOID 2于2007年发布。与第一代引擎不同，VOCALOID 2基于其对声音样本的探测结果而非人声的分析\[12\]。合成引擎和用户界面被彻底改造，日本的VOCALOIDs拥有自己独有的日本界面VOCALOID 2系统的主要部分是乐谱编辑器（VOCALOID 2编辑器）\[13\]，歌手库和合成引擎。合成引擎从乐谱编辑器接收乐谱信息、从歌手库中选择适当的音色，并将它们融合在一起以输出合成音\[14\]。Yamaha提供的乐谱编辑器和合成引擎在不同的VOCALOID 2产品中基本没有区别。
 
 VOCALOID 3于2011年10月21日推出，一些工作室可以将VOCALOID 2的声乐库搬至VOCALOID 3\[15\]。
 
-2014年10月，首个使用VOCALOID 4的产品被确定为英语音源Ruby。此前发布被延迟，而这恰好让其可以用到全新的发声引擎VOCALOID
-4。不久以后，[克林普顿未来媒体对即将面世的](https://zh.wikipedia.org/wiki/克里普敦未來媒體 "wikilink")“新Luka声乐”作出了报道。2015年，数个V4版的人声发布，此后不久VOCALOID
-4发布\[16\]。
+2014年10月，首个使用VOCALOID 4的产品被确定为英语音源Ruby。此前发布被延迟，而这恰好让其可以用到全新的发声引擎VOCALOID 4。不久以后，[克林普顿未来媒体对即将面世的](https://zh.wikipedia.org/wiki/克里普敦未來媒體 "wikilink")“新Luka声乐”作出了报道。2015年，数个V4版的人声发布，此后不久VOCALOID 4发布\[16\]。
 
 ## 特点
 
-軟件採用Yamaha開發的「Frequency-domain Singing Articulation Splicing and
-Shaping」\[17\]。先採集人類聲音的標本，然後再製作歌聲[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。但VOCALOID沒有歌聲資料庫，實際可使用的版本由其他公司開發\[18\]。
+軟件採用Yamaha開發的「Frequency-domain Singing Articulation Splicing and Shaping」\[17\]。先採集人類聲音的標本，然後再製作歌聲[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。但VOCALOID沒有歌聲資料庫，實際可使用的版本由其他公司開發\[18\]。
 
 ## 文化影响
 
-[克里普敦未来媒体的](https://zh.wikipedia.org/wiki/克里普敦未來媒體 "wikilink")[初音未来Vocaloid](https://zh.wikipedia.org/wiki/初音未来 "wikilink")
-2软件发布后\[19\]，VOCALOID开始在日本流行起来，她的成功导致了Vocaloid软件的普及\[20\]，是VOCALOID成名的关键因素，她的代表作是[甩葱歌](../Page/甩蔥歌.md "wikilink")\[21\]。日本[视频分享网站](https://zh.wikipedia.org/wiki/短片分享网站 "wikilink")[Niconico在软件的认可和普及中发挥了重要作用](../Page/Niconico動畫.md "wikilink")。克里普敦未来媒体称，他们知道在初音未来发布前，Niconico的用户便已开始以视频的形式发布用VOCALOID制作的歌曲，这些视频充分展现出了该引擎制作多媒体文件时可以展现出的各种可能，尤其是[同人文化](../Page/同人_\(ACG\).md "wikilink")\[22\]。随着其认可度和知名度的不断上升，Niconico成为了合作内容创建的地方，用户在这里将编写的原创流行歌曲与2D动画和3D动画以及其他用户的混音混合起来，许多创作者也可以在此展示一些未完成的作品并征求意见\[23\]。该软件也被用于以歌曲和诗歌的形式讲故事，例如现已有1部漫画、6本书和2本剧本的作品[惡之系列](../Page/惡之系列.md "wikilink")\[24\]\[25\]。[NICONICO动画在推广Vocaloids方面发挥的重要作用也激起了人们对软件的兴趣](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，[三浦建太郎也因为对网站的热爱而为他提供了免费服务](../Page/三浦建太郎.md "wikilink")\[26\]。VOCALOID影响巨大，在线音乐分享平台[SoundCloud和视频网站Youtube上相关音乐和视频的数量已达到了](../Page/SoundCloud.md "wikilink")240万\[27\]。
-[链接=<https://zh.wikipedia.org/wiki/File:Akatsuki.png>](https://zh.wikipedia.org/wiki/File:Akatsuki.png "fig:链接=https://zh.wikipedia.org/wiki/File:Akatsuki.png")
-2009年9月，3个与初音未来密切相关的雕像被载上了[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")的火箭，但它没能抵达[外层空间](../Page/外层空间.md "wikilink")\[28\]\[29\]。2010年5月21日06:58:22（[日本标准时间](../Page/日本標準時間.md "wikilink")），日本首个金星探测器[破晓号](../Page/破曉號.md "wikilink")（[日语](../Page/日语.md "wikilink")：あかつき）在[H-IIA运载火箭的帮助下从日本的](../Page/H-IIA运载火箭.md "wikilink")[种子岛宇宙中心发射](https://zh.wikipedia.org/wiki/种子岛宇宙中心 "wikilink")，探测器内载有3个描绘初音未来的金属板\[30\]\[31\]。在[2011年東日本大地震期间](https://zh.wikipedia.org/wiki/2011年東日本大地震 "wikilink")，人们生产了许多与Vocaloid有关的献血驱动器。
+[克里普敦未来媒体的](https://zh.wikipedia.org/wiki/克里普敦未來媒體 "wikilink")[初音未来Vocaloid](https://zh.wikipedia.org/wiki/初音未来 "wikilink") 2软件发布后\[19\]，VOCALOID开始在日本流行起来，她的成功导致了Vocaloid软件的普及\[20\]，是VOCALOID成名的关键因素，她的代表作是[甩葱歌](../Page/甩蔥歌.md "wikilink")\[21\]。日本[视频分享网站](https://zh.wikipedia.org/wiki/短片分享网站 "wikilink")[Niconico在软件的认可和普及中发挥了重要作用](../Page/Niconico動畫.md "wikilink")。克里普敦未来媒体称，他们知道在初音未来发布前，Niconico的用户便已开始以视频的形式发布用VOCALOID制作的歌曲，这些视频充分展现出了该引擎制作多媒体文件时可以展现出的各种可能，尤其是[同人文化](../Page/同人_\(ACG\).md "wikilink")\[22\]。随着其认可度和知名度的不断上升，Niconico成为了合作内容创建的地方，用户在这里将编写的原创流行歌曲与2D动画和3D动画以及其他用户的混音混合起来，许多创作者也可以在此展示一些未完成的作品并征求意见\[23\]。该软件也被用于以歌曲和诗歌的形式讲故事，例如现已有1部漫画、6本书和2本剧本的作品[惡之系列](../Page/惡之系列.md "wikilink")\[24\]\[25\]。[NICONICO动画在推广Vocaloids方面发挥的重要作用也激起了人们对软件的兴趣](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，[三浦建太郎](../Page/三浦建太郎.md "wikilink")也因为对网站的热爱而为他提供了免费服务\[26\]。VOCALOID影响巨大，在线音乐分享平台[SoundCloud](../Page/SoundCloud.md "wikilink")和视频网站Youtube上相关音乐和视频的数量已达到了240万\[27\]。 [链接=<https://zh.wikipedia.org/wiki/File:Akatsuki.png>](https://zh.wikipedia.org/wiki/File:Akatsuki.png "fig:链接=https://zh.wikipedia.org/wiki/File:Akatsuki.png") 2009年9月，3个与初音未来密切相关的雕像被载上了[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")的火箭，但它没能抵达[外层空间](../Page/外层空间.md "wikilink")\[28\]\[29\]。2010年5月21日06:58:22（[日本标准时间](../Page/日本標準時間.md "wikilink")），日本首个金星探测器[破晓号](../Page/破曉號.md "wikilink")（[日语](../Page/日语.md "wikilink")：あかつき）在[H-IIA运载火箭](../Page/H-IIA运载火箭.md "wikilink")的帮助下从日本的[种子岛宇宙中心发射](https://zh.wikipedia.org/wiki/种子岛宇宙中心 "wikilink")，探测器内载有3个描绘初音未来的金属板\[30\]\[31\]。在[2011年東日本大地震期间](https://zh.wikipedia.org/wiki/2011年東日本大地震 "wikilink")，人们生产了许多与Vocaloid有关的献血驱动器。
 
-VOCALOID对中国大陆也产生了影响。在中国大陆，使用该软件的虚拟歌姬以[洛天依最为出名](../Page/洛天依.md "wikilink")，她由上海禾念信息科技有限公司和Bplats一同开发，于2012年7月发售，并曾于2016年在中国视频弹幕网站[Bilibili举办的线下活动Bilibili](../Page/Bilibili.md "wikilink")
-Macro
-Link上亮相，代表歌曲为《[权御天下](https://zh.wikipedia.org/wiki/权御天下 "wikilink")》等\[32\]，她也演唱过《[索尼大法好](../Page/索尼.md "wikilink")》等神曲。2013年，第二位使用中文的虚拟歌姬[言和横空出世](../Page/言和.md "wikilink")，代表作为[梦之雨等](https://zh.wikipedia.org/wiki/梦之雨 "wikilink")。华创文化有限公司代理销售的华语虚拟歌姬[心华声源来自](../Page/心華.md "wikilink")[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")，于2015年4月24日在日本首賣\[33\]；2015年6月27日在中國大陸首賣。
+VOCALOID对中国大陆也产生了影响。在中国大陆，使用该软件的虚拟歌姬以[洛天依](../Page/洛天依.md "wikilink")最为出名，她由上海禾念信息科技有限公司和Bplats一同开发，于2012年7月发售，并曾于2016年在中国视频弹幕网站[Bilibili](../Page/Bilibili.md "wikilink")举办的线下活动Bilibili Macro Link上亮相，代表歌曲为《[权御天下](https://zh.wikipedia.org/wiki/权御天下 "wikilink")》等\[32\]，她也演唱过《[索尼](../Page/索尼.md "wikilink")大法好》等神曲。2013年，第二位使用中文的虚拟歌姬[言和](../Page/言和.md "wikilink")横空出世，代表作为[梦之雨等](https://zh.wikipedia.org/wiki/梦之雨 "wikilink")。华创文化有限公司代理销售的华语虚拟歌姬[心华声源来自](../Page/心華.md "wikilink")[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")，于2015年4月24日在日本首賣\[33\]；2015年6月27日在中國大陸首賣。
 
 ## 各種參數
 
@@ -144,30 +128,25 @@ Link上亮相，代表歌曲为《[权御天下](https://zh.wikipedia.org/wiki/�
 
   - [CRYPTON](http://www.crypton.co.jp/)
 
-  - [CRYPTON
-    VOCALOID2特集](http://www.crypton.co.jp/mp/pages/prod/vocaloid/)
+  - [CRYPTON VOCALOID2特集](http://www.crypton.co.jp/mp/pages/prod/vocaloid/)
 
   - [AH-Software](http://www.ah-soft.com/)
 
   - [POWER FX](http://www.powerfx.com/)
 
-  - [VOCALOID
-    排名週刊](https://web.archive.org/web/20131103064849/http://vocaran.jpn.org/)
+  - [VOCALOID 排名週刊](https://web.archive.org/web/20131103064849/http://vocaran.jpn.org/)
 
   - [株式会社インターネット - VOCALOID](http://www.ssw.co.jp/products/vocal/)
 
 {{-}}
 
-[Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink")
-[Category:语音合成](https://zh.wikipedia.org/wiki/Category:语音合成 "wikilink")
-[Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
+[Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink") [Category:语音合成](https://zh.wikipedia.org/wiki/Category:语音合成 "wikilink") [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
 
 1.
 
 2.
 
-3.  [CEATEC
-    JAPAN 2008](http://www.ceatec.com/2008/lcf/ja/exhibitor/detail.html?exh_id=E080441)
+3.  [CEATEC JAPAN 2008](http://www.ceatec.com/2008/lcf/ja/exhibitor/detail.html?exh_id=E080441)
 
 4.
 

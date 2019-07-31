@@ -15,9 +15,6 @@
   - [官方网站](https://web.archive.org/web/20090105181919/http://www.tjfordlive.com/)
   - [NBA.com资料](http://www.nba.com/playerfile/tj_ford/)
 
-[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink")
-[Category:多伦多猛龙队球员](https://zh.wikipedia.org/wiki/Category:多伦多猛龙队球员 "wikilink")
-[Category:密尔沃基雄鹿队球员](https://zh.wikipedia.org/wiki/Category:密尔沃基雄鹿队球员 "wikilink")
-[Category:印第安纳步行者队球员](https://zh.wikipedia.org/wiki/Category:印第安纳步行者队球员 "wikilink")
+[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink") [Category:多伦多猛龙队球员](https://zh.wikipedia.org/wiki/Category:多伦多猛龙队球员 "wikilink") [Category:密尔沃基雄鹿队球员](https://zh.wikipedia.org/wiki/Category:密尔沃基雄鹿队球员 "wikilink") [Category:印第安纳步行者队球员](https://zh.wikipedia.org/wiki/Category:印第安纳步行者队球员 "wikilink")
 
 1.  <http://usatoday30.usatoday.com/sports/basketball/nba/story/2012-03-12/NBAs-TJ-Ford-retires-as-medical-precaution/53500962/1>

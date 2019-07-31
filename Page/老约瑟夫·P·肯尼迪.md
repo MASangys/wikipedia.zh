@@ -1,8 +1,4 @@
-**老约瑟夫·帕特里克·“乔”·肯尼迪**（**Joseph Patrick "Joe" Kennedy,
-Sr.**，1888年9月6日[波士顿](https://zh.wikipedia.org/wiki/波士顿_\(马萨诸塞州\) "wikilink")
--
-1969年11月18日。[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[海厄尼斯](https://zh.wikipedia.org/wiki/海厄尼斯_\(马萨诸塞州\) "wikilink")），[美国商人](../Page/美国.md "wikilink")、政治家，[美国民主党成员](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，曾任[美国驻英国大使](https://zh.wikipedia.org/wiki/美国驻英国大使 "wikilink")（1938年-1940年）、[美国证券交易委员会主席](../Page/美国证券交易委员会.md "wikilink")（1934年-1935年）。
-约瑟夫是[肯尼迪家族的第二代成员](../Page/肯尼迪家族.md "wikilink")，[派屈克·J·甘迺迪的長子](https://zh.wikipedia.org/wiki/派屈克·J·甘迺迪 "wikilink")。
+**老约瑟夫·帕特里克·“乔”·肯尼迪**（**Joseph Patrick "Joe" Kennedy, Sr.**，1888年9月6日[波士顿](https://zh.wikipedia.org/wiki/波士顿_\(马萨诸塞州\) "wikilink") - 1969年11月18日。[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[海厄尼斯](https://zh.wikipedia.org/wiki/海厄尼斯_\(马萨诸塞州\) "wikilink")），[美国](../Page/美国.md "wikilink")商人、政治家，[美国民主党成员](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，曾任[美国驻英国大使](https://zh.wikipedia.org/wiki/美国驻英国大使 "wikilink")（1938年-1940年）、[美国证券交易委员会](../Page/美国证券交易委员会.md "wikilink")主席（1934年-1935年）。 约瑟夫是[肯尼迪家族](../Page/肯尼迪家族.md "wikilink")的第二代成员，[派屈克·J·甘迺迪的長子](https://zh.wikipedia.org/wiki/派屈克·J·甘迺迪 "wikilink")。
 
 ## 婚姻与家庭
 
@@ -21,16 +17,8 @@ Sr.**，1888年9月6日[波士顿](https://zh.wikipedia.org/wiki/波士顿_\(马
 ## 外部链接
 
   - [Joe Kennedy's Political Influence](http://www.ytedk.com/jfk.htm)
-  - [The Kennedys - PBS
-    Special](http://www.pbs.org/wgbh/amex/kennedys/peopleevents/p_joe.html)
-  - [Kennedy's Legacy at the
-    SEC](http://www.businessweek.com/bwdaily/dnflash/may2003/nf20030529_7026.htm)
-  - [Biography of Joseph P. Kennedy and his early life and
-    education](http://xroads.virginia.edu/~UG03/omara-alwala/JPKennedy.html)
+  - [The Kennedys - PBS Special](http://www.pbs.org/wgbh/amex/kennedys/peopleevents/p_joe.html)
+  - [Kennedy's Legacy at the SEC](http://www.businessweek.com/bwdaily/dnflash/may2003/nf20030529_7026.htm)
+  - [Biography of Joseph P. Kennedy and his early life and education](http://xroads.virginia.edu/~UG03/omara-alwala/JPKennedy.html)
 
-[Category:1888年出生](https://zh.wikipedia.org/wiki/Category:1888年出生 "wikilink")
-[Category:1969年逝世](https://zh.wikipedia.org/wiki/Category:1969年逝世 "wikilink")
-[Category:美国驻英国大使](https://zh.wikipedia.org/wiki/Category:美国驻英国大使 "wikilink")
-[Category:美国证券交易委员会主席](https://zh.wikipedia.org/wiki/Category:美国证券交易委员会主席 "wikilink")
-[Category:肯尼迪家族](https://zh.wikipedia.org/wiki/Category:肯尼迪家族 "wikilink")
-[Category:美国房地产商](https://zh.wikipedia.org/wiki/Category:美国房地产商 "wikilink")
+[Category:1888年出生](https://zh.wikipedia.org/wiki/Category:1888年出生 "wikilink") [Category:1969年逝世](https://zh.wikipedia.org/wiki/Category:1969年逝世 "wikilink") [Category:美国驻英国大使](https://zh.wikipedia.org/wiki/Category:美国驻英国大使 "wikilink") [Category:美国证券交易委员会主席](https://zh.wikipedia.org/wiki/Category:美国证券交易委员会主席 "wikilink") [Category:肯尼迪家族](https://zh.wikipedia.org/wiki/Category:肯尼迪家族 "wikilink") [Category:美国房地产商](https://zh.wikipedia.org/wiki/Category:美国房地产商 "wikilink")

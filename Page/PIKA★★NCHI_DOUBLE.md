@@ -1,6 +1,4 @@
-《**PIKA★★NCHI
-DOUBLE**》是[嵐](../Page/嵐.md "wikilink")的第12枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2004年2月18日發行。唱片公司為[J
-Storm](../Page/J_Storm.md "wikilink")。
+《**PIKA★★NCHI DOUBLE**》是[嵐](../Page/嵐.md "wikilink")的第12枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2004年2月18日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
 
@@ -31,6 +29,4 @@ Storm](../Page/J_Storm.md "wikilink")。
 3.  PIKA★★NCHI DOUBLE（Original Karaoke）
 4.  五里霧中（Original Karaoke）
 
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink")
-[Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink") [Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")

@@ -1,8 +1,8 @@
-《**Wish**》為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭的首張新曲](../Page/衛蘭.md "wikilink")+精選，於2009年11月27日推出，《Wish》為全碟唯一一首全新原創歌曲，另外三首新歌為舊曲新詞的經典歌曲。2010年2月5日推出《**Wish**》第二版，加收幾首英文精選歌曲及殘酷遊戲MV。
+《**Wish**》為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")的首張新曲+精選，於2009年11月27日推出，《Wish》為全碟唯一一首全新原創歌曲，另外三首新歌為舊曲新詞的經典歌曲。2010年2月5日推出《**Wish**》第二版，加收幾首英文精選歌曲及殘酷遊戲MV。
 
 ## 簡介
 
-此大碟更讓[衛蘭首次奪得](../Page/衛蘭.md "wikilink")[IFPI香港唱片銷量大獎頒奬禮2009全年最高銷量本地女歌手](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2009 "wikilink")。專輯名稱取自[豐田WISH](https://zh.wikipedia.org/wiki/豐田WISH "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，衛蘭亦成為此車的代言人。專輯收錄4首新歌及28首精選歌曲，隨碟附送DVD一片，收錄17首MV\[1\]\[2\]。
+此大碟更讓[衛蘭](../Page/衛蘭.md "wikilink")首次奪得[IFPI香港唱片銷量大獎頒奬禮2009全年最高銷量本地女歌手](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2009 "wikilink")。專輯名稱取自[豐田WISH](https://zh.wikipedia.org/wiki/豐田WISH "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，衛蘭亦成為此車的代言人。專輯收錄4首新歌及28首精選歌曲，隨碟附送DVD一片，收錄17首MV\[1\]\[2\]。
 
 ## 專輯曲目
 
@@ -225,7 +225,7 @@
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>你的眼神 <strong>(新歌)</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蘇來" title="wikilink">蘇來</a></p></td>
+<td><p><a href="../Page/蘇來.md" title="wikilink">蘇來</a></p></td>
 <td><p><a href="../Page/鄭國江.md" title="wikilink">鄭國江</a></p></td>
 <td><p>雷頌德</p></td>
 <td><p>雷頌德</p></td>
@@ -399,8 +399,7 @@
 15. 無所謂
 16. 大哥
 17. 雜技
-18. 24（[應昌佑](../Page/應昌佑.md "wikilink") featuring
-    [衛蘭](../Page/衛蘭.md "wikilink")）
+18. 24（[應昌佑](../Page/應昌佑.md "wikilink") featuring [衛蘭](../Page/衛蘭.md "wikilink")）
 
 ## 派台歌曲及四台成績
 
@@ -455,14 +454,12 @@
 
 ## 專輯及歌曲所獲獎項
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009
-    - 全碟試聽最高收聽率大碟 - 《Wish》
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009 - 全碟試聽最高收聽率大碟 - 《Wish》
   - IFPI 2009香港唱片銷量大獎頒獎禮 - 十大廣東大碟 - 《Wish》
   - IFPI 2010香港唱片銷量大獎頒獎禮 - 十大廣東大碟 - 《Wish》
   - 第七屆《勁歌王》全球華人樂壇年度總選 - 粵語金曲獎 - 《殘酷遊戲》
   - 第七屆《勁歌王》全球華人樂壇年度總選 - 最暢銷唱片大獎 - 《Wish》
-  - 2010[勁歌金曲優秀選第一回](../Page/勁歌金曲優秀選.md "wikilink") - 得獎歌曲 《殘酷遊戲》
+  - 2010[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第一回 - 得獎歌曲 《殘酷遊戲》
 
 ## 軼事
 
@@ -470,8 +467,7 @@
 
 ## 参考
 
-[Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
 
 1.
 2.

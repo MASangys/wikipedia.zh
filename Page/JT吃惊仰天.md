@@ -1,5 +1,4 @@
-**JT
-Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")，隸屬於[日本煙草旗下](https://zh.wikipedia.org/wiki/日本煙草 "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")（主場則設於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")），目前是女子組的球隊之一。現任主教練為[石原昭久](https://zh.wikipedia.org/wiki/石原昭久 "wikilink")。
+**JT Marvelous**（）是一支[日本](../Page/日本.md "wikilink")女子排球隊，隸屬於[日本煙草旗下](https://zh.wikipedia.org/wiki/日本煙草 "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")（主場則設於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")），目前是女子組的球隊之一。現任主教練為[石原昭久](https://zh.wikipedia.org/wiki/石原昭久 "wikilink")。
 
 ## 過往戰績
 
@@ -228,8 +227,6 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 
 ## 外部連結
 
-  - [JT
-    Marvelous官方網站](http://www.jti.co.jp/knowledge/marvelous/index.html)
+  - [JT Marvelous官方網站](http://www.jti.co.jp/knowledge/marvelous/index.html)
 
-[Category:日本排球隊](https://zh.wikipedia.org/wiki/Category:日本排球隊 "wikilink")
-[Category:日本女子體育隊](https://zh.wikipedia.org/wiki/Category:日本女子體育隊 "wikilink")
+[Category:日本排球隊](https://zh.wikipedia.org/wiki/Category:日本排球隊 "wikilink") [Category:日本女子體育隊](https://zh.wikipedia.org/wiki/Category:日本女子體育隊 "wikilink")

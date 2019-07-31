@@ -1,24 +1,12 @@
-《**A BEST 2**》（A 精選
-2）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007年2月28日發行的精選輯組合，依照歌曲印象而分為《[A
-BEST 2
--BLACK-](https://zh.wikipedia.org/wiki/#A_BEST_2_-BLACK- "wikilink")》與《[A
-BEST 2
--WHITE-](https://zh.wikipedia.org/wiki/#A_BEST_2_-WHITE- "wikilink")》，兩輯同時發售。《A
-BEST 2 -BLACK-》主要收錄悲傷、哀愁、自省風格的樂曲，《A BEST 2 -WHITE-》則主要收錄明亮歡愉、正面進取、緬懷的樂曲。
+《**A BEST 2**》（A 精選 2）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007年2月28日發行的精選輯組合，依照歌曲印象而分為《[A BEST 2 -BLACK-](https://zh.wikipedia.org/wiki/#A_BEST_2_-BLACK- "wikilink")》與《[A BEST 2 -WHITE-](https://zh.wikipedia.org/wiki/#A_BEST_2_-WHITE- "wikilink")》，兩輯同時發售。《A BEST 2 -BLACK-》主要收錄悲傷、哀愁、自省風格的樂曲，《A BEST 2 -WHITE-》則主要收錄明亮歡愉、正面進取、緬懷的樂曲。
 
-收錄的歌曲是從2001年的單曲《[evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")》至2005年的《[HEAVEN](../Page/HEAVEN_\(濱崎步單曲\).md "wikilink")》為止，另外還有一曲新作《part
-of Me》被收於黑盤中。而跨年演唱會《ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007
-A》也分別拆散本篇與花絮，分別分至黑、白兩盤當中。
+收錄的歌曲是從2001年的單曲《[evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")》至2005年的《[HEAVEN](../Page/HEAVEN_\(濱崎步單曲\).md "wikilink")》為止，另外還有一曲新作《part of Me》被收於黑盤中。而跨年演唱會《ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A》也分別拆散本篇與花絮，分別分至黑、白兩盤當中。
 
-不同於《[A
-BEST](../Page/A_BEST.md "wikilink")》有部分歌曲經過重新錄製，本精選集歌曲僅經過母帶的後期重新處理。
+不同於《[A BEST](../Page/A_BEST.md "wikilink")》有部分歌曲經過重新錄製，本精選集歌曲僅經過母帶的後期重新處理。
 
 ## 銷售狀況
 
-在《A BEST 2》宣布發行的一周之後，兩張精選輯版本合計銷量已經超越了一百萬張。隨著如此高的售出量，濱崎步也創下了許多紀錄。
-在2007年的8月，《A BEST
-2》兩張前後擠進[Oricon](../Page/Oricon.md "wikilink")半年榜的前五位，白盤因為演唱會綑綁銷售的因素，較黑盤高一位，佔第3位，黑盤也緊緊追趕於其後，佔據了第4位。
-根據[愛貝克思音樂的出貨數據](https://zh.wikipedia.org/wiki/愛貝克思音樂 "wikilink")，兩張精選輯總計已經超過了兩百萬張\[1\]。
+在《A BEST 2》宣布發行的一周之後，兩張精選輯版本合計銷量已經超越了一百萬張。隨著如此高的售出量，濱崎步也創下了許多紀錄。 在2007年的8月，《A BEST 2》兩張前後擠進[Oricon](../Page/Oricon.md "wikilink")半年榜的前五位，白盤因為演唱會綑綁銷售的因素，較黑盤高一位，佔第3位，黑盤也緊緊追趕於其後，佔據了第4位。 根據[愛貝克思音樂的出貨數據](https://zh.wikipedia.org/wiki/愛貝克思音樂 "wikilink")，兩張精選輯總計已經超過了兩百萬張\[1\]。
 
 <table>
 <thead>
@@ -77,27 +65,19 @@ BEST](../Page/A_BEST.md "wikilink")》有部分歌曲經過重新錄製，本精
 </tbody>
 </table>
 
-不僅僅是上述在日本[公信榜上的表現](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，《A BEST
-2》在[台灣的各大榜單上也有耀眼的成績](https://zh.wikipedia.org/wiki/台灣 "wikilink")。白盤佔據各大榜單的首位時間長達八周，而黑盤固守著第二名的位置。
+不僅僅是上述在日本[公信榜上的表現](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，《A BEST 2》在[台灣的各大榜單上也有耀眼的成績](https://zh.wikipedia.org/wiki/台灣 "wikilink")。白盤佔據各大榜單的首位時間長達八周，而黑盤固守著第二名的位置。
 
 ## A BEST 2 -BLACK-
 
-《**A BEST 2 -BLACK-**》(A 精選 2
--黑-）是日本歌手濱崎步的第二張[精選輯的其中一版本](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。這張精選輯於2007年2月28日與它的另外一部份《[A
-BEST 2
--WHITE-](https://zh.wikipedia.org/wiki/#A_BEST_2_-WHITE- "wikilink")》同時發行。發行後，旋即登上了公信榜第一位，隨後被另外一版本的白盤擠下，穩居第二位高達數日。同時，於亞洲其他國家的各大排行榜中，本作也多僅次於白盤，居於第二。
+《**A BEST 2 -BLACK-**》(A 精選 2 -黑-）是日本歌手濱崎步的第二張[精選輯的其中一版本](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。這張精選輯於2007年2月28日與它的另外一部份《[A BEST 2 -WHITE-](https://zh.wikipedia.org/wiki/#A_BEST_2_-WHITE- "wikilink")》同時發行。發行後，旋即登上了公信榜第一位，隨後被另外一版本的白盤擠下，穩居第二位高達數日。同時，於亞洲其他國家的各大排行榜中，本作也多僅次於白盤，居於第二。
 
 《A BEST 2 -BLACK-》最終售出的數量達到七十萬張，同時排行在2007年度CDJapan百大唱片的第四名\[2\]。
 
 ### 說明
 
-《A BEST 2 -BLACK-》主要收錄以悲傷、哀愁風格為中心的14首樂曲，另加上新曲《part of
-Me》共收錄15首歌曲。但實際上還有原收錄於迷你專輯《[Memorial
-address](../Page/Memorial_address.md "wikilink")》當中的《Memorial address
-(take 2 version)》為本張精選的隱藏歌曲，故實際上有16首歌曲。
+《A BEST 2 -BLACK-》主要收錄以悲傷、哀愁風格為中心的14首樂曲，另加上新曲《part of Me》共收錄15首歌曲。但實際上還有原收錄於迷你專輯《[Memorial address](../Page/Memorial_address.md "wikilink")》當中的《Memorial address (take 2 version)》為本張精選的隱藏歌曲，故實際上有16首歌曲。
 
-另外，DVD部分兩片分別收錄了對應本張專輯收錄曲目的音樂錄影帶、跨年演唱會《ayumi hamasaki BEST of COUNTDOWN
-LIVE 2006-2007 A》彩排以及幕後花絮的記錄片。演唱會本篇則收錄於同日販售《A BEST 2 -WHITE-》當中。
+另外，DVD部分兩片分別收錄了對應本張專輯收錄曲目的音樂錄影帶、跨年演唱會《ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A》彩排以及幕後花絮的記錄片。演唱會本篇則收錄於同日販售《A BEST 2 -WHITE-》當中。
 
 ### 收錄歌曲
 
@@ -145,8 +125,7 @@ LIVE 2006-2007 A》彩排以及幕後花絮的記錄片。演唱會本篇則收�
       -
         作曲：BOUNCEBACK／編曲：HΛL
         第33張單曲的B面曲
-11. **[is this
-    LOVE?](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")**
+11. **[is this LOVE?](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")**
       -
         作曲：渡邊未來／編曲：HΛL
         第35張單曲
@@ -167,8 +146,7 @@ LIVE 2006-2007 A》彩排以及幕後花絮的記錄片。演唱會本篇則收�
         作曲：湯汲哲也／編曲：HΛL
         Panasonic LUMIX FX30 廣告歌曲
     <!-- end list -->
-      - **[Memorial address](../Page/Memorial_address.md "wikilink")
-        (take 2 version)** ※隱藏歌曲
+      - **[Memorial address](../Page/Memorial_address.md "wikilink") (take 2 version)** ※隱藏歌曲
     <!-- end list -->
       -
 
@@ -231,10 +209,7 @@ LIVE 2006-2007 A》彩排以及幕後花絮的記錄片。演唱會本篇則收�
 
 ## A BEST 2 -WHITE-
 
-《**A BEST 2 -WHITE-**》(A 精選 2
--白-）是日本歌手濱崎步的第二張精選輯的其中一版本。這張精選輯於2007年2月28日與它的另外一部份《[A
-BEST 2
--BLACK-](https://zh.wikipedia.org/wiki/#A_BEST_2_-BLACK- "wikilink")》同時發行。這張精選輯不管於日本亦或亞洲其他國家的各大排行榜中，都登上的榜首的位置，黑盤則居於次席。
+《**A BEST 2 -WHITE-**》(A 精選 2 -白-）是日本歌手濱崎步的第二張精選輯的其中一版本。這張精選輯於2007年2月28日與它的另外一部份《[A BEST 2 -BLACK-](https://zh.wikipedia.org/wiki/#A_BEST_2_-BLACK- "wikilink")》同時發行。這張精選輯不管於日本亦或亞洲其他國家的各大排行榜中，都登上的榜首的位置，黑盤則居於次席。
 
 ### 說明
 
@@ -266,8 +241,7 @@ BEST 2
       -
         作曲：CREA／編曲：HΛL
         第23張單曲
-6.  **[Real
-    me](https://zh.wikipedia.org/wiki/Rainbow_\(濱崎步專輯\) "wikilink")**
+6.  **[Real me](https://zh.wikipedia.org/wiki/Rainbow_\(濱崎步專輯\) "wikilink")**
       -
         作曲：D･A･I／編曲：CMJK
         第5張專輯《RAINBOW》收錄歌曲
@@ -283,8 +257,7 @@ BEST 2
       -
         作曲：湯汲哲也／編曲：HΛL
         第33張單曲
-10. **[STEP
-    you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")**
+10. **[STEP you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")**
       -
         作曲：原一博／編曲：CMJK
         第35張單曲
@@ -333,13 +306,11 @@ BEST 2
 #### 跨年演唱會DVD
 
   -
-    LIVE DVD「[ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007
-    A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_BEST_of_COUNTDOWN_LIVE_2006-2007_A "wikilink")」
+    LIVE DVD「[ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_BEST_of_COUNTDOWN_LIVE_2006-2007_A "wikilink")」
 
 <!-- end list -->
 
-1.  [Not
-    yet](https://zh.wikipedia.org/wiki/Secret_\(濱崎步專輯\)#收錄歌曲 "wikilink")
+1.  [Not yet](https://zh.wikipedia.org/wiki/Secret_\(濱崎步專輯\)#收錄歌曲 "wikilink")
 2.  ourselves
 3.  [Fly high](../Page/Fly_high.md "wikilink")
 4.  [Beautiful Fighters](../Page/BLUE_BIRD.md "wikilink")
@@ -349,8 +320,7 @@ BEST 2
 8.  Free & Easy
 9.  evolution
 10. [flower garden](../Page/I_am....md "wikilink")
-11. [until that
-    Day...](https://zh.wikipedia.org/wiki/Secret_\(濱崎步專輯\)#收錄歌曲 "wikilink")
+11. [until that Day...](https://zh.wikipedia.org/wiki/Secret_\(濱崎步專輯\)#收錄歌曲 "wikilink")
 12. [AUDIENCE](../Page/AUDIENCE.md "wikilink")
 13. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
 
@@ -397,10 +367,7 @@ BEST 2
 
 [分類:精選輯](https://zh.wikipedia.org/wiki/分類:精選輯 "wikilink")
 
-[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
 
 1.  [愛貝克思2007年第一季財務報告，第2頁](http://www.avex.co.jp/e_site/press/2008/070518.pdf)
-
-2.  [2007 TOP100
-    Charts](http://www.cdjapan.co.jp/special/charts/2007_jpop_cd.html)
+2.  [2007 TOP100 Charts](http://www.cdjapan.co.jp/special/charts/2007_jpop_cd.html)

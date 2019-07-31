@@ -1,5 +1,4 @@
-《**-{zh-hans:BLEACH;zh-hant:BLEACH;zh-tw:BLEACH死神;zh-hk:BLEACH漂靈;zh-mo:BLEACH漂靈;}-**》是以漫畫《[BLEACH](../Page/BLEACH.md "wikilink")》為原作，[Studio
-Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動畫2004年10月5日起在日本[東京電視台](../Page/東京電視台.md "wikilink")聯播網播放。台灣[八大綜合台](../Page/八大綜合台.md "wikilink")自2006年6月3日、[Animax自](../Page/Animax_Asia.md "wikilink")2009年12月16日、[中視自](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2012年4月30日、[衛視電影台](../Page/衛視電影台.md "wikilink")自2012年8月20日播放。香港[J2](../Page/J2.md "wikilink")電視台自2008年4月30日、Animax自2010年1月4日播放。
+《**-{zh-hans:BLEACH;zh-hant:BLEACH;zh-tw:BLEACH死神;zh-hk:BLEACH漂靈;zh-mo:BLEACH漂靈;}-**》是以漫畫《[BLEACH](../Page/BLEACH.md "wikilink")》為原作，[Studio Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動畫2004年10月5日起在日本[東京電視台](../Page/東京電視台.md "wikilink")聯播網播放。台灣[八大綜合台](../Page/八大綜合台.md "wikilink")自2006年6月3日、[Animax自](../Page/Animax_Asia.md "wikilink")2009年12月16日、[中視自](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2012年4月30日、[衛視電影台](../Page/衛視電影台.md "wikilink")自2012年8月20日播放。香港[J2](../Page/J2.md "wikilink")電視台自2008年4月30日、Animax自2010年1月4日播放。
 
 ## 概要
 
@@ -31,8 +30,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
   - 音樂製作人：木村唯人→谷澤嘉信、大山良→佐藤成俊
   - 音樂製作：[Aniplex](../Page/Aniplex.md "wikilink")
   - 監督：[阿部記之](../Page/阿部記之.md "wikilink")
-  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[Studio
-    Pierrot](../Page/Studio_Pierrot.md "wikilink")
+  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
 
 ## 主題曲
 
@@ -519,14 +517,10 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 
 ## 劇場版
 
-  - **[BLEACH
-    漂靈：劇場版－別處的記憶](../Page/BLEACH_漂靈：劇場版－別處的記憶.md "wikilink")**（2006年）
-  - **[BLEACH
-    漂靈：劇場版－鑽石星塵的反叛](../Page/BLEACH_漂靈：劇場版－鑽石星塵的反叛.md "wikilink")**〔****〕（2007年）
-  - **[BLEACH
-    漂靈：劇場版－呼喚你的名字](../Page/BLEACH_漂靈：劇場版－呼喚你的名字.md "wikilink")**〔****〕（2008年）
-  - **[BLEACH
-    漂靈：劇場版－地獄篇](../Page/BLEACH_漂靈：劇場版－地獄篇.md "wikilink")**（2010年）
+  - **[BLEACH 漂靈：劇場版－別處的記憶](../Page/BLEACH_漂靈：劇場版－別處的記憶.md "wikilink")**（2006年）
+  - **[BLEACH 漂靈：劇場版－鑽石星塵的反叛](../Page/BLEACH_漂靈：劇場版－鑽石星塵的反叛.md "wikilink")**〔****〕（2007年）
+  - **[BLEACH 漂靈：劇場版－呼喚你的名字](../Page/BLEACH_漂靈：劇場版－呼喚你的名字.md "wikilink")**〔****〕（2008年）
+  - **[BLEACH 漂靈：劇場版－地獄篇](../Page/BLEACH_漂靈：劇場版－地獄篇.md "wikilink")**（2010年）
 
 ## 參考資料
 
@@ -546,15 +540,4 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 
 ## 播放電視台
 
-[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink")
-[Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink")
-[Category:有線電視兒童台外購動畫](https://zh.wikipedia.org/wiki/Category:有線電視兒童台外購動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink")
-[Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink")
-[Category:2008年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2008年日本劇場動畫 "wikilink")
-[Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
-[Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
+[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink") [Category:有線電視兒童台外購動畫](https://zh.wikipedia.org/wiki/Category:有線電視兒童台外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:2008年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2008年日本劇場動畫 "wikilink") [Category:八大電視外購動畫](https://zh.wikipedia.org/wiki/Category:八大電視外購動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink") [Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")

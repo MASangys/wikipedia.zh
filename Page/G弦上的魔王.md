@@ -1,5 +1,4 @@
-是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（）於2008年5月29日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，自2007年11月29日開始因品質提升及開發遲緩的原因三度延期。在發售前已獲得高評價，Getchu.com
-2008年上半年統計中是第三名。
+是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（）於2008年5月29日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，自2007年11月29日開始因品質提升及開發遲緩的原因三度延期。在發售前已獲得高評價，Getchu.com 2008年上半年統計中是第三名。
 
 ## 故事簡介
 
@@ -39,7 +38,7 @@
 <!-- end list -->
 
   -
-    京介的義父，想要讓京介承繼自己。放[高利貸賺錢](../Page/高利貸.md "wikilink")，完全的自我中心，喜歡[打獵](https://zh.wikipedia.org/wiki/打獵 "wikilink")。
+    京介的義父，想要讓京介承繼自己。放[高利貸](../Page/高利貸.md "wikilink")賺錢，完全的自我中心，喜歡[打獵](https://zh.wikipedia.org/wiki/打獵 "wikilink")。
 
 <!-- end list -->
 
@@ -54,15 +53,11 @@
 ## 音樂
 
   - 開頭歌曲「Answer」
-    編曲：藤田淳平（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")），作詞：Kanoko，歌：[片霧烈火](../Page/片霧烈火.md "wikilink")
+    編曲：藤田淳平（[Elements Garden](../Page/Elements_Garden.md "wikilink")），作詞：Kanoko，歌：[片霧烈火](../Page/片霧烈火.md "wikilink")
   - 插入歌曲「Close Your Eyes」
     作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")，歌：[彩音](../Page/彩音.md "wikilink")
   - 結尾歌曲「雪の羽 時の風」
-    作詞：[wight](https://zh.wikipedia.org/wiki/wight "wikilink")，作曲、編曲：[bassy](https://zh.wikipedia.org/wiki/bassy "wikilink")、歌：[Barbarian
-    On The
-    Groove](https://zh.wikipedia.org/wiki/Barbarian_On_The_Groove "wikilink")
-    feat. [茶太](../Page/茶太.md "wikilink")
+    作詞：[wight](https://zh.wikipedia.org/wiki/wight "wikilink")，作曲、編曲：[bassy](https://zh.wikipedia.org/wiki/bassy "wikilink")、歌：[Barbarian On The Groove](https://zh.wikipedia.org/wiki/Barbarian_On_The_Groove "wikilink") feat. [茶太](../Page/茶太.md "wikilink")
   - 背景音樂
     大部分都是[古典音樂名曲的改編](https://zh.wikipedia.org/wiki/西洋古典音樂 "wikilink")。
 
@@ -70,9 +65,7 @@
 
 遊戲在Gatchu 2008年上半年銷量統計中排名第三\[2\]，全年銷量統計中排名第七\[3\]。
 
-游戏获得2008年度[美少女游戏大赏综合赏](../Page/萌系遊戲大賞.md "wikilink")、剧本赏、绘图赏、用户支持赏和主题歌银赏\[4\]。在Getchu
-2008年Side
-White网站用户投票中，游戏获得综合部门第3名、角色部门第1名（宇佐美春）、配音部门第2名（宇佐美春）、剧本部门第3名、BGM部门第3名、主题歌部门第4名、命名部门第4名、系统部门第9名、影片部门第9名\[5\]。
+游戏获得2008年度[美少女游戏大赏综合赏](../Page/萌系遊戲大賞.md "wikilink")、剧本赏、绘图赏、用户支持赏和主题歌银赏\[4\]。在Getchu 2008年Side White网站用户投票中，游戏获得综合部门第3名、角色部门第1名（宇佐美春）、配音部门第2名（宇佐美春）、剧本部门第3名、BGM部门第3名、主题歌部门第4名、命名部门第4名、系统部门第9名、影片部门第9名\[5\]。
 
 ## 註解
 
@@ -85,18 +78,14 @@ White网站用户投票中，游戏获得综合部门第3名、角色部门第1�
   - [催淚遊戲](../Page/催淚遊戲.md "wikilink")
   - [AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")
   - [巴赫](https://zh.wikipedia.org/wiki/巴赫 "wikilink")：[G弦上的咏叹调](../Page/G弦上的咏叹调.md "wikilink")
-  - [舒伯特](https://zh.wikipedia.org/wiki/舒伯特 "wikilink")：[魔王
-    (歌剧)](https://zh.wikipedia.org/wiki/魔王_\(歌剧\) "wikilink")
+  - [舒伯特](https://zh.wikipedia.org/wiki/舒伯特 "wikilink")：[魔王 (歌剧)](https://zh.wikipedia.org/wiki/魔王_\(歌剧\) "wikilink")
 
 ## 外部連結
 
   - [遊戲官方網站](https://web.archive.org/web/20081211052523/http://www.akabeesoft2.com/g_sen/)（需年齡確認），存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
-  - [AKABEiSOFT2 OFFICIAL WEB
-    SITE](https://web.archive.org/web/20081217095923/http://akabeesoft2.com/)（需年齡確認），存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [AKABEiSOFT2 OFFICIAL WEB SITE](https://web.archive.org/web/20081217095923/http://akabeesoft2.com/)（需年齡確認），存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
 
 1.  [](http://www.akabeesoft2.com/g_sen/shikishi/009.jpg)
 2.

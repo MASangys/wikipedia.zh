@@ -2,8 +2,7 @@
 
 ## 歷史
 
-[BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg](https://zh.wikipedia.org/wiki/File:BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg "fig:BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg")
-[TSR-2_nose.jpg](https://zh.wikipedia.org/wiki/File:TSR-2_nose.jpg "fig:TSR-2_nose.jpg")
+[BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg](https://zh.wikipedia.org/wiki/File:BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg "fig:BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg") [TSR-2_nose.jpg](https://zh.wikipedia.org/wiki/File:TSR-2_nose.jpg "fig:TSR-2_nose.jpg")
 
 ### GOR 339
 
@@ -19,12 +18,11 @@
 
 低空性能要求能在1000英呎以下高度以0.95馬赫投放武器，作戰半徑則是要求能在3000英呎以下長度的跑道起飛後，到達1000英哩外的目標。
 
-然而，在各家廠商得悉了這份要求後，第一個政治風暴，便降臨在這個計畫之上。由國防部長[杜肯·山德發表的](https://zh.wikipedia.org/wiki/杜肯·山德 "wikilink")[1957年國防白皮書宣稱](https://zh.wikipedia.org/wiki/1957年國防白皮書 "wikilink")：“有人戰爭的時代已經走到了盡頭，飛彈則是我們未來一切的需要”。當然，如我們所知；這種理念，在日後成為了無稽之談。然而，在當時的政治環境、冷戰氣氛以及[相互保證毀滅的戰略佈局之下](../Page/相互保證毀滅.md "wikilink")，飛彈的成本效益，的確是遠超過有人飛機的。
+然而，在各家廠商得悉了這份要求後，第一個政治風暴，便降臨在這個計畫之上。由國防部長[杜肯·山德發表的](https://zh.wikipedia.org/wiki/杜肯·山德 "wikilink")[1957年國防白皮書宣稱](https://zh.wikipedia.org/wiki/1957年國防白皮書 "wikilink")：“有人戰爭的時代已經走到了盡頭，飛彈則是我們未來一切的需要”。當然，如我們所知；這種理念，在日後成為了無稽之談。然而，在當時的政治環境、冷戰氣氛以及[相互保證毀滅](../Page/相互保證毀滅.md "wikilink")的戰略佈局之下，飛彈的成本效益，的確是遠超過有人飛機的。
 
 另一個政治事件，來自於軍種間的相互保證毀滅；空軍對GOR.339的期待是殷切的。然而，發展一種超音速型的次音速[海賊式攻擊機](https://zh.wikipedia.org/wiki/海賊式攻擊機 "wikilink")，看來卻與該計畫有同樣的競爭力。儘管，空軍官方宣稱其對該項計畫並無輕視之意，並且曾邀請其製造商[不萊克本進行過協商](https://zh.wikipedia.org/wiki/不萊克本 "wikilink")。畢竟，計畫中要求的是一架能以兩倍音速飛行的超音速飛機，並不是一架次音速攻擊機。同時，其要求要與瑞典的[龍式戰鬥機一般在狀況惡劣的道路上進行操作](https://zh.wikipedia.org/wiki/Saab_35_Draken "wikilink")。然而，只有在使用蒸氣彈射器的情況下，海賊式才有進行短場起飛的可能。在許多達到這項要求的建議提出後，軍需部長隨後通知該廠商其可被考慮與[維克斯](https://zh.wikipedia.org/wiki/維克斯 "wikilink")、[英國電氣](https://zh.wikipedia.org/wiki/英國電氣 "wikilink")、[霍克·西德利共同進行評估](https://zh.wikipedia.org/wiki/霍克·西德利 "wikilink")。
 
-GOR.339計畫於1958年12月的下議院院會中向大眾發表。次年元月，軍需部長宣布了TSR-2將由[維克斯-阿姆斯壯與](https://zh.wikipedia.org/wiki/維克斯-阿姆斯壯 "wikilink")[英國電氣公司共同生產](https://zh.wikipedia.org/wiki/英國電氣 "wikilink")，並被賦予TSR-2（Tactical
-Strike and Reconnaissance 2／戰術偵照與打擊二型）的代號。
+GOR.339計畫於1958年12月的下議院院會中向大眾發表。次年元月，軍需部長宣布了TSR-2將由[維克斯-阿姆斯壯與](https://zh.wikipedia.org/wiki/維克斯-阿姆斯壯 "wikilink")[英國電氣公司共同生產](https://zh.wikipedia.org/wiki/英國電氣 "wikilink")，並被賦予TSR-2（Tactical Strike and Reconnaissance 2／戰術偵照與打擊二型）的代號。
 
 1959年，GOR.339計畫被更明確的OR.343（操作要求343號）所取代。新的計畫更明確了GOR.339的各種提議；特別是低空操作高度不得高於200英呎，且必須於該高度以2倍音速飛行。
 
@@ -52,9 +50,7 @@ Strike and Reconnaissance 2／戰術偵照與打擊二型）的代號。
   - 空重：24834 公斤
   - 最大載重：36,169 公斤
   - 最大起飛重量：46,357 公斤
-  - 引擎：2× [布理斯托-西德利
-    奧林帕斯BOl](https://zh.wikipedia.org/wiki/布理斯托-西德利_奧林帕斯 "wikilink").22R
-    (Mk. 320) 渦輪噴射引擎
+  - 引擎：2× [布理斯托-西德利 奧林帕斯BOl](https://zh.wikipedia.org/wiki/布理斯托-西德利_奧林帕斯 "wikilink").22R (Mk. 320) 渦輪噴射引擎
   - 乾推力：87.35KNt ×2
   - 最大後燃推力：136.7KNt ×2
 
@@ -82,25 +78,17 @@ Strike and Reconnaissance 2／戰術偵照與打擊二型）的代號。
 
 ## 參考資料
 
-  - Buttler, Tony. *British Secret Projects: Jet Bombers Since 1949*.
-    London: Midland Publishing, 2003. ISBN 1-85780-130-X,
+  - Buttler, Tony. *British Secret Projects: Jet Bombers Since 1949*. London: Midland Publishing, 2003. ISBN 1-85780-130-X,
 
 ## 外部連結
 
-  - [Thunder and Lightnings
-    (TSR-2)](http://www.thunder-and-lightnings.co.uk/tsr2/)
-  - [RAF Museum Cosford
-    (TSR-2)](https://web.archive.org/web/20070607201025/http://www.rafmuseum.org.uk/british-aircraft-corporation-tsr-2.htm)
-  - [Imperial War Museum, Duxford
-    (TSR-2)](https://web.archive.org/web/20081011044449/http://www.iwm.org.uk/duxford/brit15.htm)
-  - [Photo gallery of surviving
-    TSR.2](https://web.archive.org/web/20070927211052/http://www.plastikowe.pl/galerie/lotnictwo/british-aircraft-corporation-tsr2)
-  - [Illustrated history of the TSR-2 with virtual tour of
-    XR220](http://aviation.elettra.co.uk/tsr2/)
-  - [Unreal Aircraft
-    (TSR-2)](http://www.unrealaircraft.com/classics/tsr2.php)
-  - [Virtual RAF
-    (TSR-2)](https://web.archive.org/web/20070705000856/http://www.aemann.pwp.blueyonder.co.uk/aircraft/virtraf/tsr2.html)
+  - [Thunder and Lightnings (TSR-2)](http://www.thunder-and-lightnings.co.uk/tsr2/)
+  - [RAF Museum Cosford (TSR-2)](https://web.archive.org/web/20070607201025/http://www.rafmuseum.org.uk/british-aircraft-corporation-tsr-2.htm)
+  - [Imperial War Museum, Duxford (TSR-2)](https://web.archive.org/web/20081011044449/http://www.iwm.org.uk/duxford/brit15.htm)
+  - [Photo gallery of surviving TSR.2](https://web.archive.org/web/20070927211052/http://www.plastikowe.pl/galerie/lotnictwo/british-aircraft-corporation-tsr2)
+  - [Illustrated history of the TSR-2 with virtual tour of XR220](http://aviation.elettra.co.uk/tsr2/)
+  - [Unreal Aircraft (TSR-2)](http://www.unrealaircraft.com/classics/tsr2.php)
+  - [Virtual RAF (TSR-2)](https://web.archive.org/web/20070705000856/http://www.aemann.pwp.blueyonder.co.uk/aircraft/virtraf/tsr2.html)
 
 ## 類似機種
 
@@ -111,5 +99,4 @@ Strike and Reconnaissance 2／戰術偵照與打擊二型）的代號。
   - [Su-24攻擊機](https://zh.wikipedia.org/wiki/Su-24攻擊機 "wikilink")
   - [Tu-22轟炸機](../Page/Tu-22轟炸機.md "wikilink")
 
-[Category:英國轟炸機](https://zh.wikipedia.org/wiki/Category:英國轟炸機 "wikilink")
-[Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
+[Category:英國轟炸機](https://zh.wikipedia.org/wiki/Category:英國轟炸機 "wikilink") [Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")

@@ -6,13 +6,9 @@
 
 ### 浏覽器插件
 
-目前支援[Mozilla
-Firefox及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Internet
-Explorer的浏覽器插件介面](../Page/Internet_Explorer.md "wikilink")。安裝插件之後，於圖像位置按滑鼠右鍵**Search
-Background Image on TinEye**後，會顯示該圖像的解析度及其它相同圖像的URL位置。可在其公司網站下載插件\[3\]。
+目前支援[Mozilla Firefox及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Internet Explorer的浏覽器插件介面](../Page/Internet_Explorer.md "wikilink")。安裝插件之後，於圖像位置按滑鼠右鍵**Search Background Image on TinEye**後，會顯示該圖像的解析度及其它相同圖像的URL位置。可在其公司網站下載插件\[3\]。
 
-2010年2月12日增加[Google
-Chrome的插件](https://zh.wikipedia.org/wiki/Google瀏覽器 "wikilink")，但使用方式不同。
+2010年2月12日增加[Google Chrome的插件](https://zh.wikipedia.org/wiki/Google瀏覽器 "wikilink")，但使用方式不同。
 
 ### 上傳圖像
 
@@ -20,14 +16,11 @@ Chrome的插件](https://zh.wikipedia.org/wiki/Google瀏覽器 "wikilink")，但
 
 ### 書籤列按鈕
 
-支援[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Safari](../Page/Safari.md "wikilink")（包括Safari
-on the
-[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")）浏覽器或JavaScript啟用之其它浏覽器。
+支援[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Safari](../Page/Safari.md "wikilink")（包括Safari on the [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")）浏覽器或JavaScript啟用之其它浏覽器。
 
 ## 其它圖像搜尋軟體
 
-Idée公司研發的[PixID軟體](https://zh.wikipedia.org/wiki/PixID "wikilink")，可分辨影像或靜態圖像是否在網際網路中出現。Piximilar將類似影像或靜態圖像檔分類，並建立索引檔管理圖像檔案。TinEye
-Mobile利用iPhone攝影機捕捉商品影像，送到Idée公司搜尋相關商品網站及價格。
+Idée公司研發的[PixID軟體](https://zh.wikipedia.org/wiki/PixID "wikilink")，可分辨影像或靜態圖像是否在網際網路中出現。Piximilar將類似影像或靜態圖像檔分類，並建立索引檔管理圖像檔案。TinEye Mobile利用iPhone攝影機捕捉商品影像，送到Idée公司搜尋相關商品網站及價格。
 
 Google在2010年6月已經在[Google图片搜索](../Page/Google图片搜索.md "wikilink")加入圖像搜索功能\[4\]。TinEye面臨強大競爭。
 
@@ -44,19 +37,14 @@ Google在2010年6月已經在[Google图片搜索](../Page/Google图片搜索.md 
 
   - [TinEye網站](http://www.tineye.com/)
   - [Idée公司官方網站](http://www.ideeinc.com/)
-  - [商業週刊Business
-    Week關於Idée公司之介紹](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=7962780)
+  - [商業週刊Business Week關於Idée公司之介紹](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=7962780)
   - [關於百度識圖和TinEye的介紹](https://web.archive.org/web/20110827074044/http://icodon.com/reverse-image-search.html)
 
-[de:Idée
-Inc.\#TinEye](https://zh.wikipedia.org/wiki/de:Idée_Inc.#TinEye "wikilink")
+[de:Idée Inc.\#TinEye](https://zh.wikipedia.org/wiki/de:Idée_Inc.#TinEye "wikilink")
 
-[Category:網絡搜尋引擎](https://zh.wikipedia.org/wiki/Category:網絡搜尋引擎 "wikilink")
-[Category:圖像檢索](https://zh.wikipedia.org/wiki/Category:圖像檢索 "wikilink")
-[Category:图片搜索引擎](https://zh.wikipedia.org/wiki/Category:图片搜索引擎 "wikilink")
+[Category:網絡搜尋引擎](https://zh.wikipedia.org/wiki/Category:網絡搜尋引擎 "wikilink") [Category:圖像檢索](https://zh.wikipedia.org/wiki/Category:圖像檢索 "wikilink") [Category:图片搜索引擎](https://zh.wikipedia.org/wiki/Category:图片搜索引擎 "wikilink")
 
 1.
 2.  [TinEye公司概況](http://www.tineye.com/about)
 3.  [TinEye插件下載位置](http://tineye.com/plugin)
-4.  [Google Search by
-    Image](http://www.google.com/insidesearch/features/images/searchbyimage.html)
+4.  [Google Search by Image](http://www.google.com/insidesearch/features/images/searchbyimage.html)

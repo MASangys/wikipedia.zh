@@ -1,50 +1,31 @@
-[LYME_software_bundle.svg](https://zh.wikipedia.org/wiki/File:LYME_software_bundle.svg "fig:LYME_software_bundle.svg")'''
-is **Erlang**-based\]\]
+[LYME_software_bundle.svg](https://zh.wikipedia.org/wiki/File:LYME_software_bundle.svg "fig:LYME_software_bundle.svg")''' is **Erlang**-based\]\]
 
-**Erlang**（）是一種通用的-{zh-hans:并发;zh-hant:平行導向;}--{zh-hans:[程序设计语言](../Page/编程语言.md "wikilink");zh-hant:[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink");}-，它由[喬·阿姆斯特朗](../Page/喬·阿姆斯特朗.md "wikilink")（Joe
-Armstrong）在[瑞典電信設備製造商](../Page/瑞典.md "wikilink")[愛立信所轄的電腦科學研究室開發](../Page/愛立信.md "wikilink")，目的是創造一種可以應付大規模并發活動的-{zh-hans:[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink");zh-hant:[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink");}-和[執行環境](https://zh.wikipedia.org/wiki/執行環境 "wikilink")。Erlang於1987年釋出正式版本，最早是愛立信擁有的私有軟體，經過十年的發展，於1998年發表[開放源碼版本](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")。
+**Erlang**（）是一種通用的-{zh-hans:并发;zh-hant:平行導向;}--{zh-hans:[程序设计语言](../Page/编程语言.md "wikilink");zh-hant:[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink");}-，它由[喬·阿姆斯特朗](../Page/喬·阿姆斯特朗.md "wikilink")（Joe Armstrong）在[瑞典](../Page/瑞典.md "wikilink")電信設備製造商[愛立信](../Page/愛立信.md "wikilink")所轄的電腦科學研究室開發，目的是創造一種可以應付大規模并發活動的-{zh-hans:[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink");zh-hant:[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink");}-和[執行環境](https://zh.wikipedia.org/wiki/執行環境 "wikilink")。Erlang於1987年釋出正式版本，最早是愛立信擁有的私有軟體，經過十年的發展，於1998年發表[開放源碼版本](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")。
 
-Erlang是運作於[虛擬機的](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")-{zh-hans:[解释型语言](https://zh.wikipedia.org/wiki/直譯式語言 "wikilink");zh-hant:[直譯式語言](https://zh.wikipedia.org/wiki/直譯式語言 "wikilink");}-，但是現在也包含有[烏普薩拉大學高性能Erlang計劃](https://zh.wikipedia.org/wiki/烏普薩拉大學 "wikilink")（HiPE）\[1\]開發的原生程式碼[編譯器](../Page/編譯器.md "wikilink")，自R11B-4版本開始，Erlang也支持-{zh-hans:[脚本方式执行](../Page/脚本语言.md "wikilink");zh-hant:[腳本直譯器](https://zh.wikipedia.org/wiki/脚本語言 "wikilink");}-。在[編程範型上](https://zh.wikipedia.org/wiki/編程範型 "wikilink")，Erlang屬於多重典範程式語言，涵蓋[函數式](https://zh.wikipedia.org/wiki/函數式編程 "wikilink")、-{zh-hans:[并行](https://zh.wikipedia.org/wiki/Concurrent_computing "wikilink");zh-hant:[平行式](https://zh.wikipedia.org/wiki/Concurrent_computing "wikilink");}-及-{zh-hans:[分布式](https://zh.wikipedia.org/wiki/分布式計算 "wikilink");zh-hant:[分散式](https://zh.wikipedia.org/wiki/分布式計算 "wikilink");}-。循序執行的Erlang是一个[及早求值](https://zh.wikipedia.org/wiki/及早求值 "wikilink"),
-[單次賦值和](https://zh.wikipedia.org/wiki/單次賦值 "wikilink")-{zh-hans:[动态类型](https://zh.wikipedia.org/wiki/动态类型 "wikilink");zh-hant:[動態資料形態](../Page/類型系統.md "wikilink");}-的[函數式程式語言](https://zh.wikipedia.org/wiki/函數編程語言 "wikilink")。
+Erlang是運作於[虛擬機的](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")-{zh-hans:[解释型语言](https://zh.wikipedia.org/wiki/直譯式語言 "wikilink");zh-hant:[直譯式語言](https://zh.wikipedia.org/wiki/直譯式語言 "wikilink");}-，但是現在也包含有[烏普薩拉大學高性能Erlang計劃](https://zh.wikipedia.org/wiki/烏普薩拉大學 "wikilink")（HiPE）\[1\]開發的原生程式碼[編譯器](../Page/編譯器.md "wikilink")，自R11B-4版本開始，Erlang也支持-{zh-hans:[脚本方式执行](../Page/脚本语言.md "wikilink");zh-hant:[腳本直譯器](https://zh.wikipedia.org/wiki/脚本語言 "wikilink");}-。在[編程範型上](https://zh.wikipedia.org/wiki/編程範型 "wikilink")，Erlang屬於多重典範程式語言，涵蓋[函數式](https://zh.wikipedia.org/wiki/函數式編程 "wikilink")、-{zh-hans:[并行](https://zh.wikipedia.org/wiki/Concurrent_computing "wikilink");zh-hant:[平行式](https://zh.wikipedia.org/wiki/Concurrent_computing "wikilink");}-及-{zh-hans:[分布式](https://zh.wikipedia.org/wiki/分布式計算 "wikilink");zh-hant:[分散式](https://zh.wikipedia.org/wiki/分布式計算 "wikilink");}-。循序執行的Erlang是一个[及早求值](https://zh.wikipedia.org/wiki/及早求值 "wikilink"), [單次賦值和](https://zh.wikipedia.org/wiki/單次賦值 "wikilink")-{zh-hans:[动态类型](https://zh.wikipedia.org/wiki/动态类型 "wikilink");zh-hant:[動態資料形態](../Page/類型系統.md "wikilink");}-的[函數式程式語言](https://zh.wikipedia.org/wiki/函數編程語言 "wikilink")。
 
 ## 開發及演變歷史
 
-Erlang得名於[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[數學家及](https://zh.wikipedia.org/wiki/數學家 "wikilink")[統計學家Agner](https://zh.wikipedia.org/wiki/統計學家 "wikilink")
-Krarup *Erlang*，同時Erlang還可以表示*Er*icsson
-*Lang*uage。Erlang語言由瑞典愛立信電信公司的[喬·阿姆斯特朗開始設計](../Page/喬·阿姆斯特朗.md "wikilink")，開始於公元一九八零年代。最初是以[Prolog](../Page/Prolog.md "wikilink")-{zh-hans:程序设计语言;
-zh-hant:程式語言;}-為基礎，幾度改版之後，改成以Joe's Abstract
-Machine為基礎的獨立語言執行環境。雖然語言風格仍與[Prolog相近](../Page/Prolog.md "wikilink")，不過因Erlang語言設計的走向，Erlang成為具备函數語言特色的-{zh-hans:程序设计语言;
-zh-hant:程式語言;}-\[2\]。
+Erlang得名於[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[數學家及](https://zh.wikipedia.org/wiki/數學家 "wikilink")[統計學家Agner](https://zh.wikipedia.org/wiki/統計學家 "wikilink") Krarup *Erlang*，同時Erlang還可以表示*Er*icsson *Lang*uage。Erlang語言由瑞典愛立信電信公司的[喬·阿姆斯特朗](../Page/喬·阿姆斯特朗.md "wikilink")開始設計，開始於公元一九八零年代。最初是以[Prolog](../Page/Prolog.md "wikilink")-{zh-hans:程序设计语言; zh-hant:程式語言;}-為基礎，幾度改版之後，改成以Joe's Abstract Machine為基礎的獨立語言執行環境。雖然語言風格仍與[Prolog](../Page/Prolog.md "wikilink")相近，不過因Erlang語言設計的走向，Erlang成為具备函數語言特色的-{zh-hans:程序设计语言; zh-hant:程式語言;}-\[2\]。
 
 ### 發行版本
 
-1998年起，Erlang發布[開放源碼版本](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")，稱為[開源電信平台](https://zh.wikipedia.org/wiki/開源電信平台 "wikilink")。**開源電信平台**採用修改過的[Mozilla公共許可證協議發放](https://zh.wikipedia.org/wiki/Mozilla公共許可證 "wikilink")，同時爱立信仍然提供商業版本的技術支持。目前，Erlang最大的商業用户是爱立信，其他知名用户有[北電網路](../Page/北电网络.md "wikilink")、[-{zh-hans:亚马逊;
-zh-hant:亞瑪遜}-以及](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[T-Mobile等](../Page/T-Mobile.md "wikilink")\[3\]。
+1998年起，Erlang發布[開放源碼版本](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")，稱為[開源電信平台](https://zh.wikipedia.org/wiki/開源電信平台 "wikilink")。**開源電信平台**採用修改過的[Mozilla公共許可證協議發放](https://zh.wikipedia.org/wiki/Mozilla公共許可證 "wikilink")，同時爱立信仍然提供商業版本的技術支持。目前，Erlang最大的商業用户是爱立信，其他知名用户有[北電網路](../Page/北电网络.md "wikilink")、[-{zh-hans:亚马逊; zh-hant:亞瑪遜}-以及](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[T-Mobile](../Page/T-Mobile.md "wikilink")等\[3\]。
 
 ### 語言特色
 
-  - **-{zh-hans:并行程序设计;zh-hant:平行導向程式設計;}-**
-    在語言中，可以藉由spawn/\*函數，將特定的函數設定為獨立的-{zh-hans:进程;
-    zh-hant:行程;}-，之後可以做跨-{zh-hans:进程;zh-hant:行程;}-通訊。
-  - **函數式-{zh-hans:程序;zh-hant:程式;}-設計**
-    由於Erlang早期以Prolog開發製成，受語言特性影響，即成為函數式語言。
-  - **單次賦值** 每個-{zh-hans:变量;
-    zh-hant:變數}-只能跟-{zh-hans:数据;zh-hant:資料;}-綁一次，所以，不像一般-{zh-hans:程序设计语言;zh-hant:程式語言;}-的-{zh-hans:变量;zh-hant:變數;}-可以多次指定為不同的值。單次賦值的好處是狀態單純，使-{zh-hans:程序;zh-hant:程式;}-容易閱讀。
-  - **[及早求值或嚴格求值](https://zh.wikipedia.org/wiki/及早求值 "wikilink")**
-    Erlang基本求值策略為電腦語言中及早求值之特性。而且，可以藉由明確使用無參數的-{zh-hans:λ表达式;zh-hant:λ演算式;}-，將特定函數設定為惰性求值策略。
-  - **-{zh-hans:动态数据类型;zh-hant:動態資料型態;}-與類型系統**
-    有編譯時期的-{zh-hans:类型;zh-hant:型態;}-檢查系統-{zh-hans:支持;zh-hant:支援;}-。
-  - **-{zh-hans:[快速失败](https://zh.wikipedia.org/wiki/Fail-fast "wikilink");zh-hant:[錯誤先發](https://zh.wikipedia.org/wiki/Fail-fast "wikilink");}-**
-    在執行時期發生的錯誤，會由錯誤位置送出訊息，發生錯誤的-{zh-hans:进程;zh-hant:行程;}-立刻停止-{zh-hans:执行;zh-hant:動作;}-。藉由-{zh-hans:进程通讯机制;zh-hant:行程鏈通機制;}-，可以自動傳遞錯誤、捕捉錯誤，使其他-{zh-hans:进程;zh-hant:行程;}-能夠幫助處理錯誤。
-  - **-{zh-hans:代码;zh-hant:程式碼;}-熱更新**
-    由於Erlang是函數語言，可以撰寫特定的-{zh-hans:程序结构;zh-hant:程式結構;}-，製作即時更換新版函數的機制。
+  - **-{zh-hans:并行程序设计;zh-hant:平行導向程式設計;}-** 在語言中，可以藉由spawn/\*函數，將特定的函數設定為獨立的-{zh-hans:进程; zh-hant:行程;}-，之後可以做跨-{zh-hans:进程;zh-hant:行程;}-通訊。
+  - **函數式-{zh-hans:程序;zh-hant:程式;}-設計** 由於Erlang早期以Prolog開發製成，受語言特性影響，即成為函數式語言。
+  - **單次賦值** 每個-{zh-hans:变量; zh-hant:變數}-只能跟-{zh-hans:数据;zh-hant:資料;}-綁一次，所以，不像一般-{zh-hans:程序设计语言;zh-hant:程式語言;}-的-{zh-hans:变量;zh-hant:變數;}-可以多次指定為不同的值。單次賦值的好處是狀態單純，使-{zh-hans:程序;zh-hant:程式;}-容易閱讀。
+  - **[及早求值或嚴格求值](https://zh.wikipedia.org/wiki/及早求值 "wikilink")** Erlang基本求值策略為電腦語言中及早求值之特性。而且，可以藉由明確使用無參數的-{zh-hans:λ表达式;zh-hant:λ演算式;}-，將特定函數設定為惰性求值策略。
+  - **-{zh-hans:动态数据类型;zh-hant:動態資料型態;}-與類型系統** 有編譯時期的-{zh-hans:类型;zh-hant:型態;}-檢查系統-{zh-hans:支持;zh-hant:支援;}-。
+  - **-{zh-hans:[快速失败](https://zh.wikipedia.org/wiki/Fail-fast "wikilink");zh-hant:[錯誤先發](https://zh.wikipedia.org/wiki/Fail-fast "wikilink");}-** 在執行時期發生的錯誤，會由錯誤位置送出訊息，發生錯誤的-{zh-hans:进程;zh-hant:行程;}-立刻停止-{zh-hans:执行;zh-hant:動作;}-。藉由-{zh-hans:进程通讯机制;zh-hant:行程鏈通機制;}-，可以自動傳遞錯誤、捕捉錯誤，使其他-{zh-hans:进程;zh-hant:行程;}-能夠幫助處理錯誤。
+  - **-{zh-hans:代码;zh-hant:程式碼;}-熱更新** 由於Erlang是函數語言，可以撰寫特定的-{zh-hans:程序结构;zh-hant:程式結構;}-，製作即時更換新版函數的機制。
   - **腳本語言** Erlang實作提供了腳本執行方式。
 
 ## 語言構成
 
-Erlang-{zh-hans:程序;zh-hant:程式;}-結構以函數定義為主。函數是一組將輸入分別對應到輸出的規則，對應方式遵守[數學函數的慣例](https://zh.wikipedia.org/wiki/函數 "wikilink")。此外，Erlang語言由幾項構句要素所組成，包括[文字(或稱原子)](https://zh.wikipedia.org/wiki/文字_\(數理邏輯\) "wikilink")、數字、列表、[值組](https://zh.wikipedia.org/wiki/多元組 "wikilink")、字元、字串、二進位資料、模組、與特定用途的關鍵字如fun
-... end, if ... end, case ... of ... end, spawn, \!, receive ...
-end等等。以下段落分別列示並舉例說明Erlang程式的基本構成部份，涵蓋**資料格式**、**表達式格式**與**內建函數**。
+Erlang-{zh-hans:程序;zh-hant:程式;}-結構以函數定義為主。函數是一組將輸入分別對應到輸出的規則，對應方式遵守[數學函數的慣例](https://zh.wikipedia.org/wiki/函數 "wikilink")。此外，Erlang語言由幾項構句要素所組成，包括[文字(或稱原子)](https://zh.wikipedia.org/wiki/文字_\(數理邏輯\) "wikilink")、數字、列表、[值組](https://zh.wikipedia.org/wiki/多元組 "wikilink")、字元、字串、二進位資料、模組、與特定用途的關鍵字如fun ... end, if ... end, case ... of ... end, spawn, \!, receive ... end等等。以下段落分別列示並舉例說明Erlang程式的基本構成部份，涵蓋**資料格式**、**表達式格式**與**內建函數**。
 
 ### 資料格式
 
@@ -343,13 +324,7 @@ end等等。以下段落分別列示並舉例說明Erlang程式的基本構成�
 
 真值比較的結果，如果成功則傳回true原子，失敗則傳回false原子。
 
-請記得，Erlang是以true和false表示[布林資料類型](https://zh.wikipedia.org/wiki/布尔型 "wikilink")。
-| (略) |- | 運算子 | Erlang提供常用的運算子方便基本運算。運算子是用在**中序**的表達式裏，包含 + - \* /
-div(商) rem(餘) 等。位元算算有 bnot, band, bor, bxor, bsl(算術左移), bsr(算術右移)
-等。用於列表有 ++(列表銜接) --(列表剔除) 等。各種運算式皆可用 ( ) 調整運算優先順序。 | (略) |- |
-[防衛式](http://en.wikipedia.org/wiki/Guard_\(computing\)) |
-防衛式是接在when關鍵字之後的一組表達式，藉由防衛式的真偽值做程式控制處理。
-防衛式的原則如下方所述：
+請記得，Erlang是以true和false表示[布林資料類型](https://zh.wikipedia.org/wiki/布尔型 "wikilink")。 | (略) |- | 運算子 | Erlang提供常用的運算子方便基本運算。運算子是用在**中序**的表達式裏，包含 + - \* / div(商) rem(餘) 等。位元算算有 bnot, band, bor, bxor, bsl(算術左移), bsr(算術右移) 等。用於列表有 ++(列表銜接) --(列表剔除) 等。各種運算式皆可用 ( ) 調整運算優先順序。 | (略) |- | [防衛式](http://en.wikipedia.org/wiki/Guard_\(computing\)) | 防衛式是接在when關鍵字之後的一組表達式，藉由防衛式的真偽值做程式控制處理。 防衛式的原則如下方所述：
 
 1.  代表true或false的變數或原子，是防衛式。
 2.  任何真值運算式，包括比較算式和邏輯算式，是防衛式。
@@ -374,13 +349,11 @@ div(商) rem(餘) 等。位元算算有 bnot, band, bor, bxor, bsl(算術左移)
 
   - atom_pair(A, B) when is_atom(A), is_atom(B) -\> {A, B}.
 
-|- | 行後註解 | 任何 % 符號開頭，往後到行尾的文字皆為註解文字。 | 'H.W.'. % Hello, World\! |- |
-[λ演算式](../Page/Λ演算.md "wikilink") | λ演算式是匿名函數，在Erlang以 fun ... end
-關鍵字敘述。格式為：
+|- | 行後註解 | 任何 % 符號開頭，往後到行尾的文字皆為註解文字。 | 'H.W.'. % Hello, World\! |- | [λ演算式](../Page/Λ演算.md "wikilink") | λ演算式是匿名函數，在Erlang以 fun ... end 關鍵字敘述。格式為：
 
 `fun ( 變數 , 變數 , ... ) -> 表達式 , 表達式 , ... end`
 
-使用無參數的λ演算式，可以做出[惰性求值的效果](../Page/惰性求值.md "wikilink")。 |
+使用無參數的λ演算式，可以做出[惰性求值](../Page/惰性求值.md "wikilink")的效果。 |
 
   - (*fun(X)-\>X\>0 end*)(1).
 
@@ -486,8 +459,7 @@ div(商) rem(餘) 等。位元算算有 bnot, band, bor, bxor, bsl(算術左移)
   - 不需要使用after段落時，可省略after段落。
   - 樣式之後可接when防衛式。
 
-| (略) |- | 接收訊息 | 每個Erlang程式執行時，都可以從自己程序的郵箱中取得由其他程序送到的訊息。可以使用 receive
-... end 關鍵字接收訊息，格式為：
+| (略) |- | 接收訊息 | 每個Erlang程式執行時，都可以從自己程序的郵箱中取得由其他程序送到的訊息。可以使用 receive ... end 關鍵字接收訊息，格式為：
 
 `receive`
 `   樣式 -> 表達式, 表達式, ... ;`
@@ -541,9 +513,7 @@ div(商) rem(餘) 等。位元算算有 bnot, band, bor, bxor, bsl(算術左移)
 
   - Pid \! {hello, world}
 
-:\* 以上對Pid送出訊息。 |- |
-[列表解析](http://en.wikipedia.org/wiki/List_comprehension) |
-列表解析，是提供快速建立列表的語法。語法等同於[集合建構式](http://en.wikipedia.org/wiki/Set-builder_notation)。格式為：
+:\* 以上對Pid送出訊息。 |- | [列表解析](http://en.wikipedia.org/wiki/List_comprehension) | 列表解析，是提供快速建立列表的語法。語法等同於[集合建構式](http://en.wikipedia.org/wiki/Set-builder_notation)。格式為：
 
   - \[ 變數(表達式中的元素) || 變數(表達式中的元素) \<- 表達式 , 防衛式 \]
 
@@ -565,9 +535,7 @@ div(商) rem(餘) 等。位元算算有 bnot, band, bor, bxor, bsl(算術左移)
 
 ### 內建函數
 
-[開源電信平台包括一個Erlang直譯器](https://zh.wikipedia.org/wiki/開源電信平台 "wikilink")、一個Erlang編譯器、程序節點通訊協定、[CORBA](../Page/CORBA.md "wikilink")、一個分散式資料庫[Mnesia](http://en.wikipedia.org/wiki/Mnesia)、以及許多程式庫\[4\]。
-**內建函數**涵蓋了各種方面的功能，涵蓋了系統命令、資料存取、格式轉換、網路通訊、圖形介面、 ...
-等。以下列表介紹幾項常用的Erlang內建函數。(參閱[文件](http://www.erlang.org/doc/)或[索引](http://www.erlang.org/doc/man_index.html))
+[開源電信平台包括一個Erlang直譯器](https://zh.wikipedia.org/wiki/開源電信平台 "wikilink")、一個Erlang編譯器、程序節點通訊協定、[CORBA](../Page/CORBA.md "wikilink")、一個分散式資料庫[Mnesia](http://en.wikipedia.org/wiki/Mnesia)、以及許多程式庫\[4\]。 **內建函數**涵蓋了各種方面的功能，涵蓋了系統命令、資料存取、格式轉換、網路通訊、圖形介面、 ... 等。以下列表介紹幾項常用的Erlang內建函數。(參閱[文件](http://www.erlang.org/doc/)或[索引](http://www.erlang.org/doc/man_index.html))
 
 <table>
 <thead>
@@ -621,16 +589,14 @@ div(商) rem(餘) 等。位元算算有 bnot, band, bor, bxor, bsl(算術左移)
 hello_world() -> io:fwrite("hello, world\n").
 ```
 
-若要編譯這個程式，將它存為一個名為 hello.erl 的文字檔，然後從 Erlang終端
-進行編譯。不要忘了在每個命令的最後加上一個句號（.）。例如：
+若要編譯這個程式，將它存為一個名為 hello.erl 的文字檔，然後從 Erlang終端 進行編譯。不要忘了在每個命令的最後加上一個句號（.）。例如：
 
 `Erlang (BEAM) emulator version 4.9.1 [source]`
 `Eshell V4.9.1  (abort with ^G)`
 `1> c(hello).`
 `{ok,hello}`
 
-（在 Unix系統 上，你可以通過在命令列裡輸入 "erl" 來進入 Erlang終端。在 Windows系統 上，你需要打開一個 命令提示符
-視窗，然後輸入 "werl"來進入 Erlang終端，或者在程式功能表中找到 Erlang 的圖示。）從 Erlang終端 上運行這個程式：
+（在 Unix系統 上，你可以通過在命令列裡輸入 "erl" 來進入 Erlang終端。在 Windows系統 上，你需要打開一個 命令提示符 視窗，然後輸入 "werl"來進入 Erlang終端，或者在程式功能表中找到 Erlang 的圖示。）從 Erlang終端 上運行這個程式：
 
 `2> hello:hello_world().`
 `hello, world`
@@ -638,7 +604,7 @@ hello_world() -> io:fwrite("hello, world\n").
 
 ## 函數式程式設計
 
-Erlang支持[函數式程式設計的一般特色](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")，特色包括[單次賦值](https://zh.wikipedia.org/wiki/單次賦值 "wikilink")、[遞迴定義](https://zh.wikipedia.org/wiki/遞歸 "wikilink")、[λ演算與](https://zh.wikipedia.org/wiki/λ演算 "wikilink")[高階函數等等](https://zh.wikipedia.org/wiki/高階函數 "wikilink")。Erlang函数大致寫法如下，以整數[階乘模組为例](../Page/階乘.md "wikilink")：
+Erlang支持[函數式程式設計的一般特色](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")，特色包括[單次賦值](https://zh.wikipedia.org/wiki/單次賦值 "wikilink")、[遞迴定義](https://zh.wikipedia.org/wiki/遞歸 "wikilink")、[λ演算與](https://zh.wikipedia.org/wiki/λ演算 "wikilink")[高階函數等等](https://zh.wikipedia.org/wiki/高階函數 "wikilink")。Erlang函数大致寫法如下，以整數[階乘](../Page/階乘.md "wikilink")模組为例：
 
 **`-module`**`(fact).`
 **`-export`**`([fac/1]).`
@@ -648,7 +614,7 @@ Erlang支持[函數式程式設計的一般特色](https://zh.wikipedia.org/wiki
 `fac(1) ->`
 `    1.`
 
-以下是[快速排序演算法的Erlang實作](../Page/快速排序.md "wikilink")：
+以下是[快速排序](../Page/快速排序.md "wikilink")演算法的Erlang實作：
 
 *`%%``   ``quicksort:qsort(List)`*
 *`%%``   ``Sort``   ``a``   ``list``   ``of``   ``items`*
@@ -697,8 +663,7 @@ Erlang支持[函數式程式設計的一般特色](https://zh.wikipedia.org/wiki
 `> lists:map(fun(X)->`**`test:fibo_accu`**`(X) end, lists:seq(1,10)).`
 `[1,1,2,3,5,8,13,21,34,55]`
 
-函數式程式設計容許使用[高階函數求解](https://zh.wikipedia.org/wiki/高階函數 "wikilink")。以下例子說明Erlang實做[複合函數](https://zh.wikipedia.org/wiki/複合函數 "wikilink")。
-( f o g ，唸作 f *after* g 。)
+函數式程式設計容許使用[高階函數求解](https://zh.wikipedia.org/wiki/高階函數 "wikilink")。以下例子說明Erlang實做[複合函數](https://zh.wikipedia.org/wiki/複合函數 "wikilink")。 ( f o g ，唸作 f *after* g 。)
 
 `'After'(F, G) ->`
 `     fun(X) ->`
@@ -713,9 +678,7 @@ Erlang支持[函數式程式設計的一般特色](https://zh.wikipedia.org/wiki
 
 ## 平行式程式設計
 
-Erlang最主要的特色是**平行導向程式設計**，強調多程序平行運作，並且以訊息對彼此溝通。Erlang提供了**spawn**函數和
-**\!** 、 **receive** ... **end**
-等關鍵字，可以描述在Erlang/開源電信平台中的如何啟動一些程序、並且如何讓程序傳遞訊息。此外，**平行導向程式設計**的精神還強調程序的容錯處理，藉由程序發生錯誤時的訊息傳遞，使其他程序可以得知錯誤的發生，使方便於後續處理。以下分別介紹平行導向程式設計的一般程式撰寫方式，以及錯誤處理的使用方式。
+Erlang最主要的特色是**平行導向程式設計**，強調多程序平行運作，並且以訊息對彼此溝通。Erlang提供了**spawn**函數和 **\!** 、 **receive** ... **end** 等關鍵字，可以描述在Erlang/開源電信平台中的如何啟動一些程序、並且如何讓程序傳遞訊息。此外，**平行導向程式設計**的精神還強調程序的容錯處理，藉由程序發生錯誤時的訊息傳遞，使其他程序可以得知錯誤的發生，使方便於後續處理。以下分別介紹平行導向程式設計的一般程式撰寫方式，以及錯誤處理的使用方式。
 
 ### 平行導向程式設計
 
@@ -723,23 +686,18 @@ Erlang最主要的特色是**平行導向程式設計**，強調多程序平行�
 
   - 以下啟動一個程序。
 
-*`%``   ``create``   ``process``   ``and``   ``call``   ``the``
- ``function``   ``web:start_server(Port,``   ``MaxConnections)`*
+*`%``   ``create``   ``process``   ``and``   ``call``   ``the``   ``function``   ``web:start_server(Port,``   ``MaxConnections)`*
 `ServerProcess = `**`spawn`**`(web, start_server, [Port, MaxConnections]),`
 
   - 以下是在任何程式中，對先前起動的程序送一則訊息 {*pause*, *10*} 。
 
-*`%``   ``send``   ``the``   ``{pause,``   ``10}``   ``message``
- ``(a``   ``tuple``   ``with``   ``an``   ``atom``   ``"pause"``
- ``and``   ``a``   ``number``   ``"10")`*
+*`%``   ``send``   ``the``   ``{pause,``   ``10}``   ``message``   ``(a``   ``tuple``   ``with``   ``an``   ``atom``   ``"pause"``   ``and``   ``a``   ``number``   ``"10")`*
 *`%``   ``to``   ``ServerProcess``   ``(asynchronously)`*
 `ServerProcess ! {pause, 10},`
 
-  - 以下是一段接收訊息的程式。每個程序都擁有一份郵箱，可佇留收到的訊息； receive ... end
-    程式片斷是從程序的郵箱中取出最早佇留的訊息。
+  - 以下是一段接收訊息的程式。每個程序都擁有一份郵箱，可佇留收到的訊息； receive ... end 程式片斷是從程序的郵箱中取出最早佇留的訊息。
 
-*`%``   ``receive``   ``messages``   ``sent``   ``to``   ``this``
- ``process`*
+*`%``   ``receive``   ``messages``   ``sent``   ``to``   ``this``   ``process`*
 **`receive`**`       `
 `        a_message -> do_something; `
 `        {data, DataContent} -> handle(DataContent);`
@@ -790,9 +748,7 @@ Erlang最主要的特色是**平行導向程式設計**，強調多程序平行�
 
 ### 容錯處理
 
-Erlang容錯處理機制，由二個步驟實現：一是將二個程序連接起來，二者之間存在一道通訊管道，可提供錯誤訊息的傳遞 ──
-在此使用**link**/**1**函數；二是將程序回報錯誤的機制打開 ──
-在此使用**process_flag**/**2**函數。
+Erlang容錯處理機制，由二個步驟實現：一是將二個程序連接起來，二者之間存在一道通訊管道，可提供錯誤訊息的傳遞 ── 在此使用**link**/**1**函數；二是將程序回報錯誤的機制打開 ── 在此使用**process_flag**/**2**函數。
 
   - 使用link(*Pid*)讓程序連接到另一個程序。
 
@@ -842,17 +798,13 @@ Erlang提供分散式機制，能在另一台電腦啟動一些Erlang程序，�
 
   - 在指定節點*RemoteNode*啟動一個程序，**spawn**啟動參數依序為節點名稱、模組名稱、函數名稱、函數的參數列。
 
-*`%``   ``create``   ``a``   ``remote``   ``process``   ``and``
- ``call``   ``the``   ``function``   ``web:start_server(Port,``
- ``MaxConnections)`*
+*`%``   ``create``   ``a``   ``remote``   ``process``   ``and``   ``call``   ``the``   ``function``   ``web:start_server(Port,``   ``MaxConnections)`*
 *`%``   ``on``   ``machine``   ``RemoteNode`*
 `RemoteProcess = `**`spawn`**`(`*`RemoteNode`*`, web, start_server, [Port, MaxConnections]),`
 
 `在遠端節點產生新程序之後，可以使用平行式程式設計的技巧，與遠端程序通訊。`
 
-**Erlang /
-開源電信平台**提供的程式庫，於分散式程式設計可以使用*net_adm*、*net_kernel*、*slave*、...
-等模組，做網路通訊\[6\]。
+**Erlang / 開源電信平台**提供的程式庫，於分散式程式設計可以使用*net_adm*、*net_kernel*、*slave*、... 等模組，做網路通訊\[6\]。
 
 ## 其他程式設計典範
 
@@ -886,12 +838,10 @@ Erlang程式員可以使用[惰性求值](../Page/惰性求值.md "wikilink")。
 
 ## 應用
 
-  - [Wings
-    3D](../Page/Wings_3D.md "wikilink")，一个用Erlang编寫的[三维計算機圖形軟體](https://zh.wikipedia.org/wiki/三维計算機圖形軟件 "wikilink")。
+  - [Wings 3D](../Page/Wings_3D.md "wikilink")，一个用Erlang编寫的[三维計算機圖形軟體](https://zh.wikipedia.org/wiki/三维計算機圖形軟件 "wikilink")。
   - [YAWS](http://yaws.hyber.org/)，以Erlang編寫的高效HTTP伺服器。
-  - [DISCO](http://discoproject.org/)，以Erlang編寫的[MapReduce架構系統](../Page/MapReduce.md "wikilink")。
-  - [Apache
-    CouchDB](http://couchdb.apache.org/)，以Erlang編寫的MapReduce文件式資料庫系統。
+  - [DISCO](http://discoproject.org/)，以Erlang編寫的[MapReduce](../Page/MapReduce.md "wikilink")架構系統。
+  - [Apache CouchDB](http://couchdb.apache.org/)，以Erlang編寫的MapReduce文件式資料庫系統。
   - [RabbitMQ](http://www.rabbitmq.com/)，能搭配Erlang運作的訊息佇列系統。
   - [開放電信平台](../Page/開放電信平台.md "wikilink")
   - [WhatsApp](../Page/WhatsApp.md "wikilink")：其后端服务器应用使用了**Erlang**及[FreeBSD](../Page/FreeBSD.md "wikilink")\[7\]。支持了4.5亿的月活跃用户！
@@ -904,8 +854,7 @@ Erlang程式員可以使用[惰性求值](../Page/惰性求值.md "wikilink")。
   - [Erlang中文社區 erlang-china.org](http://erlang-china.org/)
   - [Erlang中文教程 erlang-cn.com](http://www.erlang-cn.com/)
   - [Erlang中文社区 cnerlang.com](http://www.cnerlang.com/)
-  - [Erlang中文
-    erlang-cn.org](https://web.archive.org/web/20141014051225/http://www.erlang-cn.org/)
+  - [Erlang中文 erlang-cn.org](https://web.archive.org/web/20141014051225/http://www.erlang-cn.org/)
 
 ## 參考資料
 
@@ -919,23 +868,13 @@ Erlang程式員可以使用[惰性求值](../Page/惰性求值.md "wikilink")。
 
   - [因應軟體錯誤建構可靠的分散式系統](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
 
-
   -
-[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
-[Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink")
-[Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink")
-[Category:Erlang](https://zh.wikipedia.org/wiki/Category:Erlang "wikilink")
-[Category:愛立信](https://zh.wikipedia.org/wiki/Category:愛立信 "wikilink")
+[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink") [Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink") [Category:Erlang](https://zh.wikipedia.org/wiki/Category:Erlang "wikilink") [Category:愛立信](https://zh.wikipedia.org/wiki/Category:愛立信 "wikilink")
 
 1.
 2.  見*Coders At Work*一書對Joe Armstrong的口述記錄。
-3.   “*The largest user of Erlang is Ericsson. Ericsson use it to write
-    software used in telecommunications systems. Many (dozens) projects
-    have used it, a particularly large one is the extremely scalable
-    AXD301 ATM switch.*” FAQ中列出的其他用户包括: Nortel、Deutsche
-    Flugsicherung、T-Mobile等
+3.   “*The largest user of Erlang is Ericsson. Ericsson use it to write software used in telecommunications systems. Many (dozens) projects have used it, a particularly large one is the extremely scalable AXD301 ATM switch.*” FAQ中列出的其他用户包括: Nortel、Deutsche Flugsicherung、T-Mobile等
 4.  <http://en.wikipedia.org/wiki/Open_Telecom_Platform>
 5.  譯自官網 <http://www.erlang.org/faq/getting_started.html>
-6.  參考[分散式Erlang](http://www.erlang.org/doc/reference_manual/distributed.html)，
-    <http://www.erlang.org/doc/reference_manual/distributed.html>
+6.  參考[分散式Erlang](http://www.erlang.org/doc/reference_manual/distributed.html)， <http://www.erlang.org/doc/reference_manual/distributed.html>
 7.  **Erlang**及[FreeBSD](../Page/FreeBSD.md "wikilink")

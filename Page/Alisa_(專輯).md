@@ -1,13 +1,11 @@
-《**Alisa**》是台灣歌手[高以愛](../Page/高以愛.md "wikilink")的第一張國語專輯，專輯名稱「Alisa」是以高以愛的英文原名，首批限量版是容合了[CD](../Page/CD.md "wikilink")及[VCD](../Page/VCD.md "wikilink")格式的[AVCD](https://zh.wikipedia.org/wiki/AVCD "wikilink")(AUDIO
-VIDEO COMPACT DISC)的光碟。
+《**Alisa**》是台灣歌手[高以愛](../Page/高以愛.md "wikilink")的第一張國語專輯，專輯名稱「Alisa」是以高以愛的英文原名，首批限量版是容合了[CD](../Page/CD.md "wikilink")及[VCD](../Page/VCD.md "wikilink")格式的[AVCD](https://zh.wikipedia.org/wiki/AVCD "wikilink")(AUDIO VIDEO COMPACT DISC)的光碟。
 
 ## 曲目
 
 在專輯中，除第四首《出乎意料》與[潘瑋柏的對唱曲](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")，其餘收錄三首翻唱歌曲有：
 
   - 第二首《我不是壞女孩》原曲是《Bad Girls》，原唱者是Donna Summer。
-  - 第五首《Hound Dog》+《All Shook
-    Up》原唱者是[貓王](https://zh.wikipedia.org/wiki/貓王 "wikilink")。
+  - 第五首《Hound Dog》+《All Shook Up》原唱者是[貓王](https://zh.wikipedia.org/wiki/貓王 "wikilink")。
   - 第十首《Times of Your Life》原唱者是Paul Anka。
 
 <div class="NavContent" align="life">
@@ -129,8 +127,4 @@ Gustav Efraimsson</p></td>
 
 </div>
 
-[Category:高以愛音樂專輯](https://zh.wikipedia.org/wiki/Category:高以愛音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:高以愛音樂專輯](https://zh.wikipedia.org/wiki/Category:高以愛音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")

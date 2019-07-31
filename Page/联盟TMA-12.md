@@ -1,5 +1,4 @@
-**联盟
-TMA-12**是一艘俄罗斯的载人飞船，于北京时间2008年4月8日19时16分在[哈萨克斯坦的](../Page/哈萨克斯坦.md "wikilink")[拜科努尔发射场发射升空](https://zh.wikipedia.org/wiki/拜科努尔发射场 "wikilink")。\[1\]
+**联盟 TMA-12**是一艘俄罗斯的载人飞船，于北京时间2008年4月8日19时16分在[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")的[拜科努尔发射场发射升空](https://zh.wikipedia.org/wiki/拜科努尔发射场 "wikilink")。\[1\]
 
 ## 机组人员
 
@@ -19,11 +18,8 @@ TMA-12**是一艘俄罗斯的载人飞船，于北京时间2008年4月8日19时1
 
 ## 外部連結
 
-  - ЦУП: Союз ТМА-12.
-    [mcc.rsa.ru](http://www.mcc.rsa.ru/sojuztma12/main.htm)
-  - [NASA -
-    Expedition 17](http://www.nasa.gov/mission_pages/station/expeditions/expedition17/index.html)
-
+  - ЦУП: Союз ТМА-12. [mcc.rsa.ru](http://www.mcc.rsa.ru/sojuztma12/main.htm)
+  - [NASA - Expedition 17](http://www.nasa.gov/mission_pages/station/expeditions/expedition17/index.html)
 
 [Category:聯盟計劃](https://zh.wikipedia.org/wiki/Category:聯盟計劃 "wikilink")
 

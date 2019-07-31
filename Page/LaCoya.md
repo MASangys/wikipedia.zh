@@ -1,4 +1,4 @@
-**LaCoya**是[台灣百和工業的](https://zh.wikipedia.org/wiki/台灣百和工業 "wikilink")[紡織品品牌](https://zh.wikipedia.org/wiki/紡織品 "wikilink")，LaCoya來自[法文意思中](https://zh.wikipedia.org/wiki/法文 "wikilink")「炭的紡織」。2003年，台灣百和與[工研院合作開發](https://zh.wikipedia.org/wiki/工研院 "wikilink")[竹炭](../Page/竹炭.md "wikilink")產品，並將所開發的奈米竹炭紗命名為「黑絲絨」，是台灣第一個取得[台灣優良農產品證明標章](../Page/台灣優良農產品證明標章.md "wikilink")認證的原料紗線。2005年，台灣百和建立「LaCoya」作為竹炭產品的獨立品牌。
+**LaCoya**是[台灣百和工業](../Page/台灣百和工業.md "wikilink")的[紡織品品牌](https://zh.wikipedia.org/wiki/紡織品 "wikilink")，LaCoya來自[法文意思中](https://zh.wikipedia.org/wiki/法文 "wikilink")「炭的紡織」。2003年，台灣百和與[工研院合作開發](https://zh.wikipedia.org/wiki/工研院 "wikilink")[竹炭](../Page/竹炭.md "wikilink")產品，並將所開發的奈米竹炭紗命名為「黑絲絨」，是台灣第一個取得[台灣優良農產品證明標章](../Page/台灣優良農產品證明標章.md "wikilink")認證的原料紗線。2005年，台灣百和建立「LaCoya」作為竹炭產品的獨立品牌。
 
 LaCoya的產品包括外衣、內衣、寢具、生活用品綜合類及護具用品。
 
@@ -10,8 +10,7 @@ LaCoya的產品包括外衣、內衣、寢具、生活用品綜合類及護具�
 
 ## 產品與製作
 
-Lacoya
-的竹炭產品原料來自台灣四年生[孟宗竹](../Page/孟宗竹.md "wikilink")，以土窯進行無氧炭化過程所生產的竹炭製成\[2\]。竹炭經切碎、微米研磨、竹炭色母粒製成、與聚脂融熔製成短纖抽紗、將原棉紡紗後製成各種產品。內外皆被竹炭粒完整包覆的竹炭纖維，可經過上千次洗滌仍保有竹炭[紅外線功能](https://zh.wikipedia.org/wiki/紅外線 "wikilink")，也能發揮竹炭原有抗菌、除臭的功能。主要素材有黑絲絨竹炭紗、黑絲絨竹炭纖維、黑絲絨竹炭短纖維、黑絲絨竹炭十字紗、黑絲絨竹炭中空纖維、竹炭記憶矽膠\[3\]。
+Lacoya 的竹炭產品原料來自台灣四年生[孟宗竹](../Page/孟宗竹.md "wikilink")，以土窯進行無氧炭化過程所生產的竹炭製成\[2\]。竹炭經切碎、微米研磨、竹炭色母粒製成、與聚脂融熔製成短纖抽紗、將原棉紡紗後製成各種產品。內外皆被竹炭粒完整包覆的竹炭纖維，可經過上千次洗滌仍保有竹炭[紅外線功能](https://zh.wikipedia.org/wiki/紅外線 "wikilink")，也能發揮竹炭原有抗菌、除臭的功能。主要素材有黑絲絨竹炭紗、黑絲絨竹炭纖維、黑絲絨竹炭短纖維、黑絲絨竹炭十字紗、黑絲絨竹炭中空纖維、竹炭記憶矽膠\[3\]。
 
 黑絲絨竹炭紗主要用作一般服飾、帽子、圍巾、毛巾的素材，中空率達30%以上的黑絲絨竹炭纖維用在強調保暖的外套、雪衣和運動護具。黑絲絨竹炭短纖維配合特殊織法，用作拖鞋、襪子等強調排汗功能的製品上\[4\]。
 
@@ -35,11 +34,9 @@ Lacoya
 [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink")
 
 1.  [LaCoya 官方網站](http://www.lacoya.com/)
-2.  [LAcoya台灣百和曾煥東：化竹炭剛硬為溫暖柔情](http://kids.coa.gov.tw/personage.php?k_type=view&id=N_eden1_20060627173240&catalogs=PC01,PC05)
-    行政院農委會
+2.  [LAcoya台灣百和曾煥東：化竹炭剛硬為溫暖柔情](http://kids.coa.gov.tw/personage.php?k_type=view&id=N_eden1_20060627173240&catalogs=PC01,PC05) 行政院農委會
 3.  台灣竹炭衣 陳俞君/著 棋碁文化出版 ISBN 986-82550-5-8
 4.  台灣竹炭衣 陳俞君/著 棋碁文化出版 ISBN 986-82550-5-8
 5.  台灣竹炭衣 陳俞君/著 棋碁文化出版 ISBN 986-82550-5-8
 6.  台灣竹炭衣 陳俞君/著 棋碁文化出版 ISBN 986-82550-5-8
-7.  [2007台灣優良品牌推薦獎 20家獲獎廠商出爐](http://www.tcoc.org.tw/IS/Dotnet/ShowArticle.aspx?ID=29360)
-    - 台灣商會聯合資訊網
+7.  [2007台灣優良品牌推薦獎 20家獲獎廠商出爐](http://www.tcoc.org.tw/IS/Dotnet/ShowArticle.aspx?ID=29360) - 台灣商會聯合資訊網

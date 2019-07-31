@@ -28,7 +28,4 @@
 
 :\*「香港勁爆搖滾歌曲」：《教壞細路》
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink")
-[Category:Beyond音樂專輯](https://zh.wikipedia.org/wiki/Category:Beyond音樂專輯 "wikilink")
-[Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink") [Category:Beyond音樂專輯](https://zh.wikipedia.org/wiki/Category:Beyond音樂專輯 "wikilink") [Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink")

@@ -1,6 +1,4 @@
-**angela**為[日本](../Page/日本.md "wikilink")的二人樂隊組合，由atsuko和KATSU組成。隸屬於music
-wonder circus、[KING records](../Page/國王唱片.md "wikilink")（[STAR
-CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫歌曲知名。
+**angela**為[日本](../Page/日本.md "wikilink")的二人樂隊組合，由atsuko和KATSU組成。隸屬於music wonder circus、[KING records](../Page/國王唱片.md "wikilink")（[STAR CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫歌曲知名。
 
 ## 概要
 
@@ -42,8 +40,7 @@ CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫
 <!-- end list -->
 
   -
-    本名：小島 億洋（kojima yasuhiro） / 擔任：[爵士鼓](../Page/爵士鼓.md "wikilink") /
-    誕生日：4月8日
+    本名：小島 億洋（kojima yasuhiro） / 擔任：[爵士鼓](../Page/爵士鼓.md "wikilink") / 誕生日：4月8日
 
 <!-- end list -->
 
@@ -52,9 +49,7 @@ CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫
 <!-- end list -->
 
   -
-    本名：染川 裕紀（somekawa yuuki） /
-    擔任：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink") /
-    誕生日：12月2日
+    本名：染川 裕紀（somekawa yuuki） / 擔任：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink") / 誕生日：12月2日
 
 <!-- end list -->
 
@@ -63,44 +58,33 @@ CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫
 <!-- end list -->
 
   -
-    本名：山口 佳名子（yamaguchi kanako） / 擔任：[小提琴](../Page/小提琴.md "wikilink") /
-    誕生日：6月18日
+    本名：山口 佳名子（yamaguchi kanako） / 擔任：[小提琴](../Page/小提琴.md "wikilink") / 誕生日：6月18日
 
 ### 經歷
 
   - 1993年：以「ANGELA」之名義成立。原本是在岡山個別進行樂團活動，雖然當時就有見過面，但彼此之間是競爭對手。兩個樂團都把目標放在東京出道，但是陸續有人退出，最後到東京時剛好就剩他們兩人，於是當時還不習慣講標準話（東京腔）又沒有朋友的atsuko就邀請了同鄉的KATSU組團。
-  - 1999年：以單曲「memories」（[華納音樂集團](../Page/華納音樂集團.md "wikilink")・Dream
-    Machine）第一次正式出道。
+  - 1999年：以單曲「memories」（[華納音樂集團](../Page/華納音樂集團.md "wikilink")・Dream Machine）第一次正式出道。
   - 2000年：從經紀公司獨立，改成現在的名稱（將ANGELA改成小寫）。重新以地下樂團身分出發。
-  - 2003年：以單曲「明日へのbrilliant
-    road」再度正式出道。這首歌獲頒第8回アニメーション神戸、AM神戸（Radio關西）主題曲獎。
-  - 2004年：單曲「Shangri-La」在[Oricon](../Page/Oricon.md "wikilink")初登場就獲得第12名。接著專輯「I/O」初登場則拿到第16名，這一年還獲頒King
-    Record-Best HIt獎。
+  - 2003年：以單曲「明日へのbrilliant road」再度正式出道。這首歌獲頒第8回アニメーション神戸、AM神戸（Radio關西）主題曲獎。
+  - 2004年：單曲「Shangri-La」在[Oricon](../Page/Oricon.md "wikilink")初登場就獲得第12名。接著專輯「I/O」初登場則拿到第16名，這一年還獲頒King Record-Best HIt獎。
       - 在美國舉辦的「OTAKON」活動中演出。專輯「ソラノコエ」在全美發售。
   - 2005年：在[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")進行全曲演唱會。
       - 在活動「SAKURA-CON」或「CANADIAN NATIONAL EXPO」中演出。
       - 專輯「I/O」也在全美發售。
-      - 在[愛·地球博的](https://zh.wikipedia.org/wiki/2005年日本國際博覽會 "wikilink")「東海Radio
-        Special "WE LOVE THE EARTH"」中演出。
+      - 在[愛·地球博的](https://zh.wikipedia.org/wiki/2005年日本國際博覽會 "wikilink")「東海Radio Special "WE LOVE THE EARTH"」中演出。
   - 2006年：專輯「PRHYTHM」在Oricon初登場獲得第10名。這張專輯也在全美發售。
       - 以[NHK-FM頻率](../Page/NHK-FM頻率.md "wikilink")「[今日は一日“アニソン”三昧](https://zh.wikipedia.org/wiki/今日は一日○○三昧 "wikilink")」節目第一次在NHK演出。
   - 2007年：在[鈴鹿賽道進行的](https://zh.wikipedia.org/wiki/鈴鹿賽道 "wikilink")“[可口可樂Zero](https://zh.wikipedia.org/wiki/可口可樂Zero "wikilink")”鈴鹿8小時持久越野賽30回大會」中進行迷你演唱會。並且在這場大會的前夜祭中，atsuko和大家一起唱了[國歌](https://zh.wikipedia.org/wiki/國歌 "wikilink")。
-      - 在[東京厚生年金會館舉辦的](https://zh.wikipedia.org/wiki/東京厚生年金會館 "wikilink")「Music
-        Wonder 大馬戲團・Treasure
-        Hunter」活動中，atsuko發表了已經在夏天結婚了的消息。**對象不是KATSU。**
-  - 2008年：以事務所後輩樂團（的設定）-「Domestic♥Love Band（DoMeLoBa）」的名義發行了專輯「TRASH
-    BOX」出道。將angela歌曲重新編成龐克搖滾風。
-      - 在8月，不以angela的名義而是用Domestic♥Love Band的身分參加「[Animelo Summer Live
-        2008](../Page/Animelo_Summer_Live.md "wikilink")」。
+      - 在[東京厚生年金會館舉辦的](https://zh.wikipedia.org/wiki/東京厚生年金會館 "wikilink")「Music Wonder 大馬戲團・Treasure Hunter」活動中，atsuko發表了已經在夏天結婚了的消息。**對象不是KATSU。**
+  - 2008年：以事務所後輩樂團（的設定）-「Domestic♥Love Band（DoMeLoBa）」的名義發行了專輯「TRASH BOX」出道。將angela歌曲重新編成龐克搖滾風。
+      - 在8月，不以angela的名義而是用Domestic♥Love Band的身分參加「[Animelo Summer Live 2008](../Page/Animelo_Summer_Live.md "wikilink")」。
       - Bike Racing Team・TEAM angela以在鈴鹿8小時持久越野賽出場為目標而開始活動，知名設計師先生亦一同參加。
       - atsuko首次演出音樂劇「イル・ミュージカーレ」。
       - KATSU也開始個人的製作人事業。
       - 第一次舉辦台灣演唱會。
   - 2009年：演唱OP/ED主題曲的電視動畫『[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")』推出[柏青哥](../Page/彈珠機.md "wikilink")，因網路播放的廣告而使得「Shangri-La」再次受注目。
-      - 以angela名義參加「[Animelo Summer Live
-        2009](../Page/Animelo_Summer_Live.md "wikilink")」。
-  - 2009年9月27日到10月25日，在全國8都市\[1\] 舉辦全國演唱會『angela Live Tour 2009 「Land
-    Ho\!」』。
+      - 以angela名義參加「[Animelo Summer Live 2009](../Page/Animelo_Summer_Live.md "wikilink")」。
+  - 2009年9月27日到10月25日，在全國8都市\[1\] 舉辦全國演唱會『angela Live Tour 2009 「Land Ho\!」』。
 
 ## 作品
 
@@ -1122,10 +1106,8 @@ KICM-1854（動畫盤）</p></td>
 <!-- end list -->
 
   - アニソンぷらす+（[東京電視台](../Page/東京電視台.md "wikilink")）
-  - [音流〜On
-    Ryu〜](https://zh.wikipedia.org/wiki/音流〜On_Ryu〜 "wikilink")（東京電視台）
-  - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
+  - [音流〜On Ryu〜](https://zh.wikipedia.org/wiki/音流〜On_Ryu〜 "wikilink")（東京電視台）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
   - [アニメTV](https://zh.wikipedia.org/wiki/アニメTV "wikilink")（[tvk其他](../Page/神奈川電視台.md "wikilink")）
 
 ## 脚注
@@ -1140,9 +1122,7 @@ KICM-1854（動畫盤）</p></td>
 
   -
   -
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:冈山市出身人物](https://zh.wikipedia.org/wiki/Category:冈山市出身人物 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:冈山市出身人物](https://zh.wikipedia.org/wiki/Category:冈山市出身人物 "wikilink")
 
 1.  全國8都市的舉辦順序為：名古屋、京都、広島、福岡、岡山、神戸、仙台、東京。
 2.  以Team.ねこかん【猫】featuring. atsuko名義

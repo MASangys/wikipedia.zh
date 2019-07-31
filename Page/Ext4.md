@@ -2,28 +2,21 @@
 
 ## 歷史
 
-ext4原始的開發目標是一系列的[向下兼容](../Page/向下兼容.md "wikilink")ext3、移除其64位元限制與提升其效能的延伸套件\[1\]。然而，某些[Linux開發者因穩定性原因而拒絕將這些延伸套件應用在ext](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")3上\[2\]，並要求其作為ext3的[分支](https://zh.wikipedia.org/wiki/分支_\(軟體開發\) "wikilink")，改名為ext4並另行開發，以免影響到目前的ext3使用者。該要求被接受以後，ext3維護者[曹子德](../Page/曹子德.md "wikilink")（Theodore
-Ts'o）在2006年6月28日公開了ext4的開發計畫\[3\]。
+ext4原始的開發目標是一系列的[向下兼容](../Page/向下兼容.md "wikilink")ext3、移除其64位元限制與提升其效能的延伸套件\[1\]。然而，某些[Linux開發者因穩定性原因而拒絕將這些延伸套件應用在ext](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")3上\[2\]，並要求其作為ext3的[分支](https://zh.wikipedia.org/wiki/分支_\(軟體開發\) "wikilink")，改名為ext4並另行開發，以免影響到目前的ext3使用者。該要求被接受以後，ext3維護者[曹子德](../Page/曹子德.md "wikilink")（Theodore Ts'o）在2006年6月28日公開了ext4的開發計畫\[3\]。
 
-在Linux核心2.6.19版中，首次導入ext4的一個先期開發版本\[4\]。在2008年10月11日，ext4被當成穩定版本，加入Linux
-2.6.29版的原始碼中，ext4的開發階段進入尾聲\[5\]。2008年12月25日，Linux
-2.6.29版公開釋出之後，ext4成為Linux官方的建議預設檔案系統。
+在Linux核心2.6.19版中，首次導入ext4的一個先期開發版本\[4\]。在2008年10月11日，ext4被當成穩定版本，加入Linux 2.6.29版的原始碼中，ext4的開發階段進入尾聲\[5\]。2008年12月25日，Linux 2.6.29版公開釋出之後，ext4成為Linux官方的建議預設檔案系統。
 
-2010年1月15日，Google宣布將他們公司使用的檔案系統，由ext2，升級為ext4。在同年12月14日，Google也宣布他們將在Android
-2.3版中，使用ext4來取代之前的[YAFFS](../Page/YAFFS.md "wikilink")。
+2010年1月15日，Google宣布將他們公司使用的檔案系統，由ext2，升級為ext4。在同年12月14日，Google也宣布他們將在Android 2.3版中，使用ext4來取代之前的[YAFFS](../Page/YAFFS.md "wikilink")。
 
 ## 特色
 
   - 大型檔案系統
-    ext4檔案系統可支援最高1
-    [Exbibyte的分割區](https://zh.wikipedia.org/wiki/Exbibyte "wikilink")\[6\]與最大16
-    [Tebibyte的檔案](https://zh.wikipedia.org/wiki/Tebibyte "wikilink")。
+    ext4檔案系統可支援最高1 [Exbibyte的分割區](https://zh.wikipedia.org/wiki/Exbibyte "wikilink")\[6\]與最大16 [Tebibyte的檔案](https://zh.wikipedia.org/wiki/Tebibyte "wikilink")。
 
 <!-- end list -->
 
   - Extents
-    ext4引進了[Extent檔案儲存方式](../Page/Extent_\(檔案系統\).md "wikilink")，以取代ext2/3使用的[block
-    mapping方式](https://zh.wikipedia.org/wiki/Block_\(data_storage\) "wikilink")。Extent指的是一連串的連續實體block，這種方式可以增加大型檔案的效率並減少分裂檔案。ext4支援的單一Extent，在單一block為4KB的系統中最高可達128MB\[7\]。單一inode中可儲存4筆Extent；超過四筆的Extent會以Htree方式被索引。
+    ext4引進了[Extent檔案儲存方式](../Page/Extent_\(檔案系統\).md "wikilink")，以取代ext2/3使用的[block mapping方式](https://zh.wikipedia.org/wiki/Block_\(data_storage\) "wikilink")。Extent指的是一連串的連續實體block，這種方式可以增加大型檔案的效率並減少分裂檔案。ext4支援的單一Extent，在單一block為4KB的系統中最高可達128MB\[7\]。單一inode中可儲存4筆Extent；超過四筆的Extent會以Htree方式被索引。
 
 <!-- end list -->
 
@@ -48,14 +41,12 @@ Ts'o）在2006年6月28日公開了ext4的開發計畫\[3\]。
 <!-- end list -->
 
   - 突破32000子目錄限制
-    ext3的一個目錄下最多只能有32000個子目錄。ext4的子目錄最高可達64000，且使用「dir_nlink」功能後可以達到更高（雖然父目錄的link
-    count會停止增加）。為了避免效能受到大量目錄的影響，ext4預設開啟[Htree](https://zh.wikipedia.org/wiki/Htree "wikilink")（一種特殊的[B树](../Page/B树.md "wikilink")）索引功能。該功能已經實作於Linux核心2.6.23版。
+    ext3的一個目錄下最多只能有32000個子目錄。ext4的子目錄最高可達64000，且使用「dir_nlink」功能後可以達到更高（雖然父目錄的link count會停止增加）。為了避免效能受到大量目錄的影響，ext4預設開啟[Htree](https://zh.wikipedia.org/wiki/Htree "wikilink")（一種特殊的[B树](../Page/B树.md "wikilink")）索引功能。該功能已經實作於Linux核心2.6.23版。
 
 <!-- end list -->
 
   - 日志校验和
-    Ext4使用[校验和特性来提高文件系统可靠性](https://zh.wikipedia.org/wiki/校验和 "wikilink")，因为日志是磁盘上被读取最频繁的部分之一。这个特性还有一个好处就是可以安全地避免日志处理时磁盘I/O的等待，而稍微提高一些性能。日志校验和的技术源于[威斯康辛大学的一篇名为](https://zh.wikipedia.org/wiki/威斯康辛大学 "wikilink")*IRON
-    File Systems*的研究论文（见第六节transaction checksums校验和处理）\[8\]
+    Ext4使用[校验和特性来提高文件系统可靠性](https://zh.wikipedia.org/wiki/校验和 "wikilink")，因为日志是磁盘上被读取最频繁的部分之一。这个特性还有一个好处就是可以安全地避免日志处理时磁盘I/O的等待，而稍微提高一些性能。日志校验和的技术源于[威斯康辛大学的一篇名为](https://zh.wikipedia.org/wiki/威斯康辛大学 "wikilink")*IRON File Systems*的研究论文（见第六节transaction checksums校验和处理）\[8\]
 
 <!-- end list -->
 
@@ -75,11 +66,9 @@ Ts'o）在2006年6月28日公開了ext4的開發計畫\[3\]。
 
 ## 相关介绍
 
-  - [剖析ext4 (IBM Developer
-    Works)](http://www.ibm.com/developerworks/cn/linux/l-anatomy-ext4/)
+  - [剖析ext4 (IBM Developer Works)](http://www.ibm.com/developerworks/cn/linux/l-anatomy-ext4/)
 
-[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink")
-[Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
+[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink") [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
 
 1.
 

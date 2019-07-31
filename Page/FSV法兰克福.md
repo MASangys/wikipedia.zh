@@ -1,35 +1,16 @@
-[Mk_Frankfurt_FSV.jpg](https://zh.wikipedia.org/wiki/File:Mk_Frankfurt_FSV.jpg "fig:Mk_Frankfurt_FSV.jpg")
-**法兰克福1899体育足球俱樂部**（，簡稱**FSV
-Frankfurt**）是位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑森州](../Page/黑森.md "wikilink")[法兰克福的博恩海姆](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")（Bornheim）的足球會。成立於1899年，只能活在同市強大的[法蘭克福](../Page/法兰克福足球俱乐部.md "wikilink")（Eintracht
-Frankfurt）陰影下。
+[Mk_Frankfurt_FSV.jpg](https://zh.wikipedia.org/wiki/File:Mk_Frankfurt_FSV.jpg "fig:Mk_Frankfurt_FSV.jpg") **法兰克福1899体育足球俱樂部**（，簡稱**FSV Frankfurt**）是位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑森](../Page/黑森.md "wikilink")州[法兰克福的博恩海姆](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")（Bornheim）的足球會。成立於1899年，只能活在同市強大的[法蘭克福](../Page/法兰克福足球俱乐部.md "wikilink")（Eintracht Frankfurt）陰影下。
 
 ## 球會歷史
 
-FSV法兰克福的高峰是於1925年晉級[德國足球冠軍](../Page/德國足球冠軍.md "wikilink")（Deutsche
-Fußballmeister）決賽，但以0-1不敵[紐倫堡而屈居亞軍](../Page/纽伦堡足球俱乐部.md "wikilink")；於1972年以2-1擊敗马尔-胡尔斯（Marl
-Hüls）奪得[德國業餘足球錦標賽](https://zh.wikipedia.org/wiki/德國業餘足球錦標賽 "wikilink")（Deutsche
-Amateurmeisterschaft）冠軍；而1938年則晉級[德国足协杯前身查美爾盃](../Page/德国足协杯.md "wikilink")（Tschammerpokal）決賽，被[維也納迅速以](https://zh.wikipedia.org/wiki/維也納迅速足球俱樂部 "wikilink")3-1擊敗。
+FSV法兰克福的高峰是於1925年晉級[德國足球冠軍](../Page/德國足球冠軍.md "wikilink")（Deutsche Fußballmeister）決賽，但以0-1不敵[紐倫堡而屈居亞軍](../Page/纽伦堡足球俱乐部.md "wikilink")；於1972年以2-1擊敗马尔-胡尔斯（Marl Hüls）奪得[德國業餘足球錦標賽](https://zh.wikipedia.org/wiki/德國業餘足球錦標賽 "wikilink")（Deutsche Amateurmeisterschaft）冠軍；而1938年則晉級[德国足协杯](../Page/德国足协杯.md "wikilink")前身查美爾盃（Tschammerpokal）決賽，被[維也納迅速以](https://zh.wikipedia.org/wiki/維也納迅速足球俱樂部 "wikilink")3-1擊敗。
 
-在1920至1930年代FSV法兰克福在「美因區級聯賽」（Bezirksliga Main）及「美因-黑森區級聯賽」（Bezirksliga
-Main-Hessen）中作賽。直到1933年奪得德國南部聯會聯賽（Verband Süddeutscher Fussball
-Vereine，簡稱VSFV）冠軍後，升級到「西南省際聯賽」（Gauliga
-Südwest），是[第三帝國改組足球聯賽後](../Page/納粹德國.md "wikilink")16個頂級聯賽之一。FSV法兰克福位列中游，最佳成績是1939年的亞軍。1941年「西南省際聯賽」分拆成「Gauliga
-Westmark」及「Gauliga
-Hessen-Nassau」兩個聯賽，FSV法兰克福被置於後者，1943年緊隨[-{zh-hans:奥芬巴赫踢球者;zh-hk:奧芬巴克}-之後獲得亞軍](../Page/奥芬巴赫踢球者足球俱乐部.md "wikilink")，1944年與[法蘭克福安德列合併組成](../Page/法兰克福足球俱乐部.md "wikilink")「KSG法兰克福」（*KSG
-Frankfurt*）參加戰時聯賽（Kriegspielgemeinschaft）。翌年省際聯賽因戰爭臨近而停頓。
+在1920至1930年代FSV法兰克福在「美因區級聯賽」（Bezirksliga Main）及「美因-黑森區級聯賽」（Bezirksliga Main-Hessen）中作賽。直到1933年奪得德國南部聯會聯賽（Verband Süddeutscher Fussball Vereine，簡稱VSFV）冠軍後，升級到「西南省際聯賽」（Gauliga Südwest），是[第三帝國改組足球聯賽後](../Page/納粹德國.md "wikilink")16個頂級聯賽之一。FSV法兰克福位列中游，最佳成績是1939年的亞軍。1941年「西南省際聯賽」分拆成「Gauliga Westmark」及「Gauliga Hessen-Nassau」兩個聯賽，FSV法兰克福被置於後者，1943年緊隨[-{zh-hans:奥芬巴赫踢球者;zh-hk:奧芬巴克}-之後獲得亞軍](../Page/奥芬巴赫踢球者足球俱乐部.md "wikilink")，1944年與[法蘭克福安德列合併組成](../Page/法兰克福足球俱乐部.md "wikilink")「KSG法兰克福」（*KSG Frankfurt*）參加戰時聯賽（Kriegspielgemeinschaft）。翌年省際聯賽因戰爭臨近而停頓。
 
-戰後佔領的盟軍命令解散德國所有組織，包括體育及足球會。「法兰克福」以「SG博恩海姆」（*SG
-Bornheim*）的名義重新成立，於1945年末獲恢復原名。球隊獲選加入頂級的「南部州級聯賽」（Oberliga
-Süd）參賽，一直表現平庸而處於中游位置，於1961/62年終於降級。1963年[德甲成立](https://zh.wikipedia.org/wiki/德甲 "wikilink")，FSV法兰克福加入「南部地區聯賽」（Regionalliga
-Süd），一直維持在第二級聯賽參賽，於1970年代初降落第三級聯賽。
+戰後佔領的盟軍命令解散德國所有組織，包括體育及足球會。「法兰克福」以「SG博恩海姆」（*SG Bornheim*）的名義重新成立，於1945年末獲恢復原名。球隊獲選加入頂級的「南部州級聯賽」（Oberliga Süd）參賽，一直表現平庸而處於中游位置，於1961/62年終於降級。1963年[德甲成立](https://zh.wikipedia.org/wiki/德甲 "wikilink")，FSV法兰克福加入「南部地區聯賽」（Regionalliga Süd），一直維持在第二級聯賽參賽，於1970年代初降落第三級聯賽。
 
-在[德乙成立後一年的](https://zh.wikipedia.org/wiki/德乙 "wikilink")1975年FSV法兰克福重返第二級聯賽，升上「德乙南區」（2nd
-Bundesliga Süd）。1981年德乙重組成為單一全國性級別，在下游位置的FSV法兰克福被重置到第三級的「黑森業餘州級聯賽
-(III)」（Amateur Oberliga Hessen (III)）。1982/83年重回德乙僅一年便即降級。
+在[德乙成立後一年的](https://zh.wikipedia.org/wiki/德乙 "wikilink")1975年FSV法兰克福重返第二級聯賽，升上「德乙南區」（2nd Bundesliga Süd）。1981年德乙重組成為單一全國性級別，在下游位置的FSV法兰克福被重置到第三級的「黑森業餘州級聯賽 (III)」（Amateur Oberliga Hessen (III)）。1982/83年重回德乙僅一年便即降級。
 
-FSV法兰克福自此長期在「黑森州級聯賽 (IV)」（Oberliga Hessen (IV)）及「地區聯賽南部賽區」（Regionalliga
-Süd
-(III)）之間浮沉。於奪得「地區聯賽南部賽區」冠軍後，FSV法兰克福在2008/09年球季再次升上[德乙](https://zh.wikipedia.org/wiki/德乙 "wikilink")。
+FSV法兰克福自此長期在「黑森州級聯賽 (IV)」（Oberliga Hessen (IV)）及「地區聯賽南部賽區」（Regionalliga Süd (III)）之間浮沉。於奪得「地區聯賽南部賽區」冠軍後，FSV法兰克福在2008/09年球季再次升上[德乙](https://zh.wikipedia.org/wiki/德乙 "wikilink")。
 
 ## 其他運動部門
 
@@ -42,10 +23,8 @@ FSV法兰克福其他的運動部門包括[女子足球](../Page/女子足球.md
   - [德國足協盃亞軍](https://zh.wikipedia.org/wiki/德國足協盃 "wikilink")：1938年
   - 德國業餘足球錦標賽冠軍：1972年
   - 南部州級乙組聯賽（2nd Oberliga Süd）冠軍：1963年
-  - [黑森州級聯賽](https://zh.wikipedia.org/wiki/德國足球黑森州級聯賽 "wikilink")（Oberliga
-    Hessen）冠軍：1969年、1973年、1975年、1982年、1994年、1998年、2007年
-  - [地區聯賽南部賽區](https://zh.wikipedia.org/wiki/德國足球地區聯賽 "wikilink")（Regionalliga
-    Süd）冠軍：2008年
+  - [黑森州級聯賽](https://zh.wikipedia.org/wiki/德國足球黑森州級聯賽 "wikilink")（Oberliga Hessen）冠軍：1969年、1973年、1975年、1982年、1994年、1998年、2007年
+  - [地區聯賽南部賽區](https://zh.wikipedia.org/wiki/德國足球地區聯賽 "wikilink")（Regionalliga Süd）冠軍：2008年
 
 ## 球員名單
 
@@ -501,8 +480,7 @@ FSV法兰克福其他的運動部門包括[女子足球](../Page/女子足球.md
 
 ## 參考資料
 
-  - [ The Abseits Guide to German
-    Soccer](http://www.abseits-soccer.com/clubs/fsv.html)
+  - [ The Abseits Guide to German Soccer](http://www.abseits-soccer.com/clubs/fsv.html)
   - [ 德國聯賽成績](http://www.f-archiv.de/)
   - [eufo.de](http://www.eufo.de/football/ger/fsv_furt.htm)
 
@@ -512,6 +490,4 @@ FSV法兰克福其他的運動部門包括[女子足球](../Page/女子足球.md
 
   - [FSV法兰克福官方网站](http://www.fsv-frankfurt.de)
 
-[Category:德國足球俱樂部](https://zh.wikipedia.org/wiki/Category:德國足球俱樂部 "wikilink")
-[Category:法兰克福体育组织](https://zh.wikipedia.org/wiki/Category:法兰克福体育组织 "wikilink")
-[Category:1899年建立的足球會](https://zh.wikipedia.org/wiki/Category:1899年建立的足球會 "wikilink")
+[Category:德國足球俱樂部](https://zh.wikipedia.org/wiki/Category:德國足球俱樂部 "wikilink") [Category:法兰克福体育组织](https://zh.wikipedia.org/wiki/Category:法兰克福体育组织 "wikilink") [Category:1899年建立的足球會](https://zh.wikipedia.org/wiki/Category:1899年建立的足球會 "wikilink")

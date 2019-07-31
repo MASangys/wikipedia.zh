@@ -21,6 +21,4 @@
   -
 [分類:香港警匪片](https://zh.wikipedia.org/wiki/分類:香港警匪片 "wikilink")
 
-[Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink")
-[Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink")
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")
+[Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink") [Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink") [Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")

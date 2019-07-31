@@ -1,6 +1,4 @@
-**施泰尔ACR**（Steyr
-ACR）是为美军90年代初[ACR计划而设计的一款使用](https://zh.wikipedia.org/wiki/ACR计划 "wikilink")[箭形弹的突击步枪](https://zh.wikipedia.org/wiki/箭形弹 "wikilink")。即使施泰尔的设计和提交的其他武器一样已经被证明是优秀的设计，但整个ACR计划因为提交的四款设计没有一款可以达到性能超越[M16A2](../Page/M16突擊步槍.md "wikilink")
-100%的标准而被作罢。
+**施泰尔ACR**（Steyr ACR）是为美军90年代初[ACR计划而设计的一款使用](https://zh.wikipedia.org/wiki/ACR计划 "wikilink")[箭形弹的突击步枪](https://zh.wikipedia.org/wiki/箭形弹 "wikilink")。即使施泰尔的设计和提交的其他武器一样已经被证明是优秀的设计，但整个ACR计划因为提交的四款设计没有一款可以达到性能超越[M16A2](../Page/M16突擊步槍.md "wikilink") 100%的标准而被作罢。
 
 ## 设计
 
@@ -20,16 +18,10 @@ ACR）是为美军90年代初[ACR计划而设计的一款使用](https://zh.wiki
 
 ## 外部連結
 
-  - —[Modern Firearms—Steyr ACR - Advanced Combar
-    Rifle](http://world.guns.ru/assault/as56-e.htm)
+  - —[Modern Firearms—Steyr ACR - Advanced Combar Rifle](http://world.guns.ru/assault/as56-e.htm)
 
-  - —[Remtek.com—Steyr Advanced Combat
-    Rifle](http://remtek.com/arms/steyr/acr/acr.htm)
+  - —[Remtek.com—Steyr Advanced Combat Rifle](http://remtek.com/arms/steyr/acr/acr.htm)
 
-  - —[D Boy Gun World（Steyr
-    ACR）](http://firearmsworld.net/austria/steyr/acr/acr.htm)
+  - —[D Boy Gun World（Steyr ACR）](http://firearmsworld.net/austria/steyr/acr/acr.htm)
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
-[Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
-[Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
-[Category:試驗和研究槍械](https://zh.wikipedia.org/wiki/Category:試驗和研究槍械 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:試驗和研究槍械](https://zh.wikipedia.org/wiki/Category:試驗和研究槍械 "wikilink")

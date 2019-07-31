@@ -1,20 +1,14 @@
-**girl next door**（「女孩次世代」，前稱「**GIRL NEXT
-DOOR**」），是一支[日本](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，所屬公司是[艾迴音樂](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")，成員包括2男1女。在台灣被稱作「女孩次世代」。出道單曲《》在日本獲逾230萬次收聽率\[1\]。
+**girl next door**（「女孩次世代」，前稱「**GIRL NEXT DOOR**」），是一支[日本](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，所屬公司是[艾迴音樂](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")，成員包括2男1女。在台灣被稱作「女孩次世代」。出道單曲《》在日本獲逾230萬次收聽率\[1\]。
 
 ## 成員
 
   - [千紗](https://zh.wikipedia.org/wiki/千紗 "wikilink")（1985年11月16日生）女，原名前川千紗，主唱。出生於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[丹波篠山市](../Page/丹波篠山市.md "wikilink")。著名泳手[北島康介的妻子](https://zh.wikipedia.org/wiki/北島康介 "wikilink")。
   - [井上裕治](https://zh.wikipedia.org/wiki/井上裕治 "wikilink")（1978年10月27日生）男，負責吉他。出生於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")。
-  - [鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink")（1978年9月3日生）男，負責鍵盤。出生於[神奈川縣](../Page/神奈川縣.md "wikilink")，前樂隊「[近未來](https://zh.wikipedia.org/wiki/近未來 "wikilink")」（day
-    after tomorrow）成員。
+  - [鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink")（1978年9月3日生）男，負責鍵盤。出生於[神奈川縣](../Page/神奈川縣.md "wikilink")，前樂隊「[近未來](https://zh.wikipedia.org/wiki/近未來 "wikilink")」（day after tomorrow）成員。
 
 ## 來歷
 
-在以日本關西地區為主，參加舞蹈活動的主唱千紗，以有壓倒性的舞姿和魅力，吸引了[艾迴的注意](https://zh.wikipedia.org/wiki/艾迴音樂公司 "wikilink")，帶她來到東京參加培訓。
-作為[艾迴音樂學院](https://zh.wikipedia.org/wiki/艾迴音樂學院 "wikilink")（Avex Artist
-Academy）的特別入校生，認識了以作曲為主的鍵盤手，前樂隊「近未來」的成員鈴木大輔。在幾次錄音之後，被艾迴公司的松浦勝人社長相中，於2008年9月配上吉他手井上裕治，正式組成GIRL
-NEXT DOOR出道。艾迴稱此樂隊出道為紀念公司成立20周年，並首次以公司名義作為樂隊擔當（Produced by avex
-trax）\[2\]，並稱「為此賭上公司的前途」 \[3\]。 因為樂隊成員各有生涯規劃，於2013年12月8日演唱會結束後，樂隊解散。
+在以日本關西地區為主，參加舞蹈活動的主唱千紗，以有壓倒性的舞姿和魅力，吸引了[艾迴的注意](https://zh.wikipedia.org/wiki/艾迴音樂公司 "wikilink")，帶她來到東京參加培訓。 作為[艾迴音樂學院](https://zh.wikipedia.org/wiki/艾迴音樂學院 "wikilink")（Avex Artist Academy）的特別入校生，認識了以作曲為主的鍵盤手，前樂隊「近未來」的成員鈴木大輔。在幾次錄音之後，被艾迴公司的松浦勝人社長相中，於2008年9月配上吉他手井上裕治，正式組成GIRL NEXT DOOR出道。艾迴稱此樂隊出道為紀念公司成立20周年，並首次以公司名義作為樂隊擔當（Produced by avex trax）\[2\]，並稱「為此賭上公司的前途」 \[3\]。 因為樂隊成員各有生涯規劃，於2013年12月8日演唱會結束後，樂隊解散。
 
 ## 作品
 
@@ -53,17 +47,11 @@ trax）\[2\]，並稱「為此賭上公司的前途」 \[3\]。 因為樂隊成�
 ## 官方網站
 
   - [girl next door 官方網站](http://girlnextdoor.jp/index.html)
-  - [musicJAPANplus艺人资料库 - 女孩次世代 girl next
-    door](http://www.musicjapanplus.jp/artistdb/?artist_id=254)
-  - [girl next door fanclub website
-    女孩次世代中文網](https://web.archive.org/web/20121029015923/http://www.gndfc.cn/)
+  - [musicJAPANplus艺人资料库 - 女孩次世代 girl next door](http://www.musicjapanplus.jp/artistdb/?artist_id=254)
+  - [girl next door fanclub website 女孩次世代中文網](https://web.archive.org/web/20121029015923/http://www.gndfc.cn/)
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
-[Category:2013年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年解散的音樂團體 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink") [Category:2013年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年解散的音樂團體 "wikilink")
 
 1.  [BARKS JP](http://www.barks.jp/news/?id=1000043240)
 2.  [Barks JP](http://www.barks.jp/news/?id=1000040876)
-3.  [Sponichi
-    JP](http://www.sponichi.co.jp/entertainment/news/2008/07/17/01.html)
+3.  [Sponichi JP](http://www.sponichi.co.jp/entertainment/news/2008/07/17/01.html)

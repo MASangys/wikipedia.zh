@@ -1,16 +1,12 @@
-[Valid_XHTML_1.0.svg](https://zh.wikipedia.org/wiki/File:Valid_XHTML_1.0.svg "fig:Valid_XHTML_1.0.svg")
-[Valid_CSS.svg](https://zh.wikipedia.org/wiki/File:Valid_CSS.svg "fig:Valid_CSS.svg")
+[Valid_XHTML_1.0.svg](https://zh.wikipedia.org/wiki/File:Valid_XHTML_1.0.svg "fig:Valid_XHTML_1.0.svg") [Valid_CSS.svg](https://zh.wikipedia.org/wiki/File:Valid_CSS.svg "fig:Valid_CSS.svg")
 
 由**[万维网联盟](../Page/万维网联盟.md "wikilink")（W3C）提供的驗證服務**可以為[互聯網用戶檢查](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[HTML](../Page/HTML.md "wikilink")文件是否符合[HTML](../Page/HTML.md "wikilink")或[XHTML](../Page/XHTML.md "wikilink")標準。這可以向網頁設計師提供快速檢查網頁錯誤的方法。\[1\]
 
 ## 历史
 
-W3C驗證服務的前身為Gerald Oskoboiny發起的一個計畫，*The Kinder, Gentler HTML
-Validator*\[2\]而*The Kinder, Gentler HTML Validator*則由Dan Connolly和Mark
-Gaither繼續開發成一個更準確的，第一個線上HTML驗證器，並於1994年7月13日發布。\[3\]
+W3C驗證服務的前身為Gerald Oskoboiny發起的一個計畫，*The Kinder, Gentler HTML Validator*\[2\]而*The Kinder, Gentler HTML Validator*則由Dan Connolly和Mark Gaither繼續開發成一個更準確的，第一個線上HTML驗證器，並於1994年7月13日發布。\[3\]
 
-於1997年9月，Oskoboiny開始為[W3C工作](https://zh.wikipedia.org/wiki/W3C "wikilink")，而於1997年12月18日，W3C宣布*W3C
-HTML Validator*以他的作品為基礎發布。\[4\]
+於1997年9月，Oskoboiny開始為[W3C工作](https://zh.wikipedia.org/wiki/W3C "wikilink")，而於1997年12月18日，W3C宣布*W3C HTML Validator*以他的作品為基礎發布。\[4\]
 
 ## 驗證方式
 
@@ -26,9 +22,7 @@ HTML Validator*以他的作品為基礎發布。\[4\]
 
 ## 參看
 
-  - [HTML
-    Tidy](https://zh.wikipedia.org/wiki/HTML_Tidy "wikilink")，由[W3C的](https://zh.wikipedia.org/wiki/W3C "wikilink")[Dave
-    Raggett開發的離線驗證工具](https://zh.wikipedia.org/wiki/Dave_Raggett "wikilink")
+  - [HTML Tidy](https://zh.wikipedia.org/wiki/HTML_Tidy "wikilink")，由[W3C的](https://zh.wikipedia.org/wiki/W3C "wikilink")[Dave Raggett開發的離線驗證工具](https://zh.wikipedia.org/wiki/Dave_Raggett "wikilink")
   - [HTML](../Page/HTML.md "wikilink")
   - [XHTML](../Page/XHTML.md "wikilink")
 
@@ -37,16 +31,13 @@ HTML Validator*以他的作品為基礎發布。\[4\]
 ## 外部連結
 
   - [The W3C Markup Validation Service](http://validator.w3.org/)
-  - [The W3C CSS validation
-    Service](http://jigsaw.w3.org/css-validator/)
+  - [The W3C CSS validation Service](http://jigsaw.w3.org/css-validator/)
 
 {{-}}
 
-[Category:万维网联盟](https://zh.wikipedia.org/wiki/Category:万维网联盟 "wikilink")
-[Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink")
+[Category:万维网联盟](https://zh.wikipedia.org/wiki/Category:万维网联盟 "wikilink") [Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink")
 
-1.  Castro, Elisabeth: *HTML, XHTML & CSS, Sixth Edition*, 第345-346頁.
-    Visual Quickstart Guides, Peachpit Press, 2007. ISBN 0-321-43084-0
+1.  Castro, Elisabeth: *HTML, XHTML & CSS, Sixth Edition*, 第345-346頁. Visual Quickstart Guides, Peachpit Press, 2007. ISBN 0-321-43084-0
 
 2.
 

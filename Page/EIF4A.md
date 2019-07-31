@@ -4,16 +4,13 @@ eIF4A在人体中有三个亚型：eIF4A-1、eIF4A-2和eIF4A-3。
 
 ## 结构
 
-eIF4A是[DEAD盒RNA解旋酶超家族成员](https://zh.wikipedia.org/wiki/DEAD盒 "wikilink")，其[氨基酸](../Page/氨基酸.md "wikilink")序列中具有8个保守区，保守区内含有一致的特殊序列。已知的解旋酶结构具有两个[结构域](../Page/结构域.md "wikilink")：RNA结合结构域和ATP酶结构域；保守区，包括ATP结合位点，线性排列在两个结构域之间的裂缝中。[酵母](../Page/酵母.md "wikilink")的eIF4A（缺少RNA结合结构域）的[N端ATP酶结构域包含一个七个β链组成的扭曲的](https://zh.wikipedia.org/wiki/N端 "wikilink")[β折叠片](https://zh.wikipedia.org/wiki/β折叠 "wikilink")，其两侧分别有4个和5个[α螺旋](https://zh.wikipedia.org/wiki/α螺旋 "wikilink")。\[2\]
-而最近对人类eIF4A的结构研究发现，eIF4A的两个结构域都为α/β型折叠，且在结合RNA前后发生了构象变化。\[3\]
+eIF4A是[DEAD盒RNA解旋酶超家族成员](https://zh.wikipedia.org/wiki/DEAD盒 "wikilink")，其[氨基酸](../Page/氨基酸.md "wikilink")序列中具有8个保守区，保守区内含有一致的特殊序列。已知的解旋酶结构具有两个[结构域](../Page/结构域.md "wikilink")：RNA结合结构域和ATP酶结构域；保守区，包括ATP结合位点，线性排列在两个结构域之间的裂缝中。[酵母](../Page/酵母.md "wikilink")的eIF4A（缺少RNA结合结构域）的[N端ATP酶结构域包含一个七个β链组成的扭曲的](https://zh.wikipedia.org/wiki/N端 "wikilink")[β折叠片](https://zh.wikipedia.org/wiki/β折叠 "wikilink")，其两侧分别有4个和5个[α螺旋](https://zh.wikipedia.org/wiki/α螺旋 "wikilink")。\[2\] 而最近对人类eIF4A的结构研究发现，eIF4A的两个结构域都为α/β型折叠，且在结合RNA前后发生了构象变化。\[3\]
 
 ## 功能
 
 eIF4A的解旋功能可能是因为ATP结合和[水解](../Page/水解.md "wikilink")引起蛋白质结构变化和RNA亲合性的变化。虽然如此，单独存在的eIF4A只是一种低效的解旋酶，因为它从单链RNA上脱离的速率远大于水解ATP的速率。而eIF4A的解旋酶活性可被[eIF4B](https://zh.wikipedia.org/wiki/eIF4B "wikilink")，[eIF4H和](https://zh.wikipedia.org/wiki/eIF4H "wikilink")[eIF4F增强](https://zh.wikipedia.org/wiki/eIF4F "wikilink")。现在还不清楚这些因子是否或如何通过与eIF4A的相互作用改变了[酶的动力学参数](../Page/酶动力学.md "wikilink")，例如通过增强它与RNA的亲合性从而带来活性的提高。
 
-在真核生物中，eIF4A可以以自由形式存在或者作为[eIF4F的一部分](https://zh.wikipedia.org/wiki/eIF4F "wikilink")。在[哺乳动物](../Page/哺乳动物.md "wikilink")中eIF4A是结合[eIF4G的两个位点上](https://zh.wikipedia.org/wiki/eIF4G "wikilink")，在酵母中结合在eIF4G的一个单独位点上。\[4\]
-它同样可结合[翻译调控因子](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")[p97和](https://zh.wikipedia.org/wiki/p97 "wikilink")[PABP作用蛋白](https://zh.wikipedia.org/wiki/PABP "wikilink")（PABP-interacting
-protein，PAIP）。
+在真核生物中，eIF4A可以以自由形式存在或者作为[eIF4F的一部分](https://zh.wikipedia.org/wiki/eIF4F "wikilink")。在[哺乳动物](../Page/哺乳动物.md "wikilink")中eIF4A是结合[eIF4G的两个位点上](https://zh.wikipedia.org/wiki/eIF4G "wikilink")，在酵母中结合在eIF4G的一个单独位点上。\[4\] 它同样可结合[翻译调控因子](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")[p97和](https://zh.wikipedia.org/wiki/p97 "wikilink")[PABP作用蛋白](https://zh.wikipedia.org/wiki/PABP "wikilink")（PABP-interacting protein，PAIP）。
 
 ## 参考文献
 

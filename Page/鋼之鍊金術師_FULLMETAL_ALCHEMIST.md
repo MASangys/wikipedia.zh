@@ -1,20 +1,14 @@
-《**鋼之鍊金術師 FULLMETAL
-ALCHEMIST**》，為漫畫《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》二度動畫化作品，和前作動畫「[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")」一樣由[BONES製作](../Page/BONES_\(動畫製作公司\).md "wikilink")，於2009年4月5日起播出。原預定在2010年6月與原作漫畫一起完結，但後來變更延至7月4日，全64話。
+《**鋼之鍊金術師 FULLMETAL ALCHEMIST**》，為漫畫《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》二度動畫化作品，和前作動畫「[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")」一樣由[BONES製作](../Page/BONES_\(動畫製作公司\).md "wikilink")，於2009年4月5日起播出。原預定在2010年6月與原作漫畫一起完結，但後來變更延至7月4日，全64話。
 
 ## 概要
 
-曾於2003年一度改編為動畫的《**鋼之鍊金術師**》，在日本第20卷出版之際，也向外公布動畫版的新作將在2009年上半年發表，並表明新系列採原作漫畫劇情\[1\]。其後有關方面在2009年2月10日，宣布新作《**鋼之鍊-{}-金術師
-FULLMETAL ALCHEMIST**》於4月5日下午5時開始播放\[2\]\[3\]。
+曾於2003年一度改編為動畫的《**鋼之鍊金術師**》，在日本第20卷出版之際，也向外公布動畫版的新作將在2009年上半年發表，並表明新系列採原作漫畫劇情\[1\]。其後有關方面在2009年2月10日，宣布新作《**鋼之鍊-{}-金術師 FULLMETAL ALCHEMIST**》於4月5日下午5時開始播放\[2\]\[3\]。
 
 本作劇情著重於愛力克兄弟的親情，在軍事國家展開的各種謀略、眾多配角的行為與心情，做細膩的描述。並針對受世界經濟衰退及動畫違法下載氾濫影響的海外市場，ANIPLEX與各國代理商合作，尾隨日本播出後一週內，於各國電視台、網路電視播出\[4\]\[5\]。
 
-在2009年紐約動畫節（New York Anime
-Festival）座談情報指出，預定播放5、全63話\[6\]，後由監督入江泰浩證實\[7\]\[8\]\[9\]。然而《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》2010年7月號（6月11日發售）正式公佈最終回於7月4日播出，即改為全64話。
+在2009年紐約動畫節（New York Anime Festival）座談情報指出，預定播放5、全63話\[6\]，後由監督入江泰浩證實\[7\]\[8\]\[9\]。然而《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》2010年7月號（6月11日發售）正式公佈最終回於7月4日播出，即改為全64話。
 
-2010年7月4日，在最終回結尾宣佈製作劇場版的消息。同年11月14日，官網公佈劇場版名稱為《[鋼之鍊金術師
-嘆息之丘的聖星](../Page/鋼之鍊金術師_嘆息之丘的聖星.md "wikilink")》（），曾任[Code
-Geass
-反叛的魯路修副導演的](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")[村田和也](../Page/村田和也.md "wikilink")也參與製作。已於2011年7月2日在日本上映。
+2010年7月4日，在最終回結尾宣佈製作劇場版的消息。同年11月14日，官網公佈劇場版名稱為《[鋼之鍊金術師 嘆息之丘的聖星](../Page/鋼之鍊金術師_嘆息之丘的聖星.md "wikilink")》（），曾任[Code Geass 反叛的魯路修副導演的](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")[村田和也](../Page/村田和也.md "wikilink")也參與製作。已於2011年7月2日在日本上映。
 
 ## 故事簡介
 
@@ -55,8 +49,7 @@ Geass
 
 <!-- end list -->
 
-  - 「[again](https://zh.wikipedia.org/wiki/again_\(YUI單曲\) "wikilink")」（第1話
-    - 第14話）
+  - 「[again](https://zh.wikipedia.org/wiki/again_\(YUI單曲\) "wikilink")」（第1話 - 第14話）
 
 <!-- end list -->
 
@@ -70,9 +63,7 @@ Geass
 <!-- end list -->
 
   -
-    作詞、作曲：光村龍哉／編曲：[龜田誠治](../Page/龜田誠治.md "wikilink") & NICO Touches the
-    Walls／歌：[NICO Touches the
-    Walls](https://zh.wikipedia.org/wiki/:ja:NICO_Touches_the_Walls "wikilink")
+    作詞、作曲：光村龍哉／編曲：[龜田誠治](../Page/龜田誠治.md "wikilink") & NICO Touches the Walls／歌：[NICO Touches the Walls](https://zh.wikipedia.org/wiki/:ja:NICO_Touches_the_Walls "wikilink")
 
 <!-- end list -->
 
@@ -90,8 +81,7 @@ Geass
 <!-- end list -->
 
   -
-    作詞：川要／作曲：Jonas Myrin、Peter
-    Kvint、江上浩太郎／編曲：板垣祐介／歌：[-{zh-cn:化学超男子;zh-tw:化學超男子;zh-hk:CHEMISTRY;}-](../Page/化學超男子.md "wikilink")
+    作詞：川要／作曲：Jonas Myrin、Peter Kvint、江上浩太郎／編曲：板垣祐介／歌：[-{zh-cn:化学超男子;zh-tw:化學超男子;zh-hk:CHEMISTRY;}-](../Page/化學超男子.md "wikilink")
 
 <!-- end list -->
 
@@ -100,8 +90,7 @@ Geass
 <!-- end list -->
 
   -
-    作詞：MAO／作曲：YUYA／編曲：SID &
-    西平彰／歌：[SID](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")
+    作詞：MAO／作曲：YUYA／編曲：SID & 西平彰／歌：[SID](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")
 
 註：第61、63及64話沒有片頭曲。
 
@@ -198,8 +187,7 @@ Geass
 
 ## 角色歌
 
-主題曲系列由搖滾樂隊・煉金(・THE ALCHEMISTS)的雅秀佐久間（佐久間正英）創作，角色（キャラクター）作為嘉賓歌手。
-隨初回限定版附送。（初回限定盤にはジャケットイラストステッカーを封入。）
+主題曲系列由搖滾樂隊・煉金(・THE ALCHEMISTS)的雅秀佐久間（佐久間正英）創作，角色（キャラクター）作為嘉賓歌手。 隨初回限定版附送。（初回限定盤にはジャケットイラストステッカーを封入。）
 
   - 「Theme of Edward Elric by THE ALCHEMISTS」（2009年10月14日、SVWC-7651）
 
@@ -222,8 +210,7 @@ Geass
     歌：阿爾馮斯·愛力克（[釘宮理惠](../Page/釘宮理惠.md "wikilink")）and THE ALCHEMISTS
     :\# 風に抱かれて
     :\# Restore steppin'
-    :\#\* 阿爾溤斯（[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）&
-    愛德華（聲優 - [朴璐美](../Page/朴璐美.md "wikilink")）
+    :\#\* 阿爾溤斯（[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）& 愛德華（聲優 - [朴璐美](../Page/朴璐美.md "wikilink")）
     :\# 風に抱かれて instrumental
     :\# Restore steppin' instrumental
 
@@ -255,8 +242,7 @@ Geass
 
 <!-- end list -->
 
-  - 「Theme of Fullmetal Alchemist by THE
-    ALCHEMISTS」（2010年5月26日、SVWC-7688）
+  - 「Theme of Fullmetal Alchemist by THE ALCHEMISTS」（2010年5月26日、SVWC-7688）
 
 <!-- end list -->
 
@@ -269,8 +255,7 @@ Geass
     2.  紅月
           - 愛德華·愛力克（ [朴璐美](../Page/朴璐美.md "wikilink")）
     3.  風に抱かれて
-          - 阿爾溤斯·愛力克（
-            [釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）
+          - 阿爾溤斯·愛力克（ [釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）
     4.  ナンバー王
           - 姚麟 （[宮野真守](../Page/宮野真守.md "wikilink")）
     5.  空風
@@ -292,8 +277,7 @@ Geass
 
 ## FULLMETAL ALCHEMIST 主題歌 Best Album
 
-  - [鋼之錬金術師 FULLMETAL ALCHEMIST FINAL
-    BEST](../Page/鋼之錬金術師_FULLMETAL_ALCHEMIST_FINAL_BEST.md "wikilink")
+  - [鋼之錬金術師 FULLMETAL ALCHEMIST FINAL BEST](../Page/鋼之錬金術師_FULLMETAL_ALCHEMIST_FINAL_BEST.md "wikilink")
 
 <!-- end list -->
 
@@ -302,8 +286,7 @@ Geass
 
 <!-- end list -->
 
-  - [鋼之鍊金術師 THE
-    BEST](https://zh.wikipedia.org/wiki/鋼の錬金術師_THE_BEST "wikilink")
+  - [鋼之鍊金術師 THE BEST](https://zh.wikipedia.org/wiki/鋼の錬金術師_THE_BEST "wikilink")
 
 <!-- end list -->
 
@@ -337,8 +320,7 @@ Geass
 ### 海外及網路播映
 
   -
-    《FULLMETAL ALCHEMIST BROTHERHOOD》（簡稱「FMA
-    Brotherhood」或「FMA-B」）利用海外頻道和網路擴大同週播出，播放平臺大致如下：
+    《FULLMETAL ALCHEMIST BROTHERHOOD》（簡稱「FMA Brotherhood」或「FMA-B」）利用海外頻道和網路擴大同週播出，播放平臺大致如下：
 
 <table>
 <thead>
@@ -1081,8 +1063,7 @@ Geass
 ### 電視未播放片段
 
   -
-    [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") &
-    [Blu-ray第](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")1、5、9、13卷內收錄的映像特典，附錄外傳作品動畫化。
+    [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") & [Blu-ray第](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")1、5、9、13卷內收錄的映像特典，附錄外傳作品動畫化。
 
 #### 配音員
 
@@ -1677,8 +1658,7 @@ Geass
 
 ## 名稱上的差異
 
-本作海外版副標改為「BROTHERHOOD」，強調主題之一的「兄弟之絆」，並製成英文版與中文版[標識](https://zh.wikipedia.org/wiki/標識 "wikilink")\[14\]\[15\]；如依原有英文對照方式，易與前作「[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")」海外名稱「FULLMETAL
-ALCHEMIST」產生混淆及扞格之處。但在日本國內發行的BD／DVD封面，同前作只標示英文名稱「FULLMETAL ALCHEMIST」。
+本作海外版副標改為「BROTHERHOOD」，強調主題之一的「兄弟之絆」，並製成英文版與中文版[標識](https://zh.wikipedia.org/wiki/標識 "wikilink")\[14\]\[15\]；如依原有英文對照方式，易與前作「[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")」海外名稱「FULLMETAL ALCHEMIST」產生混淆及扞格之處。但在日本國內發行的BD／DVD封面，同前作只標示英文名稱「FULLMETAL ALCHEMIST」。
 
 <table>
 <thead>
@@ -1731,26 +1711,13 @@ ALCHEMIST」產生混淆及扞格之處。但在日本國內發行的BD／DVD封
   - [東方司令部 諜報課](http://tianlang.s35.xrea.com/hagane/index.htm)
   - [鋼之鍊金術師（FUNimation）](http://www.fullmetalalchemist.com)
   - [YouTube - FMA Brotherhood](http://www.youtube.com/fmabrotherhood)
-  - [FULLMETAL ALCHEMIST:
-    Brotherhood（Dybex）](http://www.fma-brotherhood.net)
-  - [鋼之鍊金術師-{}-FA -
-    J2](http://b.tvb.com/j2/c/%E5%8B%95%E7%95%AB/%E9%8B%BC%E4%B9%8B%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%ABfa/)
-    - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")
-    動畫鋼之鍊金術師-{}-FA預告
-  - [鋼之鍊金術師-{}-BROTHERHOOD（Taiwan
-    Animax）](https://web.archive.org/web/20100222022449/http://www.animax-taiwan.com/shows/%E9%8B%BC%E4%B9%8B%E9%8D%8A%E9%87%91%E8%A1%93%E5%B8%ABbrotherhood)
-
+  - [FULLMETAL ALCHEMIST: Brotherhood（Dybex）](http://www.fma-brotherhood.net)
+  - [鋼之鍊金術師-{}-FA - J2](http://b.tvb.com/j2/c/%E5%8B%95%E7%95%AB/%E9%8B%BC%E4%B9%8B%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%ABfa/) - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink") 動畫鋼之鍊金術師-{}-FA預告
+  - [鋼之鍊金術師-{}-BROTHERHOOD（Taiwan Animax）](https://web.archive.org/web/20100222022449/http://www.animax-taiwan.com/shows/%E9%8B%BC%E4%B9%8B%E9%8D%8A%E9%87%91%E8%A1%93%E5%B8%ABbrotherhood)
   - [鋼之鍊金術師-{}-BROTHERHOOD（普威爾）](https://web.archive.org/web/20090805073527/http://www.prowaremedia.com.tw/BH/BH_main.htm)
-
   - [官方網站](http://www.hagaren-movie.net/)
 
-[Category:鋼之鍊金術師](https://zh.wikipedia.org/wiki/Category:鋼之鍊金術師 "wikilink")
-[Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:香港深夜動畫](https://zh.wikipedia.org/wiki/Category:香港深夜動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
+[Category:鋼之鍊金術師](https://zh.wikipedia.org/wiki/Category:鋼之鍊金術師 "wikilink") [Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:香港深夜動畫](https://zh.wikipedia.org/wiki/Category:香港深夜動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
 
 1.
 
@@ -1772,8 +1739,7 @@ ALCHEMIST」產生混淆及扞格之處。但在日本國內發行的BD／DVD封
 11.
 12.
 
-13. [GANGAN
-    ONLINE](http://www.square-enix.com/jp/magazine/ganganonline/comic/hagane/)亦刊載其[FLASH動畫版](../Page/Adobe_Flash.md "wikilink")。
+13. [GANGAN ONLINE](http://www.square-enix.com/jp/magazine/ganganonline/comic/hagane/)亦刊載其[FLASH動畫版](../Page/Adobe_Flash.md "wikilink")。
 
 14.
 15.

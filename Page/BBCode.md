@@ -1,9 +1,4 @@
-**BBCode**是**B**ulletin **B**oard
-**Code**的[縮寫](../Page/縮寫.md "wikilink")，有譯為「**BB代碼**」者，屬於[轻量级标记语言](../Page/轻量级标记语言.md "wikilink")（Lightweight
-Markup
-Language）的一種，如字面上所顯示的，它主要是使用在[BBS](../Page/BBS.md "wikilink")、[論壇](../Page/网络论坛.md "wikilink")、[Blog等](https://zh.wikipedia.org/wiki/Blog "wikilink")[網路應用上](https://zh.wikipedia.org/wiki/網路 "wikilink")。BBCode最初由[**U**ltimate
-**B**ulletin
-**B**oard讨论区系统发展出来](https://zh.wikipedia.org/wiki/Ultimate_Bulletin_Board "wikilink")，因此常见**UBB代码**的称呼。BBCode的[語法通常為](https://zh.wikipedia.org/wiki/語法 "wikilink")**`[標記]`**的形式，即語法左右用兩個[中括號包圍](../Page/括号.md "wikilink")，以作為與正常文字間的區別。系統[解譯時遇上中括弧便知道該處是BBcode](https://zh.wikipedia.org/wiki/解譯 "wikilink")，會在解譯結果輸出到用戶端時轉換成最為通用的[HTML語法](../Page/HTML.md "wikilink")。
+**BBCode**是**B**ulletin **B**oard **Code**的[縮寫](../Page/縮寫.md "wikilink")，有譯為「**BB代碼**」者，屬於[轻量级标记语言](../Page/轻量级标记语言.md "wikilink")（Lightweight Markup Language）的一種，如字面上所顯示的，它主要是使用在[BBS](../Page/BBS.md "wikilink")、[論壇](../Page/网络论坛.md "wikilink")、[Blog等](https://zh.wikipedia.org/wiki/Blog "wikilink")[網路應用上](https://zh.wikipedia.org/wiki/網路 "wikilink")。BBCode最初由[**U**ltimate **B**ulletin **B**oard讨论区系统发展出来](https://zh.wikipedia.org/wiki/Ultimate_Bulletin_Board "wikilink")，因此常见**UBB代码**的称呼。BBCode的[語法通常為](https://zh.wikipedia.org/wiki/語法 "wikilink")**`[標記]`**的形式，即語法左右用兩個[中括號包圍](../Page/括号.md "wikilink")，以作為與正常文字間的區別。系統[解譯時遇上中括弧便知道該處是BBcode](https://zh.wikipedia.org/wiki/解譯 "wikilink")，會在解譯結果輸出到用戶端時轉換成最為通用的[HTML](../Page/HTML.md "wikilink")語法。
 
 ## 目的
 
@@ -14,7 +9,7 @@ BBcode有兩個主要目的：
 <!-- end list -->
 
   -
-    最為通用的[HTML語法雖然已相當簡單易懂](../Page/HTML.md "wikilink")，但仍需要一定時間學習後才能上手，因此BBcode採用更為直覺易學的語法，轉換為HTML的工作則交由系統來代勞。
+    最為通用的[HTML](../Page/HTML.md "wikilink")語法雖然已相當簡單易懂，但仍需要一定時間學習後才能上手，因此BBcode採用更為直覺易學的語法，轉換為HTML的工作則交由系統來代勞。
 
 <!-- end list -->
 

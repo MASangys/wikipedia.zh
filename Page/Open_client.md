@@ -1,11 +1,8 @@
-**Open Client**是一种[Linux版本](../Page/Linux.md "wikilink")。
+**Open Client**是一种[Linux](../Page/Linux.md "wikilink")版本。
 
 ## 描述
 
-是[IBM公司为在Linux系统上运行如](../Page/IBM.md "wikilink")[Lotus
-Notes等软件而在](https://zh.wikipedia.org/wiki/Lotus_Notes "wikilink")[Red
-Hat Enterprise
-Linux基础上开发的操作系统](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
+是[IBM](../Page/IBM.md "wikilink")公司为在Linux系统上运行如[Lotus Notes等软件而在](https://zh.wikipedia.org/wiki/Lotus_Notes "wikilink")[Red Hat Enterprise Linux基础上开发的操作系统](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
 
 ## 特点
 
@@ -27,7 +24,6 @@ Linux基础上开发的操作系统](../Page/Red_Hat_Enterprise_Linux.md "wikili
 
 ## 外部链接
 
-  - [IBM pushes desktop Linux with Open
-    Client](http://www.infoworld.com/article/07/02/12/HNibmlinuxopenclient_1.html)
+  - [IBM pushes desktop Linux with Open Client](http://www.infoworld.com/article/07/02/12/HNibmlinuxopenclient_1.html)
 
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")

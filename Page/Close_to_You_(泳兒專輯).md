@@ -1,9 +1,6 @@
-《**Close To
-You**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[泳兒](../Page/泳兒.md "wikilink")的第三張音樂專輯。本唱片於2007年10月推出，和上次大碟《[花無雪](../Page/花無雪.md "wikilink")》出版相差八個月，主打歌包括無心戀唱、送我一個家、世界請看著我；隨碟加送一張DVD，收錄五首新歌MV及五首舊歌MV。
+《**Close To You**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[泳兒](../Page/泳兒.md "wikilink")的第三張音樂專輯。本唱片於2007年10月推出，和上次大碟《[花無雪](../Page/花無雪.md "wikilink")》出版相差八個月，主打歌包括無心戀唱、送我一個家、世界請看著我；隨碟加送一張DVD，收錄五首新歌MV及五首舊歌MV。
 
-同年12月21日，《Close To You》推出第二版(四碟套裝)，除了有原本的CD及DVD
-MV外，還有[泳兒](../Page/泳兒.md "wikilink")的音樂會《Vincy. Close to
-You 音樂會》2CDs。
+同年12月21日，《Close To You》推出第二版(四碟套裝)，除了有原本的CD及DVD MV外，還有[泳兒](../Page/泳兒.md "wikilink")的音樂會《Vincy. Close to You 音樂會》2CDs。
 
 ## 曲目
 
@@ -41,9 +38,6 @@ You 音樂會》2CDs。
 
 ## 參考文獻
 
-[Category:泳兒音樂專輯](https://zh.wikipedia.org/wiki/Category:泳兒音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:泳兒音樂專輯](https://zh.wikipedia.org/wiki/Category:泳兒音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.

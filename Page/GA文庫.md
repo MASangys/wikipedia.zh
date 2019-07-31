@@ -1,4 +1,4 @@
-**GA文庫**是的[輕小說文庫系列](../Page/輕小說.md "wikilink")。2006年1月創刊。GA文庫官方網站並未說明「GA」是什麼的縮寫；但從廣告詞「超世代Adventure」以及作品募集中的文案\[1\]中推測，「G」為「*Generation*」的縮寫，「A」為「*Adventure*」的縮寫。\[2\]
+**GA文庫**是的[輕小說](../Page/輕小說.md "wikilink")文庫系列。2006年1月創刊。GA文庫官方網站並未說明「GA」是什麼的縮寫；但從廣告詞「超世代Adventure」以及作品募集中的文案\[1\]中推測，「G」為「*Generation*」的縮寫，「A」為「*Adventure*」的縮寫。\[2\]
 
 GA文库出版了相當多原創作品。創刊一年來，主力作品只有《[神曲奏界](../Page/神曲奏界.md "wikilink")》系列是改編作品，直到2007年《[魔塔大陸](https://zh.wikipedia.org/wiki/魔塔大陸 "wikilink")》出版為止。此外它也曾再版其他出版社的作品。2008年2月成立新人賞「[GA文庫大賞](../Page/GA文庫大賞.md "wikilink")」及「GA文庫主題大賞」。
 
@@ -9,14 +9,10 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
   - [下課後防衛隊－戰爭世代](https://zh.wikipedia.org/wiki/下課後防衛隊－戰爭世代 "wikilink")（[柿沼秀樹](https://zh.wikipedia.org/wiki/柿沼秀樹 "wikilink")／[放電映像](../Page/放電映像.md "wikilink")）
   - [高校女僕警察](https://zh.wikipedia.org/wiki/高校女僕警察 "wikilink")（[澤上水也](https://zh.wikipedia.org/wiki/澤上水也 "wikilink")／[西脇ゆぅり](https://zh.wikipedia.org/wiki/西脇ゆぅり "wikilink")）
   - [神曲奏界](../Page/神曲奏界.md "wikilink")
-      - 神曲奏界
-        紅（[榊一郎](../Page/榊一郎.md "wikilink")／[神奈月昇](https://zh.wikipedia.org/wiki/神奈月昇 "wikilink")）
-      - 神曲奏界
-        黑（[大迫純一](../Page/大迫純一.md "wikilink")／[BUNBUN](../Page/BUNBUN.md "wikilink")）
-      - 神曲奏界
-        藍（[築地俊彥](../Page/築地俊彥.md "wikilink")／[兎塚エイジ](https://zh.wikipedia.org/wiki/兎塚エイジ "wikilink")）
-      - 神曲奏界
-        白（[高殿円](https://zh.wikipedia.org/wiki/高殿円 "wikilink")／[きなこひろ](https://zh.wikipedia.org/wiki/きなこひろ "wikilink")）
+      - 神曲奏界 紅（[榊一郎](../Page/榊一郎.md "wikilink")／[神奈月昇](https://zh.wikipedia.org/wiki/神奈月昇 "wikilink")）
+      - 神曲奏界 黑（[大迫純一](../Page/大迫純一.md "wikilink")／[BUNBUN](../Page/BUNBUN.md "wikilink")）
+      - 神曲奏界 藍（[築地俊彥](../Page/築地俊彥.md "wikilink")／[兎塚エイジ](https://zh.wikipedia.org/wiki/兎塚エイジ "wikilink")）
+      - 神曲奏界 白（[高殿円](https://zh.wikipedia.org/wiki/高殿円 "wikilink")／[きなこひろ](https://zh.wikipedia.org/wiki/きなこひろ "wikilink")）
   - [菩提樹莊的闇狩姬─Nachtjager](https://zh.wikipedia.org/wiki/菩提樹莊的闇狩姬─Nachtjager "wikilink")（[涼元悠一](../Page/涼元悠一.md "wikilink")／[一美](../Page/一美.md "wikilink")）
   - [汪汪地獄犬](https://zh.wikipedia.org/wiki/汪汪地獄犬 "wikilink")（[蕪木統文](https://zh.wikipedia.org/wiki/蕪木統文 "wikilink")／[狐印](https://zh.wikipedia.org/wiki/狐印 "wikilink")）
   - [女僕刑事](https://zh.wikipedia.org/wiki/女僕刑事 "wikilink")（[早見裕司](https://zh.wikipedia.org/wiki/早見裕司 "wikilink")／[はいむらきよたか](https://zh.wikipedia.org/wiki/灰村キヨタカ "wikilink")）
@@ -37,8 +33,7 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
   - [農林](../Page/農林.md "wikilink")（[白鳥士郎](../Page/白鳥士郎.md "wikilink")／[切符](../Page/切符.md "wikilink")）
   - [舞星灑落的雷涅席庫爾](https://zh.wikipedia.org/wiki/舞星灑落的雷涅席庫爾 "wikilink")（[裕時悠示](https://zh.wikipedia.org/wiki/裕時悠示 "wikilink")／[たかやKi](https://zh.wikipedia.org/wiki/たかやKi "wikilink")）
   - [你的侍奉只有這種程度嗎?](https://zh.wikipedia.org/wiki/你的侍奉只有這種程度嗎? "wikilink")（[森田季節](../Page/森田季節.md "wikilink")／[尾崎弘宜](https://zh.wikipedia.org/wiki/尾崎弘宜 "wikilink")）
-  - [BOY‧MEETS‧HEART
-    \!](https://zh.wikipedia.org/wiki/BOY‧MEETS‧HEART_! "wikilink")（[鳥羽徹](https://zh.wikipedia.org/wiki/鳥羽徹 "wikilink")／[H2SO4](https://zh.wikipedia.org/wiki/H2SO4 "wikilink")）
+  - [BOY‧MEETS‧HEART \!](https://zh.wikipedia.org/wiki/BOY‧MEETS‧HEART_! "wikilink")（[鳥羽徹](https://zh.wikipedia.org/wiki/鳥羽徹 "wikilink")／[H2SO4](https://zh.wikipedia.org/wiki/H2SO4 "wikilink")）
   - [雙胞胎與青梅竹馬的四人命案](https://zh.wikipedia.org/wiki/雙胞胎與青梅竹馬的四人命案 "wikilink")（[森田陽一](https://zh.wikipedia.org/wiki/森田陽一 "wikilink")／[saitom](https://zh.wikipedia.org/wiki/saitom "wikilink")）
   - [也許是現在進行式的黑歷史](https://zh.wikipedia.org/wiki/也許是現在進行式的黑歷史 "wikilink")（[あわむら赤光](https://zh.wikipedia.org/wiki/あわむら赤光 "wikilink")／[refeia](https://zh.wikipedia.org/wiki/refeia "wikilink")）
   - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")（[海空陸](../Page/海空陸.md "wikilink")／[WON](https://zh.wikipedia.org/wiki/WON "wikilink")）
@@ -57,10 +52,8 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
 
 ### 東立出版社
 
-  - [let's
-    party\!來組隊吧！](https://zh.wikipedia.org/wiki/let's_party!來組隊吧！ "wikilink")（[小金井ゴル](https://zh.wikipedia.org/wiki/小金井ゴル "wikilink")／[鍋島テツヒロ](https://zh.wikipedia.org/wiki/鍋島テツヒロ "wikilink")）
-  - [龍王的工作！](../Page/龍王的工作！.md "wikilink")（[白鳥士郎](../Page/白鳥士郎.md "wikilink")
-    / しらび）
+  - [let's party\!來組隊吧！](https://zh.wikipedia.org/wiki/let's_party!來組隊吧！ "wikilink")（[小金井ゴル](https://zh.wikipedia.org/wiki/小金井ゴル "wikilink")／[鍋島テツヒロ](https://zh.wikipedia.org/wiki/鍋島テツヒロ "wikilink")）
+  - [龍王的工作！](../Page/龍王的工作！.md "wikilink")（[白鳥士郎](../Page/白鳥士郎.md "wikilink") / しらび）
 
 ### 测绘出版社
 
@@ -89,7 +82,5 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
 
 [Category:GA文庫](https://zh.wikipedia.org/wiki/Category:GA文庫 "wikilink")
 
-1.  [GAでライトノベルレーベル刊行決定\!
-    小説&イラストを大募集\!\!](http://ga.sbcr.jp/novel/information/)
-2.  與設立出版社的情報站《[GA
-    Graphic](https://zh.wikipedia.org/wiki/GA_Graphic "wikilink")》中的「GA」意義相同與否，則不明。
+1.  [GAでライトノベルレーベル刊行決定\! 小説&イラストを大募集\!\!](http://ga.sbcr.jp/novel/information/)
+2.  與設立出版社的情報站《[GA Graphic](https://zh.wikipedia.org/wiki/GA_Graphic "wikilink")》中的「GA」意義相同與否，則不明。

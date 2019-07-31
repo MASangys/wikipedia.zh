@@ -1,5 +1,4 @@
-[H h](../Page/H.md "wikilink"),
-是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第8个[字母](../Page/字母.md "wikilink")。
+[H h](../Page/H.md "wikilink"), 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第8个[字母](../Page/字母.md "wikilink")。
 
 除此之外，H还可以指代：
 
@@ -40,8 +39,7 @@
 
 ## 作品
 
-  - [H
-    (电影)](https://zh.wikipedia.org/wiki/H_\(电影\) "wikilink")，一部2002年的[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[电影](../Page/电影.md "wikilink")
+  - [H (电影)](https://zh.wikipedia.org/wiki/H_\(电影\) "wikilink")，一部2002年的[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[电影](../Page/电影.md "wikilink")
 
   -
   - [H (滨崎步单曲)](https://zh.wikipedia.org/wiki/H_\(滨崎步单曲\) "wikilink")
@@ -52,15 +50,13 @@
 
 ## 其他
 
-  - [H
-    (日语)](https://zh.wikipedia.org/wiki/H_\(日语\) "wikilink")，指代[色情](../Page/色情.md "wikilink")或[情色](../Page/情色.md "wikilink")内容，源自
+  - [H (日语)](https://zh.wikipedia.org/wiki/H_\(日语\) "wikilink")，指代[色情](../Page/色情.md "wikilink")或[情色](../Page/情色.md "wikilink")内容，源自
   - [海洛因](../Page/海洛因.md "wikilink")（Heroin）的缩写
   - [单倍群 H](https://zh.wikipedia.org/wiki/单倍群_H "wikilink")
   - [Н](../Page/Н.md "wikilink")，一个[西里尔字母](../Page/西里尔字母.md "wikilink")
   - [Η](https://zh.wikipedia.org/wiki/Η "wikilink")，一個希臘字母
   - 铁路线路：
-      - [H
-        (S-train)](https://zh.wikipedia.org/wiki/H_\(S-train\) "wikilink")，[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[哥本哈根的一条](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")[区域铁路线路](https://zh.wikipedia.org/wiki/区域铁路 "wikilink")
+      - [H (S-train)](https://zh.wikipedia.org/wiki/H_\(S-train\) "wikilink")，[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[哥本哈根的一条](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")[区域铁路线路](https://zh.wikipedia.org/wiki/区域铁路 "wikilink")
       - H，一条[紐約地鐵洛克威公園接駁線](https://zh.wikipedia.org/wiki/紐約地鐵洛克威公園接駁線 "wikilink")
   - H，[日立公司移动电话](https://zh.wikipedia.org/wiki/日立 "wikilink")
   - [桥牌的叫牌过程中](https://zh.wikipedia.org/wiki/桥牌 "wikilink")，H表示[红心](https://zh.wikipedia.org/wiki/红心 "wikilink")（Heart），如“2红心”记作“2H”
@@ -73,16 +69,4 @@
   - h，军事上[直升机的代号](https://zh.wikipedia.org/wiki/直升机 "wikilink")，如[AH-64阿帕奇](https://zh.wikipedia.org/wiki/AH-64阿帕奇 "wikilink")
   - Ⓗ，[直升机停机坪的标志是中间英文字母H外面一个圆圈](https://zh.wikipedia.org/wiki/直升机 "wikilink")，意指Helicopter
 
-[ca:H\#Significats de
-H](https://zh.wikipedia.org/wiki/ca:H#Significats_de_H "wikilink")
-[fi:H\#H-kirjaimen
-merkityksiä](https://zh.wikipedia.org/wiki/fi:H#H-kirjaimen_merkityksiä "wikilink")
-[he:H\#משמעויות נוספות של האות
-H](https://zh.wikipedia.org/wiki/he:H#משמעויות_נוספות_של_האות_H "wikilink")
-[hu:H\#Jelentései](https://zh.wikipedia.org/wiki/hu:H#Jelentései "wikilink")
-[ja:H\#Hの意味](https://zh.wikipedia.org/wiki/ja:H#Hの意味 "wikilink")
-[la:H\#Abbreviationes](https://zh.wikipedia.org/wiki/la:H#Abbreviationes "wikilink")
-[nn:H\#Bruk](https://zh.wikipedia.org/wiki/nn:H#Bruk "wikilink")
-[simple:H\#Meanings for
-H](https://zh.wikipedia.org/wiki/simple:H#Meanings_for_H "wikilink")
-[sv:H\#Betydelser](https://zh.wikipedia.org/wiki/sv:H#Betydelser "wikilink")
+[ca:H\#Significats de H](https://zh.wikipedia.org/wiki/ca:H#Significats_de_H "wikilink") [fi:H\#H-kirjaimen merkityksiä](https://zh.wikipedia.org/wiki/fi:H#H-kirjaimen_merkityksiä "wikilink") [he:H\#משמעויות נוספות של האות H](https://zh.wikipedia.org/wiki/he:H#משמעויות_נוספות_של_האות_H "wikilink") [hu:H\#Jelentései](https://zh.wikipedia.org/wiki/hu:H#Jelentései "wikilink") [ja:H\#Hの意味](https://zh.wikipedia.org/wiki/ja:H#Hの意味 "wikilink") [la:H\#Abbreviationes](https://zh.wikipedia.org/wiki/la:H#Abbreviationes "wikilink") [nn:H\#Bruk](https://zh.wikipedia.org/wiki/nn:H#Bruk "wikilink") [simple:H\#Meanings for H](https://zh.wikipedia.org/wiki/simple:H#Meanings_for_H "wikilink") [sv:H\#Betydelser](https://zh.wikipedia.org/wiki/sv:H#Betydelser "wikilink")

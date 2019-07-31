@@ -1,125 +1,72 @@
-| 音樂類型 =
-[K-pop](../Page/韓國流行音樂.md "wikilink")、[J-pop](../Page/日本流行音樂.md "wikilink")、[Hip-Hop](../Page/嘻哈.md "wikilink")、[Electronica](https://zh.wikipedia.org/wiki/Electronica "wikilink")
-| 出身地 = （少女時代）
-（個人） | 出道作 =
-[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：《[Into
-The New World](../Page/再次重逢的世界.md "wikilink")》
-個人： 《[With Love, J](../Page/With_Love,_J.md "wikilink")》 | 出道日期 =
-[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：
-個人： | 活躍年代 = 2007年至今 | 唱片公司 =
-[SM娛樂](../Page/SM娛樂.md "wikilink")（2007年至2015年）
-[Coridel娛樂](../Page/Coridel娛樂.md "wikilink")（2016年至今） | 經紀公司 =  -
-[SM娛樂](../Page/SM娛樂.md "wikilink")（2007年至2015年）
-\- [Coridel娛樂](../Page/Coridel娛樂.md "wikilink")（2016年至今）
-\- （2018年5月至今） | 獎項 = | 網站 =
-[鄭秀妍官方網站](http://coridelent.com/artist/jessica/) | 相關團體 =
-[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（2007年至2014年9月）
+| 音樂類型 = [K-pop](../Page/韓國流行音樂.md "wikilink")、[J-pop](../Page/日本流行音樂.md "wikilink")、[Hip-Hop](../Page/嘻哈.md "wikilink")、[Electronica](https://zh.wikipedia.org/wiki/Electronica "wikilink") | 出身地 = （少女時代）
+（個人） | 出道作 = [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：《[Into The New World](../Page/再次重逢的世界.md "wikilink")》
+個人： 《[With Love, J](../Page/With_Love,_J.md "wikilink")》 | 出道日期 = [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：
+個人： | 活躍年代 = 2007年至今 | 唱片公司 = [SM娛樂](../Page/SM娛樂.md "wikilink")（2007年至2015年）
+[Coridel娛樂](../Page/Coridel娛樂.md "wikilink")（2016年至今） | 經紀公司 =  - [SM娛樂](../Page/SM娛樂.md "wikilink")（2007年至2015年）
+ - [Coridel娛樂](../Page/Coridel娛樂.md "wikilink")（2016年至今）
+\- （2018年5月至今） | 獎項 = | 網站 = [鄭秀妍官方網站](http://coridelent.com/artist/jessica/) | 相關團體 = [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（2007年至2014年9月）
 BLANC\&ECLARE（2014年至今）
-[SM Town](../Page/SM_Town.md "wikilink")（2007年至2015年） | IMDb = 4227335 |
-module =  | module2 =  }}
-**鄭秀妍**（，），本名**潔-{西卡}-·秀妍·鄭**（），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[設計師](https://zh.wikipedia.org/wiki/設計師 "wikilink")
-\[1\]，曾為韓國女子組合[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。創立品牌「BLANC
-&
-ECLARE」，為其[總裁兼](https://zh.wikipedia.org/wiki/總裁 "wikilink")[創意總監](https://zh.wikipedia.org/wiki/創意總監 "wikilink")。2000年前往韓國旅遊時被[SM娛樂](../Page/SM娛樂.md "wikilink")公司發掘，其後進入該公司當練習生。2007年以女子組合少女時代出道，隊內擔任第二主唱，為少女時代成員中訓練時間最長的成員，長達七年零六個月。2014年8月創立品牌BLANC\&ECLARE。2014年9月30日潔西卡在個人微博上宣布被公司通知退出少女時代，成為已離團成員。2015年8月6日，潔西卡正式與SM娛樂公司解除合約並離開公司。
+[SM Town](../Page/SM_Town.md "wikilink")（2007年至2015年） | IMDb = 4227335 | module =  | module2 =  }} **鄭秀妍**（，），本名**潔-{西卡}-·秀妍·鄭**（），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[設計師](https://zh.wikipedia.org/wiki/設計師 "wikilink") \[1\]，曾為韓國女子組合[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。創立品牌「BLANC & ECLARE」，為其[總裁兼](https://zh.wikipedia.org/wiki/總裁 "wikilink")[創意總監](https://zh.wikipedia.org/wiki/創意總監 "wikilink")。2000年前往韓國旅遊時被[SM娛樂](../Page/SM娛樂.md "wikilink")公司發掘，其後進入該公司當練習生。2007年以女子組合少女時代出道，隊內擔任第二主唱，為少女時代成員中訓練時間最長的成員，長達七年零六個月。2014年8月創立品牌BLANC\&ECLARE。2014年9月30日潔西卡在個人微博上宣布被公司通知退出少女時代，成為已離團成員。2015年8月6日，潔西卡正式與SM娛樂公司解除合約並離開公司。
 
-2016年2月29日與[Coridel娛樂](../Page/Coridel娛樂.md "wikilink")簽約，宣布復出韓國歌壇。2016年5月16日發行首張迷你專輯《With
-Love, J》\[2\]。2016年6月14日，官方粉絲名確定為「Golden
-Stars」，意指潔西卡的粉絲在她艱苦歲月裏像璀璨的星光陪伴着她並為她閃耀\[3\]。2016年12月10日發行第二張迷你專輯《WONDERLAND》。2017年8月9日發行第三張迷你專輯《My
-Decade》，以紀念出道十週年。應援物為星形應援手燈。
+2016年2月29日與[Coridel娛樂](../Page/Coridel娛樂.md "wikilink")簽約，宣布復出韓國歌壇。2016年5月16日發行首張迷你專輯《With Love, J》\[2\]。2016年6月14日，官方粉絲名確定為「Golden Stars」，意指潔西卡的粉絲在她艱苦歲月裏像璀璨的星光陪伴着她並為她閃耀\[3\]。2016年12月10日發行第二張迷你專輯《WONDERLAND》。2017年8月9日發行第三張迷你專輯《My Decade》，以紀念出道十週年。應援物為星形應援手燈。
 
 2018年5月8日，與美國最大的經紀公司簽訂專屬合約。潔西卡的親妹妹為韩国女子組合[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")。另外，與韓國女演員[朴敏英是認識超過](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")10年的好友。
 
 ## 姓名
 
-**潔-{西卡}-·鄭**（-{Jessica}-
-Jung）\[4\]為她出生於[美國時父母替她取的本名](https://zh.wikipedia.org/wiki/美國 "wikilink")，韓國名字為**鄭秀妍**（），在2017年[台灣演唱會上其公佈本名不是鄭秀妍](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[5\]，而是**潔西卡·鄭**，並以本名**-{Jessica}-**（**潔-{西卡}-**）作為藝名出道。
+**潔-{西卡}-·鄭**（-{Jessica}- Jung）\[4\]為她出生於[美國時父母替她取的本名](https://zh.wikipedia.org/wiki/美國 "wikilink")，韓國名字為**鄭秀妍**（），在2017年[台灣演唱會上其公佈本名不是鄭秀妍](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[5\]，而是**潔西卡·鄭**，並以本名**-{Jessica}-**（**潔-{西卡}-**）作為藝名出道。
 
 ## 經歷
 
 ### 早期生涯
 
-潔西卡出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，曾透露與[Tiffany生於同一家醫院](../Page/Tiffany_\(少女時代\).md "wikilink")，父親是一名拳擊選手，母親是一名體操運動員，幼年時期在舊金山成長，能說一口流利英語和韓語。在還未被[SM
-Entertainment公司選拔為練習生前一直待在舊金山市就讀當地的中小學](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，被選拔為練習生後前往[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並且轉學到位於[首爾市當地的](https://zh.wikipedia.org/wiki/首爾市 "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")。
+潔西卡出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，曾透露與[Tiffany生於同一家醫院](../Page/Tiffany_\(少女時代\).md "wikilink")，父親是一名拳擊選手，母親是一名體操運動員，幼年時期在舊金山成長，能說一口流利英語和韓語。在還未被[SM Entertainment公司選拔為練習生前一直待在舊金山市就讀當地的中小學](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，被選拔為練習生後前往[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並且轉學到位於[首爾市當地的](https://zh.wikipedia.org/wiki/首爾市 "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")。
 
-2000年，年僅11歲的潔西卡跟著家人一起前往韓國旅遊。她跟妹妹鄭秀晶([Krystal](../Page/鄭秀晶.md "wikilink"))在當地樂天百貨購物廣場逛街時，意外的被在旁的[SM
-Entertainment公司星探所發掘](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，並且邀請姊妹倆一起進入公司當練習生\[6\]。經過七年零六個月的練習生時期，在2007年8月5日以女子組合少女時代出道，是[少女時代裡訓練時間最久的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
+2000年，年僅11歲的潔西卡跟著家人一起前往韓國旅遊。她跟妹妹鄭秀晶([Krystal](../Page/鄭秀晶.md "wikilink"))在當地樂天百貨購物廣場逛街時，意外的被在旁的[SM Entertainment公司星探所發掘](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，並且邀請姊妹倆一起進入公司當練習生\[6\]。經過七年零六個月的練習生時期，在2007年8月5日以女子組合少女時代出道，是[少女時代裡訓練時間最久的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
 
 ### 個人歌唱生涯
 
 #### 2007年-2014年：少女時代時期
 
-[Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg](https://zh.wikipedia.org/wiki/File:Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg "fig:Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg")
-潔西卡於2007年8月5日在SBS《人氣歌謠》以《[Into The New
-World](https://zh.wikipedia.org/wiki/閃亮新世界 "wikilink")》一曲正式出道。
+[Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg](https://zh.wikipedia.org/wiki/File:Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg "fig:Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg") 潔西卡於2007年8月5日在SBS《人氣歌謠》以《[Into The New World](https://zh.wikipedia.org/wiki/閃亮新世界 "wikilink")》一曲正式出道。
 
-2008年1月8日，潔西卡跟同為少女時代成員的[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon](../Page/Nexon.md "wikilink")公司的網路線上遊戲「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠
-나빠 ）》為遊戲的插入曲；另一首《太神奇了（It's
-Fantastic\!）》則為此遊戲的主題曲\[7\]。2008年3月3日，潔西卡獲邀在團體[8Eight](../Page/8Eight.md "wikilink")的歌曲《我愛你（I
-Love
-You）》中獻唱，潔西卡雖沒有在此曲的MV影片中演出，她卻是在幕後擔任合聲，此曲最後被收錄在[8Eight](../Page/8Eight.md "wikilink")第二張專輯「Infinity」內。
+2008年1月8日，潔西卡跟同為少女時代成員的[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon](../Page/Nexon.md "wikilink")公司的網路線上遊戲「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠 나빠 ）》為遊戲的插入曲；另一首《太神奇了（It's Fantastic\!）》則為此遊戲的主題曲\[7\]。2008年3月3日，潔西卡獲邀在團體[8Eight](../Page/8Eight.md "wikilink")的歌曲《我愛你（I Love You）》中獻唱，潔西卡雖沒有在此曲的MV影片中演出，她卻是在幕後擔任合聲，此曲最後被收錄在[8Eight](../Page/8Eight.md "wikilink")第二張專輯「Infinity」內。
 
-2009年7月11日，潔西卡參與MBC《無限挑戰》的《奧林匹克歌謠祭》，與朴明洙合唱歌曲〈冷麵〉，並在多個音源排行榜獲得一位，當時在音源排行榜上甚至壓過《[說出你的願望（Genie）](https://zh.wikipedia.org/wiki/Genie "wikilink")》，因此獲得了「Team
-kill
-sica」的稱號。2009年12月12日，潔西卡亦與同為少女時代成員的[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[秀英及](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")[徐玄與男子組合](../Page/徐朱玄.md "wikilink")[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[晟敏](../Page/晟敏.md "wikilink")、[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")、[厲旭](../Page/厲旭.md "wikilink")及[圭賢](../Page/圭賢.md "wikilink")合唱韓國觀光宣傳歌曲《首爾頌》（S.E.O.U.L.）\[8\]。
+2009年7月11日，潔西卡參與MBC《無限挑戰》的《奧林匹克歌謠祭》，與朴明洙合唱歌曲〈冷麵〉，並在多個音源排行榜獲得一位，當時在音源排行榜上甚至壓過《[說出你的願望（Genie）](https://zh.wikipedia.org/wiki/Genie "wikilink")》，因此獲得了「Team kill sica」的稱號。2009年12月12日，潔西卡亦與同為少女時代成員的[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[秀英及](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")[徐玄與男子組合](../Page/徐朱玄.md "wikilink")[Super Junior成員](../Page/Super_Junior.md "wikilink")[晟敏](../Page/晟敏.md "wikilink")、[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")、[厲旭](../Page/厲旭.md "wikilink")及[圭賢](../Page/圭賢.md "wikilink")合唱韓國觀光宣傳歌曲《首爾頌》（S.E.O.U.L.）\[8\]。
 
-2010年5月2日，潔西卡與太妍、珊妮、蒂芬妮、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[潤娥及徐玄聯同男子組合](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")[2PM合唱](https://zh.wikipedia.org/wiki/2PM "wikilink")[加勒比海灣](https://zh.wikipedia.org/wiki/加勒比海灣 "wikilink")（韓國水上樂園）的廣告歌曲《Cabi》\[9\]\[10\]。同年10月13日，潔西卡發布了數位單曲《甜蜜快樂（Sweet
-Delight）》，此曲為潔西卡獨挑大樑首次獨唱的歌曲。
+2010年5月2日，潔西卡與太妍、珊妮、蒂芬妮、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[潤娥及徐玄聯同男子組合](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")[2PM合唱](https://zh.wikipedia.org/wiki/2PM "wikilink")[加勒比海灣](https://zh.wikipedia.org/wiki/加勒比海灣 "wikilink")（韓國水上樂園）的廣告歌曲《Cabi》\[9\]\[10\]。同年10月13日，潔西卡發布了數位單曲《甜蜜快樂（Sweet Delight）》，此曲為潔西卡獨挑大樑首次獨唱的歌曲。
 
-2011年5月18日，潔西卡為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[浪漫小鎮](../Page/浪漫小鎮.md "wikilink")》主唱劇中的插入歌《淚水溢流（눈물이
-넘쳐서）》，甚至被網友票選為OST超過戲劇人氣的代表之一。
+2011年5月18日，潔西卡為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[浪漫小鎮](../Page/浪漫小鎮.md "wikilink")》主唱劇中的插入歌《淚水溢流（눈물이 넘쳐서）》，甚至被網友票選為OST超過戲劇人氣的代表之一。
 
-2012年1月19日，潔西卡與為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》合唱插入曲《怎能（어쩜）》。同年8月15日，潔西卡與妹妹[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")[Krystal為](../Page/鄭秀晶.md "wikilink")[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[致美麗的你](https://zh.wikipedia.org/wiki/致美麗的你 "wikilink")》合唱插入曲《Butterfly》。9月14日，潔西卡為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[大王之夢](../Page/大王之夢.md "wikilink")》演唱插入曲《心路》。10月14日，潔西卡與同為少女時代成員的[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、f(x)成員兼妹妹Krystal及前[EXO](../Page/EXO.md "wikilink")成員[Kris為](../Page/吳亦凡.md "wikilink")[BoA主演電影](../Page/寶兒.md "wikilink")《[Make
-Your Move 3D](https://zh.wikipedia.org/wiki/斗舞幫 "wikilink")》合唱插入曲《Say
-Yes》。10月18日，潔西卡代言PYL汽車廣告並演唱廣告曲《My Lifestyle》。
+2012年1月19日，潔西卡與為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》合唱插入曲《怎能（어쩜）》。同年8月15日，潔西卡與妹妹[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")[Krystal為](../Page/鄭秀晶.md "wikilink")[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[致美麗的你](https://zh.wikipedia.org/wiki/致美麗的你 "wikilink")》合唱插入曲《Butterfly》。9月14日，潔西卡為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[大王之夢](../Page/大王之夢.md "wikilink")》演唱插入曲《心路》。10月14日，潔西卡與同為少女時代成員的[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、f(x)成員兼妹妹Krystal及前[EXO](../Page/EXO.md "wikilink")成員[Kris為](../Page/吳亦凡.md "wikilink")[BoA主演電影](../Page/寶兒.md "wikilink")《[Make Your Move 3D](https://zh.wikipedia.org/wiki/斗舞幫 "wikilink")》合唱插入曲《Say Yes》。10月18日，潔西卡代言PYL汽車廣告並演唱廣告曲《My Lifestyle》。
 
-2013年7月2日，潔西卡為[tvN連續劇](https://zh.wikipedia.org/wiki/tvN "wikilink")《[戀愛操作團：大鼻子情聖](../Page/戀愛操作團：大鼻子情聖.md "wikilink")》演唱插入曲《The
-One Like You》。
+2013年7月2日，潔西卡為[tvN連續劇](https://zh.wikipedia.org/wiki/tvN "wikilink")《[戀愛操作團：大鼻子情聖](../Page/戀愛操作團：大鼻子情聖.md "wikilink")》演唱插入曲《The One Like You》。
 
 #### 2014年至今：Solo時期
 
-[Jessica_Jung_at_Incheon_Airport_on_April_23,_2015_02.jpg](https://zh.wikipedia.org/wiki/File:Jessica_Jung_at_Incheon_Airport_on_April_23,_2015_02.jpg "fig:Jessica_Jung_at_Incheon_Airport_on_April_23,_2015_02.jpg")與公眾見面\]\]
-2014年9月30日，潔西卡於個人[新浪微博](../Page/新浪微博.md "wikilink")發文表示，因收到公司的通知，由即日起不再是少女時代的成員，退出少女時代。
+[Jessica_Jung_at_Incheon_Airport_on_April_23,_2015_02.jpg](https://zh.wikipedia.org/wiki/File:Jessica_Jung_at_Incheon_Airport_on_April_23,_2015_02.jpg "fig:Jessica_Jung_at_Incheon_Airport_on_April_23,_2015_02.jpg")與公眾見面\]\] 2014年9月30日，潔西卡於個人[新浪微博](../Page/新浪微博.md "wikilink")發文表示，因收到公司的通知，由即日起不再是少女時代的成員，退出少女時代。
 
 2015年8月6日，潔西卡與[SM娛樂](../Page/SM娛樂.md "wikilink")解除合約關係並離開[SM娛樂](../Page/SM娛樂.md "wikilink")。
 
-2016年2月29日，潔西卡與[Coridel娛樂](../Page/Coridel娛樂.md "wikilink")簽約重新復出韓國歌壇。\[11\]2016年5月9日，經紀公司方面公開了潔西卡首張迷你專輯《With
-Love，J》的封面照片，並於17日正式發行。\[12\]專輯當中總共收錄六首歌曲，其中有四首由Jessica創作。主打歌《Fly》的內容描寫了勇敢做夢，所有的事情都能夠完成的希望。《LOVE
-ME THE SAME》也是 Jessica
-親自參與詞曲創作的作品，內容含有「隨著時間的流逝，就算不再華麗，你是否也會像現在一樣愛我」的意義。2016年6月1日，舉行了個人的粉絲見面會「-{Jessica}-
-Fan Meeting 2016 Asia Tour In
-Seoul」\[13\]。2016年11月30日Coridel娛樂透露潔西卡將發行迷你專輯《WONDERLAND》\[14\]。12月4日Coridel娛樂在[Youtube公佈潔西卡新曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")《WONDERLAND》預告片，並於2016年12月10日發行等二張迷你專輯《WONDERLAND》專輯當中總共收錄六首歌曲，其中有四首由Jessica創作。
+2016年2月29日，潔西卡與[Coridel娛樂](../Page/Coridel娛樂.md "wikilink")簽約重新復出韓國歌壇。\[11\]2016年5月9日，經紀公司方面公開了潔西卡首張迷你專輯《With Love，J》的封面照片，並於17日正式發行。\[12\]專輯當中總共收錄六首歌曲，其中有四首由Jessica創作。主打歌《Fly》的內容描寫了勇敢做夢，所有的事情都能夠完成的希望。《LOVE ME THE SAME》也是 Jessica 親自參與詞曲創作的作品，內容含有「隨著時間的流逝，就算不再華麗，你是否也會像現在一樣愛我」的意義。2016年6月1日，舉行了個人的粉絲見面會「-{Jessica}- Fan Meeting 2016 Asia Tour In Seoul」\[13\]。2016年11月30日Coridel娛樂透露潔西卡將發行迷你專輯《WONDERLAND》\[14\]。12月4日Coridel娛樂在[Youtube公佈潔西卡新曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")《WONDERLAND》預告片，並於2016年12月10日發行等二張迷你專輯《WONDERLAND》專輯當中總共收錄六首歌曲，其中有四首由Jessica創作。
 
 ### 演藝生涯
 
-2009年11月14日，潔西卡首次出演了音樂劇，在音樂劇《》中擔任劇中的主角（Elle
-Woods），跟其他老牌韓國演員[李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")、一起同台演出\[15\]\[16\]。
+2009年11月14日，潔西卡首次出演了音樂劇，在音樂劇《》中擔任劇中的主角（Elle Woods），跟其他老牌韓國演員[李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")、一起同台演出\[15\]\[16\]。
 
-2010年3月22日，潔西卡與同為少女時代成員的[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[秀英三人客串演出](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Oh\!
-My Lady
-愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》，該劇的演員還有[蔡琳](../Page/蔡琳.md "wikilink")、及[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")\[17\]。同年4月19日，潔西卡在[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Oh\!
-My Lady
-愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》中客串演出\[18\]。而後又與同為少女時代成員的[珊妮一起為](https://zh.wikipedia.org/wiki/李純揆 "wikilink")[MBC日日情景喜劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[泰熙慧喬智賢](../Page/泰熙慧喬智賢.md "wikilink")》中客串演出，飾演[SHINee](../Page/SHINee.md "wikilink")成員[泰民劇中的英文補習老師潔西卡](https://zh.wikipedia.org/wiki/李泰民 "wikilink")。
+2010年3月22日，潔西卡與同為少女時代成員的[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[秀英三人客串演出](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Oh\! My Lady 愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》，該劇的演員還有[蔡琳](../Page/蔡琳.md "wikilink")、及[Super Junior成員](../Page/Super_Junior.md "wikilink")[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")\[17\]。同年4月19日，潔西卡在[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Oh\! My Lady 愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》中客串演出\[18\]。而後又與同為少女時代成員的[珊妮一起為](https://zh.wikipedia.org/wiki/李純揆 "wikilink")[MBC日日情景喜劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[泰熙慧喬智賢](../Page/泰熙慧喬智賢.md "wikilink")》中客串演出，飾演[SHINee](../Page/SHINee.md "wikilink")成員[泰民劇中的英文補習老師潔西卡](https://zh.wikipedia.org/wiki/李泰民 "wikilink")。
 
-2010年5月10日潔西卡在[KBS綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《Happy
-Birthday》中擔任固定來賓，一直到2010年6月7日潔西卡因日趨忙碌於[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[日本](../Page/日本.md "wikilink")出道行程才正式離開該節目\[19\]。
+2010年5月10日潔西卡在[KBS綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《Happy Birthday》中擔任固定來賓，一直到2010年6月7日潔西卡因日趨忙碌於[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[日本](../Page/日本.md "wikilink")出道行程才正式離開該節目\[19\]。
 
 2012年1月4日，潔西卡更在[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》中擔任劇中的第二女主角姜鐘煕，飾演劇中男主角朴茂烈難以忘懷的初戀情人\[20\]。同年11月28日，潔西卡再次演出音樂劇《金髮尤物》。
 
 ### 個人事業
 
-2014年8月6日，潔西卡在微博上宣布自己的專屬墨鏡品牌「BLANC」即將上市\[21\]。9月6日，潔西卡與[李寧牌運動服飾合作](../Page/李宁有限公司.md "wikilink")，推出一系列「LI-NING
-X
-Jessica」設計商品，並在廣州舉行粉絲見面會，其妹妹Krystal以特別嘉賓出席該活動。10月6日，潔西卡專屬墨鏡品牌「BLANC」公布變更品牌名稱為「BLANC
-& ECLARE」，潔西卡表示：「雖然ECLARE較預期早了推出，但我對於能把BLANC &
-ECLARE帶到另一層次感到很驕傲。同時，隨著這個品牌獲得大家的熱列支持，我向大家保證，我們會保持謙虛的態度，努力不斷地尋求多方面的發展和創新。」\[22\]。
+2014年8月6日，潔西卡在微博上宣布自己的專屬墨鏡品牌「BLANC」即將上市\[21\]。9月6日，潔西卡與[李寧牌運動服飾合作](../Page/李宁有限公司.md "wikilink")，推出一系列「LI-NING X Jessica」設計商品，並在廣州舉行粉絲見面會，其妹妹Krystal以特別嘉賓出席該活動。10月6日，潔西卡專屬墨鏡品牌「BLANC」公布變更品牌名稱為「BLANC & ECLARE」，潔西卡表示：「雖然ECLARE較預期早了推出，但我對於能把BLANC & ECLARE帶到另一層次感到很驕傲。同時，隨著這個品牌獲得大家的熱列支持，我向大家保證，我們會保持謙虛的態度，努力不斷地尋求多方面的發展和創新。」\[22\]。
 
-2014年10月15日，與國際慈善團體HELP FOR CHILDREN合作推出「BLANC & ECLARE LOVES
-GIVING」活動。12月3日，個人品牌推出圍巾系列。「BLANC & ECLARE」的總部將於2015年搬遷到美國紐約。
+2014年10月15日，與國際慈善團體HELP FOR CHILDREN合作推出「BLANC & ECLARE LOVES GIVING」活動。12月3日，個人品牌推出圍巾系列。「BLANC & ECLARE」的總部將於2015年搬遷到美國紐約。
 
-2016年11月25日，「BLANC &
-ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[曼克頓](https://zh.wikipedia.org/wiki/曼克頓 "wikilink")[SoHo區開幕](https://zh.wikipedia.org/wiki/紐約蘇荷區 "wikilink")，並於12月1日舉行開幕派對，潔西卡本人與妹妹Krystal亦有出席。
+2016年11月25日，「BLANC & ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[曼克頓](https://zh.wikipedia.org/wiki/曼克頓 "wikilink")[SoHo區開幕](https://zh.wikipedia.org/wiki/紐約蘇荷區 "wikilink")，並於12月1日舉行開幕派對，潔西卡本人與妹妹Krystal亦有出席。
 
 2018年9月23日，與[迪麗熱巴代表亞洲參加米蘭時裝節](https://zh.wikipedia.org/wiki/迪丽热巴 "wikilink")。
 
@@ -514,21 +461,15 @@ ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 
 ### 專屬節目
 
-  - 2014年 [-{On
-    Style}-](https://zh.wikipedia.org/wiki/On_Style "wikilink")《[Jessica
-    &
-    Krystal](../Page/Jessica_&_Krystal.md "wikilink")》與[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[鄭秀晶](../Page/鄭秀晶.md "wikilink")演出（2014年6月3日－8月5日）
+  - 2014年 [-{On Style}-](https://zh.wikipedia.org/wiki/On_Style "wikilink")《[Jessica & Krystal](../Page/Jessica_&_Krystal.md "wikilink")》與[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[鄭秀晶](../Page/鄭秀晶.md "wikilink")演出（2014年6月3日－8月5日）
 
 ### 節目主持
 
-  - 2016年 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《Beauty
-    Bible 2016
-    S/S》與[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")[金栽經](../Page/金栽經.md "wikilink")共同主持（2016年4月15日－2016年7月1日）
+  - 2016年 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《Beauty Bible 2016 S/S》與[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")[金栽經](../Page/金栽經.md "wikilink")共同主持（2016年4月15日－2016年7月1日）
 
 ### 固定节目
 
-  - 2010年 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《Happy
-    Birthday》（2010年5月10日—2010年6月7日）
+  - 2010年 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《Happy Birthday》（2010年5月10日—2010年6月7日）
 
 ### 综艺节目
 
@@ -594,8 +535,7 @@ ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 
 **註：以前團體身分代言的部分詳見[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**
 
-  - 2011年 《DIOR化妝品
-    SNOW系》（與[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")）
+  - 2011年 《DIOR化妝品 SNOW系》（與[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")）
   - 2012年 《Coming Step女裝》
   - 2012年 《PYL現代i30汽車》
   - 2012年 《Banila CO.護膚品》
@@ -947,96 +887,46 @@ ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 
   -
 
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
-[Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink")
-[Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:美國舞者](https://zh.wikipedia.org/wiki/Category:美國舞者 "wikilink")
-[Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink")
-[Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink")
-[Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink")
-[Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink")
-[Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink")
-[Category:舊金山人](https://zh.wikipedia.org/wiki/Category:舊金山人 "wikilink")
-[Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink")
-[Category:鄭姓](https://zh.wikipedia.org/wiki/Category:鄭姓 "wikilink")
+[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink") [Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:美國舞者](https://zh.wikipedia.org/wiki/Category:美國舞者 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink") [Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink") [Category:舊金山人](https://zh.wikipedia.org/wiki/Category:舊金山人 "wikilink") [Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink") [Category:鄭姓](https://zh.wikipedia.org/wiki/Category:鄭姓 "wikilink")
 
 1.  \[<http://dispatch.net.cn/detail.php?id=2145“其实我本名，不是郑秀妍>”（Jessica）dispatch
 
-2.  [消除外界對離團的負面看法！Jessica《FLY》
-    首張個人專輯大獲成功！同時在全無打歌情況下獲得第三名](http://www.vlovekpop.com/20160519-jessica-2/)
-    vlovekpop
+2.  [消除外界對離團的負面看法！Jessica《FLY》 首張個人專輯大獲成功！同時在全無打歌情況下獲得第三名](http://www.vlovekpop.com/20160519-jessica-2/) vlovekpop
 
-3.  [제시카 공식 팬클럽 명칭 확정
-    안내](http://coridelent.com/notice/?uid=159&mod=document)
+3.  [제시카 공식 팬클럽 명칭 확정 안내](http://coridelent.com/notice/?uid=159&mod=document)
 
 4.
 5.  [Jessica隱藏10年公佈！　「我的本名其實不是鄭秀妍」](http://star.ettoday.net/news/977508?t=Jessica%E9%9A%B1%E8%97%8F10%E5%B9%B4%E5%85%AC%E4%BD%88%EF%BC%81%E3%80%80%E3%80%8C%E6%88%91%E7%9A%84%E6%9C%AC%E5%90%8D%E5%85%B6%E5%AF%A6%E4%B8%8D%E6%98%AF%E9%84%AD%E7%A7%80%E5%A6%8D%E3%80%8D)
 
-6.   Chosun.com: [제시카, "관객 앞에서의 제 목소리에
-    감동했어요"](http://choen.chosun.com/site/data/html_dir/2009/02/18/2009021800465.html),
-    February 18, 2009
+6.   Chosun.com: [제시카, "관객 앞에서의 제 목소리에 감동했어요"](http://choen.chosun.com/site/data/html_dir/2009/02/18/2009021800465.html), February 18, 2009
 
-7.   [소녀시대 티파니 제시카 서현 게임 주제가 신곡 발표 (*Girls' Generation's
-    Tiffany/Jessica/Seohyun Announce Game Theme Song as New
-    Single*)](http://isplus.joins.com/article/article.html?aid=985744).
-    *IS Plus*/*Newsen*. August 1, 2008. Retrieved May 4, 2010.
+7.   [소녀시대 티파니 제시카 서현 게임 주제가 신곡 발표 (*Girls' Generation's Tiffany/Jessica/Seohyun Announce Game Theme Song as New Single*)](http://isplus.joins.com/article/article.html?aid=985744). *IS Plus*/*Newsen*. August 1, 2008. Retrieved May 4, 2010.
 
-8.
-    [少女時代.&.Super.Junior.-.Seoul.Song](http://www.youtube.com/watch?v=TeZCK5WqsDE),
-    youtube.com. December 12, 2009. Retrieved October 5, 2012.
+8.   [少女時代.&.Super.Junior.-.Seoul.Song](http://www.youtube.com/watch?v=TeZCK5WqsDE), youtube.com. December 12, 2009. Retrieved October 5, 2012.
 
 9.
 
-10.  [2PM & SNSD Cabi song Caribbean Bay
-    (Teacyeon-YoonA,Nickhun-Yuri,Chansung-Seo
-    Huyn)](http://www.youtube.com/watch?v=WtZADdceSr4), youtube.com. May
-    2, 2010. Retrieved October 5, 2012.
+10.  [2PM & SNSD Cabi song Caribbean Bay (Teacyeon-YoonA,Nickhun-Yuri,Chansung-Seo Huyn)](http://www.youtube.com/watch?v=WtZADdceSr4), youtube.com. May 2, 2010. Retrieved October 5, 2012.
 
-11. [Jessica
-    與Coridel經紀公司簽下專屬合約，將正式回歸韓國演藝圈](http://www.vlovekpop.com/jessica-%E8%88%87coridel%E7%B6%93%E7%B4%80%E5%85%AC%E5%8F%B8%E7%B0%BD%E4%B8%8B%E5%B0%88%E5%B1%AC%E5%90%88%E7%B4%84%EF%BC%8C%E5%B0%87%E6%AD%A3%E5%BC%8F%E5%9B%9E%E6%AD%B8%E9%9F%93%E5%9C%8B%E6%BC%94/)
-    vlovekpop
+11. [Jessica 與Coridel經紀公司簽下專屬合約，將正式回歸韓國演藝圈](http://www.vlovekpop.com/jessica-%E8%88%87coridel%E7%B6%93%E7%B4%80%E5%85%AC%E5%8F%B8%E7%B0%BD%E4%B8%8B%E5%B0%88%E5%B1%AC%E5%90%88%E7%B4%84%EF%BC%8C%E5%B0%87%E6%AD%A3%E5%BC%8F%E5%9B%9E%E6%AD%B8%E9%9F%93%E5%9C%8B%E6%BC%94/) vlovekpop
 
-12. [可以預訂新專輯了！Jessica《With
-    Love，J》封面照公開！](http://www.vlovekpop.com/20160510-jessica/)
-    vlovekpop
+12. [可以預訂新專輯了！Jessica《With Love，J》封面照公開！](http://www.vlovekpop.com/20160510-jessica/) vlovekpop
 
 13. \< Solo專輯大受歡迎！成功舉行國內粉絲見面會，Jessica： 好像在做夢般
 
-14. [Jessica 12月攜帶《WONDERLAND》突襲回歸](http://www.vlovekpop.com/20161130-jessica/)
-    vlovekpop
+14. [Jessica 12月攜帶《WONDERLAND》突襲回歸](http://www.vlovekpop.com/20161130-jessica/) vlovekpop
 
-15.  Chung Ah-young. ['Legally Blonde' Sparkles With Starry
-    Cast](http://www.koreatimes.co.kr/www/news/art/2009/09/135_51953.html).
-    *The Korea Times*. September 16, 2009. Retrieved February 22, 2010.
+15.  Chung Ah-young. ['Legally Blonde' Sparkles With Starry Cast](http://www.koreatimes.co.kr/www/news/art/2009/09/135_51953.html). *The Korea Times*. September 16, 2009. Retrieved February 22, 2010.
 
-16. [3 Starts to Share Lead in 'Legally Blonde'
-    Musical](http://english.chosun.com/site/data/html_dir/2009/10/31/2009103100199.html).
-    *The Chosun Ilbo*. October 31, 2009. Retrieved February 22, 2010.
+16. [3 Starts to Share Lead in 'Legally Blonde' Musical](http://english.chosun.com/site/data/html_dir/2009/10/31/2009103100199.html). *The Chosun Ilbo*. October 31, 2009. Retrieved February 22, 2010.
 
-17.  [소녀시대, 최시원과 의리 지키며 '오 마이 레이디'서 카메오 출연 (*SNSD Makes Cameo Appearance
-    On "Oh\! My Lady", Showing Loyalty to Choi
-    Siwon*)](http://www.asiae.co.kr/news/view.htm?idxno=2010040707471438381).
-    *asiae*/*Newsen*. March 7, 2010. Retrieved on April 9, 2010.
+17.  [소녀시대, 최시원과 의리 지키며 '오 마이 레이디'서 카메오 출연 (*SNSD Makes Cameo Appearance On "Oh\! My Lady", Showing Loyalty to Choi Siwon*)](http://www.asiae.co.kr/news/view.htm?idxno=2010040707471438381). *asiae*/*Newsen*. March 7, 2010. Retrieved on April 9, 2010.
 
-18.  [소녀시대, 최시원과 의리 지키며 '오 마이 레이디'서 카메오 출연 (*SNSD Makes Cameo Appearance
-    on "Oh\! My Lady", Showing Loyalty to Choi
-    Siwon*)](http://www.asiae.co.kr/news/view.htm?idxno=2010040707471438381).
-    *asiae*/*Newsen*. March 7, 2010. Retrieved on April 9, 2010
+18.  [소녀시대, 최시원과 의리 지키며 '오 마이 레이디'서 카메오 출연 (*SNSD Makes Cameo Appearance on "Oh\! My Lady", Showing Loyalty to Choi Siwon*)](http://www.asiae.co.kr/news/view.htm?idxno=2010040707471438381). *asiae*/*Newsen*. March 7, 2010. Retrieved on April 9, 2010
 
-19.  Bae Sunyoung: [제시카 ‘해피 버스데이‘ 5주 출연 끝, 7일 하차 (*Jessica, After Five
-    Weeks of Appearances in 'Happy Birthday', Will be Withdrawing on
-    7th*)](http://www.newsen.com/news_view.php?uid=201006051103371001),
-    Newsen.com. June 5, 2010. Retrieved June 6, 2010.
+19.  Bae Sunyoung: [제시카 ‘해피 버스데이‘ 5주 출연 끝, 7일 하차 (*Jessica, After Five Weeks of Appearances in 'Happy Birthday', Will be Withdrawing on 7th*)](http://www.newsen.com/news_view.php?uid=201006051103371001), Newsen.com. June 5, 2010. Retrieved June 6, 2010.
 
-20.  [Jessica’s Casting in ‘Violent Romance’
-    Confirmed](http://soshified.com/2011/12/jessicas-casting-in-violent-romance-confirmed)
+20.  [Jessica’s Casting in ‘Violent Romance’ Confirmed](http://soshified.com/2011/12/jessicas-casting-in-violent-romance-confirmed)
 
 21.
 

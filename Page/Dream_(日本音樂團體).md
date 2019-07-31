@@ -1,25 +1,19 @@
-**Dream**（**ドリーム**），為日本3人女子組合。所属事务所为[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。[唱片公司](../Page/唱片公司.md "wikilink")为[Rhythm
-zone](../Page/Rhythm_zone.md "wikilink")。
+**Dream**（**ドリーム**），為日本3人女子組合。所属事务所为[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。[唱片公司](../Page/唱片公司.md "wikilink")为[Rhythm zone](../Page/Rhythm_zone.md "wikilink")。
 
 ## 来歴
 
-  - 1999年8月10日－「[avex dream
-    2000](https://zh.wikipedia.org/wiki/avex_dream_2000 "wikilink")」十二萬人選拔[松室麻衣](https://zh.wikipedia.org/wiki/松室麻衣 "wikilink")、[橘佳奈](https://zh.wikipedia.org/wiki/橘佳奈 "wikilink")、[長谷部優](https://zh.wikipedia.org/wiki/長谷部優 "wikilink")3人獲得優勝，dream結成。
+  - 1999年8月10日－「[avex dream 2000](https://zh.wikipedia.org/wiki/avex_dream_2000 "wikilink")」十二萬人選拔[松室麻衣](https://zh.wikipedia.org/wiki/松室麻衣 "wikilink")、[橘佳奈](https://zh.wikipedia.org/wiki/橘佳奈 "wikilink")、[長谷部優](https://zh.wikipedia.org/wiki/長谷部優 "wikilink")3人獲得優勝，dream結成。
   - 2000年1月1日－首張單曲Movin\`on正式發行，銷量超過10萬。
-  - 2002年7月7日－dream舉行她們第二个演唱會"dream live 2002
-    Process"的最后一場，[松室麻衣以學習作曲及填詞為由](https://zh.wikipedia.org/wiki/松室麻衣 "wikilink")，獨自離隊，但隨即有六位新成員加入
+  - 2002年7月7日－dream舉行她們第二个演唱會"dream live 2002 Process"的最后一場，[松室麻衣以學習作曲及填詞為由](https://zh.wikipedia.org/wiki/松室麻衣 "wikilink")，獨自離隊，但隨即有六位新成員加入
   - 2004年3月28日－當完成舞台劇"ID"之演出後，阿井莉沙卒業，作個人發展，並剩下7人dream。\*2005年－[山本纱也加以](https://zh.wikipedia.org/wiki/山本纱也加 "wikilink")[山本サヤカ作為藝名作個人發展](https://zh.wikipedia.org/wiki/山本サヤカ "wikilink")。
-  - 2005年5月－以dream成員為骨幹，組成一隊女子五人足球，並命名為"TEAM dream"，參與"Sphere
-    League"之賽事。
-  - 2006年－dream舉行她們首次全國性巡迴演唱會。2006年4月6日，"TEAM
-    dream"取得首次公式賽之冠軍，並於5月11日，達成兩連霸。並於2006年11月30日成为年度冠軍，取得年間王者的稱號
+  - 2005年5月－以dream成員為骨幹，組成一隊女子五人足球，並命名為"TEAM dream"，參與"Sphere League"之賽事。
+  - 2006年－dream舉行她們首次全國性巡迴演唱會。2006年4月6日，"TEAM dream"取得首次公式賽之冠軍，並於5月11日，達成兩連霸。並於2006年11月30日成为年度冠軍，取得年間王者的稱號
   - 2007年6月25日－團體名稱由dream改為DRM，希望以改變擺脱稚氣增添成熟韻味。
   - 2008年8月1日－DRM重新改回Dream。[長谷部優同時離開](https://zh.wikipedia.org/wiki/長谷部優 "wikilink")，作個人發展。Dream剩下6位成員
   - 2011年2月20日－橘佳奈畢業。自此已沒有dream組成當時的成員。
   - 2012年3月31日－山本紗也加卒業。
   - 2016年10月28日－Erie宣布將在年內退出演藝圈。
-  - 2016年12月3日 - 11日－舉辦第一屆粉絲俱樂部活動「E-girls FAMILY FAN CLUB EVENT 2016
-    "Dream Party"」
+  - 2016年12月3日 - 11日－舉辦第一屆粉絲俱樂部活動「E-girls FAMILY FAN CLUB EVENT 2016 "Dream Party"」
   - 2016年12月31日－Erie退出。Dream剩下3位成員。
   - 2017年6月5日－Dream宣布活動中止。
   - 2017年7月15日至16日－舉辦最後一次活動“E-girls LIVE 2017-EG EVOLUTION〜”
@@ -151,20 +145,13 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 ### dream 代表數字
 
 2002年7月7日，新成員加入後引入圖像顏色的新機制，分配如下。
-<font color="#FF3399">■</font>02 阿井、<font color="#0099CC">■</font>03
-阿部、<font color="#FF6600">■</font>04
-高本、<font color="#FFFF00">■</font>05
-中島、<font color="#000099">■</font>06
-西田、<font color="#CC0000">■</font>07
-橘、<font color="#660066">■</font>08 長谷部、□(白)09 山本
+<font color="#FF3399">■</font>02 阿井、<font color="#0099CC">■</font>03 阿部、<font color="#FF6600">■</font>04 高本、<font color="#FFFF00">■</font>05 中島、<font color="#000099">■</font>06 西田、<font color="#CC0000">■</font>07 橘、<font color="#660066">■</font>08 長谷部、□(白)09 山本
 
 ## 音乐作品
 
 ### 单曲
 
-<font size="5" color="#78D2FF">■</font> …
-10位以内　<font size="5" color="#FF94D2">■</font> …
-20位以内　<font size="5" color="#A4FF3C">■</font> … 30位以内
+<font size="5" color="#78D2FF">■</font> … 10位以内　<font size="5" color="#FF94D2">■</font> … 20位以内　<font size="5" color="#A4FF3C">■</font> … 30位以内
 
 ※排位、上榜为[Oricon周排行榜](../Page/Oricon公信榜.md "wikilink")
 
@@ -436,9 +423,7 @@ NIGHT OF FIRE</a></strong></p></td>
 
 ### 专辑
 
-<font size="5" color="#78D2FF">■</font> …
-10位以内　<font size="5" color="#FF94D2">■</font> …
-20位以内　<font size="5" color="#A4FF3C">■</font> … 30位以内
+<font size="5" color="#78D2FF">■</font> … 10位以内　<font size="5" color="#FF94D2">■</font> … 20位以内　<font size="5" color="#A4FF3C">■</font> … 30位以内
 
 <table>
 <tbody>
@@ -674,8 +659,7 @@ NIGHT OF FIRE</a></strong></p></td>
 ### 舞台劇
 
   - ID（2004年3月25日－3月28日・シアターアプル）
-  - BEAT POPS “FIGHTING
-    GIRLS”（2004年8月17日－8月27日・[スタジオドリームメーカー](https://zh.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")）
+  - BEAT POPS “FIGHTING GIRLS”（2004年8月17日－8月27日・[スタジオドリームメーカー](https://zh.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")）
   - 美味學院（2007年5月16日－5月20日・青山劇場、橘・阿部・高本・中島・西田・山本）
   - ハイスクール・ミュージカル（2007年6月12日－6月28日・青山劇場、2007年7月5日－7月8日・NHK大阪ホール、長谷部）
 
@@ -683,8 +667,7 @@ NIGHT OF FIRE</a></strong></p></td>
 
   - dream LIVE 2001（2001年5月4日－5月20日）- 全4公演
   - dream live 2002 "Process"（2002年6月8日－6月23日、再追加公演・7月7日）- 全7公演
-  - dream live 2003 ～dream world～（2003年5月10日、5月11日）- 全3公演
-    [日本青年館](../Page/日本青年館.md "wikilink")
+  - dream live 2003 ～dream world～（2003年5月10日、5月11日）- 全3公演 [日本青年館](../Page/日本青年館.md "wikilink")
   - dream party 2（2004年6月26日、7月4日）- 全3公演 Shibuya O-East
   - dream Christmas Party 2004（2004年12月24日、12月25日）- 全2公演 横浜港大さん橋ホール
   - dream live 2006（2006年2月18日－2006年3月18日）- 全7公演
@@ -696,14 +679,10 @@ NIGHT OF FIRE</a></strong></p></td>
 
 <!-- end list -->
 
-  - dream Party 2006 ～ Love & dream ～（2006年3月25日）-
-    [横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")
-  - dream live 2006 Autumn（2006年10月22日）- [Shibuya
-    O-West](https://zh.wikipedia.org/wiki/Shibuya_O-West "wikilink")
-  - dream Party 2006 X'mas（2006年12月24日）- [Zepp
-    Tokyo](https://zh.wikipedia.org/wiki/Zepp_Tokyo "wikilink")
-  - dream live 2007 Spring（2007年3月10日・公演中止、2007年4月8日・振替公演）- 全2公演
-    ランドマークホール
+  - dream Party 2006 ～ Love & dream ～（2006年3月25日）- [横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")
+  - dream live 2006 Autumn（2006年10月22日）- [Shibuya O-West](https://zh.wikipedia.org/wiki/Shibuya_O-West "wikilink")
+  - dream Party 2006 X'mas（2006年12月24日）- [Zepp Tokyo](https://zh.wikipedia.org/wiki/Zepp_Tokyo "wikilink")
+  - dream live 2007 Spring（2007年3月10日・公演中止、2007年4月8日・振替公演）- 全2公演 ランドマークホール
 
 <!-- end list -->
 
@@ -720,23 +699,17 @@ NIGHT OF FIRE</a></strong></p></td>
 
   - [Dream Official Website](http://www.dream-ldh.jp/) - 首頁網站
   - [LDH](http://www.ldh.co.jp/chh/) - 所屬事務所中文官方網站
-      - [DREAM](http://www.ldh.co.jp/chh/artist/musician/dream/) -
-        所屬事務所中文團體簡介
-  - [LDH girls FAMILY OFFICIAL FAN
-    CLUB](https://web.archive.org/web/20121016051628/http://ldhgirlsfamily.jp/)
-    - 官方粉絲俱樂部
+      - [DREAM](http://www.ldh.co.jp/chh/artist/musician/dream/) - 所屬事務所中文團體簡介
+  - [LDH girls FAMILY OFFICIAL FAN CLUB](https://web.archive.org/web/20121016051628/http://ldhgirlsfamily.jp/) - 官方粉絲俱樂部
 
 ### 部落格
 
-  - [Dream公式mixiページ](http://page.mixi.jp/view_page.pl?page_id=969) -
-    官方mixi網頁
+  - [Dream公式mixiページ](http://page.mixi.jp/view_page.pl?page_id=969) - 官方mixi網頁
 
-  - [Dreamオフィシャルブログ Powered by Ameba](http://ameblo.jp/dream-ldh/) -
-    官方部落格
+  - [Dreamオフィシャルブログ Powered by Ameba](http://ameblo.jp/dream-ldh/) - 官方部落格
 
   - [Dream 官方部落格 - GREE](http://gree.jp/dream_g) - 官方部落格
 
   -
   -
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")

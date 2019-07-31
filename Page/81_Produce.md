@@ -1,20 +1,14 @@
-**株式會社81
-Produce**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**81**」。至於該公司命名的由來來自成立的年份。
+**株式會社81 Produce**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**81**」。至於該公司命名的由來來自成立的年份。
 
 ## 概要
 
-1981年2月3日，由南澤道義\[2\]代表、與[Production
-baobab企劃製作部門的所屬職員從中獨立](../Page/Production_baobab.md "wikilink")\[3\]。
+1981年2月3日，由南澤道義\[2\]代表、與[Production baobab企劃製作部門的所屬職員從中獨立](../Page/Production_baobab.md "wikilink")\[3\]。
 
-從舞台音樂劇《》開始，所屬的聲優不只參加配音的工作，還有參加舞台話劇的活動\[4\]，因此在1983年，81
-Produce另設立了演員部門\[5\]。
+從舞台音樂劇《》開始，所屬的聲優不只參加配音的工作，還有參加舞台話劇的活動\[4\]，因此在1983年，81 Produce另設立了演員部門\[5\]。
 
-1990年，解散之後，所屬的資深團員大多移籍至81
-Produce繼續發展（有、、[關根信昭](../Page/關根信昭.md "wikilink")、[八木光生等人](../Page/八木光生.md "wikilink")）。
+1990年，解散之後，所屬的資深團員大多移籍至81 Produce繼續發展（有、、[關根信昭](../Page/關根信昭.md "wikilink")、[八木光生](../Page/八木光生.md "wikilink")等人）。
 
-81
-Produce自從成立以來，與[NHK的關係密切](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")。因此由NHK製作的紀錄片、和等製作的解說等工作常請所屬的聲優擔任\[6\]，或直接請聲優以演員身分參演校園放送節目\[7\]。還有，外國電視劇或卡通在[NHK頻道播出時](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")，其日語配音的工作及音響製作大多由81
-Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬聲優積極參加[小學館集英社製作出版社製作](../Page/小學館集英社製作.md "wikilink")、或長年跟[青二Production聲優合作的](../Page/青二製作.md "wikilink")[東映動畫公司製作的日本國內動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")。並有和唱片公司[愛貝克思集團進行音樂合作](../Page/愛貝克思集團.md "wikilink")\[9\]\[10\]。
+81 Produce自從成立以來，與[NHK的關係密切](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")。因此由NHK製作的紀錄片、和等製作的解說等工作常請所屬的聲優擔任\[6\]，或直接請聲優以演員身分參演校園放送節目\[7\]。還有，外國電視劇或卡通在[NHK頻道播出時](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")，其日語配音的工作及音響製作大多由81 Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬聲優積極參加[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")出版社製作、或長年跟[青二Production聲優合作的](../Page/青二製作.md "wikilink")[東映動畫公司製作的日本國內動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")。並有和唱片公司[愛貝克思集團](../Page/愛貝克思集團.md "wikilink")進行音樂合作\[9\]\[10\]。
 
 2015年，於「聲優展覽館」、「81LIVE SALON」、及81 Produce總部的聲優培訓學校內開辦「81Actor's Studio」。
 
@@ -447,7 +441,6 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
   - [芹澤優](../Page/芹澤優.md "wikilink")
 
-  -
   - 宋俐奈（舊藝名：李孝真）
 
 <!-- end list -->
@@ -748,8 +741,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
   -
   - （現所屬：[JTB Entertainment](../Page/JTB娛樂.md "wikilink")）
 
-  - [黑田崇矢](../Page/黑田崇矢.md "wikilink")（現所屬：[AXL
-    ONE](../Page/AXL_ONE.md "wikilink")）
+  - [黑田崇矢](../Page/黑田崇矢.md "wikilink")（現所屬：[AXL ONE](../Page/AXL_ONE.md "wikilink")）
 
   -
   -
@@ -781,8 +773,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
   - （自由職業）
 
-  - [下和田裕貴](../Page/下和田裕貴.md "wikilink")（現所屬：[Office
-    PAC](../Page/Office_PAC.md "wikilink")）
+  - [下和田裕貴](../Page/下和田裕貴.md "wikilink")（現所屬：[Office PAC](../Page/Office_PAC.md "wikilink")）
 
 <!-- end list -->
 
@@ -816,8 +807,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
   - （自由職業)
 
-  - [中原茂](../Page/中原茂.md "wikilink")（現所屬：[Local Dream
-    Production](http://localdream.jp/)）
+  - [中原茂](../Page/中原茂.md "wikilink")（現所屬：[Local Dream Production](http://localdream.jp/)）
 
   - [仲村秀生](../Page/仲村秀生.md "wikilink")（引退後死去）
 
@@ -855,15 +845,14 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
 <!-- end list -->
 
-  - [牧野良樹](https://zh.wikipedia.org/wiki/永野椎菜 "wikilink")（藝名永野椎菜，音樂組合[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")（與[高山南組成](../Page/高山南.md "wikilink")）的男性成員。於1992年曾經投入聲優活動）
+  - [牧野良樹](https://zh.wikipedia.org/wiki/永野椎菜 "wikilink")（藝名永野椎菜，音樂組合[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")（與[高山南](../Page/高山南.md "wikilink")組成）的男性成員。於1992年曾經投入聲優活動）
 
   -
   -
   - （現所屬：D-COLOR）
 
   -
-  - [水島裕](../Page/水島裕.md "wikilink")（現所屬：[Knot
-    Communications](http://www.knot-com.com/)）
+  - [水島裕](../Page/水島裕.md "wikilink")（現所屬：[Knot Communications](http://www.knot-com.com/)）
 
   -
   -
@@ -916,8 +905,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
   -
   -
-  - [安達忍](../Page/安達忍.md "wikilink")（現所屬：[Theatre
-    Echo](../Page/Theatre_Echo.md "wikilink")、）
+  - [安達忍](../Page/安達忍.md "wikilink")（現所屬：[Theatre Echo](../Page/Theatre_Echo.md "wikilink")、）
 
   -
   -
@@ -926,8 +914,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
   - [安藤亞里沙](../Page/安藤亞里沙.md "wikilink")（引退）
 
   -
-  - [池澤春菜](../Page/池澤春菜.md "wikilink")（現所屬：[Across
-    Entertainment](../Page/Across_Entertainment.md "wikilink")）
+  - [池澤春菜](../Page/池澤春菜.md "wikilink")（現所屬：[Across Entertainment](../Page/Across_Entertainment.md "wikilink")）
 
   - [石上靜香](../Page/石上靜香.md "wikilink")（現所屬：[Pro-Fit](../Page/Pro-Fit.md "wikilink")）
 
@@ -989,8 +976,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
   -
   - 栗林泰子
 
-  - [小櫻悅子](../Page/小櫻悅子.md "wikilink")（現所屬：[Little
-    Portal](http://little-portal.com/)代表）
+  - [小櫻悅子](../Page/小櫻悅子.md "wikilink")（現所屬：[Little Portal](http://little-portal.com/)代表）
 
   - [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")（自由職業）
 
@@ -1017,8 +1003,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
   - [鹽野安莉](../Page/鹽野安莉.md "wikilink")（移籍JTB Entertainment之後引退）
 
-  - [重松花鳥](https://zh.wikipedia.org/wiki/重松花鳥 "wikilink")（現所屬：[VOICE
-    Pro. Arc\~en\~ciel](http://arcenciel-acturis.org/)）
+  - [重松花鳥](https://zh.wikipedia.org/wiki/重松花鳥 "wikilink")（現所屬：[VOICE Pro. Arc\~en\~ciel](http://arcenciel-acturis.org/)）
 
   - （自由職業）
 
@@ -1031,6 +1016,8 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
   -
   - 關川真佐美
+
+  - [空見雪](../Page/空見雪.md "wikilink")（自由職業）
 
 <!-- end list -->
 
@@ -1206,7 +1193,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 <tr class="even">
 <td><p>第4回</p></td>
 <td><p>2010年</p></td>
-<td><p>優秀獎：（同時獲頒<a href="../Page/小學館.md" title="wikilink">小學館獎</a>）<br />
+<td><p>優秀獎：（同時獲頒<a href="../Page/小學館.md" title="wikilink">小學館</a>獎）<br />
 特別獎：地藏堂武大、平山寬子[14]</p></td>
 </tr>
 <tr class="odd">
@@ -1215,7 +1202,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 <td><p>優秀獎：（同時獲頒<a href="../Page/文化放送_(日本).md" title="wikilink">文化放送獎</a>、獎）<br />
 特別獎：<a href="../Page/春野菜菜美.md" title="wikilink">石渕菜菜美</a>（同時獲頒小學館獎）、<br />
 <a href="../Page/上田麗奈.md" title="wikilink">上田麗奈</a>（同時獲頒小學館獎）、<br />
-<a href="../Page/高橋李依.md" title="wikilink">高橋李依</a>（同時獲頒<a href="../Page/日本BS放送.md" title="wikilink">日本BS放送獎</a>）[15]</p></td>
+<a href="../Page/高橋李依.md" title="wikilink">高橋李依</a>（同時獲頒<a href="../Page/日本BS放送.md" title="wikilink">日本BS放送</a>獎）[15]</p></td>
 </tr>
 <tr class="even">
 <td><p>第6回</p></td>
@@ -1224,7 +1211,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 （同時獲頒E-XING獎、長崎音響監督獎）<br />
 特別獎：（同時獲頒BS11獎、文化放送獎）、<br />
 <a href="../Page/稗田寧寧.md" title="wikilink">稗田寧寧</a>（同時獲頒小學館獎）、<br />
-渡邊保渚美（同時獲頒<a href="../Page/萬代頻道.md" title="wikilink">萬代頻道獎</a>、<a href="https://zh.wikipedia.org/wiki/颯美" title="wikilink">Sammy獎</a>）[16]</p></td>
+渡邊保渚美（同時獲頒<a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a>獎、<a href="https://zh.wikipedia.org/wiki/颯美" title="wikilink">Sammy獎</a>）[16]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第7回</p></td>
@@ -1237,7 +1224,7 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 <tr class="even">
 <td><p>第8回</p></td>
 <td><p>2014年</p></td>
-<td><p>優秀獎：上西哲平（同時獲頒小學館獎、<a href="../Page/NOTTV.md" title="wikilink">NOTTV獎</a>）、<br />
+<td><p>優秀獎：上西哲平（同時獲頒小學館獎、<a href="../Page/NOTTV.md" title="wikilink">NOTTV</a>獎）、<br />
 <a href="../Page/天海由梨奈.md" title="wikilink">渡部由梨奈</a>（同時獲頒Sammy獎、NOTTV獎）<br />
 特別獎：白石兼斗（同時獲頒文化放送獎、Sammy獎、<a href="../Page/STUDIO_DEEN.md" title="wikilink">STUDIO DEEN獎</a>)<br />
 森岡健太郎（同時獲頒文化放送獎、E-XING獎）、<br />
@@ -1271,24 +1258,15 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
 ## 主要舞台製作作品
 
-  - 「朋友 Do It
-    Yourself\!\!」（1981年／作：仲倉重朗，演出：山田悅司，出演：水島裕、玄田哲章、吉田理保子、[山田俊司](../Page/山田俊司.md "wikilink")、伊藤真奈美）
+  - 「朋友 Do It Yourself\!\!」（1981年／作：仲倉重朗，演出：山田悅司，出演：水島裕、玄田哲章、吉田理保子、[山田俊司](../Page/山田俊司.md "wikilink")、伊藤真奈美）
   - 音樂劇「」（1982年／作：瀧澤不二雄，演出：[野澤那智](../Page/野澤那智.md "wikilink")）※提攜：、 共同公演
   - 真夏之夜假面祭「海神號的傳說」（1983年／作：，演出：木島恭，出演：水島裕、中尾隆聖、內田直哉、井上和彥、玄田哲章、[鈴置洋孝](../Page/鈴置洋孝.md "wikilink")、弘中久美子、[富永美衣奈](../Page/富永美衣奈.md "wikilink")、吉田理保子、-{辻}-村真人、山形幸生、關俊彥、津久井教生）
-  - 腳踏車音樂劇「HAPPY
-    RIDE」（1984年／涉谷Janjan／作、演出：，編舞：，出演：水島裕、中尾隆聖、井上和彥、弘中久美子、吉田理保子、內田直哉、山形幸生）
-  - 愛的音樂劇「HAPPY RIDE
-    2」（1984年／／作、演出：青井陽治、中尾隆聖，出演：井上和彥、中尾隆聖、水島裕）※提攜：銀座博品館劇場
-  - 「A TASTE OF HONEY
-    」（1985年／銀座博品館劇場／作：席拉·德里尼，演出：壺井正，出演：水島裕、藤田淑子、佐久間玲、弘中久美子、中尾隆聖、山形幸生、內田直哉）※提攜：銀座博品館劇場
-  - 音樂劇「BACKERS
-    AUDITION」（1986年／銀座博品館劇場／作：橫山由和，演出：-{坂}-上道之助，出演：水島裕、中尾隆聖、玄田哲章、富永美衣奈、佐久間玲、弘中久美子、內田直哉、-{辻}-村真人、山形幸生、吉田理保子、鵜飼留美子、片岡富江、、於保武、關俊彥、津久井教生、中村洋美
-    等）※提攜：銀座博品館劇場
-  - COME BLOW YOUR
-    HORN（1986年／作：[尼爾·賽門](../Page/尼爾·賽門.md "wikilink")，翻譯：酒井洋子，演出：壺井正，出演：水島裕、玄田哲章、中尾隆盛、淺井淑子、鵜飼留美子、片岡富枝、佐久間玲、關俊彥、高田由美、弘中久美子）
-  - 「春光滿古城」（Theater V
-    Akasaka／作：巴特·薛貝洛布、拉瑞·吉爾巴特，音樂、作詞：[史蒂芬·桑坦](../Page/史蒂芬·桑坦.md "wikilink")，演出：，出演：中尾隆聖、關俊彥、三木真一郎
-    等）
+  - 腳踏車音樂劇「HAPPY RIDE」（1984年／涉谷Janjan／作、演出：，編舞：，出演：水島裕、中尾隆聖、井上和彥、弘中久美子、吉田理保子、內田直哉、山形幸生）
+  - 愛的音樂劇「HAPPY RIDE 2」（1984年／／作、演出：青井陽治、中尾隆聖，出演：井上和彥、中尾隆聖、水島裕）※提攜：銀座博品館劇場
+  - 「A TASTE OF HONEY 」（1985年／銀座博品館劇場／作：席拉·德里尼，演出：壺井正，出演：水島裕、藤田淑子、佐久間玲、弘中久美子、中尾隆聖、山形幸生、內田直哉）※提攜：銀座博品館劇場
+  - 音樂劇「BACKERS AUDITION」（1986年／銀座博品館劇場／作：橫山由和，演出：-{坂}-上道之助，出演：水島裕、中尾隆聖、玄田哲章、富永美衣奈、佐久間玲、弘中久美子、內田直哉、-{辻}-村真人、山形幸生、吉田理保子、鵜飼留美子、片岡富江、、於保武、關俊彥、津久井教生、中村洋美 等）※提攜：銀座博品館劇場
+  - COME BLOW YOUR HORN（1986年／作：[尼爾·賽門](../Page/尼爾·賽門.md "wikilink")，翻譯：酒井洋子，演出：壺井正，出演：水島裕、玄田哲章、中尾隆盛、淺井淑子、鵜飼留美子、片岡富枝、佐久間玲、關俊彥、高田由美、弘中久美子）
+  - 「春光滿古城」（Theater V Akasaka／作：巴特·薛貝洛布、拉瑞·吉爾巴特，音樂、作詞：[史蒂芬·桑坦](../Page/史蒂芬·桑坦.md "wikilink")，演出：，出演：中尾隆聖、關俊彥、三木真一郎 等）
 
 ## 注釋
 
@@ -1302,24 +1280,17 @@ Produce的子企業、專門從事音響製作的包辦\[8\]。以及讓所屬�
 
   -
 
-[Category:81_Produce](https://zh.wikipedia.org/wiki/Category:81_Produce "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:1981年成立的公司](https://zh.wikipedia.org/wiki/Category:1981年成立的公司 "wikilink")
+[Category:81_Produce](https://zh.wikipedia.org/wiki/Category:81_Produce "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1981年成立的公司](https://zh.wikipedia.org/wiki/Category:1981年成立的公司 "wikilink")
 
 1.
 2.
 3.  《[Animage](../Page/Animage.md "wikilink")》1982年2月號，第37頁。
 4.  《Animage》1984年8月號，第133頁。
 5.  《Animage》1983年4月號，第153頁。
-6.  另外和[青二Production](../Page/青二製作.md "wikilink")、[Production
-    baobab](../Page/Production_baobab.md "wikilink")、[Theatre
-    Echo等大型事務所的所屬聲優頻繁出演](../Page/Theatre_Echo.md "wikilink")。
-7.  例如《》&《》的加藤優子、《》的[豐口惠](../Page/豐口惠.md "wikilink")、《》的[小野坂昌也和](../Page/小野坂昌也.md "wikilink")[中尾巖雄](../Page/中尾巖雄.md "wikilink")、《》的[緒方賢一和](../Page/緒方賢一.md "wikilink")[鄉里大輔](../Page/鄉里大輔.md "wikilink")、《》的[田中真弓等](../Page/田中真弓.md "wikilink")，常跟其他中、大型事務所所屬聲優頻繁合作。
+6.  另外和[青二Production](../Page/青二製作.md "wikilink")、[Production baobab](../Page/Production_baobab.md "wikilink")、[Theatre Echo等大型事務所的所屬聲優頻繁出演](../Page/Theatre_Echo.md "wikilink")。
+7.  例如《》&《》的加藤優子、《》的[豐口惠](../Page/豐口惠.md "wikilink")、《》的[小野坂昌也](../Page/小野坂昌也.md "wikilink")和[中尾巖雄](../Page/中尾巖雄.md "wikilink")、《》的[緒方賢一](../Page/緒方賢一.md "wikilink")和[鄉里大輔](../Page/鄉里大輔.md "wikilink")、《》的[田中真弓](../Page/田中真弓.md "wikilink")等，常跟其他中、大型事務所所屬聲優頻繁合作。
 8.  例如《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》內播出的單元動畫《》、《》等。
-9.  例如由81
-    Produce進行新人聲優公開進行徵選而誕生的聲優組合『[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")』、『[Wake
-    Up, Girls！](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")』。
+9.  例如由81 Produce進行新人聲優公開進行徵選而誕生的聲優組合『[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")』、『[Wake Up, Girls！](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")』。
 10.
 11.
 12.

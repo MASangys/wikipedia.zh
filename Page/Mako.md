@@ -1,5 +1,4 @@
-**MAKO**是[東京都](../Page/東京都.md "wikilink")出身的女性歌手、[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")。[I'm
-Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
+**MAKO**是[東京都](../Page/東京都.md "wikilink")出身的女性歌手、[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")。[I'm Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 
 本名是櫻井真子，[血型是O型](https://zh.wikipedia.org/wiki/血型 "wikilink")，[星座](../Page/星座.md "wikilink")是[天秤座](../Page/天秤座.md "wikilink")。2005年3月以品川星星女子高等学校毕业，2009年3月于跡見学園女子大学文學部臨床心理學畢業。
 
@@ -47,8 +46,7 @@ Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
   - [人家一點都不喜歡啦！](../Page/人家一點都不喜歡啦！.md "wikilink")（靜留）
   - [A頻道](../Page/A頻道.md "wikilink")（比良）
   - [眾神中的貓神](../Page/眾神中的貓神.md "wikilink")（芳乃）
-  - [C3
-    -魔幻三次方-](https://zh.wikipedia.org/wiki/C3_-魔幻三次方- "wikilink")（木乃伊師）
+  - [C3 -魔幻三次方-](https://zh.wikipedia.org/wiki/C3_-魔幻三次方- "wikilink")（木乃伊師）
 
 **2012年**
 
@@ -74,13 +72,11 @@ Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 
 **2018年**
 
-  - [閃亂神樂 SHINOVI MASTER
-    -東京妖魔篇-](../Page/閃亂神樂_-少女們的真影-.md "wikilink")（**兩奈**\[5\]）
+  - [閃亂神樂 SHINOVI MASTER -東京妖魔篇-](../Page/閃亂神樂_-少女們的真影-.md "wikilink")（**兩奈**\[5\]）
 
 **2019年**
 
-  - [Star☆Twinkle
-    光之美少女](../Page/Star☆Twinkle_光之美少女.md "wikilink")（天秤座的公主）
+  - [Star☆Twinkle 光之美少女](../Page/Star☆Twinkle_光之美少女.md "wikilink")（天秤座的公主）
 
 ### OVA
 
@@ -124,23 +120,19 @@ Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 
   - [屍體派對 Book of Shadows](../Page/屍體派對.md "wikilink")（**大上沙也加**）
 
-  - [校園迷糊大王 恐怖的(?)夏合宿！ 洋房出現幽靈！？
-    尋找寶物決勝負！！！之巻](../Page/校園迷糊大王.md "wikilink")第二學期（一條可憐）
+  - [校園迷糊大王 恐怖的(?)夏合宿！ 洋房出現幽靈！？ 尋找寶物決勝負！！！之巻](../Page/校園迷糊大王.md "wikilink")第二學期（一條可憐）
 
   - （未來的奶奶（孩子時期））
 
-  - [閃亂神樂
-    少女們的證明](https://zh.wikipedia.org/wiki/閃亂神樂_少女們的證明 "wikilink")（兩奈）
+  - [閃亂神樂 少女們的證明](https://zh.wikipedia.org/wiki/閃亂神樂_少女們的證明 "wikilink")（兩奈）
 
-  - [maimai](https://zh.wikipedia.org/wiki/maimai "wikilink") MiLK(
-    **シフォン**\[6\])
+  - [maimai](https://zh.wikipedia.org/wiki/maimai "wikilink") MiLK( **シフォン**\[6\])
 
 ### 音乐CD
 
   - （《神樣中學生》片尾曲）
 
-  - [ツキウタ。](https://zh.wikipedia.org/wiki/ツキウタ。 "wikilink")
-    ピンクな雙子（**如月愛**）
+  - [ツキウタ。](https://zh.wikipedia.org/wiki/ツキウタ。 "wikilink") ピンクな雙子（**如月愛**）
 
 ### 广播剧CD
 
@@ -152,20 +144,14 @@ Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 
 ## 外部链接
 
-  - [アイムエンタープライズ公式ホームページ Talent
-    Profile](http://www.imenterprise.jp/data.php?id=100) - 官方档案
-  - [MAKO Official Blog Honey
-    Dairy](https://web.archive.org/web/20131023103848/http://ameblo.jp/makochannano/)
-    - 官方部落格
+  - [アイムエンタープライズ公式ホームページ Talent Profile](http://www.imenterprise.jp/data.php?id=100) - 官方档案
+  - [MAKO Official Blog Honey Dairy](https://web.archive.org/web/20131023103848/http://ameblo.jp/makochannano/) - 官方部落格
 
 ## 参考资料
 
 <references />
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本女性配音员](https://zh.wikipedia.org/wiki/Category:日本女性配音员 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:跡見學園女子大學校友](https://zh.wikipedia.org/wiki/Category:跡見學園女子大學校友 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性配音员](https://zh.wikipedia.org/wiki/Category:日本女性配音员 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:跡見學園女子大學校友](https://zh.wikipedia.org/wiki/Category:跡見學園女子大學校友 "wikilink")
 
 1.  [穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")的广播\#24.
 2.  [穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")的广播\#1.
@@ -173,7 +159,5 @@ Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 4.
 5.
 6.
-7.  [アニメ「ちとせげっちゅ\!\!」DVD発売記念公開生放送＆お渡し会開催！](http://blog.nicovideo.jp/niconews/ni037363.html)
-    - NICONICO動畫（2013年01月21日）
-8.  [仲谷明香、徳井青空、MAKOが出演！「ちとせげっちゅ！！」プレミアム文化祭レポート](http://www.koepota.jp/news/2012/11/15/0205.html)
-    - koepota（2012年11月15日）
+7.  [アニメ「ちとせげっちゅ\!\!」DVD発売記念公開生放送＆お渡し会開催！](http://blog.nicovideo.jp/niconews/ni037363.html) - NICONICO動畫（2013年01月21日）
+8.  [仲谷明香、徳井青空、MAKOが出演！「ちとせげっちゅ！！」プレミアム文化祭レポート](http://www.koepota.jp/news/2012/11/15/0205.html) - koepota（2012年11月15日）

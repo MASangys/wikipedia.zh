@@ -39,6 +39,4 @@ now直播台的資訊列與[now新聞台大同小異](https://zh.wikipedia.org/w
   - [now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")
   - [now財經台](https://zh.wikipedia.org/wiki/now財經台 "wikilink")
 
-[Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink")
-[Category:2006年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2006年成立的電視台或電視頻道 "wikilink")
-[Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
+[Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink") [Category:2006年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2006年成立的電視台或電視頻道 "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")

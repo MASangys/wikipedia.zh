@@ -74,18 +74,11 @@
 
 ## 外部連結
 
-  - [《月刊少年Sirius》官方網站
-    作品介紹](https://web.archive.org/web/20090614011547/http://kc.kodansha.co.jp/content/top.php/1000004746)
+  - [《月刊少年Sirius》官方網站 作品介紹](https://web.archive.org/web/20090614011547/http://kc.kodansha.co.jp/content/top.php/1000004746)
 
 ## 關連項目
 
   - [射鵰英雄傳](../Page/射鵰英雄傳.md "wikilink")
   - [金庸](../Page/金庸.md "wikilink")
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:小說改編漫畫作品](https://zh.wikipedia.org/wiki/Category:小說改編漫畫作品 "wikilink")
-[Category:射鵰英雄傳改編作品](https://zh.wikipedia.org/wiki/Category:射鵰英雄傳改編作品 "wikilink")
-[Category:南宋背景作品](https://zh.wikipedia.org/wiki/Category:南宋背景作品 "wikilink")
-[Category:蒙古帝國背景作品](https://zh.wikipedia.org/wiki/Category:蒙古帝國背景作品 "wikilink")
-[Category:金朝背景作品](https://zh.wikipedia.org/wiki/Category:金朝背景作品 "wikilink")
-[Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:小說改編漫畫作品](https://zh.wikipedia.org/wiki/Category:小說改編漫畫作品 "wikilink") [Category:射鵰英雄傳改編作品](https://zh.wikipedia.org/wiki/Category:射鵰英雄傳改編作品 "wikilink") [Category:南宋背景作品](https://zh.wikipedia.org/wiki/Category:南宋背景作品 "wikilink") [Category:蒙古帝國背景作品](https://zh.wikipedia.org/wiki/Category:蒙古帝國背景作品 "wikilink") [Category:金朝背景作品](https://zh.wikipedia.org/wiki/Category:金朝背景作品 "wikilink") [Category:月刊少年天狼星](https://zh.wikipedia.org/wiki/Category:月刊少年天狼星 "wikilink")

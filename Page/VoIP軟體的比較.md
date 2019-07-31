@@ -519,8 +519,7 @@ FreeBSD</p></td>
 
 <references/>
 
-[Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink")
-[Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
+[Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink") [Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
 
 1.
 2.

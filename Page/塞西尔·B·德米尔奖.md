@@ -1,5 +1,4 @@
-**塞西尔·B·德米尔奖**（**Cecil B. DeMille
-Award**，又称**金球奖终身成就奖**）是[金球奖中为了表彰终身致力](https://zh.wikipedia.org/wiki/金球獎_\(影視獎項\) "wikilink")[电影事业](../Page/电影.md "wikilink")，为全球娱乐业做出贡献的人士的奖项，自1952年开始由[好莱坞外国记者协会](../Page/好莱坞外国记者协会.md "wikilink")（HFPA）在[金球奖典礼上颁发](https://zh.wikipedia.org/wiki/金球獎_\(影視獎項\) "wikilink")。该奖项的名称以首届获奖者[塞西尔·德米尔命名](https://zh.wikipedia.org/wiki/塞西尔·德米尔 "wikilink")，后者是一名成功的电影制作人。\[1\]
+**塞西尔·B·德米尔奖**（**Cecil B. DeMille Award**，又称**金球奖终身成就奖**）是[金球奖中为了表彰终身致力](https://zh.wikipedia.org/wiki/金球獎_\(影視獎項\) "wikilink")[电影](../Page/电影.md "wikilink")事业，为全球娱乐业做出贡献的人士的奖项，自1952年开始由[好莱坞外国记者协会](../Page/好莱坞外国记者协会.md "wikilink")（HFPA）在[金球奖典礼上颁发](https://zh.wikipedia.org/wiki/金球獎_\(影視獎項\) "wikilink")。该奖项的名称以首届获奖者[塞西尔·德米尔命名](https://zh.wikipedia.org/wiki/塞西尔·德米尔 "wikilink")，后者是一名成功的电影制作人。\[1\]
 
 ## 历届获奖者
 
@@ -9,15 +8,13 @@ Award**，又称**金球奖终身成就奖**）是[金球奖中为了表彰终�
   - 1955年：[吉恩·赫蕭特](https://zh.wikipedia.org/wiki/吉恩·赫蕭特 "wikilink")
   - 1956年：[杰克·华纳](../Page/杰克·华纳.md "wikilink")
   - 1957年：[茂文·李洛埃](../Page/茂文·李洛埃.md "wikilink")
-  - 1958年：[Buddy
-    Adler](https://zh.wikipedia.org/wiki/:en:Buddy_Adler "wikilink")
+  - 1958年：[Buddy Adler](https://zh.wikipedia.org/wiki/:en:Buddy_Adler "wikilink")
   - 1959年：[莫里斯·切瓦力亚](../Page/莫里斯·切瓦力亚.md "wikilink")
   - 1960年：[平·克勞斯貝](https://zh.wikipedia.org/wiki/平·克勞斯貝 "wikilink")
   - 1961年：[佛雷·亞斯坦](https://zh.wikipedia.org/wiki/佛雷·亞斯坦 "wikilink")
   - 1962年：[茱蒂·嘉蘭](https://zh.wikipedia.org/wiki/茱蒂·嘉蘭 "wikilink")
   - 1963年：[鲍勃·霍普](../Page/鲍勃·霍普.md "wikilink")
-  - 1964年：[Joseph E.
-    Levine](https://zh.wikipedia.org/wiki/:en:Joseph_E._Levine "wikilink")
+  - 1964年：[Joseph E. Levine](https://zh.wikipedia.org/wiki/:en:Joseph_E._Levine "wikilink")
   - 1965年：[詹姆斯·史都華](../Page/詹姆斯·史都華.md "wikilink")
   - 1966年：[约翰·韦恩](https://zh.wikipedia.org/wiki/约翰·韦恩_\(美国电影演员\) "wikilink")
   - 1967年：[卻爾登·希斯頓](https://zh.wikipedia.org/wiki/卻爾登·希斯頓 "wikilink")
@@ -26,15 +23,12 @@ Award**，又称**金球奖终身成就奖**）是[金球奖中为了表彰终�
   - 1970年：[琼·克劳馥](https://zh.wikipedia.org/wiki/琼·克劳馥 "wikilink")
   - 1971年：[法蘭克·辛納屈](https://zh.wikipedia.org/wiki/法蘭克·辛納屈 "wikilink")
   - 1972年：[阿尔弗雷德·希区柯克](https://zh.wikipedia.org/wiki/阿尔弗雷德·希区柯克 "wikilink")
-  - 1973年：[Samuel
-    Goldwyn](https://zh.wikipedia.org/wiki/:en:Samuel_Goldwyn "wikilink")
+  - 1973年：[Samuel Goldwyn](https://zh.wikipedia.org/wiki/:en:Samuel_Goldwyn "wikilink")
   - 1974年：[贝蒂·戴维斯](../Page/贝蒂·戴维斯.md "wikilink")
   - 1975年：[哈爾·沃里斯](../Page/哈爾·沃里斯.md "wikilink")
   - 1976年：未颁奖
-  - 1977年：[Walter
-    Mirisch](https://zh.wikipedia.org/wiki/:en:Walter_Mirisch "wikilink")
-  - 1978年：[Red
-    Skelton](https://zh.wikipedia.org/wiki/:en:Red_Skelton "wikilink")
+  - 1977年：[Walter Mirisch](https://zh.wikipedia.org/wiki/:en:Walter_Mirisch "wikilink")
+  - 1978年：[Red Skelton](https://zh.wikipedia.org/wiki/:en:Red_Skelton "wikilink")
   - 1979年：[露西兒·鮑爾](https://zh.wikipedia.org/wiki/露西兒·鮑爾 "wikilink")
   - 1980年：[亨利·方达](../Page/亨利·方达.md "wikilink")
   - 1981年：[金·凯利](https://zh.wikipedia.org/wiki/金·凯利 "wikilink")
@@ -77,7 +71,6 @@ Award**，又称**金球奖终身成就奖**）是[金球奖中为了表彰终�
 
 ## 参考资料
 
-[Category:金球奖](https://zh.wikipedia.org/wiki/Category:金球奖 "wikilink")
-[Category:终身成就奖](https://zh.wikipedia.org/wiki/Category:终身成就奖 "wikilink")
+[Category:金球奖](https://zh.wikipedia.org/wiki/Category:金球奖 "wikilink") [Category:终身成就奖](https://zh.wikipedia.org/wiki/Category:终身成就奖 "wikilink")
 
 1.  [好莱坞外国记者协会官方网站关于塞西尔·B·德米尔奖介绍](http://www.hfpa.org/cecilbdemille/index.html)

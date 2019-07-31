@@ -1,22 +1,17 @@
-**華義SPIDER**（Wayi
-SPIDER）曾為[台灣電子競技聯盟所屬的一支職業](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，也是元老創立的三隊之一，華義SPIDER的母企業是[華義國際](../Page/華義國際.md "wikilink")。華義SPIDER在2008年、2009年獲得總冠軍，而SF團隊則在國際比賽[SF世界盃](../Page/SF世界盃.md "wikilink")在2008年、2009年連續兩屆獲得冠軍。
+**華義SPIDER**（Wayi SPIDER）曾為[台灣電子競技聯盟所屬的一支職業](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，也是元老創立的三隊之一，華義SPIDER的母企業是[華義國際](../Page/華義國際.md "wikilink")。華義SPIDER在2008年、2009年獲得總冠軍，而SF團隊則在國際比賽[SF世界盃](../Page/SF世界盃.md "wikilink")在2008年、2009年連續兩屆獲得冠軍。
 
 ## 歷史沿革
 
   - 2008年7月1日：正式成軍，成為台灣電競聯盟的創始隊伍之一。
   - 2008年7月25日：於[TeSL例行賽中首度出賽](https://zh.wikipedia.org/wiki/TeSL "wikilink")，順利擊敗[電競狼](../Page/電競狼.md "wikilink")。
   - 2008年10月26日：隊史首度打進總冠軍賽，並於總冠軍賽分別以11:9、11:8擊敗[橘子熊奪得總冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")。
-  - 2008年11月：首度代表台灣到中國參加[SF世界盃](../Page/SF世界盃.md "wikilink")，在最後擊敗韓國排名第八（共8隊）[hite
-    SPARKYZ全女子隊伍](https://zh.wikipedia.org/wiki/hite_SPARKYZ "wikilink")，並拿下該屆的冠軍。也是台灣第一支電競隊拿下[SF世界盃](../Page/SF世界盃.md "wikilink")冠軍。
+  - 2008年11月：首度代表台灣到中國參加[SF世界盃](../Page/SF世界盃.md "wikilink")，在最後擊敗韓國排名第八（共8隊）[hite SPARKYZ全女子隊伍](https://zh.wikipedia.org/wiki/hite_SPARKYZ "wikilink")，並拿下該屆的冠軍。也是台灣第一支電競隊拿下[SF世界盃](../Page/SF世界盃.md "wikilink")冠軍。
   - 2009年3月：首任總教練[曾昊宇](https://zh.wikipedia.org/wiki/曾昊宇 "wikilink")（Xanver）轉任賽評，由[許相瑄](https://zh.wikipedia.org/wiki/許相瑄 "wikilink")（Hoop）接任總教練一職。
   - 2009年5月：獲邀參加[ESWC亞洲大師盃SF項目比賽](https://zh.wikipedia.org/wiki/ESWC亞洲大師盃 "wikilink")，但因主辦單位出錯比賽順序，導致原是第六名後更改為沒有名次。
-  - 2009年6月：參與[2009台韓職業電競明星邀請賽](../Page/2009台韓職業電競明星邀請賽.md "wikilink")結果SF項目輸給[hite
-    SPARKYZ](https://zh.wikipedia.org/wiki/hite_SPARKYZ "wikilink")，[盧子賢](../Page/盧子賢.md "wikilink")（Yue）則獲選為跑跑卡丁車台灣代表。
+  - 2009年6月：參與[2009台韓職業電競明星邀請賽](../Page/2009台韓職業電競明星邀請賽.md "wikilink")結果SF項目輸給[hite SPARKYZ](https://zh.wikipedia.org/wiki/hite_SPARKYZ "wikilink")，[盧子賢](../Page/盧子賢.md "wikilink")（Yue）則獲選為跑跑卡丁車台灣代表。
   - 2009年11月：於[台灣大學綜合體育館完成](https://zh.wikipedia.org/wiki/台灣大學綜合體育館 "wikilink")[TeSL職業電競聯賽的二連霸](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")，並在[SF世界盃](../Page/SF世界盃.md "wikilink")中與韓國MBC交手以（華義SPIDER）6:2（韓國MBC）取得世界冠軍。
-  - 2010年3月：SF團隊參加[2010台韓職業電競國際聯賽](../Page/2010台韓職業電競國際聯賽.md "wikilink")並擔任開幕戰台灣代表出戰韓國[KT
-    ROLSTER結果敗北](https://zh.wikipedia.org/wiki/KT_ROLSTER "wikilink")，並在與韓國八隊交手中取得一勝七敗的成績。
-  - 2010年5月：SF團隊受邀到BELLESALLE秋葉原，與日本電競隊[Racpy進行](https://zh.wikipedia.org/wiki/Racpy "wikilink")[2010SF
-    Online日台表演賽](https://zh.wikipedia.org/wiki/2010SF_Online日台表演賽 "wikilink")，拿下三連勝。
+  - 2010年3月：SF團隊參加[2010台韓職業電競國際聯賽](../Page/2010台韓職業電競國際聯賽.md "wikilink")並擔任開幕戰台灣代表出戰韓國[KT ROLSTER結果敗北](https://zh.wikipedia.org/wiki/KT_ROLSTER "wikilink")，並在與韓國八隊交手中取得一勝七敗的成績。
+  - 2010年5月：SF團隊受邀到BELLESALLE秋葉原，與日本電競隊[Racpy進行](https://zh.wikipedia.org/wiki/Racpy "wikilink")[2010SF Online日台表演賽](https://zh.wikipedia.org/wiki/2010SF_Online日台表演賽 "wikilink")，拿下三連勝。
   - 2010年7月：電競隊於[超級電玩瘋中獲得專題報導](https://zh.wikipedia.org/wiki/超級電玩瘋 "wikilink")。
   - 2010年7月25日：於[台北大學民生校區中舉行的](https://zh.wikipedia.org/wiki/台北大學 "wikilink")2010TeSL職業電競聯賽上半季冠軍賽以4-1擊敗[橘子熊](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，因人員疏忽在SF中多取得一分後獲勝，也創下非半季排名第一卻拿下半季冠軍的首例。
   - 2010年8月12日：隊上著名步槍手[羅文裕](https://zh.wikipedia.org/wiki/羅文裕 "wikilink")（Sammy）引退。
@@ -26,31 +21,22 @@ SPIDER）曾為[台灣電子競技聯盟所屬的一支職業](https://zh.wikipe
   - 2011年1月23日：隊史第三度參加總冠軍賽，於[台北大學民生校區中舉行](https://zh.wikipedia.org/wiki/台北大學 "wikilink")，以2-4輸給[橘子熊](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，無緣連霸。
   - 2011年2月27日：SF團隊參加[2011台韓SF職業冠軍賽](https://zh.wikipedia.org/wiki/2011台韓SF職業冠軍賽 "wikilink")，於國內預選賽取得0勝6敗的成績，無緣代表台灣出賽。
   - 2011年7月9日：S\&K團隊直落二擊敗[樂陞鋼鐵人的S](https://zh.wikipedia.org/wiki/樂陞鋼鐵人 "wikilink")\&K團隊，因S\&K團隊此時比較勝敗局數已確定贏過[橘子熊而四度進軍S](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")\&K總冠軍賽。
-  - 2011年7月23日：在[Taiwan
-    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽S](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")\&K聯賽年度總冠軍賽以總比數3-4輸給[樂陞鋼鐵人](https://zh.wikipedia.org/wiki/樂陞鋼鐵人 "wikilink")，無法拿下電競四年S\&K聯賽的年度總冠軍。
-  - 2012年1月14日：在[Taiwan
-    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽SCII聯賽上半季冠軍賽以總比數](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")5-3擊敗[曜越太陽神](../Page/曜越太陽神.md "wikilink")，獲得電競五年SCII聯賽上半季冠軍。
-  - 2012年1月15日：在[Taiwan
-    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽S](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")\&K聯賽上半季冠軍賽以直落四擊敗[橘子熊](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，獲得電競五年S\&K聯賽上半季冠軍。
+  - 2011年7月23日：在[Taiwan open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽S](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")\&K聯賽年度總冠軍賽以總比數3-4輸給[樂陞鋼鐵人](https://zh.wikipedia.org/wiki/樂陞鋼鐵人 "wikilink")，無法拿下電競四年S\&K聯賽的年度總冠軍。
+  - 2012年1月14日：在[Taiwan open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽SCII聯賽上半季冠軍賽以總比數](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")5-3擊敗[曜越太陽神](../Page/曜越太陽神.md "wikilink")，獲得電競五年SCII聯賽上半季冠軍。
+  - 2012年1月15日：在[Taiwan open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽S](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")\&K聯賽上半季冠軍賽以直落四擊敗[橘子熊](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，獲得電競五年S\&K聯賽上半季冠軍。
   - 2012年6月30日：參加S\&K下半季冠軍賽，以4-1擊敗[橘子熊取得下半季冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")。
   - 2012年7月1日：參加SCII下半季冠軍賽，以5-2擊敗[橘子熊取得下半季冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")。
-  - 2012年7月21日：在[Taiwan
-    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽SCII總冠軍賽以總比數](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")3-5輸給[橘子熊](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，無緣獲得電競五年SCII聯賽總冠軍。
-  - 2012年7月22日：在[Taiwan
-    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽S](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")\&K總冠軍賽以直落四輸給[橘子熊](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，無緣獲得電競五年S\&K聯賽總冠軍。
+  - 2012年7月21日：在[Taiwan open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽SCII總冠軍賽以總比數](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")3-5輸給[橘子熊](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，無緣獲得電競五年SCII聯賽總冠軍。
+  - 2012年7月22日：在[Taiwan open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽S](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")\&K總冠軍賽以直落四輸給[橘子熊](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，無緣獲得電競五年S\&K聯賽總冠軍。
   - 2013年1月19日：參加SF聯賽上半季冠軍賽，以2-1擊敗[橘子熊獲得SF聯賽上半季冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")。
   - 2013年1月20日：參加SCII聯賽上半季冠軍賽，以2-5輸給[橘子熊無法獲得SCII聯賽上半季冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")。
   - 2013年7月13日：參加KR聯賽和SF聯賽下半季冠軍賽，KR以直落二擊敗[Yoe鋼鐵人獲得KR聯賽下半季冠軍](https://zh.wikipedia.org/wiki/Yoe鋼鐵人 "wikilink")，SF以2-1擊敗[Yoe鋼鐵人獲得SF聯賽下半季冠軍](https://zh.wikipedia.org/wiki/Yoe鋼鐵人 "wikilink")。
-  - 2013年7月28日：在[Taiwan
-    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽KR總冠軍賽以](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")1-2輸給[橘子熊無緣獲得電競六年KR聯賽總冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，SF總冠軍賽以2-1擊敗[Yoe鋼鐵人獲得隊史及聯盟首座SF聯賽總冠軍](https://zh.wikipedia.org/wiki/Yoe鋼鐵人 "wikilink")。
-  - 2014年8月10日：KR團隊選手[李學洋](https://zh.wikipedia.org/wiki/李學洋 "wikilink")（Rock）、[劉昶亨](https://zh.wikipedia.org/wiki/劉昶亨 "wikilink")（Neal）在[Taiwan
-    open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽KR總冠軍賽分別獲得第](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")8名、第1名的成績，[劉昶亨](https://zh.wikipedia.org/wiki/劉昶亨 "wikilink")（Neal）獲得聯盟首座KR個人賽總冠軍，SF總冠軍賽以3-2擊敗[曜越太陽神](../Page/曜越太陽神.md "wikilink")獲得隊史第二座SF聯賽總冠軍。
+  - 2013年7月28日：在[Taiwan open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽KR總冠軍賽以](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")1-2輸給[橘子熊無緣獲得電競六年KR聯賽總冠軍](https://zh.wikipedia.org/wiki/橘子熊 "wikilink")，SF總冠軍賽以2-1擊敗[Yoe鋼鐵人獲得隊史及聯盟首座SF聯賽總冠軍](https://zh.wikipedia.org/wiki/Yoe鋼鐵人 "wikilink")。
+  - 2014年8月10日：KR團隊選手[李學洋](https://zh.wikipedia.org/wiki/李學洋 "wikilink")（Rock）、[劉昶亨](https://zh.wikipedia.org/wiki/劉昶亨 "wikilink")（Neal）在[Taiwan open台灣電子競技公開賽的](../Page/Taiwan_open台灣電子競技公開賽.md "wikilink")[TeSL職業電競聯賽KR總冠軍賽分別獲得第](https://zh.wikipedia.org/wiki/TeSL職業電競聯賽 "wikilink")8名、第1名的成績，[劉昶亨](https://zh.wikipedia.org/wiki/劉昶亨 "wikilink")（Neal）獲得聯盟首座KR個人賽總冠軍，SF總冠軍賽以3-2擊敗[曜越太陽神](../Page/曜越太陽神.md "wikilink")獲得隊史第二座SF聯賽總冠軍。
   - 2014年9月：SF團隊與跑跑團隊宣布解散，只留下星海團隊繼續參加聯賽。
   - 2014年10月：成立爐石戰記團隊。
-  - 2016年10月28日：華義國際與競鋒國際達成協議取得[Team
-    Mist資格權](https://zh.wikipedia.org/wiki/Team_Mist "wikilink")，重組SPIDER戰隊\[1\]。
-  - 2017年12月15日：普儸電競取得華義SPIDER隊伍經營權，命名為[TEAM
-    AFRO](https://zh.wikipedia.org/wiki/TEAM_AFRO "wikilink")，重新出發
+  - 2016年10月28日：華義國際與競鋒國際達成協議取得[Team Mist資格權](https://zh.wikipedia.org/wiki/Team_Mist "wikilink")，重組SPIDER戰隊\[1\]。
+  - 2017年12月15日：普儸電競取得華義SPIDER隊伍經營權，命名為[TEAM AFRO](https://zh.wikipedia.org/wiki/TEAM_AFRO "wikilink")，重新出發
 
 ## 所屬後勤與選手
 
@@ -1148,10 +1134,7 @@ Ian</p></td>
   - [華義SPIDER官方網站](https://web.archive.org/web/20080722235845/http://www.wayispider.com/)
   - [台灣電子競技聯盟官網](http://www.esports.com.tw/)
 
-[Category:台湾电子竞技团队](https://zh.wikipedia.org/wiki/Category:台湾电子竞技团队 "wikilink")
-[Category:台灣電子競技聯盟](https://zh.wikipedia.org/wiki/Category:台灣電子競技聯盟 "wikilink")
-[Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
-[Category:華義國際](https://zh.wikipedia.org/wiki/Category:華義國際 "wikilink")
+[Category:台湾电子竞技团队](https://zh.wikipedia.org/wiki/Category:台湾电子竞技团队 "wikilink") [Category:台灣電子競技聯盟](https://zh.wikipedia.org/wiki/Category:台灣電子競技聯盟 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink") [Category:華義國際](https://zh.wikipedia.org/wiki/Category:華義國際 "wikilink")
 
 1.
 

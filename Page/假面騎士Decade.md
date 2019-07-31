@@ -1,6 +1,4 @@
-《**假面騎士Decade**》（英譯：-{Kamen Rider
-Decade}-）為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第10部[平成](../Page/平成.md "wikilink")系列作品（忽略橫跨昭和、平成兩個年代播出的《[假面騎士Black
-RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎士Kuuga](../Page/假面騎士空我.md "wikilink")》算起），製作此特攝片的東映為新的主角假面騎士命名為「-{Decade}-」，取其「十年」之意，以紀念此系列踏入第10作。本作從2009年1月25日起於朝日電視台每週日早上8:00－8:30播出。
+《**假面騎士Decade**》（英譯：-{Kamen Rider Decade}-）為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第10部[平成](../Page/平成.md "wikilink")系列作品（忽略橫跨昭和、平成兩個年代播出的《[假面騎士Black RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎士Kuuga](../Page/假面騎士空我.md "wikilink")》算起），製作此特攝片的東映為新的主角假面騎士命名為「-{Decade}-」，取其「十年」之意，以紀念此系列踏入第10作。本作從2009年1月25日起於朝日電視台每週日早上8:00－8:30播出。
 
 香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人帝騎}-**》，從2011年11月26日起於[翡翠台](../Page/翡翠台.md "wikilink")每週六早上11:30－11:55播出。台灣自2011/12/3起每周六17:00－17:30在卡通頻道播出。首次與不同特攝節目進行跨界合作的節目。\[1\]
 
@@ -20,14 +18,11 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
 
 ## 劇情簡介
 
-2009年，家裡經營[照相館](https://zh.wikipedia.org/wiki/照相館 "wikilink")「光寫真館」的女孩'''光
-夏海 '''被惡夢糾纏著：無數假面騎士向僅僅一人的目標—「Decade」發動總攻擊後全滅的惡夢。
+2009年，家裡經營[照相館](https://zh.wikipedia.org/wiki/照相館 "wikilink")「光寫真館」的女孩'''光 夏海 '''被惡夢糾纏著：無數假面騎士向僅僅一人的目標—「Decade」發動總攻擊後全滅的惡夢。
 
-**門矢
-士**，是個失去記憶、不知道自己來自何處卻莫名有自信的青年。雖然寄住在夏海家工作，但他拍出的相片總是因不明原因和實物相差甚遠異。夏海因此過著每天幫士向客人謝罪後再追著士說教的日子。
+**門矢 士**，是個失去記憶、不知道自己來自何處卻莫名有自信的青年。雖然寄住在夏海家工作，但他拍出的相片總是因不明原因和實物相差甚遠異。夏海因此過著每天幫士向客人謝罪後再追著士說教的日子。
 
-有一天，城市裡突然出現極光。隨著極光閃現，原本的建築物崩壞消失，各種叢林、廢墟、陌生建築憑空出現，不知來自何處的大量怪物到處襲擊人類，世界猶如陷入末日。混亂中士和夏海被極光衝散，士遇到名為**紅
-渡**的神祕青年，知道自己是被稱作「Decade」的存在。夏海則在怪物追殺中撿到夢中出現的Decade腰帶扣。
+有一天，城市裡突然出現極光。隨著極光閃現，原本的建築物崩壞消失，各種叢林、廢墟、陌生建築憑空出現，不知來自何處的大量怪物到處襲擊人類，世界猶如陷入末日。混亂中士和夏海被極光衝散，士遇到名為**紅 渡**的神祕青年，知道自己是被稱作「Decade」的存在。夏海則在怪物追殺中撿到夢中出現的Decade腰帶扣。
 
 再次相會兩人依然被極光隔開，危急中士使用夏海穿透極光遞過來的腰帶扣變身成假面騎士Decade救出了夏海，但世界的崩壞仍然沒有停止。
 
@@ -60,8 +55,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
   - [Ryuki](../Page/假面騎士龍騎.md "wikilink")
       - Ryuki：辰巳 真司、门矢士
       - Knight：羽黑 蓮
-      - Ohja（王蛇）鸣泷召唤的王蛇配音跟原作假面骑士龙骑一样的，是破坏大石头才觉醒大螃蟹。剧场版登场过，不是鸣泷召唤的。
-        R王蛇（海东大树召唤的王蛇被龙太洛斯给附身。）
+      - Ohja（王蛇）鸣泷召唤的王蛇配音跟原作假面骑士龙骑一样的，是破坏大石头才觉醒大螃蟹。剧场版登场过，不是鸣泷召唤的。 R王蛇（海东大树召唤的王蛇被龙太洛斯给附身。）
       - Raia：海东召唤的
       - Gai：海东召唤的
       - scissors：海东召唤的
@@ -152,8 +146,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
       - 豪快綠：東 • 多格伊亞
       - 豪快桃：艾姆 • 德 • 法蜜由
       - 豪快銀：伊狩鎧
-  - [特命战队Go
-    Busters](https://zh.wikipedia.org/wiki/特命战队Go_Busters "wikilink")
+  - [特命战队Go Busters](https://zh.wikipedia.org/wiki/特命战队Go_Busters "wikilink")
       - Red Buster：樱田弘
       - Blue Buster：岩崎龙次
       - Yellow Buster：宇佐见阳子
@@ -198,9 +191,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
     卡片音效為KAMAN RIDE+騎士稱謂＋型態名稱。（若無型態變化就不會再追加型態名稱的音效）
     例如1:在Decade變身時的音效為-{Kamen Rride Decade}-。
     例如2:使用Kamen Ride Faiz Accel;卡，可以直接變身-{Decade Faiz Accel Form}-
-    在BLACK篇，門矢士得到KAMAN RIDE
-    BLACK卡，海東大樹一手搶去，並說：士，這張卡你是沒辦法用的，因为在当时由Diend召唤会比Decade变身更加有利于战局。而后来於[假面騎士x超級戰隊
-    超級英雄大戰中](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，Decade成功變身成1號，所以Decade是能變身成平成系以外的假面騎士。另外，玩具也可以變身成平成系以外的假面騎士。
+    在BLACK篇，門矢士得到KAMAN RIDE BLACK卡，海東大樹一手搶去，並說：士，這張卡你是沒辦法用的，因为在当时由Diend召唤会比Decade变身更加有利于战局。而后来於[假面騎士x超級戰隊 超級英雄大戰中](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，Decade成功變身成1號，所以Decade是能變身成平成系以外的假面騎士。另外，玩具也可以變身成平成系以外的假面騎士。
 
 #### Form Ride（ 戰鬥型態卡）
 
@@ -208,8 +199,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
 
   -
     用此類卡片在Decade使用Kamen Ride卡的狀態下，可以變身成其所對應的假面騎士的形態。
-    例如在-{Decade Faiz Form}-狀態下使用Form Rride Axel，就可以變身成-{Decade Faiz Axel
-    Form}-。
+    例如在-{Decade Faiz Form}-狀態下使用Form Rride Axel，就可以變身成-{Decade Faiz Axel Form}-。
     但是此類變身尚不清楚能不能套用至最終型態的假面騎士變身，例如劇中尚未出現如：Form Rride Suvive音效的卡
     因此在所有平成系Kamen Rride中，龍騎是唯一沒有Form Rride卡的存在
 
@@ -433,8 +423,7 @@ Decade可以用此類卡片發動卡片上記載的技能
 
 原文：「」
 
-Decade可以用此類卡片發動為卡片所對應的假面騎士的必殺技，可以與變為FFR形態的假面騎士發動連攜必殺技，單獨使用時必須變身為卡片對應的假面騎士才可以使用。而在Complete
-Form時則須召喚對應的假面騎士才可以，該分身會和Decade一同使出對應的必殺技。
+Decade可以用此類卡片發動為卡片所對應的假面騎士的必殺技，可以與變為FFR形態的假面騎士發動連攜必殺技，單獨使用時必須變身為卡片對應的假面騎士才可以使用。而在Complete Form時則須召喚對應的假面騎士才可以，該分身會和Decade一同使出對應的必殺技。
 
 <table>
 <tbody>
@@ -917,10 +906,8 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
     讀卡機型變身驅動器（可簡作“讀卡機”或“腰帶”），能插入各騎士卡片，使出不同功效。
     將此驅動器放至腰前環帶便會自動套上。
     於1-18話片尾時會亮起該騎士的標誌以表示目前所在的世界。
-    能够利用次元转换解放机将被封印在2次元（平面）内的Kamen
-    Rider力量解放到3次元（立体）里。内部装有担任创造功能的，被称为“Trickster”的秘石。另外，腰带从左到右有‘地•水•火•风•光•暗’六个元素的神秘符号。
-    这些是形成Decade Driver的主要元素。Decade
-    Driver上有平成年代的所有假面骑士的标志纹章。是Decade继承了各个平行世界中骑士们力量的证明。
+    能够利用次元转换解放机将被封印在2次元（平面）内的Kamen Rider力量解放到3次元（立体）里。内部装有担任创造功能的，被称为“Trickster”的秘石。另外，腰带从左到右有‘地•水•火•风•光•暗’六个元素的神秘符号。
+    这些是形成Decade Driver的主要元素。Decade Driver上有平成年代的所有假面骑士的标志纹章。是Decade继承了各个平行世界中骑士们力量的证明。
 
 ##### 武器
 
@@ -973,8 +960,7 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
 
 ### Diend
 
-Diend為[英文諧音的](https://zh.wikipedia.org/wiki/英文 "wikilink")「The
-End」，Diend常簡作「DED」，變身者為海東 大樹
+Diend為[英文諧音的](https://zh.wikipedia.org/wiki/英文 "wikilink")「The End」，Diend常簡作「DED」，變身者為海東 大樹
 
 #### 變身模式
 
@@ -1009,8 +995,7 @@ End」，Diend常簡作「DED」，變身者為海東 大樹
     由於此本身就是一把手槍，就算不變身也可以用來射擊，加上此槍是雙槍管式設計，性能比**Decade**的RideBooker高。
     此外，在變身時若將槍口指著對手，則在變身的同時也能先攻擊敵人。
 
-於劇場版-{**\<假面騎士x假面騎士x假面騎士超．電王3Movie（Episode Yellow-
-Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch變身。
+於劇場版-{**\<假面騎士x假面騎士x假面騎士超．電王3Movie（Episode Yellow- Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch變身。
 
   - K-Touch（完全觸控器）：
 
@@ -1028,8 +1013,7 @@ Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch�
 
 ### Amaki
 
-於**Hibiki**世界出現之假面騎士。
-漢字為「天鬼」，曾在原作中的第41集出場，只是單單以「天美晶的變身體」來稱呼，並沒有正式名稱。在**Decade**中才有正式的名稱。
+於**Hibiki**世界出現之假面騎士。 漢字為「天鬼」，曾在原作中的第41集出場，只是單單以「天美晶的變身體」來稱呼，並沒有正式名稱。在**Decade**中才有正式的名稱。
 
   - 主體顏色：藍色及黑色
 
@@ -1056,8 +1040,7 @@ Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch�
 
 ### Abyss
 
-本作於**Ryuki**世界原創之假面騎士，在原作中沒有出現。其中假面騎士 Abyss的契約獸
-深海堤壩（Abysslasher）與深海錘擊者（Abysshammer），已在《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》中登場過。
+本作於**Ryuki**世界原創之假面騎士，在原作中沒有出現。其中假面騎士 Abyss的契約獸 深海堤壩（Abysslasher）與深海錘擊者（Abysshammer），已在《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》中登場過。
 
   -
 
@@ -1080,11 +1063,7 @@ Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch�
   -
     {| class=wikitable style="text-align:left; font-size:80%"
 
-|- \! 卡牌組 \!\! 效 |- | **Sword Vent（武器降臨）** || 召喚武器為深海鋸刀。3000AP |- |
-**Strike Vent（重擊降臨）** || 召喚裝備－深淵鯊爪，配戴在右手上，並利用Abyssodon發動「深淵猛流」。3000AP |-
-| **Advent（契約獸降臨）** ||
-召喚契約獸「深海堤壩（Abysslasher）」與「深海錘擊者（Abysshammer）」。5000AP
-|- | **Final Vent（終極降臨）** || 發動必殺技「深海衝擊（Abyss Dive）」。7000AP |- |}
+|- \! 卡牌組 \!\! 效 |- | **Sword Vent（武器降臨）** || 召喚武器為深海鋸刀。3000AP |- | **Strike Vent（重擊降臨）** || 召喚裝備－深淵鯊爪，配戴在右手上，並利用Abyssodon發動「深淵猛流」。3000AP |- | **Advent（契約獸降臨）** || 召喚契約獸「深海堤壩（Abysslasher）」與「深海錘擊者（Abysshammer）」。5000AP |- | **Final Vent（終極降臨）** || 發動必殺技「深海衝擊（Abyss Dive）」。7000AP |- |}
 
   - 招式
 
@@ -1093,11 +1072,7 @@ Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch�
   -
     {| class=wikitable style="text-align:left; font-size:80%"
 
-|- \! 招式 \!\! 效果說明 |- | **深淵猛流（Abyssmash）** ||
-在裝備上深淵鯊爪後利用Abyssodon對敵人放出強力的冰河水柱。 |- |
-**深海衝擊（Abyss Dive）** ||
-召喚出Abysslasher與Abysshammer合體成一架鯊魚戰機Abyssodon，並對敵人進行強力的掃射攻擊。
-|- |}
+|- \! 招式 \!\! 效果說明 |- | **深淵猛流（Abyssmash）** || 在裝備上深淵鯊爪後利用Abyssodon對敵人放出強力的冰河水柱。 |- | **深海衝擊（Abyss Dive）** || 召喚出Abysslasher與Abysshammer合體成一架鯊魚戰機Abyssodon，並對敵人進行強力的掃射攻擊。 |- |}
 
   - **魔狂鯊（Abyssodon）**
 
@@ -1147,11 +1122,9 @@ Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch�
 
 ## 世界觀的概念－平行世界
 
-本作中的九個世界並不是平成九部作品的世界，而是其平行世界。因此人物設定會與相應原作有所不同，其中只有電王篇和侍戰隊篇維持原來的世界觀，而Kiva篇的Spider
-Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威吹鬼及其弟子，還有暗影篇也有同名同姓以及同演員的紅音也（原作Kiva的角色），但世界觀仍是與原作不同。（在平行世界中所有主角騎士均不是由原演員扮演）
+本作中的九個世界並不是平成九部作品的世界，而是其平行世界。因此人物設定會與相應原作有所不同，其中只有電王篇和侍戰隊篇維持原來的世界觀，而Kiva篇的Spider Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威吹鬼及其弟子，還有暗影篇也有同名同姓以及同演員的紅音也（原作Kiva的角色），但世界觀仍是與原作不同。（在平行世界中所有主角騎士均不是由原演員扮演）
 
-另外，電王篇所有角色均由原演員演出，雖然當中的主角－成年的野上良太郎（[佐藤健](../Page/佐藤健.md "wikilink")
-飾）因劇情而未能出場，但明顯在故事設定上，這個世界並不是平行世界，而是原作的延續。\[12\]
+另外，電王篇所有角色均由原演員演出，雖然當中的主角－成年的野上良太郎（[佐藤健](../Page/佐藤健.md "wikilink") 飾）因劇情而未能出場，但明顯在故事設定上，這個世界並不是平行世界，而是原作的延續。\[12\]
 
 而侍戰隊的世界則是主角等等演員全部相同的世界，與侍戰隊真劍者作連動。
 
@@ -1261,8 +1234,7 @@ Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威�
 <!-- end list -->
 
   -
-    海東大樹原本生活的世界，在Roaches的控制下人類必須親切待人否則會被洗腦。此世界出現的其他假面騎士和敵人皆出現假面騎士Blade及其劇場版MISSING
-    ACE。
+    海東大樹原本生活的世界，在Roaches的控制下人類必須親切待人否則會被洗腦。此世界出現的其他假面騎士和敵人皆出現假面騎士Blade及其劇場版MISSING ACE。
 
 <!-- end list -->
 
@@ -1316,8 +1288,7 @@ Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威�
 <!-- end list -->
 
   -
-    士原本所居住的世界，亦為〈[劇場版 假面騎士Decade 全騎士 VS
-    大修卡](../Page/劇場版_假面騎士Decade_全騎士_VS_大修卡.md "wikilink")〉故事中的主要世界。
+    士原本所居住的世界，亦為〈[劇場版 假面騎士Decade 全騎士 VS 大修卡](../Page/劇場版_假面騎士Decade_全騎士_VS_大修卡.md "wikilink")〉故事中的主要世界。
 
 <!-- end list -->
 
@@ -1326,9 +1297,7 @@ Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威�
 <!-- end list -->
 
   -
-    [假面騎士W與Dopant戰鬥的世界](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")，亦為〈[假面騎士×假面騎士
-    W & Decade
-    Movie大戰2010](../Page/假面騎士×假面騎士_W_&_Decade_Movie大戰2010.md "wikilink")〉故事中的主要世界。
+    [假面騎士W與Dopant戰鬥的世界](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")，亦為〈[假面騎士×假面騎士 W & Decade Movie大戰2010](../Page/假面騎士×假面騎士_W_&_Decade_Movie大戰2010.md "wikilink")〉故事中的主要世界。
 
 <!-- end list -->
 
@@ -1346,8 +1315,7 @@ Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威�
 <!-- end list -->
 
   -
-    [假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")與假面骑士Fifteen戰鬥的世界，亦為〈[平成騎士對昭和騎士
-    假面騎士大戰feat.超級戰隊](../Page/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊.md "wikilink")〉故事中的主要世界。
+    [假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")與假面骑士Fifteen戰鬥的世界，亦為〈[平成騎士對昭和騎士 假面騎士大戰feat.超級戰隊](../Page/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊.md "wikilink")〉故事中的主要世界。
 
 <!-- end list -->
 
@@ -1478,8 +1446,7 @@ Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威�
 
 ## S.I.C. 英雄傳說
 
-「幪面超人帝騎-強者之世界」是原作一年後的故事，講述「世界之破壞者」幪面超人帝騎(門矢士)到達了原作幪面超人強者的世界，被該世界的幪面超人強者**城茂**誤會並行世界的存在會有壞影響，後來門矢士向城茂解釋與邪惡軍團**鋼鉄参謀**及**岩石大首領**戰鬥，2010年6月至2011年5月於Hobby
-Japan連載。
+「幪面超人帝騎-強者之世界」是原作一年後的故事，講述「世界之破壞者」幪面超人帝騎(門矢士)到達了原作幪面超人強者的世界，被該世界的幪面超人強者**城茂**誤會並行世界的存在會有壞影響，後來門矢士向城茂解釋與邪惡軍團**鋼鉄参謀**及**岩石大首領**戰鬥，2010年6月至2011年5月於Hobby Japan連載。
 
 \*;登場角色
 
@@ -1515,8 +1482,7 @@ Japan連載。
 
 :\#さよなら\!栄光の仮面ライダー\!\!
 
-Live Stage-Show裏亦引入一位原創的幪面超人，就是以海參為原型的幪面超人Zuccocade，他企圖搶奪幪面超人Decade的征服AR
-世界皇者的地位。與Decade及Diend一樣，都是以卡片變身，能召喚凡佳亞及武器Super Sword，亦能使用分身卡片。
+Live Stage-Show裏亦引入一位原創的幪面超人，就是以海參為原型的幪面超人Zuccocade，他企圖搶奪幪面超人Decade的征服AR 世界皇者的地位。與Decade及Diend一樣，都是以卡片變身，能召喚凡佳亞及武器Super Sword，亦能使用分身卡片。
 
 這幪面超人並不列入正傳的系列。
 
@@ -2128,16 +2094,11 @@ Black×Black RX</p></td>
 ### 劇場版
 
   - **《》**
-  - **《[劇場版 假面騎士Decade 全騎士 VS
-    大修卡](../Page/劇場版_假面騎士Decade_全騎士_VS_大修卡.md "wikilink")》**
-  - **《[假面騎士×假面騎士W & Decade
-    Movie大戰2010](https://zh.wikipedia.org/wiki/假面騎士×假面騎士W_&_Decade_Movie大戰2010 "wikilink")》**
-  - **《[假面騎士x超級戰隊
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**
-  - **《[平成騎士對昭和騎士 假面騎士大戰
-    feat.超級戰隊](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰_feat.超級戰隊 "wikilink")》**
-  - **《[假面騎士平成Generations
-    Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》**
+  - **《[劇場版 假面騎士Decade 全騎士 VS 大修卡](../Page/劇場版_假面騎士Decade_全騎士_VS_大修卡.md "wikilink")》**
+  - **《[假面騎士×假面騎士W & Decade Movie大戰2010](https://zh.wikipedia.org/wiki/假面騎士×假面騎士W_&_Decade_Movie大戰2010 "wikilink")》**
+  - **《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**
+  - **《[平成騎士對昭和騎士 假面騎士大戰 feat.超級戰隊](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰_feat.超級戰隊 "wikilink")》**
+  - **《[假面騎士平成Generations Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》**
 
 ### 小說
 
@@ -2146,8 +2107,7 @@ Black×Black RX</p></td>
   - 作者 - 鐘弘亞樹、監修 - 井上敏樹
   - 日本2013年4月11日發售，香港中文版由拓植社推出，2018年5月25日發售。
 
-簡介： 和TV本篇不同的故事，號稱為「路過的幪面超人」帝騎的門矢士遊走於九大異世界，聯同幪面超人電王、
-幪面超人古迦及幪面超人甲鬥王合力對抗強大的敵對勢力……
+簡介： 和TV本篇不同的故事，號稱為「路過的幪面超人」帝騎的門矢士遊走於九大異世界，聯同幪面超人電王、 幪面超人古迦及幪面超人甲鬥王合力對抗強大的敵對勢力……
 
 ## 歌曲
 
@@ -2220,22 +2180,13 @@ Black×Black RX</p></td>
 
   - [假面騎士Decade（朝日電視台）](http://www.tv-asahi.co.jp/decade/)
   - [假面騎士Decade（東映）](http://www.toei.co.jp/tv/decade/)
-  - [假面騎士Decade介紹（Bandai Hong
-    Kong）](http://www.youtube.com/watch?v=ZmILVY81K9w/)
+  - [假面騎士Decade介紹（Bandai Hong Kong）](http://www.youtube.com/watch?v=ZmILVY81K9w/)
 
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")
-[Category:平行世界題材電視劇](https://zh.wikipedia.org/wiki/Category:平行世界題材電視劇 "wikilink")
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:卡片題材作品](https://zh.wikipedia.org/wiki/Category:卡片題材作品 "wikilink")
+[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:平行世界題材電視劇](https://zh.wikipedia.org/wiki/Category:平行世界題材電視劇 "wikilink") [Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:卡片題材作品](https://zh.wikipedia.org/wiki/Category:卡片題材作品 "wikilink")
 
 1.  八手三郎:《[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")》
 
-2.  例如被Diend召喚出場、或者电王里面异魔神附身过骑士，或是Decade用卡片变假面骑士形态的样子也算，夏海夢中見到的假面騎士和自結界出現的假面騎士，請自行觀看Diend的Kamen
-    Ride卡、上方的鳴瀧和夏海夢中見到的假面騎士。
+2.  例如被Diend召喚出場、或者电王里面异魔神附身过骑士，或是Decade用卡片变假面骑士形态的样子也算，夏海夢中見到的假面騎士和自結界出現的假面騎士，請自行觀看Diend的Kamen Ride卡、上方的鳴瀧和夏海夢中見到的假面騎士。
 
 3.  護星卡。
 
@@ -2243,13 +2194,9 @@ Black×Black RX</p></td>
 
 5.  劇中劍刃與Kuuga Gouram連接，令攻擊強化了。是編審因為電王篇而特別作出的搞笑效果，而不是卡片效果。
 
-6.  劇中使用的咭片為Diend的Kamen Ride -{Diend}-（非強化版），但聲效則是Final Attack Ride
-    di..di..di..-{Diend}-
+6.  劇中使用的咭片為Diend的Kamen Ride -{Diend}-（非強化版），但聲效則是Final Attack Ride di..di..di..-{Diend}-
 
-7.  以能力上來說實際上最強形態應是Super Climax
-    Form，但由於其沒有在TV版出現，加上其初登場的劇場在Decade開播後才公映，登時大概已完成Final
-    Kamen Ride的設定，故TV版中依然以Liner Form為Den-O的最終形態，到第三劇場版時刀加入Super Climax
-    Form的卡片。
+7.  以能力上來說實際上最強形態應是Super Climax Form，但由於其沒有在TV版出現，加上其初登場的劇場在Decade開播後才公映，登時大概已完成Final Kamen Ride的設定，故TV版中依然以Liner Form為Den-O的最終形態，到第三劇場版時刀加入Super Climax Form的卡片。
 
 8.
 9.  只能在發動過後現形才能作出攻擊。
@@ -2264,5 +2211,4 @@ Black×Black RX</p></td>
 
 14. 役自体は異なるが、ファンガイアのクイーンという立場は『仮面ライダーキバ』の鈴木深央役と共通する。
 
-15. ビートルファンガイア、パラドキサアンデッド、タイガーオルフェノク、バッファローロード
-    タウルス・バリスタ、アリゲーターイマジン、フィロキセラワームの6体のみ。
+15. ビートルファンガイア、パラドキサアンデッド、タイガーオルフェノク、バッファローロード タウルス・バリスタ、アリゲーターイマジン、フィロキセラワームの6体のみ。

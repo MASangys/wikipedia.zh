@@ -1,11 +1,8 @@
-**《Let's Get
-Wet》**是[林峯的第三張個人大碟](https://zh.wikipedia.org/wiki/林峯 "wikilink")，於2009年6月16日公開發售。隨碟附送3首Music
-Video和64頁全紀錄寫真集（尺寸：18cm x 25cm，約A4尺寸）。
+**《Let's Get Wet》**是[林峯的第三張個人大碟](https://zh.wikipedia.org/wiki/林峯 "wikilink")，於2009年6月16日公開發售。隨碟附送3首Music Video和64頁全紀錄寫真集（尺寸：18cm x 25cm，約A4尺寸）。
 
 ## 曲目列表
 
-《Let's Get Wet》共收錄了7首歌曲和3首歌曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")：「Let's
-Get Wet」、「換個方式愛你」與「如果時間來到」。
+《Let's Get Wet》共收錄了7首歌曲和3首歌曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")：「Let's Get Wet」、「換個方式愛你」與「如果時間來到」。
 
 <table>
 <tbody>
@@ -100,20 +97,15 @@ TVB劇集《包青天》主題曲</p></td>
 
 ## 所獲獎項
 
-  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第一回（2009）：歌曲獎
-    「如果時間來到」
-  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第二回（2009）：歌曲獎
-    「Let's Get Wet」
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第一回（2009）：歌曲獎 「如果時間來到」
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第二回（2009）：歌曲獎 「Let's Get Wet」
   - [雅虎](../Page/雅虎.md "wikilink")[YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")（2009）：搜尋人氣電視劇集歌曲「值得流淚」
   - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")（2009）：全球觀眾最愛粵語歌曲獎「如果時間來到」
   - [新城電台](../Page/新城電台.md "wikilink")[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")（2009）：新城勁爆原創歌曲「如果時間來到」
-  - [新城電台](../Page/新城電台.md "wikilink")[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")（2009）：新城勁爆卡拉OK
-    歌曲「如果時間來到」
+  - [新城電台](../Page/新城電台.md "wikilink")[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")（2009）：新城勁爆卡拉OK 歌曲「如果時間來到」
   - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")（2009）：十大勁歌金曲獎「如果時間來到」
   - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")（2009）：最佳填詞獎「如果時間來到」
   - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")（2009）：最佳編曲獎「如果時間來到」
   - 歌王金曲金榜全球華人樂壇總選音樂盛典（2010）：粵語金曲獎「如果時間來到」
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:林峯音樂專輯](https://zh.wikipedia.org/wiki/Category:林峯音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:林峯音樂專輯](https://zh.wikipedia.org/wiki/Category:林峯音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")

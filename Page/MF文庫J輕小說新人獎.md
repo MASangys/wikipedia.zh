@@ -1,5 +1,4 @@
-**MF文庫J輕小說新人獎**（****），是[Media
-Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說新人獎](../Page/輕小說.md "wikilink")。以三個月為單位，每年舉辦四次的預備審查，然後再從中選出整年的最優秀獎（亦有從缺的情況：到2007年九月為止，沒有出現過最優秀獎）。佳作以上的作品會由同社的輕小說文庫《[MF文庫J](../Page/MF文庫J.md "wikilink")》出版。
+**MF文庫J輕小說新人獎**（****），是[Media Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")新人獎。以三個月為單位，每年舉辦四次的預備審查，然後再從中選出整年的最優秀獎（亦有從缺的情況：到2007年九月為止，沒有出現過最優秀獎）。佳作以上的作品會由同社的輕小說文庫《[MF文庫J](../Page/MF文庫J.md "wikilink")》出版。
 
 最優秀獎得獎者可以得到正賞的盾與副賞100萬日元，優秀獎50萬日元，佳作10萬日元。
 
@@ -26,8 +25,8 @@ Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說新人獎](..
 <td><p>優秀獎</p></td>
 <td><p><a href="../Page/幽靈戀人.md" title="wikilink">幽靈戀人</a></p></td>
 <td><p><a href="../Page/平坂讀.md" title="wikilink">平坂讀</a></p></td>
-<td><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社代理</a><br />
-<a href="../Page/新星出版社.md" title="wikilink">新星出版社代理</a></p></td>
+<td><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a>代理<br />
+<a href="../Page/新星出版社.md" title="wikilink">新星出版社</a>代理</p></td>
 </tr>
 <tr class="even">
 <td><p>佳作</p></td>
@@ -50,7 +49,7 @@ Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說新人獎](..
 <td><p>佳作</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陰沉少女與黑魔法之戀" title="wikilink">陰沉少女與黑魔法之戀</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊谷雅人" title="wikilink">熊谷雅人</a></p></td>
-<td><p><a href="../Page/尖端出版.md" title="wikilink">尖端出版代理</a></p></td>
+<td><p><a href="../Page/尖端出版.md" title="wikilink">尖端出版</a>代理</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -644,7 +643,7 @@ Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說新人獎](..
 <td><p>（<a href="https://zh.wikipedia.org/wiki/我的快轉戀愛喜劇" title="wikilink">我的快轉戀愛喜劇</a>）</p></td>
 <td><p><br />
 （<a href="https://zh.wikipedia.org/wiki/樫本燕" title="wikilink">樫本燕</a>）</p></td>
-<td><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川代理</a></p></td>
+<td><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a>代理</p></td>
 </tr>
 <tr class="odd">
 <td><p>優秀獎</p></td>
@@ -733,10 +732,7 @@ Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說新人獎](..
 
   - [MF文庫J輕小說新人獎](http://www.mediafactory.co.jp/bunkoj/rookie/index)
 
-[Category:MEDIA_FACTORY](https://zh.wikipedia.org/wiki/Category:MEDIA_FACTORY "wikilink")
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
-[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink")
-[Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
+[Category:MEDIA_FACTORY](https://zh.wikipedia.org/wiki/Category:MEDIA_FACTORY "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
 
 1.  以2004年7月，新人賞創設以前投稿到編輯部的作品為對象。
 2.  本屆編輯長特別獎因評審期間日日日以《[在遙遠彼方的小千](../Page/在遙遠彼方的小千.md "wikilink")》（新風舍）出道，不合參賽條件（僅限未在他社出道的新人）而特別設置。

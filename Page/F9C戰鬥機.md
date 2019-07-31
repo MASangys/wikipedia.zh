@@ -1,7 +1,4 @@
-[F9C_Sparrowhawk.jpg](https://zh.wikipedia.org/wiki/File:F9C_Sparrowhawk.jpg "fig:F9C_Sparrowhawk.jpg")
-**F9C雀鷹戰鬥機**是世界上唯一專司[飛船安全的](https://zh.wikipedia.org/wiki/飛船 "wikilink")[雙翼](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，該機當時任務是保護隸屬[美國海軍的兩艘飛船](../Page/美國海軍.md "wikilink")**-{艾克隆}-**（USS
-Akron）及**麥康**（USS Macon）。
-[USS_Macon_F9C.jpg](https://zh.wikipedia.org/wiki/File:USS_Macon_F9C.jpg "fig:USS_Macon_F9C.jpg")
+[F9C_Sparrowhawk.jpg](https://zh.wikipedia.org/wiki/File:F9C_Sparrowhawk.jpg "fig:F9C_Sparrowhawk.jpg") **F9C雀鷹戰鬥機**是世界上唯一專司[飛船安全的](https://zh.wikipedia.org/wiki/飛船 "wikilink")[雙翼](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，該機當時任務是保護隸屬[美國海軍](../Page/美國海軍.md "wikilink")的兩艘飛船**-{艾克隆}-**（USS Akron）及**麥康**（USS Macon）。 [USS_Macon_F9C.jpg](https://zh.wikipedia.org/wiki/File:USS_Macon_F9C.jpg "fig:USS_Macon_F9C.jpg")
 
 ## 歷史
 
@@ -25,5 +22,4 @@ F9C雀鷹戰鬥機在1931年2月首次試飛。上翼面中央有一掛鉤，可
 
 單座戰鬥機。
 
-[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink")
-[Category:柯蒂斯公司生产的飞机](https://zh.wikipedia.org/wiki/Category:柯蒂斯公司生产的飞机 "wikilink")
+[Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:柯蒂斯公司生产的飞机](https://zh.wikipedia.org/wiki/Category:柯蒂斯公司生产的飞机 "wikilink")

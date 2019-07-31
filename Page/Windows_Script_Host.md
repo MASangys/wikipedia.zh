@@ -1,9 +1,6 @@
-**Windows Script
-Host**（簡稱**WSH**），是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")（script）的執行環境。
+**Windows Script Host**（簡稱**WSH**），是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")（script）的執行環境。
 
-**Windows Script Host**最早出現在[Windows
-98](../Page/Windows_98.md "wikilink")，經過不斷發展與強化，爾後的Windows作業系統（包括[用戶端與](https://zh.wikipedia.org/wiki/用戶端 "wikilink")[伺服端版本](https://zh.wikipedia.org/wiki/伺服端 "wikilink")）都內建了WSH。使用者透過Windows
-Script Host能自行編寫一些程式，用以簡化日常工作流程，或製作一些實用的系統管理程式。
+**Windows Script Host**最早出現在[Windows 98](../Page/Windows_98.md "wikilink")，經過不斷發展與強化，爾後的Windows作業系統（包括[用戶端與](https://zh.wikipedia.org/wiki/用戶端 "wikilink")[伺服端版本](https://zh.wikipedia.org/wiki/伺服端 "wikilink")）都內建了WSH。使用者透過Windows Script Host能自行編寫一些程式，用以簡化日常工作流程，或製作一些實用的系統管理程式。
 
 ## 版本
 
@@ -20,8 +17,7 @@ Script Host能自行編寫一些程式，用以簡化日常工作流程，或製
 
 ## 查看WSH的版本
 
-進入[DOS](../Page/DOS.md "wikilink")環境（或「[命令提示字元](../Page/命令提示字元.md "wikilink")」），在「命令提示符號」旁輸入**cscript**（如：<span style="color: DarkGreen;">`C:\cscript`</span>），按「Enter」出現以下訊息：\[1\]
-<span style="font-size:smaller;"><code>
+進入[DOS](../Page/DOS.md "wikilink")環境（或「[命令提示字元](../Page/命令提示字元.md "wikilink")」），在「命令提示符號」旁輸入**cscript**（如：<span style="color: DarkGreen;">`C:\cscript`</span>），按「Enter」出現以下訊息：\[1\] <span style="font-size:smaller;"><code>
 
 `Microsoft (R) Windows Script Host Version 5.6`
 `Copyright (C) Microsoft Corporation 1996-2001. All rights reserved.`
@@ -67,10 +63,8 @@ Script Host能自行編寫一些程式，用以簡化日常工作流程，或製
 
 ## 外部連結
 
-  - [Windows Server System系統管理之Windows Script
-    Host](http://www.microsoft.com/taiwan/technet/columns/profwin/tnawsh.mspx#EAB)
+  - [Windows Server System系統管理之Windows Script Host](http://www.microsoft.com/taiwan/technet/columns/profwin/tnawsh.mspx#EAB)
 
-[Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
-[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
+[Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.  如果沒有出現，就表示你的系統並沒有WSH的環境。

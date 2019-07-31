@@ -1,5 +1,4 @@
-**quanp**
-(kuàngpū)：[RICOH开发的](../Page/理光.md "wikilink")[网络存储系统](https://zh.wikipedia.org/wiki/网络存储系统 "wikilink")。
+**quanp** (kuàngpū)：[RICOH开发的](../Page/理光.md "wikilink")[网络存储系统](https://zh.wikipedia.org/wiki/网络存储系统 "wikilink")。
 
 ## 简介
 
@@ -26,9 +25,7 @@
 
 ### quanp.on
 
-Windows专用客户端。quanp.on是使用[.NET
-Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
-3.0的[WPFで开发的应用程序](../Page/Windows_Presentation_Foundation.md "wikilink")。其最主要的特征就是实现了文件的3D表示，。获得了日本2008年度[优秀设计奖](https://zh.wikipedia.org/wiki/优秀设计奖 "wikilink")。
+Windows专用客户端。quanp.on是使用[.NET Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink") 3.0的[WPFで开发的应用程序](../Page/Windows_Presentation_Foundation.md "wikilink")。其最主要的特征就是实现了文件的3D表示，。获得了日本2008年度[优秀设计奖](https://zh.wikipedia.org/wiki/优秀设计奖 "wikilink")。
 
 ### quanp.net
 
@@ -36,8 +33,7 @@ Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
 
 ### quanp Add-in for Microsoft Office 2003/2007
 
-[Microsoft
-Office文件进行上传和下载的office插件](../Page/Microsoft_Office.md "wikilink")。
+[Microsoft Office文件进行上传和下载的office插件](../Page/Microsoft_Office.md "wikilink")。
 
 ### quanp slideshow
 
@@ -63,7 +59,6 @@ quanp的手机客户端。
 
   - [quanp](http://webarchive.loc.gov/all/20090702100320/http://www.quanp.com/)
   - [quanp.net](http://webarchive.loc.gov/all/20090702101243/https://www.quanp.net/contents/login?original_url=/)
-  - [quanp photo
-    print](https://archive.is/20121217172211/https://www.quanpphoto.com/)
+  - [quanp photo print](https://archive.is/20121217172211/https://www.quanpphoto.com/)
 
 [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")

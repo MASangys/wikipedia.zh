@@ -4,8 +4,7 @@
 
 ## [公式](https://zh.wikipedia.org/wiki/公式 "wikilink")
 
-Y, Db和Dr訊號是產生自RGB [三原色](https://zh.wikipedia.org/wiki/三原色 "wikilink")。R,
-G和B的權重儲存於Y信号，所代表的是该点亮度.
+Y, Db和Dr訊號是產生自RGB [三原色](https://zh.wikipedia.org/wiki/三原色 "wikilink")。R, G和B的權重儲存於Y信号，所代表的是该点亮度.
 
 [RGB](https://zh.wikipedia.org/wiki/RGB "wikilink") 色彩空间和YDbDr轉換之近似公式。
 
@@ -52,5 +51,4 @@ G和B的權重儲存於Y信号，所代表的是该点亮度.
 
 ## 參考書目
 
-  - Shi, Yun Q. and Sun, Huifang *Image and Video Compression for
-    Multimedia Engineering*, CRC Press, 2000 ISBN 0-8493-3491-8
+  - Shi, Yun Q. and Sun, Huifang *Image and Video Compression for Multimedia Engineering*, CRC Press, 2000 ISBN 0-8493-3491-8

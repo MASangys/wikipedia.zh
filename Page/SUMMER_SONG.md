@@ -1,8 +1,4 @@
-“**SUMMER
-SONG**”是[日本](../Page/日本.md "wikilink")唱作女[歌手](../Page/歌手.md "wikilink")[YUI](../Page/YUI.md "wikilink")，于2008年7月2日所推出的第十二张单曲碟。由[STUDIOSEVEN
-Recordings发行](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")。清爽輕快的「SUMMER
-SONG」是YUI為暑假度身打造的作品，洋溢陽光與青春。單曲另收入「Oh My God」和「Laugh away \~YUI Acoustic
-Version\~」。
+“**SUMMER SONG**”是[日本](../Page/日本.md "wikilink")唱作女[歌手](../Page/歌手.md "wikilink")[YUI](../Page/YUI.md "wikilink")，于2008年7月2日所推出的第十二张单曲碟。由[STUDIOSEVEN Recordings发行](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")。清爽輕快的「SUMMER SONG」是YUI為暑假度身打造的作品，洋溢陽光與青春。單曲另收入「Oh My God」和「Laugh away \~YUI Acoustic Version\~」。
 
 DVD收入「SUMMER SONG」和「Laugh away \~YUI Acoustic Version\~」的MV。
 
@@ -33,8 +29,4 @@ DVD收入「SUMMER SONG」和「Laugh away \~YUI Acoustic Version\~」的MV。
   - SUMMER SONG VIDEO CLIP
   - Laugh away ～YUI Acoustic Version～
 
-[Category:YUI歌曲](https://zh.wikipedia.org/wiki/Category:YUI歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")
+[Category:YUI歌曲](https://zh.wikipedia.org/wiki/Category:YUI歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink") [Category:2008年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2008年Japan_Hot_100冠軍歌曲 "wikilink") [Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")

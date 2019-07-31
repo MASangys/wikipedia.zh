@@ -69,9 +69,6 @@
   - [谷山車站](https://zh.wikipedia.org/wiki/谷山車站 "wikilink")：其他同名的鐵路車站。
   - [日本鐵路車站列表](../Page/日本鐵路車站列表.md "wikilink")
 
-[Category:日本鐵路車站_Ta](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ta "wikilink")
-[Category:鹿兒島市鐵路車站](https://zh.wikipedia.org/wiki/Category:鹿兒島市鐵路車站 "wikilink")
-[Category:指宿枕崎線車站](https://zh.wikipedia.org/wiki/Category:指宿枕崎線車站 "wikilink")
-[Category:1930年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1930年啟用的鐵路車站 "wikilink")
+[Category:日本鐵路車站_Ta](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ta "wikilink") [Category:鹿兒島市鐵路車站](https://zh.wikipedia.org/wiki/Category:鹿兒島市鐵路車站 "wikilink") [Category:指宿枕崎線車站](https://zh.wikipedia.org/wiki/Category:指宿枕崎線車站 "wikilink") [Category:1930年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1930年啟用的鐵路車站 "wikilink")
 
 1.

@@ -1,13 +1,6 @@
-**CryENGINE
-2**是由[Crytek開發的](../Page/Crytek.md "wikilink")[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，來自於《[孤岛惊魂](../Page/孤岛惊魂_\(游戏\).md "wikilink")》（Far
-Cry）使用的[CryEngine的升級](https://zh.wikipedia.org/wiki/CryEngine "wikilink")。目前使用此引擎的遊戲為Crytek所開發的《[孤岛危机](../Page/孤岛危机.md "wikilink")》（Crysis）。瑞典的遊戲開發商[MindArk已經簽約使用此引擎在他們的遊戲](https://zh.wikipedia.org/wiki/MindArk "wikilink")──[Entropia
-Universe](https://zh.wikipedia.org/wiki/Entropia_Universe "wikilink")。第一個和CryENGINE
-2引擎簽約的是[法國公司IMAGTP](https://zh.wikipedia.org/wiki/法國 "wikilink")，用來在開始興建之前，對客戶展示建築物完成時的樣貌。
+**CryENGINE 2**是由[Crytek](../Page/Crytek.md "wikilink")開發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，來自於《[孤岛惊魂](../Page/孤岛惊魂_\(游戏\).md "wikilink")》（Far Cry）使用的[CryEngine的升級](https://zh.wikipedia.org/wiki/CryEngine "wikilink")。目前使用此引擎的遊戲為Crytek所開發的《[孤岛危机](../Page/孤岛危机.md "wikilink")》（Crysis）。瑞典的遊戲開發商[MindArk已經簽約使用此引擎在他們的遊戲](https://zh.wikipedia.org/wiki/MindArk "wikilink")──[Entropia Universe](https://zh.wikipedia.org/wiki/Entropia_Universe "wikilink")。第一個和CryENGINE 2引擎簽約的是[法國公司IMAGTP](https://zh.wikipedia.org/wiki/法國 "wikilink")，用來在開始興建之前，對客戶展示建築物完成時的樣貌。
 
-2007年5月7日，開發工作室Avatar Reality, Inc.簽約使用CryENGINE
-2，創造了一個主題為被殖民的火星的大型多人虛擬世界。\[1\]同年9月17日Ringling
-College of Art &
-Design成為第一個使用CryENGINE2作為教育目的的團體。Crytek也宣佈將以這個引擎開發一套新的遊戲。
+2007年5月7日，開發工作室Avatar Reality, Inc.簽約使用CryENGINE 2，創造了一個主題為被殖民的火星的大型多人虛擬世界。\[1\]同年9月17日Ringling College of Art & Design成為第一個使用CryENGINE2作為教育目的的團體。Crytek也宣佈將以這個引擎開發一套新的遊戲。
 
 ## 历史
 
@@ -39,13 +32,7 @@ CryENGINE 2具有許多繪圖、物理和動畫的技術以及遊戲部分的加
   - 人體骨骼模擬
   - 程式上運動彎曲模型
 
-CryENGINE 2也支援[Shader
-Model](https://zh.wikipedia.org/wiki/高級著色器語言 "wikilink")
-2.0、3.0（DirectX 9）和4.0（DirectX
-10），並且支援多核心技術來獲得[對稱多處理機](https://zh.wikipedia.org/wiki/對稱多處理機 "wikilink")（Symmetric
-multiprocessing）和[超執行緒](../Page/超執行緒.md "wikilink")（Hyper-threading，HT）。CryENGINE
-2同時支援32和64位元版本，Crytek表示使用64位元系統將會提升10%至15%的效能。\[2\]引擎不支援任何的[物理處理器](../Page/物理處理器.md "wikilink")（例如[AGEIA](../Page/AGEIA.md "wikilink")
-[PhysX](../Page/PhysX.md "wikilink")）\[3\]，CryTek發展了他們自己的物理引擎稱作CryPhysics。
+CryENGINE 2也支援[Shader Model](https://zh.wikipedia.org/wiki/高級著色器語言 "wikilink") 2.0、3.0（DirectX 9）和4.0（DirectX 10），並且支援多核心技術來獲得[對稱多處理機](https://zh.wikipedia.org/wiki/對稱多處理機 "wikilink")（Symmetric multiprocessing）和[超執行緒](../Page/超執行緒.md "wikilink")（Hyper-threading，HT）。CryENGINE 2同時支援32和64位元版本，Crytek表示使用64位元系統將會提升10%至15%的效能。\[2\]引擎不支援任何的[物理處理器](../Page/物理處理器.md "wikilink")（例如[AGEIA](../Page/AGEIA.md "wikilink") [PhysX](../Page/PhysX.md "wikilink")）\[3\]，CryTek發展了他們自己的物理引擎稱作CryPhysics。
 
 其他功能還包括...
 
@@ -97,8 +84,7 @@ multiprocessing）和[超執行緒](../Page/超執行緒.md "wikilink")（Hyper-
 
 支持創建懸崖，洞穴，山谷等地形，顯示柵格立體圖層的編輯方式可以和高度圖編輯一樣簡單而快速的繪製。
 
-  - 光照和陰影（Lighting and
-    Shadows）：一個帶高質量實時陰影組合了高級計算屬性組合用於生成動態環境。包含高分辨率，透視和容積陰影用於生成真實的室內陰影效果。支持高級的粒子技術和任何用於粒子的容積光照效果。
+  - 光照和陰影（Lighting and Shadows）：一個帶高質量實時陰影組合了高級計算屬性組合用於生成動態環境。包含高分辨率，透視和容積陰影用於生成真實的室內陰影效果。支持高級的粒子技術和任何用於粒子的容積光照效果。
 
 <!-- end list -->
 
@@ -114,8 +100,7 @@ multiprocessing）和[超執行緒](../Page/超執行緒.md "wikilink")（Hyper-
 
 <!-- end list -->
 
-  - Polybump 2：將獨立的或者完全集成的使用如3DS
-    MAX之類工具創建的高質量的可以快速的利用法線貼圖貼在切線空間或者物體空間，置換貼圖和非閉合區域上表面貼圖。
+  - Polybump 2：將獨立的或者完全集成的使用如3DS MAX之類工具創建的高質量的可以快速的利用法線貼圖貼在切線空間或者物體空間，置換貼圖和非閉合區域上表面貼圖。
 
 <!-- end list -->
 
@@ -140,18 +125,12 @@ multiprocessing）和[超執行緒](../Page/超執行緒.md "wikilink")（Hyper-
 ## 使用CryENGINE 2引擎的遊戲
 
   - [孤岛危机](../Page/孤岛危机.md "wikilink") - 由Crytek開發，已发行。
-  - [孤岛危机：弹头](https://zh.wikipedia.org/wiki/孤岛危机：弹头 "wikilink") -
-    由Crytek開發，使用该引擎的升级版本制作，已发行。
-  - [商人布魯克林](https://zh.wikipedia.org/wiki/商人布魯克林 "wikilink") - 由Paleo
-    Entertainment開發，已发行。\[4\]
-  - [安特罗皮亚世界](../Page/安特罗皮亚世界.md "wikilink") -
-    由MindArk開發，由v10.0.6.29273版本升級至CryENGINE 2的游戏引擎，已升級。\[5\]
-  - [藍色火星](https://zh.wikipedia.org/wiki/藍色火星 "wikilink") - 由Avatar
-    Reality開發，正在公測中。
-  - [The Day](https://zh.wikipedia.org/wiki/The_Day "wikilink") -
-    由Reloaded Studios開發，开发中。
-  - [Vigilance](https://zh.wikipedia.org/wiki/Vigilance_\(軍事訓練遊戲\) "wikilink")
-    - 由The Harrington Group開發，已开发完成。(這是一套軍事專用訓練軟體，只用于軍事人員專用訓練，不公開發布)
+  - [孤岛危机：弹头](https://zh.wikipedia.org/wiki/孤岛危机：弹头 "wikilink") - 由Crytek開發，使用该引擎的升级版本制作，已发行。
+  - [商人布魯克林](https://zh.wikipedia.org/wiki/商人布魯克林 "wikilink") - 由Paleo Entertainment開發，已发行。\[4\]
+  - [安特罗皮亚世界](../Page/安特罗皮亚世界.md "wikilink") - 由MindArk開發，由v10.0.6.29273版本升級至CryENGINE 2的游戏引擎，已升級。\[5\]
+  - [藍色火星](https://zh.wikipedia.org/wiki/藍色火星 "wikilink") - 由Avatar Reality開發，正在公測中。
+  - [The Day](https://zh.wikipedia.org/wiki/The_Day "wikilink") - 由Reloaded Studios開發，开发中。
+  - [Vigilance](https://zh.wikipedia.org/wiki/Vigilance_\(軍事訓練遊戲\) "wikilink") - 由The Harrington Group開發，已开发完成。(這是一套軍事專用訓練軟體，只用于軍事人員專用訓練，不公開發布)
 
 ## 內部連結
 
@@ -166,18 +145,12 @@ multiprocessing）和[超執行緒](../Page/超執行緒.md "wikilink")（Hyper-
   - [Crytek 官方網站](http://www.crytek.com/)
   - [MyCryengine官方網站](http://mycryengine.com/)
 
-[en:CryEngine\#CryEngine
-2](https://zh.wikipedia.org/wiki/en:CryEngine#CryEngine_2 "wikilink")
-[ja:CryENGINE\#CryENGINE
-2](https://zh.wikipedia.org/wiki/ja:CryENGINE#CryENGINE_2 "wikilink")
-[sv:Cry
-Engine\#Versioner](https://zh.wikipedia.org/wiki/sv:Cry_Engine#Versioner "wikilink")
+[en:CryEngine\#CryEngine 2](https://zh.wikipedia.org/wiki/en:CryEngine#CryEngine_2 "wikilink") [ja:CryENGINE\#CryENGINE 2](https://zh.wikipedia.org/wiki/ja:CryENGINE#CryENGINE_2 "wikilink") [sv:Cry Engine\#Versioner](https://zh.wikipedia.org/wiki/sv:Cry_Engine#Versioner "wikilink")
 
 [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
 
 1.
 2.  [GameSpot.com](http://www.gamespot.com/pc/action/crysis/news.html?sid=6154899&page=2&q=)
 3.  [GameSpot.com](http://www.gamespot.com/pc/action/crysis/news.html?sid=6163791)
-4.  [Merchants of Brooklyn to use
-    CryEngine 2](http://www.paleoent.com/press.html)
+4.  [Merchants of Brooklyn to use CryEngine 2](http://www.paleoent.com/press.html)
 5.  <http://www.marketwire.com/mw/release.do?id=754668>

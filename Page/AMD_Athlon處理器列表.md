@@ -3,8 +3,7 @@
 K7500MTR51B C、K7550MTR51B C 與 K7650MTR51B C
 
   - L2快取執行速度為系統速度的 50%
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號         | 時脈      | L2快取    | 外頻       | 倍頻   | 電壓     | 功耗   | 插座形式   | 推出日期       | OPN號碼 |
 | ---------- | ------- | ------- | -------- | ---- | ------ | ---- | ------ | ---------- | ----- |
@@ -18,10 +17,8 @@ K7500MTR51B C、K7550MTR51B C 與 K7650MTR51B C
 
 K7600MTR51B A、K7700MTR51B A、K7750MTR52B A、K7800MPR52B A 與 K7850MPR52B A
 
-  - L2快取執行速度為系統速度的 50%（700 MHz 以下版本）、40%（700 - 850 MHz 版本）或 33%（1000 MHz
-    以上版本）
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - L2快取執行速度為系統速度的 50%（700 MHz 以下版本）、40%（700 - 850 MHz 版本）或 33%（1000 MHz 以上版本）
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 | 型號          | 主频       | 二级缓存    | 外頻       | 倍頻   | 電壓     | 功耗   | 插座形式   | 推出日期        | OPN號碼 |
 | ----------- | -------- | ------- | -------- | ---- | ------ | ---- | ------ | ----------- | ----- |
@@ -38,13 +35,10 @@ K7600MTR51B A、K7700MTR51B A、K7750MTR52B A、K7800MPR52B A 與 K7850MPR52B A
 
 ## Athlon (Model 4, "Thunderbird", 180 nm)
 
-A0700MPR24B
-A、A0700APT3B、A0850AMT3B、A0900AMT3B、A1000AMT3B、A1100AMS3B、A1200AMS3C、A1300AMS3B、A1333AMS3C
-與 A1400AMS3C
+A0700MPR24B A、A0700APT3B、A0850AMT3B、A0900AMT3B、A1000AMT3B、A1100AMS3B、A1200AMS3C、A1300AMS3B、A1333AMS3C 與 A1400AMS3C
 
   - L2快取執行速度與系統速度相同
-  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")*
+  - 支援功能：*[MMX](../Page/MMX.md "wikilink")，[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")*
 
 <table>
 <thead>
@@ -294,5 +288,4 @@ A0900APT3B</p></td>
   - [AMD Sempron處理器列表](../Page/AMD_Sempron處理器列表.md "wikilink")
   - [AMD Athlon 64處理器列表](../Page/AMD_Athlon_64處理器列表.md "wikilink")
 
-[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink")
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
+[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")

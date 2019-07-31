@@ -1,8 +1,6 @@
-《**魔王 JUVENILE
-REMIX**》（）是在2007年27號開始連載於[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")上的漫畫作品，原作是[伊坂幸太郎](../Page/伊坂幸太郎.md "wikilink")，由[大須賀惠](../Page/大須賀惠.md "wikilink")作畫。
+《**魔王 JUVENILE REMIX**》（）是在2007年27號開始連載於[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")上的漫畫作品，原作是[伊坂幸太郎](../Page/伊坂幸太郎.md "wikilink")，由[大須賀惠](../Page/大須賀惠.md "wikilink")作畫。
 
-由伊坂幸太郎的小說《[魔王](https://zh.wikipedia.org/wiki/魔王_\(小說\) "wikilink")》改編，將內容大幅度加工成為適合的少年漫畫，所以標題加上JUVENILE
-REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另一本小說《[-{蚱蜢}-](https://zh.wikipedia.org/wiki/蚱蜢_\(小說\) "wikilink")》（中文版由獨步文化出版）的人物故事，除了《-{蚱蜢}-》伊坂其他作品的關鍵字亦會出現。
+由伊坂幸太郎的小說《[魔王](https://zh.wikipedia.org/wiki/魔王_\(小說\) "wikilink")》改編，將內容大幅度加工成為適合的少年漫畫，所以標題加上JUVENILE REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另一本小說《[-{蚱蜢}-](https://zh.wikipedia.org/wiki/蚱蜢_\(小說\) "wikilink")》（中文版由獨步文化出版）的人物故事，除了《-{蚱蜢}-》伊坂其他作品的關鍵字亦會出現。
 
 雖然在[小學館](../Page/小學館.md "wikilink")的雜誌上連載，但原作小說由其他公司出版的情況較為罕見（《魔王》為[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、《-{蚱蜢}-》則為[角川書店](../Page/角川書店.md "wikilink")）。
 
@@ -31,14 +29,7 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
   -
     故事中第一章的主角，猫田东高中2年級生，名稱不明。擁有「讓別人說出自己所想」的力量「**[腹語術](../Page/腹語術.md "wikilink")**」。
     年幼時因為事故失去雙親，與弟弟潤也二人一起生活。常因為周圍不起眼的事情，一個人深深地思考並自言自語著。因為小學生時對其他人說他「能使用超能力」而被人排擠疏遠，對他來說這是他的黑暗時代。為了不讓這痛苦的經驗重演，成為高中生的現在，一直說著謊來迎合周遭平靜地生活著。可是看到犬養的另一面而被蟬追殺，就成為他改變的契機，他開始思考並產生對抗的意思。第63話，最後在和犬養對決時因過量使用腹語術安詳死亡。
-    口頭禪是「-{zh-hans:想一想; zh-tw:想一想;
-    zh-hk:想一下吧}-」。這個口頭禪來自年幼時憧憬的電視節目《[-{zh-hans:百战天龙;
-    zh-tw:百戰天龍;
-    zh-hk:玉面飛龍}-](https://zh.wikipedia.org/wiki/百戰天龍 "wikilink")》主角[麥基華](../Page/麥基華.md "wikilink")（MacGyver）的口頭禪。很熟悉《[-{zh-hans:寅次郎的故事;
-    zh-tw:寅次郎的故事;
-    zh-hk:男人之苦}-](../Page/寅次郎的故事.md "wikilink")》和《[-{zh-hans:假面骑士;
-    zh-tw:假面騎士;
-    zh-hk:幪面超人}-](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")》。
+    口頭禪是「-{zh-hans:想一想; zh-tw:想一想; zh-hk:想一下吧}-」。這個口頭禪來自年幼時憧憬的電視節目《[-{zh-hans:百战天龙; zh-tw:百戰天龍; zh-hk:玉面飛龍}-](https://zh.wikipedia.org/wiki/百戰天龍 "wikilink")》主角[麥基華](../Page/麥基華.md "wikilink")（MacGyver）的口頭禪。很熟悉《[-{zh-hans:寅次郎的故事; zh-tw:寅次郎的故事; zh-hk:男人之苦}-](../Page/寅次郎的故事.md "wikilink")》和《[-{zh-hans:假面骑士; zh-tw:假面騎士; zh-hk:幪面超人}-](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")》。
     原作為上班族。
 
 <!-- end list -->
@@ -76,13 +67,10 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
 
   -
     安藤班的轉校留學生。安迪生先生的兒子，母親是日本人。全名不明。他其實不喜歡繼承父親的工作，成為財團的社長。夢想在日本開設英語會話教室。很清楚日本文化，日语也很流畅，但是使用谚语却有微妙的错误。
-    喜歡[-{zh-hans:寅次郎的故事; zh-tw:寅次郎的故事;
-    zh-hk:男人之苦}-中的寅次郎](../Page/寅次郎的故事.md "wikilink")，與同樣詳細知道寅次郎的安藤非常親近。因為草蜢和安迪生財團的爭鬥，在學校被人处以[私刑](../Page/私刑.md "wikilink")。他做兼职所在的老夫妇开的英语会话教室，还被反安迪生财团的市民纵火。明白自己会危害到身边的人后便離開了猫田市，但立志一定會回來開設英語會話教室。
+    喜歡[-{zh-hans:寅次郎的故事; zh-tw:寅次郎的故事; zh-hk:男人之苦}-中的寅次郎](../Page/寅次郎的故事.md "wikilink")，與同樣詳細知道寅次郎的安藤非常親近。因為草蜢和安迪生財團的爭鬥，在學校被人处以[私刑](../Page/私刑.md "wikilink")。他做兼职所在的老夫妇开的英语会话教室，还被反安迪生财团的市民纵火。明白自己会危害到身边的人后便離開了猫田市，但立志一定會回來開設英語會話教室。
     第二章中，协助润也调查安藤死亡的真相。同时也被润也拜托保护诗织等人。
     原作是归化日本的美国人。在安藤住所附近開設英語會話教室。跟漫画版一样被人纵火。
-    名字来由推测为《[-{zh-hans:百战天龙; zh-tw:百戰天龍;
-    zh-hk:玉面飛龍}-](https://zh.wikipedia.org/wiki/百戰天龍 "wikilink")》主角的扮演者[Richard
-    Dean Anderson](../Page/李察·狄恩·安德森.md "wikilink")。
+    名字来由推测为《[-{zh-hans:百战天龙; zh-tw:百戰天龍; zh-hk:玉面飛龍}-](https://zh.wikipedia.org/wiki/百戰天龍 "wikilink")》主角的扮演者[Richard Dean Anderson](../Page/李察·狄恩·安德森.md "wikilink")。
 
 <!-- end list -->
 
@@ -117,8 +105,7 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
     自衛團體「草蜢」的領導人。因為非凡的領導能力而受民眾歡迎，但內裡則遠望街道的改革，利用暴力排除妨礙。他認為自己有改變世界的責任。他利用安藤作命運的試紙，想他阻止自己。
     在犬養出現之後，貓田市的失蹤及殺人事件比前一年多1倍。
     第二章中，组成「未来党」参加大选。在进行街头演讲时被千金雇佣的杀手狙击，身负重伤。10年后，在第3次大选中获胜，未来党执掌政权，犬养成为首相。
-    原作是國會議員，在《呼吸》裡當上了首相。幾乎沒有和安藤接觸。小说《MODERN
-    TIMES—摩登時代》中，不再担任政治家，其后失去踪影，生死不明。
+    原作是國會議員，在《呼吸》裡當上了首相。幾乎沒有和安藤接觸。小说《MODERN TIMES—摩登時代》中，不再担任政治家，其后失去踪影，生死不明。
 
 <!-- end list -->
 
@@ -327,16 +314,9 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
 
 ## 外部連結
 
-  - \[http: //www.websunday.net/rensai/set_maou.html WEBSunday 魔王
-    JUVENILE REMIX\]
+  - \[http: //www.websunday.net/rensai/set_maou.html WEBSunday 魔王 JUVENILE REMIX\]
 
-  - \[http: //websunday.net/backstage/set_oosuga.html 漫畫家BACKSTAGE
-    大須賀惠\]
+  - \[http: //websunday.net/backstage/set_oosuga.html 漫畫家BACKSTAGE 大須賀惠\]
 
   -
-[Category:_日本漫畫作品](https://zh.wikipedia.org/wiki/Category:_日本漫畫作品 "wikilink")
-[Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:_週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:_週刊少年Sunday "wikilink")
-[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
+[Category:_日本漫畫作品](https://zh.wikipedia.org/wiki/Category:_日本漫畫作品 "wikilink") [Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:_週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:_週刊少年Sunday "wikilink") [Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")

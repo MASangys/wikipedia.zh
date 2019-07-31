@@ -1,18 +1,10 @@
-《**ayumi hamasaki RMX
-WORKS**》（混音作品集）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2003年9月25日於日本發售。為濱崎步發行混音作品中，唯一包含《ayu-mi-x》、《ayu-ro
-mix》、《ayu trance》三種系列的混音作品。
+《**ayumi hamasaki RMX WORKS**》（混音作品集）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2003年9月25日於日本發售。為濱崎步發行混音作品中，唯一包含《ayu-mi-x》、《ayu-ro mix》、《ayu trance》三種系列的混音作品。
 
 ## 說明
 
-  - 此系列發行了三張專輯，分別為《**ayumi hamasaki RMX WORKS from SUPER EUROBEAT
-    presents ayu-ro mix 3**》（混音作品集 之 歐陸舞曲變身舞池 3）、《**ayumi hamasaki RMX
-    WORKS from Cyber TRANCE presents ayu trance 3**》（混音作品集 之
-    出神入化trance混音專輯 3）、《**ayumi hamasaki RMX WORKS from
-    ayu-mi-x 5 non-stop mega mix**》（混音作品集 之 濱崎·不·一樣 5 跳不停連續舞曲篇）。
-      - 本系列發行的三張專輯分別為《ayu-mi-x》系列的第五彈、《ayu-ro mix》系列的第三彈、《ayu
-        trance》系列的第三彈。
-  - 《**from ayu-mi-x 5 non-stop mega
-    mix**》以濱崎步第五張原創專輯《[RAINBOW](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")》之收錄曲為中心，發行了Non-Stop混音專輯。
+  - 此系列發行了三張專輯，分別為《**ayumi hamasaki RMX WORKS from SUPER EUROBEAT presents ayu-ro mix 3**》（混音作品集 之 歐陸舞曲變身舞池 3）、《**ayumi hamasaki RMX WORKS from Cyber TRANCE presents ayu trance 3**》（混音作品集 之 出神入化trance混音專輯 3）、《**ayumi hamasaki RMX WORKS from ayu-mi-x 5 non-stop mega mix**》（混音作品集 之 濱崎·不·一樣 5 跳不停連續舞曲篇）。
+      - 本系列發行的三張專輯分別為《ayu-mi-x》系列的第五彈、《ayu-ro mix》系列的第三彈、《ayu trance》系列的第三彈。
+  - 《**from ayu-mi-x 5 non-stop mega mix**》以濱崎步第五張原創專輯《[RAINBOW](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")》之收錄曲為中心，發行了Non-Stop混音專輯。
 
 ## 收錄歌曲
 
@@ -84,5 +76,4 @@ mix》、《ayu trance》三種系列的混音作品。
 14. independent "Daylight Mix"
 15. Voyage "83key's Eternal Remix"
 
-[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
+[Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")

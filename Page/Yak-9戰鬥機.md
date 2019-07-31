@@ -8,10 +8,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 
 ### 研制背景
 
-在[蘇德戰爭初期](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")，雅克-1的表現遠優於當時蘇聯空軍的主力[伊-16戰鬥機](https://zh.wikipedia.org/wiki/伊-16 "wikilink")，成為唯一能夠和[Bf
-109E](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")/F型單挑的機型。但因為蘇聯飛行員的經驗普遍不如德軍駕駛員，而且在不久後就因為[Fw
-190投入戰鬥和Bf](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")
-109G型的出現，使德方再度獲得戰鬥機的性能優勢以外，很多煉[鋁廠和飛機用發動機工廠遭德軍破壞或被逼後撤時](https://zh.wikipedia.org/wiki/鋁 "wikilink")，難以獲得大量鋁材和生產新型液冷發動機，迫使雅克設計局轉而發展多種新機型，其中最先進的[雅克-3](https://zh.wikipedia.org/wiki/雅克-3 "wikilink")（不是後來出現的輕量型雅克-3）型雖然採用最先進的全鋁結構，而且使用新式發動機，以適應前線需要高加速性的作戰環境，但卻缺乏鋁材和足夠的Vk-107型發動機，而另一種新型的Yak-7原本規劃擬作為戰鬥轟炸任務為主的重戰鬥機，同樣因為發動機功率不足，因而使得兩種發展型的量產被迫推遲。
+在[蘇德戰爭初期](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")，雅克-1的表現遠優於當時蘇聯空軍的主力[伊-16戰鬥機](https://zh.wikipedia.org/wiki/伊-16 "wikilink")，成為唯一能夠和[Bf 109E](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")/F型單挑的機型。但因為蘇聯飛行員的經驗普遍不如德軍駕駛員，而且在不久後就因為[Fw 190投入戰鬥和Bf](https://zh.wikipedia.org/wiki/Fw_190 "wikilink") 109G型的出現，使德方再度獲得戰鬥機的性能優勢以外，很多煉[鋁廠和飛機用發動機工廠遭德軍破壞或被逼後撤時](https://zh.wikipedia.org/wiki/鋁 "wikilink")，難以獲得大量鋁材和生產新型液冷發動機，迫使雅克設計局轉而發展多種新機型，其中最先進的[雅克-3](https://zh.wikipedia.org/wiki/雅克-3 "wikilink")（不是後來出現的輕量型雅克-3）型雖然採用最先進的全鋁結構，而且使用新式發動機，以適應前線需要高加速性的作戰環境，但卻缺乏鋁材和足夠的Vk-107型發動機，而另一種新型的Yak-7原本規劃擬作為戰鬥轟炸任務為主的重戰鬥機，同樣因為發動機功率不足，因而使得兩種發展型的量產被迫推遲。
 
 最後雅克設計局決定發展雅克-7輕量化的純空優戰鬥機型方案，使用雅克-1現用M-105發動機的改良型M-105PF。以及採鋼管骨架和帆布為主結構的機體，配合木製機翼結構，取得了強度和重量的平衡點，也在維持性能的前提下，最大限度的減少生產和維修所需要的人手和資源，因此，能夠把較低功率發動機和氣動力設計發揮到極致的雅克-9，反而優先投產並成為主力的戰鬥機型。
 
@@ -19,9 +16,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 
 本機以低廉造價成本與材料形成的數量優勢，在1942年末起投入，並逐漸在歐俄戰區取得和德方空中優勢的平衡，也取代其前身雅克-1和更早期的[伊-16成為新銳的主力機種](https://zh.wikipedia.org/wiki/伊-16 "wikilink")。但因為面對著侵蘇前已擁有豐富實戰經驗的德國飛行員，本機損失依然較大，許多資淺飛行員因而戰死，隨著飛行員們逐步累積豐富經驗後，俄國空軍亦能逐漸在戰鬥中削弱德國空軍並取得制空權。
 
-由於蘇聯[增壓器技術不足](https://zh.wikipedia.org/wiki/增壓器 "wikilink")（以及戰略用兵思想指導）使然，因此雅克-9設計（與任務）目標主要為在中低空對抗德軍主力戰鬥機（主要為[Bf
-109G系列和](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")[Fw
-190A系列](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")），除了擔任空優任務外，雅克列夫設計局也持續改良此機，使它可以掛載炸彈執行對地支援任務，例如可在機身內掛載炸彈的Yak-9B，或是（後來具有可選擇性的）換裝37mm與45mm機砲，執行對地攻擊任務的Yak-9T，Yak-9K，此外也有增設機內油箱以延伸航續距離的Yak-9DD型，戰術偵查型的Yak-9P型，以及戰後生產的全金屬材質的Yak-9U系列。
+由於蘇聯[增壓器技術不足](https://zh.wikipedia.org/wiki/增壓器 "wikilink")（以及戰略用兵思想指導）使然，因此雅克-9設計（與任務）目標主要為在中低空對抗德軍主力戰鬥機（主要為[Bf 109G系列和](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")[Fw 190A系列](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")），除了擔任空優任務外，雅克列夫設計局也持續改良此機，使它可以掛載炸彈執行對地支援任務，例如可在機身內掛載炸彈的Yak-9B，或是（後來具有可選擇性的）換裝37mm與45mm機砲，執行對地攻擊任務的Yak-9T，Yak-9K，此外也有增設機內油箱以延伸航續距離的Yak-9DD型，戰術偵查型的Yak-9P型，以及戰後生產的全金屬材質的Yak-9U系列。
 
 ### 戰後的評價
 
@@ -29,9 +24,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 
 因為蘇聯官方一貫保密態度對本機忌深如諱，所以在退役前鮮為非社會主義國家所認識。而在退役後全面解禁時，因[冷戰時期英美也有意貶低本機的戰果與價值](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，而誇大了兩國援蘇戰鬥機的作用。然而若考慮到本機研制時的惡劣條件與輕量型結構，實際上無論蘇德雙方都對本機有相當高的評價。
 
-本機真正的缺點是防彈和抗損能力較為遜色，不同於綜合性能較Yak-9低的英美援蘇[P-39和](https://zh.wikipedia.org/wiki/P-39 "wikilink")[P-40或是與本機相似採似鋼骨架結構與布製蒙皮的](https://zh.wikipedia.org/wiki/P-40 "wikilink")[颶風戰鬥機](../Page/颶風戰鬥機.md "wikilink")。雖然後三者很難擊落綜合性能優越的[Bf
-109和](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")[Fw
-190中後期型](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")，但也較粗壯不易擊落，而幫助駕駛它們的生手飛行員養成經驗，待日後轉飛Yak-9時打下基礎。所以實際上操作本機的飛行員，多是先有外援的舊式機種駕駛經驗再轉派至本型機單位。
+本機真正的缺點是防彈和抗損能力較為遜色，不同於綜合性能較Yak-9低的英美援蘇[P-39和](https://zh.wikipedia.org/wiki/P-39 "wikilink")[P-40或是與本機相似採似鋼骨架結構與布製蒙皮的](https://zh.wikipedia.org/wiki/P-40 "wikilink")[颶風戰鬥機](../Page/颶風戰鬥機.md "wikilink")。雖然後三者很難擊落綜合性能優越的[Bf 109和](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")[Fw 190中後期型](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")，但也較粗壯不易擊落，而幫助駕駛它們的生手飛行員養成經驗，待日後轉飛Yak-9時打下基礎。所以實際上操作本機的飛行員，多是先有外援的舊式機種駕駛經驗再轉派至本型機單位。
 
 ## 結構和參數
 
@@ -85,8 +78,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 <!-- end list -->
 
   -
-    將 Yak-9 原本的 20mm ShVAK
-    同軸機炮更換成37mm的[NS-37機炮](../Page/NS-37機炮.md "wikilink")，為了容納下NS-37機炮及平衡重心，座艙往後移了0.4m，而機體也為了承受強大的後座力而進行強化，主要在黑海方面戰場執行反坦克與反艦作戰。
+    將 Yak-9 原本的 20mm ShVAK 同軸機炮更換成37mm的[NS-37機炮](../Page/NS-37機炮.md "wikilink")，為了容納下NS-37機炮及平衡重心，座艙往後移了0.4m，而機體也為了承受強大的後座力而進行強化，主要在黑海方面戰場執行反坦克與反艦作戰。
 
 <!-- end list -->
 
@@ -95,8 +87,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 <!-- end list -->
 
   -
-    K代表**Krupnokalibernyy**「大口徑」，此型是將Yak-9T的軸炮更換成 45mm
-    的NS-45機炮，其外觀特徵為緩衝後坐力的[炮口制動器](../Page/砲口制動器.md "wikilink")。
+    K代表**Krupnokalibernyy**「大口徑」，此型是將Yak-9T的軸炮更換成 45mm 的NS-45機炮，其外觀特徵為緩衝後坐力的[炮口制動器](../Page/砲口制動器.md "wikilink")。
 
 <!-- end list -->
 
@@ -114,8 +105,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 <!-- end list -->
 
   -
-    DD代表**Dal'nego
-    Deystviya**「超長程型」，航程達到了2200公里，可以從蘇聯直飛德國本土上空護航四發重型轟炸機，也執行過為美國陸航[B-24轟炸羅馬尼亞的護航任務](https://zh.wikipedia.org/wiki/B-24 "wikilink")。
+    DD代表**Dal'nego Deystviya**「超長程型」，航程達到了2200公里，可以從蘇聯直飛德國本土上空護航四發重型轟炸機，也執行過為美國陸航[B-24轟炸羅馬尼亞的護航任務](https://zh.wikipedia.org/wiki/B-24 "wikilink")。
 
 <!-- end list -->
 
@@ -133,8 +123,7 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 <!-- end list -->
 
   -
-    P代表
-    **Pushechnyy**「裝備機炮」，戰後登場為Yak-9U的全金屬製版本，將機首兩挺[UBS機槍更換成B](../Page/UB航空機槍.md "wikilink")-20機炮，全機武裝為三挺機炮，在機身後上方有一塊透明區域，安裝了無線電定向天線，可以與其它型號識別。
+    P代表 **Pushechnyy**「裝備機炮」，戰後登場為Yak-9U的全金屬製版本，將機首兩挺[UBS機槍更換成B](../Page/UB航空機槍.md "wikilink")-20機炮，全機武裝為三挺機炮，在機身後上方有一塊透明區域，安裝了無線電定向天線，可以與其它型號識別。
 
 ## 參見
 
@@ -180,6 +169,4 @@ Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.
 
 {{-}}
 
-[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink")
-[Category:雅克設計局航空器](https://zh.wikipedia.org/wiki/Category:雅克設計局航空器 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
+[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:雅克設計局航空器](https://zh.wikipedia.org/wiki/Category:雅克設計局航空器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")

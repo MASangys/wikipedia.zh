@@ -14,8 +14,7 @@
 
 <!-- end list -->
 
-  - [舞城王太郎](../Page/舞城王太郎.md "wikilink")（1,3,4,6B）、[佐藤友哉](../Page/佐藤友哉.md "wikilink")（1,2,3,4,5,6A,7）、[西尾維新](../Page/西尾維新.md "wikilink")（1,2,3,4,5,6A,6B,漫,7）、[清涼院流水](https://zh.wikipedia.org/wiki/清涼院流水 "wikilink")（實用小說
-    2,3,4,5）、[北山猛邦](../Page/北山猛邦.md "wikilink")（4,6B,7）、[浦賀和宏](https://zh.wikipedia.org/wiki/浦賀和宏 "wikilink")（4,5,6B）
+  - [舞城王太郎](../Page/舞城王太郎.md "wikilink")（1,3,4,6B）、[佐藤友哉](../Page/佐藤友哉.md "wikilink")（1,2,3,4,5,6A,7）、[西尾維新](../Page/西尾維新.md "wikilink")（1,2,3,4,5,6A,6B,漫,7）、[清涼院流水](https://zh.wikipedia.org/wiki/清涼院流水 "wikilink")（實用小說 2,3,4,5）、[北山猛邦](../Page/北山猛邦.md "wikilink")（4,6B,7）、[浦賀和宏](https://zh.wikipedia.org/wiki/浦賀和宏 "wikilink")（4,5,6B）
 
 <!-- end list -->
 
@@ -31,9 +30,7 @@
 
 <!-- end list -->
 
-  - [小林紀晴](https://zh.wikipedia.org/wiki/小林紀晴 "wikilink")（寫說
-    1,6A）、[飯野賢治](https://zh.wikipedia.org/wiki/飯野賢治 "wikilink")（1）、[乙一](../Page/乙一.md "wikilink")（2,4,6A）、[瀧本龍彥](https://zh.wikipedia.org/wiki/瀧本龍彥 "wikilink")（2,3,4）、[渡邊浩貳](https://zh.wikipedia.org/wiki/渡邊浩貳 "wikilink")（ショートショート
-    2,3,4,5,6A,6B,コ,7）、[上遠野浩平](https://zh.wikipedia.org/wiki/上遠野浩平 "wikilink")（5,6A,コ,7）、[筒井康隆](../Page/筒井康隆.md "wikilink")（7）、[小柳粒男](https://zh.wikipedia.org/wiki/小柳粒男 "wikilink")（7）
+  - [小林紀晴](https://zh.wikipedia.org/wiki/小林紀晴 "wikilink")（寫說 1,6A）、[飯野賢治](https://zh.wikipedia.org/wiki/飯野賢治 "wikilink")（1）、[乙一](../Page/乙一.md "wikilink")（2,4,6A）、[瀧本龍彥](https://zh.wikipedia.org/wiki/瀧本龍彥 "wikilink")（2,3,4）、[渡邊浩貳](https://zh.wikipedia.org/wiki/渡邊浩貳 "wikilink")（ショートショート 2,3,4,5,6A,6B,コ,7）、[上遠野浩平](https://zh.wikipedia.org/wiki/上遠野浩平 "wikilink")（5,6A,コ,7）、[筒井康隆](../Page/筒井康隆.md "wikilink")（7）、[小柳粒男](https://zh.wikipedia.org/wiki/小柳粒男 "wikilink")（7）
 
 <!-- end list -->
 
@@ -68,20 +65,15 @@
   - Vol.5（2005年5月、ISBN 4-06-179572-4）
   - Vol.6 SIDE-A（2005年11月、ISBN 4-06-179586-4）
   - Vol.6 SIDE-B（2005年12月、ISBN 4-06-179587-2）
-  - 別冊Faust「[Comic
-    Faust](https://zh.wikipedia.org/wiki/Comic_Faust "wikilink")」（2006年6月24日、ISBN
-    4-06-378808-3）
+  - 別冊Faust「[Comic Faust](https://zh.wikipedia.org/wiki/Comic_Faust "wikilink")」（2006年6月24日、ISBN 4-06-378808-3）
   - Vol.7（2008年8月、ISBN 978-4-06-378821-1）
 
 ### 台灣版（《浮文誌》）
 
-[尖端出版](../Page/尖端出版.md "wikilink")發行，2006年2月創刊。刊物口號為「中日混血文藝新浪潮
-全台第一本輕文學MOOK」\[1\]，共發行Vol.1至Vol.4 SIDE-A共5卷。Vol.4
-SIDE-A於2007年8月發行後，《浮文誌》停止發行。
+[尖端出版](../Page/尖端出版.md "wikilink")發行，2006年2月創刊。刊物口號為「中日混血文藝新浪潮 全台第一本輕文學MOOK」\[1\]，共發行Vol.1至Vol.4 SIDE-A共5卷。Vol.4 SIDE-A於2007年8月發行後，《浮文誌》停止發行。
 
   - Faust 浮文誌 Vol.1（2006年2月7日、ISBN 9789571031576）
-      - [舞城王太郎](../Page/舞城王太郎.md "wikilink") - 在我頭上鑽個洞 The Drill Hole In
-        My Brain
+      - [舞城王太郎](../Page/舞城王太郎.md "wikilink") - 在我頭上鑽個洞 The Drill Hole In My Brain
       - [佐藤友哉](../Page/佐藤友哉.md "wikilink") - 紅色的莫斯科騾子
       - [西尾維新](../Page/西尾維新.md "wikilink") - 新本格魔法少女莉絲佳
 
@@ -96,8 +88,7 @@ SIDE-A於2007年8月發行後，《浮文誌》停止發行。
 <!-- end list -->
 
   - Faust 浮文誌 Vol.3 SIDE-A（2006年8月10日、ISBN 9789571033532）
-      - [奈須茸](https://zh.wikipedia.org/wiki/奈須茸 "wikilink") - DDD J the
-        E.
+      - [奈須茸](https://zh.wikipedia.org/wiki/奈須茸 "wikilink") - DDD J the E.
       - 佐藤友哉 - 彩色的檸檬健怡可樂（濃縮版）
       - 瀧本龍彥 - ECCO
 
@@ -107,8 +98,7 @@ SIDE-A於2007年8月發行後，《浮文誌》停止發行。
       - 西尾維新 - 新本格魔法少女莉絲佳 敵人的敵人是天敵\!
       - 西尾維新 - 殺人鬼零崎軋識
       - 舞城王太郎 - 駒月萬紀子
-      - [原田宇陀兒](https://zh.wikipedia.org/wiki/原田宇陀兒 "wikilink") -
-        在Southberry樹下
+      - [原田宇陀兒](https://zh.wikipedia.org/wiki/原田宇陀兒 "wikilink") - 在Southberry樹下
 
 <!-- end list -->
 
@@ -141,7 +131,6 @@ SIDE-A於2007年8月發行後，《浮文誌》停止發行。
 
 [Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
 
-[Category:臺灣雜誌](https://zh.wikipedia.org/wiki/Category:臺灣雜誌 "wikilink")
-[Category:輕小說雜誌](https://zh.wikipedia.org/wiki/Category:輕小說雜誌 "wikilink")
+[Category:臺灣雜誌](https://zh.wikipedia.org/wiki/Category:臺灣雜誌 "wikilink") [Category:輕小說雜誌](https://zh.wikipedia.org/wiki/Category:輕小說雜誌 "wikilink")
 
 1.  Vol.1口號為「全台第一本專為青少年量身打造的文學MOOK」，與其他卷不同。

@@ -1,12 +1,10 @@
-是[日本一家](../Page/日本.md "wikilink")[電子遊戲開發和發行公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。
+是[日本](../Page/日本.md "wikilink")一家[電子遊戲開發和發行公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。
 
-Atlus著名的代表作品為[真·女神轉生系列](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")。真·女神轉生系列與[勇者鬥惡龍系列及](../Page/勇者鬥惡龍系列.md "wikilink")[最終幻想系列並列為日系](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")[RPG三大作](https://zh.wikipedia.org/wiki/RPG "wikilink")\[1\]；真·女神轉生系列初期的作品《[女神轉生](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")》是由[南夢宮代理發行於](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")[任天堂](../Page/任天堂.md "wikilink")[红白机](../Page/红白机.md "wikilink")，而之後的系列作品皆為Atlus自行發行。Atlus的代表[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")「[傑克霜精](https://zh.wikipedia.org/wiki/冰霜傑克 "wikilink")」，是源自於Atlus在[超級任天堂上發行的](../Page/超級任天堂.md "wikilink")《真·女神轉生》中所出現的一名怪物角色。
+Atlus著名的代表作品為[真·女神轉生系列](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")。真·女神轉生系列與[勇者鬥惡龍系列](../Page/勇者鬥惡龍系列.md "wikilink")及[最終幻想系列並列為日系](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")[RPG三大作](https://zh.wikipedia.org/wiki/RPG "wikilink")\[1\]；真·女神轉生系列初期的作品《[女神轉生](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")》是由[南夢宮代理發行於](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")[任天堂](../Page/任天堂.md "wikilink")[红白机](../Page/红白机.md "wikilink")，而之後的系列作品皆為Atlus自行發行。Atlus的代表[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")「[傑克霜精](https://zh.wikipedia.org/wiki/冰霜傑克 "wikilink")」，是源自於Atlus在[超級任天堂](../Page/超級任天堂.md "wikilink")上發行的《真·女神轉生》中所出現的一名怪物角色。
 
-Atlus另有發行[戰略角色扮演類型的遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")—[夢幻騎士系列](../Page/夢幻騎士系列.md "wikilink")。夢幻騎士系列源自於Career
-Soft的作品—[Langrisser](https://zh.wikipedia.org/wiki/夢幻模擬戰 "wikilink")。在第一部[夢幻騎士成功地獲得市場的回響之後](../Page/夢幻騎士.md "wikilink")，Atlus收購了Career
-Soft並繼續開發該系列的續作。
+Atlus另有發行[戰略角色扮演類型的遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")—[夢幻騎士系列](../Page/夢幻騎士系列.md "wikilink")。夢幻騎士系列源自於Career Soft的作品—[Langrisser](https://zh.wikipedia.org/wiki/夢幻模擬戰 "wikilink")。在第一部[夢幻騎士](../Page/夢幻騎士.md "wikilink")成功地獲得市場的回響之後，Atlus收購了Career Soft並繼續開發該系列的續作。
 
-Atlus總部設於日本，在美國、沈阳、南京、[香港等地均設有分公司](../Page/香港.md "wikilink")。為了區別，Atlus總部經常被簡稱為「<span style="color:blue">A</span><span style="color:#ee0011;">T</span><span style="color:blue">LUS</span>」。
+Atlus總部設於日本，在美國、沈阳、南京、[香港](../Page/香港.md "wikilink")等地均設有分公司。為了區別，Atlus總部經常被簡稱為「<span style="color:blue">A</span><span style="color:#ee0011;">T</span><span style="color:blue">LUS</span>」。
 
 [Atlus_logo.png](https://zh.wikipedia.org/wiki/File:Atlus_logo.png "fig:Atlus_logo.png")
 
@@ -15,48 +13,32 @@ Atlus總部設於日本，在美國、沈阳、南京、[香港等地均設有�
 [Sega_booth_and_Atlus_logo,_Taipei_Game_Show_20170123.jpg](https://zh.wikipedia.org/wiki/File:Sega_booth_and_Atlus_logo,_Taipei_Game_Show_20170123.jpg "fig:Sega_booth_and_Atlus_logo,_Taipei_Game_Show_20170123.jpg")，SEGA攤位播放Atlus遊戲軟體宣傳片\]\]
 
   - 1986年4月 - Atlus設立。
-  - 1987年9月 -
-    開發於[任天堂](../Page/任天堂.md "wikilink")[FC上的](../Page/红白机.md "wikilink")《[女神轉生](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")》由[南夢宮發行](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")。
+  - 1987年9月 - 開發於[任天堂](../Page/任天堂.md "wikilink")[FC上的](../Page/红白机.md "wikilink")《[女神轉生](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")》由[南夢宮發行](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")。
   - 1989年12月 - 以Atlus為名發行《》。
-  - 1992年10月 -
-    第一部於[超級任天堂發表的系列作品](../Page/超級任天堂.md "wikilink")《[真·女神轉生](https://zh.wikipedia.org/wiki/真·女神轉生 "wikilink")》發行。
-  - 1995年12月 - 第一部於[世嘉土星發表的系列作品](../Page/世嘉土星.md "wikilink")《[真·女神転生
-    Devil
-    Summoner](https://zh.wikipedia.org/wiki/真·女神転生_Devil_Summoner "wikilink")》發行。
-  - 1996年9月 -
-    第一部於[PlayStation發表的系列作品](../Page/PlayStation_\(遊戲機\).md "wikilink")《[女神異聞錄
-    Persona](https://zh.wikipedia.org/wiki/女神異聞錄系列#女神異聞錄_Persona "wikilink")》發行。
-  - 1997年10月 - 股票於[JASDAQ上市](../Page/JASDAQ.md "wikilink")（証券代碼：7866）
-  - 2000年8月 - 與[角川書店資本和商業聯盟](../Page/角川書店.md "wikilink")。
+  - 1992年10月 - 第一部於[超級任天堂](../Page/超級任天堂.md "wikilink")發表的系列作品《[真·女神轉生](https://zh.wikipedia.org/wiki/真·女神轉生 "wikilink")》發行。
+  - 1995年12月 - 第一部於[世嘉土星](../Page/世嘉土星.md "wikilink")發表的系列作品《[真·女神転生 Devil Summoner](https://zh.wikipedia.org/wiki/真·女神転生_Devil_Summoner "wikilink")》發行。
+  - 1996年9月 - 第一部於[PlayStation發表的系列作品](../Page/PlayStation_\(遊戲機\).md "wikilink")《[女神異聞錄 Persona](https://zh.wikipedia.org/wiki/女神異聞錄系列#女神異聞錄_Persona "wikilink")》發行。
+  - 1997年10月 - 股票於[JASDAQ](../Page/JASDAQ.md "wikilink")上市（証券代碼：7866）
+  - 2000年8月 - 與[角川書店](../Page/角川書店.md "wikilink")資本和商業聯盟。
   - 2003年
-      - 2月 - 第一部於[PlayStation
-        2發表的系列作品](../Page/PlayStation_2.md "wikilink")《[真·女神轉生III－Nocturne](../Page/真·女神轉生III－Nocturne.md "wikilink")》發行。
+      - 2月 - 第一部於[PlayStation 2發表的系列作品](../Page/PlayStation_2.md "wikilink")《[真·女神轉生III－Nocturne](../Page/真·女神轉生III－Nocturne.md "wikilink")》發行。
       - 與角川書店、[Takara解除合作夥伴關係](https://zh.wikipedia.org/wiki/Takara "wikilink")。
   - 2004年9月 - Menue株式会社（现株式会社ビービーエムエフ）控股10%。
   - 2005年2月 - Atlus Mobile株式会社設立。
-  - 2006年10月30日 -
-    宣佈將接受株式会社[Index控股的收購](https://zh.wikipedia.org/wiki/Index控股 "wikilink")。
+  - 2006年10月30日 - 宣佈將接受株式会社[Index控股的收購](https://zh.wikipedia.org/wiki/Index控股 "wikilink")。
   - 2009年10月 - 宣佈將Gonzo Rosso納入為子公司。\[2\]
-  - 2010年2月1日 - 確認將Gonzo Rosso納入為子公司，並將Gonzo Rosso更名為[Rosso
-    Index](https://zh.wikipedia.org/wiki/Rosso_Index "wikilink")。\[3\]
-  - 2010年2月12日 -
-    宣佈將成為[Index控股的完全子公司](https://zh.wikipedia.org/wiki/Index控股 "wikilink")。股票將停牌。\[4\]
-  - 2010年3月26日 - 將子公司[C\&C
-    Media的全部持股转让予](../Page/C&C_Media.md "wikilink")[完美时空的欧洲分公司](https://zh.wikipedia.org/wiki/完美世界_\(网络公司\) "wikilink")“Perfect
-    World Europe B.V.”。\[5\]
+  - 2010年2月1日 - 確認將Gonzo Rosso納入為子公司，並將Gonzo Rosso更名為[Rosso Index](https://zh.wikipedia.org/wiki/Rosso_Index "wikilink")。\[3\]
+  - 2010年2月12日 - 宣佈將成為[Index控股的完全子公司](https://zh.wikipedia.org/wiki/Index控股 "wikilink")。股票將停牌。\[4\]
+  - 2010年3月26日 - 將子公司[C\&C Media的全部持股转让予](../Page/C&C_Media.md "wikilink")[完美时空的欧洲分公司](https://zh.wikipedia.org/wiki/完美世界_\(网络公司\) "wikilink")“Perfect World Europe B.V.”。\[5\]
   - 2010年4月30日 - 股票停牌。
   - 2010年8月30日，日本[Index控股召开董事会](https://zh.wikipedia.org/wiki/Index控股 "wikilink")，宣布吸收合并Atlus，接手Atlus游戏版权等事务。\[6\]
   - 2010年10月1日 - 被母公司Index株式会社控股吸收合并，原公司解散。\[7\]。
   - 2013年2月5日，中国沈阳ATLUS有限公司成立，是位于[辽宁省](../Page/辽宁省.md "wikilink")[沈阳市](https://zh.wikipedia.org/wiki/沈阳市 "wikilink")[沈河区](../Page/沈河区.md "wikilink")[青年大街的](https://zh.wikipedia.org/wiki/青年大街 "wikilink")[子公司](../Page/子公司.md "wikilink")。
-  - 2013年4月3日 -
-    中国[南京ATLUS有限公司是位於南京市玄武区的](https://zh.wikipedia.org/wiki/南京ATLUS "wikilink")[子公司](../Page/子公司.md "wikilink")。
+  - 2013年4月3日 - 中国[南京ATLUS有限公司是位於南京市玄武区的](https://zh.wikipedia.org/wiki/南京ATLUS "wikilink")[子公司](../Page/子公司.md "wikilink")。
   - 2013年6月27日 - INDEX开启民事再生手续，实际破产。
-  - 2013年9月5日 -
-    [世嘉颯美控股以](https://zh.wikipedia.org/wiki/世嘉颯美控股 "wikilink")140亿日元从INDEX收购Atlus，Atlus完全独立出原INDEX品牌，並由SEGA成立的子公司SEGA
-    Dream Corporation负责相关业务。
+  - 2013年9月5日 - [世嘉颯美控股以](https://zh.wikipedia.org/wiki/世嘉颯美控股 "wikilink")140亿日元从INDEX收购Atlus，Atlus完全独立出原INDEX品牌，並由SEGA成立的子公司SEGA Dream Corporation负责相关业务。
   - 2013年9月18日 - SEGA宣布于11月1日完全收购INDEX。\[8\]\[9\]
-  - 2014年4月1日 - SEGA将旗下INDEX进行分割，SEGA Dream
-    Corporation更名为株式会社ATLUS。\[10\]
+  - 2014年4月1日 - SEGA将旗下INDEX进行分割，SEGA Dream Corporation更名为株式会社ATLUS。\[10\]
 
 ## 代表作品
 
@@ -492,28 +474,15 @@ Atlus總部設於日本，在美國、沈阳、南京、[香港等地均設有�
   - [美國Atlus官方網站](http://www.atlus.com/)
   - [美國Atlus部落格](http://www.atlusblog.com/)
 
-[Category:1986年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1986年開業電子遊戲公司 "wikilink")
-[Category:2013年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2013年開業電子遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:世嘉公司的部门和子公司](https://zh.wikipedia.org/wiki/Category:世嘉公司的部门和子公司 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:Atlus](https://zh.wikipedia.org/wiki/Category:Atlus "wikilink")
+[Category:1986年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1986年開業電子遊戲公司 "wikilink") [Category:2013年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2013年開業電子遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:世嘉公司的部门和子公司](https://zh.wikipedia.org/wiki/Category:世嘉公司的部门和子公司 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:Atlus](https://zh.wikipedia.org/wiki/Category:Atlus "wikilink")
 
-1.  [日系三大RPG风靡全球
-    真女神转生位列其中](http://game.u9u8.com/Html/News/2009-10/20091022163725.html)
-2.  [ATLUS 宣佈取得 GONZO ROSSO 股份 GONZO ROSSO
-    成為子公司](http://gnn.gamer.com.tw/0/40280.html)
-3.  [日本遊戲廠商 GONZO ROSSO 宣布更名為 ROSSO
-    INDEX](http://gnn.gamer.com.tw/3/42133.html)
+1.  [日系三大RPG风靡全球 真女神转生位列其中](http://game.u9u8.com/Html/News/2009-10/20091022163725.html)
+2.  [ATLUS 宣佈取得 GONZO ROSSO 股份 GONZO ROSSO 成為子公司](http://gnn.gamer.com.tw/0/40280.html)
+3.  [日本遊戲廠商 GONZO ROSSO 宣布更名為 ROSSO INDEX](http://gnn.gamer.com.tw/3/42133.html)
 4.  [株式会社インデックス・ホールディングスによる株式会社アトラスの株式交換による完全子会社化に関する株式交換契約締結について](http://www.atlus.co.jp/ir/news/pdf/1265975726.pdf)
 5.  [当社連結子会社の株式譲渡契約締結に関するお知らせ](http://www.atlus.co.jp/ir/news/pdf/1269596104.pdf)
-
-6.  [《真女神转生》母公司Atlus被合并
-    IndexHD新成立](http://nds.duowan.com/1008/147105833023.html)
+6.  [《真女神转生》母公司Atlus被合并 IndexHD新成立](http://nds.duowan.com/1008/147105833023.html)
 7.
 8.
 9.  [株式会社インデックスの事業譲受けに関する契約締結について](http://www.segasammy.co.jp/japanese/pdf/release/20130918_index_j_final.pdf)
-10. [連結子会社の分割（新設） 及び商号変更
-    に関するお知らせ](http://sega.co.jp/corp/release/140218/nr140218_1.pdf)
+10. [連結子会社の分割（新設） 及び商号変更 に関するお知らせ](http://sega.co.jp/corp/release/140218/nr140218_1.pdf)

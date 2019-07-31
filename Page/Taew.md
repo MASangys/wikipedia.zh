@@ -1,10 +1,8 @@
-**道Taew**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Natapohn
-Tameeruks，[泰语](../Page/泰语.md "wikilink")： ณฐพร
-เตมีรักษ์，），是一個[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。
+**道Taew**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Natapohn Tameeruks，[泰语](../Page/泰语.md "wikilink")： ณฐพร เตมีรักษ์，），是一個[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。
 
 ## 簡介
 
-[泰国三台女演员](../Page/泰國第3電視台.md "wikilink")，1989年2月6日出生，毕业于泰国第一學府[朱拉隆功大学建筑系](../Page/朱拉隆功大学.md "wikilink")。她出演了多部热门电视剧，凭借著日趋成熟的演技获得了电视剧最佳女主角奖项。
+[泰国三台女演员](../Page/泰國第3電視台.md "wikilink")，1989年2月6日出生，毕业于泰国第一學府[朱拉隆功大学](../Page/朱拉隆功大学.md "wikilink")建筑系。她出演了多部热门电视剧，凭借著日趋成熟的演技获得了电视剧最佳女主角奖项。
 
 ## 電視劇
 
@@ -184,6 +182,4 @@ nok<br />
   - [泰國第3電視臺官方網站](http://www.thaitv3.com)
 
   -
-[Category:泰國女演員](https://zh.wikipedia.org/wiki/Category:泰國女演員 "wikilink")
-[Category:泰國華人](https://zh.wikipedia.org/wiki/Category:泰國華人 "wikilink")
-[Category:朱拉隆功大學校友](https://zh.wikipedia.org/wiki/Category:朱拉隆功大學校友 "wikilink")
+[Category:泰國女演員](https://zh.wikipedia.org/wiki/Category:泰國女演員 "wikilink") [Category:泰國華人](https://zh.wikipedia.org/wiki/Category:泰國華人 "wikilink") [Category:朱拉隆功大學校友](https://zh.wikipedia.org/wiki/Category:朱拉隆功大學校友 "wikilink")

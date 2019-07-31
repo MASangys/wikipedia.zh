@@ -20,8 +20,7 @@
   - おもいッきりDON\!（日本電視台、2009年4月─）
   - フェイス（[RKB每日放送](../Page/RKB每日放送.md "wikilink")、2009年4月─）
   - にうすざんす（[TBS電視台](../Page/TBS電視台.md "wikilink")、2009年10月─）
-  - ロンドンハーツ（[朝日電視台](../Page/朝日電視台.md "wikilink")、2007年─） -
-    [男女糾察隊](../Page/男女糾察隊.md "wikilink")
+  - ロンドンハーツ（[朝日電視台](../Page/朝日電視台.md "wikilink")、2007年─） - [男女糾察隊](../Page/男女糾察隊.md "wikilink")
 
 <!-- end list -->
 
@@ -86,8 +85,7 @@
 
 ## 其他
 
-  - 高田スザンヌ - 携帯電話放送（[Bee
-    TV](https://zh.wikipedia.org/wiki/Bee_TV "wikilink")）
+  - 高田スザンヌ - 携帯電話放送（[Bee TV](https://zh.wikipedia.org/wiki/Bee_TV "wikilink")）
   - DAMチャンネル（2008年4月─2009年4月） - 主持人
   - 九州産交公車「[空港リムジンバス](https://zh.wikipedia.org/wiki/熊本_-_熊本空港線 "wikilink")」（2009年5月─）
   - CR大駒駒倶楽部@スザンヌ - 遊戯機　(豊丸産業)
@@ -104,15 +102,11 @@
 
   - [スザンヌの「ぶろぐザンス☆」](http://plaza.rakuten.co.jp/zannsu/)
 
-  - [スザンヌ オフィシャルブログ「Suzanne No Blogzansu」Powered by
-    Ameba](http://ameblo.jp/suzanneblog)
+  - [スザンヌ オフィシャルブログ「Suzanne No Blogzansu」Powered by Ameba](http://ameblo.jp/suzanneblog)
 
   -
-[Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink")
-[Category:日本寫真偶像](https://zh.wikipedia.org/wiki/Category:日本寫真偶像 "wikilink")
-[Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")
+[Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink") [Category:日本寫真偶像](https://zh.wikipedia.org/wiki/Category:日本寫真偶像 "wikilink") [Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")
 
 1.
 2.  [スザンヌ、斉藤和巳氏と離婚「思いやりを持つことが出来なかった」](http://www.cinematoday.jp/page/N0071640)
-3.  [スザンヌ離婚、斉藤和巳も報告
-    原因は「すれ違い」](http://www.oricon.co.jp/news/2050156/full/)
+3.  [スザンヌ離婚、斉藤和巳も報告 原因は「すれ違い」](http://www.oricon.co.jp/news/2050156/full/)

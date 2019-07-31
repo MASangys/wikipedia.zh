@@ -1,6 +1,4 @@
-《**AYAKASHI**》（）是[CROSSNET公司製作並於](../Page/CROSSNET.md "wikilink")2005年10月28日发售的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[PC平台](../Page/PC.md "wikilink")[十八禁传奇战斗](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]。2006年9月29日发售后日谈作品**AYAKASHI
-H**\[2\]，2007年8月动画化决定，于2008年1月起正式播放\[3\]，同时也决定漫画化，在月刊MAGAZINE
-Z上进行连载\[4\]。
+《**AYAKASHI**》（）是[CROSSNET](../Page/CROSSNET.md "wikilink")公司製作並於2005年10月28日发售的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[PC](../Page/PC.md "wikilink")平台[十八禁传奇战斗](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]。2006年9月29日发售后日谈作品**AYAKASHI H**\[2\]，2007年8月动画化决定，于2008年1月起正式播放\[3\]，同时也决定漫画化，在月刊MAGAZINE Z上进行连载\[4\]。
 
 ## 故事简介
 
@@ -30,8 +28,7 @@ Z上进行连载\[4\]。
 ## AYAKASHI
 
   - 龙
-    「破灭」与「再生」的AYAKASHI。白色的身躯，红色的细纹的巨龙，宿主为久坂
-    悠。所有AYAKASHI之母，拥有究级力量的AYAKASHI，两年前的战斗中遭大蛇重创，曾一度产生恐惧而寄宿在悠的体内，无法展现其力量。
+    「破灭」与「再生」的AYAKASHI。白色的身躯，红色的细纹的巨龙，宿主为久坂 悠。所有AYAKASHI之母，拥有究级力量的AYAKASHI，两年前的战斗中遭大蛇重创，曾一度产生恐惧而寄宿在悠的体内，无法展现其力量。
   - 悟
     「侵蚀」的AYAKASHI。外表如一根白色的纺锤针，原宿主为牧原和泉，两年前的战斗中和泉为了救悠，将自己的灵魂与AYAKASHI一起转移到了瑛梦身上，而其自己死去。现任宿主为夜明瑛梦，拥有读取、操控人心、探索四周动静的力量。
   - 恶路王
@@ -193,7 +190,7 @@ Z上进行连载\[4\]。
 | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                    | 星期日 25時30分～26時00分   |                   |                                                                 |
 | [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                      | 2008年1月11日－3月28日    | 星期五 25時30分～26時00分 |                                                                 |
 | [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink") | 2008年1月9日－3月26日     | 星期三 26時10分～26時40分 |                                                                 |
-| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                      | 2008年1月10日－3月27日    | 星期四 25時58分～26時28分 | [東京電視台系](../Page/東京電視台.md "wikilink")                           |
+| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                      | 2008年1月10日－3月27日    | 星期四 25時58分～26時28分 | [東京電視台](../Page/東京電視台.md "wikilink")系                           |
 | 全日本                                                 | [AT-X](../Page/AT-X.md "wikilink")                        | 2007年12月12日－隔年2月27日 | 星期一 11時00分～11時30分 | [CS放送](https://zh.wikipedia.org/wiki/CS放送 "wikilink")           |
 
 ## 漫畫
@@ -207,8 +204,7 @@ Z上进行连载\[4\]。
 
 ## 網路廣播
 
-《未祐とさくらのAYAKASHI
-R》2008年1月5日到3月15日期間於網路電台メディファクラジオ和アニスタ.TV發佈共6回，由松来未祐和野川さくら擔任主持人。
+《未祐とさくらのAYAKASHI R》2008年1月5日到3月15日期間於網路電台メディファクラジオ和アニスタ.TV發佈共6回，由松来未祐和野川さくら擔任主持人。
 
 ## 評價
 
@@ -220,24 +216,13 @@ R》2008年1月5日到3月15日期間於網路電台メディファクラジオ�
 
   - [CROSSNET](http://www.cross-net.co.jp/)
   - [动画官网](http://www.ayakashi.info/)
-  - [動畫官網](http://www.mxtv.co.jp/ayakashi/)（[TOKYO
-    MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")）
+  - [動畫官網](http://www.mxtv.co.jp/ayakashi/)（[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")）
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink")
-[Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink")
-[Category:妖怪題材電子遊戲](https://zh.wikipedia.org/wiki/Category:妖怪題材電子遊戲 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink") [Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink") [Category:妖怪題材電子遊戲](https://zh.wikipedia.org/wiki/Category:妖怪題材電子遊戲 "wikilink")
 
 1.
 2.
 3.  [太平洋游戏网：解析《AYAKASHI怪》\!觉醒少年战异怪\!](http://j.pcgames.com.cn/blog.jsp?bid=15406)
-
 4.
 5.
 6.

@@ -51,8 +51,6 @@
 
   - （英文）[底比斯地圖繪製計劃：KV1](https://web.archive.org/web/20080517022759/http://www.kv5.com/sites/browse_tomb_815.html)
 
-[Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink")
-[Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
+[Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink") [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
 
-1.  [Egypt KV1, the Tomb of Ramesses VII in the Valley of the
-    Kings](http://touregypt.net/featurestories/kv1.htm)
+1.  [Egypt KV1, the Tomb of Ramesses VII in the Valley of the Kings](http://touregypt.net/featurestories/kv1.htm)

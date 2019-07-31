@@ -1,16 +1,10 @@
-**Game &
-Watch**（）是日本著名游戏公司[任天堂在](../Page/任天堂.md "wikilink")1980年至1991年发售的一款[攜帶型遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，由[橫井軍平负责設計](../Page/橫井軍平.md "wikilink")，其主要特色為一部主機備有一支特定的遊戲，在[液晶顯示器上顯示](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")；并且主机还备有时钟和闹钟功能。大部份的機種分別有一個“GAME
-A”與“GAME B”的按鈕，Game B通常是Game
-A的更難更快版本。這種液晶顯示器[可攜遊戲機的成功刺激了另外幾十間遊戲與玩具公司製造它們自己的可攜遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，當中很多原封不動照抄
-Game & Watch 的遊戲。
+**Game & Watch**（）是日本著名游戏公司[任天堂](../Page/任天堂.md "wikilink")在1980年至1991年发售的一款[攜帶型遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，由[橫井軍平](../Page/橫井軍平.md "wikilink")负责設計，其主要特色為一部主機備有一支特定的遊戲，在[液晶顯示器上顯示](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")；并且主机还备有时钟和闹钟功能。大部份的機種分別有一個“GAME A”與“GAME B”的按鈕，Game B通常是Game A的更難更快版本。這種液晶顯示器[可攜遊戲機的成功刺激了另外幾十間遊戲與玩具公司製造它們自己的可攜遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，當中很多原封不動照抄 Game & Watch 的遊戲。
 
 Game & Watch系列在世界范围内总共发售了59款游戏，加上1款隨比賽勝出贈送的遊戲，共60款\[1\]。
 
 《ボール》（）作为Game & Watch系列主机的第一作于1980年4月28日在日本发售。编号为AC-01，建议零售价为5,800日元。
 
-從1995年開始，任天堂將Game & Watch遊戲以不同形式在多個平台上復刻。包括將遊戲在以卡帶或下載形式重制在[Game
-Boy及](../Page/Game_Boy.md "wikilink")[任天堂DS之上](../Page/任天堂DS.md "wikilink")\[2\]\[3\]\[4\]\[5\]。而任天堂亦以授權或紀念形式重新推出Game
-& Watch遊戲\[6\]\[7\]。
+從1995年開始，任天堂將Game & Watch遊戲以不同形式在多個平台上復刻。包括將遊戲在以卡帶或下載形式重制在[Game Boy及](../Page/Game_Boy.md "wikilink")[任天堂DS](../Page/任天堂DS.md "wikilink")之上\[2\]\[3\]\[4\]\[5\]。而任天堂亦以授權或紀念形式重新推出Game & Watch遊戲\[6\]\[7\]。
 
 ## 遊戲列表
 
@@ -480,16 +474,11 @@ Boy及](../Page/Game_Boy.md "wikilink")[任天堂DS之上](../Page/任天堂DS.m
 
 <File:Fire> - Game\&Watch - Nintendo.jpg|<small>*FIRE*
 （、RC-04）</small> <File:GameAndWatch> Popeye.jpg|<small>*POPEYE*
-（、PP-23）</small> <File:Festival> du Jeu Vidéo - 2010-09-11 - Game &
-Watch Donkey Kong.jpg|<small>*DONKEY KONG*
-（、DK-52）</small> <File:Donkey_Kong_jr_Tabletop.jpg>|<small>*DONKEY KONG
-JR.*
-（、CJ-71）</small> <File:Snoopy> (Panorama) - Game\&Watch -
-Nintendo.jpg|<small>*SNOOPY*
-（、SM-91）</small> <File:Spitball> Sparky - Game\&Watch -
-Nintendo.jpg|<small>*SPITBALL SPARKY*
-（、BU-201）</small> <File:Game&watch-donkey-kong-3.jpg>|<small>*DONKEY
-KONG 3*
+（、PP-23）</small> <File:Festival> du Jeu Vidéo - 2010-09-11 - Game & Watch Donkey Kong.jpg|<small>*DONKEY KONG*
+（、DK-52）</small> <File:Donkey_Kong_jr_Tabletop.jpg>|<small>*DONKEY KONG JR.*
+（、CJ-71）</small> <File:Snoopy> (Panorama) - Game\&Watch - Nintendo.jpg|<small>*SNOOPY*
+（、SM-91）</small> <File:Spitball> Sparky - Game\&Watch - Nintendo.jpg|<small>*SPITBALL SPARKY*
+（、BU-201）</small> <File:Game&watch-donkey-kong-3.jpg>|<small>*DONKEY KONG 3*
 （、AK-302）</small>
 
 ## 参考资料
@@ -498,23 +487,16 @@ KONG 3*
 
   - [社长访谈「ゲーム&ウオッチ」](http://www.nintendo.co.jp/n10/interview/game_and_watch/vol1/index.html)（任天堂的开发访谈）
 
-  - [GAME\&WATCH](http://www.nintendo.co.jp/ds/dsiware/game_and_watch/)（任天堂DSi
-    ware的复刻版本）
+  - [GAME\&WATCH](http://www.nintendo.co.jp/ds/dsiware/game_and_watch/)（任天堂DSi ware的复刻版本）
 
   -
-  - [GAME\&WATCH](http://www.nintendo.co.jp/ds/dsiware/game_and_watch/index.html)
-    在任天堂官方网站上
+  - [GAME\&WATCH](http://www.nintendo.co.jp/ds/dsiware/game_and_watch/index.html) 在任天堂官方网站上
 
-  - [关于Game &
-    Watch方面最全面的历史书籍](https://web.archive.org/web/20100803201403/http://pixnlovepublishing.com/nextreleases/page2.html)
+  - [关于Game & Watch方面最全面的历史书籍](https://web.archive.org/web/20100803201403/http://pixnlovepublishing.com/nextreleases/page2.html)
 
   - [Pica Pic](http://pica-pic.com) - 被转换成在线Flash游戏的若干款Game & Watch游戏
 
-[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink")
-[Category:任天堂硬件](https://zh.wikipedia.org/wiki/Category:任天堂硬件 "wikilink")
-[Category:电子游戏系列](https://zh.wikipedia.org/wiki/Category:电子游戏系列 "wikilink")
-[Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink")
-[Category:1980年面世的產品](https://zh.wikipedia.org/wiki/Category:1980年面世的產品 "wikilink")
+[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:任天堂硬件](https://zh.wikipedia.org/wiki/Category:任天堂硬件 "wikilink") [Category:电子游戏系列](https://zh.wikipedia.org/wiki/Category:电子游戏系列 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1980年面世的產品](https://zh.wikipedia.org/wiki/Category:1980年面世的產品 "wikilink")
 
 1.
 2.

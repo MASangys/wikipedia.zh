@@ -1,23 +1,15 @@
-**Discuz\!NT**产品是**康盛创想（北京）科技有限公司**（Comsenz）推出的一款**[网络论坛](../Page/网络论坛.md "wikilink")**程序，同**[Discuz\!](../Page/Discuz!.md "wikilink")**一样，是一个[源碼公開的网络论坛程序](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")。Discuz\!NT采用[微软](../Page/微软.md "wikilink")[.NET语言开发](https://zh.wikipedia.org/wiki/.NET "wikilink")，主要适用于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-NT/2003系列[服务器环境建构](../Page/服务器.md "wikilink")。现在最新发行版本为Discuz\!NT3.9。
+**Discuz\!NT**产品是**康盛创想（北京）科技有限公司**（Comsenz）推出的一款**[网络论坛](../Page/网络论坛.md "wikilink")**程序，同**[Discuz\!](../Page/Discuz!.md "wikilink")**一样，是一个[源碼公開的网络论坛程序](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")。Discuz\!NT采用[微软](../Page/微软.md "wikilink")[.NET语言开发](https://zh.wikipedia.org/wiki/.NET "wikilink")，主要适用于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") NT/2003系列[服务器](../Page/服务器.md "wikilink")环境建构。现在最新发行版本为Discuz\!NT3.9。
 
 ## 运行平台
 
-Discuz\!NT运行在Windows系统服务器上。采用微软的[ASP.NET开发程序](../Page/ASP.NET.md "wikilink")，[数据库采用微软的](../Page/数据库.md "wikilink")[SQL
-Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
-2000 / 2005 /
-2008、[Access和](https://zh.wikipedia.org/wiki/Access "wikilink")[MySQL数据库系统](../Page/MySQL.md "wikilink")。
+Discuz\!NT运行在Windows系统服务器上。采用微软的[ASP.NET](../Page/ASP.NET.md "wikilink")开发程序，[数据库](../Page/数据库.md "wikilink")采用微软的[SQL Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink") 2000 / 2005 / 2008、[Access和](https://zh.wikipedia.org/wiki/Access "wikilink")[MySQL](../Page/MySQL.md "wikilink")数据库系统。
 
 ## 版本
 
-  - Discuz\!NT 1.0（数据库支持Sql Server、Access，ASP.NET框架支持.Net Framework
-    1.1和.Net Framework 2.0）
-  - Discuz\!NT 2.0（数据库支持Sql Server、Access，ASP.NET框架支持.Net Framework
-    1.1和.Net Framework 2.0）
-  - Discuz\!NT 2.1（数据库支持Sql Server、Access，ASP.NET框架支持.Net Framework
-    1.1和.Net Framework 2.0）
-  - Discuz\!NT 2.5（数据库支持Sql Server、MySQL和Access，ASP.NET框架支持.Net
-    Framework 1.1和.Net Framework 2.0）
+  - Discuz\!NT 1.0（数据库支持Sql Server、Access，ASP.NET框架支持.Net Framework 1.1和.Net Framework 2.0）
+  - Discuz\!NT 2.0（数据库支持Sql Server、Access，ASP.NET框架支持.Net Framework 1.1和.Net Framework 2.0）
+  - Discuz\!NT 2.1（数据库支持Sql Server、Access，ASP.NET框架支持.Net Framework 1.1和.Net Framework 2.0）
+  - Discuz\!NT 2.5（数据库支持Sql Server、MySQL和Access，ASP.NET框架支持.Net Framework 1.1和.Net Framework 2.0）
   - Discuz\!NT 2.6（不再提供.Net Framework 1.1版本的程序）
   - Discuz\!NT 3.0
   - Discuz\!NT 3.1（官方只提供了Sql Server版本，其他数据库支持需要自行按照接口实现相应数据库操作）
@@ -169,16 +161,12 @@ Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
   - [Discuz\!](../Page/Discuz!.md "wikilink")
   - [ASP.NET](../Page/ASP.NET.md "wikilink")
   - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-  - [Sql Server
-    2000](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
+  - [Sql Server 2000](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
 
 ## 相关链接
 
   - [Discuz\!NT官方论坛](https://archive.is/20130111223157/http://nt.discuz.net/)
-  - [Discuz\!
-    官方网站](https://web.archive.org/web/20051227064326/http://www.discuz.com/)
+  - [Discuz\! 官方网站](https://web.archive.org/web/20051227064326/http://www.discuz.com/)
   - [Discuz\! 官方论坛](http://www.discuz.net/)
 
-[Category:ASP.NET](https://zh.wikipedia.org/wiki/Category:ASP.NET "wikilink")
-[Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink")
-[Category:康盛創想](https://zh.wikipedia.org/wiki/Category:康盛創想 "wikilink")
+[Category:ASP.NET](https://zh.wikipedia.org/wiki/Category:ASP.NET "wikilink") [Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink") [Category:康盛創想](https://zh.wikipedia.org/wiki/Category:康盛創想 "wikilink")

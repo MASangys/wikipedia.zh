@@ -7,8 +7,7 @@
 ## 特點
 
   - 捆綁了多媒體文件的[解碼器](https://zh.wikipedia.org/wiki/編解碼器 "wikilink")，不需要另外安裝解碼器也可以播放。
-  - 硬體加速，支持[DxVA](../Page/DxVA.md "wikilink")（DirectX Video
-    Acceleration）。
+  - 硬體加速，支持[DxVA](../Page/DxVA.md "wikilink")（DirectX Video Acceleration）。
   - 提供更多的字幕輸出選項。
   - 支持播放50MB以下的[ZIP](https://zh.wikipedia.org/wiki/ZIP "wikilink")/[RAR](../Page/RAR.md "wikilink")壓縮包內的多媒體內容。
 
@@ -25,11 +24,9 @@ PotPlayer使用[FFmpeg](../Page/FFmpeg.md "wikilink")的[GPL代码作为解码�
 ## 外部連結
 
   - [PotPlayer官網](https://potplayer.daum.net)
-  - 纯韩文官网：[공식 웹사이트](http://tv.kakao.com/guide/potplayer) 及 [공식 사용자
-    카페](http://cafe.daum.net/pot-tool)
+  - 纯韩文官网：[공식 웹사이트](http://tv.kakao.com/guide/potplayer) 及 [공식 사용자 카페](http://cafe.daum.net/pot-tool)
 
-[Category:Kakao](https://zh.wikipedia.org/wiki/Category:Kakao "wikilink")
-[Category:媒體播放器](https://zh.wikipedia.org/wiki/Category:媒體播放器 "wikilink")
+[Category:Kakao](https://zh.wikipedia.org/wiki/Category:Kakao "wikilink") [Category:媒體播放器](https://zh.wikipedia.org/wiki/Category:媒體播放器 "wikilink")
 
 1.  <http://blog.daum.net/_blog/ArticleCateList.do?blogid=0Cqdr&CATEGORYID=773898&dispkind=B2201#ajax_history_home>
 2.  <http://potplayer.daum.net/>

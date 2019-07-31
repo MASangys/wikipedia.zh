@@ -1,18 +1,10 @@
-[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") **[Athlon
-X2](https://zh.wikipedia.org/wiki/Athlon_X2 "wikilink")**微处理器前后分别基于AMD
-[Athlon 64
-X2和](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")[Phenom架构体系](https://zh.wikipedia.org/wiki/Phenom "wikilink")，最早的Athlon
-X2处理器是低功耗的Athlon 64 X2
-*Brisbane*处理器，并且最新即将于2008年第二季度发布的处理器是基于[K10](https://zh.wikipedia.org/wiki/K10 "wikilink")
-*Kuma* 核心的处理器。
+[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") **[Athlon X2](https://zh.wikipedia.org/wiki/Athlon_X2 "wikilink")**微处理器前后分别基于AMD [Athlon 64 X2和](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")[Phenom架构体系](https://zh.wikipedia.org/wiki/Phenom "wikilink")，最早的Athlon X2处理器是低功耗的Athlon 64 X2 *Brisbane*处理器，并且最新即将于2008年第二季度发布的处理器是基于[K10](https://zh.wikipedia.org/wiki/K10 "wikilink") *Kuma* 核心的处理器。
 
 ## Athlon X2（基于 [Athlon 64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")）
 
 ### "*Brisbane*"核心（效能级 45 W, G1 & G2, 65 nm）
 
-  - 支援：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、AMD64（AMD使用的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")''
+  - 支援：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、AMD64（AMD使用的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")''
   - 接口：[Socket AM2](../Page/Socket_AM2.md "wikilink")
 
 | 型號         | 步進值   | 時脈       | L2快取        | <span lang="en">[HT](../Page/HyperTransport.md "wikilink")</span> | 倍頻<sup>[1](https://zh.wikipedia.org/wiki/#fn_1 "wikilink")</sup> | 電壓          | 功耗            | 推出日期      | OPN號碼         |
@@ -28,9 +20,7 @@ X2处理器是低功耗的Athlon 64 X2
 
 ### "*Brisbane*"核心（效能级 45 W , G1 & G2, 65 nm）
 
-  - 支援：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、AMD64（AMD使用的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")''
+  - 支援：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、AMD64（AMD使用的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")''
   - 接口：[Socket AM2](../Page/Socket_AM2.md "wikilink")
   - B字尾型號處理器屬商務級產品
 
@@ -51,9 +41,7 @@ X2处理器是低功耗的Athlon 64 X2
 
 ### "*Kuma*" (65 nm, dual core)
 
-  - 支援：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、AMD64（AMD使用的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")
+  - 支援：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、AMD64（AMD使用的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")
 
 <table>
 <thead>
@@ -165,9 +153,7 @@ X2处理器是低功耗的Athlon 64 X2
 
 ### "*Regor*" (45 nm, Dual core)
 
-  - 支援：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink")、[Enhanced
-    3DNow\!](../Page/3DNow!.md "wikilink")、[NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、AMD64（AMD使用的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")
+  - 支援：[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink")、[Enhanced 3DNow\!](../Page/3DNow!.md "wikilink")、[NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、AMD64（AMD使用的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）、[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")
   - 2個AMD K10核心，透過屏蔽原4核心的其中2個而取得。
 
 | 型號             | 步進值 | 時脈       | L2快取      | L3快取 | HT      | 倍頻    | 電壓             | TDP | 插槽                                               | 發佈日期 | Part Number(s) |
@@ -190,24 +176,17 @@ X2处理器是低功耗的Athlon 64 X2
 
 ## 另见
 
-  - [AMD
-    Phenom處理器列表](https://zh.wikipedia.org/wiki/AMD_Phenom處理器列表 "wikilink")
+  - [AMD Phenom處理器列表](https://zh.wikipedia.org/wiki/AMD_Phenom處理器列表 "wikilink")
   - [Phenom](https://zh.wikipedia.org/wiki/Phenom "wikilink")
   - [K10](https://zh.wikipedia.org/wiki/K10 "wikilink")
-  - [Athlon 64
-    X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")
+  - [Athlon 64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")
   - [AMD Athlon 64處理器列表](../Page/AMD_Athlon_64處理器列表.md "wikilink")
 
 ## 参考文献
 
 ## 外部链接
 
-  - *[AMD Revised Desktop Model Number
-    Structure](https://web.archive.org/web/20071011194645/http://www.vr-zone.com/articles/AMD_Revised_Desktop_Model_Number_Structure/5330.html)*,
-    VR-Zone, 9 October 2007
-  - *[AMD Adds Kuma & Lima To Athlon
-    Brand](http://www.vr-zone.com/articles/AMD_Adds_Kuma_%26_Lima_To_Athlon_Brand/5336.html)*,
-    VR-Zone, 10 October 2007
+  - *[AMD Revised Desktop Model Number Structure](https://web.archive.org/web/20071011194645/http://www.vr-zone.com/articles/AMD_Revised_Desktop_Model_Number_Structure/5330.html)*, VR-Zone, 9 October 2007
+  - *[AMD Adds Kuma & Lima To Athlon Brand](http://www.vr-zone.com/articles/AMD_Adds_Kuma_%26_Lima_To_Athlon_Brand/5336.html)*, VR-Zone, 10 October 2007
 
-[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink")
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
+[Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")

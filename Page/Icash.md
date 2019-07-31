@@ -3,24 +3,19 @@
 ## 簡介與歷史
 
   - 統一超商配合icash的推廣，常有商品優惠，並有紅利積點活動；亦會配合各種節慶發行限定款式。
-  - iCash卡可透過[統一超商](../Page/統一超商.md "wikilink")實體門市等地點購得，或是自行上傳圖像進行訂製；統一超商轉投資成立愛金卡公司發行iCash
-    2.0後，亦開始針對iCash 2.0提供個性化客製卡服務及網路限定卡面。
-  - 2004年12月，[中國信託商業銀行](../Page/中國信託商業銀行.md "wikilink")與統一超商共同開辦icash電子錢包服務。2007年4月1日，中國信託商業銀行與統一超商合作發行icashwave聯名[信用卡](../Page/信用卡.md "wikilink")，係將icash結合[Visa
-    Wave信用卡與中國信託商業銀行](https://zh.wikipedia.org/wiki/Visa_Wave "wikilink")「Q-PAY」電子錢包服務。
+  - iCash卡可透過[統一超商](../Page/統一超商.md "wikilink")實體門市等地點購得，或是自行上傳圖像進行訂製；統一超商轉投資成立愛金卡公司發行iCash 2.0後，亦開始針對iCash 2.0提供個性化客製卡服務及網路限定卡面。
+  - 2004年12月，[中國信託商業銀行](../Page/中國信託商業銀行.md "wikilink")與統一超商共同開辦icash電子錢包服務。2007年4月1日，中國信託商業銀行與統一超商合作發行icashwave聯名[信用卡](../Page/信用卡.md "wikilink")，係將icash結合[Visa Wave信用卡與中國信託商業銀行](https://zh.wikipedia.org/wiki/Visa_Wave "wikilink")「Q-PAY」電子錢包服務。
   - 2010年4月，統一超商推出兼具icash與[悠遊卡](../Page/悠遊卡.md "wikilink")功能的整合卡，稱為「icash悠遊卡」，同時也開放悠遊卡於統一超商購物，但icash卡與icash悠遊卡的活動不一定相同，而悠遊卡的促銷活動與icash亦有所不同。
   - 2012年1月1日，中國信託商業銀行終止icashwave Q-PAY的自動儲值和消費扣款，統一超商同步停止電子錢包信用卡交易。
   - 2014年，因應iCash服務升格為2.0版，加上點數優惠調整與虛擬通路整合的關係，針對iCash悠遊卡的所有優惠亦於該年底終止。
-  - 2015年3月16日：icash2.0可用於搭乘[汎航通運路線](https://zh.wikipedia.org/wiki/汎航通運 "wikilink")，但icash
-    2.0餘額低於新台幣40元時無法持卡乘車。
+  - 2015年3月16日：icash2.0可用於搭乘[汎航通運路線](https://zh.wikipedia.org/wiki/汎航通運 "wikilink")，但icash 2.0餘額低於新台幣40元時無法持卡乘車。
   - 2016年5月11日，icash2.0可用於搭乘[臺灣鐵路管理局列車](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")。
   - 2016年6月1日，[國立傳統藝術中心](../Page/國立傳統藝術中心.md "wikilink")停用icash。\[1\]
   - 2016年7月1日，icash2.0可搭乘[高雄捷運](../Page/高雄捷運.md "wikilink")（[輕軌除外](https://zh.wikipedia.org/wiki/環狀輕軌 "wikilink")）。
   - 2016年12月1日，[馬祖公車上線使用](https://zh.wikipedia.org/wiki/馬祖 "wikilink")。\[2\]
   - 2017年1月1日，新北市瑞芳第二市場停用icash\[3\]、高鐵・台鐵車票可支付代收代售\[4\]
   - 2017年2月10日，icash2.0可搭乘[台北捷運及](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")。
-  - 2017年6月29日，[中華電信旗下電子錢包服務](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[Hami
-    Wallet](http://hamipay.emome.net/)(現改名[Hami
-    Pay](http://hamipay.emome.net/))與愛金卡公司合作，提供手機icash2.0行動支付功能。\[5\]
+  - 2017年6月29日，[中華電信旗下電子錢包服務](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[Hami Wallet](http://hamipay.emome.net/)(現改名[Hami Pay](http://hamipay.emome.net/))與愛金卡公司合作，提供手機icash2.0行動支付功能。\[5\]
   - 2018年2月8日，icash2.0可搭乘桃園捷運機場線。
   - 2018年9月1日，icash2.0可搭乘高雄市公車與大台南公車。
   - 2019年1月1日，一代icash全面停止使用。\[6\]
@@ -88,8 +83,7 @@
       - [高雄捷運](../Page/高雄捷運.md "wikilink")各車站服務台
       - [臺北捷運](../Page/臺北捷運.md "wikilink")各車站服務台
       - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
-      - \*
-        [臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")：Icash適用範圍內之連線售票車站
+      - \* [臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")：Icash適用範圍內之連線售票車站
       - 臺北捷運單程票自動售票/加值機（ATIM）
       - 高雄捷運單程票自動售票/加值機（ATIM）
       - 桃園捷運單程票自動售票/加值機（ATIM）
@@ -130,11 +124,9 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
 
   - [臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")：使用方式參見電子票證規範
 
-:\*車票：可支付代收代售於[ibon](https://zh.wikipedia.org/wiki/ibon "wikilink")（列印・ibon
-APP、icash・icash2.0）
+:\*車票：可支付代收代售於[ibon](https://zh.wikipedia.org/wiki/ibon "wikilink")（列印・ibon APP、icash・icash2.0）
 
-  - [台灣高速鐵路車票](https://zh.wikipedia.org/wiki/台灣高速鐵路 "wikilink")：可支付代收代售於[ibon](https://zh.wikipedia.org/wiki/ibon "wikilink")（列印・ibon
-    APP、icash・icash2.0）
+  - [台灣高速鐵路車票](https://zh.wikipedia.org/wiki/台灣高速鐵路 "wikilink")：可支付代收代售於[ibon](https://zh.wikipedia.org/wiki/ibon "wikilink")（列印・ibon APP、icash・icash2.0）
 
 <!-- end list -->
 
@@ -215,20 +207,7 @@ APP、icash・icash2.0）
 
   - [iCash](http://www.icash.com.tw/)
 
-[Category:2004年面世的產品](https://zh.wikipedia.org/wiki/Category:2004年面世的產品 "wikilink")
-[Category:台灣電子票證](https://zh.wikipedia.org/wiki/Category:台灣電子票證 "wikilink")
-[Category:台北市交通](https://zh.wikipedia.org/wiki/Category:台北市交通 "wikilink")
-[Category:新北市交通](https://zh.wikipedia.org/wiki/Category:新北市交通 "wikilink")
-[Category:桃園市交通](https://zh.wikipedia.org/wiki/Category:桃園市交通 "wikilink")
-[Category:基隆市交通](https://zh.wikipedia.org/wiki/Category:基隆市交通 "wikilink")
-[Category:台中市交通](https://zh.wikipedia.org/wiki/Category:台中市交通 "wikilink")
-[Category:臺南市交通](https://zh.wikipedia.org/wiki/Category:臺南市交通 "wikilink")
-[Category:高雄市交通](https://zh.wikipedia.org/wiki/Category:高雄市交通 "wikilink")
-[Category:統一企業集團](https://zh.wikipedia.org/wiki/Category:統一企業集團 "wikilink")
-[Category:Icash](https://zh.wikipedia.org/wiki/Category:Icash "wikilink")
-[Category:智慧卡](https://zh.wikipedia.org/wiki/Category:智慧卡 "wikilink")
-[Category:乘車智慧卡](https://zh.wikipedia.org/wiki/Category:乘車智慧卡 "wikilink")
-[Category:公共交通付款方式](https://zh.wikipedia.org/wiki/Category:公共交通付款方式 "wikilink")
+[Category:2004年面世的產品](https://zh.wikipedia.org/wiki/Category:2004年面世的產品 "wikilink") [Category:台灣電子票證](https://zh.wikipedia.org/wiki/Category:台灣電子票證 "wikilink") [Category:台北市交通](https://zh.wikipedia.org/wiki/Category:台北市交通 "wikilink") [Category:新北市交通](https://zh.wikipedia.org/wiki/Category:新北市交通 "wikilink") [Category:桃園市交通](https://zh.wikipedia.org/wiki/Category:桃園市交通 "wikilink") [Category:基隆市交通](https://zh.wikipedia.org/wiki/Category:基隆市交通 "wikilink") [Category:台中市交通](https://zh.wikipedia.org/wiki/Category:台中市交通 "wikilink") [Category:臺南市交通](https://zh.wikipedia.org/wiki/Category:臺南市交通 "wikilink") [Category:高雄市交通](https://zh.wikipedia.org/wiki/Category:高雄市交通 "wikilink") [Category:統一企業集團](https://zh.wikipedia.org/wiki/Category:統一企業集團 "wikilink") [Category:Icash](https://zh.wikipedia.org/wiki/Category:Icash "wikilink") [Category:智慧卡](https://zh.wikipedia.org/wiki/Category:智慧卡 "wikilink") [Category:乘車智慧卡](https://zh.wikipedia.org/wiki/Category:乘車智慧卡 "wikilink") [Category:公共交通付款方式](https://zh.wikipedia.org/wiki/Category:公共交通付款方式 "wikilink")
 
 1.  [icash將於國立傳統藝術中心停用](https://www.icash.com.tw/Home/NewsDetail/8494)
 
@@ -251,8 +230,7 @@ APP、icash・icash2.0）
 
 11.
 
-12. [【新聞稿】桃捷給你滿滿大平台
-    四大票證攏ㄟ通](https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-602-2.html)2017-11-27,[桃園捷運公司](../Page/桃園捷運公司.md "wikilink")
+12. [【新聞稿】桃捷給你滿滿大平台 四大票證攏ㄟ通](https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-602-2.html)2017-11-27,[桃園捷運公司](../Page/桃園捷運公司.md "wikilink")
 
 13. [高雄渡輪持icash2.0票證入場，即享OPENPOINT天天5倍送。](https://www.icash.com.tw/Home/NewsDetail/?ID=9131)2017-12-01,愛金卡公司
 

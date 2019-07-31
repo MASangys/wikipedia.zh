@@ -26,5 +26,4 @@
 
 卡拉OK版权费现在是按照每天每终端支付报酬。各省根据自己的经济水平不一致，[中国音像著作权集体管理协会制定的标准略有不同](https://zh.wikipedia.org/wiki/中国音像著作权集体管理协会 "wikilink")。并且更完善的计费系统正在开发中，在不远的将来将会严格按照歌曲的点播频率计费。中国大陆具体各省的标准请参见[中国音像著作权集体管理协会网站公告](https://zh.wikipedia.org/wiki/中国音像著作权集体管理协会 "wikilink")。
 
-[Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink")
-[Category:版權](https://zh.wikipedia.org/wiki/Category:版權 "wikilink")
+[Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink") [Category:版權](https://zh.wikipedia.org/wiki/Category:版權 "wikilink")

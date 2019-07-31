@@ -4,5 +4,4 @@
 
   - [NBA总决赛](https://zh.wikipedia.org/wiki/NBA总决赛 "wikilink"),[NBA](../Page/NBA.md "wikilink")
 
-[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
-[Category:NBA总决赛](https://zh.wikipedia.org/wiki/Category:NBA总决赛 "wikilink")
+[Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:NBA总决赛](https://zh.wikipedia.org/wiki/Category:NBA总决赛 "wikilink")

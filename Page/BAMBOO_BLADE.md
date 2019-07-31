@@ -1,6 +1,4 @@
-《**BAMBOO
-BLADE**》是[土塚理弘原作](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")、[五十嵐あぐり作畫的以](https://zh.wikipedia.org/wiki/五十嵐あぐり "wikilink")[劍道為題材的](../Page/劍道.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。從2004年12月3日在雜誌[YOUNG
-GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年9月17日（Vol.18）完結。台灣中文版由[尚禾出版社代理](https://zh.wikipedia.org/wiki/尚禾出版社 "wikilink")。於2007年10月改編為[電視動畫並開始播放](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2008年3月播放完畢。而[香港有線電視兒童台由](https://zh.wikipedia.org/wiki/香港有線電視兒童台 "wikilink")2009年7月6日起播映。
+《**BAMBOO BLADE**》是[土塚理弘原作](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")、[五十嵐あぐり作畫的以](https://zh.wikipedia.org/wiki/五十嵐あぐり "wikilink")[劍道](../Page/劍道.md "wikilink")為題材的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。從2004年12月3日在雜誌[YOUNG GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年9月17日（Vol.18）完結。台灣中文版由[尚禾出版社代理](https://zh.wikipedia.org/wiki/尚禾出版社 "wikilink")。於2007年10月改編為[電視動畫並開始播放](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2008年3月播放完畢。而[香港有線電視兒童台由](https://zh.wikipedia.org/wiki/香港有線電視兒童台 "wikilink")2009年7月6日起播映。
 
 自2009年起，本作被称作日本第一女子剑道漫画\[1\]。
 
@@ -231,8 +229,7 @@ GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年
 
   - BAMBOO BLADE C
 
-於[月刊BIG
-GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由高尾じんぐ作畫。
+於[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由高尾じんぐ作畫。
 
 ## 出版書籍
 
@@ -476,8 +473,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 
 ### 製作團隊
 
-  - 原作 -
-    [土塚理弘](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")（原作）、[五十嵐あぐり](https://zh.wikipedia.org/wiki/五十嵐あぐり "wikilink")（作畫）
+  - 原作 - [土塚理弘](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")（原作）、[五十嵐あぐり](https://zh.wikipedia.org/wiki/五十嵐あぐり "wikilink")（作畫）
   - 監督 - [斎藤久](https://zh.wikipedia.org/wiki/斎藤久 "wikilink")
   - 腳本 - [倉田英之](../Page/倉田英之.md "wikilink")
   - 擔當演出 - 五十嵐達矢
@@ -495,21 +491,16 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
   - 製作人 - 𠮷、田博、黄樹弐悠、武智恒雄、片桐正貴、小松茂明
   - 動畫製作人 - 𠮷、田昇央
   - 動畫製作 - [AIC ASTA](../Page/動畫國際公司.md "wikilink")
-  - 製作 - BAMBOO
-    BLADE合作夥伴（史克威爾艾尼克斯、[JVC娛樂](https://zh.wikipedia.org/wiki/JVC娛樂 "wikilink")、AIC、KlockWorx、d-rights）
+  - 製作 - BAMBOO BLADE合作夥伴（史克威爾艾尼克斯、[JVC娛樂](https://zh.wikipedia.org/wiki/JVC娛樂 "wikilink")、AIC、KlockWorx、d-rights）
 
 ### 主題曲
 
-  - 片頭曲「[BAMBOO
-    BEAT](https://zh.wikipedia.org/wiki/BAMBOO_BEAT/STAR_RISE "wikilink")」
-    作詞 - [河井英里](../Page/河井英里.md "wikilink") / 作曲・編曲 - [Koma2
-    Kaz](https://zh.wikipedia.org/wiki/小松一也 "wikilink")
+  - 片頭曲「[BAMBOO BEAT](https://zh.wikipedia.org/wiki/BAMBOO_BEAT/STAR_RISE "wikilink")」
+    作詞 - [河井英里](../Page/河井英里.md "wikilink") / 作曲・編曲 - [Koma2 Kaz](https://zh.wikipedia.org/wiki/小松一也 "wikilink")
 
-    歌 -
-    川添珠姫（[廣橋涼](../Page/廣橋涼.md "wikilink")）・千葉紀梨乃（[豐口惠](../Page/豐口惠.md "wikilink")）・桑原鞘子（[小島幸子](../Page/小島幸子.md "wikilink")）・宮崎都（[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")）・東聰莉（[佐藤利奈](../Page/佐藤利奈.md "wikilink")）
+    歌 - 川添珠姫（[廣橋涼](../Page/廣橋涼.md "wikilink")）・千葉紀梨乃（[豐口惠](../Page/豐口惠.md "wikilink")）・桑原鞘子（[小島幸子](../Page/小島幸子.md "wikilink")）・宮崎都（[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")）・東聰莉（[佐藤利奈](../Page/佐藤利奈.md "wikilink")）
 
-  - 片尾曲「[STAR
-    RISE](https://zh.wikipedia.org/wiki/BAMBOO_BEAT/STAR_RISE "wikilink")」
+  - 片尾曲「[STAR RISE](https://zh.wikipedia.org/wiki/BAMBOO_BEAT/STAR_RISE "wikilink")」
     作詞 - 河井英里 / 作曲・編曲 - Koma2 Kaz
 
     歌 - 川添珠姫（廣橋涼）・千葉紀梨乃（豐口惠）・桑原鞘子（小島幸子）・宮崎都（桑島法子）・東聡莉（佐藤利奈）
@@ -518,8 +509,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 
 :; 「超剣戦隊ブレードブレイバー」（第2、15、20、21、24、26話）
 
-:: 作詞 - 桑原永江 / 作曲 - [中川幸太郎](../Page/中川幸太郎.md "wikilink") / 歌 -
-[石原慎一](https://zh.wikipedia.org/wiki/石原慎一 "wikilink")
+:: 作詞 - 桑原永江 / 作曲 - [中川幸太郎](../Page/中川幸太郎.md "wikilink") / 歌 - [石原慎一](https://zh.wikipedia.org/wiki/石原慎一 "wikilink")
 
 ::\* 《BAMBOO BLADE O.S.T.》中收錄。
 
@@ -934,26 +924,22 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 ### 廣播劇CD
 
   - BAMBOO BLADE 廣播劇CD 紅盤 (VICL-60019) - 2008年5月8日 發售
-      - 脚本與動畫版相同由[倉田英之擔當](../Page/倉田英之.md "wikilink")。與動畫版第15話關聯性很大的番外篇故事。
+      - 脚本與動畫版相同由[倉田英之](../Page/倉田英之.md "wikilink")擔當。與動畫版第15話關聯性很大的番外篇故事。
   - BAMBOO BLADE 廣播劇CD 白盤 (VICL-60020) - 2008年5月8日 發售
       - 由原作者[土塚理弘來負責腳本擔當](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")。完全的原創故事。
 
 ### 相關書籍
 
-  - （[JIVE刊](../Page/JIVE.md "wikilink")） - 2008年6月7日發行、ISBN
-    978-4-86176-535-3
+  - （[JIVE](../Page/JIVE.md "wikilink")刊） - 2008年6月7日發行、ISBN 978-4-86176-535-3
 
-  - （[Gakken刊](../Page/學研控股.md "wikilink")） - 2008年6月20日發行、ISBN
-    978-4-05-605186-5
+  - （[Gakken刊](../Page/學研控股.md "wikilink")） - 2008年6月20日發行、ISBN 978-4-05-605186-5
 
 ## 遊戲
 
   -
-    2009年5月28日發行。[Gadget
-    software發售](https://zh.wikipedia.org/wiki/Gadget_software "wikilink")。
+    2009年5月28日發行。[Gadget software發售](https://zh.wikipedia.org/wiki/Gadget_software "wikilink")。
       - 類型 - 燃え萌え真剣（ホンキ）冒險遊戲
-      - 對應平台 - [PlayStation
-        Portable](../Page/PlayStation_Portable.md "wikilink")
+      - 對應平台 - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")
       - 分級 -
 
 ## 参考文献
@@ -964,21 +950,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
   - [竹劍动画版日本官方网站](http://www.bambooblade.jp/)
   - [Anti-Heroine通信](https://web.archive.org/web/20081225231042/http://antiheroine.cool.ne.jp/)（漫畫畫者的个人网页）
 
-[Category:Bamboo_Blade](https://zh.wikipedia.org/wiki/Category:Bamboo_Blade "wikilink")
-[Category:2007年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年東京電視網動畫 "wikilink")
-[Category:劍道漫畫](https://zh.wikipedia.org/wiki/Category:劍道漫畫 "wikilink")
-[Category:有線電視兒童台外購動畫](https://zh.wikipedia.org/wiki/Category:有線電視兒童台外購動畫 "wikilink")
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:武術動畫](https://zh.wikipedia.org/wiki/Category:武術動畫 "wikilink")
-[Category:月刊BIG_GANGAN](https://zh.wikipedia.org/wiki/Category:月刊BIG_GANGAN "wikilink")
+[Category:Bamboo_Blade](https://zh.wikipedia.org/wiki/Category:Bamboo_Blade "wikilink") [Category:2007年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年東京電視網動畫 "wikilink") [Category:劍道漫畫](https://zh.wikipedia.org/wiki/Category:劍道漫畫 "wikilink") [Category:有線電視兒童台外購動畫](https://zh.wikipedia.org/wiki/Category:有線電視兒童台外購動畫 "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:武術動畫](https://zh.wikipedia.org/wiki/Category:武術動畫 "wikilink") [Category:月刊BIG_GANGAN](https://zh.wikipedia.org/wiki/Category:月刊BIG_GANGAN "wikilink")
 
-1.  《[YOUNG
-    GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》2009年2月號，本作外傳《竹劍少年》彩頁
+1.  《[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》2009年2月號，本作外傳《竹劍少年》彩頁
 2.  [霧海正悟與](https://zh.wikipedia.org/wiki/霧海正悟 "wikilink")[大濱真對的共同筆名](https://zh.wikipedia.org/wiki/大濱真對 "wikilink")。

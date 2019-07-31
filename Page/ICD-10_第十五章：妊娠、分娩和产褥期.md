@@ -3,8 +3,7 @@
 O00-O08 流产结局的妊娠
 
   - O00 [异位妊娠](https://zh.wikipedia.org/wiki/异位妊娠 "wikilink")
-  - O01
-    [葡萄胎](../Page/葡萄胎.md "wikilink")（[水泡状胎块](https://zh.wikipedia.org/wiki/水泡状胎块 "wikilink")）
+  - O01 [葡萄胎](../Page/葡萄胎.md "wikilink")（[水泡状胎块](https://zh.wikipedia.org/wiki/水泡状胎块 "wikilink")）
   - O02 受孕的其他异常产物
   - O03 [自然流产](https://zh.wikipedia.org/wiki/自然流产 "wikilink")
   - O04 [医疗性流产](https://zh.wikipedia.org/wiki/医疗性流产 "wikilink")
@@ -15,14 +14,12 @@ O00-O08 流产结局的妊娠
 
 ## O10-O16 妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患
 
-O10-O16
-[妊娠](../Page/妊娠.md "wikilink")、[分娩](../Page/分娩.md "wikilink")和[产褥期的水肿](https://zh.wikipedia.org/wiki/产褥 "wikilink")、蛋白尿和高血压疾患
+O10-O16 [妊娠](../Page/妊娠.md "wikilink")、[分娩](../Page/分娩.md "wikilink")和[产褥期的水肿](https://zh.wikipedia.org/wiki/产褥 "wikilink")、蛋白尿和高血压疾患
 
   - O10 原有的高血压并发于妊娠、分娩和产褥期
   - O11 原有的高血压性疾患，并发蛋白尿
   - O12 妊娠期水肿和蛋白尿，不伴有高血压
-  - O13
-    [妊娠期](../Page/妊娠期.md "wikilink")[高血压](https://zh.wikipedia.org/wiki/高血压 "wikilink")，不伴有有意义的蛋白尿
+  - O13 [妊娠期](../Page/妊娠期.md "wikilink")[高血压](https://zh.wikipedia.org/wiki/高血压 "wikilink")，不伴有有意义的蛋白尿
   - O14 妊娠期高血压，伴有有意义的蛋白尿
   - O15 [子痫](https://zh.wikipedia.org/wiki/子痫 "wikilink")
   - O16 未特指的孕产妇高血压
@@ -43,8 +40,7 @@ O20-O29 主要与妊娠有关的其他孕产妇疾患
 
 ## O30-O48 与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗
 
-O30-O48
-与[胎儿和](https://zh.wikipedia.org/wiki/胎儿 "wikilink")[羊膜腔及可能的分娩问题有关的孕产妇医疗](https://zh.wikipedia.org/wiki/羊膜腔 "wikilink")
+O30-O48 与[胎儿和](https://zh.wikipedia.org/wiki/胎儿 "wikilink")[羊膜腔及可能的分娩问题有关的孕产妇医疗](https://zh.wikipedia.org/wiki/羊膜腔 "wikilink")
 
   - O30 [多胎妊娠](https://zh.wikipedia.org/wiki/多胎妊娠 "wikilink")
   - O31 特发于多胎妊娠的并发症
@@ -65,8 +61,7 @@ O30-O48
 
 ## O60-O75 产程和分娩的并发症
 
-O60-O75
-[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩](../Page/分娩.md "wikilink")的并发症
+O60-O75 [产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩](../Page/分娩.md "wikilink")的并发症
 
   - O60 [早产](https://zh.wikipedia.org/wiki/早产 "wikilink")
   - O61 引产失败
@@ -81,8 +76,7 @@ O60-O75
   - O70 分娩时会阴裂伤
   - O71 其他产科创伤
   - O72 产后出血
-  - O73
-    [胎盘和](https://zh.wikipedia.org/wiki/胎盘 "wikilink")[胎膜滞留](https://zh.wikipedia.org/wiki/胎膜 "wikilink")，不伴有出血
+  - O73 [胎盘和](https://zh.wikipedia.org/wiki/胎盘 "wikilink")[胎膜滞留](https://zh.wikipedia.org/wiki/胎膜 "wikilink")，不伴有出血
   - O74 产程和分娩期间麻醉的并发症
   - O75 产程和分娩的其他并发症，不可归类在他处者
 
@@ -91,8 +85,7 @@ O60-O75
 O80-O84 [分娩](../Page/分娩.md "wikilink")
 
   - O80 单胎顺产
-  - O81
-    借助[产钳和](https://zh.wikipedia.org/wiki/产钳 "wikilink")[真空吸引器的单胎分娩](https://zh.wikipedia.org/wiki/真空吸引器 "wikilink")
+  - O81 借助[产钳和](https://zh.wikipedia.org/wiki/产钳 "wikilink")[真空吸引器的单胎分娩](https://zh.wikipedia.org/wiki/真空吸引器 "wikilink")
   - O82 经剖宫产术的单胎分娩
   - O83 其他助产的单胎分娩
   - O84 [多胎分娩](https://zh.wikipedia.org/wiki/多胎分娩 "wikilink")
@@ -125,6 +118,4 @@ O95-O99 其他产科科情况，不可归类在他处者
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

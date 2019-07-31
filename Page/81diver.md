@@ -2,8 +2,7 @@
 
 ## 概要
 
-這部作品是[集英社](../Page/集英社.md "wikilink")《[週刊Young
-Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所連載的第41部漫畫作品，內容以[將棋為主](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")。原[獎勵會青年菅田](https://zh.wikipedia.org/wiki/新進棋士獎勵會 "wikilink")，受到[秋葉原](../Page/秋葉原.md "wikilink")防禦師所引導，參與的[真劍師之間的戰爭](https://zh.wikipedia.org/wiki/真劍師 "wikilink")。將棋監修是[鈴木大介八段棋士](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")。
+這部作品是[集英社](../Page/集英社.md "wikilink")《[週刊Young Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所連載的第41部漫畫作品，內容以[將棋為主](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")。原[獎勵會青年菅田](https://zh.wikipedia.org/wiki/新進棋士獎勵會 "wikilink")，受到[秋葉原](../Page/秋葉原.md "wikilink")防禦師所引導，參與的[真劍師之間的戰爭](https://zh.wikipedia.org/wiki/真劍師 "wikilink")。將棋監修是[鈴木大介八段棋士](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")。
 
 [單行本到](https://zh.wikipedia.org/wiki/單行本 "wikilink")[2012年2月](../Page/2012年2月.md "wikilink")為止，在日本已出版23集，目前繼續連載中。
 
@@ -58,8 +57,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 <!-- end list -->
 
-  - 飛鷹安雄（ひだか
-    やすお）：[富澤岳史](https://zh.wikipedia.org/wiki/富澤岳史 "wikilink")（[サンドウィッチマン](https://zh.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")）
+  - 飛鷹安雄（ひだか やすお）：[富澤岳史](https://zh.wikipedia.org/wiki/富澤岳史 "wikilink")（[サンドウィッチマン](https://zh.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")）
 
 <!-- end list -->
 
@@ -68,8 +66,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 <!-- end list -->
 
-  - 角田吾郎（かくた
-    ごろう）：[伊達幹生](https://zh.wikipedia.org/wiki/伊達幹生 "wikilink")（サンドウィッチマン）
+  - 角田吾郎（かくた ごろう）：[伊達幹生](https://zh.wikipedia.org/wiki/伊達幹生 "wikilink")（サンドウィッチマン）
 
 <!-- end list -->
 
@@ -126,8 +123,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 <!-- end list -->
 
-  - 桐嶋清十郎（きりしま
-    せいじゅうろう）：[石橋蓮司](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink")（第9話～）
+  - 桐嶋清十郎（きりしま せいじゅうろう）：[石橋蓮司](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink")（第9話～）
 
 <!-- end list -->
 
@@ -151,10 +147,8 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 <!-- end list -->
 
-  - 海豚一郎（いるか
-    いちろう）：[池田鉄洋](https://zh.wikipedia.org/wiki/池田鉄洋 "wikilink")（第3話、第6話）
-  - 春日京介（かすが
-    きょうすけ）：[袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")（第8話、ドラマオリジナル）
+  - 海豚一郎（いるか いちろう）：[池田鉄洋](https://zh.wikipedia.org/wiki/池田鉄洋 "wikilink")（第3話、第6話）
+  - 春日京介（かすが きょうすけ）：[袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")（第8話、ドラマオリジナル）
 
 <!-- end list -->
 
@@ -174,8 +168,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 <!-- end list -->
 
-  - 粕谷義英（かすや
-    よしひで）：[鶴野剛士](https://zh.wikipedia.org/wiki/鶴野剛士 "wikilink")（第1話、第9話）
+  - 粕谷義英（かすや よしひで）：[鶴野剛士](https://zh.wikipedia.org/wiki/鶴野剛士 "wikilink")（第1話、第9話）
 
 <!-- end list -->
 
@@ -184,8 +177,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 <!-- end list -->
 
-  - 桐嶋凪（きりしま
-    なぎ）：[戶田菜穗](https://zh.wikipedia.org/wiki/戶田菜穗 "wikilink")（第10話）
+  - 桐嶋凪（きりしま なぎ）：[戶田菜穗](https://zh.wikipedia.org/wiki/戶田菜穗 "wikilink")（第10話）
 
 <!-- end list -->
 
@@ -209,8 +201,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 ### 主題曲
 
-  - [新垣結衣](../Page/新垣結衣.md "wikilink")「[Make my
-    day](../Page/Make_my_day.md "wikilink")」
+  - [新垣結衣](../Page/新垣結衣.md "wikilink")「[Make my day](../Page/Make_my_day.md "wikilink")」
 
 ### 播放記錄
 
@@ -341,9 +332,4 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
   - [S-MANGA.NET - 漫畫：81DIVER](http://annex.s-manga.net/81diver/)
   - [電視劇官方網站](https://web.archive.org/web/20090210132248/http://wwwz.fujitv.co.jp/b_hp/81/index_frame.html)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本將棋漫畫](https://zh.wikipedia.org/wiki/Category:日本將棋漫畫 "wikilink")
-[Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink")
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:日本將棋題材作品](https://zh.wikipedia.org/wiki/Category:日本將棋題材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本將棋漫畫](https://zh.wikipedia.org/wiki/Category:日本將棋漫畫 "wikilink") [Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink") [Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:日本將棋題材作品](https://zh.wikipedia.org/wiki/Category:日本將棋題材作品 "wikilink")

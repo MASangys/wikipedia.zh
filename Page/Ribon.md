@@ -1,21 +1,20 @@
-《**Ribon**》（）是[日本](../Page/日本.md "wikilink")[集英社發行的月刊](../Page/集英社.md "wikilink")[少女漫畫](../Page/少女漫画.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。1955年8月3日創刊；2015年8月創刊60週年。
+《**Ribon**》（）是[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")發行的月刊[少女漫畫](../Page/少女漫画.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。1955年8月3日創刊；2015年8月創刊60週年。
 
-《Ribon》和[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[Nakayoshi](../Page/Nakayoshi.md "wikilink")》和[小學館的](../Page/小學館.md "wikilink")《[Ciao](../Page/Ciao.md "wikilink")》並列為日本三大少女漫畫雜誌。漫畫的內容在三大少女漫畫雜誌中最接近成人化。相對於《Ciao》，讀者的平均年齡較高。
+《Ribon》和[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[Nakayoshi](../Page/Nakayoshi.md "wikilink")》和[小學館](../Page/小學館.md "wikilink")的《[Ciao](../Page/Ciao.md "wikilink")》並列為日本三大少女漫畫雜誌。漫畫的內容在三大少女漫畫雜誌中最接近成人化。相對於《Ciao》，讀者的平均年齡較高。
 
 ## 發行
 
 《Ribon》讀者對象以[小學中年級至](https://zh.wikipedia.org/wiki/小學 "wikilink")[中學的女生為主](../Page/初级中学.md "wikilink")，近年來更偏向於小學高年級至中學的讀者群。
 
-1980年代後半至1990年代中期，《Ribon》曾經創下少女漫畫雜誌歷史上最高的發行量記錄（250萬冊），當時有[櫻桃子的連載](../Page/櫻桃子.md "wikilink")[櫻桃小丸子造成爆紅](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")。1994年以後發行數量逐漸減少。
+1980年代後半至1990年代中期，《Ribon》曾經創下少女漫畫雜誌歷史上最高的發行量記錄（250萬冊），當時有[櫻桃子](../Page/櫻桃子.md "wikilink")的連載[櫻桃小丸子造成爆紅](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")。1994年以後發行數量逐漸減少。
 
-自從2000年時將[矢澤愛等實力派漫畫家從RIBON分出成](../Page/矢澤愛.md "wikilink")《[Cookie](../Page/Cookie.md "wikilink")》，造成讀者群的分裂，雜誌銷售量再度下降，使得《[Ciao](../Page/Ciao.md "wikilink")》躍升成為第一大少女漫畫雜誌，讀者轉而只去買單行本，但其發行的單行本仍屬Ribon
-Mascot Comic系列。
+自從2000年時將[矢澤愛](../Page/矢澤愛.md "wikilink")等實力派漫畫家從RIBON分出成《[Cookie](../Page/Cookie.md "wikilink")》，造成讀者群的分裂，雜誌銷售量再度下降，使得《[Ciao](../Page/Ciao.md "wikilink")》躍升成為第一大少女漫畫雜誌，讀者轉而只去買單行本，但其發行的單行本仍屬Ribon Mascot Comic系列。
 
 2006年發行量只有40萬冊，大約是顛峰期的1/6，2008年發行量剩下376,666冊，為三大少女漫畫雜誌的最後一名。
 
 ## 授權
 
-《Ribon》在台灣正式授權的雜誌是[尖端出版的](../Page/尖端出版.md "wikilink")《[夢夢少女漫畫月刊](../Page/夢夢少女漫畫月刊.md "wikilink")》。
+《Ribon》在台灣正式授權的雜誌是[尖端出版](../Page/尖端出版.md "wikilink")的《[夢夢少女漫畫月刊](../Page/夢夢少女漫畫月刊.md "wikilink")》。
 
 ## 雜誌種類
 
@@ -28,14 +27,11 @@ Mascot Comic系列。
   - [動物小町](https://zh.wikipedia.org/wiki/動物小町 "wikilink")（[前川涼](https://zh.wikipedia.org/wiki/前川涼 "wikilink")）
   - 緒子美美（[園田小波](https://zh.wikipedia.org/wiki/園田小波 "wikilink")）
   - [六月的情書](https://zh.wikipedia.org/wiki/六月的情書 "wikilink")（）（[春田菜菜](../Page/春田菜菜.md "wikilink")）
-  - [絕叫學級
-    轉生](https://zh.wikipedia.org/wiki/絕叫學級_轉生 "wikilink")（）（[石川惠美](../Page/石川惠美.md "wikilink")）
+  - [絕叫學級 轉生](https://zh.wikipedia.org/wiki/絕叫學級_轉生 "wikilink")（）（[石川惠美](../Page/石川惠美.md "wikilink")）
   - [群青色般炫目的你](https://zh.wikipedia.org/wiki/群青色般炫目的你 "wikilink")（）（[酒井真由](../Page/酒井真由.md "wikilink")）
   - [青春特調檸檬蜂蜜蘇打](https://zh.wikipedia.org/wiki/青春特調檸檬蜂蜜蘇打 "wikilink")（）（[村田真優](https://zh.wikipedia.org/wiki/村田真優 "wikilink")）
-  - [在我眼中閃耀的他](https://zh.wikipedia.org/wiki/在我眼中閃耀的他 "wikilink")（）
-    ([槙陽子](../Page/槙陽子.md "wikilink"))
-  - [古屋先生は杏ちゃんのモノ](https://zh.wikipedia.org/wiki/古屋先生は杏ちゃんのモノ "wikilink")
-    ([香純裕子](https://zh.wikipedia.org/wiki/香純裕子 "wikilink"))
+  - [在我眼中閃耀的他](https://zh.wikipedia.org/wiki/在我眼中閃耀的他 "wikilink")（） ([槙陽子](../Page/槙陽子.md "wikilink"))
+  - [古屋先生は杏ちゃんのモノ](https://zh.wikipedia.org/wiki/古屋先生は杏ちゃんのモノ "wikilink") ([香純裕子](https://zh.wikipedia.org/wiki/香純裕子 "wikilink"))
 
 ## 過去主要連載作品
 
@@ -54,7 +50,7 @@ Mascot Comic系列。
   - （[真城雛](https://zh.wikipedia.org/wiki/真城雛 "wikilink")）
 
   -
-  - [愛你寶貝★★](../Page/愛你寶貝.md "wikilink")（槙陽子）
+  - [愛你寶貝](../Page/愛你寶貝.md "wikilink")★★（槙陽子）
 
   - [浪漫時鐘](../Page/浪漫時鐘.md "wikilink")（[槙陽子](../Page/槙陽子.md "wikilink")）
 
@@ -82,8 +78,7 @@ Mascot Comic系列。
 
   - （[萩岩睦美](https://zh.wikipedia.org/wiki/萩岩睦美 "wikilink")）
 
-  - [Good Morning
-    Call](https://zh.wikipedia.org/wiki/Good_Morning_Call "wikilink")（[高須賀由枝](https://zh.wikipedia.org/wiki/高須賀由枝 "wikilink")）
+  - [Good Morning Call](https://zh.wikipedia.org/wiki/Good_Morning_Call "wikilink")（[高須賀由枝](https://zh.wikipedia.org/wiki/高須賀由枝 "wikilink")）
 
   - （[片桐澪](https://zh.wikipedia.org/wiki/片桐澪 "wikilink")）
 
@@ -146,8 +141,7 @@ Mascot Comic系列。
 
   - [百變小姬子](../Page/百變小姬子.md "wikilink")（[水澤惠](https://zh.wikipedia.org/wiki/水澤惠 "wikilink")）
 
-  - [百變小姬子
-    彩色](https://zh.wikipedia.org/wiki/百變小姬子#百變小姬子_彩色 "wikilink")（[込由野志穗](https://zh.wikipedia.org/wiki/込由野志穗 "wikilink")）
+  - [百變小姬子 彩色](https://zh.wikipedia.org/wiki/百變小姬子#百變小姬子_彩色 "wikilink")（[込由野志穗](https://zh.wikipedia.org/wiki/込由野志穗 "wikilink")）
 
   -
   - （[高橋由佳利](https://zh.wikipedia.org/wiki/高橋由佳利 "wikilink")）
@@ -220,11 +214,9 @@ Mascot Comic系列。
 
   - [星塵★眨眼](../Page/星塵★眨眼.md "wikilink")（[春田菜菜](../Page/春田菜菜.md "wikilink")）
 
-  - [青春贊歌哈利路亞](https://zh.wikipedia.org/wiki/青春贊歌哈利路亞 "wikilink")
-    ([藤原友佳](../Page/藤原友佳.md "wikilink"))
+  - [青春贊歌哈利路亞](https://zh.wikipedia.org/wiki/青春贊歌哈利路亞 "wikilink") ([藤原友佳](../Page/藤原友佳.md "wikilink"))
 
-  - [月夜の王冠](https://zh.wikipedia.org/wiki/月夜の王冠 "wikilink")
-    ([藤原友佳](../Page/藤原友佳.md "wikilink"))
+  - [月夜の王冠](https://zh.wikipedia.org/wiki/月夜の王冠 "wikilink") ([藤原友佳](../Page/藤原友佳.md "wikilink"))
 
   - [人家怎麼可能不在意貓田。](https://zh.wikipedia.org/wiki/人家怎麼可能不在意貓田。 "wikilink")（）（[大詩理惠](https://zh.wikipedia.org/wiki/大詩理惠 "wikilink")）
 
@@ -234,8 +226,4 @@ Mascot Comic系列。
 
   - [官方網站](http://ribon.shueisha.co.jp/index.html)
 
-[Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:集英社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:集英社的漫畫雜誌 "wikilink")
+[Category:Ribon](https://zh.wikipedia.org/wiki/Category:Ribon "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:集英社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:集英社的漫畫雜誌 "wikilink")

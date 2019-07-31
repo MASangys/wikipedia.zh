@@ -1,13 +1,8 @@
-**Yahoo\! Babel Fish**（[Yahoo\!
-奇摩稱作](https://zh.wikipedia.org/wiki/Yahoo!_奇摩 "wikilink")**Yahoo\!
-奇摩翻譯**；又譯**寶貝魚**、**巴別魚**）是一個[互聯網上一個自動化的免費](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[機械翻譯系統服務](https://zh.wikipedia.org/wiki/機械翻譯 "wikilink")，由[門戶網站](https://zh.wikipedia.org/wiki/門戶網站 "wikilink")[AltaVista](../Page/AltaVista.md "wikilink")（已被[雅虎收購](../Page/雅虎.md "wikilink")）提供。寶貝魚可以為用戶翻譯一段文字，或指定的網頁內容。早期的寶貝魚服務只提供有五種最常見的歐洲語言，分別是：英語、法語、德語、西班牙語及意大利語。現時系統已能作12種語言（繁簡中文算作一種）的翻譯。从2012年6月1日起，Yahoo\!Babel
-Fish已经关停，如果访问Yahoo\! Babel Fish则会自动转向[Bing
-Translator](https://zh.wikipedia.org/wiki/Bing翻译 "wikilink")。\[1\]
+**Yahoo\! Babel Fish**（[Yahoo\! 奇摩稱作](https://zh.wikipedia.org/wiki/Yahoo!_奇摩 "wikilink")**Yahoo\! 奇摩翻譯**；又譯**寶貝魚**、**巴別魚**）是一個[互聯網上一個自動化的免費](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[機械翻譯系統服務](https://zh.wikipedia.org/wiki/機械翻譯 "wikilink")，由[門戶網站](https://zh.wikipedia.org/wiki/門戶網站 "wikilink")[AltaVista](../Page/AltaVista.md "wikilink")（已被[雅虎](../Page/雅虎.md "wikilink")收購）提供。寶貝魚可以為用戶翻譯一段文字，或指定的網頁內容。早期的寶貝魚服務只提供有五種最常見的歐洲語言，分別是：英語、法語、德語、西班牙語及意大利語。現時系統已能作12種語言（繁簡中文算作一種）的翻譯。从2012年6月1日起，Yahoo\!Babel Fish已经关停，如果访问Yahoo\! Babel Fish则会自动转向[Bing Translator](https://zh.wikipedia.org/wiki/Bing翻译 "wikilink")。\[1\]
 
 ## 取名
 
-「寶貝魚」的名稱源於[英國廣播公司的連續劇](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")、改編自[道格拉斯·亞當斯的小說](https://zh.wikipedia.org/wiki/道格拉斯·亞當斯 "wikilink")《[-{zh-hans:银河系漫游指南;
-zh-hant:銀河便車指南;}-](https://zh.wikipedia.org/wiki/银河系漫游指南 "wikilink")》系列的虛構魚形機械生物[巴別魚](https://zh.wikipedia.org/wiki/巴別魚 "wikilink")，而「巴別魚」的名稱又來自《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")·[創世紀](https://zh.wikipedia.org/wiki/創世紀 "wikilink")》有關人類在被上帝搞亂了他們的語言時所興建的建築物[巴別塔](../Page/巴別塔.md "wikilink")。
+「寶貝魚」的名稱源於[英國廣播公司的連續劇](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")、改編自[道格拉斯·亞當斯的小說](https://zh.wikipedia.org/wiki/道格拉斯·亞當斯 "wikilink")《[-{zh-hans:银河系漫游指南; zh-hant:銀河便車指南;}-](https://zh.wikipedia.org/wiki/银河系漫游指南 "wikilink")》系列的虛構魚形機械生物[巴別魚](https://zh.wikipedia.org/wiki/巴別魚 "wikilink")，而「巴別魚」的名稱又來自《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")·[創世紀](https://zh.wikipedia.org/wiki/創世紀 "wikilink")》有關人類在被上帝搞亂了他們的語言時所興建的建築物[巴別塔](../Page/巴別塔.md "wikilink")。
 
 ## 翻譯功能
 
@@ -57,17 +52,12 @@ zh-hant:銀河便車指南;}-](https://zh.wikipedia.org/wiki/银河系漫游指�
 
 ## 外部連結
 
-  - [Babel Fish Translation
-    Service](https://web.archive.org/web/19990421124540/http://babelfish.altavista.com/)
+  - [Babel Fish Translation Service](https://web.archive.org/web/19990421124540/http://babelfish.altavista.com/)
   - [翻譯新寵寶貝魚](https://web.archive.org/web/20070930180730/http://babelfish.yahoo.com.cn/)
-  - [Lost in Translation (round-trip
-    translation)](https://web.archive.org/web/20070701111927/http://www.tashian.com/multibabel/)
+  - [Lost in Translation (round-trip translation)](https://web.archive.org/web/20070701111927/http://www.tashian.com/multibabel/)
   - [Yahoo\!奇摩翻譯](https://web.archive.org/web/20090227012157/http://tw.babelfish.yahoo.com/)
   - [Bad Translator](http://ackuna.com/badtranslator)
 
-[Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink")
-[Category:2012年关闭的网站](https://zh.wikipedia.org/wiki/Category:2012年关闭的网站 "wikilink")
-[Category:1997年面世的產品](https://zh.wikipedia.org/wiki/Category:1997年面世的產品 "wikilink")
+[Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:2012年关闭的网站](https://zh.wikipedia.org/wiki/Category:2012年关闭的网站 "wikilink") [Category:1997年面世的產品](https://zh.wikipedia.org/wiki/Category:1997年面世的產品 "wikilink")
 
-1.  [Yahoo\! Babel Fish 翻译正式由 Bing Translator
-    取代](http://www.yseeker.com/archives/7263.html)
+1.  [Yahoo\! Babel Fish 翻译正式由 Bing Translator 取代](http://www.yseeker.com/archives/7263.html)

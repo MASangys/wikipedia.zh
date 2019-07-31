@@ -1,7 +1,6 @@
 ## K00-K14 口腔、涎腺和颌疾病
 
-K00-K14
-[口腔](../Page/口腔.md "wikilink")、[涎腺和](https://zh.wikipedia.org/wiki/唾腺 "wikilink")[颌疾病](https://zh.wikipedia.org/wiki/颌 "wikilink")
+K00-K14 [口腔](../Page/口腔.md "wikilink")、[涎腺和](https://zh.wikipedia.org/wiki/唾腺 "wikilink")[颌疾病](https://zh.wikipedia.org/wiki/颌 "wikilink")
 
   - K00 [牙齿发育和萌出疾患](https://zh.wikipedia.org/wiki/牙齿 "wikilink")
   - K01 埋伏牙和[阻生牙](https://zh.wikipedia.org/wiki/阻生牙 "wikilink")
@@ -21,8 +20,7 @@ K00-K14
 
 ## K20-K31 食管、胃和十二指肠疾病
 
-K20-K31
-[食管](https://zh.wikipedia.org/wiki/食管 "wikilink")、[胃](../Page/胃.md "wikilink")和[十二指肠](../Page/十二指肠.md "wikilink")疾病
+K20-K31 [食管](https://zh.wikipedia.org/wiki/食管 "wikilink")、[胃](../Page/胃.md "wikilink")和[十二指肠](../Page/十二指肠.md "wikilink")疾病
 
   - K20 [食管炎](https://zh.wikipedia.org/wiki/食管炎 "wikilink")
   - K21 胃、食管反流性疾病
@@ -32,8 +30,7 @@ K20-K31
   - K26 [十二指肠溃疡](https://zh.wikipedia.org/wiki/十二指肠溃疡 "wikilink")
   - K27 [消化性溃疡](https://zh.wikipedia.org/wiki/消化性溃疡 "wikilink")，部位未特指
   - K28 胃空肠溃疡
-  - K29
-    [胃炎](../Page/胃炎.md "wikilink")和[十二指肠炎](https://zh.wikipedia.org/wiki/十二指肠炎 "wikilink")
+  - K29 [胃炎](../Page/胃炎.md "wikilink")和[十二指肠炎](https://zh.wikipedia.org/wiki/十二指肠炎 "wikilink")
   - K30 [消化不良](../Page/消化不良.md "wikilink")
   - K31 胃和十二指肠的其他疾病
 
@@ -62,8 +59,7 @@ K40-K46 [疝](../Page/疝.md "wikilink")
 
 K50-K52 非感染性肠炎和结肠炎
 
-  - K50
-    [克罗恩病](https://zh.wikipedia.org/wiki/克罗恩病 "wikilink")（[节段性肠炎](https://zh.wikipedia.org/wiki/节段性肠炎 "wikilink")）
+  - K50 [克罗恩病](https://zh.wikipedia.org/wiki/克罗恩病 "wikilink")（[节段性肠炎](https://zh.wikipedia.org/wiki/节段性肠炎 "wikilink")）
   - K51 [溃疡性结肠炎](../Page/溃疡性结肠炎.md "wikilink")
   - K52 其他非感染性胃肠炎和结肠炎
 
@@ -76,8 +72,7 @@ K55-K63 肠的其他疾病
   - K57 肠憩室性疾病
   - K58 过敏性大肠综合症
   - K59 其他功能性肠疾患
-  - K60
-    [肛门](../Page/肛门.md "wikilink")及[直肠区的裂瘘](https://zh.wikipedia.org/wiki/直肠 "wikilink")
+  - K60 [肛门](../Page/肛门.md "wikilink")及[直肠区的裂瘘](https://zh.wikipedia.org/wiki/直肠 "wikilink")
   - K61 肛门和直肠区脓肿
   - K62 肛门和直肠的其他疾病
   - K63 肠的其他疾病
@@ -105,8 +100,7 @@ K70-K77 肝疾病
 
 ## K80-K87 胆囊、胆道和胰腺疾患
 
-K80-K87
-[胆囊](../Page/胆囊.md "wikilink")、[胆道和](https://zh.wikipedia.org/wiki/胆道 "wikilink")[胰腺疾患](https://zh.wikipedia.org/wiki/胰腺 "wikilink")
+K80-K87 [胆囊](../Page/胆囊.md "wikilink")、[胆道和](https://zh.wikipedia.org/wiki/胆道 "wikilink")[胰腺疾患](https://zh.wikipedia.org/wiki/胰腺 "wikilink")
 
   - K80 [胆石病](https://zh.wikipedia.org/wiki/胆石病 "wikilink")
   - K81 [胆囊炎](https://zh.wikipedia.org/wiki/胆囊炎 "wikilink")
@@ -130,6 +124,4 @@ K90-K93 [消化系统](../Page/消化系统.md "wikilink")的其他疾病
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

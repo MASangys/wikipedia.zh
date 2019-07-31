@@ -1,4 +1,4 @@
-****（，英文），即「**全國廣播網**」，是[日本一家](../Page/日本.md "wikilink")[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，成立於1965年5月3日，[加盟者為](https://zh.wikipedia.org/wiki/加盟 "wikilink")[AM私營](../Page/調幅廣播.md "wikilink")[廣播電臺](https://zh.wikipedia.org/wiki/廣播電臺 "wikilink")。其[核心局為](../Page/核心局.md "wikilink")[文化放送及](../Page/文化放送_\(日本\).md "wikilink")[日本放送](../Page/日本放送.md "wikilink")。NRN共有40個廣播電台加盟，是日本最大的廣播聯播網。
+****（，英文），即「**全國廣播網**」，是[日本](../Page/日本.md "wikilink")一家[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，成立於1965年5月3日，[加盟者為](https://zh.wikipedia.org/wiki/加盟 "wikilink")[AM私營](../Page/調幅廣播.md "wikilink")[廣播電臺](https://zh.wikipedia.org/wiki/廣播電臺 "wikilink")。其[核心局](../Page/核心局.md "wikilink")為[文化放送及](../Page/文化放送_\(日本\).md "wikilink")[日本放送](../Page/日本放送.md "wikilink")。NRN共有40個廣播電台加盟，是日本最大的廣播聯播網。
 
 ## 成員列表
 
@@ -7,7 +7,7 @@
   - ◆為只加入NRN
   - ◇為同時加入NRN與JRN
   - ☆為有兼營[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")
-  - ▼為實施AM[立體聲廣播](../Page/立體聲.md "wikilink")
+  - ▼為實施AM[立體聲](../Page/立體聲.md "wikilink")廣播
   - ○為未加入任何[電視聯播網](../Page/電視聯播網.md "wikilink")
 
 <table>
@@ -135,7 +135,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><strong>SF</strong></p></td>
 <td></td>
-<td><p><small>1965年7月4日に加盟。<a href="https://zh.wikipedia.org/wiki/中日新聞社" title="wikilink">中日新聞社が筆頭株主</a>。<a href="../Page/東海電視台.md" title="wikilink">東海電視台と関連がある</a>。<br />
+<td><p><small>1965年7月4日に加盟。<a href="https://zh.wikipedia.org/wiki/中日新聞社" title="wikilink">中日新聞社が筆頭株主</a>。<a href="../Page/東海電視台.md" title="wikilink">東海電視台</a>と関連がある。<br />
 ネットワークへのライン送出が可能な設備がある。</p></td>
 <td><p>◆▼</p></td>
 </tr>
@@ -339,6 +339,4 @@
 
   - [NRN](http://www.1242.com/network/)
 
-[Category:日本媒體](https://zh.wikipedia.org/wiki/Category:日本媒體 "wikilink")
-[Category:電台網](https://zh.wikipedia.org/wiki/Category:電台網 "wikilink")
-[Category:1965年建立](https://zh.wikipedia.org/wiki/Category:1965年建立 "wikilink")
+[Category:日本媒體](https://zh.wikipedia.org/wiki/Category:日本媒體 "wikilink") [Category:電台網](https://zh.wikipedia.org/wiki/Category:電台網 "wikilink") [Category:1965年建立](https://zh.wikipedia.org/wiki/Category:1965年建立 "wikilink")

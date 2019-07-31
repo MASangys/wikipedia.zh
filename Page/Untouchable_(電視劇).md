@@ -154,9 +154,7 @@
 
 ## 音樂
 
-  - 主題曲：[GIRL NEXT
-    DOOR](https://zh.wikipedia.org/wiki/GIRL_NEXT_DOOR "wikilink")
-    -「Orion」2009.11.25
+  - 主題曲：[GIRL NEXT DOOR](https://zh.wikipedia.org/wiki/GIRL_NEXT_DOOR "wikilink") -「Orion」2009.11.25
   - 插曲：72 -「ここにいるよ」（Sony Music Associated Records Inc.）2009.12.09
 
 ## 播放日期、副題、導演、收視率
@@ -270,11 +268,6 @@
 
 ## 作品的變遷
 
-[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink")
-[Category:朝日電視台週五晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週五晚間九點連續劇 "wikilink")
-[Category:日本推理劇](https://zh.wikipedia.org/wiki/Category:日本推理劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:新聞行業題材電視節目](https://zh.wikipedia.org/wiki/Category:新聞行業題材電視節目 "wikilink")
+[Category:2009年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2009年日本電視劇集 "wikilink") [Category:朝日電視台週五晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週五晚間九點連續劇 "wikilink") [Category:日本推理劇](https://zh.wikipedia.org/wiki/Category:日本推理劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:新聞行業題材電視節目](https://zh.wikipedia.org/wiki/Category:新聞行業題材電視節目 "wikilink")
 
-1.  為[日本](../Page/日本.md "wikilink")[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")，由[Video
-    Research調查](../Page/Video_Research.md "wikilink")。
+1.  為[日本](../Page/日本.md "wikilink")[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")，由[Video Research調查](../Page/Video_Research.md "wikilink")。

@@ -1,5 +1,4 @@
-本條目介紹[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")》及其外傳中出現的名詞。
+本條目介紹[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》及其外傳中出現的名詞。
 
 ## 科技
 
@@ -30,8 +29,7 @@
 #### AEU
 
   -
-    AEU的軌道電梯稱為「La
-    Tour」（[法語的塔](https://zh.wikipedia.org/wiki/法語 "wikilink")），建立在[非洲](../Page/非洲.md "wikilink")的[維多利亞湖](../Page/維多利亞湖.md "wikilink")西方，但是在2307年仍尚未完工。附近有AEU的軍事基地，AEU在第一季第1話舉行的新型MS示範會就在那個軍事基地進行。
+    AEU的軌道電梯稱為「La Tour」（[法語的塔](https://zh.wikipedia.org/wiki/法語 "wikilink")），建立在[非洲](../Page/非洲.md "wikilink")的[維多利亞湖](../Page/維多利亞湖.md "wikilink")西方，但是在2307年仍尚未完工。附近有AEU的軍事基地，AEU在第一季第1話舉行的新型MS示範會就在那個軍事基地進行。
     本塔曾於西元**2312年**被地球聯邦正規軍中的政變派（龐格·赫丘利）占領，以希望能讓市民醒覺，了解A-Laws一直的惡行\[1\]。
     不久後即被A-Laws衛星兵器「死兆砲」擊中，低軌道環下層塔身表層於擊中後自動解體，但並沒有影響低軌道環以上部份及主軸，加上天上人、正規軍、A-Laws及純源合同擊破墜下的大量塔身表層碎片，才不致造成災難\[2\]。
 
@@ -77,40 +75,32 @@
 <!-- end list -->
 
   -
-    在設定上由於GN粒子覆蓋在GUNDAM的機身上時有防禦的效果，使第一季的初期以[實彈與](https://zh.wikipedia.org/wiki/子彈#.E5.AF.A6.E5.BF.83.E5.9E.8B.E5.BD.88.E9.A0.AD "wikilink")[電漿作為砲火的地球三大陣營幾乎無法應付](https://zh.wikipedia.org/wiki/電漿 "wikilink")，只有在三大聯盟取得GN-Drive
-    Tau型30座後才得以向GUNDAM反擊，除此之外只能靠長期消耗戰的方式來逆轉性能上的劣勢。
+    在設定上由於GN粒子覆蓋在GUNDAM的機身上時有防禦的效果，使第一季的初期以[實彈與](https://zh.wikipedia.org/wiki/子彈#.E5.AF.A6.E5.BF.83.E5.9E.8B.E5.BD.88.E9.A0.AD "wikilink")[電漿作為砲火的地球三大陣營幾乎無法應付](https://zh.wikipedia.org/wiki/電漿 "wikilink")，只有在三大聯盟取得GN-Drive Tau型30座後才得以向GUNDAM反擊，除此之外只能靠長期消耗戰的方式來逆轉性能上的劣勢。
 
 <!-- end list -->
 
   -
-    相對原裝GN-Drive能持續的增產粒子直到反應物耗盡，GN-Drive
-    Tau型的粒子的產量會逐漸的減少，必需在外部充電才能繼續產生粒子，不能夠長時間運作。
+    相對原裝GN-Drive能持續的增產粒子直到反應物耗盡，GN-Drive Tau型的粒子的產量會逐漸的減少，必需在外部充電才能繼續產生粒子，不能夠長時間運作。
 
 <!-- end list -->
 
   -
-    此外，除了代表原裝GN-Drive的**綠色**增量粒子（00V戰記14話中證明其是[大爆炸](../Page/大爆炸.md "wikilink")中原始粒子的亞種）、GN-Drive
-    Tau的**紅色**或**橙黃色**減產粒子之外，在[劇場版確認有](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")**紫色**的GN粒子與光束，為**ELS**（地球外變異性金屬體）擬態成GN-XIV時所散發出來的。
+    此外，除了代表原裝GN-Drive的**綠色**增量粒子（00V戰記14話中證明其是[大爆炸](../Page/大爆炸.md "wikilink")中原始粒子的亞種）、GN-Drive Tau的**紅色**或**橙黃色**減產粒子之外，在[劇場版確認有](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")**紫色**的GN粒子與光束，為**ELS**（地球外變異性金屬體）擬態成GN-XIV時所散發出來的。
 
 <!-- end list -->
 
   -
-    GN-Drive
-    Tau的**紅色**或**橙黃色**減產粒子本身皆具有毒性，會破壞人體的細胞分裂機制，必須經由過濾機制消除毒性。露易絲·哈利維曾因為遭到[座天使鋼彈三型攻擊](https://zh.wikipedia.org/wiki/GNW-003_座天使GUNDAM三型 "wikilink")，失去左手掌，而傷口與身體也因為GN-Drive
-    Tau的減產粒子的影響宣告無法復原，而事後也裝上義肢和定期服藥穩定體內粒子才行。聯邦軍在量產GN-Drive
-    Tau的同時也持續的改良其相關技術，最後總算解決粒子毒性的問題。雖然粒子的顏色沒有改變，但至少變得不再有害。
+    GN-Drive Tau的**紅色**或**橙黃色**減產粒子本身皆具有毒性，會破壞人體的細胞分裂機制，必須經由過濾機制消除毒性。露易絲·哈利維曾因為遭到[座天使鋼彈三型攻擊](https://zh.wikipedia.org/wiki/GNW-003_座天使GUNDAM三型 "wikilink")，失去左手掌，而傷口與身體也因為GN-Drive Tau的減產粒子的影響宣告無法復原，而事後也裝上義肢和定期服藥穩定體內粒子才行。聯邦軍在量產GN-Drive Tau的同時也持續的改良其相關技術，最後總算解決粒子毒性的問題。雖然粒子的顏色沒有改變，但至少變得不再有害。
 
 <!-- end list -->
 
   -
-    同時，經過濾處理的原裝GN-Drive的**綠色**增量粒子則被認為擁有促進普通人體進行進化和回復的能力，天上人和利保遜·阿路瑪古均認為剎那·F·塞耶進化為純種變革者的誘因是長時間接觸[00鋼彈的雙爐設計所釋放出的高濃度GN粒子所致](../Page/GN-0000_00_GUNDAM.md "wikilink")。拉撒·埃昂就是其中一個回復的例子，於第一季大戰中負傷，導致身體受損，於第二季大戰時被00
-    Raiser Trans-AM Burst噴出的GN粒子所救。
+    同時，經過濾處理的原裝GN-Drive的**綠色**增量粒子則被認為擁有促進普通人體進行進化和回復的能力，天上人和利保遜·阿路瑪古均認為剎那·F·塞耶進化為純種變革者的誘因是長時間接觸[00鋼彈的雙爐設計所釋放出的高濃度GN粒子所致](../Page/GN-0000_00_GUNDAM.md "wikilink")。拉撒·埃昂就是其中一個回復的例子，於第一季大戰中負傷，導致身體受損，於第二季大戰時被00 Raiser Trans-AM Burst噴出的GN粒子所救。
 
 #### 原裝GN-Drive
 
   -
-    又稱為「太陽爐」，全稱為「Gundam（GUNDAM） Nucleus（核心）
-    Drive（動力裝置）」\[3\]，GUNDAM所使用的動力源，是一種能夠長期提供能量來源的機關。
+    又稱為「太陽爐」，全稱為「Gundam（GUNDAM） Nucleus（核心） Drive（動力裝置）」\[3\]，GUNDAM所使用的動力源，是一種能夠長期提供能量來源的機關。
 
 <!-- end list -->
 
@@ -125,9 +115,7 @@
 <!-- end list -->
 
   -
-    在西元2307年，天人持有五顆，其中四顆投入使用，分别用于[能天使GUNDAM](../Page/GN-001_能天使GUNDAM.md "wikilink")、[力天使GUNDAM](../Page/GN-002_力天使GUNDAM.md "wikilink")、[主天使GUNDAM](../Page/GN-003_主天使GUNDAM.md "wikilink")、[德天使GUNDAM](../Page/GN-005_德天使GUNDAM.md "wikilink")，还有一顆（[0GUNDAM所搭載的](../Page/GN-000_0_GUNDAM.md "wikilink")）交付給分支部隊天使。**2312年**時，天人将持有的五顆太陽爐全部投入使用，兩顆分配用于[00
-    GUNDAM](../Page/GN-0000_00_GUNDAM.md "wikilink")，其他三顆分配給[智天使GUNDAM](../Page/GN-006_智天使GUNDAM.md "wikilink")、[墮天使GUNDAM和](../Page/GN-007_墮天使GUNDAM.md "wikilink")[熾天使GUNDAM](../Page/GN-008_熾天使GUNDAM.md "wikilink")。[熾天使後來分離為](../Page/GN-008_熾天使GUNDAM.md "wikilink")[天使長GUNDAM](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM "wikilink")，被[再生GUNDAM擊破](https://zh.wikipedia.org/wiki/CB-0000G/C_再生GUNDAM "wikilink")，太陽爐擊毀。[00
-    GUNDAM的兩個太陽爐於終戰時被緊急安裝於](../Page/GN-0000_00_GUNDAM.md "wikilink")[0GUNDAM和](../Page/GN-000_0_GUNDAM.md "wikilink")[能天使GUNDAMR2中](../Page/GN-001_能天使GUNDAM.md "wikilink")，兩機後來大破，失去太陽爐。
+    在西元2307年，天人持有五顆，其中四顆投入使用，分别用于[能天使GUNDAM](../Page/GN-001_能天使GUNDAM.md "wikilink")、[力天使GUNDAM](../Page/GN-002_力天使GUNDAM.md "wikilink")、[主天使GUNDAM](../Page/GN-003_主天使GUNDAM.md "wikilink")、[德天使GUNDAM](../Page/GN-005_德天使GUNDAM.md "wikilink")，还有一顆（[0GUNDAM所搭載的](../Page/GN-000_0_GUNDAM.md "wikilink")）交付給分支部隊天使。**2312年**時，天人将持有的五顆太陽爐全部投入使用，兩顆分配用于[00 GUNDAM](../Page/GN-0000_00_GUNDAM.md "wikilink")，其他三顆分配給[智天使GUNDAM](../Page/GN-006_智天使GUNDAM.md "wikilink")、[墮天使GUNDAM和](../Page/GN-007_墮天使GUNDAM.md "wikilink")[熾天使GUNDAM](../Page/GN-008_熾天使GUNDAM.md "wikilink")。[熾天使後來分離為](../Page/GN-008_熾天使GUNDAM.md "wikilink")[天使長GUNDAM](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM "wikilink")，被[再生GUNDAM擊破](https://zh.wikipedia.org/wiki/CB-0000G/C_再生GUNDAM "wikilink")，太陽爐擊毀。[00 GUNDAM的兩個太陽爐於終戰時被緊急安裝於](../Page/GN-0000_00_GUNDAM.md "wikilink")[0GUNDAM和](../Page/GN-000_0_GUNDAM.md "wikilink")[能天使GUNDAMR2中](../Page/GN-001_能天使GUNDAM.md "wikilink")，兩機後來大破，失去太陽爐。
 
 <!-- end list -->
 
@@ -148,15 +136,9 @@
 <!-- end list -->
 
   -
-    但它們與GUNDAM所使用的GN-Drive仍有重要的分別：GUNDAM的GN-Drive是持續型；GN-Drive
-    Tau型由于架构上缺乏GN粒子的净化循环系统（TD
-    Blanket），是減量型，須要另外充電，此外減量粒子還具有毒性。與需要在[木星](../Page/木星.md "wikilink")製造的原裝GN-Drive不同，GN-Drive
-    Tau型可以在[地球](../Page/地球.md "wikilink")量產，原因在於Tau型的運作不需要作為關鍵能源的重粒子與TD
-    Blanket，僅需從外部補充電力即可。但如何將電力轉化成GN粒子的原理這點尚未明朗。
-    由拉古納·哈維秘密提供給三大敵對勢力的GN-Drive
-    Tau型，在動畫一開始就秘密存放在[南極洲的倉庫中](https://zh.wikipedia.org/wiki/南極洲 "wikilink")；之後隨著拉古納秘密研製的GN-X成軍，本裝置也隨之移植至GN-X機體中。
-    地球聯邦軍與變革者在2312年起不斷使用及量產與改良GN-Drive
-    Tau，同時也慢慢解決了減量粒子毒性的問題，甚至還能啟動Trans-AM系統。
+    但它們與GUNDAM所使用的GN-Drive仍有重要的分別：GUNDAM的GN-Drive是持續型；GN-Drive Tau型由于架构上缺乏GN粒子的净化循环系统（TD Blanket），是減量型，須要另外充電，此外減量粒子還具有毒性。與需要在[木星](../Page/木星.md "wikilink")製造的原裝GN-Drive不同，GN-Drive Tau型可以在[地球](../Page/地球.md "wikilink")量產，原因在於Tau型的運作不需要作為關鍵能源的重粒子與TD Blanket，僅需從外部補充電力即可。但如何將電力轉化成GN粒子的原理這點尚未明朗。
+    由拉古納·哈維秘密提供給三大敵對勢力的GN-Drive Tau型，在動畫一開始就秘密存放在[南極洲的倉庫中](https://zh.wikipedia.org/wiki/南極洲 "wikilink")；之後隨著拉古納秘密研製的GN-X成軍，本裝置也隨之移植至GN-X機體中。
+    地球聯邦軍與變革者在2312年起不斷使用及量產與改良GN-Drive Tau，同時也慢慢解決了減量粒子毒性的問題，甚至還能啟動Trans-AM系統。
     目前已確認如權天使鋼彈、勇士式指揮官試驗型、熾天使鋼彈II等MS安裝了不只一座擬似太陽爐（權天使與熾天使II安裝了三座、勇士式安裝兩座。），但因為不具有雙重動力系統，所以粒子的釋出量僅隨著安裝數量呈倍數增長，而不像雙重動力裝置是以次方幅度提升釋出量。
 
 #### GN電容器
@@ -164,19 +146,15 @@
   -
     儲存GN粒子的容器，在GUNDAM上裝置的GN電容器能令GUNDAM在低功耗的休眠模式下儲存GN粒子以備戰鬥模式時的高功耗狀態下使用，亦可儲存減量型GN粒子。
     由於天人既沒有量產太陽爐的技術，亦受制原裝GN-Drive的數量，所以他們積極的開發粒子儲存技術。
-    第二季中，GNR-101A GN弓兵戰機、GNR-010 0強化戰機、CBS-74
-    托勒密號Ⅱ、0高達實戰配備型都是利用GN容器中GN粒子當作能源使用；而GNZ系列中的GN電容器亦可釋放GN粒子增加出力。
-    與變革者之最終一戰中，托勒密號Ⅱ成功地利用自身的GN電容器開動Trans-AM衝入天人號，而拉撒駕駛0高達實戰配備型時的言語（「這裏這麼狹窄是無法使用Trans-AM的」）則表示其機體亦可發動Trans-AM。
-    (但有有說法認為拉撒的意思應該是指出敵方的自爆機體沒法使用Trans-AM進行特攻, 而不是0高達能發動Trans-AM。)
-    劇場版中，天人的粒子儲存技術已經可以將GN粒子壓縮至接近太陽爐，令容器能夠長時間提供GN粒子供給機體，00
-    Raiser電容器型便是實例。
+    第二季中，GNR-101A GN弓兵戰機、GNR-010 0強化戰機、CBS-74 托勒密號Ⅱ、0高達實戰配備型都是利用GN容器中GN粒子當作能源使用；而GNZ系列中的GN電容器亦可釋放GN粒子增加出力。
+    與變革者之最終一戰中，托勒密號Ⅱ成功地利用自身的GN電容器開動Trans-AM衝入天人號，而拉撒駕駛0高達實戰配備型時的言語（「這裏這麼狹窄是無法使用Trans-AM的」）則表示其機體亦可發動Trans-AM。 (但有有說法認為拉撒的意思應該是指出敵方的自爆機體沒法使用Trans-AM進行特攻, 而不是0高達能發動Trans-AM。)
+    劇場版中，天人的粒子儲存技術已經可以將GN粒子壓縮至接近太陽爐，令容器能夠長時間提供GN粒子供給機體，00 Raiser電容器型便是實例。
 
 #### TD Blanket
 
   -
     也就是「Core unit」，5臺原裝GN-Drive的粒子回收再反應系統。
-    使得剛開始研發的初始型太陽爐（GN-Drive
-    Tau）所產生的紅色有害GN粒子變為藍綠色無害GN粒子，並使粒子在反應後期重新變成重粒子以供再工作（幾近半永動機）。
+    使得剛開始研發的初始型太陽爐（GN-Drive Tau）所產生的紅色有害GN粒子變為藍綠色無害GN粒子，並使粒子在反應後期重新變成重粒子以供再工作（幾近半永動機）。
     原理假想是以[巴巴散射](../Page/巴巴散射.md "wikilink")穩定即將與[電子湮滅的](https://zh.wikipedia.org/wiki/電子 "wikilink")[陽電子令](https://zh.wikipedia.org/wiki/陽電子 "wikilink")[陽電子可以穩定地再與](https://zh.wikipedia.org/wiki/陽電子 "wikilink")[光子](../Page/光子.md "wikilink")反應，變回[重粒子](https://zh.wikipedia.org/wiki/重粒子 "wikilink")，使其再次使用。
 
 #### 外壁迷彩膜（光學迷彩）
@@ -195,8 +173,7 @@
 <!-- end list -->
 
   -
-    Trans-AM系統原理為把機體中儲藏起來的高濃度壓縮粒子全面釋放，於有限時間（需要看粒子儲藏量，正常為180秒）內能使GN-Drive輸出功率大幅提升至原來的三倍（00
-    Raiser更達到七倍以上），使GUNDAM能充分地發揮最大的能力。使用時GUNDAM會因作為傳輸粒子的GN電纜全往GN-Drive傳輸的全面釋放狀態下會變成紅色，裝甲因此也會受此影響，便高速移動時會留下殘像。
+    Trans-AM系統原理為把機體中儲藏起來的高濃度壓縮粒子全面釋放，於有限時間（需要看粒子儲藏量，正常為180秒）內能使GN-Drive輸出功率大幅提升至原來的三倍（00 Raiser更達到七倍以上），使GUNDAM能充分地發揮最大的能力。使用時GUNDAM會因作為傳輸粒子的GN電纜全往GN-Drive傳輸的全面釋放狀態下會變成紅色，裝甲因此也會受此影響，便高速移動時會留下殘像。
 
 <!-- end list -->
 
@@ -216,9 +193,7 @@
 <!-- end list -->
 
   -
-    第二季14話尾段，比利·片桐在利斐·愛夫曼教授故居得到一些GN-Drive資料，並以里凡慕·里華弗所說的Trans-AM原理成功地製造出適用於擬似太陽爐的
-    **擬似Trans-AM系統**，首先將其運用於[豪傑式](https://zh.wikipedia.org/wiki/GNX-U02X_豪傑式 "wikilink")，之後在片桐的協助下，變革者的[加迪薩](https://zh.wikipedia.org/wiki/GNZ-003_加迪薩 "wikilink")、[加萊佐與](https://zh.wikipedia.org/wiki/GNZ-005_加萊佐 "wikilink")[加格等機體也有此能力](https://zh.wikipedia.org/wiki/GNZ-004_加格 "wikilink")。往後的GN-X
-    IV也搭載了擬似Trans-AM系統，成為了第一架也是唯一一架具有Trans-AM系統的擬似太陽爐搭載量產型MS與GN-X系列機體
+    第二季14話尾段，比利·片桐在利斐·愛夫曼教授故居得到一些GN-Drive資料，並以里凡慕·里華弗所說的Trans-AM原理成功地製造出適用於擬似太陽爐的 **擬似Trans-AM系統**，首先將其運用於[豪傑式](https://zh.wikipedia.org/wiki/GNX-U02X_豪傑式 "wikilink")，之後在片桐的協助下，變革者的[加迪薩](https://zh.wikipedia.org/wiki/GNZ-003_加迪薩 "wikilink")、[加萊佐與](https://zh.wikipedia.org/wiki/GNZ-005_加萊佐 "wikilink")[加格等機體也有此能力](https://zh.wikipedia.org/wiki/GNZ-004_加格 "wikilink")。往後的GN-X IV也搭載了擬似Trans-AM系統，成為了第一架也是唯一一架具有Trans-AM系統的擬似太陽爐搭載量產型MS與GN-X系列機體
 
 <!-- end list -->
 
@@ -228,8 +203,7 @@
 <!-- end list -->
 
   -
-    00 Raiser的Trans-AM能進一步提升至Trans-AM Burst模式，成為純種的腦量子波與Twin
-    Drive之間的聯動，GN粒子不以濃度以純度大量增加，被純度GN粒子覆蓋內的人與人之間腦內會產生聲音共鳴也能擴張意識，變革者的腦量子波也因此而被擾亂。
+    00 Raiser的Trans-AM能進一步提升至Trans-AM Burst模式，成為純種的腦量子波與Twin Drive之間的聯動，GN粒子不以濃度以純度大量增加，被純度GN粒子覆蓋內的人與人之間腦內會產生聲音共鳴也能擴張意識，變革者的腦量子波也因此而被擾亂。
 
 <!-- end list -->
 
@@ -239,16 +213,13 @@
 <!-- end list -->
 
   -
-    另一方，剎那·F·塞耶駕駛00
-    Qan\[T\]透過展開GN電容器直接釋放超高濃度壓縮粒子，配合雙重動力系統、開啟量子系統使兩個GN-Drive連接，能放出比Trans-AM
-    Burst模式更加強大的「Quantum Burst模式」
+    另一方，剎那·F·塞耶駕駛00 Qan\[T\]透過展開GN電容器直接釋放超高濃度壓縮粒子，配合雙重動力系統、開啟量子系統使兩個GN-Drive連接，能放出比Trans-AM Burst模式更加強大的「Quantum Burst模式」
     啟動量子系統後 ，Trans-AM呈然在裝甲上的顏色不是紅色而是綠色。
 
 #### 雙重動力系統
 
   -
-    雙重動力系統（Twin-Drive
-    System），是伊歐利亞·修罕貝克發明的革命性GN科技，與Trans-AM同時間傳承至天上人。此系統以兩顆GN-Drive為基礎，
+    雙重動力系統（Twin-Drive System），是伊歐利亞·修罕貝克發明的革命性GN科技，與Trans-AM同時間傳承至天上人。此系統以兩顆GN-Drive為基礎，
     同樣應用**拓樸缺陷**通過雙重動力系統將兩個動力組同步運作，所產生的**GN粒子量並會指數化**。
 
 <!-- end list -->
@@ -259,9 +230,7 @@
 <!-- end list -->
 
   -
-    第一部搭載本系統的MS是[00
-    GUNDAM](../Page/GN-0000_00_GUNDAM.md "wikilink")，利用了0
-    GUNDAM和能天使GUNDAM的GN-Drive（經由模擬測試後，發現這兩顆搭配的同步率最高），
+    第一部搭載本系統的MS是[00 GUNDAM](../Page/GN-0000_00_GUNDAM.md "wikilink")，利用了0 GUNDAM和能天使GUNDAM的GN-Drive（經由模擬測試後，發現這兩顆搭配的同步率最高），
     但測試後同步率仍未能超過[80](https://zh.wikipedia.org/wiki/80 "wikilink")℅，最後藉由Trans-AM的啟動，據以仁所說是粒子量**指數化出現時間延遲**的情況。
 
 <!-- end list -->
@@ -274,14 +243,12 @@
   -
     由以仁·華斯迪為中心的天人機械小組，為了讓雙重動力系統完全發揮而開發的支援機 **0－Raiser**，
     透過合體就能夠控制Twin-Drive的機能，並擁有應付Twin-Drive粒子量而增設的**Trans-AM增幅機能**。
-    0－Raiser原生為戰鬥機，當初與00
-    GUNDAM的對接設計是從外部補充GN粒子用的，現為發揮Twin-Drive而開發的支援機機身大部份都是電容設計。
+    0－Raiser原生為戰鬥機，當初與00 GUNDAM的對接設計是從外部補充GN粒子用的，現為發揮Twin-Drive而開發的支援機機身大部份都是電容設計。
 
 <!-- end list -->
 
   -
-    艾紐·雷特納爾叛逃天人時將部分雙重動力系統技術的情報交給變革者，變革者之後開發出的[CB-0000G/C
-    再生GUNDAM成為第二台搭載本系統的機體](https://zh.wikipedia.org/wiki/CB-0000G/C_再生GUNDAM "wikilink")。
+    艾紐·雷特納爾叛逃天人時將部分雙重動力系統技術的情報交給變革者，變革者之後開發出的[CB-0000G/C 再生GUNDAM成為第二台搭載本系統的機體](https://zh.wikipedia.org/wiki/CB-0000G/C_再生GUNDAM "wikilink")。
 
 <!-- end list -->
 
@@ -299,52 +266,38 @@
 <!-- end list -->
 
   -
-    伊奧里亞·舒格堡將**GN-Drive**的所有能力托付給予天人的同時更提供了全新GN動力裝置理論，**雙重動力系統**（Twin-Drive
-    System）。
+    伊奧里亞·舒格堡將**GN-Drive**的所有能力托付給予天人的同時更提供了全新GN動力裝置理論，**雙重動力系統**（Twin-Drive System）。
     在這個新動力裝置理論中，**拓樸缺陷**不再是單一的主要理論，成為啟動雙重動力系統的過程，通過雙重動力系統將兩個動力組同步運作，所產生的**GN粒子量並會指數化**。
 
 <!-- end list -->
 
   -
-    在00第2季首先應用此技術的機體是GN-0000
-    00鋼彈，但機體似乎不能適應**Twin-Drive**釋放量的關係，難以做到兩個動力組完全同步，
+    在00第2季首先應用此技術的機體是GN-0000 00鋼彈，但機體似乎不能適應**Twin-Drive**釋放量的關係，難以做到兩個動力組完全同步，
 
 #### GN浮游單元
 
   -
-    GN浮游單元，是有不同形態的GN浮游武裝，如：GN步槍單元(GN Rifle Bit)、GN浮游盾型位元(GN Holster
-    Bit)、GN浮游盾(GN Shield Bit)、GN浮游劍型單元(GN Sword Bit)、GN浮游剪型位元(GN
-    Scissor Bit)等等...
+    GN浮游單元，是有不同形態的GN浮游武裝，如：GN步槍單元(GN Rifle Bit)、GN浮游盾型位元(GN Holster Bit)、GN浮游盾(GN Shield Bit)、GN浮游劍型單元(GN Sword Bit)、GN浮游剪型位元(GN Scissor Bit)等等...
 
 GN步槍單元(GN Rifle Bit)
 
-在GN-006GNHW/R 智天使高達 GNHW/R所呈現的新設計武裝。
-擁有和GN狙擊步槍同等的精密射擊能力和攻擊力。還可以進行遠距離操作，一次應對多個對手。
-同樣也配置了水晶傳感器，不但使索敵能力得到了飛躍性的提升，而且也有了收集敵方情報的能力。
+在GN-006GNHW/R 智天使高達 GNHW/R所呈現的新設計武裝。 擁有和GN狙擊步槍同等的精密射擊能力和攻擊力。還可以進行遠距離操作，一次應對多個對手。 同樣也配置了水晶傳感器，不但使索敵能力得到了飛躍性的提升，而且也有了收集敵方情報的能力。
 
 GN浮游盾型位元(GN Holster Bit)、 GN浮游手槍位元（GN Pistol Bit）
 
-在GN-010 Gundam Zabanya，GN-010 狱天使是智天使高達的後繼機所呈現的新設計武裝。為繫於左右腰後之GN浮游盾型位元(GN
-Holster Bit)除了可作為盾牌使用外也可收納GN浮游手槍位元（GN Pistol
-Bit），其可以拆開成GN浮游手槍（槍管下方裝有接近戰用的刀刃），兩者均可作全方位或手持武器使用。，提供了比GN全覆護盾更全方位的防禦力。駕駛艙內可搭載兩個哈囉（黃色及藍色）作輔助。，使萊爾·狄蘭迪可以集中精力在射擊上。
+在GN-010 Gundam Zabanya，GN-010 狱天使是智天使高達的後繼機所呈現的新設計武裝。為繫於左右腰後之GN浮游盾型位元(GN Holster Bit)除了可作為盾牌使用外也可收納GN浮游手槍位元（GN Pistol Bit），其可以拆開成GN浮游手槍（槍管下方裝有接近戰用的刀刃），兩者均可作全方位或手持武器使用。，提供了比GN全覆護盾更全方位的防禦力。駕駛艙內可搭載兩個哈囉（黃色及藍色）作輔助。，使萊爾·狄蘭迪可以集中精力在射擊上。
 
 GN浮游劍型單元(GN Sword Bit)
 
-在GNT-0000，00 Qan\[T\]，量子型00高達是GN-0000
-00高達的後繼機所呈現的新設計武裝。位於機體左肩盾上的六枚GN浮游劍型單元(GN
-Sword Bit)除了可進行全方位獨立攻擊及形成GN力場外，也可與GN劍Ⅴ連結成為破壞步槍（Buster Rifle）或破壞巨劍（Buster
-Sword）。GN劍Ⅴ同樣設有「劍模式」及「步槍模式」。
+在GNT-0000，00 Qan\[T\]，量子型00高達是GN-0000 00高達的後繼機所呈現的新設計武裝。位於機體左肩盾上的六枚GN浮游劍型單元(GN Sword Bit)除了可進行全方位獨立攻擊及形成GN力場外，也可與GN劍Ⅴ連結成為破壞步槍（Buster Rifle）或破壞巨劍（Buster Sword）。GN劍Ⅴ同樣設有「劍模式」及「步槍模式」。
 
 GN浮游剪型位元(GN Scissor Bit)
 
-在GN-011 Gundam Harute ，GN-011
-妖天使是墮天使高達的後繼機所呈現的新設計武裝。外側貨櫃前端裝有兩門GN加農砲，內藏有浮游武裝GN浮游剪型位元(GN
-Scissor Bit)
+在GN-011 Gundam Harute ，GN-011 妖天使是墮天使高達的後繼機所呈現的新設計武裝。外側貨櫃前端裝有兩門GN加農砲，內藏有浮游武裝GN浮游剪型位元(GN Scissor Bit)
 
 GN浮游盾(GN Shield Bit)
 
-在GN-006Cherudim Gundam，GN-006 智天使是GN-002 力天使高達的後繼機所呈現的武裝。，掛接在全身的GN浮游盾(GN
-Shield Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位的防禦力。
+在GN-006Cherudim Gundam，GN-006 智天使是GN-002 力天使高達的後繼機所呈現的武裝。，掛接在全身的GN浮游盾(GN Shield Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位的防禦力。
 
 ## 名詞
 
@@ -355,8 +308,7 @@ Shield Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位
 ### Gundam Meister
 
   -
-    「Gundam Meister」（-{Gundam
-    Meister}-），本作中對GUNDAM[駕駛員的稱呼](https://zh.wikipedia.org/wiki/駕駛員 "wikilink")。
+    「Gundam Meister」（-{Gundam Meister}-），本作中對GUNDAM[駕駛員的稱呼](https://zh.wikipedia.org/wiki/駕駛員 "wikilink")。
     「Meister」為[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")，相當於[英文的](https://zh.wikipedia.org/wiki/英文 "wikilink")「Master」，有專家、大師的意思。
     在台灣被譯為「-{鋼彈尖兵}-」，香港則譯作「-{高達使者}-」，而在網路上常見的另一個普遍譯名為「GUNDAM-{機師}-」。
 
@@ -377,9 +329,7 @@ Shield Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位
 <!-- end list -->
 
   -
-    官方外傳 Gundam 00I
-    中曾表示，吠陀是台[人工智能](../Page/人工智能.md "wikilink")的電腦，擁有自己的思想，無時無刻都在進行著伊奧里亞·舒格堡的根除戰爭的任務。吠陀除了會指示天上人完成介入紛爭的任務之外，還會私下聯絡天上人的分支組織「天使」，並指示他們幫助天上人進行紛爭介入行動，但天上人卻並不知曉天使的存在。吠陀也會透過腦量子波，聯繫各地的生體末端「變革體」，並讓他們遵照自己的意思進行「伊奧里亞·舒格堡」的計畫，而就連掌握了吠陀的里朋斯·阿爾馬克和其他變革者組織成員也不得而知。吠陀內建有伊奧里亞·舒格堡所建立的保護系統，一旦吠陀被人入侵或者掌控，其所有重要資料將會被屏蔽，但仍然持續進行情報蒐集工作，因此就連里朋斯·阿爾馬克將吠陀完全掌控時，也無法透過吠陀得知「天使」和「天上人」的所在，甚至誤以為他們的資料都被吠陀刪除了。鋼彈尖兵874仍然能夠連接吠陀而不被發現，證明鋼彈尖兵們的資料只是被屏蔽而非刪除，也證明吠陀不可能被任何人完全掌控。吠陀中的資料包含了許多機密事項，其中最主要的包括太陽爐（GN
-    Drive）和GUNDAM的構造圖、「托勒密」和鋼彈尖兵們的資料。
+    官方外傳 Gundam 00I 中曾表示，吠陀是台[人工智能](../Page/人工智能.md "wikilink")的電腦，擁有自己的思想，無時無刻都在進行著伊奧里亞·舒格堡的根除戰爭的任務。吠陀除了會指示天上人完成介入紛爭的任務之外，還會私下聯絡天上人的分支組織「天使」，並指示他們幫助天上人進行紛爭介入行動，但天上人卻並不知曉天使的存在。吠陀也會透過腦量子波，聯繫各地的生體末端「變革體」，並讓他們遵照自己的意思進行「伊奧里亞·舒格堡」的計畫，而就連掌握了吠陀的里朋斯·阿爾馬克和其他變革者組織成員也不得而知。吠陀內建有伊奧里亞·舒格堡所建立的保護系統，一旦吠陀被人入侵或者掌控，其所有重要資料將會被屏蔽，但仍然持續進行情報蒐集工作，因此就連里朋斯·阿爾馬克將吠陀完全掌控時，也無法透過吠陀得知「天使」和「天上人」的所在，甚至誤以為他們的資料都被吠陀刪除了。鋼彈尖兵874仍然能夠連接吠陀而不被發現，證明鋼彈尖兵們的資料只是被屏蔽而非刪除，也證明吠陀不可能被任何人完全掌控。吠陀中的資料包含了許多機密事項，其中最主要的包括太陽爐（GN Drive）和GUNDAM的構造圖、「托勒密」和鋼彈尖兵們的資料。
 
 <!-- end list -->
 
@@ -415,8 +365,7 @@ Shield Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位
 <!-- end list -->
 
   -
-    官方外傳中曾提及「皇·李·諾瑞加」擁有等級四的閱讀權限，而其他鋼彈尖兵除了提耶利亞·厄德之外，都只有等級三的閱讀權限。提耶利亞·厄德在第一季動畫中曾經透過腦量子波連接Veda，並且能夠掃描到等級七的資料（雖然因為里朋斯·阿爾馬克的阻撓而被拒絕閱讀，但是可以判斷提耶利亞·厄德確實可以閱讀等級七的部分機密），而提耶利亞·厄德的座機
-    GN-004 中性鋼彈的審判系統也必須要靠提耶利亞·厄德連接到吠陀第七級的資訊才能夠啟動。
+    官方外傳中曾提及「皇·李·諾瑞加」擁有等級四的閱讀權限，而其他鋼彈尖兵除了提耶利亞·厄德之外，都只有等級三的閱讀權限。提耶利亞·厄德在第一季動畫中曾經透過腦量子波連接Veda，並且能夠掃描到等級七的資料（雖然因為里朋斯·阿爾馬克的阻撓而被拒絕閱讀，但是可以判斷提耶利亞·厄德確實可以閱讀等級七的部分機密），而提耶利亞·厄德的座機 GN-004 中性鋼彈的審判系統也必須要靠提耶利亞·厄德連接到吠陀第七級的資訊才能夠啟動。
 
 <!-- end list -->
 
@@ -443,19 +392,11 @@ Shield Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位
 
 ### 變革者
 
-**變革體（Innovade）**
-吠陀所創造的人工生命體，吠陀的生體末端，利用人類的[DNA所創造的人造人](../Page/脱氧核糖核酸.md "wikilink")。在各項能力上都是超越人類的存在，並植入了奈米機械人防止老化。變革體當中有特別強化成戰鬥型、情報型、特殊能力型等等的人。吠陀會指示變革體為它在世界各地蒐集情報並加以管理和計算，也會指示他們駕駛鋼彈，或者協助科技研發等事項。而每個變革體都能夠透過腦量子波直接連接吠陀，並且上傳或下載資料，而吠陀也擁有能夠存取或消除變革體記憶的能力。不過，變革體也能夠反過來入侵吠陀，並掌控吠陀的所有權，如「里朋斯·阿爾馬克」、「提耶利亞·厄德」等人。在理論上，只要變革體的人格意识與吠陀共存一起，即使肉體死亡，也可以利用基因序号製造多個複製體，再把人格下載至新生身体上，故此變革體是某种意义上的永生不烕的。
+**變革體（Innovade）** 吠陀所創造的人工生命體，吠陀的生體末端，利用人類的[DNA所創造的人造人](../Page/脱氧核糖核酸.md "wikilink")。在各項能力上都是超越人類的存在，並植入了奈米機械人防止老化。變革體當中有特別強化成戰鬥型、情報型、特殊能力型等等的人。吠陀會指示變革體為它在世界各地蒐集情報並加以管理和計算，也會指示他們駕駛鋼彈，或者協助科技研發等事項。而每個變革體都能夠透過腦量子波直接連接吠陀，並且上傳或下載資料，而吠陀也擁有能夠存取或消除變革體記憶的能力。不過，變革體也能夠反過來入侵吠陀，並掌控吠陀的所有權，如「里朋斯·阿爾馬克」、「提耶利亞·厄德」等人。在理論上，只要變革體的人格意识與吠陀共存一起，即使肉體死亡，也可以利用基因序号製造多個複製體，再把人格下載至新生身体上，故此變革體是某种意义上的永生不烕的。
 
-**變革者（Innovator）**
-由掌握了吠陀的「天上人」背叛者「里朋斯·阿爾馬克」所創建的組織，成員基本上清一色都是由「變革體」所組成的。而他們卻自稱是「進化了的變革體」。每位變革者都擁有相當高的戰鬥能力，而且如果基因序號相同的話，還可以直接通過腦量子波通信，無需經過吠陀。變革者在動畫第二季結尾通通覆滅，或遭吠陀永遠封锁，只剩下提耶利亞·厄德的意識跟吠陀共存。
-另外，除了艾纽·利特納的[性別設定為](https://zh.wikipedia.org/wiki/性別 "wikilink")[女性](../Page/女性.md "wikilink")之外，其他變革者皆無性別。
+**變革者（Innovator）** 由掌握了吠陀的「天上人」背叛者「里朋斯·阿爾馬克」所創建的組織，成員基本上清一色都是由「變革體」所組成的。而他們卻自稱是「進化了的變革體」。每位變革者都擁有相當高的戰鬥能力，而且如果基因序號相同的話，還可以直接通過腦量子波通信，無需經過吠陀。變革者在動畫第二季結尾通通覆滅，或遭吠陀永遠封锁，只剩下提耶利亞·厄德的意識跟吠陀共存。 另外，除了艾纽·利特納的[性別設定為](https://zh.wikipedia.org/wiki/性別 "wikilink")[女性](../Page/女性.md "wikilink")之外，其他變革者皆無性別。
 
-**純種變革者（Innovator）**
-由「伊歐利亞·修罕貝克」所主張的新人類(大意相當[宇宙世紀](../Page/宇宙世紀.md "wikilink")或[GUNDAM
-X的](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")[新人類或](https://zh.wikipedia.org/wiki/新類型人 "wikilink")[GUNDAM
-AGE的X](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")-Rounder)。擁有強大的腦量子波，和由細胞變化所帶來的各項體能強化，其中包括判斷能力、環境適應能力，理論上壽命比普通人多一倍，而且不會老化。純種變革體在GN粒子散布範圍內可以有效的透過腦量子波來共享意識。
-[剎那·F·塞耶](../Page/剎那·F·塞耶.md "wikilink")是第一位被認可的純種變革體。經過ELS事件後，許多擁有變革體因子的人类皆覺醒，進化為純種變革體。
-到了西元2364年，地球百分之四十的人口都已經進化為純種變革者。
+**純種變革者（Innovator）** 由「伊歐利亞·修罕貝克」所主張的新人類(大意相當[宇宙世紀](../Page/宇宙世紀.md "wikilink")或[GUNDAM X的](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")[新人類或](https://zh.wikipedia.org/wiki/新類型人 "wikilink")[GUNDAM AGE的X](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")-Rounder)。擁有強大的腦量子波，和由細胞變化所帶來的各項體能強化，其中包括判斷能力、環境適應能力，理論上壽命比普通人多一倍，而且不會老化。純種變革體在GN粒子散布範圍內可以有效的透過腦量子波來共享意識。 [剎那·F·塞耶](../Page/剎那·F·塞耶.md "wikilink")是第一位被認可的純種變革體。經過ELS事件後，許多擁有變革體因子的人类皆覺醒，進化為純種變革體。 到了西元2364年，地球百分之四十的人口都已經進化為純種變革者。
 
 ### [腦量子波](../Page/腦波.md "wikilink")
 
@@ -467,11 +408,9 @@ AGE的X](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")-Rounder)。擁有�
 ### 腦量子波同諧系統
 
   -
-    腦量子波同諧系統（Quantum Brainwaves Synchronizing
-    System是在劇場版中[加迪拉薩所使用的系統](https://zh.wikipedia.org/wiki/加迪拉薩 "wikilink")。
+    腦量子波同諧系統（Quantum Brainwaves Synchronizing System是在劇場版中[加迪拉薩所使用的系統](https://zh.wikipedia.org/wiki/加迪拉薩 "wikilink")。
     此系統只能對同樣裝設此系統以及使用同一[腦量子波](https://zh.wikipedia.org/wiki/腦量子波 "wikilink")[頻率的的機械有反應](https://zh.wikipedia.org/wiki/頻率 "wikilink")。此系統最特別的地方是可以隨時改變駕駛者，只要在使用前在主系統的OS上設定所使用的腦量子波頻率即可。
-    此系統就如[機動戰士GUNDAM UC的](../Page/機動戰士GUNDAM_UC.md "wikilink")[RX-0
-    獨角獸鋼彈所使用的](../Page/RX-0_獨角獸GUNDAM.md "wikilink")[精神感應骨架](https://zh.wikipedia.org/wiki/精神感應骨架 "wikilink")。
+    此系統就如[機動戰士GUNDAM UC的](../Page/機動戰士GUNDAM_UC.md "wikilink")[RX-0 獨角獸鋼彈所使用的](../Page/RX-0_獨角獸GUNDAM.md "wikilink")[精神感應骨架](https://zh.wikipedia.org/wiki/精神感應骨架 "wikilink")。
 
 ### 再生治療
 
@@ -479,14 +418,12 @@ AGE的X](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")-Rounder)。擁有�
     在未來，利用細胞再生令斷肢再生的技術，但由於未經淨化的GN粒子會破壞細胞復合進行，因此受GN粒子附著的傷口，無法以再生治療令斷肢復原。
     露易絲·夏利雲及亞里·阿尔·撒谢斯都是曾被再生治療的MS駕駛員。
     露易絲·夏利雲曾因為遭到高達斯洛尼攻擊，失去了左手掌，而傷口與身體也因為GN粒子的影響宣告無法復原，事後也裝上了義肢和定期服藥穩定體內GN粒子才行。
-    亞里·艾露·撒祖斯也曾因為遭到GNR-001D GN裝甲
-    D型的GN加農砲攻擊，[下身嚴重燒傷](https://zh.wikipedia.org/wiki/下身 "wikilink")，在變革者透過再生手術後救活了。
+    亞里·艾露·撒祖斯也曾因為遭到GNR-001D GN裝甲 D型的GN加農砲攻擊，[下身嚴重燒傷](https://zh.wikipedia.org/wiki/下身 "wikilink")，在變革者透過再生手術後救活了。
 
 ## 異星體（ELS）
 
   -
-    地球外變異性金屬體，通稱異星體（ELS，Extraterrestrial Living-metal
-    Shapeshifter）為GUNDAM系列作品中首次出現的敌对外星生命體，在母星爆炸後，為了尋找新星球居住而到處漂流。
+    地球外變異性金屬體，通稱異星體（ELS，Extraterrestrial Living-metal Shapeshifter）為GUNDAM系列作品中首次出現的敌对外星生命體，在母星爆炸後，為了尋找新星球居住而到處漂流。
     沒有真實型態，但具有與事物融合的特性，能夠以[侵蝕的方式擬態成人類](https://zh.wikipedia.org/wiki/侵蝕 "wikilink")（特別是能使用[腦量子波的變革者或超兵](../Page/腦波.md "wikilink")）、MS、武器（從ELS侵蝕妖天使GUNDAM的GN飛彈可知）、[交通工具甚至是](https://zh.wikipedia.org/wiki/交通工具 "wikilink")[戰艦](../Page/戰艦.md "wikilink")，也能使用[腦量子波](../Page/腦波.md "wikilink")，是有意識的生物。與地球的人類、物質融合的目的是為了和地球人溝通，讓人們了解他们的難處，並達成共識。
     由ELS所擬態而成的MS在外觀及機能上並非是完全的模仿，頭部攝影機皆為單眼式，並且於太陽爐外殼及細部等處留有ELS其原有型態的特徵。武器在使用時並非是以手掌進行握持，而是直接由於手臂變形而成，而擬態後的MS或戰艦所散發出的GN粒子以及武器的雷射顏色為紫色。
 
@@ -498,11 +435,9 @@ AGE的X](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")-Rounder)。擁有�
 
 [ja:機動戦士ガンダム00\#用語](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00#用語 "wikilink")
 
-[Category:GUNDAM_00](https://zh.wikipedia.org/wiki/Category:GUNDAM_00 "wikilink")
-[Category:动漫用语表](https://zh.wikipedia.org/wiki/Category:动漫用语表 "wikilink")
+[Category:GUNDAM_00](https://zh.wikipedia.org/wiki/Category:GUNDAM_00 "wikilink") [Category:动漫用语表](https://zh.wikipedia.org/wiki/Category:动漫用语表 "wikilink")
 
 1.  動畫第二季第15、16話
 2.  動畫第二季第17話
-3.  [鋼彈00P
-    第六章截圖](http://i298.photobucket.com/albums/mm243/hakkeshou00/1.jpg)
+3.  [鋼彈00P 第六章截圖](http://i298.photobucket.com/albums/mm243/hakkeshou00/1.jpg)
 4.  於外傳00F中，Astrea Type-F曾成功啟動過Trans-AM系統。

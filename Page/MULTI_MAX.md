@@ -1,6 +1,4 @@
-Multi
-Max是[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")的成員[恰克](../Page/恰克.md "wikilink")在1989年與村上啟介、淺井ひろみ所組成的日本流行樂團。代表歌曲有「SOME
-DAY」、「WINDY ROAD」、「Mr. Liverpool」。
+Multi Max是[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")的成員[恰克](../Page/恰克.md "wikilink")在1989年與村上啟介、淺井ひろみ所組成的日本流行樂團。代表歌曲有「SOME DAY」、「WINDY ROAD」、「Mr. Liverpool」。
 
 ## 樂團成員
 
@@ -10,9 +8,7 @@ Multi Max的團長；詳情請參閱[恰克](../Page/恰克.md "wikilink")。
 
 **村上啟介**：
 
-擅長多種樂器、負責Multi Max全部專輯編曲的樂手，Multi
-Max裡的歌曲多數由他與恰克倆人完成。他本身也參與[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")於90年代多首歌曲的製作，並且在1996年陪同恰克與飛鳥參加英國的[MTV
-UNPLUGGED演唱會](https://zh.wikipedia.org/wiki/MTV_UNPLUGGED "wikilink")。
+擅長多種樂器、負責Multi Max全部專輯編曲的樂手，Multi Max裡的歌曲多數由他與恰克倆人完成。他本身也參與[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")於90年代多首歌曲的製作，並且在1996年陪同恰克與飛鳥參加英國的[MTV UNPLUGGED演唱會](https://zh.wikipedia.org/wiki/MTV_UNPLUGGED "wikilink")。
 
 **淺井ひろみ**：
 
@@ -22,12 +18,9 @@ Multi Max裡唯一的女成員，本身也有創作歌曲的能力。
 
 ## 經歷
 
-恰克為了創作本身的音樂風格；在1989時和村上啟介、淺井ひろみ共3人另組成了樂團「Multi
-Max」。當時本來只打算「出一張單曲CD、發一張專輯、辦一場演唱會」就結束，結果樂團一直持續進行演唱活動直到1996為止，在這段期間共發行了7張單曲CD、6張專輯、1張精選集。
+恰克為了創作本身的音樂風格；在1989時和村上啟介、淺井ひろみ共3人另組成了樂團「Multi Max」。當時本來只打算「出一張單曲CD、發一張專輯、辦一場演唱會」就結束，結果樂團一直持續進行演唱活動直到1996為止，在這段期間共發行了7張單曲CD、6張專輯、1張精選集。
 
-Multi
-Max雖然在1996年便停止演唱活動，但在恰克與飛鳥的1999跨2000的歲末演唱會上，恰克邀請了村上啟介與淺井ひろみ在舞台重聚，3人又一同重唱了樂團的代表曲「SOME
-DAY」、「WINDY ROAD」。
+Multi Max雖然在1996年便停止演唱活動，但在恰克與飛鳥的1999跨2000的歲末演唱會上，恰克邀請了村上啟介與淺井ひろみ在舞台重聚，3人又一同重唱了樂團的代表曲「SOME DAY」、「WINDY ROAD」。
 
 -----
 
@@ -165,11 +158,9 @@ DAY」、「WINDY ROAD」。
 
 ## 外部連結
 
-[CHAGE
-Blog](https://web.archive.org/web/20090323062629/http://aishiteru.chage-aska.net/blog/)：CHAGE的部落格
+[CHAGE Blog](https://web.archive.org/web/20090323062629/http://aishiteru.chage-aska.net/blog/)：CHAGE的部落格
 
-[KEISKE MURAKAMI
-OFFICIAL★HOMEPAGE](https://web.archive.org/web/20090601040145/http://homepage1.nifty.com/keisuke-world/)：村上啟介的個人網頁
+[KEISKE MURAKAMI OFFICIAL★HOMEPAGE](https://web.archive.org/web/20090601040145/http://homepage1.nifty.com/keisuke-world/)：村上啟介的個人網頁
 
 [Dear Friends](http://hiromi.himegimi.jp/)：淺井ひろみ的個人網頁
 

@@ -1,49 +1,27 @@
-[Steve_Jobs_with_MacBook_Air.jpg](https://zh.wikipedia.org/wiki/File:Steve_Jobs_with_MacBook_Air.jpg "fig:Steve_Jobs_with_MacBook_Air.jpg")（Steve
-Jobs）於2008年1月在Macworld大會上首次展示MacBook Air\]\]
+**MacBook Air**是[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（Apple）開發的一款超薄型[麥金塔](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")[手提電腦](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")，於2008年1月15日時首次發佈。蘋果公司聲稱這部電腦是「世上最薄的筆記本電腦」\[1\]，最新版本最厚部位只有厚，而最薄部位更只有。但實際上根據量測部位的不同，其他廠商有更薄的手提電腦。\[2\]\[3\]英特尔公司因為受到苹果的MacBook Air的影响提出了“[超极本](https://zh.wikipedia.org/wiki/超极本 "wikilink")”的手提电脑架构。
 
-**MacBook
-Air**是[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（Apple）開發的一款超薄型[麥金塔](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")[手提電腦](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")，於2008年1月15日時首次發佈。蘋果公司聲稱這部電腦是「世上最薄的筆記本電腦」\[1\]，最新版本最厚部位只有厚，而最薄部位更只有。但實際上根據量測部位的不同，其他廠商有更薄的手提電腦。\[2\]\[3\]英特尔公司因為受到苹果的MacBook
-Air的影响提出了“[超极本](https://zh.wikipedia.org/wiki/超极本 "wikilink")”的手提电脑架构。
+2010年10月20日，苹果发布了新款13.3寸MacBook Air。新款拥有更轻的外壳，更高分辨率的显示屏，以及更大的电池容量。并使用[固态硬盘](../Page/固态硬盘.md "wikilink")取代了传统的硬盘驱动器。去除了固态硬盘的外壳并将其内部的主控和闪存芯片直接集成在主板上，内存储器芯片也一样，减少了空间占用。同时发布的还有首次被公布的11.6寸型号。變得更轻、更薄、更便宜，性能和电池容量相比13.3寸版有所降低，但仍然比一般[上网本](../Page/上网本.md "wikilink")的性能強悍不少。MacBook Air在2011年取代停产的MacBook系列[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")外壳[麥金塔手提电脑](https://zh.wikipedia.org/wiki/麥金塔笔记本电脑 "wikilink")。\[4\]\[5\]\[6\]\[7\]\[8\]
 
-2010年10月20日，苹果发布了新款13.3寸MacBook
-Air。新款拥有更轻的外壳，更高分辨率的显示屏，以及更大的电池容量。并使用[固态硬盘取代了传统的硬盘驱动器](../Page/固态硬盘.md "wikilink")。去除了固态硬盘的外壳并将其内部的主控和闪存芯片直接集成在主板上，内存储器芯片也一样，减少了空间占用。同时发布的还有首次被公布的11.6寸型号。變得更轻、更薄、更便宜，性能和电池容量相比13.3寸版有所降低，但仍然比一般[上网本的性能強悍不少](../Page/上网本.md "wikilink")。MacBook
-Air在2011年取代停产的MacBook系列[聚碳酸酯外壳](../Page/聚碳酸酯.md "wikilink")[麥金塔手提电脑](https://zh.wikipedia.org/wiki/麥金塔笔记本电脑 "wikilink")。\[4\]\[5\]\[6\]\[7\]\[8\]
-
-2011年7月20日，相隔9個月後，苹果发布了更新的第三代13.3寸及11.6寸MacBook
-Air。在2012年WWDC大会上，苹果发布了升级的第四代MacBook
-Air，配备第三代Intel Core处理器及Intel HD Graphics
-4000核芯显卡。在2013年WWDC大会上（6月10日），苹果再次发布了升级的第五代MacBook
-Air，配备第四代Intel Core处理器及Intel HD Graphics
-5000核芯显卡。在2014年4月29日，苹果发布了更新的第五代MacBook
-Air，配备更新的第四代Intel Core处理器，同時降低了售價。
+2011年7月20日，相隔9個月後，苹果发布了更新的第三代13.3寸及11.6寸MacBook Air。在2012年WWDC大会上，苹果发布了升级的第四代MacBook Air，配备第三代Intel Core处理器及Intel HD Graphics 4000核芯显卡。在2013年WWDC大会上（6月10日），苹果再次发布了升级的第五代MacBook Air，配备第四代Intel Core处理器及Intel HD Graphics 5000核芯显卡。在2014年4月29日，苹果发布了更新的第五代MacBook Air，配备更新的第四代Intel Core处理器，同時降低了售價。
 
 2016年10月，苹果推出新版MacBook Pro，同時停售11吋MacBook Air。
 
-2018年10月，苹果推出新一代13.3寸MacBook Air，搭载了第八代Intel Core i5
-8210Y处理器、[Retina顯示器](../Page/Retina显示屏.md "wikilink")、[Touch
-ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")、[Thunderbolt
-3連接埠和蝶式键盘](../Page/Thunderbolt.md "wikilink")。
+2018年10月，苹果推出新一代13.3寸MacBook Air，搭载了第八代Intel Core i5 8210Y处理器、[Retina顯示器](../Page/Retina显示屏.md "wikilink")、[Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")、[Thunderbolt 3連接埠和蝶式键盘](../Page/Thunderbolt.md "wikilink")。
+
+2019年7月19日，蘋果進行小幅度更新MacBook Air 與產品線重整，加入原彩顯示技術的Retina顯示器
 
 ## 特色
 
-作为现代工业设计的领先者，[苹果公司在MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")
-Air上做出了不少大胆创新的设计，有些甚至是前无古人的。
+作为现代工业设计的领先者，[苹果公司在MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink") Air上做出了不少大胆创新的设计，有些甚至是前无古人的。
 
-1.  它是很长一段时间内全球最薄的[笔记本电脑之一](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，厚度最薄处约0.11英寸，最厚处约0.68英寸。
-2.  除2018年版本外，使用磁力吸附的MagSafe 2电源接口。
-3.  Multitouch（[多点触控](https://zh.wikipedia.org/wiki/多点触控 "wikilink")）多重触控式触摸板。这和新[MacBook
-    Pro的触摸板一模一样](../Page/MacBook_Pro.md "wikilink")。多重式触摸板不但可以在两只手指并排时轻敲触摸板代替右击，而且还可以让MacBook
-    Air像[iPhone一样自由操控](https://zh.wikipedia.org/wiki/iPhone "wikilink")。2018版使用了Force
-    Touch 压感触摸板。
+1.  它是很长一段时间内全球最薄的[笔记本电脑之一](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，厚度最薄处约，最厚处约。
+2.  使用磁力吸附的[MagSafe 2电源接口](../Page/MagSafe.md "wikilink")，防止電腦本體因電源線被拉扯而摔落。2018年起改用[USB-C介面做為電源接口](https://zh.wikipedia.org/wiki/USB-C "wikilink")。
+3.  Multitouch（[多点触控](https://zh.wikipedia.org/wiki/多点触控 "wikilink")）多重触控式触摸板。这和新[MacBook Pro的触摸板一模一样](../Page/MacBook_Pro.md "wikilink")。多重式触摸板不但可以在两只手指并排时轻敲触摸板代替右击，而且还可以让MacBook Air像[iPhone一样自由操控](https://zh.wikipedia.org/wiki/iPhone "wikilink")。2018版使用了Force Touch 压感触摸板。
 4.  一體成形的機身設計，包含機身本體與顯示螢幕的边框皆以镁铝合金製成。2018版更是100%由回收铝合金制成。
 
 ## 規格
 
-2012版的機種有四种規格，售價從$899[美元到](../Page/美元.md "wikilink")$1499美元不等\[9\]，兩者的[處理器均採用](https://zh.wikipedia.org/wiki/處理器 "wikilink")[英特爾特別為這部超薄電腦所打造的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Intel
-Core i5及](../Page/Intel_Core_i5.md "wikilink")[Intel Core
-i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")
-[Haswell雙核心處理器](https://zh.wikipedia.org/wiki/Haswell "wikilink")。2018版则为$1199起步，采用第八代Intel
-Core i5处理器。其他机种的詳細規格如下： {{-}}
+2012版的機種有四种規格，售價從$899[美元](../Page/美元.md "wikilink")到$1499美元不等\[9\]，兩者的[處理器均採用](https://zh.wikipedia.org/wiki/處理器 "wikilink")[英特爾特別為這部超薄電腦所打造的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Intel Core i5及](../Page/Intel_Core_i5.md "wikilink")[Intel Core i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink") [Haswell雙核心處理器](https://zh.wikipedia.org/wiki/Haswell "wikilink")。2018版则为$1199起步，采用第八代Intel Core i5处理器。其他机种的詳細規格如下： {{-}}
 
 |  |    |  |    |
 |  | -- |  | -- |
@@ -477,7 +455,7 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <tr class="even">
 <td><p>1个 Micro-DVI 接口</p></td>
 <td><p>1个Mini DisplayPort接口（可以通过适配器转换为标准DVI、Dual - Link DVI 或者VGA接口，最大输出分辨率为2560*1600）</p></td>
-<td><p>1个<a href="../Page/Thunderbolt.md" title="wikilink">Thunderbolt接口</a>（可以通过适配器转换为标准DVI、Dual - Link DVI 、VGA或<a href="https://zh.wikipedia.org/wiki/RJ-45" title="wikilink">RJ-45</a><a href="https://zh.wikipedia.org/wiki/乙太網路" title="wikilink">乙太網路接口</a>，最大顯示输出分辨率为2560*1600）</p></td>
+<td><p>1个<a href="../Page/Thunderbolt.md" title="wikilink">Thunderbolt</a>接口（可以通过适配器转换为标准DVI、Dual - Link DVI 、VGA或<a href="https://zh.wikipedia.org/wiki/RJ-45" title="wikilink">RJ-45</a><a href="https://zh.wikipedia.org/wiki/乙太網路" title="wikilink">乙太網路接口</a>，最大顯示输出分辨率为2560*1600）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -512,10 +490,10 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 </tr>
 <tr class="even">
 <td><p>音訊（内置）</p></td>
-<td><p>1个<a href="../Page/麦克风.md" title="wikilink">麦克风輸入接口</a><br />
+<td><p>1个<a href="../Page/麦克风.md" title="wikilink">麦克风</a>輸入接口<br />
 单声道扬声器<br />
 <em>必须外接扬声器才能输出双声道</em></p></td>
-<td><p>colspan= |1个<a href="../Page/麦克风.md" title="wikilink">麦克风輸入接口</a><br />
+<td><p>colspan= |1个<a href="../Page/麦克风.md" title="wikilink">麦克风</a>輸入接口<br />
 立體聲揚聲器</p></td>
 <td></td>
 <td></td>
@@ -554,27 +532,19 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 
 ## 召回
 
-[苹果公司在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[2013年10月](../Page/2013年10月.md "wikilink")18日发布公告称，搭载64GB、128
-GB[固态硬盘的](../Page/固态硬盘.md "wikilink")2012款MacBook
-Air可能会存在某些隱患，在2012年6月至2013年6月期间出售的MacBook
-Air將被召回，用户可选免费更换硬盘或者全额退回以前用于维修硬盘所花的费用。\[10\]\[11\]
+[苹果公司在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[2013年10月](../Page/2013年10月.md "wikilink")18日发布公告称，搭载64GB、128 GB[固态硬盘](../Page/固态硬盘.md "wikilink")的2012款MacBook Air可能会存在某些隱患，在2012年6月至2013年6月期间出售的MacBook Air將被召回，用户可选免费更换硬盘或者全额退回以前用于维修硬盘所花的费用。\[10\]\[11\]
 
 ## 评价
 
 产品上市前已经引来了大量的评论。既有欢呼和支持的，也有质疑甚至批评的。
 
-  - 由于市面上的计算机（不论是笔记本还是[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")）很少有如此轻薄的产品，不少网友在看见实物图或概念图时对MacBook
-    Air的厚度感到非常惊讶。\[12\]為了呈現其輕薄，MacBook
-    Air在2008年的問世發表會上，特別置於公文袋中，再由[乔布斯由公文袋中抽出](../Page/史蒂夫·乔布斯.md "wikilink")。
+  - 由于市面上的计算机（不论是笔记本还是[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")）很少有如此轻薄的产品，不少网友在看见实物图或概念图时对MacBook Air的厚度感到非常惊讶。\[12\]為了呈現其輕薄，MacBook Air在2008年的問世發表會上，特別置於公文袋中，再由[乔布斯由公文袋中抽出](../Page/史蒂夫·乔布斯.md "wikilink")。
   - 有些人不太认同其轻薄设计，不太赞同苹果为了薄而去除光驱和内置以太网接口，但对苹果的创意表示认同\[13\]。
-  - 有网友认为这台机器如果不是打着苹果旗号的话，市场前景不会很好。不但沒有-{zh-tw:光碟機;zh-cn:光盘驱动器;}-與部分接口，性能也做了一些妥協，而且價格在銷售初期極度昂貴。<ref>[2](http://www.cnbeta.com/articles/47416.htm)
-    MacBook Air存在十大问题 最终或会失败
-    <span style="font-size:smaller;">评论原文如下：“叫营销失败太盲目了，最大的硬伤是网口，但现在美国WIFI实在是很普及了。至少出门在外接网线的地方肯定远远少于WIFI。何况这玩意本来就是冲动消费，苹果本来就是主要卖外形的。
+  - 有网友认为这台机器如果不是打着苹果旗号的话，市场前景不会很好。不但沒有-{zh-tw:光碟機;zh-cn:光盘驱动器;}-與部分接口，性能也做了一些妥協，而且價格在銷售初期極度昂貴。<ref>[2](http://www.cnbeta.com/articles/47416.htm) MacBook Air存在十大问题 最终或会失败 <span style="font-size:smaller;">评论原文如下：“叫营销失败太盲目了，最大的硬伤是网口，但现在美国WIFI实在是很普及了。至少出门在外接网线的地方肯定远远少于WIFI。何况这玩意本来就是冲动消费，苹果本来就是主要卖外形的。
 
 </span></ref>
 
-  - 有媒体认为，“薄”使得MacBook
-    Air配置落后。比如较过时的处理器和不能升级的内存，以及仅有1个USB接口。\[14\]為此，蘋果在後續版本中改為2個USB埠。
+  - 有媒体认为，“薄”使得MacBook Air配置落后。比如较过时的处理器和不能升级的内存，以及仅有1个USB接口。\[14\]為此，蘋果在後續版本中改為2個USB埠。
 
 ## 參見
 
@@ -586,29 +556,19 @@ Air將被召回，用户可选免费更换硬盘或者全额退回以前用于�
 
 {{-}}
 
-[Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink")
-[Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
-[Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
+[Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink") [Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink") [Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
 
 1.
 2.
 3.
-4.  [Apple's new 11.6-in. MacBook Air: Don't call it a
-    netbook](http://www.computerworld.com/s/article/9193382/Apple_s_new_11.6_in._MacBook_Air_Don_t_call_it_a_netbook)
+4.  [Apple's new 11.6-in. MacBook Air: Don't call it a netbook](http://www.computerworld.com/s/article/9193382/Apple_s_new_11.6_in._MacBook_Air_Don_t_call_it_a_netbook)
 5.
-6.  [Apple Unveils New MacBook Air, Lion Operating
-    System](http://www.bloomberg.com/news/2010-10-20/apple-s-steve-jobs-to-introduce-updated-macintosh-line-operating-system.html)
-7.  [Macs get more like
-    iPads](http://news.cnet.com/8301-17938_105-20020201-1.html)
+6.  [Apple Unveils New MacBook Air, Lion Operating System](http://www.bloomberg.com/news/2010-10-20/apple-s-steve-jobs-to-introduce-updated-macintosh-line-operating-system.html)
+7.  [Macs get more like iPads](http://news.cnet.com/8301-17938_105-20020201-1.html)
 8.
-9.  [- 蘋果公司介绍页面](http://www.apple.com/macbookair/specs.html)
-    於2012年06月12日造訪
+9.  [- 蘋果公司介绍页面](http://www.apple.com/macbookair/specs.html) 於2012年06月12日造訪
 10.
 11.
 12. [1](http://www.cnbeta.com/articles/47235.htm) 让你见识MacBook Air到底有多薄
-13. \[[http://www.cnbeta.com/articles/47267.htm\]真正的刀锋战士么?细看MacBook](http://www.cnbeta.com/articles/47267.htm%5D真正的刀锋战士么?细看MacBook)
-    Air
-    设计亮点<span style="font-size:smaller;">评论原文如下：“很多人就是看不得别人的好啊，薄的不一定好，可是你能想到去这样做一个电脑么？包括可以自动调光的键盘，MultiTouch触摸板，那样的USB
-    和充电口设计，你能想到么？就算你想到了，你又能做到么？一样你也做不到，还在这里发那些毫无用处的疑问。”</span>
-14. [3](http://www.cnbeta.com/articles/47416.htm) MacBook Air存在十大问题
-    最终或会失败
+13. \[[http://www.cnbeta.com/articles/47267.htm\]真正的刀锋战士么?细看MacBook](http://www.cnbeta.com/articles/47267.htm%5D真正的刀锋战士么?细看MacBook) Air 设计亮点<span style="font-size:smaller;">评论原文如下：“很多人就是看不得别人的好啊，薄的不一定好，可是你能想到去这样做一个电脑么？包括可以自动调光的键盘，MultiTouch触摸板，那样的USB 和充电口设计，你能想到么？就算你想到了，你又能做到么？一样你也做不到，还在这里发那些毫无用处的疑问。”</span>
+14. [3](http://www.cnbeta.com/articles/47416.htm) MacBook Air存在十大问题 最终或会失败

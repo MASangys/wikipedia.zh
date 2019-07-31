@@ -1,8 +1,8 @@
-**武汉白云黄鹤BBS**全称“中国教育科研计算机网华中地区网络中心BBS武汉白云黄鹤站”，是[中国教育和科研计算机网](../Page/中国教育和科研计算机网.md "wikilink")(CERNET)中较早建立的[BBS站点之一](../Page/BBS.md "wikilink")。主机位于中国教育科研网(CERNET)华中地区网络中心(同时也是[华中科技大学网络中心](../Page/华中科技大学.md "wikilink"))。
+**武汉白云黄鹤BBS**全称“中国教育科研计算机网华中地区网络中心BBS武汉白云黄鹤站”，是[中国教育和科研计算机网](../Page/中国教育和科研计算机网.md "wikilink")(CERNET)中较早建立的[BBS](../Page/BBS.md "wikilink")站点之一。主机位于中国教育科研网(CERNET)华中地区网络中心(同时也是[华中科技大学](../Page/华中科技大学.md "wikilink")网络中心)。
 
 ## 简介
 
-白云黄鹤BBS创建于1996年3月12日，1996年12月20日定站名为白云黄鹤并沿用至今。白云黄鹤语出唐代诗人[崔颢的诗作](../Page/崔颢.md "wikilink")《[黄鹤楼](../Page/黄鹤楼.md "wikilink")》：
+白云黄鹤BBS创建于1996年3月12日，1996年12月20日定站名为白云黄鹤并沿用至今。白云黄鹤语出唐代诗人[崔颢](../Page/崔颢.md "wikilink")的诗作《[黄鹤楼](../Page/黄鹤楼.md "wikilink")》：
 
 白云黄鹤站初期也是CERNET的发展初期，由于信息传播方式的限制以及计算机和计算机网络的普及率不高，使其主要用户限于研究生，教师和外部用户。而2001年开始的华中科技大学校园网第三期工程推进了网络在本科学生中的普及，BBS的用户大规模增加。
 
@@ -26,6 +26,4 @@ BBS最初由用户自发组织的站务管理逐渐变为华中科技大学校�
 
 ## 参考资料
 
-[Category:华中科技大学](https://zh.wikipedia.org/wiki/Category:华中科技大学 "wikilink")
-[Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")
-[Category:1996年中國建立](https://zh.wikipedia.org/wiki/Category:1996年中國建立 "wikilink")
+[Category:华中科技大学](https://zh.wikipedia.org/wiki/Category:华中科技大学 "wikilink") [Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink") [Category:1996年中國建立](https://zh.wikipedia.org/wiki/Category:1996年中國建立 "wikilink")

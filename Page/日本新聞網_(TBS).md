@@ -1,8 +1,8 @@
 [TBS_headquarters_2013.JPG](https://zh.wikipedia.org/wiki/File:TBS_headquarters_2013.JPG "fig:TBS_headquarters_2013.JPG")
 
-**日本新聞網**（，），簡稱****，是以[TBS電視台為核心的](../Page/TBS電視台.md "wikilink")[電視聯播網](../Page/電視聯播網.md "wikilink")，成立於1959年8月1日，為日本歷史最悠久的電視聯播網。
+**日本新聞網**（，），簡稱****，是以[TBS電視台](../Page/TBS電視台.md "wikilink")為核心的[電視聯播網](../Page/電視聯播網.md "wikilink")，成立於1959年8月1日，為日本歷史最悠久的電視聯播網。
 
-JNN成立之時，核心成員是[東京放送](../Page/東京放送控股.md "wikilink")（TBS電視台前身）和[每日放送](../Page/每日放送.md "wikilink")，有16個[電視台加盟](https://zh.wikipedia.org/wiki/電視台 "wikilink")。目前JNN共有28個成員，以聯播[新聞節目為主](../Page/新聞節目.md "wikilink")。在大多數的情況下，JNN也等同於**TBS電視網**（，又稱為「TBS系列」），後者是指TBS電視台其他類型節目的聯播服務。
+JNN成立之時，核心成員是[東京放送](../Page/東京放送控股.md "wikilink")（TBS電視台前身）和[每日放送](../Page/每日放送.md "wikilink")，有16個[電視台加盟](https://zh.wikipedia.org/wiki/電視台 "wikilink")。目前JNN共有28個成員，以聯播[新聞節目](../Page/新聞節目.md "wikilink")為主。在大多數的情況下，JNN也等同於**TBS電視網**（，又稱為「TBS系列」），後者是指TBS電視台其他類型節目的聯播服務。
 
 ## 聯播網成員
 
@@ -13,7 +13,7 @@ JNN成員全部都是節目表數據放送業務的放送機構，在沒有JNN�
   - ● - 兼營中波電台
   - ○ - 以前兼營中波電台，現在由關聯公司或子公司經營 \[1\]
   - ■ - 實施提供地域新聞視頻的成員
-  - ◆ - [第三部門局](../Page/第三部門.md "wikilink")
+  - ◆ - [第三部門](../Page/第三部門.md "wikilink")局
 
 <table>
 <thead>
@@ -347,8 +347,7 @@ G Guide節目數據放送業務由<a href="https://zh.wikipedia.org/wiki/福井�
 
 ### 非可收視地區收視聯播網節目之辦法
 
-目前在秋田縣、福井縣、德島縣和佐賀縣並無JNN之加盟台，除佐賀縣外三縣的部分地區可通過接收臨近縣的JNN加盟台信號收看，而佐賀縣全境均可接收福岡縣JNN加盟台RKB每日放送。除接收無線電視訊號外，亦可通過安裝有線電視來收看JNN節目。各家有線電視系統業者可供播送的JNN加盟台不同，亦有可能不播送。
-以下各電視台，是目前有購買JNN聯播網一般節目播放的電視台。
+目前在秋田縣、福井縣、德島縣和佐賀縣並無JNN之加盟台，除佐賀縣外三縣的部分地區可通過接收臨近縣的JNN加盟台信號收看，而佐賀縣全境均可接收福岡縣JNN加盟台RKB每日放送。除接收無線電視訊號外，亦可通過安裝有線電視來收看JNN節目。各家有線電視系統業者可供播送的JNN加盟台不同，亦有可能不播送。 以下各電視台，是目前有購買JNN聯播網一般節目播放的電視台。
 
 <table>
 <thead>
@@ -435,7 +434,7 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
     ※最早RKB每日放送開設。[漢城奧運后](https://zh.wikipedia.org/wiki/1988年夏季奧林匹克運動會 "wikilink")，由TBS直接運營。
   - 北海道放送（HBC）[北京支局](../Page/北京市.md "wikilink")→TBS也有記者派遣。
   - 每日放送（MBS）[上海支局](https://zh.wikipedia.org/wiki/上海市 "wikilink")
-  - RKB每日放送（RKB）[曼谷支局](../Page/曼谷.md "wikilink")→TBS也有記者派遣。
+  - RKB每日放送（RKB）[曼谷](../Page/曼谷.md "wikilink")支局→TBS也有記者派遣。
 
 <!-- end list -->
 
@@ -443,10 +442,10 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
 
 <!-- end list -->
 
-  - TBS[莫斯科支局](../Page/莫斯科.md "wikilink")　※HBC現在也有特派員派遣。
-  - 每日放送[柏林支局](../Page/柏林.md "wikilink")
-  - 中部日本放送（CBC）[維也納支局](../Page/維也納.md "wikilink")
-  - TBS[巴黎支局](../Page/巴黎.md "wikilink")
+  - TBS[莫斯科](../Page/莫斯科.md "wikilink")支局　※HBC現在也有特派員派遣。
+  - 每日放送[柏林](../Page/柏林.md "wikilink")支局
+  - 中部日本放送（CBC）[維也納](../Page/維也納.md "wikilink")支局
+  - TBS[巴黎](../Page/巴黎.md "wikilink")支局
   - TBS[倫敦支局](https://zh.wikipedia.org/wiki/倫敦 "wikilink")
 
 <!-- end list -->
@@ -471,10 +470,8 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
 
 ### 随時
 
-  - [JNN
-    News](https://zh.wikipedia.org/wiki/JNN_News "wikilink")（1959年8月\~2009年3月）
-  - [THE
-    NEWS](https://zh.wikipedia.org/wiki/THE_NEWS "wikilink")（2009年3月至今）
+  - [JNN News](https://zh.wikipedia.org/wiki/JNN_News "wikilink")（1959年8月\~2009年3月）
+  - [THE NEWS](https://zh.wikipedia.org/wiki/THE_NEWS "wikilink")（2009年3月至今）
 
 ### 晨間
 
@@ -485,14 +482,12 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
   - JNN新聞（1959年8月－1971年3月）
   - [モーニングジャンボ](https://zh.wikipedia.org/wiki/モーニングジャンボ "wikilink")（1971年4月－1972年3月）
   - [モーニングジャンボ・JNNニュースショー](https://zh.wikipedia.org/wiki/モーニングジャンボJNNニュースショー "wikilink")（1972年4月－1974年12月）
-  - [JNN NEWS
-    CALL](https://zh.wikipedia.org/wiki/JNN_NEWS_CALL "wikilink")（第一期）（1975年1月－1976年9月）
+  - [JNN NEWS CALL](https://zh.wikipedia.org/wiki/JNN_NEWS_CALL "wikilink")（第一期）（1975年1月－1976年9月）
   - JNN新聞（1976年10月－1983年3月）
   - [JNNおはようニュース&スポーツ](https://zh.wikipedia.org/wiki/JNNおはようニュース&スポーツ "wikilink")（1983年4月－1991年3月）
   - JNN八点鐘新聞（1983年4月 - 1987年3月）
   - JNN NEWS CALL（第二期）（1991年4月－1993年9月）
-  - [JNNニュース
-    あなたにオンタイム](https://zh.wikipedia.org/wiki/あなたにオンタイム "wikilink")（1993年10月－1995年3月）
+  - [JNNニュース あなたにオンタイム](https://zh.wikipedia.org/wiki/あなたにオンタイム "wikilink")（1993年10月－1995年3月）
   - JNN News オンタイム（1995年4月－1996年5月）
   - [おはようクジラ](https://zh.wikipedia.org/wiki/おはようクジラ "wikilink")（1996年6月－1999年3月）
   - [エクスプレス](https://zh.wikipedia.org/wiki/エクスプレス_\(テレビ番組\) "wikilink")（1999年4月－2002年3月）
@@ -537,15 +532,12 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
 <!-- end list -->
 
   - JNN News（1959年8月－1992年3月）
-  - [JNN News
-    1130](https://zh.wikipedia.org/wiki/JNN_News_1130 "wikilink")（1992年4月－2000年3月）
-  - [Best
-    Time](https://zh.wikipedia.org/wiki/Best_Time "wikilink")（2000年4月－2004年3月）
+  - [JNN News 1130](https://zh.wikipedia.org/wiki/JNN_News_1130 "wikilink")（1992年4月－2000年3月）
+  - [Best Time](https://zh.wikipedia.org/wiki/Best_Time "wikilink")（2000年4月－2004年3月）
   - [ニュースフロント](https://zh.wikipedia.org/wiki/ニュースフロント "wikilink")（2004年4月－2005年3月）
   - [きょう発プラス\!](https://zh.wikipedia.org/wiki/きょう発プラス! "wikilink")（2005年4月－2006年9月）
   - [ピンポン\!](https://zh.wikipedia.org/wiki/ピンポン! "wikilink")（2006年10月－2009年3月27日）
-  - [ひるおび\!](https://zh.wikipedia.org/wiki/ひるおび! "wikilink")・JNN THE
-    NEWS（2009年3月30日 - ）
+  - [ひるおび\!](https://zh.wikipedia.org/wiki/ひるおび! "wikilink")・JNN THE NEWS（2009年3月30日 - ）
 
 <!-- end list -->
 
@@ -592,8 +584,7 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
 
 ### 20:54～21:00
 
-  - [JNN Flash
-    News](https://zh.wikipedia.org/wiki/JNN_Flash_News "wikilink")
+  - [JNN Flash News](https://zh.wikipedia.org/wiki/JNN_Flash_News "wikilink")
 
 ### 夜間
 
@@ -602,16 +593,12 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
 <!-- end list -->
 
   - JNN News（1959年8月－1969年3月）
-  - [JNN News
-    Desk](https://zh.wikipedia.org/wiki/JNN_News_Desk "wikilink")（1969年4月－1986年9月）
-  - [Network
-    JNN](https://zh.wikipedia.org/wiki/Network_\(新聞節目\) "wikilink")（1986年10月－1987年9月）
+  - [JNN News Desk](https://zh.wikipedia.org/wiki/JNN_News_Desk "wikilink")（1969年4月－1986年9月）
+  - [Network JNN](https://zh.wikipedia.org/wiki/Network_\(新聞節目\) "wikilink")（1986年10月－1987年9月）
   - [News22PrimeTimeJNN](https://zh.wikipedia.org/wiki/News22PrimeTimeJNN "wikilink")（1987年10月－1988年9月）
-  - [JNN News Desk
-    '88](https://zh.wikipedia.org/wiki/JNN_News_Desk'88・'89 "wikilink")（1988年10月－1988年12月）
+  - [JNN News Desk '88](https://zh.wikipedia.org/wiki/JNN_News_Desk'88・'89 "wikilink")（1988年10月－1988年12月）
   - JNN News Desk '89（1989年1月－1989年9月）
-  - [筑紫哲也
-    NEWS23→NEWS23](https://zh.wikipedia.org/wiki/NEWS23 "wikilink")（1989年10月－）
+  - [筑紫哲也 NEWS23→NEWS23](https://zh.wikipedia.org/wiki/NEWS23 "wikilink")（1989年10月－）
 
 <!-- end list -->
 
@@ -622,8 +609,7 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
   - JNN News（1959年8月－1978年3月）
   - JNN News Desk（1978年4月－1988年9月）
   - JNN News（1988年10月－1990年9月）
-  - [JNN SPORTS and
-    NEWS](https://zh.wikipedia.org/wiki/JNN_SPORTS_and_NEWS "wikilink")（1990年10月－2002年3月）
+  - [JNN SPORTS and NEWS](https://zh.wikipedia.org/wiki/JNN_SPORTS_and_NEWS "wikilink")（1990年10月－2002年3月）
   - JNN News（2002年4月－）
 
 <!-- end list -->
@@ -635,8 +621,7 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
   - JNN News（1959年8月－1981年3月）
   - JNN News Desk（1981年4月－1988年9月）
   - JNN News（1988年10月－1990年9月）
-  - [JNN SPORTS and
-    NEWS](https://zh.wikipedia.org/wiki/JNN_SPORTS_and_NEWS "wikilink")（1990年10月－2002年3月）
+  - [JNN SPORTS and NEWS](https://zh.wikipedia.org/wiki/JNN_SPORTS_and_NEWS "wikilink")（1990年10月－2002年3月）
   - JNN News（2002年4月－）
 
 ## 參考資料
@@ -647,28 +632,19 @@ IBC岩手放送（<a href="../Page/秋田市.md" title="wikilink">秋田市</a>�
   - [TBS News-i](http://news.tbs.co.jp/)
   - [TBS News-i](http://www.youtube.com/user/tbsnewsi)（YouTube）
 
-[Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink")
-[Category:電視網](https://zh.wikipedia.org/wiki/Category:電視網 "wikilink")
-[Category:東京放送控股](https://zh.wikipedia.org/wiki/Category:東京放送控股 "wikilink")
-[Category:日本地面電視](https://zh.wikipedia.org/wiki/Category:日本地面電視 "wikilink")
-[Category:1959年建立](https://zh.wikipedia.org/wiki/Category:1959年建立 "wikilink")
-[Category:日本公司列表](https://zh.wikipedia.org/wiki/Category:日本公司列表 "wikilink")
+[Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink") [Category:電視網](https://zh.wikipedia.org/wiki/Category:電視網 "wikilink") [Category:東京放送控股](https://zh.wikipedia.org/wiki/Category:東京放送控股 "wikilink") [Category:日本地面電視](https://zh.wikipedia.org/wiki/Category:日本地面電視 "wikilink") [Category:1959年建立](https://zh.wikipedia.org/wiki/Category:1959年建立 "wikilink") [Category:日本公司列表](https://zh.wikipedia.org/wiki/Category:日本公司列表 "wikilink")
 
 1.  TBS的電台部門於2001年10月1日開始由子公司[TBS廣播與信息公司](https://zh.wikipedia.org/wiki/TBS廣播與信息公司 "wikilink")(2016年4月1日改名為TBS廣播電台)繼承。中部日本放送的電台部門於2013年4月1日由子公司CBC廣播電台继承。
 2.  在JNN成立前的1957年4月1日即與TBS組成建立聯播關係，。
-3.  1969年12月1日開播時 -
-    1975年3月30日期間只參與聯播網的新聞採訪活動，亦會向其他聯播網提供新聞採訪（這種事情僅此一例）。当時的節目編排日本教育電視台（NET電視台〈NET〉、現在的朝日電視台）、全国新聞是JNN新聞網與NET新聞（後來的ANN新聞）並存的狀態，因為排他協定的關係，只能以這樣的形式參與JNN。
+3.  1969年12月1日開播時 - 1975年3月30日期間只參與聯播網的新聞採訪活動，亦會向其他聯播網提供新聞採訪（這種事情僅此一例）。当時的節目編排日本教育電視台（NET電視台〈NET〉、現在的朝日電視台）、全国新聞是JNN新聞網與NET新聞（後來的ANN新聞）並存的狀態，因為排他協定的關係，只能以這樣的形式參與JNN。
 4.  當有重大事件時東北放送會加入採訪。
 5.  1960年4月1日～1992年9月30日期間有聯播JNN的新聞與一般節目。
 6.  現在的公司名稱是東京放送控股。1960年11月29日東京電台（KRT）更名為東京放送。
 7.  2001年10月1日廣播電台部門子公司化。子公司化（子公司「TBS廣播與信息公司」繼承電台牌照）後電視頻道與電台頻道的分開。電台的呼號和以前一樣是JOKR、電視頻道的則改為JORX-TV與JORX-DTV。另外，電台主要發射站的維護業務是各委託給子公司化的TBS電視台（在東京放送變為控股公司之前是委託給東京放送）進行的。
 8.  電視台的開播時間比TBS要晚一些。但是電台開播的時候卻很早，是日本第一家民營廣播電台（1951年9月1日，日本第一家民營廣播電台開播日）。2013年4月1日電台部分子公司化。子公司化（子公司「CBC電台」繼承）後電視與電台的播出呼號分開。電台和以前一樣是JOAR，電視則改為JOGX-DTV。
-9.  JNN成立之前的1959年3月1日就有開始建立合作連接，但只包括一般節目。1960年2月1日 -
-    1975年3月30日（腸扭轉解除前一日）因相同廣播區域（近畿広域圏）的ABC朝日放送是JNN成員導致毎日放送無法參加JNN。順便說一下，每日放送當初開播時，是作為準教育電視台開始電視業務的，其他核心局也與其他在大阪的電視台締結了關係，每日放送當時的核心局是NET日本教育電視台（即現在的朝日電視台），東部的報紙資本與西部的電視台之間的關係發生了逆轉。詳情見日文維基。
+9.  JNN成立之前的1959年3月1日就有開始建立合作連接，但只包括一般節目。1960年2月1日 - 1975年3月30日（腸扭轉解除前一日）因相同廣播區域（近畿広域圏）的ABC朝日放送是JNN成員導致毎日放送無法參加JNN。順便說一下，每日放送當初開播時，是作為準教育電視台開始電視業務的，其他核心局也與其他在大阪的電視台締結了關係，每日放送當時的核心局是NET日本教育電視台（即現在的朝日電視台），東部的報紙資本與西部的電視台之間的關係發生了逆轉。詳情見日文維基。
 10. これよりJNN成立前的1958年6月1日締結網絡關係。
-11. 1970年4月1日開局 -
-    1978年9月30日期間是JNN/朝日電視台（只參加一般節目，新聞網〔ANN〕因JNN協定的關係，沒有參加。）/FNS的交叉網絡、1978年10月1日
-    - 1987年9月30日期間是JNN・FNS的交叉網絡。
+11. 1970年4月1日開局 - 1978年9月30日期間是JNN/朝日電視台（只參加一般節目，新聞網〔ANN〕因JNN協定的關係，沒有參加。）/FNS的交叉網絡、1978年10月1日 - 1987年9月30日期間是JNN・FNS的交叉網絡。
 12. 最終沒有開播的，预订参加JNN。
 13. 1958年12月1日 - 1992年9月30日期间RNB 南海放送提供新聞服務。
 14. 1959年4月1日 - 1970年3月31日期間RKC 高知放送提供新聞服務。

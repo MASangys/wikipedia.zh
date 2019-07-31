@@ -1,24 +1,18 @@
-**BMD-3伞兵战车**（
-简称БМД—3）是前[苏联](../Page/苏联.md "wikilink")于1980年代末研发，1990年正式装备前苏联[空降军和](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[海军步兵的一款](https://zh.wikipedia.org/wiki/海军步兵 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第三款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-1及BMD-2完全不同。属于全新的设计。
+**BMD-3伞兵战车**（ 简称БМД—3）是前[苏联](../Page/苏联.md "wikilink")于1980年代末研发，1990年正式装备前苏联[空降军和](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[海军步兵的一款](https://zh.wikipedia.org/wiki/海军步兵 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第三款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-1及BMD-2完全不同。属于全新的设计。
 
 ## 研发和装备背景
 
-在BMD-1/2伞兵战车的基础上重新设计。
-这款伞兵战车被称为BMD-3。BMD-3伞兵战车在1990年批装备前苏联空降军和海军步兵，并有部分出口到其他国家。
+在BMD-1/2伞兵战车的基础上重新设计。 这款伞兵战车被称为BMD-3。BMD-3伞兵战车在1990年批装备前苏联空降军和海军步兵，并有部分出口到其他国家。
 
 ## 车体特征
 
-车体前部为驾驶室，驾驶员位于车体中央。中部为战斗室，
-[炮塔位于车体中部靠前](https://zh.wikipedia.org/wiki/炮塔 "wikilink")，为单人炮塔。后部为载员室，再后是动力舱。不设后门，载员只能从载员室的上方出入。
+车体前部为驾驶室，驾驶员位于车体中央。中部为战斗室， [炮塔位于车体中部靠前](https://zh.wikipedia.org/wiki/炮塔 "wikilink")，为单人炮塔。后部为载员室，再后是动力舱。不设后门，载员只能从载员室的上方出入。
 
 ## 武器系统
 
-主要武器为一门[2A42型](../Page/希普諾夫2A42機炮.md "wikilink")30毫米[机关炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，
-身管长2.4m。双向稳定（可行进间开火）高平两用， 可360度旋转，高低射界为－5～＋74度。可选择200，300，500发每分的射速。
-可发射曳光穿甲弹和高爆燃烧弹。弹药基数860发，发射曳光穿甲弹时射程2000m，可穿透50mm均质钢板。发射高爆燃烧弹时射程为4000m。
+主要武器为一门[2A42型](../Page/希普諾夫2A42機炮.md "wikilink")30毫米[机关炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")， 身管长2.4m。双向稳定（可行进间开火）高平两用， 可360度旋转，高低射界为－5～＋74度。可选择200，300，500发每分的射速。 可发射曳光穿甲弹和高爆燃烧弹。弹药基数860发，发射曳光穿甲弹时射程2000m，可穿透50mm均质钢板。发射高爆燃烧弹时射程为4000m。
 
-主炮炮塔顶部后方装有一具[AT-4](../Page/AT4反坦克火箭筒.md "wikilink")（后期型号装备[AT-5](https://zh.wikipedia.org/wiki/AT-5 "wikilink")）[反坦克导弹](../Page/反坦克导弹.md "wikilink")发射器。
-射程500～4000m，配弹4枚。两型导弹均配备串联战斗部。用于攻击复合装甲和反应式装甲。
+主炮炮塔顶部后方装有一具[AT-4](../Page/AT4反坦克火箭筒.md "wikilink")（后期型号装备[AT-5](https://zh.wikipedia.org/wiki/AT-5 "wikilink")）[反坦克导弹](../Page/反坦克导弹.md "wikilink")发射器。 射程500～4000m，配弹4枚。两型导弹均配备串联战斗部。用于攻击复合装甲和反应式装甲。
 
 辅助武器为1挺7.62mm[并列机枪](../Page/同軸武器.md "wikilink")，备弹2000发。1挺5.45mm车前右侧机枪，备弹2160发。车体左侧前部右[AG-17型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")30mm榴弹发射器，备弹551发。所发射的榴霰弹内置塑料针和钢珠，杀伤半径5～10m，可自动发射。射速40～50发每分。
 
@@ -26,20 +20,17 @@
 
 ## 动力/悬挂系统
 
-装备2V06型水冷[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，最大功率450马力。
-液压式机械[变速箱有](https://zh.wikipedia.org/wiki/变速箱 "wikilink")5个前进档和5个倒档。悬挂装置为液气[悬挂装置](https://zh.wikipedia.org/wiki/悬挂装置 "wikilink")，在车底距地面130～530mm范围内可调。每侧有5个[负重轮和](https://zh.wikipedia.org/wiki/负重轮 "wikilink")4个[托带轮](https://zh.wikipedia.org/wiki/托带轮 "wikilink")，[诱导轮在前](https://zh.wikipedia.org/wiki/诱导轮 "wikilink")，[主动轮在后](https://zh.wikipedia.org/wiki/主动轮 "wikilink")。
+装备2V06型水冷[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，最大功率450马力。 液压式机械[变速箱有](https://zh.wikipedia.org/wiki/变速箱 "wikilink")5个前进档和5个倒档。悬挂装置为液气[悬挂装置](https://zh.wikipedia.org/wiki/悬挂装置 "wikilink")，在车底距地面130～530mm范围内可调。每侧有5个[负重轮和](https://zh.wikipedia.org/wiki/负重轮 "wikilink")4个[托带轮](https://zh.wikipedia.org/wiki/托带轮 "wikilink")，[诱导轮在前](https://zh.wikipedia.org/wiki/诱导轮 "wikilink")，[主动轮在后](https://zh.wikipedia.org/wiki/主动轮 "wikilink")。
 
 具备两栖行进能力，车体尾部有两个[喷水推进器](../Page/喷水推进器.md "wikilink")，车前有[防浪板](https://zh.wikipedia.org/wiki/防浪板 "wikilink")，水上行驶可抗5级风浪，并且可在海面空投。最大陆上行程约500公里，爬坡度31度。可以10公里每小时的速度在水上行驶8小时。
 
 ## 空投技术
 
-[伊尔-76](../Page/伊尔-76.md "wikilink")可运3辆。可所有成员于车内共同空投，而BMD-1/2只能驾驶员和车长空投。利用[PBS950式伞降系统实施空降](https://zh.wikipedia.org/wiki/PBS950式伞降系统 "wikilink")。
-空降技术和过程不详。
+[伊尔-76](../Page/伊尔-76.md "wikilink")可运3辆。可所有成员于车内共同空投，而BMD-1/2只能驾驶员和车长空投。利用[PBS950式伞降系统实施空降](https://zh.wikipedia.org/wiki/PBS950式伞降系统 "wikilink")。 空降技术和过程不详。
 
 ## 成员/载员
 
-3名成员（驾驶员，车长和炮长）＋
-5名载员。但极端条件下载员舱可容纳10名载员。其中驾驶员位于车体前部中央，上方有舱盖。驾驶员左右后侧各有两名载员。车长位于双人炮塔内部右侧，炮长位于双人炮塔内部左侧。其余载员位于载员舱内。
+3名成员（驾驶员，车长和炮长）＋ 5名载员。但极端条件下载员舱可容纳10名载员。其中驾驶员位于车体前部中央，上方有舱盖。驾驶员左右后侧各有两名载员。车长位于双人炮塔内部右侧，炮长位于双人炮塔内部左侧。其余载员位于载员舱内。
 
 作战时，驾驶员驾车，车长统筹指挥，炮长负责以火炮/并列机枪射击以及控制和发射反坦克导弹。其他载员可利用载员舱的射孔向外射击。
 
@@ -49,8 +40,7 @@
 
 ## 观瞄设备
 
-车长，驾驶员和炮长配有[潜望镜](https://zh.wikipedia.org/wiki/潜望镜 "wikilink")。
-均可换为夜视潜望镜。
+车长，驾驶员和炮长配有[潜望镜](https://zh.wikipedia.org/wiki/潜望镜 "wikilink")。 均可换为夜视潜望镜。
 
 ## 各國步兵戰車比較
 
@@ -218,8 +208,7 @@ AT-4（或AT-5）反坦克导弹发射器<br />
 
 总装备数不详，主要装备前苏联军队，今俄罗斯军队和[独联体国家军队](https://zh.wikipedia.org/wiki/独立国家联合体 "wikilink")。中国自1996年以来引进了约80辆，装备某机械化伞兵团。
 
-在80年代前，一个苏军伞兵师约有330辆伞兵战车（含变形车和BMD-2，
-BMD-3），3个空降团各109辆，其中伞兵战车90辆，[BMD-K指挥车](https://zh.wikipedia.org/wiki/BMD-K "wikilink")10辆，[BTR-D装甲输送车](https://zh.wikipedia.org/wiki/BTR-D "wikilink")9辆。
+在80年代前，一个苏军伞兵师约有330辆伞兵战车（含变形车和BMD-2， BMD-3），3个空降团各109辆，其中伞兵战车90辆，[BMD-K指挥车](https://zh.wikipedia.org/wiki/BMD-K "wikilink")10辆，[BTR-D装甲输送车](https://zh.wikipedia.org/wiki/BTR-D "wikilink")9辆。
 
 ## 变形车辆
 
@@ -249,6 +238,4 @@ BMD-3），3个空降团各109辆，其中伞兵战车90辆，[BMD-K指挥车](h
 
 ## 外部链接
 
-[Category:步兵戰車](https://zh.wikipedia.org/wiki/Category:步兵戰車 "wikilink")
-[Category:蘇聯裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:蘇聯裝甲戰鬥車輛 "wikilink")
-[Category:空降戰車](https://zh.wikipedia.org/wiki/Category:空降戰車 "wikilink")
+[Category:步兵戰車](https://zh.wikipedia.org/wiki/Category:步兵戰車 "wikilink") [Category:蘇聯裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:蘇聯裝甲戰鬥車輛 "wikilink") [Category:空降戰車](https://zh.wikipedia.org/wiki/Category:空降戰車 "wikilink")

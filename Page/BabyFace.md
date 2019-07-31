@@ -182,5 +182,4 @@
 
   - [超級偶像](../Page/超級偶像.md "wikilink")[第二屆](https://zh.wikipedia.org/wiki/超級偶像_\(第二屆\) "wikilink")－第五名
 
-[Category:台灣獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立搖滾樂團 "wikilink")
-[Category:超級偶像](https://zh.wikipedia.org/wiki/Category:超級偶像 "wikilink")
+[Category:台灣獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立搖滾樂團 "wikilink") [Category:超級偶像](https://zh.wikipedia.org/wiki/Category:超級偶像 "wikilink")

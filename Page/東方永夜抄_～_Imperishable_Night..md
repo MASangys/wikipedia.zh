@@ -1,21 +1,12 @@
-[Imperishable_Night.jpg](https://zh.wikipedia.org/wiki/File:Imperishable_Night.jpg "fig:Imperishable_Night.jpg")
-是由[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")8作，亦是在[Windows系統上的第三作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的體驗版於2004年4月18日第一次舉行的東方專題活動「博麗神社例大祭」上頒布，5月14日在網上開放下載。\[1\]8月15日（[Comic
-Market](../Page/Comic_Market.md "wikilink")
-66）遊戲正式發售。各同人商店則在9月15日[中秋節開始委託販賣](https://zh.wikipedia.org/wiki/中秋節 "wikilink")。
+[Imperishable_Night.jpg](https://zh.wikipedia.org/wiki/File:Imperishable_Night.jpg "fig:Imperishable_Night.jpg") 是由[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")8作，亦是在[Windows系統上的第三作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的體驗版於2004年4月18日第一次舉行的東方專題活動「博麗神社例大祭」上頒布，5月14日在網上開放下載。\[1\]8月15日（[Comic Market](../Page/Comic_Market.md "wikilink") 66）遊戲正式發售。各同人商店則在9月15日[中秋節開始委託販賣](https://zh.wikipedia.org/wiki/中秋節 "wikilink")。
 
-作品取材自《[竹取物語](../Page/竹取物語.md "wikilink")》。\[2\]本作與前作《[東方紅魔鄉 ～ the
-Embodiment of Scarlet
-Devil.](../Page/東方紅魔鄉_～_the_Embodiment_of_Scarlet_Devil..md "wikilink")》、《[東方妖妖夢
-～ Perfect Cherry
-Blossom.](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom..md "wikilink")》合稱「三部曲」。\[3\]
+作品取材自《[竹取物語](../Page/竹取物語.md "wikilink")》。\[2\]本作與前作《[東方紅魔鄉 ～ the Embodiment of Scarlet Devil.](../Page/東方紅魔鄉_～_the_Embodiment_of_Scarlet_Devil..md "wikilink")》、《[東方妖妖夢 ～ Perfect Cherry Blossom.](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom..md "wikilink")》合稱「三部曲」。\[3\]
 
 ## 遊戲系統
 
 本作的遊戲系統基本上與前作相似。玩家需要操作自機（遊戲主角）在屏幕上移動，向敵機（敵人）進行射擊，同時避免被敵人發射的子彈擊中。在每關的中間和結尾，玩家需要擊敗特定敵方頭目（即道中BOSS和關卡BOSS）才能繼續遊戲。
 
-本作有三種遊戲結局，即Bad Ending、Normal Ending和Good Ending。最終關卡分為Final A和Final
-B兩個分支，一開始玩家只能進入A分支。不續關通關會獲得Normal Ending並解鎖最終關卡的另一個分支（Final
-B）。玩家再次遊戲，選擇Final B分支並且不續關通關，即可進入成功結局（Good Ending），並解鎖Extra模式。
+本作有三種遊戲結局，即Bad Ending、Normal Ending和Good Ending。最終關卡分為Final A和Final B兩個分支，一開始玩家只能進入A分支。不續關通關會獲得Normal Ending並解鎖最終關卡的另一個分支（Final B）。玩家再次遊戲，選擇Final B分支並且不續關通關，即可進入成功結局（Good Ending），並解鎖Extra模式。
 
 本作新加入了刻符、終符、符卡練習模式，而且本作的自機由人类與[妖怪](../Page/妖怪.md "wikilink")共同組成。
 
@@ -29,14 +20,11 @@ B）。玩家再次遊戲，選擇Final B分支並且不續關通關，即可進
 
 ### 終符
 
-**終符**（Last
-Spell）是本作的一個特殊系統。在每個關卡完成後，如果玩家取得了超過定額的刻符，那麼敵方頭目會額外發動一張[符卡](../Page/符卡.md "wikilink")，在該符卡中玩家中彈不會造成損失，而玩家也無法使用炸彈。另外，在自機中彈的一瞬間，玩家可發動決死（即終符）以防止生命值降低，但是會消耗更多的炸彈和大量刻符。
+**終符**（Last Spell）是本作的一個特殊系統。在每個關卡完成後，如果玩家取得了超過定額的刻符，那麼敵方頭目會額外發動一張[符卡](../Page/符卡.md "wikilink")，在該符卡中玩家中彈不會造成損失，而玩家也無法使用炸彈。另外，在自機中彈的一瞬間，玩家可發動決死（即終符）以防止生命值降低，但是會消耗更多的炸彈和大量刻符。
 
 ### 人類與妖怪的組合
 
-[Th08_gameplay.png](https://zh.wikipedia.org/wiki/File:Th08_gameplay.png "fig:Th08_gameplay.png")
-在本作中，自機由一個人類與一名特定的[妖怪](../Page/妖怪.md "wikilink")組隊，在遊戲過程中玩家可自由交替使用兩者闖關。但因為本作自機角色大幅增加，所以選擇武器方面則不存在於本作中。另外，只要四組自機全部觸發Good
-Ending（至少通關8次），就可單獨使用其中一名人類或妖怪進行遊戲。這個情況之下，不論高速移動還是低速移動，操作的角色都固定為所選擇的角色，射擊也不會因高速移動和低速移動而變化。
+[Th08_gameplay.png](https://zh.wikipedia.org/wiki/File:Th08_gameplay.png "fig:Th08_gameplay.png") 在本作中，自機由一個人類與一名特定的[妖怪](../Page/妖怪.md "wikilink")組隊，在遊戲過程中玩家可自由交替使用兩者闖關。但因為本作自機角色大幅增加，所以選擇武器方面則不存在於本作中。另外，只要四組自機全部觸發Good Ending（至少通關8次），就可單獨使用其中一名人類或妖怪進行遊戲。這個情況之下，不論高速移動還是低速移動，操作的角色都固定為所選擇的角色，射擊也不會因高速移動和低速移動而變化。
 
 遊戲過程中，在高速移動時玩家操控的角色是人類，這被稱為「人類操術」，反之，在低速移動時操控的則是妖怪，即「妖怪操術」。由於操作的角色不同，所以本作中高速與低速移動的分別比前兩作顯得更加大。在使用人類操術時，會常駐角色的「特技」效果；而妖怪操術時，則會出現「使魔」協助作戰。此外，妖怪操術時即使Power值未全滿也能作道具自動蒐集。
 
@@ -56,8 +44,7 @@ Extra關的劇情發生在永夜異變解決一個月之後。蓬萊山輝夜向
 
 ### 自機角色
 
-一開始玩家必須從四個固定隊伍中選擇一組。當四個組合全部打出Good
-Ending之後，玩家即可選擇單個角色進行遊戲。不過，無論是選擇單個角色還是整個隊伍，對應劇情都是相同的。
+一開始玩家必須從四個固定隊伍中選擇一組。當四個組合全部打出Good Ending之後，玩家即可選擇單個角色進行遊戲。不過，無論是選擇單個角色還是整個隊伍，對應劇情都是相同的。
 
   - 幻想結界組（）
     特點是中彈判定較小、決死結界維持時間較長。武器為追蹤符彈（人類）和鎖定攻擊的使魔（妖怪），安定性較為高，容易使用，適合新手選擇。
@@ -89,22 +76,14 @@ Ending之後，玩家即可選擇單個角色進行遊戲。不過，無論是�
 
   - 莉格露·奈特巴格（，Wriggle Nightbug）：第一關頭目。螢火蟲妖怪。
   - 蜜斯蒂亞·蘿蕾萊（，Mystia Lorelei）：第二關頭目。被稱為夜雀的妖怪，能把人類的眼變成鳥目（夜盲症）的狀態並奪走其視界。
-  - [上白澤慧音](https://zh.wikipedia.org/wiki/上白澤慧音 "wikilink")（，，Kamishirasawa
-    Keine）：第三關頭目。人狼種的[白澤](../Page/白澤.md "wikilink")。因誤以為玩家是向人間之里進行攻擊，而將人間之里隱藏起來（把「人間之里」從歷史中吞食掉）。
-  - [博麗靈夢](../Page/博麗靈夢.md "wikilink")（，，Hakurei
-    Reimu）：第四關頭目（當玩家選擇「禁咒詠唱組」或「幽冥住人組」時出現）。看見黑夜長久不明的情況後，就從神社飛出來了以解決永夜異變。
-  - [霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")（，，Kirisame
-    Marisa）：第四關頭目（當玩家選擇「幻想結界組」或「夢幻紅魔組」時出現）。在這長久不見天明的夜晚裏慌忙地出發了（其實是通常會覺得靈夢一出發，就會有什麼好玩的事發生）。
-  - [因幡帝](https://zh.wikipedia.org/wiki/因幡帝 "wikilink")（，），Inaba
-    Tewi/Inaba Tei）：第五關道中頭目。妖怪兔。
-  - [鈴仙·優曇華院·因幡](https://zh.wikipedia.org/wiki/鈴仙·優曇華院·因幡 "wikilink")（，，Reisen
-    Udongein Inaba）：第五關頭目，逃離月球到達地球的[月兔](../Page/月兔.md "wikilink")。
-  - [八意永琳](https://zh.wikipedia.org/wiki/八意永琳 "wikilink")（，，Yagokoro
-    Eirin）：第六關頭目之一。月球人，從前利用輝夜的能力來製造了蓬萊之藥，把藥喝下的輝夜最後被逐出月球，而自己卻沒有被放逐。對於不能阻止輝夜的事而感到懊悔，於是決定一生守護著輝夜，並作為輝夜的隨從而生活。
-  - [蓬萊山輝夜](https://zh.wikipedia.org/wiki/蓬萊山輝夜 "wikilink")（，，Houraisan
-    Kaguya）：第六關頭目之一。月球人，月之公主。就如其名字的意思，她就是傳說「[竹取物語](../Page/竹取物語.md "wikilink")」的輝夜公主。千多年前因服用蓬萊之藥而被逐出月球。
-  - [藤原妹紅](https://zh.wikipedia.org/wiki/藤原妹紅 "wikilink")（，，Fujiwara no
-    Mokou）：Extra關卡頭目。蓬萊人，出生於貴族世家，其父親向輝夜求婚，卻被輝夜的難題羞辱，其後把輝夜視為仇敵。在「輝夜姬」留下的蓬萊之藥被天皇派人丟進[富士火山时](../Page/富士山.md "wikilink")，为了报复把蓬萊之藥搶奪過來並服用了，自此變成不滅之身。
+  - [上白澤慧音](https://zh.wikipedia.org/wiki/上白澤慧音 "wikilink")（，，Kamishirasawa Keine）：第三關頭目。人狼種的[白澤](../Page/白澤.md "wikilink")。因誤以為玩家是向人間之里進行攻擊，而將人間之里隱藏起來（把「人間之里」從歷史中吞食掉）。
+  - [博麗靈夢](../Page/博麗靈夢.md "wikilink")（，，Hakurei Reimu）：第四關頭目（當玩家選擇「禁咒詠唱組」或「幽冥住人組」時出現）。看見黑夜長久不明的情況後，就從神社飛出來了以解決永夜異變。
+  - [霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")（，，Kirisame Marisa）：第四關頭目（當玩家選擇「幻想結界組」或「夢幻紅魔組」時出現）。在這長久不見天明的夜晚裏慌忙地出發了（其實是通常會覺得靈夢一出發，就會有什麼好玩的事發生）。
+  - [因幡帝](https://zh.wikipedia.org/wiki/因幡帝 "wikilink")（，），Inaba Tewi/Inaba Tei）：第五關道中頭目。妖怪兔。
+  - [鈴仙·優曇華院·因幡](https://zh.wikipedia.org/wiki/鈴仙·優曇華院·因幡 "wikilink")（，，Reisen Udongein Inaba）：第五關頭目，逃離月球到達地球的[月兔](../Page/月兔.md "wikilink")。
+  - [八意永琳](https://zh.wikipedia.org/wiki/八意永琳 "wikilink")（，，Yagokoro Eirin）：第六關頭目之一。月球人，從前利用輝夜的能力來製造了蓬萊之藥，把藥喝下的輝夜最後被逐出月球，而自己卻沒有被放逐。對於不能阻止輝夜的事而感到懊悔，於是決定一生守護著輝夜，並作為輝夜的隨從而生活。
+  - [蓬萊山輝夜](https://zh.wikipedia.org/wiki/蓬萊山輝夜 "wikilink")（，，Houraisan Kaguya）：第六關頭目之一。月球人，月之公主。就如其名字的意思，她就是傳說「[竹取物語](../Page/竹取物語.md "wikilink")」的輝夜公主。千多年前因服用蓬萊之藥而被逐出月球。
+  - [藤原妹紅](https://zh.wikipedia.org/wiki/藤原妹紅 "wikilink")（，，Fujiwara no Mokou）：Extra關卡頭目。蓬萊人，出生於貴族世家，其父親向輝夜求婚，卻被輝夜的難題羞辱，其後把輝夜視為仇敵。在「輝夜姬」留下的蓬萊之藥被天皇派人丟進[富士火山时](../Page/富士山.md "wikilink")，为了报复把蓬萊之藥搶奪過來並服用了，自此變成不滅之身。
 
 ## 開發
 
@@ -127,17 +106,11 @@ Ending之後，玩家即可選擇單個角色進行遊戲。不過，無論是�
 ## 外部連結
 
   -
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:竹取物語題材改編作品](https://zh.wikipedia.org/wiki/Category:竹取物語題材改編作品 "wikilink")
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:竹取物語題材改編作品](https://zh.wikipedia.org/wiki/Category:竹取物語題材改編作品 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
 
 2.  [ZUN於2004年10月30日舉辦的講座《東方の夜明け》](http://animeiji.jp.land.to/easterndawn/report1.html)
-
 
 3.  「永夜抄 體驗版」附帶的Omake.txt。
 

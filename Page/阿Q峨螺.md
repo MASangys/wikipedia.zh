@@ -10,5 +10,4 @@
 
 ## 外部連結
 
-[Category:鱼篮螺属](https://zh.wikipedia.org/wiki/Category:鱼篮螺属 "wikilink")
-[Category:台灣軟體動物](https://zh.wikipedia.org/wiki/Category:台灣軟體動物 "wikilink")
+[Category:鱼篮螺属](https://zh.wikipedia.org/wiki/Category:鱼篮螺属 "wikilink") [Category:台灣軟體動物](https://zh.wikipedia.org/wiki/Category:台灣軟體動物 "wikilink")

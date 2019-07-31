@@ -1,4 +1,4 @@
-**AFI百年百大电影**（）是[美国电影学会发布的](../Page/美国电影学会.md "wikilink")“[AFI百年系列](../Page/AFI百年系列.md "wikilink")”（）的第一个部分\[1\]，它发布于于1998年，由[美國電影學會](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")（AFI）從400片提名電影中選出100部得来。
+**AFI百年百大电影**（）是[美国电影学会](../Page/美国电影学会.md "wikilink")发布的“[AFI百年系列](../Page/AFI百年系列.md "wikilink")”（）的第一个部分\[1\]，它发布于于1998年，由[美國電影學會](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")（AFI）從400片提名電影中選出100部得来。
 
 2007年1月18日，[美國電影學會发布了](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")[AFI百年百大电影的更新版](../Page/AFI百年百大电影_\(2007年版\).md "wikilink")。
 
@@ -134,17 +134,13 @@
 
   - [AFI website](http://www.afi.com/)
 
-  - [news
-    release](http://www.afi.com/Docs/about/press/2007/100movies07.pdf)
+  - [news release](http://www.afi.com/Docs/about/press/2007/100movies07.pdf)
 
-  - [AFI's official PDF of the 1998 and 2007 rankings (registration
-    required)](https://web.archive.org/web/20110721205639/http://connect.afi.com/site/DocServer/100Movies.pdf?docID=301)
+  - [AFI's official PDF of the 1998 and 2007 rankings (registration required)](https://web.archive.org/web/20110721205639/http://connect.afi.com/site/DocServer/100Movies.pdf?docID=301)
 
-  - [AFI's 400-title ballot (registration
-    required)](https://web.archive.org/web/20090919175116/http://connect.afi.com/site/DocServer/Movies_ballot_06.pdf?docID=141)
+  - [AFI's 400-title ballot (registration required)](https://web.archive.org/web/20090919175116/http://connect.afi.com/site/DocServer/Movies_ballot_06.pdf?docID=141)
 
-  - [Interesting facts about the
-    list](http://www.afi.com/drop/07facts.pdf)
+  - [Interesting facts about the list](http://www.afi.com/drop/07facts.pdf)
 
 [Category:美國電影學院百年百大系列](https://zh.wikipedia.org/wiki/Category:美國電影學院百年百大系列 "wikilink")
 

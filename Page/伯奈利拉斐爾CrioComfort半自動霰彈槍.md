@@ -35,11 +35,8 @@
 
 ## 外部連結
 
-  - —[意大利伯奈利官方網站—Raffaello
-    CrioComfort](https://web.archive.org/web/20100919020329/http://benelli.it/Articoli/Armi.asp?ID=1012)
+  - —[意大利伯奈利官方網站—Raffaello CrioComfort](https://web.archive.org/web/20100919020329/http://benelli.it/Articoli/Armi.asp?ID=1012)
 
   - —[美國伯奈利官方網站](http://www.benelliusa.com/)
 
-[Category:伯奈利](https://zh.wikipedia.org/wiki/Category:伯奈利 "wikilink")
-[Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink")
-[Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink")
+[Category:伯奈利](https://zh.wikipedia.org/wiki/Category:伯奈利 "wikilink") [Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink") [Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink")

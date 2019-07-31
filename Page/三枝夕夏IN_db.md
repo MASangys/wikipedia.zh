@@ -1,22 +1,14 @@
-**三枝夕夏IN
-db**為[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。隸屬於日本[Being
-Media
-Factory旗下的](https://zh.wikipedia.org/wiki/Being_Media_Factory "wikilink")[GIZA
-Studio](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink")。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日商美音亞洲股份有限公司負責代理](https://zh.wikipedia.org/wiki/日商美音亞洲股份有限公司 "wikilink")、發行。
+**三枝夕夏IN db**為[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。隸屬於日本[Being Media Factory旗下的](https://zh.wikipedia.org/wiki/Being_Media_Factory "wikilink")[GIZA Studio](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink")。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日商美音亞洲股份有限公司負責代理](https://zh.wikipedia.org/wiki/日商美音亞洲股份有限公司 "wikilink")、發行。
 
 ## 簡介
 
-2002年以[音樂製作專案db為背景](https://zh.wikipedia.org/wiki/音樂 "wikilink")，開始了個人的活動，6月終於以「Whenever
-I think
-you」[單曲出道](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年10月的第六張單曲「」一度進入日本[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")8名而收到矚目。亦由此[單曲開始](https://zh.wikipedia.org/wiki/單曲 "wikilink")，開始有[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")（吉他）、[大藪拓](https://zh.wikipedia.org/wiki/大藪拓 "wikilink")（貝斯）、[車谷啟介](../Page/車谷啟介.md "wikilink")（鼓手）的加入，開始了以4人所組成的[樂團活動](https://zh.wikipedia.org/wiki/樂團 "wikilink")。同時，三枝夕夏也提供歌詞給其他的[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，作為[作曲家的她亦獲得相當高的評價](https://zh.wikipedia.org/wiki/作曲家 "wikilink")。
+2002年以[音樂製作專案db為背景](https://zh.wikipedia.org/wiki/音樂 "wikilink")，開始了個人的活動，6月終於以「Whenever I think you」[單曲出道](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年10月的第六張單曲「」一度進入日本[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")8名而收到矚目。亦由此[單曲開始](https://zh.wikipedia.org/wiki/單曲 "wikilink")，開始有[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")（吉他）、[大藪拓](https://zh.wikipedia.org/wiki/大藪拓 "wikilink")（貝斯）、[車谷啟介](../Page/車谷啟介.md "wikilink")（鼓手）的加入，開始了以4人所組成的[樂團活動](https://zh.wikipedia.org/wiki/樂團 "wikilink")。同時，三枝夕夏也提供歌詞給其他的[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，作為[作曲家的她亦獲得相當高的評價](https://zh.wikipedia.org/wiki/作曲家 "wikilink")。
 
 2006年6月6日，三枝夕夏IN db發行精選集，作為他們5週年紀念。
 
 2009年10月三枝夕夏IN db在官網宣布於2010年1月的巡迴演出後解散。
 
-2010年1月 完成東京、名古屋及大阪的演唱會後三枝夕夏IN db
-正式解散，三枝夕夏以歌手名義作個人發展，不過事實是三枝夕夏正式從藝能界引退，db
-成員則繼續於藝能界活動。
+2010年1月 完成東京、名古屋及大阪的演唱會後三枝夕夏IN db 正式解散，三枝夕夏以歌手名義作個人發展，不過事實是三枝夕夏正式從藝能界引退，db 成員則繼續於藝能界活動。
 
 ## 成員
 
@@ -41,8 +33,7 @@ you」[單曲出道](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年1
 
 擔任：吉他
 
-1998年夏天組成\[New Cinema 蜥蜴\]。擔任作曲
-於吉他手。推出了11張單曲與2張專輯之後，於2002年夏天宣布解散。現在除了身為db的吉他手外，也以作曲家的身份活動著，主要提供曲是ZARD「」「」等。另外錄音室的工作中，他的合音能力也獲得好評。
+1998年夏天組成\[New Cinema 蜥蜴\]。擔任作曲 於吉他手。推出了11張單曲與2張專輯之後，於2002年夏天宣布解散。現在除了身為db的吉他手外，也以作曲家的身份活動著，主要提供曲是ZARD「」「」等。另外錄音室的工作中，他的合音能力也獲得好評。
 
   - **[大藪拓](https://zh.wikipedia.org/wiki/大藪拓 "wikilink")**（）
 
@@ -58,8 +49,7 @@ you」[單曲出道](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年1
 
 擔任：鼓手
 
-1998年夏天參加 \[New Cinema
-蜥蜴\]。擔任鼓手。推出了11張單曲與2張專輯之後，於2002年夏天宣布解散。現在除了身為db的鼓手外，也為其他的藝人進行指導。
+1998年夏天參加 \[New Cinema 蜥蜴\]。擔任鼓手。推出了11張單曲與2張專輯之後，於2002年夏天宣布解散。現在除了身為db的鼓手外，也為其他的藝人進行指導。
 
 ## 發行作品
 
@@ -333,7 +323,4 @@ GZCA-5212</p></td>
   - [三枝夕夏IN db 日本官方網站](http://www.uka-saegusa.com/)
   - [三枝夕夏IN db 官方部落格](http://blog.livedoor.jp/uka_db/)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
-[Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink")
-[Category:2010年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年解散的音樂團體 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink") [Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink") [Category:2010年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年解散的音樂團體 "wikilink")

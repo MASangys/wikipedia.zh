@@ -299,19 +299,10 @@ DoJa-5.0
 ## 外部連結
 
   - [DoJa Developer Network](http://www.doja-developer.net/)
-  - [NTT Docomo i-appli Development
-    Page](https://web.archive.org/web/20090503154818/http://www.nttdocomo.co.jp/english/service/imode/make/content/iappli/)
-  - [C\#/DoJa
-    Forum](https://web.archive.org/web/20090116020844/http://www.csharpjobs.net/forum/)
-  - [The Mobile Developer
-    Lab](https://web.archive.org/web/20160303231437/http://mobiledevlab.com/)
-    Free tutorials, forums, and source code on mobile programming
-    topics, including DoJa (原 [sarucode.com DoJa Programming
-    Wiki](http://www.sarucode.com/))
+  - [NTT Docomo i-appli Development Page](https://web.archive.org/web/20090503154818/http://www.nttdocomo.co.jp/english/service/imode/make/content/iappli/)
+  - [C\#/DoJa Forum](https://web.archive.org/web/20090116020844/http://www.csharpjobs.net/forum/)
+  - [The Mobile Developer Lab](https://web.archive.org/web/20160303231437/http://mobiledevlab.com/) Free tutorials, forums, and source code on mobile programming topics, including DoJa (原 [sarucode.com DoJa Programming Wiki](http://www.sarucode.com/))
   - [DoJa link portal](http://doja.startpagina.nl/)
-  - [DoJa developers mailing list
-    archive](http://www.appelsiini.net/keitai-l/)
+  - [DoJa developers mailing list archive](http://www.appelsiini.net/keitai-l/)
 
-[Category:行動電話](https://zh.wikipedia.org/wiki/Category:行動電話 "wikilink")
-[Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink")
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
+[Category:行動電話](https://zh.wikipedia.org/wiki/Category:行動電話 "wikilink") [Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")

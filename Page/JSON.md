@@ -1,22 +1,15 @@
-**JSON**（**J**ava**S**cript **O**bject
-**N**otation，JavaScript物件表示法）是一種由[道格拉斯·克羅克福特構想和設計](../Page/道格拉斯·克羅克福特.md "wikilink")、輕量級的[資料交換語言](https://zh.wikipedia.org/wiki/資料交換語言 "wikilink")，该语言以易於讓人閱讀的文字為基礎，用来传输由属性值或者序列性的值组成的数据对象。儘管JSON是[JavaScript的一個子集](../Page/JavaScript.md "wikilink")，但JSON是獨立於語言的[文本格式](../Page/文本文件.md "wikilink")，並且採用了類似於[C語言家族的一些習慣](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
+**JSON**（**J**ava**S**cript **O**bject **N**otation，JavaScript物件表示法，读作“Jason”）是一種由[道格拉斯·克羅克福特](../Page/道格拉斯·克羅克福特.md "wikilink")構想和設計、輕量級的[資料交換語言](https://zh.wikipedia.org/wiki/資料交換語言 "wikilink")，该语言以易於讓人閱讀的文字為基礎，用来传输由属性值或者序列性的值组成的数据对象。儘管JSON是[JavaScript](../Page/JavaScript.md "wikilink")的一個子集，但JSON是獨立於語言的[文本格式](../Page/文本文件.md "wikilink")，並且採用了類似於[C語言家族的一些習慣](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
 
-JSON
-数据格式与语言无关，脱胎自[JavaScript](../Page/JavaScript.md "wikilink")，但目前很多[编程语言都支持](../Page/编程语言.md "wikilink")
-JSON 格式数据的生成和[解析](https://zh.wikipedia.org/wiki/语法分析器 "wikilink")。JSON
-的官方 [MIME 类型是](../Page/互联网媒体类型.md "wikilink")
-`application/json`，文件扩展名是 `.json`。
+JSON 数据格式与语言无关，脱胎自[JavaScript](../Page/JavaScript.md "wikilink")，但目前很多[编程语言](../Page/编程语言.md "wikilink")都支持 JSON 格式数据的生成和[解析](https://zh.wikipedia.org/wiki/语法分析器 "wikilink")。JSON 的官方 [MIME 类型是](../Page/互联网媒体类型.md "wikilink") `application/json`，文件扩展名是 `.json`。
 
 ## 簡介
 
-JSON格式是1999年《*JavaScript Programming Language, Standard ECMA-262 3rd
-Edition*》的子集合，所以可以在[JavaScript以](../Page/JavaScript.md "wikilink")`eval()`函式（javascript通过eval()调用解析器）读入。不过这并不代表JSON无法使用于其他语言，事实上几乎所有与网页开发相关的语言都有JSON函式库。
+JSON格式是1999年《*JavaScript Programming Language, Standard ECMA-262 3rd Edition*》的子集合，所以可以在[JavaScript](../Page/JavaScript.md "wikilink")以`eval()`函式（javascript通过eval()调用解析器）读入。不过这并不代表JSON无法使用于其他语言，事实上几乎所有与网页开发相关的语言都有JSON函式库。
 
 JSON用于描述资料结构，有两种结构存在：
 
   - 对象（object）：一个对象包含一系列非排序的名称／值对(pair)，一个对象以<b>`{`</b>开始，并以<b>`}`</b>结束。每个名称／值对之间使用<b>`:`</b>分割。
-  - 数组
-    (array)：一个数组是一个值(value)的集合，一个数组以<b>`[`</b>開始，并以<b>`]`</b>结束。数组成員之间使用<b>`,`</b>分割。
+  - 数组 (array)：一个数组是一个值(value)的集合，一个数组以<b>`[`</b>開始，并以<b>`]`</b>结束。数组成員之间使用<b>`,`</b>分割。
 
 具体的格式如下：
 
@@ -28,8 +21,7 @@ JSON用于描述资料结构，有两种结构存在：
 {name:value}
 ```
 
-一個名稱是一個字符串；
-一个值(value)可以是一个字符串(string)，一个数值(number)，一个对象(object)，一个布尔值(bool)，一个有序列表(array)，或者一个null值。
+一個名稱是一個字符串； 一个值(value)可以是一个字符串(string)，一个数值(number)，一个对象(object)，一个布尔值(bool)，一个有序列表(array)，或者一个null值。
 
   - 字符串：以<b>`""`</b>括起来的一串字符。
   - 数值：一系列0-9的数字组合，可以为负数或者小数。还可以用<b>`e`</b>或者<b>`E`</b>表示为指数形式。
@@ -48,11 +40,11 @@ JSON的格式描述可以參考RFC 4627。
 
 ### WEB开发
 
-JSON最开始被广泛的应用于WEB应用的开发。不過目前JSON使用在[JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Node.js應用的情況比較多](../Page/Node.js.md "wikilink")，[PHP](../Page/PHP.md "wikilink")、[C\#等開發的WEB應用主要還是使用](../Page/C♯.md "wikilink")[XML](../Page/XML.md "wikilink")。
+JSON最开始被广泛的应用于WEB应用的开发。不過目前JSON使用在[JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Node.js](../Page/Node.js.md "wikilink")應用的情況比較多，[PHP](../Page/PHP.md "wikilink")、[C\#等開發的WEB應用主要還是使用](../Page/C♯.md "wikilink")[XML](../Page/XML.md "wikilink")。
 
 ### NoSQL数据库
 
-相对于传统的[关系型数据库](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")，一些基于文档存储的[NoSQL非关系型数据库选择JSON作为其数据存储格式](../Page/NoSQL.md "wikilink")，比较出名的产品有：[MongoDB](../Page/MongoDB.md "wikilink")、[CouchDB](https://zh.wikipedia.org/wiki/CouchDB "wikilink")、[RavenDB等](https://zh.wikipedia.org/wiki/RavenDB "wikilink")。
+相对于传统的[关系型数据库](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")，一些基于文档存储的[NoSQL](../Page/NoSQL.md "wikilink")非关系型数据库选择JSON作为其数据存储格式，比较出名的产品有：[MongoDB](../Page/MongoDB.md "wikilink")、[CouchDB](https://zh.wikipedia.org/wiki/CouchDB "wikilink")、[RavenDB等](https://zh.wikipedia.org/wiki/RavenDB "wikilink")。
 
 ## 举例
 
@@ -118,19 +110,17 @@ JSON最开始被广泛的应用于WEB应用的开发。不過目前JSON使用在
 
 ### 读取JSON
 
-由於JSON是[JavaScript的子集](../Page/JavaScript.md "wikilink")，所以一般都會使用`eval()`作為讀取資料的方式，如果是针对可靠的数据来源，在不支持原生JSON解析的浏览器上面这是最快速的方法。然而由于eval方法同样可以执行任意的JavaScript代码，因此当数据来源不可靠时则可能产生安全问题。如下面的例子，直接用eval执行时会跳转：
+由於JSON是[JavaScript](../Page/JavaScript.md "wikilink")的子集，所以一般都會使用`eval()`作為讀取資料的方式，如果是针对可靠的数据来源，在不支持原生JSON解析的浏览器上面这是最快速的方法。然而由于eval方法同样可以执行任意的JavaScript代码，因此当数据来源不可靠时则可能产生安全问题。如下面的例子，直接用eval执行时会跳转：
 
 ``` javascript
 var json= eval("{message:(function (){ window.location='http://zh.wikipedia.org/wiki/JSON#.E5.AE.89.E5.85.A8.E6.80.A7.E5.95.8F.E9.A1.8C'; })()}");
 ```
 
-其中一種防止不安全程式碼出現的解決辦法，是通过浏览器原生支持的JSON.parse（str）方法讀取JSON資料，目前已经得到大部分主流浏览器的支持（IE8+，Firefox
-3.5+，Chrome4+/Safari4+，Opera10+），在不支持原生JSON对象的浏览器上面可以使用`parseJSON`方法进行读取\[1\]，`parseJSON`採用解析器驗證讀入的程式碼是否真的是JSON程式碼，這樣就更安全。但由於這是用模擬的方式讀取，速度上會比`eval()`慢。
+其中一種防止不安全程式碼出現的解決辦法，是通过浏览器原生支持的JSON.parse（str）方法讀取JSON資料，目前已经得到大部分主流浏览器的支持（IE8+，Firefox 3.5+，Chrome4+/Safari4+，Opera10+），在不支持原生JSON对象的浏览器上面可以使用`parseJSON`方法进行读取\[1\]，`parseJSON`採用解析器驗證讀入的程式碼是否真的是JSON程式碼，這樣就更安全。但由於這是用模擬的方式讀取，速度上會比`eval()`慢。
 
 ### 跨站存取問題
 
-另外一個安全上的問題則是[跨站請求偽造](../Page/跨站请求伪造.md "wikilink")（Cross-site request
-forgery，簡稱CSRF或XSRF）。這個問題在Javascript中的狀況是，由於Javascript採用了稱為「[沙盒](https://zh.wikipedia.org/wiki/沙盒_\(計算機安全\) "wikilink")」的機制，這種機制限制Javascript引擎僅能引入同一個站點的程式碼，因而某種程度上提高了安全性。
+另外一個安全上的問題則是[跨站請求偽造](../Page/跨站请求伪造.md "wikilink")（Cross-site request forgery，簡稱CSRF或XSRF）。這個問題在Javascript中的狀況是，由於Javascript採用了稱為「[沙盒](https://zh.wikipedia.org/wiki/沙盒_\(計算機安全\) "wikilink")」的機制，這種機制限制Javascript引擎僅能引入同一個站點的程式碼，因而某種程度上提高了安全性。
 
 ## 與其他格式的比較
 
@@ -144,8 +134,7 @@ JSON與XML最大的不同在於XML是一個完整的[標記語言](https://zh.wi
 
 ### 格式化工具
 
-JSON格式取代了XML给网络传输带来了很大的便利，但是却没有了XML的一目了然，尤其是JSON数据很长的时候，会让人陷入繁琐复杂的数据节点查找中。开发者可以-{zh-cn:通过;
-zh-tw:使用;}-在线JSON格式化工具，来更方便的对JSON数据进行节点查找和解析。
+JSON格式取代了XML给网络传输带来了很大的便利，但是却没有了XML的一目了然，尤其是JSON数据很长的时候，会让人陷入繁琐复杂的数据节点查找中。开发者可以-{zh-cn:通过; zh-tw:使用;}-在线JSON格式化工具，来更方便的对JSON数据进行节点查找和解析。
 
 ## 參考文獻
 
@@ -163,7 +152,7 @@ zh-tw:使用;}-在线JSON格式化工具，来更方便的对JSON数据进行节
 
   - [JSON中文说明](http://www.json.org/json-zh.html)
 
-  - RFC 4627，JSON在[RFC裡的規格](../Page/RFC.md "wikilink")
+  - RFC 4627，JSON在[RFC](../Page/RFC.md "wikilink")裡的規格
 
   - [JSON格式化工具 (中文)](https://www.quackertools.com/zh/json)
 
@@ -179,9 +168,6 @@ zh-tw:使用;}-在线JSON格式化工具，来更方便的对JSON数据进行节
 
 {{-}}
 
-[Category:置標語言](https://zh.wikipedia.org/wiki/Category:置標語言 "wikilink")
-[Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink")
-[Category:数据序列化格式](https://zh.wikipedia.org/wiki/Category:数据序列化格式 "wikilink")
-[Category:JSON](https://zh.wikipedia.org/wiki/Category:JSON "wikilink")
+[Category:置標語言](https://zh.wikipedia.org/wiki/Category:置標語言 "wikilink") [Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink") [Category:数据序列化格式](https://zh.wikipedia.org/wiki/Category:数据序列化格式 "wikilink") [Category:JSON](https://zh.wikipedia.org/wiki/Category:JSON "wikilink")
 
 1.

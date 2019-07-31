@@ -1,63 +1,8 @@
-**週刊少年Jump連載作品列表**列出所有在[集英社的](../Page/集英社.md "wikilink")[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（創刊時為「少年Jump」）上連載的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")（按連載時間順序排列）。
+**週刊少年Jump連載作品列表**列出所有在[集英社](../Page/集英社.md "wikilink")的[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（創刊時為「少年Jump」）上連載的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")（按連載時間順序排列）。
 
 ※連載中的作品以**粗體字**標記。
 
-<onlyinclude>{|class="toc plainlinks" style="font-size:small" \!目錄 |-
-|　[連載作品](https://zh.wikipedia.org/wiki/#連載作品 "wikilink") |-
-|　　[1968](https://zh.wikipedia.org/wiki/#1968 "wikilink") -
-[1969](https://zh.wikipedia.org/wiki/#1969 "wikilink") -
-[1970](https://zh.wikipedia.org/wiki/#1970 "wikilink") |-
-|　　[1971](https://zh.wikipedia.org/wiki/#1971 "wikilink") -
-[1972](https://zh.wikipedia.org/wiki/#1972 "wikilink") -
-[1973](https://zh.wikipedia.org/wiki/#1973 "wikilink") -
-[1974](https://zh.wikipedia.org/wiki/#1974 "wikilink") -
-[1975](https://zh.wikipedia.org/wiki/#1975 "wikilink") -
-[1976](https://zh.wikipedia.org/wiki/#1976 "wikilink") -
-[1977](https://zh.wikipedia.org/wiki/#1977 "wikilink") -
-[1978](https://zh.wikipedia.org/wiki/#1978 "wikilink") -
-[1979](https://zh.wikipedia.org/wiki/#1979 "wikilink") -
-[1980](https://zh.wikipedia.org/wiki/#1980 "wikilink")　 |-
-|　　[1981](https://zh.wikipedia.org/wiki/#1981 "wikilink") -
-[1982](https://zh.wikipedia.org/wiki/#1982 "wikilink") -
-[1983](https://zh.wikipedia.org/wiki/#1983 "wikilink") -
-[1984](https://zh.wikipedia.org/wiki/#1984 "wikilink") -
-[1985](https://zh.wikipedia.org/wiki/#1985 "wikilink") -
-[1986](https://zh.wikipedia.org/wiki/#1986 "wikilink") -
-[1987](https://zh.wikipedia.org/wiki/#1987 "wikilink") -
-[1988](https://zh.wikipedia.org/wiki/#1988 "wikilink") -
-[1989](https://zh.wikipedia.org/wiki/#1989 "wikilink") -
-[1990](https://zh.wikipedia.org/wiki/#1990 "wikilink") |-
-|　　[1991](https://zh.wikipedia.org/wiki/#1991 "wikilink") -
-[1992](https://zh.wikipedia.org/wiki/#1992 "wikilink") -
-[1993](https://zh.wikipedia.org/wiki/#1993 "wikilink") -
-[1994](https://zh.wikipedia.org/wiki/#1994 "wikilink") -
-[1995](https://zh.wikipedia.org/wiki/#1995 "wikilink") -
-[1996](https://zh.wikipedia.org/wiki/#1996 "wikilink") -
-[1997](https://zh.wikipedia.org/wiki/#1997 "wikilink") -
-[1998](https://zh.wikipedia.org/wiki/#1998 "wikilink") -
-[1999](https://zh.wikipedia.org/wiki/#1999 "wikilink") -
-[2000](https://zh.wikipedia.org/wiki/#2000 "wikilink") |-
-|　　[2001](https://zh.wikipedia.org/wiki/#2001 "wikilink") -
-[2002](https://zh.wikipedia.org/wiki/#2002 "wikilink") -
-[2003](https://zh.wikipedia.org/wiki/#2003 "wikilink") -
-[2004](https://zh.wikipedia.org/wiki/#2004 "wikilink") -
-[2005](https://zh.wikipedia.org/wiki/#2005 "wikilink") -
-[2006](https://zh.wikipedia.org/wiki/#2006 "wikilink") -
-[2007](https://zh.wikipedia.org/wiki/#2007 "wikilink") -
-[2008](https://zh.wikipedia.org/wiki/#2008 "wikilink") -
-[2009](https://zh.wikipedia.org/wiki/#2009 "wikilink") -
-[2010](https://zh.wikipedia.org/wiki/#2010 "wikilink") |-
-|　　[2011](https://zh.wikipedia.org/wiki/#2011 "wikilink") -
-[2012](https://zh.wikipedia.org/wiki/#2012 "wikilink") -
-[2013](https://zh.wikipedia.org/wiki/#2013 "wikilink") -
-[2014](https://zh.wikipedia.org/wiki/#2014 "wikilink") -
-[2015](https://zh.wikipedia.org/wiki/#2015 "wikilink") -
-[2016](https://zh.wikipedia.org/wiki/#2016 "wikilink") -
-[2017](https://zh.wikipedia.org/wiki/#2017 "wikilink") -
-[2018](https://zh.wikipedia.org/wiki/#2018 "wikilink") -
-[2019](https://zh.wikipedia.org/wiki/#2019 "wikilink") |-
-|　[參見](https://zh.wikipedia.org/wiki/#參見 "wikilink")
-|}__NOTOC__</onlyinclude>
+<onlyinclude>{|class="toc plainlinks" style="font-size:small" \!目錄 |- |　[連載作品](https://zh.wikipedia.org/wiki/#連載作品 "wikilink") |- |　　[1968](https://zh.wikipedia.org/wiki/#1968 "wikilink") - [1969](https://zh.wikipedia.org/wiki/#1969 "wikilink") - [1970](https://zh.wikipedia.org/wiki/#1970 "wikilink") |- |　　[1971](https://zh.wikipedia.org/wiki/#1971 "wikilink") - [1972](https://zh.wikipedia.org/wiki/#1972 "wikilink") - [1973](https://zh.wikipedia.org/wiki/#1973 "wikilink") - [1974](https://zh.wikipedia.org/wiki/#1974 "wikilink") - [1975](https://zh.wikipedia.org/wiki/#1975 "wikilink") - [1976](https://zh.wikipedia.org/wiki/#1976 "wikilink") - [1977](https://zh.wikipedia.org/wiki/#1977 "wikilink") - [1978](https://zh.wikipedia.org/wiki/#1978 "wikilink") - [1979](https://zh.wikipedia.org/wiki/#1979 "wikilink") - [1980](https://zh.wikipedia.org/wiki/#1980 "wikilink")　 |- |　　[1981](https://zh.wikipedia.org/wiki/#1981 "wikilink") - [1982](https://zh.wikipedia.org/wiki/#1982 "wikilink") - [1983](https://zh.wikipedia.org/wiki/#1983 "wikilink") - [1984](https://zh.wikipedia.org/wiki/#1984 "wikilink") - [1985](https://zh.wikipedia.org/wiki/#1985 "wikilink") - [1986](https://zh.wikipedia.org/wiki/#1986 "wikilink") - [1987](https://zh.wikipedia.org/wiki/#1987 "wikilink") - [1988](https://zh.wikipedia.org/wiki/#1988 "wikilink") - [1989](https://zh.wikipedia.org/wiki/#1989 "wikilink") - [1990](https://zh.wikipedia.org/wiki/#1990 "wikilink") |- |　　[1991](https://zh.wikipedia.org/wiki/#1991 "wikilink") - [1992](https://zh.wikipedia.org/wiki/#1992 "wikilink") - [1993](https://zh.wikipedia.org/wiki/#1993 "wikilink") - [1994](https://zh.wikipedia.org/wiki/#1994 "wikilink") - [1995](https://zh.wikipedia.org/wiki/#1995 "wikilink") - [1996](https://zh.wikipedia.org/wiki/#1996 "wikilink") - [1997](https://zh.wikipedia.org/wiki/#1997 "wikilink") - [1998](https://zh.wikipedia.org/wiki/#1998 "wikilink") - [1999](https://zh.wikipedia.org/wiki/#1999 "wikilink") - [2000](https://zh.wikipedia.org/wiki/#2000 "wikilink") |- |　　[2001](https://zh.wikipedia.org/wiki/#2001 "wikilink") - [2002](https://zh.wikipedia.org/wiki/#2002 "wikilink") - [2003](https://zh.wikipedia.org/wiki/#2003 "wikilink") - [2004](https://zh.wikipedia.org/wiki/#2004 "wikilink") - [2005](https://zh.wikipedia.org/wiki/#2005 "wikilink") - [2006](https://zh.wikipedia.org/wiki/#2006 "wikilink") - [2007](https://zh.wikipedia.org/wiki/#2007 "wikilink") - [2008](https://zh.wikipedia.org/wiki/#2008 "wikilink") - [2009](https://zh.wikipedia.org/wiki/#2009 "wikilink") - [2010](https://zh.wikipedia.org/wiki/#2010 "wikilink") |- |　　[2011](https://zh.wikipedia.org/wiki/#2011 "wikilink") - [2012](https://zh.wikipedia.org/wiki/#2012 "wikilink") - [2013](https://zh.wikipedia.org/wiki/#2013 "wikilink") - [2014](https://zh.wikipedia.org/wiki/#2014 "wikilink") - [2015](https://zh.wikipedia.org/wiki/#2015 "wikilink") - [2016](https://zh.wikipedia.org/wiki/#2016 "wikilink") - [2017](https://zh.wikipedia.org/wiki/#2017 "wikilink") - [2018](https://zh.wikipedia.org/wiki/#2018 "wikilink") - [2019](https://zh.wikipedia.org/wiki/#2019 "wikilink") |- |　[參見](https://zh.wikipedia.org/wiki/#參見 "wikilink") |}__NOTOC__</onlyinclude>
 
 ## 連載作品
 
@@ -3332,7 +3277,7 @@
 </tr>
 <tr class="even">
 <td><p>339</p></td>
-<td><p><a href="../Page/花之慶次.md" title="wikilink">花之慶次－雲之彼方－</a></p></td>
+<td><p><a href="../Page/花之慶次.md" title="wikilink">花之慶次</a>－雲之彼方－</p></td>
 <td><p><a href="../Page/原哲夫.md" title="wikilink">原哲夫</a>（漫畫）</p></td>
 <td><p><a href="../Page/隆慶一郎.md" title="wikilink">隆慶一郎</a>（原作）</p></td>
 <td><p>1990.13</p></td>
@@ -6822,5 +6767,4 @@
 
   - [週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
 
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:漫畫相關列表](https://zh.wikipedia.org/wiki/Category:漫畫相關列表 "wikilink")
+[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:漫畫相關列表](https://zh.wikipedia.org/wiki/Category:漫畫相關列表 "wikilink")

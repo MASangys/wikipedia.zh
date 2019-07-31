@@ -37,8 +37,7 @@
   - [2011年](../Page/2011年.md "wikilink")，[新·大雄與鐵人兵團](../Page/新·大雄與鐵人兵團.md "wikilink")
   - [2012年](../Page/2012年.md "wikilink")，[大雄與奇蹟之島](https://zh.wikipedia.org/wiki/大雄與奇蹟之島 "wikilink")
   - [2013年](../Page/2013年.md "wikilink")，[大雄的秘密道具博物館](../Page/大雄的秘密道具博物館.md "wikilink")
-  - [2014年](../Page/2014年.md "wikilink")，[新·大雄的大魔境](../Page/新·大雄的大魔境.md "wikilink")、[STAND
-    BY ME 哆啦A夢](../Page/STAND_BY_ME_哆啦A夢.md "wikilink")
+  - [2014年](../Page/2014年.md "wikilink")，[新·大雄的大魔境](../Page/新·大雄的大魔境.md "wikilink")、[STAND BY ME 哆啦A夢](../Page/STAND_BY_ME_哆啦A夢.md "wikilink")
   - [2015年](../Page/2015年.md "wikilink")，[大雄的宇宙英雄記](https://zh.wikipedia.org/wiki/大雄的宇宙英雄記 "wikilink")
   - [2016年](../Page/2016年.md "wikilink")，[新·大雄的日本誕生](../Page/新·大雄的日本誕生.md "wikilink")
   - [2017年](../Page/2017年.md "wikilink")，[大雄的南极冰天雪地大冒险](https://zh.wikipedia.org/wiki/大雄的南极冰天雪地大冒险 "wikilink")

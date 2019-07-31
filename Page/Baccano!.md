@@ -1,5 +1,4 @@
-《**Baccano\!
-大騷動\!**》（亦譯《**永生之酒**》、《**因酒而狂**》）是[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[成田良悟所著的輕小說系列作品](../Page/成田良悟.md "wikilink")，並參加第九回電擊小說大獎，獲得金獎。2007年7月改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+《**Baccano\! 大騷動\!**》（亦譯《**永生之酒**》、《**因酒而狂**》）是[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作家[成田良悟](../Page/成田良悟.md "wikilink")所著的輕小說系列作品，並參加第九回電擊小說大獎，獲得金獎。2007年7月改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 概要
 
@@ -591,8 +590,7 @@ The Rolling Bootlegs</p></td>
 
 ## 遊戲
 
-於2008年2月28日，MediaWorks發售的NDS遊戲《》。 本作為DS電撃文庫的第5彈，以原作的『1931 鈍行編 / 特急編 The
-Grand Punk Railroad』兩作為中心。
+於2008年2月28日，MediaWorks發售的NDS遊戲《》。 本作為DS電撃文庫的第5彈，以原作的『1931 鈍行編 / 特急編 The Grand Punk Railroad』兩作為中心。
 
   - 本作有4點特徵
     ; 完全收錄原作文章
@@ -619,13 +617,4 @@ Grand Punk Railroad』兩作為中心。
 
   - [BACCANO\!官網](http://www.baccano.jp/index.html)
 
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:2007年日本电视动画](https://zh.wikipedia.org/wiki/Category:2007年日本电视动画 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:酒题材作品](https://zh.wikipedia.org/wiki/Category:酒题材作品 "wikilink")
-[Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
-[Category:長生不老題材作品](https://zh.wikipedia.org/wiki/Category:長生不老題材作品 "wikilink")
-[Category:WOWOW深夜動畫](https://zh.wikipedia.org/wiki/Category:WOWOW深夜動畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
+[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2007年日本电视动画](https://zh.wikipedia.org/wiki/Category:2007年日本电视动画 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:酒题材作品](https://zh.wikipedia.org/wiki/Category:酒题材作品 "wikilink") [Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink") [Category:長生不老題材作品](https://zh.wikipedia.org/wiki/Category:長生不老題材作品 "wikilink") [Category:WOWOW深夜動畫](https://zh.wikipedia.org/wiki/Category:WOWOW深夜動畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")

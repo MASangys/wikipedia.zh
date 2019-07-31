@@ -15,17 +15,13 @@
 | 武裝                                                                                                     |
 | 特殊裝置                                                                                                   |
 
-**GN-005 德天使GUNDAM（Gundam
-Virtue）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
-00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
-Suit），由提耶利亞·厄德所駕駛。
+**GN-005 德天使GUNDAM（Gundam Virtue）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile Suit），由提耶利亞·厄德所駕駛。
 
 ## 介紹
 
 天上人的第三世代GUNDAM之一，於2307年首次登場。由於機體中央搭載的GN-Drive產生的GN粒子，得到了接近無限的能源和令人驚異的高性能。
 
-德天使GUNDAM為重裝型機體，由於GN粒子有減輕重量的功能，重量只有人革聯量產機鐵人式的一半左右。本機擁有第三世代GUNDAM中最強大的火力，因此較適合對艦隊戰或要塞戰，由於機動性相對較差，本機能利用GN粒子於一定範圍內形成「GN力場（GN
-Field）」從以得到高防禦力。
+德天使GUNDAM為重裝型機體，由於GN粒子有減輕重量的功能，重量只有人革聯量產機鐵人式的一半左右。本機擁有第三世代GUNDAM中最強大的火力，因此較適合對艦隊戰或要塞戰，由於機動性相對較差，本機能利用GN粒子於一定範圍內形成「GN力場（GN Field）」從以得到高防禦力。
 
   - 名稱由來
 
@@ -50,8 +46,7 @@ Field）」從以得到高防禦力。
 <!-- end list -->
 
   -
-    於人革聯GUNDAM捕獲作戰中被6台鐵人式太空型捆縛著無法脫身，為避開鐵人桃子之致命一擊而被迫卸去外裝甲，因而導致機體內隱藏的[GN-004
-    中性GUNDAM暴光](https://zh.wikipedia.org/wiki/GN-004_中性GUNDAM "wikilink")。
+    於人革聯GUNDAM捕獲作戰中被6台鐵人式太空型捆縛著無法脫身，為避開鐵人桃子之致命一擊而被迫卸去外裝甲，因而導致機體內隱藏的[GN-004 中性GUNDAM暴光](https://zh.wikipedia.org/wiki/GN-004_中性GUNDAM "wikilink")。
 
 <!-- end list -->
 
@@ -78,8 +73,7 @@ Field）」從以得到高防禦力。
 <!-- end list -->
 
   -
-    首次也是唯一一次攜帶兩門GN火箭砲與聯合國軍交戰，遭AEU傭兵阿里·亞爾·沙瑟斯所俘虜之[座天使GUNDAM二型以GN獠牙穿透GN力場](https://zh.wikipedia.org/wiki/座天使GUNDAM二型 "wikilink")，於聯合國軍猛攻下首度使用GN粒子全面釋放系統「Trans-AM」，但因裝甲嚴重受損而須於下一次戰鬥以[GN-004
-    中性GUNDAM出擊](https://zh.wikipedia.org/wiki/GN-004_中性GUNDAM "wikilink")。
+    首次也是唯一一次攜帶兩門GN火箭砲與聯合國軍交戰，遭AEU傭兵阿里·亞爾·沙瑟斯所俘虜之[座天使GUNDAM二型以GN獠牙穿透GN力場](https://zh.wikipedia.org/wiki/座天使GUNDAM二型 "wikilink")，於聯合國軍猛攻下首度使用GN粒子全面釋放系統「Trans-AM」，但因裝甲嚴重受損而須於下一次戰鬥以[GN-004 中性GUNDAM出擊](https://zh.wikipedia.org/wiki/GN-004_中性GUNDAM "wikilink")。
 
 ## 武裝
 
@@ -183,8 +177,7 @@ GUNDAM待機時使用，使機體成隱形狀態。
 
 ## 參見
 
-  - [機動戰士GUNDAM
-    00兵器列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00兵器列表 "wikilink")
+  - [機動戰士GUNDAM 00兵器列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00兵器列表 "wikilink")
 
 [ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム "wikilink")
 

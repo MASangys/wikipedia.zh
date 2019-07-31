@@ -1,14 +1,12 @@
 [Maven_repository_artifact_growth.png](https://zh.wikipedia.org/wiki/File:Maven_repository_artifact_growth.png "fig:Maven_repository_artifact_growth.png")
 
-**Apache
-Maven**，是一个[软件](../Page/软件.md "wikilink")（特别是[Java软件](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")）[项目管理](../Page/项目管理.md "wikilink")及[自动构建工具](https://zh.wikipedia.org/wiki/自动构建 "wikilink")，由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")所提供。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。
+**Apache Maven**，是一个[软件](../Page/软件.md "wikilink")（特别是[Java软件](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")）[项目管理](../Page/项目管理.md "wikilink")及[自动构建工具](https://zh.wikipedia.org/wiki/自动构建 "wikilink")，由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")所提供。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。
 
 Maven也可被用于构建和管理各种项目，例如[C\#](../Page/C♯.md "wikilink")，[Ruby](../Page/Ruby.md "wikilink")，[Scala](../Page/Scala.md "wikilink")和其他语言编写的项目。Maven曾是[Jakarta项目](../Page/Jakarta项目.md "wikilink")的子项目，现为由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")主持的独立Apache项目。
 
 ## 示例
 
-Maven项目使用[项目对象模型](https://zh.wikipedia.org/wiki/项目对象模型 "wikilink")（Project
-Object Model，POM）来配置。
+Maven项目使用[项目对象模型](https://zh.wikipedia.org/wiki/项目对象模型 "wikilink")（Project Object Model，POM）来配置。
 
 项目对象模型存储在名为 pom.xml 的文件中。
 
@@ -54,8 +52,7 @@ Object Model，POM）来配置。
 
   - [Ivy](https://zh.wikipedia.org/wiki/Ivy "wikilink")，可作为替代的Java依赖管理工具
 
-  - [Gradle](../Page/Gradle.md "wikilink"), a build tool based on
-    convention over configuration
+  - [Gradle](../Page/Gradle.md "wikilink"), a build tool based on convention over configuration
 
   - [Hudson](../Page/Hudson_\(软件\).md "wikilink")
 
@@ -73,20 +70,12 @@ Object Model，POM）来配置。
 ## 外部链接
 
   - [Maven项目官方网站](http://maven.apache.org/)
-  - [Maven 2新手教程：Maven 2用户练习指南](http://docs.codehaus.org/display/MAVENUSER/The+Maven+2+tutorial)
-    -
-    教程在[Codehaus.org](https://web.archive.org/web/20161016223611/http://www.codehaus.org/)
+  - [Maven 2新手教程：Maven 2用户练习指南](http://docs.codehaus.org/display/MAVENUSER/The+Maven+2+tutorial) - 教程在[Codehaus.org](https://web.archive.org/web/20161016223611/http://www.codehaus.org/)
   - [完整参考](http://www.sonatype.com/books/mvnref-book/reference/)，一本已出版的并可免费在线阅读的书
   - [用Maven 2构建Web应用程序](https://web.archive.org/web/20110723234212/http://today.java.net/pub/a/today/2007/03/01/building-web-applications-with-maven-2.html)
-  - [Maven 2
-    POM揭秘](http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html)
-    - 文章在[JavaWorld](https://zh.wikipedia.org/wiki/JavaWorld "wikilink")
+  - [Maven 2 POM揭秘](http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html) - 文章在[JavaWorld](https://zh.wikipedia.org/wiki/JavaWorld "wikilink")
   - [在你的POM中验证依赖](https://web.archive.org/web/20111004231853/http://www.mavenbrowser.com/pom-report.html)
   - [Maven的历史](http://maven.apache.org/background/history-of-maven.html)
   - [用于PHP的Maven](http://www.php-maven.org/)
 
-[Category:編譯工具](https://zh.wikipedia.org/wiki/Category:編譯工具 "wikilink")
-[Category:自动化构建](https://zh.wikipedia.org/wiki/Category:自动化构建 "wikilink")
-[Category:Java開發工具](https://zh.wikipedia.org/wiki/Category:Java開發工具 "wikilink")
-[Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink")
-[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
+[Category:編譯工具](https://zh.wikipedia.org/wiki/Category:編譯工具 "wikilink") [Category:自动化构建](https://zh.wikipedia.org/wiki/Category:自动化构建 "wikilink") [Category:Java開發工具](https://zh.wikipedia.org/wiki/Category:Java開發工具 "wikilink") [Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink") [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")

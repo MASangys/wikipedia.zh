@@ -1,9 +1,8 @@
-《**Garden**》是[日本](../Page/日本.md "wikilink")[CUFFS於](../Page/CUFFS.md "wikilink")2008年1月25日所發行的[十八禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。
+《**Garden**》是[日本](../Page/日本.md "wikilink")[CUFFS](../Page/CUFFS.md "wikilink")於2008年1月25日所發行的[十八禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。
 
 ## 概要
 
-《**Garden**》於2008年1月25日在[日本地區發售的](../Page/日本.md "wikilink")[十八禁遊戲](../Page/日本成人遊戲.md "wikilink")，為[CUFFS的第五款遊戲](../Page/CUFFS.md "wikilink")。主要製作人員與CUFFS的第一款作品《[櫻花繫結](https://zh.wikipedia.org/wiki/櫻花結 "wikilink")（）》以及[F\&C
-01的](../Page/F&C.md "wikilink")《[水月](https://zh.wikipedia.org/wiki/水月_\(遊戲\) "wikilink")》的原畫家[☆畫野朗與劇本家](https://zh.wikipedia.org/wiki/☆畫野朗 "wikilink")[殿池大輔](https://zh.wikipedia.org/wiki/殿池大輔 "wikilink")\[1\]組合。與之前CUFFS的作品一樣，主題曲是由[Duca](https://zh.wikipedia.org/wiki/Duca "wikilink")（作曲：[安瀨聖](https://zh.wikipedia.org/wiki/安瀨聖 "wikilink")）所擔任。
+《**Garden**》於2008年1月25日在[日本](../Page/日本.md "wikilink")地區發售的[十八禁遊戲](../Page/日本成人遊戲.md "wikilink")，為[CUFFS](../Page/CUFFS.md "wikilink")的第五款遊戲。主要製作人員與CUFFS的第一款作品《[櫻花繫結](https://zh.wikipedia.org/wiki/櫻花結 "wikilink")（）》以及[F\&C 01的](../Page/F&C.md "wikilink")《[水月](https://zh.wikipedia.org/wiki/水月_\(遊戲\) "wikilink")》的原畫家[☆畫野朗與劇本家](https://zh.wikipedia.org/wiki/☆畫野朗 "wikilink")[殿池大輔](https://zh.wikipedia.org/wiki/殿池大輔 "wikilink")\[1\]組合。與之前CUFFS的作品一樣，主題曲是由[Duca](https://zh.wikipedia.org/wiki/Duca "wikilink")（作曲：[安瀨聖](https://zh.wikipedia.org/wiki/安瀨聖 "wikilink")）所擔任。
 
 在發售之前由的漫畫在CUFFS的官方網站上公開，在官方網站提供下載的桌布有[荒木加直](https://zh.wikipedia.org/wiki/荒木加直 "wikilink")、[矢野拓海](https://zh.wikipedia.org/wiki/矢野拓海 "wikilink")、[香川友信](https://zh.wikipedia.org/wiki/香川友信 "wikilink")、[秋乃武彥等人的作品](https://zh.wikipedia.org/wiki/秋乃武彥 "wikilink")。
 
@@ -55,8 +54,7 @@
 ## 主題曲
 
   - 片頭曲「」
-    作詞：[Duca](https://zh.wikipedia.org/wiki/Duca "wikilink")、作曲、編曲：[ANZE
-    HIJIRI](https://zh.wikipedia.org/wiki/安瀨聖 "wikilink")、歌：Duca
+    作詞：[Duca](https://zh.wikipedia.org/wiki/Duca "wikilink")、作曲、編曲：[ANZE HIJIRI](https://zh.wikipedia.org/wiki/安瀨聖 "wikilink")、歌：Duca
   - 片尾曲「」
     作詞：Duca、作曲、編曲：ANZE HIJIRI、歌：Duca
 
@@ -102,8 +100,7 @@
 
 <!-- end list -->
 
-  - [Getchu.com：Garden
-    初回限定版（CUFFS）](http://www.getchu.com/soft.phtml?id=360305)
+  - [Getchu.com：Garden 初回限定版（CUFFS）](http://www.getchu.com/soft.phtml?id=360305)
 
 <!-- end list -->
 
@@ -118,11 +115,7 @@
   - [CUFFS OFFICIAL HOMEPAGE](http://www.cuffs.co.jp/)
   - [Garden](http://www.cuffs.co.jp/products/garden/)
 
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
-[Category:CUFFS游戏](https://zh.wikipedia.org/wiki/Category:CUFFS游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:CUFFS游戏](https://zh.wikipedia.org/wiki/Category:CUFFS游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.  日文原名為，目前並無固定中文譯名，暫譯之。
 2.

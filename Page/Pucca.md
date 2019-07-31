@@ -13,8 +13,7 @@
 
 ### Flash動畫
 
-初期的Pucca是由Vooz公司自行以[Macromedia
-Flash製作為線上播放的Flash動畫系列](https://zh.wikipedia.org/wiki/Macromedia_Flash "wikilink")。當時的故事純粹以Pucca如何從Garu偷吻的短篇為中心，並大多集中在兩人互動上。由於故事中完全沒有對話，使得世界各地都能理解劇情並廣泛流傳。當時故事整體架構還未完整，直到電視動畫版才出現現在設定。
+初期的Pucca是由Vooz公司自行以[Macromedia Flash製作為線上播放的Flash動畫系列](https://zh.wikipedia.org/wiki/Macromedia_Flash "wikilink")。當時的故事純粹以Pucca如何從Garu偷吻的短篇為中心，並大多集中在兩人互動上。由於故事中完全沒有對話，使得世界各地都能理解劇情並廣泛流傳。當時故事整體架構還未完整，直到電視動畫版才出現現在設定。
 
 ### 電視動畫
 
@@ -93,11 +92,8 @@ Flash製作為線上播放的Flash動畫系列](https://zh.wikipedia.org/wiki/Ma
 ## 外部連結
 
   - [Pucca官方網站](http://www.puccaclub.com)
-  - [Vooz Co.,
-    Ltd.](https://web.archive.org/web/20180809034842/http://vooz.co.kr/)
+  - [Vooz Co., Ltd.](https://web.archive.org/web/20180809034842/http://vooz.co.kr/)
   - [英國Jetix](http://www.jetix.co.uk/localise/pucca/)
   - [迪士尼頻道](http://tv.disney.go.com/jetix/pucca/index.html)
 
-[Category:迪士尼](https://zh.wikipedia.org/wiki/Category:迪士尼 "wikilink")
-[Category:韓國動畫](https://zh.wikipedia.org/wiki/Category:韓國動畫 "wikilink")
-[Category:Flash動畫](https://zh.wikipedia.org/wiki/Category:Flash動畫 "wikilink")
+[Category:迪士尼](https://zh.wikipedia.org/wiki/Category:迪士尼 "wikilink") [Category:韓國動畫](https://zh.wikipedia.org/wiki/Category:韓國動畫 "wikilink") [Category:Flash動畫](https://zh.wikipedia.org/wiki/Category:Flash動畫 "wikilink")

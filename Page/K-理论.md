@@ -1,7 +1,6 @@
 在[数学](../Page/数学.md "wikilink")中，**K-理论**（）是多个领域使用的一个工具。在[代数拓扑](../Page/代数拓扑.md "wikilink")中，它是一种[异常上同调](https://zh.wikipedia.org/wiki/异常上同调 "wikilink")，称为[拓扑K-理论](../Page/拓扑K-理论.md "wikilink")；在[代数](../Page/代数.md "wikilink")与[代数几何](../Page/代数几何.md "wikilink")中，称之为[代数K-理论](https://zh.wikipedia.org/wiki/代数K-理论 "wikilink")；在[算子代数中也有诸多应用](https://zh.wikipedia.org/wiki/算子代数 "wikilink")。它导致了一类*K*-[函子](../Page/函子.md "wikilink")构造，K-函子包含了有用、却难以计算的信息。
 
-在[物理学](../Page/物理学.md "wikilink")中，K-理论特别是出现在[第二型弦理論](https://zh.wikipedia.org/wiki/第二型弦理論 "wikilink")，其中猜测它们可分类[D-膜](https://zh.wikipedia.org/wiki/D-膜 "wikilink")、以及广义[复流形上某些](https://zh.wikipedia.org/wiki/复流形 "wikilink")[旋量](../Page/旋量.md "wikilink")。具体细节参见[K-理论
-(物理)](https://zh.wikipedia.org/wiki/K-理论_\(物理\) "wikilink")。
+在[物理学](../Page/物理学.md "wikilink")中，K-理论特别是出现在[第二型弦理論](https://zh.wikipedia.org/wiki/第二型弦理論 "wikilink")，其中猜测它们可分类[D-膜](https://zh.wikipedia.org/wiki/D-膜 "wikilink")、以及广义[复流形上某些](https://zh.wikipedia.org/wiki/复流形 "wikilink")[旋量](../Page/旋量.md "wikilink")。具体细节参见[K-理论 (物理)](https://zh.wikipedia.org/wiki/K-理论_\(物理\) "wikilink")。
 
 ## 早期历史
 
@@ -37,11 +36,9 @@
 
   - （阿蒂亚在哈佛的介绍性课程，基于D. W. Anderson的笔记出版。由定义向量丛开始，不需要多少高深数学。）
 
-  - Max Karoubi, [K-theory, an
-    introduction](https://web.archive.org/web/20070913181033/http://www.institut.math.jussieu.fr/~karoubi/KBook.html)（1978）Springer-Verlag
+  - Max Karoubi, [K-theory, an introduction](https://web.archive.org/web/20070913181033/http://www.institut.math.jussieu.fr/~karoubi/KBook.html)（1978）Springer-Verlag
 
-  - Allen Hatcher, *[Vector Bundles &
-    K-Theory](http://www.math.cornell.edu/~hatcher/VBKT/VBpage.html)*，（2003）
+  - Allen Hatcher, *[Vector Bundles & K-Theory](http://www.math.cornell.edu/~hatcher/VBKT/VBpage.html)*，（2003）
 
   -
   -
@@ -49,16 +46,11 @@
   -
   -
   -
-  - [Max Karoubi's
-    Page](https://web.archive.org/web/20100331192334/http://www.math.jussieu.fr/~karoubi/)
+  - [Max Karoubi's Page](https://web.archive.org/web/20100331192334/http://www.math.jussieu.fr/~karoubi/)
 
 ## 注释
 
-[Category:代数](https://zh.wikipedia.org/wiki/Category:代数 "wikilink")
-[Category:代数拓扑](https://zh.wikipedia.org/wiki/Category:代数拓扑 "wikilink")
-[Category:K-理论](https://zh.wikipedia.org/wiki/Category:K-理论 "wikilink")
+[Category:代数](https://zh.wikipedia.org/wiki/Category:代数 "wikilink") [Category:代数拓扑](https://zh.wikipedia.org/wiki/Category:代数拓扑 "wikilink") [Category:K-理论](https://zh.wikipedia.org/wiki/Category:K-理论 "wikilink")
 
 1.
-2.  由Ruben Minasian（http://string.lpthe.jussieu.fr/members.pl?key=7）和
-    <http://www.physics.rutgers.edu/~gmoore>) 于[K-theory and
-    Ramond-Ramond Charge](http://xxx.lanl.gov/abs/hep-th/9710230)中提出。
+2.  由Ruben Minasian（http://string.lpthe.jussieu.fr/members.pl?key=7）和 <http://www.physics.rutgers.edu/~gmoore>) 于[K-theory and Ramond-Ramond Charge](http://xxx.lanl.gov/abs/hep-th/9710230)中提出。

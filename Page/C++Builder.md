@@ -1,15 +1,6 @@
-**C++Builder**
-是一個用於在Windows平台上撰寫[C++](../Page/C++.md "wikilink")語言應用程式的快速化程式開發（[RAD](https://zh.wikipedia.org/wiki/RAD "wikilink")，Rapid
-Application
-Development）的整合開發環境（[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，Integrated
-Development
-Environment），原係由[Borland](../Page/Borland.md "wikilink")公司所開發銷售，現在此產品則歸屬於Embarcadero
-Technologies旗下的子公司Codegear。
+**C++Builder** 是一個用於在Windows平台上撰寫[C++](../Page/C++.md "wikilink")語言應用程式的快速化程式開發（[RAD](https://zh.wikipedia.org/wiki/RAD "wikilink")，Rapid Application Development）的整合開發環境（[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，Integrated Development Environment），原係由[Borland](../Page/Borland.md "wikilink")公司所開發銷售，現在此產品則歸屬於Embarcadero Technologies旗下的子公司Codegear。
 
-C++Builder把由[Delphi](../Page/Delphi.md "wikilink")開發出來的IDE和[VCL](https://zh.wikipedia.org/wiki/VCL "wikilink")（Visual
-Component
-Library）與C++[編譯器](../Page/編譯器.md "wikilink")結合。此系列產品的開發週期通常是先在Delphi上作重要的改進，然後再用到C++Builder上。在Delphi上所開發的主要元件通常無須修改就可以給C++Builder使用，但C++
-Builder的元件卻不一定能給Delphi使用。
+C++Builder把由[Delphi](../Page/Delphi.md "wikilink")開發出來的IDE和[VCL](https://zh.wikipedia.org/wiki/VCL "wikilink")（Visual Component Library）與C++[編譯器](../Page/編譯器.md "wikilink")結合。此系列產品的開發週期通常是先在Delphi上作重要的改進，然後再用到C++Builder上。在Delphi上所開發的主要元件通常無須修改就可以給C++Builder使用，但C++ Builder的元件卻不一定能給Delphi使用。
 
 C++Builder的開發環境中包含了[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")（WYSIWYG）的圖形使用者介面（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")）設計工具，是最早導入簡易的、真正可以用拖拉方式進行軟體開發的程式設計工具之一。
 
@@ -42,8 +33,7 @@ C++Builder的開發環境中包含了[所見即所得](https://zh.wikipedia.org/
 
 ## 兼容性
 
-Windows操作系统中由Microsoft编译器生成的.obj与.lib文件不能直接用于C++Builder.
-需要用C++Builder自带的工具软件转换：
+Windows操作系统中由Microsoft编译器生成的.obj与.lib文件不能直接用于C++Builder. 需要用C++Builder自带的工具软件转换：
 
 `  coff2omf.exe -lib:st oldFormat.lib newFormat.lib`
 
@@ -68,6 +58,4 @@ Windows操作系统中由Microsoft编译器生成的.obj与.lib文件不能直�
 
   - [C++Builder](http://www.embarcadero.com/products/cbuilder)
 
-[Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink")
-[Category:C++編譯器](https://zh.wikipedia.org/wiki/Category:C++編譯器 "wikilink")
-[Category:图形用户界面设计器](https://zh.wikipedia.org/wiki/Category:图形用户界面设计器 "wikilink")
+[Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:C++編譯器](https://zh.wikipedia.org/wiki/Category:C++編譯器 "wikilink") [Category:图形用户界面设计器](https://zh.wikipedia.org/wiki/Category:图形用户界面设计器 "wikilink")

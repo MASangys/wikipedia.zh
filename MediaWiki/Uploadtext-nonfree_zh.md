@@ -1,5 +1,4 @@
-\-{H|zh-hans:文件; zh-hant:檔案;}- -{H|zh-hans:链接; zh-hant:連結;}-
--{H|zh-hans:向导; zh-hant:精靈;}-
+\-{H|zh-hans:文件; zh-hant:檔案;}- -{H|zh-hans:链接; zh-hant:連結;}- -{H|zh-hans:向导; zh-hant:精靈;}-
 
 <table>
 <tbody>

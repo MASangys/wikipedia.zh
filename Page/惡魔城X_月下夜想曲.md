@@ -1,6 +1,4 @@
-是由[科樂美](../Page/科樂美.md "wikilink")开发的[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation](../Page/PlayStation.md "wikilink")平台发售，后又推出了[Sega
-Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为《[惡魔城X
-血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏](../Page/类银河战士恶魔城游戏.md "wikilink")的基本风格。作品一改以往风格，大量增加養成與隱藏要素，為當時[橫向捲軸遊戲之創舉](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
+是由[科樂美](../Page/科樂美.md "wikilink")开发的[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation](../Page/PlayStation.md "wikilink")平台发售，后又推出了[Sega Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为《[惡魔城X 血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏](../Page/类银河战士恶魔城游戏.md "wikilink")的基本风格。作品一改以往风格，大量增加養成與隱藏要素，為當時[橫向捲軸遊戲之創舉](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
 
 ## 角色介绍
 
@@ -13,8 +11,7 @@ Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为�
     另號德古拉（ドラキュラ），傳奇的吸血鬼之王，艾卡多的生父；數年前被里希達‧貝爾蒙多所封印但再次復活，為本遊戲隱藏的真正大BOSS。
   - 瑪莉雅‧雷納德（マリア・ラーネッド、Maria Renard）
     配音：[横山智佐](../Page/横山智佐.md "wikilink")
-    里希達‧貝爾蒙多的戀人安妮特‧雷納德（アネット・ラーネッド、Annette
-    Renard）之妹，具有操控東方[四聖獸的特殊力量](https://zh.wikipedia.org/wiki/四聖獸 "wikilink")。
+    里希達‧貝爾蒙多的戀人安妮特‧雷納德（アネット・ラーネッド、Annette Renard）之妹，具有操控東方[四聖獸的特殊力量](https://zh.wikipedia.org/wiki/四聖獸 "wikilink")。
     一年前里希達失蹤之後她開始四處尋找其下落，遇到惡魔城之後，她相信里希達就在這裡，因此自己闖了進來。
   - 里希達‧貝爾蒙多（リヒター‧ベルモント、Richter Belmont）
     配音：[梁田清之](../Page/梁田清之.md "wikilink")
@@ -54,8 +51,7 @@ Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为�
 
 **主線故事**
 
-艾卡多沒多久遇到伯爵的忠實僕人——[死神](../Page/死神.md "wikilink")，並拒絕了勸說，而被奪走身上的所有裝備。艾卡多繼續向城堡深入探索。在城堡中數次遇到了瑪莉雅。瑪莉雅也拜託艾卡多幫忙尋找里希達。
-後來，艾卡多遇到里希達，里希達卻自稱「城主」，並召喚惡魔來襲擊他。擊退惡魔後里希達不知去向。
+艾卡多沒多久遇到伯爵的忠實僕人——[死神](../Page/死神.md "wikilink")，並拒絕了勸說，而被奪走身上的所有裝備。艾卡多繼續向城堡深入探索。在城堡中數次遇到了瑪莉雅。瑪莉雅也拜託艾卡多幫忙尋找里希達。 後來，艾卡多遇到里希達，里希達卻自稱「城主」，並召喚惡魔來襲擊他。擊退惡魔後里希達不知去向。
 
   -
     **第一種結局**
@@ -75,13 +71,7 @@ Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为�
 
 ## 發售
 
-游戏的PlayStation版本发行于1997年，相应的Sega Saturn版本发行于1998年。2007年3月，移植至[Xbox
-360平台](../Page/Xbox_360.md "wikilink")。2007年10月，《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》於[PlayStation
-Portable平台發售](../Page/PlayStation_Portable.md "wikilink")，其中也收錄了PS版的月下。2018年10月26日，《惡魔城X
-精選集：月下夜想曲＆血之輪迴》於[PlayStation
-4平台發售](../Page/PlayStation_4.md "wikilink")，該版本的月下移植至PlayStation
-Portable版遊戲，提供更高的解析度。\[1\]。PlayStation Portable與PlayStation
-4版基本上皆以PlayStation版本進行移植，沒有Sega Saturn版本新增的地圖內容。
+游戏的PlayStation版本发行于1997年，相应的Sega Saturn版本发行于1998年。2007年3月，移植至[Xbox 360平台](../Page/Xbox_360.md "wikilink")。2007年10月，《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》於[PlayStation Portable平台發售](../Page/PlayStation_Portable.md "wikilink")，其中也收錄了PS版的月下。2018年10月26日，《惡魔城X 精選集：月下夜想曲＆血之輪迴》於[PlayStation 4平台發售](../Page/PlayStation_4.md "wikilink")，該版本的月下移植至PlayStation Portable版遊戲，提供更高的解析度。\[1\]。PlayStation Portable與PlayStation 4版基本上皆以PlayStation版本進行移植，沒有Sega Saturn版本新增的地圖內容。
 
 ## 版本差異
 
@@ -105,8 +95,7 @@ Portable版遊戲，提供更高的解析度。\[1\]。PlayStation Portable與Pl
 
 <!-- end list -->
 
-  - 改良版（[The Best版](../Page/The_Best.md "wikilink")、[PS
-    one](https://zh.wikipedia.org/wiki/PS_one "wikilink") Books版）
+  - 改良版（[The Best版](../Page/The_Best.md "wikilink")、[PS one](https://zh.wikipedia.org/wiki/PS_one "wikilink") Books版）
 
 <!-- end list -->
 
@@ -132,8 +121,7 @@ Portable版遊戲，提供更高的解析度。\[1\]。PlayStation Portable與Pl
 
 ### Xbox 360版
 
-  - 僅透過[Xbox Live
-    Arcade發售](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")，完整移植自PS改良版。
+  - 僅透過[Xbox Live Arcade發售](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")，完整移植自PS改良版。
   - 提供原始版&[抗鋸齒兩種畫面模式](https://zh.wikipedia.org/wiki/抗鋸齒 "wikilink")。
   - 新增排行榜與[成就功能](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")。\[4\]
 
@@ -147,15 +135,13 @@ Portable版遊戲，提供更高的解析度。\[1\]。PlayStation Portable與Pl
 
 ### PS4版
 
-收錄於2018年的《惡魔城X
-精選集：月下夜想曲＆血之輪迴》，PS4版的月下基本上與PSP《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》收錄的內容相同，差異在於解析度提升、支援[PSN](https://zh.wikipedia.org/wiki/PSN "wikilink")[獎盃](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")。\[7\]
+收錄於2018年的《惡魔城X 精選集：月下夜想曲＆血之輪迴》，PS4版的月下基本上與PSP《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》收錄的內容相同，差異在於解析度提升、支援[PSN](https://zh.wikipedia.org/wiki/PSN "wikilink")[獎盃](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")。\[7\]
 
 ## 評價
 
 **遊戲本體評價**
 
-《惡魔城X
-月下夜想曲》是惡魔城系列的風格轉換的標誌性作品，也是普遍認為的惡魔城系列的巔峰之作。以往的惡魔城均是單純的動作類遊戲，以貝爾蒙特家族的人物為主角，武器只有鞭子和少數幾種副武器。人物動作僵硬，遊戲難度極高。
+《惡魔城X 月下夜想曲》是惡魔城系列的風格轉換的標誌性作品，也是普遍認為的惡魔城系列的巔峰之作。以往的惡魔城均是單純的動作類遊戲，以貝爾蒙特家族的人物為主角，武器只有鞭子和少數幾種副武器。人物動作僵硬，遊戲難度極高。
 
 從月下夜想曲開始，惡魔城轉化為動作探險遊戲，之後的大多數作品均定於此類型。本作中不再以貝爾蒙特家族的人物為主角。武器也不再侷限於鞭子（根據官方劇情紀年表，從這一年開始，正統的貝魯蒙特家族從人們的視線中消失了，他們的聖鞭被轉交給了莫里斯家族。直到1999年，尤里烏斯．貝魯蒙特才重新將貝魯蒙特一族帶回人們的視線之中），而是從拳腳到魔法，以及刀、劍、杖，盾牌，甚至消耗性的梭鏢都有。等級、裝備、魔導器、變身、使魔等系統的引入也極大豐富了遊戲體驗。遊戲開始擁有劇情，並且帶有人物配音。但這也使有些玩家批評該作有難度較低，道具整理不方便等缺點。
 
@@ -167,8 +153,7 @@ Portable版遊戲，提供更高的解析度。\[1\]。PlayStation Portable與Pl
 
 對於小島文美，已經到了科樂美使用別人的人設就會引起某些玩家不滿的地步。
 
-對於山根實知琉，原生音樂專輯亦大受玩家追捧。其中的《Lost
-Painting》還曾脫離專輯，以《失色的油彩》的名字廣為流傳，足見其受歡迎的程度。（Lost也作「遺失」解，亦有翻成「失落的彩繪」等名稱）
+對於山根實知琉，原生音樂專輯亦大受玩家追捧。其中的《Lost Painting》還曾脫離專輯，以《失色的油彩》的名字廣為流傳，足見其受歡迎的程度。（Lost也作「遺失」解，亦有翻成「失落的彩繪」等名稱）
 
 ## 参考資料
 
@@ -176,12 +161,7 @@ Painting》還曾脫離專輯，以《失色的油彩》的名字廣為流傳，
 
   - [悪魔城ドラキュラシリーズ総合サイト](http://www.konami.jp/gs/game/dracula/)KONAMI
 
-[Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink")
-[Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:類銀河戰士惡魔城遊戲](https://zh.wikipedia.org/wiki/Category:類銀河戰士惡魔城遊戲 "wikilink")
+[Category:恶魔城系列电子游戏](https://zh.wikipedia.org/wiki/Category:恶魔城系列电子游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink") [Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:類銀河戰士惡魔城遊戲](https://zh.wikipedia.org/wiki/Category:類銀河戰士惡魔城遊戲 "wikilink")
 
 1.
 2.

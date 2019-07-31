@@ -1,5 +1,4 @@
-**ZTZ-96主战坦克**（**Z**代表[装甲车辆](https://zh.wikipedia.org/wiki/装甲车辆 "wikilink")、**T**代表[坦克](../Page/坦克.md "wikilink")、**Z**代表主战，简称96式坦克）是[中华人民共和国自行研制](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、于1990年代中后期投入量产并列装[中国人民解放军](../Page/中国人民解放军.md "wikilink")的中国国产第三代[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")。是[80式](../Page/80式坦克.md "wikilink")-[85式](../Page/85式主战坦克.md "wikilink")-[88式一系列二代坦克衍生型的大幅改进最终成果和集大成者](../Page/88式坦克.md "wikilink")，曾一度称为**88C**，也有划分为"准三代"主战坦克。ZTZ-96坦克在1999年庆祝中华人民共和国成立五十周年阅兵式中首次公开亮相。
-其改进型**ZTZ-96A**于2005年中国解放军坦克部队开始换装。而最新改进型**ZTZ-96B**于2016俄罗斯国际军事竞赛首度亮相。\[1\]
+**ZTZ-96主战坦克**（**Z**代表[装甲车辆](https://zh.wikipedia.org/wiki/装甲车辆 "wikilink")、**T**代表[坦克](../Page/坦克.md "wikilink")、**Z**代表主战，简称96式坦克）是[中华人民共和国自行研制](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、于1990年代中后期投入量产并列装[中国人民解放军](../Page/中国人民解放军.md "wikilink")的中国国产第三代[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")。是[80式](../Page/80式坦克.md "wikilink")-[85式](../Page/85式主战坦克.md "wikilink")-[88式一系列二代坦克衍生型的大幅改进最终成果和集大成者](../Page/88式坦克.md "wikilink")，曾一度称为**88C**，也有划分为"准三代"主战坦克。ZTZ-96坦克在1999年庆祝中华人民共和国成立五十周年阅兵式中首次公开亮相。 其改进型**ZTZ-96A**于2005年中国解放军坦克部队开始换装。而最新改进型**ZTZ-96B**于2016俄罗斯国际军事竞赛首度亮相。\[1\]
 
 全部96式坦克的装备数量在2500輛以上，是21世纪初[中国人民解放军陆军](../Page/中国人民解放军陆军.md "wikilink")装备的主力坦克。相对于造价昂贵的[99式主战坦克](https://zh.wikipedia.org/wiki/99式主战坦克 "wikilink")，96式坦克及其改进型的成本较低，火力和防护力指标满足需求，单坦克性价比凸出可节省经费，适合大批量生产装备部队，且可弥补99式坦克成熟大批量产前的空档期，两者形成了高低搭配组合。
 
@@ -19,21 +18,17 @@
 
 ### 整体设计
 
-[TankBiathlon14final-11.jpg](https://zh.wikipedia.org/wiki/File:TankBiathlon14final-11.jpg "fig:TankBiathlon14final-11.jpg")
-96式坦克车体采用传统总体布局，战斗室位于车体中部，前部与驾驶室相通，其后是用隔板隔离的动力室，外型尺寸与88式坦克相似。96式坦克配备仿制改进自俄制2A46M-1型滑膛炮的[ZPT-98型](../Page/ZPT-98坦克炮.md "wikilink")125毫米滑膛炮，代替88式坦克的105毫米口径线膛炮，带吊篮式自动装弹机，配有分装式的次口径[尾翼稳定脱壳穿甲弹](https://zh.wikipedia.org/wiki/尾翼稳定脱壳穿甲弹 "wikilink")、尾翼稳定空心装药[破甲弹和多用途杀伤爆破](https://zh.wikipedia.org/wiki/破甲弹 "wikilink")[榴弹](https://zh.wikipedia.org/wiki/榴弹 "wikilink")，3人制乘员。采用[焊接](../Page/焊接.md "wikilink")[锻造炮塔取代](https://zh.wikipedia.org/wiki/锻造 "wikilink")88式坦克传统的苏式半球形[铸造炮塔](https://zh.wikipedia.org/wiki/铸造 "wikilink")。动力系统装用780马力横置V型12缸柴油发动机。改进的96A坦克长处表现在火力和防护力，但突显的动力不够强劲的问题是先天缺陷，而96B則有一定改進。96式坦克总重低于99式坦克，相比更适合于中国南方的水网稻田丘陵地区。
+[TankBiathlon14final-11.jpg](https://zh.wikipedia.org/wiki/File:TankBiathlon14final-11.jpg "fig:TankBiathlon14final-11.jpg") 96式坦克车体采用传统总体布局，战斗室位于车体中部，前部与驾驶室相通，其后是用隔板隔离的动力室，外型尺寸与88式坦克相似。96式坦克配备仿制改进自俄制2A46M-1型滑膛炮的[ZPT-98型](../Page/ZPT-98坦克炮.md "wikilink")125毫米滑膛炮，代替88式坦克的105毫米口径线膛炮，带吊篮式自动装弹机，配有分装式的次口径[尾翼稳定脱壳穿甲弹](https://zh.wikipedia.org/wiki/尾翼稳定脱壳穿甲弹 "wikilink")、尾翼稳定空心装药[破甲弹和多用途杀伤爆破](https://zh.wikipedia.org/wiki/破甲弹 "wikilink")[榴弹](https://zh.wikipedia.org/wiki/榴弹 "wikilink")，3人制乘员。采用[焊接](../Page/焊接.md "wikilink")[锻造炮塔取代](https://zh.wikipedia.org/wiki/锻造 "wikilink")88式坦克传统的苏式半球形[铸造炮塔](https://zh.wikipedia.org/wiki/铸造 "wikilink")。动力系统装用780马力横置V型12缸柴油发动机。改进的96A坦克长处表现在火力和防护力，但突显的动力不够强劲的问题是先天缺陷，而96B則有一定改進。96式坦克总重低于99式坦克，相比更适合于中国南方的水网稻田丘陵地区。
 
 ### 火力
 
 早期96式坦克装有ISFCS-212型下反稳像式火控系统，包括炮长昼、夜、测距三合一的稳定视场的瞄准镜，火控系统有稳像式和自动装定分划两种工作方式，发现目标到开火大约需时6秒，并使车长具有超越炮长控制的能力。由于只装备[像增强式微光夜视仪](https://zh.wikipedia.org/wiki/夜視鏡#微光夜视仪 "wikilink")，夜视距离只有800米，使其夜战能力一直为人所诟病。自99式坦克装备新型热成像夜视仪后，用热成像夜视仪对96式坦克进行改进的计划即被提上日程，并最终在96A上实现。
 
-96A坦克装备了炮长凝视焦平面[热成像仪](../Page/热成像仪.md "wikilink")和上反稳像式观瞄系统，\[6\]
-具备在30千米/小时以下速度对运动目标的精确射击能力。但96A并没加装车长独立周视热像仪（可能出于成本控制要求），车长夜间观察还要通过炮长热像仪通道进行。所谓“猎—歼”观瞄能力比99式坦克差。
-另据披露，96A坦克装备有[北斗](../Page/北斗卫星导航系统.md "wikilink")/[GPS双模定位仪](https://zh.wikipedia.org/wiki/GPS "wikilink")。
+96A坦克装备了炮长凝视焦平面[热成像仪](../Page/热成像仪.md "wikilink")和上反稳像式观瞄系统，\[6\] 具备在30千米/小时以下速度对运动目标的精确射击能力。但96A并没加装车长独立周视热像仪（可能出于成本控制要求），车长夜间观察还要通过炮长热像仪通道进行。所谓“猎—歼”观瞄能力比99式坦克差。 另据披露，96A坦克装备有[北斗](../Page/北斗卫星导航系统.md "wikilink")/[GPS双模定位仪](https://zh.wikipedia.org/wiki/GPS "wikilink")。
 
 ### 防护
 
-[缩略图](https://zh.wikipedia.org/wiki/File:TankBiathlon2017Individual-06.jpg "fig:缩略图")
-96式坦克基本型号因要求各种作战环境和地理条件被限制了重量，其技术取向是较薄的主装甲可视情况配置附加装甲。车体首上和炮塔正面采用[复合装甲](https://zh.wikipedia.org/wiki/复合装甲 "wikilink")，车体两侧挂有屏蔽裙板。96式坦克装备高效灭火和抑爆系统探测装置能对金属射流迅速做出反应保护乘员和弹药。
+[缩略图](https://zh.wikipedia.org/wiki/File:TankBiathlon2017Individual-06.jpg "fig:缩略图") 96式坦克基本型号因要求各种作战环境和地理条件被限制了重量，其技术取向是较薄的主装甲可视情况配置附加装甲。车体首上和炮塔正面采用[复合装甲](https://zh.wikipedia.org/wiki/复合装甲 "wikilink")，车体两侧挂有屏蔽裙板。96式坦克装备高效灭火和抑爆系统探测装置能对金属射流迅速做出反应保护乘员和弹药。
 
 96A与96式最明显的区别在于炮塔正面附加了楔型装甲，并在炮塔侧面以及底盘正面采用了FY-4[反应装甲](../Page/反应装甲.md "wikilink")，FY-4型属于中国大陆自研的第二代反应装甲，采用模块化结构，增加了坦克在装甲防护方面的灵活性，其对化学能弹防护能力约为400毫米，对动能弹防护能力在2000米距离上约为300毫米，加上96A的焊接炮塔自身的防护能力，理论上正面可防2000米距离上穿甲威力为700毫米的尾翼稳定脱壳穿甲弹攻击。炮塔顶部具有防攻顶加强式结构。96A在炮塔两侧后部加装了防弹栅栏和储物格挡，提高了这些薄弱部位的防护力，对于现代高危险城市战环境中的大量反坦克火箭弹，RPG的攻击具有一定有效的防御。\[7\]
 
@@ -54,17 +49,11 @@
 
 ## 外部連結
 
-  - [Ruptly news footage of the Type 96A in the 2014 tank
-    biathlon](https://www.youtube.com/watch?v=yhiZ1MlZS30&feature=youtu.be&t=26s)
-  - [Ruptly news footage of the Type 96A in the 2015 tank
-    biathlon](https://www.youtube.com/watch?v=wMVu54MXW3M&feature=youtu.be&t=31m33s)
-  - [CNTV news footage of the 2015 tank biathlon (Chinese
-    audio)](https://www.youtube.com/watch?v=VsuortL9Rvg)
+  - [Ruptly news footage of the Type 96A in the 2014 tank biathlon](https://www.youtube.com/watch?v=yhiZ1MlZS30&feature=youtu.be&t=26s)
+  - [Ruptly news footage of the Type 96A in the 2015 tank biathlon](https://www.youtube.com/watch?v=wMVu54MXW3M&feature=youtu.be&t=31m33s)
+  - [CNTV news footage of the 2015 tank biathlon (Chinese audio)](https://www.youtube.com/watch?v=VsuortL9Rvg)
 
-[Category:中國坦克](https://zh.wikipedia.org/wiki/Category:中國坦克 "wikilink")
-[Category:主战坦克](https://zh.wikipedia.org/wiki/Category:主战坦克 "wikilink")
-[Category:現代坦克](https://zh.wikipedia.org/wiki/Category:現代坦克 "wikilink")
-[Category:有装弹机坦克](https://zh.wikipedia.org/wiki/Category:有装弹机坦克 "wikilink")
+[Category:中國坦克](https://zh.wikipedia.org/wiki/Category:中國坦克 "wikilink") [Category:主战坦克](https://zh.wikipedia.org/wiki/Category:主战坦克 "wikilink") [Category:現代坦克](https://zh.wikipedia.org/wiki/Category:現代坦克 "wikilink") [Category:有装弹机坦克](https://zh.wikipedia.org/wiki/Category:有装弹机坦克 "wikilink")
 
 1.  [国际坦克大赛“戏中戏”](http://www.infzm.com/content/103602) ，南方周末 2014-08-29。
 

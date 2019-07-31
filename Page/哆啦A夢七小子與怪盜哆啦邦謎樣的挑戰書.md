@@ -1,5 +1,4 @@
-《**哆啦A夢七小子與怪盜哆啦邦謎樣的挑戰書**》（ザ☆ドラえもんズ 怪盗ドラパン謎の挑戦状\!ざ・どらえもんず
-かいとうどらぱんなぞのちょうせんじょう\!）于1997年3月8日与[大雄的发条都市冒险记同年在日本上映](https://zh.wikipedia.org/wiki/大雄的发条都市冒险记 "wikilink")，由[米谷良知](../Page/米谷良知.md "wikilink")执导。片長30分鐘。
+《**哆啦A夢七小子與怪盜哆啦邦謎樣的挑戰書**》（ザ☆ドラえもんズ 怪盗ドラパン謎の挑戦状\!ざ・どらえもんず かいとうどらぱんなぞのちょうせんじょう\!）于1997年3月8日与[大雄的发条都市冒险记同年在日本上映](https://zh.wikipedia.org/wiki/大雄的发条都市冒险记 "wikilink")，由[米谷良知](../Page/米谷良知.md "wikilink")执导。片長30分鐘。
 
 ## 故事简介
 
@@ -51,8 +50,7 @@
   - エリ合成：[旭Production](../Page/旭Production.md "wikilink")
   - 编辑：[小島俊彥](../Page/小島俊彥.md "wikilink")、中葉由美子、村井秀明、川崎晃洋、三宅圭貴
   - 效果：松田昭彦（[フィズサウンドクリエイション](https://zh.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")）
-  - 录音工作室：[APU MEGURO
-    STUDIO](https://zh.wikipedia.org/wiki/APU_MEGURO_STUDIO "wikilink")
+  - 录音工作室：[APU MEGURO STUDIO](https://zh.wikipedia.org/wiki/APU_MEGURO_STUDIO "wikilink")
   - 整音：内山敬章
 
 ## 主題曲
@@ -63,9 +61,4 @@
       - 編曲：[相良まさえ](https://zh.wikipedia.org/wiki/相良まさえ "wikilink")
       - 演唱：[山野智子](../Page/山野智子.md "wikilink")、[森之木兒童合唱團](https://zh.wikipedia.org/wiki/森之木兒童合唱團 "wikilink")
 
-[Category:1997年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1997年日本劇場動畫 "wikilink")
-[Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink")
-[Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink")
-[Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink")
-[Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink")
-[Category:怪盜主角題材作品](https://zh.wikipedia.org/wiki/Category:怪盜主角題材作品 "wikilink")
+[Category:1997年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1997年日本劇場動畫 "wikilink") [Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink") [Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink") [Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink") [Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink") [Category:怪盜主角題材作品](https://zh.wikipedia.org/wiki/Category:怪盜主角題材作品 "wikilink")

@@ -4,13 +4,9 @@
 
 ### NERV本部
 
-**地底都市**（**Geo
-Front**）是一個直径约6公里的球狀的洞穴，位於[第3新東京市底下](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#第三新东京市 "wikilink")，约有81%被土埋没。为了防範使徒的直接攻击，它和地面之间有22层的特殊装甲板。NERV本部即位於Geo
-Front之內。Geo
-Front即“黑之月”，为[莉莉丝之卵的所在地](https://zh.wikipedia.org/wiki/莉莉丝 "wikilink")，是[人类灵魂诞生的源地](https://zh.wikipedia.org/wiki/人类 "wikilink")。
+**地底都市**（**Geo Front**）是一個直径约6公里的球狀的洞穴，位於[第3新東京市底下](https://zh.wikipedia.org/wiki/新世纪福音战士名词列表#第三新东京市 "wikilink")，约有81%被土埋没。为了防範使徒的直接攻击，它和地面之间有22层的特殊装甲板。NERV本部即位於Geo Front之內。Geo Front即“黑之月”，为[莉莉丝之卵的所在地](https://zh.wikipedia.org/wiki/莉莉丝 "wikilink")，是[人类灵魂诞生的源地](https://zh.wikipedia.org/wiki/人类 "wikilink")。
 
-相对於地面上多半用於军事用途的建筑物，Geo
-Front是一般市民的主要收容所。建有轨道列车为出入之工具。利用上方第三新东京市之集光大楼透过[光纤将光线传送到这裡](https://zh.wikipedia.org/wiki/光纤 "wikilink")。电力需由外界提供。
+相对於地面上多半用於军事用途的建筑物，Geo Front是一般市民的主要收容所。建有轨道列车为出入之工具。利用上方第三新东京市之集光大楼透过[光纤将光线传送到这裡](https://zh.wikipedia.org/wiki/光纤 "wikilink")。电力需由外界提供。
 
 ### NERV第1支部
 
@@ -72,13 +68,11 @@ TV版中，從SEELE在**人类补完委员会**的会议上质问碇源堂、绑
 
 ### 对人防御
 
-NERV的成員會接受有關[槍械使用的訓練](https://zh.wikipedia.org/wiki/槍械 "wikilink")，並會在工作時候把手槍鎖在抽屜中，以備不時之需。NERV的制式槍械為[奧地利製的](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")連一個備用彈匣，而保安員就會配備一支[斯泰爾MPi
-69衝鋒槍](../Page/斯泰爾MPi_69衝鋒槍.md "wikilink")。
+NERV的成員會接受有關[槍械使用的訓練](https://zh.wikipedia.org/wiki/槍械 "wikilink")，並會在工作時候把手槍鎖在抽屜中，以備不時之需。NERV的制式槍械為[奧地利製的](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[格洛克17](../Page/格洛克17.md "wikilink")連一個備用彈匣，而保安員就會配備一支[斯泰爾MPi 69衝鋒槍](../Page/斯泰爾MPi_69衝鋒槍.md "wikilink")。
 
 ### NERV Logo
 
-半片[无花果树叶](https://zh.wikipedia.org/wiki/无花果 "wikilink")（在[創世記](../Page/創世記.md "wikilink")中，[亞當](../Page/亞當.md "wikilink")和[夏娃吃了](https://zh.wikipedia.org/wiki/夏娃 "wikilink")[智慧樹的果實後以自己一絲不掛為恥](https://zh.wikipedia.org/wiki/知善惡樹 "wikilink")，於是用無花果樹葉蓋著自己的[生殖器](../Page/生殖器.md "wikilink")）和NERV字母的组合，半边围绕着
-"God's in his heaven, All's right with the world." 的字样。
+半片[无花果树叶](https://zh.wikipedia.org/wiki/无花果 "wikilink")（在[創世記](../Page/創世記.md "wikilink")中，[亞當](../Page/亞當.md "wikilink")和[夏娃吃了](https://zh.wikipedia.org/wiki/夏娃 "wikilink")[智慧樹的果實後以自己一絲不掛為恥](https://zh.wikipedia.org/wiki/知善惡樹 "wikilink")，於是用無花果樹葉蓋著自己的[生殖器](../Page/生殖器.md "wikilink")）和NERV字母的组合，半边围绕着 "God's in his heaven, All's right with the world." 的字样。
 
 新劇場版中logo更改為無花果樹葉與蘋果的圖案。
 
@@ -86,11 +80,8 @@ NERV的成員會接受有關[槍械使用的訓練](https://zh.wikipedia.org/wik
 
   - [解谜《新世纪福音战士》之NERV](http://comic.qq.com/a/20121116/000004.htm)
   - [沉浸在EVA的世界中吧，日本富士急NERV本部主题公园](https://web.archive.org/web/20141214182254/http://acg.178.com/201104/96157978325.html)
-  - [Neon Genesis Evangelion: The Unofficial Guide
-    p.43](http://books.google.com.hk/books?id=2SX3lUu_IPAC&pg=PA43)
+  - [Neon Genesis Evangelion: The Unofficial Guide p.43](http://books.google.com.hk/books?id=2SX3lUu_IPAC&pg=PA43)
 
-[Category:新世纪福音战士](https://zh.wikipedia.org/wiki/Category:新世纪福音战士 "wikilink")
-[Category:动漫用语表](https://zh.wikipedia.org/wiki/Category:动漫用语表 "wikilink")
-[Category:虚构军事组织](https://zh.wikipedia.org/wiki/Category:虚构军事组织 "wikilink")
+[Category:新世纪福音战士](https://zh.wikipedia.org/wiki/Category:新世纪福音战士 "wikilink") [Category:动漫用语表](https://zh.wikipedia.org/wiki/Category:动漫用语表 "wikilink") [Category:虚构军事组织](https://zh.wikipedia.org/wiki/Category:虚构军事组织 "wikilink")
 
 1.

@@ -1,6 +1,4 @@
-《**BB戰士三國傳 戰神決鬥編**》是《[BB戰士三國傳
-英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")》的續集，由2008年開始於雜誌「Kerokero
-Ace」連載。故事背景仍沿用[中國](../Page/中國.md "wikilink")名著[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》的背景，本編故事時間點，以演義中劉備病逝[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、孔明主持國政開始，劉備與曹操在赤壁之戰失蹤後，遠在西涼軍的馬超為主角，而前作三大陣營，亦繼續出場，繼續三分天下的故事，於2010年2月27日公映電影版《超電影版SDガンダム三國伝～BraveBattleWarriors～》。
+《**BB戰士三國傳 戰神決鬥編**》是《[BB戰士三國傳 英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")》的續集，由2008年開始於雜誌「Kerokero Ace」連載。故事背景仍沿用[中國](../Page/中國.md "wikilink")名著[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》的背景，本編故事時間點，以演義中劉備病逝[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、孔明主持國政開始，劉備與曹操在赤壁之戰失蹤後，遠在西涼軍的馬超為主角，而前作三大陣營，亦繼續出場，繼續三分天下的故事，於2010年2月27日公映電影版《超電影版SDガンダム三國伝～BraveBattleWarriors～》。
 
 而模型雜誌「電擊Hobby」，亦會刊載個名角色的文字介紹，插畫則由[日向恭介及](https://zh.wikipedia.org/wiki/日向恭介 "wikilink")[凄鐵擔任](https://zh.wikipedia.org/wiki/凄鐵 "wikilink")。
 
@@ -8,27 +6,21 @@ Ace」連載。故事背景仍沿用[中國](../Page/中國.md "wikilink")名著
 
 ### 水晶之力
 
-三縭紗神話「G記」記載「當三璃紗再次受黑暗包圍時，繼承三侯靈魂-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-們，將會在玉璽引導下，再次打擊黑暗……」
-三侯靈魂和武義之魂封印[蚩尤](../Page/蚩尤.md "wikilink")時，曾經使用過的力量。
+三縭紗神話「G記」記載「當三璃紗再次受黑暗包圍時，繼承三侯靈魂-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-們，將會在玉璽引導下，再次打擊黑暗……」 三侯靈魂和武義之魂封印[蚩尤](../Page/蚩尤.md "wikilink")時，曾經使用過的力量。
 
-  - **翔烈帝[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（PF-78-1
-    Perfect Gundam）
+  - **翔烈帝[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（PF-78-1 Perfect Gundam）
 
 :\*推出日期：2007年6月（劉備）、2008年12月（翔烈帝劉備）
 
-  - **機武帝[曹操](../Page/曹操.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GX-9901-DX
-    Gundam Double X Twin）
+  - **機武帝[曹操](../Page/曹操.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GX-9901-DX Gundam Double X Twin）
 
-:\***推出日期：2009年6月**(機武帝曹操Special
-set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃-{zh-hans:沙彼多;zh-hk:沙彼多;zh-tw:大蛇;}-、特製貼紙、箔貼紙、火焰效果素材)
+:\***推出日期：2009年6月**(機武帝曹操Special set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃-{zh-hans:沙彼多;zh-hk:沙彼多;zh-tw:大蛇;}-、特製貼紙、箔貼紙、火焰效果素材)
 
-  - **轟大帝[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（RX-78GP01-Fb
-    Gundam Full Vernian "Zephyranthes"）
+  - **轟大帝[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（RX-78GP01-Fb Gundam Full Vernian "Zephyranthes"）
 
 :\*推出日期：2009年12月
 
-  - **玄武裝**．[呂布托爾吉斯](https://zh.wikipedia.org/wiki/呂布 "wikilink")（OZ-00MS2B
-    Tallgeese III）
+  - **玄武裝**．[呂布托爾吉斯](https://zh.wikipedia.org/wiki/呂布 "wikilink")（OZ-00MS2B Tallgeese III）
 
 :\*推出日期:2010年1月
 
@@ -54,8 +46,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 #### 天之刃
 
-  - **[馬超蒼藍宿命](https://zh.wikipedia.org/wiki/馬超 "wikilink")**（RX-79\[G\]
-    BD-1 Blue Destiny)
+  - **[馬超蒼藍宿命](https://zh.wikipedia.org/wiki/馬超 "wikilink")**（RX-79\[G\] BD-1 Blue Destiny)
 
 :\*推出日期：2009年3月
 
@@ -96,8 +87,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：馬超專用坐騎
 
-  - **[孟獲](../Page/孟獲.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GF13-017NJII
-    God Gundam）
+  - **[孟獲](../Page/孟獲.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GF13-017NJII God Gundam）
 
 :\*推出日期:2009年8月（為「阿修羅王 孟獲高達 祝融高達 巨神象」角色之一）
 
@@ -130,15 +120,13 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 以成都為根據地，相等於「蜀」國。赤壁之戰時，領袖[劉備失蹤](https://zh.wikipedia.org/wiki/劉備 "wikilink")，因此政事由軍師[孔明暫代統轄](https://zh.wikipedia.org/wiki/孔明 "wikilink")，根據「翔烈帝劉備」之名，國號曰「翔」。
 
-  - **翔烈帝[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（PF-78-1
-    Perfect Gundam）
+  - **翔烈帝[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（PF-78-1 Perfect Gundam）
 
 :\*推出日期：2007年6月（劉備）、2008年12月（翔烈帝劉備）
 
   - **天翔龍[孔明ν](https://zh.wikipedia.org/wiki/孔明 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**
 
-基本型態﹕RX-93 ν Gundam；與爆凰機合體後：加上RX-93-2 Hi-ν Gundam的背包; 武器:龍焰刀、寶扇劍
-必殺:天翔龍凰擊 型態:伏龍飛翔、龍凰型態、飛行用胸甲裝備型態
+基本型態﹕RX-93 ν Gundam；與爆凰機合體後：加上RX-93-2 Hi-ν Gundam的背包; 武器:龍焰刀、寶扇劍 必殺:天翔龍凰擊 型態:伏龍飛翔、龍凰型態、飛行用胸甲裝備型態
 
 :\*推出日期：2009年7月
 
@@ -148,18 +136,15 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 被龍輝寶選人的五名武將,其特徵為肩上裝有龍輝寶之肩甲。「五誇將」就是「[五虎將](https://zh.wikipedia.org/wiki/五虎將 "wikilink")」之日語諧音。
 
-  - **[關羽高達](https://zh.wikipedia.org/wiki/關羽 "wikilink")**（MSZ-010FA
-    Full Armor ZZ Gundam）
+  - **[關羽高達](https://zh.wikipedia.org/wiki/關羽 "wikilink")**（MSZ-010FA Full Armor ZZ Gundam）
 
 :\*推出日期：2007年6月
 
-  - **[張飛高達](https://zh.wikipedia.org/wiki/張飛 "wikilink")**（MSZ-006FA
-    Full Armor Zeta Gundam）
+  - **[張飛高達](https://zh.wikipedia.org/wiki/張飛 "wikilink")**（MSZ-006FA Full Armor Zeta Gundam）
 
 :\*推出日期：2007年6月
 
-  - **[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（LM314V21
-    V2 Gundam／精靈龍裝備LM314V21 V2 Gundam buster）
+  - **[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（LM314V21 V2 Gundam／精靈龍裝備LM314V21 V2 Gundam buster）
 
 :\*推出日期：2008年7月
 
@@ -180,8 +165,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*神器：龍輝寶
 
-  - **[黃忠](https://zh.wikipedia.org/wiki/黃忠 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**(一般型態﹕RX-178
-    Gundam MK II AEUG Type、龍身鎧裝備型態﹕Super Gundam、連龍牙型態﹕FA GUNDAM MK-II)
+  - **[黃忠](https://zh.wikipedia.org/wiki/黃忠 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**(一般型態﹕RX-178 Gundam MK II AEUG Type、龍身鎧裝備型態﹕Super Gundam、連龍牙型態﹕FA GUNDAM MK-II)
 
 :\*推出日期：2009年4月
 
@@ -198,8 +182,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*神器：龍輝寶
 
-  - '''[馬超蒼藍宿命](https://zh.wikipedia.org/wiki/馬超 "wikilink")（RX-79\[G\]
-    BD-1 Blue Destiny)
+  - '''[馬超蒼藍宿命](https://zh.wikipedia.org/wiki/馬超 "wikilink")（RX-79\[G\] BD-1 Blue Destiny)
 
 :\*推出日期：2009年3月
 
@@ -225,8 +208,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*以[關羽為首的軍團](https://zh.wikipedia.org/wiki/關羽 "wikilink")，成員包括[周倉](../Page/周倉.md "wikilink")及[關平](../Page/關平.md "wikilink")。三人均有小隊象徵的鬼面裝甲，同時兩人亦可借用[關羽的](https://zh.wikipedia.org/wiki/關羽 "wikilink")「鬼牙龍月刀」，透過武器合體增強威力。
 
-  - **[關平](../Page/關平.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（MSA-0011
-    S Gundam）
+  - **[關平](../Page/關平.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（MSA-0011 S Gundam）
 
 :\*推出日期：2008年6月
 
@@ -246,8 +228,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*神器：龍輝寶
 
-  - **[周倉](../Page/周倉.md "wikilink")-{zh-hans:高达;zh-hk:杜班魯爾夫;zh-tw:達希魯夫;}-**（AMX-014
-    Dobben Wolf）
+  - **[周倉](../Page/周倉.md "wikilink")-{zh-hans:高达;zh-hk:杜班魯爾夫;zh-tw:達希魯夫;}-**（AMX-014 Dobben Wolf）
 
 :\*推出日期：2008年11月
 
@@ -268,20 +249,16 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
   - **[劉封](../Page/劉封.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**
 
-:\*詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
-  - **[關平](../Page/關平.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（MSA-0011
-    S Gundam）
+  - **[關平](../Page/關平.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（MSA-0011 S Gundam）
   - **[張苞](https://zh.wikipedia.org/wiki/張苞 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**
 
-:\*詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
 ##### 其他將領
 
-  - **[魏延](../Page/魏延.md "wikilink")MK II**（RX-178 Gundam MK II TITANS
-    Type）
+  - **[魏延](../Page/魏延.md "wikilink")MK II**（RX-178 Gundam MK II TITANS Type）
 
 <!-- end list -->
 
@@ -294,8 +271,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：不詳
 
-  - **[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")-{zh-hans:高达;zh-hk:高達F-91;zh-tw:鋼彈F-91;}-**（Gundam
-    F-91／OMS-90R Gundam F90 Mars Zeon Type/馬沙專用渣古）
+  - **[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")-{zh-hans:高达;zh-hk:高達F-91;zh-tw:鋼彈F-91;}-**（Gundam F-91／OMS-90R Gundam F90 Mars Zeon Type/馬沙專用渣古）
 
 :\*推出日期：2009年10月
 
@@ -346,8 +322,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 <!-- end list -->
 
-  - **[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")-{zh-hans:高达;zh-hk:加貝拉;zh-tw:加貝拉;}-**（RX-78
-    GP04G Gundam "Gerbera"）
+  - **[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")-{zh-hans:高达;zh-hk:加貝拉;zh-tw:加貝拉;}-**（RX-78 GP04G Gundam "Gerbera"）
 
 :\*推出日期：(B-Club版首辦模型)2008年、(Bandai版模型)2009年5月(註:推出時間雖然在[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，[黃忠之後](https://zh.wikipedia.org/wiki/黃忠 "wikilink")，但盒子顯示她是屬於「英雄激突編」。)
 
@@ -374,23 +349,18 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
   - **[馬謖](https://zh.wikipedia.org/wiki/馬謖 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**
 
-:\*詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
   - **[馬岱](../Page/馬岱.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**
 
-:\*詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
   - **[嚴顏](https://zh.wikipedia.org/wiki/嚴顏 "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**
 
-:\*詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
-  - **[孟獲](../Page/孟獲.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GF13-017NJII
-    God Gundam）
-  - **[祝融](../Page/祝融.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GF13-050NSW
-    Nobell Gundam）
+  - **[孟獲](../Page/孟獲.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GF13-017NJII God Gundam）
+  - **[祝融](../Page/祝融.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GF13-050NSW Nobell Gundam）
 
 ###### 部隊兵
 
@@ -432,8 +402,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 三璃紗中，領土最遼闊、物資民眾最多最廣的強國，相等於「魏」國。赤壁之戰後，[曹操](../Page/曹操.md "wikilink")與[劉備一同失蹤](https://zh.wikipedia.org/wiki/劉備 "wikilink")，因此[曹操](../Page/曹操.md "wikilink")之子[曹丕](../Page/曹丕.md "wikilink")繼承大統，正式建國，國號「機駕」，繼續以[司馬懿為主要參謀](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
 
-  - **[曹操](../Page/曹操.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GX-9901-DX
-    Gundam Double X）
+  - **[曹操](../Page/曹操.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GX-9901-DX Gundam Double X）
 
 :\*推出日期：2007年10月
 
@@ -452,11 +421,9 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*神器：天玉鎧.炎鳳
 
-  - **機武帝[曹操](../Page/曹操.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**(GX-9901-DX
-    Gundam Double X Twin satellite cannons activated)
+  - **機武帝[曹操](../Page/曹操.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**(GX-9901-DX Gundam Double X Twin satellite cannons activated)
 
-:\***推出日期：2009年6月**(機武帝曹操Special
-set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃-{zh-hans:大毒蛇;zh-hk:沙彼多;zh-tw:大蛇;}-、特製貼紙、箔貼紙、火焰效果素材)
+:\***推出日期：2009年6月**(機武帝曹操Special set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃-{zh-hans:大毒蛇;zh-hk:沙彼多;zh-tw:大蛇;}-、特製貼紙、箔貼紙、火焰效果素材)
 
   -
     神話三侯一人，「焰神」雀瞬之魂使[曹操](../Page/曹操.md "wikilink")覺醒的新型態，人稱機駕之王「機武帝」。與五誇將一起擊敗不死軍團和[賈詡時覺醒](https://zh.wikipedia.org/wiki/賈詡 "wikilink")。令一度被控制的[徐晃](../Page/徐晃.md "wikilink")為翔協力。暫代[劉備統轄聯軍](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
@@ -476,14 +443,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*鎧甲：鳳熾魂
 
-  - **[曹丕](../Page/曹丕.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GX-9900-DV
-    Gundam X 光天七星戟裝備型態﹕GUNDAM X Divider）
+  - **[曹丕](../Page/曹丕.md "wikilink")-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-**（GX-9900-DV Gundam X 光天七星戟裝備型態﹕GUNDAM X Divider）
 
 :\*推出日期：2009年6月
 
   -
-    [曹操](../Page/曹操.md "wikilink")之子，機駕皇帝，稱帝建國，號曰「機駕」。對[司馬懿完全信任](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，進攻西涼，後期被闇控制，殺害[程昱](../Page/程昱.md "wikilink")等朝中大臣。在模型版漫畫中曾與部將[張郃](../Page/張郃.md "wikilink")切磋武藝，對於長年在外征戰而忽略家庭的父親[曹操](../Page/曹操.md "wikilink")感到不滿，憤而向[曹操](../Page/曹操.md "wikilink")挑戰，但被[曹操](../Page/曹操.md "wikilink")擊敗，被沒收了機駕之王的証明
-    (機駕王証)，之後企圖阻止[司馬懿以](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")[司馬炎](../Page/司馬炎.md "wikilink")為祭品召喚暗黑玉璽，但被擊倒。設計藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
+    [曹操](../Page/曹操.md "wikilink")之子，機駕皇帝，稱帝建國，號曰「機駕」。對[司馬懿完全信任](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")，進攻西涼，後期被闇控制，殺害[程昱](../Page/程昱.md "wikilink")等朝中大臣。在模型版漫畫中曾與部將[張郃](../Page/張郃.md "wikilink")切磋武藝，對於長年在外征戰而忽略家庭的父親[曹操](../Page/曹操.md "wikilink")感到不滿，憤而向[曹操](../Page/曹操.md "wikilink")挑戰，但被[曹操](../Page/曹操.md "wikilink")擊敗，被沒收了機駕之王的証明 (機駕王証)，之後企圖阻止[司馬懿以](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")[司馬炎](../Page/司馬炎.md "wikilink")為祭品召喚暗黑玉璽，但被擊倒。設計藍本來自[真．三國無雙4同名角色](https://zh.wikipedia.org/wiki/真．三國無雙4 "wikilink")。
 
 <!-- end list -->
 
@@ -499,8 +464,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*必殺：蒼炎轉舞
 
   - **光祿勲**
-  - **[程昱](../Page/程昱.md "wikilink")-{zh-hans:智袋鼠;zh-hk:華茲禾拉比;zh-tw:智袋鼠;}-**（DT-6800
-    HMC Wise Wallaby）
+  - **[程昱](../Page/程昱.md "wikilink")-{zh-hans:智袋鼠;zh-hk:華茲禾拉比;zh-tw:智袋鼠;}-**（DT-6800 HMC Wise Wallaby）
 
 <!-- end list -->
 
@@ -514,8 +478,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\***推出日期：2009年10月**
 
-  - **[司馬炎](../Page/司馬炎.md "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-II**(MS-06S
-    Zaku II Char Aznable Custom)
+  - **[司馬炎](../Page/司馬炎.md "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-II**(MS-06S Zaku II Char Aznable Custom)
 
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
@@ -540,18 +503,14 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 #### 機駕太傅
 
-  - **機駕太傅．[司馬懿沙煞比](https://zh.wikipedia.org/wiki/司馬懿沙煞比 "wikilink")**（MSN-04
-    Sazabi）
+  - **機駕太傅．[司馬懿沙煞比](https://zh.wikipedia.org/wiki/司馬懿沙煞比 "wikilink")**（MSN-04 Sazabi）
 
 :\*推出日期：2007年8月
 
 #### 機駕三公
 
   - **司徒**
-  - **[郭嘉](../Page/郭嘉.md "wikilink")-{zh-hans:维萨戈;zh-hant:華沙高}-**(一般型態:-{zh-hans:维萨戈高达;zh-hk:華沙洛高達;zh-tw:華沙高鋼彈;}-（NRX-0013
-    Gundam
-    Virsago)、武將型態和魔神型態：-{zh-hans:维萨戈高达;zh-hk:華沙洛高達;zh-tw:華沙高鋼彈;}-破壞者型態(Gundam
-    Virsago Chest Break)
+  - **[郭嘉](../Page/郭嘉.md "wikilink")-{zh-hans:维萨戈;zh-hant:華沙高}-**(一般型態:-{zh-hans:维萨戈高达;zh-hk:華沙洛高達;zh-tw:華沙高鋼彈;}-（NRX-0013 Gundam Virsago)、武將型態和魔神型態：-{zh-hans:维萨戈高达;zh-hk:華沙洛高達;zh-tw:華沙高鋼彈;}-破壞者型態(Gundam Virsago Chest Break)
 
 :\*推出日期：2010年1月
 
@@ -578,8 +537,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*鎧甲：毒蜘蛛
 
   - **太尉**
-  - **[龐統笮德](https://zh.wikipedia.org/wiki/龐統 "wikilink")．德加**（MSN-03
-    Quess Paraya Jagd Doga）
+  - **[龐統笮德](https://zh.wikipedia.org/wiki/龐統 "wikilink")．德加**（MSN-03 Quess Paraya Jagd Doga）
 
 <!-- end list -->
 
@@ -600,10 +558,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\*神器：黑暗玉璽
 
   - **司空**
-  - **[賈詡](https://zh.wikipedia.org/wiki/賈詡 "wikilink")**-{zh-hans:阿斯特隆;zh-hant:阿斯塔隆}-'''(一般型態:阿斯塔隆鋼彈（NRX-0015
-    Gundam
-    Ashtaron)、魔神型態：-{zh-hans:阿斯特隆高达;zh-hk:亞士特隆高達;zh-tw:阿斯塔隆鋼彈;}-隱藏者型態(MA)(Gundam
-    Ashtaron Hermit Crab(MA))
+  - **[賈詡](https://zh.wikipedia.org/wiki/賈詡 "wikilink")**-{zh-hans:阿斯特隆;zh-hant:阿斯塔隆}-'''(一般型態:阿斯塔隆鋼彈（NRX-0015 Gundam Ashtaron)、魔神型態：-{zh-hans:阿斯特隆高达;zh-hk:亞士特隆高達;zh-tw:阿斯塔隆鋼彈;}-隱藏者型態(MA)(Gundam Ashtaron Hermit Crab(MA))
 
 <!-- end list -->
 
@@ -657,8 +612,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    **[夏侯淵達拉斯](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")**（XM-04
-    Berga Daias）
+    **[夏侯淵達拉斯](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")**（XM-04 Berga Daias）
 
 :\*推出日期：2008年5月
 
@@ -680,8 +634,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    **[張遼](../Page/張遼.md "wikilink")-{zh-hans:格魯古古;zh-hk:格魯古古;zh-tw:傑爾古格;}-**（MS-14A
-    Gelgoog Gato Custom）
+    **[張遼](../Page/張遼.md "wikilink")-{zh-hans:格魯古古;zh-hk:格魯古古;zh-tw:傑爾古格;}-**（MS-14A Gelgoog Gato Custom）
 
 :\*推出日期：2008年9月
 
@@ -705,8 +658,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    **[徐晃](../Page/徐晃.md "wikilink")-{zh-hans:大毒蛇;zh-hk:沙彼多;zh-tw:大蛇;}-**（MMS-01
-    Serpent）
+    **[徐晃](../Page/徐晃.md "wikilink")-{zh-hans:大毒蛇;zh-hk:沙彼多;zh-tw:大蛇;}-**（MMS-01 Serpent）
 
 :\*推出日期：2009年5月
 
@@ -728,8 +680,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    **[張郃](../Page/張郃.md "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-III改**（AMX-011S
-    Zaku III Custom）
+    **[張郃](../Page/張郃.md "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-III改**（AMX-011S Zaku III Custom）
 
 :\*推出日期：2009年2月
 
@@ -756,28 +707,22 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 <!-- end list -->
 
-  - **[張遼](../Page/張遼.md "wikilink")-{zh-hans:格鲁古古;zh-hk:格魯古古;zh-tw:傑爾古格;}-**（MS-14A
-    Gelgoog Gato Custom）
-  - **[徐晃](../Page/徐晃.md "wikilink")-{zh-hans:大毒蛇;zh-hk:沙彼多;zh-tw:大蛇;}-**（MMS-01
-    Serpent）
-  - **[張郃](../Page/張郃.md "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-III改**（AMX-011S
-    Zaku III Custom）
+  - **[張遼](../Page/張遼.md "wikilink")-{zh-hans:格鲁古古;zh-hk:格魯古古;zh-tw:傑爾古格;}-**（MS-14A Gelgoog Gato Custom）
+  - **[徐晃](../Page/徐晃.md "wikilink")-{zh-hans:大毒蛇;zh-hk:沙彼多;zh-tw:大蛇;}-**（MMS-01 Serpent）
+  - **[張郃](../Page/張郃.md "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-III改**（AMX-011S Zaku III Custom）
   - **[樂進](../Page/樂進.md "wikilink")鋼彈**
 
-:\*衛將騎團成員、詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*衛將騎團成員、詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
   - **[于禁](../Page/于禁.md "wikilink")鋼彈**
 
-:\*衛將騎團成員，詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*衛將騎團成員，詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
 ##### 其他成員
 
   - **[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")**-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-'''
 
-:\*近衛隊領袖，詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*近衛隊領袖，詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
   - '''親衛隊士兵（「火袋鼠」／DT-6800HM Daughtress Fire Wallaby）
 
@@ -825,8 +770,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ##### 其他將領
 
-  - **[韓遂沙漠型](https://zh.wikipedia.org/wiki/韓遂 "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-(MS-06D
-    Zaku Desert Type）**
+  - **[韓遂沙漠型](https://zh.wikipedia.org/wiki/韓遂 "wikilink")-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-(MS-06D Zaku Desert Type）**
 
 <!-- end list -->
 
@@ -871,8 +815,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 古代兵法家孫武（孫子）後人，統治江東的豪族。經過[孫堅](https://zh.wikipedia.org/wiki/孫堅 "wikilink")、[孫策及](https://zh.wikipedia.org/wiki/孫策 "wikilink")[孫權父子悉心經營下](https://zh.wikipedia.org/wiki/孫權 "wikilink")，成為三璃紗中以強勁水軍著稱的國家。
 
-  - **轟大帝[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（RX-78
-    GP00 Gundam GP00 "Blossom"）
+  - **轟大帝[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（RX-78 GP00 Gundam GP00 "Blossom"）
 
 :\*推出日期：2009年12月
 
@@ -906,8 +849,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*神器：天玉鎧.弩虎，虎燐魄
 
-  - **[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（RX-78
-    GP03S Gundam "Stamen"）
+  - **[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（RX-78 GP03S Gundam "Stamen"）
 
 :\*推出日期：2007年11月
 
@@ -925,8 +867,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*神器：天玉鎧.弩虎
 
-  - **[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")-{zh-hk:賽薩裡斯;zh-tw:薩爾沙拉斯;}-**（RX-78GP02A
-    Gundam "Physalis"）
+  - **[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")-{zh-hk:賽薩裡斯;zh-tw:薩爾沙拉斯;}-**（RX-78GP02A Gundam "Physalis"）
 
 :\*推出日期：2009年11月
 
@@ -943,8 +884,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*超必殺：猛虎獸烈霸
 
-  - **[孫堅積菲蘭沙斯](https://zh.wikipedia.org/wiki/孫堅 "wikilink")**（RX-78GP01Fb
-    Full Vernian Gundam "Zephyranthes"）
+  - **[孫堅積菲蘭沙斯](https://zh.wikipedia.org/wiki/孫堅 "wikilink")**（RX-78GP01Fb Full Vernian Gundam "Zephyranthes"）
 
 :\*推出日期：2009年12月(轟大帝附屬孫堅面罩使其再現)
 
@@ -965,8 +905,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*超必殺：猛虎獸烈霸
 
-  - **[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")-{zh-hk:加貝拉;zh-tw:加貝拉;}-**（RX-78
-    GP04G Gundam "Gerbera"）
+  - **[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")-{zh-hk:加貝拉;zh-tw:加貝拉;}-**（RX-78 GP04G Gundam "Gerbera"）
 
 :\*推出日期：(B-Club版首辦模型)2008年、(Bandai版模型)2009年5月(註:推出時間雖然在[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")，[黃忠之後](https://zh.wikipedia.org/wiki/黃忠 "wikilink")，但盒子顯示她是屬於「英雄激突編」。)
 
@@ -988,8 +927,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 #### 主要將領
 
-  - **[太史慈](../Page/太史慈.md "wikilink")-{zh-hk:大魔;zh-tw:德姆;}-**（MS-09 RII
-    Rick Dom II）
+  - **[太史慈](../Page/太史慈.md "wikilink")-{zh-hk:大魔;zh-tw:德姆;}-**（MS-09 RII Rick Dom II）
 
 :\*推出日期：2009年9月
 
@@ -1008,8 +946,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：鋼甲機（MA-06 VAL-WALO）
 
-  - **[陸遜](../Page/陸遜.md "wikilink")Zeta-Plus A1（MSZ-006 阿姆羅專用Zeta-Plus
-    A1）**
+  - **[陸遜](../Page/陸遜.md "wikilink")Zeta-Plus A1（MSZ-006 阿姆羅專用Zeta-Plus A1）**
 
 :\*推出日期：2009年1月
 
@@ -1050,8 +987,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 又稱**強襲水軍**，由[孫策建立](https://zh.wikipedia.org/wiki/孫策 "wikilink")，隸屬於江東提督[周瑜](../Page/周瑜.md "wikilink")，由[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")、[甘寧率領](https://zh.wikipedia.org/wiki/甘寧 "wikilink")，對抗[曹操](../Page/曹操.md "wikilink")軍。
 
-  - **[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")-{zh-hk:迪傑;zh-tw:迪謝;}-**（輕裝：RMS-099
-    Ricky Dias／提督裝備：MSK-008 Dijeh）
+  - **[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")-{zh-hk:迪傑;zh-tw:迪謝;}-**（輕裝：RMS-099 Ricky Dias／提督裝備：MSK-008 Dijeh）
 
 :\*推出日期：2008年8月（為「呂蒙、甘寧、轟強襲水軍」角色之一）
 
@@ -1066,8 +1002,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：強襲戰艦
 
-  - **[甘寧](https://zh.wikipedia.org/wiki/甘寧 "wikilink")-{zh-hk:京寶梵;zh-tw:肯普法;}-**（MS-18E
-    Kämpfer；蒼烈鮫：Mad Angler class）
+  - **[甘寧](https://zh.wikipedia.org/wiki/甘寧 "wikilink")-{zh-hk:京寶梵;zh-tw:肯普法;}-**（MS-18E Kämpfer；蒼烈鮫：Mad Angler class）
 
 :\*推出日期：2008年8月（為「呂蒙、甘寧、轟強襲水軍」角色之一）
 
@@ -1129,8 +1064,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 自[孫堅擔任將軍以來](https://zh.wikipedia.org/wiki/孫堅 "wikilink")，已輔助[孫堅東征西討的四名元老猛將](https://zh.wikipedia.org/wiki/孫堅 "wikilink")，分別是[黃蓋](../Page/黃蓋.md "wikilink")、[韓當](../Page/韓當.md "wikilink")、[程普](../Page/程普.md "wikilink")及[祖茂](https://zh.wikipedia.org/wiki/祖茂 "wikilink")，與主公一樣，每戰均披上紅色披肩。由於成員[祖茂](https://zh.wikipedia.org/wiki/祖茂 "wikilink")、[黃蓋](../Page/黃蓋.md "wikilink")先後戰死，成員餘下[程普](../Page/程普.md "wikilink")及[韓當](../Page/韓當.md "wikilink")兩人。
 
-  - **[程普](../Page/程普.md "wikilink")吉姆-{zh-hk:改;zh-tw:特裝型;}-**（RGM-79N
-    GM custom）
+  - **[程普](../Page/程普.md "wikilink")吉姆-{zh-hk:改;zh-tw:特裝型;}-**（RGM-79N GM custom）
 
 <!-- end list -->
 
@@ -1145,8 +1079,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：乱拳
 
-  - **[韓當](../Page/韓當.md "wikilink")吉姆-{zh-hk:大砲;zh-tw:加農;}-II**（RX-77-4
-    Guncannon II）
+  - **[韓當](../Page/韓當.md "wikilink")吉姆-{zh-hk:大砲;zh-tw:加農;}-II**（RX-77-4 Guncannon II）
 
 <!-- end list -->
 
@@ -1163,18 +1096,15 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
   - **[周泰](../Page/周泰.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**
 
-:\*詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
   - **[丁奉](../Page/丁奉.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**
 
-:\*詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
   - **[凌統](../Page/凌統.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**
 
-:\*詳見[BB戰士 三國傳外傳
-武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+:\*詳見[BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
 ##### 部隊兵
 
@@ -1196,13 +1126,11 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 「闇」被消滅、三國鼎立十多年後，最終統一三璃紗的國家。模型漫畫中，由[司馬炎](../Page/司馬炎.md "wikilink")為君主，相對史實的「[晉](https://zh.wikipedia.org/wiki/西晉 "wikilink")」
 
-  - **[司馬炎](../Page/司馬炎.md "wikilink")-{zh-hk:渣古;zh-tw:薩克;}-II**(MS-06S
-    Zaku II Char Aznable Custom)
+  - **[司馬炎](../Page/司馬炎.md "wikilink")-{zh-hk:渣古;zh-tw:薩克;}-II**(MS-06S Zaku II Char Aznable Custom)
 
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
-  - **[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")-{zh-hk:高達F-91;zh-tw:鋼彈F-91;}-**（Gundam
-    F-91／OMS-90R Gundam F90 Mars Zeon Type）
+  - **[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")-{zh-hk:高達F-91;zh-tw:鋼彈F-91;}-**（Gundam F-91／OMS-90R Gundam F90 Mars Zeon Type）
 
 :\*推出日期：2009年10月
 
@@ -1219,13 +1147,11 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 #### 究極黑暗
 
-  - **天熾鵬[司馬懿沙煞比](https://zh.wikipedia.org/wiki/司馬懿沙煞比 "wikilink")**（軍師型態：MSN-04
-    Sazabi / 獄凰型態： MSN-04-2 Nightingale /魔神型態：NZ-333 Alpha Azieru）
+  - **天熾鵬[司馬懿沙煞比](https://zh.wikipedia.org/wiki/司馬懿沙煞比 "wikilink")**（軍師型態：MSN-04 Sazabi / 獄凰型態： MSN-04-2 Nightingale /魔神型態：NZ-333 Alpha Azieru）
 
 :\*推出日期:2010年2月
 
-  - **戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-**(MRX-010 Psyco Gundam
-    Mk-II感應鋼彈Mk-II)
+  - **戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-**(MRX-010 Psyco Gundam Mk-II感應鋼彈Mk-II)
 
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
@@ -1264,8 +1190,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
   -
     神話「三侯」封印黑暗的化身，是引致三璃紗戰亂不斷的元兇。率領魑魅魍魎，血染三璃紗。可利用其闇之力控制他人。
-    漫畫與[孫策合體變成](https://zh.wikipedia.org/wiki/孫策 "wikilink")「蚩尤魔裝型態」。
-    可以與黑暗玉璽、[司馬師](../Page/司馬師.md "wikilink")、[司馬炎](../Page/司馬炎.md "wikilink")、[司馬昭合體成為](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")「戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-」。
+    漫畫與[孫策合體變成](https://zh.wikipedia.org/wiki/孫策 "wikilink")「蚩尤魔裝型態」。 可以與黑暗玉璽、[司馬師](../Page/司馬師.md "wikilink")、[司馬炎](../Page/司馬炎.md "wikilink")、[司馬昭合體成為](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")「戰神合身．[蚩尤](../Page/蚩尤.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-」。
 
 :\*稱號：闇之軍神
 
@@ -1290,8 +1215,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：不詳
 
-  - **[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")[Ξ](https://zh.wikipedia.org/wiki/Ξ "wikilink")**(RX-105
-    [Ξ](https://zh.wikipedia.org/wiki/Ξ "wikilink") Gundam)
+  - **[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")[Ξ](https://zh.wikipedia.org/wiki/Ξ "wikilink")**(RX-105 [Ξ](https://zh.wikipedia.org/wiki/Ξ "wikilink") Gundam)
 
 :\*推出日期:2009年12月（為「戰神合身．蚩尤-{zh-hk:高達;zh-tw:鋼彈;}-」角色之一）
 
@@ -1306,13 +1230,11 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：自爆之竹
 
-  - **[郭嘉](../Page/郭嘉.md "wikilink")-{zh-hk:華沙哥高達;zh-tw:法薩可鋼彈;}-**（NRX-0013
-    Gundam Virsago）
+  - **[郭嘉](../Page/郭嘉.md "wikilink")-{zh-hk:華沙哥高達;zh-tw:法薩可鋼彈;}-**（NRX-0013 Gundam Virsago）
 
 #### 成員
 
-  - **[董卓](../Page/董卓.md "wikilink")-{zh-hk:渣古;zh-tw:薩克;}-**I（MS-05 Zaku
-    I）
+  - **[董卓](../Page/董卓.md "wikilink")-{zh-hk:渣古;zh-tw:薩克;}-**I（MS-05 Zaku I）
 
 <!-- end list -->
 
@@ -1325,10 +1247,8 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：閃烈擊
 
-  - **[龐統乍德](https://zh.wikipedia.org/wiki/龐統 "wikilink")．德加**（MSN-03
-    Quess Paraya Jagd Doga）
-  - **[賈詡](https://zh.wikipedia.org/wiki/賈詡 "wikilink")-{zh-hk:亞士特隆高達;zh-tw:阿斯塔隆鋼彈;}-**（NRX-0015
-    Gundam Ashtaron）
+  - **[龐統乍德](https://zh.wikipedia.org/wiki/龐統 "wikilink")．德加**（MSN-03 Quess Paraya Jagd Doga）
+  - **[賈詡](https://zh.wikipedia.org/wiki/賈詡 "wikilink")-{zh-hk:亞士特隆高達;zh-tw:阿斯塔隆鋼彈;}-**（NRX-0015 Gundam Ashtaron）
 
 #### 部隊兵
 
@@ -1367,8 +1287,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 位於翔國南部，古代赤流火穩的所在之地，故事中稱為「[南蠻](../Page/南蠻.md "wikilink")」的地帶。
 
-  - **[孟獲](../Page/孟獲.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（GF13-017NJII
-    God Gundam）
+  - **[孟獲](../Page/孟獲.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（GF13-017NJII God Gundam）
 
 :\*推出日期:2009年8月（為「阿修羅王 孟獲高達 祝融高達 巨神象」角色之一）
 
@@ -1385,8 +1304,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：巨神象.金剛夜迦
 
-  - **[祝融](../Page/祝融.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（GF13-050NSW
-    Nobell Gundam）
+  - **[祝融](../Page/祝融.md "wikilink")-{zh-hk:高達;zh-tw:鋼彈;}-**（GF13-050NSW Nobell Gundam）
 
 :\*推出日期:2009年8月（為「阿修羅王 孟獲高達 祝融高達 巨神象」角色之一）
 
@@ -1413,8 +1331,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 #### 南方四天王
 
   - 南蠻出身的四位蠻王，協助[龐統尋找傳說中](https://zh.wikipedia.org/wiki/龐統 "wikilink")「天之刃」。在[孔明絕技下全部戰死](https://zh.wikipedia.org/wiki/孔明 "wikilink")，繼而被[龐統以暗之玉璽吸收](https://zh.wikipedia.org/wiki/龐統 "wikilink")，成為其一部份。
-  - **[兀突骨盟主](https://zh.wikipedia.org/wiki/兀突骨 "wikilink")**（GF13-001NHII
-    Master Gundam）
+  - **[兀突骨盟主](https://zh.wikipedia.org/wiki/兀突骨 "wikilink")**（GF13-001NHII Master Gundam）
 
 <!-- end list -->
 
@@ -1433,8 +1350,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：不詳
 
-  - **[帶來洞主笑傲江湖](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")**（Walter
-    Gundam）
+  - **[帶來洞主笑傲江湖](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")**（Walter Gundam）
 
 <!-- end list -->
 
@@ -1444,8 +1360,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    [祝融](../Page/祝融.md "wikilink")高達原型機Noble
-    Gundam，吸收DG細胞後，便成為[帶來洞主的原型機](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")「笑傲江湖」，與[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[祝融](../Page/祝融.md "wikilink")與[帶來洞主為姊弟關係互相呼應](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")。
+    [祝融](../Page/祝融.md "wikilink")高達原型機Noble Gundam，吸收DG細胞後，便成為[帶來洞主的原型機](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")「笑傲江湖」，與[三國演義中](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[祝融](../Page/祝融.md "wikilink")與[帶來洞主為姊弟關係互相呼應](https://zh.wikipedia.org/wiki/帶來洞主 "wikilink")。
 
 :\*稱號：不詳
 
@@ -1459,8 +1374,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：巨神象(漫畫版)
 
-  - **[木鹿大王獅王爭霸](https://zh.wikipedia.org/wiki/木鹿大王 "wikilink")**（Grand
-    Gundam）
+  - **[木鹿大王獅王爭霸](https://zh.wikipedia.org/wiki/木鹿大王 "wikilink")**（Grand Gundam）
 
 <!-- end list -->
 
@@ -1479,8 +1393,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*坐騎：不詳
 
-  - **[朵思大王天劍絶刀](https://zh.wikipedia.org/wiki/朵思大王 "wikilink")**（Gundam
-    Heaven's Sword）
+  - **[朵思大王天劍絶刀](https://zh.wikipedia.org/wiki/朵思大王 "wikilink")**（Gundam Heaven's Sword）
 
 <!-- end list -->
 
@@ -1550,8 +1463,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ### 其他
 
-  - **[張魯尼姆](https://zh.wikipedia.org/wiki/張魯 "wikilink")**（MSA-003
-    NEMO）
+  - **[張魯尼姆](https://zh.wikipedia.org/wiki/張魯 "wikilink")**（MSA-003 NEMO）
 
 <!-- end list -->
 
@@ -1578,8 +1490,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 :\*必殺：不詳
 
-  - **玄武裝**．[呂布托爾吉斯](https://zh.wikipedia.org/wiki/呂布 "wikilink")（OZ-00MS2B
-    Tallgeese III）
+  - **玄武裝**．[呂布托爾吉斯](https://zh.wikipedia.org/wiki/呂布 "wikilink")（OZ-00MS2B Tallgeese III）
 
 :\*推出日期:2010年1月
 
@@ -1677,8 +1588,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    四件鎧甲中，唯一無法結合成獸型的鎧甲。不過此缺陷在動畫版[SD
-    高達三國傳BraveBattleWarriors中](https://zh.wikipedia.org/wiki/SD_高達三國傳BraveBattleWarriors "wikilink")，曹操新型態「紅蓮裝曹操」，以新設計背包得到解決。
+    四件鎧甲中，唯一無法結合成獸型的鎧甲。不過此缺陷在動畫版[SD 高達三國傳BraveBattleWarriors中](https://zh.wikipedia.org/wiki/SD_高達三國傳BraveBattleWarriors "wikilink")，曹操新型態「紅蓮裝曹操」，以新設計背包得到解決。
 
 :\*虎燐魄(MSC-07/LMSD-78 Albion)
 
@@ -1904,8 +1814,7 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 <!-- end list -->
 
   -
-    「夜迦」一名，來自象首人身的印度神明「毗那夜迦」，又名「象鼻天」的財神。合體方式、機械獸變成鎧甲的設定，與[SD戰國傳
-    武神輝羅鋼篇的角色](https://zh.wikipedia.org/wiki/SD戰國傳_武神輝羅鋼篇 "wikilink")「鋼鐵甲胄」相似。
+    「夜迦」一名，來自象首人身的印度神明「毗那夜迦」，又名「象鼻天」的財神。合體方式、機械獸變成鎧甲的設定，與[SD戰國傳 武神輝羅鋼篇的角色](https://zh.wikipedia.org/wiki/SD戰國傳_武神輝羅鋼篇 "wikilink")「鋼鐵甲胄」相似。
 
 :\*爆凰機/爆凰扇(背包形態)
 
@@ -1994,14 +1903,12 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 :\***荊州**
 
   -
-    前身是[劉表](https://zh.wikipedia.org/wiki/劉表 "wikilink")
-    統領的荊州軍所在。蔡瑁殺害劉表，繼面向曹操投降後、荊州一度成為機駕領地。赤壁之戰，曹操軍敗陣，神秘的武將[項羽](https://zh.wikipedia.org/wiki/項羽 "wikilink")，以武力佔領400年前作為領地的荊州(楚國)，以復興楚國為號召，與三國對抗。
+    前身是[劉表](https://zh.wikipedia.org/wiki/劉表 "wikilink") 統領的荊州軍所在。蔡瑁殺害劉表，繼面向曹操投降後、荊州一度成為機駕領地。赤壁之戰，曹操軍敗陣，神秘的武將[項羽](https://zh.wikipedia.org/wiki/項羽 "wikilink")，以武力佔領400年前作為領地的荊州(楚國)，以復興楚國為號召，與三國對抗。
 
 :\***南方／南蠻/赤流火穩**
 
   -
-    位於**三璃紗**翔國南部，古代**赤流火穩**的所在之地，統治者為南方國王[孟獲](../Page/孟獲.md "wikilink")，與[三國演義中所出現的](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[南蠻](../Page/南蠻.md "wikilink")並不相同。赤流火穩，最早見於「**SD戰國傳
-    地上最強編**」，相對天宮之國代表[日本](../Page/日本.md "wikilink")、影舞亂夢代表[中國](../Page/中國.md "wikilink")，赤流火穩則代表[印度](../Page/印度.md "wikilink")(阿修羅、仁王、夜叉、羅剎等名稱，是來自印度諸神)。而不論三國志及三國演義，所指的南蠻，是指現今四川雲南一帶、當時仍是蠻荒之地、各族林立的地區。
+    位於**三璃紗**翔國南部，古代**赤流火穩**的所在之地，統治者為南方國王[孟獲](../Page/孟獲.md "wikilink")，與[三國演義中所出現的](https://zh.wikipedia.org/wiki/三國演義 "wikilink")[南蠻](../Page/南蠻.md "wikilink")並不相同。赤流火穩，最早見於「**SD戰國傳 地上最強編**」，相對天宮之國代表[日本](../Page/日本.md "wikilink")、影舞亂夢代表[中國](../Page/中國.md "wikilink")，赤流火穩則代表[印度](../Page/印度.md "wikilink")(阿修羅、仁王、夜叉、羅剎等名稱，是來自印度諸神)。而不論三國志及三國演義，所指的南蠻，是指現今四川雲南一帶、當時仍是蠻荒之地、各族林立的地區。
 
 :\***蓬萊**
 
@@ -2016,20 +1923,16 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 ## 參見
 
-  - [BB戰士三國傳
-    風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
-  - [BB戰士三國傳
-    英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
-  - [BB戰士 三國傳外傳
-    武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
+  - [BB戰士三國傳 風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
+  - [BB戰士三國傳 英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
+  - [BB戰士 三國傳外傳 武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
   - [超電影版SD高達三國傳～BraveBattleWarriors～](../Page/超電影版SD高達三國傳～BraveBattleWarriors～.md "wikilink")
   - [SD戰國傳系列](../Page/SD戰國傳系列.md "wikilink")
 
 ## 參考資料
 
   - 「BB戰士三國傳」模型說明書
-  - 模型雜誌《[Hobby
-    Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")》
+  - 模型雜誌《[Hobby Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")》
   - 動晝雜誌《Kerokero Ace》—「BB戰士三國傳．英雄激突編」矢野健太郎著
   - 動畫雜誌《COCO》
   - 《BB戰士三國傳．風雲豪傑編》（卷1、2）[鴇田洸一著](../Page/時田洸一.md "wikilink")
@@ -2047,5 +1950,4 @@ set--內含曹操、曹丕-{zh-hans:高达;zh-hk:高達;zh-tw:鋼彈;}-和徐晃
 
 [ja:BB戦士三国伝\#戦神決闘編](https://zh.wikipedia.org/wiki/ja:BB戦士三国伝#戦神決闘編 "wikilink")
 
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")
+[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")

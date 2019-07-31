@@ -1,5 +1,4 @@
-《**咒法解禁\!\! HYDE &
-CROSER**》（），是[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")在2008年4·5號合併號中開始連載的[麻生羽呂的漫畫作品](https://zh.wikipedia.org/wiki/麻生羽呂 "wikilink")。話數計算為「第○劇」。[青文出版社](../Page/青文出版社.md "wikilink")發行的[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")於2008年8月號開始連載
+《**咒法解禁\!\! HYDE & CROSER**》（），是[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")在2008年4·5號合併號中開始連載的[麻生羽呂的漫畫作品](https://zh.wikipedia.org/wiki/麻生羽呂 "wikilink")。話數計算為「第○劇」。[青文出版社](../Page/青文出版社.md "wikilink")發行的[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")於2008年8月號開始連載
 
 ## 劇情介紹
 
@@ -91,8 +90,7 @@ CROSER**》（），是[週刊少年Sunday](../Page/週刊少年Sunday.md "wikil
 
   -
 
-::
-在世界各地出沒，發出活生生吞下春瓶的心臟就能得到克洛瑟的力量的謠言的始作俑者。在什麼都沒有的空間中在窗戶旁出現的男子，故被稱為「窗邊之男」。不只散佈謠言，也四處慫恿著沒有戰鬥意志的人。有著毀滅人類的欲望，偶然發現傳說的終極咒具「憤恨之心」(正在誕生中)，但卻被亞爾席德·克洛瑟以自身為媒介做成的結界保護，用盡一切方法也破不了結界。經過六年，發現亞爾席德·克洛瑟有一孫子──黑兔春瓶，便散佈謠言，使春瓶陷入危機，迫使亞爾席德·克洛瑟解除結界現身。
+:: 在世界各地出沒，發出活生生吞下春瓶的心臟就能得到克洛瑟的力量的謠言的始作俑者。在什麼都沒有的空間中在窗戶旁出現的男子，故被稱為「窗邊之男」。不只散佈謠言，也四處慫恿著沒有戰鬥意志的人。有著毀滅人類的欲望，偶然發現傳說的終極咒具「憤恨之心」(正在誕生中)，但卻被亞爾席德·克洛瑟以自身為媒介做成的結界保護，用盡一切方法也破不了結界。經過六年，發現亞爾席德·克洛瑟有一孫子──黑兔春瓶，便散佈謠言，使春瓶陷入危機，迫使亞爾席德·克洛瑟解除結界現身。
 
 :;
 
@@ -161,10 +159,4 @@ CROSER**》（），是[週刊少年Sunday](../Page/週刊少年Sunday.md "wikil
   -
   - [動漫廢物電台的討論](http://www.acrubbish.org/archive/acrubbish21.html#201)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
-[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
-[Category:魔法題材作品](https://zh.wikipedia.org/wiki/Category:魔法題材作品 "wikilink")
-[Category:玩具题材作品](https://zh.wikipedia.org/wiki/Category:玩具题材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink") [Category:魔法題材作品](https://zh.wikipedia.org/wiki/Category:魔法題材作品 "wikilink") [Category:玩具题材作品](https://zh.wikipedia.org/wiki/Category:玩具题材作品 "wikilink")

@@ -1,9 +1,8 @@
-[香港境內先後有十多個公開舉辦的](../Page/香港.md "wikilink")[Cosplay活動](../Page/Cosplay.md "wikilink")，遍布[香港](../Page/香港.md "wikilink")、[九龍及](../Page/九龍.md "wikilink")[新界](../Page/新界.md "wikilink")。
+[香港](../Page/香港.md "wikilink")境內先後有十多個公開舉辦的[Cosplay](../Page/Cosplay.md "wikilink")活動，遍布[香港](../Page/香港.md "wikilink")、[九龍](../Page/九龍.md "wikilink")及[新界](../Page/新界.md "wikilink")。
 
 ## 大型活動
 
-[香港各地有主要Cosplay聚會環節的活動有的](../Page/香港.md "wikilink")[商營機構舉辦的活動](https://zh.wikipedia.org/wiki/商業 "wikilink")（主要作為[同人誌](../Page/同人誌.md "wikilink")、[漫畫或](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[展覽的賣點之一](https://zh.wikipedia.org/wiki/展覽 "wikilink")），也有香港各間[大專](https://zh.wikipedia.org/wiki/大專 "wikilink")[學院定期舉辦的Cosplay活動](../Page/學院.md "wikilink")（包括寄縮於[文藝範疇項目活動中之Cosplay活動](https://zh.wikipedia.org/wiki/文藝 "wikilink")
-和 純粹Cosplay活動），計有如下：
+[香港](../Page/香港.md "wikilink")各地有主要Cosplay聚會環節的活動有的[商營機構舉辦的活動](https://zh.wikipedia.org/wiki/商業 "wikilink")（主要作為[同人誌](../Page/同人誌.md "wikilink")、[漫畫或](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[展覽的賣點之一](https://zh.wikipedia.org/wiki/展覽 "wikilink")），也有香港各間[大專](https://zh.wikipedia.org/wiki/大專 "wikilink")[學院](../Page/學院.md "wikilink")定期舉辦的Cosplay活動（包括寄縮於[文藝範疇項目活動中之Cosplay活動](https://zh.wikipedia.org/wiki/文藝 "wikilink") 和 純粹Cosplay活動），計有如下：
 
 <table>
 <thead>
@@ -203,8 +202,8 @@ Gateway Computer Resource Limited</p></td>
 <td><p>每年1月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/市政民娛康體署" title="wikilink">市政民娛康體署</a>、<br />
 <a href="../Page/藝穗會.md" title="wikilink">藝穗會</a></p></td>
-<td><p><a href="../Page/沙田大會堂.md" title="wikilink">沙田大會堂對開空地</a></p></td>
-<td><p>同人Cosplay文化在<a href="../Page/香港.md" title="wikilink">香港萌芽之處</a></p></td>
+<td><p><a href="../Page/沙田大會堂.md" title="wikilink">沙田大會堂</a>對開空地</p></td>
+<td><p>同人Cosplay文化在<a href="../Page/香港.md" title="wikilink">香港</a>萌芽之處</p></td>
 </tr>
 <tr class="even">
 <td><p>已停辦<br />
@@ -217,7 +216,7 @@ Gateway Computer Resource Limited</p></td>
 「Comicbabie's」、<br />
 「<a href="../Page/火狗工房.md" title="wikilink">火狗工房</a>」（1997年）</p></td>
 <td><p><a href="../Page/旺角.md" title="wikilink">旺角</a><a href="https://zh.wikipedia.org/wiki/麥花臣室內場館" title="wikilink">麥花臣室內場館</a></p></td>
-<td><p>同人Cosplay文化在<a href="../Page/香港.md" title="wikilink">香港發圍之處</a></p></td>
+<td><p>同人Cosplay文化在<a href="../Page/香港.md" title="wikilink">香港</a>發圍之處</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -235,13 +234,9 @@ Gateway Computer Resource Limited</p></td>
 
   - [Cosplay](../Page/Cosplay.md "wikilink")
 
-[en:List of anime conventions\#Hong
-Kong](https://zh.wikipedia.org/wiki/en:List_of_anime_conventions#Hong_Kong "wikilink")
-[Category:香港艺术](https://zh.wikipedia.org/wiki/Category:香港艺术 "wikilink")
+[en:List of anime conventions\#Hong Kong](https://zh.wikipedia.org/wiki/en:List_of_anime_conventions#Hong_Kong "wikilink") [Category:香港艺术](https://zh.wikipedia.org/wiki/Category:香港艺术 "wikilink")
 
-[Category:香港相關列表](https://zh.wikipedia.org/wiki/Category:香港相關列表 "wikilink")
-[Category:同好會展](https://zh.wikipedia.org/wiki/Category:同好會展 "wikilink")
-[Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
+[Category:香港相關列表](https://zh.wikipedia.org/wiki/Category:香港相關列表 "wikilink") [Category:同好會展](https://zh.wikipedia.org/wiki/Category:同好會展 "wikilink") [Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
 
 1.  <http://firefly.vtc.edu.hk>
 2.  <https://web.archive.org/web/20090727161929/http://hk.geocities.com/hatsu_natsu/>

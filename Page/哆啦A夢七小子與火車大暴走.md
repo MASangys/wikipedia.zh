@@ -1,5 +1,4 @@
-**《哆啦A夢七小子與火車大暴走》**（），於2000年3月11日与《[大雄的太阳王传说](https://zh.wikipedia.org/wiki/大雄的太阳王传说 "wikilink")》、《[大雄的懷念奶奶](../Page/大雄的懷念奶奶.md "wikilink")》同年在日本公开播映。
-此作品中，监督由錦織博代替前作的[米谷良知](../Page/米谷良知.md "wikilink")。片長17分鐘。
+**《哆啦A夢七小子與火車大暴走》**（），於2000年3月11日与《[大雄的太阳王传说](https://zh.wikipedia.org/wiki/大雄的太阳王传说 "wikilink")》、《[大雄的懷念奶奶](../Page/大雄的懷念奶奶.md "wikilink")》同年在日本公开播映。 此作品中，监督由錦織博代替前作的[米谷良知](../Page/米谷良知.md "wikilink")。片長17分鐘。
 
 ## 剧情简介
 
@@ -84,9 +83,4 @@
 
 也许因为字形、字义相似，日文原名屡屡被误排为。
 
-[Category:錦織博電影](https://zh.wikipedia.org/wiki/Category:錦織博電影 "wikilink")
-[Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink")
-[Category:2000年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2000年日本劇場動畫 "wikilink")
-[Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink")
-[Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink")
-[Category:鐵道電影](https://zh.wikipedia.org/wiki/Category:鐵道電影 "wikilink")
+[Category:錦織博電影](https://zh.wikipedia.org/wiki/Category:錦織博電影 "wikilink") [Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink") [Category:2000年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2000年日本劇場動畫 "wikilink") [Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink") [Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink") [Category:鐵道電影](https://zh.wikipedia.org/wiki/Category:鐵道電影 "wikilink")

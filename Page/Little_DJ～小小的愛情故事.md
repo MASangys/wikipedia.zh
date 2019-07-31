@@ -1,5 +1,4 @@
-《**Little
-DJ～小小的愛情故事**》（****）是一本[POPLAR社於](https://zh.wikipedia.org/wiki/POPLAR社 "wikilink")2007年出版的[日本小說](https://zh.wikipedia.org/wiki/日本小說 "wikilink")（由[鬼塚忠所著](https://zh.wikipedia.org/wiki/鬼塚忠 "wikilink")，中文譯名《小DJ的戀愛物語》），以及一套改編自此小說的[電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")。
+《**Little DJ～小小的愛情故事**》（****）是一本[POPLAR社於](https://zh.wikipedia.org/wiki/POPLAR社 "wikilink")2007年出版的[日本小說](https://zh.wikipedia.org/wiki/日本小說 "wikilink")（由[鬼塚忠所著](https://zh.wikipedia.org/wiki/鬼塚忠 "wikilink")，中文譯名《小DJ的戀愛物語》），以及一套改編自此小說的[電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")。
 
 ## 小說
 
@@ -63,8 +62,7 @@ DJ～小小的愛情故事**》（****）是一本[POPLAR社於](https://zh.wiki
 
 ### 製作人員
 
-  - 原作：[鬼塚忠](https://zh.wikipedia.org/wiki/鬼塚忠 "wikilink")《Little DJ
-    小小的愛情故事》（[POPLAR社出版](https://zh.wikipedia.org/wiki/POPLAR社 "wikilink")）
+  - 原作：[鬼塚忠](https://zh.wikipedia.org/wiki/鬼塚忠 "wikilink")《Little DJ 小小的愛情故事》（[POPLAR社出版](https://zh.wikipedia.org/wiki/POPLAR社 "wikilink")）
   - 導演：[永田琴](https://zh.wikipedia.org/wiki/永田琴 "wikilink")
   - 編劇：[三浦有為子](https://zh.wikipedia.org/wiki/三浦有為子 "wikilink")、永田琴
   - 音樂：[佐藤直紀](../Page/佐藤直紀.md "wikilink")
@@ -81,28 +79,13 @@ DJ～小小的愛情故事**》（****）是一本[POPLAR社於](https://zh.wiki
   - 服裝：[高橋智加江](https://zh.wikipedia.org/wiki/高橋智加江 "wikilink")、[今枝千佳](https://zh.wikipedia.org/wiki/今枝千佳 "wikilink")
   - 化妝：[清水惇子](https://zh.wikipedia.org/wiki/清水惇子 "wikilink")
   - 副監製：[盛夏子](https://zh.wikipedia.org/wiki/盛夏子 "wikilink")
-  - 製作：Little DJ film partners（[Amuse Soft
-    Entertainment](https://zh.wikipedia.org/wiki/Amuse_Soft_Entertainment "wikilink")、[Amuse](../Page/Amuse.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[SKY
-    Perfect Well
-    Think](https://zh.wikipedia.org/wiki/SKY_Perfect_Well_Think "wikilink")、[DesperaDo](https://zh.wikipedia.org/wiki/DesperaDo "wikilink")、[IMAGICA](https://zh.wikipedia.org/wiki/IMAGICA "wikilink")、POPLAR社、[atmovie](https://zh.wikipedia.org/wiki/atmovie "wikilink")）
+  - 製作：Little DJ film partners（[Amuse Soft Entertainment](https://zh.wikipedia.org/wiki/Amuse_Soft_Entertainment "wikilink")、[Amuse](../Page/Amuse.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[SKY Perfect Well Think](https://zh.wikipedia.org/wiki/SKY_Perfect_Well_Think "wikilink")、[DesperaDo](https://zh.wikipedia.org/wiki/DesperaDo "wikilink")、[IMAGICA](https://zh.wikipedia.org/wiki/IMAGICA "wikilink")、POPLAR社、[atmovie](https://zh.wikipedia.org/wiki/atmovie "wikilink")）
   - 企劃、製作公司：atmovie
   - 發行：DesperaDo
 
 ## 外部連結
 
   - [電影「Little DJ」官方網站](http://www.little-dj.com/)
-  - [poplarbeech 小說「Little
-    DJ」](https://web.archive.org/web/20071217073724/http://www.poplarbeech.com/book/index313.html)
+  - [poplarbeech 小說「Little DJ」](https://web.archive.org/web/20071217073724/http://www.poplarbeech.com/book/index313.html)
 
-[Category:2007年日本小說](https://zh.wikipedia.org/wiki/Category:2007年日本小說 "wikilink")
-[Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink")
-[Category:醫院背景小說](https://zh.wikipedia.org/wiki/Category:醫院背景小說 "wikilink")
-[Category:橫須賀市背景作品](https://zh.wikipedia.org/wiki/Category:橫須賀市背景作品 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:2007年電影](https://zh.wikipedia.org/wiki/Category:2007年電影 "wikilink")
-[Category:2000年代愛情片](https://zh.wikipedia.org/wiki/Category:2000年代愛情片 "wikilink")
-[Category:日本愛情片](https://zh.wikipedia.org/wiki/Category:日本愛情片 "wikilink")
-[Category:北海道背景電影](https://zh.wikipedia.org/wiki/Category:北海道背景電影 "wikilink")
-[Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink")
-[Category:醫院背景電影](https://zh.wikipedia.org/wiki/Category:醫院背景電影 "wikilink")
-[Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink")
+[Category:2007年日本小說](https://zh.wikipedia.org/wiki/Category:2007年日本小說 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:醫院背景小說](https://zh.wikipedia.org/wiki/Category:醫院背景小說 "wikilink") [Category:橫須賀市背景作品](https://zh.wikipedia.org/wiki/Category:橫須賀市背景作品 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:2007年電影](https://zh.wikipedia.org/wiki/Category:2007年電影 "wikilink") [Category:2000年代愛情片](https://zh.wikipedia.org/wiki/Category:2000年代愛情片 "wikilink") [Category:日本愛情片](https://zh.wikipedia.org/wiki/Category:日本愛情片 "wikilink") [Category:北海道背景電影](https://zh.wikipedia.org/wiki/Category:北海道背景電影 "wikilink") [Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink") [Category:醫院背景電影](https://zh.wikipedia.org/wiki/Category:醫院背景電影 "wikilink") [Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink")

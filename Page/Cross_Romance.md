@@ -1,7 +1,4 @@
-《**Cross
-Romance**》（）是[日本物產](../Page/日本物產.md "wikilink")株式會社（[Nichibutsu](https://zh.wikipedia.org/wiki/Nichibutsu "wikilink")）於1997年3月28日在[PlayStation平台上發行的戀愛冒險遊戲](../Page/PlayStation_\(遊戲機\).md "wikilink")，同年10月9日發行[Sega
-Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，1999年12月22日推出廉價版（2,800日幣）。此遊戲嘗試將戀愛、麻將、花札三個元素集結在一起，並主打14名豪華的聲優陣容。[Sega
-Saturn版因為多了泳裝和沐浴的CG所以被列為](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")18歲以上的年齡限制。
+《**Cross Romance**》（）是[日本物產](../Page/日本物產.md "wikilink")株式會社（[Nichibutsu](https://zh.wikipedia.org/wiki/Nichibutsu "wikilink")）於1997年3月28日在[PlayStation平台上發行的戀愛冒險遊戲](../Page/PlayStation_\(遊戲機\).md "wikilink")，同年10月9日發行[Sega Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，1999年12月22日推出廉價版（2,800日幣）。此遊戲嘗試將戀愛、麻將、花札三個元素集結在一起，並主打14名豪華的聲優陣容。[Sega Saturn版因為多了泳裝和沐浴的CG所以被列為](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")18歲以上的年齡限制。
 
 ## 遊戲概要
 
@@ -162,6 +159,4 @@ Saturn版因為多了泳裝和沐浴的CG所以被列為](https://zh.wikipedia.o
 
   - [Cross Romance影片](https://www.youtube.com/watch?v=01x1auaRJM8)
 
-[Category:1997年電子遊戲](https://zh.wikipedia.org/wiki/Category:1997年電子遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
+[Category:1997年電子遊戲](https://zh.wikipedia.org/wiki/Category:1997年電子遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")

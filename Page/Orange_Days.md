@@ -1,18 +1,11 @@
-《**Orange
-Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https://zh.wikipedia.org/wiki/東京放送 "wikilink")2004年4月11日[周日劇場推出的](../Page/周日劇場.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，總數11集。本劇平均[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")17.23%，最高收視率為完結篇的23%，因劇情貼近學生生活，在日本播出時獲得廣大迴響。
+《**Orange Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https://zh.wikipedia.org/wiki/東京放送 "wikilink")2004年4月11日[周日劇場](../Page/周日劇場.md "wikilink")推出的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，總數11集。本劇平均[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")17.23%，最高收視率為完結篇的23%，因劇情貼近學生生活，在日本播出時獲得廣大迴響。
 
 ## 劇情大綱
 
-  - 原作由《[美麗人生](../Page/美麗人生_\(日本電視劇\).md "wikilink")》等作品知名的劇作家－[北川悅吏子所寫](../Page/北川悅吏子.md "wikilink")。
-  - 日本演藝界頗受矚目的兩大新生代影星－[妻夫木聰與](../Page/妻夫木聰.md "wikilink")[柴咲幸](../Page/柴咲幸.md "wikilink")，首次同台主演，搭配[柏原崇等演員卡司](../Page/柏原崇.md "wikilink")。
-  - 大學四年級的社會福利心理系學生結城櫂（[妻夫木聰](../Page/妻夫木聰.md "wikilink")
-    飾），連續收到了應徵工作未錄取的通知心情沮喪，所幸他有個唸研究所的女友真帆（[小西真奈美](../Page/小西真奈美.md "wikilink")
-    飾）鼓勵他。死黨啟太（[瑛太](../Page/瑛太.md "wikilink")
-    飾）因為早已獲得某企內定錄用，過著十分悠哉的大四生活；而另一名死黨翔平（[成宮寬貴](../Page/成宮寬貴.md "wikilink")
-    飾）則是個極度厭惡上班族生活的人，完全不打算找工作。
-  - 剛面試完的櫂在校園遇到了一個拉小提琴的奇怪女孩，女孩拉完琴後竟伸手向他要錢。這個女孩就是沙繪（[柴咲幸](../Page/柴咲幸.md "wikilink")
-    飾）。她是個從小便顯露音樂才華的少女，更赴美進修小提琴，但一場病痛卻奪走了對音樂家來說最重要的聽力，失意的她只好回國，進入好友小茜（[白石美帆](../Page/白石美帆.md "wikilink")
-    飾）所就讀的學校，但她的心也隨著聽力的喪失一同封閉了。
+  - 原作由《[美麗人生](../Page/美麗人生_\(日本電視劇\).md "wikilink")》等作品知名的劇作家－[北川悅吏子](../Page/北川悅吏子.md "wikilink")所寫。
+  - 日本演藝界頗受矚目的兩大新生代影星－[妻夫木聰](../Page/妻夫木聰.md "wikilink")與[柴咲幸](../Page/柴咲幸.md "wikilink")，首次同台主演，搭配[柏原崇](../Page/柏原崇.md "wikilink")等演員卡司。
+  - 大學四年級的社會福利心理系學生結城櫂（[妻夫木聰](../Page/妻夫木聰.md "wikilink") 飾），連續收到了應徵工作未錄取的通知心情沮喪，所幸他有個唸研究所的女友真帆（[小西真奈美](../Page/小西真奈美.md "wikilink") 飾）鼓勵他。死黨啟太（[瑛太](../Page/瑛太.md "wikilink") 飾）因為早已獲得某企內定錄用，過著十分悠哉的大四生活；而另一名死黨翔平（[成宮寬貴](../Page/成宮寬貴.md "wikilink") 飾）則是個極度厭惡上班族生活的人，完全不打算找工作。
+  - 剛面試完的櫂在校園遇到了一個拉小提琴的奇怪女孩，女孩拉完琴後竟伸手向他要錢。這個女孩就是沙繪（[柴咲幸](../Page/柴咲幸.md "wikilink") 飾）。她是個從小便顯露音樂才華的少女，更赴美進修小提琴，但一場病痛卻奪走了對音樂家來說最重要的聽力，失意的她只好回國，進入好友小茜（[白石美帆](../Page/白石美帆.md "wikilink") 飾）所就讀的學校，但她的心也隨著聽力的喪失一同封閉了。
   - 青澀的Orange Days，探討這群即將踏入社會的大學生們，如何找到自己生命中的未來方向，和探尋自己的真愛。
 
 ## 演員列表
@@ -67,7 +60,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https:
 <!-- end list -->
 
   -
-    明青學院大學[研究所學生](../Page/研究所.md "wikilink")，堺田的助手。比櫂大3歲，曾經是櫂的女朋友，分手後與佐野交往。
+    明青學院大學[研究所](../Page/研究所.md "wikilink")學生，堺田的助手。比櫂大3歲，曾經是櫂的女朋友，分手後與佐野交往。
 
 <!-- end list -->
 
@@ -117,8 +110,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https:
 ## 主題曲及插曲
 
   - 主題曲：[Mr.Children](../Page/Mr.Children.md "wikilink")「[Sign](https://zh.wikipedia.org/wiki/Sign（Mr.Children單曲） "wikilink")」
-  - 挿曲：[ORANGE
-    RANGE](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink")「[上海ハニー](https://zh.wikipedia.org/wiki/上海ハニー "wikilink")」（上海甜心）
+  - 挿曲：[ORANGE RANGE](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink")「[上海ハニー](https://zh.wikipedia.org/wiki/上海ハニー "wikilink")」（上海甜心）
   - 挿曲：[轉轉圈樂團](https://zh.wikipedia.org/wiki/轉轉圈樂團 "wikilink")「[ばらの花](https://zh.wikipedia.org/wiki/ばらの花 "wikilink")」（荊棘之花）
   - 挿曲：[蕭邦](https://zh.wikipedia.org/wiki/蕭邦 "wikilink")「[英雄波蘭舞曲](https://zh.wikipedia.org/wiki/英雄波蘭舞曲 "wikilink")」
 
@@ -135,7 +127,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https:
     最佳編劇：[北川悦吏子](https://zh.wikipedia.org/wiki/北川悦吏子 "wikilink")
     最佳片頭：生野慈朗
     最佳卡司
-    特別賞：[手語指導](../Page/手語.md "wikilink")（南留花、佐藤由紀惠、鹽谷武志）
+    特別賞：[手語](../Page/手語.md "wikilink")指導（南留花、佐藤由紀惠、鹽谷武志）
 
 ## 收視率
 
@@ -283,12 +275,4 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https:
   -
 ## 節目的變遷
 
-[Category:周日劇場](https://zh.wikipedia.org/wiki/Category:周日劇場 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:2004年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2004年日本電視劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:聽覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:聽覺障礙題材作品 "wikilink")
-[Category:北川悅吏子劇本作品](https://zh.wikipedia.org/wiki/Category:北川悅吏子劇本作品 "wikilink")
+[Category:周日劇場](https://zh.wikipedia.org/wiki/Category:周日劇場 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:2004年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2004年日本電視劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:聽覺障礙題材作品](https://zh.wikipedia.org/wiki/Category:聽覺障礙題材作品 "wikilink") [Category:北川悅吏子劇本作品](https://zh.wikipedia.org/wiki/Category:北川悅吏子劇本作品 "wikilink")

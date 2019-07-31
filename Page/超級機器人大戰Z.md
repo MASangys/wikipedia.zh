@@ -18,13 +18,11 @@
   - [無敵超人珍寶3](https://zh.wikipedia.org/wiki/無敵超人珍寶3 "wikilink")（）
   - [無敵鋼人泰坦3](https://zh.wikipedia.org/wiki/無敵鋼人泰坦3 "wikilink")（）
   - [戰鬥機器 薩奔格爾](https://zh.wikipedia.org/wiki/戰鬥機器_薩奔格爾 "wikilink")（）
-  - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（）
-    ※註：以劇場版設定作準\[1\]
+  - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（） ※註：以劇場版設定作準\[1\]
   - [機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")（）
   - [機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")（）
   - [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")（）
-  - [機動戰士GUNDAM SEED
-    DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（）
+  - [機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（）
   - [無敵鐵金剛](../Page/無敵鐵金剛.md "wikilink")（）
   - [金剛大魔神](../Page/金剛大魔神.md "wikilink")（）
   - [金剛戰神](../Page/金剛戰神.md "wikilink")（）
@@ -41,35 +39,25 @@
 
 有9個新參戰作品。與過去的系列作比較起來，本作的多數作品都有著劇情上難以再現的特殊世界觀。
 
-《機動戰士Z GUNDAM》的故事及人物加入劇場版的設定，《宇宙戰士》起用劇場版的声優。《戰鬥機器
-薩奔格爾》有提及的生存和眼睛的治療，亦包含有劇場版《》的要素。
+《機動戰士Z GUNDAM》的故事及人物加入劇場版的設定，《宇宙戰士》起用劇場版的声優。《戰鬥機器 薩奔格爾》有提及的生存和眼睛的治療，亦包含有劇場版《》的要素。
 
-《機動戰士GUNDAM SEED
-DESTINY》方面，基本上以[真·飛鳥](../Page/真·飛鳥.md "wikilink")的視點重現此作故事。最終話與原作故事不同，真可以脫離-{zh-cn:札夫特;zh-tw:札夫特;
-zh-hk:札多軍;}-並加入我方部隊進行IF劇情，只要滿足一定條件就能進入該路線（完成一次就能無條件選擇進入與否）。《[第2次Z
-破界篇](../Page/第2次超級機器人大戰Z.md "wikilink")》的限定版附屬的Digest
-Book，有描述IF故事的正史。
+《機動戰士GUNDAM SEED DESTINY》方面，基本上以[真·飛鳥](../Page/真·飛鳥.md "wikilink")的視點重現此作故事。最終話與原作故事不同，真可以脫離-{zh-cn:札夫特;zh-tw:札夫特; zh-hk:札多軍;}-並加入我方部隊進行IF劇情，只要滿足一定條件就能進入該路線（完成一次就能無條件選擇進入與否）。《[第2次Z 破界篇](../Page/第2次超級機器人大戰Z.md "wikilink")》的限定版附屬的Digest Book，有描述IF故事的正史。
 
 《宇宙戰士》方面，在版登場巴爾迪歐斯（）最後的必殺技「」第一次以動畫形式登場。
 
-在遊戲中不同的行動會影響最終的結局，因此有Bad Ending。另外，不是結局之一，在某些劇情中會有重現《宇宙戰士》最終回的特殊Game
-Over。
+在遊戲中不同的行動會影響最終的結局，因此有Bad Ending。另外，不是結局之一，在某些劇情中會有重現《宇宙戰士》最終回的特殊Game Over。
 
-發售前已宣佈《機動戰士GUNDAM 逆襲的夏亞》只有機体登場，因此《機動戰士Z
-GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在戰鬥動畫中會穿着](../Page/阿姆羅·雷.md "wikilink")《逆襲的夏亞》時代的駕駛員制服演出。
+發售前已宣佈《機動戰士GUNDAM 逆襲的夏亞》只有機体登場，因此《機動戰士Z GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在戰鬥動畫中會穿着](../Page/阿姆羅·雷.md "wikilink")《逆襲的夏亞》時代的駕駛員制服演出。
 
 ### 封面登場機體
 
   - Orguss（超時空世紀）
   - \-{zh-cn:王者盖纳; zh-hant:帝皇基拿}-（帝皇戰紀）
-  - [God
-    Gravion](https://zh.wikipedia.org/wiki/超重神GRAVION#神機超重神（God_Gravion） "wikilink")（超重神GRAVION）
+  - [God Gravion](https://zh.wikipedia.org/wiki/超重神GRAVION#神機超重神（God_Gravion） "wikilink")（超重神GRAVION）
   - [太空戰神](https://zh.wikipedia.org/wiki/神勇戰士#登場機械 "wikilink")（神勇戰士）
   - 薩奔格爾（戰鬥機器 薩奔格爾）
-  - [-{zh-hans:Sola Aquarion;zh-tw:太陽機械天使;zh-hk:Sola
-    Aquarion}-](https://zh.wikipedia.org/wiki/創聖的亞庫艾里翁#機械天使基本3形態 "wikilink")（創聖的亞庫艾里翁）
-  - [命運GUNDAM](../Page/ZGMF-X42S_Destiny.md "wikilink")（機動戰士GUNDAM SEED
-    DESTINY）
+  - [-{zh-hans:Sola Aquarion;zh-tw:太陽機械天使;zh-hk:Sola Aquarion}-](https://zh.wikipedia.org/wiki/創聖的亞庫艾里翁#機械天使基本3形態 "wikilink")（創聖的亞庫艾里翁）
+  - [命運GUNDAM](../Page/ZGMF-X42S_Destiny.md "wikilink")（機動戰士GUNDAM SEED DESTINY）
   - 尼爾瓦修 typeZERO（交響詩篇）
   - [巴爾迪歐斯](https://zh.wikipedia.org/wiki/宇宙戰士#藍天鷹（ブルーフィクサー）基地 "wikilink")（宇宙戰士）
   - [無敵鐵金剛](https://zh.wikipedia.org/wiki/無敵鐵金剛#登場機體 "wikilink")（無敵鐵金剛）
@@ -100,16 +88,12 @@ GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在�
 ### 原作設定重現系統
 
   - 合神・重力子臨界（超重神GRAVION）
-    當超重王（）的駕駛員天空侍斗牙氣力超過130，就能合神成God Gravion（）。God
-    Gravion有重力子臨界的設定，經過3回合的合神後就會強制解除合神，并且在同一地關內不能再合神。隨著劇情發展以後，一開始便能以常God
-    Gravion的模式上陣，且合神不再有回合数限制。
+    當超重王（）的駕駛員天空侍斗牙氣力超過130，就能合神成God Gravion（）。God Gravion有重力子臨界的設定，經過3回合的合神後就會強制解除合神，并且在同一地關內不能再合神。隨著劇情發展以後，一開始便能以常God Gravion的模式上陣，且合神不再有回合数限制。
 
 <!-- end list -->
 
   - \-{zh-hans:Aquarion;zh-tw:機械天使;zh-hk:Aquarion}-的「Transfer」（創聖的亞庫艾里翁）
-    可更换-{zh-hans:Aquarion;zh-tw:機械天使;zh-hk:Aquarion}-的驾驶员组合，但-{zh-hans:Sola
-    Aquarion;zh-tw:太陽機械天使;zh-hk:Sola
-    Aquarion}-必定由阿波羅驾驶。組合總數5種，使用不同的駕駛員组合武器亦會有變化。
+    可更换-{zh-hans:Aquarion;zh-tw:機械天使;zh-hk:Aquarion}-的驾驶员组合，但-{zh-hans:Sola Aquarion;zh-tw:太陽機械天使;zh-hk:Sola Aquarion}-必定由阿波羅驾驶。組合總數5種，使用不同的駕駛員组合武器亦會有變化。
 
 <!-- end list -->
 
@@ -119,9 +103,7 @@ GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在�
 <!-- end list -->
 
   - 衛星系統（機動新世紀GUNDAM X）
-    只適用於GUNDAMX和GUNDAMDOUBLE
-    X。在有月亮出現的關卡內戰鬥開始經過一定回合，衛星系統（）就會起動，能夠發射(X)衛星加農砲（）、(DX)雙聯衛星加農砲（）。充電時間需要4回合，GUNDAMDOUBLE
-    X與G-FALCON合体的話會減少1回合。将机体完全改造后会再减少一回合。
+    只適用於GUNDAMX和GUNDAMDOUBLE X。在有月亮出現的關卡內戰鬥開始經過一定回合，衛星系統（）就會起動，能夠發射(X)衛星加農砲（）、(DX)雙聯衛星加農砲（）。充電時間需要4回合，GUNDAMDOUBLE X與G-FALCON合体的話會減少1回合。将机体完全改造后会再减少一回合。
 
 <!-- end list -->
 
@@ -136,12 +118,7 @@ GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在�
 <!-- end list -->
 
   - SEED（机动战士GUNDAM SEED DESTINY）
-    属于原作主要人物[-{zh-cn:基拉·大和; zh-tw:煌·大和;
-    zh-hk:基拉·大和}-](../Page/基拉·大和.md "wikilink")、[-{zh-cn:阿斯兰·萨拉;
-    zh-tw:阿斯蘭·薩拉;
-    zh-hk:亞斯蘭·察拉}-](../Page/阿斯兰·萨拉.md "wikilink")、[-{zh-hans:拉克丝·克莱因;zh-hk:莉古絲·古蘭爾;zh-tw:拉克絲·克萊因;}-](https://zh.wikipedia.org/wiki/拉克丝·克莱因 "wikilink")、[-{zh-cn:卡嘉丽;
-    zh-tw:卡佳里;
-    zh-hk:卡嘉蓮}-和真](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")·飞鸟的能力。当他们的气力到达130以上时会获得命中／回避／必杀率+20%的效果。
+    属于原作主要人物[-{zh-cn:基拉·大和; zh-tw:煌·大和; zh-hk:基拉·大和}-](../Page/基拉·大和.md "wikilink")、[-{zh-cn:阿斯兰·萨拉; zh-tw:阿斯蘭·薩拉; zh-hk:亞斯蘭·察拉}-](../Page/阿斯兰·萨拉.md "wikilink")、[-{zh-hans:拉克丝·克莱因;zh-hk:莉古絲·古蘭爾;zh-tw:拉克絲·克萊因;}-](https://zh.wikipedia.org/wiki/拉克丝·克莱因 "wikilink")、[-{zh-cn:卡嘉丽; zh-tw:卡佳里; zh-hk:卡嘉蓮}-和真](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")·飞鸟的能力。当他们的气力到达130以上时会获得命中／回避／必杀率+20%的效果。
 
 <!-- end list -->
 
@@ -151,8 +128,7 @@ GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在�
 <!-- end list -->
 
   - 談判（THE Big O）
-    Big O除了能在戰鬥下降敵人的氣力外，亦能使我方被被擊墜的機體修理費變0。注意，即使Big O一開始有出擊，但如果在完成關卡時Big
-    O已被擊墜的話此技能便無效。
+    Big O除了能在戰鬥下降敵人的氣力外，亦能使我方被被擊墜的機體修理費變0。注意，即使Big O一開始有出擊，但如果在完成關卡時Big O已被擊墜的話此技能便無效。
 
 <!-- end list -->
 
@@ -167,8 +143,7 @@ GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在�
 <!-- end list -->
 
   - ZEUTH
-    本作主角的部隊的默認名稱，全寫為**Z E**MERGENCY **U**NION OF **T**ERRESTRIAL
-    **H**UMAN（地球人類緊急救援連合）。Z是代表無論任何情況都不退縮。
+    本作主角的部隊的默認名稱，全寫為**Z E**MERGENCY **U**NION OF **T**ERRESTRIAL **H**UMAN（地球人類緊急救援連合）。Z是代表無論任何情況都不退縮。
 
 <!-- end list -->
 
@@ -257,21 +232,12 @@ GUNDAM》時代的[-{zh-hans:阿姆罗;zh-hk:阿寶;zh-tw:阿姆羅;}-只會在�
 ## 連結
 
   - [超級機器人大戰Z 官方網站](http://www.suparobo.jp/srw_lineup/srw_z/index.html)
-  - [PlayStation Official Site 超級機器人大戰Z（通常版）
-    介紹頁面](http://www.jp.playstation.com/software/title/slps25887.html)
-  - [PlayStation Official Site 超級機器人大戰Z（PlayStation 2 the Best版）
-    介紹頁面](http://www.jp.playstation.com/software/title/slps73270.html)
-  - [超級機器人大戰Z Special Disk
-    官方網站](http://www.suparobo.jp/srw_lineup/srw_zsd/index.html)
-  - [PlayStation Official Site 超級機器人大戰Z Special Disk
-    介紹頁面](http://www.jp.playstation.com/software/title/slps25920.html)
-  - [超級機器人大戰Z Official WEB Magazine「TRYOUT」特設網站（Internet
-    Archive的媛存）](https://web.archive.org/web/20090211052450/http://srw-tryout.jp/)
+  - [PlayStation Official Site 超級機器人大戰Z（通常版） 介紹頁面](http://www.jp.playstation.com/software/title/slps25887.html)
+  - [PlayStation Official Site 超級機器人大戰Z（PlayStation 2 the Best版） 介紹頁面](http://www.jp.playstation.com/software/title/slps73270.html)
+  - [超級機器人大戰Z Special Disk 官方網站](http://www.suparobo.jp/srw_lineup/srw_zsd/index.html)
+  - [PlayStation Official Site 超級機器人大戰Z Special Disk 介紹頁面](http://www.jp.playstation.com/software/title/slps25920.html)
+  - [超級機器人大戰Z Official WEB Magazine「TRYOUT」特設網站（Internet Archive的媛存）](https://web.archive.org/web/20090211052450/http://srw-tryout.jp/)
 
-[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
+[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
 
-1.  除非劇情完全屬某作品外傳（例：[機動戰士GUNDAM SEED
-    ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")），所有機動戰士系列的劇場版，參戰時仍會保留TV版的標題，同樣，MSV等也以此方式處理。
+1.  除非劇情完全屬某作品外傳（例：[機動戰士GUNDAM SEED ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")），所有機動戰士系列的劇場版，參戰時仍會保留TV版的標題，同樣，MSV等也以此方式處理。

@@ -1,6 +1,4 @@
-《**CROSS†CHANNEL**》是[FlyingShine第一套以自己公司名義制作及發售的](https://zh.wikipedia.org/wiki/FlyingShine "wikilink")[成人游戏](https://zh.wikipedia.org/wiki/成人游戏 "wikilink")，于2003年9月26日发售。\[1\]2004年3月18日再由[KID發售](../Page/KID.md "wikilink")[PlayStation
-2版本](../Page/PlayStation_2.md "wikilink")《CROSS†CHANNEL ～To all
-people～》。\[2\]2012年11月22日由[WillPlus发行复刻版](../Page/WillPlus.md "wikilink")。\[3\]
+《**CROSS†CHANNEL**》是[FlyingShine第一套以自己公司名義制作及發售的](https://zh.wikipedia.org/wiki/FlyingShine "wikilink")[成人游戏](https://zh.wikipedia.org/wiki/成人游戏 "wikilink")，于2003年9月26日发售。\[1\]2004年3月18日再由[KID](../Page/KID.md "wikilink")發售[PlayStation 2版本](../Page/PlayStation_2.md "wikilink")《CROSS†CHANNEL ～To all people～》。\[2\]2012年11月22日由[WillPlus](../Page/WillPlus.md "wikilink")发行复刻版。\[3\]
 
 ## 概要
 
@@ -45,8 +43,7 @@ people～》。\[2\]2012年11月22日由[WillPlus发行复刻版](../Page/WillPl
 
   - 脚本：[田中羅密歐](../Page/田中羅密歐.md "wikilink")
   - 原画：[松龍](https://zh.wikipedia.org/wiki/松龍 "wikilink")
-  - 音樂：[Funczion
-    SOUNDS](https://zh.wikipedia.org/wiki/Funczion_SOUNDS "wikilink")
+  - 音樂：[Funczion SOUNDS](https://zh.wikipedia.org/wiki/Funczion_SOUNDS "wikilink")
       - 片尾曲：CROSSING
           - 作詞：田中羅密歐
           - 作曲：[Funczion](https://zh.wikipedia.org/wiki/Funczion "wikilink")
@@ -54,12 +51,11 @@ people～》。\[2\]2012年11月22日由[WillPlus发行复刻版](../Page/WillPl
 
 ## Nanaca Crash
 
-Nanaca
-Crash是一个基于《CROSS†CHANNEL》的[Flash小游戏](../Page/Adobe_Flash.md "wikilink")，目前最新版本为v1.10版\[2014.05.16\]\[4\]。这个游戏的目的是让男主角飞的尽量的远。有时网友们会张贴自己的记录以和同好交流\[5\]。
+Nanaca Crash是一个基于《CROSS†CHANNEL》的[Flash小游戏](../Page/Adobe_Flash.md "wikilink")，目前最新版本为v1.10版\[2014.05.16\]\[4\]。这个游戏的目的是让男主角飞的尽量的远。有时网友们会张贴自己的记录以和同好交流\[5\]。
 
 ## 評價、反應
 
-因为之前FlyingShine的作品评价不高，加上和这款游戏同一天发售的游戏很多\[6\]，本作在发售之初受到的关注并不多。但作品中極容易令人悲傷至落淚的故事，在一部分玩家之中评价很高，[TYPE-MOON的劇本家](../Page/TYPE-MOON.md "wikilink")也在「竹箒日記」的2003年10月17日中，称赞本作为「绝对不可能超越的作品」\[7\]。在同類型「鬱遊戲」中是代表性的作品之一。另外，發售前的試看影片和故事序幕的普通戀愛遊戲的感覺，與故事其後的發展有很大的對比\[8\]。
+因为之前FlyingShine的作品评价不高，加上和这款游戏同一天发售的游戏很多\[6\]，本作在发售之初受到的关注并不多。但作品中極容易令人悲傷至落淚的故事，在一部分玩家之中评价很高，[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")的劇本家也在「竹箒日記」的2003年10月17日中，称赞本作为「绝对不可能超越的作品」\[7\]。在同類型「鬱遊戲」中是代表性的作品之一。另外，發售前的試看影片和故事序幕的普通戀愛遊戲的感覺，與故事其後的發展有很大的對比\[8\]。
 
 另外，曾獲獎的手機小說《》因設定和故事大綱與《CROSS†CHANNEL》太相似，曾引起該小說是否盜作的議論，但作者說不認識《CROSS†CHANNEL》\[9\]。
 
@@ -69,8 +65,7 @@ Crash是一个基于《CROSS†CHANNEL》的[Flash小游戏](../Page/Adobe_Flash
 
 <references />
 
-  - [『CROSS†CHANNEL』- Galge.com
-    作品介紹](https://web.archive.org/web/20080418004059/http://www.galge.com/galge/member/soft/GS00000262/index.html)
+  - [『CROSS†CHANNEL』- Galge.com 作品介紹](https://web.archive.org/web/20080418004059/http://www.galge.com/galge/member/soft/GS00000262/index.html)
 
 </div>
 
@@ -82,20 +77,9 @@ Crash是一个基于《CROSS†CHANNEL》的[Flash小游戏](../Page/Adobe_Flash
   - PS2版
       -   -
   - PS3版、PSV版
-      - [CROSS†CHANNEL ～for all
-        people～](http://5pb.jp/games/crosschannel/)
+      - [CROSS†CHANNEL ～for all people～](http://5pb.jp/games/crosschannel/)
 
-[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
 1.
 2.
@@ -104,6 +88,5 @@ Crash是一个基于《CROSS†CHANNEL》的[Flash小游戏](../Page/Adobe_Flash
 5.  [90万米的截图和心得](http://www.newsmth.net/bbscon.php?bid=627&id=58296)
 6.  [2003年成人游戏作品列表](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/toukei.php?kihon_mode=hatubaibi&year=2003#hyou)
 7.  [竹箒日記 2003年十月](http://www.typemoon.org/bbb/diary/log/200310.html)
-8.  多根清史、八霧敬次（2006年12月4日）．《》（第三章 Windows時代 P.170, 171）．太田出版．ISBN
-    4-7783-1052-7
+8.  多根清史、八霧敬次（2006年12月4日）．《》（第三章 Windows時代 P.170, 171）．太田出版．ISBN 4-7783-1052-7
 9.

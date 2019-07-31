@@ -1,38 +1,20 @@
-**Pro Tools**是用在[Mac OS
-X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft
-Windows作業系統的一個](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[數位音訊工作站平臺](https://zh.wikipedia.org/wiki/數位音訊工作站 "wikilink")，由[Digidesign發展和製造](https://zh.wikipedia.org/wiki/Digidesign "wikilink")，是[Avid
-Technology的一部分](https://zh.wikipedia.org/wiki/Avid_Technology "wikilink")，用于音樂录音和编辑、[電影配樂製作以及電影和電視](https://zh.wikipedia.org/wiki/電影配樂 "wikilink")[後製中](https://zh.wikipedia.org/wiki/後製 "wikilink")。它廣泛用於整個音訊行業的專業人士和[音樂製作人](../Page/音樂製作人.md "wikilink")。Pro
-Tools 有三個類型的系統：HD、LE 和 M-Powered。HD 是高端包 (Hi-End
-Package)，並且為硬體和軟體的結合。該硬體包括外部[A/D轉換器和用板載](../Page/類比數位轉換器.md "wikilink")[DSP的內部](https://zh.wikipedia.org/wiki/DSP "wikilink")[PCI或](https://zh.wikipedia.org/wiki/PCI "wikilink")[PCIe音效卡](../Page/PCI_Express.md "wikilink")。Pro
-Tools 9（取代了LE和M-Powered系统）以及之后的版本已可以兼容所有声卡，但配套的HD版本依然存在。
+**Pro Tools**是用在[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft Windows作業系統的一個](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[數位音訊工作站平臺](https://zh.wikipedia.org/wiki/數位音訊工作站 "wikilink")，由[Digidesign發展和製造](https://zh.wikipedia.org/wiki/Digidesign "wikilink")，是[Avid Technology的一部分](https://zh.wikipedia.org/wiki/Avid_Technology "wikilink")，用于音樂录音和编辑、[電影配樂製作以及電影和電視](https://zh.wikipedia.org/wiki/電影配樂 "wikilink")[後製中](https://zh.wikipedia.org/wiki/後製 "wikilink")。它廣泛用於整個音訊行業的專業人士和[音樂製作人](../Page/音樂製作人.md "wikilink")。Pro Tools 有三個類型的系統：HD、LE 和 M-Powered。HD 是高端包 (Hi-End Package)，並且為硬體和軟體的結合。該硬體包括外部[A/D轉換器和用板載](../Page/類比數位轉換器.md "wikilink")[DSP的內部](https://zh.wikipedia.org/wiki/DSP "wikilink")[PCI或](https://zh.wikipedia.org/wiki/PCI "wikilink")[PCIe音效卡](../Page/PCI_Express.md "wikilink")。Pro Tools 9（取代了LE和M-Powered系统）以及之后的版本已可以兼容所有声卡，但配套的HD版本依然存在。
 
 ## 概述
 
-基本上，Pro Tools 類似于一個多軌磁帶錄音機和混音機，伴隨的附加功能只能在數位介質中執行。高端的版本支援多達 192kHz 取樣速率和
-16 及 24
-位的位元深度，打開[WAV](../Page/WAV.md "wikilink")、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")、[MP3](../Page/MP3.md "wikilink")、[SDII音訊檔和](https://zh.wikipedia.org/wiki/SDII "wikilink")[QuickTime](../Page/QuickTime.md "wikilink")影片檔。它以[時間代碼](https://zh.wikipedia.org/wiki/時間代碼 "wikilink")、[節奏地圖](https://zh.wikipedia.org/wiki/節奏地圖 "wikilink")、自動化和[環繞聲的功能為特色](https://zh.wikipedia.org/wiki/環繞聲 "wikilink")。
+基本上，Pro Tools 類似于一個多軌磁帶錄音機和混音機，伴隨的附加功能只能在數位介質中執行。高端的版本支援多達 192kHz 取樣速率和 16 及 24 位的位元深度，打開[WAV](../Page/WAV.md "wikilink")、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")、[MP3](../Page/MP3.md "wikilink")、[SDII音訊檔和](https://zh.wikipedia.org/wiki/SDII "wikilink")[QuickTime](../Page/QuickTime.md "wikilink")影片檔。它以[時間代碼](https://zh.wikipedia.org/wiki/時間代碼 "wikilink")、[節奏地圖](https://zh.wikipedia.org/wiki/節奏地圖 "wikilink")、自動化和[環繞聲的功能為特色](https://zh.wikipedia.org/wiki/環繞聲 "wikilink")。
 
 ## 介面
 
-大多數的 Pro Tools 基本功能可以由編輯或組合的視窗控制。編輯視窗顯示音訊和
-[MIDI](../Page/MIDI.md "wikilink") 的曲目，並提供記錄或導入資訊的圖形表示形式。在這裡，可以在一種
-[非線性](https://zh.wikipedia.org/wiki/非線性編輯 "wikilink")、[非破壞性的個別樣本級別中編輯音訊](https://zh.wikipedia.org/wiki/非破壞性編輯 "wikilink")，MIDI
-資訊也可以進行操作。混音機視窗顯示每個 Fader 頻道，並允許調整的一個頻道的音量和
-Pan，以及常用的地方以插入外掛程式的效果，路由音訊至不同的輸出和輸入。
+大多數的 Pro Tools 基本功能可以由編輯或組合的視窗控制。編輯視窗顯示音訊和 [MIDI](../Page/MIDI.md "wikilink") 的曲目，並提供記錄或導入資訊的圖形表示形式。在這裡，可以在一種 [非線性](https://zh.wikipedia.org/wiki/非線性編輯 "wikilink")、[非破壞性的個別樣本級別中編輯音訊](https://zh.wikipedia.org/wiki/非破壞性編輯 "wikilink")，MIDI 資訊也可以進行操作。混音機視窗顯示每個 Fader 頻道，並允許調整的一個頻道的音量和 Pan，以及常用的地方以插入外掛程式的效果，路由音訊至不同的輸出和輸入。
 
-Pro Tools中的虛擬樂器及處理中的效果達到通過插頭外掛程式的使用，也由
-[DSP](https://zh.wikipedia.org/wiki/DSP "wikilink") 晶片作為 TDM 外掛程式，或主機作為
-[RTAS (Real Time
-AudioSuite)](https://zh.wikipedia.org/wiki/RTAS_\(Real_Time_AudioSuite\) "wikilink")
-外掛程式。
+Pro Tools中的虛擬樂器及處理中的效果達到通過插頭外掛程式的使用，也由 [DSP](https://zh.wikipedia.org/wiki/DSP "wikilink") 晶片作為 TDM 外掛程式，或主機作為 [RTAS (Real Time AudioSuite)](https://zh.wikipedia.org/wiki/RTAS_\(Real_Time_AudioSuite\) "wikilink") 外掛程式。
 
 ## 系統
 
 ### Pro Tools HD 系統
 
-Pro Tools的HD系统由HD Core核心运算卡负责安装和运行软件以及DSP运算，I/O接口负责数据流的输入和输出。HD
-Accel加速卡则可以增强HD的运算性能。Pro Tools HD 9已可以兼容所有支持Core
-Audio和ASIO的音频接口。
+Pro Tools的HD系统由HD Core核心运算卡负责安装和运行软件以及DSP运算，I/O接口负责数据流的输入和输出。HD Accel加速卡则可以增强HD的运算性能。Pro Tools HD 9已可以兼容所有支持Core Audio和ASIO的音频接口。
 
 ### Pro Tools LE 系統、Pro Tools M Powered 系統
 
@@ -51,9 +33,7 @@ Pro Tools 9及后续版本的推出使得这两个系统已毫无意义，不过
 ## Pro Tools 發行時間線
 
   - 1989
-    **[Sound
-    Tools](https://zh.wikipedia.org/wiki/Sound_Tools "wikilink")**
-    立體聲錄音及編輯系統
+    **[Sound Tools](https://zh.wikipedia.org/wiki/Sound_Tools "wikilink")** 立體聲錄音及編輯系統
   - 1991
     最初的 **Pro Tools** 系統已發布，以 4 聲音、ProDECK 和 ProEDIT 軟體、MIDI 和自動化為特色
   - 1994
@@ -65,48 +45,29 @@ Pro Tools 9及后续版本的推出使得这两个系统已毫无意义，不过
   - 1999
     **Digi 001** 伴隨著 **Pro Tools LE** (light 版本的 Pro Tools)
   - 2002
-    **Pro Tools | HD** 系統 (支援 96 kHz 及 192 kHz HD 音訊); **Mbox** 及 **Digi
-    002** (三月和九月)
+    **Pro Tools | HD** 系統 (支援 96 kHz 及 192 kHz HD 音訊); **Mbox** 及 **Digi 002** (三月和九月)
   - 2003
-    **Pro Tools | HD Accel** 系統 (其他 DSP 功能); Pro Tools Users
-    群組在[洛杉磯成立](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")
+    **Pro Tools | HD Accel** 系統 (其他 DSP 功能); Pro Tools Users 群組在[洛杉磯成立](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")
   - 2005
-    **VENUE** (用於現場聲音的 Pro Tools); **Mbox 2**; **Pro Tools M-Powered**
-    (八月); **Pro Tools 7.0** (十一月), **7.1** (支援 Apple 的 PCIe G5) (十二月)
-    Avid 取得 Wizoo 與其 AIR (Advanced Instrument Research) 創作，宣佈為一種 Avid
-    的策略性發展手臂，Pro Tools 用於建立虛擬樂器和外掛程式。
+    **VENUE** (用於現場聲音的 Pro Tools); **Mbox 2**; **Pro Tools M-Powered** (八月); **Pro Tools 7.0** (十一月), **7.1** (支援 Apple 的 PCIe G5) (十二月) Avid 取得 Wizoo 與其 AIR (Advanced Instrument Research) 創作，宣佈為一種 Avid 的策略性發展手臂，Pro Tools 用於建立虛擬樂器和外掛程式。
   - 2006
-    **Pro Tools 7.2** (八月) 和 **7.3** (十二月); **Pro Tools LE** 及 **HD**
-    支援基於 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 的
-    Mac (分別於五月和九月); **Mbox 2 Pro**; **Mbox 2 Mini**
+    **Pro Tools 7.2** (八月) 和 **7.3** (十二月); **Pro Tools LE** 及 **HD** 支援基於 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 的 Mac (分別於五月和九月); **Mbox 2 Pro**; **Mbox 2 Mini**
   - 2007
-    **003** 和 **003 Rack** (二月); **Mbox 2 Micro** (十月); **Pro Tools
-    7.4** (十一月) (Elastic Audio)
+    **003** 和 **003 Rack** (二月); **Mbox 2 Micro** (十月); **Pro Tools 7.4** (十一月) (Elastic Audio)
   - 2008
-    **Pro Tools 8** (Elastic Pitch, Score Editor, MIDI Tools); **003
-    Rack** + ，后被破解。
+    **Pro Tools 8** (Elastic Pitch, Score Editor, MIDI Tools); **003 Rack** + ，后被破解。
   - 2010
-    **Pro Tools 9**（已可以兼容所有声卡，但已不再支持[Windows
-    XP操作系统](../Page/Windows_XP.md "wikilink")）
+    **Pro Tools 9**（已可以兼容所有声卡，但已不再支持[Windows XP操作系统](../Page/Windows_XP.md "wikilink")）
   - 2011
-    **Pro Tools 10**的Timeline Cache已经不需依赖硬件; **Pro Tools HDX 介面卡**
-    (“Accel”的下一代）在
-    [AES](https://en.wikipedia.org/wiki/Audio_Engineering_Society) 大會公布。
+    **Pro Tools 10**的Timeline Cache已经不需依赖硬件; **Pro Tools HDX 介面卡** (“Accel”的下一代）在 [AES](https://en.wikipedia.org/wiki/Audio_Engineering_Society) 大會公布。
   - 2012
-    ["'Avid'''](https://en.wikipedia.org/wiki/Avid_\(company\))將 AIR 賣給
-    [*' inMusic*'](https://en.wikipedia.org/wiki/InMusic)。
+    ["'Avid'''](https://en.wikipedia.org/wiki/Avid_\(company\))將 AIR 賣給 [*' inMusic*'](https://en.wikipedia.org/wiki/InMusic)。
   - 2013
-    **Avid** 發表 **Pro Tools 11** 並在第二季時發貨 ，此次更新大幅提升其性能及更好的工作流程; **Pro
-    Tools** 第一個 64-bit 的應用程式，Real Time AudioSuite (RTAS) 和 TDM 也支援
-    **AAX** 格式。
+    **Avid** 發表 **Pro Tools 11** 並在第二季時發貨 ，此次更新大幅提升其性能及更好的工作流程; **Pro Tools** 第一個 64-bit 的應用程式，Real Time AudioSuite (RTAS) 和 TDM 也支援 **AAX** 格式。
   - 2014
-    與 [**Apogee
-    Electronics**](https://en.wikipedia.org/wiki/Apogee_Electronics)
-    合作發行 **Pro Tools | Duet** 和 **Pro Tools | Quartet**。
+    與 [**Apogee Electronics**](https://en.wikipedia.org/wiki/Apogee_Electronics) 合作發行 **Pro Tools | Duet** 和 **Pro Tools | Quartet**。
   - 2015
-    **Pro Tools | First** - 第一個免費版的 **Pro Tools** 軟體; **Pro Tools 12** -
-    開始能用訂閱的方式使用(分月、年)，能在應用程式裡用 **Avid Marketplace** 購買外掛程式、Metadata
-    檢查器、I/O設定提升。
+    **Pro Tools | First** - 第一個免費版的 **Pro Tools** 軟體; **Pro Tools 12** - 開始能用訂閱的方式使用(分月、年)，能在應用程式裡用 **Avid Marketplace** 購買外掛程式、Metadata 檢查器、I/O設定提升。
 
 ## 請參閱
 
@@ -117,9 +78,4 @@ Pro Tools 9及后续版本的推出使得这两个系统已毫无意义，不过
 
   - [Digidesign 官方網站](http://www.digidesign.com/)
 
-[Category:音訊軟體](https://zh.wikipedia.org/wiki/Category:音訊軟體 "wikilink")
-[Category:數位音訊工作站軟體](https://zh.wikipedia.org/wiki/Category:數位音訊工作站軟體 "wikilink")
-[Category:數位錄音](https://zh.wikipedia.org/wiki/Category:數位錄音 "wikilink")
-[Category:Mac_OS_X軟體](https://zh.wikipedia.org/wiki/Category:Mac_OS_X軟體 "wikilink")
-[Category:音樂軟體](https://zh.wikipedia.org/wiki/Category:音樂軟體 "wikilink")
-[Category:視窗軟體](https://zh.wikipedia.org/wiki/Category:視窗軟體 "wikilink")
+[Category:音訊軟體](https://zh.wikipedia.org/wiki/Category:音訊軟體 "wikilink") [Category:數位音訊工作站軟體](https://zh.wikipedia.org/wiki/Category:數位音訊工作站軟體 "wikilink") [Category:數位錄音](https://zh.wikipedia.org/wiki/Category:數位錄音 "wikilink") [Category:Mac_OS_X軟體](https://zh.wikipedia.org/wiki/Category:Mac_OS_X軟體 "wikilink") [Category:音樂軟體](https://zh.wikipedia.org/wiki/Category:音樂軟體 "wikilink") [Category:視窗軟體](https://zh.wikipedia.org/wiki/Category:視窗軟體 "wikilink")

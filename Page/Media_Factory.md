@@ -1,5 +1,4 @@
-**MEDIA
-FACTORY**（），是[角川集團旗下的](../Page/角川集團.md "wikilink")[品牌](../Page/品牌.md "wikilink")。主要出版書籍雜誌、卡片遊戲與遊戲軟體。
+**MEDIA FACTORY**（），是[角川集團](../Page/角川集團.md "wikilink")旗下的[品牌](../Page/品牌.md "wikilink")。主要出版書籍雜誌、卡片遊戲與遊戲軟體。
 
 本條目包括對法人消滅前的**株式會社MEDIA FACTORY**（）的介紹。
 
@@ -25,8 +24,7 @@ FACTORY**（），是[角川集團旗下的](../Page/角川集團.md "wikilink")
       - [聖劍鍛造師](../Page/聖劍鍛造師.md "wikilink")（2009年動畫化。）
       - [玩伴貓耳娘](../Page/玩伴貓耳娘.md "wikilink")（2010年動畫化。）
       - [MM一族](../Page/MM一族.md "wikilink")（2010年動畫化。）
-      - [IS〈Infinite
-        Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")（2011年、2013年動畫化。）
+      - [IS〈Infinite Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")（2011年、2013年動畫化。）
       - [緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")（2011年動畫化。）
       - [迷茫管家與膽怯的我](../Page/迷茫管家與膽怯的我.md "wikilink")（2011年動畫化。）
       - [我的朋友很少](../Page/我的朋友很少.md "wikilink")（2011年、2013年動畫化。）
@@ -36,8 +34,7 @@ FACTORY**（），是[角川集團旗下的](../Page/角川集團.md "wikilink")
       - [機巧少女不會受傷](../Page/機巧少女不會受傷.md "wikilink")（2013年動畫化。）
       - [魔法戰爭](../Page/魔法戰爭.md "wikilink")（2014年動畫化。）
       - [星刻龍騎士](../Page/星刻龍騎士.md "wikilink")（2014年動畫化。）
-      - [NO GAME NO LIFE
-        遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")（2014年動畫化。）
+      - [NO GAME NO LIFE 遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")（2014年動畫化。）
       - [精灵使的剑舞](../Page/精灵使的剑舞.md "wikilink")（2014年動畫化。）
       - [魔彈之王與戰姬](../Page/魔彈之王與戰姬.md "wikilink")（2014年動畫化。）
       - [絕對雙刃](../Page/絕對雙刃.md "wikilink")（2015年動畫化。）
@@ -53,15 +50,13 @@ FACTORY**（），是[角川集團旗下的](../Page/角川集團.md "wikilink")
 
 ## 其他作品
 
-  - [School
-    Rumble系列](https://zh.wikipedia.org/wiki/School_Rumble "wikilink")（CD、DVD販售）
+  - [School Rumble系列](https://zh.wikipedia.org/wiki/School_Rumble "wikilink")（CD、DVD販售）
   - [一騎當千](../Page/一騎當千.md "wikilink")（電視動畫第二季音樂製作）
   - [翼神世音](../Page/翼神世音.md "wikilink")（參加動畫製作委員會）
   - [圓盤皇女](../Page/圓盤皇女.md "wikilink")（參加動畫製作委員會）
   - [成惠的世界](../Page/成惠的世界.md "wikilink")（參加動畫製作委員會）
   - [妄想科學美少女](../Page/妄想科學美少女.md "wikilink")（參加動畫製作委員會）
-  - [鋼鐵守護者GAD](https://zh.wikipedia.org/wiki/鋼鐵守護者 "wikilink")
-    GUARD（參加動畫製作委員會）
+  - [鋼鐵守護者GAD](https://zh.wikipedia.org/wiki/鋼鐵守護者 "wikilink") GUARD（參加動畫製作委員會）
   - [創聖的亞庫艾里翁](../Page/創聖的亞庫艾里翁.md "wikilink")（參加動畫製作委員會）
   - [巖窟王](../Page/巖窟王.md "wikilink")（參加動畫製作委員會）
   - [我的裘可妹妹](../Page/我的裘可妹妹.md "wikilink")（參加動畫製作委員會）
@@ -80,14 +75,7 @@ FACTORY**（），是[角川集團旗下的](../Page/角川集團.md "wikilink")
   - [](http://www.mediafactory.co.jp/)
 
   -
-[Category:MEDIA_FACTORY](https://zh.wikipedia.org/wiki/Category:MEDIA_FACTORY "wikilink")
-[Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink")
-[Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink")
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:日本已結業公司](https://zh.wikipedia.org/wiki/Category:日本已結業公司 "wikilink")
-[Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink")
-[Category:2013年結業公司](https://zh.wikipedia.org/wiki/Category:2013年結業公司 "wikilink")
+[Category:MEDIA_FACTORY](https://zh.wikipedia.org/wiki/Category:MEDIA_FACTORY "wikilink") [Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink") [Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:日本已結業公司](https://zh.wikipedia.org/wiki/Category:日本已結業公司 "wikilink") [Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink") [Category:2013年結業公司](https://zh.wikipedia.org/wiki/Category:2013年結業公司 "wikilink")
 
 1.
 2.

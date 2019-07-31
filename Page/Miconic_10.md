@@ -1,10 +1,8 @@
-**Miconic
-10**，是由[升降機製造商](https://zh.wikipedia.org/wiki/升降機 "wikilink")發明的一款升降機分配系統。
+**Miconic 10**，是由[升降機製造商](https://zh.wikipedia.org/wiki/升降機 "wikilink")發明的一款升降機分配系統。
 
 ## 系統構造
 
-[Miconic_10_Keyboard.jpg](https://zh.wikipedia.org/wiki/File:Miconic_10_Keyboard.jpg "fig:Miconic_10_Keyboard.jpg")
-傳統升降機為每層只設有上落按钮，但是這系統是在升降機的每一層站設置樓層選擇器（[九宮格鍵盤](https://zh.wikipedia.org/wiki/九宮格鍵盤 "wikilink")），故升降機能夠預知乘客要前往的樓層，從而加快整個升降機系統的運作效率。
+[Miconic_10_Keyboard.jpg](https://zh.wikipedia.org/wiki/File:Miconic_10_Keyboard.jpg "fig:Miconic_10_Keyboard.jpg") 傳統升降機為每層只設有上落按钮，但是這系統是在升降機的每一層站設置樓層選擇器（[九宮格鍵盤](https://zh.wikipedia.org/wiki/九宮格鍵盤 "wikilink")），故升降機能夠預知乘客要前往的樓層，從而加快整個升降機系統的運作效率。
 
 由於系統已知乘客要前往的樓層，故機箱內均一律不設任何樓層按鈕，只有開關門按鈕（但亦設有供消防員使用的樓層選擇器，平日上鎖）。
 
@@ -60,8 +58,7 @@
   - [太子大廈](../Page/太子大廈.md "wikilink")
   - [歷山大廈](../Page/歷山大廈.md "wikilink")
   - [One Bay East](../Page/One_Bay_East.md "wikilink")（採用混合式顯示屏）
-  - [Victoria
-    Dockside](../Page/Victoria_Dockside.md "wikilink")（採用PORT系統）
+  - [Victoria Dockside](../Page/Victoria_Dockside.md "wikilink")（採用PORT系統）
 
 #### 住宅
 
@@ -97,11 +94,9 @@
 
 ## 參考
 
-  - [Schindler
-    Miconic 10](http://www.jardineschindler.com/jsg_cn/jsg_index/jsg_technology_entry/jsg_technology_m10.htm)
+  - [Schindler Miconic 10](http://www.jardineschindler.com/jsg_cn/jsg_index/jsg_technology_entry/jsg_technology_m10.htm)
   - [電梯資料網：升降機智能分配系統](http://hkelev.com/elev_miconic10.htm)
 
-[en:Schindler Group\#Destination control
-systems](https://zh.wikipedia.org/wiki/en:Schindler_Group#Destination_control_systems "wikilink")
+[en:Schindler Group\#Destination control systems](https://zh.wikipedia.org/wiki/en:Schindler_Group#Destination_control_systems "wikilink")
 
 [Category:建筑设计](https://zh.wikipedia.org/wiki/Category:建筑设计 "wikilink")

@@ -1,12 +1,8 @@
-**Mk 2手榴彈**（或寫作**Mk
-II**）是一種反人員破片手榴彈，[美軍於](https://zh.wikipedia.org/wiki/美軍 "wikilink")1918年導入，用以取代[Mk
-1手榴彈](https://zh.wikipedia.org/wiki/Mk_1手榴彈 "wikilink")，在[二戰](https://zh.wikipedia.org/wiki/二戰 "wikilink")、[韓戰至](https://zh.wikipedia.org/wiki/韓戰 "wikilink")[越戰中所使用](https://zh.wikipedia.org/wiki/越戰 "wikilink")。由於外型相似鳳梨又名**鳳梨手榴彈**，因保险片的形状被称为“鸭嘴手榴弹”，因外观被称为“卵形手榴弹”、“鳳梨手榴弹”或“癞瓜手榴弹”。美軍之後以[M26系列](../Page/M26手榴彈.md "wikilink")（M26/M61/M57）及[M33系列](../Page/M67手榴彈.md "wikilink")（M33/M67）取代Mk
-2。
+**Mk 2手榴彈**（或寫作**Mk II**）是一種反人員破片手榴彈，[美軍於](https://zh.wikipedia.org/wiki/美軍 "wikilink")1918年導入，用以取代[Mk 1手榴彈](https://zh.wikipedia.org/wiki/Mk_1手榴彈 "wikilink")，在[二戰](https://zh.wikipedia.org/wiki/二戰 "wikilink")、[韓戰至](https://zh.wikipedia.org/wiki/韓戰 "wikilink")[越戰中所使用](https://zh.wikipedia.org/wiki/越戰 "wikilink")。由於外型相似鳳梨又名**鳳梨手榴彈**，因保险片的形状被称为“鸭嘴手榴弹”，因外观被称为“卵形手榴弹”、“鳳梨手榴弹”或“癞瓜手榴弹”。美軍之後以[M26系列](../Page/M26手榴彈.md "wikilink")（M26/M61/M57）及[M33系列](../Page/M67手榴彈.md "wikilink")（M33/M67）取代Mk 2。
 
 ## 設計及型號
 
-Mk
-2手榴彈採用[TNT作爆炸填充物](https://zh.wikipedia.org/wiki/TNT "wikilink")，部分型號改用EC無煙火藥。
+Mk 2手榴彈採用[TNT作爆炸填充物](https://zh.wikipedia.org/wiki/TNT "wikilink")，部分型號改用EC無煙火藥。
 
   - **Grenade, Hand, Fragmentation, Mk II**：EC無煙火藥，採用M10或M10A1點燃引信。
   - **Grenade, Hand, Fragmentation, Mk IIA1**：EC無煙火藥，採用M10A2/A3點燃引信。
@@ -38,9 +34,7 @@ Mk
   -
 ## 圖片集
 
-<File:MkII> 07.JPG|Mk 2A1手榴彈，採用M10A3點燃引信 <File:Mk> 2
-handgrenade.JPG|2008年在[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[海爾德蘭省發現二戰時期的Mk](https://zh.wikipedia.org/wiki/海爾德蘭省 "wikilink")
-2手榴彈 <File:A> package for Hitler 196462 edit.jpg|士兵手持Mk 2手榴彈
+<File:MkII> 07.JPG|Mk 2A1手榴彈，採用M10A3點燃引信 <File:Mk> 2 handgrenade.JPG|2008年在[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[海爾德蘭省發現二戰時期的Mk](https://zh.wikipedia.org/wiki/海爾德蘭省 "wikilink") 2手榴彈 <File:A> package for Hitler 196462 edit.jpg|士兵手持Mk 2手榴彈
 
 ## 相關條目
 
@@ -61,13 +55,6 @@ handgrenade.JPG|2008年在[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilin
 
   - [Mk 2手榴彈影片](https://web.archive.org/web/20081226062838/http://www.cordin.com/imgrenade.html)
 
-[Category:手榴彈](https://zh.wikipedia.org/wiki/Category:手榴彈 "wikilink")
-[Category:美國一戰武器](https://zh.wikipedia.org/wiki/Category:美國一戰武器 "wikilink")
-[Category:美國二戰武器](https://zh.wikipedia.org/wiki/Category:美國二戰武器 "wikilink")
-[Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
-[Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink")
+[Category:手榴彈](https://zh.wikipedia.org/wiki/Category:手榴彈 "wikilink") [Category:美國一戰武器](https://zh.wikipedia.org/wiki/Category:美國一戰武器 "wikilink") [Category:美國二戰武器](https://zh.wikipedia.org/wiki/Category:美國二戰武器 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink") [Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink")
 
-1.  [停辦13年
-    國軍今恢復手榴彈實彈投擲](http://news.ltn.com.tw/news/politics/breakingnews/1141515)
+1.  [停辦13年 國軍今恢復手榴彈實彈投擲](http://news.ltn.com.tw/news/politics/breakingnews/1141515)

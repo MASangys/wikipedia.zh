@@ -1,13 +1,10 @@
-**Princess
-Rose**是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里的第](../Page/田村由香里.md "wikilink")11張單曲，由[科樂美數位娛樂於](../Page/科樂美數位娛樂.md "wikilink")2006年12月20日發行（由[KING
-RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")），商品編號為GBCM-15。
+**Princess Rose**是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的第11張單曲，由[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")於2006年12月20日發行（由[KING RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")），商品編號為GBCM-15。
 
 ## 概要
 
   - 初回限定版採用[Digipak形式的包裝](https://zh.wikipedia.org/wiki/Digipak "wikilink")
-  - 這是田村由香里的唱片合約轉往[KING
-    RECORDS前最後一張發行的單曲](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。
-  - 在[Oricon唱片銷量排行榜的最高排名為第](../Page/Oricon.md "wikilink")6位（2007年第1週），是田村當時獲得的最高排名。
+  - 這是田村由香里的唱片合約轉往[KING RECORDS前最後一張發行的單曲](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。
+  - 在[Oricon](../Page/Oricon.md "wikilink")唱片銷量排行榜的最高排名為第6位（2007年第1週），是田村當時獲得的最高排名。
 
 ## 收錄曲目
 
@@ -32,6 +29,4 @@ RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")），商�
 
 </div>
 
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:田村由香里單曲](https://zh.wikipedia.org/wiki/Category:田村由香里單曲 "wikilink")
+[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:田村由香里單曲](https://zh.wikipedia.org/wiki/Category:田村由香里單曲 "wikilink")

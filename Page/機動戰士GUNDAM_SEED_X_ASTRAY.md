@@ -1,7 +1,4 @@
-**機動戰士GUNDAM SEED X ASTRAY**是連載於月刊 Gundam Ace 的漫畫作品。本作是機動戰士GUNDAM SEED
-ASTRAY 的續篇，故事發生於動畫 [機動戰士GUNDAM
-SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
-第47話與第48話之間空白的2個月。主要講述本篇故事新登場的普雷亞·雷菲力與卡納得·帕爾斯的對決，而前作的羅·裘爾及叢雲劾亦以配角登場。
+**機動戰士GUNDAM SEED X ASTRAY**是連載於月刊 Gundam Ace 的漫畫作品。本作是機動戰士GUNDAM SEED ASTRAY 的續篇，故事發生於動畫 [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink") 第47話與第48話之間空白的2個月。主要講述本篇故事新登場的普雷亞·雷菲力與卡納得·帕爾斯的對決，而前作的羅·裘爾及叢雲劾亦以配角登場。
 
   - **機動戰士GUNDAM SEED X ASTRAY**（漫畫）[鴇田洸一](../Page/時田洸一.md "wikilink")
 
@@ -19,8 +16,7 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 <!-- end list -->
 
   -
-    為了解決地球上的能源問題，接受馬爾其歐導師的指示，前往宇宙奪取[勇士鋼彈](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought "wikilink")（Dreadnought
-    Gundam）。
+    為了解決地球上的能源問題，接受馬爾其歐導師的指示，前往宇宙奪取[勇士鋼彈](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought "wikilink")（Dreadnought Gundam）。
     真正身份是地球聯合軍為了得到「過人的空間識別能力」而複製出來的複製人，原型不詳（已知複製對象是過去聯合軍「梅比烏斯零式」部隊的一員）。
     由於當時複製技術並非成熟，身體擁有缺陷的端粒，所以身體特別虛弱；與[拉烏·魯·克魯澤的情況相近](https://zh.wikipedia.org/wiki/劳·鲁·克鲁泽 "wikilink")。
     駕駛X Astray擊敗卡納得以後，衝往已被損壞的核反應爐的亥伯龍高達，救下想自盡的卡納得。但最後因本身的缺陷而死亡。
@@ -188,90 +184,62 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 
 ### 廢物回收商
 
-  - [YMF-X000A Dreadnought
-    Gundam](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought_Gundam "wikilink")
-  - [MBF-P02 Gundam Astray Red
-    Frame](https://zh.wikipedia.org/wiki/MBF-P02_Gundam_Astray_Red_Frame "wikilink")
-  - [ZGMF-1017 Works
-    GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_Works_GINN "wikilink")
+  - [YMF-X000A Dreadnought Gundam](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought_Gundam "wikilink")
+  - [MBF-P02 Gundam Astray Red Frame](https://zh.wikipedia.org/wiki/MBF-P02_Gundam_Astray_Red_Frame "wikilink")
+  - [ZGMF-1017 Works GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_Works_GINN "wikilink")
 
 ### 蛇尾
 
-  - [MBF-P03 Gundam Astray Blue
-    Frame](https://zh.wikipedia.org/wiki/MBF-P03_Gundam_Astray_Blue_Frame "wikilink")
-  - [ZGMF-1017 GINN Elijah Kiel
-    Custom](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN_Elijah_Kiel_Custom "wikilink")
+  - [MBF-P03 Gundam Astray Blue Frame](https://zh.wikipedia.org/wiki/MBF-P03_Gundam_Astray_Blue_Frame "wikilink")
+  - [ZGMF-1017 GINN Elijah Kiel Custom](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN_Elijah_Kiel_Custom "wikilink")
 
 ### ZAFT
 
-  - [ZGMF-1017
-    GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")
-  - [ZGMF-1017M GINN High Maneuver
-    Type](https://zh.wikipedia.org/wiki/ZGMF-1017M_GINN_High_Maneuver_Type "wikilink")
-  - [ZGMF-LRR704B GINN Long Range Reconnaissance
-    Type](https://zh.wikipedia.org/wiki/ZGMF-LRR704B_GINN_Long_Range_Reconnaissance_Type "wikilink")
-  - [ZGMF-600
-    GuAIZ](https://zh.wikipedia.org/wiki/ZGMF-600_GuAIZ "wikilink")
+  - [ZGMF-1017 GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")
+  - [ZGMF-1017M GINN High Maneuver Type](https://zh.wikipedia.org/wiki/ZGMF-1017M_GINN_High_Maneuver_Type "wikilink")
+  - [ZGMF-LRR704B GINN Long Range Reconnaissance Type](https://zh.wikipedia.org/wiki/ZGMF-LRR704B_GINN_Long_Range_Reconnaissance_Type "wikilink")
+  - [ZGMF-600 GuAIZ](https://zh.wikipedia.org/wiki/ZGMF-600_GuAIZ "wikilink")
 
 ### 歐普
 
-  - [MBF-M1A M1A
-    Astray](https://zh.wikipedia.org/wiki/MBF-M1A_M1A_Astray "wikilink")
-  - [GAT-X133 Sword Calamity
-    Gundam](https://zh.wikipedia.org/wiki/GAT-X133_Sword_Calamity_Gundam "wikilink")
+  - [MBF-M1A M1A Astray](https://zh.wikipedia.org/wiki/MBF-M1A_M1A_Astray "wikilink")
+  - [GAT-X133 Sword Calamity Gundam](https://zh.wikipedia.org/wiki/GAT-X133_Sword_Calamity_Gundam "wikilink")
 
 ### 地球聯邦軍
 
-  - [CAT1-X1/3 Hyperion Gundam Unit
-    1](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")
-  - [CAT1-X2/3 Hyperion Gundam Unit
-    2](https://zh.wikipedia.org/wiki/CAT1-X2/3_Hyperion_Gundam_Unit_2 "wikilink")
-  - [TS-MA2
-    Moebius](https://zh.wikipedia.org/wiki/TS-MA2_Moebius "wikilink")
-  - [GAT-01 Strike
-    Dagger](https://zh.wikipedia.org/wiki/GAT-01_Strike_Dagger "wikilink")
-      - [GAT-01A1+AQM/E-X04 Gunbarrel
-        Dagger](https://zh.wikipedia.org/wiki/GAT-01A1+AQM/E-X04_Gunbarrel_Dagger "wikilink")
+  - [CAT1-X1/3 Hyperion Gundam Unit 1](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")
+  - [CAT1-X2/3 Hyperion Gundam Unit 2](https://zh.wikipedia.org/wiki/CAT1-X2/3_Hyperion_Gundam_Unit_2 "wikilink")
+  - [TS-MA2 Moebius](https://zh.wikipedia.org/wiki/TS-MA2_Moebius "wikilink")
+  - [GAT-01 Strike Dagger](https://zh.wikipedia.org/wiki/GAT-01_Strike_Dagger "wikilink")
+      - [GAT-01A1+AQM/E-X04 Gunbarrel Dagger](https://zh.wikipedia.org/wiki/GAT-01A1+AQM/E-X04_Gunbarrel_Dagger "wikilink")
 
 ## 機動戰士GUNDAM SEED系列
 
 ### 正傳
 
   - [機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
-  - [機動戰士GUNDAM SEED
-    DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")
+  - [機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")
 
 ### 外傳
 
-  - [機動戰士GUNDAM SEED
-    ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")
-      - [機動戰士GUNDAM SEED ASTRAY
-        R](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_ASTRAY_R "wikilink")
+  - [機動戰士GUNDAM SEED ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")
+      - [機動戰士GUNDAM SEED ASTRAY R](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_ASTRAY_R "wikilink")
       - 機動戰士GUNDAM SEED ASTRAY B
   - **機動戰士GUNDAM SEED X ASTRAY**
-  - [機動戰士GUNDAM SEED DESTINY
-    ASTRAY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_ASTRAY#機動戰士GUNDAM_SEED_DESTINY_ASTRAY_系列 "wikilink")
+  - [機動戰士GUNDAM SEED DESTINY ASTRAY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_ASTRAY#機動戰士GUNDAM_SEED_DESTINY_ASTRAY_系列 "wikilink")
       - 機動戰士GUNDAM SEED FRAME ASTRAY
       - 機動戰士GUNDAM SEED C.E.73 Δ（DELTA） ASTRAY
       - 機動戰士GUNDAM SEED VS ASTRAY
   - [機動戰士GUNDAM SEED MSV](../Page/機動戰士GUNDAM_SEED_MSV.md "wikilink")
-  - [機動戰士GUNDAM SEED C.E.73
-    STARGAZER](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER "wikilink")
-  - [機動戰士GUNDAM SEED DESTINY THE
-    EDGE](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_DESTINY_THE_EDGE "wikilink")
+  - [機動戰士GUNDAM SEED C.E.73 STARGAZER](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER "wikilink")
+  - [機動戰士GUNDAM SEED DESTINY THE EDGE](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_DESTINY_THE_EDGE "wikilink")
 
 ## 外部連結
 
-  - [機動戰士GUNDAM SEED
-    ASTRAY官方網站](http://www.gundam-seed.net/astray/index.html)
-  - [機動戰士GUNDAM SEED X
-    ASTRAY官方網站](https://web.archive.org/web/20090701074753/http://www.gundam-seed.net/astray/astray_x/index.html)
-  - [ASTRAY
-    BLOG（千葉智宏BLOG）](https://web.archive.org/web/20060616090515/http://www.studioorphee.net/blog/)
+  - [機動戰士GUNDAM SEED ASTRAY官方網站](http://www.gundam-seed.net/astray/index.html)
+  - [機動戰士GUNDAM SEED X ASTRAY官方網站](https://web.archive.org/web/20090701074753/http://www.gundam-seed.net/astray/astray_x/index.html)
+  - [ASTRAY BLOG（千葉智宏BLOG）](https://web.archive.org/web/20060616090515/http://www.studioorphee.net/blog/)
   - [ときた洸一のムダ話blog(鴇田洸一BLOG)](http://tokita.blog.so-net.ne.jp/)
-  - [偏離正軌的道路ASTRAY
-    (繁體中文網站)](https://web.archive.org/web/20070921204606/http://web.gds-astray.com/)
+  - [偏離正軌的道路ASTRAY (繁體中文網站)](https://web.archive.org/web/20070921204606/http://web.gds-astray.com/)
 
-[Category:GUNDAM_SEED](https://zh.wikipedia.org/wiki/Category:GUNDAM_SEED "wikilink")
-[Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:GUNDAM_SEED](https://zh.wikipedia.org/wiki/Category:GUNDAM_SEED "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")

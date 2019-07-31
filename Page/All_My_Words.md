@@ -1,5 +1,4 @@
-《**All My
-Words**》是[中国大陆](../Page/中国大陆.md "wikilink")演员[刘亦菲](../Page/刘亦菲.md "wikilink")的首张[日语](../Page/日语.md "wikilink")专辑，于2006年9月6日在[日本](../Page/日本.md "wikilink")发行，署名为“”（“**Yifei**”的[片假名](../Page/片假名.md "wikilink")音译）。本专辑在日本销量不佳，[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")未上榜。
+《**All My Words**》是[中国大陆](../Page/中国大陆.md "wikilink")演员[刘亦菲](../Page/刘亦菲.md "wikilink")的首张[日语](../Page/日语.md "wikilink")专辑，于2006年9月6日在[日本](../Page/日本.md "wikilink")发行，署名为“”（“**Yifei**”的[片假名](../Page/片假名.md "wikilink")音译）。本专辑在日本销量不佳，[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")未上榜。
 
 ## 概要
 
@@ -50,6 +49,4 @@ Words**》是[中国大陆](../Page/中国大陆.md "wikilink")演员[刘亦菲]
       -
         作词：／作曲：Solaya／编曲：大友光悦
 
-[Category:2006年音乐专辑](https://zh.wikipedia.org/wiki/Category:2006年音乐专辑 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:日本索尼音樂娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂音樂專輯 "wikilink")
+[Category:2006年音乐专辑](https://zh.wikipedia.org/wiki/Category:2006年音乐专辑 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:日本索尼音樂娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂音樂專輯 "wikilink")

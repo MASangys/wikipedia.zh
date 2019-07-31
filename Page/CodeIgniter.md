@@ -1,20 +1,18 @@
-**CodeIgniter**是一套给[PHP网站开发者使用的应用程序开发框架和工具包](../Page/PHP.md "wikilink")。它提供一套丰富的标准库以及简单的接口和逻辑结构，其目的是使开发人员更快速地进行项目开发。
+**CodeIgniter**是一套给[PHP](../Page/PHP.md "wikilink")网站开发者使用的应用程序开发框架和工具包。它提供一套丰富的标准库以及简单的接口和逻辑结构，其目的是使开发人员更快速地进行项目开发。
 
 ## 特性
 
-和[Ruby on
-Rails类似](../Page/Ruby_on_Rails.md "wikilink")，CodeIgniter允许用户使用[Active
-Record作为](../Page/Active_Record.md "wikilink")[数据库的接口](../Page/数据库.md "wikilink")，并鼓励使用[模型-视图-控制器的](https://zh.wikipedia.org/wiki/模型-视图-控制器 "wikilink")[架构模式](https://zh.wikipedia.org/wiki/架构模式 "wikilink")。
+和[Ruby on Rails类似](../Page/Ruby_on_Rails.md "wikilink")，CodeIgniter允许用户使用[Active Record作为](../Page/Active_Record.md "wikilink")[数据库](../Page/数据库.md "wikilink")的接口，并鼓励使用[模型-视图-控制器的](https://zh.wikipedia.org/wiki/模型-视图-控制器 "wikilink")[架构模式](../Page/架构模式.md "wikilink")。
 
-  - 基于[MVC体系](../Page/MVC.md "wikilink")
+  - 基于[MVC](../Page/MVC.md "wikilink")体系
   - 超[轻量级](../Page/轻量级.md "wikilink")
-  - 对多种[数据库平台的全特性支持的数据库类](../Page/数据库.md "wikilink")
+  - 对多种[数据库](../Page/数据库.md "wikilink")平台的全特性支持的数据库类
   - [Active Record支持](../Page/Active_Record.md "wikilink")
   - 表单与数据验证
   - [安全性与](https://zh.wikipedia.org/wiki/安全性 "wikilink")[XSS过滤](https://zh.wikipedia.org/wiki/XSS "wikilink")
   - [Session管理](https://zh.wikipedia.org/wiki/Session "wikilink")
-  - 邮件发送类，支持[附件](https://zh.wikipedia.org/wiki/附件 "wikilink")、[HTML或文本邮件](../Page/HTML.md "wikilink")，多种协议（[sendmail](https://zh.wikipedia.org/wiki/sendmail "wikilink")、[SMTP和](https://zh.wikipedia.org/wiki/SMTP "wikilink")[Mail](https://zh.wikipedia.org/wiki/Mail "wikilink")）等等。
-  - 图像处理类库（[剪裁](https://zh.wikipedia.org/wiki/剪裁 "wikilink")、[缩放](../Page/缩放.md "wikilink")、[旋转等](../Page/旋转.md "wikilink")）。支持[GD](https://zh.wikipedia.org/wiki/GD "wikilink")、[ImageMagick和](../Page/ImageMagick.md "wikilink")[BetPBM](https://zh.wikipedia.org/wiki/BetPBM "wikilink")
+  - 邮件发送类，支持[附件](https://zh.wikipedia.org/wiki/附件 "wikilink")、[HTML](../Page/HTML.md "wikilink")或文本邮件，多种协议（[sendmail](https://zh.wikipedia.org/wiki/sendmail "wikilink")、[SMTP和](https://zh.wikipedia.org/wiki/SMTP "wikilink")[Mail](https://zh.wikipedia.org/wiki/Mail "wikilink")）等等。
+  - 图像处理类库（[剪裁](https://zh.wikipedia.org/wiki/剪裁 "wikilink")、[缩放](../Page/缩放.md "wikilink")、[旋转](../Page/旋转.md "wikilink")等）。支持[GD](https://zh.wikipedia.org/wiki/GD "wikilink")、[ImageMagick](../Page/ImageMagick.md "wikilink")和[BetPBM](https://zh.wikipedia.org/wiki/BetPBM "wikilink")
   - 文件上传类
   - [FTP类](https://zh.wikipedia.org/wiki/FTP "wikilink")
   - [本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")
@@ -29,8 +27,8 @@ Record作为](../Page/Active_Record.md "wikilink")[数据库的接口](../Page/�
   - Zip编码类
   - [模板引擎类](https://zh.wikipedia.org/wiki/模板 "wikilink")
   - [Trackback类](https://zh.wikipedia.org/wiki/Trackback "wikilink")
-  - [XML-RPC类库](../Page/XML-RPC.md "wikilink")
-  - [单元测试类](../Page/单元测试.md "wikilink")
+  - [XML-RPC](../Page/XML-RPC.md "wikilink")类库
+  - [单元测试](../Page/单元测试.md "wikilink")类
   - “搜索引擎友好”的URL
   - 灵活的[URI路由](https://zh.wikipedia.org/wiki/URI "wikilink")
   - 支持[勾子](https://zh.wikipedia.org/wiki/勾子 "wikilink")，类扩展
@@ -40,7 +38,7 @@ Record作为](../Page/Active_Record.md "wikilink")[数据库的接口](../Page/�
 
 在CodeIgniter项目中，存在一个名为[Kohana的分支项目](https://zh.wikipedia.org/wiki/Kohana "wikilink")。
 
-Kohana是一个使用了[MVC模式的应用程序框架](../Page/MVC.md "wikilink")。它是以安全，轻量，易用为目标进行开发的。
+Kohana是一个使用了[MVC](../Page/MVC.md "wikilink")模式的应用程序框架。它是以安全，轻量，易用为目标进行开发的。
 
 ## 参见
 
@@ -60,7 +58,4 @@ Kohana是一个使用了[MVC模式的应用程序框架](../Page/MVC.md "wikilin
 
   - [CodeIgniter繁體中文使用手冊](http://codeigniter.org.tw/user_guide/)
 
-[Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
-[Category:电脑小作品](https://zh.wikipedia.org/wiki/Category:电脑小作品 "wikilink")
+[Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:电脑小作品](https://zh.wikipedia.org/wiki/Category:电脑小作品 "wikilink")

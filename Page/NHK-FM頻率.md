@@ -1,4 +1,4 @@
-**NHK-FM頻率**（****）為[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的[調頻廣播](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")（FM放送）頻率。與[民間放送](https://zh.wikipedia.org/wiki/民間放送 "wikilink")（民放）的FM廣播不同的是，除了流行音樂以外，也有[古典音樂及](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[世界音樂](https://zh.wikipedia.org/wiki/世界音樂 "wikilink")、[邦樂](https://zh.wikipedia.org/wiki/邦樂 "wikilink")、[民謡](https://zh.wikipedia.org/wiki/民謡 "wikilink")、古典藝能、[廣播劇等節目播出](../Page/廣播劇.md "wikilink")，另有部分时段同步播出[NHK廣播第1頻率的全国及地方新闻](../Page/NHK廣播第1頻率.md "wikilink")。
+**NHK-FM頻率**（****）為[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的[調頻廣播](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")（FM放送）頻率。與[民間放送](https://zh.wikipedia.org/wiki/民間放送 "wikilink")（民放）的FM廣播不同的是，除了流行音樂以外，也有[古典音樂及](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[世界音樂](https://zh.wikipedia.org/wiki/世界音樂 "wikilink")、[邦樂](https://zh.wikipedia.org/wiki/邦樂 "wikilink")、[民謡](https://zh.wikipedia.org/wiki/民謡 "wikilink")、古典藝能、[廣播劇](../Page/廣播劇.md "wikilink")等節目播出，另有部分时段同步播出[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")的全国及地方新闻。
 
 ## 各地播出频率
 

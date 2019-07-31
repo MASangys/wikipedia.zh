@@ -1,6 +1,4 @@
-**Le
-Vibrazioni**是一支1999年成立於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")
-[米蘭的](../Page/米蘭.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
+**Le Vibrazioni**是一支1999年成立於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink") [米蘭](../Page/米蘭.md "wikilink")的[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 成員
 
@@ -29,8 +27,7 @@ Vibrazioni**是一支1999年成立於[義大利](https://zh.wikipedia.org/wiki/�
   - 2005年－Angelica
   - 2005年－Aspettando
   - 2005年－Ogni Giorno Ad Ogni Ora
-  - 2006年－Fermi Senza Forma (lanciato solo in interet sul sito di
-    MtvOverdrive)
+  - 2006年－Fermi Senza Forma (lanciato solo in interet sul sito di MtvOverdrive)
   - 2006年－Se
   - 2007年－Portami Via
   - 2007年－Dimmi
@@ -45,6 +42,4 @@ Vibrazioni**是一支1999年成立於[義大利](https://zh.wikipedia.org/wiki/�
 
   - [Le Vibrazioni 官方網站](http://www.vibraland.it/)
 
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:義大利樂團](https://zh.wikipedia.org/wiki/Category:義大利樂團 "wikilink")
-[Category:流行音樂](https://zh.wikipedia.org/wiki/Category:流行音樂 "wikilink")
+[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:義大利樂團](https://zh.wikipedia.org/wiki/Category:義大利樂團 "wikilink") [Category:流行音樂](https://zh.wikipedia.org/wiki/Category:流行音樂 "wikilink")

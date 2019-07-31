@@ -1,5 +1,4 @@
-《**BASTARD\!\!
-－暗黑的破壞神－**》（）是漫畫家[萩原一至於](https://zh.wikipedia.org/wiki/萩原一至 "wikilink")1988年開始在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上連載的漫畫作品，在[台灣出過三次](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")：[東立出版社在](../Page/東立出版社.md "wikilink")[WTO無版權前出版未授權版最早書名翻譯](https://zh.wikipedia.org/wiki/WTO "wikilink")《邪神劍》，[大然文化出版第一次授權版](../Page/大然文化.md "wikilink")，[尖端出版出版第二次授權版](../Page/尖端出版.md "wikilink")。[香港中文版由](../Page/香港.md "wikilink")[天下出版出版](../Page/天下出版.md "wikilink")。下列中文譯名及用語，以尖端版為準。
+《**BASTARD\!\! －暗黑的破壞神－**》（）是漫畫家[萩原一至於](https://zh.wikipedia.org/wiki/萩原一至 "wikilink")1988年開始在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上連載的漫畫作品，在[台灣出過三次](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")：[東立出版社](../Page/東立出版社.md "wikilink")在[WTO無版權前出版未授權版最早書名翻譯](https://zh.wikipedia.org/wiki/WTO "wikilink")《邪神劍》，[大然文化](../Page/大然文化.md "wikilink")出版第一次授權版，[尖端出版](../Page/尖端出版.md "wikilink")出版第二次授權版。[香港](../Page/香港.md "wikilink")中文版由[天下出版](../Page/天下出版.md "wikilink")出版。下列中文譯名及用語，以尖端版為準。
 
 ## 概覽
 
@@ -111,7 +110,7 @@
 <!-- end list -->
 
   -
-    本是敵國派去刺殺魔法師的[忍者軍團團長](../Page/忍者.md "wikilink")，後被達克·休奈達收服成為四天王之一。
+    本是敵國派去刺殺魔法師的[忍者](../Page/忍者.md "wikilink")軍團團長，後被達克·休奈達收服成為四天王之一。
 
 <!-- end list -->
 
@@ -313,8 +312,7 @@
 <!-- end list -->
 
   - 官方[十八禁](https://zh.wikipedia.org/wiki/十八禁 "wikilink")[同人誌](../Page/同人誌.md "wikilink")
-    萩原一至的[同人組織](https://zh.wikipedia.org/wiki/同人 "wikilink")「Studio Loud
-    in School」發行的2本官方十八禁同人誌：
+    萩原一至的[同人組織](https://zh.wikipedia.org/wiki/同人 "wikilink")「Studio Loud in School」發行的2本官方十八禁同人誌：
 
 <!-- end list -->
 
@@ -344,8 +342,7 @@
 ### 主題曲
 
   - 片尾曲「黑白煩惱」（モノクロームトラブル）
-    作詞：米倉利徳、真間稜 / 作曲・編曲：関根安里 /
-    主唱：[米倉利紀](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")
+    作詞：米倉利徳、真間稜 / 作曲・編曲：関根安里 / 主唱：[米倉利紀](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")
 
 ### 各話標題
 
@@ -436,28 +433,17 @@
 
 ## 遊戲
 
-  - BASTARD\!\!
-    -暗黒の破壊神-（[SFC用對戰型動作遊戲](../Page/超級任天堂.md "wikilink")，[Cobra
-    Team](https://zh.wikipedia.org/wiki/Cobra_Team "wikilink")1994年1月28日發售）
-  - BASTARD\!\!
-    -虚ろなる神々の器-（[PS用](../Page/PlayStation_\(遊戲機\).md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，1996年12月26日發售）
-  - [BASTARD\!\!
-    -ONLINE-](../Page/BASTARD!!_-ONLINE-.md "wikilink")（[TECMO開發](https://zh.wikipedia.org/wiki/TECMO "wikilink")，2009年中止開發。）
+  - BASTARD\!\! -暗黒の破壊神-（[SFC用對戰型動作遊戲](../Page/超級任天堂.md "wikilink")，[Cobra Team](https://zh.wikipedia.org/wiki/Cobra_Team "wikilink")1994年1月28日發售）
+  - BASTARD\!\! -虚ろなる神々の器-（[PS用](../Page/PlayStation_\(遊戲機\).md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，1996年12月26日發售）
+  - [BASTARD\!\! -ONLINE-](../Page/BASTARD!!_-ONLINE-.md "wikilink")（[TECMO開發](https://zh.wikipedia.org/wiki/TECMO "wikilink")，2009年中止開發。）
 
 ## 侵權事件
 
-漫畫當初在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》連載時，漫畫中有一隻加上手腳的巨大眼球怪「」；可是此名稱早已被D\&D遊戲的日本代理商所使用，因此引發侵權爭議。
-之後由此漫畫的責任編輯『鈴木さん』以[土下座向該遊戲的代理商道歉](https://zh.wikipedia.org/wiki/土下座 "wikilink")。
-之後在此漫畫的[單行本與其衍生作品裡](https://zh.wikipedia.org/wiki/單行本 "wikilink")，此眼球怪正式更名為「鈴木土下座ェ門」，作為永久紀念。
+漫畫當初在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》連載時，漫畫中有一隻加上手腳的巨大眼球怪「」；可是此名稱早已被D\&D遊戲的日本代理商所使用，因此引發侵權爭議。 之後由此漫畫的責任編輯『鈴木さん』以[土下座向該遊戲的代理商道歉](https://zh.wikipedia.org/wiki/土下座 "wikilink")。 之後在此漫畫的[單行本與其衍生作品裡](https://zh.wikipedia.org/wiki/單行本 "wikilink")，此眼球怪正式更名為「鈴木土下座ェ門」，作為永久紀念。
 
 ## 外部連結
 
   - [萩原一至官方網站](http://basta.gangz.com/)
-  - [*Bastard (Basutaado\!\! Ankoku no Hakaishin - K. Akiyama, K.
-    Hagiwara, 1992)*](https://web.archive.org/web/20100103003721/http://www.terrediconfine.eu/bastard-info.html)
-    (italian)
+  - [*Bastard (Basutaado\!\! Ankoku no Hakaishin - K. Akiyama, K. Hagiwara, 1992)*](https://web.archive.org/web/20100103003721/http://www.terrediconfine.eu/bastard-info.html) (italian)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink")
-[Category:Ultra_Jump](https://zh.wikipedia.org/wiki/Category:Ultra_Jump "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink") [Category:Ultra_Jump](https://zh.wikipedia.org/wiki/Category:Ultra_Jump "wikilink")

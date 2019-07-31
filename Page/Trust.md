@@ -40,8 +40,6 @@
 
 </div>
 
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
+[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
 
-1.  中文譯名源自《[A
-    BEST](../Page/A_BEST.md "wikilink")》的廣告宣傳影片，但是台灣愛貝克思發行單曲的時候並沒有公布中文譯名。
+1.  中文譯名源自《[A BEST](../Page/A_BEST.md "wikilink")》的廣告宣傳影片，但是台灣愛貝克思發行單曲的時候並沒有公布中文譯名。

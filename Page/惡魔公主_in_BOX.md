@@ -1,6 +1,4 @@
-《**惡魔公主 in
-BOX**》（）是[松本真原作](https://zh.wikipedia.org/wiki/松本真 "wikilink")，[根津舞香作畫的漫畫作品](https://zh.wikipedia.org/wiki/根津舞香 "wikilink")。於《月刊Comic
-Rush》2004年3月號（創刊號）起連載到2007年7月號。單行本全6卷，中文版由[東立出版社](../Page/東立出版社.md "wikilink")出版發行。
+《**惡魔公主 in BOX**》（）是[松本真原作](https://zh.wikipedia.org/wiki/松本真 "wikilink")，[根津舞香作畫的漫畫作品](https://zh.wikipedia.org/wiki/根津舞香 "wikilink")。於《月刊Comic Rush》2004年3月號（創刊號）起連載到2007年7月號。單行本全6卷，中文版由[東立出版社](../Page/東立出版社.md "wikilink")出版發行。
 
 ## 故事簡介
 

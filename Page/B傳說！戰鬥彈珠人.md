@@ -1,5 +1,4 @@
-《**B傳說！戰鬥彈珠人**》（日語：**B-伝説\!
-バトルビーダマン**）是[犬木榮治原作的](https://zh.wikipedia.org/wiki/犬木榮治 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，在[日本](../Page/日本.md "wikilink")[小學館的漫畫雜誌](../Page/小學館.md "wikilink")《[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")》中連載。原作還改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
+《**B傳說！戰鬥彈珠人**》（日語：**B-伝説\! バトルビーダマン**）是[犬木榮治原作的](https://zh.wikipedia.org/wiki/犬木榮治 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，在[日本](../Page/日本.md "wikilink")[小學館](../Page/小學館.md "wikilink")的漫畫雜誌《[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")》中連載。原作還改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 登場人物
 
@@ -9,8 +8,7 @@
 
 <!-- end list -->
 
-  - **大輪大和（大輪ヤマト）**-
-    配音員：日→[高木禮子](../Page/高木禮子.md "wikilink")；臺→[王瑞芹](../Page/王瑞芹.md "wikilink")；港→[王夢華](../Page/王夢華.md "wikilink")
+  - **大輪大和（大輪ヤマト）**- 配音員：日→[高木禮子](../Page/高木禮子.md "wikilink")；臺→[王瑞芹](../Page/王瑞芹.md "wikilink")；港→[王夢華](../Page/王夢華.md "wikilink")
 
 <!-- end list -->
 
@@ -21,8 +19,7 @@
 
 <!-- end list -->
 
-  - **燕燕（小燕）（燕ツバメ）**-
-    配音員：日→[金田朋子](../Page/金田朋子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")；港→[吳小藝](../Page/吳小藝.md "wikilink")
+  - **燕燕（小燕）（燕ツバメ）**- 配音員：日→[金田朋子](../Page/金田朋子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")；港→[吳小藝](../Page/吳小藝.md "wikilink")
 
 <!-- end list -->
 
@@ -33,8 +30,7 @@
 
 <!-- end list -->
 
-  - **葛雷．麥克．文森特（グレイ・マイケル・ビンセント）**-
-    配音員：日→[泰勇氣](../Page/泰勇氣.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；港→[郭俊廷](../Page/郭俊廷.md "wikilink")
+  - **葛雷．麥克．文森特（グレイ・マイケル・ビンセント）**- 配音員：日→[泰勇氣](../Page/泰勇氣.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；港→[郭俊廷](../Page/郭俊廷.md "wikilink")
 
 <!-- end list -->
 
@@ -45,8 +41,7 @@
 
 <!-- end list -->
 
-  - **布兒．伯克奈恩（ブル・ボーグナイン）**-
-    配音員：日→[間宮久留美](../Page/間宮久留美.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")；港→[陳琴雲](../Page/陳琴雲.md "wikilink")
+  - **布兒．伯克奈恩（ブル・ボーグナイン）**- 配音員：日→[間宮久留美](../Page/間宮久留美.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")；港→[陳琴雲](../Page/陳琴雲.md "wikilink")
 
 <!-- end list -->
 
@@ -55,8 +50,7 @@
 
 <!-- end list -->
 
-  - **炎咒（エンジュ）**-
-    配音員：日→[岸尾大輔](../Page/岸尾大輔.md "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")；港→[李凱傑](../Page/李凱傑.md "wikilink")
+  - **炎咒（エンジュ）**- 配音員：日→[岸尾大輔](../Page/岸尾大輔.md "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")；港→[李凱傑](../Page/李凱傑.md "wikilink")
 
 <!-- end list -->
 
@@ -66,8 +60,7 @@
 
 <!-- end list -->
 
-  - **小偉．尤法（尤法小偉）（ウェン・ユンファ）**-
-    配音員：日→[重松朋](../Page/重松朋.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")；港→[譚淑英](../Page/譚淑英.md "wikilink")
+  - **小偉．尤法（尤法小偉）（ウェン・ユンファ）**- 配音員：日→[重松朋](../Page/重松朋.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")；港→[譚淑英](../Page/譚淑英.md "wikilink")
 
 <!-- end list -->
 
@@ -77,8 +70,7 @@
 
 <!-- end list -->
 
-  - **小力．尤法（尤法小力）（リー・ユンファ）**-
-    配音員：日→[伊東美彌子](../Page/伊東美彌子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")；港→[吳小藝](../Page/吳小藝.md "wikilink")
+  - **小力．尤法（尤法小力）（リー・ユンファ）**- 配音員：日→[伊東美彌子](../Page/伊東美彌子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")；港→[吳小藝](../Page/吳小藝.md "wikilink")
 
 <!-- end list -->
 
@@ -87,12 +79,9 @@
 
 <!-- end list -->
 
-  - 大輪美惠（大輪ミエ）-
-    配音員：日→[高野直子](../Page/高野直子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
-  - 阿爾馬達（アルマーダ）-
-    配音員：日→[宮澤正](https://zh.wikipedia.org/wiki/宮澤正 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
-  - 麗葉娜（リエナ・グレース・ビンセント）-
-    配音員：日→[上村貴子](../Page/上村貴子.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+  - 大輪美惠（大輪ミエ）- 配音員：日→[高野直子](../Page/高野直子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
+  - 阿爾馬達（アルマーダ）- 配音員：日→[宮澤正](https://zh.wikipedia.org/wiki/宮澤正 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
+  - 麗葉娜（リエナ・グレース・ビンセント）- 配音員：日→[上村貴子](../Page/上村貴子.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
 
 <!-- end list -->
 
@@ -103,8 +92,7 @@
 <!-- end list -->
 
   - 遜五郎（タメゴロー）
-  - 凱恩．馬克達涅爾（カイン・マクダネル・ルース）-
-    配音員：日→[結城比呂](https://zh.wikipedia.org/wiki/結城比呂 "wikilink")※改名：優希比呂；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+  - 凱恩．馬克達涅爾（カイン・マクダネル・ルース）- 配音員：日→[結城比呂](https://zh.wikipedia.org/wiki/結城比呂 "wikilink")※改名：優希比呂；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
 
 <!-- end list -->
 
@@ -119,12 +107,9 @@
 
 <!-- end list -->
 
-  - 比亞斯（ビアス／マーダビアス）-
-    配音員：[松野太紀](../Page/松野太紀.md "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
-  - 阿巴巴（アババ）-
-    配音員：[杉山佳壽子](../Page/杉山佳壽子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
-  - 摩德比-
-    配音員：[麦人](https://zh.wikipedia.org/wiki/麦人 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
+  - 比亞斯（ビアス／マーダビアス）- 配音員：[松野太紀](../Page/松野太紀.md "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
+  - 阿巴巴（アババ）- 配音員：[杉山佳壽子](../Page/杉山佳壽子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
+  - 摩德比- 配音員：[麦人](https://zh.wikipedia.org/wiki/麦人 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
 
 <!-- end list -->
 
@@ -132,8 +117,7 @@
 
 <!-- end list -->
 
-  - 丈鐵之介（丈鉄之助）-
-    配音員：[千葉進步](../Page/千葉進步.md "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")；港→[李凱傑](../Page/李凱傑.md "wikilink")
+  - 丈鐵之介（丈鉄之助）- 配音員：[千葉進步](../Page/千葉進步.md "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")；港→[李凱傑](../Page/李凱傑.md "wikilink")
 
 <!-- end list -->
 
@@ -142,8 +126,7 @@
 
 <!-- end list -->
 
-  - 阿薩多（アッサード）-
-    配音員：[小松里賀](https://zh.wikipedia.org/wiki/小松里賀 "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+  - 阿薩多（アッサード）- 配音員：[小松里賀](https://zh.wikipedia.org/wiki/小松里賀 "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
 
 <!-- end list -->
 
@@ -152,8 +135,7 @@
 
 <!-- end list -->
 
-  - 史萊（スライ）-
-    配音員：[遠藤純一](https://zh.wikipedia.org/wiki/遠藤純一 "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+  - 史萊（スライ）- 配音員：[遠藤純一](https://zh.wikipedia.org/wiki/遠藤純一 "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
 
 <!-- end list -->
 
@@ -162,8 +144,7 @@
 
 <!-- end list -->
 
-  - 喬書亞（巴特勒）（ジョシュア）-
-    配音員：[笹沼晃](../Page/笹沼堯羅.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+  - 喬書亞（巴特勒）（ジョシュア）- 配音員：[笹沼晃](../Page/笹沼堯羅.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
 
 <!-- end list -->
 
@@ -186,8 +167,7 @@
 
 <!-- end list -->
 
-  - Mr.彈珠-
-    配音員：[杉山佳壽子](../Page/杉山佳壽子.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+  - Mr.彈珠- 配音員：[杉山佳壽子](../Page/杉山佳壽子.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
 
 ### B傳說！戰鬥彈珠人 炎魂
 
@@ -195,8 +175,7 @@
 
 <!-- end list -->
 
-  - 剛諾斯（ガンノス）-
-    配音員：[大本眞基子](https://zh.wikipedia.org/wiki/大本眞基子 "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+  - 剛諾斯（ガンノス）- 配音員：[大本眞基子](https://zh.wikipedia.org/wiki/大本眞基子 "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
 
 <!-- end list -->
 
@@ -206,14 +185,10 @@
 
 <!-- end list -->
 
-  - 小花（ハナ）-
-    配音員：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
-  - 貝亞斯（ベアーズ）-
-    配音員：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
-  - 基雅（キア）-
-    配音員：[神田朱未](../Page/神田朱未.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
-  - 阿裘拉司（アキュラス）-
-    配音員：[保志総一朗](https://zh.wikipedia.org/wiki/保志総一朗 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
+  - 小花（ハナ）- 配音員：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
+  - 貝亞斯（ベアーズ）- 配音員：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
+  - 基雅（キア）- 配音員：[神田朱未](../Page/神田朱未.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
+  - 阿裘拉司（アキュラス）- 配音員：[保志総一朗](https://zh.wikipedia.org/wiki/保志総一朗 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
 
 <!-- end list -->
 
@@ -223,10 +198,8 @@
 
 <!-- end list -->
 
-  - 神（シン）-
-    配音員：[郷田ほづみ](https://zh.wikipedia.org/wiki/郷田ほづみ "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
-  - 牙（小牙）（キバ）-
-    配音員：[神谷浩史](../Page/神谷浩史.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+  - 神（シン）- 配音員：[郷田ほづみ](https://zh.wikipedia.org/wiki/郷田ほづみ "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+  - 牙（小牙）（キバ）- 配音員：[神谷浩史](../Page/神谷浩史.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
 
 <!-- end list -->
 
@@ -240,8 +213,7 @@
 
 <!-- end list -->
 
-  - 破邪（ハジャ）-
-    配音員：[大畑伸太郎](https://zh.wikipedia.org/wiki/大畑伸太郎 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
+  - 破邪（ハジャ）- 配音員：[大畑伸太郎](https://zh.wikipedia.org/wiki/大畑伸太郎 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
 
 <!-- end list -->
 
@@ -251,8 +223,7 @@
 
 <!-- end list -->
 
-  - 陣兵衛（動畫翻譯：金貝）（ジンベエ）-
-    配音員：[天神有海](../Page/天神有海.md "wikilink")；臺→[王瑞芹](../Page/王瑞芹.md "wikilink")
+  - 陣兵衛（動畫翻譯：金貝）（ジンベエ）- 配音員：[天神有海](../Page/天神有海.md "wikilink")；臺→[王瑞芹](../Page/王瑞芹.md "wikilink")
 
 <!-- end list -->
 
@@ -262,17 +233,11 @@
 
 <!-- end list -->
 
-  - 愛克斯{{〈}}兄{{〉}}（エクウス）-
-    配音員：[吉野裕行](../Page/吉野裕行.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
-  - 菲蕾斯{{〈}}妹{{〉}}（フェレス）-
-    配音員：[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")；臺→[王瑞芹](../Page/王瑞芹.md "wikilink")
-  - 印地安假面（アステカ仮面）-
-    配音員：[保志総一朗](https://zh.wikipedia.org/wiki/保志総一朗 "wikilink")＆（アルモンキー）-
-    配音員：[杉山佳寿子](https://zh.wikipedia.org/wiki/杉山佳寿子 "wikilink")；臺→？＆[許淑嬪](../Page/許淑嬪.md "wikilink")
-  - （ボスマスター（あのマスター））-
-    配音員：[竹本英史](../Page/竹本英史.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
-  - 凱爾帝薩（ゲルデウザー）-
-    配音員：[松本吉朗](https://zh.wikipedia.org/wiki/松本吉朗 "wikilink")
+  - 愛克斯{{〈}}兄{{〉}}（エクウス）- 配音員：[吉野裕行](../Page/吉野裕行.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+  - 菲蕾斯{{〈}}妹{{〉}}（フェレス）- 配音員：[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")；臺→[王瑞芹](../Page/王瑞芹.md "wikilink")
+  - 印地安假面（アステカ仮面）- 配音員：[保志総一朗](https://zh.wikipedia.org/wiki/保志総一朗 "wikilink")＆（アルモンキー）- 配音員：[杉山佳寿子](https://zh.wikipedia.org/wiki/杉山佳寿子 "wikilink")；臺→？＆[許淑嬪](../Page/許淑嬪.md "wikilink")
+  - （ボスマスター（あのマスター））- 配音員：[竹本英史](../Page/竹本英史.md "wikilink")；臺→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+  - 凱爾帝薩（ゲルデウザー）- 配音員：[松本吉朗](https://zh.wikipedia.org/wiki/松本吉朗 "wikilink")
 
 <!-- end list -->
 
@@ -336,9 +301,7 @@
 
 :; 片頭曲「B-FIRE」
 
-:: 作詞：CHIAKI(ex
-[Jelly](https://zh.wikipedia.org/wiki/JELLY_\(ガールズバンド\) "wikilink"))、吹上隆，作曲：CHIAKI(ex
-Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://zh.wikipedia.org/wiki/怒髪天 "wikilink")
+:: 作詞：CHIAKI(ex [Jelly](https://zh.wikipedia.org/wiki/JELLY_\(ガールズバンド\) "wikilink"))、吹上隆，作曲：CHIAKI(ex Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://zh.wikipedia.org/wiki/怒髪天 "wikilink")
 
 :; 片尾曲「FOREVER」
 
@@ -351,8 +314,7 @@ Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://z
 
 :; 片頭曲「ファイヤースピリッツ」
 
-::
-作詞：ビーダーズ，作曲・編曲：[荒木真樹彦](https://zh.wikipedia.org/wiki/荒木真樹彦 "wikilink")，主唱：MAKiZO
+:: 作詞：ビーダーズ，作曲・編曲：[荒木真樹彦](https://zh.wikipedia.org/wiki/荒木真樹彦 "wikilink")，主唱：MAKiZO
 
 :; 片尾曲「Teen's Hi」
 
@@ -366,18 +328,18 @@ Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://z
 **B傳說！戰鬥彈珠人**
 
   - 日本
-      - 2004年1月5日－2004年12月27日於[東京電視台播出](../Page/東京電視台.md "wikilink")。
+      - 2004年1月5日－2004年12月27日於[東京電視台](../Page/東京電視台.md "wikilink")播出。
   - 台灣
-      - 2005年9月28日－2005年12月8日於[卡通頻道播出](../Page/卡通頻道.md "wikilink")\[1\]及[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")（日期不詳，時間是下午5:00-5:30）。
+      - 2005年9月28日－2005年12月8日於[卡通頻道](../Page/卡通頻道.md "wikilink")播出\[1\]及[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")（日期不詳，時間是下午5:00-5:30）。
   - 香港
       - 由[亞洲電視本港台播出](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")。
 
 **B傳說！戰鬥彈珠人 炎魂**
 
   - 日本
-      - 2005年1月10日－2005年12月26日於[東京電視台播出](../Page/東京電視台.md "wikilink")。
+      - 2005年1月10日－2005年12月26日於[東京電視台](../Page/東京電視台.md "wikilink")播出。
   - 台灣
-      - 2006年5月19日開始於[卡通頻道播出](../Page/卡通頻道.md "wikilink")\[2\]及[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")（日期不詳，時間是早上7:00-7:30）。
+      - 2006年5月19日開始於[卡通頻道](../Page/卡通頻道.md "wikilink")播出\[2\]及[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")（日期不詳，時間是早上7:00-7:30）。
   - 香港
       - 由[有線電視兒童台播出](https://zh.wikipedia.org/wiki/有線電視兒童台 "wikilink")。
 
@@ -962,14 +924,7 @@ Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://z
 
   - [客家電視台網頁](http://web.pts.org.tw/hakka/mealc/main.php?Channel=hakka&XMAENO=1511)
 
-[Category:彈珠人](https://zh.wikipedia.org/wiki/Category:彈珠人 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink")
-[Category:2005年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2005年東京電視網動畫 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
-[Category:有線電視兒童台外購動畫](https://zh.wikipedia.org/wiki/Category:有線電視兒童台外購動畫 "wikilink")
+[Category:彈珠人](https://zh.wikipedia.org/wiki/Category:彈珠人 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink") [Category:2005年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2005年東京電視網動畫 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:有線電視兒童台外購動畫](https://zh.wikipedia.org/wiki/Category:有線電視兒童台外購動畫 "wikilink")
 
 1.  参照台灣中文版漫畫第一卷廣告。
 2.  参照台灣中文版漫畫第一卷廣告。

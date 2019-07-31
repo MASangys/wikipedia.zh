@@ -37,8 +37,7 @@
 4.  Tomorrow (*1999.10.21*)
 5.  The Action (All I really want to do) (*2000.3.23*)
 6.  Sullen Days *2000.8.23*
-7.  太陽は夜も輝く (*2000.12.27*)
-    ：參與[HUNTER×HUNTER第](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")2代OP／電視版動畫最末集
+7.  太陽は夜も輝く (*2000.12.27*) ：參與[HUNTER×HUNTER第](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")2代OP／電視版動畫最末集
 8.  New Dawn F (*2001.4.21*)
 9.  Go Straight Song\! (*2001.12.19*)
 10. Not Alone (*2002.5.22*) ：專為世足賽而作
@@ -141,8 +140,7 @@
 
 ### OFFICIAL
 
-  - [SPEEDSTAR
-    RECORDS](http://www.jvcmusic.co.jp/speedstar/-/Artist/A012037.html)
+  - [SPEEDSTAR RECORDS](http://www.jvcmusic.co.jp/speedstar/-/Artist/A012037.html)
 
 ### FANSITE
 
@@ -152,7 +150,4 @@
   - [Unfinished Vibes](http://homepage2.nifty.com/cocoonmayumi)
   - [AIN/ TGONNALOSE](http://gq8791.web.fc2.com/)（中文）
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")

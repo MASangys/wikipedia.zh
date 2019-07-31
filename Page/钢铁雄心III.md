@@ -1,5 +1,4 @@
-《**钢铁雄心III**》是著名的二战模拟游戏**钢铁雄心系列**的第三作。其制作方[Paradox Development
-Studio于](../Page/Paradox_Development_Studio.md "wikilink")2008年8月20日宣布推出这款游戏\[1\]。並率先於2009年8月7日在[北美地區發售](https://zh.wikipedia.org/wiki/北美地區 "wikilink")。
+《**钢铁雄心III**》是著名的二战模拟游戏**钢铁雄心系列**的第三作。其制作方[Paradox Development Studio于](../Page/Paradox_Development_Studio.md "wikilink")2008年8月20日宣布推出这款游戏\[1\]。並率先於2009年8月7日在[北美地區發售](https://zh.wikipedia.org/wiki/北美地區 "wikilink")。
 
 与其前作相同，《钢铁雄心III》将允许玩家扮演1936－1948年间世界上任何一个存在或可能存在的国家，通过政治、经济、谍报、外交以及战争等诸多手段，于[第二次世界大战](../Page/第二次世界大战.md "wikilink")中称霸世界。
 
@@ -13,50 +12,28 @@ Studio于](../Page/Paradox_Development_Studio.md "wikilink")2008年8月20日宣�
 
 开发团队周志（英文）：
 
-1.  [地图设计 -
-    October 15, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=378480)
-2.  [生产系统 -
-    October 22, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=379317)
-3.  [科技系统I -
-    October 29, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=380145)
-4.  [将领系统 -
-    November 5, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=380894)
-5.  [陆地战斗I -
-    November 12, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=381814)
-6.  [国内政治I -
-    November 19, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=382620)
-7.  [师团设计 -
-    November 26, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=383552)
-8.  [单位军阶 -
-    December 3, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=384225)
-9.  [后勤补给 -
-    December 10, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=385060)
-10. [海军单位 -
-    December 17, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=385951)
-11. [谍报机构 -
-    January 7, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=388733)
-12. [联盟&外交 -
-    January 14, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=389655)
-13. [国内政治II -
-    January 21, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=390600)
-14. [科技研究 -
-    January 28, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=391504)
-15. [阵营特色 -
-    February 4, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=392366)
-16. [将领&战斗 -
-    February 11, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=393322)
-17. [空军任务 -
-    February 18, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=394286)
-18. [海面战斗 -
-    February 25, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=395136)
-19. [单位建设 -
-    March 4, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=396061)
-20. [间谍&情报 -
-    March 11, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=396893)
-21. [海面护航 -
-    March 18, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=397649)
-22. [国内政治II -
-    April 1, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=399348)
+1.  [地图设计 - October 15, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=378480)
+2.  [生产系统 - October 22, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=379317)
+3.  [科技系统I - October 29, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=380145)
+4.  [将领系统 - November 5, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=380894)
+5.  [陆地战斗I - November 12, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=381814)
+6.  [国内政治I - November 19, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=382620)
+7.  [师团设计 - November 26, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=383552)
+8.  [单位军阶 - December 3, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=384225)
+9.  [后勤补给 - December 10, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=385060)
+10. [海军单位 - December 17, 2008](http://forum.paradoxplaza.com/forum/showthread.php?t=385951)
+11. [谍报机构 - January 7, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=388733)
+12. [联盟&外交 - January 14, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=389655)
+13. [国内政治II - January 21, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=390600)
+14. [科技研究 - January 28, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=391504)
+15. [阵营特色 - February 4, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=392366)
+16. [将领&战斗 - February 11, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=393322)
+17. [空军任务 - February 18, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=394286)
+18. [海面战斗 - February 25, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=395136)
+19. [单位建设 - March 4, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=396061)
+20. [间谍&情报 - March 11, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=396893)
+21. [海面护航 - March 18, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=397649)
+22. [国内政治II - April 1, 2009](http://forum.paradoxplaza.com/forum/showthread.php?t=399348)
 
 ## 特色
 
@@ -139,21 +116,12 @@ Studio于](../Page/Paradox_Development_Studio.md "wikilink")2008年8月20日宣�
 ## 外部链接
 
   - [Paradox Entertainment](http://www.paradoxplaza.com/)
-  - [Hearts of Iron 3: Semper
-    Fi](https://web.archive.org/web/20100409055524/http://www.paradoxplaza.com/games/hearts-of-iron-3-semper-fi)
-  - [Hearts of Iron III: Their Finest
-    Hour](http://www.metacritic.com/game/pc/hearts-of-iron-iii-their-finest-hour/)
+  - [Hearts of Iron 3: Semper Fi](https://web.archive.org/web/20100409055524/http://www.paradoxplaza.com/games/hearts-of-iron-3-semper-fi)
+  - [Hearts of Iron III: Their Finest Hour](http://www.metacritic.com/game/pc/hearts-of-iron-iii-their-finest-hour/)
 
 {{-}}
 
-[Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Paradox_Interactive遊戲](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")
-[Category:冷戰遊戲](https://zh.wikipedia.org/wiki/Category:冷戰遊戲 "wikilink")
-[Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink")
-[Category:有資料片的遊戲](https://zh.wikipedia.org/wiki/Category:有資料片的遊戲 "wikilink")
+[Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Paradox_Interactive遊戲](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink") [Category:冷戰遊戲](https://zh.wikipedia.org/wiki/Category:冷戰遊戲 "wikilink") [Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink") [Category:有資料片的遊戲](https://zh.wikipedia.org/wiki/Category:有資料片的遊戲 "wikilink")
 
 1.
 2.

@@ -20,8 +20,7 @@
 
 ## 参考资料
 
-[Category:有机氧化还原反应](https://zh.wikipedia.org/wiki/Category:有机氧化还原反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:有机氧化还原反应](https://zh.wikipedia.org/wiki/Category:有机氧化还原反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  Elbs, K. *J. Prakt. Chem.* **1893**, *48*, 179.
 2.

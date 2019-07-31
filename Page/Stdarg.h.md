@@ -1,9 +1,6 @@
-**`stdarg.h`**是[C語言中](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫](../Page/C標準函式庫.md "wikilink")的[標頭檔](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")，stdarg是由**st**andar**d**（標準）
-**arg**uments（參數）簡化而來，主要目的為讓函式能夠接收不定量參數。\[1\]
-[C++](../Page/C++.md "wikilink")的`cstdarg`標頭檔中也提供這樣的機能；雖然與C的標頭檔是相容的，但是也有衝突存在。
+**`stdarg.h`**是[C語言中](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫](../Page/C標準函式庫.md "wikilink")的[標頭檔](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")，stdarg是由**st**andar**d**（標準） **arg**uments（參數）簡化而來，主要目的為讓函式能夠接收不定量參數。\[1\] [C++](../Page/C++.md "wikilink")的`cstdarg`標頭檔中也提供這樣的機能；雖然與C的標頭檔是相容的，但是也有衝突存在。
 
-[不定參數函式](https://zh.wikipedia.org/wiki/不定參數函式 "wikilink")（Variadic
-functions）是`stdarg.h`內容典型的應用，雖然也可以使用在其他由不定參數函式呼叫的函式（例如，[`vprintf`](https://zh.wikipedia.org/wiki/vprintf "wikilink")）。
+[不定參數函式](https://zh.wikipedia.org/wiki/不定參數函式 "wikilink")（Variadic functions）是`stdarg.h`內容典型的應用，雖然也可以使用在其他由不定參數函式呼叫的函式（例如，[`vprintf`](https://zh.wikipedia.org/wiki/vprintf "wikilink")）。
 
 ## 宣告不定參數函式
 
@@ -19,8 +16,7 @@ int check(int a, double b, ...);
 char *wrong(...);
 ```
 
-在C是不被允許的。在C，省略符號之前必須要有逗號；在C++，則沒有這種強制要求。
-（雖然在C++中，這樣的宣告是合理的，但是這種寫法，因為沒有已命名的參數，使得`va_start`沒辦法抓到動態參數的正確起始點。）
+在C是不被允許的。在C，省略符號之前必須要有逗號；在C++，則沒有這種強制要求。 （雖然在C++中，這樣的宣告是合理的，但是這種寫法，因為沒有已命名的參數，使得`va_start`沒辦法抓到動態參數的正確起始點。）
 
 ## 定義不定參數函式
 
@@ -67,21 +63,17 @@ long func(a, b, c, ...)
 
 存取未命名的參數，首先必須在不定參數函式中宣告`va_list`型態的變數。呼叫`va_start`並傳入兩個參數：第一個參數為`va_list`型態的變數，第二個参数為函式的動態參數前面最後一個已命名的參數名稱，接著每一呼叫`va_arg`就會回傳下一個參數，`va_arg`的第一個參數為`va_list`，第二個參數為回傳的型態。最後`va_end`必須在函式回傳前被`va_list`呼叫(當作參數)。(沒有要求要讀取完所有參數)
 
-[C99提供額外的巨集](https://zh.wikipedia.org/wiki/C99 "wikilink")，`va_copy`，它能夠複製`va_list`。而`va_copy(va2,
-va1)`意思為拷貝`va1`到`va2`。
+[C99提供額外的巨集](https://zh.wikipedia.org/wiki/C99 "wikilink")，`va_copy`，它能夠複製`va_list`。而`va_copy(va2, va1)`意思為拷貝`va1`到`va2`。
 
 沒有機制定義該怎麼判別傳遞到函式的參數量或者型態。函式通常需要知道或確定它們變化的方法。共通的慣例包含:
 
   - 使用[`printf`](https://zh.wikipedia.org/wiki/printf "wikilink")或[`scanf`](https://zh.wikipedia.org/wiki/scanf "wikilink")類的格式化字串來嵌入明確指定的型態。
-  - 在不定參數最後的[標记值](https://zh.wikipedia.org/wiki/標记值 "wikilink")(sentinel
-    value)。
+  - 在不定參數最後的[標记值](https://zh.wikipedia.org/wiki/標记值 "wikilink")(sentinel value)。
   - 總數變數來指明不定參數的數量。
 
 ## 型別安全性
 
-有些C的实现，提供了对不定参数的扩展，允許編譯器檢查適當的格式化字串及標志(sentinels)的使用。如果沒有這种擴充，編譯器通常無從檢查傳入函式的未命名參數是否為所預期的型態，也不能转换它们为所需要的数据类型。因此，必須小心謹慎以确保正確性，因为不匹配的型態降到导致[未定義行為](https://zh.wikipedia.org/wiki/未定義行為 "wikilink")(Undefined
-behavior)。例如，如果傳递[空指针](https://zh.wikipedia.org/wiki/空指针 "wikilink")，不能仅仅写入`NULL`（可能实际定义为0），还要转化为（cast）适当的指针类型。另一个考慮是未命名参数的默认的类型提升。`float`將會自動的被轉換成`double`‧同樣的比`int`(整數)更小容量的參數型態將會被轉換成`int`或者`unsigned
-int`‧函式所接收到的未命名參數必須預期将被型態提升。
+有些C的实现，提供了对不定参数的扩展，允許編譯器檢查適當的格式化字串及標志(sentinels)的使用。如果沒有這种擴充，編譯器通常無從檢查傳入函式的未命名參數是否為所預期的型態，也不能转换它们为所需要的数据类型。因此，必須小心謹慎以确保正確性，因为不匹配的型態降到导致[未定義行為](https://zh.wikipedia.org/wiki/未定義行為 "wikilink")(Undefined behavior)。例如，如果傳递[空指针](https://zh.wikipedia.org/wiki/空指针 "wikilink")，不能仅仅写入`NULL`（可能实际定义为0），还要转化为（cast）适当的指针类型。另一个考慮是未命名参数的默认的类型提升。`float`將會自動的被轉換成`double`‧同樣的比`int`(整數)更小容量的參數型態將會被轉換成`int`或者`unsigned int`‧函式所接收到的未命名參數必須預期将被型態提升。
 
 ## 例子
 
@@ -120,9 +112,7 @@ int main(void)
 
 ## `varargs.h`
 
-[POSIX定義所遺留下的標頭檔](https://zh.wikipedia.org/wiki/POSIX "wikilink")`varargs.h`，它早在C標準化前就已經開始使用了且提供類似`stdarg.h`的機能。[MSDN明确指出这一头文件已经过时](https://zh.wikipedia.org/wiki/MSDN "wikilink")，完全被stdarg.h取代\[2\]。這個標頭檔不屬於ISO
-C的一部分。檔案定義在[单一UNIX规范的第二個版本中](https://zh.wikipedia.org/wiki/单一UNIX规范 "wikilink")，簡單的包含所有C89
-`stdarg.h`的機能，除了:不能使用在標準C較新的形式定義；你可以不給予參數(標準C需要最少一個參數)；與標準C運作的方法不同，其中一個寫成：
+[POSIX定義所遺留下的標頭檔](https://zh.wikipedia.org/wiki/POSIX "wikilink")`varargs.h`，它早在C標準化前就已經開始使用了且提供類似`stdarg.h`的機能。[MSDN明确指出这一头文件已经过时](https://zh.wikipedia.org/wiki/MSDN "wikilink")，完全被stdarg.h取代\[2\]。這個標頭檔不屬於ISO C的一部分。檔案定義在[单一UNIX规范的第二個版本中](https://zh.wikipedia.org/wiki/单一UNIX规范 "wikilink")，簡單的包含所有C89 `stdarg.h`的機能，除了:不能使用在標準C較新的形式定義；你可以不給予參數(標準C需要最少一個參數)；與標準C運作的方法不同，其中一個寫成：
 
 ``` c
 #include <stdarg.h>
@@ -192,8 +182,5 @@ summate(n, va_alist)
 <references/>
 
 1.
-2.  [The macros defined in VARARGS.H are deprecated and exist solely for
-    backwards compatibility. Use the macros defined in STDARGS.H unless
-    you are working with code before the ANSI
-    standard.](http://msdn.microsoft.com/zh-cn/site/kb57fad8%28v=VS.100%29)
+2.  [The macros defined in VARARGS.H are deprecated and exist solely for backwards compatibility. Use the macros defined in STDARGS.H unless you are working with code before the ANSI standard.](http://msdn.microsoft.com/zh-cn/site/kb57fad8%28v=VS.100%29)
 3.

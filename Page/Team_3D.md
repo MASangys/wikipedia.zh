@@ -1,9 +1,4 @@
-**Team Desire - Discipline - Dedication**，也就是**Team
-3D**或者**3D.NY**。隊伍名稱即取自渴望 (**Desire**)、紀律
-(**Discipline**)以及奉獻 (**Dedication**)英文的第一個字母集結而成，也就是Team
-3D，也因為隊伍位於美國紐約市，故稱3D.NY。3D.NY是一個著名的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[絕對武力電子競技職業隊伍](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")，目前包括有[絕對武力：次世代](../Page/絕對武力：次世代.md "wikilink")、[魔獸爭霸3以及](https://zh.wikipedia.org/wiki/魔獸爭霸3 "wikilink")[生死格鬥4的隊伍](../Page/生死格鬥4.md "wikilink")，舊有的隊伍包括[絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")、[決勝時刻以及獵魔者](https://zh.wikipedia.org/wiki/使命召喚 "wikilink")。隊伍最初是由克雷格·雷賓於2002年創辦，不過目前則是由大衛·傑風管里，與Team
-3D合作的贊助商包括[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[森海塞爾](https://zh.wikipedia.org/wiki/森海塞爾 "wikilink")、Xfire、PNY、SteelSeries、電子競技娛樂協會以及Velocity
-Servers。
+**Team Desire - Discipline - Dedication**，也就是**Team 3D**或者**3D.NY**。隊伍名稱即取自渴望 (**Desire**)、紀律 (**Discipline**)以及奉獻 (**Dedication**)英文的第一個字母集結而成，也就是Team 3D，也因為隊伍位於美國紐約市，故稱3D.NY。3D.NY是一個著名的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[絕對武力電子競技職業隊伍](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")，目前包括有[絕對武力：次世代](../Page/絕對武力：次世代.md "wikilink")、[魔獸爭霸3以及](https://zh.wikipedia.org/wiki/魔獸爭霸3 "wikilink")[生死格鬥4](../Page/生死格鬥4.md "wikilink")的隊伍，舊有的隊伍包括[絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")、[決勝時刻以及獵魔者](https://zh.wikipedia.org/wiki/使命召喚 "wikilink")。隊伍最初是由克雷格·雷賓於2002年創辦，不過目前則是由大衛·傑風管里，與Team 3D合作的贊助商包括[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[森海塞爾](https://zh.wikipedia.org/wiki/森海塞爾 "wikilink")、Xfire、PNY、SteelSeries、電子競技娛樂協會以及Velocity Servers。
 目前這支隊伍也是美國G7隊伍中的其中一支。
 
 ## 隊員
@@ -227,7 +222,7 @@ Servers。
 | 2005年 | [新加坡](../Page/新加坡.md "wikilink")[新達城](https://zh.wikipedia.org/wiki/新達城廣場 "wikilink")                                   | *[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")* | 冠軍 |
 |       |                                                                                                                         |                                                       |    |
 
-**[最後一戰2得獎事蹟](../Page/最後一戰2.md "wikilink")**
+**[最後一戰2](../Page/最後一戰2.md "wikilink")得獎事蹟**
 
 | 年度    | 賽事                            | 排名 |
 | ----- | ----------------------------- | -- |
@@ -241,7 +236,7 @@ Servers。
 | 2002年 | *[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")* | 冠軍 |
 |       |                                                       |    |
 
-**[生死格鬥4得獎事蹟](../Page/生死格鬥4.md "wikilink")**
+**[生死格鬥4](../Page/生死格鬥4.md "wikilink")得獎事蹟**
 
 | 年度    | 賽事                                                    | 排名 |
 | ----- | ----------------------------------------------------- | -- |
@@ -262,8 +257,7 @@ Servers。
 
 </div>
 
-[Category:美国电子竞技团队](https://zh.wikipedia.org/wiki/Category:美国电子竞技团队 "wikilink")
-[Category:2002年紐約州建立](https://zh.wikipedia.org/wiki/Category:2002年紐約州建立 "wikilink")
+[Category:美国电子竞技团队](https://zh.wikipedia.org/wiki/Category:美国电子竞技团队 "wikilink") [Category:2002年紐約州建立](https://zh.wikipedia.org/wiki/Category:2002年紐約州建立 "wikilink")
 
 1.
 2.

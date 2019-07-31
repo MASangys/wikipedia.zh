@@ -6,15 +6,10 @@ CSF格式属于一种[容器格式](https://zh.wikipedia.org/wiki/容器格式 "
 
 ## 播放
 
-CSF格式文件的官方播放器是[ScenicPlayer（科建情景播放器）](https://web.archive.org/web/20080622043648/http://tod.collegesoft.com.cn/detail.aspx?classid=xpr)。在安装[CSF
-Codec](http://tod.collegesoft.com.cn/detail.aspx?id=121)后，也可以通过[Microsoft
-Windows Media
-Player播放](https://zh.wikipedia.org/wiki/Microsoft_Windows_Media_Player "wikilink")，且与ScenicPlayer不互相依赖或干扰。
+CSF格式文件的官方播放器是[ScenicPlayer（科建情景播放器）](https://web.archive.org/web/20080622043648/http://tod.collegesoft.com.cn/detail.aspx?classid=xpr)。在安装[CSF Codec](http://tod.collegesoft.com.cn/detail.aspx?id=121)后，也可以通过[Microsoft Windows Media Player播放](https://zh.wikipedia.org/wiki/Microsoft_Windows_Media_Player "wikilink")，且与ScenicPlayer不互相依赖或干扰。
 
 ## 外部链接
 
   - [多媒体产品下载中心 | 江苏科建教育软件有限责任公司](http://tod.collegesoft.com.cn/)（开发公司）
 
-[Category:扩展名](https://zh.wikipedia.org/wiki/Category:扩展名 "wikilink")
-[Category:音频格式](https://zh.wikipedia.org/wiki/Category:音频格式 "wikilink")
-[Category:视频文件格式](https://zh.wikipedia.org/wiki/Category:视频文件格式 "wikilink")
+[Category:扩展名](https://zh.wikipedia.org/wiki/Category:扩展名 "wikilink") [Category:音频格式](https://zh.wikipedia.org/wiki/Category:音频格式 "wikilink") [Category:视频文件格式](https://zh.wikipedia.org/wiki/Category:视频文件格式 "wikilink")

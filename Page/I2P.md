@@ -1,19 +1,12 @@
-**I2P**（Invisible Internet
-Project即“隐形网计划”），是一项混合授权的[匿名網路项目](../Page/匿名.md "wikilink")。
+**I2P**（Invisible Internet Project即“隐形网计划”），是一项混合授权的[匿名](../Page/匿名.md "wikilink")網路项目。
 
-I2P網路是由I2P路由器以[大蒜路由方式组成的表层網路](https://zh.wikipedia.org/wiki/大蒜路由 "wikilink")，建立于其上的应用程序可以安全匿名的相互通訊。它可以同时使用[UDP及](https://zh.wikipedia.org/wiki/UDP "wikilink")[TCP协议](https://zh.wikipedia.org/wiki/TCP "wikilink")，支援[UPnP映射](../Page/UPnP.md "wikilink")。其应用包括匿名上網、聊天、撰寫部落格和檔案傳輸。
+I2P網路是由I2P路由器以[大蒜路由方式组成的表层網路](https://zh.wikipedia.org/wiki/大蒜路由 "wikilink")，建立于其上的应用程序可以安全匿名的相互通訊。它可以同时使用[UDP及](https://zh.wikipedia.org/wiki/UDP "wikilink")[TCP协议](https://zh.wikipedia.org/wiki/TCP "wikilink")，支援[UPnP](../Page/UPnP.md "wikilink")映射。其应用包括匿名上網、聊天、撰寫部落格和檔案傳輸。
 
 ## 系统简介
 
-I2P是可伸缩性强，具有自我组织与恢复能力的包切换匿名网络。其上运行有多种不同的匿名安全程序，各程序可以自行决定匿名性、延迟、流量平衡而不用考虑混淆式路由网络的具体实现。它们的数据活动可以与现有的I2P用户的匿名数据相混合。目前可用的程序包括全部典型的Internet应用
--
-匿名网页浏览（Eepproxy），匿名网站（Eepsite），匿名博客与内容聚合（[Syndie](http://syndie.i2p2.de/download.html)），匿名聊天（通过[IRC](../Page/IRC.md "wikilink")、[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")、I2P-QTMessanger），匿名文件传输（I2PSnark，Robert），匿名文件分享（I2Phex,
-iMule），匿名电子邮件（I2PMail+susiMail），匿名新闻组，及其他开发中的程序。与[自由网或](../Page/自由网.md "wikilink")[GNUnet上内容发布网络不同](https://zh.wikipedia.org/wiki/GNUnet "wikilink")，**I2P**所提供的服务具有更强的交互性
-- 从常规的Web搜索引擎，到论坛，博客，数据站点再到无需安装[Tor](../Page/Tor.md "wikilink") /
-[自由网即可访问其中内容的网关](../Page/自由网.md "wikilink")。
+I2P是可伸缩性强，具有自我组织与恢复能力的包切换匿名网络。其上运行有多种不同的匿名安全程序，各程序可以自行决定匿名性、延迟、流量平衡而不用考虑混淆式路由网络的具体实现。它们的数据活动可以与现有的I2P用户的匿名数据相混合。目前可用的程序包括全部典型的Internet应用 - 匿名网页浏览（Eepproxy），匿名网站（Eepsite），匿名博客与内容聚合（[Syndie](http://syndie.i2p2.de/download.html)），匿名聊天（通过[IRC](../Page/IRC.md "wikilink")、[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")、I2P-QTMessanger），匿名文件传输（I2PSnark，Robert），匿名文件分享（I2Phex, iMule），匿名电子邮件（I2PMail+susiMail），匿名新闻组，及其他开发中的程序。与[自由网](../Page/自由网.md "wikilink")或[GNUnet上内容发布网络不同](https://zh.wikipedia.org/wiki/GNUnet "wikilink")，**I2P**所提供的服务具有更强的交互性 - 从常规的Web搜索引擎，到论坛，博客，数据站点再到无需安装[Tor](../Page/Tor.md "wikilink") / [自由网](../Page/自由网.md "wikilink")即可访问其中内容的网关。
 
-**I2P**做为消息机制为基础的中间件与这些匿名性程序协同工作 -
-程序要求发送数据给某一加密标识（目标），I2P来处理并保证数据安全匿名的到达[\#目标](https://zh.wikipedia.org/wiki/#目标 "wikilink")。I2P还带有易用的流封装库，可将I2P匿名消息转换为可靠有序的数据流传输，提供基于[TCP协议的拥堵控制算法解决网络程序的宽带延迟问题](https://zh.wikipedia.org/wiki/TCP "wikilink")。I2P同时有简易的[SOCKS代理接口可以将现有的网络程序绑定于](../Page/SOCKS.md "wikilink")**I2P**网络中。这样做的意义并不大，因为几乎所有普通应用程序都会向网络暴露有碍匿名性的敏感数据，除非对程序进行全面审计。为了方便使用，I2P为各种语言提供了一系列API，从而充分利用I2P的资源。\[1\]
+**I2P**做为消息机制为基础的中间件与这些匿名性程序协同工作 - 程序要求发送数据给某一加密标识（目标），I2P来处理并保证数据安全匿名的到达[\#目标](https://zh.wikipedia.org/wiki/#目标 "wikilink")。I2P还带有易用的流封装库，可将I2P匿名消息转换为可靠有序的数据流传输，提供基于[TCP协议的拥堵控制算法解决网络程序的宽带延迟问题](https://zh.wikipedia.org/wiki/TCP "wikilink")。I2P同时有简易的[SOCKS](../Page/SOCKS.md "wikilink")代理接口可以将现有的网络程序绑定于**I2P**网络中。这样做的意义并不大，因为几乎所有普通应用程序都会向网络暴露有碍匿名性的敏感数据，除非对程序进行全面审计。为了方便使用，I2P为各种语言提供了一系列API，从而充分利用I2P的资源。\[1\]
 
 ## I2P应用程序
 
@@ -41,7 +34,7 @@ I2P网络中有多个客户端支持[BitTorrent功能](../Page/BitTorrent_\(协�
 
 *Robert*是基于BOB的BT客户端
 
-*TransmissionI2P*是[Transmission在Linux上尚未完成的I](../Page/Transmission.md "wikilink")2P移植版。\[7\]
+*TransmissionI2P*是[Transmission](../Page/Transmission.md "wikilink")在Linux上尚未完成的I2P移植版。\[7\]
 
 ### eDonkey iMule
 
@@ -49,11 +42,11 @@ I2P网络中有多个客户端支持[BitTorrent功能](../Page/BitTorrent_\(协�
 
 [iMule](https://zh.wikipedia.org/wiki/iMule "wikilink")（*隐身骡*）\[8\]是全平台客户端[aMule的I](https://zh.wikipedia.org/wiki/aMule "wikilink")2P移植版。
 
-与[eDonkey不同](https://zh.wikipedia.org/wiki/eDonkey_network "wikilink")，iMule只使用[Kademlia连接因此没有服务器](../Page/Kademlia.md "wikilink")。iMule自1.2.3版起携带内置的GCJ编译的I2P路由器，由于I2P的GCJ编译版效率低下版本滞后，内置路由器被I2P开发者叫停\[9\]
+与[eDonkey不同](https://zh.wikipedia.org/wiki/eDonkey_network "wikilink")，iMule只使用[Kademlia](../Page/Kademlia.md "wikilink")连接因此没有服务器。iMule自1.2.3版起携带内置的GCJ编译的I2P路由器，由于I2P的GCJ编译版效率低下版本滞后，内置路由器被I2P开发者叫停\[9\]
 
 ### Gnutella I2Phex
 
-[I2Phex是](https://zh.wikipedia.org/wiki/I2Phex "wikilink")[Gnutella客户端](../Page/Gnutella.md "wikilink")[Phex的I](https://zh.wikipedia.org/wiki/Phex "wikilink")2P移植版。
+[I2Phex是](https://zh.wikipedia.org/wiki/I2Phex "wikilink")[Gnutella](../Page/Gnutella.md "wikilink")客户端[Phex的I](https://zh.wikipedia.org/wiki/Phex "wikilink")2P移植版。
 
 ### I2P-Messanger
 
@@ -67,7 +60,7 @@ I2P免费的假名Email服务，由'Postman'维护。邮件传输服务器为*po
 
 ### Syndie
 
-[Syndie是I](../Page/Syndie.md "wikilink")2P的[博客程序可以同时使用](https://zh.wikipedia.org/wiki/博客 "wikilink")[Tor网络](../Page/Tor.md "wikilink")，目前开发停滞仍处于Alpa阶段。\[12\]
+[Syndie](../Page/Syndie.md "wikilink")是I2P的[博客程序可以同时使用](https://zh.wikipedia.org/wiki/博客 "wikilink")[Tor](../Page/Tor.md "wikilink")网络，目前开发停滞仍处于Alpa阶段。\[12\]
 
 ## I2P术语
 
@@ -75,12 +68,11 @@ I2P用户在I2P的网站及路由界面中会遇到如下术语：
 
 ### I2P匿名站点
 
-I2P匿名站点（Eepsite）是I2P网络内的[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")。I2P站点的名称以*.i2p*结尾，例如ugha.i2p或forum.i2p.
-I2P代理（EepProxy）可以通过I2P文件夹下hosts.txt中的加密识别密钥找到这些站点。通常，必须通过I2P才能访问这些站点。对于使用加密[赁集的I](https://zh.wikipedia.org/wiki/赁集 "wikilink")2P匿名网站/出口代理-{只}-有持有该站点密钥的路由器才能访问。
+I2P匿名站点（Eepsite）是I2P网络内的[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")。I2P站点的名称以*.i2p*结尾，例如ugha.i2p或forum.i2p. I2P代理（EepProxy）可以通过I2P文件夹下hosts.txt中的加密识别密钥找到这些站点。通常，必须通过I2P才能访问这些站点。对于使用加密[赁集的I](https://zh.wikipedia.org/wiki/赁集 "wikilink")2P匿名网站/出口代理-{只}-有持有该站点密钥的路由器才能访问。
 
 ### I2P代理
 
-I2P代理（EepProxy）程序处理浏览器与[\#I2P匿名站点间的所有通信](https://zh.wikipedia.org/wiki/#I2P匿名站点 "wikilink")。它以[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")[代理服务器的形式工作](../Page/代理服务器.md "wikilink")，适于绝大多数[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。\[13\]
+I2P代理（EepProxy）程序处理浏览器与[\#I2P匿名站点间的所有通信](https://zh.wikipedia.org/wiki/#I2P匿名站点 "wikilink")。它以[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")的形式工作，适于绝大多数[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。\[13\]
 
 **.i2p**是一个虚拟的[顶级域名只在I](https://zh.wikipedia.org/wiki/顶级域名 "wikilink")2P表层网络内有效。`.i2p`域名由浏览器提交给EepProxy进行解析，EepProxy查询到I2P用户密钥后处理数据的传输，从而使浏览器可以透明浏览I2P网络。\[14\]
 
@@ -115,28 +107,19 @@ I2P中将可到达的匿名端点（EndPoint）称为目标（Destination）在I
   - [I2P常见问题列表](https://geti2p.net/zh/faq)
   - [I2P下载](https://geti2p.net/zh/download)
 
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
-[Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink")
-[Category:檔案分享程式](https://zh.wikipedia.org/wiki/Category:檔案分享程式 "wikilink")
-[Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
-[Category:自由路由軟體](https://zh.wikipedia.org/wiki/Category:自由路由軟體 "wikilink")
+[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink") [Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink") [Category:檔案分享程式](https://zh.wikipedia.org/wiki/Category:檔案分享程式 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink") [Category:自由路由軟體](https://zh.wikipedia.org/wiki/Category:自由路由軟體 "wikilink")
 
 1.  [Tech Intro](http://www.i2p2.i2p/techintro.html)
 2.  [SAM - I2P](http://www.i2p2.de/sam)
 3.  [I2P BOB API](http://www.bob.i2p/)
 4.  [I2P Bittorrent FAQ](http://forum.i2p2.de/viewtopic.php?t=2068)
-5.  [The Hunting of the Snark Project - BitTorrent Application
-    Suite](http://www.klomp.org/snark/)
+5.  [The Hunting of the Snark Project - BitTorrent Application Suite](http://www.klomp.org/snark/)
 6.  [Rufus - BitTorrent Client : Home](http://rufus.sourceforge.net/)
 7.  [TransmissionI2P](http://forum.i2p2.de/viewtopic.php?t=3985)
 8.  [iMule download](http://aceini.no-ip.info/imule)
-9.  [Do not use internal
-    router\!](http://forum.i2p2.de/viewtopic.php?t=3466)
-10. [I2P-Messenger First Beta
-    released](http://forum.i2p2.de/viewtopic.php?t=2474&start=15)
+9.  [Do not use internal router\!](http://forum.i2p2.de/viewtopic.php?t=3466)
+10. [I2P-Messenger First Beta released](http://forum.i2p2.de/viewtopic.php?t=2474&start=15)
 11. [qt messenger in I2P, active dev](http://echelon.i2p/qti2pmessenger)
 12. [Syndie主页](http://syndie.i2p2.de/)
-13. [Web Browser Configuration -
-    I2P](http://www.i2p2.de/htproxyports.html)
+13. [Web Browser Configuration - I2P](http://www.i2p2.de/htproxyports.html)
 14. [i2p homepage](http://www.i2p2.de/)

@@ -1,8 +1,4 @@
-**尼克希菲特**（[德语](../Page/德语.md "wikilink")：****，[1977年](../Page/1977年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")[门兴格拉德巴赫](../Page/门兴格拉德巴赫.md "wikilink")
--
-），[德国](../Page/德国.md "wikilink")[一级方程式赛车](../Page/一级方程式赛车.md "wikilink")車手，綽號**Quick
-Nick**\[1\]
-，目前效力于[宝马索伯车队](../Page/宝马索伯车队.md "wikilink")。他是所有没有获得过分站冠军的F1车手中获得积分最多的人。
+**尼克希菲特**（[德语](../Page/德语.md "wikilink")：****，[1977年](../Page/1977年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")[门兴格拉德巴赫](../Page/门兴格拉德巴赫.md "wikilink") - ），[德国](../Page/德国.md "wikilink")[一级方程式赛车](../Page/一级方程式赛车.md "wikilink")車手，綽號**Quick Nick**\[1\] ，目前效力于[宝马索伯车队](../Page/宝马索伯车队.md "wikilink")。他是所有没有获得过分站冠军的F1车手中获得积分最多的人。
 
 ## F1职业生涯
 

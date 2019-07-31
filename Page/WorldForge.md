@@ -2,12 +2,9 @@
 
 ## 历史
 
-WorldForge
-Project开始于1998年10月，用原名"Altima."原来要制作成"另一个[网络创世纪](../Page/网络创世纪.md "wikilink")"在[Slashdot](../Page/Slashdot.md "wikilink")新闻中提及\[1\]，非常吸引开发者。
+WorldForge Project开始于1998年10月，用原名"Altima."原来要制作成"另一个[网络创世纪](../Page/网络创世纪.md "wikilink")"在[Slashdot](../Page/Slashdot.md "wikilink")新闻中提及\[1\]，非常吸引开发者。
 
-原创和伙伴都离开了去开发Slashdot，尽管这样，社区继续运作。有了新目标和方向取代了"成熟创世纪克隆"而有了现在的名字"WorldForge"
-Avinash Gupta是项目的第一个领导者，然后是Bryce
-Harrington\[2\]。不过，现在更多新入者选择不要领导，而是一群核心开发者决定整个方向。\[3\]
+原创和伙伴都离开了去开发Slashdot，尽管这样，社区继续运作。有了新目标和方向取代了"成熟创世纪克隆"而有了现在的名字"WorldForge" Avinash Gupta是项目的第一个领导者，然后是Bryce Harrington\[2\]。不过，现在更多新入者选择不要领导，而是一群核心开发者决定整个方向。\[3\]
 
 WorldForge社区认定，大型并非非商业游戏必备的，注重的社区环境；预计每个世界有数百人而不是几千人。另外，WorldForge服务器是由志愿者提供的，并没有强大的带宽保证和硬件能力。
 
@@ -17,8 +14,7 @@ WorldForge社区认定，大型并非非商业游戏必备的，注重的社区�
 
 ### 客户端
 
-3D客户端现在有两个，Ember和Sear。 都能正常工作，如生火，植树，打桩等。但是Ember更先进，可以修改世界建筑。
-二者都可以在Linux、Windows和Mac上使用。
+3D客户端现在有两个，Ember和Sear。 都能正常工作，如生火，植树，打桩等。但是Ember更先进，可以修改世界建筑。 二者都可以在Linux、Windows和Mac上使用。
 
 ### 服务器
 
@@ -41,14 +37,7 @@ WorldForge因为长时间早期开发自己的协议和进程。结果导致大�
   - [Blog](https://web.archive.org/web/20090402125817/http://worldforgedev.org/)
   - [论坛](https://web.archive.org/web/20090312031636/http://forums.worldforgedev.org/)
 
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
-[Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
+[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
 
 1.
 2.

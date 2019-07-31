@@ -1,8 +1,6 @@
-[Chris_Anderson_2007.jpg](https://zh.wikipedia.org/wiki/File:Chris_Anderson_2007.jpg "fig:Chris_Anderson_2007.jpg")
-[Bill_Clinton_talking_at_TED_2007.jpg](https://zh.wikipedia.org/wiki/File:Bill_Clinton_talking_at_TED_2007.jpg "fig:Bill_Clinton_talking_at_TED_2007.jpg")在2007年TED大会上发表演讲\]\]
+[Chris_Anderson_2007.jpg](https://zh.wikipedia.org/wiki/File:Chris_Anderson_2007.jpg "fig:Chris_Anderson_2007.jpg") [Bill_Clinton_talking_at_TED_2007.jpg](https://zh.wikipedia.org/wiki/File:Bill_Clinton_talking_at_TED_2007.jpg "fig:Bill_Clinton_talking_at_TED_2007.jpg")在2007年TED大会上发表演讲\]\]
 
-**TED Conference LLC.**（指**T**echnology, **E**ntertainment,
-**D**esign在英语中的缩写，即[技术](../Page/技术.md "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")）是美国的一家私有[非营利机构](https://zh.wikipedia.org/wiki/非营利机构 "wikilink")，该机构以它组织的TED大会著称。TED诞生于1984年，其創辦人是。
+**TED Conference LLC.**（指**T**echnology, **E**ntertainment, **D**esign在英语中的缩写，即[技术](../Page/技术.md "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")）是美国的一家私有[非营利机构](https://zh.wikipedia.org/wiki/非营利机构 "wikilink")，该机构以它组织的TED大会著称。TED诞生于1984年，其創辦人是。
 
 2002年起，克里斯·安德森\[1\]接管TED，创立了[种子基金会](https://zh.wikipedia.org/wiki/种子基金会 "wikilink")（），并营运TED大会。每年3月，TED大会在美国召集众多科学、设计、文学、音乐等领域的杰出人物，分享他们关于技术、社会、人的思考和探索。
 
@@ -22,14 +20,11 @@ TED演讲（）的主题并不仅仅局限于技术、娱乐和设计。事实�
 
 ### TEDx项目
 
-[TEDxXMU_20131123.jpg](https://zh.wikipedia.org/wiki/File:TEDxXMU_20131123.jpg "fig:TEDxXMU_20131123.jpg")的厦大TEDx活动\]\]
-TEDx项目（）是由TED于2009年推出的一个项目，旨在鼓励各地的喜愛TED大會的民眾自发组织TED风格的活动，TEDx項目與TED本身並不帶任何關聯。截至2010年4月，已经有500多场TEDx在世界各地的城市和乡村举办。\[8\]，其現場參與費用通常遠低於TED大會，亦有意見指出此類TEDx大會由於未受到統一管理，而會議品質參差不齊。\[9\]
+[TEDxXMU_20131123.jpg](https://zh.wikipedia.org/wiki/File:TEDxXMU_20131123.jpg "fig:TEDxXMU_20131123.jpg")的厦大TEDx活动\]\] TEDx项目（）是由TED于2009年推出的一个项目，旨在鼓励各地的喜愛TED大會的民眾自发组织TED风格的活动，TEDx項目與TED本身並不帶任何關聯。截至2010年4月，已经有500多场TEDx在世界各地的城市和乡村举办。\[8\]，其現場參與費用通常遠低於TED大會，亦有意見指出此類TEDx大會由於未受到統一管理，而會議品質參差不齊。\[9\]
 
 ### TED Fellows
 
-TED
-Fellows项目（）是由TED推出的一个项目，旨在为发展中国家的青年俊秀创造机会，让他们有机会去到TED，同时也借此项目，发掘来自世界不同地方的后起之秀。任何40岁以下的人士皆可申请成为TED
-Fellow⑰，详情请参考[TED Fellows主页](http://ted.com/fellows)
+TED Fellows项目（）是由TED推出的一个项目，旨在为发展中国家的青年俊秀创造机会，让他们有机会去到TED，同时也借此项目，发掘来自世界不同地方的后起之秀。任何40岁以下的人士皆可申请成为TED Fellow⑰，详情请参考[TED Fellows主页](http://ted.com/fellows)
 
 ### TED开放翻译项目
 
@@ -41,8 +36,7 @@ TED对话（）依托于TED.com的社交媒体平台。旨在组织专业人士�
 
 ### TED书籍
 
-TED书籍（）包含的是一类短小精悍的非虚构的作品集。要求作品长短适宜，长至能使作者们清晰阐述自己的观点或想法，短到可使读者们一口气读完。移动终端的用户可以用过TEDBooks
-app随时随地进入TED图书馆，以及凭自愿对该图书馆进行捐献。
+TED书籍（）包含的是一类短小精悍的非虚构的作品集。要求作品长短适宜，长至能使作者们清晰阐述自己的观点或想法，短到可使读者们一口气读完。移动终端的用户可以用过TEDBooks app随时随地进入TED图书馆，以及凭自愿对该图书馆进行捐献。
 
 ### TED官网
 
@@ -68,8 +62,7 @@ TED大奖（）\[12\]是TED大会最激动人心的一部分，它于2005年开�
   - 2014年：反腐敗活動家Charmian Gooch
   - 2015年：StoryCorps創辦人Dave Isay
   - 2016年：太空考古學家莎拉帕爾卡
-  - 2017年：[哈佛大學醫學院Raj](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")
-    Panjabi醫生
+  - 2017年：[哈佛大學醫學院Raj](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink") Panjabi醫生
 
 ### TED协会（TED Institute）
 
@@ -88,34 +81,22 @@ TED大奖（）\[12\]是TED大会最激动人心的一部分，它于2005年开�
 
   - [TED大会官方网站](http://www.ted.com/)
 
-[Category:TED](https://zh.wikipedia.org/wiki/Category:TED "wikilink")
-[Category:學術研討會](https://zh.wikipedia.org/wiki/Category:學術研討會 "wikilink")
-[Category:國際會議](https://zh.wikipedia.org/wiki/Category:國際會議 "wikilink")
-[Category:教育影片網站](https://zh.wikipedia.org/wiki/Category:教育影片網站 "wikilink")
-[Category:1984年建立的組織](https://zh.wikipedia.org/wiki/Category:1984年建立的組織 "wikilink")
-[Category:商業研討會](https://zh.wikipedia.org/wiki/Category:商業研討會 "wikilink")
-[Category:文化研討會](https://zh.wikipedia.org/wiki/Category:文化研討會 "wikilink")
-[Category:技術研討會](https://zh.wikipedia.org/wiki/Category:技術研討會 "wikilink")
+[Category:TED](https://zh.wikipedia.org/wiki/Category:TED "wikilink") [Category:學術研討會](https://zh.wikipedia.org/wiki/Category:學術研討會 "wikilink") [Category:國際會議](https://zh.wikipedia.org/wiki/Category:國際會議 "wikilink") [Category:教育影片網站](https://zh.wikipedia.org/wiki/Category:教育影片網站 "wikilink") [Category:1984年建立的組織](https://zh.wikipedia.org/wiki/Category:1984年建立的組織 "wikilink") [Category:商業研討會](https://zh.wikipedia.org/wiki/Category:商業研討會 "wikilink") [Category:文化研討會](https://zh.wikipedia.org/wiki/Category:文化研討會 "wikilink") [Category:技術研討會](https://zh.wikipedia.org/wiki/Category:技術研討會 "wikilink")
 
 1.
 2.  ［http://www.ted.com/index.php/pages/view/id/54 TEDGlobal 2005\]
 3.
 4.
-5.  [TED Talks Usage
-    Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy),TED
-    Conferences,LLC
+5.  [TED Talks Usage Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy),TED Conferences,LLC
 6.
 7.
 8.
 9.
-10. [TED Open Translation
-    Project](http://www.ted.com/index.php/OpenTranslationProject)
+10. [TED Open Translation Project](http://www.ted.com/index.php/OpenTranslationProject)
 11.
 12.
 13. [詹姆斯·纳特威的TED演讲汉译](http://www.yeeyan.com/articles/view/inspired5/13752)
-
 14. [大卫·艾格斯的TED演讲汉译](http://www.yeeyan.com/articles/view/inspired5/13796)
-
 15.
 16.
 17.

@@ -8,14 +8,11 @@
 
 1975年9月1日，由[蟲製作公司](../Page/蟲製作公司.md "wikilink")擔任上色一職的若尾博司成立「**有限會社SHAFT**」工作室。
 
-創社初期，與[STUDIO
-DEEN夥同外接](../Page/STUDIO_DEEN.md "wikilink")[SHIN-EI動畫和後來從蟲製作公司獨立出來的](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")作品的上色工作。到1980年代前半，該社嘗試為動畫作[統包](../Page/統包.md "wikilink")工作，業務開始擴張。1987年完成首部自主制作作品《》，以[OVA發行](https://zh.wikipedia.org/wiki/OVA "wikilink")。1995年的《[十二生肖爆烈战士](https://zh.wikipedia.org/wiki/十二生肖爆烈战士 "wikilink")》是首部自社企划和擔當主制作的[電視動畫系列](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2000年，由《[飞跃巅峰](https://zh.wikipedia.org/wiki/飞跃巅峰 "wikilink")》[DVD的影像特典作品开始](https://zh.wikipedia.org/wiki/DVD "wikilink")，經常以共同名义与[GAINAX](../Page/GAINAX.md "wikilink")和[GANSIS合作制作动画](https://zh.wikipedia.org/wiki/GANSIS "wikilink")。
+創社初期，與[STUDIO DEEN夥同外接](../Page/STUDIO_DEEN.md "wikilink")[SHIN-EI動畫和後來從蟲製作公司獨立出來的](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")作品的上色工作。到1980年代前半，該社嘗試為動畫作[統包](../Page/統包.md "wikilink")工作，業務開始擴張。1987年完成首部自主制作作品《》，以[OVA發行](https://zh.wikipedia.org/wiki/OVA "wikilink")。1995年的《[十二生肖爆烈战士](https://zh.wikipedia.org/wiki/十二生肖爆烈战士 "wikilink")》是首部自社企划和擔當主制作的[電視動畫系列](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2000年，由《[飞跃巅峰](https://zh.wikipedia.org/wiki/飞跃巅峰 "wikilink")》[DVD的影像特典作品开始](https://zh.wikipedia.org/wiki/DVD "wikilink")，經常以共同名义与[GAINAX](../Page/GAINAX.md "wikilink")和[GANSIS合作制作动画](https://zh.wikipedia.org/wiki/GANSIS "wikilink")。
 
 2004年，若尾博司卸任，[久保田光俊就任执行董事](https://zh.wikipedia.org/wiki/久保田光俊 "wikilink")，並在交替期間整顿了撮影部门，制作方式也转向[数码化](https://zh.wikipedia.org/wiki/数码化 "wikilink")，一般两季（約26集）的作品都由新上任的久保田光俊亲自督阵。同年，作風奇特的動畫導演[新房昭之](../Page/新房昭之.md "wikilink")加入，連帶[尾石達也](../Page/尾石達也.md "wikilink")、[大沼心](../Page/大沼心.md "wikilink")等長期合作夥伴参与大部分制作\[2\]。
 
-自《[月咏](https://zh.wikipedia.org/wiki/月咏 "wikilink")》以后，SHAFT的作品大量使用数碼技术，且包含很多[捏他](https://zh.wikipedia.org/wiki/捏他 "wikilink")（即「[劇情透露](https://zh.wikipedia.org/wiki/劇情透露 "wikilink")」，意指有意無意暗示牽連作品長期隱藏的設定，以至其他作品的內容），代表作有[恶搞內容最多的](https://zh.wikipedia.org/wiki/恶搞 "wikilink")《[绝望先生](https://zh.wikipedia.org/wiki/绝望先生 "wikilink")》及影碟銷量屢創紀錄的《[化物語](../Page/化物語.md "wikilink")》等，吸引不少觀眾注意。2011年的《[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")》飲譽電視動畫界，被英國媒體推崇為「本世紀迄今最偉大」的作品\[3\]。此外，大部分動畫都會開拍續集，使公司成為製作數目偏高的量產型公司。不過此舉亦造成主創團隊恆常地以趕急的工期和有限的資源完成數天後播放的作品，無法在首播時交出最理想的表現，經常需要倚賴繁複的影碟版修正作業。相隔數年，該社基本上都會迎來導演副手抗拒壓力過大的問題，遂帶領作畫班底投靠其他公司的狀況。當中較大規模為2010年[大沼心](../Page/大沼心.md "wikilink")領導下轉往[SILVER
-LINK.](../Page/SILVER_LINK..md "wikilink")，及2018年[八瀨祐樹領導下轉往](https://zh.wikipedia.org/wiki/八瀨祐樹 "wikilink")[david
-production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
+自《[月咏](https://zh.wikipedia.org/wiki/月咏 "wikilink")》以后，SHAFT的作品大量使用数碼技术，且包含很多[捏他](https://zh.wikipedia.org/wiki/捏他 "wikilink")（即「[劇情透露](https://zh.wikipedia.org/wiki/劇情透露 "wikilink")」，意指有意無意暗示牽連作品長期隱藏的設定，以至其他作品的內容），代表作有[恶搞內容最多的](https://zh.wikipedia.org/wiki/恶搞 "wikilink")《[绝望先生](https://zh.wikipedia.org/wiki/绝望先生 "wikilink")》及影碟銷量屢創紀錄的《[化物語](../Page/化物語.md "wikilink")》等，吸引不少觀眾注意。2011年的《[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")》飲譽電視動畫界，被英國媒體推崇為「本世紀迄今最偉大」的作品\[3\]。此外，大部分動畫都會開拍續集，使公司成為製作數目偏高的量產型公司。不過此舉亦造成主創團隊恆常地以趕急的工期和有限的資源完成數天後播放的作品，無法在首播時交出最理想的表現，經常需要倚賴繁複的影碟版修正作業。相隔數年，該社基本上都會迎來導演副手抗拒壓力過大的問題，遂帶領作畫班底投靠其他公司的狀況。當中較大規模為2010年[大沼心](../Page/大沼心.md "wikilink")領導下轉往[SILVER LINK.](../Page/SILVER_LINK..md "wikilink")，及2018年[八瀨祐樹領導下轉往](https://zh.wikipedia.org/wiki/八瀨祐樹 "wikilink")[david production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
 2015年登記成為股份有限公司「**株式會社SHAFT**」，並開展40周年紀念活動，持續至2016年9月及12月。
 
@@ -66,8 +63,7 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
       - 俗·絕望先生（）（2008年）
       - 懺·絕望先生（）（2009年）
 
-  - [ef - a fairy tale of the
-    two.系列](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")
+  - [ef - a fairy tale of the two.系列](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")
 
       - ef - a tale of memories.（2007年）
       - ef - a tale of melodies.（2008年）
@@ -244,27 +240,23 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - （）（總承包商：龍之子製作公司，協力製作，1994年）
 
-  - [ぼのぼの](https://zh.wikipedia.org/wiki/ぼのぼの "wikilink")（總承包商：Group
-    Tac，各話協力製作，1995年－1996年）
+  - [ぼのぼの](https://zh.wikipedia.org/wiki/ぼのぼの "wikilink")（總承包商：Group Tac，各話協力製作，1995年－1996年）
 
   - [酷妹當家](../Page/酷妹當家.md "wikilink")，又譯**丫頭三白眼**（）（總承包商：EIKEN、下判統包：[MAGICBUS](https://zh.wikipedia.org/wiki/MAGICBUS "wikilink")，各話協力製作，1996年－1997年）
 
   - [少女革命](../Page/少女革命.md "wikilink")（）（總承包商：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")，各話協力製作，1997年）
 
-  - [橫行太保](https://zh.wikipedia.org/wiki/橫行太保 "wikilink")（）（總承包商：[TRIANGLE
-    STAFF](../Page/TRIANGLE_STAFF.md "wikilink")，各話協力製作，1997年）
+  - [橫行太保](https://zh.wikipedia.org/wiki/橫行太保 "wikilink")（）（總承包商：[TRIANGLE STAFF](../Page/TRIANGLE_STAFF.md "wikilink")，各話協力製作，1997年）
 
   - [大運動會](../Page/大運動會.md "wikilink")（）（總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，協力製作，1997年）
 
-  - [BURN-UP
-    EXCESS](https://zh.wikipedia.org/wiki/殺人科 "wikilink")（總承包商：AIC，各話協力製作，1997年－1998年）
+  - [BURN-UP EXCESS](https://zh.wikipedia.org/wiki/殺人科 "wikilink")（總承包商：AIC，各話協力製作，1997年－1998年）
 
   - [魔法陣都市](../Page/魔法陣都市.md "wikilink")（）（總承包商：[RADIX](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，協力製作，1998年）
 
   - （總承包商：龍之子製作公司，各話製作協力，1998年）
 
-  - [火龍小武士](../Page/火龍小武士.md "wikilink")（）（總承包商：[BEE
-    TRAIN](../Page/BEE_TRAIN.md "wikilink")，各話協力製作，1998年－1999年）
+  - [火龍小武士](../Page/火龍小武士.md "wikilink")（）（總承包商：[BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")，各話協力製作，1998年－1999年）
 
   - [轟天突擊隊](../Page/轟天突擊隊.md "wikilink")（）（總承包商：MAGICBUS，各話協力製作，1998年－1999年）
 
@@ -272,11 +264,9 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - （總承包商：AIC，協力製作，1999年）
 
-  - [力量之石](../Page/力石戰士.md "wikilink")（）（總承包商：[Studio
-    Pierrot](../Page/Studio_Pierrot.md "wikilink")，各話協力製作，1999年）
+  - [力量之石](../Page/力石戰士.md "wikilink")（）（總承包商：[Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")，各話協力製作，1999年）
 
-  - （總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")、TRIANGLE
-    STAFF，各話協力製作，1999年）
+  - （總承包商：[MADHOUSE](../Page/MADHOUSE.md "wikilink")、TRIANGLE STAFF，各話協力製作，1999年）
 
   - （總承包商：TRIANGLE STAFF，各話協力製作，1999年）
 
@@ -302,8 +292,7 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - （總承包商：TRIANGLE STAFF，各話協力製作，2000年）
 
-  - [幻想魔傳 最遊記](../Page/最遊記.md "wikilink")（）（總承包商：Studio
-    Pierrot、下判統包：Group Tac，各話協力製作，2000年－2001年）
+  - [幻想魔傳 最遊記](../Page/最遊記.md "wikilink")（）（總承包商：Studio Pierrot、下判統包：Group Tac，各話協力製作，2000年－2001年）
 
   - [Da\!Da\!Da\!](../Page/Da!Da!Da!.md "wikilink")，又譯**外星人寶寶**（Animax播映譯名）、**幽浮寶貝**（普威爾代理譯名）（）（總承包商：J.C.STAFF，各話協力製作，2000年）
 
@@ -317,8 +306,7 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - （總承包商：[SATELIGHT](../Page/SATELIGHT.md "wikilink")，各話協力製作，2003年）
 
-  - [奇諾之旅 -the Beautiful
-    World-](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（）（總承包商：A.C.G.T，各話協力製作，2003年）
+  - [奇諾之旅 -the Beautiful World-](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（）（總承包商：A.C.G.T，各話協力製作，2003年）
 
   - [愛的魔法](https://zh.wikipedia.org/wiki/愛的魔法 "wikilink")（）（總承包商：J.C.STAFF，各話協力製作，2003年）
 
@@ -328,8 +316,7 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - [鐵人28號](../Page/鐵人28號.md "wikilink")（）（總承包商：，各話協力製作，2004年）
 
-  - [詩∽片](../Page/詩∽片.md "wikilink")（）（總承包商：[HAL FILM
-    MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")，各話協力製作，2004年）
+  - [詩∽片](../Page/詩∽片.md "wikilink")（）（總承包商：[HAL FILM MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")，各話協力製作，2004年）
 
   - [韋駄天翔](../Page/韋駄天翔.md "wikilink")（）（總承包商：，各話協力製作，2005年－2006年）
 
@@ -376,16 +363,13 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - [BIRTH](../Page/BIRTH.md "wikilink")（總承包商：、，動畫協力，1984年）
 
-  - [銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")（）（總承包商：[Kitty
-    film](../Page/Kitty_film.md "wikilink")，各話製作協力，1988年－2000年）
+  - [銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")（）（總承包商：[Kitty film](../Page/Kitty_film.md "wikilink")，各話製作協力，1988年－2000年）
 
   - （總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，各話協力製作，1992年－1993年）
 
-  - （總承包商：[TRIANGLE
-    STAFF](../Page/TRIANGLE_STAFF.md "wikilink")，各話協力製作，1996年）
+  - （總承包商：[TRIANGLE STAFF](../Page/TRIANGLE_STAFF.md "wikilink")，各話協力製作，1996年）
 
-  - [頭文字D Extra Stage
-    沖擊之藍…](../Page/頭文字D.md "wikilink")（）（總承包商：[A.C.G.T](../Page/A.C.G.T.md "wikilink")，協力製作，2001年）
+  - [頭文字D Extra Stage 沖擊之藍…](../Page/頭文字D.md "wikilink")（）（總承包商：[A.C.G.T](../Page/A.C.G.T.md "wikilink")，協力製作，2001年）
 
 ### 電影動畫
 
@@ -403,8 +387,7 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - [頑皮大師](../Page/頑皮大師.md "wikilink")（）（總承包商：，協力製作，1981年）
 
-  - [福星小子 愛星球之戀](../Page/福星小子.md "wikilink")（）（總承包商：[Studio
-    Pierrot](../Page/Studio_Pierrot.md "wikilink")，協力製作，1983年）
+  - [福星小子 愛星球之戀](../Page/福星小子.md "wikilink")（）（總承包商：[Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")，協力製作，1983年）
 
   - [銀河鐵道之夜](../Page/銀河鐵道之夜.md "wikilink")（）（總承包商：，協力製作，1985年）
 
@@ -414,23 +397,18 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - [電影版數碼寶貝大冒險](../Page/數碼寶貝大冒險.md "wikilink")（）（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，協力企劃製作，1999年）
 
-  - [頭文字D Third Stage](../Page/頭文字D.md "wikilink")（總承包商：[STUDIO
-    DEEN](../Page/STUDIO_DEEN.md "wikilink")，片尾協力製作，2001年）
+  - [頭文字D Third Stage](../Page/頭文字D.md "wikilink")（總承包商：[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")，片尾協力製作，2001年）
 
   - [神隱少女](https://zh.wikipedia.org/wiki/千與千尋 "wikilink")（）（總承包商：[吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")，動畫協力，2001年）
 
-  - [機動警察 WXIII](../Page/機動警察.md "wikilink")（）（總承包商：[TRIANGLE
-    STAFF](../Page/TRIANGLE_STAFF.md "wikilink")→[MADHOUSE](../Page/MADHOUSE.md "wikilink")，協力製作，2002年3月30日）
+  - [機動警察 WXIII](../Page/機動警察.md "wikilink")（）（總承包商：[TRIANGLE STAFF](../Page/TRIANGLE_STAFF.md "wikilink")→[MADHOUSE](../Page/MADHOUSE.md "wikilink")，協力製作，2002年3月30日）
 
-  - [你的名字。](../Page/你的名字。.md "wikilink")（總承包商：[CoMix Wave
-    Films](../Page/CoMix_Wave_Films.md "wikilink")，協力製作，2016年）
+  - [你的名字。](../Page/你的名字。.md "wikilink")（總承包商：[CoMix Wave Films](../Page/CoMix_Wave_Films.md "wikilink")，協力製作，2016年）
 
 #### 獨立和共同製作
 
-  - [奇諾之旅 疾病之國 -For
-    You-](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（）（2007年）
-  - [劇場版 魔法老師！ ANIME
-    FINAL](../Page/魔法老師_\(動畫\).md "wikilink")（）（與共同製作，2011年）
+  - [奇諾之旅 疾病之國 -For You-](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（）（2007年）
+  - [劇場版 魔法老師！ ANIME FINAL](../Page/魔法老師_\(動畫\).md "wikilink")（）（與共同製作，2011年）
   - [劇場版 魔法少女小圓系列](../Page/劇場版_魔法少女小圓.md "wikilink")
       - 劇場版 魔法少女小圓 \[前篇\] 最初的物語（）（2012年）
       - 劇場版 魔法少女小圓 \[後篇\] 永遠的物語（）（2012年）
@@ -446,23 +424,19 @@ production](https://zh.wikipedia.org/wiki/david_production "wikilink")。
 
   - [世外魔島～黑月之王與雙月公主～](../Page/世外魔島～黑月之王與雙月公主～.md "wikilink") 音樂短片（2008年）
 
-  - [ef - the latter
-    tale.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")
-    遊戲片尾曲動畫（2008年）
+  - [ef - the latter tale.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink") 遊戲片尾曲動畫（2008年）
 
   - 片頭曲動畫（2010年）
 
   - 魔法少女小圓 遊戲系列（）（2012－2013年）
 
-  - [新光神話 帕爾提娜之鏡](https://zh.wikipedia.org/wiki/新光神話_帕爾提娜之鏡 "wikilink")
-    附贈短篇（）（2012年）
+  - [新光神話 帕爾提娜之鏡](https://zh.wikipedia.org/wiki/新光神話_帕爾提娜之鏡 "wikilink") 附贈短篇（）（2012年）
 
   - [魔幻組曲 稜鏡娜娜](../Page/魔幻組曲_稜鏡娜娜.md "wikilink") 音樂PV系列（）（2012－2013年）
 
   - [Fate系列](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")
 
-:\* [Fate/EXTRA
-CCC](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink") OP（2013年）
+:\* [Fate/EXTRA CCC](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink") OP（2013年）
 
 :\* Fate/EXTELLA OP（2016年）
 
@@ -470,13 +444,9 @@ CCC](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink") OP（2013年）
 
   - 片尾曲動畫（2013年）
 
-  - [任天堂明星大亂鬥3DS/Wii
-    U](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥3DS/Wii_U "wikilink")
-    帕爾提娜登場宣傳片 2D動畫（2014年）
+  - [任天堂明星大亂鬥3DS/Wii U](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥3DS/Wii_U "wikilink") 帕爾提娜登場宣傳片 2D動畫（2014年）
 
-  - [掟上今日子的備忘錄](https://zh.wikipedia.org/wiki/掟上今日子的備忘錄 "wikilink") 及
-    [物語系列](https://zh.wikipedia.org/wiki/物語系列_\(動畫\) "wikilink")
-    聯合宣傳廣告（2014年）
+  - [掟上今日子的備忘錄](https://zh.wikipedia.org/wiki/掟上今日子的備忘錄 "wikilink") 及 [物語系列](https://zh.wikipedia.org/wiki/物語系列_\(動畫\) "wikilink") 聯合宣傳廣告（2014年）
 
   - SHAFT創立40週年紀念展示活動「MADOGATARI展」（2015年－2016年）
 
@@ -490,8 +460,7 @@ CCC](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink") OP（2013年）
 
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（1979年－1980年）
 
-  - [哆啦A夢
-    (大山羨代版)](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\) "wikilink")（）（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，1979年－2005年）
+  - [哆啦A夢 (大山羨代版)](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\) "wikilink")（）（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，1979年－2005年）
 
   - [鄰家女孩](../Page/棒球英豪.md "wikilink")，又譯**棒球英豪**（）（總承包商：，1985年－1987年）
 
@@ -508,8 +477,7 @@ CCC](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink") OP（2013年）
 
   - [機動天使](https://zh.wikipedia.org/wiki/機動天使 "wikilink")（機動天使エンジェリックレイヤー）（2001年）
 
-  - [Divergence
-    Eve系列](https://zh.wikipedia.org/wiki/Divergence_Eve "wikilink")
+  - [Divergence Eve系列](https://zh.wikipedia.org/wiki/Divergence_Eve "wikilink")
 
       - （2003年）
 
@@ -525,12 +493,10 @@ CCC](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink") OP（2013年）
 
 #### 電影動畫
 
-  - [魯邦三世
-    卡里奧斯特羅之城](../Page/魯邦三世卡里奧斯特羅之城.md "wikilink")（）（總承包商：[東京電影新社](../Page/TMS娛樂.md "wikilink")，1979年）
+  - [魯邦三世 卡里奧斯特羅之城](../Page/魯邦三世卡里奧斯特羅之城.md "wikilink")（）（總承包商：[東京電影新社](../Page/TMS娛樂.md "wikilink")，1979年）
   - 機動戰士GUNDAM Ⅱ 哀·戰士篇（）（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，1981年）
   - [螢火蟲之墓](https://zh.wikipedia.org/wiki/螢火蟲之墓 "wikilink")（）（總承包商：[吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")，1988年）
-  - [火影忍者劇場版：大活劇！雪姬忍法帖！！](../Page/火影忍者劇場版：大活劇！雪姬忍法帖！！.md "wikilink")（）（總承包商：[Studio
-    Pierrot](../Page/Studio_Pierrot.md "wikilink")，2004年）
+  - [火影忍者劇場版：大活劇！雪姬忍法帖！！](../Page/火影忍者劇場版：大活劇！雪姬忍法帖！！.md "wikilink")（）（總承包商：[Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")，2004年）
 
 ## 關聯人物及組織
 
@@ -685,12 +651,8 @@ CCC](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink") OP（2013年）
   - [SHAFT官方網站](http://www.shaft-web.co.jp/)
 
   -
-[Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink")
-[Category:SHAFT](https://zh.wikipedia.org/wiki/Category:SHAFT "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink") [Category:SHAFT](https://zh.wikipedia.org/wiki/Category:SHAFT "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
-1.  [名作之壁 - 萌娘百科
-    万物皆可萌的百科全书](https://zh.moegirl.org/%E5%90%8D%E4%BD%9C%E4%B9%8B%E5%A3%81)
+1.  [名作之壁 - 萌娘百科 万物皆可萌的百科全书](https://zh.moegirl.org/%E5%90%8D%E4%BD%9C%E4%B9%8B%E5%A3%81)
 2.
 3.

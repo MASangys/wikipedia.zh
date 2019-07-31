@@ -16,13 +16,11 @@
 
 ## KParts技術
 
-在KDE
-2.x中，KWrite沒有使用[KPart技術](https://zh.wikipedia.org/wiki/KPart "wikilink")，一個可嵌入一個程式到另一個應用程式的技術。之後，KWrite被重寫以使用這種技術。預設的文本編輯器元件為[Kate](../Page/Kate.md "wikilink")，但用戶也可以選擇使用其他的編輯器元件。
+在KDE 2.x中，KWrite沒有使用[KPart技術](https://zh.wikipedia.org/wiki/KPart "wikilink")，一個可嵌入一個程式到另一個應用程式的技術。之後，KWrite被重寫以使用這種技術。預設的文本編輯器元件為[Kate](../Page/Kate.md "wikilink")，但用戶也可以選擇使用其他的編輯器元件。
 
 ## 外部連結
 
   - [Homepage of KWrite](http://www.kate-editor.org/)
   - [Handbook](http://docs.kde.org/stable/en/kdebase-apps/kwrite/)
 
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:Unix文本編輯器](https://zh.wikipedia.org/wiki/Category:Unix文本編輯器 "wikilink")
+[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:Unix文本編輯器](https://zh.wikipedia.org/wiki/Category:Unix文本編輯器 "wikilink")

@@ -1,7 +1,6 @@
 **Weinreb酮合成**（Weinreb ketone synthesis，温勒伯酮合成法）
 
-**Weinreb酰胺**（温勒伯[酰胺](../Page/酰胺.md "wikilink")，*N*-[甲氧基](https://zh.wikipedia.org/wiki/甲氧基 "wikilink")-*N*-[甲基酰胺](https://zh.wikipedia.org/wiki/甲基 "wikilink")）与[有机金属](https://zh.wikipedia.org/wiki/有机金属 "wikilink")[亲核试剂反应制备](https://zh.wikipedia.org/wiki/亲核试剂 "wikilink")[酮](../Page/酮.md "wikilink")。\[1\]
-Weinreb酰胺与金属[氢化物](../Page/氢化物.md "wikilink")如[氢化铝锂](../Page/氢化铝锂.md "wikilink")的反应也是制备[醛](../Page/醛.md "wikilink")的标准方法。\[2\]
+**Weinreb酰胺**（温勒伯[酰胺](../Page/酰胺.md "wikilink")，*N*-[甲氧基](https://zh.wikipedia.org/wiki/甲氧基 "wikilink")-*N*-[甲基酰胺](https://zh.wikipedia.org/wiki/甲基 "wikilink")）与[有机金属](https://zh.wikipedia.org/wiki/有机金属 "wikilink")[亲核试剂反应制备](https://zh.wikipedia.org/wiki/亲核试剂 "wikilink")[酮](../Page/酮.md "wikilink")。\[1\] Weinreb酰胺与金属[氢化物](../Page/氢化物.md "wikilink")如[氢化铝锂](../Page/氢化铝锂.md "wikilink")的反应也是制备[醛](../Page/醛.md "wikilink")的标准方法。\[2\]
 
 [Weinreb_Amide_Scheme.png](https://zh.wikipedia.org/wiki/File:Weinreb_Amide_Scheme.png "fig:Weinreb_Amide_Scheme.png")
 
@@ -26,16 +25,10 @@ Weinreb酰胺一般通过[羧酸](../Page/羧酸.md "wikilink")\[4\]\[5\]\[6\]\[
 
 ## 参考资料
 
-[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")
-[Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
-2.  Goel, O. P.; Krolls, U.; Stier, M.; Kesten, S.
-    "[*N*-*tert*-Butoxycarbonyl-L-leucinal](http://www.orgsyn.org/orgsyn/prep.asp?prep=cv8p0068)".
-    *[Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink")*,
-    *Coll. Vol.* **8**, p.68 (1993); *Vol.* **67**, p.69 (1989).
+2.  Goel, O. P.; Krolls, U.; Stier, M.; Kesten, S. "[*N*-*tert*-Butoxycarbonyl-L-leucinal](http://www.orgsyn.org/orgsyn/prep.asp?prep=cv8p0068)". *[Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink")*, *Coll. Vol.* **8**, p.68 (1993); *Vol.* **67**, p.69 (1989).
 3.
 4.
 5.

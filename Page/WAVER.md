@@ -38,7 +38,4 @@
       - 作曲：[堂本剛](../Page/堂本剛.md "wikilink")　
       - 編曲：[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")
 
-[Category:堂本剛歌曲](https://zh.wikipedia.org/wiki/Category:堂本剛歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:TBS週五連續劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇主題曲 "wikilink")
-[Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:堂本剛歌曲](https://zh.wikipedia.org/wiki/Category:堂本剛歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:TBS週五連續劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇主題曲 "wikilink") [Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")

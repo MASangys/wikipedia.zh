@@ -1,23 +1,14 @@
-**Nero Burning ROM**一般简称为**Nero**，它是[Nero
-AG](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")（原[Ahead
-Software](https://zh.wikipedia.org/wiki/Ahead_Software "wikilink")）开发的[Microsoft
-Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux下的一个流行的](../Page/Linux.md "wikilink")[光盘制作软件](https://zh.wikipedia.org/wiki/光盘制作软件 "wikilink")。\[1\]
-现在这个程序通常作为套装软件的一部分，如*Nero 7 Premium Reloaded*，但仍使用Nero名称。
+**Nero Burning ROM**一般简称为**Nero**，它是[Nero AG](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")（原[Ahead Software](https://zh.wikipedia.org/wiki/Ahead_Software "wikilink")）开发的[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")下的一个流行的[光盘制作软件](https://zh.wikipedia.org/wiki/光盘制作软件 "wikilink")。\[1\] 现在这个程序通常作为套装软件的一部分，如*Nero 7 Premium Reloaded*，但仍使用Nero名称。
 
-[Nero_Express_5.5.10.38_OEM_20170123.jpg](https://zh.wikipedia.org/wiki/File:Nero_Express_5.5.10.38_OEM_20170123.jpg "fig:Nero_Express_5.5.10.38_OEM_20170123.jpg")
-一个功能受限版的Nero Burning ROM被命名为[Nero
-Express来发行](https://zh.wikipedia.org/wiki/Nero_Express "wikilink")，主要面向休闲市场。它具有简单的菜单，主要面向对电脑不太精通的人群。
+[Nero_Express_5.5.10.38_OEM_20170123.jpg](https://zh.wikipedia.org/wiki/File:Nero_Express_5.5.10.38_OEM_20170123.jpg "fig:Nero_Express_5.5.10.38_OEM_20170123.jpg") 一个功能受限版的Nero Burning ROM被命名为[Nero Express来发行](https://zh.wikipedia.org/wiki/Nero_Express "wikilink")，主要面向休闲市场。它具有简单的菜单，主要面向对电脑不太精通的人群。
 
 ## 名称
 
-这个程序的名称其实是个[文字游戏](https://zh.wikipedia.org/wiki/文字游戏 "wikilink")。\[2\]
-利用[光学](../Page/光学.md "wikilink")[介质来记录訊息通常称为](https://zh.wikipedia.org/wiki/介质 "wikilink")“[烧录](https://zh.wikipedia.org/wiki/光盘烧录技术 "wikilink")”，而压制的[CD通常称作](../Page/CD.md "wikilink")[CD-ROM](../Page/CD-ROM.md "wikilink")。[罗马皇帝](https://zh.wikipedia.org/wiki/罗马皇帝 "wikilink")[尼禄](../Page/尼禄.md "wikilink")（Nero）有时被怀疑为[罗马大火的](https://zh.wikipedia.org/wiki/罗马大火 "wikilink")[纵火者](https://zh.wikipedia.org/wiki/纵火 "wikilink")。这个[双关语在原](https://zh.wikipedia.org/wiki/双关语 "wikilink")[德语中更为明显](../Page/德语.md "wikilink")，德语中“[羅馬](https://zh.wikipedia.org/wiki/羅馬 "wikilink")”（Rome）的[德语名称为](https://zh.wikipedia.org/wiki/德语外来语地名 "wikilink")“Rom”。这个程序的标志就是在大火中的[羅馬競技場](https://zh.wikipedia.org/wiki/羅馬競技場 "wikilink")。
+这个程序的名称其实是个[文字游戏](https://zh.wikipedia.org/wiki/文字游戏 "wikilink")。\[2\] 利用[光学](../Page/光学.md "wikilink")[介质](../Page/介质.md "wikilink")来记录訊息通常称为“[烧录](https://zh.wikipedia.org/wiki/光盘烧录技术 "wikilink")”，而压制的[CD](../Page/CD.md "wikilink")通常称作[CD-ROM](../Page/CD-ROM.md "wikilink")。[罗马皇帝](https://zh.wikipedia.org/wiki/罗马皇帝 "wikilink")[尼禄](../Page/尼禄.md "wikilink")（Nero）有时被怀疑为[罗马大火的](https://zh.wikipedia.org/wiki/罗马大火 "wikilink")[纵火者](https://zh.wikipedia.org/wiki/纵火 "wikilink")。这个[双关语在原](https://zh.wikipedia.org/wiki/双关语 "wikilink")[德语](../Page/德语.md "wikilink")中更为明显，德语中“[羅馬](https://zh.wikipedia.org/wiki/羅馬 "wikilink")”（Rome）的[德语名称为](https://zh.wikipedia.org/wiki/德语外来语地名 "wikilink")“Rom”。这个程序的标志就是在大火中的[羅馬競技場](https://zh.wikipedia.org/wiki/羅馬競技場 "wikilink")。
 
 ## Linux版本
 
-[Linux版本的程序叫做Nero](../Page/Linux.md "wikilink") Linux，作为[Microsoft
-Windows的自由](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")“升级”版本于2005年3月发佈。\[3\]
-这个程序复制了大多数Windows版本的特性，使用[GTK+图形工具包](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。2008年2月26日后可以下载一个试用版本。
+[Linux](../Page/Linux.md "wikilink")版本的程序叫做Nero Linux，作为[Microsoft Windows的自由](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")“升级”版本于2005年3月发佈。\[3\] 这个程序复制了大多数Windows版本的特性，使用[GTK+图形工具包](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。2008年2月26日后可以下载一个试用版本。
 
 ## 特性
 
@@ -25,20 +16,16 @@ Nero Burning ROM支持创建\[4\]:
 
   - [ISO](../Page/ISO_9660.md "wikilink")/[UDF数据光碟](https://zh.wikipedia.org/wiki/Universal_Disk_Format "wikilink")
   - [Bootable discs](https://zh.wikipedia.org/wiki/boot_disk "wikilink")
-  - [Audio
-    CD光碟](https://zh.wikipedia.org/wiki/Red_Book_\(CD_standard\) "wikilink")
-  - [DVD-Video光碟](../Page/DVD-Video.md "wikilink")
-  - [Blu-ray
-    Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")
-  - [AVCHD视频光碟](../Page/AVCHD.md "wikilink")
+  - [Audio CD光碟](https://zh.wikipedia.org/wiki/Red_Book_\(CD_standard\) "wikilink")
+  - [DVD-Video](../Page/DVD-Video.md "wikilink")光碟
+  - [Blu-ray Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")
+  - [AVCHD](../Page/AVCHD.md "wikilink")视频光碟
   - SecurDisc光碟
-  - [Disk image](https://zh.wikipedia.org/wiki/Disk_image "wikilink")
-    files
+  - [Disk image](https://zh.wikipedia.org/wiki/Disk_image "wikilink") files
 
 其他功能包括：
 
-  - [Ripping audio
-    CDs](https://zh.wikipedia.org/wiki/CD_ripper "wikilink")
+  - [Ripping audio CDs](https://zh.wikipedia.org/wiki/CD_ripper "wikilink")
   - 转换音频文件到其他音频格式文件
   - 擦除可擦写光碟
   - 使用[LightScribe以及](https://zh.wikipedia.org/wiki/LightScribe "wikilink")[LabelFlash技术在光碟上打印](https://zh.wikipedia.org/wiki/LabelFlash "wikilink")
@@ -46,11 +33,9 @@ Nero Burning ROM支持创建\[4\]:
 
 ### 映像烧录
 
-Nero支持许多[光盘映像格式](https://zh.wikipedia.org/wiki/光盘映像 "wikilink")，包括常见的[ISO映像以及Nero专有的](../Page/ISO映像.md "wikilink")[NRG](https://zh.wikipedia.org/wiki/NRG檔 "wikilink")
-[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。根据版本不同，越来越多的格式可能会被原生支持。
+Nero支持许多[光盘映像格式](https://zh.wikipedia.org/wiki/光盘映像 "wikilink")，包括常见的[ISO映像](../Page/ISO映像.md "wikilink")以及Nero专有的[NRG](https://zh.wikipedia.org/wiki/NRG檔 "wikilink") [文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。根据版本不同，越来越多的格式可能会被原生支持。
 
-要使用更多的格式，特别是无损的[FLAC](../Page/FLAC.md "wikilink")、[Wavpack和](https://zh.wikipedia.org/wiki/Wavpack "wikilink")[Shorten](https://zh.wikipedia.org/wiki/Shorten "wikilink")，需要安装附加的程序模块。这些模块叫做[插件或](../Page/插件.md "wikilink")[编解码器](../Page/编解码器.md "wikilink")，通常是可以免费获得的。Nero
-AG出售一些视频和专有音频\[5\] 插件。
+要使用更多的格式，特别是无损的[FLAC](../Page/FLAC.md "wikilink")、[Wavpack和](https://zh.wikipedia.org/wiki/Wavpack "wikilink")[Shorten](https://zh.wikipedia.org/wiki/Shorten "wikilink")，需要安装附加的程序模块。这些模块叫做[插件](../Page/插件.md "wikilink")或[编解码器](../Page/编解码器.md "wikilink")，通常是可以免费获得的。Nero AG出售一些视频和专有音频\[5\] 插件。
 
 ## 版本历史
 
@@ -399,9 +384,7 @@ Fixed all prior reported flaws, updated Booktype support, and added further opti
 </tbody>
 </table>
 
-**Note:** Although Nero AG appears to no longer maintain a history of
-older versions on their website, release notes are archived by several
-third-party sites.\[18\]\[19\]\[20\]\[21\]
+**Note:** Although Nero AG appears to no longer maintain a history of older versions on their website, release notes are archived by several third-party sites.\[18\]\[19\]\[20\]\[21\]
 
 ### Nero Linux
 
@@ -497,24 +480,12 @@ third-party sites.\[18\]\[19\]\[20\]\[21\]
 ## 外部链接
 
   - [Nero AG official website](http://www.nero.com/)
-  - [Archive of Nero
-    versions](http://www.afterdawn.com/software/cdr_software/cdr_applications/nero.cfm)
-  - [Nero Burning Rom
-    Alternatives](http://www.neowin.net/forum/index.php?showtopic=421355)
-  - [nrg2iso](http://gregory.kokanosky.free.fr/v4/linux/nrg2iso.en.html)
-    – [GPL](https://zh.wikipedia.org/wiki/GPL "wikilink") Linux utility
-    for converting
-    [NRG](https://zh.wikipedia.org/wiki/NRG_\(file_format\) "wikilink")
-    images to [ISO
-    images](https://zh.wikipedia.org/wiki/ISO_image "wikilink")
-  - [Open source alternatives to Nero Burning
-    ROM](http://www.osalt.com/nero)（see also [CD burning
-    software](https://zh.wikipedia.org/wiki/CD_burning_software "wikilink")）
+  - [Archive of Nero versions](http://www.afterdawn.com/software/cdr_software/cdr_applications/nero.cfm)
+  - [Nero Burning Rom Alternatives](http://www.neowin.net/forum/index.php?showtopic=421355)
+  - [nrg2iso](http://gregory.kokanosky.free.fr/v4/linux/nrg2iso.en.html) – [GPL](https://zh.wikipedia.org/wiki/GPL "wikilink") Linux utility for converting [NRG](https://zh.wikipedia.org/wiki/NRG_\(file_format\) "wikilink") images to [ISO images](https://zh.wikipedia.org/wiki/ISO_image "wikilink")
+  - [Open source alternatives to Nero Burning ROM](http://www.osalt.com/nero)（see also [CD burning software](https://zh.wikipedia.org/wiki/CD_burning_software "wikilink")）
 
-[Category:光盘创作软件](https://zh.wikipedia.org/wiki/Category:光盘创作软件 "wikilink")
-[Category:共享软件](https://zh.wikipedia.org/wiki/Category:共享软件 "wikilink")
-[Category:Windows_CD/DVD刻录软件](https://zh.wikipedia.org/wiki/Category:Windows_CD/DVD刻录软件 "wikilink")
-[Category:Linux_CD/DVD刻录软件](https://zh.wikipedia.org/wiki/Category:Linux_CD/DVD刻录软件 "wikilink")
+[Category:光盘创作软件](https://zh.wikipedia.org/wiki/Category:光盘创作软件 "wikilink") [Category:共享软件](https://zh.wikipedia.org/wiki/Category:共享软件 "wikilink") [Category:Windows_CD/DVD刻录软件](https://zh.wikipedia.org/wiki/Category:Windows_CD/DVD刻录软件 "wikilink") [Category:Linux_CD/DVD刻录软件](https://zh.wikipedia.org/wiki/Category:Linux_CD/DVD刻录软件 "wikilink")
 
 1.
 
@@ -524,8 +495,7 @@ third-party sites.\[18\]\[19\]\[20\]\[21\]
 
 4.
 
-5.  尤其是多声道的，如[杜比数字
-    5.1以及](../Page/杜比数字.md "wikilink")[mp3pro](https://zh.wikipedia.org/wiki/mp3pro "wikilink")。
+5.  尤其是多声道的，如[杜比数字 5.1以及](../Page/杜比数字.md "wikilink")[mp3pro](https://zh.wikipedia.org/wiki/mp3pro "wikilink")。
 
 6.
 
@@ -533,17 +503,13 @@ third-party sites.\[18\]\[19\]\[20\]\[21\]
 
 8.
 9.
-10. [Version
-    History](https://web.archive.org/web/20020603145307/http://www.nero.com/en/driver.asp)
+10. [Version History](https://web.archive.org/web/20020603145307/http://www.nero.com/en/driver.asp)
 
-11. [Nero – Nero 5 -
-    Update](http://www.nero.com/eng/downloads-nero5-update.php)
+11. [Nero – Nero 5 - Update](http://www.nero.com/eng/downloads-nero5-update.php)
 
-12. [Nero 5 System
-    Requirements](http://www.nero.com/eng/support-nero5-system-requirements.html)
+12. [Nero 5 System Requirements](http://www.nero.com/eng/support-nero5-system-requirements.html)
 
-13. [Nero 6 System
-    Requirements](http://www.nero.com/enu/support-nero6-system-requirements.html)
+13. [Nero 6 System Requirements](http://www.nero.com/enu/support-nero6-system-requirements.html)
 
 14. <http://www.nero.com/eng/downloads-nero6-nt.php>
 

@@ -15,8 +15,7 @@
 
 ### QQ云输入法
 
-**QQ云输入法**是运用[云计算技术实现在](https://zh.wikipedia.org/wiki/云计算 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")上实现中文输入的在线输入工具。此程序在连接到网络后打开网页浏览器即可使用，不需要在本地安装任何程序。
-目前QQ云输入法已停止服务。
+**QQ云输入法**是运用[云计算技术实现在](https://zh.wikipedia.org/wiki/云计算 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")上实现中文输入的在线输入工具。此程序在连接到网络后打开网页浏览器即可使用，不需要在本地安装任何程序。 目前QQ云输入法已停止服务。
 
 ## 团队合并
 
@@ -36,9 +35,7 @@
 
   - [QQ输入法](http://qq.pinyin.cn/)
 
-[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink")
-[Category:汉语拼音输入法](https://zh.wikipedia.org/wiki/Category:汉语拼音输入法 "wikilink")
-[Category:专有软件](https://zh.wikipedia.org/wiki/Category:专有软件 "wikilink")
+[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:汉语拼音输入法](https://zh.wikipedia.org/wiki/Category:汉语拼音输入法 "wikilink") [Category:专有软件](https://zh.wikipedia.org/wiki/Category:专有软件 "wikilink")
 
 1.  <http://qq.pinyin.cn/help/>
 
@@ -50,7 +47,6 @@
 5.
 
 6.  [华军新闻](http://news.newhua.com/news1/news/2009/14/0914115915DEGHDGGB5BAC04J07378GB98KH7KE71JDA12IC7B5G364.html)
-
 
 7.
 

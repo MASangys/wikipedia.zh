@@ -2,8 +2,7 @@
 
 ## 概要
 
-**Anikuri15**全称为ANIMATION CREATORS
-15，国内又简称位“NHK15”。“15”这个的数字含义就是由15位动画界有名的监督来制作。以下列表所记录的动画是指在2007年，NHK电视台播放，共分3季度，每一季度播放5部，总共是15部，时间都是只有1分钟的超短动画。每一部都是风格各异，题材各异，制作类型各异，但带有监督独特风格的动画。而所负责制作这些动画的制作公司也是动画业界相当出名的优秀动画制作公司。
+**Anikuri15**全称为ANIMATION CREATORS 15，国内又简称位“NHK15”。“15”这个的数字含义就是由15位动画界有名的监督来制作。以下列表所记录的动画是指在2007年，NHK电视台播放，共分3季度，每一季度播放5部，总共是15部，时间都是只有1分钟的超短动画。每一部都是风格各异，题材各异，制作类型各异，但带有监督独特风格的动画。而所负责制作这些动画的制作公司也是动画业界相当出名的优秀动画制作公司。
 
 ## 各集标题
 
@@ -135,10 +134,8 @@
 
 ## 外部链接
 
-  - [Anikuri15](https://web.archive.org/web/20080822011051/http://www.nhk.or.jp/ani-kuri/)（Anikuri15
-    官方網站）
+  - [Anikuri15](https://web.archive.org/web/20080822011051/http://www.nhk.or.jp/ani-kuri/)（Anikuri15 官方網站）
 
   - [NHK ONLINE](http://www.nhk.or.jp/)（NHK 官方網站）
 
-[Category:2007年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2007年日本電視動畫 "wikilink")
-[Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
+[Category:2007年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2007年日本電視動畫 "wikilink") [Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")

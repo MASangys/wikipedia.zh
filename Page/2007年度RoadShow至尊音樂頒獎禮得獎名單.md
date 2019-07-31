@@ -1,4 +1,4 @@
-**RoadShow至尊音樂頒獎禮2007**於2008年1月3日假座[香港會議展覽中心舉行](../Page/香港會議展覽中心.md "wikilink")，當晚共頒發24個項目，總共74個獎項，司儀為[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[張達明](https://zh.wikipedia.org/wiki/張達明 "wikilink")、[俞詠文](https://zh.wikipedia.org/wiki/俞詠文 "wikilink")，以下為當晚的得獎名單：
+**RoadShow至尊音樂頒獎禮2007**於2008年1月3日假座[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行，當晚共頒發24個項目，總共74個獎項，司儀為[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[張達明](https://zh.wikipedia.org/wiki/張達明 "wikilink")、[俞詠文](https://zh.wikipedia.org/wiki/俞詠文 "wikilink")，以下為當晚的得獎名單：
 
 ## 歌曲獎項
 
@@ -31,20 +31,15 @@
 
 ### RoadShow至尊合唱歌曲
 
-  - 《山歌》
-    ──[側田](../Page/側田.md "wikilink")、[吳雨霏](../Page/吳雨霏.md "wikilink")
-  - 《四人遊》
-    ──[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
-  - 《歲月風雲》
-    ──[李克勤](../Page/李克勤.md "wikilink")、[小　剛](../Page/周傳雄.md "wikilink")
+  - 《山歌》 ──[側田](../Page/側田.md "wikilink")、[吳雨霏](../Page/吳雨霏.md "wikilink")
+  - 《四人遊》 ──[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
+  - 《歲月風雲》 ──[李克勤](../Page/李克勤.md "wikilink")、[小　剛](../Page/周傳雄.md "wikilink")
 
 ### RoadShow至尊舞台演繹
 
-  - 《電光火石》 ──Eddie@
-    [EO2](../Page/EO2.md "wikilink")、[鄧穎芝](../Page/鄧穎芝.md "wikilink")
+  - 《電光火石》 ──Eddie@ [EO2](../Page/EO2.md "wikilink")、[鄧穎芝](../Page/鄧穎芝.md "wikilink")
   - 《趁墟》 ──[胡琳](../Page/胡琳.md "wikilink")
-  - 《步步進逼》 ──[Sun
-    Boy'z](https://zh.wikipedia.org/wiki/Sun_Boy'z "wikilink")
+  - 《步步進逼》 ──[Sun Boy'z](https://zh.wikipedia.org/wiki/Sun_Boy'z "wikilink")
 
 ### RoadShow至尊舞台星光演繹
 
@@ -161,7 +156,7 @@
 
 ## 媒體播放
 
-由RoadShow[路訊通將於其節目內播出精華片段](../Page/路訊通.md "wikilink")。[無線電視翡翠台於](https://zh.wikipedia.org/wiki/無線電視翡翠台 "wikilink")2008年播出精裝版。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
+由RoadShow[路訊通](../Page/路訊通.md "wikilink")將於其節目內播出精華片段。[無線電視翡翠台於](https://zh.wikipedia.org/wiki/無線電視翡翠台 "wikilink")2008年播出精裝版。另外，本年度之賽果並不計算入[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")內。
 
 ## 參見
 

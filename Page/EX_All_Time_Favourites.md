@@ -1,7 +1,4 @@
-《''' 'EX' All Time Favourites
-'''》是[香港](../Page/香港.md "wikilink")女歌手[關淑怡](../Page/關淑怡.md "wikilink")第十張粵語大碟，亦是她首張全翻唱大碟\[1\]。此專輯推出後好評如潮，樂迷和樂評人一致推薦為關淑怡代表性專輯\[2\]，香港本土銷量超過15萬張（IFPI
-認証：三白金）。
-專輯後來被《聽見2000分之100》一書選為“公元2000年內最出色的二十張中文唱片”之一。其中《[忘記他](../Page/忘記他.md "wikilink")》的作曲作詞人[黃霑](../Page/黃霑.md "wikilink")曾評價關淑怡在《忘記他》中的演繹比[鄧麗君](../Page/鄧麗君.md "wikilink")還好，《夢伴》的Acoustic編曲更成為往後歌手翻唱此曲時的模板，亦有評論認為《深夜港灣》和《印象》以及《忘記他》三首，關淑怡的唱法才真正唱出了原曲的真諦\[3\]。
+《''' 'EX' All Time Favourites '''》是[香港](../Page/香港.md "wikilink")女歌手[關淑怡](../Page/關淑怡.md "wikilink")第十張粵語大碟，亦是她首張全翻唱大碟\[1\]。此專輯推出後好評如潮，樂迷和樂評人一致推薦為關淑怡代表性專輯\[2\]，香港本土銷量超過15萬張（IFPI 認証：三白金）。 專輯後來被《聽見2000分之100》一書選為“公元2000年內最出色的二十張中文唱片”之一。其中《[忘記他](../Page/忘記他.md "wikilink")》的作曲作詞人[黃霑](../Page/黃霑.md "wikilink")曾評價關淑怡在《忘記他》中的演繹比[鄧麗君](../Page/鄧麗君.md "wikilink")還好，《夢伴》的Acoustic編曲更成為往後歌手翻唱此曲時的模板，亦有評論認為《深夜港灣》和《印象》以及《忘記他》三首，關淑怡的唱法才真正唱出了原曲的真諦\[3\]。
 
 ## 曲目
 
@@ -14,8 +11,7 @@
 ## 其他唱片版本
 
   - 1995年 台灣版：其中兩首歌更改為國語版本,《忘記他》國語版《可惜》及《這是愛》國語版《戀戀不捨》
-  - 1995年
-    韓國版：曲目有大改動,保留了《忘記他》,《唱一首好歌》,《把歌談心》,《這是愛》,《問》及《印象》,加入《逝去的傳奇》,《繾綣星光下》,《夜靠誰》及《驚世感覺》
+  - 1995年 韓國版：曲目有大改動,保留了《忘記他》,《唱一首好歌》,《把歌談心》,《這是愛》,《問》及《印象》,加入《逝去的傳奇》,《繾綣星光下》,《夜靠誰》及《驚世感覺》
   - 1995年 中國引進版：大碟名稱更為《可惜》曲目包括所有香港及台灣版有的歌曲。
   - 1995年7月 日本版
   - 1997年3月 《寶麗金88極品音色系列》CD版，日本印製，首批為24K金碟
@@ -35,11 +31,8 @@
 
 ## 参考文献
 
-[Category:關淑怡音樂專輯](https://zh.wikipedia.org/wiki/Category:關淑怡音樂專輯 "wikilink")
-[Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:關淑怡音樂專輯](https://zh.wikipedia.org/wiki/Category:關淑怡音樂專輯 "wikilink") [Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
 
-1.
-    何重立|url=[https://www.hkcnews.com/article/14427/關淑怡-歌手-14427/關淑怡精彩的老歌重唱|work=眾新聞|accessdate=2019-02-11|language=zh](https://www.hkcnews.com/article/14427/關淑怡-歌手-14427/關淑怡精彩的老歌重唱%7Cwork=眾新聞%7Caccessdate=2019-02-11%7Clanguage=zh)}}
+1.   何重立|url=[https://www.hkcnews.com/article/14427/關淑怡-歌手-14427/關淑怡精彩的老歌重唱|work=眾新聞|accessdate=2019-02-11|language=zh](https://www.hkcnews.com/article/14427/關淑怡-歌手-14427/關淑怡精彩的老歌重唱%7Cwork=眾新聞%7Caccessdate=2019-02-11%7Clanguage=zh)}}
 2.
 3.

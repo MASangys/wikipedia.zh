@@ -40,6 +40,4 @@
 | <small>有你是榮幸</small> |          10          |          2          |
 | <small>秘密情人</small>  |          \-          |         \-          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:小雪音樂專輯](https://zh.wikipedia.org/wiki/Category:小雪音樂專輯 "wikilink")
-[Category:2000年迷你專輯](https://zh.wikipedia.org/wiki/Category:2000年迷你專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:小雪音樂專輯](https://zh.wikipedia.org/wiki/Category:小雪音樂專輯 "wikilink") [Category:2000年迷你專輯](https://zh.wikipedia.org/wiki/Category:2000年迷你專輯 "wikilink")

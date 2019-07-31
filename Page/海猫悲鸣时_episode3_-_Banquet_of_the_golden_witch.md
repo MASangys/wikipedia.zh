@@ -1,7 +1,4 @@
-《**海貓悲鳴時 episode3 - Banquet of the golden
-witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th
-Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第三部。游戏於2008年夏季的[Comic
-Market](../Page/Comic_Market.md "wikilink")74發表。
+《**海貓悲鳴時 episode3 - Banquet of the golden witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第三部。游戏於2008年夏季的[Comic Market](../Page/Comic_Market.md "wikilink")74發表。
 
 ## 概要
 
@@ -29,8 +26,7 @@ Market](../Page/Comic_Market.md "wikilink")74發表。
 
 ## 漫画
 
-《海貓悲鳴時 Episode3 - Banquet of the golden
-witch》（作畫：[夏海慧](../Page/夏海慧.md "wikilink")）
+《海貓悲鳴時 Episode3 - Banquet of the golden witch》（作畫：[夏海慧](../Page/夏海慧.md "wikilink")）
 
 ## TIPS
 
@@ -42,8 +38,4 @@ witch》（作畫：[夏海慧](../Page/夏海慧.md "wikilink")）
   - [うみねこのなく頃にWiki FrontPage - うみねこのなく頃に まとめWiki](http://umineco.info/)
   - [うみねこドットＴＶ─うみねこのなく頃に](http://umineko.tv/)
 
-[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink")
-[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")
+[Category:海貓悲鳴時](https://zh.wikipedia.org/wiki/Category:海貓悲鳴時 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:恐怖漫畫](https://zh.wikipedia.org/wiki/Category:恐怖漫畫 "wikilink") [Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")

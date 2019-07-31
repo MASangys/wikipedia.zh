@@ -1,29 +1,22 @@
-**RGSS**（Ruby Game Scripting
-System）是以[Ruby語言為基礎的遊戲](../Page/Ruby.md "wikilink")[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，用於[RPG
-Maker系列的功能擴充上](https://zh.wikipedia.org/wiki/RPG_Maker "wikilink")。
+**RGSS**（Ruby Game Scripting System）是以[Ruby](../Page/Ruby.md "wikilink")語言為基礎的遊戲[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，用於[RPG Maker系列的功能擴充上](https://zh.wikipedia.org/wiki/RPG_Maker "wikilink")。
 
 ## 版本歷史
 
 ### RGSS
 
-搭載於[RPG Maker
-XP](../Page/RPG_Maker_XP.md "wikilink")，是腳本功能首次亮相。可用於實現事件難以完成的功能。
+搭載於[RPG Maker XP](../Page/RPG_Maker_XP.md "wikilink")，是腳本功能首次亮相。可用於實現事件難以完成的功能。
 
 ### RGSS 2
 
-搭載於[RPG Maker
-VX](../Page/RPG_Maker_VX.md "wikilink")，將腳本分為數個大類，以方便管理與學習，並新增腳本功能與優化性能等。
+搭載於[RPG Maker VX](../Page/RPG_Maker_VX.md "wikilink")，將腳本分為數個大類，以方便管理與學習，並新增腳本功能與優化性能等。
 
 ### RGSS 3
 
-搭載於[RPG Maker VX
-Ace](https://zh.wikipedia.org/wiki/RPG_Maker_VX#RPG_Maker_VX_Ace "wikilink")，使用Ruby1.9.2，並新增腳本功能與優化性能等。
-為最後一版的RGSS，在後繼版本[RPG Maker
-MV中被](../Page/RPG_Maker_MV.md "wikilink")[JavaScript插件取代](../Page/JavaScript.md "wikilink")。
+搭載於[RPG Maker VX Ace](https://zh.wikipedia.org/wiki/RPG_Maker_VX#RPG_Maker_VX_Ace "wikilink")，使用Ruby1.9.2，並新增腳本功能與優化性能等。 為最後一版的RGSS，在後繼版本[RPG Maker MV中被](../Page/RPG_Maker_MV.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")插件取代。
 
 ## 與Ruby不同之處
 
-RGSS的語法與[Ruby完全相同](../Page/Ruby.md "wikilink")。主要在圖像的顯示、音樂的演奏、遊戲設計所需要之功能上作強化。
+RGSS的語法與[Ruby](../Page/Ruby.md "wikilink")完全相同。主要在圖像的顯示、音樂的演奏、遊戲設計所需要之功能上作強化。
 
 ### RGSS實作之類別與模組
 
@@ -61,8 +54,7 @@ RGSS方便的特性在於：變更文字的大小、變更選單畫面、或更�
 <!-- end list -->
 
   -
-    過去版本的[RPG製作大師](../Page/RPG製作大師.md "wikilink")，錯誤的原因多為事件編寫錯誤。但使用RGSS的話，也有程式的拼寫錯誤（Spell
-    miss）、及變數、物件類別的使用方法錯誤的可能，初學者難以自行修正。
+    過去版本的[RPG製作大師](../Page/RPG製作大師.md "wikilink")，錯誤的原因多為事件編寫錯誤。但使用RGSS的話，也有程式的拼寫錯誤（Spell miss）、及變數、物件類別的使用方法錯誤的可能，初學者難以自行修正。
 
 <!-- end list -->
 
@@ -83,7 +75,4 @@ RGSS方便的特性在於：變更文字的大小、變更選單畫面、或更�
   - [RPG Maker XP官方網站](http://tkool.jp/)
   - [Ruby語言官方網站](http://www.ruby-lang.org/)
 
-[Category:電腦小作品](https://zh.wikipedia.org/wiki/Category:電腦小作品 "wikilink")
-[Category:腳本語言](https://zh.wikipedia.org/wiki/Category:腳本語言 "wikilink")
-[Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
-[Category:Ruby](https://zh.wikipedia.org/wiki/Category:Ruby "wikilink")
+[Category:電腦小作品](https://zh.wikipedia.org/wiki/Category:電腦小作品 "wikilink") [Category:腳本語言](https://zh.wikipedia.org/wiki/Category:腳本語言 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink") [Category:Ruby](https://zh.wikipedia.org/wiki/Category:Ruby "wikilink")

@@ -1,7 +1,4 @@
-《Coco》是[美國創作歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[Colbie
-Caillat個人首張專輯](https://zh.wikipedia.org/wiki/Colbie_Caillat "wikilink")，在2007年7月17日發行。專輯首週已賣出51,000張，並打入美國告示牌前200的第五名。\[1\]
-在2008年9月，這張專輯已經在[美國售出了](https://zh.wikipedia.org/wiki/美國 "wikilink")1,757,922張，並獲得RIAA的白金認證。。\[2\]\[3\]
-蔻比在接受MTV Latin America的訪問時指出專輯名為"Coco"是因為這是她的父母為她改的小名，而她的朋友也採用了這個名字。
+《Coco》是[美國創作歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[Colbie Caillat個人首張專輯](https://zh.wikipedia.org/wiki/Colbie_Caillat "wikilink")，在2007年7月17日發行。專輯首週已賣出51,000張，並打入美國告示牌前200的第五名。\[1\] 在2008年9月，這張專輯已經在[美國售出了](https://zh.wikipedia.org/wiki/美國 "wikilink")1,757,922張，並獲得RIAA的白金認證。。\[2\]\[3\] 蔻比在接受MTV Latin America的訪問時指出專輯名為"Coco"是因為這是她的父母為她改的小名，而她的朋友也採用了這個名字。
 
 ## 曲目列表
 
@@ -26,8 +23,7 @@ Caillat個人首張專輯](https://zh.wikipedia.org/wiki/Colbie_Caillat "wikilin
 
 ## 反應
 
-各方對這張專輯褒眨不一。「她唱著平常的事情，風格不做作、單純，讓她的旋律和鄰家女孩魅力陪伴著你。」[Allmusic說道](https://zh.wikipedia.org/wiki/Allmusic "wikilink")\[4\]。[時人雜誌的柴克](https://zh.wikipedia.org/wiki/時人雜誌 "wikilink")·安諾德表示：「儘管中板的曲子有些混淆在一起，這個加州女孩仍帶來了那被陽光吻過的聲音\[5\]。」
-[滾石雜誌的卡恩](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")·甘茲則批評蔻比「熱情的旋律，但在成千上萬的陽光歌聲中，實在很難為她下定論\[6\]。」
+各方對這張專輯褒眨不一。「她唱著平常的事情，風格不做作、單純，讓她的旋律和鄰家女孩魅力陪伴著你。」[Allmusic說道](https://zh.wikipedia.org/wiki/Allmusic "wikilink")\[4\]。[時人雜誌的柴克](https://zh.wikipedia.org/wiki/時人雜誌 "wikilink")·安諾德表示：「儘管中板的曲子有些混淆在一起，這個加州女孩仍帶來了那被陽光吻過的聲音\[5\]。」 [滾石雜誌的卡恩](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")·甘茲則批評蔻比「熱情的旋律，但在成千上萬的陽光歌聲中，實在很難為她下定論\[6\]。」
 
 ## 銷售與排名
 
@@ -55,26 +51,17 @@ Caillat個人首張專輯](https://zh.wikipedia.org/wiki/Colbie_Caillat "wikilin
 
   - [Official site](http://www.colbiecaillatmusic.com)
   - [Universal Republic Records](http://www.universalrepublic.com)
-  - [Charts positions of
-    "Coco"](http://portuguesecharts.com/showitem.asp?interpret=Colbie+Caillat&titel=Coco&cat=a)
+  - [Charts positions of "Coco"](http://portuguesecharts.com/showitem.asp?interpret=Colbie+Caillat&titel=Coco&cat=a)
 
 ## 參考資料
 
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
+[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
 
 1.
 2.  [Billboard 200](http://pulsemusic.proboards48.com/index.cgi?board=gmn&action=display&thread=57763)
-
 3.
-4.  *"she sings about simple, everyday things in an unassuming manner,
-    letting her melodies and girl-next-door charm carry the day"*
-    史蒂芬·托馬斯·艾爾維(2007)。[AllMusic.com.](http://wm02.allmusic.com/cg/amg.dll?p=amg&sql=10:knfrxzr5ldfe)。2007-9-28查閱。
-5.  *"although the midtempo tracks start to blend together, this
-    California girl keeps the sun-kissed sounds
-    coming."*柴克·安諾德(2007-8-20)，"Coco"。時人雜誌**68** (8):44
+4.  *"she sings about simple, everyday things in an unassuming manner, letting her melodies and girl-next-door charm carry the day"* 史蒂芬·托馬斯·艾爾維(2007)。[AllMusic.com.](http://wm02.allmusic.com/cg/amg.dll?p=amg&sql=10:knfrxzr5ldfe)。2007-9-28查閱。
+5.  *"although the midtempo tracks start to blend together, this California girl keeps the sun-kissed sounds coming."*柴克·安諾德(2007-8-20)，"Coco"。時人雜誌**68** (8):44
 6.  卡恩·甘茲(2007-8-23)，"Coco"。滾石雜誌。(1033):72
 7.  <http://www.ifop.com/europe/sondages/toptelealbums/tla0831.stm>
-8.  [Top : Nâdiya et Enrique, à quand la fin du règne
-    ?](http://www.chartsinfrance.net/Coldplay/news-66519.html)
+8.  [Top : Nâdiya et Enrique, à quand la fin du règne ?](http://www.chartsinfrance.net/Coldplay/news-66519.html)

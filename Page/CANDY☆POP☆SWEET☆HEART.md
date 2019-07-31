@@ -15,6 +15,4 @@
 
 4.  （off vocal）
 
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:WOWOW動畫主題曲](https://zh.wikipedia.org/wiki/Category:WOWOW動畫主題曲 "wikilink")
-[Category:新谷良子單曲](https://zh.wikipedia.org/wiki/Category:新谷良子單曲 "wikilink")
+[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:WOWOW動畫主題曲](https://zh.wikipedia.org/wiki/Category:WOWOW動畫主題曲 "wikilink") [Category:新谷良子單曲](https://zh.wikipedia.org/wiki/Category:新谷良子單曲 "wikilink")

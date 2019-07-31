@@ -1,10 +1,8 @@
-《**STAR MINE
-GIRL**》（****、**SMG**）是[Nitro+](../Page/Nitro+.md "wikilink")於2008年9月26日发售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")，最初於2007年9月發表製作。漫畫版《》於《Comptiq》2008年6月號開始連載。2009年6月26日發售fandisk《》。
+《**STAR MINE GIRL**》（****、**SMG**）是[Nitro+](../Page/Nitro+.md "wikilink")於2008年9月26日发售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")，最初於2007年9月發表製作。漫畫版《》於《Comptiq》2008年6月號開始連載。2009年6月26日發售fandisk《》。
 
 ## 概要
 
-企劃最初由於2006年5月左右提出。故事是學園喜劇，以大團圓結局為最終目標，戀愛要素和十八禁情節對比Nitro+以前的遊戲較為重視，和Nitro+一貫的作風不同。而《STAR
-MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和外傳。但捨棄大團圓結局的概念\[1\]。
+企劃最初由於2006年5月左右提出。故事是學園喜劇，以大團圓結局為最終目標，戀愛要素和十八禁情節對比Nitro+以前的遊戲較為重視，和Nitro+一貫的作風不同。而《STAR MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和外傳。但捨棄大團圓結局的概念\[1\]。
 
 ## 故事簡介
 
@@ -35,8 +33,7 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
   -
     第85位戰敗的魔女。登場於廣播劇和《STAR MINE GIRL SPECIAL》。德內博的搭檔，喜歡漫畫和甜食。
   -
-    第84位戰敗的魔女。登場於廣播劇於《STAR MINE GIRL
-    SPECIAL》。卡貝拉的搭檔，喜歡[神秘學](https://zh.wikipedia.org/wiki/神秘學 "wikilink")。
+    第84位戰敗的魔女。登場於廣播劇於《STAR MINE GIRL SPECIAL》。卡貝拉的搭檔，喜歡[神秘學](https://zh.wikipedia.org/wiki/神秘學 "wikilink")。
   -
     身高：155cm，體重：47kg，三圍：74/57/80
     伊都夏大學園的學生會長、自衛軍指揮者，對自己的信念十分堅持。
@@ -92,8 +89,7 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
 ### SMG
 
   - 主題曲、結尾曲「(a)SLOW STAR」
-    歌：[Swinging
-    Popsicle](https://zh.wikipedia.org/wiki/Swinging_Popsicle "wikilink")
+    歌：[Swinging Popsicle](https://zh.wikipedia.org/wiki/Swinging_Popsicle "wikilink")
   - 絲碧卡角色曲「」
     歌：[Rio](https://zh.wikipedia.org/wiki/Rio "wikilink")
   - 米拉角色曲「」
@@ -123,8 +119,7 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
 ### Star Mine Gig
 
   - (a)SLOW STAR Movie Ver.
-    歌：[Swinging
-    Popsicle](https://zh.wikipedia.org/wiki/Swinging_Popsicle "wikilink")
+    歌：[Swinging Popsicle](https://zh.wikipedia.org/wiki/Swinging_Popsicle "wikilink")
   - Sunahama
     語音，聲優：
   -
@@ -136,15 +131,13 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
   - Gensou
     語音，聲優：杏子御津
   -
-    加納特的插入曲，歌：[THE
-    SPIN](https://zh.wikipedia.org/wiki/THE_SPIN "wikilink")
+    加納特的插入曲，歌：[THE SPIN](https://zh.wikipedia.org/wiki/THE_SPIN "wikilink")
   -  Short Ver.
     歌：
 
 ## 漫畫
 
-漫畫版《》於《Comptiq》2008年6月號開始連載，故事主要圍繞現實世界的綿矢真、川嶋有理和魔女三人（絲碧卡、米拉、加納特）。單行本第一集預定於同年10月25日發售，ISBN
-978-4-04-715117-8C0979。
+漫畫版《》於《Comptiq》2008年6月號開始連載，故事主要圍繞現實世界的綿矢真、川嶋有理和魔女三人（絲碧卡、米拉、加納特）。單行本第一集預定於同年10月25日發售，ISBN 978-4-04-715117-8C0979。
 
 ## 廣播
 
@@ -175,19 +168,10 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
 
   - [遊戲官方網站](http://www.sumaga.net/index.php)
   - [Nitro+](https://web.archive.org/web/20090110114236/http://www.nitroplus.co.jp/pc/)
-
   - [Comptiq](https://web.archive.org/web/20080728180747/http://www.comptiq.com/index.html)
-
   - [音泉](http://www.onsen.ag/)
   - [](http://www.onsen.ag/program/sumaga/index.html?1217254751616)
 
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.

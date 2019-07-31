@@ -4,8 +4,7 @@
 
 19歲的潘雪兒還在大學就讀一年級時，一個自稱為美國情報部門工作的男人接觸她，希望她可以參加特工的面試，因為她的條件符合成為一個特工的要求。最後，雪兒接受了這份工作，成為[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")（CIA）所屬部門──SD-6的其中一個特工。
 
-經歷了七年學生與特工的生活，雪兒打算與交往了數年的醫生男友許丹尼（Danny
-Hecht）結婚，可雪兒不願對他隱瞞她的特工身分，於是她坦白地對男友說出真相。不過，得悉雪兒洩漏了她的特工身分後，SD-6唯有派人殺掉雪兒的男友。
+經歷了七年學生與特工的生活，雪兒打算與交往了數年的醫生男友許丹尼（Danny Hecht）結婚，可雪兒不願對他隱瞞她的特工身分，於是她坦白地對男友說出真相。不過，得悉雪兒洩漏了她的特工身分後，SD-6唯有派人殺掉雪兒的男友。
 
 傷心的雪兒在男友死後，便專注於學習，完全不理會SD-6的任務。當SD-6派人殺死有去意的雪兒時，她的父親潘政及時將她救走。
 
@@ -159,16 +158,7 @@ Hecht）結婚，可雪兒不願對他隱瞞她的特工身分，於是她坦白
   - [Serial TV - Alias](http://www.serialtv.org/title/alias/)
   - [無綫電視明珠台](http://pearl.tvb.com/series/alias/)
 
-[Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink")
-[Category:2001年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2001年開播的美國電視影集 "wikilink")
-[Category:2006年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2006年停播的美國電視影集 "wikilink")
-[Category:间谍题材电视剧](https://zh.wikipedia.org/wiki/Category:间谍题材电视剧 "wikilink")
-[Category:美国动作电视剧](https://zh.wikipedia.org/wiki/Category:美国动作电视剧 "wikilink")
-[Category:美國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:美國廣播公司電視節目 "wikilink")
-[Category:坏机器人制片公司制作](https://zh.wikipedia.org/wiki/Category:坏机器人制片公司制作 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink")
-[Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
+[Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink") [Category:2001年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2001年開播的美國電視影集 "wikilink") [Category:2006年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2006年停播的美國電視影集 "wikilink") [Category:间谍题材电视剧](https://zh.wikipedia.org/wiki/Category:间谍题材电视剧 "wikilink") [Category:美国动作电视剧](https://zh.wikipedia.org/wiki/Category:美国动作电视剧 "wikilink") [Category:美國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:美國廣播公司電視節目 "wikilink") [Category:坏机器人制片公司制作](https://zh.wikipedia.org/wiki/Category:坏机器人制片公司制作 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink") [Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
 
 1.
 
@@ -178,9 +168,7 @@ Hecht）結婚，可雪兒不願對他隱瞞她的特工身分，於是她坦白
 
 4.
 
-5.  [Viewership numbers of primetime programs during the 2004-05
-    television
-    season](http://www.abcmedianet.com/pressrel/dispDNR.html?id=060204_11)
+5.  [Viewership numbers of primetime programs during the 2004-05 television season](http://www.abcmedianet.com/pressrel/dispDNR.html?id=060204_11)
 
 6.
 

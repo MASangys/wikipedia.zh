@@ -1,5 +1,4 @@
-《**電擊hp**》是[Media
-Works發行主要以](https://zh.wikipedia.org/wiki/Media_Works "wikilink")[輕小說](../Page/輕小說.md "wikilink")為中心的[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1998年12月18日創刊。於2007年10月10日停刊，並由《[電擊文庫MAGAZINE](../Page/電擊文庫MAGAZINE.md "wikilink")》後繼取代。
+《**電擊hp**》是[Media Works發行主要以](https://zh.wikipedia.org/wiki/Media_Works "wikilink")[輕小說](../Page/輕小說.md "wikilink")為中心的[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1998年12月18日創刊。於2007年10月10日停刊，並由《[電擊文庫MAGAZINE](../Page/電擊文庫MAGAZINE.md "wikilink")》後繼取代。
 
 ## 連載作品
 
@@ -19,10 +18,4 @@ Works發行主要以](https://zh.wikipedia.org/wiki/Media_Works "wikilink")[輕�
 
   - [電撃文庫MAGAZINE](http://dengekibunko.dengeki.com/)
 
-[Category:輕小說雜誌](https://zh.wikipedia.org/wiki/Category:輕小說雜誌 "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
-[Category:1998年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1998年創辦的雜誌 "wikilink")
-[Category:2007年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2007年停刊的雜誌 "wikilink")
-[Category:1998年日本建立](https://zh.wikipedia.org/wiki/Category:1998年日本建立 "wikilink")
-[Category:2007年日本廢除](https://zh.wikipedia.org/wiki/Category:2007年日本廢除 "wikilink")
+[Category:輕小說雜誌](https://zh.wikipedia.org/wiki/Category:輕小說雜誌 "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:1998年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1998年創辦的雜誌 "wikilink") [Category:2007年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2007年停刊的雜誌 "wikilink") [Category:1998年日本建立](https://zh.wikipedia.org/wiki/Category:1998年日本建立 "wikilink") [Category:2007年日本廢除](https://zh.wikipedia.org/wiki/Category:2007年日本廢除 "wikilink")

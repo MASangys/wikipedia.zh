@@ -11,8 +11,7 @@
 
 ### 第一代（H10系）
 
-[1975_Toyota_Hiace_H10_camper_van.jpg](https://zh.wikipedia.org/wiki/File:1975_Toyota_Hiace_H10_camper_van.jpg "fig:1975_Toyota_Hiace_H10_camper_van.jpg")
-於1967年2月推出。
+[1975_Toyota_Hiace_H10_camper_van.jpg](https://zh.wikipedia.org/wiki/File:1975_Toyota_Hiace_H10_camper_van.jpg "fig:1975_Toyota_Hiace_H10_camper_van.jpg") 於1967年2月推出。
 
 初期配容積1.3公升的3P型引擎，馬力56匹（柴油版）／70匹（汽油版），最多可載9人（連司機）。同年10月生產的車改配1.5公升的2R型柴油引擎，馬力77匹，載客量維持不變。
 
@@ -30,10 +29,7 @@
 
 ### 第二代（H20-40系）
 
-[Toyota_Hiace_(second_generation)_D_front.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation\)_D_front.jpg "fig:Toyota_Hiace_(second_generation)_D_front.jpg")
-[Toyota_Hiace_(second_generation)_(pickup)_(front),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation\)_\(pickup\)_\(front\),_Kuala_Lumpur.jpg "fig:Toyota_Hiace_(second_generation)_(pickup)_(front),_Kuala_Lumpur.jpg")[吉隆坡](../Page/吉隆坡.md "wikilink")的第2代Hiace\]\]
-[Toyota_Hiace_(second_generation,_first_facelift)_(pickup)_(front),_Serdang.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation,_first_facelift\)_\(pickup\)_\(front\),_Serdang.jpg "fig:Toyota_Hiace_(second_generation,_first_facelift)_(pickup)_(front),_Serdang.jpg")
-於1977年2月推出市場，車頭燈數目由4盞改為2盞。
+[Toyota_Hiace_(second_generation)_D_front.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation\)_D_front.jpg "fig:Toyota_Hiace_(second_generation)_D_front.jpg") [Toyota_Hiace_(second_generation)_(pickup)_(front),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation\)_\(pickup\)_\(front\),_Kuala_Lumpur.jpg "fig:Toyota_Hiace_(second_generation)_(pickup)_(front),_Kuala_Lumpur.jpg")[吉隆坡](../Page/吉隆坡.md "wikilink")的第2代Hiace\]\] [Toyota_Hiace_(second_generation,_first_facelift)_(pickup)_(front),_Serdang.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(second_generation,_first_facelift\)_\(pickup\)_\(front\),_Serdang.jpg "fig:Toyota_Hiace_(second_generation,_first_facelift)_(pickup)_(front),_Serdang.jpg") 於1977年2月推出市場，車頭燈數目由4盞改為2盞。
 
 1979年3月，改配21R-U型柴油引擎，容積1972cc。同年7月，改配2200cc的同型號柴油引擎。
 
@@ -49,8 +45,7 @@
 
 ### 第三代（H50系）
 
-[1986_Toyota_HiAce_(LH51G)_Super_Custom_van_(2015-07-14)_01.jpg](https://zh.wikipedia.org/wiki/File:1986_Toyota_HiAce_\(LH51G\)_Super_Custom_van_\(2015-07-14\)_01.jpg "fig:1986_Toyota_HiAce_(LH51G)_Super_Custom_van_(2015-07-14)_01.jpg")
-[Toyota_Hiace_60_003.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_60_003.JPG "fig:Toyota_Hiace_60_003.JPG")
+[1986_Toyota_HiAce_(LH51G)_Super_Custom_van_(2015-07-14)_01.jpg](https://zh.wikipedia.org/wiki/File:1986_Toyota_HiAce_\(LH51G\)_Super_Custom_van_\(2015-07-14\)_01.jpg "fig:1986_Toyota_HiAce_(LH51G)_Super_Custom_van_(2015-07-14)_01.jpg") [Toyota_Hiace_60_003.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_60_003.JPG "fig:Toyota_Hiace_60_003.JPG")
 
 在1983年1月推出市場。配用全新開發的3Y型引擎，車頭進氣格柵（俗稱鬼面罩）、擋風玻璃和車身也被更新。
 
@@ -86,16 +81,9 @@
 
 #### Granvia／歐洲版Hiace
 
-[2001_Toyota_Grand_HiAce_(VCH10W)_G_Prime_Selection_van_(2015-07-06)_01.jpg](https://zh.wikipedia.org/wiki/File:2001_Toyota_Grand_HiAce_\(VCH10W\)_G_Prime_Selection_van_\(2015-07-06\)_01.jpg "fig:2001_Toyota_Grand_HiAce_(VCH10W)_G_Prime_Selection_van_(2015-07-06)_01.jpg")
--{zh-tw:[Keelung_City_Government_6951-KM_20160521.jpg](https://zh.wikipedia.org/wiki/File:Keelung_City_Government_6951-KM_20160521.jpg "fig:Keelung_City_Government_6951-KM_20160521.jpg");
-zh-hant:[Toyota_Hiace_XH10.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_XH10.JPG "fig:Toyota_Hiace_XH10.JPG")
-}-
+[2001_Toyota_Grand_HiAce_(VCH10W)_G_Prime_Selection_van_(2015-07-06)_01.jpg](https://zh.wikipedia.org/wiki/File:2001_Toyota_Grand_HiAce_\(VCH10W\)_G_Prime_Selection_van_\(2015-07-06\)_01.jpg "fig:2001_Toyota_Grand_HiAce_(VCH10W)_G_Prime_Selection_van_(2015-07-06)_01.jpg") -{zh-tw:[Keelung_City_Government_6951-KM_20160521.jpg](https://zh.wikipedia.org/wiki/File:Keelung_City_Government_6951-KM_20160521.jpg "fig:Keelung_City_Government_6951-KM_20160521.jpg"); zh-hant:[Toyota_Hiace_XH10.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_XH10.JPG "fig:Toyota_Hiace_XH10.JPG") }-
 
-只在1995年於日本本土市場推出，為短車頭型的箱型車，其前輪位置移至駕駛座前方，以提高安全性。配用2.4或3.0公升柴油引擎，或3.4公升汽油引擎。Granvia衍生出高價位的MPV：Hiace
-Regius、Grand Hiace、Touring
-Hiace，屬全客車型號。在[奧地利被稱作Hiace](https://zh.wikipedia.org/wiki/奧地利 "wikilink")
-SBV，搭配1.8公升4KE引擎。與第四代Hiace同樣被第五代Hiace取代。
-[EuroHiace](http://www.flickr.com/photos/42324822@N06/5038135170/sizes/l/in/photostream/)
+只在1995年於日本本土市場推出，為短車頭型的箱型車，其前輪位置移至駕駛座前方，以提高安全性。配用2.4或3.0公升柴油引擎，或3.4公升汽油引擎。Granvia衍生出高價位的MPV：Hiace Regius、Grand Hiace、Touring Hiace，屬全客車型號。在[奧地利被稱作Hiace](https://zh.wikipedia.org/wiki/奧地利 "wikilink") SBV，搭配1.8公升4KE引擎。與第四代Hiace同樣被第五代Hiace取代。 [EuroHiace](http://www.flickr.com/photos/42324822@N06/5038135170/sizes/l/in/photostream/)
 
 <div style="clear: both">
 
@@ -103,9 +91,7 @@ SBV，搭配1.8公升4KE引擎。與第四代Hiace同樣被第五代Hiace取代�
 
 ### 第五代（H200系）
 
-[Toyota_Hiace_H200_501.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_H200_501.JPG "fig:Toyota_Hiace_H200_501.JPG")
-[Toyota_Hiace_H200_505.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_H200_505.JPG "fig:Toyota_Hiace_H200_505.JPG")
-2004年8月推出市場，車身闊度較上一代增加了190mm，全車長度約4.7米。配用全新2KD-FTV型[柴油渦輪增壓引擎](../Page/柴油引擎.md "wikilink")，容積2494cc，馬力109匹；也有提供2TR-FE型2.7公升柴油引擎和1TR-FE型2.0公升汽油引擎以供選擇。
+[Toyota_Hiace_H200_501.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_H200_501.JPG "fig:Toyota_Hiace_H200_501.JPG") [Toyota_Hiace_H200_505.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_H200_505.JPG "fig:Toyota_Hiace_H200_505.JPG") 2004年8月推出市場，車身闊度較上一代增加了190mm，全車長度約4.7米。配用全新2KD-FTV型[柴油渦輪增壓引擎](../Page/柴油引擎.md "wikilink")，容積2494cc，馬力109匹；也有提供2TR-FE型2.7公升柴油引擎和1TR-FE型2.0公升汽油引擎以供選擇。
 
 2009年作出改款，改用歐盟四型2KD-FTE型[柴油渦輪增壓引擎](../Page/柴油引擎.md "wikilink")，容積2494cc，馬力120匹。
 
@@ -131,15 +117,11 @@ Hiace車廂內籠偌大，用途廣泛，可以作為載客及載貨等基本用
 
 ### 台灣
 
-[Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg "fig:Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg")
-在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[國瑞汽車](../Page/國瑞汽車.md "wikilink")於1997年起生產Granvia（歐洲版第四代Hiace），並且取名Hiace
-Solemio，先後提供2.5公升與2.7公升兩具汽油引擎，在當時廣為政府機關與工商業界採用，主要競爭對手為[中華汽車生產的](../Page/中華汽車工業.md "wikilink")[三菱Space
-Gear](../Page/三菱得利卡.md "wikilink")，於2008年停產，此後台灣本地不再生產或者進口Hiace車系,[和泰汽車](../Page/和泰汽車.md "wikilink")預計2019年9月導入第六代\[1\]。
+[Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg "fig:Toyota_Hiace_Solemio_of_Fire_Bureau,_Taitung_County_Govement_Display_at_Taipin_Camp_20120324.jpg") 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[國瑞汽車](../Page/國瑞汽車.md "wikilink")於1997年起生產Granvia（歐洲版第四代Hiace），並且取名Hiace Solemio，先後提供2.5公升與2.7公升兩具汽油引擎，在當時廣為政府機關與工商業界採用，主要競爭對手為[中華汽車生產的](../Page/中華汽車工業.md "wikilink")[三菱Space Gear](../Page/三菱得利卡.md "wikilink")，於2008年停產，此後台灣本地不再生產或者進口Hiace車系,[和泰汽車](../Page/和泰汽車.md "wikilink")預計2019年9月導入第六代\[1\]。
 
 ### 香港
 
-[13-08-11-hongkong-50mm-14.jpg](https://zh.wikipedia.org/wiki/File:13-08-11-hongkong-50mm-14.jpg "fig:13-08-11-hongkong-50mm-14.jpg")
-[香港](../Page/香港.md "wikilink")於1970年代引進豐田Hiace，此後香港路面上大多數客貨車均採用豐田Hiace，原因是容易維修、省油、操控容易，而且耐用，深受歡迎。絕大部分駕駛學校例如[香港駕駛學院](../Page/香港駕駛學院.md "wikilink")，均是採用豐田Hiace作為教練車，另外，[香港政府亦有為多個](../Page/香港特別行政區政府.md "wikilink")[政府部門](../Page/香港特別行政區政府組織架構.md "wikilink")（如機電工程署、食環署、康文署、消防處等）購置了多輛電油版豐田Hiace客貨車。
+[13-08-11-hongkong-50mm-14.jpg](https://zh.wikipedia.org/wiki/File:13-08-11-hongkong-50mm-14.jpg "fig:13-08-11-hongkong-50mm-14.jpg") [香港](../Page/香港.md "wikilink")於1970年代引進豐田Hiace，此後香港路面上大多數客貨車均採用豐田Hiace，原因是容易維修、省油、操控容易，而且耐用，深受歡迎。絕大部分駕駛學校例如[香港駕駛學院](../Page/香港駕駛學院.md "wikilink")，均是採用豐田Hiace作為教練車，另外，[香港政府亦有為多個](../Page/香港特別行政區政府.md "wikilink")[政府部門](../Page/香港特別行政區政府組織架構.md "wikilink")（如機電工程署、食環署、康文署、消防處等）購置了多輛電油版豐田Hiace客貨車。
 
 ### 中國大陆
 
@@ -147,8 +129,7 @@ Gear](../Page/三菱得利卡.md "wikilink")，於2008年停產，此後台灣�
 
 ### 東南亞
 
-[Toyota_Hiace_(fifth_generation)_(Grand_Cabin)_(front),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(fifth_generation\)_\(Grand_Cabin\)_\(front\),_Kuala_Lumpur.jpg "fig:Toyota_Hiace_(fifth_generation)_(Grand_Cabin)_(front),_Kuala_Lumpur.jpg")[吉隆坡](../Page/吉隆坡.md "wikilink")的豐田Hiace\]\]
-亞洲不少國家例如[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")...等等，都有豐田Hiace行走，除載貨外也有載客之用。
+[Toyota_Hiace_(fifth_generation)_(Grand_Cabin)_(front),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_\(fifth_generation\)_\(Grand_Cabin\)_\(front\),_Kuala_Lumpur.jpg "fig:Toyota_Hiace_(fifth_generation)_(Grand_Cabin)_(front),_Kuala_Lumpur.jpg")[吉隆坡](../Page/吉隆坡.md "wikilink")的豐田Hiace\]\] 亞洲不少國家例如[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")...等等，都有豐田Hiace行走，除載貨外也有載客之用。
 
 ## 競爭對手
 
@@ -162,8 +143,6 @@ Gear](../Page/三菱得利卡.md "wikilink")，於2008年停產，此後台灣�
 
   - [豐田汽車網站](http://toyota.jp/hiace/)
 
-[Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink")
-[Category:貨車](https://zh.wikipedia.org/wiki/Category:貨車 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink") [Category:貨車](https://zh.wikipedia.org/wiki/Category:貨車 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
 1.  <https://tw.mobi.yahoo.com/autos/2019年九月重返台灣商用車市場-toyota新hiace兩種規格起跳價140萬-144553528.html>

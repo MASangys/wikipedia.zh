@@ -1,5 +1,4 @@
-《**HUNGRY HEART
-野驁射手**》（）-{zh-hans:，;zh-tw:，;zh-hk:，[TVB又譯](https://zh.wikipedia.org/wiki/TVB "wikilink")**踢出我天地**，}-是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋陽一](https://zh.wikipedia.org/wiki/高橋陽一 "wikilink")2002年至2004年在《[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")》上連載的一部[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，出版社是[秋田書店](../Page/秋田書店.md "wikilink")，單行本共6卷。
+《**HUNGRY HEART 野驁射手**》（）-{zh-hans:，;zh-tw:，;zh-hk:，[TVB又譯](https://zh.wikipedia.org/wiki/TVB "wikilink")**踢出我天地**，}-是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋陽一](https://zh.wikipedia.org/wiki/高橋陽一 "wikilink")2002年至2004年在《[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")》上連載的一部[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，出版社是[秋田書店](../Page/秋田書店.md "wikilink")，單行本共6卷。
 
 ## 故事簡介
 
@@ -307,21 +306,16 @@
 
 1.  「**2nd stage**」（1 - 42話）　
       -
-        作詞：[Keiji](https://zh.wikipedia.org/wiki/Keiji "wikilink")、[市川善康](https://zh.wikipedia.org/wiki/市川善康 "wikilink")、作曲：Keiji、編曲：[Kids
-        Alive](../Page/Kids_Alive.md "wikilink")、[五十嵐淳一](https://zh.wikipedia.org/wiki/五十嵐淳一 "wikilink")／歌：[Kids
-        Alive](../Page/Kids_Alive.md "wikilink")
+        作詞：[Keiji](https://zh.wikipedia.org/wiki/Keiji "wikilink")、[市川善康](https://zh.wikipedia.org/wiki/市川善康 "wikilink")、作曲：Keiji、編曲：[Kids Alive](../Page/Kids_Alive.md "wikilink")、[五十嵐淳一](https://zh.wikipedia.org/wiki/五十嵐淳一 "wikilink")／歌：[Kids Alive](../Page/Kids_Alive.md "wikilink")
 2.  「****」（43 - 52話）
       -
-        作詞：田久保真見、作曲：大野宏明、編曲：旭純／歌：[加藤夏希](../Page/加藤夏希.md "wikilink") as
-        辻脇美紀 featuring
-        [アテネジェネレーション](https://zh.wikipedia.org/wiki/アテネジェネレーション "wikilink")
+        作詞：田久保真見、作曲：大野宏明、編曲：旭純／歌：[加藤夏希](../Page/加藤夏希.md "wikilink") as 辻脇美紀 featuring [アテネジェネレーション](https://zh.wikipedia.org/wiki/アテネジェネレーション "wikilink")
 
 **香港版主題曲**
 
 1.  「黃金入球」（1 - 52集）（改編「**2nd stage**」）
       -
-        作詞：[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、作曲：Keiji、編曲：[Kids
-        Alive](../Page/Kids_Alive.md "wikilink")、[五十嵐淳一](https://zh.wikipedia.org/wiki/五十嵐淳一 "wikilink")／歌：[周國賢](../Page/周國賢.md "wikilink")
+        作詞：[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、作曲：Keiji、編曲：[Kids Alive](../Page/Kids_Alive.md "wikilink")、[五十嵐淳一](https://zh.wikipedia.org/wiki/五十嵐淳一 "wikilink")／歌：[周國賢](../Page/周國賢.md "wikilink")
 
 **片尾曲**
 
@@ -349,8 +343,7 @@
 ### 獎項
 
   - 由[周國賢](../Page/周國賢.md "wikilink")演唱的香港版主題曲《黃金入球》曾於《2004[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")》內奪得「十大兒歌金曲」獎
-  - 由[周國賢](../Page/周國賢.md "wikilink")演唱的香港版主題曲《黃金入球》曾於 2005
-    年度的「[新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")」內奪得「新城勁爆兒歌」獎
+  - 由[周國賢](../Page/周國賢.md "wikilink")演唱的香港版主題曲《黃金入球》曾於 2005 年度的「[新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")」內奪得「新城勁爆兒歌」獎
 
 ### 各話標題
 
@@ -911,10 +904,4 @@
 
   - [HUNGRY HEART 野驁射手官方網站](http://www.nippon-animation.co.jp/na/hh/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Champion](https://zh.wikipedia.org/wiki/Category:週刊少年Champion "wikilink")
-[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:日本動畫公司](https://zh.wikipedia.org/wiki/Category:日本動畫公司 "wikilink")
-[Category:足球漫畫](https://zh.wikipedia.org/wiki/Category:足球漫畫 "wikilink")
-[Category:足球動畫](https://zh.wikipedia.org/wiki/Category:足球動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Champion](https://zh.wikipedia.org/wiki/Category:週刊少年Champion "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:日本動畫公司](https://zh.wikipedia.org/wiki/Category:日本動畫公司 "wikilink") [Category:足球漫畫](https://zh.wikipedia.org/wiki/Category:足球漫畫 "wikilink") [Category:足球動畫](https://zh.wikipedia.org/wiki/Category:足球動畫 "wikilink")

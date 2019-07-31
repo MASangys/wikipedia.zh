@@ -1,9 +1,4 @@
-{{ infobox software | name = PHPWind | logo = | screenshot = | caption =
-| developer = 杭州德天信息技术有限公司 | latest_release_version = 9.0.2 |
-latest_release_date = 2017年4月26日 | latest_preview_version = |
-latest_preview_date = | operating_system =
-[PHP](../Page/PHP.md "wikilink") / [MySQL](../Page/MySQL.md "wikilink")
-| genre = 論壇程序 | license = | website = <http://www.phpwind.com/> }}
+{{ infobox software | name = PHPWind | logo = | screenshot = | caption = | developer = 杭州德天信息技术有限公司 | latest_release_version = 9.0.2 | latest_release_date = 2017年4月26日 | latest_preview_version = | latest_preview_date = | operating_system = [PHP](../Page/PHP.md "wikilink") / [MySQL](../Page/MySQL.md "wikilink") | genre = 論壇程序 | license = | website = <http://www.phpwind.com/> }}
 
 **PHPWind**（简称：PW）是一个基于[PHP](../Page/PHP.md "wikilink")和[MySQL](../Page/MySQL.md "wikilink")的[论坛](https://zh.wikipedia.org/wiki/论坛 "wikilink")[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")，也是较常用的论坛程序之一。它是由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[杭州德天信息技术有限公司开发的](https://zh.wikipedia.org/wiki/杭州 "wikilink")[论坛](https://zh.wikipedia.org/wiki/论坛 "wikilink")[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")。PHPWind的前身是[ofstar](https://zh.wikipedia.org/wiki/ofstar "wikilink")。\[1\]
 
@@ -19,8 +14,7 @@ PHPWind的源代码可免费下载，但它并不是[自由软件](../Page/自�
 
 在phpwind 7.0版本，改进了伪静态，优化[搜索引擎](../Page/搜索引擎.md "wikilink")收录其系统文章。
 
-在phpwind
-7.5版本，延续了传统论坛、社区[门户](https://zh.wikipedia.org/wiki/门户 "wikilink")、[SNS圈子](https://zh.wikipedia.org/wiki/SNS "wikilink")3种模式于一体的系统机构，并在此基础上弱化各种模式之间的关联度，增加系统的自定义特性。\[2\]
+在phpwind 7.5版本，延续了传统论坛、社区[门户](https://zh.wikipedia.org/wiki/门户 "wikilink")、[SNS圈子](https://zh.wikipedia.org/wiki/SNS "wikilink")3种模式于一体的系统机构，并在此基础上弱化各种模式之间的关联度，增加系统的自定义特性。\[2\]
 
 ## phpwind发展历史
 
@@ -104,8 +98,7 @@ PHPWind论坛程序的后台比較混亂，不夠直覺化，以致初次使用�
   - [PHPWind 7.3.2发布页](http://www.phpwind.com/phpwind73/)
   - [PHPWind最新版下载](http://www.phpwind.com/index.php?m=downloads&a=downloadsphpwind)
 
-[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
-[Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink")
+[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink")
 
 1.  <http://www.phpwind.com/?m=business>
 2.

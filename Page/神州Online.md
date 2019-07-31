@@ -15,8 +15,4 @@
   - [神州Online臺灣官方網站](http://www.ewsoft.com.tw/index.php)
   - [神州Online大陸官方網站](https://web.archive.org/web/20100522140423/http://www.17shenzhou.com/)
 
-[Category:宇峻奧汀電子遊戲系列](https://zh.wikipedia.org/wiki/Category:宇峻奧汀電子遊戲系列 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
+[Category:宇峻奧汀電子遊戲系列](https://zh.wikipedia.org/wiki/Category:宇峻奧汀電子遊戲系列 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")

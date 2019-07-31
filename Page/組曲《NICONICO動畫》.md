@@ -46,7 +46,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS同人專輯</a>「東方乙女囃子」，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》<a href="https://zh.wikipedia.org/wiki/背景音樂" title="wikilink">背景音樂</a>「」的重新編曲</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>同人專輯「東方乙女囃子」，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》<a href="https://zh.wikipedia.org/wiki/背景音樂" title="wikilink">背景音樂</a>「」的重新編曲</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
@@ -81,7 +81,7 @@
 <tr class="even">
 <td><p>9</p></td>
 <td><p>kiss my lips</p></td>
-<td><p><a href="../Page/佐倉紗織.md" title="wikilink">佐倉紗織所唱歌曲</a></p></td>
+<td><p><a href="../Page/佐倉紗織.md" title="wikilink">佐倉紗織</a>所唱歌曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -91,7 +91,7 @@
 <tr class="even">
 <td><p>11</p></td>
 <td><p>序曲（<a href="https://zh.wikipedia.org/wiki/:en:Dragon_Quest" title="wikilink">DRAGON QUEST</a>）</p></td>
-<td><p>遊戲《<a href="https://zh.wikipedia.org/wiki/勇者鬥惡龍" title="wikilink">勇者鬥惡龍</a>》主題曲（填入的歌詞是日本國歌<a href="../Page/君之代.md" title="wikilink">君之代の前半部</a>）[2]</p></td>
+<td><p>遊戲《<a href="https://zh.wikipedia.org/wiki/勇者鬥惡龍" title="wikilink">勇者鬥惡龍</a>》主題曲（填入的歌詞是日本國歌<a href="../Page/君之代.md" title="wikilink">君之代</a>の前半部）[2]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:jp:イオシスの東方Project音楽アレンジCDの一覧" title="wikilink">患部で止まってすぐ溶ける～狂気の優曇華院</a></p></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS同人專輯</a>《東方月燈籠》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方永夜抄" title="wikilink">東方永夜抄</a>》背景音樂「」的編曲</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>同人專輯《東方月燈籠》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方永夜抄" title="wikilink">東方永夜抄</a>》背景音樂「」的編曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
@@ -199,7 +199,7 @@
 <tr class="odd">
 <td><p>16</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS同人專輯</a>《東方乙女囃子》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音樂「」的重新編曲</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>同人專輯《東方乙女囃子》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音樂「」的重新編曲</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
@@ -249,7 +249,7 @@
 <tr class="odd">
 <td><p>26</p></td>
 <td><p>kiss my lips</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ave;new" title="wikilink">ave;new的</a><a href="../Page/佐倉紗織.md" title="wikilink">佐倉紗織主唱歌曲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ave;new" title="wikilink">ave;new的</a><a href="../Page/佐倉紗織.md" title="wikilink">佐倉紗織</a>主唱歌曲</p></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
@@ -259,7 +259,7 @@
 <tr class="odd">
 <td><p>28</p></td>
 <td><p>序曲（DRAGON QUEST）</p></td>
-<td><p>遊戲《<a href="https://zh.wikipedia.org/wiki/勇者鬥惡龍" title="wikilink">勇者鬥惡龍</a>》主題曲（填入的歌詞是日本國歌<a href="../Page/君之代.md" title="wikilink">君之代前半部</a>）[4]</p></td>
+<td><p>遊戲《<a href="https://zh.wikipedia.org/wiki/勇者鬥惡龍" title="wikilink">勇者鬥惡龍</a>》主題曲（填入的歌詞是日本國歌<a href="../Page/君之代.md" title="wikilink">君之代</a>前半部）[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>29</p></td>
@@ -395,7 +395,7 @@
 <tr class="even">
 <td><p>15</p></td>
 <td><p>PRIDE</p></td>
-<td><p>《總合格鬥技PRIDE》主題曲 在NICONICO動畫上是以『SUMOU』稱呼的MAD使用曲聞名，此MAD最初其實是<a href="../Page/YouTube.md" title="wikilink">YouTube的投稿動畫</a></p></td>
+<td><p>《總合格鬥技PRIDE》主題曲 在NICONICO動畫上是以『SUMOU』稱呼的MAD使用曲聞名，此MAD最初其實是<a href="../Page/YouTube.md" title="wikilink">YouTube</a>的投稿動畫</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
@@ -425,7 +425,7 @@
 <tr class="even">
 <td><p>21</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS編曲</a>，是遊戲《<a href="https://zh.wikipedia.org/wiki/東方花映塚" title="wikilink">東方花映塚</a>》背景音乐《お宇佐さまの素い幡》的改編版</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>編曲，是遊戲《<a href="https://zh.wikipedia.org/wiki/東方花映塚" title="wikilink">東方花映塚</a>》背景音乐《お宇佐さまの素い幡》的改編版</p></td>
 </tr>
 <tr class="odd">
 <td><p>22-1</p></td>
@@ -435,7 +435,7 @@
 <tr class="even">
 <td><p>22-2【23】</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS同人專輯</a>《東方月燈籠》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方永夜抄" title="wikilink">東方永夜抄</a>》背景音樂《》的編曲）</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>同人專輯《東方月燈籠》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方永夜抄" title="wikilink">東方永夜抄</a>》背景音樂《》的編曲）</p></td>
 </tr>
 <tr class="odd">
 <td><p>24-1</p></td>
@@ -480,12 +480,12 @@
 <tr class="odd">
 <td><p>31</p></td>
 <td></td>
-<td><p>動畫《<a href="../Page/暮蟬悲鳴時.md" title="wikilink">暮蟬悲鳴時解</a> 》片尾曲</p></td>
+<td><p>動畫《<a href="../Page/暮蟬悲鳴時.md" title="wikilink">暮蟬悲鳴時</a>解 》片尾曲</p></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
 <td></td>
-<td><p>動畫《<a href="../Page/暮蟬悲鳴時.md" title="wikilink">暮蟬悲鳴時解</a>》片頭曲</p></td>
+<td><p>動畫《<a href="../Page/暮蟬悲鳴時.md" title="wikilink">暮蟬悲鳴時</a>解》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
@@ -605,7 +605,7 @@
 <tr class="even">
 <td><p>53</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS同人專輯</a>《東方乙女囃子》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音樂「」的重新編曲</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>同人專輯《東方乙女囃子》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音樂「」的重新編曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>53-2(51)</p></td>
@@ -620,7 +620,7 @@
 <tr class="odd">
 <td><p>54-2(53)</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS同人專輯</a>《東方乙女囃子》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音樂「」的重新編曲</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>同人專輯《東方乙女囃子》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音樂「」的重新編曲</p></td>
 </tr>
 <tr class="even">
 <td><p>55</p></td>
@@ -645,7 +645,7 @@
 <tr class="even">
 <td><p>ED2-1(53)</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS同人專輯</a>《東方乙女囃子》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音樂《》的重新編曲</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>同人專輯《東方乙女囃子》，遊戲《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音樂《》的重新編曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>ED2-2(22)</p></td>
@@ -803,12 +803,12 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>you</p></td>
-<td><p>遊戲《<a href="../Page/暮蟬悲鳴時.md" title="wikilink">暮蟬悲鳴時解 目明編</a>》片尾曲</p></td>
+<td><p>遊戲《<a href="../Page/暮蟬悲鳴時.md" title="wikilink">暮蟬悲鳴時 目明編</a>解》片尾曲</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS的</a><a href="../Page/同人遊戲.md" title="wikilink">同人遊戲</a>《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音乐《》的二次創作版本</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>的<a href="../Page/同人遊戲.md" title="wikilink">同人遊戲</a>《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音乐《》的二次創作版本</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -843,7 +843,7 @@
 <tr class="odd">
 <td><p>28-2(29)</p></td>
 <td><p>JOINT</p></td>
-<td><p>動畫《<a href="../Page/灼眼的夏娜.md" title="wikilink">灼眼的夏娜II</a>》片頭曲</p></td>
+<td><p>動畫《<a href="../Page/灼眼的夏娜.md" title="wikilink">灼眼的夏娜</a>II》片頭曲</p></td>
 </tr>
 <tr class="even">
 <td><p>30-1</p></td>
@@ -938,7 +938,7 @@
 <tr class="even">
 <td><p>ED1-1</p></td>
 <td></td>
-<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS的</a><a href="../Page/同人遊戲.md" title="wikilink">同人遊戲</a>《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音乐《》的二次創作版</p></td>
+<td><p><a href="../Page/IOSYS.md" title="wikilink">IOSYS</a>的<a href="../Page/同人遊戲.md" title="wikilink">同人遊戲</a>《<a href="https://zh.wikipedia.org/wiki/東方妖妖夢" title="wikilink">東方妖妖夢</a>》背景音乐《》的二次創作版</p></td>
 </tr>
 <tr class="odd">
 <td><p>ED1-2</p></td>
@@ -1045,7 +1045,7 @@
 | ED3      | [アンインストール](https://zh.wikipedia.org/wiki/アンインストール "wikilink")                     | 动画片『[地球防卫少年](https://zh.wikipedia.org/wiki/地球防卫少年 "wikilink")』片头曲                                                                                                   |
 | ED4      | [true my heart](https://zh.wikipedia.org/wiki/true_My_Heart "wikilink")           | 游戏『[Nursery Rhyme](../Page/Nursery_Rhyme.md "wikilink")』片头曲                                                                                                         |
 | ED5      | [レッツゴー\! 陰陽師](https://zh.wikipedia.org/wiki/レッツゴー!_陰陽師 "wikilink")                | 遊戲《[新・豪血寺一族 -煩惱解放-](https://zh.wikipedia.org/wiki/新・豪血寺一族_-煩惱解放- "wikilink")》插曲                                                                                     |
-| ED6      | [魔理沙は大変なものを盗んでいきました](https://zh.wikipedia.org/wiki/魔理沙は大変なものを盗んでいきました "wikilink") | [IOSYS的](../Page/IOSYS.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[東方妖妖夢](https://zh.wikipedia.org/wiki/東方妖妖夢 "wikilink")》背景音乐《》的二次創作版本                       |
+| ED6      | [魔理沙は大変なものを盗んでいきました](https://zh.wikipedia.org/wiki/魔理沙は大変なものを盗んでいきました "wikilink") | [IOSYS](../Page/IOSYS.md "wikilink")的[同人遊戲](../Page/同人遊戲.md "wikilink")《[東方妖妖夢](https://zh.wikipedia.org/wiki/東方妖妖夢 "wikilink")》背景音乐《》的二次創作版本                       |
 | ED7      | ふたりのもじぴったん                                                                        | 游戏『[ことばのパズル もじぴったん](https://zh.wikipedia.org/wiki/ことばのパズル_もじぴったん "wikilink")』主题曲 |-\[                                                                               |
 | ED9      | ロックマン2 ワイリーステージ1                                                                  | 遊戲《洛克人2 威利博士之謎》背景音乐《Dr.WILY STAGE 1》（歌詞是二次創作「」）                                                                                                                     |
 | ED10     | つるぺったん                                                                            | 由Silver Forest重新编配的「竹取飛翔」「Let's Go！陰陽師」「ふたりのもじぴったん」的Remix                                                                                                           |
@@ -1099,7 +1099,7 @@
 | 18 | Promise                                                                                                                                                      | 歌手『広瀬香美』第11首單曲                                                                                                                                |
 | 19 | [アンインストール](https://zh.wikipedia.org/wiki/:jp:アンインストール_\(石川智晶の曲\) "wikilink")                                                                                 | 動畫《[地球防衛少年](../Page/地球防衛少年.md "wikilink")》片頭曲                                                                                                 |
 | 20 | you                                                                                                                                                          | 遊戲『[暮蟬鳴泣時解 目明編](https://zh.wikipedia.org/wiki/暮蟬鳴泣時解_目明編 "wikilink")』片尾曲                                                                      |
-| 21 | [魔理沙は大変なものを盗んでいきました](https://zh.wikipedia.org/wiki/魔理沙は大変なものを盗んでいきました "wikilink")                                                                            | [IOSYS的](../Page/IOSYS.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[東方妖妖夢](https://zh.wikipedia.org/wiki/東方妖妖夢 "wikilink")》背景音乐《》的二次創作版本 |
+| 21 | [魔理沙は大変なものを盗んでいきました](https://zh.wikipedia.org/wiki/魔理沙は大変なものを盗んでいきました "wikilink")                                                                            | [IOSYS](../Page/IOSYS.md "wikilink")的[同人遊戲](../Page/同人遊戲.md "wikilink")《[東方妖妖夢](https://zh.wikipedia.org/wiki/東方妖妖夢 "wikilink")》背景音乐《》的二次創作版本 |
 | 22 | [星間飛行](../Page/星間飛行.md "wikilink")                                                                                                                           | 動畫「[超時空要塞 Frontier](https://zh.wikipedia.org/wiki/超時空要塞_Frontier "wikilink")」插曲                                                               |
 | 23 | [ロックマン2](https://zh.wikipedia.org/wiki/:jp:ロックマン2_Dr.ワイリーの謎 "wikilink") [ワイリーステージ](https://zh.wikipedia.org/wiki/:en:Omoide_wa_Okkusenman! "wikilink")1\[7\] | 遊戲《[洛克人2](https://zh.wikipedia.org/wiki/:en:Mega_Man_2 "wikilink")》背景音樂「Dr.WILY STAGE 1」的重新編曲，在NICONICO上的正式名稱即為此名。（二次創作歌詞「」）                  |
 | 24 | [God knows...](https://zh.wikipedia.org/wiki/God_knows... "wikilink")                                                                                        | 動畫《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》插曲                                                                                                |
@@ -1111,7 +1111,7 @@
 
 ## 其他
 
-2007年12月26日由[Lantis發售的動畫](../Page/Lantis.md "wikilink")《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》混音曲集「」其中一首「」是為了向組曲《NICONICO動畫》致敬而創作\[8\]。2008年3月5日，同公司再出版同類型歌曲CD「Lantis組曲」。
+2007年12月26日由[Lantis](../Page/Lantis.md "wikilink")發售的動畫《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》混音曲集「」其中一首「」是為了向組曲《NICONICO動畫》致敬而創作\[8\]。2008年3月5日，同公司再出版同類型歌曲CD「Lantis組曲」。
 
 ## 參見
 
@@ -1126,18 +1126,13 @@
 
 ## 外部連結
 
-  - [組曲《NICONICO動畫》](https://www.nicovideo.jp/watch/sm500873) -
-    NICONICO動畫（需要註冊帳號）
-  - [組曲《NICONICO動畫》、台灣人大合唱（PTT）](https://www.nicovideo.jp/watch/sm746146)
-    - NICONICO動畫（需要註冊帳號）
-  - [中央大學歌謠祭「組曲《NICONICO動畫》」](https://www.nicovideo.jp/watch/sm1323730)
-    - NICONICO動畫（需要註冊帳號）
-  - [NICONICO動畫『裏組曲』(衍生作品之一)](https://www.nicovideo.jp/watch/sm2529813)
-    - NICONICO動畫（需要註冊帳號）
+  - [組曲《NICONICO動畫》](https://www.nicovideo.jp/watch/sm500873) - NICONICO動畫（需要註冊帳號）
+  - [組曲《NICONICO動畫》、台灣人大合唱（PTT）](https://www.nicovideo.jp/watch/sm746146) - NICONICO動畫（需要註冊帳號）
+  - [中央大學歌謠祭「組曲《NICONICO動畫》」](https://www.nicovideo.jp/watch/sm1323730) - NICONICO動畫（需要註冊帳號）
+  - [NICONICO動畫『裏組曲』(衍生作品之一)](https://www.nicovideo.jp/watch/sm2529813) - NICONICO動畫（需要註冊帳號）
   - [ニコニコ組曲　原曲ver](https://www.youtube.com/watch?v=aR-kTGD5VZc)-組曲《NICONICO動畫》(YouTube)
 
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:2007年音樂](https://zh.wikipedia.org/wiki/Category:2007年音樂 "wikilink")
+[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:2007年音樂](https://zh.wikipedia.org/wiki/Category:2007年音樂 "wikilink")
 
 1.  動画投稿者在NICONICO上的正式名稱即為此名。
 

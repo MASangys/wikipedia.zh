@@ -1,7 +1,4 @@
-本表为**已发行或待发行的[微软](../Page/微软.md "wikilink")[Games for
-Windows游戏列表](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")**，以发行年份和游戏名称音序排列。在“Live联机”列打勾的游戏同时也是[Games
-for Windows -
-Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikilink")，拥有成就等特殊功能。
+本表为**已发行或待发行的[微软](../Page/微软.md "wikilink")[Games for Windows游戏列表](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")**，以发行年份和游戏名称音序排列。在“Live联机”列打勾的游戏同时也是[Games for Windows - Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikilink")，拥有成就等特殊功能。
 
 相关游戏请参见[电子游戏列表](https://zh.wikipedia.org/wiki/电子游戏列表 "wikilink")。
 
@@ -1725,8 +1722,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 
 ## 参见
 
-  - [Games for
-    Windows](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")
+  - [Games for Windows](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")
   - [电子游戏列表](https://zh.wikipedia.org/wiki/电子游戏列表 "wikilink")
   - [支持DirectX 10游戏列表](../Page/支持DirectX_10游戏列表.md "wikilink")
 
@@ -1736,140 +1732,101 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 
   - [Games for Windows官方网站](http://www.gamesforwindows.com/)
 
-[Category:Games_for_Windows认证游戏](https://zh.wikipedia.org/wiki/Category:Games_for_Windows认证游戏 "wikilink")
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
+[Category:Games_for_Windows认证游戏](https://zh.wikipedia.org/wiki/Category:Games_for_Windows认证游戏 "wikilink") [Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
 
-1.  [Age of
-    Empires 3](http://www.gamesforwindows.com/en-US/Games/Pages/AgeofEmpires3.aspx)
+1.  [Age of Empires 3](http://www.gamesforwindows.com/en-US/Games/Pages/AgeofEmpires3.aspx)
 
-2.  [Company Of
-    Heroes](http://www.gamesforwindows.com/en-US/Games/Pages/CompanyOfHeroes.aspx)
+2.  [Company Of Heroes](http://www.gamesforwindows.com/en-US/Games/Pages/CompanyOfHeroes.aspx)
 
-3.  [Lego Star Wars
-    II](http://www.gamesforwindows.com/en-US/Games/Pages/LegoStarWarsII.aspx)
+3.  [Lego Star Wars II](http://www.gamesforwindows.com/en-US/Games/Pages/LegoStarWarsII.aspx)
 
-4.  [Microsoft Flight Simulator
-    X](http://www.gamesforwindows.com/en-US/Games/Pages/MicrosoftFlightSimulatorX.aspx)
+4.  [Microsoft Flight Simulator X](http://www.gamesforwindows.com/en-US/Games/Pages/MicrosoftFlightSimulatorX.aspx)
 
-5.  [Flight Simulator X
-    Standard](http://www.gamesforwindows.com/en-US/Games/Pages/FlightSimulatorXStandard.aspx)
+5.  [Flight Simulator X Standard](http://www.gamesforwindows.com/en-US/Games/Pages/FlightSimulatorXStandard.aspx)
 
-6.  [Zoo
-    Tycoon 2](http://www.gamesforwindows.com/en-US/Games/Pages/ZooTycoon2.aspx)
+6.  [Zoo Tycoon 2](http://www.gamesforwindows.com/en-US/Games/Pages/ZooTycoon2.aspx)
 
-7.  [Zoo Tycoon 2
-    Zookeeper](http://www.gamesforwindows.com/en-US/Games/Pages/ZooTycoon2Zookeeper.aspx)
+7.  [Zoo Tycoon 2 Zookeeper](http://www.gamesforwindows.com/en-US/Games/Pages/ZooTycoon2Zookeeper.aspx)
 
-8.  [Age of Empires III: The Asian
-    Dynasties](http://www.gamesforwindows.com/en-US/Games/Pages/AgeofEmpires3TheAsianDynasties.aspx)
+8.  [Age of Empires III: The Asian Dynasties](http://www.gamesforwindows.com/en-US/Games/Pages/AgeofEmpires3TheAsianDynasties.aspx)
 
-9.  [Bee Movie
-    Game](http://www.gamesforwindows.com/en-US/Games/Pages/BeeMovie.aspx)
+9.  [Bee Movie Game](http://www.gamesforwindows.com/en-US/Games/Pages/BeeMovie.aspx)
 
 10. [BioShock](http://www.gamesforwindows.com/en-US/Games/Pages/Bioshock.aspx)
 
-11. [Games for Windows Delivers New Games, New Publishers and Games for
-    Windows —
-    LIVE](http://www.gamesforwindows.com/en-US/Community/NewsArticles/Pages/GFWE32007.aspx)
+11. [Games for Windows Delivers New Games, New Publishers and Games for Windows — LIVE](http://www.gamesforwindows.com/en-US/Community/NewsArticles/Pages/GFWE32007.aspx)
 
-12. [Clive Barker's Jericho for Windows - Clive Barker's Jericho Windows
-    Game - Clive Barker's Jericho Computer
-    Game](http://www.gamespot.com/pc/adventure/clivebarkersjericho/similar.html?mode=versions&om_act=convert&om_clk=gssummary&tag=summary;versions)
+12. [Clive Barker's Jericho for Windows - Clive Barker's Jericho Windows Game - Clive Barker's Jericho Computer Game](http://www.gamespot.com/pc/adventure/clivebarkersjericho/similar.html?mode=versions&om_act=convert&om_clk=gssummary&tag=summary;versions)
 
 13.
 14. [Crysis](http://www.gamesforwindows.com/en-US/Games/Pages/Crysis.aspx)
 
-15. [Disney?Pixar’s
-    Ratatouille](http://www.gamesforwindows.com/en-US/Games/Pages/Ratatouille.aspx)
+15. [Disney?Pixar’s Ratatouille](http://www.gamesforwindows.com/en-US/Games/Pages/Ratatouille.aspx)
 
-16. [Empire
-    Earth 3](http://www.gamesforwindows.com/en-US/Games/Pages/EmpireEarth3.aspx)
+16. [Empire Earth 3](http://www.gamesforwindows.com/en-US/Games/Pages/EmpireEarth3.aspx)
 
 17.
-18. [Gears of War for
-    Windows](http://www.gamesforwindows.com/en-US/Games/Pages/GearsofWarforWindows.aspx)
+18. [Gears of War for Windows](http://www.gamesforwindows.com/en-US/Games/Pages/GearsofWarforWindows.aspx)
 
-19. [Halo 2 for Windows
-    Vista](http://www.gamesforwindows.com/en-US/Games/Pages/Halo2forWindowsVista.aspx)
+19. [Halo 2 for Windows Vista](http://www.gamesforwindows.com/en-US/Games/Pages/Halo2forWindowsVista.aspx)
 
-20. [Hellgate:
-    London](http://www.gamesforwindows.com/en-US/Games/Pages/HellgateLondon.aspx)
+20. [Hellgate: London](http://www.gamesforwindows.com/en-US/Games/Pages/HellgateLondon.aspx)
 
 21.
 22.
-23. [Lara Croft Tomb Raider:
-    Anniversary](http://www.gamesforwindows.com/en-US/Games/Pages/LaraCroftTombRaiderAnniversary.aspx)
+23. [Lara Croft Tomb Raider: Anniversary](http://www.gamesforwindows.com/en-US/Games/Pages/LaraCroftTombRaiderAnniversary.aspx)
 
-24. [Lost Planet: Extreme
-    Condition](http://www.gamesforwindows.com/en-US/Games/Pages/LostPlanetExtremeCondition.aspx)
+24. [Lost Planet: Extreme Condition](http://www.gamesforwindows.com/en-US/Games/Pages/LostPlanetExtremeCondition.aspx)
 
-25. [“Flight Simulator X: Acceleration”Now
-    Available\!](http://www.fsinsider.com/news/Pages/AccelerationGoesGold.aspx)
+25. [“Flight Simulator X: Acceleration”Now Available\!](http://www.fsinsider.com/news/Pages/AccelerationGoesGold.aspx)
 
+26. [Monster Madness: Battle for Suburbia](http://www.gamesforwindows.com/en-US/Games/Pages/MonsterMadnessBattleforSuburbia.aspx)
 
-26. [Monster Madness: Battle for
-    Suburbia](http://www.gamesforwindows.com/en-US/Games/Pages/MonsterMadnessBattleforSuburbia.aspx)
+27. [My Horse and Me](http://www.gamesforwindows.com/en-US/Games/Pages/myhorseandme.aspx)
 
-27. [My Horse and
-    Me](http://www.gamesforwindows.com/en-US/Games/Pages/myhorseandme.aspx)
-
-28. [Rail
-    Simulator](http://www.gamesforwindows.com/en-US/Games/Pages/RailSimulator.aspx)
+28. [Rail Simulator](http://www.gamesforwindows.com/en-US/Games/Pages/RailSimulator.aspx)
 
 29.
 30. [Shadowrun](http://www.gamesforwindows.com/en-US/Games/Pages/Shadowrun.aspx)
 
-31. [Civilization IV: Beyond the
-    Sword](http://www.gamesforwindows.com/en-US/Games/Pages/CivilizationIVBeyondtheSword.aspx)
+31. [Civilization IV: Beyond the Sword](http://www.gamesforwindows.com/en-US/Games/Pages/CivilizationIVBeyondtheSword.aspx)
 
-32. [2K Announces Sid Meier's Civilization IV: Gold Edition //
-    GamesIndustry.biz](http://www.gamesindustry.biz/content_page.php?aid=26510)
+32. [2K Announces Sid Meier's Civilization IV: Gold Edition // GamesIndustry.biz](http://www.gamesindustry.biz/content_page.php?aid=26510)
 
 33.
 34.
-35. [John Woo Presents
-    Stranglehold](http://www.gamesforwindows.com/en-US/Games/Pages/JohnWooPresentsStranglehold.aspx)
+35. [John Woo Presents Stranglehold](http://www.gamesforwindows.com/en-US/Games/Pages/JohnWooPresentsStranglehold.aspx)
 
-36. [Supreme
-    Commander](http://www.gamesforwindows.com/en-US/Games/Pages/SupremeCommander.aspx)
+36. [Supreme Commander](http://www.gamesforwindows.com/en-US/Games/Pages/SupremeCommander.aspx)
 
-37. [The Lord of the Rings Online: Shadows of
-    Angmar](http://www.gamesforwindows.com/en-US/Games/Pages/LordoftheRingsOnline.aspx)
+37. [The Lord of the Rings Online: Shadows of Angmar](http://www.gamesforwindows.com/en-US/Games/Pages/LordoftheRingsOnline.aspx)
 
 38. [1](http://www.gamesforwindows.com/en-US/Community/NewsArticles/Pages/leipzignews07.aspx)
 
 39.
-40. [Thrillville: Off the
-    Rails](http://www.gamesforwindows.com/en-US/Games/Pages/ThrillvilleOfftheRails.aspx)
+40. [Thrillville: Off the Rails](http://www.gamesforwindows.com/en-US/Games/Pages/ThrillvilleOfftheRails.aspx)
 
-41. [Two
-    Worlds](http://www.gamesforwindows.com/en-US/Games/Pages/twoworlds.aspx)
+41. [Two Worlds](http://www.gamesforwindows.com/en-US/Games/Pages/twoworlds.aspx)
 
 42.
-43. [Viva Pinata for
-    Windows](http://www.gamesforwindows.com/en-US/Games/Pages/VivaPinataforWindows.aspx)
+43. [Viva Pinata for Windows](http://www.gamesforwindows.com/en-US/Games/Pages/VivaPinataforWindows.aspx)
 
-44. [World in
-    Conflict](http://www.gamesforwindows.com/en-US/Games/Pages/WorldinConflict.aspx)
+44. [World in Conflict](http://www.gamesforwindows.com/en-US/Games/Pages/WorldinConflict.aspx)
 
-45. [Zoo Tycoon 2: Extinct
-    Animals](http://www.gamesforwindows.com/en-US/Games/Pages/ZooTycoon2ExtinctAnimals.aspx)
+45. [Zoo Tycoon 2: Extinct Animals](http://www.gamesforwindows.com/en-US/Games/Pages/ZooTycoon2ExtinctAnimals.aspx)
 
-46. [Age of Conan: Hyborian
-    Adventures](http://www.gamesforwindows.com/en-US/Games/Pages/AgeofConanHyborianAdventures.aspx)
+46. [Age of Conan: Hyborian Adventures](http://www.gamesforwindows.com/en-US/Games/Pages/AgeofConanHyborianAdventures.aspx)
 
 47.
 48.
-49. [Deer Hunter
-    Tournament](http://www.gamesforwindows.com/en-US/Games/Pages/deerhuntertournament.aspx)
+49. [Deer Hunter Tournament](http://www.gamesforwindows.com/en-US/Games/Pages/deerhuntertournament.aspx)
 
 50.
 51. [Fallout 3](http://www.gamesforwindows.com/en-US/Games/Pages/Fallout3.aspx)
 
 52.
 
-53. [Frontlines: Fuel of
-    War](http://www.gamesforwindows.com/en-US/Games/Pages/FrontlinesFuelofWar.aspx)
+53. [Frontlines: Fuel of War](http://www.gamesforwindows.com/en-US/Games/Pages/FrontlinesFuelofWar.aspx)
 
 54.
 
@@ -1877,11 +1834,9 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 
 56.
 
-57. [Hour of
-    Victory](http://www.gamesforwindows.com/en-US/Community/NewsArticles/Pages/GFWE32007.aspx)
+57. [Hour of Victory](http://www.gamesforwindows.com/en-US/Community/NewsArticles/Pages/GFWE32007.aspx)
 
-58. [Kung Fu
-    Panda?](http://www.gamesforwindows.com/en-US/Games/Pages/kungfupanda.aspx)
+58. [Kung Fu Panda?](http://www.gamesforwindows.com/en-US/Games/Pages/kungfupanda.aspx)
 
 59. [Legendary](http://www.gamesforwindows.com/en-US/Games/Pages/legendary.aspx)
 
@@ -1897,23 +1852,18 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 66. [Grid](http://www.grid-game.com/index.php#/home/)
 
 67.
-68. [Q\&A: CDV's Kroll On 'Games For Windows'
-    Effectiveness](http://www.gamasutra.com/php-bin/news_index.php?story=18378)
+68. [Q\&A: CDV's Kroll On 'Games For Windows' Effectiveness](http://www.gamasutra.com/php-bin/news_index.php?story=18378)
 
-69. [Spider-Man: Web of
-    Shadows](http://www.gamesforwindows.com/en-US/Games/Pages/webofshadows.aspx)
+69. [Spider-Man: Web of Shadows](http://www.gamesforwindows.com/en-US/Games/Pages/webofshadows.aspx)
 
 70.
-71. [Turning Point: Fall of
-    Liberty](http://www.gamesforwindows.com/en-US/Games/Pages/TurningPointFallofLiberty.aspx)
+71. [Turning Point: Fall of Liberty](http://www.gamesforwindows.com/en-US/Games/Pages/TurningPointFallofLiberty.aspx)
 
-72. [Warhammer: Mark of Chaos - Battle
-    March](http://www.gamesforwindows.com/en-US/Games/Pages/markofchaosbattlemarch.aspx)
+72. [Warhammer: Mark of Chaos - Battle March](http://www.gamesforwindows.com/en-US/Games/Pages/markofchaosbattlemarch.aspx)
 
 73.
 
-74. [Bionic
-    Commando](http://www.gamesforwindows.com/en-US/Games/Pages/bioniccommando.aspx)
+74. [Bionic Commando](http://www.gamesforwindows.com/en-US/Games/Pages/bioniccommando.aspx)
 
 75.
 
@@ -2075,9 +2025,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 
 157.
 
-158. [Codemasters Official US HEI$T game homepage | release date, demo,
-     videos, screenshots, news and
-     offers](http://www.codemasters.com/games/index.php?gameid=2427)
+158. [Codemasters Official US HEI$T game homepage | release date, demo, videos, screenshots, news and offers](http://www.codemasters.com/games/index.php?gameid=2427)
 
 159.
 160.

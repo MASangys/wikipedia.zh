@@ -16,16 +16,13 @@
 
 ### 第一屆
 
-2005年6月8日開始的《絕對Superstar》第一屆賽事，總冠軍陳偉聯加盟「Play Music」
-（華納唱片），推出首张專輯《我只是想要……》。
+2005年6月8日開始的《絕對Superstar》第一屆賽事，總冠軍陳偉聯加盟「Play Music」 （華納唱片），推出首张專輯《我只是想要……》。
 
 女冠軍潘嘉麗加盟「環球音樂」，推出首张專輯《Love Me Kelly》。
 
 男亞軍洪俊揚加盟「環球音樂」；石欣卉與何維健則加盟「Play Music」 （華納唱片）。
 
-在24強淘汰賽中出局的[陳家欣](../Page/泳兒.md "wikilink")，同年回到香港參加了《2005年度[英皇新秀歌唱大賽](https://zh.wikipedia.org/wiki/英皇新秀歌唱大賽 "wikilink")》並奪得亞軍及最佳型格奬，繼而晉身樂壇，加盟[英皇娛樂集團有限公司](https://zh.wikipedia.org/wiki/英皇娛樂集團有限公司 "wikilink")
-[Music Plus](../Page/音樂家唱片.md "wikilink")，取了藝名「泳兒」
-。泳兒出道約三年多時己被眾人譽為新一代「樂壇小天后」，並被視為其同門師姐[容祖兒的接班人](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，可説是《絕對SuperStar》參賽者當中，成績最亮眼的。
+在24強淘汰賽中出局的[陳家欣](../Page/泳兒.md "wikilink")，同年回到香港參加了《2005年度[英皇新秀歌唱大賽](https://zh.wikipedia.org/wiki/英皇新秀歌唱大賽 "wikilink")》並奪得亞軍及最佳型格奬，繼而晉身樂壇，加盟[英皇娛樂集團有限公司](https://zh.wikipedia.org/wiki/英皇娛樂集團有限公司 "wikilink") [Music Plus](../Page/音樂家唱片.md "wikilink")，取了藝名「泳兒」 。泳兒出道約三年多時己被眾人譽為新一代「樂壇小天后」，並被視為其同門師姐[容祖兒的接班人](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")，可説是《絕對SuperStar》參賽者當中，成績最亮眼的。
 
 ### 第二屆
 
@@ -51,11 +48,9 @@
 
   - [新傳媒私人有限公司](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")
 
-  - 《[絕對SuperStar
-    (馬來西亞)](https://zh.wikipedia.org/wiki/絕對SuperStar_\(馬來西亞\) "wikilink")》
+  - 《[絕對SuperStar (馬來西亞)](https://zh.wikipedia.org/wiki/絕對SuperStar_\(馬來西亞\) "wikilink")》
 
-  - [《絕對SuperStar
-    (越南)》](https://zh.wikipedia.org/wiki/:vi:Ngôi_sao_Tiếng_hát_Truyền_hình "wikilink")
+  - [《絕對SuperStar (越南)》](https://zh.wikipedia.org/wiki/:vi:Ngôi_sao_Tiếng_hát_Truyền_hình "wikilink")
 
 ## 外部連結
 
@@ -63,8 +58,6 @@
 
   -
   -
-[Category:新加坡電視節目](https://zh.wikipedia.org/wiki/Category:新加坡電視節目 "wikilink")
-[Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
-[Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
+[Category:新加坡電視節目](https://zh.wikipedia.org/wiki/Category:新加坡電視節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
 
 1.

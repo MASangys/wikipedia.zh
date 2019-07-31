@@ -1,23 +1,16 @@
-第一代的Power Macintosh，包括Power Macintosh 6100/60(av), 6100/66(av),
-7100/66(av), 7100/80(av), 8100/80 (av), 8100/100 (av),
-8100/110等等。使用NuBus界面槽。
+第一代的Power Macintosh，包括Power Macintosh 6100/60(av), 6100/66(av), 7100/66(av), 7100/80(av), 8100/80 (av), 8100/100 (av), 8100/110等等。使用NuBus界面槽。
 
 ## 6100
 
-1994年3月推出，為入門級機種，以Quadra 610的機殼設計，使用PowerPC
-601處理器。主機板內含一個PDS插槽，可由轉接卡轉為NuBus插槽。其視訊記憶體與主記憶體共用以節省成本。加入AV卡可以提升其影像處理能力，或是加上1MB的第二階快取記憶體以增進效能。
-[Power_Mac_6100_60.jpg](https://zh.wikipedia.org/wiki/File:Power_Mac_6100_60.jpg "fig:Power_Mac_6100_60.jpg")
+1994年3月推出，為入門級機種，以Quadra 610的機殼設計，使用PowerPC 601處理器。主機板內含一個PDS插槽，可由轉接卡轉為NuBus插槽。其視訊記憶體與主記憶體共用以節省成本。加入AV卡可以提升其影像處理能力，或是加上1MB的第二階快取記憶體以增進效能。 [Power_Mac_6100_60.jpg](https://zh.wikipedia.org/wiki/File:Power_Mac_6100_60.jpg "fig:Power_Mac_6100_60.jpg")
 
 ## 7100
 
-1994年3月推出，以Quadra 650的機殼設計，使用PowerPC
-601處理器。主機板內含一個PDS插槽，與3個NuBus插槽。其視訊記憶體與主記憶體共用以節省成本。加入AV卡可以使用兩個顯示器，或是提升其影像處理速度。
-[Power_Macintosh_7100_66.jpg](https://zh.wikipedia.org/wiki/File:Power_Macintosh_7100_66.jpg "fig:Power_Macintosh_7100_66.jpg")
+1994年3月推出，以Quadra 650的機殼設計，使用PowerPC 601處理器。主機板內含一個PDS插槽，與3個NuBus插槽。其視訊記憶體與主記憶體共用以節省成本。加入AV卡可以使用兩個顯示器，或是提升其影像處理速度。 [Power_Macintosh_7100_66.jpg](https://zh.wikipedia.org/wiki/File:Power_Macintosh_7100_66.jpg "fig:Power_Macintosh_7100_66.jpg")
 
 ## 8100
 
-1994年3月推出，為入門級機種，以Quadra 800的機殼設計，使用PowerPC
-601處理器。主機板內含一個PDS插槽，與3個NuBus插槽。其視訊記憶體與主記憶體共用以節省成本。加入AV卡可以使用兩個顯示器，或是提升其影像處理速度
+1994年3月推出，為入門級機種，以Quadra 800的機殼設計，使用PowerPC 601處理器。主機板內含一個PDS插槽，與3個NuBus插槽。其視訊記憶體與主記憶體共用以節省成本。加入AV卡可以使用兩個顯示器，或是提升其影像處理速度
 
 [Power-Macintosh-8100-80av.jpg](https://zh.wikipedia.org/wiki/File:Power-Macintosh-8100-80av.jpg "fig:Power-Macintosh-8100-80av.jpg")
 

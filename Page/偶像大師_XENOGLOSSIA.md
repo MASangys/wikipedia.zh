@@ -1,8 +1,6 @@
-《**偶像大師 XENOGLOSSIA**》是[日昇動畫及Bandai](../Page/日昇動畫.md "wikilink")
-Visual由《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》當[原作所改編的動畫](https://zh.wikipedia.org/wiki/原作 "wikilink")，實際上與大型電玩和XBOX360的原作遊戲為完全不同的作品，是一部[機器人動畫](../Page/機器人動畫.md "wikilink")，於2007年4月在[日本放映](../Page/日本.md "wikilink")，於同年9月撥畢。宣傳詞為「（想成為你的iDol）」。
+《**偶像大師 XENOGLOSSIA**》是[日昇動畫](../Page/日昇動畫.md "wikilink")及Bandai Visual由《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》當[原作所改編的動畫](https://zh.wikipedia.org/wiki/原作 "wikilink")，實際上與大型電玩和XBOX360的原作遊戲為完全不同的作品，是一部[機器人動畫](../Page/機器人動畫.md "wikilink")，於2007年4月在[日本](../Page/日本.md "wikilink")放映，於同年9月撥畢。宣傳詞為「（想成為你的iDol）」。
 
-由于是套取遊戲版角色原作进行改編，所以名詞上有很多不同之處。如「iDol」原作遊戲是指「偶像」，本動畫中则是「去除隕石用人形機器人」的通稱。雖然劇情中後半段有出現「idol」和「」兩種意譯的「idol」在使用；而「iDol
-Master」原作遊戲中是指「製作人（Producer，即玩家）」的最高稱號〔偶像大師〕，而本動畫中則是指上面所說的「iDol的操控者（Master）」。角色设定也做出大幅修改，并且没有沿用原有的声优设定。
+由于是套取遊戲版角色原作进行改編，所以名詞上有很多不同之處。如「iDol」原作遊戲是指「偶像」，本動畫中则是「去除隕石用人形機器人」的通稱。雖然劇情中後半段有出現「idol」和「」兩種意譯的「idol」在使用；而「iDol Master」原作遊戲中是指「製作人（Producer，即玩家）」的最高稱號〔偶像大師〕，而本動畫中則是指上面所說的「iDol的操控者（Master）」。角色设定也做出大幅修改，并且没有沿用原有的声优设定。
 
 ## 概要
 
@@ -13,26 +11,22 @@ Master」原作遊戲中是指「製作人（Producer，即玩家）」的最高
 ，[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")「月的兒子」。由[聯合國決議設置的組織](https://zh.wikipedia.org/wiki/聯合國決議 "wikilink")。
 
   -
-    Idol
-    Master，本作的主人公，身高158cm、B83/W56/H80、16歲。以為參加偶像選拔參加了蒙登金特的面試。給IDOL「IMBER」看上而成為MASTER，在蒙登金特成立的歷史中，除了如月千早外，唯一能駕駛IMBER的MASTER。超不擅長理科科目。
+    Idol Master，本作的主人公，身高158cm、B83/W56/H80、16歲。以為參加偶像選拔參加了蒙登金特的面試。給IDOL「IMBER」看上而成為MASTER，在蒙登金特成立的歷史中，除了如月千早外，唯一能駕駛IMBER的MASTER。超不擅長理科科目。
 
   -
     天海春香的管制官，身高158cm、B88/W55/H83、16歲，實際為敵方組織托里亞比塔（トゥリアビータ）派來的間碟，亦是IDOL「NUBILUM」的MASTER之一。
 
   -
-    Idol
-    Master，身高156cm、B77/W54/H79、16歲。原為IDOL「NEBURA」的後補MASTER，因為菊地真被拒絕而成為NEBURA的第三任MASTER，小時候曾與NEBURA有一面之緣。
+    Idol Master，身高156cm、B77/W54/H79、16歲。原為IDOL「NEBURA」的後補MASTER，因為菊地真被拒絕而成為NEBURA的第三任MASTER，小時候曾與NEBURA有一面之緣。
 
   -
-    Idol
-    Master，身高163cm、B78/W56/H76、16歲。為IDOL「NEBURA」的第二任MASTER，不相信IDOL有感情。最後因為只視IDOL為工具而被NEBURA討厭而不能成為MASTER，轉投敵方組織托里亞比塔，成為IDOL「HIEMS」的MASTER。
+    Idol Master，身高163cm、B78/W56/H76、16歲。為IDOL「NEBURA」的第二任MASTER，不相信IDOL有感情。最後因為只視IDOL為工具而被NEBURA討厭而不能成為MASTER，轉投敵方組織托里亞比塔，成為IDOL「HIEMS」的MASTER。
 
   -
     身高148cm、B74/W53/H73、12歲。蒙登金特裏唯一的「調音師」。因為妹妹真美的意外事故而曾經離開蒙登金特。後來因為春香的遊說而再度加入蒙登金特。
 
   -
-    双海亞美的雙胞胎妹妹，IDOL
-    「Tempestas」的MASTER。在IDOL的測試中身受重傷而被Tempestas帶到另一個空間療傷而失踪了一段長時間。
+    双海亞美的雙胞胎妹妹，IDOL 「Tempestas」的MASTER。在IDOL的測試中身受重傷而被Tempestas帶到另一個空間療傷而失踪了一段長時間。
 
   -
     課長。
@@ -133,8 +127,7 @@ Master」原作遊戲中是指「製作人（Producer，即玩家）」的最高
 
 ## 制作人员
 
-  - 原案：[NAMCO](https://zh.wikipedia.org/wiki/NAMCO "wikilink")「THE
-    IDOLM@STER」より
+  - 原案：[NAMCO](https://zh.wikipedia.org/wiki/NAMCO "wikilink")「THE IDOLM@STER」より
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 監督：[長井龍雪](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")
   - 系列构成：[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")
@@ -153,8 +146,7 @@ Master」原作遊戲中是指「製作人（Producer，即玩家）」的最高
   - 音乐制作人：、佐保歌名世
   - 制作人：、轟豊太
   - 企画・制作：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 製作：日昇動畫、[Bandai
-    Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")
+  - 製作：日昇動畫、[Bandai Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")
 
 ## 主題曲
 
@@ -218,31 +210,19 @@ Master」原作遊戲中是指「製作人（Producer，即玩家）」的最高
 
 ## 策划衍生
 
-由[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink") 發行、[SEGA
-Games](https://zh.wikipedia.org/wiki/SEGA "wikilink") 開發營運、B.B.STUDIO
-負責監修及劇情製作的手機遊戲[超級機器人大戰
-X-Ω在](https://zh.wikipedia.org/wiki/超級機器人大戰_X-Ω "wikilink")2015年12月宣布添加该作的天海春香及其所驾驶的IMBER机器人作为游戏角色之一。\[2\]
+由[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink") 發行、[SEGA Games](https://zh.wikipedia.org/wiki/SEGA "wikilink") 開發營運、B.B.STUDIO 負責監修及劇情製作的手機遊戲[超級機器人大戰 X-Ω在](https://zh.wikipedia.org/wiki/超級機器人大戰_X-Ω "wikilink")2015年12月宣布添加该作的天海春香及其所驾驶的IMBER机器人作为游戏角色之一。\[2\]
 
 ## 参考资料
 
 ## 外部連結
 
-  - [アイドルマスター
-    XENOGLOSSIA](http://www.sunrise-inc.co.jp/idolmaster/index.html)
+  - [アイドルマスター XENOGLOSSIA](http://www.sunrise-inc.co.jp/idolmaster/index.html)
 
-  - [THE
-    IDOLM@STER](https://web.archive.org/web/20070509135650/http://www.idolmaster.jp/index.html)
+  - [THE IDOLM@STER](https://web.archive.org/web/20070509135650/http://www.idolmaster.jp/index.html)
 
-  - [@nifty:アイドルマスター
-    XENOGLOSSIA](http://anime.nifty.com/idolmaster/index.htm)
+  - [@nifty:アイドルマスター XENOGLOSSIA](http://anime.nifty.com/idolmaster/index.htm)
 
-[Category:偶像大师系列](https://zh.wikipedia.org/wiki/Category:偶像大师系列 "wikilink")
-[Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
+[Category:偶像大师系列](https://zh.wikipedia.org/wiki/Category:偶像大师系列 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
 
 1.
 2.

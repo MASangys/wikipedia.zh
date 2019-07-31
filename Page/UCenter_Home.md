@@ -1,7 +1,4 @@
-**UCenter
-Home**是一款互联网论坛软件提供商康盛创想旗下的一款[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")（SNS）软件。UCenter
-Home基于[PHP](../Page/PHP.md "wikilink")和[Mysql](https://zh.wikipedia.org/wiki/Mysql "wikilink")。当前最新版本为2.0。据康盛创想的数据，目前使用UCenter
-Home构建的网站超过12万家。
+**UCenter Home**是一款互联网论坛软件提供商康盛创想旗下的一款[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")（SNS）软件。UCenter Home基于[PHP](../Page/PHP.md "wikilink")和[Mysql](https://zh.wikipedia.org/wiki/Mysql "wikilink")。当前最新版本为2.0。据康盛创想的数据，目前使用UCenter Home构建的网站超过12万家。
 
 ## 版本
 
@@ -147,9 +144,7 @@ UCenter Home 1.2
 
 <td>
 
-安裝將更加簡化，對伺服器環境要求更低，絕大多數空間均可以使用UCenter
-Home。代碼全面開放，站長的個性化需求更易實現。周邊插件、模板不斷湧現，產品使用更加靈活多彩。開源會使更多PHP愛好者加入到UCenter
-Home的使用、研究隊伍中來，一起與我們完善UCenter Home。
+安裝將更加簡化，對伺服器環境要求更低，絕大多數空間均可以使用UCenter Home。代碼全面開放，站長的個性化需求更易實現。周邊插件、模板不斷湧現，產品使用更加靈活多彩。開源會使更多PHP愛好者加入到UCenter Home的使用、研究隊伍中來，一起與我們完善UCenter Home。
 
 </td>
 
@@ -289,8 +284,7 @@ Discuz X
 
 <td>
 
-以社區為基礎的專業建站平台，讓論壇（BBS）、個人空間（SNS）、門戶（Portal）、群組（Group）、應用開放平台（Open
-Platform）充分融合於一體，幫助網站實現一站式服務\!
+以社區為基礎的專業建站平台，讓論壇（BBS）、個人空間（SNS）、門戶（Portal）、群組（Group）、應用開放平台（Open Platform）充分融合於一體，幫助網站實現一站式服務\!
 
 </td>
 
@@ -309,9 +303,7 @@ UCenter Home的最低运行要求为
 
 ## Manyou 开放平台
 
-漫游开发平台是由Comsenz公司为应用开发者提供的开放平台。作为 UCenter
-Home使用网站的开放平台应用开发标准（[API](https://zh.wikipedia.org/wiki/API "wikilink")），Manyou将为UCenter
-Home的用户提供各种个性化的互联网应用。
+漫游开发平台是由Comsenz公司为应用开发者提供的开放平台。作为 UCenter Home使用网站的开放平台应用开发标准（[API](https://zh.wikipedia.org/wiki/API "wikilink")），Manyou将为UCenter Home的用户提供各种个性化的互联网应用。
 
 ## 相关产品
 
@@ -323,5 +315,4 @@ Home的用户提供各种个性化的互联网应用。
   - [产品页面](http://www.comsenz.com/products/uchome)
   - [官方论坛](http://www.discuz.net/index.php?gid=141)
 
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:康盛創想](https://zh.wikipedia.org/wiki/Category:康盛創想 "wikilink")
+[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:康盛創想](https://zh.wikipedia.org/wiki/Category:康盛創想 "wikilink")

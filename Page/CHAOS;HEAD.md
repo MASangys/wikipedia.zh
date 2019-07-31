@@ -1,12 +1,6 @@
-[Shibuya_109_Building_Tokyo_January_2006.jpg](https://zh.wikipedia.org/wiki/File:Shibuya_109_Building_Tokyo_January_2006.jpg "fig:Shibuya_109_Building_Tokyo_January_2006.jpg")作為舞台，特別是澀谷交叉口附近一帶\]\]
-[Onomichi_Channel03s3200.jpg](https://zh.wikipedia.org/wiki/File:Onomichi_Channel03s3200.jpg "fig:Onomichi_Channel03s3200.jpg")\]\]
-《**CHAOS;HEAD**》（標誌上寫作**Chäos;HEAd**）是[5pb.原案](../Page/5pb..md "wikilink")、[Nitro+於](../Page/Nitro+.md "wikilink")2008年4月25日发售的[Windows用电脑游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")。為[妄想科學ADV系列的首部作品](https://zh.wikipedia.org/wiki/妄想科學ADV系列 "wikilink")。游戏的类型是“[妄想科学小说](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")”，推荐对象是15岁以上。企劃初期時的公布的遊戲名稱為「」，更早期沒有正式公佈的是「哀SWORD」和「C.O.D.E.」\[1\]。其後發展出[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫等](https://zh.wikipedia.org/wiki/動畫 "wikilink")，並移植遊戲至[Xbox
-360](../Page/Xbox_360.md "wikilink")，標題為「」，2009年2月26日發售，因為折原梢线过于血腥的情节以及画面，被分級為[CERO](https://zh.wikipedia.org/wiki/CERO "wikilink")
-Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以抑制，分级降为D。iOS版为PSP版的移植。
+[Shibuya_109_Building_Tokyo_January_2006.jpg](https://zh.wikipedia.org/wiki/File:Shibuya_109_Building_Tokyo_January_2006.jpg "fig:Shibuya_109_Building_Tokyo_January_2006.jpg")作為舞台，特別是澀谷交叉口附近一帶\]\] [Onomichi_Channel03s3200.jpg](https://zh.wikipedia.org/wiki/File:Onomichi_Channel03s3200.jpg "fig:Onomichi_Channel03s3200.jpg")\]\] 《**CHAOS;HEAD**》（標誌上寫作**Chäos;HEAd**）是[5pb.](../Page/5pb..md "wikilink")原案、[Nitro+](../Page/Nitro+.md "wikilink")於2008年4月25日发售的[Windows用电脑游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")。為[妄想科學ADV系列的首部作品](https://zh.wikipedia.org/wiki/妄想科學ADV系列 "wikilink")。游戏的类型是“[妄想科学小说](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")”，推荐对象是15岁以上。企劃初期時的公布的遊戲名稱為「」，更早期沒有正式公佈的是「哀SWORD」和「C.O.D.E.」\[1\]。其後發展出[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫等](https://zh.wikipedia.org/wiki/動畫 "wikilink")，並移植遊戲至[Xbox 360](../Page/Xbox_360.md "wikilink")，標題為「」，2009年2月26日發售，因為折原梢线过于血腥的情节以及画面，被分級為[CERO](https://zh.wikipedia.org/wiki/CERO "wikilink") Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以抑制，分级降为D。iOS版为PSP版的移植。
 
-2010年3月25日在[Xbox 360平台上推出续作CHAOS](../Page/Xbox_360.md "wikilink");HEAD
-らぶChu☆Chu\!，2011年1月27日CHAOS;HEAD
-らぶChu☆Chu\!经移植后在[PSP平台发售](https://zh.wikipedia.org/wiki/PSP "wikilink")。
+2010年3月25日在[Xbox 360平台上推出续作CHAOS](../Page/Xbox_360.md "wikilink");HEAD らぶChu☆Chu\!，2011年1月27日CHAOS;HEAD らぶChu☆Chu\!经移植后在[PSP平台发售](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
 ## 剧情简介
 
@@ -22,7 +16,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 
   -
     生日：6月21日，身高：170cm，體重：54kg，血型：AB型。
-    本作主人公，对三次元的女性没有兴趣，重度[御宅族](../Page/御宅族.md "wikilink")，使用網名是「」（在後作[ROBOTICS;NOTES有再度出現過](../Page/ROBOTICS;NOTES.md "wikilink")）。一星期只維持上學最低要求的2.5天，大部分時間都在家中看[動畫和玩](https://zh.wikipedia.org/wiki/動畫 "wikilink")[網絡遊戲](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")。不擅和網絡外的人溝通，特別是女性。頭腦聰明，學校測驗經常獲得高分數。不是和家人同居，住在澀谷區[神泉町](../Page/神泉町.md "wikilink")，父親管理的大厦KURENAI的頂樓中的一個鐵皮箱中。從小就覺得有種「神的視線」在望著他，拓巳在這時多會說「」，但從來沒有向其他人說過，只在年幼時的作文提及過有關字句，而該作文的背面莫名的畫了奇怪機器（實為Noah2的造型）的塗鴉與不明公式「fun^10xint^40=Ir2」。
+    本作主人公，对三次元的女性没有兴趣，重度[御宅族](../Page/御宅族.md "wikilink")，使用網名是「」（在後作[ROBOTICS;NOTES](../Page/ROBOTICS;NOTES.md "wikilink")有再度出現過）。一星期只維持上學最低要求的2.5天，大部分時間都在家中看[動畫和玩](https://zh.wikipedia.org/wiki/動畫 "wikilink")[網絡遊戲](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")。不擅和網絡外的人溝通，特別是女性。頭腦聰明，學校測驗經常獲得高分數。不是和家人同居，住在澀谷區[神泉町](../Page/神泉町.md "wikilink")，父親管理的大厦KURENAI的頂樓中的一個鐵皮箱中。從小就覺得有種「神的視線」在望著他，拓巳在這時多會說「」，但從來沒有向其他人說過，只在年幼時的作文提及過有關字句，而該作文的背面莫名的畫了奇怪機器（實為Noah2的造型）的塗鴉與不明公式「fun^10xint^40=Ir2」。
     實際上這個拓巳是被將軍（拓巳本體）妄想出來的人物，在一年半前被創造出來，代替真的西條拓巳在外生活，其過去的記憶皆是繼承將軍。由於本身是妄想的存在，所以可以讓物理攻擊無效化，且擁有將軍大半的力量，甚至可窺測他人思維。將軍創造這個妄想拓巳的目的主要是讓他可以替自己破壞即將運作的**Noah2**，同時也是替已病入膏肓的自己製造活下去的未來。最後妄想拓巳將**Noah2**成功破壞後被將軍託付所有的記憶與力量，成了真的西條拓巳。
 
 <!-- end list -->
@@ -81,15 +75,13 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 <!-- end list -->
 
   -
-    警視庁刑事部捜査一課所属。警部補。說話表面看來不認真。調查**新世代的瘋狂**事件的過程中逐漸察覺到**希望Technology
-    Group公司**的陰謀與**giga-lo-maniac**的存在，但還沒發現Noah2就先被諏訪開槍暗殺。
+    警視庁刑事部捜査一課所属。警部補。說話表面看來不認真。調查**新世代的瘋狂**事件的過程中逐漸察覺到**希望Technology Group公司**的陰謀與**giga-lo-maniac**的存在，但還沒發現Noah2就先被諏訪開槍暗殺。
 
 <!-- end list -->
 
   -
     警視庁刑事部捜査一課所属。巡査部長。非常喜歡[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，特別是《》。
-    實際上是**希望Technology
-    Group公司**派來的內奸，觀察警方是否察覺到他們的計謀。是**新世代的瘋狂**事件的真凶之一。最終在執行捕獲西條拓巳的過程中被拓巳以反粒子干涉妄想而打敗。
+    實際上是**希望Technology Group公司**派來的內奸，觀察警方是否察覺到他們的計謀。是**新世代的瘋狂**事件的真凶之一。最終在執行捕獲西條拓巳的過程中被拓巳以反粒子干涉妄想而打敗。
 
 <!-- end list -->
 
@@ -111,14 +103,12 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 
   -
     露宿者，經常拿著寫有不明意思語句的紙板躺在街上。
-    曾是**希望Technology
-    Group公司**開發**Noah2**的研究員，也是蒼井瀨名的生父。因**Noah2**的開發過程使自己的妻女都被野呂瀨社長強迫成試驗品又無能阻止而大感慚愧。最終在諏訪追殺瀨名的過程中替她擋子彈而亡。
+    曾是**希望Technology Group公司**開發**Noah2**的研究員，也是蒼井瀨名的生父。因**Noah2**的開發過程使自己的妻女都被野呂瀨社長強迫成試驗品又無能阻止而大感慚愧。最終在諏訪追殺瀨名的過程中替她擋子彈而亡。
 
 <!-- end list -->
 
   -
-    **希望Technology
-    Group公司**（NOZOMI）的社長。**Noah2**開發計劃的主謀，可以為目標而不擇手段犧牲必要的人。察覺到人類的欲望將最終自取滅亡的危機，才會想藉由**Noah2**的力量改寫所有人的人格，但另一個角度來想也是讓自己成為神的存在。
+    **希望Technology Group公司**（NOZOMI）的社長。**Noah2**開發計劃的主謀，可以為目標而不擇手段犧牲必要的人。察覺到人類的欲望將最終自取滅亡的危機，才會想藉由**Noah2**的力量改寫所有人的人格，但另一個角度來想也是讓自己成為神的存在。
 
 <!-- end list -->
 
@@ -133,7 +123,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 ## 用語及設定
 
   -
-    簡稱「」，又或再簡稱「乳毛」。指2008年9月7日以來在澀谷發生的連串極奇血腥的殺人事件。9月7日是五人高中生集體跳樓，網上有人認為是被謀殺。9月19日是一男性被剖開腹部並被放入懷孕32週的嬰兒。9月29日是一大學教授被施[十字架刑](../Page/十字架.md "wikilink")。其後仍然不斷發生新事件。
+    簡稱「」，又或再簡稱「乳毛」。指2008年9月7日以來在澀谷發生的連串極奇血腥的殺人事件。9月7日是五人高中生集體跳樓，網上有人認為是被謀殺。9月19日是一男性被剖開腹部並被放入懷孕32週的嬰兒。9月29日是一大學教授被施[十字架](../Page/十字架.md "wikilink")刑。其後仍然不斷發生新事件。
   - 妄想
     在腦中浮現的想法。
   -
@@ -144,8 +134,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
   -
     來自狄拉克之海、把妄想變成現實的捷徑，只有giga-lo-maniac看到的時候是發出藍光的劍，Real boot後會再發出紅光。
   -
-    將giga-lo-maniac利用公式「fun^10xint^40=Ir2」具現化的機器，由希望Technology
-    Group公司與天成神光會和明和黨聯手測試研發。由一台主機進行運算，再由終端機「Porter」釋放[電磁波改寫讓周圍的人認知](https://zh.wikipedia.org/wiki/電磁波 "wikilink")，可說是人造的giga-lo-maniac。擁有自我保護能力，只有野呂瀨玄一能接近並破壞主機。其設計似乎是[永動機](https://zh.wikipedia.org/wiki/永動機 "wikilink")，因此無法破壞以外的方式停止運作。
+    將giga-lo-maniac利用公式「fun^10xint^40=Ir2」具現化的機器，由希望Technology Group公司與天成神光會和明和黨聯手測試研發。由一台主機進行運算，再由終端機「Porter」釋放[電磁波改寫讓周圍的人認知](https://zh.wikipedia.org/wiki/電磁波 "wikilink")，可說是人造的giga-lo-maniac。擁有自我保護能力，只有野呂瀨玄一能接近並破壞主機。其設計似乎是[永動機](https://zh.wikipedia.org/wiki/永動機 "wikilink")，因此無法破壞以外的方式停止運作。
 
 ## 音樂
 
@@ -205,8 +194,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
   - 人物原案：
   - 人物設定：[島村秀一](https://zh.wikipedia.org/wiki/島村秀一 "wikilink")
   - 音響監督：中嶋聰彥
-  - 音響制作：[Techno
-    Sound](https://zh.wikipedia.org/wiki/Techno_Sound "wikilink")
+  - 音響制作：[Techno Sound](https://zh.wikipedia.org/wiki/Techno_Sound "wikilink")
   - 音樂：[tOkyO](https://zh.wikipedia.org/wiki/tOkyO "wikilink")
   - 動畫製作：[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")
   - 製作：CHAOS;HEAD製作委員會
@@ -414,25 +402,20 @@ KWON YONG SANG</p></td>
   - Chaos;HEAd
     於2008年5月21日開始於《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》2008年7月號連載，作畫。
   - CHAOS;HEAD～BLUE COMPLEX～
-    於2008年9月26日開始於《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》2008年11月號連載，[沙垣長子作畫](https://zh.wikipedia.org/wiki/沙垣長子 "wikilink")。
+    於2008年9月26日開始於《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2008年11月號連載，[沙垣長子作畫](https://zh.wikipedia.org/wiki/沙垣長子 "wikilink")。
   -
-    於2008年9月27日開始於《[月刊Comic
-    Rush](https://zh.wikipedia.org/wiki/月刊Comic_Rush "wikilink")》2008年11月號連載，作畫。故事並非基於原作，而是愛情喜劇。
+    於2008年9月27日開始於《[月刊Comic Rush](https://zh.wikipedia.org/wiki/月刊Comic_Rush "wikilink")》2008年11月號連載，作畫。故事並非基於原作，而是愛情喜劇。
 
 ## 廣播
 
-「Chaos;HEAd廣播
-妄想電波局」從2008年3月28日至5月30日由[音泉發放](../Page/音泉.md "wikilink")，逢星期五更新，共10回，由[吉野裕行](../Page/吉野裕行.md "wikilink")、[喜多村英梨主持](../Page/喜多村英梨.md "wikilink")。
+「Chaos;HEAd廣播 妄想電波局」從2008年3月28日至5月30日由[音泉](../Page/音泉.md "wikilink")發放，逢星期五更新，共10回，由[吉野裕行](../Page/吉野裕行.md "wikilink")、[喜多村英梨](../Page/喜多村英梨.md "wikilink")主持。
 
 ## 小說
 
   - Blood Tune THE NOVELIZATION
-    2008年11月5日發售的衍生小說《Blood Tune THE
-    NOVELIZATION》，[絲井健一著](https://zh.wikipedia.org/wiki/絲井健一 "wikilink")，插畫，出版。
+    2008年11月5日發售的衍生小說《Blood Tune THE NOVELIZATION》，[絲井健一著](https://zh.wikipedia.org/wiki/絲井健一 "wikilink")，插畫，出版。
   -
-    2008年12月發售的小說《》，絲井健一著，[小形聖史插畫](https://zh.wikipedia.org/wiki/小形聖史 "wikilink")，出版，ISBN
-    978-4-434-12310-8。
+    2008年12月發售的小說《》，絲井健一著，[小形聖史插畫](https://zh.wikipedia.org/wiki/小形聖史 "wikilink")，出版，ISBN 978-4-434-12310-8。
 
 ## 关联条目
 
@@ -456,30 +439,9 @@ KWON YONG SANG</p></td>
   - [動畫官方網站](https://web.archive.org/web/20080727001528/http://www.chaoshead.jp/)
   - [Xbox 360版官方網站](http://5pb.jp/games/chaoshead/)（年龄认证 需18岁以上）
   - [Nitro+](https://web.archive.org/web/20090110114236/http://www.nitroplus.co.jp/pc/)
-  - [CHAOS;HEAD廣播
-    妄想電波局](https://web.archive.org/web/20080517050927/http://www.onsen.ag/popup/mousou/index.html)
+  - [CHAOS;HEAD廣播 妄想電波局](https://web.archive.org/web/20080517050927/http://www.onsen.ag/popup/mousou/index.html)
   - [音泉](http://www.onsen.ag/)
 
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink")
-[Category:恐怖動畫](https://zh.wikipedia.org/wiki/Category:恐怖動畫 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink")
-[Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")
-[Category:陰謀論題材作品](https://zh.wikipedia.org/wiki/Category:陰謀論題材作品 "wikilink")
-[Category:網路題材作品](https://zh.wikipedia.org/wiki/Category:網路題材作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink")
-[Category:澀谷背景作品](https://zh.wikipedia.org/wiki/Category:澀谷背景作品 "wikilink")
-[Category:科學ADV系列](https://zh.wikipedia.org/wiki/Category:科學ADV系列 "wikilink")
-[Category:隱蔽青年題材作品](https://zh.wikipedia.org/wiki/Category:隱蔽青年題材作品 "wikilink")
-[Category:IPad遊戲](https://zh.wikipedia.org/wiki/Category:IPad遊戲 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
+[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink") [Category:恐怖動畫](https://zh.wikipedia.org/wiki/Category:恐怖動畫 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink") [Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink") [Category:陰謀論題材作品](https://zh.wikipedia.org/wiki/Category:陰謀論題材作品 "wikilink") [Category:網路題材作品](https://zh.wikipedia.org/wiki/Category:網路題材作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:澀谷背景作品](https://zh.wikipedia.org/wiki/Category:澀谷背景作品 "wikilink") [Category:科學ADV系列](https://zh.wikipedia.org/wiki/Category:科學ADV系列 "wikilink") [Category:隱蔽青年題材作品](https://zh.wikipedia.org/wiki/Category:隱蔽青年題材作品 "wikilink") [Category:IPad遊戲](https://zh.wikipedia.org/wiki/Category:IPad遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-**《Read
-Me》**是[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2009年的廣東專輯，於2009年10月16日推出，收錄6首歌曲，當中有兩首國語歌是改編自其廣東歌。專輯內派台歌有《叮叮車》、《微笑殺人事件》、《慕容雪》和《噗噗跳》。特別一提，這專輯以CD+DVD特別版形式限量發售，首批售完後沒有再加印平裝版，因此現時市面上已絕跡。
+**《Read Me》**是[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2009年的廣東專輯，於2009年10月16日推出，收錄6首歌曲，當中有兩首國語歌是改編自其廣東歌。專輯內派台歌有《叮叮車》、《微笑殺人事件》、《慕容雪》和《噗噗跳》。特別一提，這專輯以CD+DVD特別版形式限量發售，首批售完後沒有再加印平裝版，因此現時市面上已絕跡。
 
 ## 曲目
 
@@ -31,5 +30,4 @@ Me》**是[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2009年
   - 《蘇州河》－《慕容雪》國語版
   - 《最近我愛上了Lily Allen》－《微笑殺人事件》國語版
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")

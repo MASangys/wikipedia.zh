@@ -1,10 +1,8 @@
-**Tomorrow**是日本[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的第15張單曲，由[KING
-RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2008年12月17日發行，商品編號為KICM-1259（普通版）／KICM-91259（初回限定版）。
+**Tomorrow**是日本[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的第15張單曲，由[KING RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2008年12月17日發行，商品編號為KICM-1259（普通版）／KICM-91259（初回限定版）。
 
 ## 概要
 
-  - 這張單曲和[Princess
-    Rose是田村由香里截至](../Page/Princess_Rose.md "wikilink")2009年4月在Oricon排行榜排行最高的單曲（最高排行第6位）。
+  - 這張單曲和[Princess Rose是田村由香里截至](../Page/Princess_Rose.md "wikilink")2009年4月在Oricon排行榜排行最高的單曲（最高排行第6位）。
   - 唱片包裝有兩個版本：初回限定版是田村穿上白色的裙子的照片，普通版則是穿上黑色的裙子的照片。
   - 初回限定版附送載有主打歌曲Tomorrow的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")完全版和拍攝花絮。
 
@@ -32,6 +30,4 @@ RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2008年12月17
 
 </div>
 
-[Category:田村由香里單曲](https://zh.wikipedia.org/wiki/Category:田村由香里單曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")
+[Category:田村由香里單曲](https://zh.wikipedia.org/wiki/Category:田村由香里單曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")

@@ -13,9 +13,7 @@
 
 ## 外部連結
 
-  - [The KColorEdit
-    Handbook](http://docs.kde.org/development/en/extragear-graphics/kcoloredit/index.html)
-  - [KDE Guidelines about Colors and
-    Palettes](https://web.archive.org/web/20070612231847/http://wiki.kde.org/tiki-index.php?page=Colors)
+  - [The KColorEdit Handbook](http://docs.kde.org/development/en/extragear-graphics/kcoloredit/index.html)
+  - [KDE Guidelines about Colors and Palettes](https://web.archive.org/web/20070612231847/http://wiki.kde.org/tiki-index.php?page=Colors)
 
 [Category:KDE_Extragear](https://zh.wikipedia.org/wiki/Category:KDE_Extragear "wikilink")

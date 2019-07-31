@@ -4,13 +4,9 @@
 
 [2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg](https://zh.wikipedia.org/wiki/File:2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg "fig:2008_Nike+_Human_Race_Training_Run_in_Tamshui,_Taipei.jpg")的[淡水漁人碼頭](../Page/淡水漁人碼頭.md "wikilink")進行。\]\]
 
-  - 跑步训练营：與-{[Nike Run
-    Taipei](../Page/Nike_Run_Taipei.md "wikilink")}-、ING Running
-    Club近似之賽前暖身活動，由資深慢跑教練或選手，在比賽前，不定期進行團隊集體訓練\[3\]，部份城市會依照氣候差異，提前於清晨或延後於夜間舉辦，台北站更追加了預習跑的場次\[4\]，讓參賽者藉以模擬比賽當日的實戰。
-  - 大會主題曲：適逢比賽時間與北京奧運同月份，且銜接而後進行，當地知名雙人組合[羽·泉](../Page/羽·泉.md "wikilink")，特別為本次活動寫了主題曲「動力之歌」（Power
-    Song），並在一兆韋德健身會所的一場訓練活動中，正式公開此一單曲\[5\]，也讓中國上海站，成為唯一有設置大會主題曲的分站。
-  - 晶片計時系統：除了-{Nike+}-原本就已經有專為跑者設計的-{Nike+ SportKit}-與-{Nike+
-    SportBand}-兩種計時設備\[6\]，為了要維持比賽的公正性，加上成績資訊與全球網站同步的關係，所有的分站全部都採用[冠軍晶片進行比賽的計時](https://zh.wikipedia.org/wiki/冠軍晶片 "wikilink")\[7\]。
+  - 跑步训练营：與-{[Nike Run Taipei](../Page/Nike_Run_Taipei.md "wikilink")}-、ING Running Club近似之賽前暖身活動，由資深慢跑教練或選手，在比賽前，不定期進行團隊集體訓練\[3\]，部份城市會依照氣候差異，提前於清晨或延後於夜間舉辦，台北站更追加了預習跑的場次\[4\]，讓參賽者藉以模擬比賽當日的實戰。
+  - 大會主題曲：適逢比賽時間與北京奧運同月份，且銜接而後進行，當地知名雙人組合[羽·泉](../Page/羽·泉.md "wikilink")，特別為本次活動寫了主題曲「動力之歌」（Power Song），並在一兆韋德健身會所的一場訓練活動中，正式公開此一單曲\[5\]，也讓中國上海站，成為唯一有設置大會主題曲的分站。
+  - 晶片計時系統：除了-{Nike+}-原本就已經有專為跑者設計的-{Nike+ SportKit}-與-{Nike+ SportBand}-兩種計時設備\[6\]，為了要維持比賽的公正性，加上成績資訊與全球網站同步的關係，所有的分站全部都採用[冠軍晶片進行比賽的計時](https://zh.wikipedia.org/wiki/冠軍晶片 "wikilink")\[7\]。
   - 賽後演唱會：路跑賽系列活動的重心，絕大多數是在戶外進行，主要邀請當地知名樂團或歌手現場表演。在台灣[台北市的演唱會活動](https://zh.wikipedia.org/wiki/台北市 "wikilink")，則冠上「晨曦」一詞\[8\]。
 
 ## 參與城市與各站冠軍一覽
@@ -301,8 +297,7 @@
 
   - [活動官方網站](http://nikeplus.nike.com/nikeplus/humanrace/map.jsp)
 
-[Category:耐克](https://zh.wikipedia.org/wiki/Category:耐克 "wikilink")
-[Category:田徑](https://zh.wikipedia.org/wiki/Category:田徑 "wikilink")
+[Category:耐克](https://zh.wikipedia.org/wiki/Category:耐克 "wikilink") [Category:田徑](https://zh.wikipedia.org/wiki/Category:田徑 "wikilink")
 
 1.
 2.

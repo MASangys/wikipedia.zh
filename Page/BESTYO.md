@@ -1,10 +1,9 @@
-**BESTYO**是[一青窈的第一張精選輯](../Page/一青窈.md "wikilink")。2006年11月29日發行。共收錄16首歌曲。
+**BESTYO**是[一青窈](../Page/一青窈.md "wikilink")的第一張精選輯。2006年11月29日發行。共收錄16首歌曲。
 
 ## 說明
 
   - 字面上看起來應該是要唸「best-yo」，不過正確唸法是「bes-tyo」。
-  - 為了慶祝『BESTYO』的銷售成績亮眼，唱片公司在2007年4月18日發行了收錄「BESTYO Free
-    CONCERTYO」演唱會內容的CD+DVD限量版
+  - 為了慶祝『BESTYO』的銷售成績亮眼，唱片公司在2007年4月18日發行了收錄「BESTYO Free CONCERTYO」演唱會內容的CD+DVD限量版
 
 ## 收錄歌曲
 
@@ -13,12 +12,11 @@
 1.  **花水木** - 5:21（ハナミズキ）
       - 作曲：／編曲：
       - 各自收錄在第五張單曲『花水木』以及第二張專輯『一青想』。
-      - 詳情請參照[花水木
-        (一青窈)](https://zh.wikipedia.org/wiki/花水木_\(一青窈\) "wikilink")。
+      - 詳情請參照[花水木 (一青窈)](https://zh.wikipedia.org/wiki/花水木_\(一青窈\) "wikilink")。
 2.  **翡翠** - 4:39
       - 作曲・編曲：武部聰志
       - 收錄於首張單曲『陪哭』。
-      - 曲名是來自一青窈的父親送給母親的[翡翠耳環](../Page/翡翠.md "wikilink")。
+      - 曲名是來自一青窈的父親送給母親的[翡翠](../Page/翡翠.md "wikilink")耳環。
       - 雖然專輯都未收錄，不過是演唱會都會唱的歌曲。
 3.  **陪哭** - 4:41（もらい泣き）
       - 作曲：武部聡志、増子達郎、[溝渕大智](https://zh.wikipedia.org/wiki/溝渕大智 "wikilink")／編曲：武部聡志
@@ -41,9 +39,8 @@
 7.  **高興的事** - 4:26（うれしいこと。）
       - 作曲・編曲：武部聡志
       - 收錄於第六張單曲『踏影子』及第三張專輯『&』。
-      - 日本[博士倫](https://zh.wikipedia.org/wiki/博士倫 "wikilink")[隱形眼鏡藥水廣告曲](../Page/隱形眼鏡.md "wikilink")
-8.  **江戶[波爾卡](https://zh.wikipedia.org/wiki/波爾卡 "wikilink")** -
-    3:30（江戸ポルカ）
+      - 日本[博士倫](https://zh.wikipedia.org/wiki/博士倫 "wikilink")[隱形眼鏡](../Page/隱形眼鏡.md "wikilink")藥水廣告曲
+8.  **江戶[波爾卡](https://zh.wikipedia.org/wiki/波爾卡 "wikilink")** - 3:30（江戸ポルカ）
       - 作曲・編曲：武部聡志
       - 收錄於第四張單曲及第二張專輯『一青想』。
       - 2003東京國際奇幻影展大會主題曲
@@ -52,14 +49,13 @@
 9.  **大家** - 4:49
       - 作曲：増子達郎／編曲：武部聡志
       - 收錄於第二張單曲及第二張專輯『一青想』。
-      - 電影『風を聴く～台湾・[九份物語](../Page/九份.md "wikilink")～』插曲。
+      - 電影『風を聴く～台湾・[九份](../Page/九份.md "wikilink")物語～』插曲。
       - 送給過世父親的歌。歌詞中的讀賣樂園是和父親有共同回憶的地方、也是「BESTYO Free CONCERTYO」的概念之一。
 10. **再見謝謝** - 5:43（さよならありがと）
       - 作曲・編曲：武部聡志
       - 收錄在第三張專輯『&』。
       - MISAWA HOMES「CENTURY」廣告曲。
-      - 演唱會「Yo\&U Tour
-        '06」表演時，曾送給全體觀眾歌詞中的[梔子花苗](https://zh.wikipedia.org/wiki/梔子花 "wikilink")。
+      - 演唱會「Yo\&U Tour '06」表演時，曾送給全體觀眾歌詞中的[梔子花苗](https://zh.wikipedia.org/wiki/梔子花 "wikilink")。
 11. **打勾勾** - 5:23（指切り）
       - 作曲・編曲：[小林武史](../Page/小林武史.md "wikilink")
       - 收錄在第八張單曲及第三張專輯『&』。
@@ -73,7 +69,7 @@
       - 日本東寶電影「蟬時雨」形象曲
       - 2005年日本唱片大獎・作詩獎。
       - 2005年日本有線大獎・優秀獎。
-      - [新加坡歌手](../Page/新加坡.md "wikilink")[蔡淳佳曾用中文翻唱此曲](../Page/蔡淳佳.md "wikilink")，歌名為『等一個晴天』。
+      - [新加坡](../Page/新加坡.md "wikilink")歌手[蔡淳佳](../Page/蔡淳佳.md "wikilink")曾用中文翻唱此曲，歌名為『等一個晴天』。
 14. **撈金魚** - 4:27（金魚すくい）
       - 作曲・編曲：富田素弘
       - 收錄於第三張單曲及第二張專輯『一青想』。
@@ -118,8 +114,7 @@
   - [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")：坂田学
   - [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")： 種子田健
   - [吉他](../Page/吉他.md "wikilink")： 西川進
-  - [鋼琴及](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")[總監](https://zh.wikipedia.org/wiki/總監 "wikilink")：
-    武部聰志
+  - [鋼琴及](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")[總監](https://zh.wikipedia.org/wiki/總監 "wikilink")： 武部聰志
 
 ## 關係項目
 

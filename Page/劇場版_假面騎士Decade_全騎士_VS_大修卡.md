@@ -1,5 +1,4 @@
-《**劇場版 假面騎士Decade 全騎士 VS
-大修卡**》（）為日本特攝節目《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》的劇場版，2009年8月8日公映。此故事仍以穿越時空為電影主軸，歷代昭和到平成25位假面騎士會在此作內登場，成為本電影賣點。
+《**劇場版 假面騎士Decade 全騎士 VS 大修卡**》（）為日本特攝節目《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》的劇場版，2009年8月8日公映。此故事仍以穿越時空為電影主軸，歷代昭和到平成25位假面騎士會在此作內登場，成為本電影賣點。
 
 ## 登場角色
 
@@ -8,16 +7,12 @@
 **門矢 小夜** （[荒井 萌](https://zh.wikipedia.org/wiki/荒井_萌 "wikilink") 飾）
 
   -
-    門矢 士的妹妹。持有Stone Of Earth，並利用Stone Of Earth把**Kuuga**改造成**Rising
-    Ultimate Form**，使其失控並攻擊士。但最後小夜覺醒過來，毀滅了Stone Of
-    Earth，於劇場版的最後，開始了屬於自己的旅程。
+    門矢 士的妹妹。持有Stone Of Earth，並利用Stone Of Earth把**Kuuga**改造成**Rising Ultimate Form**，使其失控並攻擊士。但最後小夜覺醒過來，毀滅了Stone Of Earth，於劇場版的最後，開始了屬於自己的旅程。
 
 **月影 信彥** （[大浦龍宇一](https://zh.wikipedia.org/wiki/大浦龍宇一 "wikilink") 飾）
 
   -
-    **Shadow Moon** 的變身者。門矢兄妹的管家，持有Stone Of Moon，曾驅逐門矢
-    士並取代成為大修卡的首領，最後被**假面騎士W**及眾騎士的Rider
-    Kick所擊敗。
+    **Shadow Moon** 的變身者。門矢兄妹的管家，持有Stone Of Moon，曾驅逐門矢 士並取代成為大修卡的首領，最後被**假面騎士W**及眾騎士的Rider Kick所擊敗。
     原作為南光太郎的朋友，雖曾經於Black中覺醒，但於RX後復活成為典型惡役騎士活躍於各作品中。
 
 **津上 翔一** （[賀集利樹](../Page/賀集利樹.md "wikilink") 飾）
@@ -52,8 +47,7 @@
 **King Dark**
 
   -
-    G.O.D的首領及大修卡的巨型機械人，最後被巨大化的**假面騎士J**，以**Jumbo Decade Complete
-    Form**擊倒。
+    G.O.D的首領及大修卡的巨型機械人，最後被巨大化的**假面騎士J**，以**Jumbo Decade Complete Form**擊倒。
 
 **黑戰鬥員**
 
@@ -110,8 +104,4 @@
 
   - [假面骑士劇場版](http://www.tv-asahi.co.jp/decade/)
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:2009年电影](https://zh.wikipedia.org/wiki/Category:2009年电影 "wikilink")
-[Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")
-[Category:平行世界題材電影](https://zh.wikipedia.org/wiki/Category:平行世界題材電影 "wikilink")
-[Category:金田治電影](https://zh.wikipedia.org/wiki/Category:金田治電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:2009年电影](https://zh.wikipedia.org/wiki/Category:2009年电影 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:平行世界題材電影](https://zh.wikipedia.org/wiki/Category:平行世界題材電影 "wikilink") [Category:金田治電影](https://zh.wikipedia.org/wiki/Category:金田治電影 "wikilink")

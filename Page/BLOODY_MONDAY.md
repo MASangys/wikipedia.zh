@@ -1,8 +1,6 @@
-《**BLOODY
-MONDAY**》是[龍門諒原作](https://zh.wikipedia.org/wiki/亞樹直 "wikilink")、[惠廣史](../Page/惠廣史.md "wikilink")作畫的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。第一部於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2007年17號開始連載，2009年19號結束，第二部「絕望之匣」（台港版另譯為「潘朵拉-{}-之盒」，新加坡版則是直譯）於2009年秋開始連載。中文版代理部分，台港由[東立出版社](../Page/東立出版社.md "wikilink")在《[新少年快報](../Page/新少年快報.md "wikilink")》連載，新加坡則是[創藝出版社](../Page/創藝出版社.md "wikilink")發行。第三部「最終時刻」於2011年7月開始連載。
+《**BLOODY MONDAY**》是[龍門諒原作](https://zh.wikipedia.org/wiki/亞樹直 "wikilink")、[惠廣史](../Page/惠廣史.md "wikilink")作畫的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。第一部於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2007年17號開始連載，2009年19號結束，第二部「絕望之匣」（台港版另譯為「潘朵拉-{}-之盒」，新加坡版則是直譯）於2009年秋開始連載。中文版代理部分，台港由[東立出版社](../Page/東立出版社.md "wikilink")在《[新少年快報](../Page/新少年快報.md "wikilink")》連載，新加坡則是[創藝出版社](../Page/創藝出版社.md "wikilink")發行。第三部「最終時刻」於2011年7月開始連載。
 
-2008年10月由[TBS電視台](../Page/TBS電視台.md "wikilink")改編為[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")播出，並譯為《**天才駭客F**》。2010年1月播出第二部《**天才駭客F
-2**》。
+2008年10月由[TBS電視台](../Page/TBS電視台.md "wikilink")改編為[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")播出，並譯為《**天才駭客F**》。2010年1月播出第二部《**天才駭客F 2**》。
 
 ## BLOODY MONDAY
 
@@ -12,8 +10,7 @@ MONDAY**》是[龍門諒原作](https://zh.wikipedia.org/wiki/亞樹直 "wikilin
 
 高木藤丸外表看起來是個普通的少年，但是暗地裡是個天才[駭客](https://zh.wikipedia.org/wiki/駭客 "wikilink")「獵鷹」，現在幫助父親所屬的「THIRD-i」工作。
 
-恐怖主義者折原麻耶的目的是病毒的感染爆發計畫「BLOODY
-MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組織「THIRD-i」的監視、以及「聖誕節屠殺」檔案回收。到底，獵鷹高木藤丸能否利用駭客技術拯救日本\!?
+恐怖主義者折原麻耶的目的是病毒的感染爆發計畫「BLOODY MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組織「THIRD-i」的監視、以及「聖誕節屠殺」檔案回收。到底，獵鷹高木藤丸能否利用駭客技術拯救日本\!?
 
 ### 登場角色
 
@@ -535,8 +532,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 ### 其他書籍
 
   - BLOODY MONDAY Ver.0（2009年5月15日發行、ISBN 978-4-06-375713-2）
-  - BLOODY MONDAY 獵鷹的Computer Hacking（2009年12月17日發行、ISBN
-    978-4-06-375847-4）
+  - BLOODY MONDAY 獵鷹的Computer Hacking（2009年12月17日發行、ISBN 978-4-06-375847-4）
   - BLOODY MONDAY 獵鷹的Mobile Hacking（2011年1月17日發行、ISBN 978-4-06-376014-9）
 
 ## 電視劇
@@ -918,27 +914,14 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 
 ## 外部連結
 
-  - [週刊少年Magazine - BLOODY
-    MONDAY](https://web.archive.org/web/20081027201406/http://www.shonenmagazine.com/works/bloody/index.html)
+  - [週刊少年Magazine - BLOODY MONDAY](https://web.archive.org/web/20081027201406/http://www.shonenmagazine.com/works/bloody/index.html)
 
   - [TBS電視劇官方網站](http://www.tbs.co.jp/bloody-monday/)
 
   - [TVB電視劇第二季官方網站](http://programme.tvb.com/drama/bloodymonday2)
 
   -
-[Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:推理漫畫改編電視劇](https://zh.wikipedia.org/wiki/Category:推理漫畫改編電視劇 "wikilink")
-[Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:推理漫畫改編電視劇](https://zh.wikipedia.org/wiki/Category:推理漫畫改編電視劇 "wikilink") [Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.  台灣緯來[日劇版譯為](https://zh.wikipedia.org/wiki/日劇 "wikilink")「血腥星期一」。
 2.  而在電視劇版譯名，台灣[緯來為](https://zh.wikipedia.org/wiki/緯來 "wikilink")「折原真矢」，香港[TVB則是](https://zh.wikipedia.org/wiki/TVB "wikilink")「折原瑪-{}-雅」，以原作譯名為準。

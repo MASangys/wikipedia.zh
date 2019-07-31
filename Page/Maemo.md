@@ -1,32 +1,11 @@
-{{ infobox OS | name = Maemo | logo =
-[Maemo_logo_color.svg](https://zh.wikipedia.org/wiki/File:Maemo_logo_color.svg "fig:Maemo_logo_color.svg")
-| screenshot =
-[Maemo5-screenshot.png](https://zh.wikipedia.org/wiki/File:Maemo5-screenshot.png "fig:Maemo5-screenshot.png")
-| caption = Maemo 5截圖 | website = [maemo.org](http://www.maemo.org/) |
-developer = [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink") |
-family = [Linux](../Page/Linux.md "wikilink") | source_model =
-[開放原始碼搭配](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[封閉源代碼軟件](https://zh.wikipedia.org/wiki/封閉源代碼 "wikilink")
-| latest_release_version = 5.0 PR1.3.1
-（個別軟體，仍有持續更新） | latest_release_date =  | marketing_target = [Nokia
-Internet
-Tablet](https://zh.wikipedia.org/wiki/Nokia_Internet_Tablet "wikilink")
-| language = 多語言 | kernel_type =
-[宏內核](https://zh.wikipedia.org/wiki/宏內核 "wikilink")（[Linux](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")）
-| ui = [Hildon UI](https://zh.wikipedia.org/wiki/Hildon "wikilink") |
-supported_platforms =
-[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink") | updatemodel =
-[APT](../Page/APT.md "wikilink") | package_manager =
-[dpkg](https://zh.wikipedia.org/wiki/dpkg "wikilink") }}
+{{ infobox OS | name = Maemo | logo = [Maemo_logo_color.svg](https://zh.wikipedia.org/wiki/File:Maemo_logo_color.svg "fig:Maemo_logo_color.svg") | screenshot = [Maemo5-screenshot.png](https://zh.wikipedia.org/wiki/File:Maemo5-screenshot.png "fig:Maemo5-screenshot.png") | caption = Maemo 5截圖 | website = [maemo.org](http://www.maemo.org/) | developer = [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink") | family = [Linux](../Page/Linux.md "wikilink") | source_model = [開放原始碼搭配](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[封閉源代碼軟件](https://zh.wikipedia.org/wiki/封閉源代碼 "wikilink") | latest_release_version = 5.0 PR1.3.1
+（個別軟體，仍有持續更新） | latest_release_date =  | marketing_target = [Nokia Internet Tablet](https://zh.wikipedia.org/wiki/Nokia_Internet_Tablet "wikilink") | language = 多語言 | kernel_type = [宏內核](https://zh.wikipedia.org/wiki/宏內核 "wikilink")（[Linux](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")） | ui = [Hildon UI](https://zh.wikipedia.org/wiki/Hildon "wikilink") | supported_platforms = [ARM](https://zh.wikipedia.org/wiki/ARM "wikilink") | updatemodel = [APT](../Page/APT.md "wikilink") | package_manager = [dpkg](https://zh.wikipedia.org/wiki/dpkg "wikilink") }}
 
-**Maemo**是一個基於[Debian
-GNU/Linux的](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")[操作系统](../Page/操作系统.md "wikilink")，由諾基亞公司為了[智慧型手機及](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[Internet
-Tablet所開發](https://zh.wikipedia.org/wiki/Internet_Tablet "wikilink")。它已經被應用在諾基亞[N770](https://zh.wikipedia.org/wiki/諾基亞770網絡終端 "wikilink")、[N800](https://zh.wikipedia.org/wiki/諾基亞N800 "wikilink")、[N810和](https://zh.wikipedia.org/wiki/Nokia_N810 "wikilink")[N900上](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")。[Nokia與很多開源軟件項目](https://zh.wikipedia.org/wiki/Nokia "wikilink")（如[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，[Debian](../Page/Debian.md "wikilink")，[GNOME](../Page/GNOME.md "wikilink")）合作，共同開發Maemo平台。Maemo本身基於[Debian](../Page/Debian.md "wikilink")因此具有很多Debian特性。
+**Maemo**是一個基於[Debian GNU/Linux的](https://zh.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")[操作系统](../Page/操作系统.md "wikilink")，由諾基亞公司為了[智慧型手機及](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[Internet Tablet所開發](https://zh.wikipedia.org/wiki/Internet_Tablet "wikilink")。它已經被應用在諾基亞[N770](https://zh.wikipedia.org/wiki/諾基亞770網絡終端 "wikilink")、[N800](https://zh.wikipedia.org/wiki/諾基亞N800 "wikilink")、[N810和](https://zh.wikipedia.org/wiki/Nokia_N810 "wikilink")[N900上](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")。[Nokia與很多開源軟件項目](https://zh.wikipedia.org/wiki/Nokia "wikilink")（如[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，[Debian](../Page/Debian.md "wikilink")，[GNOME](../Page/GNOME.md "wikilink")）合作，共同開發Maemo平台。Maemo本身基於[Debian](../Page/Debian.md "wikilink")因此具有很多Debian特性。
 
 很多應用軟件來自ARM架構的Debian，大多數是第三方軟件。
 
-Maemo是諾基亞的頂級操作系統品牌，用以彌補[Symbian
-OS的某些先天不足](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")。目前Maemo主要是服務於不具備傳統[移動電話功能的網絡終端](https://zh.wikipedia.org/wiki/移動電話 "wikilink")，以及[Nokia
-N900這樣的](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。由於其Linux內核的特性，將很容易被移植到[筆記本電腦等更多應用的設備上](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")。
+Maemo是諾基亞的頂級操作系統品牌，用以彌補[Symbian OS的某些先天不足](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")。目前Maemo主要是服務於不具備傳統[移動電話功能的網絡終端](https://zh.wikipedia.org/wiki/移動電話 "wikilink")，以及[Nokia N900這樣的](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。由於其Linux內核的特性，將很容易被移植到[筆記本電腦等更多應用的設備上](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")。
 
 Nokia在2010年2月宣佈將Maemo與Intel的[Moblin計畫結合](https://zh.wikipedia.org/wiki/Moblin_project "wikilink")，推出[MeeGo](../Page/MeeGo.md "wikilink")。
 
@@ -69,13 +48,7 @@ Nokia在2010年2月宣佈將Maemo與Intel的[Moblin計畫結合](https://zh.wiki
 
   - [Maemo網站](http://maemo.org)
 
-[Category:應用軟件](https://zh.wikipedia.org/wiki/Category:應用軟件 "wikilink")
-[Category:諾基亞](https://zh.wikipedia.org/wiki/Category:諾基亞 "wikilink")
-[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
-[Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink")
-[Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink")
-[Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink")
-[Category:ARM操作系统](https://zh.wikipedia.org/wiki/Category:ARM操作系统 "wikilink")
+[Category:應用軟件](https://zh.wikipedia.org/wiki/Category:應用軟件 "wikilink") [Category:諾基亞](https://zh.wikipedia.org/wiki/Category:諾基亞 "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink") [Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink") [Category:ARM操作系统](https://zh.wikipedia.org/wiki/Category:ARM操作系统 "wikilink")
 
 1.
 2.  [1](http://wiki.maemo.org/Maemo_5/PR1.2)

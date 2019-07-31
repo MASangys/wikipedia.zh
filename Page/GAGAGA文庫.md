@@ -1,4 +1,4 @@
-**GAGAGA文庫**（）是[小學館在](../Page/小學館.md "wikilink")2007年5月24日創刊的[輕小說文庫系列](../Page/輕小說.md "wikilink")。
+**GAGAGA文庫**（）是[小學館](../Page/小學館.md "wikilink")在2007年5月24日創刊的[輕小說](../Page/輕小說.md "wikilink")文庫系列。
 
 是繼2001年同出版社休刊的Super Quest文庫後再度加入輕小說市場，但在創刊時報導的有如新加入市場一般\[1\]\[2\]。
 
@@ -16,8 +16,7 @@
   - [臨界殺機](https://zh.wikipedia.org/wiki/臨界殺機 "wikilink")（[神崎紫電](https://zh.wikipedia.org/wiki/神崎紫電 "wikilink")／[kyo](https://zh.wikipedia.org/wiki/kyo "wikilink")）
   - [學園歌劇！](https://zh.wikipedia.org/wiki/學園歌劇！ "wikilink")（[山川進](https://zh.wikipedia.org/wiki/山川進 "wikilink")／[よし☆ヲ](https://zh.wikipedia.org/wiki/よし☆ヲ "wikilink")）
   - [神明大人會把笑心○○○？](https://zh.wikipedia.org/wiki/神明大人會把笑心○○○？ "wikilink")（[荒川工](https://zh.wikipedia.org/wiki/荒川工 "wikilink")／[ことみようじ](https://zh.wikipedia.org/wiki/ことみようじ "wikilink")）
-  - [黑與藍
-    Black\&Blue](https://zh.wikipedia.org/wiki/黑與藍_Black&Blue "wikilink")（[中岡潤一郎](https://zh.wikipedia.org/wiki/中岡潤一郎 "wikilink")／[藤城陽](https://zh.wikipedia.org/wiki/藤城陽 "wikilink")）
+  - [黑與藍 Black\&Blue](https://zh.wikipedia.org/wiki/黑與藍_Black&Blue "wikilink")（[中岡潤一郎](https://zh.wikipedia.org/wiki/中岡潤一郎 "wikilink")／[藤城陽](https://zh.wikipedia.org/wiki/藤城陽 "wikilink")）
   - [M之奇談](https://zh.wikipedia.org/wiki/M之奇談 "wikilink")（[三上康明](https://zh.wikipedia.org/wiki/三上康明 "wikilink")／[水沢深森](https://zh.wikipedia.org/wiki/水沢深森 "wikilink")）
   - [人氣妹妹與受難的我](../Page/人氣妹妹與受難的我.md "wikilink")（[夏綠](../Page/夏綠.md "wikilink")／[GIN](https://zh.wikipedia.org/wiki/GIN "wikilink")）
   - [利維坦的戀人](https://zh.wikipedia.org/wiki/利維坦的戀人 "wikilink")（[犬村小六](../Page/犬村小六.md "wikilink")／[赤星建次](https://zh.wikipedia.org/wiki/赤星建次 "wikilink")）
@@ -28,24 +27,19 @@
   - [鎖鎖美小姐@不好好努力](../Page/鎖鎖美小姐@不好好努力.md "wikilink")（[日日日](../Page/日日日.md "wikilink")／[左](../Page/左_\(插畫家\).md "wikilink")）
   - [GJ部](../Page/GJ部.md "wikilink")（[新木伸](../Page/新木伸.md "wikilink")／[あるや](https://zh.wikipedia.org/wiki/あるや "wikilink")）
   - [她，唯有一死](https://zh.wikipedia.org/wiki/她，唯有一死 "wikilink")（[石川周](https://zh.wikipedia.org/wiki/石川周 "wikilink")／[八重樫南](https://zh.wikipedia.org/wiki/八重樫南 "wikilink")）
-  - [CROWN FLINT
-    雙合透鏡](https://zh.wikipedia.org/wiki/CROWN_FLINT_雙合透鏡 "wikilink")（[三上康明](https://zh.wikipedia.org/wiki/三上康明 "wikilink")／[純珪一](https://zh.wikipedia.org/wiki/純珪一 "wikilink")）
+  - [CROWN FLINT 雙合透鏡](https://zh.wikipedia.org/wiki/CROWN_FLINT_雙合透鏡 "wikilink")（[三上康明](https://zh.wikipedia.org/wiki/三上康明 "wikilink")／[純珪一](https://zh.wikipedia.org/wiki/純珪一 "wikilink")）
   - [傀儡師神樂](https://zh.wikipedia.org/wiki/傀儡師神樂 "wikilink")（[賽目和七](https://zh.wikipedia.org/wiki/賽目和七 "wikilink")／[マニャ子](https://zh.wikipedia.org/wiki/マニャ子 "wikilink")）
   - [人生](https://zh.wikipedia.org/wiki/人生_\(輕小說\) "wikilink")（[川岸毆魚](https://zh.wikipedia.org/wiki/川岸毆魚 "wikilink")／[ななせめるち](https://zh.wikipedia.org/wiki/ななせめるち "wikilink")）
   - [如果有妹妹就好了。](../Page/如果有妹妹就好了。.md "wikilink")（[平坂讀](../Page/平坂讀.md "wikilink")／[カントク](../Page/監督_\(插畫家\).md "wikilink")）
-  - [4 cours after
-    四季之後](https://zh.wikipedia.org/wiki/4_cours_after_四季之後 "wikilink")（／bun150）
+  - [4 cours after 四季之後](https://zh.wikipedia.org/wiki/4_cours_after_四季之後 "wikilink")（／bun150）
 
 ### 尖端出版
 
-  - [旋風管家](../Page/旋風管家.md "wikilink") 在放春假的白皇學院裡，我看到了夢幻的三千院？
-    by小颯（原作、作畫：[畑健二郎](../Page/畑健二郎.md "wikilink")
-    著：[築地俊彦](https://zh.wikipedia.org/wiki/築地俊彦 "wikilink")）
+  - [旋風管家](../Page/旋風管家.md "wikilink") 在放春假的白皇學院裡，我看到了夢幻的三千院？ by小颯（原作、作畫：[畑健二郎](../Page/畑健二郎.md "wikilink") 著：[築地俊彦](https://zh.wikipedia.org/wiki/築地俊彦 "wikilink")）
   - [人類衰退之後](../Page/人類衰退之後.md "wikilink")（[田中羅密歐](../Page/田中羅密歐.md "wikilink")／[山崎透](https://zh.wikipedia.org/wiki/山崎透 "wikilink")）
   - [RIGHT×LIGHT](https://zh.wikipedia.org/wiki/RIGHT×LIGHT "wikilink")（[司](../Page/司.md "wikilink")／[近衛乙嗣](https://zh.wikipedia.org/wiki/近衛乙嗣 "wikilink")）
   - [對某飛行員的追憶](../Page/對某飛行員的追憶.md "wikilink")（[犬村小六](../Page/犬村小六.md "wikilink")／[森澤晴行](../Page/森澤晴行.md "wikilink")）
-  - [AURA
-    〜魔龍院光牙最後的戰鬥〜](https://zh.wikipedia.org/wiki/AURA_〜魔龍院光牙最後的戰鬥〜 "wikilink")（田中羅密歐／[mebae](https://zh.wikipedia.org/wiki/mebae "wikilink")）
+  - [AURA 〜魔龍院光牙最後的戰鬥〜](https://zh.wikipedia.org/wiki/AURA_〜魔龍院光牙最後的戰鬥〜 "wikilink")（田中羅密歐／[mebae](https://zh.wikipedia.org/wiki/mebae "wikilink")）
   - [只有神知道的世界](../Page/只有神知道的世界.md "wikilink")（[有澤真水](../Page/有澤真水.md "wikilink")／[若木民喜](../Page/若木民喜.md "wikilink")）
   - [罪人與龍共舞](../Page/罪人與龍共舞.md "wikilink")（[浅井ラボ](https://zh.wikipedia.org/wiki/浅井ラボ "wikilink")／[宮城](https://zh.wikipedia.org/wiki/宮城 "wikilink")）
   - [獻給某飛行員的戀歌](../Page/獻給某飛行員的戀歌.md "wikilink")（犬村小六／森澤晴行）
@@ -81,15 +75,9 @@
 
 ### 未代理
 
-  - [天元突破
-    紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")（原作：[GAINAX](../Page/GAINAX.md "wikilink")
-    著：[砂山藏澄](https://zh.wikipedia.org/wiki/砂山藏澄 "wikilink")／[品川宏樹](https://zh.wikipedia.org/wiki/品川宏樹 "wikilink")）
-  - [地球防衛少年](../Page/地球防衛少年.md "wikilink")
-    〜alternative〜（原作、作畫：[鬼頭莫宏](../Page/鬼頭莫宏.md "wikilink")
-    著：[大樹連司](https://zh.wikipedia.org/wiki/大樹連司 "wikilink")）
-  - [日本鎖國](https://zh.wikipedia.org/wiki/日本鎖國 "wikilink") 〜my winding
-    road〜（[谷崎央佳](https://zh.wikipedia.org/wiki/谷崎央佳 "wikilink")
-    原案・監修：[曾利文彥](https://zh.wikipedia.org/wiki/曾利文彥 "wikilink")／[緒方剛志](../Page/緒方剛志.md "wikilink")）
+  - [天元突破 紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")（原作：[GAINAX](../Page/GAINAX.md "wikilink") 著：[砂山藏澄](https://zh.wikipedia.org/wiki/砂山藏澄 "wikilink")／[品川宏樹](https://zh.wikipedia.org/wiki/品川宏樹 "wikilink")）
+  - [地球防衛少年](../Page/地球防衛少年.md "wikilink") 〜alternative〜（原作、作畫：[鬼頭莫宏](../Page/鬼頭莫宏.md "wikilink") 著：[大樹連司](https://zh.wikipedia.org/wiki/大樹連司 "wikilink")）
+  - [日本鎖國](https://zh.wikipedia.org/wiki/日本鎖國 "wikilink") 〜my winding road〜（[谷崎央佳](https://zh.wikipedia.org/wiki/谷崎央佳 "wikilink") 原案・監修：[曾利文彥](https://zh.wikipedia.org/wiki/曾利文彥 "wikilink")／[緒方剛志](../Page/緒方剛志.md "wikilink")）
 
 ## 註解
 
@@ -100,8 +88,7 @@
   - [小學館·GAGAGA文庫](http://gagagabunko.jp/)
   - [GAGAGA文庫編輯部](https://web.archive.org/web/20071111115801/http://ga3.gagaga-lululu.jp/write/)
 
-[Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink")
-[Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink")
+[Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink") [Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink")
 
 1.  [](http://animeanime.jp/news/archives/2006/04/2007411.html)
 2.  [](http://www.shoten.co.jp/nisho/bookstore/shinbun/view.asp?PageViewNo=5675)

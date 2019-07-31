@@ -14,9 +14,7 @@
 
 ## 参考资料
 
-[Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink")
-[Category:立体化学](https://zh.wikipedia.org/wiki/Category:立体化学 "wikilink")
-[Category:三价钴化合物](https://zh.wikipedia.org/wiki/Category:三价钴化合物 "wikilink")
+[Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink") [Category:立体化学](https://zh.wikipedia.org/wiki/Category:立体化学 "wikilink") [Category:三价钴化合物](https://zh.wikipedia.org/wiki/Category:三价钴化合物 "wikilink")
 
 1.  A. Werner, H. Kuh, P. Wust. *Ber.* **1914**, 47, 196.
 2.

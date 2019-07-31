@@ -1,8 +1,4 @@
-《**Dragon
-Crisis\!**》（）是[城崎火也撰寫](https://zh.wikipedia.org/wiki/城崎火也 "wikilink")，[亞方逸樹插畫的](https://zh.wikipedia.org/wiki/亞方逸樹 "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[集英社](../Page/集英社.md "wikilink")[Super
-Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")。中文版由[青文出版社代理](../Page/青文出版社.md "wikilink")。
-於2009年3月25日由[Frontier
-Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2011年1月10日開始播出，3月28日播放完畢，全12話。
+《**Dragon Crisis\!**》（）是[城崎火也撰寫](https://zh.wikipedia.org/wiki/城崎火也 "wikilink")，[亞方逸樹插畫的](https://zh.wikipedia.org/wiki/亞方逸樹 "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[集英社](../Page/集英社.md "wikilink")[Super Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")。中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理。 於2009年3月25日由[Frontier Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2011年1月10日開始播出，3月28日播放完畢，全12話。
 
 ## 故事簡介
 
@@ -17,14 +13,11 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 ### 主要人物
 
   -
-    主角，高中生。在小說第四集時身高172.5公分、體重57公斤、15歲（故事途中滿16歲）。雙親是世界知名的寶物獵人及遺物使。P值120以上（123）、L值5800（史上最高數值）。世界上第八個等級十的遺物使，在故事開始時因為心靈創傷而逃避這個事實，後來在第三卷後（動畫第七話後）時把身分登錄在世界遺物保護協會當中。個性溫柔，十分受異性喜愛，不過經常被別人推著走，總是被蘿絲和英理子玩弄，討厭青蛙。和蘿絲訂定契約，能合力使出——「
-    ENGAGE」，當左手和蘿絲的右手相疊時能發揮驚人的力量。曾經被詛咒遺物侵蝕過。
-    本身是一種罕見的「活體遺物」，就如「龍司」這名字一樣，是能掌管龍類的遺物，也因此能跟龍類結合、打倒龍、統治龍、定契約。對於龍類來說，是奪取他們自由的存在、帶來毀滅的人——「Dragon
-    Crisis」（司掌龍之人）。目前還不清楚為什麼會出現這種情況，但可以確定與龍司的父母有關。
+    主角，高中生。在小說第四集時身高172.5公分、體重57公斤、15歲（故事途中滿16歲）。雙親是世界知名的寶物獵人及遺物使。P值120以上（123）、L值5800（史上最高數值）。世界上第八個等級十的遺物使，在故事開始時因為心靈創傷而逃避這個事實，後來在第三卷後（動畫第七話後）時把身分登錄在世界遺物保護協會當中。個性溫柔，十分受異性喜愛，不過經常被別人推著走，總是被蘿絲和英理子玩弄，討厭青蛙。和蘿絲訂定契約，能合力使出——「 ENGAGE」，當左手和蘿絲的右手相疊時能發揮驚人的力量。曾經被詛咒遺物侵蝕過。
+    本身是一種罕見的「活體遺物」，就如「龍司」這名字一樣，是能掌管龍類的遺物，也因此能跟龍類結合、打倒龍、統治龍、定契約。對於龍類來說，是奪取他們自由的存在、帶來毀滅的人——「Dragon Crisis」（司掌龍之人）。目前還不清楚為什麼會出現這種情況，但可以確定與龍司的父母有關。
     在動畫十二話中，向蘿絲告白，並且與蘿絲接吻合力使出——「LOVE ENGAGE」再次擊敗奧尼基斯。可以確定與蘿絲互相愛著。
       -
-        使用龍之牙製作的短劍，S級遺物。個人原本不得持有S級遺物，卻靠著龍司雙親與世界遺物保護協會之間的交易而破例核准。揮舞時可以產生風壓砍傷對手。能夠切斷奧尼基斯的羽翼，在契約發動時能夠破壞同為S級遺物的Ice
-        Rage。
+        使用龍之牙製作的短劍，S級遺物。個人原本不得持有S級遺物，卻靠著龍司雙親與世界遺物保護協會之間的交易而破例核准。揮舞時可以產生風壓砍傷對手。能夠切斷奧尼基斯的羽翼，在契約發動時能夠破壞同為S級遺物的Ice Rage。
 
 <!-- end list -->
 
@@ -37,8 +30,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 <!-- end list -->
 
   -
-    龍司的表姊，19歲，大學生。雖為巨乳美人，行為卻十分蠻橫。等級七的遺物使（在第四集接受測定時測出相當於等級八的數值，變化原因不明）。有錢人家的千金小姐，到處尋找以前家中被奪取的遺物。以「Seven
-    Tails」的名義申請成立遺物保護團體，但很快就被駁回。自己擔任團長，而龍司似乎是第一助手。
+    龍司的表姊，19歲，大學生。雖為巨乳美人，行為卻十分蠻橫。等級七的遺物使（在第四集接受測定時測出相當於等級八的數值，變化原因不明）。有錢人家的千金小姐，到處尋找以前家中被奪取的遺物。以「Seven Tails」的名義申請成立遺物保護團體，但很快就被駁回。自己擔任團長，而龍司似乎是第一助手。
       - （正式名稱不明）
         等級B遺物。吹噓自己可以引發奇蹟的魔術師所使用的物品。叫喚「幻舞『○○』」後能夠發出各種幻覺。
       -
@@ -47,15 +39,13 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 <!-- end list -->
 
   -
-    白龍皇女，擁有操縱冰和雪的能力。委託龍司奪回Ice
-    Rage。起初對人類抱持偏見，對蘿絲與人類訂定契約的行為感到十分憤怒，但隨著與龍司之間的相處漸漸對他產生好感而被蘿絲視為競爭對手。十分敬愛叔叔。與奧尼基斯是青梅竹馬。
+    白龍皇女，擁有操縱冰和雪的能力。委託龍司奪回Ice Rage。起初對人類抱持偏見，對蘿絲與人類訂定契約的行為感到十分憤怒，但隨著與龍司之間的相處漸漸對他產生好感而被蘿絲視為競爭對手。十分敬愛叔叔。與奧尼基斯是青梅竹馬。
 
 <!-- end list -->
 
   -
     暱稱為愛。15歲。右眼為金色，左眼為銀色、身材很好的美少女。專門竊取遺物的怪盜。擁有人狼之力，發揮力量時會長出獸耳與尾巴，獸耳和尾巴是弱點，非常敏感。聽從主人的命令反覆偷竊。
-    本名為牧原愛華。嬰兒時被齋木（古森）誘拐，被當成實驗品，並被齋木的謊言所騙，誤以為自己是被父母拋棄、身上流著詛咒之血，因而痛恨Socitey。在體內埋入遺物，右眼因為右腕被埋入遺物人狼之牙而改變顏色和右手臂身上出現的紋章。曾使用過等級A的遺物真實之戀（True
-    Love），在第三卷龍司等人打倒齋木後回到雙親身邊，第四卷開始就讀高中。
+    本名為牧原愛華。嬰兒時被齋木（古森）誘拐，被當成實驗品，並被齋木的謊言所騙，誤以為自己是被父母拋棄、身上流著詛咒之血，因而痛恨Socitey。在體內埋入遺物，右眼因為右腕被埋入遺物人狼之牙而改變顏色和右手臂身上出現的紋章。曾使用過等級A的遺物真實之戀（True Love），在第三卷龍司等人打倒齋木後回到雙親身邊，第四卷開始就讀高中。
     不在乎自己的容貌，也不了解為何周圍的目光會集中在自己身上。
     對龍司抱持好感，曾翹課探望龍司。人狼姿態時能力測定相當於等級八的遺物使。
 
@@ -119,9 +109,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 
   -
     已成年的年輕黑龍，能幻化成一條巨大的黑龍，本能是搶奪其他龍族與其強制訂契約。Fang的首腦。小說第一卷抓走蘿絲，企圖與她訂契約。
-    號稱對女性都很溫柔，卻自稱蘿絲的未婚夫並擅自幫她戴上項鍊。在小說第一卷末(動畫第三話)與龍司交戰後被擊敗，動畫第十一話、第十二話再次出現企圖要再次強走蘿絲，闖入瑪露卡家中偷翻了瑪露卡家珍藏的密書，調查發現了龍司是一種罕見的「活體遺物」，帶來毀滅的人——「Dragon
-    Crisis」（司掌龍之人），並用這句話打壓龍司，逼他交出蘿絲，被龍司的父親黎一郎的遺物武器弄瞎了左眼，並被龍司和蘿絲合力使出的「LOVE
-    ENGAGE」擊敗，暫時消失不知去哪休養，能證明他可能還活著。
+    號稱對女性都很溫柔，卻自稱蘿絲的未婚夫並擅自幫她戴上項鍊。在小說第一卷末(動畫第三話)與龍司交戰後被擊敗，動畫第十一話、第十二話再次出現企圖要再次強走蘿絲，闖入瑪露卡家中偷翻了瑪露卡家珍藏的密書，調查發現了龍司是一種罕見的「活體遺物」，帶來毀滅的人——「Dragon Crisis」（司掌龍之人），並用這句話打壓龍司，逼他交出蘿絲，被龍司的父親黎一郎的遺物武器弄瞎了左眼，並被龍司和蘿絲合力使出的「LOVE ENGAGE」擊敗，暫時消失不知去哪休養，能證明他可能還活著。
     幼時曾被寄養在白龍神國，與瑪露卡是青梅竹馬。
 
 <!-- end list -->
@@ -294,8 +282,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 
 ### 制作人员
 
-  - 原作 - 城崎火也（集英社[Super
-    Dash文库刊](https://zh.wikipedia.org/wiki/Super_Dash文库 "wikilink")）
+  - 原作 - 城崎火也（集英社[Super Dash文库刊](https://zh.wikipedia.org/wiki/Super_Dash文库 "wikilink")）
   - 插画 - 亚方逸树
   - 导演 - 橘秀树
   - 系列构成 - [仓田英之](https://zh.wikipedia.org/wiki/仓田英之 "wikilink")
@@ -319,9 +306,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
   -
 
       -
-        作詞・作曲 - [清龍人](https://zh.wikipedia.org/wiki/清龍人 "wikilink") / 編曲
-        - [高橋剛](../Page/高橋剛.md "wikilink") / 歌 -
-        [堀江由衣](../Page/堀江由衣.md "wikilink")
+        作詞・作曲 - [清龍人](https://zh.wikipedia.org/wiki/清龍人 "wikilink") / 編曲 - [高橋剛](../Page/高橋剛.md "wikilink") / 歌 - [堀江由衣](../Page/堀江由衣.md "wikilink")
 
   - 片尾曲
 
@@ -330,10 +315,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
   -
 
       -
-        作詞 - 村野直球 / 作曲 -
-        [前山田健一](../Page/前山田健一.md "wikilink")・[大隅知宇](https://zh.wikipedia.org/wiki/大隅知宇 "wikilink")
-        / 編曲 - NARASAKI / 歌 -
-        [桃色幸运草](https://zh.wikipedia.org/wiki/桃色幸运草 "wikilink")
+        作詞 - 村野直球 / 作曲 - [前山田健一](../Page/前山田健一.md "wikilink")・[大隅知宇](https://zh.wikipedia.org/wiki/大隅知宇 "wikilink") / 編曲 - NARASAKI / 歌 - [桃色幸运草](https://zh.wikipedia.org/wiki/桃色幸运草 "wikilink")
 
 ### 各话目录
 
@@ -565,12 +547,9 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 
 ## 外部連結
 
-  - [Super
-    Dash文庫](https://web.archive.org/web/20090113203137/http://dash.shueisha.co.jp/-dc/)
-    《Dragon Crisis\!》介紹
+  - [Super Dash文庫](https://web.archive.org/web/20090113203137/http://dash.shueisha.co.jp/-dc/) 《Dragon Crisis\!》介紹
 
-  - [Super Dash文庫－《Dragon
-    Crisis\!》特集](https://web.archive.org/web/20090226061457/http://dash.shueisha.co.jp/feature/0811/index.html)
+  - [Super Dash文庫－《Dragon Crisis\!》特集](https://web.archive.org/web/20090226061457/http://dash.shueisha.co.jp/feature/0811/index.html)
 
   - [回廊](http://kizakikairou.blog63.fc2.com/) 城崎火也 官方網站
 
@@ -578,10 +557,6 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 
   - [テレビアニメ公式サイト](http://dragoncrisis.jp/) 电视动画官方网站
 
-[Category:龍題材作品](https://zh.wikipedia.org/wiki/Category:龍題材作品 "wikilink")
-[Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink")
-[Category:奇幻小說](https://zh.wikipedia.org/wiki/Category:奇幻小說 "wikilink")
-[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
+[Category:龍題材作品](https://zh.wikipedia.org/wiki/Category:龍題材作品 "wikilink") [Category:Super_Dash文庫](https://zh.wikipedia.org/wiki/Category:Super_Dash文庫 "wikilink") [Category:奇幻小說](https://zh.wikipedia.org/wiki/Category:奇幻小說 "wikilink") [Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
 
 1.  [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153597231272121/?type=3&theater)，2016/12/20閱覽。

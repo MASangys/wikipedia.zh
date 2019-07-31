@@ -1,10 +1,4 @@
-***Sauerbraten***（也是*Cube 2* 或
-*Sauer*，[德语](../Page/德语.md "wikilink")的“[sour
-roast](https://zh.wikipedia.org/wiki/酸味燉牛肉 "wikilink")”）是一个免费的[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")3D引擎，也是同名基于这个引擎的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。运行在[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")或[Mac
-OS
-X上](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，使用[OpenGL](../Page/OpenGL.md "wikilink")和[SDL技术](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")。最强大的地方在于即时修改地图的能力。此[游戏引擎](../Page/游戏引擎.md "wikilink")是[自由软件](../Page/自由软件.md "wikilink")授权为[Zlib](../Page/Zlib.md "wikilink")，\[1\]有着开发者公司的商业支持，[Dot3
-Labs](http://dot3labs.com/)。\[2\]
+***Sauerbraten***（也是*Cube 2* 或 *Sauer*，[德语](../Page/德语.md "wikilink")的“[sour roast](https://zh.wikipedia.org/wiki/酸味燉牛肉 "wikilink")”）是一个免费的[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")3D引擎，也是同名基于这个引擎的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。运行在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")或[Mac OS X上](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，使用[OpenGL](../Page/OpenGL.md "wikilink")和[SDL技术](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")。最强大的地方在于即时修改地图的能力。此[游戏引擎](../Page/游戏引擎.md "wikilink")是[自由软件](../Page/自由软件.md "wikilink")授权为[Zlib](../Page/Zlib.md "wikilink")，\[1\]有着开发者公司的商业支持，[Dot3 Labs](http://dot3labs.com/)。\[2\]
 
 本作是**Cube**的后继产品，2004年5月4日发布第一个版本，最新的「Trooper Edition」於\`2009年5月4日放出。
 
@@ -26,32 +20,19 @@ Sauerbraten本身也是个多人为主的游戏，拥有几个单人关卡，还
 
 ## 其他同引擎的项目
 
-  - [Red
-    Eclipse](https://zh.wikipedia.org/wiki/Red_Eclipse "wikilink")：一个全新基于此引擎的游戏，反馈了很多代码，完成后会开放全部资源
-  - [Platinum Arts
-    Sandbox](https://zh.wikipedia.org/wiki/Platinum_Arts_Sandbox "wikilink")：沙盒，创建游戏以及地图
+  - [Red Eclipse](https://zh.wikipedia.org/wiki/Red_Eclipse "wikilink")：一个全新基于此引擎的游戏，反馈了很多代码，完成后会开放全部资源
+  - [Platinum Arts Sandbox](https://zh.wikipedia.org/wiki/Platinum_Arts_Sandbox "wikilink")：沙盒，创建游戏以及地图
 
 ## 参考
 
 ## 外部链接
 
   - [主站](http://www.sauerbraten.org/)
-  - [Sauerbraten项目
-    SourceForge.net](http://sourceforge.net/projects/sauerbraten/)
+  - [Sauerbraten项目 SourceForge.net](http://sourceforge.net/projects/sauerbraten/)
   - [Cube/Sauerbraten地图和修改站点](https://web.archive.org/web/20110226091306/http://quadropolis.us/)
   - [Cube延伸游戏的服务器搜索工具](http://cubelister.sf.net/)
 
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")
-[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:荷兰开发电子游戏](https://zh.wikipedia.org/wiki/Category:荷兰开发电子游戏 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:荷兰开发电子游戏](https://zh.wikipedia.org/wiki/Category:荷兰开发电子游戏 "wikilink")
 
 1.
 2.

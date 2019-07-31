@@ -1,5 +1,4 @@
-《**哆啦A夢七小子的蟲蟲大作戰**》（ザ☆ドラえもんズ
-ムシムシぴょんぴょん大作戦\!）在1998年3月7日与《[大雄的南海大冒险](../Page/大雄的南海大冒險.md "wikilink")》、《[哆啦A梦回来了](../Page/哆啦A夢回來了.md "wikilink")》同时在日本上映，由[米谷良知](../Page/米谷良知.md "wikilink")执导。片長16分鐘。
+《**哆啦A夢七小子的蟲蟲大作戰**》（ザ☆ドラえもんズ ムシムシぴょんぴょん大作戦\!）在1998年3月7日与《[大雄的南海大冒险](../Page/大雄的南海大冒險.md "wikilink")》、《[哆啦A梦回来了](../Page/哆啦A夢回來了.md "wikilink")》同时在日本上映，由[米谷良知](../Page/米谷良知.md "wikilink")执导。片長16分鐘。
 
 ## 剧情简介
 
@@ -17,9 +16,4 @@
       - 作詞・作曲・編曲：[高見澤俊彥](https://zh.wikipedia.org/wiki/高見澤俊彥 "wikilink")
       - 演唱：[神崎ゆう子](https://zh.wikipedia.org/wiki/神崎ゆう子 "wikilink")
 
-[Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink")
-[Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink")
-[Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink")
-[Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink")
-[Category:昆蟲電影](https://zh.wikipedia.org/wiki/Category:昆蟲電影 "wikilink")
-[Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink")
+[Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink") [Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink") [Category:多啦A夢附篇電影作品](https://zh.wikipedia.org/wiki/Category:多啦A夢附篇電影作品 "wikilink") [Category:哆啦A夢七小子](https://zh.wikipedia.org/wiki/Category:哆啦A夢七小子 "wikilink") [Category:昆蟲電影](https://zh.wikipedia.org/wiki/Category:昆蟲電影 "wikilink") [Category:22世紀背景電影](https://zh.wikipedia.org/wiki/Category:22世紀背景電影 "wikilink")

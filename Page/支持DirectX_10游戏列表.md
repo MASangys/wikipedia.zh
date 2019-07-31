@@ -1,6 +1,4 @@
-本表为**支持[Windows Vista和](../Page/Windows_Vista.md "wikilink")[Windows
-7中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[DirectX
-10的已发行及待发行的游戏列表](https://zh.wikipedia.org/wiki/DirectX#DirectX_10 "wikilink")**。
+本表为**支持[Windows Vista和](../Page/Windows_Vista.md "wikilink")[Windows 7中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[DirectX 10的已发行及待发行的游戏列表](https://zh.wikipedia.org/wiki/DirectX#DirectX_10 "wikilink")**。
 
 相关游戏请参见[电子游戏列表](https://zh.wikipedia.org/wiki/电子游戏列表 "wikilink")。
 
@@ -755,8 +753,7 @@
 
 ## 参见
 
-  - [DirectX
-    10](https://zh.wikipedia.org/wiki/DirectX#DirectX_10 "wikilink")
+  - [DirectX 10](https://zh.wikipedia.org/wiki/DirectX#DirectX_10 "wikilink")
   - [支持DirectX 11游戏列表](../Page/支持DirectX_11游戏列表.md "wikilink")
   - [电子游戏列表](https://zh.wikipedia.org/wiki/电子游戏列表 "wikilink")
   - [Games for Windows游戏列表](../Page/Games_for_Windows游戏列表.md "wikilink")
@@ -765,8 +762,7 @@
 
 ## 外部链接
 
-  - [支持DirectX 10的Games For
-    Windows游戏](http://www.gamesforwindows.com/en-US/aboutgfw/Pages/directx10-a.aspx)
+  - [支持DirectX 10的Games For Windows游戏](http://www.gamesforwindows.com/en-US/aboutgfw/Pages/directx10-a.aspx)
 
 [Category:电子游戏列表](https://zh.wikipedia.org/wiki/Category:电子游戏列表 "wikilink")
 

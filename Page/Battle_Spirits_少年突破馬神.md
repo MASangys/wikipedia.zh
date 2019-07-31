@@ -1,5 +1,4 @@
-《**Battle Spirits
-少年突破馬神**》（）是一套由2008年9月至2009年6月間，開始在[日本](../Page/日本.md "wikilink")播放的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[SUNRISE改編自](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")[萬代](../Page/萬代.md "wikilink")與魔法風雲會製作組共同出品的CARDDAS系列30周年紀念的卡片遊戲動畫作品。
+《**Battle Spirits 少年突破馬神**》（）是一套由2008年9月至2009年6月間，開始在[日本](../Page/日本.md "wikilink")播放的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[SUNRISE改編自](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")[萬代](../Page/萬代.md "wikilink")與魔法風雲會製作組共同出品的CARDDAS系列30周年紀念的卡片遊戲動畫作品。
 
 ## 故事概要
 
@@ -29,9 +28,7 @@
 
   -
     **能力－攻擊**：破壞兩隻BP7000或以下的對手Spirit。
-    **能力－召喚**：破壞對手任意Spirits直至被破壞的Spirits
-    cost合計為5。如果用龍皇齊格弗烈多或要塞皇奧丁轉召時，可破壞合計cost
-    8的對手Spirit。
+    **能力－召喚**：破壞對手任意Spirits直至被破壞的Spirits cost合計為5。如果用龍皇齊格弗烈多或要塞皇奧丁轉召時，可破壞合計cost 8的對手Spirit。
     **轉召**：支付召喚cost後，把自己場上一隻指定cost或以上的Spirit上的晶核移至指定場所。
 
 **魔龍帝齊格弗里德（台灣）／魔龍帝 齊格弗列多（香港）（魔龍帝ジークフリーデン）**
@@ -74,9 +71,7 @@
 
   -
     **能力－攻擊**：破壞兩隻BP7000或以下的對手Spirit。
-    **能力－召喚**：破壞對手任意Spirits直至被破壞的Spirits
-    cost合計為5。如果用龍皇齊格弗烈多或要塞皇奧丁轉召時，可破壞合計cost
-    8的對手Spirit。
+    **能力－召喚**：破壞對手任意Spirits直至被破壞的Spirits cost合計為5。如果用龍皇齊格弗烈多或要塞皇奧丁轉召時，可破壞合計cost 8的對手Spirit。
 
 ### 紫屬性
 
@@ -745,8 +740,7 @@
   - 音響監督：藤野貞義
   - 製作人：川本謙一、古澤文邦
   - 監督：本鄉みつる
-  - 制作：[名古屋電視台](../Page/名古屋電視台.md "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")、アサツー
-    ディ、ケイ
+  - 制作：[名古屋電視台](../Page/名古屋電視台.md "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")、アサツー ディ、ケイ
 
 ## 主題曲
 
@@ -804,8 +798,7 @@
 
 ## 漫畫
 
-  - 於2008年7月至2009年10月間，[角川書店](../Page/角川書店.md "wikilink")所出版[KEROKERO
-    ACE刊載](../Page/KEROKERO_ACE.md "wikilink")，台灣中文版由[青文代理](https://zh.wikipedia.org/wiki/青文 "wikilink")，香港中文版由[正文社](../Page/正文社.md "wikilink")代理出版。
+  - 於2008年7月至2009年10月間，[角川書店](../Page/角川書店.md "wikilink")所出版[KEROKERO ACE刊載](../Page/KEROKERO_ACE.md "wikilink")，台灣中文版由[青文代理](https://zh.wikipedia.org/wiki/青文 "wikilink")，香港中文版由[正文社](../Page/正文社.md "wikilink")代理出版。
 
 <table>
 <thead>
@@ -860,8 +853,7 @@
   - [Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")
   - [Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")
   - [Battle Spirits 霸王](../Page/Battle_Spirits_霸王.md "wikilink")
-  - [Battle Spirits Sword
-    Eyes](../Page/Battle_Spirits_Sword_Eyes.md "wikilink")
+  - [Battle Spirits Sword Eyes](../Page/Battle_Spirits_Sword_Eyes.md "wikilink")
 
 ## 参考资料
 
@@ -869,21 +861,10 @@
 
 ## 外部連結
 
-  - [Battle Spirits
-    少年突破馬神](http://www.sunrise-inc.co.jp/battlespirits/)（日昇動畫）
-  - [Battle Spirits
-    少年突破馬神](http://www.nagoyatv.com/battlespirits/index.sms)（名古屋電視台）
+  - [Battle Spirits 少年突破馬神](http://www.sunrise-inc.co.jp/battlespirits/)（日昇動畫）
+  - [Battle Spirits 少年突破馬神](http://www.nagoyatv.com/battlespirits/index.sms)（名古屋電視台）
 
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:2008年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2008年日本電視動畫 "wikilink")
-[Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink")
-[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:2008年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2008年日本電視動畫 "wikilink") [Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink") [Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:KEROKERO_ACE](https://zh.wikipedia.org/wiki/Category:KEROKERO_ACE "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.  由於直播《樂施會特約：無窮的盼望》2012年5月20日停播。
 2.  由於直播《2011香港藝術發展獎》6月10日停播。

@@ -1,8 +1,6 @@
 是即時戰略遊戲《[魔獸爭霸：獸人與人類](https://zh.wikipedia.org/wiki/魔獸爭霸：獸人與人類 "wikilink")》的續作。該作發行於1995年12月，是由暴雪娛樂開發的。玩家將再次操控獸人或人類，在一個擁有劍與魔法的幻想的世界中進行遊戲。
 
-該遊戲最初是為MS-DOS版本，還有一個Mac
-OS版本的遊戲。[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")還發布了一個資料片－《[魔兽争霸II：黑暗之门](../Page/魔兽争霸II：黑暗之门.md "wikilink")》。在1996年4月30日，暴雪發布《魔獸爭霸2：黑暗浪潮》的Microsoft
-Windows版本。
+該遊戲最初是為MS-DOS版本，還有一個Mac OS版本的遊戲。[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")還發布了一個資料片－《[魔兽争霸II：黑暗之门](../Page/魔兽争霸II：黑暗之门.md "wikilink")》。在1996年4月30日，暴雪發布《魔獸爭霸2：黑暗浪潮》的Microsoft Windows版本。
 
 ## 故事背景
 
@@ -32,19 +30,8 @@ Windows版本。
 
 {{-}}
 
-[de:Warcraft\#Warcraft
-II](https://zh.wikipedia.org/wiki/de:Warcraft#Warcraft_II "wikilink")
+[de:Warcraft\#Warcraft II](https://zh.wikipedia.org/wiki/de:Warcraft#Warcraft_II "wikilink")
 
-[Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink")
-[Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink")
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
+[Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
 
 1.

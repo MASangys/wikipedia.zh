@@ -1,7 +1,6 @@
 ## P00-P04 胎儿和新生儿受母体因素及妊娠、产程和分娩并发症的影响
 
-P00-P04
-[胎儿和](https://zh.wikipedia.org/wiki/胎儿 "wikilink")[新生儿受母体因素及](https://zh.wikipedia.org/wiki/新生儿 "wikilink")[妊娠](../Page/妊娠.md "wikilink")、[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩](../Page/分娩.md "wikilink")并发症的影响
+P00-P04 [胎儿和](https://zh.wikipedia.org/wiki/胎儿 "wikilink")[新生儿受母体因素及](https://zh.wikipedia.org/wiki/新生儿 "wikilink")[妊娠](../Page/妊娠.md "wikilink")、[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩](../Page/分娩.md "wikilink")并发症的影响
 
   - P00 胎儿和新生儿受母体情况影响，这些情况可能与本次妊娠无关
   - P01 胎儿和新生儿受母体妊娠并发症的影响
@@ -37,8 +36,7 @@ P20-P29 特发于围生期的呼吸和心血管疾患
   - P22 新生儿呼吸窘迫
   - P23 [先天性肺炎](https://zh.wikipedia.org/wiki/先天性肺炎 "wikilink")
   - P24 [新生儿吸入综合征](https://zh.wikipedia.org/wiki/新生儿吸入综合征 "wikilink")
-  - P25
-    起源于[围生期的间质肺气肿及有关情况](https://zh.wikipedia.org/wiki/围生期 "wikilink")
+  - P25 起源于[围生期的间质肺气肿及有关情况](https://zh.wikipedia.org/wiki/围生期 "wikilink")
   - P26 起源于[围生期的肺出血](https://zh.wikipedia.org/wiki/围生期 "wikilink")
   - P27 起源于围生期的慢性呼吸性疾病
   - P28 起源于围生期的其他呼吸性情况
@@ -86,8 +84,7 @@ P75-P78 胎儿和新生儿的消化系统疾患
 
   - P75 [胎粪性肠梗阻](https://zh.wikipedia.org/wiki/胎粪性肠梗阻 "wikilink")
   - P76 新生儿其他[肠梗阻](https://zh.wikipedia.org/wiki/肠梗阻 "wikilink")
-  - P77
-    胎儿和新生儿的坏死性[小肠](../Page/小肠.md "wikilink")[结肠炎](https://zh.wikipedia.org/wiki/结肠炎 "wikilink")
+  - P77 胎儿和新生儿的坏死性[小肠](../Page/小肠.md "wikilink")[结肠炎](https://zh.wikipedia.org/wiki/结肠炎 "wikilink")
   - P78 其他围生期的消化系统疾患
 
 ## P80-P83 涉及胎儿和新生儿体被和体温调节的情况
@@ -102,9 +99,7 @@ P80-P83 涉及胎儿和新生儿体被和体温调节的情况
 
 P90-P96 起源于围生期的其他疾患
 
-  - P90
-    [新生儿痙攣](https://zh.wikipedia.org/wiki/新生儿痙攣 "wikilink")（Convulsions
-    of newborn）
+  - P90 [新生儿痙攣](https://zh.wikipedia.org/wiki/新生儿痙攣 "wikilink")（Convulsions of newborn）
   - P91 新生儿的其他[大脑障碍](https://zh.wikipedia.org/wiki/大脑障碍 "wikilink")
   - P92 新生儿喂养困难
   - P93 胎儿和新生儿用药引起的反应和中毒
@@ -117,6 +112,4 @@ P90-P96 起源于围生期的其他疾患
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

@@ -2,13 +2,11 @@
 
 急性[上呼吸道感染](https://zh.wikipedia.org/wiki/上呼吸道 "wikilink")（J00-J06）
 
-  - J00
-    急性[鼻咽炎](https://zh.wikipedia.org/wiki/鼻咽炎 "wikilink")(普通[感冒](../Page/感冒.md "wikilink"))
+  - J00 急性[鼻咽炎](https://zh.wikipedia.org/wiki/鼻咽炎 "wikilink")(普通[感冒](../Page/感冒.md "wikilink"))
   - J01 急性[鼻窦炎](https://zh.wikipedia.org/wiki/鼻窦炎 "wikilink")
   - J02 急性[咽炎](../Page/咽炎.md "wikilink")
   - J03 急性[扁桃体炎](https://zh.wikipedia.org/wiki/扁桃体炎 "wikilink")
-  - J04
-    急性[喉炎](../Page/喉炎.md "wikilink")和[气管炎](../Page/气管炎.md "wikilink")
+  - J04 急性[喉炎](../Page/喉炎.md "wikilink")和[气管炎](../Page/气管炎.md "wikilink")
   - J05 急性梗阻性喉炎(哮吼)和[会厌炎](https://zh.wikipedia.org/wiki/会厌炎 "wikilink")
   - J06 多发性和未特指部位的急性上呼吸道感染
 
@@ -20,10 +18,8 @@
   - J10 由于被标明的流行性感冒病毒引起的[流行性感冒](../Page/流行性感冒.md "wikilink")
   - J11 [流行性感冒](../Page/流行性感冒.md "wikilink")，病毒未标明
   - J12 [病毒性肺炎](../Page/病毒性肺炎.md "wikilink")，不可归类在他处者
-  - J13
-    由于[肺炎链球菌引起的](https://zh.wikipedia.org/wiki/链球菌 "wikilink")[肺炎](../Page/肺炎.md "wikilink")
-  - J14
-    由于流行性感冒[嗜血杆菌引起的肺炎](https://zh.wikipedia.org/wiki/嗜血杆菌 "wikilink")
+  - J13 由于[肺炎链球菌引起的](https://zh.wikipedia.org/wiki/链球菌 "wikilink")[肺炎](../Page/肺炎.md "wikilink")
+  - J14 由于流行性感冒[嗜血杆菌引起的肺炎](https://zh.wikipedia.org/wiki/嗜血杆菌 "wikilink")
   - J15 [细菌性肺炎](../Page/细菌性肺炎.md "wikilink")，不可归类在他处者
   - J16 由于其他传染性病原体引起的[肺炎](../Page/肺炎.md "wikilink")，不可归类在他处者
   - J17 分类于他处的疾病引起的肺炎
@@ -42,15 +38,13 @@
 [上呼吸道的其他疾病](https://zh.wikipedia.org/wiki/上呼吸道 "wikilink")（J30-J39）
 
   - J30 血管舒缩性和变应性鼻炎
-  - J31
-    慢性[鼻炎](../Page/鼻炎.md "wikilink")、[鼻咽炎和](https://zh.wikipedia.org/wiki/鼻咽炎 "wikilink")[咽炎](../Page/咽炎.md "wikilink")
+  - J31 慢性[鼻炎](../Page/鼻炎.md "wikilink")、[鼻咽炎和](https://zh.wikipedia.org/wiki/鼻咽炎 "wikilink")[咽炎](../Page/咽炎.md "wikilink")
   - J32 慢性[鼻窦炎](https://zh.wikipedia.org/wiki/鼻窦炎 "wikilink")
   - J33 [鼻息肉](../Page/鼻息肉.md "wikilink")
   - J34 鼻和[鼻窦的其他疾患](https://zh.wikipedia.org/wiki/鼻窦 "wikilink")
   - J35 [扁桃体和腺样体慢性疾病](https://zh.wikipedia.org/wiki/扁桃体 "wikilink")
   - J36 [扁桃体周围脓肿](https://zh.wikipedia.org/wiki/扁桃体 "wikilink")
-  - J37
-    慢性[喉炎](../Page/喉炎.md "wikilink")和[喉气管炎](https://zh.wikipedia.org/wiki/喉气管炎 "wikilink")
+  - J37 慢性[喉炎](../Page/喉炎.md "wikilink")和[喉气管炎](https://zh.wikipedia.org/wiki/喉气管炎 "wikilink")
   - J38 声带和喉疾病，不可归类在他处者
   - J39 上呼吸道的其他疾病
   - J40 鼻中隔偏曲
@@ -73,10 +67,8 @@
 由于外部物质引起的肺部疾病（J60-J70）
 
   - J60 [煤炭工尘肺](https://zh.wikipedia.org/wiki/煤炭工尘肺 "wikilink")
-  - J61
-    由于[石棉](../Page/石棉.md "wikilink")和其他矿物纤维引起的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
-  - J62
-    由于含[硅](../Page/硅.md "wikilink")(矽)粉尘引起的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
+  - J61 由于[石棉](../Page/石棉.md "wikilink")和其他矿物纤维引起的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
+  - J62 由于含[硅](../Page/硅.md "wikilink")(矽)粉尘引起的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
   - J63 由于其他无机粉尘引起的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
   - J64 未特指的[尘肺](https://zh.wikipedia.org/wiki/尘肺 "wikilink")
   - J65 尘肺伴有结核病
@@ -126,6 +118,4 @@
   - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")

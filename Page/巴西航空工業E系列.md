@@ -1,17 +1,14 @@
-[LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg](https://zh.wikipedia.org/wiki/File:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg "fig:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg")的E195LR\]\]
-**巴西航空工業E系列**（Embraer
-E-Jet）是[巴西航空工业公司在二十一世纪开发生產的](../Page/巴西航空工业公司.md "wikilink")[支線](https://zh.wikipedia.org/wiki/區域航線客機 "wikilink")[噴射客機型號系列](https://zh.wikipedia.org/wiki/噴射客機 "wikilink")，于2003年首次投入營運。该系列由四款机型组成，瞄準80人左右級距的市場，後來又推出100座以上的加長機型，分別是E170（70-80座）、E175（78-88座）、E190（98-114座）和E195（108-122座），具有高效率、经济性的特点，符合人机工程学的原理。
+[LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg](https://zh.wikipedia.org/wiki/File:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg "fig:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg")的E195LR\]\] **巴西航空工業E系列**（Embraer E-Jet）是[巴西航空工业公司](../Page/巴西航空工业公司.md "wikilink")在二十一世纪开发生產的[支線](https://zh.wikipedia.org/wiki/區域航線客機 "wikilink")[噴射客機型號系列](https://zh.wikipedia.org/wiki/噴射客機 "wikilink")，于2003年首次投入營運。该系列由四款机型组成，瞄準80人左右級距的市場，後來又推出100座以上的加長機型，分別是E170（70-80座）、E175（78-88座）、E190（98-114座）和E195（108-122座），具有高效率、经济性的特点，符合人机工程学的原理。
 
 E-系列飛機採用了許多新式設計如雙氣泡形機艙、EFIS航電、美國[通用電氣的發動機等](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")，在設計過程中採用虛擬現實輔助設計工作，是世界上第一款以[虛擬現實輔助設計工作的客機](https://zh.wikipedia.org/wiki/虛擬現實輔助設計 "wikilink")。目前巴西航空工業公司接到超過1551架E-系列飞机的訂單，超過650架飞机投入營運，累计飞行时间超过440万小时。公司在全球的E-系列机队平均每天的利用率达到7.13飞行小时，最新的签派可靠性和任务完成率分别达到99.23%和99.86%。
 
-本系列飛機主要競爭對手為[龐巴迪宇航生產的](../Page/龐巴迪宇航.md "wikilink")[CRJ系列客機](../Page/龐巴迪CRJ.md "wikilink")。更新發動機和機翼的[巴西航空工業E2系列已於](https://zh.wikipedia.org/wiki/巴西航空工業E2系列 "wikilink")2018年投入營運。
+本系列飛機主要競爭對手為[龐巴迪宇航](../Page/龐巴迪宇航.md "wikilink")生產的[CRJ系列客機](../Page/龐巴迪CRJ.md "wikilink")。更新發動機和機翼的[巴西航空工業E2系列已於](https://zh.wikipedia.org/wiki/巴西航空工業E2系列 "wikilink")2018年投入營運。
 
 ## 背景
 
-[Lot.embraer.e-170-100st.sp-ldd.arp.jpg](https://zh.wikipedia.org/wiki/File:Lot.embraer.e-170-100st.sp-ldd.arp.jpg "fig:Lot.embraer.e-170-100st.sp-ldd.arp.jpg")
-由於巴西航空工业公司在1990年代曾經陷入財政困難時期，它為新支線飛機計劃與世界多家航空工業機構達成合作伙伴協議，當中大部份都曾經和巴西航空工业公司在開發50座級客機上合作，並建立起良好關係。該合作伙伴協議包括共同承擔風險和合作開發和合作生產新支線客機的零件。
+[Lot.embraer.e-170-100st.sp-ldd.arp.jpg](https://zh.wikipedia.org/wiki/File:Lot.embraer.e-170-100st.sp-ldd.arp.jpg "fig:Lot.embraer.e-170-100st.sp-ldd.arp.jpg") 由於巴西航空工业公司在1990年代曾經陷入財政困難時期，它為新支線飛機計劃與世界多家航空工業機構達成合作伙伴協議，當中大部份都曾經和巴西航空工业公司在開發50座級客機上合作，並建立起良好關係。該合作伙伴協議包括共同承擔風險和合作開發和合作生產新支線客機的零件。
 
-巴西航空工业公司於1999年的[巴黎航空展首次發佈E](https://zh.wikipedia.org/wiki/巴黎航空展 "wikilink")-170及E-190計劃，是[ERJ-145系列的改良](../Page/ERJ-145系列.md "wikilink")、擴寬及加長版，也彌補了巴西航空工業的客機在70-100座級上的空缺\[1\]。
+巴西航空工业公司於1999年的[巴黎航空展首次發佈E](https://zh.wikipedia.org/wiki/巴黎航空展 "wikilink")-170及E-190計劃，是[ERJ-145系列](../Page/ERJ-145系列.md "wikilink")的改良、擴寬及加長版，也彌補了巴西航空工業的客機在70-100座級上的空缺\[1\]。
 
 E-喷气系列，E字代表：
 
@@ -37,7 +34,7 @@ E-喷气系列操作方式，除了副翼，其它的是以电傳操縱方式操
 
 ### 外部設計
 
-E-喷气系列並不是採用[ERJ-145系列的T型尾翼](../Page/ERJ-145系列.md "wikilink")，而是採用了主流噴射機一般所用的主翼下掛發動機的低翼式設計，減低發動機對客艙造成的噪音。至於主翼的設計上，則在主翼加上了小翼，以減低飛行時所遇的阻力，節省燃料。
+E-喷气系列並不是採用[ERJ-145系列](../Page/ERJ-145系列.md "wikilink")的T型尾翼，而是採用了主流噴射機一般所用的主翼下掛發動機的低翼式設計，減低發動機對客艙造成的噪音。至於主翼的設計上，則在主翼加上了小翼，以減低飛行時所遇的阻力，節省燃料。
 
 ### 發動機
 
@@ -47,13 +44,7 @@ E-喷气系列採用通用電氣公司提供的CF34系列渦輪扇發動機，�
 
 ### E-喷气系列
 
-[Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg](https://zh.wikipedia.org/wiki/File:Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg "fig:Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg")的E170-100LR。2006年時攝於德國[杜塞道夫國際機場](https://zh.wikipedia.org/wiki/杜塞道夫國際機場 "wikilink")。\]\]
-[Embraer175-01.jpg](https://zh.wikipedia.org/wiki/File:Embraer175-01.jpg "fig:Embraer175-01.jpg")的E-175\]\]
-[LFBZ_4662_EMB190.jpg](https://zh.wikipedia.org/wiki/File:LFBZ_4662_EMB190.jpg "fig:LFBZ_4662_EMB190.jpg")的E-190\]\]
-[Embraer_195_flybe_01.jpg](https://zh.wikipedia.org/wiki/File:Embraer_195_flybe_01.jpg "fig:Embraer_195_flybe_01.jpg")的E-195\]\]
-巴西航空工業公司於1999年2月向外界公佈主攻70-120座市場的E-170和E-190支線噴射客機的開發計劃。同年6月，巴西航空工業公司在法國巴黎航空展中公佈得到首個來自十字航空的15架E-170的定單。
-經過3年的開發設計，首架E-170於2001年出廠\[2\]，把飛機命名為Embraer
-170，以區別以往的Embraer飛機，但業界稱呼此機為E-170。該飛機於2002年試飛，共製作了6架原型機作飛行測試，在2004年取得適航証書，於同年3月開始交付給波蘭航空\[3\]。
+[Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg](https://zh.wikipedia.org/wiki/File:Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg "fig:Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg")的E170-100LR。2006年時攝於德國[杜塞道夫國際機場](https://zh.wikipedia.org/wiki/杜塞道夫國際機場 "wikilink")。\]\] [Embraer175-01.jpg](https://zh.wikipedia.org/wiki/File:Embraer175-01.jpg "fig:Embraer175-01.jpg")的E-175\]\] [LFBZ_4662_EMB190.jpg](https://zh.wikipedia.org/wiki/File:LFBZ_4662_EMB190.jpg "fig:LFBZ_4662_EMB190.jpg")的E-190\]\] [Embraer_195_flybe_01.jpg](https://zh.wikipedia.org/wiki/File:Embraer_195_flybe_01.jpg "fig:Embraer_195_flybe_01.jpg")的E-195\]\] 巴西航空工業公司於1999年2月向外界公佈主攻70-120座市場的E-170和E-190支線噴射客機的開發計劃。同年6月，巴西航空工業公司在法國巴黎航空展中公佈得到首個來自十字航空的15架E-170的定單。 經過3年的開發設計，首架E-170於2001年出廠\[2\]，把飛機命名為Embraer 170，以區別以往的Embraer飛機，但業界稱呼此機為E-170。該飛機於2002年試飛，共製作了6架原型機作飛行測試，在2004年取得適航証書，於同年3月開始交付給波蘭航空\[3\]。
 
 E-170採用CF34-8E型發動機，採用了翼下吊掛發動機的設計，而非過往把發動機放在機身尾端。E-170的飛行控制是利用電腦电傳操縱方式，加上EFIS飛控系統。客艙方面，採用2+2方式，廢除不受歡迎的中間位，最高載客量可達78人，而且設有兩組登機門和前後共兩個洗手間以及備餐處。
 
@@ -63,8 +54,7 @@ E-170採用CF34-8E型發動機，採用了翼下吊掛發動機的設計，而�
 
 ### E-190
 
-E-190是170型的加長版本，採用推力更大的引擎、更強大的起落架及更大的機翼，載客量提高至104人，航程為3334公里。E-190的機身橫切面同樣寬3.01公尺，但機體延長了6.34公尺以便容納更多乘客。E-190的尾翼形狀和E-170/175也有別分別。由於載客量增加，需要更大的升力，因此主翼翼展比170/175長2.72公尺。E-Jets家族的設計原則是讓營運者可以有效控制成本，E-170和190有89%的共通性，讓航空公司有需要時將170/175機隊擴充至E-190時仍可以將額外的成本支出減至最低。客艙設計上，E-190保留了兩組登機門，在機翼上方增加了逃生門，而座位排列方面採用2+2形成，廢除了不受歡迎的中間位。
-E-190在2004年3月12日試飛，2005年9月2日取得適航證。設有加長航程的LR型，使航程增加至4260公里，是整個系列中航程最遠的型號。
+E-190是170型的加長版本，採用推力更大的引擎、更強大的起落架及更大的機翼，載客量提高至104人，航程為3334公里。E-190的機身橫切面同樣寬3.01公尺，但機體延長了6.34公尺以便容納更多乘客。E-190的尾翼形狀和E-170/175也有別分別。由於載客量增加，需要更大的升力，因此主翼翼展比170/175長2.72公尺。E-Jets家族的設計原則是讓營運者可以有效控制成本，E-170和190有89%的共通性，讓航空公司有需要時將170/175機隊擴充至E-190時仍可以將額外的成本支出減至最低。客艙設計上，E-190保留了兩組登機門，在機翼上方增加了逃生門，而座位排列方面採用2+2形成，廢除了不受歡迎的中間位。 E-190在2004年3月12日試飛，2005年9月2日取得適航證。設有加長航程的LR型，使航程增加至4260公里，是整個系列中航程最遠的型號。
 
 ### E-195
 
@@ -72,8 +62,7 @@ E-190在2004年3月12日試飛，2005年9月2日取得適航證。設有加長�
 
 ### Lineage 1000
 
-**Lineage
-1000**是E-190的[公務機版本](https://zh.wikipedia.org/wiki/公務機 "wikilink")，於2006年投產。它增加了一個油箱，航程增加至7800公里，最大起飛重量增加至55000kg，載客量為19人。相比其它公務機，它的特點是擁有更長更寬闊的機身。
+**Lineage 1000**是E-190的[公務機版本](https://zh.wikipedia.org/wiki/公務機 "wikilink")，於2006年投產。它增加了一個油箱，航程增加至7800公里，最大起飛重量增加至55000kg，載客量為19人。相比其它公務機，它的特點是擁有更長更寬闊的機身。
 
 ## 規格\[4\]
 
@@ -294,12 +283,11 @@ AR：4,077公里（2,201海里）</p></td>
 
 ### 2013年LAM莫三比克航空470號班機空難
 
-2013年11月29日，一架自[莫三比克](https://zh.wikipedia.org/wiki/莫三比克 "wikilink")[馬普托國際機場起飛](https://zh.wikipedia.org/wiki/馬普托國際機場 "wikilink")，原定降落於[安哥拉](../Page/安哥拉.md "wikilink")[羅安達的](https://zh.wikipedia.org/wiki/羅安達 "wikilink")[二月四日國際機場的E](https://zh.wikipedia.org/wiki/二月四日國際機場 "wikilink")-190（[LAM莫桑比克航空](https://zh.wikipedia.org/wiki/LAM莫桑比克航空 "wikilink")）在[納米比亞坠毁](https://zh.wikipedia.org/wiki/納米比亞 "wikilink")。班機準時起飛，但未能順利抵達目的地\[9\]
-，最終在11月30日時於[納米比亞的](https://zh.wikipedia.org/wiki/納米比亞 "wikilink")[巴布瓦塔國家公園境內發現殘骸](https://zh.wikipedia.org/wiki/巴布瓦塔國家公園 "wikilink")，機上33人確定全數罹難。现场当时天气情况恶劣。但2013年12月的報告顯示，此空難可能為機長刻意造成，機長鎖住機艙不讓副駕駛進入，且無視於警告訊號。\[10\]
+2013年11月29日，一架自[莫三比克](https://zh.wikipedia.org/wiki/莫三比克 "wikilink")[馬普托國際機場起飛](https://zh.wikipedia.org/wiki/馬普托國際機場 "wikilink")，原定降落於[安哥拉](../Page/安哥拉.md "wikilink")[羅安達的](https://zh.wikipedia.org/wiki/羅安達 "wikilink")[二月四日國際機場的E](https://zh.wikipedia.org/wiki/二月四日國際機場 "wikilink")-190（[LAM莫桑比克航空](https://zh.wikipedia.org/wiki/LAM莫桑比克航空 "wikilink")）在[納米比亞坠毁](https://zh.wikipedia.org/wiki/納米比亞 "wikilink")。班機準時起飛，但未能順利抵達目的地\[9\] ，最終在11月30日時於[納米比亞的](https://zh.wikipedia.org/wiki/納米比亞 "wikilink")[巴布瓦塔國家公園境內發現殘骸](https://zh.wikipedia.org/wiki/巴布瓦塔國家公園 "wikilink")，機上33人確定全數罹難。现场当时天气情况恶劣。但2013年12月的報告顯示，此空難可能為機長刻意造成，機長鎖住機艙不讓副駕駛進入，且無視於警告訊號。\[10\]
 
 ### 2018年墨西哥连接航空2431号班机事故
 
-2018年8月1日，墨西哥连接航空一架E190AR在[杜兰戈机场起飞不久后就坠毁](../Page/杜兰戈.md "wikilink")，随后发生了爆炸。事故中97名乘客4名机组人员中有85人受伤，所幸无人遇难。
+2018年8月1日，墨西哥连接航空一架E190AR在[杜兰戈](../Page/杜兰戈.md "wikilink")机场起飞不久后就坠毁，随后发生了爆炸。事故中97名乘客4名机组人员中有85人受伤，所幸无人遇难。
 
 ## 注釋
 
@@ -315,13 +303,11 @@ AR：4,077公里（2,201海里）</p></td>
 2.
 3.  [aerospace-technology.com](http://www.aerospace-technology.com/projects/embraer_170/)
 
-4.  [Embraer Commercial Jets
-    巴西航空工業](http://www.embraer.com/english/content/home/)
+4.  [Embraer Commercial Jets 巴西航空工業](http://www.embraer.com/english/content/home/)
 
 5.  Modern Aircraft - The Embraer E-170
 
-6.  [Embraer 170
-    series](http://www.airframer.com/aircraft_detail.html?model=Embraer_170_series)
+6.  [Embraer 170 series](http://www.airframer.com/aircraft_detail.html?model=Embraer_170_series)
 
 7.
 ## 參見
@@ -333,19 +319,12 @@ AR：4,077公里（2,201海里）</p></td>
   - [巴西航空工業公司](http://www.Embraer.com/)
   - [EM-190座位图](https://web.archive.org/web/20100829194621/http://www.seatguru.com/airlines/US_Airways/US_Airways_Embraer_EMB-190.php)
 
-[Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink")
-[Category:巴西航空工業](https://zh.wikipedia.org/wiki/Category:巴西航空工業 "wikilink")
-[Category:巴西航空器](https://zh.wikipedia.org/wiki/Category:巴西航空器 "wikilink")
-[Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
+[Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink") [Category:巴西航空工業](https://zh.wikipedia.org/wiki/Category:巴西航空工業 "wikilink") [Category:巴西航空器](https://zh.wikipedia.org/wiki/Category:巴西航空器 "wikilink") [Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
 
 1.  [巴西航空工业公司](http://www.17air.net/hkgs/56132.html)
 2.  [Airliners.net](http://www.airliners.net/info/stats.main?id=406)
-3.  [巴西航空工業公司
-    EMBRAER 170客機在香港粉墨登場](http://www.ipress.com.hk/companyview.asp?id=8694)
-
-4.  [Embraer E-jet
-    specifications](http://www.embraercommercialjets.com/#/en/familia-ejets/1),
-    accessed Dec 26, 2009
+3.  [巴西航空工業公司 EMBRAER 170客機在香港粉墨登場](http://www.ipress.com.hk/companyview.asp?id=8694)
+4.  [Embraer E-jet specifications](http://www.embraercommercialjets.com/#/en/familia-ejets/1), accessed Dec 26, 2009
 5.
 6.
 7.

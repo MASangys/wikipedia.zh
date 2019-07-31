@@ -1,19 +1,12 @@
-《**KAT-TUN III -QUEEN OF
-PIRATES-**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第3張專輯，於2008年6月4日發售。
+《**KAT-TUN III -QUEEN OF PIRATES-**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第3張專輯，於2008年6月4日發售。
 
 ## 概要
 
-  - KAT-TUN第三張新專輯收錄了拿手的重搖滾的曲調（Hard Rock Tune），並集結了POPS、UPPER
-    DANCE舞曲，迷人的抒情歌曲等多彩風味的作品，全部都是以KAT-TUN的特色昇華成的新錄歌曲，也同時收錄之前排行榜冠軍單曲「[歡喜之歌](../Page/歡喜之歌.md "wikilink")」「[Keep
-    the
-    faith](../Page/Keep_the_faith.md "wikilink")」「[LIPS](../Page/LIPS.md "wikilink")」的三首歌。
+  - KAT-TUN第三張新專輯收錄了拿手的重搖滾的曲調（Hard Rock Tune），並集結了POPS、UPPER DANCE舞曲，迷人的抒情歌曲等多彩風味的作品，全部都是以KAT-TUN的特色昇華成的新錄歌曲，也同時收錄之前排行榜冠軍單曲「[歡喜之歌](../Page/歡喜之歌.md "wikilink")」「[Keep the faith](../Page/Keep_the_faith.md "wikilink")」「[LIPS](../Page/LIPS.md "wikilink")」的三首歌。
 
 <!-- end list -->
 
-  - 初回限定盤CD是加上BONUS TRACK四首歌共收錄15首歌曲。附錄的DVD中收錄了「[DON'T U EVER
-    STOP](../Page/DON'T_U_EVER_STOP.md "wikilink") -LIMITED
-    EDITION-」約8分鐘的音樂片段、短片、攝影風景及拍攝過程。而「SIX
-    SENSES」為正式出道後即發表的歌曲，這次才正式收錄到CD中。第一首歌原本預定用「TABOO」當歌名，在官方網站發表幾天後又變更為「T∀BOO」。
+  - 初回限定盤CD是加上BONUS TRACK四首歌共收錄15首歌曲。附錄的DVD中收錄了「[DON'T U EVER STOP](../Page/DON'T_U_EVER_STOP.md "wikilink") -LIMITED EDITION-」約8分鐘的音樂片段、短片、攝影風景及拍攝過程。而「SIX SENSES」為正式出道後即發表的歌曲，這次才正式收錄到CD中。第一首歌原本預定用「TABOO」當歌名，在官方網站發表幾天後又變更為「T∀BOO」。
 
 <!-- end list -->
 
@@ -86,8 +79,7 @@ PIRATES-**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第3張專輯，於20
 
   - DVD
 
-[DON'T U EVER STOP](../Page/DON'T_U_EVER_STOP.md "wikilink") -LIMITED
-EDITION- 音樂錄影帶及製作花絮
+[DON'T U EVER STOP](../Page/DON'T_U_EVER_STOP.md "wikilink") -LIMITED EDITION- 音樂錄影帶及製作花絮
 
 ### 通常盤
 
@@ -103,6 +95,4 @@ EDITION- 音樂錄影帶及製作花絮
 10. OUR STORY ～序曲～
 11. 無論經過多少年
 
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:KAT-TUN音樂專輯](https://zh.wikipedia.org/wiki/Category:KAT-TUN音樂專輯 "wikilink")
-[Category:2008年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:KAT-TUN音樂專輯](https://zh.wikipedia.org/wiki/Category:KAT-TUN音樂專輯 "wikilink") [Category:2008年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯週榜冠軍作品 "wikilink")

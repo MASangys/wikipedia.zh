@@ -1,6 +1,4 @@
-**Bucherer–Bergs反应**，是[羰基](../Page/羰基.md "wikilink")化合物（如[醛](../Page/醛.md "wikilink")類、[酮](../Page/酮.md "wikilink")類）与[氰化钾](../Page/氰化钾.md "wikilink")及[碳酸铵](../Page/碳酸铵.md "wikilink")，或[氰醇与碳酸铵直接反应生成](https://zh.wikipedia.org/wiki/氰醇 "wikilink")[乙内酰脲](../Page/乙内酰脲.md "wikilink")类化合物的反应。\[1\]\[2\]\[3\]\[4\]
-反应以德国化学家[汉斯·布克尔](https://zh.wikipedia.org/wiki/汉斯·布克尔 "wikilink")（Hans
-Theodor Bucherer）和H. Bergs的名字命名。
+**Bucherer–Bergs反应**，是[羰基](../Page/羰基.md "wikilink")化合物（如[醛](../Page/醛.md "wikilink")類、[酮](../Page/酮.md "wikilink")類）与[氰化钾](../Page/氰化钾.md "wikilink")及[碳酸铵](../Page/碳酸铵.md "wikilink")，或[氰醇与碳酸铵直接反应生成](https://zh.wikipedia.org/wiki/氰醇 "wikilink")[乙内酰脲](../Page/乙内酰脲.md "wikilink")类化合物的反应。\[1\]\[2\]\[3\]\[4\] 反应以德国化学家[汉斯·布克尔](https://zh.wikipedia.org/wiki/汉斯·布克尔 "wikilink")（Hans Theodor Bucherer）和H. Bergs的名字命名。
 
 [Bucherer_Übersicht.svg](https://zh.wikipedia.org/wiki/File:Bucherer_Übersicht.svg "fig:Bucherer_Übersicht.svg")
 
@@ -25,25 +23,12 @@ Bucherer–Bergs反应的一个变体是**Bucherer-Lieb反应**，是使用稀�
 
 ## 外部链接
 
-  - 《杂环化学中的人名反应》一书中的
-    [Bucherer-Bergs反应](http://books.google.com/books?id=1N-MZVSesTcC&pg=PA266&lpg=PA266&dq=Bucherer-Bergs+reaction&source=bl&ots=uhRbn-e85m&sig=bifGXVcR5kRhFcttWJmeUQ3QmLA&hl=en&ei=sRFOSu7-J4iysgPjlN2qDQ&sa=X&oi=book_result&ct=result&resnum=9)
-    一节，于Google图书
+  - 《杂环化学中的人名反应》一书中的 [Bucherer-Bergs反应](http://books.google.com/books?id=1N-MZVSesTcC&pg=PA266&lpg=PA266&dq=Bucherer-Bergs+reaction&source=bl&ots=uhRbn-e85m&sig=bifGXVcR5kRhFcttWJmeUQ3QmLA&hl=en&ei=sRFOSu7-J4iysgPjlN2qDQ&sa=X&oi=book_result&ct=result&resnum=9) 一节，于Google图书
   - [Bucherer-Bergs反应](https://www.organic-chemistry.org/namedreactions/bucherer-bergs-reaction.shtm)，于organic-chemistry.org
 
-[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")
-[Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink")
-[Category:杂环合成反应](https://zh.wikipedia.org/wiki/Category:杂环合成反应 "wikilink")
-[Category:多组分反应](https://zh.wikipedia.org/wiki/Category:多组分反应 "wikilink")
-[Category:乙内酰脲](https://zh.wikipedia.org/wiki/Category:乙内酰脲 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink") [Category:杂环合成反应](https://zh.wikipedia.org/wiki/Category:杂环合成反应 "wikilink") [Category:多组分反应](https://zh.wikipedia.org/wiki/Category:多组分反应 "wikilink") [Category:乙内酰脲](https://zh.wikipedia.org/wiki/Category:乙内酰脲 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
-1.  Bucherer, H. T.; Fischbeck, H. T. *[J. Prakt.
-    Chem.](https://zh.wikipedia.org/wiki/J._Prakt._Chem. "wikilink")*
-    **1934**, *140*, 69.
-2.  Bucherer, H. T.; Steiner, W. *[J. Prakt.
-    Chem.](https://zh.wikipedia.org/wiki/J._Prakt._Chem. "wikilink")*
-    **1934**, *140*, 291.
+1.  Bucherer, H. T.; Fischbeck, H. T. *[J. Prakt. Chem.](https://zh.wikipedia.org/wiki/J._Prakt._Chem. "wikilink")* **1934**, *140*, 69.
+2.  Bucherer, H. T.; Steiner, W. *[J. Prakt. Chem.](https://zh.wikipedia.org/wiki/J._Prakt._Chem. "wikilink")* **1934**, *140*, 291.
 3.  Bergs, H. Ger. pat. 566,094 (1929).
-4.  Ware, E. *[Chem.
-    Rev.](https://zh.wikipedia.org/wiki/Chem._Rev. "wikilink")*
-    **1950**, *46*, 403. （综述）
+4.  Ware, E. *[Chem. Rev.](https://zh.wikipedia.org/wiki/Chem._Rev. "wikilink")* **1950**, *46*, 403. （综述）

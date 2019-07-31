@@ -1,7 +1,6 @@
 **errno.h**是[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫](../Page/C標準函式庫.md "wikilink")裡的標頭檔，定義了透過[錯誤碼來回報錯誤資訊的巨集](https://zh.wikipedia.org/wiki/錯誤碼 "wikilink")：
 
-  - `errno`巨集定義為一個`int`型態的[左值](https://zh.wikipedia.org/wiki/左值 "wikilink"),
-    包含任何函式使用errno功能所產生的上一個錯誤碼。
+  - `errno`巨集定義為一個`int`型態的[左值](https://zh.wikipedia.org/wiki/左值 "wikilink"), 包含任何函式使用errno功能所產生的上一個錯誤碼。
   - 一些表示錯誤碼，定義為整數值的巨集：
       - `EDOM`源自函式的參數超出範圍,例如`sqrt(-1)`
       - `ERANGE`源自函式的結果超出範圍,例如`strtol("0xfffffffff",NULL,0)`
@@ -9,9 +8,7 @@
 
 [POSIX相容的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[作業系統像是](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[UNIX或](https://zh.wikipedia.org/wiki/Unix "wikilink")[Linux](../Page/Linux.md "wikilink")或許會包含其他巨集來表示其他作業系統的錯誤碼
 
-2003年12月29日，[SCO Group對被選上的](../Page/SCO_Group.md "wikilink")[Fortune
-1000發布](https://zh.wikipedia.org/wiki/Fortune_1000 "wikilink")[DMCA公告](https://zh.wikipedia.org/wiki/Digital_Millennium_Copyright_Act "wikilink")，宣稱errno.h在未授權的狀況下從UNIX系統複製到了Linux系統。Linux的製作者兼商標擁有者Linus
-Torvalds否認SCO的指控，說是他自己寫了Linux版本的程式。
+2003年12月29日，[SCO Group對被選上的](../Page/SCO_Group.md "wikilink")[Fortune 1000發布](https://zh.wikipedia.org/wiki/Fortune_1000 "wikilink")[DMCA公告](https://zh.wikipedia.org/wiki/Digital_Millennium_Copyright_Act "wikilink")，宣稱errno.h在未授權的狀況下從UNIX系統複製到了Linux系統。Linux的製作者兼商標擁有者Linus Torvalds否認SCO的指控，說是他自己寫了Linux版本的程式。
 
 ## 源代码
 
@@ -151,22 +148,13 @@ errno.h 在 linux 中的代码:
 ## 其他項目
 
   - [C標準函式庫](../Page/C標準函式庫.md "wikilink")
-  - [SCO v. IBM Linux
-    lawsuit](https://zh.wikipedia.org/wiki/SCO_v._IBM_Linux_lawsuit "wikilink")
-  - [stdio.h](https://zh.wikipedia.org/wiki/stdio.h "wikilink") (for
-    [perror](https://zh.wikipedia.org/wiki/perror "wikilink"))
-  - [string.h](https://zh.wikipedia.org/wiki/string.h "wikilink") (for
-    [strerror](https://zh.wikipedia.org/wiki/strerror "wikilink"))
+  - [SCO v. IBM Linux lawsuit](https://zh.wikipedia.org/wiki/SCO_v._IBM_Linux_lawsuit "wikilink")
+  - [stdio.h](https://zh.wikipedia.org/wiki/stdio.h "wikilink") (for [perror](https://zh.wikipedia.org/wiki/perror "wikilink"))
+  - [string.h](https://zh.wikipedia.org/wiki/string.h "wikilink") (for [strerror](https://zh.wikipedia.org/wiki/strerror "wikilink"))
 
 ## 外部連結
 
-  - [Linus Torvalds's commentary on
-    errno.h](https://archive.is/20121214181659/http://www.ussg.iu.edu/hypermail/linux/kernel/0312.2/1241.html)
-  - [Commentary on the SCO Dec 2003 ABI Files letter, including a
-    detailed analysis of the history of
-    errno.h](https://web.archive.org/web/20090906043037/http://healconsulting.com/SCO/sco-letter.html#table)
-  - [Warren Toomey, of the UNIX Heritage Society, traces the history of
-    errno.h in Unix and
-    Linux](http://www.groklaw.net/article.php?story=20040221192536920)
-  - [Lists of errno values, both numeric and
-    symbolic](http://www.finalcog.com/c-error-codes-include-errno)
+  - [Linus Torvalds's commentary on errno.h](https://archive.is/20121214181659/http://www.ussg.iu.edu/hypermail/linux/kernel/0312.2/1241.html)
+  - [Commentary on the SCO Dec 2003 ABI Files letter, including a detailed analysis of the history of errno.h](https://web.archive.org/web/20090906043037/http://healconsulting.com/SCO/sco-letter.html#table)
+  - [Warren Toomey, of the UNIX Heritage Society, traces the history of errno.h in Unix and Linux](http://www.groklaw.net/article.php?story=20040221192536920)
+  - [Lists of errno values, both numeric and symbolic](http://www.finalcog.com/c-error-codes-include-errno)

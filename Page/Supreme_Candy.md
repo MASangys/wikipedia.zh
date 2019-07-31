@@ -1,21 +1,14 @@
-《**Supreme
-Candy**》（，意譯：最高糖果～王道之所以為王道！～）是2008年9月26日由遊戲品牌[枕發售的](../Page/枕_\(遊戲品牌\).md "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。\[1\]
+《**Supreme Candy**》（，意譯：最高糖果～王道之所以為王道！～）是2008年9月26日由遊戲品牌[枕發售的](../Page/枕_\(遊戲品牌\).md "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。\[1\]
 
-2008年4月21日在枕的官方網站以及[Enterbrain](../Page/Enterbrain.md "wikilink")的遊戲雜誌「[TECH
-GIAN](../Page/TECH_GIAN.md "wikilink")」6月號上首次公開情報。為繼《[H2O -FOOTPRINTS IN
-THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》《[√after
-and
-another](https://zh.wikipedia.org/wiki/√after_and_another "wikilink")》之後，枕的第3款作品，類型為[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，女主角人數為7人。劇本和前二作一樣由[藤倉絢一擔當](https://zh.wikipedia.org/wiki/藤倉絢一 "wikilink")。負責原畫的4名[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")（[いぬがみきら](../Page/狗神煌.md "wikilink")、[梱枝りこ](https://zh.wikipedia.org/wiki/梱枝りこ "wikilink")、[深森](https://zh.wikipedia.org/wiki/水澤深森 "wikilink")、[karory](https://zh.wikipedia.org/wiki/karory "wikilink")）皆為女性。
+2008年4月21日在枕的官方網站以及[Enterbrain](../Page/Enterbrain.md "wikilink")的遊戲雜誌「[TECH GIAN](../Page/TECH_GIAN.md "wikilink")」6月號上首次公開情報。為繼《[H2O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》《[√after and another](https://zh.wikipedia.org/wiki/√after_and_another "wikilink")》之後，枕的第3款作品，類型為[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，女主角人數為7人。劇本和前二作一樣由[藤倉絢一擔當](https://zh.wikipedia.org/wiki/藤倉絢一 "wikilink")。負責原畫的4名[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")（[いぬがみきら](../Page/狗神煌.md "wikilink")、[梱枝りこ](https://zh.wikipedia.org/wiki/梱枝りこ "wikilink")、[深森](https://zh.wikipedia.org/wiki/水澤深森 "wikilink")、[karory](https://zh.wikipedia.org/wiki/karory "wikilink")）皆為女性。
 
-成人遊戲雜誌「TECH
-GIAN」「[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")」兩雜誌的附錄DVD-ROM收錄有可進行遊戲開頭部分的[體驗版](https://zh.wikipedia.org/wiki/體驗版 "wikilink")（無角色語音）。產品的予約特典為枕的另一作《[櫻之詩](../Page/櫻之詩.md "wikilink")》（）的第一章「」遊戲內容CD-ROM。
+成人遊戲雜誌「TECH GIAN」「[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")」兩雜誌的附錄DVD-ROM收錄有可進行遊戲開頭部分的[體驗版](https://zh.wikipedia.org/wiki/體驗版 "wikilink")（無角色語音）。產品的予約特典為枕的另一作《[櫻之詩](../Page/櫻之詩.md "wikilink")》（）的第一章「」遊戲內容CD-ROM。
 
 ## 概要
 
 登場角色中有多位稱得上是[御宅族](../Page/御宅族.md "wikilink")的人物，作中可以見到多處有關[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[藝人的](https://zh.wikipedia.org/wiki/藝人 "wikilink")[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。
 
-另外也有《[H2O -FOOTPRINTS IN THE
-SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》的遊戲、動畫相關題材，像是「」（魔法少女音羽）。
+另外也有《[H2O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》的遊戲、動畫相關題材，像是「」（魔法少女音羽）。
 
 ## 故事簡介
 
@@ -96,12 +89,10 @@ SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》的遊戲、動畫�
       - 佐久間弓音、斗南優：[深森](https://zh.wikipedia.org/wiki/水澤深森 "wikilink")（這部作品之後改筆名為水澤深森）
       - 湊向日葵、藍原時未、天乃羽依：[梱枝りこ](https://zh.wikipedia.org/wiki/梱枝りこ "wikilink")
       - 七星朱里：[karory](https://zh.wikipedia.org/wiki/karory "wikilink")
-  - 劇本：[SCA-自](https://zh.wikipedia.org/wiki/SCA-自 "wikilink")、[藤倉絢一](https://zh.wikipedia.org/wiki/藤倉絢一 "wikilink")、[柚子璃刃](https://zh.wikipedia.org/wiki/柚子璃刃 "wikilink")、[Team
-    N.G.X](https://zh.wikipedia.org/wiki/Team_N.G.X "wikilink")、彩音、千歲
+  - 劇本：[SCA-自](https://zh.wikipedia.org/wiki/SCA-自 "wikilink")、[藤倉絢一](https://zh.wikipedia.org/wiki/藤倉絢一 "wikilink")、[柚子璃刃](https://zh.wikipedia.org/wiki/柚子璃刃 "wikilink")、[Team N.G.X](https://zh.wikipedia.org/wiki/Team_N.G.X "wikilink")、彩音、千歲
   - 主題歌：『』（不會飛的魔法使）
       - 作詞：藤倉絢一
-      - 作曲編曲：[Pixel
-        Bee](https://zh.wikipedia.org/wiki/Pixel_Bee "wikilink")
+      - 作曲編曲：[Pixel Bee](https://zh.wikipedia.org/wiki/Pixel_Bee "wikilink")
       - 歌：[やなぎなぎ](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")
 
 ## 購入特典
@@ -109,10 +100,8 @@ SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》的遊戲、動畫�
   - 商品同梱特典：「しゅぷれ～むキャンディ」特典冊子（原畫集）
   - 予約活動特典：「」
   - 店鋪特典
-      - [Sofmap](https://zh.wikipedia.org/wiki/Sofmap "wikilink")：新圖電話卡、新錄戲劇CD
-        附特製小冊子（第1話『』、第2話『』）
-      - [MESSE
-        SANOH](https://zh.wikipedia.org/wiki/MESSE_SANOH "wikilink")：等身大新圖床單
+      - [Sofmap](https://zh.wikipedia.org/wiki/Sofmap "wikilink")：新圖電話卡、新錄戲劇CD 附特製小冊子（第1話『』、第2話『』）
+      - [MESSE SANOH](https://zh.wikipedia.org/wiki/MESSE_SANOH "wikilink")：等身大新圖床單
       - [Getchu屋](https://zh.wikipedia.org/wiki/Getchu屋 "wikilink")：新圖電話卡
 
 ## 相關商品
@@ -121,8 +110,7 @@ SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》的遊戲、動畫�
 
 <!-- end list -->
 
-  - （[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")、2009年2月11日發售、ISBN
-    978-4-575-30106-9）
+  - （[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")、2009年2月11日發售、ISBN 978-4-575-30106-9）
 
 ## 參考文獻
 
@@ -130,11 +118,6 @@ SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")》的遊戲、動畫�
 
   - [枕 -makura web-](http://www.makura-soft.com/)
 
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
-[Category:KeroQ](https://zh.wikipedia.org/wiki/Category:KeroQ "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink")
-[Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
+[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:KeroQ](https://zh.wikipedia.org/wiki/Category:KeroQ "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink") [Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
 
 1.

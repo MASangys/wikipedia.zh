@@ -1,12 +1,6 @@
-[Miles Away](https://zh.wikipedia.org/wiki/Miles_Away "wikilink"){{〉}} |
-拍攝地 =  | 執行製片 = | 製片人 = 後藤博幸、清水一幸 | 國家 =  | 語言 =
-[日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | 頻道 =
-[富士電視台](../Page/富士電視台.md "wikilink") | 播出國家 =  | 開始 =
-2008年5月12日 | 結束 = 2008年7月14日 | 集數 = 10 | 官方網站 =
-<https://web.archive.org/web/20101005231007/http://wwwz.fujitv.co.jp/change/>
-| imdb_id = | tv_com_id = }}
+[Miles Away](https://zh.wikipedia.org/wiki/Miles_Away "wikilink"){{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 後藤博幸、清水一幸 | 國家 =  | 語言 = [日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | 頻道 = [富士電視台](../Page/富士電視台.md "wikilink") | 播出國家 =  | 開始 = 2008年5月12日 | 結束 = 2008年7月14日 | 集數 = 10 | 官方網站 = <https://web.archive.org/web/20101005231007/http://wwwz.fujitv.co.jp/change/> | imdb_id = | tv_com_id = }}
 
-《**CHANGE**》是自2008年5月12日起至2008年7月14日，由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[及其聯播網於每星期一](https://zh.wikipedia.org/wiki/FNS "wikilink")21:00-21:54（日本時間）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[木村拓哉](../Page/木村拓哉.md "wikilink")、[深津繪里](../Page/深津繪里.md "wikilink")、[阿部寬](../Page/阿部寬.md "wikilink")、[加藤羅莎等人主演](../Page/加藤羅莎.md "wikilink")。首回的播放時間延長30分鐘到22:24。
+《**CHANGE**》是自2008年5月12日起至2008年7月14日，由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[及其聯播網於每星期一](https://zh.wikipedia.org/wiki/FNS "wikilink")21:00-21:54（日本時間）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[木村拓哉](../Page/木村拓哉.md "wikilink")、[深津繪里](../Page/深津繪里.md "wikilink")、[阿部寬](../Page/阿部寬.md "wikilink")、[加藤羅莎](../Page/加藤羅莎.md "wikilink")等人主演。首回的播放時間延長30分鐘到22:24。
 
 ## 劇情
 
@@ -16,8 +10,7 @@
 
 ### 主角關係人物
 
-  - 朝倉啟太（35）-
-    [木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（香港配音：[蘇強文](../Page/蘇強文.md "wikilink")）
+  - 朝倉啟太（35）- [木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（香港配音：[蘇強文](../Page/蘇強文.md "wikilink")）
 
 <!-- end list -->
 
@@ -26,8 +19,7 @@
 
 <!-- end list -->
 
-  - 美山理香（35）-
-    [深津繪里](../Page/深津繪里.md "wikilink")（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+  - 美山理香（35）- [深津繪里](../Page/深津繪里.md "wikilink")（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
 
 <!-- end list -->
 
@@ -36,8 +28,7 @@
 
 <!-- end list -->
 
-  - 韮澤勝利（44）-
-    [阿部寬](../Page/阿部寬.md "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+  - 韮澤勝利（44）- [阿部寬](../Page/阿部寬.md "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
@@ -46,8 +37,7 @@
 
 <!-- end list -->
 
-  - 宮本光（23）-
-    [加藤羅莎](../Page/加藤羅莎.md "wikilink")（香港配音：[程文意](../Page/程文意.md "wikilink")）
+  - 宮本光（23）- [加藤羅莎](../Page/加藤羅莎.md "wikilink")（香港配音：[程文意](../Page/程文意.md "wikilink")）
 
 <!-- end list -->
 
@@ -56,8 +46,7 @@
 
 <!-- end list -->
 
-  - 月丘瑠美子（35）-
-    [堀内敬子](../Page/堀内敬子.md "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
+  - 月丘瑠美子（35）- [堀内敬子](../Page/堀内敬子.md "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
 
 <!-- end list -->
 
@@ -69,8 +58,7 @@
   - 松谷 -
   - 檀原段（36） - （香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
   - 羽鳥 -
-  - 朝倉貴江（59）-
-    [富司純子](https://zh.wikipedia.org/wiki/富司純子 "wikilink")（香港配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
+  - 朝倉貴江（59）- [富司純子](https://zh.wikipedia.org/wiki/富司純子 "wikilink")（香港配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
 
 <!-- end list -->
 
@@ -86,8 +74,7 @@
 
 支持度處於有史以來最低的危險情況。為避免下屆選舉輸給在野黨，黨內高層展開一連串的權力運作。黨內最高層為神林正一、小野田朝雄、二瓶榮、垣内達彦等人。此數人對朝倉一派持著既想利用又想扯後腿的態度，而他們之間也在暗鬥黨內第一人之位，權衡關係複雜。
 
-  - 神林正一（59）-
-    [寺尾聰](../Page/寺尾聰.md "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - 神林正一（59）- [寺尾聰](../Page/寺尾聰.md "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
 
 <!-- end list -->
 
@@ -96,8 +83,7 @@
 
 <!-- end list -->
 
-  - 近藤光輝（54）- [風間杜夫](../Page/風間杜夫.md "wikilink")
-    （香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - 近藤光輝（54）- [風間杜夫](../Page/風間杜夫.md "wikilink") （香港配音：[招世亮](../Page/招世亮.md "wikilink")）
 
 <!-- end list -->
 
@@ -106,8 +92,7 @@
 
 <!-- end list -->
 
-  - 小野田朝雄（67）-
-    [中村敦夫](../Page/中村敦夫.md "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
+  - 小野田朝雄（67）- [中村敦夫](../Page/中村敦夫.md "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
 
 <!-- end list -->
 
@@ -134,8 +119,7 @@
 
 <!-- end list -->
 
-  - 生方恒男（38）- [石黑賢](../Page/石黑賢.md "wikilink")
-    （香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
+  - 生方恒男（38）- [石黑賢](../Page/石黑賢.md "wikilink") （香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
 
 <!-- end list -->
 
@@ -144,8 +128,7 @@
 
 <!-- end list -->
 
-  - 鴨志田 - [東根作壽英](https://zh.wikipedia.org/wiki/東根作壽英 "wikilink")
-    （香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
+  - 鴨志田 - [東根作壽英](https://zh.wikipedia.org/wiki/東根作壽英 "wikilink") （香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
   - 高柳 - （香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）
   - 森重利一 - [隈部洋平](https://zh.wikipedia.org/wiki/隈部洋平 "wikilink")
   - 鵜飼武彥（77）- （特別演出；香港配音：[譚炳文](../Page/譚炳文.md "wikilink")）
@@ -157,11 +140,9 @@
 
 <!-- end list -->
 
-  - 五十川秀樹 -
-    [兒玉謙次](https://zh.wikipedia.org/wiki/兒玉謙次 "wikilink")（香港配音：[譚炳文](../Page/譚炳文.md "wikilink")）
+  - 五十川秀樹 - [兒玉謙次](https://zh.wikipedia.org/wiki/兒玉謙次 "wikilink")（香港配音：[譚炳文](../Page/譚炳文.md "wikilink")）
   - 綿見大一郎 - （香港配音：[盧國權](../Page/盧國權.md "wikilink")）
-  - 小松崎和也 -
-    [久富惟晴](https://zh.wikipedia.org/wiki/久富惟晴 "wikilink")（香港配音：[林國雄](../Page/林國雄.md "wikilink")）
+  - 小松崎和也 - [久富惟晴](https://zh.wikipedia.org/wiki/久富惟晴 "wikilink")（香港配音：[林國雄](../Page/林國雄.md "wikilink")）
   - 中村勘 -
   - 下山三郎 - [渡邊憲吉](https://zh.wikipedia.org/wiki/渡邊憲吉 "wikilink")
   - 大龜順三郎 - [戶澤佑介](https://zh.wikipedia.org/wiki/戶澤佑介 "wikilink")
@@ -172,8 +153,7 @@
 
 ### 總理大臣事務秘書官
 
-  - 百坂哲也（48）-
-    [西村雅彥](../Page/西村雅彥.md "wikilink")（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）
+  - 百坂哲也（48）- [西村雅彥](../Page/西村雅彥.md "wikilink")（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
 <!-- end list -->
 
@@ -182,87 +162,58 @@
 
 <!-- end list -->
 
-  - 郡司敏夫（56）-
-    [平泉成](https://zh.wikipedia.org/wiki/平泉成 "wikilink")（香港配音：[梁志達](../Page/梁志達.md "wikilink")）
+  - 郡司敏夫（56）- [平泉成](https://zh.wikipedia.org/wiki/平泉成 "wikilink")（香港配音：[梁志達](../Page/梁志達.md "wikilink")）
   - 西誠二（42）- （香港配音：[雷霆](../Page/雷霆.md "wikilink")）
-  - 秋山太郎勘介（34）-
-    [鈴木浩介](https://zh.wikipedia.org/wiki/鈴木浩介_\(演員\) "wikilink")（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - 秋山太郎勘介（34）- [鈴木浩介](https://zh.wikipedia.org/wiki/鈴木浩介_\(演員\) "wikilink")（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）
 
 ### 高峰町立清澤小學學生
 
-  - 小島美久 -
-    [山田夏海](https://zh.wikipedia.org/wiki/山田夏海 "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
-  - 上野茜 -
-    [小野花梨](https://zh.wikipedia.org/wiki/小野花梨 "wikilink")（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
-  - 林和人 -
-    [一之瀨聖崇](https://zh.wikipedia.org/wiki/一之瀨聖崇 "wikilink")（香港配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）
-  - 村田淳之介 -
-    [岩沼佑亮](https://zh.wikipedia.org/wiki/岩沼佑亮 "wikilink")（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
-  - 桑名琢磨 -
-    [五十畑哉耶](https://zh.wikipedia.org/wiki/五十畑哉耶 "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
-  - 其他演員 -
-    [伊藤龍彌](https://zh.wikipedia.org/wiki/伊藤龍彌 "wikilink")、[今泉野乃香](https://zh.wikipedia.org/wiki/今泉野乃香 "wikilink")、[入江姫加](https://zh.wikipedia.org/wiki/入江姫加 "wikilink")、[兼尾瑞穗](https://zh.wikipedia.org/wiki/兼尾瑞穗 "wikilink")、[越川禮菜](https://zh.wikipedia.org/wiki/越川禮菜 "wikilink")、[田邊未佳](https://zh.wikipedia.org/wiki/田邊未佳 "wikilink")、[千葉理奈](https://zh.wikipedia.org/wiki/千葉理奈 "wikilink")、[東郷晉也](https://zh.wikipedia.org/wiki/東郷晉也 "wikilink")、[新見紗央](https://zh.wikipedia.org/wiki/新見紗央 "wikilink")、[西浦璃奈](https://zh.wikipedia.org/wiki/西浦璃奈 "wikilink")、[服部唯人](https://zh.wikipedia.org/wiki/服部唯人 "wikilink")、[遼花](https://zh.wikipedia.org/wiki/遼花 "wikilink")、[山谷花純](../Page/山谷花純.md "wikilink")
+  - 小島美久 - [山田夏海](https://zh.wikipedia.org/wiki/山田夏海 "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - 上野茜 - [小野花梨](https://zh.wikipedia.org/wiki/小野花梨 "wikilink")（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
+  - 林和人 - [一之瀨聖崇](https://zh.wikipedia.org/wiki/一之瀨聖崇 "wikilink")（香港配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）
+  - 村田淳之介 - [岩沼佑亮](https://zh.wikipedia.org/wiki/岩沼佑亮 "wikilink")（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）
+  - 桑名琢磨 - [五十畑哉耶](https://zh.wikipedia.org/wiki/五十畑哉耶 "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
+  - 其他演員 - [伊藤龍彌](https://zh.wikipedia.org/wiki/伊藤龍彌 "wikilink")、[今泉野乃香](https://zh.wikipedia.org/wiki/今泉野乃香 "wikilink")、[入江姫加](https://zh.wikipedia.org/wiki/入江姫加 "wikilink")、[兼尾瑞穗](https://zh.wikipedia.org/wiki/兼尾瑞穗 "wikilink")、[越川禮菜](https://zh.wikipedia.org/wiki/越川禮菜 "wikilink")、[田邊未佳](https://zh.wikipedia.org/wiki/田邊未佳 "wikilink")、[千葉理奈](https://zh.wikipedia.org/wiki/千葉理奈 "wikilink")、[東郷晉也](https://zh.wikipedia.org/wiki/東郷晉也 "wikilink")、[新見紗央](https://zh.wikipedia.org/wiki/新見紗央 "wikilink")、[西浦璃奈](https://zh.wikipedia.org/wiki/西浦璃奈 "wikilink")、[服部唯人](https://zh.wikipedia.org/wiki/服部唯人 "wikilink")、[遼花](https://zh.wikipedia.org/wiki/遼花 "wikilink")、[山谷花純](../Page/山谷花純.md "wikilink")
 
 ### 其他
 
-  - 外木場清光 -
-    [上田耕一](https://zh.wikipedia.org/wiki/上田耕一 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
-  - 熊田 -
-    [田窪一世](https://zh.wikipedia.org/wiki/田窪一世 "wikilink")（香港配音：[梁志達](../Page/梁志達.md "wikilink")）
-  - 新保 久子 -
-    [福松美](https://zh.wikipedia.org/wiki/福松美 "wikilink")（香港配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）
-  - 播報員 -
-    [並樹史朗](https://zh.wikipedia.org/wiki/並樹史朗 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
-  - 村山嘉津男（57） -
-    [泉谷茂](https://zh.wikipedia.org/wiki/泉谷茂 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
-  - 電視節目主持人 -
-    [吹田明日香](https://zh.wikipedia.org/wiki/吹田明日香 "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
-  - JBS電視台人員 -
-    [UNJASH](../Page/UNJASH.md "wikilink")（[兒嶋一哉](../Page/兒嶋一哉.md "wikilink")、[渡部建](https://zh.wikipedia.org/wiki/渡部建 "wikilink")）（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
-  - 食堂的夫婦 -
-    [菊池均也](https://zh.wikipedia.org/wiki/菊池均也 "wikilink")、[宮地雅子](https://zh.wikipedia.org/wiki/宮地雅子 "wikilink")（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")、[伍秀霞](../Page/伍秀霞.md "wikilink")）
-  - 久野正次郎（68） -
-    [森本雷歐](https://zh.wikipedia.org/wiki/森本雷歐 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - 外木場清光 - [上田耕一](https://zh.wikipedia.org/wiki/上田耕一 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 熊田 - [田窪一世](https://zh.wikipedia.org/wiki/田窪一世 "wikilink")（香港配音：[梁志達](../Page/梁志達.md "wikilink")）
+  - 新保 久子 - [福松美](https://zh.wikipedia.org/wiki/福松美 "wikilink")（香港配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）
+  - 播報員 - [並樹史朗](https://zh.wikipedia.org/wiki/並樹史朗 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
+  - 村山嘉津男（57） - [泉谷茂](https://zh.wikipedia.org/wiki/泉谷茂 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
+  - 電視節目主持人 - [吹田明日香](https://zh.wikipedia.org/wiki/吹田明日香 "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+  - JBS電視台人員 - [UNJASH](../Page/UNJASH.md "wikilink")（[兒嶋一哉](../Page/兒嶋一哉.md "wikilink")、[渡部建](https://zh.wikipedia.org/wiki/渡部建 "wikilink")）（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 食堂的夫婦 - [菊池均也](https://zh.wikipedia.org/wiki/菊池均也 "wikilink")、[宮地雅子](https://zh.wikipedia.org/wiki/宮地雅子 "wikilink")（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")、[伍秀霞](../Page/伍秀霞.md "wikilink")）
+  - 久野正次郎（68） - [森本雷歐](https://zh.wikipedia.org/wiki/森本雷歐 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
   - 老奶奶 - [森康子](https://zh.wikipedia.org/wiki/森康子 "wikilink")
   - 國土交通省事務次官 - [淺見小四郎](https://zh.wikipedia.org/wiki/淺見小四郎 "wikilink")
-  - 哈利·賓漢通商代表 -
-    [尼可拉斯·佩塔斯](https://zh.wikipedia.org/wiki/尼可拉斯·佩塔斯 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
+  - 哈利·賓漢通商代表 - [尼可拉斯·佩塔斯](https://zh.wikipedia.org/wiki/尼可拉斯·佩塔斯 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
   - 喬治·達加特 - [賽恩·卡繆](https://zh.wikipedia.org/wiki/賽恩·卡繆 "wikilink")
-  - 早川奈津子 -
-    [上原美佐](https://zh.wikipedia.org/wiki/上原美佐 "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
-  - 小柳健介 -
-    [忍成修吾](../Page/忍成修吾.md "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
-  - 野呂勘三郎（63） -
-    [高橋英樹](https://zh.wikipedia.org/wiki/高橋英樹 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
+  - 早川奈津子 - [上原美佐](https://zh.wikipedia.org/wiki/上原美佐 "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+  - 小柳健介 - [忍成修吾](../Page/忍成修吾.md "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
+  - 野呂勘三郎（63） - [高橋英樹](https://zh.wikipedia.org/wiki/高橋英樹 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
   - 多湖議員 - [齊藤曉](https://zh.wikipedia.org/wiki/齊藤曉 "wikilink")
-  - 松井尚子 -
-    [高橋由美子](https://zh.wikipedia.org/wiki/高橋由美子 "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
-  - 松井亮介 -
-    [廣田亮平](../Page/廣田亮平.md "wikilink")（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
-  - 財務省會計局長 -
-    [田口主將](https://zh.wikipedia.org/wiki/田口主將 "wikilink")（香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
-  - 財務省幹部 -
-    [神崎智孝](https://zh.wikipedia.org/wiki/神崎智孝 "wikilink")（香港配音：[林保全](../Page/林保全.md "wikilink")）
-  - 法國大使夫妻 -
-    [伊恩·摩爾](https://zh.wikipedia.org/wiki/伊恩·摩爾 "wikilink")（香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）、[黛莎](https://zh.wikipedia.org/wiki/黛莎 "wikilink")
+  - 松井尚子 - [高橋由美子](https://zh.wikipedia.org/wiki/高橋由美子 "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
+  - 松井亮介 - [廣田亮平](../Page/廣田亮平.md "wikilink")（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
+  - 財務省會計局長 - [田口主將](https://zh.wikipedia.org/wiki/田口主將 "wikilink")（香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
+  - 財務省幹部 - [神崎智孝](https://zh.wikipedia.org/wiki/神崎智孝 "wikilink")（香港配音：[林保全](../Page/林保全.md "wikilink")）
+  - 法國大使夫妻 - [伊恩·摩爾](https://zh.wikipedia.org/wiki/伊恩·摩爾 "wikilink")（香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）、[黛莎](https://zh.wikipedia.org/wiki/黛莎 "wikilink")
   - 櫻木事務次官 - [ト字高雄](https://zh.wikipedia.org/wiki/ト字高雄 "wikilink")
-  - 野野村三（55）內閣府事務次官 -
-    [大和田伸也](../Page/大和田伸也.md "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
+  - 野野村三（55）內閣府事務次官 - [大和田伸也](../Page/大和田伸也.md "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
 
 ## 製作人員
 
   - 編劇：[福田靖](https://zh.wikipedia.org/wiki/福田靖 "wikilink")
   - 音樂：[延近輝之](https://zh.wikipedia.org/wiki/延近輝之 "wikilink")
-  - 協力：エスブイエス、[VIDEO
-    STAFF](https://zh.wikipedia.org/wiki/VIDEO_STAFF "wikilink")、[八峯電視台](https://zh.wikipedia.org/wiki/八峯電視台 "wikilink")、、、Halftone
-    Music、、アクティス、エルエーカンパニー、ジャニーズファミリークラブ
+  - 協力：エスブイエス、[VIDEO STAFF](https://zh.wikipedia.org/wiki/VIDEO_STAFF "wikilink")、[八峯電視台](https://zh.wikipedia.org/wiki/八峯電視台 "wikilink")、、、Halftone Music、、アクティス、エルエーカンパニー、ジャニーズファミリークラブ
   - 構成協力：[酒井雅秋](https://zh.wikipedia.org/wiki/酒井雅秋 "wikilink")、[山本あかり](https://zh.wikipedia.org/wiki/山本あかり "wikilink")、[木下草介](https://zh.wikipedia.org/wiki/木下草介 "wikilink")、[山岡潤平](https://zh.wikipedia.org/wiki/山岡潤平 "wikilink")
   - 監修：[田崎史郎](https://zh.wikipedia.org/wiki/田崎史郎 "wikilink")、[飯島勲](https://zh.wikipedia.org/wiki/飯島勲 "wikilink")、[福田達夫](../Page/福田達夫.md "wikilink")、[佐伯耕三](https://zh.wikipedia.org/wiki/佐伯耕三 "wikilink")
   - 選舉指導：[三浦博史](https://zh.wikipedia.org/wiki/三浦博史 "wikilink")
   - 政治指導：[田中良幸](https://zh.wikipedia.org/wiki/田中良幸 "wikilink")、[川上和久](https://zh.wikipedia.org/wiki/川上和久 "wikilink")、[中原由利](https://zh.wikipedia.org/wiki/中原由利 "wikilink")
   - 助理製作：[石原隆](https://zh.wikipedia.org/wiki/石原隆 "wikilink")
   - 導演：[澤田鎌作](https://zh.wikipedia.org/wiki/澤田鎌作 "wikilink")（第1-2、5、8、10話）、[平野眞](https://zh.wikipedia.org/wiki/平野眞 "wikilink")（第3-4、6-7、9話）
-  - 制作：[富士電視台電視劇制作部](../Page/富士電視台.md "wikilink")
+  - 制作：[富士電視台](../Page/富士電視台.md "wikilink")電視劇制作部
 
 ## 播放日期、副題、收視率
 
@@ -376,8 +327,7 @@
 
   - [富士電視台官方網站](https://web.archive.org/web/20101005231007/http://wwwz.fujitv.co.jp/change/)
 
-  - [日劇 Change -
-    新生代的政治家風範：紀錄朝倉啟太部份演說內容。](http://timespacewalker.blogspot.com/2009/01/change.html)
+  - [日劇 Change - 新生代的政治家風範：紀錄朝倉啟太部份演說內容。](http://timespacewalker.blogspot.com/2009/01/change.html)
 
   - [緯來日本台官方網站](http://japan.videoland.com.tw/channel/change/)
 
@@ -385,14 +335,4 @@
 
 ## 作品的變遷
 
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:永田町背景作品](https://zh.wikipedia.org/wiki/Category:永田町背景作品 "wikilink")
-[Category:福岡縣背景作品](https://zh.wikipedia.org/wiki/Category:福岡縣背景作品 "wikilink")
-[Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink")
-[Category:政治電視劇](https://zh.wikipedia.org/wiki/Category:政治電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:福田靖劇本電視劇](https://zh.wikipedia.org/wiki/Category:福田靖劇本電視劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
+[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:永田町背景作品](https://zh.wikipedia.org/wiki/Category:永田町背景作品 "wikilink") [Category:福岡縣背景作品](https://zh.wikipedia.org/wiki/Category:福岡縣背景作品 "wikilink") [Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink") [Category:政治電視劇](https://zh.wikipedia.org/wiki/Category:政治電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:福田靖劇本電視劇](https://zh.wikipedia.org/wiki/Category:福田靖劇本電視劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")

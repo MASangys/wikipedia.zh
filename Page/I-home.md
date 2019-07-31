@@ -1,5 +1,4 @@
-[I-home_base.jpg](https://zh.wikipedia.org/wiki/File:I-home_base.jpg "fig:I-home_base.jpg")
-i-HOME是一個位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[大角咀](../Page/大角咀.md "wikilink")[洋松街](https://zh.wikipedia.org/wiki/洋松街 "wikilink")38號，由華人置業及[市區重建局](../Page/市區重建局.md "wikilink")合作發展，樓高44層，項目於2009年3月開售\[1\]，同年8月3日入伙\[2\]。
+[I-home_base.jpg](https://zh.wikipedia.org/wiki/File:I-home_base.jpg "fig:I-home_base.jpg") i-HOME是一個位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[大角咀](../Page/大角咀.md "wikilink")[洋松街](https://zh.wikipedia.org/wiki/洋松街 "wikilink")38號，由華人置業及[市區重建局](../Page/市區重建局.md "wikilink")合作發展，樓高44層，項目於2009年3月開售\[1\]，同年8月3日入伙\[2\]。
 
 ## 簡介
 
@@ -7,8 +6,7 @@ i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重
 
 ## 住客會所
 
-3樓住客會所「i-club」設施包括約23米長泳池、按摩池、閒適池、健身室、日光臺、資訊世紀、悠閒徑、四季園林、燒烤區。20樓則設「Sky
-20」空中花園，設施包括棋盤區、健足池、優閒徑、茶樂園、綠意閣及珍藏間。
+3樓住客會所「i-club」設施包括約23米長泳池、按摩池、閒適池、健身室、日光臺、資訊世紀、悠閒徑、四季園林、燒烤區。20樓則設「Sky 20」空中花園，設施包括棋盤區、健足池、優閒徑、茶樂園、綠意閣及珍藏間。
 
 ## 交通
 
@@ -62,12 +60,7 @@ i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重
   - [I-home](http://www.chineseestates.com/cht/PropDetails/50/94/1531.aspx)
   - [華置i-home網站](https://archive.is/20130426154531/http://www.i-homehk.com/)
 
-[Category:油尖旺區單幢式住宅](https://zh.wikipedia.org/wiki/Category:油尖旺區單幢式住宅 "wikilink")
-[Category:大角咀](https://zh.wikipedia.org/wiki/Category:大角咀 "wikilink")
-[Category:旺角](https://zh.wikipedia.org/wiki/Category:旺角 "wikilink")
-[Category:華人置業物業](https://zh.wikipedia.org/wiki/Category:華人置業物業 "wikilink")
-[Category:香港市區重建局項目](https://zh.wikipedia.org/wiki/Category:香港市區重建局項目 "wikilink")
+[Category:油尖旺區單幢式住宅](https://zh.wikipedia.org/wiki/Category:油尖旺區單幢式住宅 "wikilink") [Category:大角咀](https://zh.wikipedia.org/wiki/Category:大角咀 "wikilink") [Category:旺角](https://zh.wikipedia.org/wiki/Category:旺角 "wikilink") [Category:華人置業物業](https://zh.wikipedia.org/wiki/Category:華人置業物業 "wikilink") [Category:香港市區重建局項目](https://zh.wikipedia.org/wiki/Category:香港市區重建局項目 "wikilink")
 
-1.  <http://news.sina.com.hk/cgi-bin/nw/show.cgi/19/1/1/1083880/1.html>
-    i-HOME首日料售80伙
+1.  <http://news.sina.com.hk/cgi-bin/nw/show.cgi/19/1/1/1083880/1.html> i-HOME首日料售80伙
 2.  <http://news.sina.com.hk/cgi-bin/nw/show.cgi/1/1/1/1210474/1.html>

@@ -1,6 +1,4 @@
-是由日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")於2005年5月27日所發售的[戀愛冒險](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。其[Fan
-disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》於2006年1月27日發售。PS2及PSP遊戲《**Gift
--prism-**》也隨後發行。電視動畫《**Gift eternal rainbow**》（）於2006年10月至12月間播映。
+是由日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")於2005年5月27日所發售的[戀愛冒險](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。其[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》於2006年1月27日發售。PS2及PSP遊戲《**Gift -prism-**》也隨後發行。電視動畫《**Gift eternal rainbow**》（）於2006年10月至12月間播映。
 
 ## 故事
 
@@ -260,8 +258,7 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》於2006年1月
 
 ## 評價
 
-《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》932號的クロスレビュー對PlayStation
-2版給予24/40分。\[4\]
+《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》932號的クロスレビュー對PlayStation 2版給予24/40分。\[4\]
 
 ## 參考資料
 
@@ -272,19 +269,7 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》於2006年1月
   - [PSP官方網站](http://www.cyberfront.co.jp/title/gift_prism/)
   - [動畫官方網站](http://www.imagicatv.jp/content/gift-er/index.html)
 
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
 1.
 2.

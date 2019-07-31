@@ -1,6 +1,4 @@
-**《决战III》**（英文：KessenIII 日文：），是[PlayStation
-2平台上的](../Page/PlayStation_2.md "wikilink")[决战系列游戏之一](https://zh.wikipedia.org/wiki/决战系列 "wikilink")，也是《[决战II](../Page/决战II.md "wikilink")》之后新一部作品。决战系列作是由历史游戏大厂[光荣所制作](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")，于2004年12月在[PlayStation
-2上推出](../Page/PlayStation_2.md "wikilink")。《决战III》的主要故事由[日本战国时代的风云人物](https://zh.wikipedia.org/wiki/日本战国时代 "wikilink")[织田信长为题材](https://zh.wikipedia.org/wiki/织田信长 "wikilink")。
+**《决战III》**（英文：KessenIII 日文：），是[PlayStation 2平台上的](../Page/PlayStation_2.md "wikilink")[决战系列游戏之一](https://zh.wikipedia.org/wiki/决战系列 "wikilink")，也是《[决战II](../Page/决战II.md "wikilink")》之后新一部作品。决战系列作是由历史游戏大厂[光荣所制作](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")，于2004年12月在[PlayStation 2上推出](../Page/PlayStation_2.md "wikilink")。《决战III》的主要故事由[日本战国时代的风云人物](https://zh.wikipedia.org/wiki/日本战国时代 "wikilink")[织田信长为题材](https://zh.wikipedia.org/wiki/织田信长 "wikilink")。
 
 ## 故事背景
 
@@ -215,6 +213,4 @@
 
   - [決戰Ⅲ公式](http://www.gamecity.ne.jp/kessen3/)
 
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
-[Category:光荣游戏](https://zh.wikipedia.org/wiki/Category:光荣游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:光荣游戏](https://zh.wikipedia.org/wiki/Category:光荣游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")

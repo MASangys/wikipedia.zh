@@ -1,4 +1,4 @@
-《**哆啦A夢超棒球外傳**》（），[藤子製作中](../Page/藤子·F·不二雄製作公司.md "wikilink")[藤子·F·不二雄的弟子](../Page/藤子·F·不二雄.md "wikilink")[麥原伸太郎編繪的](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")[日本](../Page/日本.md "wikilink")[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")。自2000年9月開始在[日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》連載，其後亦在[香港版本連載](../Page/香港.md "wikilink")。故事以22世紀為背景，描述貓型機械人黑隊長A夢領導的棒球隊伍進行世界級比賽的故事。
+《**哆啦A夢超棒球外傳**》（），[藤子製作中](../Page/藤子·F·不二雄製作公司.md "wikilink")[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的弟子[麥原伸太郎編繪的](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")[日本](../Page/日本.md "wikilink")[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")。自2000年9月開始在[日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》連載，其後亦在[香港](../Page/香港.md "wikilink")版本連載。故事以22世紀為背景，描述貓型機械人黑隊長A夢領導的棒球隊伍進行世界級比賽的故事。
 
 ## 概要
 
@@ -27,7 +27,7 @@
   -
     WABC的日本代表之一
     與[哆啦A夢有好友關係](../Page/哆啦A夢_\(角色\).md "wikilink")，曾在第1、21話客串過。
-    生日為2112年9月6日，[江戶川區出身](../Page/江戶川區.md "wikilink")。
+    生日為2112年9月6日，[江戶川區](../Page/江戶川區.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
     通称“小广”
     黑隊長A夢的主人，右投右打。早年父親早逝，與母親繼承速遞公司的家業。
     被选為WABC的日本之一，但在比賽前因車禍受傷而沒法參加比賽。
-    其名字初期沒有表明其姓氏，姓氏「藤本」於第23巻第134話中，展示廣司家的門牌而初次揭露。名字源於[藤子·F·不二雄的本名](../Page/藤子·F·不二雄.md "wikilink")「藤本弘」（日文讀音相同關係）。
+    其名字初期沒有表明其姓氏，姓氏「藤本」於第23巻第134話中，展示廣司家的門牌而初次揭露。名字源於[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的本名「藤本弘」（日文讀音相同關係）。
     人物原型上，曾被認為[拳擊漫畫經典](https://zh.wikipedia.org/wiki/拳擊 "wikilink")《[第一神拳](../Page/第一神拳.md "wikilink")》主角的幕之內一歩，而非棒球界人物。
     **主要必殺技**{實戰紀錄}
       - 指叉球（下墬球）
@@ -115,7 +115,7 @@
 <!-- end list -->
 
   - [哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink")（，投手，背番號10）
-    於第1話客串登場，與黑A夢為好友關係。於小廣加入球隊前擔任投手，可惜除了唯一一次接球外，有着令球隊輸掉21分等等的慘敗記錄（與此同時，[野比大雄以僅一格的客串出現](../Page/野比大雄.md "wikilink")）。球隊名稱「江戶川哆啦隊」正是由他命名。
+    於第1話客串登場，與黑A夢為好友關係。於小廣加入球隊前擔任投手，可惜除了唯一一次接球外，有着令球隊輸掉21分等等的慘敗記錄（與此同時，[野比大雄](../Page/野比大雄.md "wikilink")以僅一格的客串出現）。球隊名稱「江戶川哆啦隊」正是由他命名。
     創始隊員之一
 
 <!-- end list -->
@@ -138,8 +138,7 @@
       - WW魔球：用低肩投球方法投出的橫向W魔球，變化幅度比W魔球大。使用過度的話，右手肩膀會受到嚴重的傷害。(此由黑Ａ夢使用「縮小電筒」及小个Ａ夢的「木製長球棒」破解)
       - WWW魔球：變化幅度比W魔球大3倍，使出此招前需要跳躍。(此由黑Ａ夢的「必殺高爾夫低空揮」破解)
       - WORLD魔球：与W魔球的姿勢有別，使出後W魔球會分身，此球在WABC中白A夢因為要廣司重新振作而創出。
-      - 剛速球：白A夢的其中一種魔球，能投出日本正式紀錄中最快的直球(180km)。 (此由Ａ夢特破解)
-        (第二十三集於Ａ夢特除下墨鏡挑戰剛速球時投出181km的記錄)
+      - 剛速球：白A夢的其中一種魔球，能投出日本正式紀錄中最快的直球(180km)。 (此由Ａ夢特破解) (第二十三集於Ａ夢特除下墨鏡挑戰剛速球時投出181km的記錄)
 
 <!-- end list -->
 
@@ -466,9 +465,7 @@
 
 ### 晋级国家
 
-16強:日本、美國、古巴、英國、澳洲、多米尼加、南非、意大利、波多黎各、阿根廷、韓國、墨西哥、荷蘭、法國、加拿大、印度
-8強:日本、美國、古巴、澳洲、多米尼加、南非、波多黎各、墨西哥 4強:日本、美國、古巴、多米尼加
-亞軍:日本 冠軍:美國
+16強:日本、美國、古巴、英國、澳洲、多米尼加、南非、意大利、波多黎各、阿根廷、韓國、墨西哥、荷蘭、法國、加拿大、印度 8強:日本、美國、古巴、澳洲、多米尼加、南非、波多黎各、墨西哥 4強:日本、美國、古巴、多米尼加 亞軍:日本 冠軍:美國
 
 ### 日本明星隊
 
@@ -496,8 +493,7 @@
 
 #### 奧利Ａ夢
 
-游擊手 4棒 背番號6 秋田獵戶座隊的隊長，因腳傷而被迫讓位給膽小Ａ夢，在與美國隊一戰再度出埸，成功把哆啦恩普的「皇家直球閃光彈」擊破。
-據說在狀態好的時候，球棒擊倒球必定飛到觀眾席。
+游擊手 4棒 背番號6 秋田獵戶座隊的隊長，因腳傷而被迫讓位給膽小Ａ夢，在與美國隊一戰再度出埸，成功把哆啦恩普的「皇家直球閃光彈」擊破。 據說在狀態好的時候，球棒擊倒球必定飛到觀眾席。
 
 #### 松井
 
@@ -525,9 +521,7 @@
 
 #### 波古Ａ夢
 
-投手 9棒 背番號00
-山寺巨熊隊的隊長，能用眼睛迷惑他人，但當別人不看他的眼睛便失效，在憤怒時會變成巨熊，投出能令球棒截斷的剛速球，但消耗體力方面也因而提高。
-變身時可以投出W魔球。
+投手 9棒 背番號00 山寺巨熊隊的隊長，能用眼睛迷惑他人，但當別人不看他的眼睛便失效，在憤怒時會變成巨熊，投出能令球棒截斷的剛速球，但消耗體力方面也因而提高。 變身時可以投出W魔球。
 
 #### 白Ａ夢
 
@@ -662,14 +656,11 @@
 
 ## 遊戲
 
-2007年12月20日，[南夢宮萬代遊戲發售](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[任天堂DS用遊戲軟體](../Page/任天堂DS.md "wikilink")「Dorabase
-Dramatic Stadium」（「」）。
+2007年12月20日，[南夢宮萬代遊戲發售](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[任天堂DS](../Page/任天堂DS.md "wikilink")用遊戲軟體「Dorabase Dramatic Stadium」（「」）。
 
-2009年11月19日，[南夢宮萬代遊戲發售](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[任天堂DS用遊戲軟體](../Page/任天堂DS.md "wikilink")「Dorabase
-2 熱鬥Ultra Stadium」（「」）。
+2009年11月19日，[南夢宮萬代遊戲發售](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[任天堂DS](../Page/任天堂DS.md "wikilink")用遊戲軟體「Dorabase 2 熱鬥Ultra Stadium」（「」）。
 
-2010年3月25日，在南夢宮萬代遊戲發售的[任天堂DS用遊戲軟體](../Page/任天堂DS.md "wikilink")「職棒家庭棒球場DS
-2010」中，憑特典密碼解鎖會出現江戶川多啦隊人物。
+2010年3月25日，在南夢宮萬代遊戲發售的[任天堂DS](../Page/任天堂DS.md "wikilink")用遊戲軟體「職棒家庭棒球場DS 2010」中，憑特典密碼解鎖會出現江戶川多啦隊人物。
 
 ## 参考资料
 
@@ -678,7 +669,4 @@ Dramatic Stadium」（「」）。
   - [遊戲官網](https://web.archive.org/web/20111124035024/http://dorabase-game.com/)
   - [遊戲官網](http://www.bandaigames.channel.or.jp/list/dorabase2/)
 
-[Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink")
-[Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
-[Category:江戶川區背景作品](https://zh.wikipedia.org/wiki/Category:江戶川區背景作品 "wikilink")
+[Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink") [Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:江戶川區背景作品](https://zh.wikipedia.org/wiki/Category:江戶川區背景作品 "wikilink")

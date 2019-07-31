@@ -1,6 +1,4 @@
-《**Flyable
-Heart**》（）是UNiSONSHIFT：Blossom於2009年3月19日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2010年5月28日發售以本作女主角白鹭茉百合为主角的[衍生作品](../Page/衍生作品.md "wikilink")《[君之余影静静摇曳](https://zh.wikipedia.org/wiki/君之余影静静摇曳 "wikilink")》，2011年2月25日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Flyable
-CandyHeart》。後來也陸續改編成漫畫和小說。
+《**Flyable Heart**》（）是UNiSONSHIFT：Blossom於2009年3月19日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2010年5月28日發售以本作女主角白鹭茉百合为主角的[衍生作品](../Page/衍生作品.md "wikilink")《[君之余影静静摇曳](https://zh.wikipedia.org/wiki/君之余影静静摇曳 "wikilink")》，2011年2月25日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Flyable CandyHeart》。後來也陸續改編成漫畫和小說。
 
 故事中的背景舞台鳳繚蘭學園的是以《》的遊華總合学園的姐妹校為範本，而本作的有些角色設定類似於《Peace@Pieces》、《[七色★星露](../Page/七色★星露.md "wikilink")》的人物設定。
 
@@ -10,9 +8,7 @@ CandyHeart》。後來也陸續改編成漫畫和小說。
 
 不理會父親的哭訴、充滿自信地走出家門，突然、有個謎樣的占卜師對他說將會有不幸的事情發生。他繼續無視那位占ト師、然後來到了學校與外界相連的橋上、看見旁邊的謎樣學生、接著他把USB記憶體插入到一個機器上，那個插著USB記憶體的神秘機器原來是一個煙火引燃器，就這樣男主角就被捲入煙火機器爆炸事件……
 
-之後，他受到跟他同樣是轉學生的稻羽結衣的幫助，最後到校園內參觀，但他入學的這件事，不僅學生會跟繚蘭會都不知道，就連學園理事長也不知情，不過他的學生証卻是不可能模仿的真品，最後決議讓他轉入鳳繚蘭學園，但是一般男子宿舍已經額滿，他只好被安排到繚蘭會的女子専用宿舍。
-受到同為轉學生也是同班同學的稻羽結衣以及繚蘭會和學生會的協助，男主角漸漸步入正常的學園生活中。 但在背後，有著他不知情的可怕事實正慢慢地被揭露
-把他引來鳳繚蘭學園的人物到底有什麼目的？ 在這兒，與少女們的戀愛也漸漸開始……
+之後，他受到跟他同樣是轉學生的稻羽結衣的幫助，最後到校園內參觀，但他入學的這件事，不僅學生會跟繚蘭會都不知道，就連學園理事長也不知情，不過他的學生証卻是不可能模仿的真品，最後決議讓他轉入鳳繚蘭學園，但是一般男子宿舍已經額滿，他只好被安排到繚蘭會的女子専用宿舍。 受到同為轉學生也是同班同學的稻羽結衣以及繚蘭會和學生會的協助，男主角漸漸步入正常的學園生活中。 但在背後，有著他不知情的可怕事實正慢慢地被揭露 把他引來鳳繚蘭學園的人物到底有什麼目的？ 在這兒，與少女們的戀愛也漸漸開始……
 
 ## 登場人物
 
@@ -141,30 +137,21 @@ CandyHeart》。後來也陸續改編成漫畫和小說。
 
   - 《Flyable Heart》
 
-[石見翔子](../Page/石見翔子.md "wikilink")作畫，於2009年1月26日至2013年10月26日期間在[ASCII
-MEDIA
-WORKS的漫畫雜誌](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")《電撃G's
-Festival\!
-COMIC》Vol.5\[2\]～Vol.32連載，[單行本共三集於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2010年7月27日至2013年12月21日發售。\[3\]\[4\]
+[石見翔子](../Page/石見翔子.md "wikilink")作畫，於2009年1月26日至2013年10月26日期間在[ASCII MEDIA WORKS的漫畫雜誌](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")《電撃G's Festival\! COMIC》Vol.5\[2\]～Vol.32連載，[單行本共三集於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2010年7月27日至2013年12月21日發售。\[3\]\[4\]
 
   - 《超萌 我們的Flyable Heart》（いけ\!いけ\!僕らの Flyable Heart）
 
-由[HARVEST出版](../Page/HARVEST出版.md "wikilink")於2009年7月15日發售（ISBN
-978-4434133053），中文版由[銘顯文化代理於](https://zh.wikipedia.org/wiki/銘顯文化 "wikilink")2010年2月5日發售（ISBN
-9789862601396）\[5\]。
+由[HARVEST出版](../Page/HARVEST出版.md "wikilink")於2009年7月15日發售（ISBN 978-4434133053），中文版由[銘顯文化代理於](https://zh.wikipedia.org/wiki/銘顯文化 "wikilink")2010年2月5日發售（ISBN 9789862601396）\[5\]。
 
 ## 小說
 
   - 《Flyable Heart》
 
-岡崎いずみ寫作，[伊東雜音插畫](../Page/伊東雜音_\(1999年出道\).md "wikilink")。由[ENTERBRAIN於](https://zh.wikipedia.org/wiki/ENTERBRAIN "wikilink")2009年6月29日發售（ISBN
-978-4757749337），中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理於2011年2月18日發售（ISBN
-9789862566596）。
+岡崎いずみ寫作，[伊東雜音插畫](../Page/伊東雜音_\(1999年出道\).md "wikilink")。由[ENTERBRAIN於](https://zh.wikipedia.org/wiki/ENTERBRAIN "wikilink")2009年6月29日發售（ISBN 978-4757749337），中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理於2011年2月18日發售（ISBN 9789862566596）。
 
   - 《Flyable Heart SSS》
 
-兒玉新一郎寫作，由[HARVEST出版](../Page/HARVEST出版.md "wikilink")於2010年5月1日發售（ISBN
-978-4434141409），中文版由銘顯文化代理於發售2010年10月14日發售（ISBN 9789862605622）\[6\]。
+兒玉新一郎寫作，由[HARVEST出版](../Page/HARVEST出版.md "wikilink")於2010年5月1日發售（ISBN 978-4434141409），中文版由銘顯文化代理於發售2010年10月14日發售（ISBN 9789862605622）\[6\]。
 
 ## 參考來源
 
@@ -172,9 +159,7 @@ COMIC》Vol.5\[2\]～Vol.32連載，[單行本共三集於](https://zh.wikipedia
 
   - [官方網站](http://unisonshift.amusecraft.com/products/project19/main.htm)
 
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
 
 1.
 2.

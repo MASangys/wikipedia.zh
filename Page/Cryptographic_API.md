@@ -1,7 +1,4 @@
-**Cryptographic API** (CryptoAPI) 是微軟在 Windows
-作業系統中添加的密碼編譯機能，作為資料加密與解密功能的重要基礎，CryptoAPI
-支援同步，非同步的金鑰加密處理，以及作業系統中的[數位憑證](https://zh.wikipedia.org/wiki/數位憑證 "wikilink")
-的管理工作。
+**Cryptographic API** (CryptoAPI) 是微軟在 Windows 作業系統中添加的密碼編譯機能，作為資料加密與解密功能的重要基礎，CryptoAPI 支援同步，非同步的金鑰加密處理，以及作業系統中的[數位憑證](https://zh.wikipedia.org/wiki/數位憑證 "wikilink") 的管理工作。
 
 目前的 CryptoAPI 支援下列工作\[1\]：
 
@@ -17,10 +14,7 @@
       - 對收到的訊息與相關資料進行數位簽章驗證的檢查。
   - 低階訊息函數。
 
-由於 CryptoAPI 使用上過於複雜，因此微軟另外為 CryptoAPI 開發更為容易使用的
-[CAPICOM](https://zh.wikipedia.org/wiki/CAPICOM "wikilink") 元件\[2\]，以及
-[Data Protection
-API](https://zh.wikipedia.org/wiki/Data_Protection_API "wikilink")。
+由於 CryptoAPI 使用上過於複雜，因此微軟另外為 CryptoAPI 開發更為容易使用的 [CAPICOM](https://zh.wikipedia.org/wiki/CAPICOM "wikilink") 元件\[2\]，以及 [Data Protection API](https://zh.wikipedia.org/wiki/Data_Protection_API "wikilink")。
 
 ## 例子
 
@@ -105,11 +99,7 @@ bool GetHash(int hash_type, CString& hash_result, CString& hash_message)
 
 </div>
 
-[Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
-[Category:Windows_API](https://zh.wikipedia.org/wiki/Category:Windows_API "wikilink")
-[Category:網路安全](https://zh.wikipedia.org/wiki/Category:網路安全 "wikilink")
+[Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink") [Category:Windows_API](https://zh.wikipedia.org/wiki/Category:Windows_API "wikilink") [Category:網路安全](https://zh.wikipedia.org/wiki/Category:網路安全 "wikilink")
 
-1.  \[<http://msdn.microsoft.com/en-us/library/aa380239(VS.85>).aspx
-    CryptoAPI System Architecture\]
-2.  \[<http://msdn.microsoft.com/en-us/library/aa380260(VS.85>).aspx
-    Cryptography, CryptoAPI, and CAPICOM\]
+1.  \[<http://msdn.microsoft.com/en-us/library/aa380239(VS.85>).aspx CryptoAPI System Architecture\]
+2.  \[<http://msdn.microsoft.com/en-us/library/aa380260(VS.85>).aspx Cryptography, CryptoAPI, and CAPICOM\]

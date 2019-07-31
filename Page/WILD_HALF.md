@@ -1,10 +1,8 @@
-《**WILD
-HALF**》是[淺美裕子的](../Page/淺美裕子.md "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》1996年3·4合併號到1998年52號連載。單行本全17卷，文庫版全10卷。
+《**WILD HALF**》是[淺美裕子](../Page/淺美裕子.md "wikilink")的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》1996年3·4合併號到1998年52號連載。單行本全17卷，文庫版全10卷。
 
 ## 故事簡介
 
-講述主角之一初中生**岩瀨健人**，某天上學途中被一頭流浪狗搶去便當，該頭流浪狗正是坊間流傳的[名偵探](../Page/名偵探.md "wikilink")「-{WILD
-HALF}-」的真正實體，名為**沙羅沙**並擁有變身為人型姿態的獸人族力量。其後岩瀨健人成為沙羅沙的主人，二人共同進退偵破各項錯綜複雜的難題。
+講述主角之一初中生**岩瀨健人**，某天上學途中被一頭流浪狗搶去便當，該頭流浪狗正是坊間流傳的[名偵探](../Page/名偵探.md "wikilink")「-{WILD HALF}-」的真正實體，名為**沙羅沙**並擁有變身為人型姿態的獸人族力量。其後岩瀨健人成為沙羅沙的主人，二人共同進退偵破各項錯綜複雜的難題。
 
 ## 登場角色
 
@@ -96,7 +94,4 @@ HALF}-」的真正實體，名為**沙羅沙**並擁有變身為人型姿態的�
   -
     10月29日生（天蠍座），血型AB型，27歲，身高178cm，體重75kg。三月同父異母的哥哥。非常關心三月。醫學生。對沙羅沙抱有敵意，準備了毒藥要毒死沙羅沙，不料卻被三月吃下，但他深信三月是沙羅沙殺的。
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:埼玉縣背景作品](https://zh.wikipedia.org/wiki/Category:埼玉縣背景作品 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:埼玉縣背景作品](https://zh.wikipedia.org/wiki/Category:埼玉縣背景作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")

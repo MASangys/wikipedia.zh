@@ -1,5 +1,4 @@
-**ICD-10
-第二十一章：影响健康状态和与保健机构接触的因素**，即[国际疾病与相关健康问题统计分类第十版的第二十一个分类分系统](https://zh.wikipedia.org/wiki/国际疾病与相关健康问题统计分类第十版 "wikilink")，主要包括各种影响健康状态和与保健机构接触的因素分类及代码。[世界卫生组织](../Page/世界卫生组织.md "wikilink")表示，该分系统更多是涉及环境所造成的意外性，而非之前章节所列的诊断及问题\[1\]。
+**ICD-10 第二十一章：影响健康状态和与保健机构接触的因素**，即[国际疾病与相关健康问题统计分类第十版的第二十一个分类分系统](https://zh.wikipedia.org/wiki/国际疾病与相关健康问题统计分类第十版 "wikilink")，主要包括各种影响健康状态和与保健机构接触的因素分类及代码。[世界卫生组织](../Page/世界卫生组织.md "wikilink")表示，该分系统更多是涉及环境所造成的意外性，而非之前章节所列的诊断及问题\[1\]。
 
 ## Z00-Z13 为检查调查而与保健机构接触的人
 
@@ -18,8 +17,7 @@
 ## Z20-Z29 具有与传染病有关的潜在健康危害的人
 
   - Z20 接触和暴露于传染病
-  - Z21
-    无症状的[人类免疫缺陷病毒感染状态](https://zh.wikipedia.org/wiki/人类免疫缺陷病毒 "wikilink")
+  - Z21 无症状的[人类免疫缺陷病毒感染状态](https://zh.wikipedia.org/wiki/人类免疫缺陷病毒 "wikilink")
   - Z22 传染病病原携带者
   - Z23 为抗单一的细菌性疾病采取必要的[免疫](../Page/免疫.md "wikilink")
   - Z24 为抗某些单一的病毒性疾病采取必要的免疫
@@ -120,9 +118,6 @@
 
 </div>
 
-[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")
-[Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
-[Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
+[Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink")
 
-1.  [WTO Factors influencing health status and contact with health
-    services](http://apps.who.int/classifications/apps/icd/icd10online/kz00.htm)
+1.  [WTO Factors influencing health status and contact with health services](http://apps.who.int/classifications/apps/icd/icd10online/kz00.htm)

@@ -1,20 +1,16 @@
-是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Retro
-Games公司开发的](https://zh.wikipedia.org/wiki/Retro_Games "wikilink")[音乐](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，该游戏是由[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")[Ez2dj移植过来的](https://zh.wikipedia.org/wiki/Ez2dj "wikilink")。目前处于停服状态。
+是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Retro Games公司开发的](https://zh.wikipedia.org/wiki/Retro_Games "wikilink")[音乐](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，该游戏是由[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")[Ez2dj移植过来的](https://zh.wikipedia.org/wiki/Ez2dj "wikilink")。目前处于停服状态。
 
 ## 游戏玩法
 
 ### 基本玩法
 
-  - 玩家需要随着游戏中音乐的旋律、节奏按下键盘而击中掉落的音符。游戏会根据玩家按下键盘的准确程度得到判定，判定由好到差分别为：KOOL,
-    COOL, GOOD, MISS 以及 FAIL。成功的击打音符会增加自己的生命值，相反会减少。如果生命值减少到0则游戏结束。
+  - 玩家需要随着游戏中音乐的旋律、节奏按下键盘而击中掉落的音符。游戏会根据玩家按下键盘的准确程度得到判定，判定由好到差分别为：KOOL, COOL, GOOD, MISS 以及 FAIL。成功的击打音符会增加自己的生命值，相反会减少。如果生命值减少到0则游戏结束。
   - 游戏模式分为两种分为单人模式和多人对战模式，歌曲的难度分为Easy, Normal, Hard 以及Super Hard。
 
 ### 系统
 
-  - 当玩家玩对战模式的时候将会得到双倍的经验和金钱，相比个人游戏。（在1st
-    evolution后，单人模式也能够获得与对战模式同样的经验。）
-  - 游戏引入EXR（Expertise
-    Rating、专家率）概念，当玩家全连某等级的曲目，则玩家的EXR值即达到多少。玩家的EXR值将会影响到隐藏歌曲的开启。
+  - 当玩家玩对战模式的时候将会得到双倍的经验和金钱，相比个人游戏。（在1st evolution后，单人模式也能够获得与对战模式同样的经验。）
+  - 游戏引入EXR（Expertise Rating、专家率）概念，当玩家全连某等级的曲目，则玩家的EXR值即达到多少。玩家的EXR值将会影响到隐藏歌曲的开启。
   - 每种模式都有4个频道分为初级、中级、高级和全部。初级场等级为5级以下可以进入，中级场EXR为0～6，在该模式胜利少于200场可进入，高级场EXR为0\~13的，在该模式胜利少于300场可以进入。全部则没有限制，所有玩家都可以进入。
   - 4个频道的选择歌曲的难度也有限制，初级场可以选择歌曲的难度是简单和普通、中级场为简单、普通和困难、高级场则所有难度都可以开启。
 
@@ -27,8 +23,7 @@ Games公司开发的](https://zh.wikipedia.org/wiki/Retro_Games "wikilink")[音�
 <!-- end list -->
 
   -
-    默认键位：\[D\]，\[F\]，\[J\]，\[K\] (ON Type) / \[Shift\]，\[Z\]，\[S\]，\[X\]
-    (AC Type)
+    默认键位：\[D\]，\[F\]，\[J\]，\[K\] (ON Type) / \[Shift\]，\[Z\]，\[S\]，\[X\] (AC Type)
     经验值：100%, Coin: 100%
 
 <!-- end list -->
@@ -38,8 +33,7 @@ Games公司开发的](https://zh.wikipedia.org/wiki/Retro_Games "wikilink")[音�
 <!-- end list -->
 
   -
-    默认键位：\[D\]，\[F\]，\[Space Bar\]，\[J\]，\[K\] (ON Type) /
-    \[Z\]，\[S\]，\[X\]，\[D\]，\[C\] (AC Type)
+    默认键位：\[D\]，\[F\]，\[Space Bar\]，\[J\]，\[K\] (ON Type) / \[Z\]，\[S\]，\[X\]，\[D\]，\[C\] (AC Type)
     经验值：105%, Coin: 105%
 
 <!-- end list -->
@@ -49,8 +43,7 @@ Games公司开发的](https://zh.wikipedia.org/wiki/Retro_Games "wikilink")[音�
 <!-- end list -->
 
   -
-    Default: \[S\]，\[D\]，\[F\]，\[J\]，\[K\]，\[L\] (ON Type) /
-    \[Shift\]，\[Z\]，\[S\]，\[X\]，\[D\]，\[C\] (AC Type)
+    Default: \[S\]，\[D\]，\[F\]，\[J\]，\[K\]，\[L\] (ON Type) / \[Shift\]，\[Z\]，\[S\]，\[X\]，\[D\]，\[C\] (AC Type)
     EXP: 110%, Coin: 110%
 
 ## 歌曲列表
@@ -176,5 +169,4 @@ Games公司开发的](https://zh.wikipedia.org/wiki/Retro_Games "wikilink")[音�
 
   - [EZ2ON韩国官方网站](http://ez2on.uplay.co.kr/)
 
-[Category:多人線上音樂遊戲](https://zh.wikipedia.org/wiki/Category:多人線上音樂遊戲 "wikilink")
-[Category:音乐游戏](https://zh.wikipedia.org/wiki/Category:音乐游戏 "wikilink")
+[Category:多人線上音樂遊戲](https://zh.wikipedia.org/wiki/Category:多人線上音樂遊戲 "wikilink") [Category:音乐游戏](https://zh.wikipedia.org/wiki/Category:音乐游戏 "wikilink")

@@ -1,6 +1,4 @@
-《**穿透屋顶的High
-Kick！**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2009年9月7日起播出的[情景喜剧](../Page/MBC情境喜劇.md "wikilink")，與《-{[不可阻挡的High
-Kick！](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick！ "wikilink")}-》同個製作組及導演，亦號稱其延續作，原先並打算找原班人馬出演，但不少因為檔期，只有部分演員繼續演出或[客串](https://zh.wikipedia.org/wiki/客串 "wikilink")，但依旧利用[夸张或](https://zh.wikipedia.org/wiki/夸张 "wikilink")[搞笑的方式诠释](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")、[亲情](https://zh.wikipedia.org/wiki/亲情 "wikilink")、[友情](../Page/友情.md "wikilink")、同事关系等日常生活中常见的情節。
+《**穿透屋顶的High Kick！**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2009年9月7日起播出的[情景喜剧](../Page/MBC情境喜劇.md "wikilink")，與《-{[不可阻挡的High Kick！](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick！ "wikilink")}-》同個製作組及導演，亦號稱其延續作，原先並打算找原班人馬出演，但不少因為檔期，只有部分演員繼續演出或[客串](https://zh.wikipedia.org/wiki/客串 "wikilink")，但依旧利用[夸张或](https://zh.wikipedia.org/wiki/夸张 "wikilink")[搞笑的方式诠释](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")、[亲情](https://zh.wikipedia.org/wiki/亲情 "wikilink")、[友情](../Page/友情.md "wikilink")、同事关系等日常生活中常见的情節。
 
 由于受到前一部受欢迎的程度，在首播时除了受到韩国欢迎，在[中国大陆](../Page/中国大陆.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台湾等地亦得到一定迴響](https://zh.wikipedia.org/wiki/台湾 "wikilink")。
 
@@ -247,9 +245,7 @@ Kick！](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick！ "wikilink")}-
 
 ### 剧情联系
 
-22集中校长在和金慈玉聊天中提到自己还是教导主任（《-{不可阻擋的High
-Kick}-》中）时遇到过的可笑的老师有外号叫疯狗（李民龙）和整天摔跤外号“咣当敏静”的徐敏静。这两个角色就是《-{不可阻擋的High
-Kick}-》中的主要角色。
+22集中校长在和金慈玉聊天中提到自己还是教导主任（《-{不可阻擋的High Kick}-》中）时遇到过的可笑的老师有外号叫疯狗（李民龙）和整天摔跤外号“咣当敏静”的徐敏静。这两个角色就是《-{不可阻擋的High Kick}-》中的主要角色。
 
 ### 共同出演或客串的演员
 
@@ -373,8 +369,7 @@ Kick}-》中的主要角色。
 
 ### 中国大陆
 
-未正式引进该剧，目前亦只能在網路非法收看，而主要是由該地字幕组加入简体中文字幕後的版本（皆未经MBC电视台的授权与许可，同时声称版权归MBC电视台）。
-星空卫视于2012年6月首次在大陆放映，並使用台湾版配音。
+未正式引进该剧，目前亦只能在網路非法收看，而主要是由該地字幕组加入简体中文字幕後的版本（皆未经MBC电视台的授权与许可，同时声称版权归MBC电视台）。 星空卫视于2012年6月首次在大陆放映，並使用台湾版配音。
 
 ### 日本
 
@@ -386,8 +381,7 @@ Kick}-》中的主要角色。
 
 ## 收视率
 
-曾经多次同时位列同时段收视冠军和MBC电视台当天的收视冠军。首播收视率為13.4%，结局收视率为24.4%，超越《-{[不可阻挡的High
-Kick](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick "wikilink")}-》；平均收视率达19.1%，最高收视率為27.6%（第97集）。
+曾经多次同时位列同时段收视冠军和MBC电视台当天的收视冠军。首播收视率為13.4%，结局收视率为24.4%，超越《-{[不可阻挡的High Kick](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick "wikilink")}-》；平均收视率达19.1%，最高收视率為27.6%（第97集）。
 
 | 集數    | 播放日期       | 收視率\[8\]                      |
 | ----- | ---------- | ----------------------------- |
@@ -546,27 +540,19 @@ Kick](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick "wikilink")}-》；
   - [韓國MBC](http://www.imbc.com/broad/tv/ent/highkick2/)
   - [臺灣GTV](https://web.archive.org/web/20130703002330/http://www.gtv.com.tw/Program/B051420100823U/)
 
-[Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink")
-[Category:MBC日日情景喜劇](https://zh.wikipedia.org/wiki/Category:MBC日日情景喜劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink") [Category:MBC日日情景喜劇](https://zh.wikipedia.org/wiki/Category:MBC日日情景喜劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
 
-1.  \-{zh-hans:台湾版翻译为李顺才。; zh-hant:台灣版翻譯為李順才。;
-    zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
+1.  \-{zh-hans:台湾版翻译为李顺才。; zh-hant:台灣版翻譯為李順才。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
 
-2.  \-{zh-hans:台湾版翻译为鄭宝石。; zh-hant:台灣版翻譯為鄭寶石。;
-    zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
+2.  \-{zh-hans:台湾版翻译为鄭宝石。; zh-hant:台灣版翻譯為鄭寶石。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
 
-3.  \-{zh-hans:台湾版翻译为申世京。; zh-hant:台灣版翻譯為申世京。;
-    zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
+3.  \-{zh-hans:台湾版翻译为申世京。; zh-hant:台灣版翻譯為申世京。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
 
-4.  \-{zh-hans:台湾版翻译为黄贞音。; zh-hant:台灣版翻譯為黃貞音。;
-    zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
+4.  \-{zh-hans:台湾版翻译为黄贞音。; zh-hant:台灣版翻譯為黃貞音。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
 
-5.  \-{zh-hans:台湾版翻译为柳仁娜。; zh-hant:台灣版翻譯為柳仁娜。;
-    zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
+5.  \-{zh-hans:台湾版翻译为柳仁娜。; zh-hant:台灣版翻譯為柳仁娜。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
 
-6.  \-{zh-hans:台湾版翻译为李光修。; zh-hant:台灣版翻譯為李光修。;
-    zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
+6.  \-{zh-hans:台湾版翻译为李光修。; zh-hant:台灣版翻譯為李光修。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
 
 7.
 8.  收視資料：[TNS Media Korea](http://www.tnsmk.co.kr)

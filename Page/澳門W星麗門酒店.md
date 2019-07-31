@@ -1,9 +1,4 @@
-**澳門星麗門W酒店**（**W Macao Studio
-City**），位於[路氹城塡海區](../Page/路氹城.md "wikilink")[金光大道地段](../Page/路氹金光大道.md "wikilink")，是路氹金光大道中一個與[星麗門合作的酒店發展項目](https://zh.wikipedia.org/wiki/星麗門 "wikilink")。W
-Hotels是[喜達屋酒店及度假酒店國際集團](../Page/喜達屋酒店及度假酒店國際集團.md "wikilink")（Starwood
-Hotels & Resorts Worldwide, Inc.）旗下一個知名酒店品牌，於澳門星麗門項目內的563個客房及套房，將擁有眾多W
-Hotels的標誌性元素，包括W睡床、The Living Room、W
-Café、健身中心等。其他設施包括近11,000平方尺的會議空間、一座露天溫水[泳池和著名的W](https://zh.wikipedia.org/wiki/泳池 "wikilink")「隨時隨需」服務、酒店的24小時前台提供賓客所需的一切。
+**澳門星麗門W酒店**（**W Macao Studio City**），位於[路氹城](../Page/路氹城.md "wikilink")塡海區[金光大道地段](../Page/路氹金光大道.md "wikilink")，是路氹金光大道中一個與[星麗門合作的酒店發展項目](https://zh.wikipedia.org/wiki/星麗門 "wikilink")。W Hotels是[喜達屋酒店及度假酒店國際集團](../Page/喜達屋酒店及度假酒店國際集團.md "wikilink")（Starwood Hotels & Resorts Worldwide, Inc.）旗下一個知名酒店品牌，於澳門星麗門項目內的563個客房及套房，將擁有眾多W Hotels的標誌性元素，包括W睡床、The Living Room、W Café、健身中心等。其他設施包括近11,000平方尺的會議空間、一座露天溫水[泳池和著名的W](https://zh.wikipedia.org/wiki/泳池 "wikilink")「隨時隨需」服務、酒店的24小時前台提供賓客所需的一切。
 
 ## 鄰近建築／景點
 
@@ -95,8 +90,7 @@ Café、健身中心等。其他設施包括近11,000平方尺的會議空間、
 
 </div>
 
-  - [全球成長最快的豪華頂級酒店品牌簽約打造在華第四家
-    W](http://tw.myblog.yahoo.com/tackey1-tsubasa2/article?mid=746&prev=747&next=745)
+  - [全球成長最快的豪華頂級酒店品牌簽約打造在華第四家 W](http://tw.myblog.yahoo.com/tackey1-tsubasa2/article?mid=746&prev=747&next=745)
 
 ## 外部連結
 

@@ -30,13 +30,11 @@
 
   - Neargo城
 
-貓國物語中雖然在書中聲明NEARGO是現實社會中存在於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[米蘭南方](../Page/米蘭.md "wikilink")145[公里](../Page/公里.md "wikilink")，人口20000人，面積44[平方公里的一個真實的城市](https://zh.wikipedia.org/wiki/平方公里 "wikilink")，但實際上義大利並沒有名為「Neargo」的城市。
+貓國物語中雖然在書中聲明NEARGO是現實社會中存在於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[米蘭](../Page/米蘭.md "wikilink")南方145[公里](../Page/公里.md "wikilink")，人口20000人，面積44[平方公里的一個真實的城市](https://zh.wikipedia.org/wiki/平方公里 "wikilink")，但實際上義大利並沒有名為「Neargo」的城市。
 
 故事中，Neargo以中央大橋與義大利連接，是獨立的國家，擁有自己的貨幣~~Ｎ~~。城中的道路有曼其肯大道、索馬利大道、哈瓦納大道、Bricks大道。該國官方語言為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，但街上也隨處可見[義大利文的招牌或路標](https://zh.wikipedia.org/wiki/義大利文 "wikilink")。島上居住了兩萬兩千隻貓。
 
-故事內設定的歷史在14世紀初，跟著建造納貝爾克城的納貝爾伯爵移居到Neargo
-的50多隻貓，就是該地貓咪的祖先。不久由老鼠引發的「黑死病」肆虐島上，最後有賴被移居至島上的貓消滅。從此之後貓被島上的人民視為英雄，從此被稱為"Brave
-of NEARGO"，不論是任何身份的貓，都能得到島上居民的敬重及愛護，成為真正的「貓之國」。Neargo的貨幣、郵票、火車票等亦印有貓的圖案。
+故事內設定的歷史在14世紀初，跟著建造納貝爾克城的納貝爾伯爵移居到Neargo 的50多隻貓，就是該地貓咪的祖先。不久由老鼠引發的「黑死病」肆虐島上，最後有賴被移居至島上的貓消滅。從此之後貓被島上的人民視為英雄，從此被稱為"Brave of NEARGO"，不論是任何身份的貓，都能得到島上居民的敬重及愛護，成為真正的「貓之國」。Neargo的貨幣、郵票、火車票等亦印有貓的圖案。
 
 ## 外部連結
 

@@ -1,14 +1,10 @@
-**BMW
-X3**是[德國的汽車公司](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")制造生產的高級[SUV車型](https://zh.wikipedia.org/wiki/SUV "wikilink")。
+**BMW X3**是[德國的汽車公司](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")制造生產的高級[SUV車型](https://zh.wikipedia.org/wiki/SUV "wikilink")。
 
-BMW自身使用「SAV（Sports Activity
-Vehicle，該名詞也被寶馬公司註冊為商標）」來分類該車，宣傳該車與之前的[X5均為](../Page/BMW_X5.md "wikilink")「BMW提出的，全新類型的汽車」。此車款在機械上採用BMW
-3系列的底盤平台，早期車型為了操控性許多車評認為行駛感過於偏硬，後期小改款車型已改善。
+BMW自身使用「SAV（Sports Activity Vehicle，該名詞也被寶馬公司註冊為商標）」來分類該車，宣傳該車與之前的[X5均為](../Page/BMW_X5.md "wikilink")「BMW提出的，全新類型的汽車」。此車款在機械上採用BMW 3系列的底盤平台，早期車型為了操控性許多車評認為行駛感過於偏硬，後期小改款車型已改善。
 
 ## 生產和銷售
 
-2008年6月18日，第500,000辆
-X3在[格拉茨被生產](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")。
+2008年6月18日，第500,000辆 X3在[格拉茨被生產](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")。
 
 | 日曆年  | 總產量           | 美國銷售         |
 | ---- | ------------- | ------------ |
@@ -34,10 +30,7 @@ X3在[格拉茨被生產](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")。
 
 ## 参考资料
 
-[Category:2003年面世的汽車](https://zh.wikipedia.org/wiki/Category:2003年面世的汽車 "wikilink")
-[Category:运动型多用途车](https://zh.wikipedia.org/wiki/Category:运动型多用途车 "wikilink")
-[Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink")
-[Category:2000年代汽車](https://zh.wikipedia.org/wiki/Category:2000年代汽車 "wikilink")
+[Category:2003年面世的汽車](https://zh.wikipedia.org/wiki/Category:2003年面世的汽車 "wikilink") [Category:运动型多用途车](https://zh.wikipedia.org/wiki/Category:运动型多用途车 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:2000年代汽車](https://zh.wikipedia.org/wiki/Category:2000年代汽車 "wikilink")
 
 1.
 
@@ -56,7 +49,6 @@ X3在[格拉茨被生產](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")。
 9.
 
 10. [](http://annual-report.bmwgroup.com/2010/gb/files/pdf/en/BMW_Group_AR2010.pdf)
-
 
 11.
 

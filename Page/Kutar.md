@@ -78,8 +78,6 @@
 
   - [GIGA連射](http://www.giga-rensya.com/index.html)
   - [www.kutar.com](http://www.kutar.com/)
-  - [Techno-Net++](http://www.geocities.jp/shirai_santa/index.html) -
-    非官方fansite
+  - [Techno-Net++](http://www.geocities.jp/shirai_santa/index.html) - 非官方fansite
 
-[Category:虛構生物](https://zh.wikipedia.org/wiki/Category:虛構生物 "wikilink")
-[Category:吉祥物](https://zh.wikipedia.org/wiki/Category:吉祥物 "wikilink")
+[Category:虛構生物](https://zh.wikipedia.org/wiki/Category:虛構生物 "wikilink") [Category:吉祥物](https://zh.wikipedia.org/wiki/Category:吉祥物 "wikilink")

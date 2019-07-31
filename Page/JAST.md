@@ -2,8 +2,7 @@
 
 1985年（昭和60年）設立，在[成人遊戲界具有相當的的歷史](../Page/日本成人遊戲.md "wikilink")，名字由來是因「JAST」等的成人遊戲[品牌](../Page/品牌.md "wikilink")設立而來。代表作《[天使們的午後](../Page/天使們的午後.md "wikilink")》系列被稱作十八禁冒險遊戲始祖。
 
-1987年股份有限公司（當時為有限公司）、1996年有限公司獨立。「Purple」在2001年讓給了股份有限公司，名稱變更為[Purple
-software](../Page/Purple_software.md "wikilink")。
+1987年股份有限公司（當時為有限公司）、1996年有限公司獨立。「Purple」在2001年讓給了股份有限公司，名稱變更為[Purple software](../Page/Purple_software.md "wikilink")。
 
 ## 品牌一覽
 
@@ -13,8 +12,7 @@ software](../Page/Purple_software.md "wikilink")。
 
   - \- 1995年〜1999年
 
-  - Purple - 1998年〜2001年（之後的[Purple
-    software](../Page/Purple_software.md "wikilink")）
+  - Purple - 1998年〜2001年（之後的[Purple software](../Page/Purple_software.md "wikilink")）
 
   - Angel Hearts - 2000年
 
@@ -78,8 +76,7 @@ software](../Page/Purple_software.md "wikilink")。
 
 <!-- end list -->
 
-  - 請參照[Purple
-    software\#Purple](https://zh.wikipedia.org/wiki/Purple_software#Purple "wikilink")。
+  - 請參照[Purple software\#Purple](https://zh.wikipedia.org/wiki/Purple_software#Purple "wikilink")。
 
 <!-- end list -->
 
@@ -96,8 +93,7 @@ software](../Page/Purple_software.md "wikilink")。
 
 ### 規格
 
-須對應遊戲，在[並列埠](https://zh.wikipedia.org/wiki/並列埠 "wikilink")、[RS-232C接頭中輸出](https://zh.wikipedia.org/wiki/RS-232 "wikilink")[PCM信號](../Page/脈衝編碼調變.md "wikilink")。JAST
-SOUND將輸入的PCM信號轉換成類比音訊，由內建喇叭輸出。
+須對應遊戲，在[並列埠](https://zh.wikipedia.org/wiki/並列埠 "wikilink")、[RS-232C接頭中輸出](https://zh.wikipedia.org/wiki/RS-232 "wikilink")[PCM信號](../Page/脈衝編碼調變.md "wikilink")。JAST SOUND將輸入的PCM信號轉換成類比音訊，由內建喇叭輸出。
 
 ### 發售列表
 
@@ -113,7 +109,4 @@ SOUND將輸入的PCM信號轉換成類比音訊，由內建喇叭輸出。
   - [F\&C](../Page/F&C.md "wikilink")
   - [Purple software](../Page/Purple_software.md "wikilink")
 
-[Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink")
-[Category:日本已結業成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業成人遊戲公司 "wikilink")
-[Category:1985年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1985年開業電子遊戲公司 "wikilink")
-[Category:2001年結業公司](https://zh.wikipedia.org/wiki/Category:2001年結業公司 "wikilink")
+[Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink") [Category:日本已結業成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業成人遊戲公司 "wikilink") [Category:1985年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1985年開業電子遊戲公司 "wikilink") [Category:2001年結業公司](https://zh.wikipedia.org/wiki/Category:2001年結業公司 "wikilink")

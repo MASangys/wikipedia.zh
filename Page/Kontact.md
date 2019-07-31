@@ -2,8 +2,7 @@
 
 ## “Kontact” 和 “KDE PIM”之間的差異
 
-從技術上來說，*Kontact*只是統一不同的獨立的應用程式在一個用戶界面應用程式下。*KDE PIM*
-指的是的一個大的KDE開發工作項目，以一種協調的方式開發單獨的應用程式。
+從技術上來說，*Kontact*只是統一不同的獨立的應用程式在一個用戶界面應用程式下。*KDE PIM* 指的是的一個大的KDE開發工作項目，以一種協調的方式開發單獨的應用程式。
 
 在流行的術語，*Kontact*往往指的是一整套的*KDE PIM*應用程式。
 
@@ -21,19 +20,16 @@ Kontact嵌入程式如下：
 
 KMail透過兩個特殊的過濾器來使用垃圾郵件過濾程序模塊：
 
-  - *Send this e-mail to a program*
-    使用任何提供規範的程序，當KMail過濾器被激活時，該程序將被運行並處理電子郵件的內容。
+  - *Send this e-mail to a program* 使用任何提供規範的程序，當KMail過濾器被激活時，該程序將被運行並處理電子郵件的內容。
   - *Pipe this e-mail through a program*
 
 這些模塊化的過濾器可結合文本過濾器來檢測已標示的電子郵件。
 
-KMail允許直接在郵件伺服器上手動過濾垃圾郵件，一個撥號上網用戶非常有興趣的功能。電子郵件超過一定的大小（標準為50kB，但它可以設置為任何值）不會自動複製到本地電腦。「get,
-decide later, delete」選項，KMail會列出郵件，但並不會下載整個郵件，這使得不用浪費更多時間刪除垃圾郵件。
+KMail允許直接在郵件伺服器上手動過濾垃圾郵件，一個撥號上網用戶非常有興趣的功能。電子郵件超過一定的大小（標準為50kB，但它可以設置為任何值）不會自動複製到本地電腦。「get, decide later, delete」選項，KMail會列出郵件，但並不會下載整個郵件，這使得不用浪費更多時間刪除垃圾郵件。
 
 #### 加密支持
 
-[KMail_Encryption.png](https://zh.wikipedia.org/wiki/File:KMail_Encryption.png "fig:KMail_Encryption.png")
-KMail支持[OpenPGP標準](https://zh.wikipedia.org/wiki/OpenPGP "wikilink")，可以自動加密、解密、憑証和驗證電子郵件的憑証及其經由內嵌或OpenPGP/MIME方法加密的附件。作為視覺輔助，KMail將電子郵件用綠色表示為信任憑証；黃色不可信憑証；紅色為無效憑証；和藍色的加密郵件。
+[KMail_Encryption.png](https://zh.wikipedia.org/wiki/File:KMail_Encryption.png "fig:KMail_Encryption.png") KMail支持[OpenPGP標準](https://zh.wikipedia.org/wiki/OpenPGP "wikilink")，可以自動加密、解密、憑証和驗證電子郵件的憑証及其經由內嵌或OpenPGP/MIME方法加密的附件。作為視覺輔助，KMail將電子郵件用綠色表示為信任憑証；黃色不可信憑証；紅色為無效憑証；和藍色的加密郵件。
 
 KMail也支持[S/MIME郵件以及Chiasmus](https://zh.wikipedia.org/wiki/S/MIME "wikilink")\[1\]，一個德國信息安全聯邦辦公室（BSI）所創造的專有加密系統。
 
@@ -55,8 +51,7 @@ KMail也支持[S/MIME郵件以及Chiasmus](https://zh.wikipedia.org/wiki/S/MIME 
 
 ### 行事曆
 
-**KOrganizer** 是[KDE](../Page/KDE.md "wikilink")桌面環境的個人事務安排助理
-。提供管理行事曆、日記和一個待辦事項清單。
+**KOrganizer** 是[KDE](../Page/KDE.md "wikilink")桌面環境的個人事務安排助理 。提供管理行事曆、日記和一個待辦事項清單。
 
 ### Usenet 新聞閱讀器
 
@@ -64,10 +59,8 @@ KMail也支持[S/MIME郵件以及Chiasmus](https://zh.wikipedia.org/wiki/S/MIME 
 
   - E-Mail：[KMail](https://zh.wikipedia.org/wiki/KMail "wikilink")
   - 消息來源聚合器：[Akregator](../Page/Akregator.md "wikilink")
-  - 筆記：[KNotes](https://zh.wikipedia.org/wiki/KNotes "wikilink") - KDE
-    筆記管理
-  - 新聞消息:
-    [KNewsTicker](https://zh.wikipedia.org/wiki/KNewsTicker "wikilink")
+  - 筆記：[KNotes](https://zh.wikipedia.org/wiki/KNotes "wikilink") - KDE 筆記管理
+  - 新聞消息: [KNewsTicker](https://zh.wikipedia.org/wiki/KNewsTicker "wikilink")
   - 天氣: [KWeather](https://zh.wikipedia.org/wiki/KWeather "wikilink")
 
 ### 存儲後端

@@ -1,9 +1,4 @@
-**Lump of
-Sugar**是一間[日本](../Page/日本.md "wikilink")十八禁[美少女遊戲](../Page/美少女遊戲.md "wikilink")製作公司，於[2005年4月](../Page/2005年4月.md "wikilink")開始活動。Lump
-of
-Sugar的意思是角砂糖（即[方糖](https://zh.wikipedia.org/wiki/方糖 "wikilink")），所以Lump
-of
-Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。擔當[原畫的是](https://zh.wikipedia.org/wiki/原畫 "wikilink")[同人團體](https://zh.wikipedia.org/wiki/同人 "wikilink")「ZIP」的畫家[萌木原文武](../Page/萌木原文武.md "wikilink")。
+**Lump of Sugar**是一間[日本](../Page/日本.md "wikilink")十八禁[美少女遊戲](../Page/美少女遊戲.md "wikilink")製作公司，於[2005年4月](../Page/2005年4月.md "wikilink")開始活動。Lump of Sugar的意思是角砂糖（即[方糖](https://zh.wikipedia.org/wiki/方糖 "wikilink")），所以Lump of Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。擔當[原畫的是](https://zh.wikipedia.org/wiki/原畫 "wikilink")[同人團體](https://zh.wikipedia.org/wiki/同人 "wikilink")「ZIP」的畫家[萌木原文武](../Page/萌木原文武.md "wikilink")。
 
 ## 作品列表
 
@@ -190,15 +185,9 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 
 ### 遊戲機移植版
 
-  - 2007年10月25日 - [何時到達那片天空
-    ～陽光之路和紅色黃昏～](../Page/何時到達那片天空.md "wikilink")（發行單位：Russell.cure、機種：[PlayStation
-    2](../Page/PlayStation_2.md "wikilink")）
-  - 2009年11月5日 - [遊魂 -Kiss on my
-    Deity-](../Page/遊魂_-Kiss_on_my_Deity-.md "wikilink")（發行單位：[5pb.](../Page/5pb..md "wikilink")、機種：[Xbox
-    360](../Page/Xbox_360.md "wikilink")）
-  - 2013年3月28日 - [学☆王 -THE ROYAL SEVEN STARS-
-    +METEOR](https://zh.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS-#学☆王_-THE_ROYAL_SEVEN_STARS-_+METEOR "wikilink")（發行單位：[Alchemist](../Page/Alchemist.md "wikilink")、機種：[PlayStation
-    Portable](../Page/PlayStation_Portable.md "wikilink")）
+  - 2007年10月25日 - [何時到達那片天空 ～陽光之路和紅色黃昏～](../Page/何時到達那片天空.md "wikilink")（發行單位：Russell.cure、機種：[PlayStation 2](../Page/PlayStation_2.md "wikilink")）
+  - 2009年11月5日 - [遊魂 -Kiss on my Deity-](../Page/遊魂_-Kiss_on_my_Deity-.md "wikilink")（發行單位：[5pb.](../Page/5pb..md "wikilink")、機種：[Xbox 360](../Page/Xbox_360.md "wikilink")）
+  - 2013年3月28日 - [学☆王 -THE ROYAL SEVEN STARS- +METEOR](https://zh.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS-#学☆王_-THE_ROYAL_SEVEN_STARS-_+METEOR "wikilink")（發行單位：[Alchemist](../Page/Alchemist.md "wikilink")、機種：[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")）
 
 ## 主要成員
 
@@ -231,29 +220,22 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
       -
 ## 愚人節玩笑
 
-Lump of
-Sugar的官方網站每年（除了2013年）4月1日[愚人節都會公佈由Lump](https://zh.wikipedia.org/wiki/愚人節 "wikilink")
-of
-Sugar作品內的人物登場的[射擊遊戲和對打式](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，都是愚人節的假消息。\[1\]
+Lump of Sugar的官方網站每年（除了2013年）4月1日[愚人節都會公佈由Lump](https://zh.wikipedia.org/wiki/愚人節 "wikilink") of Sugar作品內的人物登場的[射擊遊戲和對打式](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，都是愚人節的假消息。\[1\]
 
   - 2006年4月1日：「」（射擊遊戲）
   - 2007年4月1日：「\[2\]」（射擊遊戲）
   - 2008年4月1日：「」（射擊遊戲）
   - 2009年4月1日：「Lump's×Rumpus」（射擊遊戲）及「」（對打式格鬥遊戲）
   - 2010年4月1日：「」（格鬥遊戲）
-  - 2014年4月1日：「[（CHRONOCARD RPG
-    CHRONICLECOMMON'S）](http://www.lumpofsugar.co.jp/product/chronocard_rpg/index.html)」
+  - 2014年4月1日：「[（CHRONOCARD RPG CHRONICLECOMMON'S）](http://www.lumpofsugar.co.jp/product/chronocard_rpg/index.html)」
   - 2015年4月1日：「[KAKU-THE-TOU](https://web.archive.org/web/20160403042200/http://www.lumpofsugar.co.jp/april/2015/KAKU_THE_TOU/index.html)」
   - 2016年4月1日：「[](http://www.lumpofsugar.co.jp/product/tayutamakikaku/index2.html)」
 
 ## 廣播節目
 
-「Lump of Sugar 放送部」是Lump of
-Sugar於[音泉](../Page/音泉.md "wikilink")廣播的節目，於2007年9月13日起隔週星期五播放（最初是隔週星期四），每集約長50分鐘。主持是為Lump
-of Sugar作品配音的和CG畫家。
+「Lump of Sugar 放送部」是Lump of Sugar於[音泉](../Page/音泉.md "wikilink")廣播的節目，於2007年9月13日起隔週星期五播放（最初是隔週星期四），每集約長50分鐘。主持是為Lump of Sugar作品配音的和CG畫家。
 
-另外在2009年3月9日至7月13日期間，於音泉隔週星期一廣播「」，一共10回。主持是[力丸乃梨子](../Page/力丸乃梨子.md "wikilink")和[下田麻美](../Page/下田麻美.md "wikilink")，即「遊魂
--Kiss on my Deity-」動畫版中泉戶真白和河合亞芽里的聲優。
+另外在2009年3月9日至7月13日期間，於音泉隔週星期一廣播「」，一共10回。主持是[力丸乃梨子](../Page/力丸乃梨子.md "wikilink")和[下田麻美](../Page/下田麻美.md "wikilink")，即「遊魂 -Kiss on my Deity-」動畫版中泉戶真白和河合亞芽里的聲優。
 
 ## 參考文獻
 
@@ -271,9 +253,7 @@ of Sugar作品配音的和CG畫家。
 
   -
   -
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink")
 
 1.  [いつもの](http://www.lumpofsugar.co.jp/april/link.html) Lump of Sugar
 2.

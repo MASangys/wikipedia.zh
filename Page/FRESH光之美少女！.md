@@ -2,8 +2,7 @@
 
 ## 本作概要
 
-繼前作《[Yes\!
-光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")》後，本作再由新角色和故事所構成。為「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第六部作品，內容上則是第四代光之美少女。
+繼前作《[Yes\! 光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")》後，本作再由新角色和故事所構成。為「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第六部作品，內容上則是第四代光之美少女。
 
 被破壞的地方不會[還原](https://zh.wikipedia.org/wiki/還原 "wikilink")：無論在前作還是後作，被魔物破壞的周圍環境，戰後便會還原，但此作不會。
 
@@ -13,14 +12,11 @@
 
 ## 故事簡介
 
-平行世界的國家之一的「迷宮（Labyrinth）」，總統梅比斯為了策劃征服全部的平行世界、得到達成必要的容量無限的「無限記憶體（Infinity）」，將三位幹部送到四葉鎮，目的是藉三位幹部從人類身上所收集的不幸與悲傷，來注滿「不幸計（FUKO
-Gauge）」。當不幸計儲滿後，「無限記憶體」便垂手可得。
+平行世界的國家之一的「迷宮（Labyrinth）」，總統梅比斯為了策劃征服全部的平行世界、得到達成必要的容量無限的「無限記憶體（Infinity）」，將三位幹部送到四葉鎮，目的是藉三位幹部從人類身上所收集的不幸與悲傷，來注滿「不幸計（FUKO Gauge）」。當不幸計儲滿後，「無限記憶體」便垂手可得。
 
-平行世界中的另一國家「甜蜜王國（Sweets
-Kingdom）」的長老很快地察覺梅比斯的陰謀。為了阻止梅比斯，長老決定喚醒傳說中的戰士——光之美少女，在森林中進行禱告，解除了四枚能賦予光之美少女力量的變身鑰匙「Pickrun」的封印。四枚鑰匙為了找到光之美少女，穿越時空來到四葉鎮。
+平行世界中的另一國家「甜蜜王國（Sweets Kingdom）」的長老很快地察覺梅比斯的陰謀。為了阻止梅比斯，長老決定喚醒傳說中的戰士——光之美少女，在森林中進行禱告，解除了四枚能賦予光之美少女力量的變身鑰匙「Pickrun」的封印。四枚鑰匙為了找到光之美少女，穿越時空來到四葉鎮。
 
-在四葉鎮中，神采奕奕的中學二年級少女桃園愛是人氣舞團「三人組（Trinity）」的支持者，因被隊長美雪的精彩舞蹈所感動而萌生「我也要像那樣子跳舞！」的念頭。可是在某場表演的途中，「迷宮」幹部創造的怪物「那基華米基」對觀眾發動攻擊，使會場陷入了大騷動。「想保護憧憬的人，想再看一次三人組的表演！」被這樣的心情驅使，桃園愛靠著被抵達四葉鎮的「Pickrun」寄身而化成的變身手機「Linkrun」，變身成為Cure
-Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美少女的好友蒼乃美希、山吹祈里一起，為打碎「迷宮」的野心，並守護大家的笑容，以充滿愛、希望和祈福的心，跟「迷宮」展開戰鬥。
+在四葉鎮中，神采奕奕的中學二年級少女桃園愛是人氣舞團「三人組（Trinity）」的支持者，因被隊長美雪的精彩舞蹈所感動而萌生「我也要像那樣子跳舞！」的念頭。可是在某場表演的途中，「迷宮」幹部創造的怪物「那基華米基」對觀眾發動攻擊，使會場陷入了大騷動。「想保護憧憬的人，想再看一次三人組的表演！」被這樣的心情驅使，桃園愛靠著被抵達四葉鎮的「Pickrun」寄身而化成的變身手機「Linkrun」，變身成為Cure Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美少女的好友蒼乃美希、山吹祈里一起，為打碎「迷宮」的野心，並守護大家的笑容，以充滿愛、希望和祈福的心，跟「迷宮」展開戰鬥。
 
 ## 登場人物
 
@@ -55,9 +51,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
       -
 
           -
-            於第8話得到「Peach Rod（蜜桃杖／愛情神杖）」後的強化必殺技。利用Peach
-            Rod釋放一心形光彈封鎖敵人，並加以淨化。將Peach
-            Rod召喚後，說出「傳遞愛的旋律，Cure Stick，Peach Rod」再進行攻擊。
+            於第8話得到「Peach Rod（蜜桃杖／愛情神杖）」後的強化必殺技。利用Peach Rod釋放一心形光彈封鎖敵人，並加以淨化。將Peach Rod召喚後，說出「傳遞愛的旋律，Cure Stick，Peach Rod」再進行攻擊。
 
       - 特殊能力
         利用「Pirun（皮嚕）」變出可供希風食用的食物。
@@ -91,10 +85,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
       -
 
           -
-            於第17話得到「Berry Sword（莓劍／希望聖劍）」後的強化必殺技。利用Berry
-            Sword釋放一黑桃形光彈封鎖敵人，並加以淨化。將Berry
-            Sword召喚後，說出「讓希望的節奏響徹雲霄，Cure Stick，Berry
-            Sword」再進行攻擊。【参考集数：17】
+            於第17話得到「Berry Sword（莓劍／希望聖劍）」後的強化必殺技。利用Berry Sword釋放一黑桃形光彈封鎖敵人，並加以淨化。將Berry Sword召喚後，說出「讓希望的節奏響徹雲霄，Cure Stick，Berry Sword」再進行攻擊。【参考集数：17】
 
       - 特殊能力
         利用「Blun（普嚕）」進行更衣。
@@ -128,9 +119,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
       -
 
           -
-            於第13話得到「Pine Flute（鳳梨笛／祈願長笛）」後的強化必殺技。利用Pine
-            Flute釋放一菱形光彈封鎖敵人，並加以淨化。將Pine
-            Flute召喚後，說出「讓和平的祈願獲得療癒，Cure Stick，Pine Flute」再進行攻擊。
+            於第13話得到「Pine Flute（鳳梨笛／祈願長笛）」後的強化必殺技。利用Pine Flute釋放一菱形光彈封鎖敵人，並加以淨化。將Pine Flute召喚後，說出「讓和平的祈願獲得療癒，Cure Stick，Pine Flute」再進行攻擊。
             香港版為「要療癒和平的祈願之音，幸福魔法棒，祈願長笛」
 
       - 特殊能力
@@ -159,9 +148,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
       -
 
           -
-            利用「Passion
-            Harp（百香果豎琴／幸運豎琴）」，讓身體不停旋轉刮起帶著羽毛的暴風封鎖敵人，並加以淨化。將Passion
-            Harp召喚後，說出「歌頌幸運的狂想曲，Passion Harp」再進行攻擊。
+            利用「Passion Harp（百香果豎琴／幸運豎琴）」，讓身體不停旋轉刮起帶著羽毛的暴風封鎖敵人，並加以淨化。將Passion Harp召喚後，說出「歌頌幸運的狂想曲，Passion Harp」再進行攻擊。
 
       - 特殊能力
         利用「Akarun（卡嚕）」的力量，能夠瞬間移動至任何處所
@@ -197,8 +184,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
   -
 
       -
-        四人在召喚幸運草寶盒（Clover
-        Box）的力量後各自生成心形光片，依次組合成四葉草外形的光盤，擲向敵人上方並巨大化，四人再一齊站上光盤，同時使敵人在光盤的中央被封鎖並淨化。
+        四人在召喚幸運草寶盒（Clover Box）的力量後各自生成心形光片，依次組合成四葉草外形的光盤，擲向敵人上方並巨大化，四人再一齊站上光盤，同時使敵人在光盤的中央被封鎖並淨化。
         台灣與香港的稱號譯作**幸運草終結光束**。
 
 <!-- end list -->
@@ -208,9 +194,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 <!-- end list -->
 
   -
-    光之美少女全體四人於48話及Cure
-    Peach單獨在電影版裡的終極形態。全員背後均有可伸縮的翼翅飛行，衣服顏色整體變淺，胸口的四葉草標示加上了一塊白色的葉而變成五塊葉。變身口號為「純白色的心是大家的真心！展翅高飛Fresh，Cure
-    Angel！」。台灣代理的稱號稱作**天使精靈**。
+    光之美少女全體四人於48話及Cure Peach單獨在電影版裡的終極形態。全員背後均有可伸縮的翼翅飛行，衣服顏色整體變淺，胸口的四葉草標示加上了一塊白色的葉而變成五塊葉。變身口號為「純白色的心是大家的真心！展翅高飛Fresh，Cure Angel！」。台灣代理的稱號稱作**天使精靈**。
     電影版中為Cure Peach一人進化為Cure Angel時的招式，本篇中全體光之美少女進化為Cure Angel後可一起使用。
       - 光之美少女 真愛之心（Precure Loving True Heart）
         用自己的雙手擺成心型，於身後做出一個巨大心型光盾釋放光芒淨化邪惡能量。
@@ -238,8 +222,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     與變身鑰匙及光之美少女的力量有不明的關聯，且在光之美少女的力量提升時會隨之成長：經Pirun（皮嚕）強化後可以進食固體食物，經Kirun（奇嚕）強化後可以說話；並可利用Blun（普嚕）穿上不同的衣服。
 
-    故事後期不幸儲存計儲滿後顯現本身擁有無限記憶體（Infinity），在不幸時會維持喪失意識的夢遊狀態，可使用幸運草寶盒暫時復原。最後被光之美少女
-    真愛之心 Fresh 給恢復正常，並以後不再受到迷宮的控制。
+    故事後期不幸儲存計儲滿後顯現本身擁有無限記憶體（Infinity），在不幸時會維持喪失意識的夢遊狀態，可使用幸運草寶盒暫時復原。最後被光之美少女 真愛之心 Fresh 給恢復正常，並以後不再受到迷宮的控制。
 
     名稱源自於英文「[戚風蛋糕](https://zh.wikipedia.org/wiki/戚風蛋糕 "wikilink")」。
 
@@ -294,8 +277,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     後來在[STMM中被索爾希埃爾的魔力以一般型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，最終與杜恩一同現身並自爆。
 
-    其名字源自數學上代表無窮大的[莫比乌斯带](../Page/莫比乌斯带.md "wikilink")（Möbius
-    strip或者Möbius band）。
+    其名字源自數學上代表無窮大的[莫比乌斯带](../Page/莫比乌斯带.md "wikilink")（Möbius strip或者Möbius band）。
 
 #### 高層
 
@@ -1342,9 +1324,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 #### 故事簡介
 
   -
-    愛、美希、祈里和剎那四人舉行睡衣派對的夜晚中，鎮上的玩具一而再的消失。突然間愛的娃娃「兔寶寶」竟從櫥櫃裡走出來，並且告訴她們說孩子們的玩具不斷消失的原因，是因為想征服世界的「玩具魔神」的詭計。好不容易來到了眾多玩具的故鄉「玩具王國」（Land
-    of
-    Toys），可是玩具魔神卻用眾多的秘密機關設法奪取光之美少女。兔寶寶跟隨著玩具們消失，許多孩子悲痛的哭聲傳達到愛的耳中，此時愛才想起在國小三年級時將兔寶寶遺忘在櫥櫃中的事情，但問題是兔娃娃現在到底在哪裡，又該如何平息玩具魔神的憤怒呢？
+    愛、美希、祈里和剎那四人舉行睡衣派對的夜晚中，鎮上的玩具一而再的消失。突然間愛的娃娃「兔寶寶」竟從櫥櫃裡走出來，並且告訴她們說孩子們的玩具不斷消失的原因，是因為想征服世界的「玩具魔神」的詭計。好不容易來到了眾多玩具的故鄉「玩具王國」（Land of Toys），可是玩具魔神卻用眾多的秘密機關設法奪取光之美少女。兔寶寶跟隨著玩具們消失，許多孩子悲痛的哭聲傳達到愛的耳中，此時愛才想起在國小三年級時將兔寶寶遺忘在櫥櫃中的事情，但問題是兔娃娃現在到底在哪裡，又該如何平息玩具魔神的憤怒呢？
 
 #### 登場人物
 
@@ -1360,8 +1340,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     平時是以機器人形態行動，其強度與劇情中後期出現的搶奪獸相等或是更甚之，需要用到幸運四葉草最終舞曲才能進行淨化。
 
-    儘管如此，其怨念強悍到無法僅僅因此被淨化，因此聚集了玩具王國所有玩具們的怨恨而成為第二型態的巨熊魔人，最終被桃天使進化的Cure
-    Angel以“真愛之心”淨化，化為無數玩具消失。
+    儘管如此，其怨念強悍到無法僅僅因此被淨化，因此聚集了玩具王國所有玩具們的怨恨而成為第二型態的巨熊魔人，最終被桃天使進化的Cure Angel以“真愛之心”淨化，化為無數玩具消失。
 
     後來在[DX3中復活](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")，與沙羅曼達男爵聯手交戰夏妮露米納斯、火天使、星天使、紫天使、鳳梨天使、百香果天使、陽光天使和月光天使，最後超獸化被桃天使、苺天使、鳳梨天使和百香果天使以**幸運四葉草最終舞曲**再度消滅。
 
@@ -1384,36 +1363,24 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars
-    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
+    主條目：[All Stars 系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
 
 <!-- end list -->
 
-  - [All Stars
-    DX](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink")
-    上映於本作播出時，因此以本作故事初期設定為準。
+  - [All Stars DX](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink") 上映於本作播出時，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
-    [光之美少女 All Stars DX
-    大家都是朋友☆奇蹟的全員大集合！](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink")
-    [光之美少女 All Stars DX2
-    希望之光☆守護彩虹寶石！](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")
-    [光之美少女 All Stars DX3
-    傳達到未來！連結世界☆彩虹之花！](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")
-    [光之美少女 All Stars New Stage
-    未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
-    [光之美少女 All Stars New Stage2
-    心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
-    [光之美少女 All Stars New Stage3
-    永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
-    [光之美少女 All Stars
-    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
-    [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
-    [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    [光之美少女 All Stars DX 大家都是朋友☆奇蹟的全員大集合！](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink")
+    [光之美少女 All Stars DX2 希望之光☆守護彩虹寶石！](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")
+    [光之美少女 All Stars DX3 傳達到未來！連結世界☆彩虹之花！](../Page/光之美少女_All_Stars_DX3_傳達到未來！連結世界☆彩虹之花！.md "wikilink")
+    [光之美少女 All Stars New Stage 未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")
+    [光之美少女 All Stars New Stage2 心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
+    [光之美少女 All Stars New Stage3 永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
+    [光之美少女 All Stars 春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
+    [光之美少女 All Stars 大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
+    [HUG！光之美少女♡光之美少女 All Stars Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 註解
 
@@ -1423,12 +1390,10 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
   - [光之美少女：幸福精靈Fresh\!](http://asahi.co.jp/fresh_precure/top.html)（ABC）
   - [光之美少女：幸福精靈Fresh\!](http://www.toei-anim.co.jp/tv/fresh_precure/)（東映動畫）
-  - [光之美少女：幸福精靈Fresh\!
-    玩具王國有好多秘密！？](http://www.toei-anim.co.jp/movie/2009_fresh_precure/)（電影）
+  - [光之美少女：幸福精靈Fresh\! 玩具王國有好多秘密！？](http://www.toei-anim.co.jp/movie/2009_fresh_precure/)（電影）
   - [光之美少女：幸福精靈Fresh\!網路遊戲](http://precure-online.net/)
   - [光之美少女：幸福精靈Fresh\!遊戲合集](http://www.bandaigames.channel.or.jp/list/ds_fresh_precure/)（日本萬代遊戲）
-  - [幸福精靈FRESH！ -
-    FUNBOX麗嬰國際玩具](http://www.funbox.com.tw/funbox/_freshprettycure/index.html)
+  - [幸福精靈FRESH！ - FUNBOX麗嬰國際玩具](http://www.funbox.com.tw/funbox/_freshprettycure/index.html)
 
 | 播放地區                                                                                 | 播放電視台                                                 | 播放日期                    | 播放時間              | 所屬聯播網   | 備註   |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------- | ----------------- | ------- | ---- |
@@ -1438,16 +1403,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 | [鳥取縣](../Page/鳥取縣.md "wikilink")、[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink") | [山陰放送](https://zh.wikipedia.org/wiki/山陰放送 "wikilink") | 2009年2月7日 - 2010年2月6日   | 星期六 11:15 - 11:45 | TBS系列   | 延遲6日 |
 | [宮崎縣](../Page/宮崎縣.md "wikilink")                                                     | [宮崎放送](https://zh.wikipedia.org/wiki/宮崎放送 "wikilink") | 2009年7月21日 - 2010年7月13日 | 星期二 15:30 - 16:00 | 延遲170日  |      |
 
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.
 

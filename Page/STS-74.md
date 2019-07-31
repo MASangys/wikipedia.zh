@@ -6,8 +6,6 @@
   - **[詹姆斯·海塞尔](https://zh.wikipedia.org/wiki/詹姆斯·海塞尔 "wikilink")**（，曾执行、、、以及任务），飞行员
   - **[杰瑞·罗斯](https://zh.wikipedia.org/wiki/杰瑞·罗斯 "wikilink")**（，曾执行、、、、、以及任务），任务专家
   - **[威廉·麦克阿瑟](https://zh.wikipedia.org/wiki/威廉·麦克阿瑟 "wikilink")**（，曾执行、、、以及任务），任务专家
-  - **[克里斯·哈德菲尔德](https://zh.wikipedia.org/wiki/克里斯·哈德菲尔德 "wikilink")**（，[加拿大宇航员](../Page/加拿大.md "wikilink")，曾执行以及任务），任务专家
+  - **[克里斯·哈德菲尔德](https://zh.wikipedia.org/wiki/克里斯·哈德菲尔德 "wikilink")**（，[加拿大](../Page/加拿大.md "wikilink")宇航员，曾执行以及任务），任务专家
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1995年](https://zh.wikipedia.org/wiki/Category:1995年 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1995年](https://zh.wikipedia.org/wiki/Category:1995年 "wikilink")

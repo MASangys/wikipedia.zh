@@ -2,15 +2,9 @@
 
 ## 概要
 
-本作是[遊戲王](../Page/遊戲王.md "wikilink")系列作（繼《[遊戲王－怪獸之決鬥](../Page/遊戲王－怪獸之決鬥.md "wikilink")》、《[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")》）的第三部作品，同時也是[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》創刊40周年及《[V
-Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")》15周年紀念作品。與前兩作不同，本作的舞臺是以[武藤遊戲](../Page/武藤遊戲.md "wikilink")所在年代數十年後的童實野市為背景，名叫“新童實野市”。這裡是一個根據身份高低分為上層地帶和下層地帶的階級社會，流行用“**D輪**（D
-Wheel）”之稱的摩托車型決鬥裝置來進行“騎乘決鬥（Riding
-Duel）”。劇中「騎著摩托車決鬥」的概念造成了話題。雖然本作是以騎著摩托車進行決鬥的「騎乘決鬥（Riding
-Duel）」為主，但並不是所有決鬥都是騎著摩托車進行，系列作以往的站立式決鬥也會出現。
+本作是[遊戲王](../Page/遊戲王.md "wikilink")系列作（繼《[遊戲王－怪獸之決鬥](../Page/遊戲王－怪獸之決鬥.md "wikilink")》、《[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")》）的第三部作品，同時也是[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》創刊40周年及《[V Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")》15周年紀念作品。與前兩作不同，本作的舞臺是以[武藤遊戲](../Page/武藤遊戲.md "wikilink")所在年代數十年後的童實野市為背景，名叫“新童實野市”。這裡是一個根據身份高低分為上層地帶和下層地帶的階級社會，流行用“**D輪**（D Wheel）”之稱的摩托車型決鬥裝置來進行“騎乘決鬥（Riding Duel）”。劇中「騎著摩托車決鬥」的概念造成了話題。雖然本作是以騎著摩托車進行決鬥的「騎乘決鬥（Riding Duel）」為主，但並不是所有決鬥都是騎著摩托車進行，系列作以往的站立式決鬥也會出現。
 
-本作主標題去掉了歷代以來「怪獸之決鬥（Duel
-Monsters）」字樣，「遊戲王」LOGO也使用了全新的設計，雖然如此本作也繼承了將這個世界裏的卡片遊戲稱為「怪獸之決鬥」的說法。至今為止在動畫裏被使用過的卡片不久後會在公式化裏出現，然而本作的主角們使用的卡片有可能同一時間在公式化中也能玩到。因此與「遊戲王5D's
-Official Card Game」的綁定性也提高了。
+本作主標題去掉了歷代以來「怪獸之決鬥（Duel Monsters）」字樣，「遊戲王」LOGO也使用了全新的設計，雖然如此本作也繼承了將這個世界裏的卡片遊戲稱為「怪獸之決鬥」的說法。至今為止在動畫裏被使用過的卡片不久後會在公式化裏出現，然而本作的主角們使用的卡片有可能同一時間在公式化中也能玩到。因此與「遊戲王5D's Official Card Game」的綁定性也提高了。
 
 舞台設定以及構想基礎皆來自「[遊戲王](../Page/遊戲王.md "wikilink")」原作者[高橋和希](../Page/高橋和希.md "wikilink")的初案，高橋也著手於主要角色、主要怪獸卡、D輪等設計。「讓舞台擴大到世界規模，其移動手段是必要的準備」、「前兩作普通決鬥已經淋漓盡致了，若要做續篇的話，想挑戰新的決鬥方式」等理由讓D輪以及騎乘決鬥成為本作主軸而被製作出來\[1\]\[2\]。高橋自己打算在前作「[GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")」中為「[遊戲王](../Page/遊戲王.md "wikilink")」做結尾，但系列作發展超過高橋一人的範圍，牽涉到跨媒體的平台（[ACG](../Page/ACG.md "wikilink")、原聲帶、集換式卡片），又因為和動畫製作組有熟識，各個原因之下，以最終工作的精神承接本作\[3\]。
 
@@ -1786,8 +1780,7 @@ Park Chi Man</p></td>
 
 ## 電影版
 
-《[10th週年劇場版 遊戲王
-～超融合！跨越時空的羈絆～](../Page/10th週年劇場版_遊戲王_～超融合！跨越時空的羈絆～.md "wikilink")》是《遊戲王》系列十週年的劇場版動畫，故事描述《遊戲王—怪獸之決鬥》的「武藤遊戲」、《遊戲王GX》的「遊城十代」及《遊戲王5D's》的「不動遊星」三位主角，共同對抗世界本源滅四星之一「帕拉杜克斯（パラドックス）」。
+《[10th週年劇場版 遊戲王 ～超融合！跨越時空的羈絆～](../Page/10th週年劇場版_遊戲王_～超融合！跨越時空的羈絆～.md "wikilink")》是《遊戲王》系列十週年的劇場版動畫，故事描述《遊戲王—怪獸之決鬥》的「武藤遊戲」、《遊戲王GX》的「遊城十代」及《遊戲王5D's》的「不動遊星」三位主角，共同對抗世界本源滅四星之一「帕拉杜克斯（パラドックス）」。
 
 ## 製作人員
 
@@ -1831,48 +1824,25 @@ Park Chi Man</p></td>
 
 ### 片头曲
 
-1.  「绊－キズナ（羈絆）－」
-    歌：[Kra](https://zh.wikipedia.org/wiki/Kra "wikilink")(1话 -
-    26话)
-2.  「LAST TRAIN－－」作詞・作曲：ＫＥＩＴ
-    歌：[knotlamp](https://zh.wikipedia.org/wiki/knotlamp "wikilink")(27话
-    - 64话）
-3.  「FREEDOM」歌：[La-vie](https://zh.wikipedia.org/wiki/La-vie "wikilink")
-    (65话 - 103话)
-4.  「BELIEVE IN
-    NEXUS」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")
-    (104话 - 129話)
-5.  「明日への道（通向明日之道）～Going my
-    way\!\!～」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")
-    (130话 - 154話)
+1.  「绊－キズナ（羈絆）－」 歌：[Kra](https://zh.wikipedia.org/wiki/Kra "wikilink")(1话 - 26话)
+2.  「LAST TRAIN－－」作詞・作曲：ＫＥＩＴ 歌：[knotlamp](https://zh.wikipedia.org/wiki/knotlamp "wikilink")(27话 - 64话）
+3.  「FREEDOM」歌：[La-vie](https://zh.wikipedia.org/wiki/La-vie "wikilink") (65话 - 103话)
+4.  「BELIEVE IN NEXUS」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink") (104话 - 129話)
+5.  「明日への道（通向明日之道）～Going my way\!\!～」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink") (130话 - 154話)
 
 ### 片尾曲
 
-1.  「START」 歌：[中河内雅贵](https://zh.wikipedia.org/wiki/中河内雅贵 "wikilink")
-    （1话 - 26话)
-2.  「CROSS GAME」 歌：[alice
-    nine.](https://zh.wikipedia.org/wiki/alice_nine. "wikilink") （27话 -
-    64话)
-3.  「-OZONE-」
-    歌：[vistlip](https://zh.wikipedia.org/wiki/vistlip "wikilink")（65话
-    - 103话)
-4.  「Close to you」 歌：[ALvino\~Alchemy vision
-    normal\~](https://zh.wikipedia.org/wiki/ALvino~Alchemy_vision_normal~ "wikilink")(104话
-    - 129話)
-5.  「みらいいろ（未來的顏色）」 歌：[プラスティックトゥリー(Plastic
-    Tree)](https://zh.wikipedia.org/wiki/プラスティックトゥリー\(Plastic_Tree\) "wikilink")(130话
-    - 154話)
+1.  「START」 歌：[中河内雅贵](https://zh.wikipedia.org/wiki/中河内雅贵 "wikilink") （1话 - 26话)
+2.  「CROSS GAME」 歌：[alice nine.](https://zh.wikipedia.org/wiki/alice_nine. "wikilink") （27话 - 64话)
+3.  「-OZONE-」 歌：[vistlip](https://zh.wikipedia.org/wiki/vistlip "wikilink")（65话 - 103话)
+4.  「Close to you」 歌：[ALvino\~Alchemy vision normal\~](https://zh.wikipedia.org/wiki/ALvino~Alchemy_vision_normal~ "wikilink")(104话 - 129話)
+5.  「みらいいろ（未來的顏色）」 歌：[プラスティックトゥリー(Plastic Tree)](https://zh.wikipedia.org/wiki/プラスティックトゥリー\(Plastic_Tree\) "wikilink")(130话 - 154話)
 
 ### 插曲
 
-1.  「You say…明日へ（邁向明日）」
-    歌：[La-vie](https://zh.wikipedia.org/wiki/La-vie "wikilink")
-    （72,90,92话)
-2.  「Clear Mind（澄淨之心）」
-    歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")
-    （109,110,122,129,134,154话)
-3.  「YAKUSOKU NO
-    MELODY」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")（154話）
+1.  「You say…明日へ（邁向明日）」 歌：[La-vie](https://zh.wikipedia.org/wiki/La-vie "wikilink") （72,90,92话)
+2.  「Clear Mind（澄淨之心）」 歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink") （109,110,122,129,134,154话)
+3.  「YAKUSOKU NO MELODY」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")（154話）
 
 ## 出版書籍
 
@@ -1951,17 +1921,10 @@ Park Chi Man</p></td>
   - [NAS遊戲王5D's](http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=92&mm_category=TV%E3%82%A2%E3%83%8B%E3%83%A1%EF%BC%88%E6%94%BE%E9%80%81%E4%B8%AD%EF%BC%89&work=1&classes=&age=&division=)
 
   -
-[Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink")
-[Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink")
-[Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink")
-[Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink")
-[Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:GALLOP](https://zh.wikipedia.org/wiki/Category:GALLOP "wikilink")
+[Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink") [Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink") [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink") [Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:GALLOP](https://zh.wikipedia.org/wiki/Category:GALLOP "wikilink")
 
 1.
-2.  VJump Books編集部著『遊戯王 10th Anniversary Animation
-    Book』（集英社、2010年1月21日）135項
+2.  VJump Books編集部著『遊戯王 10th Anniversary Animation Book』（集英社、2010年1月21日）135項
 
 3.  高橋和希著『遊☆戯☆王 文庫版21巻』（集英社、2008年3月18日）後記
 

@@ -1,12 +1,8 @@
-《**SD戰國傳
-武神降臨篇**》是2009年[SD高達系列的作品](https://zh.wikipedia.org/wiki/SD高達 "wikilink")。角色背景，是包括光之七人眾等武者，受到異世界（戰國時代）的武者附身，對抗織田信長的故事。同時迎合日本正在播放的[大河劇](../Page/大河劇.md "wikilink")《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》所推出。
+《**SD戰國傳 武神降臨篇**》是2009年[SD高達系列的作品](https://zh.wikipedia.org/wiki/SD高達 "wikilink")。角色背景，是包括光之七人眾等武者，受到異世界（戰國時代）的武者附身，對抗織田信長的故事。同時迎合日本正在播放的[大河劇](../Page/大河劇.md "wikilink")《[天地人](../Page/天地人_\(大河劇\).md "wikilink")》所推出。
 
-本故事的設定，是套用自當年[Sunrise推出的電影](https://zh.wikipedia.org/wiki/Sunrise "wikilink")「天與地」上映期間，為了宣傳電影，便在「[SD戰國傳
-風林火山篇](../Page/SD戰國傳_風林火山篇.md "wikilink")」中，新增了[武田信玄](../Page/武田信玄.md "wikilink")與[上杉謙信](../Page/上杉謙信.md "wikilink")附身在武者頑馱無與武者精太身上，成為信玄頑駄無及謙信頑駄無的安排。
+本故事的設定，是套用自當年[Sunrise推出的電影](https://zh.wikipedia.org/wiki/Sunrise "wikilink")「天與地」上映期間，為了宣傳電影，便在「[SD戰國傳 風林火山篇](../Page/SD戰國傳_風林火山篇.md "wikilink")」中，新增了[武田信玄](../Page/武田信玄.md "wikilink")與[上杉謙信](../Page/上杉謙信.md "wikilink")附身在武者頑馱無與武者精太身上，成為信玄頑駄無及謙信頑駄無的安排。
 
-本作全部角色模型，均取自[武者烈傳
-舞化武可篇](https://zh.wikipedia.org/wiki/武者烈傳_舞化武可篇 "wikilink")、[武者戰記
-光之變幻篇等角色](../Page/武者戰記_光之變幻篇.md "wikilink")，以舊模加新件方式推出。另外，模型說明書未有漫畫故事、或推出單行本連載，是SD戰國傳系列的異數。因此在愛好者當中評價，遠遜於同年推出的長篇系列[BB戰士三國傳](../Page/BB戰士三國傳.md "wikilink")，最後本作僅推出至德川家康頑駄無便草草完結，令計劃中商品化的本多忠勝頑駄無、以及石川五右衛門頑駄無，亦推出無期。
+本作全部角色模型，均取自[武者烈傳 舞化武可篇](https://zh.wikipedia.org/wiki/武者烈傳_舞化武可篇 "wikilink")、[武者戰記 光之變幻篇等角色](../Page/武者戰記_光之變幻篇.md "wikilink")，以舊模加新件方式推出。另外，模型說明書未有漫畫故事、或推出單行本連載，是SD戰國傳系列的異數。因此在愛好者當中評價，遠遜於同年推出的長篇系列[BB戰士三國傳](../Page/BB戰士三國傳.md "wikilink")，最後本作僅推出至德川家康頑駄無便草草完結，令計劃中商品化的本多忠勝頑駄無、以及石川五右衛門頑駄無，亦推出無期。
 
 ## 人物
 
@@ -58,8 +54,7 @@
   -
     必殺：**虎舞激嵐**
 
-**[真田幸村頑駄無](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")**
-（使用BB戰士No.275龍神導師仁宇的模件）
+**[真田幸村頑駄無](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")** （使用BB戰士No.275龍神導師仁宇的模件）
 
   -
     即使身處極為不利的處境，仍不失果斷、擁有極強意志力的武者，熱血之魂經常感染身邊所有人。
@@ -160,8 +155,7 @@
 <!-- end list -->
 
   -
-    [SD戰國傳
-    武者七人眾篇中](../Page/SD戰國傳_武者七人眾篇.md "wikilink")，摩亞屈的藍本角色為[黑田長政](../Page/黑田長政.md "wikilink")，由於本作需要配合劇集[天地人宣傳](https://zh.wikipedia.org/wiki/天地人 "wikilink")，便改為[直江兼續](../Page/直江兼續.md "wikilink")。
+    [SD戰國傳 武者七人眾篇中](../Page/SD戰國傳_武者七人眾篇.md "wikilink")，摩亞屈的藍本角色為[黑田長政](../Page/黑田長政.md "wikilink")，由於本作需要配合劇集[天地人宣傳](https://zh.wikipedia.org/wiki/天地人 "wikilink")，便改為[直江兼續](../Page/直江兼續.md "wikilink")。
 
 <!-- end list -->
 
@@ -185,8 +179,7 @@
 
 ### 織田軍
 
-**[織田信長](../Page/織田信長.md "wikilink")頑駄無** （使用BB戰士No.286頑駄無大將軍
-頑駄無異步流武版模件）
+**[織田信長](../Page/織田信長.md "wikilink")頑駄無** （使用BB戰士No.286頑駄無大將軍 頑駄無異步流武版模件）
 
   -
     只相信任何阻礙自己獨步天下的障礙都要全部排除、殘忍的邪惡武者，但他的一切行為動機，始終不為人所知。
@@ -225,8 +218,7 @@
   -
     必殺：**天下布武**
 
-**[豐臣秀吉頑駄無](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")**
-（使用BB战士No.100千生大将军模件）
+**[豐臣秀吉頑駄無](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")** （使用BB战士No.100千生大将军模件）
 
   -
     經歷與眾多猛將交戰後，繼承信長而得到統一天下成果的武者，政治力、戰術力、判斷力都極之強勁。
@@ -332,8 +324,7 @@
 
 **[本多忠勝](../Page/本多忠勝.md "wikilink")頑駄無** （使用BB戰士No.284鉄機武者齋胡模件，未有推出）
 
-**[石川五右衛門](../Page/石川五右衛門.md "wikilink")頑駄無**
-（使用BB戰士No.278剛熱機械師駄舞留精太模件，未有推出）
+**[石川五右衛門](../Page/石川五右衛門.md "wikilink")頑駄無** （使用BB戰士No.278剛熱機械師駄舞留精太模件，未有推出）
 
 **[足輕](../Page/足輕.md "wikilink")大將 璽武**
 
@@ -353,8 +344,7 @@
 <!-- end list -->
 
   -
-    原型是[武者烈傳
-    舞化武可篇原定與霧丸同綑推出](https://zh.wikipedia.org/wiki/武者烈傳_舞化武可篇 "wikilink")，最後取消計劃的迷你角色。
+    原型是[武者烈傳 舞化武可篇原定與霧丸同綑推出](https://zh.wikipedia.org/wiki/武者烈傳_舞化武可篇 "wikilink")，最後取消計劃的迷你角色。
 
 **[足輕](../Page/足輕.md "wikilink")兵雜魚**
 
@@ -364,7 +354,6 @@
 <!-- end list -->
 
   -
-    原型是[武者烈傳
-    舞化武可篇原定與霧丸同綑推出](https://zh.wikipedia.org/wiki/武者烈傳_舞化武可篇 "wikilink")，最後取消計劃的迷你角色。
+    原型是[武者烈傳 舞化武可篇原定與霧丸同綑推出](https://zh.wikipedia.org/wiki/武者烈傳_舞化武可篇 "wikilink")，最後取消計劃的迷你角色。
 
 [Category:SD戰國傳](https://zh.wikipedia.org/wiki/Category:SD戰國傳 "wikilink")

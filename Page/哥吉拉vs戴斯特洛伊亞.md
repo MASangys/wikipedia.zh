@@ -1,5 +1,4 @@
-『**哥吉拉vs戴斯特洛伊亞**』（日文原名：**ゴジラvsデストロイア**）(港譯: 哥斯拉完結篇之世紀必殺陣)
-是1995年12月9日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥斯拉系列電影](../Page/哥斯拉系列電影.md "wikilink")的第22集，日本觀眾人數達到400萬人，票房約40億日圓，片商實盈收入20億日圓。本片為哥吉拉之父-“[田中友幸](../Page/田中友幸.md "wikilink")”最後的哥吉拉作品。台灣當時上映的電影名稱為恐龍帝國。
+『**哥吉拉vs戴斯特洛伊亞**』（日文原名：**ゴジラvsデストロイア**）(港譯: 哥斯拉完結篇之世紀必殺陣) 是1995年12月9日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥斯拉系列電影](../Page/哥斯拉系列電影.md "wikilink")的第22集，日本觀眾人數達到400萬人，票房約40億日圓，片商實盈收入20億日圓。本片為哥吉拉之父-“[田中友幸](../Page/田中友幸.md "wikilink")”最後的哥吉拉作品。台灣當時上映的電影名稱為恐龍帝國。
 
 ## 劇情概要
 
@@ -17,15 +16,12 @@
 
 ## 劇情BUG
 
-平成哥吉拉第四作"哥吉拉vs摩斯拉"中，哥吉拉與巴特拉於海底火山決鬥後。於火山熔岩層中移動，穿越[白令海峽後於](https://zh.wikipedia.org/wiki/白令海峽 "wikilink")[富士山](../Page/富士山.md "wikilink")出現。其中亦經過1500度熔岩區。當初於1500度高溫中移動毫髪無損，且哥吉拉皮再厚也不可能隔絕將近300度的高溫。
-因此很多觀眾將體溫過高導致自體融化的劇情視為BUG。
-但實際上，本電影中G對策中心在討論哥吉拉為何體溫會急速上升時，已指出原因是巴斯島天變破壞了哥吉拉G細胞中的「冷卻機制」，故紅蓮哥吉拉的細胞不具有過往那強大降溫能力，其因體溫過高造成融爆並非BUG。
+平成哥吉拉第四作"哥吉拉vs摩斯拉"中，哥吉拉與巴特拉於海底火山決鬥後。於火山熔岩層中移動，穿越[白令海峽後於](https://zh.wikipedia.org/wiki/白令海峽 "wikilink")[富士山](../Page/富士山.md "wikilink")出現。其中亦經過1500度熔岩區。當初於1500度高溫中移動毫髪無損，且哥吉拉皮再厚也不可能隔絕將近300度的高溫。 因此很多觀眾將體溫過高導致自體融化的劇情視為BUG。 但實際上，本電影中G對策中心在討論哥吉拉為何體溫會急速上升時，已指出原因是巴斯島天變破壞了哥吉拉G細胞中的「冷卻機制」，故紅蓮哥吉拉的細胞不具有過往那強大降溫能力，其因體溫過高造成融爆並非BUG。
 
 ## 登場怪獸
 
   - [哥吉拉](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")
-  - [戴斯特洛伊亞](https://zh.wikipedia.org/wiki/戴斯特洛伊亞 "wikilink")(港譯:
-    狄斯亞，臺灣戲院上映時譯為世紀終結者或核能大恐龍)
+  - [戴斯特洛伊亞](https://zh.wikipedia.org/wiki/戴斯特洛伊亞 "wikilink")(港譯: 狄斯亞，臺灣戲院上映時譯為世紀終結者或核能大恐龍)
   - [哥吉拉二世](https://zh.wikipedia.org/wiki/哥吉拉二世 "wikilink")(台譯：力多爾)
 
 ## 演員
@@ -68,12 +64,4 @@
   - 編劇：[大森一樹](https://zh.wikipedia.org/wiki/大森一樹 "wikilink")
   - 音樂監督：[伊福部昭](../Page/伊福部昭.md "wikilink")
 
-[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
-[Category:1995年電影](https://zh.wikipedia.org/wiki/Category:1995年電影 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:茨城縣背景電影](https://zh.wikipedia.org/wiki/Category:茨城縣背景電影 "wikilink")
-[Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink")
-[Category:香港背景電影](https://zh.wikipedia.org/wiki/Category:香港背景電影 "wikilink")
-[Category:1996年背景電影](https://zh.wikipedia.org/wiki/Category:1996年背景電影 "wikilink")
-[Category:節肢動物電影](https://zh.wikipedia.org/wiki/Category:節肢動物電影 "wikilink")
-[Category:大河原孝夫電影](https://zh.wikipedia.org/wiki/Category:大河原孝夫電影 "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink") [Category:1995年電影](https://zh.wikipedia.org/wiki/Category:1995年電影 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:茨城縣背景電影](https://zh.wikipedia.org/wiki/Category:茨城縣背景電影 "wikilink") [Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink") [Category:香港背景電影](https://zh.wikipedia.org/wiki/Category:香港背景電影 "wikilink") [Category:1996年背景電影](https://zh.wikipedia.org/wiki/Category:1996年背景電影 "wikilink") [Category:節肢動物電影](https://zh.wikipedia.org/wiki/Category:節肢動物電影 "wikilink") [Category:大河原孝夫電影](https://zh.wikipedia.org/wiki/Category:大河原孝夫電影 "wikilink")

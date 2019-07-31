@@ -6,21 +6,9 @@ Krita这个词有来自多种不同文化的内涵。在[瑞典语中krita的含
 
 ## 历史
 
-Krita的开发可以一直追溯到1998年。当时[KDE](../Page/KDE.md "wikilink")的创始人[Matthias
-Ettrich在Linux](https://zh.wikipedia.org/wiki/Matthias_Ettrich "wikilink")
-Kongress大会上展示了一个为[GIMP](../Page/GIMP.md "wikilink")编写的[Qt](../Page/Qt.md "wikilink")界面。他提出的关于构建一个基于Qt的图像编辑器的想法后来在KImage项目上开始实施，并作为[KOffice](../Page/KOffice.md "wikilink")套件的一部分由Michael
-Koch维护。Matthias
-Elter则给该项目提出了用[Cobra语言](../Page/CORBA.md "wikilink")，围绕[ImageMagick](../Page/ImageMagick.md "wikilink")构建该软件的构想。然而KImage在市场上已经被注册了商标，为此该项目进行了数次更名，经过KImageShop、Krayon后，终于在2002年选定了Krita作为项目的名称并沿用至今。在2004年到2009年间，Krita是被作为一个和[Photoshop](../Page/Adobe_Photoshop.md "wikilink")、GIMP类似的通用图像处理软件来开发的。\[2\]
+Krita的开发可以一直追溯到1998年。当时[KDE](../Page/KDE.md "wikilink")的创始人[Matthias Ettrich在Linux](https://zh.wikipedia.org/wiki/Matthias_Ettrich "wikilink") Kongress大会上展示了一个为[GIMP](../Page/GIMP.md "wikilink")编写的[Qt](../Page/Qt.md "wikilink")界面。他提出的关于构建一个基于Qt的图像编辑器的想法后来在KImage项目上开始实施，并作为[KOffice](../Page/KOffice.md "wikilink")套件的一部分由Michael Koch维护。Matthias Elter则给该项目提出了用[Cobra语言](../Page/CORBA.md "wikilink")，围绕[ImageMagick](../Page/ImageMagick.md "wikilink")构建该软件的构想。然而KImage在市场上已经被注册了商标，为此该项目进行了数次更名，经过KImageShop、Krayon后，终于在2002年选定了Krita作为项目的名称并沿用至今。在2004年到2009年间，Krita是被作为一个和[Photoshop](../Page/Adobe_Photoshop.md "wikilink")、GIMP类似的通用图像处理软件来开发的。\[2\]
 
-到了2009年，Krita项目的方向发生了变化。新的目标是构建一个类似于[Corel
-Painter和](../Page/Corel_Painter.md "wikilink")[SAI那样的数字绘画软件](../Page/Paint_Tool_SAI.md "wikilink")。也是从那时起，项目负责人开始尝试通过多种途径来为Krita的开发者提供有偿资助，包括[Google
-Summer of Code for
-Students等](../Page/Google夏日程式碼大賽.md "wikilink")。项目的开发速度因此加快，性能和稳定性也得到了提高。\[3\]
-[居中](https://zh.wikipedia.org/wiki/File:Krita_team_Steven,_Stuart,_Lukas,_Wolthera,_Timothee,_Boud,_Sven,_Leinir_and_Dmitry.png "fig:居中")
-Krita
-Foundation在2013年设立，目的是为Krita的开发提供支持。它与[Intel合作产生了Krita](../Page/英特尔.md "wikilink")
-Sketch项目来促进项目的知名度，并在KO GmbH的帮助下开始提供带有有偿商业支持服务的Krita
-Studio，面向电影工业和特效工作室。自2014年起他们通过[Kickstarter](../Page/Kickstarter.md "wikilink")来为开发[众筹资金](https://zh.wikipedia.org/wiki/众筹 "wikilink")。
+到了2009年，Krita项目的方向发生了变化。新的目标是构建一个类似于[Corel Painter和](../Page/Corel_Painter.md "wikilink")[SAI那样的数字绘画软件](../Page/Paint_Tool_SAI.md "wikilink")。也是从那时起，项目负责人开始尝试通过多种途径来为Krita的开发者提供有偿资助，包括[Google Summer of Code for Students等](../Page/Google夏日程式碼大賽.md "wikilink")。项目的开发速度因此加快，性能和稳定性也得到了提高。\[3\] [居中](https://zh.wikipedia.org/wiki/File:Krita_team_Steven,_Stuart,_Lukas,_Wolthera,_Timothee,_Boud,_Sven,_Leinir_and_Dmitry.png "fig:居中") Krita Foundation在2013年设立，目的是为Krita的开发提供支持。它与[Intel合作产生了Krita](../Page/英特尔.md "wikilink") Sketch项目来促进项目的知名度，并在KO GmbH的帮助下开始提供带有有偿商业支持服务的Krita Studio，面向电影工业和特效工作室。自2014年起他们通过[Kickstarter](../Page/Kickstarter.md "wikilink")来为开发[众筹资金](https://zh.wikipedia.org/wiki/众筹 "wikilink")。
 
 | 时间      | 版本    | 募得资金     | Kickstarter活动内容                               | 稳定版发布日期 |
 | ------- | ----- | -------- | --------------------------------------------- | ------- |
@@ -32,9 +20,7 @@ Studio，面向电影工业和特效工作室。自2014年起他们通过[Kickst
 
 ## 设计和功能
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_right-click_hud_popup-palette.png "fig:缩略图")
-Krita的最新版本是基于[Qt 5和](../Page/Qt.md "wikilink")[KDE Frameworks
-5进行开发的](../Page/KDE_Frameworks_5.md "wikilink")。它针对概念美术师、插画师、幕布画师、材质画师和特效工业的需求进行特化，关键功能和特点有：\[7\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_right-click_hud_popup-palette.png "fig:缩略图") Krita的最新版本是基于[Qt 5和](../Page/Qt.md "wikilink")[KDE Frameworks 5进行开发的](../Page/KDE_Frameworks_5.md "wikilink")。它针对概念美术师、插画师、幕布画师、材质画师和特效工业的需求进行特化，关键功能和特点有：\[7\]
 
 ### 用户体验设计
 
@@ -62,9 +48,7 @@ Krita最大的特点便是它把数位笔考虑在内的UX设计。它通过数�
 
 ### 绘画工具
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_pixel_brush_engine_screenshot.png "fig:缩略图")
-Krita的核心数字绘画功能有：
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_stock_brush_presets.png "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_pixel_brush_engine_screenshot.png "fig:缩略图") Krita的核心数字绘画功能有： [缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_stock_brush_presets.png "fig:缩略图")
 
 | 笔刷              | 绘画尺规          | 选择工具   | 变形工具 |
 | --------------- | ------------- | ------ | ---- |
@@ -79,8 +63,7 @@ Krita的核心数字绘画功能有：
 
 ### 动画工具
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_animation_interface.png "fig:缩略图")
-Krita支持位图格式的逐帧动画，有下述功能：
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_animation_interface.png "fig:缩略图") Krita支持位图格式的逐帧动画，有下述功能：
 
 | 界面                | 导入功能     | 导出功能                                                                      |
 | ----------------- | -------- | ------------------------------------------------------------------------- |
@@ -91,8 +74,7 @@ Krita支持位图格式的逐帧动画，有下述功能：
 
 ### 向量工具
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_vector_tool.png "fig:缩略图")
-Krita使用[向量工具来为下述的对象进行非破坏性编辑](../Page/矢量图形.md "wikilink")：
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_vector_tool.png "fig:缩略图") Krita使用[向量工具来为下述的对象进行非破坏性编辑](../Page/矢量图形.md "wikilink")：
 
   - 路径
   - 选区
@@ -102,8 +84,7 @@ Krita使用[向量工具来为下述的对象进行非破坏性编辑](../Page/�
 
 ### 图层和蒙版
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_layer_and_mask_control.png "fig:缩略图")
-Krita的图层和蒙版功能包括：
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_layer_and_mask_control.png "fig:缩略图") Krita的图层和蒙版功能包括：
 
 | 图层管理     | 蒙版可应用的对象 | 非破坏性图层 | 非破坏性蒙版 |
 | -------- | -------- | ------ | ------ |
@@ -115,8 +96,7 @@ Krita的图层和蒙版功能包括：
 
 ### 可定制性
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_resource_manager.png "fig:缩略图")
-Krita的资源管理器可以让用户给预设打上标签便于搜索、过滤、分组和进行按组加载预设。多个用户预设可以被打包成单个文件，方便共享之余还可以整套加载、整套禁用。Krita在官方的文档网站还有一些用户贡献的预设包可供下载。
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_resource_manager.png "fig:缩略图") Krita的资源管理器可以让用户给预设打上标签便于搜索、过滤、分组和进行按组加载预设。多个用户预设可以被打包成单个文件，方便共享之余还可以整套加载、整套禁用。Krita在官方的文档网站还有一些用户贡献的预设包可供下载。
 
 Krita的工具面板也可定制：
 
@@ -130,17 +110,13 @@ Krita的工具面板也可定制：
 
 ### 显示功能
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita's_OpenGL_canvas_drawing_quality.png "fig:缩略图")
-Krita使用[OpenGL](../Page/OpenGL.md "wikilink")来为画布进行加速以提高显示质量和速度：
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita's_OpenGL_canvas_drawing_quality.png "fig:缩略图") Krita使用[OpenGL](../Page/OpenGL.md "wikilink")来为画布进行加速以提高显示质量和速度：
 
   - 高帧率，低延迟，数位笔的动作即时反映到画布
   - 高质量，平滑的无级缩放、平移、旋转、重复和镜像
-  - 需要支持OpenGL 3.0的显卡以实现最佳体验，[Intel HD
-    Graphics核芯显卡需要](../Page/Intel_HD_Graphics.md "wikilink")[Ivy
-    Bridge家族或更新的CPU](../Page/Ivy_Bridge微架構.md "wikilink")
+  - 需要支持OpenGL 3.0的显卡以实现最佳体验，[Intel HD Graphics核芯显卡需要](../Page/Intel_HD_Graphics.md "wikilink")[Ivy Bridge家族或更新的CPU](../Page/Ivy_Bridge微架構.md "wikilink")
 
-Krita有完整的[色彩管理](../Page/色彩管理.md "wikilink")功能：
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_color_space_loader.png "fig:缩略图")
+Krita有完整的[色彩管理](../Page/色彩管理.md "wikilink")功能： [缩略图](https://zh.wikipedia.org/wiki/File:Krita_color_space_loader.png "fig:缩略图")
 
   - 为图像指定色彩空间、在色彩空间之间转换
   - 实时软件较色模式，包括色盲模式等
@@ -149,18 +125,9 @@ Krita有完整的[色彩管理](../Page/色彩管理.md "wikilink")功能：
 
 ### 滤镜功能
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_gmic_control.png "fig:缩略图")
-Krita内建众多滤镜，同时支持G'MIC滤镜。
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_gmic_control.png "fig:缩略图") Krita内建众多滤镜，同时支持G'MIC滤镜。
 
-内建滤镜包括：levels, color adjustment curves, brightness/contrast curve,
-desaturate, invert, auto contrast, HSV adjustment, pixelize, raindrops,
-oil paint, gaussian blur, motion blur, blur, lens blur, color to alpha,
-color transfer, minimize channel, maximize channel,
-top/left/bottom/right edge detection, sobel, sharpen, mean removal,
-unsharp mask, gaussian noise removal, wavelet noise reducer, emboss
-horizontal only/in all directions/(laplacian)/vertical only/with
-variable depth/horizontal and vertical, small tiles, round corners,
-phong bumpmap.
+内建滤镜包括：levels, color adjustment curves, brightness/contrast curve, desaturate, invert, auto contrast, HSV adjustment, pixelize, raindrops, oil paint, gaussian blur, motion blur, blur, lens blur, color to alpha, color transfer, minimize channel, maximize channel, top/left/bottom/right edge detection, sobel, sharpen, mean removal, unsharp mask, gaussian noise removal, wavelet noise reducer, emboss horizontal only/in all directions/(laplacian)/vertical only/with variable depth/horizontal and vertical, small tiles, round corners, phong bumpmap.
 
 ### 文件格式
 
@@ -174,12 +141,7 @@ Krita的原生文件格式是Krita Document，扩展名是.kra。它也可以打
 
 ### 吉祥物
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_steam_boxart_Feb_2014.png "fig:缩略图")
-Krita的[吉祥物是电子松鼠Kiki](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")（Kiki
-the Cyber
-Squirrel），她是一位拟人化的机械[松鼠](../Page/松鼠.md "wikilink")卡通角色，设计者是来自中国的钛山（Tyson
-Tan）。Krita社区之所以选择了一只松鼠作为吉祥物，是因为在[阿尔巴尼亚语](../Page/阿尔巴尼亚语.md "wikilink")中Krita的意思是松鼠。Kiki的首版设计在2012年在KDE社区论坛上投稿，被印在Krita
-2.6版的介绍小册子上。\[8\]自2.8版开始Kiki开始作为Krita的启动画面，\[9\]\[10\]迄今为止每个新版本的Krita都会有一个新的Kiki设计。Kiki的商品被放在Krita的筹款商店里出售，\[11\]Kiki的形象也被用在Krita的Steam项目里。\[12\]\[13\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_steam_boxart_Feb_2014.png "fig:缩略图") Krita的[吉祥物是电子松鼠Kiki](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")（Kiki the Cyber Squirrel），她是一位拟人化的机械[松鼠](../Page/松鼠.md "wikilink")卡通角色，设计者是来自中国的钛山（Tyson Tan）。Krita社区之所以选择了一只松鼠作为吉祥物，是因为在[阿尔巴尼亚语](../Page/阿尔巴尼亚语.md "wikilink")中Krita的意思是松鼠。Kiki的首版设计在2012年在KDE社区论坛上投稿，被印在Krita 2.6版的介绍小册子上。\[8\]自2.8版开始Kiki开始作为Krita的启动画面，\[9\]\[10\]迄今为止每个新版本的Krita都会有一个新的Kiki设计。Kiki的商品被放在Krita的筹款商店里出售，\[11\]Kiki的形象也被用在Krita的Steam项目里。\[12\]\[13\]
 
 ## Krita开发人员碰头会
 
@@ -210,8 +172,7 @@ Krita的开发人员遍及世界各地，每隔一两年他们会设法找一个
 ## 外部链接
 
   -
-  - [Krita Studio
-    网站](https://web.archive.org/web/20140301212724/http://kritastudio.com/)
+  - [Krita Studio 网站](https://web.archive.org/web/20140301212724/http://kritastudio.com/)
 
   - [Krita的Steam页面](http://store.steampowered.com/app/280680)
 
@@ -219,18 +180,11 @@ Krita的开发人员遍及世界各地，每隔一两年他们会设法找一个
 
   - [Krita的DeviantArt群组](http://krita-free-art-app.deviantart.com/)
 
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
-[Category:KOffice](https://zh.wikipedia.org/wiki/Category:KOffice "wikilink")
-[Category:Calligra_Suite](https://zh.wikipedia.org/wiki/Category:Calligra_Suite "wikilink")
-[Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink")
-[Category:點陣圖編輯軟體](https://zh.wikipedia.org/wiki/Category:點陣圖編輯軟體 "wikilink")
-[Category:繪圖軟體](https://zh.wikipedia.org/wiki/Category:繪圖軟體 "wikilink")
-[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
+[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:KOffice](https://zh.wikipedia.org/wiki/Category:KOffice "wikilink") [Category:Calligra_Suite](https://zh.wikipedia.org/wiki/Category:Calligra_Suite "wikilink") [Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink") [Category:點陣圖編輯軟體](https://zh.wikipedia.org/wiki/Category:點陣圖編輯軟體 "wikilink") [Category:繪圖軟體](https://zh.wikipedia.org/wiki/Category:繪圖軟體 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
 
 1.
 
-2.
-    Krita|accessdate=2017-07-23|last=Foundation|first=Krita|work=krita.org|language=en-US}}
+2.   Krita|accessdate=2017-07-23|last=Foundation|first=Krita|work=krita.org|language=en-US}}
 
 3.
 4.
@@ -239,8 +193,7 @@ Krita的开发人员遍及世界各地，每隔一两年他们会设法找一个
 
 6.
 
-7.
-    Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-22}}
+7.   Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-22}}
 
 8.
 
@@ -262,14 +215,10 @@ Krita的开发人员遍及世界各地，每隔一两年他们会设法找一个
 
 17.
 
-18.
-    Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23}}
+18.  Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23}}
 
-19.
-    Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23}}
+19.  Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23}}
 
-20.
-    Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23|archive-url=[https://web.archive.org/web/20170809212501/https://krita.org/en/download/krita-gemini/|archive-date=2017-08-09|dead-url=yes](https://web.archive.org/web/20170809212501/https://krita.org/en/download/krita-gemini/%7Carchive-date=2017-08-09%7Cdead-url=yes)}}
+20.  Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23|archive-url=[https://web.archive.org/web/20170809212501/https://krita.org/en/download/krita-gemini/|archive-date=2017-08-09|dead-url=yes](https://web.archive.org/web/20170809212501/https://krita.org/en/download/krita-gemini/%7Carchive-date=2017-08-09%7Cdead-url=yes)}}
 
-21.
-    Krita|last=Foundation|first=Krita|language=fr|website=krita.org|access-date=2017-07-23}}
+21.  Krita|last=Foundation|first=Krita|language=fr|website=krita.org|access-date=2017-07-23}}

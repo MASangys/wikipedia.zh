@@ -1,5 +1,4 @@
-《**ALIVE
-最終進化少年**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[安達渡嘉的漫畫作品](../Page/安達渡嘉.md "wikilink")\[1\]，原作[河島正](https://zh.wikipedia.org/wiki/河島正 "wikilink")\[2\]。原于2008年六月宣布将改編為[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")\[3\]\[4\]，但因動畫製作公司[GONZO经营不善退市而导致此計畫中止](../Page/GONZO.md "wikilink")\[5\]\[6\]。
+《**ALIVE 最終進化少年**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[安達渡嘉](../Page/安達渡嘉.md "wikilink")的漫畫作品\[1\]，原作[河島正](https://zh.wikipedia.org/wiki/河島正 "wikilink")\[2\]。原于2008年六月宣布将改編為[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")\[3\]\[4\]，但因動畫製作公司[GONZO](../Page/GONZO.md "wikilink")经营不善退市而导致此計畫中止\[5\]\[6\]。
 
 ## 概要
 
@@ -20,8 +19,7 @@
 
 在湖邊的死鬥中，葉太輔和與惡路的心臟熔合一起的廣瀨一同掉進熔岩中。惡路的心臟、廣瀨和太輔在岩漿中消滅，並阻止了世界的滅亡。然後2年後···人們開始忘記在惡夢一週中產生出來的能力者的存在。勇太和楠都成長了，並回到原來的生活，可是某天他們感到應該與廣瀨一起消滅了惡路的心臟的跳動。2人每天都感到不安，認為惡夢的日子還未完結，世界只保持著虛假的和平。
 
-就在一位轉校到勇太學校的轉校生，打破他們2人的不安，這位轉校生手塚葵告訴勇太太輔還活著的消息，當勇太知道後便前往手塚家。另一方面，日本美軍開始發生了不穩的狀態，自認為令小春死去的而被絕望和罪惡感打垮的記者雨宮，遇見日本美軍的告密者，並知道美軍的計劃。那是利用「Living
-Rock」—那個應與太輔和廣瀨一起埋葬那個「惡路的心臟」的軍事計劃……
+就在一位轉校到勇太學校的轉校生，打破他們2人的不安，這位轉校生手塚葵告訴勇太太輔還活著的消息，當勇太知道後便前往手塚家。另一方面，日本美軍開始發生了不穩的狀態，自認為令小春死去的而被絕望和罪惡感打垮的記者雨宮，遇見日本美軍的告密者，並知道美軍的計劃。那是利用「Living Rock」—那個應與太輔和廣瀨一起埋葬那個「惡路的心臟」的軍事計劃……
 
 ## 登場角色
 
@@ -299,11 +297,7 @@ ISBN 978-4-06-362146-4[7]</p></td>
 
   - [原作・河島正官方網站](http://www.murasakien.com/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:月刊少年Magazine](https://zh.wikipedia.org/wiki/Category:月刊少年Magazine "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:月刊少年Magazine](https://zh.wikipedia.org/wiki/Category:月刊少年Magazine "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
 
 1.
 2.

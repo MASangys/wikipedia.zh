@@ -1,4 +1,4 @@
-**NHK教育頻道**（），又譯為**NHK教育電視台**、**NHK教育台**，為[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的[無線電視頻道之一](https://zh.wikipedia.org/wiki/無線電視 "wikilink")，通称**ETV**（[台標顯示為](https://zh.wikipedia.org/wiki/台標 "wikilink")「<font size=-2></font>」）。開播於1959年1月10日，為[日本最早的教育專門](../Page/日本.md "wikilink")[電視臺](https://zh.wikipedia.org/wiki/電視臺 "wikilink")，以及世界上最早的教育电视频道。絕大部分節目均由位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷的](../Page/澀谷.md "wikilink")[NHK放送中心負責製播](../Page/NHK放送中心.md "wikilink")，再透過NHK在日本各地的放送局向全國播出。身為NHK的一份子，以NHK教育頻道為中心，除了每年製作超過1萬部節目之外，還有節目相關映像[軟體及活動](https://zh.wikipedia.org/wiki/軟體 "wikilink")[企劃製作](https://zh.wikipedia.org/wiki/企劃 "wikilink")、拓展角色人物等，進行多元化的事業發展。
+**NHK教育頻道**（），又譯為**NHK教育電視台**、**NHK教育台**，為[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的[無線電視頻道之一](https://zh.wikipedia.org/wiki/無線電視 "wikilink")，通称**ETV**（[台標顯示為](https://zh.wikipedia.org/wiki/台標 "wikilink")「<font size=-2></font>」）。開播於1959年1月10日，為[日本](../Page/日本.md "wikilink")最早的教育專門[電視臺](https://zh.wikipedia.org/wiki/電視臺 "wikilink")，以及世界上最早的教育电视频道。絕大部分節目均由位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")的[NHK放送中心](../Page/NHK放送中心.md "wikilink")負責製播，再透過NHK在日本各地的放送局向全國播出。身為NHK的一份子，以NHK教育頻道為中心，除了每年製作超過1萬部節目之外，還有節目相關映像[軟體及活動](https://zh.wikipedia.org/wiki/軟體 "wikilink")[企劃製作](https://zh.wikipedia.org/wiki/企劃 "wikilink")、拓展角色人物等，進行多元化的事業發展。
 
 ## 概要
 
@@ -8,7 +8,7 @@
 
 2009年4月6日，NHK教育頻道3（）開播\[1\]。
 
-目前此頻道將訊號分割為二，分別是數位教育1台（）及數位教育3台（），當兩台播放不同節目時，採一般標準畫質放送，觀眾需擁有[高清晰度电视](https://zh.wikipedia.org/wiki/高清晰度电视 "wikilink")，才可收看數位教育1台和數位教育3台\[2\]。一般情况下，教育1台和教育3台播放不同節目的時間是每周一至周五的下午2時至3時，但如果當[NHK綜合頻道要臨時播放新聞節目時](../Page/NHK綜合頻道.md "wikilink")，綜合頻道原定的節目會改在教育1台播放，而教育3台則會維持播放原定播放的內容。
+目前此頻道將訊號分割為二，分別是數位教育1台（）及數位教育3台（），當兩台播放不同節目時，採一般標準畫質放送，觀眾需擁有[高清晰度电视](https://zh.wikipedia.org/wiki/高清晰度电视 "wikilink")，才可收看數位教育1台和數位教育3台\[2\]。一般情况下，教育1台和教育3台播放不同節目的時間是每周一至周五的下午2時至3時，但如果當[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")要臨時播放新聞節目時，綜合頻道原定的節目會改在教育1台播放，而教育3台則會維持播放原定播放的內容。
 
 ## 開播日期
 
@@ -88,8 +88,7 @@
 
   - [NHK教育頻道](http://www.nhk.or.jp/e-tele)
 
-[Category:日本地面電視](https://zh.wikipedia.org/wiki/Category:日本地面電視 "wikilink")
-[Category:NHK电视频道](https://zh.wikipedia.org/wiki/Category:NHK电视频道 "wikilink")
+[Category:日本地面電視](https://zh.wikipedia.org/wiki/Category:日本地面電視 "wikilink") [Category:NHK电视频道](https://zh.wikipedia.org/wiki/Category:NHK电视频道 "wikilink")
 
 1.  參閱
 2.  [不下課的銀幕教室](http://info.pts.org.tw/open/paper/2007/doc2007/1.pdf)

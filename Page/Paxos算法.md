@@ -2,14 +2,9 @@
 
 ## 问题和假设
 
-分布式系统中的节点通信存在两种模型：[共享内存](https://zh.wikipedia.org/wiki/共享内存 "wikilink")（Shared
-memory）和[消息传递](https://zh.wikipedia.org/wiki/消息传递 "wikilink")（Messages
-passing）。基于消息传递通信模型的分布式系统，不可避免的会发生以下错误：进程可能会慢、被杀死或者重启，消息可能会延迟、丢失、重复，在基础
-Paxos 场景中，先不考虑可能出现消息篡改即[拜占庭错误的情况](../Page/拜占庭将军问题.md "wikilink")。Paxos
-算法解决的问题是在一个可能发生上述异常的[分布式系统中如何就某个值达成一致](../Page/分布式计算.md "wikilink")，保证不论发生以上任何异常，都不会破坏决议的一致性。一个典型的场景是，在一个分布式数据库系统中，如果各节点的初始状态一致，每个节点都执行相同的操作序列，那么他们最后能得到一个一致的状态。为保证每个节点执行相同的命令序列，需要在每一条指令上执行一个「一致性算法」以保证每个节点看到的指令一致。一个通用的一致性算法可以应用在许多场景中，是分布式计算中的重要问题。因此从20世纪80年代起对于一致性算法的研究就没有停止过。
+分布式系统中的节点通信存在两种模型：[共享内存](https://zh.wikipedia.org/wiki/共享内存 "wikilink")（Shared memory）和[消息传递](https://zh.wikipedia.org/wiki/消息传递 "wikilink")（Messages passing）。基于消息传递通信模型的分布式系统，不可避免的会发生以下错误：进程可能会慢、被杀死或者重启，消息可能会延迟、丢失、重复，在基础 Paxos 场景中，先不考虑可能出现消息篡改即[拜占庭错误的情况](../Page/拜占庭将军问题.md "wikilink")。Paxos 算法解决的问题是在一个可能发生上述异常的[分布式系统中如何就某个值达成一致](../Page/分布式计算.md "wikilink")，保证不论发生以上任何异常，都不会破坏决议的一致性。一个典型的场景是，在一个分布式数据库系统中，如果各节点的初始状态一致，每个节点都执行相同的操作序列，那么他们最后能得到一个一致的状态。为保证每个节点执行相同的命令序列，需要在每一条指令上执行一个「一致性算法」以保证每个节点看到的指令一致。一个通用的一致性算法可以应用在许多场景中，是分布式计算中的重要问题。因此从20世纪80年代起对于一致性算法的研究就没有停止过。
 
-为描述Paxos算法，Lamport虚拟了一个叫做Paxos的[希腊城邦](https://zh.wikipedia.org/wiki/希腊城邦 "wikilink")，这个岛按照议会民主制的政治模式制订法律，但是没有人愿意将自己的全部时间和精力放在这种事情上。所以无论是议员，议长或者传递纸条的服务员都不能承诺别人需要时一定会出现，也无法承诺批准决议或者传递消息的时间。但是这里假设没有[拜占庭将军问题](../Page/拜占庭将军问题.md "wikilink")（Byzantine
-failure，即虽然有可能一个消息被传递了两次，但是绝对不会出现错误的消息）；只要等待足够的时间，消息就会被传到。另外，Paxos岛上的议员是不会反对其他议员提出的决议的。
+为描述Paxos算法，Lamport虚拟了一个叫做Paxos的[希腊城邦](https://zh.wikipedia.org/wiki/希腊城邦 "wikilink")，这个岛按照议会民主制的政治模式制订法律，但是没有人愿意将自己的全部时间和精力放在这种事情上。所以无论是议员，议长或者传递纸条的服务员都不能承诺别人需要时一定会出现，也无法承诺批准决议或者传递消息的时间。但是这里假设没有[拜占庭将军问题](../Page/拜占庭将军问题.md "wikilink")（Byzantine failure，即虽然有可能一个消息被传递了两次，但是绝对不会出现错误的消息）；只要等待足够的时间，消息就会被传到。另外，Paxos岛上的议员是不会反对其他议员提出的决议的。
 
 对应于分布式系统，议员对应于各个节点，制定的法律对应于系统的状态。各个节点需要进入一个一致的状态，例如在独立[Cache的](https://zh.wikipedia.org/wiki/Cache "wikilink")[对称多处理器系统中](https://zh.wikipedia.org/wiki/对称多处理器 "wikilink")，各个处理器读内存的某个字节时，必须读到同样的一个值，否则系统就违背了一致性的要求。一致性要求对应于法律条文只能有一个版本。议员和服务员的不确定性对应于节点和消息传递通道的不可靠性。
 
@@ -17,34 +12,25 @@ failure，即虽然有可能一个消息被传递了两次，但是绝对不会�
 
 ### 算法的提出与证明
 
-首先将议员的角色分为 proposers，acceptors，和 learners（允许身兼数职）。proposers
-提出提案，提案信息包括提案编号和提议的 value；acceptor
-收到提案后可以接受（accept）提案，若提案获得多数派（majority）的 acceptors
-的接受，则称该提案被批准（chosen）；learners 只能「学习」被批准的提案。划分角色后，就可以更精确的定义问题：
+首先将议员的角色分为 proposers，acceptors，和 learners（允许身兼数职）。proposers 提出提案，提案信息包括提案编号和提议的 value；acceptor 收到提案后可以接受（accept）提案，若提案获得多数派（majority）的 acceptors 的接受，则称该提案被批准（chosen）；learners 只能「学习」被批准的提案。划分角色后，就可以更精确的定义问题：
 
 1.  决议（value）只有在被 proposers 提出后才能被批准（未经批准的决议称为「提案（proposal）」）；
 2.  在一次 Paxos 算法的执行实例中，只批准（chosen）一个 value；
 3.  learners 只能获得被批准（chosen）的 value。
 
-`在 Leslie Lamport 之后发表的paper中将 majority 替换为更通用的 quorum 概念，但在描述classic paxos的论文  `[`Paxos``
- ``made``
- ``simple`](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)` 中使用的还是majority的概念。`
+`在 Leslie Lamport 之后发表的paper中将 majority 替换为更通用的 quorum 概念，但在描述classic paxos的论文  `[`Paxos``   ``made``   ``simple`](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)` 中使用的还是majority的概念。`
 
 另外还需要保证 progress。这一点以后再讨论。
 
 作者通过不断加强上述3个约束（主要是第二个）获得了 Paxos 算法。
 
-批准 value 的过程中，首先 proposers 将 value 发送给 acceptors，之后 acceptors 对 value
-进行接受（accept）。为了满足只批准一个 value 的约束，要求经「多数派（majority）」接受的 value
-成为正式的决议（称为「批准」决议）。这是因为无论是按照人数还是按照权重划分，两组「多数派」至少有一个公共的
-acceptor，如果每个 acceptor 只能接受一个 value，约束2就能保证。
+批准 value 的过程中，首先 proposers 将 value 发送给 acceptors，之后 acceptors 对 value 进行接受（accept）。为了满足只批准一个 value 的约束，要求经「多数派（majority）」接受的 value 成为正式的决议（称为「批准」决议）。这是因为无论是按照人数还是按照权重划分，两组「多数派」至少有一个公共的 acceptor，如果每个 acceptor 只能接受一个 value，约束2就能保证。
 
 于是产生了一个显而易见的新约束：
 
 `P1：一个 acceptor 必须接受（accept）第一次收到的提案。`
 
-注意 P1 是不完备的。如果恰好一半 acceptor 接受的提案具有 value A，另一半接受的提案具有 value
-B，那么就无法形成多数派，无法批准任何一个 value。
+注意 P1 是不完备的。如果恰好一半 acceptor 接受的提案具有 value A，另一半接受的提案具有 value B，那么就无法形成多数派，无法批准任何一个 value。
 
 约束2并不要求只批准一个提案，暗示可能存在多个提案。只要提案的 value 是一样的，批准多个提案不违背约束2。于是可以产生约束 P2：
 
@@ -58,10 +44,7 @@ B，那么就无法形成多数派，无法批准任何一个 value。
 
 `P2a：一旦一个具有 value v 的提案被批准（chosen），那么之后任何 acceptor 再次接受（accept）的提案必须具有 value v。`
 
-由于通信是异步的，P2a 和 P1 会发生冲突。如果一个 value 被批准后，一个 proposer 和一个 acceptor
-从休眠中苏醒，前者提出一个具有新的 value 的提案。根据 P1，后者应当接受，根据
-P2a，则不应当接受，这种场景下 P2a 和 P1 有矛盾。于是需要换个思路，转而对 proposer
-的行为进行约束：
+由于通信是异步的，P2a 和 P1 会发生冲突。如果一个 value 被批准后，一个 proposer 和一个 acceptor 从休眠中苏醒，前者提出一个具有新的 value 的提案。根据 P1，后者应当接受，根据 P2a，则不应当接受，这种场景下 P2a 和 P1 有矛盾。于是需要换个思路，转而对 proposer 的行为进行约束：
 
 `P2b：一旦一个具有 value v 的提案被批准（chosen），那么以后任何 proposer 提出的提案必须具有 value v。`
 
@@ -69,26 +52,16 @@ P2a，则不应当接受，这种场景下 P2a 和 P1 有矛盾。于是需要�
 
 但是根据 P2b 难以提出实现手段。因此需要进一步加强 P2b。
 
-假设一个编号为 m 的 value v 已经获得批准（chosen），来看看在什么情况下对任何编号为 n（n\>m）的提案都含有 value
-v。因为 m 已经获得批准（chosen），显然存在一个 acceptors 的多数派
-C，他们都接受（accept）了v。考虑到任何多数派都和 C
-具有至少一个公共成员，可以找到一个蕴涵 P2b 的约束 P2c：
+假设一个编号为 m 的 value v 已经获得批准（chosen），来看看在什么情况下对任何编号为 n（n\>m）的提案都含有 value v。因为 m 已经获得批准（chosen），显然存在一个 acceptors 的多数派 C，他们都接受（accept）了v。考虑到任何多数派都和 C 具有至少一个公共成员，可以找到一个蕴涵 P2b 的约束 P2c：
 
 `P2c：如果一个编号为 n 的提案具有 value v，那么存在一个多数派，要么他们中所有人都没有接受（accept）编号小于 n `
 `的任何提案，要么他们已经接受（accept）的所有编号小于 n 的提案中编号最大的那个提案具有 value v。`
 
-可以用[数学归纳法证明](../Page/数学归纳法.md "wikilink") P2c 蕴涵 P2b：
+可以用[数学归纳法](../Page/数学归纳法.md "wikilink")证明 P2c 蕴涵 P2b：
 
-假设具有value v的提案m获得批准，当n=m+1时，采用反证法，假如提案n不具有value v，而是具有value
-w，根据P2c，则存在一个多数派S1，要么他们中没有人接受过编号小于n的任何提案，要么他们已经接受的所有编号小于n的提案中编号最大的那个提案是value
-w。由于S1和通过提案m时的多数派C之间至少有一个公共的acceptor，所以以上两个条件都不成立，导出矛盾从而推翻假设，证明了提案n必须具有value
-v；
+假设具有value v的提案m获得批准，当n=m+1时，采用反证法，假如提案n不具有value v，而是具有value w，根据P2c，则存在一个多数派S1，要么他们中没有人接受过编号小于n的任何提案，要么他们已经接受的所有编号小于n的提案中编号最大的那个提案是value w。由于S1和通过提案m时的多数派C之间至少有一个公共的acceptor，所以以上两个条件都不成立，导出矛盾从而推翻假设，证明了提案n必须具有value v；
 
-若（m+1）..（N-1）所有提案都具有value v，采用反证法，假如新提案N不具有value v，而是具有value
-w',根据P2c，则存在一个多数派S2，要么他们没有接受过m..（N-1）中的任何提案，要么他们已经接受的所有编号小于N的提案中编号最大的那个提案是value
-w'。由于S2和通过m的多数派C之间至少有一个公共的acceptor，所以至少有一个acceptor曾经接受了m，从而也可以推出S2中已接受的所有编号小于n的提案中编号最大的那个提案的编号范围在m..（N-1）之间，而根据初始假设，m..（N-1）之间的所有提案都具有value
-v，所以S2中已接受的所有编号小于n的提案中编号最大的那个提案肯定具有value v，导出矛盾从而推翻新提案n不具有value
-v的假设。根据数学归纳法，我们证明了若满足P2c，则P2b一定满足。
+若（m+1）..（N-1）所有提案都具有value v，采用反证法，假如新提案N不具有value v，而是具有value w',根据P2c，则存在一个多数派S2，要么他们没有接受过m..（N-1）中的任何提案，要么他们已经接受的所有编号小于N的提案中编号最大的那个提案是value w'。由于S2和通过m的多数派C之间至少有一个公共的acceptor，所以至少有一个acceptor曾经接受了m，从而也可以推出S2中已接受的所有编号小于n的提案中编号最大的那个提案的编号范围在m..（N-1）之间，而根据初始假设，m..（N-1）之间的所有提案都具有value v，所以S2中已接受的所有编号小于n的提案中编号最大的那个提案肯定具有value v，导出矛盾从而推翻新提案n不具有value v的假设。根据数学归纳法，我们证明了若满足P2c，则P2b一定满足。
 
 P2c是可以通过消息传递模型实现的。另外，引入了P2c后，也解决了前文提到的P1不完备的问题。
 
@@ -121,8 +94,7 @@ P2c是可以通过消息传递模型实现的。另外，引入了P2c后，也�
 
 用实际的例子来更清晰地描述上述过程：
 
-有A1, A2, A3, A4, A5
-5位议员，就税率问题进行决议。议员A1决定将税率定为10%,因此它向所有人发出一个草案。这个草案的内容是：
+有A1, A2, A3, A4, A5 5位议员，就税率问题进行决议。议员A1决定将税率定为10%,因此它向所有人发出一个草案。这个草案的内容是：
 
 `现有的税率是什么?如果没有决定，则建议将其定为10%.时间：本届议会第3年3月15日;提案者：A1`
 
@@ -136,18 +108,15 @@ P2c是可以通过消息传递模型实现的。另外，引入了P2c后，也�
 
 `税率已定为10%,新的提案不得再讨论本问题。`
 
-这实际上退化为[二阶段提交协议](../Page/二阶段提交.md "wikilink")。
+这实际上退化为[二阶段提交](../Page/二阶段提交.md "wikilink")协议。
 
 现在我们假设在A1提出提案的同时, A5决定将税率定为20%:
 
 `现有的税率是什么?如果没有决定，则建议将其定为20%.时间：本届议会第3年3月15日;提案者：A5`
 
-草案要通过侍从送到其它议员的案头.
-A1的草案将由4位侍从送到A2-A5那里。现在，负责A2和A3的侍从将草案顺利送达，负责A4和A5的侍从则不上班.
-A5的草案则顺利的送至A4和A3手中。
+草案要通过侍从送到其它议员的案头. A1的草案将由4位侍从送到A2-A5那里。现在，负责A2和A3的侍从将草案顺利送达，负责A4和A5的侍从则不上班. A5的草案则顺利的送至A4和A3手中。
 
-现在, A1, A2, A3收到了A1的提案; A4, A3, A5收到了A5的提案。按照协议, A1, A2, A4,
-A5将接受他们收到的提案，侍从将拿着
+现在, A1, A2, A3收到了A1的提案; A4, A3, A5收到了A5的提案。按照协议, A1, A2, A4, A5将接受他们收到的提案，侍从将拿着
 
 `我已收到你的提案，等待最终批准`
 
@@ -157,9 +126,7 @@ A5将接受他们收到的提案，侍从将拿着
 
 ##### 情况一
 
-假设A1的提案先送到A3处，而A5的侍从决定放假一段时间。于是A3接受并派出了侍从.
-A1等到了两位侍从，加上它自己已经构成一个多数派，于是税率10%将成为决议.
-A1派出侍从将决议送到所有议员处：
+假设A1的提案先送到A3处，而A5的侍从决定放假一段时间。于是A3接受并派出了侍从. A1等到了两位侍从，加上它自己已经构成一个多数派，于是税率10%将成为决议. A1派出侍从将决议送到所有议员处：
 
 `税率已定为10%,新的提案不得再讨论本问题。`
 
@@ -171,15 +138,13 @@ A3在很久以后收到了来自A5的提案。由于税率问题已经讨论完�
 
 ##### 情况二
 
-依然假设A1的提案先送到A3处，但是这次A5的侍从不是放假了，只是中途耽搁了一会。这次,
-A3依然会将"接受"回复给A1.但是在决议成型之前它又收到了A5的提案。这时协议有两种处理方式：
+依然假设A1的提案先送到A3处，但是这次A5的侍从不是放假了，只是中途耽搁了一会。这次, A3依然会将"接受"回复给A1.但是在决议成型之前它又收到了A5的提案。这时协议有两种处理方式：
 
-1.如果A5的提案更早，按照传统应该由较早的提案者主持投票。现在看来两份提案的时间一样（本届议会第3年3月15日）。但是A5是个惹不起的大人物。于是A3回复：
+1.如果A5的提案更早，按照传统应该由较早的提案者主持投票。现在看来两份提案的时间一样（本届议会第3年3月15日）。但是A1是个惹不起的大人物。于是A3回复：
 
 `我已收到您的提案，等待最终批准，但是您之前有人提出将税率定为10%,请明察。`
 
-于是,
-A1和A5都收到了足够的回复。这时关于税率问题就有两个提案在同时进行。但是A5知道之前有人提出税率为10%.于是A1和A5都会向全体议员广播：
+于是, A1和A5都收到了足够的回复。这时关于税率问题就有两个提案在同时进行。但是A5知道之前有人提出税率为10%.于是A1和A5都会向全体议员广播：
 
 ` 税率已定为10%,新的提案不得再讨论本问题。`
 
@@ -191,8 +156,7 @@ A1和A5都收到了足够的回复。这时关于税率问题就有两个提案�
 
 在这个情况中，我们将看见，根据提案的时间及提案者的权势决定是否应答是有意义的。在这里，时间和提案者的权势就构成了给提案编号的依据。这样的编号符合"任何两个提案之间构成偏序"的要求。
 
-A1和A5同样提出上述提案，这时A1可以正常联系A2和A3; A5也可以正常联系这两个人。这次A2先收到A1的提案; A3则先收到A5的提案.
-A5更有权势。
+A1和A5同样提出上述提案，这时A1可以正常联系A2和A3; A5也可以正常联系这两个人。这次A2先收到A1的提案; A3则先收到A5的提案. A5更有权势。
 
 在这种情况下，已经回答A1的A2发现有比A1更有权势的A5提出了税率20%的新提案，于是回复A5说：
 
@@ -220,8 +184,7 @@ A1没有达到多数，A5达到了，于是A5将主持投票，决议的内容�
 
 一个显而易见的方法是当acceptors批准一个value时，将这个消息发送给所有learners。但是这个方法会导致消息量过大。
 
-由于假设没有Byzantine
-failures，learners可以通过别的learners获取已经通过的决议。因此acceptors只需将批准的消息发送给指定的某一个learner，其他learners向它询问已经通过的决议。这个方法降低了消息量，但是指定learner失效将引起系统失效。
+由于假设没有Byzantine failures，learners可以通过别的learners获取已经通过的决议。因此acceptors只需将批准的消息发送给指定的某一个learner，其他learners向它询问已经通过的决议。这个方法降低了消息量，但是指定learner失效将引起系统失效。
 
 因此acceptors需要将accept消息发送给learners的一个子集，然后由这些learners去通知所有learners。
 
@@ -229,29 +192,21 @@ failures，learners可以通过别的learners获取已经通过的决议。因�
 
 #### Progress的保证
 
-根据上述过程当一个proposer发现存在编号更大的提案时将终止提案。这意味着提出一个编号更大的提案会终止之前的提案过程。如果两个proposer在这种情况下都转而提出一个编号更大的提案，就可能陷入活锁，违背了Progress的要求。一般活锁可以通过
-**随机睡眠-重试**
-的方法解决。这种情况下的解决方案是选举出一个leader，仅允许leader提出提案。但是由于消息传递的不确定性，可能有多个proposer自认为自己已经成为leader。Lamport在[The
-Part-Time
-Parliament](http://research.microsoft.com/users/lamport/pubs/lamport-paxos.pdf)一文中描述并解决了这个问题。
+根据上述过程当一个proposer发现存在编号更大的提案时将终止提案。这意味着提出一个编号更大的提案会终止之前的提案过程。如果两个proposer在这种情况下都转而提出一个编号更大的提案，就可能陷入活锁，违背了Progress的要求。一般活锁可以通过 **随机睡眠-重试** 的方法解决。这种情况下的解决方案是选举出一个leader，仅允许leader提出提案。但是由于消息传递的不确定性，可能有多个proposer自认为自己已经成为leader。Lamport在[The Part-Time Parliament](http://research.microsoft.com/users/lamport/pubs/lamport-paxos.pdf)一文中描述并解决了这个问题。
 
 ## Multi-Paxos
 
-Paxos的典型部署需要一组连续的被接受的值（value），作为应用到一个分布式状态机的一组命令。如果每个命令都通过一个Basic
-Paxos算法实例来达到一致，会产生大量开销。
+Paxos的典型部署需要一组连续的被接受的值（value），作为应用到一个分布式状态机的一组命令。如果每个命令都通过一个Basic Paxos算法实例来达到一致，会产生大量开销。
 
-如果Leader是相对稳定不变的，第1阶段就变得不必要。
-这样，系统可以在接下来的Paxos算法实例中，跳过的第1阶段，直接使用同样的Leader。
+如果Leader是相对稳定不变的，第1阶段就变得不必要。 这样，系统可以在接下来的Paxos算法实例中，跳过的第1阶段，直接使用同样的Leader。
 
-为了实现这一目的，在同一个Leader执行每轮Paxos算法时，提案编号 I
-每次递增一个值，并与每个值一起发送。Multi-Paxos在没有故障发生时，将消息延迟(从propose阶段到learn阶段)从4次延迟降低为2次延迟。
+为了实现这一目的，在同一个Leader执行每轮Paxos算法时，提案编号 I 每次递增一个值，并与每个值一起发送。Multi-Paxos在没有故障发生时，将消息延迟(从propose阶段到learn阶段)从4次延迟降低为2次延迟。
 
 ### Multi-Paxos中消息流的图形表示
 
 #### Multi-Paxos 没有失败的情况
 
-在下面的图中，只显示了基本Paxos协议的一个实例(或“执行”)和一个初始Leader(Proposer)。注意，Multi-Paxos使用几个Basic
-Paxos的实例。
+在下面的图中，只显示了基本Paxos协议的一个实例(或“执行”)和一个初始Leader(Proposer)。注意，Multi-Paxos使用几个Basic Paxos的实例。
 
     Client   Proposer      Acceptor     Learner
        |         |          |  |  |       |  | --- First Request ---
@@ -267,9 +222,7 @@ Paxos的实例。
 
 #### 跳过阶段1时的Multi-Paxos
 
-在这种情况下，Basic
-Paxos的后续实例(由I+1表示)使用相同的Leader，因此，包含在Prepare和Promise的阶段1(Basic
-Paxos协议的这些后续实例)将被跳过。注意，这里要求Leader应该是稳定的，即它不应该崩溃或改变。
+在这种情况下，Basic Paxos的后续实例(由I+1表示)使用相同的Leader，因此，包含在Prepare和Promise的阶段1(Basic Paxos协议的这些后续实例)将被跳过。注意，这里要求Leader应该是稳定的，即它不应该崩溃或改变。
 
     Client   Proposer       Acceptor     Learner
        |         |          |  |  |       |  |  --- Following Requests ---
@@ -375,14 +328,11 @@ Fast-Paxos将Basic-Paxos进行了推广，以减少端到端消息延迟。在Ba
 
 [微软公司为简化的Paxos算法申请了](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[专利](../Page/专利.md "wikilink")\[2\]。但专利中公开的技术和本文所描述的不尽相同。
 
-[谷歌公司](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")（Google公司）在其中应用了Multi-Paxos算法\[3\]。Chubby
-lock应用于[大表](https://zh.wikipedia.org/wiki/大表 "wikilink")（Bigtable），后者在[谷歌公司所提供的各项服务中得到了广泛的应用](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")\[4\]。
+[谷歌公司](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")（Google公司）在其中应用了Multi-Paxos算法\[3\]。Chubby lock应用于[大表](https://zh.wikipedia.org/wiki/大表 "wikilink")（Bigtable），后者在[谷歌公司所提供的各项服务中得到了广泛的应用](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")\[4\]。
 
-[谷歌公司](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")（Google公司）在其分布式数据库spanner中使用Multi-Paxos作为分布式一致性保证的基础组件
-\[5\]
+[谷歌公司](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")（Google公司）在其分布式数据库spanner中使用Multi-Paxos作为分布式一致性保证的基础组件 \[5\]
 
-[Apache ZooKeeper](../Page/Apache_ZooKeeper.md "wikilink")
-使用一个类Multi-Paxos的一致性算法作为底层存储协同的机制。
+[Apache ZooKeeper](../Page/Apache_ZooKeeper.md "wikilink") 使用一个类Multi-Paxos的一致性算法作为底层存储协同的机制。
 
 ## 参考文献
 
@@ -390,9 +340,7 @@ lock应用于[大表](https://zh.wikipedia.org/wiki/大表 "wikilink")（Bigtabl
 
 ## 外部链接
 
-  - [The Part-Time
-    Parliament](http://research.microsoft.com/users/lamport/pubs/lamport-paxos.pdf)
-    ── Lamport于1998年发表在ACM Transactions on Computer Systems。
+  - [The Part-Time Parliament](http://research.microsoft.com/users/lamport/pubs/lamport-paxos.pdf) ── Lamport于1998年发表在ACM Transactions on Computer Systems。
 
 <!-- end list -->
 
@@ -401,8 +349,7 @@ lock应用于[大表](https://zh.wikipedia.org/wiki/大表 "wikilink")（Bigtabl
 
 <!-- end list -->
 
-  - [Paxos Made
-    Simple](http://research.microsoft.com/users/lamport/pubs/paxos-simple.pdf)，2001年。
+  - [Paxos Made Simple](http://research.microsoft.com/users/lamport/pubs/paxos-simple.pdf)，2001年。
 
 <!-- end list -->
 
@@ -413,15 +360,10 @@ lock应用于[大表](https://zh.wikipedia.org/wiki/大表 "wikilink")（Bigtabl
 
   - [Pinewiki对Paxos算法的介绍](https://web.archive.org/web/20070811172059/http://pine.cs.yale.edu/pinewiki/Paxos)
 
-[Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink")
-[Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
+[Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink") [Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
 
-1.  Lamport本人在http://research.microsoft.com/users/lamport/pubs/pubs.html\#lamport-paxos
-    中描写了他用9年时间发表这个算法的前前后后
+1.  Lamport本人在http://research.microsoft.com/users/lamport/pubs/pubs.html\#lamport-paxos 中描写了他用9年时间发表这个算法的前前后后
 2.  [中国专利局的相关页面](http://search.sipo.gov.cn/sipo/zljs/hyjs-yx-new.jsp?recid=CN200410082196.X&leixin=fmzl&title=%BC%F2%BB%AF%B5%C4Paxos%CB%E3%B7%A8&ipc=G06F9/46)
-3.  [The Chubby lock service for loosely-coupled distributed
-    systems](http://labs.google.com/papers/chubby-osdi06.pdf)
-4.  [Bigtable: A Distributed Storage System for Structured
-    Data](http://labs.google.com/papers/bigtable-osdi06.pdf)
-5.  [Spanner: Google's Globally-Distributed
-    Database](https://ai.google/research/pubs/pub39966)
+3.  [The Chubby lock service for loosely-coupled distributed systems](http://labs.google.com/papers/chubby-osdi06.pdf)
+4.  [Bigtable: A Distributed Storage System for Structured Data](http://labs.google.com/papers/bigtable-osdi06.pdf)
+5.  [Spanner: Google's Globally-Distributed Database](https://ai.google/research/pubs/pub39966)

@@ -1,10 +1,8 @@
-**伯奈利M3（Super90）**（[英文](../Page/英语.md "wikilink")：**Benelli M3 Super
-90**）是一種可半自動可[泵動式兩用](https://zh.wikipedia.org/wiki/泵動式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/12鉛徑霰彈 "wikilink")。由[意大利](../Page/意大利.md "wikilink")槍支製造商[伯奈利](../Page/伯奈利.md "wikilink")（Benelli）設計及生產。伯奈利M3以半自動的[伯奈利M1為基礎改進而成](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，最多可裝7發彈藥。比較特别的是伯奈利M3可選擇半自動或泵動運作。可靠與多用途令伯奈利M3受到[警察](../Page/警察.md "wikilink")部隊和民間運動員喜愛。
+**伯奈利M3（Super90）**（[英文](../Page/英语.md "wikilink")：**Benelli M3 Super 90**）是一種可半自動可[泵動式兩用](https://zh.wikipedia.org/wiki/泵動式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/12鉛徑霰彈 "wikilink")。由[意大利](../Page/意大利.md "wikilink")槍支製造商[伯奈利](../Page/伯奈利.md "wikilink")（Benelli）設計及生產。伯奈利M3以半自動的[伯奈利M1為基礎改進而成](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，最多可裝7發彈藥。比較特别的是伯奈利M3可選擇半自動或泵動運作。可靠與多用途令伯奈利M3受到[警察](../Page/警察.md "wikilink")部隊和民間運動員喜愛。
 
 ## 衍生型
 
-伯奈利M3有多種衍生型，包括最著名、縮短槍身的M3
-Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托](../Page/槍托.md "wikilink")的M3T，亦有更短版本。
+伯奈利M3有多種衍生型，包括最著名、縮短槍身的M3 Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托](../Page/槍托.md "wikilink")的M3T，亦有更短版本。
 
 ## 使用國
 
@@ -71,14 +69,8 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托](../Page/�
 
 ### 電子遊戲
 
-  - 1999年—《[-{zh-hans:反恐精英;
-    zh-hant:絕對武力;}-](../Page/反恐精英.md "wikilink")》以及除《[全球攻势](../Page/反恐精英：全球攻势.md "wikilink")》以外的所有衍生系列：型号为M3
-    Super 90，從1.6到CSS版本均命名為“Leone 12 Guage
-    Super”，以泵动式霰弹枪之姿出现。8发弹仓，为反恐部隊和恐怖份子双方共有武器，购买代码为B21。武器模組採用鏡像佈局（右手持槍時拋殼口在左邊）。
-  - 2015年—《[-{zh-hans:彩虹六号：围攻;
-    zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow
-    Six: Siege）：命名為「Super
-    90」，被[第二联合特遣部队所使用](https://zh.wikipedia.org/wiki/第二联合特遣部队 "wikilink")。
+  - 1999年—《[-{zh-hans:反恐精英; zh-hant:絕對武力;}-](../Page/反恐精英.md "wikilink")》以及除《[全球攻势](../Page/反恐精英：全球攻势.md "wikilink")》以外的所有衍生系列：型号为M3 Super 90，從1.6到CSS版本均命名為“Leone 12 Guage Super”，以泵动式霰弹枪之姿出现。8发弹仓，为反恐部隊和恐怖份子双方共有武器，购买代码为B21。武器模組採用鏡像佈局（右手持槍時拋殼口在左邊）。
+  - 2015年—《[-{zh-hans:彩虹六号：围攻; zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow Six: Siege）：命名為「Super 90」，被[第二联合特遣部队所使用](https://zh.wikipedia.org/wiki/第二联合特遣部队 "wikilink")。
 
 ## 參見
 
@@ -100,23 +92,15 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托](../Page/�
 
 ## 外部連結
 
-  - —[Modern Firearms—Benelli M3 Super 90
-    shotgun](http://world.guns.ru/shotgun/it/benelli-m3-e.html)
+  - —[Modern Firearms—Benelli M3 Super 90 shotgun](http://world.guns.ru/shotgun/it/benelli-m3-e.html)
 
-  - —[Remtek.com—Benelli M3
-    Super 90](http://remtek.com/arms/hk/civ/benelli/m3s90.htm)
+  - —[Remtek.com—Benelli M3 Super 90](http://remtek.com/arms/hk/civ/benelli/m3s90.htm)
 
-  - —[Civilian Gunner—Benelli
-    M3Super90](https://web.archive.org/web/20100104232858/http://civiliangunner.com/M3super90.htm)
+  - —[Civilian Gunner—Benelli M3Super90](https://web.archive.org/web/20100104232858/http://civiliangunner.com/M3super90.htm)
 
-  - —[D Boy Gun World（槍炮世界）—Benelli M3
-    Super 90](http://firearmsworld.net/italy/benelli/m3/m3.htm)
+  - —[D Boy Gun World（槍炮世界）—Benelli M3 Super 90](http://firearmsworld.net/italy/benelli/m3/m3.htm)
 
-[Category:伯奈利](https://zh.wikipedia.org/wiki/Category:伯奈利 "wikilink")
-[Category:泵動式霰彈槍](https://zh.wikipedia.org/wiki/Category:泵動式霰彈槍 "wikilink")
-[Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink")
-[Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink")
-[Category:非致命性槍械](https://zh.wikipedia.org/wiki/Category:非致命性槍械 "wikilink")
+[Category:伯奈利](https://zh.wikipedia.org/wiki/Category:伯奈利 "wikilink") [Category:泵動式霰彈槍](https://zh.wikipedia.org/wiki/Category:泵動式霰彈槍 "wikilink") [Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink") [Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink") [Category:非致命性槍械](https://zh.wikipedia.org/wiki/Category:非致命性槍械 "wikilink")
 
 1.  <http://www.army.cz/assets/files/9334/zbrane_definit.pdf>
 2.  <http://www.mil.ee/?menu=tehnika1&sisu=benelli>

@@ -18,15 +18,13 @@
 
 ## 科學
 
-  - [闊步鰺](../Page/闊步鰺.md "wikilink")，英文：Black Jack，學名：*Caranx
-    lugubris*，一種魚類。
+  - [闊步鰺](../Page/闊步鰺.md "wikilink")，英文：Black Jack，學名：*Caranx lugubris*，一種魚類。
 
   - ，英文：Black Jack，學名：*Quercus marilandica*，一種櫟樹。
 
-  - [閃鋅礦](https://zh.wikipedia.org/wiki/閃鋅礦 "wikilink")，也被稱作Black
-    Jack礦，一種由鋅和鐵結合的硫化物。
+  - [閃鋅礦](https://zh.wikipedia.org/wiki/閃鋅礦 "wikilink")，也被稱作Black Jack礦，一種由鋅和鐵結合的硫化物。
 
-  - Black jack，[無花果的一種](../Page/無花果.md "wikilink")。
+  - Black jack，[無花果](../Page/無花果.md "wikilink")的一種。
 
   - Black jack，通常指菊科的[鬼针草属](../Page/鬼针草属.md "wikilink")。
 
@@ -42,7 +40,7 @@
 
       - ，三星手機
 
-  - Blackjack，[警棍的一種](../Page/警棍.md "wikilink")
+  - Blackjack，[警棍](../Page/警棍.md "wikilink")的一種
 
   - ，美國科羅拉多州的比薩店
 
@@ -64,8 +62,7 @@
 
   - ，1950年由Julien Duvivier撰寫和導演的電影。
 
-  - [*Black Jack* (1968
-    film)](https://zh.wikipedia.org/wiki/Black_Jack_\(1968_film\) "wikilink")，年導演的義大利電影。
+  - [*Black Jack* (1968 film)](https://zh.wikipedia.org/wiki/Black_Jack_\(1968_film\) "wikilink")，年導演的義大利電影。
 
   - ，肯·洛赫（Ken Loach）導演的電影。
 

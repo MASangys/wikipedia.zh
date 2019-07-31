@@ -1333,16 +1333,11 @@
 
 ## 外部連結／參考資料
 
-  - [SUNRISE
-    Keroro軍曹商品目錄](http://www.sunrise-inc.co.jp/keroro/release/index.html)
-  - [共鳴xS Keroro軍曹侵略專區
-    侵略情報](https://archive.is/20060423092234/http://k66.shingoaoi.com/invader)
-  - [共鳴xS Keroro軍曹侵略專區
-    藍星資訊](https://web.archive.org/web/20070830215203/http://k66.shingoaoi.com/news/)
-  - [Victor
-    Entertainment歌曲及大碟資料](https://web.archive.org/web/20071203015430/http://www.jvcmusic.co.jp/m-serve/-/Discographylist2/VICL-61395.html)
-  - [Amazon.co.jp
-    CD目錄](http://www.amazon.co.jp/b/ref=topnav__m/249-5746561-1801158?%5Fencoding=UTF8&node=561956)
+  - [SUNRISE Keroro軍曹商品目錄](http://www.sunrise-inc.co.jp/keroro/release/index.html)
+  - [共鳴xS Keroro軍曹侵略專區 侵略情報](https://archive.is/20060423092234/http://k66.shingoaoi.com/invader)
+  - [共鳴xS Keroro軍曹侵略專區 藍星資訊](https://web.archive.org/web/20070830215203/http://k66.shingoaoi.com/news/)
+  - [Victor Entertainment歌曲及大碟資料](https://web.archive.org/web/20071203015430/http://www.jvcmusic.co.jp/m-serve/-/Discographylist2/VICL-61395.html)
+  - [Amazon.co.jp CD目錄](http://www.amazon.co.jp/b/ref=topnav__m/249-5746561-1801158?%5Fencoding=UTF8&node=561956)
   - [Bandai商品情報](http://catalog.bandai.co.jp/)
 
 [Category:Keroro軍曹](https://zh.wikipedia.org/wiki/Category:Keroro軍曹 "wikilink")

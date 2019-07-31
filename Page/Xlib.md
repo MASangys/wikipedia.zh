@@ -1,7 +1,4 @@
-**Xlib**是一種[X Window
-System協定的用戶端](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")，以[C語言撰寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")。其功能是與X
-server溝通。這樣的功能可以讓程式人員撰寫程式時，毋須了解其協定的細節。但甚少應用程式會直接使用Xlib;通常是透過其他的函式庫來呼叫Xlib用以提供[部件工具箱](../Page/部件工具箱.md "wikilink")（widget
-toolkits）：
+**Xlib**是一種[X Window System協定的用戶端](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")，以[C語言撰寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")。其功能是與X server溝通。這樣的功能可以讓程式人員撰寫程式時，毋須了解其協定的細節。但甚少應用程式會直接使用Xlib;通常是透過其他的函式庫來呼叫Xlib用以提供[部件工具箱](../Page/部件工具箱.md "wikilink")（widget toolkits）：
 
 [Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg](https://zh.wikipedia.org/wiki/File:Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg "fig:Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg")
 
@@ -110,19 +107,13 @@ int main(void)
 
 ## 外部連結
 
-  - [Xlib Programming
-    Manual](https://web.archive.org/web/20090217235848/http://www.sbin.org/doc/Xlib/)
-  - [Manual pages for all Xlib
-    functions](http://tronche.com/gui/x/xlib/function-index.html)
-  - [Kenton Lee's pages on X Window and
-    Motif](http://www.rahul.net/kenton/bib.html)
+  - [Xlib Programming Manual](https://web.archive.org/web/20090217235848/http://www.sbin.org/doc/Xlib/)
+  - [Manual pages for all Xlib functions](http://tronche.com/gui/x/xlib/function-index.html)
+  - [Kenton Lee's pages on X Window and Motif](http://www.rahul.net/kenton/bib.html)
   - [A short tutorial on Xlib](http://tronche.com/gui/x/xlib-tutorial/)
-  - [A longer tutorial on
-    Xlib](https://web.archive.org/web/20071018025425/http://users.actcom.co.il/~choo/lupg/tutorials/xlib-programming/xlib-programming.html#create_window)
-  - [Using Xlib for creating a screensaver
-    module](http://www.dis.uniroma1.it/%7eliberato/screensaver)
-  - [Simple X11 toolkit for learning
-    Xlib](https://web.archive.org/web/20090308084753/http://www.init0.nl/simplex11tk.php)
+  - [A longer tutorial on Xlib](https://web.archive.org/web/20071018025425/http://users.actcom.co.il/~choo/lupg/tutorials/xlib-programming/xlib-programming.html#create_window)
+  - [Using Xlib for creating a screensaver module](http://www.dis.uniroma1.it/%7eliberato/screensaver)
+  - [Simple X11 toolkit for learning Xlib](https://web.archive.org/web/20090308084753/http://www.init0.nl/simplex11tk.php)
 
 [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink")
 

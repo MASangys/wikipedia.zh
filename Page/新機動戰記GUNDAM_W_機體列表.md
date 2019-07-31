@@ -1,5 +1,4 @@
-本列表介紹[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[新機動戰記GUNDAM
-W](../Page/新機動戰記GUNDAM_W.md "wikilink")》的登場[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")。
+本列表介紹[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")》的登場[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")。
 
 ## 殖民地
 
@@ -14,14 +13,12 @@ W](../Page/新機動戰記GUNDAM_W.md "wikilink")》的登場[機動戰士](http
 <!-- end list -->
 
   -
-    Mobile Suit為「**M**anipulatavl **O**rder **B**uild and **I**ndustrial
-    **L**abors **E**xtended **SUIT**」的簡稱，其意思為「建設及工業勞動用有腕式擴充型（宇宙）服」。
+    Mobile Suit為「**M**anipulatavl **O**rder **B**uild and **I**ndustrial **L**abors **E**xtended **SUIT**」的簡稱，其意思為「建設及工業勞動用有腕式擴充型（宇宙）服」。
     MS原本是為了輔助建造宇宙殖民地而開發出來的產物，基本上沒有保護駕駛員的防護裝備，但執行危險作業時，可以額外加裝防護板等組件，標準作業用MS擁有六隻機械手臂，可視用途不同而進行更改，從動畫版第21話可以看見其身影。
 
 ### 初期（流星作戰）登場的GUNDAM
 
-流星作戰（Operation
-Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wikipedia.org/wiki/拉格朗日點 "wikilink")，使之偏離軌道並墜落地球，再由五台新型MS進行鎮壓。由於五機均由GUNDAM尼姆合金製成，因此被稱為「GUNDAM」。
+流星作戰（Operation Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wikipedia.org/wiki/拉格朗日點 "wikilink")，使之偏離軌道並墜落地球，再由五台新型MS進行鎮壓。由於五機均由GUNDAM尼姆合金製成，因此被稱為「GUNDAM」。
 
   - 飛翼GUNDAM（Wing Gundam）（OZ視為1號機，稱之為"01"）
 
@@ -182,8 +179,7 @@ Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wi
 <!-- end list -->
 
   -
-    **光束**[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Beam
-    Gatling Gun）x1
+    **光束**[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Beam Gatling Gun）x1
     [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling Gun）x2
     追蹤導彈（Homing Missile）x6
     小型飛彈（Micro Missile）x24
@@ -273,8 +269,7 @@ Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wi
 
   -
     於L4殖民地建成，主要對應沙漠作戰的近戰用機體。與其他四台GUNDAM的作戰定義相異，此機並非突擊作戰專用而是團體作戰用的機體。由於卡特爾常與中東部隊馬格亞那克隊一同作戰，而卡特爾作為全隊隊長，H教授因此加強裝甲讓沙漠GUNDAM可以一馬當先領導部隊衝出火線攻擊。
-    十字粉碎機由背包、兩把電熱彎刀及盾牌組成，使用時彎刀能像鉗子般夾毀敵機。屏蔽閃光裝置位於盾牌上，形狀如兩顆眼睛，是一種致盲閃光系統（Blinding
-    Flare System）。
+    十字粉碎機由背包、兩把電熱彎刀及盾牌組成，使用時彎刀能像鉗子般夾毀敵機。屏蔽閃光裝置位於盾牌上，形狀如兩顆眼睛，是一種致盲閃光系統（Blinding Flare System）。
     本機擁有特殊自爆裝置，於啟動時駕駛艙會自動打開以供駕駛員逃生。
 
 <!-- end list -->
@@ -402,8 +397,7 @@ Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wi
   -
     此機設計圖於十五年前（A.C.180），由五位GUNDAM科學家以OZ原型機托爾吉斯（Tallgeese）之資料完成，也是參與流星作戰的五台GUNDAM之原型機，但因被認為其威力過強而未被實體化。流星作戰發動後，沙漠GUNDAM駕駛員卡特爾．拉巴伯．溫拿因父親遭OZ謀殺而以家族財產讓此機問世以作復仇。本機外觀及武裝大致與飛翼GUNDAM相似，但其性能與武裝威力均為所有機體之冠。
     雙管破壞步槍能合併或雙手各持一把分開發射，相對飛翼GUNDAM只能發射三次的破壞步槍，此武裝沒有發射次數限制，火力足以一擊毀滅宇宙殖民地。使用光束劍時力量也足以壓倒地獄死神等近身戰機體，盾牌前端能向前方彈出作攻擊用。
-    此機為首台搭載「零式系統」（Z.E.R.O.
-    System）之機體。零式系統能預測敵人動向或戰場上任何活動，並把資料直接輸入駕駛員腦中，其中也包含駕駛員的行動所產生的後果（包括死亡的方式）。假如兩者配合得宜，機體戰力能以倍數提升，但由於大量預測資料會對駕駛員造成龐大的精神壓力，因此駕駛員如沒有強韌的精神力與無懼死亡的勇氣會精神崩潰，甚至死亡。
+    此機為首台搭載「零式系統」（Z.E.R.O. System）之機體。零式系統能預測敵人動向或戰場上任何活動，並把資料直接輸入駕駛員腦中，其中也包含駕駛員的行動所產生的後果（包括死亡的方式）。假如兩者配合得宜，機體戰力能以倍數提升，但由於大量預測資料會對駕駛員造成龐大的精神壓力，因此駕駛員如沒有強韌的精神力與無懼死亡的勇氣會精神崩潰，甚至死亡。
 
 <!-- end list -->
 
@@ -511,8 +505,7 @@ Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wi
 <!-- end list -->
 
   -
-    二連裝**光束**[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Double
-    Beam Gatling Gun）x1
+    二連裝**光束**[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Double Beam Gatling Gun）x1
     格林機槍（Gatling Gun）x2
     追蹤導彈（Homing Missile）x6
     小型飛彈（Micro Missile）x24
@@ -546,8 +539,7 @@ Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wi
 
   -
     機械設定︰[大河原邦男](../Page/大河原邦男.md "wikilink")
-    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムヘビーアームズ改（Gundam
-    Heavyarms Custom）」
+    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムヘビーアームズ改（Gundam Heavyarms Custom）」
 
 \-- -- --
 
@@ -604,8 +596,7 @@ Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wi
 
   -
     此機在經過山克王國一役後來到宇宙，經過技師霍華等人的幫助將其改造成宇宙用機體，追加一把光束機槍以強化中距離攻擊能力，由於原本陸戰用背包改造成宇宙用，十字粉碎機（Cross-crusher）被廢除。改造後此機性能僅有少許提升。
-    於後來與武裝組織白色獠牙之戰役中，飛翼GUNDAM零式駕駛員希洛．唯為增強GUNDAM戰隊的團體戰力，曾要求霍華把「零式系統」（Z.E.R.O.
-    System）搭載在此機中，藉由零式系統讓卡特爾能夠指揮眾GUNDAM與敵方MD部隊作戰，但隨著卡特爾的指揮能力覺醒，此機的零式系統便被永久卸下。
+    於後來與武裝組織白色獠牙之戰役中，飛翼GUNDAM零式駕駛員希洛．唯為增強GUNDAM戰隊的團體戰力，曾要求霍華把「零式系統」（Z.E.R.O. System）搭載在此機中，藉由零式系統讓卡特爾能夠指揮眾GUNDAM與敵方MD部隊作戰，但隨著卡特爾的指揮能力覺醒，此機的零式系統便被永久卸下。
 
 <!-- end list -->
 
@@ -615,8 +606,7 @@ Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wi
 
   -
     機械設定︰[大河原邦男](../Page/大河原邦男.md "wikilink")
-    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムサンドロック改（Gundam
-    Sandrock Custom）」
+    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムサンドロック改（Gundam Sandrock Custom）」
 
 \-- -- --
 
@@ -687,8 +677,7 @@ Meteor）全貌為破壞宇宙殖民地X-18999的[拉格朗日點](https://zh.wi
 
 ## OZ
 
-OZ為隸屬地球圈統一聯合的特務部隊，全名為「Organization of
-Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道 "wikilink")，因此OZ體系的機體其命名大多來自[星座](../Page/星座.md "wikilink")或是[天體](../Page/天體.md "wikilink")。但是，由五位博士替OZ開發的機體，其命名則不在此限。
+OZ為隸屬地球圈統一聯合的特務部隊，全名為「Organization of Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道 "wikilink")，因此OZ體系的機體其命名大多來自[星座](../Page/星座.md "wikilink")或是[天體](../Page/天體.md "wikilink")。但是，由五位博士替OZ開發的機體，其命名則不在此限。
 
 ### 原型機
 
@@ -751,8 +740,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    A.C.史上第一台**實戰型MS**，由製作GUNDAM的五位科學家於二十年前（A.C.175）完成，也是所有實戰用MS的起點，開發目的主要希望本機能擁有高速機動性與強大的火力。然而由於當時製造引擎技術並不發達，為提高機動性因此只有加大噴射背包的尺寸，但機體面積及重量也會相應增加，在此惡劣循環下使本機的開發過程遭受嚴重阻礙，加上當時沒有任何駕駛員能承受因高速所帶來的強大G力，因此OZ簡化本機設計從而製造出最基本量產型MS里歐（Leo），因而被稱為「原型里歐」（Prototype
-    Leo）。
+    A.C.史上第一台**實戰型MS**，由製作GUNDAM的五位科學家於二十年前（A.C.175）完成，也是所有實戰用MS的起點，開發目的主要希望本機能擁有高速機動性與強大的火力。然而由於當時製造引擎技術並不發達，為提高機動性因此只有加大噴射背包的尺寸，但機體面積及重量也會相應增加，在此惡劣循環下使本機的開發過程遭受嚴重阻礙，加上當時沒有任何駕駛員能承受因高速所帶來的強大G力，因此OZ簡化本機設計從而製造出最基本量產型MS里歐（Leo），因而被稱為「原型里歐」（Prototype Leo）。
     由於流星作戰的發動與GUNDAM的出現，以OZ當時之MS機種無法擊敗GUNDAM，因此OZ又重新開始本機的開發計畫，在經過數年的技術進步後可以讓機體達到同時擁有高機動性與強大的火力，加上OZ擁有「閃電伯爵」－傑克斯．馬吉斯，終於讓本機能夠出擊作戰。
 
 <!-- end list -->
@@ -762,8 +750,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     五位GUNDAM科學家於五年後（A.C.180）以此機為基礎設計出飛翼GUNDAM零式，但五位科學家認為飛翼GUNDAM零式威力過強而決定不作實體化。之後，五位科學家各自回到自己的殖民地後，以托爾吉斯為基礎加上飛翼GUNDAM零式的概念，再各自製造出參與流星作戰的五台GUNDAM。
     於動畫版第19話中，技師霍華曾提到自己也參予過托爾吉斯的設計。
 
@@ -840,8 +827,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     宇宙型里歐與陸戰型里歐兩者配備的光束來福槍（Beam Rifle）其樣式並不一樣。
 
 <!-- end list -->
@@ -893,8 +879,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 
   -
     本機種的開發是以中、遠程火力支援為目的，其半人馬式的裝甲底盤設計可使發射肩上兩門大口徑加農砲時不至失去其平衡性，或在進行支援性砲擊時有利於機體隱蔽在障礙物後方。底盤的可變結構能彈出雙腳，使其成為像一般的MS以雙腳行走，然而MS形態下機動性不及里歐（Leo）。
-    一般為基地守備部隊作重火力壓制支援的機動自走砲，亦作為地球統一聯合和OZ駐中東部隊的主力機體，但因火力支援和機動性方面日漸不符戰場上的要求，OZ在「新星作戰」（Operation
-    NOVA）期間將其逐漸淘汰。
+    一般為基地守備部隊作重火力壓制支援的機動自走砲，亦作為地球統一聯合和OZ駐中東部隊的主力機體，但因火力支援和機動性方面日漸不符戰場上的要求，OZ在「新星作戰」（Operation NOVA）期間將其逐漸淘汰。
 
 <!-- end list -->
 
@@ -903,12 +888,9 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     Tragos在希臘語為「山羊」，日本習慣把魔羯座稱作「山羊座」。
-    雖然日本動畫官方網站表示OZ-07MS
-    特拉哥斯（Tragos）是以[魔羯座為名](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，但魔羯座的英文為Capricorn，而且名為Capricorn的機體出現在外傳Tiel's
-    Impluse裡面，其型號為OZ-11MS，剛好補足OZ體系MS的缺號之一，卻讓[黃道十二宮](../Page/黃道十二宮.md "wikilink")獨缺[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")（Sagittarius）。
+    雖然日本動畫官方網站表示OZ-07MS 特拉哥斯（Tragos）是以[魔羯座為名](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，但魔羯座的英文為Capricorn，而且名為Capricorn的機體出現在外傳Tiel's Impluse裡面，其型號為OZ-11MS，剛好補足OZ體系MS的缺號之一，卻讓[黃道十二宮](../Page/黃道十二宮.md "wikilink")獨缺[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")（Sagittarius）。
 
 <!-- end list -->
 
@@ -987,8 +969,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
 
 <!-- end list -->
 
@@ -1028,9 +1009,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    於A.C.190年前期開發出的第一款兩棲可變形MS（Amphibious Variable
-    MS），可以在水中進行攻擊，或使用飛彈突襲海邊沿岸港口、軍事基地或MS。本機種沒有腿部，在水下航行時能變形成潛航型態以提高速度和機動性，以噴水式引擎（Hydrojet
-    Engine）作為主要推進，機動則是兩臂上的環形可逆向螺旋槳葉片。
+    於A.C.190年前期開發出的第一款兩棲可變形MS（Amphibious Variable MS），可以在水中進行攻擊，或使用飛彈突襲海邊沿岸港口、軍事基地或MS。本機種沒有腿部，在水下航行時能變形成潛航型態以提高速度和機動性，以噴水式引擎（Hydrojet Engine）作為主要推進，機動則是兩臂上的環形可逆向螺旋槳葉片。
     蟹鉗狀之兩個大型鉗子能作近距離攻擊，每個鉗子搭載兩門魚雷發射器。
     地球圈統一聯合塗裝為海藍色，OZ塗裝為紅色。
 
@@ -1041,8 +1020,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     一般來說，[魚雷](../Page/魚雷.md "wikilink")與[飛彈是兩種完全不同的武器](https://zh.wikipedia.org/wiki/飛彈 "wikilink")，但從動畫中的表現，此機種的魚雷可作水下攻擊，也可當飛彈攻擊水上的目標。
     於動畫版第29集中，此機種能從鉗子中伸出電熱釘進行水下切割作業。
 
@@ -1093,8 +1071,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
 
 <!-- end list -->
 
@@ -1135,8 +1112,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 
   -
     光束加農砲（Beam Cannon）x1
-    [雷射砲](https://zh.wikipedia.org/wiki/雷射 "wikilink")（Laser
-    Gun）x1；TV版第41話
+    [雷射砲](https://zh.wikipedia.org/wiki/雷射 "wikilink")（Laser Gun）x1；TV版第41話
 
 <!-- end list -->
 
@@ -1163,8 +1139,7 @@ Zodiac」，其中"Zodiac"意思為[黃道](https://zh.wikipedia.org/wiki/黃道
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
 
 ### 量產型MD
 
@@ -1256,8 +1231,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 
   -
     光束加農砲（Beam Cannon）x1
-    [雷射砲](https://zh.wikipedia.org/wiki/雷射 "wikilink")（Laser
-    Gun）x1；TV版第41話
+    [雷射砲](https://zh.wikipedia.org/wiki/雷射 "wikilink")（Laser Gun）x1；TV版第41話
 
 <!-- end list -->
 
@@ -1337,8 +1311,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     單一個圓盤稱為"反射磁鼓"（Reflector Drum），"行星防禦系統"（Planate Defencer）由多於一個反射磁鼓組成。
     日本動畫官方網站顯示此機種反射磁鼓為3個，但從動畫版第31集、模型及機械設定可以得知正確數字應為4個。
     火力強大之光束兵器或MS自殺式攻擊仍有機會突破行星防禦系統。
@@ -1401,8 +1374,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 <!-- end list -->
 
   -
-    原為白色獠牙在發動"[月亮女神革命](https://zh.wikipedia.org/wiki/阿耳忒彌斯 "wikilink")"（Artemis
-    Revolution），襲擊並奪取OZ月面基地及未完成的宇宙戰艦天秤座號（Libra）後，根據羅姆斐拉技師長茲巴洛夫遺下之比爾哥強化組件加以改造而成的MD，後來此機種被OZ編制為OZ-03MD，塗裝為黑色。
+    原為白色獠牙在發動"[月亮女神革命](https://zh.wikipedia.org/wiki/阿耳忒彌斯 "wikilink")"（Artemis Revolution），襲擊並奪取OZ月面基地及未完成的宇宙戰艦天秤座號（Libra）後，根據羅姆斐拉技師長茲巴洛夫遺下之比爾哥強化組件加以改造而成的MD，後來此機種被OZ編制為OZ-03MD，塗裝為黑色。
 
 <!-- end list -->
 
@@ -1411,12 +1383,9 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     日本動畫官網顯示此機種反射磁鼓為6個，但從動畫、模型及機械設定可以得知正確數字為8個。
-    從[GUNDAM
-    EVOLVE](../Page/GUNDAM_EVOLVE.md "wikilink")../7可以看到黑色塗裝的比爾哥II
-    與飛翼GUNDAM零式（EW版本）交戰的身影。
+    從[GUNDAM EVOLVE](../Page/GUNDAM_EVOLVE.md "wikilink")../7可以看到黑色塗裝的比爾哥II 與飛翼GUNDAM零式（EW版本）交戰的身影。
 
 ### 其它
 
@@ -1490,8 +1459,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     「拜葉特」源自埃及神話的[哈索爾](https://zh.wikipedia.org/wiki/哈索爾 "wikilink")，設計理念來自日本神話的[風神](https://zh.wikipedia.org/wiki/風神 "wikilink")。
 
 <!-- end list -->
@@ -1567,8 +1535,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     「麥丘留士」源自羅馬神話的[墨丘利](https://zh.wikipedia.org/wiki/墨丘利 "wikilink")，設計理念來自日本神話的[雷神](https://zh.wikipedia.org/wiki/雷神 "wikilink")。
     單一個圓盤稱為"反射磁鼓"（Reflector Drum），"行星防禦系統"（Planate Defencer）由多於一個反射磁鼓組成。
     火力強大的光束兵器或MS自殺式攻擊仍有機會突破行星防禦系統。
@@ -1624,8 +1591,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
 
 ## 白色獠牙（White Fang）
 
@@ -1815,8 +1781,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 <!-- end list -->
 
   -
-    白色獠牙在發動"[月亮女神革命](https://zh.wikipedia.org/wiki/阿耳忒彌斯 "wikilink")"（Artemis
-    Revolution），襲擊並奪取OZ月面基地及未完成的宇宙戰艦天秤座號（Libra）後，根據羅姆斐拉技師長茲巴洛夫遺下之比爾哥強化組件加以改造而成，塗裝為黃綠色，性能及武裝均有所提升。MD系統增加了格鬥戰應用模式讓本機種能使用光束軍刀攻擊敵機，引擎被強化後其機動性足以和陶拉斯（Taurus）相比擬，反射磁鼓從四具增加至八具，武裝被追加光束來福槍（可收納於背包內），以彌補米加光束加農砲於連射性的不足。
+    白色獠牙在發動"[月亮女神革命](https://zh.wikipedia.org/wiki/阿耳忒彌斯 "wikilink")"（Artemis Revolution），襲擊並奪取OZ月面基地及未完成的宇宙戰艦天秤座號（Libra）後，根據羅姆斐拉技師長茲巴洛夫遺下之比爾哥強化組件加以改造而成，塗裝為黃綠色，性能及武裝均有所提升。MD系統增加了格鬥戰應用模式讓本機種能使用光束軍刀攻擊敵機，引擎被強化後其機動性足以和陶拉斯（Taurus）相比擬，反射磁鼓從四具增加至八具，武裝被追加光束來福槍（可收納於背包內），以彌補米加光束加農砲於連射性的不足。
     在傑克斯．馬吉斯帶著次代GUNDAM加入白色獠牙後，本機種被植入戰術程式（動畫版第41話），並且能以零式系統讓身在天秤座號的操縱者按照自己的想法進行遠端操控（劇中稱此為命令系統），使其能按照戰況變更戰術。傑克斯曾以三機作為護衛攔截四台GUNDAM（地獄死神GUNDAM、重武裝GUNDAM．改、沙漠GUNDAM．改及二頭龍GUNDAM）。
 
 <!-- end list -->
@@ -1826,8 +1791,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 <!-- end list -->
 
   -
-    機械設定︰Katoki
-    Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
+    機械設定︰Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）
     單一個圓盤叫作"反射磁鼓"（Reflector Drum），"行星防禦系統"（Planate Defencer）由多於一個反射磁鼓組成。
     日本動畫官網顯示此機種反射磁鼓為6個，但從動畫、模型及機械設定可以得知正確數字應為8個。
 
@@ -2005,8 +1969,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 
   -
     光束槍（Beam Gun）x1；固定在機身上
-    [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling
-    Gun）x1；固定在機身上
+    [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling Gun）x1；固定在機身上
 
 <!-- end list -->
 
@@ -2029,8 +1992,7 @@ MD（Mobile Doll）稱為機動人偶或無人駕駛機，機體內部被植入�
 
 ## Endless Waltz（無盡的華爾茲）特別篇
 
-所有機體的外觀設計採用Katoki
-Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）的版本。根據日本動畫官方網站，劇場版的五台GUNDAM與TV版後期的五台為同一台機體，並說明這五台GUNDAM為EW版本，因此劇場版本與TV版後期五機的名稱及型號均完全相同。為區分兩者，官方有時會在劇場版本的機體名稱後標註為「（EW版）」。
+所有機體的外觀設計採用Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）的版本。根據日本動畫官方網站，劇場版的五台GUNDAM與TV版後期的五台為同一台機體，並說明這五台GUNDAM為EW版本，因此劇場版本與TV版後期五機的名稱及型號均完全相同。為區分兩者，官方有時會在劇場版本的機體名稱後標註為「（EW版）」。
 
 ### 預防者（Preventer）
 
@@ -2082,8 +2044,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ウイングガンダムゼロ（Wing Gundam
-    Zero）」。有時坊間會稱本機為**飛翼GUNDAM零式改（Wing Gundam Zero Custom）**以與TV版作區分。
+    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ウイングガンダムゼロ（Wing Gundam Zero）」。有時坊間會稱本機為**飛翼GUNDAM零式改（Wing Gundam Zero Custom）**以與TV版作區分。
     根據外傳漫畫，飛翼的改動及變形機構是希羅在A.C.195年大戰後，斯德畢爾之亂前一時興起而大幅度改造。其改造連設計時間之快使狄奥、特洛瓦及卡特爾十分震驚。
 
 <!-- end list -->
@@ -2133,9 +2094,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムデスサイズヘル（Gundam
-    Deathscythe Hell）」。有時坊間會稱本機為**地獄死神GUNDAM改（Gundam Deathscythe Hell
-    Custom）**以與TV版作區分。
+    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムデスサイズヘル（Gundam Deathscythe Hell）」。有時坊間會稱本機為**地獄死神GUNDAM改（Gundam Deathscythe Hell Custom）**以與TV版作區分。
 
 <!-- end list -->
 
@@ -2155,8 +2114,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    二連裝[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Double
-    Gatling Gun）x2
+    二連裝[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Double Gatling Gun）x2
     [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling Gun）x4
     小型飛彈（Micro Missile）x54
     追蹤導彈（Homing Missile）x36
@@ -2189,8 +2147,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムヘビーアームズ**改**（Gundam
-    Heavyarms Custom）」。
+    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムヘビーアームズ**改**（Gundam Heavyarms Custom）」。
 
 <!-- end list -->
 
@@ -2241,8 +2198,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムサンドロック**改**（Gundam
-    Sandrock Custom）」 。
+    機體名稱依照「新機動戦記ガンダムW MSエンサイクロペディア」設定中的**日英對照**「ガンダムサンドロック**改**（Gundam Sandrock Custom）」 。
     EW版本的十字粉碎器不必把背包拆卸下來，用盾牌及兩把電熱彎刀即可組成。
 
 <!-- end list -->
@@ -2345,8 +2301,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    二連裝[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Double
-    Gatling Gun）×1
+    二連裝[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Double Gatling Gun）×1
     追蹤導彈（Homing Missile）x16
 
 <!-- end list -->
@@ -2367,8 +2322,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
   -
     巴頓財團為實行第二次流星作戰而秘密生產的高性能MS，共有五百台，由於重武裝GUNDAM同樣在巴頓財團支持下開發，因此本機種武裝與性能皆與重武裝GUNDAM相近。
-    在劇場版Endless
-    Waltz中，瑪莉梅亞軍降落地球圈時把四百七十台沙貝特投入實戰（三十台於突入大氣層前已被托爾吉斯III摧毀），並使托爾吉斯III、陶拉斯（山克王國樣式）、地獄死神GUNDAM、重武裝GUNDAM．改及沙漠GUNDAM．改陷入苦戰（除雙方數量差距過大外，傑克斯、諾茵及GUNDAM駕駛員因不願攻擊駕駛艙導致作戰更加困難）。由於新鈦合金裝甲強度較舊式鈦合金為高，導致各機之武器消耗更大從而令作戰時間更少，但隨著地球圈人民的覺醒與瑪莉梅亞軍的內亂終讓第二次流星作戰宣告失敗，沙貝特部隊成員全部棄機投降。
+    在劇場版Endless Waltz中，瑪莉梅亞軍降落地球圈時把四百七十台沙貝特投入實戰（三十台於突入大氣層前已被托爾吉斯III摧毀），並使托爾吉斯III、陶拉斯（山克王國樣式）、地獄死神GUNDAM、重武裝GUNDAM．改及沙漠GUNDAM．改陷入苦戰（除雙方數量差距過大外，傑克斯、諾茵及GUNDAM駕駛員因不願攻擊駕駛艙導致作戰更加困難）。由於新鈦合金裝甲強度較舊式鈦合金為高，導致各機之武器消耗更大從而令作戰時間更少，但隨著地球圈人民的覺醒與瑪莉梅亞軍的內亂終讓第二次流星作戰宣告失敗，沙貝特部隊成員全部棄機投降。
 
 <!-- end list -->
 
@@ -2503,8 +2457,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
   -
     GUNDAM尼姆合金（Gundanium Alloy）
-    [月球](https://zh.wikipedia.org/wiki/Luna "wikilink")[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")（Luna
-    Ceramic）
+    [月球](https://zh.wikipedia.org/wiki/Luna "wikilink")[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")（Luna Ceramic）
     細密[克維拉](../Page/克維拉.md "wikilink")複合材(Fine Kevlar)
 
 <!-- end list -->
@@ -2515,8 +2468,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
   -
     雷射通信系統（Laser Communication System）
-    [AI搭載型](https://zh.wikipedia.org/wiki/AI "wikilink")[射控系統](https://zh.wikipedia.org/wiki/射控系統 "wikilink")（A.I.-equipped
-    Fire Control System）
+    [AI搭載型](https://zh.wikipedia.org/wiki/AI "wikilink")[射控系統](https://zh.wikipedia.org/wiki/射控系統 "wikilink")（A.I.-equipped Fire Control System）
     三維掃描信管（3D Mostronics）
     質量感應型索敵系統（Mass Reaction Search System）
 
@@ -2575,9 +2527,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
   -
     Geminass意思為[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")。
-    裝甲材料中的[克維拉](../Page/克維拉.md "wikilink")是美國[杜邦](../Page/杜邦.md "wikilink")公司的著名產品之一，是具有高強度的人造纖維，最著名的應用是防彈背心（Bulletproof
-    Vests），在[裝甲的應用上](https://zh.wikipedia.org/wiki/裝甲 "wikilink")，許多戰車的裝甲內部具有防剝落襯層（Spall
-    Liner），是設計用來保護乘員和設備，而防剝落襯層通常由[克維拉](../Page/克維拉.md "wikilink")（Kevlar）或迪尼瑪（Dyneema）等材質製造。
+    裝甲材料中的[克維拉](../Page/克維拉.md "wikilink")是美國[杜邦](../Page/杜邦.md "wikilink")公司的著名產品之一，是具有高強度的人造纖維，最著名的應用是防彈背心（Bulletproof Vests），在[裝甲的應用上](https://zh.wikipedia.org/wiki/裝甲 "wikilink")，許多戰車的裝甲內部具有防剝落襯層（Spall Liner），是設計用來保護乘員和設備，而防剝落襯層通常由[克維拉](../Page/克維拉.md "wikilink")（Kevlar）或迪尼瑪（Dyneema）等材質製造。
 
 <!-- end list -->
 
@@ -2601,8 +2551,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
   -
     GUNDAM尼姆合金（Gundanium Alloy）
-    [月球](https://zh.wikipedia.org/wiki/Luna "wikilink")[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")（Luna
-    Ceramic）
+    [月球](https://zh.wikipedia.org/wiki/Luna "wikilink")[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")（Luna Ceramic）
     細密[克維拉](../Page/克維拉.md "wikilink")複合材(Fine Kevlar)
 
 <!-- end list -->
@@ -2613,8 +2562,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
   -
     雷射通信系統（Laser Communication System）
-    [AI搭載型](https://zh.wikipedia.org/wiki/AI "wikilink")[射控系統](https://zh.wikipedia.org/wiki/射控系統 "wikilink")（A.I.-equipped
-    Fire Control System）
+    [AI搭載型](https://zh.wikipedia.org/wiki/AI "wikilink")[射控系統](https://zh.wikipedia.org/wiki/射控系統 "wikilink")（A.I.-equipped Fire Control System）
     三維掃描信管（3D Mostronics）
     質量感應型索敵系統（Mass Reaction Search System）
 
@@ -2713,10 +2661,8 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
   -
     雷射通信系統（Laser Communication System）
-    [AI搭載型](https://zh.wikipedia.org/wiki/AI "wikilink")[射控系統](https://zh.wikipedia.org/wiki/射控系統 "wikilink")（A.I.-equipped
-    Fire Control System）
-    三維[都卜勒雷達](https://zh.wikipedia.org/wiki/都卜勒效應 "wikilink")（3D Doppler
-    Radar）
+    [AI搭載型](https://zh.wikipedia.org/wiki/AI "wikilink")[射控系統](https://zh.wikipedia.org/wiki/射控系統 "wikilink")（A.I.-equipped Fire Control System）
+    三維[都卜勒雷達](https://zh.wikipedia.org/wiki/都卜勒效應 "wikilink")（3D Doppler Radar）
 
 <!-- end list -->
 
@@ -2736,8 +2682,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    輕型加速[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")（Lightweight
-    Accelerate Submachine Gun）x1
+    輕型加速[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")（Lightweight Accelerate Submachine Gun）x1
 
 <!-- end list -->
 
@@ -2757,8 +2702,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    GUNDAM傑姆納斯
-    1號機加裝L.O.Booster並予以部分改裝，能變形成為高速巡航形態。強力光束加農砲裝設於雙肩，火力足以擊破OZ的MD所配備的行星防禦系統。
+    GUNDAM傑姆納斯 1號機加裝L.O.Booster並予以部分改裝，能變形成為高速巡航形態。強力光束加農砲裝設於雙肩，火力足以擊破OZ的MD所配備的行星防禦系統。
     "L.O.Booster"全名為Liner Offence-Booster（線性攻擊推進器）。
 
 <!-- end list -->
@@ -3081,8 +3025,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    本體為GUNDAM傑姆納斯
-    2號機，變形成為近戰形態後（蛇爪會套到雙手上）能提高接近戰能力，每個蛇爪上有兩個快速射擊器。后被夺回成为MO-V战力之一。
+    本體為GUNDAM傑姆納斯 2號機，變形成為近戰形態後（蛇爪會套到雙手上）能提高接近戰能力，每個蛇爪上有兩個快速射擊器。后被夺回成为MO-V战力之一。
 
 <!-- end list -->
 
@@ -3140,8 +3083,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    Burnlapius確切的意思不明。由於GUNDAM班雷普歐斯是GUNDAM亞斯克雷普歐斯（Gundam
-    Aesculapius）的延伸型，因此**推測**Burnlapius可能是把「Burn」與「Aesculapius」取字尾「lapius」，兩者合併而成。
+    Burnlapius確切的意思不明。由於GUNDAM班雷普歐斯是GUNDAM亞斯克雷普歐斯（Gundam Aesculapius）的延伸型，因此**推測**Burnlapius可能是把「Burn」與「Aesculapius」取字尾「lapius」，兩者合併而成。
 
 <!-- end list -->
 
@@ -3278,8 +3220,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
   -
     複合式感應系統（Compound Sensor System）
-    [匿蹤干擾裝置](https://zh.wikipedia.org/wiki/匿蹤 "wikilink")（Stealth
-    Jammer）
+    [匿蹤干擾裝置](https://zh.wikipedia.org/wiki/匿蹤 "wikilink")（Stealth Jammer）
 
 <!-- end list -->
 
@@ -3309,8 +3250,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 <!-- end list -->
 
   -
-    肩爪（Shoulder
-    Claw）可以脫離本體改由線控進行攻擊，變形成為高機動形態後時雙腿會收攏並藉由裙甲內的噴射器獲得高機動性，速度足以趕上使用PX系統航行的GUNDAM。
+    肩爪（Shoulder Claw）可以脫離本體改由線控進行攻擊，變形成為高機動形態後時雙腿會收攏並藉由裙甲內的噴射器獲得高機動性，速度足以趕上使用PX系統航行的GUNDAM。
 
 <!-- end list -->
 
@@ -3403,8 +3343,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
     第一，就是發明威力更強大的兵器，使其具有強大的嚇阻能力，於是設計出托爾吉斯、飛翼GUNDAM零式這類的MS。
     第二，基本上是延續第一項的觀點，就是把駕駛員也當成是兵器中的一部份，盡可能地提升他們的戰鬥能力，其結果就是「零式系統」。
     第三，以消滅人類本身，作為全面終結戰鬥行為的一種概念，其結果就是「[旅鼠](../Page/旅鼠.md "wikilink")」。
-    L夫人（本名為Louisa
-    Lovecraft）所開發的「旅鼠」，理論上不需要依靠人類操縱，但必須以"人類的攻擊衝動"作為MS的啟動媒介，這也是為什麼需要駕駛員的原因（因為機器不會有情緒），而且當系統經由駕駛員大腦內掌管情緒的神經，刺激並提高人類戰鬥的衝動，其影響的不只是駕駛員本身，當駕駛員的衝動經過「旅鼠系統」增幅後，還會對外擴散影響周遭的人，與駕駛員的衝動產生共鳴的人類，也會獨立攻擊共同的目標，被系統所控制的駕駛員（包含周遭被系統控制的駕駛員），其操控能力亦會提升。
+    L夫人（本名為Louisa Lovecraft）所開發的「旅鼠」，理論上不需要依靠人類操縱，但必須以"人類的攻擊衝動"作為MS的啟動媒介，這也是為什麼需要駕駛員的原因（因為機器不會有情緒），而且當系統經由駕駛員大腦內掌管情緒的神經，刺激並提高人類戰鬥的衝動，其影響的不只是駕駛員本身，當駕駛員的衝動經過「旅鼠系統」增幅後，還會對外擴散影響周遭的人，與駕駛員的衝動產生共鳴的人類，也會獨立攻擊共同的目標，被系統所控制的駕駛員（包含周遭被系統控制的駕駛員），其操控能力亦會提升。
     「旅鼠」的上半身為人形，下半身則是如同蛇一般的身體，裝甲也如同蛇鱗披覆在上面，其下半身的機體表面亦散佈著許多的觸腳，使其在重力的環境下能夠靈活移動。
 
 <!-- end list -->
@@ -3420,8 +3359,7 @@ A.C.196年地球統一國家成立後，為防止戰爭爆發及遏止恐怖活�
 
 ### Katoki Hajime Re-design
 
-由Katoki
-Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）重新設計"TV版前期五機"的EW版本。設定上，Katoki再設計的EW版本前期五機與TV版前期五機為同一台，因此兩者名稱與型號完全相同。
+由Katoki Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")）重新設計"TV版前期五機"的EW版本。設定上，Katoki再設計的EW版本前期五機與TV版前期五機為同一台，因此兩者名稱與型號完全相同。
 
   - 飛翼GUNDAM（Wing Gundam）
 
@@ -3511,10 +3449,8 @@ Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "
 <!-- end list -->
 
   -
-    [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling
-    Gun）x1；手持
-    [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling
-    Gun）x2；胸部內置
+    [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling Gun）x1；手持
+    [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling Gun）x2；胸部內置
     小型飛彈（Micro Missile）x54
     追蹤導彈（Homing Missile）x36
     [火神砲](https://zh.wikipedia.org/wiki/火神砲 "wikilink")（Vulcan）x2
@@ -3528,8 +3464,7 @@ Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "
 <!-- end list -->
 
   -
-    [格林機槍彈倉](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling Gun
-    Magazine）x1
+    [格林機槍彈倉](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling Gun Magazine）x1
     自爆裝置（Self-destruct System）
 
 <!-- end list -->
@@ -3606,14 +3541,12 @@ Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "
 <!-- end list -->
 
   -
-    由Katoki再設計的神龍GUNDAM，其龍爪只是巨大的機械爪而已，不具伸縮的功能。原本TV版的光束長槍（Beam
-    Glave），改成光束三叉戟。
+    由Katoki再設計的神龍GUNDAM，其龍爪只是巨大的機械爪而已，不具伸縮的功能。原本TV版的光束長槍（Beam Glave），改成光束三叉戟。
     本機的塗裝與TV版最為相近。
 
 ### SD Gundam G Generation F
 
-  - [水瓶座GUNDAM](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")（Gundam
-    Aquarius）
+  - [水瓶座GUNDAM](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")（Gundam Aquarius）
 
 <!-- end list -->
 
@@ -3740,8 +3673,7 @@ Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "
 <!-- end list -->
 
   -
-    二連裝光束[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Double
-    Beam Gatling Gun）x1
+    二連裝光束[格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Double Beam Gatling Gun）x1
     [格林機槍](https://zh.wikipedia.org/wiki/格林機槍 "wikilink")（Gatling Gun）x2
     追蹤導彈（Homing Missile）x30
     小型飛彈（Micro Missile）x36
@@ -4033,8 +3965,6 @@ Hajime（[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "
 
   - [GundamOfficial](https://web.archive.org/web/20020202000619/http://www.gundamofficial.com/www_ac/gw/index.htm)
 
-[Category:殖民後紀元](https://zh.wikipedia.org/wiki/Category:殖民後紀元 "wikilink")
-[Category:GUNDAM兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM兵器 "wikilink")
-[Category:虛構事物列表](https://zh.wikipedia.org/wiki/Category:虛構事物列表 "wikilink")
+[Category:殖民後紀元](https://zh.wikipedia.org/wiki/Category:殖民後紀元 "wikilink") [Category:GUNDAM兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM兵器 "wikilink") [Category:虛構事物列表](https://zh.wikipedia.org/wiki/Category:虛構事物列表 "wikilink")
 
 1.  gundam perfect file 024 (24-3)

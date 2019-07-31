@@ -1,7 +1,4 @@
-《**明日之星Super
-Star**》是[民視已停播的歌唱選秀節目](https://zh.wikipedia.org/wiki/民視 "wikilink")，由[胡瓜](../Page/胡瓜.md "wikilink")與[小鐘聯合主持](https://zh.wikipedia.org/wiki/小鐘 "wikilink")，由[百是傳播的資深製作人](https://zh.wikipedia.org/wiki/百是傳播 "wikilink")[黃義雄](../Page/黃義雄.md "wikilink")製作，民視資深導播[黃治偉擔任導播](https://zh.wikipedia.org/wiki/黃治偉 "wikilink")，與民視大部分綜藝節目一樣租用[華視媒體園區](../Page/華視媒體園區.md "wikilink")攝影棚錄影。2008年10月18日至2016年5月21日，於[民視無線台](../Page/民視無線台.md "wikilink")每星期六19:59\~22:00播出。每週五位評審，一位評審最多可給20分，合計總分100分。在每集「國語組衛冕賽」後都有「藝人交流賽」。2016年1月，因胡瓜與黃義雄口角，導致胡瓜罷錄。事後民視介入協調，決定5月28日起由《[台灣那麼旺
-Taiwan NO.1](../Page/台灣那麼旺_Taiwan_NO.1.md "wikilink")》接檔《**明日之星Super
-Star**》，接檔前由曹雅雯、許富凱、郭婷筠搭配小鐘主持。\[1\]。
+《**明日之星Super Star**》是[民視已停播的歌唱選秀節目](https://zh.wikipedia.org/wiki/民視 "wikilink")，由[胡瓜](../Page/胡瓜.md "wikilink")與[小鐘聯合主持](https://zh.wikipedia.org/wiki/小鐘 "wikilink")，由[百是傳播的資深製作人](https://zh.wikipedia.org/wiki/百是傳播 "wikilink")[黃義雄](../Page/黃義雄.md "wikilink")製作，民視資深導播[黃治偉擔任導播](https://zh.wikipedia.org/wiki/黃治偉 "wikilink")，與民視大部分綜藝節目一樣租用[華視媒體園區](../Page/華視媒體園區.md "wikilink")攝影棚錄影。2008年10月18日至2016年5月21日，於[民視無線台](../Page/民視無線台.md "wikilink")每星期六19:59\~22:00播出。每週五位評審，一位評審最多可給20分，合計總分100分。在每集「國語組衛冕賽」後都有「藝人交流賽」。2016年1月，因胡瓜與黃義雄口角，導致胡瓜罷錄。事後民視介入協調，決定5月28日起由《[台灣那麼旺 Taiwan NO.1](../Page/台灣那麼旺_Taiwan_NO.1.md "wikilink")》接檔《**明日之星Super Star**》，接檔前由曹雅雯、許富凱、郭婷筠搭配小鐘主持。\[1\]。
 
 ## 主持人
 
@@ -13,8 +10,7 @@ Star**》，接檔前由曹雅雯、許富凱、郭婷筠搭配小鐘主持。\[
 
 ### 選手村制度
 
-《明日之星Super
-Star》最大的特色，便是獨有的「選手村」制度。通過試唱以及複賽的參賽者，便可進入選手村接受專業老師指導；具備一定實力後，便可登上《明日之星》舞台參加棚內比賽，爭取衛冕獎金。而被淘汰的參賽者也能再回到選手村接受訓練，以便日後重回舞台。此制度為全國歌唱選秀節目之創舉，也是唯一先訓後賽的唱節目。
+《明日之星Super Star》最大的特色，便是獨有的「選手村」制度。通過試唱以及複賽的參賽者，便可進入選手村接受專業老師指導；具備一定實力後，便可登上《明日之星》舞台參加棚內比賽，爭取衛冕獎金。而被淘汰的參賽者也能再回到選手村接受訓練，以便日後重回舞台。此制度為全國歌唱選秀節目之創舉，也是唯一先訓後賽的唱節目。
 
 選手村指導老師
 
@@ -155,24 +151,20 @@ Star》最大的特色，便是獨有的「選手村」制度。通過試唱以�
 
   - [明日之星合輯](https://zh.wikipedia.org/wiki/明日之星合輯 "wikilink")【明日之星同學會(十週年紀念專輯)】
   - [曹雅雯](../Page/曹雅雯.md "wikilink")【女人香】、【深深的愛】、【最愛的人】、【心疼】、【一生平安】、【思念的歌】、【感謝】、【小說】
-  - [張文綺](https://zh.wikipedia.org/wiki/張文綺 "wikilink")【叫我女王】、【幸福 ‧
-    希望】、【張文綺的"異想世界"亂亂亂】、【黑白舞】、【三碗豬腳】、【I Miss
-    you】、【打鐵女王】、【綺麗世界】
+  - [張文綺](https://zh.wikipedia.org/wiki/張文綺 "wikilink")【叫我女王】、【幸福 ‧ 希望】、【張文綺的"異想世界"亂亂亂】、【黑白舞】、【三碗豬腳】、【I Miss you】、【打鐵女王】、【綺麗世界】
   - [蔡佳麟](../Page/蔡佳麟.md "wikilink")【傷心無尾巷】、【天色漸漸光】、【為愛車拼】、【阿宅的心聲】、【飛仔麟】、【猶原愛著你】、【問路】
   - [郭婷筠](../Page/郭婷筠.md "wikilink")【世事多變】、【愛情做風颱】、【女人膽】、【不要給我打分數】、【原來的幸福】、【愛毋驚】
   - [潘佩莉](../Page/潘佩莉.md "wikilink")【幸福的家伙】、【美麗的邀請】
   - [許富凱](../Page/許富凱.md "wikilink")【最愛】、【寫乎你的歌】、【故鄉的門口埕】、【一寸真心】、【少年夢】、【等無愛】、【縫夢】、【我毋是你想的遐爾快樂】
   - [陳怡婷](../Page/陳怡婷.md "wikilink")【愛情的網】、【愛情的滋味】、【孤戀花開】、【牡丹情】、【命中註定你一個】
-  - [曾瑋中](../Page/曾瑋中.md "wikilink")【明日之星
-    台灣好聲音】、【明日三少／我們】、【紅塵來來去去】、【勇士】、【毋通】
+  - [曾瑋中](../Page/曾瑋中.md "wikilink")【明日之星 台灣好聲音】、【明日三少／我們】、【紅塵來來去去】、【勇士】、【毋通】
   - [林孟宗](../Page/林孟宗.md "wikilink")【明日之星 台灣好聲音】、【明日三少／我們】、【相思伴月】
   - [丁姵均](https://zh.wikipedia.org/wiki/丁姵均 "wikilink")【明日之星 台灣好聲音】、【青春】
   - [杜忻恬](https://zh.wikipedia.org/wiki/杜忻恬_\(台灣歌手\) "wikilink")【兩人份】、【該忘記的忘不記】、【無重力】、【一個人愛著】
   - [蔡幸芳](../Page/蔡幸芳.md "wikilink")【星塵】、【我想念你歪嘴的笑】、【思念成刺】、【過生活】、【美．即刻】
   - [陳麒安](https://zh.wikipedia.org/wiki/陳麒安 "wikilink")【兩人份】
   - [賴慧如](../Page/賴慧如.md "wikilink")【切乎離】、【敢愛就來】
-  - [郭忠祐](../Page/郭忠祐.md "wikilink")【明日三少／我們】、【郭忠祐首張同名專輯】、【You Are My
-    Only One】
+  - [郭忠祐](../Page/郭忠祐.md "wikilink")【明日三少／我們】、【郭忠祐首張同名專輯】、【You Are My Only One】
 
 ## 金曲獎
 
@@ -322,12 +314,8 @@ Star》最大的特色，便是獨有的「選手村」制度。通過試唱以�
   -
   -
   -
-  - [許富凱合唱阿嬤
-    告別《明日之星》](http://www.chinatimes.com/newspapers/20160521000639-260112)
+  - [許富凱合唱阿嬤 告別《明日之星》](http://www.chinatimes.com/newspapers/20160521000639-260112)
 
-[Category:民視電視節目](https://zh.wikipedia.org/wiki/Category:民視電視節目 "wikilink")
-[Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
+[Category:民視電視節目](https://zh.wikipedia.org/wiki/Category:民視電視節目 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink") [Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
 
 1.

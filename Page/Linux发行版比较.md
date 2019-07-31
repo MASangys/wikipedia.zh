@@ -906,83 +906,13 @@
 
 ## 价格
 
-以下发行版完全免费：[aLinux](https://zh.wikipedia.org/wiki/aLinux "wikilink")，[ALT
-Linux](https://zh.wikipedia.org/wiki/ALT_Linux "wikilink")，[Annvix](https://zh.wikipedia.org/wiki/Annvix "wikilink")，[Arch
-Linux](../Page/Arch_Linux.md "wikilink")，[Ark
-Linux](https://zh.wikipedia.org/wiki/Ark_Linux "wikilink")，Arudius，[Asianux](https://zh.wikipedia.org/wiki/Asianux "wikilink")，Aurox,
-[BLAG Linux and
-GNU](https://zh.wikipedia.org/wiki/BLAG_Linux_and_GNU "wikilink"),
-[CentOS](../Page/CentOS.md "wikilink"),
-[CRUX](https://zh.wikipedia.org/wiki/CRUX "wikilink"), [Damn Small
-Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink"),
-[Debian](../Page/Debian.md "wikilink"), [DeLi
-Linux](https://zh.wikipedia.org/wiki/DeLi_Linux "wikilink"),
-[DeMuDi](https://zh.wikipedia.org/wiki/DeMuDi "wikilink"),
-[Devil-Linux](https://zh.wikipedia.org/wiki/Devil-Linux "wikilink"),
-[dyne:bolic](https://zh.wikipedia.org/wiki/dyne:bolic "wikilink"), [Easy
-Peasy](https://zh.wikipedia.org/wiki/Easy_Peasy "wikilink"),
-[Edubuntu](../Page/Edubuntu.md "wikilink"), [EnGarde Secure
-Linux](https://zh.wikipedia.org/wiki/EnGarde_Secure_Linux "wikilink"),
-[Fedora](../Page/Fedora.md "wikilink"),
-[Finnix](https://zh.wikipedia.org/wiki/Finnix "wikilink"), [Foresight
-Linux](https://zh.wikipedia.org/wiki/Foresight_Linux "wikilink"),
-[Freespire](https://zh.wikipedia.org/wiki/Freespire "wikilink"),
-[Frugalware](https://zh.wikipedia.org/wiki/Frugalware "wikilink"),
-[Gentoo](../Page/Gentoo_Linux.md "wikilink"),
-[gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink"),
-[Gnoppix](https://zh.wikipedia.org/wiki/Gnoppix "wikilink"),
-[gnuLinEx](https://zh.wikipedia.org/wiki/gnuLinEx "wikilink"),
-[GoboLinux](../Page/GoboLinux.md "wikilink"),
-[Gobuntu](../Page/Gobuntu.md "wikilink"), [Impi
-Linux](https://zh.wikipedia.org/wiki/Impi_Linux "wikilink"),
-[Kanotix](https://zh.wikipedia.org/wiki/Kanotix "wikilink"),
-[Knoppix](../Page/Knoppix.md "wikilink"),
-[Knoppmyth](https://zh.wikipedia.org/wiki/Knoppmyth "wikilink"),
-[Kubuntu](../Page/Kubuntu.md "wikilink"), [Kurumin
-Linux](https://zh.wikipedia.org/wiki/Kurumin_Linux "wikilink"), [Linux
-Mint](../Page/Linux_Mint.md "wikilink"), [Lunar
-Linux](https://zh.wikipedia.org/wiki/Lunar_Linux "wikilink"), [Musix
-GNU+Linux](https://zh.wikipedia.org/wiki/Musix "wikilink"),
-[NimbleX](https://zh.wikipedia.org/wiki/NimbleX "wikilink"),
-[NUbuntu](https://zh.wikipedia.org/wiki/NUbuntu "wikilink"),
-[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink"), Paipix,
-[Pardus](https://zh.wikipedia.org/wiki/Pardus_\(operating_system\) "wikilink"),
-[Parsix](https://zh.wikipedia.org/wiki/Parsix "wikilink"),
-[PCLinuxOS](../Page/PCLinuxOS.md "wikilink"), [Puppy
-Linux](../Page/Puppy_Linux.md "wikilink"), QiLinux,
-[SabayonLinux](https://zh.wikipedia.org/wiki/SabayonLinux "wikilink"),
-Satux, [Scientific Linux](../Page/Scientific_Linux.md "wikilink"),
-[sidux](https://zh.wikipedia.org/wiki/sidux "wikilink"),
-[Slackware](../Page/Slackware.md "wikilink"),
-[SLAX](https://zh.wikipedia.org/wiki/SLAX "wikilink"), [SliTaz
-GNU/Linux](https://zh.wikipedia.org/wiki/SliTaz_GNU/Linux "wikilink"),
-[Source Mage
-GNU/Linux](https://zh.wikipedia.org/wiki/Source_Mage_GNU/Linux "wikilink"),
-[Symphony OS](https://zh.wikipedia.org/wiki/Symphony_OS "wikilink"),
-[SYS](https://zh.wikipedia.org/wiki/SYS_\(Linux_distribution\) "wikilink"),
-[Trustix](https://zh.wikipedia.org/wiki/Trustix "wikilink"),
-[Ubuntu](../Page/Ubuntu.md "wikilink"), [Ututo
-GNU/Linux](https://zh.wikipedia.org/wiki/Ututo "wikilink"),
-[Xubuntu](../Page/Xubuntu.md "wikilink"), [XBMC
-Live](https://zh.wikipedia.org/wiki/XBMC_Live "wikilink"),
-[Yoper和](https://zh.wikipedia.org/wiki/Yoper "wikilink")[Zenwalk](https://zh.wikipedia.org/wiki/Zenwalk "wikilink").
+以下发行版完全免费：[aLinux](https://zh.wikipedia.org/wiki/aLinux "wikilink")，[ALT Linux](https://zh.wikipedia.org/wiki/ALT_Linux "wikilink")，[Annvix](https://zh.wikipedia.org/wiki/Annvix "wikilink")，[Arch Linux](../Page/Arch_Linux.md "wikilink")，[Ark Linux](https://zh.wikipedia.org/wiki/Ark_Linux "wikilink")，Arudius，[Asianux](https://zh.wikipedia.org/wiki/Asianux "wikilink")，Aurox, [BLAG Linux and GNU](https://zh.wikipedia.org/wiki/BLAG_Linux_and_GNU "wikilink"), [CentOS](../Page/CentOS.md "wikilink"), [CRUX](https://zh.wikipedia.org/wiki/CRUX "wikilink"), [Damn Small Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink"), [Debian](../Page/Debian.md "wikilink"), [DeLi Linux](https://zh.wikipedia.org/wiki/DeLi_Linux "wikilink"), [DeMuDi](https://zh.wikipedia.org/wiki/DeMuDi "wikilink"), [Devil-Linux](https://zh.wikipedia.org/wiki/Devil-Linux "wikilink"), [dyne:bolic](https://zh.wikipedia.org/wiki/dyne:bolic "wikilink"), [Easy Peasy](https://zh.wikipedia.org/wiki/Easy_Peasy "wikilink"), [Edubuntu](../Page/Edubuntu.md "wikilink"), [EnGarde Secure Linux](https://zh.wikipedia.org/wiki/EnGarde_Secure_Linux "wikilink"), [Fedora](../Page/Fedora.md "wikilink"), [Finnix](https://zh.wikipedia.org/wiki/Finnix "wikilink"), [Foresight Linux](https://zh.wikipedia.org/wiki/Foresight_Linux "wikilink"), [Freespire](https://zh.wikipedia.org/wiki/Freespire "wikilink"), [Frugalware](https://zh.wikipedia.org/wiki/Frugalware "wikilink"), [Gentoo](../Page/Gentoo_Linux.md "wikilink"), [gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink"), [Gnoppix](https://zh.wikipedia.org/wiki/Gnoppix "wikilink"), [gnuLinEx](https://zh.wikipedia.org/wiki/gnuLinEx "wikilink"), [GoboLinux](../Page/GoboLinux.md "wikilink"), [Gobuntu](../Page/Gobuntu.md "wikilink"), [Impi Linux](https://zh.wikipedia.org/wiki/Impi_Linux "wikilink"), [Kanotix](https://zh.wikipedia.org/wiki/Kanotix "wikilink"), [Knoppix](../Page/Knoppix.md "wikilink"), [Knoppmyth](https://zh.wikipedia.org/wiki/Knoppmyth "wikilink"), [Kubuntu](../Page/Kubuntu.md "wikilink"), [Kurumin Linux](https://zh.wikipedia.org/wiki/Kurumin_Linux "wikilink"), [Linux Mint](../Page/Linux_Mint.md "wikilink"), [Lunar Linux](https://zh.wikipedia.org/wiki/Lunar_Linux "wikilink"), [Musix GNU+Linux](https://zh.wikipedia.org/wiki/Musix "wikilink"), [NimbleX](https://zh.wikipedia.org/wiki/NimbleX "wikilink"), [NUbuntu](https://zh.wikipedia.org/wiki/NUbuntu "wikilink"), [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink"), Paipix, [Pardus](https://zh.wikipedia.org/wiki/Pardus_\(operating_system\) "wikilink"), [Parsix](https://zh.wikipedia.org/wiki/Parsix "wikilink"), [PCLinuxOS](../Page/PCLinuxOS.md "wikilink"), [Puppy Linux](../Page/Puppy_Linux.md "wikilink"), QiLinux, [SabayonLinux](https://zh.wikipedia.org/wiki/SabayonLinux "wikilink"), Satux, [Scientific Linux](../Page/Scientific_Linux.md "wikilink"), [sidux](https://zh.wikipedia.org/wiki/sidux "wikilink"), [Slackware](../Page/Slackware.md "wikilink"), [SLAX](https://zh.wikipedia.org/wiki/SLAX "wikilink"), [SliTaz GNU/Linux](https://zh.wikipedia.org/wiki/SliTaz_GNU/Linux "wikilink"), [Source Mage GNU/Linux](https://zh.wikipedia.org/wiki/Source_Mage_GNU/Linux "wikilink"), [Symphony OS](https://zh.wikipedia.org/wiki/Symphony_OS "wikilink"), [SYS](https://zh.wikipedia.org/wiki/SYS_\(Linux_distribution\) "wikilink"), [Trustix](https://zh.wikipedia.org/wiki/Trustix "wikilink"), [Ubuntu](../Page/Ubuntu.md "wikilink"), [Ututo GNU/Linux](https://zh.wikipedia.org/wiki/Ututo "wikilink"), [Xubuntu](../Page/Xubuntu.md "wikilink"), [XBMC Live](https://zh.wikipedia.org/wiki/XBMC_Live "wikilink"), [Yoper和](https://zh.wikipedia.org/wiki/Yoper "wikilink")[Zenwalk](https://zh.wikipedia.org/wiki/Zenwalk "wikilink").
 
-以下发行版有不同版本，其中一些免费而另外的则需要付费：[Caixa
-Mágica](https://zh.wikipedia.org/wiki/Caixa_Mágica "wikilink"),
-[Mandriva Linux](../Page/Mandriva_Linux.md "wikilink"),
-[MEPIS和](https://zh.wikipedia.org/wiki/MEPIS "wikilink")[Red Flag
-Linux](https://zh.wikipedia.org/wiki/Red_Flag_Linux "wikilink").
+以下发行版有不同版本，其中一些免费而另外的则需要付费：[Caixa Mágica](https://zh.wikipedia.org/wiki/Caixa_Mágica "wikilink"), [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink"), [MEPIS和](https://zh.wikipedia.org/wiki/MEPIS "wikilink")[Red Flag Linux](https://zh.wikipedia.org/wiki/Red_Flag_Linux "wikilink").
 
-以下发行版需要付费：[Elive](https://zh.wikipedia.org/wiki/Elive "wikilink"),
-[Linspire](../Page/Linspire.md "wikilink"),\[6\][Novell Open Enterprise
-Server](https://zh.wikipedia.org/wiki/Novell_Open_Enterprise_Server "wikilink"),\[7\]Pie
-Box Enterprise Linux, [Red Hat Enterprise
-Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink"),\[8\]\[9\][Rxart](https://zh.wikipedia.org/wiki/Rxart "wikilink"),\[10\][SUSE
-Linux
-Enterprise](https://zh.wikipedia.org/wiki/SUSE_Linux_distributions "wikilink").\[11\]
+以下发行版需要付费：[Elive](https://zh.wikipedia.org/wiki/Elive "wikilink"), [Linspire](../Page/Linspire.md "wikilink"),\[6\][Novell Open Enterprise Server](https://zh.wikipedia.org/wiki/Novell_Open_Enterprise_Server "wikilink"),\[7\]Pie Box Enterprise Linux, [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink"),\[8\]\[9\][Rxart](https://zh.wikipedia.org/wiki/Rxart "wikilink"),\[10\][SUSE Linux Enterprise](https://zh.wikipedia.org/wiki/SUSE_Linux_distributions "wikilink").\[11\]
 
-请注意這裡谈论的是"自由软件"（free
-software），"free"这个词通常指软件的自由使用，而非免费：对于这个不同的解释，参见[自由软件](../Page/自由软件.md "wikilink")定义。
+请注意這裡谈论的是"自由软件"（free software），"free"这个词通常指软件的自由使用，而非免费：对于这个不同的解释，参见[自由软件](../Page/自由软件.md "wikilink")定义。
 
 ## 技术
 
@@ -4179,95 +4109,54 @@ edition</p></td>
 
 ## 外部連結
 
-  - [DistroWatch](https://web.archive.org/web/20160601200956/http://distrowatch.com/)
-    - Compares all significant Linux distributions in detail, and was a
-    source for some information shown here.
-  - [DistroList](https://web.archive.org/web/20100429221927/http://www.distrolist.com/)
-    - 关注Linux & BSD相关资讯，跟踪发行版最新动态。
-  - [LWN.net Linux Distribution List](http://lwn.net/Distributions/) - A
-    comprehensive list of hundreds of distributions, including
-    historical ones.
-  - [PolishLinux.org Compare
-    distros](https://web.archive.org/web/20090605222939/http://polishlinux.org/choose/comparison/)
-    - Detailed comparison of Linux distributions (outdated)
-  - [How to choose a Linux
-    distro](https://zh.wikipedia.org/wiki/Appropedia:How_to_choose_a_Linux_distro "wikilink")
+  - [DistroWatch](https://web.archive.org/web/20160601200956/http://distrowatch.com/) - Compares all significant Linux distributions in detail, and was a source for some information shown here.
+  - [DistroList](https://web.archive.org/web/20100429221927/http://www.distrolist.com/) - 关注Linux & BSD相关资讯，跟踪发行版最新动态。
+  - [LWN.net Linux Distribution List](http://lwn.net/Distributions/) - A comprehensive list of hundreds of distributions, including historical ones.
+  - [PolishLinux.org Compare distros](https://web.archive.org/web/20090605222939/http://polishlinux.org/choose/comparison/) - Detailed comparison of Linux distributions (outdated)
+  - [How to choose a Linux distro](https://zh.wikipedia.org/wiki/Appropedia:How_to_choose_a_Linux_distro "wikilink")
 
-[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
-[Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
+[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
 
-1.  [BLAG Linux And GNU - BLAG 90001 (oxygen)
-    Released](http://forums.blagblagblag.org/viewtopic.php?t=4828)
+1.  [BLAG Linux And GNU - BLAG 90001 (oxygen) Released](http://forums.blagblagblag.org/viewtopic.php?t=4828)
 2.
 3.  [satux](http://www.satux.org.br/)
 4.  \[<http://ftp1.us.proftpd.org/pub/historic-linux/distributions/jurix/README.txt>
 5.  <http://ftp.tu-chemnitz.de/pub/linux/SYS/>
-6.  [Linspire.com -
-    Products](http://shop.linspire.com/shopping/shopping_cartcontents.php)
-7.  [How to Buy: Novell Open Enterprise
-    Server 2](http://www.novell.com/products/openenterpriseserver/howtobuy.html)
-8.  [redhat.com | Red Hat Enterprise
-    Linux](https://www.redhat.com/apps/store/server/rhel.html)
-9.  [redhat.com | Red Hat Enterprise Linux Desktop Operating
-    Systems](https://www.redhat.com/apps/store/desktop/)
-10. [Linux- RXART- Soluciones Linux - Linux
-    Solutions](http://www.rxart.com.ar/ventas/ventas.htm)
-11. [SUSE Linux Enterprise Operating Systems from
-    Novell](http://www.novell.com/linux)
-12. [Pkg: kernel26 - Arch Linux Package
-    Details](http://www.archlinux.org/packages/core/i686/kernel26/)
-13. [Pkg: gcc - Arch Linux Package
-    Details](http://www.archlinux.org/packages/core/i686/gcc/)
-14. [Official Arch Linux Install Guide: Set Filesystem
-    Mountpoints](http://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide#Set_Filesystem_Mountpoints)
+6.  [Linspire.com - Products](http://shop.linspire.com/shopping/shopping_cartcontents.php)
+7.  [How to Buy: Novell Open Enterprise Server 2](http://www.novell.com/products/openenterpriseserver/howtobuy.html)
+8.  [redhat.com | Red Hat Enterprise Linux](https://www.redhat.com/apps/store/server/rhel.html)
+9.  [redhat.com | Red Hat Enterprise Linux Desktop Operating Systems](https://www.redhat.com/apps/store/desktop/)
+10. [Linux- RXART- Soluciones Linux - Linux Solutions](http://www.rxart.com.ar/ventas/ventas.htm)
+11. [SUSE Linux Enterprise Operating Systems from Novell](http://www.novell.com/linux)
+12. [Pkg: kernel26 - Arch Linux Package Details](http://www.archlinux.org/packages/core/i686/kernel26/)
+13. [Pkg: gcc - Arch Linux Package Details](http://www.archlinux.org/packages/core/i686/gcc/)
+14. [Official Arch Linux Install Guide: Set Filesystem Mountpoints](http://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide#Set_Filesystem_Mountpoints)
 15. [Installing - ArkWiki](http://wiki.arklinux.org/Installing)
 16. <http://foo-projects.org/git/?p=lunar/moonbase.git;a=blob_plain;f=compilers/gcc/DETAILS;hb=HEAD>
-17. [redhat.com |
-    Knowledgebase](http://kbase.redhat.com/faq/FAQ_41_5859.shtm)
+17. [redhat.com | Knowledgebase](http://kbase.redhat.com/faq/FAQ_41_5859.shtm)
 18. <http://forum.sabayonlinux.org/viewtopic.php?f=60&t=16766>
-19. [Installing Slackware 12 on Linux Software RAID and
-    LVM2](http://pumpump.blogspot.com/2007/07/installing-slackware-12-on-linux.html)
+19. [Installing Slackware 12 on Linux Software RAID and LVM2](http://pumpump.blogspot.com/2007/07/installing-slackware-12-on-linux.html)
 20. <ftp://ftp5.gwdg.de/pub/linux/install/sys/>
 21. <http://guyane.dyn-o-saur.com/info.php>
 22. [Debian - Ports](http://www.debian.org/ports/)
-23. [Fedora Architecture Specific
-    Notes](http://fedoraproject.org/wiki/Docs/Beats/ArchSpecific)
+23. [Fedora Architecture Specific Notes](http://fedoraproject.org/wiki/Docs/Beats/ArchSpecific)
 24.
 25.
 26.
-27. [GoboLinux - the alternative Linux
-    distribution](http://gobolinux.org/index.php?page=doc/articles/going_embedded)
+27. [GoboLinux - the alternative Linux distribution](http://gobolinux.org/index.php?page=doc/articles/going_embedded)
 28. [openSUSE download page](http://software.opensuse.org/)
-29. [Red Hat Enterprise Linux Server Version comparison
-    chart](http://www.redhat.com/rhel/compare/)
-30. RHEL 4 is the last version to support 31-bit s390. RHEL 5 only
-    supports 64-bit s390x.
-31. [SUSE Linux Enterprise Server Tech
-    Specs](http://www.novell.com/products/server/techspecs.html)
+29. [Red Hat Enterprise Linux Server Version comparison chart](http://www.redhat.com/rhel/compare/)
+30. RHEL 4 is the last version to support 31-bit s390. RHEL 5 only supports 64-bit s390x.
+31. [SUSE Linux Enterprise Server Tech Specs](http://www.novell.com/products/server/techspecs.html)
 32. <http://sisyphus.ru/>
-33. [BLAG :: View topic - rolling or
-    frozen](http://forums.blagblagblag.org/viewtopic.php?p=25681#25681)
-34. [Foresight Linux | 1.4.1 Release
-    Notes](http://www.foresightlinux.org/releases/1_4_1/)
-35. Can be installed graphically (GTK+ and ncurses), but traditionally
-    done by command line (install cd, live cd, netboot, and from
-    distributions).
-36. [GoboLinux - the alternative Linux
-    distribution](http://gobolinux.org/index.php?lang=en_US&page=manager)
-
-37. [Mandriva 2008 release
-    notes](http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Notes#Package_management)
-
-38. [Ncurses](../Page/Ncurses.md "wikilink")-based first stage and then
-    [KDE](../Page/KDE.md "wikilink")-based second stage installation
-    GUI.
+33. [BLAG :: View topic - rolling or frozen](http://forums.blagblagblag.org/viewtopic.php?p=25681#25681)
+34. [Foresight Linux | 1.4.1 Release Notes](http://www.foresightlinux.org/releases/1_4_1/)
+35. Can be installed graphically (GTK+ and ncurses), but traditionally done by command line (install cd, live cd, netboot, and from distributions).
+36. [GoboLinux - the alternative Linux distribution](http://gobolinux.org/index.php?lang=en_US&page=manager)
+37. [Mandriva 2008 release notes](http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Notes#Package_management)
+38. [Ncurses](../Page/Ncurses.md "wikilink")-based first stage and then [KDE](../Page/KDE.md "wikilink")-based second stage installation GUI.
 39.
-40. {{ cite web |
-    url=<http://docs.fedoraproject.org/release-notes/fc1/x86/#kernel-notes>
-    | title=Fedora Core 1 Release Notes - Kernel Notes |
-    accessdate=2007-12-24 }}
-41. {{ cite web |
-    url=<http://www.gentoo.org/proj/en/hardened/#doc_chap4> |
-    title=Hardened Gentoo - 4. Subprojects | accessdate=2007-12-24 }}
+40. {{ cite web | url=<http://docs.fedoraproject.org/release-notes/fc1/x86/#kernel-notes> | title=Fedora Core 1 Release Notes - Kernel Notes | accessdate=2007-12-24 }}
+41. {{ cite web | url=<http://www.gentoo.org/proj/en/hardened/#doc_chap4> | title=Hardened Gentoo - 4. Subprojects | accessdate=2007-12-24 }}
 42.
 43.

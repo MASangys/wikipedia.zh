@@ -1,7 +1,6 @@
-《**now早晨**》（）是一個[ViuTV](../Page/ViuTV.md "wikilink")、
-[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台聯播的](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[香港晨早新聞節目](../Page/香港.md "wikilink")，每日六點起開始提供天氣、交通、本地同國際新聞，還有環球金融消息，等觀眾在上班之前，都能夠盡握時事脈搏。ViuTV節目表內以《早晨新聞》名義播出。
+《**now早晨**》（）是一個[ViuTV](../Page/ViuTV.md "wikilink")、 [now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台聯播的](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[香港](../Page/香港.md "wikilink")晨早新聞節目，每日六點起開始提供天氣、交通、本地同國際新聞，還有環球金融消息，等觀眾在上班之前，都能夠盡握時事脈搏。ViuTV節目表內以《早晨新聞》名義播出。
 
-節目由[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[新聞資訊部製作](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")。香港其他電視台同類節目有[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[香港早晨](../Page/香港早晨.md "wikilink")》、[有線電視新聞台的](https://zh.wikipedia.org/wiki/香港有線電視新聞台 "wikilink")《[Cable早晨](../Page/Cable早晨.md "wikilink")》和[港台電視的](../Page/港台電視.md "wikilink")《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》。
+節目由[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[新聞資訊部製作](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")。香港其他電視台同類節目有[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[香港早晨](../Page/香港早晨.md "wikilink")》、[有線電視新聞台的](https://zh.wikipedia.org/wiki/香港有線電視新聞台 "wikilink")《[Cable早晨](../Page/Cable早晨.md "wikilink")》和[港台電視](../Page/港台電視.md "wikilink")的《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》。
 
 ## 節目歷史
 
@@ -11,14 +10,14 @@
 
 2009年12月14日起，[熒幕](https://zh.wikipedia.org/wiki/熒幕 "wikilink")[佈景改版](https://zh.wikipedia.org/wiki/佈景 "wikilink")，now香港台亦改為只於星期一至五聯播。2011年3月7日起，now財經台改為星期一至五（港股交易日）提前至08:30結束，因《牛熊先機》提早播映，而星期一至五（公眾假期）及星期六、日才全面聯播。同日起now香港台更取消聯播。
 
-2016年4月6日，《now早晨》逢星期一至五（公眾假期）及星期六播放廣告時間由每15分鐘改為10分鐘，逢星期日每節改為10分鐘；同日上午6時，[ViuTV啟播](../Page/ViuTV.md "wikilink")，《now早晨》再次三台聯播。（節目表顯示以《早晨新聞》名義播放；星期一至五ViuTV會完全同步播出，而星期六、日則會同步至08:00）
+2016年4月6日，《now早晨》逢星期一至五（公眾假期）及星期六播放廣告時間由每15分鐘改為10分鐘，逢星期日每節改為10分鐘；同日上午6時，[ViuTV](../Page/ViuTV.md "wikilink")啟播，《now早晨》再次三台聯播。（節目表顯示以《早晨新聞》名義播放；星期一至五ViuTV會完全同步播出，而星期六、日則會同步至08:00）
 
 2018年8月13日起，《now早晨》改以高清播出，採用新的主播桌和電視螢幕背景，惟自2013年12月30日起提供的梳化景全數取消。
 
 ## 播放時間
 
-  - 背景為「」代表與[ViuTV同步](../Page/ViuTV.md "wikilink")。
-  - 背景為「」代表該節只在[now新聞台和](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")[ViuTV播出](../Page/ViuTV.md "wikilink")，而[now財經台則不會聯播](https://zh.wikipedia.org/wiki/now財經台 "wikilink")。
+  - 背景為「」代表與[ViuTV](../Page/ViuTV.md "wikilink")同步。
+  - 背景為「」代表該節只在[now新聞台和](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")播出，而[now財經台則不會聯播](https://zh.wikipedia.org/wiki/now財經台 "wikilink")。
   - 約每10-12分鐘播一次廣告。
 
 |       |              |              |
@@ -85,18 +84,11 @@
 
   - 2017年2月12日（星期日）：由於06:00-09:15直播《[渣打香港馬拉松](../Page/渣打香港馬拉松.md "wikilink")2017》，當日暫停播映。
   - 2017年7月1日（星期六）：由於直播回歸20週年升旗儀式及報道回歸20年相關新聞，當日延至08:55結束。
-  - 2017年7月23日（星期日）：由於06:00-08:00直播《[國際冠軍盃
-    2017](../Page/2017年國際冠軍盃.md "wikilink") - 祖雲達斯 對
-    巴塞隆拿》，當日暫停播映。
-  - 2018年1月18日（星期四）：由於03:35-05:45直播《[英格蘭足總盃
-    17/18](../Page/英格蘭足總盃.md "wikilink") -
-    第三圈重賽：[車路士](https://zh.wikipedia.org/wiki/車路士 "wikilink")
-    對
-    [諾域治](https://zh.wikipedia.org/wiki/諾域治足球會 "wikilink")》超時，當日順延至07:00-09:00播出。
+  - 2017年7月23日（星期日）：由於06:00-08:00直播《[國際冠軍盃 2017](../Page/2017年國際冠軍盃.md "wikilink") - 祖雲達斯 對 巴塞隆拿》，當日暫停播映。
+  - 2018年1月18日（星期四）：由於03:35-05:45直播《[英格蘭足總盃 17/18](../Page/英格蘭足總盃.md "wikilink") - 第三圈重賽：[車路士](https://zh.wikipedia.org/wiki/車路士 "wikilink") 對 [諾域治](https://zh.wikipedia.org/wiki/諾域治足球會 "wikilink")》超時，當日順延至07:00-09:00播出。
   - 2018年9月8日（星期六）：由於Now新聞台技術問題，當日06:00-06:30及06:30-06:50誤播前一日23:30的《[Now深宵新聞](../Page/Now深宵新聞.md "wikilink")》，當日《Now早晨》延至06:50播映。
   - 2019年2月17日（星期日）：由於06:00-09:15直播《[渣打香港馬拉松](../Page/渣打香港馬拉松.md "wikilink")2019》，當日暫停播映。
-  - 2019年6月3日（星期一）：由於08:00-10:30直播《[NBA總決賽](../Page/NBA.md "wikilink")：金州勇士
-    對 多倫多速龍》，當日提早至07:55結束。
+  - 2019年6月3日（星期一）：由於08:00-10:30直播《[NBA](../Page/NBA.md "wikilink")總決賽：金州勇士 對 多倫多速龍》，當日提早至07:55結束。
 
 ## 曾播放環節
 
@@ -118,8 +110,4 @@
   - [時事9點鐘](../Page/時事9點鐘.md "wikilink")
   - [now深宵新聞](https://zh.wikipedia.org/wiki/now深宵新聞 "wikilink")
 
-[Category:香港電視娛樂新聞財經節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂新聞財經節目 "wikilink")
-[Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink")
-[Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink")
-[Category:香港電視新聞節目](https://zh.wikipedia.org/wiki/Category:香港電視新聞節目 "wikilink")
-[Category:早間電視節目](https://zh.wikipedia.org/wiki/Category:早間電視節目 "wikilink")
+[Category:香港電視娛樂新聞財經節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂新聞財經節目 "wikilink") [Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港電視新聞節目](https://zh.wikipedia.org/wiki/Category:香港電視新聞節目 "wikilink") [Category:早間電視節目](https://zh.wikipedia.org/wiki/Category:早間電視節目 "wikilink")

@@ -1,5 +1,4 @@
-**SD高達外傳
-捷古自護篇**是SD高達外傳首部作品。故事以中古歐洲[騎士為藍本設計](https://zh.wikipedia.org/wiki/騎士 "wikilink")，推出後大受歡迎，隨後更推出多部續作，與[SD戰國傳](https://zh.wikipedia.org/wiki/SD戰國傳 "wikilink")、[SD司令戰記G](https://zh.wikipedia.org/wiki/SD司令戰記 "wikilink")-ARMS並列SD高達三大系列。
+**SD高達外傳 捷古自護篇**是SD高達外傳首部作品。故事以中古歐洲[騎士為藍本設計](https://zh.wikipedia.org/wiki/騎士 "wikilink")，推出後大受歡迎，隨後更推出多部續作，與[SD戰國傳](https://zh.wikipedia.org/wiki/SD戰國傳 "wikilink")、[SD司令戰記G](https://zh.wikipedia.org/wiki/SD司令戰記 "wikilink")-ARMS並列SD高達三大系列。
 
 ## 故事簡介
 
@@ -31,8 +30,7 @@
 
 ### 拉克罗亚王國
 
-**騎士高達**（騎士高達：RX-78 Gundam & RX-166 Gundam Mk-III／三神器：Full Armor
-Gundam／全能骑士：Super Gundam）
+**騎士高達**（騎士高達：RX-78 Gundam & RX-166 Gundam Mk-III／三神器：Full Armor Gundam／全能骑士：Super Gundam）
 
 推出商品﹕BB戰士43號、72號、元祖高達系列、SDX系列玩具。
 
@@ -141,18 +139,15 @@ Gundam／全能骑士：Super Gundam）
   -
     「鎧鬥神戰記」中，「豎琴」被騎士卡特爾所繼承。
 
-**騎士[阿姆羅](https://zh.wikipedia.org/wiki/阿姆羅 "wikilink")**(基本鎧甲﹕原創;
-升級鎧甲﹕Dijen)
+**騎士[阿姆羅](https://zh.wikipedia.org/wiki/阿姆羅 "wikilink")**(基本鎧甲﹕原創; 升級鎧甲﹕Dijen)
 
   -
-    拉克罗亚年輕騎士，最初與騎士高達一行人，共同討伐[撒旦高達](https://zh.wikipedia.org/wiki/撒旦 "wikilink")，戰後獨自離隊，到達Algus王國，並且團結因騎士-{zh-hk:阿歷斯;zh-cn:阿雷克斯;zh-tw:阿雷克斯;}-
-    失蹤變成一盤散沙的騎士團，打倒魔物The-O。因為不獲豎琴選取，未能參與討伐吉翁萬歲的作戰，但雷比爾國王則認為是上天希望[阿姆羅繼承騎士高達](https://zh.wikipedia.org/wiki/阿姆羅 "wikilink")，守護拉克罗亚的重任所致。
+    拉克罗亚年輕騎士，最初與騎士高達一行人，共同討伐[撒旦高達](https://zh.wikipedia.org/wiki/撒旦 "wikilink")，戰後獨自離隊，到達Algus王國，並且團結因騎士-{zh-hk:阿歷斯;zh-cn:阿雷克斯;zh-tw:阿雷克斯;}- 失蹤變成一盤散沙的騎士團，打倒魔物The-O。因為不獲豎琴選取，未能參與討伐吉翁萬歲的作戰，但雷比爾國王則認為是上天希望[阿姆羅繼承騎士高達](https://zh.wikipedia.org/wiki/阿姆羅 "wikilink")，守護拉克罗亚的重任所致。
 
 <!-- end list -->
 
   -
-    於[SD高達外傳 聖機兵物語與](../Page/SD_GUNDAM外傳_聖機兵物語.md "wikilink")[SD高達外傳
-    機甲神傳說亦有出場](../Page/SD_GUNDAM外傳_機甲神傳說.md "wikilink")，成為拉克罗亚騎士團團長。
+    於[SD高達外傳 聖機兵物語與](../Page/SD_GUNDAM外傳_聖機兵物語.md "wikilink")[SD高達外傳 機甲神傳說亦有出場](../Page/SD_GUNDAM外傳_機甲神傳說.md "wikilink")，成為拉克罗亚騎士團團長。
 
 ##### 騎馬隊
 
@@ -220,8 +215,7 @@ Gundam／全能骑士：Super Gundam）
 
   -
     Algus王國法術隊隊長，自稱「首位使用魔法的GUNDAM」，所以亦起名「ν（Nu）」，即是「新」的意思。與騎士亞歷斯，同樣出身於騎士世家，不過在僧侶太空坦克II門下修行後，逐漸由騎士轉職為僧侶。家族成員分別有表弟劍士Z高達、以及騎士靈．格斯，彼此既是表兄弟，同時兩人亦是其弟子。裝備傳說武器「梟之杖」。最初反對由身為人類的阿姆羅領導Algus騎士，但當他看到阿姆羅確實勝任擔當領袖後，亦逐漸接受。
-    武器是有著貓頭鷹臉孔的錫杖「梟之杖」，以及背上六枚的-{zh-hk:飛翅炮;zh-cn:飞翅炮;zh-tw:鰭型漏斗砲;}-(Fin
-    Funnel)。「鎧鬥神戰記」中，「梟之杖」被法術士迪奧所繼承。
+    武器是有著貓頭鷹臉孔的錫杖「梟之杖」，以及背上六枚的-{zh-hk:飛翅炮;zh-cn:飞翅炮;zh-tw:鰭型漏斗砲;}-(Fin Funnel)。「鎧鬥神戰記」中，「梟之杖」被法術士迪奧所繼承。
     2010年，Bandai在新系列SDX中推出法術士ν。
 
 **僧侶-{zh-hk:密達斯;zh-cn:梅达斯;zh-tw:梅達斯;}-**（MSA-005）
@@ -261,8 +255,7 @@ Gundam／全能骑士：Super Gundam）
 <!-- end list -->
 
   -
-    捷古自護手下，與騎士高達，同為頑馱無真惡參分身，是真惡參的「惡之心」(八人眾時期為謀奪頑馱無軍，盜取「銀之盾」的邪惡一面)。被一分為二後與地上世界的黑龍融合，借用為假肉身而復活，不過被捷古自護洗腦而失去記憶。性格豪快，野心勃勃，企圖將拉克罗亚人類趕盡殺絕，建立一個只有MS的世界。最初被騎士高達刺中腹中弱點「六芒星」而死，然而[撒旦高達及時將靈魂依附在戰士鐳射炮身上](https://zh.wikipedia.org/wiki/撒旦 "wikilink")，肉身則轉生為寶貝龍(ドラゴンベビー)，後來靈魂與寶貝龍在火山口中，與之前刺進[撒旦高達身上的](https://zh.wikipedia.org/wiki/撒旦 "wikilink")「炎之劍」融合，成為新生黑龍（Neo
-    Black Dragon/ネオブラックドラゴン）。最後與騎士高達再度融合，重生成為「超越之龍」（SUPERIOR DRAGON）。
+    捷古自護手下，與騎士高達，同為頑馱無真惡參分身，是真惡參的「惡之心」(八人眾時期為謀奪頑馱無軍，盜取「銀之盾」的邪惡一面)。被一分為二後與地上世界的黑龍融合，借用為假肉身而復活，不過被捷古自護洗腦而失去記憶。性格豪快，野心勃勃，企圖將拉克罗亚人類趕盡殺絕，建立一個只有MS的世界。最初被騎士高達刺中腹中弱點「六芒星」而死，然而[撒旦高達及時將靈魂依附在戰士鐳射炮身上](https://zh.wikipedia.org/wiki/撒旦 "wikilink")，肉身則轉生為寶貝龍(ドラゴンベビー)，後來靈魂與寶貝龍在火山口中，與之前刺進[撒旦高達身上的](https://zh.wikipedia.org/wiki/撒旦 "wikilink")「炎之劍」融合，成為新生黑龍（Neo Black Dragon/ネオブラックドラゴン）。最後與騎士高達再度融合，重生成為「超越之龍」（SUPERIOR DRAGON）。
 
 <!-- end list -->
 
@@ -367,10 +360,7 @@ Gundam／全能骑士：Super Gundam）
 <!-- end list -->
 
   -
-    名稱來自[機動戰士高達中](../Page/機動戰士GUNDAM.md "wikilink")[吉翁公國軍人口號](../Page/吉翁公國.md "wikilink")「ジーク·ジオン！」（SIEG
-    吉翁，[德文意思即是](https://zh.wikipedia.org/wiki/德文 "wikilink")「吉翁萬歲\!」），也是包括「[SD高達外傳
-    聖機兵物語](../Page/SD_GUNDAM外傳_聖機兵物語.md "wikilink")」及「[SD高達外傳
-    機甲神傳說](../Page/SD_GUNDAM外傳_機甲神傳說.md "wikilink")」的終極惡魔。
+    名稱來自[機動戰士高達中](../Page/機動戰士GUNDAM.md "wikilink")[吉翁公國](../Page/吉翁公國.md "wikilink")軍人口號「ジーク·ジオン！」（SIEG 吉翁，[德文意思即是](https://zh.wikipedia.org/wiki/德文 "wikilink")「吉翁萬歲\!」），也是包括「[SD高達外傳 聖機兵物語](../Page/SD_GUNDAM外傳_聖機兵物語.md "wikilink")」及「[SD高達外傳 機甲神傳說](../Page/SD_GUNDAM外傳_機甲神傳說.md "wikilink")」的終極惡魔。
 
 **騎士-{zh-hk:京·密煞;zh-cn:昆·曼莎;zh-tw:昆·曼莎;}-**（NZ-000）
 
@@ -457,13 +447,10 @@ Gundam／全能骑士：Super Gundam）
 
 遊戲
 
-  - 「SD高達外傳
-    騎士高達物語」（[FC](https://zh.wikipedia.org/wiki/紅白機 "wikilink")）1990年
+  - 「SD高達外傳 騎士高達物語」（[FC](https://zh.wikipedia.org/wiki/紅白機 "wikilink")）1990年
   - 「SD高達外傳 拉克罗亚的英雄」（[GB](../Page/Game_Boy.md "wikilink")）1990年
-  - 「SD高達外傳 騎士高達物語2
-    光之騎士」（[FC](https://zh.wikipedia.org/wiki/紅白機 "wikilink")）1991年
-  - 「SD高達外傳 騎士高達物語3
-    傳說之騎士團」（[FC](https://zh.wikipedia.org/wiki/紅白機 "wikilink")）1992年
+  - 「SD高達外傳 騎士高達物語2 光之騎士」（[FC](https://zh.wikipedia.org/wiki/紅白機 "wikilink")）1991年
+  - 「SD高達外傳 騎士高達物語3 傳說之騎士團」（[FC](https://zh.wikipedia.org/wiki/紅白機 "wikilink")）1992年
   - 「SD高達外傳 騎士高達物語 大遺産」（[SFC](../Page/超級任天堂.md "wikilink")）1991年
 
 ## 相關連結
@@ -477,6 +464,4 @@ Gundam／全能骑士：Super Gundam）
   - [SD高達系列](../Page/SD_GUNDAM系列.md "wikilink")
   - [SD戰國傳系列](../Page/SD戰國傳系列.md "wikilink")
 
-[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink")
+[Category:SD_GUNDAM外傳](https://zh.wikipedia.org/wiki/Category:SD_GUNDAM外傳 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink")

@@ -257,8 +257,4 @@
   - [凌　漢](https://zh.wikipedia.org/wiki/凌漢 "wikilink") 飾 王　伯
   - [方藹鈴](https://zh.wikipedia.org/wiki/方藹鈴 "wikilink") 飾 周師奶
 
-[Category:1993年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1993年無綫電視劇集 "wikilink")
-[Category:香港警察題材電視劇](https://zh.wikipedia.org/wiki/Category:香港警察題材電視劇 "wikilink")
-[Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink")
-[Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
-[Category:無綫電視推理劇集](https://zh.wikipedia.org/wiki/Category:無綫電視推理劇集 "wikilink")
+[Category:1993年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1993年無綫電視劇集 "wikilink") [Category:香港警察題材電視劇](https://zh.wikipedia.org/wiki/Category:香港警察題材電視劇 "wikilink") [Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink") [Category:無綫電視推理劇集](https://zh.wikipedia.org/wiki/Category:無綫電視推理劇集 "wikilink")

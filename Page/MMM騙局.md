@@ -1,9 +1,8 @@
-**MMM骗局**是在1994年7月[俄罗斯爆发的MMM公司利用股市欺诈性集资的重大事件](../Page/俄罗斯.md "wikilink")，涉及金额达数千亿[卢布](../Page/卢布.md "wikilink")，涉及人数超过1000万。
+**MMM骗局**是在1994年7月[俄罗斯](../Page/俄罗斯.md "wikilink")爆发的MMM公司利用股市欺诈性集资的重大事件，涉及金额达数千亿[卢布](../Page/卢布.md "wikilink")，涉及人数超过1000万。
 
 ## 开始阶段
 
-1990年代，以[谢尔盖·马夫洛蒂](https://zh.wikipedia.org/wiki/谢尔盖·马夫洛蒂 "wikilink")（Sergei
-Mavrodi）为首的三兄弟成立了一家以他们三人名字首字母命名的**MMM投资公司**，号称要将之建成全俄最大的[投资基金](https://zh.wikipedia.org/wiki/投资基金 "wikilink")，专营股票的发行。当时，几乎俄罗斯所有媒体都刊登了MMM公司的集资广告，马夫罗季的名字和MMM公司的名字在舆论媒体中出现的频率甚至超过了[俄罗斯总统](../Page/俄罗斯总统.md "wikilink")[叶利钦等政坛要人](https://zh.wikipedia.org/wiki/鲍里斯·叶利钦 "wikilink")。一时间，MMM公司在俄罗斯家喻户晓，马夫罗季成了俄罗斯人们心目中的中心人物。
+1990年代，以[谢尔盖·马夫洛蒂](https://zh.wikipedia.org/wiki/谢尔盖·马夫洛蒂 "wikilink")（Sergei Mavrodi）为首的三兄弟成立了一家以他们三人名字首字母命名的**MMM投资公司**，号称要将之建成全俄最大的[投资基金](https://zh.wikipedia.org/wiki/投资基金 "wikilink")，专营股票的发行。当时，几乎俄罗斯所有媒体都刊登了MMM公司的集资广告，马夫罗季的名字和MMM公司的名字在舆论媒体中出现的频率甚至超过了[俄罗斯总统](../Page/俄罗斯总统.md "wikilink")[叶利钦等政坛要人](https://zh.wikipedia.org/wiki/鲍里斯·叶利钦 "wikilink")。一时间，MMM公司在俄罗斯家喻户晓，马夫罗季成了俄罗斯人们心目中的中心人物。
 
 ## 发展
 
@@ -17,11 +16,9 @@ MMM公司在俄罗斯主要城市开办了大量分支机构发售股票，并�
 
 ## MMM 骗局的新发展
 
-MMM 骗局在俄罗斯破灭之后，Sergei Mavrodi 被判入狱四年半。Sergei Mavrodi
-出狱后，2011年創立ＭＭＭ國際互助平台，並首創網路賺錢的互助金融，最低投資金額10美元，最高投資金額10000美元，在ＭＭＭ平台主要有兩種功能（提供幫助與得到幫助），提供幫助（投入）時系統會自動匹配給需要幫助進而得到幫助（領出）的會員，得到幫助（領出）時系統會自動匹配正在提供幫助（投入）的會員，藉由會員之間的互助，MMM公司利用自己所管理的私人账号，達到诈骗的目的，平台利用私有僵尸账号，藉由高利息，吸引許多人，於2015年12月中旬，在中国崩溃，又重新诈骗。受害者达到1350万人。目前中国警方正在联系支付宝公司全面调查这MMM传销组织，部分地区的头目已经被拘留审判。
+MMM 骗局在俄罗斯破灭之后，Sergei Mavrodi 被判入狱四年半。Sergei Mavrodi 出狱后，2011年創立ＭＭＭ國際互助平台，並首創網路賺錢的互助金融，最低投資金額10美元，最高投資金額10000美元，在ＭＭＭ平台主要有兩種功能（提供幫助與得到幫助），提供幫助（投入）時系統會自動匹配給需要幫助進而得到幫助（領出）的會員，得到幫助（領出）時系統會自動匹配正在提供幫助（投入）的會員，藉由會員之間的互助，MMM公司利用自己所管理的私人账号，達到诈骗的目的，平台利用私有僵尸账号，藉由高利息，吸引許多人，於2015年12月中旬，在中国崩溃，又重新诈骗。受害者达到1350万人。目前中国警方正在联系支付宝公司全面调查这MMM传销组织，部分地区的头目已经被拘留审判。
 
-MMM倒闭后，又宣布重启，受害者需要投资原资金的十倍来解冻原资金。例如，亏损2万元的会员，需要再投资20万，来赎回2万，也就是再亏损18万。
-MMM是個世紀的騙局不斷的用重啟方式騙走大家的錢，每次皆瞄準散戶口袋的錢，大財團跟馬夫羅季卻口袋賺滿滿。
+MMM倒闭后，又宣布重启，受害者需要投资原资金的十倍来解冻原资金。例如，亏损2万元的会员，需要再投资20万，来赎回2万，也就是再亏损18万。 MMM是個世紀的騙局不斷的用重啟方式騙走大家的錢，每次皆瞄準散戶口袋的錢，大財團跟馬夫羅季卻口袋賺滿滿。
 
 ## 相關條目
 
@@ -30,30 +27,18 @@ MMM是個世紀的騙局不斷的用重啟方式騙走大家的錢，每次皆�
 
 ## 外部連結
 
-  - [A Mavrodi Gets 5 Years in Prison, Moscow Times, 2/14/03,
-    p.3](http://www.themoscowtimes.com/stories/2003/02/14/013.html)
+  - [A Mavrodi Gets 5 Years in Prison, Moscow Times, 2/14/03, p.3](http://www.themoscowtimes.com/stories/2003/02/14/013.html)
 
-  - [Police Track Down MMM Fugitive, Moscow Times, 2/03/03,
-    p.1](http://www.themoscowtimes.com/stories/2003/02/03/003.html)
+  - [Police Track Down MMM Fugitive, Moscow Times, 2/03/03, p.1](http://www.themoscowtimes.com/stories/2003/02/03/003.html)
 
-  - [MMM Pyramid Schemer Busted, Moscow Times, 1/12/01,
-    p.3.](http://www.themoscowtimes.com/stories/2001/01/12/013.html)
+  - [MMM Pyramid Schemer Busted, Moscow Times, 1/12/01, p.3.](http://www.themoscowtimes.com/stories/2001/01/12/013.html)
 
-  - [Mavrodi Accepted Into Duma, Moscow
-    Times, 1/19/95](http://www.themoscowtimes.com/stories/1995/01/19/004.html)
+  - [Mavrodi Accepted Into Duma, Moscow Times, 1/19/95](http://www.themoscowtimes.com/stories/1995/01/19/004.html)
 
-  - [Yeltsin: MMM Not State Matter, Moscow
-    Times, 8/12/94](http://www.themoscowtimes.com/stories/1994/08/12/009.html)
+  - [Yeltsin: MMM Not State Matter, Moscow Times, 8/12/94](http://www.themoscowtimes.com/stories/1994/08/12/009.html)
 
-  - [MMM's Sergei Mavrodi: Behind the Hype, Moscow
-    Times, 8/06/94](http://www.themoscowtimes.com/stories/1994/08/06/002.html)
+  - [MMM's Sergei Mavrodi: Behind the Hype, Moscow Times, 8/06/94](http://www.themoscowtimes.com/stories/1994/08/06/002.html)
 
-  - [1992 MMM TV
-    Commercials](https://web.archive.org/web/20090207123549/http://advertka.ru/media/video/12710/)
+  - [1992 MMM TV Commercials](https://web.archive.org/web/20090207123549/http://advertka.ru/media/video/12710/)
 
-[Category:犯罪](https://zh.wikipedia.org/wiki/Category:犯罪 "wikilink")
-[Category:金融诈骗](https://zh.wikipedia.org/wiki/Category:金融诈骗 "wikilink")
-[Category:俄罗斯联邦金融史](https://zh.wikipedia.org/wiki/Category:俄罗斯联邦金融史 "wikilink")
-[Category:俄罗斯司法史](https://zh.wikipedia.org/wiki/Category:俄罗斯司法史 "wikilink")
-[Category:1994年俄罗斯](https://zh.wikipedia.org/wiki/Category:1994年俄罗斯 "wikilink")
-[Category:1994年7月](https://zh.wikipedia.org/wiki/Category:1994年7月 "wikilink")
+[Category:犯罪](https://zh.wikipedia.org/wiki/Category:犯罪 "wikilink") [Category:金融诈骗](https://zh.wikipedia.org/wiki/Category:金融诈骗 "wikilink") [Category:俄罗斯联邦金融史](https://zh.wikipedia.org/wiki/Category:俄罗斯联邦金融史 "wikilink") [Category:俄罗斯司法史](https://zh.wikipedia.org/wiki/Category:俄罗斯司法史 "wikilink") [Category:1994年俄罗斯](https://zh.wikipedia.org/wiki/Category:1994年俄罗斯 "wikilink") [Category:1994年7月](https://zh.wikipedia.org/wiki/Category:1994年7月 "wikilink")

@@ -1,7 +1,6 @@
 Aquarius是丹麥[歐陸舞曲團體](https://zh.wikipedia.org/wiki/歐陸舞曲 "wikilink")[水叮噹](../Page/水叮噹.md "wikilink")的第二張專輯。
 
-此張專輯與前一張[Aquarium](../Page/Aquarium.md "wikilink")相較下，銷售成績甚不理想，它在[美國電台排行榜](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
-200上停留了6星期，並只拿到\#第82位。
+此張專輯與前一張[Aquarium](../Page/Aquarium.md "wikilink")相較下，銷售成績甚不理想，它在[美國電台排行榜](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink") 200上停留了6星期，並只拿到\#第82位。
 
 ## 單曲排行榜
 
@@ -40,7 +39,4 @@ Aquarius是丹麥[歐陸舞曲團體](https://zh.wikipedia.org/wiki/歐陸舞曲
 1.  Cartoon Heroes (Metro 7" Edit) (4:06)
 2.  Cartoon Heroes (Love To Infinity Classic Radio Mix) (3:08)
 
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:水叮噹專輯](https://zh.wikipedia.org/wiki/Category:水叮噹專輯 "wikilink")
-[Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink")
-[Category:音樂專輯小作品](https://zh.wikipedia.org/wiki/Category:音樂專輯小作品 "wikilink")
+[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:水叮噹專輯](https://zh.wikipedia.org/wiki/Category:水叮噹專輯 "wikilink") [Category:丹麥音樂專輯](https://zh.wikipedia.org/wiki/Category:丹麥音樂專輯 "wikilink") [Category:音樂專輯小作品](https://zh.wikipedia.org/wiki/Category:音樂專輯小作品 "wikilink")

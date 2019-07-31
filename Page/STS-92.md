@@ -10,7 +10,4 @@
   - **[迈克尔·洛佩兹-阿雷格里亚](https://zh.wikipedia.org/wiki/迈克尔·洛佩兹-阿雷格里亚 "wikilink")**（，曾执行、、、以及任务），任务专家
   - **[威廉·麦克阿瑟](https://zh.wikipedia.org/wiki/威廉·麦克阿瑟 "wikilink")**（，曾执行、、、以及任务），任务专家
 
-[Category:2000年美国](https://zh.wikipedia.org/wiki/Category:2000年美国 "wikilink")
-[Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
-[Category:2000年科學](https://zh.wikipedia.org/wiki/Category:2000年科學 "wikilink")
-[Category:2000年10月](https://zh.wikipedia.org/wiki/Category:2000年10月 "wikilink")
+[Category:2000年美国](https://zh.wikipedia.org/wiki/Category:2000年美国 "wikilink") [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink") [Category:2000年科學](https://zh.wikipedia.org/wiki/Category:2000年科學 "wikilink") [Category:2000年10月](https://zh.wikipedia.org/wiki/Category:2000年10月 "wikilink")

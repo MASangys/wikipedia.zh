@@ -1,5 +1,4 @@
-《**Yorosen\!**》（）是[東京電視網](../Page/東京電視網.md "wikilink")從2008年10月6日起至2009年3月27日在[日本時間深夜播出的](https://zh.wikipedia.org/wiki/日本時間 "wikilink")[Hello\!
-Project節目](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，承接原時段的《[Berikyuu\!](https://zh.wikipedia.org/wiki/Berikyuu! "wikilink")》及《[Haromoni@](../Page/Haromoni@.md "wikilink")》。
+《**Yorosen\!**》（）是[東京電視網](../Page/東京電視網.md "wikilink")從2008年10月6日起至2009年3月27日在[日本時間深夜播出的](https://zh.wikipedia.org/wiki/日本時間 "wikilink")[Hello\! Project節目](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，承接原時段的《[Berikyuu\!](https://zh.wikipedia.org/wiki/Berikyuu! "wikilink")》及《[Haromoni@](../Page/Haromoni@.md "wikilink")》。
 
 ## 概要
 
@@ -249,8 +248,7 @@ Project節目](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，承接
 
 ### 希特勒事件
 
-2008年12月4日，節目《[YoroSEN\!](https://zh.wikipedia.org/wiki/YoroSEN! "wikilink")》內一個關於「世界偉人」的環節，舉了[二次大戰的發動者](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")[希特勒作為世界偉人的例子](https://zh.wikipedia.org/wiki/希特勒 "wikilink")。節目中的希特勒以可愛的效果登場，所針對的內容，全是對希特勒演說的稱讚。主持不斷以「希特勒叔叔」稱之，最後更教導[℃-ute](../Page/℃-ute.md "wikilink")成員模仿希特勒說話的語氣。節目播出後，隨即引起網絡的批評，並迅速引起傳媒關注\[2\]，由於批評聲音不斷，[吉本興業](../Page/吉本興業.md "wikilink")的子公司[SSM最終於](https://zh.wikipedia.org/wiki/SSM "wikilink")4日後，在公司主網頁刊登道歉聲明\[3\]，並再次被廣泛報導\[4\]，[東京電視台](../Page/東京電視台.md "wikilink")亦於同日作出簡短道歉\[5\]，節目《YoroSEN\!》亦於下一集播放時先宣讀道歉聲明。節目《YoroSEN\!》在深夜00:53播出，對象主要是Hello\!
-Project的歌迷，向來在逢星期四晚上（星期五凌晨）均能獲得相當理想的收視率（平均高於2%），希特勒那集正是選在星期四播放。那集的主持[中島早貴](../Page/中島早貴.md "wikilink")，只是一位年僅14歲的小女孩，經紀公司事後解釋說她們只是按照劇本演出。\[6\]\[7\]
+2008年12月4日，節目《[YoroSEN\!](https://zh.wikipedia.org/wiki/YoroSEN! "wikilink")》內一個關於「世界偉人」的環節，舉了[二次大戰的發動者](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")[希特勒作為世界偉人的例子](https://zh.wikipedia.org/wiki/希特勒 "wikilink")。節目中的希特勒以可愛的效果登場，所針對的內容，全是對希特勒演說的稱讚。主持不斷以「希特勒叔叔」稱之，最後更教導[℃-ute](../Page/℃-ute.md "wikilink")成員模仿希特勒說話的語氣。節目播出後，隨即引起網絡的批評，並迅速引起傳媒關注\[2\]，由於批評聲音不斷，[吉本興業](../Page/吉本興業.md "wikilink")的子公司[SSM最終於](https://zh.wikipedia.org/wiki/SSM "wikilink")4日後，在公司主網頁刊登道歉聲明\[3\]，並再次被廣泛報導\[4\]，[東京電視台](../Page/東京電視台.md "wikilink")亦於同日作出簡短道歉\[5\]，節目《YoroSEN\!》亦於下一集播放時先宣讀道歉聲明。節目《YoroSEN\!》在深夜00:53播出，對象主要是Hello\! Project的歌迷，向來在逢星期四晚上（星期五凌晨）均能獲得相當理想的收視率（平均高於2%），希特勒那集正是選在星期四播放。那集的主持[中島早貴](../Page/中島早貴.md "wikilink")，只是一位年僅14歲的小女孩，經紀公司事後解釋說她們只是按照劇本演出。\[6\]\[7\]
 
 ### 各方反應
 
@@ -261,27 +259,15 @@ Project的歌迷，向來在逢星期四晚上（星期五凌晨）均能獲得�
 
 ## 注釋
 
-[Category:東京電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:東京電視台綜藝節目 "wikilink")
-[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
-[Category:2008年日本電視節目](https://zh.wikipedia.org/wiki/Category:2008年日本電視節目 "wikilink")
+[Category:東京電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:東京電視台綜藝節目 "wikilink") [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:2008年日本電視節目](https://zh.wikipedia.org/wiki/Category:2008年日本電視節目 "wikilink")
 
 1.  資料截至2009年3月27日。
 2.  [](http://www.cyzo.com/2008/12/post_1283.html)
-3.  可參考SSM的[網誌](http://ssm.laff.jp/blog/2008/12/post-ae56.html)
-    ，及備份的[道歉內容](http://www.ssm-japan.com/owabi.html) 。
-4.  包括[](https://web.archive.org/web/20081210080124/http://hochi.yomiuri.co.jp/topics/news/20081209-OHT1T00090.htm)、[ITmedia
-    News](http://www.itmedia.co.jp/news/articles/0812/08/news101.html)、[](http://sankei.jp.msn.com/entertainments/media/081208/med0812082130002-n1.htm)
-    、[](http://www.iza.ne.jp/news/newsarticle/natnews/topics/202754/)
-    、[Sponichi
-    Annex](http://www.sponichi.co.jp/entertainment/flash/KFullFlash20081208097.html)
-    、[](https://web.archive.org/web/20081211062046/http://www.yomiuri.co.jp/national/news/20081208-OYT1T00726.htm?from=top)、[47NEWS](http://www.47news.jp/CN/200812/CN2008120801000982.html)
-    、[](http://mainichi.jp/select/biz/news/20081209k0000m040148000c.html)
-    、[IBTimes](http://jp.ibtimes.com/article/biznews/081209/24837.html)、[asahi.com](https://web.archive.org/web/20081209233051/http://www.asahi.com/national/update/1209/TKY200812090016.html)等等。
+3.  可參考SSM的[網誌](http://ssm.laff.jp/blog/2008/12/post-ae56.html) ，及備份的[道歉內容](http://www.ssm-japan.com/owabi.html) 。
+4.  包括[](https://web.archive.org/web/20081210080124/http://hochi.yomiuri.co.jp/topics/news/20081209-OHT1T00090.htm)、[ITmedia News](http://www.itmedia.co.jp/news/articles/0812/08/news101.html)、[](http://sankei.jp.msn.com/entertainments/media/081208/med0812082130002-n1.htm) 、[](http://www.iza.ne.jp/news/newsarticle/natnews/topics/202754/) 、[Sponichi Annex](http://www.sponichi.co.jp/entertainment/flash/KFullFlash20081208097.html) 、[](https://web.archive.org/web/20081211062046/http://www.yomiuri.co.jp/national/news/20081208-OYT1T00726.htm?from=top)、[47NEWS](http://www.47news.jp/CN/200812/CN2008120801000982.html) 、[](http://mainichi.jp/select/biz/news/20081209k0000m040148000c.html) 、[IBTimes](http://jp.ibtimes.com/article/biznews/081209/24837.html)、[asahi.com](https://web.archive.org/web/20081209233051/http://www.asahi.com/national/update/1209/TKY200812090016.html)等等。
 5.  [](http://www.tv-tokyo.co.jp/contents/newtitle/2008/12/022365.html)
 6.  希特勒與[日本軍國主義](../Page/日本軍國主義.md "wikilink")同為二次大戰的發動者，希特勒曾透過演說令德國人對他深信不疑，演說內容包括德國人比猶太人高級等等，其後希特勒的真正目的逐步浮現，最終在二次大戰中領導德軍[屠殺600萬猶太人](../Page/猶太人大屠殺.md "wikilink")；日軍則以建立[大東亞共榮圈](../Page/大東亞共榮圈.md "wikilink")為名，在亞洲[屠殺近100萬人](../Page/日军战争罪行.md "wikilink")。二次大戰長達6年，全球總死亡人數超過6,000萬。德國和日本同為二次大戰的戰敗國，普遍分析認為德國發動二次大戰的主因，是因為德國曾是[一次大戰的戰敗國](https://zh.wikipedia.org/wiki/一次大戰 "wikilink")。
 7.  在「世界偉人」事件發生的同一時期，日本右翼史觀繼續滲透自衛隊[1](http://news.sina.com.hk/cgi-bin/nw/show.cgi/12/1/1/944910/1.html)，[田母神俊雄](../Page/田母神俊雄.md "wikilink")甚至開始要求修改[和平憲法](https://zh.wikipedia.org/wiki/和平憲法 "wikilink")[2](http://news.xinhuanet.com/world/2008-12/07/content_10468351.htm)，讓日本可以發動戰爭。右翼史觀否認侵略、美化戰爭，例如說是日本協助中國革命等等。
 8.  有台灣歌迷甚至四處表態支持希特勒，理由大致是「支持陳水扁的，也要支持希特勒」。
-9.  包括[自由電子報](http://www.libertytimes.com.tw/2008/new/dec/10/today-int5.htm)
-    、[NOWnews](http://www.nownews.com/2008/12/10/340-2378393.htm)等等。
-10. 包括[中國經濟網](http://big5.ce.cn/xwzx/gjss/gdxw/200812/09/t20081209_17618354.shtml)
-    、[國際在線](http://gb.cri.cn/19924/2008/12/09/2585s2354731.htm)、[新浪新聞](http://news.sina.com/int/chinanews/105-103-102-106/2008-12-09/02553480810.html)等等。
+9.  包括[自由電子報](http://www.libertytimes.com.tw/2008/new/dec/10/today-int5.htm) 、[NOWnews](http://www.nownews.com/2008/12/10/340-2378393.htm)等等。
+10. 包括[中國經濟網](http://big5.ce.cn/xwzx/gjss/gdxw/200812/09/t20081209_17618354.shtml) 、[國際在線](http://gb.cri.cn/19924/2008/12/09/2585s2354731.htm)、[新浪新聞](http://news.sina.com/int/chinanews/105-103-102-106/2008-12-09/02553480810.html)等等。

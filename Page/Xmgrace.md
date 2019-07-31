@@ -1,15 +1,8 @@
-**Grace**是「GRaphing, Advanced Computation and Exploration of
-data」的缩写。它是在[X
-Window系統和](../Page/X_Window系統.md "wikilink")[Motif](../Page/Motif.md "wikilink")下的[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")（所见及所得）的二维绘图软件。Grace可以运行在任何[类Unix系统](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")下。它也成功的运行在[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-9\*/NT/2000/XP（[Cygwin](../Page/Cygwin.md "wikilink")）。
+**Grace**是「GRaphing, Advanced Computation and Exploration of data」的缩写。它是在[X Window系統和](../Page/X_Window系統.md "wikilink")[Motif](../Page/Motif.md "wikilink")下的[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")（所见及所得）的二维绘图软件。Grace可以运行在任何[类Unix系统](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")下。它也成功的运行在[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 9\*/NT/2000/XP（[Cygwin](../Page/Cygwin.md "wikilink")）。
 
 ## 历史
 
-Grace从Paul Turner的ACE/gr演化而来（Grace也被称为ACE/gr的翻版或者改进版）有时也被称为Xmgr.
-Grace小组在Evgeny
-Stambulchik的领导下从Xmgr分化发展了grace。他们遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")原则发行了grace。Paul
-Terner依旧在维护原来Xmgr的一个封闭版本。
+Grace从Paul Turner的ACE/gr演化而来（Grace也被称为ACE/gr的翻版或者改进版）有时也被称为Xmgr. Grace小组在Evgeny Stambulchik的领导下从Xmgr分化发展了grace。他们遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")原则发行了grace。Paul Terner依旧在维护原来Xmgr的一个封闭版本。
 
 ## 特点
 
@@ -32,6 +25,4 @@ Grace能创造印刷质量的图形输出。它支持[鼠标](../Page/鼠标.md 
 
   - [Grace Home page](http://plasma-gate.weizmann.ac.il/Grace/)
 
-[Category:自由圖表軟件](https://zh.wikipedia.org/wiki/Category:自由圖表軟件 "wikilink")
-[Category:X_Window程式](https://zh.wikipedia.org/wiki/Category:X_Window程式 "wikilink")
-[Category:使用Motif的軟件](https://zh.wikipedia.org/wiki/Category:使用Motif的軟件 "wikilink")
+[Category:自由圖表軟件](https://zh.wikipedia.org/wiki/Category:自由圖表軟件 "wikilink") [Category:X_Window程式](https://zh.wikipedia.org/wiki/Category:X_Window程式 "wikilink") [Category:使用Motif的軟件](https://zh.wikipedia.org/wiki/Category:使用Motif的軟件 "wikilink")

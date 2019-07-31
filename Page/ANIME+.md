@@ -16,7 +16,7 @@ BS11數位於2007年12月1日同時開設了兩個播放時段。這兩個播放
 | 番組名                                                  | 放送期間        | 放送時間          | 備考                                                        |
 | ---------------------------------------------------- | ----------- | ------------- | --------------------------------------------------------- |
 | **土曜日**                                              |             |               |                                                           |
-| [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink") | 2018年2月3日 - | 19:00 - 19:30 | かつて[BS-TBSで放送したため実質再放送となる](../Page/BS-TBS.md "wikilink")。 |
+| [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink") | 2018年2月3日 - | 19:00 - 19:30 | かつて[BS-TBS](../Page/BS-TBS.md "wikilink")で放送したため実質再放送となる。 |
 | [鋼彈創鬥者 潛網大戰](../Page/鋼彈創鬥者_潛網大戰.md "wikilink")       | 2018年4月7日 - | 19:30 - 20:00 |                                                           |
 
 ### ANIME+
@@ -203,7 +203,7 @@ AT-Xと共同で製作委員会に参加。</p></td>
 <td><p><a href="../Page/重神機潘多拉.md" title="wikilink">重神機潘多拉</a></p></td>
 <td><p>2018年4月6日 -</p></td>
 <td><p>23:30 - 24:00</p></td>
-<td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOWプライムで先行放送するため</a>、当枠では実質再放送扱いとなる。</p></td>
+<td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>プライムで先行放送するため、当枠では実質再放送扱いとなる。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>土曜日</strong></p></td>
@@ -321,8 +321,7 @@ TOKYO MX・とちぎテレビ・群馬テレビと同時で、尚且つ最速放
 
   - [、ANIME+介紹頁](https://web.archive.org/web/20080228024622/http://www.b-ch.com/contents/bs11_sp/index.html)
 
-  - [BS11數位開局紀念
-    動畫&特攝特集](https://web.archive.org/web/20071202172223/http://event.yahoo.co.jp/bs11/)
+  - [BS11數位開局紀念 動畫&特攝特集](https://web.archive.org/web/20071202172223/http://event.yahoo.co.jp/bs11/)
 
 [Category:電視動畫時段](https://zh.wikipedia.org/wiki/Category:電視動畫時段 "wikilink")
 

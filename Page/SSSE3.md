@@ -1,8 +1,6 @@
-**SSSE3**是[Intel命名的](https://zh.wikipedia.org/wiki/Intel "wikilink")[SSE3](../Page/SSE3.md "wikilink")指令集的擴充，不使用新的號碼是因為SSSE3比較像是加強版的SSE3，以至於推出SSSE3之前，[SSE4](../Page/SSE4.md "wikilink")的定義容易被混淆。在公開Intel的Core微架構的時候，SSSE3出現在Xeon
-5100與Intel Core 2行動版與桌上型處理器上。
+**SSSE3**是[Intel命名的](https://zh.wikipedia.org/wiki/Intel "wikilink")[SSE3](../Page/SSE3.md "wikilink")指令集的擴充，不使用新的號碼是因為SSSE3比較像是加強版的SSE3，以至於推出SSSE3之前，[SSE4](../Page/SSE4.md "wikilink")的定義容易被混淆。在公開Intel的Core微架構的時候，SSSE3出現在Xeon 5100與Intel Core 2行動版與桌上型處理器上。
 
-SSSE3包含了16個新的不同於SSE3的指令。每一個都能夠運作於64位元的MMX暫存器或是128位元XMM暫存器之中。因此，有些Intel的文件表示有32個新指令。之前的SIMD指令由舊排到新依序是[MMX](../Page/MMX.md "wikilink")、[3DNow\!](../Page/3DNow!.md "wikilink")（AMD開發的）、[SSE](../Page/SSE.md "wikilink")、[3DNow\!
-Professional](https://zh.wikipedia.org/wiki/3DNow!_Professional "wikilink")、[SSE2](../Page/SSE2.md "wikilink")與[SSE3](../Page/SSE3.md "wikilink")。
+SSSE3包含了16個新的不同於SSE3的指令。每一個都能夠運作於64位元的MMX暫存器或是128位元XMM暫存器之中。因此，有些Intel的文件表示有32個新指令。之前的SIMD指令由舊排到新依序是[MMX](../Page/MMX.md "wikilink")、[3DNow\!](../Page/3DNow!.md "wikilink")（AMD開發的）、[SSE](../Page/SSE.md "wikilink")、[3DNow\! Professional](https://zh.wikipedia.org/wiki/3DNow!_Professional "wikilink")、[SSE2](../Page/SSE2.md "wikilink")與[SSE3](../Page/SSE3.md "wikilink")。
 
 ## 支援SSSE3指令集的處理器
 
@@ -10,21 +8,14 @@ Professional](https://zh.wikipedia.org/wiki/3DNow!_Professional "wikilink")、[S
       - [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") 5100系列
       - [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") 5300系列
       - [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") 3000系列
-      - [Core 2
-        Duo](https://zh.wikipedia.org/wiki/Core_2_Duo "wikilink")
-      - [Core 2
-        Extreme](https://zh.wikipedia.org/wiki/Core_2_Extreme "wikilink")
-      - [Core 2
-        Quad](https://zh.wikipedia.org/wiki/Core_2_Quad "wikilink")
+      - [Core 2 Duo](https://zh.wikipedia.org/wiki/Core_2_Duo "wikilink")
+      - [Core 2 Extreme](https://zh.wikipedia.org/wiki/Core_2_Extreme "wikilink")
+      - [Core 2 Quad](https://zh.wikipedia.org/wiki/Core_2_Quad "wikilink")
       - [Core i7](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")
-      - [Pentium
-        Dual-Core](https://zh.wikipedia.org/wiki/Pentium_Dual-Core "wikilink")
-      - [Celeron
-        4xx的Conroe-L](https://zh.wikipedia.org/wiki/Celeron#Core架構 "wikilink")
-      - [Celeron Dual
-        Core系列](https://zh.wikipedia.org/wiki/Celeron_M#Celeron_Dual-Core_\(Core\) "wikilink")
-      - [Celeron M
-        500系列](https://zh.wikipedia.org/wiki/Celeron_M#Merom-1024 "wikilink")
+      - [Pentium Dual-Core](https://zh.wikipedia.org/wiki/Pentium_Dual-Core "wikilink")
+      - [Celeron 4xx的Conroe-L](https://zh.wikipedia.org/wiki/Celeron#Core架構 "wikilink")
+      - [Celeron Dual Core系列](https://zh.wikipedia.org/wiki/Celeron_M#Celeron_Dual-Core_\(Core\) "wikilink")
+      - [Celeron M 500系列](https://zh.wikipedia.org/wiki/Celeron_M#Merom-1024 "wikilink")
       - [Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")
   - [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
       - [AMD Bulldozer](../Page/AMD_Bulldozer.md "wikilink")
@@ -33,9 +24,7 @@ Professional](https://zh.wikipedia.org/wiki/3DNow!_Professional "wikilink")、[S
 
 ## 新增的指令
 
-在以下的列表中，satsw(X)（飽和爲有符號字（saturate to signed
-word）的簡寫），任取有號整數X，如果X小於-32768時就代表-32768，X大於32767時就代表32767
-，其餘數值不變。在一般的Intel架構上，字節（byte）表示8位元，字（word）是16位元，而雙字（dword）是32位元；暫存器表示MMX或是XMM向量暫存器。
+在以下的列表中，satsw(X)（飽和爲有符號字（saturate to signed word）的簡寫），任取有號整數X，如果X小於-32768時就代表-32768，X大於32767時就代表32767 ，其餘數值不變。在一般的Intel架構上，字節（byte）表示8位元，字（word）是16位元，而雙字（dword）是32位元；暫存器表示MMX或是XMM向量暫存器。
 
 | PSIGNB, PSIGNW, PSIGND | 包裹式有符號整型取反         | 如果另一個暫存器中的整形爲負，那麼將目標暫存器中的數取反。                                                                                        |
 | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------- |
@@ -61,8 +50,7 @@ word）的簡寫），任取有號整數X，如果X小於-32768時就代表-3276
   - [FMA](https://zh.wikipedia.org/wiki/熔合乘法累积 "wikilink")
   - [SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")
   - [3DNow\! Professional](../Page/3DNow!.md "wikilink")
-  - [Intel Core
-    2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
+  - [Intel Core 2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 
 ## 外部連結
 

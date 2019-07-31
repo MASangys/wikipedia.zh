@@ -138,8 +138,7 @@ WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·�
 
 \[A_1= - \frac{B_0'}{2B_0}=\frac{d}{dx}ln B_0^{ - 1/2}\,\!\]。
 
-波函數的波幅是
-\(\exp\left[\int^x A(x')dx'/\hbar\right]=\frac{1}{\sqrt{B_0}}\,\!\)。
+波函數的波幅是 \(\exp\left[\int^x A(x')dx'/\hbar\right]=\frac{1}{\sqrt{B_0}}\,\!\)。
 
 定義動量\(p(x) = \sqrt{ 2m \left( E - V(x) \right) }\,\!\)，則波函數的近似為
 
@@ -161,8 +160,7 @@ WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·�
 
 ### 連接公式
 
-顯而易見地，我們可以從分母觀察出來，在經典轉向點\(E = V(x)\,\!\)，這兩個近似方程式(5)和(6)會發散，無法表示出物理事實。我們必須正確地找到波函數在經典轉向點的近似解答。設定\(x_1< x< x_2\,\!\)是經典運動允許區域。在這區域內，\(E>V(x)\,\!\)，波函數呈振動形式。其它區域\(x<x_1\,\!\)和\(x_2< x\,\!\)是經典運動不允許區域，波函數呈指數遞減形式。假設在經典轉向點附近，位勢足夠的光滑，可以近似為線性函數。更詳細地說，在點\(x_2\,\!\)附近，將
-\(\frac{2m}{\hbar^2}\left(V(x)-E\right)\,\!\)展開為一個冪級數：
+顯而易見地，我們可以從分母觀察出來，在經典轉向點\(E = V(x)\,\!\)，這兩個近似方程式(5)和(6)會發散，無法表示出物理事實。我們必須正確地找到波函數在經典轉向點的近似解答。設定\(x_1< x< x_2\,\!\)是經典運動允許區域。在這區域內，\(E>V(x)\,\!\)，波函數呈振動形式。其它區域\(x<x_1\,\!\)和\(x_2< x\,\!\)是經典運動不允許區域，波函數呈指數遞減形式。假設在經典轉向點附近，位勢足夠的光滑，可以近似為線性函數。更詳細地說，在點\(x_2\,\!\)附近，將 \(\frac{2m}{\hbar^2}\left(V(x)-E\right)\,\!\)展開為一個冪級數：
 
 \[\frac{2m}{\hbar^2}\left(V(x)-E\right) = U_1(x - x_2) + U_2(x - x_2)^2 + \cdots\,\!\]；
 
@@ -273,9 +271,7 @@ WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·�
   -
   -
   -
-[Category:量子力學](https://zh.wikipedia.org/wiki/Category:量子力學 "wikilink")
-[Category:理論物理](https://zh.wikipedia.org/wiki/Category:理論物理 "wikilink")
-[Category:漸近分析](https://zh.wikipedia.org/wiki/Category:漸近分析 "wikilink")
+[Category:量子力學](https://zh.wikipedia.org/wiki/Category:量子力學 "wikilink") [Category:理論物理](https://zh.wikipedia.org/wiki/Category:理論物理 "wikilink") [Category:漸近分析](https://zh.wikipedia.org/wiki/Category:漸近分析 "wikilink")
 
 1.
 

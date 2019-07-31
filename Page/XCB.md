@@ -1,8 +1,4 @@
-**XCB**（X C Binding）是一套以
-[C語言撰寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")，並用於綁定（Binding）
-[X Window
-System之上](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")。XCB是一套免費的軟體，目標在於取代
-[Xlib](../Page/Xlib.md "wikilink")。這個計劃開始於2001年，作者是Bart Massey.
+**XCB**（X C Binding）是一套以 [C語言撰寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")，並用於綁定（Binding） [X Window System之上](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")。XCB是一套免費的軟體，目標在於取代 [Xlib](../Page/Xlib.md "wikilink")。這個計劃開始於2001年，作者是Bart Massey.
 
 ## 理念
 
@@ -90,8 +86,7 @@ int main()
 
 ## 外部連結
 
-  - [XCB wiki](http://xcb.freedesktop.org/)
-    ([freedesktop.org](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink"))
+  - [XCB wiki](http://xcb.freedesktop.org/) ([freedesktop.org](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink"))
   - [XCB API reference](http://xcb.freedesktop.org/XcbApi/)
   - [Further publications](http://xcb.freedesktop.org/Publications)
 

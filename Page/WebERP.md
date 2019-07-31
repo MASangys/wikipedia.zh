@@ -108,16 +108,13 @@
   -
     以上软件可以安装一个Appserv的软件，可以一次安装全部软件。
     建议首先关闭IIS，否则安装时选择非80端口，如81
-    成功后测试https://web.archive.org/web/20140908174929/https://localhost/
-    (如果是81端口，相应的是http://localhost:81， 以下同理)
-    测试管理界面https://web.archive.org/web/20150427081042/http://localhost/phpmyadmin
-    ，如果安装正常，则会出现如下界面
+    成功后测试https://web.archive.org/web/20140908174929/https://localhost/ (如果是81端口，相应的是http://localhost:81， 以下同理)
+    测试管理界面https://web.archive.org/web/20150427081042/http://localhost/phpmyadmin ，如果安装正常，则会出现如下界面
 
 **\*安装webErp: 解压缩webERP软件到Apache服务器的C:\\AppServ\\www\\目录下**
 
   -
-    到weberp下载最新版的webERP软件，解压缩，将解压后的整个文件夹复制到C:\\AppServ\\www\\webERP
-    文件夹下（以下的文件夹均以C:\\AppServ\\www\\webERP 为根目录）
+    到weberp下载最新版的webERP软件，解压缩，将解压后的整个文件夹复制到C:\\AppServ\\www\\webERP 文件夹下（以下的文件夹均以C:\\AppServ\\www\\webERP 为根目录）
 
 **\*配置webERP(1)：建立数据库，GB2312编码方式，并执行导入web-new.sql**
 
@@ -154,9 +151,7 @@
 
 `       mysqli_query($db, 'use names gb2312');`
 
-2.打开/includes/header.inc替换所有_('ISO-8859-1')、_('ISO-8859-15')、_('utf')为_('gb2312')
-3.打开/SystemParameters.php，替换htmlentities($_SESSION\['RomalpaClause'\])为htmlentities($_SESSION\['RomalpaClause'\],
-ENT_NOQUOTES, gb2312) 至此即可以用中文简体实现数据库记录，系统设置，pdf打印的中文化，而不会出现乱码。
+2.打开/includes/header.inc替换所有_('ISO-8859-1')、_('ISO-8859-15')、_('utf')为_('gb2312') 3.打开/SystemParameters.php，替换htmlentities($_SESSION\['RomalpaClause'\])为htmlentities($_SESSION\['RomalpaClause'\], ENT_NOQUOTES, gb2312) 至此即可以用中文简体实现数据库记录，系统设置，pdf打印的中文化，而不会出现乱码。
 
 ## 外部链接
 

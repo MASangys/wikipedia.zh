@@ -7,7 +7,7 @@
   - **[卡洛斯·诺里加](https://zh.wikipedia.org/wiki/卡洛斯·诺里加 "wikilink")**（，曾执行以及任务），任务专家
   - **[卢杰](../Page/盧傑_\(太空人\).md "wikilink")**（曾执行、、以及[远征7号任务](https://zh.wikipedia.org/wiki/远征7号 "wikilink")），任务专家
   - **[让-弗朗西斯·格列福瑞](https://zh.wikipedia.org/wiki/让-弗朗西斯·格列福瑞 "wikilink")**（，[法国宇航员](https://zh.wikipedia.org/wiki/法国 "wikilink")，曾执行、以及任务），任务专家
-  - **[叶莲娜·康达科娃](https://zh.wikipedia.org/wiki/叶莲娜·康达科娃 "wikilink")**（，[俄罗斯宇航员](../Page/俄罗斯.md "wikilink")，曾执行、[和平号以及](https://zh.wikipedia.org/wiki/和平號太空站 "wikilink")任务），有效载荷专家
+  - **[叶莲娜·康达科娃](https://zh.wikipedia.org/wiki/叶莲娜·康达科娃 "wikilink")**（，[俄罗斯](../Page/俄罗斯.md "wikilink")宇航员，曾执行、[和平号以及](https://zh.wikipedia.org/wiki/和平號太空站 "wikilink")任务），有效载荷专家
 
 ### 发射后停留在和平号空间站
 
@@ -17,6 +17,4 @@
 
   - **[杰瑞·林恩格](https://zh.wikipedia.org/wiki/杰瑞·林恩格 "wikilink")**（，曾执行以及任务），任务专家
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1997年](https://zh.wikipedia.org/wiki/Category:1997年 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1997年](https://zh.wikipedia.org/wiki/Category:1997年 "wikilink")

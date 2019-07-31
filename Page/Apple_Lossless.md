@@ -4,8 +4,7 @@ ALAC与MP3的主要分别在于编码过程中，MP3会取消小部分高频及�
 
 它在2004年4月28日公佈的[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")4.5和[QuickTime](../Page/QuickTime.md "wikilink")6.5.1的其中一部份。
 
-ALAC的编码器已于2011年10月26日以[Apache
-License为协议公布源代码](https://zh.wikipedia.org/wiki/Apache_License "wikilink")\[1\]。
+ALAC的编码器已于2011年10月26日以[Apache License为协议公布源代码](https://zh.wikipedia.org/wiki/Apache_License "wikilink")\[1\]。
 
 ## 相關條目
 
@@ -25,15 +24,9 @@ License为协议公布源代码](https://zh.wikipedia.org/wiki/Apache_License "w
   - [iTunes - Apple](https://www.apple.com/itunes/)
   - [iTunes - Apple (中国)](https://www.apple.com/cn/itunes/)
   - [iTunes - Apple (台灣)](https://www.apple.com/tw/itunes/)
-  - [ALAC Decoder
-    (crazney.net)](https://web.archive.org/web/20120620124229/http://craz.net/programs/itunes/alac.html)
-  - [Apple Lossless decoder
-    (RareWares)](http://www.rarewares.org/lossless.html)
+  - [ALAC Decoder (crazney.net)](https://web.archive.org/web/20120620124229/http://craz.net/programs/itunes/alac.html)
+  - [Apple Lossless decoder (RareWares)](http://www.rarewares.org/lossless.html)
 
-[Category:无损音频编解码器](https://zh.wikipedia.org/wiki/Category:无损音频编解码器 "wikilink")
-[Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
-[Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink")
-[Category:ITunes](https://zh.wikipedia.org/wiki/Category:ITunes "wikilink")
-[Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink")
+[Category:无损音频编解码器](https://zh.wikipedia.org/wiki/Category:无损音频编解码器 "wikilink") [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink") [Category:ITunes](https://zh.wikipedia.org/wiki/Category:ITunes "wikilink") [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink")
 
 1.  <http://alac.macosforge.org/>

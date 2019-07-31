@@ -1,7 +1,4 @@
-《**ONE PIECE 打倒！海賊強薩克！**》（）是於1998年在[Jump
-Festa上映的](../Page/Jump_Festa.md "wikilink")《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》第一部[OVA版動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")，本作製作公司為[Production
-I.G](../Page/Production_I.G.md "wikilink")，並由導演為谷口悟朗監督。角色原案為原作者[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")。
+《**ONE PIECE 打倒！海賊強薩克！**》（）是於1998年在[Jump Festa上映的](../Page/Jump_Festa.md "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》第一部[OVA版動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")，本作製作公司為[Production I.G](../Page/Production_I.G.md "wikilink")，並由導演為谷口悟朗監督。角色原案為原作者[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")。
 
 此外這部的[配音員](../Page/配音員.md "wikilink")和電視動畫版的有所不同（魯夫聲優為[高乃麗](../Page/高乃麗.md "wikilink")，索隆聲優為[高木涉](../Page/高木涉.md "wikilink")，娜美聲優為[豐口惠](../Page/豐口惠.md "wikilink")）。另外，這部也被[濱崎達弥改編成小說熱賣](https://zh.wikipedia.org/wiki/濱崎達也 "wikilink")。
 
@@ -50,5 +47,4 @@ I.G](../Page/Production_I.G.md "wikilink")，並由導演為谷口悟朗監督�
 
 ## 外部連結
 
-[Category:ONE_PIECE作品](https://zh.wikipedia.org/wiki/Category:ONE_PIECE作品 "wikilink")
-[Category:1998年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1998年日本OVA動畫 "wikilink")
+[Category:ONE_PIECE作品](https://zh.wikipedia.org/wiki/Category:ONE_PIECE作品 "wikilink") [Category:1998年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1998年日本OVA動畫 "wikilink")

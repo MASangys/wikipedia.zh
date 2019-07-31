@@ -1,4 +1,4 @@
-**RISINGPRODUCTION**（），簡稱**RISINGPRO**，是[日本一家大型](../Page/日本.md "wikilink")[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，旗下擁有眾多[歌舞系的歌手與音樂組合](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")。
+**RISINGPRODUCTION**（），簡稱**RISINGPRO**，舊名**VISION FACTORY‎**（），是[日本](../Page/日本.md "wikilink")一家大型[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，旗下擁有眾多[歌舞系的歌手與音樂組合](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")。
 
 ## 公司简介
 
@@ -15,8 +15,7 @@
 
   - [上原多香子](../Page/上原多香子.md "wikilink")
 
-  - [DA
-    PUMP](../Page/DA_PUMP.md "wikilink")（[ISSA](https://zh.wikipedia.org/wiki/ISSA_日本歌手\) "wikilink")、DAICHI、、TOMO、KIMI、YORI、U-YEAH）
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink")（[ISSA](https://zh.wikipedia.org/wiki/ISSA_日本歌手\) "wikilink")、DAICHI、、TOMO、KIMI、YORI、U-YEAH）
 
   - [三浦大知](../Page/三浦大知.md "wikilink")
 
@@ -51,31 +50,24 @@
 
 ## 旗下音乐厂牌
 
-  - [SONIC
-    GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")
+  - [SONIC GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")
 
   -
 ## VISION FACTORY精选合集
 
 ## UNITED～RISING DANCE FESTIVAL～
 
-UNITED vol.1 〜RISING DANCE FESTIVAL〜（2010年4月4日） - DA
-PUMP、千葉涼平、緒方龍一、Lead、三浦大知、Blue Tokyo
+UNITED vol.1 〜RISING DANCE FESTIVAL〜（2010年4月4日） - DA PUMP、千葉涼平、緒方龍一、Lead、三浦大知、Blue Tokyo
 
-UNITED vol.2 〜RISING DANCE FESTIVAL〜（2010年6月5日） - DA
-PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
+UNITED vol.2 〜RISING DANCE FESTIVAL〜（2010年6月5日） - DA PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
 
-UNITED vol.3 〜RISING DANCE FESTIVAL〜（2010年9月23日） - DA
-PUMP、ISSA×SoulJa、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
+UNITED vol.3 〜RISING DANCE FESTIVAL〜（2010年9月23日） - DA PUMP、ISSA×SoulJa、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
 
-UNITED vol.4 〜RISING DANCE FESTIVAL〜（2011年2月13日） - DA
-PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
+UNITED vol.4 〜RISING DANCE FESTIVAL〜（2011年2月13日） - DA PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
 
-UNITED vol.5 〜RISING DANCE FESTIVAL〜（2011年6月10日・11日） - DA
-PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
+UNITED vol.5 〜RISING DANCE FESTIVAL〜（2011年6月10日・11日） - DA PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
 
-UNITED vol.6 〜RISING DANCE FESTIVAL〜（2011年10月30日） - DA
-PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
+UNITED vol.6 〜RISING DANCE FESTIVAL〜（2011年10月30日） - DA PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
 
 ## Rising Studio
 
@@ -108,8 +100,4 @@ PUMP、w-inds.、Lead、三浦大知、延山信弘、Blue Tokyo
 
   -
   -
-[Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:日本音樂事業者協會](https://zh.wikipedia.org/wiki/Category:日本音樂事業者協會 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:1985年成立的公司](https://zh.wikipedia.org/wiki/Category:1985年成立的公司 "wikilink")
+[Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:日本音樂事業者協會](https://zh.wikipedia.org/wiki/Category:日本音樂事業者協會 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:1985年成立的公司](https://zh.wikipedia.org/wiki/Category:1985年成立的公司 "wikilink")

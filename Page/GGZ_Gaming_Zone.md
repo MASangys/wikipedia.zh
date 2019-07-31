@@ -1,10 +1,8 @@
-**GGZ Gaming
-Zone**是一个诞生于2000年的[自由](../Page/自由.md "wikilink")软件[网络游戏](../Page/网络游戏.md "wikilink")平台项目。此平台在技术方面（服务端、客户端、接口协议）的功能正逐渐完善，并同时支持多种游戏工具（如聊天机器人等）。
+**GGZ Gaming Zone**是一个诞生于2000年的[自由](../Page/自由.md "wikilink")软件[网络游戏](../Page/网络游戏.md "wikilink")平台项目。此平台在技术方面（服务端、客户端、接口协议）的功能正逐渐完善，并同时支持多种游戏工具（如聊天机器人等）。
 
 ## 概括
 
-**GGZ**是[软件](../Page/软件.md "wikilink")[社区](../Page/社区.md "wikilink")对广告支持的在线游戏站点（如[MSN
-Games](../Page/MSN_Games.md "wikilink")、Yahoo\! Games和Pogo.com）的回应。
+**GGZ**是[软件](../Page/软件.md "wikilink")[社区](../Page/社区.md "wikilink")对广告支持的在线游戏站点（如[MSN Games](../Page/MSN_Games.md "wikilink")、Yahoo\! Games和Pogo.com）的回应。
 
 ## 游戏
 
@@ -19,8 +17,7 @@ GGZ列出了支持的38个游戏引擎，包括[国际象棋和](https://zh.wiki
   - Connect the Dots
   - Escape
   - Geekgame
-  - GGZCards（包括LaPocha, Spades, Hearts, Bridge, FortyTwo, Suaro,
-    Suecac和Whist）
+  - GGZCards（包括LaPocha, Spades, Hearts, Bridge, FortyTwo, Suaro, Suecac和Whist）
   - Hastings
   - Keepalive
   - Krosswater
@@ -62,14 +59,10 @@ GGZ拥有*排名页面*，可以显示玩家的[地理位置](https://zh.wikiped
   - [Arianne](https://zh.wikipedia.org/wiki/Arianne "wikilink")
   - [WorldForge](../Page/WorldForge.md "wikilink")
 
-2006年之后，很多[MSN
-Games的玩家转移到了](../Page/MSN_Games.md "wikilink")[GGZ](https://zh.wikipedia.org/wiki/GGZ "wikilink")，使休闲游戏成为发展趋势。
+2006年之后，很多[MSN Games的玩家转移到了](../Page/MSN_Games.md "wikilink")[GGZ](https://zh.wikipedia.org/wiki/GGZ "wikilink")，使休闲游戏成为发展趋势。
 
 ## 外部链接
 
   - [主页](http://www.ggzgamingzone.org/)
 
-[Category:多人遊戲服務](https://zh.wikipedia.org/wiki/Category:多人遊戲服務 "wikilink")
-[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:開源電子遊戲](https://zh.wikipedia.org/wiki/Category:開源電子遊戲 "wikilink")
-[Category:2000年建立](https://zh.wikipedia.org/wiki/Category:2000年建立 "wikilink")
+[Category:多人遊戲服務](https://zh.wikipedia.org/wiki/Category:多人遊戲服務 "wikilink") [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:開源電子遊戲](https://zh.wikipedia.org/wiki/Category:開源電子遊戲 "wikilink") [Category:2000年建立](https://zh.wikipedia.org/wiki/Category:2000年建立 "wikilink")

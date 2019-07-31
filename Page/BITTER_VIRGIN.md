@@ -1,7 +1,4 @@
-《**BITTER
-VIRGIN**》是[楠桂的](../Page/楠桂.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。自[YOUNG
-GANGAN](../Page/YOUNG_GANGAN.md "wikilink")（[Square
-Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）2005年5號至2008年6號連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
+《**BITTER VIRGIN**》是[楠桂](../Page/楠桂.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。自[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")（[Square Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）2005年5號至2008年6號連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
 
 ## 概要
 
@@ -15,7 +12,7 @@ Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）2005年5號至2008
 <!-- end list -->
 
   -
-    大介的同學。中學時受到繼父的[性侵犯而](../Page/性侵犯.md "wikilink")[懷孕](https://zh.wikipedia.org/wiki/懷孕 "wikilink")，[流產後再次懷孕](https://zh.wikipedia.org/wiki/流產 "wikilink")，鑒於對身體的負擔考量而把孩子生下來，不過馬上就讓別人寄養。有嚴重的男性恐怖症（大介除外）。現在一個人生活。
+    大介的同學。中學時受到繼父的[性侵犯](../Page/性侵犯.md "wikilink")而[懷孕](https://zh.wikipedia.org/wiki/懷孕 "wikilink")，[流產後再次懷孕](https://zh.wikipedia.org/wiki/流產 "wikilink")，鑒於對身體的負擔考量而把孩子生下來，不過馬上就讓別人寄養。有嚴重的男性恐怖症（大介除外）。現在一個人生活。
 
 <!-- end list -->
 
@@ -79,11 +76,6 @@ Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）2005年5號至2008
 
 ## 外部連結
 
-  - [YOUNG GANGAN - BITTER
-    VIRGIN](https://web.archive.org/web/20090326082922/http://www.square-enix.co.jp/magazine/yg/introduction/bitter/)
+  - [YOUNG GANGAN - BITTER VIRGIN](https://web.archive.org/web/20090326082922/http://www.square-enix.co.jp/magazine/yg/introduction/bitter/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:兒童性虐待作品](https://zh.wikipedia.org/wiki/Category:兒童性虐待作品 "wikilink")
-[Category:虚构强奸题材作品](https://zh.wikipedia.org/wiki/Category:虚构强奸题材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:兒童性虐待作品](https://zh.wikipedia.org/wiki/Category:兒童性虐待作品 "wikilink") [Category:虚构强奸题材作品](https://zh.wikipedia.org/wiki/Category:虚构强奸题材作品 "wikilink")

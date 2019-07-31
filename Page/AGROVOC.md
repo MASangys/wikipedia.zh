@@ -2,7 +2,7 @@
 
 AGROVOC是由[联合国粮食及农业组织](../Page/联合国粮食及农业组织.md "wikilink")（FAO）和[欧共体在](https://zh.wikipedia.org/wiki/欧共体 "wikilink")20世纪80年代初开发的，FAO大约每3个月进行一次维护更新，用户可以在AGROVOC网址上看到更新变化。
 
-AGROVOC包含FAO使用的5种官方语言，它们是[英语](../Page/英语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[汉语和](../Page/汉语.md "wikilink")[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")。目前还增加了[捷克语](../Page/捷克语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")、[斯洛伐克语和](../Page/斯洛伐克语.md "wikilink")[泰语](../Page/泰语.md "wikilink")。其他语种，例如[印地语](https://zh.wikipedia.org/wiki/印地语 "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[朝鲜语和](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")[波斯语当前正在处于翻译或修订中](../Page/波斯语.md "wikilink")。
+AGROVOC包含FAO使用的5种官方语言，它们是[英语](../Page/英语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[汉语](../Page/汉语.md "wikilink")和[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")。目前还增加了[捷克语](../Page/捷克语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")、[斯洛伐克语](../Page/斯洛伐克语.md "wikilink")和[泰语](../Page/泰语.md "wikilink")。其他语种，例如[印地语](https://zh.wikipedia.org/wiki/印地语 "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[朝鲜语和](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")[波斯语](../Page/波斯语.md "wikilink")当前正在处于翻译或修订中。
 
 ## AGROVOC的结构
 
@@ -27,8 +27,7 @@ AGROVOC由许多术语组成，这些术语由一个或多个词组成，每个�
 
 ### 格式
 
-如果是用于非商业性的目的，则可以免费下载AGROVOC。它的数据格式有[MySQL](../Page/MySQL.md "wikilink")、[Microsoft
-Access](../Page/Microsoft_Access.md "wikilink")、TagText、[ISO2709](https://zh.wikipedia.org/wiki/ISO2709 "wikilink")、[XML](../Page/XML.md "wikilink")、SKOS、[OWL](https://zh.wikipedia.org/wiki/OWL "wikilink")。
+如果是用于非商业性的目的，则可以免费下载AGROVOC。它的数据格式有[MySQL](../Page/MySQL.md "wikilink")、[Microsoft Access](../Page/Microsoft_Access.md "wikilink")、TagText、[ISO2709](https://zh.wikipedia.org/wiki/ISO2709 "wikilink")、[XML](../Page/XML.md "wikilink")、SKOS、[OWL](https://zh.wikipedia.org/wiki/OWL "wikilink")。
 
 ## AGROVOC 在线服务
 
@@ -74,5 +73,4 @@ AGROVOC是农业本体服务（AOS）项目发展的基础。使用诸如AGROVOC
   - [AGROVOC在线服务](https://web.archive.org/web/20070614095401/http://www.fao.org/aims/ag_webservices.jsp)
   - [农业信息管理标准站点](http://www.fao.org/aims/)
 
-[Category:农业](https://zh.wikipedia.org/wiki/Category:农业 "wikilink")
-[Category:索引典](https://zh.wikipedia.org/wiki/Category:索引典 "wikilink")
+[Category:农业](https://zh.wikipedia.org/wiki/Category:农业 "wikilink") [Category:索引典](https://zh.wikipedia.org/wiki/Category:索引典 "wikilink")

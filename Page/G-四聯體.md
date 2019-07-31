@@ -2,8 +2,7 @@
 
 在四聯體的結構中，我們可以根據四股的方向，將結構分為[平行和](https://zh.wikipedia.org/wiki/平行_\(幾何\) "wikilink")。
 
-[G-quadruplex.svg](https://zh.wikipedia.org/wiki/File:G-quadruplex.svg "fig:G-quadruplex.svg")
-[Telomer-structure.gif](https://zh.wikipedia.org/wiki/File:Telomer-structure.gif "fig:Telomer-structure.gif")
+[G-quadruplex.svg](https://zh.wikipedia.org/wiki/File:G-quadruplex.svg "fig:G-quadruplex.svg") [Telomer-structure.gif](https://zh.wikipedia.org/wiki/File:Telomer-structure.gif "fig:Telomer-structure.gif")
 
 ## 註釋
 
@@ -20,48 +19,26 @@
   -
 ## 外部連結
 
-  - [Nanopore and Aptamer Biosensor
-    group](http://nanopore.weebly.com/){NAB group}
+  - [Nanopore and Aptamer Biosensor group](http://nanopore.weebly.com/){NAB group}
 
 ### 四聯體網站
 
-  - [COST MP0802 Quadruplex
-    Network](https://web.archive.org/web/20150619072314/http://www.g4net.org/)
-    – the European network of G-quadruplex community: From first
-    principles to applications
-  - [Quadruplex.org](https://web.archive.org/web/20180813180803/http://quadruplex.org/)
-    – a website to serve the quadruplex community
-  - [G-Quadruplex World](http://gquadruplex.wordpress.com/) – a website
-    to discuss publications and other information of interest to those
-    working in the field of G-quadruplexes
-  - [Quadbase](https://web.archive.org/web/20080503160223/http://www.quadruplex.org/?view=quadbase)
-    – downloadable data on predicted G-quadruplexes
-  - [Greglist](https://www.webcitation.org/6DYII2TVw?url=http://tubic.tju.edu.cn/greglist/)
-    – a database listing potential G-quadruplex regulated genes
-  - \[<https://web.archive.org/web/20181021091915/http://quadbase.igib.res.in/>:
-    Database on Quadruplex information: QuadBase from IGIB\]
-  - [GRSDB](http://bioinformatics.ramapo.edu/GRSDB2/)- a database of
-    G-quadruplexes near RNA processing sites.
-  - [GRS_UTRdb](http://bioinformatics.ramapo.edu/GRS_UTRDB/)- a
-    database of G-quadruplexes in the UTRs.
+  - [COST MP0802 Quadruplex Network](https://web.archive.org/web/20150619072314/http://www.g4net.org/) – the European network of G-quadruplex community: From first principles to applications
+  - [Quadruplex.org](https://web.archive.org/web/20180813180803/http://quadruplex.org/) – a website to serve the quadruplex community
+  - [G-Quadruplex World](http://gquadruplex.wordpress.com/) – a website to discuss publications and other information of interest to those working in the field of G-quadruplexes
+  - [Quadbase](https://web.archive.org/web/20080503160223/http://www.quadruplex.org/?view=quadbase) – downloadable data on predicted G-quadruplexes
+  - [Greglist](https://www.webcitation.org/6DYII2TVw?url=http://tubic.tju.edu.cn/greglist/) – a database listing potential G-quadruplex regulated genes
+  - \[<https://web.archive.org/web/20181021091915/http://quadbase.igib.res.in/>: Database on Quadruplex information: QuadBase from IGIB\]
+  - [GRSDB](http://bioinformatics.ramapo.edu/GRSDB2/)- a database of G-quadruplexes near RNA processing sites.
+  - [GRS_UTRdb](http://bioinformatics.ramapo.edu/GRS_UTRDB/)- a database of G-quadruplexes in the UTRs.
   - [G-quadruplex Resource Site](http://bioinformatics.ramapo.edu/GQRS/)
-  - [non-B Motif Search Tool at non-B
-    DB](https://web.archive.org/web/20101230025145/http://nonb.abcc.ncifcrf.gov/apps/nBMST/default)-
-    a web server to predict G-quadruplex forming motifs and other non-B
-    DNA forming motifs from users' DNA sequences.
+  - [non-B Motif Search Tool at non-B DB](https://web.archive.org/web/20101230025145/http://nonb.abcc.ncifcrf.gov/apps/nBMST/default)- a web server to predict G-quadruplex forming motifs and other non-B DNA forming motifs from users' DNA sequences.
 
 ### 預測G-四聯體的工具
 
-  - [Quadparser: Downloadable program for finding putative
-    quadruplex-forming
-    sequences](http://www.quadruplex.org/?view=quadparser_web) from
-    Balasubramanian's group.
-  - [QGRS Mapper: a web-based application for predicting G-quadruplexes
-    in nucleotide sequences and NCBI
-    genes](http://bioinformatics.ramapo.edu/QGRS/) from Bagga's group.
-  - [Quadfinder: Tool for Prediction and Analysis of G Quadruplex Motifs
-    in DNA/RNA Sequences from Maiti's group, IGIB, Delhi,
-    India](http://202.54.26.221/quadfinder/)
+  - [Quadparser: Downloadable program for finding putative quadruplex-forming sequences](http://www.quadruplex.org/?view=quadparser_web) from Balasubramanian's group.
+  - [QGRS Mapper: a web-based application for predicting G-quadruplexes in nucleotide sequences and NCBI genes](http://bioinformatics.ramapo.edu/QGRS/) from Bagga's group.
+  - [Quadfinder: Tool for Prediction and Analysis of G Quadruplex Motifs in DNA/RNA Sequences from Maiti's group, IGIB, Delhi, India](http://202.54.26.221/quadfinder/)
 
 [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink")
 

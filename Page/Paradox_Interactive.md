@@ -1,44 +1,30 @@
-**Paradox
-Interactive**是一家[瑞典](../Page/瑞典.md "wikilink")[电子游戏发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，发行自己子公司开发的游戏及其他公司开发的游戏，公司设于[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")，因发行诸多款历史策略类游戏而著名。它的子公司[Paradox
-Development
-Studio主要的代表作品包括](../Page/Paradox_Development_Studio.md "wikilink")[欧陆风云系列](../Page/歐陸風雲IV.md "wikilink")、[维多利亚系列](../Page/维多利亚II.md "wikilink")、[十字军之王系列](../Page/十字军之王II.md "wikilink")、[钢铁雄心系列](../Page/鋼鐵雄心IV.md "wikilink")、[群星等](../Page/群星_\(游戏\).md "wikilink")，以上五个系列的作品采用相同的引擎开发。除此之外，該公司曾是[骑马与砍杀系列的發行商](https://zh.wikipedia.org/wiki/骑马与砍杀 "wikilink")。
+**Paradox Interactive**是一家[瑞典](../Page/瑞典.md "wikilink")[电子游戏发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，发行自己子公司开发的游戏及其他公司开发的游戏，公司设于[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")，因发行诸多款历史策略类游戏而著名。它的子公司[Paradox Development Studio主要的代表作品包括](../Page/Paradox_Development_Studio.md "wikilink")[欧陆风云系列](../Page/歐陸風雲IV.md "wikilink")、[维多利亚系列](../Page/维多利亚II.md "wikilink")、[十字军之王系列](../Page/十字军之王II.md "wikilink")、[钢铁雄心系列](../Page/鋼鐵雄心IV.md "wikilink")、[群星等](../Page/群星_\(游戏\).md "wikilink")，以上五个系列的作品采用相同的引擎开发。除此之外，該公司曾是[骑马与砍杀系列的發行商](https://zh.wikipedia.org/wiki/骑马与砍杀 "wikilink")。
 
 ## 歷史
 
-1999年，[Paradox
-Entertainment成立](https://zh.wikipedia.org/wiki/:en:Cabinet_Entertainment "wikilink")，即破產後重建的[Target
-Games](https://zh.wikipedia.org/wiki/:en:Target_Games "wikilink")。
+1999年，[Paradox Entertainment成立](https://zh.wikipedia.org/wiki/:en:Cabinet_Entertainment "wikilink")，即破產後重建的[Target Games](https://zh.wikipedia.org/wiki/:en:Target_Games "wikilink")。
 
-2004年，Paradox Entertainment將業務移至洛杉磯，而斯德哥爾摩的業務分拆為Paradox
-Interactive。之後便是一個完全獨立的實體，不再是Paradox Entertainment的一部分。
+2004年，Paradox Entertainment將業務移至洛杉磯，而斯德哥爾摩的業務分拆為Paradox Interactive。之後便是一個完全獨立的實體，不再是Paradox Entertainment的一部分。
 
 2005年7月14日，Paradox Interactive收購Europa Universalis(品牌)。\[1\]
 
-2006年11月20日，Paradox Interactive成立[Gamer's
-Gate](https://zh.wikipedia.org/wiki/:en:Gamergate "wikilink")。
+2006年11月20日，Paradox Interactive成立[Gamer's Gate](https://zh.wikipedia.org/wiki/:en:Gamergate "wikilink")。
 
 2009年2月12日，Paradox Interactive成立Mezmer Games。\[2\]
 
-2009年12月17日，Paradox
-Interactive收購[AGEOD](https://zh.wikipedia.org/wiki/:en:AGEod "wikilink")。\[3\]
+2009年12月17日，Paradox Interactive收購[AGEOD](https://zh.wikipedia.org/wiki/:en:AGEod "wikilink")。\[3\]
 
-2012年6月4日，Paradox
-Interactive與[AGEOD分離](https://zh.wikipedia.org/wiki/:en:AGEod "wikilink")。\[4\]
+2012年6月4日，Paradox Interactive與[AGEOD分離](https://zh.wikipedia.org/wiki/:en:AGEod "wikilink")。\[4\]
 
-2015年10月29日，Paradox Interactive收購[White
-Wolf](../Page/White_Wolf.md "wikilink")。\[5\]
+2015年10月29日，Paradox Interactive收購[White Wolf](../Page/White_Wolf.md "wikilink")。\[5\]
 
-2016年5月27日，[腾讯](../Page/腾讯.md "wikilink")以1.38亿入手Paradox Interactive
-5%股份。\[6\]
+2016年5月27日，[腾讯](../Page/腾讯.md "wikilink")以1.38亿入手Paradox Interactive 5%股份。\[6\]
 
-2017年6月30日，Paradox Interactive收購[Triumph
-Studios](https://zh.wikipedia.org/wiki/:en:Triumph_Studios "wikilink")。\[7\]\[8\]\[9\]
+2017年6月30日，Paradox Interactive收購[Triumph Studios](https://zh.wikipedia.org/wiki/:en:Triumph_Studios "wikilink")。\[7\]\[8\]\[9\]
 
-2018年1月11日，Paradox Interactive以200萬美元收購Hardsuit Labs
-33％股份，一家位於西雅圖的開發工作室。\[10\]
+2018年1月11日，Paradox Interactive以200萬美元收購Hardsuit Labs 33％股份，一家位於西雅圖的開發工作室。\[10\]
 
-2018年6月5日，Paradox Interactive以750萬美元收購[Harebrained
-Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[11\]
+2018年6月5日，Paradox Interactive以750萬美元收購[Harebrained Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[11\]
 
 ## 發行游戏
 
@@ -396,10 +382,7 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
   - [Paradox Interactive](http://www.paradoxplaza.com)
   - [Paradox Interactive论坛](http://forum.paradoxplaza.com/forum/)
 
-[Category:瑞典電子遊戲公司](https://zh.wikipedia.org/wiki/Category:瑞典電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink")
+[Category:瑞典電子遊戲公司](https://zh.wikipedia.org/wiki/Category:瑞典電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink")
 
 1.
 
@@ -411,33 +394,25 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 
 5.
 
-6.  [Paradox Interactive listing attracts Tencent as fan and long-term
-    investor | Paradox Interactive - Global Games
-    Publisher](https://www.paradoxinteractive.com/en/paradox-interactive-listing-attracts-tencent-as-fan-and-long-term-investor/?cuid=499D7225FAF45F5C19BC56D51C62EA72&urlrefer=238e5a123e8e69f2a42acc16bf5e10de)
+6.  [Paradox Interactive listing attracts Tencent as fan and long-term investor | Paradox Interactive - Global Games Publisher](https://www.paradoxinteractive.com/en/paradox-interactive-listing-attracts-tencent-as-fan-and-long-term-investor/?cuid=499D7225FAF45F5C19BC56D51C62EA72&urlrefer=238e5a123e8e69f2a42acc16bf5e10de)
 
 7.
 
 8.
 
-9.   Paradox
-    Interactive|accessdate=2018-05-29|work=www.paradoxplaza.com|language=en}}
+9.   Paradox Interactive|accessdate=2018-05-29|work=www.paradoxplaza.com|language=en}}
 
 10.
 
 11.
 
-12. [Crusader Kings II](https://www.paradoxplaza.com/crusader-kings-2),
-    Paradox Plaza
+12. [Crusader Kings II](https://www.paradoxplaza.com/crusader-kings-2), Paradox Plaza
 
 13.
 
-14. [Ship Simulator Extremes
-    Listing](http://www.paradoxplaza.com/games/ship-simulator-extremes)
-    , Paradox Plaza
+14. [Ship Simulator Extremes Listing](http://www.paradoxplaza.com/games/ship-simulator-extremes) , Paradox Plaza
 
-15. [The King's
-    Crusade](https://www.paradoxplaza.com/the-kings-crusade), Paradox
-    Plaza
+15. [The King's Crusade](https://www.paradoxplaza.com/the-kings-crusade), Paradox Plaza
 
 16.
 17.

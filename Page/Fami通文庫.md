@@ -1,11 +1,10 @@
-**Fami通文庫**（，），現是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA旗下](../Page/KADOKAWA.md "wikilink")[enterbrain出版的](https://zh.wikipedia.org/wiki/enterbrain "wikilink")[輕小說文庫](../Page/輕小說.md "wikilink")。1998年由Aspect出版社創立，2000年ASCII集團重整後轉到enterbrain旗下。
+**Fami通文庫**（，），現是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下[enterbrain出版的](https://zh.wikipedia.org/wiki/enterbrain "wikilink")[輕小說](../Page/輕小說.md "wikilink")文庫。1998年由Aspect出版社創立，2000年ASCII集團重整後轉到enterbrain旗下。
 
 前身為Aspect發行的Logout冒險文庫（1993年－1996年）、Logout文庫（1997年－1998年）和Fami通遊戲文庫（1996年－1998年）。
 
 ## 簡介
 
-Logout冒險文庫以出版[Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")、HUMMINGBIRD
-SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logout文庫則出版原創的作品。Fami通遊戲文庫除了繼承一部分作品外，和前兩者沒有直接關聯。此外，Fami通遊戲文庫在出版大型電玩、家用遊戲的小說作品外，也出版題材廣泛的原創作品，因而改名為「Fami通文庫」。
+Logout冒險文庫以出版[Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")、HUMMINGBIRD SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logout文庫則出版原創的作品。Fami通遊戲文庫除了繼承一部分作品外，和前兩者沒有直接關聯。此外，Fami通遊戲文庫在出版大型電玩、家用遊戲的小說作品外，也出版題材廣泛的原創作品，因而改名為「Fami通文庫」。
 
 現在有重新出版紙上RPG的遊戲歷程。在2006年，也出版了規則書籍。
 
@@ -34,7 +33,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
   - [魔法學園MA](../Page/魔法學園MA.md "wikilink")（[榊一郎](../Page/榊一郎.md "wikilink")／[BLADE](https://zh.wikipedia.org/wiki/BLADE "wikilink")）
   - [月兔公主](../Page/月兔公主.md "wikilink")（[野村美月](../Page/野村美月.md "wikilink")／）
   - [文學少女](../Page/文學少女.md "wikilink")（野村美月／[竹岡美穗](https://zh.wikipedia.org/wiki/竹岡美穗 "wikilink")）
-  - [魔界戰記迪斯凱亞](../Page/魔界戰記.md "wikilink")（[神代創](https://zh.wikipedia.org/wiki/神代創 "wikilink")／[超肉](https://zh.wikipedia.org/wiki/超肉 "wikilink")）
+  - [魔界戰記](../Page/魔界戰記.md "wikilink")迪斯凱亞（[神代創](https://zh.wikipedia.org/wiki/神代創 "wikilink")／[超肉](https://zh.wikipedia.org/wiki/超肉 "wikilink")）
   - [狂戀聲優寶貝](../Page/狂戀聲優寶貝.md "wikilink")（[木本雅彥](https://zh.wikipedia.org/wiki/木本雅彥 "wikilink")／）
   - [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink")（[井上堅二](../Page/井上堅二.md "wikilink")／）
   - [第108年的初戀](https://zh.wikipedia.org/wiki/第108年的初戀 "wikilink")（[末永外徒](https://zh.wikipedia.org/wiki/末永外徒 "wikilink")／）
@@ -44,8 +43,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
   - [七色★星露](../Page/七色★星露.md "wikilink")（[市川環](https://zh.wikipedia.org/wiki/市川環 "wikilink")／）
   - [戰孃交響曲](https://zh.wikipedia.org/wiki/戰孃交響曲 "wikilink")（[築地俊彥](../Page/築地俊彥.md "wikilink")／[赤賀博隆](https://zh.wikipedia.org/wiki/赤賀博隆 "wikilink")）
   - [幽靈勇者](https://zh.wikipedia.org/wiki/幽靈勇者 "wikilink")（神代創／、超肉）
-  - [Bad\!
-    Daddy親親壞老爹](https://zh.wikipedia.org/wiki/Bad!_Daddy親親壞老爹 "wikilink")（野村美月／[煉瓦](https://zh.wikipedia.org/wiki/煉瓦 "wikilink")）
+  - [Bad\! Daddy親親壞老爹](https://zh.wikipedia.org/wiki/Bad!_Daddy親親壞老爹 "wikilink")（野村美月／[煉瓦](https://zh.wikipedia.org/wiki/煉瓦 "wikilink")）
   - [偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")（／）
   - [疾走！青春期的帕拉貝倫](https://zh.wikipedia.org/wiki/疾走！青春期的帕拉貝倫 "wikilink")（[深見真](https://zh.wikipedia.org/wiki/深見真 "wikilink")／[うなじ](https://zh.wikipedia.org/wiki/うなじ "wikilink")）
   - [我的愛馬很兇惡](https://zh.wikipedia.org/wiki/我的愛馬很兇惡 "wikilink")（[新井輝](https://zh.wikipedia.org/wiki/新井輝 "wikilink")／[緋鍵龍彥](../Page/緋鍵龍彥.md "wikilink")）
@@ -65,34 +63,28 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
   - [東雲侑子熱愛短篇小說](../Page/東雲侑子系列.md "wikilink")（／[Nardack](https://zh.wikipedia.org/wiki/Nardack "wikilink")）
   - [女裝皇家教師](https://zh.wikipedia.org/wiki/女裝皇家教師 "wikilink")（野村美月／[karory](https://zh.wikipedia.org/wiki/karory "wikilink")）
   - [四百二十連敗女孩](../Page/四百二十連敗女孩.md "wikilink")（桐山成人／[七桃りお](https://zh.wikipedia.org/wiki/七桃りお "wikilink")）
-  - [這份戀情，與其未來。](https://zh.wikipedia.org/wiki/這份戀情，與其未來。 "wikilink")
-    (／[Nardack](https://zh.wikipedia.org/wiki/Nardack "wikilink"))
+  - [這份戀情，與其未來。](https://zh.wikipedia.org/wiki/這份戀情，與其未來。 "wikilink") (／[Nardack](https://zh.wikipedia.org/wiki/Nardack "wikilink"))
 
 ### 青文出版社
 
   - [三月，七日。](../Page/三月，七日。.md "wikilink")（／）
   - [蓓蓓與BB團](https://zh.wikipedia.org/wiki/蓓蓓與BB團 "wikilink")（[田口仙年堂](https://zh.wikipedia.org/wiki/田口仙年堂 "wikilink")／）
   - [貝維克戰記](https://zh.wikipedia.org/wiki/貝維克戰記 "wikilink")（[冰上慧一](https://zh.wikipedia.org/wiki/冰上慧一 "wikilink")／[森田和明](https://zh.wikipedia.org/wiki/森田和明 "wikilink")、[松本規之](../Page/松本規之.md "wikilink")）
-  - [Bird Heart Beat
-    舞姬天翔](https://zh.wikipedia.org/wiki/Bird_Heart_Beat_舞姬天翔 "wikilink")（[伊東京一](https://zh.wikipedia.org/wiki/伊東京一 "wikilink")／[Pako](../Page/Pako.md "wikilink")）
+  - [Bird Heart Beat 舞姬天翔](https://zh.wikipedia.org/wiki/Bird_Heart_Beat_舞姬天翔 "wikilink")（[伊東京一](https://zh.wikipedia.org/wiki/伊東京一 "wikilink")／[Pako](../Page/Pako.md "wikilink")）
   - [魔物獵人](https://zh.wikipedia.org/wiki/魔物獵人 "wikilink")（／）
   - [大家的阿葵兒！](https://zh.wikipedia.org/wiki/大家的阿葵兒！ "wikilink")（[淺沼廣太](https://zh.wikipedia.org/wiki/淺沼廣太 "wikilink")／）
   - [鋼鐵白兔騎士團](https://zh.wikipedia.org/wiki/鋼鐵白兔騎士團 "wikilink")（[舞阪洸](https://zh.wikipedia.org/wiki/舞阪洸 "wikilink")／）
   - [君吻](../Page/君吻.md "wikilink")（[日暮茶坊](https://zh.wikipedia.org/wiki/日暮茶坊 "wikilink")／[高山箕犀](../Page/高山箕犀.md "wikilink")、[加茂](https://zh.wikipedia.org/wiki/加茂 "wikilink")）
   - [PULP](https://zh.wikipedia.org/wiki/PULP "wikilink")（／[隼優紀](https://zh.wikipedia.org/wiki/隼優紀 "wikilink")）
   - [塵骸魔京](../Page/塵骸魔京.md "wikilink")（[海法紀光](../Page/海法紀光.md "wikilink")／）
-  - [暴風Girls
-    Fight](../Page/暴風Girls_Fight.md "wikilink")（／[倉藤倖](https://zh.wikipedia.org/wiki/倉藤倖 "wikilink")）
-  - [噬神戰士
-    打破禁忌之人](https://zh.wikipedia.org/wiki/噬神戰士_打破禁忌之人 "wikilink")（／[曾我部修司](https://zh.wikipedia.org/wiki/曾我部修司 "wikilink")）
+  - [暴風Girls Fight](../Page/暴風Girls_Fight.md "wikilink")（／[倉藤倖](https://zh.wikipedia.org/wiki/倉藤倖 "wikilink")）
+  - [噬神戰士 打破禁忌之人](https://zh.wikipedia.org/wiki/噬神戰士_打破禁忌之人 "wikilink")（／[曾我部修司](https://zh.wikipedia.org/wiki/曾我部修司 "wikilink")）
   - [百億魔女物語](https://zh.wikipedia.org/wiki/百億魔女物語 "wikilink")（[竹岡葉月](https://zh.wikipedia.org/wiki/竹岡葉月 "wikilink")／）
   - [我的她是戰爭妖精](https://zh.wikipedia.org/wiki/我的她是戰爭妖精 "wikilink")（[嬉野秋彥](https://zh.wikipedia.org/wiki/嬉野秋彥 "wikilink")／）
   - [星塵中隊　離星空最近之處](https://zh.wikipedia.org/wiki/星塵中隊_離星空最近之處 "wikilink")（[foca](https://zh.wikipedia.org/wiki/foca "wikilink")／）
-  - [魔物獵人 EPISODE \~
-    novel.](../Page/魔物獵人系列.md "wikilink")（[冰上慧一](https://zh.wikipedia.org/wiki/冰上慧一 "wikilink")／[布施龍太](https://zh.wikipedia.org/wiki/布施龍太 "wikilink")）
+  - [魔物獵人 EPISODE \~ novel.](../Page/魔物獵人系列.md "wikilink")（[冰上慧一](https://zh.wikipedia.org/wiki/冰上慧一 "wikilink")／[布施龍太](https://zh.wikipedia.org/wiki/布施龍太 "wikilink")）
   - 鼻血店長就不行嗎？（[新木伸](../Page/新木伸.md "wikilink")／[火曜](https://zh.wikipedia.org/wiki/火曜 "wikilink")）
-  - [翠星上的加爾岡緹亞](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")（[谷村大四郎](https://zh.wikipedia.org/wiki/谷村大四郎 "wikilink")／[Production
-    I.G](../Page/Production_I.G.md "wikilink")）
+  - [翠星上的加爾岡緹亞](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")（[谷村大四郎](https://zh.wikipedia.org/wiki/谷村大四郎 "wikilink")／[Production I.G](../Page/Production_I.G.md "wikilink")）
   - [大圖書館的牧羊人](../Page/大圖書館的牧羊人.md "wikilink")（[田尾典丈](https://zh.wikipedia.org/wiki/田尾典丈 "wikilink")／）
   - [學校的暗殺社](https://zh.wikipedia.org/wiki/學校的暗殺社 "wikilink")（[深見真](https://zh.wikipedia.org/wiki/深見真 "wikilink")／）
 
@@ -126,8 +118,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
 
   - [enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")
   - [Entame大獎小說部門](../Page/Entame大獎小說部門.md "wikilink")
-  - [Light Novel
-    Award](https://zh.wikipedia.org/wiki/Light_Novel_Award "wikilink")
+  - [Light Novel Award](https://zh.wikipedia.org/wiki/Light_Novel_Award "wikilink")
       - [富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")
       - [富士見Mystery文庫](../Page/富士見Mystery文庫.md "wikilink")
       - [電擊文庫](../Page/電擊文庫.md "wikilink")

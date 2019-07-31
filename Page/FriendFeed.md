@@ -1,7 +1,6 @@
 **FriendFeed**是一个聚合个人信息的网站，可整合网络[社区媒体](https://zh.wikipedia.org/wiki/社会媒体 "wikilink")、[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")、书签网站、[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")、[微博客的更新](https://zh.wikipedia.org/wiki/微博客 "wikilink")，及其他[RSS](../Page/RSS.md "wikilink")/[Atom信源](../Page/Atom_\(標準\).md "wikilink")。用户可将此类信息流量整合到[Feed与好友共享](../Page/消息來源.md "wikilink")、评论。\[1\]据官网自述，FriendFeed目标旨在以工具的形式通过现有社交网络发现信息的妙趣，以及实现Web内容的更好相关程度与实用性质。在网站中可以个人、公司或者团体组织的身份成为注册用户。有博客文章提到，一般较之于其他社区媒体的服务之仅仅跟踪用户于自身网站的动态，FriendFeed可令好友在更广范围（比方说[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[Flickr](../Page/Flickr.md "wikilink")）的动态受到反映\[2\]。部分博客作者关心浏览者在FriendFeed中对所著文章的评论，更甚于在其博客页面之评论\[3\]。
 
-FriendFeed的创始人曾经全部就职于[Google](../Page/Google.md "wikilink")，并参与了[Gmail](../Page/Gmail.md "wikilink")、[Google
-Maps等等服务的创立](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")。
+FriendFeed的创始人曾经全部就职于[Google](../Page/Google.md "wikilink")，并参与了[Gmail](../Page/Gmail.md "wikilink")、[Google Maps等等服务的创立](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")。
 
 FriendFeed的公司位于[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[芒廷维尤](https://zh.wikipedia.org/wiki/芒廷维尤_\(加利福尼亚州\) "wikilink")。
 
@@ -119,26 +118,14 @@ FriendFeed的公司位于[美国](../Page/美国.md "wikilink")[加州](https://
 
   - [FriendFeed.com](http://friendfeed.com/)
   - [FriendFeed.com](https://web.archive.org/web/20090426075857/http://friendfeed.com/)（[https安全连接存档](https://zh.wikipedia.org/wiki/https "wikilink")）
-  - [FriendFeed Is This Years Twitter, But
-    Why?](http://www.techcrunch.com/2008/03/14/friendfeed-is-this-years-twitter-but-why/)
-  - [Friendfeed.com raises $5m
-    VC](https://web.archive.org/web/20090628235300/http://www.indusbusinessjournal.com/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=8B91C64FDD134A72A97A61AC49AE688B)
-  - [CrunchBase on
-    FriendFeed](http://www.crunchbase.com/company/friendfeed)
+  - [FriendFeed Is This Years Twitter, But Why?](http://www.techcrunch.com/2008/03/14/friendfeed-is-this-years-twitter-but-why/)
+  - [Friendfeed.com raises $5m VC](https://web.archive.org/web/20090628235300/http://www.indusbusinessjournal.com/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=8B91C64FDD134A72A97A61AC49AE688B)
+  - [CrunchBase on FriendFeed](http://www.crunchbase.com/company/friendfeed)
 
 {{-}}
 
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:Facebook收購](https://zh.wikipedia.org/wiki/Category:Facebook收購 "wikilink")
-[Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink")
+[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:Facebook收購](https://zh.wikipedia.org/wiki/Category:Facebook收購 "wikilink") [Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink")
 
-1.  ["AT\&T and Verizon Wireless Offer New Services for
-    Friends"](http://bits.blogs.nytimes.com/2008/09/09/att-and-verizon-wireless-offer-new-services-for-friends/)
-    September 9th, 2008 New York Times, retrieved September 11th, 2008
-2.  [FriendFeed launch cover on VentureBeat,
-    October 1, 2007](http://venturebeat.com/2007/10/01/friendfeed-a-company-lets-you-see-all-your-friends-feeds/)
-3.  ["Just How Much is the Conversation
-    Worth?"](http://www.centernetworks.com/conversation-monetization)
-    CenterNetworks.com, July 3, 2008
+1.  ["AT\&T and Verizon Wireless Offer New Services for Friends"](http://bits.blogs.nytimes.com/2008/09/09/att-and-verizon-wireless-offer-new-services-for-friends/) September 9th, 2008 New York Times, retrieved September 11th, 2008
+2.  [FriendFeed launch cover on VentureBeat, October 1, 2007](http://venturebeat.com/2007/10/01/friendfeed-a-company-lets-you-see-all-your-friends-feeds/)
+3.  ["Just How Much is the Conversation Worth?"](http://www.centernetworks.com/conversation-monetization)  CenterNetworks.com, July 3, 2008

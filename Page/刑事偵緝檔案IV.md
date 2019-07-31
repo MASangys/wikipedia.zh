@@ -1723,18 +1723,9 @@ Frankie之妻</p></td>
 
 ## 外部連結
 
-  - [無綫電視官方網頁 -
-    刑事偵緝檔案IV](https://web.archive.org/web/20091027074439/http://tvcity.tvb.com/drama/detect4/index.htm)
-  - [《刑事偵緝檔案 IV》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222162656/http://gotv.tvb.com/programme/102370/149376/)
+  - [無綫電視官方網頁 - 刑事偵緝檔案IV](https://web.archive.org/web/20091027074439/http://tvcity.tvb.com/drama/detect4/index.htm)
+  - [《刑事偵緝檔案 IV》 GOTV 第1集重溫](https://web.archive.org/web/20140222162656/http://gotv.tvb.com/programme/102370/149376/)
 
 ## 電視節目的變遷
 
-[Category:1999年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1999年無綫電視劇集 "wikilink")
-[Category:刑事偵緝檔案系列](https://zh.wikipedia.org/wiki/Category:刑事偵緝檔案系列 "wikilink")
-[Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink")
-[Category:犯罪题材作品](https://zh.wikipedia.org/wiki/Category:犯罪题材作品 "wikilink")
-[Category:推理電視劇](https://zh.wikipedia.org/wiki/Category:推理電視劇 "wikilink")
-[Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
+[Category:1999年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1999年無綫電視劇集 "wikilink") [Category:刑事偵緝檔案系列](https://zh.wikipedia.org/wiki/Category:刑事偵緝檔案系列 "wikilink") [Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink") [Category:犯罪题材作品](https://zh.wikipedia.org/wiki/Category:犯罪题材作品 "wikilink") [Category:推理電視劇](https://zh.wikipedia.org/wiki/Category:推理電視劇 "wikilink") [Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")

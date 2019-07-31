@@ -122,5 +122,4 @@
 
 [Category:台灣電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:台灣電視台電視劇列表 "wikilink")
 
-1.  [振興本土電視圈　新聞局擬黃金時段禁播韓劇等外來劇](http://www.nownews.com/2006/01/10/91-1892266.htm)
-    2006年1月10日，NOWnews 今日新聞網
+1.  [振興本土電視圈　新聞局擬黃金時段禁播韓劇等外來劇](http://www.nownews.com/2006/01/10/91-1892266.htm) 2006年1月10日，NOWnews 今日新聞網

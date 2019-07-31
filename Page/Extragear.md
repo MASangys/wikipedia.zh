@@ -1,13 +1,11 @@
-**Extragear**
-是一個[KDE](../Page/KDE.md "wikilink")應用程序軟體包。這些應用程序，由於各種原因不屬於KDE的主要發行版，但他們仍然是專案的一部分。這讓他們對於文件翻譯人員有更高的知名度。
+**Extragear** 是一個[KDE](../Page/KDE.md "wikilink")應用程序軟體包。這些應用程序，由於各種原因不屬於KDE的主要發行版，但他們仍然是專案的一部分。這讓他們對於文件翻譯人員有更高的知名度。
 
 應用程序有多種可能的原因不能放在在KDE模塊中，例如：
 
   - 功能重複
   - 非常專業（如 KSMSSend)
 
-然而，最主要的原因是應用程序在Extragear中可以獨立主要的KDE軟件包（
-[KDELibs](../Page/KDELibs.md "wikilink")、[KDEBase等](https://zh.wikipedia.org/wiki/KDEBase "wikilink")）發布，讓他們的維護者尋求自己的發展計劃。
+然而，最主要的原因是應用程序在Extragear中可以獨立主要的KDE軟件包（ [KDELibs](../Page/KDELibs.md "wikilink")、[KDEBase等](https://zh.wikipedia.org/wiki/KDEBase "wikilink")）發布，讓他們的維護者尋求自己的發展計劃。
 
 ## 圖像
 
@@ -17,8 +15,7 @@
   - [KPhotoAlbum](https://zh.wikipedia.org/wiki/KPhotoAlbum "wikilink")：相冊管理。
   - [KIPI](../Page/KIPI.md "wikilink")：通用的外掛程式結構，讓各種圖形應用程式之間分享圖像外掛程式。
   - [KuickShow](https://zh.wikipedia.org/wiki/KuickShow "wikilink")：一個圖像瀏覽器。
-  - [KPovModeler](https://zh.wikipedia.org/wiki/KPovModeler "wikilink")：[POV-Ray](../Page/POV-Ray.md "wikilink")的3D
-    建模
+  - [KPovModeler](https://zh.wikipedia.org/wiki/KPovModeler "wikilink")：[POV-Ray](../Page/POV-Ray.md "wikilink")的3D 建模
   - [showimg](https://zh.wikipedia.org/wiki/showimg "wikilink")
 
 ## 多媒體
@@ -34,8 +31,7 @@
 
   - [KDEBluetooth](https://zh.wikipedia.org/wiki/KDEBluetooth "wikilink")
   - [KFTPGrabber](https://zh.wikipedia.org/wiki/KFTPGrabber "wikilink")，一個[FTP客戶端](https://zh.wikipedia.org/wiki/FTP "wikilink")。
-  - [KMLDonkey](https://zh.wikipedia.org/wiki/KMLDonkey "wikilink")，[MLDonkey](../Page/MLDonkey.md "wikilink")
-    前端（一個強大的P2P文件共享工具）
+  - [KMLDonkey](https://zh.wikipedia.org/wiki/KMLDonkey "wikilink")，[MLDonkey](../Page/MLDonkey.md "wikilink") 前端（一個強大的P2P文件共享工具）
   - [KMyFirewall](https://zh.wikipedia.org/wiki/KMyFirewall "wikilink")
   - [KNetLoad](https://zh.wikipedia.org/wiki/KNetLoad "wikilink")
   - [KNetStats](https://zh.wikipedia.org/wiki/KNetStats "wikilink")
@@ -47,8 +43,7 @@
 
   - [Skrooge](https://zh.wikipedia.org/wiki/Skrooge "wikilink")
   - [dataKiosk](https://zh.wikipedia.org/wiki/dataKiosk "wikilink")
-  - [Kile](../Page/Kile.md "wikilink")，[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")
-    編輯器
+  - [Kile](../Page/Kile.md "wikilink")，[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink") 編輯器
 
 ## 科學
 
@@ -80,5 +75,4 @@
 
   - [KDE Extragear 官方網站](http://extragear.kde.org/)
 
-[Category:KDE_Extragear](https://zh.wikipedia.org/wiki/Category:KDE_Extragear "wikilink")
-[Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
+[Category:KDE_Extragear](https://zh.wikipedia.org/wiki/Category:KDE_Extragear "wikilink") [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")

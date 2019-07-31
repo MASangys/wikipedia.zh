@@ -17,13 +17,6 @@
   -
   -
   -
-[Category:1998年電影](https://zh.wikipedia.org/wiki/Category:1998年電影 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:1990年代特摄作品](https://zh.wikipedia.org/wiki/Category:1990年代特摄作品 "wikilink")
-[Category:冒险片](https://zh.wikipedia.org/wiki/Category:冒险片 "wikilink")
-[Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink")
-[Category:星际旅行剧情](https://zh.wikipedia.org/wiki/Category:星际旅行剧情 "wikilink")
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
+[Category:1998年電影](https://zh.wikipedia.org/wiki/Category:1998年電影 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:1990年代特摄作品](https://zh.wikipedia.org/wiki/Category:1990年代特摄作品 "wikilink") [Category:冒险片](https://zh.wikipedia.org/wiki/Category:冒险片 "wikilink") [Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink") [Category:星际旅行剧情](https://zh.wikipedia.org/wiki/Category:星际旅行剧情 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
 
-1.  <http://uk.rottentomatoes.com/m/star_trek_insurrection/>
-    原文：“glorified episode of the television series”．
+1.  <http://uk.rottentomatoes.com/m/star_trek_insurrection/> 原文：“glorified episode of the television series”．

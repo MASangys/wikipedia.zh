@@ -1,15 +1,10 @@
-**比特梵徳**（）是一款由[罗马尼亚的](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")[Softwin](https://zh.wikipedia.org/wiki/Softwin "wikilink")[软件](../Page/软件.md "wikilink")[公司开发的](../Page/公司.md "wikilink")[杀毒软件](../Page/杀毒软件.md "wikilink")。
+**比特梵徳**（）是一款由[罗马尼亚的](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")[Softwin](https://zh.wikipedia.org/wiki/Softwin "wikilink")[软件](../Page/软件.md "wikilink")[公司](../Page/公司.md "wikilink")开发的[杀毒软件](../Page/杀毒软件.md "wikilink")。
 
-BitDefender诞生于2001年11月，代替了它之前的AVX（[AntiVirus
-eXpress](https://zh.wikipedia.org/wiki/AntiVirus_eXpress "wikilink")）系列产品。该产品包括有家庭版、商业版、企业版和服务器版。家庭版支持[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Symbian
-OS和](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")[Windows
-Mobile](../Page/Windows_Mobile.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，其他版本則支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux和](../Page/Linux.md "wikilink")[FreeBSD操作系统](../Page/FreeBSD.md "wikilink")。最新版本的功能包括[病毒](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")、[间谍软件防護](../Page/间谍软件.md "wikilink")、[防火墙](../Page/防火墙.md "wikilink")、[垃圾邮件过滤器等组件](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")。另外，其网站提供免费的简单在线查毒。
+BitDefender诞生于2001年11月，代替了它之前的AVX（[AntiVirus eXpress](https://zh.wikipedia.org/wiki/AntiVirus_eXpress "wikilink")）系列产品。该产品包括有家庭版、商业版、企业版和服务器版。家庭版支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Symbian OS和](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")[Windows Mobile](../Page/Windows_Mobile.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，其他版本則支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")和[FreeBSD](../Page/FreeBSD.md "wikilink")操作系统。最新版本的功能包括[病毒](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")、[间谍软件](../Page/间谍软件.md "wikilink")防護、[防火墙](../Page/防火墙.md "wikilink")、[垃圾邮件过滤器等组件](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")。另外，其网站提供免费的简单在线查毒。
 
-在2013年初，BitDefender推出了第一款具有常駐防護的防毒軟體：[Bitdefender Antivirus Free
-Edition](http://www.bitdefender.com/solutions/free.html)。
+在2013年初，BitDefender推出了第一款具有常駐防護的防毒軟體：[Bitdefender Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)。
 
-中國的安全软件[360杀毒使用BitDefender病毒库](../Page/360杀毒.md "wikilink")。\[1\]
+中國的安全软件[360杀毒](../Page/360杀毒.md "wikilink")使用BitDefender病毒库。\[1\]
 
 ## 版本
 

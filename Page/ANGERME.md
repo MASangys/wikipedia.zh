@@ -1,8 +1,6 @@
-**ANGERME**（****），前稱**S/mileage**，[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
+**ANGERME**（****），前稱**S/mileage**，[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
-2009年4月從[Hello\! pro
-EGG中選出四名成員組成](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wikilink")。號稱「日本裙子最短偶像團體」。
+2009年4月從[Hello\! pro EGG中選出四名成員組成](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wikilink")。號稱「日本裙子最短偶像團體」。
 
 2010年5月26日發行出道單曲“愛做夢的15歲”主流出道。
 
@@ -12,8 +10,7 @@ EGG中選出四名成員組成](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wi
 
 一期成員[小川紗季](../Page/小川紗季.md "wikilink")因為學業進修而畢業。
 
-準成員[小數賀芙由香因貧血問題身體不適](https://zh.wikipedia.org/wiki/小數賀芙由香 "wikilink")，未成為正式成員前就宣佈退出，痊癒後進入[Hello\!
-Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")，而其餘四人全部升格，其後[前田憂佳](../Page/前田憂佳.md "wikilink")因為學業進修而畢業。
+準成員[小數賀芙由香因貧血問題身體不適](https://zh.wikipedia.org/wiki/小數賀芙由香 "wikilink")，未成為正式成員前就宣佈退出，痊癒後進入[Hello\! Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")，而其餘四人全部升格，其後[前田憂佳](../Page/前田憂佳.md "wikilink")因為學業進修而畢業。
 
 2015年1月1日起改名為由成員中西香菜提出的**ANGERME**（****）。
 
@@ -379,8 +376,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 
 <!-- end list -->
 
-  - 2014年12月18日起，團名改為「ANGERME」，為成員中西香菜所提出。團名「ANGERME」是兩個法語詞 -
-    天使（ange）和眼涙（larme）組成。寓意「擁有天使般温柔的心，亦有讓人感動及流涙的情感和力量。」
+  - 2014年12月18日起，團名改為「ANGERME」，為成員中西香菜所提出。團名「ANGERME」是兩個法語詞 - 天使（ange）和眼涙（larme）組成。寓意「擁有天使般温柔的心，亦有讓人感動及流涙的情感和力量。」
 
 ## 特色
 
@@ -393,15 +389,12 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 
 ### 2009
 
-  - 4月4日，「2009 ハロー\!プロジェクト新人公演4月
-    ～横浜HOP\!～」中發表[和田彩花](../Page/和田彩花.md "wikilink")、[前田憂佳](../Page/前田憂佳.md "wikilink")、[福田花音](../Page/福田花音.md "wikilink")、[小川紗季](../Page/小川紗季.md "wikilink")將組成新團體。
+  - 4月4日，「2009 ハロー\!プロジェクト新人公演4月 ～横浜HOP\!～」中發表[和田彩花](../Page/和田彩花.md "wikilink")、[前田憂佳](../Page/前田憂佳.md "wikilink")、[福田花音](../Page/福田花音.md "wikilink")、[小川紗季](../Page/小川紗季.md "wikilink")將組成新團體。
   - 5月8日，製作人[淳君](../Page/淳君.md "wikilink")於部落格中發表了新團體的名稱為“S/mileage”\[2\]。
   - 6月7日，「2009 ハロー\!プロジェクト新人公演6月 ～中野STEP\!～」的會場販賣獨立製作出道單曲「ぁまのじゃく」。
   - 8月26日，和田、前田、褔田三人從[守護甜心EGG\!](../Page/守護甜心EGG!.md "wikilink")中畢業。
   - 9月23日，「2009ハロー！プロジェクト新人公演9月～横浜JUMP\!～」的會場販賣第二張獨立製作單曲「あすはデートなのに、今すぐ声が聞きたい」。
-  - 11月23日，「2009ハロー！プロジェクト新人公演11月～横浜FIRE\!～」的會場販賣第三張獨立製作單曲「スキちゃん」。發表將於明年春天從[Hello\!
-    pro
-    EGG中畢業](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wikilink")，並正式出道。
+  - 11月23日，「2009ハロー！プロジェクト新人公演11月～横浜FIRE\!～」的會場販賣第三張獨立製作單曲「スキちゃん」。發表將於明年春天從[Hello\! pro EGG中畢業](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wikilink")，並正式出道。
   - 12月15日，S／mileage官方名稱變更為片假名表記的「スマイレージ」。
 
 ### 2010
@@ -409,16 +402,11 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
   - 2月26日，開設官方網站\[3\]及官方 Twitter 帳戶。
   - 2月28日，以嘉賓身份參加2010年LIVE 2月。
   - 2月28日，製作人[淳君](../Page/淳君.md "wikilink")決定，從2月28日～3月25日，必須收集到10000張笑容的照片，作為出道條件\[4\]。
-  - 3月14日，「スペシャルジョイント2010春
-    〜感謝満開！真野恵里菜2周年突入＆S/mileageメジャーデビューへ桜咲け！ライブ〜」的會場販賣第四張獨立製作單曲「オトナになるって難しい！！！」。
-  - 3月27日，「ハロー！プロジェクト新人公演3月～横浜GOLD\!～」中從[Hello\! Project
-    Egg卒業](https://zh.wikipedia.org/wiki/Hello!_Project_Egg "wikilink")。
+  - 3月14日，「スペシャルジョイント2010春 〜感謝満開！真野恵里菜2周年突入＆S/mileageメジャーデビューへ桜咲け！ライブ〜」的會場販賣第四張獨立製作單曲「オトナになるって難しい！！！」。
+  - 3月27日，「ハロー！プロジェクト新人公演3月～横浜GOLD\!～」中從[Hello\! Project Egg卒業](https://zh.wikipedia.org/wiki/Hello!_Project_Egg "wikilink")。
   - 5月26日，發行出道單曲《[做夢的 15歲](../Page/做夢的_15歲.md "wikilink")》。
-  - 5月30日，於[MUSIC
-    JAPAN出演](../Page/MUSIC_JAPAN.md "wikilink")，同場還有師姐[早安少女組。](../Page/早安少女組。.md "wikilink")另有[AKB48](../Page/AKB48.md "wikilink")等多個組合。
-  - 8月30～31日，於[澀谷](../Page/澀谷.md "wikilink")C.C.Lemon Hall出演「[Idol Unit
-    Summer Festival
-    2010](https://zh.wikipedia.org/wiki/Idol_Unit_Summer_Festival_2010 "wikilink")」。\[5\]
+  - 5月30日，於[MUSIC JAPAN出演](../Page/MUSIC_JAPAN.md "wikilink")，同場還有師姐[早安少女組。](../Page/早安少女組。.md "wikilink")另有[AKB48](../Page/AKB48.md "wikilink")等多個組合。
+  - 8月30～31日，於[澀谷](../Page/澀谷.md "wikilink")C.C.Lemon Hall出演「[Idol Unit Summer Festival 2010](https://zh.wikipedia.org/wiki/Idol_Unit_Summer_Festival_2010 "wikilink")」。\[5\]
   - 12月30日，獲得第52屆日本唱片大賞最優秀新人賞\[6\]。
 
 ### 2011
@@ -429,17 +417,13 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
   - 8月14日，發表中西香菜、小數賀芙由香、竹内朱莉、勝田里奈、田村芽實以準成員身分加入。
   - 8月24日，宣佈成員[小川紗季](../Page/小川紗季.md "wikilink")將在8月27日於名古屋東別院HALL舉辦的『有頂天LOVE』演唱會活動後，從S/mileage以及早安家族畢業。
   - 8月27日，[小川紗季](../Page/小川紗季.md "wikilink")正式畢業，退出藝能界。
-  - 9月9日，準成員[小数賀芙由香因](https://zh.wikipedia.org/wiki/小数賀芙由香 "wikilink")「重度貧血」，必須避免劇烈運動並進行數個月的治療，宣佈退出[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")。治療回復後，將以[Hello\!
-    Project
-    Egg的身分重新開始](https://zh.wikipedia.org/wiki/Hello!_Project_Egg "wikilink")。
+  - 9月9日，準成員[小数賀芙由香因](https://zh.wikipedia.org/wiki/小数賀芙由香 "wikilink")「重度貧血」，必須避免劇烈運動並進行數個月的治療，宣佈退出[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")。治療回復後，將以[Hello\! Project Egg的身分重新開始](https://zh.wikipedia.org/wiki/Hello!_Project_Egg "wikilink")。
   - 9月15日，開設四位準成員的『Ameba』部落格\[8\]。
   - 9月28日，發行準成員加入後的第一張單曲，第七單《[站起來女孩](../Page/站起來女孩.md "wikilink")》。
   - 10月16日，四位準成員中西香菜、竹内朱莉、勝田里奈、田村芽實升格為正式成員\[9\]。
   - 10月25日，宣佈成員[前田憂佳](../Page/前田憂佳.md "wikilink")因升學關係，將於12月31日，從S/mileage及早安家族畢業\[10\]。
-  - 12月28日，發行第八張單曲《[Please Miniskirt
-    Postwoman\!](../Page/Please_Miniskirt_Postwoman!.md "wikilink")》，為前田畢業前的最後一單，亦是出道以來最高銷量單曲（36,513）。
-  - 12月31日，[前田憂佳](../Page/前田憂佳.md "wikilink")於「S/mileage Mega Bank
-    vol.4」出演完畢後，正式畢業，退出藝能界\[11\]。
+  - 12月28日，發行第八張單曲《[Please Miniskirt Postwoman\!](../Page/Please_Miniskirt_Postwoman!.md "wikilink")》，為前田畢業前的最後一單，亦是出道以來最高銷量單曲（36,513）。
+  - 12月31日，[前田憂佳](../Page/前田憂佳.md "wikilink")於「S/mileage Mega Bank vol.4」出演完畢後，正式畢業，退出藝能界\[11\]。
 
 ### 2012
 
@@ -467,48 +451,33 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 ### 2015
 
   - 1月1日，更名為ANGERME。
-  - 5月20日，成員[福田花音](../Page/福田花音.md "wikilink")於Hello\! Project YouTube
-    節目「ハロ！ステ」中宣佈將於2015年秋天正式從ANGERME及Hello\! Project中畢業。
-  - 5月26日，ANGERME於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會「ANGERME
-    STARTING LIVE TOUR SPECIAL @ 日本武道館
-    『大器晩成』」。早前，宣佈畢業的成員[福田花音](../Page/福田花音.md "wikilink")定於11月29日，在[日本武道館](../Page/日本武道館.md "wikilink")舉行畢業演唱會。
-  - 6月24日，成員[和田彩花](../Page/和田彩花.md "wikilink")於Hello\! Project YouTube
-    節目「ハロ！ステ」中宣佈舉辦新成員甄選。
-  - 11月11日，成員[福田花音](../Page/福田花音.md "wikilink")畢業單曲、第20張單曲《[高人一等就不會被打壓 /
-    逆轉勝 /
-    我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")》發行。同日宣佈四期成員[上國料萌衣加入ANGERME](https://zh.wikipedia.org/wiki/上國料萌衣 "wikilink")。
-  - 11月29日，於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會『ANGERME First Tour
-    Concert 2015秋「百花繚乱」〜福田花音畢業Special〜』
-    。福田花音畢業、[中西香菜](../Page/中西香菜.md "wikilink")和[竹內朱莉被任命為副隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。
-  - 12月20日，成員[田村芽實](../Page/田村芽實.md "wikilink")宣佈將於2016年春天正式從ANGERME及Hello\!
-    Project中畢業。
+  - 5月20日，成員[福田花音](../Page/福田花音.md "wikilink")於Hello\! Project YouTube 節目「ハロ！ステ」中宣佈將於2015年秋天正式從ANGERME及Hello\! Project中畢業。
+  - 5月26日，ANGERME於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會「ANGERME STARTING LIVE TOUR SPECIAL @ 日本武道館 『大器晩成』」。早前，宣佈畢業的成員[福田花音](../Page/福田花音.md "wikilink")定於11月29日，在[日本武道館](../Page/日本武道館.md "wikilink")舉行畢業演唱會。
+  - 6月24日，成員[和田彩花](../Page/和田彩花.md "wikilink")於Hello\! Project YouTube 節目「ハロ！ステ」中宣佈舉辦新成員甄選。
+  - 11月11日，成員[福田花音](../Page/福田花音.md "wikilink")畢業單曲、第20張單曲《[高人一等就不會被打壓 / 逆轉勝 / 我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")》發行。同日宣佈四期成員[上國料萌衣加入ANGERME](https://zh.wikipedia.org/wiki/上國料萌衣 "wikilink")。
+  - 11月29日，於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會『ANGERME First Tour Concert 2015秋「百花繚乱」〜福田花音畢業Special〜』 。福田花音畢業、[中西香菜](../Page/中西香菜.md "wikilink")和[竹內朱莉被任命為副隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。
+  - 12月20日，成員[田村芽實](../Page/田村芽實.md "wikilink")宣佈將於2016年春天正式從ANGERME及Hello\! Project中畢業。
 
 ### 2016
 
-  - 5月30日，於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會『ANGERME Concert
-    Tour 2016春 九位一體 ～田村芽實畢業Special～』中，正式從ANGERME和Hello\!Project畢業。
-  - 7月16日，於[早安家族](../Page/早安家族.md "wikilink")演唱會『Hello\!Project 2016
-    SUMMER～Sunshine
-    Parade～』上宣佈五期成員、ハロプロ研修生[笠原桃奈](../Page/笠原桃奈.md "wikilink")加入。
+  - 5月30日，於[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會『ANGERME Concert Tour 2016春 九位一體 ～田村芽實畢業Special～』中，正式從ANGERME和Hello\!Project畢業。
+  - 7月16日，於[早安家族](../Page/早安家族.md "wikilink")演唱會『Hello\!Project 2016 SUMMER～Sunshine Parade～』上宣佈五期成員、ハロプロ研修生[笠原桃奈](../Page/笠原桃奈.md "wikilink")加入。
 
 ### 2017
 
   - 1月11日，[相川茉穗因被診斷患上](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")[恐慌症](../Page/恐慌症.md "wikilink")暫時停止所有活動。
-  - 6月26日，於ハロ！ステ影片中宣佈加入六期成員為從[Country
-    Girls移籍的](../Page/Country_Girls.md "wikilink")[船木結](../Page/船木結.md "wikilink")及ハロプロ研修生[川村文乃](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
+  - 6月26日，於ハロ！ステ影片中宣佈加入六期成員為從[Country Girls移籍的](../Page/Country_Girls.md "wikilink")[船木結](../Page/船木結.md "wikilink")及ハロプロ研修生[川村文乃](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
   - 7月12日，官網公告，日前被診斷出[恐慌症](../Page/恐慌症.md "wikilink")的[相川茉穗近日狀況雖有好轉](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")，日常生活中也無其症狀發作，但若是長時間處於人多或是緊張的狀況下，仍有再復發的可能性。儘管本人向事務所表達繼續活動的意願，但仍有其疑慮。今後仍會再多做觀察，至少休養至秋季巡迴演唱會結束。
   - 12月31日，官網公告，[相川茉穗從](https://zh.wikipedia.org/wiki/相川茉穗 "wikilink")[ANGERME](../Page/ANGERME.md "wikilink")及[早安家族](../Page/早安家族.md "wikilink")中畢業。
 
 ### 2018
 
   - 4月5日，官網公告，[和田彩花](../Page/和田彩花.md "wikilink")將於2019年[ANGERME](../Page/ANGERME.md "wikilink")春季巡迴演唱會結束後從該團體及[早安家族](../Page/早安家族.md "wikilink")畢業。
-  - 11月19日，於深夜節目「The Girls
-    Live」上宣佈加入新成員，11月23日於「パシフィコ横浜国内大ホール」中公佈新成員為「太田遥香」及「伊勢鈴蘭」，兩人皆為[北海道](../Page/北海道.md "wikilink")出身。
+  - 11月19日，於深夜節目「The Girls Live」上宣佈加入新成員，11月23日於「パシフィコ横浜国内大ホール」中公佈新成員為「太田遥香」及「伊勢鈴蘭」，兩人皆為[北海道](../Page/北海道.md "wikilink")出身。
 
 ### 2019
 
-  - 5月25日，於「ANGERME Concert Tour 春
-    \~輪迴轉生\~」千葉午場公演宣布在[和田彩花](../Page/和田彩花.md "wikilink")畢業後由二期成員[竹內朱莉擔任隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。另外，由同樣也是二期成員的[中西香菜](../Page/中西香菜.md "wikilink")續任副隊長及六期成員[川村文乃擔任新副隊長](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
+  - 5月25日，於「ANGERME Concert Tour 春 \~輪迴轉生\~」千葉午場公演宣布在[和田彩花](../Page/和田彩花.md "wikilink")畢業後由二期成員[竹內朱莉擔任隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。另外，由同樣也是二期成員的[中西香菜](../Page/中西香菜.md "wikilink")續任副隊長及六期成員[川村文乃擔任新副隊長](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
 
 ## 作品
 
@@ -875,37 +844,14 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 
 #### 單曲在[Oricon](../Page/Oricon.md "wikilink")成績統計
 
-  - 最高銷量單曲：[接連不斷 / 糸島Distance /
-    戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，賣出
-    56,865張
-  - 最高銷量排名單曲：[神秘的夜晚\! /
-    十八歲的情感](https://zh.wikipedia.org/wiki/神秘的夜晚!_/_十八歲的情感 "wikilink")、[大器晩成
-    /
-    少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[七轉八起
-    / 臥薪嘗膽 /
-    魔法使莎莉](https://zh.wikipedia.org/wiki/七轉八起_/_臥薪嘗膽_/_魔法使莎莉 "wikilink")、[高人一等就不會被打壓
-    / 逆轉勝 /
-    我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")、[接連不斷
-    / 糸島Distance /
-    戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，皆第2位
+  - 最高銷量單曲：[接連不斷 / 糸島Distance / 戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，賣出 56,865張
+  - 最高銷量排名單曲：[神秘的夜晚\! / 十八歲的情感](https://zh.wikipedia.org/wiki/神秘的夜晚!_/_十八歲的情感 "wikilink")、[大器晩成 / 少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[七轉八起 / 臥薪嘗膽 / 魔法使莎莉](https://zh.wikipedia.org/wiki/七轉八起_/_臥薪嘗膽_/_魔法使莎莉 "wikilink")、[高人一等就不會被打壓 / 逆轉勝 / 我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")、[接連不斷 / 糸島Distance / 戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，皆第2位
   - 最低銷量單曲：[噓聲的愛 Buu\!](../Page/噓聲的愛_Buu!.md "wikilink")，賣出20,954張
   - 最低銷量排名單曲：[喜歡喔、純情反抗期。](../Page/喜歡喔、純情反抗期。.md "wikilink")，第7位
-  - 銷量創新高的單曲：[以相同時薪工作著朋友的美人媽媽](../Page/以相同時薪工作著朋友的美人媽媽.md "wikilink")、[有頂天LOVE](../Page/有頂天LOVE.md "wikilink")、[Please
-    Miniskirt
-    Postwoman\!](../Page/Please_Miniskirt_Postwoman!.md "wikilink")、[明白嗎\!?
-    /
-    「好男人」](https://zh.wikipedia.org/wiki/明白嗎!?_/_「好男人」 "wikilink")、[大器晩成
-    /
-    少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[接連不斷
-    / 糸島Distance /
-    戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，共六首
-  - 銷量創新低的單曲：[短髮](https://zh.wikipedia.org/wiki/短髮 "wikilink")、[噓聲的愛
-    Buu\!](../Page/噓聲的愛_Buu!.md "wikilink")，共兩首
+  - 銷量創新高的單曲：[以相同時薪工作著朋友的美人媽媽](../Page/以相同時薪工作著朋友的美人媽媽.md "wikilink")、[有頂天LOVE](../Page/有頂天LOVE.md "wikilink")、[Please Miniskirt Postwoman\!](../Page/Please_Miniskirt_Postwoman!.md "wikilink")、[明白嗎\!? / 「好男人」](https://zh.wikipedia.org/wiki/明白嗎!?_/_「好男人」 "wikilink")、[大器晩成 / 少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[接連不斷 / 糸島Distance / 戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，共六首
+  - 銷量創新低的單曲：[短髮](https://zh.wikipedia.org/wiki/短髮 "wikilink")、[噓聲的愛 Buu\!](../Page/噓聲的愛_Buu!.md "wikilink")，共兩首
   - 週間第一位的單曲：/
-  - 日間第一位的單曲：[啟程出發的春天來了](../Page/啟程出發的春天來了.md "wikilink")、[大器晩成 /
-    少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[高人一等就不會被打壓
-    / 逆轉勝 /
-    我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")
+  - 日間第一位的單曲：[啟程出發的春天來了](../Page/啟程出發的春天來了.md "wikilink")、[大器晩成 / 少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[高人一等就不會被打壓 / 逆轉勝 / 我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")
   - 所有單曲均在Oricon週間銷量排名7位或以上。
 
 ### 專輯
@@ -1108,32 +1054,19 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 
 ### DVD（演唱會）
 
-1.  [特別聯合 2010春 ～感謝滿開\! 真野惠里菜2周年突入 & S/mileage主流出道 櫻花盛放\!
-    Live](https://zh.wikipedia.org/wiki/特別聯合_2010春_～感謝滿開!_真野惠里菜2周年突入_&_S/mileage主流出道_櫻花盛放!_Live "wikilink")（2010年6月16日）
-2.  [S/mileage 1st Live Tour 2010秋 ～惡魔的微笑
-    天使的微笑～](https://zh.wikipedia.org/wiki/S/mileage_1st_Live_Tour_2010秋_～惡魔的微笑_天使的微笑～ "wikilink")（2010年12月29日/DVD、2011年7月13日/Blu-ray）
-3.  [℃-ute & S/mileage Premium Live 2011春 ～℃ & S
-    聯合大作戰～](https://zh.wikipedia.org/wiki/℃-ute_&_S/mileage_Premium_Live_2011春_～℃_&_S_聯合大作戰～ "wikilink")（2011年7月13日/DVD、8月3日/Blu-ray）
-4.  [S/mileage 2011限定Live
-    ～S/mile工廠～](https://zh.wikipedia.org/wiki/S/mileage_2011限定Live_～S/mile工廠～ "wikilink")（2011年8月24日）
-5.  [S/mileage Concert Tour 2011秋
-    ～逆襲之超Miniskirt～](https://zh.wikipedia.org/wiki/S/mileage_Concert_Tour_2011秋_～逆襲之超Miniskirt～ "wikilink")（2011年12月21日/DVD、2012年1月25日/Blu-ray）
-6.  [『S/mileage　精選輯完全版①』發售記念Special
-    Concert](https://zh.wikipedia.org/wiki/『S/mileage_精選輯完全版①』發售記念Special_Concert "wikilink")（2012年12月5日）
-7.  [S/mileage Live Tour 2012秋
-    ～有點可愛番長～](https://zh.wikipedia.org/wiki/S/mileage_Live_Tour_2012秋_～有點可愛番長～ "wikilink")（2013年2月20日/DVD、Blu-ray）
-8.  [S/mileage Live Tour 2013秋 ～Smile
-    Charge～](https://zh.wikipedia.org/wiki/S/mileage_Live_Tour_2013秋_～Smile_Charge～ "wikilink")（2014年5月14日/DVD、Blu-ray）
-9.  [S/mileage Live 2014夏 FULL CHARGE ～715
-    日本武道館～](https://zh.wikipedia.org/wiki/S/mileage_Live_2014夏_FULL_CHARGE_～715_日本武道館～ "wikilink")（2014年11月12日/DVD、Blu-ray）
-10. [S/mileage Live 2014秋 ～FULL CHARGE～ FINAL in
-    O-EAST](https://zh.wikipedia.org/wiki/S/mileage_Live_2014秋_～FULL_CHARGE～_FINAL_in_O-EAST "wikilink")（2015年3月18日/DVD、Blu-ray）
-11. [S/mileage Live Tour 2014秋 ～FULL CHARGE～ FINAL in
-    O-EAST](https://zh.wikipedia.org/wiki/S/mileage_Live_Tour_2014秋_～FULL_CHARGE～_FINAL_in_O-EAST "wikilink")（2015年3月18日/DVD、Blu-ray）
-12. [ANGERME STARTING LIVE TOUR SPECIAL @ 日本武道館
-    『大器晩成』](https://zh.wikipedia.org/wiki/ANGERME_STARTING_LIVE_TOUR_SPECIAL_@_日本武道館_『大器晩成』 "wikilink")（2015年8月26日/DVD、Blu-ray）
-13. [ANGERME First Concert Tour 2015秋 『百花繚亂』 ～福田花音
-    畢業Special～](https://zh.wikipedia.org/wiki/ANGERME_First_Concert_Tour_2015秋_『百花繚亂』_～福田花音_畢業Special～ "wikilink")（2016年3月2日/DVD、Blu-ray）
+1.  [特別聯合 2010春 ～感謝滿開\! 真野惠里菜2周年突入 & S/mileage主流出道 櫻花盛放\! Live](https://zh.wikipedia.org/wiki/特別聯合_2010春_～感謝滿開!_真野惠里菜2周年突入_&_S/mileage主流出道_櫻花盛放!_Live "wikilink")（2010年6月16日）
+2.  [S/mileage 1st Live Tour 2010秋 ～惡魔的微笑 天使的微笑～](https://zh.wikipedia.org/wiki/S/mileage_1st_Live_Tour_2010秋_～惡魔的微笑_天使的微笑～ "wikilink")（2010年12月29日/DVD、2011年7月13日/Blu-ray）
+3.  [℃-ute & S/mileage Premium Live 2011春 ～℃ & S 聯合大作戰～](https://zh.wikipedia.org/wiki/℃-ute_&_S/mileage_Premium_Live_2011春_～℃_&_S_聯合大作戰～ "wikilink")（2011年7月13日/DVD、8月3日/Blu-ray）
+4.  [S/mileage 2011限定Live ～S/mile工廠～](https://zh.wikipedia.org/wiki/S/mileage_2011限定Live_～S/mile工廠～ "wikilink")（2011年8月24日）
+5.  [S/mileage Concert Tour 2011秋 ～逆襲之超Miniskirt～](https://zh.wikipedia.org/wiki/S/mileage_Concert_Tour_2011秋_～逆襲之超Miniskirt～ "wikilink")（2011年12月21日/DVD、2012年1月25日/Blu-ray）
+6.  [『S/mileage　精選輯完全版①』發售記念Special Concert](https://zh.wikipedia.org/wiki/『S/mileage_精選輯完全版①』發售記念Special_Concert "wikilink")（2012年12月5日）
+7.  [S/mileage Live Tour 2012秋 ～有點可愛番長～](https://zh.wikipedia.org/wiki/S/mileage_Live_Tour_2012秋_～有點可愛番長～ "wikilink")（2013年2月20日/DVD、Blu-ray）
+8.  [S/mileage Live Tour 2013秋 ～Smile Charge～](https://zh.wikipedia.org/wiki/S/mileage_Live_Tour_2013秋_～Smile_Charge～ "wikilink")（2014年5月14日/DVD、Blu-ray）
+9.  [S/mileage Live 2014夏 FULL CHARGE ～715 日本武道館～](https://zh.wikipedia.org/wiki/S/mileage_Live_2014夏_FULL_CHARGE_～715_日本武道館～ "wikilink")（2014年11月12日/DVD、Blu-ray）
+10. [S/mileage Live 2014秋 ～FULL CHARGE～ FINAL in O-EAST](https://zh.wikipedia.org/wiki/S/mileage_Live_2014秋_～FULL_CHARGE～_FINAL_in_O-EAST "wikilink")（2015年3月18日/DVD、Blu-ray）
+11. [S/mileage Live Tour 2014秋 ～FULL CHARGE～ FINAL in O-EAST](https://zh.wikipedia.org/wiki/S/mileage_Live_Tour_2014秋_～FULL_CHARGE～_FINAL_in_O-EAST "wikilink")（2015年3月18日/DVD、Blu-ray）
+12. [ANGERME STARTING LIVE TOUR SPECIAL @ 日本武道館 『大器晩成』](https://zh.wikipedia.org/wiki/ANGERME_STARTING_LIVE_TOUR_SPECIAL_@_日本武道館_『大器晩成』 "wikilink")（2015年8月26日/DVD、Blu-ray）
+13. [ANGERME First Concert Tour 2015秋 『百花繚亂』 ～福田花音 畢業Special～](https://zh.wikipedia.org/wiki/ANGERME_First_Concert_Tour_2015秋_『百花繚亂』_～福田花音_畢業Special～ "wikilink")（2016年3月2日/DVD、Blu-ray）
 
 ## 寫真集
 
@@ -1249,13 +1182,10 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 
   - 戀愛的Hello Kitty（2009年11月11日〜19日、青山圓形劇場）
   - 劇團劇哈囉第8回公演「奶奶家的咖哩飯〜微笑食譜〜」（2010年8月18日 - 22日、六本木演員座劇場）
-  - 劇団プロジェクト　全労済ホールスペース・ゼロ提携公演 「もしも国民が首相を選んだら 」（2013年4月24日 -
-    30日、全労済ホールスペース・ゼロ）
-  - 劇団プロジェクト　ゲキハロ第13回公演 「我らジャンヌ～少女聖戦歌劇～」（2013年9月6日 - 23日、東京：池袋サンシャイン劇場
-    大阪：シアターＢＲＡＶＡ！）
+  - 劇団プロジェクト　全労済ホールスペース・ゼロ提携公演 「もしも国民が首相を選んだら 」（2013年4月24日 - 30日、全労済ホールスペース・ゼロ）
+  - 劇団プロジェクト　ゲキハロ第13回公演 「我らジャンヌ～少女聖戦歌劇～」（2013年9月6日 - 23日、東京：池袋サンシャイン劇場 大阪：シアターＢＲＡＶＡ！）
 
-ミュージカル「LILIUM-リリウム
-少女純潔歌劇」（2014年6月5日～15日、東京池袋サンシャイン劇場；6月20～21日、大阪森ノ宮ピロティーホール）
+ミュージカル「LILIUM-リリウム 少女純潔歌劇」（2014年6月5日～15日、東京池袋サンシャイン劇場；6月20～21日、大阪森ノ宮ピロティーホール）
 
 ## 演出
 
@@ -1279,8 +1209,7 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 
 **注：***以下爲團體拍攝，不包括個人拍攝的雜誌。* 　　
 
-  - 「[周刊少年champion](../Page/週刊少年Champion.md "wikilink")」（2010年5月20日、7月1日）
-    　　
+  - 「[周刊少年champion](../Page/週刊少年Champion.md "wikilink")」（2010年5月20日、7月1日） 　　
   - 「ヤンヤン」（2010年5月25日、7月24日） 　　
   - 「BIG ONE」（2010年5月25日） 　　
   - 「memew」（2010年5月27日） 　　
@@ -1307,37 +1236,22 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
   - [Smileage (Smileage) on Twitter](http://twitter.com/Smileage)
   - [ (Smileagestaff) on Twitter](http://twitter.com/Smileagestaff)
 
-[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
-[Category:ANGERME](https://zh.wikipedia.org/wiki/Category:ANGERME "wikilink")
+[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink") [Category:ANGERME](https://zh.wikipedia.org/wiki/Category:ANGERME "wikilink")
 
 1.  節目「美女學」（2010年5月20日放送）所說明。
-2.  [Ｓ/ｍｉｌｅａｇｅ 　　ユニット名　由来・意味について
-    　](http://ameblo.jp/tsunku-blog/entry-10252505908.html)
+2.  [Ｓ/ｍｉｌｅａｇｅ 　　ユニット名　由来・意味について 　](http://ameblo.jp/tsunku-blog/entry-10252505908.html)
 3.  [スマイレージ公式ウェブサイト　](http://s-mileage.jp/)
 4.  [日本官網告知：](http://www.helloproject.com/egao/index.html)
 5.  [](http://s-mileage.jp/event/detail_00027/)
 6.  [スマイレージが日本レコード大賞最優秀新人賞を受賞！](http://www.helloproject.com/news/1012302100_smileage.html)
-
 7.  [スマイレージ　メンバー募集！](http://www.helloproject.com/news/1105291330_smileage.html)
-
-8.  [スマイレージ サブメンバー
-    ブログスタート！！](http://www.helloproject.com/news/1109151700_smileage.html)
-
-9.  [サブメンバーから正メンバーへ！
-    正メンバー発表！！](http://www.helloproject.com/news/1110161530_smileage.html)
-
+8.  [スマイレージ サブメンバー ブログスタート！！](http://www.helloproject.com/news/1109151700_smileage.html)
+9.  [サブメンバーから正メンバーへ！ 正メンバー発表！！](http://www.helloproject.com/news/1110161530_smileage.html)
 10. [スマイレージに関する大事なお知らせ](http://www.helloproject.com/news/111025600_smileage.html)
-
 11. [スマイレージ・前田憂佳、卒業。「メンバーになれてよかったって本当に思ってます。」](http://www.barks.jp/news/?id=1000075960)
 12. [前田憂佳のブログに関して](http://s-mileage.jp/info/3917)
-13. [スマイレージ初主演！映画「怪談新耳袋
-    異形」](http://www.helloproject.com/media/1206291300_movie_smileage.html)
-14. [スマイレージ二期メンバーのレギュラーラジオ番組
-    決定！](http://www.helloproject.com/news/1212201200_smileage.html)
-
+13. [スマイレージ初主演！映画「怪談新耳袋 異形」](http://www.helloproject.com/media/1206291300_movie_smileage.html)
+14. [スマイレージ二期メンバーのレギュラーラジオ番組 決定！](http://www.helloproject.com/news/1212201200_smileage.html)
 15. [スマイレージ「ボウリングの日」PR応援団長に任命](http://natalie.mu/music/news/93097)
 16. [音声ガイドにスマイレージ田村さん登場](http://worlddino2013.com/topics/article/%E9%9F%B3%E5%A3%B0%E3%82%AC%E3%82%A4%E3%83%89%E3%81%AB%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%BC%E3%82%B8%E7%94%B0%E6%9D%91%E3%81%95%E3%82%93%E7%99%BB%E5%A0%B4)
-
 17. [スマイレージが始球式](http://www.nikkansports.com/baseball/news/f-bb-tp0-20130716-1158360.html)

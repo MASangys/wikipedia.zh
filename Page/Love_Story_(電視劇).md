@@ -1,5 +1,4 @@
-《**Love
-Story**》（日文原名ラブストーリー）是2001年4月15日～6月24日に[TBS系於星期日](../Page/TBS電視台.md "wikilink")21:00～21:54（[東芝日曜劇場](https://zh.wikipedia.org/wiki/日曜劇場 "wikilink")）播放的[日劇](https://zh.wikipedia.org/wiki/日劇 "wikilink")。第一回和最終回延長播放時間至22:24。全部11回。平均收視率20.8%。
+《**Love Story**》（日文原名ラブストーリー）是2001年4月15日～6月24日に[TBS系於星期日](../Page/TBS電視台.md "wikilink")21:00～21:54（[東芝日曜劇場](https://zh.wikipedia.org/wiki/日曜劇場 "wikilink")）播放的[日劇](https://zh.wikipedia.org/wiki/日劇 "wikilink")。第一回和最終回延長播放時間至22:24。全部11回。平均收視率20.8%。
 
 ## 故事大綱
 
@@ -58,11 +57,4 @@ Story**》（日文原名ラブストーリー）是2001年4月15日～6月24日
 
   - [官方網站](http://www.tbs.co.jp/love-s/)
 
-[Category:周日劇場](https://zh.wikipedia.org/wiki/Category:周日劇場 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:2001年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2001年開播的日本電視劇集 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:小說家主角題材作品](https://zh.wikipedia.org/wiki/Category:小說家主角題材作品 "wikilink")
-[Category:北川悅吏子劇本作品](https://zh.wikipedia.org/wiki/Category:北川悅吏子劇本作品 "wikilink")
-[Category:香取慎吾](https://zh.wikipedia.org/wiki/Category:香取慎吾 "wikilink")
+[Category:周日劇場](https://zh.wikipedia.org/wiki/Category:周日劇場 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:2001年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2001年開播的日本電視劇集 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:小說家主角題材作品](https://zh.wikipedia.org/wiki/Category:小說家主角題材作品 "wikilink") [Category:北川悅吏子劇本作品](https://zh.wikipedia.org/wiki/Category:北川悅吏子劇本作品 "wikilink") [Category:香取慎吾](https://zh.wikipedia.org/wiki/Category:香取慎吾 "wikilink")

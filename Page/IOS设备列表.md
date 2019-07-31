@@ -1,12 +1,4 @@
-這是一個**iOS設備列表**，包含有使用[iOS系統的](https://zh.wikipedia.org/wiki/iOS "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、[iPod
-touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。
-[iphone_back.jpg](https://zh.wikipedia.org/wiki/File:iphone_back.jpg "fig:iphone_back.jpg")，銀色的[iPhone
-6 Plus和玫瑰金的iPhone](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
-6S\]\]
-[Ipad.jpg](https://zh.wikipedia.org/wiki/File:Ipad.jpg "fig:Ipad.jpg")
-2017，太空灰的[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
-12.9"和銀色的[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
-11"（附[Apple Pencil](../Page/Apple_Pencil.md "wikilink")）\]\]
+這是一個**iOS設備列表**，包含有使用[iOS系統的](https://zh.wikipedia.org/wiki/iOS "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。 [iphone_back.jpg](https://zh.wikipedia.org/wiki/File:iphone_back.jpg "fig:iphone_back.jpg")，銀色的[iPhone 6 Plus和玫瑰金的iPhone](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink") 6S\]\] [Ipad.jpg](https://zh.wikipedia.org/wiki/File:Ipad.jpg "fig:Ipad.jpg") 2017，太空灰的[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") 12.9"和銀色的[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") 11"（附[Apple Pencil](../Page/Apple_Pencil.md "wikilink")）\]\]
 
 ## iPhone 型號
 
@@ -4517,11 +4509,7 @@ International: 2014年11月15日</p></td>
 
 ## 參考文獻
 
-[Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
-[Category:iPad](https://zh.wikipedia.org/wiki/Category:iPad "wikilink")
-[Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink")
-[Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink")
-[Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
+[Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:iPad](https://zh.wikipedia.org/wiki/Category:iPad "wikilink") [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink") [Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink") [Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
 
 1.
 
@@ -4549,8 +4537,7 @@ International: 2014年11月15日</p></td>
 
 14.
 
-15. [That IPod Touch Runs at 533 MHz - PC
-    World](http://www.pcworld.com/article/154518/.html?tk=rss_news)
+15. [That IPod Touch Runs at 533 MHz - PC World](http://www.pcworld.com/article/154518/.html?tk=rss_news)
 
 16.
 17.

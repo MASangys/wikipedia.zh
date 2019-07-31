@@ -1,6 +1,4 @@
-《**全民快樂有go正**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*Happy
-Go Go
-Go*）是大東影藝製作、[中華電視公司](../Page/中華電視公司.md "wikilink")監製的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目自2009年3月7日起的每星期六20時整至22時整（[臺灣時間](https://zh.wikipedia.org/wiki/臺灣時間 "wikilink")）於華視主頻道播出，2009年9月11日起改成每星期五20時整至22時整（[臺灣時間](https://zh.wikipedia.org/wiki/臺灣時間 "wikilink")）播出。該節目是《[快樂有go正](../Page/快樂有go正.md "wikilink")》的續作，節目中的特點，除了沿襲《快樂有go正》一部分的單元外，一度新增《快樂有go正》沒有的單元。
+《**全民快樂有go正**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*Happy Go Go Go*）是大東影藝製作、[中華電視公司](../Page/中華電視公司.md "wikilink")監製的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目自2009年3月7日起的每星期六20時整至22時整（[臺灣時間](https://zh.wikipedia.org/wiki/臺灣時間 "wikilink")）於華視主頻道播出，2009年9月11日起改成每星期五20時整至22時整（[臺灣時間](https://zh.wikipedia.org/wiki/臺灣時間 "wikilink")）播出。該節目是《[快樂有go正](../Page/快樂有go正.md "wikilink")》的續作，節目中的特點，除了沿襲《快樂有go正》一部分的單元外，一度新增《快樂有go正》沒有的單元。
 
 ## 主持人
 
@@ -32,9 +30,7 @@ Go*）是大東影藝製作、[中華電視公司](../Page/中華電視公司.md
 
 由於是真人演出的「照片」，而「人物」又不能隨意移動，因此有時候唐從聖會拿著一根棒子，並「亂入」到該「照片」內，對著事件內的「人物」玩「戳戳樂」或「指指點點」，即使說出的話或一些表情容易讓「人物」，甚至「人物」會因為受到外力的刺激或感到疼痛，「照片」中的「人物」，也不能反應太大，或者吭一聲，仍然必須保持靜止狀態。
 
-而主持人也會請演出「事發後」的「人物」進行「倒帶動作」（rewind），此時「照片」內的「人物」，就會變成「影片模式」（video
-mode），將事情「還原」成最初事發前的狀態，並由主持人「下令」，開始「播放」模式（play
-mode）。所以，每一位飾演照片中「人物」的演員，必須要熟悉怎樣呈現於該張「照片」時的姿勢。
+而主持人也會請演出「事發後」的「人物」進行「倒帶動作」（rewind），此時「照片」內的「人物」，就會變成「影片模式」（video mode），將事情「還原」成最初事發前的狀態，並由主持人「下令」，開始「播放」模式（play mode）。所以，每一位飾演照片中「人物」的演員，必須要熟悉怎樣呈現於該張「照片」時的姿勢。
 
 如果猜題來賓答錯題目，會有從背後噴出的[乾冰](../Page/乾冰.md "wikilink")約二至三秒，作為懲罰；而猜對者無實質獎勵。
 
@@ -123,9 +119,7 @@ mode）。所以，每一位飾演照片中「人物」的演員，必須要熟�
 |    第66集    |  2010年6月4日  |              0.77               |
 | 第67集(最後一集) | 2010年6月11日  |              0.73               |
 
-  - 說明：<span style="background-color:green;"> </span> =
-    最高收視率、<span style="background-color:red;"> </span> =
-    最低收視率。
+  - 說明：<span style="background-color:green;"> </span> = 最高收視率、<span style="background-color:red;"> </span> = 最低收視率。
 
 ## 參見
 
@@ -136,11 +130,8 @@ mode）。所以，每一位飾演照片中「人物」的演員，必須要熟�
 
 ## 作品的變遷
 
-[C全](https://zh.wikipedia.org/wiki/分類:停播台灣綜藝節目 "wikilink")
-[C全](https://zh.wikipedia.org/wiki/分類:華視電視節目 "wikilink")
+[C全](https://zh.wikipedia.org/wiki/分類:停播台灣綜藝節目 "wikilink") [C全](https://zh.wikipedia.org/wiki/分類:華視電視節目 "wikilink")
 
 [Category:聯利媒體外購電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體外購電視節目 "wikilink")
 
-1.  [凱洛媒體週報](http://www.cyberone.tw/ItemDetailPage/MainContent/05ContentList.asp?MMMediaType=CaratWeekly)
-    、[中時娛樂](http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-rank/0,5137,tv,00.html)
-    收視率調查，最近查閱的日期為2010年6月21日。
+1.  [凱洛媒體週報](http://www.cyberone.tw/ItemDetailPage/MainContent/05ContentList.asp?MMMediaType=CaratWeekly) 、[中時娛樂](http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-rank/0,5137,tv,00.html) 收視率調查，最近查閱的日期為2010年6月21日。

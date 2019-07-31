@@ -1,6 +1,4 @@
-**Paint.NET**是使用[.NET
-Framework開發](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，適用於[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[點陣圖形編輯](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。Paint.NET最初是一個[華盛頓州立大學](../Page/華盛頓州立大學.md "wikilink")的學生專案，而Paint.NET則發展成支援[圖層](https://zh.wikipedia.org/wiki/圖層 "wikilink")、顏色渲染、透明度及擴充元件的[小畫家替代品](https://zh.wikipedia.org/wiki/小畫家 "wikilink")。而現在Paint.NET則已經被視為[Adobe
-Photoshop的免費替代品](../Page/Adobe_Photoshop.md "wikilink")。
+**Paint.NET**是使用[.NET Framework開發](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，適用於[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[點陣圖形編輯](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。Paint.NET最初是一個[華盛頓州立大學](../Page/華盛頓州立大學.md "wikilink")的學生專案，而Paint.NET則發展成支援[圖層](https://zh.wikipedia.org/wiki/圖層 "wikilink")、顏色渲染、透明度及擴充元件的[小畫家替代品](https://zh.wikipedia.org/wiki/小畫家 "wikilink")。而現在Paint.NET則已經被視為[Adobe Photoshop的免費替代品](../Page/Adobe_Photoshop.md "wikilink")。
 
 ## 概要
 
@@ -167,16 +165,11 @@ Paint.NET原本是[華盛頓州立大學](../Page/華盛頓州立大學.md "wiki
 
 ## 擴充元件
 
-Paint.NET支援[DLL類型的擴充元件](https://zh.wikipedia.org/wiki/DLL "wikilink")，以增加圖片效果、修改工具及檔案格式支援。這些擴充元件可以使用[.NET
-Framework寫成](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，緃使目前大部份的都是使用[C\#寫成的](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")。這些擴充元件通常是由Paint.NET討論區的程式員自願開發的。雖然這些擴充元件只是於Paint.NET討論區中發佈，但部份會有新版本中加入成為預設安裝的一部份。例如[DirectDraw
-Surface檔案格式支援元件](https://zh.wikipedia.org/wiki/DirectDraw_Surface "wikilink")（由Dean
-Ashton製作）及Ink Sketch及Soften Portrait效果（由David Issel製作）都於Paint.NET
-3.10成為Paint.NET的一部份。
+Paint.NET支援[DLL類型的擴充元件](https://zh.wikipedia.org/wiki/DLL "wikilink")，以增加圖片效果、修改工具及檔案格式支援。這些擴充元件可以使用[.NET Framework寫成](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，緃使目前大部份的都是使用[C\#寫成的](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")。這些擴充元件通常是由Paint.NET討論區的程式員自願開發的。雖然這些擴充元件只是於Paint.NET討論區中發佈，但部份會有新版本中加入成為預設安裝的一部份。例如[DirectDraw Surface檔案格式支援元件](https://zh.wikipedia.org/wiki/DirectDraw_Surface "wikilink")（由Dean Ashton製作）及Ink Sketch及Soften Portrait效果（由David Issel製作）都於Paint.NET 3.10成為Paint.NET的一部份。
 
 而很多不同的擴充元件則由不同人士開發，例如Shape3D。有些的擴充元件則是擴充Paint.NET原先功能，例如Curves+及Sharpen+分別擴充了於內建於Paint.NET的曲線和銳利化工具。
 
-而檔案格式支援元件可以令Paint.NET支援更多的檔案格式，例如動畫滑鼠游標、[Adobe
-Photoshop的](../Page/Adobe_Photoshop.md "wikilink")[PSD格式等](https://zh.wikipedia.org/wiki/PSD "wikilink")。很多檔案格式支援元件都是以現有的[開源軟件作為基礎](https://zh.wikipedia.org/wiki/開源 "wikilink")，例如[RAW](../Page/RAW.md "wikilink")格式支援使用[dcraw](https://zh.wikipedia.org/wiki/dcraw "wikilink")，而PNG支援則使用[OptiPNG](https://zh.wikipedia.org/wiki/OptiPNG "wikilink")。
+而檔案格式支援元件可以令Paint.NET支援更多的檔案格式，例如動畫滑鼠游標、[Adobe Photoshop的](../Page/Adobe_Photoshop.md "wikilink")[PSD格式等](https://zh.wikipedia.org/wiki/PSD "wikilink")。很多檔案格式支援元件都是以現有的[開源軟件作為基礎](https://zh.wikipedia.org/wiki/開源 "wikilink")，例如[RAW](../Page/RAW.md "wikilink")格式支援使用[dcraw](https://zh.wikipedia.org/wiki/dcraw "wikilink")，而PNG支援則使用[OptiPNG](https://zh.wikipedia.org/wiki/OptiPNG "wikilink")。
 
 ## 線上討論區
 
@@ -184,11 +177,7 @@ Paint.NET提供一個線上討論區，可以從其程式的主選單或說明�
 
 ## 非Windows系統的支援
 
-Paint.NET是為[Windows設計](https://zh.wikipedia.org/wiki/Windows "wikilink")，並不支援其他作業系統。而3.0版本開始，對[Windows
-XP以前的Windows系統支援已經停止](../Page/Windows_XP.md "wikilink")，同時亦加入對[Windows
-Vista的支援](../Page/Windows_Vista.md "wikilink")。該軟體開源的特性促使替代版本的出現，如[Miguel
-de
-Icaza以Paint](https://zh.wikipedia.org/wiki/Miguel_de_Icaza "wikilink").NET為基礎撰寫使用[公共語言運行庫](https://zh.wikipedia.org/wiki/公共語言運行庫 "wikilink")[Mono](../Page/Mono.md "wikilink")的[Paint-Mono](https://zh.wikipedia.org/wiki/Paint-Mono "wikilink")，使[Linux](../Page/Linux.md "wikilink")及其他[Mono](../Page/Mono.md "wikilink")支援的系統得以執行Paint.NET。Icaza於2007年5月宣布正式開始[Paint-Mono](https://web.archive.org/web/20070820095351/http://code.google.com/p/paint-mono/)專案。
+Paint.NET是為[Windows設計](https://zh.wikipedia.org/wiki/Windows "wikilink")，並不支援其他作業系統。而3.0版本開始，對[Windows XP以前的Windows系統支援已經停止](../Page/Windows_XP.md "wikilink")，同時亦加入對[Windows Vista的支援](../Page/Windows_Vista.md "wikilink")。該軟體開源的特性促使替代版本的出現，如[Miguel de Icaza以Paint](https://zh.wikipedia.org/wiki/Miguel_de_Icaza "wikilink").NET為基礎撰寫使用[公共語言運行庫](https://zh.wikipedia.org/wiki/公共語言運行庫 "wikilink")[Mono](../Page/Mono.md "wikilink")的[Paint-Mono](https://zh.wikipedia.org/wiki/Paint-Mono "wikilink")，使[Linux](../Page/Linux.md "wikilink")及其他[Mono](../Page/Mono.md "wikilink")支援的系統得以執行Paint.NET。Icaza於2007年5月宣布正式開始[Paint-Mono](https://web.archive.org/web/20070820095351/http://code.google.com/p/paint-mono/)專案。
 
 ## 參見
 
@@ -201,23 +190,13 @@ Icaza以Paint](https://zh.wikipedia.org/wiki/Miguel_de_Icaza "wikilink").NET為�
 
   - [Paint.NET](http://www.getpaint.net/)
   - [Rick Brewster's Blog](http://blog.getpaint.net/)
-  - [Paint.NET
-    Plugins](http://forums.getpaint.net/index.php?/forum/7-plugins-publishing-only/)
-  - [.NET Rocks\! - Rick Brewster on Paint.NET
-    (April 2007)](http://www.dotnetrocks.com/default.aspx?showNum=229)
-  - [Interview: A Look Inside Paint.NET
-    (February 2006)](http://www.betanews.com/article/Interview_A_Look_Inside_PaintNET/1141071978)
-  - [The Sharp Design Philosophy Behind Paint.NET
-    (April 2005)](http://www.devsource.com/article2/0,1759,1785684,00.asp)
-  - [Video: Chris Sells interviews Rick Brewster, Tom Jackson, and Craig
-    Taylor
-    (August 2005)](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=045b673d-af5d-4c2c-983f-376b11f5d363#filelist)
+  - [Paint.NET Plugins](http://forums.getpaint.net/index.php?/forum/7-plugins-publishing-only/)
+  - [.NET Rocks\! - Rick Brewster on Paint.NET (April 2007)](http://www.dotnetrocks.com/default.aspx?showNum=229)
+  - [Interview: A Look Inside Paint.NET (February 2006)](http://www.betanews.com/article/Interview_A_Look_Inside_PaintNET/1141071978)
+  - [The Sharp Design Philosophy Behind Paint.NET (April 2005)](http://www.devsource.com/article2/0,1759,1785684,00.asp)
+  - [Video: Chris Sells interviews Rick Brewster, Tom Jackson, and Craig Taylor (August 2005)](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=045b673d-af5d-4c2c-983f-376b11f5d363#filelist)
 
-[Category:位圖編輯軟件](https://zh.wikipedia.org/wiki/Category:位圖編輯軟件 "wikilink")
-[Category:圖像軟件](https://zh.wikipedia.org/wiki/Category:圖像軟件 "wikilink")
-[Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
-[Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink")
-[Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink")
+[Category:位圖編輯軟件](https://zh.wikipedia.org/wiki/Category:位圖編輯軟件 "wikilink") [Category:圖像軟件](https://zh.wikipedia.org/wiki/Category:圖像軟件 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink") [Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink")
 
 1.
 2.

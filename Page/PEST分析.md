@@ -2,10 +2,7 @@
 
 ## 歷史
 
-根據RapidBI網站\[1\]，PEST最初是被稱為「ETPS」。在《Scanning the Business
-Environment》這本書中\[2\]，
-作者描述「ETPS」這個稱呼是他對於四種企業環境因素（經濟、科技、政治、社會）的一種記憶法。這本書發行之後，人壽保險協會的Arnold
-Brown將之稱為「STEP」。之後一些學者及企業界的人士重新定義為「STEPE分析」，增加了生態因素（Ecological）。
+根據RapidBI網站\[1\]，PEST最初是被稱為「ETPS」。在《Scanning the Business Environment》這本書中\[2\]， 作者描述「ETPS」這個稱呼是他對於四種企業環境因素（經濟、科技、政治、社會）的一種記憶法。這本書發行之後，人壽保險協會的Arnold Brown將之稱為「STEP」。之後一些學者及企業界的人士重新定義為「STEPE分析」，增加了生態因素（Ecological）。
 
 1980年代，許多學者加入了各種不同的分類，而有了PEST、PESTLE、STEEPLE等等不同的排列法。由於「Pest」於[英文意指](https://zh.wikipedia.org/wiki/英文 "wikilink")「害蟲」，含意負面，因此依然有人沿用「STEP分析」稱呼之，但為數已越來越少。
 
@@ -28,15 +25,10 @@ PEST分析與外部總體環境的因素互相結合就可歸納出[SWOT分析�
 
 ## 外部連結
 
-  - [PEST analysis method and
-    examples](http://www.businessballs.com/pestanalysisfreetemplate.htm)
-    from Businessballs.com
-  - [PESTLE analysis history and
-    application](http://www.cipd.co.uk/subjects/corpstrtgy/general/pestle-analysis.htm)
-    from the CIPD
+  - [PEST analysis method and examples](http://www.businessballs.com/pestanalysisfreetemplate.htm) from Businessballs.com
+  - [PESTLE analysis history and application](http://www.cipd.co.uk/subjects/corpstrtgy/general/pestle-analysis.htm) from the CIPD
 
-[Category:市場營銷](https://zh.wikipedia.org/wiki/Category:市場營銷 "wikilink")
-[Category:管理學](https://zh.wikipedia.org/wiki/Category:管理學 "wikilink")
+[Category:市場營銷](https://zh.wikipedia.org/wiki/Category:市場營銷 "wikilink") [Category:管理學](https://zh.wikipedia.org/wiki/Category:管理學 "wikilink")
 
 1.
 2.

@@ -1,13 +1,12 @@
-**MOODYZ**（）是[日本一家](../Page/日本.md "wikilink")[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")，隸屬於[北都集團](https://zh.wikipedia.org/wiki/北都集團 "wikilink")，於2000年成立，總部位日本[石川縣](../Page/石川縣.md "wikilink")[加賀市美岬町](https://zh.wikipedia.org/wiki/加賀市 "wikilink")1-1
-AVC運動中心。
+**MOODYZ**（）是[日本](../Page/日本.md "wikilink")一家[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")，隸屬於[北都集團](https://zh.wikipedia.org/wiki/北都集團 "wikilink")，於2000年成立，總部位日本[石川縣](../Page/石川縣.md "wikilink")[加賀市美岬町](https://zh.wikipedia.org/wiki/加賀市 "wikilink")1-1 AVC運動中心。
 
 ## 歷史
 
 MOODYZ的前身為於1996年成立的Mr.President，2000年，Mr.President切割成為一家公司，以製作小組MOODYS為名，又將當中的S改成Z。
 
-MOODYZ首部作品為由[金澤文子與](../Page/金澤文子.md "wikilink")[鈴木麻奈美等共同出演的](../Page/鈴木麻奈美.md "wikilink")《Chaos-色情四姉妹-》，於2000年9月推出。
+MOODYZ首部作品為由[金澤文子](../Page/金澤文子.md "wikilink")與[鈴木麻奈美](../Page/鈴木麻奈美.md "wikilink")等共同出演的《Chaos-色情四姉妹-》，於2000年9月推出。
 
-2001年9月，由已經引退的[小澤圓跨刀演出](../Page/小澤圓.md "wikilink")，於2002年則有[紋舞蘭](../Page/紋舞蘭.md "wikilink")、[nana和](https://zh.wikipedia.org/wiki/nana_\(日本AV女優\) "wikilink")[南波杏等知名女優活耀](../Page/南波杏.md "wikilink")。
+2001年9月，由已經引退的[小澤圓](../Page/小澤圓.md "wikilink")跨刀演出，於2002年則有[紋舞蘭](../Page/紋舞蘭.md "wikilink")、[nana和](https://zh.wikipedia.org/wiki/nana_\(日本AV女優\) "wikilink")[南波杏](../Page/南波杏.md "wikilink")等知名女優活耀。
 
 ## 主要商標（2008年6月至今）
 
@@ -24,15 +23,13 @@ MOODYZ首部作品為由[金澤文子與](../Page/金澤文子.md "wikilink")[�
 
 **2016年**
 
-  - **[西宮このみ](https://zh.wikipedia.org/wiki/西宮このみ "wikilink")**（2016年11月
-    - ）
+  - **[西宮このみ](https://zh.wikipedia.org/wiki/西宮このみ "wikilink")**（2016年11月 - ）
   - **[高橋しょう子](../Page/高橋聖子.md "wikilink")**（2016年9月 - ）
   - **[千早希](https://zh.wikipedia.org/wiki/千早希 "wikilink")**（2016年7月 - ）
 
 **2015年**
 
-  - **[伊東ちなみ](https://zh.wikipedia.org/wiki/伊東ちなみ "wikilink")**（いとう
-    ちなみ、2015年10月 - ）
+  - **[伊東ちなみ](https://zh.wikipedia.org/wiki/伊東ちなみ "wikilink")**（いとう ちなみ、2015年10月 - ）
 
 **2014年**
 
@@ -53,10 +50,8 @@ MOODYZ首部作品為由[金澤文子與](../Page/金澤文子.md "wikilink")[�
 
 **2011年**
 
-  - [ももかさくら](https://zh.wikipedia.org/wiki/ももかさくら "wikilink") （2011年 5月
-    - ）
-  - [菅野さゆき](https://zh.wikipedia.org/wiki/菅野さゆき "wikilink") （2011年 3月 -
-    ）
+  - [ももかさくら](https://zh.wikipedia.org/wiki/ももかさくら "wikilink") （2011年 5月 - ）
+  - [菅野さゆき](https://zh.wikipedia.org/wiki/菅野さゆき "wikilink") （2011年 3月 - 2017年）
 
 **2010年**
 
@@ -71,16 +66,13 @@ MOODYZ首部作品為由[金澤文子與](../Page/金澤文子.md "wikilink")[�
 **2009年**
 
   - [きよみ玲](https://zh.wikipedia.org/wiki/きよみ玲 "wikilink") （2009年12月 - ）
-  - [桃野なごみ](https://zh.wikipedia.org/wiki/桃野なごみ "wikilink") （2009年 9月 -
-    ）
-  - [美月](https://zh.wikipedia.org/wiki/美月_\(AV女優\) "wikilink") （2009年 6月
-    - ）
+  - [桃野なごみ](https://zh.wikipedia.org/wiki/桃野なごみ "wikilink") （2009年 9月 - ）
+  - [美月](https://zh.wikipedia.org/wiki/美月_\(AV女優\) "wikilink") （2009年 6月 - ）
   - [亜梨](https://zh.wikipedia.org/wiki/亜梨 "wikilink") （2009年 2月 - ）
 
 **2008年**
 
-  - [松嶋れいな](https://zh.wikipedia.org/wiki/松嶋れいな "wikilink") （2008年 8月 -
-    ）
+  - [松嶋れいな](https://zh.wikipedia.org/wiki/松嶋れいな "wikilink") （2008年 8月 - ）
   - [西野翔](../Page/西野翔.md "wikilink") （2008年 3月 - ）
   - [大橋未久](../Page/大橋未久.md "wikilink") （2008年 1月 - ）
 
@@ -105,8 +97,7 @@ MOODYZ首部作品為由[金澤文子與](../Page/金澤文子.md "wikilink")[�
 
 **2003年**
 
-  - [吉永ゆりあ](https://zh.wikipedia.org/wiki/吉永ゆりあ "wikilink") （2003年 9月 -
-    ）
+  - [吉永ゆりあ](https://zh.wikipedia.org/wiki/吉永ゆりあ "wikilink") （2003年 9月 - ）
   - [彩名杏子](https://zh.wikipedia.org/wiki/彩名杏子 "wikilink") （2003年 6月 - ）
 
 **2002年**
@@ -395,5 +386,4 @@ MECUMI<br />
   - [MOODYZ官網](http://www.moodyz.com/)
 
   -
-[Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink")
-[Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink")
+[Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink") [Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink")

@@ -1,5 +1,4 @@
-《****》（**BALLAD～無名戀歌～**）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")发行的第十张[单曲](../Page/单曲.md "wikilink")。是继《》和《》作为电影的主题曲后，再次用同名电影的名稱推出專輯。该片改编自[蜡笔小新](../Page/蜡笔小新.md "wikilink")2002年剧场版动画《[風起雲湧
-壯烈！戰國大會戰](https://zh.wikipedia.org/wiki/蠟筆小新：風起雲湧_壯烈！戰國大會戰 "wikilink")》，由[草彅剛](../Page/草彅剛.md "wikilink")和[新垣结衣主演](https://zh.wikipedia.org/wiki/新垣结衣 "wikilink")，于2009年9月5日全[日本](../Page/日本.md "wikilink")公映。
+《****》（**BALLAD～無名戀歌～**）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")发行的第十张[单曲](../Page/单曲.md "wikilink")。是继《》和《》作为电影的主题曲后，再次用同名电影的名稱推出專輯。该片改编自[蜡笔小新](../Page/蜡笔小新.md "wikilink")2002年剧场版动画《[風起雲湧 壯烈！戰國大會戰](https://zh.wikipedia.org/wiki/蠟筆小新：風起雲湧_壯烈！戰國大會戰 "wikilink")》，由[草彅剛](../Page/草彅剛.md "wikilink")和[新垣结衣主演](https://zh.wikipedia.org/wiki/新垣结衣 "wikilink")，于2009年9月5日全[日本](../Page/日本.md "wikilink")公映。
 
 ## 公信榜销售情况
 
@@ -38,6 +37,4 @@
 
 2.  Bonus Movie
 
-[Category:Alan的歌曲](https://zh.wikipedia.org/wiki/Category:Alan的歌曲 "wikilink")
-[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
+[Category:Alan的歌曲](https://zh.wikipedia.org/wiki/Category:Alan的歌曲 "wikilink") [Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")

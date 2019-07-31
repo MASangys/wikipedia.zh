@@ -4,20 +4,17 @@
 
 ## 歷史
 
-Z-DNA為首先於1979年被解出晶體結構的DNA型態，研究者為[麻省理工大學的Alexander](https://zh.wikipedia.org/wiki/麻省理工大學 "wikilink")
-Rich等人\[1\]。B型及Z型相互結合時的結晶則解於2005年\[2\]，使科學家了解Z-DNA在細胞中的潛在角色，當一段Z-DNA形成時，其兩端必為B-Z相互結合型態，形成與B-DNA的介面。
+Z-DNA為首先於1979年被解出晶體結構的DNA型態，研究者為[麻省理工大學的Alexander](https://zh.wikipedia.org/wiki/麻省理工大學 "wikilink") Rich等人\[1\]。B型及Z型相互結合時的結晶則解於2005年\[2\]，使科學家了解Z-DNA在細胞中的潛在角色，當一段Z-DNA形成時，其兩端必為B-Z相互結合型態，形成與B-DNA的介面。
 
 ## 結構
 
-[B-,_Z-DNA_junction_2ACJ.png](https://zh.wikipedia.org/wiki/File:B-,_Z-DNA_junction_2ACJ.png "fig:B-,_Z-DNA_junction_2ACJ.png")
-Z-DNA的雙股螺旋為左旋型態，與B-DNA的右旋型態明顯有所差別。其結構每兩個鹼基對重複出現一次。大小螺旋凹槽之間的差別較A型及B型小，只在寬度上有些微差異。這種型態並不常見，但某些特定情況可增加其存在的可能，如[嘌呤](../Page/嘌呤.md "wikilink")-[嘧啶交替序列](../Page/嘧啶.md "wikilink")、[DNA超螺旋](../Page/DNA超螺旋.md "wikilink")，或鹽份與某些[陽離子濃度高時](https://zh.wikipedia.org/wiki/陽離子 "wikilink")。
+[B-,_Z-DNA_junction_2ACJ.png](https://zh.wikipedia.org/wiki/File:B-,_Z-DNA_junction_2ACJ.png "fig:B-,_Z-DNA_junction_2ACJ.png") Z-DNA的雙股螺旋為左旋型態，與B-DNA的右旋型態明顯有所差別。其結構每兩個鹼基對重複出現一次。大小螺旋凹槽之間的差別較A型及B型小，只在寬度上有些微差異。這種型態並不常見，但某些特定情況可增加其存在的可能，如[嘌呤](../Page/嘌呤.md "wikilink")-[嘧啶](../Page/嘧啶.md "wikilink")交替序列、[DNA超螺旋](../Page/DNA超螺旋.md "wikilink")，或鹽份與某些[陽離子濃度高時](https://zh.wikipedia.org/wiki/陽離子 "wikilink")。
 
 Z-DNA能夠與B-DNA構成相互結合型態，這種結構會使一對鹼基突出於雙螺旋之外。
 
 ## 一些DNA形式幾何形狀的對比
 
-[A-DNA,_B-DNA_and_Z-DNA.png](https://zh.wikipedia.org/wiki/File:A-DNA,_B-DNA_and_Z-DNA.png "fig:A-DNA,_B-DNA_and_Z-DNA.png")
-[B\&Z\&A_DNA_formula.jpg](https://zh.wikipedia.org/wiki/File:B&Z&A_DNA_formula.jpg "fig:B&Z&A_DNA_formula.jpg")
+[A-DNA,_B-DNA_and_Z-DNA.png](https://zh.wikipedia.org/wiki/File:A-DNA,_B-DNA_and_Z-DNA.png "fig:A-DNA,_B-DNA_and_Z-DNA.png") [B\&Z\&A_DNA_formula.jpg](https://zh.wikipedia.org/wiki/File:B&Z&A_DNA_formula.jpg "fig:B&Z&A_DNA_formula.jpg")
 
 <table>
 <thead>
@@ -119,15 +116,12 @@ G: C3'-endo</p></td>
 
 ### 延伸閱讀
 
-  - Sinden RR (1994). DNA structure and function. *Academic Press*,
-    179-216. ISBN 978-0-12-645750-6
-  - Rich A, Zhang S (2003). Timeline: Z-DNA: the long road to biological
-    function. *Nat Rev Genet, 4:566–572*.
+  - Sinden RR (1994). DNA structure and function. *Academic Press*, 179-216. ISBN 978-0-12-645750-6
+  - Rich A, Zhang S (2003). Timeline: Z-DNA: the long road to biological function. *Nat Rev Genet, 4:566–572*.
 
 ## 外部連結
 
-  - [ZHunt Online
-    Server](https://web.archive.org/web/20071105012741/http://gac-web.cgrb.oregonstate.edu/zDNA/)
+  - [ZHunt Online Server](https://web.archive.org/web/20071105012741/http://gac-web.cgrb.oregonstate.edu/zDNA/)
 
 [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink")
 

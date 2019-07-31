@@ -2,10 +2,7 @@
 
 ## 歷史
 
-Armand
-Trousseau首先於1865年報告了在[糖尿病](../Page/糖尿病.md "wikilink")患者的[皮膚](../Page/皮膚.md "wikilink")上出現青銅色：HFE遺傳性血色病的病徵。\[7\]但他並沒有聯想到[鐵質的積聚](https://zh.wikipedia.org/wiki/鐵質 "wikilink")。到了1890年，[雷克靈豪森](https://zh.wikipedia.org/wiki/雷克靈豪森 "wikilink")（Friedrich
-Daniel von
-Recklinghausen）才發現因糖尿病而引起鐵質滲入[胰臟會破壞](https://zh.wikipedia.org/wiki/胰臟 "wikilink")[內分泌功能](https://zh.wikipedia.org/wiki/內分泌 "wikilink")。\[8\]\[9\]
+Armand Trousseau首先於1865年報告了在[糖尿病](../Page/糖尿病.md "wikilink")患者的[皮膚](../Page/皮膚.md "wikilink")上出現青銅色：HFE遺傳性血色病的病徵。\[7\]但他並沒有聯想到[鐵質的積聚](https://zh.wikipedia.org/wiki/鐵質 "wikilink")。到了1890年，[雷克靈豪森](https://zh.wikipedia.org/wiki/雷克靈豪森 "wikilink")（Friedrich Daniel von Recklinghausen）才發現因糖尿病而引起鐵質滲入[胰臟會破壞](https://zh.wikipedia.org/wiki/胰臟 "wikilink")[內分泌功能](https://zh.wikipedia.org/wiki/內分泌 "wikilink")。\[8\]\[9\]
 
 ## 病徵
 
@@ -44,8 +41,7 @@ HFE遺傳性血色病有多種的表徵，很多時會表現出其他疾病的�
 
 ### 肝臟活體組織切片
 
-[Hemochromatosis_liver_iron_prussian_blue.jpg](https://zh.wikipedia.org/wiki/File:Hemochromatosis_liver_iron_prussian_blue.jpg "fig:Hemochromatosis_liver_iron_prussian_blue.jpg")染色的就是[鐵質的積聚](https://zh.wikipedia.org/wiki/鐵質 "wikilink")。\]\]
-從[肝臟](../Page/肝臟.md "wikilink")[活體組織切片](../Page/活體組織切片.md "wikilink")量度的[鐵質含量](https://zh.wikipedia.org/wiki/鐵質 "wikilink")，可以得知肝臟受到的破壞。以往這是唯一檢查HFE遺傳性血色病的方法。活體組織切片的風險包括創傷、出血及感染。[運鐵蛋白及](https://zh.wikipedia.org/wiki/運鐵蛋白 "wikilink")[儲鐵蛋白的量度令活體組織切片的必要性備受質疑](https://zh.wikipedia.org/wiki/儲鐵蛋白 "wikilink")。\[26\]
+[Hemochromatosis_liver_iron_prussian_blue.jpg](https://zh.wikipedia.org/wiki/File:Hemochromatosis_liver_iron_prussian_blue.jpg "fig:Hemochromatosis_liver_iron_prussian_blue.jpg")染色的就是[鐵質的積聚](https://zh.wikipedia.org/wiki/鐵質 "wikilink")。\]\] 從[肝臟](../Page/肝臟.md "wikilink")[活體組織切片](../Page/活體組織切片.md "wikilink")量度的[鐵質含量](https://zh.wikipedia.org/wiki/鐵質 "wikilink")，可以得知肝臟受到的破壞。以往這是唯一檢查HFE遺傳性血色病的方法。活體組織切片的風險包括創傷、出血及感染。[運鐵蛋白及](https://zh.wikipedia.org/wiki/運鐵蛋白 "wikilink")[儲鐵蛋白的量度令活體組織切片的必要性備受質疑](https://zh.wikipedia.org/wiki/儲鐵蛋白 "wikilink")。\[26\]
 
 ### 醫學影像
 
@@ -101,13 +97,7 @@ HFE遺傳性血色病的普遍成因是C282Y的突變，即282點的[胱氨酸](
 
 ## 参考文献
 
-[Category:铁代谢](https://zh.wikipedia.org/wiki/Category:铁代谢 "wikilink")
-[Category:遗传病](https://zh.wikipedia.org/wiki/Category:遗传病 "wikilink")
-[Category:胃肠病学](https://zh.wikipedia.org/wiki/Category:胃肠病学 "wikilink")
-[Category:血液学](https://zh.wikipedia.org/wiki/Category:血液学 "wikilink")
-[Category:肝脏病学](https://zh.wikipedia.org/wiki/Category:肝脏病学 "wikilink")
-[Category:关节炎](https://zh.wikipedia.org/wiki/Category:关节炎 "wikilink")
-[Category:人体色素沉着紊乱](https://zh.wikipedia.org/wiki/Category:人体色素沉着紊乱 "wikilink")
+[Category:铁代谢](https://zh.wikipedia.org/wiki/Category:铁代谢 "wikilink") [Category:遗传病](https://zh.wikipedia.org/wiki/Category:遗传病 "wikilink") [Category:胃肠病学](https://zh.wikipedia.org/wiki/Category:胃肠病学 "wikilink") [Category:血液学](https://zh.wikipedia.org/wiki/Category:血液学 "wikilink") [Category:肝脏病学](https://zh.wikipedia.org/wiki/Category:肝脏病学 "wikilink") [Category:关节炎](https://zh.wikipedia.org/wiki/Category:关节炎 "wikilink") [Category:人体色素沉着紊乱](https://zh.wikipedia.org/wiki/Category:人体色素沉着紊乱 "wikilink")
 
 1.
 
@@ -125,21 +115,16 @@ HFE遺傳性血色病的普遍成因是C282Y的突變，即282點的[胱氨酸](
 
 8.
 
-9.  [Biography of Daniel von
-    Recklinghausen](http://www.whonamedit.com/doctor.cfm/1174.html)
+9.  [Biography of Daniel von Recklinghausen](http://www.whonamedit.com/doctor.cfm/1174.html)
 
 10.
 11.
 12.
-13. [Hemochromatosis](http://digestive.niddk.nih.gov/ddiseases/pubs/hemochromatosis/index.htm)
-    National Digestive Diseases Information Clearinghouse, National
-    Institutes of Health, U.S. Department of Health and Human Services
+13. [Hemochromatosis](http://digestive.niddk.nih.gov/ddiseases/pubs/hemochromatosis/index.htm) National Digestive Diseases Information Clearinghouse, National Institutes of Health, U.S. Department of Health and Human Services
 
 14.
 
-15. [Hemochromatosis-Diagnosis](http://digestive.niddk.nih.gov/ddiseases/pubs/hemochromatosis/index.htm)
-    National Digestive Diseases Information Clearinghouse, National
-    Institutes of Health, U.S. Department of Health and Human Services
+15. [Hemochromatosis-Diagnosis](http://digestive.niddk.nih.gov/ddiseases/pubs/hemochromatosis/index.htm) National Digestive Diseases Information Clearinghouse, National Institutes of Health, U.S. Department of Health and Human Services
 
 16.
 
@@ -150,8 +135,7 @@ HFE遺傳性血色病的普遍成因是C282Y的突變，即282點的[胱氨酸](
 
 20.
 
-21. [Transferrin and Iron Transport
-    Physiology](http://sickle.bwh.harvard.edu/iron_transport.html)
+21. [Transferrin and Iron Transport Physiology](http://sickle.bwh.harvard.edu/iron_transport.html)
 
 22.
 
@@ -169,8 +153,7 @@ HFE遺傳性血色病的普遍成因是C282Y的突變，即282點的[胱氨酸](
 
 30.
 
-31. <http://dynaweb.ebscohost.com/Detail.aspx?id=116469&sid=14aa79e5-a881-407c-94e7-339b81c4cd18@sessionmgr3>
-    accessed 2008-10-15
+31. <http://dynaweb.ebscohost.com/Detail.aspx?id=116469&sid=14aa79e5-a881-407c-94e7-339b81c4cd18@sessionmgr3> accessed 2008-10-15
 
 32.
 

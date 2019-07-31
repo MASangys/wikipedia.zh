@@ -1,11 +1,8 @@
-**守護甜心EGG\!**()是由[Hello Pro
-Egg成員所組成的一個小組](https://zh.wikipedia.org/wiki/Hello_Pro_Egg "wikilink")。
+**守護甜心EGG\!**()是由[Hello Pro Egg成員所組成的一個小組](https://zh.wikipedia.org/wiki/Hello_Pro_Egg "wikilink")。
 
 ## 成員
 
-成員是在Hello Pro
-Egg中選出，除[田邊奈菜美是由Amulet](https://zh.wikipedia.org/wiki/田邊奈菜美 "wikilink")
-Diamond甄選會選出。
+成員是在Hello Pro Egg中選出，除[田邊奈菜美是由Amulet](https://zh.wikipedia.org/wiki/田邊奈菜美 "wikilink") Diamond甄選會選出。
 
 ### 現任成員
 
@@ -73,14 +70,11 @@ Diamond甄選會選出。
 ## 關連項目
 
   - [守護甜心\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")
-  - [Hello Pro
-    Egg](https://zh.wikipedia.org/wiki/Hello_Pro_Egg "wikilink")
+  - [Hello Pro Egg](https://zh.wikipedia.org/wiki/Hello_Pro_Egg "wikilink")
   - [Buono\!](../Page/Buono!.md "wikilink")
 
 ## 外部連結
 
   - [的官方網頁](http://shugo-chara-egg.com/)
 
-[Category:守護甜心！](https://zh.wikipedia.org/wiki/Category:守護甜心！ "wikilink")
-[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
-[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
+[Category:守護甜心！](https://zh.wikipedia.org/wiki/Category:守護甜心！ "wikilink") [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")

@@ -1,5 +1,4 @@
-《**聖鬥士星矢EPISODE.G**》是[车田正美](../Page/车田正美.md "wikilink")原著、画者为[冈田芽武的](https://zh.wikipedia.org/wiki/冈田芽武 "wikilink")《[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")》外傳作品，于2002年12月19日开始，在[秋田书店月刊](https://zh.wikipedia.org/wiki/秋田书店 "wikilink")《Champion
-RED》连载。
+《**聖鬥士星矢EPISODE.G**》是[车田正美](../Page/车田正美.md "wikilink")原著、画者为[冈田芽武的](https://zh.wikipedia.org/wiki/冈田芽武 "wikilink")《[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")》外傳作品，于2002年12月19日开始，在[秋田书店月刊](https://zh.wikipedia.org/wiki/秋田书店 "wikilink")《Champion RED》连载。
 
 ## 故事概要
 
@@ -29,12 +28,8 @@ RED》连载。
 14. 2008年6月20日刊行 ISBN 978-4-253-93012-3（同日0巻 刊行 ISBN 978-4-253-23110-7）
 15. 2008年9月5日刊行 ISBN 978-4-253-23129-9
 16. 2009年2月5日刊行 ISBN 978-4-253-23130-5
-17. 2009年7月5日刊行 ISBN 978-4-253-23134-3 (17.5巻 2011年2月19日发行的Champion
-    RED4月号別册附录)
+17. 2009年7月5日刊行 ISBN 978-4-253-23134-3 (17.5巻 2011年2月19日发行的Champion RED4月号別册附录)
 18. 2011年8月19日刊行 ISBN 978-4-253-23135-0
 19. 2011年12月20日刊行 ISBN 978-4-253-23136-7
 
-[Category:圣斗士星矢](https://zh.wikipedia.org/wiki/Category:圣斗士星矢 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Champion_RED](https://zh.wikipedia.org/wiki/Category:Champion_RED "wikilink")
-[Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink")
+[Category:圣斗士星矢](https://zh.wikipedia.org/wiki/Category:圣斗士星矢 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Champion_RED](https://zh.wikipedia.org/wiki/Category:Champion_RED "wikilink") [Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink")

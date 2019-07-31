@@ -1,7 +1,4 @@
-**KAORI**（，）、是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。於[神奈川縣](../Page/神奈川縣.md "wikilink")[横濱市出生](https://zh.wikipedia.org/wiki/横濱市 "wikilink")。在2001年前以「川菜翠」和「川菜明子」的身分出道。KAORI會使用「鈴木香織」（）的名義出席在歌手及演員界中的活動，為搖滾樂隊「Spunky
-Strider」的主音，由於患上「痙攣性發聲障礙」和「頸部肌張力障礙話語」，目前休養中及暫停樂隊活動。
-2013年出席了印尼的雅加達JavaJazz
-音樂節的第3天活動（並且於Youtube網路直播）\[1\]。
+**KAORI**（，）、是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。於[神奈川縣](../Page/神奈川縣.md "wikilink")[横濱市出生](https://zh.wikipedia.org/wiki/横濱市 "wikilink")。在2001年前以「川菜翠」和「川菜明子」的身分出道。KAORI會使用「鈴木香織」（）的名義出席在歌手及演員界中的活動，為搖滾樂隊「Spunky Strider」的主音，由於患上「痙攣性發聲障礙」和「頸部肌張力障礙話語」，目前休養中及暫停樂隊活動。 2013年出席了印尼的雅加達JavaJazz 音樂節的第3天活動（並且於Youtube網路直播）\[1\]。
 
 ## 出演作品
 
@@ -74,8 +71,7 @@ Strider」的主音，由於患上「痙攣性發聲障礙」和「頸部肌張�
 ### 遊戲
 
   - [どきどきポヤッチオ](https://zh.wikipedia.org/wiki/どきどきポヤッチオ "wikilink")（**ルフィー**）
-  - [ユア・メモリーズオフ〜Girl's
-    Style〜](https://zh.wikipedia.org/wiki/ユア・メモリーズオフ〜Girl's_Style〜 "wikilink")（**月岡海**）
+  - [ユア・メモリーズオフ〜Girl's Style〜](https://zh.wikipedia.org/wiki/ユア・メモリーズオフ〜Girl's_Style〜 "wikilink")（**月岡海**）
 
 ### 廣播劇CD
 
@@ -95,8 +91,7 @@ Strider」的主音，由於患上「痙攣性發聲障礙」和「頸部肌張�
 
   - （クレール）
 
-  - FALCOM SPECIAL BOX '97 MIDORI KAWANA SINGS
-    [Ys](https://zh.wikipedia.org/wiki/イースシリーズ "wikilink")
+  - FALCOM SPECIAL BOX '97 MIDORI KAWANA SINGS [Ys](https://zh.wikipedia.org/wiki/イースシリーズ "wikilink")
 
 ### 廣播
 
@@ -154,8 +149,7 @@ Strider」的主音，由於患上「痙攣性發聲障礙」和「頸部肌張�
 
 1.  Tears Infection
       -
-        動畫《[Myself ;
-        Yourself](../Page/Myself_;_Yourself.md "wikilink")》片頭歌
+        動畫《[Myself ; Yourself](../Page/Myself_;_Yourself.md "wikilink")》片頭歌
 2.  Day-break
       -
         遊戲《Myself ; Yourself》主題歌
@@ -180,8 +174,7 @@ Strider」的主音，由於患上「痙攣性發聲障礙」和「頸部肌張�
 
   - （2008年4月23日發售）
 
-\#: 遊戲《[12RIVEN -the Ψcliminal of
-integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")》片尾歌
+\#: 遊戲《[12RIVEN -the Ψcliminal of integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")》片尾歌
 
 1.  third bridge
 
@@ -227,8 +220,7 @@ integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")》片尾�
 7.  \-psycho mix-
 
       -
-        遊戲《[Ever17 -the out of
-        infinity-](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity- "wikilink")》片頭歌（再錄音）
+        遊戲《[Ever17 -the out of infinity-](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity- "wikilink")》片頭歌（再錄音）
 
 8.    -
         遊戲《》片頭歌
@@ -242,8 +234,7 @@ integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")》片尾�
 11. \-acoustic mix-
 
       -
-        [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[Memories
-        Off](https://zh.wikipedia.org/wiki/Memories_Off "wikilink")》片尾歌（再錄音）
+        [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[Memories Off](https://zh.wikipedia.org/wiki/Memories_Off "wikilink")》片尾歌（再錄音）
 
 12. stratosphere
 
@@ -252,16 +243,10 @@ integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")》片尾�
 ## 外部連結
 
   - [KAORI Official Site](http://www.tosp.co.jp/i.asp?i=228kaori)
-  - [Spunky Strider
-    オフィシャルサイト](https://web.archive.org/web/20080317110858/http://spunkystrider.good.cx/html/spunky.html)
+  - [Spunky Strider オフィシャルサイト](https://web.archive.org/web/20080317110858/http://spunkystrider.good.cx/html/spunky.html)
   - [「re;stratosphere」 CD特設サイト](http://5pb.jp/records/sp/stratosphere/)
-  - [アニメイトTV アーティストインタビュー
-    KAORI](http://www.animate.tv/column/singer/070816.php)
+  - [アニメイトTV アーティストインタビュー KAORI](http://www.animate.tv/column/singer/070816.php)
 
-[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:1976年出生](https://zh.wikipedia.org/wiki/Category:1976年出生 "wikilink")
-[Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
+[Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:1976年出生](https://zh.wikipedia.org/wiki/Category:1976年出生 "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
 
-1.  2013/03/03 Youtube直播 印尼雅加達 JavaJazz爪哇爵士音樂節 第三天螢幕截圖，[2013/03/03
-    Youtube直播JavaJazz爪哇爵士音樂節 第三天螢幕截圖](http://imgur.com/Bichcip)
+1.  2013/03/03 Youtube直播 印尼雅加達 JavaJazz爪哇爵士音樂節 第三天螢幕截圖，[2013/03/03 Youtube直播JavaJazz爪哇爵士音樂節 第三天螢幕截圖](http://imgur.com/Bichcip)

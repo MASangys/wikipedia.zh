@@ -1,32 +1,22 @@
-**木村KAELA**
-是[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[模特兒和](../Page/模特兒.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，原名是（Kimura
-KaelaRie）。[東京都立向丘高等學校畢業](https://zh.wikipedia.org/wiki/東京都立向丘高等學校 "wikilink")，原所屬唱片公司为[哥倫比亞音樂](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")（Columbia
-Music Entertainment，契约至2013年终止），现所属唱片公司为VICTOR，而所屬的經紀公司是[Sony Music
-Artists](../Page/Sony_Music_Artists.md "wikilink")。常與各式各樣的音樂人合作，音樂及個人特色強烈顯明。在電視現場及演唱會皆與合作已久的音樂夥伴（專屬樂團成員）演出，偶爾自彈[吉他](../Page/吉他.md "wikilink")。
+**木村KAELA** 是[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[模特兒](../Page/模特兒.md "wikilink")和[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，原名是（Kimura KaelaRie）。[東京都立向丘高等學校畢業](https://zh.wikipedia.org/wiki/東京都立向丘高等學校 "wikilink")，原所屬唱片公司为[哥倫比亞音樂](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")（Columbia Music Entertainment，契约至2013年终止），现所属唱片公司为VICTOR，而所屬的經紀公司是[Sony Music Artists](../Page/Sony_Music_Artists.md "wikilink")。常與各式各樣的音樂人合作，音樂及個人特色強烈顯明。在電視現場及演唱會皆與合作已久的音樂夥伴（專屬樂團成員）演出，偶爾自彈[吉他](../Page/吉他.md "wikilink")。
 
 ## 來歷
 
-生於[東京都](../Page/東京都.md "wikilink")[足立區](../Page/足立區.md "wikilink")，為[英日混血兒](https://zh.wikipedia.org/wiki/英國 "wikilink")，父親是[英國人](https://zh.wikipedia.org/wiki/英國人 "wikilink")，母親是[日本人](../Page/日本人.md "wikilink")，從母姓「木村」。最初，由於亮麗的外型，在小學六年級時就擔任了雜誌CUTiE的讀者模特兒，到16歲高中那年又被選中而成了[集英社旗下雜誌](../Page/集英社.md "wikilink")[SEVENTEEN的專屬模特兒](https://zh.wikipedia.org/wiki/SEVENTEEN_\(雜誌\) "wikilink")。
+生於[東京都](../Page/東京都.md "wikilink")[足立區](../Page/足立區.md "wikilink")，為[英日混血兒](https://zh.wikipedia.org/wiki/英國 "wikilink")，父親是[英國人](https://zh.wikipedia.org/wiki/英國人 "wikilink")，母親是[日本人](../Page/日本人.md "wikilink")，從母姓「木村」。最初，由於亮麗的外型，在小學六年級時就擔任了雜誌CUTiE的讀者模特兒，到16歲高中那年又被選中而成了[集英社](../Page/集英社.md "wikilink")旗下雜誌[SEVENTEEN的專屬模特兒](https://zh.wikipedia.org/wiki/SEVENTEEN_\(雜誌\) "wikilink")。
 
-因為從小最大的夢想就是音樂、唱歌及當歌手，高中時積極地組樂團，畢業時選擇放棄原本要念的大學而努力往音樂路走去。在18歲那年被Saku
-Saku節目邀請成為節目主持人一員，歌手之路也就從此慢慢茁壯。
+因為從小最大的夢想就是音樂、唱歌及當歌手，高中時積極地組樂團，畢業時選擇放棄原本要念的大學而努力往音樂路走去。在18歲那年被Saku Saku節目邀請成為節目主持人一員，歌手之路也就從此慢慢茁壯。
 
-2004年5月10日（6月在日本正式發行）發行第一張單曲，[Level42即登上公信榜第](https://zh.wikipedia.org/wiki/Level42 "wikilink")14名。同年12月8日發行第一張專輯[KAELA](https://zh.wikipedia.org/wiki/KAELA "wikilink")，更在首週就登上Oricon公信榜第8名（最高名次第7名）。而2005年3月30日發行的第三張單曲[Real
-life Real
-heart](https://zh.wikipedia.org/wiki/Real_life_Real_heart "wikilink")，首週即登上公信榜第3名，自此以後她開始在日本成名。而2006年3月8日發行的第二張專輯[Circle首週即登上Oricon亞軍](../Page/Circle.md "wikilink")。
+2004年5月10日（6月在日本正式發行）發行第一張單曲，[Level42即登上公信榜第](https://zh.wikipedia.org/wiki/Level42 "wikilink")14名。同年12月8日發行第一張專輯[KAELA](https://zh.wikipedia.org/wiki/KAELA "wikilink")，更在首週就登上Oricon公信榜第8名（最高名次第7名）。而2005年3月30日發行的第三張單曲[Real life Real heart](https://zh.wikipedia.org/wiki/Real_life_Real_heart "wikilink")，首週即登上公信榜第3名，自此以後她開始在日本成名。而2006年3月8日發行的第二張專輯[Circle](../Page/Circle.md "wikilink")首週即登上Oricon亞軍。
 
-Kaela終於在2007年2月7日所發行的第三張專輯Scratch在首週以近20萬的銷量登上冠軍，而且蟬聯兩星期的冠軍，是她首次進入日本[Oricon公信榜第一名的專輯](../Page/Oricon公信榜.md "wikilink")\[1\]。
+Kaela終於在2007年2月7日所發行的第三張專輯Scratch在首週以近20萬的銷量登上冠軍，而且蟬聯兩星期的冠軍，是她首次進入日本[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第一名的專輯\[1\]。
 
-而[2007年4月份開始展開Scratch巡迴演唱會](../Page/2007年4月.md "wikilink")，並且再追加五場大型演唱會，在6月15日首次踏上[日本武道館的舞台舉辦個人大型演唱會](../Page/日本武道館.md "wikilink")。2007年3月17日的「MUSIC
-VIDEO AWARDS 07」頒獎典禮中以Magic Music得了最佳POP Video獎「BEST POP
-VIDEO」。[2008年7月發行的為](../Page/2008年7月.md "wikilink")[Idoling第三張專輯告白首度自行填詞](https://zh.wikipedia.org/wiki/IDOLING "wikilink")。2009年12月31日首次在[紅白歌唱大賽亮相](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
+而[2007年4月](../Page/2007年4月.md "wikilink")份開始展開Scratch巡迴演唱會，並且再追加五場大型演唱會，在6月15日首次踏上[日本武道館](../Page/日本武道館.md "wikilink")的舞台舉辦個人大型演唱會。2007年3月17日的「MUSIC VIDEO AWARDS 07」頒獎典禮中以Magic Music得了最佳POP Video獎「BEST POP VIDEO」。[2008年7月](../Page/2008年7月.md "wikilink")發行的為[Idoling第三張專輯告白首度自行填詞](https://zh.wikipedia.org/wiki/IDOLING "wikilink")。2009年12月31日首次在[紅白歌唱大賽亮相](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
-2010年6月1日，宣佈已懷孕五個月，並與男演員[瑛太結婚](../Page/瑛太.md "wikilink")。
+2010年6月1日，宣佈已懷孕五個月，並與男演員[瑛太](../Page/瑛太.md "wikilink")結婚。
 
 2010年10月28日，順利產下兒子。
 
-2011年第15屆Space Shower Music Video Awards音樂錄影帶頒獎，獲得BEST ARTIST獎和BEST
-FEMALE ARTIST獎。
+2011年第15屆Space Shower Music Video Awards音樂錄影帶頒獎，獲得BEST ARTIST獎和BEST FEMALE ARTIST獎。
 
 2013年宣布于出道九周年之际移籍至VICTOR开设专属厂牌ELA，并将于10月30日发行翻唱专辑ROCK。并同时宣布再次怀孕。
 
@@ -45,14 +35,11 @@ FEMALE ARTIST獎。
 1.  **[Level42](https://zh.wikipedia.org/wiki/Level42 "wikilink")**（2004年5月10日發行）
       - 在神奈川縣限定獨立發行每張日幣390的單曲共390張，開賣3分鐘即搶購一空。同年6月23日正式發行。
 2.  **[happiness\!\!\!](https://zh.wikipedia.org/wiki/happiness!!! "wikilink")**（2004年10月27日發行）
-3.  **[Real Life Real
-    Heart](https://zh.wikipedia.org/wiki/Real_Life_Real_Heart "wikilink")**（）（2005年3月30日發行）
+3.  **[Real Life Real Heart](https://zh.wikipedia.org/wiki/Real_Life_Real_Heart "wikilink")**（）（2005年3月30日發行）
 4.  **[BEAT](https://zh.wikipedia.org/wiki/BEAT "wikilink")**（2005年10月5日發行）
 5.  **[You](https://zh.wikipedia.org/wiki/You_\(木村KAELA\) "wikilink")**（2006年1月18日發行）
-6.  **[Magic
-    Music](https://zh.wikipedia.org/wiki/Magic_Music "wikilink")**（2006年6月28日發行）
-7.  **[TREE
-    CLIMBERS](https://zh.wikipedia.org/wiki/TREE_CLIMBERS "wikilink")**（2006年9月6日發行）
+6.  **[Magic Music](https://zh.wikipedia.org/wiki/Magic_Music "wikilink")**（2006年6月28日發行）
+7.  **[TREE CLIMBERS](https://zh.wikipedia.org/wiki/TREE_CLIMBERS "wikilink")**（2006年9月6日發行）
 8.  **[Snowdome](https://zh.wikipedia.org/wiki/Snowdome "wikilink")**（中譯：雪花球）（2007年1月17日發行）
 9.  **[Samantha](../Page/Samantha.md "wikilink")**（中譯：珊曼莎）（2007年7月18日發行）
 10. **[Yellow](../Page/Yellow_\(木村KAELA單曲\).md "wikilink")**（2007年10月24日發行）
@@ -60,18 +47,13 @@ FEMALE ARTIST獎。
 12. **[Moustache/memories](https://zh.wikipedia.org/wiki/Moustache/memories "wikilink")**（中譯：俏鬍子）（2008年9月10日發行）
 13. **[在哪裡](https://zh.wikipedia.org/wiki/在哪裡 "wikilink")**（2009年1月28日發行）
 14. **[BANZAI](https://zh.wikipedia.org/wiki/BANZAI_\(木村KAELA單曲\) "wikilink")**（2009年5月8日發行）
-15. **[Ring a Ding
-    Dong](../Page/Ring_a_Ding_Dong.md "wikilink")**（2010年6月9日發行）
-16. **[A winter fairy is melting a
-    snowman](https://zh.wikipedia.org/wiki/A_winter_fairy_is_melting_a_snowman "wikilink")**（2010年12月8日發行）
-17. **[喜怒哀樂 plus
-    愛](https://zh.wikipedia.org/wiki/喜怒哀樂_plus_愛 "wikilink")**（2011年8月3日發行）
+15. **[Ring a Ding Dong](../Page/Ring_a_Ding_Dong.md "wikilink")**（2010年6月9日發行）
+16. **[A winter fairy is melting a snowman](https://zh.wikipedia.org/wiki/A_winter_fairy_is_melting_a_snowman "wikilink")**（2010年12月8日發行）
+17. **[喜怒哀樂 plus 愛](https://zh.wikipedia.org/wiki/喜怒哀樂_plus_愛 "wikilink")**（2011年8月3日發行）
 18. **[Mamireru](https://zh.wikipedia.org/wiki/Mamireru "wikilink")**(マミレル)（2012年5月16日發行）
-19. **[Sun
-    shower](https://zh.wikipedia.org/wiki/Sun_shower "wikilink")**（2012年10月24日發行）
+19. **[Sun shower](https://zh.wikipedia.org/wiki/Sun_shower "wikilink")**（2012年10月24日發行）
 20. **[OLE\!OH\!](https://zh.wikipedia.org/wiki/OLE!OH! "wikilink")**（2014年7月9日發行）
-21. **[TODAY IS A NEW
-    DAY](https://zh.wikipedia.org/wiki/TODAY_IS_A_NEW_DAY "wikilink")**（2014年10月22日發行）
+21. **[TODAY IS A NEW DAY](https://zh.wikipedia.org/wiki/TODAY_IS_A_NEW_DAY "wikilink")**（2014年10月22日發行）
 22. **[EGG](https://zh.wikipedia.org/wiki/EGG "wikilink")**（2015年9月2日發行）
 
 ### 單曲銷量
@@ -501,39 +483,30 @@ sales<br />
 
 ### 其他參與
 
-1.  JUDY AND MARY「JUDY AND MARY 15th Anniversary Tribute
-    Album」（2009年3月28日發行）
+1.  JUDY AND MARY「JUDY AND MARY 15th Anniversary Tribute Album」（2009年3月28日發行）
       - 參予JAM出道15週年紀念致敬專輯，選擇改編翻唱自己最喜歡的歌「Happy?」 (第9曲目)。
 2.  Hey\!Hey\!Alright（2009年1月14日發行）
-      - Kaela與Schadaraparr合作搭檔，並以SCHADARAPARR＋木村KAELA組合名義，由SCHADARAPARR所屬唱片公司tearbridge
-        records發行單曲。
-3.  [君とどこまでも](https://web.archive.org/web/20080929201256/http://listen.jp/store/album_mstb103.htm)（MO'SOME
-    TONEBENDER的Live限定發售單曲）（2008年6月26日發行）
+      - Kaela與Schadaraparr合作搭檔，並以SCHADARAPARR＋木村KAELA組合名義，由SCHADARAPARR所屬唱片公司tearbridge records發行單曲。
+3.  [君とどこまでも](https://web.archive.org/web/20080929201256/http://listen.jp/store/album_mstb103.htm)（MO'SOME TONEBENDER的Live限定發售單曲）（2008年6月26日發行）
       - Kaela與之合唱「君とどこまでも」
-4.  山澤大洋 presents [「music
-    tree」](http://columbia.jp/artist-info/taiyo/COCP-34572.html)（作曲人山澤大洋的作品專輯）（2008年1月23日發行）
+4.  山澤大洋 presents [「music tree」](http://columbia.jp/artist-info/taiyo/COCP-34572.html)（作曲人山澤大洋的作品專輯）（2008年1月23日發行）
       - 第2曲目「birdie」，Kaela演唱與DEPAPEPE演奏吉他的合作曲
-5.  「[奥田民生](../Page/奥田民生.md "wikilink")・カバーズ／OKUDA TAMIO
-    COVERS」（奥田民生出道20周年紀念盤）（2007年10月24日發行）
+5.  「[奥田民生](../Page/奥田民生.md "wikilink")・カバーズ／OKUDA TAMIO COVERS」（奥田民生出道20周年紀念盤）（2007年10月24日發行）
       - 第1曲目「マシマロ」
 6.  Sadistic Mikaela Band「NARKISSOS」擔任主唱（2006年10月25日發行）
 7.  LOVE for NANA ～Only 1 Tribute～（2005年3月16日發行）
-      - 第3曲目Twinkle，也收入至real life real
-        heart單曲和[Circle專輯](../Page/Circle.md "wikilink")
+      - 第3曲目Twinkle，也收入至real life real heart單曲和[Circle](../Page/Circle.md "wikilink")專輯
 8.  LAST DAYS tribute to Mr.K（2006年4月5日發行）
       - 第4曲目Cloudy，與FOE合作，Kaela擔任作詞和演唱
 9.  FOETUNES（2006年4月26日發行）
       - 第3曲目The End Of The Sun（跨刀獻聲）
-10. [ATTENTION
-    PLEASE](https://zh.wikipedia.org/wiki/ATTENTION_PLEASE "wikilink")2006日劇原聲帶（2006年5月24日發行）
+10. [ATTENTION PLEASE](https://zh.wikipedia.org/wiki/ATTENTION_PLEASE "wikilink")2006日劇原聲帶（2006年5月24日發行）
       - 第1曲目OH PRETTY WOMAN
-11. [令人討厭的松子的一生電影原聲帶](../Page/令人討厭的松子的一生.md "wikilink")（2006年5月24日發行）
-      - 第1曲目TRILL TRILL
-        RECUR，也收入至[Circle專輯](../Page/Circle.md "wikilink")
+11. [令人討厭的松子的一生](../Page/令人討厭的松子的一生.md "wikilink")電影原聲帶（2006年5月24日發行）
+      - 第1曲目TRILL TRILL RECUR，也收入至[Circle](../Page/Circle.md "wikilink")專輯
 12. No Reason Why（2007年1月24日）
       - 第2曲目No Reason Why featuring 木村KAELA
-13. [「...of　newtypes」](http://www.indiesmusic.com/ItemView.aspx?id=11213)
-    10組樂團的合輯（2005年10月12日）
+13. [「...of　newtypes」](http://www.indiesmusic.com/ItemView.aspx?id=11213) 10組樂團的合輯（2005年10月12日）
       - Kaela高中時加入的獨立樂團ANIMO，參與了此專輯，收入兩首"Out of luck"和"Is my fate"
 14. 「Custom Made 10.30」電影原聲帶（2005年10月26日）
       - 第19曲目Why are you so in a hurry?～父親的Melody
@@ -567,12 +540,9 @@ sales<br />
 
 ### 廣播
 
-  - J-WAVE **『[Oh\! My
-    Radio](http://www.j-wave.co.jp/original/ohmyradio/)』**節目（2005年至今）
+  - J-WAVE **『[Oh\! My Radio](http://www.j-wave.co.jp/original/ohmyradio/)』**節目（2005年至今）
     1.  擔任主持，現場撥出時間為每星期2晚上11點\~凌晨1點（以台灣時區來算）。
-        自2007年4月開始，全世界皆能經由 [Brandnew
-        J](https://web.archive.org/web/20080604150336/http://www.j-wavemusic.com/)
-        網站線上收聽。
+        自2007年4月開始，全世界皆能經由 [Brandnew J](https://web.archive.org/web/20080604150336/http://www.j-wavemusic.com/) 網站線上收聽。
     2.  通稱カエラジ（kaelaji），「カエラのラジオ（Kaela的radio）」的簡稱。
 
 ### 電視
@@ -582,9 +552,7 @@ sales<br />
 
 ### 戲劇
 
-  - 日劇**『[ATTENTION
-    PLEASE](https://zh.wikipedia.org/wiki/ATTENTION_PLEASE "wikilink")』**（2006年），演唱主題曲Oh
-    Pretty Woman，也在劇中客串演自己。
+  - 日劇**『[ATTENTION PLEASE](https://zh.wikipedia.org/wiki/ATTENTION_PLEASE "wikilink")』**（2006年），演唱主題曲Oh Pretty Woman，也在劇中客串演自己。
   - 日劇**『[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")**真人版』，客串演出「未來長大的小丸子」。
       -
         註：富士電台為紀念櫻桃小丸子15週年，特別拍攝的真人版劇場。
@@ -606,10 +574,8 @@ sales<br />
   - 富士重工業汽車
       - Suparu・R1（2004年12月－）（與梶原善共演）
       - Suparu・R2（2005年6月－）
-  - Vodafone日本法人（現・SoftBank mobile）「Vodafone 3G（現・SoftBank
-    3G）」（2005年2月下旬-6月）
-  - [森永乳業](https://zh.wikipedia.org/wiki/森永乳業 "wikilink")「Eskimo
-    Pino」（2005年4月－）
+  - Vodafone日本法人（現・SoftBank mobile）「Vodafone 3G（現・SoftBank 3G）」（2005年2月下旬-6月）
+  - [森永乳業](https://zh.wikipedia.org/wiki/森永乳業 "wikilink")「Eskimo Pino」（2005年4月－）
   - [任天堂](../Page/任天堂.md "wikilink")
       - 馬力歐博士（2005年4月－6月）
       - Game Boy micro（2005年9月－）
@@ -659,8 +625,7 @@ sales<br />
   - 2005.04.03　東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
   - 2005.04.04　東京・SHIBUYA-AX
   - 2005.04.10　福岡・DRUM LOGOS
-  - 2005.04.11　大阪・[BIG
-    CAT](https://zh.wikipedia.org/wiki/BIG_CAT "wikilink")
+  - 2005.04.11　大阪・[BIG CAT](https://zh.wikipedia.org/wiki/BIG_CAT "wikilink")
 
 </div>
 
@@ -693,20 +658,13 @@ Live Tour 2006“Circle”
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2006.04.02　福岡・[Zepp
-    Fukuoka](https://zh.wikipedia.org/wiki/Zepp#Zepp_Fukuoka "wikilink")
-  - 2006.04.03　廣島・[廣島CLUB
-    QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO#廣島CLUB_QUATTRO "wikilink")
-  - 2006.04.08　大阪・[Zepp
-    Osaka](https://zh.wikipedia.org/wiki/Zepp#Zepp_Osaka "wikilink")
-  - 2006.04.09　名古屋・[Zepp
-    Nagoya](https://zh.wikipedia.org/wiki/Zepp#Zepp_Nagoya "wikilink")
-  - 2006.04.14　札幌・[Zepp
-    Sapporo](https://zh.wikipedia.org/wiki/Zepp#Zepp_Sapporo "wikilink")
-  - 2006.04.16　仙台・[Zepp
-    Sendai](https://zh.wikipedia.org/wiki/Zepp#Zepp_Sendai "wikilink")
-  - 2006.04.23　東京・[Zepp
-    Tokyo](https://zh.wikipedia.org/wiki/Zepp#Zepp_Tokyo "wikilink")
+  - 2006.04.02　福岡・[Zepp Fukuoka](https://zh.wikipedia.org/wiki/Zepp#Zepp_Fukuoka "wikilink")
+  - 2006.04.03　廣島・[廣島CLUB QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO#廣島CLUB_QUATTRO "wikilink")
+  - 2006.04.08　大阪・[Zepp Osaka](https://zh.wikipedia.org/wiki/Zepp#Zepp_Osaka "wikilink")
+  - 2006.04.09　名古屋・[Zepp Nagoya](https://zh.wikipedia.org/wiki/Zepp#Zepp_Nagoya "wikilink")
+  - 2006.04.14　札幌・[Zepp Sapporo](https://zh.wikipedia.org/wiki/Zepp#Zepp_Sapporo "wikilink")
+  - 2006.04.16　仙台・[Zepp Sendai](https://zh.wikipedia.org/wiki/Zepp#Zepp_Sendai "wikilink")
+  - 2006.04.23　東京・[Zepp Tokyo](https://zh.wikipedia.org/wiki/Zepp#Zepp_Tokyo "wikilink")
   - 2006.05.05　東京・[日比谷野外大音樂堂](https://zh.wikipedia.org/wiki/日比谷野外音樂堂#大音楽堂 "wikilink")
 
 </div>
@@ -733,8 +691,7 @@ Live Tour 2006 秋～BaRa 木村 de BOB tour～
   - 2006.10.17　熊本・BATTLE STAGE
   - 2006.10.21　石川・金沢EIGHT HALL
   - 2006.10.23　東京・LIQUIDROOM
-  - 2006.10.25　神奈川・[CLUB
-    CITTA'](https://zh.wikipedia.org/wiki/CLUB_CITTA' "wikilink")
+  - 2006.10.25　神奈川・[CLUB CITTA'](https://zh.wikipedia.org/wiki/CLUB_CITTA' "wikilink")
 
 </div>
 
@@ -770,8 +727,7 @@ LIVE TOUR 2007「Scratch」～Agattemasutteba TOUR\~
   - 2007.05.22　群馬・高崎Club FLEEZ
   - 2007.05.24　青森・青森QUARTER
   - 2007.05.25　仙台・Zepp Sendai
-  - 2007.06.12　大阪・[Festival
-    Hall](https://zh.wikipedia.org/wiki/Festival_Hall "wikilink")
+  - 2007.06.12　大阪・[Festival Hall](https://zh.wikipedia.org/wiki/Festival_Hall "wikilink")
   - 2007.06.13　名古屋・[名古屋市民會館](https://zh.wikipedia.org/wiki/名古屋市民會館 "wikilink")・大Hall
   - 2007.06.15　東京・[日本武道館](../Page/日本武道館.md "wikilink")
   - 2007.06.25　沖繩・NAMURA Hall
@@ -841,8 +797,7 @@ Chelate Lemon presents LIVE TOUR 2008「+1」
   - 2008.06.06　鹿兒島・[鹿兒島市民文化Hall第一](https://zh.wikipedia.org/wiki/鹿兒島市民文化Hall#第1Hall "wikilink")
   - 2008.06.10　大阪・Festival Hall
   - 2008.06.11　大阪・Festival Hall
-  - 2008.06.13　香川・[香川縣縣民大廳](https://zh.wikipedia.org/wiki/香川縣縣民大廳 "wikilink")・Grand
-    Hall
+  - 2008.06.13　香川・[香川縣縣民大廳](https://zh.wikipedia.org/wiki/香川縣縣民大廳 "wikilink")・Grand Hall
   - 2008.06.15　愛媛・[松山市民會館](https://zh.wikipedia.org/wiki/松山市民會館 "wikilink")・大廳
   - 2008.06.23　神奈川・[神奈川縣民大廳](https://zh.wikipedia.org/wiki/神奈川縣民大廳 "wikilink")・大廳
   - 2008.06.29　栃木・[宇都宮市文化會館](https://zh.wikipedia.org/wiki/宇都宮市文化會館 "wikilink")・大廳
@@ -886,19 +841,9 @@ LIVE HOUSE TOUR 2008 ～STARs TOURS～
   - [Kaela個人官網](http://kaela-web.com/index.html)
   - [Kaela個人網誌](http://kaela.jugem.jp/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:日本搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本搖滾歌手 "wikilink")
-[Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink")
-[Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:英國裔日本人](https://zh.wikipedia.org/wiki/Category:英國裔日本人 "wikilink")
-[Category:Seventeen模特兒](https://zh.wikipedia.org/wiki/Category:Seventeen模特兒 "wikilink")
-[Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日本搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本搖滾歌手 "wikilink") [Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink") [Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:英國裔日本人](https://zh.wikipedia.org/wiki/Category:英國裔日本人 "wikilink") [Category:Seventeen模特兒](https://zh.wikipedia.org/wiki/Category:Seventeen模特兒 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
-1.  [木村KAELA人氣爆發
-    首度封后](http://tw.news.yahoo.com/article/url/d/a/070214/35/ajy4.html)
+1.  [木村KAELA人氣爆發 首度封后](http://tw.news.yahoo.com/article/url/d/a/070214/35/ajy4.html)
 
 2.
 3.

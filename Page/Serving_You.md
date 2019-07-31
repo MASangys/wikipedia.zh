@@ -1,17 +1,10 @@
-**《Serving
-You》**為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")第四張個人大碟，於2008年11月27日推出，對比於上一張大碟足足相隔了兩年時間\[1\]。
+**《Serving You》**為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")第四張個人大碟，於2008年11月27日推出，對比於上一張大碟足足相隔了兩年時間\[1\]。
 
 ## 簡介
 
 [衛蘭](../Page/衛蘭.md "wikilink")於這張大碟中花了整整兩年時間錄制歌曲，最後決定收錄共14首歌曲。大碟由於選曲及印刷問題幾度延遲了推出日期，間接令衛蘭此碟未能角逐任何年尾頒獎典禮獎項。雖然如此，此碟推出後外間反應不錯，未出碟前已達到白金訂單銷量（3萬訂單），被香港報章形容為市道不景氣中的逆市奇葩。大碟推出後未夠一個月，全亞洲銷量已達5白金（15萬），成績斐然。
 
-《陰天假期》一曲乃改編自道恩·湯馬斯（Dawn Thomas）的《If I'm Not in Love With
-You》，曾多次被外國歌手凱西·特羅克利（Kathy
-Troccoli）、喬蒂·華特利（Jody Watley）、「布萊恩·瓊斯城大屠殺」樂團（[Brian
-Jonestown
-Massacre](https://zh.wikipedia.org/wiki/Brian_Jonestown_Massacre "wikilink")）、[菲絲·希爾](https://zh.wikipedia.org/wiki/菲絲·希爾 "wikilink")（Faith
-Hill）翻唱，而日本歌手[伊藤由奈](../Page/伊藤由奈.md "wikilink")亦翻唱此曲（名為《Endless
-Story》），台灣歌手[張惠春](../Page/張惠春.md "wikilink")翻唱此曲為《想念你的歌》。
+《陰天假期》一曲乃改編自道恩·湯馬斯（Dawn Thomas）的《If I'm Not in Love With You》，曾多次被外國歌手凱西·特羅克利（Kathy Troccoli）、喬蒂·華特利（Jody Watley）、「布萊恩·瓊斯城大屠殺」樂團（[Brian Jonestown Massacre](https://zh.wikipedia.org/wiki/Brian_Jonestown_Massacre "wikilink")）、[菲絲·希爾](https://zh.wikipedia.org/wiki/菲絲·希爾 "wikilink")（Faith Hill）翻唱，而日本歌手[伊藤由奈](../Page/伊藤由奈.md "wikilink")亦翻唱此曲（名為《Endless Story》），台灣歌手[張惠春](../Page/張惠春.md "wikilink")翻唱此曲為《想念你的歌》。
 
 ## 收錄歌曲
 
@@ -36,9 +29,7 @@ Story》），台灣歌手[張惠春](../Page/張惠春.md "wikilink")翻唱此�
 
 ## 派台歌曲及四台成績
 
-由於衛蘭本年只推出一張專輯，因此達半數的歌曲均被派台，當中派台歌共七首，包括：《無所謂》、 《雜技》、
-《如水》、《陰天假期》、《就算世界無童話》、《My
-Cookie Can》、《愛深過做人》。
+由於衛蘭本年只推出一張專輯，因此達半數的歌曲均被派台，當中派台歌共七首，包括：《無所謂》、 《雜技》、 《如水》、《陰天假期》、《就算世界無童話》、《My Cookie Can》、《愛深過做人》。
 
 <table style="width:2%;">
 <colgroup>
@@ -111,13 +102,10 @@ Cookie Can》、《愛深過做人》。
 
 **四大電子傳媒**：
 
-  - [2007年度新城勁爆頒獎禮](../Page/2007年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲 -
-    《無所謂》
+  - [2007年度新城勁爆頒獎禮](../Page/2007年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲 - 《無所謂》
   - 2009[勁歌金曲](../Page/勁歌金曲.md "wikilink")優秀選第一回 - 歌曲獎 - 《就算世界無童話》
-  - [2009年度新城勁爆頒獎禮](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆卡拉OK歌曲 - 《就算世界無童話》
-  - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲 -
-    《就算世界無童話》
+  - [2009年度新城勁爆頒獎禮](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆卡拉OK歌曲 - 《就算世界無童話》
+  - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲 - 《就算世界無童話》
 
 **其他媒介**：
 
@@ -127,12 +115,8 @@ Cookie Can》、《愛深過做人》。
   - 2008香港數碼音樂頒獎典禮 - 《雜技》
   - 第六屆《勁歌王》全球華人樂壇年度總選 - 勁歌K歌金曲 - 《就算世界無童話》
   - 第六屆《勁歌王》全球華人樂壇年度總選 - 粵語金曲獎 - 《就算世界無童話》
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009
-    - 最高收聽率二十大歌曲 - 《就算世界無童話》
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009
-    - 十大最高銷量歌曲 - 《就算世界無童話》
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009 - 最高收聽率二十大歌曲 - 《就算世界無童話》
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009 - 十大最高銷量歌曲 - 《就算世界無童話》
   - 2010數碼音樂頒獎禮 - 最高使用次數電話接駁鈴聲歌曲 - 《就算世界無童話》
   - 2010數碼音樂頒獎禮 - 數碼原點歌曲獎 - 《就算世界無童話》
   - 2010數碼音樂頒獎禮 - Neway卡拉OK歌曲獎 - 《就算世界無童話》
@@ -141,14 +125,9 @@ Cookie Can》、《愛深過做人》。
 
 ## 外部連結
 
-  - [Serving You-yahoo
-    music](https://web.archive.org/web/20110915050501/http://hk.music.yahoo.com/album-album.html?albumid=31854)
-  - [衛蘭 JANICE - SERVING
-    YOU](http://www.hmv.com.hk/ch/product/canto.asp?sku=196026)
+  - [Serving You-yahoo music](https://web.archive.org/web/20110915050501/http://hk.music.yahoo.com/album-album.html?albumid=31854)
+  - [衛蘭 JANICE - SERVING YOU](http://www.hmv.com.hk/ch/product/canto.asp?sku=196026)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
 
 1.

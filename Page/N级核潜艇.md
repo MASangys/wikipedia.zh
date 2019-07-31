@@ -1,11 +1,8 @@
-**N级核动力攻击型潜艇**（[北约英文名称](https://zh.wikipedia.org/wiki/北约 "wikilink")：**November
-Class
-Submarine**，\[1\]亦可译作**十一月级**，苏俄代号**627型鲸鱼级**）是[苏联海军第一型](https://zh.wikipedia.org/wiki/苏联海军 "wikilink")[核动力](https://zh.wikipedia.org/wiki/核动力 "wikilink")[潜艇](https://zh.wikipedia.org/wiki/潜艇 "wikilink")，于1952年开始研发。当时苏共中央认为核潜艇诞生之后对于苏联海军带来质的影响，遂在1952年启动了627“鲸鱼”计划，即研究苏联的核潜艇。N级与当时苏联的常规潜艇一样，都仅装备[鱼雷](https://zh.wikipedia.org/wiki/鱼雷 "wikilink")。后来[H级核动力](https://zh.wikipedia.org/wiki/H级核潜艇 "wikilink")[弹道导弹潜艇就是由N级改进而成的](../Page/弹道导弹潜艇.md "wikilink")。N级一共建造了13艘，其中[列宁共青团号是第一个达到](https://zh.wikipedia.org/wiki/K-3 "wikilink")[北极点的苏联潜艇](../Page/北极点.md "wikilink")（1962年，比[鹦鹉螺号晚了](https://zh.wikipedia.org/wiki/鹦鹉螺号核动力潜艇 "wikilink")4年）。该级的[K-8号潜艇则于](https://zh.wikipedia.org/wiki/K-8 "wikilink")1970年在[比斯开湾因事故沉沒](https://zh.wikipedia.org/wiki/比斯开湾 "wikilink")。N级其余12艘艇在1987年-1991年间退役。K-3号潜艇退役后做为浮动博物馆保留。
+**N级核动力攻击型潜艇**（[北约英文名称](https://zh.wikipedia.org/wiki/北约 "wikilink")：**November Class Submarine**，\[1\]亦可译作**十一月级**，苏俄代号**627型鲸鱼级**）是[苏联海军第一型](https://zh.wikipedia.org/wiki/苏联海军 "wikilink")[核动力](https://zh.wikipedia.org/wiki/核动力 "wikilink")[潜艇](https://zh.wikipedia.org/wiki/潜艇 "wikilink")，于1952年开始研发。当时苏共中央认为核潜艇诞生之后对于苏联海军带来质的影响，遂在1952年启动了627“鲸鱼”计划，即研究苏联的核潜艇。N级与当时苏联的常规潜艇一样，都仅装备[鱼雷](https://zh.wikipedia.org/wiki/鱼雷 "wikilink")。后来[H级核动力](https://zh.wikipedia.org/wiki/H级核潜艇 "wikilink")[弹道导弹潜艇](../Page/弹道导弹潜艇.md "wikilink")就是由N级改进而成的。N级一共建造了13艘，其中[列宁共青团号是第一个达到](https://zh.wikipedia.org/wiki/K-3 "wikilink")[北极点](../Page/北极点.md "wikilink")的苏联潜艇（1962年，比[鹦鹉螺号晚了](https://zh.wikipedia.org/wiki/鹦鹉螺号核动力潜艇 "wikilink")4年）。该级的[K-8号潜艇则于](https://zh.wikipedia.org/wiki/K-8 "wikilink")1970年在[比斯开湾因事故沉沒](https://zh.wikipedia.org/wiki/比斯开湾 "wikilink")。N级其余12艘艇在1987年-1991年间退役。K-3号潜艇退役后做为浮动博物馆保留。
 
 ## 设计过程
 
-1952年9月9日，苏联部长会议通过决议并下令执行627计划——研发苏俄自己的第一级核潜艇。随后[第143特种设计局和](../Page/孔雀石设计局.md "wikilink")[第18中央设计局共派出](../Page/红宝石设计局.md "wikilink")35名专家参与研制过程。与所有的研制任务不同，N级的研制任务书不是由苏联海军提出，而是由苏联部长会议提出并决定的而研发地点也从列宁格勒转道[莫斯科化工机械研究院](https://zh.wikipedia.org/wiki/莫斯科化工机械研究院 "wikilink")。该研制任务当时被视为苏联的最高机密，研制论证阶段时仅有研发专家和几名当时苏共高级领导知道，甚至连造船部门和海军部门也才是在研发初步论证之后才得知这一消息的。参与设计过程的大大小小项目的科研院所达到了350多个。主任设计师V.N.佩雷古多夫(
-Peregudov )。1953年3月前完成了初步设计，1953年3月至1954年5月完成了图纸设计和技术设计，
+1952年9月9日，苏联部长会议通过决议并下令执行627计划——研发苏俄自己的第一级核潜艇。随后[第143特种设计局和](../Page/孔雀石设计局.md "wikilink")[第18中央设计局共派出](../Page/红宝石设计局.md "wikilink")35名专家参与研制过程。与所有的研制任务不同，N级的研制任务书不是由苏联海军提出，而是由苏联部长会议提出并决定的而研发地点也从列宁格勒转道[莫斯科化工机械研究院](https://zh.wikipedia.org/wiki/莫斯科化工机械研究院 "wikilink")。该研制任务当时被视为苏联的最高机密，研制论证阶段时仅有研发专家和几名当时苏共高级领导知道，甚至连造船部门和海军部门也才是在研发初步论证之后才得知这一消息的。参与设计过程的大大小小项目的科研院所达到了350多个。主任设计师V.N.佩雷古多夫( Peregudov )。1953年3月前完成了初步设计，1953年3月至1954年5月完成了图纸设计和技术设计，
 
 ### “核子鱼雷潜艇”计划
 
@@ -35,22 +32,15 @@ N级的水下最高被规定为航速23.3[节](https://zh.wikipedia.org/wiki/节
 
 值得注意的是，N级没有尾部鱼雷舱，全部8座鱼雷全都在I舱。
 
-N级潜艇的首舰“列宁共青团”号实际在1954年6月就开始建造了，在[北德文斯克的](../Page/北德文斯克.md "wikilink")402造船厂建造。但实际上当时N级潜艇的施工设计并未全部完成，甚至连技术设计也未经过最后批准，但当时的苏联中央就决定开工建造了。这是苏联潜艇制造历史上唯一的一个特例，而北德文斯克从此变成了苏联船舶，尤其是潜艇的重要制造基地，同时也是苏联最北方的造船基地。1955年9月24日铺龙骨，1957年8月9日下水，1957年9月13-14日向两座反应堆添加了核燃料。1958年4月19日开始核动力全艇供电综合系泊试验。1958年7月4日首次出海试航。航行试验过程中，K-3艇共出海5次，总航时450小时(25昼夜)，航程3801海里，其中2002海里在水下，860海里以15节中速航行。共完成了29次下潜与上浮。在蒸气发生装置功率提高到60%时，该艇潜航速度达到23.3节。计算表明，核动力装置的功率100%时潜航速度是30节。
-1958年12月最后一次即第五次出海，完成了310米深潜。1958年12月17日国家试验委员会签署了交付海军的文件。从1955年9月24日到1958年12月17日交艇总共经历3[年又](../Page/年.md "wikilink")2个[月](../Page/月.md "wikilink")23天，对于第一次制造潜艇的苏联，已经算是快速了。1959年，K-3号艇完成了3次航行：分别是9昼夜、22昼夜和14昼夜。从1959年12月至1961年5月对潜艇进行了改进和必要的修理。
+N级潜艇的首舰“列宁共青团”号实际在1954年6月就开始建造了，在[北德文斯克](../Page/北德文斯克.md "wikilink")的402造船厂建造。但实际上当时N级潜艇的施工设计并未全部完成，甚至连技术设计也未经过最后批准，但当时的苏联中央就决定开工建造了。这是苏联潜艇制造历史上唯一的一个特例，而北德文斯克从此变成了苏联船舶，尤其是潜艇的重要制造基地，同时也是苏联最北方的造船基地。1955年9月24日铺龙骨，1957年8月9日下水，1957年9月13-14日向两座反应堆添加了核燃料。1958年4月19日开始核动力全艇供电综合系泊试验。1958年7月4日首次出海试航。航行试验过程中，K-3艇共出海5次，总航时450小时(25昼夜)，航程3801海里，其中2002海里在水下，860海里以15节中速航行。共完成了29次下潜与上浮。在蒸气发生装置功率提高到60%时，该艇潜航速度达到23.3节。计算表明，核动力装置的功率100%时潜航速度是30节。 1958年12月最后一次即第五次出海，完成了310米深潜。1958年12月17日国家试验委员会签署了交付海军的文件。从1955年9月24日到1958年12月17日交艇总共经历3[年](../Page/年.md "wikilink")又2个[月](../Page/月.md "wikilink")23天，对于第一次制造潜艇的苏联，已经算是快速了。1959年，K-3号艇完成了3次航行：分别是9昼夜、22昼夜和14昼夜。从1959年12月至1961年5月对潜艇进行了改进和必要的修理。
 
 除了首艇外，其余12艘均为637A型潜艇。还有一艘K-27号为液态金属冷却核反应堆动力的645型核潜艇。645型是换装了2座ВТ-1型液态金属冷却核反应堆的627А型艇，动力装置总功率147兆瓦，但由于事故频发，于1968年5月终止试用。
 
-十一月级潜艇共建造了14艘: 627型一艘(K-3 "列宁共青团"号), 627A型12艘(K-5, K-8, K-11, K-14,
-K-21, K-42 "Rostovskiy Komsomolets", K-50, K-52, K-115, K-133, K-159,
-K-181), 645型一艘(K-27). K表示(Kreyserskaya podvodnaya lodka,
-英语字面意思为"Cruising
-submarine")，即巡洋潜艇.苏联海军舰只按船型大小及重要性分为六个级别：巡洋舰、大型舰、驱逐舰、护卫舰、小型舰、艇。如基辅级航母被苏军称为重型航空巡洋舰，台风级潜艇为重型弹道导弹核动力巡洋潜艇等等。
+十一月级潜艇共建造了14艘: 627型一艘(K-3 "列宁共青团"号), 627A型12艘(K-5, K-8, K-11, K-14, K-21, K-42 "Rostovskiy Komsomolets", K-50, K-52, K-115, K-133, K-159, K-181), 645型一艘(K-27). K表示(Kreyserskaya podvodnaya lodka, 英语字面意思为"Cruising submarine")，即巡洋潜艇.苏联海军舰只按船型大小及重要性分为六个级别：巡洋舰、大型舰、驱逐舰、护卫舰、小型舰、艇。如基辅级航母被苏军称为重型航空巡洋舰，台风级潜艇为重型弹道导弹核动力巡洋潜艇等等。
 
 ## 部署
 
-主要配备了[北方舰队的第](../Page/北方舰队.md "wikilink")3、第17潜艇总队。四艘(K-14, K-42, K-115,
-K-133)在六十年代配备给[太平洋舰队第](https://zh.wikipedia.org/wiki/太平洋舰队\(俄罗斯\) "wikilink")10潜艇总队，其中K-14,
-K-42与K-115经北极冰下航线调入太平洋；而K-133经过南方航线绕道[德雷克海峡](../Page/德雷克海峡.md "wikilink")，52天水下航行21,000英里调入太平洋.
+主要配备了[北方舰队](../Page/北方舰队.md "wikilink")的第3、第17潜艇总队。四艘(K-14, K-42, K-115, K-133)在六十年代配备给[太平洋舰队第](https://zh.wikipedia.org/wiki/太平洋舰队\(俄罗斯\) "wikilink")10潜艇总队，其中K-14, K-42与K-115经北极冰下航线调入太平洋；而K-133经过南方航线绕道[德雷克海峡](../Page/德雷克海峡.md "wikilink")，52天水下航行21,000英里调入太平洋.
 
 ## 事故
 
@@ -61,27 +51,22 @@ K-42与K-115经北极冰下航线调入太平洋；而K-133经过南方航线绕
 除役之后事故：
 
   - 2003年8月，[K-159号在被拖向右就停泊地途中沉没](https://zh.wikipedia.org/wiki/K-159 "wikilink")，9名水手因此丧生。
-  - 2006年中旬，[K-60号在](https://zh.wikipedia.org/wiki/K-60 "wikilink")[俄罗斯Polyarny船厂](../Page/俄罗斯.md "wikilink")10号船台失火，无人员伤亡。
+  - 2006年中旬，[K-60号在](https://zh.wikipedia.org/wiki/K-60 "wikilink")[俄罗斯](../Page/俄罗斯.md "wikilink")Polyarny船厂10号船台失火，无人员伤亡。
 
 ## 资料来源与参考
 
 外部链接：
 
   - [国家地理杂志：N级核潜艇](https://web.archive.org/web/20140415090004/http://www.nationalgeographic.com/k19/sub_detail_sov1.html)
-  - [NATO Code Names for Submarines and
-    Ships](http://www.ais.org/~schnars/aero/nato-shp.htm)
+  - [NATO Code Names for Submarines and Ships](http://www.ais.org/~schnars/aero/nato-shp.htm)
   - [Article in Russian Language](http://ship.bsu.by/main.asp?id=101452)
-  - [Article in English from
-    FAS](http://www.fas.org/man/dod-101/sys/ship/row/rus/627.htm)
-  - [K-60 arrives for
-    scrapping](https://web.archive.org/web/20071006082742/http://www.bellona.org/articles/last_sub)
+  - [Article in English from FAS](http://www.fas.org/man/dod-101/sys/ship/row/rus/627.htm)
+  - [K-60 arrives for scrapping](https://web.archive.org/web/20071006082742/http://www.bellona.org/articles/last_sub)
 
 参考书目：
 
   - 《舰船知识》2006年增刊——苏俄潜艇全纪录
 
-[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
-[Category:苏俄潜艇](https://zh.wikipedia.org/wiki/Category:苏俄潜艇 "wikilink")
-[Category:俄国船只博物馆](https://zh.wikipedia.org/wiki/Category:俄国船只博物馆 "wikilink")
+[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink") [Category:苏俄潜艇](https://zh.wikipedia.org/wiki/Category:苏俄潜艇 "wikilink") [Category:俄国船只博物馆](https://zh.wikipedia.org/wiki/Category:俄国船只博物馆 "wikilink")
 
-1.  November为[北约音标字母中N的读音](../Page/北约音标字母.md "wikilink")。
+1.  November为[北约音标字母](../Page/北约音标字母.md "wikilink")中N的读音。

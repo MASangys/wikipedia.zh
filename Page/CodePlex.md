@@ -2,24 +2,18 @@
 
 在CodePlex中較有名的軟體有：
 
-  - [SQL
-    Server範例資料庫與範例程式](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。
-  - [ASP.NET AJAX的控制項類別庫](../Page/ASP.NET_AJAX.md "wikilink")（Ajax
-    Control Toolkit）。
+  - [SQL Server範例資料庫與範例程式](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。
+  - [ASP.NET AJAX的控制項類別庫](../Page/ASP.NET_AJAX.md "wikilink")（Ajax Control Toolkit）。
   - FaseDBF，一個可以讀寫DBF（[dBase的資料庫檔案格式](https://zh.wikipedia.org/wiki/dBase "wikilink")）的程式。
   - [ASP.NET](../Page/ASP.NET.md "wikilink")的MVC（Model-View-Controll）Framework預覽版本。
-  - [.NET
-    Reflector的外掛程式](../Page/Lutz_Roeder's_.NET_Reflector.md "wikilink")。
-  - [Microsoft Office SharePoint Portal
-    Server的擴充與範例程式](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Portal_Server "wikilink")。
-  - Smart Client Software Factory Library與Web Site Software
-    Factory等軟體組件。
+  - [.NET Reflector的外掛程式](../Page/Lutz_Roeder's_.NET_Reflector.md "wikilink")。
+  - [Microsoft Office SharePoint Portal Server的擴充與範例程式](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Portal_Server "wikilink")。
+  - Smart Client Software Factory Library與Web Site Software Factory等軟體組件。
   - [IronPython](../Page/IronPython.md "wikilink")程式語言。
 
 ## CodePlex開放源碼基金會
 
-CodePlex開放源碼基金會（CodePlex
-Foundation）於2009年9月10日宣布成立，主要用來讓軟體業者及開放源碼社群分享原始碼，並促進雙方的交流。
+CodePlex開放源碼基金會（CodePlex Foundation）於2009年9月10日宣布成立，主要用來讓軟體業者及開放源碼社群分享原始碼，並促進雙方的交流。
 
 根據聲明，該基金會主要採用論壇形式，讓開放源始碼社群及軟體開發社群一起促進參與開放源碼社群專案的共同目標。在既有的開放源碼組織之外，讓各界透過此一論壇分享彼此的認知及最佳實作。
 
@@ -29,9 +23,6 @@ Foundation）於2009年9月10日宣布成立，主要用來讓軟體業者及開
 
   - [CodePlex](http://www.codeplex.com)
 
-[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink")
-[Category:微軟網站](https://zh.wikipedia.org/wiki/Category:微軟網站 "wikilink")
-[Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink")
-[Category:开源软件托管网站](https://zh.wikipedia.org/wiki/Category:开源软件托管网站 "wikilink")
+[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:微軟網站](https://zh.wikipedia.org/wiki/Category:微軟網站 "wikilink") [Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink") [Category:开源软件托管网站](https://zh.wikipedia.org/wiki/Category:开源软件托管网站 "wikilink")
 
 1.

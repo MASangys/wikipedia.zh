@@ -1,5 +1,4 @@
-**顺式-丙硫醛-*S*-氧化物**（Syn-propanethial-*S*-oxide）是具有[洋葱](https://zh.wikipedia.org/wiki/洋葱 "wikilink")[催泪性质的主要物质](https://zh.wikipedia.org/wiki/催泪 "wikilink")。它是一种易挥发的
-气体，化学式 C<sub>3</sub>H<sub>6</sub>OS。
+**顺式-丙硫醛-*S*-氧化物**（Syn-propanethial-*S*-oxide）是具有[洋葱](https://zh.wikipedia.org/wiki/洋葱 "wikilink")[催泪性质的主要物质](https://zh.wikipedia.org/wiki/催泪 "wikilink")。它是一种易挥发的 气体，化学式 C<sub>3</sub>H<sub>6</sub>OS。
 
 ## 产生过程
 
@@ -11,10 +10,6 @@
 
 ## 参考资料
 
-[Category:有机硫化合物](https://zh.wikipedia.org/wiki/Category:有机硫化合物 "wikilink")
-[Category:催泪剂](https://zh.wikipedia.org/wiki/Category:催泪剂 "wikilink")
-[Category:辛味](https://zh.wikipedia.org/wiki/Category:辛味 "wikilink")
-[Category:洋葱](https://zh.wikipedia.org/wiki/Category:洋葱 "wikilink")
-[Category:亚砜](https://zh.wikipedia.org/wiki/Category:亚砜 "wikilink")
+[Category:有机硫化合物](https://zh.wikipedia.org/wiki/Category:有机硫化合物 "wikilink") [Category:催泪剂](https://zh.wikipedia.org/wiki/Category:催泪剂 "wikilink") [Category:辛味](https://zh.wikipedia.org/wiki/Category:辛味 "wikilink") [Category:洋葱](https://zh.wikipedia.org/wiki/Category:洋葱 "wikilink") [Category:亚砜](https://zh.wikipedia.org/wiki/Category:亚砜 "wikilink")
 
 1.

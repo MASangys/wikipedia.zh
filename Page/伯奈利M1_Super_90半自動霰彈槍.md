@@ -1,5 +1,4 @@
-**伯奈利M1（Super
-90）**（）是一枝由[意大利](../Page/意大利.md "wikilink")槍械製造商[伯奈利](../Page/伯奈利.md "wikilink")所設計及生產的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+**伯奈利M1（Super 90）**（）是一枝由[意大利](../Page/意大利.md "wikilink")槍械製造商[伯奈利](../Page/伯奈利.md "wikilink")所設計及生產的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 簡介
 
@@ -11,8 +10,7 @@
 
 ### 電影
 
-  - 2014年—《[美國狙擊手](../Page/美國狙擊手_\(電影\).md "wikilink")》（American
-    Sniper）：短槍管型，裝上[SureFire前](https://zh.wikipedia.org/wiki/SureFire "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，被[美国海军陆战隊於巡邏時所使用](https://zh.wikipedia.org/wiki/美国海军陆战隊 "wikilink")。
+  - 2014年—《[美國狙擊手](../Page/美國狙擊手_\(電影\).md "wikilink")》（American Sniper）：短槍管型，裝上[SureFire前](https://zh.wikipedia.org/wiki/SureFire "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，被[美国海军陆战隊於巡邏時所使用](https://zh.wikipedia.org/wiki/美国海军陆战隊 "wikilink")。
 
 ### 电子遊戲
 
@@ -57,32 +55,22 @@
 
 ## 外部連結
 
-  - —[Modern Firearms—Benelli M1 Super 90
-    shotguns](http://world.guns.ru/shotgun/it/benelli-m1-e.html)
+  - —[Modern Firearms—Benelli M1 Super 90 shotguns](http://world.guns.ru/shotgun/it/benelli-m1-e.html)
 
-  - —[Remtek.com—Benelli M1
-    Super 90](http://remtek.com/arms/hk/civ/benelli/m1s90.htm)
+  - —[Remtek.com—Benelli M1 Super 90](http://remtek.com/arms/hk/civ/benelli/m1s90.htm)
 
-  - —[American Rifleman's Exploded-View Diagram of the Benelli M1
-    Super 90 Montefeltro
-    Edition](http://americanrifleman.org/ArticlePage.aspx?id=1496&cid=15)
+  - —[American Rifleman's Exploded-View Diagram of the Benelli M1 Super 90 Montefeltro Edition](http://americanrifleman.org/ArticlePage.aspx?id=1496&cid=15)
 
   - —The Firearm Blog—
 
-      - [The Benelli M1: Discussion
-        (Part 1)](http://www.thefirearmblog.com/blog/2015/06/03/benelli-m1-discussion-part-1/)
-      - [Shooting the Benelli M1
-        (Part 2)](http://www.thefirearmblog.com/blog/2015/06/04/shooting-part-2/)
+      - [The Benelli M1: Discussion (Part 1)](http://www.thefirearmblog.com/blog/2015/06/03/benelli-m1-discussion-part-1/)
+      - [Shooting the Benelli M1 (Part 2)](http://www.thefirearmblog.com/blog/2015/06/04/shooting-part-2/)
 
-  - —[D Boy Gun World（槍炮世界）—Benelli M1
-    Super 90](http://firearmsworld.net/italy/benelli/m1/m1.htm)
+  - —[D Boy Gun World（槍炮世界）—Benelli M1 Super 90](http://firearmsworld.net/italy/benelli/m1/m1.htm)
 
-  - —[Civilian Gunner—Benelli
-    M1Super90](http://www.wargamehk.com/M1super90.htm)
+  - —[Civilian Gunner—Benelli M1Super90](http://www.wargamehk.com/M1super90.htm)
 
-[Category:伯奈利](https://zh.wikipedia.org/wiki/Category:伯奈利 "wikilink")
-[Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink")
-[Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink")
+[Category:伯奈利](https://zh.wikipedia.org/wiki/Category:伯奈利 "wikilink") [Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink") [Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink")
 
 1.  <https://sites.google.com/site/worldinventory/wiw_eu_france>
 2.  [新華網—臺當局"保鏢部隊"揭秘:配備精密槍械造價高昂](http://news.xinhuanet.com/mil/2006-10/26/content_5249994_1.htm)

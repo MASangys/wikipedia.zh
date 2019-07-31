@@ -1,7 +1,4 @@
-《**ONE PIECE
-黃金島大冒險**》是日本漫畫家[尾田榮一郎所著的漫畫作品](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》所改編而成的[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，為[ONE
-PIECE系列首部劇場版](../Page/ONE_PIECE.md "wikilink")，於2000年3月4日上映。
+《**ONE PIECE 黃金島大冒險**》是日本漫畫家[尾田榮一郎所著的漫畫作品](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》所改編而成的[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，為[ONE PIECE系列首部劇場版](../Page/ONE_PIECE.md "wikilink")，於2000年3月4日上映。
 
 ## 劇情
 
@@ -95,9 +92,6 @@ PIECE系列首部劇場版](../Page/ONE_PIECE.md "wikilink")，於2000年3月4�
 
 </div>
 
-[ru:Список анимационных фильмов о One Piece\#Фильм
-первый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_первый "wikilink")
+[ru:Список анимационных фильмов о One Piece\#Фильм первый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_первый "wikilink")
 
-[Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink")
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2000年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2000年日本劇場動畫 "wikilink")
+[Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink") [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2000年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2000年日本劇場動畫 "wikilink")

@@ -21,13 +21,9 @@
 ## 外部連結
 
   - [Pandora TV](http://www.pandora.tv)
-  - [K-Multimedia
-    Player](https://web.archive.org/web/20081115163353/http://www.kmplayer.com/forums/index.php)
-  - [Pandora TV
-    Blog](https://web.archive.org/web/20081218052400/http://blog.pandora.tv/chn)
+  - [K-Multimedia Player](https://web.archive.org/web/20081115163353/http://www.kmplayer.com/forums/index.php)
+  - [Pandora TV Blog](https://web.archive.org/web/20081218052400/http://blog.pandora.tv/chn)
 
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
-[Category:韓國網站](https://zh.wikipedia.org/wiki/Category:韓國網站 "wikilink")
-[Category:隨選視訊服務](https://zh.wikipedia.org/wiki/Category:隨選視訊服務 "wikilink")
+[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:韓國網站](https://zh.wikipedia.org/wiki/Category:韓國網站 "wikilink") [Category:隨選視訊服務](https://zh.wikipedia.org/wiki/Category:隨選視訊服務 "wikilink")
 
 1.

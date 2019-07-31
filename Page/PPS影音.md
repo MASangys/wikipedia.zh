@@ -24,18 +24,6 @@ PPS网络电视创办于2006年1月，截至2012年2月止，約有600多名員�
 
   - [PPS主页](http://www.pps.tv/)
 
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
-[Category:上海公司](https://zh.wikipedia.org/wiki/Category:上海公司 "wikilink")
-[Category:百度软件](https://zh.wikipedia.org/wiki/Category:百度软件 "wikilink")
-[Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink")
-[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink")
-[Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink")
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
-[Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
-[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
+[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink") [Category:上海公司](https://zh.wikipedia.org/wiki/Category:上海公司 "wikilink") [Category:百度软件](https://zh.wikipedia.org/wiki/Category:百度软件 "wikilink") [Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink") [Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink") [Category:视频网站](https://zh.wikipedia.org/wiki/Category:视频网站 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
 
 1.  [百度22.77亿收购PPS_網易財經](http://money.163.com/13/0508/02/8UAOFAOL00253B0H.html)

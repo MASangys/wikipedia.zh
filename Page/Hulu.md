@@ -10,8 +10,7 @@ Hulu.com的名字起源于中文中的两个词语“葫芦”和“互录”。
 
   - 2007年
       - 3月，公司成立，由[NBC环球集团和](https://zh.wikipedia.org/wiki/NBC环球集团 "wikilink")[新闻集团](../Page/新闻集团.md "wikilink")出资；
-      - 6月，[Amazon.com原高层Jason](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")
-        Kilar出任[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")；
+      - 6月，[Amazon.com原高层Jason](https://zh.wikipedia.org/wiki/Amazon.com "wikilink") Kilar出任[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")；
       - 8月，正式定名为Hulu.com，源自中文“宝葫芦”的寓意；
       - 10月，通过邮件邀请开始公测；
       - 10月，获得[普羅維登斯私募企業](../Page/普羅維登斯私募企業.md "wikilink")（持股10%）的100万美元投资；
@@ -20,11 +19,9 @@ Hulu.com的名字起源于中文中的两个词语“葫芦”和“互录”。
   - 2011年
       - 9月，對日本提供服務。
   - 2013年
-      - 7月13日，[21世紀福克斯](https://zh.wikipedia.org/wiki/21世紀福克斯 "wikilink")、[NBC環球](../Page/NBC環球.md "wikilink")（NBC
-        Universal）及[迪士尼聯合宣佈](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，將繼續共同持有Hulu股份，並一起為Hulu未來發展提供7.5億美元的資金支援。
+      - 7月13日，[21世紀福克斯](https://zh.wikipedia.org/wiki/21世紀福克斯 "wikilink")、[NBC環球](../Page/NBC環球.md "wikilink")（NBC Universal）及[迪士尼聯合宣佈](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，將繼續共同持有Hulu股份，並一起為Hulu未來發展提供7.5億美元的資金支援。
   - 2014年
-      - 4月1日
-        ，在日業務由新成立的公司「HJ控股」（）承接，該公司由美國Hulu公司與[日本電視台](../Page/日本電視台.md "wikilink")（NTV）為首的多家日本企業共同[合資](https://zh.wikipedia.org/wiki/合資 "wikilink")。
+      - 4月1日 ，在日業務由新成立的公司「HJ控股」（）承接，該公司由美國Hulu公司與[日本電視台](../Page/日本電視台.md "wikilink")（NTV）為首的多家日本企業共同[合資](https://zh.wikipedia.org/wiki/合資 "wikilink")。
   - 2016年
       - 8月3日，[時代華納斥資](https://zh.wikipedia.org/wiki/時代華納 "wikilink")5.8億美元入股美國Hulu，持股量約一成。
   - 2017年
@@ -34,24 +31,18 @@ Hulu.com的名字起源于中文中的两个词语“葫芦”和“互录”。
 
 ## 版权取得
 
-Hulu.com拥有超过90家业者提供内容，包括[FOX](https://zh.wikipedia.org/wiki/FOX "wikilink")、NBC环球集团、[米高梅公司](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")、Sony
-Pictures
-Television、[华纳兄弟影业](../Page/华纳兄弟影业.md "wikilink")。这些内容可以同时在Hulu.com和提供业者的网站播放和使用。
+Hulu.com拥有超过90家业者提供内容，包括[FOX](https://zh.wikipedia.org/wiki/FOX "wikilink")、NBC环球集团、[米高梅公司](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")、Sony Pictures Television、[华纳兄弟影业](../Page/华纳兄弟影业.md "wikilink")。这些内容可以同时在Hulu.com和提供业者的网站播放和使用。
 
 主要版权提供业者：
 
   - 电影：[环球影业](../Page/环球影业.md "wikilink")、[20世纪福斯](https://zh.wikipedia.org/wiki/20世纪福斯 "wikilink")、米高梅公司、[狮门娱乐](../Page/狮门娱乐.md "wikilink")和[索尼影业](https://zh.wikipedia.org/wiki/索尼影视娱乐 "wikilink")
-  - 电视剧：Universal Media Studios、20th Century Fox Television、Sony
-    Pictures Television、Warner Bros. Television、MGM Television和Lionsgate
-    Television
+  - 电视剧：Universal Media Studios、20th Century Fox Television、Sony Pictures Television、Warner Bros. Television、MGM Television和Lionsgate Television
 
 其节目都是正版的，通过附加在视频节目上的形式多样且不致引起反感的广告获利，使用者亦可付更多的費用移除廣告。
 
 ## 影响与评价
 
-其丰富的电视内容，高质量的视频及清新的界面都让Hulu和当地各大电视台相媲美。目前Hulu开发了基于Adobe AIR应用的视频播放器My
-Media
-Player可以让用户脱离浏览器观看Hulu中的各种电视节目。该网站的视频节目可以同时在[美国在线](../Page/美国在线.md "wikilink")、[MSN](../Page/MSN.md "wikilink")、美国最大的有线电视运营商Comcast旗下视频网站Fancast.com、新闻集团旗下的[MySpace以及](https://zh.wikipedia.org/wiki/MySpace "wikilink")[雅虎](../Page/雅虎.md "wikilink")网上发布。
+其丰富的电视内容，高质量的视频及清新的界面都让Hulu和当地各大电视台相媲美。目前Hulu开发了基于Adobe AIR应用的视频播放器My Media Player可以让用户脱离浏览器观看Hulu中的各种电视节目。该网站的视频节目可以同时在[美国在线](../Page/美国在线.md "wikilink")、[MSN](../Page/MSN.md "wikilink")、美国最大的有线电视运营商Comcast旗下视频网站Fancast.com、新闻集团旗下的[MySpace以及](https://zh.wikipedia.org/wiki/MySpace "wikilink")[雅虎](../Page/雅虎.md "wikilink")网上发布。
 
 美国知名互联网流量监测机构comScore于2008年7月15日发布的统计报告显示，2008年5月，Hulu.com市场份额名列第十，这也是该视频共享网站首次进入comScore视频排行榜前10名（以观看次数为标准），浏览量为8800万，份额为0.7%。网站上已经包含了6300万份网络视频媒体；每用户平均每月在Hulu上的收视时间为2小时。廣告商青睞Hulu甚於YouTube，特別是後者所提供的四十億份影音檔中，只有3％可嵌入廣告；而Hulu雖然僅擁有近九千萬部作品，但廣告植入比率卻高達八成。
 
@@ -62,15 +53,6 @@ Player可以让用户脱离浏览器观看Hulu中的各种电视节目。该网�
   - [美國Hulu](https://www.hulu.com)
   - [日本Hulu](https://www.happyon.jp)
 
-[Category:Hulu](https://zh.wikipedia.org/wiki/Category:Hulu "wikilink")
-[Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink")
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
-[Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink")
-[Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")
-[Category:福斯娛樂集團](https://zh.wikipedia.org/wiki/Category:福斯娛樂集團 "wikilink")
-[Category:跨國合資公司](https://zh.wikipedia.org/wiki/Category:跨國合資公司 "wikilink")
+[Category:Hulu](https://zh.wikipedia.org/wiki/Category:Hulu "wikilink") [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:网络电视](https://zh.wikipedia.org/wiki/Category:网络电视 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink") [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:福斯娛樂集團](https://zh.wikipedia.org/wiki/Category:福斯娛樂集團 "wikilink") [Category:跨國合資公司](https://zh.wikipedia.org/wiki/Category:跨國合資公司 "wikilink")
 
-1.  What's in a Name? Jason Kilar,
-    <http://blog.hulu.com/2008/05/13/meaning-of-hulu/>
+1.  What's in a Name? Jason Kilar, <http://blog.hulu.com/2008/05/13/meaning-of-hulu/>

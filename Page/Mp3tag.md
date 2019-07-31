@@ -1,13 +1,10 @@
-****是一套編輯各種不同音樂檔案格式[元数据](../Page/元数据.md "wikilink")（像是[ID3](../Page/ID3.md "wikilink")、[APE
-tag](../Page/APE_tag.md "wikilink")）的[免費軟體](../Page/免費軟體.md "wikilink")。除了編輯各種音樂檔案格式的元数据，它可以利用檔案本身所擁有的元数据來替檔案重新命名，以利檔案的整理。另外它也支援[Freedb](../Page/Freedb.md "wikilink")、[Discogs和](../Page/Discogs.md "wikilink")[MusicBrainz線上音樂資料庫](../Page/MusicBrainz.md "wikilink")，可以自動取得音樂檔案的資訊。
+****是一套編輯各種不同音樂檔案格式[元数据](../Page/元数据.md "wikilink")（像是[ID3](../Page/ID3.md "wikilink")、[APE tag](../Page/APE_tag.md "wikilink")）的[免費軟體](../Page/免費軟體.md "wikilink")。除了編輯各種音樂檔案格式的元数据，它可以利用檔案本身所擁有的元数据來替檔案重新命名，以利檔案的整理。另外它也支援[Freedb](../Page/Freedb.md "wikilink")、[Discogs](../Page/Discogs.md "wikilink")和[MusicBrainz](../Page/MusicBrainz.md "wikilink")線上音樂資料庫，可以自動取得音樂檔案的資訊。
 
 ## 特色
 
-  - 可同時對複數檔案寫入ID3v1.1、ID3v2.3、ID3v2.4、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")[MP4](../Page/MP4.md "wikilink")、[WMA](../Page/Windows_Media_Audio.md "wikilink")、[Vorbis
-    comment和APEv](https://zh.wikipedia.org/wiki/Vorbis_comment "wikilink")2
-    tag等支援的元数据。
+  - 可同時對複數檔案寫入ID3v1.1、ID3v2.3、ID3v2.4、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")[MP4](../Page/MP4.md "wikilink")、[WMA](../Page/Windows_Media_Audio.md "wikilink")、[Vorbis comment和APEv](https://zh.wikipedia.org/wiki/Vorbis_comment "wikilink")2 tag等支援的元数据。
   - 完整的[Unicode支援](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
-  - 支援嵌入式的[音樂專輯封面](../Page/音樂專輯.md "wikilink")。
+  - 支援嵌入式的[音樂專輯](../Page/音樂專輯.md "wikilink")封面。
   - 自動產生播放清單。
   - 可取得所有的子資料夾檔案。
   - 對複數檔案刪除一部分或是所有的標籤。
@@ -29,7 +26,7 @@ tag](../Page/APE_tag.md "wikilink")）的[免費軟體](../Page/免費軟體.md 
   - [ID3](../Page/ID3.md "wikilink")
   - [APE tag](../Page/APE_tag.md "wikilink")
   - [音訊檔案格式](https://zh.wikipedia.org/wiki/音訊檔案格式 "wikilink")
-  - [元数据（Metadata）](../Page/元数据.md "wikilink")
+  - [元数据](../Page/元数据.md "wikilink")（Metadata）
 
 ## 外部連結
 
@@ -39,5 +36,4 @@ tag](../Page/APE_tag.md "wikilink")）的[免費軟體](../Page/免費軟體.md 
 
   - [Mp3tag論壇](https://community.mp3tag.de/categories)
 
-[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
-[Category:自由軟件](https://zh.wikipedia.org/wiki/Category:自由軟件 "wikilink")
+[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink") [Category:自由軟件](https://zh.wikipedia.org/wiki/Category:自由軟件 "wikilink")

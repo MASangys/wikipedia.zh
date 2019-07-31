@@ -2,21 +2,15 @@
 
 ## 歷史
 
-XML-RPC發表於1998年，由[UserLand
-Software](https://zh.wikipedia.org/wiki/UserLand_Software "wikilink")（）的[Dave
-Winer及](https://zh.wikipedia.org/wiki/Dave_Winer "wikilink")[Microsoft共同發表](https://zh.wikipedia.org/wiki/Microsoft "wikilink")\[2\]。後來在新的功能不斷被引入下，這個標準慢慢演變成為今日的[SOAP協定](https://zh.wikipedia.org/wiki/SOAP "wikilink")。
+XML-RPC發表於1998年，由[UserLand Software](https://zh.wikipedia.org/wiki/UserLand_Software "wikilink")（）的[Dave Winer及](https://zh.wikipedia.org/wiki/Dave_Winer "wikilink")[Microsoft共同發表](https://zh.wikipedia.org/wiki/Microsoft "wikilink")\[2\]。後來在新的功能不斷被引入下，這個標準慢慢演變成為今日的[SOAP協定](https://zh.wikipedia.org/wiki/SOAP "wikilink")。
 
-XML-RPC協定是已登記的專利項目，由[Phillip
-Merrick](https://zh.wikipedia.org/wiki/Phillip_Merrick "wikilink")、Stewart
-Allen及Joseph
-Lapp共同持有，於1998年3月提出申請，指其將用於一個構想中的應用程式，並於2006年4月獲得接納。現時這個專利由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[維珍尼亞州](https://zh.wikipedia.org/wiki/維珍尼亞州 "wikilink")[費爾法克斯的](../Page/費爾法克斯_\(維吉尼亞州\).md "wikilink")[webMethods使用](https://zh.wikipedia.org/wiki/webMethods "wikilink")\[3\]。
+XML-RPC協定是已登記的專利項目，由[Phillip Merrick](https://zh.wikipedia.org/wiki/Phillip_Merrick "wikilink")、Stewart Allen及Joseph Lapp共同持有，於1998年3月提出申請，指其將用於一個構想中的應用程式，並於2006年4月獲得接納。現時這個專利由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[維珍尼亞州](https://zh.wikipedia.org/wiki/維珍尼亞州 "wikilink")[費爾法克斯的](../Page/費爾法克斯_\(維吉尼亞州\).md "wikilink")[webMethods使用](https://zh.wikipedia.org/wiki/webMethods "wikilink")\[3\]。
 
 ## 用法
 
 XML-RPC透過向裝置了這個協定的伺服器發出HTTP請求。發出請求的用戶端一般都是需要向遠端系統要求呼叫的軟件。
 
-[JSON-RPC](../Page/JSON-RPC.md "wikilink")（[JSON-RPC](../Page/JSON-RPC.md "wikilink")）跟
-XML-RPC 相類似。
+[JSON-RPC](../Page/JSON-RPC.md "wikilink")（[JSON-RPC](../Page/JSON-RPC.md "wikilink")）跟 XML-RPC 相類似。
 
 ## 数据类型
 
@@ -154,114 +148,66 @@ XML-RPC 相類似。
 ### Python
 
   - [xmlrpclib](https://web.archive.org/web/20100817224346/http://docs.python.org/library/xmlrpclib.html)
-      - Renamed
-        [xmlrpc.client](http://docs.python.org/3.1/library/xmlrpc.client.html)
-        in Python 3.
-  - [Creating XML-RPC Servers and Clients with
-    Twisted](http://twistedmatrix.com/documents/current/web/howto/xmlrpc.html)
+      - Renamed [xmlrpc.client](http://docs.python.org/3.1/library/xmlrpc.client.html) in Python 3.
+  - [Creating XML-RPC Servers and Clients with Twisted](http://twistedmatrix.com/documents/current/web/howto/xmlrpc.html)
 
 ### C++
 
   - [Libiqxmlrpc](http://libiqxmlrpc.sourceforge.net/)
-  - [Ultra lightweight XML-RPC library for
-    C++](http://ulxmlrpcpp.sourceforge.net/)
+  - [Ultra lightweight XML-RPC library for C++](http://ulxmlrpcpp.sourceforge.net/)
   - [XML-RPC for C and C++](http://xmlrpc-c.sourceforge.net/)
   - [XmlRpc++](http://xmlrpcpp.sourceforge.net/)
-  - [XmlRpc C++ client for
-    Windows](https://sourceforge.net/projects/xmlrpcc4win/)
-  - [gSOAP toolkit for C and C++ supporting XML-RPC and
-    more](http://www.cs.fsu.edu/~engelen/soap.html)
-  - [libmaia: XML-RPC for
-    Qt/C++](http://wiedi.frubar.net/blog/2008/03/08/libmaia-xml-rpc-with-qt4/)
+  - [XmlRpc C++ client for Windows](https://sourceforge.net/projects/xmlrpcc4win/)
+  - [gSOAP toolkit for C and C++ supporting XML-RPC and more](http://www.cs.fsu.edu/~engelen/soap.html)
+  - [libmaia: XML-RPC for Qt/C++](http://wiedi.frubar.net/blog/2008/03/08/libmaia-xml-rpc-with-qt4/)
 
 ### Objective-C / GNUstep / Cocoa
 
   - [XMLRPC Framework](http://www.mulle-kybernetik.com/software/XMLRPC/)
-  - [Cocoa XML-RPC Framework](http://divisiblebyzero.com/): Open Source
-    XML-RPC framework written for use in Mac OS X Cocoa applications.
+  - [Cocoa XML-RPC Framework](http://divisiblebyzero.com/): Open Source XML-RPC framework written for use in Mac OS X Cocoa applications.
 
 ### Erlang
 
-  - [XML-RPC for
-    Erlang](https://web.archive.org/web/20110815192238/http://erlang.stacken.kth.se/contrib/xmlrpc-1.13.tgz):
-    This is an HTTP 1.1 compliant XML-RPC library for Erlang. It is
-    designed to make it easy to write XML-RPC Erlang clients and/or
-    servers. The library is compliant with the XML-RPC specification
-    published by
-    <https://web.archive.org/web/20051210031514/http://www.xmlrpc.org/>
+  - [XML-RPC for Erlang](https://web.archive.org/web/20110815192238/http://erlang.stacken.kth.se/contrib/xmlrpc-1.13.tgz): This is an HTTP 1.1 compliant XML-RPC library for Erlang. It is designed to make it easy to write XML-RPC Erlang clients and/or servers. The library is compliant with the XML-RPC specification published by <https://web.archive.org/web/20051210031514/http://www.xmlrpc.org/>
 
 ### Java
 
-  - [Apache XML-RPC](http://ws.apache.org/xmlrpc/): Open source library
-    for Java
-  - [XML-RPC Delight](http://delight.opendfki.de/): Convenient
-    serialisation/deserialisation for Apache XML-RPC using Java
-    Annotations and Beans
-  - [1](https://web.archive.org/web/20051116090755/http://members.fortunecity.com/neptune42/xmlrpc/index.htm):
-    Secure Apache XML-RPC
-  - [Redstone XML-RPC Library](http://xmlrpc.sourceforge.net/):
-    Redstone's Open Source Library - XML-RPC implementation in Java
-  - [XML-RPC Library for Java ME](http://kxmlrpc.sourceforge.net/): Open
-    source client-side library for Java ME
+  - [Apache XML-RPC](http://ws.apache.org/xmlrpc/): Open source library for Java
+  - [XML-RPC Delight](http://delight.opendfki.de/): Convenient serialisation/deserialisation for Apache XML-RPC using Java Annotations and Beans
+  - [1](https://web.archive.org/web/20051116090755/http://members.fortunecity.com/neptune42/xmlrpc/index.htm): Secure Apache XML-RPC
+  - [Redstone XML-RPC Library](http://xmlrpc.sourceforge.net/): Redstone's Open Source Library - XML-RPC implementation in Java
+  - [XML-RPC Library for Java ME](http://kxmlrpc.sourceforge.net/): Open source client-side library for Java ME
 
 ### XMPP
 
-  - [pyJabberXMLRPC](http://gdr.geekhood.net/gdrwpl/jxmlrpc.php): Python
-    classes for XMPP
-  - [Jabber-RPC](http://xmpp.org/extensions/xep-0009.html): Over the
-    [Extensible Messaging and Presence
-    Protocol](https://zh.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol "wikilink")
-    protocol
+  - [pyJabberXMLRPC](http://gdr.geekhood.net/gdrwpl/jxmlrpc.php): Python classes for XMPP
+  - [Jabber-RPC](http://xmpp.org/extensions/xep-0009.html): Over the [Extensible Messaging and Presence Protocol](https://zh.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol "wikilink") protocol
 
 ### Other
 
-  - [JSON/XML-RPC Client and
-    Server](http://code.google.com/p/json-xml-rpc/): Abstract away the
-    differences between JSON-RPC and XML-RPC
-  - [RemObjects SDK](http://www.remobjects.com/ro) Delphi and .NET
-    package for XML-RPC, in addition to
-    [SOAP](https://zh.wikipedia.org/wiki/SOAP_\(protocol\) "wikilink")
-    and others
+  - [JSON/XML-RPC Client and Server](http://code.google.com/p/json-xml-rpc/): Abstract away the differences between JSON-RPC and XML-RPC
+  - [RemObjects SDK](http://www.remobjects.com/ro) Delphi and .NET package for XML-RPC, in addition to [SOAP](https://zh.wikipedia.org/wiki/SOAP_\(protocol\) "wikilink") and others
   - [RealThinClient SDK](http://www.realthinclient.com): For Delphi/C++
-  - [XML::RPC](http://search.cpan.org/~daan/XML-RPC-0.5/lib/XML/RPC.pm):
-    Perl module implementation
-  - [XML-RPC for ActionScript](http://xmlrpcflash.mattism.com): For
-    Flash ActionScript 2.0
-  - [as3-rpclib](http://code.google.com/p/as3-rpclib/): For
-    Flex/Actionscript 3
-  - [XML-RPC.NET](https://web.archive.org/web/20170620152017/http://xml-rpc.net/):
-    Open source library for .NET clients and servers
-  - [XmlRpc-Light](http://code.google.com/p/xmlrpc-light/): Client and
-    server library for OCaml
-  - [S-XML-RPC](http://common-lisp.net/project/s-xml-rpc/): Client and
-    server library for Common Lisp
+  - [XML::RPC](http://search.cpan.org/~daan/XML-RPC-0.5/lib/XML/RPC.pm): Perl module implementation
+  - [XML-RPC for ActionScript](http://xmlrpcflash.mattism.com): For Flash ActionScript 2.0
+  - [as3-rpclib](http://code.google.com/p/as3-rpclib/): For Flex/Actionscript 3
+  - [XML-RPC.NET](https://web.archive.org/web/20170620152017/http://xml-rpc.net/): Open source library for .NET clients and servers
+  - [XmlRpc-Light](http://code.google.com/p/xmlrpc-light/): Client and server library for OCaml
+  - [S-XML-RPC](http://common-lisp.net/project/s-xml-rpc/): Client and server library for Common Lisp
   - [PHP-XML-RPC](http://phpxmlrpc.sourceforge.net/): For PHP
-  - [HaXR](https://web.archive.org/web/20100703071016/http://www.haskell.org/haxr/):
-    Client and server library for Haskell
-  - [xi library with PHP and Javascript
-    XML-RPC](https://web.archive.org/web/20100823050623/http://www.x2ii.info/x2ii/xi/):
-    For PHP and Javascript
-  - [Ruby XML-RPC
-    library](https://web.archive.org/web/20101129010057/http://ruby-doc.org/stdlib/libdoc/xmlrpc/rdoc/index.html):
-    For Ruby
-  - [XML-RPC interface to
-    Lua](https://web.archive.org/web/20100324022719/http://www.keplerproject.org/luaxmlrpc/):
-    For
-    [Lua](https://zh.wikipedia.org/wiki/Lua_\(programming_language\) "wikilink")
-  - [android-xmlrpc](http://code.google.com/p/android-xmlrpc/): A light
-    XML-RPC client for Google Android
-  - [XML-RPC for Tcl](http://sourceforge.net/projects/xmlrpctcl/): A Tcl
-    implementation of XML-RPC providing client and server support
-  - [2](http://earl.strain.at/space/rebXR+Users+Guide): RebXR, a full
-    client/server XML-RPC implementation for REBOL.
+  - [HaXR](https://web.archive.org/web/20100703071016/http://www.haskell.org/haxr/): Client and server library for Haskell
+  - [xi library with PHP and Javascript XML-RPC](https://web.archive.org/web/20100823050623/http://www.x2ii.info/x2ii/xi/): For PHP and Javascript
+  - [Ruby XML-RPC library](https://web.archive.org/web/20101129010057/http://ruby-doc.org/stdlib/libdoc/xmlrpc/rdoc/index.html): For Ruby
+  - [XML-RPC interface to Lua](https://web.archive.org/web/20100324022719/http://www.keplerproject.org/luaxmlrpc/): For [Lua](https://zh.wikipedia.org/wiki/Lua_\(programming_language\) "wikilink")
+  - [android-xmlrpc](http://code.google.com/p/android-xmlrpc/): A light XML-RPC client for Google Android
+  - [XML-RPC for Tcl](http://sourceforge.net/projects/xmlrpctcl/): A Tcl implementation of XML-RPC providing client and server support
+  - [2](http://earl.strain.at/space/rebXR+Users+Guide): RebXR, a full client/server XML-RPC implementation for REBOL.
 
 ## 參看
 
   - [AJAX](../Page/AJAX.md "wikilink")
-  - [Component
-    technologies](https://zh.wikipedia.org/wiki/Software_componentry#Technologies_for_Software_Components "wikilink")
-  - [List of Web service markup
-    languages](https://zh.wikipedia.org/wiki/List_of_Web_service_markup_languages "wikilink")
+  - [Component technologies](https://zh.wikipedia.org/wiki/Software_componentry#Technologies_for_Software_Components "wikilink")
+  - [List of Web service markup languages](https://zh.wikipedia.org/wiki/List_of_Web_service_markup_languages "wikilink")
   - [OPML](https://zh.wikipedia.org/wiki/OPML "wikilink")
   - [Web服務](https://zh.wikipedia.org/wiki/Web服務 "wikilink")
 
@@ -273,14 +219,9 @@ XML-RPC 相類似。
   - [Forum](http://groups.yahoo.com/group/xml-rpc/)
   - [Tutorials](https://web.archive.org/web/20100914031553/http://www.xml.com/pub/rg/XML_RPC_Tutorials)
   - [Technology Reports](http://xml.coverpages.org/xml-rpc.html)
-  - [Citations from
-    CiteSeer](http://citeseer.ist.psu.edu/cis?q=XML+RPC&cs=1)
+  - [Citations from CiteSeer](http://citeseer.ist.psu.edu/cis?q=XML+RPC&cs=1)
 
-[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
-[Category:Web服务规范](https://zh.wikipedia.org/wiki/Category:Web服务规范 "wikilink")
-[Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink")
-[Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink")
-[Category:遠端程序呼叫](https://zh.wikipedia.org/wiki/Category:遠端程序呼叫 "wikilink")
+[Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink") [Category:Web服务规范](https://zh.wikipedia.org/wiki/Category:Web服务规范 "wikilink") [Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink") [Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink") [Category:遠端程序呼叫](https://zh.wikipedia.org/wiki/Category:遠端程序呼叫 "wikilink")
 
 1.
 2.

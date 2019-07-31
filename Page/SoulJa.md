@@ -1,5 +1,4 @@
-**SoulJa**（）是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")、[說唱](../Page/饒舌.md "wikilink")（Rap）歌手。2007年，日本環球唱片與他簽約，分屬G.P.R事務所。SoulJa
-原名中野和雄，母親是[比利時人](https://zh.wikipedia.org/wiki/比利時 "wikilink")。
+**SoulJa**（）是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")、[說唱](../Page/饒舌.md "wikilink")（Rap）歌手。2007年，日本環球唱片與他簽約，分屬G.P.R事務所。SoulJa 原名中野和雄，母親是[比利時人](https://zh.wikipedia.org/wiki/比利時 "wikilink")。
 
 ## 唱片目錄
 
@@ -32,8 +31,4 @@
   - [SoulJa Official web site](http://www.soulja.jp/)
   - [日本環球唱片 SoulJa 官方網站](http://www.universal-music.co.jp/soulja/)
 
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink")
-[Category:比利時裔混血兒](https://zh.wikipedia.org/wiki/Category:比利時裔混血兒 "wikilink")
+[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink") [Category:比利時裔混血兒](https://zh.wikipedia.org/wiki/Category:比利時裔混血兒 "wikilink")

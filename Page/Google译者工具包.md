@@ -13,18 +13,11 @@
 ## 外部链接
 
   - [google translator toolkit](https://translate.google.com/toolkit/)
-  - [google translator toolkit
-    help](http://translate.google.com/support/toolkit/)
+  - [google translator toolkit help](http://translate.google.com/support/toolkit/)
   - [Google黑板报](https://web.archive.org/web/20090611003846/http://googlechinablog.com/2009/06/blog-post_09.html)
 
 ## 参考内容
 
-  - [Google Translator
-    Toolkit的使用方法](https://web.archive.org/web/20100531173529/http://mike.akibarika.org/2010/03/12/433/)
+  - [Google Translator Toolkit的使用方法](https://web.archive.org/web/20100531173529/http://mike.akibarika.org/2010/03/12/433/)
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink")
-[Category:翻译辅助工具](https://zh.wikipedia.org/wiki/Category:翻译辅助工具 "wikilink")
-[Category:网络词典](https://zh.wikipedia.org/wiki/Category:网络词典 "wikilink")
-[Category:协作工具](https://zh.wikipedia.org/wiki/Category:协作工具 "wikilink")
-[Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:翻译辅助工具](https://zh.wikipedia.org/wiki/Category:翻译辅助工具 "wikilink") [Category:网络词典](https://zh.wikipedia.org/wiki/Category:网络词典 "wikilink") [Category:协作工具](https://zh.wikipedia.org/wiki/Category:协作工具 "wikilink") [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")

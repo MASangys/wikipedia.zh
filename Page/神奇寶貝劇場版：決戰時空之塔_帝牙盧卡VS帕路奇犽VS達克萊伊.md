@@ -1,5 +1,4 @@
-《**決戰時空之塔
-帝牙盧卡VS帕路奇犽VS達克萊伊**》，是寶可梦動畫的第十部電影版、同時也是鑽石&珍珠系列的第一部電影版。其中「決戰時空之塔」是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[群英社在引進時自行加上的副標題](../Page/群英社.md "wikilink")。標語為「**撼動時空的最強對決，即將展開！**」。
+《**決戰時空之塔 帝牙盧卡VS帕路奇犽VS達克萊伊**》，是寶可梦動畫的第十部電影版、同時也是鑽石&珍珠系列的第一部電影版。其中「決戰時空之塔」是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[群英社](../Page/群英社.md "wikilink")在引進時自行加上的副標題。標語為「**撼動時空的最強對決，即將展開！**」。
 
 ## 劇情大綱
 
@@ -97,14 +96,9 @@
 ## 主題曲
 
   - 片頭曲〈[Together2007](https://zh.wikipedia.org/wiki/:ja:Together2007 "wikilink")〉
-      - 作詞：D\&P
-        Project、作曲：Rie、編曲：西脇辰彌、歌：[あきよしふみえ](https://zh.wikipedia.org/wiki/:ja:あきよしふみえ "wikilink")（Pikachu
-        Records）
+      - 作詞：D\&P Project、作曲：Rie、編曲：西脇辰彌、歌：[あきよしふみえ](https://zh.wikipedia.org/wiki/:ja:あきよしふみえ "wikilink")（Pikachu Records）
   - 片尾曲〈Be With You～我會在你身邊～〉
-      - 作詞·作曲：Espen Lind/Amund Biorklund/Magnus
-        Rostadmo、歌：[莎拉·布萊曼](../Page/莎拉·布萊曼.md "wikilink")、[Chris
-        Thompson](https://zh.wikipedia.org/wiki/:en:Chris_Thompson_\(English_musician\) "wikilink")（EMI
-        Music Japan）
+      - 作詞·作曲：Espen Lind/Amund Biorklund/Magnus Rostadmo、歌：[莎拉·布萊曼](../Page/莎拉·布萊曼.md "wikilink")、[Chris Thompson](https://zh.wikipedia.org/wiki/:en:Chris_Thompson_\(English_musician\) "wikilink")（EMI Music Japan）
   - 繪圖賞曲〈〉
       - 作詞：NATUS-BOY、作曲·編曲：田中宏和、歌：、演奏&合唱：淺草&
 
@@ -150,12 +144,11 @@
   - 制作：[小學館Production](https://zh.wikipedia.org/wiki/小學館Production "wikilink")
   - 動畫製作：[OLM](../Page/OLM.md "wikilink")
   - 監督：湯山邦彦
-  - 製作：[Pikachu
-    Project](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
+  - 製作：[Pikachu Project](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
 ## 票房
 
-達50.2億[日圓](../Page/日圓.md "wikilink")，高居2007年日本動畫電影之冠。若以同年度國產電影做比較，則排名僅次於由[木村拓哉所主演的](../Page/木村拓哉.md "wikilink")《[HERO](https://zh.wikipedia.org/wiki/HERO "wikilink")》電影版(票房81億日圓)，位居第二。
+達50.2億[日圓](../Page/日圓.md "wikilink")，高居2007年日本動畫電影之冠。若以同年度國產電影做比較，則排名僅次於由[木村拓哉](../Page/木村拓哉.md "wikilink")所主演的《[HERO](https://zh.wikipedia.org/wiki/HERO "wikilink")》電影版(票房81億日圓)，位居第二。
 
 ## 關聯項目
 
@@ -173,6 +166,4 @@
 
   -
   -
-[Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink")
-[Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")

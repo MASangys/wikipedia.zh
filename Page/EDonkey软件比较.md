@@ -1008,8 +1008,7 @@
 
 ## 外部链接
 
-  - [emule-mods.de上的部分eMule
-    Mods列表](http://www.emule-mods.de/?mods=start)
+  - [emule-mods.de上的部分eMule Mods列表](http://www.emule-mods.de/?mods=start)
 
   - [emulebase.de上的部分eMule Mods存档](http://www.emulebase.de/)
 
@@ -1017,16 +1016,13 @@
 
 [Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
 
-1.  主要[翻译](http://emulefans.com/comparison-of-edonkey-software/)
-    自英文维基百科条目（[贡献者](http://en.wikipedia.org/w/index.php?title=Comparison_of_eDonkey_software&action=history)）
+1.  主要[翻译](http://emulefans.com/comparison-of-edonkey-software/) 自英文维基百科条目（[贡献者](http://en.wikipedia.org/w/index.php?title=Comparison_of_eDonkey_software&action=history)）
 2.  aMule在[Windows上运行时](https://zh.wikipedia.org/wiki/Windows "wikilink")，Windows对其的支持不完整，无法使用所有[Linux](../Page/Linux.md "wikilink")版本的功能，比如对[UPnP](../Page/UPnP.md "wikilink")的支持。大多数aMule的帮助文档都假定用户使用的是Linux，这些文档有时无法给予Windows用户正确的信息。
 3.  该客户端可以通过[Wine](../Page/Wine.md "wikilink")在[Linux](../Page/Linux.md "wikilink")上运行（参见[这里](http://appdb.winehq.org/objectManager.php?sClass=application&iId=1447))，无官方支持。
 4.  该客户端可以通过[Wine](../Page/Wine.md "wikilink")在[Linux](../Page/Linux.md "wikilink")上运行（参见[这里](http://appdb.winehq.org/objectManager.php?sClass=application&iId=1447))，无官方支持。
-5.  IP2C：IP to
-    Country，IP地区对应，http://wiki.emule-web.de/index.php/Ip2country
+5.  IP2C：IP to Country，IP地区对应，http://wiki.emule-web.de/index.php/Ip2country
 6.  <http://wiki.emule-web.de/index.php/Powershare>
-7.  SUQWT：Save Upload Queue Waiting
-    Time，保存上传队列等待时间，http://wiki.emule-web.de/index.php/Save_Upload_Queue_Waiting_Time
+7.  SUQWT：Save Upload Queue Waiting Time，保存上传队列等待时间，http://wiki.emule-web.de/index.php/Save_Upload_Queue_Waiting_Time
 8.  亚文件段传输，。
 9.  <http://wiki.emule-web.de/index.php/Push_small_files>
 10. zz ratio：ZZ比率，http://wiki.emule-web.de/index.php/ZZratio
@@ -1036,19 +1032,13 @@
 14. 官方eMule没有非常精确或者可及时更新的反吸血功能，但有IP地址过滤（[IPFilter](../Page/IPFilter.md "wikilink")）、垃圾信息和攻击型客户端侦测过滤和一些内置的侦测等[基本保护措施](https://zh.wikipedia.org/wiki/吸血驴#eMule官方 "wikilink")。
 15. 客户端分析系统，
 16. SlotFocus：通道集中。
-17. SUC：Smart Upload
-    Control，智能上传控制，http://wiki.emule-web.de/index.php/SUC
-18. Argos是[eMule NeoMule
-    Mod的反吸血功能](https://zh.wikipedia.org/wiki/eMule_NeoMule_Mod "wikilink")，后也被[eMule
-    MagicAngel
-    Mod所使用](https://zh.wikipedia.org/wiki/eMule_MagicAngel_Mod "wikilink")。
-19. NAFC：Network Adaptor Feedback
-    Control，网络适配器反馈调节，http://wiki.emule-web.de/index.php/NAFC
+17. SUC：Smart Upload Control，智能上传控制，http://wiki.emule-web.de/index.php/SUC
+18. Argos是[eMule NeoMule Mod的反吸血功能](https://zh.wikipedia.org/wiki/eMule_NeoMule_Mod "wikilink")，后也被[eMule MagicAngel Mod所使用](https://zh.wikipedia.org/wiki/eMule_MagicAngel_Mod "wikilink")。
+19. NAFC：Network Adaptor Feedback Control，网络适配器反馈调节，http://wiki.emule-web.de/index.php/NAFC
 20. 模糊协议（）是官方eMule的功能。
 21. 连接上[eD2k网络的客户端之间的用户间消息](https://zh.wikipedia.org/wiki/eD2k网络 "wikilink")，而非IRC聊天。
 22. 即向服务器发送FILERATING标签。
-23. Faster
-    Endgame，http://wiki.emule-web.de/index.php/English:Faster_Endgame
+23. Faster Endgame，http://wiki.emule-web.de/index.php/English:Faster_Endgame
 24.
 25. L2HAC：LowID to HighID Automatic Callback，LowID to HighID自动回馈机制。
 26. 自动配置[端口映射](https://zh.wikipedia.org/wiki/端口映射 "wikilink")（需要支持[UPnP](../Page/UPnP.md "wikilink")的[路由](../Page/路由.md "wikilink")）。

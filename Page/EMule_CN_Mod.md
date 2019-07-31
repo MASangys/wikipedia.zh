@@ -1,11 +1,6 @@
-**eMule CN Mod**，简称**CN
-Mod**，是基于官方[eMule开发的一个](https://zh.wikipedia.org/wiki/eMule "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule
-Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
-[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
+**eMule CN Mod**，简称**CN Mod**，是基于官方[eMule开发的一个](https://zh.wikipedia.org/wiki/eMule "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU [GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
-CN
-Mod由包括**中国驴**论坛管理员在内的一些中国内地[程序员](../Page/程序员.md "wikilink")制作。中国驴论坛为其官方网站与发布点。最早的eMule
-CN Mod是eMule-CN-1-r46，于2004年8月24日在其论坛上发布\[1\]。
+CN Mod由包括**中国驴**论坛管理员在内的一些中国内地[程序员](../Page/程序员.md "wikilink")制作。中国驴论坛为其官方网站与发布点。最早的eMule CN Mod是eMule-CN-1-r46，于2004年8月24日在其论坛上发布\[1\]。
 
 ## 功能
 
@@ -15,9 +10,7 @@ eMule CN Mod的部分主要功能有：
 
 <!-- end list -->
 
-  - 网络积分排行系统，即**驴榜**，eMule CN
-    Mod用户可决定是否参与，参与者需至中国驴论坛申请。可将用户的上传与下载数据量的信息记录至中国驴的服务器，并在其网站公布每月的上传量排名，以奖励论坛积分。有程序员为[Xtreme](https://zh.wikipedia.org/wiki/Xtreme "wikilink")
-    7.2\[3\]等Mods也制作了支持使用驴榜的版本。
+  - 网络积分排行系统，即**驴榜**，eMule CN Mod用户可决定是否参与，参与者需至中国驴论坛申请。可将用户的上传与下载数据量的信息记录至中国驴的服务器，并在其网站公布每月的上传量排名，以奖励论坛积分。有程序员为[Xtreme](https://zh.wikipedia.org/wiki/Xtreme "wikilink") 7.2\[3\]等Mods也制作了支持使用驴榜的版本。
 
 <!-- end list -->
 
@@ -29,8 +22,7 @@ eMule CN Mod的部分主要功能有：
 
 <!-- end list -->
 
-  - 支持[eMule Xtreme
-    Mod的](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")[DLP（动态反吸血驴保护）](../Page/动态反吸血驴保护.md "wikilink")，可屏蔽[吸血驴](../Page/吸血驴.md "wikilink")。
+  - 支持[eMule Xtreme Mod的](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")[DLP（动态反吸血驴保护）](../Page/动态反吸血驴保护.md "wikilink")，可屏蔽[吸血驴](../Page/吸血驴.md "wikilink")。
 
 ## 其他
 
@@ -58,12 +50,9 @@ eMule CN Mod的部分主要功能有：
 ## 外部链接
 
   - [eMule官方网站](http://www.emule-project.net/)
-  - [中国驴论坛（chnp2p.com），现CN
-    Mod官方网站](https://web.archive.org/web/20090831121204/http://www.chnp2p.com/)
-  - [chnp2p.org（传输中国）blog上的CN
-    Mod页面](https://web.archive.org/web/20090612110120/http://www.chnp2p.org/topics/cn)
-  - [emulefans.com（电骡爱好者）blog上的CN
-    Mod页面](https://web.archive.org/web/20100705124746/http://emulefans.com/news/emule/cn-mod/)
+  - [中国驴论坛（chnp2p.com），现CN Mod官方网站](https://web.archive.org/web/20090831121204/http://www.chnp2p.com/)
+  - [chnp2p.org（传输中国）blog上的CN Mod页面](https://web.archive.org/web/20090612110120/http://www.chnp2p.org/topics/cn)
+  - [emulefans.com（电骡爱好者）blog上的CN Mod页面](https://web.archive.org/web/20100705124746/http://emulefans.com/news/emule/cn-mod/)
 
 [Category:eMule](https://zh.wikipedia.org/wiki/Category:eMule "wikilink")
 

@@ -1,128 +1,81 @@
-**[Mozilla
-Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")**[網頁瀏覽器最初是由](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[Mozilla
-Application
-Suite所分支的的實驗性專案](../Page/Mozilla_Application_Suite.md "wikilink")，由[戴夫·海厄特及](../Page/戴夫·海厄特.md "wikilink")[布雷克·罗斯所](https://zh.wikipedia.org/wiki/布雷克·罗斯 "wikilink")-{zh-hans:创建;
-zh-hant:建立}-。Firefox 1.0於2004年11月9日發行。
+**[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")**[網頁瀏覽器最初是由](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[Mozilla Application Suite所分支的的實驗性專案](../Page/Mozilla_Application_Suite.md "wikilink")，由[戴夫·海厄特](../Page/戴夫·海厄特.md "wikilink")及[布雷克·罗斯所](https://zh.wikipedia.org/wiki/布雷克·罗斯 "wikilink")-{zh-hans:创建; zh-hant:建立}-。Firefox 1.0於2004年11月9日發行。
 
 ## 命名過程
 
 ### Phoenix
 
-[Phoenix_0.1.png](https://zh.wikipedia.org/wiki/File:Phoenix_0.1.png "fig:Phoenix_0.1.png")
-Firefox起源於叫做「m／b」（或稱mozilla／browser）的[Mozilla
-Suite實驗性分支](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")，2002年9月，以Phoenix為名，釋出測試用執行檔而正式問世。Phoenix朝著和其上游的Mozilla
-Suite完全不同的開發方向進行。相較於Mozilla
-Suite是以資深工程師為首，組織大型開發團隊的大型應用軟體，Phoenix的開發成員，則是特別專注於網頁瀏覽功能的小型核心式團隊。這種小型志願專案的形式源自於更早期，[戴夫·海厄特與](../Page/戴夫·海厄特.md "wikilink")[本·古德傑以](../Page/本·古德傑.md "wikilink")[Netscape和](../Page/網景_\(瀏覽器\).md "wikilink")[Internet
-Explorer為基礎](../Page/Internet_Explorer.md "wikilink")，使用[C♯和](../Page/C♯.md "wikilink")[.NET語言撰寫的Manticore瀏覽器](https://zh.wikipedia.org/wiki/.NET "wikilink")。Manticore意在以精幹的軟體型態，提供基本瀏覽功能；而[布雷克·羅斯和戴夫](../Page/布雷克·羅斯.md "wikilink")·海厄特的Phoenix計畫，則著眼於瀏覽體驗的創新。致力於將安全及效能作為支柱，且不被Netscape的商業心態的約束，才能開發出一個「完全替終端使用者量身訂造」的瀏覽器。Phoenix這個名字一直使用至2003年4月14日，因為與[BIOS製造商Phoenix](../Page/BIOS.md "wikilink")
-Technologies的商標糾紛而更名\[1\]\[2\]。
+[Phoenix_0.1.png](https://zh.wikipedia.org/wiki/File:Phoenix_0.1.png "fig:Phoenix_0.1.png") Firefox起源於叫做「m／b」（或稱mozilla／browser）的[Mozilla Suite實驗性分支](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")，2002年9月，以Phoenix為名，釋出測試用執行檔而正式問世。Phoenix朝著和其上游的Mozilla Suite完全不同的開發方向進行。相較於Mozilla Suite是以資深工程師為首，組織大型開發團隊的大型應用軟體，Phoenix的開發成員，則是特別專注於網頁瀏覽功能的小型核心式團隊。這種小型志願專案的形式源自於更早期，[戴夫·海厄特](../Page/戴夫·海厄特.md "wikilink")與[本·古德傑](../Page/本·古德傑.md "wikilink")以[Netscape和](../Page/網景_\(瀏覽器\).md "wikilink")[Internet Explorer為基礎](../Page/Internet_Explorer.md "wikilink")，使用[C♯](../Page/C♯.md "wikilink")和[.NET語言撰寫的Manticore瀏覽器](https://zh.wikipedia.org/wiki/.NET "wikilink")。Manticore意在以精幹的軟體型態，提供基本瀏覽功能；而[布雷克·羅斯](../Page/布雷克·羅斯.md "wikilink")和戴夫·海厄特的Phoenix計畫，則著眼於瀏覽體驗的創新。致力於將安全及效能作為支柱，且不被Netscape的商業心態的約束，才能開發出一個「完全替終端使用者量身訂造」的瀏覽器。Phoenix這個名字一直使用至2003年4月14日，因為與[BIOS](../Page/BIOS.md "wikilink")製造商Phoenix Technologies的商標糾紛而更名\[1\]\[2\]。
 
 ### Firebird
 
-在2003年4月，Mozilla宣佈他們的新瀏覽器將命名為Firebird，以避開與Phoenix的爭議。Firebird是個通過自焚重生的神話生物[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，有時也被認為是[鳳凰的別稱](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")。這個新名字引起了許多不同的反應，特別是激起了早以[Firebird為名的自由軟體資料庫專案強烈反彈](https://zh.wikipedia.org/wiki/Firebird_\(資料庫\) "wikilink")。因應於此，[Mozilla基金會亦表示他們將會永遠使用](../Page/Mozilla基金會.md "wikilink")「Mozilla
-Firebird」的名稱，以避免和Firebird資料庫混淆\[3\]\[4\]。
+在2003年4月，Mozilla宣佈他們的新瀏覽器將命名為Firebird，以避開與Phoenix的爭議。Firebird是個通過自焚重生的神話生物[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，有時也被認為是[鳳凰的別稱](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")。這個新名字引起了許多不同的反應，特別是激起了早以[Firebird為名的自由軟體資料庫專案強烈反彈](https://zh.wikipedia.org/wiki/Firebird_\(資料庫\) "wikilink")。因應於此，[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")亦表示他們將會永遠使用「Mozilla Firebird」的名稱，以避免和Firebird資料庫混淆\[3\]\[4\]。
 
 ### Firefox
 
-來自Firebird社群的持續壓力，迫使2004年2月9日的另一次改變，Mozilla Phoenix計劃再次更名成Mozilla
-Firefox（簡稱Firefox）。「Firefox」是「小熊貓」的暱稱，因為它和「Firebird」的相似性、以及它在資訊產業中的獨特性而雀屏中選。
+來自Firebird社群的持續壓力，迫使2004年2月9日的另一次改變，Mozilla Phoenix計劃再次更名成Mozilla Firefox（簡稱Firefox）。「Firefox」是「小熊貓」的暱稱，因為它和「Firebird」的相似性、以及它在資訊產業中的獨特性而雀屏中選。
 
-為了確保不會再有變更名稱的問題，Mozilla基金會在2003年12月向[美國專利商標局申請註冊Firefox商標](https://zh.wikipedia.org/wiki/美國專利商標局 "wikilink")\[5\]。不幸的是此時發現，在英國Firefox已是Charlton
-Company軟體公司的註冊商標。這個問題導致Firefox 0.8延遲了幾個月釋出，在Mozilla基金會取得Charlton
-Company的歐洲商標使用權後順利解決\[6\]\[7\]。
+為了確保不會再有變更名稱的問題，Mozilla基金會在2003年12月向[美國專利商標局申請註冊Firefox商標](https://zh.wikipedia.org/wiki/美國專利商標局 "wikilink")\[5\]。不幸的是此時發現，在英國Firefox已是Charlton Company軟體公司的註冊商標。這個問題導致Firefox 0.8延遲了幾個月釋出，在Mozilla基金會取得Charlton Company的歐洲商標使用權後順利解決\[6\]\[7\]。
 
-Mozilla官方建議的Firefox縮寫为[Fx或fx](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")\[8\]，但一般大眾有時寫成而并非想当然的[FF](https://zh.wikipedia.org/wiki/FF "wikilink")
-\[9\]。雖然firefox在英文俗語中指的是[小熊貓](https://zh.wikipedia.org/wiki/小熊貓 "wikilink")，但[吉祥物及官方圖示都是](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[狐狸](https://zh.wikipedia.org/wiki/狐狸 "wikilink")。
+Mozilla官方建議的Firefox縮寫为[Fx或fx](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")\[8\]，但一般大眾有時寫成而并非想当然的[FF](https://zh.wikipedia.org/wiki/FF "wikilink") \[9\]。雖然firefox在英文俗語中指的是[小熊貓](https://zh.wikipedia.org/wiki/小熊貓 "wikilink")，但[吉祥物及官方圖示都是](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[狐狸](https://zh.wikipedia.org/wiki/狐狸 "wikilink")。
 
 ## 早期版本
 
-Firefox保留Mozilla Application
-Suite原有的跨平台特性，使用了[XUL使用者介面語言](../Page/XUL.md "wikilink")。XUL的運用使得能利用[佈景主題與擴充套件來延伸瀏覽器功能](https://zh.wikipedia.org/wiki/皮肤_\(电脑\) "wikilink")。然而附加元件的開發與安裝衍生了一些安全性問題，因此在Firefox
-0.9釋出時，Mozilla基金會同時公開Mozilla Update網站（即後來的[Mozilla
-Add-ons網站](https://zh.wikipedia.org/wiki/Mozilla_Add-ons "wikilink")）來提供「合法的」佈景主題與擴充套件。XUL的運用將Firefox從其它使用Gecko排版引擎開發的瀏覽器（如[Galeon](../Page/Galeon.md "wikilink")、[Epiphany使用](https://zh.wikipedia.org/wiki/Epiphany "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[K-Meleon使用](../Page/K-Meleon.md "wikilink")[MFC與](https://zh.wikipedia.org/wiki/MFC "wikilink")[Camino使用](../Page/Camino.md "wikilink")[Cocoa](../Page/Cocoa.md "wikilink")）及大多數其它使用原生作業系統介面的瀏覽器中區別開來。
+Firefox保留Mozilla Application Suite原有的跨平台特性，使用了[XUL](../Page/XUL.md "wikilink")使用者介面語言。XUL的運用使得能利用[佈景主題與擴充套件來延伸瀏覽器功能](https://zh.wikipedia.org/wiki/皮肤_\(电脑\) "wikilink")。然而附加元件的開發與安裝衍生了一些安全性問題，因此在Firefox 0.9釋出時，Mozilla基金會同時公開Mozilla Update網站（即後來的[Mozilla Add-ons網站](https://zh.wikipedia.org/wiki/Mozilla_Add-ons "wikilink")）來提供「合法的」佈景主題與擴充套件。XUL的運用將Firefox從其它使用Gecko排版引擎開發的瀏覽器（如[Galeon](../Page/Galeon.md "wikilink")、[Epiphany使用](https://zh.wikipedia.org/wiki/Epiphany "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[K-Meleon](../Page/K-Meleon.md "wikilink")使用[MFC與](https://zh.wikipedia.org/wiki/MFC "wikilink")[Camino](../Page/Camino.md "wikilink")使用[Cocoa](../Page/Cocoa.md "wikilink")）及大多數其它使用原生作業系統介面的瀏覽器中區別開來。
 
-2004年2月5日，商業和IT顧問公司AMS將Mozilla Firefox（當時稱為Firebird）歸類為「Tier
-1」（最佳的）等級的開放原始碼產品，AMS認為Firebird擁有優秀的技術和幾乎沒有風險\[10\]。
+2004年2月5日，商業和IT顧問公司AMS將Mozilla Firefox（當時稱為Firebird）歸類為「Tier 1」（最佳的）等級的開放原始碼產品，AMS認為Firebird擁有優秀的技術和幾乎沒有風險\[10\]。
 
 ### Firefox 1.0
 
-[Mozilla_Firefox_1.0_front_page_screenshot.png](https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_1.0_front_page_screenshot.png "fig:Mozilla_Firefox_1.0_front_page_screenshot.png")
-Firefox
-1.0發表於2004年11月9日\[11\]。当时Mozilla基金会藉由募捐的方式，在[纽约时报上面刊登了整版的广告](../Page/纽约时报.md "wikilink")。儘管Mozilla基金會一直希望能讓Mozilla
-Suite走入歷史，用Firefox來取代它，但由於還有許多企業用戶使用，也被一些第三方軟體包裹在內，因此Mozilla基金會仍然持續維持更新，直至2006年4月12號\[12\]。在那之後，Mozilla社群改以[SeaMonkey為產品名稱](../Page/SeaMonkey.md "wikilink")，繼續發行新版的Mozilla
-Suite\[13\]。
+[Mozilla_Firefox_1.0_front_page_screenshot.png](https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_1.0_front_page_screenshot.png "fig:Mozilla_Firefox_1.0_front_page_screenshot.png") Firefox 1.0發表於2004年11月9日\[11\]。当时Mozilla基金会藉由募捐的方式，在[纽约时报](../Page/纽约时报.md "wikilink")上面刊登了整版的广告。儘管Mozilla基金會一直希望能讓Mozilla Suite走入歷史，用Firefox來取代它，但由於還有許多企業用戶使用，也被一些第三方軟體包裹在內，因此Mozilla基金會仍然持續維持更新，直至2006年4月12號\[12\]。在那之後，Mozilla社群改以[SeaMonkey](../Page/SeaMonkey.md "wikilink")為產品名稱，繼續發行新版的Mozilla Suite\[13\]。
 
 ### Firefox 1.5
 
-[Delicious_delicacies-Firefox0.9.3-Knoppix671.png](https://zh.wikipedia.org/wiki/File:Delicious_delicacies-Firefox0.9.3-Knoppix671.png "fig:Delicious_delicacies-Firefox0.9.3-Knoppix671.png")早期敘述。這個敘述很快的在之後的版本被刪除了。\]\]
-Firefox
-1.5發表於2005年11月30日。最初計劃在1.0之後推出1.1版本的新版本Firefox，更高版本（1.5）在獨立的分支中進行開發，但是在2005年兩個分支和功能都被合併（Mozilla基金會在前兩個Alpha版本之後放棄了1.1版本發布計劃）。
+[Delicious_delicacies-Firefox0.9.3-Knoppix671.png](https://zh.wikipedia.org/wiki/File:Delicious_delicacies-Firefox0.9.3-Knoppix671.png "fig:Delicious_delicacies-Firefox0.9.3-Knoppix671.png")早期敘述。這個敘述很快的在之後的版本被刪除了。\]\] Firefox 1.5發表於2005年11月30日。最初計劃在1.0之後推出1.1版本的新版本Firefox，更高版本（1.5）在獨立的分支中進行開發，但是在2005年兩個分支和功能都被合併（Mozilla基金會在前兩個Alpha版本之後放棄了1.1版本發布計劃）。
 
-早期的Firefox使用者一定記得，Firefox
-0.9的選項對話方塊中，在設定[Cookie的地方是這樣解釋Cookie的](../Page/Cookie.md "wikilink")：「Cookie是精緻的美味。」（"Cookies
-are delicious
-delicacies."）。這個解釋如傳奇一般流傳開來，它讓開發人員感覺到幽默和傳神，但是卻令普通使用者如墜雲霧。實際上，布雷克·羅斯當時只是一時找不到一句簡短的描述來解釋Cookie，便隨手寫下了這句話放在這裡占位置。他後來解釋道：「在這麼小的空間裡面解釋這麼複雜的東西，坦白的說，我想最後我可能要重寫整個Cookie管理器」。這個對普通使用者不友好的特性後來作為一個[Bug被提出到](https://zh.wikipedia.org/wiki/Bug "wikilink")[Bugzilla資料庫](../Page/Bugzilla.md "wikilink")，並在2004年7月被「修正」\[14\]\[15\]。現在，這個文字被取代成了索然無味的：「Cookie是網站在您的電腦中儲存的訊息『片段』。一般用來記住登入訊息或其它資料。」。不過故事並沒有結束，「精緻美味」傳說的終結引起了一些人的不滿，於是Jesse
-Ruderman專門開發了一個Delicious
-Delicacies擴充套件用來將那個描述取消復原成原來的文字\[16\]。在中文版本中，一直到1.5版本，這個著名的句子才被取代掉。
+早期的Firefox使用者一定記得，Firefox 0.9的選項對話方塊中，在設定[Cookie](../Page/Cookie.md "wikilink")的地方是這樣解釋Cookie的：「Cookie是精緻的美味。」（"Cookies are delicious delicacies."）。這個解釋如傳奇一般流傳開來，它讓開發人員感覺到幽默和傳神，但是卻令普通使用者如墜雲霧。實際上，布雷克·羅斯當時只是一時找不到一句簡短的描述來解釋Cookie，便隨手寫下了這句話放在這裡占位置。他後來解釋道：「在這麼小的空間裡面解釋這麼複雜的東西，坦白的說，我想最後我可能要重寫整個Cookie管理器」。這個對普通使用者不友好的特性後來作為一個[Bug被提出到](https://zh.wikipedia.org/wiki/Bug "wikilink")[Bugzilla](../Page/Bugzilla.md "wikilink")資料庫，並在2004年7月被「修正」\[14\]\[15\]。現在，這個文字被取代成了索然無味的：「Cookie是網站在您的電腦中儲存的訊息『片段』。一般用來記住登入訊息或其它資料。」。不過故事並沒有結束，「精緻美味」傳說的終結引起了一些人的不滿，於是Jesse Ruderman專門開發了一個Delicious Delicacies擴充套件用來將那個描述取消復原成原來的文字\[16\]。在中文版本中，一直到1.5版本，這個著名的句子才被取代掉。
 
 ### Firefox 2.0
 
 [Wikipedia_Main_Page_in_Firefox_2.0.0.12.png](https://zh.wikipedia.org/wiki/File:Wikipedia_Main_Page_in_Firefox_2.0.0.12.png "fig:Wikipedia_Main_Page_in_Firefox_2.0.0.12.png")
 
-Firefox 2.0發表於2006年10月24日。Firefox 2.0.0.20是該系列的最後一個版本\[17\]。Firefox
-2.0發布後，微軟Internet Explorer團隊送上蛋糕，祝賀Firefox 2發佈\[18\]。
+Firefox 2.0發表於2006年10月24日。Firefox 2.0.0.20是該系列的最後一個版本\[17\]。Firefox 2.0發布後，微軟Internet Explorer團隊送上蛋糕，祝賀Firefox 2發佈\[18\]。
 
 ### Firefox 3.0
 
 [Mozilla_Firefox_3_in_MS_XP.png](https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_3_in_MS_XP.png "fig:Mozilla_Firefox_3_in_MS_XP.png")
 
-Firefox 3.0發表於2008年6月17日\[19\]。該版本修正了非常多錯誤，也增加對網頁標準的相容性，還有許多新的Web
-APIs提供開發者使用。其他新功能包括重新設計的下載管理員、新的“Place”系統來儲存書籤和瀏覽記錄以及在各種作業系統上有一致性的佈景主題。Firefox
-3發布創下一天內超過800萬下載次數的[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")\[20\]。當天，微軟Internet
-Explorer團隊再次送上蛋糕，祝賀Firefox 3發佈\[21\]。
+Firefox 3.0發表於2008年6月17日\[19\]。該版本修正了非常多錯誤，也增加對網頁標準的相容性，還有許多新的Web APIs提供開發者使用。其他新功能包括重新設計的下載管理員、新的“Place”系統來儲存書籤和瀏覽記錄以及在各種作業系統上有一致性的佈景主題。Firefox 3發布創下一天內超過800萬下載次數的[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")\[20\]。當天，微軟Internet Explorer團隊再次送上蛋糕，祝賀Firefox 3發佈\[21\]。
 
 ### Firefox 3.5
 
-Firefox
-3.5的開發代號為Shiretoko。初期的版本號為3.1，但為了反應出大幅度的改善以及增加的新功能，正式版本命名為3.5。其中最大的革新是加入了全新的JavaScript引擎[TraceMonkey](https://zh.wikipedia.org/wiki/TraceMonkey "wikilink")，大幅提高頁面渲染的速度。並且支援了-{zh-hans:隐私;
-zh-tw:私密}-瀏覽功能，Firefox圖示也重新繪製\[22\]\[23\]\[24\]。
+Firefox 3.5的開發代號為Shiretoko。初期的版本號為3.1，但為了反應出大幅度的改善以及增加的新功能，正式版本命名為3.5。其中最大的革新是加入了全新的JavaScript引擎[TraceMonkey](https://zh.wikipedia.org/wiki/TraceMonkey "wikilink")，大幅提高頁面渲染的速度。並且支援了-{zh-hans:隐私; zh-tw:私密}-瀏覽功能，Firefox圖示也重新繪製\[22\]\[23\]\[24\]。
 
 ### Firefox 3.6
 
-Firefox 3.6發表於2010年1月21日，開發代號為Namoroka\[25\]。後來發佈了Firefox
-3.6.4的一個小更新，修正一些安全和穩定性的問題，並且加入了外掛獨立運行（out-of-proccess-plugin）架構，將[Adobe
-Flash
-Player這類的外掛程式將隔離到另一個獨立的](../Page/Adobe_Flash_Player.md "wikilink")-{程序}-，增加瀏覽器的穩定性\[26\]。
+Firefox 3.6發表於2010年1月21日，開發代號為Namoroka\[25\]。後來發佈了Firefox 3.6.4的一個小更新，修正一些安全和穩定性的問題，並且加入了外掛獨立運行（out-of-proccess-plugin）架構，將[Adobe Flash Player這類的外掛程式將隔離到另一個獨立的](../Page/Adobe_Flash_Player.md "wikilink")-{程序}-，增加瀏覽器的穩定性\[26\]。
 
 ### Firefox 4.0
 
 [Firefox_4.png](https://zh.wikipedia.org/wiki/File:Firefox_4.png "fig:Firefox_4.png")
 
-Mozilla技術長[布蘭登·艾克提出了](../Page/布蘭登·艾克.md "wikilink")「Mozilla
-2」的計劃，指的是對目前Firefox和其他產品（自推出以來）的一次最全面的更替\[27\]。這個計劃大多數特性已從Firefox
-3.0、3.5及3.6版本開始納入，不過當中最大的改變被延遲到Firefox 4.0。Firefox
-4.0的新特性包括全新的使用者介面\[28\]\[29\]\[30\]、新的JavaScript引擎[JägerMonkey](https://zh.wikipedia.org/wiki/JägerMonkey "wikilink")\[31\]、分頁群組、應用程式分頁、重新設計的附加元件管理員、整合[Firefox同步以及支援螢幕多點觸控等](https://zh.wikipedia.org/wiki/Firefox同步 "wikilink")\[32\]\[33\]\[34\]\[35\]。發布後當天，微軟Internet
-Explorer團隊再次獻上蛋糕，祝賀Firefox 4.0發佈\[36\]。
+Mozilla技術長[布蘭登·艾克](../Page/布蘭登·艾克.md "wikilink")提出了「Mozilla 2」的計劃，指的是對目前Firefox和其他產品（自推出以來）的一次最全面的更替\[27\]。這個計劃大多數特性已從Firefox 3.0、3.5及3.6版本開始納入，不過當中最大的改變被延遲到Firefox 4.0。Firefox 4.0的新特性包括全新的使用者介面\[28\]\[29\]\[30\]、新的JavaScript引擎[JägerMonkey](https://zh.wikipedia.org/wiki/JägerMonkey "wikilink")\[31\]、分頁群組、應用程式分頁、重新設計的附加元件管理員、整合[Firefox同步以及支援螢幕多點觸控等](https://zh.wikipedia.org/wiki/Firefox同步 "wikilink")\[32\]\[33\]\[34\]\[35\]。發布後當天，微軟Internet Explorer團隊再次獻上蛋糕，祝賀Firefox 4.0發佈\[36\]。
 
 ## 快速釋出週期
 
 2011年4月，開發過程分成幾個“頻道”，每個頻道在不同的[開發階段進行建構](../Page/軟件版本週期.md "wikilink")：
 
   - 每夜版（Nightly）：汇集每天源代码的改动，提供最新的尚未被Mozilla[品質保证團隊測試的新功能](https://zh.wikipedia.org/wiki/品質保证 "wikilink")，不保证稳定性。
-  - 曙光版（Aurora）：亦每天均有更新，每六周合并一次来自Nightly的最新代码，它将修复在Nightly中出现的关键问题，能在基本稳定的前提下提供新功能，自35版起，被更名為*Developer
-    Edition*，54版推出*Developer Edition*的最後一個版本。
+  - 曙光版（Aurora）：亦每天均有更新，每六周合并一次来自Nightly的最新代码，它将修复在Nightly中出现的关键问题，能在基本稳定的前提下提供新功能，自35版起，被更名為*Developer Edition*，54版推出*Developer Edition*的最後一個版本。
   - 測試版（Beta）：会不定期快速更新，它经过廣泛的品質測試，预计可提供给一千万用户所使用\[37\]以进一步测试其稳定性。从Beta开始，Mozilla会提供包含数字签名的安装包及可执行程序，并使用正式的Firefox名称及标志。
   - 正式版（Release）：已經過完整品质保证測試，提供全球數億用户所使用的最終穩定發行版本，每六星期发布一版。
 
-新版本計劃每隔六週發布一次，這項快速節奏過程的目標是讓使用者更快地獲得新功能\[38\]\[39\]。這項快速釋出週期遭到了使用者的批評，因為它經常破壞附加元件的相容性\[40\]，以及有人認為Mozilla只是想試圖增加其版本數量以與Google
-Chrome等其他瀏覽器進行較量\[41\]。
+新版本計劃每隔六週發布一次，這項快速節奏過程的目標是讓使用者更快地獲得新功能\[38\]\[39\]。這項快速釋出週期遭到了使用者的批評，因為它經常破壞附加元件的相容性\[40\]，以及有人認為Mozilla只是想試圖增加其版本數量以與Google Chrome等其他瀏覽器進行較量\[41\]。
 
 ### Firefox 5–9
 
 #### Firefox 5.0
 
-Firefox 5.0正式版发布于2011年6月21日，除了保留了Firefox
-4的全新界面，还在前版本的基础上增加了“禁止网站追踪功能”（[请勿跟踪](https://zh.wikipedia.org/wiki/请勿跟踪 "wikilink")）
-\[42\]。
+Firefox 5.0正式版发布于2011年6月21日，除了保留了Firefox 4的全新界面，还在前版本的基础上增加了“禁止网站追踪功能”（[请勿跟踪](https://zh.wikipedia.org/wiki/请勿跟踪 "wikilink")） \[42\]。
 
 發布後，微軟IE团队送上一个小杯子蛋糕\[43\]。
 
@@ -130,8 +83,7 @@ Firefox 5.0正式版发布于2011年6月21日，除了保留了Firefox
 
 Firefox 6.0正式版发布于2011年8月16日。
 
-Firefox 6带来了以下新功能、特性：\[44\]
-[FF6Addr.png](https://zh.wikipedia.org/wiki/File:FF6Addr.png "fig:FF6Addr.png")
+Firefox 6带来了以下新功能、特性：\[44\] [FF6Addr.png](https://zh.wikipedia.org/wiki/File:FF6Addr.png "fig:FF6Addr.png")
 
   - 更新了地址栏，采用了新的网站通知、站点身份识别样式。\[45\]
   - 在开发者工具中提供“Scratchpad”，开发者可以通过它进行JavaScript的调试。
@@ -145,48 +97,38 @@ Firefox 6正式发布后，IE团队再次赠送蛋糕\[47\]。
 
 Firefox 7.0正式版发布于2011年9月27日。
 
-该版本对内存控制进行了优化与改善，得益于MemShrink项目，Firefox 7.0相对于Firefox
-4.0内存使用量减少了50%，\[48\]\[49\]\[50\]并支持了新的硬件加速技术，除此之外还加入了性能报告扩展Telemetry。
+该版本对内存控制进行了优化与改善，得益于MemShrink项目，Firefox 7.0相对于Firefox 4.0内存使用量减少了50%，\[48\]\[49\]\[50\]并支持了新的硬件加速技术，除此之外还加入了性能报告扩展Telemetry。
 
 微軟IE團隊依慣例送上小蛋糕。\[51\]
 
 #### Firefox 8.0
 
-Firefox
-8.0正式版发布于2011年11月8日。当恢复上次浏览的标签页时，用户可以指定只恢复一部分，以加快启动速度。用户拖拽排列标签页时，可以看到一定的动画效果。而和前版本相比，在该版本中用户可以一次性决定是否保留、禁用或移除扩展。此外Firefox还为网络开发者更新了编辑工具\[52\]。
+Firefox 8.0正式版发布于2011年11月8日。当恢复上次浏览的标签页时，用户可以指定只恢复一部分，以加快启动速度。用户拖拽排列标签页时，可以看到一定的动画效果。而和前版本相比，在该版本中用户可以一次性决定是否保留、禁用或移除扩展。此外Firefox还为网络开发者更新了编辑工具\[52\]。
 
 2011年11月10日，微軟IE團隊聲明不再贈送蛋糕，微軟發言人表示：「我們不會再延續這個傳統，因為太具殺傷力了」「基本上每六星期我們就要提供好多個紙杯蛋糕。」\[53\]。
 
 #### Firefox 9.0
 
-Firefox 9.0正式版发布于2011年12月20日。Firefox
-9加入了类型推断技术，从而在JavaScript的性能上有了30%的提升。对[Mac
-OS
-X有了更佳的支援](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，使用者可通過雙指滑動手勢更加方便的瀏覽網頁。此外，新版本对网页开发者的工作也提供了更好之支持，在处理大量数据或是使用
-AJAX 技术的网站时加载速度更快，不用等待所有下载完成就可以显示相关内容。\[54\]
+Firefox 9.0正式版发布于2011年12月20日。Firefox 9加入了类型推断技术，从而在JavaScript的性能上有了30%的提升。对[Mac OS X有了更佳的支援](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，使用者可通過雙指滑動手勢更加方便的瀏覽網頁。此外，新版本对网页开发者的工作也提供了更好之支持，在处理大量数据或是使用 AJAX 技术的网站时加载速度更快，不用等待所有下载完成就可以显示相关内容。\[54\]
 
 ### Firefox 10–16
 
 #### Firefox 10.0
 
-[Page_inspector_firefox_10.png](https://zh.wikipedia.org/wiki/File:Page_inspector_firefox_10.png "fig:Page_inspector_firefox_10.png")
-Firefox 10.0正式版发布于2012年1月31日。 特性\[55\]\[56\]
+[Page_inspector_firefox_10.png](https://zh.wikipedia.org/wiki/File:Page_inspector_firefox_10.png "fig:Page_inspector_firefox_10.png") Firefox 10.0正式版发布于2012年1月31日。 特性\[55\]\[56\]
 
   - 預設隱藏至下一頁按鈕，除非執行了回到上一頁操作
-  - 支援[WebGL反鋸齒](../Page/WebGL.md "wikilink")
+  - 支援[WebGL](../Page/WebGL.md "wikilink")反鋸齒
   - 全螢幕APIs支援創建可全螢幕的web應用
-  - 支援[CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink")
-    3D-Transforms
+  - 支援[CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink") 3D-Transforms
   - 為開發增加了高亮顯示內容的檢測工具，博阿凱CSS Style Inspector，新增了IndexedDB APIs
   - 修復了部分用戶移動標籤時遭遇的崩潰的問題
-  - 首個“長期支持版本”（Extended Support
-    Release，簡稱“ESR”），專門為那些無法或不願每隔六周升級一次的企業打造，升級周期為42周。
+  - 首個“長期支持版本”（Extended Support Release，簡稱“ESR”），專門為那些無法或不願每隔六周升級一次的企業打造，升級周期為42周。
   - 為默認兼容擴展版本升級，簡化了Firefox升級流程。
 
 #### Firefox 11.0
 
-[Firefox_3D_tilt.png](https://zh.wikipedia.org/wiki/File:Firefox_3D_tilt.png "fig:Firefox_3D_tilt.png")
-Firefox 11.0正式版发布于2012年3月13日。 特性\[57\]
+[Firefox_3D_tilt.png](https://zh.wikipedia.org/wiki/File:Firefox_3D_tilt.png "fig:Firefox_3D_tilt.png") Firefox 11.0正式版发布于2012年3月13日。 特性\[57\]
 
   - 支援從Google Chrome載入瀏覽紀錄、我的最愛及Cookies
   - 開啟同步功能後，附加元件（Add-ons）可從不同電腦中進行同步
@@ -207,9 +149,7 @@ Firefox 11.0正式版发布于2012年3月13日。 特性\[57\]
 
 Firefox 12.0正式版发布于2012年4月24日。 特性\[58\]
 
-  - 在[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Firefox更新時，現在可以減少一次使用者帳戶控制設定（[User
-    Account
-    Control](https://zh.wikipedia.org/wiki/User_Account_Control "wikilink")）
+  - 在[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Firefox更新時，現在可以減少一次使用者帳戶控制設定（[User Account Control](https://zh.wikipedia.org/wiki/User_Account_Control "wikilink")）
   - 查看網頁源碼時加入行數
   - 標題（Title attribute）現在支援換行（Line breaks）
   - 改善「網頁搜尋」功能，搜尋結果現會置中
@@ -217,8 +157,7 @@ Firefox 12.0正式版发布于2012年4月24日。 特性\[58\]
   - 支援CSS的column-fill元素（須要 -moz- 前綴）
   - 支援CSS的text-align-last元素
   - 實施ECMAScript 6 Map and Set的測試性支援
-  - 在[Mac OS
-    X作業系統](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")：修正在某些硬件上WebGL表現下降的問題
+  - 在[Mac OS X作業系統](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")：修正在某些硬件上WebGL表現下降的問題
 
 #### Firefox 13.0
 
@@ -240,14 +179,11 @@ Firefox 13.0正式版发布于2012年6月5日。 特性\[59\]
 
 #### Firefox 14.0
 
-Firefox安卓版 14.0发布于2012年6月26日。\[67\]
-之后为了保持移动版和桌面版版本号一致，Mozilla于2012年7月17日同时发布了移动版和桌面版的Firefox
-14.0.1。
+Firefox安卓版 14.0发布于2012年6月26日。\[67\] 之后为了保持移动版和桌面版版本号一致，Mozilla于2012年7月17日同时发布了移动版和桌面版的Firefox 14.0.1。
 
 特性\[68\]
 
-  - 採用 [HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink") 進行 Google
-    搜尋
+  - 採用 [HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink") 進行 Google 搜尋
   - Mac OS X Lion 的全螢幕支援\[69\]
   - 可以設定外掛程式，改為點選一下才載入（需調整一個 <about:config> 設定\[70\]）
   - 智慧網址列輸入時的 自動完成 URL\[71\] 功能
@@ -257,10 +193,8 @@ Firefox安卓版 14.0发布于2012年6月26日。\[67\]
   - 對突厥、希臘文字的 text-transform 和 font-variant CSS 改良\[75\]
   - 各項安全性修正\[76\]
   - 修正GIF 動畫於 src 和尺寸變更時可能會卡住的問題（bug 743598\[77\]）
-  - 修正OS X：nsCocoaWindow::ConstrainPosition 在多重顯示裝置上誤用了不正確的螢幕的問題（bug
-    752149\[78\]）
-  - CSS：修正以 JavaScript 設定元素 class name 時，發生 :hover regression 的問題（bug
-    758885\[79\]）
+  - 修正OS X：nsCocoaWindow::ConstrainPosition 在多重顯示裝置上誤用了不正確的螢幕的問題（bug 752149\[78\]）
+  - CSS：修正以 JavaScript 設定元素 class name 時，發生 :hover regression 的問題（bug 758885\[79\]）
 
 #### Firefox 15.0
 
@@ -307,14 +241,11 @@ Firefox 15.0正式版发布于2012年8月28日。 特性\[80\]
 Firefox 16.0正式版发布于2012年10月9日。 特性\[87\]
 
   - Mac OS X 版本的 Firefox 已初步支援 VoiceOver，且預設\[88\]即啟用
-  - 開始支援 web app\[89\]
-    ([Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")/[Linux](../Page/Linux.md "wikilink"))。
+  - 開始支援 web app\[89\] ([Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")/[Linux](../Page/Linux.md "wikilink"))。
   - 新增 Acholi 及 Kazakh 語系支援。
-  - 藉由增量垃圾回收（incremental garbage collection\[90\]）增進
-    [JavaScript](../Page/JavaScript.md "wikilink") 回應速度。
+  - 藉由增量垃圾回收（incremental garbage collection\[90\]）增進 [JavaScript](../Page/JavaScript.md "wikilink") 回應速度。
   - 新增「開發者工具列」提供快速存取「網頁主控台」錯誤計數等工具的按鈕，以及便於鍵盤存取的命令列介面
-  - 使用 CSS3 Animations、Transitions、Transforms 和 Gradient 時需要多寫的 prefix
-    已於 Firefox 16 移除\[91\]
+  - 使用 CSS3 Animations、Transitions、Transforms 和 Gradient 時需要多寫的 prefix 已於 Firefox 16 移除\[91\]
   - 程式碼速記本「開啟最近檔案」功能
   - 重新載入頁面時，除錯器設置的中斷點無法被正常捕捉（bug 783393\[92\]）
   - 不再於數位簽章中支援 MD5 雜湊演算法（bug 650355\[93\]）
@@ -340,16 +271,7 @@ Firefox 17.0正式版发布于2012年11月20日。 特性\[98\]
   - 超過二十個效能改進，包括開啟新分頁的相關修正。
   - 修正Pointer lock 在 web app 中無法使用的問題。（ bug 769150\[102\]）
   - 修正在有固定置頂元素網頁的頁面的捲動問題。（bug 780345\[103\]）
-  - Mozilla已在2012年11月釋出的Firefox
-    17版修補該漏洞。起因美國國安局（[NSA](https://zh.wikipedia.org/wiki/NSA "wikilink")）及英國政府通訊總部（Government
-    Communications Headquarter，GCHQ）於2012年6月發佈名為Tor
-    Stinks的簡報檔，檔案中兩國政府單位提及監聽[Tor網路困難重重](../Page/Tor.md "wikilink")，文中表示「無法辨識出所有Tor用戶的身份。而以人工分析後，我們得以辨識非常小部份的Tor用戶。」然而對特定呼叫有回應的用戶，國安單位未成功辨識出任何身份。
-    之後利用代號為「EgotisticalGiraffe」的技術（靠入侵[Tor](../Page/Tor.md "wikilink")
-    Browser
-    Bundle軟體漏洞，特別是Firefox），NSA在用戶可能造訪的網站或[論壇植入](https://zh.wikipedia.org/wiki/論壇 "wikilink")[惡意程式](https://zh.wikipedia.org/wiki/惡意程式 "wikilink")，然後趁用戶造訪時植入其電腦，並藉此蒐集資料，監聽[Tor網路](../Page/Tor.md "wikilink")（The
-    Onion
-    Router）。雖然NSA表示這是為了瞄準恐怖份子或有組織的罪犯，但《[衛報](../Page/衛報.md "wikilink")》表示，這類攻擊也可能傷害到新聞記者、研究人員，或是不小心造訪這些網站的人。
-    \[104\]
+  - Mozilla已在2012年11月釋出的Firefox 17版修補該漏洞。起因美國國安局（[NSA](https://zh.wikipedia.org/wiki/NSA "wikilink")）及英國政府通訊總部（Government Communications Headquarter，GCHQ）於2012年6月發佈名為Tor Stinks的簡報檔，檔案中兩國政府單位提及監聽[Tor](../Page/Tor.md "wikilink")網路困難重重，文中表示「無法辨識出所有Tor用戶的身份。而以人工分析後，我們得以辨識非常小部份的Tor用戶。」然而對特定呼叫有回應的用戶，國安單位未成功辨識出任何身份。 之後利用代號為「EgotisticalGiraffe」的技術（靠入侵[Tor](../Page/Tor.md "wikilink") Browser Bundle軟體漏洞，特別是Firefox），NSA在用戶可能造訪的網站或[論壇植入](https://zh.wikipedia.org/wiki/論壇 "wikilink")[惡意程式](https://zh.wikipedia.org/wiki/惡意程式 "wikilink")，然後趁用戶造訪時植入其電腦，並藉此蒐集資料，監聽[Tor](../Page/Tor.md "wikilink")網路（The Onion Router）。雖然NSA表示這是為了瞄準恐怖份子或有組織的罪犯，但《[衛報](../Page/衛報.md "wikilink")》表示，這類攻擊也可能傷害到新聞記者、研究人員，或是不小心造訪這些網站的人。 \[104\]
 
 #### Firefox 18.0
 
@@ -374,17 +296,14 @@ Firefox 19.0正式版发布于2013年2月19日。 特性\[108\]
   - Canvas 元素可使用 canvas.toBlob()\[109\] 將內容輸出為影像 blob 資料。
   - 改善啟動效能（bug 715402、756313）\[110\]。
   - 除錯器開始支援「在發生例外時暫停」和「顯示隱藏（non-enumerable）屬性」。
-  - 可藉由遠端網頁主控台（Remote Web Console）連線到 Firefox OS 或 Android 上的 Firefox。
-    （此為實驗性功能，需將 devtools.debugger.remote-enabled 設定改為 true）
-  - 提供瀏覽器除錯器（Browser Debugger）予附加元件、瀏覽器開發者使用。 （此為實驗性功能，需將
-    devtools.chrome.enabled 設定改為 true）
+  - 可藉由遠端網頁主控台（Remote Web Console）連線到 Firefox OS 或 Android 上的 Firefox。 （此為實驗性功能，需將 devtools.debugger.remote-enabled 設定改為 true）
+  - 提供瀏覽器除錯器（Browser Debugger）予附加元件、瀏覽器開發者使用。 （此為實驗性功能，需將 devtools.chrome.enabled 設定改為 true）
   - 網頁主控台的 CSS 連結現在會於樣式編輯器開啟。
   - CSS @page \[111\]支援。
   - CSS viewport-percentage 長度單位\[112\]實作（vh、vw、vmin 和 vmax）。
   - CSS text-transform 的 full-width\[113\] 支援。
   - 修正部分正確 WebGL 繪圖操作被錯誤地拒絕，造成頁面顯示不完整的問題（bug 825205\[114\]）。
-  - 修正帶著 -private flag 啟動 Firefox 時，錯誤地表示使用者不在隱私瀏覽模式中的問題（bug
-    802274\[115\]）。
+  - 修正帶著 -private flag 啟動 Firefox 時，錯誤地表示使用者不在隱私瀏覽模式中的問題（bug 802274\[115\]）。
   - 修正於 HiDPI 模式中，捲動頁面使插件上半部超出畫面時，插件會停止描繪的問題（bug 825734\[116\]）。
 
 #### Firefox 20.0
@@ -436,8 +355,7 @@ Firefox 21.0正式版发布于2013年5月14日。 特性\[130\]
   - 有需要時，Firefox 會提供如何改善啟動速度的建議。
   - 初步實作了 Firefox 健康檢查報告\[133\]。
   - 可在「新分頁」頁面復原已移除的縮圖。
-  - 變更 CSS -moz-user-select:none 的行為，以增進與 -webkit-user-select:none
-    的相容性（bug 816298\[134\]）。
+  - 變更 CSS -moz-user-select:none 的行為，以增進與 -webkit-user-select:none 的相容性（bug 816298\[134\]）。
   - 與繪圖相關的效能改善（bug 809821\[135\]）。
   - 移除 SpiderMonkey 的 E4X\[136\] 支援。
   - 實作遠端效能分析\[137\]。
@@ -459,15 +377,13 @@ Firefox 22.0正式版发布于2013年6月25日。 特性\[143\]
   - Mac OS X: 下載進度會顯示於 Dock 應用程式圖示上。
   - 可以變更 [HTML5](../Page/HTML5.md "wikilink") audio/video 的播放速度。
   - 附加元件管理員中實作了社交服務的管理功能。
-  - 啟用 asm.js
-    最佳化功能（[OdinMonkey](https://zh.wikipedia.org/wiki/SpiderMonkey#OdinMonkey "wikilink")\[145\]）而達到重大效能改善。\[146\]
+  - 啟用 asm.js 最佳化功能（[OdinMonkey](https://zh.wikipedia.org/wiki/SpiderMonkey#OdinMonkey "wikilink")\[145\]）而達到重大效能改善。\[146\]
   - 藉由非同步 canvas 更新\[147\]改善 WebGL 描繪效能。
   - 在 Firefox 中顯示的純文字檔案，現在會 word-wrap（折行）顯示。
   - 安全性考量，web 內容不再能夠存取 |Components| 物件。
   - 即使不在全螢幕中，仍可使用 Pointer Lock API。
   - 改善描繪圖片時的記憶體用量與顯示時間\[148\]。
-  - 實作 [CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink")
-    Flexbox\[149\]，且預設就是啟用的
+  - 實作 [CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink") Flexbox\[149\]，且預設就是啟用的
   - 實作了新的 Web Notifications API。
   - 新增 clipboardData API，讓 JavaScript 得以存取使用者剪貼簿。
   - 內建新的字型檢測器。
@@ -477,9 +393,7 @@ Firefox 22.0正式版发布于2013年6月25日。 特性\[143\]
 
 #### Firefox 23.0
 
-Firefox 23.0正式版发布于2013年8月6日。
-[Mozilla_Firefox_logo_2013.svg](https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg "fig:Mozilla_Firefox_logo_2013.svg")
-特性\[154\]
+Firefox 23.0正式版发布于2013年8月6日。 [Mozilla_Firefox_logo_2013.svg](https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg "fig:Mozilla_Firefox_logo_2013.svg") 特性\[154\]
 
   - 阻擋可能不安全的混合內容，保護使用者免於中間人攻擊或利用 HTTPS 的頁面監聽\[155\]。
   - 開發者工具箱新增選項面板。
@@ -516,8 +430,7 @@ Firefox 24.0正式版发布于2013年9月17日。 特性\[159\]
   - SVG 影像 tiling 和 scaling 描繪的重大改進（bug 600207\[164\]）。
   - 以進化、統整過的瀏覽器主控台\[165\]取代舊有錯誤主控台，提供更佳除錯體驗。
   - 不再支援從應用程式目錄或設定檔目錄載入 sherlock 檔案。
-  - 改用 Speex 重新取樣器取代 webrtc.org 的固定比率聲音取樣器，並淘汰虛擬 44000Hz 頻率（bug
-    886886\[166\]）。
+  - 改用 Speex 重新取樣器取代 webrtc.org 的固定比率聲音取樣器，並淘汰虛擬 44000Hz 頻率（bug 886886\[166\]）。
   - 安全性更性\[167\]。
 
 #### Firefox 25.0
@@ -551,8 +464,7 @@ Firefox 26.0正式版发布于2013年12月10日。 特性\[173\]
   - 新增應用程式管理員，可用於 Firefox OS 手機和模擬器上的 HTML5 webapp 部署與除錯。
   - IndexedDB 使用時不再出現確認訊息。另資料現在會儲存於採取 LRU 政策的暫存 pool 之中。
   - 單獨顯示圖片時，Firefox 能正確使用 JPEG 所含 EXIF 中的方向資訊（bug 298619\[176\]）。
-  - Windows 7 更新 KB2670838 後（MSIE 10 需要此更新）或 Windows 8.1 上的文字顯示問題（bug
-    812695\[177\]）。
+  - Windows 7 更新 KB2670838 後（MSIE 10 需要此更新）或 Windows 8.1 上的文字顯示問題（bug 812695\[177\]）。
   - 不再對看不見的圖片進行解碼，縮短頁面載入時間（bug 847223\[178\]）。
   - Mac OS 的 AudioToolbox MP3 後端（bug 914479\[179\]）。
   - 安全性更新\[180\]。
@@ -568,8 +480,7 @@ Firefox 27.0正式版发布于2014年2月4日。 特性\[181\]
   - 可在除錯器中，將混淆器處理後的 JavaScript 轉為易讀格式顯示（bug 762761\[186\]）。
   - 支援以捲軸顯示 fieldset 內容（bug 261037\[187\]）。
   - 實作 iframe sandbox 屬性的 allow-popups 用法，允許更高的安全性（bug 766282\[188\]）。
-  - 移除 CSS cursor 屬性 -moz-grab 和 -moz-grabbing 的製造商前綴（bug
-    880672\[189\]）。
+  - 移除 CSS cursor 屬性 -moz-grab 和 -moz-grabbing 的製造商前綴（bug 880672\[189\]）。
   - SpiderMonkey 可支援 ES6 的 generator 機制\[190\]。
   - 支援 ES6 的 Math.hypot() 數學函數（bug 896264\[191\]）。
   - 支援在 Canvas 中描繪虛線（bug 768067\[192\]）。
@@ -584,21 +495,16 @@ Firefox 28.0正式版发布于2014年3月18日。 特性\[195\]
   - Mac OS X: 在通知中心顯示 Web Notification。
   - HTML5 audio/video 音量控制。
   - WebM 的 [Opus](https://zh.wikipedia.org/wiki/Opus "wikilink") 支援。
-  - 支援 [spdy](../Page/SPDY.md "wikilink")/3，並移除 spdy/2 支援。不使用 spdy/3
-    的伺服器仍將順暢地以 http/1 進行通訊。
-  - 支援 [MathML](https://zh.wikipedia.org/wiki/MathML "wikilink") 2.0
-    'mathvariant' 屬性。
+  - 支援 [spdy](../Page/SPDY.md "wikilink")/3，並移除 spdy/2 支援。不使用 spdy/3 的伺服器仍將順暢地以 http/1 進行通訊。
+  - 支援 [MathML](https://zh.wikipedia.org/wiki/MathML "wikilink") 2.0 'mathvariant' 屬性。
   - 背景[-{A停滯報告](../Page/线程.md "wikilink")。
   - 支援多行 flexbox 配置。
-  - 支援使用[-{A](../Page/手柄.md "wikilink")（Gamepad）來操控網頁遊戲：在瀏覽列輸入「about:config」進入控制台，然後在「dom.gamepad.enabled」欄位修改設定為
-    true，即可順利啟動。\[196\]
+  - 支援使用[-{A](../Page/手柄.md "wikilink")（Gamepad）來操控網頁遊戲：在瀏覽列輸入「about:config」進入控制台，然後在「dom.gamepad.enabled」欄位修改設定為 true，即可順利啟動。\[196\]
   - 安全性修正。\[197\]。
 
 #### Firefox 29.0
 
-Firefox 29.0正式版发布于2014年4月29日。
-[Firefox_29.0_on_Windows_8.png](https://zh.wikipedia.org/wiki/File:Firefox_29.0_on_Windows_8.png "fig:Firefox_29.0_on_Windows_8.png")\]\]
-特性\[198\]
+Firefox 29.0正式版发布于2014年4月29日。 [Firefox_29.0_on_Windows_8.png](https://zh.wikipedia.org/wiki/File:Firefox_29.0_on_Windows_8.png "fig:Firefox_29.0_on_Windows_8.png")\]\] 特性\[198\]
 
   - 新的Australis介面，並在首次使用時，以互動式導覽幫助使用者認識介面變更\[199\] 。
   - 能夠以註冊 Firefox 帳號的方式設定 Firefox Sync\[200\] 。
@@ -611,8 +517,7 @@ Firefox 29.0正式版发布于2014年4月29日。
   - 預設啟用 SharedWorker。
   - 實作並啟用 <input type="number">。
   - 實作並啟用 <input type="color">。
-  - 啟用 [ECMAScript](../Page/ECMAScript.md "wikilink")
-    Internationalization API。
+  - 啟用 [ECMAScript](../Page/ECMAScript.md "wikilink") Internationalization API。
   - 移除附加元件列，將其內容移動到瀏覽工具列。
 
 #### Firefox 30.0
@@ -624,18 +529,15 @@ Firefox 30.0正式版发布于2014年6月10日。 特性\[205\]
   - 支援 [GStreamer](../Page/GStreamer.md "wikilink") 1.0。
   - 不允許 web 網頁將 WebIDL 定義的建構子當作函數呼叫。
   - 除了擴充套件內建以及白名單\[206\]項目外，外掛程式將不再預設為啟用\[207\]。
-  - 修正 outline 被描繪到 box-shadow 和其它視覺 overflow 效果之外的問題 [`(Bug``
-     ``480888)`](https://bugzilla.mozilla.org/show_bug.cgi?id=480888)。
+  - 修正 outline 被描繪到 box-shadow 和其它視覺 overflow 效果之外的問題 [`(Bug``   ``480888)`](https://bugzilla.mozilla.org/show_bug.cgi?id=480888)。
   - 使用 WebAudio 時，可針對個別視窗調整音量。
   - 預設啟用 background-blend-mode 屬性。
   - 允許在 <input type="reset|button|submit"> 使用 line-height 屬性。
   - 實作 ES6 Array 和 Generator 的 comprehension 語法\[208\]。
   - 錯誤堆疊的顯示會包含列號。
   - Canvas 的 context options 可支援 alpha 選項\[209\]。
-  - 修正密碼管理員在 autocomplete="off" 時，仍可提供儲存密碼的問題 [`(Bug``
-     ``956906)`](https://bugzilla.mozilla.org/show_bug.cgi?id=956906)。
-  - TypedArray 無法新增有名字的屬性 [`(Bug``
-     ``695438)`](https://bugzilla.mozilla.org/show_bug.cgi?id=695438)。
+  - 修正密碼管理員在 autocomplete="off" 時，仍可提供儲存密碼的問題 [`(Bug``   ``956906)`](https://bugzilla.mozilla.org/show_bug.cgi?id=956906)。
+  - TypedArray 無法新增有名字的屬性 [`(Bug``   ``695438)`](https://bugzilla.mozilla.org/show_bug.cgi?id=695438)。
   - 安全性修正\[210\]。
 
 ### Firefox 31–37
@@ -651,9 +553,7 @@ Firefox 31.0正式版发布于2014年7月22日。 特性\[211\]
   - 實作部分的 OpenType MATH table (section 6.3.6)\[215\]\[216\]\[217\]。
   - 若未指定影音 .ogg 和 .pdf 檔案的預設應用程式，Firefox 就會自動開啟它們（限 Windows）。
   - 新增上索布語（Upper Sorbian, hsb）語系支援。
-  - 移除用來指定網站權限（透過 capability.policy.\* 設定值）的 CAPS
-    基礎程式。需注意將無法再藉此功能允許剪貼簿的存取，唯一的例外是
-    checkloaduri 權限，仍可用來讓網站載入 <file://> URI。
+  - 移除用來指定網站權限（透過 capability.policy.\* 設定值）的 CAPS 基礎程式。需注意將無法再藉此功能允許剪貼簿的存取，唯一的例外是 checkloaduri 權限，仍可用來讓網站載入 <file://> URI。
   - 實作並啟用 WebVTT\[218\]。
   - 實作 CSS3 變數\[219\]。
   - 開發者工具：附加元件除錯器\[220\]。
@@ -692,8 +592,7 @@ Firefox 32.0正式版发布于2014年9月2日。 特性\[231\]
   - 實作 ECMAScript 6 內建方法 Array\#copyWithin\[238\]。
   - 新的 Array 內建方法：Array.from()\[239\]。
   - 實作 navigator.languages\[240\] 屬性及 languagechange\[241\] 事件。
-  - 以 CSS box-decoration-break\[242\] 屬性取代
-    -moz-background-inline-policy。
+  - 以 CSS box-decoration-break\[242\] 屬性取代 -moz-background-inline-policy。
   - 支援 HiDPI 的開發者工具 UI。
   - 將「檢測器」按鈕移至左上角。
   - 隱藏的節點在標記檢視中會以不同方式呈現。
@@ -707,8 +606,7 @@ Firefox 32.0正式版发布于2014年9月2日。 特性\[231\]
 
 Firefox 33.0正式版发布于2014年10月14日。 特性\[248\]
 
-  - 支援
-    [OpenH264](../Page/OpenH264.md "wikilink")\[249\]（[沙箱模式](../Page/沙盒_\(電腦安全\).md "wikilink")）。
+  - 支援 [OpenH264](../Page/OpenH264.md "wikilink")\[249\]（[沙箱模式](../Page/沙盒_\(電腦安全\).md "wikilink")）。
   - 改善網址列的搜尋使用體驗\[250\]。
   - 更加輕巧快速的 JavaScript 字串\[251\]。
   - Firefox 開始頁（about:home）和新分頁（about:newtab）開始支援搜尋建議功能。
@@ -716,12 +614,10 @@ Firefox 33.0正式版发布于2014年10月14日。 特性\[248\]
   - 新的 CSP（）後端。
   - 支援以 HTTPS 連線至 HTTP proxy。
   - 改善還原瀏覽分頁\[253\]的可靠性。
-  - 新增[亞塞拜然](https://zh.wikipedia.org/wiki/亞塞拜然 "wikilink")（Azerbaijani,
-    az）語系支援。
+  - 新增[亞塞拜然](https://zh.wikipedia.org/wiki/亞塞拜然 "wikilink")（Azerbaijani, az）語系支援。
   - 移除 window.crypto 屬性與函數。
   - 移除 JSD（JavaScript Debugger Service）\[254\]，以 Debugger 介面取代。
-  - 實作 [CSS3 Counter Styles 標準的](../Page/瀏覽器引擎CSS支援比較.md "wikilink")
-    `@counter-style` 規則\[255\]。
+  - 實作 [CSS3 Counter Styles 標準的](../Page/瀏覽器引擎CSS支援比較.md "wikilink") `@counter-style` 規則\[255\]。
   - 實作 DOMMatrix\[256\] 介面。
   - [Cubic-bezier 曲線](../Page/貝茲曲線.md "wikilink")\[257\]編輯器。
   - 顯示元素上已綁定的事件監聽器\[258\]。
@@ -740,20 +636,16 @@ Firefox 34.0正式版发布于2014年12月1日。 特性\[265\]
   - 改善搜尋列功能（限 en-US 語系）。
   - Firefox Hello\[266\]\[267\]\[268\]即時通訊客戶端。
   - 在自訂模式中輕鬆切換佈景主題／[Persona](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\)#主题 "wikilink")\[269\]。
-  - [英文維基百科搜尋改用](https://zh.wikipedia.org/wiki/英文維基百科 "wikilink")[HTTPS進行安全搜尋](https://zh.wikipedia.org/wiki/HTTPS "wikilink")（限
-    en-US 語系）。
-  - [HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")（draft 14）和
-    [ALPN](https://zh.wikipedia.org/wiki/ALPN "wikilink") 實作。
-  - 在[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")「Firefox
-    已在執行中」對話框內，可選擇關閉鎖定的 Firefox 程序並重新啟動。
+  - [英文維基百科搜尋改用](https://zh.wikipedia.org/wiki/英文維基百科 "wikilink")[HTTPS進行安全搜尋](https://zh.wikipedia.org/wiki/HTTPS "wikilink")（限 en-US 語系）。
+  - [HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")（draft 14）和 [ALPN](https://zh.wikipedia.org/wiki/ALPN "wikilink") 實作。
+  - 在[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")「Firefox 已在執行中」對話框內，可選擇關閉鎖定的 Firefox 程序並重新啟動。
   - 停用[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink") v3。
   - 重新啟用 window.crypto 屬性與函數（將於 Firefox 35 移除）。
   - 取得 Apple OS X version 2 簽署。
   - 實作 [ECMAScript](../Page/ECMAScript.md "wikilink") 6 WeakSet\[270\]。
   - 實作 JavaScript Template Strings\[271\]。
   - CSS3 Font variant 和字型特徵控制（例如 font-kerning，字距）的實作。
-  - WebCrypto：支援 RSA-OAEP、PBKDF2 和 AES-KW、實作 wrapKey 和 unwrapKey、匯入／匯出
-    JWK 格式的金鑰、支援 ECDH。
+  - WebCrypto：支援 RSA-OAEP、PBKDF2 和 AES-KW、實作 wrapKey 和 unwrapKey、匯入／匯出 JWK 格式的金鑰、支援 ECDH。
   - 實作 `matches()`\[272\] DOM API。
   - 實作wroker用的`Performance.now()`。
   - WebIDE\[273\]：在瀏覽器中建立、編輯、測試新的 web 應用程式。
@@ -765,25 +657,20 @@ Firefox 34.0正式版发布于2014年12月1日。 特性\[265\]
 
 #### Firefox 35.0
 
-Firefox 35.0正式版发布于2015年1月13日。
-[Firefox-hello-logo.svg](https://zh.wikipedia.org/wiki/File:Firefox-hello-logo.svg "fig:Firefox-hello-logo.svg")
-特性\[276\]
+Firefox 35.0正式版发布于2015年1月13日。 [Firefox-hello-logo.svg](https://zh.wikipedia.org/wiki/File:Firefox-hello-logo.svg "fig:Firefox-hello-logo.svg") 特性\[276\]
 
   - 聊天室型式的Firefox Hello交談。
   - 在更多語系中啟用新的搜尋介面。
   - 從工具選單「應用程式」或工具列按鈕存取Firefox Marketplace\[277\]。
-  - 在[Mac OS X Snow
-    Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")（10.6）以上，藉由原生API提供內建的H264（MP4）支援。
-  - 在[OS X使用tiled](https://zh.wikipedia.org/wiki/OS_X "wikilink")
-    rendering。
+  - 在[Mac OS X Snow Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")（10.6）以上，藉由原生API提供內建的H264（MP4）支援。
+  - 在[OS X使用tiled](https://zh.wikipedia.org/wiki/OS_X "wikilink") rendering。
   - 改善高品質圖片縮放的效能。
   - 改善對動態樣式變更的處理，以增進反應速度。
   - 實作HTTP Public Key Pinning Extension\[278\]，為加密連線提供更好的認證。
   - 支援CSS Font Loading API。
   - 實作Resource Timing API。
   - 預設啟用CSS filter\[279\]屬性。
-  - 調整[JavaScript](../Page/JavaScript.md "wikilink") 'let'語義\[280\]以符合
-    ES6 標準。
+  - 調整[JavaScript](../Page/JavaScript.md "wikilink") 'let'語義\[280\]以符合 ES6 標準。
   - 支援檢測`::before`和`::after`虛擬元素。
   - 「計算樣式」面板：標示符合目前滑鼠所在選擇器的節點。
   - 網路監測器：新增請求／回應檔頭檢視\[281\]。
@@ -822,8 +709,7 @@ Firefox 38.0正式版发布于2015年5月12日。 特性\[287\]
 Firefox 39.0正式版发布于2015年7月2日。 特性\[289\]
 
   - 在對話框中直接將Firefox Hello連結分享至社群網路的連結。
-  - 在[Mac OS
-    X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux的版本中啟用惡意軟體的偵測功能](../Page/Linux.md "wikilink")。
+  - 在[Mac OS X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")的版本中啟用惡意軟體的偵測功能。
   - 支援Unicode 8.0的emoji。
   - 各種安全性修正\[290\]。
 
@@ -900,7 +786,7 @@ Firefox 49.0正式版发布于2016年9月20日。 特性\[300\]
 
 Firefox 50.0正式版发布于2016年11月15日。 特性\[301\]
 
-  - 98%的Windows7或更高系统的用户都可以使用[WebGL了](../Page/WebGL.md "wikilink")。
+  - 98%的Windows7或更高系统的用户都可以使用[WebGL](../Page/WebGL.md "wikilink")了。
 
 #### Firefox 51.0
 
@@ -986,8 +872,7 @@ Firefox 62.0正式版發布於2018年6月26日。特性\[314\]
 
 Firefox 63.0正式版發布於2018年10月23日。特性\[315\]
 
-  - 啟用了增強版追蹤保護（Enhanced Tracking
-    Protection）機制，可封鎖第三方的追蹤，以改善用戶的隱私及改善網頁載入速度。
+  - 啟用了增強版追蹤保護（Enhanced Tracking Protection）機制，可封鎖第三方的追蹤，以改善用戶的隱私及改善網頁載入速度。
 
 #### Firefox 64.0
 
@@ -1034,11 +919,25 @@ Firefox 67.0正式版發布於2019年5月21日。特性\[319\]
   - 用戶將無法再通過Firefox屏幕截圖服務器上傳和共享屏幕截圖。 想要保留現有屏幕截圖的用戶需要在服務器在未來幾個月關閉之前將其導出 。
   - 字體和日期調整，以適應日本新的令和時代
 
+#### Firefox 68.0
+
+Firefox 68.0正式版發布於2019年7月9日。特性\[320\]
+
+  - 閱讀器視圖中的黑暗模式會延伸，因此控件，側邊欄和工具欄上的窗口也會變暗。
+  - 改進了擴展安全性和發現：
+      - about 中的新報告功能：插件允許您報告擴展和主題的安全性和性能問題。
+      - 重新設計的擴展儀表板在<about:addons> 中可以輕鬆訪問有關擴展的信息，包括每個擴展所需的數據和設置訪問權限。
+      - 通過推薦擴展程序在<about:addons> 中找到高質量，安全的擴展，現在顯示每個擴展的用戶數和評級。這些擴展程序的「推薦」徽章也會出現在AMO上。隨著時間的推移，會添加更多擴展程序。
+  - Cryptomining 和指紋識別保護被添加到隱私和安全首選項中的嚴格內容阻止設置。
+  - WebRender 將推出使用AMD顯卡的Windows 10用戶。
+  - Windows後台智能傳輸服務（BITS）更新下載支持，允許在Firefox關閉時繼續Firefox更新下載。
+  - 本地文件無法再訪問同一目錄中的其他文件。
+  - 當檢測到由防病毒軟件引起的HTTPS錯誤時，[Firefox將嘗試自動修復它](https://support.mozilla.org/kb/how-disable-enterprise-roots-preference)
+  - 攝像頭和麥克風訪問[現在需要](https://blog.mozilla.org/webrtc/camera-microphone-require-https-in-firefox-68/)HTTPS連接。
+
 ## 延長支持版本
 
-Firefox延長支持版本（Extended Support
-Release，简称“ESR”）是向不能或不愿每6周升级一次的用户提供的版本，其每42周更新一次。Firefox
-10是继Firefox 3.6后第一个发布的延長支持版本。而Firefox 17則是Firefox 3.6後的第二個延長支持版本。
+Firefox延長支持版本（Extended Support Release，简称“ESR”）是向不能或不愿每6周升级一次的用户提供的版本，其每42周更新一次。Firefox 10是继Firefox 3.6后第一个发布的延長支持版本。而Firefox 17則是Firefox 3.6後的第二個延長支持版本。
 
 | 浏览器名   | 版本号  | 发布状态 | 发布日期        |
 | ------ | ---- | ---- | ----------- |
@@ -1050,7 +949,7 @@ Release，简称“ESR”）是向不能或不愿每6周升级一次的用户提
 | ESR 45 | 45.0 | 发布   | 2016年3月8日   |
 | ESR 52 | 52.0 | 发布   | 2017年3月7日   |
 | ESR 60 | 60.0 | 发布   | 2018年5月9日   |
-| ESR 68 | 68.0 | 未发布  | 2019年7月9日   |
+| ESR 68 | 68.0 | 发布   | 2019年7月9日   |
 |        |      |      |             |
 
 ESR版本列表
@@ -1059,27 +958,17 @@ ESR版本列表
 
 ## 外部連結
 
-  - [Firefox Releases](https://www.mozilla.org/en-US/firefox/releases/)
-    官方更新日誌
-  - [Squarefree.com](http://www.squarefree.com/burningedge/releases/)
-    非官方更新日誌
-  - [RapidRelease -
-    MozillaWiki](https://zh.wikipedia.org/wiki/:mozillawiki:RapidRelease/Calendar "wikilink")
-    快速釋出週期日程表
-  - [MozillaZine
-    Weblogs](https://web.archive.org/web/20060208030104/http://weblogs.mozillazine.org/ben/archives/009698.html)
-    Firefox從哪裡來？
-  - [BBC News](http://news.bbc.co.uk/2/hi/technology/6078016.stm)
-    Firefox瀏覽器的Web 2.0時代
+  - [Firefox Releases](https://www.mozilla.org/en-US/firefox/releases/) 官方更新日誌
+  - [Squarefree.com](http://www.squarefree.com/burningedge/releases/) 非官方更新日誌
+  - [RapidRelease - MozillaWiki](https://zh.wikipedia.org/wiki/:mozillawiki:RapidRelease/Calendar "wikilink") 快速釋出週期日程表
+  - [MozillaZine Weblogs](https://web.archive.org/web/20060208030104/http://weblogs.mozillazine.org/ben/archives/009698.html) Firefox從哪裡來？
+  - [BBC News](http://news.bbc.co.uk/2/hi/technology/6078016.stm) Firefox瀏覽器的Web 2.0時代
 
 ## 相關條目
 
-  - [Mozilla
-    Firefox版本歷史](https://zh.wikipedia.org/wiki/Mozilla_Firefox版本歷史 "wikilink")
+  - [Mozilla Firefox版本歷史](https://zh.wikipedia.org/wiki/Mozilla_Firefox版本歷史 "wikilink")
 
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
-[Category:互联网的歷史](https://zh.wikipedia.org/wiki/Category:互联网的歷史 "wikilink")
-[Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
+[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:互联网的歷史](https://zh.wikipedia.org/wiki/Category:互联网的歷史 "wikilink") [Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
 
 1.
 
@@ -1111,27 +1000,19 @@ ESR版本列表
 
 17. www.mozilla.org/en-US/firefox/2.0.0.20/releasenotes/
 
-18. [The Internet Explorer team sent us a cake at Mozilla HQ for our
-    release of
-    Firefox 2.0\!](http://www.flickr.com/photos/thunder/278483422/)
+18. [The Internet Explorer team sent us a cake at Mozilla HQ for our release of Firefox 2.0\!](http://www.flickr.com/photos/thunder/278483422/)
 
 19. <https://developer.mozilla.org/devnews/index.php/2008/06/17/firefox-3-available-today-at-1700-utc-10am-pdt/>
 
 20. [Mozilla要讓Firefox 3首日下載留名金氏世界紀錄](http://www.ithome.com.tw/itadm/article.php?c=49376)
 
-
 21. [al with cake](http://www.flickr.com/photos/robceemoz/2587912633/)
 
-22. [Firefox 3.5
-    最後的更新：全新的-{圖示}-](http://mozlinks-zh.blogspot.com/2009/05/firefox-35.html)
+22. [Firefox 3.5 最後的更新：全新的-{圖示}-](http://mozlinks-zh.blogspot.com/2009/05/firefox-35.html)
 
-23. [Firefox Icon History and creative brieffor shiretoko
-    refresh](http://people.mozilla.com/~faaborg/files/20090515-creativeBrief/creativeBrief-i1-wm.png_large.png)
+23. [Firefox Icon History and creative brieffor shiretoko refresh](http://people.mozilla.com/~faaborg/files/20090515-creativeBrief/creativeBrief-i1-wm.png_large.png)
 
-
-24. [Firefox
-    Logos](http://www.mozilla.org/en-US/firefox/brand/identity/)Firefox
-    brand toolkit
+24. [Firefox Logos](http://www.mozilla.org/en-US/firefox/brand/identity/)Firefox brand toolkit
 
 25. [Firefox/Namoroka](https://zh.wikipedia.org/wiki/:mozillawiki:Firefox/Namoroka "wikilink")
 
@@ -1155,8 +1036,7 @@ ESR版本列表
 
 35. <http://www.cnet.com/news/mozilla-prepares-coders-for-firefox-4-features/>
 
-36. [Another version of Firefox, another
-    cake](http://www.openbuddha.com/2011/03/22/another-version-of-firefox-another-cake/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+InPursuitOfMysteries%2FMozilla+%28OpenBuddha+-+Mozilla%29)
+36. [Another version of Firefox, another cake](http://www.openbuddha.com/2011/03/22/another-version-of-firefox-another-cake/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+InPursuitOfMysteries%2FMozilla+%28OpenBuddha+-+Mozilla%29)
 
 37.
 
@@ -1170,18 +1050,13 @@ ESR版本列表
 
 42.
 
-43. [cupcake for Firefox 5: Microsoft has some fun with Mozilla's new
-    rapid
-    release](http://www.geekwire.com/2011/cupcake-firefox-5-microsoft-fun-mozillas-rapid-release)
+43. [cupcake for Firefox 5: Microsoft has some fun with Mozilla's new rapid release](http://www.geekwire.com/2011/cupcake-firefox-5-microsoft-fun-mozillas-rapid-release)
 
-44. [1](https://archive.is/20120714150809/reviewsmyfavourite.blogspot.com/2011/05/what-is-new-in-firefox-6.html),
-    What is new in Firefox 6
+44. [1](https://archive.is/20120714150809/reviewsmyfavourite.blogspot.com/2011/05/what-is-new-in-firefox-6.html), What is new in Firefox 6
 
-45. [2](https://bugzilla.mozilla.org/show_bug.cgi?id=634065), Bug 634065
-    - Implement design for identity block and persistent indicators
+45. [2](https://bugzilla.mozilla.org/show_bug.cgi?id=634065), Bug 634065 - Implement design for identity block and persistent indicators
 
-46. [3](http://hacks.mozilla.org/2011/05/aurora-6-is-here/),
-    hacks.mozilla.org -- Aurora 6 is here
+46. [3](http://hacks.mozilla.org/2011/05/aurora-6-is-here/), hacks.mozilla.org -- Aurora 6 is here
 
 47. <http://www.cnet.com/news/ie-team-pokes-fun-at-rapid-release-firefox-6/>
 
@@ -1193,33 +1068,21 @@ ESR版本列表
 
 51.
 
-52. [Firefox 8 for
-    developers](https://developer.mozilla.org/en/Firefox_8_for_developers)
+52. [Firefox 8 for developers](https://developer.mozilla.org/en/Firefox_8_for_developers)
 
+53. [Microsoft breaks with tradition, no cake for Firefox 8](http://www.winrumors.com/microsoft-breaks-with-tradition-no-cake-for-firefox-8/)  | WinRumors
 
-53. [Microsoft breaks with tradition, no cake for
-    Firefox 8](http://www.winrumors.com/microsoft-breaks-with-tradition-no-cake-for-firefox-8/)
-     | WinRumors
+54. [Firefox 9 for developers](https://developer.mozilla.org/en/Firefox_9_for_developers)
 
-54. [Firefox 9 for
-    developers](https://developer.mozilla.org/en/Firefox_9_for_developers)
+55. [Firefox 10 for developers](https://developer.mozilla.org/en/Firefox_10_for_developers)
 
+56. [Firefox Release Notes (10.0)](http://www.mozilla.org/en-US/firefox/10.0/releasenotes/)
 
-55. [Firefox 10 for
-    developers](https://developer.mozilla.org/en/Firefox_10_for_developers)
+57. [Firefox Release Notes (11.0)](http://www.mozilla.org/en-US/firefox/11.0/releasenotes/)
 
+58. [Firefox Release Notes (12.0)](http://www.mozilla.org/en-US/firefox/12.0/releasenotes/)
 
-56. [Firefox Release Notes
-    (10.0)](http://www.mozilla.org/en-US/firefox/10.0/releasenotes/)
-
-57. [Firefox Release Notes
-    (11.0)](http://www.mozilla.org/en-US/firefox/11.0/releasenotes/)
-
-58. [Firefox Release Notes
-    (12.0)](http://www.mozilla.org/en-US/firefox/12.0/releasenotes/)
-
-59. [Firefox Release Notes
-    (13.0)](http://www.mozilla.org/en-US/firefox/13.0/releasenotes/)
+59. [Firefox Release Notes (13.0)](http://www.mozilla.org/en-US/firefox/13.0/releasenotes/)
 
 60. [4](http://hacks.mozilla.org/2012/03/firefox-aurora-13-developer-tools-updates/)
 
@@ -1237,13 +1100,11 @@ ESR版本列表
 
 67.
 
-68. [Firefox Release Notes
-    (14.0.1)](http://www.mozilla.org/en-US/firefox/14.0.1/releasenotes/)
+68. [Firefox Release Notes (14.0.1)](http://www.mozilla.org/en-US/firefox/14.0.1/releasenotes/)
 
 69. [11](https://bugzilla.mozilla.org/show_bug.cgi?id=639705)
 
-70. [Opt-in activation for
-    plugins](https://zh.wikipedia.org/wiki/:mozillawiki:Opt-in_activation_for_plugins "wikilink")
+70. [Opt-in activation for plugins](https://zh.wikipedia.org/wiki/:mozillawiki:Opt-in_activation_for_plugins "wikilink")
 
 71. [12](https://bugzilla.mozilla.org/show_bug.cgi?id=566489)
 
@@ -1263,8 +1124,7 @@ ESR版本列表
 
 79. [20](https://bugzilla.mozilla.org/show_bug.cgi?id=758885)
 
-80. [Firefox Release Notes
-    (15.0)](http://www.mozilla.org/en-US/firefox/15.0/releasenotes/)
+80. [Firefox Release Notes (15.0)](http://www.mozilla.org/en-US/firefox/15.0/releasenotes/)
 
 81. [21](http://www.mozilla.org/en-US/firefox/all.html)
 
@@ -1278,8 +1138,7 @@ ESR版本列表
 
 86. [26](https://bugzilla.mozilla.org/show_bug.cgi?id=720987)
 
-87. [Firefox Release Notes
-    (16.0)](http://www.mozilla.org/en-US/firefox/16.0/releasenotes/)
+87. [Firefox Release Notes (16.0)](http://www.mozilla.org/en-US/firefox/16.0/releasenotes/)
 
 88. [27](http://www.marcozehe.de/2012/04/30/initial-voiceover-support-now-in-firefox-nightly-builds-for-mac-os-x/)
 
@@ -1301,8 +1160,7 @@ ESR版本列表
 
 97. [36](https://bugzilla.mozilla.org/show_bug.cgi?id=728831)
 
-98. [Firefox Release Notes
-    (17.0)](http://www.mozilla.org/en-US/firefox/17.0/releasenotes/)
+98. [Firefox Release Notes (17.0)](http://www.mozilla.org/en-US/firefox/17.0/releasenotes/)
 
 99. [37](http://blog.mozilla.org/addons/2012/10/11/click-to-play-coming-firefox-17/)
 
@@ -1314,19 +1172,15 @@ ESR版本列表
 
 103. [41](https://bugzilla.mozilla.org/show_bug.cgi?id=780345)
 
-104. [美、英政府利用Firefox漏洞監聽反追蹤軟體Tor](http://www.ithome.com.tw/itadm/article.php?c=83018)
-     ，即時新聞，[iThome](https://zh.wikipedia.org/wiki/iThome "wikilink")
-     online，文：林妍溱，2013-10-07
+104. [美、英政府利用Firefox漏洞監聽反追蹤軟體Tor](http://www.ithome.com.tw/itadm/article.php?c=83018) ，即時新聞，[iThome](https://zh.wikipedia.org/wiki/iThome "wikilink") online，文：林妍溱，2013-10-07
 
-105. [Firefox Release Notes
-     (18.0)](http://www.mozilla.org/en-US/firefox/18.0/releasenotes/)
+105. [Firefox Release Notes (18.0)](http://www.mozilla.org/en-US/firefox/18.0/releasenotes/)
 
 106. <https://bugzilla.mozilla.org/show_bug.cgi?id=62178>
 
 107. <https://bugzilla.mozilla.org/show_bug.cgi?id=769764>
 
-108. [Firefox Release Notes
-     (19.0)](http://www.mozilla.org/en-US/firefox/19.0/releasenotes/)
+108. [Firefox Release Notes (19.0)](http://www.mozilla.org/en-US/firefox/19.0/releasenotes/)
 
 109. <https://hacks.mozilla.org/2012/10/firefox-development-highlights-viewport-percentage-canvas-toblob-and-webrtc/>
 
@@ -1344,8 +1198,7 @@ ESR版本列表
 
 116. <https://bugzilla.mozilla.org/show_bug.cgi?id=825734>
 
-117. [Firefox Release Notes
-     (20.0)](http://www.mozilla.org/en-US/firefox/20.0/releasenotes/)
+117. [Firefox Release Notes (20.0)](http://www.mozilla.org/en-US/firefox/20.0/releasenotes/)
 
 118. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
@@ -1371,8 +1224,7 @@ ESR版本列表
 
 129. <https://bugzilla.mozilla.org/show_bug.cgi?id=829284>
 
-130. [Firefox Release Notes
-     (21.0)](http://www.mozilla.org/en-US/firefox/21.0/releasenotes/)
+130. [Firefox Release Notes (21.0)](http://www.mozilla.org/en-US/firefox/21.0/releasenotes/)
 
 131. <https://blog.mozilla.org/blog/2013/05/14/stay-social-with-firefox/>
 
@@ -1398,8 +1250,7 @@ ESR版本列表
 
 142. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-143. [Firefox Release Notes
-     (22.0)](http://www.mozilla.org/en-US/firefox/22.0/releasenotes/)
+143. [Firefox Release Notes (22.0)](http://www.mozilla.org/en-US/firefox/22.0/releasenotes/)
 
 144. <https://blog.mozilla.org/futurereleases/2013/05/16/firefox-beta-now-includes-webrtc-on-by-default/>
 
@@ -1421,8 +1272,7 @@ ESR版本列表
 
 153. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-154. [Firefox Release Notes
-     (23.0)](http://www.mozilla.org/en-US/firefox/23.0/releasenotes/)
+154. [Firefox Release Notes (23.0)](http://www.mozilla.org/en-US/firefox/23.0/releasenotes/)
 
 155. <https://blog.mozilla.org/security/2013/05/16/mixed-content-blocking-in-firefox-aurora/>
 
@@ -1432,8 +1282,7 @@ ESR版本列表
 
 158. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-159. [Firefox Release Notes
-     (24.0)](http://www.mozilla.org/en-US/firefox/24.0/releasenotes/)
+159. [Firefox Release Notes (24.0)](http://www.mozilla.org/en-US/firefox/24.0/releasenotes/)
 
 160. <http://msujaws.wordpress.com/2013/06/17/picking-up-the-crumbs/>
 
@@ -1451,8 +1300,7 @@ ESR版本列表
 
 167. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-168. [Firefox Release Notes
-     (25.0)](http://www.mozilla.org/en-US/firefox/25.0/releasenotes/)
+168. [Firefox Release Notes (25.0)](http://www.mozilla.org/en-US/firefox/25.0/releasenotes/)
 
 169. <https://bugzilla.mozilla.org/show_bug.cgi?id=483446>
 
@@ -1462,8 +1310,7 @@ ESR版本列表
 
 172. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-173. [Firefox Release Notes
-     (26.0)](http://www.mozilla.org/en-US/firefox/26.0/releasenotes/)
+173. [Firefox Release Notes (26.0)](http://www.mozilla.org/en-US/firefox/26.0/releasenotes/)
 
 174. <https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/>
 
@@ -1479,8 +1326,7 @@ ESR版本列表
 
 180. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-181. [Firefox Release Notes
-     (27.0)](http://www.mozilla.org/en-US/firefox/27.0/releasenotes/)
+181. [Firefox Release Notes (27.0)](http://www.mozilla.org/en-US/firefox/27.0/releasenotes/)
 
 182.
 
@@ -1508,16 +1354,13 @@ ESR版本列表
 
 194. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-195. [Firefox Release Notes
-     (28.0)](http://www.mozilla.org/en-US/firefox/28.0/releasenotes/)
+195. [Firefox Release Notes (28.0)](http://www.mozilla.org/en-US/firefox/28.0/releasenotes/)
 
-196. [「Firefox 28」正式版登場、ブラウザをゲームパッドで操作することが可能に |
-     GIGAZINE](http://gigazine.net/news/20140318-firefox-28/)，2014年3月25日最後查閱。
+196. [「Firefox 28」正式版登場、ブラウザをゲームパッドで操作することが可能に | GIGAZINE](http://gigazine.net/news/20140318-firefox-28/)，2014年3月25日最後查閱。
 
 197. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-198. [Firefox Release Notes
-     (29.0)](http://www.mozilla.org/en-US/firefox/29.0/releasenotes/)
+198. [Firefox Release Notes (29.0)](http://www.mozilla.org/en-US/firefox/29.0/releasenotes/)
 
 199.
 
@@ -1531,8 +1374,7 @@ ESR版本列表
 
 204.
 
-205. [Firefox Release Notes
-     (30.0)](http://www.mozilla.org/en-US/firefox/30.0/releasenotes/)
+205. [Firefox Release Notes (30.0)](http://www.mozilla.org/en-US/firefox/30.0/releasenotes/)
 
 206.
 
@@ -1544,8 +1386,7 @@ ESR版本列表
 
 210. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-211. [Firefox Release Notes
-     (31.0)](http://www.mozilla.org/en-US/firefox/31.0/releasenotes/)
+211. [Firefox Release Notes (31.0)](http://www.mozilla.org/en-US/firefox/31.0/releasenotes/)
 
 212.
 
@@ -1585,8 +1426,7 @@ ESR版本列表
 
 230.
 
-231. [Firefox Release Notes
-     (32.0)](http://www.mozilla.org/en-US/firefox/32.0/releasenotes/)
+231. [Firefox Release Notes (32.0)](http://www.mozilla.org/en-US/firefox/32.0/releasenotes/)
 
 232.
 
@@ -1620,8 +1460,7 @@ ESR版本列表
 
 247. <https://www.mozilla.org/security/known-vulnerabilities/firefox.html>
 
-248. [Firefox Release Notes
-     (33.0)](http://www.mozilla.org/en-US/firefox/33.0/releasenotes/)
+248. [Firefox Release Notes (33.0)](http://www.mozilla.org/en-US/firefox/33.0/releasenotes/)
 
 249.
 
@@ -1655,17 +1494,13 @@ ESR版本列表
 
 264.
 
-265. [Firefox Release Notes
-     (34.0)](http://www.mozilla.org/en-US/firefox/34.0/releasenotes/)
+265. [Firefox Release Notes (34.0)](http://www.mozilla.org/en-US/firefox/34.0/releasenotes/)
 
 266.
 
-267. [Firefox 免費通訊服務「Firefox
-     Hello」開放使用者測試](http://technews.tw/2014/10/17/firefox-hello/)，TechNews
-     科技新報，20114-10-17
+267. [Firefox 免費通訊服務「Firefox Hello」開放使用者測試](http://technews.tw/2014/10/17/firefox-hello/)，TechNews 科技新報，20114-10-17
 
-268. [Firefox Hello
-     即時影音通訊功能測試版上線，瀏覽器直接通話不需外掛](http://www.ithome.com.tw/news/91655)，iThome臺灣，20114-10-17
+268. [Firefox Hello 即時影音通訊功能測試版上線，瀏覽器直接通話不需外掛](http://www.ithome.com.tw/news/91655)，iThome臺灣，20114-10-17
 
 269.
 
@@ -1681,8 +1516,7 @@ ESR版本列表
 
 275.
 
-276. [Firefox Release Notes
-     (35.0)](https://www.mozilla.org/en-US/firefox/35.0/releasenotes/)
+276. [Firefox Release Notes (35.0)](https://www.mozilla.org/en-US/firefox/35.0/releasenotes/)
 
 277.
 
@@ -1696,23 +1530,19 @@ ESR版本列表
 
 282.
 
-283. [Firefox Release Notes
-     (36.0)](http://www.mozilla.org/en-US/firefox/36.0/releasenotes/)
+283. [Firefox Release Notes (36.0)](http://www.mozilla.org/en-US/firefox/36.0/releasenotes/)
 
 284.
 
-285. [Firefox Release Notes
-     (37.0)](http://www.mozilla.org/en-US/firefox/37.0/releasenotes/)
+285. [Firefox Release Notes (37.0)](http://www.mozilla.org/en-US/firefox/37.0/releasenotes/)
 
 286.
 
-287. [Firefox Release Notes
-     (38.0)](http://www.mozilla.org/en-US/firefox/38.0/releasenotes/)
+287. [Firefox Release Notes (38.0)](http://www.mozilla.org/en-US/firefox/38.0/releasenotes/)
 
 288.
 
-289. [Firefox Release Notes
-     (39.0)](http://www.mozilla.org/en-US/firefox/39.0/releasenotes/)
+289. [Firefox Release Notes (39.0)](http://www.mozilla.org/en-US/firefox/39.0/releasenotes/)
 
 290.
 
@@ -1750,8 +1580,7 @@ ESR版本列表
 
 307. [58](https://www.mozilla.org/en-US/firefox/56.0/releasenotes/)
 
-308.  Firefox Quantum
-     Browser|website=Mozilla|language=en-US|accessdate=2017-10-09}}
+308.  Firefox Quantum Browser|website=Mozilla|language=en-US|accessdate=2017-10-09}}
 
 309. [59](https://www.mozilla.org/en-US/firefox/57.0/releasenotes/)
 
@@ -1774,3 +1603,5 @@ ESR版本列表
 318.
 
 319.
+
+320.

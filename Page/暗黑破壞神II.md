@@ -1,36 +1,31 @@
-是由[暴雪娛樂于](../Page/暴雪娛樂.md "wikilink")2000年6月29日發行的一款PC及Mac
-OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。是《[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")》的第二代。故事紧随前作1996年发行的《[暗黑破坏神](../Page/暗黑破坏神_\(游戏\).md "wikilink")》。其[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")《[暗黑破壞神II：毀滅之王](../Page/暗黑破壞神II：毀滅之王.md "wikilink")》于2001年6月29日發行。
+是由[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")于2000年6月29日發行的一款PC及Mac OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。是《[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")》的第二代。故事紧随前作1996年发行的《[暗黑破坏神](../Page/暗黑破坏神_\(游戏\).md "wikilink")》。其[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")《[暗黑破壞神II：毀滅之王](../Page/暗黑破壞神II：毀滅之王.md "wikilink")》于2001年6月29日發行。
 
 玩家可在單人模式及多人模式進行遊戲以及在[战网與其他玩家共同遊玩](https://zh.wikipedia.org/wiki/战网 "wikilink")。
 
 ## 游戏方式
 
-《暗黑破坏神II》中共设置五种不同的角色，四个[关卡](https://zh.wikipedia.org/wiki/关卡_\(电子游戏\) "wikilink")，每个关卡有六或三个任务。玩家通过[鼠标和](../Page/鼠标.md "wikilink")[键盘控制自己所创建职业的角色](https://zh.wikipedia.org/wiki/键盘 "wikilink")。在各个关卡的大部分地区内，[地图是随机生成的](../Page/地图.md "wikilink")，玩家通过杀掉关卡中地牢、荒野等地方的怪物来获得[经验值从而](https://zh.wikipedia.org/wiki/经验值 "wikilink")[升级](https://zh.wikipedia.org/wiki/等級提升 "wikilink")、学习[技能和添加](https://zh.wikipedia.org/wiki/技能 "wikilink")[任务属性值](https://zh.wikipedia.org/wiki/任务 "wikilink")，并通过该途径得到更好的[装备甚至收集完整的套装](https://zh.wikipedia.org/wiki/装备 "wikilink")。在此过程中，玩家还可以使用随从的雇佣兵来协助自己攻击怪物。在每个关卡的最后，玩家都需要击败一个强大的妖怪[头目从而进入下一关卡](https://zh.wikipedia.org/wiki/头目_\(角色类型\) "wikilink")。
+《暗黑破坏神II》中共设置五种不同的角色，四个[关卡](https://zh.wikipedia.org/wiki/关卡_\(电子游戏\) "wikilink")，每个关卡有六或三个任务。玩家通过[鼠标](../Page/鼠标.md "wikilink")和[键盘控制自己所创建职业的角色](https://zh.wikipedia.org/wiki/键盘 "wikilink")。在各个关卡的大部分地区内，[地图](../Page/地图.md "wikilink")是随机生成的，玩家通过杀掉关卡中地牢、荒野等地方的怪物来获得[经验值从而](https://zh.wikipedia.org/wiki/经验值 "wikilink")[升级](https://zh.wikipedia.org/wiki/等級提升 "wikilink")、学习[技能和添加](https://zh.wikipedia.org/wiki/技能 "wikilink")[任务属性值](https://zh.wikipedia.org/wiki/任务 "wikilink")，并通过该途径得到更好的[装备甚至收集完整的套装](https://zh.wikipedia.org/wiki/装备 "wikilink")。在此过程中，玩家还可以使用随从的雇佣兵来协助自己攻击怪物。在每个关卡的最后，玩家都需要击败一个强大的妖怪[头目从而进入下一关卡](https://zh.wikipedia.org/wiki/头目_\(角色类型\) "wikilink")。
 
 另外，游戏共有三个难度级别：普通、噩梦、地狱。当完成本难度级别第四个关卡最后一个任务后，即结束当前难度级别的游戏，可进入下一难度级别进行新的游戏或继续在本难度级别中游戏。虽然各个难度级别中的任务与怪物相同，但难度却有明显上升。
 
-为了满足玩家对游戏难度的追求，玩家在创造职业角色时，可以选择[专家级职业](https://zh.wikipedia.org/wiki/专家级 "wikilink")；专家级职业人物若在游戏过程中死亡，该角色将无法再次进行游戏。同时，专家级人物的储物箱空间较普通角色的要小很多。同时，为了增加游戏的可玩性，游戏中允许玩家将[宝石](https://zh.wikipedia.org/wiki/宝石 "wikilink")、[钻石等游戏物品和装备进行组合](../Page/钻石.md "wikilink")，来使装备具有独一无二的属性；同样的，游戏中的[赫拉迪克方块让自由合成物品也成为了可能](https://zh.wikipedia.org/wiki/赫拉迪克方块 "wikilink")，但成功合成物品的前提是玩家积累了足够的物品[合成公式](https://zh.wikipedia.org/wiki/合成公式 "wikilink")。
+为了满足玩家对游戏难度的追求，玩家在创造职业角色时，可以选择[专家级职业](https://zh.wikipedia.org/wiki/专家级 "wikilink")；专家级职业人物若在游戏过程中死亡，该角色将无法再次进行游戏。同时，专家级人物的储物箱空间较普通角色的要小很多。同时，为了增加游戏的可玩性，游戏中允许玩家将[宝石](https://zh.wikipedia.org/wiki/宝石 "wikilink")、[钻石](../Page/钻石.md "wikilink")等游戏物品和装备进行组合，来使装备具有独一无二的属性；同样的，游戏中的[赫拉迪克方块让自由合成物品也成为了可能](https://zh.wikipedia.org/wiki/赫拉迪克方块 "wikilink")，但成功合成物品的前提是玩家积累了足够的物品[合成公式](https://zh.wikipedia.org/wiki/合成公式 "wikilink")。
 
 ### 角色職業
 
 《暗黑破坏神II》中提供五個職業供玩家選擇，每个职业都有其独一无二的样貌、[技能樹甚至是部分](https://zh.wikipedia.org/wiki/技能 "wikilink")[NPC对话](https://zh.wikipedia.org/wiki/NPC "wikilink")，游戏中，在使用某些通用装备的同时，每个职业都有专属的物品，这极大提高了游戏的特性。虽然各个职业相差悬殊，但是其最高等级均为99级。
 
   - 亞馬遜（Amazon）
-    亞馬遜人是來自雙子海中島嶼的民族，善用弓箭、長矛以及標槍，利用這些武器達到最佳的戰鬥效果。將消滅三個罪惡之源（Prime
-    Evils）的工作視為己任。根據亞馬遜的規範，只有女人才能擔任戰士，男人則是擔任農夫或是司法人員之類的職務。
+    亞馬遜人是來自雙子海中島嶼的民族，善用弓箭、長矛以及標槍，利用這些武器達到最佳的戰鬥效果。將消滅三個罪惡之源（Prime Evils）的工作視為己任。根據亞馬遜的規範，只有女人才能擔任戰士，男人則是擔任農夫或是司法人員之類的職務。
   - 野蠻人（Barbarian）
-    來自高聳亚瑞特山（Mount Arreat）的民族，善於近身戰鬥，擁有強健的體格以及愈挫愈勇的力量。亚瑞特山是整個圣休亞瑞的守護力量 -
-    世界之石 - 的所在地，野蠻人以及他們的三位古代英靈會誓死守護他們的家園以及世界之石。
+    來自高聳亚瑞特山（Mount Arreat）的民族，善於近身戰鬥，擁有強健的體格以及愈挫愈勇的力量。亚瑞特山是整個圣休亞瑞的守護力量 - 世界之石 - 的所在地，野蠻人以及他們的三位古代英靈會誓死守護他們的家園以及世界之石。
   - 法師（Sorceress）
-    巫士事實上是組成多個部族的法師，包括费斯杰利（Vizjerei） 、坦（Tann）、...等等。這位女巫士則是來自贊艾蘇（Zann
-    Esu）部族，高強的女巫士部族。可以使用強大的閃電、火焰以及冰霜的魔法，摧毀三個魔神將會是她們所面臨的最大考驗。
+    巫士事實上是組成多個部族的法師，包括费斯杰利（Vizjerei） 、坦（Tann）、...等等。這位女巫士則是來自贊艾蘇（Zann Esu）部族，高強的女巫士部族。可以使用強大的閃電、火焰以及冰霜的魔法，摧毀三個魔神將會是她們所面臨的最大考驗。
   - 死靈法師（Necromancer）
     死靈法師—善於詛咒、召喚魔物以及復活死者來為自己效命的黑暗咒術師。來自東方酷熱叢林的死靈法師們相信，生與死有一定的平衡，魔神的出現破壞了這股平衡的力量，因此他們的目的就是找出魔神並且摧毀他們。
   - 聖騎士（Paladin）
-    聖騎士—屬於李奧瑞克所帶領的衛斯馬屈騎士團（Knights of Westmarch）中的精英士兵，接受的是撒卡蘭姆 - 信仰聖光的教派
-    - 的光明教導，他只為他自己的信念而戰。雖然聖騎士們有點狂熱過頭了，但是他們依然追隨著聖光在行動。
+    聖騎士—屬於李奧瑞克所帶領的衛斯馬屈騎士團（Knights of Westmarch）中的精英士兵，接受的是撒卡蘭姆 - 信仰聖光的教派 - 的光明教導，他只為他自己的信念而戰。雖然聖騎士們有點狂熱過頭了，但是他們依然追隨著聖光在行動。
 
-而在資料片[暗黑破壞神II：毀滅之王則另外增加以下兩個職業](../Page/暗黑破壞神II：毀滅之王.md "wikilink")：[德鲁伊和](https://zh.wikipedia.org/wiki/督伊德 "wikilink")[刺客](https://zh.wikipedia.org/wiki/刺客 "wikilink")
+而在資料片[暗黑破壞神II：毀滅之王](../Page/暗黑破壞神II：毀滅之王.md "wikilink")則另外增加以下兩個職業：[德鲁伊和](https://zh.wikipedia.org/wiki/督伊德 "wikilink")[刺客](https://zh.wikipedia.org/wiki/刺客 "wikilink")
 
 ### 多人游戏
 
@@ -52,7 +47,7 @@ OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikil
   - ACT III：鐵狼法师（單手劍和盾）
   - ACT IV ：無
 
-'''而在資料片[暗黑破壞神II：毀滅之王則另外增加一种雇佣兵](../Page/暗黑破壞神II：毀滅之王.md "wikilink")：
+'''而在資料片[暗黑破壞神II：毀滅之王](../Page/暗黑破壞神II：毀滅之王.md "wikilink")則另外增加一种雇佣兵：
 
   - ACT V ：野蠻人（單手劍或雙手劍）
 
@@ -64,19 +59,14 @@ OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikil
 
 ### 主线
 
-承襲了上一代的操作方式，利用滑鼠進行各種動作。玩家們將會扮演各個英雄，在浩大的聖休亞瑞（Sanctuary）中清除邪惡，並擊敗燃燒地獄（Burning
-Hells）中的三大最高統領魔神（Prime
-Evils）：墨菲斯托（Mephisto）、巴爾（Baal）以及迪亞布羅（Diablo）。原作共有ACT
-I到ACT IV，而資料片增加一个区域ACT
-V。玩家必需完成各關卡最後一項任務，才能前進到下一個關卡（但是若封閉式國度使用非資料片轉換成資料片人物，就能不用過普通和惡夢ACT
-V即可到地獄）。五個ACT都拥有完全不同的地理区域，以及不同的市镇。
+承襲了上一代的操作方式，利用滑鼠進行各種動作。玩家們將會扮演各個英雄，在浩大的聖休亞瑞（Sanctuary）中清除邪惡，並擊敗燃燒地獄（Burning Hells）中的三大最高統領魔神（Prime Evils）：墨菲斯托（Mephisto）、巴爾（Baal）以及迪亞布羅（Diablo）。原作共有ACT I到ACT IV，而資料片增加一个区域ACT V。玩家必需完成各關卡最後一項任務，才能前進到下一個關卡（但是若封閉式國度使用非資料片轉換成資料片人物，就能不用過普通和惡夢ACT V即可到地獄）。五個ACT都拥有完全不同的地理区域，以及不同的市镇。
 
   - ACT I：「修女教會」羅格營地：目盲之眼修女會營地——黑暗草原、洞窟、僧院、高塔、要塞、地牢，打倒「折磨女王」安達利爾。
   - ACT II：「黃沙城市」魯·高因：東方的沙漠之城——炙熱沙漠、皇宮、古墓、蟲洞、遺跡、綠洲、峽谷，打倒「苦痛之王」督瑞爾。
   - ACT III：「雨林城市」庫拉斯特海港：古老的城市庫拉斯特——古代森林、神殿、沼澤、水域、海港、城市，打倒「憎恨之王」墨菲斯托。
   - ACT IV：「地獄前線」群魔堡壘：天堂與地獄的交界處——地獄、混沌、熔爐、熔岩，打倒「恐懼之王」迪亞布羅。
 
-'''而在資料片[暗黑破壞神II：毀滅之王則另外增加一个新的关卡](../Page/暗黑破壞神II：毀滅之王.md "wikilink")
+'''而在資料片[暗黑破壞神II：毀滅之王](../Page/暗黑破壞神II：毀滅之王.md "wikilink")則另外增加一个新的关卡
 
   - ACT V：「聖山之城」哈洛加斯：野蠻人的家鄉——冰天雪地、山脈、高地，打倒「毀滅之王」巴爾。
 
@@ -130,9 +120,7 @@ V即可到地獄）。五個ACT都拥有完全不同的地理区域，以及不�
 
 在暗黑破坏神刚刚发售后，网上盛传如果点击游戏中的某一头母牛多次，玩家就可以通过一道传送门到达秘密母牛关卡。最终该说法被确定为谣言，但由于传播范围极广，导致许多玩家深信不疑，暴雪常常会接到询问如何进入秘密母牛关卡的电话。
 
-在暗黑破坏神：地狱火中，玩家可以通过第三方修改补丁让一位农夫身穿母牛服装，并且将对话内容改变（"Moo." "I said
-Moo\!"）。为了辟谣，暴雪在星际争霸中也设置了一条有关秘密母牛关卡的秘籍："There is no cow
-level"。
+在暗黑破坏神：地狱火中，玩家可以通过第三方修改补丁让一位农夫身穿母牛服装，并且将对话内容改变（"Moo." "I said Moo\!"）。为了辟谣，暴雪在星际争霸中也设置了一条有关秘密母牛关卡的秘籍："There is no cow level"。
 
 直到1999年4月1日，一张暗黑破坏神II的截图中显示出许多母牛战斗的画面。当时人们不知道这只不过是愚人节玩笑还是暗黑破坏神II中真的准备添加秘密母牛关卡。最终在暗黑破坏神II发售后，玩家终于确认，游戏中确实有秘密母牛关卡。
 
@@ -146,8 +134,4 @@ level"。
 
   - [官方网站](http://tw.blizzard.com/zh-tw/games/d2/)
 
-[Category:暗黑破坏神系列电子游戏](https://zh.wikipedia.org/wiki/Category:暗黑破坏神系列电子游戏 "wikilink")
-[Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
+[Category:暗黑破坏神系列电子游戏](https://zh.wikipedia.org/wiki/Category:暗黑破坏神系列电子游戏 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink") [Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")

@@ -18,14 +18,7 @@
 
 ### 试验
 
-{{ external media | align = right | width = 310px | image1 =
-[在深圳站的DDJ1型电力动车组](http://www.flickr.com/photos/rickly/264774676/)
-| image2 =
-[DDJ1型电力动车组离开深圳站](http://www.flickr.com/photos/rickly/264774863/)
-| image3 =
-[双层软座车下层内部](http://www.flickr.com/photos/70757589@N00/3521484062/)
-}}
-1999年5月26日，动力车正式完成株洲厂内的测试\[4\]，随后在同年6月上旬被运送至[北京环行铁道](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")，同时其他工厂研制的车厢亦陆续抵京。1999年7月7日，DDJ1型电力动车组进行编组后的首次综合试验\[5\]。[中国铁道科学研究院](../Page/中国铁道科学研究院.md "wikilink")负责对动车组在环形线进行安全评估试验；[四方车辆研究所](https://zh.wikipedia.org/wiki/四方车辆研究所 "wikilink")、[北方交通大学](https://zh.wikipedia.org/wiki/北方交通大学 "wikilink")、株洲电力机车厂、南京浦镇车辆厂、唐山机车车辆厂、四方机车车辆厂、长春客车厂等单位共同完成动车组牵引性能、动车动力学、拖车动力学、制动性能、弓网受流质量、空调性能、供电等试验，期间列车最高试验速度达到180公里/小时\[6\]。
+{{ external media | align = right | width = 310px | image1 = [在深圳站的DDJ1型电力动车组](http://www.flickr.com/photos/rickly/264774676/) | image2 = [DDJ1型电力动车组离开深圳站](http://www.flickr.com/photos/rickly/264774863/) | image3 = [双层软座车下层内部](http://www.flickr.com/photos/70757589@N00/3521484062/) }} 1999年5月26日，动力车正式完成株洲厂内的测试\[4\]，随后在同年6月上旬被运送至[北京环行铁道](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")，同时其他工厂研制的车厢亦陆续抵京。1999年7月7日，DDJ1型电力动车组进行编组后的首次综合试验\[5\]。[中国铁道科学研究院](../Page/中国铁道科学研究院.md "wikilink")负责对动车组在环形线进行安全评估试验；[四方车辆研究所](https://zh.wikipedia.org/wiki/四方车辆研究所 "wikilink")、[北方交通大学](https://zh.wikipedia.org/wiki/北方交通大学 "wikilink")、株洲电力机车厂、南京浦镇车辆厂、唐山机车车辆厂、四方机车车辆厂、长春客车厂等单位共同完成动车组牵引性能、动车动力学、拖车动力学、制动性能、弓网受流质量、空调性能、供电等试验，期间列车最高试验速度达到180公里/小时\[6\]。
 
 同年8月，DJJ1型电力动车组在北京完成安全评估试验和各项性能测试后，赴[广深铁路进行上线试验](https://zh.wikipedia.org/wiki/广深铁路 "wikilink")。1999年8月20日凌晨，DDJ1型电力动车组首次在广深铁路进行试运行；试运行为时12天\[7\]，试验包括机车车辆、线桥设备及列车超速防护系统等三个方面100余项测试项目，并在一次试验中瞬间时速达到223.2公里/小时。试验完毕后由铁道部安全评估专家组对DDJ1型电动车组的各项试验报告进行全面审查，认为时速200公里电动旅客列车在广深线可按最高时速180公里进行运营考核。1999年9月27日起，DDJ1型电力动车组在广深铁路以180公里/小时的最高运营速度开始载客试营运，每天担当2对来往[深圳和](https://zh.wikipedia.org/wiki/深圳站 "wikilink")[广州东的](https://zh.wikipedia.org/wiki/广州东站 "wikilink")[广深城际列车](../Page/广深动车组列车.md "wikilink")，成为中国第一列时速200公里的商业营运列车。
 
@@ -35,9 +28,7 @@
 
 ### 总体结构
 
-[DDJ1_Conjunction.JPG](https://zh.wikipedia.org/wiki/File:DDJ1_Conjunction.JPG "fig:DDJ1_Conjunction.JPG")
-DDJ1型电力动车组为[动力集中方式的推挽式动车组](https://zh.wikipedia.org/wiki/動力集中式 "wikilink")，采用7辆编组，由1辆动力车、5辆单层客车（包括1辆一等座车、3辆二等座车及1辆带司机室的二等座车
-）、1辆双层客车组成。动力车为一台四轴高速[电力机车](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，其总体布置采用双侧走廊、单端司机室，车内设备采用分室斜对称布置，从前至后分别为司机室、第一电气室、变压器室、第二电气室、机械室。电气室内设有主整流拒、辅助变流柜、制动电阻柜、控制电器柜、微机控制柜等设备；机械室设有牵引电动机通风机、空气压缩机、空气制动柜等设备。主变压器位于车体中央并下沉于车体底架下，与平波电抗器、限流电抗器共用冷却油箱。机车车体、转向架、变压器等各主要部件均进行了轻量化设计，使机车达到了总重84吨、轴重21吨的要求。为了减少高速运行时的[空气阻力](https://zh.wikipedia.org/wiki/空气阻力 "wikilink")，动力车采用了[流线型车头](https://zh.wikipedia.org/wiki/流线型 "wikilink")、车顶导流罩，车体下部两侧并设有裙板\[9\]。
+[DDJ1_Conjunction.JPG](https://zh.wikipedia.org/wiki/File:DDJ1_Conjunction.JPG "fig:DDJ1_Conjunction.JPG") DDJ1型电力动车组为[动力集中方式的推挽式动车组](https://zh.wikipedia.org/wiki/動力集中式 "wikilink")，采用7辆编组，由1辆动力车、5辆单层客车（包括1辆一等座车、3辆二等座车及1辆带司机室的二等座车 ）、1辆双层客车组成。动力车为一台四轴高速[电力机车](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，其总体布置采用双侧走廊、单端司机室，车内设备采用分室斜对称布置，从前至后分别为司机室、第一电气室、变压器室、第二电气室、机械室。电气室内设有主整流拒、辅助变流柜、制动电阻柜、控制电器柜、微机控制柜等设备；机械室设有牵引电动机通风机、空气压缩机、空气制动柜等设备。主变压器位于车体中央并下沉于车体底架下，与平波电抗器、限流电抗器共用冷却油箱。机车车体、转向架、变压器等各主要部件均进行了轻量化设计，使机车达到了总重84吨、轴重21吨的要求。为了减少高速运行时的[空气阻力](https://zh.wikipedia.org/wiki/空气阻力 "wikilink")，动力车采用了[流线型车头](https://zh.wikipedia.org/wiki/流线型 "wikilink")、车顶导流罩，车体下部两侧并设有裙板\[9\]。
 
 客车车厢采用无中粱薄壁筒整体承载的全钢焊接结构。列车总定员为438人，一等座车和二等座车均采用“2+2”单向座席布置，差异仅在于座位空间和间距。为提高车厢的密封性能，车辆门窗、连接风挡及排污系统均设计成密封结构，采用了[法国进口](https://zh.wikipedia.org/wiki/法国 "wikilink")[塞拉门](https://zh.wikipedia.org/wiki/塞拉门 "wikilink")、[日本](../Page/日本.md "wikilink")成田制作所的密封风挡、[瑞典](../Page/瑞典.md "wikilink")进口的[集便装置](https://zh.wikipedia.org/wiki/真空廁所 "wikilink")、日本[三菱的](https://zh.wikipedia.org/wiki/三菱 "wikilink")[空调机组等设备](https://zh.wikipedia.org/wiki/空调 "wikilink")。为了减少运行阻力，所有客车均采用全封闭的车下裙板，与双层座车相邻之单层座车车顶并设有导流罩。各车厢之间使用[密接式车钩连接](https://zh.wikipedia.org/wiki/密接式车钩 "wikilink")。控制车车头盖版用[复合材料](../Page/复合材料.md "wikilink")制作，前窗玻璃采用双层防爆电热玻璃。为了克服列车反向推行状态下控制车轮重减载率偏大的问题，除了在控制车车体前端裙板内设置了配重箱，并借鉴了[X2000摆式列车的经验](https://zh.wikipedia.org/wiki/X2000列車 "wikilink")，在控制车的前导转向架构架上加设了配重块\[10\]。
 
@@ -135,8 +126,7 @@ DDJ1型电力动车组为[动力集中方式的推挽式动车组](https://zh.wi
 
 ### 控制系统
 
-DDJ1型电力动车组的控制系统与出口伊朗的[TM1型电力机车相似](https://zh.wikipedia.org/wiki/TM1型电力机车 "wikilink")，同时结合了国产[微机控制系统和](https://zh.wikipedia.org/wiki/微机 "wikilink")[Adtranz](../Page/Adtranz.md "wikilink")公司的“MICAS-S2”微机控制系统，其中“MICAS-S2”部分主要实现故障记录、显示和列车重联控制功能。控制网络由三级构成，分别为列车总线、车辆总线、控制器总线，其中列车总线直接贯通全列车，连接动力车和控制车。列车总线重联通信采用[频率偏移调制方式](https://zh.wikipedia.org/wiki/频率偏移调制 "wikilink")（FSK），通过[网关](../Page/网关.md "wikilink")与车辆总线交换信息。列车控制以微机加逻辑控制单元（LCU）为主体
-，控制功能包括牵引及制动特性控制、超速保护、空电联合制动、自动[过分相控制](https://zh.wikipedia.org/wiki/分相区 "wikilink")、列车电空制动控制等功能。司机操作台取消了传统的模拟显示仪表，代之以微机控制和监控的[液晶显示屏](https://zh.wikipedia.org/wiki/液晶显示屏 "wikilink")\[13\]。
+DDJ1型电力动车组的控制系统与出口伊朗的[TM1型电力机车相似](https://zh.wikipedia.org/wiki/TM1型电力机车 "wikilink")，同时结合了国产[微机控制系统和](https://zh.wikipedia.org/wiki/微机 "wikilink")[Adtranz](../Page/Adtranz.md "wikilink")公司的“MICAS-S2”微机控制系统，其中“MICAS-S2”部分主要实现故障记录、显示和列车重联控制功能。控制网络由三级构成，分别为列车总线、车辆总线、控制器总线，其中列车总线直接贯通全列车，连接动力车和控制车。列车总线重联通信采用[频率偏移调制方式](https://zh.wikipedia.org/wiki/频率偏移调制 "wikilink")（FSK），通过[网关](../Page/网关.md "wikilink")与车辆总线交换信息。列车控制以微机加逻辑控制单元（LCU）为主体 ，控制功能包括牵引及制动特性控制、超速保护、空电联合制动、自动[过分相控制](https://zh.wikipedia.org/wiki/分相区 "wikilink")、列车电空制动控制等功能。司机操作台取消了传统的模拟显示仪表，代之以微机控制和监控的[液晶显示屏](https://zh.wikipedia.org/wiki/液晶显示屏 "wikilink")\[13\]。
 
 ### 转向架
 
@@ -164,13 +154,7 @@ DDJ1型电力动车组的控制系统与出口伊朗的[TM1型电力机车相似
 
   - [唐山轨道客车有限责任公司：RZ25DT型二等硬座客车](https://web.archive.org/web/20130130162119/http://www.tangche.com/pviwe.php?id=27)
 
-[Category:中国高速铁路车辆](https://zh.wikipedia.org/wiki/Category:中国高速铁路车辆 "wikilink")
-[Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink")
-[Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:中车株机制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车株机制铁路车辆 "wikilink")
-[Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink")
-[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
+[Category:中国高速铁路车辆](https://zh.wikipedia.org/wiki/Category:中国高速铁路车辆 "wikilink") [Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink") [Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:中车株机制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车株机制铁路车辆 "wikilink") [Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
 
 1.
 

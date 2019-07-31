@@ -1,9 +1,4 @@
-《**R.O.D -THE
-TV-**》（）是[倉田英之創作的](../Page/倉田英之.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")《R.O.D
-READ OR DIE YOMIKO READMAN "THE
-PAPER"》改編而成的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2003年9月1日在日本Perfect
-choice（[Pay Per
-View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月15日在日本[富士電視台播放](../Page/富士電視台.md "wikilink")。2008年3月29日開始在[東京都會電視台重播](../Page/東京都會電視台.md "wikilink")。全26集。
+《**R.O.D -THE TV-**》（）是[倉田英之](../Page/倉田英之.md "wikilink")創作的[輕小說](../Page/輕小說.md "wikilink")《R.O.D READ OR DIE YOMIKO READMAN "THE PAPER"》改編而成的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2003年9月1日在日本Perfect choice（[Pay Per View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月15日在日本[富士電視台](../Page/富士電視台.md "wikilink")播放。2008年3月29日開始在[東京都會電視台](../Page/東京都會電視台.md "wikilink")重播。全26集。
 
 ## 劇情簡介
 
@@ -105,8 +100,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
   - 人物原案 - [羽音たらく](https://zh.wikipedia.org/wiki/羽音たらく "wikilink")
   - 監督 - [舛成孝二](../Page/舛成孝二.md "wikilink")
   - 人物設計、總作畫監督 - [石浜真史](https://zh.wikipedia.org/wiki/石浜真史 "wikilink")
-  - [美術指導](../Page/美術指導.md "wikilink") -
-    [神宮司訓之](https://zh.wikipedia.org/wiki/神宮司訓之 "wikilink")
+  - [美術指導](../Page/美術指導.md "wikilink") - [神宮司訓之](https://zh.wikipedia.org/wiki/神宮司訓之 "wikilink")
   - 美術監督 - [Easter 八（やつ）組](../Page/STUDIO_EASTER.md "wikilink")
   - 美術設定 - 泉寛
   - 色彩設定 - 店橋真弓
@@ -117,10 +111,8 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
   - 音樂 - [岩崎琢](../Page/岩崎琢.md "wikilink")
   - 製作人 - 落越友則
   - 動畫製作人 - [松倉友二](../Page/松倉友二.md "wikilink")
-  - 協力 - [Studio
-    Orphee](https://zh.wikipedia.org/wiki/Studio_Orphee "wikilink")
-  - 動畫製作 -
-    [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
+  - 協力 - [Studio Orphee](https://zh.wikipedia.org/wiki/Studio_Orphee "wikilink")
+  - 動畫製作 - [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
   - 製作協力 - [STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
   - 製作 - [Aniplex](../Page/Aniplex.md "wikilink")
 
@@ -181,7 +173,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p>沒用的人大集合</p></td>
 <td><p>吉本毅</p></td>
 <td><p>千葉崇洋</p></td>
-<td><p><a href="../Page/手塚治虫.md" title="wikilink">手塚治虫的漫畫作品</a><br />
+<td><p><a href="../Page/手塚治虫.md" title="wikilink">手塚治虫</a>的漫畫作品<br />
 《<a href="https://zh.wikipedia.org/wiki/蒐集人種" title="wikilink">蒐集人種</a>》（）</p></td>
 <td></td>
 </tr>
@@ -220,7 +212,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p><a href="https://zh.wikipedia.org/wiki/太空先鋒" title="wikilink">太空先鋒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/森脇真琴" title="wikilink">森脇真琴</a></p></td>
 <td><p>橘秀樹</p></td>
-<td><p><a href="../Page/汤姆·沃尔夫.md" title="wikilink">汤姆·沃尔夫的同名紀實文學</a></p></td>
+<td><p><a href="../Page/汤姆·沃尔夫.md" title="wikilink">汤姆·沃尔夫</a>的同名紀實文學</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -250,7 +242,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p><a href="../Page/中山勝一.md" title="wikilink">中山勝一</a></p></td>
 <td><p>渡部健一郎</p></td>
 <td><p>千葉崇洋</p></td>
-<td><p><a href="../Page/约瑟夫·康拉德.md" title="wikilink">约瑟夫·康拉德的同名小說</a><br />
+<td><p><a href="../Page/约瑟夫·康拉德.md" title="wikilink">约瑟夫·康拉德</a>的同名小說<br />
 （電影《<a href="../Page/现代启示录.md" title="wikilink">現代啓示錄</a>》的原作）</p></td>
 </tr>
 <tr class="even">
@@ -260,7 +252,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p><a href="../Page/福田道生.md" title="wikilink">福田道生</a></p></td>
 <td><p>滝本治</p></td>
 <td><p>五十嵐淳</p></td>
-<td><p><a href="../Page/查尔斯·狄更斯.md" title="wikilink">查尔斯·狄更斯的同名小說</a></p></td>
+<td><p><a href="../Page/查尔斯·狄更斯.md" title="wikilink">查尔斯·狄更斯</a>的同名小說</p></td>
 </tr>
 <tr class="odd">
 <td><p>第11話</p></td>
@@ -269,7 +261,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p>深井蒼</p></td>
 <td><p>高島大輔</p></td>
 <td><p>相坂直紀</p></td>
-<td><p><a href="../Page/大友克洋.md" title="wikilink">大友克洋的同名漫畫</a></p></td>
+<td><p><a href="../Page/大友克洋.md" title="wikilink">大友克洋</a>的同名漫畫</p></td>
 </tr>
 <tr class="even">
 <td><p>第12話</p></td>
@@ -279,7 +271,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p>湖山禎崇</p></td>
 <td><p>橘秀樹、矢上孝一<br />
 枡田邦彰、下谷智之</p></td>
-<td><p><a href="../Page/理查德·瓦格纳.md" title="wikilink">理查德·瓦格纳的歌劇</a><br />
+<td><p><a href="../Page/理查德·瓦格纳.md" title="wikilink">理查德·瓦格纳</a>的歌劇<br />
 《<a href="../Page/尼伯龙根的指环.md" title="wikilink">尼伯龙根的指环</a>》第3夜<br />
 「<a href="../Page/諸神的黃昏_(歌劇).md" title="wikilink">諸神的黃昏</a>」</p></td>
 </tr>
@@ -310,7 +302,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p>高島大輔</p></td>
 <td><p>都築裕佳子<br />
 <a href="https://zh.wikipedia.org/wiki/友岡新平" title="wikilink">友岡新平</a></p></td>
-<td><p><a href="../Page/鈴木光司.md" title="wikilink">鈴木光司的恐怖小說</a>《<a href="https://zh.wikipedia.org/wiki/暗水幽靈" title="wikilink">暗水幽靈</a>》</p></td>
+<td><p><a href="../Page/鈴木光司.md" title="wikilink">鈴木光司</a>的恐怖小說《<a href="https://zh.wikipedia.org/wiki/暗水幽靈" title="wikilink">暗水幽靈</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>第16話</p></td>
@@ -319,7 +311,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p>吉本毅</p></td>
 <td><p>枡田邦彰<br />
 矢上孝一</p></td>
-<td><p><a href="../Page/雷·布萊伯利.md" title="wikilink">雷·布萊伯利的科幻小說</a><br />
+<td><p><a href="../Page/雷·布萊伯利.md" title="wikilink">雷·布萊伯利</a>的科幻小說<br />
 《<a href="../Page/華氏451度.md" title="wikilink">華氏451度</a>》</p></td>
 <td></td>
 </tr>
@@ -331,7 +323,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p>橘秀樹</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杉本功" title="wikilink">杉本功</a><br />
 金田英二</p></td>
-<td><p><a href="../Page/遠藤淑子.md" title="wikilink">遠藤淑子的同名漫畫</a></p></td>
+<td><p><a href="../Page/遠藤淑子.md" title="wikilink">遠藤淑子</a>的同名漫畫</p></td>
 </tr>
 <tr class="even">
 <td><p>第18話</p></td>
@@ -360,7 +352,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 <td><p>高田耕一</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉田隆彦" title="wikilink">吉田隆彦</a>、篁馨<br />
 阿部和彦</p></td>
-<td><p><a href="../Page/佛蘭西絲·莎崗.md" title="wikilink">佛蘭西絲·莎崗的同名小說</a></p></td>
+<td><p><a href="../Page/佛蘭西絲·莎崗.md" title="wikilink">佛蘭西絲·莎崗</a>的同名小說</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -427,7 +419,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 枡田邦彰、井嶋けい子<br />
 <a href="../Page/梅津泰臣.md" title="wikilink">梅津泰臣</a>、鉄羅紀明<br />
 薮野浩司、<a href="https://zh.wikipedia.org/wiki/金子拓" title="wikilink">金子拓</a></p></td>
-<td><p><a href="../Page/夏目漱石.md" title="wikilink">夏目漱石的同名小說</a></p></td>
+<td><p><a href="../Page/夏目漱石.md" title="wikilink">夏目漱石</a>的同名小說</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -444,10 +436,7 @@ View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月
 
 ### 三姊妹的名字由來
 
-三姊妹的名字，是取自活躍於香港電影界的女星[梅艷芳（Anita
-Mui）](../Page/梅艷芳.md "wikilink")、[張曼玉（Maggie
-Cheung）以及](../Page/張曼玉.md "wikilink")[楊紫瓊於早期作品所使用的藝名Michelle](https://zh.wikipedia.org/wiki/楊紫瓊 "wikilink")
-Khan，但姓氏與名字經過調換。
+三姊妹的名字，是取自活躍於香港電影界的女星[梅艷芳 Mui）](../Page/梅艷芳.md "wikilink")（Anita、[張曼玉 Cheung）以及](../Page/張曼玉.md "wikilink")（Maggie[楊紫瓊於早期作品所使用的藝名Michelle](https://zh.wikipedia.org/wiki/楊紫瓊 "wikilink") Khan，但姓氏與名字經過調換。
 
 ## 註釋
 
@@ -458,27 +447,17 @@ Khan，但姓氏與名字經過調換。
 
 ## 外部連結
 
-  - [R.O.D-THE TV-](http://www.sonymusic.co.jp/Animation/ROD/index.html)
-    - ANIPLEX
+  - [R.O.D-THE TV-](http://www.sonymusic.co.jp/Animation/ROD/index.html) - ANIPLEX
 
   - [R.O.D-THE TV-](http://www.fujitv.co.jp/b_hp/rodthetv/) - 富士電視台
 
   - [R.O.D-THE TV-](http://www.mxtv.co.jp/rod/) - TOKYO MX
 
-  - [R.O.D-THE
-    TV-](https://web.archive.org/web/20080421124503/http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=326)
-    - 萬代頻道
+  - [R.O.D-THE TV-](https://web.archive.org/web/20080421124503/http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=326) - 萬代頻道
 
   -
-  - [R.O.D-THE
-    TV-](http://www.jcstaff.co.jp/sakuhin/nenpyo/2003/07_r.o.d/r.o.d.htm)
-    - J.C.STAFF
+  - [R.O.D-THE TV-](http://www.jcstaff.co.jp/sakuhin/nenpyo/2003/07_r.o.d/r.o.d.htm) - J.C.STAFF
 
-[Category:2003年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2003年日本電視動畫 "wikilink")
-[Category:圖書館題材作品](https://zh.wikipedia.org/wiki/Category:圖書館題材作品 "wikilink")
-[Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:偵探主角題材動畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材動畫 "wikilink")
+[Category:2003年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2003年日本電視動畫 "wikilink") [Category:圖書館題材作品](https://zh.wikipedia.org/wiki/Category:圖書館題材作品 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:偵探主角題材動畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材動畫 "wikilink")
 
 1.  為本作登場人物菫川奈奈奈出道作使用的標題。

@@ -27,7 +27,6 @@
   - [官方網站（初回限定版B）](https://web.archive.org/web/20090308084113/http://wmg.jp/artist/gakky/WPCL000010663.html)
   - [官方網站（通常版）](https://web.archive.org/web/20090305054013/http://wmg.jp/artist/gakky/WPCL000010664.html)
 
-[Category:新垣結衣歌曲](https://zh.wikipedia.org/wiki/Category:新垣結衣歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
+[Category:新垣結衣歌曲](https://zh.wikipedia.org/wiki/Category:新垣結衣歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
 
 1.

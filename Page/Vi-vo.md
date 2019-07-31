@@ -85,8 +85,7 @@
 
   - 土方淳子
 
-  - [葉山郁美](../Page/葉山郁美.md "wikilink")（現所屬：[CLARE
-    VOICE](../Page/CLARE_VOICE.md "wikilink")）
+  - [葉山郁美](../Page/葉山郁美.md "wikilink")（現所屬：[CLARE VOICE](../Page/CLARE_VOICE.md "wikilink")）
 
   - （現所屬：Aksent）
 
@@ -98,16 +97,11 @@
 
   - [有限公司Vi-vo公式官網](http://www.vi-vo.jp/)
 
-[Category:Vi-vo](https://zh.wikipedia.org/wiki/Category:Vi-vo "wikilink")
-[Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:藝人經紀公司](https://zh.wikipedia.org/wiki/Category:藝人經紀公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:Vi-vo](https://zh.wikipedia.org/wiki/Category:Vi-vo "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:藝人經紀公司](https://zh.wikipedia.org/wiki/Category:藝人經紀公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
 
 1.
 
 2.
-3.  「vivo」《現代西班牙語辭典》電子書版，山田善郎他編，宮城昇、山田善郎監修，白水社，1999年1月，改訂版 ISBN
-    4-560-00046-8。
+3.  「vivo」《現代西班牙語辭典》電子書版，山田善郎他編，宮城昇、山田善郎監修，白水社，1999年1月，改訂版 ISBN 4-560-00046-8。
 
 4.

@@ -6,19 +6,10 @@
 
 1.  **Voyage**
       -
-        作曲：[CREA](../Page/CREA.md "wikilink") +
-        [D・A・I](../Page/長尾大.md "wikilink")／編曲：島健
+        作曲：[CREA](../Page/CREA.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink")／編曲：島健
         TBS電視台《my little chef》主題曲
-2.  **[HANABI](../Page/H_\(濱崎步單曲\).md "wikilink") "electrical Bossa
-    mix"**
+2.  **[HANABI](../Page/H_\(濱崎步單曲\).md "wikilink") "electrical Bossa mix"**
 3.  **[independent](../Page/H_\(濱崎步單曲\).md "wikilink") "SUGIURUMN MIX"**
 4.  **Voyage -Instrumental-**
 
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink")
-[Category:日本唱片大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎歌曲 "wikilink")
-[Category:日本有線大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎歌曲 "wikilink")
-[Category:2002年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2002年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink") [Category:日本唱片大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎歌曲 "wikilink") [Category:日本有線大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎歌曲 "wikilink") [Category:2002年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon單曲月榜冠軍作品 "wikilink") [Category:2002年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon單曲週榜冠軍作品 "wikilink") [Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

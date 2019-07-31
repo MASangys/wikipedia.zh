@@ -23,13 +23,9 @@
   - [Epiphany](https://zh.wikipedia.org/wiki/Epiphany "wikilink")
   - [Galeon](../Page/Galeon.md "wikilink")
   - [Mozilla Suite](../Page/Mozilla.md "wikilink")
-  - [Mozilla
-    Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
+  - [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
   - [SeaMonkey](../Page/SeaMonkey.md "wikilink")
-  - [Netscape 6](../Page/Netscape_6.md "wikilink")、[Netscape
-    7](../Page/Netscape_7.md "wikilink")、[Netscape
-    Browser](../Page/Netscape_Browser.md "wikilink")、[Netscape Navigator
-    9](../Page/Netscape_Navigator_9.md "wikilink")
+  - [Netscape 6](../Page/Netscape_6.md "wikilink")、[Netscape 7](../Page/Netscape_7.md "wikilink")、[Netscape Browser](../Page/Netscape_Browser.md "wikilink")、[Netscape Navigator 9](../Page/Netscape_Navigator_9.md "wikilink")
   - [Sylera](https://zh.wikipedia.org/wiki/Sylera "wikilink")
   - [K-Meleon](../Page/K-Meleon.md "wikilink")
   - [Camino](../Page/Camino.md "wikilink")
@@ -40,10 +36,8 @@
 
 ### [Trident](../Page/Trident_\(排版引擎\).md "wikilink")
 
-  - Windows版[Internet
-    Explorer](../Page/Internet_Explorer.md "wikilink")\[1\]
-  - [Avant
-    Browser](https://zh.wikipedia.org/wiki/Avant_Browser "wikilink")
+  - Windows版[Internet Explorer](../Page/Internet_Explorer.md "wikilink")\[1\]
+  - [Avant Browser](https://zh.wikipedia.org/wiki/Avant_Browser "wikilink")
   - [Sleipnir](../Page/Sleipnir.md "wikilink")\[2\]
   - [Grani](https://zh.wikipedia.org/wiki/Grani "wikilink")
   - [Lunascape](../Page/Lunascape.md "wikilink")\[3\]
@@ -59,10 +53,8 @@
 
 <references />
 
-[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
-[Category:圖形用戶界面](https://zh.wikipedia.org/wiki/Category:圖形用戶界面 "wikilink")
+[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:圖形用戶界面](https://zh.wikipedia.org/wiki/Category:圖形用戶界面 "wikilink")
 
 1.  \-{只}-有在2006年登場的7.0版直接具備分頁瀏覽機能，5.0以上的版本可以用裝MSN工具列的方式導入分頁瀏覽，但是以機能性來說不如其他分頁瀏覽器，另外MSN工具列會將數個視窗同時以分頁的方式顯示，並不能節省記憶體。[1](http://level.s69.xrea.com/mozilla/index.cgi?id=20050609_IE6_Tab)（日文說明）
-2.  Sleipnir 1.60之後的版本也可以使用Gecko排版引擎。但是使用Sleipnir 1.6x和Sleipnir
-    2.x的archive版本的時候需要另外安裝Gecko排版引擎的插件。
+2.  Sleipnir 1.60之後的版本也可以使用Gecko排版引擎。但是使用Sleipnir 1.6x和Sleipnir 2.x的archive版本的時候需要另外安裝Gecko排版引擎的插件。
 3.  Lunascape2之後的版本也可以使用Gecko排版引擎。

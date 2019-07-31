@@ -1,7 +1,6 @@
 [G36_CMag.jpg](https://zh.wikipedia.org/wiki/File:G36_CMag.jpg "fig:G36_CMag.jpg")（並非MG36）\]\]
 
-**C-Mag彈鼓**（Beta C-Mag、Century magazine，意為「世紀彈鼓」，簡稱C-Mag）是由吉姆·蘇利文（Jim
-Sullivan）設計的100發雙室型[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，主要提供給[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51毫米北約和](../Page/7.62×51mm_NATO.md "wikilink")[9×19毫米](https://zh.wikipedia.org/wiki/9mm鲁格弹 "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍械使用](../Page/枪械.md "wikilink")\[1\]。
+**C-Mag彈鼓**（Beta C-Mag、Century magazine，意為「世紀彈鼓」，簡稱C-Mag）是由吉姆·蘇利文（Jim Sullivan）設計的100發雙室型[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，主要提供給[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51毫米北約和](../Page/7.62×51mm_NATO.md "wikilink")[9×19毫米](https://zh.wikipedia.org/wiki/9mm鲁格弹 "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍械使用](../Page/枪械.md "wikilink")\[1\]。
 
 ## 設計
 
@@ -9,8 +8,7 @@ Sullivan）設計的100發雙室型[彈鼓](https://zh.wikipedia.org/wiki/彈鼓
 
 C-Mag大部份部件以[塑料](../Page/塑料.md "wikilink")製造，雙室左右對稱排列的設計，中間轉為直排彈匣適配器作連接，依靠旋轉彈簧及假彈鏈作推力將[子彈推進至供彈口](https://zh.wikipedia.org/wiki/子弹 "wikilink")，比一般的直排彈匣具有更多的裝彈量。早期型C-Mag採用全啞黑色外殼，而後期型改用了透明的後部外殼以便於射手快速觀看彈藥剩餘量\[2\]，亦有其他顏色的外殼提供。
 
-以[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")作舉例，一個對應M16、裝有100發5.56x45
-NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作供彈容器](../Page/STANAG彈匣.md "wikilink")，雖然四個共裝100發彈匣仍比裝有100發的C-Mag為輕，但C-Mag可連續發射而30發彈匣卻需更換四次。
+以[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")作舉例，一個對應M16、裝有100發5.56x45 NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作供彈容器](../Page/STANAG彈匣.md "wikilink")，雖然四個共裝100發彈匣仍比裝有100發的C-Mag為輕，但C-Mag可連續發射而30發彈匣卻需更換四次。
 
 ## 缺點
 
@@ -21,13 +19,11 @@ NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作�
 **[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")**
 
   - 所有相容[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")的槍械（包括[M16和](../Page/M16突擊步槍.md "wikilink")[M4](../Page/M4卡賓槍.md "wikilink")）
-  - [FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink")／[M249
-    SAW](../Page/M249班用自動武器.md "wikilink")
+  - [FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink")／[M249 SAW](../Page/M249班用自動武器.md "wikilink")
   - [HK13／23](../Page/HK23輕機槍.md "wikilink")／[33／53](../Page/HK33突擊步槍.md "wikilink")
   - [HK G36](../Page/HK_G36突擊步槍.md "wikilink")（包括MG36）
   - [Mini-14](../Page/儒格Mini-14半自動步槍.md "wikilink")
-  - [SIG SG
-    550／551](../Page/SIG_SG_550突擊步槍.md "wikilink")／[552](../Page/SIG_SG_552卡賓槍.md "wikilink")／[553](../Page/SIG_SG_553卡賓槍.md "wikilink")
+  - [SIG SG 550／551](../Page/SIG_SG_550突擊步槍.md "wikilink")／[552](../Page/SIG_SG_552卡賓槍.md "wikilink")／[553](../Page/SIG_SG_553卡賓槍.md "wikilink")
   - [斯泰爾AUG](../Page/斯泰爾AUG突擊步槍.md "wikilink")
   - [XM8](../Page/XM8突擊步槍.md "wikilink")
 
@@ -38,15 +34,13 @@ NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作�
   - [HK MP5](../Page/HK_MP5冲锋枪.md "wikilink")
   - [UZI](../Page/烏茲衝鋒槍.md "wikilink")
   - 9毫米格洛克手槍（[格洛克17](../Page/格洛克17.md "wikilink")、[格洛克18](../Page/格洛克18.md "wikilink")、[格洛克19](../Page/格洛克19.md "wikilink")、[格洛克26](../Page/格洛克26.md "wikilink")、[格洛克34](../Page/格洛克34.md "wikilink")）
-  - [Kel-Tec
-    SUB-2000卡賓槍](../Page/Kel-Tec_SUB-2000卡賓槍.md "wikilink")（9毫米格洛克手槍彈匣型）
+  - [Kel-Tec SUB-2000卡賓槍](../Page/Kel-Tec_SUB-2000卡賓槍.md "wikilink")（9毫米格洛克手槍彈匣型）
   - [KRISS Vector](../Page/KRISS_Vector衝鋒槍.md "wikilink")（9毫米格洛克手槍彈匣型）
 
 **[7.62×51毫米北約](../Page/7.62×51mm_NATO.md "wikilink")**
 
   - [M1A](../Page/春田M1A半自動步槍.md "wikilink")／[M14](../Page/M14自动步枪.md "wikilink")
-  - [HK G3](../Page/HK_G3自動步槍.md "wikilink")／[HK
-    91](https://zh.wikipedia.org/wiki/HK_41半自動步槍 "wikilink")
+  - [HK G3](../Page/HK_G3自動步槍.md "wikilink")／[HK 91](https://zh.wikipedia.org/wiki/HK_41半自動步槍 "wikilink")
   - [FN FAL](../Page/FN_FAL自動步槍.md "wikilink")
   - [FN SCAR-H戰鬥步槍](../Page/FN_SCAR突擊步槍.md "wikilink")
   - [雷明登MSR狙击步枪](https://zh.wikipedia.org/wiki/雷明登MSR狙击步枪 "wikilink")
@@ -55,8 +49,7 @@ NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作�
       - [史密斯威森軍警型M\&P10半自動步槍](../Page/史密斯威森軍警型M&P10半自動步槍.md "wikilink")
       - JP LRP07狙击步枪
       - BAER308狙击步枪
-      - KAC
-        [SR-25狙击步枪](https://zh.wikipedia.org/wiki/SR-25狙击步枪 "wikilink")
+      - KAC [SR-25狙击步枪](https://zh.wikipedia.org/wiki/SR-25狙击步枪 "wikilink")
 
 ## 用戶
 
@@ -72,39 +65,26 @@ NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作�
 
 ## 參考文獻
 
-  - [美國專利4,658,700](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4658700)（Beta
-    C-Mag）
+  - [美國專利4,658,700](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4658700)（Beta C-Mag）
   - [Beta Company](http://www.betaco.com/index.asp)
-  - *[C-MAG Results: ‘I’ll Stick with 30
-    Rounds’](https://web.archive.org/web/20130402223724/http://www.defendamerica.mil/articles/jul2003/a072803b.html)*
-    on [Defend
-    America](https://web.archive.org/web/20071029034517/http://www.defendamerica.mil/)
+  - *[C-MAG Results: ‘I’ll Stick with 30 Rounds’](https://web.archive.org/web/20130402223724/http://www.defendamerica.mil/articles/jul2003/a072803b.html)* on [Defend America](https://web.archive.org/web/20071029034517/http://www.defendamerica.mil/)
 
 ## 外部链接
 
   - —[Beta官方網頁](http://www.betaco.com/index.asp)
 
-  - —*[C-MAG Results: ‘I’ll Stick with 30
-    Rounds’](https://web.archive.org/web/20130402223724/http://www.defendamerica.mil/articles/jul2003/a072803b.html)*
-    on [Defend
-    America](https://web.archive.org/web/20071029034517/http://www.defendamerica.mil/)
+  - —*[C-MAG Results: ‘I’ll Stick with 30 Rounds’](https://web.archive.org/web/20130402223724/http://www.defendamerica.mil/articles/jul2003/a072803b.html)* on [Defend America](https://web.archive.org/web/20071029034517/http://www.defendamerica.mil/)
 
-  - —[D Boy Gun World—Beta
-    C-Mag](http://firearmsworld.net/usa/acces/beta-cmag/cmag.htm)
+  - —[D Boy Gun World—Beta C-Mag](http://firearmsworld.net/usa/acces/beta-cmag/cmag.htm)
 
 [Category:槍械零件](https://zh.wikipedia.org/wiki/Category:槍械零件 "wikilink")
 
 1.  [The Beta Company-產品](https://betaco.com/products.asp)
 
-2.  [Defense Review - Ultimax 100 MK4: Best Choice for USMC Infantry
-    Automatic Rifle (IAR)? Video
-    Clip](http://www.defensereview.com/modules.php?name=News&file=article&sid=853)
+2.  [Defense Review - Ultimax 100 MK4: Best Choice for USMC Infantry Automatic Rifle (IAR)? Video Clip](http://www.defensereview.com/modules.php?name=News&file=article&sid=853)
 
 3.   US Army report from Afganistan
 
-4.  [US Army Combat Readiness/Safety Center » Messages » » Ground »
-    Ground Precautionary Messages 2nd Quarter
-    FY02](https://crc.army.mil/Messages/detail.asp?iData=19&iCat=530&iChannel=14&nChannel=Messages)
-
+4.  [US Army Combat Readiness/Safety Center » Messages » » Ground » Ground Precautionary Messages 2nd Quarter FY02](https://crc.army.mil/Messages/detail.asp?iData=19&iCat=530&iChannel=14&nChannel=Messages)
 
 5.

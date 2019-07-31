@@ -21,11 +21,9 @@
 ## 外部链接
 
   - [Feist-Bénary反应的机理](http://books.google.com/books?id=6mZJ3084ouAC&pg=PA134&lpg=PA134&dq=Feist-Benary+synthesis&source=bl&ots=kv6i-nR9tN&sig=51xpa59LOTKy01RhFtM7GZ47BPQ&hl=en&ei=it_NSvmTLYOPkQW055T2Aw&sa=X&oi=book_result&ct=result&resnum=10#v=onepage&q=Feist-Benary%20synthesis&f=false)
-  - [Feist-Bénary Furan
-    Synthesis](http://books.google.com/books?id=1N-MZVSesTcC&pg=PA160&lpg=PA160&dq=Feist-Benary+synthesis&source=bl&ots=uhSahYk5cl&sig=_URQO0G_MwlrvjdvT3ViRkoFN4E&hl=en&ei=it_NSvmTLYOPkQW055T2Aw&sa=X&oi=book_result&ct=result&resnum=7#v=onepage&q=Feist-Benary%20synthesis&f=false)
+  - [Feist-Bénary Furan Synthesis](http://books.google.com/books?id=1N-MZVSesTcC&pg=PA160&lpg=PA160&dq=Feist-Benary+synthesis&source=bl&ots=uhSahYk5cl&sig=_URQO0G_MwlrvjdvT3ViRkoFN4E&hl=en&ei=it_NSvmTLYOPkQW055T2Aw&sa=X&oi=book_result&ct=result&resnum=7#v=onepage&q=Feist-Benary%20synthesis&f=false)
 
-[Category:杂环合成反应](https://zh.wikipedia.org/wiki/Category:杂环合成反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:杂环合成反应](https://zh.wikipedia.org/wiki/Category:杂环合成反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

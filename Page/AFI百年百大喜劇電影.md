@@ -1,5 +1,4 @@
-**AFI百年百大喜劇電影**（**AFI's 100 Years... 100
-Laughs**），[美国电影学会](../Page/美国电影学会.md "wikilink")（AFI）於2000年從400部被提名[電影中](https://zh.wikipedia.org/wiki/電影 "wikilink")，評選出100部百年來最偉大的[喜劇片名單](../Page/喜劇.md "wikilink")，作為美国电影学院的“百年百大”系列的一个重要部分。
+**AFI百年百大喜劇電影**（**AFI's 100 Years... 100 Laughs**），[美国电影学会](../Page/美国电影学会.md "wikilink")（AFI）於2000年從400部被提名[電影中](https://zh.wikipedia.org/wiki/電影 "wikilink")，評選出100部百年來最偉大的[喜劇](../Page/喜劇.md "wikilink")片名單，作為美国电影学院的“百年百大”系列的一个重要部分。
 
 ## AFI百年百大喜劇電影
 

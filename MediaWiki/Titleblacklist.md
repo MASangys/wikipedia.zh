@@ -1,5 +1,5 @@
 `# -{}-本页面为“标题黑名单”`
-`# 任何匹配本名单`[`正则表达式的标题会被阻止建立和编辑`](../Page/正则表达式.md "wikilink")`。`
+`# 任何匹配本名单`[`正则表达式`](../Page/正则表达式.md "wikilink")的标题会被阻止建立和编辑`。`
 `# 本页面用来添加有共性的某一类要被阻止的标题，如果一个很明确的标题要被阻止，请直接在该标题的页面内用保护页面的方式进行。`
 `# 請使用「< >」添加屬性，並將屬性寫在括號內（見下面屬性解釋）。如果含有多個屬性，請用「|」分隔。`
 `# 请使用“#”来添加注释。如果項目設有屬性，注意必須寫在屬性的後面。`
@@ -17,6 +17,8 @@
 `# 請注意 newaccountonly 在本地不再有效，請加入至`[`Special:滥用过滤器/194`](https://zh.wikipedia.org/wiki/Special:滥用过滤器/194 "wikilink")
 
 `#未整理`
+`.*(國瑜|換瑜).* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
+`.*王[則则]翠慈善基金.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 持续绕过存废讨论删除决定`
 `.*邱士縉.* <errmsg=Titleblacklist-fullprotected> # 持續繞過存廢討論刪除決定`
 `^[\d-]+$ <autoconfirmed|errmsg=Titleblacklist-semiprotected> # X43破壞和韓文廣告或無意義內容破壞`
 `^[^:]*沙盒.*$ `<autoconfirmed>
@@ -327,6 +329,7 @@
 `Template:.*主[题題]名[称稱].*`
 `Template:Editnotices\/.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
 `Template\:(?:Efn|Notelist)(?!\/doc$|\/Sandbox$|\/沙盒$).* <noedit|errmsg=Titleblacklist-fullprotected> #高風險模板系列`
+`Template:Editnotices\/Namespace\/((?!doc$|Sandbox$|沙盒$).)* <noedit|errmsg=Titleblacklist-fullprotected> #高風險模板系列`
 
 `#項目頁面`
 `Wikipedia:.* `<autoconfirmed>` #祇允許自動確認用戶創建計畫頁面`
@@ -525,9 +528,7 @@
 `.*kzm\.pas.*  #used to create malicious user talk subpages`
 `.*zilog\s*head.* `<autoconfirmed>` # Prolific sock GEORGIEGIBBONS`
 `.*on\s*wheels.*edition.* `<autoconfirmed>
-`.*shakur green.* #Recreation under different titles; see `[`Wikipedia:Articles``
- ``for``   ``deletion/Shakur``
- ``Green`](https://zh.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Shakur_Green "wikilink")
+`.*shakur green.* #Recreation under different titles; see `[`Wikipedia:Articles``   ``for``   ``deletion/Shakur``   ``Green`](https://zh.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Shakur_Green "wikilink")
 `.* shitt?ing in .*'?s? mouth #A specific page which needs to be SALTed and redacted`
 `.* fucking bastard.* #A specific page which needs to be SALTed and redacted`
 `.* first male to female transsexuall #A specific page which needs to be SALTed and redacted`

@@ -1,4 +1,4 @@
-是指[光榮在](https://zh.wikipedia.org/wiki/光榮 "wikilink")1993年推出的[第二次世界大戰海戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")──[提督之決斷系列的第二代作品](../Page/提督之決斷系列.md "wikilink")。
+是指[光榮在](https://zh.wikipedia.org/wiki/光榮 "wikilink")1993年推出的[第二次世界大戰海戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")──[提督之決斷系列](../Page/提督之決斷系列.md "wikilink")的第二代作品。
 
 ## 概要
 
@@ -55,16 +55,6 @@
 
 ## 参考资料
 
-[Category:提督之決斷系列](https://zh.wikipedia.org/wiki/Category:提督之決斷系列 "wikilink")
-[Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink")
-[Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink")
-[Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink")
-[Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
-[Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")
+[Category:提督之決斷系列](https://zh.wikipedia.org/wiki/Category:提督之決斷系列 "wikilink") [Category:1993年电子游戏](https://zh.wikipedia.org/wiki/Category:1993年电子游戏 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink") [Category:PC-9801游戏](https://zh.wikipedia.org/wiki/Category:PC-9801游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")
 
-1.  *New Games Cross Review - 堤督の決断II* . Weekly Famitsu. No.323. Pg.38.
-    24 February 1995.
+1.  *New Games Cross Review - 堤督の決断II* . Weekly Famitsu. No.323. Pg.38. 24 February 1995.

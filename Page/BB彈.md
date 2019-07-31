@@ -1,42 +1,22 @@
-[BB_copper_and_nickel_plated.jpg](https://zh.wikipedia.org/wiki/File:BB_copper_and_nickel_plated.jpg "fig:BB_copper_and_nickel_plated.jpg")
-**BB弹**是供[气枪发射使用的一种球状金属](https://zh.wikipedia.org/wiki/气枪 "wikilink")[弹丸](https://zh.wikipedia.org/wiki/弹丸 "wikilink")，也是最常见的气枪弹种类之一。BB弹通常是镀铜或镀锌的钢制球体，最常见的直径有和，但也有比钢珠尺寸稍大的老式[铅弹丸](https://zh.wikipedia.org/wiki/铅弹丸 "wikilink")，配合相应[口径的气枪使用](https://zh.wikipedia.org/wiki/口径 "wikilink")。BB弹的材质不同会影响其种类及击发速度，较轻的BB弹[枪口初速更快](https://zh.wikipedia.org/wiki/枪口初速 "wikilink")，但更容易受到空气影响发生偏移；相比之下较重的BB弹初速较低射程较短，但受空气影响小，精度更高。
+[BB_copper_and_nickel_plated.jpg](https://zh.wikipedia.org/wiki/File:BB_copper_and_nickel_plated.jpg "fig:BB_copper_and_nickel_plated.jpg") **BB弹**是供[气枪发射使用的一种球状金属](https://zh.wikipedia.org/wiki/气枪 "wikilink")[弹丸](https://zh.wikipedia.org/wiki/弹丸 "wikilink")，也是最常见的气枪弹种类之一。BB弹通常是镀铜或镀锌的钢制球体，最常见的直径有和，但也有比钢珠尺寸稍大的老式[铅弹丸](https://zh.wikipedia.org/wiki/铅弹丸 "wikilink")，配合相应[口径的气枪使用](https://zh.wikipedia.org/wiki/口径 "wikilink")。BB弹的材质不同会影响其种类及击发速度，较轻的BB弹[枪口初速更快](https://zh.wikipedia.org/wiki/枪口初速 "wikilink")，但更容易受到空气影响发生偏移；相比之下较重的BB弹初速较低射程较短，但受空气影响小，精度更高。
 
 [软气枪](../Page/软气枪.md "wikilink")使用的6毫米（少数是8毫米）塑料弹因为也是球形，加上软气枪发射原理和气枪相似，因此也经常被（不准确的）俗称为“BB弹”。
 
 ## 历史
 
-据考究的说法，\[1\]最早的BB弹是来自[霰弹枪的弹药](https://zh.wikipedia.org/wiki/霰弹枪 "wikilink")。1886年，第一把发射球形弹的木质弹簧活塞气枪——“挑战者”型（Challenger
-Model）气枪——在密歇根州的普利茅斯被马克汉姆气步枪公司（Markham Air Rifle
-Company）的威廉·F·马克汉姆（William F.
-Markham）发明（也有传闻发明者是George W.
-Sage），当时为了方便设计直接采用了猎枪[霰弹弹丸中常见的](https://zh.wikipedia.org/wiki/霰弹弹丸 "wikilink")“BB”尺寸（0.180[英寸直径](https://zh.wikipedia.org/wiki/英寸 "wikilink")）[鸟弹作为标准枪弹](https://zh.wikipedia.org/wiki/霰弹#鸟弹 "wikilink")。与此同时，钟表匠兼业余发明家克拉伦斯·J·哈密尔顿（Clarence
-J. Hamilton）创立了普利茅斯气步枪公司（Plymouth Air Rifle
-Company），也开始生产同类的BB口径木质气枪与马克汉姆竞争。但两年之后，哈密尔顿抢先设计出了全金属BB枪，并且交给自己合作伙伴的普利茅斯铁风车公司（Plymouth
-Iron Windmill Company）去批量生产。因为当时铁风车公司的共同创建人兼总经理刘易斯·霍夫（Lewis Cass
-Hough）在试枪后感叹赞许“It's a
-Daisy\!”（当时流行的美国俗语，意思就是非常出色），这款日后远近闻名的球弹气枪就被命名为“菊花BB枪”（Daisy
-BB
-gun），被公司用来捆绑促销风车。但之后几年内风车的销量不见好转，菊花枪系列却十分成功供不应求，以至于公司干脆放弃原来的业务改为重点生产气枪，公司名也改成了雏菊制造公司（Daisy
-Manufacturing Company，既现在的雏菊户外产品公司），在20年后还收购了对手马克汉姆公司，成为了至今最著名的气枪生产商之一。
+据考究的说法，\[1\]最早的BB弹是来自[霰弹枪的弹药](https://zh.wikipedia.org/wiki/霰弹枪 "wikilink")。1886年，第一把发射球形弹的木质弹簧活塞气枪——“挑战者”型（Challenger Model）气枪——在密歇根州的普利茅斯被马克汉姆气步枪公司（Markham Air Rifle Company）的威廉·F·马克汉姆（William F. Markham）发明（也有传闻发明者是George W. Sage），当时为了方便设计直接采用了猎枪[霰弹弹丸中常见的](https://zh.wikipedia.org/wiki/霰弹弹丸 "wikilink")“BB”尺寸（0.180[英寸直径](https://zh.wikipedia.org/wiki/英寸 "wikilink")）[鸟弹作为标准枪弹](https://zh.wikipedia.org/wiki/霰弹#鸟弹 "wikilink")。与此同时，钟表匠兼业余发明家克拉伦斯·J·哈密尔顿（Clarence J. Hamilton）创立了普利茅斯气步枪公司（Plymouth Air Rifle Company），也开始生产同类的BB口径木质气枪与马克汉姆竞争。但两年之后，哈密尔顿抢先设计出了全金属BB枪，并且交给自己合作伙伴的普利茅斯铁风车公司（Plymouth Iron Windmill Company）去批量生产。因为当时铁风车公司的共同创建人兼总经理刘易斯·霍夫（Lewis Cass Hough）在试枪后感叹赞许“It's a Daisy\!”（当时流行的美国俗语，意思就是非常出色），这款日后远近闻名的球弹气枪就被命名为“菊花BB枪”（Daisy BB gun），被公司用来捆绑促销风车。但之后几年内风车的销量不见好转，菊花枪系列却十分成功供不应求，以至于公司干脆放弃原来的业务改为重点生产气枪，公司名也改成了雏菊制造公司（Daisy Manufacturing Company，既现在的雏菊户外产品公司），在20年后还收购了对手马克汉姆公司，成为了至今最著名的气枪生产商之一。
 
-在20世纪初期，雏菊公司开始自己定制气枪弹丸，并且决定将弹丸尺寸从0.180英寸修改成0.175英寸，用改小尺寸带来弹丸初速的增加。虽然弹丸已经不再是BB尺寸，而且官方对外的正式叫法是“圆弹丸”（round
-shot），但是因为当年BB口径的菊花枪给人的印象太深，以至于“BB弹”和“BB枪”这些名字就被约定俗成的保留了下来。
+在20世纪初期，雏菊公司开始自己定制气枪弹丸，并且决定将弹丸尺寸从0.180英寸修改成0.175英寸，用改小尺寸带来弹丸初速的增加。虽然弹丸已经不再是BB尺寸，而且官方对外的正式叫法是“圆弹丸”（round shot），但是因为当年BB口径的菊花枪给人的印象太深，以至于“BB弹”和“BB枪”这些名字就被约定俗成的保留了下来。
 
 ### 轴承滚珠
 
-BB弹还有个著名的传说，说明“BB弹”的称呼一部分还是来自于[轴承](../Page/轴承.md "wikilink")中使用的滚珠。\[2\]1920年代中期开始，雏菊制造公司便大量收到送廠維修的BB枪，其原因多為槍管破裂，而這些枪支大部分来自[明尼苏达州的](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[明尼阿波利斯地区](https://zh.wikipedia.org/wiki/明尼阿波利斯 "wikilink")。因此公司创始人的孙子卡斯·S·霍夫（Cass
-S. Hough）就亲自前往这个城市以了解产生问题的原因，而他这次旅行的发现將大幅地影響了BB弹日後的發展。
+BB弹还有个著名的传说，说明“BB弹”的称呼一部分还是来自于[轴承](../Page/轴承.md "wikilink")中使用的滚珠。\[2\]1920年代中期开始，雏菊制造公司便大量收到送廠維修的BB枪，其原因多為槍管破裂，而這些枪支大部分来自[明尼苏达州的](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[明尼阿波利斯地区](https://zh.wikipedia.org/wiki/明尼阿波利斯 "wikilink")。因此公司创始人的孙子卡斯·S·霍夫（Cass S. Hough）就亲自前往这个城市以了解产生问题的原因，而他这次旅行的发现將大幅地影響了BB弹日後的發展。
 
-明尼阿波利斯的美国滚珠公司（American Ball
-Company）当时已经注意到当地男孩们经常在废弃的[滚珠轴承中翻找剩余滚珠来满足自己对玩具气枪弹的需求](https://zh.wikipedia.org/wiki/滚珠轴承 "wikilink")，原因是菊花生产的BB铅弹很昂貴，对零用钱不多却又好玩的孩子来说是个大问题。美国滚珠公司的经理意识到气枪弹是一个巨大的市场，于是他们开始生产并销售钢制的“公牛眼”
-（Bulls
-Eye）弹。美国滚珠公司视BB射击为非精密射击，所以他们不严格控制他们的公牛眼弹药的公差，过大的钢球在BB枪管内使用困难，加上钢珠比铅珠硬度高，有时会撕裂枪管或卡住。
+明尼阿波利斯的美国滚珠公司（American Ball Company）当时已经注意到当地男孩们经常在废弃的[滚珠轴承中翻找剩余滚珠来满足自己对玩具气枪弹的需求](https://zh.wikipedia.org/wiki/滚珠轴承 "wikilink")，原因是菊花生产的BB铅弹很昂貴，对零用钱不多却又好玩的孩子来说是个大问题。美国滚珠公司的经理意识到气枪弹是一个巨大的市场，于是他们开始生产并销售钢制的“公牛眼” （Bulls Eye）弹。美国滚珠公司视BB射击为非精密射击，所以他们不严格控制他们的公牛眼弹药的公差，过大的钢球在BB枪管内使用困难，加上钢珠比铅珠硬度高，有时会撕裂枪管或卡住。
 
 霍夫将这个消息带回后，雏菊管理层最初认为钢制弹丸不构成真正的竞争威胁，因为他们的用户说明书明确警告射手只能用菊花铅粒。但霍夫认为，改去生产钢珠弹丸会增加收益，因为钢珠生产成本低，又能达到更佳的膛速，除非该公司希望为了坚持原则而受到对手打击，他们最好还是用这个方案。最终霍夫说服了高层管理人员，并在1928年和美国滚珠公司写下一个协议，据此雏菊成为“公牛眼”钢珠弹的独家分销商，雏菊也借此机会了解了全球分销渠道的利润和美国滚珠公司的市场份额。最重要的是，菊花获得了对BB弹的规格控制也解决了损坏枪管的问题。十年后，雏菊买下了美国滚珠公司，使“公牛眼”成为雏菊的内部品牌。
 
-由于新式钢珠BB弹的上市和霍夫的明尼苏达之旅以及与美国滚珠公司的商业合作密不可分，轴承滚珠（bearing
-ball）的英文缩写恰好又是“BB”，因此更使人们认为“BB弹”就是来自于“轴承滚珠”的缩写。而现今有人干脆把“BB”直接解释成“滚珠弹”（ball
-bullet）。
+由于新式钢珠BB弹的上市和霍夫的明尼苏达之旅以及与美国滚珠公司的商业合作密不可分，轴承滚珠（bearing ball）的英文缩写恰好又是“BB”，因此更使人们认为“BB弹”就是来自于“轴承滚珠”的缩写。而现今有人干脆把“BB”直接解释成“滚珠弹”（ball bullet）。
 
 ## 口径
 
@@ -53,15 +33,13 @@ bullet）。
 
 ## 软气枪弹
 
-[Airsoft_pellets.jpg](https://zh.wikipedia.org/wiki/File:Airsoft_pellets.jpg "fig:Airsoft_pellets.jpg")
-[生存游戏中使用的](https://zh.wikipedia.org/wiki/生存游戏 "wikilink")[软气枪](../Page/软气枪.md "wikilink")，从原理上属于威力很低的一种气枪。软气枪通常发射的是6毫米（少数情况能看到8毫米）尺寸的塑料弹丸，[密度](../Page/密度.md "wikilink")仅有不到钢珠BB弹的四分之一、铅制BB弹的六分之一，枪口动能通常最高也只有气枪弹的十分之一。由于材质原因，软气枪弹不能承受太大的压力，如果使用威力大得多的气枪去发射软气枪弹，首先尺寸不匹配（基本上找不到6毫米口径的气枪），其次强行射击可能会使得塑料弹丸在枪内膛压的作用下发生碎裂。虽然软气枪弹从材质（非金属，较轻、较脆）和尺寸（相当于“\#4”号[鹿弹的大小](https://zh.wikipedia.org/wiki/霰弹#鹿弹 "wikilink")）上都和BB弹大不相同，但是因为外形相似（都是球体），加上软气枪的发射原理和普通气枪基本一致，所以软气枪弹通常也被玩家叫成“BB弹”——虽然从科学角度来说这种称呼是错误的。
+[Airsoft_pellets.jpg](https://zh.wikipedia.org/wiki/File:Airsoft_pellets.jpg "fig:Airsoft_pellets.jpg") [生存游戏中使用的](https://zh.wikipedia.org/wiki/生存游戏 "wikilink")[软气枪](../Page/软气枪.md "wikilink")，从原理上属于威力很低的一种气枪。软气枪通常发射的是6毫米（少数情况能看到8毫米）尺寸的塑料弹丸，[密度](../Page/密度.md "wikilink")仅有不到钢珠BB弹的四分之一、铅制BB弹的六分之一，枪口动能通常最高也只有气枪弹的十分之一。由于材质原因，软气枪弹不能承受太大的压力，如果使用威力大得多的气枪去发射软气枪弹，首先尺寸不匹配（基本上找不到6毫米口径的气枪），其次强行射击可能会使得塑料弹丸在枪内膛压的作用下发生碎裂。虽然软气枪弹从材质（非金属，较轻、较脆）和尺寸（相当于“\#4”号[鹿弹的大小](https://zh.wikipedia.org/wiki/霰弹#鹿弹 "wikilink")）上都和BB弹大不相同，但是因为外形相似（都是球体），加上软气枪的发射原理和普通气枪基本一致，所以软气枪弹通常也被玩家叫成“BB弹”——虽然从科学角度来说这种称呼是错误的。
 
 因为生存游戏是人与人之间的对抗运动，出于安全方面的考虑，有实际杀伤力的普通气枪以及金属、玻璃或者陶瓷材料制造的弹丸是厉行禁止绝不允许在目标为人的情况下使用。而软气枪弹因为对人体的穿透力和停止作用近乎为零（除非近距离击中暴露的薄弱部位，比如眼睛），基本上没有任何杀伤力，所以只要稍稍佩戴防护器具（比如[护目镜](../Page/护目镜.md "wikilink")）就可以安全的用于室内和戶外的模擬战斗，培养射击技巧、观察力、反应力、專注力及耐心、战术意识和团队合作精神。
 
 ### 材料和物理性质
 
-软气枪弹的生产商有日本的东京丸井（Tokyo Marui）、香港的G &
-P、台灣的魏嘉(VFC)、怪怪(G\&G)、毒蛇(Viper)、偉益(We)等，也有代工工厂的无名产品等，还有的在美国、欧洲和韩国的生产商。依制作工艺和材料不同，软气枪弹重量在0.12克到1克之间，直径为4.5毫米。但也有6毫米、8毫米或其他规格的小球。6毫米口径电动软气枪常用0.20克、0.25克这两种规格，加重的以至于0.30克，狙击枪使用更精密且加重的子弹，常见0.36克、0.40克、0.43克。弹丸一般以[-{zh-cn:塑料;zh-tw:塑膠;}-制成](../Page/塑料.md "wikilink")，但是也有较危險的比如[玻璃](../Page/玻璃.md "wikilink")製、陶瓷制、相当于大号BB弹的[金属](../Page/金属.md "wikilink")製，甚至是[火药](../Page/火药.md "wikilink")製（其目的是製造聲光效果）的弹丸，这些危险材料一般禁止对人射击使用，而是用于打靶。另外还有内含或者外涂颜料的彩蛋（射出后遭受撞击会将颜料释出并残余在目标表面标示出中弹，犹如[漆弹](https://zh.wikipedia.org/wiki/漆弹 "wikilink")）及荧光弹（经发光器材照射后暗处会发出微弱光芒，于黑暗时射击后留下一条如[曳光弹的轨迹](https://zh.wikipedia.org/wiki/曳光弹 "wikilink")）等特殊BB弹。
+软气枪弹的生产商有日本的东京丸井（Tokyo Marui）、香港的G & P、台灣的魏嘉(VFC)、怪怪(G\&G)、毒蛇(Viper)、偉益(We)等，也有代工工厂的无名产品等，还有的在美国、欧洲和韩国的生产商。依制作工艺和材料不同，软气枪弹重量在0.12克到1克之间，直径为4.5毫米。但也有6毫米、8毫米或其他规格的小球。6毫米口径电动软气枪常用0.20克、0.25克这两种规格，加重的以至于0.30克，狙击枪使用更精密且加重的子弹，常见0.36克、0.40克、0.43克。弹丸一般以[-{zh-cn:塑料;zh-tw:塑膠;}-制成](../Page/塑料.md "wikilink")，但是也有较危險的比如[玻璃](../Page/玻璃.md "wikilink")製、陶瓷制、相当于大号BB弹的[金属](../Page/金属.md "wikilink")製，甚至是[火药](../Page/火药.md "wikilink")製（其目的是製造聲光效果）的弹丸，这些危险材料一般禁止对人射击使用，而是用于打靶。另外还有内含或者外涂颜料的彩蛋（射出后遭受撞击会将颜料释出并残余在目标表面标示出中弹，犹如[漆弹](https://zh.wikipedia.org/wiki/漆弹 "wikilink")）及荧光弹（经发光器材照射后暗处会发出微弱光芒，于黑暗时射击后留下一条如[曳光弹的轨迹](https://zh.wikipedia.org/wiki/曳光弹 "wikilink")）等特殊BB弹。
 
 因为生存游戏会在[自然环境](../Page/自然环境.md "wikilink")中留下大量不易清扫的残留弹丸，这弹丸弹如果持续留存将会造成[塑料污染](../Page/塑料污染.md "wikilink")。所以已经有厂家开始生产并销售以[树脂](../Page/树脂.md "wikilink")等[生物可分解塑胶为材料的弹丸](https://zh.wikipedia.org/wiki/生物可分解塑胶 "wikilink")。这些可[生物降解的弹丸成本要高于传统的塑料弹丸](https://zh.wikipedia.org/wiki/生物降解 "wikilink")，但是因为更环保已经开始占据越来越多的市场份额。
 
@@ -69,8 +47,7 @@ P、台灣的魏嘉(VFC)、怪怪(G\&G)、毒蛇(Viper)、偉益(We)等，也有
 
 ## 外部链接
 
-[nl:Airsoft\#Verschillende soorten
-replica's](https://zh.wikipedia.org/wiki/nl:Airsoft#Verschillende_soorten_replica's "wikilink")
+[nl:Airsoft\#Verschillende soorten replica's](https://zh.wikipedia.org/wiki/nl:Airsoft#Verschillende_soorten_replica's "wikilink")
 
 [Category:弹药](https://zh.wikipedia.org/wiki/Category:弹药 "wikilink")
 

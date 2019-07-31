@@ -1,10 +1,8 @@
 **白朗寧Auto-5**（，簡稱：**Auto-5**、**A-5**，意為：白朗寧自動五發式霰彈槍）是一款由[美国](../Page/美国.md "wikilink")著名[輕兵器设计家](https://zh.wikipedia.org/wiki/輕兵器 "wikilink")[约翰·勃朗宁](../Page/约翰·勃朗宁.md "wikilink")所研製、[後座作用](../Page/後座作用.md "wikilink")操作的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可發射[12鉛徑、16鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
-這也是全球第一枝設計獲得成功的自動裝填霰彈槍，甚至直到1998年以前仍然在生產。而「Automatic
-5」之名來自這枝自動裝填霰彈槍的5發霰彈藥筒裝彈量，其中4發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室](../Page/膛室.md "wikilink")之內。
+這也是全球第一枝設計獲得成功的自動裝填霰彈槍，甚至直到1998年以前仍然在生產。而「Automatic 5」之名來自這枝自動裝填霰彈槍的5發霰彈藥筒裝彈量，其中4發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室](../Page/膛室.md "wikilink")之內。
 
-為了便捷起見，以下本文將以Auto-5之作為文章中的簡稱。
-[Browning_Auto_5_zerlegt.JPG](https://zh.wikipedia.org/wiki/File:Browning_Auto_5_zerlegt.JPG "fig:Browning_Auto_5_zerlegt.JPG")以後的白朗寧Auto-5。\]\]
+為了便捷起見，以下本文將以Auto-5之作為文章中的簡稱。 [Browning_Auto_5_zerlegt.JPG](https://zh.wikipedia.org/wiki/File:Browning_Auto_5_zerlegt.JPG "fig:Browning_Auto_5_zerlegt.JPG")以後的白朗寧Auto-5。\]\]
 
 ## 歷史
 
@@ -32,8 +30,7 @@ Auto-5在[第一次世界大战](../Page/第一次世界大战.md "wikilink")至
 
 白朗寧與國營赫斯塔爾公司簽訂了生產合同以後，仍然幫助他們進行生產，同時他亦對國營赫斯塔爾公司生產的白朗寧Auto-5進行嚴格測試。白朗寧Auto-5的生產在美國雷明登公司買下特許生產權以後仍在進行，並且在歐洲一直熱賣。直到[二戰爆發以前](../Page/第二次世界大战.md "wikilink")，國營赫斯塔爾公司才停止白朗寧Auto-5的生產。
 
-白朗寧其後從國營赫斯塔爾公司一次性訂購了10,000枝，並且帶回[美国](../Page/美国.md "wikilink")銷售，而這些槍就在一年以內全部出售一空。這個成就讓白朗寧感覺到僅在比利時生產該槍是不足以滿足美國國內市場的需求，而這時美國[雷明登武器公司](../Page/雷明登武器公司.md "wikilink")亦想再度與白朗寜進行合作，所以與白朗寧經過談判以後，達成了特許生產許可的協議，白朗寜把美國國內的生產權賣給雷明登公司。而雷明登公司在1905年買下生產權以後開始生產其白朗寧Auto-5，並且將這些霰彈槍重新命名為**雷明登11**（）。雷明登11是美國歷史上第一枝自動裝填霰彈槍。雷明登公司從1905年開始生產，直到在1947年生產結束以前，期間總共生產了850,000枝各種口徑和長度的雷明登11。隨後，雷明登公司對白朗寧的設計進行修改，並推出了[雷明登11-48](../Page/雷明登11-48半自動霰彈槍.md "wikilink")。
-後來也有槍械製造商取得特許生產，包括在1930年至1949年期間的[萨维奇武器公司](../Page/萨维奇武器公司.md "wikilink")所生產的M720和M745（使用合金[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")）和[意大利](../Page/意大利.md "wikilink")[路易吉·弗蘭基](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")。\[3\]勃朗宁的[長後座行程作用設計本身並作為後來的雷明登](../Page/後座作用.md "wikilink")11-48、薩維奇M755和M775、[弗蘭基AL-48等型號的槍機操作系統的範本](../Page/弗蘭基AL-48半自動霰彈槍.md "wikilink")。
+白朗寧其後從國營赫斯塔爾公司一次性訂購了10,000枝，並且帶回[美国](../Page/美国.md "wikilink")銷售，而這些槍就在一年以內全部出售一空。這個成就讓白朗寧感覺到僅在比利時生產該槍是不足以滿足美國國內市場的需求，而這時美國[雷明登武器公司](../Page/雷明登武器公司.md "wikilink")亦想再度與白朗寜進行合作，所以與白朗寧經過談判以後，達成了特許生產許可的協議，白朗寜把美國國內的生產權賣給雷明登公司。而雷明登公司在1905年買下生產權以後開始生產其白朗寧Auto-5，並且將這些霰彈槍重新命名為**雷明登11**（）。雷明登11是美國歷史上第一枝自動裝填霰彈槍。雷明登公司從1905年開始生產，直到在1947年生產結束以前，期間總共生產了850,000枝各種口徑和長度的雷明登11。隨後，雷明登公司對白朗寧的設計進行修改，並推出了[雷明登11-48](../Page/雷明登11-48半自動霰彈槍.md "wikilink")。 後來也有槍械製造商取得特許生產，包括在1930年至1949年期間的[萨维奇武器公司](../Page/萨维奇武器公司.md "wikilink")所生產的M720和M745（使用合金[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")）和[意大利](../Page/意大利.md "wikilink")[路易吉·弗蘭基](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")。\[3\]勃朗宁的[長後座行程作用設計本身並作為後來的雷明登](../Page/後座作用.md "wikilink")11-48、薩維奇M755和M775、[弗蘭基AL-48等型號的槍機操作系統的範本](../Page/弗蘭基AL-48半自動霰彈槍.md "wikilink")。
 
 從[比利時生產開始](https://zh.wikipedia.org/wiki/比利時 "wikilink")，一直持續到二戰時期，白朗寧已經完全把其生產權交給了美國雷明登公司。期間，[美国陆军](../Page/美国陆军.md "wikilink")和其他國家的軍隊都大量使用雷明登公司生產的霰彈槍，典型型號有雷明登11A和雷明登12霰彈槍。\[4\]和雷明登11相反，現在雷明頓公司生產的白朗寧霰彈槍裝有[彈倉切斷裝置](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。當這裝置被啟動，就會阻止彈倉裝載下一發的霰彈藥筒，而且排彈殼口被打開。這使得使用者能夠在無需首先用盡整個[彈倉的霰彈藥筒後這個情況下裝載一發特殊的霰彈藥筒](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。在1947年生產結束前總共生產了850,000枝各種口徑和長度的雷明登11。
 
@@ -51,8 +48,7 @@ Auto-5在[第一次世界大战](../Page/第一次世界大战.md "wikilink")至
 
 白朗寧Auto-5是一枝採用了在當研製時罕見的[槍管長行程後座作用式自動原理操作的半自動霰彈槍](https://zh.wikipedia.org/wiki/後座作用#槍管長行程後座作用 "wikilink")，而霰彈藥筒與[泵動式霰彈槍一樣會儲藏在](https://zh.wikipedia.org/wiki/泵動式霰彈槍 "wikilink")[槍管](../Page/槍管.md "wikilink")下方的[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。
 
-裝填霰彈藥筒時，下一發霰彈藥筒會因底部的管式彈倉內部的[弹簧](../Page/弹簧.md "wikilink")拿出，然後會自動被推到膛室內。大部份Auto-5的管式彈倉都有可拆卸塞子以
-防止裝填超過3發霰彈藥筒（其中2發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室](../Page/膛室.md "wikilink")之內）。這樣是為了遵守美國聯邦某些州份的槍械管制法律，以及一些國家槍械狩獵法律。但如果把塞子拆卸的話，全槍總容量就是5發霰彈藥筒（不發射麥格農霰彈藥筒以下）。該槍設有空倉掛機，如果所有槍彈發射完畢（或者空槍狀態下後拉動），槍機會停在後方以保持槍膛開啟。此時如果直接向管式彈倉內裝填一發槍彈，這發槍彈會被自動送入槍膛并解除空倉掛機，槍機向前完成閉鎖，即刻可以發射。所以當裝填打空的Auto-5時，只需連續向彈倉內塞入5發槍彈即可，無需其他操作就能馬上射擊。所以，相對於其他各類管式彈倉供彈的霰彈槍（先上膛一發槍彈然後再填滿彈倉才能達到最大裝彈量），Auto-5的這個設計明顯更加方便，自然廣受歡迎。
+裝填霰彈藥筒時，下一發霰彈藥筒會因底部的管式彈倉內部的[弹簧](../Page/弹簧.md "wikilink")拿出，然後會自動被推到膛室內。大部份Auto-5的管式彈倉都有可拆卸塞子以 防止裝填超過3發霰彈藥筒（其中2發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室](../Page/膛室.md "wikilink")之內）。這樣是為了遵守美國聯邦某些州份的槍械管制法律，以及一些國家槍械狩獵法律。但如果把塞子拆卸的話，全槍總容量就是5發霰彈藥筒（不發射麥格農霰彈藥筒以下）。該槍設有空倉掛機，如果所有槍彈發射完畢（或者空槍狀態下後拉動），槍機會停在後方以保持槍膛開啟。此時如果直接向管式彈倉內裝填一發槍彈，這發槍彈會被自動送入槍膛并解除空倉掛機，槍機向前完成閉鎖，即刻可以發射。所以當裝填打空的Auto-5時，只需連續向彈倉內塞入5發槍彈即可，無需其他操作就能馬上射擊。所以，相對於其他各類管式彈倉供彈的霰彈槍（先上膛一發槍彈然後再填滿彈倉才能達到最大裝彈量），Auto-5的這個設計明顯更加方便，自然廣受歡迎。
 
 當使用者扣動扳機、[膛室](../Page/膛室.md "wikilink")之內的一發霰彈藥筒射擊以後，槍管和槍機一併向後運動一段較長的距離（向後移的這個距離大於彈殼長度），直到後座到[機匣尾部並且後座到位以後才進行開鎖](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍機停止運動，並被鎖上；而槍管在套在[管式彈倉上的](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")[復進簧的作用以下向前復位](https://zh.wikipedia.org/wiki/復進簧 "wikilink")，在槍管向前運動的過程中將彈殼從[膛室](../Page/膛室.md "wikilink")抽，並且從[拋殼口拋出槍外](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")；槍管向前復進到位以後，槍機亦在其後方的復進簧的作用以下向前復進，同時將從底部的管式彈倉取出的下一發霰彈藥筒推入膛室內，完成推彈上膛及閉鎖動作，並呈待擊狀態。這種操作在霰彈槍之中尚屬首次。
 
@@ -96,50 +92,22 @@ Auto-5在[第一次世界大战](../Page/第一次世界大战.md "wikilink")至
 
 ### 電影
 
-  - 1967年—《[-{zh-hant:霹靂彈; zh-tw:霹靂彈; zh-hk:鐵金剛勇戰魔鬼黨; zh-mo:鐵金剛勇戰魔鬼黨;
-    zh-cn:007之雷霆万钧;}-](../Page/鐵金剛勇戰魔鬼黨.md "wikilink")》（Thunderball）：型號為白朗寧Auto-5，被[-{zh-hans:詹姆斯·邦德;
-    zh-hk:占士·邦; zh-tw:詹姆士·龐德;}-](../Page/占士邦.md "wikilink")（James
-    Bond，[-{zh-hans:肖恩·康纳利; zh-hk:辛·康納利;
-    zh-tw:史恩·康納萊;}-飾演](../Page/肖恩·康纳利.md "wikilink")）所使用。
-  - 2000年—《[-{zh-cn:逃狱三王; zh-hk:逃獄三王;
-    zh-tw:霹靂高手;}-](../Page/逃獄三王.md "wikilink")》（O
-    Brother, Where Art Thou?）：型號為白朗寧Auto-5，被獄警和部分代表們所使用。
+  - 1967年—《[-{zh-hant:霹靂彈; zh-tw:霹靂彈; zh-hk:鐵金剛勇戰魔鬼黨; zh-mo:鐵金剛勇戰魔鬼黨; zh-cn:007之雷霆万钧;}-](../Page/鐵金剛勇戰魔鬼黨.md "wikilink")》（Thunderball）：型號為白朗寧Auto-5，被[-{zh-hans:詹姆斯·邦德; zh-hk:占士·邦; zh-tw:詹姆士·龐德;}-](../Page/占士邦.md "wikilink")（James Bond，[-{zh-hans:肖恩·康纳利; zh-hk:辛·康納利; zh-tw:史恩·康納萊;}-飾演](../Page/肖恩·康纳利.md "wikilink")）所使用。
+  - 2000年—《[-{zh-cn:逃狱三王; zh-hk:逃獄三王; zh-tw:霹靂高手;}-](../Page/逃獄三王.md "wikilink")》（O Brother, Where Art Thou?）：型號為白朗寧Auto-5，被獄警和部分代表們所使用。
 
 ### 電視劇
 
-  - 2010年—《[大西洋帝國](https://zh.wikipedia.org/wiki/大西洋帝國 "wikilink")》（Boardwalk
-    Empire）：型號為白朗寧Auto-5，被黑幫老大[艾爾·卡彭](../Page/艾爾·卡彭.md "wikilink")（Al
-    Capone，[斯蒂芬·格拉漢姆飾演](https://zh.wikipedia.org/wiki/斯蒂芬·格拉漢姆 "wikilink")）和理查德·哈羅（Richard
-    Harrow，[傑克·休斯頓](../Page/傑克·休斯頓.md "wikilink")飾演）所使用。
+  - 2010年—《[大西洋帝國](https://zh.wikipedia.org/wiki/大西洋帝國 "wikilink")》（Boardwalk Empire）：型號為白朗寧Auto-5，被黑幫老大[艾爾·卡彭](../Page/艾爾·卡彭.md "wikilink")（Al Capone，[斯蒂芬·格拉漢姆飾演](https://zh.wikipedia.org/wiki/斯蒂芬·格拉漢姆 "wikilink")）和理查德·哈羅（Richard Harrow，[傑克·休斯頓](../Page/傑克·休斯頓.md "wikilink")飾演）所使用。
 
 ### 電子遊戲
 
-  - 2002年—《[-{zh-cn:战地1942; zh-tw:戰地風雲1942;
-    zh-hk:戰地風雲1942}-](../Page/戰地風雲1942.md "wikilink")》（Battlefield
-    1942）：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「秘密武器」（Secret
-    Weapons Of
-    WWII）武器之一。型號為白朗寧Auto-5，命名為「霰彈槍」，6發彈倉。被[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[特种空勤团](../Page/特种空勤团.md "wikilink")工程兵所使用。
-  - 2004年—《[-{zh-cn:荣誉勋章：太平洋突袭; zh-tw:榮譽勳章：太平洋戰役;
-    zh-hk:榮譽勳章：太平洋戰役;}-](https://zh.wikipedia.org/wiki/榮譽勳章：太平洋突襲 "wikilink")》（Medal
-    of Honor: Pacific
-    Assault）：遊戲中唯一的霰彈槍，型號為雷明登11，被美軍所使用，命名為「M11[防暴霰彈槍](../Page/鎮暴霰彈槍.md "wikilink")」。
-  - 2007年—《[-{zh-cn:军团要塞2; zh-tw:絕地要塞2;
-    zh-hk:絕地要塞2}-](../Page/絕地要塞2.md "wikilink")》（Team
-    Fortress
-    2）：以白朗寧Auto-5作為藍本，但使用了[削短的](https://zh.wikipedia.org/wiki/削短型獵槍 "wikilink")[槍管](../Page/槍管.md "wikilink")和[槍托](../Page/槍托.md "wikilink")、內置式[彈鼓取代](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")[管式彈倉和槓桿式槍機取代半自動槍機](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，命名為「型男霰彈槍」（Baby
-    Face's Blaster），被偵察兵作為更新後可使用的解鎖武器之一所使用。
-  - 2010年—《[-{zh-cn:荒野大鏢客：救贖; zh-tw:碧血狂殺;
-    zh-hk:碧血狂殺}-](../Page/荒野大镖客：救赎.md "wikilink")》（Red
-    Dead Redemption）：型號為白朗寧Auto-5，命名為「半自動霰彈槍」，5發彈倉。
-  - 2016年—《[-{zh-cn:战地1; zh-tw:戰地風雲1;
-    zh-hk:戰地風雲1}-](https://zh.wikipedia.org/wiki/戰地風雲1 "wikilink")》（Battlefield
-    1）：为突击兵所使用的霰弹枪，命名为「12g自动霰弹枪」。一共有三种版本，分别为Backboard版，猎人版和加长版。Backboard版和猎人版为弹仓供弹，5发弹仓。加长版使用加大彈倉，装弹7发。
-  - 2018年—《[-{zh-hans:荒野大镖客：救赎;
-    zh-hant:碧血狂殺;}-2](../Page/碧血狂殺2.md "wikilink")》（Red
-    Dead Redemption II）：命名為“半自動霰彈槍”，奇怪的會於1899年出現。
-  - 2018年—《[-{zh-cn:战地5; zh-tw:戰地風雲5;
-    zh-hk:戰地風雲5}-](https://zh.wikipedia.org/wiki/戰地風雲5 "wikilink")》（Battlefield
-    V）：为支援兵可使用的武器，命名为「12鉛徑自动霰弹枪」。初始載彈量为5发，可选择改装至7发。
+  - 2002年—《[-{zh-cn:战地1942; zh-tw:戰地風雲1942; zh-hk:戰地風雲1942}-](../Page/戰地風雲1942.md "wikilink")》（Battlefield 1942）：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「秘密武器」（Secret Weapons Of WWII）武器之一。型號為白朗寧Auto-5，命名為「霰彈槍」，6發彈倉。被[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[特种空勤团](../Page/特种空勤团.md "wikilink")工程兵所使用。
+  - 2004年—《[-{zh-cn:荣誉勋章：太平洋突袭; zh-tw:榮譽勳章：太平洋戰役; zh-hk:榮譽勳章：太平洋戰役;}-](https://zh.wikipedia.org/wiki/榮譽勳章：太平洋突襲 "wikilink")》（Medal of Honor: Pacific Assault）：遊戲中唯一的霰彈槍，型號為雷明登11，被美軍所使用，命名為「M11[防暴霰彈槍](../Page/鎮暴霰彈槍.md "wikilink")」。
+  - 2007年—《[-{zh-cn:军团要塞2; zh-tw:絕地要塞2; zh-hk:絕地要塞2}-](../Page/絕地要塞2.md "wikilink")》（Team Fortress 2）：以白朗寧Auto-5作為藍本，但使用了[削短的](https://zh.wikipedia.org/wiki/削短型獵槍 "wikilink")[槍管](../Page/槍管.md "wikilink")和[槍托](../Page/槍托.md "wikilink")、內置式[彈鼓取代](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")[管式彈倉和槓桿式槍機取代半自動槍機](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，命名為「型男霰彈槍」（Baby Face's Blaster），被偵察兵作為更新後可使用的解鎖武器之一所使用。
+  - 2010年—《[-{zh-cn:荒野大鏢客：救贖; zh-tw:碧血狂殺; zh-hk:碧血狂殺}-](../Page/荒野大镖客：救赎.md "wikilink")》（Red Dead Redemption）：型號為白朗寧Auto-5，命名為「半自動霰彈槍」，5發彈倉。
+  - 2016年—《[-{zh-cn:战地1; zh-tw:戰地風雲1; zh-hk:戰地風雲1}-](https://zh.wikipedia.org/wiki/戰地風雲1 "wikilink")》（Battlefield 1）：为突击兵所使用的霰弹枪，命名为「12g自动霰弹枪」。一共有三种版本，分别为Backboard版，猎人版和加长版。Backboard版和猎人版为弹仓供弹，5发弹仓。加长版使用加大彈倉，装弹7发。
+  - 2018年—《[-{zh-hans:荒野大镖客：救赎; zh-hant:碧血狂殺;}-2](../Page/碧血狂殺2.md "wikilink")》（Red Dead Redemption II）：命名為“半自動霰彈槍”，奇怪的會於1899年出現。
+  - 2018年—《[-{zh-cn:战地5; zh-tw:戰地風雲5; zh-hk:戰地風雲5}-](https://zh.wikipedia.org/wiki/戰地風雲5 "wikilink")》（Battlefield V）：为支援兵可使用的武器，命名为「12鉛徑自动霰弹枪」。初始載彈量为5发，可选择改装至7发。
 
 ## 參見
 
@@ -175,61 +143,40 @@ Auto-5在[第一次世界大战](../Page/第一次世界大战.md "wikilink")至
 
 ## 外部連結
 
-  - —[Browning Arms Official website－A5
-    Shotguns](https://web.archive.org/web/20130117014006/http://www.browning.com/products/catalog/family.asp?webflag_=029B&catalog_=B)
+  - —[Browning Arms Official website－A5 Shotguns](https://web.archive.org/web/20130117014006/http://www.browning.com/products/catalog/family.asp?webflag_=029B&catalog_=B)
 
   - —[User manual](http://stevespages.com/pdf/browning_auto5.pdf)
 
-  - —[Model 11 Parts
-    Diagram](https://web.archive.org/web/20080216043851/http://www.okiegunsmithshop.com/Remington_Model_11.jpg)
+  - —[Model 11 Parts Diagram](https://web.archive.org/web/20080216043851/http://www.okiegunsmithshop.com/Remington_Model_11.jpg)
 
-  - —[Modern Firearms—Browning Auto-5 / A5 and Remington model 11
-    shotgun](http://world.guns.ru/shotgun/usa/remington-11-e.html)
+  - —[Modern Firearms—Browning Auto-5 / A5 and Remington model 11 shotgun](http://world.guns.ru/shotgun/usa/remington-11-e.html)
 
   - —The Firearm Blog.com—
 
-      - [The New Browning A5
-        Shotgun](http://www.thefirearmblog.com/blog/2011/10/10/the-new-browning-a5-shotgun/)
-      - [Seen at the Gunsmithing Shop: A Remington Built to
-        Last](http://www.thefirearmblog.com/blog/2013/04/22/gunsmithing-shop-remington-built/)
-      - [POTD: The Auto-5 Sisters, One Father, Three
-        Mothers](http://www.thefirearmblog.com/blog/2015/03/17/potd-the-auto-5-sisters-one-father-three-mothers/)
+      - [The New Browning A5 Shotgun](http://www.thefirearmblog.com/blog/2011/10/10/the-new-browning-a5-shotgun/)
+      - [Seen at the Gunsmithing Shop: A Remington Built to Last](http://www.thefirearmblog.com/blog/2013/04/22/gunsmithing-shop-remington-built/)
+      - [POTD: The Auto-5 Sisters, One Father, Three Mothers](http://www.thefirearmblog.com/blog/2015/03/17/potd-the-auto-5-sisters-one-father-three-mothers/)
 
-  - —[Guns & Ammo.com—10 Great New Guns
-    for 2016](http://www.gunsandammo.com/shot-show-2016/10-great-new-guns-for-2016/)
+  - —[Guns & Ammo.com—10 Great New Guns for 2016](http://www.gunsandammo.com/shot-show-2016/10-great-new-guns-for-2016/)
 
   - —
 
   - —，[後座作用](../Page/後座作用.md "wikilink")示範
 
-[Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink")
-[Category:美國霰彈槍](https://zh.wikipedia.org/wiki/Category:美國霰彈槍 "wikilink")
-[Category:比利時一戰武器](https://zh.wikipedia.org/wiki/Category:比利時一戰武器 "wikilink")
-[Category:美國一戰武器](https://zh.wikipedia.org/wiki/Category:美國一戰武器 "wikilink")
-[Category:美國二戰武器](https://zh.wikipedia.org/wiki/Category:美國二戰武器 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
-[Category:約翰·勃朗寧](https://zh.wikipedia.org/wiki/Category:約翰·勃朗寧 "wikilink")
-[Category:二战步兵武器](https://zh.wikipedia.org/wiki/Category:二战步兵武器 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
-[Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
+[Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink") [Category:美國霰彈槍](https://zh.wikipedia.org/wiki/Category:美國霰彈槍 "wikilink") [Category:比利時一戰武器](https://zh.wikipedia.org/wiki/Category:比利時一戰武器 "wikilink") [Category:美國一戰武器](https://zh.wikipedia.org/wiki/Category:美國一戰武器 "wikilink") [Category:美國二戰武器](https://zh.wikipedia.org/wiki/Category:美國二戰武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:約翰·勃朗寧](https://zh.wikipedia.org/wiki/Category:約翰·勃朗寧 "wikilink") [Category:二战步兵武器](https://zh.wikipedia.org/wiki/Category:二战步兵武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink") [Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
 
 1.  Harold Murtz. *Gun Digest Treasury*（DBI Books, 1994）, p.194
 
 2.  Murtz, *ibid.*, pp.193-4
 
 3.
-4.  [Firearm Model History - Remington
-    Model 11](http://www.remington.com/library/history/firearm_models/shotguns/model_11.asp)
-
+4.  [Firearm Model History - Remington Model 11](http://www.remington.com/library/history/firearm_models/shotguns/model_11.asp)
 
 5.
 6.
 
-7.  Phillips, John Neal. ["Bonnie & Clyde's Revenge on
-    Eastham."](http://www.historynet.com/bonnie-clydes-revenge-on-eastham.htm)
-    *American History* on HistoryNet.com. 12 June 2006.
+7.  Phillips, John Neal. ["Bonnie & Clyde's Revenge on Eastham."](http://www.historynet.com/bonnie-clydes-revenge-on-eastham.htm) *American History* on HistoryNet.com. 12 June 2006.
 
 8.  [Barrow weapons](http://texashideout.tripod.com/guns.html)
 
-9.  [CRIMINAL BUSINESS－John Herbert
-    Dillinger](http://criminalbusiness.tumblr.com/tagged/john%20dillinger)
+9.  [CRIMINAL BUSINESS－John Herbert Dillinger](http://criminalbusiness.tumblr.com/tagged/john%20dillinger)

@@ -2,8 +2,7 @@
 
 ## 沿革
 
-  - 2003年2月，BasiL中心人物西又葵、關厚典等人離職，成立，3月25日開設Navel官網，3月29日在雜誌《[Magi-Cu
-    Premium](../Page/Magi-Cu.md "wikilink")》發表品牌處女作『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』制作消息。
+  - 2003年2月，BasiL中心人物西又葵、關厚典等人離職，成立，3月25日開設Navel官網，3月29日在雜誌《[Magi-Cu Premium](../Page/Magi-Cu.md "wikilink")》發表品牌處女作『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』制作消息。
 
 <!-- end list -->
 
@@ -38,20 +37,16 @@
   - 2004年1月30日－[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")
   - 2004年12月17日－[Soul Link](../Page/Soul_Link.md "wikilink")
   - 2005年9月16日－[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")
-  - 2006年11月24日－[Really?
-    Really\!](../Page/Really?_Really!.md "wikilink")
+  - 2006年11月24日－[Really? Really\!](../Page/Really?_Really!.md "wikilink")
   - 2008年6月28日－[俺たちに翼はない～Prelude～](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
   - 2009年1月30日－[俺たちに翼はない](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
   - 2009年10月30日－[SHUFFLE\! Essence+](../Page/SHUFFLE!.md "wikilink")
   - 2010年6月25日－[Soul Link ULTIMATE](../Page/Soul_Link.md "wikilink")
-  - 2010年7月30日－[俺たちに翼はない
-    AfterStory](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
+  - 2010年7月30日－[俺たちに翼はない AfterStory](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
   - 2010年12月24日－[世界征服彼女](../Page/世界征服彼女.md "wikilink")
-  - 2011年4月28日－[SHUFFLE\! Love
-    Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")
+  - 2011年4月28日－[SHUFFLE\! Love Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")
   - 2011年6月24日－[俺たちに翼はないR](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
-  - 2011年10月28日－[World Wide Love\!
-    世界征服彼女ファンディスク](https://zh.wikipedia.org/wiki/World_Wide_Love!_世界征服彼女ファンディスク "wikilink")
+  - 2011年10月28日－[World Wide Love\! 世界征服彼女ファンディスク](https://zh.wikipedia.org/wiki/World_Wide_Love!_世界征服彼女ファンディスク "wikilink")
   - 2012年2月24日－
   - 2012年10月26日－[月に寄りそう乙女の作法](https://zh.wikipedia.org/wiki/月に寄りそう乙女の作法 "wikilink")
   - 2013年7月26日－
@@ -112,17 +107,13 @@
 
   - [Lime Official Website](http://www.project-lime.com/index.html)
 
-  - [Navel honeybell Official
-    Website](https://web.archive.org/web/20150725073251/http://www.navel-honeybell.com/index.html)
+  - [Navel honeybell Official Website](https://web.archive.org/web/20150725073251/http://www.navel-honeybell.com/index.html)
 
   -
   -
   -
   -
   -
-[Category:2003年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2003年開業電子遊戲公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:Navel](https://zh.wikipedia.org/wiki/Category:Navel "wikilink")
+[Category:2003年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2003年開業電子遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:Navel](https://zh.wikipedia.org/wiki/Category:Navel "wikilink")
 
 1.

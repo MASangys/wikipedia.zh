@@ -1,14 +1,6 @@
-**Knol**
-是[Google公司的一個計劃](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，目的是要建立一個類似[維基百科或](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[大眾百科](https://zh.wikipedia.org/wiki/大眾百科 "wikilink")（Citizendium）的網站，讓[網友可參與編寫知識性內容](../Page/網友.md "wikilink")。「Knol」是
-Google 自創的新詞，取自 Knowledge（知識），是「一個知識單位」的意思（**A unit of
-knowledge**）。每一篇文章亦可以用 Knol
-來稱呼。此計劃於2007年12月13日發表，在內部測試期間，與
-Gmail 初期一樣，需要以邀請的方式才可加入；於2008年7月23日，Knol
-完全開放給大眾使用\[1\]。其平台采用[Solvitor和](https://zh.wikipedia.org/wiki/Solvitor "wikilink")[Crowd
-Favorite创建的基于](https://zh.wikipedia.org/wiki/Crowd_Favorite "wikilink")[Wordpress的](https://zh.wikipedia.org/wiki/Wordpress "wikilink")[Annotum](https://zh.wikipedia.org/wiki/Annotum "wikilink")\[2\]。
+**Knol** 是[Google公司的一個計劃](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，目的是要建立一個類似[維基百科或](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[大眾百科](https://zh.wikipedia.org/wiki/大眾百科 "wikilink")（Citizendium）的網站，讓[網友](../Page/網友.md "wikilink")可參與編寫知識性內容。「Knol」是 Google 自創的新詞，取自 Knowledge（知識），是「一個知識單位」的意思（**A unit of knowledge**）。每一篇文章亦可以用 Knol 來稱呼。此計劃於2007年12月13日發表，在內部測試期間，與 Gmail 初期一樣，需要以邀請的方式才可加入；於2008年7月23日，Knol 完全開放給大眾使用\[1\]。其平台采用[Solvitor和](https://zh.wikipedia.org/wiki/Solvitor "wikilink")[Crowd Favorite创建的基于](https://zh.wikipedia.org/wiki/Crowd_Favorite "wikilink")[Wordpress的](https://zh.wikipedia.org/wiki/Wordpress "wikilink")[Annotum](https://zh.wikipedia.org/wiki/Annotum "wikilink")\[2\]。
 
-2011年11月，Google公司宣布Knol在2012年4月30日后不能查看，用户只能下载自己的文章或者导出到[Wordpress.com](https://zh.wikipedia.org/wiki/Wordpress.com "wikilink")；10月1日后将不能再访问\[3\]
-。
+2011年11月，Google公司宣布Knol在2012年4月30日后不能查看，用户只能下载自己的文章或者导出到[Wordpress.com](https://zh.wikipedia.org/wiki/Wordpress.com "wikilink")；10月1日后将不能再访问\[3\] 。
 
 ## 與維基百科的比較
 
@@ -23,9 +15,7 @@ Knol 與維基百科的最大不同：
 
 ### 廣告
 
-Knol 可讓編寫者自己決定是否在編寫的頁面旁讓 Google
-放入[廣告](../Page/廣告.md "wikilink")。若是放入廣告，則
-Google 公司將會提撥一部份廣告收入給該編寫者\[6\]。
+Knol 可讓編寫者自己決定是否在編寫的頁面旁讓 Google 放入[廣告](../Page/廣告.md "wikilink")。若是放入廣告，則 Google 公司將會提撥一部份廣告收入給該編寫者\[6\]。
 
 ### 语言
 
@@ -36,19 +26,13 @@ Knol最初测试阶段只支持英语，到2011年7月初，已可支持[阿拉�
 ## 外部連結
 
   - [Knol.com](https://web.archive.org/web/20080820084620/http://knol.google.com/)
-
   - [Knol.com](https://knol.Google.com/)（Https安全连接）
   - [Knol screenshot](http://www.Google.com/help/knol_screenshot.html)
-  - [Official Google Blog: Encouraging people to contribute
-    knowledge](http://Googleblog.blogspot.com/2007/12/encouraging-people-to-contribute.html)
-  - [《世界新聞網》，Knol
-    由專業人士署名撰寫，文責自負](http://www.worldjournal.com/wj-tc-news.php?nt_seq_id=1749906)
-  - [《聯合報》，維基與 Knol
-    比一比](http://mag.udn.com/mag/digital/storypage.jsp?f_ART_ID=138272)
+  - [Official Google Blog: Encouraging people to contribute knowledge](http://Googleblog.blogspot.com/2007/12/encouraging-people-to-contribute.html)
+  - [《世界新聞網》，Knol 由專業人士署名撰寫，文責自負](http://www.worldjournal.com/wj-tc-news.php?nt_seq_id=1749906)
+  - [《聯合報》，維基與 Knol 比一比](http://mag.udn.com/mag/digital/storypage.jsp?f_ART_ID=138272)
 
-[Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:在线百科全书](https://zh.wikipedia.org/wiki/Category:在线百科全书 "wikilink")
+[Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:在线百科全书](https://zh.wikipedia.org/wiki/Category:在线百科全书 "wikilink")
 
 1.
 

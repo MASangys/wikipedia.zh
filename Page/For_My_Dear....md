@@ -1,5 +1,4 @@
-《**For My
-Dear...**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第4張單曲，1998年10月7日於日本正式發行。另外，與此前的8cm單曲作品相同，皆於2001年2月28日再發行了12cm版本。
+《**For My Dear...**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第4張單曲，1998年10月7日於日本正式發行。另外，與此前的8cm單曲作品相同，皆於2001年2月28日再發行了12cm版本。
 
 ## 收錄歌曲
 
@@ -26,6 +25,4 @@ Dear...**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第4�
 6.  **For My Dear... "Original Mix -Instrumental-"**
 7.  **For My Dear... "Acoustic Version -Instrumental-"**
 
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink")
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

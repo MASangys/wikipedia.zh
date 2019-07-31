@@ -16,20 +16,15 @@ Zo5y97xDYe
 
 ### 履歷
 
-  - 團體的前身是高校時代以梶浦和西岡為中心的團體「15
-    SAND」，其成員的妹妹石川後來也作為主音加入。當成員逐漸進入大學之後，活動也依舊繼續，向專業路線也有所發展，不過因為發展方向的關係，最後團體中剩下的梶浦、西岡、石川3人，將團體的名字改為現在的「See-Saw」。並以單曲「Swimmer」出道。之後西岡因為專心致力於其作家活動而退出團體。同期，單曲「」發行之後成員各自都展開了單獨的活動，不過隨後又因為擔當了「Indio」的製作而重新展開了活動。而且因為單曲「」而使團體的名氣大升。現在則是成員又開始了單獨的活動。
+  - 團體的前身是高校時代以梶浦和西岡為中心的團體「15 SAND」，其成員的妹妹石川後來也作為主音加入。當成員逐漸進入大學之後，活動也依舊繼續，向專業路線也有所發展，不過因為發展方向的關係，最後團體中剩下的梶浦、西岡、石川3人，將團體的名字改為現在的「See-Saw」。並以單曲「Swimmer」出道。之後西岡因為專心致力於其作家活動而退出團體。同期，單曲「」發行之後成員各自都展開了單獨的活動，不過隨後又因為擔當了「Indio」的製作而重新展開了活動。而且因為單曲「」而使團體的名氣大升。現在則是成員又開始了單獨的活動。
 
 <!-- end list -->
 
-  - （《[機動戰士GUNDAM
-    SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》的片尾曲）『』放送時，在日本節目《》參與了VTR的演出。石川回答：「住家附近的孩子都說我成了好厲害的姐姐！」。
+  - （《[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》的片尾曲）『』放送時，在日本節目《》參與了VTR的演出。石川回答：「住家附近的孩子都說我成了好厲害的姐姐！」。
 
 <!-- end list -->
 
-  - 「See-Saw」曾擔任許多動畫的片頭和片尾主題曲以及插曲的製作，其中包括《[.hack/SIGN](https://zh.wikipedia.org/wiki/.hack "wikilink")》和《[.hack/Liminality](https://zh.wikipedia.org/wiki/.hack "wikilink")》，《[NOIR](../Page/NOIR.md "wikilink")》的兩首插曲，《[機動戰士GUNDAM
-    SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》的1st片尾曲和《[機動戰士GUNDAM
-    SEED
-    DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》的4th片尾曲。
+  - 「See-Saw」曾擔任許多動畫的片頭和片尾主題曲以及插曲的製作，其中包括《[.hack/SIGN](https://zh.wikipedia.org/wiki/.hack "wikilink")》和《[.hack/Liminality](https://zh.wikipedia.org/wiki/.hack "wikilink")》，《[NOIR](../Page/NOIR.md "wikilink")》的兩首插曲，《[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》的1st片尾曲和《[機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》的4th片尾曲。
 
 ## 作品
 
@@ -156,8 +151,7 @@ Zo5y97xDYe
   -
 <!-- end list -->
 
-1.    - 電視動畫『[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")』
-        1st片尾主題歌
+1.    - 電視動畫『[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")』 1st片尾主題歌
       - 作詞：石川智晶
       - 作曲・編曲：梶浦由記
 
@@ -197,8 +191,7 @@ Zo5y97xDYe
 
 <!-- end list -->
 
-1.    - 電視動畫『[機動戰士GUNDAM SEED
-        DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")』4th片尾主題歌
+1.    - 電視動畫『[機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")』4th片尾主題歌
       - 作詞：石川智晶
       - 作曲・編曲：梶浦由記
 
@@ -333,9 +326,6 @@ Zo5y97xDYe
 
 [See-Saw官方網頁](http://www.jvcmusic.co.jp/see-saw/)
 
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
 1.  [See-Saw作品目录](http://www.fictionjunction.com/fjcom/seesaw.html)

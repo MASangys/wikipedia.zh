@@ -1,11 +1,8 @@
-**Unicode幾何圖形**是指[Unicode在](https://zh.wikipedia.org/wiki/Unicode "wikilink")[十六進制代碼範圍](https://zh.wikipedia.org/wiki/十六進制 "wikilink")
-25A0 - 25FF
-中呈現的96個圖形符號。在此範圍內，包含有各種[幾何形狀](../Page/幾何圖形.md "wikilink")，基本滿足了[計算機用戶在幾何表現上的要求](https://zh.wikipedia.org/wiki/計算機 "wikilink")。
+**Unicode幾何圖形**是指[Unicode在](https://zh.wikipedia.org/wiki/Unicode "wikilink")[十六進制代碼範圍](https://zh.wikipedia.org/wiki/十六進制 "wikilink") 25A0 - 25FF 中呈現的96個圖形符號。在此範圍內，包含有各種[幾何形狀](../Page/幾何圖形.md "wikilink")，基本滿足了[計算機用戶在幾何表現上的要求](https://zh.wikipedia.org/wiki/計算機 "wikilink")。
 
 ## 字符集
 
-目前只有兩個字符集，Code2000和DejaVu，涵蓋了全部Unicode幾何圖形。\[1\]然而字體與字體間的廣泛應用，\[2\]\[3\]以及Unicode
-MS的統一，使大多數常用符號都包括其中，不會產生大的歧義或影響。
+目前只有兩個字符集，Code2000和DejaVu，涵蓋了全部Unicode幾何圖形。\[1\]然而字體與字體間的廣泛應用，\[2\]\[3\]以及Unicode MS的統一，使大多數常用符號都包括其中，不會產生大的歧義或影響。
 
 ### 25A0-25CF 範圍
 

@@ -14,7 +14,7 @@
 |    **[交易所BIC識別代碼](https://zh.wikipedia.org/wiki/:en:ISO_9362 "wikilink")**    |
 |                                                                               |
 
-**CAC40指數**（；中文又稱「**巴黎券商公會指數**」）是[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎证券交易所市值前](https://zh.wikipedia.org/wiki/巴黎证券交易所 "wikilink")40大企業的股票报价指数，為法國首要之[股價指數](../Page/股價指數.md "wikilink")，與[德国DAX指数並列為歐洲](../Page/德国DAX指数.md "wikilink")2大指標股價指數。其原文中的「」為「」的簡寫，意為「連續輔助報價」，是指巴黎證券交易所在1980至1990年代間所採用的電子交易系統。
+**CAC40指數**（；中文又稱「**巴黎券商公會指數**」）是[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎证券交易所市值前](https://zh.wikipedia.org/wiki/巴黎证券交易所 "wikilink")40大企業的股票报价指数，為法國首要之[股價指數](../Page/股價指數.md "wikilink")，與[德国DAX指数](../Page/德国DAX指数.md "wikilink")並列為歐洲2大指標股價指數。其原文中的「」為「」的簡寫，意為「連續輔助報價」，是指巴黎證券交易所在1980至1990年代間所採用的電子交易系統。
 
 ## 上市公司
 
@@ -60,8 +60,7 @@ CAC40指數由巴黎證券交易所的市值前40大上市企業之股票組成�
 
   - [米其林](../Page/米其林.md "wikilink")（）
 
-  - [Orange](../Page/Orange_\(公司\).md "wikilink")（原名[法國電信](https://zh.wikipedia.org/wiki/法國電信 "wikilink")
-    / ）
+  - [Orange](../Page/Orange_\(公司\).md "wikilink")（原名[法國電信](https://zh.wikipedia.org/wiki/法國電信 "wikilink") / ）
 
   - [保乐力加](../Page/保乐力加.md "wikilink")（）
 
@@ -105,12 +104,8 @@ CAC40指數由巴黎證券交易所的市值前40大上市企業之股票組成�
 
 ## 外部鏈結
 
-  - [CAC40指數介紹](https://www.euronext.com/en/products/indices/FR0003500008-XPAR/market-information)
-    - [泛歐交易所網站](../Page/泛歐交易所.md "wikilink")
+  - [CAC40指數介紹](https://www.euronext.com/en/products/indices/FR0003500008-XPAR/market-information) - [泛歐交易所](../Page/泛歐交易所.md "wikilink")網站
 
-[Category:CAC_40](https://zh.wikipedia.org/wiki/Category:CAC_40 "wikilink")
-[Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink")
-[Category:法国经济](https://zh.wikipedia.org/wiki/Category:法国经济 "wikilink")
-[Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")
+[Category:CAC_40](https://zh.wikipedia.org/wiki/Category:CAC_40 "wikilink") [Category:欧洲股市指数](https://zh.wikipedia.org/wiki/Category:欧洲股市指数 "wikilink") [Category:法国经济](https://zh.wikipedia.org/wiki/Category:法国经济 "wikilink") [Category:上市公司列表](https://zh.wikipedia.org/wiki/Category:上市公司列表 "wikilink")
 
 1.

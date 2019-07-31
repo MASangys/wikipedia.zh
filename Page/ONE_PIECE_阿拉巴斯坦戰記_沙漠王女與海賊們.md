@@ -1,10 +1,8 @@
-《**ONE PIECE 阿拉巴斯坦戰記 沙漠王女與海賊們**》是於2007年上映的第八部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
+《**ONE PIECE 阿拉巴斯坦戰記 沙漠王女與海賊們**》是於2007年上映的第八部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 製作
 
-《ONE
-PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦王國](../Page/阿拉巴斯坦王國.md "wikilink")篇」電影化，重新繪製成這套劇場版，和過去強調「娛樂」的劇場版不同，本篇強調的是「感動」。
+《ONE PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦王國](../Page/阿拉巴斯坦王國.md "wikilink")篇」電影化，重新繪製成這套劇場版，和過去強調「娛樂」的劇場版不同，本篇強調的是「感動」。
 
 上映結束後，觀眾可以看到[草帽海賊團](https://zh.wikipedia.org/wiki/草帽海賊團 "wikilink")（包括沒有出現的[佛朗基](../Page/佛朗基.md "wikilink")等8人）的懸賞單及下一套劇場版的預告；而[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")的回憶篇亦會在電影近尾聲時出現（包括哈古瓦爾·D·薩烏羅的登場）。
 
@@ -227,14 +225,10 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 ## 音樂
 
   - 「[compass](https://zh.wikipedia.org/wiki/compass_\(曲\) "wikilink")」
-    作詞・作曲：[川嶋愛](../Page/川嶋愛.md "wikilink") /
-    編曲：[宗本康兵](https://zh.wikipedia.org/wiki/宗本康兵 "wikilink")
-    / 歌：川嶋愛
+    作詞・作曲：[川嶋愛](../Page/川嶋愛.md "wikilink") / 編曲：[宗本康兵](https://zh.wikipedia.org/wiki/宗本康兵 "wikilink") / 歌：川嶋愛
 
 ## 外部連結
 
   - [中文官方網站](http://toei-anim-contents.net/international/onepiece/alabasta/index.html)
 
-[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
-[Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink")
-[Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")
+[Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")

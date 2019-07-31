@@ -1,27 +1,18 @@
-**Deluge**是一个功能齐全的跨平台[BitTorrent](../Page/BitTorrent_\(协议\).md "wikilink")
-[客户端软件](https://zh.wikipedia.org/wiki/客户端 "wikilink")，可在[Linux](../Page/Linux.md "wikilink"),
-[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink"),
-[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[Windows操作系统下工作](https://zh.wikipedia.org/wiki/Windows "wikilink")。它使用[libtorrent作为其后端](https://zh.wikipedia.org/wiki/libtorrent "wikilink")，有包括[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，网络远程客户端，命令行模式等多种用户界面。其设计方针是体积小巧且节约系统资源，通过丰富的[插件来实现核心以外的众多功能](../Page/插件.md "wikilink")。Deluge响应[Freedesktop.org的倡议](../Page/Freedesktop.org.md "wikilink")，兼容于[GNOME](../Page/GNOME.md "wikilink"),
-[KDE](../Page/KDE.md "wikilink"),
-[XFCE和其它多种桌面环境](https://zh.wikipedia.org/wiki/XFCE "wikilink")。它还是一款[自由软件](../Page/自由软件.md "wikilink")，使用[GPLv3进行授权](https://zh.wikipedia.org/wiki/GNU通用公共许可证#GPLv3 "wikilink")。\[1\]
+**Deluge**是一个功能齐全的跨平台[BitTorrent](../Page/BitTorrent_\(协议\).md "wikilink") [客户端软件](https://zh.wikipedia.org/wiki/客户端 "wikilink")，可在[Linux](../Page/Linux.md "wikilink"), [OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink"), [Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[Windows操作系统下工作](https://zh.wikipedia.org/wiki/Windows "wikilink")。它使用[libtorrent作为其后端](https://zh.wikipedia.org/wiki/libtorrent "wikilink")，有包括[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，网络远程客户端，命令行模式等多种用户界面。其设计方针是体积小巧且节约系统资源，通过丰富的[插件](../Page/插件.md "wikilink")来实现核心以外的众多功能。Deluge响应[Freedesktop.org](../Page/Freedesktop.org.md "wikilink")的倡议，兼容于[GNOME](../Page/GNOME.md "wikilink"), [KDE](../Page/KDE.md "wikilink"), [XFCE和其它多种桌面环境](https://zh.wikipedia.org/wiki/XFCE "wikilink")。它还是一款[自由软件](../Page/自由软件.md "wikilink")，使用[GPLv3进行授权](https://zh.wikipedia.org/wiki/GNU通用公共许可证#GPLv3 "wikilink")。\[1\]
 
 ## 历史
 
-Deluge由 ubuntuforum.org 网站的两位成员 Zach Tibbitts和Alan
-Zakai建立。在创立之初项目托管曾在[Google
-Code之上](https://zh.wikipedia.org/wiki/Google_Code "wikilink")，之后才建立了自己的网站。
+Deluge由 ubuntuforum.org 网站的两位成员 Zach Tibbitts和Alan Zakai建立。在创立之初项目托管曾在[Google Code之上](https://zh.wikipedia.org/wiki/Google_Code "wikilink")，之后才建立了自己的网站。
 
-在早期的开发过程中，Deluge曾经被命名为gTorrent，意思是[GNOME桌面环境下的BitTorrent客户端](../Page/GNOME.md "wikilink")。在第一个版本在2006年9月25日释出时，项目被重新命名为Deluge，以避免别人误会gTorrent只能用於GNOME。
+在早期的开发过程中，Deluge曾经被命名为gTorrent，意思是[GNOME](../Page/GNOME.md "wikilink")桌面环境下的BitTorrent客户端。在第一个版本在2006年9月25日释出时，项目被重新命名为Deluge，以避免别人误会gTorrent只能用於GNOME。
 
-利用0.4.x代码重写的0.5穏定版在2007年3月18日释出。在0.5.x版本中，全新支持了[数据加密](https://zh.wikipedia.org/wiki/数据加密 "wikilink")，[Peer
-exchange](https://zh.wikipedia.org/wiki/Peer_exchange "wikilink")，[Si
-prefixes和](https://zh.wikipedia.org/wiki/Binary_prefix "wikilink")[UPnP](../Page/UPnP.md "wikilink")。
+利用0.4.x代码重写的0.5穏定版在2007年3月18日释出。在0.5.x版本中，全新支持了[数据加密](https://zh.wikipedia.org/wiki/数据加密 "wikilink")，[Peer exchange](https://zh.wikipedia.org/wiki/Peer_exchange "wikilink")，[Si prefixes和](https://zh.wikipedia.org/wiki/Binary_prefix "wikilink")[UPnP](../Page/UPnP.md "wikilink")。
 
 ## 基本功能
 
   - 种子建立
   - 插件支持
-  - [UPnP和](../Page/UPnP.md "wikilink")[NAT-PMP网络支持](https://zh.wikipedia.org/wiki/NAT-PMP "wikilink")
+  - [UPnP](../Page/UPnP.md "wikilink")和[NAT-PMP网络支持](https://zh.wikipedia.org/wiki/NAT-PMP "wikilink")
   - 数据加密
 
 Deluge支持下列网络功能：
@@ -77,10 +68,6 @@ Deluge支持插件系统，包括下面的插件，现在标准发布包含所�
 
 ## 引用
 
-[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:BitTorrent客户端](https://zh.wikipedia.org/wiki/Category:BitTorrent客户端 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
-[Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")
+[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:BitTorrent客户端](https://zh.wikipedia.org/wiki/Category:BitTorrent客户端 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")
 
 1.

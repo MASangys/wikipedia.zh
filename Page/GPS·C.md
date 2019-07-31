@@ -1,5 +1,4 @@
-**GPS·C**是**GPS修正**的缩写，是一个受加拿大主控系统管理的差分GPS数据修正系统，属于[Natural Resources
-Canada](https://zh.wikipedia.org/wiki/Natural_Resources_Canada "wikilink")。使用支持这个系统的设备可以把普通GPS接收机15米的定位精度提高到实时1-2米的水平。
+**GPS·C**是**GPS修正**的缩写，是一个受加拿大主控系统管理的差分GPS数据修正系统，属于[Natural Resources Canada](https://zh.wikipedia.org/wiki/Natural_Resources_Canada "wikilink")。使用支持这个系统的设备可以把普通GPS接收机15米的定位精度提高到实时1-2米的水平。
 
 实时数据由分布在加拿大各地的14个固定站收集转发到位于渥太华的中央控制室“NRC1”进行处理。
 
@@ -29,21 +28,15 @@ CDGPS 参考站\[1\]
 ## 外部链接
 
   - [CDGPS](https://web.archive.org/web/20070630190448/http://www.cdgps.com/)
-  - [CDGPS (Canada-Wide DGPS Correction
-    Service)](https://web.archive.org/web/20060711171023/http://ess.nrcan.gc.ca/2002_2006/gnd/cdgps_e.php)
-  - [GPS·C Distribution Using
-    NTRIP](http://igs.bkg.bund.de/root_ftp/NTRIP/documentation/12_Macleod.pdf)
-    — [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink") format
+  - [CDGPS (Canada-Wide DGPS Correction Service)](https://web.archive.org/web/20060711171023/http://ess.nrcan.gc.ca/2002_2006/gnd/cdgps_e.php)
+  - [GPS·C Distribution Using NTRIP](http://igs.bkg.bund.de/root_ftp/NTRIP/documentation/12_Macleod.pdf) — [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink") format
 
 ## 参看
-
-53502M8FSW1101097 cruiser
 
 ## 参考文献
 
 <references />
 
-[Category:全球定位系统](https://zh.wikipedia.org/wiki/Category:全球定位系统 "wikilink")
-[Category:Natural_Resources_Canada](https://zh.wikipedia.org/wiki/Category:Natural_Resources_Canada "wikilink")
+[Category:全球定位系统](https://zh.wikipedia.org/wiki/Category:全球定位系统 "wikilink") [Category:Natural_Resources_Canada](https://zh.wikipedia.org/wiki/Category:Natural_Resources_Canada "wikilink")
 
 1.

@@ -1,7 +1,4 @@
-《**Castle Fantasia
-聖魔大戰**》（日文原名：）為[日本](../Page/日本.md "wikilink")遊戲公司[Studio
-e.go\!](../Page/Studio_e.go!.md "wikilink")（簡稱ego）於1998年11月20日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2000年12月22日發售重製版《新聖魔大戰》（日文原名：），不僅全程有語音且[CG畫質與戰鬥系統皆大幅提升細膩度及挑戰度](https://zh.wikipedia.org/wiki/CG "wikilink")。\[2\]台灣由信必優多媒體股份有限公司代理發行中文版(非18禁)，現已倒閉、結束營業。2002年7月11日由Symbio
-Planning發售[Dreamcast](../Page/Dreamcast.md "wikilink")版。\[3\]
+《**Castle Fantasia 聖魔大戰**》（日文原名：）為[日本](../Page/日本.md "wikilink")遊戲公司[Studio e.go\!](../Page/Studio_e.go!.md "wikilink")（簡稱ego）於1998年11月20日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2000年12月22日發售重製版《新聖魔大戰》（日文原名：），不僅全程有語音且[CG畫質與戰鬥系統皆大幅提升細膩度及挑戰度](https://zh.wikipedia.org/wiki/CG "wikilink")。\[2\]台灣由信必優多媒體股份有限公司代理發行中文版(非18禁)，現已倒閉、結束營業。2002年7月11日由Symbio Planning發售[Dreamcast](../Page/Dreamcast.md "wikilink")版。\[3\]
 
 ## 遊戲方式
 
@@ -9,8 +6,7 @@ Planning發售[Dreamcast](../Page/Dreamcast.md "wikilink")版。\[3\]
 
 ## 故事簡介
 
-聖魔大戰…曾經有一場被後人這樣稱呼的[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")。但是那[戰爭並不如](https://zh.wikipedia.org/wiki/戰爭 "wikilink")[傳說中所說的](https://zh.wikipedia.org/wiki/傳說 "wikilink")，是聖者對抗[魔鬼](../Page/魔鬼.md "wikilink")的戰爭，而是秉持光明神所訂定的嚴密[世襲制之統治者](https://zh.wikipedia.org/wiki/世襲 "wikilink")，和意圖從那秩序下逃脫的人們之間所爆發的戰爭
-。這場始於小小地方叛亂的[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，在席捲人們的各種思緒下逐漸蔓延。直到神聖曆358年就在開戰經過200年，當所有人幾乎忘卻[戰爭理由的時候](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，光明神軍下出現了一位[英雄](../Page/英雄.md "wikilink")。修伊該如何帶領從四方拼湊起的[軍隊](../Page/軍隊.md "wikilink")，打勝屬於他們所認為的聖魔大戰呢?
+聖魔大戰…曾經有一場被後人這樣稱呼的[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")。但是那[戰爭並不如](https://zh.wikipedia.org/wiki/戰爭 "wikilink")[傳說中所說的](https://zh.wikipedia.org/wiki/傳說 "wikilink")，是聖者對抗[魔鬼](../Page/魔鬼.md "wikilink")的戰爭，而是秉持光明神所訂定的嚴密[世襲制之統治者](https://zh.wikipedia.org/wiki/世襲 "wikilink")，和意圖從那秩序下逃脫的人們之間所爆發的戰爭 。這場始於小小地方叛亂的[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，在席捲人們的各種思緒下逐漸蔓延。直到神聖曆358年就在開戰經過200年，當所有人幾乎忘卻[戰爭理由的時候](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，光明神軍下出現了一位[英雄](../Page/英雄.md "wikilink")。修伊該如何帶領從四方拼湊起的[軍隊](../Page/軍隊.md "wikilink")，打勝屬於他們所認為的聖魔大戰呢?
 
 ## 登場人物
 
@@ -83,8 +79,7 @@ Planning發售[Dreamcast](../Page/Dreamcast.md "wikilink")版。\[3\]
 
 ## OVA
 
-Castle Fantasia
-聖魔大戰的[OVA是](https://zh.wikipedia.org/wiki/OVA "wikilink")18禁成人動畫作品。\[5\]
+Castle Fantasia 聖魔大戰的[OVA是](https://zh.wikipedia.org/wiki/OVA "wikilink")18禁成人動畫作品。\[5\]
 
 ### 發售日
 
@@ -131,24 +126,13 @@ Castle Fantasia
 
 ## 外部連結
 
-  - [Studio
-    e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
+  - [Studio e.go\!](https://web.archive.org/web/20110722095531/http://www.studio-ego.co.jp/)取自[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
   - [Studio e･go\!](http://www.studio-ego.jp/)
 
-[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
-[Category:1998年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1998年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:戰略角色扮演遊戲 "wikilink")
-[Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink")
+[Category:Studio_e.go\!](https://zh.wikipedia.org/wiki/Category:Studio_e.go! "wikilink") [Category:1998年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1998年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:戰略角色扮演遊戲 "wikilink") [Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink")
 
-1.  [キャッスルファンタジア
-    聖魔大戦](http://www.getchu.com/soft.phtml?id=1011)Getchu.com
-2.  [Castle Fantasia \~Seima Taisen\~](https://vndb.org/v106)The Visual
-    Novel Database
-3.  [キャッスルファンタジア
-    聖魔大戦](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=9853)ファミ通.com
-4.  [キャッスルファンタジア
-    ～聖魔大戦～](http://erogetrailers.com/soft/3667#layout_page)ErogeTrailers
+1.  [キャッスルファンタジア 聖魔大戦](http://www.getchu.com/soft.phtml?id=1011)Getchu.com
+2.  [Castle Fantasia \~Seima Taisen\~](https://vndb.org/v106)The Visual Novel Database
+3.  [キャッスルファンタジア 聖魔大戦](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=9853)ファミ通.com
+4.  [キャッスルファンタジア ～聖魔大戦～](http://erogetrailers.com/soft/3667#layout_page)ErogeTrailers
 5.

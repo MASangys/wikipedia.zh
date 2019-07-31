@@ -10,21 +10,15 @@
 
 ## 直播節目
 
-Astro華麗台每年會直播自製大型節目《[Astro國際華裔小姐](https://zh.wikipedia.org/wiki/Astro國際華裔小姐 "wikilink")》以及轉播香港大型節目典禮，例如
-《[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")》、《[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")》、《[萬千星輝賀台慶](../Page/萬千星輝賀台慶.md "wikilink")》、《[萬千星輝頒獎典禮](../Page/萬千星輝頒獎典禮.md "wikilink")》、《[國際中華小姐競選](https://zh.wikipedia.org/wiki/國際中華小姐競選 "wikilink")》及TVB農曆新年特備直播節目。
-TVB舉辦的慈善籌款節目早前曾經由Astro華麗台、Astro至尊HD（現稱Astro華麗台HD）、[Astro On
-Demand](https://zh.wikipedia.org/wiki/Astro_On_Demand "wikilink")（現稱[Astro
-AOD](../Page/Astro_AOD.md "wikilink")）負責轉播，現在改為東南亞版[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")（Astro頻道326）直播。
+Astro華麗台每年會直播自製大型節目《[Astro國際華裔小姐](https://zh.wikipedia.org/wiki/Astro國際華裔小姐 "wikilink")》以及轉播香港大型節目典禮，例如 《[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")》、《[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")》、《[萬千星輝賀台慶](../Page/萬千星輝賀台慶.md "wikilink")》、《[萬千星輝頒獎典禮](../Page/萬千星輝頒獎典禮.md "wikilink")》、《[國際中華小姐競選](https://zh.wikipedia.org/wiki/國際中華小姐競選 "wikilink")》及TVB農曆新年特備直播節目。
+TVB舉辦的慈善籌款節目早前曾經由Astro華麗台、Astro至尊HD（現稱Astro華麗台HD）、[Astro On Demand](https://zh.wikipedia.org/wiki/Astro_On_Demand "wikilink")（現稱[Astro AOD](../Page/Astro_AOD.md "wikilink")）負責轉播，現在改為東南亞版[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")（Astro頻道326）直播。
 除了由Astro華麗台自家製作的直播節目外，所有在Astro華麗台的衛星訊號直播TVB節目畫面均轉播自東南亞版[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")。而早前曾經轉播自[新加坡](../Page/新加坡.md "wikilink")[tvbj](https://zh.wikipedia.org/wiki/tvbj "wikilink")、香港[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")和香港[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[高清翡翠台](../Page/高清翡翠台.md "wikilink")。
 
 ### 直播节目列表
 
 ## 播出節目
 
-  - Astro華麗台除了播出香港早前的電視劇，也會播出[TVB早前在海外首發的電視劇](https://zh.wikipedia.org/wiki/TVB "wikilink")。目前所有正在此頻道播映的黃金時段劇集（[處境劇除外](https://zh.wikipedia.org/wiki/處境劇 "wikilink")）都早已在[Astro
-    On
-    Demand播放完畢](https://zh.wikipedia.org/wiki/Astro_On_Demand "wikilink")。該臺劇集時段系由Astro
-    隨選半年前或不超過一年前既TVB劇集播映。
+  - Astro華麗台除了播出香港早前的電視劇，也會播出[TVB早前在海外首發的電視劇](https://zh.wikipedia.org/wiki/TVB "wikilink")。目前所有正在此頻道播映的黃金時段劇集（[處境劇除外](https://zh.wikipedia.org/wiki/處境劇 "wikilink")）都早已在[Astro On Demand播放完畢](https://zh.wikipedia.org/wiki/Astro_On_Demand "wikilink")。該臺劇集時段系由Astro 隨選半年前或不超過一年前既TVB劇集播映。
   - 在2008年4月開始播出TVB打對台香港[亞洲電視](../Page/亞洲電視.md "wikilink")的節目，首個節目為亞視外判劇集《[生命有明天](../Page/生命有明天.md "wikilink")》。
   - 在2008年9月開始播出TVB另一家打對台[香港有線電視](../Page/香港有線電視.md "wikilink")的節目，首個節目為《肥媽私房菜》。
   - 在[Astro至尊HD剛啟播之際](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")，Astro華麗台在平日會與[Astro至尊HD高清同步播出](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")。
@@ -42,11 +36,7 @@ AOD](../Page/Astro_AOD.md "wikilink")）負責轉播，現在改為東南亞版[
 
 ## Astro華麗-{台}-電視劇大獎
 
-Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")》，所有的獎項都是由觀眾100%投票選出。Astro華麗台將會篩選當年所播出的[TVB劇集](https://zh.wikipedia.org/wiki/TVB "wikilink")，并且在適當的時候公布入圍名單。通常Astro華麗台播出的TVB劇集都是前一年香港TVB翡翠台所播出的劇集，例如：2007年就是播2006年的劇集。此颁奖典礼于2010年停办而于同年改办《[MY
-AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁奖典礼 "wikilink")》。在2013年，《MY
-AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipedia.org/wiki/TVB娱乐新闻台 "wikilink")、[Astro协办的](https://zh.wikipedia.org/wiki/Astro "wikilink")《[TVB
-馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")》替代。而《[TVB
-馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")》在2018年正式停辦，但觀眾投選有被保留下來，而改為在《[萬千星輝賀台慶](../Page/萬千星輝賀台慶.md "wikilink")》台慶節目裡公佈得獎名單。
+Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")》，所有的獎項都是由觀眾100%投票選出。Astro華麗台將會篩選當年所播出的[TVB劇集](https://zh.wikipedia.org/wiki/TVB "wikilink")，并且在適當的時候公布入圍名單。通常Astro華麗台播出的TVB劇集都是前一年香港TVB翡翠台所播出的劇集，例如：2007年就是播2006年的劇集。此颁奖典礼于2010年停办而于同年改办《[MY AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁奖典礼 "wikilink")》。在2013年，《MY AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipedia.org/wiki/TVB娱乐新闻台 "wikilink")、[Astro协办的](https://zh.wikipedia.org/wiki/Astro "wikilink")《[TVB 馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")》替代。而《[TVB 馬來西亞星光薈萃頒獎典禮](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")》在2018年正式停辦，但觀眾投選有被保留下來，而改為在《[萬千星輝賀台慶](../Page/萬千星輝賀台慶.md "wikilink")》台慶節目裡公佈得獎名單。
 
 ## Astro自製（本地圈節目）及合拍粵語節目/電視劇
 
@@ -740,20 +730,14 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 
 ## 外部連結
 
-  - [Astro Xuan Fun視一下 -
-    Astro華麗-{台}-](http://www.xuan.com.my/channels/wlt/)
-  - [英文官方網站 -
-    Astro華麗-{台}-](http://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=&lang=&stb=310)
+  - [Astro Xuan Fun視一下 - Astro華麗-{台}-](http://www.xuan.com.my/channels/wlt/)
+  - [英文官方網站 - Astro華麗-{台}-](http://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=&lang=&stb=310)
   - [Facebook - Astro華麗-{台}-](http://www.facebook.com/WahLaiToi)
 
-[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
-[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")
-[Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
-[Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink")
+[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink")
 
 1.
 2.  [Astro跨国投资拍港剧《阳关道》！请出陈国邦、江若琳参与演出！](http://www.xuan.com.my/entertainment/article/18545/Astro%E8%B7%A8%E5%9B%BD%E6%8A%95%E8%B5%84%E6%8B%8D%E6%B8%AF%E5%89%A7-%E9%98%B3%E5%85%B3%E9%81%93-%E8%AF%B7%E5%87%BA%E9%99%88%E5%9B%BD%E9%82%A6-%E6%B1%9F%E8%8B%A5%E7%90%B3%E5%8F%82%E4%B8%8E%E6%BC%94%E5%87%BA)
-3.  [【港剧《蚀日风暴》来马取景】 张智霖剧内坎坷戏外享受
-    薛凯琪“太甜”被令不准笑](http://www.kwongwah.com.my/?p=464577)
+3.  [【港剧《蚀日风暴》来马取景】 张智霖剧内坎坷戏外享受 薛凯琪“太甜”被令不准笑](http://www.kwongwah.com.my/?p=464577)
 4.
 5.

@@ -1,8 +1,4 @@
-**Super
-Junior-K.R.Y.**是[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[Super
-Junior在](../Page/Super_Junior.md "wikilink")2006年组成的第一个子团體。这个團體名字是由三位成員[圭贤](https://zh.wikipedia.org/wiki/圭贤 "wikilink")**K**yuhyun、[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")**R**yeowook和[艺声](https://zh.wikipedia.org/wiki/艺声 "wikilink")**Y**esung的英文名开头字母组成的。Super
-Junior-K.R.Y.
-成立后的第一个作品为电视剧《Hyena》的主题曲《只为一个人》，并于2006年11月5日通过KBS的《音乐阵营》正式开始了活动。多以抒情歌為主。
+**Super Junior-K.R.Y.**是[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[Super Junior在](../Page/Super_Junior.md "wikilink")2006年组成的第一个子团體。这个團體名字是由三位成員[圭贤](https://zh.wikipedia.org/wiki/圭贤 "wikilink")**K**yuhyun、[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")**R**yeowook和[艺声](https://zh.wikipedia.org/wiki/艺声 "wikilink")**Y**esung的英文名开头字母组成的。Super Junior-K.R.Y. 成立后的第一个作品为电视剧《Hyena》的主题曲《只为一个人》，并于2006年11月5日通过KBS的《音乐阵营》正式开始了活动。多以抒情歌為主。
 
 ## 成員資料
 
@@ -531,12 +527,7 @@ Super Hero 2nd Line Up》</p></td>
 
   - [Super Junior-K.R.Y. 日本官方網站](http://superjunior-jp.net/kry/)
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
 
 1.
 2.

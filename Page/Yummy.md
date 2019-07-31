@@ -75,11 +75,6 @@
 
 ## 參考資料
 
-[Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink")
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
+[Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
 
-1.  [新人女生團體Yummy
-    二十五日推新專輯](http://www.epochtimes.com/b5/5/10/21/n1093522.htm)大紀元
-    2005年10月21日
+1.  [新人女生團體Yummy 二十五日推新專輯](http://www.epochtimes.com/b5/5/10/21/n1093522.htm)大紀元 2005年10月21日

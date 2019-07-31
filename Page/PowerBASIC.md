@@ -1,16 +1,8 @@
-**PowerBASIC**由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[佛羅里達州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[威尼斯的PowerBASIC公司所製作](../Page/威尼斯.md "wikilink")，為一種[BASIC編譯器](../Page/BASIC.md "wikilink")，分別擁有[DOS版本及](../Page/DOS.md "wikilink")[Windows版本](https://zh.wikipedia.org/wiki/Windows "wikilink")（其中又有[命令行版本及](https://zh.wikipedia.org/wiki/命令行 "wikilink")[圖形界面開發版本](https://zh.wikipedia.org/wiki/圖形界面 "wikilink")）。DOS版本使用的語法類似[QBasic和](https://zh.wikipedia.org/wiki/QBasic "wikilink")[QuickBASIC](../Page/QuickBASIC.md "wikilink")，而Windows版本則類似其他程式編譯器，結合標準BASIC語言和[API調用](https://zh.wikipedia.org/wiki/API "wikilink")。最早發布的版本被稱作BASIC/Z，之後由[Borland發行時叫做](../Page/Borland.md "wikilink")[Turbo
-BASIC](../Page/Turbo_BASIC.md "wikilink")。1989年Borland不再販售Turbo
-BASIC與[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink")，Turbo
-BASIC由原開發者成立公司，而以PowerBASIC為名繼續發行。\[1\]
+**PowerBASIC**由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[佛羅里達州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[威尼斯](../Page/威尼斯.md "wikilink")的PowerBASIC公司所製作，為一種[BASIC](../Page/BASIC.md "wikilink")編譯器，分別擁有[DOS](../Page/DOS.md "wikilink")版本及[Windows版本](https://zh.wikipedia.org/wiki/Windows "wikilink")（其中又有[命令行版本及](https://zh.wikipedia.org/wiki/命令行 "wikilink")[圖形界面開發版本](https://zh.wikipedia.org/wiki/圖形界面 "wikilink")）。DOS版本使用的語法類似[QBasic和](https://zh.wikipedia.org/wiki/QBasic "wikilink")[QuickBASIC](../Page/QuickBASIC.md "wikilink")，而Windows版本則類似其他程式編譯器，結合標準BASIC語言和[API調用](https://zh.wikipedia.org/wiki/API "wikilink")。最早發布的版本被稱作BASIC/Z，之後由[Borland](../Page/Borland.md "wikilink")發行時叫做[Turbo BASIC](../Page/Turbo_BASIC.md "wikilink")。1989年Borland不再販售Turbo BASIC與[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink")，Turbo BASIC由原開發者成立公司，而以PowerBASIC為名繼續發行。\[1\]
 
 ## 語言特色
 
-**PowerBASIC**的Windows版本並沒有類似[Visual
-Basic的圖形開發界面](../Page/Visual_Basic.md "wikilink")，取而代之的是一個包含調試工具的純文字開發界面，但官方及其他團體均有提供另外開發的圖形開發界面以解決文字開發界面的不足，例如官方開發的PowerBASIC
-Forms及HelloBasic.com開發的[PwrDev
-Developer等等](https://zh.wikipedia.org/wiki/PwrDev_Developer "wikilink")。PowerBASIC能編譯出[機器代碼](https://zh.wikipedia.org/wiki/機器代碼 "wikilink")，即不需要[運行庫的程式](../Page/函式庫.md "wikilink")，並以編譯得出程式的體積小與運行速度快作為招徠，試圖擺脫過往BASIC語言運行速度慢的特點，其運行速度甚至比當今流行的語言仍要快，例如Visual
-Basic,
-[C++](../Page/C++.md "wikilink")。\[2\]同時PowerBASIC支援開發更多範疇的程序，例如[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink")，[控制台程式甚至](../Page/控制面板.md "wikilink")[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
+**PowerBASIC**的Windows版本並沒有類似[Visual Basic的圖形開發界面](../Page/Visual_Basic.md "wikilink")，取而代之的是一個包含調試工具的純文字開發界面，但官方及其他團體均有提供另外開發的圖形開發界面以解決文字開發界面的不足，例如官方開發的PowerBASIC Forms及HelloBasic.com開發的[PwrDev Developer等等](https://zh.wikipedia.org/wiki/PwrDev_Developer "wikilink")。PowerBASIC能編譯出[機器代碼](https://zh.wikipedia.org/wiki/機器代碼 "wikilink")，即不需要[運行庫的程式](../Page/函式庫.md "wikilink")，並以編譯得出程式的體積小與運行速度快作為招徠，試圖擺脫過往BASIC語言運行速度慢的特點，其運行速度甚至比當今流行的語言仍要快，例如Visual Basic, [C++](../Page/C++.md "wikilink")。\[2\]同時PowerBASIC支援開發更多範疇的程序，例如[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink")，[控制台程式甚至](../Page/控制面板.md "wikilink")[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
 
 ## 版本更新\[3\]
 
@@ -168,56 +160,17 @@ END FUNCTION
 1.
 2.  [PowerBASIC官方介紹](http://www.powerbasic.com/products/pbdll32/)
 3.  [版本更新資料來源：PowerBASIC官方論壇產品發佈頁](http://www.powerbasic.com/support/pbforums/forumdisplay.php?f=6)
-
-4.  [Free Updates to PB/CC 3 and PB/Win 7.0 - PowerBASIC Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=11)
-
-5.  [Free Updates to PB/CC 3 and PB/Win 7（x.02 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=12)
-
-6.  [Free Updates to PB/CC 3 and PB/Win 7（x.03 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=14)
-
-7.  [Free Updates to PB/CC 3 and PB/Win 7（x.04 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=15)
-
-8.  [Free Updates to PB/CC 4, PB/Win 8, and PB/Forms 1.5 - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=16)
-
-9.  [Free Updates to PB/CC 4 and PB/Win 8（x.03 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=17)
-
-10. [Free Updates to PB/CC 4 and PB/Win 8（x.04 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=35131)
-
-11. [Release of PowerBASIC 9.0 for Windows - PowerBASIC Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=38203)
-
-12. [Free Updates to PB/CC 5 and PB/Win 9（x.01 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=40039)
-
-13. [Free Updates to PB/CC 5 and PB/Win 9（x.02 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=41656)
-
-14. [Free Updates to PB/CC 5 and PB/Win 9（x.03 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=42452)
-
-15. [Free Updates to PB/CC 5 and PB/Win 9（x.04 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=43084)
-
-16. [Free Updates to PB/CC 5 and PB/Win 9（x.05 release） - PowerBASIC
-    Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=44187)
-
-17. [PB/Win 10 & PB/CC 6 -- What's new? - PowerBASIC Peer Support
-    Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=46443)
+4.  [Free Updates to PB/CC 3 and PB/Win 7.0 - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=11)
+5.  [Free Updates to PB/CC 3 and PB/Win 7（x.02 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=12)
+6.  [Free Updates to PB/CC 3 and PB/Win 7（x.03 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=14)
+7.  [Free Updates to PB/CC 3 and PB/Win 7（x.04 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=15)
+8.  [Free Updates to PB/CC 4, PB/Win 8, and PB/Forms 1.5 - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=16)
+9.  [Free Updates to PB/CC 4 and PB/Win 8（x.03 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=17)
+10. [Free Updates to PB/CC 4 and PB/Win 8（x.04 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=35131)
+11. [Release of PowerBASIC 9.0 for Windows - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=38203)
+12. [Free Updates to PB/CC 5 and PB/Win 9（x.01 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=40039)
+13. [Free Updates to PB/CC 5 and PB/Win 9（x.02 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=41656)
+14. [Free Updates to PB/CC 5 and PB/Win 9（x.03 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=42452)
+15. [Free Updates to PB/CC 5 and PB/Win 9（x.04 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=43084)
+16. [Free Updates to PB/CC 5 and PB/Win 9（x.05 release） - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=44187)
+17. [PB/Win 10 & PB/CC 6 -- What's new? - PowerBASIC Peer Support Forums](http://www.powerbasic.com/support/pbforums/showthread.php?t=46443)

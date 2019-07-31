@@ -1,5 +1,4 @@
-**Pico系列**為[正太動畫的系列作](https://zh.wikipedia.org/wiki/正太 "wikilink")，由NATURAL
-HIGH公司製作的世界第一個[正太控](../Page/正太控.md "wikilink")成人動畫。\[1\]
+**Pico系列**為[正太動畫的系列作](https://zh.wikipedia.org/wiki/正太 "wikilink")，由NATURAL HIGH公司製作的世界第一個[正太控](../Page/正太控.md "wikilink")成人動畫。\[1\]
 
 ## 作品理念
 
@@ -7,9 +6,7 @@ HIGH公司製作的世界第一個[正太控](../Page/正太控.md "wikilink")�
 
 作為第一部正太動畫的作品因為本身的內容，雖然造成購買層有所限制，卻也讓工作人員能夠減少許多製作的時間。因此作為第一集的『**[我的Pico](../Page/我的Pico.md "wikilink")**』，不僅能將裡面的少年角色大量地放入[蘿莉](../Page/蘿莉.md "wikilink")風的造型，也達到本作「[女裝正太設定](../Page/偽娘.md "wikilink")」的主要理念。但在一方面卻也留有BL的要素，所以也加入了Pico的朋友以及在作品中擔任觀察者的角色的青年阿保。
 
-第一集出來後，評價褒貶不一；但如果單純計算銷售量的話，就能夠證明這個理念毫無錯誤。另外在2006年9月30日所舉辦的「正太之夜」活動的參加人數，也比工作人員所想的還要熱烈。然後在[Soft
-On
-Demand不僅銷售第一](../Page/Soft_On_Demand.md "wikilink")，在[amazon.co.jp也拿下成人動畫片排行榜的第一名](https://zh.wikipedia.org/wiki/amazon.co.jp "wikilink")，還有在發售日（2006年9月8日）的那一週也奪下成人部門的第一名，其作品之成功不難窺見。
+第一集出來後，評價褒貶不一；但如果單純計算銷售量的話，就能夠證明這個理念毫無錯誤。另外在2006年9月30日所舉辦的「正太之夜」活動的參加人數，也比工作人員所想的還要熱烈。然後在[Soft On Demand不僅銷售第一](../Page/Soft_On_Demand.md "wikilink")，在[amazon.co.jp也拿下成人動畫片排行榜的第一名](https://zh.wikipedia.org/wiki/amazon.co.jp "wikilink")，還有在發售日（2006年9月8日）的那一週也奪下成人部門的第一名，其作品之成功不難窺見。
 
 打著「Pico系列」的招牌、第2集『**[Pico和Chico](../Page/Pico和Chico.md "wikilink")**』也在2007年4月19日發售、但和第一集沒有直接關係、只有Pico有登場並以他為中心來發展。這也正式宣告要以Pico來作為整個系列作的主角。
 
@@ -70,32 +67,23 @@ Demand不僅銷售第一](../Page/Soft_On_Demand.md "wikilink")，在[amazon.co.
 
 ## 影響
 
-2010年一名[西方的網友在觀看了Pico系列的三集動畫](../Page/西方世界.md "wikilink")（他誤以為片名為Boku）後，對於情節感到異常震撼，將其感想口述成一網路影片。\[2\]之後該影片被上傳至[NICONICO上](../Page/Niconico動畫.md "wikilink")\[3\]，引起了众多网友的关注，並使得片中的一些句子廣為流傳。其中「Yooooo」（吶喊聲）、「Don't
-watch an anime called
-Boku」（千萬別看一部叫Boku的影片）、「THREEEEEE」（[三](../Page/3.md "wikilink")）等句子經常被拿來作為偽娘的代名詞。另外、因為在他的口述中也說到看完這部作品後「像是[把靈魂賣給路西法](../Page/魔鬼交易.md "wikilink")」一樣，所以「把靈魂賣給[路西法](../Page/路西法.md "wikilink")」這句話也成為看到、或者熱愛偽娘作品及愛上了偽娘的代名詞。
+2010年一名[西方的網友在觀看了Pico系列的三集動畫](../Page/西方世界.md "wikilink")（他誤以為片名為Boku）後，對於情節感到異常震撼，將其感想口述成一網路影片。\[2\]之後該影片被上傳至[NICONICO上](../Page/Niconico動畫.md "wikilink")\[3\]，引起了众多网友的关注，並使得片中的一些句子廣為流傳。其中「Yooooo」（吶喊聲）、「Don't watch an anime called Boku」（千萬別看一部叫Boku的影片）、「THREEEEEE」（[三](../Page/3.md "wikilink")）等句子經常被拿來作為偽娘的代名詞。另外、因為在他的口述中也說到看完這部作品後「像是[把靈魂賣給路西法](../Page/魔鬼交易.md "wikilink")」一樣，所以「把靈魂賣給[路西法](../Page/路西法.md "wikilink")」這句話也成為看到、或者熱愛偽娘作品及愛上了偽娘的代名詞。
 
 ## 相關條目
 
   - [我的Pico](../Page/我的Pico.md "wikilink") - OVA「Pico系列」第1集
   - [Pico和Chico](../Page/Pico和Chico.md "wikilink") - OVA「Pico系列」第2集
-  - [Pico×CoCo×Chico](../Page/Pico×CoCo×Chico.md "wikilink")-
-    OVA「Pico系列」第3集
+  - [Pico×CoCo×Chico](../Page/Pico×CoCo×Chico.md "wikilink")- OVA「Pico系列」第3集
 
 ## 參考來源
 
 ## 外部連結
 
-  - [Pico
-    WEB](https://web.archive.org/web/20061115025610/http://www.pico.bz/)官方網站
+  - [Pico WEB](https://web.archive.org/web/20061115025610/http://www.pico.bz/)官方網站
   - [Pico和Chico的網路電台「青空通信」](https://web.archive.org/web/20090710014305/http://www.galge.com/radio/pico/index.html)
 
-[Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink")
-[Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink")
-[Category:Pico系列](https://zh.wikipedia.org/wiki/Category:Pico系列 "wikilink")
-[Category:日本成人動畫](https://zh.wikipedia.org/wiki/Category:日本成人動畫 "wikilink")
-[Category:內容涉及兒童性行為的動漫作品](https://zh.wikipedia.org/wiki/Category:內容涉及兒童性行為的動漫作品 "wikilink")
+[Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink") [Category:女裝作品](https://zh.wikipedia.org/wiki/Category:女裝作品 "wikilink") [Category:Pico系列](https://zh.wikipedia.org/wiki/Category:Pico系列 "wikilink") [Category:日本成人動畫](https://zh.wikipedia.org/wiki/Category:日本成人動畫 "wikilink") [Category:內容涉及兒童性行為的動漫作品](https://zh.wikipedia.org/wiki/Category:內容涉及兒童性行為的動漫作品 "wikilink")
 
-1.  [ぼくのぴこ
-    シリーズぴこ1](http://www.getchu.com/soft.phtml?id=283925)Getchu.com
+1.  [ぼくのぴこ シリーズぴこ1](http://www.getchu.com/soft.phtml?id=283925)Getchu.com
 2.
 3.  <http://www.nicovideo.jp/watch/sm11636984>

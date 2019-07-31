@@ -2,11 +2,7 @@
 
 ## 概要
 
-  - 在2007年8月18日举行的《Minmay meets fire bomber》MACROSS
-    25周年纪念演唱会正式公布了此部新Macross[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。[河森正治和](../Page/河森正治.md "wikilink")[速水奖共同宣布](https://zh.wikipedia.org/wiki/速水奖 "wikilink")[菅野洋子担当Macross新電影動畫系列的音乐监督一职](../Page/菅野洋子.md "wikilink")，并同時宣佈劇中主角-歌姬兰花·李的配音兼歌曲演唱，由先前在“Macross
-    25周年纪念
-    新歌姬选拔活动”中，约5,000名合格候选者中脱颖而出的[中島愛擔當](https://zh.wikipedia.org/wiki/中島愛 "wikilink")。歌姬雪露·諾姆採用《[Macross
-    7](https://zh.wikipedia.org/wiki/Macross_7 "wikilink")》的手法，聲音與歌手分開，配音由聲優[遠藤綾擔當](../Page/遠藤綾.md "wikilink"),歌曲演唱由歌手[May'n負責](../Page/May'n.md "wikilink")。
+  - 在2007年8月18日举行的《Minmay meets fire bomber》MACROSS 25周年纪念演唱会正式公布了此部新Macross[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。[河森正治](../Page/河森正治.md "wikilink")和[速水奖共同宣布](https://zh.wikipedia.org/wiki/速水奖 "wikilink")[菅野洋子](../Page/菅野洋子.md "wikilink")担当Macross新電影動畫系列的音乐监督一职，并同時宣佈劇中主角-歌姬兰花·李的配音兼歌曲演唱，由先前在“Macross 25周年纪念 新歌姬选拔活动”中，约5,000名合格候选者中脱颖而出的[中島愛擔當](https://zh.wikipedia.org/wiki/中島愛 "wikilink")。歌姬雪露·諾姆採用《[Macross 7](https://zh.wikipedia.org/wiki/Macross_7 "wikilink")》的手法，聲音與歌手分開，配音由聲優[遠藤綾](../Page/遠藤綾.md "wikilink")擔當,歌曲演唱由歌手[May'n](../Page/May'n.md "wikilink")負責。
 
 <!-- end list -->
 
@@ -14,8 +10,7 @@
 
 <!-- end list -->
 
-  - 系列構成[吉野弘幸在雜誌訪談表示](../Page/吉野弘幸.md "wikilink")，原本河森正治意採《[Macross
-    Plus](../Page/Macross_Plus.md "wikilink")》兩男一女的三角關係；但從小就是《超時空要塞》[粉絲的吉野弘幸改成兩女一男](https://zh.wikipedia.org/wiki/粉絲 "wikilink")，劇場版與電視動畫版[明美的對決](https://zh.wikipedia.org/wiki/鈴明美 "wikilink")。\[1\]
+  - 系列構成[吉野弘幸](../Page/吉野弘幸.md "wikilink")在雜誌訪談表示，原本河森正治意採《[Macross Plus](../Page/Macross_Plus.md "wikilink")》兩男一女的三角關係；但從小就是《超時空要塞》[粉絲的吉野弘幸改成兩女一男](https://zh.wikipedia.org/wiki/粉絲 "wikilink")，劇場版與電視動畫版[明美的對決](https://zh.wikipedia.org/wiki/鈴明美 "wikilink")。\[1\]
 
 <!-- end list -->
 
@@ -27,8 +22,7 @@
 
 <!-- end list -->
 
-  - 2009年6月24日在「Macross Ace
-    VOL.002」正式發表劇場版于2009年11月21日上映，命名為「」。标题中的日文「」即「」，也是「虛空歌姬」之意。
+  - 2009年6月24日在「Macross Ace VOL.002」正式發表劇場版于2009年11月21日上映，命名為「」。标题中的日文「」即「」，也是「虛空歌姬」之意。
 
 <!-- end list -->
 
@@ -36,10 +30,7 @@
 
 ## 故事簡介
 
-公元2059年，航行中的Macross
-Frontier迎來了偶像歌手雪露・諾姆舉辦的銀河巡回演唱會的最后一場，少女兰花·李去看偶像的演唱会……在宇宙中，Macross
-Frontier突然遭到了身份不明的宇宙怪兽的攻击，兰花的兄长奥兹马受命率领S.M.S的VF-25紧急迎战，可是新统合军仍然节节败退。并且有宇宙怪兽突破了防线，攻入Macross
-Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受损的VF-25战机出现在飞行候补生早乙女的面前……
+公元2059年，航行中的Macross Frontier迎來了偶像歌手雪露・諾姆舉辦的銀河巡回演唱會的最后一場，少女兰花·李去看偶像的演唱会……在宇宙中，Macross Frontier突然遭到了身份不明的宇宙怪兽的攻击，兰花的兄长奥兹马受命率领S.M.S的VF-25紧急迎战，可是新统合军仍然节节败退。并且有宇宙怪兽突破了防线，攻入Macross Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受损的VF-25战机出现在飞行候补生早乙女的面前……
 
 ## 登場人物
 
@@ -48,34 +39,23 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 ### 主要人物
 
   -
-    男主角，17歲\[3\]，美星學園飛行學科學生。S.M.S
-    Skull小隊所屬，初時軍階是准尉，後於第15話獲升為少尉，SMS中代号Skull
-    4（骷髅4号）。
+    男主角，17歲\[3\]，美星學園飛行學科學生。S.M.S Skull小隊所屬，初時軍階是准尉，後於第15話獲升為少尉，SMS中代号Skull 4（骷髅4号）。
     出身于歌舞伎世家，長髮与美貌常被誤認為美女，15歲時公演的戲劇『櫻姬公主』深受好評，櫻姬公主的形象一直至今尚有忠實粉絲存在，因此在校園以及工作場所常被戏称为“公主”。喜歡將隨手拿到的紙張折成[纸飞机](../Page/纸飞机.md "wikilink")，夢想是能在真實的天空翱翔，15歲時因故毅然與家族決裂放棄歌舞伎而追逐自己的夢想，之后将原本的汉字名有人(Aruto)改为西式名阿尔特（Alto）。剧中与两名女主角维持三角恋关系。
     在劇場版中則是說自己因為容易入戲太深，害怕分不清自己是誰進而喪失自我並為此感到煩惱。有橋段是藉由戴上雪露耳環，利用傳來的思念讓自己揣摩雪露真正的心情跟想法。
     劇中也多次表現出他優秀的表演天賦跟所受到的家庭薰陶與相關的回憶。
     被其師兄點出其實隨時都在使用演技來掩蓋真正的心思，本人聽完沒有反駁。從此處可想而知有人非常熟悉舞臺，只是沒有表現而已，也因此經歷，給予雪露和蘭花一些的過來人看法。
-    TV版在第23話後晉升中尉，領導配備VF-171Ex的射手座小隊，代號Sagittarius
-    1（射手座一號）。最终回用米海尔·布朗的狙击枪擊斃位於Vajra女王頭部的葛蕾斯。
+    TV版在第23話後晉升中尉，領導配備VF-171Ex的射手座小隊，代號Sagittarius 1（射手座一號）。最终回用米海尔·布朗的狙击枪擊斃位於Vajra女王頭部的葛蕾斯。
     在劇場版，最後面對自己的心意，拒絕蘭花的感情，接受雪露的感情，但在向雪露告白時，在Vajra女王母體上因Vajra女王母體進行空間跳躍而消失，生死不明。
     在以雪露為主角的官方外傳漫畫中確認存活，並且與蘭花，雪露重逢。最後與雪露結婚。
 
 <!-- end list -->
 
   -
-    女主角之一，17歲，出身於Macross
-    Galaxy，绰号“银河妖精”的人氣偶像歌手。有著一頭淡粉色的頭髮。對有人抱有好感，個性堅毅積極且帶有強勢的作風，被同校同學戲稱為「女王」。對Macross
-    Galaxy抱有既討厭又關心的矛盾感情。后入读美星学园飞行员科，與有人等人成為同學。
-    和《Macross
-    Zero》的瑪歐諾姆擁有同一個姓氏，在24話的劇情中確認其為瑪奧的孫女，繼承了「風之引導者」的血統，即比普通人擁有更接近[原始文化](https://zh.wikipedia.org/wiki/原始文化_\(超時空要塞\) "wikilink")（Protoculture）的遺傳基因（同樣接近原初文明遺傳基因的還有[傑特拉帝人](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")）。鑲有Fold
-    Quartz的耳環為瑪奧寄給她的護身符。其父母具體狀況不明。
-    雪露小時候在Macross
-    Galaxy貧民窟流浪期間遇上葛雷絲。葛雷絲利用她作V型傳染病的人體實驗對像，並於2053年發表相關論文，之後一直沒有根治該病，只以藥物抑制體內的Vajra細菌。透過她體內的Vajra細菌和Fold
-    Quartz耳環，她得到接收和發出Fold波的能力，及後被利用作為研究和操縱Vajra的媒介，代號Fairy 9。
-    葛蕾絲按計劃向雪露隱瞞一切真相，在Macross Galaxy捧紅她為人氣歌手，並於2059年以巡迴演唱會為名帶她到Macross
-    Frontier，展開嘉年華行動。最終因效果未如理想，再加上葛蕾絲發現蘭花的下落，雪露遭廢棄。
-    被告知真相後一度意志消沉，並放棄唱歌。但在Vajra島內襲擊事件中，當“希望歌姬”蘭花以負向感情的歌聲引來更多Vajra襲擊時，雪露以其歌聲安慰避難所內的市民，在V型感染后藥物停用和精神波動使得Vajra細菌擴散進入腦部，并獲得與蘭花類似的發出fold波能力，並成為Macross
-    Frontier的歌聲兵器。解除Galaxy伪装后，三人协力击败葛蕾丝。
+    女主角之一，17歲，出身於Macross Galaxy，绰号“银河妖精”的人氣偶像歌手。有著一頭淡粉色的頭髮。對有人抱有好感，個性堅毅積極且帶有強勢的作風，被同校同學戲稱為「女王」。對Macross Galaxy抱有既討厭又關心的矛盾感情。后入读美星学园飞行员科，與有人等人成為同學。
+    和《Macross Zero》的瑪歐諾姆擁有同一個姓氏，在24話的劇情中確認其為瑪奧的孫女，繼承了「風之引導者」的血統，即比普通人擁有更接近[原始文化](https://zh.wikipedia.org/wiki/原始文化_\(超時空要塞\) "wikilink")（Protoculture）的遺傳基因（同樣接近原初文明遺傳基因的還有[傑特拉帝人](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")）。鑲有Fold Quartz的耳環為瑪奧寄給她的護身符。其父母具體狀況不明。
+    雪露小時候在Macross Galaxy貧民窟流浪期間遇上葛雷絲。葛雷絲利用她作V型傳染病的人體實驗對像，並於2053年發表相關論文，之後一直沒有根治該病，只以藥物抑制體內的Vajra細菌。透過她體內的Vajra細菌和Fold Quartz耳環，她得到接收和發出Fold波的能力，及後被利用作為研究和操縱Vajra的媒介，代號Fairy 9。
+    葛蕾絲按計劃向雪露隱瞞一切真相，在Macross Galaxy捧紅她為人氣歌手，並於2059年以巡迴演唱會為名帶她到Macross Frontier，展開嘉年華行動。最終因效果未如理想，再加上葛蕾絲發現蘭花的下落，雪露遭廢棄。
+    被告知真相後一度意志消沉，並放棄唱歌。但在Vajra島內襲擊事件中，當“希望歌姬”蘭花以負向感情的歌聲引來更多Vajra襲擊時，雪露以其歌聲安慰避難所內的市民，在V型感染后藥物停用和精神波動使得Vajra細菌擴散進入腦部，并獲得與蘭花類似的發出fold波能力，並成為Macross Frontier的歌聲兵器。解除Galaxy伪装后，三人协力击败葛蕾丝。
     被有人營救回來的蘭花當面「宣戰」，表示無論是工作還是愛情上都不會輸給自己，雪露作出「キラッ☆」的手勢接受挑戰。
     在剧场版中，注射兰花的血清得以救助，成为和兰花一样的共存者，但陷入昏迷狀態，最後在耳環傳來的思念下甦醒，再度重返舞台。
     在以雪露為主角的官方外傳漫畫中與蘭花一起掉入Vajra女王拯救了有人和布雷拉的地並將二人救出，最終與有人結婚。
@@ -84,15 +64,12 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   -
-    女主角之一，16岁\[4\]，在中餐馆“娘娘”打工的绿色头发的高中生少女，爱好唱歌，是雪露·諾姆的超级歌迷。在翻拍Macross
-    Zero 故事“鸟之人”中出演飾演瑪奧·諾姆並主唱「アイモ」後一路走紅，被称为“超时空灰姑娘”、“希望歌姬”。
-    拥有四分之一[傑特拉帝人血统](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，所有家人在11年前第117次大规模调查船团遇难事件中遭Vajra袭击遇难或下落不明，兰花本人是幸存者之一。其母藍雪‧美在研究Vajra時罹患V型傳染病并生下蘭花，蘭花因而與Vajra細菌的共生。117船团事故後蘭花患有解离性失忆症（Psychogenic
-    amnesia），失去所有关于117船团事故前的记忆，只记得“”这首歌。
+    女主角之一，16岁\[4\]，在中餐馆“娘娘”打工的绿色头发的高中生少女，爱好唱歌，是雪露·諾姆的超级歌迷。在翻拍Macross Zero 故事“鸟之人”中出演飾演瑪奧·諾姆並主唱「アイモ」後一路走紅，被称为“超时空灰姑娘”、“希望歌姬”。
+    拥有四分之一[傑特拉帝人血统](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，所有家人在11年前第117次大规模调查船团遇难事件中遭Vajra袭击遇难或下落不明，兰花本人是幸存者之一。其母藍雪‧美在研究Vajra時罹患V型傳染病并生下蘭花，蘭花因而與Vajra細菌的共生。117船团事故後蘭花患有解离性失忆症（Psychogenic amnesia），失去所有关于117船团事故前的记忆，只记得“”这首歌。
     奥兹马在此事件后以兄长名义收养了兰花，并不是她的亲哥哥。
     第21話後藉由布雷拉的協助離開Frontier尋求過去的記憶。后確認布雷拉是其失蹤的哥哥。
     TV版在Frontier時，無意間把Vajra幼體當成寵物飼養，後來發現其幼體蛻皮後成為Vajra，蘭花期望成為人類與Vajra溝通的橋梁，主動要求布雷拉帶著她與Vajra前往母星。
-    在Vajra母星被Vajra擄走取得幼年記憶，反而成為在 Battle Galaxy
-    伺機而動的葛蕾斯操縱Vajra傀儡，後於有人和雪露的努力下恢復意識，并在與葛蕾斯對戰時成功干涉Vajra女王之通信波，在TV版的最終戰中與雪露聯手擊潰葛蕾斯。
+    在Vajra母星被Vajra擄走取得幼年記憶，反而成為在 Battle Galaxy 伺機而動的葛蕾斯操縱Vajra傀儡，後於有人和雪露的努力下恢復意識，并在與葛蕾斯對戰時成功干涉Vajra女王之通信波，在TV版的最終戰中與雪露聯手擊潰葛蕾斯。
     在劇場版中是承繼瑪奧·諾姆血統孫女雪露·諾姆口中的「風之引導者」，有與風、動物們溝通的能力。
     在以雪露為主角的官方外傳漫畫中與雪露一起掉入Vajra女王拯救了有人和布雷拉的地並將二人救出，最終和布雷拉重逢。
 
@@ -141,15 +118,13 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   -
-    實際僅為領養蘭花，在蘭花成為歌聲兵器後開始對三島產生戒心並與凱瑟琳聯手調查，但未能阻止三島奪權；第21話開始和凯瑟琳一起躲避三島的搜查而失蹤，第22話協助奪取Macross
-    Quarter獨立調查真相。
+    實際僅為領養蘭花，在蘭花成為歌聲兵器後開始對三島產生戒心並與凱瑟琳聯手調查，但未能阻止三島奪權；第21話開始和凯瑟琳一起躲避三島的搜查而失蹤，第22話協助奪取Macross Quarter獨立調查真相。
     劇場版和凱瑟琳一起調查雪露是否為間諜的事，虛空歌姬中為凱瑟琳的前男友，戀離飛翼中和凱瑟琳重新成為情侶。
 
 <!-- end list -->
 
   -
-    [傑特拉帝人女军官](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，S.M.S
-    Pixy小隊所屬，階級大尉。正常形态下为成熟的[傑特拉帝人女性姿态](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，微型化时却看上去像个矮小的小女孩，和米歇爾是青梅竹马。
+    [傑特拉帝人女军官](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，S.M.S Pixy小隊所屬，階級大尉。正常形态下为成熟的[傑特拉帝人女性姿态](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，微型化时却看上去像个矮小的小女孩，和米歇爾是青梅竹马。
     於20話Vajra幼蟲突襲時，聽到米歇爾死前的告白。
     劇場版年齡設定變更，就讀美星學園，專攻生物學
 
@@ -180,8 +155,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
   -
     S.M.S所属，军阶中尉，实际担任军医职务的黑人女性，正式身份是Koenig Monster的女性驾驶员。
   -
-    S.M.S所属的Macross
-    Quarter的操作员，虽然看起来是豪放的大叔，实际上是内心温柔的[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，加入SMS前就是名化妆师。和奧茲馬十分要好，经常为他排解烦恼，同时也暗恋着他。对SMS的女性成员来说近乎于“贴心大姐”的地位。
+    S.M.S所属的Macross Quarter的操作员，虽然看起来是豪放的大叔，实际上是内心温柔的[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，加入SMS前就是名化妆师。和奧茲馬十分要好，经常为他排解烦恼，同时也暗恋着他。对SMS的女性成员来说近乎于“贴心大姐”的地位。
 
 <!-- end list -->
 
@@ -221,8 +195,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 ### Macross Frontier政府
 
   -
-    昵称凯茜（キャシー），新统合军参谋本部所属的中尉军官，大总统之女，头脑明晰，才色兼备。曾获得第八届Miss Macross
-    Frontier准优胜。以大学学生会主席身份毕业之后，加入了新统合军，能够忠实的履行自己的职务以及上级给出的命令。
+    昵称凯茜（キャシー），新统合军参谋本部所属的中尉军官，大总统之女，头脑明晰，才色兼备。曾获得第八届Miss Macross Frontier准优胜。以大学学生会主席身份毕业之后，加入了新统合军，能够忠实的履行自己的职务以及上级给出的命令。
     似乎以前和奥兹马有过一段戀情，知道奥兹马在S.M.S任职，是里昂的前未婚妻。
     Macross Quarter出击支援Galaxy船團時被派到Macross Quarter舰上参与指挥工作。
 
@@ -241,8 +214,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   -
-    新统合政府大总统，肩负着领导Macross
-    Frontier船团的责任，使得他必须在面对向市民提供舒适安全的生活，以及宇宙航行中出现的各种问题的时候，果断的做出决定，向Frontier的民眾公開了Vajra的存在。
+    新统合政府大总统，肩负着领导Macross Frontier船团的责任，使得他必须在面对向市民提供舒适安全的生活，以及宇宙航行中出现的各种问题的时候，果断的做出决定，向Frontier的民眾公開了Vajra的存在。
 
 <!-- end list -->
 
@@ -257,23 +229,20 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   -
-    野心家，為了獲得權力接近身為大總統女兒的凱西，並與葛蕾斯聯手進行與Vajra相關之研究計畫。於第19至20話中發動武裝政變並成功暗殺格拉斯大总统，於第21話成為新一任第五代Macross
-    Frontier大總統，最終於第25話因被揭發其罪狀而被捕。
+    野心家，為了獲得權力接近身為大總統女兒的凱西，並與葛蕾斯聯手進行與Vajra相關之研究計畫。於第19至20話中發動武裝政變並成功暗殺格拉斯大总统，於第21話成為新一任第五代Macross Frontier大總統，最終於第25話因被揭發其罪狀而被捕。
     劇場版他的未婚妻變更為魯卡的姊姊 潔妮雅‧安潔洛
 
 ### Macross Galaxy
 
   -
     雪露的经纪人。曾接受過人體晶片植入，更使用其移植端口潛入Frontier軍方和政府的網絡以取得資料。
-    實際上為Battle
-    Galaxy網路集合體的代表，在117調查艦隊意外後接受植入技術，也是故事幕後操控一切的黑手，故事後其意圖利用蘭花·李操控Vajra並達成銀河思想集合體的目標，最後失敗遭到擊斃。
+    實際上為Battle Galaxy網路集合體的代表，在117調查艦隊意外後接受植入技術，也是故事幕後操控一切的黑手，故事後其意圖利用蘭花·李操控Vajra並達成銀河思想集合體的目標，最後失敗遭到擊斃。
     在劇場版最後為了保護雪露被敵人掃射，臨死前希望再聽一次雪露唱歌，並將麥克風遞給了雪露并在雪露唱歌時說出“銀河在撼動。”後生死不明。
 
 <!-- end list -->
 
   -
-    谜之驾驶员，驾驶VF-27，第14话中自称隶属MACROSS
-    GALAXY船团，安塔列斯小队，军衔少校，知道並能使用口琴吹出“”的旋律，為了尋回自己的過去而戰。
+    谜之驾驶员，驾驶VF-27，第14话中自称隶属MACROSS GALAXY船团，安塔列斯小队，军衔少校，知道並能使用口琴吹出“”的旋律，為了尋回自己的過去而戰。
 
 <!-- end list -->
 
@@ -285,16 +254,14 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   -
-    編劇原先外觀設定是以[Macross
-    Plus的卡爾德為基礎](../Page/Macross_Plus.md "wikilink")，不過在人設美型化下得到製作組的好評因此定案。\[5\]
+    編劇原先外觀設定是以[Macross Plus的卡爾德為基礎](../Page/Macross_Plus.md "wikilink")，不過在人設美型化下得到製作組的好評因此定案。\[5\]
   -
     Galaxy船团的飞行员，带来Galaxy船团被Vajra袭击的消息，向Frontier船团请求支援。
 
 ### 第117調查艦隊
 
   -
-    [Macross
-    Zero女主角之一](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")，玛雅岛原住民，雪露·諾姆的祖母。後取得博士學位並成為研究原始文明的著名學者，擔任117調查艦隊團長前往宇宙，在此發表Vajra與V型感染病的第一篇研究論文。
+    [Macross Zero女主角之一](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")，玛雅岛原住民，雪露·諾姆的祖母。後取得博士學位並成為研究原始文明的著名學者，擔任117調查艦隊團長前往宇宙，在此發表Vajra與V型感染病的第一篇研究論文。
 
 <!-- end list -->
 
@@ -319,33 +286,26 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 ## 世界观及专有名词
 
   - Macross Frontier
-    译为**超时空要塞 開拓之国**，為「银河播种计划」中第55次超長距離移民船團，第25次New
-    MACROSS級移民船團。目前艦隊殖民地為第五世代艦種：以设有总统府的本岛Island
-    One为中心，包括居住舰、农用生产舰、工业舰和护卫舰队組成人口約1000萬之國家。與Macross Galaxy一同向銀河中心前進。
+    译为**超时空要塞 開拓之国**，為「银河播种计划」中第55次超長距離移民船團，第25次New MACROSS級移民船團。目前艦隊殖民地為第五世代艦種：以设有总统府的本岛Island One为中心，包括居住舰、农用生产舰、工业舰和护卫舰队組成人口約1000萬之國家。與Macross Galaxy一同向銀河中心前進。
     属于生态型移民船团，大气、水源、有机物均在船内循环，是能够以最小限度的补给实现长距离航行的封闭型星际岛屿。
     与Galaxy船团不同，在Frontier船团，人体芯片植入是非法的。
 
 <!-- end list -->
 
   - Macross Galaxy
-    第21次New MACROSS級移民船團，歌姬雪露・諾姆出生地，密闭式殖民地。與Macross
-    Frontier一同向銀河中心前進。属于化学卫星型船团，在Galaxy船团，人体芯片植入是合法且非常普遍的事情，船团上也有生化人造人的存在。故事开始后不久遭到了大批Vajra的攻击。
+    第21次New MACROSS級移民船團，歌姬雪露・諾姆出生地，密闭式殖民地。與Macross Frontier一同向銀河中心前進。属于化学卫星型船团，在Galaxy船团，人体芯片植入是合法且非常普遍的事情，船团上也有生化人造人的存在。故事开始后不久遭到了大批Vajra的攻击。
 
 <!-- end list -->
 
   -
-    Macross
-    Frontier劇情的所有起點，Frontier被攻擊基本上為Galaxy策劃，Galaxy船團被攻擊則完全是刻意操作，目的為讓Vajra和Frontier互相殘殺中獲得需要資訊，實際上Battle
-    Galaxy藏匿於Vajra女王艦內。
+    Macross Frontier劇情的所有起點，Frontier被攻擊基本上為Galaxy策劃，Galaxy船團被攻擊則完全是刻意操作，目的為讓Vajra和Frontier互相殘殺中獲得需要資訊，實際上Battle Galaxy藏匿於Vajra女王艦內。
 
 <!-- end list -->
 
   - S.M.S
-    全名**Strategic Millitary
-    Services**，駐留於Frontier的[私人军事服务公司](https://zh.wikipedia.org/wiki/私人军事服务公司 "wikilink")（對外宣稱與軍方合作的民間運輸公司），主要任務包括船團航線偵查、新型武裝測試、重要人士護衛等工作；原本以民間公司的立場而言應該是輔助軍方工作，但由於軍方派系鬥爭因此S.M.S收留不少統合軍退役的熟練戰鬥機駕駛員，加上背後的政經實力S.M.S裝備了比新統合軍先进的武裝，在小規模作戰上反客為主成為超越統合軍的精銳作戰部隊。
+    全名**Strategic Millitary Services**，駐留於Frontier的[私人军事服务公司](https://zh.wikipedia.org/wiki/私人军事服务公司 "wikilink")（對外宣稱與軍方合作的民間運輸公司），主要任務包括船團航線偵查、新型武裝測試、重要人士護衛等工作；原本以民間公司的立場而言應該是輔助軍方工作，但由於軍方派系鬥爭因此S.M.S收留不少統合軍退役的熟練戰鬥機駕駛員，加上背後的政經實力S.M.S裝備了比新統合軍先进的武裝，在小規模作戰上反客為主成為超越統合軍的精銳作戰部隊。
     由於契約因素SMS並沒有完整對外公布業務內容，戰死者也僅會以事故死亡之因素私下處理，特殊狀況下無法任意離隊的契約造就了成員生死與共的強大凝聚力。
-    目前S.M.S以停泊在Island1的Macross
-    Quarter為主基地，下轄**骷髏小隊**（隊長奧茲馬李[少校](../Page/少校.md "wikilink")，使用機種VF-25、VB-6）、**妖精小隊**（隊長格蘭葛蘭[上尉](../Page/上尉.md "wikilink")，使用機種卡忒蘭・蕾雅）
+    目前S.M.S以停泊在Island1的Macross Quarter為主基地，下轄**骷髏小隊**（隊長奧茲馬李[少校](../Page/少校.md "wikilink")，使用機種VF-25、VB-6）、**妖精小隊**（隊長格蘭葛蘭[上尉](../Page/上尉.md "wikilink")，使用機種卡忒蘭・蕾雅）
     小說版中提到SMS還有**藍**、**朱紅**、**紫**這三個戰鬥機小隊，使用機種不明，僅確定各小隊皆配備1架與RVF-25相同裝備之[VF-22S](https://zh.wikipedia.org/wiki/YF-21/VF-22雨燕 "wikilink")。
 
 <!-- end list -->
@@ -360,11 +320,8 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   -
-    早在2048年，格蕾絲·奧康納根據第117調查船團對Vajra的研究結果，提出利用Fold
-    Quartz和植入技術連結全人類的思想，組成銀河系規模的思想網絡，名為「超時空網絡」。而網絡中地位最優越的節點將成為銀河系的支配者。
-    Macross
-    Galaxy高層在117船团毁灭事件后,回收并改造了格蕾丝的身体,通过格蕾絲及其理论展開相食作战，目標是實踐超時空網絡，並支配銀河系。行動中格蕾絲引導Vajra與Macross
-    Frontier接觸，促使兩者之間爆發戰爭自相残杀(同类相食Cannibal)。他們利用該場戰爭研究Vajra，尋找其母星和女王所在，最終目標為利用Vajra強逼全人類加入超時空網絡。
+    早在2048年，格蕾絲·奧康納根據第117調查船團對Vajra的研究結果，提出利用Fold Quartz和植入技術連結全人類的思想，組成銀河系規模的思想網絡，名為「超時空網絡」。而網絡中地位最優越的節點將成為銀河系的支配者。
+    Macross Galaxy高層在117船团毁灭事件后,回收并改造了格蕾丝的身体,通过格蕾絲及其理论展開相食作战，目標是實踐超時空網絡，並支配銀河系。行動中格蕾絲引導Vajra與Macross Frontier接觸，促使兩者之間爆發戰爭自相残杀(同类相食Cannibal)。他們利用該場戰爭研究Vajra，尋找其母星和女王所在，最終目標為利用Vajra強逼全人類加入超時空網絡。
     行動中需要一個接收Vajra之間Fold波通訊和發出Fold波影響Vajra的媒介，因而先後利用了雪露和蘭花。
 
 ## 机体
@@ -373,13 +330,12 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 
   - [VF-25 彌賽亞](../Page/VF-25彌賽亞.md "wikilink")（）
     新統合軍的次世代[可变形战斗机候選機](https://zh.wikipedia.org/wiki/可变形战斗机 "wikilink")，由L.A.I公司藉由銀河網路取得YF-24設計為核心架構開發完成，目前S.M.S以政治手段與開發單位合作取得一定數量的VF-25進行實戰測驗，目前S.M.S至少同時有4個小隊（16架）使用此款新型戰機。機體繼承了以往的可變戰鬥機特性，可加掛各種武裝背包輔助戰鬥，不過強化裝備有區域性限制，部分裝備無法在大氣圈內使用。
-    [彌賽亞此名稱為官方網站公開募集下選出之名](../Page/彌賽亞.md "wikilink")，原本出處為[聖經記載末日來臨時之救世主](https://zh.wikipedia.org/wiki/聖經 "wikilink")。「」一詞亦出現在初代林明美所唱之「小白龍」中。
+    [彌賽亞](../Page/彌賽亞.md "wikilink")此名稱為官方網站公開募集下選出之名，原本出處為[聖經記載末日來臨時之救世主](https://zh.wikipedia.org/wiki/聖經 "wikilink")。「」一詞亦出現在初代林明美所唱之「小白龍」中。
 
 <!-- end list -->
 
   - [VF-171 夢魘Plus](../Page/VF-17夢魘.md "wikilink")（）
-    [VF-17的衍生型](../Page/VF-17夢魘.md "wikilink")，装备于Macross
-    Frontier上的新統合軍部隊的普及型主力机体，以往的VF-17是款籌載性極高的戰鬥攻擊機，但是卻有生產性以及操縱性過於複雜的難題；VF-171將原先設計加以簡化並修改部分空力特性，在性能上比過去的VF-17來的低落以換取讓普通駕駛皆能順利操作的特性。在2059年时為各殖民船團最普及的机种，Frontier也大量的装备使用；劇情中出現的衍生型除了一開始的偵蒐用**RVF-171**外，後期出現裝載新型飛彈以及重粒子光束槍的火力強化版**VF-171Ex**。
+    [VF-17的衍生型](../Page/VF-17夢魘.md "wikilink")，装备于Macross Frontier上的新統合軍部隊的普及型主力机体，以往的VF-17是款籌載性極高的戰鬥攻擊機，但是卻有生產性以及操縱性過於複雜的難題；VF-171將原先設計加以簡化並修改部分空力特性，在性能上比過去的VF-17來的低落以換取讓普通駕駛皆能順利操作的特性。在2059年时為各殖民船團最普及的机种，Frontier也大量的装备使用；劇情中出現的衍生型除了一開始的偵蒐用**RVF-171**外，後期出現裝載新型飛彈以及重粒子光束槍的火力強化版**VF-171Ex**。
 
 <!-- end list -->
 
@@ -394,16 +350,13 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   - Queadluun Reia 卡忒兰・蕾雅（）
-    是在第一次宇宙大战中 Meltrandi 戰鬥裝甲服卡忒兰・露的改良型，在背部火箭助推器上加裝一門粒子砲。S.M.S 的巨人族
-    Pixie 小队保有三机，隊長机（葛兰上尉专用机）为红色，平时担负侦查任务。新统合军的巨人部队也大量装备本机。
+    是在第一次宇宙大战中 Meltrandi 戰鬥裝甲服卡忒兰・露的改良型，在背部火箭助推器上加裝一門粒子砲。S.M.S 的巨人族 Pixie 小队保有三机，隊長机（葛兰上尉专用机）为红色，平时担负侦查任务。新统合军的巨人部队也大量装备本机。
 
 <!-- end list -->
 
   - VF-27 路西法（）
-    S.M.S於故事初期遇到的不明可變戰鬥機正式名稱，由Macross
-    Galaxy船團以YF-24為基礎進行修改製造，可說是VF-25的姐妹機種。不過因為要求更高等級的作戰效能因此在機體性能上也有所提升，包括腦波操作座艙、重粒子光束槍(有機槍及光束槍形態,機槍是否使用實彈不明,光束槍形態不可連射,2槍相間時間大約等同VF-25G狙擊槍)、三維式向量噴嘴、固定式強化設備(加上了小型機槍,是否使用實彈不明)，擁有比VF-25更上一層的作戰能力；左腕也如同VF-25裝備盾牌以及格鬥武裝，格鬥武裝裝備了可伸縮式大型劍，也如同VF-25的戰鬥刀加裝了針點系統增強破壞力。但為了適應機體的高性能因此駕駛員無法如同VF-25般以EX-GEAR輔助即足夠，而是直接改造成半機械化肉體適應機體操作負荷。
-    [路西法此名稱為PSP遊戲](../Page/路西法.md "wikilink")「Macross Ace
-    Frontier」追加之名，原本出處為[聖經記載之墮落天使](https://zh.wikipedia.org/wiki/聖經 "wikilink")。
+    S.M.S於故事初期遇到的不明可變戰鬥機正式名稱，由Macross Galaxy船團以YF-24為基礎進行修改製造，可說是VF-25的姐妹機種。不過因為要求更高等級的作戰效能因此在機體性能上也有所提升，包括腦波操作座艙、重粒子光束槍(有機槍及光束槍形態,機槍是否使用實彈不明,光束槍形態不可連射,2槍相間時間大約等同VF-25G狙擊槍)、三維式向量噴嘴、固定式強化設備(加上了小型機槍,是否使用實彈不明)，擁有比VF-25更上一層的作戰能力；左腕也如同VF-25裝備盾牌以及格鬥武裝，格鬥武裝裝備了可伸縮式大型劍，也如同VF-25的戰鬥刀加裝了針點系統增強破壞力。但為了適應機體的高性能因此駕駛員無法如同VF-25般以EX-GEAR輔助即足夠，而是直接改造成半機械化肉體適應機體操作負荷。
+    [路西法](../Page/路西法.md "wikilink")此名稱為PSP遊戲「Macross Ace Frontier」追加之名，原本出處為[聖經記載之墮落天使](https://zh.wikipedia.org/wiki/聖經 "wikilink")。
 
 <!-- end list -->
 
@@ -413,31 +366,24 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 ### 船舰
 
   - Island Cluster級移民船
-    第五世代移民船，Macross Frontier船团的旗舰，原始設計與New
-    Macross級殖民船類似，但是大小擴大為直徑15[公里](../Page/公里.md "wikilink")、高2000公尺的超巨大移民船，與以往New
-    Macross級殖民船不同的是主島與農業艦及工業艦直接連結，得以創造出一個完整的封閉生態系。
+    第五世代移民船，Macross Frontier船团的旗舰，原始設計與New Macross級殖民船類似，但是大小擴大為直徑15[公里](../Page/公里.md "wikilink")、高2000公尺的超巨大移民船，與以往New Macross級殖民船不同的是主島與農業艦及工業艦直接連結，得以創造出一個完整的封閉生態系。
 
 <!-- end list -->
 
   - ;Battle Frontier
 
       -
-        Frontier內部代號「Battle 25」，New Macross級可變型航空母艦，是Macross
-        Frontier船團護航艦隊的作戰指揮中心兼臨時政府所在地。平時位於Island
-        One艦首，戰鬥時可以與Island One分離，分離可以變型為外表為人形的強攻型態。
+        Frontier內部代號「Battle 25」，New Macross級可變型航空母艦，是Macross Frontier船團護航艦隊的作戰指揮中心兼臨時政府所在地。平時位於Island One艦首，戰鬥時可以與Island One分離，分離可以變型為外表為人形的強攻型態。
 
   - ;Island One
 
       -
-        Macross
-        Frontier船团的主島與行政中心，半数以上的船团居民居住于此。船身直徑15[公里](../Page/公里.md "wikilink")，高2公里。
+        Macross Frontier船团的主島與行政中心，半数以上的船团居民居住于此。船身直徑15[公里](../Page/公里.md "wikilink")，高2公里。
 
   - ;Island Three
 
       -
-        Macross
-        Frontier船团的農業艦兼觀光景點，全長8公里、直徑3公里，呈圓筒形。艦內完整模擬地球環境，並艦艇容許祖拿達人以巨大化體型生活（巨大化對物資需求相對比普通人類來的多，對長期無補給的殖民艦隊是件龐大負荷）。另外，艦上亦設立了外星生物研究所，是對Vajra進行研究的主要設施。在第21話和Vajra的戰鬥中被用作Vajra的聚集點，連同Vajra被Fold炸彈「Micro
-        Dimension Eater」（簡稱MDE，代號「Little Girl」）摧毀。
+        Macross Frontier船团的農業艦兼觀光景點，全長8公里、直徑3公里，呈圓筒形。艦內完整模擬地球環境，並艦艇容許祖拿達人以巨大化體型生活（巨大化對物資需求相對比普通人類來的多，對長期無補給的殖民艦隊是件龐大負荷）。另外，艦上亦設立了外星生物研究所，是對Vajra進行研究的主要設施。在第21話和Vajra的戰鬥中被用作Vajra的聚集點，連同Vajra被Fold炸彈「Micro Dimension Eater」（簡稱MDE，代號「Little Girl」）摧毀。
 
   - ;Island 14
 
@@ -452,19 +398,14 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
   - Macross Quarter
     S.M.S所操作的战舰，同時也是S.M.S的基地。
 
-    雖然全長僅為400公尺大小的戰艦（與[初代Macross登場的ARMD級宇宙航母大小接近](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")），但具有與Macross類似的變形機構可變形為人型強攻模式進行突擊，除此外右舷安裝小型化的Macross
-    Cannon（重量子反應炮），並可自由操控針點防禦系統的範圍使用Macross
-    Attack，機動性和火力與同等大小戰艦相比顯得十分強大。
+    雖然全長僅為400公尺大小的戰艦（與[初代Macross登場的ARMD級宇宙航母大小接近](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")），但具有與Macross類似的變形機構可變形為人型強攻模式進行突擊，除此外右舷安裝小型化的Macross Cannon（重量子反應炮），並可自由操控針點防禦系統的範圍使用Macross Attack，機動性和火力與同等大小戰艦相比顯得十分強大。
 
-    在第22話中被杰弗里等人強奪，並空間跳躍後消失；後於調查結束後返回Frontier船團，在Vajra母星登陸戰時拯救Battle
-    Frontier並擔任攻擊矛頭擊潰Battle Galaxy。
+    在第22話中被杰弗里等人強奪，並空間跳躍後消失；後於調查結束後返回Frontier船團，在Vajra母星登陸戰時拯救Battle Frontier並擔任攻擊矛頭擊潰Battle Galaxy。
 
 <!-- end list -->
 
   - 關塔那摩（，Guantanamo）級航空母艦
-    Frontier船团护卫战舰中出現的戰艦，在[Macross
-    Plus及](../Page/Macross_Plus.md "wikilink")[Macross
-    7中均曾經出現](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，目前故事中Frontier船团艦載機皆由此級航空母艦搭載出擊。
+    Frontier船团护卫战舰中出現的戰艦，在[Macross Plus及](../Page/Macross_Plus.md "wikilink")[Macross 7中均曾經出現](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，目前故事中Frontier船团艦載機皆由此級航空母艦搭載出擊。
 
 <!-- end list -->
 
@@ -474,36 +415,33 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   - 浦賀（，Uraga）級突擊空母
-    同樣在[Macross
-    7中曾經出現之突擊空母](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，Frontier船团护卫艦隊也裝備此艦種。
+    同樣在[Macross 7中曾經出現之突擊空母](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，Frontier船团护卫艦隊也裝備此艦種。
 
 <!-- end list -->
 
-  - [土司空號](../Page/土司空.md "wikilink")（，Deneb Kaitos）
-    Galaxy護衛戰舰，[天津四級重巡洋艦](../Page/天津四.md "wikilink")。在Galaxy被攻擊時，和Dulfim逃離戰鬥區域。第7話中，在SMS的拯救行動中，被Vajra戰舰以主炮摧毀。
+  - [土司空](../Page/土司空.md "wikilink")號（，Deneb Kaitos）
+    Galaxy護衛戰舰，[天津四](../Page/天津四.md "wikilink")級重巡洋艦。在Galaxy被攻擊時，和Dulfim逃離戰鬥區域。第7話中，在SMS的拯救行動中，被Vajra戰舰以主炮摧毀。
 
 <!-- end list -->
 
   - 芻蒿六號（，Deneb Dulfim）
-    Galaxy護衛戰舰，[天津四級重巡洋艦](../Page/天津四.md "wikilink")。在Galaxy被攻擊時，和Kaitos逃離戰鬥區域。第7話中，成功在Vajra的追擊中逃脫，但因在Galaxy被攻擊時已經遠離現場，使Frontier無法得到Galaxy主舰的確實位置。同级舰艇出现于VF-X2中，为大企业财团背景的私人武装所有舰艇的同类型。
+    Galaxy護衛戰舰，[天津四](../Page/天津四.md "wikilink")級重巡洋艦。在Galaxy被攻擊時，和Kaitos逃離戰鬥區域。第7話中，成功在Vajra的追擊中逃脫，但因在Galaxy被攻擊時已經遠離現場，使Frontier無法得到Galaxy主舰的確實位置。同级舰艇出现于VF-X2中，为大企业财团背景的私人武装所有舰艇的同类型。
 
 <!-- end list -->
 
   - [Macross改級](https://zh.wikipedia.org/wiki/SDF-1_Macross "wikilink")（）移民調查船四號艦Global
-    第117次探索船團旗艦，2048年船團於[行星Galia](../Page/行星.md "wikilink")4上遭Vajra襲擊後在此地廢棄\[6\]，最後在Vajra母船覺醒後遭到撞擊解體。
+    第117次探索船團旗艦，2048年船團於[行星](../Page/行星.md "wikilink")Galia4上遭Vajra襲擊後在此地廢棄\[6\]，最後在Vajra母船覺醒後遭到撞擊解體。
 
 <!-- end list -->
 
   - Battle Galaxy
-    Macross Galaxy的新馬克羅斯級可變型航空母艦，外型與Battle Frontier略有不同，於故事最後遭到Macross
-    Quarter與Battle Frontier的Macross Attack聯手摧毀。
+    Macross Galaxy的新馬克羅斯級可變型航空母艦，外型與Battle Frontier略有不同，於故事最後遭到Macross Quarter與Battle Frontier的Macross Attack聯手摧毀。
 
 ## 宇宙生物
 
   - Vajra
-    袭击Macross
-    Frontier船团的宇宙生物，11年前曾袭击第117次大规模考察船团，實際起源以及演化方式不明。S.M.S内部代号為Victor。
-    研究指出Vajra是為生物兵器，外殼結構與[可變型戰鬥機一樣為能量轉換裝甲製成](../Page/可變型戰鬥機.md "wikilink")，腦容量極少（近乎不存在），平時行動一般為依照本能或被皇后操控，可在體內不斷生成類似導彈的物體，以空間跳躍（Fold）行為作為行動道標，個體間可以用內生的空間跳躍水晶連結資訊，並吸收個體間遭到擊毀的訊息不斷進化強化到各式武裝無力對抗的境界。
+    袭击Macross Frontier船团的宇宙生物，11年前曾袭击第117次大规模考察船团，實際起源以及演化方式不明。S.M.S内部代号為Victor。
+    研究指出Vajra是為生物兵器，外殼結構與[可變型戰鬥機](../Page/可變型戰鬥機.md "wikilink")一樣為能量轉換裝甲製成，腦容量極少（近乎不存在），平時行動一般為依照本能或被皇后操控，可在體內不斷生成類似導彈的物體，以空間跳躍（Fold）行為作為行動道標，個體間可以用內生的空間跳躍水晶連結資訊，並吸收個體間遭到擊毀的訊息不斷進化強化到各式武裝無力對抗的境界。
     實際上Vajra是原始文化時期就存在並被視為「神」的物種，並將其姿態視為「鳥人」（鳥の人）\[7\]，原始文化即是在接觸Vajra後學習到Fold科技，也因此而發展出偉大的宇宙文明；與已知生物不同，靠腸內的共生V菌思考，並靠體內的Fold水晶做種族間群體思考，有採集Fold礦石的習性因此本能會主動移動至最近的Fold反應發信源；當初是因為探測到與V菌和平共存的蘭花·李（）發生的Fold波而與人類接觸，卻陰錯陽差導致第117調查團毀滅，而後又受到雪露·諾姆（シェリル・ノーム）體內V菌產生的Fold波誘導而與船團開戰；最後在蘭花與雪露利用歌聲散發Fold波使得Vajra的群體思考接納人類，終而停止攻擊人類。
     Vajra群體間有類似歌曲的和鳴「」，是做為數十萬年一次的交配期,與其他Vajra族群溝通用的「情歌」\[8\]。
     「Vajra」源自於梵文的金剛（वज्र），取“坚不可摧、亦无坚不摧”之义。
@@ -537,13 +475,11 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   - Vajra女王
-    在Vajra母星出場的個體，為銀河系中所有Vajra的首腦，基本上由此個體發出的命令Vajra無法違抗，在Macross
-    Zero中所登場的鳥之人為原始文明仿造Vajra女王製造而成的東西。
+    在Vajra母星出場的個體，為銀河系中所有Vajra的首腦，基本上由此個體發出的命令Vajra無法違抗，在Macross Zero中所登場的鳥之人為原始文明仿造Vajra女王製造而成的東西。
 
 ## 製作人員
 
-  - 原作：[河森正治](../Page/河森正治.md "wikilink")、[Studio
-    Nue](https://zh.wikipedia.org/wiki/Studio_Nue "wikilink")
+  - 原作：[河森正治](../Page/河森正治.md "wikilink")、[Studio Nue](https://zh.wikipedia.org/wiki/Studio_Nue "wikilink")
   - 總監督、故事構成：河森正治
   - 監督：[菊地康仁](../Page/菊地康仁.md "wikilink")
   - 製片人：國崎久德、[丸山博雄](https://zh.wikipedia.org/wiki/丸山博雄 "wikilink")、諸富洋史（MBS）、平井伸一、葛西勵
@@ -562,11 +498,9 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
   - 音樂：[菅野洋子](../Page/菅野洋子.md "wikilink")
   - 音樂製片人：[佐佐木史郎](https://zh.wikipedia.org/wiki/佐佐木史郎 "wikilink")、太田敏明
   - 音樂導演：井上裕香子
-  - 音樂制作：[flyingDOG](https://zh.wikipedia.org/wiki/flyingDOG "wikilink")/JVC
-    Music、[BorderLine](https://zh.wikipedia.org/wiki/BorderLine "wikilink")
+  - 音樂制作：[flyingDOG](https://zh.wikipedia.org/wiki/flyingDOG "wikilink")/JVC Music、[BorderLine](https://zh.wikipedia.org/wiki/BorderLine "wikilink")
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
-  - 音響制作：[Techno
-    Sound](https://zh.wikipedia.org/wiki/Techno_Sound "wikilink")
+  - 音響制作：[Techno Sound](https://zh.wikipedia.org/wiki/Techno_Sound "wikilink")
   - 動畫製作：[SATELIGHT](../Page/SATELIGHT.md "wikilink")
   - 製作：Macross Frontier制作委员会、BigWest、每日放送
 
@@ -575,23 +509,18 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 ### 片頭曲
 
   - 「」(Triangular / 三角的關係)（第1話～第16話）
-    作詞：[Gabriela
-    Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲/编曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
-    歌：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")
+    作詞：[Gabriela Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲/编曲：[菅野洋子](../Page/菅野洋子.md "wikilink") 歌：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")
   - 「」（第17话）\[9\]
     作词：松本隆，作曲/编曲：菅野洋子，歌：Ranka Lee=中島愛
   - 「」(Lion / 獅子 / 獅子座Leo)（第18話～第24話）
-    作词：Gabriela Robin，作曲/编曲：菅野洋子，歌：Sheryl Nome starring May'n、Ranka
-    Lee=中島愛
+    作词：Gabriela Robin，作曲/编曲：菅野洋子，歌：Sheryl Nome starring May'n、Ranka Lee=中島愛
 
 ### 片尾曲
 
   - 「」(Love．Do you remember / 愛．可有記起)（SP，第12話）
-    作詞：安井，作曲：加藤和彥，編曲：菅野洋子，歌：Ranka
-    Lee=[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
+    作詞：安井，作曲：加藤和彥，編曲：菅野洋子，歌：Ranka Lee=[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
   - 「」(Diamond crevasse / 鑽石裂縫)（第2话～第14话, 第20话）
-    作詞：[hal](https://zh.wikipedia.org/wiki/hal "wikilink")，作曲/編曲：菅野洋子，歌：Sheryl
-    Nome starring [May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")
+    作詞：[hal](https://zh.wikipedia.org/wiki/hal "wikilink")，作曲/編曲：菅野洋子，歌：Sheryl Nome starring [May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")
   - 「」(AIMO / 您啊)（第1话，第7话）
     作詞：Gabriela Robin，作曲/編曲：菅野洋子，歌：Ranka Lee=中島愛
   - 「」(您啊～鳥之人 / 劇中Macross Zero 故事"鳥之人"主題曲版本)（第10话）
@@ -603,15 +532,11 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
   - 「」(Northern Cross / 北十字架"天鵝星座")（第16话～第18话, 第22话\~第24話）
     作詞：岩里祐穂、Gabriela Robin，作曲/編曲：菅野洋子，歌：Sheryl Nome starring May'n
   - 「」(Triangular / 三角的"關係")（第19話）
-    作詞：[Gabriela
-    Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲/编曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
-    歌：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")
+    作詞：[Gabriela Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲/编曲：[菅野洋子](../Page/菅野洋子.md "wikilink") 歌：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")
   - 「」(蒼之Ether / 蒼藍之以太)（第21話）
-    作詞：[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")，作曲/编曲：菅野洋子，歌：Ranka
-    Lee=中島愛
+    作詞：[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")，作曲/编曲：菅野洋子，歌：Ranka Lee=中島愛
   - 「」 (Triangular / 三角的"關係" (在舞台上戰鬥版本) )（第25話）
-    作詞：Gabriela Robin，作曲/编曲：菅野洋子，歌：Ranka Lee=中島愛、Sheryl Nome starring
-    May'n
+    作詞：Gabriela Robin，作曲/编曲：菅野洋子，歌：Ranka Lee=中島愛、Sheryl Nome starring May'n
 
 ### 插入曲
 
@@ -620,11 +545,9 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
   - 「」(突擊Love Heart / 突擊愛的心臟)（第2话）
     作詞：K.INOJO，作曲/編曲：河内淳贵，歌：FIRE BOMBER
   - 「」(您啊)
-    作詞：Gabriela Robin，作曲/編曲：菅野洋子，歌：Ranka Lee=中島愛（第3话，第8话，第12话，第14话,第21话）
-    / 坂本真绫（第14话）
+    作詞：Gabriela Robin，作曲/編曲：菅野洋子，歌：Ranka Lee=中島愛（第3话，第8话，第12话，第14话,第21话） / 坂本真绫（第14话）
   - 「What 'bout my star?」(哪顆是我的星?)
-    作詞：hal，作曲/編曲：菅野洋子，歌：Sheryl Nome starring May'n（SP，第1话，第5话） / Ranka
-    Lee=中島愛（第5话） / Sheryl Nome starring May'n、Ranka Lee=中島愛（第15话）
+    作詞：hal，作曲/編曲：菅野洋子，歌：Sheryl Nome starring May'n（SP，第1话，第5话） / Ranka Lee=中島愛（第5话） / Sheryl Nome starring May'n、Ranka Lee=中島愛（第15话）
   - 「」(我的他是飛行員)（第4话）
     作词：阿佐茜，作曲：羽田健太郎，编曲：保刈久明、菅野洋子，歌：Ranka Lee=中島愛
   - 「」(SMS小隊之歌\~這位女孩是Alien / SMS小隊之歌\~這位女孩是外星人)（第4话）
@@ -663,7 +586,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 
 ## 各集標題
 
-  - 全劇腳本由[吉野弘幸所寫](../Page/吉野弘幸.md "wikilink")。
+  - 全劇腳本由[吉野弘幸](../Page/吉野弘幸.md "wikilink")所寫。
   - 所有未播出集數的中文翻譯都以字面意思為準，純正的翻譯需以該集內容做為參考。
 
 <table>
@@ -972,9 +895,7 @@ KIM YONG-SIK</p></td>
 
 ### 單曲CD
 
-**\*
-「[トライアングラー](https://zh.wikipedia.org/wiki/トライアングラー "wikilink")」歌：坂本真綾
-2008年4月23日發售
+**\* 「[トライアングラー](https://zh.wikipedia.org/wiki/トライアングラー "wikilink")」歌：坂本真綾 2008年4月23日發售
 ** 1. トライアングラー
 2\. ことみち
 3\. トライアングラー (w/o maaya)
@@ -1141,10 +1062,8 @@ KIM YONG-SIK</p></td>
 <!-- end list -->
 
   -
-    收錄 第1話 **近距離接觸** ( Yack Deculture edition 32分鐘, Deculture edition
-    27分鐘 )
-    音聲特典：實況解說
-    出演：[遠藤綾](../Page/遠藤綾.md "wikilink")、[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、[河森正治](../Page/河森正治.md "wikilink")
+    收錄 第1話 **近距離接觸** ( Yack Deculture edition 32分鐘, Deculture edition 27分鐘 )
+    音聲特典：實況解說 出演：[遠藤綾](../Page/遠藤綾.md "wikilink")、[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、[河森正治](../Page/河森正治.md "wikilink")
 
 <!-- end list -->
 
@@ -1154,8 +1073,7 @@ KIM YONG-SIK</p></td>
 
   -
     收錄 第2話 **激烈追逐**、第3話 **在你心中**、第4話 **Miss Macross**
-    音聲特典：實況解說
-    出演：[小西克幸](../Page/小西克幸.md "wikilink")、中島愛、[吉野弘幸](../Page/吉野弘幸.md "wikilink")
+    音聲特典：實況解說 出演：[小西克幸](../Page/小西克幸.md "wikilink")、中島愛、[吉野弘幸](../Page/吉野弘幸.md "wikilink")
 
 <!-- end list -->
 
@@ -1165,8 +1083,7 @@ KIM YONG-SIK</p></td>
 
   -
     收錄 第5話 **明星約會**、第6話 **再見雪露**、第7話 **首次攻擊**
-    音聲特典：實況解說
-    出演：[中村悠一](../Page/中村悠一.md "wikilink")、[神谷浩史](../Page/神谷浩史.md "wikilink")、[福山潤](../Page/福山潤.md "wikilink")
+    音聲特典：實況解說 出演：[中村悠一](../Page/中村悠一.md "wikilink")、[神谷浩史](../Page/神谷浩史.md "wikilink")、[福山潤](../Page/福山潤.md "wikilink")
 
 <!-- end list -->
 
@@ -1220,8 +1137,7 @@ KIM YONG-SIK</p></td>
 
 <!-- end list -->
 
-  - 第9卷 (最終卷) 2009年4月24日發售, Part No. Blu-ray - BCXA-0048, DVD -
-    BCBA-3337
+  - 第9卷 (最終卷) 2009年4月24日發售, Part No. Blu-ray - BCXA-0048, DVD - BCBA-3337
 
 <!-- end list -->
 
@@ -1252,8 +1168,7 @@ KIM YONG-SIK</p></td>
 
       - [劇場版 Macross F 虛空歌姬](http://www.macrossf.com/movie/)
 
-      - [劇場版 Macross F
-        戀離飛翼](https://web.archive.org/web/20120905115053/http://www.macrossf.com/movie2/)
+      - [劇場版 Macross F 戀離飛翼](https://web.archive.org/web/20120905115053/http://www.macrossf.com/movie2/)
 
   - [MBS动画主页](http://www.mbs.jp/macross-f)
 
@@ -1265,16 +1180,7 @@ KIM YONG-SIK</p></td>
 
   - [Macross歌姬选拔活动主页](http://www.jvcmusic.co.jp/audition/v3/)
 
-[Category:超时空要塞](https://zh.wikipedia.org/wiki/Category:超时空要塞 "wikilink")
-[Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink")
-[Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink")
-[Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
-[Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
+[Category:超时空要塞](https://zh.wikipedia.org/wiki/Category:超时空要塞 "wikilink") [Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink") [Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink") [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink") [Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
 
 1.
 

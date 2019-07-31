@@ -503,8 +503,6 @@
 
 ## 參考文獻
 
-[Category:日本漫畫獎](https://zh.wikipedia.org/wiki/Category:日本漫畫獎 "wikilink")
-[Category:集英社主導的獎](https://zh.wikipedia.org/wiki/Category:集英社主導的獎 "wikilink")
-[Category:週刊少年Jump](https://zh.wikipedia.org/wiki/Category:週刊少年Jump "wikilink")
+[Category:日本漫畫獎](https://zh.wikipedia.org/wiki/Category:日本漫畫獎 "wikilink") [Category:集英社主導的獎](https://zh.wikipedia.org/wiki/Category:集英社主導的獎 "wikilink") [Category:週刊少年Jump](https://zh.wikipedia.org/wiki/Category:週刊少年Jump "wikilink")
 
 1.  新たに描き下ろした「トリュフュールとパウロ」にて、赤マルジャンプ2005SPRINGでデビュー。

@@ -12,6 +12,4 @@
 
   - **[珊农·露茜德](../Page/珊农·露茜德.md "wikilink")**（，曾执行、、、以及任务），任务专家
 
-[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink")
-[Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink")
-[Category:1996年](https://zh.wikipedia.org/wiki/Category:1996年 "wikilink")
+[Category:载人航天](https://zh.wikipedia.org/wiki/Category:载人航天 "wikilink") [Category:航天飞机任务](https://zh.wikipedia.org/wiki/Category:航天飞机任务 "wikilink") [Category:1996年](https://zh.wikipedia.org/wiki/Category:1996年 "wikilink")

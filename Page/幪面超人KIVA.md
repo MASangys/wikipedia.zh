@@ -1,6 +1,6 @@
-《**假面騎士KIVA**》從2008年1月27日起於毎週日早上8:00—8:30朝日電視台放映、共48話。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第9部[平成系列作品](../Page/平成.md "wikilink")。
+《**假面騎士KIVA**》從2008年1月27日起於毎週日早上8:00—8:30朝日電視台放映、共48話。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第9部[平成](../Page/平成.md "wikilink")系列作品。
 
-但因為本作是全[假面騎士系列的第](../Page/假面騎士系列.md "wikilink")18作，所以如果將本作標題下方的一條横線忽略掉的話，那日本字「キバ」就變成國文的「十八」了。
+但因為本作是全[假面騎士系列](../Page/假面騎士系列.md "wikilink")的第18作，所以如果將本作標題下方的一條横線忽略掉的話，那日本字「キバ」就變成國文的「十八」了。
 
 香港方面以**-{幪面超人月騎}-**為譯名，於2010年11月13日起每週六11:30—11:55在無綫電視翡翠台播出。
 
@@ -15,15 +15,7 @@
 
 ## 故事
 
-故事關於主角**紅渡**與父親**紅音也**兩個世代的人的故事，播放形式從1986及2008年[時間旅行](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")，給觀眾一種全新體驗。值得一提的是，今次KIVA同樣具有四種不同形態（包括吸血鬼，狼人Garuru，半魚人Bashaa及科學怪人Dogga）。而且今次的變身腰帶罕有地是主角的拍擋。腰帶附有六個笛子。分別可令KIVA使出必殺技（Wake
-Up Fuestle），轉換型態（Garulu Saber Fuestle、Basshaa Magnum Fuestle和Dogga
-Hammer Fuestle），召喚[城堡](../Page/城堡.md "wikilink")（Doran
-Fuestle）及強化[電單車](https://zh.wikipedia.org/wiki/電單車 "wikilink")（Buroon
-Fuestle）。另一名和KIVA相對的**假面騎士IXA**的腰帶亦附有六個笛子的[晶片](https://zh.wikipedia.org/wiki/芯片 "wikilink")，不但有著搶奪KIVA武器（Garulu
-Fake Fuestle、Basshaa Fake Fuestle和Dogga Fake
-Fuestle）的能力，更可令IXA使出必殺技（Knuckle
-Fuestle和Calibur Fuestle）及召喚機械獸（Powerd
-Fuestle）。而今次KIVA要面對的敵人是以活人的生命能量為食糧的**牙血鬼**。他們出現的原因未明，但可能與**麻生惠**所說的一樣，讓牙血鬼生存於世上，是神的一個錯誤。本作也是假面騎士史上首次加入主角的愛情元素。
+故事關於主角**紅渡**與父親**紅音也**兩個世代的人的故事，播放形式從1986及2008年[時間旅行](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")，給觀眾一種全新體驗。值得一提的是，今次KIVA同樣具有四種不同形態（包括吸血鬼，狼人Garuru，半魚人Bashaa及科學怪人Dogga）。而且今次的變身腰帶罕有地是主角的拍擋。腰帶附有六個笛子。分別可令KIVA使出必殺技（Wake Up Fuestle），轉換型態（Garulu Saber Fuestle、Basshaa Magnum Fuestle和Dogga Hammer Fuestle），召喚[城堡](../Page/城堡.md "wikilink")（Doran Fuestle）及強化[電單車](https://zh.wikipedia.org/wiki/電單車 "wikilink")（Buroon Fuestle）。另一名和KIVA相對的**假面騎士IXA**的腰帶亦附有六個笛子的[晶片](https://zh.wikipedia.org/wiki/芯片 "wikilink")，不但有著搶奪KIVA武器（Garulu Fake Fuestle、Basshaa Fake Fuestle和Dogga Fake Fuestle）的能力，更可令IXA使出必殺技（Knuckle Fuestle和Calibur Fuestle）及召喚機械獸（Powerd Fuestle）。而今次KIVA要面對的敵人是以活人的生命能量為食糧的**牙血鬼**。他們出現的原因未明，但可能與**麻生惠**所說的一樣，讓牙血鬼生存於世上，是神的一個錯誤。本作也是假面騎士史上首次加入主角的愛情元素。
 
 ## 登場人物
 
@@ -141,7 +133,7 @@ Fuestle）。而今次KIVA要面對的敵人是以活人的生命能量為食糧
 踢擊力：18t<br />
 飛行速度：3.4<br />
 在劇場版中進化成魔皇型態後，再進一步進化成吸血鬼飛翔型態，與再度進化的惡Arc在空中進行決戰，KIVA型態的蝙蝠腳甲由腳升至胸甲，再升至頭部成為頭甲。<br />
-TV版中由KIVA拉奏<a href="../Page/小提琴.md" title="wikilink">小提琴Bloody</a> Rose進化而成，但在第45話中，沒有拉奏小提琴Bloody Rose但也能成功變化成飛翔型態。</p></td>
+TV版中由KIVA拉奏<a href="../Page/小提琴.md" title="wikilink">小提琴</a>Bloody Rose進化而成，但在第45話中，沒有拉奏小提琴Bloody Rose但也能成功變化成飛翔型態。</p></td>
 <td><p>巨大<a href="https://zh.wikipedia.org/wiki/鳥獸" title="wikilink">鳥獸的外形</a>，KIVA型態的蝙蝠腳甲由腳升至胸甲，再升至頭部成為頭甲。</p></td>
 <td></td>
 <td><p>必杀技是怒血攻击和耀月破。</p></td>
@@ -161,10 +153,7 @@ TV版中由KIVA拉奏<a href="../Page/小提琴.md" title="wikilink">小提琴Bl
   - 替身演員 [岡元次郎](https://zh.wikipedia.org/wiki/岡元次郎 "wikilink")
   - 曾使用IXA腰帶的人（順次序）：次狼（1986年）/音也（86）/ROOK（86）/麻生友里（86）/名護啟介（08）/糸矢僚（蜘蛛牙血鬼）（08）/麻生惠（08）/襟立健吾（08）
 
-假面騎士IXA（第09話登場），與**KIVA**相對的藍色假面騎士，由至上藍天會研發出的假面騎士系統。其開發者之一是麻生友里母親。全名為**Intercept
-X
-Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳腳力](../Page/電力.md "wikilink")。由名護啟介變身（在2008年），次狼及紅音也亦曾變身過（在1986年）。但第一代的IXA由於系統内的強大力量而使用一段時間後令變身者無法承受系統過剩的力量，會自動解除變身的同時也會對變身者造成傷害。結果由第一次起動開始不斷的改良，2008年的是改良的「Ver.X」，而且已經撇除了令變身者無法承受過剩力量的缺點。在第27話更強化為「Ver.XI」。使用必殺技時背後的是[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")，代表光明。
-身長：220cm 體重：160kg 拳擊力: 7t 腳踢力：3t 跳躍力：一跳達30m
+假面騎士IXA（第09話登場），與**KIVA**相對的藍色假面騎士，由至上藍天會研發出的假面騎士系統。其開發者之一是麻生友里母親。全名為**Intercept X Attacker（攔截未知攻擊者）**。透過[電力](../Page/電力.md "wikilink")傳導引發出驚人的拳腳力。由名護啟介變身（在2008年），次狼及紅音也亦曾變身過（在1986年）。但第一代的IXA由於系統内的強大力量而使用一段時間後令變身者無法承受系統過剩的力量，會自動解除變身的同時也會對變身者造成傷害。結果由第一次起動開始不斷的改良，2008年的是改良的「Ver.X」，而且已經撇除了令變身者無法承受過剩力量的缺點。在第27話更強化為「Ver.XI」。使用必殺技時背後的是[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")，代表光明。 身長：220cm 體重：160kg 拳擊力: 7t 腳踢力：3t 跳躍力：一跳達30m
 
 <table>
 <tbody>
@@ -193,7 +182,7 @@ Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳
 <td><p>style="text-align:center”|<strong>Burst Mode<br />
 爆發模式</strong></p></td>
 <td><p>劇中的主要形態<br />
-四周的<a href="https://zh.wikipedia.org/wiki/爆炸" title="wikilink">爆炸可謂代表</a><a href="../Page/神.md" title="wikilink">神的憤怒</a>（但是實際上只有爆發一次）<br />
+四周的<a href="https://zh.wikipedia.org/wiki/爆炸" title="wikilink">爆炸可謂代表</a><a href="../Page/神.md" title="wikilink">神</a>的憤怒（但是實際上只有爆發一次）<br />
 身高：220cm<br />
 體重：160kg<br />
 拳擊力：7t<br />
@@ -214,7 +203,7 @@ Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳
 踢擊力：12t<br />
 跳躍力：一跳達70m<br />
 行動速度：100m需時3秒</p></td>
-<td><p>會將外部裝甲卸除，露出胸部的內部構造(類似前作<a href="../Page/假面骑士KABUTO.md" title="wikilink">假面骑士KABUTO中的Cast</a> Off和<a href="../Page/假面騎士555.md" title="wikilink">假面騎士555的Axel</a> Form)。</p></td>
+<td><p>會將外部裝甲卸除，露出胸部的內部構造(類似前作<a href="../Page/假面骑士KABUTO.md" title="wikilink">假面骑士KABUTO</a>中的Cast Off和<a href="../Page/假面騎士555.md" title="wikilink">假面騎士555</a>的Axel Form)。</p></td>
 <td><p>武器為手機變成的槍，由於威力過大，第一次使用時，名護一開槍便被反彈。</p></td>
 <td><p>使用IXA Riser的晶片才能發動必殺技<strong>Final Rising Blast（終極昇華轟擊）</strong></p></td>
 </tr>
@@ -232,17 +221,13 @@ Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳
 
   - 替身演員 [永德](https://zh.wikipedia.org/wiki/永德 "wikilink")
 
-第32話登場，裝著者為登太牙，TV版中的第三位假面騎士，設計原型為[蛇](../Page/蛇.md "wikilink")，身體以[銀色為主](https://zh.wikipedia.org/wiki/銀色 "wikilink")。四幹部之王的變身腰帶，頭頂呈皇冠狀。武器紅色劍身的[西洋劍](https://zh.wikipedia.org/wiki/西洋劍 "wikilink")，但又能自由伸縮成鞭子，類似[蛇腹劍](../Page/蛇腹劍.md "wikilink")。覺醒後出招時蛇鞭會貫穿敵人，令敵人不能動彈，接著SAGA跳起穿過在空中出現的大型KIVA圖騰，把鞭子掛在半空的圖騰上，在自身著陸後吊起鞭子另一端的敵人，然後在對方身上引發強烈爆炸，稱為「**Snaking
-Death-Break（蛇行死亡爆破）**」。
+第32話登場，裝著者為登太牙，TV版中的第三位假面騎士，設計原型為[蛇](../Page/蛇.md "wikilink")，身體以[銀色為主](https://zh.wikipedia.org/wiki/銀色 "wikilink")。四幹部之王的變身腰帶，頭頂呈皇冠狀。武器紅色劍身的[西洋劍](https://zh.wikipedia.org/wiki/西洋劍 "wikilink")，但又能自由伸縮成鞭子，類似[蛇腹劍](../Page/蛇腹劍.md "wikilink")。覺醒後出招時蛇鞭會貫穿敵人，令敵人不能動彈，接著SAGA跳起穿過在空中出現的大型KIVA圖騰，把鞭子掛在半空的圖騰上，在自身著陸後吊起鞭子另一端的敵人，然後在對方身上引發強烈爆炸，稱為「**Snaking Death-Break（蛇行死亡爆破）**」。
 
 身長：205cm 體重：110kg 拳擊力： 12t 腳踢力：35t 跳躍力：一跳達90m 行動速度：100m需時2秒
 
 ### 假面騎士Dark KIVA（闇黑Kiva）
 
-第38話登場，TV版中的第四位假面騎士。能夠使用特殊的綠色KIVA圖騰﹐將對方困在像網子的結界上，或用兩個圖騰將對方壓殺。腰帶上有跟KIVA的笛子類似，但是這是封印笛的笛子。
-由一般人變身時會令變身者的身心嚴重受創﹐多次或長時間變身甚至會死亡。 身長：205cm 體重：112kg 拳擊力： 20t 腳踢力：35t
-跳躍力：一跳達250m 行動速度：100m需時1.2秒 必殺：Wake Up One‧**Darkness Hell
-Crash（暗獄墜）**；
+第38話登場，TV版中的第四位假面騎士。能夠使用特殊的綠色KIVA圖騰﹐將對方困在像網子的結界上，或用兩個圖騰將對方壓殺。腰帶上有跟KIVA的笛子類似，但是這是封印笛的笛子。 由一般人變身時會令變身者的身心嚴重受創﹐多次或長時間變身甚至會死亡。 身長：205cm 體重：112kg 拳擊力： 20t 腳踢力：35t 跳躍力：一跳達250m 行動速度：100m需時1.2秒 必殺：Wake Up One‧**Darkness Hell Crash（暗獄墜）**；
 Wake Up Two‧*King"s Burst End（皇之爆裂終結）*';
 Wake up three‧''King"s world End（皇之世界終結）(沒有在劇中使用 設定說 這招如果使用會毀掉世界。)
 
@@ -266,9 +251,7 @@ KIVA變身成Dogabaki Emperor Form 的新形態， 必杀技是轰吼浪帝王�
 
   - 登場角色
 
-:\#幪面超人Prototype IXA
-烈騎原型：1986年至上藍天會的會長嵨護為迎戰四幹部中的城堡而變身，與幪面超人IXA的保全模式相似，但胸口則為十字架，使用帶有電極的大型打椿機「IXA
-Hammer」作戰，但不久即敗陣。
+:\#幪面超人Prototype IXA 烈騎原型：1986年至上藍天會的會長嵨護為迎戰四幹部中的城堡而變身，與幪面超人IXA的保全模式相似，但胸口則為十字架，使用帶有電極的大型打椿機「IXA Hammer」作戰，但不久即敗陣。
 
 :\#幪面超人Kivala：麻生惠借助Kiva三世妺妺Kivala的力量作戰，能力及外貌與Decade的光夏海相同。
 
@@ -364,7 +347,7 @@ Hammer」作戰，但不久即敗陣。
 
 ### 獎項
 
-  - 由[李榮耀演唱之香港區粵語版片頭曲](https://zh.wikipedia.org/wiki/李榮耀 "wikilink")《破格》曾於[新城電台兒童節目](../Page/新城電台.md "wikilink")《星期日大菠蘿》成為環節「勁爆兒歌榜」冠軍歌曲
+  - 由[李榮耀演唱之香港區粵語版片頭曲](https://zh.wikipedia.org/wiki/李榮耀 "wikilink")《破格》曾於[新城電台](../Page/新城電台.md "wikilink")兒童節目《星期日大菠蘿》成為環節「勁爆兒歌榜」冠軍歌曲
 
 ## 演員表
 
@@ -1008,16 +991,11 @@ Hammer」作戰，但不久即敗陣。
   - [朝日假面騎士KIVA網站](http://www.tv-asahi.co.jp/kiva/)
   - [東映假面騎士KIVA網站](http://www.toei.co.jp/tv/kiva/)
 
-[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink")
-[Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
-[Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink")
-[Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink")
-[Category:吸血鬼題材作品](https://zh.wikipedia.org/wiki/Category:吸血鬼題材作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:吸血鬼題材作品](https://zh.wikipedia.org/wiki/Category:吸血鬼題材作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
-1.  [狼人型態](../Page/狼人.md "wikilink")/獸吼型態
-2.  [人魚型態](../Page/人魚.md "wikilink")/翻浪型態
-3.  [科學怪人型態](../Page/科學怪人.md "wikilink")/轟擊型態
+1.  [狼人](../Page/狼人.md "wikilink")型態/獸吼型態
+2.  [人魚](../Page/人魚.md "wikilink")型態/翻浪型態
+3.  [科學怪人](../Page/科學怪人.md "wikilink")型態/轟擊型態
 4.  四重型態/轟吼浪型態
 5.  所有Kivat Bat都是同一人配音
 6.  6月15日停播一次

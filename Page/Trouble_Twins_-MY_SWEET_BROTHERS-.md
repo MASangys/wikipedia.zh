@@ -1,9 +1,8 @@
-《**Trouble Twins -MY SWEET BROTHERS-**》是[TeraBytes
-Records製作的](https://zh.wikipedia.org/wiki/TeraBytes_Records "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，於2007年12月29日至31日舉行的[C73中的F](../Page/Comic_Market.md "wikilink")\&C·SLP先行發售，2008年1月25日正式發售。
+《**Trouble Twins -MY SWEET BROTHERS-**》是[TeraBytes Records製作的](https://zh.wikipedia.org/wiki/TeraBytes_Records "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，於2007年12月29日至31日舉行的[C73中的F](../Page/Comic_Market.md "wikilink")\&C·SLP先行發售，2008年1月25日正式發售。
 
 ## 故事簡介
 
-喜歡色色的惡作劇的主角**朝日真矢**和優異生的妹妹**朝日舞耶**就讀建校10年的鳥居坂中學校1年1組，雖然是[雙胞胎但性格相反的他們每天都鬧起事來](../Page/雙胞胎.md "wikilink")。在某一天，他們父母要出外旅行兩週，其間兩人需要自己生活。圍繞著兩人的還有經常被欺負的**胡桃澤深紅**、千金小姐**桐島梨梨花**等。
+喜歡色色的惡作劇的主角**朝日真矢**和優異生的妹妹**朝日舞耶**就讀建校10年的鳥居坂中學校1年1組，雖然是[雙胞胎](../Page/雙胞胎.md "wikilink")但性格相反的他們每天都鬧起事來。在某一天，他們父母要出外旅行兩週，其間兩人需要自己生活。圍繞著兩人的還有經常被欺負的**胡桃澤深紅**、千金小姐**桐島梨梨花**等。
 
 充滿鬧劇的一個七月夏日故事就這樣開始。
 
@@ -45,19 +44,12 @@ Records製作的](https://zh.wikipedia.org/wiki/TeraBytes_Records "wikilink")[�
 
   - [](http://www.dengekionline.com/data/news/2007/11/22/ffc996b69ea3e479987cc66dba8e3abb.html)
 
-  - [Getchu.com：Trouble Twins -MY SWEET BROTHERS-（TeraBytes
-    Records）](http://www.getchu.com/soft.phtml?id=492765)
+  - [Getchu.com：Trouble Twins -MY SWEET BROTHERS-（TeraBytes Records）](http://www.getchu.com/soft.phtml?id=492765)
 
 </div>
 
 ## 外部連結
 
-  - [Trouble Twins -MY SWEET
-    BROTHERS-](https://web.archive.org/web/20071207092646/http://toratun.com/)
+  - [Trouble Twins -MY SWEET BROTHERS-](https://web.archive.org/web/20071207092646/http://toratun.com/)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:雙胞胎題材遊戲](https://zh.wikipedia.org/wiki/Category:雙胞胎題材遊戲 "wikilink")
-[Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:雙胞胎題材遊戲](https://zh.wikipedia.org/wiki/Category:雙胞胎題材遊戲 "wikilink") [Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")

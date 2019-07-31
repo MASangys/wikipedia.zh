@@ -1,14 +1,8 @@
-《**Dynamite in**》（，*Dynamite
-in*）是[東京事變](../Page/東京事變.md "wikilink")的第二張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2005年7月13日發行。總計銷售額5.2萬張。初回限定為本秀康所繪製的「Dynamite
-in 漫畫小冊（上）」，漫畫小冊（下）則預定收錄在八月發行的演唱會DVD《[Dynamite
-out](../Page/Dynamite_out.md "wikilink")》中。
+《**Dynamite in**》（，*Dynamite in*）是[東京事變](../Page/東京事變.md "wikilink")的第二張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2005年7月13日發行。總計銷售額5.2萬張。初回限定為本秀康所繪製的「Dynamite in 漫畫小冊（上）」，漫畫小冊（下）則預定收錄在八月發行的演唱會DVD《[Dynamite out](../Page/Dynamite_out.md "wikilink")》中。
 
 ## 簡介
 
-此張DVD是收錄《東京事變 live tour 2005
-"dynamite\!"》巡迴演唱會的片段及幕後花絮，錄製內容主要是以2005年2月9日在名古屋國際會議中心所舉行的為主。而本張DVD收錄其中的五首歌曲，同時也為萃取出巡迴演唱會中最精彩的部分，包括由貝斯手龜田誠治作曲的新曲「透明人間」，或是翻唱Eddie
-Hodges的著名歌曲「推銷愛情」（I'm Gonna Knock On Your
-Door）等，都帶給歌迷不一樣的感受，更重要的是巡迴演唱會的幕後花絮也一併收入於本DVD中。
+此張DVD是收錄《東京事變 live tour 2005 "dynamite\!"》巡迴演唱會的片段及幕後花絮，錄製內容主要是以2005年2月9日在名古屋國際會議中心所舉行的為主。而本張DVD收錄其中的五首歌曲，同時也為萃取出巡迴演唱會中最精彩的部分，包括由貝斯手龜田誠治作曲的新曲「透明人間」，或是翻唱Eddie Hodges的著名歌曲「推銷愛情」（I'm Gonna Knock On Your Door）等，都帶給歌迷不一樣的感受，更重要的是巡迴演唱會的幕後花絮也一併收入於本DVD中。
 
 而本張DVD新曲「透明人間」於06月20日開始接受片段視聽\[1\]，DVD則於07月13日發行，台灣則於07月15日發行進口版\[2\]。好景不常的是，本張DVD還沒發售之際，07月1日負責彈奏鋼琴的團員－H是都M、彈奏吉他的－晝海幹音宣布退隊，而官方網站也在同時發表訊息告訴歌迷，並且希望歌迷能夠期待第二期東京事變的來到\[3\]\[4\]。
 
@@ -21,8 +15,7 @@ Door）等，都帶給歌迷不一樣的感受，更重要的是巡迴演唱會�
     <!-- end list -->
       -
         原唱：（I'm Gonna Knock On Your Door）
-        作詞：Aaron Schroeder and Sid Wayne　作曲：Aaron Schroeder and Sid
-        Wayne
+        作詞：Aaron Schroeder and Sid Wayne　作曲：Aaron Schroeder and Sid Wayne
 4.  Σ\~自由式（，*Σ / Crawl*）
 5.  Dynamite\! Tour幕後花絮
 

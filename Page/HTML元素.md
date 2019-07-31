@@ -10,8 +10,7 @@
 <p>在HTML語法中，大多數元素編寫......</p>
 ```
 
-然而，並非所有的此類元素*需要*結束標記，甚至是開始標記必須存在。
-某些元素，即所謂的*void空元素*，並無結束標記。典型的例子即`br`元素，其表示一個顯著之[換行](../Page/換行.md "wikilink")，像是一首詩或一個住址。一個空元素的行為是預先定義的，並且它不能包含任何內容或其他元素。例如：在電影*[海底總動員](https://zh.wikipedia.org/wiki/海底總動員 "wikilink")*中的牙醫師的地址將被寫成
+然而，並非所有的此類元素*需要*結束標記，甚至是開始標記必須存在。 某些元素，即所謂的*void空元素*，並無結束標記。典型的例子即`br`元素，其表示一個顯著之[換行](../Page/換行.md "wikilink")，像是一首詩或一個住址。一個空元素的行為是預先定義的，並且它不能包含任何內容或其他元素。例如：在電影*[海底總動員](https://zh.wikipedia.org/wiki/海底總動員 "wikilink")*中的牙醫師的地址將被寫成
 
 ``` html5
 <p>P. Sherman<br>42 Wallaby Way<br>Sydney</p>
@@ -22,8 +21,7 @@ HTML元素可以是*容器*或者为*空*。 **容器元素** 结构如下：
   - 一个*开始标记*（<标记>）表示一个元素的开始，标记本身还可以包含属性；
       - 任何数量的[属性](https://zh.wikipedia.org/wiki/HTML#属性 "wikilink")（和属性的值）；
   - *内容*（文本和／或子元素）；
-  - 一个*结束标记*，使用和起始标记完全相同的元素名但前面附加一个斜线字符
-    </tag>。并非所有的元素都要求结束标记，有些元素的结束表示是可有可无的（如*p*），有些是一定不可以有的（如*input*）。
+  - 一个*结束标记*，使用和起始标记完全相同的元素名但前面附加一个斜线字符 </tag>。并非所有的元素都要求结束标记，有些元素的结束表示是可有可无的（如*p*），有些是一定不可以有的（如*input*）。
 
 **空元素**指仅包含一个标记，该标记既是开始标记同时也是结束标记。空元素可以有任意数量的属性`<标记名 />`。在[XHTML](../Page/XHTML.md "wikilink")规范中，标记中的斜线符号是*必须*的\[1\]。要求使用一個單獨標籤開啟與關閉元素。若要指定其為一個空元素，符號"/"包含於標記之**結尾**（不能與位於結束標記中的**開始**的符號"/"混淆）。例如：
 
@@ -39,8 +37,7 @@ HTML元素可以是*容器*或者为*空*。 **容器元素** 结构如下：
 <abbr title="abbreviation">abbr.</abbr>
 ```
 
-\[\[Image:HTML element structure.svg|frame|Parts of an HTML container
-element:
+\[\[Image:HTML element structure.svg|frame|Parts of an HTML container element:
 
   - *Start tag:* `<p … >`
       - *Attribute:*
@@ -66,10 +63,7 @@ HTML元素是在自1995年以來發布的一系列免費開放標準中定義的
 
 1998年，[XML](../Page/XML.md "wikilink")（一种简化的SGML）引入一种方法，允许任何人开发自己的元素并融合到[XHTML](../Page/XHTML.md "wikilink")文件中，使用支持XML的浏览器（[用户代理](../Page/用户代理.md "wikilink")）可以浏览任意元素。\[3\]
 
-而后采用XML兼容的办法，重新制订了HTML 4.01标准，[XHTML
-1.0](https://zh.wikipedia.org/wiki/#XHTML10 "wikilink")（*扩展的HTML*）。二者的元素相同，绝大多数情况下，XHTML
-1.0文件的元素在HTML
-4.0文件中是合法的。本文除非另外指出，应用的都是基于SGML的HTML，对于XHTML多数情况下仍然适用*（二者区别见[HTML](https://zh.wikipedia.org/wiki/HTML#SGML-based_versus_XML-based_HTML "wikilink")）*。
+而后采用XML兼容的办法，重新制订了HTML 4.01标准，[XHTML 1.0](https://zh.wikipedia.org/wiki/#XHTML10 "wikilink")（*扩展的HTML*）。二者的元素相同，绝大多数情况下，XHTML 1.0文件的元素在HTML 4.0文件中是合法的。本文除非另外指出，应用的都是基于SGML的HTML，对于XHTML多数情况下仍然适用*（二者区别见[HTML](https://zh.wikipedia.org/wiki/HTML#SGML-based_versus_XML-based_HTML "wikilink")）*。
 
 ### 当前的状态
 
@@ -81,87 +75,58 @@ HTML元素是在自1995年以來發布的一系列免費開放標準中定義的
   - **Frameset**，另一种过渡标准，但是允许作者使用**frameset**；
   - **Strict**，符合现代（1999年以后）的标准。
 
-HTML第一个标准（[HTML
-2.0](https://zh.wikipedia.org/wiki/HTML#First_specifications "wikilink")）包含四个过期的元素。其中一个在[HTML
-3.2中被列为无效](https://zh.wikipedia.org/wiki/HTML#Version_history_of_the_standard "wikilink")。所有的四个在[HTML
-4.01
-Transitional中都被列为无效](https://zh.wikipedia.org/wiki/HTML#Version_history_of_the_standard "wikilink")，HTML4.01
-Transitional标准此外还将另外十个元素定义为无效。以上这些元素再加两个在[HTML 4.01
-Strict中同样被定义为无效](https://zh.wikipedia.org/wiki/HTML#Version_history_of_the_standard "wikilink")。由于frame元素在显示方面的诸多问题以及其功能已经可以由其他元素替代，在未来的标准中不再保留，虽然目前在Transitional和中仍然有效。
+HTML第一个标准（[HTML 2.0](https://zh.wikipedia.org/wiki/HTML#First_specifications "wikilink")）包含四个过期的元素。其中一个在[HTML 3.2中被列为无效](https://zh.wikipedia.org/wiki/HTML#Version_history_of_the_standard "wikilink")。所有的四个在[HTML 4.01 Transitional中都被列为无效](https://zh.wikipedia.org/wiki/HTML#Version_history_of_the_standard "wikilink")，HTML4.01 Transitional标准此外还将另外十个元素定义为无效。以上这些元素再加两个在[HTML 4.01 Strict中同样被定义为无效](https://zh.wikipedia.org/wiki/HTML#Version_history_of_the_standard "wikilink")。由于frame元素在显示方面的诸多问题以及其功能已经可以由其他元素替代，在未来的标准中不再保留，虽然目前在Transitional和中仍然有效。
 
-（严格的说，目前的*XHTML*标准[XHTML
-1.1](../Page/XHTML.md "wikilink")（2001）根本不支持frame。基本上与XHTML
-1.0 Strict相同，但是又包含了**[Ruby
-markup](https://zh.wikipedia.org/wiki/Ruby_character#Ruby_markup "wikilink")**模块。）\[4\]
+（严格的说，目前的*XHTML*标准[XHTML 1.1](../Page/XHTML.md "wikilink")（2001）根本不支持frame。基本上与XHTML 1.0 Strict相同，但是又包含了**[Ruby markup](https://zh.wikipedia.org/wiki/Ruby_character#Ruby_markup "wikilink")**模块。）\[4\]
 
 一个经常导致错误理解的原因是不严格的使用*deprecated*（过期）一词来泛指过期的和无效的，以及今后一段时间过期的不同的状态。
 
 ### 展示和行为
 
-根据[分离原则](https://zh.wikipedia.org/wiki/分离原则 "wikilink")，HTML的功能在于给一个文件的内容增加[语义和结构的信息](https://zh.wikipedia.org/wiki/语义 "wikilink")。增加文件的*展示*和*[行为](https://zh.wikipedia.org/wiki/行为 "wikilink")*的功能，例如增加CSS[stylesheets和图形来增加文件的展示功能](https://zh.wikipedia.org/wiki/stylesheets "wikilink")；通过链接到外部文件和[脚本增加与用户交互的行为](https://zh.wikipedia.org/wiki/Client-side_scripting "wikilink")。User
-agent也可以根据作者所提供的stylesheet在不同的介质（显示器，打印机）上展示不同效果。同时保持语义上的一致。
+根据[分离原则](https://zh.wikipedia.org/wiki/分离原则 "wikilink")，HTML的功能在于给一个文件的内容增加[语义和结构的信息](https://zh.wikipedia.org/wiki/语义 "wikilink")。增加文件的*展示*和*[行为](https://zh.wikipedia.org/wiki/行为 "wikilink")*的功能，例如增加CSS[stylesheets和图形来增加文件的展示功能](https://zh.wikipedia.org/wiki/stylesheets "wikilink")；通过链接到外部文件和[脚本增加与用户交互的行为](https://zh.wikipedia.org/wiki/Client-side_scripting "wikilink")。User agent也可以根据作者所提供的stylesheet在不同的介质（显示器，打印机）上展示不同效果。同时保持语义上的一致。
 
 ## 文件结构元素
 
   -
     这是HTML文件的根元素，所有其他的元素均包含在其中。
-    在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
+    在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
 
 <!-- end list -->
 
   -
     包含HTML标题定义、外部、脚本代码、格式代码等处理信息和元数据。
-    在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
+    在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
     （所包含的子元素见[文件头元素](https://zh.wikipedia.org/wiki/#Document_head_elements "wikilink")）
 
 <!-- end list -->
 
   -
     包含HTML文件的内容.
-    在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
+    在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
     （所包含的子元素见[文件内容元素](https://zh.wikipedia.org/wiki/#Document_body_elements "wikilink")）
 
 ## 文件头元素
 
   -
     给文件中所有的相对`href`及其它链接提供一个**基本**的'''。必须出现在任何引用外部资源的元素之前。在每个HTML文件中，只允许出现一个`base`元素。`base`元素可以有属性，但是没有内容。
-    在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中曾经提到一个开发版的**BASE**元素;
-    在[HTML
-    2.0中得以](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**;
-    目前没有变化。
+    在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中曾经提到一个开发版的**BASE**元素; 在[HTML 2.0中得以](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**; 目前没有变化。
 
 <!-- end list -->
 
   -
     指定一个基本的字体，包括字符的大小，字型和颜色，与`font`元素搭配使用。已经过期，推荐使用[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink").
-    在[HTML
-    3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；在[HTML
-    4.0
-    Transitional中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**過期**；並已於[HTML
-    4.0
-    Strict中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**失效**。
+    在[HTML 3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；在[HTML 4.0 Transitional中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**過期**；並已於[HTML 4.0 Strict中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**失效**。
 
 <!-- end list -->
 
   -
     **`isindex`**既可以出现在文件头，也可以出现在文件体内，但是只能出现一次。需要服务器端的搜索引擎的支持。
-    出现在文件头表示这个文件是一个可搜索的索引。在页面上显示成一个单行的文本输入框用来输入关键词。页面被提交后，[query
-    string被加到当前的](https://zh.wikipedia.org/wiki/query_string "wikilink")[URL后面](https://zh.wikipedia.org/wiki/Uniform_Resource_Locator "wikilink")，输出的文件搜索的关键字被加亮显示。一般来说，如果服务器支持这个功能的话会自行的加入**isindex**。
+    出现在文件头表示这个文件是一个可搜索的索引。在页面上显示成一个单行的文本输入框用来输入关键词。页面被提交后，[query string被加到当前的](https://zh.wikipedia.org/wiki/query_string "wikilink")[URL后面](https://zh.wikipedia.org/wiki/Uniform_Resource_Locator "wikilink")，输出的文件搜索的关键字被加亮显示。一般来说，如果服务器支持这个功能的话会自行的加入**isindex**。
 
 <!-- end list -->
 
   -
-    **ISINDEX**在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*出现，在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**。在[HTML
-    4.0
-    Transitional中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**过期**。在[HTML
-    4.0
-    Strict中是无效的元素](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")。
+    **ISINDEX**在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*出现，在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**。在[HTML 4.0 Transitional中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**过期**。在[HTML 4.0 Strict中是无效的元素](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")。
 
 <!-- end list -->
 
@@ -173,18 +138,14 @@ agent也可以根据作者所提供的stylesheet在不同的介质（显示器�
       -
         <link rel="next" href="''url''">
     文件之`head`元素可能包含任何數量之`link`元素。該`link` 元素擁有，但無內容。
-    **LINK**存在於*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*，且已在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前沒有變化。
+    **LINK**存在於*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*，且已在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前沒有變化。
 
 [{{XMLElement](https://zh.wikipedia.org/wiki/Meta_element "wikilink")
 
   -
     可用於指定關於文件之額外[中繼資料](https://zh.wikipedia.org/wiki/中繼資料 "wikilink")，如作者、出版日期、有效日期、頁面描述、關鍵字，或者透過其他header元素及
 
-之其他未提供的資訊。因其共通性，`meta`元素指定關聯的[key-value
-pairs](https://zh.wikipedia.org/wiki/關聯數組 "wikilink")。一般情況之下，meta元素傳達關於文件之隱藏資訊。若干meta標籤可被使用，上述之全部應被嵌套在head元素中。每個''
-meta''元素之特定目的是由其屬性來定義。
+之其他未提供的資訊。因其共通性，`meta`元素指定關聯的[key-value pairs](https://zh.wikipedia.org/wiki/關聯數組 "wikilink")。一般情況之下，meta元素傳達關於文件之隱藏資訊。若干meta標籤可被使用，上述之全部應被嵌套在head元素中。每個'' meta''元素之特定目的是由其屬性來定義。
 
   -
     在一種形式中，`meta`元素可指定應經由實際內容之前的[網頁伺服器](../Page/網頁伺服器.md "wikilink")寄送之[HTTP標頭](https://zh.wikipedia.org/wiki/HTTP "wikilink")，例如：
@@ -192,31 +153,26 @@ meta''元素之特定目的是由其屬性來定義。
         <code>
         <meta http-equiv="foo" content="bar">
         </code>
-    — this specifies that the page should be served with an HTTP header
-    called `foo` that has a value `bar`.
-    在一般形式中，`meta`元素指定HTML網頁的`name`及關聯的`content` [HTML
-    屬性描述方面](https://zh.wikipedia.org/wiki/HTML_屬性 "wikilink")。為了防止可能發生歧義，一個可選取之第三方屬性：`scheme`可被支援於指定一個定義該key及其值的含意之語意框架：例如：
+    — this specifies that the page should be served with an HTTP header called `foo` that has a value `bar`.
+    在一般形式中，`meta`元素指定HTML網頁的`name`及關聯的`content` [HTML 屬性描述方面](https://zh.wikipedia.org/wiki/HTML_屬性 "wikilink")。為了防止可能發生歧義，一個可選取之第三方屬性：`scheme`可被支援於指定一個定義該key及其值的含意之語意框架：例如：
       -
         <code>
         <meta name="foo" content="bar" scheme="DC">
         </code>
     在本範例中，`meta`元素辨識其自身為包含`foo`元素，包含`bar`值，從DC或[都柏林核心](../Page/都柏林核心.md "wikilink")[資源描述框架](../Page/資源描述框架.md "wikilink").
-    在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前沒有變化。
+    在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前沒有變化。
 
 <!-- end list -->
 
   -
     使用於包含泛型物件在文件標頭中。雖然很少使用在`head`元素中，但也可能用來擷取外部資料，並將之與目前的文件關聯。
-    在[HTML
-    4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**標準化**；目前沒有變化。
+    在[HTML 4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**標準化**；目前沒有變化。
 
 <!-- end list -->
 
   -
     可作為一個容器用於指令碼說明或連結至外部指令碼，包含可選取之`src`屬性。\[7\]此外，使用於文件主體中以動態生成兩個區塊或內聯內容。
-    在[HTML
-    3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；目前沒有變化。
+    在[HTML 3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；目前沒有變化。
 
 <!-- end list -->
 
@@ -235,8 +191,7 @@ meta''元素之特定目的是由其屬性來定義。
         @import *url*;
         </style>
         </code>\[8\]
-    在[HTML
-    3.2版本中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；目前沒有變化。
+    在[HTML 3.2版本中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；目前沒有變化。
 
 <!-- end list -->
 
@@ -246,8 +201,7 @@ meta''元素之特定目的是由其屬性來定義。
       - 當儲存該頁面時可為預設檔案名稱。
       - [搜尋引擎之](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")[網路編目程式可能會特別注意在標題中使用的文字](https://zh.wikipedia.org/wiki/網路蜘蛛 "wikilink")。
     `title`元素不能包含其他元素，僅文字。只有一種`title`元素在文件中被允許。
-    **TITLE**存在於*[HTML標籤](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*，並在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前沒有變化。
+    **TITLE**存在於*[HTML標籤](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*，並在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前沒有變化。
 
 ## 文件内容元素
 
@@ -275,9 +229,7 @@ meta''元素之特定目的是由其屬性來定義。
 
   -
     建立一段落，也許為最常見之區塊層級元素。
-    `P`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    `P`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
@@ -292,101 +244,72 @@ meta''元素之特定目的是由其屬性來定義。
     <h6>
     </code>。有時其又統稱為`<h`*`n`*`>`標記，*n*表示任何有效之層級標題。
     多數視覺化瀏覽器預設將標題顯示為大型粗體字，雖然其可被[CSS覆蓋](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")。事實上，Heading元素並非只用於建立大型字或粗體字，其*不應*使用於顯示樣式化文字。反言之，其描述了文件之結構和組織。部分程式利用其產生輪廓及表格內容。
-    Headings在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    Headings在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 #### 列表
 
   -
-    **定义列表**（Definition
-    List）是一种特殊列表，通常包含一系列“术语”及其“定义”。\[9\]定义列表組成的名稱-值組\[10\]（先前至HTML5定義成一個定義清單，並在早期版本之HTML5被稱之為關聯清單）。定义列表之目的為「術語及定義、中繼資料主題和值、問題及答案，或者名稱-值資料的任何其他群組」之群組。\[11\]
-    `DL`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    **定义列表**（Definition List）是一种特殊列表，通常包含一系列“术语”及其“定义”。\[9\]定义列表組成的名稱-值組\[10\]（先前至HTML5定義成一個定義清單，並在早期版本之HTML5被稱之為關聯清單）。定义列表之目的為「術語及定義、中繼資料主題和值、問題及答案，或者名稱-值資料的任何其他群組」之群組。\[11\]
+    `DL`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     在定义列表（先前定義術語在定義清單中）中的名稱。
-    `DT`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    `DT`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     定义列表（先前的一個術語之定義，在定義清單中）中的值。
-    `DD`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    `DD`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
-    有排序（枚舉）之編號清單。`type`元素可用於指定排序類型，但CSS樣式表提供了更多控制：`{list-style-type: `*`foo`*`}`。其預設為阿拉伯數字編號。若要使用`type`屬性，請使用`<ol
-    type="`*`foo`*`">`，以下列項目之一取代*`foo`*：
+    有排序（枚舉）之編號清單。`type`元素可用於指定排序類型，但CSS樣式表提供了更多控制：`{list-style-type: `*`foo`*`}`。其預設為阿拉伯數字編號。若要使用`type`屬性，請使用`<ol type="`*`foo`*`">`，以下列項目之一取代*`foo`*：
       - `A`表示A, B, C...
       - `a`表示a, b, c...
       - `I`表示I, II, III...
       - `i`表示i, ii, iii...
       - `1`表示1, 2, 3...
-    `OL`在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    `OL`在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     未排序（項目符號）清單。CSS樣式表可用於指定其項目符號：`{list-style-type: foo}`。其預設項目符號為一個空心圓。
-    `UL`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    `UL`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     在排序(**ol**)或未排序(**ul**)清單中之列表項目。
-    `LI`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    `LI`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     目錄清單。該元素之原始目的從未廣泛支援；已被<code>
     </code>替代，故不建議使用。
-    `DIR`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並於[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；在[HTML
-    4.0
-    Transitional中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**不建議使用**；在[HTML
-    4.0
-    Strict中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**已失效**。
+    `DIR`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並於[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；在[HTML 4.0 Transitional中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**不建議使用**；在[HTML 4.0 Strict中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**已失效**。
 
 #### 其他區塊元素
 
   -
     文件作者之聯絡資訊。
-    `ADDRESS`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    `ADDRESS`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     一個區塊層級引用（[blockquote](https://zh.wikipedia.org/wiki/blockquote "wikilink")），用於當quotation包含區塊層級元素，如段落。`cite`屬性可能提供來源，且必須是完全合格之[統一資源標誌符](https://zh.wikipedia.org/wiki/統一資源標誌符 "wikilink")。
-    區塊quotation的演示文稿在視覺化瀏覽器中經常從其兩個margin縮進之。\<\!--This has led to the
-    element being unnecessarily used just to indent paragraphs,
-    regardless of semantics. For quotations not containing block level
-    elements see the quote (`q`) element.
+    區塊quotation的演示文稿在視覺化瀏覽器中經常從其兩個margin縮進之。\<\!--This has led to the element being unnecessarily used just to indent paragraphs, regardless of semantics. For quotations not containing block level elements see the quote (`q`) element.
 
 \--\>
 
   -
-    `BLOCKQUOTE`在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。如需更多資訊，請參見[blockquote元素](https://zh.wikipedia.org/wiki/blockquote元素 "wikilink")。
+    `BLOCKQUOTE`在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。如需更多資訊，請參見[blockquote元素](https://zh.wikipedia.org/wiki/blockquote元素 "wikilink")。
 
 <!-- end list -->
 
@@ -394,54 +317,43 @@ meta''元素之特定目的是由其屬性來定義。
     建立一個區塊層級之置中對齊區域。已由使用CSS樣式表定義置中對齊<code>
     <div>
     </code>或其他元素之方式替代，故不建議使用。
-    在[HTML
-    3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**。
+    在[HTML 3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**。
 
 <!-- end list -->
 
   -
     標記內容中已刪除的section。該元素亦使用為*inline*。
-    在[HTML
-    4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**標準化**；目前仍在使用。
+    在[HTML 4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     一個區塊層級之邏輯區。沒有語意的通用元素用於區分文件的section，通常為目的，例如由[CSS樣式表或](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")[DOM調用來控制之演示文稿或行為](https://zh.wikipedia.org/wiki/文件物件模型 "wikilink")。
-    在[HTML 3.0
-    Drafts中出現](https://zh.wikipedia.org/wiki/#HTML30 "wikilink")；在[HTML
-    3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；目前仍在使用。
+    在[HTML 3.0 Drafts中出現](https://zh.wikipedia.org/wiki/#HTML30 "wikilink")；在[HTML 3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     水平線。表象規則亦可被CSS樣式表繪製。
-    在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     標記一個已插入內容之section。該元素亦使用為*inline*。
-    在[HTML
-    4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**標準化**；目前仍在使用。
+    在[HTML 4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
     指令碼的替代內容。不同於**指令碼（script）**，其只能作為區塊元素。
-    在[HTML
-    4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**標準化**；目前仍在使用。
+    在[HTML 4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
   -
-    *預先格式化*文字。該元素中的文字通常顯示在[非比例字型](../Page/字型.md "wikilink")，正因其布局在檔案中（參見[ASCII藝術](https://zh.wikipedia.org/wiki/ASCII藝術 "wikilink")）。而瀏覽器會忽略其他HTML元素的[空白字元](https://zh.wikipedia.org/wiki/空白字元 "wikilink")，在`pre`中，空白應該被呈現為創作的。（使用CSS之內容：`{white-space:
-    pre; font-family:
-    mono-space;}`，其他元素可在相同方式之下呈現。）該元素可包含任何內行元素，除了：影像（`IMG`）、物件（`OBJECT`）、大型字（`BIG`）、小型字（`SMALL`）、上標（`SUP`）及下標（`SUB`）。
-    `PRE`在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    *預先格式化*文字。該元素中的文字通常顯示在[非比例字型](../Page/字型.md "wikilink")，正因其布局在檔案中（參見[ASCII藝術](https://zh.wikipedia.org/wiki/ASCII藝術 "wikilink")）。而瀏覽器會忽略其他HTML元素的[空白字元](https://zh.wikipedia.org/wiki/空白字元 "wikilink")，在`pre`中，空白應該被呈現為創作的。（使用CSS之內容：`{white-space: pre; font-family: mono-space;}`，其他元素可在相同方式之下呈現。）該元素可包含任何內行元素，除了：影像（`IMG`）、物件（`OBJECT`）、大型字（`BIG`）、小型字（`SMALL`）、上標（`SUP`）及下標（`SUB`）。
+    `PRE`在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 <!-- end list -->
 
@@ -449,8 +361,7 @@ meta''元素之特定目的是由其屬性來定義。
     在文件中放置指令碼。在head中以及在inline內容中也具有效果。
       -
         注意：`SCRIPT`本身並非區塊或內行元素；其本身不應全部顯示，但其可包含說明以動態生成區塊或內行內容兩者。
-    在[HTML
-    3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；目前仍在使用。
+    在[HTML 3.2中](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**標準化**；目前仍在使用。
 
 ### 行内元素
 
@@ -461,28 +372,17 @@ meta''元素之特定目的是由其屬性來定義。
   -
     锚元素之所以称为“锚”，是因为网页设计者可以用它们来将URL和网页上的一些文本“[繫](../Page/繫.md "wikilink")”（）在一起。当用户在浏览器中查看网页时，他们可以通过点击文本来激活链接，以访问链接中URL指向的页面。\[13\]
     在HTML中，锚既可以是**[超级链接](https://zh.wikipedia.org/wiki/超级链接 "wikilink")**的来源，也可以是*目标*端。
-    通过使用`href`属性（hypertext reference
-    [1](http://www.w3.org/Provider/ServerWriter.html)），锚可以成为到文档中另一个部分的链接，也可以通过使用一个外部[URL来指向另一个资源](https://zh.wikipedia.org/wiki/URL "wikilink")（如网页）。
+    通过使用`href`属性（hypertext reference [1](http://www.w3.org/Provider/ServerWriter.html)），锚可以成为到文档中另一个部分的链接，也可以通过使用一个外部[URL来指向另一个资源](https://zh.wikipedia.org/wiki/URL "wikilink")（如网页）。
     或者（也可以是同时），通过使用`name`或`id`属性，使这个元素成为目标。[URL可以通过](https://zh.wikipedia.org/wiki/URL "wikilink")[碎片标识符链接到这个目标](https://zh.wikipedia.org/wiki/碎片标识符 "wikilink")。现在，任何元素都可以通过使用`id`属性来变成一个锚，\[[http://www.w3.org/TR/html4/struct/links.html\#h-12.2.3\]因此](http://www.w3.org/TR/html4/struct/links.html#h-12.2.3%5D因此)<a name="foo">不再必要。\<\!--
-    The attribute `title` may be set to give brief information about the
-    link:
+    The attribute `title` may be set to give brief information about the link:
       -
-        <a href="''URL''" title="''additional information''">`link
-        text`</a>
-    In most graphical browsers, when the cursor hovers over a link, the
-    cursor changes into a hand with a stretched index finger and the
-    `title` is displayed in a
-    [tooltip](https://zh.wikipedia.org/wiki/tooltip "wikilink") or in
-    some other manner. Some browsers render [alt
-    text](https://zh.wikipedia.org/wiki/alt_attribute "wikilink") the
-    same way, despite this not being what the specification calls for.
+        <a href="''URL''" title="''additional information''">`link text`</a>
+    In most graphical browsers, when the cursor hovers over a link, the cursor changes into a hand with a stretched index finger and the `title` is displayed in a [tooltip](https://zh.wikipedia.org/wiki/tooltip "wikilink") or in some other manner. Some browsers render [alt text](https://zh.wikipedia.org/wiki/alt_attribute "wikilink") the same way, despite this not being what the specification calls for.
 
 \--\>
 
   -
-    `A`在*[HTML
-    Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
+    `A`在*[HTML Tags](https://zh.wikipedia.org/wiki/#HTMLTAGS "wikilink")*中已經存在，並且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**標準化**；目前仍在使用。
 
 #### 短语元素
 
@@ -492,44 +392,34 @@ meta''元素之特定目的是由其屬性來定義。
     表示本元素是一个[縮寫](../Page/縮寫.md "wikilink")，title属性中可以包含全称：
       -
         <abbr title="微型计算机">`微机`</abbr>
-    在[HTML
-    4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**标准化**，目前仍然在使用。
+    在[HTML 4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**标准化**，目前仍然在使用。
 
 <!-- end list -->
 
   -
-    与`abbr`元素类似。（拼音文字中Acronym是指大写的首字母组合成的词，比如Hyper-Text Markup
-    Language的Acronym是HTML;
-    Abbreviation的概念更广泛些，可以是将一个较长的词后面部分去掉，用剩下的部分表示词的意思。中文中没有类似的区别）:
+    与`abbr`元素类似。（拼音文字中Acronym是指大写的首字母组合成的词，比如Hyper-Text Markup Language的Acronym是HTML; Abbreviation的概念更广泛些，可以是将一个较长的词后面部分去掉，用剩下的部分表示词的意思。中文中没有类似的区别）:
       -
         <acronym title="Hyper-Text Markup Language">`HTML`</acronym>
-    在[HTML
-    4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**标准化**，目前仍然在使用，在HTML5中**不支持**。
+    在[HTML 4.0中](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")**标准化**，目前仍然在使用，在HTML5中**不支持**。
 
 <!-- end list -->
 
   -
     表示本元素是一个词条的定义。
-    **DFN** 在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已经存在，在[HTML
-    3.2中完全](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**标准化**，目前仍然在使用。
+    **DFN** 在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已经存在，在[HTML 3.2中完全](https://zh.wikipedia.org/wiki/#HTML32 "wikilink")**标准化**，目前仍然在使用。
 
 <!-- end list -->
 
   -
     *强调*本元素，传统上显示为斜体。
-    **EM** 在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已经存在，在[HTML
-    2.0中完全](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
+    **EM** 在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中已经存在，在[HTML 2.0中完全](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
 
 <!-- end list -->
 
   -
     **加重**一个词条，（传统上显示为粗体）。
     有助听功能的浏览器可能会使用不同的声音来表述加重的词。
-    **STRONG**在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*已经存在，在[HTML
-    2.0中完全](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
+    **STRONG**在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*已经存在，在[HTML 2.0中完全](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍然在使用。
 
 ##### 计算机术语元素
 
@@ -537,102 +427,69 @@ meta''元素之特定目的是由其屬性來定義。
 
   -
     显示一段代码。通常用等宽字体显示：`Code snippet.`
-    **CODE**在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中出现，并且在[HTML
-    2.0最终](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**；
-    目前仍在使用。
+    **CODE**在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中出现，并且在[HTML 2.0最终](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**； 目前仍在使用。
 
 <!-- end list -->
 
   -
     显示一段程序或脚本输出的样本。
-    **SAMP**在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中出现，并且在[HTML
-    2.0最终](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**；
-    目前仍在使用。
+    **SAMP**在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中出现，并且在[HTML 2.0最终](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**； 目前仍在使用。
 
 <!-- end list -->
 
   -
     键盘 - 显示用户输入的文字。
-    **KBD**在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中出现，并且在[HTML
-    2.0最终](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**；
-    目前仍在使用。
+    **KBD**在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中出现，并且在[HTML 2.0最终](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**； 目前仍在使用。
 
 <!-- end list -->
 
   -
     显示一个变量。
-    **VAR**在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中出现，并且在[HTML
-    2.0最终](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**；
-    目前仍在使用。
+    **VAR**在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中出现，并且在[HTML 2.0最终](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**； 目前仍在使用。
 
 ##### 视觉效果
 
-视觉效果的元素仅仅对可视浏览器起作用，因此不推荐使用，如果可能应该使用层叠样式表。部分元素在HTML 4 / XHTML
-1.0中被宣布过期或者无效的，其它的在当前的XHTML
-2.0草案[XHTML 2.0](http://www.w3.org/TR/2005/WD-xhtml2-20050527/)中被定义为无效的。当前的HTML
-5草案[HTML 5](https://web.archive.org/web/20150801133040/http://www.w3.org/TR/html5/text-level-semantics.html)中，**b**,
-**i**和**small**还是有效的.
+视觉效果的元素仅仅对可视浏览器起作用，因此不推荐使用，如果可能应该使用层叠样式表。部分元素在HTML 4 / XHTML 1.0中被宣布过期或者无效的，其它的在当前的XHTML 2.0草案[XHTML 2.0](http://www.w3.org/TR/2005/WD-xhtml2-20050527/)中被定义为无效的。当前的HTML 5草案[HTML 5](https://web.archive.org/web/20150801133040/http://www.w3.org/TR/html5/text-level-semantics.html)中，**b**, **i**和**small**还是有效的.
 
   -
-    在可能的情况下，将字体设置成**粗体**。（等效的CSS是：`{font-weight:
-    bold}`。）<strong>`...`</strong>在可视的浏览器中有相同的效果，但是有更强的语义。
-    **B**在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中定义，并且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍在使用。
+    在可能的情况下，将字体设置成**粗体**。（等效的CSS是：`{font-weight: bold}`。）<strong>`...`</strong>在可视的浏览器中有相同的效果，但是有更强的语义。
+    **B**在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中定义，并且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍在使用。
 
 ### 图形和对象
 
   -
-    `src`屬性指定[圖像的URL](https://zh.wikipedia.org/wiki/圖像 "wikilink")。`alt`屬性提供圖像的替代文字。IMG由[馬克·安德森所提出並實作在](https://zh.wikipedia.org/wiki/馬克·安德森 "wikilink")[NCSA
-    Mosaic網頁瀏覽器](https://zh.wikipedia.org/wiki/NCSA_Mosaic "wikilink")\[14\]。
-    **IMG**在*[HTML Internet Draft
-    1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中定义，并且在[HTML
-    2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍在使用。
+    `src`屬性指定[圖像的URL](https://zh.wikipedia.org/wiki/圖像 "wikilink")。`alt`屬性提供圖像的替代文字。IMG由[馬克·安德森所提出並實作在](https://zh.wikipedia.org/wiki/馬克·安德森 "wikilink")[NCSA Mosaic網頁瀏覽器](https://zh.wikipedia.org/wiki/NCSA_Mosaic "wikilink")\[14\]。
+    **IMG**在*[HTML Internet Draft 1.2](https://zh.wikipedia.org/wiki/#HTMLDRAFT12 "wikilink")*中定义，并且在[HTML 2.0中](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")**标准化**，目前仍在使用。
 
 ## 非標準元素
 
   -
 
-文本閃爍特效。該特效可能會對患者產生負面影響\[15\]。 `blink`源自於[Netscape
-Navigator](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")；在[HTML
-2.0後被列為過期或無效](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")。
+文本閃爍特效。該特效可能會對患者產生負面影響\[15\]。 `blink`源自於[Netscape Navigator](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")；在[HTML 2.0後被列為過期或無效](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")。
 
   -
 
-文本滾動特效。該特效可能會對患者產生負面影響\[16\]。 `marquee`源自於[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")；在[HTML
-4.01後被列為過期或無效](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")。
+文本滾動特效。該特效可能會對患者產生負面影響\[16\]。 `marquee`源自於[Internet Explorer](../Page/Internet_Explorer.md "wikilink")；在[HTML 4.01後被列為過期或無效](https://zh.wikipedia.org/wiki/#HTML20 "wikilink")。
 
 ## 注解
 
   -
 
-在HTML中的 [注解](https://zh.wikipedia.org/wiki/注解 "wikilink")（以及相近的XML,
-SGML, SHTML. ）語法與SGML相同。
+在HTML中的 [注解](https://zh.wikipedia.org/wiki/注解 "wikilink")（以及相近的XML, SGML, SHTML. ）語法與SGML相同。
 
 不同於其它HTML標籤，注解不支援巢狀結構。
 
 標籤： `注解三-->` 看起來會是這樣 `注解一`
 
-注解可以出現在文件的任何地方，甚至可以在文件類型宣告之前。 （在`<!DOCTYPE HTML>`之前。）
-HTML的解釋器會忽略注解，只要它們不在HTML標籤**內**。
-這裡標籤**內**的意思並非指被一對開始標籤及結束標籤包住的區域內，
-而是指在開始標籤**內**，或結束標籤、空元素標籤**內**。
+注解可以出現在文件的任何地方，甚至可以在文件類型宣告之前。 （在`<!DOCTYPE HTML>`之前。） HTML的解釋器會忽略注解，只要它們不在HTML標籤**內**。 這裡標籤**內**的意思並非指被一對開始標籤及結束標籤包住的區域內， 而是指在開始標籤**內**，或結束標籤、空元素標籤**內**。
 
-然而並非所有瀏覽器、HTML編輯器都與HTML語法完全相容，在某些特殊情況會造成意料之外的結果。
-約有5%的瀏覽器、HTML編輯器在處理注解標籤上有缺陷。（其中大部份是IE6.
-） 僅管只有少數版本有此問題。
+然而並非所有瀏覽器、HTML編輯器都與HTML語法完全相容，在某些特殊情況會造成意料之外的結果。 約有5%的瀏覽器、HTML編輯器在處理注解標籤上有缺陷。（其中大部份是IE6. ） 僅管只有少數版本有此問題。
 
 一些有關注解的相容性問題：
 
   - 在文件類型宣告之前的注解、除了空白以外的字符會使IE6進入[怪异模式](../Page/怪异模式.md "wikilink")。
   - 為了相容在1995年前的瀏覽器，在`style`或`script`元素中的內容，有時會以注解的型式存在。
-  - [BlueGriffon](../Page/BlueGriffon.md "wikilink")
-    HTML編輯器1.7.x版本，會將不在<code>
+  - [BlueGriffon](../Page/BlueGriffon.md "wikilink") HTML編輯器1.7.x版本，會將不在<code>
     <style>
     ... {comment tags} ...
     </style>
@@ -680,8 +537,7 @@ HTML的解釋器會忽略注解，只要它們不在HTML標籤**內**。
 
   - *<span id="HTML30">HTML 3.0 Drafts:</span>*
 
-    *(This is the final draft of HTML 3.0, which expired without being
-    developed further.)*
+    *(This is the final draft of HTML 3.0, which expired without being developed further.)*
 
 <!-- end list -->
 
@@ -697,14 +553,12 @@ HTML的解釋器會忽略注解，只要它們不在HTML標籤**內**。
 
 ## 外部链接
 
-  - HTML 4.01（1999年12月24日）：
-    [元素](http://www.w3.org/TR/html401/index/elements.html)和[屬性](http://www.w3.org/TR/html401/index/attributes.html)
+  - HTML 4.01（1999年12月24日）： [元素](http://www.w3.org/TR/html401/index/elements.html)和[屬性](http://www.w3.org/TR/html401/index/attributes.html)
   - [HTML5](../Page/HTML5.md "wikilink")（2014年10月28日）：[元素和屬性](http://www.w3.org/TR/html5/index.html)
 
 [Category:HTML元素](https://zh.wikipedia.org/wiki/Category:HTML元素 "wikilink")
 
-1.  [XHTML 1.0](https://zh.wikipedia.org/wiki/#XHTML10 "wikilink") §4.6.
-    & C.2
+1.  [XHTML 1.0](https://zh.wikipedia.org/wiki/#XHTML10 "wikilink") §4.6. & C.2
 
 2.  [XHTML 1.0](https://zh.wikipedia.org/wiki/#XHTML10 "wikilink") §4.2
 
@@ -714,8 +568,7 @@ HTML的解釋器會忽略注解，只要它們不在HTML標籤**內**。
 
 5.  [HTML 4.01](https://zh.wikipedia.org/wiki/#HTML401 "wikilink") §12.3
 
-6.  [HTML 4.01](https://zh.wikipedia.org/wiki/#HTML401 "wikilink")
-    §14.3.2
+6.  [HTML 4.01](https://zh.wikipedia.org/wiki/#HTML401 "wikilink") §14.3.2
 
 7.  [HTML 4.01](https://zh.wikipedia.org/wiki/#HTML401 "wikilink") §18
 
@@ -729,9 +582,7 @@ HTML的解釋器會忽略注解，只要它們不在HTML標籤**內**。
 
 12.
 
-13. [HTML 4 for
-    dummies](https://zh.wikipedia.org/wiki/HTML_4_for_dummies "wikilink"),
-    5th edition, 2005, By Ed Tittel, Mary C. Burmeister, p. 96.
+13. [HTML 4 for dummies](https://zh.wikipedia.org/wiki/HTML_4_for_dummies "wikilink"), 5th edition, 2005, By Ed Tittel, Mary C. Burmeister, p. 96.
 
 14.
 

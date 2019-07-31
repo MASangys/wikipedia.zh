@@ -36,8 +36,7 @@
 ### 装备系统
 
 《倩女幽魂Online》中的装备分为七个级别，并以七种颜色表示，分别是：白、金、橙、蓝、绿、红、紫。装备的级别由装备所附带的属性多寡决定。装备的属性分为随机属性和固定属性，随机属性的装备属性点数完全随机，不会出现属性完全一样的装备，玩家的选择空间非常大。
-《倩女幽魂Online》的极品装备获得途径：1、野外或副本怪物掉落；2、任务奖励兑换；2、乾坤袋合成。极品装备的获取都是免费和公平的。
-《倩女幽魂Online》的绿色装备收集完整并穿在角色身上时，将获得额外属性和特殊光效。 \[4\]。
+《倩女幽魂Online》的极品装备获得途径：1、野外或副本怪物掉落；2、任务奖励兑换；2、乾坤袋合成。极品装备的获取都是免费和公平的。 《倩女幽魂Online》的绿色装备收集完整并穿在角色身上时，将获得额外属性和特殊光效。 \[4\]。
 
 ### 游戏专属名词
 
@@ -71,10 +70,7 @@
   - [倩女幽魂Online的官方网站](http://qn.163.com)
   - [倩女幽魂Online的官方论坛](http://qn.netease.com)
 
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:网易网络游戏](https://zh.wikipedia.org/wiki/Category:网易网络游戏 "wikilink")
-[Category:聶小倩題材作品](https://zh.wikipedia.org/wiki/Category:聶小倩題材作品 "wikilink")
+[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:网易网络游戏](https://zh.wikipedia.org/wiki/Category:网易网络游戏 "wikilink") [Category:聶小倩題材作品](https://zh.wikipedia.org/wiki/Category:聶小倩題材作品 "wikilink")
 
 1.
 2.

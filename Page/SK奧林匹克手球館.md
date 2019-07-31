@@ -4,8 +4,4 @@
 
   - [官方網站](http://www.olympicpark.co.kr/)
 
-[Category:1988年夏季奧林匹克運動會](https://zh.wikipedia.org/wiki/Category:1988年夏季奧林匹克運動會 "wikilink")
-[Category:奧運現代五項場館](https://zh.wikipedia.org/wiki/Category:奧運現代五項場館 "wikilink")
-[Category:羽毛球場館](https://zh.wikipedia.org/wiki/Category:羽毛球場館 "wikilink")
-[Category:韓國體育場地](https://zh.wikipedia.org/wiki/Category:韓國體育場地 "wikilink")
-[Category:1988年夏季奧林匹克運動會運動場](https://zh.wikipedia.org/wiki/Category:1988年夏季奧林匹克運動會運動場 "wikilink")
+[Category:1988年夏季奧林匹克運動會](https://zh.wikipedia.org/wiki/Category:1988年夏季奧林匹克運動會 "wikilink") [Category:奧運現代五項場館](https://zh.wikipedia.org/wiki/Category:奧運現代五項場館 "wikilink") [Category:羽毛球場館](https://zh.wikipedia.org/wiki/Category:羽毛球場館 "wikilink") [Category:韓國體育場地](https://zh.wikipedia.org/wiki/Category:韓國體育場地 "wikilink") [Category:1988年夏季奧林匹克運動會運動場](https://zh.wikipedia.org/wiki/Category:1988年夏季奧林匹克運動會運動場 "wikilink")

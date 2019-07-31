@@ -1,40 +1,18 @@
-《**Rewrite**》（）是一部由日本 [Visual Art's](../Page/Visual_Art's.md "wikilink")
-股份有限公司旗下的 [Key](../Page/Key_\(遊戲品牌\).md "wikilink")
-社製作的一部[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。這款遊戲是
-Key 的第九部作品，於2011年6月24日發行於
-[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") PC
-平臺，爲全年齡向遊戲。Key 于2012年7月27日发布名为《[Rewrite Harvest
-festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")》的[Fan
-disc来扩展故事情节](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。《Rewrite》还被[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[PSP](../Page/PlayStation_Portable.md "wikilink")、[PSV和](../Page/PlayStation_Vita.md "wikilink")[PS3平台上](../Page/PlayStation_3.md "wikilink")。故事讲述的是拥有超能力的高中生天王寺瑚太朗和学校超自然研究會的五个女生一起调查風祭市的超自然现象，同时他也被卷入这场盖亚和守护者的的冲突之中，并和世界的命运联系在一起。
+《**Rewrite**》（）是一部由日本 [Visual Art's](../Page/Visual_Art's.md "wikilink") 股份有限公司旗下的 [Key](../Page/Key_\(遊戲品牌\).md "wikilink") 社製作的一部[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。這款遊戲是 Key 的第九部作品，於2011年6月24日發行於 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") PC 平臺，爲全年齡向遊戲。Key 于2012年7月27日发布名为《[Rewrite Harvest festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")》的[Fan disc来扩展故事情节](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。《Rewrite》还被[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[PSP](../Page/PlayStation_Portable.md "wikilink")、[PSV和](../Page/PlayStation_Vita.md "wikilink")[PS3平台上](../Page/PlayStation_3.md "wikilink")。故事讲述的是拥有超能力的高中生天王寺瑚太朗和学校超自然研究會的五个女生一起调查風祭市的超自然现象，同时他也被卷入这场盖亚和守护者的的冲突之中，并和世界的命运联系在一起。
 
-和众多戀愛冒險遊戲一样，《Rewrite》有着多条分支剧情路线，男主角和六位女性角色的互动是该游戏的[游戏性所在](https://zh.wikipedia.org/wiki/游戏性 "wikilink")，除此之外，游戏中还添加[任务成就系统](../Page/任务_\(电子游戏\).md "wikilink")。该游戏在发行之后的一段时间里成为日本销量最高的PC游戏之一。游戏被改编为五卷[漫画](../Page/日本漫画.md "wikilink")，由
-[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")
-和[一迅社出版](../Page/一迅社.md "wikilink")，此外也有出版相关的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")、[輕小說和音乐专辑](../Page/輕小說.md "wikilink")。2016年，動畫製作公司
-[8bit](../Page/8bit.md "wikilink")
-將游戏动畫化。動畫由天衝导演，共24集，分为两季，第一季为13集，于2016年7月至9月播出，第二季为11集，于2017年1月14日播出\[1\]。
+和众多戀愛冒險遊戲一样，《Rewrite》有着多条分支剧情路线，男主角和六位女性角色的互动是该游戏的[游戏性所在](https://zh.wikipedia.org/wiki/游戏性 "wikilink")，除此之外，游戏中还添加[任务成就系统](../Page/任务_\(电子游戏\).md "wikilink")。该游戏在发行之后的一段时间里成为日本销量最高的PC游戏之一。游戏被改编为五卷[漫画](../Page/日本漫画.md "wikilink")，由 [ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink") 和[一迅社](../Page/一迅社.md "wikilink")出版，此外也有出版相关的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")、[輕小說](../Page/輕小說.md "wikilink")和音乐专辑。2016年，動畫製作公司 [8bit](../Page/8bit.md "wikilink") 將游戏动畫化。動畫由天衝导演，共24集，分为两季，第一季为13集，于2016年7月至9月播出，第二季为11集，于2017年1月14日播出\[1\]。
 
 ## 游戏性
 
-《Rewrite》作为一部[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏 "wikilink")，玩家在游戏中扮演男主角天王寺瑚太朗\[2\]，通过阅读其心理描写的文字以及与女性角色的对话来了解故事情节的发展，这是其游戏性所在。游戏中的文字会出现于背景图上方，当与其他角色进行对话时，还会有对应人物的立绘出现在背景图的上方。在某些場景中，玩家看到的是一張包含了人物和背景的
-[CG](../Page/计算机图形.md "wikilink") 圖，而不是「背景圖 +
-立繪」的形式。當玩家首次通關後，畫廊欣賞功能將會解鎖並顯示在遊戲的標題界面。玩家可以從畫廊裏欣賞部分
-CG
-圖和[背景音乐](https://zh.wikipedia.org/wiki/背景音乐 "wikilink")。根據玩家在遊戲中的選項選擇的不同，將會進入不同的路線，觸發不同的結局。
+《Rewrite》作为一部[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏 "wikilink")，玩家在游戏中扮演男主角天王寺瑚太朗\[2\]，通过阅读其心理描写的文字以及与女性角色的对话来了解故事情节的发展，这是其游戏性所在。游戏中的文字会出现于背景图上方，当与其他角色进行对话时，还会有对应人物的立绘出现在背景图的上方。在某些場景中，玩家看到的是一張包含了人物和背景的 [CG](../Page/计算机图形.md "wikilink") 圖，而不是「背景圖 + 立繪」的形式。當玩家首次通關後，畫廊欣賞功能將會解鎖並顯示在遊戲的標題界面。玩家可以從畫廊裏欣賞部分 CG 圖和[背景音乐](https://zh.wikipedia.org/wiki/背景音乐 "wikilink")。根據玩家在遊戲中的選項選擇的不同，將會進入不同的路線，觸發不同的結局。
 
 遊戲總共有8條線路，其中有三條是一周目便可以進入，另外四條則需要完成特定線路後才可解鎖。\[3\]在遊戲過程中玩家将会遇到若干个选项，當玩家作出選擇時，遊戲才能繼續進行下去，個別選項的選擇會決定玩家所進入的路線。若想要經歷所有路線的話，玩家必須多次重玩遊戲，通關不同的故事線以解鎖後續的故事線，並選擇不同的選項來進入不同的線路。一周目時，有三條線路是處於開啓狀態的，分別是小鳥線、千早線和露西婭線。\[4\]當通關小鳥線後，靜流線會解鎖；當通關千早線後，朱音線會解鎖。五位女主角的線路全部通關之後，月線解鎖，月線通關之後，被稱爲是真正結局與揭曉所有劇情線伏筆謎團的地線解鎖。月線和地線的情節主要是圍繞着篝展開，也就是說，篝是月線和地線的女主角。\[5\]
 
-在遊戲中，男主角的[智慧型手機擁有類似](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")
-[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink") 的定位功能，並安裝有一個名爲
-Mappie 的地圖
-[app](https://zh.wikipedia.org/wiki/app "wikilink")，在某些情況下，玩家需要通過滑動和[單擊來使用這個地圖](https://zh.wikipedia.org/wiki/單擊 "wikilink")
-app 來控制玩家到達不同的地點\[6\]玩家通過 Mappie
-控制男主角經過不同的地點時，有一定機率會遇到其他一些次要角色，並與他們成爲朋友，同時有一定機率完成一些小[任務](../Page/任务_\(电子游戏\).md "wikilink")。這些朋友的名字以及完成的任務會記錄在「記憶」這個功能裏供玩家查看。如果玩家完成了所有的31個任務，歐派線將會開啓，這是朱音線的一個喜劇分支線，和整個故事的主線並沒有太大的聯繫。\[7\]
+在遊戲中，男主角的[智慧型手機擁有類似](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink") [GPS](https://zh.wikipedia.org/wiki/GPS "wikilink") 的定位功能，並安裝有一個名爲 Mappie 的地圖 [app](https://zh.wikipedia.org/wiki/app "wikilink")，在某些情況下，玩家需要通過滑動和[單擊來使用這個地圖](https://zh.wikipedia.org/wiki/單擊 "wikilink") app 來控制玩家到達不同的地點\[6\]玩家通過 Mappie 控制男主角經過不同的地點時，有一定機率會遇到其他一些次要角色，並與他們成爲朋友，同時有一定機率完成一些小[任務](../Page/任务_\(电子游戏\).md "wikilink")。這些朋友的名字以及完成的任務會記錄在「記憶」這個功能裏供玩家查看。如果玩家完成了所有的31個任務，歐派線將會開啓，這是朱音線的一個喜劇分支線，和整個故事的主線並沒有太大的聯繫。\[7\]
 
-遊戲畫面左下角的[齿轮和指針跟瑚太朗的改寫能力有關](../Page/齿轮.md "wikilink")，當他發動改寫能力時，指針會順時針旋轉一定角度。在遊戲的大部分時候，對話框是出現在遊戲畫面的底部的，但是在地線中，文字是出現在整個屏幕上的。\[8\]
+遊戲畫面左下角的[齿轮](../Page/齿轮.md "wikilink")和指針跟瑚太朗的改寫能力有關，當他發動改寫能力時，指針會順時針旋轉一定角度。在遊戲的大部分時候，對話框是出現在遊戲畫面的底部的，但是在地線中，文字是出現在整個屏幕上的。\[8\]
 
-在《Rewrite Harvest
-festa\!》中，有六條分開的路線，分別對應六個女主角\[9\]\[10\]一周目時，玩家可以從選擇界面中選擇小鳥線、千早線和露西婭線。當這通關這三條線路之後，靜流線和朱音線解鎖。當靜流線和朱音線通關後，篝線解鎖。篝線的通關會解鎖一個名爲「Rewrite
-Quest」的小遊戲。
+在《Rewrite Harvest festa\!》中，有六條分開的路線，分別對應六個女主角\[9\]\[10\]一周目時，玩家可以從選擇界面中選擇小鳥線、千早線和露西婭線。當這通關這三條線路之後，靜流線和朱音線解鎖。當靜流線和朱音線通關後，篝線解鎖。篝線的通關會解鎖一個名爲「Rewrite Quest」的小遊戲。
 
 ## 故事摘要
 
@@ -46,7 +24,7 @@ Quest」的小遊戲。
 天王寺瑚太朗和小鳥、千早、朱音、靜流、露西婭組成超自然研究社，結識了千早的名義兄長（管家）咲夜，開始著手調查風祭市的超自然事件。過程中瑚太朗開始和超自然研究社成員建立深厚的情誼，遇見了神秘的少女——篝，同時也發掘出自己的超能力。但隨著站在順從星球意識和主導淨化地球立場的「蓋亞」組織與主張站在人類方奮鬥的超能力者組織「守護者」的衝突浮出檯面，超自然研究社成員亦因各自理念不同和臥底身分曝光而開始疏遠彼此。遊戲中視乎玩家決定和超自然研究社成員發展不同結局。
 
 **月球（Moon）篇**（遊戲對應路線：月球線；動畫對應集數：第二期14-16集）
-天王寺瑚太朗趁夜於荒廢的風祭市遊蕩期間，在[雛菊之丘遇見了獨自進行研究的篝](../Page/雛菊.md "wikilink")，經過幾度挫折後終如願與篝順利交流。篝向瑚太朗透露自己身為星球意識的化身，同時道出地球的資源和能量已被消耗至所剩無幾，現時瑚太朗所處的世界其實轉移和運用地球殘存的萬能之力建立的月球世界。她在數度利用[箱廷理論推演能夠延續世界的可能性的過程中](https://zh.wikipedia.org/wiki/箱廷概念 "wikilink")，因為遇及瓶頸導致進度停滯不前，此時瑚太朗在篝的推演版圖留下「希望有一天還能和妳相見」的留言和簽名，幫助篝創造延續世界的全新可能性，同時也查覺自己存在著先前於各種可能性世界和超自然研究社成員互動的記憶，以及數年的記憶空白。
+天王寺瑚太朗趁夜於荒廢的風祭市遊蕩期間，在[雛菊](../Page/雛菊.md "wikilink")之丘遇見了獨自進行研究的篝，經過幾度挫折後終如願與篝順利交流。篝向瑚太朗透露自己身為星球意識的化身，同時道出地球的資源和能量已被消耗至所剩無幾，現時瑚太朗所處的世界其實轉移和運用地球殘存的萬能之力建立的月球世界。她在數度利用[箱廷理論推演能夠延續世界的可能性的過程中](https://zh.wikipedia.org/wiki/箱廷概念 "wikilink")，因為遇及瓶頸導致進度停滯不前，此時瑚太朗在篝的推演版圖留下「希望有一天還能和妳相見」的留言和簽名，幫助篝創造延續世界的全新可能性，同時也查覺自己存在著先前於各種可能性世界和超自然研究社成員互動的記憶，以及數年的記憶空白。
 同一時間，「蓋亞」組織的幕後領導者加島櫻遣送眾多魔物阻撓瑚太朗和篝的計畫，瑚太朗集結先前在各種可能性世界邂逅的超自然研究社成員及咲夜前來援助，瑚太朗的同學們也隨之應戰，「蓋亞」和「守護者」陣營亦展開對決；但後來超自然研究社、瑚太朗的同學們、部分「蓋亞」和「守護者」的成員陸續不敵陣亡，連召喚各世界可能的自己和變身成魔物姿態迎戰的咲夜也為此犧牲，最終月球篝為了實踐延續世界的可能，將月球上所有的能量連同瑚太朗傳送至已荒蕪的地球。
 
 **地球（Terra）篇**（遊戲對應路線：地球線；動畫對應集數：第二期17-24集）
@@ -84,7 +62,7 @@ Quest」的小遊戲。
 <!-- end list -->
 
   -
-    頭上戴著藍色髮帶的少女，超自研的現任會長，在校比瑚太朗年長一屆。和瑚太朗相比更爱把别人当傻瓜，但却微妙地拥有朴质的内在。在校内一小部分学生当中，以“超越法规的存在”而闻名，甚至被稱為「學園之魔女」，其所谓的魔法是政治手段，由於掌控了学校所有成員的一切秘密，而且背后有着比PTA强大的组织撑腰，故能為所欲為，甚至在空教室建立了豪華的私人房間。由於長期在校內房間居住，養成了[御宅族的個性](../Page/御宅族.md "wikilink")，經常玩[FPS遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")。其身份為組織「蓋亞」的下任聖女，幼時曾被瑚太朗所救而結下因緣。
+    頭上戴著藍色髮帶的少女，超自研的現任會長，在校比瑚太朗年長一屆。和瑚太朗相比更爱把别人当傻瓜，但却微妙地拥有朴质的内在。在校内一小部分学生当中，以“超越法规的存在”而闻名，甚至被稱為「學園之魔女」，其所谓的魔法是政治手段，由於掌控了学校所有成員的一切秘密，而且背后有着比PTA强大的组织撑腰，故能為所欲為，甚至在空教室建立了豪華的私人房間。由於長期在校內房間居住，養成了[御宅族](../Page/御宅族.md "wikilink")的個性，經常玩[FPS遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")。其身份為組織「蓋亞」的下任聖女，幼時曾被瑚太朗所救而結下因緣。
     地線裡因為瑚太朗的行動致使其命運被改寫，地線尾聲被西九條燈花救出與收養，結尾與眾人共赴登陸月球之行。
 
 <!-- end list -->
@@ -112,7 +90,7 @@ Quest」的小遊戲。
 ### 瑚太朗與超自研的親友
 
   -
-    灰色短髮，個性孤傲，言行帶有[中二病性質的少年](../Page/中二病.md "wikilink")，瑚太朗在校少數親近的同學，街上「k-貧民窟」地區的領頭人。熱衷研究拳法，看似叛逆，經常被瑚太朗以玩笑調侃而動怒，實則非常守規矩，孝順父母且重視瑚太朗，不時給與其必要性幫助。童年時因為瑚太朗幫助他從不良分子手裏搶回錢包，出於崇拜瑚太朗而導致成長過程變成中二性格。地線裡成為被守護者成員們救出的倖存者之一。
+    灰色短髮，個性孤傲，言行帶有[中二病](../Page/中二病.md "wikilink")性質的少年，瑚太朗在校少數親近的同學，街上「k-貧民窟」地區的領頭人。熱衷研究拳法，看似叛逆，經常被瑚太朗以玩笑調侃而動怒，實則非常守規矩，孝順父母且重視瑚太朗，不時給與其必要性幫助。童年時因為瑚太朗幫助他從不良分子手裏搶回錢包，出於崇拜瑚太朗而導致成長過程變成中二性格。地線裡成為被守護者成員們救出的倖存者之一。
 
 <!-- end list -->
 
@@ -144,8 +122,7 @@ Quest」的小遊戲。
 <!-- end list -->
 
   - 吉耳（声：[若林直美](../Page/若林直美.md "wikilink")）＆帕妮（声：[上田典子](https://zh.wikipedia.org/wiki/上田典子 "wikilink")）
-    瑚太朗在學校異空間偶遇的小型異生物，吉耳是個性衝動喜歡嚐血液，背部長著樹葉的黑髮男孩；帕妮是溫和有禮，背部長著花朵的粉色捲髮女孩。兩者其實是從蓋亞的某廢棄實驗設施中逃出，人類與魔物融合的失敗產物。認識瑚太朗後經常提供情報，幫助瑚太朗。從番外片《Rewrite
-    Harvest festa\!》透露兩者被改造前原本是蓋亞旗下孤兒院「緣之家」裏，被年輕時期加島櫻照顧過的孤兒。
+    瑚太朗在學校異空間偶遇的小型異生物，吉耳是個性衝動喜歡嚐血液，背部長著樹葉的黑髮男孩；帕妮是溫和有禮，背部長著花朵的粉色捲髮女孩。兩者其實是從蓋亞的某廢棄實驗設施中逃出，人類與魔物融合的失敗產物。認識瑚太朗後經常提供情報，幫助瑚太朗。從番外片《Rewrite Harvest festa\!》透露兩者被改造前原本是蓋亞旗下孤兒院「緣之家」裏，被年輕時期加島櫻照顧過的孤兒。
 
 <!-- end list -->
 
@@ -261,22 +238,15 @@ Quest」的小遊戲。
 
 ## 制作与发行
 
-[Key於](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")2008年4月1日宣佈製作**Rewrite**。\[13\]由於當天是[愚人節](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，大部分人都認為這是Key社開的玩笑，但這的確並非假情報。根據於[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")2008年11月號的Rewrite製作人訪問中提供的資料，故事的舞台為一個綠化都市「風祭市」，而其中5位女主角分別稱為「神戶小鳥」、「此花露西婭」、「鳳千早」、「中津靜流」及「千里朱音」。本作官方網頁於2009年4月1日開放，公佈了基本故事及角色設定，但世界觀、發售日期等仍未公開。2010年愚人節時以本作是十八禁遊戲開玩笑，翌日宣佈本作為全年齡對象作品，而且沒有預定製作十八禁版本\[14\]2010年6月25日發售的[Kud
-Wafter初回限定版中捆綁本作體驗版](../Page/Kud_Wafter.md "wikilink")。\[15\]。2011年3月23日，Key官方宣布發售延期至2011年6月24日。2011年6月24日正式發售《Rewrite》\[16\]。同年愚人節時釋出一段近兩分鐘長的短片（其後成為遊戲Moon路線的主題曲動畫），由於充滿和體驗版風格迥異的戰鬥和科幻元素而再次被認為是Key社開的玩笑，但編劇[都乃河勇人卻承認遊戲將包含大量科幻戰鬥的元素](../Page/都乃河勇人.md "wikilink")，而且劇情會有意想不到的展開。
+[Key於](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")2008年4月1日宣佈製作**Rewrite**。\[13\]由於當天是[愚人節](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，大部分人都認為這是Key社開的玩笑，但這的確並非假情報。根據於[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")2008年11月號的Rewrite製作人訪問中提供的資料，故事的舞台為一個綠化都市「風祭市」，而其中5位女主角分別稱為「神戶小鳥」、「此花露西婭」、「鳳千早」、「中津靜流」及「千里朱音」。本作官方網頁於2009年4月1日開放，公佈了基本故事及角色設定，但世界觀、發售日期等仍未公開。2010年愚人節時以本作是十八禁遊戲開玩笑，翌日宣佈本作為全年齡對象作品，而且沒有預定製作十八禁版本\[14\]2010年6月25日發售的[Kud Wafter初回限定版中捆綁本作體驗版](../Page/Kud_Wafter.md "wikilink")。\[15\]。2011年3月23日，Key官方宣布發售延期至2011年6月24日。2011年6月24日正式發售《Rewrite》\[16\]。同年愚人節時釋出一段近兩分鐘長的短片（其後成為遊戲Moon路線的主題曲動畫），由於充滿和體驗版風格迥異的戰鬥和科幻元素而再次被認為是Key社開的玩笑，但編劇[都乃河勇人](../Page/都乃河勇人.md "wikilink")卻承認遊戲將包含大量科幻戰鬥的元素，而且劇情會有意想不到的展開。
 
-2013年6月，官方网站发表了推出[PlayStation
-Portable](../Page/PlayStation_Portable.md "wikilink")、[PlayStation
-Vita版的决定](../Page/PlayStation_Vita.md "wikilink")\[17\]。之後Prototype於2014年4月17日發售PlayStation
-Portable版\[18\]；8月28日發售PlayStation
-Vita版\[19\]\[20\]。key於2016年7月29日推出《Rewrite+》。
+2013年6月，官方网站发表了推出[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[PlayStation Vita版的决定](../Page/PlayStation_Vita.md "wikilink")\[17\]。之後Prototype於2014年4月17日發售PlayStation Portable版\[18\]；8月28日發售PlayStation Vita版\[19\]\[20\]。key於2016年7月29日推出《Rewrite+》。
 
-2015年9月26日，正式宣布TV動畫化，並確定由[8bit製作](../Page/8bit.md "wikilink")，並於2015年12月29日公布PV01。
+2015年9月26日，正式宣布TV動畫化，並確定由[8bit](../Page/8bit.md "wikilink")製作，並於2015年12月29日公布PV01。
 
 ## Fan Disk和Rewrite+
 
-Fan Disk「[Rewrite Harvest
-festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")」已於2012年7月27日发售。\[21\]全遊戲合共由六個獨立故事組成，小鳥、千早、朱音、靜流、露西婭和篝均有各自的故事，小鳥及千早的故事為本篇「Rewrite」相應路線的日後談，其餘則是[平行世界](https://zh.wikipedia.org/wiki/平行世界 "wikilink")。所有故事完結後將開放[RPG形式的小遊戲](../Page/電子角色扮演遊戲.md "wikilink")。
+Fan Disk「[Rewrite Harvest festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")」已於2012年7月27日发售。\[21\]全遊戲合共由六個獨立故事組成，小鳥、千早、朱音、靜流、露西婭和篝均有各自的故事，小鳥及千早的故事為本篇「Rewrite」相應路線的日後談，其餘則是[平行世界](https://zh.wikipedia.org/wiki/平行世界 "wikilink")。所有故事完結後將開放[RPG形式的小遊戲](../Page/電子角色扮演遊戲.md "wikilink")。
 
 key於2016年7月29日推出「Rewrite+」，改編自於2011年發售的視覺小說「Rewrite」\[22\]。故事發生自以「文明與綠色共存」為理念而興建的都市「風祭」，玩家扮演的角色天王寺瑚太朗會與神戶小鳥、鳳千早、千里朱音、中津靜流、此花露西婭進行互動。\[23\]
 
@@ -288,8 +258,7 @@ key於2016年7月29日推出「Rewrite+」，改編自於2011年發售的視覺�
 
 ### 廣播
 
-[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")「廣播Rewrite
-月刊Terra・风祭学院支局」由2011年5月27日起开始在網路上放送，至2012年9月28日結束。\[26\]2011年9月30日至2013年1月30日共發售6卷CD。\[27\]\[28\]
+[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")「廣播Rewrite 月刊Terra・风祭学院支局」由2011年5月27日起开始在網路上放送，至2012年9月28日結束。\[26\]2011年9月30日至2013年1月30日共發售6卷CD。\[27\]\[28\]
 
   - 主持人：
 
@@ -318,16 +287,9 @@ key於2016年7月29日推出「Rewrite+」，改編自於2011年發售的視覺�
 
 ### 漫畫
 
-第一款由[東條坂奈](https://zh.wikipedia.org/wiki/東條坂奈 "wikilink")（）作畫的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《Rewrite：SIDE-B》於2010年10月號\[29\]至2014年5月號在[ASCII
-Media Works發行的雜誌](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's
-magazine](../Page/電擊G's_magazine.md "wikilink")》進行發表，之後於2014年6月號至2015年7月號刊載在《》\[30\]\[31\]。七本漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年4月27日2014年11月27日發售\[32\]\[33\]。第二款由[川上修一作畫的漫畫](https://zh.wikipedia.org/wiki/川上修一 "wikilink")《Rewrite：SIDE-R》於2011年2月26日至2013年7月27日在《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》進行發表\[34\]\[35\]，五本漫畫單行本於2011年6月27日2013年10月26日發售\[36\]\[37\]。第三款由作畫的漫畫《》於2011年6月號至2014年4月號在[一迅社發行的雜誌](../Page/一迅社.md "wikilink")《漫畫4格KINGS
-Palette》進行發表\[38\]\[39\]，兩本漫畫單行本於2012年7月21日至2014年8月22日發售\[40\]。第四款由作畫的漫畫《》於2011年10月26日至2013年4月26日在《》進行發表\[41\]\[42\]，兩本漫畫單行本於2012年7月27日至2013年7月27日發售\[43\]\[44\]。
+第一款由[東條坂奈](https://zh.wikipedia.org/wiki/東條坂奈 "wikilink")（）作畫的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《Rewrite：SIDE-B》於2010年10月號\[29\]至2014年5月號在[ASCII Media Works發行的雜誌](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》進行發表，之後於2014年6月號至2015年7月號刊載在《》\[30\]\[31\]。七本漫畫[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年4月27日2014年11月27日發售\[32\]\[33\]。第二款由[川上修一作畫的漫畫](https://zh.wikipedia.org/wiki/川上修一 "wikilink")《Rewrite：SIDE-R》於2011年2月26日至2013年7月27日在《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》進行發表\[34\]\[35\]，五本漫畫單行本於2011年6月27日2013年10月26日發售\[36\]\[37\]。第三款由作畫的漫畫《》於2011年6月號至2014年4月號在[一迅社](../Page/一迅社.md "wikilink")發行的雜誌《漫畫4格KINGS Palette》進行發表\[38\]\[39\]，兩本漫畫單行本於2012年7月21日至2014年8月22日發售\[40\]。第四款由作畫的漫畫《》於2011年10月26日至2013年4月26日在《》進行發表\[41\]\[42\]，兩本漫畫單行本於2012年7月27日至2013年7月27日發售\[43\]\[44\]。
 
-除了官方授權的漫畫作品外，另外也有數家公司自行邀請許多著名的藝術家一同推出不同系列的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")。ASCII
-Media Works於2011年9月27日發售《Comic Earth Star Rewrite》，隸屬ASCII Media
-Works的《》上推出。\[45\]一迅社於2011年9月24日至11月25日推出一系列的《Rewrite漫畫選集》。\[46\]\[47\][Enterbrain於](../Page/Enterbrain.md "wikilink")2011年12月24日至2012年3月24日發售兩本[四格漫畫連環漫畫](https://zh.wikipedia.org/wiki/四格 "wikilink")《Magi-Cu
-四格漫畫
-Rewrite》，由隸屬Enterbrain的《[Magi-Cu](../Page/Magi-Cu.md "wikilink")》上推出。\[48\]\[49\][角川書店於](../Page/角川書店.md "wikilink")2011年10月23日發售漫畫選集《》。\[50\]
+除了官方授權的漫畫作品外，另外也有數家公司自行邀請許多著名的藝術家一同推出不同系列的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")。ASCII Media Works於2011年9月27日發售《Comic Earth Star Rewrite》，隸屬ASCII Media Works的《》上推出。\[45\]一迅社於2011年9月24日至11月25日推出一系列的《Rewrite漫畫選集》。\[46\]\[47\][Enterbrain](../Page/Enterbrain.md "wikilink")於2011年12月24日至2012年3月24日發售兩本[四格漫畫連環漫畫](https://zh.wikipedia.org/wiki/四格 "wikilink")《Magi-Cu 四格漫畫 Rewrite》，由隸屬Enterbrain的《[Magi-Cu](../Page/Magi-Cu.md "wikilink")》上推出。\[48\]\[49\][角川書店](../Page/角川書店.md "wikilink")於2011年10月23日發售漫畫選集《》。\[50\]
 
 ### 電視動畫
 
@@ -337,11 +299,9 @@ Rewrite》，由隸屬Enterbrain的《[Magi-Cu](../Page/Magi-Cu.md "wikilink")�
 
 #### 製作人員
 
-  - 原作：[Key](../Page/Key_\(遊戲品牌\).md "wikilink")、[Visual
-    Art's](../Page/Visual_Art's.md "wikilink")
+  - 原作：[Key](../Page/Key_\(遊戲品牌\).md "wikilink")、[Visual Art's](../Page/Visual_Art's.md "wikilink")
   - 監督、系列構成：天衝
-  - 構成、劇本協力：[田中羅密歐](../Page/田中羅密歐.md "wikilink")、[魁](../Page/魁.md "wikilink")（[Visual
-    Art's](../Page/Visual_Art's.md "wikilink")）
+  - 構成、劇本協力：[田中羅密歐](../Page/田中羅密歐.md "wikilink")、[魁](../Page/魁.md "wikilink")（[Visual Art's](../Page/Visual_Art's.md "wikilink")）
   - 角色原案：[樋上至](../Page/樋上至.md "wikilink")
   - 角色設計：野中正幸
   - 動畫製作：[8bit](../Page/8bit.md "wikilink")
@@ -353,8 +313,7 @@ Rewrite》，由隸屬Enterbrain的《[Magi-Cu](../Page/Magi-Cu.md "wikilink")�
 
 :;「Philosophyz 〜TV animation ver.〜」（第2話－第4話、第6話）
 
-::
-作詞：[都乃河勇人](../Page/都乃河勇人.md "wikilink")，作曲：[折戶伸治](../Page/折戶伸治.md "wikilink")，編曲：MintJam，歌：[水谷瑠奈](https://zh.wikipedia.org/wiki/水谷瑠奈 "wikilink")（NanosizeMir）
+:: 作詞：[都乃河勇人](../Page/都乃河勇人.md "wikilink")，作曲：[折戶伸治](../Page/折戶伸治.md "wikilink")，編曲：MintJam，歌：[水谷瑠奈](https://zh.wikipedia.org/wiki/水谷瑠奈 "wikilink")（NanosizeMir）
 
 :: 第1话作为片尾曲使用。
 
@@ -381,8 +340,7 @@ Rewrite》，由隸屬Enterbrain的《[Magi-Cu](../Page/Magi-Cu.md "wikilink")�
 
 :;「」（第5話）
 
-:: 作詞：龍騎士07／07th
-Expansion，作曲：折戶伸治，編曲：MintJam，歌：[北澤綾香](https://zh.wikipedia.org/wiki/北澤綾香 "wikilink")
+:: 作詞：龍騎士07／07th Expansion，作曲：折戶伸治，編曲：MintJam，歌：[北澤綾香](https://zh.wikipedia.org/wiki/北澤綾香 "wikilink")
 
 :; 「Word of Dawn」（第8話、第9話、第11話、第12話）
 
@@ -404,8 +362,7 @@ Expansion，作曲：折戶伸治，編曲：MintJam，歌：[北澤綾香](http
 
 :; 「旅」（第14話、第15話）
 
-:: 作曲：麻枝准，編曲：[ANANT-GARDE
-EYES](https://zh.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
+:: 作曲：麻枝准，編曲：[ANANT-GARDE EYES](https://zh.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
 
 :; 「Last Desire」（第17話－第23話）
 
@@ -418,8 +375,7 @@ EYES](https://zh.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
 
 :; 「Daisy Memory」（第14話）
 
-::
-作曲：[井內舞子](https://zh.wikipedia.org/wiki/井內舞子 "wikilink")，編曲：[樋口秀樹](https://zh.wikipedia.org/wiki/Tynwald_music "wikilink")
+:: 作曲：[井內舞子](https://zh.wikipedia.org/wiki/井內舞子 "wikilink")，編曲：[樋口秀樹](https://zh.wikipedia.org/wiki/Tynwald_music "wikilink")
 
 :; 「a seed leaf」（第15話）
 
@@ -448,9 +404,7 @@ EYES](https://zh.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
 
 :; 「Rewrite」（第16話，遊戲版為Moon線片頭曲）
 
-::
-作詞、作曲：[YOFFY](https://zh.wikipedia.org/wiki/YOFFY "wikilink")，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")，歌：[PSYCHIC
-LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
+:: 作詞、作曲：[YOFFY](https://zh.wikipedia.org/wiki/YOFFY "wikilink")，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")，歌：[PSYCHIC LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
 
 :;「Philosophyz」（第24話）
 
@@ -880,20 +834,7 @@ LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
   - [動畫官方網站](http://www.rewrite-anime.tv/)
 
   -
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:電擊G's雜誌](https://zh.wikipedia.org/wiki/Category:電擊G's雜誌 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:電擊G's雜誌](https://zh.wikipedia.org/wiki/Category:電擊G's雜誌 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
 1.
 
@@ -931,8 +872,7 @@ LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
 
 21.
 
-22.  Key Official
-    HomePage|publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")|accessdate=2016年9月25日|language=ja}}
+22.  Key Official HomePage|publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")|accessdate=2016年9月25日|language=ja}}
 
 23.
 

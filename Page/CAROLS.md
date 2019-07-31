@@ -25,9 +25,4 @@
 | Oricon周間專輯榜 <small>(2004年10月第2周)</small> | 1    | 177,778 | 15周  |
 | Oricon年間專輯榜 <small>(2004年)</small>       | 20   | 309,128 |      |
 
-[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:科技產品廣告歌曲](https://zh.wikipedia.org/wiki/Category:科技產品廣告歌曲 "wikilink")
-[Category:2004年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:RIAJ手機片段下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機片段下載百萬認證歌曲 "wikilink")
+[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:科技產品廣告歌曲](https://zh.wikipedia.org/wiki/Category:科技產品廣告歌曲 "wikilink") [Category:2004年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲月榜冠軍作品 "wikilink") [Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink") [Category:RIAJ手機片段下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機片段下載百萬認證歌曲 "wikilink")

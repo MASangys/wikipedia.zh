@@ -8,9 +8,8 @@
       - 《精彩全記錄》版（首版、再版）：《精彩全記錄》是將王菲前8張大碟捆綁發售。
       - 《從頭認識》版：《從頭認識》是將王菲在新藝寶一共9張粵語大碟捆綁發售。
       - 環球復黑版：2004年8月27日。
-      - [黑膠唱片版](../Page/黑膠唱片.md "wikilink")
-      - [卡帶](https://zh.wikipedia.org/wiki/卡帶 "wikilink")
-        [錄音帶版](https://zh.wikipedia.org/wiki/錄音帶 "wikilink")
+      - [黑膠唱片](../Page/黑膠唱片.md "wikilink")版
+      - [卡帶](https://zh.wikipedia.org/wiki/卡帶 "wikilink") [錄音帶版](https://zh.wikipedia.org/wiki/錄音帶 "wikilink")
 
 ## 曲目
 
@@ -29,9 +28,7 @@
 
 </div>
 
-[Category:王菲音樂專輯](https://zh.wikipedia.org/wiki/Category:王菲音樂專輯 "wikilink")
-[Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink")
-[Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
+[Category:王菲音樂專輯](https://zh.wikipedia.org/wiki/Category:王菲音樂專輯 "wikilink") [Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
 
 1.  2001年2月16日《寓言》日文版中的王菲介紹頁：「」
 2.  [商業電台官方網站](http://www1.881903.com/framework/pccs.gateway?url=jsp/lsc/index.jsp&menuID=36&pageURL=/fwcontent/lsc/html/lsc_20021206award1990.htm)

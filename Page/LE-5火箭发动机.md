@@ -1,5 +1,4 @@
-[LE-5.JPG](https://zh.wikipedia.org/wiki/File:LE-5.JPG "fig:LE-5.JPG")
-**LE-5火箭发动机**及其派生型号都是[日本](../Page/日本.md "wikilink")设计制造的用于[H1和](https://zh.wikipedia.org/wiki/H1运载火箭 "wikilink")[H2火箭](https://zh.wikipedia.org/wiki/H2运载火箭 "wikilink")[上面级推进的](https://zh.wikipedia.org/wiki/上面级 "wikilink")。是以[液氢](../Page/液氢.md "wikilink")[液氧](../Page/液氧.md "wikilink")为推进剂。最初由[三菱重工设计制造](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")。发动机尺寸和推力都很小。发动机采用[火花点火因而能多次启动](https://zh.wikipedia.org/wiki/火花点火 "wikilink")，能最多点火16次，工作40余分钟。而用于H2火箭通常是点火一次工作9分钟后抛弃。而发射[地球静止轨道任务](https://zh.wikipedia.org/wiki/地球静止轨道 "wikilink")，则在火箭成功停泊低地球轨道后发动机二次点火将酬载送到静止轨道。
+[LE-5.JPG](https://zh.wikipedia.org/wiki/File:LE-5.JPG "fig:LE-5.JPG") **LE-5火箭发动机**及其派生型号都是[日本](../Page/日本.md "wikilink")设计制造的用于[H1和](https://zh.wikipedia.org/wiki/H1运载火箭 "wikilink")[H2火箭](https://zh.wikipedia.org/wiki/H2运载火箭 "wikilink")[上面级推进的](https://zh.wikipedia.org/wiki/上面级 "wikilink")。是以[液氢](../Page/液氢.md "wikilink")[液氧](../Page/液氧.md "wikilink")为推进剂。最初由[三菱重工设计制造](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")。发动机尺寸和推力都很小。发动机采用[火花点火因而能多次启动](https://zh.wikipedia.org/wiki/火花点火 "wikilink")，能最多点火16次，工作40余分钟。而用于H2火箭通常是点火一次工作9分钟后抛弃。而发射[地球静止轨道任务](https://zh.wikipedia.org/wiki/地球静止轨道 "wikilink")，则在火箭成功停泊低地球轨道后发动机二次点火将酬载送到静止轨道。
 
 ## LE-5
 
@@ -40,12 +39,10 @@ LE-5B是LE-5A更深化改进版。变化主要在降低发动机成本，增加�
 
 ## 参考来源
 
-  - [Encyclopedia Astronautica
-    LE-5](https://web.archive.org/web/20132222415300/http://www.astronautix.com/engines/le5.htm)
-  - [Encyclopedia Astronautica
-    LE-5A](https://web.archive.org/web/20132222420400/http://www.astronautix.com/engines/le5a.htm)
-  - [Encyclopedia Astronautica
-    LE-5B](https://web.archive.org/web/20132222422600/http://www.astronautix.com/engines/le5b.htm)
+  - [Encyclopedia Astronautica LE-5](https://web.archive.org/web/20132222415300/http://www.astronautix.com/engines/le5.htm)
+  - [Encyclopedia Astronautica LE-5A](https://web.archive.org/web/20132222420400/http://www.astronautix.com/engines/le5a.htm)
+  - [Encyclopedia Astronautica LE-5B](https://web.archive.org/web/20132222422600/http://www.astronautix.com/engines/le5b.htm)
 
-[Category:火箭发动机](https://zh.wikipedia.org/wiki/Category:火箭发动机 "wikilink")
-[Category:日本航天](https://zh.wikipedia.org/wiki/Category:日本航天 "wikilink")
+
+
+[Category:火箭发动机](https://zh.wikipedia.org/wiki/Category:火箭发动机 "wikilink") [Category:日本航天](https://zh.wikipedia.org/wiki/Category:日本航天 "wikilink")

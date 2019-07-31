@@ -1,7 +1,4 @@
-**STARHORSE2**是[世嘉開發的](../Page/世嘉.md "wikilink")[賽馬育成街機遊戲](../Page/賽馬.md "wikilink")，是[STARHORSE第五代至第七代](https://zh.wikipedia.org/wiki/STARHORSE "wikilink")。第一版本NEW
-GENERATION在2005年發行。第二版SECOND FUSION在2006年10月發行。第三版本THIRD
-EVOLUTION在2007年11月4日發行。此遊戲獲得2005年Good Design賞商品部門設計獎\[1\]。目前為止THIRD
-EVOLUTION是STARHORSE系列第七套作品。
+**STARHORSE2**是[世嘉](../Page/世嘉.md "wikilink")開發的[賽馬](../Page/賽馬.md "wikilink")育成街機遊戲，是[STARHORSE第五代至第七代](https://zh.wikipedia.org/wiki/STARHORSE "wikilink")。第一版本NEW GENERATION在2005年發行。第二版SECOND FUSION在2006年10月發行。第三版本THIRD EVOLUTION在2007年11月4日發行。此遊戲獲得2005年Good Design賞商品部門設計獎\[1\]。目前為止THIRD EVOLUTION是STARHORSE系列第七套作品。
 
 ## 玩法
 
@@ -23,8 +20,7 @@ STARHORSE2設有九項投注項目，其中七項與日本中央競馬會投注�
 
 ### 馬匹育成
 
-馬匹可以由牧場中配種，並提供多匹配種馬選擇。在生產新的馬匹後，可以決定馬匹為3歲馬還是古馬（等同現實4歲或以上馬匹），不過在[京都新聞盃及St](https://zh.wikipedia.org/wiki/京都新聞盃 "wikilink").
-Lite紀念賽賽事及以後，玩家只能生產古馬。
+馬匹可以由牧場中配種，並提供多匹配種馬選擇。在生產新的馬匹後，可以決定馬匹為3歲馬還是古馬（等同現實4歲或以上馬匹），不過在[京都新聞盃及St](https://zh.wikipedia.org/wiki/京都新聞盃 "wikilink"). Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 生產馬匹後，馬匹將會出戰條件賽，在條件賽勝出3-4場賽事後，玩家就可以真正育成自己的馬匹，玩家可根據每次出賽條件賽的意見，確定馬匹的能力。玩家每次對馬匹可以一次訓練及給予一次飼料。此外，在出賽前，玩家可以為馬匹追加一次訓練，以提升比賽狀態。在投注勝出後滿足某個條件後，可進行極秘訓練，可改變馬匹的腳法。
 
@@ -32,7 +28,7 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 ### 賽事
 
-每年有65週，總共有77場賽事\[5\]，部份賽事每年以交換形式進行，例如今年舉行[京都金盃](https://zh.wikipedia.org/wiki/京都金盃 "wikilink")，下一年將會舉行[中山金盃](https://zh.wikipedia.org/wiki/中山金盃 "wikilink")。賽事包括了[日本中央競馬會分級賽事](../Page/日本中央競馬會.md "wikilink")（有4場WSJS賽事是OP級別），4場WBC系列的虛構比賽，以包3場真實海外賽事。玩家可以在三場比賽前為馬匹報名。報名費為由10credits起。而WBC及殿堂馬賽事則會以招待形式舉辦，達到某條件後不需付費則可參賽。
+每年有65週，總共有77場賽事\[5\]，部份賽事每年以交換形式進行，例如今年舉行[京都金盃](https://zh.wikipedia.org/wiki/京都金盃 "wikilink")，下一年將會舉行[中山金盃](https://zh.wikipedia.org/wiki/中山金盃 "wikilink")。賽事包括了[日本中央競馬會](../Page/日本中央競馬會.md "wikilink")分級賽事（有4場WSJS賽事是OP級別），4場WBC系列的虛構比賽，以包3場真實海外賽事。玩家可以在三場比賽前為馬匹報名。報名費為由10credits起。而WBC及殿堂馬賽事則會以招待形式舉辦，達到某條件後不需付費則可參賽。
 
 同一項賽事最多只能讓10匹馬出賽（同一項賽事一個馬房可派兩匹馬同時出賽），如玩家數目較多時，要儘快報名避免額滿而無法報名。每項賽事最少出馬數為8匹，最多為14匹，而模擬賽事最多出馬18匹。
 
@@ -95,7 +91,7 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
   - 增加2006年出賽馬匹資料。
 
-  - [阪神競馬場以](../Page/阪神競馬場.md "wikilink")2006年翻新後姿態登場。
+  - [阪神競馬場](../Page/阪神競馬場.md "wikilink")以2006年翻新後姿態登場。
 
   - 可以在街機機台觀看STARHORSE.NET的資料。
 
@@ -119,7 +115,7 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 ### FIFTH EXPANSION
 
-2009年11月發行，新增[杜拜世界盃賽事](../Page/杜拜世界盃.md "wikilink")。玩家最多可以擁有六頭馬。
+2009年11月發行，新增[杜拜世界盃](../Page/杜拜世界盃.md "wikilink")賽事。玩家最多可以擁有六頭馬。
 
 ### FINAL DESTIANTION
 
@@ -142,17 +138,12 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
   - [STARHORSE](http://www.segastarhorse.com/)官方網站
   - [STARHORSE.NET for PC](https://pc.segastarhorse.net/)
 
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
-1.  [Good Design Award
-    STARHORSE](http://www.g-mark.org/search/Detail?id=31660&sheet=outline&lang=ja)
-
+1.  [Good Design Award STARHORSE](http://www.g-mark.org/search/Detail?id=31660&sheet=outline&lang=ja)
 2.  [](http://sega.jp/starhorse/inst/bet02.html)
 3.  [](http://sega.jp/starhorse/inst/step08.html)
-4.  [StarHorse2 GUIDE　(小技)
-    また、](http://gackn7b.web.fc2.com/starhorse/07contents-kowaza.html)
+4.  [StarHorse2 GUIDE　(小技) また、](http://gackn7b.web.fc2.com/starhorse/07contents-kowaza.html)
 5.  [](http://sega.jp/starhorse/race/index.html)
 6.  [](http://sega.jp/starhorse/inst/shop.html)
 7.  [](http://plusd.itmedia.co.jp/games/articles/0711/28/news056.html)

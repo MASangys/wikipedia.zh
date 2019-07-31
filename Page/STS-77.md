@@ -6,10 +6,7 @@
   - **[柯提斯·布朗](../Page/柯提斯·布朗.md "wikilink")**（，曾执行、、、、以及任务），飞行员
   - **[丹尼尔·博斯奇](https://zh.wikipedia.org/wiki/丹尼尔·博斯奇 "wikilink")**（，曾执行、、、、以及任务），任务专家
   - **[马里奥·伦科](https://zh.wikipedia.org/wiki/马里奥·伦科 "wikilink")**（，曾执行、以及任务），任务专家
-  - **[马克·加诺](https://zh.wikipedia.org/wiki/马克·加诺 "wikilink")**（，[加拿大宇航员](../Page/加拿大.md "wikilink")，曾执行、以及任务），任务专家
+  - **[马克·加诺](https://zh.wikipedia.org/wiki/马克·加诺 "wikilink")**（，[加拿大](../Page/加拿大.md "wikilink")宇航员，曾执行、以及任务），任务专家
   - **[安德鲁·托马斯](https://zh.wikipedia.org/wiki/安德鲁·托马斯 "wikilink")**（，曾执行、、[和平号](https://zh.wikipedia.org/wiki/和平號太空站 "wikilink")、、以及任务），任务专家
 
-[Category:1996年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1996年佛罗里达州 "wikilink")
-[Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink")
-[Category:1996年科學](https://zh.wikipedia.org/wiki/Category:1996年科學 "wikilink")
-[Category:1996年5月](https://zh.wikipedia.org/wiki/Category:1996年5月 "wikilink")
+[Category:1996年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1996年佛罗里达州 "wikilink") [Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink") [Category:1996年科學](https://zh.wikipedia.org/wiki/Category:1996年科學 "wikilink") [Category:1996年5月](https://zh.wikipedia.org/wiki/Category:1996年5月 "wikilink")

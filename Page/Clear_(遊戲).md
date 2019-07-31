@@ -1,6 +1,4 @@
-《**Clear**》（）是由[日本](../Page/日本.md "wikilink")[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[MOONSTONE](../Page/MOONSTONE.md "wikilink")於2007年8月24日推出的[PC平台的](../Page/电脑游戏.md "wikilink")[十八禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險](../Page/戀愛冒險遊戲.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。「Clear」是MOONSTONE開發的第六部遊戲；早前的遊戲《[Gift](../Page/Gift.md "wikilink")》也是由MOONSTONE推出。遊戲採取人機互動的方式，遊戲情節則是事先設定好的，整個故事以五位女主角為中心。在遊戲推出以前，以其劇情為藍本的[漫畫在](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")[雜誌](../Page/漫畫雜誌.md "wikilink")《[月刊Comp
-Ace](../Page/月刊Comp_Ace.md "wikilink")》上連載，連載期間是從2007年6月到2008年5月。角色[CD](../Page/CD.md "wikilink")[單曲於](https://zh.wikipedia.org/wiki/單曲 "wikilink")2007年5月（遊戲推出的三個月以前）推出。遊戲的迷你[音樂專輯](../Page/音樂專輯.md "wikilink")於2007年9月推出。2009年2月19日推出[PS2版](../Page/PlayStation_2.md "wikilink")，標題定為「Clear
-～在吹起新風的山丘上～（）」。\[1\]
+《**Clear**》（）是由[日本](../Page/日本.md "wikilink")[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[MOONSTONE](../Page/MOONSTONE.md "wikilink")於2007年8月24日推出的[PC平台的](../Page/电脑游戏.md "wikilink")[十八禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險](../Page/戀愛冒險遊戲.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。「Clear」是MOONSTONE開發的第六部遊戲；早前的遊戲《[Gift](../Page/Gift.md "wikilink")》也是由MOONSTONE推出。遊戲採取人機互動的方式，遊戲情節則是事先設定好的，整個故事以五位女主角為中心。在遊戲推出以前，以其劇情為藍本的[漫畫在](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")[雜誌](../Page/漫畫雜誌.md "wikilink")《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》上連載，連載期間是從2007年6月到2008年5月。角色[CD](../Page/CD.md "wikilink")[單曲於](https://zh.wikipedia.org/wiki/單曲 "wikilink")2007年5月（遊戲推出的三個月以前）推出。遊戲的迷你[音樂專輯](../Page/音樂專輯.md "wikilink")於2007年9月推出。2009年2月19日推出[PS2版](../Page/PlayStation_2.md "wikilink")，標題定為「Clear ～在吹起新風的山丘上～（）」。\[1\]
 
 ## [視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")
 
@@ -102,11 +100,9 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》上連載，連載期間是從2007�
 
 ### [漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")
 
-以《》為標題的漫畫從2007年6月26日至2008年5月26日在青年漫畫雜誌《[月刊Comp
-Ace](../Page/月刊Comp_Ace.md "wikilink")》上連載，由作畫。漫畫的推出雖早於遊戲，其故事卻是建立在遊戲基础上的。[單行本第一卷於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2008年3月26日發售，接著單行本第二卷於同年6月26日推出。\[5\]\[6\]
+以《》為標題的漫畫從2007年6月26日至2008年5月26日在青年漫畫雜誌《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》上連載，由作畫。漫畫的推出雖早於遊戲，其故事卻是建立在遊戲基础上的。[單行本第一卷於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2008年3月26日發售，接著單行本第二卷於同年6月26日推出。\[5\]\[6\]
 
-中文版單行本以《Clear
-\~約束之丘\~》為標題於2009年5月25日至6月5日由台灣[青文出版社](../Page/青文出版社.md "wikilink")出版。\[7\]\[8\]
+中文版單行本以《Clear \~約束之丘\~》為標題於2009年5月25日至6月5日由台灣[青文出版社](../Page/青文出版社.md "wikilink")出版。\[7\]\[8\]
 
 ### 小說
 
@@ -114,18 +110,11 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》上連載，由作畫。漫畫的�
 
 ### 書籍
 
-《Clear Visual Fan
-Book》畫冊由[一迅社](../Page/一迅社.md "wikilink")出版，發售時間是2008年4月28日，畫冊的封面是美姬和無月。\[10\]
+《Clear Visual Fan Book》畫冊由[一迅社](../Page/一迅社.md "wikilink")出版，發售時間是2008年4月28日，畫冊的封面是美姬和無月。\[10\]
 
 ### [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")
 
-遊戲的片頭曲是「」，由[Riryka演唱](https://zh.wikipedia.org/wiki/Riryka "wikilink")。片尾曲有兩首：分别是由[Kazko所唱的](https://zh.wikipedia.org/wiki/Kazko "wikilink")「Crystal
-Love」和由Riryka所唱的「Brilliant
-Days」。遊戲一共有三首插曲：[霜月遙](../Page/霜月遙.md "wikilink")的「Bitter
-sweet
-pain」，[片霧烈火](../Page/片霧烈火.md "wikilink")的「Eternal」（）以及[茶太](../Page/茶太.md "wikilink")的「One-way
-Shining」。遊戲的第一張單曲（角色歌曲）「Perfect
-Tears」於2007年5月23日推出\[11\]。兩張遊戲原聲音樂碟隨限定版一起發售。[Lantis](../Page/Lantis.md "wikilink")則於2007年9月26日推出遊戲的迷你音樂專輯，專輯裡收錄了遊戲的片頭曲，兩首片尾曲以及三首插入曲\[12\]。在[大阪和](https://zh.wikipedia.org/wiki/大阪 "wikilink")[東京舉行的促銷活動中還免費分發廣播劇CD](https://zh.wikipedia.org/wiki/東京 "wikilink")《》\[13\]。另一張廣播劇CD在2008年5月9日由Lantis發售\[14\]。
+遊戲的片頭曲是「」，由[Riryka演唱](https://zh.wikipedia.org/wiki/Riryka "wikilink")。片尾曲有兩首：分别是由[Kazko所唱的](https://zh.wikipedia.org/wiki/Kazko "wikilink")「Crystal Love」和由Riryka所唱的「Brilliant Days」。遊戲一共有三首插曲：[霜月遙](../Page/霜月遙.md "wikilink")的「Bitter sweet pain」，[片霧烈火](../Page/片霧烈火.md "wikilink")的「Eternal」（）以及[茶太](../Page/茶太.md "wikilink")的「One-way Shining」。遊戲的第一張單曲（角色歌曲）「Perfect Tears」於2007年5月23日推出\[11\]。兩張遊戲原聲音樂碟隨限定版一起發售。[Lantis](../Page/Lantis.md "wikilink")則於2007年9月26日推出遊戲的迷你音樂專輯，專輯裡收錄了遊戲的片頭曲，兩首片尾曲以及三首插入曲\[12\]。在[大阪和](https://zh.wikipedia.org/wiki/大阪 "wikilink")[東京舉行的促銷活動中還免費分發廣播劇CD](https://zh.wikipedia.org/wiki/東京 "wikilink")《》\[13\]。另一張廣播劇CD在2008年5月9日由Lantis發售\[14\]。
 
 ## 評價
 
@@ -138,16 +127,7 @@ Tears」於2007年5月23日推出\[11\]。兩張遊戲原聲音樂碟隨限定�
   - [MOONSTONE官方網站](http://www.moon-stone.jp)
   - [Sweets（PS2版代理商）主頁](https://web.archive.org/web/20081015163649/http://sweets-games.com/)
 
-[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink")
-[Category:孤島背景遊戲](https://zh.wikipedia.org/wiki/Category:孤島背景遊戲 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+[Category:2007年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2007年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink") [Category:孤島背景遊戲](https://zh.wikipedia.org/wiki/Category:孤島背景遊戲 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**Snow
-Tears**，是[中川翔子的第四张单曲](../Page/中川翔子.md "wikilink")，2008年1月30日发售，商品番号SRCL-6698（CD+DVD盘）。
+**Snow Tears**，是[中川翔子](../Page/中川翔子.md "wikilink")的第四张单曲，2008年1月30日发售，商品番号SRCL-6698（CD+DVD盘）。
 
 ## 作品概要
 
@@ -15,20 +14,14 @@ Tears**，是[中川翔子的第四张单曲](../Page/中川翔子.md "wikilink"
 
 1.  **snow tears**
       -
-        作詞：中川翔子，[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
-        作曲：[鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink")
-        編曲：[nishi-ken](https://zh.wikipedia.org/wiki/nishi-ken "wikilink")
+        作詞：中川翔子，[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink") 作曲：[鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink") 編曲：[nishi-ken](https://zh.wikipedia.org/wiki/nishi-ken "wikilink")
           - 是自第二张单曲以来，本人参与作词的歌曲。
 2.  ****
       -
-        作詞・作曲：[meg
-        rock](https://zh.wikipedia.org/wiki/meg_rock "wikilink")
-        編曲：nishi-ken
+        作詞・作曲：[meg rock](https://zh.wikipedia.org/wiki/meg_rock "wikilink") 編曲：nishi-ken
 3.  **Winter Wish**
       -
-        作詞：[mavie](https://zh.wikipedia.org/wiki/mavie "wikilink")
-        作曲：鈴木大輔
-        編曲：[加藤大祐](https://zh.wikipedia.org/wiki/加藤大祐 "wikilink")
+        作詞：[mavie](https://zh.wikipedia.org/wiki/mavie "wikilink") 作曲：鈴木大輔 編曲：[加藤大祐](https://zh.wikipedia.org/wiki/加藤大祐 "wikilink")
 4.  snow tears（[器乐](https://zh.wikipedia.org/wiki/器乐 "wikilink")）
 
 <!-- end list -->
@@ -83,10 +76,4 @@ Tears**，是[中川翔子的第四张单曲](../Page/中川翔子.md "wikilink"
   - [中川翔子](../Page/中川翔子.md "wikilink")
   - [墓场鬼太郎](https://zh.wikipedia.org/wiki/墓场鬼太郎 "wikilink")
 
-[Category:中川翔子歌曲](https://zh.wikipedia.org/wiki/Category:中川翔子歌曲 "wikilink")
-[Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink")
-[Category:日本配音員單曲](https://zh.wikipedia.org/wiki/Category:日本配音員單曲 "wikilink")
-[Category:鬼太郎](https://zh.wikipedia.org/wiki/Category:鬼太郎 "wikilink")
-[Category:雪題材樂曲](https://zh.wikipedia.org/wiki/Category:雪題材樂曲 "wikilink")
-[Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink")
-[Category:noitaminA主題曲](https://zh.wikipedia.org/wiki/Category:noitaminA主題曲 "wikilink")
+[Category:中川翔子歌曲](https://zh.wikipedia.org/wiki/Category:中川翔子歌曲 "wikilink") [Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink") [Category:日本配音員單曲](https://zh.wikipedia.org/wiki/Category:日本配音員單曲 "wikilink") [Category:鬼太郎](https://zh.wikipedia.org/wiki/Category:鬼太郎 "wikilink") [Category:雪題材樂曲](https://zh.wikipedia.org/wiki/Category:雪題材樂曲 "wikilink") [Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink") [Category:noitaminA主題曲](https://zh.wikipedia.org/wiki/Category:noitaminA主題曲 "wikilink")

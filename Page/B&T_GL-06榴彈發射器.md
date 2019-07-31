@@ -1,5 +1,4 @@
-**B\&T
-GL-06**（）是一具由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")（，，）的（簡稱：B\&T或B+T）公司所設計及生產的[肩射型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
+**B\&T GL-06**（）是一具由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")（，，）的（簡稱：B\&T或B+T）公司所設計及生產的[肩射型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 ## 歷史
 
@@ -19,8 +18,7 @@ GL-06榴彈發射器是一具能夠執行多重戰術任務的獨立使用型第
 
 GL-06是一款獨立使用型40毫米榴彈發射器，不能加掛到步槍上。之所以沒有採用下掛式設計，和其主要功能定位用於控制人群騷亂有關。由於GL-06主要定位於執行騷亂控制和治安任務的警察和執法機構，而這些單位在執行任務時會盡力避免攜帶可能造成傷亡的步槍等武器，可獨立使用的GL-06榴彈發射器則最能有效發揮作用。
 
-在設計上，GL-06參考了同類型的早期型肩射型榴弹发射器（例如[美国](../Page/美国.md "wikilink")[M79和](../Page/M79榴彈發射器.md "wikilink")[德国](../Page/德国.md "wikilink")[HK
-69](https://zh.wikipedia.org/wiki/HK_69榴彈發射器 "wikilink")）的優點，並且採用上擺式結構。具有質量輕巧、結構緊湊簡單、堅固耐用、非常能夠準確、[战术靈活和](https://zh.wikipedia.org/wiki/战术 "wikilink")[人體工學設計優秀的優點](../Page/人因工程学.md "wikilink")。
+在設計上，GL-06參考了同類型的早期型肩射型榴弹发射器（例如[美国](../Page/美国.md "wikilink")[M79和](../Page/M79榴彈發射器.md "wikilink")[德国](../Page/德国.md "wikilink")[HK 69](https://zh.wikipedia.org/wiki/HK_69榴彈發射器 "wikilink")）的優點，並且採用上擺式結構。具有質量輕巧、結構緊湊簡單、堅固耐用、非常能夠準確、[战术靈活和](https://zh.wikipedia.org/wiki/战术 "wikilink")[人體工學設計優秀的優點](../Page/人因工程学.md "wikilink")。
 
 GL-06的所有操作部件均可左右手通用，就連掛載戰術的圓孔也兩側設計，增加了GL-06使用的靈活性。
 
@@ -67,41 +65,23 @@ GL-06在槍管頂部以及[機匣前端左](https://zh.wikipedia.org/wiki/機匣
   -   -
 ## 流行文化
 
-B\&T
-GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")和[动畫裡](https://zh.wikipedia.org/wiki/动畫 "wikilink")，例如：
+B\&T GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")和[动畫裡](https://zh.wikipedia.org/wiki/动畫 "wikilink")，例如：
 
 ### 电影
 
-  - 2008年—《[-{zh-cn:生死新纪元; zh-hk:巴比倫密碼;
-    zh-tw:巴比倫密碼;}-](../Page/巴比倫密碼.md "wikilink")》（Babylon
-    A.D.）：經修改，發射小型飛彈，被Gorsky的手下所使用。
-  - 2013年—《[-{zh:柏林; zh-tw:柏林諜變; zh-hk:柏林諜變;
-    zh-cn:柏林;}-](../Page/柏林_\(電影\).md "wikilink")》（The
-    Berlin
-    File，）：裝上瞄準鏡和前握把，被[大韓民國國家情報院](../Page/大韓民國國家情報院.md "wikilink")特工鄭志信（[韓石圭](../Page/韓石圭.md "wikilink")飾演）所使用。
+  - 2008年—《[-{zh-cn:生死新纪元; zh-hk:巴比倫密碼; zh-tw:巴比倫密碼;}-](../Page/巴比倫密碼.md "wikilink")》（Babylon A.D.）：經修改，發射小型飛彈，被Gorsky的手下所使用。
+  - 2013年—《[-{zh:柏林; zh-tw:柏林諜變; zh-hk:柏林諜變; zh-cn:柏林;}-](../Page/柏林_\(電影\).md "wikilink")》（The Berlin File，）：裝上瞄準鏡和前握把，被[大韓民國國家情報院](../Page/大韓民國國家情報院.md "wikilink")特工鄭志信（[韓石圭](../Page/韓石圭.md "wikilink")飾演）所使用。
 
 ### 电子游戏
 
-  - 2011年—《[-{zh-cn:边缘战士; zh-hk:邊緣戰士;
-    zh-tw:邊緣戰士;}-](../Page/邊緣戰士.md "wikilink")》（Brink）：黑色和黃色槍身，命名為「龍蝦榴彈發射器」，配備了折疊式[槍托](../Page/槍托.md "wikilink")，無可裝上配備。
-  - 2012年—《[-{zh:火線獵殺：未來戰士; zh-hans:幽灵行动：未来战士;
-    zh-tw:火線獵殺：未來戰士;}-](../Page/火線獵殺：未來戰士.md "wikilink")》（Tom
-    Clancy's Ghost Recon: Future
-    Soldier）：命名為「G106」。可以發射[煙霧彈](https://zh.wikipedia.org/wiki/煙霧彈 "wikilink")、[破片彈和](../Page/破片杀伤.md "wikilink")[EMP彈](../Page/电磁脉冲.md "wikilink")。
-  - 2013年—《[-{zh-cn:反恐精英Online 2; zh-tw:絕對武力2 Online; zh-hk:絕對武力2
-    Online; zh-sg:絕對武力2
-    Online;}-](https://zh.wikipedia.org/wiki/絕對武力2_Online "wikilink")》（Counter
-    Strike Online 2）：最早於中國大陸版2016年7月20日時推出。以B\&T
-    GL-06為藍本，但改為金色槍身並將槍口擴大為方型喇叭狀槍口，發射捕捉網，命名為「黃金蛛网发射器」（Net
-    Launcher Gold）。
-  - 2014年—《[看門狗](../Page/看門狗_\(遊戲\).md "wikilink")》（Watch
-    Dogs）：命名為「G106」，可被主角艾登·皮爾斯（Aiden
-    Pearce，由[諾姆·詹金斯配音](https://zh.wikipedia.org/wiki/諾姆·詹金斯 "wikilink")）所使用。
+  - 2011年—《[-{zh-cn:边缘战士; zh-hk:邊緣戰士; zh-tw:邊緣戰士;}-](../Page/邊緣戰士.md "wikilink")》（Brink）：黑色和黃色槍身，命名為「龍蝦榴彈發射器」，配備了折疊式[槍托](../Page/槍托.md "wikilink")，無可裝上配備。
+  - 2012年—《[-{zh:火線獵殺：未來戰士; zh-hans:幽灵行动：未来战士; zh-tw:火線獵殺：未來戰士;}-](../Page/火線獵殺：未來戰士.md "wikilink")》（Tom Clancy's Ghost Recon: Future Soldier）：命名為「G106」。可以發射[煙霧彈](https://zh.wikipedia.org/wiki/煙霧彈 "wikilink")、[破片彈和](../Page/破片杀伤.md "wikilink")[EMP彈](../Page/电磁脉冲.md "wikilink")。
+  - 2013年—《[-{zh-cn:反恐精英Online 2; zh-tw:絕對武力2 Online; zh-hk:絕對武力2 Online; zh-sg:絕對武力2 Online;}-](https://zh.wikipedia.org/wiki/絕對武力2_Online "wikilink")》（Counter Strike Online 2）：最早於中國大陸版2016年7月20日時推出。以B\&T GL-06為藍本，但改為金色槍身並將槍口擴大為方型喇叭狀槍口，發射捕捉網，命名為「黃金蛛网发射器」（Net Launcher Gold）。
+  - 2014年—《[看門狗](../Page/看門狗_\(遊戲\).md "wikilink")》（Watch Dogs）：命名為「G106」，可被主角艾登·皮爾斯（Aiden Pearce，由[諾姆·詹金斯配音](https://zh.wikipedia.org/wiki/諾姆·詹金斯 "wikilink")）所使用。
 
 ### 動畫
 
-  - 2014年—《[寄生獸 生命的準則](../Page/寄生兽.md "wikilink")》（Parasyte -the
-    maxim-）：對抗寄生生物的東福山市政廳攻防戰中，被[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")中校山岸（やまぎし，聲：[小山力也](../Page/小山力也.md "wikilink")）所使用。
+  - 2014年—《[寄生獸 生命的準則](../Page/寄生兽.md "wikilink")》（Parasyte -the maxim-）：對抗寄生生物的東福山市政廳攻防戰中，被[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")中校山岸（やまぎし，聲：[小山力也](../Page/小山力也.md "wikilink")）所使用。
 
 ## 參見
 
@@ -116,17 +96,14 @@ GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikilink")�
   - [M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")
   - [貝瑞塔GLX-160附加型榴彈發射器](../Page/貝瑞塔GLX-160附加型榴彈發射器.md "wikilink")
   - [CIS 40 GL附加型榴彈發射器](../Page/CIS_40_GL附加型榴彈發射器.md "wikilink")
-  - [CZ-805
-    G1附加型榴彈發射器](https://zh.wikipedia.org/wiki/CZ-805_G1附加型榴彈發射器 "wikilink")
+  - [CZ-805 G1附加型榴彈發射器](https://zh.wikipedia.org/wiki/CZ-805_G1附加型榴彈發射器 "wikilink")
   - [FN EGLM附加型榴彈發射器](../Page/FN_EGLM附加型榴彈發射器.md "wikilink")
   - [HK79附加型榴彈發射器](../Page/HK79附加型榴彈發射器.md "wikilink")
-  - [HK
-    AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM榴彈發射器](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")
+  - [HK AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM榴彈發射器](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")
   - [IWI GL 40附加型榴彈發射器](../Page/IWI_GL_40附加型榴彈發射器.md "wikilink")
   - [ML40附加型榴彈發射器](https://zh.wikipedia.org/wiki/ML40附加型榴彈發射器 "wikilink")
   - [SIG GL 5040附加型榴彈發射器](../Page/SIG_GL_5040附加型榴彈發射器.md "wikilink")
-  - [斯泰爾GL
-    40附加型榴彈發射器](https://zh.wikipedia.org/wiki/斯泰爾GL_40附加型榴彈發射器 "wikilink")
+  - [斯泰爾GL 40附加型榴彈發射器](https://zh.wikipedia.org/wiki/斯泰爾GL_40附加型榴彈發射器 "wikilink")
   - [VHS-BG附加型榴彈發射器](../Page/VHS-BG附加型榴彈發射器.md "wikilink")
   - [Mk 19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")
   - [RGM-40榴彈發射器](../Page/RGM-40榴彈發射器.md "wikilink")
@@ -138,52 +115,36 @@ GL-06榴彈發射器同時出現在多個[电影](../Page/电影.md "wikilink")�
 
 <references />
 
-  - —[LL-06 Single Shot
-    Weapon](http://www.bt-ag.ch/en/manufacturing/lesslethalsystem/ll-06_weapon.php?navanchor=2110057)
+  - —[LL-06 Single Shot Weapon](http://www.bt-ag.ch/en/manufacturing/lesslethalsystem/ll-06_weapon.php?navanchor=2110057)
 
-  - —[LL-06 Technical Specifications ans
-    Manual](http://www.bt-ag.ch/pdf/TS-2889-1.pdf)
+  - —[LL-06 Technical Specifications ans Manual](http://www.bt-ag.ch/pdf/TS-2889-1.pdf)
 
 </div>
 
 ## 參考文獻
 
-  - —《輕兵器》雜誌2010年7月上號：[瑞士布鲁加-托梅
-    GL-06 40mm榴弹发射器](http://www.qbq.com.cn/a/bencandy.php?fid=35&id=863)
+  - —《輕兵器》雜誌2010年7月上號：[瑞士布鲁加-托梅 GL-06 40mm榴弹发射器](http://www.qbq.com.cn/a/bencandy.php?fid=35&id=863)
 
   - —《名槍》雜誌第15卷：欧陆军火商新势力　布魯格-托梅公司访问记（成品轻武器篇）
 
 ## 外部連結
 
-  - —[Brügger &
-    Thomet官方網站](https://web.archive.org/web/20150117030017/http://produkte.mp9.ch/en/manufacturing/firearms/gl-06_launcher.php?navanchor=2110034)
+  - —[Brügger & Thomet官方網站](https://web.archive.org/web/20150117030017/http://produkte.mp9.ch/en/manufacturing/firearms/gl-06_launcher.php?navanchor=2110034)
 
-  - —[Modern Firearms—GL-06 40mm grenade
-    launcher](https://web.archive.org/web/20090316070116/http://world.guns.ru/grenade/gl35-e.htm)
+  - —[Modern Firearms—GL-06 40mm grenade launcher](https://web.archive.org/web/20090316070116/http://world.guns.ru/grenade/gl35-e.htm)
 
-  - —[Weapon.ge—Brügger & Thomet
-    GL-06](http://georgians.weapon.ge/index.php?sel=1&id=282&man=&coun=&cat=12&l=en)
+  - —[Weapon.ge—Brügger & Thomet GL-06](http://georgians.weapon.ge/index.php?sel=1&id=282&man=&coun=&cat=12&l=en)
 
-  - —[Military, Security and Civilian Guns and Equipment—Brugger &
-    Thomet
-    GL-06](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=289)
+  - —[Military, Security and Civilian Guns and Equipment—Brugger & Thomet GL-06](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=289)
 
   - —[weaponsystems.net－GL-06](http://weaponsystems.net/weapon.php?weapon=BB02%20-%20GL-06)
 
   - —The Firearm Blog.com—
 
-      - [Green Alps, blue lakes, fine guns. A brief report from B+T AG
-        facility in Thun,
-        Switzerland](http://www.thefirearmblog.com/blog/2014/10/08/green-alps-blue-lakes-fine-guns-brief-report-bt-ag-facility-thun-switzerland/)
-      - [The B\&T APC-9 Submachine Gun, VP9 Pistol And Others (B\&T
-        Police & Military Day 2015) ［PHOTO
-        HEAVY］](http://www.thefirearmblog.com/blog/2015/08/14/the-bt-apc-9-submachine-gun-and-others-bt-police-military-day-2015-photo-heavy/)
-      - [Simunition At B\&T Police & Military
-        Day 2015](http://www.thefirearmblog.com/blog/2015/09/08/simunition-at-bt-police-military-day-2015/)
+      - [Green Alps, blue lakes, fine guns. A brief report from B+T AG facility in Thun, Switzerland](http://www.thefirearmblog.com/blog/2014/10/08/green-alps-blue-lakes-fine-guns-brief-report-bt-ag-facility-thun-switzerland/)
+      - [The B\&T APC-9 Submachine Gun, VP9 Pistol And Others (B\&T Police & Military Day 2015) ［PHOTO HEAVY］](http://www.thefirearmblog.com/blog/2015/08/14/the-bt-apc-9-submachine-gun-and-others-bt-police-military-day-2015-photo-heavy/)
+      - [Simunition At B\&T Police & Military Day 2015](http://www.thefirearmblog.com/blog/2015/09/08/simunition-at-bt-police-military-day-2015/)
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink")
-[Category:榴彈發射器](https://zh.wikipedia.org/wiki/Category:榴彈發射器 "wikilink")
-[Category:瑞士槍械](https://zh.wikipedia.org/wiki/Category:瑞士槍械 "wikilink")
-[Category:非致命性彈藥發射器](https://zh.wikipedia.org/wiki/Category:非致命性彈藥發射器 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴彈發射器](https://zh.wikipedia.org/wiki/Category:榴彈發射器 "wikilink") [Category:瑞士槍械](https://zh.wikipedia.org/wiki/Category:瑞士槍械 "wikilink") [Category:非致命性彈藥發射器](https://zh.wikipedia.org/wiki/Category:非致命性彈藥發射器 "wikilink")
 
 1.

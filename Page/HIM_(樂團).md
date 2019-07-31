@@ -1,40 +1,18 @@
-**HIM**（原名：His Infernal
-Majesty，譯为：[惡魔陛下樂團](https://zh.wikipedia.org/wiki/惡魔陛下樂團 "wikilink")）
-是來自[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[赫爾辛基的搖滾樂隊](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")，於1991年由[维勒·瓦罗](https://zh.wikipedia.org/wiki/维勒·瓦罗 "wikilink")（主唱），[Mikko
-Lindström](https://zh.wikipedia.org/wiki/Mikko_Lindström "wikilink")（簡稱Linde，[吉他手](../Page/吉他.md "wikilink")）和[Mikko
-Paananen](https://zh.wikipedia.org/wiki/Mikko_Paananen "wikilink")（簡稱Mige，[低音結他手](https://zh.wikipedia.org/wiki/低音結他 "wikilink")）組成。而[Mika
-Gas
-Karppinen](https://zh.wikipedia.org/wiki/Mika_Gas_Karppinen "wikilink")（簡稱Gas，[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")）和[Janne
-Burton
-Puurtinen](https://zh.wikipedia.org/wiki/Janne_Burton_Puurtinen "wikilink")（簡稱Burton，[鍵盤樂器手](https://zh.wikipedia.org/wiki/鍵盤樂器手 "wikilink")）則分別於1999年同2001年加入。樂隊一共推出了七張專輯大碟，包括最新於2010年2月推出的[Screamworks:
-Love in Theory and Practice, Chapters
-1–13](../Page/Screamworks:_Love_in_Theory_and_Practice,_Chapters_1–13.md "wikilink")。
+**HIM**（原名：His Infernal Majesty，譯为：[惡魔陛下樂團](https://zh.wikipedia.org/wiki/惡魔陛下樂團 "wikilink")） 是來自[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[赫爾辛基的搖滾樂隊](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")，於1991年由[维勒·瓦罗](https://zh.wikipedia.org/wiki/维勒·瓦罗 "wikilink")（主唱），[Mikko Lindström](https://zh.wikipedia.org/wiki/Mikko_Lindström "wikilink")（簡稱Linde，[吉他](../Page/吉他.md "wikilink")手）和[Mikko Paananen](https://zh.wikipedia.org/wiki/Mikko_Paananen "wikilink")（簡稱Mige，[低音結他手](https://zh.wikipedia.org/wiki/低音結他 "wikilink")）組成。而[Mika Gas Karppinen](https://zh.wikipedia.org/wiki/Mika_Gas_Karppinen "wikilink")（簡稱Gas，[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")）和[Janne Burton Puurtinen](https://zh.wikipedia.org/wiki/Janne_Burton_Puurtinen "wikilink")（簡稱Burton，[鍵盤樂器手](https://zh.wikipedia.org/wiki/鍵盤樂器手 "wikilink")）則分別於1999年同2001年加入。樂隊一共推出了七張專輯大碟，包括最新於2010年2月推出的[Screamworks: Love in Theory and Practice, Chapters 1–13](../Page/Screamworks:_Love_in_Theory_and_Practice,_Chapters_1–13.md "wikilink")。
 
-在2006年9月5日，[美國唱片業協會向HIM發出金唱片證明](../Page/美國唱片業協會.md "wikilink")，證明了樂隊的第五張專輯Dark
-Light在美國一共出售了500,000張。HIM推出的七張專輯中有五張榮獲芬蘭的[白金唱片](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")，當中第二張專輯Razorblade
-Romance獲得芬蘭的[雙白金唱片及德國的](https://zh.wikipedia.org/wiki/雙白金唱片 "wikilink")[白金唱片](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")。
+在2006年9月5日，[美國唱片業協會](../Page/美國唱片業協會.md "wikilink")向HIM發出金唱片證明，證明了樂隊的第五張專輯Dark Light在美國一共出售了500,000張。HIM推出的七張專輯中有五張榮獲芬蘭的[白金唱片](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")，當中第二張專輯Razorblade Romance獲得芬蘭的[雙白金唱片及德國的](https://zh.wikipedia.org/wiki/雙白金唱片 "wikilink")[白金唱片](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")。
 
 ## 早期發展 （1991-1997）
 
-在1991年，HIM正式成立。樂隊開初只是翻唱組合[Kiss合唱團](../Page/Kiss合唱團.md "wikilink")、Black
-Sabbath（[黑色安息日](../Page/黑色安息日.md "wikilink")）、[Depeche
-Mode](https://zh.wikipedia.org/wiki/Depeche_Mode "wikilink")（[潮流尖端](https://zh.wikipedia.org/wiki/潮流尖端 "wikilink")）、Type
-O Negative及Danzig和歌。在1992年，HIM錄了一隻Demo，名為Witches and Other Night
-Fears，只有瓦罗才有拷貝。
+在1991年，HIM正式成立。樂隊開初只是翻唱組合[Kiss合唱團](../Page/Kiss合唱團.md "wikilink")、Black Sabbath（[黑色安息日](../Page/黑色安息日.md "wikilink")）、[Depeche Mode](https://zh.wikipedia.org/wiki/Depeche_Mode "wikilink")（[潮流尖端](https://zh.wikipedia.org/wiki/潮流尖端 "wikilink")）、Type O Negative及Danzig和歌。在1992年，HIM錄了一隻Demo，名為Witches and Other Night Fears，只有瓦罗才有拷貝。
 
-由於不同的紛爭，早期樂隊的成員不停在轉換。在1995年，樂隊就只剩下了現任主音[维勒·瓦罗](https://zh.wikipedia.org/wiki/维勒·瓦罗 "wikilink")、[結他手Linde及](https://zh.wikipedia.org/wiki/結他手 "wikilink")[低音結他手Mige](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")。1995年後期，樂隊再灌錄了一隻Demo，名為This
-Is Only The
-Beginning。這隻Demo一共推出了100隻，於[赫爾辛基的特定商店發售](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")。這隻Demo內所有歌曲都只有鼓聲和結他聲伴隨著主唱维勒·瓦罗的歌聲。1996年，樂隊第一張EP，666
-Ways to Love:Prologue在芬蘭發行1000張。唱片封面的女士正是主唱维勒·瓦罗的媽媽。這隻EP是在Hiili
-Hiilesmaa監製下於[赫爾辛基的錄音室Finnvox](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")
-Studios錄製。
+由於不同的紛爭，早期樂隊的成員不停在轉換。在1995年，樂隊就只剩下了現任主音[维勒·瓦罗](https://zh.wikipedia.org/wiki/维勒·瓦罗 "wikilink")、[結他手Linde及](https://zh.wikipedia.org/wiki/結他手 "wikilink")[低音結他手Mige](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")。1995年後期，樂隊再灌錄了一隻Demo，名為This Is Only The Beginning。這隻Demo一共推出了100隻，於[赫爾辛基的特定商店發售](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")。這隻Demo內所有歌曲都只有鼓聲和結他聲伴隨著主唱维勒·瓦罗的歌聲。1996年，樂隊第一張EP，666 Ways to Love:Prologue在芬蘭發行1000張。唱片封面的女士正是主唱维勒·瓦罗的媽媽。這隻EP是在Hiili Hiilesmaa監製下於[赫爾辛基的錄音室Finnvox](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink") Studios錄製。
 
 ## 作品
 
 ### Greatest Love Songs Vol. 666 （1997-1999）
 
-第一張專輯Greatest Love Songs Vol.666
-在1997年推出。為配合主題'666'，專輯一共輯錄66首歌（其中56首是空白），其總長度達66分6秒。這張專輯一共發行了四張單曲。
+第一張專輯Greatest Love Songs Vol.666 在1997年推出。為配合主題'666'，專輯一共輯錄66首歌（其中56首是空白），其總長度達66分6秒。這張專輯一共發行了四張單曲。
 
 出版日期：1997年11月20日
 類型：[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")
@@ -55,14 +33,9 @@ Studios錄製。
 
 ### Razorblade Romance （1999-2001）
 
-發行了第一張專輯後，HIM在歐洲（尤其芬蘭）成名。在1999年就發行了第2張專輯-Razorblade Romance。第一張單曲–Join
-Me In
-Death除了在德國的單曲排行榜排行第一外，更在兩個月內售出500,000張。於第一張單曲取得成功後，HIM再推出了兩張單曲–Right
-Here In My Arms和Gone With The Sin，分別排行第20和19位。Razorblade
-Romance取得空前成功，在德國和芬蘭的專輯排行榜排第一，HIM在歐洲的亦知名度大大提高，
+發行了第一張專輯後，HIM在歐洲（尤其芬蘭）成名。在1999年就發行了第2張專輯-Razorblade Romance。第一張單曲–Join Me In Death除了在德國的單曲排行榜排行第一外，更在兩個月內售出500,000張。於第一張單曲取得成功後，HIM再推出了兩張單曲–Right Here In My Arms和Gone With The Sin，分別排行第20和19位。Razorblade Romance取得空前成功，在德國和芬蘭的專輯排行榜排第一，HIM在歐洲的亦知名度大大提高，
 
-在2002年，Razorblade
-Romance於美國再度發行。因為美國也有名為'HIM'的組合，所以HIM改用'HER'這名稱發行了一千張專輯。
+在2002年，Razorblade Romance於美國再度發行。因為美國也有名為'HIM'的組合，所以HIM改用'HER'這名稱發行了一千張專輯。
 
 由於鼓手Pätkä離隊，HIM在錄製Razorblade Romance時用機器去製造鼓聲。
 
@@ -86,9 +59,7 @@ Romance於美國再度發行。因為美國也有名為'HIM'的組合，所以HI
 
 ### Deep Shadows and Brilliant Highlights （2001-2003）
 
-樂隊在2001年8月發行了第三張專輯—Deep Shadows and Brilliant
-Highlights。這是新加入的鍵盤手Burton參與製作的第一張專輯。這專輯在芬蘭和德國的專輯排行榜分別登上第一和第二位。樂隊一共發行了三張單曲：Pretending（德國單曲排名榜第10），In
-Joy And Sorrow和包括兩首歌的Close To The Flame及Heartache Every Moment。
+樂隊在2001年8月發行了第三張專輯—Deep Shadows and Brilliant Highlights。這是新加入的鍵盤手Burton參與製作的第一張專輯。這專輯在芬蘭和德國的專輯排行榜分別登上第一和第二位。樂隊一共發行了三張單曲：Pretending（德國單曲排名榜第10），In Joy And Sorrow和包括兩首歌的Close To The Flame及Heartache Every Moment。
 
 出版日期：2001年8月27日
 類型：[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")
@@ -109,12 +80,9 @@ Joy And Sorrow和包括兩首歌的Close To The Flame及Heartache Every Moment�
 
 ### Love Metal （2003-2005）
 
-2003年4月14，樂隊發行了第四張專輯。這是第一張不是以主唱维勒·瓦罗的相片作為封面的專輯，取而代之的是樂隊的著名標誌Heartagram。第一隻單曲The
-Funeral Of Hearts有很好的成績，包括登上英國單曲排行榜第14位及德國排行榜第3位。另外兩隻單曲是Buried Alive By
-Love和The Sacrament。
+2003年4月14，樂隊發行了第四張專輯。這是第一張不是以主唱维勒·瓦罗的相片作為封面的專輯，取而代之的是樂隊的著名標誌Heartagram。第一隻單曲The Funeral Of Hearts有很好的成績，包括登上英國單曲排行榜第14位及德國排行榜第3位。另外兩隻單曲是Buried Alive By Love和The Sacrament。
 
-樂隊之所以能提高知名度，除了專輯Love Metal的成功外，也因為得到美國電視節目主持人Bam Margera於節目'Viva La Bam'
-中的大力宣傳（Margera是樂隊單曲Buried Alive By Love 的監製）。
+樂隊之所以能提高知名度，除了專輯Love Metal的成功外，也因為得到美國電視節目主持人Bam Margera於節目'Viva La Bam' 中的大力宣傳（Margera是樂隊單曲Buried Alive By Love 的監製）。
 
 出版日期：2003年四月十四日
 類型：[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")／[哥德搖滾](../Page/哥德搖滾.md "wikilink")
@@ -135,9 +103,7 @@ Love和The Sacrament。
 
 ### And Love Said No: The Greatest Hits 1997-2004
 
-And Love Said No: The Greatest Hits 1997-2004
-是HIM推出的一張紀念大碟，裏面除了輯錄了第一至四張專輯的部分歌曲外，更包含了從未發佈過的歌曲And
-Love Said No及Solitary Man。
+And Love Said No: The Greatest Hits 1997-2004 是HIM推出的一張紀念大碟，裏面除了輯錄了第一至四張專輯的部分歌曲外，更包含了從未發佈過的歌曲And Love Said No及Solitary Man。
 
 出版日期：2004年5月15日
 類型：[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")
@@ -163,13 +129,9 @@ Love Said No及Solitary Man。
 
 ### Dark Light （2005-2007）
 
-樂隊的第五張專輯是在2005年推出的Dark
-Light。這張專輯令樂隊在美國取得很大的突破，專輯首次登上美國的[Billboard200排行榜首](https://zh.wikipedia.org/wiki/Billboard200 "wikilink")20位。在2005年的夏天，樂隊更獲得在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[搖滾音樂節Download](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")
-Festival與著名樂隊Black Sabbath（[黑色安息日](../Page/黑色安息日.md "wikilink")）及Velvet
-Revolver一同演出的機會。
+樂隊的第五張專輯是在2005年推出的Dark Light。這張專輯令樂隊在美國取得很大的突破，專輯首次登上美國的[Billboard200排行榜首](https://zh.wikipedia.org/wiki/Billboard200 "wikilink")20位。在2005年的夏天，樂隊更獲得在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[搖滾音樂節Download](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink") Festival與著名樂隊Black Sabbath（[黑色安息日](../Page/黑色安息日.md "wikilink")）及Velvet Revolver一同演出的機會。
 
-在2006年10月，Dark
-Light榮獲[美國唱片業協會的金唱片證明](../Page/美國唱片業協會.md "wikilink")，以認證專輯在美國一共出售了超過500,000張。HIM成為[芬蘭第一隊及唯一一隊奪得到這殊榮的樂隊](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")。
+在2006年10月，Dark Light榮獲[美國唱片業協會](../Page/美國唱片業協會.md "wikilink")的金唱片證明，以認證專輯在美國一共出售了超過500,000張。HIM成為[芬蘭第一隊及唯一一隊奪得到這殊榮的樂隊](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")。
 
 他們發行了兩張單曲，分別是Wings Of A Butterfly及Killing The Loneliness。
 
@@ -192,11 +154,9 @@ Light榮獲[美國唱片業協會的金唱片證明](../Page/美國唱片業協�
 
 ### Uneasy Listening Vol.1
 
-在2006年，HIM發行了第2張大碟'Uneasy Listening
-Vol.1'，輯錄了過去專輯中的歌曲的unplugged及acoustic等版本。
+在2006年，HIM發行了第2張大碟'Uneasy Listening Vol.1'，輯錄了過去專輯中的歌曲的unplugged及acoustic等版本。
 
-出版日期：2006年10月27日
-（[德國及](https://zh.wikipedia.org/wiki/德國 "wikilink")[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")）、2006年10月30日（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）及2006年11月14日（[北美洲](../Page/北美洲.md "wikilink")）
+出版日期：2006年10月27日 （[德國及](https://zh.wikipedia.org/wiki/德國 "wikilink")[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")）、2006年10月30日（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）及2006年11月14日（[北美洲](../Page/北美洲.md "wikilink")）
 類型：[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")
 廠牌：Sony BMG
 曲目：
@@ -226,8 +186,7 @@ Uneasy Listening Vol.2收錄了歌曲的現場演唱版名不同remix版。
 長度：62分鐘26秒 廠牌：Sony BMG
 曲目：
 1."Buried Alive By Love" (616 Version) - 4:51
-2."Rendezvous With Anus" (El Presidente Version) (Turbonegro cover) -
-3:10
+2."Rendezvous With Anus" (El Presidente Version) (Turbonegro cover) - 3:10
 3."Sigillum Diaboli" - 3:53
 4."I Love You" (Joffa Bond - We Miss Ya) - 4:51
 5."The Beginning of the End" (Remix) - 3:53
@@ -243,12 +202,7 @@ Uneasy Listening Vol.2收錄了歌曲的現場演唱版名不同remix版。
 
 ### Venus Doom （2007-2010）
 
-[Venus
-Doom是樂隊第](https://zh.wikipedia.org/wiki/Venus_Doom "wikilink")6張專輯。主唱维勒·瓦罗在訪問中表示[Venus
-Doom是樂隊推中過的專輯中最具](https://zh.wikipedia.org/wiki/Venus_Doom "wikilink")[搖滾風味的](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。第一張單曲是Kiss
-Of Dawn，音樂錄影是在2007年6月於美國拍攝。專輯中的另一首歌Passion's Killing Floor被收錄於電影"[變形金剛
-(2007年電影)](../Page/變形金剛_\(2007年電影\).md "wikilink")"的原聲大碟中。樂隊為Venus
-Doom推出了限量珍藏版，裡面包含主唱维勒·瓦罗的手寫歌詞及相片。
+[Venus Doom是樂隊第](https://zh.wikipedia.org/wiki/Venus_Doom "wikilink")6張專輯。主唱维勒·瓦罗在訪問中表示[Venus Doom是樂隊推中過的專輯中最具](https://zh.wikipedia.org/wiki/Venus_Doom "wikilink")[搖滾風味的](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。第一張單曲是Kiss Of Dawn，音樂錄影是在2007年6月於美國拍攝。專輯中的另一首歌Passion's Killing Floor被收錄於電影"[變形金剛 (2007年電影)](../Page/變形金剛_\(2007年電影\).md "wikilink")"的原聲大碟中。樂隊為Venus Doom推出了限量珍藏版，裡面包含主唱维勒·瓦罗的手寫歌詞及相片。
 
 出版日期：14-9-2007（德國及愛爾蘭）17-9-2007（全球）18-9-2007（美國）
 類型：另類搖滾
@@ -284,19 +238,11 @@ Doom推出了限量珍藏版，裡面包含主唱维勒·瓦罗的手寫歌詞�
 12\. Like St. Valentine - 3:14
 13\. The Foreboding Sense of Impending Happiness - 3:13
 
-[Screamworks: Love in Theory and Practice, Chapters
-1–13正式於](../Page/Screamworks:_Love_in_Theory_and_Practice,_Chapters_1–13.md "wikilink")2010年2月推出。第一張單曲Heartkiller在2009年12月8日於網上發佈，2010年2月5日正式發售。另外，歌曲"Like
-St. Valentine"
-<https://web.archive.org/web/20100209024835/http://likesaintvalentine.com/>
-和"Shatter me with Hope"
-<https://web.archive.org/web/20100211102845/http://www.shattermewithhope.com/>
-也在專輯發行前於網上以影片形式發佈。
+[Screamworks: Love in Theory and Practice, Chapters 1–13正式於](../Page/Screamworks:_Love_in_Theory_and_Practice,_Chapters_1–13.md "wikilink")2010年2月推出。第一張單曲Heartkiller在2009年12月8日於網上發佈，2010年2月5日正式發售。另外，歌曲"Like St. Valentine" <https://web.archive.org/web/20100209024835/http://likesaintvalentine.com/> 和"Shatter me with Hope" <https://web.archive.org/web/20100211102845/http://www.shattermewithhope.com/> 也在專輯發行前於網上以影片形式發佈。
 
 ## Heartagram
 
-[Heartagram.jpg](https://zh.wikipedia.org/wiki/File:Heartagram.jpg "fig:Heartagram.jpg")
-主音维勒·瓦罗在20歲生日當天設計出Heartagram。Heartagram從此成為樂隊的著名標誌，代表著[HIM樂隊這個個體](https://zh.wikipedia.org/wiki/HIM "wikilink")。Heartagram對樂隊歌迷造成很大影響，很多歌迷都擁有Heartagram的紋身。2010年2月13日更被定為Heartagram's
-Day。
+[Heartagram.jpg](https://zh.wikipedia.org/wiki/File:Heartagram.jpg "fig:Heartagram.jpg") 主音维勒·瓦罗在20歲生日當天設計出Heartagram。Heartagram從此成為樂隊的著名標誌，代表著[HIM樂隊這個個體](https://zh.wikipedia.org/wiki/HIM "wikilink")。Heartagram對樂隊歌迷造成很大影響，很多歌迷都擁有Heartagram的紋身。2010年2月13日更被定為Heartagram's Day。
 
 Heartagram由心形和三角形組合而成，像一個倒轉的五角星。维勒·瓦罗於一個訪問中表示heartagram是現代的[陰陽](https://zh.wikipedia.org/wiki/陰陽 "wikilink")，心形代表了陽，而倒星形則是陰。
 
@@ -308,7 +254,4 @@ Heartagram由心形和三角形組合而成，像一個倒轉的五角星。维�
   - [HIM MySpace](http://www.myspace.com/heartagram)
   - [HIM YouTube](http://www.youtube.com/him)
 
-[Category:芬蘭樂團](https://zh.wikipedia.org/wiki/Category:芬蘭樂團 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:另類搖滾樂團 "wikilink")
-[Category:1991年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年成立的音樂團體 "wikilink")
+[Category:芬蘭樂團](https://zh.wikipedia.org/wiki/Category:芬蘭樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:另類搖滾樂團 "wikilink") [Category:1991年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年成立的音樂團體 "wikilink")

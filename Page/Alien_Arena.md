@@ -1,7 +1,4 @@
-*Alien
-Arena*是一个[免费第一人称射击游戏](https://zh.wikipedia.org/wiki/免费游戏 "wikilink")，使用改动的[id
-Tech
-2](https://zh.wikipedia.org/wiki/id_Tech_2 "wikilink")。行动和武器的很多方面非常类似《[雷神之锤II](../Page/雷神之锤II.md "wikilink")》，也拥有全部的跳跃技巧。
+*Alien Arena*是一个[免费第一人称射击游戏](https://zh.wikipedia.org/wiki/免费游戏 "wikilink")，使用改动的[id Tech 2](https://zh.wikipedia.org/wiki/id_Tech_2 "wikilink")。行动和武器的很多方面非常类似《[雷神之锤II](../Page/雷神之锤II.md "wikilink")》，也拥有全部的跳跃技巧。
 
 ## 特性
 
@@ -17,11 +14,9 @@ CRX引擎添加了大量新技术，比如32位[材质贴图](../Page/材质贴�
 
 1.  [死亡竞赛](https://zh.wikipedia.org/wiki/死亡竞赛 "wikilink")
 2.  [团队死亡竞赛](https://zh.wikipedia.org/wiki/团队死亡竞赛 "wikilink")
-3.  All Out
-    Assault：可以使用载具的[死亡竞赛](https://zh.wikipedia.org/wiki/死亡竞赛 "wikilink")
+3.  All Out Assault：可以使用载具的[死亡竞赛](https://zh.wikipedia.org/wiki/死亡竞赛 "wikilink")
 4.  夺旗模式
-5.  Deathball：近似于《[虚幻竞技场](https://zh.wikipedia.org/wiki/虚幻竞技场 "wikilink")》的Bombing
-    Run
+5.  Deathball：近似于《[虚幻竞技场](https://zh.wikipedia.org/wiki/虚幻竞技场 "wikilink")》的Bombing Run
 6.  Team Core Assault：团队模式，破坏对手的全部节点。
 7.  Cattle Prod
 
@@ -36,11 +31,6 @@ CRX引擎添加了大量新技术，比如32位[材质贴图](../Page/材质贴�
 
   - [主页](http://icculus.org/alienarena/rpa/aquire.html)
 
-[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")
-[Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
+[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
 
 1.  [Phoronix评论](http://www.phoronix.com/scan.php?page=article&item=alien_arena_2009&num=1)

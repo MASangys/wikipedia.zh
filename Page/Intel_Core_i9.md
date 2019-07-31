@@ -1,55 +1,20 @@
-**Core
-i9**（中文：**酷睿i9**）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[英特爾公司研發的一款](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[處理器產品](https://zh.wikipedia.org/wiki/處理器 "wikilink")，是[Intel
-Core
-i7的衍生高階版本](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")。首款以**i9**命名的處理器於2017年5月發布。
+**Core i9**（中文：**酷睿i9**）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[英特爾公司研發的一款](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[處理器產品](https://zh.wikipedia.org/wiki/處理器 "wikilink")，是[Intel Core i7的衍生高階版本](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")。首款以**i9**命名的處理器於2017年5月發布。
 
 ## 历史
 
 ### 2009年
 
-「**Core
-i9**」的名稱首次出現於2009年，基於當時32[奈米製程的](https://zh.wikipedia.org/wiki/奈米 "wikilink")[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")\[1\]（核心代號：Gulftown），Core
-i9六核心版本同Core i7 900系列一樣將採用[LGA
-1366插座](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink")，八核心版本則會採用[LGA
-1567插座](../Page/LGA_1567.md "wikilink")。新款處理器會整合[北橋的部分功能](https://zh.wikipedia.org/wiki/北橋 "wikilink")，如[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、[PCI-Express控制器等](https://zh.wikipedia.org/wiki/PCI-Express "wikilink")。處理器會有六個核心\[2\]並支援[超线程技術](https://zh.wikipedia.org/wiki/超线程 "wikilink")。[L1快取為](https://zh.wikipedia.org/wiki/快取 "wikilink")6×64
-KB，[L2快取為](https://zh.wikipedia.org/wiki/快取 "wikilink")6×256
-KB，[L3快取六個核心共享](https://zh.wikipedia.org/wiki/快取 "wikilink")12
-MB。與之搭配的仍為[Intel
-X58](https://zh.wikipedia.org/wiki/Intel_X58 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，即現存的X58[主機板將可以通過更新](https://zh.wikipedia.org/wiki/主機板 "wikilink")[BIOS](../Page/BIOS.md "wikilink")來支援。售價預計將定在999美元左右。隔年英特爾宣佈新架構的處理器確定命名為i7
-2000系列而非i9 2000系列。自此以后再没有发布关于Core i9的消息。
+「**Core i9**」的名稱首次出現於2009年，基於當時32[奈米製程的](https://zh.wikipedia.org/wiki/奈米 "wikilink")[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")\[1\]（核心代號：Gulftown），Core i9六核心版本同Core i7 900系列一樣將採用[LGA 1366插座](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink")，八核心版本則會採用[LGA 1567插座](../Page/LGA_1567.md "wikilink")。新款處理器會整合[北橋的部分功能](https://zh.wikipedia.org/wiki/北橋 "wikilink")，如[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、[PCI-Express控制器等](https://zh.wikipedia.org/wiki/PCI-Express "wikilink")。處理器會有六個核心\[2\]並支援[超线程技術](https://zh.wikipedia.org/wiki/超线程 "wikilink")。[L1快取為](https://zh.wikipedia.org/wiki/快取 "wikilink")6×64 KB，[L2快取為](https://zh.wikipedia.org/wiki/快取 "wikilink")6×256 KB，[L3快取六個核心共享](https://zh.wikipedia.org/wiki/快取 "wikilink")12 MB。與之搭配的仍為[Intel X58](https://zh.wikipedia.org/wiki/Intel_X58 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，即現存的X58[主機板將可以通過更新](https://zh.wikipedia.org/wiki/主機板 "wikilink")[BIOS](../Page/BIOS.md "wikilink")來支援。售價預計將定在999美元左右。隔年英特爾宣佈新架構的處理器確定命名為i7 2000系列而非i9 2000系列。自此以后再没有发布关于Core i9的消息。
 
 ### 2017年
 
-應[AMD Ryzen的推出](../Page/AMD_Ryzen.md "wikilink")，英特爾推出定位高階、極致的產品Core
-i9。首代Core i9屬於英特爾第7世代Core i系列處理器。不过Core i9首次在发烧级桌面平台发布，2018年3月，Core
-i9下放到移动平台，隶属于英特爾第8世代Core i系列處理器，同时Core i9成为移动平台唯一不锁倍频的处理器。
+應[AMD Ryzen的推出](../Page/AMD_Ryzen.md "wikilink")，英特爾推出定位高階、極致的產品Core i9。首代Core i9屬於英特爾第7世代Core i系列處理器。不过Core i9首次在发烧级桌面平台发布，2018年3月，Core i9下放到移动平台，隶属于英特爾第8世代Core i系列處理器，同时Core i9成为移动平台唯一不锁倍频的处理器。
 
 ## 桌上型處理器
 
 #### [Skylake-X 微架構](../Page/Skylake微架構.md "wikilink") (14 nm)
 
-  - 所有型號皆支持：*[MMX](../Page/MMX.md "wikilink"),
-    [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink"),
-    [AVX-512](https://zh.wikipedia.org/wiki/AVX-512 "wikilink"),
-    [FMA3](../Page/FMA指令集.md "wikilink"),
-    [MPX](https://zh.wikipedia.org/wiki/Mpx "wikilink"), 增強型Intel
-    [SpeedStep](../Page/SpeedStep.md "wikilink") 技術 (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_6 "wikilink"), XD bit ([NX
-    bit](../Page/NX位元.md "wikilink") implementation), [Intel
-    VT-x](../Page/X86虚拟化.md "wikilink"), [Intel
-    VT-d](../Page/X86虚拟化.md "wikilink"), [Turbo
-    Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink"),
-    [Hyper-threading](../Page/超執行緒.md "wikilink"),
-    [AES-NI](../Page/AES指令集.md "wikilink"), [Intel
-    TSX-NI](https://zh.wikipedia.org/wiki/TSX-NI "wikilink"),
-    [SmartCache](https://zh.wikipedia.org/wiki/SmartCache "wikilink")*.
+  - 所有型號皆支持：*[MMX](../Page/MMX.md "wikilink"), [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink"), [AVX-512](https://zh.wikipedia.org/wiki/AVX-512 "wikilink"), [FMA3](../Page/FMA指令集.md "wikilink"), [MPX](https://zh.wikipedia.org/wiki/Mpx "wikilink"), 增強型Intel [SpeedStep](../Page/SpeedStep.md "wikilink") 技術 (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_6 "wikilink"), XD bit ([NX bit](../Page/NX位元.md "wikilink") implementation), [Intel VT-x](../Page/X86虚拟化.md "wikilink"), [Intel VT-d](../Page/X86虚拟化.md "wikilink"), [Turbo Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink"), [Hyper-threading](../Page/超執行緒.md "wikilink"), [AES-NI](../Page/AES指令集.md "wikilink"), [Intel TSX-NI](https://zh.wikipedia.org/wiki/TSX-NI "wikilink"), [SmartCache](https://zh.wikipedia.org/wiki/SmartCache "wikilink")*.
 
 <!-- end list -->
 
@@ -277,30 +242,7 @@ i9下放到移动平台，隶属于英特爾第8世代Core i系列處理器，�
 
 #### [Coffee Lake-S 微架構](../Page/Coffee_Lake微架构.md "wikilink") (14 nm)
 
-  - 所有型號皆支持：*[MMX](../Page/MMX.md "wikilink"),
-    [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4](../Page/SSE4.md "wikilink").1,
-    [SSE4](../Page/SSE4.md "wikilink").2,
-    [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink"),
-    [FMA3](../Page/FMA指令集.md "wikilink"),
-    [SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink"),
-    [MPX](https://zh.wikipedia.org/wiki/Mpx "wikilink"), 增強型 Intel
-    [SpeedStep](../Page/SpeedStep.md "wikilink") 技術 (EIST), [Intel
-    64](../Page/X86-64.md "wikilink"), XD bit ([NX
-    bit](../Page/NX位元.md "wikilink") implementation), [Intel
-    VT-x](../Page/X86虚拟化.md "wikilink"), [Intel
-    VT-d](../Page/X86虚拟化.md "wikilink"), [Turbo
-    Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink"),
-    [Hyper-threading](../Page/超執行緒.md "wikilink"),
-    [AES-NI](../Page/AES指令集.md "wikilink"), [Intel
-    TSX-NI](https://zh.wikipedia.org/wiki/TSX "wikilink"), [Intel
-    vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink"), [Intel
-    TXT](https://zh.wikipedia.org/wiki/Intel_Extreme_Graphics "wikilink"),
-    [SmartCache](https://zh.wikipedia.org/wiki/SmartCache "wikilink").*
+  - 所有型號皆支持：*[MMX](../Page/MMX.md "wikilink"), [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4](../Page/SSE4.md "wikilink").1, [SSE4](../Page/SSE4.md "wikilink").2, [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink"), [FMA3](../Page/FMA指令集.md "wikilink"), [SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink"), [MPX](https://zh.wikipedia.org/wiki/Mpx "wikilink"), 增強型 Intel [SpeedStep](../Page/SpeedStep.md "wikilink") 技術 (EIST), [Intel 64](../Page/X86-64.md "wikilink"), XD bit ([NX bit](../Page/NX位元.md "wikilink") implementation), [Intel VT-x](../Page/X86虚拟化.md "wikilink"), [Intel VT-d](../Page/X86虚拟化.md "wikilink"), [Turbo Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink"), [Hyper-threading](../Page/超執行緒.md "wikilink"), [AES-NI](../Page/AES指令集.md "wikilink"), [Intel TSX-NI](https://zh.wikipedia.org/wiki/TSX "wikilink"), [Intel vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink"), [Intel TXT](https://zh.wikipedia.org/wiki/Intel_Extreme_Graphics "wikilink"), [SmartCache](https://zh.wikipedia.org/wiki/SmartCache "wikilink").*
   - [PCI Express](../Page/PCI_Express.md "wikilink") **通道：16**
 
 <table>
@@ -454,10 +396,7 @@ i9下放到移动平台，隶属于英特爾第8世代Core i系列處理器，�
 
   - [Intel 產品規格資料庫](http://ark.intel.com/)
 
-[Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink")
-[Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink")
+[Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink") [Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink")
 
-1.  [32nm震撼全球！Intel
-    Westmere处理器全解析](http://diy.yesky.com/cpu/316/8709816.shtml)
-2.  [32nm六核心Gulftown实物 Core
-    i9首曝](http://news.mydrivers.com/1/141/141033.htm)
+1.  [32nm震撼全球！Intel Westmere处理器全解析](http://diy.yesky.com/cpu/316/8709816.shtml)
+2.  [32nm六核心Gulftown实物 Core i9首曝](http://news.mydrivers.com/1/141/141033.htm)

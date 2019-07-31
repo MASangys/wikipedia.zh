@@ -1,12 +1,8 @@
-是由[Chunsoft开发](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）于1987年在日本[FC游戏机上发行的](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")；游戏是[勇者斗恶龙系列的第二部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。北美版由艾尼克斯自行英文化，并于1990年在以“Dragon
-Warrior II”为题发行\[1\]。
+是由[Chunsoft开发](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）于1987年在日本[FC游戏机上发行的](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")；游戏是[勇者斗恶龙系列的第二部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。北美版由艾尼克斯自行英文化，并于1990年在以“Dragon Warrior II”为题发行\[1\]。
 
 游戏故事设定于[前作](../Page/勇者斗恶龙_\(游戏\).md "wikilink")100年以后，并以罗雷西亚王子为主人公，讲述了他消灭毁灭蒙布尔克城的邪恶大神官的故事。和主人公一起的冒险的还有两个兄妹，撒玛多利亚王子和蒙布尔克公主。游戏继承并发展了第一作的游戏模式，包括扩大的[世界地图](https://zh.wikipedia.org/wiki/Overworld "wikilink")\[2\]，出现了乘船航行和用旅之门异地传送等不同的移动方式。
 
-《勇者斗恶龙II》在日本获得了成功，FC版在日本出货约240万套，“勇斗现象”的说法由此产生。游戏之后又在[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")、[Game
-Boy
-Color](../Page/Game_Boy_Color.md "wikilink")、移动电话等多个平台推出了重制版。此外游戏被改编为[游戏书](../Page/游戏书.md "wikilink")和[小说等](https://zh.wikipedia.org/wiki/轻小说 "wikilink")。系列第三作《[勇者鬥惡龍III
-接著邁向傳說](../Page/勇者鬥惡龍III_接著邁向傳說.md "wikilink")》发行于1988年\[3\]。《勇者斗恶龙III》是前两部游戏的前传，讲述了这两作主角的祖先——传说勇者[洛特](https://zh.wikipedia.org/wiki/勇者斗恶龙系列#洛特 "wikilink")——的故事\[4\]，三部游戏被合称为“洛特的传说三部曲”\[5\]。
+《勇者斗恶龙II》在日本获得了成功，FC版在日本出货约240万套，“勇斗现象”的说法由此产生。游戏之后又在[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")、[Game Boy Color](../Page/Game_Boy_Color.md "wikilink")、移动电话等多个平台推出了重制版。此外游戏被改编为[游戏书](../Page/游戏书.md "wikilink")和[小说等](https://zh.wikipedia.org/wiki/轻小说 "wikilink")。系列第三作《[勇者鬥惡龍III 接著邁向傳說](../Page/勇者鬥惡龍III_接著邁向傳說.md "wikilink")》发行于1988年\[3\]。《勇者斗恶龙III》是前两部游戏的前传，讲述了这两作主角的祖先——传说勇者[洛特](https://zh.wikipedia.org/wiki/勇者斗恶龙系列#洛特 "wikilink")——的故事\[4\]，三部游戏被合称为“洛特的传说三部曲”\[5\]。
 
 ## 游戏性
 
@@ -32,8 +28,7 @@ Color](../Page/Game_Boy_Color.md "wikilink")、移动电话等多个平台推出
 
 日版游戏以一个受伤的蒙布尔克士兵到达罗雷西亚请求国王帮助的对话开场\[36\]，但在北美NES版游戏中加入了蒙布尔克毁灭剧情的开场对话。该作发售後，相关书籍和杂志说有些内容因容量关系而被刪除，现存的游戏[ROM中仍保存了部分残留下的数据](https://zh.wikipedia.org/wiki/ROM "wikilink")。而由于游戏开发时间紧张，游戏没有完全测试，导致游戏从中盘开始变得相当困难\[37\]\[38\]\[39\]。北美[NES版游戏使用了和前作相同质量的画面](https://zh.wikipedia.org/wiki/Nintendo_Entertainment_System "wikilink")，但这相对于日版原版游戏有所提升\[40\]。为了体现中古风格，美版《勇者斗恶龙II》的对话使用了[中古英语](../Page/中古英语.md "wikilink")\[41\]，同时台词内容和日文原版有大量不同\[42\]。与其前作一样，美版游戏受到了一些宗教审查，比如日版死亡角色的图像是画有十字架的棺材，而美版改为了幽灵般的图像\[43\]。
 
-後來[Game Boy Advance游戏](../Page/Game_Boy_Advance.md "wikilink")《[勇者斗恶龙怪兽篇
-旅团之心](../Page/勇者斗恶龙怪兽篇_旅团之心.md "wikilink")》使用了《勇者鬥惡龍II》的世界地圖。该游戏主角為《[勇者斗恶龙VII](../Page/勇者斗恶龙VII_伊甸的战士们.md "wikilink")》中的角色基法\[44\]。
+後來[Game Boy Advance游戏](../Page/Game_Boy_Advance.md "wikilink")《[勇者斗恶龙怪兽篇 旅团之心](../Page/勇者斗恶龙怪兽篇_旅团之心.md "wikilink")》使用了《勇者鬥惡龍II》的世界地圖。该游戏主角為《[勇者斗恶龙VII](../Page/勇者斗恶龙VII_伊甸的战士们.md "wikilink")》中的角色基法\[44\]。
 
 ### 重制
 
@@ -41,47 +36,25 @@ Color](../Page/Game_Boy_Color.md "wikilink")、移动电话等多个平台推出
 
 1993年12月18日\[48\]，《勇者斗恶龙II》和《勇者斗恶龙》的增强重制版作为合辑以“勇者斗恶龙I·II”为名在日本[超级任天堂平台发行](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，重制版使用了《[勇者斗恶龙V](../Page/勇者斗恶龙V_天空的新娘.md "wikilink")》的引擎\[49\]。超级任天堂版除提升了画面和音效外，还在游戏系统上进行了改进。重制版使用了更智能的攻击系统：回合开始前设定的攻击目标被其他角色击败后，该角色将会自动攻击其它敌人，而非像FC版一样不做行动。如同遊戲其续作，玩家可從罐子和衣柜中找到提升能力的道具\[50\]。此外重制版增加了少量新剧本\[51\]。
 
-1999年，《勇者斗恶龙I·II》在日本[Game Boy
-Color平台发行](../Page/Game_Boy_Color.md "wikilink")，遊戲還同时支持在[Game
-Boy平台运行](../Page/Game_Boy.md "wikilink")\[52\]。除了画面质量较低外\[53\]，该重制版和超级任天堂版十分相似\[54\]。然而Game
-Boy重制版较NES版画质进行了提升，并根據Game Boy機能修改了背景人物图像；此外遊戲還加入了开场动画\[55\]。Game Boy
-Color版新增加了中断存档功能，玩家可以在任何地方储存进度，在复位Game
-Boy前玩家都可以恢复进度。游戏同时在经验值和升级平衡性方面做了调整\[56\]。游戏北美[本地化版于](https://zh.wikipedia.org/wiki/本地化 "wikilink")2000年发售，是第一个在北美重制的勇者斗恶龙游戏\[57\]。為使遊戲更好理解，艾尼克斯在北美本地化中重新翻譯了劇本\[58\]。由于NES原版的译名产生了大量的困扰，主角和城镇使用了更为接近日版原名的新译名\[59\]：传说勇者洛特的NES版名称“Erdirck”改译为“Loto”，城堡罗雷西亚的名称“Midenhall”被重新翻译为“Lorasia”\[60\]。
+1999年，《勇者斗恶龙I·II》在日本[Game Boy Color平台发行](../Page/Game_Boy_Color.md "wikilink")，遊戲還同时支持在[Game Boy平台运行](../Page/Game_Boy.md "wikilink")\[52\]。除了画面质量较低外\[53\]，该重制版和超级任天堂版十分相似\[54\]。然而Game Boy重制版较NES版画质进行了提升，并根據Game Boy機能修改了背景人物图像；此外遊戲還加入了开场动画\[55\]。Game Boy Color版新增加了中断存档功能，玩家可以在任何地方储存进度，在复位Game Boy前玩家都可以恢复进度。游戏同时在经验值和升级平衡性方面做了调整\[56\]。游戏北美[本地化版于](https://zh.wikipedia.org/wiki/本地化 "wikilink")2000年发售，是第一个在北美重制的勇者斗恶龙游戏\[57\]。為使遊戲更好理解，艾尼克斯在北美本地化中重新翻譯了劇本\[58\]。由于NES原版的译名产生了大量的困扰，主角和城镇使用了更为接近日版原名的新译名\[59\]：传说勇者洛特的NES版名称“Erdirck”改译为“Loto”，城堡罗雷西亚的名称“Midenhall”被重新翻译为“Lorasia”\[60\]。
 
 《勇者斗恶龙II》于2005年被移植於日本手机平台\[61\]。相比于前作《勇者斗恶龙》的移植版，其容量增大到原來的四倍\[62\]；而由于容量限制，游戏文件被分割为两部分。第一部分预置于手机中，第二部分则可以免费下载；世界地图由一个预置的[PDF文件提供](https://zh.wikipedia.org/wiki/PDF "wikilink")\[63\]。2006年，《勇者斗恶龙II》在更多品牌的手机上发行\[64\]\[65\]。
 
-2011年9月15日，游戏的FC版与超级任天堂版连同《勇者斗恶龙》和《勇者斗恶龙III》作为合辑——《勇者斗恶龙25周年纪念 Famicom &
-Super Famicom
-勇者斗恶龙I·II·III》——在日本[Wii](../Page/Wii.md "wikilink")平台發行\[66\]。合辑增加了游戏快速存档功能，玩家可以在任何时间暂停游戏，然而快速存档会在游戏恢复之时被删除\[67\]。合辑还收录了游戏原版攻略手册的复件，以及原画和游戏开发材料\[68\]。
+2011年9月15日，游戏的FC版与超级任天堂版连同《勇者斗恶龙》和《勇者斗恶龙III》作为合辑——《勇者斗恶龙25周年纪念 Famicom & Super Famicom 勇者斗恶龙I·II·III》——在日本[Wii](../Page/Wii.md "wikilink")平台發行\[66\]。合辑增加了游戏快速存档功能，玩家可以在任何时间暂停游戏，然而快速存档会在游戏恢复之时被删除\[67\]。合辑还收录了游戏原版攻略手册的复件，以及原画和游戏开发材料\[68\]。
 
 2013年10月，史克威尔宣布游戏将复刻于[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台\[69\]，游戏于2014年6月26日在日本发行\[70\]。
 
 ## 其它媒体
 
-和系列其它本传游戏相似，《勇者斗恶龙II》被改编为[小说和](https://zh.wikipedia.org/wiki/轻小说 "wikilink")[游戏书](../Page/游戏书.md "wikilink")。《小说
-勇者斗恶龙II》由[高屋敷英夫](../Page/高屋敷英夫.md "wikilink")编写并出版于1989年，小说之后于1991年和2000年再版。《游戏书
-勇者斗恶龙II》也发行于1989年\[71\]。1999年，艾尼克斯发行了两卷《Game Boy勇者斗恶龙I·II
-4格漫画剧场迷你百科全书》\[72\]。
+和系列其它本传游戏相似，《勇者斗恶龙II》被改编为[小说和](https://zh.wikipedia.org/wiki/轻小说 "wikilink")[游戏书](../Page/游戏书.md "wikilink")。《小说 勇者斗恶龙II》由[高屋敷英夫](../Page/高屋敷英夫.md "wikilink")编写并出版于1989年，小说之后于1991年和2000年再版。《游戏书 勇者斗恶龙II》也发行于1989年\[71\]。1999年，艾尼克斯发行了两卷《Game Boy勇者斗恶龙I·II 4格漫画剧场迷你百科全书》\[72\]。
 
 ### 音乐
 
 游戏音乐由[椙山浩一](../Page/椙山浩一.md "wikilink")作曲并指挥。
 
-《勇者斗恶龙II》的首张专辑《组曲 勇者斗恶龙II
-恶灵的众神》发行于1987年2月。其收录了10首管弦版乐曲以及25分钟的“原声小说”（Original
-Sound
-Story）；组曲由[东京弦乐团演奏](https://zh.wikipedia.org/wiki/东京弦乐团 "wikilink")。这些音乐的风格包括古典风格和爵士风格\[73\]。在1987年8月20日举办的首场“家庭古典音乐会”上，东京弦乐团演奏了《勇者斗恶龙》和《勇者斗恶龙II》的音乐\[74\]。之后在1987年10月，音乐会录音以“勇者斗恶龙在音乐会”为名发行了交响组曲CD\[75\]。《勇者斗恶龙II》的音乐还以钢琴CD\[76\]、[Drama
-CD](https://zh.wikipedia.org/wiki/Drama_CD "wikilink")\[77\]和交响组曲专辑的形式发行\[78\]\[79\]。《勇者斗恶龙II》的音乐还收录于多张音乐合辑中，包括《交响组曲
-勇者斗恶龙精选辑Vol.1 ～洛特～》\[80\]，三张《勇者斗恶龙游戏音乐超级选集》\[81\]\[82\]\[83\]，《交响组曲
-勇者斗恶龙 Complete CD-Box》\[84\]和《交响组曲 勇者斗恶龙 按场景分类 I～IX》\[85\]等。
+《勇者斗恶龙II》的首张专辑《组曲 勇者斗恶龙II 恶灵的众神》发行于1987年2月。其收录了10首管弦版乐曲以及25分钟的“原声小说”（Original Sound Story）；组曲由[东京弦乐团演奏](https://zh.wikipedia.org/wiki/东京弦乐团 "wikilink")。这些音乐的风格包括古典风格和爵士风格\[73\]。在1987年8月20日举办的首场“家庭古典音乐会”上，东京弦乐团演奏了《勇者斗恶龙》和《勇者斗恶龙II》的音乐\[74\]。之后在1987年10月，音乐会录音以“勇者斗恶龙在音乐会”为名发行了交响组曲CD\[75\]。《勇者斗恶龙II》的音乐还以钢琴CD\[76\]、[Drama CD](https://zh.wikipedia.org/wiki/Drama_CD "wikilink")\[77\]和交响组曲专辑的形式发行\[78\]\[79\]。《勇者斗恶龙II》的音乐还收录于多张音乐合辑中，包括《交响组曲 勇者斗恶龙精选辑Vol.1 ～洛特～》\[80\]，三张《勇者斗恶龙游戏音乐超级选集》\[81\]\[82\]\[83\]，《交响组曲 勇者斗恶龙 Complete CD-Box》\[84\]和《交响组曲 勇者斗恶龙 按场景分类 I～IX》\[85\]等。
 
-在前作出现的阿雷夫加德大陆的世界地图上行走时，游戏将播放前作的世界地图音乐《Unknown
-World》。游戏输入名称和密码界面的背景音乐《[Only
-Lonely
-Boy](../Page/Only_Lonely_Boy.md "wikilink")》是[牧野安娜](../Page/牧野安娜.md "wikilink")的单曲\[86\]，在FC版游戏中，和一个名为安娜的游戏角色对话后，背景音乐将会变成此乐曲\[87\]；音乐还用作[日本职业棒球队](https://zh.wikipedia.org/wiki/日本职业棒球 "wikilink")[千叶罗德海洋的助威曲](https://zh.wikipedia.org/wiki/千叶罗德海洋 "wikilink")\[88\]。游戏结尾曲《[My
-Road, My
-Journey](../Page/My_Road,_My_Journey.md "wikilink")》\[89\]也是相关动画《[勇者鬥惡龍
-達伊的大冒險](../Page/勇者鬥惡龍_達伊的大冒險.md "wikilink")》的片尾曲\[90\]。
+在前作出现的阿雷夫加德大陆的世界地图上行走时，游戏将播放前作的世界地图音乐《Unknown World》。游戏输入名称和密码界面的背景音乐《[Only Lonely Boy](../Page/Only_Lonely_Boy.md "wikilink")》是[牧野安娜](../Page/牧野安娜.md "wikilink")的单曲\[86\]，在FC版游戏中，和一个名为安娜的游戏角色对话后，背景音乐将会变成此乐曲\[87\]；音乐还用作[日本职业棒球队](https://zh.wikipedia.org/wiki/日本职业棒球 "wikilink")[千叶罗德海洋的助威曲](https://zh.wikipedia.org/wiki/千叶罗德海洋 "wikilink")\[88\]。游戏结尾曲《[My Road, My Journey](../Page/My_Road,_My_Journey.md "wikilink")》\[89\]也是相关动画《[勇者鬥惡龍 達伊的大冒險](../Page/勇者鬥惡龍_達伊的大冒險.md "wikilink")》的片尾曲\[90\]。
 
 ## 评价
 
@@ -91,15 +64,9 @@ FC版《勇者斗恶龙II》在日本获得了极大的商业成功，游戏出�
 
 日本媒体给与游戏高难度的评价。由于游戏后半期重要道具持有者拉格斯难以发现，最终迷宫隆达尔基亚山洞存在大量陷阱，以及最终头目西多会使用完全回复咒文等原因，游戏被媒体评为“最高难度的勇者斗恶龙”\[101\]。制作人[中村光一](../Page/中村光一.md "wikilink")在电视节目采访中回应称，隆达尔基亚山洞是“根据穿过迷宫的经典技巧，而制作做成了沿着右手边墙壁一路前进，就能不落入陷阱顺利穿过迷宫，没有料到会有这样的反响”。此外，由于游戏终盘没有经过充分时间的测试，制作人员误按照自我预想的角色级别调整平衡度，最终导致游戏难度过高\[102\]。
 
-《Fami通》为超级任天堂版游戏打出了35/40分\[103\]，为Game Boy版打出了30/40分\[104\]。而Game
-Boy版在北美也获得了相当的高分，包括[IGN](../Page/IGN.md "wikilink")的8.0/10分\[105\]，[GameSpot](../Page/GameSpot.md "wikilink")的9.6/10分\[106\]，以及《[任天堂力量](../Page/任天堂力量.md "wikilink")》的8.0/10分\[107\]。然而IGN认为Game
-Boy版游戏还有地方需要改进，如重制版《勇者斗恶龙II》仍然像NES版一样使用纯色的战斗背景，而非像同张卡带上的初代重制版一样配以有生气的战斗背景\[108\]。游戏还获得了[PRGamer的](https://zh.wikipedia.org/wiki/PRGamer "wikilink")2000年度Game
-Boy Color奖\[109\]。
+《Fami通》为超级任天堂版游戏打出了35/40分\[103\]，为Game Boy版打出了30/40分\[104\]。而Game Boy版在北美也获得了相当的高分，包括[IGN](../Page/IGN.md "wikilink")的8.0/10分\[105\]，[GameSpot](../Page/GameSpot.md "wikilink")的9.6/10分\[106\]，以及《[任天堂力量](../Page/任天堂力量.md "wikilink")》的8.0/10分\[107\]。然而IGN认为Game Boy版游戏还有地方需要改进，如重制版《勇者斗恶龙II》仍然像NES版一样使用纯色的战斗背景，而非像同张卡带上的初代重制版一样配以有生气的战斗背景\[108\]。游戏还获得了[PRGamer的](https://zh.wikipedia.org/wiki/PRGamer "wikilink")2000年度Game Boy Color奖\[109\]。
 
-超级任天堂和Game Boy Color版在全球出货合计超过192万套\[110\]。随着游戏的成功，艾尼克斯继续在2001年发行了Game
-Boy
-Color版《[勇者斗恶龙III](https://zh.wikipedia.org/wiki/勇者斗恶龙III "wikilink")》，游戏以之前超级任天堂重制版为基础制作\[111\]。日本手机版下载量超过100万次\[112\]。Wii《勇者斗恶龙25周年纪念》合辑在2011年售出了40万份\[113\]。
-{{-}}
+超级任天堂和Game Boy Color版在全球出货合计超过192万套\[110\]。随着游戏的成功，艾尼克斯继续在2001年发行了Game Boy Color版《[勇者斗恶龙III](https://zh.wikipedia.org/wiki/勇者斗恶龙III "wikilink")》，游戏以之前超级任天堂重制版为基础制作\[111\]。日本手机版下载量超过100万次\[112\]。Wii《勇者斗恶龙25周年纪念》合辑在2011年售出了40万份\[113\]。 {{-}}
 
 ## 参考文献
 
@@ -110,14 +77,7 @@ Color版《[勇者斗恶龙III](https://zh.wikipedia.org/wiki/勇者斗恶龙III
 
   -
 
-[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink")
-[Category:1987年电子游戏](https://zh.wikipedia.org/wiki/Category:1987年电子游戏 "wikilink")
-[Category:CHUNSOFT游戏](https://zh.wikipedia.org/wiki/Category:CHUNSOFT游戏 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:Game_Boy_Color游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color游戏 "wikilink")
-[Category:MSX游戏](https://zh.wikipedia.org/wiki/Category:MSX游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
+[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:1987年电子游戏](https://zh.wikipedia.org/wiki/Category:1987年电子游戏 "wikilink") [Category:CHUNSOFT游戏](https://zh.wikipedia.org/wiki/Category:CHUNSOFT游戏 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:Game_Boy_Color游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color游戏 "wikilink") [Category:MSX游戏](https://zh.wikipedia.org/wiki/Category:MSX游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
 
 1.
 2.

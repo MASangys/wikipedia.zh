@@ -1,10 +1,4 @@
-{{ infobox robot | name = Asimo | logo = Asimo logo.svg | logosize =
-175px | image = ASIMO 4.28.11.jpg|thumb | imsize = 175px | alt = |
-caption = ASIMO (28 April 2011) | manufacturer =
-[本田技研工業](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink") |
-year_of_creation = 2000年 | derived_from = | replaced_by = | website
-=  }}
-[HONDA_ASIMO.jpg](https://zh.wikipedia.org/wiki/File:HONDA_ASIMO.jpg "fig:HONDA_ASIMO.jpg")上的ASIMO\]\]
+{{ infobox robot | name = Asimo | logo = Asimo logo.svg | logosize = 175px | image = ASIMO 4.28.11.jpg|thumb | imsize = 175px | alt = | caption = ASIMO (28 April 2011) | manufacturer = [本田技研工業](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink") | year_of_creation = 2000年 | derived_from = | replaced_by = | website =  }} [HONDA_ASIMO.jpg](https://zh.wikipedia.org/wiki/File:HONDA_ASIMO.jpg "fig:HONDA_ASIMO.jpg")上的ASIMO\]\]
 
 **ASIMO**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：**アシモ**）是[日本](../Page/日本.md "wikilink")[本田技研工業所開發的](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")[類人型機器人](../Page/類人型機器人.md "wikilink")，站立時約130[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")，重54[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。ASIMO外型酷似一位背著背包的[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")，而且可以時速6[公里](../Page/公里.md "wikilink")的速度前進。ASIMO是從一系列的所發展出來的。
 
@@ -150,14 +144,12 @@ ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人
 
 ## 外部連結
 
-  - [Official website (Worldwide)](http://world.honda.com/ASIMO/) -
-    Honda
+  - [Official website (Worldwide)](http://world.honda.com/ASIMO/) - Honda
   - [Official website (Japan)](http://www.honda.co.jp/ASIMO/) - Honda
   - [Official website (United States)](http://asimo.honda.com/) - Honda
   - [ASIMO test](http://www.youtube.com/watch?v=yND4k4NM0qU)
 
-[Category:日本機器人](https://zh.wikipedia.org/wiki/Category:日本機器人 "wikilink")
-[Category:類人型機器人](https://zh.wikipedia.org/wiki/Category:類人型機器人 "wikilink")
+[Category:日本機器人](https://zh.wikipedia.org/wiki/Category:日本機器人 "wikilink") [Category:類人型機器人](https://zh.wikipedia.org/wiki/Category:類人型機器人 "wikilink")
 
 1.
 
@@ -165,33 +157,19 @@ ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人
 
 3.
 
-4.  [Honda Worldwide | 15 December 2004 "Honda Reveals Technologies
-    Next-Generation
-    ASIMO"](http://world.honda.com/news/2004/c041215.html) . Honda
-    Worldwide (15 December 2004). Retrieved 12 June 2011.
+4.  [Honda Worldwide | 15 December 2004 "Honda Reveals Technologies Next-Generation ASIMO"](http://world.honda.com/news/2004/c041215.html) . Honda Worldwide (15 December 2004). Retrieved 12 June 2011.
 
-5.  [ASIMO's
-    Specifications](http://asimo.honda.com/asimo_specifications.html).
-    Asimo.honda.com. Retrieved 12 June 2011.
+5.  [ASIMO's Specifications](http://asimo.honda.com/asimo_specifications.html). Asimo.honda.com. Retrieved 12 June 2011.
 
-6.  [ASIMO's](http://world.honda.com/news/2011/c111108All-new-ASIMO/index.html)
-    . Asimo.honda.com. Retrieved 8 November 2011.
+6.  [ASIMO's](http://world.honda.com/news/2011/c111108All-new-ASIMO/index.html) . Asimo.honda.com. Retrieved 8 November 2011.
 
 7.
-8.  [Honda Worldwide | ASIMO |
-    Next-Generation](http://world.honda.com/ASIMO/next-generation/index.html).
-    Honda Worldwide (15 December 2004). Retrieved 12 June 2011.
+8.  [Honda Worldwide | ASIMO | Next-Generation](http://world.honda.com/ASIMO/next-generation/index.html). Honda Worldwide (15 December 2004). Retrieved 12 June 2011.
 
-9.  [Honda Worldwide | World News | News Releases | 20
-    November 2000](http://world.honda.com/news/2000/c001120.html) .
-    Honda Worldwide (20 November 2000). Retrieved 12 June 2011.
+9.  [Honda Worldwide | World News | News Releases | 20 November 2000](http://world.honda.com/news/2000/c001120.html) . Honda Worldwide (20 November 2000). Retrieved 12 June 2011.
 
-10. [Honda Worldwide | ASIMO](http://world.honda.com/ASIMO/new/).
-    World.honda.com. Retrieved 12 June 2011.
+10. [Honda Worldwide | ASIMO](http://world.honda.com/ASIMO/new/). World.honda.com. Retrieved 12 June 2011.
 
-11. [Honda Worldwide | 15 December 2004 "Honda Reveals Technologies
-    Next-Generation
-    ASIMO"](http://world.honda.com/news/2004/c041215.html) . Honda
-    Worldwide (15 December 2004). Retrieved 12 June 2011.
+11. [Honda Worldwide | 15 December 2004 "Honda Reveals Technologies Next-Generation ASIMO"](http://world.honda.com/news/2004/c041215.html) . Honda Worldwide (15 December 2004). Retrieved 12 June 2011.
 
 12. <http://asimo.honda.com/downloads/pdf/asimo-technical-faq.pdf>

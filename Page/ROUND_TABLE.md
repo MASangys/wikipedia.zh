@@ -1,7 +1,4 @@
-**ROUND
-TABLE**是[日本](../Page/日本.md "wikilink")的音乐组合。1993年结成于大学爵士乐研究会。1997年开始自费活动，1998年开始正式活动。从2002年开始，随着客座歌手Nino加入，也以**ROUND
-TABLE featuring
-Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipedia.org/wiki/秋叶涩谷系 "wikilink")。
+**ROUND TABLE**是[日本](../Page/日本.md "wikilink")的音乐组合。1993年结成于大学爵士乐研究会。1997年开始自费活动，1998年开始正式活动。从2002年开始，随着客座歌手Nino加入，也以**ROUND TABLE featuring Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipedia.org/wiki/秋叶涩谷系 "wikilink")。
 
 ## 成员
 
@@ -267,8 +264,7 @@ Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipe
 
 ## ROUND TABLE featuring Nino 作品
 
-  - 发行商：[JVCエンタテインメント](https://zh.wikipedia.org/wiki/JVCエンタテインメント "wikilink")／[flying
-    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")（销售商：[ビクターエンタテインメント](https://zh.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
+  - 发行商：[JVCエンタテインメント](https://zh.wikipedia.org/wiki/JVCエンタテインメント "wikilink")／[flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")（销售商：[ビクターエンタテインメント](https://zh.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
 
 ### 单曲
 
@@ -277,8 +273,7 @@ Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipe
     <!-- end list -->
     1.  Let Me Be With You
           - 电视动画「[ちょびっツ](https://zh.wikipedia.org/wiki/ちょびっツ "wikilink")」片头曲
-          - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：北川勝利、編曲：ROUND
-            TABLE・宮川弾
+          - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：北川勝利、編曲：ROUND TABLE・宮川弾
     2.  Book End Bossa
           - 电视动画「ちょびっツ」插曲
           - 作詞・作曲：北川勝利、編曲：ROUND TABLE
@@ -316,8 +311,7 @@ Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipe
       - 2005年10月21日发售
     <!-- end list -->
     1.  Rainbow
-          - 「[ARIA The
-            ANIMATION](https://zh.wikipedia.org/wiki/ARIA_The_ANIMATION "wikilink")」片尾曲
+          - 「[ARIA The ANIMATION](https://zh.wikipedia.org/wiki/ARIA_The_ANIMATION "wikilink")」片尾曲
           - 作詞・作曲：北川勝利、編曲：ROUND TABLE・桜井康史
     2.  Just For You
           - 東京电视台「[うぇぶたま3](https://zh.wikipedia.org/wiki/うぇぶたま3 "wikilink")」片尾曲
@@ -329,8 +323,7 @@ Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipe
       - 2006年4月26日发售
     <!-- end list -->
     1.  夏待ち
-          - 电视动画「[ARIA The
-            NATURAL](https://zh.wikipedia.org/wiki/ARIA_The_NATURAL "wikilink")」片尾曲
+          - 电视动画「[ARIA The NATURAL](https://zh.wikipedia.org/wiki/ARIA_The_NATURAL "wikilink")」片尾曲
           - 作詞・作曲：北川勝利、編曲：ROUND TABLE・桜井康史・窪田ミナ
     2.  潮騒
           - テレビアニメ「ARIA The NATURAL」插曲
@@ -453,11 +446,9 @@ Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipe
 
   - [葉月絵理乃](https://zh.wikipedia.org/wiki/葉月絵理乃 "wikilink")「明日、夕暮れまで」
   - [杉田智和](../Page/杉田智和.md "wikilink")「Sing a Song」
-  - [門脇舞以](../Page/門脇舞以.md "wikilink")・[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")「Just
-    for my love」
+  - [門脇舞以](../Page/門脇舞以.md "wikilink")・[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")「Just for my love」
   - [牧野由依](../Page/牧野由依.md "wikilink")「シンフォニー」「横顔」
-  - [皆川純子](../Page/皆川純子.md "wikilink")・[中原麻衣](../Page/中原麻衣.md "wikilink")「Travel
-    In Mind」
+  - [皆川純子](../Page/皆川純子.md "wikilink")・[中原麻衣](../Page/中原麻衣.md "wikilink")「Travel In Mind」
   - Chappie「Everyday」
 
 ## 脚注
@@ -469,9 +460,6 @@ Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipe
   - [ROUND TABLE 官网](http://www.round-table.jp/)
   - [ROUND TABLE featuring Nino 官网](http://www.jvcmusic.co.jp/round/)
 
-[Category:动画歌手](https://zh.wikipedia.org/wiki/Category:动画歌手 "wikilink")
-[Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:动画歌手](https://zh.wikipedia.org/wiki/Category:动画歌手 "wikilink") [Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
-1.  [网络广播 らじお道](http://www.channel-pro.com/radio/36_40.html)
-    （来自第36回的解説文）
+1.  [网络广播 らじお道](http://www.channel-pro.com/radio/36_40.html) （来自第36回的解説文）

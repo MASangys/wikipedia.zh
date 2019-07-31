@@ -1,23 +1,18 @@
-《**朱
--Aka-**》是[貓貓軟體第四套製作的](https://zh.wikipedia.org/wiki/貓貓軟體 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，《[銀色
-～完全版～](../Page/銀色_\(遊戲\).md "wikilink")》的續作。
+《**朱 -Aka-**》是[貓貓軟體第四套製作的](https://zh.wikipedia.org/wiki/貓貓軟體 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，《[銀色 ～完全版～](../Page/銀色_\(遊戲\).md "wikilink")》的續作。
 
 ## 慨要
 
 於2003年6月13日發售的[成人遊戲](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，遊戲最初預定於2002年秋發售，但期間多次延期，到2003年以後更幾乎每個月都有延期的消息。
 
-雖然連宣傳上都完全沒提及到，但依其互相關連部份來看是銀色
-～完全版～的續篇。不但是故事，在畫面上亦繼承銀色的風格，文字描述和角色對白都會在畫面下方以一至兩行的[字幕形式顯示](../Page/字幕.md "wikilink")，整體看起來很有[電影感](https://zh.wikipedia.org/wiki/電影 "wikilink")，而色彩明亮的CG、歐陸風的配樂、歌曲及畫面的整合度更比銀色大大提升，使此作成為貓貓軟體的遊戲中單月及年內銷量最多的一作。
+雖然連宣傳上都完全沒提及到，但依其互相關連部份來看是銀色 ～完全版～的續篇。不但是故事，在畫面上亦繼承銀色的風格，文字描述和角色對白都會在畫面下方以一至兩行的[字幕](../Page/字幕.md "wikilink")形式顯示，整體看起來很有[電影感](https://zh.wikipedia.org/wiki/電影 "wikilink")，而色彩明亮的CG、歐陸風的配樂、歌曲及畫面的整合度更比銀色大大提升，使此作成為貓貓軟體的遊戲中單月及年內銷量最多的一作。
 
-遊戲中表達的意思未有完全地交代清楚，抱有好、差兩面觀點的玩家均有，因此內文亦成為一時的話題作。然而，有女主角在第一次遊戲進行時沒語音，直到整個遊戲完成後再重玩時才能出現語音選擇的問題\[1\]，引起了不少玩家的不滿，但是製作方則在官方網頁的MMR日記2003年6月16日中解析了這是基於遊戲需要而設的。另外一些錯誤選項在並沒有任何下文或壞的結局提示（例如Staff
-list）則直接返回標題畫面，讓一部份玩家誤以為是遊戲Bug等問題，亦造成一些玩家的困擾。
+遊戲中表達的意思未有完全地交代清楚，抱有好、差兩面觀點的玩家均有，因此內文亦成為一時的話題作。然而，有女主角在第一次遊戲進行時沒語音，直到整個遊戲完成後再重玩時才能出現語音選擇的問題\[1\]，引起了不少玩家的不滿，但是製作方則在官方網頁的MMR日記2003年6月16日中解析了這是基於遊戲需要而設的。另外一些錯誤選項在並沒有任何下文或壞的結局提示（例如Staff list）則直接返回標題畫面，讓一部份玩家誤以為是遊戲Bug等問題，亦造成一些玩家的困擾。
 
 《朱 -Aka-》於日本美少女游戏与动画相关商品销售网站Getchu.com的2003年销量榜上排名第3。\[2\]
 
 ## 故事介紹
 
-以數百年前
-的[沙漠為舞台](../Page/沙漠.md "wikilink")，描述有關魯塔和他的眷族的故事。故事主要由四章構成，但與銀色不同的是，故事之間時代背景大致相同，而各章之間的人、事、物亦互相關聯。
+以數百年前 的[沙漠](../Page/沙漠.md "wikilink")為舞台，描述有關魯塔和他的眷族的故事。故事主要由四章構成，但與銀色不同的是，故事之間時代背景大致相同，而各章之間的人、事、物亦互相關聯。
 
 而在尾聲部份交代了一部份關於銀色的情節，讓沒玩過銀色 ～完全版～的人大概了解前作的追加劇情。
 
@@ -26,9 +21,9 @@ list）則直接返回標題畫面，讓一部份玩家誤以為是遊戲Bug等�
   -
     被魯塔授予力量，以朱色的物品（一般是朱石，[紅色的](https://zh.wikipedia.org/wiki/紅色 "wikilink")[寶石](../Page/寶石.md "wikilink")）裝在身上作為代表的一族人，擁有特別的力量，聚居於雷藍，而換來的是需依魯塔的指示去履行[義務](../Page/義務.md "wikilink")。但也有一部份沒有自覺、不懂運用能力的人存在。
   -
-    擁有「」能力的眷屬，被稱為眷屬中最強。所謂的「還原」，是指奪取他人[記憶的能力](../Page/記憶.md "wikilink")，失去記憶的人會還原到從前的記憶，忘記認識的人，甚至是自己的[名字](https://zh.wikipedia.org/wiki/名字 "wikilink")、[身份](https://zh.wikipedia.org/wiki/身份 "wikilink")。
+    擁有「」能力的眷屬，被稱為眷屬中最強。所謂的「還原」，是指奪取他人[記憶](../Page/記憶.md "wikilink")的能力，失去記憶的人會還原到從前的記憶，忘記認識的人，甚至是自己的[名字](https://zh.wikipedia.org/wiki/名字 "wikilink")、[身份](https://zh.wikipedia.org/wiki/身份 "wikilink")。
   -
-    守護者是還原者的保護人，手持[朱色的長](../Page/朱紅色.md "wikilink")[劍作為身份象徵](../Page/劍.md "wikilink")。與還原者同樣擁有「還原」的能力，然而能「還原」多少，自身並不能控制，似乎多數會把對手的記憶全部奪去。
+    守護者是還原者的保護人，手持[朱色的長](../Page/朱紅色.md "wikilink")[劍](../Page/劍.md "wikilink")作為身份象徵。與還原者同樣擁有「還原」的能力，然而能「還原」多少，自身並不能控制，似乎多數會把對手的記憶全部奪去。
   -
     魯塔給還原者傳達任務的差遣使。水鏡者在額上以像[水鏡般的鏡像顯示執行任務的地點](https://zh.wikipedia.org/wiki/水鏡 "wikilink")，而還原者的任務則是去將住在這個地點的人還原。
   -
@@ -61,8 +56,8 @@ list）則直接返回標題畫面，讓一部份玩家誤以為是遊戲Bug等�
     第三章的女主角，在哈法沙中當[藥師的少女](https://zh.wikipedia.org/wiki/藥師 "wikilink")。身上帶著作為眷屬身份的朱石，雖然對它沒甚麼記憶，但察覺到是顆特別能力的寶石。
     因小時候的一件事，獨自離開家鄉在沙漠中的大城鎮哈法沙中無償為人治病。對於遇到困難的人無法放任不顧的性格。
   -
-    第四章的男主角。旅途中在海上遇難，漂流到[岸邊為拉蒂所救](../Page/岸.md "wikilink")，在拉蒂宅邸休養了一段時間。後與拉蒂一起踏上旅程。
-    真正身份是緋檀一族族長的長子，替[父親以族長身份代表一族去執行使命](../Page/父親.md "wikilink")，為運送某物給[宗家而踏上漫長的旅程](https://zh.wikipedia.org/wiki/宗家 "wikilink")。
+    第四章的男主角。旅途中在海上遇難，漂流到[岸](../Page/岸.md "wikilink")邊為拉蒂所救，在拉蒂宅邸休養了一段時間。後與拉蒂一起踏上旅程。
+    真正身份是緋檀一族族長的長子，替[父親](../Page/父親.md "wikilink")以族長身份代表一族去執行使命，為運送某物給[宗家而踏上漫長的旅程](https://zh.wikipedia.org/wiki/宗家 "wikilink")。
     性格溫柔、細心，使命感很強。
   -
     第四章的女主角。在海邊救了魯塔，對他非常感興趣，經常纏著他。想看一看外面的世界而剪去長髮，與魯塔一起踏上旅途。
@@ -113,14 +108,10 @@ list）則直接返回標題畫面，讓一部份玩家誤以為是遊戲Bug等�
   - 劇本：、、高嶋榮二
   - 監製：
   - CG彩色：草色楓、綾瀨悠、神代舞、小田原箱根、霧月葵
-  - 音響：[feel](https://zh.wikipedia.org/wiki/feel "wikilink")、milktub、SoundUnion
-    Ebi、zerverius、[高瀨一矢](../Page/高瀨一矢.md "wikilink")（[I've](../Page/I've.md "wikilink")）、まにょっ（Little
-    Wing）、[細井聰司](https://zh.wikipedia.org/wiki/細井聰司 "wikilink")（hosplug）、水月陵、YUKI
-    NAKANO
+  - 音響：[feel](https://zh.wikipedia.org/wiki/feel "wikilink")、milktub、SoundUnion Ebi、zerverius、[高瀨一矢](../Page/高瀨一矢.md "wikilink")（[I've](../Page/I've.md "wikilink")）、まにょっ（Little Wing）、[細井聰司](https://zh.wikipedia.org/wiki/細井聰司 "wikilink")（hosplug）、水月陵、YUKI NAKANO
   - 音響與配音調整：
   - 聲音編輯：音斬侍
-  - 動畫製作：tsukune. / [Iris motion
-    graphics](https://zh.wikipedia.org/wiki/Iris_motion_graphics "wikilink")
+  - 動畫製作：tsukune. / [Iris motion graphics](https://zh.wikipedia.org/wiki/Iris_motion_graphics "wikilink")
 
 ## [主題曲](../Page/主題曲.md "wikilink")
 
@@ -179,8 +170,7 @@ list）則直接返回標題畫面，讓一部份玩家誤以為是遊戲Bug等�
 
 ## 參考資料
 
-  - [D-Dream
-    　遊戲介紹頁](https://web.archive.org/web/20080312133845/http://pm.d-dream.com/detail.php?arg_tno=446)（注意：含十八禁內容）
+  - [D-Dream 　遊戲介紹頁](https://web.archive.org/web/20080312133845/http://pm.d-dream.com/detail.php?arg_tno=446)（注意：含十八禁內容）
 
 ## 相關條目
 
@@ -191,11 +181,7 @@ list）則直接返回標題畫面，讓一部份玩家誤以為是遊戲Bug等�
 
   - [貓貓軟體](http://www.din.or.jp/~nekoneko/)
 
-[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink")
-[Category:NEKO_NEKO_Software](https://zh.wikipedia.org/wiki/Category:NEKO_NEKO_Software "wikilink")
+[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink") [Category:NEKO_NEKO_Software](https://zh.wikipedia.org/wiki/Category:NEKO_NEKO_Software "wikilink")
 
 1.
 2.

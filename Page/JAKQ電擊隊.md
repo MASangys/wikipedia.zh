@@ -18,8 +18,7 @@
 
 企畫階段所提出的標題有《》與《》等。JAKQ所屬的「國際科學特捜隊」與本作的定案片名「JAKQ電撃隊」雖然名稱有所變化，但在初期案中就有保留。
 
-開始播出當初，是描述犯罪組織與特捜隊的對立，有時並帶有諜報動作片般的嚴肅劇情風格，但不只是特捜隊與失敗的克萊姆首領，初期還有包括JAKQ成員的朋友與其家人因殺人、私製毒品、黑市武器買賣成為被害者的發展，讓兒童觀眾無法接受造成收視低迷。第13集起開始出現有機械怪物外形，類似前作《[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")》的假面怪人，兒童角色的出場機率也增加了，而BIG
-ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心，走類似《秘密戰隊》的路線。但這些做法仍然無法提昇收視，使本作以35集腰斬，因此成為超級戰隊系列中最為短命的作品。
+開始播出當初，是描述犯罪組織與特捜隊的對立，有時並帶有諜報動作片般的嚴肅劇情風格，但不只是特捜隊與失敗的克萊姆首領，初期還有包括JAKQ成員的朋友與其家人因殺人、私製毒品、黑市武器買賣成為被害者的發展，讓兒童觀眾無法接受造成收視低迷。第13集起開始出現有機械怪物外形，類似前作《[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")》的假面怪人，兒童角色的出場機率也增加了，而BIG ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心，走類似《秘密戰隊》的路線。但這些做法仍然無法提昇收視，使本作以35集腰斬，因此成為超級戰隊系列中最為短命的作品。
 
 於電視版結束後的1978年3月18日，推出了電影版原創作品《JAKQ電擊隊VS五連者》（）上映，曾一度被認為是『超級戰隊VS系列』的先驅。
 
@@ -729,20 +728,17 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 
   - 片頭曲：『ジャッカー電撃隊』
 
-:\* 作詞：石森章太郎（[石之森章太郎](../Page/石之森章太郎.md "wikilink")） / 作曲、編曲：渡邊宙明 /
-歌：[佐佐木功](../Page/佐佐木功.md "wikilink")、[蟋蟀'73](https://zh.wikipedia.org/wiki/蟋蟀'73 "wikilink")
+:\* 作詞：石森章太郎（[石之森章太郎](../Page/石之森章太郎.md "wikilink")） / 作曲、編曲：渡邊宙明 / 歌：[佐佐木功](../Page/佐佐木功.md "wikilink")、[蟋蟀'73](https://zh.wikipedia.org/wiki/蟋蟀'73 "wikilink")
 
   - 片尾曲：『いつか、花は咲くだろう』
 
-:\* 作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink") /
-作曲、編曲：渡邊宙明 / 歌：[佐佐木功](../Page/佐佐木功.md "wikilink")
+:\* 作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink") / 作曲、編曲：渡邊宙明 / 歌：[佐佐木功](../Page/佐佐木功.md "wikilink")
 
 ### 插曲
 
   - 『J.A.K.Q. 進めジャッカー』
 
-:\* 作詞：八手三郎 / 作曲、編曲：渡邊宙明 / 歌：佐佐木功、蟋蟀'73、[The
-Chirps](https://zh.wikipedia.org/wiki/The_Chirps "wikilink")
+:\* 作詞：八手三郎 / 作曲、編曲：渡邊宙明 / 歌：佐佐木功、蟋蟀'73、[The Chirps](https://zh.wikipedia.org/wiki/The_Chirps "wikilink")
 
   - 『スペードエース若き獅子』
 
@@ -750,8 +746,7 @@ Chirps](https://zh.wikipedia.org/wiki/The_Chirps "wikilink")
 
   - 『それが始まりだった』
 
-:\* 作詞：石森章太郎 / 作曲：渡邊宙明 / 編曲：武市昌久（いちひさし） /
-歌：[前川陽子](https://zh.wikipedia.org/wiki/前川陽子 "wikilink")
+:\* 作詞：石森章太郎 / 作曲：渡邊宙明 / 編曲：武市昌久（いちひさし） / 歌：[前川陽子](https://zh.wikipedia.org/wiki/前川陽子 "wikilink")
 
   - 『ジャッカーコバック』
 
@@ -777,12 +772,7 @@ Chirps](https://zh.wikipedia.org/wiki/The_Chirps "wikilink")
 
 <references />
 
-[Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink")
-[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink")
-[Category:朝日电视台電視劇](https://zh.wikipedia.org/wiki/Category:朝日电视台電視劇 "wikilink")
-[Category:1977年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1977年日本電視劇集 "wikilink")
-[Category:賽博格題材作品](https://zh.wikipedia.org/wiki/Category:賽博格題材作品 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
+[Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink") [Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink") [Category:朝日电视台電視劇](https://zh.wikipedia.org/wiki/Category:朝日电视台電視劇 "wikilink") [Category:1977年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1977年日本電視劇集 "wikilink") [Category:賽博格題材作品](https://zh.wikipedia.org/wiki/Category:賽博格題材作品 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
 
 1.  但卻是繼紅色戰士後的現任隊長
 2.  除Big One外的原本四人共花上1分鐘30秒

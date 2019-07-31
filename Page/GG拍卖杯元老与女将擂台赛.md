@@ -1,5 +1,4 @@
-**GG拍卖杯元老-女将围棋擂台赛**（**지지옥션배 여류 대 시니어 연승대항전**，**Korean GG Auction
-Cup**），[韩国职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[围棋](../Page/围棋.md "wikilink")团体赛。每队12位棋手，元老队参赛棋手年龄限制为45岁以上。\[1\]比赛每方10分钟，30秒（后改为40秒）读秒三次，冠亚军奖金分别为7000万[韩元](https://zh.wikipedia.org/wiki/韩元 "wikilink")、1200万韩元，三连胜奖励200万韩元，此后每连胜1盘多奖100万韩元。
+**GG拍卖杯元老-女将围棋擂台赛**（**지지옥션배 여류 대 시니어 연승대항전**，**Korean GG Auction Cup**），[韩国职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[围棋](../Page/围棋.md "wikilink")团体赛。每队12位棋手，元老队参赛棋手年龄限制为45岁以上。\[1\]比赛每方10分钟，30秒（后改为40秒）读秒三次，冠亚军奖金分别为7000万[韩元](https://zh.wikipedia.org/wiki/韩元 "wikilink")、1200万韩元，三连胜奖励200万韩元，此后每连胜1盘多奖100万韩元。
 
 ## 历届比赛结果
 
@@ -210,17 +209,11 @@ Cup**），[韩国职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[围�
 
 ## 外部链接
 
-  - [韓國GG拍賣杯元老與女將擂台賽歷屆結果 -
-    韓國棋院官網](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=6833)
-  - [韩国GG拍卖杯红颜5-1元老
-    朴志娟四连胜直逼曹薰铉_棋牌_体坛周报·体坛网](http://sports.titan24.com/qipai/2010-08-02/11358.html)
+  - [韓國GG拍賣杯元老與女將擂台賽歷屆結果 - 韓國棋院官網](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=6833)
+  - [韩国GG拍卖杯红颜5-1元老 朴志娟四连胜直逼曹薰铉_棋牌_体坛周报·体坛网](http://sports.titan24.com/qipai/2010-08-02/11358.html)
 
 [Category:韩国围棋比赛](https://zh.wikipedia.org/wiki/Category:韩国围棋比赛 "wikilink")
 
-1.  [拍卖杯芮乃伟不敌朴映璨止步二连胜
-    朴志恩7日登台攻擂](http://weiqi.sports.tom.com/2009-07-06/00UP/45777770.html)
-
-2.  [曹薰铉不敌崔精擂台赛提前终结
-    GG拍卖杯女队扳成3比3](http://weiqi.sports.tom.com/2012-09-18/00UP/49242979.html)
-
+1.  [拍卖杯芮乃伟不敌朴映璨止步二连胜 朴志恩7日登台攻擂](http://weiqi.sports.tom.com/2009-07-06/00UP/45777770.html)
+2.  [曹薰铉不敌崔精擂台赛提前终结 GG拍卖杯女队扳成3比3](http://weiqi.sports.tom.com/2012-09-18/00UP/49242979.html)
 3.  [曹薰铉力克朴志恩助元老队夺得韩国GG拍卖杯擂台赛冠军](http://weiqi.tom.com/2013-09-17/002S/54375517.html)

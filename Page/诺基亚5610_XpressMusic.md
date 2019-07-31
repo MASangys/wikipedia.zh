@@ -12,7 +12,6 @@
 
 ## 外部連結
 
-  - [诺基亚 5610
-    (官方介紹)](https://web.archive.org/web/20080701055255/http://www.nokia.com.hk/A4767323)
+  - [诺基亚 5610 (官方介紹)](https://web.archive.org/web/20080701055255/http://www.nokia.com.hk/A4767323)
 
 [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")

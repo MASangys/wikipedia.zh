@@ -1,28 +1,18 @@
-**Visa
-payWave**，是[Visa在其](https://zh.wikipedia.org/wiki/Visa "wikilink")[借记卡和](../Page/借记卡.md "wikilink")[信用卡上利用](../Page/信用卡.md "wikilink")[EMV技术推出的一项非接觸式支付功能](../Page/EMV.md "wikilink")，當Visa
-payWave卡用於一般[刷卡機或觸碰式讀卡機時](https://zh.wikipedia.org/wiki/刷卡機 "wikilink")，晶片模組會依讀卡機型態自行進行判斷，發揮非接觸式支付功能。
+**Visa payWave**，是[Visa在其](https://zh.wikipedia.org/wiki/Visa "wikilink")[借记卡](../Page/借记卡.md "wikilink")和[信用卡](../Page/信用卡.md "wikilink")上利用[EMV](../Page/EMV.md "wikilink")技术推出的一项非接觸式支付功能，當Visa payWave卡用於一般[刷卡機或觸碰式讀卡機時](https://zh.wikipedia.org/wiki/刷卡機 "wikilink")，晶片模組會依讀卡機型態自行進行判斷，發揮非接觸式支付功能。
 
-2007年9月，Visa 推出的Visa
-payWave非接觸支付技術的功能，它允許持卡人他們的卡的非接觸式支付終端前揮動而不需要物理刷卡或將卡插入一個銷售點設備。這是類似的[银联卡的](https://zh.wikipedia.org/wiki/银联卡 "wikilink")[闪付](../Page/闪付.md "wikilink")、[萬事達卡的](https://zh.wikipedia.org/wiki/萬事達卡 "wikilink")[MasterCard
-Contactless和](../Page/MasterCard_Contactless.md "wikilink")[美國運通的](../Page/美國運通.md "wikilink")[AE
-ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻辨識技術（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")）。
+2007年9月，Visa 推出的Visa payWave非接觸支付技術的功能，它允許持卡人他們的卡的非接觸式支付終端前揮動而不需要物理刷卡或將卡插入一個銷售點設備。這是類似的[银联卡的](https://zh.wikipedia.org/wiki/银联卡 "wikilink")[闪付](../Page/闪付.md "wikilink")、[萬事達卡的](https://zh.wikipedia.org/wiki/萬事達卡 "wikilink")[MasterCard Contactless和](../Page/MasterCard_Contactless.md "wikilink")[美國運通](../Page/美國運通.md "wikilink")的[AE ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻辨識技術（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")）。
 
 ## 特點
 
   - 免除刷卡或將VISA信用卡插入刷卡機的程序，付款簡單、快速、安全。
-  - 只需在Visa payWave感應器的4公分範圍內，手持Visa payWave卡，Visa payWave感應器就能感應到Visa
-    payWave卡的卡片資料。
+  - 只需在Visa payWave感應器的4公分範圍內，手持Visa payWave卡，Visa payWave感應器就能感應到Visa payWave卡的卡片資料。
   - 目前新台幣3,000元或港幣1000元以下，具有「免簽名」功能，4秒鐘完成列印簽單交易程序，有效節省持卡人簽帳、收銀員處理交易的時間。
 
 ## 安全機制
 
-  - 集合[EMV晶片安控及無線電技術](../Page/EMV.md "wikilink")（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")），晶片內建多項加密機制，並採用動態資料認證（Dynamic
-    Data Authentication,
-    DDA）功能，交易時，VISA智慧晶片能為每筆交易產生一個獨一的簽章，提高資料在傳輸過程中的安全性，防止資料被竊取及側錄的可能性。
-  - Visa payWave發卡會員機構可以根據風險控管需求，決定Visa
-    payWave交易的處理程序為一般的「連線交易」或是快速的「離線交易」，離線交易最快4秒即可完成列印簽單之所有程序。
-  - 每一張Visa
-    payWave卡都設有「風險額度累計」的功能，在超過一定的交易總累計金額後，商家在執行交易時，系統會由離線交易轉為連線交易，透過終端機與發卡行做確認程序，加強持卡人的支付安全。
+  - 集合[EMV](../Page/EMV.md "wikilink")晶片安控及無線電技術（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")），晶片內建多項加密機制，並採用動態資料認證（Dynamic Data Authentication, DDA）功能，交易時，VISA智慧晶片能為每筆交易產生一個獨一的簽章，提高資料在傳輸過程中的安全性，防止資料被竊取及側錄的可能性。
+  - Visa payWave發卡會員機構可以根據風險控管需求，決定Visa payWave交易的處理程序為一般的「連線交易」或是快速的「離線交易」，離線交易最快4秒即可完成列印簽單之所有程序。
+  - 每一張Visa payWave卡都設有「風險額度累計」的功能，在超過一定的交易總累計金額後，商家在執行交易時，系統會由離線交易轉為連線交易，透過終端機與發卡行做確認程序，加強持卡人的支付安全。
   - 卡片掌握在消費者手中，不用擔心被側錄及盜刷的問題。
 
 ## 發行者
@@ -47,10 +37,10 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td><p><a href="../Page/2008年2月.md" title="wikilink">2008年2月</a></p></td>
 <td><p>enJoy 卡</p></td>
 <td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
-<td><p><a href="../Page/怡和洋行.md" title="wikilink">怡和洋行旗下部份商店</a>：</p>
-<p><a href="../Page/健安喜.md" title="wikilink">健安喜</a>、<a href="../Page/萬寧_(零售商).md" title="wikilink">萬寧 (零售商)</a>、<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven</a>、<a href="../Page/惠康.md" title="wikilink">惠康</a>、<a href="../Page/Market_Place_by_Jasons.md" title="wikilink">Market Place by Jasons</a>、<a href="../Page/3hreeSixty.md" title="wikilink">3hreeSixty</a> 、<a href="https://zh.wikipedia.org/wiki/Jasons_Food_&amp;_Living" title="wikilink">Jasons Food &amp; Living</a>、<a href="../Page/宜家家居.md" title="wikilink">宜家家居</a>、<a href="https://zh.wikipedia.org/wiki/必勝客" title="wikilink">必勝客</a>、<a href="../Page/肯德基.md" title="wikilink">肯德基等</a><br />
+<td><p><a href="../Page/怡和洋行.md" title="wikilink">怡和洋行</a>旗下部份商店：</p>
+<p><a href="../Page/健安喜.md" title="wikilink">健安喜</a>、<a href="../Page/萬寧_(零售商).md" title="wikilink">萬寧 (零售商)</a>、<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven</a>、<a href="../Page/惠康.md" title="wikilink">惠康</a>、<a href="../Page/Market_Place_by_Jasons.md" title="wikilink">Market Place by Jasons</a>、<a href="../Page/3hreeSixty.md" title="wikilink">3hreeSixty</a> 、<a href="https://zh.wikipedia.org/wiki/Jasons_Food_&amp;_Living" title="wikilink">Jasons Food &amp; Living</a>、<a href="../Page/宜家家居.md" title="wikilink">宜家家居</a>、<a href="https://zh.wikipedia.org/wiki/必勝客" title="wikilink">必勝客</a>、<a href="../Page/肯德基.md" title="wikilink">肯德基</a>等<br />
 <a href="../Page/怡和洋行.md" title="wikilink">怡和員工卡版本</a><br />
-更包括<a href="../Page/美心食品.md" title="wikilink">美心食品旗下食店</a></p></td>
+更包括<a href="../Page/美心食品.md" title="wikilink">美心食品</a>旗下食店</p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/co-branded/enjoy-card">1</a></p></td>
 </tr>
@@ -114,7 +104,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td></td>
 <td><p>DBS COMPASS VISA</p></td>
 <td><p><a href="../Page/星展銀行（香港）.md" title="wikilink">星展銀行（香港）</a></p></td>
-<td><p><a href="../Page/長江和記實業.md" title="wikilink">長江和記實業旗下部份商店</a>：<br />
+<td><p><a href="../Page/長江和記實業.md" title="wikilink">長江和記實業</a>旗下部份商店：<br />
 <a href="../Page/百佳超級市場.md" title="wikilink">百佳超級市場</a>、<a href="../Page/Taste.md" title="wikilink">Taste</a>、<a href="../Page/Great.md" title="wikilink">Great</a>、<a href="../Page/豐澤電器.md" title="wikilink">豐澤電器</a>、<a href="../Page/屈臣氏個人護理店.md" title="wikilink">屈臣氏個人護理店</a></p></td>
 <td></td>
 <td><p><a href="https://www.dbs.com.hk/personal-zh/credit-cards/credit-cards/compass-visa-platinum">9</a></p></td>
@@ -155,7 +145,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td></td>
 <td><p>3Everyday COMPASS VISA</p></td>
 <td><p><a href="../Page/星展銀行（香港）.md" title="wikilink">星展銀行（香港）</a></p></td>
-<td><p><a href="../Page/長江和記實業.md" title="wikilink">長江和記實業旗下部份商店</a>：<br />
+<td><p><a href="../Page/長江和記實業.md" title="wikilink">長江和記實業</a>旗下部份商店：<br />
 <a href="../Page/百佳超級市場.md" title="wikilink">百佳超級市場</a>、<a href="../Page/Taste.md" title="wikilink">Taste</a>、<a href="../Page/Great.md" title="wikilink">Great</a>、<a href="../Page/豐澤電器.md" title="wikilink">豐澤電器</a>、<a href="../Page/屈臣氏個人護理店.md" title="wikilink">屈臣氏個人護理店</a></p></td>
 <td><p>已停止發行</p></td>
 <td></td>
@@ -172,7 +162,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td><p><a href="../Page/2011年1月.md" title="wikilink">2011年1月</a></p></td>
 <td><p>大新領展Happy Visa卡</p></td>
 <td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
-<td><p><a href="../Page/領展房地產投資信託基金.md" title="wikilink">領展房地產投資信託基金商場參與商店</a></p></td>
+<td><p><a href="../Page/領展房地產投資信託基金.md" title="wikilink">領展房地產投資信託基金</a>商場參與商店</p></td>
 <td></td>
 <td><p>*<a href="http://www.dahsing.com/html/tc/credit_card/card_products/co_brand/link_happy_visa_card.html">15</a></p></td>
 </tr>
@@ -196,7 +186,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td><p><a href="../Page/2011年6月.md" title="wikilink">2011年6月</a>23日</p></td>
 <td><p>大新Autotoll信用卡</p></td>
 <td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
-<td><p>全港唯一<a href="../Page/快易通.md" title="wikilink">快易通自動增值服務</a>，<br />
+<td><p>全港唯一<a href="../Page/快易通.md" title="wikilink">快易通</a>自動增值服務，<br />
 自動缴付隧道或收费幹線的<br />
 「快易通電子道路收费」[1]</p></td>
 <td></td>
@@ -305,7 +295,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td></td>
 <td><p>中銀GOOD DAY白金卡</p></td>
 <td><p>中銀信用卡（國際）有限公司</p></td>
-<td><p><a href="../Page/華潤集團.md" title="wikilink">華潤集團旗下部份商店</a>：<br />
+<td><p><a href="../Page/華潤集團.md" title="wikilink">華潤集團</a>旗下部份商店：<br />
 <a href="../Page/華潤萬家超級市場.md" title="wikilink">華潤萬家超級市場</a>、<a href="../Page/U購Select.md" title="wikilink">U購Select</a>、<a href="https://zh.wikipedia.org/wiki/華潤堂" title="wikilink">華潤堂</a>、<a href="../Page/太平洋咖啡.md" title="wikilink">太平洋咖啡</a>、voi_la! 及<a href="https://zh.wikipedia.org/wiki/VanGO" title="wikilink">VanGO</a></p></td>
 <td></td>
 <td><p>*<a href="http://www.boci.com.hk/chi/creditcard/goodday.html">30</a></p></td>
@@ -354,7 +344,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td></td>
 <td><p>中銀信和Visa卡</p></td>
 <td><p>中銀信用卡（國際）有限公司</p></td>
-<td><p><a href="../Page/信和集團.md" title="wikilink">信和集團旗下部分公司</a>： <a href="../Page/信和置業.md" title="wikilink">信和置業</a>、<a href="../Page/信和酒店.md" title="wikilink">信和酒店</a></p></td>
+<td><p><a href="../Page/信和集團.md" title="wikilink">信和集團</a>旗下部分公司： <a href="../Page/信和置業.md" title="wikilink">信和置業</a>、<a href="../Page/信和酒店.md" title="wikilink">信和酒店</a></p></td>
 <td></td>
 <td><p><a href="https://www.boci.com.hk/creditcard/chi/creditcard/boci_cc_sc_sino.html">36</a></p></td>
 </tr>
@@ -382,7 +372,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td><p><a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon信貸</a></p></td>
 <td><p><a href="../Page/OK便利店.md" title="wikilink">OK便利店</a>、<a href="../Page/聖安娜餅屋.md" title="wikilink">聖安娜餅屋</a></p></td>
 <td><p>發卡機構為<a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon</a><br />
-但<a href="../Page/OK便利店.md" title="wikilink">OK便利店收款</a><a href="https://zh.wikipedia.org/wiki/RFID" title="wikilink">RFID機</a><br />
+但<a href="../Page/OK便利店.md" title="wikilink">OK便利店</a>收款<a href="https://zh.wikipedia.org/wiki/RFID" title="wikilink">RFID機</a><br />
 由<a href="https://zh.wikipedia.org/wiki/東亞銀行" title="wikilink">東亞銀行提供</a></p></td>
 <td><p>*<a href="https://www.aeon.com.hk/tc/html/credit-card/creditcard_leisure-circlek-visa.html">39</a></p></td>
 </tr>
@@ -542,7 +532,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td></td>
 <td><p>Kingkow信用卡</p></td>
 <td><p><a href="../Page/上海商業銀行.md" title="wikilink">上海商業銀行</a></p></td>
-<td><p><a href="../Page/安踏體育.md" title="wikilink">安踏體育旗下品牌</a>： Kingkow</p></td>
+<td><p><a href="../Page/安踏體育.md" title="wikilink">安踏體育</a>旗下品牌： Kingkow</p></td>
 <td></td>
 <td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/cobranded/cobranded.jsp">58</a></p></td>
 </tr>
@@ -593,27 +583,23 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 
 ### 台灣
 
-在台灣，目前已經有的Visa
-payWave發卡機構包括：上海商業儲蓄銀行、中國信託商業銀行、三信商業銀行、玉山銀行、台北富邦銀行、台新國際商業銀行、永豐銀行、兆豐國際商業銀行、花旗（台灣）銀行、國泰世華銀行、第一銀行、遠東國際商業銀行、聯邦銀行、永旺信用卡、合作金庫銀行、凱基銀行、彰化銀行、華南銀行、中華郵政。\[2\]
+在台灣，目前已經有的Visa payWave發卡機構包括：上海商業儲蓄銀行、中國信託商業銀行、三信商業銀行、玉山銀行、台北富邦銀行、台新國際商業銀行、永豐銀行、兆豐國際商業銀行、花旗（台灣）銀行、國泰世華銀行、第一銀行、遠東國際商業銀行、聯邦銀行、永旺信用卡、合作金庫銀行、凱基銀行、彰化銀行、華南銀行、中華郵政。\[2\]
 
 ### 中国大陆
 
-2008年5月8日，[中国工商银行北京市分行与](../Page/中国工商银行.md "wikilink")[百盛集团](https://zh.wikipedia.org/wiki/百盛集团 "wikilink")、Visa国际组织共同宣布，中国首张非接触式支付联名信用卡——牡丹百盛信用卡从即日起在[北京百盛购物中心正式发行](https://zh.wikipedia.org/wiki/北京百盛购物中心 "wikilink")，并将逐步在全国推广发行。
+2008年5月8日，[中国工商银行](../Page/中国工商银行.md "wikilink")北京市分行与[百盛集团](https://zh.wikipedia.org/wiki/百盛集团 "wikilink")、Visa国际组织共同宣布，中国首张非接触式支付联名信用卡——牡丹百盛信用卡从即日起在[北京百盛购物中心正式发行](https://zh.wikipedia.org/wiki/北京百盛购物中心 "wikilink")，并将逐步在全国推广发行。
 
-2014年7月31日，[招商银行正式将之前已经发行的全币种国际信用卡升级为全币种国际芯片卡](../Page/招商银行.md "wikilink")，加入了支持EMV芯片卡功能（如payWave等）。
+2014年7月31日，[招商银行](../Page/招商银行.md "wikilink")正式将之前已经发行的全币种国际信用卡升级为全币种国际芯片卡，加入了支持EMV芯片卡功能（如payWave等）。
 
 ### 澳門
 
-澳門首張Visa
-payWave卡在2013年7月9日由[大豐銀行](../Page/大豐銀行.md "wikilink")、[來來超級市場及中銀信用卡公司聯合推出](../Page/來來超級市場.md "wikilink")。\[3\]\[4\]\[5\]。
+澳門首張Visa payWave卡在2013年7月9日由[大豐銀行](../Page/大豐銀行.md "wikilink")、[來來超級市場](../Page/來來超級市場.md "wikilink")及中銀信用卡公司聯合推出。\[3\]\[4\]\[5\]。
 
 惟現階段澳門來來超級市場只接受由大豐銀行所發行之來來Visa payWave信用卡付費，其他外地Visa payWave卡一律不受理。
 
-在澳門首張Visa payWave卡發行之前，其實已有商戶接受Visa
-payWave卡付款，如澳門百佳超級市場的部份分店。但使用率一直偏低，甚至有部份百佳分店索性把payWave讀卡器收起來。
+在澳門首張Visa payWave卡發行之前，其實已有商戶接受Visa payWave卡付款，如澳門百佳超級市場的部份分店。但使用率一直偏低，甚至有部份百佳分店索性把payWave讀卡器收起來。
 
-截止2016年12月，澳門分別有4家銀行推出Visa
-payWave卡，分別中國銀行澳門分行、大豐銀行（中銀信用卡國際）和澳門華僑永亨銀行、澳門商業銀行。
+截止2016年12月，澳門分別有4家銀行推出Visa payWave卡，分別中國銀行澳門分行、大豐銀行（中銀信用卡國際）和澳門華僑永亨銀行、澳門商業銀行。
 
 ## 應用範圍
 
@@ -626,18 +612,11 @@ payWave卡，分別中國銀行澳門分行、大豐銀行（中銀信用卡國�
 
   - 超級市場
 
-Oliver's The Delicatessen、[Market Place by
-Jasons](../Page/Market_Place_by_Jasons.md "wikilink")、[ThreeSixty](https://zh.wikipedia.org/wiki/ThreeSixty "wikilink")、[惠康超級市場](../Page/惠康.md "wikilink")，Watson's
-Wine、[Great](../Page/Great.md "wikilink")、International by
-PARKnSHOP、Fusion by
-PARKnSHOP、TaSTe、[百佳超級市場](../Page/百佳超級市場.md "wikilink")、PARK'n-Express，華潤
-V Ole' Supermarket、[華潤萬家超市](../Page/華潤萬家超級市場.md "wikilink")，Voila\! Wine
-Cellar、[U購Select](../Page/U購Select.md "wikilink")、[759阿信屋](../Page/759阿信屋.md "wikilink")
+Oliver's The Delicatessen、[Market Place by Jasons](../Page/Market_Place_by_Jasons.md "wikilink")、[ThreeSixty](https://zh.wikipedia.org/wiki/ThreeSixty "wikilink")、[惠康](../Page/惠康.md "wikilink")超級市場，Watson's Wine、[Great](../Page/Great.md "wikilink")、International by PARKnSHOP、Fusion by PARKnSHOP、TaSTe、[百佳超級市場](../Page/百佳超級市場.md "wikilink")、PARK'n-Express，華潤 V Ole' Supermarket、[華潤萬家超市](../Page/華潤萬家超級市場.md "wikilink")，Voila\! Wine Cellar、[U購Select](../Page/U購Select.md "wikilink")、[759阿信屋](../Page/759阿信屋.md "wikilink")
 
   - 便利店
 
-[7-Eleven](../Page/7-Eleven.md "wikilink")、[VanGO](https://zh.wikipedia.org/wiki/VanGO "wikilink")，[Circle
-K](../Page/OK便利店.md "wikilink")
+[7-Eleven](../Page/7-Eleven.md "wikilink")、[VanGO](https://zh.wikipedia.org/wiki/VanGO "wikilink")，[Circle K](../Page/OK便利店.md "wikilink")
 
   - 美容及個人產品
 
@@ -653,8 +632,7 @@ GNC，[萬寧](../Page/萬寧_\(零售商\).md "wikilink")，[屈臣氏](../Page
 
   - 戲院
 
-[AMC](../Page/AMC電影院.md "wikilink")、[百老匯院綫](../Page/百老匯院線.md "wikilink")、Palace、[UA
-Cinemas](../Page/娛藝.md "wikilink")
+[AMC](../Page/AMC電影院.md "wikilink")、[百老匯院綫](../Page/百老匯院線.md "wikilink")、Palace、[UA Cinemas](../Page/娛藝.md "wikilink")
 
   - 咖啡店
 
@@ -698,8 +676,7 @@ Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")（已清盤）
 
   - [的士](../Page/香港的士.md "wikilink")
 
-2010年12月2日，快易通、大新銀行與Visa宣佈在香港的士引入AutoTAXI服務，接受感應式Visa
-payWave、傳統晶片及磁帶式Visa信用卡繳費配套。此項服務名為快易通智能的士電召服務，簡稱「快易通的士」(AutoTAXI)，試行階段目標為約200部市區的士（紅的）率先提供新服務，稍後將逐階段擴大應用規模。\[9\]2011年6月23日，首批100部車頂設「飛翼」標誌的「飛的」正式投入服務，有車行表示智能系統年底將引入至逾500部的士。\[10\]\[11\]但2011年11月30日起已停止服務。
+2010年12月2日，快易通、大新銀行與Visa宣佈在香港的士引入AutoTAXI服務，接受感應式Visa payWave、傳統晶片及磁帶式Visa信用卡繳費配套。此項服務名為快易通智能的士電召服務，簡稱「快易通的士」(AutoTAXI)，試行階段目標為約200部市區的士（紅的）率先提供新服務，稍後將逐階段擴大應用規模。\[9\]2011年6月23日，首批100部車頂設「飛翼」標誌的「飛的」正式投入服務，有車行表示智能系統年底將引入至逾500部的士。\[10\]\[11\]但2011年11月30日起已停止服務。
 
 ## 安全疑慮
 
@@ -718,29 +695,17 @@ payWave、傳統晶片及磁帶式Visa信用卡繳費配套。此項服務名為
   - [Visa港澳地區網站](http://www.visa-asia.com/ap/hk/zh_HK/index.shtml)
   - [Visa中国區網站](http://www.visa-asia.com/ap/cn/zh_CN/index.shtml)
 
-[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink")
-[Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink")
+[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink") [Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink")
 
-1.  [大新銀行 - 關於我們 - 新聞稿 全新大新Autotoll Visa payWave信用卡
-    全港唯一快易通自動增值服務](http://www.dahsing.com/tc/pdf/marcom/press110623_c.pdf)
-2.  [Visa感應式支付 |
-    Visa](https://www.visa.com.tw/pay-with-visa/contactless-payments/contactless-payments.html)
+1.  [大新銀行 - 關於我們 - 新聞稿 全新大新Autotoll Visa payWave信用卡 全港唯一快易通自動增值服務](http://www.dahsing.com/tc/pdf/marcom/press110623_c.pdf)
+2.  [Visa感應式支付 | Visa](https://www.visa.com.tw/pay-with-visa/contactless-payments/contactless-payments.html)
 3.
 4.
 5.
-6.  [Visa國際組織香港網站 | Visa payWave -
-    香港特約商戶與發卡銀行](http://www.visa-asia.com/ap/hk/zh_HK/cardholders/cardsservices/visa_paywave_merchantsissuers.shtml)
-7.  [Visa台灣網站 | Visa
-    payWave商店](http://www.visa-asia.com/ap/tw/cardholders/cardsservices/Visa_payWave_merchant.shtml)
-
-8.  [Visa - Visa payWave
-    台灣商店](http://www.visa.com.tw/ap/tw/personal/features/include/VisapayWavemerchantlist20130101.pdf)
-9.  [Visa國際組織香港網站 | 快易通、大新銀行及Visa共同引入 全港首部提供AutoTAXI及Visa卡收費服務的士
-    致力提升香港的士業界形象及服務水平](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_02122010AutoTaxiwithVisa.shtml)
-10. [Visa國際組織香港網站 |
-    首隊AutoTAXI「飛的」在港投入服務](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_23062011AutoTaxiOnHKStreets.shtml)
-11. [蘋果日報 - 20110624 -
-    港首創信用卡付車費　可透過手機追蹤「飛的」受歡迎將增 500部](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20110624&sec_id=4104&subsec_id=11867&art_id=15371158)
-12. [歹徒擦身拍卡盜資料
-    感應式信用卡存漏洞](http://www.am730.com.hk/article.php?article=157299&d=2063)
-    - AM730(am新聞) ,2013年06月03日
+6.  [Visa國際組織香港網站 | Visa payWave - 香港特約商戶與發卡銀行](http://www.visa-asia.com/ap/hk/zh_HK/cardholders/cardsservices/visa_paywave_merchantsissuers.shtml)
+7.  [Visa台灣網站 | Visa payWave商店](http://www.visa-asia.com/ap/tw/cardholders/cardsservices/Visa_payWave_merchant.shtml)
+8.  [Visa - Visa payWave 台灣商店](http://www.visa.com.tw/ap/tw/personal/features/include/VisapayWavemerchantlist20130101.pdf)
+9.  [Visa國際組織香港網站 | 快易通、大新銀行及Visa共同引入 全港首部提供AutoTAXI及Visa卡收費服務的士 致力提升香港的士業界形象及服務水平](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_02122010AutoTaxiwithVisa.shtml)
+10. [Visa國際組織香港網站 | 首隊AutoTAXI「飛的」在港投入服務](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_23062011AutoTaxiOnHKStreets.shtml)
+11. [蘋果日報 - 20110624 - 港首創信用卡付車費　可透過手機追蹤「飛的」受歡迎將增 500部](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20110624&sec_id=4104&subsec_id=11867&art_id=15371158)
+12. [歹徒擦身拍卡盜資料 感應式信用卡存漏洞](http://www.am730.com.hk/article.php?article=157299&d=2063) - AM730(am新聞) ,2013年06月03日

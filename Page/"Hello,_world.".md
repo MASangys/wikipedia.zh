@@ -1,5 +1,4 @@
-《**"Hello,
-world."**》是[Nitro+](../Page/Nitro+.md "wikilink")於2002年9月27日發售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")。
+《**"Hello, world."**》是[Nitro+](../Page/Nitro+.md "wikilink")於2002年9月27日發售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")。
 
 ## 概要
 
@@ -76,8 +75,7 @@ world."**》是[Nitro+](../Page/Nitro+.md "wikilink")於2002年9月27日發售�
 
   - 劇本：
   - 原畫：
-  - 音樂：[ZIZZ
-    Studio](https://zh.wikipedia.org/wiki/ZIZZ_STUDIO "wikilink")
+  - 音樂：[ZIZZ Studio](https://zh.wikipedia.org/wiki/ZIZZ_STUDIO "wikilink")
 
 ## 外部連結
 
@@ -85,8 +83,4 @@ world."**》是[Nitro+](../Page/Nitro+.md "wikilink")於2002年9月27日發售�
   - [舊遊戲官方網站](https://web.archive.org/web/20080907010638/http://www.nitroplus.co.jp/pc/lineup/into_04/hello_world_top.html)
   - [Nitro+](http://www.nitroplus.co.jp/)
 
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")
+[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")

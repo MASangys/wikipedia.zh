@@ -1,5 +1,4 @@
-**KSD事件**（），是指[日本](../Page/日本.md "wikilink")的[財團法人中小企業經營者福利事業團](https://zh.wikipedia.org/wiki/財團法人 "wikilink")（**KSD**，現為「中小企業災害補償福利財團」）的創立者[古關忠男向多名](https://zh.wikipedia.org/wiki/古關忠男 "wikilink")[自由民主黨](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")[國會議員](https://zh.wikipedia.org/wiki/國會議員 "wikilink")1996年提供非法[政治獻金以獲取利益的腐敗](https://zh.wikipedia.org/wiki/政治獻金 "wikilink")[丑聞事件](https://zh.wikipedia.org/wiki/丑聞 "wikilink")。此事件對[森喜朗](../Page/森喜朗.md "wikilink")政府造成沉重的打擊。
-[缩略图](https://zh.wikipedia.org/wiki/File:Yoshiro_mori_2.jpg "fig:缩略图")
+**KSD事件**（），是指[日本](../Page/日本.md "wikilink")的[財團法人中小企業經營者福利事業團](https://zh.wikipedia.org/wiki/財團法人 "wikilink")（**KSD**，現為「中小企業災害補償福利財團」）的創立者[古關忠男向多名](https://zh.wikipedia.org/wiki/古關忠男 "wikilink")[自由民主黨](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")[國會議員](https://zh.wikipedia.org/wiki/國會議員 "wikilink")1996年提供非法[政治獻金以獲取利益的腐敗](https://zh.wikipedia.org/wiki/政治獻金 "wikilink")[丑聞事件](https://zh.wikipedia.org/wiki/丑聞 "wikilink")。此事件對[森喜朗](../Page/森喜朗.md "wikilink")政府造成沉重的打擊。 [缩略图](https://zh.wikipedia.org/wiki/File:Yoshiro_mori_2.jpg "fig:缩略图")
 
 ## 概況
 
@@ -38,8 +37,7 @@ KSD事件加上森喜朗的接連失言、[愛媛丸事件](../Page/愛媛丸事
 
 ## 參考文献
 
-  - [週刊朝日特別取材班](https://zh.wikipedia.org/wiki/週刊朝日 "wikilink") 『』ISBN
-    4-02-257641-3
+  - [週刊朝日特別取材班](https://zh.wikipedia.org/wiki/週刊朝日 "wikilink") 『』ISBN 4-02-257641-3
 
 ## 參見
 
@@ -49,13 +47,7 @@ KSD事件加上森喜朗的接連失言、[愛媛丸事件](../Page/愛媛丸事
 
   - [參議院大會平成8年1月25日議事記錄](http://kokkai.ndl.go.jp/SENTAKU/sangiin/136/0010/13601250010002a.html)
 
-[Category:平成時代政治](https://zh.wikipedia.org/wiki/Category:平成時代政治 "wikilink")
-[Category:日本腐敗醜聞](https://zh.wikipedia.org/wiki/Category:日本腐敗醜聞 "wikilink")
-[Category:日本自由民主黨](https://zh.wikipedia.org/wiki/Category:日本自由民主黨 "wikilink")
-[Category:2001年日本](https://zh.wikipedia.org/wiki/Category:2001年日本 "wikilink")
-[Category:被指為冤案的日本刑事案件](https://zh.wikipedia.org/wiki/Category:被指為冤案的日本刑事案件 "wikilink")
+[Category:平成時代政治](https://zh.wikipedia.org/wiki/Category:平成時代政治 "wikilink") [Category:日本腐敗醜聞](https://zh.wikipedia.org/wiki/Category:日本腐敗醜聞 "wikilink") [Category:日本自由民主黨](https://zh.wikipedia.org/wiki/Category:日本自由民主黨 "wikilink") [Category:2001年日本](https://zh.wikipedia.org/wiki/Category:2001年日本 "wikilink") [Category:被指為冤案的日本刑事案件](https://zh.wikipedia.org/wiki/Category:被指為冤案的日本刑事案件 "wikilink")
 
 1.  [丑聞又抖出大魚　村上正邦辭職](http://news.big5.enorth.com.cn/system/2001/02/23/000057129.shtml)
-2.  [KSD受贿案连锁反应
-    森喜朗政权再遇麻烦](http://www.gmw.cn/01gmrb/2001-01/22/GB/01%5E18673%5E0%5EGMA3-206.htm)
-    光明日報
+2.  [KSD受贿案连锁反应 森喜朗政权再遇麻烦](http://www.gmw.cn/01gmrb/2001-01/22/GB/01%5E18673%5E0%5EGMA3-206.htm) 光明日報

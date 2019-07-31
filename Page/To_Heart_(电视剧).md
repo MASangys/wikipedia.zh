@@ -1,16 +1,12 @@
-**to
-Heart**，又名**至死不渝的戀**，是1999年7月2日～1999年9月17日每週五晚上九點由[TBS](../Page/TBS.md "wikilink")播放的一部[电视剧](../Page/日本电视剧.md "wikilink")。由[堂本刚和](https://zh.wikipedia.org/wiki/堂本刚 "wikilink")[深田恭子](../Page/深田恭子.md "wikilink")主演。全12集。
+**to Heart**，又名**至死不渝的戀**，是1999年7月2日～1999年9月17日每週五晚上九點由[TBS](../Page/TBS.md "wikilink")播放的一部[电视剧](../Page/日本电视剧.md "wikilink")。由[堂本刚和](https://zh.wikipedia.org/wiki/堂本刚 "wikilink")[深田恭子](../Page/深田恭子.md "wikilink")主演。全12集。
 
 ## 登場人物
 
-  - 時枝裕二（ときえだゆうじ） - [堂本剛](../Page/堂本剛.md "wikilink")（[KinKi
-    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")）
+  - 時枝裕二（ときえだゆうじ） - [堂本剛](../Page/堂本剛.md "wikilink")（[KinKi Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")）
   - 三浦透子（みうら とうこ） - [深田恭子](../Page/深田恭子.md "wikilink")
-  - 佐倉香織（さくらさおり ） -
-    [原沙知繪](https://zh.wikipedia.org/wiki/原沙知繪 "wikilink")
+  - 佐倉香織（さくらさおり ） - [原沙知繪](https://zh.wikipedia.org/wiki/原沙知繪 "wikilink")
   - 野田淳子（のだ じゅんこ） - 畦地令子
-  - 澤木亮介（さわき りょうすけ） -
-    [吉澤悠](https://zh.wikipedia.org/wiki/吉澤悠 "wikilink")
+  - 澤木亮介（さわき りょうすけ） - [吉澤悠](https://zh.wikipedia.org/wiki/吉澤悠 "wikilink")
   - 小林廣志（こばやし ひろし） - 松尾政壽
   - 樫野政樹（かしの まさき） - 岡田浩暉
   - 岡安（おかやす） - 三波豊和
@@ -37,11 +33,8 @@ Heart**，又名**至死不渝的戀**，是1999年7月2日～1999年9月17日�
 
 ## 主題曲
 
-  - 主題歌：[KinKi
-    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink") - 「to
-    Heart」（[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")）
-  - 片頭曲： - 「」（[Sony
-    Music](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")）
+  - 主題歌：[KinKi Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink") - 「to Heart」（[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")）
+  - 片頭曲： - 「」（[Sony Music](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")）
 
 ## 得奖记录
 
@@ -54,10 +47,4 @@ Heart**，又名**至死不渝的戀**，是1999年7月2日～1999年9月17日�
 
   - [台灣緯來日本台官方網站](http://japan.videoland.com.tw/channel/to_heart/)
 
-[Category:1999年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1999年日本電視劇集 "wikilink")
-[Category:TBS週五連續劇](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇 "wikilink")
-[Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:拳擊題材作品](https://zh.wikipedia.org/wiki/Category:拳擊題材作品 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:1999年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1999年日本電視劇集 "wikilink") [Category:TBS週五連續劇](https://zh.wikipedia.org/wiki/Category:TBS週五連續劇 "wikilink") [Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:拳擊題材作品](https://zh.wikipedia.org/wiki/Category:拳擊題材作品 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")

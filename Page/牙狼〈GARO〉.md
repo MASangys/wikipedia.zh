@@ -1,6 +1,4 @@
-《**牙狼〈GARO〉**》系列，是2005年10月7日～2006年3月31日，在日本東京電視台每週五深夜時段播出的[特攝劇集](https://zh.wikipedia.org/wiki/特攝劇 "wikilink")，全25集。另於2006年12月15日與12月22日，於衛星頻道「」播出分上下兩集的續集形式特別篇《白夜的魔獸》，並於2010年10月30日推出3D電影版作品《RED
-REQUIEM》，另發售OV外傳作品《
-呀〈KIBA〉〜暗黒騎士鎧伝》，其續篇《[牙狼〈GARO〉～魔戒閃騎～](../Page/牙狼〈GARO〉～魔戒閃騎～.md "wikilink")》於2011年10月6日播出。
+《**牙狼〈GARO〉**》系列，是2005年10月7日～2006年3月31日，在日本東京電視台每週五深夜時段播出的[特攝劇集](https://zh.wikipedia.org/wiki/特攝劇 "wikilink")，全25集。另於2006年12月15日與12月22日，於衛星頻道「」播出分上下兩集的續集形式特別篇《白夜的魔獸》，並於2010年10月30日推出3D電影版作品《RED REQUIEM》，另發售OV外傳作品《 呀〈KIBA〉〜暗黒騎士鎧伝》，其續篇《[牙狼〈GARO〉～魔戒閃騎～](../Page/牙狼〈GARO〉～魔戒閃騎～.md "wikilink")》於2011年10月6日播出。
 
 ## 故事大綱
 
@@ -14,17 +12,13 @@ REQUIEM》，另發售OV外傳作品《
 
 ## 时间点顺序
 
-冴島钢牙线：牙狼 GARO（TV第一季）→白夜的魔兽（外传）→红色镇魂曲 RED REQUIEM（剧场）→暗黑骑士铠传（OV）→
-牙狼〈GARO〉～魔戒闪骑 MAKAISENKI（TV第二季）→苍哭的魔龙（剧场）→桃幻之笛（外传）→ 绝狼ZERO
--BLACK BLOOD- （TV第六季）→ 绝狼ZERO -DRAGON BLOOD- （TV第七季）
+冴島钢牙线：牙狼 GARO（TV第一季）→白夜的魔兽（外传）→红色镇魂曲 RED REQUIEM（剧场）→暗黑骑士铠传（OV）→ 牙狼〈GARO〉～魔戒闪骑 MAKAISENKI（TV第二季）→苍哭的魔龙（剧场）→桃幻之笛（外传）→ 绝狼ZERO -BLACK BLOOD- （TV第六季）→ 绝狼ZERO -DRAGON BLOOD- （TV第七季）
 
 冴島雷牙线：牙狼〈GARO〉～魔戒之花（TV第四季）→媚空（外传）
 
-道外流牙线：牙狼〈GARO〉～照耀黑暗之人（TV第三季）→GOLD STORM 翔（剧场）→牙狼〈GARO〉～GOLD STORM
-翔（TV第五季） →牙狼〈GARO〉－魔戒烈伝－ （TV特別篇）
+道外流牙线：牙狼〈GARO〉～照耀黑暗之人（TV第三季）→GOLD STORM 翔（剧场）→牙狼〈GARO〉～GOLD STORM 翔（TV第五季） →牙狼〈GARO〉－魔戒烈伝－ （TV特別篇）
 
-神牙线： 神ノ牙 -JINGA- （TV第六季）→牙狼＜GARO＞ -神ノ牙 覚醒-（舞台剧) → 牙狼＜GARO＞神ノ牙
--KAMINOKIBA- （剧场）
+神牙线： 神ノ牙 -JINGA- （TV第六季）→牙狼＜GARO＞ -神ノ牙 覚醒-（舞台剧) → 牙狼＜GARO＞神ノ牙 -KAMINOKIBA- （剧场）
 
 ## 用語
 
@@ -50,11 +44,8 @@ REQUIEM》，另發售OV外傳作品《
     與世隔絕，手持著武器狩獵潛伏在黑夜中的「恐懼獸」的戰士們。
     在心、技、體各方面都凌駕於一般人之上，並且能夠使用自己的武器召喚出魔戒騎士的鎧甲。其動作因人而異，但多半是以魔戒劍舉於頭上畫圓召喚。魔戒騎士的武器大多數都是劍類武器，但也有著少數使用長槍、柳葉刀等各式武器的魔戒騎士。
     但是雖然擁有高超的戰鬥能力，卻有著「不可以因為任何原因傷害人類」的規定。這條規定有時也會被恐懼獸利用使魔戒騎士陷入困境。另外魔戒騎士也不可以互相爭鬥，違背的話將會被番犬所施以削減壽命的懲罰。
-    魔戒騎士的鎧甲外觀各自有著不同的設計元素，但是頭盔都是狼的造型。這是因為相傳在遠古有一匹勇敢向恐懼獸挑戰的「**黃金之狼**」的緣故。一般的魔戒騎士鎧甲大多都是青銅色或古銅色，有著稱號的鎧甲可以說是其中的菁英，而歷代最強的魔戒騎士永遠都是「**黃金騎士
-    牙狼**」。
-    女性無法成為魔戒騎士，但是在「絕狼<BLACK BLOOD>」劇中有出現過由**魔戒法師
-    凱因**以魔導筆在手腕中植入魔戒騎士遺骨，而可以使用魔戒劍的女性角色**裕奈**存在，但是裕奈依舊無法召喚鎧甲。另外在小鋼珠機台以及小說《妖赤陷阱》中登場的**灼熱騎士
-    夜射刃(ヤイバ)**則是可以變化成女性人類姿態的兩性皆有之魔戒騎士。
+    魔戒騎士的鎧甲外觀各自有著不同的設計元素，但是頭盔都是狼的造型。這是因為相傳在遠古有一匹勇敢向恐懼獸挑戰的「**黃金之狼**」的緣故。一般的魔戒騎士鎧甲大多都是青銅色或古銅色，有著稱號的鎧甲可以說是其中的菁英，而歷代最強的魔戒騎士永遠都是「**黃金騎士 牙狼**」。
+    女性無法成為魔戒騎士，但是在「絕狼<BLACK BLOOD>」劇中有出現過由**魔戒法師 凱因**以魔導筆在手腕中植入魔戒騎士遺骨，而可以使用魔戒劍的女性角色**裕奈**存在，但是裕奈依舊無法召喚鎧甲。另外在小鋼珠機台以及小說《妖赤陷阱》中登場的**灼熱騎士 夜射刃(ヤイバ)**則是可以變化成女性人類姿態的兩性皆有之魔戒騎士。
 
 :; 魔導輪
 
@@ -167,8 +158,7 @@ REQUIEM》，另發售OV外傳作品《
 #### 號龍
 
   -
-    魔導具，首次出現於電影版《牙狼〈GARO〉 -RED
-    REQUIEM-》中，由天才魔戒法師布道雷歐發明，擁有消滅火羅的力量。在「魔戒閃騎」劇中曾經因為吸過人血而暴走。
+    魔導具，首次出現於電影版《牙狼〈GARO〉 -RED REQUIEM-》中，由天才魔戒法師布道雷歐發明，擁有消滅火羅的力量。在「魔戒閃騎」劇中曾經因為吸過人血而暴走。
     有不同種類的號龍，例如號龍人（分有號龍人·隱和號龍人·漸）、鐵騎（巨大號龍）、韋爾格（）等。
 
 #### 破滅刻印
@@ -191,8 +181,7 @@ REQUIEM》，另發售OV外傳作品《
 
 #### 魔導火羅
 
-從被魔界騎士五馬分尸 并分別葬在世界各處，有著“ 殺戮的闘將”號稱的火羅澤多姆
-體內所產生的種子，植入人類身體所產生的火羅，稱為‘魔導火羅’，不同於陰我和通道所產生的陰我火羅，不會被魔導火給認出和識破，在白天也可以自由行動和變身吃人，比一般的陰我火羅更強大。
+從被魔界騎士五馬分尸 并分別葬在世界各處，有著“ 殺戮的闘將”號稱的火羅澤多姆 體內所產生的種子，植入人類身體所產生的火羅，稱為‘魔導火羅’，不同於陰我和通道所產生的陰我火羅，不會被魔導火給認出和識破，在白天也可以自由行動和變身吃人，比一般的陰我火羅更強大。
 
 #### 魔導水
 
@@ -289,8 +278,7 @@ REQUIEM》，另發售OV外傳作品《
   - 劇情統籌・編劇：梶研吾
   - 編劇：小林雄次、林壮太郎、雨宮慶太、田口恵
   - 設定：田口恵
-  - 武術指導：[横山誠](https://zh.wikipedia.org/wiki/横山誠 "wikilink")（AAC
-    STUNTS）、小池達郎（＃12）
+  - 武術指導：[横山誠](https://zh.wikipedia.org/wiki/横山誠 "wikilink")（AAC STUNTS）、小池達郎（＃12）
   - VFX監督：小坂一順（OMNIBUS JAPAN）
   - 特殊造型監修：竹谷隆之、泉勝洋
   - 怪物設計：[韮澤靖](../Page/韮澤靖.md "wikilink")
@@ -671,9 +659,7 @@ REQUIEM》，另發售OV外傳作品《
 <!-- end list -->
 
   -
-    MUSIC：[TRY
-    FORCE](https://zh.wikipedia.org/wiki/TRY_FORCE "wikilink")、[JAM
-    Project](../Page/JAM_Project.md "wikilink")
+    MUSIC：[TRY FORCE](https://zh.wikipedia.org/wiki/TRY_FORCE "wikilink")、[JAM Project](../Page/JAM_Project.md "wikilink")
 
 <!-- end list -->
 
@@ -737,28 +723,22 @@ REQUIEM》，另發售OV外傳作品《
   - 《[牙狼〈GARO〉～魔戒閃騎～](../Page/牙狼〈GARO〉～魔戒閃騎～.md "wikilink")》：2011年推出，《牙狼〈GARO〉》的續篇，電視版第二季。
   - 《[牙狼〈GARO〉～照亮黑暗的人～](../Page/牙狼〈GARO〉～照亮黑暗的人～.md "wikilink")》：2013年推出，電視版第三季。
   - 《[牙狼〈GARO〉～魔戒之花～](https://zh.wikipedia.org/wiki/牙狼〈GARO〉～魔戒之花～ "wikilink")》：2014年推出，電視版第四季。
-  - 《[牙狼〈GARO〉-GOLDSTORM-
-    翔](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》：2015年推出，《牙狼〈GARO〉～照亮黑暗的人～》的續篇，電視版第五季。
-  - 《[神之牙-JINGA-](../Page/神之牙-JINGA-.md "wikilink")》︰2018年推出,
-    《牙狼〈GARO〉-GOLDSTORM- 翔》的續篇，電視版第六季。
+  - 《[牙狼〈GARO〉-GOLDSTORM- 翔](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》：2015年推出，《牙狼〈GARO〉～照亮黑暗的人～》的續篇，電視版第五季。
+  - 《[神之牙-JINGA-](../Page/神之牙-JINGA-.md "wikilink")》︰2018年推出, 《牙狼〈GARO〉-GOLDSTORM- 翔》的續篇，電視版第六季。
 
 ### 動畫版
 
   - 《[牙狼〈GARO〉-炎之刻印-](../Page/牙狼〈GARO〉-炎之刻印-.md "wikilink")》：2014年推出。
   - 《[牙狼〈GARO〉-紅蓮之月-](../Page/牙狼〈GARO〉-紅蓮之月-.md "wikilink")》：2015年推出。
-  - 《[牙狼〈GARO〉-VANISHING
-    LINE-](https://zh.wikipedia.org/wiki/牙狼〈GARO〉-VANISHING_LINE- "wikilink")》：2017年推出。
+  - 《[牙狼〈GARO〉-VANISHING LINE-](https://zh.wikipedia.org/wiki/牙狼〈GARO〉-VANISHING_LINE- "wikilink")》：2017年推出。
 
 ### 電影版
 
-  - 《[牙狼〈GARO〉 -RED
-    REQUIEM-](../Page/牙狼〈GARO〉_-RED_REQUIEM-.md "wikilink")》：2010年推出，《牙狼〈GARO〉～魔戒閃騎～》的前傳電影。
+  - 《[牙狼〈GARO〉 -RED REQUIEM-](../Page/牙狼〈GARO〉_-RED_REQUIEM-.md "wikilink")》：2010年推出，《牙狼〈GARO〉～魔戒閃騎～》的前傳電影。
   - 《[呀〈KIBA〉～暗黒騎士鎧傳](https://zh.wikipedia.org/wiki/呀〈KIBA〉～暗黒騎士鎧傳 "wikilink")》：2011年推出，《牙狼〈GARO〉》的外傳電影。
   - 《[牙狼〈GARO〉蒼哭·魔龍～](https://zh.wikipedia.org/wiki/牙狼〈GARO〉蒼哭·魔龍～ "wikilink")》：2013年推出，《牙狼〈GARO〉～魔戒閃騎～》的後傳電影。
   - 《[牙狼〈GARO〉外傳～桃幻之笛](https://zh.wikipedia.org/wiki/牙狼〈GARO〉外傳～桃幻之笛 "wikilink")》：2013年推出，《牙狼〈GARO〉～魔戒閃騎～》的外傳電影。
-  - 《[牙狼＜GARO＞-GOLDSTORM- 翔
-    (電影版)](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》︰2015年推出，《牙狼〈GARO〉-GOLDSTORM-
-    翔》的前傳電影。
+  - 《[牙狼＜GARO＞-GOLDSTORM- 翔 (電影版)](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》︰2015年推出，《牙狼〈GARO〉-GOLDSTORM- 翔》的前傳電影。
   - 《媚空》︰2015年推出，《牙狼〈GARO〉～魔戒之花～》的外傳電影。
   - 《牙狼-GARO- 神ノ牙-KAMINOKIBA-》︰2018年推出，《牙狼〈GARO〉-GOLDSTORM- 翔》的後傳電影。
   - 《薄墨櫻 -GARO-》：2018年推出，《牙狼〈GARO〉-紅蓮之月-》的外傳電影。
@@ -766,8 +746,7 @@ REQUIEM》，另發售OV外傳作品《
 ### 特別篇
 
   - 《[牙狼〈GARO〉～白夜的魔獸](https://zh.wikipedia.org/wiki/牙狼〈GARO〉～白夜的魔獸 "wikilink")》：2006年推出，分成上下兩個單元的《牙狼〈GARO〉》電視特別篇。
-  - 《[絶狼〈ZERO〉-Black
-    Blood-](https://zh.wikipedia.org/wiki/絶狼〈ZERO〉-Black_Blood- "wikilink")》：2014年推出、全6集的外傳式電影。
+  - 《[絶狼〈ZERO〉-Black Blood-](https://zh.wikipedia.org/wiki/絶狼〈ZERO〉-Black_Blood- "wikilink")》：2014年推出、全6集的外傳式電影。
 
 ## 週邊產品
 
@@ -783,8 +762,7 @@ REQUIEM》，另發售OV外傳作品《
 
 ### 電子遊戲
 
-  - 《黄金騎士牙狼〈GARO〉》︰發佈於[PlayStation
-    2上的電子遊戲](../Page/PlayStation_2.md "wikilink")。
+  - 《黄金騎士牙狼〈GARO〉》︰發佈於[PlayStation 2上的電子遊戲](../Page/PlayStation_2.md "wikilink")。
 
 ### 模型／玩具
 
@@ -819,8 +797,7 @@ REQUIEM》，另發售OV外傳作品《
   - [GARO PROJECT 官方網誌](http://ameblo.jp/garo-project/)
   - [牙狼〈GARO〉商品線上網購商店](http://www.garoshop.jp/)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2005年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2005年日本電視劇集 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2005年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2005年日本電視劇集 "wikilink")
 
 1.  同樣地也有像魔戒騎士呀（Kiva）這種為了得到墮落的力量而讓自己進入心滅獸身狀態的例子。
 2.  被附身者的瞳孔在魔導火的火焰下會呈現不同於一般人的樣貌

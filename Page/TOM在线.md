@@ -19,18 +19,9 @@ TOM在線在2007年9月3日及9月6日分別在香港及美國除牌。
 
   - [TOM在線招股章程](http://www.hkexnews.hk/listedco/listconews/gem/20040302/GLN20040302001_C.htm)
 
-[Category:香港交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:香港交易所已除牌公司 "wikilink")
-[Category:納斯達克已除牌公司](https://zh.wikipedia.org/wiki/Category:納斯達克已除牌公司 "wikilink")
-[Category:中國網站](https://zh.wikipedia.org/wiki/Category:中國網站 "wikilink")
-[Category:長和集團](https://zh.wikipedia.org/wiki/Category:長和集團 "wikilink")
+[Category:香港交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:香港交易所已除牌公司 "wikilink") [Category:納斯達克已除牌公司](https://zh.wikipedia.org/wiki/Category:納斯達克已除牌公司 "wikilink") [Category:中國網站](https://zh.wikipedia.org/wiki/Category:中國網站 "wikilink") [Category:長和集團](https://zh.wikipedia.org/wiki/Category:長和集團 "wikilink")
 
-1.  [TOM Online
-    Inc.採納中文公司名稱](http://www.hkexnews.hk/listedco/listconews/gem/20040415/GLN20040415011_C.pdf)
-2.  [招股價約1.25元
-    擬下月12日掛牌](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20040215&sec_id=15307&art_id=3856602)
-    蘋果日報，2004年2月15日
-3.  [認購超人股份必賺神話破滅 TOM
-    Online掛牌跌破招股價](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20040312&sec_id=15307&art_id=3911206)
-    蘋果日報，2004年3月12日
-4.  [TOM集团股东大会高票通过私有化TOM在线](http://tech.sina.com.cn/i/2007-04-25/17231483396.shtml)
-    新浪網，2007年4月25日
+1.  [TOM Online Inc.採納中文公司名稱](http://www.hkexnews.hk/listedco/listconews/gem/20040415/GLN20040415011_C.pdf)
+2.  [招股價約1.25元 擬下月12日掛牌](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20040215&sec_id=15307&art_id=3856602) 蘋果日報，2004年2月15日
+3.  [認購超人股份必賺神話破滅 TOM Online掛牌跌破招股價](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20040312&sec_id=15307&art_id=3911206) 蘋果日報，2004年3月12日
+4.  [TOM集团股东大会高票通过私有化TOM在线](http://tech.sina.com.cn/i/2007-04-25/17231483396.shtml) 新浪網，2007年4月25日

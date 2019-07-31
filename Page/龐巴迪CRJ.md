@@ -1,11 +1,10 @@
-[Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_(Brit_Air)_-_F-GRJB_-_LEMD.jpg](https://zh.wikipedia.org/wiki/File:Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_\(Brit_Air\)_-_F-GRJB_-_LEMD.jpg "fig:Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_(Brit_Air)_-_F-GRJB_-_LEMD.jpg")的CRJ-100ER\]\]
-**龐巴迪CRJ**（即的縮寫，意为[加拿大區域客機](../Page/加拿大.md "wikilink")）系列客機，是[加拿大](../Page/加拿大.md "wikilink")[龐巴迪宇航公司所生產的](https://zh.wikipedia.org/wiki/龐巴迪宇航公司 "wikilink")[支線客機系列](https://zh.wikipedia.org/wiki/支線客機 "wikilink")，生產地位於[加拿大](../Page/加拿大.md "wikilink")，CRJ以及庞巴迪正在生产的[庞巴迪C系列的主要競爭對手為](https://zh.wikipedia.org/wiki/庞巴迪C系列 "wikilink")[巴西航空工業所生產的](https://zh.wikipedia.org/wiki/巴西航空工業 "wikilink")[ERJ-145](https://zh.wikipedia.org/wiki/ERJ-145 "wikilink")、[ERJ-190系列客機](https://zh.wikipedia.org/wiki/ERJ-190 "wikilink")。
+[Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_(Brit_Air)_-_F-GRJB_-_LEMD.jpg](https://zh.wikipedia.org/wiki/File:Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_\(Brit_Air\)_-_F-GRJB_-_LEMD.jpg "fig:Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_(Brit_Air)_-_F-GRJB_-_LEMD.jpg")的CRJ-100ER\]\] **龐巴迪CRJ**（即的縮寫，意为[加拿大](../Page/加拿大.md "wikilink")區域客機）系列客機，是[加拿大](../Page/加拿大.md "wikilink")[龐巴迪宇航公司所生產的](https://zh.wikipedia.org/wiki/龐巴迪宇航公司 "wikilink")[支線客機系列](https://zh.wikipedia.org/wiki/支線客機 "wikilink")，生產地位於[加拿大](../Page/加拿大.md "wikilink")，CRJ以及庞巴迪正在生产的[庞巴迪C系列的主要競爭對手為](https://zh.wikipedia.org/wiki/庞巴迪C系列 "wikilink")[巴西航空工業所生產的](https://zh.wikipedia.org/wiki/巴西航空工業 "wikilink")[ERJ-145](https://zh.wikipedia.org/wiki/ERJ-145 "wikilink")、[ERJ-190系列客機](https://zh.wikipedia.org/wiki/ERJ-190 "wikilink")。
 
 ## 發展
 
 [龐巴迪宇航公司於](https://zh.wikipedia.org/wiki/龐巴迪宇航公司 "wikilink")1987年決定研發20-100座級的支線[客機](https://zh.wikipedia.org/wiki/客機 "wikilink")，其產品的飛行距離相對地較為短，載客量也較低，但能提供較密集的[航班](https://zh.wikipedia.org/wiki/航班 "wikilink")，這一點是一般大型客機做不到的。而新客機除了可以替換日本、歐洲的舊款飛機之外，在[中國](../Page/中國.md "wikilink")、印尼、印度等開發中的大國家有潛在的市場，尤其中國將需要大量支線客機\[1\]，2005年在中國已有51架CRJ系列飛機\[2\]。
 
-2019年6月26日：[龐巴迪以](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")5.5億美元現金出售支線客機業務[龐巴迪CRJ給](../Page/龐巴迪CRJ.md "wikilink")[三菱重工](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")，與此同時，三菱重工還會承擔該業務項目約2億美元的負債。自此，龐巴迪則退出商業航空領域，三菱重工則會獲得CRJ飛機項目的維修、支持、翻新、營銷和銷售業務，還有相關的服務和支持網絡及適航認證。
+2019年6月26日：[龐巴迪以](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")5.5億美元現金出售支線客機業務[龐巴迪CRJ](../Page/龐巴迪CRJ.md "wikilink")給[三菱重工](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")，與此同時，三菱重工還會承擔該業務項目約2億美元的負債。自此，龐巴迪則退出商業航空領域，三菱重工則會獲得CRJ飛機項目的維修、支持、翻新、營銷和銷售業務，還有相關的服務和支持網絡及適航認證。
 
 ## 機型
 
@@ -13,24 +12,21 @@
 
 ### CRJ-100/200
 
-[CRJ_cockpit.jpg](https://zh.wikipedia.org/wiki/File:CRJ_cockpit.jpg "fig:CRJ_cockpit.jpg")
-CRJ-100和CRJ-200是50座級的支線噴氣飛機，也是龐巴迪宇航公司初期研發的產品。
+[CRJ_cockpit.jpg](https://zh.wikipedia.org/wiki/File:CRJ_cockpit.jpg "fig:CRJ_cockpit.jpg") CRJ-100和CRJ-200是50座級的支線噴氣飛機，也是龐巴迪宇航公司初期研發的產品。
 
   - CRJ-100
 
-此機型發展自，在原機的基礎上增長6.10米，使用2台[通用電氣CF](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")34-3A1高函道比[涡扇发动机](https://zh.wikipedia.org/wiki/涡扇发动机 "wikilink")。於1991年5月10日首飞，1992年7月31日获[加拿大頒發适航证书](../Page/加拿大.md "wikilink")，1993年获歐洲和美國頒發适航证书。\[3\]
+此機型發展自，在原機的基礎上增長6.10米，使用2台[通用電氣CF](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")34-3A1高函道比[涡扇发动机](https://zh.wikipedia.org/wiki/涡扇发动机 "wikilink")。於1991年5月10日首飞，1992年7月31日获[加拿大](../Page/加拿大.md "wikilink")頒發适航证书，1993年获歐洲和美國頒發适航证书。\[3\]
 
 該型飛機啟此客戶為[汉莎城際航空](https://zh.wikipedia.org/wiki/汉莎城際航空 "wikilink")，飛機於1992年10月19日交付。\[4\]
 
   - CRJ-200
 
-[CRJ200_(J-Air)_06.jpg](https://zh.wikipedia.org/wiki/File:CRJ200_\(J-Air\)_06.jpg "fig:CRJ200_(J-Air)_06.jpg")的CRJ-200ER\]\]
-該型飛機機體與CRJ-100一樣，發動機改為使用通用电气CF34-3B1发动机，續航能力增加至3713公里。此系列只需要兩名機師及一位機艙服務員。龐巴迪宇航公司也接到了大量訂單。于1995年推出，是目前的标准生产型，1996年1月15日开始交付使用。\[5\]
+[J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA206J\)_at_Memanbetsu_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg")的CRJ-200ER\]\] 該型飛機機體與CRJ-100一樣，發動機改為使用通用电气CF34-3B1发动机，續航能力增加至3713公里。此系列只需要兩名機師及一位機艙服務員。龐巴迪宇航公司也接到了大量訂單。于1995年推出，是目前的标准生产型，1996年1月15日开始交付使用。\[5\]
 
   - CRJ-440
 
-[North_West_Airlink_(122965699).jpg](https://zh.wikipedia.org/wiki/File:North_West_Airlink_\(122965699\).jpg "fig:North_West_Airlink_(122965699).jpg")
-該機型是龐巴迪宇航應[西北航空的要求進行改型的版本](../Page/西北航空.md "wikilink")，與CRJ-100/200同属于50座级，載客量44人。2002年1月交付。\[6\]
+[North_West_Airlink_(122965699).jpg](https://zh.wikipedia.org/wiki/File:North_West_Airlink_\(122965699\).jpg "fig:North_West_Airlink_(122965699).jpg") 該機型是龐巴迪宇航應[西北航空](../Page/西北航空.md "wikilink")的要求進行改型的版本，與CRJ-100/200同属于50座级，載客量44人。2002年1月交付。\[6\]
 
   - 挑戰者800/850
 
@@ -38,8 +34,7 @@ CRJ-200的[公務機版本](https://zh.wikipedia.org/wiki/公務機 "wikilink")�
 
 ### CRJ-700系列
 
-[Bombardier_CRJ700_vs_CRJ900.jpg](https://zh.wikipedia.org/wiki/File:Bombardier_CRJ700_vs_CRJ900.jpg "fig:Bombardier_CRJ700_vs_CRJ900.jpg")
-CRJ-700系列是70座级支线喷气飞机，1997年1月21日启动研製計劃，\[7\]最初型号定为CRJ-X。\[8\]
+[Bombardier_CRJ700_vs_CRJ900.jpg](https://zh.wikipedia.org/wiki/File:Bombardier_CRJ700_vs_CRJ900.jpg "fig:Bombardier_CRJ700_vs_CRJ900.jpg") CRJ-700系列是70座级支线喷气飞机，1997年1月21日启动研製計劃，\[7\]最初型号定为CRJ-X。\[8\]
 
 CRJ-700系列在CRJ-200的基础上，配备前缘缝翼和新的机身结构，並安装推力更大的通用电气CF34-8系列发动机。\[9\]
 
@@ -49,7 +44,7 @@ CRJ-700系列在CRJ-200的基础上，配备前缘缝翼和新的机身结构，
 
   - CRJ-705
 
-該機型是龐巴迪宇航應[加拿大航空的要求進行改型的版本](../Page/加拿大航空.md "wikilink")；在CRJ-701/-702的基礎上增長機身和加大翼展，並對內部客艙進行重新佈局，载客量可达75人。\[12\]
+該機型是龐巴迪宇航應[加拿大航空](../Page/加拿大航空.md "wikilink")的要求進行改型的版本；在CRJ-701/-702的基礎上增長機身和加大翼展，並對內部客艙進行重新佈局，载客量可达75人。\[12\]
 
 ### CRJ-900系列
 
@@ -61,8 +56,7 @@ CRJ-900是在CRJ-700的基礎增長後的機型。\[14\]
 
 ### CRJ-1000系列
 
-[C-FRJX_CRJ_1000.jpg](https://zh.wikipedia.org/wiki/File:C-FRJX_CRJ_1000.jpg "fig:C-FRJX_CRJ_1000.jpg")
-CRJ-1000是一架載客量將超越100人的飛機，在2010年12月14日投入服務，目前是CRJ系列中最大、最新的成員。主要競爭型號為[ERJ-190系列](https://zh.wikipedia.org/wiki/ERJ-170系列 "wikilink")。
+[C-FRJX_CRJ_1000.jpg](https://zh.wikipedia.org/wiki/File:C-FRJX_CRJ_1000.jpg "fig:C-FRJX_CRJ_1000.jpg") CRJ-1000是一架載客量將超越100人的飛機，在2010年12月14日投入服務，目前是CRJ系列中最大、最新的成員。主要競爭型號為[ERJ-190系列](https://zh.wikipedia.org/wiki/ERJ-170系列 "wikilink")。
 
 ## 規格
 
@@ -330,11 +324,9 @@ LR：41.01千牛（9,220磅）</p></td>
 
   - [龐巴迪宇航公司CRJ主頁](http://www.crj.bombardier.com/CRJ/en/home.jsp)
 
-[Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink")
-[Category:加拿大航空器](https://zh.wikipedia.org/wiki/Category:加拿大航空器 "wikilink")
+[Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink") [Category:加拿大航空器](https://zh.wikipedia.org/wiki/Category:加拿大航空器 "wikilink")
 
 1.  [空客预测未来20年中国内地需要3000多架飞机](http://news.eastday.com/c/20070214/u1a2630794.html)
-
 
 2.  [龐巴迪宇航公司](http://www.bombardier.com/)
 
@@ -352,50 +344,26 @@ LR：41.01千牛（9,220磅）</p></td>
 12.
 13.
 14.
-15. [CRJ700
-    Specifications](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=700).
-    Bombardier
+15. [CRJ700 Specifications](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=700). Bombardier
 
-16. [CRJ700 NextGen Fact
-    Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_700_Factsheet.pdf)
-    . Bombardier, June 2009.
+16. [CRJ700 NextGen Fact Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_700_Factsheet.pdf) . Bombardier, June 2009.
 
-17. [CRJ700 NextGen Fact
-    Sheet](http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ700_EN.pdf)
-    at crjnextgen.com
+17. [CRJ700 NextGen Fact Sheet](http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ700_EN.pdf) at crjnextgen.com
 
-18. [CRJ705
-    Specifications](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=705).
-    Bombardier
+18. [CRJ705 Specifications](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=705). Bombardier
 
-19. [CRJ705
-    Interior](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=705).
-    Bombardier
+19. [CRJ705 Interior](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=705). Bombardier
 
-20. [CRJ900
-    Specifications](http://www.crj.bombardier.com/CRJ/en/specifications.jsp?langId=en&crjId=900).
-    Bombardier
+20. [CRJ900 Specifications](http://www.crj.bombardier.com/CRJ/en/specifications.jsp?langId=en&crjId=900). Bombardier
 
-21. [CRJ900 NextGen Fact
-    Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_900_Factsheet.pdf)
-    . Bombardier, June 2009.
+21. [CRJ900 NextGen Fact Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_900_Factsheet.pdf) . Bombardier, June 2009.
 
-22. [CRJ900 NextGen Fact
-    Sheet](http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ900_EN.pdf)
-    at crjnextgen.com
+22. [CRJ900 NextGen Fact Sheet](http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ900_EN.pdf) at crjnextgen.com
 
-23. [CRJ1000 NextGen Fact
-    Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_1000_Factsheet.pdf)
-    . Bombardier, June 2009.
+23. [CRJ1000 NextGen Fact Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_1000_Factsheet.pdf) . Bombardier, June 2009.
 
-24. [CRJ1000 NextGen Fact
-    Sheet](http://crj1000nextgen.bombardier.com/pdf/CRJ1000_factsheet.pdf)
-     at crjnextgen.com
+24. [CRJ1000 NextGen Fact Sheet](http://crj1000nextgen.bombardier.com/pdf/CRJ1000_factsheet.pdf)  at crjnextgen.com
 
-25. [Bombardier
-    CRJ1000](http://www.globalsecurity.org/military/world/canada/crj1000.htm)
-    at globalsecurity.org
+25. [Bombardier CRJ1000](http://www.globalsecurity.org/military/world/canada/crj1000.htm) at globalsecurity.org
 
-26. [Meet the Bombardier CRJ1000
-    EuroLite](http://www.flightglobal.com/blogs/runway-girl/2008/07/meet-the-bombardier-crj1000-eu.html)
-    at flightglobal.com
+26. [Meet the Bombardier CRJ1000 EuroLite](http://www.flightglobal.com/blogs/runway-girl/2008/07/meet-the-bombardier-crj1000-eu.html) at flightglobal.com

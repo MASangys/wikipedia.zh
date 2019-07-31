@@ -2,8 +2,7 @@
 
 ## 頻道节目
 
-Astro
-小太阳主要播放儿童节目，主题包括亲子、益智和学习等。节目包括《小鱼心房间》\[1\]、《童童欢乐园》、《新童童欢乐园》\[2\]、《小不点大冒险》\[3\]、《小宝学弟子规》和《智力我最棒》等。
+Astro 小太阳主要播放儿童节目，主题包括亲子、益智和学习等。节目包括《小鱼心房间》\[1\]、《童童欢乐园》、《新童童欢乐园》\[2\]、《小不点大冒险》\[3\]、《小宝学弟子规》和《智力我最棒》等。
 
 ## 主持人
 
@@ -42,10 +41,8 @@ Astro
   -
   - [Astro小太阳的官方网站](http://www.xuan.com.my/channels/xty.aspx)
 
-[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
-[Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
+[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
 
 1.  [Astro小太阳-小鱼心房间3](https://web.facebook.com/astroxty/photos/a.228256087226874/2263507310368398/?type=3&theater)
 2.  [Astro小太阳-新童童欢乐园2](https://web.facebook.com/astroxty/photos/a.228256087226874/2068474546538343/?type=3&theater)
-3.  [小不点大冒险...
-    佳礼论坛](https://cn.cari.com.my/forum.php?mod=viewthread&tid=1123202)
+3.  [小不点大冒险... 佳礼论坛](https://cn.cari.com.my/forum.php?mod=viewthread&tid=1123202)

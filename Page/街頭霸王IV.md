@@ -1,6 +1,4 @@
-**街頭霸王Ⅳ**（，），简称**街霸Ⅳ**（，），是於2008年由在主機推出的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，使用框體。這款[投幣式街機遊戲於](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")2008年6月18日在日本發行，於同年8月引進北美市場。\[1\][PlayStation
-3和](../Page/PlayStation_3.md "wikilink")[Xbox
-360的](../Page/Xbox_360.md "wikilink")[電視遊樂器版本預計在](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")2009年2月12日於日本發行，2月17日於北美發行，2月20日於歐洲發行。\[2\][Windows版本於](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2009年7月發行。\[3\]
+**街頭霸王Ⅳ**（，），简称**街霸Ⅳ**（，），是於2008年由在主機推出的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，使用框體。這款[投幣式街機遊戲於](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")2008年6月18日在日本發行，於同年8月引進北美市場。\[1\][PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360的](../Page/Xbox_360.md "wikilink")[電視遊樂器版本預計在](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")2009年2月12日於日本發行，2月17日於北美發行，2月20日於歐洲發行。\[2\][Windows版本於](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2009年7月發行。\[3\]
 
 ## 街頭霸王Ⅱ (Street Fighter II) 原創角色
 
@@ -1034,19 +1032,7 @@ Rorento (Rorento F. Shugerugu)<br />
 ## 外部链接
 
   -
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:街头霸王系列电子游戏](https://zh.wikipedia.org/wiki/Category:街头霸王系列电子游戏 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:Dimps游戏](https://zh.wikipedia.org/wiki/Category:Dimps游戏 "wikilink")
-[Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Xbox_360游戏](https://zh.wikipedia.org/wiki/Category:Xbox_360游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Games_for_Windows認證遊戲](https://zh.wikipedia.org/wiki/Category:Games_for_Windows認證遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:前传电子游戏](https://zh.wikipedia.org/wiki/Category:前传电子游戏 "wikilink")
-[Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:街头霸王系列电子游戏](https://zh.wikipedia.org/wiki/Category:街头霸王系列电子游戏 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:Dimps游戏](https://zh.wikipedia.org/wiki/Category:Dimps游戏 "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360游戏](https://zh.wikipedia.org/wiki/Category:Xbox_360游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Games_for_Windows認證遊戲](https://zh.wikipedia.org/wiki/Category:Games_for_Windows認證遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:前传电子游戏](https://zh.wikipedia.org/wiki/Category:前传电子游戏 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
 
 1.
 
@@ -1061,18 +1047,13 @@ Rorento (Rorento F. Shugerugu)<br />
 
 7.  或音譯為“肯恩”。
 
-8.  二代系列英文名用“Chun
-    Li”表示，除二代系列之外，在街头霸王所有遊戲作品中英文名均用“Chun-Li”表示；有的衍生作品亦作“Chun-Lei”。
+8.  二代系列英文名用“Chun Li”表示，除二代系列之外，在街头霸王所有遊戲作品中英文名均用“Chun-Li”表示；有的衍生作品亦作“Chun-Lei”。
 
 9.  其全名“Chun-Li Zang”出自街頭霸王衍生電影作品“Street Fighter”（街头霸王）同名电影。
 
-10. 在街頭霸王衍生電影作品“Street Fighter: The Legend of
-    Chun-Li”（街头霸王:春丽传）中，根據影片中春麗父母墓碑上的信息，其父親的英文全名為“Huang
-    Xiang”，其母親的英文全名為“Jeanne Xiang”，據此推断春麗英文全名应為“Chun-Li Xiang”。
+10. 在街頭霸王衍生電影作品“Street Fighter: The Legend of Chun-Li”（街头霸王:春丽传）中，根據影片中春麗父母墓碑上的信息，其父親的英文全名為“Huang Xiang”，其母親的英文全名為“Jeanne Xiang”，據此推断春麗英文全名应為“Chun-Li Xiang”。
 
-11. 在街頭霸王所有遊戲作品中春麗國籍均表示為中華人民共和國，但在街頭霸王衍生動畫作品“Street Fighter ⅡV(Victory)
-    ”（街头霸王ⅡV）和街頭霸王衍生電影作品“Street Fighter: The Legend of
-    Chun-Li”（街头霸王:春丽传）中均表示其為香港居民。
+11. 在街頭霸王所有遊戲作品中春麗國籍均表示為中華人民共和國，但在街頭霸王衍生動畫作品“Street Fighter ⅡV(Victory) ”（街头霸王ⅡV）和街頭霸王衍生電影作品“Street Fighter: The Legend of Chun-Li”（街头霸王:春丽传）中均表示其為香港居民。
 
 12. 其全名“William F. Guile”出自街頭霸王衍生電影作品“Street Fighter”（街头霸王）同名电影。
 
@@ -1086,13 +1067,11 @@ Rorento (Rorento F. Shugerugu)<br />
 
 17. 歐美版名為 Balrog，通稱 Boxer（拳王）。
 
-18. 其全名“Balrog Fabio La Cerda”出自街頭霸王衍生動畫作品“Street Fighter ⅡV(Victory)
-    ”（街头霸王ⅡV）。
+18. 其全名“Balrog Fabio La Cerda”出自街頭霸王衍生動畫作品“Street Fighter ⅡV(Victory) ”（街头霸王ⅡV）。
 
 19. 歐美版名為 Vega，通稱 Claw（利爪）。
 
-20. 其全名“Victor Sagat/Viktor Sagat”出自街頭霸王衍生電影作品“Street
-    Fighter”（街头霸王）同名电影。
+20. 其全名“Victor Sagat/Viktor Sagat”出自街頭霸王衍生電影作品“Street Fighter”（街头霸王）同名电影。
 
 21. 其設計原型為泰国的传奇泰拳格斗家Sakad Petchyindee（沙甲·贝英迪），故“Sagat”標準譯名應為“沙甲”。
 
@@ -1100,11 +1079,7 @@ Rorento (Rorento F. Shugerugu)<br />
 
 23. 或音译为贝加、贝嘎。
 
-24. 因為二代系列中維加主場在泰國，所以某些街頭霸王衍生作品將其國籍表示為泰國，某些說法認為其職業為泰國警察。2003年12月發行的“Hyper
-    Street Fighter II”（终极街头霸王Ⅱ:
-    十五周年纪念版）中表示其國籍為泰國，除此之外在街頭霸王遊戲所有遊戲作品中維加國籍均不詳。在街頭霸王衍生電影作品“Street
-    Fighter: The Legend of
-    Chun-Li”（街头霸王:春丽传）中表示其自幼生活在泰國，父母為愛爾蘭傳教士，據此推斷，其應當先後擁有愛爾蘭和泰國國籍。
+24. 因為二代系列中維加主場在泰國，所以某些街頭霸王衍生作品將其國籍表示為泰國，某些說法認為其職業為泰國警察。2003年12月發行的“Hyper Street Fighter II”（终极街头霸王Ⅱ: 十五周年纪念版）中表示其國籍為泰國，除此之外在街頭霸王遊戲所有遊戲作品中維加國籍均不詳。在街頭霸王衍生電影作品“Street Fighter: The Legend of Chun-Li”（街头霸王:春丽传）中表示其自幼生活在泰國，父母為愛爾蘭傳教士，據此推斷，其應當先後擁有愛爾蘭和泰國國籍。
 
 25. “C. Viper (Crimson Viper)”為其代號，其真名為“Maya (Maya Sunee/Maya Sunil)”。
 
@@ -1116,16 +1091,13 @@ Rorento (Rorento F. Shugerugu)<br />
 
 29. 二代系列採用的是香港旗（Hyper SFII 為五星紅旗），ZERO3 以後換成洋紫荊旗。
 
-30. 其全名“Cammy White”出自街頭霸王衍生動畫作品“Street Fighter ⅡV(Victory)
-    ”（街头霸王ⅡV）同名电影。
+30. 其全名“Cammy White”出自街頭霸王衍生動畫作品“Street Fighter ⅡV(Victory) ”（街头霸王ⅡV）同名电影。
 
-31. 其全名“White Rose”出自街頭霸王衍生電影作品“Street Fighter: The Legend of
-    Chun-Li”（街头霸王:春丽传）。
+31. 其全名“White Rose”出自街頭霸王衍生電影作品“Street Fighter: The Legend of Chun-Li”（街头霸王:春丽传）。
 
 32. 或音譯為“格恩”。
 
-33. 國籍原為日本，後前往美國進行武者修行。在游戏Final Fight（街头快打系列）和Street Fighter
-    Zero（街头霸王零系列）的前两代中国籍为日本，到ZERO3系列时国籍为美国，因此這裡採用星條旗而非日之丸。
+33. 國籍原為日本，後前往美國進行武者修行。在游戏Final Fight（街头快打系列）和Street Fighter Zero（街头霸王零系列）的前两代中国籍为日本，到ZERO3系列时国籍为美国，因此這裡採用星條旗而非日之丸。
 
 34. 在街霸相关的人物画像中，Makoto曾穿着过背面写有其名字“誠”的服装。除了有日文汉字的表示之外，从翻译上来说，Makoto可以译为“誠”或“真琴”，前者较为男性化，后者较为女性化，街霸中的硬派空手道少女Makoto性格更趋向于男性化，正符合“誠”这个名字。
 
@@ -1133,7 +1105,6 @@ Rorento (Rorento F. Shugerugu)<br />
 
 36. 欧美版名 Evil Ryu。
 
-37. 狂鬼是长久受到“杀意波动”影响而完全非人化的豪鬼姿态，登場于Super Street Fighter IV: Arcade
-    Edition（超级街头霸王Ⅳ: 街机版）。
+37. 狂鬼是长久受到“杀意波动”影响而完全非人化的豪鬼姿态，登場于Super Street Fighter IV: Arcade Edition（超级街头霸王Ⅳ: 街机版）。
 
 38. 此為夏威夷州州旗，因若用星條旗恐有混淆之虞。

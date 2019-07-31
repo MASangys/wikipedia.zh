@@ -10,17 +10,13 @@ MPL具有兩個金屬製機械[照門及](https://zh.wikipedia.org/wiki/照門 "
 
 ## 衍生型
 
-  - MPL（[德文](../Page/德语.md "wikilink")：**M**aschinen-**P**istole
-    **L**ang，意為：「瓦爾特長冲锋枪」）
-  - MPK（[德文](../Page/德语.md "wikilink")：**M**aschinen-**P**istole
-    **K**urz，意為：「瓦爾特短冲锋枪」）
-  - MPSD（[德文](../Page/德语.md "wikilink")：**M**aschinen-**P**istole
-    **S**chall-**D**ämpfer，意為：「瓦爾特[消聲冲锋枪](../Page/抑制器.md "wikilink")」）
+  - MPL（[德文](../Page/德语.md "wikilink")：**M**aschinen-**P**istole **L**ang，意為：「瓦爾特長冲锋枪」）
+  - MPK（[德文](../Page/德语.md "wikilink")：**M**aschinen-**P**istole **K**urz，意為：「瓦爾特短冲锋枪」）
+  - MPSD（[德文](../Page/德语.md "wikilink")：**M**aschinen-**P**istole **S**chall-**D**ämpfer，意為：「瓦爾特[消聲冲锋枪](../Page/抑制器.md "wikilink")」）
 
 ## 採用
 
-[Portuguese_Navy_Walther_MPL.JPEG](https://zh.wikipedia.org/wiki/File:Portuguese_Navy_Walther_MPL.JPEG "fig:Portuguese_Navy_Walther_MPL.JPEG")
-瓦爾特MPL和MPK衝鋒槍結構簡單，輕巧便攜，點射散佈精度良好，動作可靠，在當時確是很優秀的衝鋒槍。投產後，由於當時的西德陸軍裝備的制式衝鋒槍是[以色列](../Page/以色列.md "wikilink")[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")合法生產型的MP2，所以MPL和MPK衝鋒槍主要是被西德警方廣泛裝備。同一時間HK公司也研製了HK54，但直到1966年才定型為MP5，在時間上已經失了先機，所以在西德國內只被少數採用。
+[Portuguese_Navy_Walther_MPL.JPEG](https://zh.wikipedia.org/wiki/File:Portuguese_Navy_Walther_MPL.JPEG "fig:Portuguese_Navy_Walther_MPL.JPEG") 瓦爾特MPL和MPK衝鋒槍結構簡單，輕巧便攜，點射散佈精度良好，動作可靠，在當時確是很優秀的衝鋒槍。投產後，由於當時的西德陸軍裝備的制式衝鋒槍是[以色列](../Page/以色列.md "wikilink")[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")合法生產型的MP2，所以MPL和MPK衝鋒槍主要是被西德警方廣泛裝備。同一時間HK公司也研製了HK54，但直到1966年才定型為MP5，在時間上已經失了先機，所以在西德國內只被少數採用。
 
 此外，瓦爾特MPL和MPK衝鋒槍還出口到其他國家，例如被墨西哥海軍和葡萄牙海軍採用為製式裝備，[巴西](../Page/巴西.md "wikilink")、[哥倫比亞和](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")[委內瑞拉](../Page/委內瑞拉.md "wikilink")也購買了相當多的數量，美國海軍海豹突擊隊在越南也使用過。此時的MP5由於結構複雜、價格昂貴還沒有為人所熟悉，這種情況直到“[慕尼黑事件](https://zh.wikipedia.org/wiki/慕尼黑事件 "wikilink")”後才開始改變。
 
@@ -107,24 +103,15 @@ MPL具有兩個金屬製機械[照門及](https://zh.wikipedia.org/wiki/照門 "
 ### 電影
 
   - 2002年—《[-{zh-hans:撕裂的末日;zh-hant:重裝任務;}-](https://zh.wikipedia.org/wiki/重裝任務 "wikilink")》（Equilibrium）：型號為MPK及MPL，被「清道夫」們所使用。
-  - 2012年—《[-{zh-hans:勇者行动; zh-tw:海豹神兵：英勇行動; zh-hk:海豹突擊隊;
-    zh-sg:勇者行动;}-](../Page/勇者行动.md "wikilink")》（Act of
-    Valor）：型號為MPL，在哥斯達黎加的高速追逐上，被一名恐怖份子所使用。
+  - 2012年—《[-{zh-hans:勇者行动; zh-tw:海豹神兵：英勇行動; zh-hk:海豹突擊隊; zh-sg:勇者行动;}-](../Page/勇者行动.md "wikilink")》（Act of Valor）：型號為MPL，在哥斯達黎加的高速追逐上，被一名恐怖份子所使用。
 
 ### 電子遊戲
 
-  - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hant:決勝時刻：黑色行動; zh-cn:使命召唤：黑色行动;
-    zh-tw:決勝時刻：黑暗行動; zh-hk:使命召喚：黑色行動;
-    zh-mo:使命召喚：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
-    of Duty: Black
-    Ops）：於故事模式、聯機模式及殭屍模式中皆有出現，型號為MPL，命名為「MPL」，32發[彈匣](../Page/彈匣.md "wikilink")（殭屍模式時為24發），最高攜彈量為256發（聯機模式）和120發（殭屍模式）；聯機模式時於等級35解鎖，並可以使用[雙彈匣](../Page/彈匣並聯.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[反射式瞄準鏡](https://zh.wikipedia.org/wiki/Aimpoint_Mark_II光電瞄準鏡 "wikilink")、[握把](../Page/輔助握把.md "wikilink")（其實只是[槍托](../Page/槍托.md "wikilink")）、[消音器](../Page/抑制器.md "wikilink")、射速增加；殭屍模式時需要1,000點點數，另有一款衍生型稱作「MPL-LF」，40發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為200發，並已經隨槍具有延長彈匣和紅點鏡。
+  - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hant:決勝時刻：黑色行動; zh-cn:使命召唤：黑色行动; zh-tw:決勝時刻：黑暗行動; zh-hk:使命召喚：黑色行動; zh-mo:使命召喚：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call of Duty: Black Ops）：於故事模式、聯機模式及殭屍模式中皆有出現，型號為MPL，命名為「MPL」，32發[彈匣](../Page/彈匣.md "wikilink")（殭屍模式時為24發），最高攜彈量為256發（聯機模式）和120發（殭屍模式）；聯機模式時於等級35解鎖，並可以使用[雙彈匣](../Page/彈匣並聯.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[反射式瞄準鏡](https://zh.wikipedia.org/wiki/Aimpoint_Mark_II光電瞄準鏡 "wikilink")、[握把](../Page/輔助握把.md "wikilink")（其實只是[槍托](../Page/槍托.md "wikilink")）、[消音器](../Page/抑制器.md "wikilink")、射速增加；殭屍模式時需要1,000點點數，另有一款衍生型稱作「MPL-LF」，40發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為200發，並已經隨槍具有延長彈匣和紅點鏡。
 
 ### 動畫
 
-  - 2009年—《[-{zh-hans:钢之炼金术师 FULLMETAL ALCHEMIST; zh-hant:鋼之鍊金術師
-    FULLMETAL ALCHEMIST; zh-tw:鋼之鍊金術師 BROTHERHOOD; zh-hk:鋼之鍊金術師
-    BROTHERHOOD; zh-mo:鋼之鍊金術師
-    BROTHERHOOD;}-](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》：型號為MPL，移除[槍托](../Page/槍托.md "wikilink")版被亞美斯特利斯軍士兵所使用。
+  - 2009年—《[-{zh-hans:钢之炼金术师 FULLMETAL ALCHEMIST; zh-hant:鋼之鍊金術師 FULLMETAL ALCHEMIST; zh-tw:鋼之鍊金術師 BROTHERHOOD; zh-hk:鋼之鍊金術師 BROTHERHOOD; zh-mo:鋼之鍊金術師 BROTHERHOOD;}-](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》：型號為MPL，移除[槍托](../Page/槍托.md "wikilink")版被亞美斯特利斯軍士兵所使用。
 
 ## 參見
 
@@ -138,65 +125,46 @@ MPL具有兩個金屬製機械[照門及](https://zh.wikipedia.org/wiki/照門 "
 
 ## 外部連結
 
-  - —[Modern Firearms—Walther MPL and MPK submachine
-    guns](http://world.guns.ru/smg/de/walther-mpl-e.html)
+  - —[Modern Firearms—Walther MPL and MPK submachine guns](http://world.guns.ru/smg/de/walther-mpl-e.html)
 
-  - —[Guns Lot—Walther
-    MPK](https://web.archive.org/web/20081208141347/http://www.gunslot.com/guns/walther-mpk)
+  - —[Guns Lot—Walther MPK](https://web.archive.org/web/20081208141347/http://www.gunslot.com/guns/walther-mpk)
 
   - —The Firearm Blog.com—
 
-      - [TFBTV: The Beautifully Obscure Walther MPL
-        SMG](http://www.thefirearmblog.com/blog/2015/02/05/tfbtv-walther-mpl-smg/)
-      - [Walther MPL Field
-        Strip](http://www.thefirearmblog.com/blog/2016/02/12/walther-mpl-field-strip/)
-      - [Walther MPL Run and Gun (Full
-        Auto)](http://www.thefirearmblog.com/blog/2016/02/23/walther-mpl-run-and-gun-full-auto/)
-      - [TFBTV Doing What We Do: Shooting
-        Compilation](http://www.thefirearmblog.com/blog/2016/05/02/tfbtv-shooting-compilation/)
+      - [TFBTV: The Beautifully Obscure Walther MPL SMG](http://www.thefirearmblog.com/blog/2015/02/05/tfbtv-walther-mpl-smg/)
+      - [Walther MPL Field Strip](http://www.thefirearmblog.com/blog/2016/02/12/walther-mpl-field-strip/)
+      - [Walther MPL Run and Gun (Full Auto)](http://www.thefirearmblog.com/blog/2016/02/23/walther-mpl-run-and-gun-full-auto/)
+      - [TFBTV Doing What We Do: Shooting Compilation](http://www.thefirearmblog.com/blog/2016/05/02/tfbtv-shooting-compilation/)
 
-  - —[The Truth About Guns.com—Obscure Object of Desire: Walther MPK
-    SMG](http://www.thetruthaboutguns.com/2016/01/joe-grine/obscure-object-of-desire-walther-mpk-smg/)
+  - —[The Truth About Guns.com—Obscure Object of Desire: Walther MPK SMG](http://www.thetruthaboutguns.com/2016/01/joe-grine/obscure-object-of-desire-walther-mpk-smg/)
 
-  - —[Tactical Life.com—MPL & MPK: Walther’s Cold War MP
-    Subguns](http://www.tactical-life.com/firearms/mpl-mpk-walther-subguns/)
+  - —[Tactical Life.com—MPL & MPK: Walther’s Cold War MP Subguns](http://www.tactical-life.com/firearms/mpl-mpk-walther-subguns/)
 
-  - —[Youtube—Forgotten Weapons - Walther MPL Submachine
-    Gun](https://www.youtube.com/watch?v=tQSilZnqdlA)
+  - —[Youtube—Forgotten Weapons - Walther MPL Submachine Gun](https://www.youtube.com/watch?v=tQSilZnqdlA)
 
-  - —[Энциклопедия Вооружений－Walther
-    MP-l](http://gunsite.narod.ru/walt_mp.htm)
+  - —[Энциклопедия Вооружений－Walther MP-l](http://gunsite.narod.ru/walt_mp.htm)
 
-  - —[D Boy Gun
-    World（槍炮世界）—MPL/MPK冲锋枪](http://firearmsworld.net/german/walther/mplmpk/mplmpk.htm)
+  - —[D Boy Gun World（槍炮世界）—MPL/MPK冲锋枪](http://firearmsworld.net/german/walther/mplmpk/mplmpk.htm)
 
   - —《轻兵器》—
 
       - [德国华尔特MP-L 9mm冲锋枪内部结构探秘](http://qkzz.net/article/865d98e3-d76a-437f-93be-2093190fb793.htm)
       - [细说瓦尔特MP冲锋枪](http://qkzz.net/article/db5b2cc3-5782-4c38-b2c9-0b0b1c15ecea.htm)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
-1.  Hogg, Ian (2002). Jane's Guns Recognition Guide. Jane's Information
-    Group. ISBN 0-00-712760-X.
+1.  Hogg, Ian (2002). Jane's Guns Recognition Guide. Jane's Information Group. ISBN 0-00-712760-X.
 
 2.
 3.
-4.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's
-    Information Group; 35 edition (January 27, 2009). ISBN
-    978-0710628695.
+4.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
 
 5.
 6.
 7.
 8.
 9.
-10. Griswold, Terry and D.M. Giangreco. Delta: America's Elite
-    Counterterrorist Force. Osecola, WI: MBI Publishing Company, 1992.
-    ISBN 0-87938-615-0.
+10. Griswold, Terry and D.M. Giangreco. Delta: America's Elite Counterterrorist Force. Osecola, WI: MBI Publishing Company, 1992. ISBN 0-87938-615-0.
 
 11.
 12.

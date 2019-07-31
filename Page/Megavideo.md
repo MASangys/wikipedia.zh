@@ -12,10 +12,7 @@
 
 </div>
 
-[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink")
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.  [www.megavideo.com](http://www.megavideo.com/)
-2.  [BBC-Megaupload file-sharing site shut
-    down](http://www.bbc.co.uk/news/technology-16642369)
+2.  [BBC-Megaupload file-sharing site shut down](http://www.bbc.co.uk/news/technology-16642369)

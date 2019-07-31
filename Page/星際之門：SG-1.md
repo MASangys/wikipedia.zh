@@ -1,25 +1,10 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Stargate_-_Japan_Expo_2009.jpg "fig:缩略图")
-[DHD_2.png](https://zh.wikipedia.org/wiki/File:DHD_2.png "fig:DHD_2.png")
-[缩略图](https://zh.wikipedia.org/wiki/File:Indirizzo_Stargate_Abydos.png "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:Stargate_SG-1_SG_team_Dragon_Con_2008_cropped.jpg "fig:缩略图")
-《**星際之門：SG-1**》（**Stargate
-SG-1**）是一部於1997年至2007年播映的[美国](../Page/美国.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")，故事以1994年的科幻電影《[星際之門](../Page/星際之門_\(電影\).md "wikilink")》（*Stargate*，由[狄恩·德夫林](https://zh.wikipedia.org/wiki/狄恩·德夫林 "wikilink")／Dean
-Devlin及[羅蘭·艾默瑞奇](../Page/羅蘭·艾默瑞奇.md "wikilink")編劇，艾默里奇導演）為基礎，講述電影完結後的故事，屬《[星際之門](https://zh.wikipedia.org/wiki/星際之門 "wikilink")》系列中的第二篇。
+[缩略图](https://zh.wikipedia.org/wiki/File:Stargate_-_Japan_Expo_2009.jpg "fig:缩略图") [DHD_2.png](https://zh.wikipedia.org/wiki/File:DHD_2.png "fig:DHD_2.png") [缩略图](https://zh.wikipedia.org/wiki/File:Indirizzo_Stargate_Abydos.png "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Stargate_SG-1_SG_team_Dragon_Con_2008_cropped.jpg "fig:缩略图") 《**星際之門：SG-1**》（**Stargate SG-1**）是一部於1997年至2007年播映的[美国](../Page/美国.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")，故事以1994年的科幻電影《[星際之門](../Page/星際之門_\(電影\).md "wikilink")》（*Stargate*，由[狄恩·德夫林](https://zh.wikipedia.org/wiki/狄恩·德夫林 "wikilink")／Dean Devlin及[羅蘭·艾默瑞奇](../Page/羅蘭·艾默瑞奇.md "wikilink")編劇，艾默里奇導演）為基礎，講述電影完結後的故事，屬《[星際之門](https://zh.wikipedia.org/wiki/星際之門 "wikilink")》系列中的第二篇。
 
-该电视剧由[布萊德·賴特](https://zh.wikipedia.org/wiki/布萊德·賴特 "wikilink")（Brad
-Wright）与[喬傑森·格拉斯纳](https://zh.wikipedia.org/wiki/喬傑森·格拉斯纳 "wikilink")（Jonathan
-Glassner）两人创作，主要演员有[李察·狄恩·安德森](../Page/李察·狄恩·安德森.md "wikilink")（飾[傑克·奧尼爾](https://zh.wikipedia.org/wiki/傑克·奧尼爾 "wikilink")／改了串字的[O'Neill](https://zh.wikipedia.org/wiki/:en:Jack_O'Neill "wikilink")）、[Michael
-Shanks](https://zh.wikipedia.org/wiki/:en:Michael_Shanks "wikilink")（饰[丹尼爾·傑克森](https://zh.wikipedia.org/wiki/丹尼爾·傑克森 "wikilink")／Daniel
-Jackson）、[Amanda
-Tapping及](https://zh.wikipedia.org/wiki/:en:Amanda_Tapping "wikilink")[Christopher
-Judge等](https://zh.wikipedia.org/wiki/:en:Christopher_Judge "wikilink")。该电视剧在[加拿大](../Page/加拿大.md "wikilink")[不列颠哥伦比亚省](https://zh.wikipedia.org/wiki/不列颠哥伦比亚省 "wikilink")[温哥华市拍摄](https://zh.wikipedia.org/wiki/温哥华 "wikilink")，共有10季，於1997年7月12日在美国[Showtime频道开始播出](https://zh.wikipedia.org/wiki/Showtime频道 "wikilink")，第5季以后转移到[科幻頻道](../Page/Syfy.md "wikilink")（Sci-Fi
-Channel）。\[1\]2006年，Stargate
-SG-1以播映时间最长的连续科幻剧集被载入[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")。
+该电视剧由[布萊德·賴特](https://zh.wikipedia.org/wiki/布萊德·賴特 "wikilink")（Brad Wright）与[喬傑森·格拉斯纳](https://zh.wikipedia.org/wiki/喬傑森·格拉斯纳 "wikilink")（Jonathan Glassner）两人创作，主要演员有[李察·狄恩·安德森](../Page/李察·狄恩·安德森.md "wikilink")（飾[傑克·奧尼爾](https://zh.wikipedia.org/wiki/傑克·奧尼爾 "wikilink")／改了串字的[O'Neill](https://zh.wikipedia.org/wiki/:en:Jack_O'Neill "wikilink")）、[Michael Shanks](https://zh.wikipedia.org/wiki/:en:Michael_Shanks "wikilink")（饰[丹尼爾·傑克森](https://zh.wikipedia.org/wiki/丹尼爾·傑克森 "wikilink")／Daniel Jackson）、[Amanda Tapping及](https://zh.wikipedia.org/wiki/:en:Amanda_Tapping "wikilink")[Christopher Judge等](https://zh.wikipedia.org/wiki/:en:Christopher_Judge "wikilink")。该电视剧在[加拿大](../Page/加拿大.md "wikilink")[不列颠哥伦比亚省](https://zh.wikipedia.org/wiki/不列颠哥伦比亚省 "wikilink")[温哥华市拍摄](https://zh.wikipedia.org/wiki/温哥华 "wikilink")，共有10季，於1997年7月12日在美国[Showtime频道开始播出](https://zh.wikipedia.org/wiki/Showtime频道 "wikilink")，第5季以后转移到[科幻頻道](../Page/Syfy.md "wikilink")（Sci-Fi Channel）。\[1\]2006年，Stargate SG-1以播映时间最长的连续科幻剧集被载入[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")。
 
 ## 劇情
 
-[Milky_way_stargate_with_very_detailed_glyphs2.svg](https://zh.wikipedia.org/wiki/File:Milky_way_stargate_with_very_detailed_glyphs2.svg "fig:Milky_way_stargate_with_very_detailed_glyphs2.svg")
-剧集設在原作电影中的事件之后，開頭時講述在整體的內部編年中，時間離電影結尾只過了一年，期間因有敌人嘗試通过星门攻击地球，[美国空军](../Page/美国空军.md "wikilink")发现他们在电影中想法是錯誤的，[拉](https://zh.wikipedia.org/wiki/拉_\(星門\) "wikilink")（[Ra](https://zh.wikipedia.org/wiki/:en:Goa'uld_characters_in_Stargate#Ra "wikilink")）並不是最后的一隻[寄生蟲](https://zh.wikipedia.org/wiki/寄生蟲_\(星門\) "wikilink")（[Goa'uld](https://zh.wikipedia.org/wiki/:en:Goa'uld "wikilink")）。新近成立的[星门总部](https://zh.wikipedia.org/wiki/星门总部 "wikilink")（[SGC](https://zh.wikipedia.org/wiki/:en:Stargate_Command "wikilink")）只好派出[第一支探险队](https://zh.wikipedia.org/wiki/星門一隊 "wikilink")（[SG-1](https://zh.wikipedia.org/wiki/:en:SG-1 "wikilink")）來繼續探險以獲取情報，看看有甚麼方法來徹底打敗敵人。这个剧集在电影上扩展，创造了一个完全而又丰富的[宇宙和一个强大的重现演员表](https://zh.wikipedia.org/wiki/:en:Series_Mythology "wikilink")。
+[Milky_way_stargate_with_very_detailed_glyphs2.svg](https://zh.wikipedia.org/wiki/File:Milky_way_stargate_with_very_detailed_glyphs2.svg "fig:Milky_way_stargate_with_very_detailed_glyphs2.svg") 剧集設在原作电影中的事件之后，開頭時講述在整體的內部編年中，時間離電影結尾只過了一年，期間因有敌人嘗試通过星门攻击地球，[美国空军](../Page/美国空军.md "wikilink")发现他们在电影中想法是錯誤的，[拉](https://zh.wikipedia.org/wiki/拉_\(星門\) "wikilink")（[Ra](https://zh.wikipedia.org/wiki/:en:Goa'uld_characters_in_Stargate#Ra "wikilink")）並不是最后的一隻[寄生蟲](https://zh.wikipedia.org/wiki/寄生蟲_\(星門\) "wikilink")（[Goa'uld](https://zh.wikipedia.org/wiki/:en:Goa'uld "wikilink")）。新近成立的[星门总部](https://zh.wikipedia.org/wiki/星门总部 "wikilink")（[SGC](https://zh.wikipedia.org/wiki/:en:Stargate_Command "wikilink")）只好派出[第一支探险队](https://zh.wikipedia.org/wiki/星門一隊 "wikilink")（[SG-1](https://zh.wikipedia.org/wiki/:en:SG-1 "wikilink")）來繼續探險以獲取情報，看看有甚麼方法來徹底打敗敵人。这个剧集在电影上扩展，创造了一个完全而又丰富的[宇宙和一个强大的重现演员表](https://zh.wikipedia.org/wiki/:en:Series_Mythology "wikilink")。
 
 ## 外星角色大綱
 
@@ -31,34 +16,19 @@ ori过去从来没到过也不知道太阳系，丹尼尔和瓦拉通过古人�
 
 ## 演員
 
-*SG-1*的演员表相当的固定，但是也有一些变化。[:en:Michael
-Shanks在第五季末的时候离开了剧集并被](https://zh.wikipedia.org/wiki/:en:Michael_Shanks "wikilink")[:en:Corin
-Nemec](https://zh.wikipedia.org/wiki/:en:Corin_Nemec "wikilink")（饰[:en:Jonas
-Quinn](https://zh.wikipedia.org/wiki/:en:Jonas_Quinn "wikilink")）替换。Shanks在第七季的时候回归，Nemec的角色被取消。在第7季末，飾總部[Davis离开了节目](https://zh.wikipedia.org/wiki/:en:Don_S._Davis "wikilink")，[安德森填补了他的空缺](../Page/李察·狄恩·安德森.md "wikilink")。在第九季，[Anderson的离去很不得人心](https://zh.wikipedia.org/wiki/:en:Richard_Dean_Anderson "wikilink")，但是加入了新的常规演员[:en:Beau
-Bridges和](https://zh.wikipedia.org/wiki/:en:Beau_Bridges "wikilink")[:en:Ben
-Browder](https://zh.wikipedia.org/wiki/:en:Ben_Browder "wikilink")。在第8季的首次登场之后，跟着又在第九季中出现8集，[:en:Claudia
-Black的受到欢迎的反应](https://zh.wikipedia.org/wiki/:en:Claudia_Black "wikilink")\[4\]为她赢得了第10季中常规演员的位子。
+*SG-1*的演员表相当的固定，但是也有一些变化。[:en:Michael Shanks在第五季末的时候离开了剧集并被](https://zh.wikipedia.org/wiki/:en:Michael_Shanks "wikilink")[:en:Corin Nemec](https://zh.wikipedia.org/wiki/:en:Corin_Nemec "wikilink")（饰[:en:Jonas Quinn](https://zh.wikipedia.org/wiki/:en:Jonas_Quinn "wikilink")）替换。Shanks在第七季的时候回归，Nemec的角色被取消。在第7季末，飾總部[Davis离开了节目](https://zh.wikipedia.org/wiki/:en:Don_S._Davis "wikilink")，[安德森填补了他的空缺](../Page/李察·狄恩·安德森.md "wikilink")。在第九季，[Anderson的离去很不得人心](https://zh.wikipedia.org/wiki/:en:Richard_Dean_Anderson "wikilink")，但是加入了新的常规演员[:en:Beau Bridges和](https://zh.wikipedia.org/wiki/:en:Beau_Bridges "wikilink")[:en:Ben Browder](https://zh.wikipedia.org/wiki/:en:Ben_Browder "wikilink")。在第8季的首次登场之后，跟着又在第九季中出现8集，[:en:Claudia Black的受到欢迎的反应](https://zh.wikipedia.org/wiki/:en:Claudia_Black "wikilink")\[4\]为她赢得了第10季中常规演员的位子。
 
 ## 製作
 
-[米高梅平均为每一集付出](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")$140万[美元](../Page/美元.md "wikilink")，并且将其定为他们最重要的授权经营项目\[5\]。它在许多场合赢得了[土星獎](../Page/土星獎.md "wikilink")（Saturn
-Awards）的*Best Syndicated Television
-Series*奖，它的演员也因为优秀的演出赢得了类似的奖项。\[6\]最近该剧因视觉效果得质量和真实度有所提高而赢得了称赞（因为它获得了大量的预算）。\[7\]
+[米高梅平均为每一集付出](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")$140万[美元](../Page/美元.md "wikilink")，并且将其定为他们最重要的授权经营项目\[5\]。它在许多场合赢得了[土星獎](../Page/土星獎.md "wikilink")（Saturn Awards）的*Best Syndicated Television Series*奖，它的演员也因为优秀的演出赢得了类似的奖项。\[6\]最近该剧因视觉效果得质量和真实度有所提高而赢得了称赞（因为它获得了大量的预算）。\[7\]
 
 ## 剧集
 
 ## 收視
 
-*Stargate
-SG-1*被证明很受欢迎。在6到8季间，这个剧集反复地被认为要结束，但是打分一直保持很高，这让这个剧集打破了纪录（超过''[X档案](../Page/X档案.md "wikilink")成为运行时间最长的[美国](../Page/美国.md "wikilink")科幻剧集）并进入了第十季。
+*Stargate SG-1*被证明很受欢迎。在6到8季间，这个剧集反复地被认为要结束，但是打分一直保持很高，这让这个剧集打破了纪录（超过''[X档案](../Page/X档案.md "wikilink")成为运行时间最长的[美国](../Page/美国.md "wikilink")科幻剧集）并进入了第十季。
 
-在2006年8月21日，[:en:Sci Fi
-Channel频道宣布他们可能不会更新](https://zh.wikipedia.org/wiki/:en:Sci_Fi_Channel "wikilink")*Stargate
-SG-1*新的第11季，因为他在[:en:Nielsen
-Ratings](https://zh.wikipedia.org/wiki/:en:Nielsen_Ratings "wikilink")（美国的一**收视率**系统--译者注）上的一连串的糟糕表现。\[8\]很多fans被这个新闻激怒了，甚至开了反对的网站来展示他们对该剧的评价。\[9\]该剧的发言人说所有能让*SG-1*继续下去的选择都考虑过了，包括完全数位化播放。\[10\]执行制片[:en:Robert
-C.
-Cooper专门地告诉影迷的网站](https://zh.wikipedia.org/wiki/:en:Robert_C._Cooper "wikilink")[:en:GateWorld说他在做工作以让](https://zh.wikipedia.org/wiki/:en:GateWorld "wikilink")*SG-1*继续下去。\[11\]对目前来说，没有电视网或者公司订购了*SG-1*的新集，所以剧集被暂停直到找到新的買主。但是SciFi尝试以他们与米高梅的原始唯一合同阻止其他的电视网取得这个节目。\[12\]作为对Sci-Fi宣布取消*SG-1*的回应，一个社团网站（见[\#外部链接](https://zh.wikipedia.org/wiki/#外部链接 "wikilink")）被建立来说服Sci-Fi更新这个节目。
-[Earth_patch.png](https://zh.wikipedia.org/wiki/File:Earth_patch.png "fig:Earth_patch.png")
+在2006年8月21日，[:en:Sci Fi Channel频道宣布他们可能不会更新](https://zh.wikipedia.org/wiki/:en:Sci_Fi_Channel "wikilink")*Stargate SG-1*新的第11季，因为他在[:en:Nielsen Ratings](https://zh.wikipedia.org/wiki/:en:Nielsen_Ratings "wikilink")（美国的一**收视率**系统--译者注）上的一连串的糟糕表现。\[8\]很多fans被这个新闻激怒了，甚至开了反对的网站来展示他们对该剧的评价。\[9\]该剧的发言人说所有能让*SG-1*继续下去的选择都考虑过了，包括完全数位化播放。\[10\]执行制片[:en:Robert C. Cooper专门地告诉影迷的网站](https://zh.wikipedia.org/wiki/:en:Robert_C._Cooper "wikilink")[:en:GateWorld说他在做工作以让](https://zh.wikipedia.org/wiki/:en:GateWorld "wikilink")*SG-1*继续下去。\[11\]对目前来说，没有电视网或者公司订购了*SG-1*的新集，所以剧集被暂停直到找到新的買主。但是SciFi尝试以他们与米高梅的原始唯一合同阻止其他的电视网取得这个节目。\[12\]作为对Sci-Fi宣布取消*SG-1*的回应，一个社团网站（见[\#外部链接](https://zh.wikipedia.org/wiki/#外部链接 "wikilink")）被建立来说服Sci-Fi更新这个节目。 [Earth_patch.png](https://zh.wikipedia.org/wiki/File:Earth_patch.png "fig:Earth_patch.png")
 
 ## 参考文献
 
@@ -69,24 +39,11 @@ Cooper专门地告诉影迷的网站](https://zh.wikipedia.org/wiki/:en:Robert_C
   - 在[mgm.com上的](https://zh.wikipedia.org/wiki/MGM "wikilink")[官方網站](http://stargate.mgm.com/view/series/1/index.html)
   - 在[syfy.com上的](https://zh.wikipedia.org/wiki/SyFy "wikilink")[官方網站](http://www.syfy.com/stargate/)
 
-[Category:1990年電視劇集](https://zh.wikipedia.org/wiki/Category:1990年電視劇集 "wikilink")
-[Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink")
-[Category:電影改編電視劇](https://zh.wikipedia.org/wiki/Category:電影改編電視劇 "wikilink")
-[Category:美國科幻電視劇](https://zh.wikipedia.org/wiki/Category:美國科幻電視劇 "wikilink")
-[Category:1990年代特摄作品](https://zh.wikipedia.org/wiki/Category:1990年代特摄作品 "wikilink")
-[Category:加拿大科幻電視劇](https://zh.wikipedia.org/wiki/Category:加拿大科幻電視劇 "wikilink")
-[Category:Showtime電視節目](https://zh.wikipedia.org/wiki/Category:Showtime電視節目 "wikilink")
-[Category:Syfy電視節目](https://zh.wikipedia.org/wiki/Category:Syfy電視節目 "wikilink")
-[Category:星際之門](https://zh.wikipedia.org/wiki/Category:星際之門 "wikilink")
-[Category:太空冒險電視劇](https://zh.wikipedia.org/wiki/Category:太空冒險電視劇 "wikilink")
-[Category:埃及神話題材作品](https://zh.wikipedia.org/wiki/Category:埃及神話題材作品 "wikilink")
+[Category:1990年電視劇集](https://zh.wikipedia.org/wiki/Category:1990年電視劇集 "wikilink") [Category:美國劇情電視劇](https://zh.wikipedia.org/wiki/Category:美國劇情電視劇 "wikilink") [Category:電影改編電視劇](https://zh.wikipedia.org/wiki/Category:電影改編電視劇 "wikilink") [Category:美國科幻電視劇](https://zh.wikipedia.org/wiki/Category:美國科幻電視劇 "wikilink") [Category:1990年代特摄作品](https://zh.wikipedia.org/wiki/Category:1990年代特摄作品 "wikilink") [Category:加拿大科幻電視劇](https://zh.wikipedia.org/wiki/Category:加拿大科幻電視劇 "wikilink") [Category:Showtime電視節目](https://zh.wikipedia.org/wiki/Category:Showtime電視節目 "wikilink") [Category:Syfy電視節目](https://zh.wikipedia.org/wiki/Category:Syfy電視節目 "wikilink") [Category:星際之門](https://zh.wikipedia.org/wiki/Category:星際之門 "wikilink") [Category:太空冒險電視劇](https://zh.wikipedia.org/wiki/Category:太空冒險電視劇 "wikilink") [Category:埃及神話題材作品](https://zh.wikipedia.org/wiki/Category:埃及神話題材作品 "wikilink")
 
 1.
-2.  Peter DeLuise (director), Damian Kindler, Michael Shanks and Peter
-    DeLuise (writers). "Evolution". Stargate SG-1. Season 7. Episode 11
-    and 12. Sci Fi Channel and Sky One.
-3.  Peter Woeste (director), Robert C. Cooper (writer). "Zero Hour".
-    Stargate SG-1. Season 8. Episode 4. Sci Fi Channel.
+2.  Peter DeLuise (director), Damian Kindler, Michael Shanks and Peter DeLuise (writers). "Evolution". Stargate SG-1. Season 7. Episode 11 and 12. Sci Fi Channel and Sky One.
+3.  Peter Woeste (director), Robert C. Cooper (writer). "Zero Hour". Stargate SG-1. Season 8. Episode 4. Sci Fi Channel.
 4.
 5.
 6.

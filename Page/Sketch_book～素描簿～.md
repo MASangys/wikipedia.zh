@@ -1,13 +1,8 @@
-《**Sketch book～素描簿～**》（）是所畫的[四格漫畫](../Page/四格漫畫.md "wikilink")。於[Mag
-Garden的雜誌](../Page/Mag_Garden.md "wikilink")「[COMIC
-BLADE](https://zh.wikipedia.org/wiki/COMIC_BLADE "wikilink")」2002年4月號（創刊號）開始連載，亦有在COMIC
-BLADE的臨時增刊「COMIC BLADE
-MASAMUNE」的2003年1月號刊登。2007年10月1日開始播放動畫《**Sketchbook
-～full color's～**》。
+《**Sketch book～素描簿～**》（）是所畫的[四格漫畫](../Page/四格漫畫.md "wikilink")。於[Mag Garden的雜誌](../Page/Mag_Garden.md "wikilink")「[COMIC BLADE](https://zh.wikipedia.org/wiki/COMIC_BLADE "wikilink")」2002年4月號（創刊號）開始連載，亦有在COMIC BLADE的臨時增刊「COMIC BLADE MASAMUNE」的2003年1月號刊登。2007年10月1日開始播放動畫《**Sketchbook ～full color's～**》。
 
 ## 概要
 
-  - 剛上高中的梶原空在迷惘要入哪個學部，偶然到美術部參觀後也就順勢加入了。以[福岡市為舞台](../Page/福岡市.md "wikilink")\[1\]，描寫有個性的美術部員們熱熱鬧鬧的日常瑣事。雖然也有橫跨幾個四格來展開的故事，但基本上都是一個四格內完結。另外本作中有[貓等多種動物登場](https://zh.wikipedia.org/wiki/貓 "wikilink")，而且在分鏡漫畫中亦有以貓咪們為主角的章節。
+  - 剛上高中的梶原空在迷惘要入哪個學部，偶然到美術部參觀後也就順勢加入了。以[福岡市](../Page/福岡市.md "wikilink")為舞台\[1\]，描寫有個性的美術部員們熱熱鬧鬧的日常瑣事。雖然也有橫跨幾個四格來展開的故事，但基本上都是一個四格內完結。另外本作中有[貓等多種動物登場](https://zh.wikipedia.org/wiki/貓 "wikilink")，而且在分鏡漫畫中亦有以貓咪們為主角的章節。
   - 故事題材多為作者小箱本人的親身經歷\[2\]。
 
 ## 登場人物
@@ -30,7 +25,7 @@ MASAMUNE」的2003年1月號刊登。2007年10月1日開始播放動畫《**Sket
 <!-- end list -->
 
   -
-    身高156cm。9月1日出生，血型O型，姓氏不明。金色長直髮。1年10組的學生。在空她們入部一段時間後才加入美術部。性格開朗率直，某些時候會露出相當糊塗的一面。雖然是[加拿大出身的外國人](../Page/加拿大.md "wikilink")，但懂一定程度的日文，也有一部份的日文甚至比日本人更瞭解。因此，在劇中凱特幾乎都在與日文或日本文化有關的情節中登場。養著一隻叫「波波」的「[波斯貓](../Page/波斯貓.md "wikilink")」。
+    身高156cm。9月1日出生，血型O型，姓氏不明。金色長直髮。1年10組的學生。在空她們入部一段時間後才加入美術部。性格開朗率直，某些時候會露出相當糊塗的一面。雖然是[加拿大](../Page/加拿大.md "wikilink")出身的外國人，但懂一定程度的日文，也有一部份的日文甚至比日本人更瞭解。因此，在劇中凱特幾乎都在與日文或日本文化有關的情節中登場。養著一隻叫「波波」的「[波斯貓](../Page/波斯貓.md "wikilink")」。
 
 ### 二、三年級部員
 
@@ -95,7 +90,7 @@ MASAMUNE」的2003年1月號刊登。2007年10月1日開始播放動畫《**Sket
 <!-- end list -->
 
   -
-    身高162cm。12月10日出生，血型是A型，24歲。美術部的顧問，美術部後來才加入的第2位美術部顧問。髮型是剪齊的短髮並呈扇形散開。特技是[魔術](../Page/魔術.md "wikilink")，[腹語術和投擲撲克亦擅長](../Page/腹語術.md "wikilink")。常[打瞌睡](../Page/睡眠.md "wikilink")，無論在哪裏都能睡著。與涼風搭檔在到作為舞台的學校任教前已經認識，被兩人敬慕為「師傅」。養著一隻名叫咕咕的[鳩鴿](https://zh.wikipedia.org/wiki/鳩鴿 "wikilink")。動畫版中只在最終回的片尾曲中登場。
+    身高162cm。12月10日出生，血型是A型，24歲。美術部的顧問，美術部後來才加入的第2位美術部顧問。髮型是剪齊的短髮並呈扇形散開。特技是[魔術](../Page/魔術.md "wikilink")，[腹語術](../Page/腹語術.md "wikilink")和投擲撲克亦擅長。常[打瞌睡](../Page/睡眠.md "wikilink")，無論在哪裏都能睡著。與涼風搭檔在到作為舞台的學校任教前已經認識，被兩人敬慕為「師傅」。養著一隻名叫咕咕的[鳩鴿](https://zh.wikipedia.org/wiki/鳩鴿 "wikilink")。動畫版中只在最終回的片尾曲中登場。
 
 ### 其他
 
@@ -210,17 +205,13 @@ MASAMUNE」的2003年1月號刊登。2007年10月1日開始播放動畫《**Sket
 ## 主要舞台
 
   - 高中學校
-    男女校，男女制服都有[西式上衣](https://zh.wikipedia.org/wiki/西式上衣 "wikilink")。附近靠近大自然，路上有[蛙到處亂跳](https://zh.wikipedia.org/wiki/無尾目 "wikilink")，夏天晚上有[螢光蟲飛舞](https://zh.wikipedia.org/wiki/螢光蟲 "wikilink")。有[蒼耳和](https://zh.wikipedia.org/wiki/蒼耳 "wikilink")[薏苡等自生於草叢中](../Page/薏苡.md "wikilink")。動畫是以取材協力校的[福岡縣立太宰府高等學校](https://zh.wikipedia.org/wiki/福岡縣立太宰府高等學校 "wikilink")、[雜餉隈附近](https://zh.wikipedia.org/wiki/雜餉隈 "wikilink")（特別是雜餉隈2號閘道（[美食城](https://zh.wikipedia.org/wiki/美食城 "wikilink")）附近一帶）的風景及[西鐵](../Page/西日本鐵道.md "wikilink")[天神大牟田線](https://zh.wikipedia.org/wiki/西鐵天神大牟田線 "wikilink")、[西鐵巴士沿線的風景](https://zh.wikipedia.org/wiki/西鐵巴士 "wikilink")（[志免碳礦](https://zh.wikipedia.org/wiki/志免礦業所堅坑櫓 "wikilink")、[築紫平野等](https://zh.wikipedia.org/wiki/築紫平野 "wikilink")）附近一帶來作取景場地。
+    男女校，男女制服都有[西式上衣](https://zh.wikipedia.org/wiki/西式上衣 "wikilink")。附近靠近大自然，路上有[蛙到處亂跳](https://zh.wikipedia.org/wiki/無尾目 "wikilink")，夏天晚上有[螢光蟲飛舞](https://zh.wikipedia.org/wiki/螢光蟲 "wikilink")。有[蒼耳和](https://zh.wikipedia.org/wiki/蒼耳 "wikilink")[薏苡](../Page/薏苡.md "wikilink")等自生於草叢中。動畫是以取材協力校的[福岡縣立太宰府高等學校](https://zh.wikipedia.org/wiki/福岡縣立太宰府高等學校 "wikilink")、[雜餉隈附近](https://zh.wikipedia.org/wiki/雜餉隈 "wikilink")（特別是雜餉隈2號閘道（[美食城](https://zh.wikipedia.org/wiki/美食城 "wikilink")）附近一帶）的風景及[西鐵](../Page/西日本鐵道.md "wikilink")[天神大牟田線](https://zh.wikipedia.org/wiki/西鐵天神大牟田線 "wikilink")、[西鐵巴士沿線的風景](https://zh.wikipedia.org/wiki/西鐵巴士 "wikilink")（[志免碳礦](https://zh.wikipedia.org/wiki/志免礦業所堅坑櫓 "wikilink")、[築紫平野等](https://zh.wikipedia.org/wiki/築紫平野 "wikilink")）附近一帶來作取景場地。
   - 美術部
     基本上美術部的活動都在美術室裏進行。因此，活動總是由收拾排好放著的桌子開始。
 
 ## 漫畫
 
-原著[單行本由Mag](https://zh.wikipedia.org/wiki/單行本 "wikilink")
-Garden發行，中文版由台灣東立出版。「公差篇」只收錄了數頁四格漫畫，大部份內容收錄分鏡漫畫
-。另外，在日本與第4卷同時發售的《小箱とたん作品集 SCORE BOOK～記分簿～》（原著：ISBN
-978-4-86127-427-5、中文：ISBN
-978-986-10-1413-5）收錄了短篇漫畫特集《土龍》，這亦非四格漫畫，而是分鏡漫畫。
+原著[單行本由Mag](https://zh.wikipedia.org/wiki/單行本 "wikilink") Garden發行，中文版由台灣東立出版。「公差篇」只收錄了數頁四格漫畫，大部份內容收錄分鏡漫畫 。另外，在日本與第4卷同時發售的《小箱とたん作品集 SCORE BOOK～記分簿～》（原著：ISBN 978-4-86127-427-5、中文：ISBN 978-986-10-1413-5）收錄了短篇漫畫特集《土龍》，這亦非四格漫畫，而是分鏡漫畫。
 
 <table>
 <thead>
@@ -317,10 +308,9 @@ ISBN 978-4-80000-296-9<small>（限定版）</small></p></td>
 
 ## 電視動畫
 
-從2007年10月起至同年12月止在[東京電視台播映](../Page/東京電視台.md "wikilink")，節目名為《》（）。內容由原作的章節加上1話完結的原創故事構成，全13話。動畫版特別追加了新角色——根岸大地的妹妹「根岸水面」。另外，雖然動畫版中的高中取材自[福岡縣立太宰府高等學校](https://zh.wikipedia.org/wiki/福岡縣立太宰府高等學校 "wikilink")，但福岡縣的[東京電視網成員台](../Page/東京電視網.md "wikilink")（[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")）並沒有播放動畫版\[7\]。
+從2007年10月起至同年12月止在[東京電視台](../Page/東京電視台.md "wikilink")播映，節目名為《》（）。內容由原作的章節加上1話完結的原創故事構成，全13話。動畫版特別追加了新角色——根岸大地的妹妹「根岸水面」。另外，雖然動畫版中的高中取材自[福岡縣立太宰府高等學校](https://zh.wikipedia.org/wiki/福岡縣立太宰府高等學校 "wikilink")，但福岡縣的[東京電視網](../Page/東京電視網.md "wikilink")成員台（[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")）並沒有播放動畫版\[7\]。
 
-[DVD版全](https://zh.wikipedia.org/wiki/DVD "wikilink")6卷已發行，各卷收錄了原作故事Picture
-Drama作為映像特典\[8\]。
+[DVD版全](https://zh.wikipedia.org/wiki/DVD "wikilink")6卷已發行，各卷收錄了原作故事Picture Drama作為映像特典\[8\]。
 
 ### 製作人員
 
@@ -337,11 +327,9 @@ Drama作為映像特典\[8\]。
   - 音響監督：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音響制作：[樂音舎](https://zh.wikipedia.org/wiki/樂音舎 "wikilink")
   - 音樂：[村松健](https://zh.wikipedia.org/wiki/村松健 "wikilink")
-  - 音樂制作：[JVC
-    Entertainment](https://zh.wikipedia.org/wiki/JVC_Entertainment "wikilink")
+  - 音樂制作：[JVC Entertainment](https://zh.wikipedia.org/wiki/JVC_Entertainment "wikilink")
   - 音樂協力：[東京電視台Music](https://zh.wikipedia.org/wiki/東京電視台Music "wikilink")
-  - 動畫制作：[HAL FILM
-    MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
+  - 動畫制作：[HAL FILM MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
   - 製作：full color's
 
 ### 主題歌
@@ -552,19 +540,11 @@ Drama作為映像特典\[8\]。
 
   - [動畫官方網站](http://www.mag-garden.co.jp/sketchbook/index.html)
   - [動畫blog](http://www.mag-garden.co.jp/sketchbook/blog/)
-  - [Sketchbook ～ full color's
-    ～（東京電視台）](http://www.tv-tokyo.co.jp/anime/sketch-full/)
+  - [Sketchbook ～ full color's ～（東京電視台）](http://www.tv-tokyo.co.jp/anime/sketch-full/)
   - [安利美特TV](http://www.animate.tv/pv/listtxt_g.php#radio)
   - [メディファクラジオ](http://www.mediafactory.co.jp/animation/a101.html)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Mag_Garden](https://zh.wikipedia.org/wiki/Category:Mag_Garden "wikilink")
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:2007年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年東京電視網動畫 "wikilink")
-[Category:福岡縣背景作品](https://zh.wikipedia.org/wiki/Category:福岡縣背景作品 "wikilink")
-[Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink")
-[Category:AT-X製作動畫](https://zh.wikipedia.org/wiki/Category:AT-X製作動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Mag_Garden](https://zh.wikipedia.org/wiki/Category:Mag_Garden "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:2007年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年東京電視網動畫 "wikilink") [Category:福岡縣背景作品](https://zh.wikipedia.org/wiki/Category:福岡縣背景作品 "wikilink") [Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink") [Category:AT-X製作動畫](https://zh.wikipedia.org/wiki/Category:AT-X製作動畫 "wikilink")
 
 1.  『Sketch book Prefect workbook』，第94頁。
 

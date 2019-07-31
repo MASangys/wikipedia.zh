@@ -1,5 +1,4 @@
-《**任性 date
-show**》（）是[日本配音員](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")[新谷良子](../Page/新谷良子.md "wikilink")的第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。連續三個月發售的單曲中的第一彈。商品編號為LACM-4104。
+《**任性 date show**》（）是[日本配音員](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")[新谷良子](../Page/新谷良子.md "wikilink")的第一張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。連續三個月發售的單曲中的第一彈。商品編號為LACM-4104。
 
 ## 收錄曲
 
@@ -11,8 +10,6 @@ show**》（）是[日本配音員](https://zh.wikipedia.org/wiki/日本配音�
 
 ## 外部連結
 
-[任性 date
-show](http://lantis.jp/new-release/data.php?id=f973406464feb850922213cf5b0a36ae)（Lantis上的介紹）
+[任性 date show](http://lantis.jp/new-release/data.php?id=f973406464feb850922213cf5b0a36ae)（Lantis上的介紹）
 
-[Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink")
-[Category:新谷良子單曲](https://zh.wikipedia.org/wiki/Category:新谷良子單曲 "wikilink")
+[Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:新谷良子單曲](https://zh.wikipedia.org/wiki/Category:新谷良子單曲 "wikilink")

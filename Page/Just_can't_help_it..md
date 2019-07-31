@@ -1,15 +1,10 @@
-《**Just can't help it.**》（，*Just can't help
-it.*）是[東京事變](../Page/東京事變.md "wikilink")的第五張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2006年9月6日發行。發行當週即賣出3.0萬張，總計銷售額5.1萬張，名列2006年年度銷售榜第30位。初回限定為「Digipak紙盒仕樣」。
+《**Just can't help it.**》（，*Just can't help it.*）是[東京事變](../Page/東京事變.md "wikilink")的第五張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2006年9月6日發行。發行當週即賣出3.0萬張，總計銷售額5.1萬張，名列2006年年度銷售榜第30位。初回限定為「Digipak紙盒仕樣」。
 
 ## 簡介
 
-此張DVD是收錄東京事變《"DOMESTIC\!" Just can't help it.》
-巡迴演唱會的其中一站，於2006年5月26日在[NHK會館](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")（NHK
-HALL）所舉行的，其演唱的歌曲及幕後花絮。
+此張DVD是收錄東京事變《"DOMESTIC\!" Just can't help it.》 巡迴演唱會的其中一站，於2006年5月26日在[NHK會館](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")（NHK HALL）所舉行的，其演唱的歌曲及幕後花絮。
 
-演唱會中的新曲「Mirror
-Ball」、翻唱林檎給友阪理惠「機器少女」和「停電」於8月21日開始接受線上下載的服務\[1\]，同一天也成立了DVD特設網站
-。在日本09月6日發行DVD，台灣則是等到09月26日才發行進口盤\[2\]。
+演唱會中的新曲「Mirror Ball」、翻唱林檎給友阪理惠「機器少女」和「停電」於8月21日開始接受線上下載的服務\[1\]，同一天也成立了DVD特設網站 。在日本09月6日發行DVD，台灣則是等到09月26日才發行進口盤\[2\]。
 
 ## 曲目
 
@@ -160,14 +155,11 @@ Just can't help it.</p></td>
 
 ## 演唱會簡介
 
-《**"DOMESTIC\!" Just can't help
-it.**》為二期東京事變第一次巡迴演出，總共在十六個城市舉辦二十一場的演唱會，場場皆吸引爆滿的觀眾前往感受東京事變的魅力。
+《**"DOMESTIC\!" Just can't help it.**》為二期東京事變第一次巡迴演出，總共在十六個城市舉辦二十一場的演唱會，場場皆吸引爆滿的觀眾前往感受東京事變的魅力。
 
 演唱會演唱的曲目以第二張專輯《大人》為主，演唱會的開場便是日本傳統樂的歌曲雪國，身穿和服的林檎，抓住了眾人的目光，還有服務這首歌，全體團員拿著大聲公演唱，中途搭配上團員們台上換裝的片段，帶起一波高潮。而演唱會利用投影的方式，搭配團員們的的動作與歌曲的內容，讓人驚嘆，像是中場時，鼓手刄田綴色憑空踢球的效果，還有臉孔這首歌時，鋼琴手伊澤在鋼琴獨奏時，便把改編的英文版本歌詞投影至舞台，這種投影的效果，不但提高了演唱會的可看性，更增加了與台下觀眾互動的機會。
 
-另外由於椎名林檎在專輯《大人》發行接受訪問中提到「今後，她想要專心作詞和演唱，作曲則會交給其他成員
-\[15\]。」因此，在巡迴演唱會上發表了浮雲所創作的曲目「Mirror
-Ball」，藉此希望之後的活動能以團員的創作曲目為中心\[16\]。
+另外由於椎名林檎在專輯《大人》發行接受訪問中提到「今後，她想要專心作詞和演唱，作曲則會交給其他成員 \[15\]。」因此，在巡迴演唱會上發表了浮雲所創作的曲目「Mirror Ball」，藉此希望之後的活動能以團員的創作曲目為中心\[16\]。
 
 ### 演出成員
 
@@ -438,8 +430,7 @@ Ball」，藉此希望之後的活動能以團員的創作曲目為中心\[16\]�
 
 ### 參考資料
 
-[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
-[Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
+[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
 
 1.
 

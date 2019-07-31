@@ -1,6 +1,4 @@
-**蕭敬騰同名專輯**是[蕭敬騰](../Page/蕭敬騰.md "wikilink")首張國語專輯，由華納音樂發行。專輯由當今歌壇一線音樂人共同打造，包括了五月天的[阿信](../Page/五月天.md "wikilink")、FIR的[阿沁](https://zh.wikipedia.org/wiki/F.I.R. "wikilink")、蘇打綠的[青峰](../Page/蘇打綠.md "wikilink")、[曹格](../Page/曹格.md "wikilink")、宋念宇（小宇），名製作人[李偉菘](../Page/李偉菘.md "wikilink")
-、[李偲菘](../Page/李偲菘.md "wikilink")、陳偉、馬毓芬等，蕭敬騰也在新專輯中創作了「海芋戀」和「一輩子存在」。2008年8月1日發行的**First
-Live影音限定版**則同步收錄了蕭敬騰於2008年7月6日台北[淡水漁人碼頭](../Page/淡水漁人碼頭.md "wikilink")舉辦的【同名專輯新歌發表會】戶外萬人演唱會的Live版CD以及實況影音DVD。
+**蕭敬騰同名專輯**是[蕭敬騰](../Page/蕭敬騰.md "wikilink")首張國語專輯，由華納音樂發行。專輯由當今歌壇一線音樂人共同打造，包括了五月天的[阿信](../Page/五月天.md "wikilink")、FIR的[阿沁](https://zh.wikipedia.org/wiki/F.I.R. "wikilink")、蘇打綠的[青峰](../Page/蘇打綠.md "wikilink")、[曹格](../Page/曹格.md "wikilink")、宋念宇（小宇），名製作人[李偉菘](../Page/李偉菘.md "wikilink") 、[李偲菘](../Page/李偲菘.md "wikilink")、陳偉、馬毓芬等，蕭敬騰也在新專輯中創作了「海芋戀」和「一輩子存在」。2008年8月1日發行的**First Live影音限定版**則同步收錄了蕭敬騰於2008年7月6日台北[淡水漁人碼頭](../Page/淡水漁人碼頭.md "wikilink")舉辦的【同名專輯新歌發表會】戶外萬人演唱會的Live版CD以及實況影音DVD。
 
 ## 曲目
 
@@ -11,8 +9,7 @@ Live影音限定版**則同步收錄了蕭敬騰於2008年7月6日台北[淡水�
 2.  **王子的新衣**
     詞曲：Andreas Hemmeth / Linnea Handberg / 改編詞：陳鎮川 / 製作人：李偲菘
 3.  **原諒我**
-    詞：[阿沁](https://zh.wikipedia.org/wiki/F.I.R. "wikilink")、陳天佑、吳易緯 /
-    曲：F.I.R.|阿沁 / 製作人：李偉菘
+    詞：[阿沁](https://zh.wikipedia.org/wiki/F.I.R. "wikilink")、陳天佑、吳易緯 / 曲：F.I.R.|阿沁 / 製作人：李偉菘
 4.  **奮不顧身**
     詞：鄔裕康 / 作曲：[曹格](../Page/曹格.md "wikilink") / 製作人：馬毓芬
 5.  **疼愛** (紅麴黑麥汁廣告曲)
@@ -64,8 +61,7 @@ Live影音限定版**則同步收錄了蕭敬騰於2008年7月6日台北[淡水�
 
 ## 銷售記錄
 
-  - 2008年7月30日
-    於網路拍賣推出999張中英文簽名專輯22分鐘完售\[1\]，經歌迷連署加碼999張後再行開拍僅2分26秒即銷售一空[1](http://goods.ruten.com.tw/item/history?11080802997533#detail)，創下該拍賣網站與藝人合作專案紀錄。
+  - 2008年7月30日 於網路拍賣推出999張中英文簽名專輯22分鐘完售\[1\]，經歌迷連署加碼999張後再行開拍僅2分26秒即銷售一空[1](http://goods.ruten.com.tw/item/history?11080802997533#detail)，創下該拍賣網站與藝人合作專案紀錄。
   - 改版發行首週奪得各大銷售排行榜冠軍
 
 <!-- end list -->
@@ -92,9 +88,6 @@ Live影音限定版**則同步收錄了蕭敬騰於2008年7月6日台北[淡水�
   - [華納線上音樂雜誌](https://web.archive.org/web/20100126145744/http://www.warnermusic.com.tw/index.asp)
   - [占士邦－蕭敬騰官方網站](http://www.jamsclub.net/)
 
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:蕭敬騰音樂專輯](https://zh.wikipedia.org/wiki/Category:蕭敬騰音樂專輯 "wikilink")
+[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:蕭敬騰音樂專輯](https://zh.wikipedia.org/wiki/Category:蕭敬騰音樂專輯 "wikilink")
 
-1.  [蕭敬騰網拍簽名專輯 今晚7點開賣 22分鐘賣光
-    連署再加賣](http://1-apple.com.tw/index.cfm?Fuseaction=Article&Art_ID=30824235&IssueID=20080806)（2008年8月6日引用）
+1.  [蕭敬騰網拍簽名專輯 今晚7點開賣 22分鐘賣光 連署再加賣](http://1-apple.com.tw/index.cfm?Fuseaction=Article&Art_ID=30824235&IssueID=20080806)（2008年8月6日引用）

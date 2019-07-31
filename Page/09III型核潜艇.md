@@ -2,11 +2,9 @@
 
 2007年7月下旬，09III型核潜艇的模型在中国人民解放军建军80周年展览上展出。随后，[中国中央电视台](../Page/中国中央电视台.md "wikilink")播出了中央军委主席[胡锦涛](../Page/胡锦涛.md "wikilink")为新型核潜艇入役授军旗仪式的画面，证明09III型核潜艇首艇已正式服役并形成战斗力\[1\]。《现代舰船》杂志于2007年8月号刊登了该型艇的首张清晰照片。2009年5月18日，[新华社](../Page/新华社.md "wikilink")正式发表文章宣布中国第2代核潜艇已进入中国海军服役\[2\]。2015年4月26日中國海軍09III型核潜艇在[亞丁灣巡航](https://zh.wikipedia.org/wiki/亞丁灣 "wikilink")，並與中國海軍的護航艦艇組成編隊航行，任務持續時間長達2個多月\[3\]。
 
-2016年6月23日英国《简氏防务周刊》报道，中国的网络论坛公布的一张照片显示，新型093型核动力攻击潜艇改进了指挥台围壳和其他部分，旨在降低牵引和噪音。报道称，尚不清楚这艘潜艇在解放军海军商级潜艇计划中的确切地位。几个月前，美国五角大楼向国会递交的2016年度《中国军事与安全发展态势报告》称，这个
-东亚国家在继续增强其核动力攻击潜艇力量，在已经服役的两艘商级核动力攻击潜艇基础上，最终还将有四艘同级别核潜艇加入\[4\]。
+2016年6月23日英国《简氏防务周刊》报道，中国的网络论坛公布的一张照片显示，新型093型核动力攻击潜艇改进了指挥台围壳和其他部分，旨在降低牵引和噪音。报道称，尚不清楚这艘潜艇在解放军海军商级潜艇计划中的确切地位。几个月前，美国五角大楼向国会递交的2016年度《中国军事与安全发展态势报告》称，这个 东亚国家在继续增强其核动力攻击潜艇力量，在已经服役的两艘商级核动力攻击潜艇基础上，最终还将有四艘同级别核潜艇加入\[4\]。
 
-2016年6月25日据印尼Metro
-TV报道，解放军南海舰队潜舰编队当天通过马六甲海峡。编队包括攻击核潜艇409艇、导弹护卫舰运城舰和远洋打捞救生船永兴岛号\[5\]。
+2016年6月25日据印尼Metro TV报道，解放军南海舰队潜舰编队当天通过马六甲海峡。编队包括攻击核潜艇409艇、导弹护卫舰运城舰和远洋打捞救生船永兴岛号\[5\]。
 
 2018年1月11日，日本海上自卫队P-3C巡逻机在宫古岛东北（钓鱼岛附近）水域发现一艘093A型攻击核潜艇，并拍下其浮出水面、悬挂中国国旗航行的照片\[6\]；同年4月12日，两艘093基本型\[7\]，与两艘093A型攻击核潜艇参与了海军南海阅舰式，与094A战略核潜艇同框出现在媒体镜头里\[8\]\[9\]。
 
@@ -38,9 +36,7 @@ TV报道，解放军南海舰队潜舰编队当天通过马六甲海峡。编队
 
 2015年2月，中国造船厂疑似已经完成了三艘093G攻击型核动力潜艇的建造工作，开始服役。图片显示的093G核潜艇安装了垂直发射系统，可实现全向攻击\[19\]。
 
-2015年4月，美国媒体热炒093G装备的新型“鹰击-18”反舰巡航导弹\[20\]，引发国际媒体的全面关注：此导弹采用垂直发射，为引进俄罗斯“俱乐部-S”反舰导弹的克隆版，最大射程220公里，前180公里采用亚音速巡航，末端40公里弹头将以超音速撞向目标，美国海军承认“现役海上拦截系统非常难以拦截此种导弹”；据报道，除093G攻击性核潜艇之外，039A型(“元”级)常规潜艇和052D型驱逐舰，均装备了该型导弹，美国《War
-On The
-Rocks》报道称：“鹰击-18导弹能够对美国海军的宙斯盾作战系统构成严重威胁，该距离超出了航母战斗群的“作战范围”，舰艇在这种距离内完全不堪一击。”\[21\]
+2015年4月，美国媒体热炒093G装备的新型“鹰击-18”反舰巡航导弹\[20\]，引发国际媒体的全面关注：此导弹采用垂直发射，为引进俄罗斯“俱乐部-S”反舰导弹的克隆版，最大射程220公里，前180公里采用亚音速巡航，末端40公里弹头将以超音速撞向目标，美国海军承认“现役海上拦截系统非常难以拦截此种导弹”；据报道，除093G攻击性核潜艇之外，039A型(“元”级)常规潜艇和052D型驱逐舰，均装备了该型导弹，美国《War On The Rocks》报道称：“鹰击-18导弹能够对美国海军的宙斯盾作战系统构成严重威胁，该距离超出了航母战斗群的“作战范围”，舰艇在这种距离内完全不堪一击。”\[21\]
 
 2016年11月，媒体报道：“鹰击-18导弹并非此前猜测的重型反舰导弹，而是可以从稍加改进的鹰击-83发射器内发射。其射程可能为400公里左右，而不是500公里以上；战斗部重量可能在200-250千克，而不是300千克以上。许多现役舰艇都可以装备鹰击-18导弹，而不是只有052D、093B核潜艇等少数舰艇才能携带。”\[22\]。但很快，媒体又报道说：原先被“误认为”鹰击-18导弹发射装置，实为鱼-11型反潜导弹\[23\]。
 
@@ -87,19 +83,15 @@ Rocks》报道称：“鹰击-18导弹能够对美国海军的宙斯盾作战系
 
 ## 外部链接
 
-  - [Shang Class Nuclear-Powered Attack
-    Submarine](http://www.military-today.com/navy/shang_class.htm)
+  - [Shang Class Nuclear-Powered Attack Submarine](http://www.military-today.com/navy/shang_class.htm)
 
   - [GlobalSecurity.org](http://www.globalsecurity.org/military/world/china/type-93.htm)
 
-  - [Sinodefence page on the
-    Type 093](https://web.archive.org/web/20091030001009/http://www.sinodefence.com/navy/sub/type093shang.asp)
+  - [Sinodefence page on the Type 093](https://web.archive.org/web/20091030001009/http://www.sinodefence.com/navy/sub/type093shang.asp)
 
   - [093“商”级攻击型核潜艇](http://war.news.163.com/09/0408/18/56D8B66F00011232.html)
 
-[Category:中国人民解放军海军潜艇](https://zh.wikipedia.org/wiki/Category:中国人民解放军海军潜艇 "wikilink")
-[Category:核动力潜艇](https://zh.wikipedia.org/wiki/Category:核动力潜艇 "wikilink")
-[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
+[Category:中国人民解放军海军潜艇](https://zh.wikipedia.org/wiki/Category:中国人民解放军海军潜艇 "wikilink") [Category:核动力潜艇](https://zh.wikipedia.org/wiki/Category:核动力潜艇 "wikilink") [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
 
 1.  [深海蓝鲨—中国海军091，093型攻击核潜艇（二）](http://war.163.com/09/0725/22/5F3P8GRF00011232_2.html)
 
@@ -107,8 +99,7 @@ Rocks》报道称：“鹰击-18导弹能够对美国海军的宙斯盾作战系
 
 3.  [央视证实我海军核潜艇近日完成亚丁湾护航返回青岛](http://www.guancha.cn/military-affairs/2015_04_27_317393.shtml)
 
-4.  [英媒曝疑似中国093G导弹核潜艇
-    可载巡航导弹](http://mil.news.sina.com.cn/china/2016-06-25/doc-ifxtmwei9281375.shtml)
+4.  [英媒曝疑似中国093G导弹核潜艇 可载巡航导弹](http://mil.news.sina.com.cn/china/2016-06-25/doc-ifxtmwei9281375.shtml)
 
 5.  [中国海军潜舰编队通过马六甲海峡](http://slide.mil.news.sina.com.cn/h/slide_8_203_43355.html#p=1)
 
@@ -116,16 +107,13 @@ Rocks》报道称：“鹰击-18导弹能够对美国海军的宙斯盾作战系
 
 7.  [具体到舰！详解南海大阅兵中国海军八个编队](http://slide.mil.news.sina.com.cn/h/slide_8_203_62673.html?cre=picpagepc&mod=picg&loc=1&r=0&doct=0&rfunc=32&tj=none#p=2)
 
-8.  [习近平检阅海上编队
-    含48艘战舰76架战机](http://news.sina.com.cn/o/2018-04-12/doc-ifyzeyqc1907780.shtml)
+8.  [习近平检阅海上编队 含48艘战舰76架战机](http://news.sina.com.cn/o/2018-04-12/doc-ifyzeyqc1907780.shtml)
 
 9.  [南海阅兵海军7个作战群48艘战舰亮相:有哪些类型?](http://news.sina.com.cn/o/2018-04-12/doc-ifyzeyqc2349700.shtml)
 
-10. [国内某港神盾舰054A舰云集
-    多条大黑鱼特抢眼](http://slide.mil.news.sina.com.cn/h/slide_8_203_43150.html#p=4)
+10. [国内某港神盾舰054A舰云集 多条大黑鱼特抢眼](http://slide.mil.news.sina.com.cn/h/slide_8_203_43150.html#p=4)
 
-11. [深度：印度紧张中国核潜艇频繁进印度洋
-    急租俄核潜艇](http://mil.news.sina.com.cn/2015-11-03/1656842957.html)
+11. [深度：印度紧张中国核潜艇频繁进印度洋 急租俄核潜艇](http://mil.news.sina.com.cn/2015-11-03/1656842957.html)
 
 12. [央視-093G照片曝光](http://news.cntv.cn/2015/03/29/VIDE1427644536028556.shtml)
 
@@ -133,26 +121,22 @@ Rocks》报道称：“鹰击-18导弹能够对美国海军的宙斯盾作战系
 
 14. [深度：中国同时改装3艘093B核潜艇 2艘正进行海试](http://mil.news.sina.com.cn/china/2016-07-27/doc-ifxuhukz1133226.shtml)
 
-15. [深度：093B核潜艇可主动攻击越南基洛
-    将大造12艘](http://mil.news.sina.com.cn/jssd/2016-10-02/doc-ifxwkzyh4104671.shtml)
+15. [深度：093B核潜艇可主动攻击越南基洛 将大造12艘](http://mil.news.sina.com.cn/jssd/2016-10-02/doc-ifxwkzyh4104671.shtml)
 
 16.
 17.
 18. [央視-093改亮相](http://news.cntv.cn/2015/02/17/VIDE1424147403372448.shtml)
 
-19. [093G核潜艇换垂发可360°攻击
-    领先俄奥斯卡](http://news.ifeng.com/a/20150331/43452742_0.shtml)
+19. [093G核潜艇换垂发可360°攻击 领先俄奥斯卡](http://news.ifeng.com/a/20150331/43452742_0.shtml)
 
 20. [美军赞中国新导弹完美：飞行末端突然提速没法拦](http://mil.news.sina.com.cn/2015-04-15/1222827917.html?from=wap)
 
 21. [美媒称中国鹰击18导弹让美军舰艇不堪一击](http://mil.news.sina.com.cn/2015-04-08/1625827158.html)
 
-22. [鹰击18首露真容
-    现役战舰均可装备非052D专属(图)](http://mil.news.sina.com.cn/china/2016-11-20/doc-ifxxwrwk1502325.shtml)
+22. [鹰击18首露真容 现役战舰均可装备非052D专属(图)](http://mil.news.sina.com.cn/china/2016-11-20/doc-ifxxwrwk1502325.shtml)
 
 23. [让美日潜艇沉海底！中国曝光疑似鱼11反潜导弹](http://slide.mil.news.sina.com.cn/h/slide_8_203_46729.html#p=1)
 
-24. [中国新研水下杀手露面
-    射程从42公里猛增至600公里](http://mil.news.sina.com.cn/jssd/2018-01-26/doc-ifyqyuhy6587428.shtml)
+24. [中国新研水下杀手露面 射程从42公里猛增至600公里](http://mil.news.sina.com.cn/jssd/2018-01-26/doc-ifyqyuhy6587428.shtml)
 
 25. [中国公布三款“重量级”武器：展现中国军事威慑力量](http://mil.news.sina.com.cn/jssd/2018-04-22/doc-ifznefkh6294750.shtml)

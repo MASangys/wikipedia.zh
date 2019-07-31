@@ -1,12 +1,8 @@
-**NBA个人单赛季平均得分记录**列出[NBA赛季的](../Page/NBA.md "wikilink")[例行赛中单赛季平均得分最高的球员](https://zh.wikipedia.org/wiki/NBA例行赛 "wikilink")。
+**NBA个人单赛季平均得分记录**列出[NBA](../Page/NBA.md "wikilink")赛季的[例行赛中单赛季平均得分最高的球员](https://zh.wikipedia.org/wiki/NBA例行赛 "wikilink")。
 
 球员必需在当赛季[例行赛的上场次数达到至少](https://zh.wikipedia.org/wiki/NBA例行赛 "wikilink")70场或者总得分超过1400分，满足两个条件中的一个才有资格被列入统计。[1979-80年赛季起NBA首设三分线](https://zh.wikipedia.org/wiki/1979-80_NBA赛季 "wikilink")。
 
-[Wilt_Chamberlain3.jpg](https://zh.wikipedia.org/wiki/File:Wilt_Chamberlain3.jpg "fig:Wilt_Chamberlain3.jpg")的单赛季平均得分超过**40分**和**50分**\]\]
-[Elgin_Baylor_Night_program.jpeg](https://zh.wikipedia.org/wiki/File:Elgin_Baylor_Night_program.jpeg "fig:Elgin_Baylor_Night_program.jpeg")於1960-1963年连续三个赛季平均得分达**34分**或以上，但仍然不能成为[得分王](../Page/NBA历届得分王.md "wikilink")\]\]
-[Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")是20世纪唯一的[後卫能做到单赛季平均得分超过](https://zh.wikipedia.org/wiki/後卫 "wikilink")**35分**\]\]
-[Allen_Iverson_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Allen_Iverson_Lipofsky.jpg "fig:Allen_Iverson_Lipofsky.jpg")是21世纪首位单赛季平均得分超过**30分**的球员（[2000-01年赛季](https://zh.wikipedia.org/wiki/2000-01_NBA赛季 "wikilink")）\]\]
-[Kobe_Bryant_Drives2.jpg](https://zh.wikipedia.org/wiki/File:Kobe_Bryant_Drives2.jpg "fig:Kobe_Bryant_Drives2.jpg")是21世纪首位单赛季平均得分超过**35分**的球员（[2005-06年赛季](https://zh.wikipedia.org/wiki/2005-06_NBA赛季 "wikilink")）\]\]
+[Wilt_Chamberlain3.jpg](https://zh.wikipedia.org/wiki/File:Wilt_Chamberlain3.jpg "fig:Wilt_Chamberlain3.jpg")的单赛季平均得分超过**40分**和**50分**\]\] [Elgin_Baylor_Night_program.jpeg](https://zh.wikipedia.org/wiki/File:Elgin_Baylor_Night_program.jpeg "fig:Elgin_Baylor_Night_program.jpeg")於1960-1963年连续三个赛季平均得分达**34分**或以上，但仍然不能成为[得分王](../Page/NBA历届得分王.md "wikilink")\]\] [Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")是20世纪唯一的[後卫能做到单赛季平均得分超过](https://zh.wikipedia.org/wiki/後卫 "wikilink")**35分**\]\] [Allen_Iverson_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Allen_Iverson_Lipofsky.jpg "fig:Allen_Iverson_Lipofsky.jpg")是21世纪首位单赛季平均得分超过**30分**的球员（[2000-01年赛季](https://zh.wikipedia.org/wiki/2000-01_NBA赛季 "wikilink")）\]\] [Kobe_Bryant_Drives2.jpg](https://zh.wikipedia.org/wiki/File:Kobe_Bryant_Drives2.jpg "fig:Kobe_Bryant_Drives2.jpg")是21世纪首位单赛季平均得分超过**35分**的球员（[2005-06年赛季](https://zh.wikipedia.org/wiki/2005-06_NBA赛季 "wikilink")）\]\]
 
 | 排名                                                                | 赛季                                                                | 球员                                                                    | 球队                                                                                           | 上场次数  | 两分球   | [三分球](../Page/三分球.md "wikilink") | [罚球](https://zh.wikipedia.org/wiki/罚球_\(籃球\) "wikilink") | 总得分      | 平均得分     |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----- | ----- | -------------------------------- | -------------------------------------------------------- | -------- | -------- |
@@ -48,9 +44,7 @@
 
 ## 数据来源
 
-  - [Basketball-Reference.com Season Leaders for
-    Points](http://www.basketball-reference.com/leaders/PTS_season.html)
-  - [Basketball-Reference.com Season Leaders for Points Per
-    Game](http://www.basketball-reference.com/leaders/PPG_season.html)
+  - [Basketball-Reference.com Season Leaders for Points](http://www.basketball-reference.com/leaders/PTS_season.html)
+  - [Basketball-Reference.com Season Leaders for Points Per Game](http://www.basketball-reference.com/leaders/PPG_season.html)
 
 [Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")

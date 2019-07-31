@@ -15,9 +15,6 @@
 
 ## 外部連結
 
-  - [The KCalc
-    Handbook](http://docs.kde.org/stable/en/kdeutils/kcalc/index.html)
+  - [The KCalc Handbook](http://docs.kde.org/stable/en/kdeutils/kcalc/index.html)
 
-[Category:自由教育軟件](https://zh.wikipedia.org/wiki/Category:自由教育軟件 "wikilink")
-[Category:KDE应用](https://zh.wikipedia.org/wiki/Category:KDE应用 "wikilink")
-[Category:软件计算器](https://zh.wikipedia.org/wiki/Category:软件计算器 "wikilink")
+[Category:自由教育軟件](https://zh.wikipedia.org/wiki/Category:自由教育軟件 "wikilink") [Category:KDE应用](https://zh.wikipedia.org/wiki/Category:KDE应用 "wikilink") [Category:软件计算器](https://zh.wikipedia.org/wiki/Category:软件计算器 "wikilink")

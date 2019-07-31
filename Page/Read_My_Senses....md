@@ -1,21 +1,15 @@
-《**Read My
-Senses...**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[精選專輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，發行於2007年6月25日，為王菀之在[環球唱片的最後一張唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。封面及內頁照片均由已故攝影師JC（[鄭智聰](https://zh.wikipedia.org/wiki/鄭智聰 "wikilink")）拍攝。
-大碟中除了《The Girl From
-Ipanema》外，所有歌曲均由王菀之作曲。專輯包括一隻CD和一隻DVD，CD中收錄了五首新歌、十二首精選歌曲及一首Hidden
-Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《真心話》、《面具》、《重見家圓》及《是一個誤會沒什麼可悲》。
+《**Read My Senses...**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[精選專輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，發行於2007年6月25日，為王菀之在[環球唱片的最後一張唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。封面及內頁照片均由已故攝影師JC（[鄭智聰](https://zh.wikipedia.org/wiki/鄭智聰 "wikilink")）拍攝。
+大碟中除了《The Girl From Ipanema》外，所有歌曲均由王菀之作曲。專輯包括一隻CD和一隻DVD，CD中收錄了五首新歌、十二首精選歌曲及一首Hidden Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《真心話》、《面具》、《重見家圓》及《是一個誤會沒什麼可悲》。
 
 ## 曲目
 
 ## 製作人員名單
 
 出自《Read My Senses...》「簡約再生」系列版本專輯內頁。\[1\]
-**音樂**
+  **音樂**
 
-  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
-    <small>(所有歌曲)</small>、作曲 <small>(1-17)</small>、作詞
-    <small>(2、4-8、11-12、15-17)</small>、和音 <small>(1-3、15)</small>
-  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(1、5-13)</small>、所有樂器
-    <small>(1)</small>
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音 <small>(所有歌曲)</small>、作曲 <small>(1-17)</small>、作詞 <small>(2、4-8、11-12、15-17)</small>、和音 <small>(1-3、15)</small>
+  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(1、5-13)</small>、所有樂器 <small>(1)</small>
   - [林夕](../Page/林夕.md "wikilink") – 作詞 <small>(1、9、10、13)</small>
   - 盧永亨 – 作詞 <small>(3)</small>
   - 馮志麗 – 作詞 <small>(14)</small>
@@ -24,8 +18,7 @@ Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《�
   - [柳重言](../Page/柳重言.md "wikilink") – 編曲 <small>(14)</small>
   - [伍仲衡](../Page/伍仲衡.md "wikilink") – 編曲 <small>(16)</small>
   - 謝浩文 – 編曲 <small>(17)</small>、GTR <small>(1)</small>
-  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") – 主音
-    <small>(7)</small>
+  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") – 主音 <small>(7)</small>
   - Terry Chan – 低音吉他 <small>(2)</small>
   - Ronald Fu – 編曲 <small>(15)</small>、所有樂器 <small>(15)</small>
   - Norman Gimbel – 作詞 <small>(18)</small>
@@ -35,8 +28,7 @@ Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《�
   - Leslie Ryang – 小提琴 <small>(15)</small>
   - Melchior Sarreal – 鼓 <small>(2)</small>
   - So Tak Wah – 吉他 <small>(2)</small>
-  - [Johnny Yim](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink") –
-    編曲 <small>(3)</small>、鍵盤 <small>(3)</small>
+  - [Johnny Yim](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink") – 編曲 <small>(3)</small>、鍵盤 <small>(3)</small>
 
 **形像及設計**
 
@@ -52,8 +44,7 @@ Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《�
   - 馮翰銘 – 監製 <small>(1、5-13、15)</small>、錄音 <small>(1、15)</small>
   - 柳重言 – 監製 <small>(14)</small>
   - 伍仲衡 – 監製 <small>(16)</small>
-  - 謝浩文 – 監製 <small>(17)</small>、混音 <small>(1、17)</small>、錄音
-    <small>(17)</small>
+  - 謝浩文 – 監製 <small>(17)</small>、混音 <small>(1、17)</small>、錄音 <small>(17)</small>
   - 羅莉 – 後期製作
   - ray@ray.com.hk – 混音 <small>(15)</small>
   - Ryan – 錄音 <small>(2-3)</small>
@@ -116,8 +107,7 @@ Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《�
 
 ## 參考資料
 
-[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
+[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
 
 1.
 2.   搜尋王菀之

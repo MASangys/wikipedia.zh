@@ -1,4 +1,4 @@
-《**Fullani**》（）是[Leaf在](../Page/Leaf.md "wikilink")2006年7月28日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。
+《**Fullani**》（）是[Leaf](../Page/Leaf.md "wikilink")在2006年7月28日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。
 
 ## 慨要
 
@@ -6,9 +6,7 @@
 
 ## 故事
 
-非常喜歡[網路遊戲的青年](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")
-**諸角勇**，某天也如常地埋首於電腦
-時，住在鄰房的[青梅竹馬](../Page/青梅竹馬.md "wikilink")**倫子**弄錯了房間。一如往常地當倫子要往回去的時候卻發生了意外，突然而來的閃電使房內的屏幕發出白光，兩人失去意識。
+非常喜歡[網路遊戲的青年](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink") **諸角勇**，某天也如常地埋首於電腦 時，住在鄰房的[青梅竹馬](../Page/青梅竹馬.md "wikilink")**倫子**弄錯了房間。一如往常地當倫子要往回去的時候卻發生了意外，突然而來的閃電使房內的屏幕發出白光，兩人失去意識。
 
 當勇醒回來的時候，眼前出現的是自己剛才一直沉迷其中的，網路遊戲的世界……
 
@@ -16,7 +14,7 @@
 
   -
     主角。超級網路遊戲迷。某日由於突然而來的雷擊而墮入自己正在遊玩的遊戲世界，變成「勇者大人」而去拯救公主。
-    雖然公式網頁的設定是住在6[疊](../Page/疊蓆.md "wikilink")1間（約9.7平方公尺的房間）的[公寓裏的窮學生](../Page/公寓.md "wikilink")，實際上他的房間是8疊（約13平方公尺），而且看起來最少也有約4倍大面積的頗大房間。除此之外，房屋也是有8層高的[大樓](https://zh.wikipedia.org/wiki/大樓 "wikilink")（根據[國土交通省的定義](../Page/國土交通省.md "wikilink")，超過3層高的[大廈不叫做](https://zh.wikipedia.org/wiki/大廈 "wikilink")「公寓」）。
+    雖然公式網頁的設定是住在6[疊](../Page/疊蓆.md "wikilink")1間（約9.7平方公尺的房間）的[公寓](../Page/公寓.md "wikilink")裏的窮學生，實際上他的房間是8疊（約13平方公尺），而且看起來最少也有約4倍大面積的頗大房間。除此之外，房屋也是有8層高的[大樓](https://zh.wikipedia.org/wiki/大樓 "wikilink")（根據[國土交通省](../Page/國土交通省.md "wikilink")的定義，超過3層高的[大廈不叫做](https://zh.wikipedia.org/wiki/大廈 "wikilink")「公寓」）。
   -
     住在勇鄰家的[青梅竹馬](../Page/青梅竹馬.md "wikilink")、同校的女生。健康開朗，經常纏著主角。跟勇一起墮進遊戲世界，在那裏變成了公主，但倫子卻完全失去了記憶。
   -
@@ -42,8 +40,7 @@
   - 音樂：松岡純也、石川真也
   - 麻雀引擎製作：株式會社童
   - 動畫角色設計、[作畫監督](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")：
-  - 動畫製作：、[京江ANIA](https://zh.wikipedia.org/wiki/京江ANIA "wikilink")、[Chaos
-    Project等](https://zh.wikipedia.org/wiki/Chaos_Project "wikilink")
+  - 動畫製作：、[京江ANIA](https://zh.wikipedia.org/wiki/京江ANIA "wikilink")、[Chaos Project等](https://zh.wikipedia.org/wiki/Chaos_Project "wikilink")
 
 ## 主題歌
 
@@ -58,11 +55,6 @@
 
 ## 外部連結
 
-  - [Leaf OFFICIAL
-    WEBSITE（需確認年齡）](http://leaf.aquaplus.co.jp/product/fullani/)
+  - [Leaf OFFICIAL WEBSITE（需確認年齡）](http://leaf.aquaplus.co.jp/product/fullani/)
 
-
-[Category:Leaf](https://zh.wikipedia.org/wiki/Category:Leaf "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
+[Category:Leaf](https://zh.wikipedia.org/wiki/Category:Leaf "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")

@@ -1,12 +1,10 @@
-**J·P·豪厄爾（James Phillip Howell，）**
-，出生地為[莫德斯托](https://zh.wikipedia.org/wiki/莫德斯托 "wikilink")。
+**J·P·豪厄爾（James Phillip Howell，）** ，出生地為[莫德斯托](https://zh.wikipedia.org/wiki/莫德斯托 "wikilink")。
 
 ## 生平
 
   - 豪厄爾在2005年升上大聯盟，15場出賽皆為[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")，只拿下3勝5敗、[防禦率](https://zh.wikipedia.org/wiki/防禦率 "wikilink")6.19的不佳成績。
   - 2006年6月11日，豪厄爾被交易到[坦帕灣光芒](../Page/坦帕灣光芒.md "wikilink")隊。
-  - 2009年，代表美國隊參加[2009年世界棒球經典賽](../Page/2009年世界棒球經典賽.md "wikilink")。該年由於球隊終結者[Troy
-    Percival受傷](https://zh.wikipedia.org/wiki/Troy_Percival "wikilink")，豪厄爾成為球隊的終結者。
+  - 2009年，代表美國隊參加[2009年世界棒球經典賽](../Page/2009年世界棒球經典賽.md "wikilink")。該年由於球隊終結者[Troy Percival受傷](https://zh.wikipedia.org/wiki/Troy_Percival "wikilink")，豪厄爾成為球隊的終結者。
   - 2013年加入洛杉磯道奇隊 背號56
 
 ## 職業生涯成績
@@ -25,12 +23,8 @@
 ## 外部連結
 
   -
-  - [Page at *Baseball
-    Reference*](http://www.baseball-reference.com/h/howeljp01.shtml)
+  - [Page at *Baseball Reference*](http://www.baseball-reference.com/h/howeljp01.shtml)
 
   - <http://sports.yahoo.com/mlb/players/7572/news>
 
-[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
-[Category:堪薩斯市皇家隊球員](https://zh.wikipedia.org/wiki/Category:堪薩斯市皇家隊球員 "wikilink")
-[Category:坦帕灣光芒隊球員](https://zh.wikipedia.org/wiki/Category:坦帕灣光芒隊球員 "wikilink")
-[Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink")
+[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink") [Category:堪薩斯市皇家隊球員](https://zh.wikipedia.org/wiki/Category:堪薩斯市皇家隊球員 "wikilink") [Category:坦帕灣光芒隊球員](https://zh.wikipedia.org/wiki/Category:坦帕灣光芒隊球員 "wikilink") [Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink")

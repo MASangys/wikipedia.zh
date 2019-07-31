@@ -1,5 +1,4 @@
-《**ZEGAPAIN**》（），[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作的[機器人動畫](../Page/機器人動畫.md "wikilink")，於2006年4月至9月間在[東京電視台](../Page/東京電視台.md "wikilink")播放，並於同年推出兩款[Xbox
-360平台的遊戲](../Page/Xbox_360.md "wikilink")。由于民间[字幕组工作人员理解偏差](https://zh.wikipedia.org/wiki/字幕组 "wikilink")，而导致该作标题被误翻成《机器人》。
+《**ZEGAPAIN**》（），[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作的[機器人動畫](../Page/機器人動畫.md "wikilink")，於2006年4月至9月間在[東京電視台](../Page/東京電視台.md "wikilink")播放，並於同年推出兩款[Xbox 360平台的遊戲](../Page/Xbox_360.md "wikilink")。由于民间[字幕组工作人员理解偏差](https://zh.wikipedia.org/wiki/字幕组 "wikilink")，而导致该作标题被误翻成《机器人》。
 
 ## 故事簡介
 
@@ -417,10 +416,4 @@
   - [ZEGAPAIN官方網站](http://www.zegapain.net/)
   - [東京電視台ZEGAPAIN官方網站](http://ani.tv/zegapain/)
 
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink")
-[Category:千葉縣背景作品](https://zh.wikipedia.org/wiki/Category:千葉縣背景作品 "wikilink")
-[Category:文明崩潰後世界題材作品](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2006年東京電視網動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink") [Category:千葉縣背景作品](https://zh.wikipedia.org/wiki/Category:千葉縣背景作品 "wikilink") [Category:文明崩潰後世界題材作品](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

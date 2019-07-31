@@ -1,5 +1,4 @@
-**NOTAM**是英語「給飛行員通知」（Notice To
-Airmen）的[縮寫](../Page/首字母縮略字.md "wikilink")，是由本地的航空部門根據[芝加哥條約第](https://zh.wikipedia.org/wiki/芝加哥條約 "wikilink")15條中關於航空資信服務的格式發出，作用為通知飛行員該空域或機場的特別安排、臨時規定及運作程序的改變等。
+**NOTAM**是英語「給飛行員通知」（Notice To Airmen）的[縮寫](../Page/首字母縮略字.md "wikilink")，是由本地的航空部門根據[芝加哥條約第](https://zh.wikipedia.org/wiki/芝加哥條約 "wikilink")15條中關於航空資信服務的格式發出，作用為通知飛行員該空域或機場的特別安排、臨時規定及運作程序的改變等。
 
 ## 發出的原因
 
@@ -72,8 +71,7 @@ NOTAM的目的：代替2006年發出的第1212號NOTAM
 
 狀況：關閉（ICAO編碼表中為LC）
 
-適用飛機：[儀器飛行](https://zh.wikipedia.org/wiki/儀器飛行 "wikilink")（IFR，ICAO編碼表中I）和
-[目視飛行](https://zh.wikipedia.org/wiki/目視飛行 "wikilink")（VFR，ICAO編碼表中V）
+適用飛機：[儀器飛行](https://zh.wikipedia.org/wiki/儀器飛行 "wikilink")（IFR，ICAO編碼表中I）和 [目視飛行](https://zh.wikipedia.org/wiki/目視飛行 "wikilink")（VFR，ICAO編碼表中V）
 
 目的：希望航空公司或飛航營運者即時的注意（ICAO編碼表中N）
 
@@ -100,7 +98,6 @@ NOTAM適用的範圍：5 NM（海浬）
 ## 外部链接
 
   - [NOTAM on Skybrary](http://www.skybrary.aero/index.php/NOTAM)
-  - [US
-    NOTAMS](https://web.archive.org/web/20081023142711/https://www.notams.jcs.mil/)
+  - [US NOTAMS](https://web.archive.org/web/20081023142711/https://www.notams.jcs.mil/)
 
 [Category:航空交通管制](https://zh.wikipedia.org/wiki/Category:航空交通管制 "wikilink")

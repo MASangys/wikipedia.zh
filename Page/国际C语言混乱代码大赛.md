@@ -1,14 +1,10 @@
-**国际C语言混乱代码大赛**（IOCCC, The International Obfuscated C Code
-Contest）是一项国际[程式設計赛事](https://zh.wikipedia.org/wiki/程式設計 "wikilink")。从1984年开始，本赛事每年举办一次（1997年、1999年、2002年、2003年和2006年例外）\[1\]。本赛事的目的是写出最有创意和最让人难以理解的[C语言代碼](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
+**国际C语言混乱代码大赛**（IOCCC, The International Obfuscated C Code Contest）是一项国际[程式設計赛事](https://zh.wikipedia.org/wiki/程式設計 "wikilink")。从1984年开始，本赛事每年举办一次（1997年、1999年、2002年、2003年和2006年例外）\[1\]。本赛事的目的是写出最有创意和最让人难以理解的[C语言代碼](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
 從線上提交开始，作品需要經過好幾回合的裁判審核。评判作品的标准基於濫用混亂代碼的程度（以及濫用程度的創造性）。通過最後一輪審核的作品會被歸成特別的一類以示嘉獎，例如「最濫用C[预處理器](https://zh.wikipedia.org/wiki/预處理器 "wikilink")」或者「最古怪的行為」，並且發表在官方IOCCC網站。获胜作品将被公示于IOCCC网站，并以此作为奖赏。
 
 ## 歷史
 
-IOCCC是由[藍登·克特·諾爾](https://zh.wikipedia.org/wiki/藍登·克特·諾爾 "wikilink")（Landon
-Curt Noll）與[拉里·貝索](https://zh.wikipedia.org/wiki/拉里·貝索 "wikilink")（Larry
-Bassel）在1984年受雇於[國家半導體](https://zh.wikipedia.org/wiki/國家半導體 "wikilink")（National
-Semiconductor）的[Genix程式移植事業群時開始的](https://zh.wikipedia.org/wiki/Genix "wikilink")。比賽的點子是來自他們倆比較彼此有關於它們得修正的某些寫得很爛的程式碼筆記\[2\]。
+IOCCC是由[藍登·克特·諾爾](https://zh.wikipedia.org/wiki/藍登·克特·諾爾 "wikilink")（Landon Curt Noll）與[拉里·貝索](https://zh.wikipedia.org/wiki/拉里·貝索 "wikilink")（Larry Bassel）在1984年受雇於[國家半導體](https://zh.wikipedia.org/wiki/國家半導體 "wikilink")（National Semiconductor）的[Genix程式移植事業群時開始的](https://zh.wikipedia.org/wiki/Genix "wikilink")。比賽的點子是來自他們倆比較彼此有關於它們得修正的某些寫得很爛的程式碼筆記\[2\]。
 
 ## 規則
 
@@ -41,9 +37,7 @@ Semiconductor）的[Genix程式移植事業群時開始的](https://zh.wikipedia
 
 ### 計算圓周率
 
-下-{面}-是1988年參賽作品：透過自己佔的[面積來計算](https://zh.wikipedia.org/wiki/面積 "wikilink")[圓周率](../Page/圓周率.md "wikilink")\[10\]，該作品是以[K\&R
-C寫成](https://zh.wikipedia.org/wiki/K&R_C "wikilink")；代碼得做些小修改才能在[ANSI
-C下執行](../Page/ANSI_C.md "wikilink")\[11\]。
+下-{面}-是1988年參賽作品：透過自己佔的[面積來計算](https://zh.wikipedia.org/wiki/面積 "wikilink")[圓周率](../Page/圓周率.md "wikilink")\[10\]，該作品是以[K\&R C寫成](https://zh.wikipedia.org/wiki/K&R_C "wikilink")；代碼得做些小修改才能在[ANSI C下執行](../Page/ANSI_C.md "wikilink")\[11\]。
 
 ``` c
  #define _ -F<00||--F-OO--;
@@ -148,36 +142,27 @@ C下執行](../Page/ANSI_C.md "wikilink")\[11\]。
 
   - [IOCCC網站](http://www.ioccc.org)
 
-[Category:C语言](https://zh.wikipedia.org/wiki/Category:C语言 "wikilink")
-[Category:幽默與諷刺獎項](https://zh.wikipedia.org/wiki/Category:幽默與諷刺獎項 "wikilink")
-[Category:程序设计竞赛](https://zh.wikipedia.org/wiki/Category:程序设计竞赛 "wikilink")
+[Category:C语言](https://zh.wikipedia.org/wiki/Category:C语言 "wikilink") [Category:幽默與諷刺獎項](https://zh.wikipedia.org/wiki/Category:幽默與諷刺獎項 "wikilink") [Category:程序设计竞赛](https://zh.wikipedia.org/wiki/Category:程序设计竞赛 "wikilink")
 
 1.  [国际C语言混乱代码大赛年度網頁](http://www0.us.ioccc.org/years.html)
 
 2.  [1](http://www.ioccc.org/faq.html)
 
-3.  [IOCCC 2004 - Best Calculated
-    Risk](http://www.ioccc.org/2004/burley.hint)
+3.  [IOCCC 2004 - Best Calculated Risk](http://www.ioccc.org/2004/burley.hint)
 
-4.  [IOCCC 2004 - Best abuse of the Periodic
-    table](http://www.ioccc.org/2004/jdalbec.hint)
+4.  [IOCCC 2004 - Best abuse of the Periodic table](http://www.ioccc.org/2004/jdalbec.hint)
 
-5.  [IOCCC 2004 - Best abuse of
-    Indentation](http://www.ioccc.org/2004/sds.hint)
+5.  [IOCCC 2004 - Best abuse of Indentation](http://www.ioccc.org/2004/sds.hint)
 
-6.  [IOCCC 2004 - Best Abuse of
-    CPP](http://www.ioccc.org/2004/vik2.hint)
+6.  [IOCCC 2004 - Best Abuse of CPP](http://www.ioccc.org/2004/vik2.hint)
 
 7.
 8.
 
 9.
 
-10. [5th International Obfuscated C Code Contest, 1988 -
-    westley.c](http://www0.us.ioccc.org/years.html#1988)
+10. [5th International Obfuscated C Code Contest, 1988 - westley.c](http://www0.us.ioccc.org/years.html#1988)
 
-11. 使用gcc情況下，以下面命令行進行編譯：gcc -traditional-cpp -o r r.c或者gcc -E r.c | sed
-    's/- -/--/g' \> r2.c ; gcc -o r2 r2.c（原始碼檔案是r.c）
+11. 使用gcc情況下，以下面命令行進行編譯：gcc -traditional-cpp -o r r.c或者gcc -E r.c | sed 's/- -/--/g' \> r2.c ; gcc -o r2 r2.c（原始碼檔案是r.c）
 
-12. [IOCCC Flight
-    Simulator](http://www.aerojockey.com/software/ioccc/index.html)
+12. [IOCCC Flight Simulator](http://www.aerojockey.com/software/ioccc/index.html)

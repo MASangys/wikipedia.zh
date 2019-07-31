@@ -1,20 +1,10 @@
-**CJK
-Unifonts**是[開放版權](https://zh.wikipedia.org/wiki/開放版權 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字型](../Page/字型.md "wikilink")，其中的明体
-(UMing)
-曾為大型[Linux發行版如](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")用作預設中文字型。
+**CJK Unifonts**是[開放版權](https://zh.wikipedia.org/wiki/開放版權 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字型](../Page/字型.md "wikilink")，其中的明体 (UMing) 曾為大型[Linux發行版如](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")用作預設中文字型。
 
 ## 緣起
 
-[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[自由軟件作者](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")**螢火飛**將[文鼎科技](../Page/文鼎科技.md "wikilink")釋出之[公眾授權](https://zh.wikipedia.org/wiki/公眾授權 "wikilink")（Public
-License）字型「文鼎上海宋」及「文鼎簡報宋」合併及增加[點陣字成為](https://zh.wikipedia.org/wiki/點陣字 "wikilink")**文鼎
-PL
-新宋**。居台德國人**高盛華**將之擴充，包括加入日文、韓文以及[開源香港常用中文字體計劃](../Page/開源香港常用中文字體計劃.md "wikilink")所造之[香港字而成](https://zh.wikipedia.org/wiki/香港字 "wikilink")**UMing**\[1\]，並將兩套楷書字體（「文鼎PL中楷」及「文鼎PL簡中楷」）合併成**UKai**，合稱**CJK
-Unifonts**。
+[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[自由軟件作者](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")**螢火飛**將[文鼎科技](../Page/文鼎科技.md "wikilink")釋出之[公眾授權](https://zh.wikipedia.org/wiki/公眾授權 "wikilink")（Public License）字型「文鼎上海宋」及「文鼎簡報宋」合併及增加[點陣字成為](https://zh.wikipedia.org/wiki/點陣字 "wikilink")**文鼎 PL 新宋**。居台德國人**高盛華**將之擴充，包括加入日文、韓文以及[開源香港常用中文字體計劃](../Page/開源香港常用中文字體計劃.md "wikilink")所造之[香港字而成](https://zh.wikipedia.org/wiki/香港字 "wikilink")**UMing**\[1\]，並將兩套楷書字體（「文鼎PL中楷」及「文鼎PL簡中楷」）合併成**UKai**，合稱**CJK Unifonts**。
 
-UMing使用了語言識別技術，用於不同語境時會顯示不同[字形](../Page/字形.md "wikilink")\[2\]。最新版本為
-0.2.20080216.1\[3\]；支援[Big5](https://zh.wikipedia.org/wiki/Big5 "wikilink")（加上7個「倚天字」\[4\]）、[GB2312-80](https://zh.wikipedia.org/wiki/GB2312-80 "wikilink")、[HKSCS-2004](../Page/香港增補字符集.md "wikilink")、[ISO
-8859](https://zh.wikipedia.org/wiki/ISO_8859 "wikilink")[-1](https://zh.wikipedia.org/wiki/ISO_8859-1 "wikilink"),[2](https://zh.wikipedia.org/wiki/ISO_8859-2 "wikilink"),[3](https://zh.wikipedia.org/wiki/ISO_8859-3 "wikilink"),[4](https://zh.wikipedia.org/wiki/ISO_8859-4 "wikilink"),[7](https://zh.wikipedia.org/wiki/ISO_8859-7 "wikilink"),[9](https://zh.wikipedia.org/wiki/ISO_8859-9 "wikilink"),[10](https://zh.wikipedia.org/wiki/ISO_8859-10 "wikilink"),[13](https://zh.wikipedia.org/wiki/ISO_8859-13 "wikilink"),[14](https://zh.wikipedia.org/wiki/ISO_8859-14 "wikilink"),[15](https://zh.wikipedia.org/wiki/ISO_8859-15 "wikilink")
-及[台灣方音符號](https://zh.wikipedia.org/wiki/台灣方言音符號 "wikilink")（設計給[台式閩南語及](https://zh.wikipedia.org/wiki/台式閩南語 "wikilink")[台式客語輸入法的符號](https://zh.wikipedia.org/wiki/台式客語 "wikilink")）\[5\]。
+UMing使用了語言識別技術，用於不同語境時會顯示不同[字形](../Page/字形.md "wikilink")\[2\]。最新版本為 0.2.20080216.1\[3\]；支援[Big5](https://zh.wikipedia.org/wiki/Big5 "wikilink")（加上7個「倚天字」\[4\]）、[GB2312-80](https://zh.wikipedia.org/wiki/GB2312-80 "wikilink")、[HKSCS-2004](../Page/香港增補字符集.md "wikilink")、[ISO 8859](https://zh.wikipedia.org/wiki/ISO_8859 "wikilink")[-1](https://zh.wikipedia.org/wiki/ISO_8859-1 "wikilink"),[2](https://zh.wikipedia.org/wiki/ISO_8859-2 "wikilink"),[3](https://zh.wikipedia.org/wiki/ISO_8859-3 "wikilink"),[4](https://zh.wikipedia.org/wiki/ISO_8859-4 "wikilink"),[7](https://zh.wikipedia.org/wiki/ISO_8859-7 "wikilink"),[9](https://zh.wikipedia.org/wiki/ISO_8859-9 "wikilink"),[10](https://zh.wikipedia.org/wiki/ISO_8859-10 "wikilink"),[13](https://zh.wikipedia.org/wiki/ISO_8859-13 "wikilink"),[14](https://zh.wikipedia.org/wiki/ISO_8859-14 "wikilink"),[15](https://zh.wikipedia.org/wiki/ISO_8859-15 "wikilink") 及[台灣方音符號](https://zh.wikipedia.org/wiki/台灣方言音符號 "wikilink")（設計給[台式閩南語及](https://zh.wikipedia.org/wiki/台式閩南語 "wikilink")[台式客語輸入法的符號](https://zh.wikipedia.org/wiki/台式客語 "wikilink")）\[5\]。
 
 ## UMing 問題
 
@@ -34,8 +24,7 @@ UMing使用了語言識別技術，用於不同語境時會顯示不同[字形](
 
 <references/>
 
-[Category:東亞字體](https://zh.wikipedia.org/wiki/Category:東亞字體 "wikilink")
-[Category:宋体](https://zh.wikipedia.org/wiki/Category:宋体 "wikilink")
+[Category:東亞字體](https://zh.wikipedia.org/wiki/Category:東亞字體 "wikilink") [Category:宋体](https://zh.wikipedia.org/wiki/Category:宋体 "wikilink")
 
 1.  <http://wiki.ubuntu-tw.org/index.php?title=UbuntuL10n>
 

@@ -1,6 +1,4 @@
-**KBS月火連續劇**（，舊稱：）是指[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")（KBS
-2TV）於[星期一及星期二播放的](../Page/星期一.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，放映時段是22:00至23:10（[KST](https://zh.wikipedia.org/wiki/KST "wikilink")）。此時段播放的劇集絕大多數是時裝劇，每套劇集大約16集，有時長達20集或短至2集。以下是KBS
-2TV歷年來所播放的劇集：
+**KBS月火連續劇**（，舊稱：）是指[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")（KBS 2TV）於[星期一](../Page/星期一.md "wikilink")及星期二播放的[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，放映時段是22:00至23:10（[KST](https://zh.wikipedia.org/wiki/KST "wikilink")）。此時段播放的劇集絕大多數是時裝劇，每套劇集大約16集，有時長達20集或短至2集。以下是KBS 2TV歷年來所播放的劇集：
 
 ## 劇集列表
 
@@ -1141,7 +1139,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Dream_High" title="wikilink">Dream High</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/金秀賢_(男演員).md" title="wikilink">金秀賢</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a>、<a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a>、<a href="https://zh.wikipedia.org/wiki/咸恩炡" title="wikilink">咸恩炡</a>、<a href="https://zh.wikipedia.org/wiki/IU" title="wikilink">IU</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">張祐榮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金秀賢_(男演員).md" title="wikilink">金秀賢</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a>、<a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="https://zh.wikipedia.org/wiki/咸恩炡" title="wikilink">咸恩炡</a>、<a href="https://zh.wikipedia.org/wiki/IU" title="wikilink">IU</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">張祐榮</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李應福.md" title="wikilink">李應福</a>、<a href="https://zh.wikipedia.org/wiki/毛完日" title="wikilink">毛完日</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴惠蓮.md" title="wikilink">朴惠蓮</a></p></td>
 <td style="text-align: center;"></td>
@@ -1954,9 +1952,9 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年7月29日－<br />
-2019年9月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/讓我聆聽你的歌" title="wikilink">讓我聆聽你的歌</a><br />
+<td style="text-align: center;"><p>2019年8月5日－<br />
+2019年9月24日</p></td>
+<td style="text-align: center;"><p><a href="../Page/讓我聆聽你的歌.md" title="wikilink">讓我聆聽你的歌</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/延宇振.md" title="wikilink">延宇振</a>、<a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a>、<a href="../Page/宋再臨.md" title="wikilink">宋再臨</a>、<a href="../Page/朴芝妍.md" title="wikilink">朴芝妍</a></p></td>
@@ -1965,14 +1963,14 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年9月－<br />
-2019年11月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朝鮮浪漫喜劇-綠豆傳" title="wikilink">朝鮮浪漫喜劇-綠豆傳</a><br />
+<td style="text-align: center;"><p>2019年9月30日－<br />
+2019年11月19日</p></td>
+<td style="text-align: center;"><p><a href="../Page/朝鮮浪漫喜劇–綠豆傳.md" title="wikilink">朝鮮浪漫喜劇–綠豆傳</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
-<td style="text-align: center;"><p><a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a>、<a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
 <td style="text-align: center;"><p>金東輝</p></td>
-<td style="text-align: center;"><p>林藝珍、白素延</p></td>
+<td style="text-align: center;"><p>林藝珍、白素妍</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -1990,15 +1988,7 @@
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/)
   - [KBS 2TV節目表](https://web.archive.org/web/20070812055613/http://www.kbs.co.kr/plan_table/channel/2tv/index.html)
+  - [KBS Global中文網站](https://archive.is/20130502030351/http://contents.kbs.co.kr/chinese/)
+  - [KBS Global英文網站](https://archive.is/20130502013340/http://contents.kbs.co.kr/)
 
-  - [KBS
-    Global中文網站](https://archive.is/20130502030351/http://contents.kbs.co.kr/chinese/)
-
-  - [KBS
-    Global英文網站](https://archive.is/20130502013340/http://contents.kbs.co.kr/)
-
-
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:KBS月火連續劇](https://zh.wikipedia.org/wiki/Category:KBS月火連續劇 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:KBS月火連續劇](https://zh.wikipedia.org/wiki/Category:KBS月火連續劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

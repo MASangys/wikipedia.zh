@@ -1,5 +1,4 @@
-***All We Know Is Falling***
-是[美国](../Page/美国.md "wikilink")[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[帕拉莫尔发行的首张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，本专辑于2005年7月26日发行。2009年10月20日被认证为金唱片。\[1\]
+***All We Know Is Falling*** 是[美国](../Page/美国.md "wikilink")[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[帕拉莫尔发行的首张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，本专辑于2005年7月26日发行。2009年10月20日被认证为金唱片。\[1\]
 
 ## 曲目列表
 
@@ -43,21 +42,15 @@
 
 ## 参与成员
 
-  - [Hayley
-    Williams](https://zh.wikipedia.org/wiki/Hayley_Williams "wikilink")
-    – 主唱
-  - [Josh Farro](https://zh.wikipedia.org/wiki/Josh_Farro "wikilink") –
-    主音吉他手, 伴唱
-  - [Jeremy
-    Davis](https://zh.wikipedia.org/wiki/Jeremy_Davis "wikilink") – 贝斯手
-  - [Zac Farro](https://zh.wikipedia.org/wiki/Zac_Farro "wikilink") –
-    鼓手,打击乐器
+  - [Hayley Williams](https://zh.wikipedia.org/wiki/Hayley_Williams "wikilink") – 主唱
+  - [Josh Farro](https://zh.wikipedia.org/wiki/Josh_Farro "wikilink") – 主音吉他手, 伴唱
+  - [Jeremy Davis](https://zh.wikipedia.org/wiki/Jeremy_Davis "wikilink") – 贝斯手
+  - [Zac Farro](https://zh.wikipedia.org/wiki/Zac_Farro "wikilink") – 鼓手,打击乐器
   - Jason Bynum – 节奏吉他手
 
 ## 参考资料
 
-[Category:2005年音乐专辑](https://zh.wikipedia.org/wiki/Category:2005年音乐专辑 "wikilink")
-[Category:帕拉莫尔音乐专辑](https://zh.wikipedia.org/wiki/Category:帕拉莫尔音乐专辑 "wikilink")
+[Category:2005年音乐专辑](https://zh.wikipedia.org/wiki/Category:2005年音乐专辑 "wikilink") [Category:帕拉莫尔音乐专辑](https://zh.wikipedia.org/wiki/Category:帕拉莫尔音乐专辑 "wikilink")
 
 1.
 2.

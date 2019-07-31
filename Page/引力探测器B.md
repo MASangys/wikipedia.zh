@@ -1,20 +1,14 @@
 **引力探测器B**（，简称）是[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")（）在2004年4月20日发射的一颗科学探测[卫星](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")。这个任务的计划是测量[地球](../Page/地球.md "wikilink")周围的[时空](../Page/时空.md "wikilink")[曲率](../Page/曲率.md "wikilink")，以及相关的[能量-动量张量](https://zh.wikipedia.org/wiki/能量-动量张量 "wikilink")（描述物质的分布及运动的[张量](https://zh.wikipedia.org/wiki/张量 "wikilink")），从而对[爱因斯坦的](https://zh.wikipedia.org/wiki/爱因斯坦 "wikilink")[广义相对论的正确性和精确性进行检验](https://zh.wikipedia.org/wiki/广义相对论 "wikilink")。卫星的飞行持续到2005年，其后任务进入到了数据分析阶段（2008年5月），并有可能一直持续分析到2010年\[1\]。引力探测器B的研发历史可追溯到二十世纪六十年代，至2004年正式升空长达四十多年，其耗资达七亿五千万[美元](../Page/美元.md "wikilink")\[2\]。这是美国国家航空航天局历史上研发时间最长的计划，之所以如此拖延的原因不仅仅在于技术上的难题，其中也牵扯进了很多关于科学上与政治上的争论\[3\]。
 
-引力探测器B的最初结果证实了广义相对论所预言的[测地线效应](../Page/测地线效应.md "wikilink")的精确度达到了误差小于1%，而所期望的[参考系拖拽](../Page/参考系拖拽.md "wikilink")效应的信号强度则和当前的噪声强度处于同一量级（这些噪声主要来自一些尚未建立研究模型的物理效应）\[4\]。相关的数据分析工作正在进行中，对信号中的噪声进行建模分析，找到誤差來源，从而能够将有用的参考系拖拽信号从中萃取出来。2008年8月，参考系拖拽效应已被確認在期望結果的15%範圍內。\[5\]
-2008年12月，美国国家航空航天局發布報告，测地线效应的精确度达到了误差小于0.5%。\[6\]
+引力探测器B的最初结果证实了广义相对论所预言的[测地线效应](../Page/测地线效应.md "wikilink")的精确度达到了误差小于1%，而所期望的[参考系拖拽](../Page/参考系拖拽.md "wikilink")效应的信号强度则和当前的噪声强度处于同一量级（这些噪声主要来自一些尚未建立研究模型的物理效应）\[4\]。相关的数据分析工作正在进行中，对信号中的噪声进行建模分析，找到誤差來源，从而能够将有用的参考系拖拽信号从中萃取出来。2008年8月，参考系拖拽效应已被確認在期望結果的15%範圍內。\[5\] 2008年12月，美国国家航空航天局發布報告，测地线效应的精确度达到了误差小于0.5%。\[6\]
 
-在一篇於2011年發表在《[物理評論快報](https://zh.wikipedia.org/wiki/物理評論快報 "wikilink")》的論文裏，作者表示，從分析所有四個陀螺儀給出的數據，得到測地漂移率為
-−6,601.8±18.3 [mas](../Page/弧分.md "wikilink")/yr)
-，参考系拖拽漂移率為−37.2±7.2 mas/yr；廣義相對論預測分別為−6,606.1 mas/yr
-與−39.2 mas/yr，差異分別為0.07%與5%，不確定性分別為0.28%與19%。\[7\]
+在一篇於2011年發表在《[物理評論快報](https://zh.wikipedia.org/wiki/物理評論快報 "wikilink")》的論文裏，作者表示，從分析所有四個陀螺儀給出的數據，得到測地漂移率為 −6,601.8±18.3 [mas](../Page/弧分.md "wikilink")/yr) ，参考系拖拽漂移率為−37.2±7.2 mas/yr；廣義相對論預測分別為−6,606.1 mas/yr 與−39.2 mas/yr，差異分別為0.07%與5%，不確定性分別為0.28%與19%。\[7\]
 
-一些初步結果在[美國物理學會](../Page/美國物理學會.md "wikilink")於2007年4月舉辦的一場特別會議裏被發佈。美国国家航空航天局原本請求延伸引力探测器B數據分析階段至2007年12月。靠著商人、[史丹佛大學](../Page/史丹佛大學.md "wikilink")、美国国家航空航天局的專款支持，這數據分析階段得以延伸至2008年年中。之後，又從沙特商人募得很多專款。\[8\]
-2011年，終於完成科學報告。
+一些初步結果在[美國物理學會](../Page/美國物理學會.md "wikilink")於2007年4月舉辦的一場特別會議裏被發佈。美国国家航空航天局原本請求延伸引力探测器B數據分析階段至2007年12月。靠著商人、[史丹佛大學](../Page/史丹佛大學.md "wikilink")、美国国家航空航天局的專款支持，這數據分析階段得以延伸至2008年年中。之後，又從沙特商人募得很多專款。\[8\] 2011年，終於完成科學報告。
 
 ## 概述
 
-[GPB_circling_earth.jpg](https://zh.wikipedia.org/wiki/File:GPB_circling_earth.jpg "fig:GPB_circling_earth.jpg")
-引力探测器B本质上是美国国家航空航天局执行的一项借助[陀螺仪的相对论性实验](https://zh.wikipedia.org/wiki/陀螺仪 "wikilink")。这项实验的主要研究人员是[斯坦福大学的](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")[物理学](../Page/物理学.md "wikilink")家，并主要由[洛克希德·马丁公司承包完成](https://zh.wikipedia.org/wiki/洛克希德·马丁公司 "wikilink")。之所以命名为引力探测器B，是因为它被看作是第二个在太空中进行的[引力](../Page/引力.md "wikilink")实验，这是相对于1976年发射的而言的。
+[GPB_circling_earth.jpg](https://zh.wikipedia.org/wiki/File:GPB_circling_earth.jpg "fig:GPB_circling_earth.jpg") 引力探测器B本质上是美国国家航空航天局执行的一项借助[陀螺仪的相对论性实验](https://zh.wikipedia.org/wiki/陀螺仪 "wikilink")。这项实验的主要研究人员是[斯坦福大学的](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")[物理学](../Page/物理学.md "wikilink")家，并主要由[洛克希德·马丁公司承包完成](https://zh.wikipedia.org/wiki/洛克希德·马丁公司 "wikilink")。之所以命名为引力探测器B，是因为它被看作是第二个在太空中进行的[引力](../Page/引力.md "wikilink")实验，这是相对于1976年发射的而言的。
 
 在2007年4月14日至17日期间于[佛罗里达州](../Page/佛罗里达州.md "wikilink")[杰克逊维尔召开的](https://zh.wikipedia.org/wiki/杰克逊维尔 "wikilink")[美国物理学会四月年会上首先公布了引力探测器B的一些初始探测结果](https://zh.wikipedia.org/wiki/美国物理学会 "wikilink")\[9\]。起初提议将引力探测器B的数据分析工作期限延伸至2007年12月底，但随后延长到2008年9月，并有可能进一步延长到2010年3月，届时关于参考系拖拽的科研测量成果将有望正式得出。
 
@@ -127,23 +121,14 @@
 
 ## 外部链接
 
-  - [Gravity Probe B web site at
-    NASA](http://www.nasa.gov/mission_pages/gpb/index.html)（美国国家航空航天局引力探测器B主页）
-  - [Gravity Probe B Web site at
-    Stanford](http://einstein.stanford.edu/)（斯坦福大学引力探测器B主页）
-  - [Graphic explanation of how Gravity Probe B
-    works](http://news.bbc.co.uk/2/hi/science/nature/3639193.stm#graphic)（图解引力探测器B如何工作）
-  - [NASA GP-B launch
-    site](https://web.archive.org/web/20090107225419/http://www.ksc.nasa.gov/elvnew/gpb/)（的引力探测器B发射网站）
-  - [NASA article on the technologies used in Gravity Probe
-    B](https://web.archive.org/web/20090223183854/http://science.nasa.gov/headlines/y2004/26apr_gpbtech.htm)（关于引力探测器B所用技术的文章）
-  - [General Relativistic Frame
-    Dragging](http://www.phy.duke.edu/~kolena/framedrag.html)（另一篇关于参考系拖拽的文章）
+  - [Gravity Probe B web site at NASA](http://www.nasa.gov/mission_pages/gpb/index.html)（美国国家航空航天局引力探测器B主页）
+  - [Gravity Probe B Web site at Stanford](http://einstein.stanford.edu/)（斯坦福大学引力探测器B主页）
+  - [Graphic explanation of how Gravity Probe B works](http://news.bbc.co.uk/2/hi/science/nature/3639193.stm#graphic)（图解引力探测器B如何工作）
+  - [NASA GP-B launch site](https://web.archive.org/web/20090107225419/http://www.ksc.nasa.gov/elvnew/gpb/)（的引力探测器B发射网站）
+  - [NASA article on the technologies used in Gravity Probe B](https://web.archive.org/web/20090223183854/http://science.nasa.gov/headlines/y2004/26apr_gpbtech.htm)（关于引力探测器B所用技术的文章）
+  - [General Relativistic Frame Dragging](http://www.phy.duke.edu/~kolena/framedrag.html)（另一篇关于参考系拖拽的文章）
 
-[Category:广义相对论](https://zh.wikipedia.org/wiki/Category:广义相对论 "wikilink")
-[Category:物理学实验](https://zh.wikipedia.org/wiki/Category:物理学实验 "wikilink")
-[Category:人造卫星](https://zh.wikipedia.org/wiki/Category:人造卫星 "wikilink")
-[Category:2004年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2004年發射的太空飛行器 "wikilink")
+[Category:广义相对论](https://zh.wikipedia.org/wiki/Category:广义相对论 "wikilink") [Category:物理学实验](https://zh.wikipedia.org/wiki/Category:物理学实验 "wikilink") [Category:人造卫星](https://zh.wikipedia.org/wiki/Category:人造卫星 "wikilink") [Category:2004年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2004年發射的太空飛行器 "wikilink")
 
 1.
 
@@ -181,8 +166,7 @@
 
 19.
 20.
-21. [Gravity Probe B finally pays
-    off](http://www.sciencenews.org/view/generic/id/73870/title/Gravity_Probe_B_finally_pays_off_)
+21. [Gravity Probe B finally pays off](http://www.sciencenews.org/view/generic/id/73870/title/Gravity_Probe_B_finally_pays_off_)
 
 22.
 
@@ -200,8 +184,7 @@
 
 29.
 
-30. [Stanford's Gravity Probe B confirms two Einstein
-    theories](http://news.stanford.edu/news/2011/may/gravity-probe-mission-050411.html)
+30. [Stanford's Gravity Probe B confirms two Einstein theories](http://news.stanford.edu/news/2011/may/gravity-probe-mission-050411.html)
 
 31.
 

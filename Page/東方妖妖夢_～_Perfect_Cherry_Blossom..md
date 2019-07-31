@@ -1,7 +1,4 @@
-[Perfect_Cherry_Blossom.jpg](https://zh.wikipedia.org/wiki/File:Perfect_Cherry_Blossom.jpg "fig:Perfect_Cherry_Blossom.jpg")
-是[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")制作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")7作，也是在[Windows平台上的第二作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作於2002年12月30日的[Comic
-Market](../Page/Comic_Market.md "wikilink")
-63中發佈含[WAV類型音樂檔的體驗版plus](https://zh.wikipedia.org/wiki/.wav "wikilink")，並在2003年1月26日在網上公開體驗版，最終於2003年8月17日發佈正式版，於9月7日開始[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。
+[Perfect_Cherry_Blossom.jpg](https://zh.wikipedia.org/wiki/File:Perfect_Cherry_Blossom.jpg "fig:Perfect_Cherry_Blossom.jpg") 是[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")制作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")7作，也是在[Windows平台上的第二作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作於2002年12月30日的[Comic Market](../Page/Comic_Market.md "wikilink") 63中發佈含[WAV類型音樂檔的體驗版plus](https://zh.wikipedia.org/wiki/.wav "wikilink")，並在2003年1月26日在網上公開體驗版，最終於2003年8月17日發佈正式版，於9月7日開始[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。
 
 ## 遊戲系統
 
@@ -13,8 +10,7 @@ Market](../Page/Comic_Market.md "wikilink")
 
 「钦點系統」和延伸出來的「森羅結界」是本作特有的遊戲系統。進入遊戲後，屏幕左下角會顯示钦點值。射擊敵人、收集钦點道具等都會使數值增加，而使用BOMB或中彈會導致數值減少。钦點達到50,000時會開啟「森羅結界」，這時自機將進入無敵狀態。在此期間，只要未中彈或使用BOMB，結界消失時就會獲得分數獎勵，而且已有的钦點越多，分數獎勵越多。假如玩家在結界消失之前發動BOMB或中彈，那麼熒幕上的子彈和結界都會立刻消失，而且會損失钦點。
 
-本作故事模式中所有難度皆能玩遍全六關，只要不續關破關就可以進入Good
-Ending並解鎖Extra關卡。除Extra關卡之外，本作還有一個Phantasm關卡，在通過Extra關卡並取得60張以上的符卡（在自機不中彈也不使用BOMB的情況下攻破敵方的符卡攻擊）之後才會解鎖。
+本作故事模式中所有難度皆能玩遍全六關，只要不續關破關就可以進入Good Ending並解鎖Extra關卡。除Extra關卡之外，本作還有一個Phantasm關卡，在通過Extra關卡並取得60張以上的符卡（在自機不中彈也不使用BOMB的情況下攻破敵方的符卡攻擊）之後才會解鎖。
 
 ## 遊戲劇情
 
@@ -93,8 +89,7 @@ Extra關卡的劇情發生在故事模式之後。由於主角在故事模式中
 
 ## 評價
 
-英國喜劇演員、諷刺作家[Charlie
-Brooker在節目](https://zh.wikipedia.org/wiki/Charlie_Brooker "wikilink")《[Gameswipe](https://zh.wikipedia.org/wiki/Gameswipe "wikilink")》中稱《東方妖妖夢》是一種「能讓受虐狂沉迷」的射擊遊戲，並說遊戲有點像一場會讓人不適的焰火表演。\[12\]
+英國喜劇演員、諷刺作家[Charlie Brooker在節目](https://zh.wikipedia.org/wiki/Charlie_Brooker "wikilink")《[Gameswipe](https://zh.wikipedia.org/wiki/Gameswipe "wikilink")》中稱《東方妖妖夢》是一種「能讓受虐狂沉迷」的射擊遊戲，並說遊戲有點像一場會讓人不適的焰火表演。\[12\]
 
 ## 参考资料
 
@@ -102,13 +97,7 @@ Brooker在節目](https://zh.wikipedia.org/wiki/Charlie_Brooker "wikilink")《[G
 
   -
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink")
-[Category:鬼題材作品](https://zh.wikipedia.org/wiki/Category:鬼題材作品 "wikilink")
-[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink") [Category:鬼題材作品](https://zh.wikipedia.org/wiki/Category:鬼題材作品 "wikilink") [Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
 

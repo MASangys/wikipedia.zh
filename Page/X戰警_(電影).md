@@ -1,10 +1,6 @@
 《**X戰警**》（）是一部於[2000年上映的](https://zh.wikipedia.org/wiki/2000年電影 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[超級英雄電影](../Page/超級英雄電影.md "wikilink")，改編自[驚奇漫畫](https://zh.wikipedia.org/wiki/驚奇漫畫 "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》[科幻角色故事](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")，由[布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink")執導，編劇。主演包括[休·傑克曼](../Page/休·傑克曼.md "wikilink")、[派崔克·史都華](https://zh.wikipedia.org/wiki/派崔克·史都華 "wikilink")、[伊恩·麥克連](https://zh.wikipedia.org/wiki/伊恩·麥克連 "wikilink")、[芳姬·詹森](../Page/芳姬·詹森.md "wikilink")、[詹姆斯·馬斯登](../Page/詹姆斯·馬斯登.md "wikilink")、[安娜·派昆](https://zh.wikipedia.org/wiki/安娜·派昆 "wikilink")、、[荷莉·貝瑞](../Page/荷莉·貝瑞.md "wikilink")、[麗貝卡·羅梅恩](https://zh.wikipedia.org/wiki/麗貝卡·羅梅恩 "wikilink")、[雷·派克和](https://zh.wikipedia.org/wiki/雷·派克 "wikilink")，電影由[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")發行，且該片為「[X戰警電影系列](../Page/X戰警電影系列.md "wikilink")」的第一部作品，其次是2003年上映的《[X戰警2](../Page/X戰警2.md "wikilink")》和2006年的《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》。
 
-X戰警製作發展起源，回溯到1989年當年名導[詹姆斯·卡麥隆以及卡洛庫影業](https://zh.wikipedia.org/wiki/詹姆斯·卡麥隆 "wikilink")，1994年電影版權由[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")所買下\[1\]。[安德魯·凱文·渥克](https://zh.wikipedia.org/wiki/安德魯·凱文·渥克 "wikilink")（Andrew
-Kevin Walker）、（John
-Logan）、[喬斯·溫登](../Page/喬斯·溫登.md "wikilink")、[麥可·謝朋](../Page/麥可·謝朋.md "wikilink")（Michael
-Chabon）等人編寫電影腳本。1996年[布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink")確定導演，（Ed
-Solomon）、、[克里斯多弗·麥奎里和](https://zh.wikipedia.org/wiki/克里斯多弗·麥奎里 "wikilink")進一步編劇。檔期持續延後，福斯決議將檔期延至2000年7月。1999年9月22日開拍至2000年3月3日，主要在[加拿大](../Page/加拿大.md "wikilink")的[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")\[2\]。
+X戰警製作發展起源，回溯到1989年當年名導[詹姆斯·卡麥隆以及卡洛庫影業](https://zh.wikipedia.org/wiki/詹姆斯·卡麥隆 "wikilink")，1994年電影版權由[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")所買下\[1\]。[安德魯·凱文·渥克](https://zh.wikipedia.org/wiki/安德魯·凱文·渥克 "wikilink")（Andrew Kevin Walker）、（John Logan）、[喬斯·溫登](../Page/喬斯·溫登.md "wikilink")、[麥可·謝朋](../Page/麥可·謝朋.md "wikilink")（Michael Chabon）等人編寫電影腳本。1996年[布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink")確定導演，（Ed Solomon）、、[克里斯多弗·麥奎里和](https://zh.wikipedia.org/wiki/克里斯多弗·麥奎里 "wikilink")進一步編劇。檔期持續延後，福斯決議將檔期延至2000年7月。1999年9月22日開拍至2000年3月3日，主要在[加拿大](../Page/加拿大.md "wikilink")的[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")\[2\]。
 
 電影2000年上映後獲得強烈回響與正面評價，帶來成功的票房，開啟「[X戰警電影系列](https://zh.wikipedia.org/wiki/X戰警_\(電影系列\) "wikilink")」以及超級英雄電影的開端。
 
@@ -112,18 +108,9 @@ Iceman</p></td>
 
 ### 發展
 
-漫威漫畫作家及編劇和在1984年撰寫了一本關於X戰警的劇本，當時Orion
-Pictures持有電影的版權，但在Orion開始面臨財政危機時，發展便停滯不前。而在1989年和1990年期間，[史丹·李](../Page/史丹·李.md "wikilink")和正在與Carolco
-Pictures商討一部X戰警改編的電影\[3\]，由[凱薩琳·畢格羅執導且編劇](https://zh.wikipedia.org/wiki/凱薩琳·畢格羅 "wikilink")，[詹姆斯·卡麥隆製片](https://zh.wikipedia.org/wiki/詹姆斯·卡麥隆 "wikilink")，[金鋼狼](../Page/金鋼狼.md "wikilink")角色一任為[鮑勃·霍斯金斯所擔任](https://zh.wikipedia.org/wiki/鮑勃·霍斯金斯 "wikilink")，[暴風女](../Page/暴風女.md "wikilink")則由[安吉拉·巴塞特飾演](https://zh.wikipedia.org/wiki/安吉拉·巴塞特 "wikilink")。但史丹·李在一部蜘蛛人的電影上引起卡麥隆的注意，於是這筆交易便崩毀了\[4\]。而後，Carolco破產，電影版權回到了漫威手中\[5\]。1992年12月，漫威討論將版權賣給[哥倫比亞電影公司](https://zh.wikipedia.org/wiki/哥倫比亞電影公司 "wikilink")\[6\]，同時為[Fox
-Kids製作了動畫連續劇](../Page/Fox_Kids.md "wikilink")《》，[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")對電視節目的成功印象深刻。1994年，買下了電影版權\[7\]\[8\]，且讓[安德魯·凱文·沃克撰寫該部劇本](../Page/安德鲁·凯文·沃克.md "wikilink")\[9\]。
+漫威漫畫作家及編劇和在1984年撰寫了一本關於X戰警的劇本，當時Orion Pictures持有電影的版權，但在Orion開始面臨財政危機時，發展便停滯不前。而在1989年和1990年期間，[史丹·李](../Page/史丹·李.md "wikilink")和正在與Carolco Pictures商討一部X戰警改編的電影\[3\]，由[凱薩琳·畢格羅執導且編劇](https://zh.wikipedia.org/wiki/凱薩琳·畢格羅 "wikilink")，[詹姆斯·卡麥隆製片](https://zh.wikipedia.org/wiki/詹姆斯·卡麥隆 "wikilink")，[金鋼狼](../Page/金鋼狼.md "wikilink")角色一任為[鮑勃·霍斯金斯所擔任](https://zh.wikipedia.org/wiki/鮑勃·霍斯金斯 "wikilink")，[暴風女](../Page/暴風女.md "wikilink")則由[安吉拉·巴塞特飾演](https://zh.wikipedia.org/wiki/安吉拉·巴塞特 "wikilink")。但史丹·李在一部蜘蛛人的電影上引起卡麥隆的注意，於是這筆交易便崩毀了\[4\]。而後，Carolco破產，電影版權回到了漫威手中\[5\]。1992年12月，漫威討論將版權賣給[哥倫比亞電影公司](https://zh.wikipedia.org/wiki/哥倫比亞電影公司 "wikilink")\[6\]，同時為[Fox Kids製作了動畫連續劇](../Page/Fox_Kids.md "wikilink")《》，[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")對電視節目的成功印象深刻。1994年，買下了電影版權\[7\]\[8\]，且讓[安德魯·凱文·沃克撰寫該部劇本](../Page/安德鲁·凯文·沃克.md "wikilink")\[9\]。
 
-沃克的劇本提到[X教授](../Page/X教授.md "wikilink")招募金鋼狼加入X戰警，包含[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[琴葛雷](https://zh.wikipedia.org/wiki/琴葛雷 "wikilink")、[冰人](../Page/冰人_\(漫威漫畫\).md "wikilink")、[野獸和](../Page/野獸_\(漫畫\).md "wikilink")。（Brotherhood
-of
-Mutants）則由[萬磁王](../Page/萬磁王.md "wikilink")、[劍齒虎](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")、、及組成，試圖征服紐約市。而和用三個8英尺（2.4米）高的哨兵攻擊X戰警。劇情集中在金鋼狼與獨眼龍間的對抗，以及後者做為領導者的自我懷疑。沃克在1994年6月提交了第二份劇本。之後，（Laeta
-Kalogridis）\[10\]、（John
-Logan）、[詹姆士·夏姆斯](https://zh.wikipedia.org/wiki/詹姆士·夏姆斯 "wikilink")（James
-Schamus）\[11\]及[喬斯·溫登](../Page/喬斯·溫登.md "wikilink")重新撰寫了劇本，其中一個段落保留了萬磁王將曼哈頓變成“突變家園”的想法，以及金鋼狼與風暴女之間的情愫\[12\]。溫登的草稿以（Danger
-Room）及琴葛雷蛻變成為火鳳凰為特色\[13\]。根據《娛樂周刊》，這個劇本最後被退回\[14\]。
+沃克的劇本提到[X教授](../Page/X教授.md "wikilink")招募金鋼狼加入X戰警，包含[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[琴葛雷](https://zh.wikipedia.org/wiki/琴葛雷 "wikilink")、[冰人](../Page/冰人_\(漫威漫畫\).md "wikilink")、[野獸和](../Page/野獸_\(漫畫\).md "wikilink")。（Brotherhood of Mutants）則由[萬磁王](../Page/萬磁王.md "wikilink")、[劍齒虎](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")、、及組成，試圖征服紐約市。而和用三個8英尺（2.4米）高的哨兵攻擊X戰警。劇情集中在金鋼狼與獨眼龍間的對抗，以及後者做為領導者的自我懷疑。沃克在1994年6月提交了第二份劇本。之後，（Laeta Kalogridis）\[10\]、（John Logan）、[詹姆士·夏姆斯](https://zh.wikipedia.org/wiki/詹姆士·夏姆斯 "wikilink")（James Schamus）\[11\]及[喬斯·溫登](../Page/喬斯·溫登.md "wikilink")重新撰寫了劇本，其中一個段落保留了萬磁王將曼哈頓變成“突變家園”的想法，以及金鋼狼與風暴女之間的情愫\[12\]。溫登的草稿以（Danger Room）及琴葛雷蛻變成為火鳳凰為特色\[13\]。根據《娛樂周刊》，這個劇本最後被退回\[14\]。
 
 福斯原本認定[布萊特·拉特納](../Page/布萊特·拉特納.md "wikilink")擔任其導演\[15\]，並提供職位給[羅伯特·羅德里格斯](https://zh.wikipedia.org/wiki/羅伯特·羅德里格斯 "wikilink")，卻遭到拒絕\[16\]。繼《[刺激驚爆點](https://zh.wikipedia.org/wiki/刺激驚爆點 "wikilink")》上映後，[布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink")正在尋找一部科幻電影，福斯為他提供了《[異形4：浴火重生](https://zh.wikipedia.org/wiki/異形4：浴火重生 "wikilink")》的執導權，但製片人認為他會更適合這部電影。到了1996年12月，辛格接下了導演的職務，並於1997年4月聘請了來撰寫劇本。福斯宣布1998年聖誕節發布日期\[17\]\[18\]。
 
@@ -135,8 +122,7 @@ Room）及琴葛雷蛻變成為火鳳凰為特色\[13\]。根據《娛樂周刊�
 
 ## 發行
 
-電影於2000年7月12日在[埃利斯島](../Page/埃利斯島.md "wikilink")首映\[25\]，於埃利斯島上映2天後，《X戰警》在北美的3,025家劇院廣泛播映\[26\]，澳洲則在7月23日上映，而其他多數國家都於8月發行\[27\]。[漫威工作室藉著該部電影的成功](https://zh.wikipedia.org/wiki/漫威工作室 "wikilink")，促進了許多漫威漫畫的改編電影（[蜘蛛人](../Page/蜘蛛人_\(電影\).md "wikilink")、[驚奇四超人](https://zh.wikipedia.org/wiki/驚奇4超人_\(電影\) "wikilink")、[綠巨人浩克及](https://zh.wikipedia.org/wiki/綠巨人浩克 "wikilink")[夜魔俠](../Page/夜魔俠_\(電影\).md "wikilink")）
-\[28\]
+電影於2000年7月12日在[埃利斯島](../Page/埃利斯島.md "wikilink")首映\[25\]，於埃利斯島上映2天後，《X戰警》在北美的3,025家劇院廣泛播映\[26\]，澳洲則在7月23日上映，而其他多數國家都於8月發行\[27\]。[漫威工作室藉著該部電影的成功](https://zh.wikipedia.org/wiki/漫威工作室 "wikilink")，促進了許多漫威漫畫的改編電影（[蜘蛛人](../Page/蜘蛛人_\(電影\).md "wikilink")、[驚奇四超人](https://zh.wikipedia.org/wiki/驚奇4超人_\(電影\) "wikilink")、[綠巨人浩克及](https://zh.wikipedia.org/wiki/綠巨人浩克 "wikilink")[夜魔俠](../Page/夜魔俠_\(電影\).md "wikilink")） \[28\]
 
 ### 行銷
 
@@ -160,8 +146,7 @@ Room）及琴葛雷蛻變成為火鳳凰為特色\[13\]。根據《娛樂周刊�
 
 ### 家庭媒體
 
-《X戰警》的[藍光光碟](../Page/藍光光碟.md "wikilink")於2009年4月發行，其中，X-Men 1.5
-DVD發行版中的特色功能\[40\]，與美國版不同。英國版的藍光光碟中包含一個名為“BonusView”的畫中畫模式，以及一個具有特別功能的照片庫\[41\]\[42\]。
+《X戰警》的[藍光光碟](../Page/藍光光碟.md "wikilink")於2009年4月發行，其中，X-Men 1.5 DVD發行版中的特色功能\[40\]，與美國版不同。英國版的藍光光碟中包含一個名為“BonusView”的畫中畫模式，以及一個具有特別功能的照片庫\[41\]\[42\]。
 
 ## 續集
 
@@ -180,46 +165,21 @@ DVD發行版中的特色功能\[40\]，與美國版不同。英國版的藍光�
   - {{@movies|fXatm0893006}}
 
   -
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:美國電影](https://zh.wikipedia.org/wiki/Category:美國電影 "wikilink")
-[Category:2000年電影](https://zh.wikipedia.org/wiki/Category:2000年電影 "wikilink")
-[Category:2000年代动作片](https://zh.wikipedia.org/wiki/Category:2000年代动作片 "wikilink")
-[Category:X战警电影](https://zh.wikipedia.org/wiki/Category:X战警电影 "wikilink")
-[Category:漫威漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫威漫畫改編電影 "wikilink")
-[Category:美国动作片](https://zh.wikipedia.org/wiki/Category:美国动作片 "wikilink")
-[Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink")
-[Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink")
-[Category:多伦多取景电影](https://zh.wikipedia.org/wiki/Category:多伦多取景电影 "wikilink")
-[Category:布萊恩·辛格電影](https://zh.wikipedia.org/wiki/Category:布萊恩·辛格電影 "wikilink")
+[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:美國電影](https://zh.wikipedia.org/wiki/Category:美國電影 "wikilink") [Category:2000年電影](https://zh.wikipedia.org/wiki/Category:2000年電影 "wikilink") [Category:2000年代动作片](https://zh.wikipedia.org/wiki/Category:2000年代动作片 "wikilink") [Category:X战警电影](https://zh.wikipedia.org/wiki/Category:X战警电影 "wikilink") [Category:漫威漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫威漫畫改編電影 "wikilink") [Category:美国动作片](https://zh.wikipedia.org/wiki/Category:美国动作片 "wikilink") [Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink") [Category:多伦多取景电影](https://zh.wikipedia.org/wiki/Category:多伦多取景电影 "wikilink") [Category:布萊恩·辛格電影](https://zh.wikipedia.org/wiki/Category:布萊恩·辛格電影 "wikilink")
 
-1.  [史坦·李](https://zh.wikipedia.org/wiki/史坦·李 "wikilink"), ,
-    [布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink"), , , , The Secret
-    Origin of The *X-Men*, 2000, [20th Century
-    Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
+1.  [史坦·李](https://zh.wikipedia.org/wiki/史坦·李 "wikilink"), , [布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink"), , , , The Secret Origin of The *X-Men*, 2000, [20th Century Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
 
 2.
 
-3.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), ,
-    [Bryan
-    Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , ,
-    , The Secret Origin of The *X-Men*, 2000, [20th Century
-    Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
+3.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), , [Bryan Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , , , The Secret Origin of The *X-Men*, 2000, [20th Century Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
 
 4.
 
-5.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), ,
-    [Bryan
-    Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , ,
-    , The Secret Origin of The *X-Men*, 2000, [20th Century
-    Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
+5.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), , [Bryan Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , , , The Secret Origin of The *X-Men*, 2000, [20th Century Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
 
 6.
 
-7.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), ,
-    [Bryan
-    Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , ,
-    , The Secret Origin of The *X-Men*, 2000, [20th Century
-    Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
+7.  [Stan Lee](https://zh.wikipedia.org/wiki/Stan_Lee "wikilink"), , [Bryan Singer](https://zh.wikipedia.org/wiki/Bryan_Singer "wikilink"), , , , The Secret Origin of The *X-Men*, 2000, [20th Century Fox](https://zh.wikipedia.org/wiki/20th_Century_Fox "wikilink")
 
 8.
 
@@ -254,8 +214,7 @@ DVD發行版中的特色功能\[40\]，與美國版不同。英國版的藍光�
 
 24.
 
-25. "Ellis Island Premiere". *X-Men 1.5*, Disk 2 (20th Century Fox Home
-    Entertainment)
+25. "Ellis Island Premiere". *X-Men 1.5*, Disk 2 (20th Century Fox Home Entertainment)
 
 26.
 27.
@@ -268,9 +227,7 @@ DVD發行版中的特色功能\[40\]，與美國版不同。英國版的藍光�
 
 31.
 
-32. [John Ottman on Urban Legend: Final
-    Cut](http://www.filmscoremonthly.com/articles/2001/28_Feb---John_Ottman_Urban_Legends_Final_Cut.asp)
-
+32. [John Ottman on Urban Legend: Final Cut](http://www.filmscoremonthly.com/articles/2001/28_Feb---John_Ottman_Urban_Legends_Final_Cut.asp)
 
 33.
 

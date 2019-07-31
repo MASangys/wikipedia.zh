@@ -1,12 +1,10 @@
-**ALIVE\&KICKING**是[日本](../Page/日本.md "wikilink")女[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2004年12月8日由[King
-Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。本作是[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")第三張為水樹奈奈監製的專輯。
+**ALIVE\&KICKING**是[日本](../Page/日本.md "wikilink")女[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2004年12月8日由[King Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。本作是[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")第三張為水樹奈奈監製的專輯。
 
 ## 收錄曲
 
 1.    - 作詞、作曲、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
 
-2.  [innocent
-    starter](https://zh.wikipedia.org/wiki/innocent_starter "wikilink")
+2.  [innocent starter](https://zh.wikipedia.org/wiki/innocent_starter "wikilink")
 
       - 作詞：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；作曲、編曲：[大平勉](../Page/大平勉.md "wikilink")
       - 電視動畫《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》主題曲
@@ -55,5 +53,4 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。本作�
 
       - 作詞：NAOKO；作曲、編曲：大平勉
 
-[Category:水樹奈奈音樂專輯](https://zh.wikipedia.org/wiki/Category:水樹奈奈音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:水樹奈奈音樂專輯](https://zh.wikipedia.org/wiki/Category:水樹奈奈音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")

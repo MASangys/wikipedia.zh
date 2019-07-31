@@ -1,5 +1,4 @@
-**WIMP**，是圖形界面電腦所採用的界面典範。在[人機互動領域之中最普遍的電腦互動界面](https://zh.wikipedia.org/wiki/人機互動 "wikilink")，WIMP堪稱無人能出其右，舉凡[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[MacOS](../Page/MacOS.md "wikilink")，甚至其它以[X
-Window系統為基礎的](../Page/X_Window系統.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，均採用WIMP此一界面典範。
+**WIMP**，是圖形界面電腦所採用的界面典範。在[人機互動領域之中最普遍的電腦互動界面](https://zh.wikipedia.org/wiki/人機互動 "wikilink")，WIMP堪稱無人能出其右，舉凡[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[MacOS](../Page/MacOS.md "wikilink")，甚至其它以[X Window系統為基礎的](../Page/X_Window系統.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，均採用WIMP此一界面典範。
 
 WIMP是由「[視窗](../Page/視窗.md "wikilink")」（Window）、「[圖標](https://zh.wikipedia.org/wiki/圖標 "wikilink")」（Icon）、「[選單](../Page/選單.md "wikilink")」（Menu）以及「[指標](https://zh.wikipedia.org/wiki/游標 "wikilink")」（Pointer）所組成的縮寫，其命名方式也指明了它所倚賴的四大互動元件。
 
@@ -7,8 +6,7 @@ WIMP是由「[視窗](../Page/視窗.md "wikilink")」（Window）、「[圖標]
 
 ### 視窗
 
-視窗是一個可見的範圍，每一個視窗均被視為獨立的執行終端。一個視窗通常能夠包含文字與圖像。一般而言，為了增進視窗的可用性，一個視窗通常會包含各種控制元件，例如捲軸（Scrollbar）、標題列（Title
-Bar），以及調整大小及縮放功能的元件。當兩個或多個視窗同時出現在[桌面](https://zh.wikipedia.org/wiki/桌面 "wikilink")（desktop）上時，使用者可依個人的需求選擇使其交疊、並排或著是串連\[1\]。
+視窗是一個可見的範圍，每一個視窗均被視為獨立的執行終端。一個視窗通常能夠包含文字與圖像。一般而言，為了增進視窗的可用性，一個視窗通常會包含各種控制元件，例如捲軸（Scrollbar）、標題列（Title Bar），以及調整大小及縮放功能的元件。當兩個或多個視窗同時出現在[桌面](https://zh.wikipedia.org/wiki/桌面 "wikilink")（desktop）上時，使用者可依個人的需求選擇使其交疊、並排或著是串連\[1\]。
 
 ### 圖標
 
@@ -16,14 +14,11 @@ Bar），以及調整大小及縮放功能的元件。當兩個或多個視窗�
 
 ### 指標
 
-一般來說，WIMP這種介面最依賴的人機互動模式之一，就是「點選模式」（pointing &
-selecting）。因此，指標的存在對WIMP而言當然也是不可或缺的。指標的圖示通常不只一種，而不同的指標圖示同時也就代表了不同的功能，例如指標旁邊帶有沙漏即代表系統正在忙碌。然而，無論是何種設計，每一種指標都有「熱點」，也就是它負責指定的區塊\[3\]。
+一般來說，WIMP這種介面最依賴的人機互動模式之一，就是「點選模式」（pointing & selecting）。因此，指標的存在對WIMP而言當然也是不可或缺的。指標的圖示通常不只一種，而不同的指標圖示同時也就代表了不同的功能，例如指標旁邊帶有沙漏即代表系統正在忙碌。然而，無論是何種設計，每一種指標都有「熱點」，也就是它負責指定的區塊\[3\]。
 
 ### 選單
 
-選單不僅在視窗介面的系統中扮演重要的角色，在其他非視窗介面的系統中往往也是相當普遍的存在。一個選單通常包含了以文字、符號與圖像組成的命令列表，使用者藉由指標點選以執行相關的程序。一般而言，選單的類型大致上有以下四種：下拉式選單（Pull-down
-menus）、下降式選單（Fall-down menus）、釘附式選單（Pin-up menus）、彈出式選單（Pop-up
-menus）以及環形式選單（Pie menus）\[4\]。
+選單不僅在視窗介面的系統中扮演重要的角色，在其他非視窗介面的系統中往往也是相當普遍的存在。一個選單通常包含了以文字、符號與圖像組成的命令列表，使用者藉由指標點選以執行相關的程序。一般而言，選單的類型大致上有以下四種：下拉式選單（Pull-down menus）、下降式選單（Fall-down menus）、釘附式選單（Pin-up menus）、彈出式選單（Pop-up menus）以及環形式選單（Pie menus）\[4\]。
 
 除了以上四種主要互動元件之外，一般而言WIMP也包含了以下三種元件：
 
@@ -37,17 +32,13 @@ menus）以及環形式選單（Pie menus）\[4\]。
 
 ### 對話框
 
-[對話框](https://zh.wikipedia.org/wiki/對話框 "wikilink")（Dialog
-box）是系統為了要提醒使用者特定資訊而出現的視窗，除了顯示警告訊息之外，對話框還可以擔任「確認者」的角色，比方說存檔時的位址、檔案的刪除與否等互動狀況\[7\]。
+[對話框](https://zh.wikipedia.org/wiki/對話框 "wikilink")（Dialog box）是系統為了要提醒使用者特定資訊而出現的視窗，除了顯示警告訊息之外，對話框還可以擔任「確認者」的角色，比方說存檔時的位址、檔案的刪除與否等互動狀況\[7\]。
 
 ## 標準
 
 ### 麥金塔
 
-當[蘋果電腦取用了](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[帕罗奥多研究中心](https://zh.wikipedia.org/wiki/PARC "wikilink")（Xerox
-Palo Alto Research
-Center）的點子，並大量應用在暢銷的[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")（Macintosh）
-上時，也一併針對WIMP這個互動介面典範確立了數項標準\[8\]\[9\]。
+當[蘋果電腦取用了](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[帕罗奥多研究中心](https://zh.wikipedia.org/wiki/PARC "wikilink")（Xerox Palo Alto Research Center）的點子，並大量應用在暢銷的[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")（Macintosh） 上時，也一併針對WIMP這個互動介面典範確立了數項標準\[8\]\[9\]。
 
   - 以使用者的一般日常生活為隱喻（metaphors），以方便他們學習使用。
   - 看（see）與點（point）的使用哲學

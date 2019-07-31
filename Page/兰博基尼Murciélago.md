@@ -1,11 +1,4 @@
-[LamborghiniMurcielagoLP640Versace2.JPG](https://zh.wikipedia.org/wiki/File:LamborghiniMurcielagoLP640Versace2.JPG "fig:LamborghiniMurcielagoLP640Versace2.JPG")
-[SC06_Lamborghini_Murciélago_engine.jpg](https://zh.wikipedia.org/wiki/File:SC06_Lamborghini_Murciélago_engine.jpg "fig:SC06_Lamborghini_Murciélago_engine.jpg")
-[Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_(3).jpg](https://zh.wikipedia.org/wiki/File:Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_\(3\).jpg "fig:Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_(3).jpg")
-[Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg](https://zh.wikipedia.org/wiki/File:Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg "fig:Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg")
-[All-Inkl_Lamborghini_R-SV.jpg](https://zh.wikipedia.org/wiki/File:All-Inkl_Lamborghini_R-SV.jpg "fig:All-Inkl_Lamborghini_R-SV.jpg")
-**兰博基尼Murciélago**是[兰博基尼被](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")[奥迪](../Page/奥迪.md "wikilink")收购后推出的高端双门双座跑车，构型基于兰博基尼传统，采用中置6.5L
-V12引擎。由于是Audi汽車的设计师Luc
-Donckerwolke操刀设计，所以Murciélago在内饰方面取得了令人瞩目的提升，摆脱了兰博基尼此前为人诟病的粗糙内饰。但也由此引来了关于外形设计方面过于圆滑保守、与兰博基尼传统相悖的指责。自2001年上市后便成为法拉利在超级跑车领域最难应付的对手，作为兰博基尼品牌的旗舰车型帮助兰博基尼创造了连续数年的业绩突破。
+[LamborghiniMurcielagoLP640Versace2.JPG](https://zh.wikipedia.org/wiki/File:LamborghiniMurcielagoLP640Versace2.JPG "fig:LamborghiniMurcielagoLP640Versace2.JPG") [SC06_Lamborghini_Murciélago_engine.jpg](https://zh.wikipedia.org/wiki/File:SC06_Lamborghini_Murciélago_engine.jpg "fig:SC06_Lamborghini_Murciélago_engine.jpg") [Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_(3).jpg](https://zh.wikipedia.org/wiki/File:Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_\(3\).jpg "fig:Lamborghini_Murcielago_SV_-_Flickr_-_J.Smith831_(3).jpg") [Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg](https://zh.wikipedia.org/wiki/File:Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg "fig:Edo_Competition_LP_640^_.EXPLORED_-_Flickr_-_Tom_Wolf_-_Automotive_Photography.jpg") [All-Inkl_Lamborghini_R-SV.jpg](https://zh.wikipedia.org/wiki/File:All-Inkl_Lamborghini_R-SV.jpg "fig:All-Inkl_Lamborghini_R-SV.jpg") **兰博基尼Murciélago**是[兰博基尼被](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")[奥迪](../Page/奥迪.md "wikilink")收购后推出的高端双门双座跑车，构型基于兰博基尼传统，采用中置6.5L V12引擎。由于是Audi汽車的设计师Luc Donckerwolke操刀设计，所以Murciélago在内饰方面取得了令人瞩目的提升，摆脱了兰博基尼此前为人诟病的粗糙内饰。但也由此引来了关于外形设计方面过于圆滑保守、与兰博基尼传统相悖的指责。自2001年上市后便成为法拉利在超级跑车领域最难应付的对手，作为兰博基尼品牌的旗舰车型帮助兰博基尼创造了连续数年的业绩突破。
 
 ## 起源
 
@@ -30,9 +23,7 @@ Murciélago采用了许多兰博基尼经典的设计元素，以展现家族特
 
 ## 后续开发
 
-2009年，兰博基尼公布了Murciélago在生命周期最后几年的一款重磅车型：Murciélago LP670-4
-SV，从而重启了SV这一经典命名。LP670在LP640的基础上大量使用轻量化的碳纤维材料，使车重得以减轻，另外对发动机的重新调校使[发动机](../Page/发动机.md "wikilink")的最大功率增加了30马力，达到令人吃惊的670[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")。而这款车的公开也宣称了Murciélago退出历史舞台，最後一部Murciélago於2010年11月出廠，總數為4099部。2011年3月1日，Murciélago後繼車Aventador
-發表。
+2009年，兰博基尼公布了Murciélago在生命周期最后几年的一款重磅车型：Murciélago LP670-4 SV，从而重启了SV这一经典命名。LP670在LP640的基础上大量使用轻量化的碳纤维材料，使车重得以减轻，另外对发动机的重新调校使[发动机](../Page/发动机.md "wikilink")的最大功率增加了30马力，达到令人吃惊的670[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")。而这款车的公开也宣称了Murciélago退出历史舞台，最後一部Murciélago於2010年11月出廠，總數為4099部。2011年3月1日，Murciélago後繼車Aventador 發表。
 
 ## 相关条目
 
@@ -46,7 +37,4 @@ SV，从而重启了SV这一经典命名。LP670在LP640的基础上大量使用
 
   - [兰博基尼官方网站](http://www.lamborghini.com/)
 
-[Category:林寶堅尼車輛](https://zh.wikipedia.org/wiki/Category:林寶堅尼車輛 "wikilink")
-[Category:超級跑車](https://zh.wikipedia.org/wiki/Category:超級跑車 "wikilink")
-[Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink")
-[Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
+[Category:林寶堅尼車輛](https://zh.wikipedia.org/wiki/Category:林寶堅尼車輛 "wikilink") [Category:超級跑車](https://zh.wikipedia.org/wiki/Category:超級跑車 "wikilink") [Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")

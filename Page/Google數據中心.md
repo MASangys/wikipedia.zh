@@ -8,8 +8,7 @@ Google构建称为反向索引的数据结构来索引文档，通过查询词�
 
 ## 服务
 
-**Google网页伺服器**是[Google](../Page/Google.md "wikilink")基于[Apache HTTP
-Server开发的Web服务器软件](../Page/Apache_HTTP_Server.md "wikilink")\[2\]。
+**Google网页伺服器**是[Google](../Page/Google.md "wikilink")基于[Apache HTTP Server开发的Web服务器软件](../Page/Apache_HTTP_Server.md "wikilink")\[2\]。
 
 ## 全球所在地點
 
@@ -21,22 +20,15 @@ Server开发的Web服务器软件](../Page/Apache_HTTP_Server.md "wikilink")\[2\
 
 ****
 
-1.  [伯克利縣
-    (南卡羅來納州)](https://zh.wikipedia.org/wiki/伯克利縣_\(南卡羅來納州\) "wikilink")，2007年啟用，2013年擴建，員工150名。
-2.  [康瑟爾崖
-    (愛荷華州)](https://zh.wikipedia.org/wiki/康瑟尔布拉夫斯_\(艾奥瓦州\) "wikilink")，2007年動土，2009年第一期啟用，2013年及2014年各擴建一次，員工130名。
-3.  [道格拉斯縣
-    (喬治亞州)](https://zh.wikipedia.org/wiki/道格拉斯縣_\(喬治亞州\) "wikilink")，2003年啟用，員工350名。
-4.  [傑克遜縣
-    (阿拉巴馬州)](https://zh.wikipedia.org/wiki/傑克遜縣_\(阿拉巴馬州\) "wikilink")
-5.  [北卡羅萊納州Lenoir](https://zh.wikipedia.org/wiki/北卡羅萊納州 "wikilink")（Lenoir,
-    North Carolina），2007年動土，2009年啟用，員工超過110名。
+1.  [伯克利縣 (南卡羅來納州)](https://zh.wikipedia.org/wiki/伯克利縣_\(南卡羅來納州\) "wikilink")，2007年啟用，2013年擴建，員工150名。
+2.  [康瑟爾崖 (愛荷華州)](https://zh.wikipedia.org/wiki/康瑟尔布拉夫斯_\(艾奥瓦州\) "wikilink")，2007年動土，2009年第一期啟用，2013年及2014年各擴建一次，員工130名。
+3.  [道格拉斯縣 (喬治亞州)](https://zh.wikipedia.org/wiki/道格拉斯縣_\(喬治亞州\) "wikilink")，2003年啟用，員工350名。
+4.  [傑克遜縣 (阿拉巴馬州)](https://zh.wikipedia.org/wiki/傑克遜縣_\(阿拉巴馬州\) "wikilink")
+5.  [北卡羅萊納州Lenoir](https://zh.wikipedia.org/wiki/北卡羅萊納州 "wikilink")（Lenoir, North Carolina），2007年動土，2009年啟用，員工超過110名。
 6.  [梅斯縣_(奧克拉荷馬州)](https://zh.wikipedia.org/wiki/梅斯縣_\(奧克拉荷馬州\) "wikilink")
 7.  [蒙哥馬利縣 (田納西州)](../Page/蒙哥馬利縣_\(田納西州\).md "wikilink")
-8.  [奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")Pryor Creek（Pryor Creek,
-    Oklahoma）美中工業區（MidAmerica Industrial Park），2007年動土，2012年擴建，員工100名。
-9.  [奧勒岡州The](https://zh.wikipedia.org/wiki/奧勒岡州 "wikilink") Dalles（The
-    Dalles, Oregon），2006年啟用，全職員工80名。
+8.  [奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")Pryor Creek（Pryor Creek, Oklahoma）美中工業區（MidAmerica Industrial Park），2007年動土，2012年擴建，員工100名。
+9.  [奧勒岡州The](https://zh.wikipedia.org/wiki/奧勒岡州 "wikilink") Dalles（The Dalles, Oregon），2006年啟用，全職員工80名。
 
 **[南美洲](../Page/南美洲.md "wikilink")**
 
@@ -56,12 +48,10 @@ Server开发的Web服务器软件](../Page/Apache_HTTP_Server.md "wikilink")\[2\
 
 ## 外部链接
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:网页服务器](https://zh.wikipedia.org/wiki/Category:网页服务器 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:网页服务器](https://zh.wikipedia.org/wiki/Category:网页服务器 "wikilink")
 
 1.
-2.  [Study: Google runs more than 10 million Web
-    sites](http://news.cnet.com/8301-1001_3-10079685-92.html)
+2.  [Study: Google runs more than 10 million Web sites](http://news.cnet.com/8301-1001_3-10079685-92.html)
 3.
 4.
 5.

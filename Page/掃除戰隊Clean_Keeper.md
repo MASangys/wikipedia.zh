@@ -1,13 +1,8 @@
-《**掃除戰隊Clean
-Keeper**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[日本](../Page/日本.md "wikilink")[Idea
-Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus](https://zh.wikipedia.org/wiki/Lupinus "wikilink")\[1\]所發售的[Wii](../Page/Wii.md "wikilink")以及[PlayStation
-2平台](../Page/PlayStation_2.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
+《**掃除戰隊Clean Keeper**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[日本](../Page/日本.md "wikilink")[Idea Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus](https://zh.wikipedia.org/wiki/Lupinus "wikilink")\[1\]所發售的[Wii](../Page/Wii.md "wikilink")以及[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
 
 ## 概要
 
-《**掃除戰隊Clean Keeper**》是日本[Idea
-Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus於](https://zh.wikipedia.org/wiki/Lupinus "wikilink")2008年4月24日\[2\]\[3\]發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[4\]，這一部是Lupinus的第一部作品\[5\]，也是在Wii遊戲機上的第一款[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[6\]。於2009年10月1日發行PlayStation
-2版《**掃除戰隊Clean Keeper H**》（），並且加入了新角色以及遊戲系統\[7\]。
+《**掃除戰隊Clean Keeper**》是日本[Idea Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus於](https://zh.wikipedia.org/wiki/Lupinus "wikilink")2008年4月24日\[2\]\[3\]發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[4\]，這一部是Lupinus的第一部作品\[5\]，也是在Wii遊戲機上的第一款[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[6\]。於2009年10月1日發行PlayStation 2版《**掃除戰隊Clean Keeper H**》（），並且加入了新角色以及遊戲系統\[7\]。
 
 玩家扮演主角源九朗，在校內搜尋可能成為掃除戰隊的隊員的女孩子和搭檔的掃除精靈。途中遇到特殊事件時切換到行動模式可以得到道具。
 
@@ -15,15 +10,12 @@ Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus於](https://zh.wikipedia
 
 ## 故事簡介
 
-就讀高天原高中的主角**源九朗**在打掃走廊時，遇到了掌管掃除的精靈**瑪莉**。美化委員長九朗為了對抗污染學園的邪惡組織**哥瓦爾斯基**（），必須尋找總共五名的掃除戰隊**Clean
-Keeper**（）的隊員，並且與掃除精靈簽訂契約，背負著阻止哥瓦爾斯基組織繼續污染學校，就這樣九朗開始搜尋Clean
-Keeper隊員以及掃除精靈……。
+就讀高天原高中的主角**源九朗**在打掃走廊時，遇到了掌管掃除的精靈**瑪莉**。美化委員長九朗為了對抗污染學園的邪惡組織**哥瓦爾斯基**（），必須尋找總共五名的掃除戰隊**Clean Keeper**（）的隊員，並且與掃除精靈簽訂契約，背負著阻止哥瓦爾斯基組織繼續污染學校，就這樣九朗開始搜尋Clean Keeper隊員以及掃除精靈……。
 
 ## 登場人物
 
   -
-    本作品主角，就讀高天原高中二年級。被任命為Clean
-    Keeper的隊長之前過著平凡的學生生活。但是決定班級委員的那一天正好缺席的緣故，被任命為美化委員長，不過他並不討厭掃除。個性認真但是總是嫌其他人麻煩，對自己的身高非常在意。
+    本作品主角，就讀高天原高中二年級。被任命為Clean Keeper的隊長之前過著平凡的學生生活。但是決定班級委員的那一天正好缺席的緣故，被任命為美化委員長，不過他並不討厭掃除。個性認真但是總是嫌其他人麻煩，對自己的身高非常在意。
 
 ### 掃除戰隊
 
@@ -73,15 +65,13 @@ Keeper隊員以及掃除精靈……。
 [原聲音樂由sweeprecord發行於](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")2008年5月14日發售（SRIF-1006）\[12\]。
 
   - 片頭曲「」
-    歌： feat.TECHNO RIDER TAMMY、作詞：Nima（LILT
-    RECORD）、作曲編曲：[佐宗綾子](https://zh.wikipedia.org/wiki/佐宗綾子 "wikilink")
+    歌： feat.TECHNO RIDER TAMMY、作詞：Nima（LILT RECORD）、作曲編曲：[佐宗綾子](https://zh.wikipedia.org/wiki/佐宗綾子 "wikilink")
   - 片尾曲「」
     歌： feat.TECHNO RIDER TAMMY、作詞：Nima（LILT RECORD）、作曲編曲：佐宗綾子
 
 ## 廣播劇
 
-以《**Clean Radio -Clean
-Keeper的廣播開始了-**》（）的標題在2008年4月24日遊戲發售當天播放第0回\[13\]，5月8日開始隔週星期四播放\[14\]。
+以《**Clean Radio -Clean Keeper的廣播開始了-**》（）的標題在2008年4月24日遊戲發售當天播放第0回\[13\]，5月8日開始隔週星期四播放\[14\]。
 
 ## 注釋
 
@@ -95,21 +85,13 @@ Keeper的廣播開始了-**》（）的標題在2008年4月24日遊戲發售當�
 
 ## 外部連結
 
-  - [掃除戰隊Clean
-    Keeper官方網站](https://web.archive.org/web/20140327224038/http://www.if-lupinus.com/clean/)
+  - [掃除戰隊Clean Keeper官方網站](https://web.archive.org/web/20140327224038/http://www.if-lupinus.com/clean/)
 
   - [廣播劇的官方網站](https://web.archive.org/web/20080705220707/http://www.r-banana.com/cleanradi/)
 
-  - [掃除戰隊Clean Keeper
-    H官方網站](https://web.archive.org/web/20130427002355/http://www.if-lupinus.com/clean_h/)
+  - [掃除戰隊Clean Keeper H官方網站](https://web.archive.org/web/20130427002355/http://www.if-lupinus.com/clean_h/)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Idea_Factory游戏](https://zh.wikipedia.org/wiki/Category:Idea_Factory游戏 "wikilink")
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:变身女主角](https://zh.wikipedia.org/wiki/Category:变身女主角 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Idea_Factory游戏](https://zh.wikipedia.org/wiki/Category:Idea_Factory游戏 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:变身女主角](https://zh.wikipedia.org/wiki/Category:变身女主角 "wikilink")
 
 1.
 2.

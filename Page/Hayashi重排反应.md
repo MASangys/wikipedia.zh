@@ -8,8 +8,7 @@
 
 ## 反应机理
 
-经过[酰基](../Page/酰基.md "wikilink")正离子亲电进攻苯环后形成的[螺环中间体](https://zh.wikipedia.org/wiki/螺环 "wikilink")。\[3\]
-\[4\]
+经过[酰基](../Page/酰基.md "wikilink")正离子亲电进攻苯环后形成的[螺环中间体](https://zh.wikipedia.org/wiki/螺环 "wikilink")。\[3\] \[4\]
 
 
 :[Hayashi_rearrangementMechanism.svg](https://zh.wikipedia.org/wiki/File:Hayashi_rearrangementMechanism.svg "fig:Hayashi_rearrangementMechanism.svg")
@@ -20,8 +19,7 @@
 
 ## 参考资料
 
-[Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.  ; p. 1520 ; p. 1524

@@ -1,5 +1,4 @@
-《**CLUSTER
-EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[日昇動畫](../Page/日昇動畫.md "wikilink")公司發行。
+《**CLUSTER EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[日昇動畫](../Page/日昇動畫.md "wikilink")公司發行。
 
 ## 故事簡介
 
@@ -19,8 +18,7 @@ EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](htt
 
 ## 主要人物
 
-  - 阿加特·弗洛萊特〔Agate
-    Fluorite﹏アゲート・フローライト---[聲優](../Page/聲優.md "wikilink")cv：[下野紘](../Page/下野紘.md "wikilink")〕
+  - 阿加特·弗洛萊特〔Agate Fluorite﹏アゲート・フローライト---[聲優](../Page/聲優.md "wikilink")cv：[下野紘](../Page/下野紘.md "wikilink")〕
     本作主人公。15歲，性格開朗直率、品性善良單純的少年，以不可思議的力量引發許多奇蹟。但這神奇力量源來自毀滅之神的力量，阿加特是教團以天使的殘骸制造出來的神，因為卡魯斯變成不完整的人類，視卡魯斯為哥哥，卡魯斯死後代替他照顧卡魯塞的嬤嬤。“阿加特”這名字是卡魯塞替他起的。
 
 <!-- end list -->
@@ -36,13 +34,11 @@ EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](htt
 <!-- end list -->
 
   -
-    15歲當選CLUSTER
-    E.A.的學生會會長，因為酷洛姆改變對人造戰士的看法，與卡魯斯德尼·萊尼埃魯和其母親一樣認為人造戰士與人類沒別，應獲得人權以人類對待，在CLUSTER學院發起人造戰士的人權討論。
+    15歲當選CLUSTER E.A.的學生會會長，因為酷洛姆改變對人造戰士的看法，與卡魯斯德尼·萊尼埃魯和其母親一樣認為人造戰士與人類沒別，應獲得人權以人類對待，在CLUSTER學院發起人造戰士的人權討論。
 
 <!-- end list -->
 
-  - 馮·阿伊納·沙魯法〔Fon Aina
-    Sulfur﹏フォン・アイナ・サルファー---聲優cv：[岸尾大輔](../Page/岸尾大輔.md "wikilink")〕
+  - 馮·阿伊納·沙魯法〔Fon Aina Sulfur﹏フォン・アイナ・サルファー---聲優cv：[岸尾大輔](../Page/岸尾大輔.md "wikilink")〕
     阿加特的同學。15歲，性格懦弱膽小、似乎很容易哭，不懂得拒絕別人、身材嬌小、屬於可愛型的少年，自由自在成長起來的有錢人家少爺，來自弗斯肯王國。在進CLUSTER學院之前常被童年玩伴欺負，在阿加特的幫助下改掉懦弱的性格；渴望能駕駛飛機飛上天空，可似乎沒有這方面的才能，在阿加特和酷洛姆的幫助下成功完成心願。
 
 <!-- end list -->
@@ -57,10 +53,8 @@ EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](htt
 
 <!-- end list -->
 
-  - 卡魯斯德尼·萊尼埃魯〔Chalcedony
-    Renierite---聲優cv：[井上剛](../Page/井上剛.md "wikilink")〕
-    23歲，溫順體貼、溫柔善良，認為自己是偽善、非常厭惡自己，文武雙全的優等生做什麼事都是第一，不折不扣的天才少年CLUSTER
-    E.A.出身的青年，為了人造戰士的人權擁護運動從學院沖入了成人社會，是人造戰士的指標，認為人造戰士有血有肉與人類冇別，應獲得人權以人類對待；希望能將自己美好部份的記憶與人造戰士分享，進行記憶移殖的研究，成功將他部份的記憶複製殖入酷洛姆身上，給予了心給酷洛姆和阿加特，第一個人造戰士朋友其命為阿加特，因此把‘毀滅之神’變成不完整的人類時替他取名阿加特，將酷洛姆當成弟弟養育著。
+  - 卡魯斯德尼·萊尼埃魯〔Chalcedony Renierite---聲優cv：[井上剛](../Page/井上剛.md "wikilink")〕
+    23歲，溫順體貼、溫柔善良，認為自己是偽善、非常厭惡自己，文武雙全的優等生做什麼事都是第一，不折不扣的天才少年CLUSTER E.A.出身的青年，為了人造戰士的人權擁護運動從學院沖入了成人社會，是人造戰士的指標，認為人造戰士有血有肉與人類冇別，應獲得人權以人類對待；希望能將自己美好部份的記憶與人造戰士分享，進行記憶移殖的研究，成功將他部份的記憶複製殖入酷洛姆身上，給予了心給酷洛姆和阿加特，第一個人造戰士朋友其命為阿加特，因此把‘毀滅之神’變成不完整的人類時替他取名阿加特，將酷洛姆當成弟弟養育著。
 
 <!-- end list -->
 
@@ -69,8 +63,7 @@ EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](htt
 
 <!-- end list -->
 
-  - 艾瑪塔伊特·穆拉斯柏庫〔Hematite
-    Ramsbeckite---聲優cv：[木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")〕
+  - 艾瑪塔伊特·穆拉斯柏庫〔Hematite Ramsbeckite---聲優cv：[木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")〕
     23歲，性格懦弱膽小，原和卡魯斯是同一年級的學生，現在擔任CLUSTER學院的教師，家裡是通過制造人造戰士發家的軍火開發商。
 
 <!-- end list -->
@@ -119,10 +112,4 @@ EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](htt
   - [官方網站](http://www.tv-tokyo.co.jp/anime/cluster-edge)（東京電視台）
   - [萬代頻道](http://www.b-ch.com/ttl/index.php?ttl_c=447)
 
-[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:2005年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2005年東京電視網動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:LaLa](https://zh.wikipedia.org/wiki/Category:LaLa "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:2005年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2005年東京電視網動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:LaLa](https://zh.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

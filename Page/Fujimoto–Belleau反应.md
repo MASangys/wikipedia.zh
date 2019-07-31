@@ -20,10 +20,7 @@
 
 ## 参考资料
 
-[Category:加成反应](https://zh.wikipedia.org/wiki/Category:加成反应 "wikilink")
-[Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink")
-[Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink")
-[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+[Category:加成反应](https://zh.wikipedia.org/wiki/Category:加成反应 "wikilink") [Category:碳－碳键形成反应](https://zh.wikipedia.org/wiki/Category:碳－碳键形成反应 "wikilink") [Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
 2.

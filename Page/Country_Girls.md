@@ -1,14 +1,6 @@
-**Country
-Girls**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）（前稱：鄉村少女組。）是一個來自[早安家族的](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")[日本女子組合](../Page/日本.md "wikilink")，於1999年成立。
-2014年2月
-多年來一人獨撐組合名頭進行活動[里田舞](https://zh.wikipedia.org/wiki/里田舞 "wikilink")
-公佈舉辦《鄉村少女組。新成員選秀》，此次新組成的鄉村少女組中，她也依然會成為榮譽成員而存在。
+**Country Girls**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）（前稱：鄉村少女組。）是一個來自[早安家族的](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")[日本](../Page/日本.md "wikilink")女子組合，於1999年成立。 2014年2月 多年來一人獨撐組合名頭進行活動[里田舞](https://zh.wikipedia.org/wiki/里田舞 "wikilink") 公佈舉辦《鄉村少女組。新成員選秀》，此次新組成的鄉村少女組中，她也依然會成為榮譽成員而存在。
 
-2014年 11月 新生鄉村少女組更名為"鄉村女孩(Country Girls)"宣佈成軍。 新成員是早安家族研修生
-[稻場愛香與](https://zh.wikipedia.org/wiki/稻場愛香 "wikilink")[山木梨沙](../Page/山木梨沙.md "wikilink")，以及來自早安少女組12期選秀會參加者的[小關舞](https://zh.wikipedia.org/wiki/小關舞 "wikilink")、[島村嬉唄](https://zh.wikipedia.org/wiki/島村嬉唄 "wikilink")、[森戶知沙希](../Page/森戶知沙希.md "wikilink")，加上已宣佈將在明年春天無限期停止活動的[Berryz工房中的](../Page/Berryz工房.md "wikilink")[嗣永桃子將以成員兼教練身份參加](../Page/嗣永桃子.md "wikilink")，由這6人組成"新生鄉村少女組"。而里田將會以顧問的身份參與本團體。
-在2015年6月12日，[島村嬉唄因合約關係從](https://zh.wikipedia.org/wiki/島村嬉唄 "wikilink")**Country
-Girls**及[早安家族脫退](../Page/早安家族.md "wikilink")，2016年4月[稻場愛香因哮喘休養暫停所有活動](https://zh.wikipedia.org/wiki/稻場愛香 "wikilink")，2016年8月4日從**Country
-Girls**畢業。
+2014年 11月 新生鄉村少女組更名為"鄉村女孩(Country Girls)"宣佈成軍。 新成員是早安家族研修生 [稻場愛香與](https://zh.wikipedia.org/wiki/稻場愛香 "wikilink")[山木梨沙](../Page/山木梨沙.md "wikilink")，以及來自早安少女組12期選秀會參加者的[小關舞](https://zh.wikipedia.org/wiki/小關舞 "wikilink")、[島村嬉唄](https://zh.wikipedia.org/wiki/島村嬉唄 "wikilink")、[森戶知沙希](../Page/森戶知沙希.md "wikilink")，加上已宣佈將在明年春天無限期停止活動的[Berryz工房](../Page/Berryz工房.md "wikilink")中的[嗣永桃子](../Page/嗣永桃子.md "wikilink")將以成員兼教練身份參加，由這6人組成"新生鄉村少女組"。而里田將會以顧問的身份參與本團體。 在2015年6月12日，[島村嬉唄因合約關係從](https://zh.wikipedia.org/wiki/島村嬉唄 "wikilink")**Country Girls**及[早安家族](../Page/早安家族.md "wikilink")脫退，2016年4月[稻場愛香因哮喘休養暫停所有活動](https://zh.wikipedia.org/wiki/稻場愛香 "wikilink")，2016年8月4日從**Country Girls**畢業。
 
 ## 成員
 
@@ -203,7 +195,7 @@ Girls**畢業。
 <td></td>
 <td><p>2002年6月30日</p></td>
 <td><p>2017年6月30日</p></td>
-<td><p>原<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>、<a href="../Page/Buono!.md" title="wikilink">Buono!成員</a></p></td>
+<td><p>原<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>、<a href="../Page/Buono!.md" title="wikilink">Buono!</a>成員</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/梁川奈奈美" title="wikilink">梁川奈奈美</a></p></td>
@@ -289,8 +281,7 @@ Girls**畢業。
 
 成員增至3名：りんね、あさみ、裡田まい
 
-  - 4月17日，鄉村少女組和早安少女組的石川梨華第3張合作主流單曲「色っぽい女〜SEXY
-    BABY〜」發行，登上oricon單曲榜4位、初動36,510，累計57,670。
+  - 4月17日，鄉村少女組和早安少女組的石川梨華第3張合作主流單曲「色っぽい女〜SEXY BABY〜」發行，登上oricon單曲榜4位、初動36,510，累計57,670。
 
 參與成員：りんね、あさみ、裡田まい、石川梨華(モーニング娘。) ☆ 「カントリー娘。に石川梨華（モーニング娘。）」名義
 
@@ -298,8 +289,7 @@ Girls**畢業。
 
 成員剩下2名：あさみ、裡田まい
 
-  - 11月13日，鄉村少女組和早安少女組的石川梨華第4張，也是最後一張合作主流單曲「BYE BYE
-    最後の夜」發行，登上oricon單曲榜8位、初動21,670，累計30,018。
+  - 11月13日，鄉村少女組和早安少女組的石川梨華第4張，也是最後一張合作主流單曲「BYE BYE 最後の夜」發行，登上oricon單曲榜8位、初動21,670，累計30,018。
 
 參與成員：あさみ、裡田まい、石川梨華(モーニング娘。) ☆ 「カントリー娘。に石川梨華（モーニング娘。）」名義
 
@@ -314,16 +304,11 @@ Girls**畢業。
 
   - 7月24日
 
-鄉村少女組和早安少女組的紺野あさ美和藤本美貴首張合作主流單曲「浮気なハニーパイ」發行，登上oricon單曲榜7位、初動28,138，累計41,324
-參與成員：あさみ、裡田まい、みうな、紺野あさ美（モーニング娘。）、藤本美貴（モーニング娘。） ☆
-「カントリー娘。に紺野と藤本（モーニング娘。）」名義
+鄉村少女組和早安少女組的紺野あさ美和藤本美貴首張合作主流單曲「浮気なハニーパイ」發行，登上oricon單曲榜7位、初動28,138，累計41,324 參與成員：あさみ、裡田まい、みうな、紺野あさ美（モーニング娘。）、藤本美貴（モーニング娘。） ☆ 「カントリー娘。に紺野と藤本（モーニング娘。）」名義
 
   - 11月12日，
 
-鄉村少女組和早安少女組的紺野あさ美和藤本美貴第2張合作主流單曲「先輩 ～LOVE
-AGAIN～」發行，登上oricon單曲榜15位、初動16,908，累計22,196
-參與成員：あさみ、裡田まい、みうな、紺野あさ美（モーニング娘。）、藤本美貴（モーニング娘。） ☆
-「カントリー娘。に紺野と藤本（モーニング娘。）」名義
+鄉村少女組和早安少女組的紺野あさ美和藤本美貴第2張合作主流單曲「先輩 ～LOVE AGAIN～」發行，登上oricon單曲榜15位、初動16,908，累計22,196 參與成員：あさみ、裡田まい、みうな、紺野あさ美（モーニング娘。）、藤本美貴（モーニング娘。） ☆ 「カントリー娘。に紺野と藤本（モーニング娘。）」名義
 
   - 11月27日，
 
@@ -333,11 +318,9 @@ AGAIN～」發行，登上oricon單曲榜15位、初動16,908，累計22,196
 
 <!-- end list -->
 
-  - 8月4日，鄉村少女組和早安少女組的紺野あさ美和藤本美貴第3張，也是最後一張合作主流單曲「シャイニング
-    愛しき貴方」發行，登上oricon單曲榜13位、初動12,496，累計16,450。
+  - 8月4日，鄉村少女組和早安少女組的紺野あさ美和藤本美貴第3張，也是最後一張合作主流單曲「シャイニング 愛しき貴方」發行，登上oricon單曲榜13位、初動12,496，累計16,450。
 
-參與成員：あさみ、裡田まい、みうな、紺野あさ美（モーニング娘。）、藤本美貴（モーニング娘。） ☆
-「カントリー娘。に紺野と藤本（モーニング娘。）」名義
+參與成員：あさみ、裡田まい、みうな、紺野あさ美（モーニング娘。）、藤本美貴（モーニング娘。） ☆ 「カントリー娘。に紺野と藤本（モーニング娘。）」名義
 
   - 2006年
 
@@ -347,13 +330,11 @@ AGAIN～」發行，登上oricon單曲榜15位、初動16,908，累計22,196
 
 參與成員：あさみ、裡田まい、みうな
 
-  - 9月2日-3日，在東京Shibuya-AX舉行首次單獨LIVE「カントリー娘。LIVE 2006 〜SHIBUYA des
-    DATE〜」（共3場），其後發行fan-club限定DVD。
+  - 9月2日-3日，在東京Shibuya-AX舉行首次單獨LIVE「カントリー娘。LIVE 2006 〜SHIBUYA des DATE〜」（共3場），其後發行fan-club限定DVD。
 
 參與成員：あさみ、裡田まい、みうな
 
-  - 10月15日，在札幌Sapporo Penny Lane 24舉行LIVE「カントリー娘。LIVE 2006 〜SAPPORO des
-    DATE〜」（共2場）
+  - 10月15日，在札幌Sapporo Penny Lane 24舉行LIVE「カントリー娘。LIVE 2006 〜SAPPORO des DATE〜」（共2場）
 
 參與成員：あさみ、裡田まい、みうな
 
@@ -399,24 +380,16 @@ AGAIN～」發行，登上oricon單曲榜15位、初動16,908，累計22,196
   - 8月7日，鄉村少女組。新成員徵選會結果發表，無合格者。
   - 11月5日，團體名改為Country Girls並重返Hello\! Project。
 
-加入5位新人:兩位是原研修生的山木梨沙和稲場愛香，還有早安少女組12期徵選會的參加者森戸知沙希、島村嬉唄、小関舞
-同時Berryz工房的嗣永桃子以Playing
-Manager兼成員身份加入，並在Berryz工房2015年3月3日無限期停止活動後全面投入Country
-Girls的活動。 裡田まい擔任General Manager，不會參加團體活動 (繼續是Hello\! Project OG) Country
-Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、森戸知沙希、島村嬉唄、小関舞）
+加入5位新人:兩位是原研修生的山木梨沙和稲場愛香，還有早安少女組12期徵選會的參加者森戸知沙希、島村嬉唄、小関舞 同時Berryz工房的嗣永桃子以Playing Manager兼成員身份加入，並在Berryz工房2015年3月3日無限期停止活動後全面投入Country Girls的活動。 裡田まい擔任General Manager，不會參加團體活動 (繼續是Hello\! Project OG) Country Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、森戸知沙希、島村嬉唄、小関舞）
 
   - 2015年
 
 <!-- end list -->
 
   - 1月，參加Hello\!Project 2015冬季演唱會
-  - 1月24日，major
-    debut發表消息原定1月底以5人陣容(嗣永桃子以外)發行第5張獨立製作單曲「愛おしくってごめんね/戀泥棒」，後來計畫改變單曲將以6人陣容發行。
-  - 3月25日，發行Country Girls首張主流單曲「[惹人疼愛對不起喔 /
-    戀愛小偷](https://zh.wikipedia.org/wiki/惹人疼愛對不起喔_/_戀愛小偷 "wikilink")」。這次是Country
-    Girls成立16年來首張單獨主流單曲。登上oricon單曲榜 3位、初動45,032，累計51,579。
-  - 6月12日，嗣永桃子於Country Girls的blog中宣布島村嬉唄已從Country Girls與Hello\!
-    Project退脫，Country Girls之後將以五人姿態活動。
+  - 1月24日，major debut發表消息原定1月底以5人陣容(嗣永桃子以外)發行第5張獨立製作單曲「愛おしくってごめんね/戀泥棒」，後來計畫改變單曲將以6人陣容發行。
+  - 3月25日，發行Country Girls首張主流單曲「[惹人疼愛對不起喔 / 戀愛小偷](https://zh.wikipedia.org/wiki/惹人疼愛對不起喔_/_戀愛小偷 "wikilink")」。這次是Country Girls成立16年來首張單獨主流單曲。登上oricon單曲榜 3位、初動45,032，累計51,579。
+  - 6月12日，嗣永桃子於Country Girls的blog中宣布島村嬉唄已從Country Girls與Hello\! Project退脫，Country Girls之後將以五人姿態活動。
   - 11月5日，梁川奈々美、船木結加入Country Girls之後便以七人體制進行活動。
 
 <!-- end list -->
@@ -425,8 +398,7 @@ Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、�
 
 <!-- end list -->
 
-  - 3月9日，以Country Girls名義發行第三張3A單曲「ブギウギLOVE / 恋はマグネット / ランラルン
-    〜あなたに夢中〜」，亦是梁川奈々美、船木結加入後的首張單曲。
+  - 3月9日，以Country Girls名義發行第三張3A單曲「ブギウギLOVE / 恋はマグネット / ランラルン 〜あなたに夢中〜」，亦是梁川奈々美、船木結加入後的首張單曲。
   - 4月28日，稲場愛香因哮喘暫時停止所有活動，Country Girls暫時將以六人姿態繼續活動。
   - 8月4日，稲場愛香宣布從Counry Girls卒業，Country Girls將以六人姿態繼續活動。
   - 11月5日，嗣永桃子宣布於2017年6月30日從Counry Girls卒業。
@@ -437,9 +409,7 @@ Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、�
 
 <!-- end list -->
 
-  - 6月9日，官網公告，今年夏天起Country
-    Girls將以全新體制進行活動，成員森戶知沙希、梁川奈々美、船木結將移籍至早安家族其他團體,進行主要藝能活動且Country
-    Girls的活動更改為兼任。山木梨沙、小関舞則是由於學業關係並不會移籍、主要活動時間為學校休假期間與例行長假。
+  - 6月9日，官網公告，今年夏天起Country Girls將以全新體制進行活動，成員森戶知沙希、梁川奈々美、船木結將移籍至早安家族其他團體,進行主要藝能活動且Country Girls的活動更改為兼任。山木梨沙、小関舞則是由於學業關係並不會移籍、主要活動時間為學校休假期間與例行長假。
   - 6月26日，官方經由「ハロ\!ステ」公佈，從早安家族夏季演唱會開始，森戶知沙希將移籍[早安少女組。'17](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")、梁川奈々美將移籍[Juice=Juice](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")、船木結將移籍[ANGERME](../Page/ANGERME.md "wikilink")。
 
 <!-- end list -->
@@ -448,8 +418,7 @@ Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、�
 
 <!-- end list -->
 
-  - 11月2日，成員[梁川奈奈美將於](https://zh.wikipedia.org/wiki/梁川奈奈美 "wikilink")2019年3月從[Juice=Juice](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")、Country
-    Girls以及[早安家族畢業](../Page/早安家族.md "wikilink")，畢業後專注於學業。
+  - 11月2日，成員[梁川奈奈美將於](https://zh.wikipedia.org/wiki/梁川奈奈美 "wikilink")2019年3月從[Juice=Juice](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")、Country Girls以及[早安家族](../Page/早安家族.md "wikilink")畢業，畢業後專注於學業。
 
 ## 作品
 
@@ -536,7 +505,7 @@ Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、�
 <td><p><a href="https://zh.wikipedia.org/wiki/第一次的生日快樂!" title="wikilink">第一次的生日快樂!</a></p></td>
 <td><p>4</p></td>
 <td><p>142,340</p></td>
-<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。四期成員</a><a href="../Page/石川梨華.md" title="wikilink">石川梨華加入</a></p></td>
+<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>四期成員<a href="../Page/石川梨華.md" title="wikilink">石川梨華</a>加入</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄉村少女組。大全集①" title="wikilink">鄉村少女組。大全集①</a></p></td>
 </tr>
 <tr class="even">
@@ -566,7 +535,7 @@ Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、�
 <td><p><a href="https://zh.wikipedia.org/wiki/BYE_BYE_最後的夜晚" title="wikilink">BYE BYE 最後的夜晚</a></p></td>
 <td><p>8</p></td>
 <td><p>30,018</p></td>
-<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。四期成員</a><a href="../Page/石川梨華.md" title="wikilink">石川梨華的最後一張合作主流單曲</a></p></td>
+<td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>四期成員<a href="../Page/石川梨華.md" title="wikilink">石川梨華</a>的最後一張合作主流單曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -586,7 +555,7 @@ Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、�
 <td><p><a href="https://zh.wikipedia.org/wiki/花心的蜜糖餡餅" title="wikilink">花心的蜜糖餡餅</a></p></td>
 <td><p>7</p></td>
 <td><p>41,324</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/齊藤美海" title="wikilink">齊藤美海</a>、<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。五期成員</a><a href="../Page/紺野朝美.md" title="wikilink">紺野朝美</a>、六期成員<a href="../Page/藤本美貴.md" title="wikilink">藤本美貴加入</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/齊藤美海" title="wikilink">齊藤美海</a>、<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>五期成員<a href="../Page/紺野朝美.md" title="wikilink">紺野朝美</a>、六期成員<a href="../Page/藤本美貴.md" title="wikilink">藤本美貴</a>加入</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄉村少女組。大全集②" title="wikilink">鄉村少女組。大全集②</a></p></td>
 </tr>
 <tr class="odd">
@@ -606,7 +575,7 @@ Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、�
 <td><p><a href="https://zh.wikipedia.org/wiki/閃亮_可愛的你" title="wikilink">閃亮 可愛的你</a></p></td>
 <td><p>13</p></td>
 <td><p>16,450</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村麻美" title="wikilink">木村麻美</a>、<a href="https://zh.wikipedia.org/wiki/齊藤美海" title="wikilink">齊藤美海的畢業單曲</a>、<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。五期成員</a><a href="../Page/紺野朝美.md" title="wikilink">紺野朝美</a>、六期成員<a href="../Page/藤本美貴.md" title="wikilink">藤本美貴的最後一張合作主流單曲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木村麻美" title="wikilink">木村麻美</a>、<a href="https://zh.wikipedia.org/wiki/齊藤美海" title="wikilink">齊藤美海的畢業單曲</a>、<a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a>五期成員<a href="../Page/紺野朝美.md" title="wikilink">紺野朝美</a>、六期成員<a href="../Page/藤本美貴.md" title="wikilink">藤本美貴</a>的最後一張合作主流單曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -752,8 +721,7 @@ Girls以6人陣容重新出發 （嗣永桃子、山木梨沙、稲場愛香、�
 
 ## 外部連結
 
-  - [Country Girls
-    Hello\!Project官方頁面](http://www.helloproject.com/countrygirls/)
+  - [Country Girls Hello\!Project官方頁面](http://www.helloproject.com/countrygirls/)
 
 [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
 

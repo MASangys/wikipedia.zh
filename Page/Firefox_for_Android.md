@@ -1,22 +1,14 @@
-**** （代號****，曾被称为“Firefox for
-Mobile”）是[Firefox](../Page/Firefox.md "wikilink")[瀏覽器針對](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")等裝置推出的一個瀏覽器版本。
+**** （代號****，曾被称为“Firefox for Mobile”）是[Firefox](../Page/Firefox.md "wikilink")[瀏覽器針對](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")等裝置推出的一個瀏覽器版本。
 
-Firefox for Android使用和[Mozilla
-Firefox相同的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Gecko](../Page/Gecko.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。例如，版本1.0使用與Firefox
-3.6相同的引擎，而4.0以後版本與Firefox
-4.0共享核心代碼。它的功能包括[HTML5](../Page/HTML5.md "wikilink")支援、[同步](../Page/Firefox_Sync.md "wikilink")、[附加元件和](../Page/附加组件_\(Mozilla\).md "wikilink")[分頁式瀏覽](https://zh.wikipedia.org/wiki/分頁式瀏覽 "wikilink")\[1\]。
+Firefox for Android使用和[Mozilla Firefox相同的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Gecko](../Page/Gecko.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。例如，版本1.0使用與Firefox 3.6相同的引擎，而4.0以後版本與Firefox 4.0共享核心代碼。它的功能包括[HTML5](../Page/HTML5.md "wikilink")支援、[同步](../Page/Firefox_Sync.md "wikilink")、[附加元件和](../Page/附加组件_\(Mozilla\).md "wikilink")[分頁式瀏覽](https://zh.wikipedia.org/wiki/分頁式瀏覽 "wikilink")\[1\]。
 
 ## 命名
 
-Firefox for Android的代號來自英文「Fennec
-Fox」——即「[耳廓狐](../Page/耳廓狐.md "wikilink")」，一種小型的沙漠狐（象徵著Fennec是Firefox的一個小型版本）。Firefox
-for Maemo Beta 5於2009年釋出，這是第一個使用官方Firefox名稱與標誌的版本\[2\]\[3\]。
+Firefox for Android的代號來自英文「Fennec Fox」——即「[耳廓狐](../Page/耳廓狐.md "wikilink")」，一種小型的沙漠狐（象徵著Fennec是Firefox的一個小型版本）。Firefox for Maemo Beta 5於2009年釋出，這是第一個使用官方Firefox名稱與標誌的版本\[2\]\[3\]。
 
 ## 歷史
 
-外掛程式支援最初預設禁用，與流行的網路內容類型（如[Adobe
-Flash](../Page/Adobe_Flash.md "wikilink")）不相容\[4\]。2011年9月，Android
-Honeycomb預覽版本支援Flash\[5\]。在14.0版本的大多數智能手機已經啟用了對4.x的Flash支持\[6\]。
+外掛程式支援最初預設禁用，與流行的網路內容類型（如[Adobe Flash](../Page/Adobe_Flash.md "wikilink")）不相容\[4\]。2011年9月，Android Honeycomb預覽版本支援Flash\[5\]。在14.0版本的大多數智能手機已經啟用了對4.x的Flash支持\[6\]。
 
 瀏覽器的版本編號從版本1.0跳到版本4.0，以更緊密地匹配Firefox的桌面版本，因為這兩種瀏覽器中使用的排版引擎是相同的\[7\]。
 
@@ -26,31 +18,19 @@ Honeycomb預覽版本支援Flash\[5\]。在14.0版本的大多數智能手機已
 
 在此之前，Firefox for Android有一個不同的名稱——Firefox for Mobile，並且支援其他平台。
 
-官方對[Nokia N900](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")
-[Maemo](../Page/Maemo.md "wikilink")設備的支援於版本7而終止\[12\]。
+官方對[Nokia N900](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink") [Maemo](../Page/Maemo.md "wikilink")設備的支援於版本7而終止\[12\]。
 
-2010年2月19日發佈的Windows Mobile
-1.1版（1.1Alpha1）是此作業系統的最後一個版本\[13\]\[14\]。由於Windows
-Phone 7發佈以及微軟決定不發佈原生開發工具包之後，Windows Mobile的開發被擱置\[15\]。如果微軟將來為其Windows
-Phone作業系統發佈原生開發工具包，Mozilla或許再次考慮為該平台開發Fennec\[16\]。
+2010年2月19日發佈的Windows Mobile 1.1版（1.1Alpha1）是此作業系統的最後一個版本\[13\]\[14\]。由於Windows Phone 7發佈以及微軟決定不發佈原生開發工具包之後，Windows Mobile的開發被擱置\[15\]。如果微軟將來為其Windows Phone作業系統發佈原生開發工具包，Mozilla或許再次考慮為該平台開發Fennec\[16\]。
 
-Mozilla歐洲總裁Tristan Nitot表示，[BlackBerry
-OS版本不太可能推出](../Page/BlackBerry_OS.md "wikilink")，理由是由於BlackBerry作業系統的限制\[17\]。Mozilla並沒有計劃為推出[Symbian或](https://zh.wikipedia.org/wiki/Symbian "wikilink")[webOS版本](https://zh.wikipedia.org/wiki/webOS "wikilink")，但是有一個非官方的webOS版本\[18\]。
+Mozilla歐洲總裁Tristan Nitot表示，[BlackBerry OS版本不太可能推出](../Page/BlackBerry_OS.md "wikilink")，理由是由於BlackBerry作業系統的限制\[17\]。Mozilla並沒有計劃為推出[Symbian或](https://zh.wikipedia.org/wiki/Symbian "wikilink")[webOS版本](https://zh.wikipedia.org/wiki/webOS "wikilink")，但是有一個非官方的webOS版本\[18\]。
 
 ## 評價
 
-瀏覽器預覽版本14由於速度慢、缺乏外掛程式支持和性能問題受到批評\[19\]\[20\]。為了解決這些問題，Mozilla在14.0版本中重新設計了瀏覽器，增加了Flash支援，提昇了啟動速度以及其他加強功能\[21\]\[22\]。這一更新極大地改進了Firefox
-for Android。截至2014年9月，Firefox for Android在Google Play
-Store上的平均使用者評分為4.4\[23\]。
+瀏覽器預覽版本14由於速度慢、缺乏外掛程式支持和性能問題受到批評\[19\]\[20\]。為了解決這些問題，Mozilla在14.0版本中重新設計了瀏覽器，增加了Flash支援，提昇了啟動速度以及其他加強功能\[21\]\[22\]。這一更新極大地改進了Firefox for Android。截至2014年9月，Firefox for Android在Google Play Store上的平均使用者評分為4.4\[23\]。
 
-與Android和Chrome瀏覽器相較之下，Firefox的市場佔有率很小；2015年11月，Firefox for
-Android在所有行動以及平板瀏覽器中的使用率僅為0.81%\[24\]。儘管如此，Firefox for
-Android仍得到較高的應用程式商店評分，下載量超過一億次\[25\]\[26\]，並且仍然繼續開發中。最新版本支援Android
-4.0及更高版本（48版本於Android 2.3停止支援）\[27\]。
+與Android和Chrome瀏覽器相較之下，Firefox的市場佔有率很小；2015年11月，Firefox for Android在所有行動以及平板瀏覽器中的使用率僅為0.81%\[24\]。儘管如此，Firefox for Android仍得到較高的應用程式商店評分，下載量超過一億次\[25\]\[26\]，並且仍然繼續開發中。最新版本支援Android 4.0及更高版本（48版本於Android 2.3停止支援）\[27\]。
 
-在2015年的Android瀏覽器評選中，西班牙軟體新聞和評論網站[軟體天堂評選Firefox](https://zh.wikipedia.org/wiki/軟體天堂 "wikilink")
-37.0.1為2015年度最佳瀏覽器，評選委員Fabrizio
-Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源性質和獨立性\[28\]。
+在2015年的Android瀏覽器評選中，西班牙軟體新聞和評論網站[軟體天堂評選Firefox](https://zh.wikipedia.org/wiki/軟體天堂 "wikilink") 37.0.1為2015年度最佳瀏覽器，評選委員Fabrizio Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源性質和獨立性\[28\]。
 
 ## 發行歷史
 
@@ -111,8 +91,7 @@ Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源�
   - Version 36.0.2: March 16, 2015\[83\]
   - Version 36.0.3: March 20, 2015\[84\]
   - Version 36.0.4: March 21, 2015\[85\]
-  - Version 37.0: March 31, 2015.\[86\] Split releases between API
-    levels for Android 2.3 / 3.0 and newer.\[87\]
+  - Version 37.0: March 31, 2015.\[86\] Split releases between API levels for Android 2.3 / 3.0 and newer.\[87\]
   - Version 37.0.1: April 3, 2015\[88\]
   - Version 37.0.2: April 14, 2015\[89\]
   - Version 38.0: May 12, 2015\[90\]
@@ -128,12 +107,10 @@ Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源�
   - Version 44.0.2: February 11, 2016\[100\]
   - Version 45.0: March 8, 2016\[101\]
   - Version 45.0.1: March 16, 2016\[102\]
-  - Version 45.0.2: April 11, 2016. Last version to support Android
-    3.x.\[103\]
+  - Version 45.0.2: April 11, 2016. Last version to support Android 3.x.\[103\]
   - Version 46.0: April 26, 2016\[104\]
   - Version 46.0.1: May 3, 2016\[105\]
-  - Version 47.0: June 7, 2016. Last version to support Android
-    2.3.x.\[106\]
+  - Version 47.0: June 7, 2016. Last version to support Android 2.3.x.\[106\]
   - Version 48.0: August 2, 2016\[107\]
   - Version 49.0: September 20, 2016\[108\]
   - Version 49.0.2: October 20, 2016\[109\]
@@ -152,8 +129,7 @@ Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源�
   - Version 54.0: June 13, 2017\[122\]
   - Version 54.0.1: June 29, 2017\[123\]
   - Version 55.0: August 8, 2017\[124\]
-  - Version 55.0.2: August 16, 2017. Last version to support Android
-    4.0.x\[125\]
+  - Version 55.0.2: August 16, 2017. Last version to support Android 4.0.x\[125\]
   - Version 56.0: September 28, 2017\[126\]
   - Version 57.0: November 14, 2017\[127\]
   - Version 57.0.1: November 29, 2017\[128\]
@@ -191,11 +167,7 @@ Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源�
   - [](https://wiki.mozilla.org/Fennec)
 
   -
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
-[Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink")
-[Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
-[Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink")
-[Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink")
+[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink") [Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink") [Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink") [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink")
 
 1.
 
@@ -347,8 +319,7 @@ Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源�
 
 76.
 
-77. [Firefox/Decade -
-    MozillaWiki](https://wiki.mozilla.org/Firefox/Decade)
+77. [Firefox/Decade - MozillaWiki](https://wiki.mozilla.org/Firefox/Decade)
 
 78.
 

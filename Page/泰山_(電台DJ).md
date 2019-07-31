@@ -12,8 +12,7 @@
 
 ## 家庭
 
-泰山的父親[曾省吾](../Page/曾省吾.md "wikilink")爲商人，擁有[和信](https://zh.wikipedia.org/wiki/和信 "wikilink")、[道生醫藥有限公司及兩間投資公司](https://zh.wikipedia.org/wiki/道生醫藥有限公司 "wikilink")。其母親[雷嘉欣則為中學老師](https://zh.wikipedia.org/wiki/雷嘉欣 "wikilink")。小時居住於[何文田](../Page/何文田.md "wikilink")。\[4\]
-2007年10月，他與[雷麗雯結婚](https://zh.wikipedia.org/wiki/雷麗雯 "wikilink")，於[香港四季酒店](../Page/香港四季酒店.md "wikilink")設宴。其妻爲中法[混血兒](../Page/混血兒.md "wikilink")，畢業於[瑪利諾修院學校](../Page/瑪利諾修院學校.md "wikilink")，原從事[廣告](../Page/廣告.md "wikilink")業，婚後辭職；其家族從事建築生意。
+泰山的父親[曾省吾](../Page/曾省吾.md "wikilink")爲商人，擁有[和信](https://zh.wikipedia.org/wiki/和信 "wikilink")、[道生醫藥有限公司及兩間投資公司](https://zh.wikipedia.org/wiki/道生醫藥有限公司 "wikilink")。其母親[雷嘉欣則為中學老師](https://zh.wikipedia.org/wiki/雷嘉欣 "wikilink")。小時居住於[何文田](../Page/何文田.md "wikilink")。\[4\] 2007年10月，他與[雷麗雯結婚](https://zh.wikipedia.org/wiki/雷麗雯 "wikilink")，於[香港四季酒店](../Page/香港四季酒店.md "wikilink")設宴。其妻爲中法[混血兒](../Page/混血兒.md "wikilink")，畢業於[瑪利諾修院學校](../Page/瑪利諾修院學校.md "wikilink")，原從事[廣告](../Page/廣告.md "wikilink")業，婚後辭職；其家族從事建築生意。
 
 ## 現主持節目
 
@@ -33,8 +32,7 @@
 
   - 商業一台[雷霆881](../Page/雷霆881.md "wikilink")節目
       - 《[OT任務王](https://zh.wikipedia.org/wiki/OT任務王 "wikilink")》（逢[星期六](../Page/星期六.md "wikilink")[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")11時半至凌晨1時）
-      - 《[雷霆精選881](https://zh.wikipedia.org/wiki/雷霆精選881 "wikilink")》
-        （逢星期二至六[零晨](https://zh.wikipedia.org/wiki/零晨 "wikilink")2時半至3時）
+      - 《[雷霆精選881](https://zh.wikipedia.org/wiki/雷霆精選881 "wikilink")》 （逢星期二至六[零晨](https://zh.wikipedia.org/wiki/零晨 "wikilink")2時半至3時）
       - 《[埋周日](https://zh.wikipedia.org/wiki/埋周日 "wikilink")》（逢星期日[早上](https://zh.wikipedia.org/wiki/早上 "wikilink")11時至[中午](https://zh.wikipedia.org/wiki/中午 "wikilink")12時）
       - 《[超英趕美](https://zh.wikipedia.org/wiki/超英趕美 "wikilink")》
       - 《[埋周日](https://zh.wikipedia.org/wiki/埋周日 "wikilink")》
@@ -60,11 +58,9 @@
 ### 電視節目
 
   - [香港電台電視部](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")
-      - 《[反斗英語](https://zh.wikipedia.org/wiki/反斗英語 "wikilink")2011》\[做得又玩得\]
-        (Work Hard Play Hard)和\[敲地托\] (How They Talk) 環節。
+      - 《[反斗英語](https://zh.wikipedia.org/wiki/反斗英語 "wikilink")2011》\[做得又玩得\] (Work Hard Play Hard)和\[敲地托\] (How They Talk) 環節。
   - [電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")
-      - 與[蘇施黃](../Page/蘇施黃.md "wikilink")一同主持飲食烹飪節目《[蘇GOOD](../Page/蘇GOOD.md "wikilink")》（[翡翠台](../Page/翡翠台.md "wikilink")
-        逢星期一至五[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")10點半至11時）
+      - 與[蘇施黃](../Page/蘇施黃.md "wikilink")一同主持飲食烹飪節目《[蘇GOOD](../Page/蘇GOOD.md "wikilink")》（[翡翠台](../Page/翡翠台.md "wikilink") 逢星期一至五[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")10點半至11時）
   - [有線電視娛樂台](https://zh.wikipedia.org/wiki/有線電視 "wikilink")
       - 與蘇施黃一同主持飲食節目《[一粒鐘真人蘇](../Page/一粒鐘真人蘇.md "wikilink")》。
 
@@ -87,18 +83,11 @@
 
   - 泰山於881903.com的[個人介紹](http://www.881903.com/Page/ZH-TW/DJ881_23.aspx)
 
-[Category:香港廣播主持人](https://zh.wikipedia.org/wiki/Category:香港廣播主持人 "wikilink")
-[Category:香港主持人](https://zh.wikipedia.org/wiki/Category:香港主持人 "wikilink")
-[Category:拔萃男書院校友](https://zh.wikipedia.org/wiki/Category:拔萃男書院校友 "wikilink")
-[Category:多倫多大學校友](https://zh.wikipedia.org/wiki/Category:多倫多大學校友 "wikilink")
-[Category:ViuTV電視藝員](https://zh.wikipedia.org/wiki/Category:ViuTV電視藝員 "wikilink")
-[Category:曾姓](https://zh.wikipedia.org/wiki/Category:曾姓 "wikilink")
+[Category:香港廣播主持人](https://zh.wikipedia.org/wiki/Category:香港廣播主持人 "wikilink") [Category:香港主持人](https://zh.wikipedia.org/wiki/Category:香港主持人 "wikilink") [Category:拔萃男書院校友](https://zh.wikipedia.org/wiki/Category:拔萃男書院校友 "wikilink") [Category:多倫多大學校友](https://zh.wikipedia.org/wiki/Category:多倫多大學校友 "wikilink") [Category:ViuTV電視藝員](https://zh.wikipedia.org/wiki/Category:ViuTV電視藝員 "wikilink") [Category:曾姓](https://zh.wikipedia.org/wiki/Category:曾姓 "wikilink")
 
 1.  非常人語 -- 阿蘇好帶挈 -- 泰山 壹周刊 982期
 
-2.  [老聽眾踩場
-    罵商台貪錢](http://www1.hk.apple.nextmedia.com/realtime/art_main.php?iss_id=20100502&sec_id=6996647&art_id=13988278)
-    蘋果日報 即時港聞 2010年5月2日
+2.  [老聽眾踩場 罵商台貪錢](http://www1.hk.apple.nextmedia.com/realtime/art_main.php?iss_id=20100502&sec_id=6996647&art_id=13988278) 蘋果日報 即時港聞 2010年5月2日
 
 3.
 

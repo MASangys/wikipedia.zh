@@ -1,13 +1,8 @@
-是[暴雪娱乐发行的一款](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")。是《[星际争霸](../Page/星际争霸_\(游戏\).md "wikilink")》的续作，2010年7月27日全球同步上市（中国大陆为2011年3月29日）。\[1\]游戏于目前支援[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS平台](https://zh.wikipedia.org/wiki/macOS "wikilink")。整个《星际争霸II》由《自由之翼》以及资料片《[虫群之心](../Page/星际争霸II：虫群之心.md "wikilink")》（*Heart
-of the
-Swarm*）与《[虛空之遺](https://zh.wikipedia.org/wiki/星际争霸II：虛空之遺 "wikilink")》（*Legacy
-of the Void*）组成。
+是[暴雪娱乐发行的一款](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")。是《[星际争霸](../Page/星际争霸_\(游戏\).md "wikilink")》的续作，2010年7月27日全球同步上市（中国大陆为2011年3月29日）。\[1\]游戏于目前支援[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS平台](https://zh.wikipedia.org/wiki/macOS "wikilink")。整个《星际争霸II》由《自由之翼》以及资料片《[虫群之心](../Page/星际争霸II：虫群之心.md "wikilink")》（*Heart of the Swarm*）与《[虛空之遺](https://zh.wikipedia.org/wiki/星际争霸II：虛空之遺 "wikilink")》（*Legacy of the Void*）组成。
 
-游戏发生在公元26世纪[银河系的边缘](../Page/银河系.md "wikilink")，分为三个种族：[地球人的后裔](https://zh.wikipedia.org/wiki/地球人 "wikilink")[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")（Terran）、一种进化迅速的生物群体-{zh:虫族;
-zh-hans:异虫;
-zh-hant:蟲族;}-（Zerg），以及一支高度文明并具有心灵力量的远古种族神族（Protoss）。《自由之翼》的剧情集中在人类，《蟲群之心》与《虛空之遺》则分别着重於异虫与星灵。游戏中的故事发生在《[星际争霸：母巢之战](../Page/星际争霸：母巢之战.md "wikilink")》后的第四年，\[2\]玩家将跟随着[吉姆·雷诺与他的游骑兵一起对抗帝国](../Page/吉姆·雷诺.md "wikilink")。
+游戏发生在公元26世纪[银河系](../Page/银河系.md "wikilink")的边缘，分为三个种族：[地球人的后裔](https://zh.wikipedia.org/wiki/地球人 "wikilink")[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")（Terran）、一种进化迅速的生物群体-{zh:虫族; zh-hans:异虫; zh-hant:蟲族;}-（Zerg），以及一支高度文明并具有心灵力量的远古种族神族（Protoss）。《自由之翼》的剧情集中在人类，《蟲群之心》与《虛空之遺》则分别着重於异虫与星灵。游戏中的故事发生在《[星际争霸：母巢之战](../Page/星际争霸：母巢之战.md "wikilink")》后的第四年，\[2\]玩家将跟随着[吉姆·雷诺](../Page/吉姆·雷诺.md "wikilink")与他的游骑兵一起对抗帝国。
 
-2011年2月，该游戏通过了[中华人民共和国文化部的审核](../Page/中华人民共和国文化部.md "wikilink")，3月29日公测，4月6日正式运营。大陆版本屏蔽、删改了一些被认为暴力血腥的内容及剧本词汇（關閉人類單位的死亡特效、減少單位流血量等）。
+2011年2月，该游戏通过了[中华人民共和国文化部](../Page/中华人民共和国文化部.md "wikilink")的审核，3月29日公测，4月6日正式运营。大陆版本屏蔽、删改了一些被认为暴力血腥的内容及剧本词汇（關閉人類單位的死亡特效、減少單位流血量等）。
 
 2017年11月的暴雪嘉年华上，暴雪CEO、联合创始人迈克·莫汉宣布，《星际争霸II》（限自由之翼）转为免费游戏，进一步扩大免费用户可体验到的功能\[3\]\[4\]。
 
@@ -23,9 +18,7 @@ zh-hant:蟲族;}-（Zerg），以及一支高度文明并具有心灵力量的�
 
 ### 多人游戏
 
-《星际争霸II》取消了传统的局域网方式，要对战的话只能登入[暴雪官方的BattleNet](../Page/暴雪娛樂.md "wikilink")
-2.0，也就是说只有正版用户才能享受线上对战服务。\[5\]想要玩《星海爭霸II》，玩家必須先注册一个暴雪Battle.net
-帳號并在此账号上建立一個《星海爭霸II》角色。此角色将記錄玩家的所有成就、排名和其他遊戲相關資料。战网上有兩種基本多人對戰模式，排名賽與非排名賽。
+《星际争霸II》取消了传统的局域网方式，要对战的话只能登入[暴雪官方的BattleNet](../Page/暴雪娛樂.md "wikilink") 2.0，也就是说只有正版用户才能享受线上对战服务。\[5\]想要玩《星海爭霸II》，玩家必須先注册一个暴雪Battle.net 帳號并在此账号上建立一個《星海爭霸II》角色。此角色将記錄玩家的所有成就、排名和其他遊戲相關資料。战网上有兩種基本多人對戰模式，排名賽與非排名賽。
 
   - 排名賽：排名賽會透過Battle.net自動對戰配對系統安排實力相當的對手與玩家對戰。當進行這些戰鬥時，玩家的努力將可為自己爭取《星海爭霸II》天梯競賽的排名。贏得對戰勝利將能夠提升玩家的排名，並於天梯排行榜上晉升，戰敗則恰好相反。排名賽是種快節奏、有趣和公平的競爭遊戲。在Battle.net中頭200名玩家的ID將會在這裡顯示，好讓玩家之間能夠保持競爭，爭奪在星際中“霸主”的地位。
 
@@ -35,15 +28,13 @@ zh-hant:蟲族;}-（Zerg），以及一支高度文明并具有心灵力量的�
 
 <!-- end list -->
 
-  - 非排名賽：非排名賽將不會影響玩家的天梯排名，但它提供了更多不同的遊戲選擇。玩家將可以創建或加入玩家自訂的各種戰鬥設定、體驗自製地圖、選擇
-    A.I. 對手和更多。非排名賽可以和排名賽一樣具有挑戰性，但玩家卻不用擔心戰績會影響他们的排名。
+  - 非排名賽：非排名賽將不會影響玩家的天梯排名，但它提供了更多不同的遊戲選擇。玩家將可以創建或加入玩家自訂的各種戰鬥設定、體驗自製地圖、選擇 A.I. 對手和更多。非排名賽可以和排名賽一樣具有挑戰性，但玩家卻不用擔心戰績會影響他们的排名。
 
 ### 编辑器
 
 星际争霸II的编辑器能够自定游戏的战役、地图，也可以制作[游戏模组](https://zh.wikipedia.org/wiki/模組_\(遊戲\) "wikilink")。它比《[魔兽争霸3](https://zh.wikipedia.org/wiki/魔兽争霸3 "wikilink")》的编辑器更复杂，这是暴雪第一次在编辑器中内置mod编辑的功能。
 
-暴雪宣称，编辑器能够像魔兽争霸3那样创建英雄单位进行[RPG模式](../Page/電子角色扮演遊戲.md "wikilink")。\[6\]在Blizzcon
-2009上，暴雪展示了新编辑器的能力，比如它能够通过改变[用户界面将魔兽争霸](../Page/用户界面.md "wikilink")3的物品系统加入游戏中，还能用第三人称视角进行游戏。\[7\]
+暴雪宣称，编辑器能够像魔兽争霸3那样创建英雄单位进行[RPG模式](../Page/電子角色扮演遊戲.md "wikilink")。\[6\]在Blizzcon 2009上，暴雪展示了新编辑器的能力，比如它能够通过改变[用户界面](../Page/用户界面.md "wikilink")将魔兽争霸3的物品系统加入游戏中，还能用第三人称视角进行游戏。\[7\]
 
 暴雪还改变了自定地图的发行方式。以前的地图存储在本地文件中，而现在用户只能使用Battle.net上那些发布了的地图。在Battle.net上，地图/mod被限制为5个文件最多共20MB的大小，每个文件不能超过10MB。虽然现在的编辑器能自定更多的游戏内容，但Battle.net的限制却可能减少地图的数量。除非能有一个第三方的地图发布工具。\[8\]\[9\]
 
@@ -51,9 +42,7 @@ zh-hant:蟲族;}-（Zerg），以及一支高度文明并具有心灵力量的�
 
 ### 神族
 
-以宗教為政治核心的種族，人數不多，使用高科技在宇宙間建立自己的殖民地，曾經被薩爾那加（X'el
-Naga）——一個擁有如上帝造物能力的種族統治，之後神族驅逐薩爾那加人，並陷入內戰（永世之戰）。最後整合了宗教，創造出了卡拉聖典，並將所有神族的心靈連接起來。那些不願臣服於卡拉聖典的神族遭到流放，稱為黑暗聖堂武士。蟲族的主宰（the
-Overmind），以蟲海戰術和永無止盡的攻擊，摧毀神族的主星艾爾（Aiur）。最後神族的執行官塔薩達以同归于尽的方式，殺死主宰，虽然主宰死了，但在艾爾上的蟲族還是非常多。被擊敗的神族，不得不與被其驅逐千年之久的黑暗聖堂武士合流，以收復他們所失去的母星。
+以宗教為政治核心的種族，人數不多，使用高科技在宇宙間建立自己的殖民地，曾經被薩爾那加（X'el Naga）——一個擁有如上帝造物能力的種族統治，之後神族驅逐薩爾那加人，並陷入內戰（永世之戰）。最後整合了宗教，創造出了卡拉聖典，並將所有神族的心靈連接起來。那些不願臣服於卡拉聖典的神族遭到流放，稱為黑暗聖堂武士。蟲族的主宰（the Overmind），以蟲海戰術和永無止盡的攻擊，摧毀神族的主星艾爾（Aiur）。最後神族的執行官塔薩達以同归于尽的方式，殺死主宰，虽然主宰死了，但在艾爾上的蟲族還是非常多。被擊敗的神族，不得不與被其驅逐千年之久的黑暗聖堂武士合流，以收復他們所失去的母星。
 
 ### 人类
 
@@ -69,7 +58,7 @@ Overmind），以蟲海戰術和永無止盡的攻擊，摧毀神族的主星艾
 
 《星际争霸II》的故事发生在《[星际争霸：母巢之战](../Page/星际争霸：母巢之战.md "wikilink")》后的第四年。
 
-[吉姆·雷诺所领导的革命军一直在为推翻](../Page/吉姆·雷诺.md "wikilink")[蒙斯克的帝国而进行一次次战斗](https://zh.wikipedia.org/wiki/阿克图尔斯·蒙斯克 "wikilink")；然而一个昔日的伙伴——泰凯斯·芬利突然来访并且打乱了他的生活。泰凯斯·芬利曾经与吉姆有过合作，不过在一次行动中泰凯斯被帝国逮捕，吉姆·雷诺却趁机逃走了；重逢时泰凯斯告诉吉姆他是因为在“被转移到新福尔松的途中赤手空拳干掉了好几个的守卫”才逃了出来；并且提议和吉姆一起去抢夺星灵的神器碎片，因为一个叫做莫比斯基金会的研究机构里面有些“书呆子”愿意出大价钱购买，而他一向是“科学的守护神”。
+[吉姆·雷诺](../Page/吉姆·雷诺.md "wikilink")所领导的革命军一直在为推翻[蒙斯克的帝国而进行一次次战斗](https://zh.wikipedia.org/wiki/阿克图尔斯·蒙斯克 "wikilink")；然而一个昔日的伙伴——泰凯斯·芬利突然来访并且打乱了他的生活。泰凯斯·芬利曾经与吉姆有过合作，不过在一次行动中泰凯斯被帝国逮捕，吉姆·雷诺却趁机逃走了；重逢时泰凯斯告诉吉姆他是因为在“被转移到新福尔松的途中赤手空拳干掉了好几个的守卫”才逃了出来；并且提议和吉姆一起去抢夺星灵的神器碎片，因为一个叫做莫比斯基金会的研究机构里面有些“书呆子”愿意出大价钱购买，而他一向是“科学的守护神”。
 
 吉姆相信昔日的伙伴，二人经过多次战斗，陆续从星灵的守护者塔达林手中夺取了多个神器的碎片；在抢夺神器的过程中，刀锋女王凯瑞甘率领异虫卷土重来，她也在寻找这些神器，不过每次都被机警的吉姆抢先得手；战斗期间，吉姆的星灵好友圣堂武士[泽拉图突然出现并且留下了一块记忆水晶](https://zh.wikipedia.org/wiki/泽拉图尔 "wikilink")，从水晶的记忆中雷诺看到了泽拉图解读萨尔那加神殿中的预言后所看到的未来景象，按照预言的描述，创造他们的萨尔那加人将会归来消灭他们；一股[堕落的黑暗力量制造出一个新的种族](https://zh.wikipedia.org/wiki/萨尔娜迦 "wikilink")——异虫与星灵的[混合体](https://zh.wikipedia.org/wiki/混合体（星海争霸） "wikilink")。在未来的景象中堕落者消灭了人类；在人类的勢力杀死凯瑞甘之後奴隶了异虫；在堕落者的影响之下整个银河燃烧殆尽，并且星灵也将作为最后的抵抗力量而全军覆没；最后泽拉图告诉雷诺刀锋女王凯瑞甘不能死亡，因为凯瑞甘或许可以带领异虫战胜被奴隶的命运，从而成为解救整个银河的希望。
 
@@ -106,22 +95,13 @@ Overmind），以蟲海戰術和永無止盡的攻擊，摧毀神族的主星艾
 
 ## 开发
 
-游戏的开发在2003年《[魔兽争霸III：冰封王座](https://zh.wikipedia.org/wiki/魔兽争霸III：冰封王座 "wikilink")》出版后就开始了。2007年5月19日在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔开幕的](https://zh.wikipedia.org/wiki/首尔 "wikilink")[暴雪全球邀请會](../Page/暴雪娛樂.md "wikilink")（2007
-Blizzard Worldwide
-Invitational）上暴雪总裁在會中宣布該公司的新作品《星际争霸II》。\[12\]《星际争霸II》在随后的表演赛中被首次公开展示。\[13\]\[14\]在2009年4月底，《星際爭霸II》已經展開內部[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")。2010年2月18日，暴雪开始了《星际争霸II》的Beta测试。\[15\]東亚地区在7月27日全球同步上市后还将有一个公開測試环节，\[16\]玩家可以在一段时间内免费游玩全部《星际争霸II》内容。
+游戏的开发在2003年《[魔兽争霸III：冰封王座](https://zh.wikipedia.org/wiki/魔兽争霸III：冰封王座 "wikilink")》出版后就开始了。2007年5月19日在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔开幕的](https://zh.wikipedia.org/wiki/首尔 "wikilink")[暴雪全球邀请會](../Page/暴雪娛樂.md "wikilink")（2007 Blizzard Worldwide Invitational）上暴雪总裁在會中宣布該公司的新作品《星际争霸II》。\[12\]《星际争霸II》在随后的表演赛中被首次公开展示。\[13\]\[14\]在2009年4月底，《星際爭霸II》已經展開內部[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")。2010年2月18日，暴雪开始了《星际争霸II》的Beta测试。\[15\]東亚地区在7月27日全球同步上市后还将有一个公開測試环节，\[16\]玩家可以在一段时间内免费游玩全部《星际争霸II》内容。
 
-星际争霸II的设计负责人是达斯丁·布劳德（Dustin
-Browder），他是资深的[即时战略游戏设计师](../Page/即时战略游戏.md "wikilink")，2005年3月加入暴雪。他曾是《[魔戒：中土战争](../Page/魔戒.md "wikilink")》的设计负责人，早前参与《[红色警戒2](https://zh.wikipedia.org/wiki/红色警戒2 "wikilink")》和《[命令与征服：将军](https://zh.wikipedia.org/wiki/命令与征服 "wikilink")》等游戏的开发。
+星际争霸II的设计负责人是达斯丁·布劳德（Dustin Browder），他是资深的[即时战略游戏](../Page/即时战略游戏.md "wikilink")设计师，2005年3月加入暴雪。他曾是《[魔戒](../Page/魔戒.md "wikilink")：中土战争》的设计负责人，早前参与《[红色警戒2](https://zh.wikipedia.org/wiki/红色警戒2 "wikilink")》和《[命令与征服：将军](https://zh.wikipedia.org/wiki/命令与征服 "wikilink")》等游戏的开发。
 
-《星际争霸II：自由之翼》将使用[DirectX](../Page/DirectX.md "wikilink")
-9与[像素着色引擎](https://zh.wikipedia.org/wiki/像素着色引擎 "wikilink")2.0（Pixel
-Shader 2.0）规格，与[DirectX
-10完全兼容](https://zh.wikipedia.org/wiki/DirectX_10 "wikilink")，但是最終不使用DirectX
-10特效。\[17\]Mac OS
-X的程序将使用[OpenGL规格](../Page/OpenGL.md "wikilink")。游戏将利用[Havok的](../Page/Havok引擎.md "wikilink")[物理引擎来让](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")\[18\]“物体的碎片滑下斜坡”，\[19\]可以增进三维繪圖效率。另外，他们还计划在游戏中增加[VoIP语音电话](../Page/VoIP.md "wikilink")。\[20\]
+《星际争霸II：自由之翼》将使用[DirectX](../Page/DirectX.md "wikilink") 9与[像素着色引擎](https://zh.wikipedia.org/wiki/像素着色引擎 "wikilink")2.0（Pixel Shader 2.0）规格，与[DirectX 10完全兼容](https://zh.wikipedia.org/wiki/DirectX_10 "wikilink")，但是最終不使用DirectX 10特效。\[17\]Mac OS X的程序将使用[OpenGL](../Page/OpenGL.md "wikilink")规格。游戏将利用[Havok的](../Page/Havok引擎.md "wikilink")[物理引擎来让](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")\[18\]“物体的碎片滑下斜坡”，\[19\]可以增进三维繪圖效率。另外，他们还计划在游戏中增加[VoIP](../Page/VoIP.md "wikilink")语音电话。\[20\]
 
-《星际争霸II：自由之翼》在2010年9月23日的1.1.0更新後，遊戲平衡性有了新的調整及也進入了3D遊戲的年代，并新增支援NVIDIA 3D
-Vision技術。
+《星际争霸II：自由之翼》在2010年9月23日的1.1.0更新後，遊戲平衡性有了新的調整及也進入了3D遊戲的年代，并新增支援NVIDIA 3D Vision技術。
 
 ### 与原《星际争霸》的不同
 
@@ -147,25 +127,13 @@ Vision技術。
   - [星际争霸IIBattle.net主页](http://cn.battle.net/sc2/zh/)
   - [星际争霸IIBattle.net主页](http://tw.battle.net/sc2/zh/)
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:星際爭霸系列](https://zh.wikipedia.org/wiki/Category:星際爭霸系列 "wikilink")
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:使用Havok的電子遊戲](https://zh.wikipedia.org/wiki/Category:使用Havok的電子遊戲 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
-[Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink")
-[Category:军事科幻电子游戏](https://zh.wikipedia.org/wiki/Category:军事科幻电子游戏 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:星際爭霸系列](https://zh.wikipedia.org/wiki/Category:星際爭霸系列 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:使用Havok的電子遊戲](https://zh.wikipedia.org/wiki/Category:使用Havok的電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink") [Category:军事科幻电子游戏](https://zh.wikipedia.org/wiki/Category:军事科幻电子游戏 "wikilink")
 
 1.
 
 2.
 
-3.  [喜迎星际II免费 国服玩家专属福利公布 -
-    《星际争霸II》官方网站_暴雪出品，史诗级竞技大作](http://sc2.blizzard.cn/articles/1001/77146)
+3.  [喜迎星际II免费 国服玩家专属福利公布 - 《星际争霸II》官方网站_暴雪出品，史诗级竞技大作](http://sc2.blizzard.cn/articles/1001/77146)
 
 4.  [《星际争霸2：自由之翼》下月免费-驱动之家](http://news.mydrivers.com/1/554/554412.htm)
 
@@ -183,8 +151,7 @@ Vision技術。
 
 11.
 
-12. 官方公告：[Starcraft II
-    Unveiled](http://www.blizzard.com/press/070519.shtml)
+12. 官方公告：[Starcraft II Unveiled](http://www.blizzard.com/press/070519.shtml)
 
 13.
 

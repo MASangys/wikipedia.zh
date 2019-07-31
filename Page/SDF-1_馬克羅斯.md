@@ -1,6 +1,4 @@
-[macross-city.jpg](https://zh.wikipedia.org/wiki/File:macross-city.jpg "fig:macross-city.jpg")
-**SDF-1
-馬克羅斯**（），是日本動畫《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》及其美国改编版《[太空堡垒](../Page/太空堡垒.md "wikilink")》中的主役宇宙戰艦，隸屬[地球統合宇宙軍](https://zh.wikipedia.org/wiki/地球統合宇宙軍 "wikilink")，並被視為統合軍的象徵。
+[macross-city.jpg](https://zh.wikipedia.org/wiki/File:macross-city.jpg "fig:macross-city.jpg") **SDF-1 馬克羅斯**（），是日本動畫《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》及其美国改编版《[太空堡垒](../Page/太空堡垒.md "wikilink")》中的主役宇宙戰艦，隸屬[地球統合宇宙軍](https://zh.wikipedia.org/wiki/地球統合宇宙軍 "wikilink")，並被視為統合軍的象徵。
 
 馬克羅斯的舷號「SDF-1」是「Super Dimensional Fortress-1」的字首縮寫，意為「超時空要塞一號艦」。
 
@@ -9,21 +7,17 @@
 ### 修復及發展
 
   -
-    1999年7月1日，一顆外星隕石繞了地球四分之三圈，最終墜落在南太平洋亞塔利亞島並造成重大損害。聯合國的調查發現是一艘巨型宇宙戰艦，而使用這艘戰艦的外星人擁有比人類身高大5\~6倍的身體。為了與製造這艘戰艦的生物對抗，聯合國決定將戰艦原地修復，戰艦被編號為「ASS-1」，意思是「Alien
-    Star Ship」。
+    1999年7月1日，一顆外星隕石繞了地球四分之三圈，最終墜落在南太平洋亞塔利亞島並造成重大損害。聯合國的調查發現是一艘巨型宇宙戰艦，而使用這艘戰艦的外星人擁有比人類身高大5\~6倍的身體。為了與製造這艘戰艦的生物對抗，聯合國決定將戰艦原地修復，戰艦被編號為「ASS-1」，意思是「Alien Star Ship」。
 
 <!-- end list -->
 
   -
-    ASS-1證明了外星高智慧生物的存在，於是多個國家（以[西方國家為主](https://zh.wikipedia.org/wiki/西方國家 "wikilink")）決定以[聯合國為基礎](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，建立單一人類政府；與此同時，以[蘇聯為首的華沙公約集團主張應重視各國之間文化的差異](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，反對組織全球性政府。兩個陣營發生戰爭，史稱統合戰爭。戰爭期間，統合政府透過研究ASS-1上的科技（[Over
-    Technology of
-    Macross](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\) "wikilink")，簡稱[OTM技術](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\) "wikilink")），令人類科技突飛猛進。統合政府原定修復ASS-1，不過由於[統合戰爭影響](https://zh.wikipedia.org/wiki/統合戰爭 "wikilink")（反統合軍勢力多次攻擊ASS-1所在地）因此原本預定在2005年6月完成修復的ASS-1拖延至2009年完工。
+    ASS-1證明了外星高智慧生物的存在，於是多個國家（以[西方國家為主](https://zh.wikipedia.org/wiki/西方國家 "wikilink")）決定以[聯合國為基礎](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，建立單一人類政府；與此同時，以[蘇聯為首的華沙公約集團主張應重視各國之間文化的差異](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，反對組織全球性政府。兩個陣營發生戰爭，史稱統合戰爭。戰爭期間，統合政府透過研究ASS-1上的科技（[Over Technology of Macross](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\) "wikilink")，簡稱[OTM技術](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\) "wikilink")），令人類科技突飛猛進。統合政府原定修復ASS-1，不過由於[統合戰爭影響](https://zh.wikipedia.org/wiki/統合戰爭 "wikilink")（反統合軍勢力多次攻擊ASS-1所在地）因此原本預定在2005年6月完成修復的ASS-1拖延至2009年完工。
 
 <!-- end list -->
 
   -
-    ASS-1被重新命名為「SDF-1
-    馬克羅斯」。原先計劃是在亞塔利亞島完成修復之後開往宇宙進行艤裝並與[ARMD級突擊空母結合](https://zh.wikipedia.org/wiki/ARMD級突擊空母 "wikilink")，並在完成相關測試後才正式服役。然而，這項艤裝在完工紀念日當天的意外影響下並未完工。
+    ASS-1被重新命名為「SDF-1 馬克羅斯」。原先計劃是在亞塔利亞島完成修復之後開往宇宙進行艤裝並與[ARMD級突擊空母結合](https://zh.wikipedia.org/wiki/ARMD級突擊空母 "wikilink")，並在完成相關測試後才正式服役。然而，這項艤裝在完工紀念日當天的意外影響下並未完工。
 
 ### 第一次星間大戰
 
@@ -33,18 +27,17 @@
 <!-- end list -->
 
   -
-    主炮發射意外後，為了逃避傑特拉帝軍攻擊在收容了亞塔利亞島市民後馬克羅斯第一次進行超時空航法（Fold）無目標移動到[冥王星軌道](../Page/冥王星.md "wikilink")，孤独的在太阳系中逃避攻击並返回地球。之后，在林明美歌声之下，和感受到“文化的力量”的布里泰（）舰队一起迎击波多尔·扎（）带来的杰特拉帝主力舰队并获胜。第一次星间大战结束，新统合政府成立。
+    主炮發射意外後，為了逃避傑特拉帝軍攻擊在收容了亞塔利亞島市民後馬克羅斯第一次進行超時空航法（Fold）無目標移動到[冥王星](../Page/冥王星.md "wikilink")軌道，孤独的在太阳系中逃避攻击並返回地球。之后，在林明美歌声之下，和感受到“文化的力量”的布里泰（）舰队一起迎击波多尔·扎（）带来的杰特拉帝主力舰队并获胜。第一次星间大战结束，新统合政府成立。
 
 ### 戰後
 
   -
-    在2011年10月的工廠衛星奪取作戰時，布里泰的旗艦發現了一艘非常類似ASS-1的戰艦殘骸。因為害怕這又是一個陷阱，布里泰艦隊並沒有立刻去確認它。但是作戰之後派出的[打撈部隊卻回報在該座標附近並沒有發現任何類似船艦的殘骸](../Page/打撈.md "wikilink")。在2012年之後，統合軍就再也沒有任何遭遇類似ASS-1設計之戰艦的報告。
+    在2011年10月的工廠衛星奪取作戰時，布里泰的旗艦發現了一艘非常類似ASS-1的戰艦殘骸。因為害怕這又是一個陷阱，布里泰艦隊並沒有立刻去確認它。但是作戰之後派出的[打撈](../Page/打撈.md "wikilink")部隊卻回報在該座標附近並沒有發現任何類似船艦的殘骸。在2012年之後，統合軍就再也沒有任何遭遇類似ASS-1設計之戰艦的報告。
 
 <!-- end list -->
 
   -
-    在2012年大戰結束後的馬克羅斯市防衛戰中馬克羅斯嚴重受創，因此統合政府展開了翻修計畫。包括重建主炮、更新艦橋規劃等。整個翻修計畫在2012年9月Megaroad-01出發之前完成。加上之前設立在馬克羅斯中的新統合軍指揮中心以及圍繞著馬克羅斯建立的馬克羅斯市
-    ，整台馬克羅斯已經成為地球文化的代表和紀念碑性質。
+    在2012年大戰結束後的馬克羅斯市防衛戰中馬克羅斯嚴重受創，因此統合政府展開了翻修計畫。包括重建主炮、更新艦橋規劃等。整個翻修計畫在2012年9月Megaroad-01出發之前完成。加上之前設立在馬克羅斯中的新統合軍指揮中心以及圍繞著馬克羅斯建立的馬克羅斯市 ，整台馬克羅斯已經成為地球文化的代表和紀念碑性質。
 
 <!-- end list -->
 
@@ -53,9 +46,9 @@
 
 ## 變形能力
 
-SDF-1原計劃與ARMD-01和ARMD-02（左右臂）連接。由於敵軍炮擊嚴密使得連結作業無法遂行。因此在跳躍航行迷途後，SDF-1克難使用一同被移動到[冥王星宙域的航空母艦](../Page/冥王星.md "wikilink")[普羅米修斯以及登陸艦](https://zh.wikipedia.org/wiki/普羅米修斯 "wikilink")[代達羅斯作為左](https://zh.wikipedia.org/wiki/代達羅斯 "wikilink")、右臂。經過改造後兩艘航空母艦以及登陸艦能夠在太空中使用。但是由於物資不足，僅能以現有的普羅米修斯號上的飛行甲板作為[VF-1的起降之用](https://zh.wikipedia.org/wiki/VF-1 "wikilink")。而在第一次馬克羅斯市防衛戰後，修復為劇場版中的姿態。
+SDF-1原計劃與ARMD-01和ARMD-02（左右臂）連接。由於敵軍炮擊嚴密使得連結作業無法遂行。因此在跳躍航行迷途後，SDF-1克難使用一同被移動到[冥王星](../Page/冥王星.md "wikilink")宙域的航空母艦[普羅米修斯以及登陸艦](https://zh.wikipedia.org/wiki/普羅米修斯 "wikilink")[代達羅斯作為左](https://zh.wikipedia.org/wiki/代達羅斯 "wikilink")、右臂。經過改造後兩艘航空母艦以及登陸艦能夠在太空中使用。但是由於物資不足，僅能以現有的普羅米修斯號上的飛行甲板作為[VF-1的起降之用](https://zh.wikipedia.org/wiki/VF-1 "wikilink")。而在第一次馬克羅斯市防衛戰後，修復為劇場版中的姿態。
 
-在第一次跳躍移動後，跳躍移動系統因故消失，使得能源傳輸中斷致使主炮無法填充能源。在研究人員的提議下，SDF-1利用其高度模組化的結構進行變形來彌補[瞬間移動系統的空缺](../Page/瞬間移動.md "wikilink")，變形後的SDF-1稱為強攻型。
+在第一次跳躍移動後，跳躍移動系統因故消失，使得能源傳輸中斷致使主炮無法填充能源。在研究人員的提議下，SDF-1利用其高度模組化的結構進行變形來彌補[瞬間移動](../Page/瞬間移動.md "wikilink")系統的空缺，變形後的SDF-1稱為強攻型。
 
 在瞬間移動系統消失之後，其所在地出現了不明的力場，經過艦上人員研究之後開發出針點防護系統。這套系統能夠產生四個圓形力場防禦各種的光束、物理攻擊。針點防護系統研發成功後，由早瀨未沙發明出克難的「格鬥式」攻擊法：[代達羅斯攻擊](https://zh.wikipedia.org/wiki/代達羅斯 "wikilink")。此套攻擊方式是在強攻型時利用針點防護系統保護代達羅斯艦首的登陸閘門，將艦首打入敵艦內部再打開登陸閘門，讓閘門內等待多時的Destroid部隊朝敵艦內部猛烈開火達到攻擊效果。
 
@@ -75,8 +68,7 @@ SDF-1原計劃與ARMD-01和ARMD-02（左右臂）連接。由於敵軍炮擊嚴�
 **SDFN**
 
   -
-    2013年，在Megaroad-01出航後，為調查、確保超長距離移民船團預定航路安全，而挪用傑特拉帝中型艦引擎與武裝建造SDF-1同型艦並賦予SDFN型號，計有SDFN-01為首12艘同型艦。第117次大規模調查船團旗艦SDFN-04，於2059年在Galia4行星邊境發現其殘骸。《[Macross
-    F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》劇中稱為「第一世代型馬克羅斯」。
+    2013年，在Megaroad-01出航後，為調查、確保超長距離移民船團預定航路安全，而挪用傑特拉帝中型艦引擎與武裝建造SDF-1同型艦並賦予SDFN型號，計有SDFN-01為首12艘同型艦。第117次大規模調查船團旗艦SDFN-04，於2059年在Galia4行星邊境發現其殘骸。《[Macross F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")》劇中稱為「第一世代型馬克羅斯」。
 
 ### Megaroad級
 
@@ -107,8 +99,7 @@ SDF-1原計劃與ARMD-01和ARMD-02（左右臂）連接。由於敵軍炮擊嚴�
   -
     2030年，建造Megaroad級後繼巨大宇宙移民船1號艦，擁有優越的超時空航行能力，採用分離結構新型移民船，並有多種外表、機能相異的同型艦。前端是、後端連結龐大都市型移民居住艦，戰鬥時航艦可分離居住區變成強攻型作戰。
     2038年，第37次超長距離移民船團以新馬克羅斯級7號艦為旗艦出發。
-    2040年，第55次超長距離移民船團新馬克羅斯級25號艦Macross
-    Frontier，為系列發展型，規模更大的第五世代型移民船團出航。
+    2040年，第55次超長距離移民船團新馬克羅斯級25號艦Macross Frontier，為系列發展型，規模更大的第五世代型移民船團出航。
 
 <!-- end list -->
 
@@ -123,8 +114,7 @@ SDF-1原計劃與ARMD-01和ARMD-02（左右臂）連接。由於敵軍炮擊嚴�
 ### 馬克羅斯Quarter級
 
   -
-    《Macross
-    F》登場，Froniter船團所属民間軍事企業S.M.S母艦。全長472公尺、約新馬克羅斯級前端可變航艦的4分之1（Quarter），由5艘艦艇組成的複合艦，仍保留傳統馬克羅斯變形等作戰機能。
+    《Macross F》登場，Froniter船團所属民間軍事企業S.M.S母艦。全長472公尺、約新馬克羅斯級前端可變航艦的4分之1（Quarter），由5艘艦艇組成的複合艦，仍保留傳統馬克羅斯變形等作戰機能。
 
 ## 劇場版
 
@@ -175,8 +165,6 @@ SDF-1原計劃與ARMD-01和ARMD-02（左右臂）連接。由於敵軍炮擊嚴�
 
 </div>
 
-[Category:超時空要塞兵器](https://zh.wikipedia.org/wiki/Category:超時空要塞兵器 "wikilink")
-[Category:宇宙戰艦](https://zh.wikipedia.org/wiki/Category:宇宙戰艦 "wikilink")
-[Category:宇宙要塞](https://zh.wikipedia.org/wiki/Category:宇宙要塞 "wikilink")
+[Category:超時空要塞兵器](https://zh.wikipedia.org/wiki/Category:超時空要塞兵器 "wikilink") [Category:宇宙戰艦](https://zh.wikipedia.org/wiki/Category:宇宙戰艦 "wikilink") [Category:宇宙要塞](https://zh.wikipedia.org/wiki/Category:宇宙要塞 "wikilink")
 
 1.  在《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》裡，其實是馬克羅斯市中樞部分遭攻擊，轉移至頭部艦橋繼續指揮，全在SDF-1內運作；《[太空堡壘](https://zh.wikipedia.org/wiki/太空堡壘 "wikilink")》以劇中對白方式說明。

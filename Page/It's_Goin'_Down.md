@@ -1,11 +1,6 @@
-***It\`s Goin\`
-Down***這首歌曲是[聯合公園](../Page/聯合公園.md "wikilink")為跨刀製作的單曲，這首歌曲收錄於[唱盤劊子手的](https://zh.wikipedia.org/wiki/X-Ecutioners "wikilink")"從頭做起"專輯，此單曲MV也是由[聯合公園](../Page/聯合公園.md "wikilink")操刀製作。
+***It\`s Goin\` Down***這首歌曲是[聯合公園](../Page/聯合公園.md "wikilink")為跨刀製作的單曲，這首歌曲收錄於[唱盤劊子手的](https://zh.wikipedia.org/wiki/X-Ecutioners "wikilink")"從頭做起"專輯，此單曲MV也是由[聯合公園](../Page/聯合公園.md "wikilink")操刀製作。
 
-而此歌曲也在[聯合公園](../Page/聯合公園.md "wikilink")推出的LP Underground
-4.0有組曲Live版本，搭配組曲的歌曲有**Step
-Up**（收錄於[混合理論](../Page/混合理論.md "wikilink")EP）和**Nobody's
-Listening**（收錄於[天空之城—美特拉](../Page/天空之城—美特拉.md "wikilink")）在加上此單曲**It's
-Goin' Down**，組合成的組曲歌名叫做**Step Up/Nobody's Listening/It's Goin' Down** 。
+而此歌曲也在[聯合公園](../Page/聯合公園.md "wikilink")推出的LP Underground 4.0有組曲Live版本，搭配組曲的歌曲有**Step Up**（收錄於[混合理論](../Page/混合理論.md "wikilink")EP）和**Nobody's Listening**（收錄於[天空之城—美特拉](../Page/天空之城—美特拉.md "wikilink")）在加上此單曲**It's Goin' Down**，組合成的組曲歌名叫做**Step Up/Nobody's Listening/It's Goin' Down** 。
 
 ## MV
 
@@ -17,5 +12,4 @@ Goin' Down**，組合成的組曲歌名叫做**Step Up/Nobody's Listening/It's G
 2.  "X-Ecution of a Bum Rush" (Explicit)
 3.  "Play That Beat" (Lo Fidelity Allstars Remix) (Explicit)
 
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
+[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")

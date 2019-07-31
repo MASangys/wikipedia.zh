@@ -1,9 +1,6 @@
-**Restaurant
-City**（非官方譯名：**餐廳城市**，簡稱**餐城**），是一款由英國[Playfish](../Page/Playfish.md "wikilink")開發的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，運行於[Facebook](../Page/Facebook.md "wikilink")平台，其為相當受歡迎及較有長期使用者的Facebook遊戲之一，但Playfish於2012年5月宣佈，Restaurant
-City會於6月29日停止營運\[1\]。
+**Restaurant City**（非官方譯名：**餐廳城市**，簡稱**餐城**），是一款由英國[Playfish](../Page/Playfish.md "wikilink")開發的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，運行於[Facebook](../Page/Facebook.md "wikilink")平台，其為相當受歡迎及較有長期使用者的Facebook遊戲之一，但Playfish於2012年5月宣佈，Restaurant City會於6月29日停止營運\[1\]。
 
-遊戲主要以模擬經營餐廳為主，玩家可請Facebook上的朋友為餐廳員工，作為廚師、侍應、酒保或清潔工。玩家可以到街上（Street）拜訪Facebook上好友們的餐廳，並可幫忙為田地澆水、撿拾店內垃圾、或解決店內的問題，也可在隨意街（Random
-Street）隨機拜訪其他Facebook使用者的餐廳，另外也可到美食街（Gourmet Street）參觀評價最高的餐廳。
+遊戲主要以模擬經營餐廳為主，玩家可請Facebook上的朋友為餐廳員工，作為廚師、侍應、酒保或清潔工。玩家可以到街上（Street）拜訪Facebook上好友們的餐廳，並可幫忙為田地澆水、撿拾店內垃圾、或解決店內的問題，也可在隨意街（Random Street）隨機拜訪其他Facebook使用者的餐廳，另外也可到美食街（Gourmet Street）參觀評價最高的餐廳。
 
 每周均會有新料理、功能及產品推出，以吸引玩家繼續遊戲。目前有90個等級，每上升一級可以有增加餐廳面積、增加雇用的員工或增加可耕種的田地，亦會有一千元獎金及随機2個食材獎勵。
 
@@ -15,16 +12,13 @@ Street）隨機拜訪其他Facebook使用者的餐廳，另外也可到美食街
 
 此外，玩家的個人裝扮也可隨時修改，衣服、配飾、面部特徵等可以用金錢來購買。
 
-另外為了吸引玩家繼續經營，**Restaurant
-City**逢星期四上午八時(UTC+8)都會發佈新主題給玩家自由設計。而新發佈主題限時物品有機會在更新主題後的星期六上午八時(UTC+8)發佈限時物品。
+另外為了吸引玩家繼續經營，**Restaurant City**逢星期四上午八時(UTC+8)都會發佈新主題給玩家自由設計。而新發佈主題限時物品有機會在更新主題後的星期六上午八時(UTC+8)發佈限時物品。
 
-2012 年6月29日起，餐城（Restaurant City）停止運營，Playfish/EA將所有使用者的資料刪除，並阻止使用者進入。
-在5月中時，餐城突然從Facebook專頁中申明，他們的遊戲將於這一天刪除。
+2012 年6月29日起，餐城（Restaurant City）停止運營，Playfish/EA將所有使用者的資料刪除，並阻止使用者進入。 在5月中時，餐城突然從Facebook專頁中申明，他們的遊戲將於這一天刪除。
 
 ## 食材
 
-食材用作學習新料理，令餐廳可以提供更多款式的料理。探訪從未造訪過的朋友的餐廳會得到一項食材，每天登入遊戲也會得到一到五款隨機食材(以玩家登入情況決定。連續兩天有登入可得兩件食材，如此類推，連續五天或以上有登入可得五件食材)及一個Food
-Quiz，若玩家答對了Food Quiz，亦獲得隨機食材一件。
+食材用作學習新料理，令餐廳可以提供更多款式的料理。探訪從未造訪過的朋友的餐廳會得到一項食材，每天登入遊戲也會得到一到五款隨機食材(以玩家登入情況決定。連續兩天有登入可得兩件食材，如此類推，連續五天或以上有登入可得五件食材)及一個Food Quiz，若玩家答對了Food Quiz，亦獲得隨機食材一件。
 
 玩家也可與Facebook上的朋友交換食材，在自己的餐單（Menu）可以設定食材是否加鎖，未上鎖的食材無法換得上鎖的食材，反之亦然：
 
@@ -32,15 +26,13 @@ Quiz，若玩家答對了Food Quiz，亦獲得隨機食材一件。
 
 加了鎖的食材不用計算等級，只要雙方的食材都有上鎖，那麼只要完成一般交換的程序然後等待對方接獲通知就可以了，此時對方有權決定同意或是拒絕你的邀請。
 
-食材市場（Ingredient
-Market）每天會隨機販售三款不同的食材，讓玩家自由購買，有些網站專門分析每日食材的價格，由歷史資料來分析價格區間，並給予玩家購買上的建議。像是facebook上的[遊戲基地](../Page/遊戲基地.md "wikilink")頁面。
+食材市場（Ingredient Market）每天會隨機販售三款不同的食材，讓玩家自由購買，有些網站專門分析每日食材的價格，由歷史資料來分析價格區間，並給予玩家購買上的建議。像是facebook上的[遊戲基地](../Page/遊戲基地.md "wikilink")頁面。
 
 餐廳旁亦有田地種植食材。由第6級開始，會有一塊田，每升二級，可以多一塊，到32級會有九塊田。另外花二千塊可以買種子種植食材，種植下去的種子種類為隨機性，無法由玩家選擇。
 
 ## 料理
 
-Restaurant
-City的料理分四種：頭盤（Starter）、主菜（Main）、甜品（Dessert）和飲料（Drink）。每道料理分十級，以下為各級列表：
+Restaurant City的料理分四種：頭盤（Starter）、主菜（Main）、甜品（Dessert）和飲料（Drink）。每道料理分十級，以下為各級列表：
 
 | 中文譯名 | 英文原名        | 碟子樣式  | 實際等級     | 經驗值加成 | GP加成 |
 | ---- | ----------- | ----- | -------- | ----- | ---- |
@@ -55,17 +47,13 @@ City的料理分四種：頭盤（Starter）、主菜（Main）、甜品（Desse
 | 頂級的  | Ultimate    | 銀邊碟   | Level 9  | 700   | 5    |
 | 皇家的  | Royal       | 金邊碟   | Level 10 | 800   | 5.5  |
 
-自2009年開始，Restaurant
-City會在特別日子，如[萬聖節](https://zh.wikipedia.org/wiki/萬聖節 "wikilink")、[感恩節和](https://zh.wikipedia.org/wiki/感恩節 "wikilink")[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，推出限量菜式，若玩家於指定日期前「學習」(Learn)了這些菜式（把菜式升至Level
-1），那麼菜式就會永久留在玩家的菜單上；否則這些菜式將會在指定日期後永久消失，而玩家也同時將永遠無法「學習」這些菜式。
+自2009年開始，Restaurant City會在特別日子，如[萬聖節](https://zh.wikipedia.org/wiki/萬聖節 "wikilink")、[感恩節和](https://zh.wikipedia.org/wiki/感恩節 "wikilink")[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，推出限量菜式，若玩家於指定日期前「學習」(Learn)了這些菜式（把菜式升至Level 1），那麼菜式就會永久留在玩家的菜單上；否則這些菜式將會在指定日期後永久消失，而玩家也同時將永遠無法「學習」這些菜式。
 
 亦有部分料理是Gourmet King菜式，當玩家遇上Guromet King，玩家便能把這兒其中一種Gourmet King菜式與朋友分享。
 
 ## 爭論
 
-《**Restaurant
-City**》於2012年6月29日結束營運，令不少玩家抱怨被EA收購的Playfish刪掉此遊戲令他們失去樂趣，此情況在Playfish刪掉旗下遊戲時出現，例如[Hotel
-City](../Page/Hotel_City.md "wikilink")、[寵物社會](https://zh.wikipedia.org/wiki/寵物社會 "wikilink")、[模擬時光等](https://zh.wikipedia.org/wiki/模擬時光 "wikilink")。\[2\]
+《**Restaurant City**》於2012年6月29日結束營運，令不少玩家抱怨被EA收購的Playfish刪掉此遊戲令他們失去樂趣，此情況在Playfish刪掉旗下遊戲時出現，例如[Hotel City](../Page/Hotel_City.md "wikilink")、[寵物社會](https://zh.wikipedia.org/wiki/寵物社會 "wikilink")、[模擬時光等](https://zh.wikipedia.org/wiki/模擬時光 "wikilink")。\[2\]
 
 ## 參考資料
 

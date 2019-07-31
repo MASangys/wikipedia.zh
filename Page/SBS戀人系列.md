@@ -1,4 +1,4 @@
-**《戀人系列》**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2004年至2007年期間播放的三套由[申宇哲執導](../Page/申宇哲.md "wikilink")、[金銀淑編劇](../Page/金銀淑.md "wikilink")，以[戀人為題材的](https://zh.wikipedia.org/wiki/戀人 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
+**《戀人系列》**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2004年至2007年期間播放的三套由[申宇哲](../Page/申宇哲.md "wikilink")執導、[金銀淑](../Page/金銀淑.md "wikilink")編劇，以[戀人為題材的](https://zh.wikipedia.org/wiki/戀人 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 <table>
 <tbody>
@@ -73,9 +73,6 @@
   - [布拉格戀人韓國官方網站](http://tv.sbs.co.kr/praha/)
   - [戀人韓國官方網站](http://tv.sbs.co.kr/lovers2006/)
 
-[Category:SBS戀人系列](https://zh.wikipedia.org/wiki/Category:SBS戀人系列 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:金銀淑劇本作品](https://zh.wikipedia.org/wiki/Category:金銀淑劇本作品 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
+[Category:SBS戀人系列](https://zh.wikipedia.org/wiki/Category:SBS戀人系列 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:金銀淑劇本作品](https://zh.wikipedia.org/wiki/Category:金銀淑劇本作品 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
 
 1.  TNS收視資料：[TNS Media Korea](http://www.tnsmk.co.kr)

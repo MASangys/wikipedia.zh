@@ -1,11 +1,9 @@
-**全國FM聯合**（）是由[日本全國所有加盟](../Page/日本.md "wikilink")[日本民間放送聯盟的](../Page/日本民間放送聯盟.md "wikilink")52家民營[FM](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")[廣播電台組成的](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")[廣播網](https://zh.wikipedia.org/wiki/廣播網 "wikilink")。
+**全國FM聯合**（）是由[日本](../Page/日本.md "wikilink")全國所有加盟[日本民間放送聯盟](../Page/日本民間放送聯盟.md "wikilink")的52家民營[FM](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")[廣播電台組成的](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")[廣播網](https://zh.wikipedia.org/wiki/廣播網 "wikilink")。
 
 ## 加盟局
 
-※
-本表按「[北海道](../Page/北海道.md "wikilink")-[東北](https://zh.wikipedia.org/wiki/東北地方 "wikilink")-[關東](https://zh.wikipedia.org/wiki/關東 "wikilink")-[甲信越](https://zh.wikipedia.org/wiki/甲信越 "wikilink")-[北陸](https://zh.wikipedia.org/wiki/北陸 "wikilink")-[靜岡](https://zh.wikipedia.org/wiki/靜岡 "wikilink")-[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")-[近畿](https://zh.wikipedia.org/wiki/近畿 "wikilink")-[中](../Page/中国地方.md "wikilink")[四国](https://zh.wikipedia.org/wiki/四国 "wikilink")-[九州](https://zh.wikipedia.org/wiki/九州 "wikilink")[沖繩](https://zh.wikipedia.org/wiki/沖繩 "wikilink")」的順序記載。
-※
-所属系列（加盟局）的表示記號：[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")＝（●）、[JFL](https://zh.wikipedia.org/wiki/JAPAN_FM_LEAGUE "wikilink")＝（▲）、[MegaNet](https://zh.wikipedia.org/wiki/MegaNet "wikilink")＝（■）、独立局＝（★）
+※ 本表按「[北海道](../Page/北海道.md "wikilink")-[東北](https://zh.wikipedia.org/wiki/東北地方 "wikilink")-[關東](https://zh.wikipedia.org/wiki/關東 "wikilink")-[甲信越](https://zh.wikipedia.org/wiki/甲信越 "wikilink")-[北陸](https://zh.wikipedia.org/wiki/北陸 "wikilink")-[靜岡](https://zh.wikipedia.org/wiki/靜岡 "wikilink")-[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")-[近畿](https://zh.wikipedia.org/wiki/近畿 "wikilink")-[中](../Page/中国地方.md "wikilink")[四国](https://zh.wikipedia.org/wiki/四国 "wikilink")-[九州](https://zh.wikipedia.org/wiki/九州 "wikilink")[沖繩](https://zh.wikipedia.org/wiki/沖繩 "wikilink")」的順序記載。
+※ 所属系列（加盟局）的表示記號：[JFN](../Page/JFN.md "wikilink")＝（●）、[JFL](https://zh.wikipedia.org/wiki/JAPAN_FM_LEAGUE "wikilink")＝（▲）、[MegaNet](https://zh.wikipedia.org/wiki/MegaNet "wikilink")＝（■）、独立局＝（★）
 
 <table>
 <thead>
@@ -406,5 +404,4 @@
 </tbody>
 </table>
 
-[Category:日本广播电台](https://zh.wikipedia.org/wiki/Category:日本广播电台 "wikilink")
-[Category:電台網](https://zh.wikipedia.org/wiki/Category:電台網 "wikilink")
+[Category:日本广播电台](https://zh.wikipedia.org/wiki/Category:日本广播电台 "wikilink") [Category:電台網](https://zh.wikipedia.org/wiki/Category:電台網 "wikilink")

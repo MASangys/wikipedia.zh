@@ -1,5 +1,4 @@
-**TLC頻道**（****）是[探索傳播](../Page/探索傳播.md "wikilink")（）旗下其中的一個頻道，美國版本解作「The
-Learning Channel」（學習頻道）；亞太版本則解作「Travel & Living Channel」（旅遊生活頻道）。
+**TLC頻道**（****）是[探索傳播](../Page/探索傳播.md "wikilink")（）旗下其中的一個頻道，美國版本解作「The Learning Channel」（學習頻道）；亞太版本則解作「Travel & Living Channel」（旅遊生活頻道）。
 
 ## 亞洲TLC頻道
 
@@ -7,9 +6,7 @@ Learning Channel」（學習頻道）；亞太版本則解作「Travel & Living 
 
 ## 探索旅遊生活頻道
 
-探索旅遊生活頻道在2005年10月1日啟播，配合整個探索電視網重組，取代探索旅遊歷險頻道，定位為旅遊體驗與家居生活頻道。當時除[北美使用獨特的市場定位外](https://zh.wikipedia.org/wiki/北美 "wikilink")，[探索通信全球均使用Discovery旅遊生活頻道作為組合的一份子](https://zh.wikipedia.org/wiki/探索通信 "wikilink")；然而各個地區所播映的節目會隨版權和當地的文化而作出調節。現在TLC旅遊生活頻道擁有以下數個版本：亞洲、台灣(2003年開播)、印度、澳洲、紐西蘭、歐洲、英國、義大利、Viajar
-y
-Vivir（美國西班牙語版）和巴西／拉丁美洲，並與[中國大陸境內多家地方電視台合作](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、設立專屬節目播放區塊。
+探索旅遊生活頻道在2005年10月1日啟播，配合整個探索電視網重組，取代探索旅遊歷險頻道，定位為旅遊體驗與家居生活頻道。當時除[北美使用獨特的市場定位外](https://zh.wikipedia.org/wiki/北美 "wikilink")，[探索通信全球均使用Discovery旅遊生活頻道作為組合的一份子](https://zh.wikipedia.org/wiki/探索通信 "wikilink")；然而各個地區所播映的節目會隨版權和當地的文化而作出調節。現在TLC旅遊生活頻道擁有以下數個版本：亞洲、台灣(2003年開播)、印度、澳洲、紐西蘭、歐洲、英國、義大利、Viajar y Vivir（美國西班牙語版）和巴西／拉丁美洲，並與[中國大陸境內多家地方電視台合作](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、設立專屬節目播放區塊。
 
 ## 節目列表
 
@@ -28,8 +25,7 @@ Vivir（美國西班牙語版）和巴西／拉丁美洲，並與[中國大陸�
   - [帥哥廚師到我家](../Page/帥哥廚師到我家.md "wikilink")
   - [決戰明日彩妝](https://zh.wikipedia.org/wiki/決戰明日彩妝 "wikilink")
   - [酷男的異想世界](../Page/粉雄救兵.md "wikilink")（）
-  - [蛋糕天王](https://zh.wikipedia.org/wiki/蛋糕天王 "wikilink")（Cake
-    Boss）(第1季\~第6季)
+  - [蛋糕天王](https://zh.wikipedia.org/wiki/蛋糕天王 "wikilink")（Cake Boss）(第1季\~第6季)
   - [吃遍湄公河](https://zh.wikipedia.org/wiki/吃遍湄公河 "wikilink")
   - [大廚異想世界](https://zh.wikipedia.org/wiki/大廚異想世界 "wikilink")
   - [超冏刺青](https://zh.wikipedia.org/wiki/超冏刺青 "wikilink")
@@ -79,8 +75,7 @@ Vivir（美國西班牙語版）和巴西／拉丁美洲，並與[中國大陸�
   - [時尚大買家](https://zh.wikipedia.org/wiki/時尚大買家 "wikilink")
   - [古怪美食](https://zh.wikipedia.org/wiki/古怪美食 "wikilink")
   - [波登過境](https://zh.wikipedia.org/wiki/波登過境 "wikilink")
-  - 瑪莎與史奴比的晚餐趴[Martha & Snoop's Potluck Dinner
-    Party](https://zh.wikipedia.org/wiki/Martha_&_Snoop's_Potluck_Dinner_Party "wikilink")
+  - 瑪莎與史奴比的晚餐趴[Martha & Snoop's Potluck Dinner Party](https://zh.wikipedia.org/wiki/Martha_&_Snoop's_Potluck_Dinner_Party "wikilink")
 
 ### 台灣版特色節目
 
@@ -109,7 +104,4 @@ Vivir（美國西班牙語版）和巴西／拉丁美洲，並與[中國大陸�
   - [台灣TLC旅遊生活頻道](http://www.tlc-tw.com)
   - [西班牙語Discovery旅遊生活頻道](http://www.tudiscovery.com/programacion-de-tv/?type=day&channel_code=TLCL-SP)
 
-[Category:探索頻道節目](https://zh.wikipedia.org/wiki/Category:探索頻道節目 "wikilink")
-[Category:探索傳播](https://zh.wikipedia.org/wiki/Category:探索傳播 "wikilink")
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")
+[Category:探索頻道節目](https://zh.wikipedia.org/wiki/Category:探索頻道節目 "wikilink") [Category:探索傳播](https://zh.wikipedia.org/wiki/Category:探索傳播 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink")

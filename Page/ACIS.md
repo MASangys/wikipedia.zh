@@ -1,5 +1,4 @@
-**ACIS**是一套三維幾何造型組件軟體，適用於開發精密工程應用軟體。這套軟體是由[Spatial
-Corp](https://web.archive.org/web/20081022130947/http://www.spatial.com.cn/)於1986年開發上市，讓工程軟體開發者，能在電腦上模擬出三度空間的物體，並進行實體設計、運算、分析與處理。
+**ACIS**是一套三維幾何造型組件軟體，適用於開發精密工程應用軟體。這套軟體是由[Spatial Corp](https://web.archive.org/web/20081022130947/http://www.spatial.com.cn/)於1986年開發上市，讓工程軟體開發者，能在電腦上模擬出三度空間的物體，並進行實體設計、運算、分析與處理。
 
 使用ACIS這套組件軟體而開發的應用軟體種類，包括了下列主要產業：
 
@@ -10,7 +9,7 @@ Corp](https://web.archive.org/web/20081022130947/http://www.spatial.com.cn/)於1
   - 座標量測（[CMM](https://zh.wikipedia.org/wiki/CMM "wikilink")）
   - 立體動畫
 
-ACIS三維幾何造型組件軟體採用開放式、物件導向語言[C++架構](../Page/C++.md "wikilink")。軟體開發者可以將ACIS整合在各自的軟體界面之中，開發出獨特的工程應用軟體。產業用戶使用這些應用軟體，來輔助產品設計、分析，加速產品開發程序。汽車、飛機、電氣、建築等等，適用範圍非常廣泛。
+ACIS三維幾何造型組件軟體採用開放式、物件導向語言[C++](../Page/C++.md "wikilink")架構。軟體開發者可以將ACIS整合在各自的軟體界面之中，開發出獨特的工程應用軟體。產業用戶使用這些應用軟體，來輔助產品設計、分析，加速產品開發程序。汽車、飛機、電氣、建築等等，適用範圍非常廣泛。
 
 ## 沿革
 
@@ -92,17 +91,11 @@ ACIS三維幾何造型組件軟體採用開放式、物件導向語言[C++架構
 ## 外部連結
 
   - [Spatial Corporation Homepage](http://www.spatial.com/)
-  - [Faces and Facets Spatial's Online Community
-    Forum](https://web.archive.org/web/20071013144024/http://forums.spatial.com/)
-  - [ACIS Modeler
-    Information](https://web.archive.org/web/20070309194852/http://www.spatial.com/products/acis.html)
-  - [ACIS
-    Documentation](https://web.archive.org/web/20090428000151/http://doc.spatial.com/r19/index.php/Portal%3AACIS)
+  - [Faces and Facets Spatial's Online Community Forum](https://web.archive.org/web/20071013144024/http://forums.spatial.com/)
+  - [ACIS Modeler Information](https://web.archive.org/web/20070309194852/http://www.spatial.com/products/acis.html)
+  - [ACIS Documentation](https://web.archive.org/web/20090428000151/http://doc.spatial.com/r19/index.php/Portal%3AACIS)
 
-[Category:Acronyms](https://zh.wikipedia.org/wiki/Category:Acronyms "wikilink")
-[Category:3D_graphics_software](https://zh.wikipedia.org/wiki/Category:3D_graphics_software "wikilink")
-[Category:Computer-aided_design](https://zh.wikipedia.org/wiki/Category:Computer-aided_design "wikilink")
-[Category:CAD_file_formats](https://zh.wikipedia.org/wiki/Category:CAD_file_formats "wikilink")
+[Category:Acronyms](https://zh.wikipedia.org/wiki/Category:Acronyms "wikilink") [Category:3D_graphics_software](https://zh.wikipedia.org/wiki/Category:3D_graphics_software "wikilink") [Category:Computer-aided_design](https://zh.wikipedia.org/wiki/Category:Computer-aided_design "wikilink") [Category:CAD_file_formats](https://zh.wikipedia.org/wiki/Category:CAD_file_formats "wikilink")
 
 1.
 2.

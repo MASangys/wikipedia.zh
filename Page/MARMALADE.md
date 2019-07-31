@@ -1,5 +1,4 @@
-**MARMALADE**（）是[日本成人遊戲的品牌](../Page/日本成人遊戲.md "wikilink")。\[1\]2007年5月18日到10月19日在[音泉](../Page/音泉.md "wikilink")[網路電台播放節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")《**ま〜まれぇど放送局
-サクラサク♪さくらじお**》。
+**MARMALADE**（）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")的品牌。\[1\]2007年5月18日到10月19日在[音泉](../Page/音泉.md "wikilink")[網路電台播放節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")《**ま〜まれぇど放送局 サクラサク♪さくらじお**》。
 
 ## 主要作品
 
@@ -101,7 +100,7 @@ Oじろー、フレーム</p></td>
 <td><p>木場智士、emily</p></td>
 <td><p>吉川芳佳</p></td>
 <td><p>solfa</p></td>
-<td><p>2019年7月26日</p></td>
+<td><p>2019年9月27日</p></td>
 </tr>
 </tbody>
 </table>
@@ -116,7 +115,6 @@ Oじろー、フレーム</p></td>
 
   -
   -
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
+[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
 
 1.

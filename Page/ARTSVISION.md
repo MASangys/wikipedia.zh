@@ -2,25 +2,21 @@
 
 ## 概要
 
-1984年6月1日\[2\]，由[東京俳優生活協同組合（簡稱俳協）的經理](../Page/東京俳優生活協同組合.md "wikilink")[松田-{咲}-實創立](../Page/松田咲實.md "wikilink")，並就任ARTSVISION的首任社長。
+1984年6月1日\[2\]，由[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")（簡稱俳協）的經理[松田-{咲}-實創立](../Page/松田咲實.md "wikilink")，並就任ARTSVISION的首任社長。
 
 ARTSVISION成立之後，其名稱是由ARTS（＝藝術）的VISION（＝展望）所組成――並以透過「用藝術可以傳達迎向未來的公司」作為創業的理念\[3\]。
 
-ARTSVISION一直以培育偶像聲優馳名。以[林原惠為最知名的代表](../Page/林原惠.md "wikilink")，並再[第三次聲優熱潮時期培育出](https://zh.wikipedia.org/wiki/聲優#第三次聲優熱潮 "wikilink")[三石琴乃](../Page/三石琴乃.md "wikilink")、[椎名碧流](../Page/椎名碧流.md "wikilink")、[橫山智佐](https://zh.wikipedia.org/wiki/橫山智佐 "wikilink")、[白鳥由里](../Page/白鳥由里.md "wikilink")、[天野由梨等多名高人氣的偶像聲優](../Page/天野由梨.md "wikilink")。
+ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.md "wikilink")為最知名的代表，並再[第三次聲優熱潮時期培育出](https://zh.wikipedia.org/wiki/聲優#第三次聲優熱潮 "wikilink")[三石琴乃](../Page/三石琴乃.md "wikilink")、[椎名碧流](../Page/椎名碧流.md "wikilink")、[橫山智佐](https://zh.wikipedia.org/wiki/橫山智佐 "wikilink")、[白鳥由里](../Page/白鳥由里.md "wikilink")、[天野由梨](../Page/天野由梨.md "wikilink")等多名高人氣的偶像聲優。
 
-1997年，ARTSVISION設立子公司[I'm
-Enterprise以分擔其業務](../Page/I'm_Enterprise.md "wikilink")。
+1997年，ARTSVISION設立子公司[I'm Enterprise以分擔其業務](../Page/I'm_Enterprise.md "wikilink")。
 
-2010年6月1日起，I'm
-Enterprise社長[江崎加子男接任ARTSVISION代表董事會長](https://zh.wikipedia.org/wiki/江崎加子男 "wikilink")，[小黑淳接任代表董事社長](https://zh.wikipedia.org/wiki/小黑淳 "wikilink")。
+2010年6月1日起，I'm Enterprise社長[江崎加子男接任ARTSVISION代表董事會長](https://zh.wikipedia.org/wiki/江崎加子男 "wikilink")，[小黑淳接任代表董事社長](https://zh.wikipedia.org/wiki/小黑淳 "wikilink")。
 
 ## ARTSVISION緋聞事件
 
-2006年12月，創辦人松田-{咲}-實就任行政總裁職期間，涉嫌[猥褻一位志願當聲優的](https://zh.wikipedia.org/wiki/猥褻 "wikilink")16歲少女。次年2007年4月4日，松田被東京都警方拘捕協助調查，其後因為糖尿病的關係而保釋外出。同年5月28日，警方決定就上述事件起訴松田，翌日登上新聞，令此事件正式曝光\[4\]\[5\]\[6\]\[7\]。犯案當時，松田表示這位志願當聲優的少女面容覺得可愛，但是後來這位少女的並未通過徵選\[8\]\[9\]\[10\]。到了2007年5月30日，他辭去ARTSVISION（包括子公司[I'm
-Enterprise社長等等](../Page/I'm_Enterprise.md "wikilink")）社長的職位，而最終判決的結果是獲不起訴處分\[11\]。
+2006年12月，創辦人松田-{咲}-實就任行政總裁職期間，涉嫌[猥褻一位志願當聲優的](https://zh.wikipedia.org/wiki/猥褻 "wikilink")16歲少女。次年2007年4月4日，松田被東京都警方拘捕協助調查，其後因為糖尿病的關係而保釋外出。同年5月28日，警方決定就上述事件起訴松田，翌日登上新聞，令此事件正式曝光\[4\]\[5\]\[6\]\[7\]。犯案當時，松田表示這位志願當聲優的少女面容覺得可愛，但是後來這位少女的並未通過徵選\[8\]\[9\]\[10\]。到了2007年5月30日，他辭去ARTSVISION（包括子公司[I'm Enterprise社長等等](../Page/I'm_Enterprise.md "wikilink")）社長的職位，而最終判決的結果是獲不起訴處分\[11\]。
 
-從此之後，ARTSVISION社長的職位由[Production
-baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https://zh.wikipedia.org/wiki/町田泉 "wikilink")。並將松田與所屬聲優的關係劃清界線，同時官方網站也將跟松田相關的事情全都刪除。
+從此之後，ARTSVISION社長的職位由[Production baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https://zh.wikipedia.org/wiki/町田泉 "wikilink")。並將松田與所屬聲優的關係劃清界線，同時官方網站也將跟松田相關的事情全都刪除。
 
 ## 所屬聲優
 
@@ -466,15 +462,13 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - （現所屬：[Production★A組](../Page/Production★A組.md "wikilink")）
 
-  - [下和田裕貴](../Page/下和田裕貴.md "wikilink")（現所屬：[Office
-    PAC](../Page/Office_PAC.md "wikilink")）
+  - [下和田裕貴](../Page/下和田裕貴.md "wikilink")（現所屬：[Office PAC](../Page/Office_PAC.md "wikilink")）
 
-  - [鈴木勝美](../Page/鈴木勝美.md "wikilink")（現所屬：[81
-    Produce](../Page/81_Produce.md "wikilink")）
+  - [鈴木勝美](../Page/鈴木勝美.md "wikilink")（現所屬：[81 Produce](../Page/81_Produce.md "wikilink")）
 
   - [鈴木千尋](../Page/鈴木千尋.md "wikilink")（自由職業，Office Monorisu業務提攜）
 
-  - [鈴村健一](../Page/鈴村健一.md "wikilink")（現所屬：[INTENTION代表](../Page/INTENTION.md "wikilink")）
+  - [鈴村健一](../Page/鈴村健一.md "wikilink")（現所屬：[INTENTION](../Page/INTENTION.md "wikilink")代表）
 
   - （現所屬：[ATELIER PEACH](../Page/ATELIER_PEACH.md "wikilink")）
 
@@ -503,8 +497,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - [中川慶一](../Page/中川慶一.md "wikilink")（現所屬：Aksent）
 
-  - [中原茂](../Page/中原茂.md "wikilink")（現所屬：[Local Dream
-    Produciton](http://localdream.jp/)）
+  - [中原茂](../Page/中原茂.md "wikilink")（現所屬：[Local Dream Produciton](http://localdream.jp/)）
 
   - （現所屬：Aksent）
 
@@ -540,8 +533,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - （現所屬：）
 
-  - [森川智之](../Page/森川智之.md "wikilink")（現所屬：[AXL
-    ONE代表](../Page/AXL_ONE.md "wikilink")）
+  - [森川智之](../Page/森川智之.md "wikilink")（現所屬：[AXL ONE代表](../Page/AXL_ONE.md "wikilink")）
 
 <!-- end list -->
 
@@ -553,8 +545,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - （成立OYS Produce之後於在籍中死去）
 
-  - [山田義晴](../Page/山田義晴.md "wikilink")（現所屬：[株式會社WONDER
-    CREW](https://www.wcrew.jp/model-actor)）
+  - [山田義晴](../Page/山田義晴.md "wikilink")（現所屬：[株式會社WONDER CREW](https://www.wcrew.jp/model-actor)）
 
   - [山野井仁](../Page/山野井仁.md "wikilink")（現所屬：）
 
@@ -580,12 +571,10 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
   - [伊藤美紀](../Page/伊藤美紀.md "wikilink")（現所屬：[大澤事務所](../Page/大澤事務所.md "wikilink")）
 
   -
-  - [今井麻美](../Page/今井麻美.md "wikilink")（現所屬：[EARLY
-    WING](../Page/EARLY_WING.md "wikilink")）
+  - [今井麻美](../Page/今井麻美.md "wikilink")（現所屬：[EARLY WING](../Page/EARLY_WING.md "wikilink")）
 
   -
-  - [植田佳奈](../Page/植田佳奈.md "wikilink")（現所屬：[I'm
-    Enterprise](../Page/I'm_Enterprise.md "wikilink")）
+  - [植田佳奈](../Page/植田佳奈.md "wikilink")（現所屬：[I'm Enterprise](../Page/I'm_Enterprise.md "wikilink")）
 
   - [內山夕實](../Page/內山夕實.md "wikilink")（現所屬：大澤事務所）
 
@@ -623,8 +612,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - [小菅真美](../Page/小菅真美.md "wikilink")（現所屬：Production Ace）
 
-  - [小西寬子](../Page/小西寬子.md "wikilink")（現所屬：Dimensionfree Limited／Office
-    Squirrel，現在只進行音樂活動）
+  - [小西寬子](../Page/小西寬子.md "wikilink")（現所屬：Dimensionfree Limited／Office Squirrel，現在只進行音樂活動）
 
   - [小林由美子](../Page/小林由美子.md "wikilink")（自由職業）
 
@@ -638,8 +626,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - [佐久間紅美](../Page/佐久間紅美.md "wikilink")（現所屬：[Amuleto](../Page/Amuleto.md "wikilink")）
 
-  - [-{笹}-井千惠子](https://zh.wikipedia.org/wiki/笹井千惠子 "wikilink")（現所屬：Kenyu
-    Office）
+  - [-{笹}-井千惠子](https://zh.wikipedia.org/wiki/笹井千惠子 "wikilink")（現所屬：Kenyu Office）
 
   - （自由職業，（業務提攜））
 
@@ -663,8 +650,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - [高木早苗](../Page/高木早苗.md "wikilink")（現所屬：青二Production）
 
-  - [高木禮子](../Page/高木禮子.md "wikilink")（現所屬：[Sigma
-    Seven](../Page/Sigma_Seven.md "wikilink")）
+  - [高木禮子](../Page/高木禮子.md "wikilink")（現所屬：[Sigma Seven](../Page/Sigma_Seven.md "wikilink")）
 
   - [高橋智秋](../Page/高橋智秋.md "wikilink")（自由職業）
 
@@ -721,8 +707,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - [日比野朱里](../Page/日比野朱里.md "wikilink")（引退）
 
-  - [林原惠](../Page/林原惠.md "wikilink")（現所屬：[Woodpark
-    Office](https://zh.wikipedia.org/wiki/林原惠#Woodpark_Office "wikilink")）
+  - [林原惠](../Page/林原惠.md "wikilink")（現所屬：[Woodpark Office](https://zh.wikipedia.org/wiki/林原惠#Woodpark_Office "wikilink")）
 
   - [原惠理子](https://zh.wikipedia.org/wiki/原惠理子 "wikilink")（自由職業）
 
@@ -753,8 +738,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 
   - （現所屬：）
 
-  - [宮村優子](../Page/宮村優子.md "wikilink")（現所屬：[Japan Action
-    Enterprise](https://zh.wikipedia.org/wiki/日本動作娛樂公司 "wikilink")（業務提攜）、並以「關優子」名義作為音響監督活躍）
+  - [宮村優子](../Page/宮村優子.md "wikilink")（現所屬：[Japan Action Enterprise](https://zh.wikipedia.org/wiki/日本動作娛樂公司 "wikilink")（業務提攜）、並以「關優子」名義作為音響監督活躍）
 
   - [深雪早苗](../Page/深雪早苗.md "wikilink")（現所屬：東京俳優生活協同組合）
 
@@ -765,8 +749,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
 <!-- end list -->
 
   -
-  - [山田美穗](../Page/山田美穗.md "wikilink")（現所屬：[Crazy
-    Box](https://zh.wikipedia.org/wiki/I'm_Enterprise#Crazy_Box "wikilink")）
+  - [山田美穗](../Page/山田美穗.md "wikilink")（現所屬：[Crazy Box](https://zh.wikipedia.org/wiki/I'm_Enterprise#Crazy_Box "wikilink")）
 
   -
   - （自由職業）
@@ -803,27 +786,20 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https
   - [株式會社ARTSVISION公式官網](http://www.artsvision.co.jp/)
   - [日本配音演技研究所公式官網](http://www.nichinare.co.jp/)
 
-[Category:ARTSVISION集團](https://zh.wikipedia.org/wiki/Category:ARTSVISION集團 "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink")
+[Category:ARTSVISION集團](https://zh.wikipedia.org/wiki/Category:ARTSVISION集團 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink")
 
 1.
 
 2.
 3.  松田咲實「第1章 優史 設立」《聲優白書》，，第32頁，2000年3月15日 ISBN 4-87278-564-9
 
-4.  [](http://www.youtube.com/watch?v=AXh0D9M_m9c).
-    [YouTube](../Page/YouTube.md "wikilink"). \[2018-12-31\] .
+4.  [](http://www.youtube.com/watch?v=AXh0D9M_m9c). [YouTube](../Page/YouTube.md "wikilink"). \[2018-12-31\] .
 
-5.  [当声优先过"潜规则"！ArtsVision声优事务所社长被控猥亵少女](http://www.pcgames.com.cn/cartoon/news/guowainews/0705/897955.html)
-    ，太平洋遊戲網
+5.  [当声优先过"潜规则"！ArtsVision声优事务所社长被控猥亵少女](http://www.pcgames.com.cn/cartoon/news/guowainews/0705/897955.html) ，太平洋遊戲網
 
-6.  [恋声迷AV社前集体抗议,"猥亵门"波澜又起](http://www.pcgames.com.cn/cartoon/news/guowainews/0706/899710.html)
-    ，太平洋遊戲網
+6.  [恋声迷AV社前集体抗议,"猥亵门"波澜又起](http://www.pcgames.com.cn/cartoon/news/guowainews/0706/899710.html) ，太平洋遊戲網
 
-7.  [田村博客言清白，堀江脱社正名节-猥亵门后续报道](http://www.pcgames.com.cn/cartoon/news/guowainews/0706/901726.html)
-    ，太平洋遊戲網
+7.  [田村博客言清白，堀江脱社正名节-猥亵门后续报道](http://www.pcgames.com.cn/cartoon/news/guowainews/0706/901726.html) ，太平洋遊戲網
 
 8.
 

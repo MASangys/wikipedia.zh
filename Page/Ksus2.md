@@ -1,5 +1,4 @@
-《Ksus2》為香港女歌手[謝安琪](../Page/謝安琪.md "wikilink")個人第二張推出的唱片，於2006年6月7日推出，收錄六首新歌和三個MV，當中歌曲《愁人節》反應不俗，獲得2006年叱咤樂壇流行榜頒獎典禮《專業推介
-叱咤十大》第十位。
+《Ksus2》為香港女歌手[謝安琪](../Page/謝安琪.md "wikilink")個人第二張推出的唱片，於2006年6月7日推出，收錄六首新歌和三個MV，當中歌曲《愁人節》反應不俗，獲得2006年叱咤樂壇流行榜頒獎典禮《專業推介 叱咤十大》第十位。
 
 ## 曲目
 
@@ -26,29 +25,20 @@
 
 ### 歌曲《愁人節》
 
-  - 香港：[2006年度叱咤樂壇流行榜頒獎典禮](../Page/2006年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")
-    - 專業推介 叱咤十大（第十位）
-  - 香港：[2006
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2006_CASH金帆音樂獎 "wikilink")
-    - 最佳另類作品（提名）
+  - 香港：[2006年度叱咤樂壇流行榜頒獎典禮](../Page/2006年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 專業推介 叱咤十大（第十位）
+  - 香港：[2006 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2006_CASH金帆音樂獎 "wikilink") - 最佳另類作品（提名）
 
 ### 歌曲《亡命之途》
 
-  - 香港：[2006
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2006_CASH金帆音樂獎 "wikilink")
-    - 最佳女歌手演繹獎（謝安琪）
+  - 香港：[2006 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2006_CASH金帆音樂獎 "wikilink") - 最佳女歌手演繹獎（謝安琪）
 
 ## 參考文獻
 
 ## 外部連結
 
-  - [新浪網
-    Ksus2](https://web.archive.org/web/20060703160417/http://music.sina.com.hk/cgi-bin/mu/album/main.cgi?id=9370)
+  - [新浪網 Ksus2](https://web.archive.org/web/20060703160417/http://music.sina.com.hk/cgi-bin/mu/album/main.cgi?id=9370)
   - [蘋果日報－有碟話碟：謝安琪《Ksus2》唱出生活](http://hk.apple.nextmedia.com/entertainment/art/20060611/6014180)
   - [接闊香港樂壇可能性的Ksus2](http://music.douban.com/review/1103182)
-  - [天涯音评会:草根 珍惜 温暖
-    －－－－谢安琪的《Ksus2》](http://bbs.tianya.cn/post-music-119709-1.shtml)
+  - [天涯音评会:草根 珍惜 温暖 －－－－谢安琪的《Ksus2》](http://bbs.tianya.cn/post-music-119709-1.shtml)
 
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:謝安琪音樂專輯](https://zh.wikipedia.org/wiki/Category:謝安琪音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:謝安琪音樂專輯](https://zh.wikipedia.org/wiki/Category:謝安琪音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

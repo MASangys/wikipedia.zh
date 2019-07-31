@@ -15,11 +15,7 @@
   -
   -
   -
-[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
-[Category:人马座](https://zh.wikipedia.org/wiki/Category:人马座 "wikilink")
-[Category:2008年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2008年发现的系外行星 "wikilink")
-[Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
-[Category:重力微透鏡法發現的系外行星](https://zh.wikipedia.org/wiki/Category:重力微透鏡法發現的系外行星 "wikilink")
+[Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:人马座](https://zh.wikipedia.org/wiki/Category:人马座 "wikilink") [Category:2008年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2008年发现的系外行星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:重力微透鏡法發現的系外行星](https://zh.wikipedia.org/wiki/Category:重力微透鏡法發現的系外行星 "wikilink")
 
 1.
 2.

@@ -12,14 +12,9 @@
 
   - [Vodacom公司网站](http://www.vodacom.com/)
 
-[Category:沃达丰](https://zh.wikipedia.org/wiki/Category:沃达丰 "wikilink")
-[Category:移动电话运营商](https://zh.wikipedia.org/wiki/Category:移动电话运营商 "wikilink")
-[Category:南非公司](https://zh.wikipedia.org/wiki/Category:南非公司 "wikilink")
+[Category:沃达丰](https://zh.wikipedia.org/wiki/Category:沃达丰 "wikilink") [Category:移动电话运营商](https://zh.wikipedia.org/wiki/Category:移动电话运营商 "wikilink") [Category:南非公司](https://zh.wikipedia.org/wiki/Category:南非公司 "wikilink")
 
-1.  Introduction Page on Vodacoms Website.
-    <http://www.vodacom.com/vodacom/about_vodacom/introduction.jsp>
-2.  Vodacom Business article by the BBC.
-    <http://news.bbc.co.uk/2/hi/business/4434862.stm>
-3.  Vodacom article by the Wall Street Journel
-    <http://online.wsj.com/article/SB122596655256404705.html?mod=googlenews_wsj>
+1.  Introduction Page on Vodacoms Website. <http://www.vodacom.com/vodacom/about_vodacom/introduction.jsp>
+2.  Vodacom Business article by the BBC. <http://news.bbc.co.uk/2/hi/business/4434862.stm>
+3.  Vodacom article by the Wall Street Journel <http://online.wsj.com/article/SB122596655256404705.html?mod=googlenews_wsj>
 4.  中国移动已经覆盖了世界上最高的[珠穆朗玛峰](https://zh.wikipedia.org/wiki/珠穆朗玛峰 "wikilink")。

@@ -1,7 +1,4 @@
-《**R.O.D -READ OR
-DIE-**》（）是2001年到2002年期間[Aniplex發售的](../Page/Aniplex.md "wikilink")[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。全3集。由[STUDIO
-DEEN動畫製作公司的監督](../Page/STUDIO_DEEN.md "wikilink")[舛成孝二負責](../Page/舛成孝二.md "wikilink")。[倉田英之的輕小說](../Page/倉田英之.md "wikilink")《R.O.D
-READ OR DIE YOMIKO READMAN "THE PAPER"》為原作。描寫「操紙術」能自在操縱紙的能力的秘密探員讀子．利德曼。
+《**R.O.D -READ OR DIE-**》（）是2001年到2002年期間[Aniplex](../Page/Aniplex.md "wikilink")發售的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。全3集。由[STUDIO DEEN動畫製作公司的監督](../Page/STUDIO_DEEN.md "wikilink")[舛成孝二](../Page/舛成孝二.md "wikilink")負責。[倉田英之](../Page/倉田英之.md "wikilink")的輕小說《R.O.D READ OR DIE YOMIKO READMAN "THE PAPER"》為原作。描寫「操紙術」能自在操縱紙的能力的秘密探員讀子．利德曼。
 
 ## 劇情簡介
 
@@ -11,8 +8,7 @@ READ OR DIE YOMIKO READMAN "THE PAPER"》為原作。描寫「操紙術」能自
 
   - 讀子・列特文（読子・リードマン）[配音員](../Page/配音員.md "wikilink")：[三浦理惠子](../Page/三浦理惠子.md "wikilink")
 
-紙術士，能夠把紙變成紙牆壁等等的多樣化武器，菫川奈奈奈的好朋友。\[詳見[R.O.D -THE
-TV-](../Page/R.O.D_-THE_TV-.md "wikilink")\]
+紙術士，能夠把紙變成紙牆壁等等的多樣化武器，菫川奈奈奈的好朋友。\[詳見[R.O.D -THE TV-](../Page/R.O.D_-THE_TV-.md "wikilink")\]
 
   - 蘭西．幕張（ナンシー・幕張）配音員：[根谷美智子](../Page/根谷美智子.md "wikilink")
 
@@ -39,15 +35,14 @@ TV-](../Page/R.O.D_-THE_TV-.md "wikilink")\]
   - [平賀源内](https://zh.wikipedia.org/wiki/平賀源内 "wikilink")（平賀源内）配音員：[大谷亮介](https://zh.wikipedia.org/wiki/大谷亮介 "wikilink")
   - [讓-昂利·法布爾](https://zh.wikipedia.org/wiki/讓-昂利·法布爾 "wikilink")（ジャン・ヘンリー＝ファーブル）配音員：[竹内順子](https://zh.wikipedia.org/wiki/竹内順子 "wikilink")、[高荷邦彦](https://zh.wikipedia.org/wiki/高荷邦彦 "wikilink")
   - [奧托·李林塔爾](../Page/奧托·李林塔爾.md "wikilink")（オットー・リリエンタール）配音員：[金子はりい](https://zh.wikipedia.org/wiki/金子はりい "wikilink")
-  - [玄奘三蔵](../Page/玄奘.md "wikilink")（玄奘三蔵）配音員：[高橋廣樹](../Page/高橋廣樹.md "wikilink")
+  - [玄奘](../Page/玄奘.md "wikilink")三蔵（玄奘三蔵）配音員：[高橋廣樹](../Page/高橋廣樹.md "wikilink")
   - [喬治·史蒂芬生](../Page/喬治·史蒂芬生.md "wikilink")（ジョージ・スチーブンソン）
   - [貝多芬](https://zh.wikipedia.org/wiki/貝多芬 "wikilink")（ルートヴィヒ・ヴァン・ベートーヴェン）
   - [瑪塔·哈里](https://zh.wikipedia.org/wiki/瑪塔·哈里 "wikilink")(蘭西．幕張)（マタ・ハリ）
 
 ## 製作團隊
 
-  - 原作、系列構成、腳本 - [倉田英之](../Page/倉田英之.md "wikilink")（集英社「Ultra Jump
-    Comics」刊）
+  - 原作、系列構成、腳本 - [倉田英之](../Page/倉田英之.md "wikilink")（集英社「Ultra Jump Comics」刊）
   - 執行製作人 - [北川直樹](https://zh.wikipedia.org/wiki/北川直樹 "wikilink")
   - 企劃製作人 - 白川隆三
   - 人物原案 - [羽音たらく](https://zh.wikipedia.org/wiki/羽音たらく "wikilink")
@@ -118,8 +113,4 @@ TV-](../Page/R.O.D_-THE_TV-.md "wikilink")\]
   - [官方網站](http://www.sonymusic.co.jp/Animation/ROD/media/ovaindex.html)
   - [萬代頻道](http://www.b-ch.com/ttl/index.php?ttl_c=351)
 
-[Category:圖書館題材作品](https://zh.wikipedia.org/wiki/Category:圖書館題材作品 "wikilink")
-[Category:2001年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2001年日本OVA動畫 "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:历史人物题材作品](https://zh.wikipedia.org/wiki/Category:历史人物题材作品 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
+[Category:圖書館題材作品](https://zh.wikipedia.org/wiki/Category:圖書館題材作品 "wikilink") [Category:2001年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2001年日本OVA動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:历史人物题材作品](https://zh.wikipedia.org/wiki/Category:历史人物题材作品 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")

@@ -1,5 +1,4 @@
-《**Black &
-White**》，中国大陆地区称《**黑与白新歌＋精选**》，是由香港歌手[张学友](../Page/张学友.md "wikilink")在2004年推出的精选集唱片，唱片监制是张学友。
+《**Black & White**》，中国大陆地区称《**黑与白新歌＋精选**》，是由香港歌手[张学友](../Page/张学友.md "wikilink")在2004年推出的精选集唱片，唱片监制是张学友。
 
 ## 介绍
 
@@ -19,11 +18,7 @@ White**》，中国大陆地区称《**黑与白新歌＋精选**》，是由香
 
 ## 参考文献
 
-[Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.
 2.

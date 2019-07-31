@@ -1,17 +1,10 @@
-《**ADULT VIDEO**》（，*ADULT
-VIDEO*）是[東京事變](../Page/東京事變.md "wikilink")的第四張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，跟《ADULT
-VIDEO Original Sound
-Track》，一起於2006年3月23日發行。發行當週即賣出1.6萬張，總計銷售額3.2萬張，名列2006年年度銷售榜第52位。初回限定為「Digipak紙盒仕樣」。
+《**ADULT VIDEO**》（，*ADULT VIDEO*）是[東京事變](../Page/東京事變.md "wikilink")的第四張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，跟《ADULT VIDEO Original Sound Track》，一起於2006年3月23日發行。發行當週即賣出1.6萬張，總計銷售額3.2萬張，名列2006年年度銷售榜第52位。初回限定為「Digipak紙盒仕樣」。
 
 ## 簡介
 
-本音樂錄影帶是東京事變第二張映像集，共收錄六首音樂錄影帶，包括兩首來自單曲《[修羅場](../Page/修羅場_\(東京事變單曲\).md "wikilink")》內的曲目，四首來自第二張專輯《大人》的曲目。首先是取材自大人的團員介紹作品「歌舞伎」，然後是改編專輯版本的「秘密
-FOR DJ」，再來是第三張單曲，同樣是改編版本的「戀愛幻夢 FOR
-MUSICIAN」，與以白色為基調的「修羅場」，然後是鼓手刄田綴色大秀舞技的喧嘩上等，最後則是改編專輯版本的「黄昏泣
-FOR MOTHER」做為結尾，總計六首。
+本音樂錄影帶是東京事變第二張映像集，共收錄六首音樂錄影帶，包括兩首來自單曲《[修羅場](../Page/修羅場_\(東京事變單曲\).md "wikilink")》內的曲目，四首來自第二張專輯《大人》的曲目。首先是取材自大人的團員介紹作品「歌舞伎」，然後是改編專輯版本的「秘密 FOR DJ」，再來是第三張單曲，同樣是改編版本的「戀愛幻夢 FOR MUSICIAN」，與以白色為基調的「修羅場」，然後是鼓手刄田綴色大秀舞技的喧嘩上等，最後則是改編專輯版本的「黄昏泣 FOR MOTHER」做為結尾，總計六首。
 
-早於3月6日起，即在MTV JAPAN撥出「秘密 FOR DJ」音樂錄影帶\[1\]，同一天，「秘密 FOR
-DJ」也開始接受歌迷線上下載\[2\]。等到3月20日，官方網站特地開設「特設網站」\[3\]。日本則於3月23日發行DVD，台灣則是等到4月4日才發行日版DVD\[4\]才發行進口盤。
+早於3月6日起，即在MTV JAPAN撥出「秘密 FOR DJ」音樂錄影帶\[1\]，同一天，「秘密 FOR DJ」也開始接受歌迷線上下載\[2\]。等到3月20日，官方網站特地開設「特設網站」\[3\]。日本則於3月23日發行DVD，台灣則是等到4月4日才發行日版DVD\[4\]才發行進口盤。
 
 ## 曲目
 
@@ -42,14 +35,11 @@ DJ」也開始接受歌迷線上下載\[2\]。等到3月20日，官方網站特�
 
 ## ADULT VIDEO Original Sound Track
 
-《**ADULT VIDEO Original Sound Track**》（，*"ADULT VIDEO" Original Sound
-Track*）是[東京事變](../Page/東京事變.md "wikilink")的第二張[黑膠唱片](../Page/黑膠唱片.md "wikilink")，跟《ADULT
-VIDEO》DVD，一起於2006年3月23日發行。總計銷售額1,065張。
+《**ADULT VIDEO Original Sound Track**》（，*"ADULT VIDEO" Original Sound Track*）是[東京事變](../Page/東京事變.md "wikilink")的第二張[黑膠唱片](../Page/黑膠唱片.md "wikilink")，跟《ADULT VIDEO》DVD，一起於2006年3月23日發行。總計銷售額1,065張。
 
 ### 簡介
 
-這張黑膠唱片為東京事變第二張黑膠唱片，主要是將《ADULT VIDEO》收錄的曲目音源化的一張黑膠唱片，因此也可以說這是《ADULT
-VIDEO》的原聲帶，採完全限定生產。
+這張黑膠唱片為東京事變第二張黑膠唱片，主要是將《ADULT VIDEO》收錄的曲目音源化的一張黑膠唱片，因此也可以說這是《ADULT VIDEO》的原聲帶，採完全限定生產。
 
 早於3月6日起，「秘密 FOR DJ」開始接受歌迷線上下載\[5\]。日本則於3月23日發行黑膠唱片，台灣則是完全沒有進口。
 
@@ -218,8 +208,7 @@ ADULT VIDEO</p></td>
 
 ### 參考資料
 
-[Category:東京事變的黑膠碟](https://zh.wikipedia.org/wiki/Category:東京事變的黑膠碟 "wikilink")
-[Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
+[Category:東京事變的黑膠碟](https://zh.wikipedia.org/wiki/Category:東京事變的黑膠碟 "wikilink") [Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
 
 1.
 

@@ -25,30 +25,20 @@
 
 ## C\#
 
-  - [SoapBox Studio Mobile
-    SDK](https://web.archive.org/web/20090412100647/http://www.coversant.net/Product/Studio-Overview.aspx)
-  - [SoapBox Studio Desktop
-    SDK](https://web.archive.org/web/20090412100647/http://www.coversant.net/Product/Studio-Overview.aspx)
-  - [SoapBox Studio Administration
-    SDK](https://web.archive.org/web/20090412100647/http://www.coversant.net/Product/Studio-Overview.aspx)
-  - [SoapBox Studio Server Extension
-    SDK](https://web.archive.org/web/20090412100647/http://www.coversant.net/Product/Studio-Overview.aspx)
-  - [MatriX](https://zh.wikipedia.org/wiki/MatriX "wikilink") 可以支援
-    Microsoft Silverlight
+  - [SoapBox Studio Mobile SDK](https://web.archive.org/web/20090412100647/http://www.coversant.net/Product/Studio-Overview.aspx)
+  - [SoapBox Studio Desktop SDK](https://web.archive.org/web/20090412100647/http://www.coversant.net/Product/Studio-Overview.aspx)
+  - [SoapBox Studio Administration SDK](https://web.archive.org/web/20090412100647/http://www.coversant.net/Product/Studio-Overview.aspx)
+  - [SoapBox Studio Server Extension SDK](https://web.archive.org/web/20090412100647/http://www.coversant.net/Product/Studio-Overview.aspx)
+  - [MatriX](https://zh.wikipedia.org/wiki/MatriX "wikilink") 可以支援 Microsoft Silverlight
 
 ## C++
 
-  - [gloox](https://zh.wikipedia.org/wiki/gloox "wikilink")
-    [site](http://camaya.net/gloox)
+  - [gloox](https://zh.wikipedia.org/wiki/gloox "wikilink") [site](http://camaya.net/gloox)
   - [IP\*Works](https://zh.wikipedia.org/wiki/IP*Works "wikilink")
-  - [Iris
-    (software)](https://zh.wikipedia.org/wiki/Iris_\(software\) "wikilink")
+  - [Iris (software)](https://zh.wikipedia.org/wiki/Iris_\(software\) "wikilink")
   - [jabberoo](https://zh.wikipedia.org/wiki/jabberoo "wikilink")
-  - [oajabber](https://zh.wikipedia.org/wiki/oajabber "wikilink")
-    [site](https://web.archive.org/web/20090202170356/http://openaether.org/oajabber.html)
-  - [Gabble
-    (Telepathy)](https://zh.wikipedia.org/wiki/Gabble_\(Telepathy\) "wikilink")
-    [site](http://telepathy.freedesktop.org/wiki/)
+  - [oajabber](https://zh.wikipedia.org/wiki/oajabber "wikilink") [site](https://web.archive.org/web/20090202170356/http://openaether.org/oajabber.html)
+  - [Gabble (Telepathy)](https://zh.wikipedia.org/wiki/Gabble_\(Telepathy\) "wikilink") [site](http://telepathy.freedesktop.org/wiki/)
 
 ## COM
 
@@ -60,8 +50,7 @@
 
 ## Flash
 
-  - [XIFF
-    (software)](https://zh.wikipedia.org/wiki/XIFF_\(software\) "wikilink")
+  - [XIFF (software)](https://zh.wikipedia.org/wiki/XIFF_\(software\) "wikilink")
 
 ## Haskell
 
@@ -70,29 +59,20 @@
 ## Java
 
   - [Echomine Feridian](http://freecode.com/projects/feridian)
-  - [Echomine
-    Muse](https://zh.wikipedia.org/wiki/Echomine_Muse "wikilink")
+  - [Echomine Muse](https://zh.wikipedia.org/wiki/Echomine_Muse "wikilink")
   - [JabberWookie](https://zh.wikipedia.org/wiki/JabberWookie "wikilink")
-  - [JSO
-    (software)](https://zh.wikipedia.org/wiki/JSO_\(software\) "wikilink")
+  - [JSO (software)](https://zh.wikipedia.org/wiki/JSO_\(software\) "wikilink")
   - [micro-jabber](https://zh.wikipedia.org/wiki/micro-jabber "wikilink")
-  - [Smack
-    (library)](https://zh.wikipedia.org/wiki/Smack_\(library\) "wikilink")
-  - [Tweeze
-    (software)](https://zh.wikipedia.org/wiki/Tweeze_\(software\) "wikilink")
-  - [Yaja
-    (software)](https://zh.wikipedia.org/wiki/Yaja_\(software\) "wikilink")
+  - [Smack (library)](https://zh.wikipedia.org/wiki/Smack_\(library\) "wikilink")
+  - [Tweeze (software)](https://zh.wikipedia.org/wiki/Tweeze_\(software\) "wikilink")
+  - [Yaja (software)](https://zh.wikipedia.org/wiki/Yaja_\(software\) "wikilink")
 
 ## JavaScript
 
-  - [JSJaC](https://zh.wikipedia.org/wiki/JSJaC "wikilink")（[JSJaC web
-    site](https://web.archive.org/web/20051028041112/http://jwchat.sourceforge.net/)）
-  - [xmpp4moz](https://zh.wikipedia.org/wiki/xmpp4moz "wikilink")（[xmpp4moz
-    on mozilla.org](https://addons.mozilla.org/firefox/addon/3632)）
-  - [xmpp4js](https://zh.wikipedia.org/wiki/xmpp4js "wikilink")（[xmpp4js
-    on SourceForge](http://xmpp4js.sourceforge.net)）
-  - Strophe（[Web
-    Site](https://web.archive.org/web/20090212075830/http://code.stanziq.com/strophe/)）
+  - [JSJaC](https://zh.wikipedia.org/wiki/JSJaC "wikilink")（[JSJaC web site](https://web.archive.org/web/20051028041112/http://jwchat.sourceforge.net/)）
+  - [xmpp4moz](https://zh.wikipedia.org/wiki/xmpp4moz "wikilink")（[xmpp4moz on mozilla.org](https://addons.mozilla.org/firefox/addon/3632)）
+  - [xmpp4js](https://zh.wikipedia.org/wiki/xmpp4js "wikilink")（[xmpp4js on SourceForge](http://xmpp4js.sourceforge.net)）
+  - Strophe（[Web Site](https://web.archive.org/web/20090212075830/http://code.stanziq.com/strophe/)）
 
 ## LPC
 
@@ -120,8 +100,7 @@
 
 ## Ruby
 
-  - [Action
-    Messenger](https://zh.wikipedia.org/wiki/Action_Messenger "wikilink")
+  - [Action Messenger](https://zh.wikipedia.org/wiki/Action_Messenger "wikilink")
   - [Jabber4R](https://archive.is/20130503095546/http://jabber4r.rubyforge.org/)
   - [<Jabber::Simple>](https://archive.is/20130503093357/http://xmpp4r-simple.rubyforge.org/)
   - [XMPP4R](https://web.archive.org/web/20090427212808/http://home.gna.org/xmpp4r/)

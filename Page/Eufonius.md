@@ -1,5 +1,4 @@
-**eufonius**（）是[日本的樂團組合](../Page/日本.md "wikilink")。在[網際網路相識而組成](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。組合名是來源自「[euphonious](https://zh.wikipedia.org/wiki/:en:wiktionary:euphonious "wikilink")（悅耳）」。滿溢透明感的歌聲．具有抑揚特徵的和弦．現場樂器，加上預先輸入的演奏曲調而合成的編曲風格，創造了獨特的世界。在音樂即售會M3、[Comic
-Market等](../Page/Comic_Market.md "wikilink")，雖然仍在獨立活動，可是透過提供樂曲、發表單曲「」等，已經開始在商業方面進出。
+**eufonius**（）是[日本](../Page/日本.md "wikilink")的樂團組合。在[網際網路相識而組成](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。組合名是來源自「[euphonious](https://zh.wikipedia.org/wiki/:en:wiktionary:euphonious "wikilink")（悅耳）」。滿溢透明感的歌聲．具有抑揚特徵的和弦．現場樂器，加上預先輸入的演奏曲調而合成的編曲風格，創造了獨特的世界。在音樂即售會M3、[Comic Market等](../Page/Comic_Market.md "wikilink")，雖然仍在獨立活動，可是透過提供樂曲、發表單曲「」等，已經開始在商業方面進出。
 
 ## 成員
 
@@ -280,9 +279,6 @@ Market等](../Page/Comic_Market.md "wikilink")，雖然仍在獨立活動，可�
 
   -
   -
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:遊戲音樂團體](https://zh.wikipedia.org/wiki/Category:遊戲音樂團體 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:遊戲音樂團體](https://zh.wikipedia.org/wiki/Category:遊戲音樂團體 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
 
-1.  於2011年8月13日開幕的[Comic
-    Market](../Page/Comic_Market.md "wikilink")80的第二日先行發售。
+1.  於2011年8月13日開幕的[Comic Market](../Page/Comic_Market.md "wikilink")80的第二日先行發售。

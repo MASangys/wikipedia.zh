@@ -29,47 +29,7 @@
 
 朗屏路、鳳池路、屏會街、元朗安寧路、媽廟路、青山公路、朗天路、唐人新村交匯處、元朗公路、藍地交匯處、青山公路、屯貴路、富泰巴士總站、屯貴路、青山公路、藍地交匯處、青麟路、兆康站（北）公共交通交匯處通道、青麟路、震寰路、鳴琴路、田景路、鳴琴路、青雲路、龍門路及湖翠路
 
-|-
-|1||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||||[朗屏巴士總站](../Page/朗屏邨巴士總站.md "wikilink")||
-|-
-|2||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||[元朗安寧路](../Page/元朗安寧路.md "wikilink")||[盲人安老院](https://zh.wikipedia.org/wiki/元朗盲人安老院 "wikilink")||
-|-
-|3||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||||[水邊村](https://zh.wikipedia.org/wiki/水邊村 "wikilink")||
- |-
-|4||屯門（[富泰](https://zh.wikipedia.org/wiki/富泰 "wikilink")）||||||分段收費：$3.9
-|-
-|5||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||||[西鐵兆康站](../Page/兆康站（北）公共運輸交匯處.md "wikilink")||
-|-
-|6||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[兆康路](https://zh.wikipedia.org/wiki/兆康路 "wikilink")||
-|-
-|7||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[兆康苑](../Page/兆康苑.md "wikilink")兆賢閣||
-|-
-|8||屯門（[大興](https://zh.wikipedia.org/wiki/大興 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[屯門醫院](../Page/屯門醫院.md "wikilink")||
-|-
-|9||屯門（[建生](../Page/建生.md "wikilink")）||[震寰路](https://zh.wikipedia.org/wiki/震寰路 "wikilink")||[寶怡花園](https://zh.wikipedia.org/wiki/寶怡花園 "wikilink")||
-|-
-|10||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[鳴琴路](https://zh.wikipedia.org/wiki/鳴琴路 "wikilink")||[盈豐園](https://zh.wikipedia.org/wiki/盈豐園 "wikilink")||
-|-
-|11||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[田景路](https://zh.wikipedia.org/wiki/田景路 "wikilink")||[田景邨](../Page/田景邨.md "wikilink")田樂樓||
-|-
-|12||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[田景路](https://zh.wikipedia.org/wiki/田景路 "wikilink")||[田景邨](../Page/田景邨.md "wikilink")田裕樓||
-|-
-|13||[屯門工業區](../Page/屯門工業區.md "wikilink")||[鳴琴路](https://zh.wikipedia.org/wiki/鳴琴路 "wikilink")||[石排站](../Page/石排站.md "wikilink")||
-|-
-|14||[屯門工業區](../Page/屯門工業區.md "wikilink")||[鳴琴路](https://zh.wikipedia.org/wiki/鳴琴路 "wikilink")||[鳴琴站](../Page/鳴琴站.md "wikilink")||
-|-
-|15||[屯門工業區](../Page/屯門工業區.md "wikilink")||[青雲路](https://zh.wikipedia.org/wiki/青雲路 "wikilink")||[青雲站](../Page/青雲站.md "wikilink")||
-|-
-|16||[青山村](https://zh.wikipedia.org/wiki/青山村 "wikilink")||[青雲路](https://zh.wikipedia.org/wiki/青雲路 "wikilink")||[聖彼得堂](https://zh.wikipedia.org/wiki/聖公會青山聖彼得堂 "wikilink")||
-|-
-|17||[散石灣](../Page/散石灣.md "wikilink")||[龍門路](https://zh.wikipedia.org/wiki/龍門路 "wikilink")||[新屯門中心](../Page/新屯門中心.md "wikilink")||
-|-
-|18||[散石灣](../Page/散石灣.md "wikilink")||[龍門路](https://zh.wikipedia.org/wiki/龍門路 "wikilink")||[兆山苑](../Page/兆山苑.md "wikilink")||
-|-
-|19||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")||[湖翠路](https://zh.wikipedia.org/wiki/湖翠路 "wikilink")||[蝴蝶邨](../Page/蝴蝶邨.md "wikilink")蝶心樓||
-|-
-|20||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")||[湖翠路](https://zh.wikipedia.org/wiki/湖翠路 "wikilink")||[湖景邨](../Page/湖景邨.md "wikilink")湖碧樓||
-|- |21||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")|||||| |}
+|- |1||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||||[朗屏巴士總站](../Page/朗屏邨巴士總站.md "wikilink")|| |- |2||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||[元朗安寧路](../Page/元朗安寧路.md "wikilink")||[盲人安老院](https://zh.wikipedia.org/wiki/元朗盲人安老院 "wikilink")|| |- |3||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||||[水邊村](https://zh.wikipedia.org/wiki/水邊村 "wikilink")||  |- |4||屯門（[富泰](https://zh.wikipedia.org/wiki/富泰 "wikilink")）||||||分段收費：$3.9 |- |5||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||||[西鐵兆康站](../Page/兆康站（北）公共運輸交匯處.md "wikilink")|| |- |6||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[兆康路](https://zh.wikipedia.org/wiki/兆康路 "wikilink")|| |- |7||屯門（[兆康](https://zh.wikipedia.org/wiki/兆康 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[兆康苑](../Page/兆康苑.md "wikilink")兆賢閣|| |- |8||屯門（[大興](https://zh.wikipedia.org/wiki/大興 "wikilink")）||[青麟路](https://zh.wikipedia.org/wiki/青麟路 "wikilink")||[屯門醫院](../Page/屯門醫院.md "wikilink")|| |- |9||屯門（[建生](../Page/建生.md "wikilink")）||[震寰路](https://zh.wikipedia.org/wiki/震寰路 "wikilink")||[寶怡花園](https://zh.wikipedia.org/wiki/寶怡花園 "wikilink")|| |- |10||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[鳴琴路](https://zh.wikipedia.org/wiki/鳴琴路 "wikilink")||[盈豐園](https://zh.wikipedia.org/wiki/盈豐園 "wikilink")|| |- |11||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[田景路](https://zh.wikipedia.org/wiki/田景路 "wikilink")||[田景邨](../Page/田景邨.md "wikilink")田樂樓|| |- |12||屯門（[良田](https://zh.wikipedia.org/wiki/良田 "wikilink")）||[田景路](https://zh.wikipedia.org/wiki/田景路 "wikilink")||[田景邨](../Page/田景邨.md "wikilink")田裕樓|| |- |13||[屯門工業區](../Page/屯門工業區.md "wikilink")||[鳴琴路](https://zh.wikipedia.org/wiki/鳴琴路 "wikilink")||[石排站](../Page/石排站.md "wikilink")|| |- |14||[屯門工業區](../Page/屯門工業區.md "wikilink")||[鳴琴路](https://zh.wikipedia.org/wiki/鳴琴路 "wikilink")||[鳴琴站](../Page/鳴琴站.md "wikilink")|| |- |15||[屯門工業區](../Page/屯門工業區.md "wikilink")||[青雲路](https://zh.wikipedia.org/wiki/青雲路 "wikilink")||[青雲站](../Page/青雲站.md "wikilink")|| |- |16||[青山村](https://zh.wikipedia.org/wiki/青山村 "wikilink")||[青雲路](https://zh.wikipedia.org/wiki/青雲路 "wikilink")||[聖彼得堂](https://zh.wikipedia.org/wiki/聖公會青山聖彼得堂 "wikilink")|| |- |17||[散石灣](../Page/散石灣.md "wikilink")||[龍門路](https://zh.wikipedia.org/wiki/龍門路 "wikilink")||[新屯門中心](../Page/新屯門中心.md "wikilink")|| |- |18||[散石灣](../Page/散石灣.md "wikilink")||[龍門路](https://zh.wikipedia.org/wiki/龍門路 "wikilink")||[兆山苑](../Page/兆山苑.md "wikilink")|| |- |19||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")||[湖翠路](https://zh.wikipedia.org/wiki/湖翠路 "wikilink")||[蝴蝶邨](../Page/蝴蝶邨.md "wikilink")蝶心樓|| |- |20||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")||[湖翠路](https://zh.wikipedia.org/wiki/湖翠路 "wikilink")||[湖景邨](../Page/湖景邨.md "wikilink")湖碧樓|| |- |21||[屯門碼頭區](https://zh.wikipedia.org/wiki/屯門碼頭區 "wikilink")|||||| |}
 
 ## 用車
 

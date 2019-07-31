@@ -1,7 +1,6 @@
 [Systems_Engineering_Process_II.svg](https://zh.wikipedia.org/wiki/File:Systems_Engineering_Process_II.svg "fig:Systems_Engineering_Process_II.svg")中使用的V模型\[1\]\]\]
 
-**V模型**（V-model）是一種用圖像表示[系统发展生命周期的模式](../Page/系统发展生命周期.md "wikilink")，可以產出嚴謹的发展生命周期模型以及專案管理模型。V模型可分為三大類：德國的Das
-V-Modell、泛用的測試模式以及美國政府標準\[2\]。
+**V模型**（V-model）是一種用圖像表示[系统发展生命周期](../Page/系统发展生命周期.md "wikilink")的模式，可以產出嚴謹的发展生命周期模型以及專案管理模型。V模型可分為三大類：德國的Das V-Modell、泛用的測試模式以及美國政府標準\[2\]。
 
 V模型列出了在產品開發時需進行的各個階段，以及各階段對應的產出。V模型描述了產品開發中需進行的活動，以及各活動產出的資料或是文件。而這些文件也是後面階段需要的資料輸入。
 
@@ -15,14 +14,9 @@ V模型的左側是需求的分解，並且產生系統的規格，V模型的右
 
 [Category:项目管理](https://zh.wikipedia.org/wiki/Category:项目管理 "wikilink")
 
-1.  [*Clarus Concept of
-    Operations.*](http://www.itsdocs.fhwa.dot.gov/jpodocs/repts_te/14158.htm)
-     Publication No. FHWA-JPO-05-072, Federal Highway Administration
-    (FHWA), 2005
+1.  [*Clarus Concept of Operations.*](http://www.itsdocs.fhwa.dot.gov/jpodocs/repts_te/14158.htm)  Publication No. FHWA-JPO-05-072, Federal Highway Administration (FHWA), 2005
 
-2.  ["The Dangerous & Seductive V
-    Model"](http://www.clarotesting.com/page11.htm#coherence), accessed
-    January 9, 2013.
+2.  ["The Dangerous & Seductive V Model"](http://www.clarotesting.com/page11.htm#coherence), accessed January 9, 2013.
 
 3.
 4.
@@ -30,8 +24,4 @@ V模型的左側是需求的分解，並且產生系統的規格，V模型的右
 
 6.
 
-7.  Forsberg, K. and Mooz, H., "[The Relationship of Systems Engineering
-    to the Project
-    Cycle](http://www.csm.com/repository/model/rep/o/pdf/Relationship%20of%20SE%20to%20Proj%20Cycle.pdf)
-    ," First Annual Symposium of the National Council On Systems
-    Engineering (NCOSE), October 1991
+7.  Forsberg, K. and Mooz, H., "[The Relationship of Systems Engineering to the Project Cycle](http://www.csm.com/repository/model/rep/o/pdf/Relationship%20of%20SE%20to%20Proj%20Cycle.pdf) ," First Annual Symposium of the National Council On Systems Engineering (NCOSE), October 1991

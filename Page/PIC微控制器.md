@@ -1,6 +1,4 @@
-[PIC_microcontrollers.jpg](https://zh.wikipedia.org/wiki/File:PIC_microcontrollers.jpg "fig:PIC_microcontrollers.jpg")
-**PIC微控制器**（PIC
-microcontroller），是一種使用[哈佛結構的](https://zh.wikipedia.org/wiki/哈佛結構 "wikilink")[精簡指令集微控制器](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，由[Microchip公司研發而成](https://zh.wikipedia.org/wiki/Microchip "wikilink")。
+[PIC_microcontrollers.jpg](https://zh.wikipedia.org/wiki/File:PIC_microcontrollers.jpg "fig:PIC_microcontrollers.jpg") **PIC微控制器**（PIC microcontroller），是一種使用[哈佛結構的](https://zh.wikipedia.org/wiki/哈佛結構 "wikilink")[精簡指令集微控制器](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，由[Microchip公司研發而成](https://zh.wikipedia.org/wiki/Microchip "wikilink")。
 
 PIC的架構是明顯的最低限度。它具有以下特點：
 
@@ -12,8 +10,7 @@ PIC的架構是明顯的最低限度。它具有以下特點：
 
   - 所有 RAM 位置均可當作作為算數或其他運算的源寄存器或目的寄存器使用
   - 一個-{zh-cn:堆栈;zh-tw:硬體堆疊;}-用於存放-{zh-cn:子程序调用;zh-tw:副程式呼叫;}-的返回地址
-  - 較小的-{zh-cn:数据;zh-tw:資料;}-定址空間，但使用多個 bank 的方式（每個 bank 通常為 128
-    字節），來存取較大的 **RAM**
+  - 較小的-{zh-cn:数据;zh-tw:資料;}-定址空間，但使用多個 bank 的方式（每個 bank 通常為 128 字節），來存取較大的 **RAM**
 
 <!-- end list -->
 
@@ -22,9 +19,7 @@ PIC的架構是明顯的最低限度。它具有以下特點：
 
 ## 歷史
 
-[PIC1655A_GI.jpg](https://zh.wikipedia.org/wiki/File:PIC1655A_GI.jpg "fig:PIC1655A_GI.jpg")
-PIC 微控制器源自於 1980 年代由[通用儀器](../Page/通用儀器.md "wikilink")所推出的 PIC1650
-系列，當時的 PIC 是周邊介面控制器（Peripheral Interface Controller）的簡稱。
+[PIC1655A_GI.jpg](https://zh.wikipedia.org/wiki/File:PIC1655A_GI.jpg "fig:PIC1655A_GI.jpg") PIC 微控制器源自於 1980 年代由[通用儀器](../Page/通用儀器.md "wikilink")所推出的 PIC1650 系列，當時的 PIC 是周邊介面控制器（Peripheral Interface Controller）的簡稱。
 
 GI 的微電子部門於 1987 年分拆成為 Microchip Technology (微芯) 公司。
 
@@ -74,8 +69,7 @@ PIC 的產品線寬廣，型號眾多，現有數百種，各主要系列如下�
 
 ### 32-bit（資料寬度）微控制器
 
-  - PIC32 : 採用 [MIPS](https://zh.wikipedia.org/wiki/MIPS科技公司 "wikilink")
-    的 M4K 內核，與其他 PIC 不同。
+  - PIC32 : 採用 [MIPS](https://zh.wikipedia.org/wiki/MIPS科技公司 "wikilink") 的 M4K 內核，與其他 PIC 不同。
 
 ### dsPIC 微控制器（16-bit 資料寬度）
 
@@ -84,8 +78,7 @@ PIC 的產品線寬廣，型號眾多，現有數百種，各主要系列如下�
 
 ## 8-bit PIC 的指令集
 
-PIC的指令十分精簡，只有35個，簡單易學，故執行速度比[8051快](https://zh.wikipedia.org/wiki/8051 "wikilink")。其指令集又分成12-bit
-PIC instruction set，和14-bit PIC instruction set.
+PIC的指令十分精簡，只有35個，簡單易學，故執行速度比[8051快](https://zh.wikipedia.org/wiki/8051 "wikilink")。其指令集又分成12-bit PIC instruction set，和14-bit PIC instruction set.
 
 | Opcode（二進制）      | 助記體        | 說明                                           |
 | ---------------- | ---------- | -------------------------------------------- |
@@ -182,33 +175,21 @@ PIC instruction set，和14-bit PIC instruction set.
 
 ## 開發環境
 
-Microchip 公司提供免費的開發環境 (MPLAB IDE) 與組譯器，也出售付費與提供有條件免費版本的 C
-語言編譯器。另有第三方軟體商開發各式 C, BASIC 等編譯器與開發環境可以選用。
+Microchip 公司提供免費的開發環境 (MPLAB IDE) 與組譯器，也出售付費與提供有條件免費版本的 C 語言編譯器。另有第三方軟體商開發各式 C, BASIC 等編譯器與開發環境可以選用。
 
 MPLAB 的下一代多平台開發環境 MPLAB-X (基於 Java 技術) 目前尚處於 beta 階段。
 
 ## 外部連結
 
   - [Microchip.com](http://www.microchip.com) 官方網站（美國）
-  - [the PICList](http://www.piclist.com) FAQ and Archive from the
-    "PICList" email list hosted at [MIT](../Page/MIT.md "wikilink")。A
-    well respected source of manufacturer-independent solutions, source
-    code, and expertise.
-  - [GPUTILS](http://gputils.sourceforge.net) Open Source assembler and
-    linker.
-  - [Free software tools](http://softwarepic.50webs.com) Free C, C++,
-    Pascal, Basic compilers for the PIC microcontroller series.
-  - \[[http://www.juts.net/rfpic.html\]Example](http://www.juts.net/rfpic.html%5DExample)
-    C code for the rfPIC
-  - example of robot controlled by PIC16F877A:
-    [1](http://it.youtube.com/watch?v=NCo9fr7knK4)
-    [2](http://it.youtube.com/watch?v=WoD_8QA2VSg)
-  - [USB Pic Programmer](http://usbpicprog.org) An open source project
-    for a universal PIC programmer
-  - [3](http://www.cainetworks.com/manuals/webcontrol/WebControlUserGuide.pdf)
-    A PIC microcontroller based Network I/O controller
-  - [GameBoy® GB–PIC© Project](http://gb.boumpower.ch) Enable GameBoy
-    hardware to PIC16F877
+  - [the PICList](http://www.piclist.com) FAQ and Archive from the "PICList" email list hosted at [MIT](../Page/MIT.md "wikilink")。A well respected source of manufacturer-independent solutions, source code, and expertise.
+  - [GPUTILS](http://gputils.sourceforge.net) Open Source assembler and linker.
+  - [Free software tools](http://softwarepic.50webs.com) Free C, C++, Pascal, Basic compilers for the PIC microcontroller series.
+  - \[[http://www.juts.net/rfpic.html\]Example](http://www.juts.net/rfpic.html%5DExample) C code for the rfPIC
+  - example of robot controlled by PIC16F877A: [1](http://it.youtube.com/watch?v=NCo9fr7knK4) [2](http://it.youtube.com/watch?v=WoD_8QA2VSg)
+  - [USB Pic Programmer](http://usbpicprog.org) An open source project for a universal PIC programmer
+  - [3](http://www.cainetworks.com/manuals/webcontrol/WebControlUserGuide.pdf) A PIC microcontroller based Network I/O controller
+  - [GameBoy® GB–PIC© Project](http://gb.boumpower.ch) Enable GameBoy hardware to PIC16F877
 
 {{-}}
 

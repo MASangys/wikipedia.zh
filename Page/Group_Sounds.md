@@ -1,14 +1,10 @@
-**Group Sounds**（或 **Group
-Sound**）是日本1960年代後半期以結他為主、由數人組成的[搖滾樂隊種類](https://zh.wikipedia.org/wiki/日本搖滾 "wikilink")，簡稱
-**GS**。自1966年[披頭四到日本公演以後](https://zh.wikipedia.org/wiki/披頭四 "wikilink")，一邊唱演唱一邊親自演奏[電吉他等樂器的樂隊在日本不斷冒起](https://zh.wikipedia.org/wiki/電吉他 "wikilink")，以年輕讀者為主的藝能雜誌《[週刊明星](https://zh.wikipedia.org/wiki/週刊明星 "wikilink")》把這些樂隊和音樂通稱為「Group
-Sounds」或「Group Sound」，及後被廣泛使用。
+**Group Sounds**（或 **Group Sound**）是日本1960年代後半期以結他為主、由數人組成的[搖滾樂隊種類](https://zh.wikipedia.org/wiki/日本搖滾 "wikilink")，簡稱 **GS**。自1966年[披頭四到日本公演以後](https://zh.wikipedia.org/wiki/披頭四 "wikilink")，一邊唱演唱一邊親自演奏[電吉他等樂器的樂隊在日本不斷冒起](https://zh.wikipedia.org/wiki/電吉他 "wikilink")，以年輕讀者為主的藝能雜誌《[週刊明星](https://zh.wikipedia.org/wiki/週刊明星 "wikilink")》把這些樂隊和音樂通稱為「Group Sounds」或「Group Sound」，及後被廣泛使用。
 
-1960年代末期，GS的熱潮急速減退，踏入新搖滾音樂年代，部份GS樂隊也開始解散，而The Spiders、The Tigers和The
-Tempters解散後，部份成員於1971年組成日本首個[超級組合](https://zh.wikipedia.org/wiki/:en:Super_Group "wikilink")「[PYG](https://zh.wikipedia.org/wiki/PYG "wikilink")」。
+1960年代末期，GS的熱潮急速減退，踏入新搖滾音樂年代，部份GS樂隊也開始解散，而The Spiders、The Tigers和The Tempters解散後，部份成員於1971年組成日本首個[超級組合](https://zh.wikipedia.org/wiki/:en:Super_Group "wikilink")「[PYG](https://zh.wikipedia.org/wiki/PYG "wikilink")」。
 
 現在，一般提及的Group Sounds都是指1960年代後半期活躍於咖啡店的流行曲樂隊和搖滾樂隊。
 
-另外，樂隊以[和製英語命名都是GS的特色](../Page/和製英語.md "wikilink")。
+另外，樂隊以[和製英語](../Page/和製英語.md "wikilink")命名都是GS的特色。
 
 ## 著名樂隊
 
@@ -178,8 +174,4 @@ Tempters解散後，部份成員於1971年組成日本首個[超級組合](https
 
   - [日本搖滾樂](https://zh.wikipedia.org/wiki/日本搖滾樂 "wikilink")
 
-[Category:日本音樂風格](https://zh.wikipedia.org/wiki/Category:日本音樂風格 "wikilink")
-[Category:流行音樂類型](https://zh.wikipedia.org/wiki/Category:流行音樂類型 "wikilink")
-[Category:搖滾樂類型](https://zh.wikipedia.org/wiki/Category:搖滾樂類型 "wikilink")
-[Category:戰後昭和時代文化](https://zh.wikipedia.org/wiki/Category:戰後昭和時代文化 "wikilink")
-[Category:和製英語](https://zh.wikipedia.org/wiki/Category:和製英語 "wikilink")
+[Category:日本音樂風格](https://zh.wikipedia.org/wiki/Category:日本音樂風格 "wikilink") [Category:流行音樂類型](https://zh.wikipedia.org/wiki/Category:流行音樂類型 "wikilink") [Category:搖滾樂類型](https://zh.wikipedia.org/wiki/Category:搖滾樂類型 "wikilink") [Category:戰後昭和時代文化](https://zh.wikipedia.org/wiki/Category:戰後昭和時代文化 "wikilink") [Category:和製英語](https://zh.wikipedia.org/wiki/Category:和製英語 "wikilink")
