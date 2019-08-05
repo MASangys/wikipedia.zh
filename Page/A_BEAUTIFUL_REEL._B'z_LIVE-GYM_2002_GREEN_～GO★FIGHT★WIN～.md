@@ -85,7 +85,7 @@
 
 1.  B'z LIVE-GYM 2002 "Rock n' California Roll" San Diego - Los Angeles - Tokyo
       -
-        B'z首次美國公演的簡集。亦收錄了彩排風景。在聖地牙哥公演中可聽到些許未發表曲的「Logic」。
+        B'z首次美國公演的摘要影像。亦收錄了彩排風景。在聖地牙哥公演中可聽到些許未發表曲的「Logic」。
         收錄了在追加公演的[日比谷野外音樂堂上的](https://zh.wikipedia.org/wiki/日比谷野外音樂堂 "wikilink")「銀の翼で翔べ」的演唱會影像（直至第2句和聲為止）。
 2.  B'z LIVE-GYM 2002 "GREEN" ～GO★FIGHT★WIN～ Leftovers
       -

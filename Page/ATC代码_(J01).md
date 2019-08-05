@@ -3,7 +3,7 @@
 ### J01AA 四环素类（Tetracyclines）
 
   -
-    J01AA01 [地美环素](https://zh.wikipedia.org/wiki/地美环素 "wikilink")（Demeclocycline）
+    J01AA01 [地美环素](../Page/地美环素.md "wikilink")（Demeclocycline）
     J01AA02 [多西环素](../Page/多西环素.md "wikilink")（Doxycycline）
     J01AA03 [金霉素](../Page/金霉素.md "wikilink")（Chlortetracycline）
     J01AA04 [赖甲环素](https://zh.wikipedia.org/wiki/赖甲环素 "wikilink")（Lymecycline）
@@ -138,7 +138,7 @@
 ### J01DD 第三代头孢菌素（Third-generation cephalosporins）
 
   -
-    J01DD01 [头孢噻肟](https://zh.wikipedia.org/wiki/头孢噻肟 "wikilink")（头孢氨噻，头孢氨噻肟，先锋龙）（Cefotaxime）
+    J01DD01 [头孢噻肟](../Page/头孢噻肟.md "wikilink")（头孢氨噻，头孢氨噻肟，先锋龙）（Cefotaxime）
     J01DD02 [头孢他啶](https://zh.wikipedia.org/wiki/头孢他啶 "wikilink")（头孢噻甲羧肟）（Ceftazidime）
     J01DD03 [头孢磺啶](../Page/头孢磺啶.md "wikilink")（磺吡苄头孢菌素，头孢磺吡酮）（Cefsulodin）
     J01DD04 [头孢曲松](https://zh.wikipedia.org/wiki/头孢曲松 "wikilink")（头孢三嗪，头孢嗪克松，头孢氨噻三嗪）（Ceftriaxone）
@@ -207,8 +207,8 @@
 ### J01EB 短效磺胺类（Short-acting sulfonamides）
 
   -
-    J01EB01 [磺胺索嘧啶](https://zh.wikipedia.org/wiki/磺胺索嘧啶 "wikilink")（Sulfaisodimidine）
-    J01EB02 [磺胺甲二唑](https://zh.wikipedia.org/wiki/磺胺甲二唑 "wikilink")（Sulfamethizole）
+    J01EB01 [磺胺二甲异嘧啶](https://zh.wikipedia.org/wiki/磺胺二甲异嘧啶 "wikilink")（Sulfaisodimidine）
+    J01EB02 [磺胺甲噻二唑](https://zh.wikipedia.org/wiki/磺胺甲噻二唑 "wikilink")（Sulfamethizole）
     J01EB03 [磺胺二甲嘧啶](../Page/磺胺二甲嘧啶.md "wikilink")（Sulfadimidine）
     J01EB04 [磺胺吡啶](https://zh.wikipedia.org/wiki/磺胺吡啶 "wikilink")（Sulfapyridine）
     J01EB05 [磺胺异噁唑](https://zh.wikipedia.org/wiki/磺胺异噁唑 "wikilink")（Sulfafurazole）
@@ -230,11 +230,11 @@
   -
     J01ED01 [磺胺地索辛](https://zh.wikipedia.org/wiki/磺胺地索辛 "wikilink")（Sulfadimethoxine）
     J01ED02 [磺胺嘧啶](../Page/磺胺嘧啶.md "wikilink")（Sulfalene）
-    J01ED03 [磺胺噁唑](https://zh.wikipedia.org/wiki/磺胺噁唑 "wikilink")（Sulfametomidine）
+    J01ED03 [磺胺托嘧啶](https://zh.wikipedia.org/wiki/磺胺托嘧啶 "wikilink")（Sulfametomidine）
     J01ED04 [磺胺对甲氧嘧啶](https://zh.wikipedia.org/wiki/磺胺对甲氧嘧啶 "wikilink")（Sulfametoxydiazine）
-    J01ED05 [磺胺甲氧嗪](https://zh.wikipedia.org/wiki/磺胺甲氧嗪 "wikilink")（Sulfamethoxypyridazine）
+    J01ED05 [磺胺甲氧哒嗪](https://zh.wikipedia.org/wiki/磺胺甲氧哒嗪 "wikilink")（Sulfamethoxypyridazine）
     J01ED06 [磺胺培林](https://zh.wikipedia.org/wiki/磺胺培林 "wikilink")（Sulfaperin）
-    J01ED07 [磺胺甲嘧啶](https://zh.wikipedia.org/wiki/磺胺甲嘧啶 "wikilink")（Sulfamerazine）
+    J01ED07 [磺胺甲基嘧啶](https://zh.wikipedia.org/wiki/磺胺甲基嘧啶 "wikilink")（Sulfamerazine）
     J01ED08 [磺胺苯吡唑](https://zh.wikipedia.org/wiki/磺胺苯吡唑 "wikilink")（Sulfaphenazole）
     J01ED09 [磺胺马宗](https://zh.wikipedia.org/wiki/磺胺马宗 "wikilink")（Sulfamazon）
     J01ED20 复方（Combinations）
@@ -254,7 +254,7 @@
 
   -
     QJ01EQ01 [Sulfapyrazole](https://zh.wikipedia.org/wiki/Sulfapyrazole "wikilink")
-    QJ01EQ02 [磺胺甲二唑](https://zh.wikipedia.org/wiki/磺胺甲二唑 "wikilink")（Sulfamethizole）
+    QJ01EQ02 [磺胺甲噻二唑](https://zh.wikipedia.org/wiki/磺胺甲噻二唑 "wikilink")（Sulfamethizole）
     QJ01EQ03 [磺胺二甲嘧啶](../Page/磺胺二甲嘧啶.md "wikilink")（Sulfadimidine）
     QJ01EQ04 [磺胺吡啶](https://zh.wikipedia.org/wiki/磺胺吡啶 "wikilink")（Sulfapyridine）
     QJ01EQ05 [磺胺异噁唑](https://zh.wikipedia.org/wiki/磺胺异噁唑 "wikilink")（Sulfafurazole）
