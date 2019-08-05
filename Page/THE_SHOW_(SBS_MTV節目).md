@@ -839,6 +839,7 @@
   - 07.09 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>12th</sup> - Fever<sup>1st</sup> \[9,100分\]
   - 07.16 - [河成雲](../Page/河成雲.md "wikilink")<sup>1st</sup> - Blue<sup>1st</sup> \[8,150分\]
   - 07.23 - 停播
+  - 07.30 - [CIX](../Page/CIX.md "wikilink")<sup>1st</sup> - Movie Star<sup>1st</sup> \[8,290分\]
 
 ## 藝人成就
 

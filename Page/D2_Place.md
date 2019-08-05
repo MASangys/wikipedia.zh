@@ -38,11 +38,11 @@ D2 Place 4th floor.jpg|HOM.ME家品店（2015年） D2 Place Level 4 201705.jpg|
 
 [D2_Place_Two_(orientation_adjusted).jpg](https://zh.wikipedia.org/wiki/File:D2_Place_Two_\(orientation_adjusted\).jpg "fig:D2_Place_Two_(orientation_adjusted).jpg")
 
-D2 Place二期位於長沙灣長順街15號，樓高11層，總面積達300,000呎，設有110個車位。地下至2樓引入各類型的零售商舖及餐廳。包括Holly Brown、BREAD N BUTTER、生活百貨概念店The Barn、農本方中醫診所、北海道爐端 Majimeya、台灣人氣親子餐廳「大樹先生的家」及Crazy Car Café。3樓為特色美食廣場。
+D2 Place二期位於長沙灣長順街15號，樓高11層，總面積達300,000呎，設有110個車位。地下至2樓引入各類型的零售商舖及餐廳。包括bread n butter、Holly Brown、生活百貨概念店The Barn、農本方中醫診所、北海道爐端 Majimeya、台灣人氣親子餐廳「大樹先生的家」及Crazy Car Café。3樓為特色美食廣場。
 
 5至9樓劃為實驗空間「TheLabs滙創坊」。發展商投資2億元翻新及改裝，2017年1月21日正式開幕。\[2\]
 
-10至11樓為韓國大型連鎖電影院品牌[CGV](../Page/CJ_CGV.md "wikilink")，共有4個播影廳及500個座位，並引入韓國最新4DX放映技術和全港首個ScreenX影廳。電影院於2017年5月引入，並在2018年9月開幕。開幕後成為當時深水埗區僅存兩間電影院之一（另一間位於[又一城](../Page/又一城.md "wikilink")）。\[3\]
+10至11樓為韓國大型連鎖電影院品牌[CGV](../Page/CJ_CGV.md "wikilink")，共有4個播影廳及500個座位，並引入韓國最新4DX放映技術和全港首個ScreenX影廳。電影院於2017年5月引入，並在2018年9月開幕。開幕後成為深水埗區四間電影院之一（一間位於[又一城](../Page/又一城.md "wikilink")、一間位於麗新商業中心、一間位於[V Walk](../Page/V_Walk.md "wikilink")）。\[3\]
 
 <File:D2> Place Two GF 201705.jpg|地下大堂 <File:D2> Place Two Level 1 shops 201705.jpg|1樓商店 <File:D2> Place Two Level 2 201705.jpg|2樓商店
 

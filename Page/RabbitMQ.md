@@ -1,4 +1,4 @@
-**RabbitMQ**是实现了[高级消息队列协议](../Page/高级消息队列协议.md "wikilink")（AMQP）的开源软件（亦称）。RabbitMQ服务器是用[Erlang](../Page/Erlang.md "wikilink")语言编写的，而群集和故障转移是构建在[開放電信平台](../Page/開放電信平台.md "wikilink")框架上的。所有主要的编程语言均有与代理接口通讯的客户端[函式庫](../Page/函式庫.md "wikilink")。
+**RabbitMQ**是实现了[高级消息队列协议](../Page/高级消息队列协议.md "wikilink")（AMQP）的开源[消息代理](../Page/消息代理.md "wikilink")软件（亦称）。RabbitMQ服务器是用[Erlang](../Page/Erlang.md "wikilink")语言编写的，而群集和故障转移是构建在[開放電信平台](../Page/開放電信平台.md "wikilink")框架上的。所有主要的编程语言均有与代理接口通讯的客户端[函式庫](../Page/函式庫.md "wikilink")。
 
 ## 历史
 

@@ -908,6 +908,12 @@
 <tr class="even">
 <td><p>Netflix Korea</p></td>
 </tr>
+<tr class="odd">
+<td><p>7月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月26日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1607,6 +1613,12 @@ Chen、Kai</p></td>
 <tr class="odd">
 <td><p>7月22日</p></td>
 <td><p>Chanyeol、Sehun</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月24日</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

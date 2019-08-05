@@ -47,7 +47,7 @@ PopWalk樓高2層，設38個租戶。地下設[fusion by PARKnSHOP超級市場](
 
   -
   -
-[Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink")
+[Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:2016年完工建築物](https://zh.wikipedia.org/wiki/Category:2016年完工建築物 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink")
 
 1.  [新地(00016.HK)將軍澳「天晉匯」明年中開幕](http://www.aastocks.com/tc/stocks/news/aafn-content/NOW.699576/popular-news)
 2.

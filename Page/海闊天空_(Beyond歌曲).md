@@ -35,7 +35,7 @@ Beyond同時亦錄製了日文版的[單曲](https://zh.wikipedia.org/wiki/單�
 
 ## 參考資料
 
-[Category:粤语流行音乐](https://zh.wikipedia.org/wiki/Category:粤语流行音乐 "wikilink") [Category:1993年歌曲](https://zh.wikipedia.org/wiki/Category:1993年歌曲 "wikilink") [Category:雨傘革命歌曲](https://zh.wikipedia.org/wiki/Category:雨傘革命歌曲 "wikilink")
+[Category:粤语流行音乐](https://zh.wikipedia.org/wiki/Category:粤语流行音乐 "wikilink") [Category:1993年歌曲](https://zh.wikipedia.org/wiki/Category:1993年歌曲 "wikilink") [Category:雨傘革命歌曲](https://zh.wikipedia.org/wiki/Category:雨傘革命歌曲 "wikilink") [Category:Beyond歌曲](https://zh.wikipedia.org/wiki/Category:Beyond歌曲 "wikilink")
 
 1.
 2.  [歌詞貼切\! 　Beyond「海闊天空」成佔中曲](http://www.nexttv.com.tw/news/realtime/international/11151047/privacy), [壹電視](../Page/壹電視.md "wikilink"), 2014/09/30

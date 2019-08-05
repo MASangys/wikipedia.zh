@@ -2,7 +2,7 @@
 
 ## 經歷
 
-### 2014年：出道、發表單曲《Petit Macaron》、舉行粉絲名投票、公佈粉絲名、首張Repackage單曲《Petit Macaron Data Pack》
+### 2014年：出道、單曲《Petit Macaron》、舉行粉絲名投票、公佈粉絲名、首張Repackage單曲《Petit Macaron Data Pack》
 
 8月19日，官方公佈於8月28日推出新女團，名為LABOUM。
 
@@ -16,45 +16,39 @@
 
 ### 2015年：第二張單曲《SUGAR SUGAR》、第三張單曲《AALOW AALOW》
 
-3月22日，官方公開第二張單曲《SUGAR SUGAR》MV預告。26日，官方公開《SUGAR SUGAR》全輯音源和主打歌《SUGAR SUGAR》MV，並於《M\! Countdown》舉行首次回歸Showcase。
+3月16日，官方公開第二張單曲《SUGAR SUGAR》成員概念照，22日，公開第二張單曲《SUGAR SUGAR》MV預告。\[4\]\[5\]
 
-11月25日，官方公開第三張單曲《AALOW AALOW》MV預告。12月6日，官方公開《AALOW AALOW》全輯音源和主打歌《AALOW AALOW》MV。
+3月26日，官方公開《SUGAR SUGAR》全輯音源和主打歌《SUGAR SUGAR》MV，並於《M\! Countdown》舉行首次回歸Showcase。
+
+11月25日，官方公開第三張單曲《AALOW AALOW》MV預告與概念照。\[6\]
+
+12月6日，官方公開第三張單曲《AALOW AALOW》全輯音源和主打歌《AALOW AALOW》MV。
 
 ### 2016年：第四張單曲《Fresh Adventure》、首張迷你專輯《LOVE SIGN》、冬日特別專輯《Winter Story》
 
-3月28日至3月30日期間，官方公開第四張單曲《Fresh Adventure》各成員的MV預告。
+3月21日，官方公開第四張單曲《Fresh Adventure》回歸日程，並陸續公開成員們的專輯概念照、曲目表及MV預告。\[7\]
 
-4月6日公開《Fresh Adventure》全輯音源和主打歌《상상더하기》MV。
+4月6日，官方公開第四張單曲《Fresh Adventure》全輯音源和主打歌《상상더하기》MV。
 
-8月22日，公開首張迷你專輯《LOVE SIGN》主打曲《푱푱(Shooting Love)》MV預告。
+8月9日，官方公開首張迷你專輯《LOVE SIGN》概念照，後陸續公開專輯相關資訊。\[8\]
 
-8月23日公開《LOVE SIGN》全輯音源和主打歌《푱푱(Shooting Love)》MV。
+8月23日，官方公開首張迷你專輯《LOVE SIGN》全輯音源和主打歌《푱푱(Shooting Love)》MV。
 
-11月28日，公開冬日特別專輯主打曲《Winter Story》MV預告。12月1日公開《Winter Story》MV。
+11月28日，官方公開冬日特別專輯主打曲《Winter Story》MV預告與概念照。12月1日公開《Winter Story》MV。\[9\]
 
 ### 2017年：第二張迷你專輯《MISS THIS KISS》、首次得到音樂節目一位、第二張數位單曲《LABOUM Summer Special》、進軍日本、律喜退出
 
-4月10日，官方公開第二張迷你專輯《MISS THIS KISS》回歸日程。
+4月10日，官方公開第二張迷你專輯《MISS THIS KISS》回歸日程，並陸續公開成員們的專輯概念照、曲目表及MV預告。\[10\]
 
-4月11日，官方公開海仁、率濱、律喜的預告照。
-
-4月12日，官方公開第二張迷你專輯《MISS THIS KISS》回歸日程和柔廷、昭娟、ZN的預告照。
-
-4月13日，官方公開團體概念照。
-
-4月14日，官方公開《Hwi hwi (휘휘)》MV Teaser。
-
-4月17日，推出第二張迷你專輯《MISS THIS KISS》，並發佈主打歌曲《Hwi hwi (휘휘)》\[4\]MV 。
+4月17日，發行第二張迷你專輯《MISS THIS KISS》，公開主打歌曲《Hwi hwi (휘휘)》MV， 並於當天舉辦Showcase。
 
 4月28日，憑《Hwi hwi (휘휘)》一曲，於[Music Bank獲得出道以來首個一位](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
-7月24日，官方公開《Only U(두바둡)》\[5\]MV Teaser。
+7月19日，官方公開第二張數位單曲專輯《LABOUM Summer Special》概念照，於25日公開《Only U(두바둡)》MV。\[11\]
 
-7月25日，官方公開數位單曲專輯《LABOUM Summer Special》，並發布《Only U(두바둡)》MV。
+8月29日，官方開通日本官方Twitter帳號，並在其中發布LABOUM即將在9月23日在日本出道的消息\[12\]\[13\]，隨後陸續發布成員們的個人介紹視頻。
 
-8月29日，官方開通日本官方Twitter帳號，並在其中發布LABOUM即將在9月23日在日本出道的消息\[6\]\[7\]，隨後陸續發布成員們的個人介紹視頻。
-
-11月3日，官方表示成員律喜確定退出组合。律喜曾多次向公司表示她對演藝界的活動没有興趣，在與公司進行了長時間的商議後，最終决定尊重她本人的意見结束合约。\[8\]
+11月3日，官方表示成員律喜確定退出组合。律喜曾多次向公司表示她對演藝界的活動没有興趣，在與公司進行了長時間的商議後，最終决定尊重她本人的意見结束合约。\[14\]
 
 ### 2018年：ZN獲勝《The Unit》、第五張單曲《Between Us》、日本首張單曲《Hwi hwi》、第六張單曲《I'M YOURS》
 
@@ -62,25 +56,25 @@
 
 7月10日，官方 Facebook 上公開了一張預告照，將以五人體制於7月24日發行單曲專輯《Between Us》回歸，照片以粉紅色為底，並以白色字體寫上「LABOUM」、「Between Us」及「coming soon 07.24」字樣。
 
-7月14日，原定於7月24日睽違一年的以五人體制發行單曲專輯《Between Us》回歸的 LABOUM宣布專輯將延至27日發行，並陸續公開成員的專輯概念照。
+7月14日，原定於7月24日睽違一年的以五人體制發行單曲專輯《Between Us》回歸的 LABOUM宣布專輯將延至27日發行，並陸續公開成員的專輯概念照。\[15\]
 
 7月22日，官方公開《Between Us》Official MV Teaser，7月25日公開《Between Us》Performance MV Teaser。
 
 7月25日，官方公開《Between Us》Official MV，並於7月26日開始上音樂節目打歌。
 
-8月21日，官方發布即將在11月7日發行日本首張單曲《Hwi hwi》，裡頭收錄《Hwi hwi》、《Shooting Love》日文版，以及兩首日本原創歌曲《Sugar Pop》、《killer killer Tune》；發行後登上日本公信榜第9名。
+8月21日，官方發布即將在11月7日發行日本首張單曲《Hwi hwi》，裡頭收錄《Hwi hwi》、《Shooting Love》日文版，以及兩首日本原創歌曲《Sugar Pop》、《killer killer Tune》；發行後登上日本公信榜第9名。\[16\]\[17\]
 
 11月27日，公司向媒體表示將於12月6日發行第六張單曲專輯《I'M YOURS》，並陸續公開成員們的專輯概念照。
 
-11月30日，原定12月6日發行第六張單曲專輯《I'M YOURS》，官方說明應內部情況而改以12月5日發行。\[9\]
+11月30日，原定12月6日發行第六張單曲專輯《I'M YOURS》，官方說明應內部情況而改以12月5日發行。\[18\]
 
 12月5日，公開主打歌《불을 켜(Turn It On)》Official MV，並於當日舉行SHOWCASE。
 
 ### 2019年：日本首張專輯《Love Pop Wow\!\!》
 
-2月8日，日本媒體發布消息指出官方確定於4月24日發行日本第一張專輯，同時也公開於2月16至2月24日期間舉行發售活動。\[10\]
+2月8日，日本媒體發布消息指出官方確定於4月24日發行日本第一張專輯，同時也公開於2月16至2月24日期間舉行發售活動。\[19\]
 
-4月1日，日本官方公開首張日本專輯《Love Pop Wow\!\!》發行詳細內容，也公開4月27日見面會詳細資訊。\[11\]
+4月1日，日本官方公開首張日本專輯《Love Pop Wow\!\!》發行詳細內容，也公開4月27日見面會詳細資訊。\[20\]
 
 4月24日，首張日本專輯《Love Pop Wow\!\!》正式发布，並於4月24日至5月6日期間舉行發售活動。
 
@@ -88,7 +82,7 @@
 
 |            |
 | ---------- |
-| 成員列表\[12\] |
+| 成員列表\[21\] |
 | **藝名**     |
 | **漢字**     |
 | 柔廷         |
@@ -154,7 +148,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>Petit Macaron</strong>》[13]</p>
+<td><p>《<strong>Petit Macaron</strong>》[22]</p>
 <ul>
 <li>發行日期：2014年8月28日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -313,7 +307,7 @@ PlotData =
 |                                                 |                                                          |                 |               |         |
 | ----------------------------------------------- | -------------------------------------------------------- | --------------- | ------------- | ------- |
 | 年份                                              | 電視劇                                                      | 歌曲              | 參與成員          | 備註      |
-| 2015年                                           | KBS《[我們家蜜罈子](../Page/我們家蜜罈子.md "wikilink")》              | 冰冷的愛\[14\]      | 昭娟            |         |
+| 2015年                                           | KBS《[我們家蜜罈子](../Page/我們家蜜罈子.md "wikilink")》              | 冰冷的愛\[23\]      | 昭娟            |         |
 | 2017年                                           | MBC《[醫療船](https://zh.wikipedia.org/wiki/醫療船 "wikilink")》 | I Feel Love     |               |         |
 | KBS《[Jugglers](../Page/Jugglers.md "wikilink")》 | Cosmic                                                   |                 |               |         |
 | 2018年                                           | MBC《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》                | Don't disappear | 柔廷、昭娟         |         |
@@ -384,9 +378,9 @@ PlotData =
 
 | 成員 | 登記名稱     | 登記編號     | 參與歌曲列表 |
 | -- | -------- | -------- | ------ |
-| 柔廷 | 김유정 / 유정 | 10015269 | \[15\] |
-| 昭娟 | 정소연      | 10017252 | \[16\] |
-| 率濱 | 안솔빈      | 10020214 | \[17\] |
+| 柔廷 | 김유정 / 유정 | 10015269 | \[24\] |
+| 昭娟 | 정소연      | 10017252 | \[25\] |
+| 率濱 | 안솔빈      | 10020214 | \[26\] |
 
 ## 影視作品
 
@@ -394,9 +388,9 @@ PlotData =
 
 | 年份    | 影片名稱       | 參與成員 | 角色  | 性質  | 備註     |
 | ----- | ---------- | ---- | --- | --- | ------ |
-| 2016年 | 《對決》       | 率濱   |     | |配角 | \[18\] |
+| 2016年 | 《對決》       | 率濱   |     | |配角 | \[27\] |
 | 2019年 | 《生存者偏向的錯誤》 | 成智娜  | 女主角 |     |        |
-| 2019年 | 《賭上了一切》    | ZN   | 賽綸  | 配角  | \[19\] |
+| 2019年 | 《賭上了一切》    | ZN   | 賽綸  | 配角  | \[28\] |
 
 ### 電視劇
 
@@ -430,10 +424,10 @@ PlotData =
 <td></td>
 <td><p><a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a></p></td>
 <td><p>率濱</p></td>
-<td><p>《The Original》單曲預告[20]</p></td>
+<td><p>《The Original》單曲預告[29]</p></td>
 </tr>
 <tr class="odd">
-<td><p>One summer night[21]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=vgBlBFL3CBo">One summer night</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -441,20 +435,20 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p>Standing Still[22]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=bOPHIx81bQE">Standing Still</a></p></td>
 <td><p><a href="../Page/U-KISS.md" title="wikilink">U-KISS</a></p></td>
 <td><p>律喜</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Inside of Me[23]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=xjwrqzV5Zak">Inside of Me</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Open the Door[24]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=FLPLgJqeZJw">Open the Door</a></p></td>
 <td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a></p></td>
 <td></td>
 <td></td>
@@ -462,13 +456,13 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p>Pit a Pat[25]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=oIO6onF02Hg">두근두근 (Pit a Pat)</a></p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>What about you[26]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=elU6ZzSI4yU">어떡할래</a> <a href="https://www.youtube.com/watch?v=elU6ZzSI4yU">(What about you)</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -476,13 +470,13 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p>SUGAR SUGAR[27]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=LUqazzQOBbo">SUGAR SUGAR</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>AALOW AALOW[28]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=u3_QjEIyxCQ">AALOW AALOW</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -490,41 +484,41 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p>MS. BURGUNDY[29]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=Q-mknugkQBs">MS. BURGUNDY</a></p></td>
 <td></td>
 <td><p>律喜</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Journey to Atlantis[30]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=m0o7fbNKhpM">상상더하기</a> <a href="https://www.youtube.com/watch?v=m0o7fbNKhpM">(Fresh Adventure)</a></p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Stalker[31]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=3pN7REpLn3I">Stalker</a></p></td>
 <td><p><a href="../Page/U-KISS.md" title="wikilink">U-KISS</a></p></td>
 <td><p>率濱</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>푱푱 (Shooting Love)[32]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=mET2g1HF9TY">푱푱 (Shooting Love)</a></p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Thank You[33]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=RBekWU98-tc">Thank You</a></p></td>
 <td><p>DJ Hanmin、Flawless、DizzySunn</p></td>
 <td><p>昭娟</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>겨울동화 (Winter Story)[34]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=JwdmM8XY-nk">겨울동화 (Winter Story)</a></p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td><p>|</p></td>
@@ -532,86 +526,93 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p>휘휘 (Hwi Hwi)[35]</p></td>
-<td><p>LABOUM</p></td>
-<td><p>全員</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=aehbDMIEmnM">Hwi hwi</a></p></td>
 <td><p>|</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>My Turn[36]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=NafyjkXjGfs">두바둡 (only u)</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=_R3YWW5ayrU">My turn</a></p></td>
 <td><p>THE UNI+</p></td>
 <td><p>柔廷、ZN、海仁</p></td>
 <td><p>THE UNIT節目主題曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>SHINE[37]</p></td>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=UhEuA8hNHJY">SHINE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>Cherry On Top[38]</p></td>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=EwwE8Ilht84">Cherry On Top</a></p></td>
 <td><p>THE UNI+ G (10시45분)</p></td>
 <td><p>海仁</p></td>
 <td><p>THE UNIT節目任務</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>Always[39]</p></td>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=GjcK3a8KMo4">Always</a></p></td>
 <td><p>THE UNI+ G (블루밍)</p></td>
 <td><p>柔廷</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年</p></td>
-<td><p>넘어(No More)[40]</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=cMTxBCB_o78">No More</a></p></td>
 <td><p><a href="../Page/UNI.T.md" title="wikilink">UNI.T</a></p></td>
 <td><p>ZN</p></td>
 <td><p>|</p></td>
 </tr>
-<tr class="odd">
-<td><p>XOXO[41]</p></td>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=XAVlunomdQk">XOXO</a></p></td>
 <td><p>朴宰正 X 昭娟</p></td>
 <td><p>昭娟</p></td>
 <td><p>兩人合作的單曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>체온 (Between Us)[42]</p></td>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=d4hWIUSi73c">체온 (Between Us)</a></p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=pcwFW4i-Kzc">Hwi hwi -Japanese Ver.-</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
-<td><p>Hwi hwi -Japanese Ver.-[43]</p></td>
-<td><p>LABOUM</p></td>
-<td><p>全員</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=nRO_rSQ5XvQ">불을 켜 (Turn It On)</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>불을 켜(Turn It On)[44]</p></td>
-<td><p>LABOUM</p></td>
-<td><p>全員</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>2019年</p></td>
-<td><p>災難賠償責任保險[45]</p></td>
-<td><p>LABOUM</p></td>
-<td><p>全員</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=_XN4Q4Bh5fM">災難賠償責任保險</a></p></td>
 <td><p>韓國行政安全部門宣導歌曲</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
-<td><p>코리안드림 (Korean Dream)[46]</p></td>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=UPAZWXagiNM">Korean Dream</a></p></td>
 <td><p>One K Stars</p></td>
-<td><p>全員</p></td>
 <td><p>韓國3.1運動100周年紀念歌曲</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -667,6 +668,154 @@ PlotData =
 </tr>
 </tbody>
 </table>
+
+### 綜藝節目
+
+| 日期                                                 | 電視台 / 平台                                                            | 節目名稱                                                                | 參與成員          | 備註         |
+| -------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------- | ---------- |
+| 2014年                                              |                                                                     |                                                                     |               |            |
+| 10月28日－11月11日                                      | MBC MUSIC                                                           | 《Idol School》                                                       | 全員            |            |
+| 11月18日                                             | ARIRANG TV                                                          | 《[After School Club](../Page/After_School_Club.md "wikilink")》      |               |            |
+| 《Pops in Seoul》                                    |                                                                     |                                                                     |               |            |
+| 11月30日                                             | KBS2                                                                | 《出發夢之隊》                                                             | ZN、律喜、率濱      |            |
+| 2015年                                              |                                                                     |                                                                     |               |            |
+| 1月5日                                               | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")               | 《[Yaman TV](../Page/Yaman_TV.md "wikilink")》                        | 全員            |            |
+| 3月29日                                              | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")               | 《出發夢之隊 2》                                                           | ZN、律喜         |            |
+| 4月22日                                              | ARIRANG TV                                                          | 《Pops in Seoul》                                                     | 全員            |            |
+| 6月19日－9月4日                                         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[秘密武器 她](../Page/秘密武器_她.md "wikilink")》                            | 率濱            | 固定出演       |
+| 6月28日                                              | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 藝人評審團                                                               |               |            |
+| 12月14日                                             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")               | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                      | 率濱、律喜         |            |
+| 2016年                                              |                                                                     |                                                                     |               |            |
+| 1月4日                                               | ARIRANG TV                                                          | 《Pops in Seoul》                                                     | 全員            |            |
+| 4月5日、16日                                           | SBS                                                                 | 《白鍾元的三大天王》                                                          | 柔廷、昭娟、率濱      |            |
+| 4月13日                                              | MBC every1                                                          | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                  | 全員            |            |
+| 4月13日                                              | KBS2                                                                | 《維他命》                                                               | 昭娟、海仁、率濱、律喜   |            |
+| 4月17日                                              | SBS                                                                 | 《Fantastic Duo-我手裡的歌手》                                              | 率濱、ZN         | 藝人團        |
+| 《[同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")》 | 率濱                                                                  |                                                                     |               |            |
+| 7月19日－9月27日                                        | JTBC                                                                | 《[Girl Spirit](../Page/Girl_Spirit.md "wikilink")》                  | 昭娟            | 固定出演       |
+| 8月11日                                              | KBS2                                                                | 《[歡樂在一起](../Page/歡樂在一起.md "wikilink")》                              | 率濱            |            |
+| 8月31日                                              | ARIRANG TV                                                          | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全員            |            |
+| 9月3日                                               | JTBC                                                                | 《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》                              | 率濱            |            |
+| 9月5日                                               | ARIRANG TV                                                          | 《Pops in Seoul》                                                     | 全員            |            |
+| 9月19日                                              | MTV                                                                 | 《我愛偶像》                                                              | Play J's 偶像週報 |            |
+| 10月16日                                             | SBS                                                                 | 《Running Man》                                                       | 率濱            |            |
+| 12月14日                                             | ARIRANG TV                                                          | 《Pops in Seoul》                                                     | 全員            |            |
+| 2017年                                              |                                                                     |                                                                     |               |            |
+| 1月16日                                              | TV朝鮮                                                                | 《偶像宴會》                                                              | 全員            |            |
+| 1月27日                                              | KBS                                                                 | 《[女團大戰-歌門的榮光](../Page/女團大戰-歌門的榮光.md "wikilink")》                    | 春節特輯          |            |
+| 1月30日                                              | MBC                                                                 | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 |               |            |
+| 3月9、16日                                            | Mnet                                                                | 《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》         | 率濱            | 音痴搜查隊      |
+| 4月17日                                              | KBS                                                                 | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                      | ZN、率濱         |            |
+| 5月9日                                               | SBS                                                                 | 《Stargram》                                                          | 率濱            |            |
+| 5月14日                                              | KBS                                                                 | 《스승의 날 특집》                                                          |               |            |
+| 5月17日                                              | ARIRANG TV                                                          | 《Pops in Seoul》                                                     | 全員            |            |
+| 5月21日                                              | KBS                                                                 | 《K-RUSH 》                                                           |               |            |
+| 6月25日                                              | tvN                                                                 | 《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》   |               |            |
+| 7月8日                                               | 《[SNL Korea](../Page/SNL_Korea.md "wikilink")》                      | 率濱                                                                  | 客串            |            |
+| 8月19日                                              | KBS                                                                 | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                  | 全員            |            |
+| 10月28日－2018年2月10日                                  | 《[The Unit](../Page/The_Unit.md "wikilink")》                        | 柔廷、海仁、ZN                                                            |               |            |
+| 12月1日－2018年1月26日                                   | SBS                                                                 | 《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》           | 率濱            | 庫克群島篇      |
+| 12月9日                                              | 《[Master Key](../Page/Master_Key.md "wikilink")》                    |                                                                     |               |            |
+| 2018年                                              |                                                                     |                                                                     |               |            |
+| 1月7日                                               | MBC                                                                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 率濱            | 以參賽者身分     |
+| 2月15日、16日                                          | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 | 全員                                                                  | 春節特輯          |            |
+| 4月11日                                              | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                  | 率濱                                                                  |               |            |
+| 5月28日-7月30日                                        | MBC SPORTS+                                                         | 《7전8큐 시즌2》                                                          | 昭娟            | 固定出演、每周一播出 |
+| 7月11日                                              | iHQ                                                                 | 《맨VS차일드 KOREA》                                                      | 率濱            |            |
+| 8月8日                                               | MBC                                                                 | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                  | 全員            |            |
+| 8月9日                                               | MBC MUSIC                                                           | 《神童的Kick Service》                                                   | 柔廷、ZN、海仁、率濱   |            |
+| 8月13日                                              | KBS                                                                 | [《大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                      | ZN、率濱         |            |
+| 8月17日                                              | 《World Idol Show K-RUSH3 》                                          | 全員                                                                  |               |            |
+| 8月20日                                              | Arirang TV                                                          | 《Pops in Seoul》                                                     |               |            |
+| 8月27日、9月3日                                         | IMBC HeyoTV                                                         | 《BUSKING DIARY》                                                     |               |            |
+| 8月28日                                              | Arirang TV                                                          | 《[After School Club](../Page/After_School_Club.md "wikilink")》      |               |            |
+| 9月5日                                               | SPOTV STARK                                                         | 《IDOL LEAGUE》                                                       |               |            |
+| 11月30日                                             | CJ E\&M OGN                                                         | 《[Gamedolympic](../Page/Gamedolympic.md "wikilink")》                | 柔廷            |            |
+| 11月31日                                             | 昭娟                                                                  |                                                                     |               |            |
+| 12月9日                                              | MBC                                                                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 率濱            | 藝人陪審團      |
+| 12月9日                                              | KBS                                                                 | 《GOLDEN BELL》                                                       | 全員            |            |
+| 12月31日                                             | Arirang TV                                                          | 《Pops in Seoul》                                                     |               |            |
+| 2019年                                              |                                                                     |                                                                     |               |            |
+| 1月31日                                              | tvN                                                                 | 《[周三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")》           | 率濱            |            |
+| 2月5日、6日                                            | MBC                                                                 | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 | 全員            | 春節特輯       |
+| 2月22日                                              | TOUCH PLAY                                                          | 《毽子王 李天秀》                                                           |               |            |
+| 2月26日－3月21日                                        | KBS                                                                 | 《德華TV》                                                              | 柔廷、ZN、率濱      |            |
+| 3月17日、3月24日                                        | MBC                                                                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 昭娟            | 以參賽者身分     |
+| 7月24日                                              | tvN                                                                 | 《[無論什麼friends](../Page/無論什麼friends.md "wikilink")》                  | 率濱            |            |
+
+### 廣播節目
+
+| 日期                      | 電台                                                | 節目名稱                           | 參與成員  | 備註     |
+| ----------------------- | ------------------------------------------------- | ------------------------------ | ----- | ------ |
+| 2014年                   |                                                   |                                |       |        |
+| 9月29日                   | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 柔廷    |        |
+| 10月11日                  | 全員                                                |                                |       |        |
+| 11月7日                   | SBS Power FM                                      | 《Kwill的Young Street》           | 全員    |        |
+| 11月29日                  | MBC                                               | 《鄭俊英的深深打破》                     |       |        |
+| 12月15日                  | Arirang Radio                                     | 《Sound K》                      |       |        |
+| 2015年                   |                                                   |                                |       |        |
+| 3月24日、5月28日             | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 柔廷    |        |
+| 4月3日                    | 全員                                                |                                |       |        |
+| 4月6日、12月7日              | Arirang Radio                                     | 《Sound K》                      | 全員    |        |
+| 4月12日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 柔廷、率濱 |        |
+| 11月30日、12月6日            | SBS Power FM                                      | 兩點出逃 Cultwo Show》              | 全員    |        |
+| 12月10日                  | 《李國主的Young Street》                                | 柔廷、海仁                          | 公開放送  |        |
+| 2016年                   |                                                   |                                |       |        |
+| 1月26日、9月7日              | MBC FM4U                                          | 《Tei的夢想電台》                     | 率濱    |        |
+| 3月1日                    | 《Good Morning FM全炫茂》                              | 柔廷                             |       |        |
+| 4月7日                    | 全員                                                | 公開放送                           |       |        |
+| 4月18日、9月2日              | KBS Cool FM                                       | 《Super Junior的 Kiss the Radio》 | 全員    |        |
+| 4月21日、8月29日             | SBS Power FM                                      | 《金昌烈的Old School》               |       |        |
+| 4月25日                   | 《李國主的Young Street》                                | 柔廷、昭娟、海仁                       |       |        |
+| 5月5日、9月1日、10月21日        | MBC FM4U                                          | 《正午的希望曲 我是金信英》                 | 全員    |        |
+| 5月16日、9月5日、12月8日、12月19日 | Arirang Radio                                     | 《Sound K》                      |       |        |
+| 5月30日、8月28日             | SBS Love FM                                       | 《金興國,奉萬台的翻轉生活》                 |       |        |
+| 6月18日                   | MBC                                               | 《朴慶琳的兩點約會》                     | 公開放送  |        |
+| 7月9日                    | KBS2 Radio                                        | 《你的早晨\!是朴恩英》                   |       |        |
+| 7月23日、9月7日              | SBS Love FM                                       | 《宋恩伊, 金淑的姐姐Radio》              |       |        |
+| 8月31日                   | 《Boom's Driving Club Radio》                       |                                |       |        |
+| 9月10日                   | 《樸素賢的Love Game》                                   |                                |       |        |
+| 10月7日                   | KBS Cool FM                                       | 《Kim Ji Won的屋塔房Radio》          |       |        |
+| 10月9日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 公開放送  |        |
+| 12月11日                  | 《裴晟宰的 TEN》                                        |                                |       |        |
+| 12月19日                  | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷、昭娟 |        |
+| 2017年                   |                                                   |                                |       |        |
+| 1月26日                   | SBS Power FM                                      | 《金昌烈的Old School》               | 柔廷    |        |
+| 2月1日                    | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷、昭娟 |        |
+| 3月9日                    | 柔廷                                                |                                |       |        |
+| 4月20日                   | SBS Power FM                                      | 《兩點出逃 Cultwo Show》             | 全員    |        |
+| 4月22日                   | 《樸素賢的Love Game》                                   | 柔廷、昭娟                          | 錄音放送  |        |
+| 4月26日                   | MBC FM4U                                          | 《Tei的夢想電台》                     | 全員    |        |
+| 4月28日                   | KBS                                               | 《趙胤熙的提高音量》                     |       |        |
+| 5月1日                    | Arirang Radio                                     | 《Sound K》                      |       |        |
+| 5月3日                    | SBS Love FM                                       | 《尹亨彬 & 梁世炯的Two Man Show》       |       |        |
+| 5月7日                    | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 錄音放送  |        |
+| 5月8日                    | MBC FM                                            | 《Kangta 星光閃耀的夜晚》               | 柔廷、率濱 | 看得見的廣播 |
+| 5月10日                   | KBS Cool FM                                       | 《朴志胤的歌謠廣場》                     | 海仁    |        |
+| 5月11日、5月25日             | SBS Power FM                                      | 《李國主的Young Street》             | 柔廷、昭娟 |        |
+| 6月18日、6月25日             | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷    | 錄音放送   |
+| 7月28日                   | SBS Power FM                                      | 《裴晟宰的 TEN》                     | ZN、率濱 |        |
+| 7月31日                   | KBS Cool FM                                       | 《李秀智的歌謠廣場》                     | 全員    |        |
+| 8月10日                   | KBS Cool FM                                       | 《李洪基的 Kiss the Radio》          | 柔廷    |        |
+| 8月16日                   | SBS Power FM                                      | 《崔華靜的Power Time》               | 全員    |        |
+| 2018年                   |                                                   |                                |       |        |
+| 1月22日                   | KBS Cool FM                                       | 《李秀智的歌謠廣場》                     | ZN    |        |
+| 7月31日                   | SBS Power FM                                      | 《Boom Boom Power》              | 全員    |        |
+| 8月5日                    | EBS FM                                            | 《傾聽》                           |       |        |
+| 8月9日                    | SBS Power FM                                      | 《李國主的Young Street》             |       |        |
+| 8月10日                   | 《崔華靜的Power Time》                                  |                                |       |        |
+| 8月13日                   | Arirang Radio                                     | 《Sound K》                      |       |        |
+| 8月16日                   | KBS Cool FM                                       | 《文熙俊的Music Show》               |       |        |
+| 8月18日                   | SBS Power FM                                      | 《樸素賢的Love Game》                |       |        |
+| 8月28日                   | SBS Love FM                                       | 《柳英在的歌謠秀》                      |       |        |
+| 10月31日                  | SBS Power FM                                      | 《樸素賢的Love Game》                | 率濱    |        |
+| 12月12日                  | 《NCT的night night\!》                               | 全員                             |       |        |
+| 12月17日                  | Arirang Radio                                     | 《SUPER K-POP》                  |       |        |
+| 12月22日                  | SBS Power FM                                      | 《樸素賢的Love Game》                | 柔廷、海仁 | 錄音放送   |
+| 2019年                   |                                                   |                                |       |        |
+| 1月3日                    | MBC標準FM                                           | 《燦多的星光閃耀的夜晚 》                  | 全員    | 看得見的廣播 |
+| 1月10日                   | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | ZN                             |       |        |
+| 3月17日                   | SBS Power FM                                      | 《裴晟宰的 TEN》                     | 率濱    | 錄音放送   |
 
 ## 主持
 
@@ -916,126 +1065,105 @@ PlotData =
 
 ### 其他公演
 
-| 2014年公演活動列表 |
-| ----------- |
-|             |
-| 日期          |
-| 10月17日      |
-| 10月18日      |
-| 10月21日      |
-| 11月27日      |
-
-| 2015年公演活動列表 |
-| ----------- |
-|             |
-| 日期          |
-| 2月13日       |
-| 4月22日       |
-| 5月12日       |
-| 5月22日       |
-| 7月3日        |
-| 7月21日       |
-| 9月8日        |
-| 10月17日      |
-| 10月31日      |
-| 12月21日      |
-
-| 2016年公演活動列表 |
-| ----------- |
-|             |
-| 日期          |
-| 3月3日        |
-| 5月28日       |
-| 10月3日       |
-| 10月7日       |
-| 10月8日       |
-| 10月9日       |
-| 10月15日      |
-| 10月22日      |
-| 10月29日      |
-| 11月11日      |
-| 11月19日      |
-
-| 2017年公演活動列表 |
-| ----------- |
-|             |
-| 日期          |
-| 2月18日       |
-| 3月26日       |
-| 5月4日        |
-| 5月5日        |
-| 5月18日       |
-| 8月2日        |
-| 8月26日       |
-| 9月27日       |
-| 9月28日       |
-| 9月29日       |
-| 11月18日      |
-| 11月19日      |
-| 12月14日      |
-
-| 2018年公演活動列表 |
-| ----------- |
-|             |
-| 日期          |
-| 3月1日        |
-| 3月8日        |
-| 3月20日       |
-| 4月6日        |
-| 4月27日       |
-| 5月10日       |
-| 5月15日       |
-| 5月19日       |
-| 5月20日       |
-| 5月24日       |
-| 5月30日       |
-| 6月17日       |
-| 6月19日       |
-| 6月26日       |
-| 7月15日       |
-| 7月21日       |
-| 8月2日        |
-| 8月14日       |
-| 8月20日       |
-| 8月30日       |
-| 9月7日        |
-| 9月8日        |
-| 9月8日        |
-| 9月11日       |
-| 9月13日       |
-| 9月14日       |
-| 9月29日       |
-| 10月2日       |
-| 10月5日       |
-| 10月6日       |
-| 10月7日       |
-| 10月12日      |
-| 10月13日      |
-| 10月15日      |
-| 10月17日      |
-| 10月18日      |
-| 11月11日      |
-| 11月15日      |
-| 11月20日      |
-| 12月4日       |
-| 12月11日      |
-
-| 2019年公演活動列表 |
-| ----------- |
-|             |
-| 日期          |
-| 3月1日        |
-| 3月16日       |
-| 3月21日       |
-| 4月4日        |
-| 4月20日       |
-| 5月11日       |
-| 5月16日       |
-| 5月25日       |
-| 5月31日       |
-| 6月8日        |
-| 7月16日       |
-| 7月18日       |
+| 日期     | 活動名稱                                  | 舉行地點                          |
+| ------ | ------------------------------------- | ----------------------------- |
+| 2014年  |                                       |                               |
+| 10月17日 | 《蘆原區陸軍士官慰問公演》                         | 首爾                            |
+| 10月18日 | 《分享希望天使演唱會》                           | 首爾廣場                          |
+| 10月21日 | 《果川國軍慰問公演》                            | 京畿道                           |
+| 11月27日 | 《國軍慰問公演》                              | 全羅南道潭陽                        |
+| 2015年  |                                       |                               |
+| 2月13日  | 《培材大學校慶公演》                            | 大田廣域市                         |
+| 4月22日  | 《KISPinoy in Philippines》             | SM MOA Music Hall             |
+| 5月12日  | 《國軍慰問公演》                              | 大田                            |
+| 5月22日  | 《高麗大學校慶公演》                            | 首爾特別市                         |
+| 7月3日   | 《同心國軍慰問CBS Loving U Concert》          | 京畿道                           |
+| 7月21日  | 《民軍官和諧慰問公演》                           | 慶尚南道咸安區                       |
+| 9月8日   | 《國軍慰問公演》                              | 龍仁市                           |
+| 10月17日 | 《2015 Mega Concert》                   | 忠北大學 大運動場                     |
+| 10月31日 | 《2015 石村湖水秋季音樂會》                      | 石村西湖水邊舞台                      |
+| 12月21日 | 《無限挑戰 EXPO祝賀舞台》                       | 一山KINTEX                      |
+| 2016年  |                                       |                               |
+| 3月3日   | 《國軍慰問公演》                              | 益山                            |
+| 5月28日  | 《Asia Idol Billboard (AiBB亞洲偶像榜)》     | 中國上海                          |
+| 10月3日  | 《大韓民國人參慶典》                            | 市政府廣場                         |
+| 10月7日  | 《ASIA MUSIC NETWORK SHOWCASE》         | 上岩MBC公開HALL                   |
+| 10月8日  | 《K-STAR公開放送》                          | 江原道麟蹄公立體育場                    |
+| 10月9日  | 《善良演唱會》                               | 東大門十字口特設舞台                    |
+| 10月15日 | 《KBS分享大慶典》                            | 汝矣島公園                         |
+| 10月22日 | 《KBS青少年音樂會》                           | KINTEX                        |
+| 10月29日 | 《第一屆無文化差異慶典》                          | 韓國                            |
+| 11月11日 | 《韓越美食文化節》                             | 越南河內                          |
+| 11月19日 | 《SBS LoveFM 20周年公開放送》                 | SBS Prism Tower               |
+| 2017年  |                                       |                               |
+| 2月18日  | 《K-Drama FESTA in平昌》                  | 江原道平昌                         |
+| 3月26日  | 《越南圖書捐贈紀念K-POP Concert》               | 越南河內                          |
+| 5月4日   | 《2017 COEX C-FESTIVAL》                | COEX會展中心大廳                    |
+| 5月5日   | 《2017 首爾美食節K-POP Concert》             | 首爾COEX                        |
+| 5月18日  | 《弘益大學校慶公演》                            | 首爾特別市                         |
+| 8月2日   | 《海洋世界樂園演唱會》                           | 海洋世界波浪舞台                      |
+| 8月26日  | 《第五屆大邱牛小腸慶典》                          | 大邱南區廣場                        |
+| 9月27日  | 《忠南大學校慶公演》                            | 大田廣域市                         |
+| 9月28日  | 《國軍慰問公演》                              | 光州                            |
+| 9月29日  | 《第38屆鎮川文化慶典》                          | 鎮川文化館                         |
+| 11月18日 | 《2017 軍樂隊演奏會》                         | 汝矣島KBS                        |
+| 11月19日 | 《金浦青少年慶典》                             | 金浦市                           |
+| 12月14日 | 《國軍慰問公演》                              | 京畿道平澤                         |
+| 2018年  |                                       |                               |
+| 3月1日   | 《與市民一起的慶祝音樂會》                         | 梁山綜合室內體育館                     |
+| 3月8日   | 《新韓銀行2017\~2018 韓國女子專業籃球正規聯合賽 頒獎典禮》   | 首爾良才洞THE K HALL               |
+| 3月20日  | 《國軍慰問公演》                              | 江原道高城                         |
+| 4月6日   | 《井邑櫻花慶典》                              | 井邑兒童足球場                       |
+| 4月27日  | 《希望2018\!分享幸福演唱會》                     | 南陽州文化中心館                      |
+| 5月10日  | 《國軍慰問公演》                              | 元州                            |
+| 5月15日  | 《第12屆全國殘疾學生運動會 開幕式》                   | 忠州體育館                         |
+| 5月19日  | 《花園福音慶典》                              | 花園教會                          |
+| 5月20日  | 《善良演唱會》                               | 狎鷗亭羅德奧街                       |
+| 5月24日  | 《國軍慰問公演》                              | 江原道楊口                         |
+| 5月30日  | 《2018大邱Catholic大學 大同祭慶典》              | 大邱                            |
+| 6月17日  | 《2018 法聖浦端午節活動》                       | 法聖浦New Town特設舞台               |
+| 6月19日  | 《國軍慰問公演》                              | 全南道長城                         |
+| 6月26日  | 江原道華川                                 |                               |
+| 7月15日  | 《2018 保寧泥漿節》                          | 大川海水浴場                        |
+| 7月21日  | 《2018 U-12全國青少年棒球大會 開幕式》              | 華城夢想公園                        |
+| 8月2日   | 《國軍慰問公演》                              | 仁川                            |
+| 8月14日  | 京畿道華城                                 |                               |
+| 8月20日  | 《Fight！2018 in 台場》                    | 日本東京Symbol promenade park     |
+| 8月30日  | 《國軍慰問公演》                              | 忠州                            |
+| 9月7日   | 《The 29th USER GROUP CONFERENCE》      | 慶洲河白會議中心                      |
+| 9月8日   | 《第17屆國際觀光首爾馬拉松大會》                     | 汝矣島廣場                         |
+| 9月11日  | 《國軍慰問公演》                              | 釜山                            |
+| 9月13日  | 《食藥廳25秒電影節 頒獎典禮》                      | 韓國經濟報社                        |
+| 9月14日  | 《KBS 趙勝延的Good Morning Pops 30周年公開放送》  | KBS藝術廳                        |
+| 9月29日  | 《Bonghwa Pine Mushroom Festival 2018》 | 奉化邑體育公園                       |
+| 10月2日  | 《2018 Sung Kyul大學社團慶典》                | 京畿道安養市                        |
+| 10月5日  | 《2018 慶尚北道保健大學 校慶》                    | 慶尚北道                          |
+| 10月6日  | 《2018 任實N起士開幕慶典》                      | 任實區廣場                         |
+| 10月7日  | 《2018 Asian Music Festival》           | 安養市Gtower                     |
+| 10月12日 | 《第34屆 Yanggu Rok節》                    | Yanggu綜合運動場                   |
+| 10月13日 | 《2018 海洋安全節》                          | 平澤市振威川遊樂園                     |
+| 10月15日 | 《仙岩寺世界文化遺產紀念音樂會》                      | 朝禮湖水公園                        |
+| 10月17日 | 《SAMSUNG 電子夢想Talk》                    | 保寧綜合體育館                       |
+| 10月18日 | 《第99屆全國體育大會 閉幕式》                      | 益山公共運動場                       |
+| 11月11日 | 《K-GIRLS FES 2018 IN TOKYO》           | 日本SHINAGAWA STELLA HALL       |
+| 11月15日 | 《2018 Hong seong國際短片電影節》              | Hong Ju 文化中心                  |
+| 11月20日 | 《國軍慰問公演》                              | 江原道鐵原                         |
+| 12月4日  | 鎮海                                    |                               |
+| 12月11日 | 《2018 WINTER CONCERT》                 | 天安藝術殿堂                        |
+| 2019年  |                                       |                               |
+| 3月1日   | 《2019 One K Concert》                  | 汝矣島國會議事堂草坪廣場                  |
+| 3月16日  | 《德華TV Special Concert》                | KBS 新館TV公開HALL                |
+| 3月21日  | 《國軍慰問公演》                              | 京畿道富川市                        |
+| 4月4日   | 京畿道南楊州市                               |                               |
+| 4月20日  | 《啊哈\! 家族演唱會》                          | 益山綜合體育公園                      |
+| 5月11日  | 《第五屆Gyeomjae文化藝術節》                    | Gyeomjae Jeongseon Art Museum |
+| 5月16日  | 《國軍慰問公演》                              | 忠清北道曾坪郡                       |
+| 5月25日  | 《第14屆 東豆川藝術節》                         | 中央公園野外舞台                      |
+| 5月31日  | 《松坡區區民和諧大會》                           | 松坡書籍博物館 特設舞台                  |
+| 6月8日   | 《國軍慰問公演》                              | 京畿道西南部平澤市                     |
+| 7月16日  | 《都市再生 29秒電影節頒獎禮》                      | 韓國經濟報社18樓 茶山大廳                |
+| 7月18日  | 《國軍慰問公演》                              | 江原道洪川郡                        |
+| 7月30日  | 《2019 Koya Summer Festival》           | Yangji Pine Ski Resort        |
 
 ## 大型拼盤演唱會
 
@@ -1195,19 +1323,19 @@ PlotData =
 
 7.
 
-8.   Soompi|accessdate=2017-11-03|work=www.soompi.com|language=en-US}}
+8.
 
 9.
 
 10.
 
-11.  LABOUM(ラブーム) {{\!}} 日本コロムビアオフィシャルサイト|url=[https://columbia.jp/artist-info/laboum/info/64970.html|work=日本コロムビア公式サイト|accessdate=2019-04-05|language=ja](https://columbia.jp/artist-info/laboum/info/64970.html%7Cwork=日本コロムビア公式サイト%7Caccessdate=2019-04-05%7Clanguage=ja)}}
+11.
 
 12.
 
 13.
 
-14.
+14.  Soompi|accessdate=2017-11-03|work=www.soompi.com|language=en-US}}
 
 15.
 
@@ -1219,7 +1347,7 @@ PlotData =
 
 19.
 
-20.
+20.  LABOUM(ラブーム) {{\!}} 日本コロムビアオフィシャルサイト|url=[https://columbia.jp/artist-info/laboum/info/64970.html|work=日本コロムビア公式サイト|accessdate=2019-04-05|language=ja](https://columbia.jp/artist-info/laboum/info/64970.html%7Cwork=日本コロムビア公式サイト%7Caccessdate=2019-04-05%7Clanguage=ja)}}
 
 21.
 
@@ -1238,37 +1366,3 @@ PlotData =
 28.
 
 29.
-
-30.
-
-31.
-
-32.
-
-33.
-
-34.
-
-35.
-
-36.
-
-37.
-
-38.
-
-39.
-
-40.
-
-41.
-
-42.
-
-43.
-
-44.
-
-45.
-
-46.

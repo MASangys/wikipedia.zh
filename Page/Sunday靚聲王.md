@@ -6,7 +6,7 @@
 
 節目內容為邀請不同年代的歌手分享與該集主題相關的經典金曲，以及論述一些與該集主題相關的當年趣事為主。
 
-## 每集內容
+。==每集內容==
 
 <table>
 <tbody>
@@ -150,7 +150,7 @@
 <li>禪院鐘聲—鄭錦昌、鄭世豪</li>
 <li>勁草嬌花—陳浩德（1962年<a href="../Page/香港商業電台.md" title="wikilink">商業電台廣播劇</a>《<a href="https://zh.wikipedia.org/wiki/勁草嬌花" title="wikilink">勁草嬌花</a>》主題曲，原唱：<a href="https://zh.wikipedia.org/wiki/莫佩雯" title="wikilink">莫佩雯</a>）</li>
 <li>舊歡如夢—鄭錦昌、陳浩德、鄭世豪（原唱：<a href="../Page/譚炳文.md" title="wikilink">譚炳文</a>）</li>
-<li>天涯孤客—鄭少秋（原唱：鄭少秋、<a href="https://zh.wikipedia.org/wiki/珍珍_(歌手)" title="wikilink">珍珍</a>、<a href="https://zh.wikipedia.org/wiki/珮珮" title="wikilink">珮珮</a>）</li>
+<li>戇居買麵—鄭少秋（原唱：鄭少秋、<a href="https://zh.wikipedia.org/wiki/珍珍_(歌手)" title="wikilink">珍珍</a>、<a href="https://zh.wikipedia.org/wiki/珮珮" title="wikilink">珮珮</a>）</li>
 <li><a href="../Page/祝你生日快乐.md" title="wikilink">Happy Birthday to You</a>—全場歌手</li>
 <li>飲勝—全場歌手（1981年無綫電視劇《<a href="../Page/流氓皇帝.md" title="wikilink">流氓皇帝</a>》插曲，原唱：鄭少秋）</li>
 </ul></td>

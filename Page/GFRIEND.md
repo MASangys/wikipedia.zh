@@ -1,4 +1,4 @@
-**GFRIEND**（韓文:여자친구 發音:Yeoja Chingu 對應漢字:女子親舊 日文:ジーフランド或ヨジャチング）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Source Music公司推出的六人女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，成員包括[所願](../Page/Sowon.md "wikilink")、[睿隣](../Page/Yerin.md "wikilink")、[銀河](../Page/Eunha.md "wikilink")、[裕株](../Page/Yuju.md "wikilink")、[信飛及](../Page/SinB.md "wikilink")[嚴智](../Page/Umji.md "wikilink")。2015年1月16日，GFRIEND於[Music Bank以](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")《[Glass Bead](../Page/Season_of_Glass.md "wikilink")》一曲正式出道\[1\]。
+**GFRIEND**（韓文:여자친구 發音:Yeoja Chingu 對應漢字:女子親舊 日文:ジーフランド或ヨジャチング）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Source Music公司推出的六人女子組合](../Page/Source_Music.md "wikilink")，成員包括[所願](../Page/Sowon.md "wikilink")、[睿隣](../Page/Yerin.md "wikilink")、[銀河](../Page/Eunha.md "wikilink")、[裕株](../Page/Yuju.md "wikilink")、[信飛及](../Page/SinB.md "wikilink")[嚴智](../Page/Umji.md "wikilink")。2015年1月16日，GFRIEND於[Music Bank以](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")《[Glass Bead](../Page/Season_of_Glass.md "wikilink")》一曲正式出道\[1\]。
 
 GFRIEND所屬的娛樂公司較小型，但出道時仍引起大眾的關注\[2\]，於2015年底的各頒獎典禮上拿下數個女子新人獎\[3\]。2016年1月25日，GFRIEND推出第三張迷你專輯《[Snowflake](../Page/Snowflake.md "wikilink")》，並公佈官方歌迷粉絲名為「Buddy」\[4\]\[5\]，除了拿下出道後的初一位，同年拿一位的次數更創下當時女團一年內得一位的總次數。2017年3月15日，公開官方应援棒為“Glass Marble Stick”。
 
@@ -62,7 +62,7 @@ GFRIEND所屬的娛樂公司較小型，但出道時仍引起大眾的關注\[2\
 
 4月24日，公開GFRIEND二代應援手燈。4月25日，發行GFRIEND FIRST PHOTOBOOK。
 
-5月19日及5月20日，在首爾舉行第二次亞洲巡迴演唱會《GO GO GFRIEND\!》的首個場次，演唱從2015出道到2019《Time for us》中許多歌曲，也首次表演多首歌曲，隊長Sowon更透露，原本出道曲原是演唱會上小分隊的表演曲目，後來才改成以《[Glass Bead](../Page/Season_of_Glass.md "wikilink")》出作為出道曲。為此所屬公司[Source Music特別於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")19年3月1日公開〈GFRIEND : Back To The Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃最終回於5月23日公開，整個系列以演唱會上小分隊的表演作結尾。
+5月19日及5月20日，在首爾舉行第二次亞洲巡迴演唱會《GO GO GFRIEND\!》的首個場次，演唱從2015出道到2019《Time for us》中許多歌曲，也首次表演多首歌曲，隊長Sowon更透露，原本出道曲原是演唱會上小分隊的表演曲目，後來才改成以《[Glass Bead](../Page/Season_of_Glass.md "wikilink")》出作為出道曲。為此所屬公司[Source Music特別於](../Page/Source_Music.md "wikilink")19年3月1日公開〈GFRIEND : Back To The Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃最終回於5月23日公開，整個系列以演唱會上小分隊的表演作結尾。
 
 Source Music在6月10日上午宣布GFRIEND將於2019年7月1日帶著第七張迷你專輯《[Fever Season](../Page/Fever_Season.md "wikilink")》回歸，並在6月16日開始釋出新 LOGO 及個人、團體預告照，6月19日、28日釋出 MV 預告\[91\]\[92\]，7月1日釋出完整 MV 並公開專輯完整音源\[93\]。 7月14日《Fever》在SBS人氣歌謠拿下回歸舞台後第6個一位，繼《Sunrise》後 再度達成六台音樂節目冠軍All Kill 。
 

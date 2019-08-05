@@ -82,7 +82,7 @@ FOSSASIA舉辦一些編程活動和參與[Google Summer of Code](https://zh.wiki
   - [FOSSASIA Summit 2017, Singapore](https://2017.fossasia.org)
   - [FOSSASIA Summit 2018, Singapore](https://2018.fossasia.org)
 
-[Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [Category:自由軟體組織](https://zh.wikipedia.org/wiki/Category:自由軟體組織 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
+[Category:自由軟體組織](https://zh.wikipedia.org/wiki/Category:自由軟體組織 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
 
 1.
 2.

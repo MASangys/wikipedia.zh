@@ -2,16 +2,16 @@
 
 ## 簡介
 
-與複製人的一十一（[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink") 飾演）的SPEC持有者[反抗組織決鬥後瀕死狀態的當麻](../Page/SPEC～天～.md "wikilink")（[戶田惠梨香](https://zh.wikipedia.org/wiki/戶田惠梨香 "wikilink") 飾演）和瀨文（[加瀨亮](../Page/加瀨亮.md "wikilink") 飾演），被送到醫院長期治療後，原本以為這吵不停的兩人距離會因此縮短會出現個什麼發展。而越來越多的奇怪事件與地下勢力，逐漸橫在當麻和瀨文任職的[警視廳公安部](../Page/警視廳公安部.md "wikilink")特殊部門「未詳」面前。
+與複製人的一十一（[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink") 飾演）的SPEC持有者[反抗組織決鬥後瀕死狀態的當麻](../Page/SPEC～天～.md "wikilink")（[戶田惠梨香](https://zh.wikipedia.org/wiki/戶田惠梨香 "wikilink") 飾演）與瀨文（[加瀨亮](../Page/加瀨亮.md "wikilink") 飾演），被送到醫院長期治療後，原本以為這吵不停的兩人距離會因此縮短會出現個什麼發展。而越來越多的奇怪事件與地下勢力，逐漸橫在當麻和瀨文任職的[警視廳公安部](../Page/警視廳公安部.md "wikilink")特殊部門「未詳」面前。
 
 在與一十一等人對戰時重傷住院的[CIRO幹員青池](https://zh.wikipedia.org/wiki/內閣情報調查室 "wikilink")-{里}-子（[栗山千明](../Page/栗山千明.md "wikilink") 飾演）被女兒潤帶走後神秘消失、世界各國暗中實施與爭奪用來消滅及控管SPEC持有者的「簡單計畫」（Simple Plan）、真正[幕後掌控全世界的](../Page/新世界秩序.md "wikilink")[祕密結社如同以往冀望掌控局勢](https://zh.wikipedia.org/wiki/祕密結社 "wikilink")、製造出「簡單計畫」的科學家「教授J」失蹤、在人類史前就已存在的「前人類」現身、未詳係長野野村光太郎（ 飾演）交給當麻等人的後事信、人們所阻擋可能帶來[世界末日的](https://zh.wikipedia.org/wiki/世界末日 "wikilink")「[法蒂瑪第三預言](../Page/法蒂瑪的三個秘密.md "wikilink")」似乎將成為事實……；當麻的SPEC也在這時候逐漸爆走至完全甦醒，究竟這些一連串的混亂局面會將人類世界的未來帶往何處？
 
-### 登場人物
+## 登場人物
 
   - 當麻紗綾 - [戶田惠梨香](https://zh.wikipedia.org/wiki/戶田惠梨香 "wikilink")
   - 瀨文焚流 - [加瀨亮](../Page/加瀨亮.md "wikilink")
 
-#### 警視廳關係者
+### 警視廳關係者
 
   - 野野村光太郎 -
   - 近藤昭男 -
@@ -22,7 +22,7 @@
   - 馬場香 -
   - 鹿濱步 -
 
-#### SPEC持有者
+### SPEC持有者
 
   - 一十一／當麻陽太 - [神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")
   - 志村美鈴 - [福田沙紀](https://zh.wikipedia.org/wiki/福田沙紀 "wikilink")
@@ -36,7 +36,7 @@
   - 南西 -
   - 比「Gets」手勢的人 -
 
-#### 其他角色
+### 其他角色
 
   - 謎樣白衣男子／世界 - [向井理](../Page/向井理.md "wikilink")
   - 謎樣白衣女子／青池潤（大人型態） - [大島優子](../Page/大島優子.md "wikilink")
@@ -52,4 +52,4 @@
 
 ## 參考資料
 
-[Category:SPEC](https://zh.wikipedia.org/wiki/Category:SPEC "wikilink") [Category:2013年日本电影](https://zh.wikipedia.org/wiki/Category:2013年日本电影 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:搭檔片](https://zh.wikipedia.org/wiki/Category:搭檔片 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:King_Records](https://zh.wikipedia.org/wiki/Category:King_Records "wikilink") [Category:超能力題材電影](https://zh.wikipedia.org/wiki/Category:超能力題材電影 "wikilink") [Category:平行世界題材電影](https://zh.wikipedia.org/wiki/Category:平行世界題材電影 "wikilink") [Category:末日題材電影](https://zh.wikipedia.org/wiki/Category:末日題材電影 "wikilink") [Category:堤幸彦電影](https://zh.wikipedia.org/wiki/Category:堤幸彦電影 "wikilink")
+[Category:SPEC](https://zh.wikipedia.org/wiki/Category:SPEC "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:搭檔片](https://zh.wikipedia.org/wiki/Category:搭檔片 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:King_Records](https://zh.wikipedia.org/wiki/Category:King_Records "wikilink") [Category:超能力題材電影](https://zh.wikipedia.org/wiki/Category:超能力題材電影 "wikilink") [Category:平行世界題材電影](https://zh.wikipedia.org/wiki/Category:平行世界題材電影 "wikilink") [Category:末日題材電影](https://zh.wikipedia.org/wiki/Category:末日題材電影 "wikilink") [Category:堤幸彦電影](https://zh.wikipedia.org/wiki/Category:堤幸彦電影 "wikilink") [Category:2013年日本电影](https://zh.wikipedia.org/wiki/Category:2013年日本电影 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")

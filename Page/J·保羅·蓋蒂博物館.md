@@ -1,8 +1,8 @@
-**J·保罗·盖蒂博物馆**（J. Paul Getty Museum）是一座艺术博物馆，位于美国[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，拥有两个馆址：[盖蒂中心](../Page/盖蒂中心.md "wikilink")和[盖蒂别墅](https://zh.wikipedia.org/wiki/盖蒂别墅 "wikilink")。前者收藏中世纪以来的西方艺术品。估计每年有130万访客，是美国访客最多的博物馆之一\[1\]；后者展出古希腊、罗马的艺术品。\[2\]
+**J·保罗·盖蒂博物馆**（J. Paul Getty Museum）是一座艺术博物馆，位于美国[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，拥有两个馆址：[盖蒂中心](../Page/盖蒂中心.md "wikilink")和[盖蒂别墅](https://zh.wikipedia.org/wiki/盖蒂别墅 "wikilink")。前者收藏中世纪以来的西方艺术品。估计每年有130万访客，是美国访客最多的博物馆之一\[1\]；后者展出古希腊、罗马的艺术品。\[2\]两馆在2016年共接待了约200万访客\[3\]。
 
 ## 历史
 
-1974年[保罗·盖蒂在](https://zh.wikipedia.org/wiki/保罗·盖蒂 "wikilink")[馬里布复制了一座](https://zh.wikipedia.org/wiki/馬里布_\(加利福尼亞州\) "wikilink")[帕比里庄园](https://zh.wikipedia.org/wiki/帕比里庄园 "wikilink")\[3\]，1997年搬到现址，而马里布的博物馆旧址改称[盖蒂庄园](https://zh.wikipedia.org/wiki/盖蒂庄园 "wikilink")（Getty Villa），翻修之后在2006年开张。
+1974年[保罗·盖蒂在](https://zh.wikipedia.org/wiki/保罗·盖蒂 "wikilink")[馬里布复制了一座](https://zh.wikipedia.org/wiki/馬里布_\(加利福尼亞州\) "wikilink")[帕比里庄园](https://zh.wikipedia.org/wiki/帕比里庄园 "wikilink")\[4\]，1997年搬到现址，而马里布的博物馆旧址改称[盖蒂庄园](https://zh.wikipedia.org/wiki/盖蒂庄园 "wikilink")（Getty Villa），翻修之后在2006年开张。
 
 ## 收藏
 
@@ -11,8 +11,9 @@
 ## 参考
 
   -
-[Category:洛杉矶博物馆](https://zh.wikipedia.org/wiki/Category:洛杉矶博物馆 "wikilink") [Category:盖蒂家族](https://zh.wikipedia.org/wiki/Category:盖蒂家族 "wikilink")
+[Category:洛杉矶博物馆](https://zh.wikipedia.org/wiki/Category:洛杉矶博物馆 "wikilink") [Category:1954年建立的博物馆](https://zh.wikipedia.org/wiki/Category:1954年建立的博物馆 "wikilink") [Category:保罗·盖蒂信托基金](https://zh.wikipedia.org/wiki/Category:保罗·盖蒂信托基金 "wikilink")
 
 1.
 2.
 3.
+4.

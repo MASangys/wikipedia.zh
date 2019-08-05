@@ -221,7 +221,7 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
   - 伙伴角色新增 Shama （しゃま） 和 Milk （みるく）。
   - 段位认定模式改名为 FiNALE COURSE，通过后也会使 Rating 上升。
   - 新增 PANDORA BOXXX 模式，规则和 Challenge Track 相似。
-  - EXPECT新增☆×12+难度，MASTER/Re : MASTER新增☆×13+/☆×14难度
+  - EXPERT新增☆×12+难度，MASTER/Re : MASTER新增☆×13+/☆×14难度
 
 ## 收录的歌曲分类
 
@@ -274,7 +274,7 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
 
 ## 影响
 
-在中国出现了一款名为舞立方的街机，相比[乐动魔方](../Page/乐动魔方.md "wikilink")的模仿品魔法MAGIC被原作公司告上法庭舞立方做了很大的修改，圆形改为六边形，并减少了两个按钮屏幕不是触摸屏，游戏没有触摸操作。\[81\]
+在中国出现了一款名为舞立方的街机，相比[乐动魔方](../Page/乐动魔方.md "wikilink")的模仿品魔法MAGIC被原作公司告上法庭舞立方做了很大的修改，圆形改为六边形，并减少了两个按钮且屏幕不是触摸屏，游戏没有触摸操作，因此没有slide按键。\[81\]
 
 ## 參考資料
 

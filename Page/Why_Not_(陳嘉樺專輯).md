@@ -1,8 +1,8 @@
-《'''Why Not '''》 ，是台灣著名女[歌手](../Page/歌手.md "wikilink")、[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")成員[Ella陳嘉樺首張個人專輯](../Page/陳嘉樺.md "wikilink")，於2015年4月1日預購，將於2015年4月17日發行。 2015年4月3日，首波主打《有何不可》MV於[youtube首播](https://zh.wikipedia.org/wiki/youtube "wikilink")\[1\] \[2\]。專輯中的歌曲《信愛成癮》和《浪費眼淚》分別入選2015年Hit Fm年度百首單曲第36位和第73位。專輯在台灣銷量為年度第9名\[3\]。
+《'''Why Not '''》 ，是台灣著名女[歌手](../Page/歌手.md "wikilink")、[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")成員[Ella陳嘉樺首張個人專輯](../Page/陳嘉樺.md "wikilink")，於2015年4月1日預購，將於2015年4月17日發行。 2015年4月3日，首波主打《有何不可》MV於[youtube首播](https://zh.wikipedia.org/wiki/youtube "wikilink")\[1\] \[2\]。專輯中的歌曲《信愛成癮》和《浪費眼淚》分別入選2015年Hit Fm年度百首單曲第36位和第73位\[3\]\[4\]。專輯在台灣銷量為年度第9名\[5\]。
 
 ## 簡介
 
-專輯首波主打歌〈有何不可〉是首實驗性質的作品，歌曲融合獨白、劇場及流行音樂的元素，Ella整整六分鐘以第一人稱的口吻講述兩個靈魂相愛有何不可，全程情緒起伏激烈、從冷靜到歇斯底里，用各種聲音表情詮釋及演唱，聽起來戲劇張力十足。第二波主打〈你正常嗎〉是首日系電子舞曲搖滾曲風，是日本音樂人[小倉慎吾原創的曲子](https://zh.wikipedia.org/wiki/小倉慎吾 "wikilink")，有別於一般華語快歌的既定模式，不斷重複而又充滿記憶點的旋律反而聼起來有一種熟悉但又新奇J-POP風味，緊接著第三波主打歌〈信愛成癮〉則是以描寫重愛患者們的情歌。除了日系舞曲與台味抒情歌之外，香港知名唱作音樂人[達明一派](../Page/達明一派.md "wikilink")的劉以達為Ella量身創作的「有事嗎」，並請得[陳珊妮](../Page/陳珊妮.md "wikilink")擔任此歌的製作人。此外，專輯内數首抒情歌曲，例如〈浪費眼淚〉、〈想念自己〉、[張震嶽創作的](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")〈情書〉、[袁惟仁擔任配唱製作人的](https://zh.wikipedia.org/wiki/袁惟仁 "wikilink")「賴床」都展現了Ella聲音的感染力。專輯中也收錄了Ella自己作曲的創作〈30啊〉而這首歌曲道盡了Ella步入30歲以後的輕熟心境。專輯也特別收錄了三首Ella演出的戲劇歌曲，包括電視劇《[謊言遊戲](../Page/謊言遊戲.md "wikilink")》中Ella所創作的片尾曲〈真的我〉與插曲〈無解〉，以及電影《[缺角一族](../Page/缺角一族.md "wikilink")》的歌曲〈差一點〉，也展現了Ella多變的戲劇化唱功。
+《Why Not》，專輯首波主打歌〈有何不可〉是首實驗性質的作品，歌曲融合獨白、劇場及流行音樂的元素，Ella整整六分鐘以第一人稱的口吻講述兩個靈魂相愛有何不可，全程情緒起伏激烈、從冷靜到歇斯底里，用各種聲音表情詮釋及演唱，聽起來戲劇張力十足。第二波主打〈你正常嗎〉是首日系電子舞曲搖滾曲風，是日本音樂人[小倉慎吾原創的曲子](https://zh.wikipedia.org/wiki/小倉慎吾 "wikilink")，有別於一般華語快歌的既定模式，不斷重複而又充滿記憶點的旋律反而聼起來有一種熟悉但又新奇J-POP風味，緊接著第三波主打歌〈信愛成癮〉則是以描寫重愛患者們的情歌。除了日系舞曲與台味抒情歌之外，香港知名唱作音樂人[達明一派](../Page/達明一派.md "wikilink")的[劉以達為Ella量身創作的](https://zh.wikipedia.org/wiki/劉以達 "wikilink")「有事嗎」，並請得[陳珊妮](../Page/陳珊妮.md "wikilink")擔任此歌的製作人。此外，專輯内數首抒情歌曲，例如〈浪費眼淚〉、〈想念自己〉、[張震嶽創作的](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")〈情書〉、[袁惟仁擔任配唱製作人的](https://zh.wikipedia.org/wiki/袁惟仁 "wikilink")「賴床」都展現了Ella聲音的感染力。專輯中也收錄了Ella自己作曲的創作〈30啊〉而這首歌曲道盡了Ella步入30歲以後的輕熟心境。專輯也特別收錄了三首Ella演出的戲劇歌曲，包括電視劇《[謊言遊戲](../Page/謊言遊戲.md "wikilink")》中Ella所創作的片尾曲〈真的我〉與插曲〈無解〉，以及電影《[缺角一族](../Page/缺角一族.md "wikilink")》的歌曲〈差一點〉，也展現了Ella多變的戲劇化唱功。
 
 ## 專輯曲目
 
@@ -48,7 +48,7 @@
 
 **個人唱演會：**
 {| class="wikitable" width=100% style="font-size:90%" |style="width:23%"|**名稱**||style="width:13%"|**日期**||style="width:14%"|**地點**||style="width:12%"|**嘉賓**||style="width:38%"|**附註** |- |《你正常嗎?》唱演會 || 2015年6月7日 || [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") [台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")
-永豐Legacy Taipei || [田馥甄](../Page/田馥甄.md "wikilink")、[任家萱](../Page/任家萱.md "wikilink") || 台北場門票於5/12日開賣後，在1分鐘內便全數完售。\[4\] |- |《你正常嗎?》唱演會 || 2015年8月9日 || [中國](../Page/中國.md "wikilink") [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")
+永豐Legacy Taipei || [田馥甄](../Page/田馥甄.md "wikilink")、[任家萱](../Page/任家萱.md "wikilink") || 台北場門票於5/12日開賣後，在1分鐘內便全數完售。\[6\] |- |《你正常嗎?》唱演會 || 2015年8月9日 || [中國](../Page/中國.md "wikilink") [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")
 [万事达中心汇源空间](https://zh.wikipedia.org/wiki/万事达中心 "wikilink") || || |- |《你正常嗎?》聖誕音樂會 || 2015年12月25日 || [中國](../Page/中國.md "wikilink") [廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")
 中央車站RockHouse || || |- |} **台北場曲目：**
 
@@ -112,5 +112,7 @@
 
 1.  [有何不可 WHY NOT Official Music Video](https://www.youtube.com/watch?v=_9WHMyQF9YQ)
 2.  [華研國際音樂（HIM）陳嘉樺 - WHY NOT 作品介紹](http://www.him.com.tw/albumcon.php?cid=129)
-3.
-4.  <http://www.ettoday.net/news/20150512/505668.htm> - 驚呆了！ELLA 晉升秒殺天后　演唱會1千張票60秒完售
+3.  [2015年 Hit FM 年度百首單曲](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2015)
+4.  [2015年 Hit FM 年度百首單曲](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2015&pageNum_rsList=1)
+5.
+6.  <http://www.ettoday.net/news/20150512/505668.htm> - 驚呆了！ELLA 晉升秒殺天后　演唱會1千張票60秒完售

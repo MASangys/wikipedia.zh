@@ -1,6 +1,8 @@
 **UNIQ**（）是[乐华娱乐](../Page/乐华娱乐.md "wikilink")推出的中韩男子团体，成員包括中國籍的[周藝軒](../Page/周藝軒.md "wikilink")、[李汶翰](../Page/李汶翰.md "wikilink")、[王一博](https://zh.wikipedia.org/wiki/王一博 "wikilink")，韓國籍的[金聖柱](../Page/金聖柱.md "wikilink")、[曹承衍](../Page/曹承衍.md "wikilink")。2014年10月16日，於韩國[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》，表演出道舞台。2014年10月20日，發行出道单曲《**Falling In Love**》音源。
 
-團名「UNIQ」結合「UNIQUE (獨特)」以及「UNICORN (獨角獸)」的英文單字，期許團體能夠成為樂壇「獨一無二的存在」，並以獨角獸的純潔、高傲，作為團體的精神象徵。官方歌迷名稱亦是「UNICORN（獨角獸）」。團體問候口號是「大家好\!我們是U & I，UNIQ\!」\[1\]\[2\]\[3\] 官方應援色是富有浪漫色彩的「星空紫」。\[4\] 官方應援物是「獨角獸紫星」應援燈。\[5\]
+團名「UNIQ」結合「UNIQUE (獨特)」以及「UNICORN (獨角獸)」的英文單字，期許團體能夠成為樂壇「獨一無二的存在」，並以獨角獸的純潔、高傲，作為團體的精神象徵。團體問候口號是「大家好\!我們是U & I，UNIQ\!」\[1\]\[2\]\[3\]
+
+官方歌迷名稱是「UNICORN（獨角獸）」。 官方應援色是富有浪漫色彩的「星空紫」。\[4\] 官方應援物是「獨角獸紫星」應援燈。\[5\]
 
 ## 成員資料
 
@@ -236,11 +238,11 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 
 ### 其他音樂錄影帶
 
-|            |                  |                                  |             |
-| ---------- | ---------------- | -------------------------------- | ----------- |
-| 日期         | 歌曲名稱             | 歌手                               | 參演成員        |
-| 2015年4月5日  | Hopeless Love    | [朴智敏](../Page/朴智敏.md "wikilink") | 曹承衍         |
-| 2015年9月20日 | I Don't Give a 屑 | [韓庚](../Page/韓庚.md "wikilink")   | 周藝軒、李汶瀚、曹承衍 |
+|            |                     |                                         |             |
+| ---------- | ------------------- | --------------------------------------- | ----------- |
+| 日期         | 歌曲名稱                | 歌手                                      | 參演成員        |
+| 2015年4月5日  | Hopeless Love       | [Jimin Park](../Page/朴智敏.md "wikilink") | 曹承衍         |
+| 2015年9月20日 | I Don't Give a Shit | [韓庚](../Page/韓庚.md "wikilink")          | 周藝軒、李汶瀚、曹承衍 |
 
 ## 戲劇作品
 
@@ -275,6 +277,9 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 | 年份    | 電影名稱                                                        | 參與成員 | 角色  | 性質  |
 | 2015年 | 夢想合夥人                                                       | 王一博  | 赵书宇 | 配角  |
 | 金聖柱   | Lucas                                                       | 客串   |     |     |
+| 周藝軒   | 客串                                                          | 客串   |     |     |
+| 李汶翰   | 客串                                                          | 客串   |     |     |
+| 曹承衍   | 客串                                                          | 客串   |     |     |
 | 2016年 | [大話西遊終結篇](https://zh.wikipedia.org/wiki/大話西遊終結篇 "wikilink") | 王一博  | 紅孩兒 | 客串  |
 | 曹承衍   | 豬八戒                                                         | 客串   |     |     |
 | 周藝軒   | 沙悟凈                                                         | 客串   |     |     |
@@ -857,7 +862,7 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <tbody>
 <tr class="odd">
 <td><p>年份</p></td>
-<td><p>雜誌名稱</p></td>
+<td><p>雜誌名稱 [16]</p></td>
 <td><p>參演成員<br />
 <small>（空白表示全體參與）</small></p></td>
 </tr>
@@ -878,7 +883,7 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td><p>2015年2月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/時尚芭莎" title="wikilink">時尚芭莎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/時尚芭莎" title="wikilink">時尚芭莎</a> - February Issue</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -913,68 +918,78 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="even">
 <td><p>2015年4月</p></td>
-<td><p>Ok! Magazine Thailand - ISSUE #247</p></td>
+<td><p>TRENDS 時尚網 Magazine CHINA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2015年4月</p></td>
+<td><p>Ok! Magazine Thailand - ISSUE #247</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2015年4月</p></td>
 <td><p>CECI THAILAND - ISSUE #29</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年4月</p></td>
 <td><p>Genie Magazine</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年5月</p></td>
 <td><p>RIVERIVER MAGAZINE</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年7月</p></td>
-<td><p>Chinese FHM</p></td>
+<td><p>Chinese FHM For Him Magazine</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年8月</p></td>
+<td><p>Kpopstarz Magazine</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2015年7月</p></td>
-<td><p>For Him Magazine</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2015年8月</p></td>
 <td><p>時裝 L'OFFICIEL - August Issue</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年8月</p></td>
 <td><p>星速客 SHOOT MAGAZINE</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年2月</p></td>
 <td><p>YOHO! GIRL Magazine</p></td>
 <td><p>金聖柱、王一博</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年3月</p></td>
 <td><p>YOHO!潮流志 Magazine - April issue</p></td>
 <td><p>周藝軒、曹承衍</p></td>
 </tr>
-<tr class="even">
-<td><p>2016年3月</p></td>
+<tr class="odd">
+<td><p>2016年1月</p></td>
 <td><p>HARU HANA - Vol.34</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2017年4月</p></td>
+<td><p>COSMOPOLITAN</p></td>
+<td><p>王一博</p></td>
+</tr>
 <tr class="odd">
-<td><p>2017年7月</p></td>
-<td><p>小資 Chic Magazine</p></td>
-<td><p>周藝軒、李汶翰、王一博</p></td>
+<td><p>2017年4月</p></td>
+<td><p>Highcut Magazine - Vol. 195</p></td>
+<td><p>金聖柱</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年7月</p></td>
-<td><p>Highcut Magazine - Vol. 195</p></td>
-<td><p>金聖柱</p></td>
+<td><p>小資 Chic Magazine</p></td>
+<td><p>周藝軒、李汶翰、王一博</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年11月</p></td>
@@ -984,6 +999,11 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 <tr class="even">
 <td><p>2018年6月</p></td>
 <td><p>DAZED Korea - June issue</p></td>
+<td><p>曹承衍</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年10月</p></td>
+<td><p>DAZED Korea - Oct issue</p></td>
 <td><p>曹承衍</p></td>
 </tr>
 </tbody>
@@ -1004,7 +1024,7 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 | 2015年7月19日                             | 大阪    | 大阪シアターBRAVA\!       |
 | 2015年7月20日                             | 東京    | 東京北とぴあ さくらホール       |
 | UNIQ 首場巡迴粉絲見面會《2015 UNIQ 1ST BIRTHDAY》 |       |                     |
-| 2015年10月18日                            | 上海    | 上海淺水灣藝術中心\[16\]     |
+| 2015年10月18日                            | 上海    | 上海淺水灣藝術中心\[17\]     |
 | 2015年11月15日                            | 名古屋   | ELL Nagoya          |
 | 2015年11月16日                            | 大阪    | BIGCAT Osaka        |
 | 2015年11月19日                            | 福岡    | BEATSTATION Fukuoka |
@@ -1245,3 +1265,4 @@ UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/�
 14.
 15.
 16.
+17.

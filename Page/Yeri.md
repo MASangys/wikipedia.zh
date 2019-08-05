@@ -200,54 +200,9 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
 | 2018年6月29日 - 7月20日 | [塞班島特輯](https://zh.wikipedia.org/wiki/塞班島 "wikilink") |                                      |                                                          |
 |                    |                                                       |                                      |                                                          |
 
-### 單次訪問/嘉賓出演
-
-<table>
-<thead>
-<tr class="header">
-<th><p><strong>放送日期</strong></p></th>
-<th><p><strong>節目名稱</strong></p></th>
-<th><p><strong>備註</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2015年3月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a> 《Star King》</p></td>
-<td><p>與Seulgi、Joy</p></td>
-</tr>
-<tr class="even">
-<td><p>2015年4月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a>》</p></td>
-<td><p>與Joy、<a href="https://zh.wikipedia.org/wiki/金鐘大" title="wikilink">Chen</a> 、<a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a>、<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年1月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a> 《<a href="../Page/把便利店掏空吧.md" title="wikilink">把便利店掏空吧</a>》</p></td>
-<td><p>試播2<br />
-與Irene、Joy</p></td>
-</tr>
-<tr class="even">
-<td><p>2018年4月20日</p></td>
-<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>4 《<a href="../Page/秘密姐姐.md" title="wikilink">秘密姐姐</a>》</p></td>
-<td><p>試播</p></td>
-</tr>
-<tr class="odd">
-<td><p>2018年8月17日</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ## 其他作品
 
-### 電台
+### 主持電台
 
 | **放送日期**   | **電台名稱**                                                                         | **備註**          |
 | ---------- | -------------------------------------------------------------------------------- | --------------- |

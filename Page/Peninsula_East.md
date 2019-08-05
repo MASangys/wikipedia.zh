@@ -44,6 +44,9 @@ Peninsula East under construction in August 2015 (viewed from Hong Kong Island).
   - [油塘中心](../Page/油塘中心.md "wikilink")
   - [鯉魚門邨](../Page/鯉魚門邨.md "wikilink")
   - [海傲灣](../Page/海傲灣.md "wikilink")
+  - [油美苑](../Page/油美苑及油翠苑.md "wikilink")
+  - [高翔苑](../Page/高翔苑.md "wikilink")
+  - [鯉魚門市政大廈](https://zh.wikipedia.org/wiki/鯉魚門市政大廈 "wikilink")
   - 三家村遊樂場
   - 曦臺 (四山街項目)
   - 崇信街與仁宇圍交界項目
@@ -98,7 +101,7 @@ Peninsula East under construction in August 2015 (viewed from Hong Kong Island).
 
 <!-- end list -->
 
-  - 鄰近鯉魚門廣場/大本型/鯉魚門邨/油塘中心
+  - 高翔苑/油美苑/鯉魚門廣場/大本型/鯉魚門邨/油塘中心
 
 <!-- end list -->
 
@@ -122,7 +125,7 @@ Peninsula East under construction in August 2015 (viewed from Hong Kong Island).
 ## 外部連結
 
   -
-[Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:觀塘區私人屋苑](https://zh.wikipedia.org/wiki/Category:觀塘區私人屋苑 "wikilink") [Category:油塘](https://zh.wikipedia.org/wiki/Category:油塘 "wikilink")
+[Category:油塘](https://zh.wikipedia.org/wiki/Category:油塘 "wikilink") [Category:觀塘區](https://zh.wikipedia.org/wiki/Category:觀塘區 "wikilink") [Category:觀塘區私人屋苑](https://zh.wikipedia.org/wiki/Category:觀塘區私人屋苑 "wikilink") [Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink")
 
 1.
 2.  [會德豐 新聞稿](http://www.wheelockpropertieshk.com/press/2014.12.23/press%20release_Peninsula%20East_20141223.pdf)

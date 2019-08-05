@@ -31,7 +31,7 @@
 <small>（童年：金賢彬）</small></p></td>
 <td><p>朴海英</p></td>
 <td><p><strong>長期懸案專案組分析師</strong><br />
-充滿了對這個世界的不信任感。警界的異端人物。從小學開始接觸的一連串事情，加上目擊公權的腐敗和無能，使海英對警察及大人充滿不信任感。現在為了維持生計，把才能浪費在調查名人隱私上，再賣給娛樂報。直到封存十五年的無線電響起……</p></td>
+充滿了對這個世界的不信任感。警界的異端人物。一開始只是派出所員警，但他非常有側寫罪犯的能力，從小學開始接觸的一連串事情，加上目擊公權的腐敗和無能，使海英對警察及大人充滿不信任感。現在為了維持生計，把才能浪費在調查名人隱私上，再賣給娛樂報。直到封存十五年的無線電響起……</p></td>
 <td><p><a href="../Page/李致林.md" title="wikilink">李致林</a><br />
 <small>（童年：<a href="../Page/謝潔貞.md" title="wikilink">謝潔貞</a>）</small></p></td>
 <td><p><a href="../Page/宋昱璁.md" title="wikilink">宋昱璁</a></p></td>
@@ -734,181 +734,188 @@
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[媽媽](../Page/媽媽_\(2015年電視劇\).md "wikilink")》、《[家和萬事成](../Page/家和萬事成.md "wikilink")》
   - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[對，就是那樣](../Page/對，就是那樣.md "wikilink")》
 
-## 獎項
+## 提名&獲獎列表
 
 <table>
-<thead>
-<tr class="header">
-<th><p>年度</p></th>
-<th><p>大獎</p></th>
-<th><p>獎項</p></th>
-<th><p>入圍者</p></th>
-<th><p>結果</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
-<td><p>2016</p></td>
+<td><p>年度</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>入圍者</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第52屆百想藝術大賞" title="wikilink">第52屆百想藝術大賞</a></p></td>
 <td><p>電視劇作品賞</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>男子最優秀演技賞</p></td>
+<tr class="odd">
+<td><p>電視部門<br />
+男子最優秀演技賞</p></td>
 <td><p><a href="../Page/趙震雄.md" title="wikilink">趙震雄</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>女子最優秀演技賞</p></td>
+<tr class="even">
+<td><p>電視部門<br />
+女子最優秀演技賞</p></td>
 <td><p><a href="../Page/金惠秀.md" title="wikilink">金惠秀</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>導演賞</p></td>
+<tr class="odd">
+<td><p>電視部門<br />
+導演賞</p></td>
 <td><p><a href="../Page/金元錫.md" title="wikilink">金元錫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>劇本賞</p></td>
+<tr class="even">
+<td><p>電視部門<br />
+劇本賞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金恩熙" title="wikilink">金恩熙</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>男子人氣賞</p></td>
+<tr class="odd">
+<td><p>電視部門<br />
+男子人氣賞</p></td>
 <td><p><a href="../Page/趙震雄.md" title="wikilink">趙震雄</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/李帝勳.md" title="wikilink">李帝勳</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>女子人氣賞</p></td>
+<tr class="odd">
+<td><p>電視部門<br />
+女子人氣賞</p></td>
 <td><p><a href="../Page/金惠秀.md" title="wikilink">金惠秀</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>第五屆<a href="../Page/APAN_Star_Awards.md" title="wikilink">APAN Star Awards</a></p></td>
-<td><p>中篇電視劇 男子最優秀演技賞</p></td>
+<tr class="even">
+<td><p><a href="../Page/APAN_Star_Awards.md" title="wikilink">第5屆APAN Star Awards</a></p></td>
+<td><p>中篇電視劇<br />
+男子最優秀演技賞</p></td>
 <td><p><a href="../Page/趙震雄.md" title="wikilink">趙震雄</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>中篇電視劇 女子最優秀演技賞</p></td>
+<tr class="odd">
+<td><p>中篇電視劇<br />
+女子最優秀演技賞</p></td>
 <td><p><a href="../Page/金惠秀.md" title="wikilink">金惠秀</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>劇本賞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金恩熙" title="wikilink">金恩熙</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>第九屆<a href="../Page/韓國電視劇節.md" title="wikilink">韓國電視劇節</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/韓國電視劇節.md" title="wikilink">第9屆韓國電視劇節</a></p></td>
 <td><p>作品賞</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>作家賞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金恩熙" title="wikilink">金恩熙</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>導演賞</p></td>
 <td><p><a href="../Page/金元錫.md" title="wikilink">金元錫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN10_Awards" title="wikilink">tvN10 Awards</a></p></td>
 <td><p>電視劇本賞</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>演技大賞</p></td>
 <td><p><a href="../Page/趙震雄.md" title="wikilink">趙震雄</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>男演員賞</p></td>
 <td><p><a href="../Page/李帝勳.md" title="wikilink">李帝勳</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/趙震雄.md" title="wikilink">趙震雄</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>女演員賞</p></td>
 <td><p><a href="../Page/金惠秀.md" title="wikilink">金惠秀</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PD's Choice賞</p></td>
 <td><p><a href="../Page/李帝勳.md" title="wikilink">李帝勳</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>搶鏡男演員賞</p></td>
 <td><p><a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>第一屆<a href="https://zh.wikipedia.org/wiki/Asia_Artist_Awards" title="wikilink">Asia Artist Awards</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">第1屆亞洲明星盛典<br />
+(Asia Artist Awards)</a></p></td>
 <td><p>Best Celebrity賞</p></td>
 <td><p><a href="../Page/李帝勳.md" title="wikilink">李帝勳</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>電視劇部門大賞</p></td>
 <td><p><a href="../Page/趙震雄.md" title="wikilink">趙震雄</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/金惠秀.md" title="wikilink">金惠秀</a></p></td>
 <td></td>
 <td></td>
