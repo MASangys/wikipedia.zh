@@ -9,12 +9,12 @@
 ### 立花家
 
   -
-    初登場：13歲，初中二年級。立花兄弟中的弟弟。擔任三壘手，球速快於走一郎，後轉投手。
+    初登場：13歲，初中二年級。立花兄弟中的弟弟。擔任三壘手，球速快於走一郎，後轉投手。三歲時曾在生母葬禮上被春夏弄哭(本人毫無印象)，且目前似乎被對方仰慕著。
 
 <!-- end list -->
 
   -
-    初登場：13歲，初中二年級。立花兄弟中的哥哥。擔任捕手。擁有比投馬更豐富的異性緣，在校成績也比投馬優秀。
+    初登場：13歲，初中二年級。立花兄弟中的哥哥。擔任捕手。長相英俊，擁有比投馬更豐富的異性緣，在校成績也比投馬優秀。
 
 <!-- end list -->
 
@@ -53,12 +53,12 @@
 <!-- end list -->
 
   -
-    大山吾朗的女兒。隸屬於體操部，協助棒球部探查敵情受傷後，暫時代理棒球部經理。三歲的時與投馬相遇，從此記在心裡。
+    大山吾朗的女兒。隸屬於體操部，協助棒球部探查敵情受傷後，暫時代理棒球部經理。三歲的時與投馬相遇，從此記在心裡，似乎對對方有著仰慕之情。
 
 <!-- end list -->
 
   -
-    投馬與走一郎的學長。喜歡音美。
+    與投馬、走一郎同年級。喜歡音美。
 
 <!-- end list -->
 
@@ -188,7 +188,7 @@
 
 ## 電視動畫
 
-改編電視動畫的消息於2018年8月3日發布，並自2019年4月6日起，於[讀賣電視台和](../Page/讀賣電視台.md "wikilink")[日本電視網協議會播出](../Page/日本電視網協議會.md "wikilink")。
+改編電視動畫的消息於2018年8月3日發布，並自2019年4月6日起，於[讀賣電視台](../Page/讀賣電視台.md "wikilink")和[日本電視網協議會](../Page/日本電視網協議會.md "wikilink")播出。
 
 ### 製作人員
 
@@ -213,14 +213,48 @@
 
 ### 主題曲
 
-  - 片頭曲「」
-    作詞、作曲：片岡健太，主唱：[sumika](https://zh.wikipedia.org/wiki/sumika "wikilink")
+  - 片頭曲
+
+:; 「」（第1話 - 第13話）
+
+:: 作詞、作曲：片岡健太，主唱：[sumika](https://zh.wikipedia.org/wiki/sumika "wikilink")
+
+:; 「VS」（第14話 - ）
+
+  -
+
+      -
+        作詞、作曲：新藤晴一，編曲：近藤隆史：田中ユウスケ、Porno Graffitti，主唱：ポルノグラフィティ
 
 <!-- end list -->
 
-  - 片尾曲「」
-    作詞：石渡淳治，作曲：[水野良樹](../Page/水野良樹.md "wikilink")，編曲：島田昌典，主唱：[Little
-    Glee Monster](../Page/Little_Glee_Monster.md "wikilink")
+  - 片尾曲
+
+:; 「」（第1話 - 第13話）
+
+:: 作詞：石渡淳治，作曲：[水野良樹](../Page/水野良樹.md "wikilink")，編曲：島田昌典，主唱：[Little Glee Monster](../Page/Little_Glee_Monster.md "wikilink")
+
+:; 「」（第14話 - ）
+
+  -
+
+      -
+        作詞：中園勇樹，作曲：Qyoto、宮崎諒，編曲：Qyoto、鶴澤夢人，主唱：Qyoto
+
+<!-- end list -->
+
+  - 插入曲
+
+:; 「」（第2話、第5話）
+
+:: 作曲 - 芹澤廣明 / 協力 - 青山学院銅管部（第2話）
+
+:; 「」（第7話）
+
+  -
+
+      -
+        作曲 - 芹澤廣明
 
 ### 各話列表
 
@@ -326,11 +360,99 @@
 <td><p>福岛幸典</p></td>
 <td><p>柴田匠</p></td>
 <td><p>菅原美幸、角谷知美、井戸田あかね</p></td>
-<td><p>鸟宏明 |-&lt;!--</p></td>
+<td><p>鸟宏明</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>第10話</p></td>
+<td></td>
+<td><p>只是散步</p></td>
+<td><p>北条千夏</p></td>
+<td><p>山田卓</p></td>
+<td><p>西村广、繁田亨、细田纱织</p></td>
+<td><p>高田晴仁</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td></td>
+<td><p>投投看</p></td>
+<td><p>山田健一</p></td>
+<td><p>久慈悟郎</p></td>
+<td><p>广冈岁仁、楠木智子、佐藤和巳</p></td>
+<td><p>牧孝雄</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第12話</p></td>
+<td></td>
+<td><p>你在小看我吗</p></td>
+<td><p>樋口达人</p></td>
+<td><p>山中祥平</p></td>
+<td><p>角谷知美、井戸田あかね、菅原美幸</p></td>
+<td><p>鸟宏明</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第13話</p></td>
+<td></td>
+<td><p>因为是兄弟</p></td>
+<td><p>富岡淳广</p></td>
+<td><p>筆坂明规</p></td>
+<td><p>西村广、繁田亨、北村友幸、福岛丰明</p></td>
+<td><p>高田晴仁</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第14話</p></td>
+<td></td>
+<td><p>-{zh-cn:落后;zh-tw:落後}-</p></td>
+<td><p>福嶋幸典</p></td>
+<td><p>渡部穏寛</p></td>
+<td><p>石田暢</p></td>
+<td><p>太田慎之介、新村杏子、広岡岁仁、楠木智子</p></td>
+<td><p>牧孝雄</p></td>
+</tr>
+<tr class="odd">
+<td><p>第15話</p></td>
+<td></td>
+<td><p>想看那個表情</p></td>
+<td><p>山田健一</p></td>
+<td><p>是本晶</p></td>
+<td><p>小野弘美、佐藤和巳、细田沙织</p></td>
+<td><p>乌宏明</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第16話</p></td>
+<td></td>
+<td><p>充满活力</p></td>
+<td><p>富岡淳广</p></td>
+<td><p>柴田匠</p></td>
+<td><p>菅原美幸、角谷知美、井戸田あかね</p></td>
+<td><p>高田晴仁 &lt;!--</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第17話</p></td>
+<td></td>
+<td><p>果然很像某个人</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>--&gt;</p></td>
 </tr>
 </tbody>
 </table>
+
+### 藍光與DVD
+
+| 卷數    | 發售日期          | 收錄話數         | 規格編號         |
+| ----- | ------------- | ------------ | ------------ |
+| BD限定版 | DVD限定版        |              |              |
+| 1     | 預定2019年9月25日  | 第1話 \~ 第12話  | ANZX-13061〜4 |
+| 2     | 預定2019年12月25日 | 第13話 \~ 第24話 | ANZX-13065〜8 |
 
 ## 參考資料
 
@@ -340,13 +462,6 @@
 
   - [動畫官方網站](https://www.ytv.co.jp/mix/)
 
-[Category:安達充](https://zh.wikipedia.org/wiki/Category:安達充 "wikilink")
-[Category:月刊少年Sunday](https://zh.wikipedia.org/wiki/Category:月刊少年Sunday "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink")
-[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink")
-[Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink")
+[Category:安達充](https://zh.wikipedia.org/wiki/Category:安達充 "wikilink") [Category:月刊少年Sunday](https://zh.wikipedia.org/wiki/Category:月刊少年Sunday "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:棒球漫畫](https://zh.wikipedia.org/wiki/Category:棒球漫畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:異父母之兄弟姊妹相愛作品](https://zh.wikipedia.org/wiki/Category:異父母之兄弟姊妹相愛作品 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink")
 
 1.

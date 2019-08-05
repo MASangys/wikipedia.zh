@@ -4,10 +4,10 @@ FASTA简明的格式降低了序列操纵和分析的难度，令序列可被文
 
 ## 格式
 
-FASTA格式中的一条完整序列，包含开头的单行描述行和多行序列数据。描述行行首前置半角大于号（“\>”）以和数据行区分。“\>”后紧接的内容为该序列的标识符，该行剩余部分则为序列的描述（标识符与描述均非必须）。“\>”和标识符之间不应有空格，且建议将单行内容限制在80字符以内。序列的结束以下一条序列的“\>”出现为标识。如下为FASTA格式一条序列的示例：
+FASTA格式中的一条完整序列，包含开头的单行描述行和多行序列数据。描述行行首前置半角大于号（“\>”）以和数据行区分。“\>”后紧接的内容为该序列的标识符，该行剩余部分则为序列的描述（标识符与描述均非必须）。“\>”和标识符之间不应有空格，且建议将单行内容限制在80字符以内。序列的结束以下一条序列的“\>”出现为标识。如下为FASTA评论区格式一条序列的示例：
 
 ``` console
->gi|31563518|ref|NP_852610.1| microtubule-associated proteins 1A/1B light chain 3A isoform b [Homo sapiens]
+>gi|31563518|ref|NP_852610.1 关，瓦斯4 microtubule-associated proteins 1A/1B light chain 3A isoform b [Homo sapiens]
 MKMRFFSSPCGKAAVDPADRCKEVQQIRDQHPSKIPVIIERYKGEKQLPVLDKTKFLVPDHVNMSELVKI
 IRRRLQLNPTQAFFLLVNQHSMVSVSTPIADIYEQEKDEDGFLYMVYASQETFGFIRENE
 ```

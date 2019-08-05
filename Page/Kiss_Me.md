@@ -6,7 +6,14 @@
 
 ## 演員陣容
 
-<table>
+<table style="width:10%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 5%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><p>演員</p></th>
@@ -22,22 +29,22 @@
 <td><p>TenTen 藍天博</p></td>
 <td><p>入江直樹</p></td>
 <td><p><a href="../Page/張振熙.md" title="wikilink">張振熙</a></p></td>
-<td><p>資賦優異，擁有IQ200的高智商。<br />
+<td><p>Bom、Kaew之長子，Nana之前男友，資賦優異，擁有IQ200的高智商。<br />
 由於父親生意的關係，隨著父親從日本轉回泰國唸書。<br />
 在他去學校繳交轉學文件的時候遇到了天真善良的Taliw。<br />
 因為對Taliw有好感，令他以想研究普通人的生活習性而主動向師長提出想被編列進在放牛班。<br />
-後來知道了Taliw是他被絕交的兒時玩伴後，對Taliw的態度才會一百八十度大轉變，Bom、Kaew之長子，Nana之前男友，於第20集成為Taliw之夫。</p></td>
+後來知道了Taliw是他被絕交的兒時玩伴後，對Taliw的態度才會一百八十度大轉變，於第20集成為Taliw之夫。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李海娜.md" title="wikilink">李海娜</a></p></td>
 <td><p>Taliw 魏天妮</p></td>
 <td><p>相原琴子</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
-<td><p>想法簡單，思考直線，不懂拐彎抺角的女孩。<br />
+<td><p>Han之女，想法簡單，思考直線，不懂拐彎抺角的女孩。<br />
 在開學前因為TenTen善良的幫助她一起救了一隻困在樹上的貓，而對他有好感。<br />
 父女兩人因為石油氣爆炸炸毀他們的家後，遷入TenTen的家。<br />
 是TenTen的兒時玩伴。<br />
-因為喜歡照顧別人，所以想要當護士，Han之女，於第20集成為TenTen之妻</p></td>
+因為喜歡照顧別人，所以想要當護士，於第20集成為TenTen之妻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Tao_Phiangphor" title="wikilink">Tao Phiangphor</a></p></td>

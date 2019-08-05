@@ -1,4 +1,4 @@
-《**Sunny Summer**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第一張[韓語夏日迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[kakao M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2018年7月19日推出，《Sunny Summer(여름여름해)》是其同名主打歌。
+《**Sunny Summer**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第一張[韓語夏日迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[Source Music製作](../Page/Source_Music.md "wikilink")，[kakao M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2018年7月19日推出，《Sunny Summer(여름여름해)》是其同名主打歌。
 
 ## 事件
 
@@ -122,10 +122,10 @@
 
 ## 發行歷史
 
-| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司                                                                  | 發行公司                                                        |
-| ---- | ---------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 全球   | 2018年7月19日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [Source Music](https://zh.wikipedia.org/wiki/Source_Music "wikilink") | [kakao M](https://zh.wikipedia.org/wiki/kakao_M "wikilink") |
-|      |            |                                                                     |                                                                       |                                                             |
+| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司                                               | 發行公司                                                        |
+| ---- | ---------- | ------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- |
+| 全球   | 2018年7月19日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [Source Music](../Page/Source_Music.md "wikilink") | [kakao M](https://zh.wikipedia.org/wiki/kakao_M "wikilink") |
+|      |            |                                                                     |                                                    |                                                             |
 
 ## 參考資料
 

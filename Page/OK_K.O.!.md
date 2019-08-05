@@ -90,7 +90,7 @@
     "Rad Likes Robots"中因為被閃電打中而和阿肌相戀。被閃電打中後眼精睛由紅色轉為紫紅色
     身體可變為網子,雙手可變為圓鋸和錘子，待增
 
-**Lord Cowboy Darrell Boxman**(大目·邪門)
+**Lord Cowboy Darrell Boxman**(大目·邪門博士)
 
   -
     配音： [Ian Jones-Quartey](https://zh.wikipedia.org/wiki/Ian_Jones-Quartey "wikilink")
@@ -106,10 +106,10 @@
     "Plaza Prom" 中因其性格喜歡炫耀而無法抵抗參加派對。
     儘管他們性格陰險，但他們表現出關心某些人和事。 如Shannons出現故障並且愛上了Rad，Raymonds表現出自己為Shannons幸福著想。並且儘管遭受了Boxman的虐待，還是對他們的創造者表現出如父子的關心。
 
-**Lord Boxman, Jr.**(小邪門博士)
+**Boxman, Jr.**(小邪門)
 
   -
-    全名M. "Lad" Boxman-Box, Jr.。Lord Boxman因為BMJ系列機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
+    全名M. "Hoagie" Boxman-Box, Jr.。Lord Boxman因為BMJ系列機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
 
 ### 其他
 

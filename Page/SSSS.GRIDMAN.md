@@ -148,11 +148,17 @@
   -
     最終話登場。茜的怪獸化姿態
 
-## 製作
+## 電視動畫
+
+2015年，导演[雨宮哲](../Page/雨宮哲.md "wikilink")在《[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")》中制作了《[電光超人古立特](../Page/電光超人古立特.md "wikilink")》的短篇动画《電光超人古立特 boys invent great hero》。最初导演是希望把《奥特曼》给动画化，然而[圓谷製作](../Page/圓谷製作.md "wikilink")方面的回复是希望能够改编其他作品，于是就拿了《電光超人古立特》的授权。制作完短篇后，雨宫哲希望能与圓谷製作有更进一步的合作，于是有了本作。\[3\]
+
+《SSSS.GRIDMAN》中的「SSSS」除了致敬自美版古立特的标题《[Superhuman Samurai Syber-Squad](../Page/電光超人.md "wikilink")》，劇中也顯示了SSSS另一個縮寫Special Signature to Save a Soul (拯救靈魂的特別署名)。
+
+三位角色名稱「響裕太」「新条アカネ」「アレクシス・ケリヴ」以及地名ツツジ台(杜鵑台)出自續集廢案「電撃超人グリッドマンF（ファイター）」。
 
 ### 製作團隊
 
-  - 原作：『[電光超人古立特](../Page/電光超人古立特.md "wikilink")』\[3\]
+  - 原作：『[電光超人古立特](../Page/電光超人古立特.md "wikilink")』\[4\]
   - 監督：[雨宮哲](../Page/雨宮哲.md "wikilink")
   - 脚本：長谷川圭一
   - 古立特設計：後藤正行
@@ -167,15 +173,7 @@
   - 動畫製作：[TRIGGER](../Page/TRIGGER.md "wikilink")
   - 製作：[圓谷製作](../Page/圓谷製作.md "wikilink")、FIELDS CORPORATION、波麗佳音、[DOCOMO動畫商城](https://zh.wikipedia.org/wiki/DOCOMO動畫商城 "wikilink")、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")、Ultra Super Pictures、KlockWorx、[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")
 
-### 动画制作
-
-2015年，导演[雨宮哲](../Page/雨宮哲.md "wikilink")在《[日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")》中制作了《[電光超人古立特](../Page/電光超人古立特.md "wikilink")》的短篇动画《電光超人古立特 boys invent great hero》。最初导演是希望把《奥特曼》给动画化，然而[圓谷製作](../Page/圓谷製作.md "wikilink")方面的回复是希望能够改编其他作品，于是就拿了《電光超人古立特》的授权。制作完短篇后，雨宫哲希望能与圓谷製作有更进一步的合作，于是有了本作。\[4\]
-
-《SSSS.GRIDMAN》中的「SSSS」除了致敬自美版古立特的标题《[Superhuman Samurai Syber-Squad](../Page/電光超人.md "wikilink")》，劇中也顯示了SSSS另一個縮寫Special Signature to Save a Soul (拯救靈魂的特別署名)。
-
-三位角色名稱「響裕太」「新条アカネ」「アレクシス・ケリヴ」以及地名ツツジ台(杜鵑台)出自續集廢案「電撃超人グリッドマンF（ファイター）」
-
-## 主題曲
+### 主題曲
 
   - 片頭曲「UNION」（第1、3、8、12話當作插入曲使用）
     作詞、作曲：[大石昌良](../Page/大石昌良.md "wikilink")，編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")，歌：[OxT](../Page/OxT.md "wikilink")\[5\]
@@ -245,7 +243,7 @@
       -
         作詞：，作曲：
 
-## 各話列表
+### 各話列表
 
 <table>
 <thead>
@@ -388,8 +386,6 @@
 </tbody>
 </table>
 
-## 播放與發行
-
 ### 播放平台
 
 | 播放地區                               | 播放電視台                                                         | 播放日期                                                  | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                 | 備註 |
@@ -465,7 +461,7 @@ HAPPY!動画、MBS動画イズム</p></td>
 | 2  | 預定2019年1月16日  | 第4話 \~ 第6話  | PCXP-50622 |
 | 4  | 預定2019年3月20日  | 第10話 - 第12話 | PCXP-50624 |
 
-## 反響
+## 迴響
 
 ### 評價
 
@@ -475,13 +471,7 @@ HAPPY!動画、MBS動画イズム</p></td>
 
 BD發售第一週，以7115張在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")排行當季動畫第二名\[10\]。
 
-## 參考資料
-
-  - 註釋
-
-<!-- end list -->
-
-  - 來源
+## 參考文獻
 
 ## 外部連結
 
@@ -497,10 +487,10 @@ BD發售第一週，以7115張在[Oricon公信榜](../Page/Oricon公信榜.md "w
 2.
 
 3.
-4.
     （有节选）
     （编辑）监督雨宫哲×脚本长谷川圭一谈《SSSS.GRIDMAN》的制作秘话（[上](http://www.anitama.cn/article/8afeb1e3696d0a8a)、[下](http://www.anitama.cn/article/68729ae9e9e5b20c)）. Anitama
 
+4.
 5.
 
 6.

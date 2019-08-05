@@ -29,7 +29,7 @@
   - [龍王的工作！](../Page/龍王的工作！.md "wikilink")（月夜見坂燎）
   - [賽馬娘Pretty Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")（**東海帝皇**\[4\]）
 
-**時期未定**
+**2019年**
 
   - [Rifle is Beautiful](https://zh.wikipedia.org/wiki/Rifle_is_Beautiful "wikilink")（**小倉光**\[5\]）
 
@@ -329,7 +329,7 @@
 <td><p>遊戲「偶像大師 百萬人演唱會！」關連曲</p></td>
 </tr>
 <tr class="odd">
-<td><p>|星井美希（<a href="../Page/長谷川明子.md" title="wikilink">長谷川明子</a>）、伊吹翼（Machico）、北上麗花（）、茱莉亞（<a href="../Page/愛美.md" title="wikilink">寺川愛美</a>）</p></td>
+<td><p>|星井美希（<a href="../Page/長谷川明子.md" title="wikilink">長谷川明子</a>）、伊吹翼（Machico）、北上麗花（<a href="../Page/平山笑美.md" title="wikilink">平山笑美</a>）、茱莉亞（<a href="../Page/愛美.md" title="wikilink">寺川愛美</a>）</p></td>
 <td><p>「Marionetteは眠らない」</p></td>
 <td></td>
 <td></td>
@@ -423,7 +423,7 @@
 <tr class="even">
 <td><p>12月23日</p></td>
 <td><p>THE IDOLM@STER LIVE THE@TER DREAMERS 04</p></td>
-<td><p>秋月律子（<a href="../Page/若林直美.md" title="wikilink">若林直美</a>）、篠宮可憐（<a href="../Page/近藤唯.md" title="wikilink">近藤唯</a>）、伊吹翼（Machico）、我那霸響（<a href="../Page/沼倉愛美.md" title="wikilink">沼倉愛美</a>）、艾米莉·斯圖亞特（）、水瀨伊織（<a href="../Page/釘宮理惠.md" title="wikilink">釘宮理惠</a>）、高山紗代子（<a href="../Page/駒形友梨.md" title="wikilink">駒形友梨</a>）、佐竹美奈子（<a href="../Page/大關英里.md" title="wikilink">大關英里</a>）、天空橋朋花（<a href="../Page/小岩井小鳥.md" title="wikilink">小岩井小鳥</a>）、中谷育（）</p></td>
+<td><p>秋月律子（<a href="../Page/若林直美.md" title="wikilink">若林直美</a>）、篠宮可憐（<a href="../Page/近藤唯.md" title="wikilink">近藤唯</a>）、伊吹翼（Machico）、我那霸響（<a href="../Page/沼倉愛美.md" title="wikilink">沼倉愛美</a>）、艾米莉·斯圖亞特（<a href="https://zh.wikipedia.org/wiki/郁原優" title="wikilink">郁原優</a>）、水瀨伊織（<a href="../Page/釘宮理惠.md" title="wikilink">釘宮理惠</a>）、高山紗代子（<a href="../Page/駒形友梨.md" title="wikilink">駒形友梨</a>）、佐竹美奈子（<a href="../Page/大關英里.md" title="wikilink">大關英里</a>）、天空橋朋花（<a href="../Page/小岩井小鳥.md" title="wikilink">小岩井小鳥</a>）、中谷育（）</p></td>
 <td><p>「Dreaming!」</p></td>
 <td></td>
 </tr>

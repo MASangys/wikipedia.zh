@@ -1,6 +1,6 @@
 **SIG P365**是一款由[西格-紹爾在](../Page/西格&紹爾.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新罕布什尔州](../Page/新罕布什尔州.md "wikilink")[埃克塞特市工廠所研製及生產的微袖珍型](../Page/埃克塞特_\(新罕布什尔州\).md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，\[1\]\[2\]取代了2017年以後現已停產的[P290RS](../Page/SIG_P290手槍.md "wikilink")，採用[聚合物](../Page/聚合物.md "wikilink")[底把與](https://zh.wikipedia.org/wiki/機匣 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、以可拆卸式雙排[彈匣](../Page/彈匣.md "wikilink")作供彈具，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，包括其+P高膛壓子彈。
 
-SIG P365配有X射線夜間瞄具和兩個10發[彈匣](../Page/彈匣.md "wikilink")，後者的其中一個裝有齊平底板，另一個帶有延長的手指支撐板。
+SIG P365配有氚夜間瞄具和兩個10發[彈匣](../Page/彈匣.md "wikilink")，後者的其中一個裝有齊平底板，另一個帶有延長的手指支撐板。
 
 ## 概述
 

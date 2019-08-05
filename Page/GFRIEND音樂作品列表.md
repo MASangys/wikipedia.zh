@@ -28,7 +28,7 @@
 <td><p><strong>《<a href="../Page/L.O.L.md" title="wikilink">L.O.L</a>》</strong></p>
 <ul>
 <li>發行日期: 2016年7月11日</li>
-<li>發行公司: <a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
+<li>發行公司: <a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
 <li>專輯銷量:75,976+</li>
 <li>規格: CD、數位音樂下載</li>
 </ul></td>
@@ -40,7 +40,7 @@
 <td><p><strong>《<a href="../Page/Time_for_us.md" title="wikilink">Time for us</a>》</strong></p>
 <ul>
 <li>發行日期: 2019年1月14日</li>
-<li>發行公司:<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
+<li>發行公司:<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
 <li>專輯銷量:93,000+</li>
 <li>規格: CD、數位音樂下載</li>
 </ul></td>
@@ -76,7 +76,7 @@
 <td><p><strong>《<a href="../Page/Season_of_Glass.md" title="wikilink">Season of Glass</a>》</strong>[2]</p>
 <ul>
 <li>發行日期：2015年1月15日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="../Page/Genie音樂.md" title="wikilink">KT Music</a></li>
+<li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="../Page/Genie音樂.md" title="wikilink">KT Music</a></li>
 <li>專輯銷量：21,930+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
@@ -89,7 +89,7 @@
 <td><p><strong>《<a href="../Page/Flower_Bud.md" title="wikilink">Flower Bud</a>》</strong></p>
 <ul>
 <li>發行日期：2015年7月23日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、KT Music</li>
+<li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、KT Music</li>
 <li>專輯銷量：28,281+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
@@ -101,7 +101,7 @@
 <td><p><strong>《<a href="../Page/Snowflake.md" title="wikilink">Snowflake</a>》</strong></p>
 <ul>
 <li>發行日期：2016年1月25日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
+<li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
 <li>專輯銷量：42,754+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
@@ -113,7 +113,7 @@
 <td><p><strong>《<a href="../Page/The_Awakening.md" title="wikilink">The Awakening</a>》</strong></p>
 <ul>
 <li>發行日期：2017年3月6日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
+<li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
 <li>專輯銷量：75,363+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
@@ -125,7 +125,7 @@
 <td><p><strong>《<a href="../Page/Parallel.md" title="wikilink">Parallel</a>》</strong></p>
 <ul>
 <li>發行日期：2017年8月1日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
+<li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
 <li>專輯銷量：62,781+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
@@ -136,7 +136,7 @@
 <td><p><strong>《<a href="../Page/Parallel.md" title="wikilink">Rainbow</a>》(改版)</strong></p>
 <ul>
 <li>發行日期：2017年9月13日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
+<li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
 <li>專輯銷量：40,816+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
@@ -149,11 +149,23 @@
 <td><p><strong>《<a href="../Page/Time_For_The_Moon_Night.md" title="wikilink">Time For The Moon Night</a>》</strong></p>
 <ul>
 <li>發行日期：2018年4月30日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
+<li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
 <li>專輯銷量：85,813+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
 <td><p>1（綜合）[9]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7th</p></td>
+<td><p><strong>《<a href="../Page/Fever_Season.md" title="wikilink">Fever Season</a>》</strong></p>
+<ul>
+<li>發行日期：2019年7月1日</li>
+<li>發行公司：<a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/kakao_M" title="wikilink">kakao M</a></li>
+<li>專輯銷量：51,234+</li>
+<li>規格：CD、數位音樂下載</li>
+</ul></td>
+<td><p>1（綜合）[10]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -185,11 +197,11 @@
 <td><p><strong>《<a href="../Page/Sunny_Summer.md" title="wikilink">Sunny Summer</a>》</strong></p>
 <ul>
 <li>發行日期: 2018年7月19日</li>
-<li>發行公司: <a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
+<li>發行公司: <a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
 <li>專輯銷量:56,413+</li>
 <li>規格: CD、數位音樂下載</li>
 </ul></td>
-<td><p>2（綜合）[10]</p></td>
+<td><p>2（綜合）[11]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -229,12 +241,12 @@
 <td><p><strong>《<a href="../Page/今天開始的我們～GFRIEND_1st_BEST.md" title="wikilink">今日から私たちは ～GFRIEND 1st BEST～</a>》</strong></p>
 <ul>
 <li>發行日期: 2018年5月23日</li>
-<li>發行公司: <a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
+<li>發行公司: <a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
 <li>專輯銷量:14,736+</li>
 <li>規格: CD、數位音樂下載</li>
 </ul></td>
 <td><p>7</p></td>
-<td><p>10 [11]</p></td>
+<td><p>10 [12]</p></td>
 </tr>
 </tbody>
 </table>
@@ -271,31 +283,31 @@
 <td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Memoria/夜(Time_for_the_moon_night)" title="wikilink">Memoria/夜(Time for the moon night)</a>》</strong></p>
 <ul>
 <li>發行日期: 2018年10月10日</li>
-<li>發行公司: <a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
+<li>發行公司: <a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
 <li>專輯銷量:17,593+</li>
 <li>規格: CD、數位音樂下載</li>
 </ul></td>
 <td><p>2</p></td>
-<td><p>6 [12]</p></td>
+<td><p>6 [13]</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p><strong>《<a href="https://zh.wikipedia.org/wiki/SUNRISE" title="wikilink">SUNRISE</a>》</strong></p>
 <ul>
 <li>發行日期: 2019年2月13日</li>
-<li>發行公司: <a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
+<li>發行公司: <a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
 <li>專輯銷量:13,491+</li>
 <li>規格: CD、數位音樂下載</li>
 </ul></td>
 <td></td>
-<td><p>11 [13]</p></td>
+<td><p>11 [14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><strong>《<a href="../Page/FLOWER.md" title="wikilink">FLOWER</a>》</strong></p>
 <ul>
 <li>發行日期: 2019年3月13日</li>
-<li>發行公司: <a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
+<li>發行公司: <a href="../Page/Source_Music.md" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
 <li>專輯銷量:11,053+</li>
 <li>規格: CD、數位音樂下載</li>
 </ul></td>
@@ -505,3 +517,4 @@ I'll Be There</p></td>
 11.
 12.
 13.
+14.

@@ -135,7 +135,7 @@ IS-3被[蘇聯用於鎮壓](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[195
 
 ## 圖集
 
-<File:RAF> A emb-Armoured forces.jpg| <File:IS-3-batey-haosef-1.jpg>| <File:IS-3-latrun-1.jpg>| <File:IS-3-latrun-2.jpg>| <File:IS-3-latrun-3.jpg>| <File:IS-3> Tank Kiev 2007 G1.jpg| <File:IS-3> Tank Kiev 2007 G2.jpg|
+<File:Collar> insignia of the Russian Tank Troops.svg| <File:IS-3-batey-haosef-1.jpg>| <File:IS-3-latrun-1.jpg>| <File:IS-3-latrun-2.jpg>| <File:IS-3-latrun-3.jpg>| <File:IS-3> Tank Kiev 2007 G1.jpg| <File:IS-3> Tank Kiev 2007 G2.jpg|
 
 ## 註記
 

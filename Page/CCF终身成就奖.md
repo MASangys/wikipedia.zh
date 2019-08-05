@@ -11,6 +11,7 @@
   - 2015年，[倪光南院士](https://zh.wikipedia.org/wiki/倪光南 "wikilink")，[周兴铭](../Page/周兴铭.md "wikilink")院士 \[8\]
   - 2016年，[沈绪榜院士](https://zh.wikipedia.org/wiki/沈绪榜 "wikilink")、[唐泽圣教授](https://zh.wikipedia.org/wiki/唐泽圣 "wikilink") \[9\]
   - 2017年，[胡启恒](../Page/胡启恒.md "wikilink")院士，[李伯虎](../Page/李伯虎.md "wikilink")院士\[10\]
+  - 2018年，[何新贵](../Page/何新贵.md "wikilink")院士，[周巢尘院士](https://zh.wikipedia.org/wiki/周巢尘 "wikilink")\[11\]
 
 ## 参考文献
 
@@ -30,3 +31,4 @@
 8.  [倪光南、周兴铭获中国计算机学会终身成就奖，科学网，2016/1/31](http://news.sciencenet.cn/htmlnews/2016/1/337557.shtm)
 9.
 10.
+11.

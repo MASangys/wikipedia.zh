@@ -1,10 +1,10 @@
-《**The Awakening**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第四張迷你專輯，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年3月6日推出，共有6首歌曲，主打歌為《FINGERTIP》。
+《**The Awakening**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第四張迷你專輯，由[Source Music製作](../Page/Source_Music.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年3月6日推出，共有6首歌曲，主打歌為《FINGERTIP》。
 
 ## 事件
 
 ### 宣傳照、預告片公開
 
-2月23日，[Source Music宣佈](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")將於3月6日發行第四張迷你專輯《The Awakening》\[1\]\[2\]\[3\]。
+2月23日，[Source Music宣佈](../Page/Source_Music.md "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")將於3月6日發行第四張迷你專輯《The Awakening》\[1\]\[2\]\[3\]。
 
 2月27日，於韓國時間0時在官方Instagram公佈此次新專輯的預告照，並於官方[YouTube](../Page/YouTube.md "wikilink")頻道上發佈了[回歸預告](https://www.youtube.com/watch?v=7VEM2eExtp8)。公開的視頻中，GFRIEND成員們穿著黑色制服登場，面無表情化身為女戰士，展現了Girl Crush。背景的電音吉他伴奏讓整體氣氛顯得更加緊張，與GFRIEND過去的風格完全大不同，令人期待GFRIEND的反轉魅力。\[4\]
 

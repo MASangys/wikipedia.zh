@@ -1,4 +1,4 @@
-**C.T.O**是[臺灣](../Page/臺灣.md "wikilink")[創造力娛樂旗下的六人](https://zh.wikipedia.org/wiki/創造力娛樂 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")。C.T.O全名為「Create Top One」，意指「創造第一名」，粉絲名為「CEO」。\[1\]由4名臺灣成員及2名[中國大陆成員組成](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")，每半年的團長為猜拳的贏家擔任\[2\]。2018年6月11日，官方[Facebook](../Page/Facebook.md "wikilink")粉絲團正式啟動，成員分別於2018年6月19日起連續6日依次公布。C.T.O首支同名歌曲於2018年6月27日在[HitFM首播](https://zh.wikipedia.org/wiki/HitFM "wikilink")\[3\]，其[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")則在同月29日公開。 C.T.O 2019年7月5日 發行全新專輯《START IT》。 C.T.O 2019年7月5日公開MV
+**C.T.O**是[臺灣](../Page/臺灣.md "wikilink")[創造力娛樂旗下的六人](https://zh.wikipedia.org/wiki/創造力娛樂 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")。C.T.O全名為「Create Top One」，意指「創造頂尖的精神」，粉絲名為「CEO」。\[1\]由4名臺灣成員及2名[中國大陆成員組成](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")，每半年的團長為猜拳的贏家擔任\[2\]。2018年6月11日，官方[Facebook](../Page/Facebook.md "wikilink")粉絲團正式啟動，成員分別於2018年6月19日起連續6日依次公布。C.T.O首支同名歌曲於2018年6月27日在[HitFM首播](https://zh.wikipedia.org/wiki/HitFM "wikilink")\[3\]，其[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")則在同月29日公開。 C.T.O 2019年7月5日 發行全新專輯《START IT》。 C.T.O 2019年7月5日公開MV
 
 ## 經歷
 
@@ -27,7 +27,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/王梓寧" title="wikilink">王梓寧</a></p></td>
 <td><p>Williams</p></td>
 <td><p>1995年2月3日（24歲）</p></td>
-<td><p><a href="../Page/吉林省.md" title="wikilink">吉林省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國吉林省" title="wikilink">中國吉林省</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/水瓶座" title="wikilink">水瓶座</a></p></td>
 <td><p>主唱、領唱、領Rapper、中低音主唱、大哥</p></td>
 <td><p>180CM</p></td>
@@ -41,7 +41,7 @@
 <td><p><a href="../Page/楊梓鑫.md" title="wikilink">楊梓鑫</a></p></td>
 <td><p>Hollis</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/重慶市" title="wikilink">重慶市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國重慶市" title="wikilink">中國重慶市</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天蠍座" title="wikilink">天蠍座</a></p></td>
 <td><p>主唱、領舞、領唱、中高音主唱</p></td>
 <td><p>180CM</p></td>
@@ -191,7 +191,7 @@
 <li><a href="https://www.youtube.com/watch?v=Ld3l3fnVnJ0">Start It</a></li>
 <li><a href="https://www.youtube.com/watch?v=XMcsc3X7WnM">Super Girl</a></li>
 <li>有你我就不弧單 ( 羅志祥，愷樂，C.T.O )</li>
-<li>口袋裡的愛 ( 羅志祥，愷樂，C.T.O )</li>
+<li><a href="https://www.youtube.com/watch?v=AfxLCSlSeH4">口袋裡的愛</a> ( 羅志祥，愷樂，C.T.O )</li>
 </ul></td>
 </tr>
 </tbody>
@@ -251,6 +251,7 @@
 | 2019年5月26日  | 冰淇淋音樂節                                                         |
 | 2019年7月4日   | 花蓮[夏戀嘉年華](../Page/夏戀嘉年華.md "wikilink")                         |
 | 2019年7月13日  | 宜蘭音浪頭城                                                         |
+| 2019年7月28日  | [極限挑戰公益演唱會](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")     |
 
 ### 綜藝節目
 
@@ -271,13 +272,14 @@
 | 2018年9月7日                                                  | [中國音樂公告牌](../Page/中國音樂公告牌.md "wikilink")([愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")) | C.T.O全員 |
 | 2018年9月9日                                                  | 天天向上                                                                                          | C.T.O全員 |
 | 2019年6月26日                                                 | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink") LIVE                                  | C.T.O全員 |
-| 2019年7月7日                                                  | [极限挑战](../Page/极限挑战.md "wikilink")第五季 第九集                                                     | C.T.O全員 |
+| 2019年7月7日                                                  | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink") 第九集                                  | C.T.O全員 |
 | 2019年7月11日                                                 | 就是要John玩([完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink"))                               | C.T.O全員 |
 | 2019年7月12日                                                 | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")                                       | C.T.O全員 |
 | 2019年7月17日                                                 | [完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink") LIVE                                    | C.T.O全員 |
 | 2019年7月18日                                                 | 就是要John賭([完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink"))                               | C.T.O全員 |
 | 呵Bar LIVE                                                  | C.T.O全員                                                                                       |         |
 | 2019年7月19日                                                 | MTV [我愛偶像LULU LAND](https://zh.wikipedia.org/wiki/我愛偶像LULU_LAND "wikilink")                   | C.T.O全員 |
+| 2019年7月25日                                                 | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")                                       | C.T.O全員 |
 
 ### 電台節目
 

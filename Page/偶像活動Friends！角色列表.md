@@ -3,7 +3,7 @@
 
 ## 主要人物
 
-### Pure Palette（ピュアパレット）
+### Pure Palette
 
   -
     配音員：日：
@@ -28,7 +28,7 @@
     外表看起來不好接近，但其實是個善解人意的人。
     學校內公認的頂級偶像，因為與愛音成為朋友為契機結成雙人組合，並以「鑽石友誼」為目標。
 
-### Honey Cat（ハニーキャット）
+### Honey Cat
 
   -
     配音員：日：[美山加戀](../Page/美山加戀.md "wikilink")
@@ -49,7 +49,7 @@
     個性活潑外向，對愛音等學妹總是表現大姊姊的樣子。口頭禪是"包在姐姐身上！！！"。
     是學校袋棍球社成員，具有國家級選手的運動實力，比較害怕小動物。
 
-### Love Me Tear（ラブミーティア）
+### Love Me Tear
 
   -
     配音員：日：[田所梓](../Page/田所梓.md "wikilink")
@@ -73,7 +73,7 @@
     喜歡社群網路、對流行話題敏感的努力家，堪稱是偶像們的榜樣。
     熱情開朗，充滿活力，非常關心朋友兼搭檔的凱倫。
 
-### Reflect Moon（リフレクトムーン）
+### Reflect Moon
 
   -
     配音員：日：
@@ -100,13 +100,14 @@
     同樣擅長占卜，但和咲夜不一樣的是用水晶球占卜。
     第2期與咲夜轉至星睦學園高中部就讀。
 
-### I Believe（アイビリーブ）
+### I Believe
 
   -
     配音員：日：[日笠陽子](../Page/日笠陽子.md "wikilink")
     5月25日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型B型。
     街機閃耀的寶石1彈登場玩家。
     常用品牌：**Heavenly Perfume**。
+    為專屬服裝品牌**Heavenly Perfume**的代表繆斯。
     突然在愛音面前出現的偶像活動藝人。
     充滿魅力，成熟而且具有風格的偶像，比任何人都帥氣。
     擁有自己的秘書團隊「Lovely Friends」。
@@ -120,12 +121,13 @@
     2月23日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，血型A型。
     街機閃耀的寶石2彈登場玩家。
     常用品牌：**Glorious Snow**。
+    為專屬服裝品牌**Glorious Snow**的代表繆斯。
     曾經和響一組的偶像。
     有著獨特氣氛的美少女和讓人看到著迷的魅力。
     索爾伯特王國的公主，和「Love Me Tear」的兩人同年。
-    現在和響的Friends關係休止。突然消失的身影，其實有著巨大的秘密。
+    因為家裡發來的急電在五年前和響的Friends關係休止並離開偶像界，後來在愛音等人的幫助下再次站到舞台上，並與響和好，決定前往日本重新開始活動。
 
-### BABY PIRATES（ベイビーパイレーツ）
+### BABY PIRATES
 
   -
     配音員：日：[田中愛美](https://zh.wikipedia.org/wiki/田中愛美 "wikilink")
@@ -147,22 +149,18 @@
     9月3日出生，[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")，血型A型。
     街機閃耀的寶石3彈登場玩家。
     常用品牌：**Humming Leaf**。
+    為專屬服裝品牌**Humming Leaf**的代表繆斯。
     第2期時就讀中學3年級。
     目標要成為「Pure Palette」那樣的偶像，並在「未來的奇蹟試鏡」中被未來選中的孩子。
     有著可愛的聲音和像海綿一樣的吸收力。
     好奇心旺盛，對於新的事物都會表現出豐富的表情。
 
-## 主角的相關人物
+<!-- end list -->
 
   -
     配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")
     街機5彈登場玩家。
     導覽系統「Aikatsu Navi」的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")，擔任協助偶像們活動的解說角色。充滿幹勁，感情豐富，偶爾會做出不同於平日的舉動。
-
-<!-- end list -->
-
-  -
-    YouTube上的偶像活動！頻道「偶Tube」的[虛擬YouTuber](../Page/虛擬YouTuber.md "wikilink")，樣貌跟可可相似。動畫中未登場。
 
 ## 星睦學園
 
@@ -305,6 +303,11 @@
   -
     配音員：日：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")、[矢作紗友里](../Page/矢作紗友里.md "wikilink")、[西田望見](../Page/西田望見.md "wikilink")
     響的秘書團隊「Lovely Friends」的成員。
+
+<!-- end list -->
+
+  -
+    YouTube上的偶像活動！頻道「偶Tube」的[虛擬YouTuber](../Page/虛擬YouTuber.md "wikilink")，樣貌跟可可相似。動畫中未登場。
 
 ## 注釋
 

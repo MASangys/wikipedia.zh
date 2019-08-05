@@ -2,7 +2,7 @@
 
 在2019年4月8日，[三星電子](../Page/三星電子.md "wikilink")為簡化生產線，宣布將[三星Galaxy J系列與本系列合併](https://zh.wikipedia.org/wiki/三星Galaxy_J系列 "wikilink")\[1\]。
 
-\== 旗下智能手機 \[[https://www.samsung.com/hk/\]==](https://www.samsung.com/hk/%5D==)
+## 旗下智能手機 \<ref name 'multiple'\>https://www.samsung.com/hk/\]</ref>
 
 ### 2014年
 
@@ -60,7 +60,7 @@
   - [Samsung Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")
   - [Samsung Galaxy A80](../Page/三星Galaxy_A80.md "wikilink")
 
-\== 旗下平板電腦 \[[https://www.samsung.com/hk/\]==](https://www.samsung.com/hk/%5D==)
+## 旗下平板電腦 \<ref name 'multiple'\>https://www.samsung.com/hk/\]</ref>
 
 ### 2015年
 

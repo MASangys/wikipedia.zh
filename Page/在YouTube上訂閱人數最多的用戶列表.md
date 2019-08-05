@@ -1,4 +1,4 @@
-[T-series-logo.svg](https://zh.wikipedia.org/wiki/File:T-series-logo.svg "fig:T-series-logo.svg")\[1\]為目前[YouTube](../Page/YouTube.md "wikilink")上訂閱数最多的頻道，截至2019年5月29日其頻道超過1億訂閱。\]\] 本列表為影音分享網站[YouTube](../Page/YouTube.md "wikilink")上訂閱人數前50名的頻道列表\[2\]。訂閱頻道的功能自2005年10月開始啟用\[3\] ，而YouTube則自2006年開始計算最多訂閱頻道的排名。當時最多訂閱者的頻道是[Smosh](../Page/Smosh.md "wikilink")，有3,000名訂閱者\[4\]。自2013年以來，位居這份名單榜首的是[PewDiePie](../Page/PewDiePie.md "wikilink")，並一直維持了六年至2019年4月。截至2019年5月29日，位居這份名單榜首的是[T-Series](../Page/T-Series.md "wikilink")，其頻道已有超過1億名訂閱者。\[5\]\[6\]
+[T-series-logo.svg](https://zh.wikipedia.org/wiki/File:T-series-logo.svg "fig:T-series-logo.svg")\[1\]為目前[YouTube](../Page/YouTube.md "wikilink")上訂閱数最多的頻道，截至2019年5月29日其頻道超過1億訂閱。\]\] 本列表為影音分享網站[YouTube](../Page/YouTube.md "wikilink")上訂閱人數前50名的頻道列表\[2\]。訂閱頻道的功能自2005年10月開始啟用\[3\] ，而YouTube則自2006年開始計算最多訂閱頻道的排名。當時最多訂閱者的頻道是[Smosh](../Page/Smosh.md "wikilink")，有5,000萬名訂閱者\[4\]。自2013年以來，位居這份名單榜首的是[PewDiePie](../Page/PewDiePie.md "wikilink")，並一直維持了六年至2019年4月。截至2019年5月29日，位居這份名單榜首的是[T-Series](../Page/T-Series.md "wikilink")，其頻道已有超過1億名訂閱者。\[5\]\[6\]
 
 ## 熱門頻道
 

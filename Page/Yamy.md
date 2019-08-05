@@ -325,7 +325,7 @@
   - [Yamy](https://weibo.com/u/5957839152?is_hot=1#_loginLayer_1530614479816/)的新浪微博
   - [Yamy](https://www.instagram.com/buzhidaoqushiyaohao/)的Instagram帳戶
 
-[Category:郭姓](https://zh.wikipedia.org/wiki/Category:郭姓 "wikilink") [Category:火箭少女101成员](https://zh.wikipedia.org/wiki/Category:火箭少女101成员 "wikilink")
+[Category:广东药科大学校友](https://zh.wikipedia.org/wiki/Category:广东药科大学校友 "wikilink") [Category:火箭少女101成员](https://zh.wikipedia.org/wiki/Category:火箭少女101成员 "wikilink") [Category:中国女歌手](https://zh.wikipedia.org/wiki/Category:中国女歌手 "wikilink") [Category:广东歌手](https://zh.wikipedia.org/wiki/Category:广东歌手 "wikilink") [Category:清远人](https://zh.wikipedia.org/wiki/Category:清远人 "wikilink") [Category:郭姓](https://zh.wikipedia.org/wiki/Category:郭姓 "wikilink")
 
 1.  [JC藝人學院成立 新女團時代來臨](http://music.yule.sohu.com/20161031/n471862117.shtml) 搜狐音樂 2016年10月31日
 2.  [JC艺人学院举行发布会 三女团出道风格各异](http://ent.163.com/17/0615/12/CMVJLH8V000380CJ.html) 網易娛樂 2016年6月15日

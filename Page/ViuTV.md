@@ -158,7 +158,7 @@ ViuTV每日會播放四或五節由[now新聞台製作的新聞報道](https://z
 
 另外，ViuTV每周亦會播放由與[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")／[now財經台製作的時事資訊節目](https://zh.wikipedia.org/wiki/now財經台 "wikilink")。
 
-ViuTV亦會聯播[now新聞台的特備節目](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，但不會完整播出。首個特備新聞節目為2016年7月14日的《行政長官答問會》，不過[now新聞台於](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")09:30開始直播，但ViuTV在第一個時段的《[智富通](https://zh.wikipedia.org/wiki/智富通 "wikilink")》完畢後才於10:00聯播。遇上重大突發新聞，如[2018年美朝峰會](https://zh.wikipedia.org/wiki/2018年美朝首腦會談 "wikilink")、[2019年反對逃犯條例示威等事件](../Page/反對逃犯條例修訂草案運動.md "wikilink")，ViuTV會中斷原定節目而插播特別新聞報道（聯播Now新聞台）。
+ViuTV亦會聯播[now新聞台的特備節目](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，但不會完整播出。首個特備新聞節目為2016年7月14日的《行政長官答問會》，不過[now新聞台於](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")09:30開始直播，但ViuTV在第一個時段的《[智富通](https://zh.wikipedia.org/wiki/智富通 "wikilink")》完畢後才於10:00聯播。遇上重大突發新聞，如[2018年美朝峰會](https://zh.wikipedia.org/wiki/2018年美朝首腦會談 "wikilink")、[2019年反對逃犯條例示威等事件](../Page/反對逃犯條例修訂草案運動.md "wikilink")，ViuTV會中斷甚至取消原定節目而插播特別新聞報道（聯播Now新聞台）。
 
 而當[八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每小時會播出一節由[now新聞台製作的](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")《風暴消息》。
 

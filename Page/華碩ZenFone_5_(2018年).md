@@ -37,9 +37,9 @@ Zenfone 5Q搭載Snapdragon 630處理器，ZenFone 5搭載Snapdragon 636處理器
 <thead>
 <tr class="header">
 <th></th>
-<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_5&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 5<noinclude></a></noinclude></p></th>
-<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/ZenFone_5" title="wikilink"></noinclude>ZenFone 5z<noinclude></a></noinclude></p></th>
-<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/ZenFone_5" title="wikilink"></noinclude>ZenFone 5q<noinclude></a></noinclude></p></th>
+<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_5&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 5<noinclude></a></p></th>
+<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/ZenFone_5" title="wikilink"></noinclude>ZenFone 5z<noinclude></a></p></th>
+<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/ZenFone_5" title="wikilink"></noinclude>ZenFone 5q<noinclude></a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -214,9 +214,9 @@ Zenfone 5Q搭載Snapdragon 630處理器，ZenFone 5搭載Snapdragon 636處理器
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_5&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 5<noinclude></a></noinclude></p></td>
-<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/ZenFone_5" title="wikilink"></noinclude>ZenFone 5z<noinclude></a></noinclude></p></td>
-<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/ZenFone_5" title="wikilink"></noinclude>ZenFone 5q<noinclude></a></noinclude></p></td>
+<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_5&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 5<noinclude></a></p></td>
+<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/ZenFone_5" title="wikilink"></noinclude>ZenFone 5z<noinclude></a></p></td>
+<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/ZenFone_5" title="wikilink"></noinclude>ZenFone 5q<noinclude></a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -248,7 +248,7 @@ Zenfone 5Q搭載Snapdragon 630處理器，ZenFone 5搭載Snapdragon 636處理器
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>機種</p></td>
+<td></td>
 <td><p>ZE620KL</p></td>
 <td><p>ZS620KL</p></td>
 <td><p>ZC600KL</p></td>

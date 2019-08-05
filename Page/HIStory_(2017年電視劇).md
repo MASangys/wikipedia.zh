@@ -1,6 +1,6 @@
-《**HIStory系列**》，2017年[臺灣](../Page/臺灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，於2017年2月14日起在[CHOCO TV每週二](../Page/CHOCO_TV.md "wikilink")\~五上架播出，原本僅規劃拍攝《My Hero》、《離我遠一點》兩單元，由於獲得105年度行動寬頻影音節目製作補助案第2梯次補助240萬元\[1\]，所以才有第三單元《著魔》。第一季共分為三個單元《My Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播映一個單元，第一季已於3月3日播映完畢。
+《**HIStory系列**》，2017年[臺灣](../Page/臺灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，於2017年2月14日起在[CHOCO TV每週二至週五上架播出](../Page/CHOCO_TV.md "wikilink")，原本僅規劃拍攝《My Hero》、《離我遠一點》兩單元，由於獲得105年度行動寬頻影音節目製作補助案第2梯次補助240萬元\[1\]，所以才有第三單元《著魔》。第一季共分為三個單元《My Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播映一個單元，第一季已於3月3日播映完畢。
 
-播出後好評不斷，上架短短三個月達成350萬的網路點擊率，成為台灣首部進軍日本的網路劇，將於2017年7月31日於日本電視台播出，同時籌備日本院線發行，年底前將於泰國電視台播出。\[2\]
+播出後好評不斷，上架短短三個月達成350萬的網路點擊率，成為台灣首部進軍日本的網路劇，於2017年7月31日在日本電視台播出，同時籌備日本院線發行，年底前於泰國電視台播出。\[2\]
 
 該系列[第二季已於](../Page/HIStory2.md "wikilink")10月12日開鏡拍攝，分為二個單元《是非》及《越界》。\[3\]原定之第三單元《圈套》因經費不足而被擱置。而《越界》也預計於2019年開拍電影版《跨界》，由原班人馬帶來志弘高中排球隊員們後續的故事\[4\]。
 
@@ -111,13 +111,13 @@
 
 ### 第一季
 
-<table style="width:80%;">
+<table style="width:70%;">
 <colgroup>
-<col style="width: 40%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
+<col style="width: 35%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -201,13 +201,13 @@
 
 ### 第二季
 
-<table style="width:100%;">
+<table style="width:87%;">
 <colgroup>
-<col style="width: 40%" />
-<col style="width: 12%" />
-<col style="width: 32%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
+<col style="width: 35%" />
+<col style="width: 10%" />
+<col style="width: 27%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -268,13 +268,13 @@
 
 ### 第三季
 
-<table style="width:100%;">
+<table style="width:87%;">
 <colgroup>
-<col style="width: 40%" />
-<col style="width: 12%" />
-<col style="width: 32%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
+<col style="width: 35%" />
+<col style="width: 10%" />
+<col style="width: 27%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
 </colgroup>
 <tbody>
 <tr class="odd">

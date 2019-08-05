@@ -10,6 +10,8 @@ Google相册是Google+中照片功能的独立后续。Google启动Google+以和
 
 在Google相册发布满1年的时刻，Google在博客上宣布此服务积累了2亿月活跃用户，为用户节省13.7 PB的存储空间，应用了2万亿个标签，备份照片中有240亿张自拍。\[4\]Google相册负责人Anil Sabharwal在接受[Buzzfeed采访时评价此服务是](https://zh.wikipedia.org/wiki/Buzzfeed "wikilink")“公司历史上发展最快的消费产品之一”，其未来的发展包括三方面：智能存储、Google助手和智能分享。\[5\]
 
+2019年7月，Google相册成為Google第九個用戶規模突破十億的產品，也是Google最快突破十億用戶的產品\[6\]。
+
 ## 参见
 
   - [Picasa](../Page/Picasa.md "wikilink") – Google的照片管理软件
@@ -27,3 +29,5 @@ Google相册是Google+中照片功能的独立后续。Google启动Google+以和
 4.  [Photos: One year, 200 million users, and a whole lot of selfies](https://googleblog.blogspot.com/2016/05/google-photos-one-year-200-million.html%7CGoogle)
 
 5.  [What Google Photos Could Do Next](https://www.buzzfeed.com/mathonan/after-one-year-and-200-million-users-heres-what-google-photo?utm_term=.gfXJWXAz9#.yppY5VWxvHere’s)
+
+6.  [Google Photos相册服务的用户总量突破10亿](https://m.cnbeta.com/view/871205.htm)

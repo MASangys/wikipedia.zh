@@ -84,7 +84,7 @@
   - [峻瀅II銷售網站](http://www.thebeaumount2.com.hk/)
   - [家在將軍澳討論區](http://www.tkohome.com/)
 
-[Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:長江實業物業](https://zh.wikipedia.org/wiki/Category:長江實業物業 "wikilink")
+[Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink") [Category:長江實業物業](https://zh.wikipedia.org/wiki/Category:長江實業物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink")
 
 1.  [峻瀅II兩房471伙 即日沽清 一周內賣867伙 佔全盤99％](http://ps.hket.com/content/610543/%E5%B3%BB%E7%80%85II%E5%85%A9%E6%88%BF471%E4%BC%99%20%E5%8D%B3%E6%97%A5%E6%B2%BD%E6%B8%85/)《地產站(Property Station)》2015年6月3日
 2.  [峻瀅II重推5伙周五發售 最高提價約3％](http://ps.hket.com/content/695292/%E3%80%90%E5%8D%B3%E6%99%82%E3%80%91%E5%B3%BB%E7%80%85II%E9%87%8D%E6%8E%A85%E4%BC%99%E5%91%A8%E4%BA%94%E7%99%BC%E5%94%AE%20%E6%9C%80%E9%AB%98%E6%8F%90%E5%83%B9%E7%B4%843%EF%BC%85/)《地產站(Property Station)》2015年9月14日

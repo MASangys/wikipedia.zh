@@ -1,12 +1,4 @@
-**《奇樂Online》**（英語：Kira Online）是由[香港](../Page/香港.md "wikilink")電子遊戲公司[雲起所開發](../Page/雲起遊戲.md "wikilink")，其在台灣所成立之分公司[歡樂派](https://www.funmily.com/)營運的網頁遊戲。於2015年推出手機版。以[殺手遊戲為底](https://zh.wikipedia.org/wiki/殺手遊戲 "wikilink")，集[交友](https://zh.wikipedia.org/wiki/交友網站 "wikilink")[聊天](https://zh.wikipedia.org/wiki/聊天 "wikilink")、[邏輯推理](https://zh.wikipedia.org/wiki/邏輯推理 "wikilink")、[心理分析於一身的](https://zh.wikipedia.org/wiki/心理分析 "wikilink")[休閒](https://zh.wikipedia.org/wiki/休閒 "wikilink")[互動](https://zh.wikipedia.org/wiki/互動娛樂 "wikilink")[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")。以簡單的[遊戲方式](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，配合豐富的[策略元素為最大特色](https://zh.wikipedia.org/wiki/策略 "wikilink")。曾於2016年獲[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")「GAME STAR遊戲之星票選」國產最佳網頁遊戲金賞。 相關遊戲(名氏無·凋靈風暴王SC Lim GEO \[主頻道\](YouTube名)自創):
-
-[`皇宮大戰(桌遊)`](https://zh.wikipedia.org/wiki/皇宮大戰\(桌遊\) "wikilink")
-[`奇樂的怨仇(桌遊)`](https://zh.wikipedia.org/wiki/奇樂的怨仇\(桌遊\) "wikilink")
-[`奇特狼人殺(桌遊)`](https://zh.wikipedia.org/wiki/奇特狼人殺\(桌遊\) "wikilink")
-[`顏色臥底戰(桌遊)`](https://zh.wikipedia.org/wiki/顏色臥底戰\(桌遊\) "wikilink")
-[`“祁夬”``   ``的狼人殺(桌遊)`](https://zh.wikipedia.org/wiki/“祁夬”_的狼人殺\(桌遊\) "wikilink")
-[`反奇樂(桌遊)`](https://zh.wikipedia.org/wiki/反奇樂\(桌遊\) "wikilink")
-[`反狼人殺(桌遊)`](https://zh.wikipedia.org/wiki/反狼人殺\(桌遊\) "wikilink")
+**《奇樂Online》**（英語：Kira Online）是由[香港](../Page/香港.md "wikilink")電子遊戲公司[雲起所開發](../Page/雲起遊戲.md "wikilink")，其在台灣所成立之分公司[歡樂派](https://www.funmily.com/)營運的網頁遊戲。於2015年推出手機版。以[殺手遊戲為底](https://zh.wikipedia.org/wiki/殺手遊戲 "wikilink")，集[交友](https://zh.wikipedia.org/wiki/交友網站 "wikilink")[聊天](https://zh.wikipedia.org/wiki/聊天 "wikilink")、[邏輯推理](https://zh.wikipedia.org/wiki/邏輯推理 "wikilink")、[心理分析於一身的](https://zh.wikipedia.org/wiki/心理分析 "wikilink")[休閒](https://zh.wikipedia.org/wiki/休閒 "wikilink")[互動](https://zh.wikipedia.org/wiki/互動娛樂 "wikilink")[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")。以簡單的[遊戲方式](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，配合豐富的[策略元素為最大特色](https://zh.wikipedia.org/wiki/策略 "wikilink")。曾於2016年獲[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")「GAME STAR遊戲之星票選」國產最佳網頁遊戲金賞。
 
 ## 遊戲玩法
 
@@ -51,28 +43,28 @@
 <td><p><a href="../Page/警察.md" title="wikilink">警察</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上時能夠選擇一名目標投票進行搜查，進而得知目標身分，若票數未過半則搜查會視為無效。</p></td>
-<td><p>英文代號P、police</p></td>
+<td><p>英文代號：P、police</p></td>
 <td><p>警察們知道彼此身分，有獨立溝通頻道，但無法與其他藍底角色溝通。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/殺手.md" title="wikilink">殺手</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>晚上時能夠選擇一名目標投票進行謀殺，夜晚結束時目標會死亡，若票數未過半則謀殺會視為無效。</p></td>
-<td><p>英文代號K、killer</p></td>
+<td><p>英文代號：K、killer</p></td>
 <td><p>殺手們知道彼此身分，有獨立溝通頻道，但無法與其他紅底角色溝通。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/平民" title="wikilink">平民</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>沒有特殊能力，但為人數最多的職業，在幫助警察投票時能夠發揮極大優勢。</p></td>
-<td><p>英文代號pin、ping</p></td>
+<td><p>英文代號：pin、ping</p></td>
 <td><p>平民無法知道任何其他人的職業，除非那個人已死亡，或者是屁孩身分被曝光</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/醫生" title="wikilink">醫生</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一位目標（包含自己）進行施針，若該晚目標同時遭到死亡時則目標會當場復活。但若目標沒遭殺害則目標會累積一次空針，累積兩次空針則會死亡，包括醫生自己。滿18人之遊戲房中，只有4次施針機會。</p></td>
-<td><p>英文代號E</p></td>
+<td><p>英文代號：E</p></td>
 <td><p>只限遭殺手殺害、被特工拖累、被牛仔射死、被綁匪撕票、被煙霧彈焗死、被縱火狂魔燒死、被藤魔纏死、被夢魔利爪穿心，若是被狙擊手爆頭、恐怖份子炸死、天煞射殺、喪屍攻擊、驅魔人石化、死靈攻擊（無論幾魂）則無法救活</p>
 <p>針可以被特工擋/天煞吸收</p></td>
 </tr>
@@ -101,7 +93,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/牛仔" title="wikilink">牛仔</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一名目標進行射殺，但需用俄羅斯輪盤的方式決定攻擊效果。</p></td>
-<td><p>代稱：牛、C</p></td>
+<td><p>代稱：牛</p></td>
 <td><p>擊中：抽中一般子彈，目標在夜晚結束時會死亡。</p>
 <p>落空：抽不中子彈，攻擊終止。</p>
 <p>Bonus：抽中特別子彈，目標帶有擊中效果的同時也能選擇下一個目標繼續轉動輪盤來攻擊。但若特別子彈同一晚被抽中兩次時則會變質，抽中變質的子彈則會在對話欄顯示“Oops”並將自己及另外2個目標射死。</p>
@@ -118,21 +110,21 @@
 <td><p><a href="../Page/喪屍.md" title="wikilink">喪屍</a></p></td>
 <td><p>第三方陣營</p></td>
 <td><p>晚上能選擇一名目標進行啃咬，被咬的的目標在下次夜晚身分會變為喪屍，若同時被兩隻喪屍咬到則該晚直接變為喪屍，同時被三隻以上的喪屍咬到則目標直接死亡。若咬到其他喪屍則自己會反中喪屍毒死亡。 白天時說話會在句末加上Err...、呀呀...或是其他狀聲詞；遺言則會被亂拆或加上狀聲詞。喪屍無法與其他的同類溝通。</p></td>
-<td><p>代稱：殭屍、殭</p></td>
+<td><p>代稱：殭屍、殭、屍、CC</p></td>
 <td><p>存活玩家中有一半以上的人變成喪屍，喪屍陣營獨自勝出。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/防暴警察" title="wikilink">防暴警察</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一名目標投擲煙霧彈，被煙霧包圍後的目標無法成為其他玩家的目標也無法進行任何動作，被投擲兩次煙霧彈的目標會即時死亡。滿18人之遊戲房中，只有4次投擲煙霧彈機會。</p></td>
-<td></td>
+<td><p>代稱：煙</p></td>
 <td><p>煙霧彈可以被特工擋/天煞吸收</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/縱火狂" title="wikilink">縱火狂魔</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>晚上能選擇一名目標投擲汽油瓶，或將被投擲過汽油瓶的所有目標同時被燒死。</p></td>
-<td></td>
+<td><p>代稱：燒、火</p></td>
 <td><p>每個晚上只能選擇其中一種能力發動；汽油彈可以被特工擋/天煞吸收</p></td>
 </tr>
 <tr class="odd">
@@ -143,7 +135,7 @@
 <li>吸收狀態：對目標進行保護，吸收目標所受到的攻擊，若成功吸收攻擊則會轉變為充能狀態，不能吸收對自己的攻擊。</li>
 <li>充能狀態：對目標進行射殺，目標會即時死亡，攻擊後會轉變為吸收狀態。</li>
 </ul></td>
-<td></td>
+<td><p>代稱：天</p></td>
 <td><p>無法吸收恐怖攻擊、死靈4魂攻擊、縱火狂魔點火、藤魔種子發芽、喪屍攻擊、綁匪撕票</p></td>
 </tr>
 <tr class="even">
@@ -162,21 +154,21 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/屁孩" title="wikilink">屁孩</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>與平民一樣晚上無法行動；但在被投票表決而死亡時會公開身份並原地復活，不過身分會被公開也會喪失一切能力；復活後也會失去投票權。</p></td>
-<td></td>
+<td><p>代稱：屁</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/惡夢" title="wikilink">夢魔</a></p></td>
 <td><p>殺手陣營</p></td>
 <td><p>晚上能選擇一名目標進行攻擊，若目標是平民或屁孩則會即時死亡；若不是則攻擊會失效，但能得知目標的身分。</p></td>
-<td><p>代稱：雞爪、雞</p></td>
+<td><p>代稱：雞爪、雞、夢、爪</p></td>
 <td><p>夢中的殺人狂</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/驅魔.md" title="wikilink">驅魔</a>人</p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一名目標進行石化攻擊，攻擊的目標會即時死亡，若目標為殺手陣營則可繼續選擇下個攻擊目標，最多攻擊三次。 攻擊到殺手陣營以外的目標則攻擊終止，若擊中警察或平民時會使往後的最多攻擊次數會減少一次（擊中喪屍不會減少）；也就是三次攻擊錯誤後就會喪失一切能力。</p></td>
-<td><p>代稱：驅、區</p></td>
+<td><p>代稱：驅、區、7</p></td>
 <td><p>妖魔的剋星</p></td>
 </tr>
 <tr class="even">
@@ -188,14 +180,14 @@
 <li>3條靈魂（撕裂之爪）：目標會即時死亡。</li>
 <li>4條靈魂（亡魂深淵）：目標會即時死亡，且無法留下遺言。</li>
 </ul></td>
-<td><p>代稱：羊</p></td>
+<td><p>代稱：羊、40</p></td>
 <td><p>操控死魂之力的法師</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/靈能力.md" title="wikilink">除靈師</a></p></td>
 <td><p>警察或平民陣營</p></td>
 <td><p>晚上能選擇一名目標進行淨化，被淨化後的目標無法進行任何動作，且能讓警察和殺手施加在淨化目標身上的投票效果失效；若是死靈被淨化則身上累積的靈魂數會歸零。</p></td>
-<td><p>代稱：光</p></td>
+<td><p>代稱：光、除、0</p></td>
 <td><p>淨化世間一切惡靈</p></td>
 </tr>
 <tr class="even">

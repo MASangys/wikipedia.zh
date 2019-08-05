@@ -28,7 +28,7 @@
   - [走路痛](https://www.facebook.com/walktone/)的Facebook專頁
   - [走路痛](https://www.instagram.com/walktone.tw/)的Instagram帳戶
 
-[Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:1988年出生](https://zh.wikipedia.org/wiki/Category:1988年出生 "wikilink")
+[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:1988年出生](https://zh.wikipedia.org/wiki/Category:1988年出生 "wikilink")
 
 1.
 

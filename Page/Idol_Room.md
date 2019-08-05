@@ -466,63 +466,63 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 </tbody>
 </table>
 
-| 集數                                                  | 放送日期   | 嘉賓                                                                                                                   | 最終評級                                                | | Idol 999團員 | | 備註                            |
-| --------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------ | ------------------------------- |
-| 52                                                  | 5月28日  | [WINNER](../Page/WINNER.md "wikilink")<sup>2nd</sup>                                                                 | [姜昇潤](../Page/姜昇潤.md "wikilink")                    | F            | **姜昇潤**                         |
-| [宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink") | AA     |                                                                                                                      |                                                     |              |                                 |
-| [金秦禹](../Page/金秦禹.md "wikilink")                    | C      |                                                                                                                      |                                                     |              |                                 |
-| [李昇勳](../Page/李昇勳.md "wikilink")                    | AAC    |                                                                                                                      |                                                     |              |                                 |
-| 53                                                  | 6月4日   | [fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")<sup>2nd</sup>                                         | |李瑞淵                                                | AAA          | **白知憲**                         |
-| 盧知宣                                                 | A      |                                                                                                                      |                                                     |              |                                 |
-| 李賽綸                                                 | B      |                                                                                                                      |                                                     |              |                                 |
-| 張圭悧                                                 | A      |                                                                                                                      |                                                     |              |                                 |
-| 李采映                                                 | F      |                                                                                                                      |                                                     |              |                                 |
-| 朴池原                                                 | B      |                                                                                                                      |                                                     |              |                                 |
-| 李娜炅                                                 | A      |                                                                                                                      |                                                     |              |                                 |
-| 白知憲                                                 | AA     |                                                                                                                      |                                                     |              |                                 |
-| 宋河英                                                 | AAAAA  |                                                                                                                      |                                                     |              |                                 |
-| 54                                                  | 6月11日  | [李遐怡](../Page/李遐怡.md "wikilink")<sup>1st</sup>、Paul Kim<sup>1st</sup>、[鄭承煥](../Page/鄭承煥.md "wikilink")<sup>1st</sup> | |李遐怡                                                | AAAAA        | **鄭承煥**                         |
-| Paul Kim                                            | ABBBF  |                                                                                                                      |                                                     |              |                                 |
-| 鄭承煥                                                 | AB     |                                                                                                                      |                                                     |              |                                 |
-| 55                                                  | 6月18日  | [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")<sup>1st</sup>                                                    | 全昭彌                                                 | AA           | **全昭彌**                         |
-| 56                                                  | 6月25日  | [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>2nd</sup>                                                         | [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink") | AAF          | **瑟琪**                          |
-| [瑟琪](../Page/瑟琪.md "wikilink")                      | FFF    |                                                                                                                      |                                                     |              |                                 |
-| [Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink") | AF     |                                                                                                                      |                                                     |              |                                 |
-| [Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")     | AFFFFF |                                                                                                                      |                                                     |              |                                 |
-| [Yeri](../Page/Yeri.md "wikilink")                  | AAAF   |                                                                                                                      |                                                     |              |                                 |
-| 57                                                  | 7月2日   | [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>3rd</sup>                                                               | [Sowon](../Page/Sowon.md "wikilink")                | AA           | **Sowon**                       |
-| [Yerin](../Page/Yerin.md "wikilink")                | AA     |                                                                                                                      |                                                     |              |                                 |
-| [Eunha](../Page/Eunha.md "wikilink")                | AFFFFF |                                                                                                                      |                                                     |              |                                 |
-| [Yuju](../Page/Yuju.md "wikilink")                  | AA     |                                                                                                                      |                                                     |              |                                 |
-| [SinB](../Page/SinB.md "wikilink")                  | AAB    |                                                                                                                      |                                                     |              |                                 |
-| [Umji](../Page/Umji.md "wikilink")                  | AA     |                                                                                                                      |                                                     |              |                                 |
-| 58                                                  | 7月9日   | [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")<sup>1st</sup>([水晶男孩](../Page/水晶男孩.md "wikilink")）                | 殷志源                                                 | AAAAAAF      | **殷志源**                         |
-| 59                                                  | 7月16日  | [NATURE](../Page/Nature_\(組合\).md "wikilink")<sup>1st</sup>                                                          | Aurora                                              | A            | **Aurora**                      |
-| Saebom                                              | AB     |                                                                                                                      |                                                     |              |                                 |
-| Lu                                                  | AFF    |                                                                                                                      |                                                     |              |                                 |
-| Chaebin                                             | AAF    |                                                                                                                      |                                                     |              |                                 |
-| Haru                                                | AAA    |                                                                                                                      |                                                     |              |                                 |
-| Loha                                                | AAA    |                                                                                                                      |                                                     |              |                                 |
-| Uchae                                               | AABF   |                                                                                                                      |                                                     |              |                                 |
-| Sunshine                                            | AB     |                                                                                                                      |                                                     |              |                                 |
-| 60                                                  | 7月23日  | [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")<sup>1st</sup>                                        | [仁俊](../Page/黄仁俊.md "wikilink")                     | AFFF         | [辰樂](../Page/鍾辰樂.md "wikilink") |
-| [Jeno](../Page/Jeno.md "wikilink")                  | AF     |                                                                                                                      |                                                     |              |                                 |
-| 渽民                                                  | AAACFF |                                                                                                                      |                                                     |              |                                 |
-| [辰樂](../Page/鍾辰樂.md "wikilink")                     | AAAAFF |                                                                                                                      |                                                     |              |                                 |
-| [志晟](https://zh.wikipedia.org/wiki/朴志晟 "wikilink")  | AAAF   |                                                                                                                      |                                                     |              |                                 |
-| 61                                                  | 7月30日  | [ITZY](../Page/ITZY.md "wikilink")<sup>1st</sup>                                                                     | [禮志](../Page/黃禮志.md "wikilink")                     |              |                                 |
-| [Lia](../Page/崔智秀.md "wikilink")                    |        |                                                                                                                      |                                                     |              |                                 |
-| [留眞](../Page/申留眞.md "wikilink")                     |        |                                                                                                                      |                                                     |              |                                 |
-| [彩領](../Page/李彩領.md "wikilink")                     |        |                                                                                                                      |                                                     |              |                                 |
-| [有娜](../Page/申有娜.md "wikilink")                     |        |                                                                                                                      |                                                     |              |                                 |
-| 62                                                  | 8月6日   | [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")<sup>2nd</sup>                                      | [孝定](../Page/孝定.md "wikilink")                      |              |                                 |
-| Mimi                                                |        |                                                                                                                      |                                                     |              |                                 |
-| [YooA](../Page/YooA.md "wikilink")                  |        |                                                                                                                      |                                                     |              |                                 |
-| 勝熙                                                  |        |                                                                                                                      |                                                     |              |                                 |
-| [祉呼](../Page/祉呼.md "wikilink")                      |        |                                                                                                                      |                                                     |              |                                 |
-| Binnie                                              |        |                                                                                                                      |                                                     |              |                                 |
-| [Arin](../Page/Arin.md "wikilink")                  |        |                                                                                                                      |                                                     |              |                                 |
-|                                                     |        |                                                                                                                      |                                                     |              |                                 |
+| 集數                                                  | 放送日期      | 嘉賓                                                                                                                   | 最終評級                                                | | Idol 999團員 | | 備註                            |
+| --------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------ | ------------------------------- |
+| 52                                                  | 5月28日     | [WINNER](../Page/WINNER.md "wikilink")<sup>2nd</sup>                                                                 | [姜昇潤](../Page/姜昇潤.md "wikilink")                    | F            | **姜昇潤**                         |
+| [宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink") | AA        |                                                                                                                      |                                                     |              |                                 |
+| [金秦禹](../Page/金秦禹.md "wikilink")                    | C         |                                                                                                                      |                                                     |              |                                 |
+| [李昇勳](../Page/李昇勳.md "wikilink")                    | AAC       |                                                                                                                      |                                                     |              |                                 |
+| 53                                                  | 6月4日      | [fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")<sup>2nd</sup>                                         | |李瑞淵                                                | AAA          | **白知憲**                         |
+| 盧知宣                                                 | A         |                                                                                                                      |                                                     |              |                                 |
+| 李賽綸                                                 | B         |                                                                                                                      |                                                     |              |                                 |
+| 張圭悧                                                 | A         |                                                                                                                      |                                                     |              |                                 |
+| 李采映                                                 | F         |                                                                                                                      |                                                     |              |                                 |
+| 朴池原                                                 | B         |                                                                                                                      |                                                     |              |                                 |
+| 李娜炅                                                 | A         |                                                                                                                      |                                                     |              |                                 |
+| 白知憲                                                 | AA        |                                                                                                                      |                                                     |              |                                 |
+| 宋河英                                                 | AAAAA     |                                                                                                                      |                                                     |              |                                 |
+| 54                                                  | 6月11日     | [李遐怡](../Page/李遐怡.md "wikilink")<sup>1st</sup>、Paul Kim<sup>1st</sup>、[鄭承煥](../Page/鄭承煥.md "wikilink")<sup>1st</sup> | |李遐怡                                                | AAAAA        | **鄭承煥**                         |
+| Paul Kim                                            | ABBBF     |                                                                                                                      |                                                     |              |                                 |
+| 鄭承煥                                                 | AB        |                                                                                                                      |                                                     |              |                                 |
+| 55                                                  | 6月18日     | [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")<sup>1st</sup>                                                    | 全昭彌                                                 | AA           | **全昭彌**                         |
+| 56                                                  | 6月25日     | [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>2nd</sup>                                                         | [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink") | AAF          | **瑟琪**                          |
+| [瑟琪](../Page/瑟琪.md "wikilink")                      | FFF       |                                                                                                                      |                                                     |              |                                 |
+| [Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink") | AF        |                                                                                                                      |                                                     |              |                                 |
+| [Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")     | AFFFFF    |                                                                                                                      |                                                     |              |                                 |
+| [Yeri](../Page/Yeri.md "wikilink")                  | AAAF      |                                                                                                                      |                                                     |              |                                 |
+| 57                                                  | 7月2日      | [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>3rd</sup>                                                               | [Sowon](../Page/Sowon.md "wikilink")                | AA           | **Sowon**                       |
+| [Yerin](../Page/Yerin.md "wikilink")                | AA        |                                                                                                                      |                                                     |              |                                 |
+| [Eunha](../Page/Eunha.md "wikilink")                | AFFFFF    |                                                                                                                      |                                                     |              |                                 |
+| [Yuju](../Page/Yuju.md "wikilink")                  | AA        |                                                                                                                      |                                                     |              |                                 |
+| [SinB](../Page/SinB.md "wikilink")                  | AAB       |                                                                                                                      |                                                     |              |                                 |
+| [Umji](../Page/Umji.md "wikilink")                  | AA        |                                                                                                                      |                                                     |              |                                 |
+| 58                                                  | 7月9日      | [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")<sup>1st</sup>([水晶男孩](../Page/水晶男孩.md "wikilink")）                | 殷志源                                                 | AAAAAAF      | **殷志源**                         |
+| 59                                                  | 7月16日     | [NATURE](../Page/Nature_\(組合\).md "wikilink")<sup>1st</sup>                                                          | Aurora                                              | A            | **Aurora**                      |
+| Saebom                                              | AB        |                                                                                                                      |                                                     |              |                                 |
+| Lu                                                  | AFF       |                                                                                                                      |                                                     |              |                                 |
+| Chaebin                                             | AAF       |                                                                                                                      |                                                     |              |                                 |
+| Haru                                                | AAA       |                                                                                                                      |                                                     |              |                                 |
+| Loha                                                | AAA       |                                                                                                                      |                                                     |              |                                 |
+| Uchae                                               | AABF      |                                                                                                                      |                                                     |              |                                 |
+| Sunshine                                            | AB        |                                                                                                                      |                                                     |              |                                 |
+| 60                                                  | 7月23日     | [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")<sup>1st</sup>                                        | [仁俊](../Page/黄仁俊.md "wikilink")                     | AFFF         | [辰樂](../Page/鍾辰樂.md "wikilink") |
+| [Jeno](../Page/Jeno.md "wikilink")                  | AF        |                                                                                                                      |                                                     |              |                                 |
+| 渽民                                                  | AAACFF    |                                                                                                                      |                                                     |              |                                 |
+| [辰樂](../Page/鍾辰樂.md "wikilink")                     | AAAAFF    |                                                                                                                      |                                                     |              |                                 |
+| [志晟](https://zh.wikipedia.org/wiki/朴志晟 "wikilink")  | AAAF      |                                                                                                                      |                                                     |              |                                 |
+| 61                                                  | 7月30日     | [ITZY](../Page/ITZY.md "wikilink")<sup>1st</sup>                                                                     | [禮志](../Page/黃禮志.md "wikilink")                     | AAAAAAF      | **彩領**                          |
+| [Lia](../Page/崔智秀.md "wikilink")                    | FFFFFFF   |                                                                                                                      |                                                     |              |                                 |
+| [留眞](../Page/申留眞.md "wikilink")                     | AAF       |                                                                                                                      |                                                     |              |                                 |
+| [彩領](../Page/李彩領.md "wikilink")                     | AAA       |                                                                                                                      |                                                     |              |                                 |
+| [有娜](../Page/申有娜.md "wikilink")                     | FFFFFFFFF |                                                                                                                      |                                                     |              |                                 |
+| 62                                                  | 8月6日      | [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")<sup>2nd</sup>                                      | [孝定](../Page/孝定.md "wikilink")                      |              |                                 |
+| Mimi                                                |           |                                                                                                                      |                                                     |              |                                 |
+| [YooA](../Page/YooA.md "wikilink")                  |           |                                                                                                                      |                                                     |              |                                 |
+| 勝熙                                                  |           |                                                                                                                      |                                                     |              |                                 |
+| [祉呼](../Page/祉呼.md "wikilink")                      |           |                                                                                                                      |                                                     |              |                                 |
+| Binnie                                              |           |                                                                                                                      |                                                     |              |                                 |
+| [Arin](../Page/Arin.md "wikilink")                  |           |                                                                                                                      |                                                     |              |                                 |
+|                                                     |           |                                                                                                                      |                                                     |              |                                 |
 
 ## Idol 999
 
@@ -554,74 +554,351 @@ KOKORO<sup>1st</sup>、粼粼<sup>1st</sup>(<a href="../Page/Cherry_Bullet.md" t
 
 ### 2018年
 
-| 集數                                    | 播出日期    |
-| ------------------------------------- | ------- |
-| [AGB收視率](../Page/AC尼尔森.md "wikilink") | TNmS收視率 |
-| 1                                     | 5月12日   |
-| 2                                     | 5月19日   |
-| 3                                     | 5月26日   |
-| 4                                     | 6月2日    |
-| 5                                     | 6月9日    |
-| 6                                     | 6月16日   |
-| 7                                     | 6月23日   |
-| 8                                     | 6月30日   |
-| 9                                     | 7月3日    |
-| 10                                    | 7月10日   |
-| 11                                    | 7月17日   |
-| 12                                    | 7月24日   |
-| 13                                    | 7月31日   |
-| 14                                    | 8月7日    |
-| 15                                    | 8月14日   |
-| 16                                    | 8月21日   |
-| 17                                    | 8月28日   |
-| 18                                    | 9月4日    |
-| 19                                    | 9月11日   |
-| 20                                    | 9月18日   |
-| 21                                    | 10月2日   |
-| 22                                    | 10月9日   |
-| 23                                    | 10月16日  |
-| 24                                    | 10月23日  |
-| 25                                    | 10月30日  |
-| 26                                    | 11月6日   |
-| 27                                    | 11月13日  |
-| 28                                    | 11月20日  |
-| 29                                    | 11月27日  |
-| 30                                    | 12月4日   |
-| 31                                    | 12月11日  |
-| 32                                    | 12月18日  |
-| 33                                    | 12月25日  |
-|                                       |         |
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期</p></th>
+<th><p><a href="../Page/AC尼尔森.md" title="wikilink">AGB收視率</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>5月12日</p></td>
+<td><p>0.895%</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>5月19日</p></td>
+<td><p>0.702%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>5月26日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>6月2日</p></td>
+<td><p>0.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>6月9日</p></td>
+<td><p>0.5%</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>6月16日</p></td>
+<td><p>0.6%</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>6月23日</p></td>
+<td><p>0.502%</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>6月30日</p></td>
+<td><p>0.6%</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>7月3日</p></td>
+<td><p>0.784%</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>7月10日</p></td>
+<td><p>0.695%</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>7月17日</p></td>
+<td><p>0.526%</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>7月24日</p></td>
+<td><p>0.829%</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>7月31日</p></td>
+<td><p>0.672%</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>8月7日</p></td>
+<td><p>0.770%</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>8月14日</p></td>
+<td><p>0.801%</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>8月21日</p></td>
+<td><p>0.816%</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>8月28日</p></td>
+<td><p>0.522%</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>9月4日</p></td>
+<td><p>0.665%</p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>9月11日</p></td>
+<td><p>0.553%</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>9月18日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>10月2日</p></td>
+<td><p>0.608%</p></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>10月9日</p></td>
+<td><p>0.649%</p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>10月16日</p></td>
+<td><p>0.612%</p></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>10月23日</p></td>
+<td><p>0.499%</p></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>10月30日</p></td>
+<td><p>0.714%</p></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>11月6日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>11月13日</p></td>
+<td><p>0.528%</p></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p>11月20日</p></td>
+<td><p>0.691%</p></td>
+</tr>
+<tr class="odd">
+<td><p>29</p></td>
+<td><p>11月27日</p></td>
+<td><p>0.958%</p></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p>12月4日</p></td>
+<td><p>0.682%</p></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
+<td><p>12月11日</p></td>
+<td><p>0.5%</p></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
+<td><p>12月18日</p></td>
+<td><p>0.876%</p></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>12月25日</p></td>
+<td><p>0.863%</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 2019年
 
-| 集數                                    | 播出日期    |
-| ------------------------------------- | ------- |
-| [AGB收視率](../Page/AC尼尔森.md "wikilink") | TNmS收視率 |
-| 34                                    | 1月8日    |
-| 35                                    | 1月15日   |
-| 36                                    | 1月22日   |
-| 37                                    | 1月29日   |
-| 38                                    | 2月12日   |
-| 39                                    | 2月19日   |
-| 40                                    | 3月5日    |
-| 41                                    | 3月12日   |
-| 42                                    | 3月19日   |
-| 43                                    | 3月26日   |
-| 44                                    | 4月2日    |
-| 45                                    | 4月9日    |
-| 46                                    | 4月16日   |
-| 47                                    | 4月23日   |
-| 48                                    | 4月30日   |
-| 49                                    | 5月7日    |
-| 50                                    | 5月14日   |
-| 51                                    | 5月21日   |
-| 52                                    | 5月28日   |
-| 53                                    | 6月4日    |
-| 54                                    | 6月11日   |
-| 55                                    | 6月18日   |
-| 56                                    | 6月25日   |
-| 57                                    | 7月2日    |
-| 58                                    | 7月9日    |
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期</p></th>
+<th><p><a href="../Page/AC尼尔森.md" title="wikilink">AGB收視率</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>34</p></td>
+<td><p>1月8日</p></td>
+<td><p>0.797%</p></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
+<td><p>1月15日</p></td>
+<td><p>0.726%</p></td>
+</tr>
+<tr class="odd">
+<td><p>36</p></td>
+<td><p>1月22日</p></td>
+<td><p>0.879%</p></td>
+</tr>
+<tr class="even">
+<td><p>37</p></td>
+<td><p>1月29日</p></td>
+<td><p>0.633%</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+<td><p>2月12日</p></td>
+<td><p>0.520%</p></td>
+</tr>
+<tr class="even">
+<td><p>39</p></td>
+<td><p>2月19日</p></td>
+<td><p>0.485%</p></td>
+</tr>
+<tr class="odd">
+<td><p>40</p></td>
+<td><p>3月5日</p></td>
+<td><p>0.470%</p></td>
+</tr>
+<tr class="even">
+<td><p>41</p></td>
+<td><p>3月12日</p></td>
+<td><p>0.700%</p></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
+<td><p>3月19日</p></td>
+<td><p>0.597%</p></td>
+</tr>
+<tr class="even">
+<td><p>43</p></td>
+<td><p>3月26日</p></td>
+<td><p>0.4%</p></td>
+</tr>
+<tr class="odd">
+<td><p>44</p></td>
+<td><p>4月2日</p></td>
+<td><p>0.642%</p></td>
+</tr>
+<tr class="even">
+<td><p>45</p></td>
+<td><p>4月9日</p></td>
+<td><p>0.783%</p></td>
+</tr>
+<tr class="odd">
+<td><p>46</p></td>
+<td><p>4月16日</p></td>
+<td><p>0.587%</p></td>
+</tr>
+<tr class="even">
+<td><p>47</p></td>
+<td><p>4月23日</p></td>
+<td><p>0.689%</p></td>
+</tr>
+<tr class="odd">
+<td><p>48</p></td>
+<td><p>4月30日</p></td>
+<td><p>0.788%</p></td>
+</tr>
+<tr class="even">
+<td><p>49</p></td>
+<td><p>5月7日</p></td>
+<td><p>0.4%</p></td>
+</tr>
+<tr class="odd">
+<td><p>50</p></td>
+<td><p>5月14日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>51</p></td>
+<td><p>5月21日</p></td>
+<td><p>0.379%</p></td>
+</tr>
+<tr class="odd">
+<td><p>52</p></td>
+<td><p>5月28日</p></td>
+<td><p>0.492%</p></td>
+</tr>
+<tr class="even">
+<td><p>53</p></td>
+<td><p>6月4日</p></td>
+<td><p>0.381%</p></td>
+</tr>
+<tr class="odd">
+<td><p>54</p></td>
+<td><p>6月11日</p></td>
+<td><p>0.482%</p></td>
+</tr>
+<tr class="even">
+<td><p>55</p></td>
+<td><p>6月18日</p></td>
+<td><p>0.491%</p></td>
+</tr>
+<tr class="odd">
+<td><p>56</p></td>
+<td><p>6月25日</p></td>
+<td><p>0.751%</p></td>
+</tr>
+<tr class="even">
+<td><p>57</p></td>
+<td><p>7月2日</p></td>
+<td><p>0.436%</p></td>
+</tr>
+<tr class="odd">
+<td><p>58</p></td>
+<td><p>7月9日</p></td>
+<td><p>0.785%</p></td>
+</tr>
+<tr class="even">
+<td><p>59</p></td>
+<td><p>7月16日</p></td>
+<td><p>0.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p>60</p></td>
+<td><p>7月23日</p></td>
+<td><p>0.359%</p></td>
+</tr>
+<tr class="even">
+<td><p>61</p></td>
+<td><p>7月30日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>62</p></td>
+<td><p>8月6日</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 備註
 

@@ -20,7 +20,7 @@ MC耀宗出生於[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，父
 
 2018年，正式將公司搬遷至南港，目前旗下正式簽約的歌手有iM(蚊子&曼萍)及Boiii P。
 
-2019年，受邀演出「狂放電2019臺北最High新年城」跨年演唱會。
+2019年，受邀演出「狂放電2019臺北最High新年城」跨年演唱會。\[4\]
 
 ## 發行作品
 
@@ -31,14 +31,6 @@ MC耀宗出生於[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，父
   - 2018年：《RI$ER上昇者》專輯
 
 ## 参考资料
-
-[台灣饒舌先驅MC耀宗：玩音樂就是要拼到掛(太報)](https://news.housefun.com.tw/jill/article/39276776190)
-
-[台北跨年狂放電！MC耀宗上陣獻唱(YAHOO新聞)](https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E8%B7%A8%E5%B9%B4%E7%8B%82%E6%94%BE%E9%9B%BB-mc%E8%80%80%E5%AE%97%E4%B8%8A%E9%99%A3%E7%8D%BB%E5%94%B1-115900978.html)
-
-[ＭＣ耀宗的音樂空間很嘻哈！想寫歌嗆聲高房價(好房網)](https://news.housefun.com.tw/jill/article/39276776190)
-
-[TW RAP/MC耀宗新歌《放風》MV上架(OVERDOPE)](http://overdope.com/archives/384376)
 
 ## 外部連結
 
@@ -51,3 +43,4 @@ MC耀宗出生於[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，父
 1.
 2.  [TW RAP / 台灣饒舌「最火 TOP.10」 第一名高達 6 千萬人聽過！](http://overdope.com/archives/355696)
 3.
+4.

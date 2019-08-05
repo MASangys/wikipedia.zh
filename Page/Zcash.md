@@ -1,12 +1,12 @@
-**Zcash**是一種[去中心化](https://zh.wikipedia.org/wiki/去中心化 "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[互联网](../Page/互联网.md "wikilink")[货币](https://zh.wikipedia.org/wiki/货币 "wikilink")。与[比特币](../Page/比特币.md "wikilink")相比，其更注重于隐私\[1\]\[2\]，以及对交易透明的可控性\[3\]\[4\]。具体体现为：公有[区块链](../Page/区块链.md "wikilink")加密了交易记录中的发送人、接收人、交易量；用户可裁量选择是否向其他人提供查看[密钥](../Page/密钥.md "wikilink")，仅拥有此密钥的人才能看到交易的内容\[5\]。
+**Zcash**，也称大零币，代码：ZEC，\[1\]是一種[去中心化](https://zh.wikipedia.org/wiki/去中心化 "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[互联网](../Page/互联网.md "wikilink")[货币](https://zh.wikipedia.org/wiki/货币 "wikilink")。与[比特币](../Page/比特币.md "wikilink")相比，其更注重于隐私\[2\]\[3\]，以及对交易透明的可控性\[4\]\[5\]。具体体现为：公有[区块链](../Page/区块链.md "wikilink")加密了交易记录中的发送人、接收人、交易量；用户可裁量选择是否向其他人提供查看[密钥](../Page/密钥.md "wikilink")，仅拥有此密钥的人才能看到交易的内容\[6\]。
 
 ## 历史
 
-从2014年开始，Zcash协议（即“Zerocash”）在原开发者团队与[约翰·霍普金斯大学](../Page/约翰·霍普金斯大学.md "wikilink")、[麻省理工学院](../Page/麻省理工学院.md "wikilink")、[以色列理工学院](../Page/以色列理工学院.md "wikilink")和[特拉维夫大学的各个小组的协作下](https://zh.wikipedia.org/wiki/特拉维夫大学 "wikilink")，逐步提高了原协议（即 “”）的效率和匿名性\[6\]。
+从2014年开始，Zcash协议（即“Zerocash”）在原开发者团队与[约翰·霍普金斯大学](../Page/约翰·霍普金斯大学.md "wikilink")、[麻省理工学院](../Page/麻省理工学院.md "wikilink")、[以色列理工学院](../Page/以色列理工学院.md "wikilink")和[特拉维夫大学的各个小组的协作下](https://zh.wikipedia.org/wiki/特拉维夫大学 "wikilink")，逐步提高了原协议（即 “”）的效率和匿名性\[7\]。
 
 2016年1月20日，Zcash项目作为Zerocash项目的应用，正式由[首席执行官](../Page/首席执行官.md "wikilink")宣布。
 
-Zcash 1.0.0正式版已定于2016年10月28日发布\[7\]\[8\]，同时也将开放挖矿。
+Zcash 1.0.0正式版已定于2016年10月28日发布\[8\]\[9\]，同时也将开放挖矿。
 
 ## 参考资料
 
@@ -42,3 +42,4 @@ Zcash 1.0.0正式版已定于2016年10月28日发布\[7\]\[8\]，同时也将开
 6.
 7.
 8.
+9.

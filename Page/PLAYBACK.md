@@ -14,14 +14,16 @@ PLAYBACK在2015年6月25日发布同名单曲专辑《Playback》。三个月后
 
 ## 成员资料
 
-| 藝名      | 本名 | 出生日期/出生地      |
-| ------- | -- | ------------- |
-| 原文      | 諺文 | 羅馬拼音          |
-| Yunji   | 윤지 | Lee Yun-ji    |
-| Hayoung | 하영 | Lee Ha-young  |
-| Yujin   | 유진 | So Yu-jin     |
-| Woolim  | 우림 | Hwang Woo-lim |
-| Eunjin  | 은진 | Ma Eun-jin    |
+  - **粗體**隊長
+
+| 藝名         | 本名     | 出生日期/出生地          |
+| ---------- | ------ | ----------------- |
+| 原文         | 諺文     | 羅馬拼音              |
+| Yunji      | 윤지     | Lee Yun-ji        |
+| Hayoung    | 하영     | Lee Ha-young      |
+| Yujin      | 유진     | So Yu-jin         |
+| **Woolim** | **우림** | **Hwang Woo-lim** |
+| Eunjin     | 은진     | Ma Eun-jin        |
 
 ## 音乐作品
 

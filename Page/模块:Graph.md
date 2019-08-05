@@ -1,6 +1,8 @@
-\-- ATTENTION: Please edit this code at <https://de.wikipedia.org/wiki/Modul:Graph> -- This way all wiki languages can stay in sync. Thank you\! -- -- Version History (_PLEASE UPDATE when modifying anything_): -- 2018-10-13 Fix browser color-inversion issues via \#54595d per [mw:Template:<Graph:PageViews>](https://zh.wikipedia.org/wiki/mw:Template:Graph:PageViews "wikilink") -- 2018-08-26 Use user-defined order for stacked charts -- 2018-02-11 Force usage of explicitely provided x minimum and/or maximum values, rotation of x labels -- 2017-08-09 Add showSymbols param to show symbols on line charts -- 2017-08-08 Added showSymbols param to show symbols on line charts -- 2016-05-16 Added encodeTitleForPath() to help all path-based APIs graphs like pageviews -- 2016-03-20 Allow omitted data for charts, labels for line charts with string (ordinal) scale at point location -- 2016-01-28 For maps, always use wikiraw:// protocol. <https://> will be disabled soon.
+\-- ATTENTION: Please edit this code at <https://de.wikipedia.org/wiki/Modul:Graph> -- This way all wiki languages can stay in sync. Thank you\! -- -- Version History: -- 2016-01-09 _PLEASE UPDATE when modifying anything_ -- 2016-01-28 For maps, always use wikiraw:// protocol. <https://> will be disabled soon. -- 2016-03-20 Allow omitted data for charts, labels for line charts with string (ordinal) scale at point location -- 2016-05-16 Added encodeTitleForPath() to help all path-based APIs graphs like pageviews
 
 local p = {}
+
+local baseMapDirectory = "Module:Graph/"
 
 local function numericArray(csv)
 
@@ -10,9 +12,7 @@ local function numericArray(csv)
 `   local result = {}`
 `   local isInteger = true`
 `   for i = 1, #list do`
-`       if list[i] == "" then`
-`           result[i] = nil`
-`       else`
+`       if list[i] == "" then result[i] = nil else`
 `           result[i] = tonumber(list[i])`
 `           if not result[i] then return end`
 `           if isInteger then`
@@ -44,6 +44,164 @@ local function copy(x)
 `   else`
 `       return x`
 `   end`
+
+end
+
+function p.map(frame)
+
+`   -- map path data for geographic objects`
+`   local basemap = frame.args.basemap or "WorldMap-iso2.json"`
+`   -- scaling factor`
+`   local scale = tonumber(frame.args.scale) or 100`
+`   -- map projection, see `<https://github.com/mbostock/d3/wiki/Geo-Projections>
+`   local projection = frame.args.projection or "equirectangular"`
+`   -- defaultValue for geographic objects without data`
+`   local defaultValue = frame.args.defaultValue`
+`   local scaleType = frame.args.scaleType or "linear"`
+`   -- minimaler Wertebereich (nur für numerische Daten)`
+`   local domainMin = tonumber(frame.args.domainMin)`
+`   -- maximaler Wertebereich (nur für numerische Daten)`
+`   local domainMax = tonumber(frame.args.domainMax)`
+`   -- Farbwerte der Farbskala (nur für numerische Daten)`
+`   local colorScale = frame.args.colorScale or "category10"`
+`   -- show legend`
+`   local legend = frame.args.legend`
+`   -- format JSON output`
+`   local formatJson = frame.args.formatjson`
+
+`   -- map data are key-value pairs: keys are non-lowercase strings (ideally ISO codes) which need to match the "id" values of the map path data`
+`   local values = {}`
+`   local isNumbers = nil`
+`   for name, value in pairs(frame.args) do`
+`       if mw.ustring.find(name, "^[^%l]+$") then`
+`           if isNumbers == nil then isNumbers = tonumber(value) end`
+`           local data = { id = name, v = value }`
+`           if isNumbers then data.v = tonumber(data.v) end`
+`           table.insert(values, data)`
+`       end`
+`   end`
+`   if not defaultValue then`
+`       if isNumbers then defaultValue = 0 else defaultValue = "silver" end`
+`   end`
+
+`   -- create highlight scale`
+`   local scales`
+`   if isNumbers then`
+`       if colorScale == "category10" or colorScale == "category20" then else colorScale = stringArray(colorScale) end`
+`       scales =`
+`       {`
+`           {`
+`               name = "color",`
+`               type = scaleType,`
+`               domain = { data = "highlights", field = "v" },`
+`               range = colorScale,`
+`               nice = true`
+`           }`
+`       }`
+`       if domainMin then scales[1].domainMin = domainMin end`
+`       if domainMax then scales[1].domainMax = domainMax end`
+
+`       local exponent = string.match(scaleType, "pow%s+(%d+%.?%d+)") -- check for exponent`
+`       if exponent then`
+`           scales[1].type = "pow"`
+`           scales[1].exponent = exponent`
+`       end`
+`   end`
+
+`   -- create legend`
+`   if legend then`
+`       legend =`
+`       {`
+`           {`
+`               fill = "color",`
+`               offset = 120,`
+`               properties =`
+`               {`
+`                   title = { fontSize = { value = 14 } },`
+`                   labels = { fontSize = { value = 12 } },`
+`                   legend =`
+`                   {`
+`                       stroke = { value = "silver" },`
+`                       strokeWidth = { value = 1.5 }`
+`                   }`
+`               }`
+`           }`
+`       }`
+`   end`
+
+`   -- get map url`
+`   local basemapUrl`
+`   if (string.sub(basemap, 1, 10) == "wikiraw://") then`
+`       basemapUrl = basemap`
+`   else`
+`       -- if not a (supported) url look for a colon as namespace separator. If none prepend default map directory name.`
+`       if not string.find(basemap, ":") then basemap = baseMapDirectory .. basemap end`
+`       basemapUrl = "wikiraw:///" .. mw.uri.encode(mw.title.new(basemap).prefixedText, "PATH")`
+`   end`
+
+`   local output =`
+`   {`
+`       version = 2,`
+`       width = 1,  -- generic value as output size depends solely on map size and scaling factor`
+`       height = 1, -- ditto`
+`       data =`
+`       {`
+`           {`
+`               -- data source for the highlights`
+`               name = "highlights",`
+`               values = values`
+`           },`
+`           {`
+`               -- data source for map paths data`
+`               name = "countries",`
+`               url = basemapUrl,`
+`               format = { type = "topojson", feature = "countries" },`
+`               transform =`
+`               {`
+`                   {`
+`                       -- geographic transformation ("geopath") of map paths data`
+`                       type = "geopath",`
+`                       value = "data",         -- data source`
+`                       scale = scale,`
+`                       translate = { 0, 0 },`
+`                       projection = projection`
+`                   },`
+`                   {`
+`                       -- join ("zip") of mutiple data source: here map paths data and highlights`
+`                       type = "lookup",`
+`                       keys = { "id" },      -- key for map paths data`
+`                       on = "highlights",    -- name of highlight data source`
+`                       onKey = "id",         -- key for highlight data source`
+`                       as = { "zipped" },    -- name of resulting table`
+`                       default = { v = defaultValue } -- default value for geographic objects that could not be joined`
+`                   }`
+`               }`
+`           }`
+`       },`
+`       marks =`
+`       {`
+`           -- output markings (map paths and highlights)`
+`           {`
+`               type = "path",`
+`               from = { data = "countries" },`
+`               properties =`
+`               {`
+`                   enter = { path = { field = "layout_path" } },`
+`                   update = { fill = { field = "zipped.v" } },`
+`                   hover = { fill = { value = "darkgrey" } }`
+`               }`
+`           }`
+`       },`
+`       legends = legend`
+`   }`
+`   if (scales) then`
+`       output.scales = scales`
+`       output.marks[1].properties.update.fill.scale = "color"`
+`   end`
+
+`   local flags`
+`   if formatJson then flags = mw.text.JSON_PRETTY end`
+`   return mw.text.jsonEncode(output, flags)`
 
 end
 
@@ -162,10 +320,7 @@ local function getXScale(chartType, stacked, xMin, xMax, xType)
 `   }`
 `   if xMin then xscale.domainMin = xMin end`
 `   if xMax then xscale.domainMax = xMax end`
-`   if xMin or xMax then`
-`       xscale.clamp = true`
-`       xscale.nice = false`
-`   end`
+`   if xMin or xMax then xscale.clamp = true end`
 `   if chartType == "rect" then`
 `       xscale.type = "ordinal"`
 `       if not stacked then xscale.padding = 0.2 end -- pad each bar group`
@@ -388,7 +543,7 @@ local function getChartVisualisation(chartType, stacked, colorField, yCount, inn
 `       }`
 `       -- for stacked charts apply a stacking transformation`
 `       if stacked then`
-`           table.insert(chartvis.from.transform, 1, { type = "stack", groupby = { "x" }, sortby = { "-_id" }, field = "y" } )`
+`           table.insert(chartvis.from.transform, 1, { type = "stack", groupby = { "x" }, sortby = { "series" }, field = "y" } )`
 `       else`
 `           -- for bar charts the series are side-by-side grouped by x`
 `           if chartType == "rect" then`
@@ -502,30 +657,7 @@ local function getTextMarks(chartvis, chartType, outerRadius, scales, radiusScal
 
 end
 
-local function getSymbolMarks(chartvis)
-
-`   local symbolmarks =`
-`   {`
-`       type = "symbol",`
-`       properties =`
-`       {`
-`           enter = `
-`           {`
-`               x = { scale = "x", field = "x" },`
-`               y = { scale = "y", field = "y" },`
-`               fill = { scale = "color", field = "series" },`
-`               shape = "circle",`
-`               size = { value = 49 }`
-`           }`
-`       }`
-`   }`
-`   if chartvis.from then symbolmarks.from = copy(chartvis.from) end`
-
-`   return symbolmarks`
-
-end
-
-local function getAxes(xTitle, xAxisFormat, xAxisAngle, xType, yTitle, yAxisFormat, yType, chartType)
+local function getAxes(xTitle, xAxisFormat, xType, yTitle, yAxisFormat, yType, chartType)
 
 `   local xAxis, yAxis`
 `   if chartType ~= "pie" then`
@@ -537,54 +669,7 @@ local function getAxes(xTitle, xAxisFormat, xAxisAngle, xType, yTitle, yAxisForm
 `           title = xTitle,`
 `           format = xAxisFormat`
 `       }`
-`       if xAxisAngle then`
-`           local xAxisAlign`
-`           if xAxisAngle < 0 then xAxisAlign = "right" else xAxisAlign = "left" end`
-`           xAxis.properties =`
-`           {`
-`               title =`
-`               {`
-`                   fill = { value = "#54595d" }`
-`               },`
-`               labels =`
-`               {`
-`                   angle = { value = xAxisAngle },`
-`                   align = { value = xAxisAlign },`
-`                   fill = { value = "#54595d" }`
-`               },`
-`               ticks =`
-`               {`
-`                   stroke = { value = "#54595d" }`
-`               },`
-`               axis =`
-`               {`
-`                   stroke = { value = "#54595d" },`
-`                   strokeWidth = { value = 2 }`
-`               }`
-`           }`
-`       else`
-`           xAxis.properties =`
-`           {`
-`               title =`
-`               {`
-`                   fill = { value = "#54595d" }`
-`               },`
-`               labels =`
-`               {`
-`                   fill = { value = "#54595d" }`
-`               },`
-`               ticks =`
-`               {`
-`                   stroke = { value = "#54595d" }`
-`               },`
-`               axis =`
-`               {`
-`                   stroke = { value = "#54595d" },`
-`                   strokeWidth = { value = 2 }`
-`               }`
-`           }`
-`       end`
-`       `
+
 `       if yType == "integer" and not yAxisFormat then yAxisFormat = "d" end`
 `       yAxis =`
 `       {`
@@ -592,30 +677,6 @@ local function getAxes(xTitle, xAxisFormat, xAxisAngle, xType, yTitle, yAxisForm
 `           scale = "y",`
 `           title = yTitle,`
 `           format = yAxisFormat`
-`       }`
-`       yAxis.properties =`
-`       {`
-`           title =`
-`           {`
-`               fill = { value = "#54595d" }`
-`           },`
-`           labels =`
-`           {`
-`               fill = { value = "#54595d" }`
-`           },`
-`           ticks =`
-`           {`
-`               stroke = { value = "#54595d" }`
-`           },`
-`           axis =`
-`           {`
-`               stroke = { value = "#54595d" },`
-`               strokeWidth = { value = 2 }`
-`           },`
-`           grid =`
-`           {`
-`               stroke = { value = "#54595d" }`
-`           }`
 `       }`
 `   end`
 
@@ -666,9 +727,6 @@ function p.chart(frame)
 `   -- override x and y axis label formatting`
 `   local xAxisFormat = frame.args.xAxisFormat`
 `   local yAxisFormat = frame.args.yAxisFormat`
-`   local xAxisAngle = tonumber(frame.args.xAxisAngle)`
-`   -- for line chart, show a symbol at each data point`
-`   local showSymbols = frame.args.showSymbols`
 `   -- show legend with given title`
 `   local legendTitle = frame.args.legend`
 `   -- show values as text`
@@ -755,43 +813,30 @@ function p.chart(frame)
 
 `   -- create chart markings`
 `   local chartvis = getChartVisualisation(chartType, stacked, colorField, #y, innerRadius, outerRadius, linewidth, alphaScale, radiusScale, interpolate)`
-`   local marks = { chartvis }`
-`   `
+
 `   -- text marks`
+`   local textmarks`
 `   if showValues then`
 `       if type(showValues) == "string" then -- deserialize as table`
-`           local keyValues = mw.text.split(showValues, "%s*,%s*")`
-`           showValues = {}`
-`           for _, kv in ipairs(keyValues) do`
-`               local key, value = mw.ustring.match(kv, "^%s*(.-)%s*:%s*(.-)%s*$")`
-`               if key then showValues[key] = value end`
-`           end`
+`       local keyValues = mw.text.split(showValues, "%s*,%s*")`
+`       showValues = {}`
+`       for _, kv in ipairs(keyValues) do`
+`           local key, value = mw.ustring.match(kv, "^%s*(.-)%s*:%s*(.-)%s*$")`
+`           if key then showValues[key] = value end`
+`       end`
 `       end`
 
 `       local chartmarks = chartvis`
 `       if chartmarks.marks then chartmarks = chartmarks.marks[1] end`
-`       local textmarks = getTextMarks(chartmarks, chartType, outerRadius, scales, radiusScale, yType, showValues)`
+`       textmarks = getTextMarks(chartmarks, chartType, outerRadius, scales, radiusScale, yType, showValues)`
 `       if chartmarks ~= chartvis then`
 `           table.insert(chartvis.marks, textmarks)`
-`       else`
-`           table.insert(marks, textmarks)`
-`       end`
-`   end`
-
-`   -- symbol marks`
-`   if chartType == "line" and showSymbols then`
-`       local chartmarks = chartvis`
-`       if chartmarks.marks then chartmarks = chartmarks.marks[1] end`
-`       local symbolmarks = getSymbolMarks(chartmarks)`
-`       if chartmarks ~= chartvis then`
-`           table.insert(chartvis.marks, symbolmarks)`
-`       else`
-`           table.insert(marks, symbolmarks)`
+`           textmarks = nil`
 `       end`
 `   end`
 
 `   -- axes`
-`   local xAxis, yAxis = getAxes(xTitle, xAxisFormat, xAxisAngle, xType, yTitle, yAxisFormat, yType, chartType)`
+`   local xAxis, yAxis = getAxes(xTitle, xAxisFormat, xType, yTitle, yAxisFormat, yType, chartType)`
 
 `   -- legend`
 `   local legend`
@@ -806,13 +851,19 @@ function p.chart(frame)
 `       data = { data, stats },`
 `       scales = scales,`
 `       axes = { xAxis, yAxis },`
-`       marks = marks,`
+`       marks = { chartvis, textmarks },`
 `       legends = { legend }`
 `   }`
 
 `   local flags`
 `   if formatJson then flags = mw.text.JSON_PRETTY end`
 `   return mw.text.jsonEncode(output, flags)`
+
+end
+
+function p.mapWrapper(frame)
+
+`   return p.map(frame:getParent())`
 
 end
 
@@ -824,7 +875,7 @@ end
 
 \-- Given an HTML-encoded title as first argument, e.g. one produced with , -- convert it into a properly URL path-encoded string -- This function is critical for any graph that uses path-based APIs, e.g. PageViews graph function p.encodeTitleForPath(frame)
 
-`   return mw.uri.encode(mw.text.decode(mw.text.trim(frame.args[1]) ), 'PATH')`
+`   return mw.uri.encode(mw.text.decode(mw.text.trim(frame.args[1])), 'PATH')`
 
 end
 

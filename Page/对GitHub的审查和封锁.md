@@ -111,6 +111,10 @@ GitHub堅信攻擊者的目的在於迫使GitHub刪除特定類型的內容。\[
 
 [October_9,_2016_GitHub_Turkey_block.jpg](https://zh.wikipedia.org/wiki/File:October_9,_2016_GitHub_Turkey_block.jpg "fig:October_9,_2016_GitHub_Turkey_block.jpg") 2016年10月8日，在土耳其黑客组织声称入侵土耳其能源部长、[埃尔多安女婿](https://zh.wikipedia.org/wiki/埃尔多安 "wikilink")之后，命令互联网服务供应商封锁几个[檔案分享](../Page/檔案分享.md "wikilink")网站，包括、[Microsoft OneDrive](../Page/OneDrive.md "wikilink")、[Google Drive](../Page/Google雲端硬碟.md "wikilink")\[48\]。觀測網路審查情況的注意到GitHub於次日上午被封鎖，並且相關的封鎖令被信息与通信技术署逐步發佈出來\[49\]。封鎖導致依賴GitHub的軟體（例如[Font Awesome](../Page/Font_Awesome.md "wikilink")、等）無法正常運行。Startup Istanbul活動的參與者也表達了對基礎設施可用性的不滿。在土耳其，\#GitHub[標籤成為了Twitter的熱門標籤之一](../Page/主題標籤.md "wikilink")。按照的說法，RedHack組織蓄意通過多種服務來傳播郵件內容，期待土耳其政府將其封鎖，以造成[史翠珊效應](https://zh.wikipedia.org/wiki/史翠珊效應 "wikilink")。18小時後GitHub被解封\[50\]。
 
+## 美国
+
+2019年5月起，美国的出口管理条例开始对开源代码进行管制\[51\]。
+
 ## 注释
 
 ## 参考文献
@@ -208,3 +212,5 @@ GitHub堅信攻擊者的目的在於迫使GitHub刪除特定類型的內容。\[
 
 49.
 50.
+
+51.

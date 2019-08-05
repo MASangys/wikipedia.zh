@@ -161,7 +161,7 @@
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/White_Wind_(Mamamoo迷你專輯)" title="wikilink">White Wind</a></p></td>
+<td><p><a href="../Page/White_Wind.md" title="wikilink">White Wind</a></p></td>
 <td><ul>
 <li>發行日期：2019年3月14日</li>
 <li>製作公司：<a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></li>
@@ -427,10 +427,11 @@
 </tr>
 <tr class="even">
 <td><p>Everyday</p></td>
-<td></td>
+<td><p>27</p></td>
 <td></td>
 <td><ul>
-<li>韓國：—</li>
+<li>韓國：—<ref>Cumulative sales for "Everyday":</li>
+<li><p></ref></p></li>
 </ul></td>
 <td><p>BIO優格廣告歌曲</p></td>
 </tr>
@@ -464,6 +465,25 @@
 <li><p></ref></p></li>
 </ul></td>
 <td><p>BLUE;S |-! colspan="6" | <small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>GOGOBEBE</p></td>
+<td><p>2</p></td>
+<td></td>
+<td><ul>
+<li>韓國：—<ref>Cumulative sales for "GOGOBEBE":</li>
+<li><p></ref></p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Gleam</p></td>
+<td></td>
+<td></td>
+<td><ul>
+<li>韓國：—</li>
+</ul></td>
+<td><p>DAVICH眼鏡廣告曲</p></td>
 </tr>
 </tbody>
 </table>
@@ -719,18 +739,20 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>꿈 속의 그대</p></td>
-<td></td>
+<td><p>52</p></td>
 <td><ul>
-<li>韓國：</li>
+<li>韓國：<ref>Cumulative sales for "꿈 속의 그대":</li>
+<li><p></ref></p></li>
 </ul></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a>《<a href="https://zh.wikipedia.org/wiki/金裝律師_(韓國電視劇)" title="wikilink">金裝律師</a>》OST</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>WOW</p></td>
-<td></td>
+<td><p>46</p></td>
 <td><ul>
-<li>韓國：</li>
+<li>韓國：<ref>Cumulative sales for "WOW":</li>
+<li><p></ref></p></li>
 </ul></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="../Page/請輸入檢索詞WWW.md" title="wikilink">請輸入檢索詞WWW</a>》OST</p></td>
 </tr>
@@ -938,6 +960,7 @@
 | 하늘하늘 (청순)                                                                                                                                         | \[54\]                                   |                     |                          |
 | Wind flower                                                                                                                                       | \[55\]                                   |                     |                          |
 | 2019年                                                                                                                                             | 고고베베(gogobebe)                           | {{tsl|en|Zanybros   | Zanybros}}               |
+| 다 빛이나 (Gleam)                                                                                                                                     |                                          | \[56\]              |                          |
 |                                                                                                                                                   |                                          |                     |                          |
 
 ## 外部連結
@@ -1045,3 +1068,5 @@
 54.
 
 55.
+
+56.

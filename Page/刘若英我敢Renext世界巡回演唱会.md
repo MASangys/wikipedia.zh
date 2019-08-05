@@ -43,7 +43,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國大陸</a></p></td>
 <td><p><a href="../Page/泉州市.md" title="wikilink">泉州</a></p></td>
 <td><p>泉州海峽體育中心</p></td>
 <td></td>
@@ -83,7 +83,7 @@
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>11月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國大陸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭州市" title="wikilink">鄭州</a></p></td>
 <td><p>鄭州國際會展中心</p></td>
 <td></td>
@@ -139,7 +139,7 @@
 <tr class="even">
 <td><p>14</p></td>
 <td><p>1月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國大陸</a></p></td>
 <td><p><a href="../Page/杭州市.md" title="wikilink">杭州</a></p></td>
 <td><p>黃龍體育中心體育館</p></td>
 <td></td>
@@ -163,7 +163,7 @@
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>4月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國大陸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛陽市" title="wikilink">洛陽</a></p></td>
 <td><p>洛陽新區體育館</p></td>
 <td></td>
@@ -195,7 +195,7 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>6月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國大陸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/瀋陽市" title="wikilink">瀋陽</a></p></td>
 <td><p>遼寧省體育中心</p></td>
 <td></td>
@@ -275,7 +275,7 @@
 <tr class="odd">
 <td><p>31</p></td>
 <td><p>10月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國大陸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海</a></p></td>
 <td><p>梅賽德斯奔馳文化中心</p></td>
 <td><p><a href="../Page/蔡昇晏.md" title="wikilink">五月天瑪莎</a></p></td>
@@ -339,7 +339,7 @@
 <tr class="odd">
 <td><p>39</p></td>
 <td><p>12月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國大陸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紹興市" title="wikilink">紹興</a></p></td>
 <td><p>紹興奧林匹克體育中心</p></td>
 <td></td>
@@ -427,7 +427,7 @@
 <tr class="even">
 <td><p>49</p></td>
 <td><p>4月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中國大陸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/襄陽市" title="wikilink">襄陽</a></p></td>
 <td><p>襄陽市體育館</p></td>
 <td></td>

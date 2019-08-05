@@ -166,7 +166,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>9月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/婑斌" title="wikilink">婑斌</a> (<a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a>)、、、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/婑斌" title="wikilink">婑斌</a> (<a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a>)、<a href="../Page/梁定原.md" title="wikilink">梁定原</a>、、</p></td>
 <td><p>“拥有曲线，Hot Body！”特辑</p></td>
 <td></td>
 </tr>
@@ -201,7 +201,7 @@
 <tr class="even">
 <td><p>14</p></td>
 <td><p>10月11日</p></td>
-<td><p>最强撒娇明星TOP3：<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">鄭采妍</a> (<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>)、、<a href="../Page/金旻載.md" title="wikilink">金旻載</a><br />
+<td><p>最强撒娇明星TOP3：<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">鄭采妍</a> (<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>)、<a href="../Page/梁定原.md" title="wikilink">梁定原</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a><br />
 最强爱情老手TOP3：<a href="https://zh.wikipedia.org/wiki/鄭珍云" title="wikilink">鄭珍云</a> (<a href="../Page/2AM.md" title="wikilink">2AM</a>)、、<a href="https://zh.wikipedia.org/wiki/朴成真" title="wikilink">朴成真</a><br />
 性感明星TOP3：<a href="https://zh.wikipedia.org/wiki/倞利" title="wikilink">倞利</a> (<a href="https://zh.wikipedia.org/wiki/Nine_Muses" title="wikilink">Nine Muses</a>)、<a href="https://zh.wikipedia.org/wiki/婑斌" title="wikilink">婑斌</a> (<a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a>)、</p></td>
 <td><p>“VS一等功臣TOP10”特辑</p></td>
@@ -252,7 +252,7 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>11月29日</p></td>
-<td><p><a href="../Page/安胜浩.md" title="wikilink">Tony An</a>、<a href="../Page/孫昊永.md" title="wikilink">孫昊永</a> (<a href="../Page/G.o.d.md" title="wikilink">G.o.d</a>)、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a> (<a href="https://zh.wikipedia.org/wiki/Untouchable_(南韓組合)" title="wikilink">Untouchable</a>)、、</p></td>
+<td><p><a href="../Page/安胜浩.md" title="wikilink">Tony An</a>、<a href="../Page/孫昊永.md" title="wikilink">孫昊永</a> (<a href="../Page/G.o.d.md" title="wikilink">G.o.d</a>)、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a> (<a href="https://zh.wikipedia.org/wiki/Untouchable_(南韓組合)" title="wikilink">Untouchable</a>)、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、</p></td>
 <td><p>“母爱诱发者！抱抱我！”特辑</p></td>
 <td></td>
 </tr>
@@ -490,7 +490,7 @@
 <tr class="even">
 <td><p>53</p></td>
 <td><p>7月11日</p></td>
-<td><p><a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、<a href="../Page/Don_Spike.md" title="wikilink">Don Spike</a>、<a href="../Page/姜敏赫.md" title="wikilink">姜敏赫</a>、、<a href="https://zh.wikipedia.org/wiki/朴宰正" title="wikilink">朴宰正</a></p></td>
+<td><p><a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、<a href="../Page/Don_Spike.md" title="wikilink">Don Spike</a>、<a href="../Page/姜敏赫.md" title="wikilink">姜敏赫</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、<a href="https://zh.wikipedia.org/wiki/朴宰正" title="wikilink">朴宰正</a></p></td>
 <td><p>“我们没有明天！Youlo &amp; Golo”特辑</p></td>
 <td></td>
 </tr>
@@ -686,7 +686,7 @@
 <tr class="even">
 <td><p>79</p></td>
 <td><p>1月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜成勳" title="wikilink">姜成勳</a> (<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、、<a href="../Page/姜均成.md" title="wikilink">姜均成</a> ()、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜成勳" title="wikilink">姜成勳</a> (<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、<a href="../Page/姜均成.md" title="wikilink">姜均成</a> ()、</p></td>
 <td><p>「VS介·我·朋」特輯</p></td>
 <td></td>
 </tr>
@@ -863,7 +863,7 @@
 <tr class="odd">
 <td><p>101</p></td>
 <td><p>7月10日</p></td>
-<td><p>、、、、</p></td>
+<td><p>、、、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1076,6 +1076,13 @@
 <td><p><a href="../Page/高耀太.md" title="wikilink">高耀太</a>、<a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a></p></td>
 <td></td>
 <td><p><a href="../Page/KARD.md" title="wikilink">KARD</a>作特別嘉賓。</p></td>
+</tr>
+<tr class="even">
+<td><p>151</p></td>
+<td><p>7月2日</p></td>
+<td><p><a href="../Page/朴春.md" title="wikilink">Bom</a>、<a href="https://zh.wikipedia.org/wiki/宥斌" title="wikilink">宥斌</a>、<a href="../Page/孫知賢.md" title="wikilink">智賢</a>、<a href="../Page/宋枝恩.md" title="wikilink">宋枝恩</a></p></td>
+<td><p>2代組合特輯 請回答2009</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

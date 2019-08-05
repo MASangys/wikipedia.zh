@@ -45,11 +45,9 @@ DAY6首場世界巡迴演唱會「Youth」由6月22日至24日首爾站次揭開
 
 11月22日，在官方Facebook上公布了回歸概念照，宣布Day6將會在10日發行新專輯《[Remember Us : Youth Part 2](../Page/Remember_Us_:_Youth_Part_2.md "wikilink")》。11月25日，公開新專輯的曲目，主打曲為《행복했던 날들이었다》。11月27日，開始陸續公開個成員個人照。12月10日韓國時間6時，公布新曲MV，並在當晚9時進行了回歸V Live 直播。
 
-### 2019年：韓語迷你四輯《The Book of Us : Gravity》、第二次世界巡回演唱會、Day6初一位
+### 2019年：韓語迷你四輯《The Book of Us : Gravity》、第二次世界巡回演唱會、首次獲得一位
 
-6月30日.官方在Facebook 上公佈了回歸概念照,宣佈Day6將會在7月15日發行新專輯《The Book of Us : Gravity》\[54\]。7月1日, 公開第二次世界巡回演唱會《DAY6 WORLD TOUR 'GRAVITY'》的地點和日期。翌日,公開新專輯的曲目,並宣佈主打曲為《Time of Our Life(한 페이지가 될 수 있게)》。7月4日,開始陸續公開個成員和團體個人照。7月15日韓國時間6時,公佈新曲MV,並在當晚韓國時間8時進行了回歸V Live 直播。新曲發佈後立刻上了韓國兩大音源網站 Bugs 和 NAVER Music 的即時榜冠軍,並登上了新加坡、泰國、菲律賓、俄羅斯⋯⋯等海外 10 個國家的 iTunes 專輯榜首。\[55\]
-
-7月24日，Day6於Show Champion以《Time of Our Life(한 페이지가 될 수 있게)獲得首個一位。
+6月30日.官方在Facebook 上公佈了回歸概念照,宣佈Day6將會在7月15日發行新專輯《The Book of Us : Gravity》\[54\]。7月1日, 公開第二次世界巡回演唱會《DAY6 WORLD TOUR 'GRAVITY'》的地點和日期。翌日,公開新專輯的曲目,並宣佈主打曲為《Time of Our Life(한 페이지가 될 수 있게)》。7月4日,開始陸續公開個成員和團體個人照。7月15日韓國時間6時,公佈新曲MV,並在當晚韓國時間8時進行了回歸V Live 直播。新曲發佈後立刻上了韓國兩大音源網站 Bugs 和 NAVER Music 的即時榜冠軍,並登上了新加坡、泰國、菲律賓、俄羅斯⋯⋯等海外 10 個國家的 iTunes 專輯榜首。\[55\] 在打歌期間，DAY6於Show Champion以《Time of Our Life(한 페이지가 될 수 있게)連續兩周獲得一位，並在M Countdown上再次獲得一位。
 
 ## 成員資料
 
@@ -652,7 +650,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 | 2019年3月30日－31日                               | 首爾站       | [奧林匹克公園手球競技場](../Page/SK奧林匹克手球館.md "wikilink") |
 | DAY6 WORLD TOUR 'GRAVITY'                    |           |                                                |
 | 2019年8月9-11日                                 | 首爾站       | Jamsil Indoor Stadium                          |
-| 2019年8月24日                                   | 大邱站       |                                                |
+| 2019年8月24日                                   | 大邱站       | EXCO 5F Convention Hall                        |
 | 2019年9月7-8日                                  | 釜山站       |                                                |
 | 2019年9月12-13日                                | 紐約站       |                                                |
 | 2019年9月15日                                   | 波士頓站      |                                                |
@@ -799,7 +797,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M2_X_Genie音乐奖" title="wikilink">M2 X Genie音乐奖</a></p></td>
-<td><p>2019年</p></td>
+<td><p>2019年8月1日</p></td>
 <td><p>最佳乐團</p></td>
 <td><p>DAY6</p></td>
 <td></td>
@@ -823,7 +821,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 </tr>
 <tr class="odd">
 <td><p>年度歌曲</p></td>
-<td><p><a href="../Page/Remember_Us_:_Youth_Part_2.md" title="wikilink">days gone by</a></p></td>
+<td><p><a href="../Page/Remember_Us_:_Youth_Part_2.md" title="wikilink">Days Gone By</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -831,6 +829,14 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 </tr>
 </tbody>
 </table>
+
+### 音樂節目獎項
+
+| 年份    | 日期                                                    | 電視台                                                                    | 節目名稱                                                 | 獲獎歌曲              | 排名 |
+| ----- | ----------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------- | ----------------- | -- |
+| 2019年 | 7月24日                                                 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")                      | [Show Champion](../Page/Show_Champion.md "wikilink") | Time For Our Page | 1位 |
+| 7月25日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                                                      |                   |    |
+| 7月31日 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")     | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                                                      |                   |    |
 
 ## 韓國主要音樂節目排行榜
 
@@ -979,7 +985,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <tr class="odd">
 <td><p>Time of Our Life(한 페이지가 될 수 있게)</p></td>
 <td><p><a href="../Page/The_Book_of_Us_:_Gravity.md" title="wikilink">The Book of Us : Gravity</a></p></td>
-<td><p>*</p></td>
+<td><p>*<strong>1</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>

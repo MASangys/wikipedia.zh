@@ -242,8 +242,8 @@
 （中心成員：高倉萌香）
 
   - Team B / NGT48 Team NIII：柏木由紀
-  - NGT48 Team NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")、小熊倫実、[加藤美南](../Page/加藤美南.md "wikilink")、北原里英、佐藤杏樹、菅原里子、高倉萌香、太野彩香、中井莉加、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、長谷川玲奈、[本間日陽](../Page/本間日陽.md "wikilink")、村雲颯香、山口真帆、山田野絵
-  - NGT48研究生：大滝友梨亚、角尤利娅、日下部愛菜、清司麗菜、髙橋真生、中村歩加、奈良未遥、西村菜那子、水澤彩佳、[宮島亚弥](https://zh.wikipedia.org/wiki/宮島亚弥 "wikilink")
+  - NGT48 Team NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")、小熊倫實、[加藤美南](../Page/加藤美南.md "wikilink")、北原里英、佐藤杏樹、菅原里子、高倉萌香、太野彩香、中井莉加、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、[長谷川玲奈](https://zh.wikipedia.org/wiki/長谷川玲奈 "wikilink")、[本間日陽](../Page/本間日陽.md "wikilink")、村雲颯香、[山口真帆](../Page/山口真帆.md "wikilink")、山田野繪
+  - NGT48研究生：大瀧友梨亞、角尤利娅、日下部愛菜、清司麗菜、髙橋真生、中村歩加、奈良未遥、西村菜那子、水澤彩佳、[宮島亚弥](https://zh.wikipedia.org/wiki/宮島亚弥 "wikilink")
 
 ### 你最愛的 是誰？
 

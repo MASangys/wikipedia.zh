@@ -738,7 +738,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Having You</p></td>
+<td><p>You In My Heart</p></td>
 <td><p>64</p></td>
 <td><ul>
 <li>南韓: 20,934+</li>
@@ -892,7 +892,7 @@
 </ul></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
-<td></td>
+<td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -990,8 +990,8 @@
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
 <li>發行公司：Warner Music Japan</li>
 </ul></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1002,7 +1002,7 @@
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
 <li>發行公司：Warner Music Japan</li>
 </ul></td>
-<td></td>
+<td><p>1</p></td>
 <td></td>
 <td></td>
 </tr>

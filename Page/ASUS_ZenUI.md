@@ -30,7 +30,8 @@ ZenUI並不限使用於[ASUS旗下產品](https://zh.wikipedia.org/wiki/ASUS "wi
   - [Asus ZenFone Zoom](https://zh.wikipedia.org/wiki/ZenFone_Zoom "wikilink")(ZX551ML)
   - [Asus ZenFone 2 Laser](../Page/華碩ZenFone_2.md "wikilink")(ZE550KL/ZE551KL/ZE500KG/ZE500KL)
   - [Asus ZenFone Selfie](../Page/華碩ZenFone_Selfie.md "wikilink")(ZD551KL)
-  - Asus ZenFone 2 deluxe special edition (ZE551ML)
+  - [Asus ZenFone 2 deluxe](../Page/華碩ZenFone_2.md "wikilink") (ZE551ML)
+  - [Asus ZenFone 2 deluxe special edition](../Page/華碩ZenFone_2.md "wikilink") (ZE551ML)
   - Asus ZenFone Go (ZC500TG/ZC451TG/ZB450KL/ZB452KG)
   - Asus ZenFone Go TV (ZB551KL)
   - Asus ZenFone Max (ZC550KL)
@@ -50,9 +51,10 @@ ZenUI並不限使用於[ASUS旗下產品](https://zh.wikipedia.org/wiki/ASUS "wi
   - Asus ZenFone Max Plus (M1) (ZB570TL)
   - [Asus ZenFone 5Q/ Lite](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2018\) "wikilink")(ZC600KL)
   - [Asus ZenFone 5/5z](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2018\) "wikilink")(ZE620KL/ZS620KL)
+  - Asus ZenFone Live (L2) (ZA550KL)
   - [Asus ZenFone 6](../Page/華碩ZenFone_6_\(2019\).md "wikilink")(ZS630KL)
   - [ASUS ROG Phone](../Page/ASUS_ROG_Phone.md "wikilink") (ZS600KL)
-  - ASUS ROG PHONE II
+  - [ASUS ROG Phone II](https://zh.wikipedia.org/wiki/ASUS_ROG_Phone_II "wikilink") (ZS660KL)
 
 ### 平板系列
 

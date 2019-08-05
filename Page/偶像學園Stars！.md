@@ -69,47 +69,47 @@
 
 ### 增設舞台
 
-| 舞台類型          | 舞台種類                              | BGM                 | 追加時期  |
-| ------------- | --------------------------------- | ------------------- | ----- |
-| Live          | Cute                              | アイカツ☆ステップ\!         | 1彈    |
-| スタートライン\!     |                                   |                     |       |
-| みつばちのキス       |                                   |                     |       |
-| Cute & Cool   | POPCORN DREAMING♪                 | 2彈                  |       |
-| Sexy          | Summer Tears Diary                |                     |       |
-| Cool          | 1,2,Sing for You\!                | 3彈                  |       |
-| Dreaming bird |                                   |                     |       |
-| Pop           | アニマルカーニバル                         | 4彈                  |       |
-| Cute          | STARDOM\!                         | 星之翼1彈               |       |
-| Cool          | 荒野の奇跡                             |                     |       |
-| Sexy          | Forever Dream                     | 星之翼2彈               |       |
-| Cool          | Miracle Force Magic 〜ローラ Ver〜.    |                     |       |
-| Pop           | ダイヤモンドハッピー （前作《偶像活動》中的「Soleil」舞台） | 星之翼3彈               |       |
-| Cute          | 森のひかりのピルエット                       | 星之翼4彈               |       |
-| Cute          | SHINING LINE＊ （前作《偶像活動》中的舞台）      | 星之翼4彈               |       |
-| Cute          | MUSIC of DREAM                    | \!                  | 星之翼5彈 |
-| Sexy          | The only sun light                | 星之翼5彈               |       |
-| Drama         | Cool                              | Miracle Force Magic | 1彈    |
-| Cute          | トキメキララン☆                          | 2彈                  |       |
-| Sexy          | ドリームステージ☆                         | 3彈                  |       |
-| Cool          | キミをロックオン                          | 4彈                  |       |
-| Dance         | Cute                              | ハートがスキ♡ップ           | 1彈    |
-| Cool          | Dancing Days                      | 2彈                  |       |
-| Pop           | One Step                          | 3彈                  |       |
-| Cute          | スタージェット\!                         | 4彈                  |       |
-| Pop           | Bon Bon Voyage\!                  | 星之翼1彈               |       |
-| Cute          | ハッピー☆パンチ                          | 星之翼2彈               |       |
-| Pop           | ネバギバ☆                             | 星之翼3彈               |       |
-| Cute          | STARDOM\!（7人舞台）                   |                     |       |
-| Fashion Show  | Cool                              | Episode Solo        | 1彈    |
-| Sexy          | 未来トランジット                          |                     |       |
-| Pop           | 8月のマリーナ                           | 2彈                  |       |
-| Cute          | So Beautiful Story                | 3彈                  |       |
-| Sexy          | TSU・BO・MI 〜鮮やかな未来へ〜               | 4彈                  |       |
-| Pop           | おねがいメリー                           | 星之翼1彈               |       |
-| Sexy          | MAKEOVER♡MAKEUP                   | 星之翼2彈               |       |
-| Cute          | Message of a Rainbow              | 星之翼3彈               |       |
-| Cool          | 裸足のルネサンス                          | 星之翼4彈               |       |
-|               |                                   |                     |       |
+| 舞台類型          | 舞台種類                             | BGM                 | 追加時期  |
+| ------------- | -------------------------------- | ------------------- | ----- |
+| Live          | Cute                             | アイカツ☆ステップ\!         | 1彈    |
+| スタートライン\!     |                                  |                     |       |
+| みつばちのキス       |                                  |                     |       |
+| Cute & Cool   | POPCORN DREAMING♪                | 2彈                  |       |
+| Sexy          | Summer Tears Diary               |                     |       |
+| Cool          | 1,2,Sing for You\!               | 3彈                  |       |
+| Dreaming bird |                                  |                     |       |
+| Pop           | アニマルカーニバル                        | 4彈                  |       |
+| Cute          | STARDOM\!                        | 星之翼1彈               |       |
+| Cool          | 荒野の奇跡                            |                     |       |
+| Sexy          | Forever Dream                    | 星之翼2彈               |       |
+| Cool          | Miracle Force Magic 〜ローラ Ver〜.   |                     |       |
+| Pop           | ダイヤモンドハッピー（前作《偶像活動》中的「Soleil」舞台） | 星之翼3彈               |       |
+| Cute          | 森のひかりのピルエット                      | 星之翼4彈               |       |
+| Cute          | SHINING LINE＊（前作《偶像活動》中的舞台）      | 星之翼4彈               |       |
+| Cute          | MUSIC of DREAM                   | \!                  | 星之翼5彈 |
+| Sexy          | The only sun light               | 星之翼5彈               |       |
+| Drama         | Cool                             | Miracle Force Magic | 1彈    |
+| Cute          | トキメキララン☆                         | 2彈                  |       |
+| Sexy          | ドリームステージ☆                        | 3彈                  |       |
+| Cool          | キミをロックオン                         | 4彈                  |       |
+| Dance         | Cute                             | ハートがスキ♡ップ           | 1彈    |
+| Cool          | Dancing Days                     | 2彈                  |       |
+| Pop           | One Step                         | 3彈                  |       |
+| Cute          | スタージェット\!                        | 4彈                  |       |
+| Pop           | Bon Bon Voyage\!                 | 星之翼1彈               |       |
+| Cute          | ハッピー☆パンチ                         | 星之翼2彈               |       |
+| Pop           | ネバギバ☆                            | 星之翼3彈               |       |
+| Cute          | STARDOM\!                        |                     |       |
+| Fashion Show  | Cool                             | Episode Solo        | 1彈    |
+| Sexy          | 未来トランジット                         |                     |       |
+| Pop           | 8月のマリーナ                          | 2彈                  |       |
+| Cute          | So Beautiful Story               | 3彈                  |       |
+| Sexy          | TSU・BO・MI 〜鮮やかな未来へ〜              | 4彈                  |       |
+| Pop           | おねがいメリー                          | 星之翼1彈               |       |
+| Sexy          | MAKEOVER♡MAKEUP                  | 星之翼2彈               |       |
+| Cute          | Message of a Rainbow             | 星之翼3彈               |       |
+| Cool          | 裸足のルネサンス                         | 星之翼4彈               |       |
+|               |                                  |                     |       |
 
 ## 衣服品牌
 

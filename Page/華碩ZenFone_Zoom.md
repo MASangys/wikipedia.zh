@@ -85,7 +85,7 @@
 </tr>
 <tr class="even">
 <td><p>衛星定位</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a>、<a href="https://zh.wikipedia.org/wiki/格洛納斯系統" title="wikilink">GLONASS</a>、、<a href="https://zh.wikipedia.org/wiki/QZSS" title="wikilink">QZSS</a>、、<a href="https://zh.wikipedia.org/wiki/BDS" title="wikilink">BDS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GPS" title="wikilink">GPS</a>、<a href="https://zh.wikipedia.org/wiki/A-GPS" title="wikilink">A-GPS</a>、<a href="https://zh.wikipedia.org/wiki/格洛納斯系統" title="wikilink">GLONASS</a>、、<a href="https://zh.wikipedia.org/wiki/QZSS" title="wikilink">QZSS</a>、<a href="../Page/SBAS.md" title="wikilink">SBAS</a>、<a href="https://zh.wikipedia.org/wiki/BDS" title="wikilink">BDS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>傳輸</p></td>

@@ -129,35 +129,35 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/閃電十一人GO.md" title="wikilink">閃電十壹人GO 時空之石</a></p></td>
+<td><p><a href="../Page/閃電十一人GO.md" title="wikilink">閃電十一人GO 時空之石</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2012年4月18日</p></td>
 <td><p>秋山勝仁</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/閃電十一人GO.md" title="wikilink">閃電十壹人GO 銀河</a></p></td>
+<td><p><a href="../Page/閃電十一人GO.md" title="wikilink">閃電十一人GO 銀河</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2013年5月8日</p></td>
 <td><p>秋山勝仁</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/閃電十一人GO.md" title="wikilink">閃電十壹人 阿瑞斯的天秤</a></p></td>
+<td><p><a href="../Page/閃電十一人GO.md" title="wikilink">閃電十一人 阿瑞斯的天秤</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2018年4月6日</p></td>
 <td><p><a href="../Page/鐮倉由實.md" title="wikilink">鎌倉由実</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/閃電十一人_俄裏翁的刻印" title="wikilink">閃電十一人 俄裏翁的刻印</a></p></td>
+<td><p><a href="../Page/閃電十一人_獵戶座的刻印.md" title="wikilink">閃電十一人 獵戶座的刻印</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2018年10月5日</p></td>
 <td><p><a href="../Page/日野晃博.md" title="wikilink">日野晃博</a>(總導演) 鐮倉由實(導演)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/妖怪手錶" title="wikilink">妖怪手錶電視動畫系列</a>(2部)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/妖怪手錶" title="wikilink">妖怪手錶電視動畫系列</a>(3部)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171,426 +171,433 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/妖怪手錶_影之章.md" title="wikilink">妖怪手錶 影之章</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/妖怪手錶_光影之卷" title="wikilink">妖怪手錶 光影之卷</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2018年4月13日</p></td>
 <td><p>北條史也</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/妖怪手錶！2019" title="wikilink">妖怪手錶！2019</a></p></td>
+<td><p>遊戲改編</p></td>
+<td><p>2019年4月5日</p></td>
+<td><p>後信治</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/拓麻歌子" title="wikilink">拓麻歌子電視動畫系列</a>(4部)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/最高!_拓麻歌子" title="wikilink">最高! 拓麻歌子</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2007年12月1日</p></td>
 <td><p>淺田裕二</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/拓麻歌子" title="wikilink">拓麻歌子</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2009年10月12日</p></td>
 <td><p>淺田裕二</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/拓麻歌子！_Yume_Kira_Dream" title="wikilink">拓麻歌子！ Yume Kira Dream</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2012年9月10日</p></td>
 <td><p>誌村錠児</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/拓麻歌子！_Miracle_Friends" title="wikilink">拓麻歌子！ Miracle Friends</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2013年9月5日</p></td>
 <td><p>誌村錠児</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1990年代</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/愛天使傳說.md" title="wikilink">愛天使傳說</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>1995年4月5日</p></td>
 <td><p>湯山邦彥</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/宇宙小毛球.md" title="wikilink">宇宙小毛球</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>1995年10月3日</p></td>
 <td><p><a href="../Page/遠藤徹哉.md" title="wikilink">遠藤徹哉</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/烙印勇士" title="wikilink">劍風傳奇</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>1997年10月7日</p></td>
 <td><p><a href="../Page/高橋直人.md" title="wikilink">高橋直人</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/To_Heart.md" title="wikilink">To Heart</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>1999年4月1日</p></td>
 <td><p>高橋直人</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/幸運女神.md" title="wikilink">我的女神 小不隆咚便利多多</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>1998年4月6日</p></td>
 <td><p>松村康弘</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鋼鐵天使.md" title="wikilink">鋼鐵天使</a>核桃</p></td>
 <td><p>遊戲改編</p></td>
 <td><p>1999年10月5日</p></td>
 <td><p>高橋直人</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2000年代</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/漫畫派對" title="wikilink">漫畫同人會</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2001年4月2日</p></td>
 <td><p>須藤典彥</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鋼鐵天使.md" title="wikilink">鋼鐵天使 第二季</a>核桃</p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2001年4月{12日</p></td>
 <td><p>高橋直人</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/宇宙人形17.md" title="wikilink">代號17</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2001年5月27日</p></td>
 <td><p>高橋直人</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/妙妙魔法屋.md" title="wikilink">妙妙魔法屋</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2001年10月13日</p></td>
 <td><p><a href="../Page/本鄉滿.md" title="wikilink">本鄉滿</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/PIANO.md" title="wikilink">鋼琴戀曲</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2002年11月11日</p></td>
 <td><p>須藤典彥</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/貯金大冒險.md" title="wikilink">貯金大冒險</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2003年4月7日</p></td>
 <td><p>須藤典彥、高橋直人</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/神魂合體.md" title="wikilink">神魂合體</a>豪旦那</p></td>
 <td><p>原創動畫</p></td>
 <td><p>2003年10月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長岡康史" title="wikilink">長岡康史</a></p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/AIC_ASTA" title="wikilink">AIC ASTA</a> 共同制作</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/名偵探波洛和馬普爾小姐" title="wikilink">名偵探波洛和馬普爾小姐</a></p></td>
 <td><p>小說改編</p></td>
 <td><p>2004年7月4日</p></td>
 <td><p>高橋直人</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Toheart.md" title="wikilink">Toheart 回憶永恒</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2004年10月2日</p></td>
 <td><p><a href="../Page/元永慶太郎.md" title="wikilink">元永慶太郎</a></p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/AIC" title="wikilink">AIC共同制作</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/強殖裝甲.md" title="wikilink">強殖裝甲</a>凱普</p></td>
 <td><p>原創動畫</p></td>
 <td><p>2005年8月6日</p></td>
 <td><p>秋山勝仁</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ToHeart2" title="wikilink">ToHeart2</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2005年10月3日</p></td>
 <td><p>須藤典彥</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/传颂之物.md" title="wikilink">傳頌之物</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2006年4月3日</p></td>
 <td><p><a href="../Page/小林智樹.md" title="wikilink">小林智樹</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/魔界戰記.md" title="wikilink">魔界戰記</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2006年4月4日</p></td>
 <td><p>井硲清高</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/怪醫美女RAY.md" title="wikilink">怪醫美女RAY</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2006年4月6日</p></td>
 <td><p>高橋直人</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md" title="wikilink">超級機器人大戰OG 聖戰</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2006年10月4日</p></td>
 <td><p><a href="../Page/角銅博之.md" title="wikilink">角銅博之</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Gift.md" title="wikilink">永不消失的彩虹</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2006年10月5日</p></td>
 <td><p>木宮茂</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/拯救德尔托拉.md" title="wikilink">拯救德爾托拉</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2007年1月6日</p></td>
 <td><p>本鄉滿</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/猴兔超人" title="wikilink">猴兔超人</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2009年10月3日</p></td>
 <td><p>外山草</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年代</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/花樣河童" title="wikilink">花樣河童</a></p></td>
 <td><p>繪本改編</p></td>
 <td><p>2010年3月29日</p></td>
 <td><p>中野和美</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Group_Tac" title="wikilink">Group Tac</a>→<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a> 共同制作</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/未來卡片_戰鬥夥伴.md" title="wikilink">未來卡 搭檔對戰</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2014年1月4日</p></td>
 <td><p>池田重隆</p></td>
 <td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/交給妳了！奇跡貓團" title="wikilink">交給妳了！奇跡貓團</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2015年3月31日</p></td>
 <td><p><a href="../Page/橋本光夫.md" title="wikilink">橋本光夫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/皮卡蟲_續篇" title="wikilink">皮卡蟲 續篇</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2015年4月29日</p></td>
 <td><p>冨安大貴</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神仙 秘密的心靈 第1季</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2015年10月1日</p></td>
 <td><p>新田典生</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/未來卡片_戰鬥夥伴.md" title="wikilink">未來卡搭檔對戰DDD</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2016年4月2日</p></td>
 <td><p>池田重隆</p></td>
 <td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>[[卡片鬥爭</p></td>
 <td><p>_先導者|卡片戰鬥先導者G NEXT]]</p></td>
 <td><p>原創動畫</p></td>
 <td><p>2016年10月2日</p></td>
 <td><p><a href="../Page/川崎逸朗.md" title="wikilink">川崎逸朗</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/12歲。.md" title="wikilink">12歲。 第二季</a>小小的胸口心跳加速</p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2016年10月2日</p></td>
 <td><p><a href="../Page/奧脇雅晴.md" title="wikilink">奧脇雅晴</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>[[皮卡蟲</p></td>
 <td><p>|皮卡蟲</p></td>
 <td><p>]]</p></td>
 <td><p>原創動畫</p></td>
 <td><p>2017年2月26日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/未來卡片_戰鬥夥伴.md" title="wikilink">未來卡搭檔對戰X</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2017年4月1日</p></td>
 <td><p>池田重隆</p></td>
 <td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/爆旋陀螺Burst.md" title="wikilink">戰鬥陀螺 爆烈 神</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2017年4月3日</p></td>
 <td><p>山口健太郎</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神明 秘密的心靈 第2季</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2017年4月6日</p></td>
 <td><p>新田典生</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/The_SNACK_WORLD" title="wikilink">The SNACK WORLD</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2017年4月13日</p></td>
 <td><p><a href="../Page/森健.md" title="wikilink">森健</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>[[噗利噗利奇</p></td>
 <td><p>|噗利噗利奇</p></td>
 <td><p>]]</p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2017年4月3日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/100%帕斯卡老師.md" title="wikilink">100%帕斯卡老師</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2017年4月15日</p></td>
 <td><p>三浦陽</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/阿童木起源.md" title="wikilink">阿童木起源</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2017年4月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佐藤竜雄" title="wikilink">佐藤竜雄</a></p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/SIGNAL.MD" title="wikilink">SIGNAL.MD</a>、<a href="../Page/Production_I.G.md" title="wikilink">Production I.G</a> 共同制作</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/新幹線變形機器人" title="wikilink">新幹線變形機器人</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2018年1月5日</p></td>
 <td><p><a href="../Page/池添隆博.md" title="wikilink">池添隆博</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/戰鬥陀螺_爆烈_超絕" title="wikilink">戰鬥陀螺 爆烈 超絕</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2018年4月2日</p></td>
 <td><p>山口健太郎</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神明 秘密的心靈 第3季</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2018年4月5日</p></td>
 <td><p>新田典生</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/未來卡片_戰鬥夥伴.md" title="wikilink">未來卡搭檔對戰X 全明星對戰</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2018年4月7日</p></td>
 <td><p>池田重隆</p></td>
 <td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/棒球大聯盟_2nd" title="wikilink">棒球大聯盟 2nd</a></p></td>
+<tr class="even">
+<td><p><a href="../Page/棒球大聯盟2nd.md" title="wikilink">棒球大聯盟2nd</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2018年4月7日</p></td>
 <td><p>渡辺歩</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>[[卡片鬥爭</p></td>
 <td><p>_先導者|卡片戰鬥先導者]]</p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2018年5月5日</p></td>
 <td><p>川崎逸朗</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/未來卡片_戰鬥夥伴.md" title="wikilink">未來卡 神搭檔對戰</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2018年6月2日</p></td>
 <td><p><a href="../Page/加戶譽夫.md" title="wikilink">加戸譽夫</a></p></td>
 <td><p>與<a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>共同制作</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/索斯機械獸WILD.md" title="wikilink">索斯機械獸WILD</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2018年7月7日</p></td>
 <td><p>須藤典彥</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈.md" title="wikilink">KIRA KIRA HAPPY★ 打開吧！見習神仙精靈</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2018年9月6日</p></td>
 <td><p>新田典生</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/MIX_(漫畫).md" title="wikilink">MIX</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2019年4月6日</p></td>
 <td><p>渡部穏寛</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/毛球权次郎" title="wikilink">毛球权次郎</a></p></td>
 <td><p>漫画改编</p></td>
 <td><p>2019年4月6日</p></td>
 <td><p>森井健史郎</p></td>
 <td><p>与<a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO共同制作</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -740,7 +747,7 @@
 | [精靈寶可夢XY 光環的超魔神 胡帕](../Page/Pokemon_the_movie_XY_光環的超魔神_胡帕.md "wikilink")                        | 2015年7月18日  | 湯山邦彥                               |                                                                                                   |
 | [精靈寶可夢XY\&Z 波爾凱尼恩與機關人偶 瑪機雅娜](../Page/Pokemon_the_movie_XY&Z_波爾凱尼恩與機關人偶_瑪機雅娜.md "wikilink")       | 2016年7月16日  | 湯山邦彥                               |                                                                                                   |
 | [劇場版 精靈寶可夢 就決定是你了！](../Page/劇場版_精靈寶可夢_就決定是你了！.md "wikilink")                                     | 2017年7月15日  | 湯山邦彥                               |                                                                                                   |
-| [劇場版 精靈寶可夢 大家的故事](https://zh.wikipedia.org/wiki/劇場版_精靈寶可夢_大家的故事 "wikilink")                      | 2018年7月13日  | 矢嶋哲生                               |                                                                                                   |
+| [劇場版 精靈寶可夢 我們的故事](../Page/劇場版_精靈寶可夢_我們的故事.md "wikilink")                                         | 2018年7月13日  | 矢嶋哲生                               |                                                                                                   |
 | [劇場版 精靈寶可夢 超夢的逆襲 EVOLUTION](../Page/劇場版_精靈寶可夢_超夢的逆襲_EVOLUTION.md "wikilink")                     | 2019年7月13日  | 湯山邦彥                               |                                                                                                   |
 |                                                                                                  |             |                                    |                                                                                                   |
 | [新暗行禦史](https://zh.wikipedia.org/wiki/新暗行禦史 "wikilink")                                          | 2004年12月4日  | 本鄉滿、誌村錠兒                           |                                                                                                   |

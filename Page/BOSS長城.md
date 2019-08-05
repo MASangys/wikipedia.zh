@@ -67,5 +67,3 @@ BOSS長城基本資訊
   - [西班牙天文物理學研究所官網](http://www.iac.es/index.php?lang=en)
   - [大紀元香港](http://hk.epochtimes.com/news/2016-03-15/%E5%AE%87%E5%AE%99%E6%B3%A2%E6%96%AF%E9%95%B7%E5%9F%8E%20%E6%A9%AB%E8%B7%A810%E5%84%84%E5%85%89%E5%B9%B4-76443385)
   - [天文學家:BOSS長城是否為單一結構"](http://www.physics-astronomy.com/2016/03/newly-discovered-billion-light-year.html#.VvVxC_l97IU)
-
-[Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")

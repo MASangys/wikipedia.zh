@@ -4,7 +4,7 @@
 
 ### 出道前
 
-她在2011年參加《[K-pop Star 1](../Page/K-pop_Star_1.md "wikilink")》，演唱[GUMMY的](https://zh.wikipedia.org/wiki/GUMMY "wikilink")《Because It's You》，結果第一回合被淘汰。
+她在2011年參加《[K-pop Star 1](../Page/K-pop_Star_1.md "wikilink")》，演唱[GUMMY的](../Page/Gummy_\(歌手\).md "wikilink")《Because It's You》，結果第一回合被淘汰。
 
 她在2012年參加\[京畿道高陽市青少年綜合藝術節\]，獲得最優秀獎（初三）。
 

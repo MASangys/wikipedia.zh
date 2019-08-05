@@ -1,10 +1,10 @@
-**Joeman**（），本名**翁雋明**，人稱**九妹**，[台灣前職業](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電競賽評人](https://zh.wikipedia.org/wiki/電競 "wikilink")、遊戲實況主，目前已分手[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")\[1\]。就讀[交通大學時就已在電競圈擔任賽評](https://zh.wikipedia.org/wiki/交通大學 "wikilink")，並在2011年《[星海爭霸II](https://zh.wikipedia.org/wiki/星海爭霸II "wikilink")》電競賽評票選中獲得冠軍。2013年至2016年期間，擔任[微星科技](../Page/微星科技.md "wikilink")[筆電部門](https://zh.wikipedia.org/wiki/筆電 "wikilink")[產品經理](../Page/產品經理.md "wikilink")。\[2\]
+**Joeman**（），本名**翁雋明**，人稱**九妹**，[台灣前職業](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電競賽評人](https://zh.wikipedia.org/wiki/電競 "wikilink")、遊戲實況主、知名[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")\[1\]。就讀[交通大學時就已在電競圈擔任賽評](https://zh.wikipedia.org/wiki/交通大學 "wikilink")，並在2011年《[星海爭霸II](https://zh.wikipedia.org/wiki/星海爭霸II "wikilink")》電競賽評票選中獲得冠軍。2013年至2016年期間，擔任[微星科技](../Page/微星科技.md "wikilink")[筆電部門](https://zh.wikipedia.org/wiki/筆電 "wikilink")[產品經理](../Page/產品經理.md "wikilink")。\[2\]
 
 ## 經歷
 
 就讀[國立交通大學](../Page/國立交通大學.md "wikilink")電子系三年級時出版[電影同名網路小說](https://zh.wikipedia.org/wiki/電影 "wikilink")《紅野狼》\[3\]，並身兼電影《紅野狼》的副導演與路人等客串角色。
 
-2018年7月29日，個人YouTube頻道達到100萬訂閱\[4\]，為[台灣第18位達成](https://zh.wikipedia.org/wiki/台灣YouTuber訂閱人數排行榜 "wikilink")100萬訂閱的創作者\[5\]\[6\]。截止2019年6月19日，拥有的订阅者数量在台湾排名第10位\[7\]。
+2018年7月29日，個人YouTube頻道達到100萬訂閱\[4\]，為[台灣第18位達成](https://zh.wikipedia.org/wiki/台灣YouTuber訂閱人數排行榜 "wikilink")100萬訂閱的創作者\[5\]\[6\]。截止2019年6月19日，拥有的订阅者数量在台湾地区排名第10位\[7\]。
 
 ## 争议事件
 

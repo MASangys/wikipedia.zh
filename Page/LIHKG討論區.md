@@ -44,7 +44,9 @@ LIHKG一直只是一個活躍於網上的討論平台，甚少有現實活動。
 
 ## 名人瀏覽者
 
+  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
   - [高海寧](../Page/高海寧.md "wikilink")
+  - [林秀怡](../Page/林秀怡.md "wikilink")
   - [鄺俊宇](../Page/鄺俊宇.md "wikilink")
   - [朱凱迪](https://zh.wikipedia.org/wiki/朱凱迪 "wikilink")
   - [黃之鋒](../Page/黃之鋒.md "wikilink")

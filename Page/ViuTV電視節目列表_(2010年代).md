@@ -3736,33 +3736,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>7月27日</p></td>
-<td></td>
-<td><p>資訊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/生活小貼士" title="wikilink">生活小貼士</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7月27日</p></td>
-<td><p>4</p></td>
-<td><p>遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞「電」了" title="wikilink">今鋪搞「電」了</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>7月28日</p></td>
-<td></td>
-<td><p>旅遊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/富士山潮聖之旅" title="wikilink">富士山潮聖之旅</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>7月29日</p></td>
 <td></td>
 <td><p>遊戲</p></td>
@@ -3771,7 +3744,25 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>8月3日</p></td>
+<td></td>
+<td><p>資訊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生活小貼士" title="wikilink">生活小貼士</a></p></td>
+<td><p>主持：</p></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
+<td><p>8月4日</p></td>
+<td></td>
+<td><p>旅遊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士山朝聖之旅" title="wikilink">富士山朝聖之旅</a></p></td>
+<td><p>主持：<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>8月12日</p></td>
 <td></td>
 <td><p>旅遊</p></td>
@@ -3780,7 +3771,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8月24日</p></td>
 <td><p>10</p></td>
 <td><p>飲食</p></td>
@@ -3789,21 +3780,12 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8月25日</p></td>
 <td><p>10</p></td>
 <td><p>文化</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾十人" title="wikilink">首爾十人</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>8月25日</p></td>
-<td></td>
-<td><p>旅遊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Finding．旅巫" title="wikilink">Finding．旅巫</a></p></td>
-<td><p>主持：</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3813,6 +3795,15 @@
 <td><p>真人秀</p></td>
 <td><p><a href="../Page/Crime_Scene_犯罪現場_(第三季).md" title="wikilink">犯罪現場 (第三季)</a></p></td>
 <td><p>演出：<a href="../Page/朴芝潤.md" title="wikilink">朴芝潤</a>、<a href="../Page/張鎮_(韓國導演).md" title="wikilink">張鎮</a>、<a href="../Page/金智勳.md" title="wikilink">金智勳</a>、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>、<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a>（韓語原聲）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月1日</p></td>
+<td></td>
+<td><p>旅遊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Finding．旅巫" title="wikilink">Finding．旅巫</a></p></td>
+<td><p>主持：</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -395,7 +395,7 @@ BackgroundColors = bars:bars
 
   - 2017年：[We Young](https://zh.wikipedia.org/wiki/We_Young "wikilink")
   - 2018年：[We Go Up](../Page/We_Go_Up.md "wikilink")
-  - 2019年：We Boom
+  - 2019年：[We Boom](https://zh.wikipedia.org/wiki/We_Boom "wikilink")
 
 #### 單曲專輯
 

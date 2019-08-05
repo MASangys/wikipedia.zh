@@ -28,7 +28,9 @@
 | 4th | 2017年3月22日  | **[はやく逢いたい](https://zh.wikipedia.org/wiki/はやく逢いたい "wikilink")**                         | 7位      |
 | 5th | 2017年7月12日  | **[君のとなり](https://zh.wikipedia.org/wiki/君のとなり "wikilink")**                             | 5位      |
 | 6th | 2018年4月18日  | **[アマハル](https://zh.wikipedia.org/wiki/アマハル "wikilink")**                               | 12位     |
-| 7th | 2018年       | **[Wonderland](../Page/Wonderland.md "wikilink")**                                      |         |
+| 7th | 2018年10月24日 | **[Wonderland](../Page/Wonderland.md "wikilink")**                                      | 37位     |
+| 8th | 2019年3月13日  | **[Good Goodbye](https://zh.wikipedia.org/wiki/Good_Goodbye "wikilink")**               | 36位     |
+|     |             |                                                                                         |         |
 
 ### 參加作品
 

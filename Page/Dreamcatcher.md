@@ -10,49 +10,27 @@ Dreamcatcher的官方粉絲名稱為**「인썸니아(InSomnia)」**。**In**是
 
 Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6 C**、**[彩通](../Page/彩通.md "wikilink")7623 C**及**[彩通](../Page/彩通.md "wikilink")P 10-6 C**。\[1\]
 
-## 問候語
-
-  - MINX 時期：大家好，我們是開朗少女 MINX 。
-  - Dreamcatcher 時期：要夢到我喔，大家好，我們是 Dreamcatcher 。
-
-## 成員
-
-  - 名字**粗體**為隊長
-
-|             |
-| ----------- |
-| 成員資料介紹      |
-| 藝名          |
-| 漢字\[2\]     |
-| **祉攸**\[3\] |
-| 秀雅\[4\]     |
-| 始娟\[5\]     |
-| 韓東\[6\]     |
-| 裕賢\[7\]     |
-| 多美          |
-| 佳泫\[8\]     |
-
 ## MINX 時期簡歷
 
 #### 2014年：出道前
 
-2014年8月9日，MINX 在 Oak Valley 夏日派對中首次公開及表演《為什麼來我家?》及《Action》\[9\]\[10\] 。
+2014年8月9日，MINX 在 Oak Valley 夏日派對中首次公開及表演《為什麼來我家?》及《Action》\[2\]\[3\] 。
 
-2014年9月14日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示會推出新女團\[11\]，並將於9月18日出道，出道曲為《為什麼來我家?》\[12\]。
+2014年9月14日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示會推出新女團\[4\]，並將於9月18日出道，出道曲為《為什麼來我家?》\[5\]。
 
 #### 2014年：出道、首張單曲《為什麼來我家?》
 
-2014年9月18日，MINX 在《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》出道舞台上首次在電視上表演《為什麼來我家?》，並於10月26日《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》的再見舞台上結束宣傳\[13\]\[14\]。
+2014年9月18日，MINX 在《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》出道舞台上首次在電視上表演《為什麼來我家?》，並於10月26日《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》的再見舞台上結束宣傳\[6\]\[7\]。
 
-2014年12月22日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 在 [YouTube](../Page/YouTube.md "wikilink") 上上傳了 MINX 與師姐 [Dal★Shabet](../Page/Dal★Shabet.md "wikilink") 合作翻唱的《》的影片\[15\]。
+2014年12月22日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 在 [YouTube](../Page/YouTube.md "wikilink") 上上傳了 MINX 與師姐 [Dal★Shabet](../Page/Dal★Shabet.md "wikilink") 合作翻唱的《》的影片\[8\]。
 
 #### 2015年：首張迷你專輯《Love Shake》
 
 [밍스(MINX)_착한콘서트_시흥_배곧신도시_생명공원_02.jpg](https://zh.wikipedia.org/wiki/File:밍스\(MINX\)_착한콘서트_시흥_배곧신도시_생명공원_02.jpg "fig:밍스(MINX)_착한콘서트_시흥_배곧신도시_생명공원_02.jpg") 2015年6月22日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示 MINX 會以首張迷你專輯《Love Shake》的同名主打回歸，
 
-並會在6月30日的 [The Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") 及7月1日的 [Show Champion](../Page/Show_Champion.md "wikilink") 上表演回歸舞台，而迷你專輯將在7月2日發行\[16\]\[17\]。
+並會在6月30日的 [The Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") 及7月1日的 [Show Champion](../Page/Show_Champion.md "wikilink") 上表演回歸舞台，而迷你專輯將在7月2日發行\[9\]\[10\]。
 
-主打歌《Love Shake》為翻唱師姐 [Dal★Shabet](../Page/Dal★Shabet.md "wikilink") 收錄於首張專輯《[Bang Bang](https://zh.wikipedia.org/wiki/Bang_Bang_\(Dal★Shabet專輯\) "wikilink")》的同名歌曲\[18\]\[19\]。
+主打歌《Love Shake》為翻唱師姐 [Dal★Shabet](../Page/Dal★Shabet.md "wikilink") 收錄於首張專輯《[Bang Bang](https://zh.wikipedia.org/wiki/Bang_Bang_\(Dal★Shabet專輯\) "wikilink")》的同名歌曲\[11\]\[12\]。
 
 ## Dreamcatcher 時期簡歷
 
@@ -76,11 +54,11 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 8月1日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示 Dreamcatcher 在結束《[Prequel](../Page/Prequel_\(Dreamcatcher迷你專輯\).md "wikilink")》的宣傳活動後將舉行出道以來首場世界巡迴演唱會，預計巡迴的地區有亞洲、歐洲、南美洲等地，最後再於年底回到韓國舉行最終場。
 
-9月11日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示 Dreamcatcher 即將在巴西舉行的簽名會在開放售票10分鐘內全數售罄。\[20\]
+9月11日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示 Dreamcatcher 即將在巴西舉行的簽名會在開放售票10分鐘內全數售罄。\[13\]
 
 9月29日至30日， 在日本大阪舉行了首場演唱會。
 
-10月3日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 發出聲明表示 Dreamcatcher 將出演由韓國電視台 [JTBC](../Page/JTBC.md "wikilink") 以及知名經紀公司 [YG娛樂](../Page/YG娛樂.md "wikilink") 合辦的選秀節目 [MIXNINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink") 。\[21\]
+10月3日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 發出聲明表示 Dreamcatcher 將出演由韓國電視台 [JTBC](../Page/JTBC.md "wikilink") 以及知名經紀公司 [YG娛樂](../Page/YG娛樂.md "wikilink") 合辦的選秀節目 [MIXNINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink") 。\[14\]
 
 10月19日，Dreamcatcher 入圍 2017 MAMA 女子新人獎。
 
@@ -92,7 +70,7 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 12月1日至9日，在巴西累西腓、里約熱內盧、巴西利亞、聖保羅四地舉辦了粉絲簽名會和演唱會。
 
-12月11日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 發出聲明表示[祉攸](https://zh.wikipedia.org/wiki/祉攸 "wikilink")、[始娟](https://zh.wikipedia.org/wiki/始娟 "wikilink")、[裕賢](https://zh.wikipedia.org/wiki/裕賢 "wikilink")、[多美因行程衝突與](https://zh.wikipedia.org/wiki/多美 "wikilink") [MIXNINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink") 的製作單位商議後決定從節目中退出。\[22\]
+12月11日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 發出聲明表示[祉攸](https://zh.wikipedia.org/wiki/祉攸 "wikilink")、[始娟](https://zh.wikipedia.org/wiki/始娟 "wikilink")、[裕賢](https://zh.wikipedia.org/wiki/裕賢 "wikilink")、[多美因行程衝突與](https://zh.wikipedia.org/wiki/多美 "wikilink") [MIXNINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink") 的製作單位商議後決定從節目中退出。\[15\]
 
 **<big>2018年</big>**
 
@@ -124,7 +102,7 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 9月20日，于韩国时间下午6时正式公开主打曲 MV《What》及專輯音源。
 
-11月21日，Dreamcatcher發行首張日本單曲《What-Japanese ver.-》，並同時收錄《Chase Me - Japanese Ver.-》和日語原創新曲《I Miss You》在日本正式出道。\[23\]
+11月21日，Dreamcatcher發行首張日本單曲《What-Japanese ver.-》，並同時收錄《Chase Me - Japanese Ver.-》和日語原創新曲《I Miss You》在日本正式出道。\[16\]
 
 **<big>2019年</big>**
 
@@ -142,7 +120,29 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 3月20日至5月4日，舉行亞洲巡迴演唱會《DREAMCATCHER CONCERT : Invitation From Nightmare City》。(地點：3/20 印尼 雅加達、3/23 新加坡、3/24 菲律賓 馬尼拉、4/6-4/7 韓國 首爾、5/2 日本 東京、5/4日 日本 神戶)
 
-7月12日，Dreamcatcher在官方SNS宣佈將於9月11日發售日本正規一輯《The Beginning Of The End》，並於8月22日先行公開「YOU AND I -Japanese ver.-」音源。\[24\]
+7月12日，Dreamcatcher在官方SNS宣佈將於9月11日發售日本正規一輯《The Beginning Of The End》，並於8月22日先行公開「YOU AND I -Japanese ver.-」音源。\[17\]
+
+## 問候語
+
+  - MINX 時期：大家好，我們是開朗少女 MINX 。
+  - Dreamcatcher 時期：要夢到我喔，大家好，我們是 Dreamcatcher 。
+
+## 成員
+
+  - 名字**粗體**為隊長
+
+|              |
+| ------------ |
+| 成員資料介紹       |
+| 藝名           |
+| 漢字\[18\]     |
+| **祉攸**\[19\] |
+| 秀雅\[20\]     |
+| 始娟\[21\]     |
+| 韓東\[22\]     |
+| 裕賢\[23\]     |
+| 多美           |
+| 佳泫\[24\]     |
 
 ## 成員變遷史
 
@@ -837,29 +837,29 @@ __强显目录__
 [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 
 1.
-2.  [官方微博回答粉絲有關正名的問題](http://wx4.sinaimg.cn/large/006qNcNHgy1fifp9fdcf4j30ku07vdgk.jpg)
+2.
 3.
-4.  [秀雅在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4101441847007340)
-5.  [SiYeon在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4098189226852086)
-6.  [HanDong在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4051985986845025)
-7.  [YooHyeon、DaMi在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4070025989685520)
-8.  [GaHyeon在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4067501220640389)
-9.
-10.
-11. [해피페이스엔터, 신인 5인조 걸그룹 '밍스' 공개. 이번 주 데뷔](http://news.chosun.com/site/data/html_dir/2014/09/15/2014091500646.html)
+4.  [해피페이스엔터, 신인 5인조 걸그룹 '밍스' 공개. 이번 주 데뷔](http://news.chosun.com/site/data/html_dir/2014/09/15/2014091500646.html)
+5.
+6.
+7.
+8.
+9.  [STAR NEWS](http://star.mt.co.kr/stview.php?no=2015061608554379885&type=3)
+10. [gvalley](http://m.gvalley.etnews.com/news/articleView.html?idxno=498153)
+11.
 12.
 13.
 14.
 15.
-16. [STAR NEWS](http://star.mt.co.kr/stview.php?no=2015061608554379885&type=3)
-17. [gvalley](http://m.gvalley.etnews.com/news/articleView.html?idxno=498153)
-18.
+16.
+17. <https://dreamcatcher-official.jp/2019/07/12/1181/>
+18. [官方微博回答粉絲有關正名的問題](http://wx4.sinaimg.cn/large/006qNcNHgy1fifp9fdcf4j30ku07vdgk.jpg)
 19.
-20.
-21.
-22.
-23.
-24. <https://dreamcatcher-official.jp/2019/07/12/1181/>
+20. [秀雅在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4101441847007340)
+21. [SiYeon在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4098189226852086)
+22. [HanDong在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4051985986845025)
+23. [YooHyeon、DaMi在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4070025989685520)
+24. [GaHyeon在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4067501220640389)
 25.
 26.
 27.

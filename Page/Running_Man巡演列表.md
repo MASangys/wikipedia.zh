@@ -126,7 +126,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>1月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
+<td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台大綜合體育館" title="wikilink">台大綜合體育館</a></p></td>
 <td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a></p></td>
 <td><p>TWD4800、TWD3800、TWD2800、TWD1800</p></td>
@@ -238,7 +238,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>1月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a><a href="https://zh.wikipedia.org/wiki/桃園" title="wikilink">桃園</a></p></td>
+<td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a><a href="https://zh.wikipedia.org/wiki/桃園" title="wikilink">桃園</a></p></td>
 <td><p><a href="../Page/桃園市立體育館.md" title="wikilink">桃園市立體育館</a></p></td>
 <td><p>(全體成員)</p></td>
 <td><p>TWD6800、TWD5800、TWD4800、TWD3800、TWD2000</p></td>
@@ -320,7 +320,7 @@ HKD480</p></td>
 <tbody>
 <tr class="odd">
 <td><p>10月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
+<td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
 <td><p><a href="../Page/台北南港展覽館1館.md" title="wikilink">南港展覽館</a></p></td>
 <td><p>(全體成員)</p></td>
 <td><p>TWD5,800、TWD4,800、TWD3,800、TWD2,800、TWD1,800</p></td>

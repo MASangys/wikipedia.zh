@@ -11,7 +11,6 @@
 <!-- end list -->
 
   - [葉山郁美](../Page/葉山郁美.md "wikilink")（原自由身，2015年4月1日加入\[1\]）
-  - [原田彩楓](../Page/原田彩楓.md "wikilink")
   - [春日望](https://zh.wikipedia.org/wiki/春日望 "wikilink")
 
 <!-- end list -->
@@ -39,10 +38,11 @@
   - [久保百合花](../Page/久保百合花.md "wikilink")（原自由身，2015年1月11日加入\[2\]）
   - [芳野由奈](../Page/芳野由奈.md "wikilink")
   - [小倉唯](../Page/小倉唯.md "wikilink")
+  - [原田彩楓](../Page/原田彩楓.md "wikilink")（2019年7月31日退所）\[3\]
 
 ## 相關人物
 
-以下為CLARE VOICE養成所的講師\[3\]。
+以下為CLARE VOICE養成所的講師\[4\]。
 
   -
   -
@@ -58,3 +58,4 @@
 1.
 2.
 3.
+4.

@@ -749,24 +749,22 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
 ## 稍后启播的频道
 
-**（8月1日可能会有）**
+**8月份即将开播高清频道**
 
-  - Cartoon Network HD (551频道)
-  - CNN 國際新聞 (604频道)
+  - CNN Asia HD （CH604 HD)
+  - Cartoon Network HD (CH551 HD)
 
-*' （9月1日可能）*'
-
-  - ITV choice HD (475頻道)
-
-**即将计划电视频道**
+**計定国际开播频道**
 
   - WakuWaku Japan HD (216频道)
 
   - Sony GEM HD (217频道)
 
-  - 中天亚洲台 (230频道)
+  - 天映频道HD (227频道)
 
-  - 东森亚洲台 (235频道)
+  - 中天亚洲台 (236频道)
+
+  - 东森亚洲台 (237频道)
 
   - 东森亚洲新闻台 (261频道)
 
@@ -785,6 +783,8 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
   - (456频道)
 
   - DIVA HD (459频道)
+
+  - ITV choice HD (475頻道)
 
   - E\! HD (479频道)
 
@@ -808,9 +808,13 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - Makeful Channel HD (529頻道，計定取代LUXE.TV HD)
 
+  - 迪士尼XD HD (548频道)
+
   - ZooMoo HD (559频道)
 
   - Da Vinci Learning (560频道)
+
+  - CNN HD (604频道)
 
   - [FOX News Channel](../Page/福斯新聞頻道.md "wikilink")(605頻道)
 
@@ -848,6 +852,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
   - Hypp Mix HD (126,馬來語音樂頻道)
   - Hypp Niaga HD (127,馬來語資訊頻道)
   - Hypp Komedi HD (129, 馬來語喜劇頻道)
+  - Playbox HD (130, 馬來語動作頻道, KRU studios 製作。)
 
 **即将来临的地面电视频道**
 
@@ -867,10 +872,10 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
   - [TV1](../Page/TV1.md "wikilink") HD（101频道）
   - [TV2](https://zh.wikipedia.org/wiki/TV2 "wikilink") HD（102频道）
   - [TV3 HD](../Page/TV3_\(马来西亚\).md "wikilink")（103频道）
-  - [NTV7 HD](https://zh.wikipedia.org/wiki/NTV7 "wikilink")
-  - [八度空间HD](../Page/八度空间_\(电视台\).md "wikilink")
-  - TV9 HD
-  - Bernama News Channel (BNC) HD
+  - [NTV7 HD](https://zh.wikipedia.org/wiki/NTV7 "wikilink") （107频道）
+  - [八度空间HD](../Page/八度空间_\(电视台\).md "wikilink")（108频道）
+  - TV9 HD （109频道）
+  - Bernama News Channel (BNC) HD （631 频道）
 
 ## 已停播频道
 

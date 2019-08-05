@@ -2,7 +2,7 @@
 
 ## 成员
 
-C-Block的成员包括[盛宇](https://zh.wikipedia.org/wiki/盛宇 "wikilink")（DamnShine）、[施逸凡](https://zh.wikipedia.org/wiki/施逸凡 "wikilink")（Kungfu-Pen）和[刘聪](https://zh.wikipedia.org/wiki/刘聪_\(C-Block\) "wikilink")（Key.L）\[13\]。
+C-Block的成员包括[盛宇](https://zh.wikipedia.org/wiki/盛宇 "wikilink")（DamnShine）、[施逸凡](https://zh.wikipedia.org/wiki/施逸凡 "wikilink")（功夫胖 Kungfu-Pen）和[刘聪](https://zh.wikipedia.org/wiki/刘聪_\(C-Block\) "wikilink")（Key.L）\[13\]。
 
 ## 专辑
 

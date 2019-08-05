@@ -75,6 +75,7 @@
   - 動畫導演:[李昭樺](https://zh.wikipedia.org/wiki/李昭樺 "wikilink")
   - 特效動畫:[劉綺珊](https://zh.wikipedia.org/wiki/劉綺珊 "wikilink")、[小谷創](https://zh.wikipedia.org/wiki/小谷創 "wikilink")、[魏鴻](https://zh.wikipedia.org/wiki/魏鴻 "wikilink")、[林家齊](https://zh.wikipedia.org/wiki/林家齊 "wikilink")、[吳至正](https://zh.wikipedia.org/wiki/吳至正 "wikilink")
   - 攝影:[馮信華](https://zh.wikipedia.org/wiki/馮信華 "wikilink")
+  - 製片統籌:[張志偉](https://zh.wikipedia.org/wiki/張志偉 "wikilink")
   - 製作公司：[華文創電影股份有限公司](https://zh.wikipedia.org/wiki/華文創電影股份有限公司 "wikilink")、[兔將影業股份有限公司](https://zh.wikipedia.org/wiki/兔將影業股份有限公司 "wikilink")、[統一國際開發股份有限公司](https://zh.wikipedia.org/wiki/統一國際開發股份有限公司 "wikilink")、[中國信託](https://zh.wikipedia.org/wiki/中國信託 "wikilink")
 
 ## 拍攝場景

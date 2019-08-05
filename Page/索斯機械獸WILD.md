@@ -718,7 +718,7 @@ Kwon Yong Sang<br />
 <tr class="odd">
 <td><p>第37話</p></td>
 <td></td>
-<td></td>
+<td><p>激鬥，戰友的回歸</p></td>
 <td><p>深澤幸司</p></td>
 <td><p>香味豐</p></td>
 <td><p>In Tae Sun<br />

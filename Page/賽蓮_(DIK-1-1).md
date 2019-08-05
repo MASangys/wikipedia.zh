@@ -32,8 +32,6 @@
 
 ## 外部链接
 
-[Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")
-
 1.
 2.
 3.

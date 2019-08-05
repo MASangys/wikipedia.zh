@@ -252,7 +252,7 @@
 <tr class="even">
 <td><p>adrenaline</p></td>
 <td><p>!</p></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/情色漫畫老師" title="wikilink">情色漫畫老師</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="../Page/情色漫畫老師.md" title="wikilink">情色漫畫老師</a>》片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>WANTED GIRL</p></td>

@@ -1,4 +1,4 @@
-**ICE-4列车**（）是[德铁长途运输](../Page/德铁长途运输.md "wikilink")營運中的最新一代时速250公里[ICE](https://zh.wikipedia.org/wiki/城际快车 "wikilink")[高速列车](https://zh.wikipedia.org/wiki/高速列车 "wikilink")。[德国铁路](../Page/德国铁路.md "wikilink")计划将购入300列这款定名为“ICE4”的电动车组\[1\]的[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")，以供“交通运输”部门作使用。所预定的车组自2011年起由[西门子交通集团负责制造](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")。
+**ICE-4列车**（）是[德铁长途运输](../Page/德铁长途运输.md "wikilink")營運中的最新一代时速250公里[ICE](https://zh.wikipedia.org/wiki/城际快车 "wikilink")[高速列车](https://zh.wikipedia.org/wiki/高速列车 "wikilink")。[德国铁路](../Page/德国铁路.md "wikilink")计划将购入300列这款定名为“ICE4”的電聯車\[1\]的[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")，以供“交通运输”部门作使用。所预定的電聯車自2011年起由[西门子交通集团负责制造](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")。
 
 该型12节编组的动车组已于2017年12月起投入使用，而7节编组的版本则应自2020年12月起交付\[2\]。列车在德国铁路内部的定型编号为412型\[3\]。
 
@@ -19,7 +19,7 @@ ICE-4列车是作为用于的[动车组](https://zh.wikipedia.org/wiki/动车组
   - 带有3节动力车厢的7节编组动车组。其全长约200m，共提供个456个座席（包含77个一等座），且最高速度为230km/h，最大加速度为0.55m/s²\[14\]。车载餐厅设有17个座席，一个站立就餐区和两个轮椅摆放空间\[15\]。此外，每列动车组还提供8个自行车停车位\[16\]。这一配置最初被称为“K1n”\[17\]。
   - 带有六节动力车厢的12节编组动车组。其全长约346m，共提供830个座席（包含205个一等座），且最高速度为250km/h，最大加速度为0.53m/s²。车载餐厅设有23个座席，再加上一个站立就餐区和2个3个轮椅摆放空间\[18\]\[19\]。在最初的订购版本中，其最高速度为249km/h。藉此可以节省成本\[20\]。
 
-首批130列动车组包括45组7节版本和85组12节版本。它们将被用于替换在1971年至1991年间生产的[城际列车车组](../Page/城际列车_\(德国\).md "wikilink")。对于所有ICE-4在[德国](../Page/德国.md "wikilink")和[奥地利的适航证以及另外用于](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")12节车组适航证均已提供\[21\]。
+首批130列动车组包括45组7节版本和85组12节版本。它们将被用于替换在1971年至1991年间生产的[城际列车電聯車](../Page/城际列车_\(德国\).md "wikilink")。对于所有ICE-4在[德国](../Page/德国.md "wikilink")和[奥地利的适航证以及另外用于](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")12节车组适航证均已提供\[21\]。
 
 计划中的第2批59列动车组\[22\]\[23\]应自2025年起替换现行了[ICE-1和](https://zh.wikipedia.org/wiki/ICE-1列车 "wikilink")[ICE-2车队](https://zh.wikipedia.org/wiki/ICE-2列车 "wikilink")\[24\]。而在德国铁路于2015年3月提出的长途运输纲领中显示，它们无意在2030年以前购置第2批次\[25\]。第2批次的列车将会获得德国、奥地利和瑞士的适航证\[26\]。对于在[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[卢森堡](../Page/卢森堡.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[波兰和](https://zh.wikipedia.org/wiki/波兰 "wikilink")[捷克](../Page/捷克.md "wikilink")的适航证也可选择性预先提供\[27\]\[28\]。
 
@@ -202,7 +202,7 @@ ICE-4列车是作为用于的[动车组](https://zh.wikipedia.org/wiki/动车组
 
 动力[转向架是由西门子基于SF](https://zh.wikipedia.org/wiki/转向架 "wikilink")500型转向架所设计\[102\]\[103\]。拖车转向架则应具有一副主动控制轮轴，以便在弯道上对转向架进行主动控制。它们是由[庞巴迪运输提供](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")。
 
-列车[模块化的设计使得整个组件更换和列车外的维护变得更为简易](https://zh.wikipedia.org/wiki/模块 "wikilink")\[104\]。
+列车模組化的设计使得整个组件更换和列车外的维护变得更为简易\[104\]。
 
 底板槽均配备防击打涂层以对抗\[105\]。
 

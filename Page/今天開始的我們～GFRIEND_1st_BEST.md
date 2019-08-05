@@ -1,4 +1,4 @@
-**《今日から私たちは～GFRIEND 1st BEST》**是韓國女子團體[GFRIEND](../Page/GFRIEND.md "wikilink")作為日本出道的精選專輯。由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")，於2018年5月23日於各國發行推出。
+**《今日から私たちは～GFRIEND 1st BEST》**是韓國女子團體[GFRIEND](../Page/GFRIEND.md "wikilink")作為日本出道的精選專輯。由[Source Music製作](../Page/Source_Music.md "wikilink")，[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")，於2018年5月23日於各國發行推出。
 
 ## 概要
 

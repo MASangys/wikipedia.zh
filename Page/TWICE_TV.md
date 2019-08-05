@@ -469,6 +469,7 @@ TWICE TV "TWICE ENTERTAINMENT"於2019年7月5日起，每週五在[Naver](https:
 | 1  | 2019年7月5日  | 娜璉、SANA、彩瑛 | MARKETING TEAM VER.         |
 | 2  | 2019年7月12日 | 定延、MOMO、多賢 | A\&R TEAM VER.              |
 | 3  | 2019年7月19日 | 志效、MINA、子瑜 | BUSINESS PLANNING TEAM VER. |
+| 4  | 2019年7月26日 | 全體         | BEHIND SCENE                |
 
 ## 註釋
 

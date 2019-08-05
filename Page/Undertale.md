@@ -93,7 +93,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
   -
     八名人類（Eight Humans）是指從地表世界穿過伊波特山的屏障來到地下世界的人類。他們分別是第一個人類、主角和Asgore所收集的六個人類靈魂。
     每個靈魂模式和不同顏色的攻擊類型都與各個八名人類有關。
-    八名人類所擁有的七個靈魂顔色分別為:紅色、水色丶橙色丶藍色丶紫色丶綠色丶黄色。在推雪球遊戲中，更可知道七個靈魂顔色的特性分別是決心（Determination）丶耐心（Patience）丶勇氣（Bravery）丶誠實（Integrity）丶毅力（Perseverance）丶仁慈（Kindness）丶正義（Justice）。
+    八名人類所擁有的七個靈魂顔色分別為:紅色、水色丶橙色丶藍色丶紫色丶綠色丶黄色。在推雪球遊戲中，更可知道除紅色外六個靈魂顔色的特性分別是耐心（Patience）丶勇氣（Bravery）丶誠實（Integrity）丶毅力（Perseverance）丶仁慈（Kindness）丶正義（Justice）。紅色靈魂在遊戲中並沒有特別交代是何種特性，而決心（Determination）是所有人類靈魂共通的特性。
 
 <!-- end list -->
 

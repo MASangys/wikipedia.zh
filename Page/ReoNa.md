@@ -17,7 +17,7 @@ ReoNa 從2011年起以「れおぺこ」和「ReoNa\*」身份活躍於 Cosplay 
 | 初回限定盤 | 通常盤        | 期間生產限定盤             |                       |                                          |
 | 1st   | 2018年8月29日 | **SWEET HURT**\[7\] | VVCL-1285 ～ VVCL-1286 | VVCL-1287                                |
 | 2nd   | 2019年2月6日  | **forget-me-not**   | VVCL-1388 ～ VVCL-1389 | VVCL-1390                                |
-| 3rd   | 2019年8月28日 | **Null**            | VVCL-1487 ～ 1488      | VVCL-1489                                |
+| 3rd   | 2019年8月28日 | **Null**            | VVCL-1487 ～ VVCL-1488 | VVCL-1489                                |
 
 #### 参加作品
 

@@ -1,4 +1,4 @@
-[MVVMPattern.png](https://zh.wikipedia.org/wiki/File:MVVMPattern.png "fig:MVVMPattern.png") **MVVM**（）是一种软件。
+[MVVMPattern.png](https://zh.wikipedia.org/wiki/File:MVVMPattern.png "fig:MVVMPattern.png") **MVVM**（）是一种软件[架构模式](../Page/架构模式.md "wikilink")。
 
 MVVM有助于将[图形用户界面](../Page/图形用户界面.md "wikilink")的开发与或[后端逻辑](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")（*数据模型*）的开发[分离开来](../Page/关注点分离.md "wikilink")，这是通过[置标语言](../Page/置标语言.md "wikilink")或GUI代码实现的。MVVM的*视图模型*是一个值转换器，\[1\] 这意味着视图模型负责从模型中暴露（转换）[数据对象](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")，以便轻松管理和呈现对象。在这方面，视图模型比视图做得更多，并且处理大部分视图的显示逻辑。\[2\] 视图模型可以实现[中介者模式](../Page/中介者模式.md "wikilink")，组织对视图所支持的[用例](../Page/用例.md "wikilink")集的后端逻辑的访问。
 

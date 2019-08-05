@@ -1,6 +1,6 @@
 **AirPods**是[蘋果公司所推出的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[藍牙](../Page/藍牙.md "wikilink")[无线耳机](https://zh.wikipedia.org/wiki/无线耳机 "wikilink")，于2016年9月7日苹果秋季新品发布会上初次发布。不過上市方面，该耳机因為開發原因導致延遲到2016年12月中才正式對外发售，而且因為供不應求，當時之運送等待時間達到至少6週之久。官方售价分別为[人民币](../Page/人民币.md "wikilink")1,288元、[港币](https://zh.wikipedia.org/wiki/港币 "wikilink")1,288元、[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")16,800元、[新台币](https://zh.wikipedia.org/wiki/新台币 "wikilink")5,490元。该耳机需要设备运行[iOS 10或](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")[watchOS 3以上的](https://zh.wikipedia.org/wiki/watchOS "wikilink")[操作系统](../Page/操作系统.md "wikilink")。AirPods可以自动通过[iCloud同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")，使得AirPods可以在运行[macOS Sierra和watchOS的设备之间自由切换](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")。AirPods也可以通过[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")4.0协议連結至其他设备，包括运行[Android](../Page/Android.md "wikilink")系统的设备。
 
-2019年3月20日发布第二代AirPods，第二代产品外觀大致與第一代相同，但晶片改用H1晶片，改善無線連接速度、降低音訊延遲\[1\]。
+2019年3月20日发布第二代AirPods，第二代产品外觀大致與第一代相同，但晶片改用H1晶片以支援[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink") 5.0\[1\]、改善無線連接速度、降低音訊延遲\[2\]，並可選配無線充電盒，但第二代产品需要设备运行 [iOS 12.2](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")、[watchOS 5.2](https://zh.wikipedia.org/wiki/watchOS "wikilink") 或 [macOS 10.14.4](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink") 以上版本。
 
 ## 簡介
 
@@ -21,31 +21,31 @@ AirPods的外型類似於原本随[iPhone](https://zh.wikipedia.org/wiki/iPhone 
   - 上一首
   - 关闭
 
-第二代的AirPods則不需輕點2下，只要說出「嘿，Siri！」即可直接下達指令\[2\]。
+第二代的AirPods則不需輕點2下，只要說出「嘿，Siri！」即可直接下達指令\[3\]。
 
 ## 規格
 
-AirPods具有新的使用者交互功能，例如從個人耳朵中移除AirPod觸發播放暫停指令，反之亦然，點兩下可以啟動[Siri](../Page/Siri.md "wikilink")，或播放或暫停播放。\[3\] AirPods的完整功能需要至少运行[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 10.2，[macOS Sierra或](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")[watchOS 3系统的设备](../Page/WatchOS版本历史.md "wikilink")。通过[iCloud自動同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")，使用者可以自由切換到其他已登入到相同的[Apple ID且受支持的设备](https://zh.wikipedia.org/wiki/Apple_ID "wikilink")。AirPods還可以從任何支持[藍牙](../Page/藍牙.md "wikilink")4.0或更高版本的设备播放音訊，包括[Android](../Page/Android.md "wikilink")设备(可以使用點兩下手勢來控制播放)。\[4\]
+AirPods具有新的使用者交互功能，例如從個人耳朵中移除AirPod觸發播放暫停指令，反之亦然，點兩下可以啟動[Siri](../Page/Siri.md "wikilink")，或播放或暫停播放。\[4\] AirPods的完整功能需要至少运行[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 10.2，[macOS Sierra或](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")[watchOS 3系统的设备](../Page/WatchOS版本历史.md "wikilink")。通过[iCloud自動同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")，使用者可以自由切換到其他已登入到相同的[Apple ID且受支持的设备](https://zh.wikipedia.org/wiki/Apple_ID "wikilink")。AirPods還可以從任何支持[藍牙](../Page/藍牙.md "wikilink")4.0或更高版本的设备播放音訊，包括[Android](../Page/Android.md "wikilink")设备(可以使用點兩下手勢來控制播放)。\[5\]
 
 在2017年蘋果特別活動中，蘋果公司公開了一款名為 AirPower 的可選無線充電器。但是歷經將近兩年的延期後，蘋果在 2019 年 03 月 30 日正式發表聲明表示由於 AirPower 的表現無法達到蘋果的高標準，而宣布取消 AirPower 的推出計畫。
 
 ### 硬體
 
-在第一代AirPods，Apple將自己訂製設計的晶片[W1納入AirPods](https://zh.wikipedia.org/wiki/W1 "wikilink")，有助於電池使用最佳化並處理藍牙連接以及音訊。\[5\]\[6\]
+在第一代AirPods，Apple將自己訂製設計的晶片[W1納入AirPods](https://zh.wikipedia.org/wiki/W1 "wikilink")，有助於電池使用最佳化並處理藍牙連接以及音訊。\[6\]\[7\]
 
-每個AirPod的重量為4克，其充電盒重量為38克。续航时间達五小時，並且透过充電盒充电续航可达24小時。\[7\]在拆解過程中，發現每個AirPod 在其電池仓中含有93 [mW·h電池](../Page/千瓦·時.md "wikilink")，而在充電盒内则额外含有3.81[V](../Page/伏特.md "wikilink")，1.52[w.h或](../Page/千瓦·時.md "wikilink")398[mAh電池](https://zh.wikipedia.org/wiki/安培小時 "wikilink")。\[8\]
+每個AirPod的重量為4克，其充電盒重量為38克。续航时间達五小時，並且透过充電盒充电续航可达24小時。\[8\]在拆解過程中，發現每個AirPod 在其電池仓中含有93 [mW·h電池](../Page/千瓦·時.md "wikilink")，而在充電盒内则额外含有3.81[V](../Page/伏特.md "wikilink")，1.52[w.h或](../Page/千瓦·時.md "wikilink")398[mAh電池](https://zh.wikipedia.org/wiki/安培小時 "wikilink")。\[9\]
 
-第二代的AirPods改用H1晶片，這是蘋果公司專為無線耳機開發的第一款晶片\[9\]。
+第二代的AirPods改用H1晶片，這是蘋果公司專為無線耳機開發的第一款晶片\[10\]。
 
 ### 軟體
 
-AirPods包含可升級的韌體。其原始韌體是3.3.1。蘋果在2017年2月發布了韌體版本3.5.1\[10\]，在2017年5月發布了版本3.7.2\[11\]，在2019年3月發布了版本6.3.2。
+AirPods包含可升級的韌體。其原始韌體是3.3.1。蘋果在2017年2月發布了韌體版本3.5.1\[11\]，在2017年5月發布了版本3.7.2\[12\]，在2019年3月發布了版本6.3.2。
 
 ## 評價
 
-雖然很多人批評AirPods的售價過高，但它的價格實際上仍低於市場上大多數「[真正無線耳機](https://zh.wikipedia.org/wiki/真正無線耳機 "wikilink")」(True Wireless Stereo，簡稱TWS) \[12\]，並且保持與其他主要品牌的類似產品的價格競爭力。另一批評是人們認為耳機設計會從人的耳朵裡掉下來，然而，網站[商業內幕的測試表明](../Page/商业内幕.md "wikilink")，在大多數耳朵類型正常使用時，這種情況不太可能發生。\[13\]
+雖然很多人批評AirPods的售價過高，但它的價格實際上仍低於市場上大多數「[真正無線耳機](https://zh.wikipedia.org/wiki/真正無線耳機 "wikilink")」(True Wireless Stereo，簡稱TWS) \[13\]，並且保持與其他主要品牌的類似產品的價格競爭力。另一批評是人們認為耳機設計會從人的耳朵裡掉下來，然而，網站[商業內幕的測試表明](../Page/商业内幕.md "wikilink")，在大多數耳朵類型正常使用時，這種情況不太可能發生。\[14\]
 
-另外，AirPods出現在停止運作時電量仍然快速耗盡的問題。\[14\]其後，蘋果公司將AirPods的[韌體](../Page/韌體.md "wikilink")升級到3.5.1，解決連接問題和電池消耗問題。\[15\]
+另外，AirPods出現在停止運作時電量仍然快速耗盡的問題。\[15\]其後，蘋果公司將AirPods的[韌體](../Page/韌體.md "wikilink")升級到3.5.1，解決連接問題和電池消耗問題。\[16\]
 
 ## 相關條目
 
@@ -71,8 +71,8 @@ AirPods包含可升級的韌體。其原始韌體是3.3.1。蘋果在2017年2月
 1.
 
 2.
-3.
 
+3.
 4.
 
 5.
@@ -84,8 +84,8 @@ AirPods包含可升級的韌體。其原始韌體是3.3.1。蘋果在2017年2月
 8.
 
 9.
-10.
 
+10.
 11.
 
 12.
@@ -95,3 +95,5 @@ AirPods包含可升級的韌體。其原始韌體是3.3.1。蘋果在2017年2月
 14.
 
 15.
+
+16.

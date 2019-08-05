@@ -57,6 +57,13 @@
 | 2月6日                         | NU'EST 情人節活動宣傳影片！                                                                                                     |                                                   |
 | 2月22日                        | NU'EST 情人節活動                                                                                                          |                                                   |
 | 3月13日                        | 120314 NU'EST MinHyun's WhiteDay Love Song                                                                            | Aron / [白虎](../Page/姜東昊.md "wikilink") / 旼炫 / Ren |
+| 3月22日                        | NU'EST MUSIC VIDEO BEHIND STORY                                                                                       | 全體成員                                              |
+| 6月21日                        | 2012 NU'EST JRON's HappyDay Special stage "FACE"                                                                      |                                                   |
+| 8月4日                         | NU'EST 1st mini album 封面拍攝幕後故事                                                                                        |                                                   |
+| 8月5日                         | NU'EST 2012 K-DREAM LIVE 公演前感想                                                                                        |                                                   |
+| 11月5日                        | NU'EST 白虎 旼炫 Ren 生日派對特別舞台 清爽焦糖 - LIPSTICK                                                                             | 白虎、旼炫、Ren                                         |
+| 11月6日                        | NU'EST 2012 [修能](../Page/大學修學能力試驗.md "wikilink") 加油訊息                                                                 | 全體成員                                              |
+| 12月31日                       | 2013 NU'EST 新年問候                                                                                                      |                                                   |
 
 ### 2019年
 
@@ -228,6 +235,7 @@
 | 7月21日                       | \[NU'EST\] 我來了🐶                      | Aron、旼炫   |
 | 在這麼晚，失禮了🙈                   | 旼炫                                   |           |
 | \[NU'EST\] 謝謝🐯              | 白虎                                   |           |
+| 7月29日                       | \[NU'EST\] 星期一～～Let's get it🐢        | JR        |
 
 ## 主持節目
 
@@ -403,6 +411,14 @@
 <td><p><strong>備註</strong></p></td>
 </tr>
 <tr class="even">
+<td><p>2012年2月18日</p></td>
+<td><p>Pledis</p></td>
+<td><p>NU'EST Valentine Day Event</p></td>
+<td><p>出道宣傳活動</p></td>
+<td><p>全體成員</p></td>
+<td><p>一起看電影活動</p></td>
+</tr>
+<tr class="odd">
 <td><p>2012年4月7日</p></td>
 <td><p>2012秋冬首爾時尚周</p></td>
 <td><p>BIG PARK服裝展</p></td>
@@ -410,7 +426,7 @@
 <td><p>旼炫、Ren</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013年9月28日</p></td>
 <td><p>MBC Music</p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
@@ -418,7 +434,7 @@
 <td><p>白虎、旼炫</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年9月20日</p></td>
 <td><p>SBS MTV </p></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
@@ -426,7 +442,7 @@
 <td><p>旼炫</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年8月6日</p></td>
 <td><p><a href="../Page/韓國職棒聯賽.md" title="wikilink">韓國職棒聯賽</a></p></td>
 <td><p><a href="../Page/LG雙子.md" title="wikilink">LG雙子</a>對<a href="https://zh.wikipedia.org/wiki/斗山熊" title="wikilink">斗山熊三連戰</a></p></td>
@@ -434,7 +450,7 @@
 <td><p>JR</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年9月23日</p></td>
 <td></td>
 <td><p><a href="../Page/亚洲音乐节.md" title="wikilink">亞洲音樂節</a></p></td>
@@ -442,7 +458,7 @@
 <td><p>JR、REN[3]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年9月30日</p></td>
 <td><p>韓華集團</p></td>
 <td><p>2017首爾世界煙火慶典</p></td>
@@ -450,7 +466,7 @@
 <td><p>JR、REN</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年1月28日</p></td>
 <td><p>SBS</p></td>
 <td><p><a href="../Page/人气歌谣.md" title="wikilink">人氣歌謠</a></p></td>
@@ -458,7 +474,7 @@
 <td><p>JR</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年6月28日</p></td>
 <td><p>Mnet</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M!Countdown</a></p></td>
@@ -466,7 +482,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年7月6日</p></td>
 <td><p>JTBC</p></td>
 <td><p>《連線LIFE（中譯：網線生活）》</p></td>
@@ -474,7 +490,7 @@
 <td><p>EP1</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年7月7日-7月14日</p></td>
 <td><p>KBS</p></td>
 <td><p><a href="../Page/戰鬥旅行.md" title="wikilink">戰鬥旅行</a></p></td>
@@ -482,7 +498,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年10月18日</p></td>
 <td><p>KBS</p></td>
 <td><p><a href="../Page/歡樂在一起.md" title="wikilink">Happy Together</a></p></td>
@@ -490,7 +506,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年5月2日</p></td>
 <td><p>KBS</p></td>
 <td><p>Happy Together</p></td>
@@ -498,7 +514,7 @@
 <td><p>EP587</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年5月4日</p></td>
 <td><p>韓國職棒聯賽</p></td>
 <td><p>斗山熊對LG雙子</p></td>
@@ -506,7 +522,7 @@
 <td><p>JR、旼炫</p></td>
 <td><p>全體成員出席</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年5月12日</p></td>
 <td><p>SBS</p></td>
 <td><p>人氣歌謠</p></td>
@@ -514,7 +530,7 @@
 <td><p>JR</p></td>
 <td><p>EP1001</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年5月18日</p></td>
 <td><p>CJ ENM</p></td>
 <td><p>KCON 2019 JAPAN</p></td>
@@ -535,7 +551,8 @@
 | 2012年         |                                          |                                                                    |                                                               |           |
 | 4月3日          | Mnet Japan                               | M COUNTDOWN Backstage Star Search                                  | 全體成員                                                          |           |
 | 4月21日-4月28日   | SBS                                      | [驚人的大會-Star King](../Page/驚人的大會-Star_King.md "wikilink")           | JR、白虎、Ren                                                     | EP264-265 |
-| 5月5日-5月12日    | Aron、Ren                                 | EP266-267                                                          |                                                               |           |
+| 5月1日          | Mnet Japan                               | 超☆韓ON！                                                             | 全體成員                                                          |           |
+| 5月5日-5月12日    | SBS                                      | 驚人的大會-Star King                                                    | Aron、Ren                                                      | EP266-267 |
 | 5月12日         | MBC                                      | 改變世界的Quiz                                                          | JR、白虎、Ren                                                     | EP153     |
 | 6月30日         | SBS                                      | 驚人的大會-Star King                                                    | EP274                                                         |           |
 | 7月14日         | EP276                                    |                                                                    |                                                               |           |
@@ -603,6 +620,9 @@
 | 7月26日         | MBC                                      | Vedio Star                                                         | Ren                                                           | EP3       |
 | 9月14日         | MBC                                      | [偶像料理王](../Page/偶像料理王.md "wikilink")                               | 全體成員                                                          |           |
 | 10月14日        | MBC                                      | [二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")          | 白虎、REN（藝人評審團）                                                 | EP25      |
+| 10月25日        | 日本BS放送                                   | 韓流 Zap                                                             | 全體成員                                                          |           |
+| 12月19日        | CS HOME DRAMA CHANEL                     | 韓Chu                                                               |                                                               |           |
+| 12月26日        |                                          |                                                                    |                                                               |           |
 |               |                                          |                                                                    |                                                               |           |
 
 ### 2017年至2018年
@@ -681,7 +701,8 @@
 | ------------ | ----------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------- | ---------------- |
 | **播放日期**     | **製作單位**                                              | **播放平台**                                              | **節目名稱**                                       | **參與成員**         |
 | 2012年        |                                                       |                                                       |                                                |                  |
-| 11月18日       | Kourierco                                             | Youtube                                               | Kourier 獨家專訪 NU'EST                            | 全體成員             |
+| 9月13日        | PLEDIS ENTERTAINMENT                                  | Youtube                                               | 2012 PLEDIS Asian-American Audition in U.S.A.  | 全體成員             |
+| 11月18日       | Kourierco                                             | Kourier 獨家專訪 NU'EST                                   |                                                |                  |
 | 2013年        |                                                       |                                                       |                                                |                  |
 | 7月20日        |                                                       |                                                       | NU'EST來自台灣的信息                                  | JR、白虎、旼炫、Ren     |
 | 6月14日        | Kourierco                                             | Youtube                                               | \[Special\] 抓住 NU'EST - Part 1                 | 全體成員             |

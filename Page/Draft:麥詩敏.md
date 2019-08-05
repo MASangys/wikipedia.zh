@@ -12,7 +12,7 @@
 
   -
   -
-[Category:麥姓](https://zh.wikipedia.org/wiki/Category:麥姓 "wikilink") [Category:香港記者](https://zh.wikipedia.org/wiki/Category:香港記者 "wikilink") [Category:香港電視主持人](https://zh.wikipedia.org/wiki/Category:香港電視主持人 "wikilink") [Category:無綫電視新聞報導員](https://zh.wikipedia.org/wiki/Category:無綫電視新聞報導員 "wikilink") [Category:德望學校校友](https://zh.wikipedia.org/wiki/Category:德望學校校友 "wikilink") [Category:香港科技大學校友](https://zh.wikipedia.org/wiki/Category:香港科技大學校友 "wikilink")
+[Category:麥姓](https://zh.wikipedia.org/wiki/Category:麥姓 "wikilink") [Category:香港記者](https://zh.wikipedia.org/wiki/Category:香港記者 "wikilink") [Category:香港電視主持人](https://zh.wikipedia.org/wiki/Category:香港電視主持人 "wikilink") [Category:香港新聞報導員](https://zh.wikipedia.org/wiki/Category:香港新聞報導員 "wikilink") [Category:無綫電視新聞報導員](https://zh.wikipedia.org/wiki/Category:無綫電視新聞報導員 "wikilink") [Category:德望學校校友](https://zh.wikipedia.org/wiki/Category:德望學校校友 "wikilink") [Category:香港科技大學校友](https://zh.wikipedia.org/wiki/Category:香港科技大學校友 "wikilink")
 
 1.
 

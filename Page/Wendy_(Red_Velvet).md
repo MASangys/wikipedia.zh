@@ -19,7 +19,7 @@
 
 2010年，Wendy參與了[Cube娛樂](../Page/Cube娛樂.md "wikilink")的選拔“Koreaboo:Cube Entertainment Global Auditions 2011”以排名第14名進入決賽。她也曾參與YG娛樂選拔。
 
-2012年，Wendy通過SM娛樂舉辦的全球徵選（加拿大）而成為練習生，面試歌曲：[金健模](https://zh.wikipedia.org/wiki/金健模 "wikilink")－《首爾的月亮》\[13\]，能說一口流利的英語，並具備非凡的演奏實力和卓越的歌唱實力，能吹長笛、吉他演奏、薩克斯管。\[14\]\[15\]
+2012年，Wendy通過SM娛樂舉辦的全球徵選（加拿大）而成為練習生，面試歌曲：[金健模](https://zh.wikipedia.org/wiki/金健模 "wikilink")－《首爾的月亮》\[13\]，能說一口流利的英語，並具備非凡的演奏實力和卓越的歌唱實力，能吹長笛、薩克斯風、吉他演奏。\[14\]\[15\]
 
 2014年3月13日，SM娛樂公開Wendy為[SM ROOKIES的一員](../Page/SM_ROOKIES.md "wikilink")。\[16\]3月14日，為《[MiMi](../Page/MiMi.md "wikilink")》電視劇演唱OST《在悲傷中將你抹去》。
 
@@ -371,105 +371,6 @@
 </tbody>
 </table>
 
-### 單次訪問/嘉賓出演
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>年份</strong></p></td>
-<td><p><strong>放送日期</strong></p></td>
-<td><p><strong>節目名稱</strong></p></td>
-<td><p><strong>備註</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>2015年</p></td>
-<td><p>9月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://zh.wikipedia.org/wiki/心肺復甦SONG" title="wikilink">心肺復甦SONG</a>》</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年</p></td>
-<td><p>1月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a>》</p></td>
-<td><p>以<strong>宇宙美女梅德爾</strong>身份參賽</p></td>
-</tr>
-<tr class="even">
-<td><p>2月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="https://zh.wikipedia.org/wiki/公開音樂會" title="wikilink">公開音樂會</a>》</p></td>
-<td><p>rowspan=8 </p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5月4日</p></td>
-<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a> 《Cook家代表》</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>5月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a>》</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9月4日</p></td>
-<td><p>TvN 《<a href="https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人" title="wikilink">大腦性感的時代－問題的男人</a>》</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>12月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="https://zh.wikipedia.org/wiki/周三美食匯" title="wikilink">周三美食匯</a>》</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>12月24日</p></td>
-<td><p>OnStyleTV 《Laundry Day》</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年</p></td>
-<td><p>3月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a>》</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>11月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="../Page/Master_Key.md" title="wikilink">Master Key</a>》</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年</p></td>
-<td><p>3月21日</p></td>
-<td><p>Lifetime 《<a href="../Page/Idol_Moms.md" title="wikilink">Idol Moms</a>》</p></td>
-<td><p>與<a href="../Page/瑟琪.md" title="wikilink">SEULGI共同出演</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>4月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a>》</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>5月18日</p></td>
-<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a>《Busted! <a href="../Page/明星來解謎.md" title="wikilink">明星來解謎</a>》</p></td>
-<td><p>EP6<br />
-飾演 天才偵探團中的偵探</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10 月 20,27 日</p></td>
-<td><p>Lifetime《<a href="../Page/睡衣朋友.md" title="wikilink">睡衣朋友</a>》</p></td>
-<td><p>EP6-EP7<br />
-MC的至親</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ## 主持作品
 
 ### 音樂節目
@@ -605,7 +506,7 @@ MC的至親</p></td>
 | 2017年  | 3月18日              | KCON 2017 in Mexico                                                                                            | [Eric Nam](../Page/Eric_Nam.md "wikilink")                                                   | [《Eric Nam x Wendy - Spring Love》 Video](https://www.youtube.com/watch?v=1zu3QI_e9HM)    |
 | 4月25日  | KBS1 Open Concert  | 安致煥                                                                                                            | [《등대지기》 Video](https://www.youtube.com/watch?v=IeTyf5okwJ4)                                  |                                                                                          |
 
-### 電台
+### 電台主持
 
   - <small>所屬團體之共同電台，請參閱 [Red Velvet媒體作品列表](https://zh.wikipedia.org/wiki/Red_Velvet媒體作品列表 "wikilink")</small>
 
@@ -630,33 +531,15 @@ MC的至親</p></td>
 <td><p>與Joy、Yeri為一日DJ</p></td>
 </tr>
 <tr class="even">
-<td><p>5月23日</p></td>
-<td><p>《》</p></td>
-<td><p>與Joy為嘉賓</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年</p></td>
-<td><p>11月21日</p></td>
-<td><p>《》</p></td>
-<td><p>與Seulgi為嘉賓</p></td>
-</tr>
-<tr class="even">
 <td><p>2018年</p></td>
 <td><p>1月15日-1月18日</p></td>
 <td><p>《NCT Night Night》</p></td>
 <td><p>代班DJ</p></td>
 </tr>
 <tr class="odd">
-<td><p>2018年</p></td>
-<td><p>2月5日</p></td>
-<td><p>《》</p></td>
-<td><p>與 Irene、Seulgi為嘉賓</p></td>
-</tr>
-<tr class="even">
-<td><p>2月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC标准FM" title="wikilink">MBC標準FM</a>《》</p></td>
-<td><p>與 Irene、Seulgi為嘉賓</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

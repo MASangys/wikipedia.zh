@@ -102,27 +102,27 @@
   - 高手組：自第135集起，首週8位選手取前6名；往後每週新增一位選手自行選擇挑戰上週任一選手的分數卡位其名次，若挑戰成功(包含同分)則被挑戰者之名次以下的選手進行淘汰賽，淘汰最低分者；若挑戰失敗則淘汰新選手。單週最高分者得獎金壹萬元，連續衛冕20次第一名者贏得獎金壹佰萬元若中途衛冕失敗則中斷。
   - 青少年組：自第136集起，每10週一輪比賽，採不淘汰積分制。單週最高分者得獎金伍仟元，總積分最高者成為冠軍贏得獎金拾萬元。自第147集起，恢復類似舊賽制，最低分者記一點，累記3點即淘汰，其他選手記點歸零。單週最高分者得獎金伍仟元，連續衛冕10次第一名者贏得獎金拾萬元，若中途衛冕失敗則中斷但不淘汰。
 
-### 目前戰況（第165集）
+### 目前戰況（第166集）
 
-| 參賽者                                                 | 演唱曲目／原唱  | 薛忠銘 | 丁曉雯 | 王治平 | 許富凱 | 分數   | 備註   |
-| --------------------------------------------------- | -------- | --- | --- | --- | --- | ---- | ---- |
-| [楊淨宇](https://zh.wikipedia.org/wiki/楊淨宇 "wikilink") | ／        |     |     |     |     | 89.9 |      |
-| [梁敏靜](https://zh.wikipedia.org/wiki/梁敏靜 "wikilink") | ／        |     |     |     |     | 90.2 |      |
-| [覺婉榕](https://zh.wikipedia.org/wiki/覺婉榕 "wikilink") | ／        |     |     |     |     | 90.0 |      |
-| [古拉](https://zh.wikipedia.org/wiki/古拉 "wikilink")   | ／        |     |     |     |     | 90.0 |      |
-| [謝祥寅](https://zh.wikipedia.org/wiki/謝祥寅 "wikilink") | ／        |     |     |     |     | 90.1 |      |
-| [吉巴奈](https://zh.wikipedia.org/wiki/吉巴奈 "wikilink") | 領悟／辛曉琪   |     |     |     |     | 91.2 |      |
-| [宋少騫](https://zh.wikipedia.org/wiki/宋少騫 "wikilink") | 終於說出口／小宇 |     |     |     |     | 89.7 | 卡位失敗 |
+| 參賽者                                                 | 演唱曲目／原唱     | 薛忠銘 | 丁曉雯 | 羅文聰 | 許富凱 | 分數   | 備註   |
+| --------------------------------------------------- | ----------- | --- | --- | --- | --- | ---- | ---- |
+| [楊淨宇](https://zh.wikipedia.org/wiki/楊淨宇 "wikilink") | ／           |     |     |     |     | 89.7 |      |
+| [梁敏靜](https://zh.wikipedia.org/wiki/梁敏靜 "wikilink") | ／           |     |     |     |     | 90.3 |      |
+| [覺婉榕](https://zh.wikipedia.org/wiki/覺婉榕 "wikilink") | ／           |     |     |     |     | 90.1 |      |
+| [古拉](https://zh.wikipedia.org/wiki/古拉 "wikilink")   | 末班車／蕭煌奇     |     |     |     |     | 89.6 | 淘汰   |
+| [謝祥寅](https://zh.wikipedia.org/wiki/謝祥寅 "wikilink") | ／           |     |     |     |     | 90.2 |      |
+| [吉巴奈](https://zh.wikipedia.org/wiki/吉巴奈 "wikilink") | ／           |     |     |     |     | 90.8 |      |
+| [曾俐嘉](https://zh.wikipedia.org/wiki/曾俐嘉 "wikilink") | 我可以為你擋死／潘美辰 |     |     |     |     | 90.0 | 卡位成功 |
 
   - 青少年組
 
-| 參賽者                                                 | 演唱曲目／原唱 | 薛忠銘 | 丁曉雯 | 王治平 | 許富凱 | 分數 | 備註 |
-| --------------------------------------------------- | ------- | --- | --- | --- | --- | -- | -- |
-| [楊博智](https://zh.wikipedia.org/wiki/楊博智 "wikilink") | 緩緩愛／江惠儀 |     |     |     |     |    |    |
-| [new](https://zh.wikipedia.org/wiki/new "wikilink") | 追追追／黃妃  |     |     |     |     |    |    |
-| [孫凱淇](https://zh.wikipedia.org/wiki/孫凱淇 "wikilink") | ／       |     |     |     |     |    |    |
-| [洪尚捷](https://zh.wikipedia.org/wiki/洪尚捷 "wikilink") | ／       |     |     |     |     |    |    |
-| [龔芷玄](https://zh.wikipedia.org/wiki/龔芷玄 "wikilink") | ／       |     |     |     |     |    |    |
+| 參賽者                                                 | 演唱曲目／原唱     | 薛忠銘 | 丁曉雯 | 羅文聰 | 許富凱 | 分數 | 備註 |
+| --------------------------------------------------- | ----------- | --- | --- | --- | --- | -- | -- |
+| [楊博智](https://zh.wikipedia.org/wiki/楊博智 "wikilink") | ／           |     |     |     |     |    |    |
+| [吳宥璇](https://zh.wikipedia.org/wiki/吳宥璇 "wikilink") | ／           |     |     |     |     |    |    |
+| [孫凱淇](https://zh.wikipedia.org/wiki/孫凱淇 "wikilink") | ／           |     |     |     |     |    |    |
+| [洪尚捷](https://zh.wikipedia.org/wiki/洪尚捷 "wikilink") | ／           |     |     |     |     |    |    |
+| [龔芷玄](https://zh.wikipedia.org/wiki/龔芷玄 "wikilink") | YO YO姊妹／謝金燕 |     |     |     |     |    |    |
 
 ### 過關關主
 
@@ -300,9 +300,9 @@
 <td><p>（2019.07.20--）</p></td>
 <td><p>1</p></td>
 <td><p>90.3(暗淡的月)<br />
-90.3(暗淡的月)</p></td>
-<td><p>90.30</p></td>
-<td><p>90.30</p></td>
+90.4(領悟)</p></td>
+<td><p>90.35</p></td>
+<td><p>90.35</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 </tr>
@@ -548,12 +548,12 @@
 <td><p>9</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/謝祥寅" title="wikilink">謝祥寅</a></p></td>
 <td><p>（2019.01.05--）</p></td>
-<td><p>27</p></td>
+<td><p>28</p></td>
 <td><p>4</p></td>
 <td><p>3</p></td>
 <td><p>89.8(若是我回頭來牽你的手)<br />
 91.5(他不愛我、為你我受冷風吹)</p></td>
-<td><p>90.31</p></td>
+<td><p>90.30</p></td>
 <td><p>0</p></td>
 <td><p>3</p></td>
 </tr>
@@ -652,14 +652,14 @@
 <td><p>17</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楊淨宇" title="wikilink">楊淨宇</a></p></td>
 <td><p>（2019.03.09--）</p></td>
-<td><p>20</p></td>
+<td><p>21</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>89.5(我也很想他)<br />
 90.3(聽說愛情回來過)</p></td>
-<td><p>89.81</p></td>
+<td><p>89.89</p></td>
 <td><p>0</p></td>
-<td><p>13</p></td>
+<td><p>14</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -743,12 +743,12 @@
 <td><p>24</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梁敏靜" title="wikilink">梁敏靜</a></p></td>
 <td><p>（2019.04.27--）</p></td>
-<td><p>12</p></td>
+<td><p>13</p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>89.8(天頂的月娘)<br />
 90.4(我依然是你的情人、頭仔)</p></td>
-<td><p>90.11</p></td>
+<td><p>90.17</p></td>
 <td><p>0</p></td>
 <td><p>2</p></td>
 </tr>
@@ -834,27 +834,27 @@
 <td><p>31</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/覺婉榕" title="wikilink">覺婉榕</a></p></td>
 <td><p>（2019.06.22--）</p></td>
-<td><p>5</p></td>
+<td><p>6</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>89.9(癡癡威你等、愛上一個不回家的人)<br />
+<td><p>89.9(癡癡威你等、愛上一個不回家的人、囚鳥)<br />
 90.0(雨蝶、情難枕、舊愛還是最美)</p></td>
-<td><p>89.96</p></td>
+<td><p>89.95</p></td>
 <td><p>0</p></td>
-<td><p>2</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/古拉" title="wikilink">古拉</a></p></td>
 <td><p>（2019.06.29--）</p></td>
-<td><p>4</p></td>
+<td><p>5</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>89.9(有多少愛能夠重來、鬼迷心竅)<br />
+<td><p>89.8(放生)<br />
 90.3(讓每個人都心碎)</p></td>
-<td><p>90.08</p></td>
+<td><p>90.02</p></td>
 <td><p>0</p></td>
-<td><p>2</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
@@ -885,20 +885,33 @@
 <tr class="odd">
 <td><p>35</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉巴奈" title="wikilink">吉巴奈</a></p></td>
-<td><p>（2019.07.20）</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>（2019.07.20--）</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 <td><p>90.3(暗淡的月)<br />
-90.3(暗淡的月)</p></td>
-<td><p>90.30</p></td>
+90.4(領悟)</p></td>
+<td><p>90.35</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/new" title="wikilink">new</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宋少騫" title="wikilink">宋少騫</a></p></td>
 <td><p>（2019.07.27）</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>89.8(終於說出口)<br />
+89.8(終於說出口)</p></td>
+<td><p>89.80</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/new" title="wikilink">new</a></p></td>
+<td><p>（2019.08.03--）</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -1063,12 +1076,12 @@
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫凱淇" title="wikilink">孫凱淇</a></p></td>
 <td><p>（2019.03.24--）</p></td>
-<td><p>16</p></td>
+<td><p>18</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>89.3(愛來愛去)<br />
-90.0(裙襬搖搖)</p></td>
-<td><p>89.70</p></td>
+90.0(裙襬搖搖、我若變好額)</p></td>
+<td><p>89.73</p></td>
 <td><p>0</p></td>
 <td><p>15</p></td>
 </tr>
@@ -1076,12 +1089,12 @@
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洪尚捷" title="wikilink">洪尚捷</a></p></td>
 <td><p>（2019.03.24--）</p></td>
-<td><p>17</p></td>
+<td><p>18</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>89.4(好歹攏是命、挪威的森林)<br />
 90.2(有夢你會紅)</p></td>
-<td><p>89.85</p></td>
+<td><p>89.86</p></td>
 <td><p>0</p></td>
 <td><p>12</p></td>
 </tr>
@@ -1089,12 +1102,12 @@
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龔芷玄" title="wikilink">龔芷玄</a></p></td>
 <td><p>（2019.03.24--）</p></td>
-<td><p>17</p></td>
+<td><p>18</p></td>
 <td><p>4</p></td>
 <td><p>4</p></td>
 <td><p>89.7(哎喲哎喲)<br />
 90.3(我愛洗澡)</p></td>
-<td><p>90.00</p></td>
+<td><p>90.01</p></td>
 <td><p>0</p></td>
 <td><p>8</p></td>
 </tr>
@@ -1119,23 +1132,23 @@
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>89.8(心情歌路、那麼愛你)<br />
-90.1(放手)</p></td>
-<td><p>89.92</p></td>
+90.2(緩緩愛)</p></td>
+<td><p>89.96</p></td>
 <td><p>0</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/new" title="wikilink">new</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳宥璇" title="wikilink">吳宥璇</a></p></td>
 <td><p>（2019.07.27）</p></td>
+<td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
+<td><p>89.9(追追追)<br />
+(追追追)</p></td>
+<td><p>89.90</p></td>
 <td><p>0</p></td>
-<td><p>()<br />
-()</p></td>
-<td></td>
-<td><p>0</p></td>
-<td><p>0</p></td>
+<td><p>1</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-**名井南**（，\[1\]；），[藝名](../Page/藝名.md "wikilink")**Mina**（，），是一名在[韓國發展的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")兼[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")，現為[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE成员之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。她於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[比爾縣](../Page/比爾縣_\(德克薩斯州\).md "wikilink")[聖安東尼奧出生](../Page/圣安东尼奥_\(得克萨斯州\).md "wikilink")\[2\]，[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")長大。2013年在[大阪市](../Page/大阪市.md "wikilink")[梅田](../Page/梅田.md "wikilink")[購物](../Page/購物.md "wikilink")時被[JYP娛樂](../Page/JYP娛樂.md "wikilink")的[星探](../Page/星探.md "wikilink")發掘，並於2014年1月前往[韓國成為](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")的[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")。2015年因參加[實境節目](https://zh.wikipedia.org/wiki/實境節目 "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》被選為[TWICE的成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")，於同年10月20日[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")。
+**名井南**（，\[1\]；），[藝名](../Page/藝名.md "wikilink")**Mina**（，），現為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。她於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[比爾縣](../Page/比爾縣_\(德克薩斯州\).md "wikilink")[聖安東尼奧出生](../Page/圣安东尼奥_\(得克萨斯州\).md "wikilink")\[2\]，在[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")長大。
 
 ## 早年生活及教育
 
@@ -18,7 +18,7 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 
 2013年，於[JYP娛樂](../Page/JYP娛樂.md "wikilink")全球試鏡的最後一天，Mina在[日本](../Page/日本.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[梅田](../Page/梅田.md "wikilink")与母亲[購物](../Page/購物.md "wikilink")時\[12\]，被[JYP娛樂](../Page/JYP娛樂.md "wikilink")的[星探](../Page/星探.md "wikilink")發掘，因試鏡歌唱[宇多田光](../Page/宇多田光.md "wikilink")的《[First Love](../Page/First_Love_\(單曲\).md "wikilink")》而合格通過試鏡。於2014年1月2日成為[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下的[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")。
 
-2015年，Mina參加[JYP娛樂](../Page/JYP娛樂.md "wikilink")与[Mnet合作制作的新](https://zh.wikipedia.org/wiki/Mnet "wikilink")[女子音樂組合选拔及生存](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[实境节目](https://zh.wikipedia.org/wiki/实境节目 "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，为第十位公開的[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")\[13\]。在最終任務中，Mina在現場觀眾投票獲第四名，成為[TWICE的出道成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")，是練習時間最短的成員。
+2015年，Mina參加[JYP娛樂](../Page/JYP娛樂.md "wikilink")与[Mnet合作制作為選拔新](https://zh.wikipedia.org/wiki/Mnet "wikilink")[女子音樂組合最佳人選的生存](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[实境节目](https://zh.wikipedia.org/wiki/实境节目 "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，为第十位公開身份的[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")\[13\]。在最終任務中，Mina在現場觀眾投票獲第四名，成為[TWICE的出道成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")，是練習時間最短的成員(11個月)。
 
 ### 2015年－至今：TWICE
 
@@ -26,11 +26,11 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 
 2016年9月15日，Mina在[TWICE Melody Project中成為第一位公開翻唱作品的成員](../Page/TWICE_TV.md "wikilink")\[15\]。
 
-自第11屆起，Mina开始参加《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》。在第11屆上，Mina與[多賢](../Page/多賢.md "wikilink")代表「跑到最後隊」的成员（成員包括[防彈少年團](../Page/防彈少年團.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")以及[BESTie](../Page/BESTie.md "wikilink")），进行射箭比賽。在分戰時對上張丞延（[CLC](../Page/CLC.md "wikilink")隊長），以9:10落後，跑到最後隊最後敗陣。在第12屆上，Mina參加第一屆[韻律體操](../Page/艺术体操.md "wikilink")（圈操），因為正式比賽時失誤而屈居第六名，獲得分數為9.8分。后因準備第13屆錄影和第二屆女子韻律體操，Mina沒有回日本參加[成年禮](https://zh.wikipedia.org/wiki/成年禮 "wikilink")，在第二屆女子韻律體操（球操）上以12.25分（難度分4.05，實施分8.20，扣分0.00）的成绩與[FIESTAR](../Page/FIESTAR.md "wikilink")[曹璐](../Page/曹璐.md "wikilink")並列金牌。此後雙雙退役，沒有再參加比賽。
+2017年，TWICE参加了第十一屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》。Mina與[多賢](../Page/多賢.md "wikilink")代表「跑到最後隊」的成员（成員包括[防彈少年團](../Page/防彈少年團.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")以及[BESTie](../Page/BESTie.md "wikilink")），进行射箭比賽。在分戰時對上張丞延（[CLC](../Page/CLC.md "wikilink")隊長），以9:10落後，跑到最後隊最後敗陣。第十二屆，Mina參加第一屆[韻律體操](../Page/艺术体操.md "wikilink")（圈操），因正式比賽時失誤而屈居第六名，獲得分數為9.8分。后因準備第十三屆錄影和第二屆女子韻律體操，Mina沒有回日本參加[成年禮](https://zh.wikipedia.org/wiki/成年禮 "wikilink")，在第二屆女子韻律體操（球操）上以12.25分（難度分4.05，實施分8.20，扣分0.00）的成绩與[FIESTAR](../Page/FIESTAR.md "wikilink")[曹璐](../Page/曹璐.md "wikilink")並列金牌。此後雙方都沒有再參加比賽。
 
-2016年8月，為[Momo在](../Page/Momo_\(TWICE\).md "wikilink")《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》比賽提供支援。
+2016年8月，Mina為[Momo在](../Page/Momo_\(TWICE\).md "wikilink")《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》比賽提供支援。
 
-2019年7月11日，在公司發布公告：Mina因健康問題不參與接下來的世界巡迴演唱會。
+2019年7月11日，TWICE所屬公司[JYP發布公告](https://zh.wikipedia.org/wiki/JYP "wikilink")：Mina因對站在舞台上感到突然的極度緊張與不安(未公布準確的診斷名稱)，正向多間專業醫療機構確認中，經本人與成員的充分商議，認為目前Mina的健康狀況需要進一步治療，因此Mina將不參與接下來的世界巡迴演唱會TWICE WORLD TOUR 2019：TWICELIGHTS。
 
 ## 個人生活
 

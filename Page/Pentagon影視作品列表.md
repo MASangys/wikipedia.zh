@@ -679,6 +679,8 @@
 | 4月14日      | tbs eFM     | Idol’s Dignity                                 | 閆桉     |    |
 | 4月24日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎 Hui |    |
 | 5月6日       | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 閆桉     |    |
+| 7月18日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |        |    |
+| 7月24日      | MBC FM4U    | PARK KYUNG'S DREAMING RADIO                    |        |    |
 
 ## 廣告代言
 

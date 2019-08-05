@@ -65,7 +65,7 @@ local list = {
 `   { 'Blackangle', 3 },`
 `   { 'Bmwman', 10 },`
 `   { 'Bowen9314', 7 },`
-`   { 'Bowleerin', 42 },`
+`   { 'Bowleerin', 47 },`
 `   { 'Brianlai', 1 },`
 `   { 'BrockF5', 17 },`
 `   { 'Brookqi', 12 },`
@@ -136,7 +136,7 @@ local list = {
 `   { 'Domon', 3 },`
 `   { 'Dreamcrosser', 5 },`
 `   { 'Driger', 4 },`
-`   { 'Dqwyy', 91 },`
+`   { 'Dqwyy', 95 },`
 `   { 'Dyliu714', 4 },`
 `   { 'Ed cracker', 2 },`
 `   { 'EdmanHK', 5 },`
@@ -493,7 +493,7 @@ local list = {
 `   { 'Urostigma', 4 },`
 `   { 'Valygar', 2 },`
 `   { 'Vlady', 3 },`
-`   { 'Vozhuo', 391 },`
+`   { 'Vozhuo', 395 },`
 `   { 'Voidvector', 2 },`
 `   { 'Vulcanodong', 1 },`
 `   { 'W7747520', 1 },`

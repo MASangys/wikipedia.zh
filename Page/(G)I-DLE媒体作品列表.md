@@ -242,12 +242,13 @@
 
 ### 固定综艺
 
-| 播出日期                  | 电视台                                                            | 节目名称                                                | 参与成员 | 备注  |
-| --------------------- | -------------------------------------------------------------- | --------------------------------------------------- | ---- | --- |
-| 2016年1月22日-2016年4月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")          | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink")    | 小娟   | 出道前 |
-| 2016年7月29日-2016年9月30日 | [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink") |                                                     |      |     |
-| 2019年4月26日-2019年7月12日 | [浙江卫视](../Page/浙江卫视.md "wikilink")                             | [奔跑吧](../Page/奔跑吧.md "wikilink")                    | 雨琦   | 第3季 |
-| 2019年5月19日-2019年6月9日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")            | [丫头们](https://zh.wikipedia.org/wiki/丫头们 "wikilink") | 试播综艺 |     |
+| 播出日期                  | 电视台                                                            | 节目名称                                                                   | 参与成员 | 备注  |
+| --------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- | ---- | --- |
+| 2016年1月22日-2016年4月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")          | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink")                       | 小娟   | 出道前 |
+| 2016年7月29日-2016年9月30日 | [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink") |                                                                        |      |     |
+| 2019年4月26日-2019年7月12日 | [浙江卫视](../Page/浙江卫视.md "wikilink")                             | [奔跑吧](../Page/奔跑吧.md "wikilink")                                       | 雨琦   | 第3季 |
+| 2019年5月19日-2019年6月9日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")            | [丫头们](https://zh.wikipedia.org/wiki/丫头们 "wikilink")                    | 试播综艺 |     |
+| 2019年8月29日-           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")          | [Queendom](https://zh.wikipedia.org/wiki/Queendom_\(韩国综艺\) "wikilink") | 全体   |     |
 
 ### 嘉宾出演
 
@@ -415,69 +416,76 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>9月14日</p></td>
-<td><p>KBS World TV</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=MnX5fthP4Ms">K-Rush偶像大师</a></p></td>
+<td><p>9月4日</p></td>
+<td><p>一直播</p></td>
+<td><p>(G)I-DLE的一直播</p></td>
 <td><p>全体</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>9月14日</p></td>
+<td><p>KBS World TV</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=MnX5fthP4Ms">K-Rush偶像大师</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>9月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/偶像明星运动会" title="wikilink">偶像明星运动会</a></p></td>
 <td><p>雨琦：韵律体操</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月26日</p></td>
 <td><p>美延、Minnie：田径60米</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音樂電視網#MTV台灣頻道" title="wikilink">MTV</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=8eHr2J6yZbs">我爱偶像</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/演艺家中介" title="wikilink">演艺家中介</a></p></td>
 <td><p>小娟</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月9日</p></td>
 <td><p>VLIVE:(G)I-DLE</p></td>
 <td><p><a href="https://www.vlive.tv/video/98152?channelCode=CE2621">POP/STARS项目幕后</a></p></td>
 <td><p>美延、小娟</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月25日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
 <td><p>全体</p></td>
 <td><p>Thank you Award</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS歌谣大战" title="wikilink">歌谣大战</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS歌谣盛典" title="wikilink">歌谣盛典</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月31日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC歌谣大祭典" title="wikilink">歌谣大祭典</a></p></td>
@@ -663,23 +671,37 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>6月17日</p></td>
+<td><p>Mnet K-POP</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=HJ4-7jZFeNs">KCON D-20</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>6月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文化广播公司" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/一周的偶像" title="wikilink">一周的偶像</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月3日</p></td>
 <td><p>1theK Originals</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=vok-tx3LadQ">心灵感应直播</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>7月3日</p></td>
+<tr class="odd">
+<td><p>7月3日-</p></td>
 <td><p>The K-POP</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=2cg4Mc0-4tM">队友的营业</a></p></td>
+<td><p>队友的营业<a href="https://www.youtube.com/watch?v=2cg4Mc0-4tM">小娟篇、雨琦篇</a>、<a href="https://www.youtube.com/watch?v=Mtt9Hoz_o3Q&amp;t">舒华篇</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月3日-</p></td>
+<td><p>덬마니</p></td>
+<td><p>想和(G)I-DLE约会吗[12]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -712,31 +734,94 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>7月11日</p></td>
+<td><p>Amoeba Culture</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=MAcsBbKPMtE">Cart录音幕后花絮</a></p></td>
+<td><p>美延</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>7月12日</p></td>
 <td><p>Piki Pictures</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=jJrP0MFZKp0">妈妈入睡后</a></p></td>
 <td><p>美延、Minnie、穗珍</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>7月13日</p></td>
-<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>RUN.wav</p></td>
-<td><p>全体</p></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p>7月</p></td>
+<td><p>7月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我的小电视" title="wikilink">我的小电视</a></p></td>
 <td><p>雨琦</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>7月</p></td>
+<td><p>7月13日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
+<td><p><a href="../Page/RUN.wav.md" title="wikilink">RUN.wav</a></p></td>
+<td><p>全体</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月16日</p></td>
+<td><p>The K-POP</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=F8pB0rJmD1k">KK Dance</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月18日</p></td>
+<td><p>twitter</p></td>
+<td><p>KCON泰国推特直播</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月19日</p></td>
+<td><p>News-Ade</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=BYA2W3Iuhes">TMI爆发的团队测试</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我的小电视" title="wikilink">我的小电视</a></p></td>
+<td><p>雨琦</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月20日</p></td>
+<td><p>SBS KPOP PLAY</p></td>
+<td><p>Check-in LIVE <a href="https://www.youtube.com/watch?v=0Re2BEbylKM">E01</a>、<a href="https://www.youtube.com/watch?v=aB5Kf3q_qsg">E02</a></p></td>
+<td><p>全体</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=s6EQVN7X-kU">Pops in Seoul</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月23日</p></td>
+<td><p>Lululala Music</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=plFsf83gtco">投币练歌房</a></p></td>
+<td><p>Minnie、雨琦</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月25日-</p></td>
+<td><p>All that STAR</p></td>
+<td><p>明星花园<a href="https://www.youtube.com/watch?v=z79Sa0GIEkA">E01</a>、<a href="https://www.youtube.com/watch?v=_vvgdbjVdXE">E02</a></p></td>
+<td><p>小娟、雨琦</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/丛林的法则" title="wikilink">丛林的法则</a></p></td>
-<td></td>
+<td><p>雨琦</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -942,6 +1027,13 @@
 <td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS第2FM</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李秀贤" title="wikilink">李秀贤</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月12日[13]</p></td>
+<td><p>KBS World Radio</p></td>
+<td><p>Beuond Radio</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -1161,32 +1253,32 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=WG2VJgSmKTk">7月2日</a>、<a href="https://www.youtube.com/watch?v=D42Tj_VnqRU">7月9日</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=WG2VJgSmKTk">7月2日</a>、<a href="https://www.youtube.com/watch?v=D42Tj_VnqRU">7月9日</a>、<a href="https://www.youtube.com/watch?v=ilpAUJ5Hepk">7月16日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=aXumrr0B-2A">6月26日</a>、<a href="https://www.youtube.com/watch?v=Q6UJ7eBgnk8">7月3日</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=aXumrr0B-2A">6月26日</a>、<a href="https://www.youtube.com/watch?v=Q6UJ7eBgnk8">7月3日</a>、<a href="https://www.youtube.com/watch?v=Q4Cl4zgBwLg">7月17日</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=JWf7YhXTkaM">6月27日</a>、<a href="https://www.youtube.com/watch?v=Q_1YKBSYLjM">7月4日</a>、7月11日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=JWf7YhXTkaM">6月27日</a>、<a href="https://www.youtube.com/watch?v=Q_1YKBSYLjM">7月4日</a>、<a href="https://www.youtube.com/watch?v=Mz7JPYTjt4M">7月11日</a>、<a href="https://www.youtube.com/watch?v=tDMoUhjCQQA">7月18日</a>、<a href="https://www.youtube.com/watch?v=JY-Ai-MnhMk">7月25日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS第2频道.md" title="wikilink">KBS2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=A5JEXf4hd3U">6月28日</a>、<a href="https://www.youtube.com/watch?v=1ysLKoJw7qk">7月5日</a>、7月12日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=A5JEXf4hd3U">6月28日</a>、<a href="https://www.youtube.com/watch?v=1ysLKoJw7qk">7月5日</a>、<a href="https://www.youtube.com/watch?v=5mEToFI8tYs">7月12日</a>、<a href="https://www.youtube.com/watch?v=4dUUgRCQVqM">7月19日</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音乐中心" title="wikilink">Show! 音乐中心</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=daL4ERsp5TQ">6月29日</a>、7月13日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=daL4ERsp5TQ">6月29日</a>、<a href="https://www.youtube.com/watch?v=ulfINJoXP-o">7月13日</a>、<a href="https://www.youtube.com/watch?v=836gsiQwAVM">7月20日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/人气歌谣.md" title="wikilink">人气歌谣</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=iF2eaXH_sZ8">7月7日</a>、7月14日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=iF2eaXH_sZ8">7月7日</a>、<a href="https://www.youtube.com/watch?v=Htnf7_LL5Ks">7月14日</a>、<a href="https://www.youtube.com/watch?v=xAGUO0iWQ84">7月21日</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1206,6 +1298,7 @@
 | 2018年10月31日 | [KBS2](../Page/KBS第2频道.md "wikilink")                             | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | [Sunny](https://www.youtube.com/watch?v=KX5M_o2VsrU)              | 原唱：[Boney M.](https://zh.wikipedia.org/wiki/Boney_M. "wikilink") |                                                            |
 | 2018年12月25日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | [歌谣大战](https://zh.wikipedia.org/wiki/SBS歌谣大战 "wikilink")               | New Wave                                                          | 穗珍、小娟、雨琦                                                         |                                                            |
 | 2018年12月28日 | [KBS2](../Page/KBS第2频道.md "wikilink")                             | [歌谣盛典](https://zh.wikipedia.org/wiki/KBS歌谣盛典 "wikilink")               | [Kissing You](https://www.youtube.com/watch?v=wyo7ufOVQng)        | 雨琦                                                               | 原唱：[少女时代](../Page/少女时代.md "wikilink")                      |
+| 2019年7月25日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [All That Jazz](https://www.youtube.com/watch?v=V0ohtYGo49g)      | 全体                                                               | 音乐剧《芝加哥》                                                   |
 
 ## 参考资料
 
@@ -1224,3 +1317,5 @@
 9.  [Soyeon and Miyeon used motion capture equipment to perform in the K/DA “POP/STARS” music video](https://dotesports.com/league-of-legends/news/soyeon-and-miyeon-used-motion-capture-equipment-to-perform-in-the-k-da-pop-stars-music-video). DOT ESPORTS. November 5, 2018.
 10. [(여자)아이들((G)I-DLE) - 소확행 \#2 : 소연이의 '애정결핍' 드로잉 비디오 제작기](https://www.youtube.com/watch?v=7U26LjgodYU). United CUBE. June 18, 2019.
 11. [Self-cam](https://www.youtube.com/watch?v=rJjMP4stNg0)、[Behind Part.1](https://www.youtube.com/watch?v=dFoXDP1E_Mo)、[Behind Part.2](https://www.youtube.com/watch?v=rBnlxgfGGTI). The K-POP : SBS PLUS. May 23, 2019-.
+12. [美延篇](https://www.youtube.com/watch?v=d0Lu9bagzoE)、[Minnie篇](https://www.youtube.com/watch?v=hB-kE0UOMbU)、[穗珍篇](https://www.youtube.com/watch?v=p5Qe_rVclnA)、[小娟篇](https://www.youtube.com/watch?v=XaykABBu-9U)、[雨琦篇](https://www.youtube.com/watch?v=YFrAmEN5gf8)、[舒华篇](https://www.youtube.com/watch?v=kdp7gi6-LfU)、[幕后篇](https://www.youtube.com/watch?v=LTHhmDVJcLE&t). 덬마니. July 3, 2019-.
+13. [\#g_idle \#여자아이들](https://www.instagram.com/p/Bz0OsTFDt6U/). instagram@kbs_world_arabic. July 12,2019.

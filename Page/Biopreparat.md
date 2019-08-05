@@ -100,7 +100,7 @@ Biopreparat是18所名义上的民用研究设施组成的系统，这些实验�
   - [Article from James Martin Center for Nonproliferation Studies report: "FORMER SOVIET BIOLOGICAL WEAPONS FACILITIES IN KAZAKHSTAN: PAST, PRESENT, AND FUTURE". Also describes Biopreparat in some detail.](http://webarchive.loc.gov/all/20011111170136/http%3A//cns.miis.edu/pubs/opapers/op1/op1.htm)
   - [Ebola_Pox_Ultimate_Doomsday_Virus](http://allnewspipeline.com/Ebola_Pox_Ultimate_Doomsday_Virus.php)
 
-[Category:生物倫理學](https://zh.wikipedia.org/wiki/Category:生物倫理學 "wikilink") [Category:苏联军事组织](https://zh.wikipedia.org/wiki/Category:苏联军事组织 "wikilink") [Category:冷战武器](https://zh.wikipedia.org/wiki/Category:冷战武器 "wikilink") [Category:苏联人权](https://zh.wikipedia.org/wiki/Category:苏联人权 "wikilink") [Category:俄罗斯战争](https://zh.wikipedia.org/wiki/Category:俄罗斯战争 "wikilink")
+[Category:生物倫理學](https://zh.wikipedia.org/wiki/Category:生物倫理學 "wikilink") [Category:苏联国防企业](https://zh.wikipedia.org/wiki/Category:苏联国防企业 "wikilink") [Category:冷战武器](https://zh.wikipedia.org/wiki/Category:冷战武器 "wikilink") [Category:苏联人权](https://zh.wikipedia.org/wiki/Category:苏联人权 "wikilink") [Category:俄罗斯战争](https://zh.wikipedia.org/wiki/Category:俄罗斯战争 "wikilink")
 
 1.
 2.  Alibek,K. and S. Handelman. *Biohazard: The Chilling True Story of the Largest Covert Biological Weapons Program in the World - Told from Inside by the Man Who Ran it.* 1999. Delta (2000)  [1](https://www.amazon.com/dp/0385334966/)

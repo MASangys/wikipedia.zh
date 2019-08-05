@@ -71,7 +71,7 @@ SOLO</p></td>
 <td><p>AB</p></td>
 <td><p>淺藍</p></td>
 <td><p>2Y</p></td>
-<td><p>-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GIDONGDAE" title="wikilink">GIDONGDAE</a></p></td>
 <td><p>53</p></td>
 <td></td>
 <td></td>

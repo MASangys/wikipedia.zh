@@ -57,7 +57,7 @@
 
 ## 参考资料
 
-[Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink")
+[Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink")
 
 1.
 

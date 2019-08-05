@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>機種</p></td>
+<td></td>
 <td><p>ZE554KL</p></td>
 <td><p>ZS551KL</p></td>
 <td><p>ZD552KL</p></td>

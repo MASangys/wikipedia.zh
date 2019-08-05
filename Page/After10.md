@@ -541,6 +541,21 @@ featuring 康 on Guitar</p></td>
 2019年
 
   - 1月26日: Cheronna [吳嘉熙](../Page/吳嘉熙.md "wikilink") - 荃新天地 Event（康擔任和音及結他手）
+  - 2月17日：**After10** - Mud膠市集
+  - 2月28日: [鄭融](../Page/鄭融.md "wikilink") - KKBOX Live直播（康擔任和音及結他手）
+  - 3月22日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") － Joox Live直播（康擔任和音及結他手）
+  - 3月22日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") － 英國保誠頒獎禮嘉賓（康擔任和音及結他手）
+  - 3月30日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") － 1000卡 Music Run Fest（康擔任和音及結他手）
+  - 4月6, 7日: [I Love You Boyz](../Page/I_Love_You_Boyz.md "wikilink") - 艾粒 BOOM紅館激戰演唱會（康擔任和音及結他手）
+  - 5月9日: [黎瑞恩](../Page/黎瑞恩.md "wikilink") - Facebook Live（康擔任結他手，偉擔任鼓手）
+  - 5月18日: [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") - Yellow\! x Aka @1563（康擔任和音及結他手）
+  - 5月23日: [譚杏藍](../Page/譚杏藍.md "wikilink") - 小花 x 華星冰室（康擔任結他手）
+  - 6月8日：**After10** - Underground Rocks 2019 @ The Hub
+  - 6月15日：**After10** - APM Acoustics Set
+  - 6月29日：**After10** - Live In TAIWAN \#1 [女巫店](https://zh.wikipedia.org/wiki/女巫店 "wikilink")
+  - 6月30日：**After10** - Live In TAIWAN \#2 [新銳咖啡](https://zh.wikipedia.org/wiki/新銳咖啡 "wikilink") 台中惠中店 開幕嘉賓
+  - 6月30日：**After10** - Live In TAIWAN \#3 [河岸留言](https://zh.wikipedia.org/wiki/河岸留言 "wikilink")
+  - 7月25日: [黎瑞恩](../Page/黎瑞恩.md "wikilink") - Facebook Live（康擔任結他手，偉擔任鼓手）
 
 ## WHF Home Music
 

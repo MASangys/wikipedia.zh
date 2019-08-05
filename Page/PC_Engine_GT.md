@@ -4,6 +4,8 @@
 
 PC Engine GT之開發計畫代號為「Game Tank」， 1990年12月1日首發。
 
+被GameBoy擊敗。
+
 ## 硬體
 
 ## 參見

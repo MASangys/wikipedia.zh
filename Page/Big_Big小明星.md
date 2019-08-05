@@ -131,7 +131,7 @@
 | 106    | [7月6日](https://zh.wikipedia.org/wiki/7月6日 "wikilink")   | 「Big Big KIDs」－小明星愛爸媽        |
 | 107    | [7月13日](https://zh.wikipedia.org/wiki/7月13日 "wikilink") | 「Big Big KIDs」－小明星憑外表擇友？     |
 | 108    | [7月20日](https://zh.wikipedia.org/wiki/7月20日 "wikilink") | 「Big Big KIDs」－小明星生病『奇遇』     |
-| 109    | [7月27日](https://zh.wikipedia.org/wiki/7月27日 "wikilink") | 「Big Big KIDs」－              |
+| 109    | [7月27日](https://zh.wikipedia.org/wiki/7月27日 "wikilink") | 「Big Big KIDs」－小明星合力贏驕傲的GM   |
 
 ## 主持
 

@@ -319,7 +319,7 @@
 
   - （2003年－2004年，[文化放送](../Page/文化放送_\(日本\).md "wikilink")→）
 
-  - 信紙與郵件／Mail（[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")）
+  - 信紙與郵件／Mail（[JFN](../Page/JFN.md "wikilink")）
 
 ### 舞台
 

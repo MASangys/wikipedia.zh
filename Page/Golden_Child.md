@@ -176,10 +176,11 @@
 
 ## 廣告代言
 
-| 年份        | 廣告名稱      | 參與成員 |
-| --------- | --------- | ---- |
-| 2019年     | 正官庄 IPASS | 普閔   |
-| lilybyred |           |      |
+| 年份        | 廣告名稱              | 種類   | 參與成員 |
+| --------- | ----------------- | ---- | ---- |
+| 2019年     | 正官庄 I-PASS 紅蔘CAMP | 保健食品 | 普閔   |
+| lilybyred | 美妝                |      |      |
+| My Dahlia | 香水                |      |      |
 
 ## 宣傳大使
 
@@ -429,6 +430,7 @@
 | 6月15日     | 2019 K-POP Artist Festival                         | 首爾樂園 東門 特設舞台                               |
 | 7月23日-24日 | 2019 JAPAN Live Tour:夢 Japan Collection X THE SHOW | Zepp Osaka Bayside                         |
 | 8月16日     | 2019 K-WORLD FESTA 開幕公演                            | KSPO DOME (體操競技場)                          |
+| 8月17日     | KIMA WEEK 2019 in 浦項                               | 迎月台 海上樓閣前 廣場                               |
 | 8月24日     | 越南·韓國文化交流event                                     | 河內 美亭國家運動場                                 |
 
 ### 簽售會

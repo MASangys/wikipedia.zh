@@ -5823,7 +5823,7 @@ War Tech Fighters</p></td>
 <tr class="even">
 <td><p><a href="../Page/超級瑪利歐創作家2.md" title="wikilink">超級瑪利歐創作家2</a><br />
 スーパーマリオメーカー2<br />
-Super Mario Maker2<br />
+Super Mario Maker 2<br />
 (瑪利歐製造2)</p></td>
 <td><p>平台</p></td>
 <td><p>任天堂企劃製作本部</p></td>
@@ -5985,8 +5985,7 @@ FIA European Truck Racing Championship</p></td>
 <td><p>2019年7月18日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/闇黑號令_(漫畫).md" title="wikilink">漫威終極英雄聯盟3:<br />
-闇黑號令</a><br />
+<td><p><a href="../Page/漫威英雄：終極聯盟3.md" title="wikilink">漫威英雄：終極聯盟3</a><br />
 MARVEL ULTIMATE ALLIANCE 3: The Black Order</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/清版動作遊戲" title="wikilink">捲軸動作</a></p></td>
 <td><p>Team NINJA</p></td>
@@ -6483,9 +6482,9 @@ Zen Studios</p></td>
 <td><p>2019年9月13日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/DAEMON_X_MACHINA.md" title="wikilink">惡魔x機甲(暫名)<br />
-DAEMON X MACHINA</a><br />
-(デモンエクスマキナ)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/機甲戰魔" title="wikilink">機甲戰魔</a><br />
+デモンエクスマキナ<br />
+DAEMON X MACHINA</p></td>
 <td><p>第三人稱射擊、動作</p></td>
 <td><p><a href="../Page/Marvelous.md" title="wikilink">Marvelous</a></p></td>
 <td><p>任天堂</p></td>

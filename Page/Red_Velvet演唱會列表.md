@@ -715,18 +715,26 @@
 </tr>
 <tr class="odd">
 <td><p>4月27日</p></td>
-<td><p>Transcity BSD Concert</p></td>
+<td><p>Konser Korean Wave 2019</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>Trans City BSD</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>7月30日</p></td>
+<td><p>新羅免稅店BEAUTY&amp;YOU 一周年慶祝活動</p></td>
 <td></td>
+<td><p><a href="../Page/赤鱲角.md" title="wikilink">赤鱲角</a></p></td>
+<td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>9月28日</p></td>
+<td><p>Super K-Pop Festival Indonesia 2019</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坦格朗" title="wikilink">坦格朗</a></p></td>
+<td><p>Indonesia Convention Exhibition</p></td>
 <td></td>
 </tr>
 </tbody>

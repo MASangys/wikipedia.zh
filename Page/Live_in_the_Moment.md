@@ -1,4 +1,4 @@
-《**Live in the Moment**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[Gin Lee的第](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")6張錄音室專輯、第5張粵語專輯\[1\]，於2017年9月8日同步推出普通版及Deluxe版；後者比前者多了一本相集及一張音樂會換票證。12月13日推出了「聖誕慶功版」，把之前附送的DVD換成Bonus CD。
+《**Live in the Moment**》是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[歌手](../Page/歌手.md "wikilink")[李幸倪](../Page/李幸倪.md "wikilink")的第6張錄音室專輯、第5張粵語專輯\[1\]，於2017年9月8日同步推出普通版及Deluxe版；後者比前者多了一本相集及一張音樂會換票證。12月13日推出了「聖誕慶功版」，把之前附送的DVD換成Bonus CD。
 
 ## 曲目列表
 

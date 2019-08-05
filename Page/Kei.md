@@ -2,7 +2,20 @@
 
 ## 音樂作品
 
-### 參與作品
+### OST
+
+|        |                                                       |                                                             |                                  |
+| ------ | ----------------------------------------------------- | ----------------------------------------------------------- | -------------------------------- |
+| 年份     | 日期                                                    | 影視作品                                                        | 歌曲名稱                             |
+| 2015   | 12月21日                                                | [Oh My Venus](../Page/Oh_My_Venus.md "wikilink") OST Part.6 | 愛情是那樣（사랑은 그렇게）                   |
+| 2016   | 5月25日                                                 | [好運羅曼史](../Page/好運羅曼史.md "wikilink") OST Part.1             | 酥酥麻麻（찌릿찌릿）                       |
+| 2017   | [君主－假面的主人](../Page/君主－假面的主人.md "wikilink") OST Part.4 | 星與日（별과 해）                                                   |                                  |
+| 2018   | 3月8日                                                  | [推理的女王2](../Page/推理的女王2.md "wikilink") OST Part.2           | 最近的你,最近的我（요즘 너 요즘 나）             |
+| 5月26日  | [Rich Man](../Page/Rich_Man.md "wikilink") OST Part.3 | Let's Pray                                                  |                                  |
+| 12月27日 | [皇后的品格](../Page/皇后的品格.md "wikilink") OST Part.3       | 傳達內心的話（마음을 전하면）                                             |                                  |
+| 2019   | 6月6日                                                  | [絕對達令](../Page/絕對達令_\(韓國電視劇\).md "wikilink") OST Part.4     | MY Absolute Boyfriend(초능력 나의 그대) |
+
+### 參與翻唱作品
 
 <table>
 <tbody>
@@ -22,14 +35,50 @@
 <td><p>與<a href="https://zh.wikipedia.org/wiki/myunDo" title="wikilink">myunDo</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>2019</p></td>
+<td><p>2月5日</p></td>
+<td><p>My love to you（내사랑 투유）</p></td>
+<td><p><a href="../Page/現在1位是.md" title="wikilink">MBC 重寫榜單秀 &lt;現在1位是?&gt;</a></p></td>
+<td><p>與<a href="../Page/李濬榮.md" title="wikilink">Jun</a></p></td>
+</tr>
+<tr class="even">
+<td><p>3月16日</p></td>
+<td><p>Can’t Live without You feat. Kei (그대 없이는 못 살아 feat. Kei)</p></td>
+<td><center>
+<p>-</p></td>
+<td><p>與<a href="../Page/亨敦和大俊.md" title="wikilink">亨敦和大俊</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 其他作品
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>日期</p></td>
+<td><p>歌曲名稱</p></td>
+<td><p>收錄專輯</p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
 <td><p>10月27日</p></td>
 <td><p>Beautiful</p></td>
 <td><center>
 <p>-</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/The_Solutions" title="wikilink">The Solutions</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017</p></td>
 <td><p>6月14日</p></td>
 <td><p>好想戀愛（연애하고 싶어）</p></td>
@@ -38,18 +87,6 @@
 </tr>
 </tbody>
 </table>
-
-### OST
-
-|        |                                                       |                                                             |                      |
-| ------ | ----------------------------------------------------- | ----------------------------------------------------------- | -------------------- |
-| 年份     | 日期                                                    | 影視作品                                                        | 歌曲名稱                 |
-| 2015   | 12月21日                                                | [Oh My Venus](../Page/Oh_My_Venus.md "wikilink") OST Part.6 | 愛情是那樣（사랑은 그렇게）       |
-| 2016   | 5月25日                                                 | [好運羅曼史](../Page/好運羅曼史.md "wikilink") OST Part.1             | 酥酥麻麻（찌릿찌릿）           |
-| 2017   | [君主－假面的主人](../Page/君主－假面的主人.md "wikilink") OST Part.4 | 星與日（별과 해）                                                   |                      |
-| 2018   | 3月8日                                                  | [推理的女王2](../Page/推理的女王2.md "wikilink") OST Part.2           | 最近的你,最近的我（요즘 너 요즘 나） |
-| 5月26日  | [Rich Man](../Page/Rich_Man.md "wikilink") OST Part.3 | Let's Pray                                                  |                      |
-| 12月27日 | [皇后的品格](../Page/皇后的品格.md "wikilink") OST Part.3       | 傳達內心的話（마음을 전하면）                                             |                      |
 
 ## 綜藝節目
 

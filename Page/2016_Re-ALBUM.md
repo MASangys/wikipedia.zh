@@ -1,4 +1,4 @@
-《**2016 Re-ALBUM**》是[韓國第一代](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")於2016年5月11日加入[YG娛樂](../Page/YG娛樂.md "wikilink")重啟活動後，於同年12月1日所發行的重新錄音專輯。專輯由[YG娛樂](../Page/YG娛樂.md "wikilink")製作、[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2016年12月1日午夜0時（[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）通過各大數位音樂網站公開線上音源，實體專輯則於12月6日以兩種版本發售。此專輯從水晶男孩於1997年至2000年解散前所發行的五張專輯中，精選十首曲目重新編曲、錄音、混音，並收錄2016年10月發行的數位單曲《[THREE WORDS](../Page/THREE_WORDS.md "wikilink")》，主打歌為〈COUPLE〉、〈騎士道〉、〈戀情〉。
+《**2016 Re-ALBUM**》是[韓國第一代](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")於2016年5月11日加入[YG娛樂](../Page/YG娛樂.md "wikilink")重啟活動後，於同年12月1日所發行的重新錄音專輯。專輯由[YG娛樂](../Page/YG娛樂.md "wikilink")製作、[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2016年12月1日午夜0時通過各大數位音樂網站公開線上音源，實體專輯則於12月6日以兩種版本發售。此專輯從水晶男孩於1997年至2000年解散前所發行的五張專輯中，精選十首曲目重新編曲、錄音、混音，並收錄2016年10月發行的數位單曲《[THREE WORDS](../Page/THREE_WORDS.md "wikilink")》，主打歌為〈COUPLE〉、〈騎士道〉、〈戀情〉。
 
 ## 背景
 
@@ -72,7 +72,7 @@ YG娛樂於11月18日公告「WHO'S NEXT?」 ，並於23日公告為水晶男孩
 
 ## 曲目
 
-<small>備註：曲目第一行為[YG娛樂](../Page/YG娛樂.md "wikilink")公布，第二行為中譯，使用過往[DSP Media發行漢字或](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[滾石唱片](../Page/滾石唱片.md "wikilink")翻譯台壓版曲名</small>
+**《2016 Re-ALBUM》（主打歌以粗體顯示）**   <small>備註：曲目第一行為[YG娛樂](../Page/YG娛樂.md "wikilink")公布，第二行為中譯，使用過往[DSP Media發行漢字或](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[滾石唱片](../Page/滾石唱片.md "wikilink")翻譯台壓版曲名</small>
 
 ## 發行歷史
 

@@ -39,19 +39,19 @@
 
 ### Cover《說看看系列》
 
-| 發佈日                           | 歌曲名稱                                                | 原唱                                                                                                              | 翻唱者            |
-| ----------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------- |
-| 2014年6月15日                    | This is love 說看看 Jam Vol. 1                         | [Maroon 5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink")                                                   | J.Sheon, Tower |
-| 2014年8月11日|愛不來 說看看 Jam Vol. 2 | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") | J.Sheon, Rong, Tower                                                                                            |                |
-| 2015年2月10日                    | Sober 說看看 Vol. 3                                    | [Childish Gambino](https://zh.wikipedia.org/wiki/Childish_Gambino "wikilink")                                   | J.Sheon        |
-| 2015年4月6日                     | 想你的夜(復仇版) 說看看 Vol. 4                                | [關喆](https://zh.wikipedia.org/wiki/關喆 "wikilink")                                                               | J.Sheon        |
-| 2015年5月22日                    | See You Again中文版 說看看 Vol. 5                         | [Wiz Khalifa](https://zh.wikipedia.org/wiki/Wiz_Khalifa "wikilink")                                             | J.Sheon        |
-| 2015年4月28日                    | I'm Not The Only One 說看看 Vol. 6                     | [Sam Smith](https://zh.wikipedia.org/wiki/Sam_Smith "wikilink")                                                 | J.Sheon, 方Q    |
-| 2015年7月12日                    | 喜劇之王(重鹹版) 說看看 Vol. 7                                | [李榮浩](../Page/李榮浩.md "wikilink")                                                                                | J.Sheon        |
-| 2016年？月？日                     | Yo-Kai Watch 妖怪手錶 說看看 Vol. 8                        | [Dream5](../Page/Dream5.md "wikilink")                                                                          | J.Sheon        |
-| 2016年2月7日                     | 認同請分享 (新年快樂) 說看看 Vol. 9                             | J.Sheon                                                                                                         | J.Sheon        |
-| 2016年6月27日                    | Everytime (Descendants of the Sun) 說看看 Vol. 10      | [CHEN](https://zh.wikipedia.org/wiki/CHEN "wikilink") & [Punch](https://zh.wikipedia.org/wiki/Punch "wikilink") | J.Sheon        |
-| 2017年4月14日                    | 街巷 說看看 Vol. 11                                      | J.Sheon                                                                                                         | J.Sheon        |
+| 發佈日         | 歌曲名稱                                                                                                               | 原唱                                                                                                              | 翻唱者                  |
+| ----------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | -------------------- |
+| 2014年6月15日  | [This love 說看看 Jam Vol. 1](https://www.youtube.com/watch?v=QfWSM0BGcIo)                                            | [Maroon 5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink")                                                   | J.Sheon, Tower       |
+| 2014年8月11日  | [愛不來 說看看 Jam Vol. 2](https://www.youtube.com/watch?v=HCVnhfU1F74)                                                  | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")                                                             | J.Sheon, Rong, Tower |
+| 2015年2月10日  | [Sober 說看看 Vol. 3](https://www.youtube.com/watch?v=-msiCtY5V_M)                                                    | [Childish Gambino](https://zh.wikipedia.org/wiki/Childish_Gambino "wikilink")                                   | J.Sheon              |
+| 2015年4月6日   | [想你的夜(復仇版) 說看看 Vol. 4](https://www.youtube.com/watch?v=7H8NRap1JNs)                                                | [關喆](https://zh.wikipedia.org/wiki/關喆 "wikilink")                                                               | J.Sheon              |
+| 2015年5月22日  | [See You Again中文版 說看看 Vol. 5](https://www.youtube.com/watch?v=NoFOcvUlBF8)                                         | [Wiz Khalifa](https://zh.wikipedia.org/wiki/Wiz_Khalifa "wikilink")                                             | J.Sheon              |
+| 2015年4月28日  | [I'm Not The Only One 說看看 Vol. 6](https://www.youtube.com/watch?v=0qf5HLTcgB4)                                     | [Sam Smith](https://zh.wikipedia.org/wiki/Sam_Smith "wikilink")                                                 | J.Sheon, 方Q          |
+| 2015年7月12日  | [喜劇之王(重鹹版) 說看看 Vol. 7](https://www.youtube.com/watch?v=gbJkbNmaXxU)                                                | [李榮浩](../Page/李榮浩.md "wikilink")                                                                                | J.Sheon              |
+| 2015年10月25日 | ["妖怪手錶/ようかい体操第一 " 說看看 Vol. 8](https://www.facebook.com/OfficialJSheon/videos/1025361907514479/?v=1025361907514479) | [Dream5](../Page/Dream5.md "wikilink")                                                                          | J.Sheon              |
+| 2016年2月7日   | [認同請分享 (新年快樂) 說看看 Vol. 9](https://www.youtube.com/watch?v=bKU3hJqR7pY)                                             | J.Sheon                                                                                                         | J.Sheon              |
+| 2016年6月27日  | [Everytime (Descendants of the Sun) 說看看 Vol. 10](https://www.youtube.com/watch?v=Fz8AppMbLww)                      | [CHEN](https://zh.wikipedia.org/wiki/CHEN "wikilink") & [Punch](https://zh.wikipedia.org/wiki/Punch "wikilink") | J.Sheon              |
+| 2017年4月14日  | [街巷 說看看 Vol. 11](https://www.youtube.com/watch?v=013KIGGg12c)                                                      | J.Sheon                                                                                                         | J.Sheon              |
 
 ### 合作歌曲
 
@@ -66,6 +66,7 @@
 | 2018年6月15日  | 《闖空門》 feat. J.Sheon        | [滾石唱片](../Page/滾石唱片.md "wikilink")                    | [孫盛希](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")  |
 | 2019年2月27日  | 《R\&B Girl》 feat. J.Sheon  | [滾石唱片](../Page/滾石唱片.md "wikilink")                    | [頑童MJ116](../Page/頑童MJ116.md "wikilink")             |
 | 2019年3月20日  | 《不要命》 feat. J.Sheon        | [相信音樂](https://zh.wikipedia.org/wiki/相信音樂 "wikilink") | [丁噹](../Page/丁噹.md "wikilink")                       |
+| 2019年6月5日   | 《失眠是一種病》 feat. J.Sheon     | [滾石唱片](../Page/滾石唱片.md "wikilink")                    | [MC HotDog](../Page/MC_HotDog.md "wikilink")         |
 
 ### 音樂創作
 
@@ -277,7 +278,7 @@
 <tr class="even">
 <td><p>2017年9月</p></td>
 <td><p>安那 (ANNA)</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=MZVYI8ks1sU">你妹安那</a></p></td>
+<td><p>你妹安那</p></td>
 <td><p>李若君</p></td>
 <td><p>J.Sheon / <a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
 <td></td>
@@ -301,7 +302,7 @@
 <td><p>頑童MJ116/J.Sheon/<a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
 <td><p>頑童MJ116/J.Sheon</p></td>
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/董DON" title="wikilink">董DON</a>》</p></td>
+<td><p>《董DON》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -314,24 +315,36 @@
 <td><p>《<a href="../Page/愛到不要命_Die_Lovin&#39;.md" title="wikilink">愛到不要命 Die Lovin'</a>》</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年6月</p></td>
+<td><p><a href="../Page/MC_HotDog.md" title="wikilink">MC HotDog</a></p></td>
+<td><p>失眠是一種病</p></td>
+<td><p>熱狗MC Hotdog/J.Sheon</p></td>
+<td><p>熱狗MC Hotdog/J.Sheon</p></td>
+<td></td>
+<td><p>《廢物》</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ### MV
 
-| 首播日期       | 歌名                                                                   | 歌手                                                   |
-| ---------- | -------------------------------------------------------------------- | ---------------------------------------------------- |
-| 2013年5月22日 | [提示 feat. J.Sheon](https://www.youtube.com/watch?v=TnYWmXTrq_M)      | [頑童MJ116](../Page/頑童MJ116.md "wikilink") - 小春(Kenzy) |
-| 2014年6月26日 | [Running feat. J.Sheon](https://www.youtube.com/watch?v=tSXPL4Km7hs) | [頑童MJ116](../Page/頑童MJ116.md "wikilink")             |
-| 2014年5月25日 | Drive feat. J.Sheon                                                  | bboydry                                              |
-| 2015年7月20日 | Graduation Party feat. J.Sheon, FunQ                                 | SmashRegz/違法                                         |
-| 2015年8月19日 | 你我可以 feat. J.Sheon                                                   | [熊仔](../Page/熊仔.md "wikilink")                       |
-| 2016年10月1日 | [早上PAPAPA](https://www.youtube.com/watch?v=yOEpwDu7OB4)              | J.Sheon、[Starr Chen](../Page/陳星翰.md "wikilink")      |
-| 2017年5月5日  | [You'll Never Know](https://www.youtube.com/watch?v=-YsN9QJ_wD8)     | J.Sheon                                              |
-| 2017年5月15日 | [啵啦 feat. 呂士軒](https://www.youtube.com/watch?v=3WGIV7dsCw4)          | J.Sheon                                              |
-| 2017年6月8日  | [別問很可怕](https://www.youtube.com/watch?v=tRa3fOlnN7k)                 | J.Sheon                                              |
-| 2017年8月7日  | [你點的歌救了我 feat. J.Sheon](https://m.youtube.com/watch?v=lQaa2Ejz_9o)   | [A-Lin](../Page/A-Lin.md "wikilink")                 |
-| 2019年3月20日 | [不要命 feat. J.Sheon](https://m.youtube.com/watch?v=D0-clQ5J0XE)       | [丁噹](../Page/丁噹.md "wikilink")                       |
+| 首播日期       | 歌名                                                                                                                                      | 歌手                                                          |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 2013年5月22日 | [提示 feat. J.Sheon](https://www.youtube.com/watch?v=TnYWmXTrq_M)                                                                         | [頑童MJ116](../Page/頑童MJ116.md "wikilink") - 小春(Kenzy)        |
+| 2014年6月26日 | [Running feat. J.Sheon](https://www.youtube.com/watch?v=tSXPL4Km7hs)                                                                    | [頑童MJ116](../Page/頑童MJ116.md "wikilink")                    |
+| 2014年5月25日 | [Drive feat. J.Sheon](https://www.youtube.com/watch?v=Ylj7KDlO56o&fbclid=IwAR1_yYL4yhImFwtgDih5DNwBdJDAR5HBJT97BTi5J5Nc-fZE3IMPVpzQCZ0) | bboydry                                                     |
+| 2015年7月20日 | [Graduation Party feat. J.Sheon, FunQ](https://www.youtube.com/watch?v=1wRc5833Mz4)                                                     | [違法SmashRegz](../Page/違法SmashRegz.md "wikilink")            |
+| 2015年8月19日 | [你我可以 feat. J.Sheon](https://www.youtube.com/watch?v=B6J-URwBIRU)                                                                       | [熊仔](../Page/熊仔.md "wikilink")                              |
+| 2016年10月1日 | [早上PAPAPA](https://www.youtube.com/watch?v=yOEpwDu7OB4)                                                                                 | J.Sheon、[Starr Chen](../Page/陳星翰.md "wikilink")             |
+| 2017年5月5日  | [You'll Never Know](https://www.youtube.com/watch?v=-YsN9QJ_wD8)                                                                        | J.Sheon                                                     |
+| 2017年5月15日 | [啵啦 feat. 呂士軒](https://www.youtube.com/watch?v=3WGIV7dsCw4)                                                                             | J.Sheon                                                     |
+| 2017年6月8日  | [別問很可怕](https://www.youtube.com/watch?v=tRa3fOlnN7k)                                                                                    | J.Sheon                                                     |
+| 2017年8月7日  | [你點的歌救了我 feat. J.Sheon](https://m.youtube.com/watch?v=lQaa2Ejz_9o)                                                                      | [A-Lin](../Page/A-Lin.md "wikilink")                        |
+| 2018年1月11日 | [壞蛋特調](https://www.youtube.com/watch?v=Amz4fHUapLk)                                                                                     | J.Sheon                                                     |
+| 2018年6月18日 | [闖空門 In And Out](https://www.youtube.com/watch?v=J_mZiHCAXXY)                                                                           | [孫盛希](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")、J.Sheon |
+| 2019年3月20日 | [不要命 feat. J.Sheon](https://m.youtube.com/watch?v=D0-clQ5J0XE)                                                                          | [丁噹](../Page/丁噹.md "wikilink")                              |
 
 ## 參考資料
 

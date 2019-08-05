@@ -281,7 +281,7 @@ LineData =
 <ul>
 <li>發行日期：2019年3月20日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：10,418</li>
+<li>銷量：9,153</li>
 </ul></td>
 <td></td>
 </tr>

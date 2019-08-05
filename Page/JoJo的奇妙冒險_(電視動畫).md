@@ -140,15 +140,15 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 
 《**JoJo的奇妙冒險**》（）電視動畫是由[荒木飛呂彥](../Page/荒木飛呂彥.md "wikilink")原作的[同名日本漫畫改編](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")，由[david production製作的作品](https://zh.wikipedia.org/wiki/david_production "wikilink")。目前預定計畫製作播放JoJo系列原作第一部至第六部\[1\]。
 
-第一季自2012年10月播放至2013年3月，第二季上半部自2014年4月播放至同年9月，下半部自2015年1月播放至同年6月，第三季自2016年4月播放至同年12月。第四季自2018年10月起開播。
+第一季自2012年10月播放至2013年3月，第二季上半部自2014年4月播放至同年9月，下半部自2015年1月播放至同年6月，第三季自2016年4月播放至同年12月。第四季自2018年10月播放至2019年7月\[2\]。
 
-主要製作人員有對JoJo系列熱愛的總監津田尙克，經常參與特攝、動作、黑暗奇幻類作品的[小林靖子](../Page/小林靖子.md "wikilink")擔任劇本統籌及從第一季開始擔任音響監督的[岩浪美和](../Page/岩浪美和.md "wikilink")\[2\]。旁白由[大川透](../Page/大川透.md "wikilink")擔任。
+主要製作人員有對JoJo系列熱愛的總監津田尙克，經常參與特攝、動作、黑暗奇幻類作品的[小林靖子](../Page/小林靖子.md "wikilink")擔任劇本統籌及從第一季開始擔任音響監督的[岩浪美和](../Page/岩浪美和.md "wikilink")\[3\]。旁白由[大川透](../Page/大川透.md "wikilink")擔任。
 
 ## 第一季
 
 2012年7月5日舉辦的「荒木飛呂彥原畫展 JoJo展」記者發表會中透露製作第一部與第二部的電視動畫。同年10月深夜時段開始在[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送（之後改用CBC電視台表示）](https://zh.wikipedia.org/wiki/CBC電視台_\(日本\) "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[RKB每日放送](../Page/RKB每日放送.md "wikilink")、[BS11等台播出](../Page/日本BS放送.md "wikilink")。
 
-第1話至第9話內容為原作第一部《[幻影血脈](../Page/幻影血脈.md "wikilink")》，第10話至第26話（最終話）內容為原作第二部《[戰鬥潮流](../Page/戰鬥潮流.md "wikilink")》\[3\]。至2013年4月播放完畢，全26話（第1部9話+第2部17話），並於第26話的片尾曲後透露第三部故事起頭。
+第1話至第9話內容為原作第一部《[幻影血脈](../Page/幻影血脈.md "wikilink")》，第10話至第26話（最終話）內容為原作第二部《[戰鬥潮流](../Page/戰鬥潮流.md "wikilink")》\[4\]。至2013年4月播放完畢，全26話（第1部9話+第2部17話），並於第26話的片尾曲後透露第三部故事起頭。
 
 ### 主題曲（第一季）
 
@@ -193,8 +193,8 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 <tr class="header">
 <th><p>話數</p></th>
 <th><p>日文標題</p></th>
-<th><p>中文標題[4]</p></th>
-<th><p>香港標題[5]</p></th>
+<th><p>中文標題[5]</p></th>
+<th><p>香港標題[6]</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
@@ -217,7 +217,7 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 <tr class="even">
 <td><p>第1話</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/侵略" title="wikilink">侵略者迪奧</a></p></td>
+<td><p>侵略者迪奧</p></td>
 <td><p><a href="../Page/小林靖子.md" title="wikilink">小林靖子</a></p></td>
 <td><p>津田尚克</p></td>
 <td><p>奥野耕太</p></td>
@@ -231,7 +231,7 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 <td><p>第2話</p></td>
 <td></td>
 <td><p>來自過去的一封信</p></td>
-<td><p>來自過去的<a href="https://zh.wikipedia.org/wiki/書信" title="wikilink">書信</a></p></td>
+<td><p>來自過去的書信</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>小谷杏子、秋田學</p></td>
 <td><p>10月13日</p></td>
@@ -263,7 +263,7 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 <tr class="even">
 <td><p>第5話</p></td>
 <td></td>
-<td><p>暗黑的<a href="https://zh.wikipedia.org/wiki/騎士" title="wikilink">騎士們</a></p></td>
+<td><p>暗黑的騎士們</p></td>
 <td><p><a href="../Page/筆安一幸.md" title="wikilink">筆安一幸</a></p></td>
 <td><p>瀧澤敏文</p></td>
 <td><p>江副仁美<br />
@@ -286,7 +286,7 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 <tr class="even">
 <td><p>第7話</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/繼承" title="wikilink">繼承者</a></p></td>
+<td><p>繼承者</p></td>
 <td><p>安川正吾</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>津熊健德、門智昭</p></td>
@@ -341,7 +341,7 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 <tr class="odd">
 <td><p>第11話</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/遊戲" title="wikilink">遊戲高手</a></p></td>
+<td><p>遊戲高手</p></td>
 <td><p><a href="../Page/豬爪慎一.md" title="wikilink">豬爪慎一</a></p></td>
 <td><p>米田光宏</p></td>
 <td><p>小澤圓、寶谷幸稔<br />
@@ -364,7 +364,7 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 <tr class="odd">
 <td><p>第13話</p></td>
 <td></td>
-<td><p>JOJO vs 終極<a href="../Page/生物.md" title="wikilink">生物</a></p></td>
+<td><p>JOJO vs 終極生物</p></td>
 <td><p>JOJO vs 究極生物</p></td>
 <td><p>安川正吾</p></td>
 <td><p>東出太</p></td>
@@ -413,7 +413,7 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 <td><p>第17話</p></td>
 <td></td>
 <td><p>設下極深的陷阱！</p></td>
-<td><p>深謀遠慮的<a href="https://zh.wikipedia.org/wiki/圈套" title="wikilink">圈套</a></p></td>
+<td><p>深謀遠慮的圈套</p></td>
 <td><p>吉田泰三</p></td>
 <td><p>高村雄太</p></td>
 <td><p>高橋昌</p></td>
@@ -438,7 +438,7 @@ Shin Hyung Woo</p></td>
 <td><p>第19話</p></td>
 <td></td>
 <td><p>衝向死亡懸崖</p></td>
-<td><p>衝向死亡的<a href="https://zh.wikipedia.org/wiki/懸崖" title="wikilink">懸崖</a></p></td>
+<td><p>衝向死亡的懸崖</p></td>
 <td><p>阿部雅司</p></td>
 <td><p>敷島博英、森田實</p></td>
 <td><p>2月15日</p></td>
@@ -448,13 +448,13 @@ Shin Hyung Woo</p></td>
 <tr class="even">
 <td><p>第20話</p></td>
 <td></td>
-<td><p>西撒孤獨的年少時光|[凱撒孤獨的青春</p></td>
+<td><p>西撒孤獨的年少時光</p></td>
+<td><p>凱撒孤獨的青春</p></td>
 <td><p>小林靖子</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>秋田學、小美野雅彥<br />
 白石達也（特效）</p></td>
 <td><p>2月22日</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -473,7 +473,7 @@ Shin Hyung Woo</p></td>
 <tr class="even">
 <td><p>第22話</p></td>
 <td></td>
-<td><p>真正的<a href="https://zh.wikipedia.org/wiki/格鬥" title="wikilink">格鬥者</a></p></td>
+<td><p>真正的格鬥者</p></td>
 <td><p>豬爪慎一</p></td>
 <td><p>三澤伸</p></td>
 <td><p>中山奈緒美</p></td>
@@ -532,15 +532,41 @@ Shin Hyung Woo</p></td>
 
 ### 播放單位（第一季）
 
+<table>
+<caption>日本國外 網絡平台 / 第1季 播放日期時間</caption>
+<thead>
+<tr class="header">
+<th><p>播放地區</p></th>
+<th><p>播放頻道</p></th>
+<th><p>播放日期</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）</p></th>
+<th><p>所屬聯播網</p></th>
+<th><p>字幕語言</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
+<td><p>2017年8月15日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
+<td><p>獨播</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 第二季
 
 2013年10月18日在[官方正式宣布與各家](https://zh.wikipedia.org/wiki/官方 "wikilink")[媒體透露決定製作原作第三部](https://zh.wikipedia.org/wiki/媒體 "wikilink")。與第一部和第二部不一樣的是，第三部《[星塵鬥士](../Page/星塵鬥士.md "wikilink")》全篇獨立成第二季製作，標題名為《JoJo的奇妙冒險 星塵鬥士》。
 
-2014年4月至9月播放前半段，2015年1月至6月播放後半段「[埃及](../Page/埃及.md "wikilink")篇」，分前半段與後半段各24話，合計全48話\[6\]\[7\]，同樣深夜時段在[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、每日放送、[CBC電視台](https://zh.wikipedia.org/wiki/CBC電視台 "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北 "wikilink")、[RKB每日](https://zh.wikipedia.org/wiki/RKB "wikilink")[放送](https://zh.wikipedia.org/wiki/放送 "wikilink")、[BS11等台首播](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
+2014年4月至9月播放前半段，2015年1月至6月播放後半段「[埃及](../Page/埃及.md "wikilink")篇」，分前半段與後半段各24話，合計全48話\[7\]\[8\]，同樣深夜時段在[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、每日放送、[CBC電視台](https://zh.wikipedia.org/wiki/CBC電視台 "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北 "wikilink")、[RKB每日](https://zh.wikipedia.org/wiki/RKB "wikilink")[放送](https://zh.wikipedia.org/wiki/放送 "wikilink")、[BS11等台首播](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
 
 除角色設定總作畫監督變更外。製作人員為第一季的原班人馬。
 
-原作登場的自行離家出走的小女孩的名字在電視動畫正式設定叫「（安）」\[8\]。
+原作登場的自行離家出走的小女孩的名字在電視動畫正式設定叫「（安）」\[9\]。
 
 ### 主題曲（第二季）
 
@@ -568,7 +594,7 @@ Shin Hyung Woo</p></td>
 
   - 片尾曲
 
-:; 「」（第2話）\[9\]
+:; 「」（第2話）\[10\]
 
   -
 
@@ -592,14 +618,14 @@ Shin Hyung Woo</p></td>
         第27話、第36話、第37話、第41話、第47話、第48話未使用。
         第45話使用副歌部分、黑底白字顯示製作人員。
 
-:; 「」（第27話、第36話、第37話）\[10\]
+:; 「」（第27話、第36話、第37話）\[11\]
 
   -
 
       -
         作詞：田無夢太郎，作曲、編曲：菅野祐悟，主唱：歐因哥（[保村真](../Page/保村真.md "wikilink")，第27話）、荷爾·荷斯（[木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")，第36話、第37話）、波因哥（[熊井統子](../Page/熊井統子.md "wikilink")）
 
-:; 「」（第48話）\[11\]
+:; 「」（第48話）\[12\]
 
   -
 
@@ -614,7 +640,7 @@ Shin Hyung Woo</p></td>
 <th><p>話數<br />
 （通算話數）</p></th>
 <th><p>日文標題</p></th>
-<th><p>中文標題[12]</p></th>
+<th><p>中文標題[13]</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
@@ -1242,6 +1268,58 @@ Cha Myoung Jun<br />
 
 ### 播放單位（第二季）
 
+<table>
+<caption>日本國外 網絡平台 / 第2季 前半 播放日期時間</caption>
+<thead>
+<tr class="header">
+<th><p>播放地區</p></th>
+<th><p>播放頻道</p></th>
+<th><p>播放日期</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）</p></th>
+<th><p>所屬聯播網</p></th>
+<th><p>字幕語言</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
+<td><p>2017年8月15日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
+<td><p>獨播</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<caption>日本國外 網絡平台 / 第2季 後半 埃及篇 播放日期時間</caption>
+<thead>
+<tr class="header">
+<th><p>播放地區</p></th>
+<th><p>播放頻道</p></th>
+<th><p>播放日期</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）</p></th>
+<th><p>所屬聯播網</p></th>
+<th><p>字幕語言</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
+<td><p>2017年8月15日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
+<td><p>獨播</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 第三季
 
 2015年10月24日，來自[電視動畫《JOJO的奇妙冒險》](https://twitter.com/anime_jojo?ref_src=twsrc%5Etfw)在[Twitter](../Page/Twitter.md "wikilink")官網表示，決定製作原作第4部，標題名為《JoJo的奇妙冒險 不滅鑽石》。2016年4月至12月繼續在[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[MBS](../Page/每日放送.md "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[BS11等台首播](../Page/日本BS放送.md "wikilink")。主要人物的配音員方面，除了空条承太郎和虹村億泰分別由[小野大輔](../Page/小野大輔.md "wikilink")和[高木涉](../Page/高木涉.md "wikilink")繼續擔任之外，主角東方仗助、廣瀨康一及岸邊露伴從對戰[格鬥遊戲](https://zh.wikipedia.org/wiki/格鬥 "wikilink")《JOJO的奇妙冒險 ALL STAR BATTLE》和2015年12月發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作 "wikilink")《JOJO的奇妙冒險 Eyes of Heaven》中改由[小野友樹](../Page/小野友樹.md "wikilink")、[梶裕貴](../Page/梶裕貴.md "wikilink")及[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")擔任。
@@ -1307,7 +1385,7 @@ Cha Myoung Jun<br />
 <th><p>話數<br />
 （通算話數）</p></th>
 <th><p>日文標題</p></th>
-<th><p>中文標題[13]</p></th>
+<th><p>中文標題[14]</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
@@ -2053,11 +2131,48 @@ Cha Myoung Jun</p></td>
 
 ### 播放單位（第三季）
 
+<table>
+<caption>日本國外 網路頻道 / 第3季 播放日期時間</caption>
+<thead>
+<tr class="header">
+<th><p>播放地區</p></th>
+<th><p>播放頻道</p></th>
+<th><p>播放日期</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）</p></th>
+<th><p>所屬聯播網</p></th>
+<th><p>字幕語言</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
+<td><p>2016年4月1日－12月23日</p></td>
+<td><p>星期五 24時30分 更新</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
+<td><p>獨播<br />
+<br />
+版權到期，已下架</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
+<td><p>2018年10月1日</p></td>
+<td><p>星期一 16時00分 全集更新</p></td>
+<td><p>獨播</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 第四季
 
 2018年1月9日在集英社送審的「[黃金之風](../Page/黃金之風.md "wikilink")」商標通過之後，廣泛認為此舉為該作動畫化的標誌。
 
-而在其後作者荒木飛呂彥於2018年6月21日的JoJo畫展發佈會中透露「黃金之風」動畫化消息，並在同日於官方推特正式宣佈，同年10月5日起開播\[14\]。
+而在其後作者荒木飛呂彥於2018年6月21日的JoJo畫展發佈會中透露「黃金之風」動畫化消息，並在同日於官方推特正式宣佈，同年10月5日起開播至2019年7月28日為止播出。
 
 台灣於2018年10月5日起，每週六由[friDay影音跟播](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")。
 
@@ -2074,14 +2189,15 @@ Cha Myoung Jun</p></td>
         由第一季「Part2」片頭曲主唱者Coda（小田和奏）再度擔任。
         第13.5話、第21.5話總集篇也有使用。
 
-:; 「」（Episodio 22－）\[16\]
+:; 「」（Episodio 22－Episodio 39）\[16\]
 
   -
 
       -
         作詞：藤林聖子，作曲：菅野祐悟，主唱：長谷川大輔
         由第三季片頭曲「Great Days」主唱者長谷川大輔再度擔任。
-        第37話有加入音效。
+        第34話開始追加描述迪亞波羅的替身，克里姆王的時間刪除之能力，及以義大利語發音日文字幕對白。隨著劇情的發展，第38話到第39話完結篇改成描述喬魯諾的替身，黃金體驗鎮魂曲將對手的所有行動歸零，永遠讓對手被困在不斷循環發生的過程之能力。並以「Diavolo Ver.」和「Giorno Ver.」為題的特別動畫。
+        此外第37話、第39話有加入音效。
 
 <!-- end list -->
 
@@ -2095,7 +2211,7 @@ Cha Myoung Jun</p></td>
         作詞、作曲：，主唱：
         除了第13.5話、第21.5話總集篇之外，第14話開始換新的動畫影片。
 
-:; 「Modern Crusaders」（Episodio 22－）
+:; 「Modern Crusaders」（Episodio 22－Episodio 37、Episodio 39）
 
   -
 
@@ -2869,7 +2985,7 @@ SHIN HYUNG WOO<br />
 小林理<br />
 SHIN HYUNG WOO</p></td>
 <td><p>片山貴仁</p></td>
-<td><p>7月5日&lt;!--</p></td>
+<td><p>7月5日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2877,31 +2993,81 @@ SHIN HYUNG WOO</p></td>
 （第151話）</p></td>
 <td></td>
 <td><p>黃金體驗鎮魂曲</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>小林靖子</p></td>
+<td><p>加藤敏幸<br />
+藤本次朗</p></td>
+<td><p>菅原尚</p></td>
+<td><p>SHIN HYUNG WOO<br />
+石山正修<br />
+森藤希子<br />
+橫山謙次<br />
+高阪雅基<br />
+木下由衣<br />
+柴田和紀<br />
+石本峻一<br />
+田中春香</p></td>
+<td><p>鈴木勘太</p></td>
 <td><p>7月28日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Episodio 39<br />
 （第152話）</p></td>
 <td></td>
 <td><p>沉睡的奴隸</p></td>
+<td><p>藤本次朗<br />
+吉田泰三</p></td>
+<td><p>岩崎安利<br />
+高橋秀彌</p></td>
+<td><p>木下由衣<br />
+高阪雅基<br />
+森藤希子<br />
+森田莉奈<br />
+上竹哲郎<br />
+鈴木勘太<br />
+片山貴仁<br />
+小林理<br />
+橫山謙次<br />
+石山正修<br />
+津曲大介<br />
+SHIN HYUNG WOO<br />
+石本峻一<br />
+田中春香</p></td>
+<td><p>－</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>--&gt;</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
 ### 播放單位（第四季）
+
+<table>
+<caption>日本國外 網路頻道 / 第4季 播放日期時間</caption>
+<thead>
+<tr class="header">
+<th><p>播放地區</p></th>
+<th><p>播放頻道</p></th>
+<th><p>播放日期</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）</p></th>
+<th><p>所屬聯播網</p></th>
+<th><p>字幕語言</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
+<td><p>2018年10月5日－2019年7月28日</p></td>
+<td><p>星期五 25時35分 更新</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
+<td><p>獨播</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 相關商品
 
@@ -3009,30 +3175,30 @@ SHIN HYUNG WOO</p></td>
 
 1.  第2話至第9話的片頭動畫。
 
-2.
+2.  至7月5日為止37話連續播放，有中斷，第38話、第39話（最終回）於7月28日以一小時連續二話的方式播放。
 
 3.
 
-4.  [木棉花國際](../Page/木棉花國際.md "wikilink")代理的中文譯名。
+4.
 
-5.  香港J2標題，以播放時所顯示的字幕為準。
+5.  [木棉花國際](../Page/木棉花國際.md "wikilink")代理的中文譯名。
 
-6.
+6.  香港J2標題，以播放時所顯示的字幕為準。
 
 7.
 
-8.  原作未設定，方便上記作「離家少女（）」，出自畫冊『JoJo6251 ［荒木飛呂世界］』。
+8.
 
-9.  平常是承太郎呼叫出替身「白金之星」之後喔拉喔拉連發痛扁對手的[背景音樂](https://zh.wikipedia.org/wiki/背景 "wikilink")，第三季之後即使在同樣的場合仍繼續使用相同的背景音樂。至於當本話當片尾曲使用有縮短[音樂長度](https://zh.wikipedia.org/wiki/音樂 "wikilink")，並以黑底白字和由下往上顯示工作人員。
+9.  原作未設定，方便上記作「離家少女（）」，出自畫冊『JoJo6251 ［荒木飛呂世界］』。
 
-10. 第27話片尾曲曲名為「」，第36話、第37話為「」。
+10. 平常是承太郎呼叫出替身「白金之星」之後喔拉喔拉連發痛扁對手的[背景音樂](https://zh.wikipedia.org/wiki/背景 "wikilink")，第三季之後即使在同樣的場合仍繼續使用相同的背景音樂。至於當本話當片尾曲使用有縮短[音樂長度](https://zh.wikipedia.org/wiki/音樂 "wikilink")，並以黑底白字和由下往上顯示工作人員。
 
-11. 於本集片尾曲使用的通常劇中背景音樂，工作人員字幕並無顯示。
+11. 第27話片尾曲曲名為「」，第36話、第37話為「」。
 
-12.
+12. 於本集片尾曲使用的通常劇中背景音樂，工作人員字幕並無顯示。
+
 13.
-14. [](https://twitter.com/anime_jojo/status/1009692466344222721?s=19). [Twitter](../Page/Twitter.md "wikilink"). \[2018-10-03\] .
-
+14.
 15.
 
 16.

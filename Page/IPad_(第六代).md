@@ -1,4 +1,4 @@
-**第六代iPad**（正式名称仅为**iPad**，而为**iPad 6**俗称）是一台由[蘋果公司所開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、銷售的[平板電腦](../Page/平板電腦.md "wikilink")，並於2018年3月27日，在蘋果公司於[芝加哥](../Page/芝加哥.md "wikilink")舉辦的教育春季發表會正式發佈，存在着不同的称呼（**第六代iPad**、**iPad 2018**以及作为俗称的**iPad 6**）。此iPad為2017年發表的[iPad (第五代)的升級版](https://zh.wikipedia.org/wiki/iPad_\(第五代\) "wikilink")，採用蘋果A10 Fusion處理器，並加入對[Apple Pencil的支持](../Page/Apple_Pencil.md "wikilink")。\[1\]\[2\]\[3\]
+**第六代iPad**（正式名稱僅為**iPad**，而為**iPad 6俗稱）**是一台由[蘋果公司所開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、銷售的[平板電腦](../Page/平板電腦.md "wikilink")，並於2018年3月27日，在蘋果公司於[芝加哥](../Page/芝加哥.md "wikilink")舉辦的教育春季發表會正式發佈，存在著不同的称呼（**第六代iPad**、**iPad 2018**以及作為俗稱的**iPad 6**）。此iPad為2017年發表的[iPad (第五代)的升級版](https://zh.wikipedia.org/wiki/iPad_\(第五代\) "wikilink")，採用蘋果A10 Fusion處理器，並加入對[Apple Pencil的支援](../Page/Apple_Pencil.md "wikilink")。\[1\]\[2\]\[3\]
 
 ## 特色
 

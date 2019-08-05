@@ -117,7 +117,7 @@
 
 ### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
-| 成員                                                      | 登記名字                  | 編號                                                                                      | 歌曲列表       |
+| 成員                                                      | 登記名字                  | 編號                                                                                      | 登記著作       |
 | ------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- | ---------- |
 | [珍虎](../Page/趙珍虎.md "wikilink")                         | 진호/조진호                | [10012815](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012815)  | \[21\]     |
 | [Hui](../Page/李會澤.md "wikilink")                        | 후이                    | [10012816](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012816)  | \[22\]     |
@@ -210,7 +210,7 @@ LineData =
 
 **Kino**
 
-曾於NY Dance Academy學舞，2013年，以Urban Boyz名義表演 \[73\]\[74\]\[75\]，2014年，參加Feedback Workshop學舞\[76\]\[77\]。 曾於Power Vocal Academy學唱歌 \[78\]\[79\]， 2013年，通過JYP娛樂試鏡， \[80\]\[81\]\[82\] 其後通過Cube試鏡，進入Cube。 \[83\]\[84\] 高中入學時，以專科第一名考進[翰林演藝藝術高等學校](../Page/翰林演藝藝術高等學校.md "wikilink") \[85\] ，2016年，試前取錄為韓國世宗大學實用舞蹈科系16屆學生，出道時申請休學。 \[86\]\[87\]
+曾於NY Dance Academy學舞，2013年，以Urban Boyz名義表演 \[73\]\[74\]\[75\]，2014年，參加Feedback Workshop學舞\[76\]\[77\]。 曾於Power Vocal Academy學唱歌 \[78\]\[79\]， 2013年，通過JYP娛樂試鏡， \[80\]\[81\]\[82\] 其後通過Cube試鏡，進入Cube。 \[83\]\[84\] 高中入學時，以專科第一名考進[翰林演藝藝術高等學校](../Page/翰林演藝藝術高等學校.md "wikilink") \[85\] ，2016年，試前取錄為韓國世宗大學實用舞蹈科系16屆學生，出道時申請休學 \[86\]\[87\] ，2019年表示已從世宗大學退學，現就讀網絡大學。
 
 **禹奭**
 
@@ -320,14 +320,15 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 
 ### 大型頒獎禮獎項
 
-| 年份     | 日期                               | 頒獎禮                                    | 獎項                          | 備註      |
-| ------ | -------------------------------- | -------------------------------------- | --------------------------- | ------- |
-| 2017   | 6月24日                            | Asia Model Festival Awards             | New Star Award              | \[143\] |
-| 9月20日  | 第1屆 Soribada Best K-Music Awards | 新人獎                                    | \[144\]                     |         |
-| 9月24日  | 10th KMF 2017                    | Rising star Award                      | \[145\]                     |         |
-| 2018   | 11月28日                           | 2018 Korea Culture Entertainment Award | KPop Singer Award           | \[146\] |
-| 12月20日 | 2018 KOREA POPULAR MUSIC AWARDS  | 大眾歌唱實演獎                                |                             |         |
-| 2019   | 6月9日                             | Asia Model Festival Awards             | Popular Star Award (Singer) |         |
+| 年份     | 日期                                                             | 頒獎禮                                    | 獎項                          | 備註      |
+| ------ | -------------------------------------------------------------- | -------------------------------------- | --------------------------- | ------- |
+| 2017   | 6月24日                                                          | Asia Model Festival Awards             | New Star Award              | \[143\] |
+| 9月20日  | 第1屆 Soribada Best K-Music Awards                               | 新人獎                                    | \[144\]                     |         |
+| 9月24日  | 10th KMF 2017                                                  | Rising star Award                      | \[145\]                     |         |
+| 2018   | 11月28日                                                         | 2018 Korea Culture Entertainment Award | KPop Singer Award           | \[146\] |
+| 12月20日 | 2018 KOREA POPULAR MUSIC AWARDS                                | 大眾歌唱實演獎                                |                             |         |
+| 2019   | 6月9日                                                           | Asia Model Festival Awards             | Popular Star Award (Singer) |         |
+| 8月1日   | [M2 X Genie Music Awards](../Page/M2_X_Genie音樂獎.md "wikilink") | M2 Hot Star Award                      |                             |         |
 
 ### 韓國主要音樂節目排行榜
 
@@ -441,6 +442,8 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
   -
   -
   -
+  - [PENTAGON](https://music.163.com/#/user/home?id=1894106091)的網易雲音樂主頁
+
 **PENTAGON 成員個人連結**
 
   -

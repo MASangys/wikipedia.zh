@@ -42,7 +42,7 @@
 
 ### 電視劇
 
-  - **[綠箭宇宙](../Page/綠箭宇宙.md "wikilink")**：主線劇情出現於《[綠箭俠](https://zh.wikipedia.org/wiki/綠箭俠_\(電視劇\) "wikilink")》第三季。該劇部分角色的能力也是來自刺客聯盟，如。
+  - **[綠箭宇宙](../Page/綠箭宇宙.md "wikilink")**：主線劇情出現於《[綠箭俠](https://zh.wikipedia.org/wiki/綠箭俠_\(電視劇\) "wikilink")》第三季。該劇部分角色的能力也是來自刺客聯盟，如、。
       - 《[綠箭俠](https://zh.wikipedia.org/wiki/綠箭俠_\(電視劇\) "wikilink")》
       - 《[明日傳奇](../Page/明日傳奇.md "wikilink")》
 

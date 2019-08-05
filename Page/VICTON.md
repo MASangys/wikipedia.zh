@@ -8,6 +8,8 @@
 
 ## 经历
 
+《Me&7Men》
+
 ### 出道前
 
   - 2016年8月17日，Plan A娛樂在社群網站公開會有一組練習生組成的新團體「Plan A Boys」準備出道\[3\]，其後[Mnet在](https://zh.wikipedia.org/wiki/Mnet "wikilink")8月30日播出《Me&7Men》（）第一集以介紹「Plan A Boys」的出道過程\[4\]。次日（8月31日），他們在[許閣](../Page/許閣.md "wikilink")的歌曲《\#紧张》（）首次亮相和獻聲演唱\[5\]。

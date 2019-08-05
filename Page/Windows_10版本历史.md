@@ -103,7 +103,7 @@ Windows 10 的下一個版本，开发代号“20H1”，是 Windows 10 第九�
   - [Windows 10更新有关问题](https://support.microsoft.com/instantanswers/512a5183-ffab-40c5-8a68-021e32467565/windows-update-troubleshooter)
   - [Windows官方博客](https://blogs.windows.com)
 
-[Category:Windows_10](https://zh.wikipedia.org/wiki/Category:Windows_10 "wikilink") [Category:微软历史](https://zh.wikipedia.org/wiki/Category:微软历史 "wikilink") [Category:软件开发历史](https://zh.wikipedia.org/wiki/Category:软件开发历史 "wikilink")
+[Category:Windows_10](https://zh.wikipedia.org/wiki/Category:Windows_10 "wikilink") [Category:Windows_10_版本历史](https://zh.wikipedia.org/wiki/Category:Windows_10_版本历史 "wikilink")
 
 1.
 

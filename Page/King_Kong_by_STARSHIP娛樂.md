@@ -1,4 +1,4 @@
-**King Kong娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，於2009年成立。2017年，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布與**King Kong娛樂**正式合併，演員經紀隸屬[King Kong by STARSHIP娛樂](https://zh.wikipedia.org/wiki/King_Kong_by_STARSHIP娛樂 "wikilink")。
+**King Kong娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，於2009年成立。2017年，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布與**King Kong娛樂**正式合併，演員經紀隸屬[King Kong by STARSHIP娛樂](../Page/King_Kong_by_STARSHIP娛樂.md "wikilink")。
 
 ## 歷史
 
@@ -6,7 +6,7 @@ King Kong娛樂成立於2009年，由李眞聲（Lee Jin-sung）成立。首位�
 
 2015年5月20日，[LOEN娛樂的子公司](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布收購King Kong娛樂100％股份\[2\]\[3\]\[4\]。
 
-2017年1月2日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布與**King Kong娛樂**正式合併，合併後的公司以STARSHIP娛樂作為公司名稱，演員經紀隸屬[King Kong by STARSHIP娛樂](https://zh.wikipedia.org/wiki/King_Kong_by_STARSHIP娛樂 "wikilink")，以綜合經紀公司體系進行事業發展。\[5\]。
+2017年1月2日，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布與**King Kong娛樂**正式合併，合併後的公司以STARSHIP娛樂作為公司名稱，演員經紀隸屬[King Kong by STARSHIP娛樂](../Page/King_Kong_by_STARSHIP娛樂.md "wikilink")，以綜合經紀公司體系進行事業發展。\[5\]。
 
 ## 旗下藝人
 
@@ -33,6 +33,7 @@ King Kong娛樂成立於2009年，由李眞聲（Lee Jin-sung）成立。首位�
   - [池一株](../Page/池一株.md "wikilink")
   - [宋承憲](../Page/宋承憲.md "wikilink")
   - [宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink") (2019年-現今)
+  - [申承浩](https://zh.wikipedia.org/wiki/申承浩 "wikilink")
 
 ## 已離開的藝人
 

@@ -10,4 +10,4 @@
 
 ## 外部連結
 
-[Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")

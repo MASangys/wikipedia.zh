@@ -24,7 +24,7 @@
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/爱知县" title="wikilink">愛知縣</a></p></td>
 <td><p>171 cm</p></td>
 <td><p><a href="../Page/ABO血型系统.md" title="wikilink">O型</a></p></td>
-<td><p>真紅</p></td>
+<td><p>深紅</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/永瀨廉" title="wikilink">永瀨廉</a></p></td>
@@ -196,7 +196,7 @@
 <td><p>等待著你</p></td>
 <td><p>初回限定盤A(CD+DVD)</p></td>
 <td><p>UPCJ-9005</p></td>
-<td></td>
+<td><p>1位</p></td>
 <td><p>台壓版2019年4月3日發售</p></td>
 </tr>
 <tr class="odd">
@@ -211,6 +211,33 @@
 <tr class="even">
 <td><p>通常版(CD)</p></td>
 <td><p>UPCJ-5003</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>4</strong></p></td>
+<td><p>2019年8月28日</p></td>
+<td></td>
+<td><p>初回限定盤A(CD+DVD)</p></td>
+<td><p>UPCJ-9011</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>初回限定盤B(CD+DVD)</p></td>
+<td><p>UPCJ-9012</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>通常版(CD)</p></td>
+<td><p>UPCJ-5004</p></td>
 <td></td>
 <td></td>
 <td></td>

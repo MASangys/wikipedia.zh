@@ -1,4 +1,4 @@
-《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[陸永權](https://zh.wikipedia.org/wiki/陸永權 "wikilink")、[鄭詩君擔任主持](https://zh.wikipedia.org/wiki/鄭詩君 "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。
+《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[陸永權](https://zh.wikipedia.org/wiki/陸永權 "wikilink")、[鄭詩君擔任主持](https://zh.wikipedia.org/wiki/鄭詩君 "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞K](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink") Cash特約。
 
 ## 每集內容
 
@@ -83,7 +83,7 @@
 <tr class="even">
 <td><p>07</p></td>
 <td><p>3月15日</p></td>
-<td><p><a href="../Page/洪永城.md" title="wikilink">洪永城</a>、<strong><a href="../Page/杜如風.md" title="wikilink">杜如風</a></strong></p></td>
+<td><p><strong><a href="../Page/杜如風.md" title="wikilink">杜如風</a></strong>、<a href="../Page/洪永城.md" title="wikilink">洪永城</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
 <td><p>遼參</p></td>
 <td><p>鄭裕啞玲</p></td>
@@ -107,7 +107,8 @@
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>3月18日</p></td>
-<td><p><strong><a href="../Page/周柏豪.md" title="wikilink">周柏豪</a></strong>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/林德信.md" title="wikilink">林德信</a></p></td>
+<td><p><strong><a href="../Page/周柏豪.md" title="wikilink">周柏豪</a></strong>、<br />
+<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/林德信.md" title="wikilink">林德信</a></p></td>
 <td><p>黎志安</p></td>
 <td><p>花膠</p></td>
 <td><p>鄭裕玲猴</p></td>
@@ -164,7 +165,7 @@
 <tr class="even">
 <td><p>17</p></td>
 <td><p>3月29日</p></td>
-<td><p><strong><a href="../Page/林曉峰.md" title="wikilink">林曉峰</a></strong>、<a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a></p></td>
+<td><p><a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a>、<strong><a href="../Page/林曉峰.md" title="wikilink">林曉峰</a></strong></p></td>
 <td><p>Pedro Samper</p></td>
 <td><p>黑毛豬火腿</p></td>
 <td><p>鄭裕淍玲</p></td>
@@ -172,7 +173,7 @@
 <tr class="odd">
 <td><p>18</p></td>
 <td><p>3月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a>、<strong><a href="https://zh.wikipedia.org/wiki/江欣燕" title="wikilink">江欣燕</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/江欣燕" title="wikilink">江欣燕</a></strong>、<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></p></td>
 <td><p>Bosco</p></td>
 <td><p>飛驒牛</p></td>
 <td><p>鄭裕0.01</p></td>
@@ -188,7 +189,7 @@
 <tr class="odd">
 <td><p>20</p></td>
 <td><p>4月1日</p></td>
-<td><p><a href="../Page/吳若希.md" title="wikilink">吳若希</a>、<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>、<br />
+<td><p><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>、<a href="../Page/吳若希.md" title="wikilink">吳若希</a>、<br />
 <strong><a href="../Page/衛志豪.md" title="wikilink">衛志豪</a></strong>、<strong><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a></strong></p></td>
 <td><p>Paul McLoughlin</p></td>
 <td><p>紐西蘭深海小龍蝦配北海道帶子</p></td>
@@ -214,7 +215,7 @@
 <tr class="even">
 <td><p>23</p></td>
 <td><p>4月6日</p></td>
-<td><p><strong><a href="../Page/譚玉瑛.md" title="wikilink">譚玉瑛</a></strong>、<strong><a href="../Page/黃智賢_(香港).md" title="wikilink">黃智賢</a></strong></p></td>
+<td><p><strong><a href="../Page/黃智賢_(香港).md" title="wikilink">黃智賢</a></strong>、<strong><a href="../Page/譚玉瑛.md" title="wikilink">譚玉瑛</a></strong></p></td>
 <td><p>阿拉斯加皇帝蟹配蟹肉布甸</p></td>
 <td><p>無</p></td>
 <td></td>
@@ -320,7 +321,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/冰島克朗" title="wikilink">冰島克朗</a><br />
 <strong><a href="https://zh.wikipedia.org/wiki/斯威士蘭里蘭吉尼" title="wikilink">斯威士蘭里蘭吉尼</a></strong></p></td>
 <td><p>80<br />
-<strong>680</strong></p></td>
+<em>'680</em> '</p></td>
 <td><p>袁文傑：拍「完聞」傑（拍袁文傑）<br />
 高海寧：__家Ling（冚家Ling）</p></td>
 </tr>
@@ -406,18 +407,18 @@
 <tr class="even">
 <td><p>09</p></td>
 <td><p>3月22日</p></td>
-<td><p><strong><a href="../Page/陳煒.md" title="wikilink">陳　煒</a></strong><br />
-<a href="https://zh.wikipedia.org/wiki/岑麗香" title="wikilink">岑麗香</a></p></td>
-<td><p><strong>1500</strong><br />
-1500</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/百慕達" title="wikilink">百慕達</a></strong><br />
-<a href="https://zh.wikipedia.org/wiki/烏克蘭" title="wikilink">烏克蘭</a></p></td>
-<td><p><strong><a href="../Page/百慕達元.md" title="wikilink">百慕達元</a></strong><br />
-<a href="https://zh.wikipedia.org/wiki/烏克蘭格里夫納" title="wikilink">烏克蘭格里夫納</a></p></td>
-<td><p><strong>11760</strong><br />
-450</p></td>
-<td><p>陳煒：煒哥<br />
-岑麗香：岑麗「臭」</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岑麗香" title="wikilink">岑麗香</a><br />
+<strong><a href="../Page/陳煒.md" title="wikilink">陳　煒</a></strong></p></td>
+<td><p>1500<br />
+<strong>1500</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/烏克蘭" title="wikilink">烏克蘭</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/百慕達" title="wikilink">百慕達</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/烏克蘭格里夫納" title="wikilink">烏克蘭格里夫納</a><br />
+<strong><a href="../Page/百慕達元.md" title="wikilink">百慕達元</a></strong></p></td>
+<td><p>450<br />
+<strong>11760</strong></p></td>
+<td><p>岑麗香：岑麗「臭」<br />
+陳煒：煒哥</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -510,7 +511,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/也門里亞爾" title="wikilink">也門里亞爾</a></strong><br />
 <a href="../Page/巴拉圭瓜拉尼.md" title="wikilink">巴拉圭瓜拉尼</a></p></td>
 <td><p><strong>46.5</strong><br />
-2.8''</p></td>
+2.8</p></td>
 <td><p>張曦雯：「將」「Hey Man」＋蔡思貝：你「才是唄」<br />
 陳嘉寶：「And追你呀」（Anjaylia）＋賴慰玲：無</p></td>
 </tr>
@@ -690,7 +691,7 @@
   - 嘉賓可以在遊戲使用兩次「Big Big Tips」，即給予與該題目相關的大提示
   - 嘉賓另有六張功能卡，其中包括「進攻卡」：把對方的答案據為己有、「防守卡」：防止自己的答案被對方搶走及「空白卡」：無功用，嘉賓在每次答完問題均必須使用
   - 在最後環節中，嘉賓先拉[老虎機](https://zh.wikipedia.org/wiki/老虎機 "wikilink")，再按所得的圖案決定所屬的等級，依次為「[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")」：4個地方中有3個屬高匯率國家、「[商務艙](../Page/商務艙.md "wikilink")」：4地中有2個屬高匯率國家及「[經濟艙](../Page/經濟艙.md "wikilink")」：4地中只有1個屬高匯率國家
-  - 嘉賓所得的分數可在4個城市中選出所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[華盛頓市](https://zh.wikipedia.org/wiki/華盛頓市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）
+  - 嘉賓所得的分數可在4個城市中選出所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）
   - 粗體為該集獎金最多嘉賓。
 
 <table>
@@ -716,16 +717,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>01</p></td>
 <td><p>7月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="../Page/黃智雯.md" title="wikilink">黃智雯</a><br />
@@ -740,11 +731,36 @@
 <td><p>4032<br />
 <strong>8580</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>02</p></td>
 <td><p>7月28日</p></td>
 <td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/麥美恩.md" title="wikilink">麥美恩</a><br />
-<a href="../Page/馮盈盈.md" title="wikilink">馮盈盈</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a></p></td>
+<strong><a href="../Page/馮盈盈.md" title="wikilink">馮盈盈</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a></strong></p></td>
+<td><p>1700<br />
+<strong>2600</strong></p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哈布納菲厄澤" title="wikilink">哈布納菲厄澤</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/諾爾雪平" title="wikilink">諾爾雪平</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冰島克朗" title="wikilink">冰島克朗</a><br />
+<strong><a href="../Page/瑞典克朗.md" title="wikilink">瑞典克朗</a></strong></p></td>
+<td><p>102<br />
+<strong>2158</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>03</p></td>
+<td><p>8月4日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳家樂" title="wikilink">陳家樂</a>、<a href="https://zh.wikipedia.org/wiki/林夏薇" title="wikilink">林夏薇</a><br />
+<a href="../Page/洪卓立.md" title="wikilink">洪卓立</a>、<a href="../Page/曾樂彤.md" title="wikilink">曾樂彤</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -791,6 +807,9 @@
 |                                                                              |        |
 | align="left"; colspan="2"|[萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink") |        |
 | 「最佳節目主持」\[8\]                                                                | 鄭裕玲、農夫 |
+| align="left"; colspan="2"|[觀眾在民間電視大奬](../Page/觀眾在民間電視大奬.md "wikilink")2016   |        |
+| 「民選最佳綜藝資訊節目主持」                                                               | 鄭裕玲、農夫 |
+|                                                                              |        |
 
 ## 注釋
 
@@ -801,6 +820,7 @@
   - [無綫電視節目網頁 - Do姐有問題（第一輯）](http://programme.tvb.com/foodandtravel/dodideat)
   - [無綫電視節目網頁 - Do姐有問題（第二輯）](http://programme.tvb.com/variety/dodideatsr2)
   - [無綫電視節目網頁 - Do姐有問題（第三輯）](http://programme.tvb.com/variety/dodideatsr3)
+  - [encoreTVB - Do姐有問題（第三輯）](https://encoretvb.com/cantonese/series/1226-Do_Did_Eat_Sr.3)
 
 ## 電視節目的變遷
 

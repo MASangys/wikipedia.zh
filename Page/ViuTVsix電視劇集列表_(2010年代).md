@@ -1290,6 +1290,16 @@ Friends (season 5)</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>8月6日</p></td>
+<td><p>13</p></td>
+<td><p>美國</p></td>
+<td><p><a href="../Page/河谷鎮_(電視劇).md" title="wikilink">河谷鎮</a>（第一季）<br />
+Riverdale (season 1)</p></td>
+<td><p><a href="../Page/K·J·阿帕.md" title="wikilink">K·J·阿帕</a>、<a href="../Page/莉莉·萊茵哈特.md" title="wikilink">莉莉·萊茵哈特</a>、<a href="../Page/卡蜜拉·曼德絲.md" title="wikilink">卡蜜拉·曼德絲</a>、<a href="https://zh.wikipedia.org/wiki/科爾·斯普羅斯" title="wikilink">科爾·斯普羅斯</a>、、、、、<a href="../Page/盧克·佩瑞.md" title="wikilink">盧克·佩瑞</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

@@ -165,11 +165,15 @@ NAVER TV</small></p></td>
 
 ### 電視劇
 
-| 年份                               | 電視臺                                     | 劇名                                         | 出演成員 | 角色  | 性質 | 出演集數 | 備註 |
-| -------------------------------- | --------------------------------------- | ------------------------------------------ | ---- | --- | -- | ---- | -- |
-| 2017年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》     | 車璌河  | 金夏成 | 配角 |      |    |
-| [tvN](../Page/TVN.md "wikilink") | 《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》  | 尹挺赫                                        | 韓室長  |     |    |      |    |
-| 2018年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》 | 車璌河  | 奉植秀 | 配角 |      |    |
+| 年份                               | 電視臺                                                            | 劇名                                                                          | 出演成員 | 角色  | 性質 | 出演集數 | 備註 |
+| -------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ---- | --- | -- | ---- | -- |
+| 2017年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | 《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》                                      | 車璌河  | 金夏成 | 配角 |      |    |
+| [tvN](../Page/TVN.md "wikilink") | 《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》                         | 尹挺赫                                                                         | 韓室長  |     |    |      |    |
+| 2018年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                        | 《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》                                  | 車璌河  | 奉植秀 | 配角 |      |    |
+| 2018年                            | [JTBC](https://zh.wikipedia.org/wiki/JTBC_\(韓國\) "wikilink")   | 《[先熱情地打掃吧](../Page/先熱情地打掃吧.md "wikilink")》                                  | 車璌河  | 黃在民 |    |      |    |
+| 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")     | 《[銀行家](https://zh.wikipedia.org/wiki/銀行家 "wikilink")》                       | 車璌河  | 文洪柱 |    |      |    |
+| 2019年                            | [Vlive](https://zh.wikipedia.org/wiki/Vlive_\(韓國\) "wikilink") | 《[堅強又獨立的女孩智恩 第二季](https://zh.wikipedia.org/wiki/堅強又獨立的女孩智恩_第二季 "wikilink")》 | 車璌河  | 河俊  |    |      |    |
+| 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")     | 《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》                                  | 池建宇  |     | 配角 |      |    |
 
 ### 網絡劇
 

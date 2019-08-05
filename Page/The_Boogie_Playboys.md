@@ -91,8 +91,12 @@ The Boogie Playboys的歌曲特色在於揉合美式50年代的山地搖滾和�
 
 ### 其他作品
 
-  - **深水灣**
+  - **[深水灣](https://es-la.facebook.com/b00gieplayb0ys/videos/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8-jingle/1595721343794994/)**
     為[叱咤903](../Page/叱咤903.md "wikilink")節目《生活日常》[jingle](https://zh.wikipedia.org/wiki/jingle "wikilink")。
+  - **[勁爆](https://www.youtube.com/watch?v=pLyRbmU8r1M)**
+    為[新城電台](../Page/新城電台.md "wikilink")節目《勁爆樂勢力》[主題曲](../Page/主題曲.md "wikilink")。
+  - **[騷動音樂](https://www.youtube.com/watch?v=-UPyfnHquEA)**
+    為[香港電台](../Page/香港電台.md "wikilink")節目《騷動音樂》[jingle](https://zh.wikipedia.org/wiki/jingle "wikilink")。
 
 ## 派台歌曲成績
 

@@ -2463,45 +2463,6 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 </tbody>
 </table>
 
-### 2.於、戴家（戴羽翼市、捐款公司，集團中心大飯酒店企業公司）
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/林義芳.md" title="wikilink">林義芳</a></p></td>
-<td><p>戴羽翼<br />
-於羽翼</p></td>
-<td><p>徐美芳之子<br />
-酒店現任副總經理<br />
-本劇大反派<br />
-當初他爸爸。把他媽媽害死了。所以要找出真兇到底是誰呢？相似戴煌地<br />
-疑似老K<br />
-因為手上跟KU桑一樣的槍疤<br />
-他有可能會幫母親報仇。而魔化。尚未登場。</p></td>
-</tr>
-<tr class="odd">
-<td><p>待查中</p></td>
-<td><p>徐美芳<br />
-於美芳<br />
-戴美芳</p></td>
-<td><p>已死亡<br />
-戴羽翼之亡母<br />
-六年前被他老公害死了。不知道死亡的原因。警方還在追查證據<br />
-</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ### 賴家
 
 <table>
@@ -2548,41 +2509,6 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 第256集初登場，光輝醫院實習醫師→濟仁醫院住院醫師、外科醫師。替戴勤生查看傷口。于第269集得知火炉的身世。于第280集被海茵派奇老大绑架而在食品工厂安装炸弹而为救志群被炸成重伤、后送医急救而虽脱险但仍然住院治疗休养跟复健。于第293集已出院。于第297集替張志群頂罪，目前已入獄服刑。第315集已從朱火爐口中得知志群變心的事，未來有可能會黑化報復張志群及戴梅嫻。于第316集遭火炉设计在移监过程中发生车祸、后送医急救而昏迷不醒。于第329集苏醒而向梅娴说出为志群顶罪一事。于第333集被戴梅娴利用职权移监到外岛。未來有可能會報復張志群、戴梅嫻。於342集和志群拉扯自己跑去被貨車撞送醫搶救不治身亡</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 程家（程家，和宜診所公司集團）
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演员</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林雪蓉" title="wikilink">林雪蓉</a></p></td>
-<td><p>程美雪</p></td>
-<td><p>美雪<br />
-程世宥之妻<br />
-和宜診所公司集團董事長夫人<br />
-為了錢而魔化。 昔日本劇超級大反派<br />
-尚未登場。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/郭彥甫.md" title="wikilink">郭彥甫</a></p></td>
-<td><p>程世宥</p></td>
-<td><p>世宥<br />
-美雪之夫<br />
-和宜診所公司集團董事長<br />
-目前提及在大陸休養<br />
-尚未回國。 |-style="height</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -2640,7 +2566,7 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 </tbody>
 </table>
 
-### 邱家、徐家（金星基金會）
+### 邱家（金星基金會）
 
 <table>
 <tbody>
@@ -2650,76 +2576,9 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 <td><p><strong>昵称/关系/职业</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳冠正" title="wikilink">吳冠正</a>（醫師）</p></td>
-<td><p>徐敦龍</p></td>
-<td><p>敦龍、老爸（天明稱）<br />
-昔日亦正亦邪，後來改邪歸正<br />
-邱奎山、劉淑青之祖父<br />
-邱耀文、邱小宛、王樂樂、胡迪之曾祖父<br />
-高克威之前祖岳父<br />
-朱火爐之表夫<br />
-朱雨荷之表丈<br />
-郭佩君之夫<br />
-徐昌佑、邱天明、江戶川雄二之父親 第442集初登場。金星集團總裁。目前人在日本，並取了日本名「江戶川龍介」。擔任<a href="https://zh.wikipedia.org/wiki/醫師" title="wikilink">醫師</a>。尚未回國。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/郭佩君" title="wikilink">郭佩君</a></p></td>
-<td><p>徐敦龍之妻<br />
-徐昌佑、邱天明、江戶川雄二之母親<br />
-邱奎山、劉淑青之祖母<br />
-王樂樂、胡迪、邱耀文、邱小宛之曾祖母<br />
-手工工廠員工→邱家（金星基金會）總夫人<br />
-尚未登場。</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐昌佑" title="wikilink">徐昌佑</a></p></td>
-<td><p>邱天明<br />
-徐天明</p></td>
-<td><p>天明、多桑<br />
-本劇中期後期超級大反派、變態終極恐怖情人、大渣男<br />
-邱奎山之父<br />
-胡佩君之前岳父<br />
-劉淑青之岳父<br />
-樂樂、胡迪、麥克、小宛之祖父<br />
-朱火爐之表哥<br />
-林偉成、老K之老友<br />
-徐敦貴、郭佩君之長子<br />
-徐昌佑、江戶川雄二之兄<br />
-許名萱之情夫<br />
-於展望之情敵<br />
-邱桂枝之義子<br />
-<a href="https://zh.wikipedia.org/wiki/能仁家商" title="wikilink">能仁家商綜職科職一仁學生</a>（已退學）<br />
-金星集團董事長→金星集團副董事長第398集初登場。香港出生，患有高血壓以及不老症。目前代替他老弟就讀能仁家商職一仁綜職科學生，並隱瞞金星集團董事長的身分。目前只有同班同學柯毅朋知道，已完成退學手續。第400集再度登場，為了不擇手段強迫許名萱逼婚，讓她做為邱太太的人。臉上的爪痕是名萱抓的。自己強迫她在戶政事物所結婚。已順利完成。未來有可能於展望回來，教訓自己一頓。為了想要霸佔名萱當自己的妻子。想要害死於展望。</p></td>
-</tr>
-<tr class="odd">
-<td><p>徐昌佑</p></td>
-<td><p>徐昌佑<br />
-昌佑<br />
-昔日大反派、昔日恐怖情人，已身亡<br />
-金星集團副董事長、尚未登場。 許名萱之亡男友<br />
-邱天明、江戶川雄二之亡弟<br />
-邱奎山、劉淑青之亡大伯父<br />
-朱火爐、朱雨荷之亡表弟<br />
-徐敦貴、郭佩君之亡子<br />
-1年前因意外發生車禍撞傷腦部，當場血流不止，到院之前早已傷重不治。</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>江戶川雄二<br />
-邱志勇<br />
-徐志勇</p></td>
-<td><p>邱天明、徐昌佑之二兄<br />
-徐敦貴、郭佩君之次子<a href="../Page/日本.md" title="wikilink">日本</a>出生，尚未回國。</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/謝祖武.md" title="wikilink">謝祖武</a></p></td>
-<td><p>邱奎山<br />
-徐奎山</p></td>
-<td><p>奎山、Ku桑<br />
-奎山（天明稱）<br />
-本劇超級終極大反派，以前改邪歸正<br />
+<td><p>邱奎山</p></td>
+<td><p>奎山、Ku桑 本劇超級終極大反派，以前改邪歸正<br />
 更魔化的跡象<br />
 劉淑青之夫<br />
 胡佩君之男友<br />
@@ -2728,17 +2587,14 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 朱火爐之表姊夫<br />
 朱雨荷之表姑丈<br />
 高克威之情敵、後和好<br />
-邱天明之子<br />
-徐敦龍、郭佩君之孫子<br />
 第301集初登場。金星集團總經理。手臂上有與老K相同留下的槍疤痕。賞識李嘉亮。317集拯救了王樂樂，後反被她幫助，所以欣賞王樂樂。失散多年的私生女是胡迪親生母親的女兒。表面上支持高克威，實際上因他的態度，而改變看不起它，已知道高克威假裝失憶。第385集與高克威一同救出巧苓，後為替王樂樂買兇縱火之事頂罪而投案自首，卻點醒王樂樂而使她承認罪行，自己也被釋放。第386集與高克威化敵為友，握手言好。第387集與劉淑青恢復良好夫妻關係，並再度向她求婚。目前跟淑青出國旅遊未知樂樂迫害巧苓，可能與高克威連絡上，並跟淑青返回國內。第443集重新登場。為了不責手段將443集打暈高克威和光頭。為了要保護她女兒王樂樂。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/郭昱晴.md" title="wikilink">郭昱晴</a></p></td>
 <td><p>劉淑青</p></td>
 <td><p>淑青、夫人（克威稱）<br />
 昔日亦正亦邪，後改邪歸正<br />
 邱奎山之妻<br />
-邱天明之媳婦<br />
 邱耀文、邱小宛之母<br />
 胡迪、王樂樂之繼母<br />
 高克威之前繼岳母<br />
@@ -2749,10 +2605,9 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 邱天明之媳婦<br />
 第328集初登場。金星集團總經理夫人，跟蔡雪嬌當初一樣為了利益而魔化。看不起高克威。現在已知道王樂樂是邱奎山之私生女，並不斷針對她，想至她於死地。與老K有關，未來愛上高克威。為了報答高克威救她一命而失去記憶，將他留在身邊擔任助理，殊不知高克威其實是假裝失憶利用她向邱家報仇，雖然朱火爐和邱奎山一再提醒她要提防高克威，但淑青不相信高克威是假裝的，也把高克威視為自己最重要的人，疑似喜歡上高克威，任何敢傷害他的人絕不原諒。已於第343集正式知道高克威是假裝失意，也知道當初進入邱家時是為了高家而來報仇，但是，仍可能幫助他或利用他來報復胡迪。因王樂樂救高克威，已接受她。于第351集发现巧苓没死而且被奎山藏在身边、后想告知克威时被奎山阻止并且不慎落海失蹤。後想告知克威時被奎山阻止並且不慎落海失蹤。於382集重新登場，且被護士提及已昏迷一個多月了，並被樂樂發現沒死而派人去追自己。第387集與邱奎山恢復良好夫妻關係。目前跟Ku桑出國旅遊未知樂樂迫害巧苓，可能暫時留在國外生活或跟Ku桑返回國內教訓樂樂。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/沈世朋.md" title="wikilink">沈世朋</a></p></td>
-<td><p>邱耀文<br />
-徐耀文</p></td>
+<td><p>邱耀文</p></td>
 <td><p>耀文、麥克、黑衣人<br />
 本劇大惡人<br />
 邱奎山、劉淑青之子<br />
@@ -2769,9 +2624,8 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 疑似他把高家的人害死。於第323集得知是幕後害死高家黑衣人<br />
 目前在看守所裡。於第341集交保。第342集跟胡迪打入水中,目前昏迷指數剩3。未來可能出現</p></td>
 </tr>
-<tr class="even">
-<td><p>|邱小宛<br />
-徐小宛</p></td>
+<tr class="odd">
+<td><p>|邱小宛</p></td>
 <td><p>小宛<br />
 邱奎山、劉淑青之女<br />
 徐敦龍、郭佩君之曾孫<br />
@@ -2784,7 +2638,7 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 於第310集電話提及。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>胡佩君</p></td>
 <td><p>已死亡<br />
@@ -2792,17 +2646,14 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 胡迪、王樂樂之母<br />
 高克威之岳母</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/黃玉榮.md" title="wikilink">黃玉榮</a></p></td>
 <td><p>胡　迪<br />
-邱　迪<br />
-徐　迪</p></td>
+邱　迪</p></td>
 <td><p>胡迪、雜種（淑青辱罵稱）<br />
 本劇大惡人<br />
 王樂樂之弟弟<br />
 邱奎山、胡佩君之子<br />
-徐敦龍、郭佩君之曾孫<br />
-邱天明之孫<br />
 邱耀文同父異母之弟<br />
 邱小宛同父異母之兄<br />
 高克威之大叔<br />
@@ -2810,18 +2661,15 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 金星集團副總經理；國際律師。<br />
 非常痛恨邱奎山。第317集初登場。得知王樂樂是失散多年的姊姊。于第331集跟守正被火炉提及在国外受训、于第335集回国</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/王宇婕.md" title="wikilink">王宇婕</a></p></td>
 <td><p>王樂樂<br />
 邱樂樂<br />
-胡樂樂<br />
-徐樂樂</p></td>
+胡樂樂</p></td>
 <td><p>樂樂、雜種（淑青辱罵稱）<br />
 本劇超級大反派、驚世恐怖情人，繼周曉菁、潘茜茜、林海茵之後為本劇最邪惡的壞女人，且邪惡、冷血程度不輸給林海茵<br />
 高克威之前妻<br />
 邱奎山、胡佩君之女<br />
-徐敦龍、郭佩君之曾孫<br />
-邱天明之孫<br />
 劉淑菁之繼女<br />
 高華國之前長孫媳婦<br />
 高毅、蕭淑君之前媳婦<br />
@@ -2834,7 +2682,7 @@ K老大、經理、李嘉寶、李嘉明之友<br />
 金星集團員工-基金會董事長。第315集初登場。<br />
 第316集看出邱耀文的真面目，喜歡高克威，是ku桑的私生女。于第332集得知奎山为自己的亲生父亲。第353集發現顏巧苓還活著的事實，並隱瞞巧苓還活著的事實。目前為了要得到高克威的感情而魔化。於363集被克威發現自己隱瞞巧苓還活著的事實。第364集將顏巧苓的茶裡下藥，目的害死顏巧苓。第365集將高克威的酒裡下藥，目的得到高克威的人，將高克威囚禁。第366集被爸爸知道自己囚禁高克威的事。第367集發現光頭在跟蹤自己，後被爸爸勸導對高克威放手，後拒絕爸爸，對爸爸說要自己放手不可能。於370集將假槍換成真槍想要害死巧苓，後被克威發現並阻止。於371集把巧苓迷昏想要刺死她，後被光頭阻止。於373集想開車撞巧苓卻不小心撞到克威。於374集叫催眠師幫巧苓催眠時多加一個指令，後被邱奎山阻止。於376集接到法院訴請離婚的傳單後情緒不穩跑到頂樓想跳樓，後抓巧苓想與自己同歸於盡，後被克威與邱奎山阻止。於377集將巧苓迷昏並關到冷凍庫想害死她，且失控打傷自己的爸爸。於380集於胡迪設計巧苓想要把她害死，後被王興富發現，並換成假人，後與王興富拉扯中差點跌入山崖。於382集發現劉淑青還活著，且派人去追她。於383集在Ku桑的生日派對上，自己所做的壞事都曝光，並挾持巧苓。於384集挾持巧苓，並害她從天橋摔下去。第385集派阿得在醫院縱火要燒死巧苓，卻被邱奎山、高克威順利破壞計劃，後得知邱奎山為其頂罪而承認罪行。第386-387集出現在克威和巧苓的婚禮，痛心地祝福兩人幸福後想要拔刀自殺，卻意外刺傷羅守正。於389集看到巧苓與克威要做試管嬰兒，便與朱火爐合作要讓巧苓無法懷孕。於394集又害巧苓出意外。於395集在巧苓的外套裡放炸彈，並害巧苓受傷。於396集將朱雨荷抓走，並威脅朱火爐。第400集抓走朱火爐。目前因说服高毅成功而搬进高家安胎。第422集想要追威脅自己的人，卻不小心被車撞到，後來被守正看到而被送醫院；原本狀況很不樂觀，但守正選擇救大人要緊並墮胎，因此他隱瞞高家人。於425集和孫珍妮張志群合作將光頭抓走。於426集想要害死光頭。於427集想要害死巧苓，且所作所為都被高克威揭發。于第431集设计克威让众人误已自己遭克威杀害、于第438集害死阿得嫁祸给克威</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2941,7 +2789,7 @@ Allen之未婚妻<br />
 <tr class="even">
 <td><p><a href="../Page/龍天翔.md" title="wikilink">龍天翔</a></p></td>
 <td><p>林偉成</p></td>
-<td><p>成哥（錢花、嘉明、火爐稱）、-{么}-哥（阿豹、阿明稱）、十三-{么}-<br />
+<td><p>成哥（錢花、嘉明、火爐稱）、-{么}-哥（阿豹稱）、十三-{么}-<br />
 本劇終極大 惡 人<br />
 林勝、王芝憶之子<br />
 江姜好之父<br />
@@ -3020,566 +2868,6 @@ Allen之未婚妻<br />
 未登場。</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 第三代演员列表
-
-#### 第三代主要演員
-
-## 演員列表
-
-### 主要演員
-
-<table style="width:10%;">
-<colgroup>
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 6%" />
-<col style="width: 1%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>演員</p></td>
-<td><p>角色</p></td>
-<td><p>介紹</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/陳冠霖.md" title="wikilink">陳冠霖</a></p></td>
-<td><p>鄧水寧</p></td>
-<td><p>水寧<br />
-姜好之前未婚夫<br />
-相似李嘉亮<br />
-尚未登場。</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳博昱" title="wikilink">陳博昱</a></p></td>
-<td><p>趙子龍</p></td>
-<td><p>子龍（嘉亮、煌地、偉成稱）、-{龍}-哥（阿豹、阿明稱）、趙子-{龍}-<br />
-本劇超級大終極大 反 派<br />
-佳音之夫<br />
-黑幫集團董事長，尚未登場。患有不老症的。家中之子<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃敬翔" title="wikilink">優煞</a></p></td>
-<td><p>黃敬翔</p></td>
-<td><p>全幫集團總裁<br />
-任何人不知道他的名字。尚未登場。相似葉海。目前得知名字黃敬翔</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>葉海</p></td>
-<td><p>Karuma<br />
-檢察官<br />
-個性自我要求，自己會把犯人要求有罪。無敗績。相似黃敬翔，性格不同。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/林義芳.md" title="wikilink">林義芳</a></p></td>
-<td><p>趙家中</p></td>
-<td><p>家中<br />
-子龍之父<br />
-相似戴煌地<br />
-未登場。有時候會假扮煌地的身份，只有龍老大還不知道這件事情。</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐昌佑" title="wikilink">佑昌</a></p></td>
-<td><p>-{于}-展望</p></td>
-<td><p>展望、阿望<br />
-望（名萱稱）<br />
-昔日超級大反派、昔日恐怖情人、已改邪歸正<br />
-許名萱之夫<br />
-戴煌地之義子<br />
-邱天明之好友兼死敵兼情敵<br />
-是大陸人。尚未回國。未登場，相似邱天明，小昌佑。目前人在大陸。未來會回到台灣看見邱天明對自己的老婆亂來，會好好修理邱天明一頓，曾經自己跟邱天明是好朋友，回到台灣的時候會發現邱天明背叛他，自己已改邪歸正了。為了保護妻子名萱，自己受傷都逞強了。</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/許名萱" title="wikilink">許名萱</a></p></td>
-<td><p>名萱<br />
--{于}-展望、邱天明之妻<br />
-本劇正義派<br />
-戴煌地之義媳婦、徐敦龍之媳婦<br />
-第400集初登場。自己很不願意跟邱天明結婚，為了自己改變了很多用自己手抓傷邱天明臉上，不讓邱天明強吻自己，自己迅速逃離車上，自己用手抓傷邱天明臉，很反抗邱天明不要臉的渣男。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>未登場</p></td>
-<td><p>許孝旺<br />
--{于}-孝旺</p></td>
-<td><p>-{于}-展望、許名萱之子<br />
-於428集早產出生。尚未登場。未取名。得知名字孝旺。</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/何潔柔.md" title="wikilink">何潔柔</a>、<a href="https://zh.wikipedia.org/wiki/成年" title="wikilink">羅巧倫</a></p></td>
-<td><p>梁安玉</p></td>
-<td><p>安玉<br />
-梁耀威、郭崴嵐之姊<br />
-郭彥甫、徐綺麗之長女<br />
-本劇終極大反派、本劇恐怖終極情人<br />
-小昌佑之現任女友<br />
-許名萱之好友<br />
-尚未登場。目前得知自己男友小昌佑已過世，傷心難過不已。</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳江明" title="wikilink">陳江明</a></p></td>
-<td><p>邰大隆<br />
-郭大隆</p></td>
-<td><p>大隆<br />
-郭盂政、邰玉芬之子<br />
-龍王事業集團總經理<br />
-郭霍異母之兄<br />
-呂金妹之夫<br />
-郭佩君之弟<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>郭霍</p></td>
-<td><p><strong>28歲、龍王事業副總經理，安全顧問措施公司老闆。郭盂政、郭艷妃之子<br />
-大隆異母之弟、呂金妹之小叔。郭佩君之兄 目前屬於失蹤情況。</strong><br />
-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/謝佳見.md" title="wikilink">謝佳見</a></p></td>
-<td><p>姜至衛</p></td>
-<td><p><strong>35歲，安全顧問公司「Krisis」的老闆。丁若芹的丈夫。</strong><br />
-以<strong><a href="../Page/獨家保鑣.md" title="wikilink">獨家保鑣</a>主要演員客串。</strong><br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/嚴正嵐" title="wikilink">嚴正嵐</a></p></td>
-<td><p><strong>候鳳薇</strong></p></td>
-<td><p>鳳薇<br />
-本劇宵婆之三、驚世超級恐怖情人，比王樂樂還要壞的透底了。想要害死高克威跟唐安琪。目前尚未回國。</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 盛家（盛世紀企業集團）
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/徐展元.md" title="wikilink">徐展元</a></p></td>
-<td><p>盛夏恩<br />
-徐夏恩</p></td>
-<td><p>夏恩<br />
-盛程美、徐達德之子<br />
-盛世紀企業集團總經理<br />
-從母姓，未登場。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/徐展元.md" title="wikilink">徐展元</a></p></td>
-<td><p>徐達德</p></td>
-<td><p>達德<br />
-盛程美之夫<br />
-夏恩之父親<br />
-於451集初登場。 盛世紀企業集團董事長。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/胡佩蓮.md" title="wikilink">胡佩蓮</a></p></td>
-<td><p>盛程美</p></td>
-<td><p>程美<br />
-盛世紀企業集團董事長夫人<br />
-本劇超級大惡人<br />
-徐達德之妻<br />
-夏恩之母親<br />
-尚未回國。</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 蕭家
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>|蕭薔薇</p></td>
-<td><p>薔薇<br />
-蕭秉治，蕭查理之母<br />
-提及人在美國休養、尚未回國。 本劇昔日終極惡人<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 胡家
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>龍三</p></td>
-<td><p>胡星琣</p></td>
-<td><p>星培 本劇超級大中期終極大反派、昔日本劇超級大中期終極恐怖情人<br />
-尚未登場。</p></td>
-</tr>
-<tr class="odd">
-<td><p>|胡豪徹</p></td>
-<td><p>豪徹 尚未登場。提及人在美國。未回國</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 簡家（簡氏基金會）
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳思蓉" title="wikilink">陳思蓉</a></p></td>
-<td><p>簡蓉茵</p></td>
-<td><p>蓉茵<br />
-克隆之妻<br />
-簡氏基金會副助理<br />
-尚未登場。</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 白家
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/郭世倫.md" title="wikilink">郭人豪</a>（藝人）</p></td>
-<td><p>白岳昌</p></td>
-<td><p>岳昌<br />
-未登場。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/林柏妤.md" title="wikilink">林柏妤</a></p></td>
-<td><p>周妤妹</p></td>
-<td><p>妤妤主播、周妹<br />
-新聞台記者。第151集初登場。自己介紹新聞。自己有時候太緊張。忘記要說什麼。</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 霍家
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/曾同慶" title="wikilink">曾同慶</a></p></td>
-<td><p>霍翔平</p></td>
-<td><p>翔平、翔平大哥（廷恩稱）<br />
-霍廷恩之兄為了欠債為了要嫁禍給他弟弟。</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 謝家
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉岩信" title="wikilink">葉岩信</a></p></td>
-<td><p>簡龍風</p></td>
-<td><p>龍風（博廷稱）<br />
-謝博廷之父親。自己失蹤了三十幾年了。目前屬於失蹤情況。 目前得知在福大醫院痠痛骨折。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/女女" title="wikilink">女女</a></p></td>
-<td><p>謝博廷</p></td>
-<td><p>本劇超級大反派，超級大恐怖情人<br />
-龍風之子。<strong>精神病患者</strong>呂雅惠之老公。患有<a href="https://zh.wikipedia.org/wiki/精神病" title="wikilink">精神病的症狀</a>。有時候情緒不穩。自己有時候不按時吃藥。情緒失控控制。自己目前被強制送去精神醫院治療。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/胡盈禎.md" title="wikilink">胡盈禎</a>（小偵）</p></td>
-<td><p>歐陽楓</p></td>
-<td><p><strong>骨科主治醫師</strong> <a href="../Page/實習醫師鬥格.md" title="wikilink">實習醫師鬥格</a>客串<br />
-龍風之友<br />
-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/賴玉美" title="wikilink">賴玉美</a></p></td>
-<td><p>溫詩玉</p></td>
-<td><p>詩玉媽媽（龍風稱）<br />
-謝博廷之伯母。龍風之媽媽。本劇善良派<br />
-服飾業集團幹部董事長夫人。自己會幫助捐款協助弱勢團體的人。</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 柯家
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-<td><p>登場集數</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/張靜之.md" title="wikilink">張靜之</a></p></td>
-<td><p>柯靜莉</p></td>
-<td><p>靜莉<br />
-柯泰廷之母<br />
-500集初登場<br />
-自己勸他兒子不要打拳擊了。</p></td>
-<td><p>500</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/柯叔元.md" title="wikilink">柯叔元</a>（18歲）</p></td>
-<td><p>柯泰廷</p></td>
-<td><p>拳擊教練<br />
-柯靜莉之子<br />
-柯永東之兄<br />
-曾經自己小時候參加拳擊比賽，獲得拳擊冠軍腰帶。有些不良少年會找自己的麻煩，自己會用拳擊跟他們打架，不良少年都被他自己給打敗了，不良少年就逃亡了。</p></td>
-<td><p>未登場</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥海琪" title="wikilink">麥海琪</a>（10歲）</p></td>
-<td><p>柯永東</p></td>
-<td><p>拳擊冠軍選手<br />
-自己會跟別人打架，其他人都打架打輸自己，自己還會去找不良少年跟他們頭目老大打架，尚未登場。柯泰廷之弟弟。</p></td>
-<td><p>未登場</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 不良少年
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-<td><p>登場集數</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐昌佑" title="wikilink">徐昌佑</a></p></td>
-<td><p>不良少年頭目老大<br />
-本劇前期中期後期超級終極大反派、四大魔頭之一<br />
-自己是不良少年的壞學生，曾經小時候自己跟別人打架，其他人都被自己用拳頭打架給打敗了，其他人就成為徐昌佑不良少年的小弟了。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/陳柏廷.md" title="wikilink">邊緣人</a></p></td>
-<td><p>周武縣</p></td>
-<td><p>不良少年頭目手下<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 洪家（企業冷氣開發集團）
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>演員</strong></p></td>
-<td><p><strong>角色</strong></p></td>
-<td><p><strong>昵称/关系/职业</strong></p></td>
-<td><p>登場集數</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/洪志強" title="wikilink">可愛兔兔</a></p></td>
-<td><p>洪大冠</p></td>
-<td><p><strong>不良少年頭目前任手下</strong><br />
-洪樹逸之子<br />
-洪水時之姪子<br />
-企業冷氣開發集團總經理兼副董事長<br />
-當初背叛自己不良少年的老大。不願意幫他做壞事，自己接手家裡的事業集團。</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>待查中</p></td>
-<td><p>洪樹逸</p></td>
-<td><p>企業冷氣開發集團董事長<br />
-洪大冠之父<br />
-洪水時之哥哥<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>待查中</p></td>
-<td><p>洪水時</p></td>
-<td><p>企業冷氣開發集團代理董事長<br />
-洪大冠之叔叔<br />
-洪樹逸之弟弟<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 第四代演员列表
-
-#### 第四代主要演員
-
-## 演員列表
-
-### 主要演員
-
-<table style="width:10%;">
-<colgroup>
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 6%" />
-<col style="width: 1%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>演員</p></td>
-<td><p>角色</p></td>
-<td><p>介紹</p></td>
-<td><p>登場集數</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/劉美玲.md" title="wikilink">劉美玲</a></p></td>
-<td><p>何美嬌</p></td>
-<td><p>宜蘭民宿老闆娘<br />
-阿嬌姨、姐姐（權亞稱）<br />
-何父之妻<br />
-何慶光、何泰賓、何語慈、何權亞之母<br />
-白美琪之養母<br />
-尚未登場，簡訊提及人在日本，尚未回國。</p></td>
-<td><p>未登場</p></td>
-</tr>
-<tr class="odd">
-<td><p>待查</p></td>
-<td><p>何父</p></td>
-<td><p>台北分院地檢署檢察官、宜蘭民宿老闆<br />
-何美妹亡夫<br />
-何慶光、何泰賓、何語慈、何權亞之亡父<br />
-白美琪之亡養父，因病早逝<br />
-已過世</p></td>
-<td><p>未登場</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿本" title="wikilink">阿本</a></p></td>
-<td><p>何慶光</p></td>
-<td><p>忠孝國中一年級生<br />
-何泰賓、何語慈之兄<br />
-何權亞之弟<br />
-何美嬌、何父之長子<br />
-周瑩嫻之友兼學弟<br />
-</p></td>
-<td><p>未登場</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/王建復.md" title="wikilink">王建復</a></p></td>
-<td><p>柳信風</p></td>
-<td><p>信風、阿風（許海倫稱）<br />
-裁縫公司老闆<br />
-<a href="../Page/上海人.md" title="wikilink">上海人</a><br />
-為了員工跟她學習<a href="https://zh.wikipedia.org/wiki/臺語" title="wikilink">臺語努力工作</a>。</p></td>
-<td><p>即將登場</p></td>
-</tr>
-<tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4166,22 +3454,6 @@ K大之手下<br />
 第352集初登場，開車載著邱小宛，差點撞到喝醉酒的張志群，後毆打張志群。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/唐家祥" title="wikilink">唐家祥</a>（學生）</p></td>
-<td><p>方阿宥</p></td>
-<td><p>方有得之父、尚未登場</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/張銘杰.md" title="wikilink">張銘杰</a></p></td>
-<td><p>葉聰凱<br />
-王世倫</p></td>
-<td><p><strong>閃電隊調查官局長</strong> 60歲、492集初登場。後改名為王世倫名字。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/郭雅君" title="wikilink">郭雅君</a></p></td>
-<td><p>連珍楓</p></td>
-<td><p><strong>和平醫院精神科主治醫師</strong>，宋大元之學姐，柳時珍之親生姊姊。</p></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

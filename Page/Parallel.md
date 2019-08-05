@@ -1,10 +1,10 @@
-《**PARALLEL**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第五張迷你專輯，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年8月1日推出，共有8首歌曲，主打歌為《LOVE WHISPER (귀를 기울이면)》，這張專輯的改版於2017年9月13日推出，命名為《**Rainbow**》，主打歌為《Summer Rain (여름비)》。
+《**PARALLEL**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第五張迷你專輯，由[Source Music製作](../Page/Source_Music.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年8月1日推出，共有8首歌曲，主打歌為《LOVE WHISPER (귀를 기울이면)》，這張專輯的改版於2017年9月13日推出，命名為《**Rainbow**》，主打歌為《Summer Rain (여름비)》。
 
 ## 《PARALLEL》
 
 ### 宣傳照公開
 
-7月20日，[Source Music宣佈將於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")8月1日發行第五張迷你專輯《PARALLEL》。並公開一張**預告照**，照片中，有許多飛舞的泡泡，照片下方則寫有「THE 5th MINI ALBUM PARALLEL」、「2017.08.01. 18:00PM」等字樣。\[1\]
+7月20日，[Source Music宣佈將於](../Page/Source_Music.md "wikilink")8月1日發行第五張迷你專輯《PARALLEL》。並公開一張**預告照**，照片中，有許多飛舞的泡泡，照片下方則寫有「THE 5th MINI ALBUM PARALLEL」、「2017.08.01. 18:00PM」等字樣。\[1\]
 
 7月21日，於韓國時間0時在官方Instagram及Facebook公佈此次新專輯的首張**團體概念照**。\[2\]
 

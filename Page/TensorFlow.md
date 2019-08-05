@@ -92,7 +92,7 @@ print(result)
 sess.close()
 ```
 
-TensorFlow的一大特色时其图中的节点可以是带状态的。
+TensorFlow的一大特色是其图中的节点可以是带状态的。
 
 例四：带状态的图
 

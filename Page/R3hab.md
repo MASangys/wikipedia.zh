@@ -241,6 +241,8 @@ Dance</a></p></td>
   -
   -
   -
+  - [R3hab的网易云音乐主页](https://music.163.com/#/user/home?id=403168139)
+
 [Category:荷蘭DJ](https://zh.wikipedia.org/wiki/Category:荷蘭DJ "wikilink")
 
 1.

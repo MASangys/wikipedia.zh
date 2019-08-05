@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>Oh My Girl</strong>》</p>
+<td><p>《<strong><a href="../Page/Oh_My_Girl_(Oh_My_Girl迷你專輯).md" title="wikilink">Oh My Girl</a></strong>》</p>
 <ul>
 <li>發行日期：2015年4月20日</li>
 <li>語言：韓語</li>
@@ -113,7 +113,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong>Coloring Book</strong>》</p>
+<td><p>《<strong><a href="../Page/Coloring_Book.md" title="wikilink">Coloring Book</a></strong>》</p>
 <ul>
 <li>發行日期：2017年4月3日</li>
 <li>語言：韓語</li>
@@ -141,7 +141,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="../Page/Remember_Me_(Oh_My_Girl迷你專輯).md" title="wikilink">Remember me</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Remember_Me.md" title="wikilink">Remember Me</a></strong>》</p>
 <ul>
 <li>發行日期：2018年9月10日</li>
 <li>語言：韓語</li>
@@ -185,8 +185,20 @@
 <td></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+### 夏日改版專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯 #</p></td>
+<td><p>專輯資料</p></td>
+<td><p>曲目</p></td>
+</tr>
 <tr class="even">
-<td><p><strong>2st repackage</strong></p></td>
+<td><p><strong>1st repackage</strong></p></td>
 <td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Fall_In_Love" title="wikilink">Fall In Love</a></strong>》</p>
 <ul>
 <li>發行日期：2019年8月5日</li>
@@ -217,7 +229,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>对香蕉過敏的猴子</strong>》</p>
+<td><p>《<strong><a href="../Page/對香蕉過敏的猴子(Oh_My_Girl_Banhana專輯).md" title="wikilink">對香蕉過敏的猴子</a></strong>》</p>
 <ul>
 <li>發行日期：2018年4月2日</li>
 <li>語言：韓語</li>
@@ -794,5 +806,7 @@
 </tr>
 </tbody>
 </table>
+
+## 參考資料
 
 [Category:Oh_My_Girl](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl "wikilink")

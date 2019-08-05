@@ -10,7 +10,7 @@
 
 ## 曲目
 
-<small>備註：曲目中譯名稱使用[DSP Media發行漢字或](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[滾石唱片](../Page/滾石唱片.md "wikilink")翻譯台壓版曲名</small>
+**《Special》（主打歌以粗體顯示）**  <small>備註：曲目中譯名稱使用[DSP Media發行漢字或](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[滾石唱片](../Page/滾石唱片.md "wikilink")翻譯台壓版曲名</small>
 
 ## 音樂錄影帶
 

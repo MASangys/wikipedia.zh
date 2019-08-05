@@ -18,13 +18,13 @@
 <thead>
 <tr class="header">
 <th><p>時間</p></th>
-<th><p>星期一<small>（29日）</small></p></th>
-<th><p>星期二<small>（30日）</small></p></th>
-<th><p>星期三<small>（24日）</small></p></th>
-<th><p>星期四<small>（25日）</small></p></th>
-<th><p>星期五<small>（26日）</small></p></th>
-<th><p>星期六<small>（27日）</small></p></th>
-<th><p>星期日<small>（28日）</small></p></th>
+<th><p>星期一<small>（05日）</small></p></th>
+<th><p>星期二<small>（06日）</small></p></th>
+<th><p>星期三<small>（07日）</small></p></th>
+<th><p>星期四<small>（08日）</small></p></th>
+<th><p>星期五<small>（02日）</small></p></th>
+<th><p>星期六<small>（03日）</small></p></th>
+<th><p>星期日<small>（04日）</small></p></th>
 </tr>
 </thead>
 <tbody>
@@ -50,9 +50,9 @@
 </tr>
 <tr class="odd">
 <td><p>20:00</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a></p></td>
 <td><p><a href="../Page/中醫「症」解.md" title="wikilink">中醫「症」解</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/富士山潮聖之旅" title="wikilink">富士山潮聖之旅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士山朝聖之旅" title="wikilink">富士山朝聖之旅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -60,18 +60,18 @@
 </tr>
 <tr class="even">
 <td><p>20:30</p></td>
-<td><p><a href="../Page/愛上變身情人_(電視劇).md" title="wikilink">變身有情人</a></p></td>
 <td><p><a href="../Page/男朋友_(電視劇).md" title="wikilink">男朋友</a></p></td>
-<td><p><a href="../Page/愛上變身情人_(電視劇).md" title="wikilink">變身有情人</a></p></td>
-<td><p>周六好戲勢: <a href="../Page/前度.md" title="wikilink">前度</a></p></td>
+<td><p>周六好戲勢: <a href="../Page/車手_(電影).md" title="wikilink">車手</a></p></td>
 <td><p><a href="../Page/恐怖醫學_(2010年).md" title="wikilink">恐怖醫學</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>21:30</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/理想國_(電視劇)" title="wikilink">理想國</a></p></td>
+<td><p><a href="../Page/仇老爺爺.md" title="wikilink">仇老爺爺</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -91,9 +91,9 @@
 <tr class="odd">
 <td><p>22:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/估你唔到" title="wikilink">估你唔到</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Cooking_Gigi_台灣篇" title="wikilink">Cooking Gigi 台灣篇</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/生活小貼士" title="wikilink">生活小貼士</a></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mirror_Go" title="wikilink">Mirror Go</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -115,25 +115,15 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/女學生·吹水班" title="wikilink">女學生·吹水班</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/又要威_又要戴頭盔" title="wikilink">又要威 又要戴頭盔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/總有一瓣喺左近" title="wikilink">總有一瓣喺左近</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞「電」了" title="wikilink">今鋪搞「電」了</a></p></td>
-<td><p><a href="../Page/萬寧_(零售商).md" title="wikilink">見習女神</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞電了" title="wikilink">今鋪搞電了</a></p></td>
+<td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a>2</p></td>
 </tr>
 <tr class="even">
-<td><p>23:45</p></td>
-<td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a>2</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>00:00</p></td>
+<td><p><a href="../Page/一拳超人.md" title="wikilink">一拳超人</a><sup>R</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室</a><sup>R</sup></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鮮浪潮。語2019" title="wikilink">鮮浪潮。語2019</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_(動畫)" title="wikilink">海賊王</a></p></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -161,7 +151,7 @@
 <td><p><strong>實況娛樂</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>22:30 - 23:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Cooking_Gigi_台灣篇" title="wikilink">Cooking Gigi 台灣篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/估你唔到" title="wikilink">估你唔到</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -194,7 +184,7 @@
 </tr>
 <tr class="odd">
 <td><p>23:30 - 00:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞「電」了" title="wikilink">今鋪搞「電」了</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞電了" title="wikilink">今鋪搞電了</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -222,7 +212,7 @@
 </tr>
 <tr class="odd">
 <td><p>20:00 - 20:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/富士山潮聖之旅" title="wikilink">富士山潮聖之旅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士山朝聖之旅" title="wikilink">富士山朝聖之旅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -283,38 +273,24 @@
 </tr>
 <tr class="odd">
 <td><p>逢星期六</p></td>
-<td><p>01:00 - 02:30</p></td>
-<td><p><a href="../Page/Crime_Scene_犯罪現場.md" title="wikilink">犯罪現場</a></p></td>
-<td><p>重播外購節目</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>&lt;!--逢星期六</p></td>
-<td><p>--&gt;14:00 - 15:30</p></td>
+<td><p>14:00 - 15:30</p></td>
 <td><p><a href="../Page/SUPER_TV.md" title="wikilink">Super TV</a> 第一季</p></td>
 <td><p>外購節目<br />
 每集播放兩次</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期日</p></td>
 <td><p>01:30 - 03:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>&lt;!--rowspan="3"|逢星期日</p></td>
+<tr class="odd">
+<td><p>&lt;!--rowspan="2"|逢星期日</p></td>
 <td><p>--&gt;08:30 - 09:00</p></td>
 <td></td>
 <td><p>重播節目</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>09:00 - 09:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣民宿" title="wikilink">台灣民宿</a></p></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -398,35 +374,42 @@
 星期四：<a href="https://zh.wikipedia.org/wiki/又要威_又要戴頭盔" title="wikilink">又要威 又要戴頭盔</a><br />
 星期五：<a href="https://zh.wikipedia.org/wiki/總有一瓣喺左近" title="wikilink">總有一瓣喺左近</a></p></td>
 <td><p><a href="../Page/晚吹.md" title="wikilink">晚吹</a>系列<br />
-星期一至四集數於深夜時段重播</p></td>
+每集播放兩次</p></td>
 </tr>
 <tr class="odd">
+<td><p>逢星期二至六</p></td>
+<td><p>02:30 - 03:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>逢星期一至五</p></td>
 <td><p>14:45 - 15:00</p></td>
 <td></td>
 <td><p>重播節目<br />
 每集播放兩次</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期二至六</p></td>
 <td><p>05:45 - 06:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>健康資訊節目</p></td>
 <td><p>逢星期六</p></td>
 <td><p>20:00 - 20:30</p></td>
 <td><p><a href="../Page/中醫「症」解.md" title="wikilink">中醫「症」解</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>生活資訊節目</p></td>
 <td><p>逢星期六</p></td>
 <td><p>22:30 - 23:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/生活小貼士" title="wikilink">生活小貼士</a></p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -447,7 +430,7 @@
 <td><p><strong>首播外購劇集</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>20:30 - 21:30</p></td>
-<td><p><a href="../Page/愛上變身情人_(電視劇).md" title="wikilink">變身有情人</a></p></td>
+<td><p><a href="../Page/男朋友_(電視劇).md" title="wikilink">男朋友</a></p></td>
 <td><p>韓國劇集<br />
 每集播放兩次</p></td>
 </tr>
@@ -462,7 +445,7 @@
 <td><p><strong>首播自製劇集</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>20:00 - 20:30</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a></p></td>
 <td><p>每集播放三次</p></td>
 </tr>
 <tr class="odd">
@@ -482,7 +465,7 @@
 <tr class="odd">
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>21:30 - 22:00</p></td>
-<td></td>
+<td><p><a href="../Page/仇老爺爺.md" title="wikilink">仇老爺爺</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -497,7 +480,7 @@
 <td><p>非黃金時段劇集</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>13:30 - 14:45</p></td>
-<td><p><a href="../Page/醫療船_(韓國電視劇).md" title="wikilink">醫療船</a></p></td>
+<td><p><a href="../Page/推理的女王.md" title="wikilink">推理的女王</a></p></td>
 <td><p><strong>熱捧劇站</strong><br />
 重播韓國劇集<br />
 每集播放兩次</p></td>
@@ -517,10 +500,17 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>逢星期六</p></td>
+<td><p>01:00 - 02:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刑事弓神" title="wikilink">刑事弓神</a></p></td>
+<td><p>重播日本劇集</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>逢星期日</p></td>
 <td><p>12:30 - 13:30</p></td>
 <td></td>
-<td><p>重播日本劇集</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -582,6 +572,13 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>逢星期日</p></td>
+<td><p>09:15 - 09:30</p></td>
+<td></td>
+<td><p>美國動畫</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>逢星期六至日</p></td>
 <td><p>09:30 - 10:00</p></td>
 <td><p>星期六：<a href="https://zh.wikipedia.org/wiki/超人力霸王R_/_B" title="wikilink">超人R/B</a><br />
@@ -590,7 +587,7 @@
 韓國動畫</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10:00 - 10:30</p></td>
 <td><p>星期六：<a href="../Page/赤髮白雪姬.md" title="wikilink">赤髮白雪姬</a><br />
 星期日：<a href="../Page/救難小英雄24.md" title="wikilink">時間飛船24</a></p></td>
@@ -598,14 +595,14 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期日</p></td>
 <td><p>10:30 - 11:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/PAPA_DOG" title="wikilink">我的狗爸爸</a></p></td>
 <td><p>重播韓國動畫</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11:00 - 11:30</p></td>
 <td><p><a href="../Page/假面騎士Build.md" title="wikilink">幪面超人BUILD</a></p></td>
 <td><p>日本特攝<br />
@@ -613,29 +610,30 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期六</p></td>
 <td><p>00:30 - 01:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>非兒童類動畫</p></td>
-<td><p>&lt;!--逢星期四至六</p></td>
+<td><p>&lt;!--逢星期二至六</p></td>
 <td><p>00:00 - 00:30</p></td>
-<td><p><a href="../Page/齊木楠雄的災難_(動畫).md" title="wikilink">齊木楠雄的災難</a></p></td>
+<td><p>星期二至三：<a href="../Page/一拳超人.md" title="wikilink">一拳超人</a><br />
+星期四至六：<a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室</a></p></td>
 <td><p>重播日本動畫</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>--&gt;rowspan="2"|逢星期日</p></td>
 <td><p>00:00 - 00:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_(動畫)" title="wikilink">海賊王</a></p></td>
 <td><p>日本動畫</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>23:45 - 00:45</p></td>
+<tr class="even">
+<td><p>23:30 - 00:30</p></td>
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a>2</p></td>
 <td><p>日本動畫<br />
 每次播放兩集</p></td>
@@ -835,8 +833,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>逢星期二至六</strong></p></td>
-<td><p>02:00 - 02:30（星期二至五）<br />
-02:30 - 03:00（星期六）</p></td>
+<td><p>02:00 - 02:30</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1351,10 +1348,8 @@ Cultural Club</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年5月2日</p></td>
-<td><p>星期二至五：<br />
-02:00-02:30<br />
-星期六：<br />
-02:30-03:00</p></td>
+<td><p>星期二至六：<br />
+02:00-02:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/now深宵新聞" title="wikilink">深宵新聞</a><br />
 Late News</p></td>
 <td></td>
@@ -3464,6 +3459,18 @@ Be A Better Me</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>7月27日</p></td>
+<td><p>4</p></td>
+<td><p>23:30-00:00</p></td>
+<td><p>真人秀</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞電了" title="wikilink">今鋪搞電了</a><br />
+Good Game Bro</p></td>
+<td><p>演出：、<a href="https://zh.wikipedia.org/wiki/床哥" title="wikilink">床哥</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/雞翼" title="wikilink">雞翼</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/Kevin" title="wikilink">Kevin</a>、<a href="https://zh.wikipedia.org/wiki/Mari" title="wikilink">Mari</a><br />
+旁白：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
+<td><p><a href="../Page/惠普.md" title="wikilink">HP</a></p></td>
+<td><p>外判節目（<a href="../Page/香港.md" title="wikilink">香港</a>Farland）</p></td>
+</tr>
+<tr class="odd">
 <td><p>8月10日</p></td>
 <td><p>2</p></td>
 <td><p>20:00-20:30</p></td>

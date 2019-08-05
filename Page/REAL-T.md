@@ -385,7 +385,7 @@ REAL-T是日本一家專門從事[動畫](https://zh.wikipedia.org/wiki/動畫 "
   - [BanG Dream！](../Page/BanG_Dream!.md "wikilink")（新見元希）
   - [快盜天使雙胞胎](../Page/快盜天使雙胞胎.md "wikilink")BREAK（後藤正浩）
   - [劍姬神聖譚 在地下城尋求邂逅是否搞錯了什麼 外傳](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")（坪根健太郎）
-  - [情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")（坪根健太郎）
+  - [情色漫畫老師](../Page/情色漫畫老師.md "wikilink")（坪根健太郎）
   - [小魔女學園](https://zh.wikipedia.org/wiki/小魔女學園 "wikilink")（坪根健太郎）
   - [戰鬥女子學園](../Page/戰鬥女子學園.md "wikilink")（坪根健太郎）
   - [如果有妹妹就好了。](../Page/如果有妹妹就好了。.md "wikilink")（坪根健太郎）

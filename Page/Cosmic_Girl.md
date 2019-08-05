@@ -62,6 +62,7 @@
 | [Red Moon](../Page/Red_Moon_\(Mamamoo迷你專輯\).md "wikilink")                                                       | 여름밤의 꿈                                                      | 作詞、作曲、編曲                                                                                |          |          |
 | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink") [華莎](../Page/華莎.md "wikilink")                       | Be Alright                                                  | 作詞、作曲                                                                                   |          |          |
 | **Cosmic Girl** feat. [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink") [頌樂](../Page/頌樂.md "wikilink") | Lie Ya                                                      | 作詞、作曲、編曲                                                                                |          |          |
+| 2019年                                                                                                            | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink") | [Gleam](https://zh.wikipedia.org/wiki/Gleam_\(MAMAMOO單曲\) "wikilink")                   | Gleam    | 作詞、作曲、編曲 |
 |                                                                                                                  |                                                             |                                                                                         |          |          |
 
 ## 參考資料

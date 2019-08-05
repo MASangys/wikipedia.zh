@@ -32,7 +32,7 @@ eric6目前提供英语、法语、德语、俄语、捷克语、西班牙语、
   - [使用文档（较陈旧）](http://eric-ide.python-projects.org/eric-documentation.html)
   - [上游代码库（Mercurial）](http://die-offenbachs.homelinux.org:48888/hg/)
 
-[Category:Python](https://zh.wikipedia.org/wiki/Category:Python "wikilink") [Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [Category:用Python编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Python编程的自由软件 "wikilink") [Category:使用Qt的软件](https://zh.wikipedia.org/wiki/Category:使用Qt的软件 "wikilink")
+[Category:Python](https://zh.wikipedia.org/wiki/Category:Python "wikilink") [Category:用Python编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Python编程的自由软件 "wikilink") [Category:使用Qt的软件](https://zh.wikipedia.org/wiki/Category:使用Qt的软件 "wikilink")
 
 1.
 2.

@@ -8,8 +8,6 @@
 
 2017年開設了B'z的演唱會情報、門票販售情報網站「B'z Club-Gym」\[4\]。關於名稱取自「LIVE-GYM」的此外還有擔任[廣播主持人的](https://zh.wikipedia.org/wiki/w:Radio_personality "wikilink")「[B'z WAVE-GYM](../Page/B'z_WAVE-GYM.md "wikilink")」及粉絲俱樂部活動「[B'z VIDEO-GYM](https://zh.wikipedia.org/wiki/B'z_Party#B'z_VIDEO-GYM_#01 "wikilink")」、30週年紀念活動「[B'z Loud-Gym](../Page/B'z_Loud-Gym.md "wikilink")」。
 
-再經歷了30年，於2019年7月6日，LIVE-GYM在[大阪城音樂廳](../Page/大阪城音樂廳.md "wikilink")的演出，達到第1000場的里程碑\[5\]\[6\]。
-
 ## 演唱會種類
 
 ### 專輯巡演
@@ -18,25 +16,25 @@
 
 ### Pleasure巡演
 
-Pleasure巡演是不會發售原創專輯的演唱會系列，標題由來取自8th單曲「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」的2nd beat（[Coupling](../Page/A面與B面.md "wikilink")）「Pleasure '91 〜人生の快楽〜」\[7\]。在1991年『B'z LIVE-GYM "Pleasure '91"』舉辦當初，成員與工作人員皆尚未決定是否要系列化，但伴隨著自1992年的『B'z LIVE-GYM Pleasure '92 "TIME"』起，成為會在Pleasure字尾附加標題。松本曾經表示「將截至出道起的時間點使勁凝縮呈現，用每年的Pleasure來詮釋。在這方面，我認為就像是為了讓B'z踏出新階段的彈簧板般的存在{{\#tag:ref||group="原文"}}」。之後，1993年、1995年、1997年、2000年皆舉辦了Pleasure，但在出道15週年2003年的『B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"』後暫時封印。對此松本表示「由於我們長期舉辦，導致失去了與專輯巡演之間的變化。"Pleasure"逐漸變得不具特色。因此，也許定期舉辦會稍微變得更有重量{{\#tag:ref||group="原文"}}」。出道20週年2008年舉辦了『B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-』，稻葉表示「在這5年間，包含老歌等長時間沒被演奏的樂曲亦有所增加。當表演到Final時，往往會變得像是新專輯與一半是熱門曲遊行這樣的感覺，所以便會開始希望並非如此的樂曲們亦能獲中焦點。現在可以將其毫無違和感地完成，那些在陰影下的，亦有許多是變得不再演奏的昔日大作般的樂曲，因此本次的Pleasure感覺似乎是恰好完成的時機{{\#tag:ref||group="原文"}}\[8\]」，此後「Pleasure系列」成為了每隔5年舉辦」。}}。
+Pleasure巡演是不會發售原創專輯的演唱會系列，標題由來取自8th單曲「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」的2nd beat（[Coupling](../Page/A面與B面.md "wikilink")）「Pleasure '91 〜人生の快楽〜」\[5\]。在1991年『B'z LIVE-GYM "Pleasure '91"』舉辦當初，成員與工作人員皆尚未決定是否要系列化，但伴隨著自1992年的『B'z LIVE-GYM Pleasure '92 "TIME"』起，成為會在Pleasure字尾附加標題。松本曾經表示「將截至出道起的時間點使勁凝縮呈現，用每年的Pleasure來詮釋。在這方面，我認為就像是為了讓B'z踏出新階段的彈簧板般的存在{{\#tag:ref||group="原文"}}」。之後，1993年、1995年、1997年、2000年皆舉辦了Pleasure，但在出道15週年2003年的『B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"』後暫時封印。對此松本表示「由於我們長期舉辦，導致失去了與專輯巡演之間的變化。"Pleasure"逐漸變得不具特色。因此，也許定期舉辦會稍微變得更有重量{{\#tag:ref||group="原文"}}」。出道20週年2008年舉辦了『B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-』，稻葉表示「在這5年間，包含老歌等長時間沒被演奏的樂曲亦有所增加。當表演到Final時，往往會變得像是新專輯與一半是熱門曲遊行這樣的感覺，所以便會開始希望並非如此的樂曲們亦能獲中焦點。現在可以將其毫無違和感地完成，那些在陰影下的，亦有許多是變得不再演奏的昔日大作般的樂曲，因此本次的Pleasure感覺似乎是恰好完成的時機{{\#tag:ref||group="原文"}}\[6\]」，此後「Pleasure系列」成為了每隔5年舉辦」。}}。
 
 ### SHOWCASE
 
-SHOWCASE是以LIVE HOUSE或音樂廳會場為中心舉辦，並且無其它表演內容的演唱會型態。關於SHOWCASE的名稱，首次演唱會是舉辦在1996年的『B'z LIVE-GYM '96 "Spirit LOOSE" SHOWCASE』，起源於將「LIVE-GYM」舉行前的[彩排以類似於公開的形式進行](https://zh.wikipedia.org/wiki/彩排 "wikilink")，由先在觀眾面前測試過內容後再呈現巡演。在這種情況下，儘管壓減了場次，但由於演唱會是在舉行的數日前公佈，因此門票的受理期間變得非常短暫。2007年首次在複數會場舉辦了SHOWCASE，該年亦有在活動及上出演，前往『[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink")』出演更是緊急舉辦的演唱會。繼會場的『B'z SHOWCASE 2007 -19-』後，在地方都市的音樂廳會場舉辦了『B'z SHOWCASE 2007 -B'z In Your Town-』，披露了每日替換的及未演奏曲。2015年的『B'z SHOWCASE 2015 -品川有頂天NIGHT-』成為了僅官方粉絲俱樂部「[B'z Party](../Page/B'z_Party.md "wikilink")」會員可參加的粉絲俱樂部限定演唱會\[9\]。2017年的『B'z SHOWCASE 2017 -必殺日置人-』成為了在『B'z SHOWCASE 2017 -B'z In Your Town-』舉辦前的SHOWCASE，並在「B'z Club-Gym」販售了門票\[10\]。
+SHOWCASE是以LIVE HOUSE或音樂廳會場為中心舉辦，並且無其它表演內容的演唱會形態。關於SHOWCASE的名稱，首次演唱會是舉辦在1996年的『B'z LIVE-GYM '96 "Spirit LOOSE" SHOWCASE』，起源於將「LIVE-GYM」舉行前的[彩排以類似於公開的形式進行](https://zh.wikipedia.org/wiki/彩排 "wikilink")，由先在觀眾面前測試過內容後再呈現巡演。在這種情況下，儘管壓減了場次，但由於演唱會是在舉行的數日前公佈，因此門票的受理期間變得非常短暫。2007年首次在複數會場舉辦了SHOWCASE，但因原先已有今年要出演活動及的打算，故此為為了出演『[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink")』而緊急舉辦的演唱會。繼在會場的『B'z SHOWCASE 2007 -19-』後，緊接著在地方都市的音樂廳會場舉辦了『B'z SHOWCASE 2007 -B'z In Your Town-』，披露了每日替換的及未演奏曲。2015年的『B'z SHOWCASE 2015 -品川有頂天NIGHT-』成為了僅官方粉絲俱樂部「[B'z Party](../Page/B'z_Party.md "wikilink")」會員可參加的粉絲俱樂部限定演唱會\[7\]。2017年的『B'z SHOWCASE 2017 -必殺日置人-』成為了在『B'z SHOWCASE 2017 -B'z In Your Town-』舉辦前的SHOWCASE，並在「B'z Club-Gym」販售了門票\[8\]。
 
 #### In Your Town系列
 
-在複數會場舉辦SHOWCASE時，會有標題附加「B'z In Your Town」的演唱會，成為了巡迴在地方都市音樂廳會場的巡演。首次舉辦是在『B'z SHOWCASE 2007 -B'z In Your Town-』，自舉辦第2次的2009年起會在事前發布舉辦演唱會的通知\[11\]。2017年是睽違8年舉辦了「In Your Town系列」，演唱會會場包含了松本出生地的[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[豐中市](../Page/豐中市.md "wikilink")，與稻葉出生地的[岡山縣](../Page/岡山縣.md "wikilink")[津山市](../Page/津山市.md "wikilink")\[12\]。此外，SHOWCASE首次在官方粉絲俱樂部實施了抽選販售\[13\]。
+在複數會場舉辦SHOWCASE時，會有標題附加「B'z In Your Town」的演唱會，成為了巡迴在地方都市音樂廳會場的巡演。首次舉辦是在『B'z SHOWCASE 2007 -B'z In Your Town-』，自舉辦第2次的2009年起會在事前發布舉辦演唱會的通知\[9\]。2017年是睽違8年舉辦了「In Your Town系列」，演唱會會場包含了松本出生地的[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[豐中市](../Page/豐中市.md "wikilink")，與稻葉出生地的[岡山縣](../Page/岡山縣.md "wikilink")[津山市](../Page/津山市.md "wikilink")\[10\]。此外，SHOWCASE首次在官方粉絲俱樂部實施了抽選販售\[11\]。
 
 ### 海外公演
 
-在日本國外舉辦演唱會的情況下，亦會使用「LIVE-GYM」的稱呼。首次海外公演是2001年的[香港](../Page/香港.md "wikilink")與[臺北](../Page/臺北.md "wikilink")公演『B'z LIVE-GYM in Taipei/Hong Kong 2001』，2002年舉辦了首次美國公演『B'z LIVE-GYM 2002 "Rock n' California Roll"』，[洛杉磯公演在](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[網際網路上做了直播](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。之後，『B'z LIVE-GYM 2011 -long time no see-』在[Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")、『B'z LIVE-GYM 2012 -Into Free-』在Ustream與做了直播（皆為洛杉磯公演）。稻葉表示「想成為能在各種場所舉辦演唱會的立場{{\#tag:ref||group="原文"}}\[14\]」。
+在日本國外舉辦演唱會的情況下，亦會使用「LIVE-GYM」的稱呼。首次海外公演是2001年的[香港](../Page/香港.md "wikilink")與[臺北](../Page/臺北.md "wikilink")公演『B'z LIVE-GYM in Taipei/Hong Kong 2001』，2002年舉辦了首次美國公演『B'z LIVE-GYM 2002 "Rock n' California Roll"』，[洛杉磯公演在](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[網際網路上做了直播](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。之後，『B'z LIVE-GYM 2011 -long time no see-』在[Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")、『B'z LIVE-GYM 2012 -Into Free-』在Ustream與做了直播（皆為洛杉磯公演）。稻葉表示「想成為能在各種場所舉辦演唱會的立場{{\#tag:ref||group="原文"}}\[12\]」。
 
 ## 演唱會常例
 
 ### 慣例詞句
 
-B'z的演唱會有著成為常例的台詞。在演唱會開始後，最初的[MC是](../Page/司儀.md "wikilink")「B'z的LIVE-GYM歡迎光臨——！{{\#tag:ref||group="原文"}}」（在SHOWCASE的場合是「B'z的SHOWCASE歡迎光臨——！{{\#tag:ref||group="原文"}}」），亦有會邊說邊加上表演的情況。從結論上而言，雖絕大多數由稻葉負責說所有台詞，但迄今為止亦有支援樂手會說到「B'z的…」為止\[15\]、亦有松本與稻葉一起說「B'z的LIVE-GYM歡迎光臨——！」的情況\[16\]。
+B'z的演唱會有著成為常例的台詞。在演唱會開始後，最初的[MC是](../Page/司儀.md "wikilink")「B'z的LIVE-GYM歡迎光臨——！{{\#tag:ref||group="原文"}}」（在SHOWCASE的場合是「B'z的SHOWCASE歡迎光臨——！{{\#tag:ref||group="原文"}}」），亦有會邊說邊加上表演的情況。從結論上而言，雖絕大多數由稻葉負責說所有台詞，但迄今為止亦有支援樂手會說到「B'z的…」為止\[13\]、亦有松本與稻葉一起說「B'z的LIVE-GYM歡迎光臨——！」的情況\[14\]。
 
 在演唱會最後，由成員全員與觀眾一同大喊作結已成為常例。當稻葉說道「預——備！{{\#tag:ref||group="原文"}}」，成員與觀眾會一起說「辛苦了——！{{\#tag:ref||group="原文"}}」，在「了——！{{\#tag:ref||group="原文"}}」的時機大家會把拳頭向上高舉。
 
@@ -46,27 +44,27 @@ B'z的演唱會有著成為常例的台詞。在演唱會開始後，最初的[M
 
 ## 演唱會會場
 
-關於演唱會會場，『B'z LIVE-GYM '98 "SURVIVE"』是在競技場會場的巡演開始前，在音樂廳會場舉辦了Preview公演，自『B'z LIVE-GYM '99 "Brotherhood"』起亦在巡演的間隙或巡演後舉辦了Intermission公演、Extra公演。對此松本表示「想成為小從俱樂部尺寸的地方起，至音樂廳、競技場、巨蛋、體育場皆會表演的樂團{{\#tag:ref||group="原文"}}」、「若僅在大型體育場表演，會忘記小型會場的表演方法。要讓少人數的觀眾開心，並不會比大型會場來得簡單。儘管是一個吉他失誤，在小型會場便會昭然若揭。哪個曲目順序為佳，也會根據會場而有所不同。（大型會場與小型會場）是不同次元的東西{{\#tag:ref||group="原文"}}\[17\]」。此外，自2002年起亦舉辦了[離島演唱會](https://zh.wikipedia.org/wiki/離島 "wikilink")，稻葉表示「舉辦的雖是離島演唱會，但反響非常熱烈。平時不會去那裡的人，亦能以演唱會為契機特地前往。雖然沒有到城市振興程度那麽了不起，但至少只要能有1件像我們這樣的樂團力所能及之事，開始變得會認為大家明明只要不斷去做就好{{\#tag:ref||group="原文"}}\[18\]」、「收益的規模，或器材及工作人員的移動問題，在小城市舉辦演唱會的準備是十分不易的。但是，卻很令人愉快呢。從離島回來時，當地人會到乘坐渡輪的場所集合目送。『簡直就是會場規模以上的大型活動啊』令人滿懷幸福感與充實感{{\#tag:ref||group="原文"}}」。
+關於演唱會會場，『B'z LIVE-GYM '98 "SURVIVE"』是在競技場會場的巡演開始前，在音樂廳會場舉辦了Preview公演，自『B'z LIVE-GYM '99 "Brotherhood"』起亦在巡演的間隙或巡演後舉辦了Intermission公演、Extra公演。對此松本表示「想成為小從俱樂部尺寸的地方起，至音樂廳、競技場、巨蛋、體育場皆會表演的樂團{{\#tag:ref||group="原文"}}」、「若僅在大型體育場表演，會忘記小型會場的表演方法。要讓少人數的觀眾開心，並不會比大型會場來得簡單。儘管是一個吉他失誤，在小型會場便會昭然若揭。哪個曲目順序為佳，也會根據會場而有所不同。（大型會場與小型會場）是不同次元的東西{{\#tag:ref||group="原文"}}\[15\]」。此外，自2002年起亦舉辦了[離島演唱會](https://zh.wikipedia.org/wiki/離島 "wikilink")，稻葉表示「舉辦的雖是離島演唱會，但反響非常熱烈。平時不會去那裡的人，亦能以演唱會為契機特地前往。雖然沒有到城市振興程度那麽了不起，但至少只要能有1件像我們這樣的樂團力所能及之事，開始變得會認為大家明明只要不斷去做就好{{\#tag:ref||group="原文"}}\[16\]」、「收益的規模，或器材及工作人員的移動問題，在小城市舉辦演唱會的準備是十分不易的。但是，卻很令人愉快呢。從離島回來時，當地人會到乘坐渡輪的場所集合目送。『簡直就是會場規模以上的大型活動啊』令人滿懷幸福感與充實感{{\#tag:ref||group="原文"}}」。
 
 自1998年起，音樂廳公演實施了當地一般銷售。不過，因導致門票發售地的當地粉絲俱樂部會員搶不到門票等產生不公，而成為官方粉絲俱樂部「[B'z Party](../Page/B'z_Party.md "wikilink")」會員優先預約先行販售的情況居多。但為此，卻造成在一般銷售前座位售罄的情況發生。自2010年的『B'z LIVE-GYM 2010 "Ain't No Magic"』起，按區域劃分座位，向官方粉絲俱樂部會員平等地販售門票。
 
 ### 通過B'z的演唱會首次舉辦音樂活動的會場
 
-迄今為止B'z的演唱會有成為該會場首次舉辦音樂活動的案例，[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、是成為了\[19\]公演\[20\]\[21\]。
+迄今為止B'z的演唱會有成為該會場首次舉辦音樂活動的案例，[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、是成為了\[17\]公演\[18\]\[19\]。
 
   - （1991年）
 
   - [名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")（1997年）
 
-  - [橫濱國際綜合競技場](../Page/橫濱國際綜合競技場.md "wikilink")（日產體育場）（1999年）\[22\]
+  - [橫濱國際綜合競技場](../Page/橫濱國際綜合競技場.md "wikilink")（日產體育場）（1999年）\[20\]
 
-  - [札幌巨蛋](../Page/札幌巨蛋.md "wikilink")（2001年）\[23\]
+  - [札幌巨蛋](../Page/札幌巨蛋.md "wikilink")（2001年）\[21\]
 
   - [廣島廣域公園陸上競技場](https://zh.wikipedia.org/wiki/廣島廣域公園陸上競技場 "wikilink")（Edion Stadium廣島）（2002年）
 
-  - [新潟體育場](../Page/新潟體育場.md "wikilink")（Denka大天鵝球場）（2002年）\[24\]
+  - [新潟體育場](../Page/新潟體育場.md "wikilink")（Denka大天鵝球場）（2002年）\[22\]
 
-  - [大分體育公園綜合競技場](../Page/大分體育公園綜合競技場.md "wikilink")（大分銀行圓頂）（2002年）\[25\]
+  - [大分體育公園綜合競技場](../Page/大分體育公園綜合競技場.md "wikilink")（大分銀行圓頂）（2002年）\[23\]
 
   - [神戶綜合運動公園世大運紀念競技場](https://zh.wikipedia.org/wiki/神戶綜合運動公園世大運紀念競技場 "wikilink")（2008年）
 
@@ -91,7 +89,7 @@ B'z的演唱會有著成為常例的台詞。在演唱會開始後，最初的[M
 <td><p>1989年4月3日</p></td>
 <td><p>SF Rock Station FINAL EVENT<br />
 『THANK YOU TM NETWORK』</p></td>
-<td><p><strong>會場</strong> -  <a href="../Page/TM_NETWORK.md" title="wikilink">TM NETWORK主辦的演唱會</a>，成為了作為B'z在事實上的首次演唱會[26]。<br />
+<td><p><strong>會場</strong> -  <a href="../Page/TM_NETWORK.md" title="wikilink">TM NETWORK主辦的演唱會</a>，成為了作為B'z在事實上的首次演唱會[24]。<br />
 <strong>EDSE</strong> - 「」「」（與TM NETWORK一同）</p></td>
 </tr>
 <tr class="even">
@@ -376,7 +374,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 04/30 沖縄コンベンションセンター </p>
 </div>
 </div>
-<p>根據B'z的2人陳述，歸納起來在巡演過程中有一段相當艱辛的時期[27]。在演唱會上的1個環節中Z'b亦有登場。總動員數124,842人。<br />
+<p>根據B'z的2人陳述，歸納起來在巡演過程中有一段相當艱辛的時期[25]。在演唱會上的1個環節中Z'b亦有登場。總動員數124,842人。<br />
 <strong>EDSE</strong> - 「<a href="../Page/IN_THE_LIFE.md" title="wikilink">憂いのGYPSY</a> (Instrumental)」</p></td>
 </tr>
 <tr class="even">
@@ -804,7 +802,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 </div>
 </div>
 <p>自The 9th Blues巡演以來的360度開放舞台，舞台後方為協助舞台演出的觀眾設立了演出協助席。但是，在部分場次的本演出中，皆發生多數觀眾將螢光棒帶入會場的問題（現已禁止使用螢光棒等物品）。<br />
-根據8月9日的千葉公演降下豪雨，使競技場（運動場）積起雨水，因會場上的避雷針被落雷擊中，造成工作人員出現傷員等狀況，緊急縮短了演唱會時間[28][29]。與Preview公演合計總動員數451,500人。<br />
+根據8月9日的千葉公演降下豪雨，使競技場（運動場）積起雨水，因會場上的避雷針被落雷擊中，造成工作人員出現傷員等狀況，緊急縮短了演唱會時間[26][27]。與Preview公演合計總動員數451,500人。<br />
 <strong>EDSE</strong> - 「Thinking of you」</p></td>
 </tr>
 <tr class="even">
@@ -1113,7 +1111,7 @@ Official Concert International Day</a></p></td>
 09/19 大阪ドーム </p>
 </div>
 </div>
-<p>首次在競技場公演使用圓形舞台，並在巨蛋公演中地板為可動式，亦進行了以最高時速20 km/h旋轉的演出。2013年作為『B'z LIVE-GYM 2005 -CIRCLE OF ROCK-』影像作品化。與SHOWCASE公演合計總動員數約59萬人。<br />
+<p>首次在競技場公演使用圓形舞台，並在巨蛋公演中地板為可動式，亦進行了以最高時速20km/h旋轉的演出。2013年作為『B'z LIVE-GYM 2005 -CIRCLE OF ROCK-』影像作品化。與SHOWCASE公演合計總動員數約59萬人。<br />
 <strong>EDSE</strong> - 「Dear my lovely pain」</p></td>
 </tr>
 <tr class="odd">
@@ -1175,7 +1173,7 @@ Official Concert International Day</a></p></td>
 07/04 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a></p>
 </div>
 </div>
-<p>SHOWCASE首次舉辦在複數會場。前往夏季活動出演是決定緊急舉辦，標題亦是「由於決定匆忙，以及剛好是第19年，而直接取用『19』。既無任何考量，亦無任何玄機{{#tag:ref||group="原文"}}」。除了久違演奏的樂曲相對較多以外，首次披露了「<a href="../Page/ARIGATO.md" title="wikilink">ARIGATO</a>」。在<a href="https://zh.wikipedia.org/wiki/精選輯" title="wikilink">精選輯</a>『<a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"</a>』【2CD+DVD】盤中收錄了影像作品。此外，2010年亦作為『B'z LIVE in なんば 2006 &amp; B'z SHOWCASE 2007 -19- at Zepp Tokyo』發售。總動員數約13,000人。<br />
+<p>首次在複數會場舉辦SHOWCASE。為了出演夏季活動而決定緊急舉辦，標題亦是「由於決定匆忙，以及剛好是第19年，而直接取用『19』。既無任何考量，亦無任何玄機{{#tag:ref||group="原文"}}」。首次披露了「<a href="../Page/ARIGATO.md" title="wikilink">ARIGATO</a>」。在<a href="https://zh.wikipedia.org/wiki/精選輯" title="wikilink">精選輯</a>『<a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"</a>』【2CD+DVD】盤中收錄了影像作品。此外，2010年亦作為『B'z LIVE in なんば 2006 &amp; B'z SHOWCASE 2007 -19- at Zepp Tokyo』發售。總動員數約13,000人。<br />
 <strong>EDSE</strong> - 「」（<a href="../Page/清水樂團.md" title="wikilink">Creedence Clearwater Revival</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -1196,13 +1194,13 @@ Official Concert International Day</a></p></td>
 08/08 宇都宮市文化会館</p>
 </div>
 </div>
-<p>接續舉辦了之前在Zepp會場的SHOWCASE公演。宮崎公演因颱風影響造成交通癱瘓，在演出中途或安可時方可抵達會場的觀眾，以及甚至最終仍未趕上演出的觀眾數多，此事刊登在會報上，成員致歉。總動員數約15,000人。<br />
+<p>繼在Zepp會場的SHOWCASE公演後緊接著舉辦。宮崎公演因颱風影響造成交通癱瘓，在演出中途或安可時方可抵達會場的觀眾，以及甚至最終仍未趕上演出的觀眾數多，此事刊登在會報上，成員致歉。總動員數約15,000人。<br />
 <strong>EDSE</strong> - 「Have you ever seen the rain?」（Creedence Clearwater Revival）</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年8月11日・12日</p></td>
 <td><p><a href="../Page/SUMMER_SONIC.md" title="wikilink">SUMMER SONIC 07</a></p></td>
-<td><p><strong>2會場2公演</strong> - 千葉海洋球場、舞洲スポーツアイランド 首次出演[30]。</p></td>
+<td><p><strong>2會場2公演</strong> - 千葉海洋球場、舞洲スポーツアイランド 首次出演[28]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年1月25日</p></td>
@@ -1336,7 +1334,7 @@ Official Concert International Day</a></p></td>
 <tr class="even">
 <td><p>2009年8月8日・9日</p></td>
 <td><p>SUMMER SONIC 09</p></td>
-<td><p><strong>2會場2公演</strong> - 千葉海洋球場、舞洲スポーツアイランド 睽違2年的SUMMER SONIC出演[31]。在專輯『<a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">MAGIC</a>』的初回限定盤DVD中收錄了「<a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">DIVE</a>」「<a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">イチブトゼンブ</a>」「MY LONELY TOWN」的演唱會影像。</p></td>
+<td><p><strong>2會場2公演</strong> - 千葉海洋球場、舞洲スポーツアイランド 睽違2年的SUMMER SONIC出演[29]。在專輯『<a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">MAGIC</a>』的初回限定盤DVD中收錄了「<a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">DIVE</a>」「<a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">イチブトゼンブ</a>」「MY LONELY TOWN」的演唱會影像。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年1月14日 - 3月7日</p></td>
@@ -1366,7 +1364,7 @@ Official Concert International Day</a></p></td>
 03/07 東京ドーム </p>
 </div>
 </div>
-<p>自本巡演起，成為了按區域劃分座位並販售門票。巨蛋公演使用了可動式飛行舞台[32]。作為『B'z LIVE-GYM 2010 "Ain't No Magic" at TOKYO DOME』影像作品化。總動員數約62萬人。<br />
+<p>自本巡演起，成為了按區域劃分座位並販售門票。巨蛋公演使用了可動式飛行舞台[30]。作為『B'z LIVE-GYM 2010 "Ain't No Magic" at TOKYO DOME』影像作品化。總動員數約62萬人。<br />
 <strong>EDSE</strong> - 「ひとりじゃないから -Theme Of LIVE-GYM-」</p></td>
 </tr>
 <tr class="even">
@@ -1383,7 +1381,7 @@ Official Concert International Day</a></p></td>
 07/24 <a href="https://zh.wikipedia.org/wiki/L.A.ライブ" title="wikilink">クラブノキア</a> (Los Angeles)</p>
 </div>
 </div>
-<p>睽違約8年的海外公演。洛杉磯公演在「<a href="https://zh.wikipedia.org/wiki/Ustream" title="wikilink">Ustream</a>」上進行了全世界直播[33]。<br />
+<p>睽違約8年的海外公演。洛杉磯公演在「<a href="https://zh.wikipedia.org/wiki/Ustream" title="wikilink">Ustream</a>」上進行了全世界直播[31]。<br />
 主要由單曲構成，披露了「<a href="https://zh.wikipedia.org/wiki/さまよえる蒼い弾丸" title="wikilink">さまよえる蒼い弾丸</a>」「<a href="https://zh.wikipedia.org/wiki/juice" title="wikilink">juice</a>」「<a href="../Page/SPLASH!.md" title="wikilink">SPLASH!</a>」「<a href="https://zh.wikipedia.org/wiki/Brotherhood_(B&#39;z專輯)" title="wikilink">Brotherhood</a>」的英語版本（未演奏成為巡演標題的「long time no see」）。<br />
 <a href="../Page/大賀好修.md" title="wikilink">大賀好修</a>作為支援吉他手參加。總動員數約6,000人。<br />
 <strong>EDSE</strong> - 「Jet Lag」（<a href="https://zh.wikipedia.org/wiki/Simple_Plan" title="wikilink">Simple Plan</a>）</p></td>
@@ -1392,7 +1390,7 @@ Official Concert International Day</a></p></td>
 <td><p>2011年8月31日</p></td>
 <td><p>Music for Relief<br />
 - Secret Show for Japan</p></td>
-<td><p><strong>1會場1公演</strong> - MAYAN THEATER (Los Angeles) <a href="../Page/聯合公園.md" title="wikilink">LINKIN PARK創立的支援團體</a>「Music For Relief」[34]，為了救濟支援<a href="../Page/東日本大震災.md" title="wikilink">東日本大震災</a>而舉行的秘密演唱會。截至2011年8月24日為止，最先捐助至目標金額500美元的500人，被邀請各攜帶1人觀看該演唱會，最後共募集到35萬美元（約2,700萬日元）的捐款金額[35]。B'z作為特邀嘉賓出演，演奏了10曲，首次披露了「<a href="https://zh.wikipedia.org/wiki/ultra_soul" title="wikilink">ultra soul</a>」的英語版本。<br />
+<td><p><strong>1會場1公演</strong> - MAYAN THEATER (Los Angeles) <a href="../Page/聯合公園.md" title="wikilink">LINKIN PARK創立的支援團體</a>「Music For Relief」[32]，為了救濟支援<a href="../Page/東日本大震災.md" title="wikilink">東日本大震災</a>而舉行的秘密演唱會。截至2011年8月24日為止，最先捐助至目標金額500美元的500人，被邀請各攜帶1人觀看該演唱會，最後共募集到35萬美元（約2,700萬日元）的捐款金額[33]。B'z作為特邀嘉賓出演。演奏10曲，首次披露了「<a href="https://zh.wikipedia.org/wiki/ultra_soul" title="wikilink">ultra soul</a>」的英語版本。<br />
 <strong>EDSE</strong> - 無</p></td>
 </tr>
 <tr class="even">
@@ -1430,13 +1428,13 @@ Official Concert International Day</a></p></td>
 12/25 東京ドーム </p>
 </div>
 </div>
-<p>宮城公演作為東日本大震災的「復興支援演唱會」舉行，宮城公演的收益金額，加上所有公演收益金額的一部分，以及所有公演會場販售的慈善周邊收益金全額，共計6,430萬日元全額捐贈。巨蛋公演演奏了「いつかのメリークリスマス」[36]。作為『B'z LIVE-GYM 2011 -C'mon-』影像作品化。總動員數約52萬人。<br />
+<p>宮城公演作為東日本大震災的「復興支援演唱會」舉行，宮城公演的收益金額，加上所有公演收益金額的一部分，以及所有公演會場販售的慈善周邊收益金全額，共計6,430萬日元全額捐贈。巨蛋公演演奏了「いつかのメリークリスマス」[34]。作為『B'z LIVE-GYM 2011 -C'mon-』影像作品化。總動員數約52萬人。<br />
 <strong>EDSE</strong> - 「ひとりじゃないから -Theme Of LIVE-GYM-」</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年9月25日</p></td>
 <td></td>
-<td><p><strong>1會場1公演</strong> - 日本武道館 <a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>主辦的音樂節。由B'z擔任[37]。</p></td>
+<td><p><strong>1會場1公演</strong> - 日本武道館 <a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>主辦的音樂節。由B'z擔任[35]。</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年9月28日</p></td>
@@ -1469,7 +1467,7 @@ B'z PREMIUM LIVE OSAKA/TOKYO</p></td>
 10/07 <a href="https://zh.wikipedia.org/wiki/ギブソン・アンフィシアター" title="wikilink">ギブソン・アンフィシアター</a> (Los Angeles)</p>
 </div>
 </div>
-<p>全美巡演。最終公演通過「 」與「Ustream」進行了全世界直播[38]。總動員數約2萬人。<br />
+<p>全美巡演。最終公演通過「 」與「Ustream」進行了全世界直播[36]。總動員數約2萬人。<br />
 <strong>EDSE</strong> - 不明</p></td>
 </tr>
 <tr class="odd">
@@ -1535,13 +1533,13 @@ B'z PREMIUM LIVE OSAKA/TOKYO</p></td>
 09/22 日産スタジアム </p>
 </div>
 </div>
-<p>睽違5年的Pleasure巡演。橫濱公演2日間合計動員15萬人，創下了日產體育場的1公演史上最多觀眾動員數（75,000人）紀錄[39]。作為『B'z LIVE-GYM Pleasure 2013 ENDLESS SUMMER -XXV BEST-』影像作品化。SHOWCASE公演合計總動員數約55萬人。<br />
+<p>睽違5年的Pleasure巡演。橫濱公演2日間合計動員15萬人，創下了日產體育場的1公演史上最多觀眾動員數（75,000人）紀錄[37]。作為『B'z LIVE-GYM Pleasure 2013 ENDLESS SUMMER -XXV BEST-』影像作品化。SHOWCASE公演合計總動員數約55萬人。<br />
 <strong>EDSE</strong> - 「<a href="../Page/EPIC_DAY.md" title="wikilink">君を気にしない日など</a>」「ひとりじゃないから -Theme Of LIVE-GYM-」</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年8月8日</p></td>
 <td><p>AEROSONIC</p></td>
-<td><p><strong>1會場1公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">QVC海洋球場</a> 睽違11年與Aerosmith共演[40]，一同披露了「Mama Kin」[41]。</p></td>
+<td><p><strong>1會場1公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">QVC海洋球場</a> 睽違11年與Aerosmith共演[38]，一同披露了「Mama Kin」[39]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年11月30日</p></td>
@@ -1640,7 +1638,7 @@ at EX THEATER ROPPONGI</p></td>
 <tr class="even">
 <td><p>2015年7月7日</p></td>
 <td><p>ROCKROCK 20TH ANNIVERSARY LIVE【ROCK BEYOND ROCK】</p></td>
-<td><p><strong>1會場1公演</strong> - Zepp Namba 大阪心齋橋的音樂酒吧「ROCKROCK」開幕20週年紀念演唱會活動[42]。</p></td>
+<td><p><strong>1會場1公演</strong> - Zepp Namba 大阪心齋橋的音樂酒吧「ROCKROCK」開幕20週年紀念演唱會活動[40]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年11月19日</p></td>
@@ -1651,7 +1649,7 @@ at EX THEATER ROPPONGI</p></td>
 <tr class="even">
 <td><p>2015年11月21日</p></td>
 <td><p>テレビ朝日ドリームフェスティバル2015</p></td>
-<td><p><strong>1會場1公演</strong> - 國立代代木競技場 第一體育館 睽違4年出演『Dream Festival』[43]。</p></td>
+<td><p><strong>1會場1公演</strong> - 國立代代木競技場 第一體育館 睽違4年出演『Dream Festival』[41]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年7月11日</p></td>
@@ -1669,7 +1667,7 @@ at EX THEATER ROPPONGI</p></td>
 <div class="NavContent" style="text-align:left;">
 </div>
 </div>
-<p>成為了睽違約8年的In Your Town系列，演唱會會場包含了松本與稻葉的出生地[44]。配合<a href="https://zh.wikipedia.org/wiki/Boxset" title="wikilink">Boxset</a> 『<a href="../Page/B&#39;z_COMPLETE_SINGLE_BOX.md" title="wikilink">B'z COMPLETE SINGLE BOX</a>』的發售，除了當時的未發表曲「CHAMP」以外，全由單曲收錄曲所構成。<br />
+<p>成為了睽違約8年的In Your Town系列，演唱會會場包含了松本與稻葉的出生地[42]。配合<a href="https://zh.wikipedia.org/wiki/Boxset" title="wikilink">Boxset</a> 『<a href="../Page/B&#39;z_COMPLETE_SINGLE_BOX.md" title="wikilink">B'z COMPLETE SINGLE BOX</a>』的發售，除了當時的未發表曲「CHAMP」以外，全由單曲收錄曲所構成。<br />
 <strong>EDSE</strong> - 「<a href="../Page/DINOSAUR.md" title="wikilink">CHAMP</a>」</p></td>
 </tr>
 <tr class="odd">
@@ -1730,7 +1728,7 @@ B'z PREMIUM LIVE</p></td>
 <td><p>2017年12月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/RADIO_CRAZY" title="wikilink">FM802 ROCK FESTIVAL<br />
 RADIO CRAZY 2017</a></p></td>
-<td><p><strong>1會場1公演</strong> -  成為了由於稻葉喉嚨不適，演奏2曲後暫時中斷，之後再次回到舞台並道歉，又演奏了2曲作結[45]。迄今為止，根據天候因素中斷、縮短的情況過往有例，但因成員身體不適的中斷、縮短，本次為首例。</p></td>
+<td><p><strong>1會場1公演</strong> -  成為了由於稻葉喉嚨不適，演奏2曲後暫時中斷，之後再次回到舞台並道歉，又演奏了2曲作結[43]。迄今為止，根據天候因素中斷、縮短的情況過往有例，但因成員身體不適的中斷、縮短，本次為首例。</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年7月2日</p></td>
@@ -1749,14 +1747,14 @@ RADIO CRAZY 2017</a></p></td>
 <div class="NavContent" style="text-align:left;">
 </div>
 </div>
-<p>睽違5年的Pleasure巡演。在『B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR"』最終公演結束時宣布[46]。2018年11月24日在<a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>播放了味知素體育場最終公演。作為『B'z LIVE-GYM Pleasure 2018 -HINOTORI-』影像作品化[47][48]。<br />
+<p>睽違5年的Pleasure巡演。在『B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR"』最終公演結束時宣布[44]。2018年11月24日在<a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>播放了味知素體育場最終公演。作為『B'z LIVE-GYM Pleasure 2018 -HINOTORI-』影像作品化[45][46]。<br />
 <strong>EDSE</strong> - 「ひとりじゃないから -Theme of LIVE-GYM-」「いつかまたここで」</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年9月29日</p></td>
 <td><p><small>B'z PARTY Presents</small><br />
 B'z Pleasure in Hawaii</p></td>
-<td><p><strong>1會場1公演</strong> - Neal S. Blaisdell Concert Hall (Hawaii) 舉辦在夏威夷作為來自<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party的粉絲俱樂部活動一環舉行的限定演唱會</a>。亦在日本國內電影院以粉絲俱樂部會員（可偕同非會員）為對象舉辦了電影院直播（Live Viewing）[49]。因根據<a href="../Page/颱風潭美_(2018年).md" title="wikilink">24號颱風的影響</a>，中止了部分地區的電影院直播，故於2018年12月9日、10日以中止上映的電影院，與其他交通網受影響的地區為中心實施了再度上映。</p></td>
+<td><p><strong>1會場1公演</strong> - Neal S. Blaisdell Concert Hall (Hawaii) 舉辦在夏威夷作為來自<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party的粉絲俱樂部活動一環舉行的限定演唱會</a>。亦在日本國內電影院以粉絲俱樂部會員（可偕同非會員）為對象舉辦了電影院直播（Live Viewing）[47]。因根據<a href="../Page/颱風潭美_(2018年).md" title="wikilink">24號颱風的影響</a>，中止了部分地區的電影院直播，故於2018年12月9日、10日以中止上映的電影院，與其他交通網受影響的地區為中心實施了再度上映。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1789,12 +1787,15 @@ B'z Pleasure in Hawaii</p></td>
 <div class="NavContent" style="text-align:left;">
 </div>
 </div>
-<p>由來自作為一個樂團該有所改變了這樣的成員意向，成為了自『B'z LIVE-GYM '98 "SURVIVE"』以來，支援樂手全體換新的巡演[50][51]。在7月6日的大阪公演達成了LIVE-GYM總計第1000場公演[52][53]。9月10日的福岡公演預定在日本全國電影院舉辦電影院直播（Live Viewing）。</p></td>
+<p>標題取自合併了專輯標題與<a href="https://zh.wikipedia.org/wiki/Led_Zeppelin" title="wikilink">Led Zeppelin的樂曲</a>「<a href="https://zh.wikipedia.org/wiki/Whole_Lotta_Love" title="wikilink">Whole Lotta Love</a>」[48]。<br />
+因「作為一個樂團必須時時求變」這樣的成員意向，成為了自『B'z LIVE-GYM '98 "SURVIVE"』以來，支援樂手全體換新的巡演[49][50]。<br />
+在7月6日的大阪公演達成了LIVE-GYM總計第1000場公演[51][52]。<br />
+9月10日的福岡公演預定在日本全國電影院舉辦電影院直播（Live Viewing）。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年8月16日・18日</p></td>
 <td><p><a href="../Page/SUMMER_SONIC.md" title="wikilink">SUMMER SONIC 2019</a></p></td>
-<td><p><strong>2會場2公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a>＆<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>、 作為B'z是睽違10年[54]的第3次出演。成為了SUMMER SONIC史上首次由日本藝人擔任主打音樂人[55]。</p></td>
+<td><p><strong>2會場2公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a>＆<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>、 作為B'z是睽違10年[53]的第3次出演。成為了SUMMER SONIC史上首次由日本藝人擔任主打音樂人[54]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1830,8 +1831,8 @@ BMLR-24 (LD)</p></td>
 <td><p>BMVR-1003 (VHS)<br />
 BMLR-1003 (LP)<br />
 BMBD-1003 (DVD)</p></td>
-<td><p>DVD版追加收錄了「さよならなんかは言わせない」。<br />
-1994年度Oricon公信榜年間音楽VHS榜第1位。</p></td>
+<td><p>在DVD版追加收錄了「さよならなんかは言わせない」。<br />
+1994年度Oricon公信榜年間音樂VHS榜第1位。</p></td>
 </tr>
 <tr class="odd">
 <td><p>'''{{link-ja|"BUZZ</p></td>
@@ -1849,7 +1850,7 @@ BMBD-1003 (DVD)</p></td>
 2001年3月14日 (DVD)</p></td>
 <td><p>BMVR-5003 (VHS)<br />
 BMBD-5003 (DVD)</p></td>
-<td><p>成為了專輯巡演的首次影像化。當初預定製作迄今為止演唱會影像合集BEST盤般內容的VHS，但因收到許多來自Brotherhood巡演影像化的要求，故以這樣的形態對此作出了回應。<br />
+<td><p>成為了專輯巡演的首次影像化。當初預定製作為彙整了迄今為止演唱會影像的BEST盤般內容的VHS，但因收到許多來自希望Brotherhood巡演影像化的請求，而成為了響應該期望的形態。<br />
 2000年度Oricon公信榜年間音樂VHS榜第5位。<br />
 DVD中追加收錄了松本SOLO名義的「GO FURTHER」、稻葉SOLO名義的「遠くまで」。</p></td>
 </tr>
@@ -1861,7 +1862,7 @@ DVD中追加收錄了松本SOLO名義的「GO FURTHER」、稻葉SOLO名義的�
 <td><p>ONVX-5014 (VHS)<br />
 ONBD-5014 - 5 (DVD)</p></td>
 <td><p>插入了<a href="../Page/紀錄片.md" title="wikilink">紀錄片</a>影像。<br />
-DVD收錄了美國公演的摘要影像。<br />
+DVD中收錄了美國公演的摘要影像。<br />
 2003年度Oricon公信榜年間音樂DVD榜第1位。</p></td>
 </tr>
 <tr class="even">
@@ -1882,7 +1883,7 @@ DVD收錄了美國公演的摘要影像。<br />
 <td><p>ONBD-5019 - 21 (DVD)<br />
 BMXV-1001 (Blu-ray Disc)</p></td>
 <td><p>2007年度Oricon公信榜年間音樂DVD榜第2位。<br />
-DVD版、BD版一同收錄了巡演紀錄片DVD。</p></td>
+DVD版、BD版皆共同收錄了巡演紀錄片DVD。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/B&#39;z_LIVE_in_なんば.md" title="wikilink">B'z LIVE in なんば</a></strong></p></td>
@@ -1891,9 +1892,9 @@ DVD版、BD版一同收錄了巡演紀錄片DVD。</p></td>
 2010年12月22日 (Blu-ray Disc)</p></td>
 <td><p>BMBV-5001 (DVD)<br />
 BMXV-1002 - 3 (Blu-ray Disc)</p></td>
-<td><p>雖是Network Live（現・Control Room）擁有所有權的影像，但因權利期限已過期而決定發行[56]。<br />
+<td><p>雖是由Network Live（現・Control Room）擁有所有權的影像，但因權利期限過期而決定發行[55]。<br />
 2008年度Oricon公信榜年間音樂DVD榜第7位。<br />
-BD版將<a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"特典DVD的</a>「B'z SHOWCASE 2007 "19" at Zepp Tokyo」併為套組發行。</p></td>
+BD版是與<a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"特典DVD的</a>「B'z SHOWCASE 2007 "19" at Zepp Tokyo」併成一套發行。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/B&#39;z_LIVE-GYM_Hidden_Pleasure_〜Typhoon_No.20〜" title="wikilink">B'z LIVE-GYM Hidden Pleasure<br />
@@ -1916,7 +1917,7 @@ B'z LIVE-GYM 2003 "BIG MACHINE"<br />
 B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <td><p>2008年<a href="../Page/12月10日.md" title="wikilink">12月10日</a> (DVD)</p></td>
 <td><p>BMBV-5002 - 4 (DVD)</p></td>
-<td><p>為紀念結成20週年，以未發表演唱會影像為中心做收錄[57]。<br />
+<td><p>紀念結成20週年，收錄內容由未發表演唱會影像所構成[56]。<br />
 2009年度Oricon公信榜年間音樂DVD榜第12位。</p></td>
 </tr>
 <tr class="even">
@@ -1949,7 +1950,7 @@ at Zepp Tokyo</a></strong></p></td>
 B'z SHOWCASE 2007 "19" at Zepp Tokyo</p></td>
 <td><p>2010年<a href="../Page/12月22日.md" title="wikilink">12月22日</a>(Blu-ray Disc)</p></td>
 <td><p>BMXV-1002 - 3(Blu-ray Disc)</p></td>
-<td><p>與另外2作品的Blu-ray化作品同時發行。</p></td>
+<td><p>與其他2張Blu-ray化作品同時發行。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2011_-C&#39;mon-.md" title="wikilink">B'z LIVE-GYM 2011 -C'mon-</a></strong></p></td>
@@ -1965,7 +1966,7 @@ BMXV-5013(Blu-ray Disc)</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a> (DVD/Blu-ray Disc)</p></td>
 <td><p>BMBV-5015 - 5016(DVD)<br />
 BMXV-5015 (Blu-ray Disc)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第1彈[58]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第1彈[57]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2005_-CIRCLE_OF_ROCK-.md" title="wikilink">B'z LIVE-GYM 2005<br />
@@ -1973,14 +1974,14 @@ BMXV-5015 (Blu-ray Disc)</p></td>
 <td><p>B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <td><p>2013年<a href="../Page/2月27日.md" title="wikilink">2月27日</a> (DVD)</p></td>
 <td><p>BMBV-5017 - 5018 (DVD)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第2彈[59]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第2彈[58]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2001_-ELEVEN-.md" title="wikilink">B'z LIVE-GYM 2001 -ELEVEN-</a></strong></p></td>
 <td><p>B'z LIVE-GYM 2001 "ELEVEN"</p></td>
 <td><p>2013年<a href="../Page/3月27日.md" title="wikilink">3月27日</a> (DVD)</p></td>
 <td><p>BMBV-5019 - 5020 (DVD)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第3彈[60]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第3彈[59]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST-.md" title="wikilink">B'z LIVE-GYM Pleasure 2013<br />
@@ -1994,8 +1995,8 @@ BMXV-5021 - 5022 (Blu-ray Disc)<br />
 通常盤<br />
 BMBV-5025 - 5026(DVD)<br />
 BMXV-5025 (Blu-ray Disc)</p></td>
-<td><p>完全盤收錄了Tour Final的日產體育場公演，加上亦收錄了巡演紀錄片與音樂廳Tour Final的會津風雅堂公演[61]。<br />
-通常盤僅收錄了Tour Final的日產體育場公演[62]。</p></td>
+<td><p>完全盤是除了收錄了Tour Final的日產體育場公演以外，亦收錄了巡演紀錄片與音樂廳Tour Final的會津風雅堂公演[60]。<br />
+通常盤是僅收錄了Tour Final的日產體育場公演[61]。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2015_-EPIC_NIGHT-.md" title="wikilink">B'z LIVE-GYM 2015<br />
@@ -2022,7 +2023,7 @@ BMXV-5033 (Blu-ray Disc)</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月13日.md" title="wikilink">3月13日</a>(DVD＋CD/Blu-ray Disc＋CD)</p></td>
 <td><p>BMBV-5035 - 5037 (DVD)<br />
 BMXV-5035 - 5036 (Blu-ray Disc)</p></td>
-<td><p>除了Tour Final的味之素體育場公演以外，亦收錄了巡演紀錄片與每日替換曲。此外亦附屬了「HINOTORI」的CD。</p></td>
+<td><p>除了Tour Final的味之素體育場公演以外，亦收錄了巡演紀錄片與每日替換曲。此外還附屬了「HINOTORI」的CD。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2053,14 +2054,14 @@ B'z LIVE-GYM Pleasure 2000 "juice"<br />
 B'z LIVE-GYM 2003 "BIG MACHINE"<br />
 B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月30日.md" title="wikilink">11月30日</a></p></td>
-<td><p>通過將ID輸入至同梱的「B'z / iTunes Custom Card」，可從<a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes下載到截至</a>2006年5月31日為止的演唱會影像。</p></td>
+<td><p>通過輸入同梱的「B'z / iTunes Custom Card」ID，截至2006年5月31日為止，可從<a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes下載到演唱會影像</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/SPLASH!.md" title="wikilink">SPLASH!</a></strong><br />
 [CD+DVD]</p></td>
 <td><p>B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月7日.md" title="wikilink">6月7日</a> (DVD)</p></td>
-<td><p>作為初回限定盤的特典，收錄了3種，分別是「愛のバクダン」（綠色）「パルス」（藍色）「Fever」（黃色）。</p></td>
+<td><p>作為初回限定盤的特典，收錄了3種類，分別為「愛のバクダン」（綠色）「パルス」（藍色）「Fever」（黃色）。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Pleasure&quot;.md" title="wikilink">B'z The Best "ULTRA Pleasure"</a></strong><br />
@@ -2083,14 +2084,14 @@ B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 [2CD+DVD]</p></td>
 <td><p>B'z SHOWCASE 2007 "19" at Zepp Tokyo</p></td>
 <td><p>2008年<a href="../Page/9月17日.md" title="wikilink">9月17日</a> (DVD)</p></td>
-<td><p>SHOWCASE的首次影像作品化。</p></td>
+<td><p>成為了SHOWCASE的首次影像作品化。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">MAGIC</a></strong><br />
 [CD+DVD]</p></td>
 <td><p>B'z SHOWCASE 2009 -B'z In Your Town-</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/11月18日.md" title="wikilink">11月18日</a> (DVD)</p></td>
-<td><p>作為紀錄片影像，收錄了部分『B'z SHOWCASE 2009』『SUMMER SONIC 09』的模樣。</p></td>
+<td><p>作為紀錄片影像，收錄了一部分『B'z SHOWCASE 2009』『SUMMER SONIC 09』的模樣。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md" title="wikilink">GO FOR IT, BABY <small>-キオクの山脈-</small></a></strong><br />
@@ -2111,7 +2112,7 @@ B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 [CD+DVD]</p></td>
 <td><p>B'z LIVE-GYM 2012 -Into Free- EXTRA</p></td>
 <td><p>2015年<a href="../Page/3月4日.md" title="wikilink">3月4日</a> (DVD)</p></td>
-<td><p>作為初回限定盤的特典，將來自2012年全美巡演後舉行的日本追加公演『B'z LIVE-GYM 2012 -Into Free- EXTRA』大阪城展演廳全19曲完整收錄。</p></td>
+<td><p>作為初回限定盤的特典，將來自2012年全美巡演後舉行的日本追加公演『B'z LIVE-GYM 2012 -Into Free- EXTRA』大阪城展演廳公演全19曲完整收錄。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/DINOSAUR.md" title="wikilink">DINOSAUR</a></strong><br />
@@ -2143,7 +2144,7 @@ B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/3月14日.md" title="wikilink">3月14日</a> (DVD)</p></td>
 <td><p>BMVR-5002 (VHS)<br />
 BMBD-5002 (DVD)</p></td>
-<td><p><a href="../Page/紀錄片.md" title="wikilink">紀錄片</a>作品。收錄了橫濱國際綜合競技場的「Brotherhood」FULL。作為DVD特典收錄了京都会館第一ホール的「JAP THE RIPPER」。<br />
+<td><p><a href="../Page/紀錄片.md" title="wikilink">紀錄片</a>作品。僅在橫濱國際綜合競技場上的「Brotherhood」收錄了FULL。作為DVD特典收錄了在京都會館第一展演廳上的「JAP THE RIPPER」。<br />
 2000年度Oricon公信榜年間音樂VHS榜第1位。</p></td>
 </tr>
 <tr class="even">
@@ -2151,7 +2152,7 @@ BMBD-5002 (DVD)</p></td>
 <td><p>截至1998年為止毅然舉行的演唱會</p></td>
 <td><p>(非售品) (VHS)</p></td>
 <td><p>(不詳)</p></td>
-<td><p>1998年9月毫無預警地向<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party會員寄送的</a>10週年紀念品。成為了B'z的2人會一邊觀看自出道當時起的影像，亦會一邊發表評語，這樣的內容。</p></td>
+<td><p>1998年9月未通知地向<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party會員寄送的</a>10週年紀念品。成為了B'z的2人會邊觀看著自出道當時起的影像，亦會邊發表評語的此般內容。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>B'z Official Bootleg<br />
@@ -2339,11 +2340,11 @@ Hidden Treasure<br />
 4.
 
 5.
-
 6.
-
 7.
+
 8.
+
 9.
 
 10.
@@ -2352,17 +2353,17 @@ Hidden Treasure<br />
 
 12.
 
-13.
+13. 可確認影像作品『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](../Page/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS-.md "wikilink")』。
 
-14.
+14. 可確認影像作品『』。
 
-15. 可確認影像作品『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](../Page/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS-.md "wikilink")』。
+15.
+16.
+17. 「柿落」（）為[日本](../Page/日本.md "wikilink")表演藝術用語，意指一個[劇場落成後的首次公開演出](../Page/劇場_\(建築\).md "wikilink")。
 
-16. 可確認影像作品『』。
-
-17.
 18.
-19. 「柿落」（）為[日本](../Page/日本.md "wikilink")表演藝術用語，意指一個[劇場落成後的首次公開演出](../Page/劇場_\(建築\).md "wikilink")。
+
+19.
 
 20.
 
@@ -2372,15 +2373,15 @@ Hidden Treasure<br />
 
 23.
 
-24.
+24. 當時，是在[TM NETWORK從固定主持的](../Page/TM_NETWORK.md "wikilink")節目「」畢業時所舉行的慶祝活動。B'z與TM NETWORK、[FENCE OF DEFENSE共演](../Page/FENCE_OF_DEFENSE.md "wikilink")。演奏曲為「だからその手を離して」、「it's not a dream」、「ハートも濡れるナンバー」3曲（背景伴奏使用了拔除歌聲與吉他聲的[卡拉OK](../Page/卡拉OK.md "wikilink")伴唱帶）。安可由TM NETWORK、FENCE OF DEFENCE、B'z披露了TMN的「」、「」、FENCE OF DEFENCE的「」。松本參加了「SARA」以外的所有樂曲，稻葉雖主唱了「Come on Let's Dance」，但僅在剩下的2曲途中參加。
 
 25.
 
-26. 當時，是在[TM NETWORK從固定主持的](../Page/TM_NETWORK.md "wikilink")節目「」畢業時所舉行的慶祝活動。B'z與TM NETWORK、[FENCE OF DEFENSE共演](../Page/FENCE_OF_DEFENSE.md "wikilink")。演奏曲為「だからその手を離して」、「it's not a dream」、「ハートも濡れるナンバー」3曲（背景伴奏使用了拔除歌聲與吉他聲的[卡拉OK](../Page/卡拉OK.md "wikilink")伴唱帶）。安可由TM NETWORK、FENCE OF DEFENCE、B'z披露了TMN的「」、「」、FENCE OF DEFENCE的「」。松本參加了「SARA」以外的所有樂曲，稻葉雖主唱了「Come on Let's Dance」，但僅在剩下的2曲途中參加。
+26. [精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")『[B'z The Best "ULTRA Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")』特典DVD，收錄了在雷雨中的「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」演唱會影像。
 
 27.
 
-28. [精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")『[B'z The Best "ULTRA Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")』特典DVD，收錄了在雷雨中的「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」演唱會影像。
+28.
 
 29.
 
@@ -2429,8 +2430,10 @@ Hidden Treasure<br />
 51.
 
 52.
-53.
-54. 2017年僅稻葉作為INABA/SALAS出演。
+
+53. 2017年僅稻葉作為INABA/SALAS出演。
+
+54.
 
 55.
 
@@ -2439,9 +2442,7 @@ Hidden Treasure<br />
 57.
 
 58.
-
 59.
 60.
-61.
 
-62.
+61.

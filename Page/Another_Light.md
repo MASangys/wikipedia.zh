@@ -1,4 +1,4 @@
-《**ANOTHER LIGHT**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")第五張正規專輯，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作、[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2017年9月21日下午6時（[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）通過各大數位音樂網站公開線上音源，實體專輯則於9月22日以兩種版本發售。專輯為[水晶男孩](../Page/水晶男孩.md "wikilink")自1999年9月7日發行第四張正規專輯《[Com' Back](../Page/Com'_Back.md "wikilink")》後\[1\]，時隔18年推出的正規專輯，亦是[水晶男孩](../Page/水晶男孩.md "wikilink")加入[YG娛樂](../Page/YG娛樂.md "wikilink")後首張正規專輯。專輯收錄雙主打歌〈SOMETHING SPECIAL〉與〈SMILE〉，以及七首新曲，其中〈BACK HUG〉由成員[殷志源親自參與歌詞創作](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。
+《**ANOTHER LIGHT**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")第五張正規專輯，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作、[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2017年9月21日下午6時通過各大數位音樂網站公開線上音源，實體專輯則於9月22日以兩種版本發售。專輯為[水晶男孩](../Page/水晶男孩.md "wikilink")自1999年9月7日發行第四張正規專輯《[Com' Back](../Page/Com'_Back.md "wikilink")》後\[1\]，時隔18年推出的正規專輯，亦是[水晶男孩](../Page/水晶男孩.md "wikilink")加入[YG娛樂](../Page/YG娛樂.md "wikilink")後首張正規專輯。專輯收錄雙主打歌〈SOMETHING SPECIAL〉與〈SMILE〉，以及七首新曲，其中〈BACK HUG〉由隊長[殷志源親自參與歌詞創作](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。
 
 ## 背景
 
@@ -10,7 +10,7 @@
 
 自加入[YG娛樂](../Page/YG娛樂.md "wikilink")後，[水晶男孩](../Page/水晶男孩.md "wikilink")所發行的兩張專輯《[2016 Re-ALBUM](../Page/2016_Re-ALBUM.md "wikilink")》及《[THE 20TH ANNIVERSARY](https://zh.wikipedia.org/wiki/THE_20TH_ANNIVERSARY "wikilink")》均收錄組合於90年代發行的人氣歌曲的重新錄音版本，而《**ANOTHER LIGHT**》為首張只收錄新曲的專輯。專輯名稱象徵[水晶男孩](../Page/水晶男孩.md "wikilink")全新的風格和形象，展現不一樣的音樂色彩。同時也意味著[水晶男孩](../Page/水晶男孩.md "wikilink")將超越第一代偶像團體的頭銜，在音樂上不斷成長\[9\]。
 
-專輯收錄了〈SOMETHING SPECIAL〉、〈FEELING〉、〈SMILE〉、〈NEED U〉、〈BACK HUG〉、〈DRINKING PROBLEM〉、〈VERTIGO〉、〈NEVER AGAIN〉、〈IT'S BEEN A WHILE〉九首新曲，並擇定〈**SOMETHING SPECIAL**〉與〈**SMILE**〉作為雙主打歌，展現抒情、[Disco](https://zh.wikipedia.org/wiki/Disco "wikilink")、[Pop和](../Page/流行_\(音樂類型\).md "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")等各種音樂風格。
+專輯收錄了〈SOMETHING SPECIAL〉、〈FEELING〉、〈SMILE〉、〈NEED U〉、〈BACK HUG〉、〈DRINKING PROBLEM〉、〈VERTIGO〉、〈NEVER AGAIN〉、〈IT'S BEEN A WHILE〉九首新曲，並擇定〈**SOMETHING SPECIAL**〉與〈**SMILE**〉作為雙主打歌，展現抒情、[Disco](https://zh.wikipedia.org/wiki/Disco "wikilink")、[Pop和](../Page/流行_\(音樂類型\).md "wikilink")[嘻哈等各種音樂風格](../Page/嘻哈音樂.md "wikilink")。
 
 ## 詞曲創作
 
@@ -18,7 +18,7 @@
 
 另外一首主打歌〈SMILE〉也是由姜旭鎮、LIØN、Diggy攜手完成。該曲突顯出[水晶男孩](../Page/水晶男孩.md "wikilink")的唱功和憂傷且克制的感性，歌詞表達希望在最艱難的時刻留在身邊的戀人能一直帶著笑容。
 
-此外，YG後輩們也為本次專輯助力。專輯第五首曲目〈BACK HUG〉由成員[殷志源與](https://zh.wikipedia.org/wiki/殷志源 "wikilink")[WINNER](../Page/WINNER.md "wikilink")的[宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[李昇勳](../Page/李昇勳.md "wikilink")參與歌詞創作，第六首曲目〈DRINKING PROBLEM〉則由[Tablo負責作詞作曲](https://zh.wikipedia.org/wiki/Tablo "wikilink")、FUTURE BOUNCE負責作曲編曲。
+此外，YG後輩們也為本次專輯助力。專輯第五首曲目〈BACK HUG〉由隊長[殷志源與](https://zh.wikipedia.org/wiki/殷志源 "wikilink")[WINNER](../Page/WINNER.md "wikilink")的[宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[李昇勳](../Page/李昇勳.md "wikilink")參與歌詞創作，第六首曲目〈DRINKING PROBLEM〉則由[Tablo負責作詞作曲](https://zh.wikipedia.org/wiki/Tablo "wikilink")、FUTURE BOUNCE負責作曲編曲。
 
 ## 宣傳與發行
 
@@ -49,6 +49,8 @@
 專輯發行當日，雙主打歌之一的〈SOMETHING SPECIAL〉登上[Mnet](../Page/Mnet媒體.md "wikilink")、[NAVER](../Page/NAVER.md "wikilink")、等主要排行榜實時榜單第一，另一首主打歌〈SMILE〉則位列第二\[18\]。另外在[MelOn](../Page/Melon.md "wikilink")、[Mnet](../Page/Mnet媒體.md "wikilink")、[NAVER](../Page/NAVER.md "wikilink")、、[Genie](https://zh.wikipedia.org/wiki/韓國通訊 "wikilink")、[Bugs六大音樂排行榜上](../Page/Neowiz.md "wikilink")，新專輯中收錄的九首新歌全部進入榜單前列。而此專輯在[香港](../Page/香港.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣海外四個國家與地區的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[iTunes專輯榜上排名第一位](https://zh.wikipedia.org/wiki/iTunes "wikilink")，[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[印尼榜單位居第二](https://zh.wikipedia.org/wiki/印尼 "wikilink")，在[亞洲地區排在榜單最前列](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。在10月首週（發行日期為2017年10月14日），專輯登上[美國音樂榜單](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](../Page/告示牌榜單.md "wikilink")「世界專輯（World Albums）」榜第十位\[19\]。10月11日，主打歌〈SOMETHING SPECIAL〉奪得[Gaon Chart的](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")[數位排行榜及BGM排行榜週榜](../Page/2017年Gaon單曲冠軍作品列表.md "wikilink")（9月24日—9月30日）冠軍，成為二冠王\[20\]。10月26日，〈SOMETHING SPECIAL〉再次奪得[Gaon Chart的](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")[數位排行榜及BGM排行榜兩榜週榜](../Page/2017年Gaon單曲冠軍作品列表.md "wikilink")（10月15日—10月21日）冠軍，其中於BGM排行榜連續四週奪得一位\[21\]。11月9日，[Gaon Chart公佈十月份音樂榜單](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")，〈SOMETHING SPECIAL〉繼週榜後再奪下[數位排行榜及BGM排行榜月榜冠軍](../Page/2017年Gaon單曲冠軍作品列表.md "wikilink")\[22\]。
 
 ## 曲目
+
+**《ANOTHER LIGHT》（主打歌以粗體顯示）**
 
 ## 發行歷史
 

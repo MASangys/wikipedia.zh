@@ -56,6 +56,11 @@
 <td></td>
 <td><p>2015-11-02</p></td>
 </tr>
+<tr class="even">
+<td><p>中文</p></td>
+<td><p>后浪丨北京联合出版公司</p></td>
+<td><p>2019-08-01</p></td>
+</tr>
 </tbody>
 </table>
 

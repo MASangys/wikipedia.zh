@@ -38,8 +38,9 @@
       - [Google Pixel 3a](https://zh.wikipedia.org/wiki/Google_Pixel_3a "wikilink")
       - [Google Pixel 3a XL](https://zh.wikipedia.org/wiki/Google_Pixel_3a_XL "wikilink")
   - Sony
-      - [Sony Xperia XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")
       - [Sony Xperia XZ3](../Page/Sony_Xperia_XZ3.md "wikilink")
+      - [Sony Xperia 10](https://zh.wikipedia.org/wiki/Sony_Xperia_10 "wikilink")
+      - [Sony Xperia 10 Plus](https://zh.wikipedia.org/wiki/Sony_Xperia_10_Plus "wikilink")
       - [Sony Xperia 1](../Page/Sony_Xperia_1.md "wikilink")
   - 华为
       - 华为nova 4
@@ -67,6 +68,7 @@
       - [三星Galaxy Tab A with S Pen](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A_with_S_Pen "wikilink")
       - [三星Galaxy Tab A 10.1(2019)](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A_10.1\(2019\) "wikilink")
       - [三星Galaxy M40](https://zh.wikipedia.org/wiki/三星Galaxy_M40 "wikilink")
+      - [三星Galaxy Tab S6](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S6 "wikilink")
   - 華碩
       - [ASUS Zenfone 6](https://zh.wikipedia.org/wiki/ASUS_Zenfone_6 "wikilink")
   - realme（原OPPO子品牌，后独立）
@@ -171,7 +173,7 @@
       - Vivo X21UD（不限量公测，2019年1月8日）
       - [Vivo NEX](../Page/Vivo_NEX.md "wikilink") A（标准版/屏下指纹版）（不限量公测，2019年1月8日）
       - Vivo NEX S（旗舰版）（不限量公测，2019年1月8日）
-  - 三星 [One UI](../Page/One_UI.md "wikilink") 1.0
+  - 三星 [One UI](../Page/One_UI.md "wikilink") 1.0 \[19\]
       - [三星Galaxy S9+](../Page/三星Galaxy_S9.md "wikilink")（2019年2月14日）
       - [三星Galaxy S9](../Page/三星Galaxy_S9.md "wikilink")（2019年2月14日）
       - [三星Galaxy Note9](../Page/三星Galaxy_Note_9.md "wikilink")（2019年2月20日）
@@ -227,3 +229,5 @@
 17.
 
 18.
+
+19.

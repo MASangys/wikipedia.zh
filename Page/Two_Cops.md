@@ -99,7 +99,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李浩沅" title="wikilink">李浩沅</a></p></td>
+<td><p><a href="../Page/Hoya.md" title="wikilink">Hoya</a></p></td>
 <td><p>獨孤誠赫</p></td>
 <td><p>首爾中央警察署 重案2組 組員。車東卓的新任搭檔，之前在情報科。入職兩年就進入重案組的腦性男，雖然有些不著邊際，但卻發散著可愛的魅力。一眼喜歡高奉淑。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳啟熾" title="wikilink">陳啟熾</a></p></td>

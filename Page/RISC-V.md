@@ -64,7 +64,7 @@ RISC-V 指令集是設計來給各式各樣的用途使用的，而它支援三�
 
 設計軟體包括了１個設計編譯器 Chisel，它可把設計編譯成[Verilog](../Page/Verilog.md "wikilink")代碼. 網站上還有測試用的參考資料可以用來驗證設計的正確性。
 
-RISC-V目前提供的軟體有 [GNU Compiler Collection](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink") (GCC) toolchain (具有偵錯器 GDB)、一套 [LLVM](../Page/LLVM.md "wikilink") toolchain、[OVPsim模擬器](https://zh.wikipedia.org/wiki/OVPsim "wikilink")（以及RISC-V快速處理器模式的軟體參考庫）、Spike 摸擬器，以及一套在[QEMU](../Page/QEMU.md "wikilink")上運行的模擬器。
+RISC-V目前提供的軟體有 [GNU Compiler Collection](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink") (GCC) toolchain (具有偵錯器 GDB)、一套 [LLVM](../Page/LLVM.md "wikilink") toolchain、[OVPsim模擬器](https://zh.wikipedia.org/wiki/OVPsim "wikilink")（以及RISC-V快速處理器模式的軟體參考庫）、Spike 模擬器，以及一套在[QEMU](../Page/QEMU.md "wikilink")上運行的模擬器。
 
 作業系統的支援包括 [Linux](../Page/Linux.md "wikilink") 核心、[FreeBSD](../Page/FreeBSD.md "wikilink"), 以及 [NetBSD](../Page/NetBSD.md "wikilink")，但是監督模式的指令在2016年11月10日還沒有標準化\[22\]，所以這方面的支援還不是正式的。有一個早期的 RISC-V 的FreeBSD 作業系統已經在2016年2月上傳到開放原始碼社群，而且包含在 FreeBSD 11.0\[23\]\[24\] 。[Debian](../Page/Debian.md "wikilink")\[25\]跟[Fedora](../Page/Fedora.md "wikilink")\[26\]的版本也有人在移植，並且在逐漸穩定中。已經有人做了１個 [U-Boot](https://zh.wikipedia.org/wiki/U-Boot "wikilink") 的移植版本。\[27\]UEFI Spec v2.7 定義了RISC-V UFEI 的規格，而且[惠普](../Page/惠普.md "wikilink")公司的工程師已經做好一個 TianoCore的移植版本，並且將會上傳到開放原始碼社群。已經有人做好了一個 [L4 microkernel family](../Page/L4微内核系列.md "wikilink") 的移植\[28\]。還有一個在網頁上用[JavaScript](../Page/JavaScript.md "wikilink")寫的 RISC-V Linux 系統模擬器\[29\]。
 
@@ -299,6 +299,10 @@ RISC-V 支援多個 CPU 與 thread。其標準記憶體同步模式是「釋放�
 
 基本指令當中包含了最少的支援，使用 fence 指令來保證記憶體存取順序。儘管這很簡單（fence r/rw 提供「獲取」，fence rw/w 提供「釋放」），組合起來還是可以很有效率。
 
+## RISC-V处理器
+
+阿里巴巴旗下半导体公司平头哥发布了它的首款 RISC-V 处理器玄铁 910（XuanTie910），名字取自[金庸](../Page/金庸.md "wikilink")小说《[神雕侠侣](https://zh.wikipedia.org/wiki/神雕侠侣 "wikilink")》。阿里巴巴称它是目前性能最强的 RISC-V 处理器，支持16核，主频 2.5GHz，单核性能达到 7.1 Coremark/MHz。阿里巴巴称其性能突破源自两大创新：一是它采用3发射8执行的复杂乱序执行架构，是业界首个实现每周期 2 条内存访问的 RISC-V 处理器；二是它基于 RISC-V 扩展了 50 余条指令，系统性增强了 RISC-V 的计算、存储和多核等方面能力。\[31\]
+
 ## 参见
 
   - [OpenRISC](https://zh.wikipedia.org/wiki/OpenRISC "wikilink")，以[GNU General Public License授权](../Page/GNU通用公共许可证.md "wikilink")
@@ -372,3 +376,5 @@ RISC-V 支援多個 CPU 與 thread。其標準記憶體同步模式是「釋放�
 28.
 29.
 30.
+
+31.

@@ -2885,7 +2885,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 
   - 音樂人〜ONGAKU-BEAT〜 （，2012年9月29日）
 
-  - （[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")，2012年12月22日）
+  - （[JFN](../Page/JFN.md "wikilink")，2012年12月22日）
 
   - （，2013年1月7日）
 

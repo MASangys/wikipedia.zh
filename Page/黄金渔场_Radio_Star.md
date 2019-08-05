@@ -2005,7 +2005,7 @@
 <tr class="even">
 <td><p>266</p></td>
 <td><p>1月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金俊镐" title="wikilink">金俊镐</a>、、<a href="../Page/張東民.md" title="wikilink">张东民</a>、、</p></td>
+<td><p><a href="../Page/金俊昊.md" title="wikilink">金俊昊</a>、、<a href="../Page/張東民.md" title="wikilink">张东民</a>、、</p></td>
 <td><p>仪式师的叛乱<br />
 （上）</p></td>
 <td><p>圭贤因Super Junior海外演出的关系，未能参加录制。</p></td>
@@ -3413,7 +3413,7 @@
 <tr class="even">
 <td><p>398</p></td>
 <td><p>9月23日</p></td>
-<td><p>、、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜莱</a>、</p></td>
+<td><p>、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜莱</a>、</p></td>
 <td><p>光会说~《口才老手》特辑！！！</p></td>
 <td></td>
 </tr>
@@ -3615,7 +3615,7 @@
 <tr class="odd">
 <td><p>424</p></td>
 <td><p>3月30日</p></td>
-<td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/李東輝_(演員).md" title="wikilink">李东辉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a> (<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>)、</p></td>
+<td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/李東輝_(演員).md" title="wikilink">李东辉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a> (<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>)、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a></p></td>
 <td><p>“你最完美”特辑</p></td>
 <td></td>
 </tr>
@@ -4420,7 +4420,7 @@
 <tr class="even">
 <td><p>581</p></td>
 <td><p>9月5日</p></td>
-<td><p>、、、<a href="https://zh.wikipedia.org/wiki/李昇潤" title="wikilink">李昇潤</a></p></td>
+<td><p>、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、、<a href="https://zh.wikipedia.org/wiki/李昇潤" title="wikilink">李昇潤</a></p></td>
 <td><p>“我我我我 很自由”特輯</p></td>
 <td></td>
 </tr>
@@ -4753,6 +4753,20 @@
 <td><p>7月17日</p></td>
 <td><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a> 、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/吳知恩.md" title="wikilink">吳知恩</a> 、<a href="../Page/李太成.md" title="wikilink">李太成</a></p></td>
 <td><p>“周末小偷”特輯</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>627</p></td>
+<td><p>7月24日</p></td>
+<td><p><a href="../Page/金慶皓.md" title="wikilink">金慶皓</a> 、<a href="../Page/金佳妍.md" title="wikilink">金佳妍</a>、 、</p></td>
+<td><p>“雞皮疙瘩诱发者”特輯</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>628</p></td>
+<td><p>7月31日</p></td>
+<td><p><a href="../Page/前進_(藝人).md" title="wikilink">前進</a> (<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话</a>) 、 (<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>)、 、</p></td>
+<td><p>“绝不后退”特輯</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -89,7 +89,7 @@
 
   - [大都会（终极地球危机前）](http://supermanica.kinlok.nu/wiki/index.php/Metropolis)在SuperManica上
 
-[Category:大都會_(漫畫)](https://zh.wikipedia.org/wiki/Category:大都會_\(漫畫\) "wikilink") [Category:虛構聚居地](https://zh.wikipedia.org/wiki/Category:虛構聚居地 "wikilink") [Category:漫畫中的虛構內容](https://zh.wikipedia.org/wiki/Category:漫畫中的虛構內容 "wikilink") [Category:超人](https://zh.wikipedia.org/wiki/Category:超人 "wikilink")
+[Category:大都會_(漫畫)](https://zh.wikipedia.org/wiki/Category:大都會_\(漫畫\) "wikilink") [Category:DC漫畫地標](https://zh.wikipedia.org/wiki/Category:DC漫畫地標 "wikilink") [Category:漫畫中的虛構內容](https://zh.wikipedia.org/wiki/Category:漫畫中的虛構內容 "wikilink") [Category:超人](https://zh.wikipedia.org/wiki/Category:超人 "wikilink")
 
 1.
 

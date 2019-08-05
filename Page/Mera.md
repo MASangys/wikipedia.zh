@@ -80,9 +80,9 @@
 <tr class="odd">
 <td><p>星妤[22]</p></td>
 <td><p>Shalldy</p></td>
+<td></td>
+<td></td>
 <td><p>舞蹈</p></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -12,7 +12,7 @@ LINE Pay使用[二維碼](../Page/二維碼.md "wikilink")(QR Code)或條碼(Bar
 
 #### 一卡通帳戶
 
-透過與金融機構合作的銀行帳戶連結LINE Pay 一卡通，即可將銀行內資金儲存至LINE Pay 一卡通帳戶內，可用於與實體通路掃描QR Code進行消費，或在好友間進行免手續費轉帳作業。 截至2018年11月28日止，LINE Pay 一卡通合作可支援儲值的銀行為[台北富邦銀行](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")、[高雄銀行](../Page/高雄銀行.md "wikilink")、[新光銀行](https://zh.wikipedia.org/wiki/新光銀行 "wikilink")、[聯邦銀行](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink")、[玉山銀行](https://zh.wikipedia.org/wiki/玉山銀行 "wikilink")、[中國信託銀行](https://zh.wikipedia.org/wiki/中國信託銀行 "wikilink")、[中華郵政](https://zh.wikipedia.org/wiki/中華郵政 "wikilink")、[台灣銀行](https://zh.wikipedia.org/wiki/台灣銀行 "wikilink")、[永豐銀行](https://zh.wikipedia.org/wiki/永豐銀行 "wikilink")。
+透過與金融機構合作的銀行帳戶連結LINE Pay 一卡通，即可將銀行內資金儲存至LINE Pay 一卡通帳戶內，可用於與實體通路掃描QR Code進行消費，或在好友間進行免手續費轉帳作業。 截至2019年7月26日止，LINE Pay 一卡通合作可支援儲值的銀行為[台北富邦銀行](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")、[高雄銀行](../Page/高雄銀行.md "wikilink")、[新光銀行](https://zh.wikipedia.org/wiki/新光銀行 "wikilink")、[聯邦銀行](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink")、[玉山銀行](https://zh.wikipedia.org/wiki/玉山銀行 "wikilink")、[中國信託銀行](https://zh.wikipedia.org/wiki/中國信託銀行 "wikilink")、[中華郵政](https://zh.wikipedia.org/wiki/中華郵政 "wikilink")、[台灣銀行](https://zh.wikipedia.org/wiki/台灣銀行 "wikilink")、[永豐銀行](https://zh.wikipedia.org/wiki/永豐銀行 "wikilink")、[土地銀行](https://zh.wikipedia.org/wiki/土地銀行 "wikilink")。
 
 #### [信用卡](../Page/信用卡.md "wikilink")與[簽帳卡](https://zh.wikipedia.org/wiki/簽帳卡 "wikilink")
 

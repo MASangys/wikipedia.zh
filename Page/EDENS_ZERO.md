@@ -287,7 +287,7 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p>ISBN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-《**Time For The Moon Night**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第六張迷你專輯，由[Source Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[kakao M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2018年4月30日推出，《Time for the Moon Night (밤)》是其同名主打歌。
+《**Time For The Moon Night**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第六張迷你專輯，由[Source Music製作](../Page/Source_Music.md "wikilink")，[kakao M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2018年4月30日推出，《Time for the Moon Night (밤)》是其同名主打歌。
 
 ## 主打歌介紹
 
@@ -161,9 +161,9 @@
 | 實時榜        | 日榜                                |
 | iChart     | **1**                             |
 | Melon      | **1**                             |
-| Mnet       | **1**                             |
-| Bugs       | **1**                             |
 | Genie      | 2                                 |
+| Bugs       | **1**                             |
+| Mnet       | **1**                             |
 | Naver      | **1**                             |
 | Soribada   | 2                                 |
 |            |                                   |
@@ -178,10 +178,10 @@
 
 ## 發行歷史
 
-| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司                                                                  | 發行公司                                                        |
-| ---- | ---------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 全球   | 2018年4月30日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [Source Music](https://zh.wikipedia.org/wiki/Source_Music "wikilink") | [kakao M](https://zh.wikipedia.org/wiki/kakao_M "wikilink") |
-|      |            |                                                                     |                                                                       |                                                             |
+| 發行地區 | 發行日期       | 發行方式                                                                | 唱片公司                                               | 發行公司                                                        |
+| ---- | ---------- | ------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- |
+| 全球   | 2018年4月30日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [Source Music](../Page/Source_Music.md "wikilink") | [kakao M](https://zh.wikipedia.org/wiki/kakao_M "wikilink") |
+|      |            |                                                                     |                                                    |                                                             |
 
 ## 參考資料
 

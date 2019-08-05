@@ -461,7 +461,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p>獅子座</p></td>
 <td><p>B型</p></td>
-<td><p>目前主要活躍於戲劇與廣告演出</p></td>
+<td><p>YOYO家族首位混血兒成員（父親為<a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞人</a>），目前主要活躍於戲劇與廣告演出</p></td>
 <td><p><br />
 藍色</p></td>
 <td></td>

@@ -456,7 +456,7 @@
 <td><p>巡邏連2號 (I)</p></td>
 <td><p>/</p></td>
 <td><p>待公布</p></td>
-<td><p>待公布</p></td>
+<td><p>陳幼文</p></td>
 </tr>
 <tr class="even">
 <td><dl>
@@ -3987,7 +3987,8 @@ Morphin Brace</p></td>
 <td><p>#24</p></td>
 <td></td>
 <td><p>活著回來的約定</p>
-<hr/></td>
+<hr/>
+<p>承諾活著回來</p></td>
 <td><p>魯邦連者<br />
 巡邏連者<br />
 魯邦X/巡邏連X</p></td>
@@ -3999,7 +4000,7 @@ Morphin Brace</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018/07/29</p></td>
-<td></td>
+<td><p>2019/08/04</p></td>
 <td><p>2019/10/12</p></td>
 <td><p>#25</p></td>
 <td></td>

@@ -88,6 +88,16 @@
 <td><p>2018年11月6日[12]</p></td>
 <td><p>ISBN 978-4-06-513561-7</p></td>
 </tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2019年3月6日</p></td>
+<td><p>ISBN 978-4-06-514564-7</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2019年6月6日</p></td>
+<td><p>ISBN 978-4-06-516131-9</p></td>
+</tr>
 </tbody>
 </table>
 

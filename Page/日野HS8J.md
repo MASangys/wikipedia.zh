@@ -34,7 +34,7 @@
 
 <File:2017_Hino_HS8JRVL-UTF_FAE-628.jpg>|[彰化客運](../Page/彰化客運.md "wikilink")FAE-628
 
-  - 台松車體
+  - 台松汽車
 
 <File:基隆市公車處> 2016 HS8JRVL-UTF 262-U6 102.jpg|[基隆市公車處](https://zh.wikipedia.org/wiki/基隆市公車處 "wikilink")262-U6
 

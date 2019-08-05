@@ -2255,11 +2255,12 @@ Focus on ver.<br />
 </tr>
 <tr class="even">
 <td><p>5月13日</p></td>
-<td><p>Highway to Heaven</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=1eekOcpx_iQ">Highway to Heaven<br />
+(NEO CITY Tour Film ver.)</a></p></td>
 <td><p>《NCT ＃127 We Are Superhuman》</p></td>
 <td><p>NCT 127</p></td>
 <td><p>泰一、Johnny、泰容、悠太、道英、在玹、廷祐、Mark、楷燦</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=1eekOcpx_iQ">NEO CITY Tour Film ver.</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>5月24日</p></td>
@@ -2267,6 +2268,22 @@ Focus on ver.<br />
 <td><p><a href="https://www.youtube.com/watch?v=zchp_nlt1eQ">Dance Practice</a></p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月22日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=iFoqGyWhMws">Highway to Heaven (English Ver.)</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月26日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=X-iJZ0gfKPo">BOOM</a></p></td>
+<td><p>《WE BOOM》</p></td>
+<td><p>NCT Dream</p></td>
+<td><p>仁俊、Jeno、楷燦、渽民、辰樂、志晟</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2429,10 +2446,10 @@ Focus on ver.<br />
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p>6月6日</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=ESVsbCkFvG4">Don't Need Your Love</a></p></td>
-<td><p>NCT Dream（缺楷灿）</p></td>
-<td><p>与合唱</p></td>
+<td><p>7月18日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=SvV49SD99DY">Long Flight</a></p></td>
+<td><p>泰容</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -2288,7 +2288,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td><p>666</p></td>
 <td><p>王者榮耀電競<br />
 </p></td>
-<td><p>2018年7月20日</p></td>
+<td><p>2019年7月20日</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/KPL">myTV SUPER節目表</a>／<a href="https://www.vspn.com/">王者榮耀電競網站</a></p></td>
 <td></td>
 </tr>
@@ -2641,8 +2641,8 @@ Travel</p></td>
 <td><p>900</p></td>
 <td><p>國際冠軍盃1台<br />
 </p></td>
-<td><p>2019年8月20日00:00</p></td>
-<td><p>2019年9月30日00:00</p></td>
+<td><p>2019年8月20日06:00</p></td>
+<td><p>2019年8月11日06:00</p></td>
 <td><p>基本頻道</p></td>
 <td><p>直播<a href="https://zh.wikipedia.org/wiki/國際冠軍盃" title="wikilink">國際冠軍盃頻道</a></p></td>
 </tr>

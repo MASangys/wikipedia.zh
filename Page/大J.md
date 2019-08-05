@@ -18,7 +18,9 @@ Jason 於1984年8月16日出生於香港，祖籍[廣東](https://zh.wikipedia.o
 
 2017年2月， 成為香港第一個突破50萬訂閱的Youtuber\[25\]，亦是香港年薪達百萬[港元](../Page/港元.md "wikilink")的YouTuber之一。
 
-2017年3月，宣布第二頻道Hunggy Games正式開始運作\[26\]。 2017年8月5日大J的第二頻道Hunggy Games突破十萬人訂閱。
+2017年3月，宣布第二頻道Hunggy Games正式開始運作\[26\]。
+
+2017年8月5日大J的第二頻道Hunggy Games突破十萬人訂閱。
 
 ### 電視工作
 

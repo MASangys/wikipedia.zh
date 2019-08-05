@@ -10,7 +10,8 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 38%" />
+<col style="width: 27%" />
+<col style="width: 10%" />
 <col style="width: 10%" />
 </colgroup>
 <tbody>
@@ -19,6 +20,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 <td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>國語配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/高庚杓.md" title="wikilink">高庚杓</a><br />
@@ -27,6 +29,7 @@
 <td><p><strong>信光教導所醫務事務官 → 善霖醫院臟器移植中心第四年住院醫生</strong><br />
 1988年生，30歲。有著「鷹之眼」和「神之手」的稱號。因為15年前的事故成為後天性<a href="../Page/學者症候群.md" title="wikilink">學者症候群</a>患者，擁有不帶放大鏡就能看到細小顆粒的能力，但是也有了不能開車的後遺症。為了想要合法復仇而成為醫生，因此放棄成為專門醫生並申請進入信光教導所醫務室。</p></td>
 <td><p><a href="../Page/杜景煜.md" title="wikilink">杜景煜</a></p></td>
+<td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曹在顯.md" title="wikilink">曹在顯</a><br />
@@ -35,6 +38,7 @@
 <td><p><strong>善霖醫院臟器移植中心主任</strong><br />
 1969年生，49歲。世界肝移植領域權威者。徹底的原則主義者。比起權利總是把患者擺在第一位，與想要復仇的姜仁奎站在完全相對的位置。在想要找尋臟器移植中心主任繼任者的時候找到了天才醫生-{姜}-仁奎，卻無法緩解他滿腔想要復仇的憤怒。早發性<a href="../Page/帕金森氏症.md" title="wikilink">帕金森氏症</a>患者。</p></td>
 <td><p><a href="../Page/梁志達.md" title="wikilink">梁志達</a></p></td>
+<td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
@@ -42,6 +46,7 @@
 <td><p><strong>善霖醫院臟器移植中心臟器移植協調師</strong><br />
 1990年生，28歲。高正勳的女兒。長期居住在國外，為了見到母親口中的父親而隻身來到韓國，雖然討厭韓國的種種不合理現象，但又因為感受到父親的可憐而選擇留下來。雖然每件事都和姜仁奎吵吵鬧鬧，但卻從他身上感受到和父親一樣的孤獨感，並與他一起合作。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃紫嫻" title="wikilink">黃紫嫻</a></p></td>
+<td><p><a href="../Page/穆宣名.md" title="wikilink">穆宣名</a></p></td>
 </tr>
 </tbody>
 </table>

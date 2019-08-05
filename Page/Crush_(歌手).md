@@ -640,6 +640,15 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年7月2日</p></td>
+<td><p>Yummy</p></td>
+<td><p>《Nothing Matters》</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

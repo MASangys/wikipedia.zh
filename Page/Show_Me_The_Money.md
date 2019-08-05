@@ -118,7 +118,7 @@ SMTM第四季的导师分别由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean]
 <td><p>2014</p></td>
 <td><p>Show Me The Money 3</p></td>
 <td><p>Show Me The Money 3</p></td>
-<td><p>、、、、、<a href="../Page/Loco.md" title="wikilink">Loco</a>、珍岛狗</p></td>
+<td><p>、、、<a href="../Page/DinDin.md" title="wikilink">DinDin</a>、、<a href="../Page/Loco.md" title="wikilink">Loco</a>、珍岛狗</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>

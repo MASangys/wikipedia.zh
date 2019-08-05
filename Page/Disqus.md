@@ -2,6 +2,8 @@
 
 Disqus在的美國網絡排名中以每月1.44億獨立用戶訪問排行第一\[1\]。[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")、[每日電訊報和](https://zh.wikipedia.org/wiki/每日電訊報 "wikilink")[IGN](../Page/IGN.md "wikilink")和大約75萬個網站使用Disqus為它們的留言系統\[2\]。它和[IntenseDebate](https://zh.wikipedia.org/wiki/IntenseDebate "wikilink")、及競爭。
 
+Disqus在2017年12月5日被收購\[3\]。
+
 ## 參考資料
 
 ## 外部連結
@@ -11,3 +13,4 @@ Disqus在的美國網絡排名中以每月1.44億獨立用戶訪問排行第一\
 
 1.  ["Disqus Network Traffic and Demographic Statistics by Quantcast"](http://www.quantcast.com/p-94WKwgUwZHlfo) . Retrieved October 18, 2011.
 2.  ["The Numbers of Disqus"](http://blog.disqus.com/post/5192492910/the-numbers-of-disqus). May 4, 2011. Retrieved October 18, 2011.
+3.  ["Disqus and Zeta"](https://blog.disqus.com/disqus-and-zeta). Dec 5, 2017. Retrieved July 29, 2019.

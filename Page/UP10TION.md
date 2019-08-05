@@ -356,7 +356,7 @@ UP10TION的官方粉絲名稱為「HONEY10」（） 代表著喜歡的人珍貴�
 | 12月11日             | TBS TV                                                            | 《Fact in star》                                                      | 全體                                                             |                                      |
 | 12月11日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                             |                                      |
 | 12月25日             | [KBS World](../Page/KBS_World.md "wikilink")                      | 《K-RUSH 3》                                                          | 全體                                                             |                                      |
-| 2019年              | 5月3日                                                              | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")               | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》         | 偉、宇信                                 |
+| 2019年              | 5月3日                                                              | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")               | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》         | 鎮赫、宇信                                |
 
 ### 廣播節目
 

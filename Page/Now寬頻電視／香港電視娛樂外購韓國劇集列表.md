@@ -2227,7 +2227,7 @@
 <a href="../Page/金志秀.md" title="wikilink">金志秀</a></p></td>
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
 <td><p>[252][253]</p></td>
 </tr>
 <tr class="odd">
@@ -2240,7 +2240,7 @@
 <a href="../Page/高斗心.md" title="wikilink">高斗心</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+20（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
 <td><p>[254][255]</p></td>
 </tr>
 <tr class="even">
@@ -2302,8 +2302,9 @@
 <a href="../Page/金瑞亨.md" title="wikilink">金瑞亨</a></p></td>
 <td></td>
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-22（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[264][265]</p></td>
+22（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
+30（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
+<td><p>[264][265][266]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月11日</p></td>
@@ -2315,7 +2316,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 （<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[266][267]</p></td>
+<td><p>[267][268]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2639,3 +2640,4 @@
 265.
 266.
 267.
+268.

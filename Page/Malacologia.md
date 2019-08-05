@@ -13,7 +13,7 @@
 ## 外部連結
 
   -
-[Category:生物學期刊](https://zh.wikipedia.org/wiki/Category:生物學期刊 "wikilink") [Category:Publications_established_in_1962](https://zh.wikipedia.org/wiki/Category:Publications_established_in_1962 "wikilink") [Category:English-language_journals](https://zh.wikipedia.org/wiki/Category:English-language_journals "wikilink")
+[Category:贝类学期刊](https://zh.wikipedia.org/wiki/Category:贝类学期刊 "wikilink") [Category:Publications_established_in_1962](https://zh.wikipedia.org/wiki/Category:Publications_established_in_1962 "wikilink") [Category:英语期刊](https://zh.wikipedia.org/wiki/Category:英语期刊 "wikilink")
 
 1.
 2.

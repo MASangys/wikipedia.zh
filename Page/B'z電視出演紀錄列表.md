@@ -1082,7 +1082,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <tr class="even">
 <td><p>2003年6月28日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/JFN" title="wikilink">JFN</a> (<a href="https://zh.wikipedia.org/wiki/TOKYO_FM" title="wikilink">TOKYO FM</a>)</p></td>
+<td><p><a href="../Page/JFN.md" title="wikilink">JFN</a> (<a href="https://zh.wikipedia.org/wiki/TOKYO_FM" title="wikilink">TOKYO FM</a>)</p></td>
 <td><p>睽違8年在廣播電台直播登場。</p></td>
 <td></td>
 <td></td>

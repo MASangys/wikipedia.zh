@@ -2,7 +2,7 @@
 
 ## 概述
 
-[Source Music在](https://zh.wikipedia.org/wiki/Source_Music "wikilink")2017年11月28日表示，GFriend將於2018年1月6日、7日在首爾奧林匹克公園奧林匹克Hall舉行首次單獨演唱會“Season of GFRIEND”，並通過官方SNS公開了演唱會海報。\[1\]門票銷售從12月8日開始，當中首爾場門票更已全部售罄，演唱會演出了[GFRIEND](../Page/GFRIEND.md "wikilink")的出道迷你專輯《[Season of Glass](../Page/Season_of_Glass.md "wikilink")》、五張迷你專輯《[Flower Bud](../Page/Flower_Bud.md "wikilink")》、《[Snowflake](../Page/Snowflake.md "wikilink")》、《[The Awakening](../Page/The_Awakening.md "wikilink")》、《[PARALLEL](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》、《[Rainbow](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》及一張正規專輯《[L.O.L](../Page/L.O.L.md "wikilink")》的大部分曲目。以[首爾](../Page/首爾.md "wikilink")為首站拉開序幕，然後是[臺灣](../Page/臺灣.md "wikilink")、[香港](../Page/香港.md "wikilink")。
+[Source Music在](../Page/Source_Music.md "wikilink")2017年11月28日表示，GFriend將於2018年1月6日、7日在首爾奧林匹克公園奧林匹克Hall舉行首次單獨演唱會“Season of GFRIEND”，並通過官方SNS公開了演唱會海報。\[1\]門票銷售從12月8日開始，當中首爾場門票更已全部售罄，演唱會演出了[GFRIEND](../Page/GFRIEND.md "wikilink")的出道迷你專輯《[Season of Glass](../Page/Season_of_Glass.md "wikilink")》、五張迷你專輯《[Flower Bud](../Page/Flower_Bud.md "wikilink")》、《[Snowflake](../Page/Snowflake.md "wikilink")》、《[The Awakening](../Page/The_Awakening.md "wikilink")》、《[PARALLEL](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》、《[Rainbow](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》及一張正規專輯《[L.O.L](../Page/L.O.L.md "wikilink")》的大部分曲目。以[首爾](../Page/首爾.md "wikilink")為首站拉開序幕，然後是[臺灣](../Page/臺灣.md "wikilink")、[香港](../Page/香港.md "wikilink")。
 
 2018年5月24日，GFRIEND開放預購年初首場專場演唱會《GFRIEND 1st CONCERT - Season of GFRIEND》的 DVD和BLU-RAY\[2\]，並公開演唱會DVD和BLU-RAY預告\[3\]。
 

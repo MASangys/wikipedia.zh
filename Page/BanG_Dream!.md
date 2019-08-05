@@ -721,7 +721,7 @@
 <td><p>湊友希那</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/主唱" title="wikilink">主唱</a></p></td>
 <td></td>
-<td><p>跳岩企鵝!</p></td>
+<td><p>待補充</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/工藤晴香.md" title="wikilink">工藤晴香</a></p></td>
@@ -1809,16 +1809,16 @@
 | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                      | 2017年1月26日 - 4月27日 | 星期三 25:00 - 25:30                                                                                             |                 |
 | [宮城縣](../Page/宮城縣.md "wikilink")                    | [宮城電視台](../Page/宮城電視台.md "wikilink")                        | 2017年1月28日 - 4月29日 | 星期五 26:30 - 27:00                                                                                             |                 |
 | 第二季                                                 |                                                             |                    |                                                                                                               |                 |
-| 東京都                                                 | TOKYO MX                                                    | 2019年1月3日 -        | 星期四 23:00 - 23:30                                                                                             | 『製作委員會參加』/有重播時段 |
+| 東京都                                                 | TOKYO MX                                                    | 2019年1月3日 - 3月28日  | 星期四 23:00 - 23:30                                                                                             | 『製作委員會參加』/有重播時段 |
 | 京都府                                                 | KBS京都                                                       |                    |                                                                                                               |                 |
 | 日本全國                                                | BS11                                                        | 星期四 23:30 - 24:00  | BS放送/[ANIME+](../Page/ANIME+.md "wikilink")                                                                   |                 |
 | AT-X                                                | CS放送/有重播時段                                                  |                    |                                                                                                               |                 |
-| 兵庫縣                                                 | SUN電視台                                                      | 2019年1月4日 -        | 星期四 24:00 - 24:30                                                                                             |                 |
+| 兵庫縣                                                 | SUN電視台                                                      | 2019年1月4日 - 3月29日  | 星期四 24:00 - 24:30                                                                                             |                 |
 | 神奈川縣                                                | 神奈川電視台                                                      | 星期四 25:00 - 25:30  |                                                                                                               |                 |
 | [新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink") | [新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink")                    | 星期四 26:15 - 26:45  |                                                                                                               |                 |
-| [青森縣](../Page/青森縣.md "wikilink")                    | [青森放送](https://zh.wikipedia.org/wiki/青森放送 "wikilink")       | 2019年1月5日 -        | 星期五 25:56 - 26:26                                                                                             |                 |
-| [靜岡縣](../Page/靜岡縣.md "wikilink")                    | [靜岡朝日電視台](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink") | 2019年1月8日 -        | 星期一 25:50 - 26:20                                                                                             |                 |
-| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                        | 2019年1月9日 -        | 星期二 25:35 - 26:05                                                                                             | 有重播時段           |
+| [青森縣](../Page/青森縣.md "wikilink")                    | [青森放送](https://zh.wikipedia.org/wiki/青森放送 "wikilink")       | 2019年1月5日 - 3月30日  | 星期五 25:56 - 26:26                                                                                             |                 |
+| [靜岡縣](../Page/靜岡縣.md "wikilink")                    | [靜岡朝日電視台](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink") | 2019年1月8日 - 4月2日   | 星期一 25:50 - 26:20                                                                                             |                 |
+| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                        | 2019年1月9日 - 4月3日   | 星期二 25:35 - 26:05                                                                                             | 有重播時段           |
 
 #### 日本國外
 
@@ -1878,7 +1878,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/巴哈姆特動畫瘋.md" title="wikilink">巴哈姆特動畫瘋</a></p></td>
-<td><p>2019年1月3日 -</p></td>
+<td><p>2019年1月3日 - 3月28日</p></td>
 <td><p>星期四 23:30 更新</p></td>
 <td><p>網路電視</p></td>
 <td><p>正體中文字幕</p></td>
